@@ -15,3 +15,7 @@ GM / GMY sınavlarına hazırlık için Word kaynaklarından **ders notu** ve **
 - Her soru setinden önce `URETIM-HAFIZASI.md` okunur, set bitince yeni satırlar eklenip commit edilir.
 - Marka yalnızca "Gümrük Koçu - Ufuk Çetintaş".
 - Kullanıcı kök klasöre yeni dosya yüklerse: `kaynaklar/`a taşı, metnini `kaynaklar/metin/`e çıkar, `KAYNAK-LISTESI.md`yi güncelle.
+
+## Kullanıcı tercihleri
+- **Konu kapsamı serbest:** Sınav kitapçığı modelinde set üretilirken kitapçıktaki konu dağılımıyla sınırlı kalınmaz; `kaynaklar/` içindeki diğer konulardan da (ör. kabotaj, özet beyan, sınır ticareti, ihracat sayılan satış ve teslimler, e-ihracat, dış ticaret sermaye şirketi, fuar tebliği, bedelsiz ihracat, telafi edici vergi) soru sorulabilir. Kaynakta olmayan bilgi kuralı değişmez.
+- Kitapçık soruları kopyalanmaz; aynı konu sorulursa farklı hüküm seçilir.
