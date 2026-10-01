@@ -80,6 +80,12 @@ Word kaynaklarının listesi. Her dosyanın düz metin hâli `metin/` klasörün
 | `ithalatta_ilave_gumruk_vergisi_uygulanmasina_iliskin_karar.doc` | 1.608 |
 | `yurt_disinda_fuar_duzenlenmesine_ve_degerlendirilmesine_iliskin_teblig_2010-5.doc` | 6.104 |
 
+## C. Genel kültür
+
+| Dosya | Kelime |
+|---|---:|
+| `Canli_7_24_Genel_Kultur_Kitabi.pdf` (268 sayfa) | 45.080 |
+
 ## Notlar
 
 - Toplam 68 dosya. yaklaşık 471.832 kelime.
