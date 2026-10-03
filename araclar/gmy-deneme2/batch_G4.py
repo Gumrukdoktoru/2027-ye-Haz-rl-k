@@ -1,0 +1,416 @@
+# GMY Deneme Sınavı 2 — Bölüm G4 (Gümrük: ekonomik etkili rejimler, transit, ihracat vb.) — 20 soru
+Q = [
+
+# ---------------- DAHİLDE İŞLEME (4) ----------------
+dict(
+konu="Dahilde İşleme",
+kalip="BOŞLUK",
+z="K",
+madde="GK 108",
+cek="Teminatla geçici ithal edilip işlem görmüş ürün olarak ihraçta teminat iadesi şartlı muafiyet; tahsil edilen vergilerin geri verilmesi geri ödeme sistemidir.",
+kok=[
+"4458 sayılı Gümrük Kanunu'nun dahilde işleme rejimine ilişkin hükümlerine göre;",
+"Serbest dolaşımda olmayan eşyanın vergileri teminata bağlanarak geçici olarak ithal edilmesi ve işlem görmüş ürünler şeklinde ihracı halinde teminatın iade olunması yoluyla rejimden yararlanılmasına ……; serbest dolaşımda bulunan eşyanın işlem görmüş ürünlerin üretiminde kullanılarak ihraç edilmesi halinde, serbest dolaşıma girişi esnasında tahsil edilmiş ithalat vergilerinin geri verilmesi yoluyla rejimden yararlanılmasına …… denir.",
+"Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?",
+],
+d="Şartlı muafiyet sistemi – geri ödeme sistemi",
+c=[
+"Geri ödeme sistemi – şartlı muafiyet sistemi",
+"Şartlı muafiyet sistemi – standart değişim sistemi",
+"Gümrük kontrolü altında işleme – geri ödeme sistemi",
+"Geçici ithalat – şartlı muafiyet sistemi",
+],
+g="Gümrük Kanunu'na göre serbest dolaşımda olmayan eşyanın vergileri teminata bağlanarak geçici ithal edilmesi ve işlem görmüş ürün olarak ihracında teminatın iade olunması şartlı muafiyet sistemidir. Serbest dolaşımdaki eşyanın işlenip ihracı halinde serbest dolaşıma girişte tahsil edilmiş ithalat vergilerinin geri verilmesi ise geri ödeme sistemidir. Tuzak, iki sistemin yer değiştirilmesi ve hariçte işleme rejimine ait standart değişim sisteminin çeldirici olarak kullanılmasıdır. Bu nedenle doğru cevap 'Şartlı muafiyet sistemi – geri ödeme sistemi' seçeneğidir. (MD GK 108)",
+kanit="32-DAHİLDE İŞLEME.txt | Eşyanın işlem görmüş ürünler şeklinde ihracı halinde, teminat iade olunur. Eşyanın bu şekilde dahilde işleme rejiminden yararlanmasına şartlı muafiyet sistemi denir.",
+cikmis="2021/21; 2023/65; 2023/99; 2024/51; 2025/64",
+),
+
+dict(
+konu="Dahilde İşleme",
+kalip="DOĞRU",
+z="Z",
+madde="DİR Tebliği (İhracat 2006/12) 33",
+cek="Telafi edici vergi, ihracat beyannamesinin tescil tarihindeki TCMB döviz satış kuru üzerinden hesaplanarak ihracat esnasında ödenir.",
+kok=[
+"Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre şartlı muafiyet sistemi kapsamında ödenmesi gereken telafi edici vergiye ilişkin aşağıdakilerden hangisi doğrudur?",
+],
+d="İhracata ilişkin gümrük beyannamesinin tescil tarihindeki TCMB döviz satış kuru üzerinden hesaplanarak ihracat esnasında ödenir.",
+c=[
+"İthalata ilişkin gümrük beyannamesinin tescil tarihindeki TCMB döviz satış kuru üzerinden hesaplanarak ithalat esnasında ödenir.",
+"İhracata ilişkin gümrük beyannamesinin tescil tarihindeki TCMB döviz alış kuru üzerinden hesaplanarak belge kapatma aşamasında ödenir.",
+"İşlem görmüş ürünün elde edilmesinde kullanılan vergiye konu eşyanın tespitinde firma beyanına itibar edilmez, gümrük idaresinin tespiti esas alınır.",
+"Üçüncü ülke menşeli eşya kullanılarak elde edilip Avrupa Topluluğuna ihraç edilen harp araç ve gereçleri ile bunların yedek parçaları için de aranır.",
+],
+g="Tebliğe göre telafi edici vergi, serbest bölgelerden yapılan satışlar dahil ihracata ilişkin gümrük beyannamesinin tescil tarihindeki TCMB döviz satış kuru ve bu tarihte ithalat rejiminde belirtilen gümrük vergisi üzerinden hesaplanarak ihracat esnasında ödenir. İthalat beyannamesi tarihi, döviz alış kuru ve belge kapatma aşaması bu kuralı bozan tuzaklardır. Vergiye konu eşyanın tespitinde firma beyanı esas alınır; AT'ye ihraç edilen harp araç ve gereçleri için ise telafi edici vergi aranmaz. Bu nedenle doğru cevap ihracat beyannamesinin tescil tarihindeki döviz satış kurunu belirten seçenektir. (MD DİR Tebliği 33)",
+kanit="32-DAHİLDE İŞLEME.txt | ihracata ilişkin gümrük beyannamesinin tescil tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz satış kuru ve bu tarihte ithalat rejiminde belirtilen gümrük vergisi ve varsa toplu konut fonu üzerinden hesaplanarak ihracat esnasında ödenir.",
+cikmis="2021/89; 2022/46; 2024/54",
+),
+
+dict(
+konu="Dahilde İşleme",
+kalip="ÖNERMELİ",
+z="Z",
+madde="GK 110; GK 111",
+cek="Ticari olmayan DİR ithalatında yurt dışı yerleşiğe izin verilebilir; süre izin tarihinden başlar; önceden ihracatta süre ihracat beyannamesi tescilinden başlar; (c) hallerini Cumhurbaşkanı belirler.",
+kok=[
+"4458 sayılı Gümrük Kanunu'nun dahilde işleme izni ve rejim sürelerine ilişkin hükümleri ile ilgili olarak;",
+"I. Ticari nitelikte olmayan dahilde işleme amaçlı ithalat için Türkiye Gümrük Bölgesi dışında yerleşik kişilere de izin verilebilir.",
+"II. Serbest dolaşımda bulunmayan eşya için süre, dahilde işleme rejimine ilişkin iznin alındığı tarihten itibaren işlemeye başlar ve bitimin rastladığı ayın son günü sona erer.",
+"III. İthal eşyasının ithalinden önce eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ihracı halinde, ithal eşyasının rejim beyanı için gereken süre ilk ithalat beyannamesinin tescil tarihinden itibaren işlemeye başlar.",
+"IV. Türkiye Gümrük Bölgesindeki üreticilerin temel ekonomik çıkarları olumsuz etkilenmeksizin rejimin ihracat için en iyi imkânların yaratılmasına yardımcı olduğu halleri belirlemeye Ticaret Bakanlığı yetkilidir.",
+"Yukarıdaki ifadelerden hangileri doğrudur?",
+],
+d="I ve II",
+c=["Yalnız I", "I ve III", "II ve IV", "I, II ve IV"],
+g="Gümrük Kanunu'na göre dahilde işleme izni kural olarak Türkiye Gümrük Bölgesinde yerleşik kişilere verilir; ancak ticari nitelikte olmayan dahilde işleme amaçlı ithalatta bölge dışında yerleşik kişilere de izin verilebilir (I doğru). Süre, serbest dolaşımda bulunmayan eşya için iznin alındığı tarihten itibaren işler ve bitimin rastladığı ayın son günü sona erer (II doğru). Önceden ihracat durumunda ithal eşyasının rejim beyanı süresi ilk ithalat beyannamesinden değil, eşdeğer eşyadan elde edilen ürünlerin ihracat beyannamesinin tescil tarihinden itibaren işler (III yanlış). Üreticilerin temel ekonomik çıkarlarına ilişkin halleri belirlemeye Cumhurbaşkanı yetkilidir (IV yanlış). Bu nedenle doğru cevap 'I ve II' seçeneğidir. (MD GK 110-111)",
+kanit="32-DAHİLDE İŞLEME.txt | Ticari nitelikte olmayan dahilde işleme amaçlı ithalat için Türkiye Gümrük Bölgesi dışında yerleşik kişilere de izin verilmesi mümkündür.",
+cikmis="2024/50; 2025/66; 2025/67",
+),
+
+dict(
+konu="Dahilde İşleme",
+kalip="ŞART",
+z="O",
+madde="DİR Tebliği (İhracat 2006/12) 6; GY 352",
+cek="Eşdeğer eşya olarak kullanılan tarım ürünlerinde ithal eşyasıyla aynılık tespiti münhasıran on iki'li bazda GTİP'e göre yapılır.",
+kok=[
+"Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre şartlı muafiyet sistemi çerçevesinde eşdeğer eşya olarak kullanılan tarım ürünlerinin ithal eşyası ile ticari kalite, teknik özellik ve niteliği itibarıyla aynı olduğuna yönelik tespit aşağıdakilerden hangisine göre yapılır?",
+],
+d="Münhasıran on iki'li bazda gümrük tarife istatistik pozisyonuna göre",
+c=[
+"Asgari sekiz'li bazda gümrük tarife istatistik pozisyonuna göre",
+"Altı'lı bazda tarife alt pozisyonuna göre",
+"Gümrük idaresince alınacak numunenin tahlil sonucuna göre",
+"Firmanın kapasite raporunda yer alan teknik bilgilere göre",
+],
+g="Tebliğe göre eşdeğer eşya kural olarak ithal eşyası ile asgari sekiz'li bazda gümrük tarife istatistik pozisyonu, ticari kalite ve teknik özellikleri itibarıyla aynı olan serbest dolaşımdaki eşyadır. Ancak eşdeğer eşya olarak kullanılan tarım ürünlerinde aynılık tespiti münhasıran on iki'li bazda gümrük tarife istatistik pozisyonuna göre yapılır. Tuzak, sanayi ürünleri için geçerli olan sekiz'li baz kuralıdır. Bu nedenle doğru cevap 'Münhasıran on iki'li bazda gümrük tarife istatistik pozisyonuna göre' seçeneğidir. (MD DİR Tebliği 6; GY 352)",
+kanit="32-DAHİLDE İŞLEME.txt | eşdeğer eşya olarak kullanılan tarım ürünlerinin ithal eşyası ile ticari kalite, teknik özellik ve niteliği itibariyle aynı olduğuna yönelik tespit, münhasıran 12 (oniki)'libazda gümrük tarife istatistik pozisyonuna göre yapılır.",
+cikmis="2023/55; 2025/63",
+),
+
+# ---------------- GEÇİCİ İTHALAT (4) ----------------
+dict(
+konu="Geçici İthalat",
+kalip="HESAP",
+z="O",
+madde="GK 133",
+cek="Kısmi muafiyette her ay için tescil tarihindeki vergilerin %3'ü alınır; bir aydan az süreler tam ay sayılır.",
+kok=[
+"Kısmi muafiyet suretiyle geçici ithalat rejimine tabi tutulan bir makine, geçici ithalat rejimine ilişkin beyannamenin tescil tarihinde serbest dolaşıma girmiş olsaydı 200.000 TL ithalat vergisi alınacaktı. Makine rejimden dört ay on gün süreyle yararlanmıştır.",
+"Buna göre 4458 sayılı Gümrük Kanunu uyarınca bu makine için alınacak ithalat vergileri tutarı kaç TL'dir?",
+],
+d="30.000",
+c=["24.000", "26.000", "36.000", "6.000"],
+g="Gümrük Kanunu'na göre kısmi muafiyet suretiyle geçici ithalatta her ay için alınacak ithalat vergileri, rejime ilişkin beyannamenin tescil tarihinde eşya serbest dolaşıma girmiş olsaydı alınacak vergilerin %3'üdür ve bir aydan az süreler tam ay olarak değerlendirilir. Dört ay on gün beş ay sayılır: 200.000 × %3 × 5 = 30.000 TL. 24.000 TL artan günlerin dikkate alınmadığı, 26.000 TL günlerin kıst hesaplandığı yanlış hesaplardır. Bu nedenle doğru cevap '30.000' seçeneğidir. (MD GK 133)",
+kanit="34-GEÇİCİ İTHALAT.txt | Kısmi muafiyet suretiyle geçici ithalat rejimine tabi tutulan eşyadan her ay için alınacak ithalat vergileri, geçici ithalat rejimine ilişkin beyannamenin tescil tarihinde, söz konusu eşyanın serbest dolaşıma girmiş olması halinde alınacak vergiler tutarının % 3'ü olarak tespit edilir.",
+cikmis="2021/53; 2023/37; 2024/72",
+),
+
+dict(
+konu="Geçici İthalat",
+kalip="ÖNERMELİ",
+z="ÇZ",
+madde="Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar 36, 39, 40, 43",
+cek="Rejim eşyası kiralanamaz/satılamaz (ticari hava taşıtı istisna); tüketilebilir eşya tam/kısmi muafiyetten yararlanamaz; üretim araçlarında süre altı ay; ekonomik etkisiz eşyada üç ay uzatılamaz.",
+kok=[
+"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar'ın geçici ithalat rejimine ilişkin hükümleri ile ilgili olarak;",
+"I. Rejim kapsamındaki eşya kiralanamaz, ödünç verilemez, bir başkasının kullanımına bırakılamaz ve satılamaz; ancak ticari kullanıma mahsus hava taşıtları izin süresi içinde bir başka hava yolu şirketine kiralanabilir.",
+"II. Tüketilebilir nitelikteki eşya tam muafiyetten yararlandırılmaz; ancak kısmi muafiyet suretiyle rejimden yararlanabilir.",
+"III. Tamirci veya tedarikçi tarafından bedelsiz gönderilen ve tamir ya da teslim süresince kullanılacak üretim araçlarının rejim altında kalabileceği süre altı aydır.",
+"IV. Önemli ekonomik etkisi olmayan eşyaya verilecek süre üç ayı geçemez; ancak haklı gerekçelerle bir defaya mahsus uzatılabilir.",
+"Yukarıdaki ifadelerden hangileri doğrudur?",
+],
+d="I ve III",
+c=["I ve II", "II ve IV", "Yalnız III", "I, III ve IV"],
+g="Karar'a göre geçici ithalat rejimi kapsamındaki eşya kiralanamaz, ödünç verilemez, başkasının kullanımına bırakılamaz ve satılamaz; ticari kullanıma mahsus hava taşıtlarının izin süresi içinde başka bir hava yolu şirketine kiralanması ise istisnadır (I doğru). Tamir veya siparişe konu üretim araçları için süre altı aydır (III doğru). Tüketilebilir nitelikteki eşya tam muafiyetten yararlandırılmayacağı gibi kısmi muafiyetten de yararlandırılmaz (II yanlış). Önemli ekonomik etkisi olmayan eşyaya verilecek süre hiçbir koşulda üç ayı geçemez ve süre uzatım talepleri karşılanmaz (IV yanlış). Bu nedenle doğru cevap 'I ve III' seçeneğidir. (MD Karar 36, 39, 40, 43)",
+kanit="34-GEÇİCİ İTHALAT.txt | Bu eşyaya verilecek süre hiçbir koşulda üç ayı geçemez ve bu eşyaya ilişkin süre uzatım talepleri karşılanmaz.",
+cikmis="2022/60; 2024/69; 2024/70",
+),
+
+dict(
+konu="Geçici İthalat",
+kalip="BOŞLUK",
+z="ÇK",
+madde="GK 128",
+cek="Geçici ithalat: serbest dolaşıma girmemiş eşyanın vergilerden tamamen ya da kısmen muaf kullanılıp olağan yıpranma dışında değişmeden yeniden ihracı.",
+kok=[
+"“Geçici ithalat rejimi, serbest dolaşıma girmemiş eşyanın ithalat vergilerinden …… muaf olarak ve ticaret politikası önlemlerine tabi tutulmaksızın, Türkiye Gümrük Bölgesi içinde kullanılması ve bu kullanım sırasındaki …… dışında, herhangi bir değişikliğe uğramaksızın yeniden ihracına olanak sağlayan hükümlerin uygulandığı rejimdir.”",
+"4458 sayılı Gümrük Kanunu'nda yer alan yukarıdaki tanımda boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?",
+],
+d="tamamen ya da kısmen – olağan yıpranma",
+c=[
+"yalnızca tamamen – olağan yıpranma",
+"tamamen ya da kısmen – mutat elleçleme işlemleri",
+"yalnızca kısmen – olağan bakım faaliyeti",
+"tamamen ya da kısmen – işleme faaliyetleri",
+],
+g="Gümrük Kanunu'na göre geçici ithalat rejimi, serbest dolaşıma girmemiş eşyanın ithalat vergilerinden tamamen ya da kısmen muaf olarak ve ticaret politikası önlemlerine tabi tutulmaksızın Türkiye Gümrük Bölgesinde kullanılması ve bu kullanım sırasındaki olağan yıpranma dışında herhangi bir değişikliğe uğramaksızın yeniden ihracını sağlayan rejimdir. Rejim hem tam hem kısmi muafiyetle uygulanabilir; işleme faaliyeti ise dahilde işleme ve gümrük kontrolü altında işleme rejimlerinin unsurudur. Bu nedenle doğru cevap 'tamamen ya da kısmen – olağan yıpranma' seçeneğidir. (MD GK 128)",
+kanit="34-GEÇİCİ İTHALAT.txt | Türkiye Gümrük Bölgesi içinde kullanılması ve bu kullanım sırasındaki olağan yıpranma dışında, herhangi bir değişikliğe uğramaksızın yeniden ihracına olanak sağlayan hükümlerin uygulandığı rejimdir.",
+cikmis="2021/45; 2021/75; 2023/54; 2025/91",
+),
+
+dict(
+konu="Geçici İthalat",
+kalip="SÜRE",
+z="K",
+madde="GK 130",
+cek="Özel süreler saklı kalmak üzere geçici ithalatta rejim altında kalma süresi azami yirmi dört aydır; idare ilgilinin kabulüyle daha kısa süre saptayabilir.",
+kok=[
+"4458 sayılı Gümrük Kanunu'na göre, Cumhurbaşkanınca tespit edilecek özel süreler saklı kalmak üzere, eşyanın geçici ithalat rejimi altında kalma süresine ilişkin aşağıdakilerden hangisi doğrudur?",
+],
+d="Azami yirmi dört aydır; gümrük idareleri ilgili kişinin de kabul etmesiyle daha kısa süre saptayabilir.",
+c=[
+"Azami yirmi dört aydır; gümrük idareleri bu süreden daha kısa bir süre saptayamaz.",
+"Azami on iki aydır; gümrük idareleri ilgili kişinin de kabul etmesiyle daha kısa süre saptayabilir.",
+"Azami otuz altı aydır; gümrük idareleri ilgili kişinin talebi aranmaksızın daha kısa süre saptayabilir.",
+"Azami on sekiz aydır; süre hiçbir şekilde uzatılamaz.",
+],
+g="Gümrük Kanunu'na göre özel süreler saklı kalmak üzere eşyanın geçici ithalat rejimi altında kalma süresi azami yirmi dört ay olarak belirlenir; gümrük idareleri ilgili kişinin de kabul etmesiyle daha kısa süreler saptayabilir. İstisnai hallerde ve ilgilinin talebi üzerine sürelerin uzatılması da mümkündür. Bu nedenle doğru cevap 'Azami yirmi dört aydır; gümrük idareleri ilgili kişinin de kabul etmesiyle daha kısa süre saptayabilir.' seçeneğidir. (MD GK 130)",
+kanit="34-GEÇİCİ İTHALAT.txt | eşyanın geçici ithalat rejimi altında kalma süresi azami yirmidört ay olarak belirlenir. Bununla birlikte, gümrük idareleri ilgili kişinin de kabul etmesiyle daha kısa süreler saptayabilir.",
+cikmis="",
+),
+
+# ---------------- TRANSİT + TIR (3) ----------------
+dict(
+konu="Transit", kalip="EŞLEŞTİRME", z="O",
+madde="GY 213/1",
+cek="Manifesto yalnız deniz ve havayolunda basitleştirilmiş usulde, Form 302 NATO kuvvetlerinde, sözlü beyan formu ulusal transitte transit beyanıdır.",
+kok=["Gümrük Yönetmeliği'ne göre transit beyanı olarak kullanılan belgeler ile kullanıldıkları kapsam arasındaki aşağıdaki eşleştirmelerden hangisi yanlıştır?"],
+d="Manifesto – Karayolu ile yapılan taşımalarda basitleştirilmiş usul",
+c=["Form 302 – Kuzey Atlantik Anlaşmasına taraf devletlerin kuvvetlerinin statüsüne ilişkin sözleşme kapsamındaki taşımalar",
+   "Sözlü beyan formu – Ulusal transit rejimi",
+   "CIM taşıma belgesi – Demiryolu ile yapılan taşımalarda basitleştirilmiş usul",
+   "Transit refakat belgesi – Ortak ve ulusal transit rejimi"],
+g="Gümrük Yönetmeliği'ne göre transit beyanı olarak ortak ve ulusal transit rejimi çerçevesinde transit refakat belgesi, TIR karnesi, ATA karnesi, Kuzey Atlantik Anlaşmasına taraf devletlerin kuvvetlerinin statüsüne ilişkin sözleşmeyle öngörülen Form 302, demiryolu taşımalarında basitleştirilmiş usulde CIM taşıma belgesi, denizyolu ve havayolu taşımalarında basitleştirilmiş usulde manifesto ve ulusal transit rejiminde sözlü beyan formu kullanılır. Manifesto yalnızca denizyolu ve havayolu taşımaları için öngörülmüştür; karayolu taşımalarında basitleştirilmiş usulde manifesto transit beyanı olarak kullanılmaz. Bu nedenle doğru cevap 'Manifesto – Karayolu ile yapılan taşımalarda basitleştirilmiş usul' seçeneğidir. (MD GY 213/1)",
+kanit="20-TRANSİT REJİMİ.txt | e) Denizyolu ve havayolu ile taşımalara ilişkin basitleştirilmiş usulde manifesto, f) Ulusal transit rejiminde, 220 nci maddenin birinci fıkrası çerçevesinde Ek-22'de yer alan sözlü beyan formu,",
+cikmis="2024/59; 2025/73; 2022/75"),
+
+dict(
+konu="Transit",
+kalip="YANLIŞ",
+z="O",
+madde="GK 84, 88; GY 213",
+cek="Transit rejimi eşya ve belgelerin varış idaresine sunulmasıyla sona erer; karşılaştırma sonrası ibra edilir; 30 günde sunulmayan beyan reddedilir.",
+kok=[
+"4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin transit rejiminin işleyişi ve sona ermesine ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?",
+],
+d="Transit rejimi, eşyanın hareket gümrük idaresince serbest bırakılmasıyla sona erer.",
+c=[
+"Hareket ve varış gümrük idarelerindeki bilgi ve belgelerin karşılaştırılması sonucunda rejimin usulüne uygun olarak sonlandırıldığı belirlenirse rejim ibra edilir.",
+"Sistem üzerinden yapılan ve beyan tarihinden itibaren otuz gün içinde kabul işlemi için hareket gümrük idaresine sunulmayan transit beyanları reddedilir.",
+"Hareket gümrük idaresince kabul işlemi yapılmayan transit beyanlarının reddedilmesi durumunda usulsüzlük cezası uygulanmaz.",
+"Transit rejimine tabi eşya, şüphe veya ihbar durumları hariç olmak üzere varış gümrük idaresine kadar muayene edilmeksizin sevk edilir.",
+],
+g="Gümrük Kanunu'na göre transit rejimi, eşya ve gerekli belgeler rejimi düzenleyen hükümlere uygun olarak varış gümrük idaresine sunulduğunda sona erer; hareket ve varış idarelerindeki bilgi ve belgelerin karşılaştırılması sonucu usulüne uygun sonlandırma belirlenirse rejim ibra edilir. Hareket idaresince serbest bırakma rejimin sona ermesi değil, eşyanın sevkine izin verilmesidir. Diğer seçenekler doğrudur: otuz gün içinde sunulmayan beyanlar reddedilir, bu retlerde usulsüzlük cezası uygulanmaz ve eşya şüphe veya ihbar dışında muayene edilmeksizin sevk edilir. Bu nedenle doğru cevap serbest bırakma ile sona ermeyi belirten seçenektir. (MD GK 84, 88; GY 213)",
+kanit="20-TRANSİT REJİMİ.txt | Transit rejimine tabi tutulan eşya ve gerekli belgeler, rejimi düzenleyen hükümlere uygun olarak varış gümrük idaresine sunulduğunda, transit rejimi sona erer.",
+cikmis="2024/92; 2025/72; 2025/74; 2025/75",
+),
+
+dict(
+konu="TIR",
+kalip="SÜRE",
+z="O",
+madde="TIR İşlemleri GGT (Seri No: 1) 8",
+cek="TIR'da güzergâh katetme süresi Nisan–Eylül azami 120, Ekim–Mart azami 168 saat; süre aşımında GK 241 uyarınca para cezası.",
+kok=[
+"Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre, ocak ayında giriş gümrük idaresince işlemleri tamamlanarak çıkış gümrük idaresine sevk edilen ve hakkında herhangi bir risk unsuru bulunmayan TIR karneli bir taşıta en uzun mesafe için verilebilecek azami güzergâh katetme süresi ve bu süre geçtikten sonra çıkış gümrük idaresine gelmesi halinde uygulanacak işlem aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+],
+d="168 saat – Gümrük Kanunu uyarınca para cezası uygulanır.",
+c=[
+"120 saat – Gümrük Kanunu uyarınca para cezası uygulanır.",
+"168 saat – Taşıyıcı firmanın TIR rejimine ilişkin tezkiyesi iptal edilir.",
+"Mevsime bakılmaksızın 120 saat – Herhangi bir yaptırım uygulanmaz.",
+"Mevsime bakılmaksızın 168 saat – Taşıt onay belgesi iptal edilir.",
+],
+g="Tebliğe göre güzergâh katetme süresi mevsim ve yol şartlarına göre en uzun mesafe için nisan–eylül aylarında azami 120, ekim–mart aylarında azami 168 saate kadar belirlenir. Ocak ayı ikinci döneme girdiğinden azami süre 168 saattir. Verilen süreler geçtikten sonra varış veya çıkış gümrük idaresine gelen taşıt için Gümrük Kanunu'nun usulsüzlük hükümleri uyarınca para cezası uygulanır; belgelendirilen mücbir haller saklıdır. Bu nedenle doğru cevap '168 saat – Gümrük Kanunu uyarınca para cezası uygulanır.' seçeneğidir. (MD TIR Tebliği 8)",
+kanit="21-TIR SÖZLEŞMESİ.txt | b) Ekim, Kasım, Aralık, Ocak, Şubat ve Mart aylarında azami 168",
+cikmis="2024/61; 2022/74",
+),
+
+# ---------------- ANTREPO VE İŞLETİCİLER (3) ----------------
+dict(
+konu="Antrepo",
+kalip="ÖNERMELİ",
+z="ÇZ",
+madde="GY 329",
+cek="Genel antrepo A, B, F; özel C, D, E; tarım ürünleri lisanslı deposu yalnız A, C, D, E tipi olabilir.",
+kok=[
+"Gümrük Yönetmeliği'nin gümrük antrepo tiplerine ilişkin hükümleri ile ilgili olarak;",
+"I. A tipi antrepo, işleticisinin stok kayıtlarını tuttuğu ve antrepoya konulan eşyada noksanlık olması halinde gümrük vergilerini ödemekten sorumlu olduğu genel antrepo tipidir.",
+"II. C tipi antrepo, işleticisi ve kullanıcısı aynı kişi olan ve antrepoya alınan eşyadan bu kişinin sorumlu olduğu genel antrepo tipidir.",
+"III. Geçici depolama yerleri aynı zamanda A, B, C ve D tipi antrepo olarak onaylanabilir veya F tipi antrepo olarak işletilebilir.",
+"IV. A, B, C ve D tipi gümrük antrepoları tarım ürünleri lisanslı depoları olarak onaylanabilir.",
+"Yukarıdaki ifadelerden hangileri yanlıştır?",
+],
+d="II ve IV",
+c=["Yalnız II", "I ve III", "II ve III", "I, II ve IV"],
+g="Gümrük Yönetmeliği'ne göre genel antrepolar A, B ve F; özel antrepolar C, D ve E tipidir. A tipi tanımı doğrudur (I doğru). C tipi, işleticisi ve kullanıcısı aynı kişi olan ve eşyadan bu kişinin sorumlu olduğu özel antrepodur; genel antrepo değildir (II yanlış). Geçici depolama yerleri aynı zamanda A, B, C ve D tipi antrepo olarak onaylanabilir veya F tipi olarak işletilebilir (III doğru). Tarım ürünleri lisanslı deposu olarak A, C, D ve E tipi antrepolar onaylanabilir; B tipi bu kapsamda değildir (IV yanlış). Bu nedenle doğru cevap 'II ve IV' seçeneğidir. (MD GY 329)",
+kanit="28-antrepo rejimi.txt | A, C, D ve E tipi gümrük antrepoları, tarım ürünleri lisanslı depoları olarak onaylanabilir.",
+cikmis="2021/54; 2022/68; 2023/85; 2024/63",
+),
+
+dict(
+konu="Antrepo İşleticileri",
+kalip="YANLIŞ",
+z="Z",
+madde="GY 526, 527",
+cek="Götürü/yaygın götürü teminat bölge müdürlüğüne; 5+ antrepoda %75; akaryakıt antreposunda uygulanmaz; alan-hacim değişikliğinde ek teminat bir ay içinde.",
+kok=[
+"Gümrük Yönetmeliği'ne göre antrepo işleticilerince verilecek teminata ilişkin aşağıdakilerden hangisi yanlıştır?",
+],
+d="Götürü teminat verilen antrepoda alan veya hacim değişikliği nedeniyle teminat yetersiz kalırsa ek teminat, değişikliği takip eden üç ay içinde verilir.",
+c=[
+"Götürü teminata ilişkin teminat mektubu antreponun bağlı bulunduğu bölge müdürlüğüne sunulur ve işlemler bölge müdürlüğünce sonuçlandırılır.",
+"Yaygın götürü teminatın kullanılacağı antrepo sayısının beş ve üzeri olduğu durumda, hesaplanan götürü teminatların toplam tutarının yüzde yetmiş beşi kadar yaygın götürü teminat verilebilir.",
+"Akaryakıt antrepoları için götürü ve yaygın götürü teminata ilişkin hükümler uygulanmaz.",
+"Fuar ve sergilere konulan veya ihraç edilmek üzere antrepolara konulan eşya için teminat aranmaz.",
+],
+g="Gümrük Yönetmeliği'ne göre götürü veya yaygın götürü teminat verilen antrepolarda alan ve/veya hacim değişikliği nedeniyle teminatın yetersiz kalması halinde ek teminat mektubu, değişikliği takip eden bir ay içinde önceki teminatın verildiği bölge müdürlüğüne verilir; aksi halde bu teminatlardan yararlanılamaz. Üç ay ifadesi yanlıştır. Götürü teminat mektubunun bölge müdürlüğüne sunulması, beş ve üzeri antrepoda %75 oranı, akaryakıt antrepolarında götürü teminat hükümlerinin uygulanmaması ve fuar-sergi ile ihraç amaçlı eşyada teminat aranmaması doğrudur. Bu nedenle doğru cevap üç aylık süreyi içeren seçenektir. (MD GY 526-527)",
+kanit="29-iŞLETİCİLER.txt | değişikliği takip eden bir ay içerisinde önceki teminatın verildiği bölge müdürlüğüne verilir. Aksi takdirde, götürü teminattan veya yaygın götürü teminattan yararlanılmasına izin verilmez.",
+cikmis="2025/81",
+),
+
+dict(
+konu="Antrepo",
+kalip="DOĞRU",
+z="O",
+madde="GK 95, 98, 101, 105",
+cek="Antrepo kalış süresi sınırsız, idare gerektiğinde süre belirleyebilir; izin Türkiye'de yerleşiklere; işletici hakları izinle devredilebilir; fuar eşyasında teminat aranmaz.",
+kok=[
+"4458 sayılı Gümrük Kanunu'na göre gümrük antrepo rejimine ilişkin aşağıdakilerden hangisi doğrudur?",
+],
+d="Eşyanın antrepo rejimi altında kalış süresi sınırsızdır; ancak gümrük idarelerince gerek görülen hallerde yeni bir işlem veya kullanım tayini için süre belirlenebilir.",
+c=[
+"Gümrük antreposu işletme izni, antrepoculuğa ekonomik yönden ihtiyaç bulunması şartıyla Türkiye'de yerleşik olmayan kişilere de verilebilir.",
+"Antrepo işleticisinin hak ve yükümlülükleri, gümrük idaresinin izni olsa dahi başka bir kişiye devredilemez.",
+"Fuar ve sergilere konulan eşya için antrepo işleticisinin sorumluluklarına ilişkin teminat alınması zorunludur.",
+"Antrepolarda yapılan sayım sonucunda fazla çıkan eşya, fazlalığın geçerli nedenlerden ileri gelip gelmediğine bakılmaksızın kayıtlara alınarak serbest dolaşıma sokulur.",
+],
+g="Gümrük Kanunu'na göre eşyanın antrepo rejimi altında kalış süresi sınırsızdır; ancak gümrük idareleri gerek gördükleri hallerde eşyaya gümrükçe onaylanmış yeni bir işlem veya kullanım tayini için süre belirleyebilir. Antrepo işletme izni yalnızca Türkiye'de yerleşik kişilere verilir; işleticinin hak ve yükümlülükleri izinle başka bir kişiye devredilebilir; fuar ve sergilere konulan eşya için teminat aranmaz; sayımda fazla çıkan eşyanın fazlalığı geçerli nedenlere dayanmıyorsa eşya tasfiyeye tabi tutulur. Bu nedenle doğru cevap kalış süresinin sınırsız olduğunu belirten seçenektir. (MD GK 95, 98, 101, 105)",
+kanit="28-antrepo rejimi.txt | Eşyanın antrepo rejimi altında kalış süresi sınırsızdır. Ancak, gümrük idarelerince gerek görülen hallerde, eşyaya gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edilmesi için bir süre belirlenebilir.",
+cikmis="2021/23; 2022/72; 2023/74; 2025/82",
+),
+
+# ---------------- ŞARTLI MUAFİYET / EEGR (1) ----------------
+dict(
+konu="Şartlı Muafiyet/EEGR",
+kalip="EŞLEŞTİRME",
+z="O",
+madde="GK 79",
+cek="Şartlı muafiyet: transit, antrepo, şartlı muafiyetli DİR, GKAİR, geçici ithalat; EEGR: antrepo, DİR, GKAİR, geçici ithalat, HİR. Geri ödeme sistemi şartlı muafiyet değildir.",
+kok=[
+"4458 sayılı Gümrük Kanunu'na göre aşağıdaki rejim–kapsam eşleştirmelerinden hangisi yanlıştır?",
+],
+d="Geri ödeme sisteminin uygulandığı dahilde işleme – Şartlı muafiyet düzenlemesi",
+c=[
+"Transit – Şartlı muafiyet düzenlemesi",
+"Hariçte işleme – Ekonomik etkili gümrük rejimi",
+"Gümrük kontrolü altında işleme – Şartlı muafiyet düzenlemesi",
+"Geçici ithalat – Ekonomik etkili gümrük rejimi",
+],
+g="Gümrük Kanunu'na göre şartlı muafiyet düzenlemesi deyimi serbest dolaşımda olmayan eşyaya transit, antrepo, şartlı muafiyet sistemi kapsamında dahilde işleme, gümrük kontrolü altında işleme ve geçici ithalat rejimlerinin uygulanmasını; ekonomik etkili gümrük rejimi deyimi ise antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat ve hariçte işleme rejimlerini ifade eder. Dahilde işleme şartlı muafiyet düzenlemesine yalnızca şartlı muafiyet sistemiyle girer; serbest dolaşıma girmiş eşyaya uygulanan geri ödeme sistemi şartlı muafiyet düzenlemesi değildir. Transit ekonomik etkili rejim olmasa da şartlı muafiyet düzenlemesidir. Bu nedenle doğru cevap geri ödeme sistemine ilişkin eşleştirmedir. (MD GK 79)",
+kanit="19-ŞARTLI M VE E.E.G.R.txt | - Transit, - Antrepo, - Şartlı muafiyet sistemi kapsamında dahilde işleme, - Gümrük kontrolü altında işleme, - Geçici ithalat;",
+cikmis="2021/43; 2022/33; 2022/62; 2023/83; 2024/30",
+),
+
+# ---------------- İHRACAT (2) ----------------
+dict(
+konu="İhracat", kalip="HESAP", z="K",
+madde="GY 417",
+cek="Geçici depolamaya konulmaksızın ihraçta kapatma süresi iki ay, gümrük müdürlüğünce en çok iki ay uzatılır; sürede tamamlanmayan beyanname iptal edilir.",
+kok=["(A) firması, geçici depolama yerine konulmaksızın ihraç edeceği eşya için 15 Mart 2025 tarihinde ihracat beyannamesi tescil ettirmiştir. Yükleme yapılacak geminin gecikmesi üzerine firma makul sebep göstererek süre uzatımı istemiş, gümrük müdürlüğü de verilebilecek en uzun uzatmayı tanımıştır.",
+     "Gümrük Yönetmeliği'ne göre, süreler tescil tarihinden itibaren hesaplandığında beyannamenin en geç hangi tarihte kapatılması gerekir ve bu süre içinde işlemler tamamlanmazsa beyanname hakkında ne yapılır?"],
+d="15 Temmuz 2025 – Beyanname iptal edilir.",
+c=["15 Mayıs 2025 – Beyanname iptal edilir.",
+   "15 Haziran 2025 – Beyanname iptal edilir.",
+   "15 Ağustos 2025 – Beyanname iptal edilir.",
+   "15 Temmuz 2025 – Eşya gümrüğe terk edilmiş sayılır."],
+g="Gümrük Yönetmeliği'ne göre geçici depolama yerlerine konulmaksızın ihraç edilecek eşyanın beyanname kapatma süresi iki aydır; bu süre gümrük müdürlüklerince makul sebeplerle en çok iki ay uzatılabilir ve bu süreler içinde işlemleri tamamlanmayan beyannameler iptal edilir. 15 Mart 2025'e iki aylık süre ile iki aylık azami uzatma eklendiğinde son tarih 15 Temmuz 2025 olur. 15 Mayıs 2025 uzatmanın hiç dikkate alınmamasıyla, 15 Haziran 2025 uzatmanın bir ay sanılmasıyla, 15 Ağustos 2025 ise ihracat amacıyla geçici depolama yerine konulan eşyaya tanınabilen üç aya kadar ek sürenin uygulanmasıyla bulunur. Gümrüğe terk edilmiş sayılma sonucu ise süresinde geçici depolama yerinden çıkarılmayan eşyaya ilişkindir. Bu nedenle doğru cevap '15 Temmuz 2025 – Beyanname iptal edilir.' seçeneğidir. (MD GY 417/1-3)",
+kanit="36-ihracat.txt | Geçici depolama yerlerine konulmaksızın ihraç edilecek eşyanın beyanname kapatma süresi iki aydır. Bu süre gümrük müdürlüklerince makul sebeplerle en çok iki ay uzatılabilir.",
+cikmis="2024/97; 2025/25"),
+
+dict(
+konu="İhracat",
+kalip="ŞART",
+z="ÇK",
+madde="GK 151",
+cek="İhraç eşyası, tescildeki durum ve niteliğini gümrük kontrolünden çıkarken aynen muhafaza edip TGB'yi terk ederse fiilen ihraç edilmiş sayılır.",
+kok=[
+"4458 sayılı Gümrük Kanunu'na göre ihraç eşyasının fiilen ihraç edilmiş sayılması aşağıdakilerden hangisine bağlıdır?",
+],
+d="Beyannamenin tescili sırasındaki durum ve niteliğini aynen muhafaza ederek Türkiye Gümrük Bölgesini terk etmesine",
+c=[
+"İhracat bedelinin kambiyo mevzuatı hükümlerine uygun olarak yurda getirildiğinin belgelendirilmesine",
+"Eşyanın gönderildiği ülkede serbest dolaşıma girdiğinin alıcı tarafından belgelendirilmesine",
+"İhracat beyannamesinin tescil edilmesine ve muayene işlemlerinin tamamlanmasına",
+"Eşyanın alıcısı tarafından teslim alındığının yurt dışındaki yetkili kurumlarca onaylanmasına",
+],
+g="Gümrük Kanunu'na göre ihraç eşyası, gümrük beyannamesinin tescili sırasında bulunduğu durum ve niteliğini gümrük kontrolünden çıktığı sırada da aynen muhafaza etmesi ve bu haliyle Türkiye Gümrük Bölgesini terk etmesi koşuluyla fiilen ihraç edilmiş sayılır ve eşya üzerindeki gümrük kontrolü sona erer. Bedelin yurda getirilmesi, varış ülkesindeki işlemler veya yalnızca beyannamenin tescili fiili ihracat için aranan koşullar değildir. Bu nedenle doğru cevap durum ve niteliğin aynen muhafaza edilerek Türkiye Gümrük Bölgesinin terk edilmesini belirten seçenektir. (MD GK 151)",
+kanit="36-ihracat.txt | İhraç eşyası, buna ilişkin gümrük beyannamesinin tescili sırasında bulunduğu durum ve niteliğini gümrük kontrolünden[131] çıktığı sırada da aynen muhafaza etmesi ve bu haliyle Türkiye Gümrük Bölgesini terk etmesi koşuluyla fiilen ihraç edilmiş sayılır.",
+cikmis="2021/68",
+),
+
+# ---------------- GERİ GELEN EŞYA (1) ----------------
+dict(
+konu="Geri Gelen Eşya",
+kalip="YANLIŞ",
+z="Z",
+madde="GK 168; GY 452, 453",
+cek="Üç yıl içinde geri gelen eşya muaf; süre fiili ihraçtan başlar; üç yıl aşılmadan verilen süre aşılırsa usulsüzlük cezası, vergi tahsil edilmez.",
+kok=[
+"4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin geri gelen eşyaya ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?",
+],
+d="Eşyanın, üç yıllık süre aşılmaksızın ancak ek süreler dahil verilen sürelerin aşılarak geri getirilmesi halinde usulsüzlük cezası uygulanır ve gümrük vergileri tahsil edilir.",
+c=[
+"Serbest dolaşımda bulunan eşya, ihraç edildikten sonra üç yıl içinde yeniden serbest dolaşıma girerse beyan sahibinin talebi üzerine ithalat vergilerinden muaf tutulur.",
+"Geri getirilme süresinin başlangıcı eşyanın fiilen ihraç edildiği tarihtir; çıkışın partiler halinde yapılması halinde her partinin süresi ayrı ayrı başlar.",
+"Aynen ihraç edildiği durumda olması hali hariç, hariçte işleme rejimi çerçevesinde ihraç edilen eşyaya bu muafiyet tanınmaz.",
+"Süre uzatımı talebi olmaksızın üç yıllık süreyi aşarak geri getirilen eşyaya usulsüzlük cezası uygulanır ve gümrük vergileri tahsil edilerek serbest dolaşıma giriş hükümleri uygulanır.",
+],
+g="Gümrük Yönetmeliği'ne göre eşya, Kanunda belirtilen üç yıllık süre aşılmaksızın ek süreler dahil verilen sürelerin aşılarak geri getirilirse usulsüzlük cezası uygulanır ancak gümrük vergileri tahsil edilmeden serbest dolaşıma sokulur. Vergilerin de tahsil edilmesi yalnızca üç yıllık sürenin (veya idarece uzatılan sürenin) aşıldığı durumda söz konusudur. Diğer seçenekler doğrudur: üç yıl içinde geri gelen eşya talep üzerine muaftır, süre fiili ihraç tarihinden ve partiler için ayrı ayrı başlar, hariçte işleme kapsamında ihraç edilen eşyaya (aynen ihraç hali hariç) muafiyet tanınmaz. Bu nedenle doğru cevap vergilerin tahsil edileceğini ileri süren seçenektir. (MD GK 168; GY 452-453)",
+kanit="37-geri gelen eşya.txt | Kanunun 241 inci maddesinin üçüncü fıkrasının (ı) bendi uyarınca usulsüzlük cezası tatbiki ile gümrük vergileri tahsil edilmeden serbest dolaşıma sokulur.",
+cikmis="2021/30; 2021/64; 2023/53; 2024/71; 2025/69",
+),
+
+# ---------------- TASFİYE (1) ----------------
+dict(
+konu="Tasfiye", kalip="ÖNERMELİ", z="O",
+madde="GK 178",
+cek="Tasfiye: ihale, yeniden ihraç amaçlı satış, perakende satış, kamu kuruluşu/vakıf-derneğe tahsis, imha, özel yol; sağlık önlemleri görüş alınarak; usul yönetmelikle.",
+kok=["4458 sayılı Gümrük Kanunu'na göre tasfiyelik eşyaya ilişkin olarak;",
+     "I. Tasfiye idaresi, ilgili kamu kurum ve kuruluşlarının görüşünü alarak insan, hayvan, bitki ve çevre sağlığı bakımından gerekli önlemleri almakla yükümlüdür.",
+     "II. Tasfiyelik eşya, kamu kuruluşlarına kiralanmak suretiyle de tasfiye edilebilir.",
+     "III. Tasfiyelik eşyanın özel kanunla kurulmuş bir derneğe tahsis edilmesi de tasfiye yöntemlerinden biridir.",
+     "IV. Tasfiyeye ilişkin usul ve esaslar Bakanlıkça çıkarılan tebliğ ile belirlenir.",
+     "ifadelerinden hangileri doğrudur?"],
+d="I ve III",
+c=["I ve II",
+   "II ve IV",
+   "III ve IV",
+   "I, III ve IV"],
+g="Gümrük Kanunu'na göre tasfiyelik eşya ihale yoluyla satış, yeniden ihraç amaçlı satış, perakende satış, kamu kuruluşları ile özel kanunla kurulmuş vakıf ve derneklere tahsis, imha ve özel yolla tasfiye edilir; vakıf ve derneklere tahsis bu yöntemlerden biridir (III doğru). Kamu kuruluşlarına yönelik yöntem kiralama değil tahsistir (II yanlış). Tasfiye idaresi, ilgili kamu kurum ve kuruluşlarının görüşünü alarak insan, hayvan, bitki ve çevre sağlığı bakımından gerekli önlemleri almakla yükümlüdür (I doğru). Tasfiyeye ilişkin usul ve esaslar tebliğ ile değil yönetmelikle belirlenir (IV yanlış). Bu nedenle doğru cevap 'I ve III' seçeneğidir. (MD GK 178)",
+kanit="43-tasfiye.txt | Tasfiye idaresi; ilgili kamu kurum ve kuruluşlarının görüşünü alarak insan, hayvan, bitki ve çevre sağlığı bakımından gerekli önlemleri almakla yükümlüdür.",
+cikmis="2021/56; 2024/96"),
+
+# ---------------- GKAİR (1) ----------------
+dict(
+konu="GKAİR",
+kalip="YANLIŞ",
+z="O",
+madde="GK 123, 124; GY 370, 372, 373",
+cek="GKAİR'de ürün işlenmiş ürün; izin yalnız TGB yerleşiğe; izin azami iki yıl, üç aya kadar uzatma; rejime girişte vergiler teminata bağlanır.",
+kok=[
+"4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin gümrük kontrolü altında işleme rejimine ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?",
+],
+d="Rejime ilişkin iznin geçerlilik süresi azami üç yıl olarak belirlenir ve haklı gerekçelerle altı aya kadar uzatılabilir.",
+c=[
+"Rejim kapsamındaki işlemlerden elde edilen ürünler işlenmiş ürün olarak adlandırılır.",
+"Rejime giriş esnasında eşyaya isabet eden vergiler teminata bağlanır.",
+"Rejime ilişkin izin yalnızca Türkiye Gümrük Bölgesinde yerleşik kişilere verilir.",
+"Rejim, işlenmiş ürünün ithalat vergisinin bünyesinde bulundurduğu ithal ürünün vergisinden daha düşük olduğu işlemler için uygulanır.",
+],
+g="Gümrük Yönetmeliği'ne göre gümrük kontrolü altında işleme iznin geçerlilik süresi gümrük idaresince her başvuru için azami iki yıl olarak belirlenir; mücbir sebep, beklenmeyen haller veya haklı gerekçelerle üç aya kadar uzatılabilir. Üç yıl ve altı ay ifadeleri yanlıştır. Elde edilen ürünlerin işlenmiş ürün olarak adlandırılması, rejime girişte vergilerin teminata bağlanması, iznin yalnızca Türkiye Gümrük Bölgesinde yerleşik kişilere verilmesi ve rejimin işlenmiş ürün vergisinin ithal ürün vergisinden düşük olduğu işlemlerde uygulanması doğrudur. Bu nedenle doğru cevap üç yıl/altı ay ifadesini içeren seçenektir. (MD GK 123-124; GY 370, 372-373)",
+kanit="33-GKAİR.txt | gümrük idaresince her başvuru için ve azami iki yıl olarak belirlenir. Sürenin başlangıcı izin belgesinin tarihidir.",
+cikmis="2021/44; 2024/73; 2024/74",
+),
+]
