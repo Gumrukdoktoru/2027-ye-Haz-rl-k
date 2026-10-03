@@ -113,7 +113,7 @@ z="ÇZ",
 madde="Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar 36, 39, 40, 43",
 cek="Rejim eşyası kiralanamaz/satılamaz (ticari hava taşıtı istisna); tüketilebilir eşya tam/kısmi muafiyetten yararlanamaz; üretim araçlarında süre altı ay; ekonomik etkisiz eşyada üç ay uzatılamaz.",
 kok=[
-"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar'ın geçici ithalat rejimine ilişkin hükümleri ile ilgili olarak;",
+"2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”ın geçici ithalat rejimine ilişkin hükümleri ile ilgili olarak;",
 "I. Rejim kapsamındaki eşya kiralanamaz, ödünç verilemez, bir başkasının kullanımına bırakılamaz ve satılamaz; ancak ticari kullanıma mahsus hava taşıtları izin süresi içinde bir başka hava yolu şirketine kiralanabilir.",
 "II. Tüketilebilir nitelikteki eşya tam muafiyetten yararlandırılmaz; ancak kısmi muafiyet suretiyle rejimden yararlanabilir.",
 "III. Tamirci veya tedarikçi tarafından bedelsiz gönderilen ve tamir ya da teslim süresince kullanılacak üretim araçlarının rejim altında kalabileceği süre altı aydır.",

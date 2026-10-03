@@ -673,7 +673,7 @@ C) (N) firmasının vergilerini ödeyerek serbest dolaşıma soktuğu makineleri
 D) (K) firmasının, sözleşmeye uygun olmadığı için satıcıya geri gönderdiği kumaşlara ait gümrük vergilerinin geri verilmesi  
 E) (P) firmasının, ödeme süresi teminat karşılığında uzatılan gümrük vergilerini uzatılan süre içinde ödemesi  
 
-**71-** 4458 sayılı Gümrük Kanunu'nun Bazı Maddelerinin Uygulanması Hakkında Karar'a göre Türk bayrağı çekilmiş gemilerin Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma girişinde, geminin Türk Uluslararası Gemi Siciline veya Milli Gemi Siciline kaydedilmesi için Bayrak Şahadetnamesinin düzenlendiği tarihten itibaren en geç ne kadar süre içinde mahalli sicile başvurulması gerekir?
+**71-** 2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”a göre Türk bayrağı çekilmiş gemilerin Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma girişinde, geminin Türk Uluslararası Gemi Siciline veya Milli Gemi Siciline kaydedilmesi için Bayrak Şahadetnamesinin düzenlendiği tarihten itibaren en geç ne kadar süre içinde mahalli sicile başvurulması gerekir?
 
 A) Otuz gün  
 B) Üç ay  
@@ -695,7 +695,7 @@ C) I, II ve IV
 D) I, III ve IV  
 E) II, III ve IV  
 
-**73-** 4458 sayılı Gümrük Kanunu'nun Bazı Maddelerinin Uygulanması Hakkında Karar'a göre, yerleşim yerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait kullanılmış motorlu özel nakil vasıtası muafiyetinden aşağıdaki kişilerden hangisi yararlanabilir?
+**73-** 2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”a göre, yerleşim yerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait kullanılmış motorlu özel nakil vasıtası muafiyetinden aşağıdaki kişilerden hangisi yararlanabilir?
 
 A) Yurt dışında otuz ay ikamet ettikten sonra yerleşim yerini kesin olarak nakleden ve otomobili son girişinden dört ay önce adına kayıtlı olan Ayşe  
 B) Evlilik yoluyla Türk vatandaşlığına geçerek yerleşim yerini yabancı ülkeden kesin olarak nakleden ve otomobili iki yıldır adına kayıtlı olan Anna  
@@ -703,7 +703,7 @@ C) Üç yıl önce bu muafiyetle otomobil getirmiş olup yeniden yurt dışında
 D) Sürekli görevle bulunduğu yabancı ülkeden yine sürekli görevle başka bir yabancı ülkeye atandığı için yerleşim yerini nakledemeyen Ali  
 E) Yurt dışında yirmi altı ay ikamet ettikten sonra yerleşim yerini kesin olarak nakleden ve otomobili son girişinden sekiz ay önce adına kayıtlı olup kayıt yılı itibarıyla iki yaşında olan Ahmet  
 
-**74-** 4458 sayılı Gümrük Kanunu'nun Bazı Maddelerinin Uygulanması Hakkında Karar'a göre kişisel eşya ve yolcu beraberi eşya muafiyetine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
+**74-** 2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”a göre kişisel eşya ve yolcu beraberi eşya muafiyetine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
 A) Ek-9'daki listenin (B) bölümünde yer alan eşya, yolcunun gelişinden üç ay önce veya bir ay sonra getirilebilir.  
 B) Ek-9'daki listenin (A) bölümünde yer alan eşya sadece yolcu beraberinde getirilebilir.  
@@ -814,7 +814,7 @@ C) 30.000
 D) 36.000  
 E) 6.000  
 
-**86-** 4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar'ın geçici ithalat rejimine ilişkin hükümleri ile ilgili olarak;
+**86-** 2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”ın geçici ithalat rejimine ilişkin hükümleri ile ilgili olarak;
 
 I. Rejim kapsamındaki eşya kiralanamaz, ödünç verilemez, bir başkasının kullanımına bırakılamaz ve satılamaz; ancak ticari kullanıma mahsus hava taşıtları izin süresi içinde bir başka hava yolu şirketine kiralanabilir.  
 II. Tüketilebilir nitelikteki eşya tam muafiyetten yararlandırılmaz; ancak kısmi muafiyet suretiyle rejimden yararlanabilir.  
@@ -1988,7 +1988,7 @@ E) (P) firmasının, ödeme süresi teminat karşılığında uzatılan gümrük
 
 *2009/15481 s. Karar m.13/1-b*
 
-**71-** 4458 sayılı Gümrük Kanunu'nun Bazı Maddelerinin Uygulanması Hakkında Karar'a göre Türk bayrağı çekilmiş gemilerin Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma girişinde, geminin Türk Uluslararası Gemi Siciline veya Milli Gemi Siciline kaydedilmesi için Bayrak Şahadetnamesinin düzenlendiği tarihten itibaren en geç ne kadar süre içinde mahalli sicile başvurulması gerekir?
+**71-** 2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”a göre Türk bayrağı çekilmiş gemilerin Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma girişinde, geminin Türk Uluslararası Gemi Siciline veya Milli Gemi Siciline kaydedilmesi için Bayrak Şahadetnamesinin düzenlendiği tarihten itibaren en geç ne kadar süre içinde mahalli sicile başvurulması gerekir?
 
 A) Otuz gün  
 B) Üç ay  
@@ -2020,7 +2020,7 @@ E) II, III ve IV
 
 *2009/15481 s. Karar m.46/1-a, 46/3, 46/4; m.47/1, 47/5*
 
-**73-** 4458 sayılı Gümrük Kanunu'nun Bazı Maddelerinin Uygulanması Hakkında Karar'a göre, yerleşim yerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait kullanılmış motorlu özel nakil vasıtası muafiyetinden aşağıdaki kişilerden hangisi yararlanabilir?
+**73-** 2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”a göre, yerleşim yerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait kullanılmış motorlu özel nakil vasıtası muafiyetinden aşağıdaki kişilerden hangisi yararlanabilir?
 
 A) Yurt dışında otuz ay ikamet ettikten sonra yerleşim yerini kesin olarak nakleden ve otomobili son girişinden dört ay önce adına kayıtlı olan Ayşe  
 B) Evlilik yoluyla Türk vatandaşlığına geçerek yerleşim yerini yabancı ülkeden kesin olarak nakleden ve otomobili iki yıldır adına kayıtlı olan Anna  
@@ -2033,7 +2033,7 @@ E) Yurt dışında yirmi altı ay ikamet ettikten sonra yerleşim yerini kesin o
 
 *2009/15481 s. Karar m.58/2, 59/1, 59/2, 60/2*
 
-**74-** 4458 sayılı Gümrük Kanunu'nun Bazı Maddelerinin Uygulanması Hakkında Karar'a göre kişisel eşya ve yolcu beraberi eşya muafiyetine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
+**74-** 2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”a göre kişisel eşya ve yolcu beraberi eşya muafiyetine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
 A) Ek-9'daki listenin (B) bölümünde yer alan eşya, yolcunun gelişinden üç ay önce veya bir ay sonra getirilebilir.  
 B) Ek-9'daki listenin (A) bölümünde yer alan eşya sadece yolcu beraberinde getirilebilir.  
@@ -2204,7 +2204,7 @@ E) 6.000
 
 *Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar 36, 39, 40, 43*
 
-**86-** 4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar'ın geçici ithalat rejimine ilişkin hükümleri ile ilgili olarak;
+**86-** 2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”ın geçici ithalat rejimine ilişkin hükümleri ile ilgili olarak;
 
 I. Rejim kapsamındaki eşya kiralanamaz, ödünç verilemez, bir başkasının kullanımına bırakılamaz ve satılamaz; ancak ticari kullanıma mahsus hava taşıtları izin süresi içinde bir başka hava yolu şirketine kiralanabilir.  
 II. Tüketilebilir nitelikteki eşya tam muafiyetten yararlandırılmaz; ancak kısmi muafiyet suretiyle rejimden yararlanabilir.  

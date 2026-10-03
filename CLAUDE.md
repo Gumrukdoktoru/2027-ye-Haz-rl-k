@@ -20,3 +20,4 @@ GM / GMY sınavlarına hazırlık için Word kaynaklarından **ders notu** ve **
 ## Kullanıcı tercihleri
 - **Konu kapsamı serbest:** Sınav kitapçığı modelinde set üretilirken kitapçıktaki konu dağılımıyla sınırlı kalınmaz; `kaynaklar/` içindeki diğer konulardan da (ör. kabotaj, özet beyan, sınır ticareti, ihracat sayılan satış ve teslimler, e-ihracat, dış ticaret sermaye şirketi, fuar tebliği, bedelsiz ihracat, telafi edici vergi) soru sorulabilir. Kaynakta olmayan bilgi kuralı değişmez.
 - Kitapçık soruları kopyalanmaz; aynı konu sorulursa farklı hüküm seçilir.
+- **Karar kaynaklı sorularda kök:** 2009/15481 sayılı Bakanlar Kurulu Kararına dayanan sorularda kök "4458 sayılı …" ile başlamaz (Kanun sanılır). Kurum kalıbı kullanılır: `2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre …`. Diğer kararlar ve yönetmelikler için de kök, dayanağın türünü (Kanun/Karar/Yönetmelik/Tebliğ) baştan açıkça göstermelidir.
