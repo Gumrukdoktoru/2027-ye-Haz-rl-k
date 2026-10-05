@@ -42,6 +42,8 @@ for i, x in enumerate(D, 1):
           f"Beş yılda **{len(x['refs'])}** soru" + (f" ({', '.join(x['refs'])})" if x['refs'] else '') + '.', '']
     if x.get('cikmis'):
         A += ['**Sorulan bilgi noktaları**', ''] + [f'- {c}' for c in x['cikmis']] + ['']
+    if x.get('haric'):
+        A += ['**Not:** Envanterde bu konu adıyla geçen ama hükmü başka kaynakta olan soru(lar): ' + '; '.join(x['haric']), '']
     for durum, baslik in (('SORULDU', 'Sorulan alt konular'), ('KISMEN', 'Kısmen sorulan alt konular'), ('SORULMADI', 'Hiç sorulmayan alt konular')):
         al = [a for a in x['alt_konular'] if a['durum'] == durum]
         if not al: continue
