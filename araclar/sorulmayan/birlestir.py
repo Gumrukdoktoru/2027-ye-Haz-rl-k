@@ -76,6 +76,8 @@ for x in D:
     x['cikmis'] = [c for c in x.get('cikmis', []) if c.split(':')[0].strip() not in h]
     for q in x['soru_cevap']:
         no += 1; q['no'] = no; q['id'] = f'SC-{no:04d}'
+        for k in ('soru', 'cevap'):  # kaynak metindeki dipnot işaretlerini ([12]) temizle
+            q[k] = re.sub(r'\s+', ' ', re.sub(r'\[\d{1,3}\]', '', q[k])).strip()
     st = collections.Counter(a['durum'] for a in x['alt_konular'])
     x['st'] = st
 
