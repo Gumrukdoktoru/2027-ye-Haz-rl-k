@@ -1,0 +1,2453 @@
+{
+ "grup": "G01",
+ "dosyalar": [
+  {
+   "kaynak": "1-TANIMLAR.txt",
+   "konu": "Temel Tanımlar (Gümrük Kanunu ve Gümrük Yönetmeliği tanımları)",
+   "mevzuat": "GK md. 1-4; GY md. 3",
+   "cikmis_sayisi": 21,
+   "cikmis": [
+    "2021-26: GK'da sekiz gümrük rejimi sayılmıştır",
+    "2022-28: Geçici ihracat GK'da sayılan gümrük rejimlerinden değildir",
+    "2022-31: GOİK kapsamı; OSB'deki firmaya satış GOİK değildir",
+    "2022-38: İthalatta alınan vergi ve fonlar; TRT bandrolü bunlardan sayılmaz",
+    "2022-41: Gümrük vergileri deyimi (ithalat veya ihracat vergilerinin tümü)",
+    "2022-61: Gümrüklerden Geçiş Karnesi (CPD) tanımı",
+    "2023-31: GOİK kapsamı; geçici depolama yerine konulma GOİK değildir",
+    "2023-36: Ticaret politikası önlemleri; gümrük vergisi bu önlemlerden değildir",
+    "2023-49: İthalatta tahsil edilen vergiler; MTV gümrükte tahsil edilmez",
+    "2023-63: Nihai kullanım bir gümrük rejimi değildir",
+    "2023-66: Gümrük idaresi tanımı",
+    "2023-67: Gümrük idaresi sayılmayan birim",
+    "2023-71: Gümrük statüsü tanımı",
+    "2023-75: Yükümlü tanımı",
+    "2023-84: Gümrük beyanı tanımı; imha talebi gümrük beyanı değildir",
+    "2023-91: TC Gümrük Bölgesinin kapsamı (toprak, kara suları, iç sular, hava sahası)",
+    "2023-92: Gümrük Kanununun amacı",
+    "2024-47: TGB'yi terk edecek eşyaya ilişkin gümrük idaresi (ihracat/çıkış gümrük idaresi)",
+    "2024-93: GOİK kapsamı; teslim GOİK değildir",
+    "2025-35: Gümrük vergileri tanımı kapsamı; gecikme zammı girmez",
+    "2025-37: Gümrüklenmiş değer (CIF + gümrük vergileri); kurumlar vergisi dikkate alınmaz"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Gümrük Kanununun amacı",
+     "dayanak": "GK md. 1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-92"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Türkiye Cumhuriyeti Gümrük Bölgesi",
+     "dayanak": "GK md. 2",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-91"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük idaresi ile giriş, ithalat, ihracat ve çıkış gümrük idareleri",
+     "dayanak": "GK md. 3/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-66",
+      "2023-67",
+      "2024-47"
+     ],
+     "not": "Gümrük idaresi tanımı ve ihracat/çıkış gümrük idaresi ayrımı soruldu; giriş gümrük idaresi ve ithalat gümrük idaresi tanımları sorulmadı."
+    },
+    {
+     "baslik": "Kişi ve Türkiye Gümrük Bölgesinde yerleşik kişi",
+     "dayanak": "GK md. 3/3-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Karar deyimi",
+     "dayanak": "GK md. 3/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest dolaşımda bulunan ve bulunmayan eşya",
+     "dayanak": "GK md. 3/6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük statüsü",
+     "dayanak": "GK md. 3/7",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-71"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük vergileri ve gümrük yükümlülüğü",
+     "dayanak": "GK md. 3/8",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-41",
+      "2025-35"
+     ],
+     "not": "Gümrük vergileri deyimi soruldu; gümrük yükümlülüğü tanımı sorulmadı."
+    },
+    {
+     "baslik": "İthalat ve ihracat vergileri",
+     "dayanak": "GK md. 3/9-10",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-38",
+      "2023-49"
+     ],
+     "not": "Yalnız ithalatta tahsil edilen vergi türleri ölçüldü; ithalat vergileri tanımının tarım politikası kapsamındaki vergi ve mali yükleri de kapsaması sorulmadı."
+    },
+    {
+     "baslik": "Yükümlü",
+     "dayanak": "GK md. 3/11",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-75"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük gözetimi ve gümrük kontrolü",
+     "dayanak": "GK md. 3/12-13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması",
+     "dayanak": "GK md. 3/14",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-31",
+      "2023-31",
+      "2024-93"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük rejimleri",
+     "dayanak": "GK md. 3/15",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-26",
+      "2022-28",
+      "2023-63"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük beyanı ve beyan sahibi",
+     "dayanak": "GK md. 3/16-17",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-84"
+     ],
+     "not": "Gümrük beyanı tanımı soruldu; beyan sahibi tanımı sorulmadı."
+    },
+    {
+     "baslik": "Eşyanın gümrüğe sunulması ve teslimi",
+     "dayanak": "GK md. 3/18-19",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Rejim hak sahibi ve asıl sorumlu",
+     "dayanak": "GK md. 3/20",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Elleçleme",
+     "dayanak": "GK md. 3/22",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Risk",
+     "dayanak": "GK md. 3/24",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrüklenmiş değer",
+     "dayanak": "GK md. 3/26",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-37"
+     ],
+     "not": "İthal eşyasında CIF + gümrük vergileri esası soruldu; ihraç eşyasında FOB esası sorulmadı."
+    },
+    {
+     "baslik": "Gümrük idareleriyle muhatap olan kişilerin sorumlulukları",
+     "dayanak": "GK md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "ATA Karnesi ve Gümrüklerden Geçiş Karnesi (CPD)",
+     "dayanak": "GY md. 3/1-a, ğ",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-61"
+     ],
+     "not": "CPD tanımı soruldu; ATA Karnesi tanımı sorulmadı."
+    },
+    {
+     "baslik": "Dökme eşya",
+     "dayanak": "GY md. 3/1-c",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın kayıt yoluyla rejime geçişi",
+     "dayanak": "GY md. 3/1-d",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük işlemlerinin bitirilmesi",
+     "dayanak": "GY md. 3/1-h",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrüklü saha",
+     "dayanak": "GY md. 3/1-ı",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ticaret politikası önlemleri",
+     "dayanak": "GY md. 3/1-n",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-36"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Yetkilendirilmiş yükümlü sertifikası",
+     "dayanak": "GY md. 3/1-r",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Gümrük idaresi ile giriş, ithalat, ihracat ve çıkış gümrük idareleri",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın Türkiye Gümrük Bölgesine getirildiği ve risk analizine dayalı giriş kontrolüne tabi tutularak geciktirilmeksizin sevk işlemlerinin yapıldığı gümrük idaresi hangi deyimle ifade edilir?",
+     "cevap": "Giriş gümrük idaresi. Eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasına ilişkin işlemlerin yapıldığı ithalat gümrük idaresi ile karıştırılmamalıdır.",
+     "dayanak": "GK md. 3/2-b",
+     "kanit": "b) \"Giriş gümrük idaresi\" deyimi, eşyanın Türkiye Gümrük Bölgesine getirildiği ve risk analizine dayalı giriş kontrolüne tabi tutularak geciktirilmeksizin sevk işlemlerinin yapıldığı gümrük idaresini"
+    },
+    {
+     "alt_konu": "Gümrük idaresi ile giriş, ithalat, ihracat ve çıkış gümrük idareleri",
+     "soru": "4458 sayılı Gümrük Kanununa göre Türkiye Gümrük Bölgesine getirilen eşyanın risk analizine dayalı kontrolleri de dâhil olmak üzere gümrükçe onaylanmış bir işlem ve kullanıma tabi tutulmasına ilişkin işlemlerinin yerine getirildiği gümrük idaresi hangisidir?",
+     "cevap": "İthalat gümrük idaresidir. Eşyanın yalnızca getirilip giriş kontrolüne tabi tutularak sevk edildiği idare ise giriş gümrük idaresidir.",
+     "dayanak": "GK md. 3/2-c",
+     "kanit": "c) \"İthalat gümrük idaresi\" deyimi, Türkiye Gümrük Bölgesine getirilen eşyanın risk analizine dayalı kontrolleri de dâhil olmak üzere gümrükçe onaylanmış bir işlem ve kullanıma tabi tutulmasına ilişkin işlemlerinin yerine getirildiği gümrük idaresini"
+    },
+    {
+     "alt_konu": "Kişi ve Türkiye Gümrük Bölgesinde yerleşik kişi",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"kişi\" deyimi kimleri kapsar?",
+     "cevap": "Gerçek ve tüzel kişiler ile hukuken tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat uyarınca hukuki tasarruflar yapma yetkisi tanınan kişiler ortaklığını kapsar.",
+     "dayanak": "GK md. 3/3",
+     "kanit": "\"Kişi\" deyimi, gerçek ve tüzel kişiler ile hukuken tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat uyarınca hukuki tasarruflar yapma yetkisi tanınan kişiler ortaklığını"
+    },
+    {
+     "alt_konu": "Kişi ve Türkiye Gümrük Bölgesinde yerleşik kişi",
+     "soru": "4458 sayılı Gümrük Kanununa göre tüzel kişi veya kişiler ortaklığının Türkiye Cumhuriyeti Gümrük Bölgesinde yerleşik kişi sayılması için ne gerekir?",
+     "cevap": "Bu bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesinin bulunması gerekir. Gerçek kişilerde ölçüt ise bu bölgede yerleşim yerinin bulunmasıdır.",
+     "dayanak": "GK md. 3/4-b",
+     "kanit": "b) Bu bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan bütün tüzel kişi veya kişiler ortaklığını"
+    },
+    {
+     "alt_konu": "Karar deyimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"karar\" deyimi neyi ifade eder?",
+     "cevap": "Bağlayıcı tarife ve menşe bilgileri de dâhil olmak üzere, gümrük idaresinin gümrük mevzuatı ile ilgili olarak belirli bir konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufudur.",
+     "dayanak": "GK md. 3/5",
+     "kanit": "\"Karar\" deyimi, bağlayıcı tarife ve menşe bilgileri de dahil olmak üzere, gümrük idaresinin, gümrük mevzuatı ile ilgili olarak belirli bir konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufunu"
+    },
+    {
+     "alt_konu": "Serbest dolaşımda bulunan ve bulunmayan eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"serbest dolaşımda bulunmayan eşya\" deyimi neyi kapsar?",
+     "cevap": "Serbest dolaşımda bulunan eşya dışında kalan eşya ile transit hükümleri saklı kalmak üzere Türkiye Gümrük Bölgesini fiilen terk eden eşyayı kapsar.",
+     "dayanak": "GK md. 3/6-b",
+     "kanit": "b) \"Serbest dolaşımda bulunmayan eşya\" deyimi, serbest dolaşımda bulunan eşya dışında kalan eşya ile transit hükümleri saklı kalmak üzere Türkiye Gümrük Bölgesini fiilen terk eden eşyayı"
+    },
+    {
+     "alt_konu": "Serbest dolaşımda bulunan ve bulunmayan eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre şartlı muafiyet düzenlemelerine tabi tutulan eşyadan elde edilen eşya hangi koşulla serbest dolaşımda bulunan eşya sayılır?",
+     "cevap": "Tabi olduğu rejim hükümleri uyarınca özel ekonomik değer taşımadığının tespit edilmesi koşuluyla serbest dolaşımda bulunan eşya sayılır.",
+     "dayanak": "GK md. 3/6-a",
+     "kanit": "şartlı muafiyet düzenlemelerine tabi tutulan eşyadan elde edilen ve tabi olduğu rejim hükümleri uyarınca özel ekonomik değer taşımadığı tespit edilen"
+    },
+    {
+     "alt_konu": "Gümrük vergileri ve gümrük yükümlülüğü",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"gümrük yükümlülüğü\" deyimi neyi ifade eder?",
+     "cevap": "Yükümlünün gümrük vergilerini ödemesi zorunluluğunu ifade eder.",
+     "dayanak": "GK md. 3/8-b",
+     "kanit": "b) \"Gümrük yükümlülüğü\" deyimi, yükümlünün gümrük vergilerini ödemesi zorunluluğunu;"
+    },
+    {
+     "alt_konu": "İthalat ve ihracat vergileri",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"ithalat vergileri\" deyimi, eşyanın ithalinde ödenecek gümrük vergisi ile eş etkili vergi ve mali yükler dışında hangi vergi ve mali yükleri de kapsar?",
+     "cevap": "Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak vergileri ve diğer mali yükleri de kapsar.",
+     "dayanak": "GK md. 3/9-b",
+     "kanit": "b) Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak vergileri ve diğer mali yükleri;"
+    },
+    {
+     "alt_konu": "Gümrük gözetimi ve gümrük kontrolü",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük mevzuatına ve gereken hallerde gümrük gözetimi altındaki eşyaya uygulanacak diğer hükümlere uyulmasını sağlamak üzere gümrük idarelerince genel olarak uygulanan işlemler hangi deyimle ifade edilir?",
+     "cevap": "Gümrük gözetimi. Muayene, belge doğrulama, kayıt incelemesi gibi somut uygulamaları ifade eden \"gümrük kontrolü\" deyimiyle karıştırılmamalıdır.",
+     "dayanak": "GK md. 3/12",
+     "kanit": "\"Gümrük gözetimi\" deyimi, gümrük mevzuatına ve gereken hallerde gümrük gözetimi altındaki eşyaya uygulanacak diğer hükümlere uyulmasını sağlamak üzere gümrük idareleri tarafından genel olarak uygulanan işlemleri"
+    },
+    {
+     "alt_konu": "Gümrük gözetimi ve gümrük kontrolü",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"gümrük kontrolü\" kapsamında gümrük idarelerince yürütülen uygulamalar nelerdir?",
+     "cevap": "Eşyanın muayenesi, beyanname verileri ile elektronik veya yazılı belgelerin varlığının ve gerçekliğinin doğrulanması, işletmelerin hesap ve diğer kayıtlarının incelenmesi, taşıma araçlarının kontrolü, bagajlar ile kişilerin yanlarında ya da üstlerinde taşıdıkları eşyanın kontrolü, resmi araştırmalar ve benzeri uygulamalardır.",
+     "dayanak": "GK md. 3/13",
+     "kanit": "eşyanın muayenesi, beyanname verileri ile elektronik veya yazılı belgelerin varlığının ve gerçekliğinin doğrulanması, işletmelerin hesap ve diğer kayıtlarının incelenmesi, taşıma araçlarının kontrolü"
+    },
+    {
+     "alt_konu": "Gümrük beyanı ve beyan sahibi",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"beyan sahibi\" kimdir?",
+     "cevap": "Kendi adına beyanda bulunan kişi veya adına beyanda bulunulan kişidir.",
+     "dayanak": "GK md. 3/17",
+     "kanit": "\"Beyan sahibi\" deyimi, kendi adına beyanda bulunan kişiyi veya adına beyanda bulunulan kişiyi;"
+    },
+    {
+     "alt_konu": "Eşyanın gümrüğe sunulması ve teslimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"eşyanın gümrüğe sunulması\" deyimi neyi ifade eder?",
+     "cevap": "Eşyanın gümrük idaresine ya da gümrükçe tayin edilen veya uygun görülen herhangi bir yere getirilmesi üzerine, belirlenen usul ve esaslara uygun olarak gümrük idarelerine yapılan bildirimi ifade eder.",
+     "dayanak": "GK md. 3/18",
+     "kanit": "\"Eşyanın gümrüğe sunulması\" deyimi, eşyanın gümrük idaresine ya da gümrükçe tayin edilen veya uygun görülen herhangi bir yere getirilmesi üzerine, belirlenen usul ve esaslara uygun olarak, gümrük idarelerine yapılan bildirimi"
+    },
+    {
+     "alt_konu": "Eşyanın gümrüğe sunulması ve teslimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"eşyanın teslimi\" deyimi neyi ifade eder?",
+     "cevap": "Eşyanın tabi tutulduğu gümrük rejimi ile öngörülen amaçlar doğrultusunda gümrük idareleri tarafından ilgilisine teslimini ifade eder.",
+     "dayanak": "GK md. 3/19",
+     "kanit": "\"Eşyanın teslimi\" deyimi, eşyanın tabi tutulduğu gümrük rejimi ile öngörülen amaçlar doğrultusunda gümrük idareleri tarafından ilgilisine teslimini"
+    },
+    {
+     "alt_konu": "Rejim hak sahibi ve asıl sorumlu",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"rejim hak sahibi\" kimdir?",
+     "cevap": "Kendi adına ve hesabına gümrük beyanını yapan veya hesabına gümrük beyanı yapılan kişi ya da bu kişilere ait bir gümrük rejimi ile ilgili hak ve yükümlülüklerin devredildiği kişidir.",
+     "dayanak": "GK md. 3/20-a",
+     "kanit": "a) \"Rejim hak sahibi\" deyimi, kendi adına ve hesabına gümrük beyanını yapan veya hesabına gümrük beyanı yapılan kişi veya bu kişilere ait bir gümrük rejimi ile ilgili hakların ve yükümlülüklerin devredildiği kişiyi"
+    },
+    {
+     "alt_konu": "Rejim hak sahibi ve asıl sorumlu",
+     "soru": "4458 sayılı Gümrük Kanununa göre transit rejiminde \"asıl sorumlu\" kimdir?",
+     "cevap": "Transit rejiminde rejim hak sahibidir.",
+     "dayanak": "GK md. 3/20-b",
+     "kanit": "b) \"Asıl sorumlu\" deyimi, transit rejiminde rejim hak sahibini;"
+    },
+    {
+     "alt_konu": "Elleçleme",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"elleçleme\" deyimi neyi ifade eder?",
+     "cevap": "Gümrük gözetimi altındaki eşyanın asli niteliklerini değiştirmeden istiflenmesi, yerinin değiştirilmesi, büyük kaplardan küçük kaplara aktarılması, kapların yenilenmesi veya tamiri, havalandırılması, kalburlanması, karıştırılması ve benzeri işlemlerdir.",
+     "dayanak": "GK md. 3/22",
+     "kanit": "\"Elleçleme\" deyimi, gümrük gözetimi altındaki eşyanın asli niteliklerini değiştirmeden istiflenmesi, yerinin değiştirilmesi, büyük kaplardan küçük kaplara aktarılması, kapların yenilenmesi veya tamiri"
+    },
+    {
+     "alt_konu": "Risk",
+     "soru": "4458 sayılı Gümrük Kanununa göre \"risk\" deyimi neyi ifade eder?",
+     "cevap": "Türkiye Gümrük Bölgesi ile diğer ülkeler arasında taşınan eşyanın giriş, çıkış, transit, nakil ve nihai kullanımına ve serbest dolaşımda bulunmayan eşyaya ilişkin olarak; ulusal veya uluslararası önlemlerin doğru uygulanmasını engelleyen, ülkenin mali çıkarlarını tehlikeye düşüren ya da güvenlik ve emniyete, kamu güvenliği ve sağlığına, çevreye veya tüketicilere yönelik tehdit oluşturan bir olayın ortaya çıkma ihtimalidir.",
+     "dayanak": "GK md. 3/24",
+     "kanit": "a) Ulusal ya da uluslararası düzeyde alınmış önlemlerin doğru bir şekilde uygulanmasını engelleyen, ... b) Ülkenin mali çıkarlarını tehlikeye düşüren, ... bir olayın ortaya çıkma ihtimalini;"
+    },
+    {
+     "alt_konu": "Gümrüklenmiş değer",
+     "soru": "4458 sayılı Gümrük Kanununa göre ihraç eşyası için gümrüklenmiş değer nasıl bulunur?",
+     "cevap": "Uluslararası Kıymet Sözleşmesine göre belirlenen FOB kıymeti ile gümrük vergilerinin toplamıdır; ithal eşyasında ise CIF kıymeti ile gümrük vergileri toplamı esas alınır.",
+     "dayanak": "GK md. 3/26",
+     "kanit": "ithal eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını, ihraç eşyası için FOB kıymeti ile gümrük vergileri toplamını"
+    },
+    {
+     "alt_konu": "Gümrük idareleriyle muhatap olan kişilerin sorumlulukları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idareleriyle muhatap olan kişilerin, gümrük idarelerinin kendi adına veya başka idareler nam veya hesabına tahsil edeceği vergi, resim, harç ve ücretler karşısındaki sorumluluğu nedir?",
+     "cevap": "Bu vergi, resim, harç ve ücretleri ödemek veya bunları teminata bağlamakla sorumludurlar.",
+     "dayanak": "GK md. 4",
+     "kanit": "bu idarelerin kendi adına veya başka idareler nam veya hesabına tahsil edeceği her tür vergi, resim, harç ve ücretleri ödemek veya bunları teminata bağlamak"
+    },
+    {
+     "alt_konu": "ATA Karnesi ve Gümrüklerden Geçiş Karnesi (CPD)",
+     "soru": "Gümrük Yönetmeliğine göre ATA Karnesi hangi sözleşmeler çerçevesinde düzenlenen belgedir?",
+     "cevap": "ATA Karneleri Hakkındaki Gümrük Sözleşmesi ile Geçici İthalat Sözleşmesi çerçevesinde düzenlenen belgedir.",
+     "dayanak": "GY md. 3/1-a",
+     "kanit": "a) ATA Karnesi: ATA Karneleri Hakkındaki Gümrük Sözleşmesi ile Geçici İthalat Sözleşmesi çerçevesinde düzenlenen belgeyi"
+    },
+    {
+     "alt_konu": "Dökme eşya",
+     "soru": "Gümrük Yönetmeliğine göre levha, kangal, profil, kütük, boru, rulo sac ve pik gibi eşya dökme eşya tanımına girer mi?",
+     "cevap": "Girmez. Levha, kangal, profil, kütük, firkete, boru, rulo sac, pik gibi eşya ambalajlı olarak sayılabilen eşyaya örnektir ve ambalajlanmış eşya ile birlikte dökme eşya tanımının dışında bırakılmıştır. Dökme eşya; maden cevheri, mineraller, hurda demir, kömür, hububat, çimento gibi ambalajlanmamış ve genellikle yükleme ve boşaltması mekanik vasıta ve tesis gerektiren her nevi gaz, sıvı ve katı maddelerdir.",
+     "dayanak": "GY md. 3/1-c",
+     "kanit": "Levha, kangal, profil, kütük, firkete, her türlü boru, rulo sac, pik gibi ambalajlı olarak sayılabilen veya ambalajlanmış eşya dışında kalan; maden cevheri, mineraller, hurda demir, kömür, hububat ... ambalajlanmamış ve genellikle yükleme ve boşaltması mekanik vasıta ve tesis gerektiren her nevi gaz, sıvı ve katı maddeleri"
+    },
+    {
+     "alt_konu": "Eşyanın kayıt yoluyla rejime geçişi",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın kayıt yoluyla rejime geçişinde beyan nasıl yapılır?",
+     "cevap": "Gümrük işlemleri yükümlünün kendi tesislerinde yerinde gümrükleme yoluyla gerçekleştirilir ve gümrük idaresince uygun bulunması halinde beyan, beyanname verilmesi yerine ticari kayıtlara giriş yoluyla yapılır.",
+     "dayanak": "GY md. 3/1-d",
+     "kanit": "yükümlünün kendi tesislerinde yerinde gümrükleme yoluyla gerçekleştirilmesi ve gümrük idaresince uygun bulunması halinde, beyanın beyanname verilmesi yerine ticari kayıtlara giriş yoluyla yapılmasını"
+    },
+    {
+     "alt_konu": "Gümrük işlemlerinin bitirilmesi",
+     "soru": "Gümrük Yönetmeliğine göre \"gümrük işlemlerinin bitirilmesi\" hangi halleri ifade eder?",
+     "cevap": "Eşyaya ait vergilerin ödenmesi, kaldırılması veya teminata bağlanması, beyannamenin iptal edilmesi ya da eşyanın gümrüğe terk edilmesi, imhası veya müsadere edilmesi hallerini ifade eder.",
+     "dayanak": "GY md. 3/1-h",
+     "kanit": "h) Gümrük işlemlerinin bitirilmesi: Eşyaya ait vergilerin ödenmesini veya kaldırılmasını veya teminata bağlanmasını veya beyannamenin iptal edilmesini veya eşyanın gümrüğe terk edilmesini veya imhasını veya müsadere edilmesini"
+    },
+    {
+     "alt_konu": "Gümrüklü saha",
+     "soru": "Gümrük Yönetmeliğine göre deniz gümrük kapılarında gümrüklü saha hangi alanları kapsar?",
+     "cevap": "Fiziki olarak etrafından ayrılmış veya böyle addedilen yerlerle birlikte ilgili liman yönetmelikleri ile belirlenen liman sahası ve demirleme sahalarını kapsayan deniz ve kıyı alanlarını kapsar.",
+     "dayanak": "GY md. 3/1-ı",
+     "kanit": "deniz gümrük kapılarında ise bu yerlerle birlikte ilgili liman yönetmelikleri ile belirlenen liman sahası ve demirleme sahalarını kapsayan deniz ve kıyı alanlarını"
+    },
+    {
+     "alt_konu": "Yetkilendirilmiş yükümlü sertifikası",
+     "soru": "Gümrük Yönetmeliğine göre yetkilendirilmiş yükümlü sertifikası hangi kolaylıklardan yararlanılmak üzere verilir?",
+     "cevap": "Gümrük mevzuatının öngördüğü basitleştirilmiş uygulamalar ile Türkiye Gümrük Bölgesine eşya giriş ve çıkışı sırasında yapılan emniyet ve güvenlik kontrollerine ilişkin kolaylaştırmalardan yararlanmak üzere, aranan koşulları sağlayan yükümlülere verilir.",
+     "dayanak": "GY md. 3/1-r",
+     "kanit": "gümrük mevzuatının öngördüğü basitleştirilmiş uygulamalar ile Türkiye Gümrük Bölgesine eşya giriş ve çıkışı sırasında yapılan emniyet ve güvenlik kontrollerine ilişkin kolaylaştırmalardan yararlanmak üzere verilen belgeyi"
+    }
+   ]
+  },
+  {
+   "kaynak": "2-TEMSİL.txt",
+   "konu": "Temsil, gümrüklerde iş takibi ve gümrük müşavirliği",
+   "mevzuat": "GK md. 5, 225-230; GY md. 561-573; Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71); Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1)",
+   "cikmis_sayisi": 23,
+   "cikmis": [
+    "2021-22: GK md. 5 temsil hükümleri; temsilcinin beyan ve temsil belgesi ibraz zorunluluğu",
+    "2021-37: GM tüzel kişiliği; GMY'ler ortak olabilir, birden fazla tüzel kişiliğe ortaklık yasağı, bağımsız çalışmayan GM",
+    "2021-76: GMY ve stajyerin yetkileri, mali sorumluluk; dolaylı temsilde noter tasdikli vekaletname (kamuda aranmaz)",
+    "2021-77: GM izin belgeleri ruhsat harcına tabidir",
+    "2021-83: GMY koşulları; staj süresi bir yıldır",
+    "2021-84: GM bilgi-belge değişikliklerini bir hafta içinde derneğe bildirir",
+    "2021-85: Müstakil GM serbest meslek makbuzu düzenler",
+    "2021-86: GM asgari ücret tarifesinde genel indirim oranı (hükmü bu dosyada değil)",
+    "2021-90: Posta/hızlı kargo eşyasının miktar ve değerini Cumhurbaşkanı belirler",
+    "2022-63: GM/GMY olmaya engel suçlar; görevi kötüye kullanma sayılmaz",
+    "2022-79: Doğrudan ve dolaylı temsilin tanımı",
+    "2022-87: GM'nin beyan sahibiyle müştereken ve müteselsilen sorumluluğu",
+    "2022-100: GM, GMY ve stajyerlerin iş takibi; stajyerler iş takibi yapamaz",
+    "2023-23: GM belgelerini beş yıl saklar",
+    "2023-26: GM bilgi-belge değişikliklerini bir hafta içinde derneğe bildirir",
+    "2023-30: GMY/stajyer işe başlama-ayrılma bildiriminin süresinde yapılmamasının cezası",
+    "2023-89: Faaliyetler GM tarafından dolaylı temsil yoluyla takip edilir",
+    "2023-94: GM ve GMY sınavlarına en fazla üçer kez girilebilir (hükmü bu dosyada değil)",
+    "2024-85: Müteselsil sorumlulukta ceza bir kez ödenir",
+    "2024-94: GMY izin belgesi altmış gün içinde verilir",
+    "2025-22: Taşıma işletmeleri taşıdıkları eşyanın yalnız transit işlemlerini doğrudan temsille takip eder",
+    "2025-23: GMY muayenede hazır bulunabilir, tebliğ kabul edemez, tek başına iş takibi ve fatura düzenleme yapamaz",
+    "2025-24: GMY olabilme koşulları"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Temsil hakkı, temsilcinin yerleşikliği ve temsil türleri",
+     "dayanak": "GK md. 5",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-22",
+      "2022-79"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Dolaylı temsil yoluyla iş takibi, gerçek kişinin doğrudan temsili, posta ve hızlı kargo",
+     "dayanak": "GK md. 225/1; GY md. 561/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-89",
+      "2021-90"
+     ],
+     "not": "GM'nin dolaylı temsil yetkisi ve posta/hızlı kargo eşyasının miktar-değerini Cumhurbaşkanının belirlemesi soruldu; gerçek kişinin doğrudan temsille iş takibinin sınırı ve posta/hızlı kargo şirketlerinin vekaletname ibraz etmeksizin dolaylı temsilci olması sorulmadı."
+    },
+    {
+     "baslik": "Kamu görevlileri, şirket personeli ve taşıma işletmelerinin doğrudan temsili; sağlık şartı",
+     "dayanak": "GK md. 225/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-22"
+     ],
+     "not": "Yalnız taşıma işletmelerinin transit işlemlerini doğrudan temsille takibi soruldu; kamu görevlileri ile özel hukuk tüzel kişileri personelinin tüm işlemleri doğrudan temsille takibi, personelde aranan şartlar ve sağlık raporu sorulmadı."
+    },
+    {
+     "baslik": "GM, GMY ve stajyerlerin iş takibi yetkileri ve mali sorumluluk",
+     "dayanak": "GK md. 226",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-76",
+      "2022-100"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük müşavir yardımcısı olabilme koşulları",
+     "dayanak": "GK md. 227/1",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-83",
+      "2022-63",
+      "2025-24"
+     ],
+     "not": "Vatandaşlık, ehliyet, kamu hakları, engel suçlar, memuriyetten çıkarılmamış olma ve bir yıllık staj soruldu; öğrenim şartı (lisans dalları, lisansüstü ve ön lisans yolu) sorulmadı."
+    },
+    {
+     "baslik": "Gümrük idaresinden ayrılanların stajsız veya sınavsız GMY olması",
+     "dayanak": "GK md. 227/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "GMY ve GM izin belgesinin verilme süresi",
+     "dayanak": "GK md. 227/3; GK md. 228/3",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2024-94"
+     ],
+     "not": "Altmış günlük süre GM izin belgesi için de aynıdır; ayrıca soru üretilmedi."
+    },
+    {
+     "baslik": "Gümrük müşaviri olabilme koşulları",
+     "dayanak": "GK md. 228/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük idaresinden ayrılanların stajsız veya sınavsız GM olması",
+     "dayanak": "GK md. 228/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "GM tüzel kişiliğine ortaklık ve müteselsil sorumluluk",
+     "dayanak": "GK md. 229/2",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-37"
+     ],
+     "not": "2022-87 ve 2024-85 beyan sahibiyle müteselsil sorumluluğu ve borcun bir kez ödenmesini ölçtü."
+    },
+    {
+     "baslik": "Gümrük müşavirlerinin defter ve belgeleri saklama yükümlülüğü",
+     "dayanak": "GK md. 230",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-23"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük İşlemi Takip Kartının amacı ve sağladığı hak",
+     "dayanak": "Seri No 71 Tebliğ md. 1-2, 8/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Takip kartının geçerlilik alanı, amaç dışı kullanımı ve kayıtların saklanması",
+     "dayanak": "Seri No 71 Tebliğ md. 8/2-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Dolaylı temsil vekaletnamesi",
+     "dayanak": "GY md. 561/3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-76"
+     ],
+     "not": "Noter tasdiki ve kamu kurumlarının vekaletnamelerinde noter onayının aranmaması soruldu; vekaletnamenin asgari içeriği sorulmadı."
+    },
+    {
+     "baslik": "Doğrudan temsilde aranan belgeler ve BİLGE kullanıcı kodu",
+     "dayanak": "GY md. 561/4-a, b",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "GMY'nin yapabileceği ve yapamayacağı işlemler",
+     "dayanak": "GY md. 561/6-8",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-23"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Bağımsız çalışmayan gümrük müşavirleri",
+     "dayanak": "GY md. 562",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-37"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük müşavirinin beyannameden doğan sorumluluğu",
+     "dayanak": "GY md. 563/1",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-87",
+      "2024-85"
+     ],
+     "not": "Beyan sahibiyle müteselsil sorumluluk soruldu; GM'nin cezai hükümler açısından beyan bilgileri ve ekli belgelerin doğruluğundan sorumluluğu sorulmadı."
+    },
+    {
+     "baslik": "Bilgi ve belge değişikliklerinin bildirimi",
+     "dayanak": "GY md. 563/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-84",
+      "2023-26"
+     ],
+     "not": "GM'nin değişiklikleri bir hafta içinde derneğe bildirmesi soruldu; değişiklik olmayan hallerde yıllık bildirim sorulmadı."
+    },
+    {
+     "baslik": "GMY ve stajyerlerin işe başlama ve ayrılma bildirimleri",
+     "dayanak": "GY md. 563/3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-30"
+     ],
+     "not": "Bildirimin süresinde yapılmamasının cezası soruldu; bildirim süreleri, ilişik kesme belgesi ve staj/GMY sürelerinin hesaplanması sorulmadı."
+    },
+    {
+     "baslik": "Serbest meslek makbuzu ve fatura düzenleme",
+     "dayanak": "GY md. 563/4-5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-85"
+     ],
+     "not": "Müstakil GM'nin serbest meslek makbuzu düzenlemesi soruldu; başka kişinin onun hizmeti için belge düzenleyememesi sorulmadı."
+    },
+    {
+     "baslik": "GM şirketlerinin ortaklık ve yönetim yapısı",
+     "dayanak": "GY md. 563/6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-37"
+     ],
+     "not": "GMY'lerin ortak olabilmesi soruldu; ortak GM'nin gerçek kişi olarak faaliyet yasağı ile AŞ/Ltd yönetim şartı sorulmadı."
+    },
+    {
+     "baslik": "Sır saklama yükümlülüğü",
+     "dayanak": "GY md. 563/7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Çalışma yeri ve tebligat adresi",
+     "dayanak": "GK md. 229/1; GY md. 564",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "GMY ve GM sınavlarının yapılışı ve sözlü sınav",
+     "dayanak": "GY md. 566",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınav konuları ve soru dağılımı",
+     "dayanak": "GY md. 567",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınavların değerlendirilmesi ve başarı puanı",
+     "dayanak": "GY md. 568",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınav kurulu",
+     "dayanak": "GY md. 569",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınav sonuçlarının duyurulması ve itiraz",
+     "dayanak": "GY md. 571",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzin belgesi başvurusu ve ruhsat harcı",
+     "dayanak": "GY md. 573",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-77"
+     ],
+     "not": "Ruhsat harcı soruldu; izin belgesi başvurusunun dernek aracılığıyla yapılması sorulmadı."
+    },
+    {
+     "baslik": "Yükümlü Kayıt ve Takip Sistemine kayıt zorunluluğu",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "YKTS başvurusunun değerlendirilme süresi",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "YKTS'de güncelleme süresi",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "YKTS müeyyide ve yetki",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 8-9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Dolaylı temsil yoluyla iş takibi, gerçek kişinin doğrudan temsili, posta ve hızlı kargo",
+     "soru": "4458 sayılı Gümrük Kanununa göre gerçek kişinin doğrudan temsil yoluyla gümrüklerde iş takibi hangi işlemler için mümkündür?",
+     "cevap": "Geçerli vekaletnameye istinaden yalnızca ticari miktar ve mahiyet arz etmeyen eşyanın ve özel kullanıma mahsus taşıt araçlarının gümrük işlemleri için mümkündür.",
+     "dayanak": "GK md. 225/1",
+     "kanit": "Gerçek kişinin doğrudan temsil yoluyla iş takibi, geçerli vekaletnameye istinaden ticari miktar ve mahiyet arz etmeyen eşyanın ve özel kullanıma mahsus taşıt araçlarının gümrük işlemleri ile ilgili olarak mümkündür."
+    },
+    {
+     "alt_konu": "Dolaylı temsil yoluyla iş takibi, gerçek kişinin doğrudan temsili, posta ve hızlı kargo",
+     "soru": "Gümrük Yönetmeliğine göre posta yolu ve hızlı kargo taşımacılığına konu, miktar ve değeri belirlenen eşyanın gümrük işlemlerini posta idaresi veya hızlı kargo şirketleri hangi sıfatla ve vekaletname ibrazı gerekip gerekmeden sonuçlandırabilir?",
+     "cevap": "Vekaletname ibraz edilmeksizin dolaylı temsilci olarak sonuçlandırabilir.",
+     "dayanak": "GY md. 561/2",
+     "kanit": "posta idaresi ya da hızlı kargo taşımacılığı yapan şirketlerce vekaletname ibraz edilmeksizin, dolaylı temsilci olarak sonuçlandırılabilir."
+    },
+    {
+     "alt_konu": "Kamu görevlileri, şirket personeli ve taşıma işletmelerinin doğrudan temsili; sağlık şartı",
+     "soru": "4458 sayılı Gümrük Kanununa göre kamu tüzel kişilerinin amir ve memurları ile özel hukuk tüzel kişilerinin kendilerini temsile yetkili personeli hangi gümrük işlemlerini, hangi temsil yoluyla takip edebilir?",
+     "cevap": "Tüm gümrük işlemlerini doğrudan temsil yoluyla takip edebilirler.",
+     "dayanak": "GK md. 225/2",
+     "kanit": "Devlet, belediye, il özel idareleri ve diğer kamu tüzel kişilerinin amir ve memurları, özel hukuk tüzel kişilerinin kendilerini temsile yetkili personeli, tüm gümrük işlemlerini doğrudan temsil yoluyla takip edebilirler."
+    },
+    {
+     "alt_konu": "Kamu görevlileri, şirket personeli ve taşıma işletmelerinin doğrudan temsili; sağlık şartı",
+     "soru": "4458 sayılı Gümrük Kanununa göre özel hukuk tüzel kişilerinin doğrudan temsil yoluyla iş takibi yapacak personelinde, gümrük müşavir yardımcılığı koşullarından hangileri aranmaz?",
+     "cevap": "Bir gümrük müşaviri yanında bir yıl staj yapma ve gümrük müşavir yardımcılığı sınavında başarılı olma şartları aranmaz; diğer koşullar aranır.",
+     "dayanak": "GK md. 225/2",
+     "kanit": "Özel hukuk tüzel kişilerinin doğrudan temsil yoluyla gümrük idarelerinde iş takibi yapacak personeli için 227 nci maddenin birinci fıkrasının (g) ve (h) dışındaki bentlerinde sayılan şartlar aranır. ... g) Staj amacıyla bir gümrük müşavirinin yanında bir yıl çalışmış olmak"
+    },
+    {
+     "alt_konu": "Kamu görevlileri, şirket personeli ve taşıma işletmelerinin doğrudan temsili; sağlık şartı",
+     "soru": "4458 sayılı Gümrük Kanununa göre doğrudan veya dolaylı temsilcilerin faaliyetlerine engel bir hastalığının bulunup bulunmadığı konusunda tereddüt edilmesi halinde ne yapılabilir?",
+     "cevap": "Müsteşarlık tarafından tam teşekküllü resmi sağlık kurumlarından sağlık raporu talep edilebilir.",
+     "dayanak": "GK md. 225/2",
+     "kanit": "Tereddüt edilmesi halinde, Müsteşarlık tarafından tam teşekküllü resmi sağlık kurumlarından sağlık raporu talep edilebilir."
+    },
+    {
+     "alt_konu": "Gümrük müşavir yardımcısı olabilme koşulları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük müşavir yardımcılığının öğrenim şartını lisans düzeyinde doğrudan sağlayan dallar hangileridir?",
+     "cevap": "Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi, siyasal bilgiler ve endüstri mühendisliği dallarında eğitim veren fakülte ve yüksek okullar ile denkliği YÖK'çe tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans düzeyinde mezun olmaktır.",
+     "dayanak": "GK md. 227/1-f",
+     "kanit": "Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi, siyasal bilgiler ve endüstri mühendisliği dallarında eğitim veren fakülte ve yüksek okullardan"
+    },
+    {
+     "alt_konu": "Gümrük müşavir yardımcısı olabilme koşulları",
+     "soru": "4458 sayılı Gümrük Kanununa göre sayılan dallar dışındaki lisans mezunları ile ön lisans mezunları gümrük müşavir yardımcılığının öğrenim şartını nasıl sağlar?",
+     "cevap": "Diğer lisans mezunları sayılan bilim dallarından lisansüstü diploma almalıdır; ön lisans mezunlarının ise gümrük, dış ticaret ve Avrupa Birliği konularında uzmanlık programı olan meslek yüksek okullarından mezun olması gerekir.",
+     "dayanak": "GK md. 227/1-f",
+     "kanit": "Diğer öğretim kurumlarından lisans seviyesinde mezun olduktan sonra (i) alt bendinde belirtilen bilim dallarından lisans üstü seviyede diploma almış olmak ... ön lisans eğitimi veren gümrük, dış ticaret ve Avrupa Birliği konularında uzmanlık programı olan meslek yüksek okullarından mezun olmak"
+    },
+    {
+     "alt_konu": "Gümrük idaresinden ayrılanların stajsız veya sınavsız GMY olması",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idaresinde en az on beş yıl çalışıp istifa ederek veya emekli olarak ayrılan memurlar gümrük müşavir yardımcılığı sınavına hangi kolaylıkla girebilir?",
+     "cevap": "Diğer koşulları taşımaları halinde staj koşulu aranmaksızın sınava girebilirler; sınav şartı kalkmaz.",
+     "dayanak": "GK md. 227/2-a",
+     "kanit": "Gümrük idaresinde en az onbeş yıl çalışıp da görevlerinden istifa ederek veya emekli olarak ayrılan memurlardan 1 inci fıkradaki koşulları taşıyanlar, staj koşulu aranmaksızın gümrük müşavir yardımcısı sınavına girebilirler."
+    },
+    {
+     "alt_konu": "Gümrük idaresinden ayrılanların stajsız veya sınavsız GMY olması",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını hangi görevlerde geçirerek ayrılanlar sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilir?",
+     "cevap": "Gümrük muayene memuru, gümrük başmemuru ve gümrük müdür yardımcısı görevlerinde üç yıl geçirenler.",
+     "dayanak": "GK md. 227/2-b",
+     "kanit": "bunun üç yılını gümrük muayene memuru, gümrük başmemuru ve gümrük müdür yardımcısı görevlerinde geçirenlerden ... sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilirler."
+    },
+    {
+     "alt_konu": "Gümrük müşaviri olabilme koşulları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük müşavirliği yapmaya hak kazanmak için kaç yıl gümrük müşavir yardımcılığı yapılmış olması gerekir?",
+     "cevap": "İki yıl gümrük müşavir yardımcılığı yapmış olmak ve gümrük müşavirliği sınavında başarılı olmak gerekir.",
+     "dayanak": "GK md. 228/1",
+     "kanit": "iki yıl süre ile gümrük müşavir yardımcılığı yaparak, gümrük mevzuatı ve gümrüğe ilişkin iktisadi, ticari ve mali konuları kapsayan sınavda başarılı olan kişiler, gümrük müşavirliği yapmaya hak kazanır."
+    },
+    {
+     "alt_konu": "Gümrük müşaviri olabilme koşulları",
+     "soru": "4458 sayılı Gümrük Kanununa göre öğrenim şartını lisansüstü diploma ya da gümrük, dış ticaret ve Avrupa Birliği konularında uzmanlık programı olan meslek yüksek okulu mezuniyeti yoluyla sağlayan kişiler, iki yıl gümrük müşavir yardımcılığı yapıp sınavda başarılı olarak gümrük müşavirliğine hak kazanabilir mi?",
+     "cevap": "Hayır. İki yıllık gümrük müşavir yardımcılığı ve sınav yoluyla gümrük müşavirliğine hak kazanmada öğrenim şartının bu alternatif yolu (lisansüstü diploma veya meslek yüksek okulu mezuniyeti) hariç tutulmuştur; bu yolda hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi, siyasal bilgiler ve endüstri mühendisliği dallarında eğitim veren fakülte ve yüksek okullardan ya da denkliği YÖK'çe tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans düzeyinde mezuniyet aranır.",
+     "dayanak": "GK md. 228/1; GK md. 227/1-f",
+     "kanit": "227 nci maddenin 1 inci fıkrasının (f) bendinin (ii) alt bendi hariç olmak üzere, aynı fıkrada belirtilen koşulları taşıyan ve iki yıl süre ile gümrük müşavir yardımcılığı yaparak ... gümrük müşavirliği yapmaya hak kazanır."
+    },
+    {
+     "alt_konu": "Gümrük idaresinden ayrılanların stajsız veya sınavsız GM olması",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idaresinde on yıl çalışıp bunun üç yılını şube müdürü, gümrük müdürü, gümrük muhafaza müdürü veya başmüdür yardımcısı görevlerinde geçirerek ayrılanlar gümrük müşavirliği sınavına hangi kolaylıkla girebilir?",
+     "cevap": "Gümrük müşavir yardımcılığı koşullarını taşımaları halinde staj koşuluna tabi tutulmaksızın gümrük müşavirliği sınavına girebilirler.",
+     "dayanak": "GK md. 228/2-a",
+     "kanit": "Gümrük idaresinde on yıl çalışmış olup, bunun üç yılını şube müdürü, gümrük müdürü, gümrük muhafaza müdürü ... staj koşuluna tabi tutulmaksızın gümrük müşavirliği sınavına girebilirler."
+    },
+    {
+     "alt_konu": "Gümrük idaresinden ayrılanların stajsız veya sınavsız GM olması",
+     "soru": "4458 sayılı Gümrük Kanununa göre staj koşulu aranmaksızın gümrük müşavirliği sınavına girme hakkı bulunan eski gümrük yöneticilerine talep halinde hangi belge verilir?",
+     "cevap": "Talep halinde sınav ve staj koşulu aranmaksızın Gümrük Müşavir Yardımcısı İzin Belgesi verilir.",
+     "dayanak": "GK md. 228/2-a",
+     "kanit": "Bu kişilere, talep halinde sınav ve staj koşulu aranmaksızın Gümrük Müşavir Yardımcısı İzin Belgesi verilir."
+    },
+    {
+     "alt_konu": "Gümrük idaresinden ayrılanların stajsız veya sınavsız GM olması",
+     "soru": "4458 sayılı Gümrük Kanununa göre hangi görevlerde en az on yıl çalışıp ayrılanlar sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır?",
+     "cevap": "Gümrük başmüdürü, gümrük muhafaza başmüdürü, gümrük uzmanı, kontrolör, gümrük müfettişi, daire başkanı ve daha üst görevlerde en az on yıl çalışıp istifa eden veya emekliye ayrılanlar.",
+     "dayanak": "GK md. 228/2-b",
+     "kanit": "Gümrük idaresinde gümrük başmüdürü, gümrük muhafaza başmüdürü, gümrük uzmanı, kontrolör, gümrük müfettişi, daire başkanı ve daha üst görevlerde en az on yıl çalışmış olanlardan ... sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanırlar."
+    },
+    {
+     "alt_konu": "Gümrük İşlemi Takip Kartının amacı ve sağladığı hak",
+     "soru": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71)'e göre Gümrük İşlemi Takip Kartı kimlere düzenlenir?",
+     "cevap": "Özet beyan verecekler ile taşıdıkları eşyanın sadece transit işlemlerini doğrudan temsil yoluyla takip edeceklere (acenteler ve nakliyeci kuruluşların personeli) gümrüklere giriş hakkı tanımak üzere düzenlenir.",
+     "dayanak": "Seri No 71 Tebliğ md. 1",
+     "kanit": "özet beyan verecekler ile taşıdıkları eşyanın sadece transit işlemlerini doğrudan temsil yoluyla takip edeceklere gümrüklere giriş hakkı tanıyan"
+    },
+    {
+     "alt_konu": "Gümrük İşlemi Takip Kartının amacı ve sağladığı hak",
+     "soru": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71)'e göre Gümrük İşlemi Takip Kartı, gümrüklü sahalara giriş dışında hukuki sonuç doğuran işlemler için yetki verir mi?",
+     "cevap": "Vermez; kart yalnızca özet beyan ve transit işlemlerini gerçekleştirmek üzere gümrüklü sahalara giriş hakkı sağlar.",
+     "dayanak": "Seri No 71 Tebliğ md. 8/1",
+     "kanit": "gümrüklü sahalara giriş hakkı sağlamakta olup bunun dışında herhangi bir hak veya hukuki sonuç doğuracak işlemler için yetki vermemektedir."
+    },
+    {
+     "alt_konu": "Takip kartının geçerlilik alanı, amaç dışı kullanımı ve kayıtların saklanması",
+     "soru": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71)'e göre bir başmüdürlükten sağlanan Gümrük İşlemi Takip Kartı diğer başmüdürlüklerin bağlantısındaki gümrüklerde kullanılabilir mi?",
+     "cevap": "Kullanılamaz. Kart, talep eden firmaların merkez veya şubelerinin bulunduğu bölgedeki Gümrük ve Muhafaza Başmüdürlüğünce verilir.",
+     "dayanak": "Seri No 71 Tebliğ md. 8/2",
+     "kanit": "Bir başmüdürlükten sağlanan kartlar diğer başmüdürlüklerin bağlantısı olan gümrüklerde kullanılamaz."
+    },
+    {
+     "alt_konu": "Takip kartının geçerlilik alanı, amaç dışı kullanımı ve kayıtların saklanması",
+     "soru": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71)'e göre Gümrük İşlemi Takip Kartının amaç dışı kullanıldığının tespiti halinde ne yapılır?",
+     "cevap": "Usulsüzlük cezası uygulanır ve karta altı ay süreyle geçici olarak el konulur; süre bitiminde yazılı başvuru halinde kart iade edilir. Fiilin tekerrüründe kart iptal edilir ve aynı kişi adına yeniden düzenlenmez.",
+     "dayanak": "Seri No 71 Tebliğ md. 8/3",
+     "kanit": "Gümrük Kanununun 241 inci maddesinin birinci fıkrası uyarınca ceza uygulanarak söz konusu karta 6 ay süre ile geçici olarak el konulur ... Aynı fiilin tekerrürü halinde kart iptal edilerek aynı kişi adına yeniden kart düzenlenmez."
+    },
+    {
+     "alt_konu": "Takip kartının geçerlilik alanı, amaç dışı kullanımı ve kayıtların saklanması",
+     "soru": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71)'e göre Gümrük İşlemi Takip Kartlarına ilişkin bilgi ve belgeler ne kadar süre saklanır?",
+     "cevap": "Dernek veya odalar ile ilgili başmüdürlüklerce en az 5 yıl süreyle muhafaza edilir.",
+     "dayanak": "Seri No 71 Tebliğ md. 8/4",
+     "kanit": "Gümrük İşlemi Takip Kartlarına ilişkin bilgi ve belgeler, gerek dernek veya odalar gerekse ilgili başmüdürlüklerce en az 5 yıl süre ile muhafaza edilir."
+    },
+    {
+     "alt_konu": "Dolaylı temsil vekaletnamesi",
+     "soru": "Gümrük Yönetmeliğine göre dolaylı temsil için verilen vekaletnamelerde en az hangi hususlara yer verilir?",
+     "cevap": "Tarafların açık adresleri, vergi daireleri ve sicil numaraları; yapılacak işlerin amacı ve kapsamı; Kanundakilere ilaveten tarafların karşılıklı sorumluluk ve yükümlülükleri; vekaletnamenin yeri, tarihi ve varsa süresi ile temsilin türü.",
+     "dayanak": "GY md. 561/3",
+     "kanit": "a) Tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları. ... b) Yapılacak işlerin amacı, kapsamı ... ç) Vekaletname yeri, tarihi ve varsa süresi."
+    },
+    {
+     "alt_konu": "Doğrudan temsilde aranan belgeler ve BİLGE kullanıcı kodu",
+     "soru": "Gümrük Yönetmeliğine göre özel hukuk tüzel kişilerinin kanuni temsilcileri dışındaki çalışanlarının doğrudan temsil yoluyla iş takibi için gümrük idaresine ibrazı zorunlu belgeler nelerdir?",
+     "cevap": "Şirketçe sigorta ettirildiğine ilişkin SGK aylık sigorta primleri bordrosu, şirketi temsile yetkili olduğunu gösteren ve Ticaret Sicil Gazetesinde yayımlanmış temsil belgesi ile Ticaret Sicil Tasdiknamesi.",
+     "dayanak": "GY md. 561/4-a",
+     "kanit": "çalıştığı şirket tarafından sigorta ettirildiğine ilişkin Sosyal Güvenlik Kurumu aylık sigorta primleri bordrosu, şirketi temsil etmeye yetkili olduğunu gösterir temsil belgesini haiz olması ve temsil belgesinin Ticaret Sicil Gazetesinde yayımlanması"
+    },
+    {
+     "alt_konu": "Doğrudan temsilde aranan belgeler ve BİLGE kullanıcı kodu",
+     "soru": "Gümrük Yönetmeliğine göre doğrudan temsil yoluyla iş takibi yapacak kişilerin BİLGE kullanıcı kodu taleplerinde gerekli belgelerin ibraz edilmemesi veya eksik ibraz edilmesi halinde ne yapılır?",
+     "cevap": "İlgililere kullanıcı kodu verilmez veya mevcut koda bloke konulur.",
+     "dayanak": "GY md. 561/4-b",
+     "kanit": "Belgelerin ibraz edilmemesi veya eksik ibraz edilmesi halinde ilgililere kullanıcı kodu verilmez veya bloke konulur."
+    },
+    {
+     "alt_konu": "Gümrük müşavirinin beyannameden doğan sorumluluğu",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirleri imzaladıkları beyannameyle ilgili cezai hükümlerin uygulanması açısından nelerden sorumludur?",
+     "cevap": "Beyannamede belirtilen bilgiler ile beyannameye ekli belgelerin doğruluğundan ve ilgili rejimin gerektirdiği bütün yükümlülüklere uyulmasından sorumludurlar; bu sorumluluk, Gümrük Kanununun 181 inci maddesinin ikinci fıkrası saklı kalmak kaydıyladır.",
+     "dayanak": "GY md. 563/1",
+     "kanit": "Gümrük müşavirleri imzaladıkları beyanname ile ilgili cezai hükümlerin uygulanması açısından beyannamede belirtilen bilgiler ile beyannameye ekli belgelerin doğruluğundan ve ilgili rejimin gerektirdiği bütün yükümlülüklere uyulmasından, Kanunun 181 inci maddesinin ikinci fıkrası saklı kalmak kaydıyla, sorumludur."
+    },
+    {
+     "alt_konu": "Bilgi ve belge değişikliklerinin bildirimi",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirlerinin izin belgesi, şirket ve temsil bilgilerinde değişiklik olmayan hallerde bildirim ne zaman ve nasıl yapılır?",
+     "cevap": "Her yılın ikinci ayı içerisinde bir yazı ile gümrük müşavirleri dernekleri vasıtasıyla bağlı bulunulan başmüdürlüğe bildirilir.",
+     "dayanak": "GY md. 563/2",
+     "kanit": "Değişiklik olmayan hallerde ise durum her yılın ikinci ayı içerisinde bir yazı ile gümrük müşavirleri dernekleri vasıtasıyla bağlı bulunulan başmüdürlüğe bildirilir."
+    },
+    {
+     "alt_konu": "GMY ve stajyerlerin işe başlama ve ayrılma bildirimleri",
+     "soru": "Gümrük Yönetmeliğine göre müşavir yardımcıları ve stajyerlerin göreve başlama ve ayrılmaları hangi sürede ve kime bildirilir?",
+     "cevap": "İlgili gümrük müşaviri tarafından bir hafta içinde gümrük müşavirleri derneğine, dernek tarafından da bir hafta içinde bağlı bulunulan gümrük ve muhafaza başmüdürlüğüne yazıyla bildirilir; bildirime sigortalı işe giriş bildirgesi örneği eklenir.",
+     "dayanak": "GY md. 563/3",
+     "kanit": "Müşavir yardımcıları ve stajyerlerin göreve başlama ve ayrılmaları, ilgili gümrük müşaviri tarafından bir hafta içinde gümrük müşavirleri derneğine, bu dernek tarafından da bir hafta içinde bağlı bulunulan gümrük ve muhafaza başmüdürlüğüne yazı ile bildirilir."
+    },
+    {
+     "alt_konu": "GMY ve stajyerlerin işe başlama ve ayrılma bildirimleri",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşaviri yanında çalışmaya başlayacak müşavir yardımcısı ve stajyerlerden hangi belge aranır ve kimler bu hükmün dışındadır?",
+     "cevap": "Ayrıldıkları müşavirce düzenlenen ilişik kesme belgesi aranır; ilk defa göreve başlayacak müşavir yardımcıları ve stajyerler bu hükmün dışındadır.",
+     "dayanak": "GY md. 563/3",
+     "kanit": "bunlar için ilişik kesme belgesi düzenler ve yanlarında çalışmaya başlayacaklardan da bu belgeyi arar. İlk defa göreve başlayacak gümrük müşavir yardımcıları ve stajyerler bu hükmün dışındadır."
+    },
+    {
+     "alt_konu": "GMY ve stajyerlerin işe başlama ve ayrılma bildirimleri",
+     "soru": "Gümrük Yönetmeliğine göre stajyerlik ve gümrük müşavir yardımcılığı için gerekli bir ve iki yıllık sürelerin hesaplanmasında ne dikkate alınır?",
+     "cevap": "Sigortalı olarak işe başlama tarihi ve sigortalı olarak çalışılan süre dikkate alınır.",
+     "dayanak": "GY md. 563/3",
+     "kanit": "Stajyerlik ve gümrük müşavir yardımcılığı için gerekli bir ve iki yıllık sürelerin hesaplanmasında sigortalı olarak işe başlama tarihi ve sigortalı olarak çalışılan süre dikkate alınır."
+    },
+    {
+     "alt_konu": "Serbest meslek makbuzu ve fatura düzenleme",
+     "soru": "Gümrük Yönetmeliğine göre bir gümrük müşavirliği şirketine bağlı olmaksızın müstakil çalışan gümrük müşavirinin hizmeti karşılığında başka bir şirket veya kişi fatura düzenleyebilir mi?",
+     "cevap": "Düzenleyemez; bu hizmet için başka bir şirket veya kişi fatura, makbuz veya benzeri belge düzenleyemez.",
+     "dayanak": "GY md. 563/4",
+     "kanit": "Bu kişilerin yaptıkları hizmet karşılığında başka bir şirket veya kişi fatura, makbuz veya benzeri belge düzenleyemez."
+    },
+    {
+     "alt_konu": "GM şirketlerinin ortaklık ve yönetim yapısı",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirliği tüzel kişiliğine ortak olan gümrük müşaviri gerçek kişi olarak mesleki faaliyette bulunabilir mi?",
+     "cevap": "Bulunamaz.",
+     "dayanak": "GY md. 563/6",
+     "kanit": "Tüzel kişilik ortağı olan gümrük müşavirleri gerçek kişi olarak mesleki faaliyette bulunamazlar."
+    },
+    {
+     "alt_konu": "GM şirketlerinin ortaklık ve yönetim yapısı",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirlerince kurulan tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmesi için anonim ve limited şirketlerde hangi şart aranır?",
+     "cevap": "Anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir; ortak dışındaki üçüncü kişilere ancak sınırlandırılmış temsil yetkisi verilebilir.",
+     "dayanak": "GY md. 563/6",
+     "kanit": "anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir."
+    },
+    {
+     "alt_konu": "Sır saklama yükümlülüğü",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirliği hizmeti verenlerin hesabına beyanda bulundukları kişilere ait bilgi ve ticari sırları açıklama yasağı hangi durumda uygulanmaz?",
+     "cevap": "Adli veya idari her türlü inceleme veya soruşturma durumunda uygulanmaz; yasak, mesleki faaliyete son verilse dahi devam eder.",
+     "dayanak": "GY md. 563/7",
+     "kanit": "mesleki faaliyetlerine son verseler dahi açıklayamazlar. Ancak, adli veya idari her türlü inceleme veya soruşturma durumunda bu hüküm uygulanmaz."
+    },
+    {
+     "alt_konu": "Çalışma yeri ve tebligat adresi",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirleri tebligat adresleri ve çalışma yerlerini kimlere bildirir?",
+     "cevap": "O yerin bağlı olduğu gümrük ve muhafaza başmüdürlüğüne ve ilgili gümrük müşavirleri derneğine yazı ile bildirirler.",
+     "dayanak": "GY md. 564/1",
+     "kanit": "Gümrük müşavirleri, tebligat adresleri ve çalışma yerlerini o yerin bağlı olduğu gümrük ve muhafaza başmüdürlüğüne ve ilgili gümrük müşavirleri derneğine yazı ile bildirir."
+    },
+    {
+     "alt_konu": "Çalışma yeri ve tebligat adresi",
+     "soru": "Gümrük Yönetmeliğine göre çalışma yeri dışındaki başmüdürlükler ve bağlantılarında iş takibi yapmak isteyen gümrük müşaviri ne yapmalıdır?",
+     "cevap": "İş takibine başlamadan önce bu durumu ilgili gümrük müdürlüğüne bildirir.",
+     "dayanak": "GY md. 564/3",
+     "kanit": "Çalışma yeri dışında diğer başmüdürlükler ve bağlantılarında iş takibi yapmak isteyen gümrük müşavirleri iş takibine başlamadan önce bu durumu ilgili gümrük müdürlüğüne bildirir."
+    },
+    {
+     "alt_konu": "GMY ve GM sınavlarının yapılışı ve sözlü sınav",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavir yardımcılığı ve gümrük müşavirliği sınavları kaç aşamada yapılır?",
+     "cevap": "Gümrük müşavir yardımcılığı sınavı yalnız yazılı olmak üzere tek aşamada; gümrük müşavirliği sınavı ise yazılı ve sözlü olmak üzere iki aşamada yapılır.",
+     "dayanak": "GY md. 566/1",
+     "kanit": "Gümrük müşavir yardımcılığı sınavı yazılı olmak üzere tek aşamada; gümrük müşavirliği sınavı ise yazılı ve sözlü olmak üzere iki aşamada yapılır."
+    },
+    {
+     "alt_konu": "GMY ve GM sınavlarının yapılışı ve sözlü sınav",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirliği ve gümrük müşavir yardımcılığı sınavlarının tarihi ve başvuru koşulları ne zaman ilan edilir?",
+     "cevap": "Sınav tarihinden en az bir ay önce ilan edilir.",
+     "dayanak": "GY md. 566/4",
+     "kanit": "Yazılı ve sözlü sınavlarının tarihi ve başvuru koşulları sınav tarihinden en az bir ay önce ilan edilir."
+    },
+    {
+     "alt_konu": "GMY ve GM sınavlarının yapılışı ve sözlü sınav",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirliği sözlü sınavında başarılı sayılmak için hangi puan şartı aranır?",
+     "cevap": "Kurul üyelerinin 100 tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az 70 olması gerekir.",
+     "dayanak": "GY md. 566/5",
+     "kanit": "Sözlü sınavda başarılı sayılabilmek için kurul üyelerinin 100 tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az 70 olması gerekir."
+    },
+    {
+     "alt_konu": "Sınav konuları ve soru dağılımı",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavir yardımcılığı sınavında soruların yüzde kaçı genel yetenek ve genel kültür konularından oluşur?",
+     "cevap": "Soruların %20'si genel yetenek ve genel kültür (Türkçe, matematik, İnkılap Tarihi ve Atatürkçülük, vatandaşlık bilgisi) sorularından; %80'i Gümrük Kanunu ile ikincil düzenlemeleri ve 5607 sayılı Kanun ile ikincil düzenlemelerinden oluşur.",
+     "dayanak": "GY md. 567/2",
+     "kanit": "Gümrük müşavir yardımcılığı sınavında ise, soruların % 20'si Türkçe, matematik, Türkiye Cumhuriyeti İnkılap Tarihi ve Atatürkçülük ile vatandaşlık bilgisi konularını içeren genel yetenek ve genel kültür sorularından"
+    },
+    {
+     "alt_konu": "Sınavların değerlendirilmesi ve başarı puanı",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavir yardımcılığı yazılı sınavında başarılı sayılmak için kaç puan alınmalıdır?",
+     "cevap": "Yüz tam puan üzerinden yetmiş veya üzerinde puan alınmalıdır; gümrük müşavirliğinde ise yazılı ve sözlü sınavların her birinden yetmiş veya üzeri gerekir.",
+     "dayanak": "GY md. 568/3",
+     "kanit": "Gümrük müşavir yardımcılığı yazılı sınavından yetmiş veya üzerinde puan alanlar başarılı sayılır."
+    },
+    {
+     "alt_konu": "Sınav kurulu",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirliği ve gümrük müşavir yardımcılığı sınav kurulu kaç kişiden ve kimlerden oluşur?",
+     "cevap": "Bakanca belirlenen kurul, Bakanlık temsilcilerinden seçilen bir üyenin başkanlığında Bakanlıktan dört ve Gümrük Müşavirleri Dernek Başkanlarından bir olmak üzere beş kişiden oluşur.",
+     "dayanak": "GY md. 569/1",
+     "kanit": "Kurul, Bakanlık temsilcilerinden seçilen bir üyenin başkanlığında Bakanlıktan dört ve Gümrük Müşavirleri Dernek Başkanlarından bir olmak üzere beş kişiden oluşur."
+    },
+    {
+     "alt_konu": "Sınav sonuçlarının duyurulması ve itiraz",
+     "soru": "Gümrük Yönetmeliğine göre gümrük müşavirliği ve gümrük müşavir yardımcılığı sınav sonuçlarına ne kadar süre içinde ve nereye itiraz edilebilir?",
+     "cevap": "Sonucun Bakanlığın internet sayfasında duyurulduğu tarihten itibaren on gün içinde Bakanlığa başvurularak itiraz edilebilir; itirazlar otuz gün içinde değerlendirilir.",
+     "dayanak": "GY md. 571/2",
+     "kanit": "Sınav sonucunun duyurulduğu tarihten itibaren on gün içinde Bakanlığa başvurularak sınav sonuçlarına itiraz edilebilir."
+    },
+    {
+     "alt_konu": "İzin belgesi başvurusu ve ruhsat harcı",
+     "soru": "Gümrük Yönetmeliğine göre sınavda başarılı olan gümrük müşavirleri ve gümrük müşavir yardımcıları izin belgesi için nereye başvurur?",
+     "cevap": "Talep edilen belgelerle ilgili Gümrük Müşavirleri Derneğine başvurur; belgeler Dernekçe Müsteşarlığa teslim edilir ve fotoğraflı İzin Belgesi Müsteşarlıkça düzenlenir.",
+     "dayanak": "GY md. 573/1",
+     "kanit": "Sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları Müsteşarlıkça talep edilen belgelerle birlikte ilgili Gümrük Müşavirleri Derneğine başvurur."
+    },
+    {
+     "alt_konu": "Yükümlü Kayıt ve Takip Sistemine kayıt zorunluluğu",
+     "soru": "Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1)'e göre Yükümlü Kayıt ve Takip Sistemine kayıt kimler için zorunludur?",
+     "cevap": "Elektronik ortamda beyanda bulunacak veya hesabına beyanda bulunulacak gerçek/tüzel kişiler ile doğrudan veya dolaylı temsil suretiyle başkası hesabına beyanda bulunacak kişiler (temsil yetkileriyle birlikte) için zorunludur.",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 4/1-2",
+     "kanit": "Elektronik ortamda beyanda bulunacak veya hesabına beyanda bulunulacak gerçek/tüzel kişilerin Yükümlü Kayıt ve Takip Sistemine kaydolması zorunludur."
+    },
+    {
+     "alt_konu": "Yükümlü Kayıt ve Takip Sistemine kayıt zorunluluğu",
+     "soru": "Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1)'e göre sistemde onaylı kaydı olmayan gerçek/tüzel kişilerin elektronik ortamda beyanda bulunmasına izin verilir mi?",
+     "cevap": "Verilmez; onaylı kaydı olmayan doğrudan veya dolaylı temsilciler aracılığıyla işlem yapılmasına da müsaade edilmez.",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 4/4-5",
+     "kanit": "Yükümlü Kayıt ve Takip Sisteminde onaylı kaydı olmayan gerçek/tüzel kişilerin elektronik ortamda beyanda bulunmasına müsaade edilmez."
+    },
+    {
+     "alt_konu": "YKTS başvurusunun değerlendirilme süresi",
+     "soru": "Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1)'e göre kayıt ve değişikliklerin onayı için yapılan başvuru gümrük idaresince ne kadar sürede sonuçlandırılır?",
+     "cevap": "Başvurunun gümrük idaresinin evrak kayıtlarına girdiği tarihten itibaren en geç iki iş günü içinde incelenerek sonuçlandırılır.",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 6/1",
+     "kanit": "başvurunun gümrük idaresinin evrak kayıtlarına girdiği tarihten itibaren en geç iki iş günü içinde incelenerek sonuçlandırılır"
+    },
+    {
+     "alt_konu": "YKTS'de güncelleme süresi",
+     "soru": "Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1)'e göre sisteme kaydedilip onaylanan gerçek/tüzel kişi genel bilgilerinin değişmesi halinde güncelleme başvurusu ne kadar sürede yapılır?",
+     "cevap": "Değişikliğin olduğu tarihten itibaren on iş günü içinde sistemde değişiklik yapılarak herhangi bir gümrük idaresine güncelleme başvurusunda bulunulur.",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 7/2",
+     "kanit": "değişikliğin olduğu tarihten itibaren on iş günü içinde sistemde gerekli kayıt ve değişiklikler yapılarak"
+    },
+    {
+     "alt_konu": "YKTS müeyyide ve yetki",
+     "soru": "Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1)'e göre genel bilgilerdeki değişikliğe rağmen güncelleme yapmayan veya geri alınan temsil yetkisine ilişkin vekâlet kaydını iptal etmeyen kişilere ne uygulanır?",
+     "cevap": "Ayrı ceza öngörülen haller saklı kalmak üzere, durumu tespit eden gümrük idaresince Gümrük Kanunundaki usulsüzlük cezası hükmüne göre işlem yapılır; vekâlet kaydı ayrıca idarece iptal edilir.",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 8",
+     "kanit": "durumu tespit eden gümrük idaresince Gümrük Kanununun 241 inci maddesinin birinci fıkrasına göre işlem yapılır"
+    },
+    {
+     "alt_konu": "YKTS müeyyide ve yetki",
+     "soru": "Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1)'e göre zorunlu hallerde sistemde onaylı kayıt bulundurma zorunluluğunu askıya almaya kim yetkilidir?",
+     "cevap": "Gümrük ve Ticaret Bakanlığı (Risk Yönetimi ve Kontrol Genel Müdürlüğü).",
+     "dayanak": "YKTS Tebliği (Seri No 1) md. 9",
+     "kanit": "Gümrük ve Ticaret Bakanlığı (Risk Yönetimi ve Kontrol Genel Müdürlüğü), bu Tebliğin uygulanmasını temin etmek amacıyla ... zorunlu hallerde Yükümlü Kayıt ve Takip Sisteminde onaylı kayıt bulundurma zorunluluğunu askıya almaya"
+    }
+   ]
+  },
+  {
+   "kaynak": "5-SONRADAN KONTROL.txt",
+   "konu": "Sonradan kontrol ve riskli işlemlerin kontrolü",
+   "mevzuat": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliği md. 1-21",
+   "cikmis_sayisi": 0,
+   "cikmis": [],
+   "alt_konular": [
+    {
+     "baslik": "Tanımlar: plan dışı sonradan kontrol ve Risk Değerlendirme ve Koordinasyon Komisyonu",
+     "dayanak": "Sonradan Kontrol Yön. md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sonradan kontrolde yetki",
+     "dayanak": "Sonradan Kontrol Yön. md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sonradan kontrole tabi kişiler ve kontrolün yapılacağı yer",
+     "dayanak": "Sonradan Kontrol Yön. md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sonradan kontrolün amaç ve kapsamı",
+     "dayanak": "Sonradan Kontrol Yön. md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kontrole tabi kişilerin belirlenmesi ve sonradan kontrol programı",
+     "dayanak": "Sonradan Kontrol Yön. md. 8-9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sonradan kontrole ilişkin tebligat ve programın genişletilmesi",
+     "dayanak": "Sonradan Kontrol Yön. md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sonradan kontrolün esasları ve soruşturma önlemleri",
+     "dayanak": "Sonradan Kontrol Yön. md. 12-13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sonradan kontrole tabi kişilerin yükümlülükleri",
+     "dayanak": "Sonradan Kontrol Yön. md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kontrolün tamamlanması, nihai görüşme ve raporlar",
+     "dayanak": "Sonradan Kontrol Yön. md. 15-16",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Tanımlar: plan dışı sonradan kontrol ve Risk Değerlendirme ve Koordinasyon Komisyonu",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre \"plan dışı sonradan kontrol\" neyi ifade eder?",
+     "cevap": "Riskli kişi veya işlemlerin sonradan kontrol planı dışında yapılan kontrolünü ifade eder.",
+     "dayanak": "Sonradan Kontrol Yön. md. 4/1-d",
+     "kanit": "d) Plan dışı sonradan kontrol: Riskli kişi veya işlemlerin sonradan kontrol planı dışında yapılan kontrolünü,"
+    },
+    {
+     "alt_konu": "Tanımlar: plan dışı sonradan kontrol ve Risk Değerlendirme ve Koordinasyon Komisyonu",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre Risk Değerlendirme ve Koordinasyon Komisyonu kimin başkanlığında ve kimlerden oluşur?",
+     "cevap": "Genel Müdürlüğün (Risk Yönetimi ve Kontrol Genel Müdürlüğü) bağlı olduğu Bakan Yardımcısının başkanlığında; Rehberlik ve Teftiş Başkanı, Gümrükler Genel Müdürü, Gümrükler Muhafaza Genel Müdürü ve Risk Yönetimi ve Kontrol Genel Müdüründen oluşur.",
+     "dayanak": "Sonradan Kontrol Yön. md. 4/1-e",
+     "kanit": "Genel Müdürlüğün bağlı olduğu Bakan Yardımcısının başkanlığında, Rehberlik ve Teftiş Başkanı, Gümrükler Genel Müdürü, Gümrükler Muhafaza Genel Müdürü ve Risk Yönetimi ve Kontrol Genel Müdüründen oluşan komisyonu"
+    },
+    {
+     "alt_konu": "Sonradan kontrolde yetki",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrol kimler tarafından yapılır?",
+     "cevap": "Ticaret Bakanlığı müfettişleri tarafından yapılır.",
+     "dayanak": "Sonradan Kontrol Yön. md. 5/1",
+     "kanit": "Bu Yönetmelik kapsamındaki sonradan kontrol Ticaret Bakanlığı müfettişleri tarafından yapılır."
+    },
+    {
+     "alt_konu": "Sonradan kontrolde yetki",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre gümrük idarelerinde belge kontrolü veya ertelenmiş kontrol kapsamında işlem gören beyannamelerin kontrolü kim tarafından yapılır?",
+     "cevap": "Gümrük Yönetmeliği ve ilgili mevzuat çerçevesinde gümrük muayene memurları tarafından yapılır; bu kontrol müfettişlerce yapılan sonradan kontrolden ayrıdır.",
+     "dayanak": "Sonradan Kontrol Yön. md. 5/2",
+     "kanit": "Gümrük idarelerinde belge kontrolü veya ertelenmiş kontrol kapsamında işlem gören gümrük beyannamelerinin kontrol işlemleri gümrük muayene memurları tarafından"
+    },
+    {
+     "alt_konu": "Sonradan kontrole tabi kişiler ve kontrolün yapılacağı yer",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrolün ilgili kişilere ait yerlerde yapılmasının mümkün olmaması halinde kontrol nerede yapılabilir?",
+     "cevap": "Kontrole tabi kişinin yerleşik olduğu yerde varsa gümrük idaresinde, yoksa başka bir resmî dairede yapılabilir; birden çok şubesi olan şirketlerde kontrol şirket merkezinde yapılabilir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 6/2",
+     "kanit": "bunun mümkün olmaması hâlinde sonradan kontrole tabi kişinin yerleşik olduğu yerde varsa gümrük idaresi yoksa başka bir resmî dairede yapılabilir."
+    },
+    {
+     "alt_konu": "Sonradan kontrolün amaç ve kapsamı",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrol belirli bir konu veya dönemle sınırlı tutulabilir mi?",
+     "cevap": "Evet; sonradan kontrol belirli bir konu (sektör, rejim, tarife, vergi türü vb.) veya dönem ile sınırlı olabilir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 7/2",
+     "kanit": "Sonradan kontrol, belirli bir konu (sektör, rejim, tarife, vergi türü vb.) veya dönem ile sınırlı olabilir."
+    },
+    {
+     "alt_konu": "Kontrole tabi kişilerin belirlenmesi ve sonradan kontrol programı",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrole tabi tutulacak riskli kişi veya işlemleri kim, neye dayanarak tespit eder?",
+     "cevap": "Genel Müdürlük (Risk Yönetimi ve Kontrol Genel Müdürlüğü), risk analizi kriterlerine dayanarak tespit eder.",
+     "dayanak": "Sonradan Kontrol Yön. md. 8/1",
+     "kanit": "Genel Müdürlük, risk analizi kriterlerine dayanarak sonradan kontrole tabi tutulacak riskli kişi veya işlemleri tespit eder."
+    },
+    {
+     "alt_konu": "Kontrole tabi kişilerin belirlenmesi ve sonradan kontrol programı",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre bir takvim yılı içinde sonradan kontrole tabi tutulacak kişiler nasıl belirlenir?",
+     "cevap": "Sonradan kontrol planlı ve sistematik olduğundan bu kişiler bir kontrol planı çerçevesinde önceden belirlenir; gerekli görülürse yıllık plan dışında da kontrol yapılabilir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 8/2-3",
+     "kanit": "Sonradan kontrol planlı ve sistematiktir. Bir takvim yılı içinde sonradan kontrole tabi tutulacak kişiler bir kontrol planı çerçevesinde önceden belirlenir."
+    },
+    {
+     "alt_konu": "Kontrole tabi kişilerin belirlenmesi ve sonradan kontrol programı",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre Genel Müdürlükçe hazırlanan sonradan kontrol programı nasıl yürürlüğe girer?",
+     "cevap": "Risk Değerlendirme ve Koordinasyon Komisyonunun olumlu görüşü ve Bakan onayı ile yürürlüğe girer; plan dışı programlarda da aynı usul izlenir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 9",
+     "kanit": "Program, Komisyonun olumlu görüşü ve Bakan onayı ile yürürlüğe girer."
+    },
+    {
+     "alt_konu": "Sonradan kontrole ilişkin tebligat ve programın genişletilmesi",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrolü yapacak müfettiş kontrole başlanacağını ilgilisine en geç ne zaman bildirir?",
+     "cevap": "Sonradan kontrole başlama tarihinden en az on gün önce bildirir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 10/1",
+     "kanit": "Sonradan kontrolü yapacak Müfettiş, sonradan kontrole başlama tarihinden en az on gün önce, sonradan kontrole başlanacağını ilgilisine bildirir."
+    },
+    {
+     "alt_konu": "Sonradan kontrole ilişkin tebligat ve programın genişletilmesi",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrolün başlama tarihinin ertelenmesi için kontrole tabi kişi ne kadar süre içinde başvurmalıdır?",
+     "cevap": "Tebligat tarihinden itibaren bir hafta içinde yazılı olarak geçerli ve kabul edilebilir bir neden ileri sürmelidir; bu halde başlama tarihi istisnai olarak ertelenebilir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 10/2",
+     "kanit": "tebligat tarihinden itibaren bir hafta içinde yazılı olarak geçerli ve kabul edilebilir bir neden ileri sürülmesi hâlinde, sonradan kontrolün başlama tarihi istisnai olarak ertelenebilir."
+    },
+    {
+     "alt_konu": "Sonradan kontrole ilişkin tebligat ve programın genişletilmesi",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre hangi durumda sonradan kontrol öncesinde ilgilisine tebligat yapılmaz?",
+     "cevap": "Önceden tebligatın sonradan kontrolün amacını tehlikeye düşürecek olması durumunda yapılmaz; bu durumda kontrol mahallinde müfettişlerce bilgi verilir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 10/3",
+     "kanit": "Sonradan kontrolün amacını tehlikeye düşürecek olması durumunda önceden tebligatta bulunulmaz."
+    },
+    {
+     "alt_konu": "Sonradan kontrole ilişkin tebligat ve programın genişletilmesi",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrol programında ekleme yapılması veya kapsamın genişletilmesi hangi usulle mümkündür?",
+     "cevap": "Kontrolü yapan müfettişin önerisi, Rehberlik ve Teftiş Başkanlığı ile Genel Müdürlüğün uygun görüşü ve Bakan onayı ile mümkündür.",
+     "dayanak": "Sonradan Kontrol Yön. md. 10/4",
+     "kanit": "Sonradan kontrolü yapan müfettişin önerisi, Rehberlik ve Teftiş Başkanlığı ve Genel Müdürlüğün uygun görüşü ve Bakan Onayı ile sonradan kontrole ilişkin programda ekleme yapılabilir veya kapsamı genişletilebilir."
+    },
+    {
+     "alt_konu": "Sonradan kontrolün esasları ve soruşturma önlemleri",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrol yapan müfettişler kişinin hangi yöndeki hususlarını inceler?",
+     "cevap": "Gümrük vergileri ile gümrük mevzuatı ve ilgili diğer mevzuattaki yükümlülüklere ilişkin kişinin lehine ve aleyhine olan tüm hususları inceler.",
+     "dayanak": "Sonradan Kontrol Yön. md. 12/1",
+     "kanit": "gümrük vergileri ile gümrük mevzuatı ve ilgili diğer mevzuatta öngörülen yükümlülüklere ilişkin kişinin lehine ve aleyhine olan tüm hususları inceler."
+    },
+    {
+     "alt_konu": "Sonradan kontrolün esasları ve soruşturma önlemleri",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre kontrol sırasında soruşturmayı gerektiren bir fiil tespit edilirse eşya, bilgi, belge ve veriler için hangi kanunlar uyarınca tedbir alınır?",
+     "cevap": "5607 sayılı Kaçakçılıkla Mücadele Kanunu, 5237 sayılı Türk Ceza Kanunu ve 5271 sayılı Ceza Muhakemesi Kanunu uyarınca el koyma dâhil gerekli tedbirler alınır.",
+     "dayanak": "Sonradan Kontrol Yön. md. 13/2",
+     "kanit": "5607 sayılı Kaçakçılıkla Mücadele Kanunu, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu ile 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu hükümleri uyarınca eşya, bilgi, belge ve veriler için el koyma dâhil gerekli tedbirler alınır."
+    },
+    {
+     "alt_konu": "Sonradan kontrole tabi kişilerin yükümlülükleri",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre kontrole tabi kişiler, kontrolün yapılabilmesi için gerekli çalışma ortamı ve yardımcı maddeleri hangi şartla sağlar?",
+     "cevap": "Bedelsiz olarak sağlamakla yükümlüdürler.",
+     "dayanak": "Sonradan Kontrol Yön. md. 14/3",
+     "kanit": "Kişiler, sonradan kontrolün yapılabilmesi için uygun bir çalışma ortamı ve gerekli yardımcı maddeleri bedelsiz olarak sağlamakla yükümlüdür."
+    },
+    {
+     "alt_konu": "Sonradan kontrole tabi kişilerin yükümlülükleri",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrol hangi saatlerde gerçekleştirilir?",
+     "cevap": "Kontrole tabi kişilerin mesai saatleri içinde gerçekleştirilir; kişilerin kabul etmesi halinde mesai saatleri dışında da yapılabilir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 14/4",
+     "kanit": "Sonradan kontrol, kontrole tabi kişilerin mesai saatleri içinde gerçekleştirilir. Kontrole tabi kişiler tarafından kabul edilmesi hâlinde mesai saatleri dışında da sonradan kontrol yapılabilir."
+    },
+    {
+     "alt_konu": "Kontrolün tamamlanması, nihai görüşme ve raporlar",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre müfettişin kontrole tabi kişiyle yapacağı nihai görüşme hangi hallerde yapılmayabilir?",
+     "cevap": "Kontrol sonucunda gümrük vergileri tutarı ile mevzuattaki yükümlülükler açısından bir değişiklik olmaması veya kontrole tabi kişinin talepte bulunmaması hallerinde yapılmayabilir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 15/1",
+     "kanit": "Kontrol sonucunda gümrük vergileri tutarı ile gümrük mevzuatı ve ilgili diğer mevzuatta öngörülen yükümlülükler açısından bir değişikliğin olmaması veya kontrole tabi kişinin talepte bulunmaması durumunda bu görüşme yapılmayabilir."
+    },
+    {
+     "alt_konu": "Kontrolün tamamlanması, nihai görüşme ve raporlar",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre kendisine tespitler yazılı olarak bildirilen kişi görüşlerini ne kadar sürede bildirir ve bu süre uzatılabilir mi?",
+     "cevap": "On gün içinde müfettişe bildirir; yazılı talep halinde on güne kadar ek süre verilebilir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 16/1",
+     "kanit": "Kişiler, on gün içerisinde görüşlerini müfettişe bildirirler. Yazılı olarak talep edilmesi halinde on güne kadar ek süre verilebilir."
+    },
+    {
+     "alt_konu": "Kontrolün tamamlanması, nihai görüşme ve raporlar",
+     "soru": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrol sırasında zamanaşımı yönünden Hazine menfaatini koruyucu acele tedbir alınması gerekirse ne yapılır?",
+     "cevap": "Kişiye tanınan görüş bildirme süresine tabi olmaksızın Rehberlik ve Teftiş Başkanlığı Yönetmeliği hükümlerine istinaden cevaplı rapor düzenlenir.",
+     "dayanak": "Sonradan Kontrol Yön. md. 16/2",
+     "kanit": "zamanaşımı yönünden Hazine menfaatini koruyucu acele bir tedbir alınmasının gerekmesi halinde, birinci fıkrada belirtilen süre hükümlerine tabi olmaksızın ... cevaplı rapor düzenlenir."
+    }
+   ]
+  },
+  {
+   "kaynak": "6-KARAR.txt",
+   "konu": "Gümrük mevzuatının uygulanmasına ilişkin kararlar",
+   "mevzuat": "GK md. 6-7; GY md. 27, 586",
+   "cikmis_sayisi": 1,
+   "cikmis": [
+    "2023-77: İtirazlar gümrük idaresince otuz gün içinde karara bağlanır"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Karar talebi, bilgi-belge ibrazı ve yazılı başvuru",
+     "dayanak": "GK md. 6/1-2; GY md. 27/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Karar alma süresi ve sürenin aşılması",
+     "dayanak": "GK md. 6/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ret ve aleyhe kararların gerekçesi; kararların uygulanması",
+     "dayanak": "GK md. 6/3-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Lehe kararın zorunlu iptali",
+     "dayanak": "GK md. 7/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Lehe kararın değiştirilebilmesi veya iptal edilebilmesi",
+     "dayanak": "GK md. 7/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İptal ve değiştirme kararlarının yürürlüğü",
+     "dayanak": "GK md. 7/3-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Değiştirme ve iptalin rejime tabi tutulmaya başlanmış eşyaya etkisi",
+     "dayanak": "GY md. 27/3-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İtirazların karara bağlanması",
+     "dayanak": "GY md. 586",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-77"
+     ],
+     "not": "İtirazların otuz gün içinde karara bağlanması soruldu; inceleme materyali ve otuz günde karar alınamaması halinde izlenecek usul sorulmadı."
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Karar talebi, bilgi-belge ibrazı ve yazılı başvuru",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idarelerinden gümrük mevzuatının uygulanmasına ilişkin karar alınması talebi hangi şekilde yapılmalıdır?",
+     "cevap": "Yazılı olarak yapılmalıdır; talep eden kişi kararın verilebilmesi için gerekli bütün bilgi ve belgeleri ibraz etmek zorundadır.",
+     "dayanak": "GK md. 6/1-2",
+     "kanit": "kararın verilebilmesi için gerekli bütün bilgi ve belgeleri söz konusu idarelere ibraz etmek zorundadır. ... Karar alınması talebinin yazılı olarak yapılması gerekir."
+    },
+    {
+     "alt_konu": "Karar alma süresi ve sürenin aşılması",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idareleri karar talebine ilişkin başvuru hakkında ne kadar süre içinde karar alır?",
+     "cevap": "Başvurunun kendilerine ulaştığı tarihten itibaren otuz gün içinde karar alırlar; kararlar başvuru sahibine yazılı olarak tebliğ edilir.",
+     "dayanak": "GK md. 6/2",
+     "kanit": "Gümrük idareleri, söz konusu talebe ilişkin başvurunun kendilerine ulaştığı tarihten itibaren otuz gün içinde karar alırlar."
+    },
+    {
+     "alt_konu": "Karar alma süresi ve sürenin aşılması",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idaresinin karar için öngörülen otuz günlük süreye uyamaması halinde ne yapması gerekir?",
+     "cevap": "Süre aşılabilir; ancak idare, süre dolmadan önce başvuru sahibine süre aşımını haklı kılan gerekçeleri ve karar için gerekli gördüğü ek süreyi belirterek bilgi verir.",
+     "dayanak": "GK md. 6/2",
+     "kanit": "söz konusu idareler, yukarıda belirlenen sürenin dolmasından önce başvuru sahibine süre aşımını haklı kılan gerekçeler ile talep hakkında karar vermek için gerekli gördükleri ek süreyi de belirterek bilgi verirler."
+    },
+    {
+     "alt_konu": "Ret ve aleyhe kararların gerekçesi; kararların uygulanması",
+     "soru": "4458 sayılı Gümrük Kanununa göre başvuruların reddine veya muhatabın aleyhine verilen yazılı kararlar nasıl alınır?",
+     "cevap": "İtiraz yolu açık olmak üzere gerekçeli olarak alınır ve bu hususlar kararda belirtilir.",
+     "dayanak": "GK md. 6/3",
+     "kanit": "verilen yazılı kararlar, Onikinci Kısımda belirtilen şekilde itiraz yolu açık olmak üzere gerekçeli olarak alınır ve bu hususlar kararda belirtilir."
+    },
+    {
+     "alt_konu": "Ret ve aleyhe kararların gerekçesi; kararların uygulanması",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idarelerince alınan kararlar ne zaman uygulanır?",
+     "cevap": "Gümrük idareleri tarafından derhal uygulanır.",
+     "dayanak": "GK md. 6/4",
+     "kanit": "Alınan kararlar gümrük idareleri tarafından derhal uygulanır."
+    },
+    {
+     "alt_konu": "Lehe kararın zorunlu iptali",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idaresinin ilgilinin lehine olan kararı hangi hallerin bir arada bulunması durumunda iptal edilir?",
+     "cevap": "Kararın yanlış veya eksik bilgilere dayanılarak verilmesi, başvuru sahibinin bu yanlışlık veya eksikliği bilmesi veya bilmesi gerektiği ve kararın doğru veya tam bilgilere dayanılarak verilmesinin mümkün olmamasının tespiti hallerinin üçü birlikte bulunduğunda iptal zorunludur.",
+     "dayanak": "GK md. 7/1",
+     "kanit": "Gümrük idaresinin ilgilinin lehine olan kararları aşağıdaki hallerin bir arada bulunması durumunda iptal edilir. ... b) Başvuru sahibinin bu yanlışlık veya eksikliği bilmesi veya bilmesi gerektiği hallerde,"
+    },
+    {
+     "alt_konu": "Lehe kararın değiştirilebilmesi veya iptal edilebilmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre ilgilinin lehine olan karar hangi hallerde değiştirilebilir veya iptal edilebilir?",
+     "cevap": "Karara esas teşkil eden bir veya birden fazla koşulun gerçekleşmemiş veya gerçekleşemez olması ya da lehe kararda öngörülen bir yükümlülüğe ilgilinin uymaması hallerinde.",
+     "dayanak": "GK md. 7/2",
+     "kanit": "a) Karara esas teşkil eden bir veya birden fazla koşulun gerçekleşmemiş veya gerçekleşemez olması, ... b) Lehine olan bir kararda öngörülen bir yükümlülüğe ilgilinin uymaması halinde."
+    },
+    {
+     "alt_konu": "İptal ve değiştirme kararlarının yürürlüğü",
+     "soru": "4458 sayılı Gümrük Kanununa göre yanlış veya eksik bilgiye dayanılarak verilen lehe kararın iptali hangi tarihten itibaren yürürlüğe girer?",
+     "cevap": "İptal kararının verildiği tarihten itibaren yürürlüğe girer (tebliğ tarihinden değil).",
+     "dayanak": "GK md. 7/4",
+     "kanit": "1 inci fıkra hükümlerine göre kararın iptal işlemi iptal kararının verildiği tarihten"
+    },
+    {
+     "alt_konu": "İptal ve değiştirme kararlarının yürürlüğü",
+     "soru": "4458 sayılı Gümrük Kanununa göre koşulun gerçekleşmemesi veya yükümlülüğe uyulmaması nedeniyle verilen iptal veya değiştirme kararı hangi tarihten itibaren yürürlüğe girer?",
+     "cevap": "Tebliğ tarihinden itibaren yürürlüğe girer.",
+     "dayanak": "GK md. 7/4",
+     "kanit": "2 nci fıkra hükümlerine göre verilen iptal veya değiştirme kararı tebliğ tarihinden itibaren yürürlüğe girer."
+    },
+    {
+     "alt_konu": "İptal ve değiştirme kararlarının yürürlüğü",
+     "soru": "4458 sayılı Gümrük Kanununa göre lehe kararın iptalinin veya değiştirilmesinin yürürlük tarihi hangi durumda ertelenebilir?",
+     "cevap": "Karar muhatabının yasal çıkarlarının gerektirdiği istisnai hallerde, yönetmelikle belirlenen koşullar altında ertelenebilir.",
+     "dayanak": "GK md. 7/4",
+     "kanit": "karar muhatabının yasal çıkarlarının gerektirdiği istisnai hallerde, kararın iptalinin veya değiştirilmesinin yürürlük tarihi yönetmelikle belirlenen koşullar altında ertelenebilir."
+    },
+    {
+     "alt_konu": "Değiştirme ve iptalin rejime tabi tutulmaya başlanmış eşyaya etkisi",
+     "soru": "Gümrük Yönetmeliğine göre değiştirme veya iptal kararları, yürürlüğe girdikleri tarihte eski karar uyarınca bir gümrük rejimine tabi tutulmaya başlanmış eşya için uygulanır mı?",
+     "cevap": "Uygulanmaz.",
+     "dayanak": "GY md. 27/3",
+     "kanit": "Değiştirme ya da iptal kararları, bu kararların yürürlüğe girdiği tarihte, iptal edilen ya da değiştirilen kararlar uyarınca bir gümrük rejimine tabi tutulmaya başlanmış eşya için uygulanmaz."
+    },
+    {
+     "alt_konu": "Değiştirme ve iptalin rejime tabi tutulmaya başlanmış eşyaya etkisi",
+     "soru": "Gümrük Yönetmeliğine göre değiştirme veya iptal kararından önce rejime tabi tutulmaya başlanmış eşya için gümrük idareleri ne isteyebilir?",
+     "cevap": "Belirlenecek bir dönem içinde bu eşyanın gümrükçe onaylanmış bir işleme ya da kullanıma tabi tutulmasını isteyebilir.",
+     "dayanak": "GY md. 27/4",
+     "kanit": "gümrük idareleri belirlenecek bir dönem içinde bu eşyanın gümrükçe onaylanmış bir işleme ya da kullanıma tabi tutulmasını isteyebilir."
+    },
+    {
+     "alt_konu": "İtirazların karara bağlanması",
+     "soru": "Gümrük Yönetmeliğine göre itirazlar otuz gün içinde karara bağlanamazsa nasıl hareket edilir?",
+     "cevap": "Karar alma süresine ilişkin Kanun hükmü uygulanır; süre dolmadan önce itiraz sahibine süre aşımının gerekçeleri ve gerekli görülen ek süre bildirilerek süre aşılabilir.",
+     "dayanak": "GY md. 586/1; GK md. 6/2",
+     "kanit": "Otuz gün içerisinde karar alınamadığı durumlarda Kanunun 6 ncı maddesinin ikinci fıkrası uygulanır."
+    },
+    {
+     "alt_konu": "İtirazların karara bağlanması",
+     "soru": "Gümrük Yönetmeliğine göre itirazların incelenmesinde eşyadan örnek alınması mümkün olmayan hallerde neler incelenir?",
+     "cevap": "Eşyanın kendisi veya fotoğraf, katalog, prospektüs gibi eşyayı görmeden fikir verecek diğer belgeler incelenir; gerekirse ilgili gümrük idaresinin mütalaası alınır.",
+     "dayanak": "GY md. 586/1",
+     "kanit": "örnek alınması mümkün olmayan hallerde eşyanın kendisi veya fotoğraf, katalog, prospektüs gibi eşyayı görmeden fikir verecek diğer belgelerin incelenmesi"
+    }
+   ]
+  },
+  {
+   "kaynak": "7-BİLGİ.txt",
+   "konu": "Bilgi, bağlayıcı tarife ve menşe bilgisi (BTB/BMB), tarife bilgisi ve yanlış izahat",
+   "mevzuat": "GK md. 8-9; GY md. 28-30, 580/A; Gümrük Genel Tebliği (Tarife) (Seri No: 14); Gümrük Genel Tebliği (Tarife) (Seri No: 11)",
+   "cikmis_sayisi": 7,
+   "cikmis": [
+    "2021-38: BMB başvurusunun zorunlu bilgileri; tahlil metotları BTB'ye ilişkindir",
+    "2022-71: BTB başvurusunda önceki beyannamelerin orijinal nüshaları istenmez (fotokopi)",
+    "2023-86: BTB veriliş tarihinden itibaren altı yıl geçerlidir",
+    "2023-87: BMB veriliş tarihinden itibaren üç yıl geçerlidir",
+    "2025-38: Seri No 14: tarife değişikliğinde BTB'nin geçersizlik tarihi; mükerrer BTB hükümsüzlüğü; başvuru yapılamayacak eşya; ek bilgi; ihtisas gümrüğü",
+    "2025-57: BTB'yi yalnız yetkilendirilmiş bölge müdürlükleri düzenler",
+    "2025-58: BTB'nin geçerliliğini kaybetme nedenleri; yeni başvuru bir neden değildir"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Bilgi talebi ve ücret",
+     "dayanak": "GK md. 8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bağlayıcı bilgiyi veren makam ve bağlayıcılığın kapsamı",
+     "dayanak": "GK md. 9/1-3; Seri No 14 Tebliğ md. 16",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bağlayıcı bilgilerin geçerlilik süresi ve iptali",
+     "dayanak": "GK md. 9/4; Seri No 14 Tebliğ md. 17",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-86",
+      "2023-87"
+     ],
+     "not": "BTB'nin altı, BMB'nin üç yıl geçerliliği soruldu; yanlış veya eksik bilgiye dayanan bağlayıcı bilginin iptali sorulmadı."
+    },
+    {
+     "baslik": "BTB'nin geçerliliğini kaybetmesi",
+     "dayanak": "GK md. 9/5",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-38",
+      "2025-58"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "BMB'nin geçerliliğini kaybetmesi",
+     "dayanak": "GK md. 9/6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçerliliğini kaybeden bağlayıcı bilginin kullanılmaya devamı",
+     "dayanak": "GK md. 9/7-8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "BTB başvurusu ve bir kalem eşya",
+     "dayanak": "GY md. 28/1-3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-71"
+     ],
+     "not": "Başvurunun içermesi gereken bilgi ve belgeler soruldu; bir kalem eşya kavramı sorulmadı."
+    },
+    {
+     "baslik": "BTB numunesi, bildirim süresi, itiraz ve iptalin hüküm ifade etmesi",
+     "dayanak": "GY md. 28/4-10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bağlayıcı Menşe Bilgisi",
+     "dayanak": "GY md. 29",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-38"
+     ],
+     "not": "BMB başvurusunun zorunlu içeriği soruldu; BMB'yi veren makam ve beş aylık bildirim süresi sorulmadı."
+    },
+    {
+     "baslik": "Bilgilerin gizliliği",
+     "dayanak": "GY md. 30",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yanlış izahat verilmesi",
+     "dayanak": "GY md. 580/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "BTB'yi düzenleyen makamlar",
+     "dayanak": "Seri No 14 Tebliğ md. 4",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-57"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "BTB ücreti ve tahlil",
+     "dayanak": "Seri No 14 Tebliğ md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "BTB uygulamasının amaçları",
+     "dayanak": "Seri No 14 Tebliğ md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "BTB başvuru yeri, şekli ve tek başvuru kuralı",
+     "dayanak": "Seri No 14 Tebliğ md. 7",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-38"
+     ],
+     "not": "Aynı eşya için tek BTB başvurusu ve mükerrer BTB'lerin hükümsüzlüğü soruldu; başvurunun elektronik veya yazılı olarak yetkilendirilmiş bölge müdürlüğüne yapılması sorulmadı."
+    },
+    {
+     "baslik": "Başvuru yapılamayacak eşya",
+     "dayanak": "Seri No 14 Tebliğ md. 8",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-38"
+     ],
+     "not": "Perakende ambalajda olmayan belirli eşya için başvuru yasağı soruldu; ayniyet tespiti mümkün olmayan eşya ve BTB kapsamına girmeyen başvurunun değerlendirilmesi sorulmadı."
+    },
+    {
+     "baslik": "Bilgi edinme ve elektronik başvurunun reddi",
+     "dayanak": "Seri No 14 Tebliğ md. 10",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-38"
+     ],
+     "not": "Bölge müdürlüğünün ek bilgi ve belge isteyebilmesi soruldu; elektronik başvuruların reddinde ayrıca tebligat yapılmaması sorulmadı."
+    },
+    {
+     "baslik": "BTB heyeti ve sınıflandırma",
+     "dayanak": "Seri No 14 Tebliğ md. 13",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-38"
+     ],
+     "not": "İhtisas gümrüğü görev alanındaki eşyada görüş alınması soruldu; heyetin yapısı ve geçerli BTB'den farklı görüşte Bakanlığa intikal sorulmadı."
+    },
+    {
+     "baslik": "BTB'nin bağlayıcılığı ve kullanım hakkı",
+     "dayanak": "Seri No 14 Tebliğ md. 15",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "BTB'nin yeniden incelenmesi",
+     "dayanak": "Seri No 14 Tebliğ md. 18",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçersizlik ve iptalin başlangıcı",
+     "dayanak": "Seri No 14 Tebliğ md. 19-20",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-38",
+      "2025-58"
+     ],
+     "not": "Geçersizlik halleri ve tarife değişikliğinde yayım tarihi soruldu; tarife mevzuatındaki diğer değişikliklerde BTB programında geçersiz konuma getirme sorulmadı."
+    },
+    {
+     "baslik": "Tarife bilgisinin tanımı ve ücreti",
+     "dayanak": "Seri No 11 Tebliğ md. 4-5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tarife bilgisi başvurusu",
+     "dayanak": "Seri No 11 Tebliğ md. 6-7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tarife bilgisinin verilmesi ve hukuki etkisi",
+     "dayanak": "Seri No 11 Tebliğ md. 11-12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Bilgi talebi ve ücret",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idarelerinden gümrük mevzuatının uygulanması hakkında talep edilen bilgiler ücretli midir?",
+     "cevap": "Bilgiler ücretsiz verilir; ancak eşyanın kimyevi tahlili veya ekspertizi ya da talep edene geri gönderilmesi nedeniyle gümrük idarelerince yapılan masraflar talep eden tarafından karşılanır.",
+     "dayanak": "GK md. 8/2",
+     "kanit": "Bilgiler, talep edene ücretsiz olarak verilir. Bununla birlikte, özellikle eşyanın kimyevi tahlili veya ekspertizi ya da talep edene geri gönderilmesi nedeniyle gümrük idarelerince yapılan masraflar, talepte bulunan tarafından karşılanır."
+    },
+    {
+     "alt_konu": "Bağlayıcı bilgiyi veren makam ve bağlayıcılığın kapsamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre bağlayıcı tarife veya bağlayıcı menşe bilgisi hangi talep üzerine ve kim tarafından verilir?",
+     "cevap": "Yazılı talep üzerine Müsteşarlık veya yetkilendirdiği gümrük idaresi tarafından verilir.",
+     "dayanak": "GK md. 9/1",
+     "kanit": "Yazılı talep üzerine Müsteşarlık veya yetkilendirdiği gümrük idaresi tarafından bağlayıcı tarife veya bağlayıcı menşe bilgileri verilir."
+    },
+    {
+     "alt_konu": "Bağlayıcı bilgiyi veren makam ve bağlayıcılığın kapsamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre bağlayıcı tarife veya menşe bilgisi gümrük idarelerini kime karşı ve hangi işlemler bakımından bağlar?",
+     "cevap": "Yalnızca hak sahibine karşı; sadece eşyanın tarife pozisyonu veya menşeinin tespiti konusunda ve yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu eşya için bağlar.",
+     "dayanak": "GK md. 9/2",
+     "kanit": "gümrük idarelerini, hak sahibine karşı sadece eşyanın tarife pozisyonu konusunda veya eşyanın menşeinin tespiti konusunda ve yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu olan eşya için bağlar."
+    },
+    {
+     "alt_konu": "Bağlayıcı bilgiyi veren makam ve bağlayıcılığın kapsamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre beyan edilen eşya ile bağlayıcı tarife bilgisinde tanımlanan eşya arasında her bakımdan uygunluk bulunduğunu kanıtlama yükü kime aittir?",
+     "cevap": "Bilgi alan kişiye, yani gümrük işlemleri sırasında beyan sahibine aittir.",
+     "dayanak": "GK md. 9/3; Seri No 14 Tebliğ md. 16",
+     "kanit": "3. Bilgi alan kişi; a) Bağlayıcı tarife bilgisi için, beyan edilecek eşya ile verilen bilgide tanımlanan eşya arasında her bakımdan uygunluk bulunduğunu, ... menşe kazanımı gerektiren durumunun her bakımdan uygun bulunduğunu, Kanıtlamak zorundadır. ... beyan sahibinin gümrük işlemleri sırasında beyan edilen eşya ile verilen bilgide tanımlanan eşya arasında her bakımdan uygunluk bulunduğunu kanıtlaması zorunludur."
+    },
+    {
+     "alt_konu": "Bağlayıcı bilgilerin geçerlilik süresi ve iptali",
+     "soru": "4458 sayılı Gümrük Kanununa göre talep edenin verdiği yanlış veya eksik bilgiye dayanan bağlayıcı bilgi hakkında ne yapılır?",
+     "cevap": "İptal edilir; bu iptal, iptal kararının verildiği tarihten itibaren hüküm ifade eder.",
+     "dayanak": "GK md. 9/4",
+     "kanit": "Talep edenin verdiği yanlış veya eksik bilgiye dayanan bağlayıcı bilgi iptal edilir."
+    },
+    {
+     "alt_konu": "BMB'nin geçerliliğini kaybetmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre bağlayıcı menşe bilgisi hangi hallerde geçerliliğini kaybeder?",
+     "cevap": "Menşe kurallarında mevzuat veya uluslararası anlaşma gereğince yapılan değişikliğe uymaması, Dünya Ticaret Örgütü Menşe Kuralları Anlaşması ile buna ilişkin izahname ve kararlardaki değişikliğe uymaması ve iptal edildiğinin veya değiştirildiğinin bilgi verilen kişiye tebliğ edilmesi hallerinde.",
+     "dayanak": "GK md. 9/6",
+     "kanit": "a) Menşe kurallarında bir mevzuat düzenlemesi veya bir uluslararası anlaşma gereğince değişiklik yapılması ... b) Dünya Ticaret Örgütünün uymakla yükümlü bulunduğumuz Menşe Kuralları Anlaşmasına"
+    },
+    {
+     "alt_konu": "Geçerliliğini kaybeden bağlayıcı bilginin kullanılmaya devamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçerliliğini kaybeden bağlayıcı tarife veya menşe bilgisi hangi şartla ve ne kadar süre kullanılmaya devam edilebilir?",
+     "cevap": "Hak sahibi, bilgiye dayanarak ve geçerlilik kaybından önce eşyanın alım veya satımı için bağlayıcı sözleşmeler yapmışsa, yayımın ya da tebligatın yapıldığı tarihten itibaren altı ay süreyle kullanabilir.",
+     "dayanak": "GK md. 9/7",
+     "kanit": "ilgili eşyanın alımı veya satımı üstüne bağlayıcı sözleşmeler yaptığı takdirde, geçerliliğini kaybeden tarife veya menşe bilgisini, söz konusu yayımın ya da tebligatın yapıldığı tarihten itibaren altı aylık bir süre boyunca kullanabilir."
+    },
+    {
+     "alt_konu": "Geçerliliğini kaybeden bağlayıcı bilginin kullanılmaya devamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçerliliğini kaybeden bağlayıcı bilginin kullanılmasında, gümrük işlemleri sırasında ithalat, ihracat veya ön izin belgesi verilmişse hangi süre esas alınır?",
+     "cevap": "Altı aylık süre yerine bu belgenin geçerlilik süresi esas alınır.",
+     "dayanak": "GK md. 9/7",
+     "kanit": "Ancak, gümrük işlemleri sırasında söz konusu ürünler için bir ithalat, ihracat ya da ön izin belgesinin gümrüğe verilmesi halinde, bu belgenin geçerlilik süresi esas alınır."
+    },
+    {
+     "alt_konu": "Geçerliliğini kaybeden bağlayıcı bilginin kullanılmaya devamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçerliliğini kaybeden bağlayıcı bilginin altı ay kullanılabilmesine istisna getirmeye kim yetkilidir?",
+     "cevap": "Cumhurbaşkanı yetkilidir.",
+     "dayanak": "GK md. 9/7",
+     "kanit": "Bu fıkra hükümlerine istisna getirmeye Cumhurbaşkanı yetkilidir."
+    },
+    {
+     "alt_konu": "Geçerliliğini kaybeden bağlayıcı bilginin kullanılmaya devamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçerliliğini kaybeden bağlayıcı bilginin geçiş döneminde kullanılması hangi amaçlarla sınırlıdır?",
+     "cevap": "İthalat veya ihracat vergilerinin belirlenmesi; tarım politikası kapsamındaki ihracat vergi iadeleri ile diğer ödemelerin hesaplanması; bu bilgiye istinaden verilmiş ithalat, ihracat veya ön izin belgesinin beyanname tescili için kullanımı.",
+     "dayanak": "GK md. 9/8",
+     "kanit": "a) İthalat ya da ihracat vergilerinin belirlenmesi, ... b) Tarım politikası kapsamında ihracat vergi iadeleri ile ithalata ya da ihracata verilen diğer bütün ödemelerin hesaplanması,"
+    },
+    {
+     "alt_konu": "BTB başvurusu ve bir kalem eşya",
+     "soru": "Gümrük Yönetmeliğine göre bağlayıcı tarife ve menşe bilgisi başvurularında \"bir kalem eşya\" deyiminden ne anlaşılır?",
+     "cevap": "Türk Gümrük Tarife Cetvelinde aynı tarife pozisyonu alt açılımında bulunan ve aynı yasal ya da tercihli vergi oranına tabi olan eşya anlaşılır; her başvuru yalnız bir kalem eşya için yapılır.",
+     "dayanak": "GY md. 28/2; GY md. 29/3",
+     "kanit": "Bir kalem eşya deyiminden Türk Gümrük Tarife Cetvelinde aynı tarife pozisyonu alt açılımında bulunan ve aynı yasal ya da tercihli vergi oranına tabi olan eşya anlaşılır."
+    },
+    {
+     "alt_konu": "BTB numunesi, bildirim süresi, itiraz ve iptalin hüküm ifade etmesi",
+     "soru": "Gümrük Yönetmeliğine göre BTB başvuru konusu eşya numuneleri, BTB'nin tebliğinden itibaren ne kadar sürede alınmazsa Müsteşarlıkça değerlendirilir?",
+     "cevap": "Bir aylık süre içinde hak sahibi veya temsilcisi tarafından alınmazsa Müsteşarlıkça değerlendirilir.",
+     "dayanak": "GY md. 28/4",
+     "kanit": "Bağlayıcı Tarife Bilgisinin ilgilisine tebliği tarihinden itibaren bir aylık süre içinde hak sahibi veya temsilcisi tarafından alınmadığı takdirde, Müsteşarlıkça değerlendirilir."
+    },
+    {
+     "alt_konu": "BTB numunesi, bildirim süresi, itiraz ve iptalin hüküm ifade etmesi",
+     "soru": "Gümrük Yönetmeliğine göre BTB'nin başvuru alındıktan sonra hangi süre içinde bildirilmesi mümkün olmazsa gümrük idaresi ek süre belirtir?",
+     "cevap": "Üç ay içinde bildirilemeyecekse, idare bu süre bitmeden gecikmenin nedenini açıklayarak gerekli gördüğü ek süreyi belirtir.",
+     "dayanak": "GY md. 28/6; Seri No 14 Tebliğ md. 14/3",
+     "kanit": "Bağlayıcı Tarife Bilgisinin başvuru alındıktan sonra üç ay içinde başvuru sahibine bildiriminin mümkün olmadığı durumlarda, gümrük idaresi, bu sürenin bitiminden önce, gecikmenin nedenini açıklayarak bilginin verilmesi için gerekli gördüğü ek süreyi belirtir."
+    },
+    {
+     "alt_konu": "BTB numunesi, bildirim süresi, itiraz ve iptalin hüküm ifade etmesi",
+     "soru": "Gümrük Yönetmeliğine göre verilen bağlayıcı tarife veya menşe bilgisine karşı hangi yola başvurulabilir?",
+     "cevap": "Gümrük Kanunundaki itiraz hükümleri çerçevesinde itiraz yolu açıktır ve bu husus bildirim formunda belirtilir.",
+     "dayanak": "GY md. 28/7; GY md. 29/2; Seri No 14 Tebliğ md. 21",
+     "kanit": "verilen Bağlayıcı Tarife Bilgisine karşı Kanunun 242 nci maddesi hükümleri çerçevesinde itiraz yolunun açık olduğu belirtilir."
+    },
+    {
+     "alt_konu": "BTB numunesi, bildirim süresi, itiraz ve iptalin hüküm ifade etmesi",
+     "soru": "Gümrük Yönetmeliğine göre yanlış veya eksik bilgiye dayandığı için iptal edilen BTB hangi tarihten itibaren hüküm ifade eder?",
+     "cevap": "İptal kararının verildiği tarihten itibaren hüküm ifade eder; iptal veya değişikliğin tebliğ edilmesi nedeniyle geçersizlikte ise tebliğ tarihi esas alınır.",
+     "dayanak": "GY md. 28/10",
+     "kanit": "Bağlayıcı Tarife Bilgisi Kanunun 9 uncu maddesinin dördüncü fıkrasına göre iptal edildiğinde, iptal kararın verildiği tarihten itibaren"
+    },
+    {
+     "alt_konu": "Bağlayıcı Menşe Bilgisi",
+     "soru": "Gümrük Yönetmeliğine göre bağlayıcı menşe bilgisi kim tarafından verilir ve hangi menşeinin tespitine ilişkindir?",
+     "cevap": "Kişinin yazılı talebi üzerine Müsteşarlık (Gümrükler Genel Müdürlüğü) tarafından verilir; eşyanın tercihli veya tercihli olmayan menşeinin tespitine ilişkin idari karardır. BTB ise Müsteşarlıkça veya yetkilendirilmiş gümrük ve muhafaza başmüdürlüklerince verilebilir.",
+     "dayanak": "GY md. 29/1",
+     "kanit": "Bağlayıcı Menşe Bilgisi, kişinin yazılı talebi üzerine Müsteşarlık (Gümrükler Genel Müdürlüğü) tarafından verilen ve eşyanın tercihli veya tercihli olmayan menşeinin tespitine ilişkin idari karardır."
+    },
+    {
+     "alt_konu": "Bağlayıcı Menşe Bilgisi",
+     "soru": "Gümrük Yönetmeliğine göre bağlayıcı menşe bilgisi başvuru sahibine ne kadar süre içinde bildirilmelidir?",
+     "cevap": "İdarece karar verilebilmesi için gereken tüm belgelerin temin edildiği tarihten itibaren beş ay içinde bildirilmelidir (BTB'de süre başvurudan itibaren üç aydır).",
+     "dayanak": "GY md. 29/6",
+     "kanit": "Bağlayıcı Menşe Bilgisinin, idarece karar verilebilmesi için gereken tüm belgelerin temin edildiği tarihten itibaren beş ay içinde başvuru sahibine bildirilmesi gerekir."
+    },
+    {
+     "alt_konu": "Bilgilerin gizliliği",
+     "soru": "Gümrük Yönetmeliğine göre gümrük memurlarının görevleri dolayısıyla öğrendikleri sırları açıklama yasağı ne zamana kadar sürer?",
+     "cevap": "Görevlerinden ayrılmalarından sonra da devam eder.",
+     "dayanak": "GY md. 30/3",
+     "kanit": "Bu yasak yukarıda belirtilen kişilerin görevlerinden ayrılmalarından sonra da devam eder."
+    },
+    {
+     "alt_konu": "Bilgilerin gizliliği",
+     "soru": "Gümrük Yönetmeliğine göre gizlilik yükümlülüğüne uymayanlar hakkında hangi kanun hükümleri uyarınca işlem yapılır?",
+     "cevap": "5237 sayılı Türk Ceza Kanununun 239 ve 258 inci maddeleri gereğince işlem yapılır.",
+     "dayanak": "GY md. 30/5",
+     "kanit": "Bu maddede belirtilen yükümlülüğe uymayanlar hakkında 5237 sayılı Türk Ceza Kanununun 239 ve 258 inci maddeleri gereğince gerekli işlemler yapılır"
+    },
+    {
+     "alt_konu": "Yanlış izahat verilmesi",
+     "soru": "Gümrük Yönetmeliğine göre gümrük idaresince yükümlüye yazı ile yanlış izahat verilmiş olması halinde yükümlü hakkında ne uygulanmaz?",
+     "cevap": "İdari para cezası verilmez ve faiz uygulanmaz.",
+     "dayanak": "GY md. 580/A-1",
+     "kanit": "Gümrük idaresi tarafından yükümlüye yazı ile yanlış izahat verilmiş olması hâlinde Kanunun 231 inci maddesinin beşinci fıkrası uyarınca idari para cezası verilmez ve faiz uygulanmaz."
+    },
+    {
+     "alt_konu": "Yanlış izahat verilmesi",
+     "soru": "Gümrük Yönetmeliğine göre yanlış izahat hükmünden yararlanılabilmesi için tarife ve menşe tespitine ilişkin talepler değerlendirmeye alınır mı?",
+     "cevap": "Alınmaz; talebin tarife ve menşe tespitine ilişkin olmaması şarttır. BTB/BMB talepleri ile dilekçe ve bilgi edinme hakkı kapsamındaki talepler de bu kapsamda değerlendirilmez.",
+     "dayanak": "GY md. 580/A-2, 3",
+     "kanit": "g) Talebin tarife ve menşe tespitine ilişkin olmaması. ... Kanunun 9 uncu maddesi kapsamında verilen bağlayıcı tarife bilgisi ve bağlayıcı menşe bilgisine ilişkin talepler"
+    },
+    {
+     "alt_konu": "Yanlış izahat verilmesi",
+     "soru": "Gümrük Yönetmeliğine göre yanlış izahat kapsamındaki izahat talepleri nereye yapılır?",
+     "cevap": "Gümrük ve dış ticaret bölge müdürlüklerine yapılır; bölge müdürlüğü görüşüyle birlikte Bakanlığa (Gümrükler Genel Müdürlüğü) intikal ettirir, şartları taşımayan başvuruları ise doğrudan sonuçlandırır.",
+     "dayanak": "GY md. 580/A-4",
+     "kanit": "İkinci fıkrada belirtilen talepler, gümrük ve dış ticaret bölge müdürlüklerine yapılır."
+    },
+    {
+     "alt_konu": "Yanlış izahat verilmesi",
+     "soru": "Gümrük Yönetmeliğine göre verilen izahat hangi tarihten itibaren hüküm ifade eder?",
+     "cevap": "İzahatın ilgiliye bildirildiği tarihten itibaren hüküm ifade eder.",
+     "dayanak": "GY md. 580/A-4",
+     "kanit": "Verilen izahat ilgiliye bildirilir. İzahat bildirildiği tarihten itibaren hüküm ifade eder."
+    },
+    {
+     "alt_konu": "Yanlış izahat verilmesi",
+     "soru": "Gümrük Yönetmeliğine göre gümrük idaresince verilen izahat karar niteliği taşır mı ve itiraza konu olur mu?",
+     "cevap": "Karar niteliği taşımaz ve itiraza konu olmaz.",
+     "dayanak": "GY md. 580/A-9",
+     "kanit": "İzahat, karar niteliği taşımaz ve itiraza konu olmaz."
+    },
+    {
+     "alt_konu": "Yanlış izahat verilmesi",
+     "soru": "Gümrük Yönetmeliğine göre bölge müdürlüklerince verilen tarife bilgisi kapsamında tespit edilen tarifenin gümrük idaresince sonradan değiştirilmesi halinde yükümlü hakkında nasıl işlem yapılır?",
+     "cevap": "Yanlış izahata ilişkin Kanun hükmü uygulanır; yükümlüye idari para cezası verilmez ve faiz uygulanmaz.",
+     "dayanak": "GY md. 580/A-11",
+     "kanit": "Gümrük ve dış ticaret bölge müdürlüklerince verilen tarife bilgisi kapsamında tespit edilen tarifenin gümrük idaresi tarafından sonradan değiştirilmesi durumunda Kanunun 231 inci maddesinin beşinci fıkrası hükümleri uygulanır."
+    },
+    {
+     "alt_konu": "BTB ücreti ve tahlil",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre BTB başvurusunda tahlil ücretinin yatırılmaması halinde ne olur?",
+     "cevap": "BTB başvurusu reddedilir (tarife bilgisi talebinde ise ücret yatırılmazsa talepten vazgeçilmiş sayılır).",
+     "dayanak": "Seri No 14 Tebliğ md. 5/3",
+     "kanit": "Tahlil ücretinin yatırılmaması halinde BTB başvurusu reddedilir."
+    },
+    {
+     "alt_konu": "BTB uygulamasının amaçları",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre BTB uygulamasının amaçları nelerdir?",
+     "cevap": "Sınıflandırmanın yeknesak uygulanarak uyumlaştırılması; beyan ve gümrük işlemlerinin hızlandırılması ve maliyetin azaltılması; tarife pozisyonundan kaynaklanan ihtilafların azaltılması; yüksek riskli eşyanın kontrolüne zaman ayrılabilmesi; hukuki geçerliliği olan resmi bilgi sağlanması ve ticari işlemin kârlılığının önceden tahmin edilebilmesidir.",
+     "dayanak": "Seri No 14 Tebliğ md. 6",
+     "kanit": "a) Sınıflandırma kurallarının doğru ve yeknesak bir şekilde uygulanması suretiyle sınıflandırmanın uyumlaştırılmasını ... c) Ticaret erbabı ile gümrük idaresi arasında eşyanın tarife pozisyonundan kaynaklanan ihtilafları azaltmak,"
+    },
+    {
+     "alt_konu": "BTB başvuru yeri, şekli ve tek başvuru kuralı",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre BTB başvurusu nasıl ve nereye yapılır?",
+     "cevap": "BTB Programına veri girişi yapılarak elektronik olarak veya Gümrük Yönetmeliği ekindeki forma uygun bir formla yazılı olarak, yetkilendirilmiş gümrük ve ticaret bölge müdürlüğüne yapılır.",
+     "dayanak": "Seri No 14 Tebliğ md. 7/1",
+     "kanit": "BTB başvurusu, BTB Programına veri girişi yapılması suretiyle elektronik olarak veya Gümrük Yönetmeliğinin Ek-1'inde yer alan başvuru formu örneğine uygun bir form ile yazılı olarak yetkilendirilmiş gümrük ve ticaret bölge müdürlüğüne yapılır."
+    },
+    {
+     "alt_konu": "Başvuru yapılamayacak eşya",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre üzerlerinde veya ambalajlarında ayniyetini tespite yarayacak bilgileri bulunmayan eşyaya ilişkin BTB başvurusu hakkında ne yapılabilir?",
+     "cevap": "Ayniyet tespitinin fiziki olarak da mümkün olmaması halinde başvuru reddedilebilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 8/2",
+     "kanit": "Üzerlerinde veya ambalajlarında ayniyetini tespite yarayacak bilgileri haiz olmayan eşyaya dair başvurular, ayniyet tespitinin fiziki olarak da mümkün olmaması halinde reddedilebilir."
+    },
+    {
+     "alt_konu": "Başvuru yapılamayacak eşya",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre başvuru konusu eşyanın BTB kapsamına girmediğinin sonradan anlaşılması halinde başvuru nasıl değerlendirilir?",
+     "cevap": "Başvuru sahibince talep edilmesi halinde mevcut BTB başvurusu Gümrük Genel Tebliği (Tarife) (Seri No: 11) hükümlerine göre, yani tarife bilgisi başvurusu olarak değerlendirilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 8/3",
+     "kanit": "Başvuru konusu eşyanın BTB kapsamına girmediğinin sonradan anlaşılması ve başvuru sahibince talep edilmesi halinde, mevcut BTB başvurusu"
+    },
+    {
+     "alt_konu": "Bilgi edinme ve elektronik başvurunun reddi",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre elektronik BTB başvurularının reddedilmesi halinde başvuru sahibine ayrıca tebligat yapılır mı?",
+     "cevap": "Yapılmaz; başvuru sahipleri başvurularının işlem durumunu BTB Programından öğrenebilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 10/2",
+     "kanit": "Elektronik başvuruların reddedilmesi durumunda başvuru sahibine ayrıca tebligat yapılmaz."
+    },
+    {
+     "alt_konu": "BTB heyeti ve sınıflandırma",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre BTB başvurusunu inceleyip eşyanın GTİP'ini tespit eden heyet kimlerden oluşur?",
+     "cevap": "Bölge müdürünün görevlendireceği bir bölge müdür yardımcısı başkanlığında bir gümrük müdürü veya şube müdürü ile üç muayene memurundan oluşur.",
+     "dayanak": "Seri No 14 Tebliğ md. 13/1",
+     "kanit": "bölge müdürü tarafından görevlendirilecek bir bölge müdür yardımcısı başkanlığında bir gümrük müdürü veya şube müdürü ve üç muayene memurundan oluşacak heyet"
+    },
+    {
+     "alt_konu": "BTB heyeti ve sınıflandırma",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre heyetin, benzer özellikteki eşyaya ilişkin geçerli bir BTB'deki sınıflandırmadan farklı görüşte olması halinde ne yapılır?",
+     "cevap": "BTB düzenlenmeden önce konu gerekçesiyle birlikte Bakanlığa intikal ettirilir ve alınacak cevaba göre işlem yapılır.",
+     "dayanak": "Seri No 14 Tebliğ md. 13/2",
+     "kanit": "BTB düzenlenmeden önce konu gerekçesiyle birlikte Bakanlığa intikal ettirilerek alınacak cevaba göre işlem yapılır."
+    },
+    {
+     "alt_konu": "BTB'nin bağlayıcılığı ve kullanım hakkı",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre gümrük idareleri, geçerli bir BTB'ye konu eşya ile aynı olduğu tartışmasız olan eşyayı nasıl sınıflandırır?",
+     "cevap": "BTB'deki tespit doğrultusunda sınıflandırmak zorundadır.",
+     "dayanak": "Seri No 14 Tebliğ md. 15/1",
+     "kanit": "Gümrük idarelerince, geçerli bir BTB'ye konu eşya ile aynı olduğu tartışmasız olan eşya için BTB'deki tespit doğrultusunda sınıflandırma yapılması gerekmektedir."
+    },
+    {
+     "alt_konu": "BTB'nin bağlayıcılığı ve kullanım hakkı",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre geçerliliğini kaybeden BTB'nin geçiş süresince kullanılması hakkından kimler yararlanabilir?",
+     "cevap": "Sadece hak sahibi yararlanabilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 15/2",
+     "kanit": "4458 sayılı Gümrük Kanununun 9 uncu maddesinin yedinci fıkrasında belirtilen haktan sadece hak sahibi yararlanabilir."
+    },
+    {
+     "alt_konu": "BTB'nin yeniden incelenmesi",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre geçerli bir BTB'yi yeniden incelemeye alma ve iptal etme yetkisi kime aittir?",
+     "cevap": "Bakanlık veya BTB'yi düzenleyen bölge müdürlüğü; menfaati bulunan üçüncü kişilerin başvurusu üzerine veya re'sen yeniden inceleyip sonuca göre iptal edebilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 18",
+     "kanit": "Bakanlık veya BTB'yi düzenleyen bölge müdürlüğü menfaati bulunan üçüncü kişilerin başvurusu üzerine veya re'sen geçerli bir BTB'yi yeniden incelemeye alabilir ve inceleme sonucuna göre BTB'yi iptal edebilir."
+    },
+    {
+     "alt_konu": "Geçersizlik ve iptalin başlangıcı",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre Gümrük Tarife Cetveli değişikliği dışında tarife mevzuatındaki bir değişiklik nedeniyle geçersiz hale gelen BTB'ler için ne yapılır?",
+     "cevap": "Düzenleyen bölge müdürlüğü tarafından zaman geçirilmeksizin BTB programı üzerinde de geçersiz konuma getirilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 20/2",
+     "kanit": "tarife mevzuatında meydana gelen bir değişiklik nedeniyle geçersiz hale gelen BTB'ler, düzenleyen bölge müdürlüğü tarafından zaman geçirilmeksizin BTB programı üzerinde de geçersiz konuma getirilir."
+    },
+    {
+     "alt_konu": "Tarife bilgisinin tanımı ve ücreti",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 11)'e göre tarife bilgisi nedir ve kim tarafından verilir?",
+     "cevap": "Eşyanın Türk Gümrük Tarife Cetvelinde sınıflandırılmasına ilişkin olarak kişinin yazılı talebi üzerine Gümrük ve Muhafaza Başmüdürlüklerince verilen tarife sınıflandırma görüşüdür.",
+     "dayanak": "Seri No 11 Tebliğ md. 4",
+     "kanit": "Tarife bilgisi, eşyanın Türk Gümrük Tarife Cetvelinde sınıflandırılmasına ilişkin olarak, kişinin yazılı talebi üzerine Gümrük ve Muhafaza Başmüdürlüklerince verilen tarife sınıflandırma görüşüdür."
+    },
+    {
+     "alt_konu": "Tarife bilgisinin tanımı ve ücreti",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 11)'e göre tasarlanan bir ithalat veya ihracat işlemine dayanmayan tarife bilgi talepleri için başvuru sahibinden hangi tutar alınır?",
+     "cevap": "Bu talepler normal çalışma saatleri dışında karşılanır ve 3 saate tekabül eden ithalat gümrük işlemlerine uygulanan fazla mesai ücreti kadar tutar ile tahlil, ekspertiz veya geri gönderme masrafları başvuru sahibince karşılanır.",
+     "dayanak": "Seri No 11 Tebliğ md. 5/1",
+     "kanit": "Tasarlanan bir ithalat veya ihracat işlemine dayanmayan tarife bilgi talepleri normal çalışma saatleri dışında karşılanır ... 3 saate tekabül eden ithalat gümrük işlemlerine uygulanan fazla mesai ücreti kadar tutar"
+    },
+    {
+     "alt_konu": "Tarife bilgisinin tanımı ve ücreti",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 11)'e göre fazla mesai ücreti ve/veya tahlil ücretinin yatırılmaması halinde ne olur?",
+     "cevap": "Bilgi talebinden vazgeçilmiş sayılır (BTB'de ise tahlil ücreti yatırılmazsa başvuru reddedilir).",
+     "dayanak": "Seri No 11 Tebliğ md. 5/4",
+     "kanit": "Fazla mesai ücreti ve/veya tahlil ücretinin yatırılmaması halinde bilgi talebinden vazgeçilmiş sayılır."
+    },
+    {
+     "alt_konu": "Tarife bilgisi başvurusu",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 11)'e göre tasarlanan bir ithalat veya ihracat işlemine dayanan tarife bilgisi başvurusu nereye yapılır?",
+     "cevap": "İthalat veya ihracatın yapılacağı gümrük müdürlüğünün bağlı bulunduğu Gümrük ve Muhafaza Başmüdürlüğüne yapılır; diğer durumlarda kişinin bağlı olduğu vergi dairesinin bulunduğu ildeki, yoksa en yakın başmüdürlüğe yapılır.",
+     "dayanak": "Seri No 11 Tebliğ md. 6/1",
+     "kanit": "tasarlanan bir ithalat veya ihracat işlemine dayanan durumlarda ithalat veya ihracatın yapılacağı gümrük müdürlüğünün bağlı bulunduğu Gümrük ve Muhafaza Başmüdürlüğüne"
+    },
+    {
+     "alt_konu": "Tarife bilgisi başvurusu",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 11)'e göre gümrükte işlem görmüş veya görmekte olan eşya ile aynı partiyi teşkil eden eşya için tarife bilgisi talebinde bulunulabilir mi?",
+     "cevap": "Bulunulamaz; bu tür eşyanın belgeleriyle bilgi alındığı sonradan tespit edilirse başvuru sahibine usulsüzlük cezası uygulanır.",
+     "dayanak": "Seri No 11 Tebliğ md. 7",
+     "kanit": "Gümrükte işlem görmüş veya görmekte olan eşya ile aynı partiyi teşkil eden eşya için bilgi talebinde bulunulamaz."
+    },
+    {
+     "alt_konu": "Tarife bilgisinin verilmesi ve hukuki etkisi",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 11)'e göre tarife bilgisi talebini inceleyerek GTİP'i tespit eden heyet kimlerden oluşur?",
+     "cevap": "Gümrük ve Muhafaza Başmüdürlüğünde görevli bir başmüdür yardımcısı başkanlığında en az iki muayene memurunun katılımıyla oluşur.",
+     "dayanak": "Seri No 11 Tebliğ md. 11/1",
+     "kanit": "Gümrük ve Muhafaza Başmüdürlüğünde görevli bir başmüdür yardımcısı başkanlığında en az iki muayene memurunun katılımıyla oluşacak heyet"
+    },
+    {
+     "alt_konu": "Tarife bilgisinin verilmesi ve hukuki etkisi",
+     "soru": "Gümrük Genel Tebliği (Tarife) (Seri No: 11)'e göre verilen tarife bilgisinin mevzuat uygulamaları bakımından bağlayıcılığı var mıdır?",
+     "cevap": "Yoktur; tarife bilgisi verilmiş olması kamu kurumlarının inceleme ve denetim sorumluluğunu da ortadan kaldırmaz.",
+     "dayanak": "Seri No 11 Tebliğ md. 12",
+     "kanit": "Tarife bilgisinin mevzuat uygulamaları bakımından bağlayıcılığı bulunmamaktadır."
+    }
+   ]
+  },
+  {
+   "kaynak": "8-SÜRELER VE DİĞER HÜKÜMLER.txt",
+   "konu": "Süreler, mücbir sebep, belge saklama ve diğer hükümler",
+   "mevzuat": "GK md. 10-14; GY md. 31, 76, 318; Gümrük Genel Tebliği (Süre Değişimi) (Seri No: 2)",
+   "cikmis_sayisi": 2,
+   "cikmis": [
+    "2021-24: Belge saklama süresi beş yıl; serbest dolaşım/ihracat beyanlarında süre tescil yılının sonundan başlar",
+    "2023-57: Mücbir sebep ve beklenmeyen haller listesi; yurtdışı gezisi sayılmaz"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Bakanın tereddüt giderme ve kriz hallerindeki yetkileri; gümrük müşavirlerine tespit işlemleri",
+     "dayanak": "GK md. 10/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük kontrolleri ve risk analizi",
+     "dayanak": "GK md. 10/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bilgi ve belge verme yükümlülüğü",
+     "dayanak": "GK md. 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gizli bilgiler",
+     "dayanak": "GK md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Belge saklama süresi ve başlangıcı",
+     "dayanak": "GK md. 13",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-24"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Sürelerin hesaplanması ve posta ile başvuru",
+     "dayanak": "GK md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sürelerin uzatılamazlığı ve mücbir sebepler",
+     "dayanak": "GY md. 31",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-57"
+     ],
+     "not": "Mücbir sebep ve beklenmeyen hallerin listesi soruldu; bu hallerde sürelerin işlememesi ve süresi dışındaki başvurularda ek süre verilmesi sorulmadı."
+    },
+    {
+     "baslik": "GOİK sürelerinin durması ve uzatılması",
+     "dayanak": "GY md. 76",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Süre uzatım taleplerinin değerlendirilmesi",
+     "dayanak": "Seri No 2 (Süre Değişimi) Tebliği md. 2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzin başvurularının saklanması",
+     "dayanak": "GY md. 318",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Bakanın tereddüt giderme ve kriz hallerindeki yetkileri; gümrük müşavirlerine tespit işlemleri",
+     "soru": "4458 sayılı Gümrük Kanununa göre izin süreleri, teminat uygulamaları, muafiyet ve istisna uygulamaları ile beyanın düzeltilmesine ilişkin sorun ve tereddütleri gidermeye kim yetkilidir?",
+     "cevap": "Müsteşarlığın önerisi ile bağlı bulunduğu Bakan yetkilidir.",
+     "dayanak": "GK md. 10/1-a",
+     "kanit": "beyanın düzeltilmesine ilişkin ortaya çıkan sorunları ve tereddütleri incelemek suretiyle gidermeye Müsteşarlığın önerisi ile bağlı bulunduğu Bakan yetkilidir."
+    },
+    {
+     "alt_konu": "Bakanın tereddüt giderme ve kriz hallerindeki yetkileri; gümrük müşavirlerine tespit işlemleri",
+     "soru": "4458 sayılı Gümrük Kanununa göre tabii afet, salgın hastalık, büyük yangın gibi kriz hallerinde kriz bölgelerinde kullanılmak üzere yurt dışından gelecek araç, gereç, makine ve teçhizatın yurda girişine kim, hangi usulle izin verir?",
+     "cevap": "Müsteşarlığın bağlı olduğu Bakan; giriş kayıtları tutulmak ve gümrük işlemleri sonradan yapılmak üzere yurda girişine izin verir.",
+     "dayanak": "GK md. 10/1-b",
+     "kanit": "giriş kayıtları tutulmak ve gümrük ile ilgili mevzuat gereğince yerine getirilmesi gereken işlemler sonradan yapılmak üzere, yurda girişine izin vermeye"
+    },
+    {
+     "alt_konu": "Bakanın tereddüt giderme ve kriz hallerindeki yetkileri; gümrük müşavirlerine tespit işlemleri",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasına ilişkin bazı tespit işlemlerinin belirli niteliklere sahip gümrük müşavirleri eliyle yürütülmesine ilişkin usul ve esasları düzenlemeye kim yetkilidir?",
+     "cevap": "Müsteşarlık yetkilidir; bu tespit işlemlerini belirleyeceği niteliklere sahip gümrük müşavirleri yürütür.",
+     "dayanak": "GK md. 10/1-c",
+     "kanit": "Müsteşarlık, gümrük mevzuatının doğru olarak uygulanması için gerekli gördüğü bütün önlemleri alır. ... belirleyeceği niteliklere sahip gümrük müşavirleri eliyle yürütülmesine ilişkin usul ve esasları düzenlemeye yetkilidir."
+    },
+    {
+     "alt_konu": "Gümrük kontrolleri ve risk analizi",
+     "soru": "4458 sayılı Gümrük Kanununa göre ani ve rastgele yapılanlar dışındaki gümrük kontrolleri neye dayanılarak yapılır?",
+     "cevap": "Bilgisayarlı veri işleme tekniklerini kullanan risk analizi esas alınarak yapılır.",
+     "dayanak": "GK md. 10/A-2",
+     "kanit": "Ani ve rastgele yapılanlar dışındaki gümrük kontrolleri; ... bilgisayarlı veri işleme tekniklerini kullanan risk analizi esas alınarak yapılır."
+    },
+    {
+     "alt_konu": "Gümrük kontrolleri ve risk analizi",
+     "soru": "4458 sayılı Gümrük Kanununa göre risk yönetimi çerçevesini oluşturma, risk kriterlerini ve öncelikli kontrol alanlarını belirleme yetkisi kime aittir?",
+     "cevap": "Müsteşarlığa aittir; bu amaçla gümrük işlemleri, gümrük kabahatleri ve kaçakçılık fiillerine ilişkin verileri toplamaya, saklamaya ve işlemeye de yetkilidir.",
+     "dayanak": "GK md. 10/A-3",
+     "kanit": "Müsteşarlık, risk yönetimi çerçevesini oluşturur ve risk kriterleri ile öncelikli kontrol alanlarını belirler."
+    },
+    {
+     "alt_konu": "Gümrük kontrolleri ve risk analizi",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idareleri dışındaki yetkili kurumların eşyaya ilişkin kontrolleri nasıl yapılır?",
+     "cevap": "Kaçakçılıkla Mücadele Kanunundaki ilgili hüküm saklı kalmak kaydıyla, gümrük idarelerinin koordinasyonunda ve mümkün olduğu ölçüde aynı yer ve zamanda yapılır.",
+     "dayanak": "GK md. 10/A-4",
+     "kanit": "Gümrük idareleri dışındaki yetkili kurumlar tarafından gerçekleştirilecek kontroller, ... gümrük idarelerinin koordinasyonunda ve mümkün olduğu ölçüde aynı yer ve zamanda yapılır."
+    },
+    {
+     "alt_konu": "Bilgi ve belge verme yükümlülüğü",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük işlemleriyle ilgili kişiler, kendilerinden bilgi istenmesi halinde özel kanunlardaki gizlilik hükümlerini ileri sürebilir mi?",
+     "cevap": "Süremezler; özel kanunlarda yazılı gizlilik hükümlerini ileri sürerek bilgi vermekten kaçınamazlar.",
+     "dayanak": "GK md. 11",
+     "kanit": "Kendilerinden bu konularda bilgi istenilen kişiler, özel kanunlarda yazılı gizlilik hükümlerini ileri sürerek bilgi vermekten kaçınamazlar."
+    },
+    {
+     "alt_konu": "Gizli bilgiler",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idarelerince elde edilen gizli nitelikteki bilgiler hangi koşulla açıklanabilir?",
+     "cevap": "Bilgiyi veren kişinin veya makamın açık izniyle açıklanabilir; ancak verilerin korunmasına ilişkin yasal hükümler veya yargı kararlarının gereği olarak ilgili mercilere verilir.",
+     "dayanak": "GK md. 12/1",
+     "kanit": "Bu bilgileri veren kişinin veya makamın açık izni olmaksızın söz konusu bilgiler açıklanamaz."
+    },
+    {
+     "alt_konu": "Sürelerin hesaplanması ve posta ile başvuru",
+     "soru": "4458 sayılı Gümrük Kanununa göre süre, tarih veya vadelerin bitim tarihinin resmi tatil gününe rastlaması halinde süre ne zaman sona erer?",
+     "cevap": "İlk işgününün resmi çalışma saatleri sonunda biter.",
+     "dayanak": "GK md. 14/1",
+     "kanit": "Süre, tarih veya vadelerin bitim tarihinin resmi tatil gününe rastlaması halinde, bu süreler ilk işgününün resmi çalışma saatleri sonunda biter."
+    },
+    {
+     "alt_konu": "Sürelerin hesaplanması ve posta ile başvuru",
+     "soru": "4458 sayılı Gümrük Kanununa göre ay olarak belirlenen bir sürenin bittiği ayda başlangıç gününe tekabül eden gün yoksa süre ne zaman sona erer?",
+     "cevap": "O ayın son gününün mesai saati bitiminde sona erer (tekabül eden gün varsa o günün mesai bitiminde biter).",
+     "dayanak": "GK md. 14/2",
+     "kanit": "Sürenin bittiği ayda tekabül eden bir gün yoksa süre o ayın son gününün mesai saati bitiminde sona erer."
+    },
+    {
+     "alt_konu": "Sürelerin hesaplanması ve posta ile başvuru",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idaresine posta ile taahhütlü olarak gönderilen yazılı başvurularda başvuru tarihi olarak hangi tarih esas alınır?",
+     "cevap": "Başvurunun postaya verildiği tarih, gümrük idaresine verilme tarihi yerine geçer.",
+     "dayanak": "GK md. 14/3",
+     "kanit": "Bu takdirde başvurunun postaya verildiği tarih gümrük idaresine verilme tarihi yerine geçer."
+    },
+    {
+     "alt_konu": "Sürelerin uzatılamazlığı ve mücbir sebepler",
+     "soru": "Gümrük Yönetmeliğine göre mücbir sebep veya beklenmeyen hallerden birinin bulunması halinde Kanunda belirtilen süreler bakımından ne olur?",
+     "cevap": "Bu sebep ortadan kalkıncaya kadar süreler işlemez.",
+     "dayanak": "GY md. 31/1",
+     "kanit": "Ancak, mücbir sebep ve beklenmeyen hallerden herhangi birinin bulunması halinde bu sebep ortadan kalkıncaya kadar bu süreler işlemez."
+    },
+    {
+     "alt_konu": "Sürelerin uzatılamazlığı ve mücbir sebepler",
+     "soru": "Gümrük Yönetmeliğine göre süresi dışında yapılan müracaatlarda mücbir sebebin süresi içinde meydana geldiğini kanıtlayan belge ibraz edilirse ne yapılır?",
+     "cevap": "İlgili gümrük idaresince ibraz edilen belgelere göre ek süre verilir.",
+     "dayanak": "GY md. 31/2",
+     "kanit": "mücbir sebep ve beklenmeyen hallerin süresi içerisinde meydana geldiğini kanıtlayan belge ibrazı halinde ilgili gümrük idaresince mücbir sebep ve beklenmeyen hallere ilişkin olarak ibraz edilen belgelere göre ek süre verilir."
+    },
+    {
+     "alt_konu": "GOİK sürelerinin durması ve uzatılması",
+     "soru": "Gümrük Yönetmeliğine göre gümrüğe sunulan eşyanın gümrükçe onaylanmış işlem veya kullanıma tabi tutulması için öngörülen yirmi ve kırk beş günlük sürelerin hesaplanmasında hangi süreler dikkate alınmaz?",
+     "cevap": "Eşyanın adli veya idari takibata konu olması nedeniyle geçen süreler ile uygunluk belgesi, kontrol belgesi, ithal lisansı, izin yazısı, gözetim belgesi, tahlil raporu gibi belgelerin alınması sırasında geçen süreler; bu süreler durdurulur ve işlem sonuçlandığında kalan süre verilir.",
+     "dayanak": "GY md. 76/1",
+     "kanit": "eşyanın herhangi bir adli veya idari takibata konu olması halinde bu takibat nedeniyle geçen süreler, ... işlem tarihinin başladığı tarihte durdurularak yirmi veya kırkbeş günlük sürelerin hesaplanmasında göz önünde bulundurulmaz"
+    },
+    {
+     "alt_konu": "GOİK sürelerinin durması ve uzatılması",
+     "soru": "Gümrük Yönetmeliğine göre tasfiyelik hale geldiği düşünülerek düzenlenen tespit ve tahakkuk belgelerinin, süreyi durduran sebeplerin bulunduğu gerekçesiyle iptali için başvuru en geç ne zamana kadar yapılmalıdır?",
+     "cevap": "İhale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı tarihe kadar yapılmalıdır; bu tarihten sonraki başvurular değerlendirilmez.",
+     "dayanak": "GY md. 76/2",
+     "kanit": "İhale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı tarihten itibaren yapılacak süreyi durduran sebeplerin bulunduğuna ilişkin başvurular değerlendirilmez."
+    },
+    {
+     "alt_konu": "GOİK sürelerinin durması ve uzatılması",
+     "soru": "Gümrük Yönetmeliğine göre gümrüğe sunulan eşyanın gümrükçe onaylanmış işlem veya kullanıma tabi tutulmasına ilişkin kanuni süreler kim tarafından ve hangi başvuru üzerine uzatılır?",
+     "cevap": "İlgilinin kanuni süre veya verilen ek sürenin bitiminden önce doğrudan veya mutat haberleşme araçlarıyla yaptığı yazılı başvuru üzerine gümrük müdürlüklerince uzatılır; bir ayı aşan taleplerde gerekçe belirtilmesi şarttır.",
+     "dayanak": "GY md. 76/3",
+     "kanit": "ilgilinin doğrudan veya mutat haberleşme araçları ile kanuni süre veya verilen ek sürenin bitiminden önce yazılı başvurusu üzerine gümrük müdürlüklerince uzatılır."
+    },
+    {
+     "alt_konu": "Süre uzatım taleplerinin değerlendirilmesi",
+     "soru": "Gümrük Genel Tebliği (Süre Değişimi) (Seri No: 2)'ye göre eşyanın gümrükçe onaylanmış işlem veya kullanıma tabi tutulması için öngörülen süreler gerekçe aranmaksızın ne kadar uzatılabilir?",
+     "cevap": "Otuz güne kadar gerekçe aranmaksızın uzatılır; otuz günü aşan taleplerde gerekçenin belirtilmesi ve kanıtlayıcı belge sunulması şarttır.",
+     "dayanak": "Seri No 2 (Süre Değişimi) Tebliği md. 2/1",
+     "kanit": "a) Otuz güne kadar gerekçe aranılmaksızın, ... b) Otuz günü aşan ek süre talepleri için ise gerekçenin belirtilmesi ve kanıtlayıcı belgenin sunulması şartıyla,"
+    },
+    {
+     "alt_konu": "Süre uzatım taleplerinin değerlendirilmesi",
+     "soru": "Gümrük Genel Tebliği (Süre Değişimi) (Seri No: 2)'ye göre gümrük müdürlükleri süre uzatım taleplerini ne kadar sürede sonuçlandırır?",
+     "cevap": "Dilekçenin kayıtlarına girdiği tarihten itibaren en geç üç iş günü içinde inceleyip sonuçlandırırlar.",
+     "dayanak": "Seri No 2 (Süre Değişimi) Tebliği md. 2/2",
+     "kanit": "Gümrük Müdürlükleri, süre uzatım taleplerini dilekçenin kayıtlarına girdiği tarihten itibaren en geç üç iş günü içinde inceleyip sonuçlandırırlar."
+    },
+    {
+     "alt_konu": "Süre uzatım taleplerinin değerlendirilmesi",
+     "soru": "Gümrük Genel Tebliği (Süre Değişimi) (Seri No: 2)'ye göre verilen süre uzatımları hangi tarihten itibaren başlatılır?",
+     "cevap": "Yasal sürenin bitiminden sonraki gün itibarıyla başlatılır.",
+     "dayanak": "Seri No 2 (Süre Değişimi) Tebliği md. 2/6",
+     "kanit": "Verilen süre uzatımları yasal sürenin bitiminden sonraki gün itibariyle başlatılır."
+    },
+    {
+     "alt_konu": "Süre uzatım taleplerinin değerlendirilmesi",
+     "soru": "Gümrük Genel Tebliği (Süre Değişimi) (Seri No: 2)'ye göre otuz günü aşan süre uzatım talebinin reddedilmesi halinde süre bakımından ne olur?",
+     "cevap": "Talebin kanuni süreleri durdurduğu kabul edilir ve kalan süre ilgilisine bildirilir; ancak ikinci veya daha sonraki süre uzatım dilekçeleri kalan süreyi tekrar durdurmaz.",
+     "dayanak": "Seri No 2 (Süre Değişimi) Tebliği md. 2/7",
+     "kanit": "Otuz günü aşan süre uzatım taleplerinin reddi halinde, talebin Gümrük Kanununun 46 ncı maddesinde belirtilen süreleri durdurduğu kabul edilir, kalan süre ilgilisine bildirilir."
+    },
+    {
+     "alt_konu": "İzin başvurularının saklanması",
+     "soru": "Gümrük Yönetmeliğine göre antrepo izni başvuruları ve ekleri izni veren merci tarafından ne kadar süre ve hangi tarihten itibaren saklanır?",
+     "cevap": "İznin iptal edildiği veya geri alındığı takvim yılının sonundan itibaren beş yıl süreyle izin belgesiyle birlikte saklanır.",
+     "dayanak": "GY md. 318/1-a",
+     "kanit": "a) Antrepo izni, iznin iptal edildiği veya geri alındığı takvim yılının sonundan itibaren, ... beş yıl süre ile izin belgesiyle birlikte saklanır."
+    },
+    {
+     "alt_konu": "İzin başvurularının saklanması",
+     "soru": "Gümrük Yönetmeliğine göre antrepo dışındaki ekonomik etkili gümrük rejimleri kullanım izni başvuruları için beş yıllık saklama süresi hangi tarihten itibaren başlar?",
+     "cevap": "İznin sona erdiği takvim yılı sonundan itibaren başlar.",
+     "dayanak": "GY md. 318/1-b",
+     "kanit": "b) Diğer ekonomik etkili gümrük rejimleri kullanım izni ise iznin sona erdiği takvim yılı sonundan itibaren,"
+    }
+   ]
+  },
+  {
+   "kaynak": "9-TAR.POZ.AYIRMA.txt",
+   "konu": "Gümrük tarifesi ve eşyanın tarife pozisyonlarına ayrılması",
+   "mevzuat": "GK md. 15-16; GY md. 32; Gümrük Genel Tebliği (Gümrük Tarife Cetveli İzahnamesi) (Seri No: 4); Gümrük Genel Tebliği (Gümrük Tarife Cetveli Açıklama Notları) (Seri No: 6)",
+   "cikmis_sayisi": 6,
+   "cikmis": [
+    "2021-27: Gümrük tarifesinin kapsamı; sadece serbest bölgeye konulan eşyaya şartlı muafiyet kapsamda değildir",
+    "2021-66: Gümrük vergisi hesabında tarife sınıflandırması, menşe ve gümrük kıymeti birlikte dikkate alınır",
+    "2022-43: Tarife kontenjanı tanımı",
+    "2023-96: Tarife pozisyonu dört rakamlı gruptur (01.02)",
+    "2024-37: Kota tanımı",
+    "2025-28: GTİP on iki rakamlı istatistik pozisyonudur"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Gümrük vergilerinin hesaplanmasında esas alınan tarife ve tarife pozisyonuna göre uygulanan önlemler",
+     "dayanak": "GK md. 15/1-2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-66"
+     ],
+     "not": "Gümrük vergisi hesabında tarife, menşe ve kıymetin birlikte dikkate alınması soruldu; hesaplamada hangi tarihte yürürlükteki tarifenin esas alınacağı ve diğer önlemlerin tarife pozisyonuna göre uygulanması sorulmadı."
+    },
+    {
+     "baslik": "Gümrük tarifesinin kapsamı",
+     "dayanak": "GK md. 15/3",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-27"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Tercihli tarife ve şartlı muafiyet talebi",
+     "dayanak": "GK md. 15/4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hacimle sınırlı tarife uygulamalarının sona ermesi",
+     "dayanak": "GK md. 15/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tarife cetveli, izahname ve eşya fihristinin hazırlanması ve yayımı",
+     "dayanak": "GK md. 15/7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Mahiyet ve nihai kullanım nedeniyle tercihli tarife",
+     "dayanak": "GK md. 16",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "TGTC'nin yapısı: bölüm, fasıl ve başlıklar",
+     "dayanak": "GY md. 32/1-a-f",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tarife pozisyonu, alt pozisyon ve GTİP",
+     "dayanak": "GY md. 32/1-g, ı, k",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-96",
+      "2025-28"
+     ],
+     "not": "Dört rakamlı tarife pozisyonu ve on iki rakamlı GTİP soruldu; altı rakamlı tarife alt pozisyonu sorulmadı."
+    },
+    {
+     "baslik": "Kota, tarife kontenjanı, tarife önlemleri, tarife tavanı ve tercihli tarife",
+     "dayanak": "GY md. 32/1-h, i, j, l, m",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-37",
+      "2022-43"
+     ],
+     "not": "Kota ve tarife kontenjanı tanımları soruldu; tarife önlemleri, tarife tavanı ve tercihli tarife tanımları sorulmadı."
+    },
+    {
+     "baslik": "İzahnamenin bağlayıcılığı",
+     "dayanak": "Seri No 4 Tebliğ md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Açıklama Notları, Ek Not ve uymayan BTB'ler",
+     "dayanak": "Seri No 6 Tebliğ md. 4-5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Gümrük vergilerinin hesaplanmasında esas alınan tarife ve tarife pozisyonuna göre uygulanan önlemler",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük vergileri hangi tarihte yürürlükte olan gümrük tarifesine göre hesaplanır?",
+     "cevap": "Gümrük yükümlülüğünün başladığı tarihte yürürlükte olan gümrük tarifesine göre hesaplanır.",
+     "dayanak": "GK md. 15/1",
+     "kanit": "Gümrük vergileri, gümrük yükümlülüğünün başladığı tarihte yürürlükte olan gümrük tarifesine göre hesaplanır."
+    },
+    {
+     "alt_konu": "Gümrük vergilerinin hesaplanmasında esas alınan tarife ve tarife pozisyonuna göre uygulanan önlemler",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşya ticaretine ilişkin özel hükümlerle belirlenmiş diğer önlemler neye göre uygulanır?",
+     "cevap": "Gerektiği takdirde eşyanın tarife pozisyonuna göre uygulanır.",
+     "dayanak": "GK md. 15/2",
+     "kanit": "Eşya ticaretine ilişkin özel hükümlerle belirlenmiş diğer önlemler, gerektiği takdirde, söz konusu eşyanın tarife pozisyonuna göre uygulanır."
+    },
+    {
+     "alt_konu": "Tercihli tarife ve şartlı muafiyet talebi",
+     "soru": "4458 sayılı Gümrük Kanununa göre tercihli tarife veya şartlı muafiyet/indirim koşullarını taşıyan eşyanın ithalinde, bu uygulamalardan yararlanma talebi gümrük işlemleri tamamlandıktan sonra yapılabilir mi?",
+     "cevap": "Evet; gerekli koşulların yerine getirilmesi halinde talep gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir (sabit oranlı vergilendirme hükümleri saklıdır).",
+     "dayanak": "GK md. 15/4",
+     "kanit": "Gerekli koşulların yerine getirilmesi halinde, söz konusu talep gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir."
+    },
+    {
+     "alt_konu": "Hacimle sınırlı tarife uygulamalarının sona ermesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre belirli bir ithalat hacmi ile sınırlandırılmış tarife uygulamaları tarife kotalarında ne zaman sona erer?",
+     "cevap": "Tespit edilen ithalat hacmi sınırına ulaşıldığında kendiliğinden sona erer.",
+     "dayanak": "GK md. 15/5-a",
+     "kanit": "a) Tarife kotalarının söz konusu olduğu durumlarda, tespit edilen ithalat hacmi sınırına ulaşıldığında,"
+    },
+    {
+     "alt_konu": "Hacimle sınırlı tarife uygulamalarının sona ermesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre belirli bir ithalat hacmi ile sınırlandırılmış tarife uygulamaları tarife tavanlarında nasıl sona erer?",
+     "cevap": "Cumhurbaşkanı Kararı ile sona erer (tarife kotalarında ise hacim sınırına ulaşılınca biter).",
+     "dayanak": "GK md. 15/5-b",
+     "kanit": "b) Tarife tavanlarının söz konusu olduğu durumlarda ise Cumhurbaşkanı Kararı ile,"
+    },
+    {
+     "alt_konu": "Tarife cetveli, izahname ve eşya fihristinin hazırlanması ve yayımı",
+     "soru": "4458 sayılı Gümrük Kanununa göre Gümrük Tarife Cetveli, izahnamesi ve eşya fihristi kim tarafından hazırlanır ve yayımlanan metinlerin hukuki değeri nedir?",
+     "cevap": "Müsteşarlıkça hazırlanıp Resmî Gazetede yayımlanır; bu şekilde yayımlanan metinler idari ve kazai uygulamalarda esas tutulur.",
+     "dayanak": "GK md. 15/7",
+     "kanit": "Gümrük Tarife Cetveli, izahnamesi ve eşya fihristi, Müsteşarlıkça hazırlanır ve Resmi Gazetede yayımlanır. Bu şekilde yayımlanan metinler idari ve kazai uygulamalarda esas tutulur."
+    },
+    {
+     "alt_konu": "Mahiyet ve nihai kullanım nedeniyle tercihli tarife",
+     "soru": "4458 sayılı Gümrük Kanununa göre mahiyeti ve nihai kullanım şekli gerekçesiyle bazı eşyanın yararlanabileceği tercihli tarife uygulaması kimin belirlediği şartlara tabidir?",
+     "cevap": "Cumhurbaşkanınca belirlenen şartlara tabidir.",
+     "dayanak": "GK md. 16/1",
+     "kanit": "Mahiyeti ve nihai kullanım şekli gerekçesiyle, bazı eşyanın yararlanabileceği tercihli tarife uygulaması, Cumhurbaşkanınca belirlenen şartlara tabidir."
+    },
+    {
+     "alt_konu": "Mahiyet ve nihai kullanım nedeniyle tercihli tarife",
+     "soru": "4458 sayılı Gümrük Kanununa göre mahiyet ve nihai kullanım nedeniyle uygulanan \"tercihli tarife uygulaması\" ifadesi ne anlama gelir?",
+     "cevap": "Tarife kotaları kapsamında olsa dahi ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir.",
+     "dayanak": "GK md. 16/2",
+     "kanit": "tercihli tarife uygulaması ifadesi, tarife kotaları kapsamında olsa dahi, ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir."
+    },
+    {
+     "alt_konu": "TGTC'nin yapısı: bölüm, fasıl ve başlıklar",
+     "soru": "Gümrük Yönetmeliğine göre Türk Gümrük Tarife Cetvelindeki bölüm başlıkları ve fasıl başlıkları tarifenin yorumu bakımından bağlayıcı mıdır?",
+     "cevap": "Bağlayıcı değildir; bölüm başlıkları yalnızca yol gösterici niteliktedir.",
+     "dayanak": "GY md. 32/1-b, e",
+     "kanit": "tarifenin yorumu bakımından bağlayıcı olmayıp, yol gösterici nitelikte olan ibareleri, ... e) Fasıl başlığı: Türk Gümrük Tarife Cetvelinde yer alan fasılların başında bulunan ve bağlayıcı olmayan ibareleri,"
+    },
+    {
+     "alt_konu": "TGTC'nin yapısı: bölüm, fasıl ve başlıklar",
+     "soru": "Gümrük Yönetmeliğine göre \"fasıl\" neyi ifade eder?",
+     "cevap": "Bölümlerden daha alt düzeyde, bölümlere göre birbirine daha çok benzeyen aynı nitelikteki eşyayı içine alan ve altı basamaklı Armonize Sistem Kodunun ilk iki rakamını ifade eder.",
+     "dayanak": "GY md. 32/1-d",
+     "kanit": "Bölümlerden daha alt düzeyde ve bölümlere nazaran daha çok birbirine benzeyen aynı nitelikteki eşyayı içine alan ve altı basamaklı Armonize Sistem Kodunun ilk iki rakamını,"
+    },
+    {
+     "alt_konu": "Tarife pozisyonu, alt pozisyon ve GTİP",
+     "soru": "Gümrük Yönetmeliğine göre \"tarife alt pozisyonu\" kaç rakamla ifade edilir?",
+     "cevap": "Pozisyon numarasını izleyen iki rakam ile birlikte altılı rakamlarla ifade edilir (fasıl iki, pozisyon dört, GTİP on iki rakamdır).",
+     "dayanak": "GY md. 32/1-ı",
+     "kanit": "ı) Tarife alt pozisyonu: Türk Gümrük Tarife Cetvelinde pozisyon numarasını izleyen iki rakam ile birlikte altılı rakamlarla ifade edilen grupları,"
+    },
+    {
+     "alt_konu": "Kota, tarife kontenjanı, tarife önlemleri, tarife tavanı ve tercihli tarife",
+     "soru": "Gümrük Yönetmeliğine göre \"tarife önlemleri\" neyi ifade eder?",
+     "cevap": "Dış ticaretin serbest piyasa koşullarında gelişmesine konulan gümrük vergileri ile engel olunmasıdır; gözetim, kota gibi tarife dışı önlemlerden (ticaret politikası önlemleri) farklıdır.",
+     "dayanak": "GY md. 32/1-j",
+     "kanit": "j) Tarife önlemleri: Dış ticaretin serbest piyasa koşullarında gelişmesine, konulan gümrük vergileri ile engel olunmasını,"
+    },
+    {
+     "alt_konu": "Kota, tarife kontenjanı, tarife önlemleri, tarife tavanı ve tercihli tarife",
+     "soru": "Gümrük Yönetmeliğine göre \"tarife tavanı\" uygulaması nedir?",
+     "cevap": "Belirli bir dönemde belli mallar için belirlenen değer veya miktarda ithalat ve ihracatta normal gümrük vergisi oranında indirime gidilmesi ve bunu aşan miktar için dönem sonuna kadar indirimlerin askıya alınabilmesi uygulamasıdır.",
+     "dayanak": "GY md. 32/1-l",
+     "kanit": "Belirli bir dönem içinde, belli malların belirlenen değer ya da miktar için ithalatta ve ihracatta normal gümrük vergisi oranında bir indirime gidilmesi ve bunu aşan miktar için belirlenen dönemin sonuna kadar bu tarife indirimlerinin askıya alınabilmesi uygulamasını,"
+    },
+    {
+     "alt_konu": "Kota, tarife kontenjanı, tarife önlemleri, tarife tavanı ve tercihli tarife",
+     "soru": "Gümrük Yönetmeliğine göre \"tercihli tarife\" nedir?",
+     "cevap": "İki ya da daha çok ülkenin ticaret anlaşması uyarınca aralarındaki ticarette karşılıklı olarak veya bir ülkenin belli ülke ya da toprak parçaları menşeli eşyaya tek taraflı olarak daha düşük tarife uygulamasıdır.",
+     "dayanak": "GY md. 32/1-m",
+     "kanit": "m) Tercihli tarife: İki ya da daha çok ülkenin yaptıkları ticaret anlaşması uyarınca, aralarındaki ticarette karşılıklı olarak ya da bir ülkenin belli ülke ya da toprak parçaları menşeli eşyaya tek taraflı olarak daha düşük tarife uygulamasını,"
+    },
+    {
+     "alt_konu": "İzahnamenin bağlayıcılığı",
+     "soru": "Gümrük Genel Tebliği (Gümrük Tarife Cetveli İzahnamesi) (Seri No: 4)'e göre İzahname hükümleri idari ve kazai uygulamalarda nasıl değerlendirilir?",
+     "cevap": "Armonize Sistem Nomanklatürünün uluslararası seviyede resmi yorumunda zorunlu ve tamamlayıcı bir unsur olan İzahname hükümleri, idari ve kazai uygulamalarda esas tutulur.",
+     "dayanak": "Seri No 4 Tebliğ md. 5",
+     "kanit": "Armonize Sistem Nomanklatürünün uluslararası seviyede resmî yorumunun yapılmasında zorunlu ve tamamlayıcı bir unsur olan İzahname hükümleri, 4458 sayılı Kanunun 15 inci maddesinin yedinci fıkrası gereğince idari ve kazai uygulamalarda esas tutulur."
+    },
+    {
+     "alt_konu": "Açıklama Notları, Ek Not ve uymayan BTB'ler",
+     "soru": "Gümrük Genel Tebliği (Gümrük Tarife Cetveli Açıklama Notları) (Seri No: 6)'ya göre \"Ek Not\" neyi ifade eder?",
+     "cevap": "Armonize Sistem bölüm, fasıl ve alt pozisyon notları ile birlikte Türk Gümrük Tarife Cetvelinin hazırlanmasında esas alınan ve pozisyon ile alt pozisyonlara ilişkin açıklamalar getiren Avrupa Birliği Kombine Nomanklatürü Notlarını ifade eder.",
+     "dayanak": "Seri No 6 Tebliğ md. 4/1-f",
+     "kanit": "Türk Gümrük Tarife Cetvelinin hazırlanmasında esas alınan ve pozisyon ve alt pozisyonlara ilişkin açıklamalar getiren Avrupa Birliği Kombine Nomanklatürü Notlarını,"
+    },
+    {
+     "alt_konu": "Açıklama Notları, Ek Not ve uymayan BTB'ler",
+     "soru": "Gümrük Genel Tebliği (Gümrük Tarife Cetveli Açıklama Notları) (Seri No: 6)'ya göre bu Tebliğ eki Açıklama Notlarına uymayan Bağlayıcı Tarife Bilgileri ne zaman geçerliliğini yitirir?",
+     "cevap": "Tebliğin yürürlüğe girdiği tarihten itibaren geçerliliğini yitirir.",
+     "dayanak": "Seri No 6 Tebliğ md. 5/2",
+     "kanit": "Bu Tebliğ eki Gümrük Tarife Cetveli Açıklama Notlarına uymayan Bağlayıcı Tarife Bilgileri 4458 sayılı Gümrük Kanununun 9 uncu maddesinin beşinci fıkrası uyarınca bu Tebliğin yürürlüğe girdiği tarihten itibaren geçerliliğini yitirir."
+    }
+   ]
+  }
+ ]
+}

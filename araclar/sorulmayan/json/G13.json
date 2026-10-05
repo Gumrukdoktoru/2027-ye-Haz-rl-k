@@ -1,0 +1,953 @@
+{
+ "grup": "G13",
+ "dosyalar": [
+  {
+   "kaynak": "38-serbest bölge.txt",
+   "konu": "Serbest bölgeler (GK, GY, 3218 sayılı Serbest Bölgeler Kanunu ve Serbest Bölgeler Uygulama Yönetmeliği)",
+   "mevzuat": "GK md. 152-162; GY md. 419-432; 3218 sayılı Serbest Bölgeler Kanunu md. 1-13; Serbest Bölgeler Uygulama Yönetmeliği md. 1-58",
+   "cikmis_sayisi": 5,
+   "cikmis": [
+    "2021-46: Serbest bölgedeki serbest dolaşımda olmayan eşya izinsiz mutat elleçleme, DİR, GKAİR ve geçici ithalata tabi tutulabilir; kalış süresi sınırsızdır (1 aylık sınır yok).",
+    "2021-55: Gümrük Statü Belgesinin düzenlendiği haller, elektronik kayıt ve her yıl birden başlayan sıra numarası; iptal edilen belgeler imha edilmez, tescil defterine meşruhatla dosyasında saklanır.",
+    "2023-58: Serbest bölgedeki serbest dolaşımda olmayan eşya serbest dolaşıma giriş, DİR, GKAİR ve geçici ithalata tabi tutulabilir ve yurt dışına geri gönderilebilir.",
+    "2024-99: Serbest bölge tanımı (ithalat vergileri ve TPÖ bakımından TGB dışı; ihracata bağlı olanaklar), sınır ve giriş-çıkış noktalarının gümrük gözetimi, fiziki yapı; serbest dolaşımdaki eşyanın serbest bölgeden AB'ye ihracında A.TR düzenlenebilir.",
+    "2025-86: Serbest bölge tanımı ve ihracata bağlı olanaklar, serbest bölgedeki eşyanın GKAİR'e tabi tutulabilmesi, Gümrük Statü Belgesi, beyanname verilen eşyada gümrük işlemlerinin süresinde bitirilmemesinin sonucu."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Serbest bölgenin tanımı ve Türkiye Gümrük Bölgesi bakımından konumu",
+     "dayanak": "GK md. 152",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2024-99",
+      "2025-86"
+     ],
+     "not": "İthalat vergileri ve ticaret politikası önlemleri bakımından TGB dışında sayılma ile serbest dolaşımdaki eşyanın ihracata bağlı olanaklardan yararlanması ölçülmüş."
+    },
+    {
+     "baslik": "Serbest bölgelerin gümrük gözetimi, kişi-taşıt kontrolü ve eşyanın muayenesi",
+     "dayanak": "GK md. 153",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-99"
+     ],
+     "not": "Sınırlar ile giriş-çıkış noktalarının gümrük gözetimine tabi olduğu sorulmuş; muayene için taşıma belgesi nüshasının verilmesi ve ciddi şüphe uyandıran kişilerin girişine izin verilmemesi sorulmamış."
+    },
+    {
+     "baslik": "Serbest bölgelere konulabilecek eşya",
+     "dayanak": "GK md. 154",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest bölgeye giren eşyanın gümrüğe sunulması, beyanı ve bildirimi",
+     "dayanak": "GK md. 155/1-3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın serbest bölgede kalış süresi",
+     "dayanak": "GK md. 156",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-46"
+     ],
+     "not": "Kalış süresinin sınırsız olduğu (bir aylık sınır olmadığı) ölçülmüş."
+    },
+    {
+     "baslik": "Serbest bölgedeki serbest dolaşımda olmayan eşyaya uygulanabilecek işlemler",
+     "dayanak": "GK md. 157; GY md. 425/1",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-46",
+      "2023-58",
+      "2025-86"
+     ],
+     "not": "Serbest dolaşıma giriş, izinsiz mutat elleçleme, DİR, GKAİR ve geçici ithalat sorulmuş; gümrüğe terk, imhanın şartı, tarım politikası eşyasının yalnız mutat elleçlemeye tabi tutulabilmesi ve rejim izin belgelerinde serbest bölge isminin belirtilmesi sorulmamış."
+    },
+    {
+     "baslik": "Serbest bölgelerde tüketme ve kullanma yasağı ile istisnaları",
+     "dayanak": "GK md. 158",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Envanter kayıtları, bölge içi aktarma ve özet beyan",
+     "dayanak": "GK md. 159",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın serbest bölgeden çıkışı ve tabi olacağı hükümler",
+     "dayanak": "GK md. 160",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-58"
+     ],
+     "not": "Serbest bölgeden çıkan eşyanın yurt dışına gönderilebileceği sorulmuş; TGB'nin başka yerine getirilen eşyanın statüsüne göre tabi olduğu hükümler ve TGB'yi serbest bölgeden terk eden eşyada uyulacak hükümler sorulmamış."
+    },
+    {
+     "baslik": "Serbest bölgeden gelen eşyanın gümrük kıymeti, vergilendirme unsurları ve tarım politikası eşyası",
+     "dayanak": "GK md. 161",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük statüsünün kanıtlanması",
+     "dayanak": "GK md. 162",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İşletici ve kullanıcı tanımları",
+     "dayanak": "GY md. 419",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük idaresinin serbest bölgedeki kontrol yetkisi ve kontrol yeri",
+     "dayanak": "GY md. 420",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-99"
+     ],
+     "not": "Sınırlar ile giriş-çıkış noktalarının gümrük gözetimine tabi olduğu sorulmuş; kontrolün yapılabileceği yerler, kontrolün şüphe hali esasına dayanması ve taşıma belgesi deyiminin kapsamı sorulmamış."
+    },
+    {
+     "baslik": "Serbest bölgelerin fiziki yapısı",
+     "dayanak": "GY md. 421",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2024-99"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Ticaret politikası önlemlerinin serbest bölgede uygulanma anı",
+     "dayanak": "GY md. 422",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "TPÖ bakımından TGB dışında sayılma (GK md. 152) tanım alt konusunda sorulmuştur; önlemlerin hangi aşamada uygulanacağı sorulmamış."
+    },
+    {
+     "baslik": "Serbest bölgeye giriş-çıkışta kişilerden aranan belgeler",
+     "dayanak": "GY md. 423",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük Statü Belgesi",
+     "dayanak": "GK md. 155/4; GY md. 424",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-55",
+      "2024-99",
+      "2025-86"
+     ],
+     "not": "Düzenlendiği üç hal, elektronik kayıt ve yıllık müteselsil sıra numarası, iptal edilen belgenin dosyasında saklanması ve A.TR düzenlenmesinde tevsik edici kullanımı sorulmuş; talep üzerine verilmesi, karışık partide ayrı belge düzenlenmesi, arşivde Serbest Bölge İşlem Formu eklenmesi ve çalınma/zayi halinde tasdikli örnek verilmesi sorulmamış."
+    },
+    {
+     "baslik": "Serbest bölgedeki eşya için beyanname verilmesi halinde işlemlerin bitirilme süresi",
+     "dayanak": "GY md. 425/2",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-86"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Elleçleme işlemleri ve INF 8 Bilgi Formu",
+     "dayanak": "GY md. 426",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-46"
+     ],
+     "not": "İzne gerek olmaksızın mutat elleçleme sorulmuş; INF 8 Bilgi Formunun düzenlenme hali ve kullanım amacı sorulmamış."
+    },
+    {
+     "baslik": "Envanter kayıtlarının niteliği, onayı ve içeriği",
+     "dayanak": "GY md. 427-429",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İşleme rejimlerinin serbest bölgede sona ermesi",
+     "dayanak": "GY md. 430",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest bölgede üretilen eşyanın serbest dolaşıma girişinde vergi hesaplaması",
+     "dayanak": "GY md. 431",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest bölgelerden Avrupa Birliğine A.TR ile eşya gönderilmesi",
+     "dayanak": "GY md. 432",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "A.TR düzenlenebilirliği (2024-99) Gümrük Statü Belgesi alt konusunda değerlendirilmiştir; Tespit ve Tahakkuk Kağıdı ve vergi tahsil esasları sorulmamış."
+    },
+    {
+     "baslik": "Serbest bölge kurma ve yer-sınır belirleme yetkisi",
+     "dayanak": "3218 s. Kanun md. 2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest bölgelerdeki faaliyet konuları",
+     "dayanak": "3218 s. Kanun md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Arazi temini, irtifak hakkı ve asayiş",
+     "dayanak": "3218 s. Kanun md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest bölgelerde gümrük ve kambiyo mevzuatının uygulanmaması",
+     "dayanak": "3218 s. Kanun md. 6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-99",
+      "2025-86"
+     ],
+     "not": "Tanımın ithalat vergileri ve TPÖ unsuru sorulmuş; kambiyo mevzuatı bakımından TGB dışında sayılma ve gümrük-kambiyo mükellefiyeti hükümlerinin uygulanmaması sorulmamış."
+    },
+    {
+     "baslik": "Serbest bölge gelirleri ve ücret oranları",
+     "dayanak": "3218 s. Kanun md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bölgedeki malların dış ticaret rejimi karşısındaki durumu",
+     "dayanak": "3218 s. Kanun md. 8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest bölgelerde ödemeler",
+     "dayanak": "3218 s. Kanun md. 9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Çalışma ve sosyal güvenlik esasları",
+     "dayanak": "3218 s. Kanun md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bölge sınırları ve serbest bölge kabul edilen deniz alanları",
+     "dayanak": "SB Uyg. Yön. md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Faaliyet ruhsatının verilmesi",
+     "dayanak": "SB Uyg. Yön. md. 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bölgeye giriş-çıkış belgeleri",
+     "dayanak": "SB Uyg. Yön. md. 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Faaliyetin geçici olarak durdurulması ve faaliyet ruhsatının iptali",
+     "dayanak": "SB Uyg. Yön. md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bölgede ikamet yasağı ve ikamet/gece çalışma izni",
+     "dayanak": "SB Uyg. Yön. md. 19",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Çalışma saatleri ve mesai dışı gümrük işlemleri",
+     "dayanak": "SB Uyg. Yön. md. 20",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İşletme veya kuruluş ve işletme sözleşmelerinde süre uzatımı",
+     "dayanak": "SB Uyg. Yön. md. 27/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhraç ve ithal edilen mallar, menşe bakımından serbest bölgenin durumu, transit ve aktarma",
+     "dayanak": "SB Uyg. Yön. md. 30-31",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "2025-86 (A) seçeneğinde 'AB'ye tam üyeliğin gerçekleştiği tarihe kadar' ifadesi GKAİR yasağı şeklinde çeldirici olarak kullanılmış; hükmün kendisi (gümrük rejimleri ve menşe bakımından statü) ölçülmemiş."
+    },
+    {
+     "baslik": "Bölgeye getirilmesi yasak mallar",
+     "dayanak": "SB Uyg. Yön. md. 32",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bölge ile diğer varış yerleri arasında mal akımı",
+     "dayanak": "SB Uyg. Yön. md. 34",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İmha edilmesi gereken mallar",
+     "dayanak": "SB Uyg. Yön. md. 37",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Terk edilmiş ve dağınık mallar",
+     "dayanak": "SB Uyg. Yön. md. 38",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hizmet ve ücretlere ilişkin itirazlar",
+     "dayanak": "SB Uyg. Yön. md. 51",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Üstyapıların tahliyesi ve malların tasfiyesi",
+     "dayanak": "SB Uyg. Yön. md. 52",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bekleme süresi ve teminat",
+     "dayanak": "SB Uyg. Yön. md. 58",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Serbest bölgelerin gümrük gözetimi, kişi-taşıt kontrolü ve eşyanın muayenesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idarelerinin serbest bölgeye giren, burada kalan veya çıkan eşyayı muayene edebilmesini sağlamak üzere hangi belgenin bir nüshası gümrük idaresine verilir veya tetkike hazır tutulur?",
+     "cevap": "Eşyaya giriş veya çıkışlarda eşlik etmesi gereken taşıma belgesinin bir nüshası gümrük idaresine verilir ya da tetkike hazır tutulur; muayene gerektiği takdirde eşya gümrük idaresine sunulur.",
+     "dayanak": "GK md. 153/3",
+     "kanit": "Muayenenin yapılmasını sağlamak üzere eşyaya giriş veya çıkışlarda eşlik etmesi gereken taşıma belgesinin bir nüshasının gümrük idaresine verilmesi veya tetkike hazır tutulması gerekir. Muayene gerektiği takdirde, eşya gümrük idarelerine sunulur."
+    },
+    {
+     "alt_konu": "Serbest bölgelerin gümrük gözetimi, kişi-taşıt kontrolü ve eşyanın muayenesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idareleri hangi kişilerin serbest bölgeye girişine izin vermeyebilir?",
+     "cevap": "Gümrük Kanununda yer alan hükümlere uyacağı hususunda ciddi şüphe uyandıran kişilerin serbest bölgeye girişine izin vermeyebilir.",
+     "dayanak": "GK md. 153/4",
+     "kanit": "Gümrük idareleri, bu Kanunda yer alan hükümlere uyacağı hususunda ciddi şüphe uyandıran kişilerin serbest bölgeye girişine izin vermeyebilir."
+    },
+    {
+     "alt_konu": "Serbest bölgelere konulabilecek eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgelere eşya konulmasında eşyanın gümrük statüsü bakımından bir sınırlama bulunur mu?",
+     "cevap": "Bulunmaz; serbest dolaşımda olan veya olmayan her türlü eşya serbest bölgelere konulabilir.",
+     "dayanak": "GK md. 154",
+     "kanit": "Serbest dolaşımda olan veya olmayan her türlü eşya serbest bölgelere konulabilir."
+    },
+    {
+     "alt_konu": "Serbest bölgelere konulabilecek eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre parlayıcı ve patlayıcı veya bir arada bulundukları eşya için tehlikeli olan eşya serbest bölgede nereye konulur?",
+     "cevap": "Serbest bölgelerdeki bu niteliklere uygun yerlere konulur; korunmaları özel düzenek veya yapılara gerek gösteren eşya için de aynı kural geçerlidir.",
+     "dayanak": "GK md. 154",
+     "kanit": "parlayıcı ve patlayıcı veya bir arada bulundukları eşya için tehlikeli olan veya korunmaları özel düzenek veya yapılara gerek gösteren eşya serbest bölgelerdeki bu niteliklere uygun yerlere konulur."
+    },
+    {
+     "alt_konu": "Serbest bölgeye giren eşyanın gümrüğe sunulması, beyanı ve bildirimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgeye giren eşyanın kural olarak gümrük idaresine sunulması ve beyanname verilmesi gerekir mi?",
+     "cevap": "Gerekmez; gümrük idarelerinin serbest bölgedeki eşyayı muayene yetkisi saklı kalmak üzere, serbest bölgeye giren eşyanın gümrüğe sunulmasına ve beyanname verilmesine gerek yoktur.",
+     "dayanak": "GK md. 155/1",
+     "kanit": "153 üncü maddenin 3 üncü fıkrası hükmü saklı kalmak üzere, serbest bölgeye giren eşyanın gümrük idarelerine sunulmasına ve beyanname verilmesine gerek yoktur."
+    },
+    {
+     "alt_konu": "Serbest bölgeye giren eşyanın gümrüğe sunulması, beyanı ve bildirimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgeye giren hangi eşyanın gümrük idaresine sunulması ve gerekli gümrük işlemine tabi tutulması şarttır?",
+     "cevap": "Serbest bölgeye girişiyle sona erecek bir gümrük rejimine tabi tutulan, ithalat vergilerinin geri verilmesi veya kaldırılmasına ilişkin bir karardan sonra serbest bölgeye konulan, serbest bölgeye ihracat kaydıyla konulan ve serbest bölgeye doğrudan Türkiye Gümrük Bölgesi dışından gelen eşyanın.",
+     "dayanak": "GK md. 155/2",
+     "kanit": "sona erecek olan bir gümrük rejimine tabi tutulan, ... ithalat vergilerinin geri verilmesi veya kaldırılmasına ilişkin bir karardan sonra konulan, ... Bir serbest bölgeye ihracat kaydıyla konulan, ... doğrudan Türkiye Gümrük Bölgesi dışından gelen, ... gerekli gümrük işlemine tabi tutulması şarttır."
+    },
+    {
+     "alt_konu": "Serbest bölgeye giren eşyanın gümrüğe sunulması, beyanı ve bildirimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgeye girişiyle sona erecek bir gümrük rejimine tabi tutulan eşyanın gümrüğe sunulması hangi durumda gerekmez?",
+     "cevap": "İlgili gümrük rejimi hükümlerinin gümrüğe sunma zorunluluğunu aramadığı hallerde eşyanın gümrüğe sunulması gerekmez.",
+     "dayanak": "GK md. 155/2",
+     "kanit": "Ancak, (a) bendinde belirtilen gümrük rejimi hükümlerinin böyle bir zorunluluğu aramadığı hallerde, eşyanın gümrüğe sunulması gerekmez."
+    },
+    {
+     "alt_konu": "Serbest bölgeye giren eşyanın gümrüğe sunulması, beyanı ve bildirimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgeye konulan hangi eşyanın gümrük idarelerine bildirilmesi gerekir?",
+     "cevap": "İhracat vergilerine veya ihracatla ilgili diğer hükümlere tabi olan eşyanın gümrük idarelerine bildirilmesi gerekir.",
+     "dayanak": "GK md. 155/3",
+     "kanit": "İhracat vergilerine veya ihracatla ilgili diğer hükümlere tabi olan eşyanın gümrük idarelerine bildirilmesi gerekir."
+    },
+    {
+     "alt_konu": "Serbest bölgedeki serbest dolaşımda olmayan eşyaya uygulanabilecek işlemler",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgeye konulmuş serbest dolaşımda olmayan eşya gümrüğe terk edilebilir mi?",
+     "cevap": "Edilebilir; serbest bölgedeki serbest dolaşımda olmayan eşya, gümrüğe terke ilişkin hükümlere göre gümrüğe terk edilebilir.",
+     "dayanak": "GK md. 157/1-f",
+     "kanit": "Bir serbest bölgeye konulmuş serbest dolaşımda olmayan eşya; ... 164 üncü maddeye göre gümrüğe terk edilebilir."
+    },
+    {
+     "alt_konu": "Serbest bölgedeki serbest dolaşımda olmayan eşyaya uygulanabilecek işlemler",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgeye konulmuş serbest dolaşımda olmayan eşyanın imha edilebilmesi hangi şarta bağlıdır?",
+     "cevap": "İlgili kişinin, gümrük idarelerince gerekli görülen tüm bilgileri vermesi şartına bağlıdır.",
+     "dayanak": "GK md. 157/1-g",
+     "kanit": "İlgili kişinin, gümrük idarelerince gerekli görülen tüm bilgileri vermesi şartıyla imha edilebilir."
+    },
+    {
+     "alt_konu": "Serbest bölgedeki serbest dolaşımda olmayan eşyaya uygulanabilecek işlemler",
+     "soru": "4458 sayılı Gümrük Kanununa göre normal olarak ihracata bağlı olanaklardan yararlanan tarım politikası kapsamındaki eşya serbest bölgede hangi işleme tabi tutulabilir?",
+     "cevap": "Yalnızca mutat elleçleme işlemine tabi tutulabilir; bu işlemler izin alınmaksızın da yapılabilir.",
+     "dayanak": "GK md. 157/2",
+     "kanit": "Normal olarak ihracata bağlı olanaklardan yararlanan tarım politikası kapsamındaki eşya, yalnızca mutat elleçleme işlemine tabi tutulabilir. Bu işlemler izin alınmaksızın da yapılabilir."
+    },
+    {
+     "alt_konu": "Serbest bölgedeki serbest dolaşımda olmayan eşyaya uygulanabilecek işlemler",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgedeki serbest dolaşımda olmayan eşyanın tabi tutulduğu dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimlerine ilişkin izin belgelerinde neyin belirtilmesi gerekir?",
+     "cevap": "Faaliyetlerin yürütüleceği serbest bölgenin ismi belirtilir; bu rejimlerde serbest bölgelerin işletilmesine ve gümrük gözetimine ilişkin koşullar da göz önünde bulundurulur.",
+     "dayanak": "GY md. 425/1",
+     "kanit": "Bu durumda, serbest bölgelerin işletilmesine ve gümrük gözetimine ilişkin koşullar da göz önünde bulundurulur. Bu rejimlere ilişkin izin belgelerinde faaliyetlerin yürütüleceği serbest bölge ismi belirtilir."
+    },
+    {
+     "alt_konu": "Serbest bölgelerde tüketme ve kullanma yasağı ile istisnaları",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest dolaşımda olmayan eşya ile serbest bölgeye konulması nedeniyle ihracata bağlı olanaklardan yararlanan serbest dolaşımdaki eşya serbest bölgede tüketilebilir veya kullanılabilir mi?",
+     "cevap": "Kural olarak hayır; serbest bölgede yapılabilecek işlemlere ilişkin hükümler uygulanmaksızın bu eşya serbest bölgelerde tüketilemez veya kullanılamaz.",
+     "dayanak": "GK md. 158/1",
+     "kanit": "serbest dolaşımda olmayan eşya ile 152 nci maddenin (b) bendinde belirtilen serbest dolaşımda olan eşya, serbest bölgelerde tüketilemez veya kullanılamazlar."
+    },
+    {
+     "alt_konu": "Serbest bölgelerde tüketme ve kullanma yasağı ile istisnaları",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgelerde tüketme veya kullanma yasağının dışında kalan eşya hangileridir?",
+     "cevap": "Durumun tevsiki kaydıyla; serbest bölgelerdeki tesislerin yapımında kullanılan, serbest bölgelerdeki tesislerde makine-teçhizat, demirbaşa kayıtlı eşya veya bunların parçası olarak kullanılan ve serbest bölgelerde yerleşik gemi inşa faaliyetinde bulunanlara gemi inşasında kullanılmak üzere teslimi yapılan eşya.",
+     "dayanak": "GK md. 158/1",
+     "kanit": "Serbest bölgelerdeki tesislerin yapımında kullanılan, ... demirbaşa kayıtlı eşya veya bunların parçası olarak kullanılan, ... gemi inşasında kullanılmak üzere teslimi yapılan, ... eşya, bu durumun tevsiki kaydıyla, bu hükmün dışındadır."
+    },
+    {
+     "alt_konu": "Serbest bölgelerde tüketme ve kullanma yasağı ile istisnaları",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgede kullanılmasına veya tüketilmesine engel bulunmayan eşyanın bir kota veya tarife tavanına tabi olması halinde ne yapılması zorunludur?",
+     "cevap": "Bu eşya ile ilgili olarak gümrük beyannamesi verilmesi zorunludur.",
+     "dayanak": "GK md. 158/2",
+     "kanit": "Ancak, söz konusu eşyanın bir kota veya tarife tavanına tabi olması halinde, bu eşya ile ilgili olarak gümrük beyannamesi verilmesi zorunludur."
+    },
+    {
+     "alt_konu": "Envanter kayıtları, bölge içi aktarma ve özet beyan",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgelerde envanter kayıtları kimler tarafından ve hangi forma uygun olarak tutulur?",
+     "cevap": "Serbest bölgelerde depolama, işçilik, işleme veya alım ve satım faaliyetlerinde bulunan kişiler tarafından, gümrük idarelerince kabul edilen forma uygun olarak tutulur.",
+     "dayanak": "GK md. 159/1",
+     "kanit": "Serbest bölgelerde depolama, işçilik, işleme veya alım ve satım faaliyetlerinde bulunan kişiler tarafından, gümrük idarelerince kabul edilen forma uygun olarak envanter kayıtları tutulur."
+    },
+    {
+     "alt_konu": "Envanter kayıtları, bölge içi aktarma ve özet beyan",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgede eşya, kişiye ait yere konulmasından sonra ne kadar süre içinde envanter kayıtlarına geçirilir?",
+     "cevap": "Kırk sekiz saat içinde envanter kayıtlarına geçirilir.",
+     "dayanak": "GK md. 159/1",
+     "kanit": "Eşya, söz konusu kişiye ait yere konulmasından sonra kırksekiz saat içinde envanter kayıtlarına geçirilir."
+    },
+    {
+     "alt_konu": "Envanter kayıtları, bölge içi aktarma ve özet beyan",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın serbest bölge içinde bir yerden bir yere aktarılması sırasında kısa süreli depolanması nasıl değerlendirilir?",
+     "cevap": "Kısa süreli depolama aktarma işleminin bir parçası olarak kabul edilir; aktarmaya ilişkin kayıtlar yetkili gümrük idaresinin incelemesine hazır bulundurulur.",
+     "dayanak": "GK md. 159/2",
+     "kanit": "yetkili gümrük idaresinin incelemesine hazır bulundurulur. ... eşyanın kısa süreli depolanması, aktarma işleminin bir parçası olarak kabul edilir."
+    },
+    {
+     "alt_konu": "Envanter kayıtları, bölge içi aktarma ve özet beyan",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgeye doğrudan Türkiye Gümrük Bölgesi dışından gelen veya serbest bölgeden doğrudan Gümrük Bölgesi dışına çıkan eşya için ne verilir?",
+     "cevap": "Kanunun 35/A, 35/B ve 35/C ile 165/A, 165/B, 165/C ve 165/D maddelerine göre özet beyan verilir.",
+     "dayanak": "GK md. 159/3",
+     "kanit": "Bir serbest bölgeye doğrudan Türkiye Gümrük Bölgesi dışından gelen veya bir serbest bölgeden doğrudan Gümrük Bölgesinin dışına çıkan eşya için 35/A, 35/B ve 35/C ile 165/A, 165/B, 165/C ve 165/D maddelerine göre özet beyan verilir."
+    },
+    {
+     "alt_konu": "Eşyanın serbest bölgeden çıkışı ve tabi olacağı hükümler",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgeden Türkiye Gümrük Bölgesinin bir başka yerine getirilen eşya hangi hükümlere tabidir?",
+     "cevap": "Eşya serbest dolaşımda ise Kanunun 46 ila 50 nci madde hükümlerine; serbest dolaşımda değilse 50 nci madde hükümleri dışında Kanunun Üçüncü Kısım hükümlerine tabidir.",
+     "dayanak": "GK md. 160/2",
+     "kanit": "Bir serbest bölgeden Türkiye Gümrük Bölgesinin bir başka yerine getirilen eşya; serbest dolaşımda bulunması halinde 46 ila 50 nci madde hükümleri, serbest dolaşımda bulunmaması halinde ise 50 nci madde hükümleri dışında Üçüncü Kısım hükümlerine tabidir."
+    },
+    {
+     "alt_konu": "Eşyanın serbest bölgeden çıkışı ve tabi olacağı hükümler",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın Türkiye Gümrük Bölgesini bir serbest bölgeden terk etmesi halinde hangi hükümlere uyulması zorunludur?",
+     "cevap": "Kanunun Beşinci Kısım hükümlerine ilave olarak ihracat, hariçte işleme, yeniden ihracat, şartlı muafiyet düzenlemeleri veya transite ilişkin hükümlere uyulması zorunludur.",
+     "dayanak": "GK md. 160/3",
+     "kanit": "Eşyanın Türkiye Gümrük Bölgesini bir serbest bölgeden terk etmesi halinde Beşinci Kısım hükümlerine ilave olarak, ihracat, hariçte işleme, yeniden ihracat, şartlı muafiyet düzenlemeleri veya transite ilişkin hükümlere uyulması zorunludur."
+    },
+    {
+     "alt_konu": "Serbest bölgeden gelen eşyanın gümrük kıymeti, vergilendirme unsurları ve tarım politikası eşyası",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgedeki serbest dolaşımda olmayan eşya için gümrük yükümlülüğü doğduğunda, serbest bölgede kalış süresindeki depolama ve muhafaza masrafları hangi şartla gümrük kıymetine dahil edilmez?",
+     "cevap": "Gümrük kıymetinin bu masrafları da içeren fiilen ödenmiş veya ödenecek fiyata dayanması ve masrafların bu fiyattan ayrı olarak gösterilmesi halinde gümrük kıymetine dahil edilmez.",
+     "dayanak": "GK md. 161/1",
+     "kanit": "depolanma ve muhafaza edilme masraflarını da içeren fiilen ödenmiş veya ödenecek fiyata dayandığı hallerde ve söz konusu masraflar bu fiyattan ayrı olarak gösterildiği takdirde, gümrük kıymetine dahil edilmez."
+    },
+    {
+     "alt_konu": "Serbest bölgeden gelen eşyanın gümrük kıymeti, vergilendirme unsurları ve tarım politikası eşyası",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgede mutat elleçlemelere tabi tutulan eşyanın gümrük vergileri, eşya bu elleçlemelere tabi tutulmamış gibi hangi şartlarla hesaplanır?",
+     "cevap": "Beyan sahibinin talebi ve söz konusu elleçlemelerin yapılmasına izin verilmiş olması kaydıyla, eşyanın Kanunun 193 üncü maddesinde belirtilen tarihte elleçlemeye tabi tutulmamış gibi dikkate alınacak niteliği, kıymeti ve miktarı esas alınır; bu hükme Cumhurbaşkanınca istisna getirilebilir.",
+     "dayanak": "GK md. 161/2",
+     "kanit": "beyan sahibinin talebi ve söz konusu elleçlemelerin yapılmasına izin verilmiş olması kaydıyla, bu eşyanın 193 üncü maddede belirtilen tarihte söz konusu elleçlemelere tabi tutulmamış gibi dikkate alınacak niteliği ... Bu hükme Cumhurbaşkanınca[139] istisna getirilebilir."
+    },
+    {
+     "alt_konu": "Serbest bölgeden gelen eşyanın gümrük kıymeti, vergilendirme unsurları ve tarım politikası eşyası",
+     "soru": "4458 sayılı Gümrük Kanununa göre normal olarak ihracata bağlı imkânlardan yararlanan tarım politikası kapsamındaki serbest dolaşımdaki eşyanın serbest bölgeye konulması halinde ne zorunludur?",
+     "cevap": "İlgili mevzuatta öngörülen bir işlem veya kullanıma tabi tutulması zorunludur; eşyanın TGB'nin başka bir yerine geri getirilmesi veya bu işlem ya da kullanıma tabi tutulmaması halinde gümrük idaresi gerekli tedbirleri alır.",
+     "dayanak": "GK md. 161/3-4",
+     "kanit": "ilgili mevzuatta öngörülen bir işlem veya kullanıma tabi tutulması zorunludur. ... tabi tutulmaması halinde gümrük idaresi ilgili mevzuat hükümlerine göre gerekli tedbirleri alır."
+    },
+    {
+     "alt_konu": "Gümrük statüsünün kanıtlanması",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın Türkiye Gümrük Bölgesine getirilmesi veya geri gelmesi ya da bir gümrük rejimine tabi tutulması halinde, serbest bölgeye konulmuş eşyanın gümrük statüsünün tespitinde kanıt olarak ne kullanılır?",
+     "cevap": "Gümrük idarelerince verilen ve serbest bölgeye konulmuş eşyanın gümrük statüsünü onaylayan onay belgesi kanıt olarak kullanılır.",
+     "dayanak": "GK md. 162/1",
+     "kanit": "155 inci maddenin 4 üncü fıkrasında belirtilen onay belgesi, eşyanın gümrük statüsünün tespitinde kanıt olarak kullanılır."
+    },
+    {
+     "alt_konu": "Gümrük statüsünün kanıtlanması",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgedeki eşyanın gümrük statüsünün onay belgesi ile veya başka yoldan kanıtlanamaması halinde eşya nasıl kabul edilir?",
+     "cevap": "İhracat vergilerinin, ihracat lisanslarının veya ticaret politikası önlemlerinin uygulanması bakımından serbest dolaşımda bulunan eşya; diğer tüm hallerde serbest dolaşımda olmayan eşya olarak kabul edilir.",
+     "dayanak": "GK md. 162/2",
+     "kanit": "İhracat vergilerinin, ihracat lisanslarının veya ticaret politikası önlemlerinin uygulanması bakımından, serbest dolaşımda bulunan eşya; ... Diğer tüm hallerde serbest dolaşımda olmayan eşya;"
+    },
+    {
+     "alt_konu": "İşletici ve kullanıcı tanımları",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgeler bakımından \"kullanıcı\" deyimi kimi ifade eder?",
+     "cevap": "Faaliyet ruhsatı alan ve serbest bölgede belli bir işyeri bulunan gerçek veya tüzel kişiyi ifade eder.",
+     "dayanak": "GY md. 419/1-b",
+     "kanit": "Kullanıcı deyimi, faaliyet ruhsatı alan ve serbest bölgede belli bir işyeri bulunan gerçek veya tüzel kişiyi,"
+    },
+    {
+     "alt_konu": "Gümrük idaresinin serbest bölgedeki kontrol yetkisi ve kontrol yeri",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgede serbest dolaşıma giriş rejimi ve ihracat rejimi hükümlerine göre yapılacak gümrük kontrolü nerelerde yapılabilir?",
+     "cevap": "Serbest bölgenin giriş ve çıkış kapılarında yapılabileceği gibi eşyanın depolandığı serbest bölgedeki yerlerde de yapılabilir.",
+     "dayanak": "GY md. 420/2",
+     "kanit": "Serbest dolaşıma giriş rejimi ve ihracat rejimi hükümlerine göre yapılacak olan gümrük kontrolü serbest bölgenin giriş ve çıkış kapılarında yapılabileceği gibi, eşyanın depolandığı serbest bölgedeki yerlerde de yapılabilir."
+    },
+    {
+     "alt_konu": "Gümrük idaresinin serbest bölgedeki kontrol yetkisi ve kontrol yeri",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgeye giriş veya çıkış yapan kişi ve taşıtlar ile serbest bölgeye giren, burada kalan veya çıkan eşyanın kontrolü hangi zaman ve hallerde yapılır?",
+     "cevap": "Sınırlar ile giriş ve çıkış noktalarının mutlak surette gözetime tabi tutulması esas olmakla birlikte bu kontrol, gümrük idaresinin uygulamakla yükümlü olduğu mevzuat hükümleri yanında şüphe halinin mevcut olduğu zaman ve hallerde yapılır.",
+     "dayanak": "GY md. 420/3",
+     "kanit": "Serbest bölgelerin sınırları ile giriş ve çıkış noktalarının mutlak surette gözetime tabi tutulması esas olmakla birlikte ... gümrük idaresinin uygulamakla yükümlü olduğu mevzuat hükümleri yanında şüphe halinin mevcut olduğu zaman ve hallerde yapılır."
+    },
+    {
+     "alt_konu": "Gümrük idaresinin serbest bölgedeki kontrol yetkisi ve kontrol yeri",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgeye giren, kalan veya çıkan eşyanın muayenesi bakımından \"taşıma belgesi\" deyimi hangi belgeleri ifade eder?",
+     "cevap": "Eşyanın vasıflarının belirlenmesine yarayacak bilgileri taşıdığı sürece nakliye senedi, teslim makbuzu, özet beyan veya sevk pusulası gibi taşıma ile ilgili herhangi bir belgeyi ifade eder.",
+     "dayanak": "GY md. 420/4",
+     "kanit": "taşıma belgesi deyimi; eşyanın vasıflarının belirlenmesine yarayacak bilgileri taşıdığı sürece, nakliye senedi, teslim makbuzu, özet beyan veya sevk pusulası gibi taşıma ile ilgili herhangi bir belgeyi ifade eder."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemlerinin serbest bölgede uygulanma anı",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın serbest dolaşıma girişi sırasında uygulanması öngörülen ticaret politikası önlemleri, eşya serbest bölgeye konulduğunda uygulanır mı?",
+     "cevap": "Uygulanmaz; bu önlemler eşya serbest bölgeye konulduğunda veya eşyanın geçici bir süre için serbest bölgede kalması sırasında uygulanmaz.",
+     "dayanak": "GY md. 422/1",
+     "kanit": "Eşyanın serbest dolaşıma girişi sırasında uygulanması öngörülen ticaret politikası önlemleri, eşya serbest bölgeye konulduğunda veya eşyanın geçici bir süre için serbest bölgede kalması sırasında uygulanmaz."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemlerinin serbest bölgede uygulanma anı",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın Türkiye Gümrük Bölgesine girişinde ticaret politikası önlemleri uygulanması gerekiyorsa bu önlemler hangi aşamada uygulanır?",
+     "cevap": "Serbest dolaşımda olmayan eşyanın serbest bölgeye konulması sırasında uygulanır.",
+     "dayanak": "GY md. 422/2",
+     "kanit": "Eşyanın Türkiye Gümrük Bölgesine girişinde ticaret politikası önlemleri uygulanması gerekiyorsa, bu tür önlemler, serbest dolaşımda olmayan eşyanın serbest bölgeye konulması sırasında uygulanır."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemlerinin serbest bölgede uygulanma anı",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın ihracatında ticaret politikası önlemleri uygulanması gerekiyorsa, serbest bölgedeki serbest dolaşımda bulunan eşyaya bu önlemler ne zaman uygulanır?",
+     "cevap": "Serbest bölgedeki serbest dolaşımda bulunan eşya Türkiye Gümrük Bölgesinden ihraç edildiğinde uygulanır.",
+     "dayanak": "GY md. 422/3",
+     "kanit": "Eşyanın ihracatında ticaret politikası önlemleri uygulanması gerekiyorsa, bu tür önlemler, serbest bölgedeki serbest dolaşımda bulunan eşya Türkiye Gümrük Bölgesinden ihraç edildiğinde uygulanır."
+    },
+    {
+     "alt_konu": "Serbest bölgeye giriş-çıkışta kişilerden aranan belgeler",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgeye giren veya çıkan kişiler görevli gümrük idaresi personeline hangi belgelerden birini ibraz eder?",
+     "cevap": "Serbest Bölge Giriş İzin Belgesi, Serbest Bölge Görev Kartı veya Serbest Bölge Özel İzin Belgesinden birini ibraz eder; bu belgelerden birine sahip olmayan kişilerin bölgeye girmesine ve bölgeden çıkmasına izin verilmez.",
+     "dayanak": "GY md. 423",
+     "kanit": "Serbest Bölge Giriş İzin Belgesi, ... Serbest Bölge Görev Kartı, ... Serbest Bölge Özel İzin Belgesi. ... Bu belgelerden birine sahip olmayan kişilerin bölgeye girmesine ve bölgeden çıkmasına izin verilmez."
+    },
+    {
+     "alt_konu": "Gümrük Statü Belgesi",
+     "soru": "Gümrük Yönetmeliğine göre Gümrük Statü Belgesi kimin talebi üzerine ve hangi idarece verilir?",
+     "cevap": "İlgilinin talebi üzerine, gümrük idareleri tarafından serbest bölgeye konulmuş eşyanın gümrük statüsünü onaylamak üzere verilir.",
+     "dayanak": "GY md. 424/1; GK md. 155/4",
+     "kanit": "ilgilinin talebi üzerine, gümrük idareleri tarafından serbest bölgeye konulmuş eşyanın gümrük statüsünü onaylayan ve bir örneği ek-69'da yer alan belgedir."
+    },
+    {
+     "alt_konu": "Gümrük Statü Belgesi",
+     "soru": "Gümrük Yönetmeliğine göre ihracat beyannamesi ile veya serbest bölge işlem formu ile transit olarak serbest bölgeye giren aynı belge kapsamı eşyanın bir kısmı serbest dolaşımda, bir kısmı serbest dolaşımda değilse Gümrük Statü Belgesi nasıl düzenlenir?",
+     "cevap": "Bu parti eşyanın her kısmı için ayrı ayrı Gümrük Statü Belgesi düzenlenir.",
+     "dayanak": "GY md. 424/4",
+     "kanit": "serbest dolaşımda bulunan ve serbest dolaşımda olmayan aynı belge kapsamı eşyanın birlikte gelmesi halinde, bu parti eşyanın her kısmı için ayrı ayrı Gümrük Statü Belgesi düzenlenir."
+    },
+    {
+     "alt_konu": "Gümrük Statü Belgesi",
+     "soru": "Gümrük Yönetmeliğine göre Gümrük Statü Belgelerinin arşivlenmesi sırasında belgeye hangi formun bir örneği eklenir?",
+     "cevap": "Serbest Bölge İşlem Formunun bir örneği eklenir.",
+     "dayanak": "GY md. 424/6",
+     "kanit": "Belgelerin arşivlenmesi sırasında, Serbest Bölge İşlem Formunun bir örneği de belgeye eklenir."
+    },
+    {
+     "alt_konu": "Gümrük Statü Belgesi",
+     "soru": "Gümrük Yönetmeliğine göre düzenlenmiş Gümrük Statü Belgesinin çalınması veya zayi edilmesi halinde ne yapılır?",
+     "cevap": "İlgilinin yazılı talebi üzerine gümrük idaresince belgenin tasdikli bir örneği verilir.",
+     "dayanak": "GY md. 424/7",
+     "kanit": "Düzenlenmiş bulunan Gümrük Statü Belgelerinin çalınması veya zayi edilmesi halinde, ilgilinin yazılı talebi üzerine tasdikli bir örneği gümrük idaresince verilir."
+    },
+    {
+     "alt_konu": "Elleçleme işlemleri ve INF 8 Bilgi Formu",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgeye konulan ve elleçleme işlemlerine tabi tutulan eşyanın gümrükçe onaylanmış işlem veya kullanımı yönünde yapılan beyanda hangi bilgi formu düzenlenebilir?",
+     "cevap": "Beyan sahibinin talebi üzerine, mutat elleçlemeye tabi eşyanın elleçlenmemiş gibi vergilendirilmesine ilişkin hükmün uygulanacağı hallerde INF 8 Bilgi Formu düzenlenebilir.",
+     "dayanak": "GY md. 426/2",
+     "kanit": "Beyan sahibinin talebi üzerine, Kanunun 161 inci maddesinin ikinci fıkrası hükmünün uygulanacağı hallerde; bir serbest bölgeye konulan ve elleçleme işlemlerine tabi tutulan eşyanın gümrükçe onaylanmış işlem veya kullanımı yönünde yapılan beyanda INF 8 Bilgi Formu düzenlenebilir."
+    },
+    {
+     "alt_konu": "Elleçleme işlemleri ve INF 8 Bilgi Formu",
+     "soru": "Gümrük Yönetmeliğine göre INF 8 Bilgi Formu hangi amaçla kullanılabilir?",
+     "cevap": "Dikkate alınması gerekli vergilendirme unsurlarının belirlenmesi amacıyla kullanılabilir.",
+     "dayanak": "GY md. 426/4",
+     "kanit": "INF 8 Bilgi Formu, dikkate alınması gerekli vergilendirme unsurlarının belirlenmesi amacıyla kullanılabilir."
+    },
+    {
+     "alt_konu": "Envanter kayıtlarının niteliği, onayı ve içeriği",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgede bilgisayar ortamında tutulan envanter kayıtlarının hukuki niteliği nedir?",
+     "cevap": "Defter hükmündedir; envanter kayıtları gümrük mevzuatının noksansız uygulandığının anlaşılması için gerekli tüm ayrıntıları kapsamak zorundadır.",
+     "dayanak": "GY md. 427/1",
+     "kanit": "Bilgisayar ortamında tutulan envanter kayıtları defter hükmündedir. Envanter kayıtları, gümrük mevzuatının noksansız uygulandığının anlaşılması için gerekli olan tüm ayrıntıları kapsamak zorundadır."
+    },
+    {
+     "alt_konu": "Envanter kayıtlarının niteliği, onayı ve içeriği",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgede kullanıcının faaliyette bulunabilmesi neye bağlıdır?",
+     "cevap": "Envanter kayıtlarının gümrük idaresince onaylanmasına bağlıdır; envanter kaydı onay başvurusu gümrük idaresine yazılı olarak yapılır.",
+     "dayanak": "GY md. 428/1-2",
+     "kanit": "Kullanıcının faaliyette bulunabilmesi, Kanunun 159 uncu maddesinde belirlenen envanter kayıtlarının gümrük idaresince onaylanmasına bağlıdır. ... Envanter kaydı onay başvurusu, yazılı olarak gümrük idaresine yapılır."
+    },
+    {
+     "alt_konu": "Envanter kayıtlarının niteliği, onayı ve içeriği",
+     "soru": "Gümrük Yönetmeliğine göre envanter kayıtlarında bulunması gereken bilgilerden bir kısmının bulunmamasına hangi durumda izin verilebilir?",
+     "cevap": "Serbest bölgelerin gözetim ve kontrolünü olumsuz etkilemeyeceği durumlarda gümrük idarelerince izin verilebilir.",
+     "dayanak": "GY md. 429/2",
+     "kanit": "Serbest bölgelerin gözetim ve kontrolünü olumsuz etkilemeyeceği durumlarda, bu bilgilerden bir kısmının bulunmamasına gümrük idarelerince izin verilebilir."
+    },
+    {
+     "alt_konu": "İşleme rejimlerinin serbest bölgede sona ermesi",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgede yürütülen dahilde işleme rejimi veya gümrük kontrolü altında işleme rejimi ne zaman sona erer?",
+     "cevap": "Serbest bölgede bulunan işlem görmüş ürünün, işlenmiş ürünün veya değişmemiş eşyanın envanter kayıtlarına girişi halinde sona erer.",
+     "dayanak": "GY md. 430",
+     "kanit": "Dahilde işleme rejimi veya gümrük kontrolü altında işleme rejimi, serbest bölgede bulunan işlem görmüş ürünün, işlenmiş ürünün veya değişmemiş eşyanın, envanter kayıtlarına girişi halinde sona erer."
+    },
+    {
+     "alt_konu": "Serbest bölgede üretilen eşyanın serbest dolaşıma girişinde vergi hesaplaması",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgede üçüncü ülke menşeli girdiler kullanılarak üretilen eşyanın serbest dolaşıma sokulmak istenmesi durumunda gümrük vergileri nasıl hesaplanır?",
+     "cevap": "Beyan sahibinin talebi halinde Gümrük Kanununun 161 inci maddesi, talep olmaması halinde ise 15 inci maddesi hükümlerine göre hesaplanır.",
+     "dayanak": "GY md. 431",
+     "kanit": "beyan sahibinin talebi halinde Kanunun 161 inci maddesi, talep olmaması halinde ise aynı Kanunun 15 inci maddesi hükümlerine göre gümrük vergileri hesaplanır."
+    },
+    {
+     "alt_konu": "Serbest bölgelerden Avrupa Birliğine A.TR ile eşya gönderilmesi",
+     "soru": "Gümrük Yönetmeliğine göre Türkiye'den veya üçüncü ülkelerden serbest bölgelere gelen eşyanın daha sonra Avrupa Birliği ülkelerine statü belgesi olarak A.TR dolaşım belgesi ile gönderilmek istenmesi halinde hangi belge düzenlenir?",
+     "cevap": "Tespit ve Tahakkuk Kağıdı düzenlenir.",
+     "dayanak": "GY md. 432/1",
+     "kanit": "statü belgesi olarak A.TR dolaşım belgesi ile gönderilmek istenmesi halinde, ek-70'te yer alan Tespit ve Tahakkuk Kağıdı düzenlenir."
+    },
+    {
+     "alt_konu": "Serbest bölgelerden Avrupa Birliğine A.TR ile eşya gönderilmesi",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgeden Avrupa Birliğine A.TR dolaşım belgesi ile gönderilecek eşyanın tamamen Türkiye'de serbest dolaşımdaki girdilerden üretildiğinin anlaşılması halinde vergi tahsilatı yapılır mı?",
+     "cevap": "Yapılmaz; herhangi bir vergi tahsilatı yapılmaksızın A.TR Dolaşım Belgesi düzenlenir ve vize edilir.",
+     "dayanak": "GY md. 432/1-a",
+     "kanit": "herhangi bir vergi tahsilatı yapılmaksızın 2006/10895 sayılı Türkiye ile Avrupa Topluluğu Arasında Oluşturulan Gümrük Birliğinin Uygulanmasına İlişkin Esaslar Hakkında Karar çerçevesinde A.TR Dolaşım Belgesi düzenlenir ve vize edilir."
+    },
+    {
+     "alt_konu": "Serbest bölgelerden Avrupa Birliğine A.TR ile eşya gönderilmesi",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgeden Avrupa Birliğine A.TR dolaşım belgesi ile gönderilecek eşyanın tamamen veya kısmen üçüncü ülke menşeli girdiler kullanılarak serbest bölgede işlem görmesi halinde gümrük vergisi hangi değer üzerinden tahsil edilir?",
+     "cevap": "Üçüncü ülke girdilerinin muayene ve tespiti yapıldıktan sonra belirlenen CIF değeri üzerinden tahsil edilir; işlemler Tespit ve Tahakkuk Kağıdı üzerinden yürütülür ve gümrük vezne alındısının ibrazı üzerine A.TR Dolaşım Belgesi vize edilir.",
+     "dayanak": "GY md. 432/1-b",
+     "kanit": "üçüncü ülke girdilerinin muayene ve tespiti yapıldıktan sonra CIF değeri belirlenerek, gümrük vergisi tahsilatı yapılır. Bu işlemler Tespit ve Tahakkuk Kağıdı üzerinden yürütülür. ... Gümrük vezne alındısının ibrazı üzerine A.TR Dolaşım Belgesi, gümrük idaresi tarafından vize edilir."
+    },
+    {
+     "alt_konu": "Serbest bölgelerden Avrupa Birliğine A.TR ile eşya gönderilmesi",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgeden Avrupa Birliğine gönderilecek eşyanın ticaret politikası önlemlerine tabi üçüncü ülke menşeli olması halinde A.TR Dolaşım Belgesi düzenlenmesi için ne gerekir?",
+     "cevap": "Telafi edici verginin tahsil edilmesi ve bu eşya için düzenlenmiş ithal lisansının ibraz edilmesi gerekir; A.TR'de kayıtlı miktar ithal lisansı aslından düşülür.",
+     "dayanak": "GY md. 432/1-c",
+     "kanit": "A.TR Dolaşım Belgesi düzenlenmesi için telafi edici verginin tahsil edilmesi ve bu eşya için düzenlenmiş ithal lisansının ibraz edilmesi gerekir. Gümrük idaresince A.TR Dolaşım Belgesinde kayıtlı miktar ithal lisansı aslından düşülerek işlem yapılır."
+    },
+    {
+     "alt_konu": "Serbest bölgelerden Avrupa Birliğine A.TR ile eşya gönderilmesi",
+     "soru": "Gümrük Yönetmeliğine göre serbest bölgelerden A.TR Dolaşım Belgesi ile Avrupa Birliğine gönderilip alıcıları tarafından iade edilen, üçüncü ülke menşeli girdilerle üretilmiş eşyanın, ihracı sırasında vize edilmiş A.TR'nin ibrazıyla Türkiye'de serbest dolaşıma sokulmasında hangi vergiler tahsil edilir?",
+     "cevap": "Gümrük vergisi dışında ithalatta tahsili gereken Katma Değer Vergisi ve Özel Tüketim Vergisi ile eş etkili mali yükler tahsil edilir; ayrıca diğer ithal işlemleri tamamlanır ve varsa ticaret politikası önlemleri uygulanır.",
+     "dayanak": "GY md. 432/1-d",
+     "kanit": "gümrük vergisi dışında ithalatta tahsili gereken Katma Değer Vergisi ve Özel Tüketim Vergisi ile eş etkili mali yükler tahsil edilir. Ayrıca, bu eşyanın ithali için öngörülen diğer işlemlerin tamamlanması ve varsa ticaret politikası önlemlerinin uygulanması sağlanır."
+    },
+    {
+     "alt_konu": "Serbest bölge kurma ve yer-sınır belirleme yetkisi",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre Türkiye'de serbest bölgelerin yer ve sınırlarını belirlemeye kim yetkilidir?",
+     "cevap": "Cumhurbaşkanı yetkilidir; serbest bölgelerin kamu kurum ve kuruluşlarınca, yerli veya yabancı gerçek veya tüzel kişilerce kurulmasına ve işletilmesine de Cumhurbaşkanınca izin verilir.",
+     "dayanak": "3218 s. Kanun md. 2/1-2",
+     "kanit": "Türkiye'de serbest bölgelerin yer ve sınırlarını belirlemeye Cumhurbaşkanı[2] yetkilidir. ... kurulmasına, işletilmesine Cumhurbaşkanınca[3] izin verilir."
+    },
+    {
+     "alt_konu": "Serbest bölgelerdeki faaliyet konuları",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre serbest bölgelerde hangi faaliyetler yapılabilir?",
+     "cevap": "Yüksek Planlama Kurulunca uygun görülecek her türlü sınai, ticari ve hizmetle ilgili faaliyetler yapılabilir.",
+     "dayanak": "3218 s. Kanun md. 4",
+     "kanit": "Serbest bölgelerde, Yüksek Planlama Kurulunca uygun görülecek her türlü sınai, ticari ve hizmetle ilgili faaliyetler yapılabilir."
+    },
+    {
+     "alt_konu": "Arazi temini, irtifak hakkı ve asayiş",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre serbest bölgelerde faaliyette bulunan yatırımcı kullanıcılar lehine Hazinenin özel mülkiyetindeki arazi, arsa ve binalar üzerinde en fazla ne kadar süreli irtifak hakkı tesis edilebilir?",
+     "cevap": "49 yıla kadar irtifak hakkı tesis edilebilir; Devletin hüküm ve tasarrufu altındaki yerler için de aynı süre ile kullanma izni verilebilir.",
+     "dayanak": "3218 s. Kanun md. 5/2",
+     "kanit": "Hazinenin özel mülkiyetinde bulunan arazi, arsa ve binalar kiralanabilir veya bunlar üzerinde 49 yıla kadar irtifak hakkı tesis edilebilir. ... kiralanabilir veya aynı süre ile kullanma izni verilebilir."
+    },
+    {
+     "alt_konu": "Arazi temini, irtifak hakkı ve asayiş",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre serbest bölgelerin asayiş hizmetleri kim tarafından yerine getirilir?",
+     "cevap": "Polis tarafından yerine getirilir.",
+     "dayanak": "3218 s. Kanun md. 5/4",
+     "kanit": "Serbest bölgelerin asayiş hizmetleri polis tarafından yerine getirilir."
+    },
+    {
+     "alt_konu": "Serbest bölgelerde gümrük ve kambiyo mevzuatının uygulanmaması",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre serbest bölgeler, ithalat vergileri ve ticaret politikası önlemlerinin yanı sıra hangi mevzuatın uygulanması bakımından da Türkiye Gümrük Bölgesi dışında kabul edilir?",
+     "cevap": "Kambiyo mevzuatının uygulanması bakımından da Türkiye Gümrük Bölgesi dışında kabul edilir; bu bölgelerde gümrük ve kambiyo mükellefiyetine dair mevzuat hükümleri uygulanmaz.",
+     "dayanak": "3218 s. Kanun md. 6/1-2",
+     "kanit": "ithalat vergileri ile ticaret politikası önlemlerinin ve kambiyo mevzuatının uygulanması bakımından Türkiye Gümrük Bölgesi dışında olduğu kabul edilen ... Bu bölgelerde gümrük ve kambiyo mükellefiyetine dair mevzuat hükümleri uygulanmaz."
+    },
+    {
+     "alt_konu": "Serbest bölge gelirleri ve ücret oranları",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre yurt dışından bölgeye getirilen mallar ile bölgeden Türkiye'ye çıkarılan mallardan hangi değer üzerinden ve hangi oranda ücret alınır?",
+     "cevap": "Yurt dışından bölgeye getirilen malların CIF değeri üzerinden binde 1, bölgeden Türkiye'ye çıkarılan malların FOB değeri üzerinden binde 9 oranında ücret peşin olarak alınır.",
+     "dayanak": "3218 s. Kanun md. 7/1-b",
+     "kanit": "Yurt dışından bölgeye getirilen malların CIF değeri üzerinden binde 1 ve bölgeden Türkiye'ye çıkarılan malların FOB değeri üzerinden binde 9 oranında, peşin olarak ödenecek ücretler,"
+    },
+    {
+     "alt_konu": "Serbest bölge gelirleri ve ücret oranları",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre serbest bölge gelirleri için Kanunda öngörülen oranları sıfıra kadar indirmeye, farklılaştırmaya veya kanuni seviyesine kadar artırmaya kim yetkilidir?",
+     "cevap": "Cumhurbaşkanı; stratejik, büyük ölçekli veya öncelikli yatırımlar ile proje bazında desteklenmesine karar verilen yatırımlara yönelik olarak bölge, sektör, faaliyet alanı veya yatırım türü itibarıyla yetkilidir.",
+     "dayanak": "3218 s. Kanun md. 7/2",
+     "kanit": "Cumhurbaşkanı[20] stratejik, büyük ölçekli veya öncelikli yatırımlar ... bu maddede yer alan oranları bölge, sektör, faaliyet alanı veya yatırım türü itibarıyla sıfıra kadar indirmeye, farklılaştırmaya veya kanuni seviyesine kadar artırmaya yetkilidir."
+    },
+    {
+     "alt_konu": "Bölgedeki malların dış ticaret rejimi karşısındaki durumu",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre serbest bölge ile Türkiye'nin diğer yerleri arasında ve serbest bölge ile diğer ülkeler arasında yapılan ticarette dış ticaret rejimi uygulanır mı?",
+     "cevap": "Serbest bölge ile Türkiye'nin diğer yerleri arasında yapılacak ticaret dış ticaret rejimine tabidir; serbest bölge ile diğer ülkeler ve serbest bölgeler arasında dış ticaret rejimi uygulanmaz.",
+     "dayanak": "3218 s. Kanun md. 8/1",
+     "kanit": "Serbest bölge ile Türkiye'nin diğer yerleri arasında yapılacak ticaret, dış ticaret rejimine tabidir. Serbest bölge ile diğer ülkeler ve serbest bölgeler arasında dış ticaret rejimi uygulanmaz."
+    },
+    {
+     "alt_konu": "Bölgedeki malların dış ticaret rejimi karşısındaki durumu",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre bedeli hangi tutarı geçmeyen Türkiye mahreçli mallar isteğe bağlı olarak ihracat işlemine tabi tutulmayabilir?",
+     "cevap": "Bedeli 5000 ABD doları veya karşılığı Türk Lirasını geçmeyen Türkiye mahreçli mallar.",
+     "dayanak": "3218 s. Kanun md. 8/3",
+     "kanit": "Bedeli 5000 ABD doları veya karşılığı Türk Lirasını[24] geçmeyen Türkiye mahreçli mallar, isteğe bağlı olarak ihracat işlemine tabi tutulmayabilir."
+    },
+    {
+     "alt_konu": "Serbest bölgelerde ödemeler",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre serbest bölgelerdeki faaliyetlerle ilgili ödemeler hangi para ile yapılır?",
+     "cevap": "Her türlü ödeme dövizle yapılır; Cumhurbaşkanı ödemelerin Türk Lirası olarak yapılmasına da karar verebilir.",
+     "dayanak": "3218 s. Kanun md. 9/1",
+     "kanit": "Serbest bölgelerdeki faaliyetlerle ilgili her türlü ödemeler dövizle yapılır. Cumhurbaşkanı[26] ödemelerin Türk Lirası olarak yapılmasına da karar verebilir."
+    },
+    {
+     "alt_konu": "Çalışma ve sosyal güvenlik esasları",
+     "soru": "3218 sayılı Serbest Bölgeler Kanununa göre serbest bölgelerde hangi sosyal güvenlik mevzuatı uygulanır?",
+     "cevap": "Türkiye Cumhuriyeti sosyal güvenlik mevzuatı hükümleri uygulanır; işyerlerinde yabancı uyruklu yönetici ve vasıflı personel de çalıştırılabilir.",
+     "dayanak": "3218 s. Kanun md. 10",
+     "kanit": "Serbest bölgelerde, faaliyet gösterecek işyerlerinde yabancı uyruklu yönetici ve vasıflı personel çalıştırılabilir. ... Serbest bölgelerde Türkiye Cumhuriyeti sosyal güvenlik mevzuatı hükümleri uygulanır."
+    },
+    {
+     "alt_konu": "Bölge sınırları ve serbest bölge kabul edilen deniz alanları",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre bölgeye mal getiren ve götüren gemilerin liman rıhtımlarında işgal ettikleri deniz alanları ile malların bölgeye getirilip götürülmesi için takip edilen yol hangi şartla serbest bölge kabul edilir?",
+     "cevap": "Gümrük işlemlerinin yapılması açısından, Gümrük İdaresinin gözetiminde olması şartıyla serbest bölge kabul edilir.",
+     "dayanak": "SB Uyg. Yön. md. 6/2",
+     "kanit": "bu yerlerden malların Bölgeye getirilip götürülmesi için takip edilen yol, gümrük işlemlerinin yapılması açısından, Gümrük İdaresinin gözetiminde olması şartıyla serbest bölge kabul edilir."
+    },
+    {
+     "alt_konu": "Faaliyet ruhsatının verilmesi",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre faaliyet ruhsatı verilmesi uygun görülenlere, işyeri teminine yönelik sözleşmenin örneği ile gerekli diğer belgeleri Genel Müdürlüğe iletmeleri için ne kadar süre tanınır?",
+     "cevap": "30 günlük süre tanınır; belgelerin süresi içinde gönderilmemesi halinde Faaliyet Ruhsatı alma hakkı kaybedilir, dosya işlemden kaldırılır ve müracaat ücreti Özel Hesaba irat kaydedilir.",
+     "dayanak": "SB Uyg. Yön. md. 11/3",
+     "kanit": "gerekli diğer belgeleri Genel Müdürlüğe iletmesi için 30 günlük süre tanınır. ... alma hakkı kaybedilir, dosya işlemden kaldırılır ve müracaat ücreti Özel Hesaba irat kaydedilir."
+    },
+    {
+     "alt_konu": "Bölgeye giriş-çıkış belgeleri",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre bölgeye süreklilik arz etmeyen günlük giriş ve çıkışlarda hangi belgeler kullanılır ve bunlar nerede, kimlerce verilir?",
+     "cevap": "Bölge Müdürlüğünce düzenlenen Özel İzin Belgesi ve Ziyaretçi Araç Giriş Kartı kullanılır; bu kısa süreli belgeler bölge giriş ve çıkış kapılarında İşletici veya B.K.İ. görevlileri tarafından verilir.",
+     "dayanak": "SB Uyg. Yön. md. 13/3",
+     "kanit": "Süreklilik arz etmeyen günlük giriş ve çıkışlarda ise yine Bölge Müdürlüğü tarafından düzenlenen \"Özel İzin Belgesi\" ve \"Ziyaretçi Araç Giriş Kartı\" kullanılır. Söz konusu kısa süreli belgeler, bölge giriş ve çıkış kapılarında İşletici veya B.K.İ. görevlileri tarafından verilir."
+    },
+    {
+     "alt_konu": "Faaliyetin geçici olarak durdurulması ve faaliyet ruhsatının iptali",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre kullanıcı tarafından istenilen bilgi ve belgelerin zamanında verilmemesi veya yanlış bilgi verilmesi halinde Bölge Müdürlüğünce hangi müeyyide uygulanır?",
+     "cevap": "Kullanıcının serbest bölgeden mal çıkışlarına ve bölge içi mal satışlarına ilişkin Serbest Bölge İşlem Formları bir ay süreyle işleme konulmaz; bir aylık süre dolmadan aykırılık düzeltilirse formlar tekrar işleme konulur.",
+     "dayanak": "SB Uyg. Yön. md. 14/a",
+     "kanit": "Serbest Bölge İşlem Formları bir ay süreyle işleme konulmaz. Ancak, kullanıcı tarafından bir aylık süre dolmadan önce bu hususların düzeltilmesi halinde Bölge Müdürlüğünce işlem formları tekrar işleme konulur. ... istenilen bilgi ve belgelerin zamanında verilmemesi veya yanlış bilgi verilmesi,"
+    },
+    {
+     "alt_konu": "Faaliyetin geçici olarak durdurulması ve faaliyet ruhsatının iptali",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre re'sen yapılan stok sayımında Bölge Müdürlüğü kayıtları ile kullanıcının stokları arasında mal kalemi bazında miktarı %5'i geçmeyen, sebebi açıklanamayan eksiklik veya fazlalık tespit edilmesi halinde ne yapılır?",
+     "cevap": "Kullanıcının bölgeden mal çıkışlarına ve bölge içi mal satışlarına ilişkin Serbest Bölge İşlem Formları 3 ay süreyle işleme konulmaz ve Serbest Bölge Gümrük İdaresi bilgilendirilir.",
+     "dayanak": "SB Uyg. Yön. md. 14/b",
+     "kanit": "miktarı % 5'i geçmeyen sebebi açıklanamayan eksiklik veya fazlalığın tespiti halinde, Kullanıcının bölgeden mal çıkışlarına ve bölge içi mal satışlarına ilişkin Serbest Bölge İşlem Formları 3 ay süreyle işleme konulmaz. Serbest Bölge Gümrük İdaresi konu hakkında bilgilendirilir."
+    },
+    {
+     "alt_konu": "Faaliyetin geçici olarak durdurulması ve faaliyet ruhsatının iptali",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre re'sen yapılan stok sayımında mal kalemi bazında miktarı %5'ten fazla, sebebi açıklanamayan eksiklik veya fazlalık tespit edilmesi halinde ne yapılır?",
+     "cevap": "Faaliyet Ruhsatı hiçbir uyarıya gerek kalmaksızın Genel Müdürlükçe iptal edilir ve Serbest Bölge Gümrük İdaresi bilgilendirilir.",
+     "dayanak": "SB Uyg. Yön. md. 14/d",
+     "kanit": "Faaliyet Ruhsatı hiçbir uyarıya gerek kalmaksızın Genel Müdürlükçe iptal edilir ve Serbest Bölge Gümrük İdaresi konu hakkında bilgilendirilir. ... miktarı % 5'ten fazla sebebi açıklanamayan eksiklik veya fazlalığın tespiti,"
+    },
+    {
+     "alt_konu": "Bölgede ikamet yasağı ve ikamet/gece çalışma izni",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre serbest bölgede ikamet edilebilir mi?",
+     "cevap": "Bölgede ikamet yasaktır; ancak güvenlik, gümrük muhafaza ve koruma görevlileri ile işlerinin mahiyeti gereği bölgede ikamet veya gece çalışma zorunda olanlara, güvenlik ve gümrük idaresine yazılı bilgi verilerek Bölge Müdürlüğünce izin verilir; bu izin görevlilerin yakınlarını veya ailelerini kapsamaz.",
+     "dayanak": "SB Uyg. Yön. md. 19/1",
+     "kanit": "Bölgede ikamet yasaktır. Ancak, güvenliğin sağlanması için ... güvenlik ve gümrük idaresine yazılı bilgi verilmek suretiyle, Bölge Müdürlüğünce verilir. ... Bu izin hiç bir şekil ve suretle bu görevlilerin yakınlarını veya ailelerini kapsamaz."
+    },
+    {
+     "alt_konu": "Çalışma saatleri ve mesai dışı gümrük işlemleri",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre serbest bölgede normal çalışma saatleri dışında veya tatil zamanlarında gümrükle ilgili iş yapılması nasıl talep edilir?",
+     "cevap": "Gümrük idaresinden yazılı olarak talep edilebilir; bölgede günde yirmi dört saat ve haftada yedi gün çalışma yapılabilmekle birlikte gümrük işlemlerinin normal çalışma saati içinde yapılması esastır.",
+     "dayanak": "SB Uyg. Yön. md. 20/1",
+     "kanit": "Bölgede günde yirmidört saat ve haftada yedi gün çalışma yapılabilir. ... Normal çalışma saatleri dışında veya tatil zamanlarında gümrükle ilgili iş yapılması gümrük idaresinden yazılı olarak talep edilebilir."
+    },
+    {
+     "alt_konu": "İşletme veya kuruluş ve işletme sözleşmelerinde süre uzatımı",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre Bakanlık, işletme veya kuruluş ve işletme sözleşmelerinin süre uzatım işlemlerini hangi sürelerle yapar?",
+     "cevap": "İlk süre uzatımını sözleşme süresini 49 yılı tamamlayacak şekilde, sonraki süre uzatımlarını ise 20 yılı aşmayacak dönemler halinde yapar.",
+     "dayanak": "SB Uyg. Yön. md. 27/A",
+     "kanit": "ilkini sözleşme süresini 49 yılı tamamlayacak şekilde, sonrasında yapacağı süre uzatım işlemlerini ise 20 yılı aşmayacak dönemler halinde yapar."
+    },
+    {
+     "alt_konu": "İhraç ve ithal edilen mallar, menşe bakımından serbest bölgenin durumu, transit ve aktarma",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre serbest bölgeler, Avrupa Birliğine tam üyeliğin gerçekleşeceği tarihe kadar gümrük rejimleri ve menşe hükümleri bakımından nasıl sayılır?",
+     "cevap": "Gümrük rejimleri açısından Türkiye Gümrük Bölgesi dışında, menşe hükümlerinin uygulanması bakımından ise Türkiye Gümrük Bölgesi sayılır.",
+     "dayanak": "SB Uyg. Yön. md. 30/4",
+     "kanit": "Serbest Bölgeler, Avrupa Birliği'ne tam üyeliğin gerçekleşeceği tarihe kadar, gümrük rejimleri açısından Türkiye Gümrük Bölgesi dışında, menşe hükümlerinin uygulanması bakımından ise Türkiye Gümrük Bölgesi sayılır."
+    },
+    {
+     "alt_konu": "İhraç ve ithal edilen mallar, menşe bakımından serbest bölgenin durumu, transit ve aktarma",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre bölgelerden çıkartılan mallara ilişkin menşe ve statü belgeleri hangi idarelerce vize edilir?",
+     "cevap": "Serbest Bölge Gümrük İdarelerince vize edilir; bu belgeler üyelik şartı aranmaksızın mevzuatın öngördüğü mercilerce düzenlenir ve onaylanır.",
+     "dayanak": "SB Uyg. Yön. md. 30/5",
+     "kanit": "üyelik şartı aranmaksızın mevzuatın öngördüğü mercilerce düzenlenir ve onaylanır. Bu belgeler Serbest Bölge Gümrük İdarelerince vize edilir."
+    },
+    {
+     "alt_konu": "İhraç ve ithal edilen mallar, menşe bakımından serbest bölgenin durumu, transit ve aktarma",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre yabancı bir ülkeden deniz, hava, demiryolu ve karayoluyla serbest bölge limanına getirilen eşyanın deniz yoluyla yabancı bir limana veya diğer bir serbest bölge limanına sevki ne sayılır?",
+     "cevap": "Aktarma sayılır; transit veya aktarma taşımaya tabi malların bölgeye giriş ve çıkışı Bölge Müdürlüğünün izniyle yapılır.",
+     "dayanak": "SB Uyg. Yön. md. 31/2, 31/4",
+     "kanit": "Yabancı bir ülkeden deniz, hava, demiryolu ve karayoluyla Serbest Bölge limanına getirilen eşyanın, deniz yoluyla yabancı bir limana veya diğer bir Serbest Bölge limanına sevki \"Aktarma\" sayılır. ... Transit/Aktarma taşımaya tabi malların Bölgeye giriş ve çıkışı Bölge Müdürlüğünün izniyle yapılır."
+    },
+    {
+     "alt_konu": "Bölgeye getirilmesi yasak mallar",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre serbest bölgelere getirilmesi yasak olan mallar hangileridir?",
+     "cevap": "Ateşli silahlar ve bunların mühimmatı, radyoaktif maddeler, tehlikeli ve zehirli atıklar ile Bakanlıkça belirlenen diğer mallar.",
+     "dayanak": "SB Uyg. Yön. md. 32/1",
+     "kanit": "Ateşli silahlar ve bunların mühimmatının, radyoaktif maddelerin, tehlikeli ve zehirli atıklar ile Bakanlıkça[24] belirlenen diğer malların Bölgelere getirilmesi yasaktır."
+    },
+    {
+     "alt_konu": "Bölge ile diğer varış yerleri arasında mal akımı",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre bölgenin denize rıhtımı olmaması nedeniyle deniz yoluyla gelen serbest bölge adresli eşyanın yakın bir limandan bölgeye getirilmesinde transit beyannamesi düzenlenir mi?",
+     "cevap": "Düzenlenmez; bağlantı, Serbest Bölge İşlem Formuna istinaden ve gümrük idaresince görevlendirilecek memurun refakatinde eşyanın gemiden doğrudan bölgeye alınmasıyla sağlanır; geminin bulunduğu yer ile bölge arasındaki koridor serbest bölge olarak addedilir.",
+     "dayanak": "SB Uyg. Yön. md. 34/3",
+     "kanit": "\"Transit Beyannamesi\" düzenlenmesine gerek kalmadan, Gümrük İdaresince görevlendirilecek memurun refakatinde gemiden doğrudan Bölgeye alınmasıyla ... Geminin bulunduğu yer ile Bölge arasındaki koridor, Serbest Bölge olarak addedilir."
+    },
+    {
+     "alt_konu": "İmha edilmesi gereken mallar",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre komisyon tarafından imhasına karar verilen malların imhasına, Bölge Müdürlüğünün yazılı talebinin tebliğinden itibaren ne kadar süre içinde başlanılması esastır?",
+     "cevap": "24 saat içinde başlanılması esastır; kullanıcı başlamazsa imha İşletici veya Bölge Kurucu İşleticisi tarafından yürütülür ve masraflar kullanıcıya rücu edilir.",
+     "dayanak": "SB Uyg. Yön. md. 37/2-3",
+     "kanit": "Bu talebin, tebliğ edildiği tarihten itibaren 24 saat içinde yerine getirilmeye başlanılması esastır. ... imha işlemi İşletici veya Bölge Kurucu İşleticisi tarafından yürütülür. Yapılan tüm masraflar kullanıcıya rücu edilir."
+    },
+    {
+     "alt_konu": "Terk edilmiş ve dağınık mallar",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre bölgede hiçbir kullanıcıya ait olmayan parsellere bırakılmış veya terk edilmiş mallar hakkında nasıl işlem yapılır?",
+     "cevap": "Bölge Müdürlüğünün gözetim ve denetimi altında İşletici veya B.K.İ. tarafından toplatılarak bu konuda tutulacak kayıt defterine işlenir ve tasfiye edilir.",
+     "dayanak": "SB Uyg. Yön. md. 38/1",
+     "kanit": "Bölgede, hiç bir Kullanıcıya ait olmayan parsellere bırakılmış veya terk edilmiş mallar, Bölge Müdürlüğünün gözetim ve denetimi altında İşletici veya B.K.İ. tarafından toplatılarak, bu konuda tutulacak kayıt defterine işlenir"
+    },
+    {
+     "alt_konu": "Hizmet ve ücretlere ilişkin itirazlar",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre kullanıcılar, hizmetleri veren İşletici veya B.K.İ. ile ilgili itirazlarını ne kadar süre içinde ve nereye yapar?",
+     "cevap": "İtiraz ve şikâyet konusu olaya muttali olunduğu tarihten itibaren en geç üç gün içinde ilgili Bölge Müdürlüğüne yapar.",
+     "dayanak": "SB Uyg. Yön. md. 51/b",
+     "kanit": "Hizmetleri veren İşletici veya B.K.İ. ile ilgili itirazlar Kullanıcılar tarafından itiraz ve şikayet konusu olaya muttali olunduğu tarihten itibaren en geç üç gün içinde ilgili Bölge Müdürlüğüne yapılır."
+    },
+    {
+     "alt_konu": "Üstyapıların tahliyesi ve malların tasfiyesi",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre arazisi Hazinenin özel mülkiyetinde bulunan serbest bölgelerde faaliyet ruhsatının süresi sona eren veya iptal edilen kullanıcılara üstyapının tahliyesi için ne kadar süre verilir?",
+     "cevap": "Genel Müdürlükçe bir aydan az, altı aydan fazla olmamak üzere tahliye süresi verilir; verilecek ek süreler dahil tahliye süresi hiçbir şekilde altı ayı geçemez.",
+     "dayanak": "SB Uyg. Yön. md. 52/1",
+     "kanit": "Genel Müdürlükçe bir aydan az altı aydan fazla olmamak üzere tahliye süresi verilir. ... Verilecek ek süreler de dahil olmak üzere tahliye süresi hiçbir şekilde altı ayı geçemez."
+    },
+    {
+     "alt_konu": "Üstyapıların tahliyesi ve malların tasfiyesi",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre arazisi Hazinenin özel mülkiyetinde bulunan serbest bölgelerde tahliye süresi sonunda üstyapıdan çıkarılmadığı için tasfiye edilen malların satış bedelinden gerekli kesintiler yapıldıktan sonra kalan bakiye bedel nereye gönderilir?",
+     "cevap": "Gümrük vergileri, hizmet karşılığı alacaklar ve yapılmış masraflar ile satış masrafları düşüldükten sonra bakiye bedel hak sahiplerine dağıtılmak üzere ilgili icra müdürlüklerine gönderilir; bu malların satış bedeli hakkında Gümrük Kanununun 180 inci maddesinin birinci fıkrası uygulanmaz.",
+     "dayanak": "SB Uyg. Yön. md. 52/2",
+     "kanit": "Tasfiye edilen malların satış bedeli hakkında 4458 sayılı Kanunun 180 inci maddesinin birinci fıkrası uygulanmaz. ... bakiye bedel hak sahiplerine dağıtılmak üzere ilgili icra müdürlüklerine gönderilir."
+    },
+    {
+     "alt_konu": "Üstyapıların tahliyesi ve malların tasfiyesi",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre özel arazili serbest bölgelerde verilen tahliye süresi sonunda üstyapıdan çıkarılmayan mallar nasıl sayılır ve hangi hükme göre tasfiye edilir?",
+     "cevap": "Bölgede terk edilmiş sayılır; komisyonca sayım ve tespiti yapılarak 4458 sayılı Gümrük Kanununun 177 nci maddesinin birinci fıkrasının (m) bendi uyarınca tasfiye edilmek üzere ilgili tasfiye işletme müdürlüğüne teslim edilir.",
+     "dayanak": "SB Uyg. Yön. md. 52/3",
+     "kanit": "Verilecek tahliye süresi sonunda üstyapıdan çıkarılmayan mallar bölgede terk edilmiş sayılır. ... 4458 sayılı Kanunun 177 nci maddesinin birinci fıkrasının (m) bendi uyarınca tasfiye edilmek üzere ilgili tasfiye işletme müdürlüğüne teslim edilir."
+    },
+    {
+     "alt_konu": "Bekleme süresi ve teminat",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre bakım-onarım veya tamir gibi nedenlerle bölgeye geçici olarak gelen, kullanıcının kendisine ait olmayan mallar ile araç, gereç ve ekipmanlar bölgede en fazla ne kadar kalabilir?",
+     "cevap": "12 aydan fazla kalamaz.",
+     "dayanak": "SB Uyg. Yön. md. 58/1",
+     "kanit": "Bakım-onarım veya tamir gibi nedenlerle bölgeye geçici olarak gelen, Kullanıcının kendisine ait olmayan mallar ile araç, gereç ve ekipmanlar bölgelerde 12 aydan fazla kalamaz."
+    },
+    {
+     "alt_konu": "Bekleme süresi ve teminat",
+     "soru": "Serbest Bölgeler Uygulama Yönetmeliğine göre fason imalat, bakım-onarım ve ileri derecede işlem görmek üzere bölgeden Türkiye'ye çıkarılan mallardan hangi değer üzerinden ve hangi oranda teminat alınır?",
+     "cevap": "FOB değerleri üzerinden binde 9 oranında teminat alınır; teminat olarak Türk Lirası, döviz, banka teminat mektubu, devlet tahvili ve hazine bonosu kabul edilir.",
+     "dayanak": "SB Uyg. Yön. md. 58/3, 58/5",
+     "kanit": "Fason imalat, bakım-onarım ve ileri derecede işlem görmek üzere bölgeden Türkiye'ye çıkarılan malların FOB değerleri üzerinden binde 9 oranında teminat alınır. ... Teminat olarak Türk Lirası, döviz, banka teminat mektubu, devlet tahvili ve hazine bonosu kabul edilir."
+    }
+   ]
+  }
+ ]
+}

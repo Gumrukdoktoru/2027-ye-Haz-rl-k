@@ -1,0 +1,1430 @@
+{
+ "grup": "G15",
+ "dosyalar": [
+  {
+   "kaynak": "40-posta ve hızlı kargo.txt",
+   "konu": "Posta ve hızlı kargo taşımacılığı (yolcu beraberi eşyaya ilişkin 2011/39 sayılı Genelge dahil)",
+   "mevzuat": "2011/39 sayılı Genelge (yolcu beraberi eşya; posta bölümü mülga); Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1); 2022/9 sayılı Genelge; GK md. 173-175; GY md. 455-475",
+   "cikmis_sayisi": 10,
+   "cikmis": [
+    "2021-59: Posta yoluyla gelen koliler, gönderilen posta çantaları ve iade edilen eşya gümrük kontrolüne ve muayenesine tabidir; içinde eşya bulunmayan mektuplar hariçtir (GK md. 173/1).",
+    "2021-65: Posta koli listesinde sıra no, çıkış ülkesi, sayı-marka, belgeler ve geldiği yol bulunur; muayene memurunun adresi bulunmaz (GY md. 455).",
+    "2021-67: Mektup postası dışındaki eşyanın başka gümrük idaresine sevki transit rejimi hükümlerine göre yapılır (GY md. 468/1).",
+    "2021-90: Posta ve hızlı kargo eşyasının miktar ve değerini Cumhurbaşkanı belirler (GK md. 225; hüküm bu kaynak metinde yok).",
+    "2023-48: Yolcular 10 karton sigarayı muafen getiremez (yolcu beraberi kişisel eşya listesi).",
+    "2025-76: Muafiyet sınırındaki posta eşyasında kıymet fatura/fiş/ödeme belgesine göre, belge yoksa veya düşükse idarece belirlenir; giriş yerine kadar nakliye kıymete eklenir (Tebliğ md. 12/1; Genelge 2022/9 II).",
+    "2025-78: Posta/hızlı kargo ile gelen limit altı eşyada tek ve maktu vergi oranı ve ÖTV (IV) listesi için ilave %20 (Karar md. 62; oranlar bu kaynak metinde yok).",
+    "2022-86 (Muafiyetler, ilişkili): Yolcu beraberi hediyelik eşya limiti 15 yaş altı 150 Avro, üstü 430 Avro.",
+    "2024-98 (Muafiyetler, ilişkili): Ek-9 kişisel eşya listesindeki alkol, parfüm, tütün limitleri.",
+    "2025-79 (Muafiyetler, ilişkili): Kişisel eşya listesindeki eşyanın gelişten bir ay önce veya üç ay sonra getirilebilmesi."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Yolcu deyimi: nakil vasıtası sürücü ve hizmetlileri",
+     "dayanak": "2011/39 Genelge (Yolcu tanımı)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yolcu beraberi kişisel eşya listesinin (Ek-9) uygulanması",
+     "dayanak": "2011/39 Genelge (Kişisel eşya)",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-48",
+      "2024-98",
+      "2025-79"
+     ],
+     "not": "2023-48'de 10 karton sigaranın muafen getirilemeyeceği, 2024-98'de Ek-9 limitleri, 2025-79'da getirilme süresi (Muafiyetler kaynağından) soruldu; tüketim maddelerinde listedeki sigara miktarına ilave 200 adet sigara hakkı sorulmadı."
+    },
+    {
+     "baslik": "Ek-9 listesindeki eşyada miktar sınırı ve yaş şartı",
+     "dayanak": "2011/39 Genelge (Yolcu beraberi hediyelik eşya)",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-86"
+     ],
+     "not": "2022-86'da hediyelik eşya kıymet limitleri (150/430 Avro) soruldu; 18 yaş altı yolcuların tütün ve alkol muafiyetinden yararlanamaması sorulmadı."
+    },
+    {
+     "baslik": "Yolcu beraberi Türk parası, döviz ve ziynet eşyası",
+     "dayanak": "2011/39 Genelge (32 sayılı Karar md. 3, 4, 7)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yolcu muafiyetinde kara yolu giriş-çıkış istisnası",
+     "dayanak": "2011/39 Genelge (İstisnalar 1)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yolcu beraberi eşyada sınırlamalar (cep telefonu, hayvansal ve bitkisel ürünler)",
+     "dayanak": "2011/39 Genelge (Sınırlamalar 1-2)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yolcu işlemlerine ilişkin sürelerin uzatılması",
+     "dayanak": "2011/39 Genelge (Süre uzatımı)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tebliğin amacı: operatör ve posta idaresine dolaylı temsil yetkisi",
+     "dayanak": "Posta-Kargo Tebliği md. 1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "2021-90'da miktar ve değeri belirleme yetkisinin Cumhurbaşkanında olduğu (GK md. 225) soruldu; bu hüküm kaynak metinde yer almıyor."
+    },
+    {
+     "baslik": "Operatör tanımı",
+     "dayanak": "Posta-Kargo Tebliği md. 3/1-h",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Operatör yetkisi için başvuru koşulları (posta idaresi dahil)",
+     "dayanak": "Posta-Kargo Tebliği md. 4, 5/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Başvurunun yapılacağı yer, değerlendirme süreleri ve yetkiyi veren makam",
+     "dayanak": "Posta-Kargo Tebliği md. 6, 7/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Operatörlerce çalıştırılan gümrük müşavirleri ve vekâletname",
+     "dayanak": "Posta-Kargo Tebliği md. 7/2-3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yurt dışından gelen gönderilerin tasnifi",
+     "dayanak": "Posta-Kargo Tebliği md. 9/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Basitleştirilmiş gümrük beyannamesinin özet beyan yerine geçmesi",
+     "dayanak": "Posta-Kargo Tebliği md. 10/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracat gönderilerinin beyan zamanı ve beyanda düzeltme",
+     "dayanak": "Posta-Kargo Tebliği md. 10/6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Operatörce beyan edilebilecek ihracat eşyasının ağırlık ve kıymet sınırı",
+     "dayanak": "Posta-Kargo Tebliği md. 10/7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hava ve kara yolu hızlı kargoda yetkili gümrük müdürlükleri ve transit",
+     "dayanak": "Posta-Kargo Tebliği md. 10/8-9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Aynı kişi adına aylık taşıma senedi sınırı",
+     "dayanak": "Posta-Kargo Tebliği md. 10/10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "KDV ve ÖTV istisna belgesi aranan eşya",
+     "dayanak": "Posta-Kargo Tebliği md. 10/11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teslim bilgilerinin gümrük müdürlüğüne iletilmesi",
+     "dayanak": "Posta-Kargo Tebliği md. 10/12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracatta eşyanın geçici depolama yerine alınmaksızın işlem görmesi",
+     "dayanak": "Posta-Kargo Tebliği md. 10/14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Özet beyandan basitleştirilmiş beyannameye taşıma senedi ekleme sınırı",
+     "dayanak": "Posta-Kargo Tebliği md. 10/16",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta ve hızlı kargo yoluyla konsinye ihracat",
+     "dayanak": "Posta-Kargo Tebliği md. 10/18-19",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Beyandan operatörün sorumluluğu",
+     "dayanak": "Posta-Kargo Tebliği md. 11/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta ve hızlı kargo eşyasında kıymetin belirlenmesi",
+     "dayanak": "Posta-Kargo Tebliği md. 12/1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-76"
+     ],
+     "not": "Kıymetin fatura/satış fişi/ödeme belgesine göre, belge yoksa veya düşükse idarece belirlenmesi ve giriş yerine kadar nakliye giderinin kıymete eklenmesi soruldu."
+    },
+    {
+     "baslik": "Vergilerin operatörce tahsili ve gümrüğe ödenme süresi",
+     "dayanak": "Posta-Kargo Tebliği md. 12/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Mahrece iade edilen eşyada maktu verginin iptali",
+     "dayanak": "Posta-Kargo Tebliği md. 13/4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Operatörlere uygulanacak müeyyideler",
+     "dayanak": "Posta-Kargo Tebliği md. 17",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tebliğ kapsamındaki ihracatta ihracatçı birliği onayı",
+     "dayanak": "Posta-Kargo Tebliği md. 18/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Basitleştirilmiş beyanla serbest dolaşıma girebilecek eşya ve sınırlayıcı hükümler",
+     "dayanak": "2022/9 Genelge I/1.1-1.2; Posta-Kargo Tebliği md. 18/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Basitleştirilmiş ithalat beyannamesine eklenebilecek taşıma senedi sayısı",
+     "dayanak": "2022/9 Genelge I/1.3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Normal usulde detaylı beyana tabi posta ve hızlı kargo eşyası",
+     "dayanak": "2022/9 Genelge I/2.1-2.5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Basitleştirilmiş ihracat beyanı: taşıma senedi sınırı ve konsinye ihracat kodları",
+     "dayanak": "2022/9 Genelge I/3.2, 3.4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kıymet tespitinde emsal navlun gideri",
+     "dayanak": "2022/9 Genelge II",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-76"
+     ],
+     "not": "Kıymetin belgeye göre/idarece belirlenmesi ve nakliyenin kıymete eklenmesi soruldu; navlunun ayrı gösterilmediği veya navlun makbuzunun ibraz edilemediği hallerde eklenecek 3 avroluk emsal navlun sorulmadı."
+    },
+    {
+     "baslik": "Posta ve hızlı kargo yoluyla gelen nakit para ve çek",
+     "dayanak": "2022/9 Genelge IV/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Şahsi tedavide kullanılacak ilaçlar",
+     "dayanak": "2022/9 Genelge IV/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Takviye edici gıdalar ve sporcu gıdaları",
+     "dayanak": "2022/9 Genelge IV/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kozmetik ürünleri ile ayakkabı, oyuncak ve saraciye ürünleri",
+     "dayanak": "2022/9 Genelge IV/4-6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta ve hızlı kargo ile ithali yasak veya izne bağlı eşya",
+     "dayanak": "2022/9 Genelge IV/7, 11, 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta ve hızlı kargo ile cep telefonu",
+     "dayanak": "2022/9 Genelge IV/12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Fikri ve sınai mülkiyet hakkı ihlali",
+     "dayanak": "2022/9 Genelge V/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta eşyasının gümrük kontrolü ve muayenesine tabiliği",
+     "dayanak": "GK md. 173/1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-59"
+     ],
+     "not": "Gelen koliler, gönderilen posta çantaları ve iade edilen eşyanın kontrol ve muayeneye tabi olduğu; içinde eşya bulunmayan mektupların hariç olduğu soruldu."
+    },
+    {
+     "baslik": "Posta çantaları ve kolilerin sevki, ihracı ve kontrol yönetmeliği",
+     "dayanak": "GK md. 173/2-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta eşyasının konulacağı yerler ve bekleme süresi",
+     "dayanak": "GK md. 174",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ticari mahiyette olmayan posta eşyasının beyanı",
+     "dayanak": "GK md. 175",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kolilerin gümrüğe bildirilmesine mahsus listelerin içeriği",
+     "dayanak": "GY md. 455",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-65"
+     ],
+     "not": "Listede yer alan hususlar (sıra no, çıkış ülkesi, sayı-marka, belgeler, geldiği yol) soruldu."
+    },
+    {
+     "baslik": "Listelerin gümrüğe verilmesi ve ticari-ticari olmayan eşya ayrımı",
+     "dayanak": "GY md. 456-458",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta yoluyla gelen eşyada beyan şekli (Déclaration en Douane)",
+     "dayanak": "GY md. 459",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta kolilerinin muayenesi",
+     "dayanak": "GY md. 460",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük veznesi bulunmayan posta idarelerinde vergilerin tahsili",
+     "dayanak": "GY md. 462",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta eşyasının başka bir gümrük idaresine sevki",
+     "dayanak": "GY md. 468",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-67"
+     ],
+     "not": "Mektup postası dışındaki eşyanın transit rejimiyle sevki soruldu; her araç için ayrı transit beyannamesi, mühürlü posta çuvallarında taşıtın mühürlenmemesi ve aynı il içinde Posta Teslim Bordrosu (CN-38/CN-41) ile sevk sorulmadı."
+    },
+    {
+     "baslik": "Posta gönderilerinin konulduğu yerler ve posta idaresinin yükümlülükleri",
+     "dayanak": "GY md. 469",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta eşyasının tasfiyesi",
+     "dayanak": "GY md. 473",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta eşyasında serbest dolaşıma giriş ve ihracatta cezalar",
+     "dayanak": "GY md. 474-475",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Yolcu deyimi: nakil vasıtası sürücü ve hizmetlileri",
+     "soru": "2011/39 sayılı Genelgeye göre yolcu beraberi eşya muafiyetinin uygulanmasında nakil vasıtalarının sürücüleri ve hizmetlileri yolcu sayılır mı?",
+     "cevap": "Hayır. Nakil vasıtaları sürücüleri ve hizmetlileri yolcu sayılmaz; kişisel ve hediyelik eşyayı muafen serbest dolaşıma sokma imkânı Kararda tanımlanan yolculara tanınır.",
+     "dayanak": "2011/39 Genelge (Yolcu tanımı)",
+     "kanit": "Ancak, nakil vasıtaları sürücüleri ve hizmetlileri yolcu sayılmayacaktır. Bu tanımlar çerçevesinde, yolcuların beraberlerinde kişisel ve hediyelik eşyayı gümrük vergilerinden muaf olarak serbest dolaşıma sokmalarına izin verilir."
+    },
+    {
+     "alt_konu": "Yolcu beraberi kişisel eşya listesinin (Ek-9) uygulanması",
+     "soru": "2011/39 sayılı Genelgeye göre yolcular, kişisel eşya listesinin tüketim maddeleri bölümünde yazılı sigara miktarına ek olarak kaç adet daha sigara alabilir?",
+     "cevap": "Listede yazılı sigara miktarına ek olarak 200 adet sigara daha alabilirler.",
+     "dayanak": "2011/39 Genelge (Kişisel eşya)",
+     "kanit": "Bu bölümdeki sigara miktarına ek olarak yolcuların 200 adet sigara daha alabilmeleri mümkündür."
+    },
+    {
+     "alt_konu": "Ek-9 listesindeki eşyada miktar sınırı ve yaş şartı",
+     "soru": "2011/39 sayılı Genelgeye göre tütün ve tütün ürünleri ile alkollü ürünlere ilişkin yolcu muafiyet hakkından hangi yolcular yararlanamaz?",
+     "cevap": "18 yaşın altındaki yolcular tütün, tütün ürünleri ve alkollü ürünlere ilişkin muafiyet hakkından yararlanamaz.",
+     "dayanak": "2011/39 Genelge (Yolcu beraberi hediyelik eşya)",
+     "kanit": "Ayrıca, tütün ve tütün ürünleri ile alkollü ürünlere ilişkin muafiyet hakkından, 18 yaşın altındaki yolcular faydalanamayacaktır."
+    },
+    {
+     "alt_konu": "Yolcu beraberi Türk parası, döviz ve ziynet eşyası",
+     "soru": "2011/39 sayılı Genelgeye göre Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karar çerçevesinde yolcular beraberlerinde yurt dışına ne kadar efektif ve Türk parası çıkarabilir?",
+     "cevap": "5.000 ABD Doları veya eşitine kadar efektifi ve en çok 5.000 ABD Doları karşılığı Türk parasını yurt dışına çıkarabilirler. Türk parası ve dövizin Türkiye'ye getirilmesi ise serbesttir.",
+     "dayanak": "2011/39 Genelge (32 sayılı Karar md. 3, 4, 7)",
+     "kanit": "Yolcuların Türk Parasını ve dövizi beraberlerinde Türkiye'ye getirmeleri serbesttir. ... Yolcular, 5.000 ABD Doları veya eşitine kadar efektifi ve en çok 5.000 ABD Doları karşılığı Türk parasını beraberlerinde yurt dışına çıkarabilirler."
+    },
+    {
+     "alt_konu": "Yolcu beraberi Türk parası, döviz ve ziynet eşyası",
+     "soru": "2011/39 sayılı Genelgeye göre yolcular ticari amaç taşımayan ziynet eşyası niteliğindeki kıymetli maden ve taşlardan yapılmış eşyayı hangi değere kadar serbestçe yurda getirip yurt dışına çıkarabilir?",
+     "cevap": "Kendilerine ait değeri 15.000 ABD Dolarını aşmayan ziynet eşyasını getirip çıkarabilirler; daha fazla değerdeki ziynet eşyasının yurt dışına çıkarılması girişte beyan edilmiş olmasına veya Türkiye'den satın alındığının tevsikine bağlıdır.",
+     "dayanak": "2011/39 Genelge (32 sayılı Karar md. 3, 4, 7)",
+     "kanit": "kendilerine ait değeri 15.000 ABD Dolarını aşmayan ve ticari amaç taşımayan ziynet eşyası ... yurda getirebilirler ve yurt dışına çıkarabilirler. ... girişte beyan edilmiş olmasına veya Türkiye'den satın alınmış olduğunu tevsik etme şartına bağlıdır."
+    },
+    {
+     "alt_konu": "Yolcu muafiyetinde kara yolu giriş-çıkış istisnası",
+     "soru": "2011/39 sayılı Genelgeye göre giriş ve çıkışın her ikisinin de kara yoluyla yapılması halinde yolcu beraberi hediyelik eşya ve kişisel eşya muafiyetinden yararlanabilmek için hangi şart aranır?",
+     "cevap": "Yolcunun gittiği ülkede üç gün kalmış olması şarttır.",
+     "dayanak": "2011/39 Genelge (İstisnalar 1)",
+     "kanit": "Giriş ve çıkışın her ikisinin de kara yoluyla yapılması halinde, yolcu beraberi hediyelik eşya ve kişisel eşya muafiyetinden yararlanabilmek için yolcunun gittiği ülkede üç gün kalması şarttır."
+    },
+    {
+     "alt_konu": "Yolcu beraberi eşyada sınırlamalar (cep telefonu, hayvansal ve bitkisel ürünler)",
+     "soru": "2011/39 sayılı Genelgeye göre cep telefonu gümrük vergilerinden muaf olarak hangi statüde ve hangi sıklıkla yurda getirilebilir?",
+     "cevap": "Yalnızca yolcu beraberi kişisel eşya statüsünde; yabancı misyon mensupları hariç her yolcu için iki takvim yılında bir adet ile sınırlı olmak üzere ve telefonun kıymetine bakılmaksızın getirilebilir.",
+     "dayanak": "2011/39 Genelge (Sınırlamalar 1)",
+     "kanit": "muafen serbest dolaşıma sokulabilmesi için, sadece yolcu beraberi kişisel eşya statüsünde olması gerekmektedir. ... yabancı misyon mensupları hariç, her bir yolcunun iki takvim yılında bir adet ile sınırlı olmak üzere ve telefonun kıymetine bakılmaksızın"
+    },
+    {
+     "alt_konu": "Yolcu beraberi eşyada sınırlamalar (cep telefonu, hayvansal ve bitkisel ürünler)",
+     "soru": "2011/39 sayılı Genelgeye göre yolcu beraberi hediyelik eşya kapsamında hayvansal ürünler ile bitkisel ürünler için hangi miktarlara kadar muafiyet tanınır?",
+     "cevap": "Fenni usullere göre kapatılmış kutulardaki su ürünleri, hayvansal ürünler, konserveler ve işlenmiş hayvansal ürünlerde beş kilograma, taze ve kuru meyve ve sebzelerde üç kilograma, diğer bitkisel ürünlerde bir kilograma kadar muafiyet tanınır; bunun dışındakiler ticari miktar ve mahiyette kabul edilir.",
+     "dayanak": "2011/39 Genelge (Sınırlamalar 2)",
+     "kanit": "beş kilogramına kadar, tüketim amacıyla getirilen bitkisel ürünlerden taze ve kuru meyve ve sebzelerin üç kilogramına, diğer bitkisel ürünlerin ise bir kilogramına kadar muafiyet tanınır. ... ticari miktar ve mahiyette olduğu kabul edilip buna göre işlem yapılır."
+    },
+    {
+     "alt_konu": "Yolcu işlemlerine ilişkin sürelerin uzatılması",
+     "soru": "2011/39 sayılı Genelgeye göre yolcu işlemlerine ilişkin Kararda öngörülen sürelerin mücbir sebep veya beklenmeyen haller nedeniyle aşılması halinde süre uzatımına hangi makam yetkilidir ve uzatım ne kadar olabilir?",
+     "cevap": "İlgili Gümrük ve Muhafaza Başmüdürlüğü yetkilidir; mücbir sebep veya beklenmeyen halin tevsiki şartıyla, bir defayla sınırlı olmak üzere en fazla 3 aya kadar süre uzatımı verilebilir.",
+     "dayanak": "2011/39 Genelge (Süre uzatımı)",
+     "kanit": "bir defayla sınırlı olmak üzere, mezkur sürenin, süre uzatımına konu talebin niteliğine göre Başmüdürlükçe en fazla 3 aya kadar süre uzatımına ilgili Gümrük ve Muhafaza Başmüdürlüğü yetkili kılınmıştır."
+    },
+    {
+     "alt_konu": "Tebliğin amacı: operatör ve posta idaresine dolaylı temsil yetkisi",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre hızlı kargo taşımacılığı yapan şirketlere ve posta idaresine hangi tür temsil yetkisi tanınır?",
+     "cevap": "Gümrük Kanunu uyarınca dolaylı temsil yetkisi tanınır; Kararda belirtilen posta ve hızlı kargo eşyasının gümrük beyanı dahil tüm gümrük işlemleri bu kişilerce dolaylı temsil yoluyla takip edilip sonuçlandırılır.",
+     "dayanak": "Posta-Kargo Tebliği md. 1",
+     "kanit": "hızlı kargo taşımacılığı yapan şirketlere ve posta idaresine 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununun 225 inci maddesinin birinci fıkrası uyarınca dolaylı temsil yetkisi tanınması"
+    },
+    {
+     "alt_konu": "Operatör tanımı",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatör kimdir?",
+     "cevap": "Hava yolu ve/veya kara yolu ile hızlı kargo taşımacılığı kapsamındaki gönderilerin gümrük beyanı dahil tüm gümrük işlemlerini dolaylı temsil yoluyla yapmaya yetkili tüzel kişilerdir.",
+     "dayanak": "Posta-Kargo Tebliği md. 3/1-h",
+     "kanit": "Operatör: Hava yolu ve/veya kara yolu ile hızlı kargo taşımacılığı kapsamındaki gönderilerin gümrük beyanı dahil tüm gümrük işlemlerini dolaylı temsil yoluyla yapmaya yetkili tüzel kişileri,"
+    },
+    {
+     "alt_konu": "Operatör yetkisi için başvuru koşulları (posta idaresi dahil)",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre hava yolu ile hızlı kargo taşımacılığında operatör yetkisi almak isteyenlerin hangi kurumca, hangi sıfatla yetkilendirilmiş olması gerekir?",
+     "cevap": "Ulaştırma ve Altyapı Bakanlığı Sivil Havacılık Genel Müdürlüğünce \"hava kargo acentesi\" olarak yetkilendirilmiş olmaları gerekir. Kara yolu için ise Ulaştırma ve Altyapı Bakanlığınca verilen uluslararası kara yolu taşımacılık belgesi aranır.",
+     "dayanak": "Posta-Kargo Tebliği md. 4/1-a, b",
+     "kanit": "Hava yolu ile hızlı kargo taşımacılığı için Ulaştırma ve Altyapı Bakanlığı Sivil Havacılık Genel Müdürlüğünce \"hava kargo acentesi\" olarak yetkilendirilmiş olması,"
+    },
+    {
+     "alt_konu": "Operatör yetkisi için başvuru koşulları (posta idaresi dahil)",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatör yetkisi başvurusunda gümrük müşaviri istihdamına ilişkin koşul nedir?",
+     "cevap": "Şirket bünyesinde asgari iki gümrük müşaviri istihdam edilmesi veya asgari iki gümrük müşaviri ile ya da asgari iki gümrük müşaviri görevlendirilmek üzere bir gümrük müşavirliği şirketiyle sözleşme yapılmış olması gerekir; müşavir sayısına ilişkin düzenleme yapmaya Bakanlık yetkilidir.",
+     "dayanak": "Posta-Kargo Tebliği md. 4/1-c, 4/4",
+     "kanit": "şirket bünyesinde asgari iki gümrük müşaviri istihdam ediyor olması veya asgari iki gümrük müşaviri ile sözleşme yapmış olması ya da asgari iki gümrük müşaviri görevlendirilmek üzere bir gümrük müşavirliği şirketiyle sözleşme yapmış olması"
+    },
+    {
+     "alt_konu": "Operatör yetkisi için başvuru koşulları (posta idaresi dahil)",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatör yetkisi başvurusunda kaçakçılık vb. suçlardan kesinleşmiş ceza veya mahkûmiyet kararı bulunmaması şartı hangi kişiler için aranır?",
+     "cevap": "Yönetim kurulu üyeleri, sermayesinin yüzde onundan fazlasına sahip gerçek kişiler ile gümrük ve dış ticaret işlemlerinde temsil yetkisini haiz çalışanlar için aranır.",
+     "dayanak": "Posta-Kargo Tebliği md. 4/1-ç",
+     "kanit": "Yönetim kurulu üyeleri, sermayesinin yüzde onundan fazlasına sahip gerçek kişiler ile gümrük ve dış ticaret işlemlerinde temsil yetkisini haiz çalışanlarının"
+    },
+    {
+     "alt_konu": "Operatör yetkisi için başvuru koşulları (posta idaresi dahil)",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatör yetkisi için ibraz edilmesi gereken teminat mektubunun tutarı nedir?",
+     "cevap": "Yalnızca hava yolu veya yalnızca kara yolu ile hızlı kargo taşımacılığında yetki istenmesi halinde 10.000.000 Türk Lirası, her iki yetkinin birlikte istenmesi halinde 20.000.000 Türk Lirası tutarında teminat mektubu ibraz edilir.",
+     "dayanak": "Posta-Kargo Tebliği md. 4/1-f",
+     "kanit": "yalnızca hava yolu veya yalnızca kara yolu ile hızlı kargo taşımacılığında yetki kullanılmak istenmesi durumunda 10.000.000[2] Türk Lirası, her iki yetkinin birlikte kullanılmak istenmesi durumunda ise 20.000.000[3] Türk Lirası tutarında teminat mektubu ibraz edilmesi,"
+    },
+    {
+     "alt_konu": "Operatör yetkisi için başvuru koşulları (posta idaresi dahil)",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre posta idaresinin yetki başvurusunda operatörler için öngörülen koşullardan hangileri aranır?",
+     "cevap": "Posta idaresi için yalnızca gümrük müşaviri istihdamı/sözleşmesi koşulu ile geçici depolama yerlerindeki X-ray cihazı, otomatik barkod okuyucu, yürüyen bant ve kamera sistemi gibi altyapı koşulu aranır; diğer koşullar (hava kargo acenteliği, teminat mektubu vb.) aranmaz. Başvuru belgeleri de aranmaz, yalnızca başvuru formu ile başvurulur.",
+     "dayanak": "Posta-Kargo Tebliği md. 4/2, 5/3",
+     "kanit": "Posta idaresi için birinci fıkranın (c) ve (e) bentleri[4] dışındaki koşullar aranmaz. ... Posta idaresi için birinci fıkrada belirtilen belgeler aranmaz; Ek-1'de yer alan başvuru formu ile başvuruda bulunulur."
+    },
+    {
+     "alt_konu": "Başvurunun yapılacağı yer, değerlendirme süreleri ve yetkiyi veren makam",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatör yetkisi başvurusu nereye yapılır?",
+     "cevap": "Yetki kapsamı işlemlerin yapılacağı gümrük müdürlüğünün bağlı olduğu Gümrük ve Dış Ticaret Bölge Müdürlüğüne yapılır.",
+     "dayanak": "Posta-Kargo Tebliği md. 6/1",
+     "kanit": "Başvuru, 5 inci maddede belirtilen belgelerle birlikte, yetki kapsamı işlemlerin yapılacağı gümrük müdürlüğünün bağlı olduğu Gümrük ve Dış Ticaret Bölge Müdürlüğüne yapılır."
+    },
+    {
+     "alt_konu": "Başvurunun yapılacağı yer, değerlendirme süreleri ve yetkiyi veren makam",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre eksiksiz yapılan operatör yetkisi başvurusunda yerinde tespit sonuçları, başvuru evrakı ve bölge müdürlüğü görüşü hangi süre içinde Bakanlığa gönderilir?",
+     "cevap": "Gümrük ve Dış Ticaret Bölge Müdürlüğünce oluşturulan heyetin yerinde tespiti tutanağa bağlanır ve sonuçlar, başvuru evrakı ve bölge müdürlüğü görüşü ile birlikte başvuru tarihinden itibaren on beş gün içinde Bakanlığa gönderilir.",
+     "dayanak": "Posta-Kargo Tebliği md. 6/2",
+     "kanit": "Söz konusu tespit sonuçları, başvuru evrakı ve Gümrük ve Dış Ticaret Bölge Müdürlüğü görüşü ile birlikte başvuru tarihinden itibaren on beş gün içinde Bakanlığa gönderilir."
+    },
+    {
+     "alt_konu": "Başvurunun yapılacağı yer, değerlendirme süreleri ve yetkiyi veren makam",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatör yetkisi talebi hangi makamca ve ne kadar sürede karara bağlanır?",
+     "cevap": "Talep Bakanlıkça on beş gün içinde karara bağlanır; belgelerin tam ve doğru, koşulların mevcut olduğunun tespiti halinde yetki Bakanlıkça verilir.",
+     "dayanak": "Posta-Kargo Tebliği md. 6/4, 7/1",
+     "kanit": "Talep, Bakanlıkça on beş gün içinde karara bağlanır. ... aranan koşulların varlığının tespit edilmesi halinde kişiye Bakanlıkça yetki verilir."
+    },
+    {
+     "alt_konu": "Operatörlerce çalıştırılan gümrük müşavirleri ve vekâletname",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre bir gümrük müşaviri Tebliğ kapsamında işlem yapmak üzere aynı anda kaç hızlı kargo firması ile sözleşme yapabilir?",
+     "cevap": "Aynı anda yalnızca bir hızlı kargo firması ile sözleşme yapabilir. Ayrıca operatör bünyesinde istihdam edilen gümrük müşavirleri Tebliğ hükümleri dışında gümrük müşavirliği faaliyetinde bulunamaz.",
+     "dayanak": "Posta-Kargo Tebliği md. 7/2",
+     "kanit": "Bir gümrük müşaviri, bu Tebliğ hükümleri kapsamında işlem yapmak üzere aynı anda yalnızca bir hızlı kargo firması ile sözleşme yapabilir. ... firma bünyesinde istihdam edilenler bu Tebliğ hükümleri dışında gümrük müşavirliği faaliyetinde bulunamazlar."
+    },
+    {
+     "alt_konu": "Operatörlerce çalıştırılan gümrük müşavirleri ve vekâletname",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatörler yetki kapsamındaki işlemlerde alıcıyı/göndericiyi temsil ederken vekâletname ibraz etmek zorunda mıdır?",
+     "cevap": "Hayır, vekâletname ibrazı aranmaz; operatör alıcıyı/göndericiyi ayrıca başka bir işleme gerek kalmaksızın temsil eder ve gönderilerin teslim-tesellüm belgelerinin alıcı/gönderici tarafından imzalanması yetkinin kendileri hesabına kullanıldığının kabulü anlamına gelir.",
+     "dayanak": "Posta-Kargo Tebliği md. 7/3",
+     "kanit": "Operatörlerce yetki kullanılırken vekâletname ibrazı aranmaz. Gönderilerin teslim ve tesellümüne ilişkin belgelerin alıcı/gönderici tarafından imzalanması bu yetkinin kendileri hesabına kullanıldığının kabul edildiği anlamına gelir."
+    },
+    {
+     "alt_konu": "Yurt dışından gelen gönderilerin tasnifi",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre yurt dışından gelen gönderiler otomatik barkod okuyucu ve X-ray kontrolünden geçirildikten sonra kaç kategoriye ayrılır?",
+     "cevap": "Dört kategoriye ayrılır: belge kontrolüne tabi doküman; basitleştirilmiş beyan kapsamında gelen ve belge kontrolüne tabi gönderiler; basitleştirilmiş beyan kapsamında gelen ve gümrükçe muayeneye tabi tutulacak gönderiler; bu kapsam dışında kalan gönderiler.",
+     "dayanak": "Posta-Kargo Tebliği md. 9/1",
+     "kanit": "Yurt dışından gelen gönderiler; otomatik barkod okuyucu ve X-ray kontrolünden geçirildikten sonra otomatik olarak aşağıdaki dört kategoriye ayrılır:"
+    },
+    {
+     "alt_konu": "Basitleştirilmiş gümrük beyannamesinin özet beyan yerine geçmesi",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatör tarafından basitleştirilmiş gümrük beyannamesi verilen gönderiler için özet beyan verilmesi zorunlu mudur?",
+     "cevap": "Hayır. Özet beyan süresi sona ermeden önce basitleştirilmiş gümrük beyannamesi verilen gönderiler için özet beyandan vazgeçilebilir; bu durumda beyanname özet beyanın asgari bilgilerini içerir ve tescil edilinceye kadar özet beyan statüsündedir.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/1",
+     "kanit": "basitleştirilmiş gümrük beyannamesi verilen yetki kapsamındaki gönderiler için özet beyan verilmesinden vazgeçilebilir. ... aynı Kanunun 61 inci maddesi uyarınca tescil edilinceye kadar özet beyan statüsündedir."
+    },
+    {
+     "alt_konu": "İhracat gönderilerinin beyan zamanı ve beyanda düzeltme",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre teşvik, sübvansiyon, parasal iade veya ayniyet tespitine konu olmayan ihracat gönderilerinin gümrüğe beyanı ne zamana kadar yapılır?",
+     "cevap": "Operatörde mevcut bilgi ve belgelere uygun olarak, taşıma aracı hareket gümrük idaresini terk edinceye kadar yapılır.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/6",
+     "kanit": "Yetki kapsamındaki ihracat gönderilerinden teşvik, sübvansiyon veya parasal iadeye ya da ayniyet tespitine konu olmayanların gümrüğe beyanı, operatörde mevcut bulunan bilgi ve belgelere uygun olarak taşıma aracı hareket gümrük idaresini terk edinceye kadar yapılır."
+    },
+    {
+     "alt_konu": "İhracat gönderilerinin beyan zamanı ve beyanda düzeltme",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatörce yapılan ihracat beyanında düzeltme hangi süre içinde yapılabilir?",
+     "cevap": "Taşıma aracı hareket gümrük idaresini terk ettikten sonraki yirmi dört saat içinde beyanda düzeltme yapılabilir.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/6",
+     "kanit": "Taşıma aracı hareket gümrük idaresini terk ettikten sonraki yirmi dört saat içinde beyanda düzeltme yapılabilir."
+    },
+    {
+     "alt_konu": "Operatörce beyan edilebilecek ihracat eşyasının ağırlık ve kıymet sınırı",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre ihracat rejimine konu eşyanın beyanının operatör tarafından Tebliğ hükümlerine göre yapılabilmesi için eşyanın miktar ve değeri hangi sınırları geçmemelidir?",
+     "cevap": "Miktarı brüt 600 kilogramı ve değeri 30.000 Avro'yu geçmemelidir.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/7",
+     "kanit": "miktarı brüt 600 kilogramı[7] ve değeri 30.000 Avro'yu[8] geçmeyen ihracat rejimine konu eşyanın beyanı bu Tebliğ hükümleri çerçevesinde operatör tarafından yapılır."
+    },
+    {
+     "alt_konu": "Hava ve kara yolu hızlı kargoda yetkili gümrük müdürlükleri ve transit",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre hava yolu ve kara yolu ile hızlı kargo taşımacılığına konu eşyanın gümrük işlemleri hangi gümrük müdürlüklerinde yapılır?",
+     "cevap": "Hava yolu ile hızlı kargo eşyasının işlemleri havalimanı gümrük müdürlüklerinden gerçekleştirilir; kara yolu ile hızlı kargo eşyasının işlemlerini yapmaya yetkili gümrük müdürlükleri Bakanlıkça (Gümrükler Genel Müdürlüğü) belirlenir.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/8",
+     "kanit": "hava yolu ile hızlı kargo taşımacılığına konu eşyanın gümrük işlemleri havalimanı gümrük müdürlüklerinden gerçekleştirilir. ... Kara yolu ile hızlı kargo taşımacılığına konu eşyanın gümrük işlemlerini gerçekleştirmeye yetkili gümrük müdürlükleri Bakanlıkça (Gümrükler Genel Müdürlüğü) belirlenir."
+    },
+    {
+     "alt_konu": "Hava ve kara yolu hızlı kargoda yetkili gümrük müdürlükleri ve transit",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre kara yolu ile hızlı kargo taşımacılığı kapsamında taşınan eşyada hangi rejim uygulanır ve asıl sorumlu kimdir?",
+     "cevap": "Transit rejimi çerçevesinde işlem yapılır; TIR Sözleşmesi hükümleri saklı kalmak üzere yurda getirilen eşyada ulusal transit rejiminde, gönderilen eşyada ise hem ulusal hem ortak transit rejiminde asıl sorumlu operatördür.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/9",
+     "kanit": "Kara yolu ile hızlı kargo taşımacılığı kapsamında taşınan eşya için transit rejimi çerçevesinde işlem yapılır. ... dolaylı temsil yetkisi kapsamında yurda getirilen eşyada ulusal transit rejiminde, gönderilen eşyada ise hem ulusal hem ortak transit rejiminde asıl sorumlu operatördür."
+    },
+    {
+     "alt_konu": "Aynı kişi adına aylık taşıma senedi sınırı",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre basitleştirilmiş beyanla serbest dolaşıma girişinde aylık sınırlamaya tabi tutulan eşya için aynı kişi adına bir takvim ayında en fazla kaç taşıma senedi muhteviyatı eşyaya izin verilir ve bu sayı aşılırsa ne yapılır?",
+     "cevap": "Eşyanın aynı veya farklı cinste olup olmadığına bakılmaksızın aynı kişi adına bir takvim ayında en fazla beş taşıma senedi muhteviyatı eşyanın serbest dolaşıma girişine izin verilir; sayı aşılırsa aşan miktar bir sonraki aya devredilerek basitleştirilmiş beyannameye konu edilemez, normal usulde detaylı beyana ilişkin hüküm kapsamında işlem tesis edilir.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/10",
+     "kanit": "aynı kişi adına bir takvim ayında en fazla beş taşıma senedi muhteviyatı eşyanın, aynı veya farklı cinste olup olmadığına bakılmaksızın ... aşan miktarın bir sonraki aya devredilerek basitleştirilmiş gümrük beyannamesine konu edilmesine izin verilmez ... (b) bendi kapsamında işlem tesis edilir."
+    },
+    {
+     "alt_konu": "KDV ve ÖTV istisna belgesi aranan eşya",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre KDV istisna belgesine bağlı olarak basitleştirilmiş gümrük beyannamesi ile beyan edilebilen eşya Özel Tüketim Vergisi Kanununa ekli (IV) sayılı listede yer alıyorsa ayrıca hangi belge aranır; belgeler ibraz edilmezse ne olur?",
+     "cevap": "\"KDV İstisna Belgesi\"ne ek olarak \"ÖTV İstisna Belgesi\" aranır; belgeler ibraz edilmezse bu eşya basitleştirilmiş gümrük beyannamesi ile beyan edilemez.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/11",
+     "kanit": "ayrıca Özel Tüketim Vergisi Kanununa ekli IV sayılı listede yer alması halinde \"ÖTV İstisna Belgesi\" aranır. Anılan belgelerin ibraz edilmemesi halinde, bu kapsamdaki eşya basitleştirilmiş gümrük beyannamesi ile beyan edilemez."
+    },
+    {
+     "alt_konu": "Teslim bilgilerinin gümrük müdürlüğüne iletilmesi",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre basitleştirilmiş beyan kapsamındaki eşyanın teslim tarihi ve alıcının kimlik/vergi numarası veya cep telefonu bilgisi gümrük müdürlüğüne ne zaman iletilir?",
+     "cevap": "Eşyanın alıcısına teslimini takip eden üç iş günü içerisinde gümrük müdürlüğüne elektronik ortamda iletilir.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/12",
+     "kanit": "eşyanın alıcısına teslimini takip eden üç iş günü içerisinde gümrük müdürlüğüne elektronik ortamda iletilir."
+    },
+    {
+     "alt_konu": "İhracatta eşyanın geçici depolama yerine alınmaksızın işlem görmesi",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatörün ihracat işlemlerinde eşyanın geçici depolama yerine alınmaması talebi değerlendirildiğinde sarı ve kırmızı hatta işlem gören eşya için nasıl işlem yapılır?",
+     "cevap": "Talep, fiziki koşullar ve risk analizi gözetilerek ilgili gümrük müdürlüğünce değerlendirilir; sarı hatta işlem gören taşıma senedi kapsamı eşya geçici depolama yerine alınmaksızın ihraç edilebilir, kırmızı hatta işlem gören eşya ise mutlaka geçici depolama yerine alınarak muayenesi tamamlanır.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/14",
+     "kanit": "Değerlendirme sonucuna göre sarı hatta işlem gören taşıma senedi kapsamı eşyanın geçici depolama yerine alınmaksızın ihracat işlemi gerçekleştirilebilir. Kırmızı hatta işlem gören taşıma senedi kapsamı eşya mutlak surette geçici depolama yerine alınarak muayene işlemi tamamlanır."
+    },
+    {
+     "alt_konu": "Özet beyandan basitleştirilmiş beyannameye taşıma senedi ekleme sınırı",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre özet beyandan basitleştirilmiş gümrük beyannamesine eklenecek taşıma senedi sayısı her bir operatör için hangi sınırı geçemez?",
+     "cevap": "Ekleme talebinin yapıldığı günden bir önceki ithalat basitleştirilmiş gümrük beyannamesi kapsamındaki toplam taşıma senedi sayısının %20'sini geçemez.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/16",
+     "kanit": "Özet beyandan Basitleştirilmiş Gümrük Beyannamesine eklenecek taşıma senedi sayısı, her bir operatör firma için, ekleme talebinin yapıldığı günden bir önceki ithalat basitleştirilmiş gümrük beyannamesi kapsamı toplam taşıma senedi sayısının % 20'sini geçemez."
+    },
+    {
+     "alt_konu": "Posta ve hızlı kargo yoluyla konsinye ihracat",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre konsinye olarak gönderilen eşyanın kesin satışı hangi süre içinde yapılmalıdır?",
+     "cevap": "İhraç tarihinden itibaren bir yıl içinde kesin satışının yapılması gerekir ve bu süre uzatılmaz; süre içinde satılamayan eşyanın gümrük mevzuatı çerçevesinde geri getirilmesi gerekir.",
+     "dayanak": "Posta-Kargo Tebliği md. 10/18-19",
+     "kanit": "konsinye olarak gönderilen eşyanın ihraç tarihinden itibaren bir yıl içinde kesin satışının yapılması gerekir ve bu süre uzatılmaz. ... konsinye ihraç izin süresi içinde satılamaması halinde, eşyanın gümrük mevzuatı çerçevesinde geri getirilmesi gerekir."
+    },
+    {
+     "alt_konu": "Beyandan operatörün sorumluluğu",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre eşyanın cins, tanım ve değerinin doğru ve eksiksiz beyan edilmesinden kim sorumludur ve aksi halde nasıl işlem yapılır?",
+     "cevap": "Operatör sorumludur; aksi durumlarda 5607 sayılı Kaçakçılıkla Mücadele Kanunu ve ilgili diğer mevzuat hükümleri çerçevesinde cezai işlem tesis edilir.",
+     "dayanak": "Posta-Kargo Tebliği md. 11/3",
+     "kanit": "Eşyanın cins ve tanımı ile değerinin doğru ve eksiksiz olarak beyan edilmesi operatörün sorumluluğundadır. Aksi durumlarda 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu ve ilgili diğer mevzuat hükümleri çerçevesinde cezai işlem tesis edilir."
+    },
+    {
+     "alt_konu": "Vergilerin operatörce tahsili ve gümrüğe ödenme süresi",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre basitleştirilmiş gümrük beyannamesiyle beyan edilen gönderilerde operatörün gümrük idaresi adına tahsil ettiği vergiler hangi süre içinde ödenir?",
+     "cevap": "Eşyanın operatöre teslimini takip eden yedi gün içerisinde ödenir; posta idaresi için bu süre eşyanın alıcısına tesliminden itibaren başlar.",
+     "dayanak": "Posta-Kargo Tebliği md. 12/2",
+     "kanit": "gümrük idaresi adına tahsil edilen vergiler eşyanın operatöre teslimini takip eden yedi gün içerisinde ödenir. Posta idaresi için söz konusu süre, Gümrük Yönetmeliğinin 462 nci maddesinin üçüncü fıkrası gereğince, eşyanın alıcısına tesliminden itibaren başlar."
+    },
+    {
+     "alt_konu": "Mahrece iade edilen eşyada maktu verginin iptali",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre serbest dolaşıma girişinde maktu vergi tahsil edilmiş olan eşyanın mahrecine iadesi talep edilirse ne yapılması gerekir?",
+     "cevap": "Eşyanın muayeneye tabi tutulması ve serbest dolaşıma giriş beyannamesindeki ilgili taşıma senedinin iptali gerekir.",
+     "dayanak": "Posta-Kargo Tebliği md. 13/4",
+     "kanit": "Mahrece iadesi talep edilen eşyanın serbest dolaşıma girişinde maktu vergi tahsil edilmişse bu eşyanın muayeneye tabi tutulması ve serbest dolaşıma giriş beyannamesindeki ilgili taşıma senedinin iptali gerekir."
+    },
+    {
+     "alt_konu": "Operatörlere uygulanacak müeyyideler",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre başvuru koşullarından birini veya birkaçını kaybettiği anlaşılan operatör hakkında nasıl işlem yapılır?",
+     "cevap": "Koşul veya koşullar yeniden sağlanıncaya kadar operatörün Tebliğ kapsamındaki yetkiden faydalanmasına izin verilmez.",
+     "dayanak": "Posta-Kargo Tebliği md. 17/1",
+     "kanit": "4 üncü maddede yer alan koşullardan birinin veya birden fazlasının operatörce kaybedildiğinin anlaşılması halinde, bu koşul veya koşullar yeniden sağlanıncaya kadar operatörün bu Tebliğ kapsamındaki yetkiden faydalanmasına izin verilmez."
+    },
+    {
+     "alt_konu": "Operatörlere uygulanacak müeyyideler",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre Tebliğ hükümlerine aykırı davranan operatöre uygulanacak müeyyide nasıl değerlendirilir?",
+     "cevap": "Fiil daha ağır bir cezai yaptırımı gerektirmiyorsa Gümrük Kanununun 241 inci maddesinin birinci fıkrası uygulanır; müeyyide her bir taşıma senedi bazında ayrı değerlendirilir. Ancak birden fazla taşıma senedinde düzeltmeye konu veri alanı aynı mahiyetteyse ceza yalnızca basitleştirilmiş gümrük beyannamesi için uygulanır.",
+     "dayanak": "Posta-Kargo Tebliği md. 17/3, 17/5",
+     "kanit": "fiilin daha ağır bir cezai yaptırımı gerektirmemesi halinde, Kanunun 241 inci maddesinin birinci fıkrası uyarınca işlem yapılır. ... her bir taşıma senedi bazında ayrı değerlendirilir. ... yalnızca basitleştirilmiş gümrük beyannamesi için uygulanır."
+    },
+    {
+     "alt_konu": "Tebliğ kapsamındaki ihracatta ihracatçı birliği onayı",
+     "soru": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre Tebliğ kapsamında operatör tarafından yapılan ihracatta ihracatçı birliği onayı aranır mı?",
+     "cevap": "Hayır, Tebliğ hükümleri kapsamında yapılan ihracatta ihracatçı birliği onayı aranmaz.",
+     "dayanak": "Posta-Kargo Tebliği md. 18/2",
+     "kanit": "Bu Tebliğ hükümleri kapsamında yapılan ihracatta ihracatçı birliği onayı aranmaz."
+    },
+    {
+     "alt_konu": "Basitleştirilmiş beyanla serbest dolaşıma girebilecek eşya ve sınırlayıcı hükümler",
+     "soru": "2022/9 sayılı Genelgeye göre posta veya hızlı kargo yoluyla gelen kişisel kullanıma mahsus kitap veya benzeri basılı yayının basitleştirilmiş gümrük beyannamesi ile serbest dolaşıma girebilmesi için kıymet sınırı nedir?",
+     "cevap": "Kıymeti 1500 Avro'yu geçmemelidir.",
+     "dayanak": "2022/9 Genelge I/1.1-a",
+     "kanit": "Kıymeti 1500 Avro'yu geçmeyen kişisel kullanıma mahsus kitap veya benzeri basılı yayın."
+    },
+    {
+     "alt_konu": "Basitleştirilmiş beyanla serbest dolaşıma girebilecek eşya ve sınırlayıcı hükümler",
+     "soru": "2022/9 sayılı Genelgeye göre posta veya hızlı kargo yoluyla gelen ilaç cinsi eşya ile takviye edici gıdalar hangi kıymet sınırına kadar basitleştirilmiş gümrük beyannamesi ile beyan edilir?",
+     "cevap": "Kıymeti 1500 Avro'yu geçmeyen ilaç cinsi eşya ile takviye edici gıdalar basitleştirilmiş gümrük beyannamesi ile beyan edilir.",
+     "dayanak": "2022/9 Genelge I/1.1-c",
+     "kanit": "Kararın 62 nci maddesi kapsamı kıymeti 1500 Avro'yu geçmeyen ilaç cinsi eşya ile takviye edici gıdalar,"
+    },
+    {
+     "alt_konu": "Basitleştirilmiş beyanla serbest dolaşıma girebilecek eşya ve sınırlayıcı hükümler",
+     "soru": "2022/9 sayılı Genelgeye göre basitleştirilmiş gümrük beyannamesi ile serbest dolaşıma giriş beyanında bulunulan eşyaya diğer mevzuattan kaynaklanan sınırlayıcı ve kısıtlayıcı hükümler uygulanır mı?",
+     "cevap": "Hayır; Kararın ilgili hükmü uyarınca diğer mevzuattan kaynaklanan sınırlayıcı ve kısıtlayıcı hükümler uygulanmaz.",
+     "dayanak": "2022/9 Genelge I/1.2; Posta-Kargo Tebliği md. 18/1",
+     "kanit": "1.1. bölümünde sayılan eşyanın serbest dolaşıma giriş beyanında Kararın 112 nci maddesi uyarınca diğer mevzuattan kaynaklanan sınırlayıcı ve kısıtlayıcı hükümler uygulanmaz."
+    },
+    {
+     "alt_konu": "Basitleştirilmiş ithalat beyannamesine eklenebilecek taşıma senedi sayısı",
+     "soru": "2022/9 sayılı Genelgeye göre ithalat işlemlerinde bir basitleştirilmiş gümrük beyannamesine en fazla kaç taşıma senedi eklenebilir?",
+     "cevap": "En fazla 500 (beş yüz) taşıma senedi eklenebilir (ihracatta bu sayı 2.500'dür).",
+     "dayanak": "2022/9 Genelge I/1.3",
+     "kanit": "Bir basitleştirilmiş gümrük beyannamesine eklenebilecek taşıma senedi sayısı ithalat işlemleri için maksimum 500 (beş yüz) adet[3] ile sınırlıdır."
+    },
+    {
+     "alt_konu": "Normal usulde detaylı beyana tabi posta ve hızlı kargo eşyası",
+     "soru": "2022/9 sayılı Genelgeye göre posta veya hızlı kargo yoluyla bir gerçek kişiye gelen ve ticari miktar ve mahiyet arz etmeyen eşyanın serbest dolaşıma giriş beyanı hangi değer sınırına kadar normal usulde detaylı beyan ile yapılır?",
+     "cevap": "Değeri 1500 Avro'yu aşmayan eşyanın beyanı normal usulde detaylı beyan ile yapılır.",
+     "dayanak": "2022/9 Genelge I/2.1",
+     "kanit": "1500 Avro'yu aşmayan, ticari miktar ve mahiyet arz etmeyen eşyanın serbest dolaşıma giriş beyanı normal usulde detaylı beyan ile yapılır."
+    },
+    {
+     "alt_konu": "Normal usulde detaylı beyana tabi posta ve hızlı kargo eşyası",
+     "soru": "2022/9 sayılı Genelgeye göre posta veya hızlı kargo eşyasının operatör tarafından normal usulde detaylı beyanında BİLGE sisteminde hangi kod seçilir?",
+     "cevap": "Detaylı Beyan modülünden \"BS20\" kodu seçilir.",
+     "dayanak": "2022/9 Genelge I/2.2",
+     "kanit": "Eşyanın operatör tarafından beyanında BİLGE Sisteminde Detaylı Beyan modülünden \"BS20\" kodu seçilir."
+    },
+    {
+     "alt_konu": "Normal usulde detaylı beyana tabi posta ve hızlı kargo eşyası",
+     "soru": "2022/9 sayılı Genelgeye göre normal usulde detaylı beyan ile serbest dolaşıma giren posta ve hızlı kargo eşyasında diğer mevzuattan kaynaklanan sınırlamalar bakımından nasıl işlem yapılır?",
+     "cevap": "Basitleştirilmiş beyandan farklı olarak, diğer mevzuattan kaynaklanan sınırlayıcı hükümleri devre dışı bırakan Karar hükmü (112 nci madde) uygulanmaz; gümrük ve dış ticaret mevzuatının genel hükümleri uyarınca vergiler ödenerek ve diğer yükümlülükler yerine getirilerek işlem yapılır.",
+     "dayanak": "2022/9 Genelge I/2.5",
+     "kanit": "Eşyanın serbest dolaşıma giriş beyanında Kararın 112 nci maddesi uygulanmaz; gümrük ve dış ticaret mevzuatının genel hükümleri uyarınca vergileri ödenerek ve diğer yükümlülükler yerine getirilerek işlem yapılır."
+    },
+    {
+     "alt_konu": "Basitleştirilmiş ihracat beyanı: taşıma senedi sınırı ve konsinye ihracat kodları",
+     "soru": "2022/9 sayılı Genelgeye göre ihracat işlemlerinde bir basitleştirilmiş gümrük beyannamesine en fazla kaç taşıma senedi eklenebilir?",
+     "cevap": "En fazla 2.500 (iki bin beş yüz) taşıma senedi eklenebilir (ithalatta 500).",
+     "dayanak": "2022/9 Genelge I/3.2",
+     "kanit": "Bir basitleştirilmiş gümrük beyannamesine eklenebilecek taşıma senedi sayısı ihracat işlemleri için maksimum 2.500 (iki bin beş yüz) adet ile sınırlıdır."
+    },
+    {
+     "alt_konu": "Basitleştirilmiş ihracat beyanı: taşıma senedi sınırı ve konsinye ihracat kodları",
+     "soru": "2022/9 sayılı Genelgeye göre konsinye ihracat için düzenlenen basitleştirilmiş gümrük beyannamesinde hangi muafiyet kodu ve rejim kodu kullanılır?",
+     "cevap": "KNSY muafiyet kodu seçilir ve 1000 rejim kodu kullanılır; başka bir muafiyet kodu beyan edilemez, eşya kodu alanına asgari altılı tarife alt pozisyonu girilir ve proforma fatura eklenir.",
+     "dayanak": "2022/9 Genelge I/3.4",
+     "kanit": "Konsinye ihracat için düzenlenen basitleştirilmiş gümrük beyannamesinde KNSY muafiyet kodu seçilir. ... a) 1000 rejim kodu kullanılır. ... c) Başka bir muafiyet kodunun beyan edilmesine izin verilmez. ... ç) Proforma fatura eklenir."
+    },
+    {
+     "alt_konu": "Kıymet tespitinde emsal navlun gideri",
+     "soru": "2022/9 sayılı Genelgeye göre posta veya hızlı kargo eşyasının kıymetine eklenecek navlun gideri belgelerde ayrı gösterilmediğinde veya navlun makbuzu ibraz edilemediğinde ne kadar emsal navlun gideri eklenir?",
+     "cevap": "3 (üç) avro tutarında emsal navlun gideri fiilen ödenen veya ödenecek fiyata eklenir. Bu, navlunun dahil olduğu teslim şekillerinde navlunun belgede ayrı gösterilmediği hallerde ve navlunun dahil olmadığı teslim şekillerinde navlun makbuzu ibrazının imkânsız veya kabul edilemez olduğu hallerde uygulanır.",
+     "dayanak": "2022/9 Genelge II",
+     "kanit": "Navlun giderinin bu belgelerde ayrı gösterilmediği durumlarda, 3 (üç) avro tutarında emsal navlun gideri fiilen ödenen veya ödenecek fiyata eklenir. ... navlun makbuzu ibrazının imkansız olduğu veya kabul edilebilir nitelikte bulunmadığı hallerde, 3 (üç) avro tutarında emsal navlun gideri"
+    },
+    {
+     "alt_konu": "Posta ve hızlı kargo yoluyla gelen nakit para ve çek",
+     "soru": "2022/9 sayılı Genelgeye göre posta veya hızlı kargo yoluyla gelen çek ve nakit para basitleştirilmiş gümrük beyannamesine konu edilebilir mi?",
+     "cevap": "Hayır; çek ve nakit para basitleştirilmiş gümrük beyannamesine konu edilemez, alıcısına teslim edilmeyerek rezerve odasında muhafaza altına alınır. Nakit para için alıcıdan açıklama alınıp \"Nakit Açıklama Tutanağı\" düzenlendikten, çek için ise doğrudan sözlü beyan düzenlenerek alıcısına teslim edilir.",
+     "dayanak": "2022/9 Genelge IV/1",
+     "kanit": "Posta veya hızlı kargo taşımacılığı yoluyla gelen çek ve nakit para posta idaresi ya da hızlı kargo firması tarafından basitleştirilmiş gümrük beyannamesine konu edilemez ve alıcısına teslim edilmeyerek rezerve odasında muhafaza altına alınır. ... Sonrasında nakit para sözlü beyan düzenlenerek alıcısına teslim edilir."
+    },
+    {
+     "alt_konu": "Şahsi tedavide kullanılacak ilaçlar",
+     "soru": "2022/9 sayılı Genelgeye göre posta veya hızlı kargo yoluyla şahsi tedavide kullanılmak üzere getirilen ilaçların girişinde rapor veya reçete aranmadan izin verilebilir mi?",
+     "cevap": "Kural olarak sağlık kuruluşu raporu, doktor raporu veya reçete ibrazı gerekir; ancak gümrük memurunca kişinin yazılı beyanı ve yapılacak araştırma sonucunda ilacın alıcının hastalığının tedavisiyle ilgili olduğuna kesin kanaat getirilirse belge aranmaksızın girişine izin verilebilir.",
+     "dayanak": "2022/9 Genelge IV/2",
+     "kanit": "gümrük memurunca alıcı şahsın hastalığının tedavisiyle ilgili olduğuna kişinin yazılı beyanı ve yapılacak araştırma sonucunda kesin olarak kanaat getirilmesi durumunda belge aranmaksızın eşyanın girişine izin verilebilir."
+    },
+    {
+     "alt_konu": "Takviye edici gıdalar ve sporcu gıdaları",
+     "soru": "2022/9 sayılı Genelgeye göre milli sporcuların sporcu gıdalarını posta veya hızlı kargo yoluyla getirebilmeleri için hangi belgeleri ibraz etmeleri gerekir?",
+     "cevap": "Milli Sporcu Belgesi ile ilgili sezonda federasyon faaliyetlerine katılabilme iznini gösteren ve aktif sporcu olunduğunun kanıtı sayılan Vize İşlemi Uygulanmış Lisans Belgesini ilgili gümrük idaresine ibraz etmeleri gerekir.",
+     "dayanak": "2022/9 Genelge IV/3",
+     "kanit": "milli sporcuların ise Milli Sporcu Belgesini ve ilgili sezonda federasyon faaliyetlerine katılabilme izin işlemini ifade eden ve sporcunun aktif sporcu olduğunun kanıtı olarak kabul edilen Vize İşlemi Uygulanmış Lisans Belgesini"
+    },
+    {
+     "alt_konu": "Kozmetik ürünleri ile ayakkabı, oyuncak ve saraciye ürünleri",
+     "soru": "2022/9 sayılı Genelgeye göre kozmetik ürünlerinin posta veya hızlı kargo yoluyla ithalinde nasıl işlem yapılır?",
+     "cevap": "Kozmetik ürünlerinin Kararın 62 nci maddesinin birinci fıkrası kapsamında ithali mümkün değildir; muafen ithali mümkün olmayan bu eşyaya kıymet ve miktarına bakılmaksızın genel hükümler çerçevesinde gümrük ve dış ticaret mevzuatı uygulanarak işlem yapılabilir.",
+     "dayanak": "2022/9 Genelge IV/4, IV/6",
+     "kanit": "kozmetik ürünlerinin Kararın 62 nci maddesinin birinci fıkrası kapsamında ithali mümkün bulunmamaktadır. ... muafen ithali mümkün olmayan eşyaya, kıymetine ve miktarına bakılmaksızın genel hükümler çerçevesinde, yürürlükteki gümrük ve dış ticaret mevzuatının ilgili hükümleri uygulanarak işlem yapılabilir."
+    },
+    {
+     "alt_konu": "Kozmetik ürünleri ile ayakkabı, oyuncak ve saraciye ürünleri",
+     "soru": "2022/9 sayılı Genelgeye göre hangi ürün grupları, posta veya hızlı kargo yoluyla gelen eşyanın basitleştirilmiş gümrük beyannamesiyle beyanına imkân veren 2009/15481 sayılı Karar hükmü kapsamında beyan edilemez ve bu sınırlama hangi eşyaya uygulanmaz?",
+     "cevap": "Ayakkabılar, oyuncaklar ve saraciye ürünleri (gerçek ve suni deriden çanta ve bavullar) bu kapsamda beyan edilemez; düzenlemenin yayımı tarihinden önce yüklemesi yapılmış veya Türkiye Gümrük Bölgesine girmiş eşyaya bu hüküm uygulanmaz.",
+     "dayanak": "2022/9 Genelge IV/5",
+     "kanit": "Ayakkabılar, oyuncaklar ile saraciye ürünlerinin (gerçek ve suni deriden yapılmış çantalar ve bavullar) ... beyanı mümkün bulunmamaktadır. Ancak bu Genelgenin yayımlandığı tarihten önce yüklemesi yapılmış olan veya Türkiye Gümrük Bölgesine giren eşyaya bu hüküm uygulanmaz."
+    },
+    {
+     "alt_konu": "Posta ve hızlı kargo ile ithali yasak veya izne bağlı eşya",
+     "soru": "2022/9 sayılı Genelgeye göre 2313 sayılı Kanun kapsamında bulunmayan ancak uyuşturucu ve uyarıcı etkiye haiz maddeler posta veya hızlı kargo yoluyla ithal veya ihraç edilebilir mi?",
+     "cevap": "Hayır; bu maddelerin posta veya hızlı kargo taşımacılığı yoluyla ithali de ihracı da mümkün değildir.",
+     "dayanak": "2022/9 Genelge IV/7",
+     "kanit": "2313 sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanun kapsamında bulunmamakla birlikte uyuşturucu ve uyarıcı etkiye haiz maddelerin posta veya hızlı kargo taşımacılığı yoluyla ithali ve ihracı mümkün bulunmamaktadır."
+    },
+    {
+     "alt_konu": "Posta ve hızlı kargo ile ithali yasak veya izne bağlı eşya",
+     "soru": "2022/9 sayılı Genelgeye göre alkollü ürünler, tütün ürünleri ve elektronik sigara ile elektronik nargilenin posta veya hızlı kargo yoluyla ithali mümkün müdür?",
+     "cevap": "Hayır; alkol ve alkollü ürünler, tütün ve tütün ürünleri ile elektronik sigara ve elektronik nargile dahil her türlü mamul ve bunların aksam, yedek parça ve solüsyonlarının Kararın 62 ve 86 ncı maddeleri kapsamında posta veya hızlı kargo yoluyla ithali mümkün değildir.",
+     "dayanak": "2022/9 Genelge IV/11",
+     "kanit": "elektronik sigara ve elektronik nargile dahil her türlü mamul ve bu mamullerin tüketiminde kullanılan elektronik cihaz aksam, yedek parça ve solüsyonlarının Kararın 62 nci ve 86 ncı maddeleri kapsamında posta veya hızlı kargo taşımacılığı yoluyla ithali mümkün bulunmamaktadır."
+    },
+    {
+     "alt_konu": "Posta ve hızlı kargo ile ithali yasak veya izne bağlı eşya",
+     "soru": "2022/9 sayılı Genelgeye göre silah ve tüfekler hariç olmak üzere Bazı Patlayıcı Maddeler, Ateşli Silahlar, Bıçaklar ve Benzeri Aletlerin İthaline İlişkin Tebliğ kapsamındaki eşyanın posta veya hızlı kargo yoluyla serbest dolaşıma sokulmasında hangi belge aranır?",
+     "cevap": "Kıymet, miktar veya ağırlık bakımından herhangi bir istisna olmaksızın Emniyet Genel Müdürlüğünden alınacak genel güvenlik ve asayiş yönünden uygunluk yazısı aranır. Yurt içinde kayıt ve ruhsatı bulunmayan silah ve tüfeklerin ise, Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmelikte istisna tutulan kişiler hariç, posta veya hızlı kargo ile getirilmesi yasaktır.",
+     "dayanak": "2022/9 Genelge IV/13",
+     "kanit": "Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmeliğin 40 ıncı maddesinde yer alan kişiler hariç, yurtiçinde kayıt ve ruhsatı bulunmayan silah ve tüfeklerin serbest dolaşıma sokulması mümkün bulunmadığından söz konusu eşyanın posta veya hızlı kargo taşımacılığı yoluyla da getirilmesi yasaktır. ... kıymeti, miktarı veya ağırlığı hakkında herhangi bir istisna getirilmeksizin Emniyet Genel Müdürlüğünden alınacak genel güvenlik ve asayiş yönünden uygunluk yazısının ibrazı gerekmektedir."
+    },
+    {
+     "alt_konu": "Posta ve hızlı kargo ile cep telefonu",
+     "soru": "2022/9 sayılı Genelgeye göre cep telefonu posta veya hızlı kargo yoluyla getirilebilir mi; istisnası var mıdır?",
+     "cevap": "Cep telefonu posta veya hızlı kargo yoluyla muafen veya vergileri ödenerek hiçbir surette getirilemez. İstisna olarak, IMEI numarası Türkiye'de kayıtlı olup yurt dışında kalan telefonun Kararda yolcu eşyası için öngörülen 3 aylık süre içinde geri gönderilmesi ve kaydın teyidi halinde \"YLC0\" muafiyet koduyla muafen teslim edilebilir.",
+     "dayanak": "2022/9 Genelge IV/12",
+     "kanit": "Cep telefonunun posta veya hızlı kargo taşımacılığı yoluyla muafen veya vergileri ödenerek hiçbir surette getirilmesi mümkün bulunmamaktadır. ... 3 aylık süre içerisinde posta veya hızlı kargo taşımacılığı yoluyla geri gönderilmesi durumunda ... \"YLC0\" muafiyet kodu kullanılarak beyan yapılır."
+    },
+    {
+     "alt_konu": "Fikri ve sınai mülkiyet hakkı ihlali",
+     "soru": "2022/9 sayılı Genelgeye göre posta veya hızlı kargo eşyasının gümrük kontrolü sırasında fikri ve sınai mülkiyet haklarının ihlal edildiği tespit edilirse ne yapılır?",
+     "cevap": "Eşyaya ilişkin gümrük işlemleri durdurularak Gümrük Kanununun 57 nci maddesi uyarınca işlem başlatılır.",
+     "dayanak": "2022/9 Genelge V/1",
+     "kanit": "fikri ve sınai mülkiyet haklarının ihlal edildiğinin tespit edilmesi halinde, eşyaya ilişkin gümrük işlemleri durdurularak Gümrük Kanununun 57 nci maddesi uyarınca işlem başlatılması gerekmektedir."
+    },
+    {
+     "alt_konu": "Posta çantaları ve kolilerin sevki, ihracı ve kontrol yönetmeliği",
+     "soru": "4458 sayılı Gümrük Kanununa göre Türkiye Gümrük Bölgesine gelen posta çantaları ve koliler nereye sevk edilir ve gümrük muayenesi nerede yapılır?",
+     "cevap": "İlk giriş kapısından itibaren gümrük gözetimi altında posta idarelerine sevk edilir ve buralarda gümrük muayenesine tabi tutulur.",
+     "dayanak": "GK md. 173/2",
+     "kanit": "Türkiye Gümrük Bölgesine gelen bütün posta çantaları ve koliler ilk giriş kapısından itibaren gümrük gözetimi altında posta idarelerine sevk edilir ve buralarda gümrük muayenesine tabi tutulur."
+    },
+    {
+     "alt_konu": "Posta çantaları ve kolilerin sevki, ihracı ve kontrol yönetmeliği",
+     "soru": "4458 sayılı Gümrük Kanununa göre Türkiye Gümrük Bölgesinden gönderilecek posta çantaları ve kolilerin ihracına çıkış gümrüğünde hangi tespitlerden sonra izin verilir?",
+     "cevap": "Daha önce gümrükçe kontrol edildiklerine ilişkin gümrük idaresi mühür veya diğer işaretlerinin bulunup bulunmadığı ve kapların sağlamlığı tespit edildikten sonra ihracına izin verilir.",
+     "dayanak": "GK md. 173/3",
+     "kanit": "bunların daha önce gümrükçe kontrol edildiğine ilişkin gümrük idarelerinin mühür veya diğer işaretlerinin bulunup bulunmadığı ve kapların sağlamlığı tespit edildikten sonra çıkış gümrüğünden, ihracına izin verilir."
+    },
+    {
+     "alt_konu": "Posta çantaları ve kolilerin sevki, ihracı ve kontrol yönetmeliği",
+     "soru": "4458 sayılı Gümrük Kanununa göre posta gönderilerine ait gümrük kontrolünün kapsamı ve yöntemi nasıl belirlenir?",
+     "cevap": "Ulaştırma Bakanlığı ve Gümrük Müsteşarlığının bağlı olduğu Bakanlıkça müştereken hazırlanacak bir yönetmelikle belirlenir.",
+     "dayanak": "GK md. 173/4",
+     "kanit": "kapsamı ve yöntemi, Ulaştırma Bakanlığı ve Gümrük Müsteşarlığının bağlı olduğu Bakanlıkça müştereken hazırlanacak bir yönetmelikle belirlenir."
+    },
+    {
+     "alt_konu": "Posta eşyasının konulacağı yerler ve bekleme süresi",
+     "soru": "4458 sayılı Gümrük Kanununa göre posta yoluyla gelen veya giden eşya nereye ve kimin sorumluluğunda konulur?",
+     "cevap": "Genel antrepo sayılan yerlere, posta idaresinin sorumluluğu ve gümrük idaresinin gözetimi altında konulur.",
+     "dayanak": "GK md. 174",
+     "kanit": "Posta yoluyla Türkiye Gümrük Bölgesine gelen veya Gümrük Bölgesinden giden eşya, 93 ila 107 nci maddelerde belirtilen hükümlere tabi genel antrepo sayılan yerlere, posta idaresinin sorumluluğu ve gümrük idaresinin gözetimi altında konulur."
+    },
+    {
+     "alt_konu": "Posta eşyasının konulacağı yerler ve bekleme süresi",
+     "soru": "4458 sayılı Gümrük Kanununa göre posta eşyasının genel antrepo sayılan yerlerde bekleme süresi neye göre belirlenir?",
+     "cevap": "Türkiye'nin taraf olduğu uluslararası posta anlaşmaları hükümlerine tabidir.",
+     "dayanak": "GK md. 174",
+     "kanit": "Eşyanın buralarda bekleme süresi, Türkiye'nin taraf olduğu uluslararası posta anlaşmaları hükümlerine tabidir."
+    },
+    {
+     "alt_konu": "Ticari mahiyette olmayan posta eşyasının beyanı",
+     "soru": "4458 sayılı Gümrük Kanununa göre posta yoluyla gelen ticari mahiyette olmayan eşyanın gümrük idaresine sunulmasında ayrıca beyanname aranır mı?",
+     "cevap": "Hayır; ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmündedir, ayrıca beyanname aranmaz. Ticari mahiyetteki posta eşyası ise Kanunun 58 ilâ 71 inci madde hükümleri uyarınca beyan edilir.",
+     "dayanak": "GK md. 175",
+     "kanit": "ticari mahiyetteki eşya, 58 ilâ 71 inci madde hükümleri uyarınca gümrük idarelerine beyan edilir. ... Ticari mahiyette olmayan eşyanın gümrük idaresine sunulması sırasında, ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmünde olup, ayrıca beyanname aranmaz."
+    },
+    {
+     "alt_konu": "Listelerin gümrüğe verilmesi ve ticari-ticari olmayan eşya ayrımı",
+     "soru": "Gümrük Yönetmeliğine göre posta idareleri gelen kolilere ait listeleri gümrük idaresine nasıl verir?",
+     "cevap": "Listeleri vakit geçirmeden ve kolilerin birikmesini beklemeden düzenler, iki nüshasını imza karşılığında gümrük idaresine verir; liste her posta için ayrı ayrı veya bir günde gelen bütün koliler için tek liste olarak düzenlenebilir.",
+     "dayanak": "GY md. 456/1",
+     "kanit": "Posta idareleri, gelen kolilere ait listeleri, vakit geçirmeden ve kolilerin birikmesini beklemeden düzenler ve iki nüshasını imza karşılığında gümrük idaresine verir."
+    },
+    {
+     "alt_konu": "Listelerin gümrüğe verilmesi ve ticari-ticari olmayan eşya ayrımı",
+     "soru": "Gümrük Yönetmeliğine göre posta kolilerindeki ticari nitelikte olmayan eşya için koli alıcısına tebligat yapılır mı?",
+     "cevap": "Hayır; ticari nitelikte olmayan eşya için koli alıcısına tebligat yapılmaksızın muayene ve tahakkuk işlemleri yapılır. Ticari nitelikteki eşyada ise posta idaresi alıcıya gümrüğe başvurması gerektiğini bir haber kâğıdı ile bildirir.",
+     "dayanak": "GY md. 458/2-3",
+     "kanit": "ticari nitelikte olmayan eşya için ikinci fıkraya göre koli alıcısına tebligat yapılmaksızın, muayene ve tahakkuk işlemleri yapılır. ... giriş işlemlerinin yapılabilmesi için en kısa zamanda gümrük idaresine başvurulması gerektiğini bir haber kağıdı ile bildirir."
+    },
+    {
+     "alt_konu": "Posta yoluyla gelen eşyada beyan şekli (Déclaration en Douane)",
+     "soru": "Gümrük Yönetmeliğine göre posta yoluyla gelen ve ticari nitelikte olmayan hediyelik, numunelik, zat ve aile ihtiyacı eşyası için hangi belge beyanname olarak kabul edilir?",
+     "cevap": "Déclaration en Douane'lar gümrük idaresince beyanname olarak kabul edilir; Déclaration en Douane olmadan gelen ticari olmayan eşya için sözlü beyan formu, ticari nitelikteki eşya için gümrük beyannamesi düzenlenir.",
+     "dayanak": "GY md. 459/1-3",
+     "kanit": "Posta yolu ile gelen ve ticari nitelikte olmayan hediyelik, numunelik, zat ve aile ihtiyaçlarını karşılayan ve benzeri eşya için, Déclaration en Douane'lar gümrük idaresince beyanname olarak kabul edilir. ... Déclaration en Douane olmadan gelen ve ticari nitelik arz etmeyen eşya içeren koliler için sözlü beyan formu düzenlenir."
+    },
+    {
+     "alt_konu": "Posta kolilerinin muayenesi",
+     "soru": "Gümrük Yönetmeliğine göre ticari nitelikte olmayan ve beyan formu veya Déclaration en Douane kapsamındaki posta eşyasının muayenesi hangi yöntemle yapılır?",
+     "cevap": "Örnekleme yöntemi ile yapılır; ticari nitelikte olup gümrük beyannamesi verilmiş eşyanın muayenesi ise Gümrük Yönetmeliğinin genel muayene hükümlerine (180-196 ncı maddeler) göre yapılır. Muayene, posta idaresi memurlarının huzurunda gerçekleştirilir.",
+     "dayanak": "GY md. 460/1-2",
+     "kanit": "posta idaresi memurlarının huzurunda muayene eder. ... Ticari nitelikte olup gümrük beyannamesi verilmiş eşyanın muayenesi 180 ila 196 ncı madde hükümleri uyarınca; ticari nitelikte olmayan ve 172 nci maddede belirtilen beyan formu veya Déclaration en Douane kapsamı eşyanın muayenesi ise, örnekleme yöntemi ile yapılır."
+    },
+    {
+     "alt_konu": "Gümrük veznesi bulunmayan posta idarelerinde vergilerin tahsili",
+     "soru": "Gümrük Yönetmeliğine göre gümrük veznesi bulunmayan posta idarelerinde kolilere ait vergiler kim tarafından tahsil edilir ve gümrük veznesine ne zamana kadar ödenir?",
+     "cevap": "Posta idaresi tarafından tahsil edilir ve tahsil edilen paralar en geç bir hafta içinde, tahakkuk belgelerine dayanan bir liste ile gümrük veznesine alındı karşılığında ödenir.",
+     "dayanak": "GY md. 462/1, 462/3",
+     "kanit": "gümrük veznesi bulunmayan posta idarelerinde kolilere ait tahakkuk ettirilmiş vergiler posta idaresi tarafından tahsil edilir. ... Posta idaresi gümrük adına tahsil ettiği paraları en geç bir hafta içinde, tahakkuk belgelerine dayanan bir liste ile gümrük veznesine alındı karşılığında öder."
+    },
+    {
+     "alt_konu": "Posta eşyasının başka bir gümrük idaresine sevki",
+     "soru": "Gümrük Yönetmeliğine göre mektup postası dışında kalan posta eşyası transit rejimi çerçevesinde başka bir gümrük idaresine sevk edilirken transit beyannamesi ve mühürleme nasıl yapılır?",
+     "cevap": "Her araç için ayrı bir transit beyannamesi düzenlenir; posta çuvalları mühürlü ise taşıt aracı ayrıca mühürlenmez.",
+     "dayanak": "GY md. 468/1",
+     "kanit": "Bu durumda, her araç için ayrı bir transit beyannamesi düzenlenir. Posta çuvalları mühürlü ise ayrıca taşıt aracı mühürlenmez."
+    },
+    {
+     "alt_konu": "Posta eşyasının başka bir gümrük idaresine sevki",
+     "soru": "Gümrük Yönetmeliğine göre posta eşyasının aynı il içerisindeki havalimanından Posta İşleme Merkezine sevki hangi belge ile ve kimin sorumluluğunda yapılabilir?",
+     "cevap": "Posta Teslim Bordrosu (CN-38 veya CN-41) ile posta idaresinin sorumluluğu altında sevk edilebilir.",
+     "dayanak": "GY md. 468/2",
+     "kanit": "Söz konusu eşyanın aynı il içerisindeki havalimanından Posta İşleme Merkezine Posta Teslim Bordrosu (CN-38 veya CN-41) ile posta idaresinin sorumluluğu altında sevk edilmesi mümkündür."
+    },
+    {
+     "alt_konu": "Posta gönderilerinin konulduğu yerler ve posta idaresinin yükümlülükleri",
+     "soru": "Gümrük Yönetmeliğine göre posta yolu ile yurt dışına gönderilecek ticari eşya genel antrepoda ne kadar süre bekletilebilir?",
+     "cevap": "Antrepo beyannamesinin tescil tarihinden itibaren bir ay bekletilebilir; sürenin geçmesi üzerine Gümrük Yönetmeliğinin 417 nci maddesine göre işlem yapılır.",
+     "dayanak": "GY md. 469/2",
+     "kanit": "Eşya, buralarda antrepo beyannamesinin tescil tarihinden itibaren bir ay bekletilebilir. Bu sürenin geçmesi üzerine 417 nci maddeye göre işlem yapılır."
+    },
+    {
+     "alt_konu": "Posta gönderilerinin konulduğu yerler ve posta idaresinin yükümlülükleri",
+     "soru": "Gümrük Yönetmeliğine göre posta gümrüklerinde görev yapan gümrük memurlarının kanuni çalışma saatleri dışındaki fazla çalışma ücretini kim öder?",
+     "cevap": "Posta idaresi öder.",
+     "dayanak": "GY md. 469/4",
+     "kanit": "kanuni saatler dışında yaptıkları fazla çalışma ücreti aynı Kanunun 221 inci maddesi gereğince posta idaresince ödenir."
+    },
+    {
+     "alt_konu": "Posta eşyasının tasfiyesi",
+     "soru": "Gümrük Yönetmeliğine göre uluslararası anlaşmalarla belirlenen bekleme süreleri sonunda elde kalan posta kolileri hakkında ne yapılır?",
+     "cevap": "Gümrük tarife istatistik pozisyonu, miktarı ve sahiplerinin isim ve adresleri belirtilen ayrıntılı bir listesi, Kanunun 177 nci maddesi uygulanmak üzere gümrük idaresine bildirilir.",
+     "dayanak": "GY md. 473",
+     "kanit": "bekleme süreleri sonunda elde kalan koli veya diğer eşyanın ayrıntılı bir listesi gümrük tarife istatistik pozisyonu ve miktar ile sahiplerinin isim ve adresleri belirtilmek suretiyle, Kanunun 177 nci maddesi uygulanmak üzere gümrük idaresine bildirilir."
+    },
+    {
+     "alt_konu": "Posta eşyasında serbest dolaşıma giriş ve ihracatta cezalar",
+     "soru": "Gümrük Yönetmeliğine göre posta yolu ile gelen ticari nitelikte olmayan eşyada Déclaration en Douane'larda kayıtlı bilgilere göre farklılık tespit edilirse ceza uygulanır mı?",
+     "cevap": "Hayır, ceza aranmaz. Ticari nitelikteki eşyada ise beyanın kontrolünde tespit edilen fark ve aykırılıklar için Kanunun 234 üncü maddesi hükümlerine göre işlem yapılır.",
+     "dayanak": "GY md. 474",
+     "kanit": "Posta yolu ile gelen ve ticari nitelikte olmayan eşyaya ilişkin Déclaration en Douane'larda kayıtlı bilgilere nazaran tespit edilen farklılıklardan dolayı ceza aranmaz. ... tespit edilecek fark ve aykırılıklardan dolayı, Kanunun 234 üncü maddesi hükümlerine göre işlem yapılır."
+    },
+    {
+     "alt_konu": "Posta eşyasında serbest dolaşıma giriş ve ihracatta cezalar",
+     "soru": "Gümrük Yönetmeliğine göre posta yolu ile ihraç edilen ticari eşyanın beyanı ile muayenesi arasında farklılık bulunması halinde nasıl işlem yapılır?",
+     "cevap": "Duruma göre gümrük veya kaçakçılıkla mücadele mevzuatı uyarınca işlem yapılır (ticari nitelikte olmayan eşyada Déclaration en Douane'a göre farklılıktan dolayı ceza aranmaz).",
+     "dayanak": "GY md. 475",
+     "kanit": "İhracatta ticari eşyanın beyanı ile muayenesi arasında farklılık bulunması halinde duruma göre gümrük veya kaçakçılıkla mücadele mevzuatı uyarınca işlem yapılır. ... Posta yolu ile gönderilen ticari nitelikte olmayan eşyaya ilişkin"
+    }
+   ]
+  },
+  {
+   "kaynak": "41-sınır ticareti.txt",
+   "konu": "Sınır ticareti",
+   "mevzuat": "GK md. 172; Sınır Ticaretinin Düzenlenmesine İlişkin Karar (4874 sayılı CK); Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi ... Usul ve Esaslara Dair Yönetmelik (31.10.2009); Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11)",
+   "cikmis_sayisi": 1,
+   "cikmis": [
+    "2024-44: Sınır ticaretinin kapsamını belirlemeye, sınır ticaret merkezlerinin kurulmasına, usul ve esaslara ve tek ve maktu tarife uygulamaya Cumhurbaşkanı yetkilidir (GK md. 172)."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Sınır ticaretinde yetki ve sınır ticaret merkezlerinin gümrük statüsü",
+     "dayanak": "GK md. 172",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-44"
+     ],
+     "not": "Sınır ticaretinin kapsamını belirlemeye, merkezlerin kurulmasına ve tek ve maktu tarife uygulamaya Cumhurbaşkanının yetkili olduğu soruldu; sınır ticaret merkezlerinin gümrük işlemlerinde Türkiye Cumhuriyeti Gümrük Bölgesi dışında addedilmesi ve gümrük işlemlerinin Müsteşarlıkça belirlenmesi sorulmadı."
+    },
+    {
+     "baslik": "Kararın kapsamındaki sınır illeri",
+     "dayanak": "Sınır Ticareti Kararı md. 2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Esnaf ve tacir tanımları",
+     "dayanak": "Sınır Ticareti Kararı md. 4/1-b, h",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İl Değerlendirme Komisyonu",
+     "dayanak": "Sınır Ticareti Kararı md. 4/1-c, 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır Ticareti Belgesi",
+     "dayanak": "Sınır Ticareti Kararı md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İthalat değer limitleri ve tahsisi",
+     "dayanak": "Sınır Ticareti Kararı md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İthalat Uygunluk Belgesinin geçerlik süresi",
+     "dayanak": "Sınır Ticareti Kararı md. 8/4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticareti yoluyla ithalat: değer sınırı, tek ve maktu vergi, menşe",
+     "dayanak": "Sınır Ticareti Kararı md. 9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticareti yoluyla ihracat",
+     "dayanak": "Sınır Ticareti Kararı md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticaretine konu edilemeyen ürünler",
+     "dayanak": "Sınır Ticareti Kararı md. 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ürün güvenliği ve teknik düzenlemeler denetimi",
+     "dayanak": "Sınır Ticareti Kararı md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticaret merkezleri",
+     "dayanak": "Sınır Ticareti Kararı md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük kapılarının yetkilendirilmesi, sınır ticaret merkezlerinin kurulması, kapatılması ve faaliyetine ara verilmesi",
+     "dayanak": "Sınır Ticareti Kararı md. 15",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticaretinde müeyyideler",
+     "dayanak": "Sınır Ticareti Kararı md. 17",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticareti yapamayacak kurumlar ve yapılamayacak işlemler",
+     "dayanak": "Sınır Ticareti Kararı md. 18/4-5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticaret merkezlerinin fiziki şartları",
+     "dayanak": "STM Yönetmeliği md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticaret merkezinde defter ve belgelerin saklanması",
+     "dayanak": "STM Yönetmeliği md. 7/4-5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Aylık satış listesi",
+     "dayanak": "STM Yönetmeliği md. 10/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticaret merkezinde eşyanın kalış süresi",
+     "dayanak": "STM Yönetmeliği md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sayımda 3 aydan fazla bekleyen ihraç eşyası",
+     "dayanak": "STM Yönetmeliği md. 13/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır Ticareti Belgesi başvurularının değerlendirme süreleri",
+     "dayanak": "Sınır Ticareti Tebliği (2016/11) md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticareti yoluyla ithalatına izin verilmeyen ürünler",
+     "dayanak": "Sınır Ticareti Tebliği (2016/11) md. 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır ticaretinde gümrük işlemleri: menşe tasdiki ve belgelerin muhafazası",
+     "dayanak": "Sınır Ticareti Tebliği (2016/11) md. 12/4, 12/6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Sınır ticaretinde yetki ve sınır ticaret merkezlerinin gümrük statüsü",
+     "soru": "4458 sayılı Gümrük Kanununa göre sınır ticaret merkezleri gümrük işlemlerinin yürütülmesinde nasıl kabul edilir?",
+     "cevap": "Türkiye Cumhuriyeti Gümrük Bölgesi dışında addedilir.",
+     "dayanak": "GK md. 172",
+     "kanit": "Sınır ticaret merkezleri, gümrük işlemlerinin yürütülmesinde Türkiye Cumhuriyeti Gümrük Bölgesi dışında addedilir."
+    },
+    {
+     "alt_konu": "Sınır ticaretinde yetki ve sınır ticaret merkezlerinin gümrük statüsü",
+     "soru": "4458 sayılı Gümrük Kanununa göre sınır ticaretine ilişkin gümrük işlemlerini belirlemeye hangi makam yetkilidir?",
+     "cevap": "Sınır ticaretine ilişkin gümrük işlemleri Müsteşarlıkça belirlenir (sınır ticaretinin kapsamı, merkezlerin kurulması ve tek ve maktu tarife ise Cumhurbaşkanının yetkisindedir).",
+     "dayanak": "GK md. 172",
+     "kanit": "Sınır ticaretine ilişkin gümrük işlemleri Müsteşarlıkça belirlenir."
+    },
+    {
+     "alt_konu": "Kararın kapsamındaki sınır illeri",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti hangi illerden yapılabilir?",
+     "cevap": "Artvin, Ardahan, Kars, Iğdır, Ağrı, Van, Hakkâri, Şırnak, Mardin, Şanlıurfa, Gaziantep, Kilis ve Hatay olmak üzere 13 sınır ilinden yapılabilir.",
+     "dayanak": "Sınır Ticareti Kararı md. 2",
+     "kanit": "Bu Karar; Artvin, Ardahan, Kars, Iğdır, Ağrı, Van, Hakkâri, Şırnak, Mardin, Şanlıurfa, Gaziantep, Kilis ve Hatay sınır illerimizden yapılacak sınır ticaretine ilişkin kuralları kapsar."
+    },
+    {
+     "alt_konu": "Esnaf ve tacir tanımları",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre esnaf kimdir?",
+     "cevap": "Karar kapsamındaki illerde en az bir yıldır yerleşik olarak faaliyette bulunan ve Esnaf ve Sanatkârlar Siciline kayıtlı olan gerçek kişilerdir.",
+     "dayanak": "Sınır Ticareti Kararı md. 4/1-b",
+     "kanit": "Esnaf: Bu Karar kapsamındaki illerde en az bir yıldır yerleşik olarak faaliyette bulunan ve Esnaf ve Sanatkârlar Siciline kayıtlı olan gerçek kişileri,"
+    },
+    {
+     "alt_konu": "Esnaf ve tacir tanımları",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre şirket merkezi Karar kapsamındaki illerde bulunan hangi tüzel kişiler tacir tanımı dışında tutulmuştur?",
+     "cevap": "Vakıf, dernek ve belediyeler ile diğer kamu kurum ve kuruluşları ve bunların kurdukları ya da ortak oldukları şirketler tacir sayılmaz (tacir için ayrıca en az bir yıldır faaliyette bulunma şartı aranır).",
+     "dayanak": "Sınır Ticareti Kararı md. 4/1-h",
+     "kanit": "(vakıf, dernek ve belediyeler ile diğer kamu kurum ve kuruluşları ve bunların kurdukları ya da ortak oldukları şirketler hariç)"
+    },
+    {
+     "alt_konu": "İl Değerlendirme Komisyonu",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre İl Değerlendirme Komisyonuna kim başkanlık eder?",
+     "cevap": "Vali veya Vali Yardımcısı başkanlık eder.",
+     "dayanak": "Sınır Ticareti Kararı md. 4/1-c",
+     "kanit": "İl Değerlendirme Komisyonu: Bu Karar kapsamındaki illerin Vali veya Vali Yardımcısı başkanlığında"
+    },
+    {
+     "alt_konu": "İl Değerlendirme Komisyonu",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre İl Değerlendirme Komisyonunun toplantı ve karar nisabı nedir?",
+     "cevap": "Üye tam sayısının salt çoğunluğu ile toplanır ve katılımcıların oy çokluğu ile karar verir; sekretarya hizmetleri İl Ticaret Odası veya İl Ticaret ve Sanayi Odasınca yürütülür.",
+     "dayanak": "Sınır Ticareti Kararı md. 5/1",
+     "kanit": "İl Değerlendirme Komisyonu üye tam sayısının salt çoğunluğu ile toplanır ve katılımcıların oy çokluğu ile karar verir."
+    },
+    {
+     "alt_konu": "Sınır Ticareti Belgesi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre Sınır Ticareti Belgesi için başvuru nereye yapılır ve belgeyi kim düzenler?",
+     "cevap": "Başvuru İl Ticaret Odası veya İl Ticaret ve Sanayi Odasına yapılır; İl Değerlendirme Komisyonunca uygun görülenlere belge Valilikçe düzenlenir.",
+     "dayanak": "Sınır Ticareti Kararı md. 6/2",
+     "kanit": "Sınır Ticareti Belgesi başvuruları İl Ticaret Odası veya İl Ticaret ve Sanayi Odasına yapılır. Başvuruları İl Değerlendirme Komisyonu tarafından uygun görülenlere Valilikçe Sınır Ticareti Belgesi düzenlenir."
+    },
+    {
+     "alt_konu": "Sınır Ticareti Belgesi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre Sınır Ticareti Belgesinin geçerlik süresi nedir ve nasıl uzatılır?",
+     "cevap": "Üç yıl süreyle geçerlidir; süre sona ermeden başvurulması ve İl Değerlendirme Komisyonunca uygun görülmesi halinde Valilikçe vize edilerek bir yıllık sürelerle uzatılabilir.",
+     "dayanak": "Sınır Ticareti Kararı md. 6/3",
+     "kanit": "Sınır Ticareti Belgesi üç yıl süreyle geçerlidir. ... belgenin geçerliliği ilgili Valilikçe vize edilmek suretiyle bir yıllık sürelerle uzatılabilir."
+    },
+    {
+     "alt_konu": "Sınır Ticareti Belgesi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre Sınır Ticareti Belgesinin devredildiğinin tespiti halinde ne yapılır?",
+     "cevap": "Belge hiçbir şekilde devredilemez; devir tespit edilirse belge Valilikçe iptal edilir ve ilgili ile sahibi, ortağı veya yöneticisi olduğu firmalar adına bir daha Sınır Ticareti Belgesi düzenlenmez.",
+     "dayanak": "Sınır Ticareti Kararı md. 6/4",
+     "kanit": "Sınır Ticareti Belgesi hiçbir şekilde devredilemez. Sınır Ticareti Belgesinin devredildiğinin tespiti halinde belge Valilikçe iptal edilir ve ilgili ve/veya ilgilinin sahibi, ortağı veya yöneticisi olduğu firmalar adına bir daha Sınır Ticareti Belgesi düzenlenmez."
+    },
+    {
+     "alt_konu": "Sınır Ticareti Belgesi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre kaçakçılık, terör, vergi usul gibi sayılan suçlardan kesinleşmiş mahkûmiyeti bulunan esnaf ve tacir cezasını çekmiş veya affa uğramışsa Sınır Ticareti Belgesi alabilir mi?",
+     "cevap": "Hayır; cezalarını çekmiş ya da affa uğramış olsalar dahi bunlara ve sahibi, ortağı veya yöneticisi oldukları firmalara Sınır Ticareti Belgesi düzenlenmez.",
+     "dayanak": "Sınır Ticareti Kararı md. 6/5",
+     "kanit": "cezalarını çekmiş ya da affa uğramış dahi olsalar Sınır Ticareti Belgesi düzenlenmez."
+    },
+    {
+     "alt_konu": "İthalat değer limitleri ve tahsisi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre her bir komşu ülke için yıllık ithalat değer limiti ne kadardır?",
+     "cevap": "75 milyon ABD Doları tarım ve 75 milyon ABD Doları sanayi ürünleri olmak üzere yıllık toplam 150 milyon ABD Doları kadardır; daha az olarak da belirlenebilir.",
+     "dayanak": "Sınır Ticareti Kararı md. 7/1",
+     "kanit": "İthalat değer limitleri, her bir komşu ülke için; 75 milyon ABD Doları kadar tarım, 75 milyon ABD Doları kadar sanayi ürünleri olmak üzere yıllık toplam 150 milyon ABD Doları kadardır."
+    },
+    {
+     "alt_konu": "İthalat değer limitleri ve tahsisi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre bir komşu ülke için belirlenen ithalat değer limiti sınır illerine nasıl tahsis edilir; tahsis oranları değiştirilebilir veya devredilebilir mi?",
+     "cevap": "Limit ilgili sınır illerine nüfusları oranında paylaştırılır; tahsis edilen oranlar yıl içinde değiştirilemez ve bir sonraki yıla devredilemez.",
+     "dayanak": "Sınır Ticareti Kararı md. 7/1",
+     "kanit": "söz konusu komşu ülke için belirlenen ithalat değer limitinin ilgili sınır illerine nüfusları oranında paylaştırılması suretiyle yapılır. Tahsis edilen ithalat değer limiti oranları yıl içinde değiştirilemez ve bir sonraki yıla devredilemez."
+    },
+    {
+     "alt_konu": "İthalat değer limitleri ve tahsisi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre il bazında tahsis edilen ithalat değer limitleri Valiliklere ne zamana kadar bildirilir ve Valilikler bunları esnaf ve tacire hangi sürede duyurur?",
+     "cevap": "Bakanlık her yıl Aralık ayının sonuna kadar Valiliklere bildirir; Valilikler bildirimi takip eden beş iş günü içinde İl Ticaret Odası veya İl Ticaret ve Sanayi Odası ile Esnaf ve Sanatkârlar Odaları Birliği aracılığıyla duyurur.",
+     "dayanak": "Sınır Ticareti Kararı md. 7/2",
+     "kanit": "Bakanlık tarafından her yıl Aralık ayının sonuna kadar ilgili Valiliklere bildirilir. Valilikler, Bakanlık tarafından yapılan bildirimi takip eden beş iş günü içinde tahsis edilen ithalat değer limitlerini"
+    },
+    {
+     "alt_konu": "İthalat değer limitleri ve tahsisi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre her bir ürün için düzenlenmesi uygun görülen İthalat Uygunluk Belgelerinin toplam değeri hangi sınırı geçemez?",
+     "cevap": "İlgili sınır ili bazında tarım ve sanayi sektörü için belirlenen yıllık ithalat değer limitinin %5'ini geçemez.",
+     "dayanak": "Sınır Ticareti Kararı md. 7/3",
+     "kanit": "İthalat Uygunluk Belgelerinin toplam değeri, ilgili sınır ili bazında tarım ve sanayi sektörü için belirlenen yıllık ithalat değer limitinin %5'ini geçemez."
+    },
+    {
+     "alt_konu": "İthalat Uygunluk Belgesinin geçerlik süresi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre İthalat Uygunluk Belgesinin geçerlik süresi nedir?",
+     "cevap": "Düzenlendiği tarihten itibaren 90 gündür ve bu süre uzatılamaz; Tarım ve Orman Bakanlığınca belirlenen tarım ürünlerinde hasat dönemi ve takvim yılı sarkması dikkate alınarak daha kısa süreli düzenlenebilir.",
+     "dayanak": "Sınır Ticareti Kararı md. 8/4",
+     "kanit": "İthalat Uygunluk Belgesinin geçerlik süresi düzenlendiği tarihten itibaren 90 gün olup, bu süre uzatılamaz."
+    },
+    {
+     "alt_konu": "Sınır ticareti yoluyla ithalat: değer sınırı, tek ve maktu vergi, menşe",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre esnaf veya tacir ya da mağaza kiralayan, ilgili gümrük kapısı veya Sınır Ticaret Merkezinden hangi süre içinde en fazla ne kadar değerde eşya ithal edebilir?",
+     "cevap": "30 gün içerisinde en fazla 75.000 ABD Doları karşılığı Türk Lirası değerinde eşya ithal edebilir.",
+     "dayanak": "Sınır Ticareti Kararı md. 9/1",
+     "kanit": "ilgili gümrük kapısı veya Sınır Ticaret Merkezinden 30 gün içerisinde en fazla 75.000 ABD Doları karşılığı Türk Lirası değerinde eşya ithal edilebilir."
+    },
+    {
+     "alt_konu": "Sınır ticareti yoluyla ithalat: değer sınırı, tek ve maktu vergi, menşe",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti yoluyla yapılan ithalatta uygulanan tek ve maktu vergi nasıl hesaplanır?",
+     "cevap": "Katma değer vergisi ile özel tüketim vergisi oranlarının toplamı olarak hesaplanır.",
+     "dayanak": "Sınır Ticareti Kararı md. 9/2",
+     "kanit": "İthalatta tek ve maktu vergi uygulanır. Tek ve maktu vergi; katma değer vergisi ile özel tüketim vergisi oranları toplamı olarak hesaplanır."
+    },
+    {
+     "alt_konu": "Sınır ticareti yoluyla ithalat: değer sınırı, tek ve maktu vergi, menşe",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti yoluyla ithalatta menşe bakımından hangi şart aranır?",
+     "cevap": "Eşyanın ilgili sınır ülkesinde üretildiğine veya imal edildiğine dair o ülkenin yetkili makamlarınca düzenlenen menşe şahadetnamesi aranır; üçüncü ülke menşeli ürünlerin ithalatına izin verilmez.",
+     "dayanak": "Sınır Ticareti Kararı md. 9/3",
+     "kanit": "eşyanın ilgili sınır ülkesinde üretildiğine veya imal edildiğine dair ithalatın yapılacağı ülkenin yetkili makamlarınca düzenlenen menşe şahadetnamesi ilgili gümrüklerce aranır. Üçüncü ülke menşeli ürünlerin bu Karar kapsamında ithalatına izin verilmez."
+    },
+    {
+     "alt_konu": "Sınır ticareti yoluyla ihracat",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamında ihracat yapacak esnaf ve tacirin yetkili gümrük idaresine hangi belgeleri tevdi etmesi zorunludur?",
+     "cevap": "İhraç edilecek eşyanın faturası ile ihracatçı birliğince onaylanmış gümrük beyannamesini tevdi etmesi zorunludur.",
+     "dayanak": "Sınır Ticareti Kararı md. 10/1",
+     "kanit": "Bu şekilde ihracı yapılacak eşyanın faturası ile ihracatçı birliğince onaylanmış gümrük beyannamesinin yetkili gümrük idaresine tevdi edilmesi zorunludur."
+    },
+    {
+     "alt_konu": "Sınır ticaretine konu edilemeyen ürünler",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre hangi ürünler sınır ticaretine konu edilemez?",
+     "cevap": "İhracı ve ithali yasaklanmış veya belli kurumlara bırakılmış maddeler; damping ve sübvansiyona karşı önlemler ile korunma önlemlerine tabi ürünler; petrol ve petrol ürünleri; 5201 sayılı Kanun kapsamında kontrole tabi ürünler ile sivil kullanım amaçlı patlayıcılar ve amonyum nitrat gibi patlayıcı yapımında kullanılabilecek maddeler sınır ticaretine konu edilemez.",
+     "dayanak": "Sınır Ticareti Kararı md. 11/1",
+     "kanit": "İhracı ve ithali ilgili mevzuatla yasaklanmış ve ithali belli kurum ve kuruluşlara bırakılmış maddeler; damping ve sübvansiyona karşı önlemler ile korunma önlemlerine tabi ürünler; petrol ve petrol ürünleri"
+    },
+    {
+     "alt_konu": "Sınır ticaretine konu edilemeyen ürünler",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre canlı hayvan ve hayvansal ürünlerin sınır ticareti kapsamında ticareti yapılabilir mi?",
+     "cevap": "Hayır; canlı hayvan ve hayvansal ürünler ile Tarım ve Orman Bakanlığınca insan, bitki ve hayvan sağlığı açısından risk teşkil ettiği belirlenen ürünlerin ticareti yapılamaz.",
+     "dayanak": "Sınır Ticareti Kararı md. 11/2",
+     "kanit": "Bu Karar kapsamında canlı hayvan ve hayvansal ürünlerin ticareti ile Tarım ve Orman Bakanlığı tarafından insan, bitki ve hayvan sağlığı açısından risk teşkil ettiği belirlenen ürünlerin ticareti yapılamaz."
+    },
+    {
+     "alt_konu": "Ürün güvenliği ve teknik düzenlemeler denetimi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamında ithal ve ihraç edilen ürünler Teknik Düzenlemeler Rejimi Kararı kapsamındaki denetimlere tabi midir?",
+     "cevap": "Hayır, bu denetimlerden muaftır; ancak ithal edilen ürünlerin güvenli olması 7223 sayılı Kanun uyarınca ithalatçının sorumluluğundadır.",
+     "dayanak": "Sınır Ticareti Kararı md. 12/1-2",
+     "kanit": "Teknik Düzenlemeler Rejimi Kararına istinaden yapılan ihracat ve ithalat denetimlerinden muaftır. ... Bu Karar kapsamında ithal edilen ürünlerin güvenli olması, 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanunu hükümleri uyarınca ithalatçının sorumluluğundadır."
+    },
+    {
+     "alt_konu": "Sınır ticaret merkezleri",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticaretinin yapılabildiği Sınır Ticaret Merkezleri hangileridir?",
+     "cevap": "Ağrı'da Sarısu (İran), Hakkâri'de Esendere (İran), Van'da Kapıköy (İran) ve Iğdır'da Dilucu (Nahçıvan) Sınır Ticaret Merkezleridir.",
+     "dayanak": "Sınır Ticareti Kararı md. 14/1",
+     "kanit": "Gümrük hattı üzerinde, aşağıdaki tabloda gösterilen Sınır Ticaret Merkezlerinden, karşılarında belirtilen ülkeyle sınır ticareti yapılabilir. ... 1 | AĞRI | SARISU | IRAN\n2 | HAKKÂRİ | ESENDERE | IRAN\n3 | VAN | KAPIKOY | IRAN\n4 | IGDIR | DİLUCU | NAHÇIVAN"
+    },
+    {
+     "alt_konu": "Gümrük kapılarının yetkilendirilmesi, sınır ticaret merkezlerinin kurulması, kapatılması ve faaliyetine ara verilmesi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre yeni bir Sınır Ticaret Merkezi kurulması için kim teklifte bulunur ve talep nihai olarak kime sunulur?",
+     "cevap": "İlgili İl Valisi Bakanlığa teklifte bulunur; Bakanlıkça Strateji ve Bütçe Başkanlığı ile İçişleri ve Milli Savunma Bakanlıklarının görüşü alınır, görüşlerin tümü olumlu ise konu Cumhurbaşkanına sunulur. Kapatma veya yetki kaldırma teklifini ise Strateji ve Bütçe Başkanlığı ya da İçişleri veya Milli Savunma Bakanlıkları yapar.",
+     "dayanak": "Sınır Ticareti Kararı md. 15/1, 15/3",
+     "kanit": "yeni Sınır Ticaret Merkezi kurulması için ilgili İl Valisi tarafından ... Strateji ve Bütçe Başkanlığı ya da İçişleri veya Milli Savunma Bakanlıkları tarafından Bakanlığa teklifte bulunulur. ... Bunların tümünün görüşlerinin ... bu hususlar Cumhurbaşkanına sunulur."
+    },
+    {
+     "alt_konu": "Gümrük kapılarının yetkilendirilmesi, sınır ticaret merkezlerinin kurulması, kapatılması ve faaliyetine ara verilmesi",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre teknik ve fiziki altyapısı yetersiz hale gelen veya güvenliği sağlanamayan Sınır Ticaret Merkezinin faaliyetine en fazla ne kadar süreyle ara verilebilir?",
+     "cevap": "Bakanlıkça eksiklikler giderilinceye kadar geçici olarak ara verilebilir; bu süre altı ayı geçemez. Süre içinde eksiklikler giderilemezse giderilinceye kadar merkezin tekrar faaliyete geçmesine izin verilmez.",
+     "dayanak": "Sınır Ticareti Kararı md. 15/4",
+     "kanit": "belirtilen eksiklikler giderilinceye kadar Sınır Ticaret Merkezinin faaliyetine Bakanlıkça geçici bir süre ara verilebilir. Bu süre altı ayı geçemez."
+    },
+    {
+     "alt_konu": "Sınır ticaretinde müeyyideler",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre gerçek dışı menşe belgesi ibraz edilerek ithal edildiği tespit edilen ürünler için nasıl işlem yapılır?",
+     "cevap": "Eşyanın ithalinde ödenmesi öngörülen gümrük vergisi, eş etkili vergi, diğer vergi, mali ve ek mali yüklerin tamamı 6183 sayılı Kanuna göre tahsil edilir ve 4458 sayılı Kanunun 234 üncü maddesinin birinci fıkrasının (a) bendi çerçevesinde para cezası uygulanır; ayrıca İthalat Uygunluk Belgeleri Valilikçe iptal edilir.",
+     "dayanak": "Sınır Ticareti Kararı md. 17/1, 17/4",
+     "kanit": "Gerçek dışı menşe belgesi ibraz edilerek ithal edildiği tespit olunan ürünler için eşyanın ithalinde ödenmesi öngörülen gümrük vergisi, eş etkili vergi, diğer vergi, mali ve ek mali yüklerin tamamı ... 4458 sayılı Kanunun 234 üncü maddesinin birinci fıkrasının (a) bendi hükmü çerçevesinde para cezası uygulanır."
+    },
+    {
+     "alt_konu": "Sınır ticaretinde müeyyideler",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamında ithal edilip Karar kapsamındaki iller dışında satıldığı tespit edilen ürünler için nasıl işlem yapılır?",
+     "cevap": "İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı 6183 sayılı Kanun hükümlerine göre ilgiliden tahsil edilir.",
+     "dayanak": "Sınır Ticareti Kararı md. 17/2",
+     "kanit": "Bu Karar kapsamında ithal edilen, ancak bu Karar kapsamındaki iller dışında satıldığı tespit edilen ürünler için İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı 6183 sayılı Kanun hükümlerine göre ilgiliden tahsil edilir."
+    },
+    {
+     "alt_konu": "Sınır ticareti yapamayacak kurumlar ve yapılamayacak işlemler",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre Valilikler, belediyeler ve il özel idareleri sınır ticareti kapsamında ithalat ve ihracat yapabilir mi?",
+     "cevap": "Hayır; Valilikler, belediyeler ve il özel idareleri ile bunlar tarafından veya bunlar adına kurulan vakıf, dernek ve firmalar Karar kapsamında ithalat ve ihracat yapamaz.",
+     "dayanak": "Sınır Ticareti Kararı md. 18/4",
+     "kanit": "Valilikler, belediyeler ve il özel idareleri tarafından veya bunlar adına kurulan vakıf, dernek ve firmalar bu Karar kapsamında ithalat ve ihracat yapamazlar."
+    },
+    {
+     "alt_konu": "Sınır ticareti yapamayacak kurumlar ve yapılamayacak işlemler",
+     "soru": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamında transit ticaret ve dahilde işleme rejimi kapsamında işlem yapılabilir mi?",
+     "cevap": "Hayır; sınır ticareti kapsamında transit ticaret ile Dâhilde İşleme Rejimi kapsamında ithalat ve ihracat işlemleri yapılamaz.",
+     "dayanak": "Sınır Ticareti Kararı md. 18/5",
+     "kanit": "Sınır ticareti kapsamında, transit ticaret ile Dâhilde İşleme Rejimi kapsamında ithalat ve ihracat işlemleri yapılamaz."
+    },
+    {
+     "alt_konu": "Sınır ticaret merkezlerinin fiziki şartları",
+     "soru": "Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre sınır ticaret merkezinde kurulması gereken kantarın asgari tartma kapasitesi nedir ve merkezin aranan şartları taşıyıp taşımadığını kim denetler?",
+     "cevap": "Asgari 45 ton tartma kapasitesine sahip kantar kurulmalıdır; merkezin aranan şartları karşılayıp karşılamadığı bağlı olduğu gümrük idarelerince denetlenir.",
+     "dayanak": "STM Yönetmeliği md. 5/1-e, 5/2",
+     "kanit": "Asgari 45 ton tartma kapasitesine sahip kantar kurulması, ... Sınır Ticaret Merkezinin yukarıda belirtilen şartları karşılayıp karşılamadığı Sınır Ticaret Merkezinin bağlı olduğu Gümrük idarelerince denetlenir."
+    },
+    {
+     "alt_konu": "Sınır ticaret merkezinde defter ve belgelerin saklanması",
+     "soru": "Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre sınır ticaret merkezi işleticisi ve mağaza işleticisinin tuttuğu defter ve belgeler ne kadar süre saklanır ve bu süre ne zaman başlar?",
+     "cevap": "Beş yıl süreyle saklanır; süre defterlerin tasdik edildiği, belgelerin ise düzenlendiği yılın sonundan itibaren işlemeye başlar.",
+     "dayanak": "STM Yönetmeliği md. 7/4-5",
+     "kanit": "İlgili kişiler bu defter ve belgeleri gümrük kontrolü amacıyla beş yıl süre ile saklamak zorundadırlar. ... Bu defter ve belgelerin saklama süresi defterlerin tasdik edildiği, belgelerin ise düzenlendiği yılın sonundan itibaren işlemeye başlar."
+    },
+    {
+     "alt_konu": "Aylık satış listesi",
+     "soru": "Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre aylık satış listesi kaç örnek düzenlenir ve aslı gümrük müdürlüğüne ne zamana kadar verilir?",
+     "cevap": "Biri asıl üç örnek düzenlenir; aslı en geç müteakip ayın üçüncü günü akşamına kadar işleticinin/mağazanın bağlı bulunduğu gümrük müdürlüğüne verilir.",
+     "dayanak": "STM Yönetmeliği md. 10/3",
+     "kanit": "Aylık satış listeleri biri asıl üç örnek düzenlenir ve listenin aslı en geç müteakip ayın üçüncü günü akşamına kadar işleticinin/mağazanın bağlı bulunduğu gümrük müdürlüğüne verilir."
+    },
+    {
+     "alt_konu": "Sınır ticaret merkezinde eşyanın kalış süresi",
+     "soru": "Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre sınır ticaret merkezlerine ithal veya ihraç hükmüyle konulan eşyanın satış veya sergi amaçlı kalış süresi nedir; ek süre verilebilir mi?",
+     "cevap": "Kalış süresi 3 ay ile sınırlıdır; eşyanın bu süre içinde çıkarılamamasının zorunlu nedenlerden kaynaklandığı süre bitiminden önce belgelendirilirse ilgili gümrük idaresince ek süre verilebilir.",
+     "dayanak": "STM Yönetmeliği md. 12/1-2",
+     "kanit": "Sınır Ticaret Merkezlerine ithal veya ihraç hükmüyle konulan eşyanın burada satış veya sergi amaçlı olarak kalış süresi 3 ay ile sınırlıdır. ... zorunlu nedenlerden meydana geldiğinin süre bitiminden önce belgelendirilmesi halinde ilgili gümrük idaresi tarafından ek süre verilebilir."
+    },
+    {
+     "alt_konu": "Sınır ticaret merkezinde eşyanın kalış süresi",
+     "soru": "Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre eşyanın 3 ay içinde sınır ticaret merkezinden çıkarılmaması ve ek süre de talep edilmemesi halinde hangi müeyyide uygulanır?",
+     "cevap": "Gümrük Kanununun 241 inci maddesinin birinci fıkrası hükmü uygulanır.",
+     "dayanak": "STM Yönetmeliği md. 12/3",
+     "kanit": "Eşyanın 3 ay içinde Sınır Ticaret Merkezlerinden çıkarılmaması ve bu süre içerisinde ek süre talebinde de bulunulmaması hâlinde Gümrük Kanununun 241 inci maddesinin birinci fıkrası hükmü uygulanır."
+    },
+    {
+     "alt_konu": "Sayımda 3 aydan fazla bekleyen ihraç eşyası",
+     "soru": "Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre sayım sonunda 3 aydan fazla bir süredir sınır ticaret merkezinde bulunduğu tespit edilen ihraç eşyası hangi hükümlere tabi tutulur?",
+     "cevap": "Gümrük mevzuatı doğrultusunda geri gelen eşya hükümlerine tabi tutulur.",
+     "dayanak": "STM Yönetmeliği md. 13/5",
+     "kanit": "Sayım sonunda 3 aydan fazla bir süredir Sınır Ticaret Merkezinde bulunduğu tespit edilen ihraç eşyası gümrük mevzuatı doğrultusunda geri gelen eşya hükümlerine tabi tutulur."
+    },
+    {
+     "alt_konu": "Sınır Ticareti Belgesi başvurularının değerlendirme süreleri",
+     "soru": "Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11)'e göre başvuru belgeleri eksiksiz Sınır Ticareti Belgesi müracaatları Sekretarya ve İl Değerlendirme Komisyonunca hangi sürelerde işleme alınır?",
+     "cevap": "Sekretarya tarafından en geç beş iş günü içinde İl Değerlendirme Komisyonuna iletilir; Komisyon en geç on iş günü içinde değerlendirir ve uygun görülenlere Valilikçe belge düzenlenir.",
+     "dayanak": "Sınır Ticareti Tebliği (2016/11) md. 7/2-3",
+     "kanit": "Sekretarya tarafından en geç beş iş günü içinde İl Değerlendirme Komisyonuna iletilir. ... İl Değerlendirme Komisyonu tarafından en geç on iş günü içinde yapılan değerlendirme sonucunda başvuruları uygun görülenlere Valilikçe Sınır Ticareti Belgesi düzenlenir."
+    },
+    {
+     "alt_konu": "Sınır Ticareti Belgesi başvurularının değerlendirme süreleri",
+     "soru": "Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11)'e göre hangi sektörde faaliyet gösteren esnaf veya tacir adına Sınır Ticareti Belgesi düzenlenmez?",
+     "cevap": "Hizmet sektöründe faaliyet gösteren esnaf veya tacir adına düzenlenmez.",
+     "dayanak": "Sınır Ticareti Tebliği (2016/11) md. 7/4",
+     "kanit": "Hizmet sektöründe faaliyet gösteren esnaf veya tacir adına Sınır Ticareti Belgesi düzenlenmez."
+    },
+    {
+     "alt_konu": "Sınır ticareti yoluyla ithalatına izin verilmeyen ürünler",
+     "soru": "Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11)'e göre yerli üretimin korunması ve haksız rekabetin önlenmesi amacıyla hangi ürünlerin sınır ticareti yoluyla ithalatına izin verilmez?",
+     "cevap": "Çay, şeker, fındık ve antepfıstığı ile Bakanlıkça ithalatı durdurulan diğer ürünlerin ithalatına izin verilmez (Tarım ve Orman Bakanlığı iznine tabi veteriner ilaçları ve biyolojik ürünleri de ithal edilemez).",
+     "dayanak": "Sınır Ticareti Tebliği (2016/11) md. 11",
+     "kanit": "Yerli üretimin ve imalatın korunması ile haksız rekabetin önlenmesi amacıyla çay, şeker, fındık ve antepfıstığı ile Bakanlık tarafından ithalatı durdurulan diğer ürünlerin sınır ticareti yoluyla ithalatına izin verilmez."
+    },
+    {
+     "alt_konu": "Sınır ticaretinde gümrük işlemleri: menşe tasdiki ve belgelerin muhafazası",
+     "soru": "Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11)'e göre sınır ticareti yoluyla sanayi ürünlerinin ithalatında ibraz edilen menşe şahadetnamesinde ayrıca hangi tasdik aranır?",
+     "cevap": "İlgili komşu ülkedeki Türkiye Cumhuriyeti Büyükelçiliği veya Konsolosluğunun tasdiki gümrük idaresince aranır.",
+     "dayanak": "Sınır Ticareti Tebliği (2016/11) md. 12/4",
+     "kanit": "Sanayi ürünlerinin ithalatında ibraz edilen menşe şahadetnamesinde, ilgili komşu ülkedeki Türkiye Cumhuriyeti Büyükelçiliği veya Konsolosluğunun tasdiki gümrük idaresince aranır."
+    },
+    {
+     "alt_konu": "Sınır ticaretinde gümrük işlemleri: menşe tasdiki ve belgelerin muhafazası",
+     "soru": "Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11)'e göre sınır ticareti kapsamında ithal edilen ürünlerin satışında düzenlenen satış faturası ve nakliye belgeleri ne kadar süre muhafaza edilir?",
+     "cevap": "Birer örnekleri ilgili esnaf veya tacir tarafından en az üç yıl süreyle muhafaza edilir; ürünler yalnızca yetkili sınır illerinde yerleşik esnaf ve/veya tacire satılabilir.",
+     "dayanak": "Sınır Ticareti Tebliği (2016/11) md. 12/6",
+     "kanit": "Satış işlemlerinde, satış faturası ve ilgili nakliye belgeleri düzenlenir ve birer örnekleri ilgili esnaf veya tacir tarafından en az üç yıl süreyle muhafaza edilir."
+    }
+   ]
+  }
+ ]
+}

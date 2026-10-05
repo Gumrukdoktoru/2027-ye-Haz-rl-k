@@ -1,0 +1,755 @@
+{
+ "parca": {
+  "V01": {
+   "toplam": 190,
+   "ok": 186,
+   "duzelt": 4,
+   "sil": 0
+  },
+  "V02": {
+   "toplam": 182,
+   "ok": 179,
+   "duzelt": 3,
+   "sil": 0
+  },
+  "V03": {
+   "toplam": 162,
+   "ok": 162,
+   "duzelt": 0,
+   "sil": 0
+  },
+  "V04": {
+   "toplam": 154,
+   "ok": 150,
+   "duzelt": 4,
+   "sil": 0
+  },
+  "V05": {
+   "toplam": 152,
+   "ok": 148,
+   "duzelt": 4,
+   "sil": 0
+  },
+  "V06": {
+   "toplam": 191,
+   "ok": 189,
+   "duzelt": 2,
+   "sil": 0
+  },
+  "V07": {
+   "toplam": 159,
+   "ok": 158,
+   "duzelt": 1,
+   "sil": 0
+  },
+  "V08": {
+   "toplam": 163,
+   "ok": 162,
+   "duzelt": 1,
+   "sil": 0
+  },
+  "V09": {
+   "toplam": 194,
+   "ok": 193,
+   "duzelt": 1,
+   "sil": 0
+  },
+  "V10": {
+   "toplam": 148,
+   "ok": 146,
+   "duzelt": 2,
+   "sil": 0
+  },
+  "V11": {
+   "toplam": 244,
+   "ok": 237,
+   "duzelt": 7,
+   "sil": 0
+  },
+  "V12": {
+   "toplam": 263,
+   "ok": 261,
+   "duzelt": 2,
+   "sil": 0
+  },
+  "V13": {
+   "toplam": 196,
+   "ok": 194,
+   "duzelt": 2,
+   "sil": 0
+  },
+  "V14": {
+   "toplam": 156,
+   "ok": 149,
+   "duzelt": 7,
+   "sil": 0
+  },
+  "V15": {
+   "toplam": 126,
+   "ok": 120,
+   "duzelt": 6,
+   "sil": 0
+  }
+ },
+ "duzelt": [
+  {
+   "key": "G01|0|21",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre levha, kangal, profil, kütük, boru, rulo sac ve pik gibi eşya dökme eşya tanımına girer mi?",
+    "cevap": "Girmez; bunlar ambalajlı olarak sayılabilen eşya ile birlikte dökme eşya dışında bırakılmıştır. Dökme eşya; maden cevheri, hurda demir, kömür, hububat, çimento gibi ambalajlanmamış ve genellikle yükleme-boşaltması mekanik vasıta ve tesis gerektiren gaz, sıvı ve katı maddelerdir.",
+    "dayanak": "GY md. 3/1-c"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre levha, kangal, profil, kütük, boru, rulo sac ve pik gibi eşya dökme eşya tanımına girer mi?",
+    "cevap": "Girmez. Levha, kangal, profil, kütük, firkete, boru, rulo sac, pik gibi eşya ambalajlı olarak sayılabilen eşyaya örnektir ve ambalajlanmış eşya ile birlikte dökme eşya tanımının dışında bırakılmıştır. Dökme eşya; maden cevheri, mineraller, hurda demir, kömür, hububat, çimento gibi ambalajlanmamış ve genellikle yükleme ve boşaltması mekanik vasıta ve tesis gerektiren her nevi gaz, sıvı ve katı maddelerdir.",
+    "dayanak": "GY md. 3/1-c"
+   },
+   "gerekce": "Cevap, levha/kangal/profil vb. eşyayı 'ambalajlı olarak sayılabilen eşya ile birlikte' dışarıda bırakılmış gibi gösteriyordu; hükümde bu eşya bizzat 'ambalajlı olarak sayılabilen' eşyanın örnekleridir, ayrıca dışlanan diğer grup 'ambalajlanmış eşya'dır. Nitelendirme düzeltildi."
+  },
+  {
+   "key": "G01|1|10",
+   "eski": {
+    "soru": "4458 sayılı Gümrük Kanununa göre öğrenim şartını lisansüstü diploma ya da gümrük, dış ticaret ve Avrupa Birliği uzmanlık programı olan meslek yüksek okulu mezuniyeti yoluyla sağlayanlar gümrük müşaviri olabilir mi?",
+    "cevap": "Hayır. Gümrük müşavirliğinde öğrenim şartının bu alternatif yolu hariç tutulmuştur; gümrük müşaviri olabilmek için sayılan dallardan (hukuk, iktisat, maliye vb.) en az lisans mezuniyeti gerekir.",
+    "dayanak": "GK md. 228/1"
+   },
+   "yeni": {
+    "soru": "4458 sayılı Gümrük Kanununa göre öğrenim şartını lisansüstü diploma ya da gümrük, dış ticaret ve Avrupa Birliği konularında uzmanlık programı olan meslek yüksek okulu mezuniyeti yoluyla sağlayan kişiler, iki yıl gümrük müşavir yardımcılığı yapıp sınavda başarılı olarak gümrük müşavirliğine hak kazanabilir mi?",
+    "cevap": "Hayır. İki yıllık gümrük müşavir yardımcılığı ve sınav yoluyla gümrük müşavirliğine hak kazanmada öğrenim şartının bu alternatif yolu (lisansüstü diploma veya meslek yüksek okulu mezuniyeti) hariç tutulmuştur; bu yolda hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi, siyasal bilgiler ve endüstri mühendisliği dallarında eğitim veren fakülte ve yüksek okullardan ya da denkliği YÖK'çe tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans düzeyinde mezuniyet aranır.",
+    "dayanak": "GK md. 228/1; GK md. 227/1-f"
+   },
+   "gerekce": "(f)(ii) istisnası yalnız iki yıllık yardımcılık + sınav yolunu (md. 228/1) düzenler; md. 228/2'deki eski yönetici yollarında 227/1 koşullarının tamamı (f-ii dahil) yeterlidir. Eski soru-cevap genel olarak 'gümrük müşaviri olabilmek için sayılan dallardan lisans gerekir' diyerek hükmü aşırı genelliyordu; soru ilgili yola daraltıldı ve cevap buna göre düzeltildi."
+  },
+  {
+   "key": "G01|1|22",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre gümrük müşavirleri imzaladıkları beyannameyle ilgili cezai hükümlerin uygulanması açısından nelerden sorumludur?",
+    "cevap": "Beyannamede belirtilen bilgiler ile beyannameye ekli belgelerin doğruluğundan ve ilgili rejimin gerektirdiği bütün yükümlülüklere uyulmasından sorumludurlar; beyan sahibiyle müteselsil sorumluluğa ilişkin Kanun hükmü saklıdır.",
+    "dayanak": "GY md. 563/1"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre gümrük müşavirleri imzaladıkları beyannameyle ilgili cezai hükümlerin uygulanması açısından nelerden sorumludur?",
+    "cevap": "Beyannamede belirtilen bilgiler ile beyannameye ekli belgelerin doğruluğundan ve ilgili rejimin gerektirdiği bütün yükümlülüklere uyulmasından sorumludurlar; bu sorumluluk, Gümrük Kanununun 181 inci maddesinin ikinci fıkrası saklı kalmak kaydıyladır.",
+    "dayanak": "GY md. 563/1"
+   },
+   "gerekce": "Cevap saklı tutulan Kanun hükmünü 'beyan sahibiyle müteselsil sorumluluğa ilişkin' diye nitelendiriyordu. GK md. 181/2 (44-yükümlülük kaynağı) ithalatta yükümlünün beyan sahibi olduğunu ve dolaylı temsilde temsilcinin yükümlülüğünün, verilerin yanlış olduğunu bildiği veya mesleği icabı bilmesi gerektiği durumlarla sınırlı olduğunu düzenler; müteselsil sorumluluk ifadesi hükmün içeriğini yanlış yansıtıyordu. Kaynaktaki ifadeye bağlı kalındı."
+  },
+  {
+   "key": "G01|4|3",
+   "eski": {
+    "soru": "4458 sayılı Gümrük Kanununa göre beyan edilen eşya ile bağlayıcı tarife bilgisinde tanımlanan eşya arasında her bakımdan uygunluk bulunduğunu kanıtlama yükü kime aittir?",
+    "cevap": "Bilgi alan kişiye, yani gümrük işlemleri sırasında beyan sahibine aittir.",
+    "dayanak": "GK md. 9/3; Seri No 14 Tebliğ md. 16"
+   },
+   "yeni": {
+    "soru": "4458 sayılı Gümrük Kanununa göre beyan edilen eşya ile bağlayıcı tarife bilgisinde tanımlanan eşya arasında her bakımdan uygunluk bulunduğunu kanıtlama yükü kime aittir?",
+    "cevap": "Bilgi alan kişiye, yani gümrük işlemleri sırasında beyan sahibine aittir.",
+    "dayanak": "GK md. 9/3; Seri No 14 Tebliğ md. 16"
+   },
+   "gerekce": "Soru Gümrük Kanununa dayandırıldığı ve cevabın ana unsuru 'bilgi alan kişi' olduğu halde kanıt yalnız Tebliğ md. 16'dan alınmıştı; GK md. 9/3'ün birebir metni kanıta eklendi (soru ve cevap aynen korundu)."
+  },
+  {
+   "key": "G02|0|51",
+   "eski": {
+    "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ihracatta yerinde gümrükleme iznine sahip sertifika sahiplerine ayrıca talep aranmaksızın hangi yetki tanınır?",
+    "cevap": "Kendilerine ait ve izin kapsamında ihraç edecekleri eşya ile sınırlı olmak üzere, transit eşyasını hareket gümrük idaresine sunmaksızın kendi tesislerinden sevk etmek için izinli gönderici olarak işlem yapma yetkisi tanınır; bu yetkide izinli gönderici için aranan ek koşullar aranmaz.",
+    "dayanak": "GİKY md. 57/7-8"
+   },
+   "yeni": {
+    "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ihracatta yerinde gümrükleme iznine sahip sertifika sahiplerine ayrıca talep aranmaksızın hangi yetki tanınır?",
+    "cevap": "Kendilerine ait ve ihracatta yerinde gümrükleme izni kapsamında ihraç edecekleri eşya ile sınırlı olmak üzere, transit rejimine tabi eşyayı hareket gümrük idaresine sunmaksızın kendi ihracatta yerinde gümrükleme tesislerinden sınır gümrük idaresine veya Türkiye Cumhuriyeti Gümrük Bölgesi dışındaki varış noktasına sevk etmek için izinli gönderici olarak işlem yapma yetkisi tanınır. Bu yetkinin tanınmasında izinli gönderici yetkisi için aranan ek koşullar aranmaz; ancak ortak transit rejimi kapsamında rejim hak sahibi sıfatıyla yapılacak işlemler için kapsamlı teminat sahibi olmak veya teminattan vazgeçme iznine sahip olmak şarttır.",
+    "dayanak": "GİKY md. 57/7-8"
+   },
+   "gerekce": "Cevap 'izinli gönderici için aranan ek koşullar aranmaz' demekle yetinip hükmün aynı fıkradaki istisnasını (ortak transit rejiminde rejim hak sahibi sıfatıyla işlemler için kapsamlı teminat/teminattan vazgeçme izni şartı) atlıyordu; bu haliyle yanıltıcıydı. İstisna ve sevkin varış noktası (sınır gümrük idaresi/TCGB dışı varış noktası) eklendi."
+  },
+  {
+   "key": "G02|0|58",
+   "eski": {
+    "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli göndericinin başka kişilerden taşıma hizmeti alarak kiraladığı araçlarla yetki kapsamında taşıma yaptırabilmesi için taşıyıcıdan ne kadar süredir hizmet alıyor olması gerekir?",
+    "cevap": "Yetki kapsamında taşıma yaptıracağı taşıyıcıdan en az 1 yıldır taşıma hizmeti alıyor olması gerekir; ayrıca transit beyanını rejim hak sahibi sıfatıyla kendi adına vermesi ve beyandan gümrük idaresine karşı sorumlu olması aranır.",
+    "dayanak": "GİKY md. 91/1-c"
+   },
+   "yeni": {
+    "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli alıcı yetkisine de sahip izinli göndericinin, transit rejimi kapsamında sevkli birden fazla beyan muhteviyatı eşyayı aynı taşıma aracına birden fazla tesis veya gümrük idaresinden yükleyerek ihraç etmek üzere başka kişilerden taşıma hizmeti alarak kiraladığı araçlarla taşıtabilmesi için taşıyıcıdan ne kadar süredir hizmet alıyor olması gerekir?",
+    "cevap": "Yetki kapsamında taşıma yaptıracağı taşıyıcıdan en az 1 yıldır taşıma hizmeti alıyor olması gerekir. Ayrıca izinli göndericinin transit beyanını rejim hak sahibi sıfatıyla kendi adına vermesi ve verdiği beyandan gümrük idaresine karşı sorumlu olması, taşıyıcı firmanın taşımaya ilişkin uygun güvenlik tedbirleri aldığını kontrol etmesi ve taşıyıcının güvenilirlik koşulunun Yönetmelikte sayılan ölçütlerini sağlaması aranır.",
+    "dayanak": "GİKY md. 91/1-c"
+   },
+   "gerekce": "1 yıllık hizmet alma şartı, izinli alıcı yetkisine de sahip izinli göndericinin birden fazla tesis veya gümrük idaresinden aynı araca yükleme yaparak ihracat taşıması özel durumuna ilişkindir; genel kuralda izinli gönderici taşımaları herhangi bir taşıyıcı aracılığıyla yapılabilir (md. 76/4). Soru bu bağlam olmadan genel bir şart gibi sorulduğundan yanıltıcıydı; soru hükmün kapsamına göre daraltıldı, cevaba diğer şartlar eklendi."
+  },
+  {
+   "key": "G02|0|68",
+   "eski": {
+    "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlülerin hangi eşyaya ilişkin gümrük beyannameleri yeşil hatta işlem görmez?",
+    "cevap": "Gümrük Yönetmeliği uyarınca tahlile tabi tutulacağı belirtilen eşyaya ilişkin beyannameler yeşil hatta işlem görmez.",
+    "dayanak": "GİKY md. 144/2"
+   },
+   "yeni": {
+    "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlülerin hangi eşyaya ilişkin gümrük beyannameleri yeşil hatta işlem görmez?",
+    "cevap": "Gümrük Yönetmeliğinin 196 ncı maddesinin birinci fıkrasının (a) ve (ç) bentlerinde tahlile tabi tutulacağı belirtilen eşyaya ilişkin gümrük beyannameleri yeşil hatta işlem görmez.",
+    "dayanak": "GİKY md. 144/2"
+   },
+   "gerekce": "Cevap, Gümrük Yönetmeliği uyarınca tahlile tabi her eşyayı kapsıyormuş gibi genelleştiriyordu; hüküm yalnızca Gümrük Yönetmeliğinin 196/1-(a) ve (ç) bentlerinde tahlile tabi tutulacağı belirtilen eşyayı kapsar. Kapsam hükme uygun olarak daraltıldı."
+  },
+  {
+   "key": "G04|1|24",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre denizyolu ile taşınan dökme ve ambalaj halindeki eşya için özet beyan ne zaman verilir?",
+    "cevap": "Türkiye Gümrük Bölgesindeki ilk varış limanına gelmeden en az dört saat önce verilir.",
+    "dayanak": "GY md. 67/1-b"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre denizyolu ile taşınan dökme ve ambalaj halindeki eşya için özet beyan ne zaman verilir?",
+    "cevap": "Karadeniz ya da Akdeniz üzerindeki yabancı ülke limanları ve Avrupa Topluluğu gümrük bölgesindeki limanlar ile Türkiye limanları arasındaki taşımalar hariç, Türkiye Gümrük Bölgesindeki ilk varış limanına gelmeden en az dört saat önce verilir; bu istisna kapsamındaki taşımalarda ise ilk varış limanına gelmeden en az iki saat önce verilir.",
+    "dayanak": "GY md. 67/1-b, c"
+   },
+   "gerekce": "Hükümdeki '(c) bendinde belirtilen durumlar haricinde' istisnası cevapta atlanmıştı; Karadeniz/Akdeniz/AT limanlarından gelen dökme ve ambalajlı eşyada süre dört değil iki saattir. Konteyner sorusundaki (G04|1|23) yaklaşımla tutarlı hale getirildi."
+  },
+  {
+   "key": "G04|2|12",
+   "eski": {
+    "soru": "4458 sayılı Gümrük Kanununa göre Türkiye'de düzenlenebilecek belgeleri başka ülkelerde düzenlenmiş gibi gösterebilecek boş faturaların ithali yasağının istisnası nedir?",
+    "cevap": "Türkiye'de yerleşik olmayan yabancı firmalara ait proforma faturalar yasak kapsamı dışındadır.",
+    "dayanak": "GK md. 56/2"
+   },
+   "yeni": {
+    "soru": "4458 sayılı Gümrük Kanununa göre Türkiye'de düzenlenebilecek belgeleri başka ülkelerde düzenlenmiş gibi gösterebilecek nitelikteki boş faturaların ithali yasağının dışında hangi faturalar tutulmuştur?",
+    "cevap": "Türkiye'de yerleşik olmayan yabancı firmalara ait proforma faturalar yasak kapsamı dışındadır; bunun dışındaki boş faturaların, üzerleri imzalı veya imzasız olsun, Türkiye'ye ithaline izin verilmez.",
+    "dayanak": "GK md. 56/2"
+   },
+   "gerekce": "Aynı fıkrada ikinci bir istisna (Türkiye'de yerleşik firmalarla lisans, royalti veya patent anlaşması imzalamış yabancı firmaların bu tür eşyası) da bulunduğundan 'yasağın istisnası nedir' sorusu tek cevaplı değildi; soru 'hangi faturalar' şeklinde tekleştirildi."
+  },
+  {
+   "key": "G04|2|18",
+   "eski": {
+    "soru": "4458 sayılı Gümrük Kanununa göre haklı bir mazeret bulunması halinde ihtiyati tedbir kararı getirilmesi için hak sahibine ne kadar ek süre verilebilir?",
+    "cevap": "Hak sahibinin talebi üzerine gümrük idaresince on iş gününe kadar ek süre verilebilir; bozulabilir eşyada üç iş günlük süre ise uzatılamaz.",
+    "dayanak": "GK md. 57/3; GY md. 107/2"
+   },
+   "yeni": {
+    "soru": "4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre haklı bir mazeret bulunması halinde ihtiyati tedbir kararı getirilmesi için hak sahibine ne kadar ek süre verilebilir?",
+    "cevap": "Hak sahibinin talebi üzerine gümrük idaresince on iş gününe kadar ek süre verilebilir; bozulabilir eşyada üç iş günlük süre ise uzatılamaz.",
+    "dayanak": "GK md. 57/3; GY md. 107/2"
+   },
+   "gerekce": "Kök yalnız Kanunu gösteriyordu; oysa cevaptaki 'bozulabilir eşyada üç iş günlük süre uzatılamaz' kuralı Kanunda değil Gümrük Yönetmeliğinde (md. 107/2) yer alıyor, Kanun 57/3 ek süreyi eşya ayrımı yapmadan düzenliyor. Kök, dayanağın türünü doğru gösterecek şekilde düzeltildi."
+  },
+  {
+   "key": "G04|2|37",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre teminat karşılığında teslimde, işlemler hak sahibi dışındaki bir kişi tarafından başlatılmışsa ve hak sahibi yasal süreci başlatmazsa teminat ne zaman çözülür?",
+    "cevap": "Durdurma bildiriminin kendisine ulaştığı tarihten itibaren yirmi iş günü içinde yasal süreci başlatmaması halinde teminat çözülür; dava süresinin uzatıldığı hallerde bu süre en fazla otuz iş gününe kadar uzatılabilir.",
+    "dayanak": "GY md. 108/3-4"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre tasarım hakkı, patent gibi hakları ihlal şüphesiyle durdurulup teminat karşılığında teslim edilen eşyada, işlemler hak sahibi dışındaki bir kişi tarafından başlatılmışsa anlaşmazlığa ilişkin yasal süreç hangi süre içinde başlatılmazsa alınan teminat çözülür?",
+    "cevap": "Eşyanın gümrük işlemlerinin durdurulduğuna ilişkin bildirimin ulaştığı tarihten itibaren yirmi iş günü içinde yasal süreç başlatılmazsa teminat çözülür; dava açma ve ihtiyati tedbir kararı alma süresinin on iş günü daha uzatılması halinde bu süre en fazla otuz iş gününe kadar uzatılabilir.",
+    "dayanak": "GY md. 108/3-4"
+   },
+   "gerekce": "Soruda yasal süreci başlatmayan kişi 'hak sahibi' olarak belirtilmişti; hüküm, işlemlerin hak sahibi dışındaki bir kişi tarafından başlatıldığı durumu düzenliyor ve bildirimin ulaştığı kişi (kendisine) o kişidir. Soru bu yönden tarafsızlaştırıldı. sayi_uyari: 'otuz iş günü' 108/4'te doğrulandı ve kanıt bu fıkra ile tamamlandı."
+  },
+  {
+   "key": "G05|0|76",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre hangi eşya muayeneye tabi tutulmaz?",
+    "cevap": "Cumhurbaşkanının zat ve ikametgâhı için gelen eşya; gizliliği ilgili kurumlarca önceden bildirilen kamu kurumlarına ait eşya; yabancı devlet başkanları, aileleri ve refakatlerindeki memurların eşya ve taşıtları; yabancı diplomatik temsilcilik ve konsoloslukların resmi görevle ilgili belge, taşıt ve eşyası ile resmi binalar için inşaat malzemesi; içinde gizli evrak bulunan mühürlü kurye çantaları.",
+    "dayanak": "GY md. 185/1"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre hangi eşya muayeneye tabi tutulmaz?",
+    "cevap": "Cumhurbaşkanının zat ve ikametgâhı için gelen eşya; Gümrük Kanununun 167 nci maddesinin üçüncü fıkrası kapsamına giren eşyadan, ilgili kurumlarca gizliliği önceden Müsteşarlığa bildirilen eşya; yabancı devlet başkanları ve aile efradı ile refakatlerindeki memurların getirdikleri veya Türkiye'deki ikametleri sırasında getirtecekleri eşya ve taşıtlar; Türkiye'deki yabancı diplomatik temsilciliklerin ve yabancı devletlerin konsolosluklarının resmi bir görevin yapılmasıyla ilgili getirecekleri her türlü basılmış ve basılmamış belge, taşıt ve diğer eşya ile resmi binalar için inşaat malzemesi; içinde gizli evrak bulunan mühürlü kurye çantaları.",
+    "dayanak": "GY md. 185/1"
+   },
+   "gerekce": "Cevaptaki 'gizliliği ilgili kurumlarca önceden bildirilen kamu kurumlarına ait eşya' ifadesi hükmü aşırı genişletiyor: GY 185/1-b yalnız Kanunun 167. maddesinin üçüncü fıkrası kapsamına giren eşyadan gizliliği önceden Müsteşarlığa bildirilenleri kapsar; her kamu kurumunun eşyası muayeneden muaf değildir ve bildirimin Müsteşarlığa yapılacağı da atlanmıştı. Kaynak ifadesine uygun hale getirildi, kanıta ilgili bent eklendi."
+  },
+  {
+   "key": "G05|0|88",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre petrol ürünleri ve alkollerden alınacak numune en az ne miktarda olmalıdır?",
+    "cevap": "En az 1 litre alınır (diğer sıvılarda en az ½ litre, toz örneklerde en az 250 gram); numuneler her durumda en az iki tahlile yetecek miktarda alınır.",
+    "dayanak": "GY md. 199/1-a"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre petrol ürünleri ve alkollerden alınacak numune en az ne miktarda olmalıdır?",
+    "cevap": "Petrol ürünlerinde ve alkollerde en az 1 litre numune alınır (diğer sıvı numunelerde en az ½ litre, toz örneklerde en az 250 gram). Numuneler beyan edilen eşyayı temsil edecek şekilde ve en az iki tahlile yetecek miktarda alınır; orijinal ambalajlı, kıymetli, az miktarda bulunan ve benzeri durumlardaki numuneler bu miktar kurallarının dışındadır.",
+    "dayanak": "GY md. 199/1-a"
+   },
+   "gerekce": "Cevaptaki 'numuneler her durumda en az iki tahlile yetecek miktarda alınır' ifadesi hükümle çelişiyor: aynı bentte orijinal ambalajlı, kıymetli, az miktarda bulunan ve benzeri durumlardaki numuneler miktar kuralından açıkça hariç tutulmuştur. İstisna cevaba eklendi, 'her durumda' kaldırıldı."
+  },
+  {
+   "key": "G05|1|7",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre bir taşıma belgesi içeriği farklı tarife pozisyonlarındaki eşyaya en yüksek vergi oranlı pozisyonun uygulanabilmesi için hangi şartlar aranır?",
+    "cevap": "Eşyanın herhangi bir ticaret politikası önlemine tabi olmaması ve taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve GTİP'ini içeren listenin beyannameye eklenmesi zorunludur.",
+    "dayanak": "GY md. 204/1"
+   },
+   "yeni": {
+    "soru": "Gümrük Kanunu ve Gümrük Yönetmeliğine göre bir taşıma belgesi içeriği farklı tarife pozisyonlarına giren eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulanabilmesi için hangi şartlar aranır?",
+    "cevap": "Her bir eşya için kendi tarife pozisyonuna göre işlem yapılmasının ek bir iş yükü ve masrafa sebep olması ve beyan sahibinin bunu talep etmesi gerekir; bu durumda gümrük idareleri eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulayabilir. Yönetmeliğe göre bu uygulama herhangi bir ticaret politikası önlemine tabi olmayan eşyaya yapılır ve taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonunu içeren listenin beyannameye eklenmesi zorunludur.",
+    "dayanak": "GK md. 76; GY md. 204/1"
+   },
+   "gerekce": "Soru 'hangi şartlar aranır' diye soruyor; ancak cevap yalnız GY 204'teki unsurları veriyor, GY 204'ün atıf yaptığı Kanun 76'daki temel şartları (ayrı ayrı işlemin ek iş yükü ve masrafa yol açması ve beyan sahibinin talebi) atlıyordu. Bu haliyle cevap eksik ve yanıltıcıydı. Kanun şartları eklendi; kök, dayanağı (Kanun ve Yönetmelik) gösterecek şekilde düzenlendi."
+  },
+  {
+   "key": "G05|1|10",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre ticaret politikası önlemine tabi eşyanın serbest dolaşıma girişinde hangi hallerde menşe şahadetnamesi aranmaz?",
+    "cevap": "Tercihli tarifeden yararlanmak için tercihli menşei tevsik eden belgelerin ibrazında (tercihin kalkmasından önce gözetim altındaki eşya dahil), eşyanın doğrudan önlemin uygulandığı ülkeden ithal edildiği veya o ülke menşeli olarak beyan edildiği hallerde ve AB'den A.TR Dolaşım Belgesi eşliğinde gelen eşyada aranmaz.",
+    "dayanak": "GY md. 205/4"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre ticaret politikası önlemine tabi eşyanın serbest dolaşıma girişinde hangi hallerde menşe şahadetnamesi aranmaz?",
+    "cevap": "Tercihli tarifeden yararlanmak için tercihli menşei tevsik eden belgelerin ibrazında (tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan serbest dolaşımda olmayan eşyaya ait bu belgelerin ibrazı dahil), eşyanın doğrudan önlemin uygulandığı ülkeden ithal edildiği veya önlem uygulanan ülke menşeli olduğu beyan edildiği hallerde ve 1/95 sayılı Ortaklık Konseyi Kararının 47. maddesi saklı kalmak üzere AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşyada menşe şahadetnamesi aranmaz. Ancak önlem uygulanan ülkeden ithal edilen/menşeli beyan edilen eşya aynı anda birden fazla önleme tabiyse ya da aynı düzenlemede ülkesine göre farklı oranlar belirlenmişse menşe şahadetnamesi aranır. Numunelerin serbest dolaşıma girişinde ise bu madde hükümleri uygulanmaz.",
+    "dayanak": "GY md. 205/4, 205/7"
+   },
+   "gerekce": "Cevap, 'önlem uygulanan ülkeden ithal/menşeli beyan' halini koşulsuz bir muafiyet gibi sunuyordu; oysa aynı fıkrada bu halin istisnası düzenlenmiştir: birden fazla önlem ya da ülkeye göre farklı oran varsa menşe şahadetnamesi aranır. Bu önemli istisna eklendi; ayrıca numunelerde maddenin uygulanmadığı (205/7) belirtildi."
+  },
+  {
+   "key": "G06|0|39",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre dahilde işleme rejiminde, Kanunda sayılan eşya için izin verilirken hangi eşya izin kapsamı dışında bırakılmıştır?",
+    "cevap": "İşlem görmüş ürünlerin denenmesinde veya tamire ihtiyacı olan ithal eşyanın kusurlarının tespitinde kullanılanlar dışındaki yakıt ve enerji kaynakları; işlem görmüş ürünlerin denenmesi, ayarlanması veya geri alınmasında kullanılanlar dışındaki yağlar ile alet ve gereç izin kapsamı dışındadır.",
+    "dayanak": "GY md. 350/2"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre dahilde işleme rejiminde, işlem görmüş ürünler içinde bulunmayan ancak bu ürünlerin üretilmesini sağlayan veya kolaylaştıran eşyanın kullanılmasına izin verilirken hangi eşya izin kapsamı dışında tutulmuştur?",
+    "cevap": "İşlem görmüş ürünlerin denenmesinde veya tamire ihtiyacı olan ithal eşyanın kusurlarının tespitinde kullanılanlar dışındaki yakıt ve enerji kaynakları; işlem görmüş ürünlerin denenmesi, ayarlanması veya geri alınmasında kullanılanlar dışındaki yağlar ile alet ve gereç izin kapsamı dışındadır.",
+    "dayanak": "GY md. 350/2 (GK md. 108/3-d)"
+   },
+   "gerekce": "Kökteki \"Kanunda sayılan eşya için izin verilirken\" ifadesi hükmün konusunu göstermiyor; GY 350/2 Kanunun 108/3-d bendindeki eşyaya (işlem görmüş ürünler içinde bulunmayan ancak üretimi sağlayan/kolaylaştıran eşya; 32-DAHİLDE İŞLEME.txt GK 108/3-d) ilişkindir. Kök bu konuyla netleştirildi, kanıta yağlar bendi ve 108/3-d atfı eklendi; cevap değişmedi."
+  },
+  {
+   "key": "G06|0|42",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre izin için başvuran kişi ile işleme faaliyetini yaptıracak kişinin farklı olması halinde ne yapılır?",
+    "cevap": "Kanunda öngörülen şartların yerine getirildiğinin belgelerle desteklenmesine yönelik bir ön inceleme yapılır.",
+    "dayanak": "GY md. 396/1"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre hariçte işleme rejiminde izin için başvuran kişi ile işleme faaliyetini yaptıracak kişinin farklı olması halinde ne yapılır?",
+    "cevap": "Kanunda hariçte işleme izni için öngörülen şartların yerine getirildiğinin belgelerle desteklenmesine yönelik bir ön inceleme yapılır.",
+    "dayanak": "GY md. 396/1 (GK md. 137/2)"
+   },
+   "gerekce": "Kökte hangi rejimin izninin söz konusu olduğu belirtilmemişti; GY 396 hariçte işleme rejimi bölümündedir (35- hir.txt: \"396 ila 414 üncü maddelerde bahsedilen hariçte işleme rejimi\") ve atıf yapılan GK 137/2 hariçte işleme iznine ilişkindir. Rejim köke ve cevaba eklendi."
+  },
+  {
+   "key": "G07|0|35",
+   "eski": {
+    "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit taşımalarında izlenecek güzergâh hangi hallerde gümrük idaresince belirlenir?",
+    "cevap": "Kaçakçılık yapılacağına dair ihbar, istihbarat veya kuvvetli şüphe bulunması, taşınan eşya ya da taşıyıcı hakkında risk verilerinin mevcut olması ve araca ATS cihazı takılması hallerinde belirlenir; beyan sahibi de zorunlu güzergâh belirlenmesini talep edebilir.",
+    "dayanak": "Seri No 4 Tebliğ md. 24/1"
+   },
+   "yeni": {
+    "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit taşımalarında izlenecek güzergâh hangi hallerde gümrük idaresince belirlenir?",
+    "cevap": "Kaçakçılık yapılacağına dair ihbar, istihbarat veya kuvvetli şüphe bulunması, taşınan eşya ya da taşıyıcı hakkında gümrük idarelerinde risk verilerinin mevcut olması ve araca ATS cihazı takılması hallerinde gümrük idaresince belirlenir; beyan sahibi de hareket gümrük idaresinden zorunlu güzergâh belirlenmesini talep edebilir. Ayrıca Ulaştırma ve Altyapı Bakanlığınca verilen Özel İzin Belgesi veya Özel Yük Taşıma İzin Belgesinde bir güzergâh belirlenmişse hareket gümrük idaresi bunu dikkate alarak güzergâhı belirler ve taşıtların bu güzergâhı izlemesi zorunludur.",
+    "dayanak": "Seri No 4 Tebliğ md. 24/1, 3"
+   },
+   "gerekce": "Soru güzergâhın gümrük idaresince belirlendiği halleri soruyor; cevap yalnız 24/1 hallerini sayıyor, Ulaştırma ve Altyapı Bakanlığı Özel İzin/Özel Yük Taşıma İzin Belgesinde güzergâh belirlenmesi halinde de hareket gümrük idaresinin güzergâh belirlediğine ilişkin 24/3 hükmü atlanmış; liste eksik kaldığı için tamamlandı."
+  },
+  {
+   "key": "G09|1|0",
+   "eski": {
+    "soru": "4458 sayılı Gümrük Kanununa göre eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasına ilişkin bir kısım tespit işlemlerinin gümrük müşavirleri eliyle yürütülmesine ilişkin usul ve esasları düzenlemeye hangi makam yetkilidir?",
+    "cevap": "Müsteşarlık yetkilidir; gerekli gördüğü tespit işlemlerinin, belirleyeceği niteliklere sahip gümrük müşavirleri eliyle yürütülmesine ilişkin usul ve esasları düzenler.",
+    "dayanak": "GK md. 10/1-c"
+   },
+   "yeni": {
+    "soru": "4458 sayılı Gümrük Kanununa göre eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasına ilişkin gerekli görülen bir kısım tespit işlemleri kimler eliyle yürütülebilir ve bunun usul ve esaslarını düzenleme yetkisi hangi idareye aittir?",
+    "cevap": "Belirlenecek niteliklere sahip gümrük müşavirleri (yetkilendirilmiş gümrük müşavirleri) eliyle yürütülebilir. Usul ve esasları düzenleme yetkisi Kanun metninde Müsteşarlığa verilmiştir; Gümrük Yönetmeliği bu hükme dayanarak tespit işlemlerinin Bakanlıkça belirleneceğini ve usul ve esasların Bakanlıkça yayımlanan tebliğ ve genelgelerle düzenleneceğini öngörür.",
+    "dayanak": "GK md. 10/1-c; GY md. 574/1-2"
+   },
+   "gerekce": "Kaynaktaki Kanun metni yetkili idareyi 'Müsteşarlık' olarak gösteriyor; Müsteşarlık artık bulunmadığından tek başına 'Müsteşarlık' cevabı 2027 sınavı için yanıltıcı. Aynı kaynaktaki GY 574/1-2, GK 10/1-c'ye dayanan bu yetkinin Bakanlıkça kullanıldığını gösterdiğinden cevap iki ifadeyi birlikte verecek şekilde düzeltildi; soru, tespit işlemlerini kimlerin yürüteceğini de kapsayacak şekilde netleştirildi ve kanıta GY 574 kesitleri eklendi."
+  },
+  {
+   "key": "G10|0|51",
+   "eski": {
+    "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izin belgesi kapsamında döviz kullanım oranı en fazla yüzde kaç olarak belirlenebilir?",
+    "cevap": "Bakanlıkça %80'i geçmemek üzere belirlenir; ikincil işlem görmüş tarım ürünleri taahhüdü içeren belgelerde azami %100 olarak tespit edilebilir.",
+    "dayanak": "DİR Tebliği (2006/12) md. 17/9"
+   },
+   "yeni": {
+    "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izin belgesi kapsamında döviz kullanım oranı en fazla yüzde kaç olarak belirlenebilir?",
+    "cevap": "Bakanlıkça %80'i geçmemek üzere belirlenir; ikincil işlem görmüş tarım ürünleri taahhüdü içeren belgelerde bu oran Bakanlıkça azami %100 olarak tespit edilebilir. Ancak Bakanlık, uluslararası emtia piyasalarındaki konjonktürel fiyat dalgalanmaları nedeniyle bu azami oranları dönemsel veya sektörel olarak yükseltmeye yetkilidir.",
+    "dayanak": "DİR Tebliği (2006/12) md. 17/9-10"
+   },
+   "gerekce": "Soru döviz kullanım oranının 'en fazla' kaç olabileceğini soruyor; ancak hemen ardından gelen fıkra Bakanlığa konjonktürel fiyat dalgalanmaları nedeniyle bu azami oranları (%80 / %100) dönemsel veya sektörel olarak yükseltme yetkisi veriyor. Bu istisna olmadan cevap oranların mutlak üst sınır olduğu izlenimini veriyor; istisna cevaba ve kanıta eklendi, dayanak 17/9-10 olarak genişletildi."
+  },
+  {
+   "key": "G11|1|56",
+   "eski": {
+    "soru": "Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre ticari kiralama yoluyla yapılan ihracatta süre ne kadardır ve nasıl uzatılır?",
+    "cevap": "Süre 3 yılı aşamaz; süre bitiminden önce başvurulmak kaydıyla ilgili gümrük müdürlüğünce ticari kiralama sözleşmesinde belirlenen süre kadar uzatılabilir.",
+    "dayanak": "Seri No 1 Tebliğ md. 9/4"
+   },
+   "yeni": {
+    "soru": "Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre ticari kiralama yoluyla yapılan ihracatta süre ne kadardır ve nasıl uzatılır?",
+    "cevap": "Süre 3 yılı aşamaz; süre bitiminden önce başvurulmak kaydıyla ilgili gümrük müdürlüğünce ticari kiralama sözleşmesinde belirlenen süre kadar uzatılabilir.",
+    "dayanak": "Seri No 1 Tebliğ md. 9/4"
+   },
+   "gerekce": "Cevap doğru; sayi_uyari'daki 3 yıllık üst sınır kaynakta (Seri No 1 Tebliğ md. 9/4) doğrulandı. Kanıt yalnız uzatma cümlesini içerdiği için 3 yıllık süre cümlesi kanıta eklendi."
+  },
+  {
+   "key": "G11|1|60",
+   "eski": {
+    "soru": "Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre süre uzatımı ayrıca düzenlenmeyen geçici ihracat işlemlerinde ek süre hangi koşulla verilir?",
+    "cevap": "Süre 3 yılı aşamaz; ancak süre bitiminden önce başvurulmak ve mücbir sebep veya beklenmeyen hali gösteren belgenin onaylı Türkçe tercümesi eklenmek kaydıyla gümrük müdürlüğünce yeteri kadar ek süre verilir.",
+    "dayanak": "Seri No 1 Tebliğ md. 17/1"
+   },
+   "yeni": {
+    "soru": "Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre süre uzatımı ayrıca düzenlenmeyen geçici ihracat işlemlerinde ek süre hangi koşulla verilir?",
+    "cevap": "Süre 3 yılı aşamaz; ancak süre bitiminden önce başvurulmak ve mücbir sebep veya beklenmeyen hali gösteren belgenin onaylı Türkçe tercümesi eklenmek kaydıyla gümrük müdürlüğünce yeteri kadar ek süre verilir.",
+    "dayanak": "Seri No 1 Tebliğ md. 17/1"
+   },
+   "gerekce": "Cevap doğru; sayi_uyari'daki 3 yıllık süre kaynakta (Seri No 1 Tebliğ md. 17/1) doğrulandı. Kanıt 3 yıllık sınırı ve cevapta yer alan onaylı Türkçe tercüme şartını içermediğinden fıkranın tamamı kanıta eklendi."
+  },
+  {
+   "key": "G14|0|0",
+   "eski": {
+    "soru": "4458 sayılı Gümrük Kanununa göre serbest dolaşıma sokulacak eşyada değer bakımından gümrük vergisi muafiyeti hangi sınıra kadar tanınır?",
+    "cevap": "Değeri 150 Euro'yu geçmeyen eşya gümrük vergilerinden muaftır.",
+    "dayanak": "GK md. 167/1-(4)"
+   },
+   "yeni": {
+    "soru": "4458 sayılı Gümrük Kanununa göre başka bir nitelik aranmaksızın yalnızca değeri itibarıyla gümrük vergilerinden muaf tutulan eşya için öngörülen değer sınırı nedir?",
+    "cevap": "Değeri 150 Euro'yu geçmeyen eşya gümrük vergilerinden muaftır (yolcuların beraberindeki hediyelik eşya için ayrıca 430 Euro'luk ayrı bir sınır öngörülmüştür).",
+    "dayanak": "GK md. 167/1-(4); 167/1-(6)-a"
+   },
+   "gerekce": "Eski soru 'değer bakımından muafiyet hangi sınıra kadar' diye sorduğundan Kanunda ayrıca yer alan 430 Euro'luk yolcu hediyelik eşyası sınırı da doğru cevap olarak gösterilebiliyordu; soru tek cevaplı hale getirildi ve 430 Euro ayrımı cevaba not olarak eklendi."
+  },
+  {
+   "key": "G14|0|78",
+   "eski": {
+    "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre muafiyet hükümlerinin uygulanmasında kişilerin çift uyruklu olup olmadığı dikkate alınır mı?",
+    "cevap": "Kural olarak dikkate alınmaz; bu kuralın istisnası kullanılmış özel nakil vasıtası muafiyetine ilişkindir.",
+    "dayanak": "2009/15481 Karar md. 110/1"
+   },
+   "yeni": {
+    "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre muafiyet hükümlerinin uygulanmasında kişilerin çift uyruklu olup olmadığı dikkate alınır mı?",
+    "cevap": "Kural olarak dikkate alınmaz. İstisna yalnızca kullanılmış özel nakil vasıtasını muafen serbest dolaşıma sokan iki gruba ilişkindir: Türkiye Gümrük Bölgesi dışında en az yirmidört ay ikamet ettikten sonra yerleşim yerini Türkiye'ye kesin olarak nakleden kişiler ile Türk vatandaşlığına geçerek yerleşim yerini Türkiye'ye nakleden kişiler (yurt dışı görevden dönen kamu görevlileri bu istisnaya girmez).",
+    "dayanak": "2009/15481 Karar md. 110/1; md. 46/1-a,c"
+   },
+   "gerekce": "Eski cevap istisnayı 'kullanılmış özel nakil vasıtası muafiyetine ilişkin' diye genel bıraktığından araç muafiyetinden yararlanan tüm kişileri (kamu görevlileri dahil) kapsıyor gibi anlaşılıyordu; hüküm yalnız 46/1-(a) ve (c) bentlerindeki kişileri hariç tutar. Cevap buna göre daraltıldı."
+  },
+  {
+   "key": "G14|0|84",
+   "eski": {
+    "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre kullanılmış özel nakil vasıtası muafiyetinde yerleşim yerine ilişkin süre şartı hangi kişiler için aranmaz?",
+    "cevap": "Türkiye Gümrük Bölgesi dışında son on yıl içinde en az beş yıl ikamet eden gerçek kişiler için aranmaz.",
+    "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 5/3"
+   },
+   "yeni": {
+    "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre kullanılmış özel nakil vasıtası muafiyetinde, Türkiye Gümrük Bölgesinde geriye doğru bir takvim yılında altı aydan fazla kalmamış olma şeklindeki yerleşim yerine ilişkin süre şartı hangi kişiler için aranmaz?",
+    "cevap": "Türkiye Gümrük Bölgesi dışında son on yıl içinde en az beş yıl ikamet eden gerçek kişiler için aranmaz.",
+    "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 5/3"
+   },
+   "gerekce": "Eski soru hangi süre şartının kastedildiğini belirtmediğinden yurt dışında 24 ay ikamet şartı da anlaşılabiliyordu. O şart ise Karar md. 46/2 uyarınca kamu görevlileri ile vatandaşlığa geçenler için aranmaz, yani eski soru iki farklı doğru cevaba açıktı. Soru, Tebliğ md. 5/3'teki 'altı aydan fazla kalmama' şartı olarak netleştirildi."
+  },
+  {
+   "key": "G16|0|7",
+   "eski": {
+    "soru": "Tasfiye Yönetmeliğine göre ihale yoluyla satış, yeniden ihraç amaçlı satış, perakende satış veya tahsis yoluyla tasfiye edilecek eşya hangi süre içinde ve kim tarafından belirlenir?",
+    "cevap": "Eşyanın teslim alındığı veya alınması gereken tarihten itibaren en geç on beş gün içinde, işletme müdürü tarafından oluşturulacak komisyonca belirlenir.",
+    "dayanak": "Tasfiye Yön. md. 32/2"
+   },
+   "yeni": {
+    "soru": "Tasfiye Yönetmeliğine göre ihale yoluyla satış, yeniden ihraç amaçlı satış veya perakende satış yoluyla tasfiye edilecek eşya hangi süre içinde ve kim tarafından belirlenir?",
+    "cevap": "Eşyanın teslim alındığı veya alınması gereken tarihten itibaren en geç on beş gün içinde, işletme müdürü tarafından oluşturulacak komisyonca belirlenir.",
+    "dayanak": "Tasfiye Yön. md. 32/2"
+   },
+   "gerekce": "Md. 32/2 birinci fıkranın (a), (b), (c) ve (d) bentlerine atıf yapar. Yürürlükteki sayımda (ç) bendi tahsisi, (d) bendi ise özel yolla tasfiyeyi düzenler; bu nedenle soruda 'tahsis' sayılması kaynakla uyuşmuyordu. Soru, tartışmasız olan (a)-(c) bentleriyle sınırlandırıldı."
+  },
+  {
+   "key": "G16|0|8",
+   "eski": {
+    "soru": "4458 sayılı Gümrük Kanununa göre perakende satılacak tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya gümrük bölgesi dışına yeniden ihracı hangi tarihe kadar istenebilir?",
+    "cevap": "Perakende satış kararının alındığı tarihe kadar gümrük idaresine başvurularak istenebilir (ihaleye çıkarılacak eşyada sınır, ihale ilanının yayımlandığı tarihtir).",
+    "dayanak": "GK md. 179/1"
+   },
+   "yeni": {
+    "soru": "4458 sayılı Gümrük Kanununa göre perakende satılacak tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya gümrük bölgesi dışına yeniden ihracı hangi tarihe kadar istenebilir?",
+    "cevap": "Perakende satış kararının alındığı tarihe kadar (ihaleye çıkarılacak eşyada ihale ilanının yayımlandığı tarihe kadar) gümrük idaresine başvurularak istenebilir. Bu tarihten sonra ancak satış gerçekleşmeden önce yapılan başvurular da varsa cezalar ve giderler ile eşyanın döviz cinsinden CIF değerinin %10'u ödenmek şartıyla kabul edilir; bunun dışındaki başvurular kabul edilmez.",
+    "dayanak": "GK md. 179/1"
+   },
+   "gerekce": "Eski cevap perakende satış kararından sonra hiç başvuru yapılamayacağı izlenimini veriyordu. Oysa aynı fıkra, karar alındıktan sonra ve satıştan önce yapılan başvuruları %10 CIF ödemesiyle kabul eder. Bu ikinci aşama cevaba eklendi."
+  },
+  {
+   "key": "G16|0|24",
+   "eski": {
+    "soru": "Tasfiye Yönetmeliğine göre el konulan eşyanın sahibine iadesi yönünde verilen kesinleşmemiş mahkeme kararları eşyanın tasfiye işlemlerini durdurur mu?",
+    "cevap": "Hayır, durdurmaz. İstinaf veya temyiz yoluna konu edilen iade kararları ise kararda aksine hüküm yoksa hükmün kesinleşmesinden sonra yerine getirilir.",
+    "dayanak": "Tasfiye Yön. md. 14/4"
+   },
+   "yeni": {
+    "soru": "Tasfiye Yönetmeliğine göre el konulan eşyanın sahibine iadesi yönünde verilen kesinleşmemiş mahkeme kararları eşyanın tasfiye işlemlerini durdurur mu?",
+    "cevap": "Hayır, durdurmaz; istinaf veya temyiz yoluna konu edilen iade kararları da kararda aksine hüküm yoksa hükmün kesinleşmesinden sonra yerine getirilir. Ancak bu kural, itiraz kanun yoluna tabi iade yönündeki ara kararlar ile hükmün açıklanmasının geri bırakılması kararlarını kapsamaz: bunlar kesinleşmeleri beklenmeden yerine getirilir ve iade işlemi gerçekleştirilir.",
+    "dayanak": "Tasfiye Yön. md. 14/3-4"
+   },
+   "gerekce": "Hüküm 'üçüncü fıkra saklı kalmak üzere' kaydını taşır, yani ara kararlar ile HAGB kararlarında kesinleşme beklenmeden iade yapılır. Eski cevap bu istisnayı atlayıp kayıtsız bir 'durdurmaz' veriyordu. İstisna cevaba ve kanıta eklendi."
+  },
+  {
+   "key": "G16|0|53",
+   "eski": {
+    "soru": "Tasfiye Yönetmeliğine göre tasfiyelik eşya özel yolla kamu kurum ve kuruluşlarına en az hangi bedel üzerinden satılabilir?",
+    "cevap": "Gümrüklenmiş değerinin yüzde ellisinden az olmamak üzere Bakanlıkça belirlenecek bedel üzerinden satılabilir.",
+    "dayanak": "Tasfiye Yön. md. 59/1"
+   },
+   "yeni": {
+    "soru": "Tasfiye Yönetmeliğine göre tasfiyelik hale gelen eşyanın özel yolla Bakanlıkça belirlenecek bedel üzerinden kamu kurum ve kuruluşlarına satılmasında bu bedel gümrüklenmiş değerin yüzde kaçından az olamaz?",
+    "cevap": "Gümrüklenmiş değerinin yüzde ellisinden az olamaz.",
+    "dayanak": "Tasfiye Yön. md. 59/1"
+   },
+   "gerekce": "Eski soru ('en az hangi bedel üzerinden satılabilir') yüzde 50'yi özel yolla yapılan her satış için mutlak alt sınır gibi gösteriyordu. Oysa md. 59/1 alternatif olarak 38/2-(f) kapsamında teklif bedeli üzerinden satışa izin verir. Md. 59/2 ise taraflarca belirlenecek bedelle ya da bedelsiz teslime de imkân tanır. Soru, Bakanlıkça belirlenen bedel yoluyla sınırlandırıldı."
+  },
+  {
+   "key": "G15|0|57",
+   "eski": {
+    "soru": "2022/9 sayılı Genelgeye göre silah ve tüfekler hariç olmak üzere Bazı Patlayıcı Maddeler, Ateşli Silahlar, Bıçaklar ve Benzeri Aletlerin İthaline İlişkin Tebliğ kapsamındaki eşyanın posta veya hızlı kargo yoluyla serbest dolaşıma sokulmasında hangi belge aranır?",
+    "cevap": "Kıymet, miktar veya ağırlık bakımından herhangi bir istisna olmaksızın Emniyet Genel Müdürlüğünden alınacak genel güvenlik ve asayiş yönünden uygunluk yazısı aranır. Yurt içinde kayıt ve ruhsatı bulunmayan silah ve tüfeklerin ise posta veya hızlı kargo ile getirilmesi yasaktır.",
+    "dayanak": "2022/9 Genelge IV/13"
+   },
+   "yeni": {
+    "soru": "2022/9 sayılı Genelgeye göre silah ve tüfekler hariç olmak üzere Bazı Patlayıcı Maddeler, Ateşli Silahlar, Bıçaklar ve Benzeri Aletlerin İthaline İlişkin Tebliğ kapsamındaki eşyanın posta veya hızlı kargo yoluyla serbest dolaşıma sokulmasında hangi belge aranır?",
+    "cevap": "Kıymet, miktar veya ağırlık bakımından herhangi bir istisna olmaksızın Emniyet Genel Müdürlüğünden alınacak genel güvenlik ve asayiş yönünden uygunluk yazısı aranır. Yurt içinde kayıt ve ruhsatı bulunmayan silah ve tüfeklerin ise, Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmelikte istisna tutulan kişiler hariç, posta veya hızlı kargo ile getirilmesi yasaktır.",
+    "dayanak": "2022/9 Genelge IV/13"
+   },
+   "gerekce": "Cevabın ikinci cümlesi kayıt ve ruhsatı bulunmayan silah ve tüfeklerin getirilmesini mutlak yasak gibi sunuyordu. Oysa hükümde Ateşli Silahlar Yönetmeliğinin ilgili maddesinde sayılan kişiler hariç tutuluyor. Bu istisna eklendi ve kanıt bu cümleyi de kapsayacak şekilde genişletildi."
+  },
+  {
+   "key": "G19|1|18",
+   "eski": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmeliğe göre, bir takvim yılında el koyma ikramiyesine hak kazananlara ödenecek ikramiyenin üst sınırı nedir?",
+    "cevap": "120000 gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarı geçemez; hesaplamada aynı yıl hak edilen tüm ikramiye türleri birlikte esas alınır.",
+    "dayanak": "İkramiye Yön. md. 15/9"
+   },
+   "yeni": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmeliğe göre, bir takvim yılında el koyma ikramiyesine hak kazananlara ödenecek ikramiyenin üst sınırı nedir?",
+    "cevap": "120000 gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarı geçemez. Bu tutarın hesaplanmasında, aynı yıl içinde hak edilen kaçak eşya, kaçak silah-mühimmat, uyuşturucu madde, örgütlü veya bireysel uyuşturucu veya uyarıcı madde ticareti, uyuşturucu madde elde etmek amacıyla ekilen bitki ve bandrolsüz, kaçak veya sahte tütün/alkol ikramiyelerinin tamamı esas alınır.",
+    "dayanak": "İkramiye Yön. md. 15/9"
+   },
+   "gerekce": "Cevaptaki 'aynı yıl hak edilen tüm ikramiye türleri' ifadesi fazla genel. Hüküm yıllık tavan hesabına katılacak ikramiye türlerini tek tek sayıyor ve kaçak akaryakıt ikramiyesi bu listede yok. Liste hükümdeki haliyle cevaba yazıldı ve kanıta eklendi."
+  },
+  {
+   "key": "G17|0|18",
+   "eski": {
+    "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre iştirak halinin varlığı tespit edildiğinde para cezaları ilgililere nasıl uygulanır?",
+    "cevap": "Para cezaları ilgililere ayrı ayrı uygulanır ve tebliğ edilir (müteselsil sorumlulukta olduğu gibi bir kez ödenmekle kapanmaz).",
+    "dayanak": "Tahsilat Tebliği md. 8/2"
+   },
+   "yeni": {
+    "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre iştirak halinin varlığı tespit edildiğinde para cezaları ilgililere nasıl uygulanır?",
+    "cevap": "Para cezaları ilgililere ayrı ayrı uygulanır ve ayrı ayrı tebliğ edilir.",
+    "dayanak": "Tahsilat Tebliği md. 8/2"
+   },
+   "gerekce": "Cevaptaki '(müteselsil sorumlulukta olduğu gibi bir kez ödenmekle kapanmaz)' parantezi kaynakta yok ve ifade, müteselsil sorumlulukta da tek ödemeyle borcun kapanmadığı şeklinde ters anlaşılabiliyor (oysa Tebliğ md. 5/4'e göre müteselsil sorumlulukta yükümlülerden birinin ödemesi diğerlerinin yükümlülüğünü sona erdirir). Cevap kaynak hükümle sınırlandırıldı."
+  },
+  {
+   "key": "G17|4|14",
+   "eski": {
+    "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma komisyonları hangi tutarın altındaki uzlaşma talepleri için toplanamaz?",
+    "cevap": "10.000 TL'den az olan uzlaşma talepleri için toplanamaz; birden fazla yükümlünün taleplerinin toplamı 10.000 TL'yi aşarsa tek bir komisyonca sonuçlandırılabilir.",
+    "dayanak": "Gümrük Uzlaşma Yön. md. 7/7"
+   },
+   "yeni": {
+    "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma komisyonları hangi tutarın altındaki uzlaşma talepleri için toplanamaz?",
+    "cevap": "10.000 TL'den az olan uzlaşma talepleri için toplanamaz; birden fazla yükümlünün başvurularının toplamı 10.000 TL'yi aşarsa bu talepler tek bir komisyonca sonuçlandırılabilir. Ancak bölge müdürlüklerine yapılan talepler üç ay içinde 10.000 TL'ye ulaşmazsa mevcut talepler takip eden ay içinde sonuçlandırılır; tam muafiyetle geçici ithal edilen kişisel kullanıma mahsus taşıtlara ilişkin ihlalin çıkışta tespiti üzerine düzenlenen ceza kararlarında ise bu sınır uygulanmaz ve talep derhal sonuçlandırılır.",
+    "dayanak": "Gümrük Uzlaşma Yön. md. 7/7, 7/8, 18/2"
+   },
+   "gerekce": "Aynı cümlede yer alan istisna ('18 inci maddenin ikinci fıkrasında bahsedilen durum hariç') ve 7/8'deki taşıt istisnası atlanmıştı; cevap, 10.000 TL altı taleplerin hiç sonuçlandırılmayacağı şeklinde yanlış anlaşılabiliyordu. İstisnalar eklendi, dayanak genişletildi."
+  },
+  {
+   "key": "G18|0|1",
+   "eski": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık fiillerine iştirak etmeksizin, bu fiillerin konusunu oluşturan eşyayı bu özelliğini bilerek ve ticari amaçla satın alan, satışa arz eden, satan, taşıyan veya saklayan kişiye hangi ceza verilir?",
+    "cevap": "Bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası verilir; suçun oluşması için eşyanın kaçak olduğunun bilinmesi ve ticari amaç bulunması gerekir.",
+    "dayanak": "5607 md. 3/5"
+   },
+   "yeni": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre eşyayı gümrük işlemlerine tabi tutmaksızın veya aldatıcı işlem ve davranışlarla ülkeye sokma, transit rejimi kapsamındaki eşyayı rejim hükümlerine aykırı olarak gümrük bölgesinde bırakma ya da geçici ithalat veya dahilde işleme rejimi kapsamındaki eşyayı hile ile yurt dışına çıkarmış gibi işlem yapma fiillerine iştirak etmeksizin, bu fiillerin konusunu oluşturan eşyayı bu özelliğini bilerek ve ticari amaçla satın alan, satışa arz eden, satan, taşıyan veya saklayan kişiye hangi ceza verilir?",
+    "cevap": "Bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası verilir; suçun oluşması için eşyanın bu özelliğinin bilinmesi ve ticari amaç bulunması gerekir.",
+    "dayanak": "5607 md. 3/5"
+   },
+   "gerekce": "Hüküm yalnız ilk dört fıkradaki fiillerin (gümrük işlemine tabi tutmadan veya aldatıcı işlemle sokma, transit eşyayı bırakma, GİR/DİR eşyasını hile ile çıkmış gösterme) konusu eşyaya ilişkindir. Soru 'kaçakçılık fiillerine' genel atıf yaptığından, aynı tür fiiller için farklı ceza öngören ithali yasak eşya (iki-altı yıl) veya akaryakıt hükümleriyle karışıyordu; soru bu fiillerle sınırlandırıldı."
+  },
+  {
+   "key": "G18|0|8",
+   "eski": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ulusal marker içermeyen veya seviyesi geçersiz olan akaryakıtın kaçak olarak yurda sokulduğunun anlaşılması hâlinde ceza hangi hükme göre belirlenir?",
+    "cevap": "Bu durumda ulusal marker suçuna ilişkin ceza değil, kaçakçılık suçunun konusunun akaryakıt olması hâlinde öngörülen artırımlı ceza hükmü (cezaların yarısından iki katına kadar artırılması) uygulanır.",
+    "dayanak": "5607 md. 3/11"
+   },
+   "yeni": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ulusal marker içermeyen veya seviyesi geçersiz olan akaryakıtın kaçak olarak yurda sokulduğunun anlaşılması hâlinde ceza hangi hükme göre belirlenir?",
+    "cevap": "Bu durumda ulusal marker suçuna ilişkin ceza değil, kaçakçılık suçunun konusunun akaryakıt olması hâlinde öngörülen artırımlı ceza hükmü uygulanır; cezalar yarısından iki katına kadar artırılır ve bu şekilde verilecek ceza üç yıldan az olamaz.",
+    "dayanak": "5607 md. 3/11, 3/10"
+   },
+   "gerekce": "Cevaptaki 'iki katına kadar' artırım kaynakta (onuncu fıkra) doğrulandı; ancak cevap onuncu fıkranın içeriğine dayandığı hâlde kanıt ve dayanakta bu fıkra yoktu. Kanıta ve dayanağa 3/10 eklendi, cevaba üç yıllık alt sınır tamamlandı."
+  },
+  {
+   "key": "G18|0|35",
+   "eski": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarının işlenmesinde kullanılan ve el konulan taşıt hangi hâllerde elkoyma kararı veren mercilerce alıkonulur?",
+    "cevap": "Kaçak eşyanın taşıtta özel olarak hazırlanmış gizli tertibat içinde saklanmış veya taşınmış olması, taşıtın Türkiye'de sicile kayıtlı olmaması ya da soruşturma ve kovuşturma devam ederken kaçakçılık suçunda tekrar kullanılması hâllerinde alıkonulur.",
+    "dayanak": "5607 md. 10/2"
+   },
+   "yeni": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarının işlenmesinde kullanılan ve el konulan taşıt hangi hâllerde elkoyma kararı veren mercilerce alıkonulur?",
+    "cevap": "Kaçak eşyanın taşıtta özel olarak hazırlanmış gizli tertibat içinde saklanmış veya taşınmış olması, taşıtın Türkiye'de sicile kayıtlı olmaması ya da soruşturma ve kovuşturma devam ederken kaçakçılık suçunda tekrar kullanılması hâllerinde alıkonulur.",
+    "dayanak": "5607 md. 10/2, 13/1-a"
+   },
+   "gerekce": "Cevaptaki 'gizli tertibat' hâli, alıkoyma hükmünün atıf yaptığı müsadere maddesindeki bentten gelmektedir; bu bent kanıtta ve dayanakta yoktu. Cevap doğru; kanıt ve dayanak 13/1-a ile tamamlandı."
+  },
+  {
+   "key": "G18|0|42",
+   "eski": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre el konulan bandrolsüz tütün mamulleri ve alkollü içkiler ile ilaç, tıbbi cihaz, elektronik sigara ve elektronik nargile gibi ürünler hakkında el koyan idarelerce ne yapılır?",
+    "cevap": "Numune alınarak, numune alınması mümkün değilse ayırt edici bilgileri tespit edilerek tutanağa bağlanır ve imha edilir.",
+    "dayanak": "5607 md. 11/5"
+   },
+   "yeni": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre el konulan bandrolsüz tütün mamulleri ve alkollü içkiler ile ilaç, tıbbi cihaz, elektronik sigara ve elektronik nargile gibi ürünler hakkında el koyan idarelerce ne yapılır?",
+    "cevap": "Numune alınarak, numune alınması mümkün değilse ayırt edici bilgileri tespit edilerek tutanağa bağlanır ve imha edilir. Ancak ilaç, ilaç hammaddeleri, ilaç hammaddesi içeren ürünler, tıbbi cihaz ve malzemeler ile etil alkolden imha dışındaki yöntemlerle tasfiye edilmesi uygun görülenler, ilgili bakanlıkların görüşü alınarak Ticaret Bakanlığınca çıkarılan yönetmelikle belirlenir.",
+    "dayanak": "5607 md. 11/5"
+   },
+   "gerekce": "Soru özellikle ilaç ve tıbbi cihazı andığı hâlde cevap, fıkradaki 'Ancak' istisnasını (ilaç, ilaç hammaddesi, tıbbi cihaz ve etil alkolde imha dışı tasfiye yönetmelikle belirlenir) atlıyordu; bu ürünlerin hepsinin imha edildiği izlenimi veriyordu. İstisna cevaba ve kanıta eklendi."
+  },
+  {
+   "key": "G18|0|48",
+   "eski": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçak şüphesiyle el konulan eşya (kaçak akaryakıt hariç) hakkında tasfiye kararı ne kadar süre içinde ve kim tarafından verilir?",
+    "cevap": "El koyma tarihinden itibaren altı ay içinde, soruşturma aşamasında hâkim, kovuşturma aşamasında mahkeme tarafından verilir; bu süre içinde karar verilmezse eşya derhal tasfiye edilir.",
+    "dayanak": "5607 md. 16/1"
+   },
+   "yeni": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçak şüphesiyle el konulan eşya (kaçak akaryakıt hariç) hakkında tasfiye kararı ne kadar süre içinde ve kim tarafından verilir?",
+    "cevap": "Kural olarak el koyma tarihinden itibaren altı ay içinde, eşyanın zarara uğraması, değerinde esaslı ölçüde kayıp tehlikesi bulunması veya muhafazasının ciddi külfet oluşturması hâlinde ise bir ay içinde; soruşturma aşamasında hâkim, kovuşturma aşamasında mahkeme tarafından verilir. Bu süreler içinde karar verilmezse eşya derhal tasfiye edilir.",
+    "dayanak": "5607 md. 16/1"
+   },
+   "gerekce": "Soru süreyi genel olarak soruyor; cevap yalnız altı ayı verip aynı cümledeki 'ancak ... bir ay içinde' istisnasını atlıyordu. Bu yüzden süre her durumda altı ay sanılabiliyordu. İstisna cevaba ve kanıta eklendi."
+  },
+  {
+   "key": "G18|0|69",
+   "eski": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre silah, mühimmat ve uyuşturucu dışındaki kaçak eşyada ikramiye ödemelerinde hangi kıymet esas alınır?",
+    "cevap": "Çıkış kaçağı eşyada FOB kıymeti, giriş kaçağı eşyada CIF kıymeti esas alınır.",
+    "dayanak": "5607 md. 23/1-c"
+   },
+   "yeni": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre silah ve mermi, uyuşturucu madde, ambalajında bandrol vb. işaret bulunmayan ya da taklit veya yanıltıcı işaret taşıyan tütün mamulü, alkol ve alkollü içki ile kaçak akaryakıt yakalamaları için öngörülen özel esaslar dışında kalan ikramiye ödemelerinde hangi kıymet esas alınır?",
+    "cevap": "Çıkış kaçağı eşyada FOB kıymeti, giriş kaçağı eşyada CIF kıymeti esas alınır.",
+    "dayanak": "5607 md. 23/1-c"
+   },
+   "gerekce": "Soru kapsamı 'silah, mühimmat ve uyuşturucu dışındaki kaçak eşya' diye tanımlanmıştı. Oysa (b) bendi bandrolsüz veya taklit işaretli tütün mamulü ve alkollü içki yakalamaları için de sabit rakamlı ayrı bir hesap öngörür; kaçak akaryakıt ikramiyesi de ayrı fıkrada düzenlenir. FOB/CIF esası bu ürünlere uygulanmadığından soru kapsamı düzeltildi."
+  },
+  {
+   "key": "G18|0|71",
+   "eski": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre silah, mühimmat ve uyuşturucu dışındaki kaçak eşyanın sahipli veya sahipsiz yakalanmasında ikramiye kıymetin hangi oranında ödenir?",
+    "cevap": "Sahipli yakalanmışsa kıymetinin yüzde ellisi, sahipsiz yakalanmışsa yüzde yirmi beşi; ilgili kararların kesinleşmesini takip eden üç ay içinde ödenir.",
+    "dayanak": "5607 md. 23/1-c"
+   },
+   "yeni": {
+    "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre silah ve mermi, uyuşturucu madde, ambalajında bandrol vb. işaret bulunmayan ya da taklit veya yanıltıcı işaret taşıyan tütün mamulü, alkol ve alkollü içki ile kaçak akaryakıt dışında kalan kaçak eşyanın sahipli veya sahipsiz yakalanmasında ikramiye kıymetin hangi oranında ve ne zaman ödenir?",
+    "cevap": "Sahipli yakalanmışsa kıymetinin yüzde ellisi, sahipsiz yakalanmışsa yüzde yirmi beşi ödenir. Ödeme, mahkûmiyete, etkin pişmanlıkta kamu davasının açılmamasına, eşyanın müsaderesine ya da mülkiyetinin kamuya geçirilmesine ilişkin kararların kesinleşmesini takip eden üç ay içinde yapılır.",
+    "dayanak": "5607 md. 23/1-c"
+   },
+   "gerekce": "Soru kapsamında G18|0|69'daki sorun vardı: (b) bendindeki bandrolsüz tütün mamulü ve alkollü içki ile ayrı fıkradaki kaçak akaryakıt hariç tutulmamıştı; kapsam düzeltildi. Cevaptaki 'üç ay' süresi kaynakta doğrulandı. Kanıt bu süreyi de içerecek şekilde genişletildi, soruya 'ne zaman' eklendi."
+  },
+  {
+   "key": "G08|0|14",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre elleçleme vb. işlemler için gümrük antreposundan eşyanın geçici olarak çıkarılması hangi izne bağlıdır?",
+    "cevap": "Her seferinde gümrük idaresinden izin alınması gerekir; başvuru yazılı olarak yapılır ve antrepo rejimine tabi eşya ile rejim hükümlerinin uygulanmasına ilişkin gerekli bütün ayrıntıları içerir.",
+    "dayanak": "GY md. 338/4; GK md. 103/1"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre elleçleme vb. işlemler için gümrük antreposundan eşyanın geçici olarak çıkarılması hangi izne bağlıdır?",
+    "cevap": "Her seferinde gümrük idaresinden izin alınması gerekir. (Kanuna göre de antrepo rejimine tabi eşya, gümrük idarelerinden izin alınmak şartıyla geçici olarak gümrük antreposundan çıkarılabilir ve antrepo dışında bulunduğu sürede elleçleme işlemlerine tabi tutulabilir.)",
+    "dayanak": "GY md. 338/4; GK md. 103/1"
+   },
+   "gerekce": "GY md. 338/4'ün 'Bu amaçla gümrük idarelerine yazılı olarak yapılacak başvuru ... içermek zorundadır' ve 'izin verilir' şeklindeki son iki cümlesi 23.05.2011 tarihli ve 27942 sayılı RG ile yürürlükten kaldırılmıştır (kaynakta parantez içi not). Cevaptaki 'başvuru yazılı olarak yapılır ve gerekli bütün ayrıntıları içerir' kısmı mülga cümleye dayandığı için çıkarıldı; yerine yürürlükteki GK md. 103/1 hükmü eklendi."
+  },
+  {
+   "key": "G08|1|9",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre genel antrepo olarak açılacak yerlerde asgari alan şartı nedir?",
+    "cevap": "Açık ve/veya kapalı alanlar toplamı, en az %20'si kapalı alan olmak üzere büyükşehir belediyesi sınırları içinde 5.000 m²'den, diğer yerlerde 3.000 m²'den küçük olamaz (soğuk hava, tehlikeli eşya, kıymetli maden antrepoları ile havalimanı, demiryolu istasyonu ve liman sahasındaki hava kargo antrepoları bu şarta tabi değildir).",
+    "dayanak": "GY md. 519/3"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre genel antrepo olarak açılacak yerlerde asgari alan şartı nedir?",
+    "cevap": "Açık ve/veya kapalı alanlar toplamı, en az %20'si kapalı alan olmak üzere büyükşehir belediyesi sınırları içinde 5.000 m²'den, diğer yerlerde 3.000 m²'den küçük olamaz. Soğuk hava tertibatı ya da yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren veya kıymetli maden ve kıymetli taşların konulduğu antrepolar, antrepo alanının en az yarısı bu nitelikte eşyanın depolanacağı bölümlerden oluşan antrepolar ile havalimanı, demiryolu istasyonu/aktarma tesisi ve deniz limanı sahasında bulunan, havayolu ile kargo taşımacılığında kullanılan antrepolar bu şarta tabi değildir.",
+    "dayanak": "GY md. 519/3"
+   },
+   "gerekce": "Cevaptaki istisna listesi hükümden saparak özetlenmişti: 'tehlikeli eşya' ifadesi hükümdeki 'yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren' antrepolardan geniştir; 'kıymetli taş' ile 'antrepo alanının en az yarısı bu nitelikte eşyanın depolanacağı bölümlerden oluşan antrepolar' istisnası atlanmıştı. İstisnalar hükümdeki haliyle yazıldı."
+  },
+  {
+   "key": "G08|1|28",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre götürü veya yaygın götürü teminat hükümleri hangi antrepo ve eşya için uygulanmaz?",
+    "cevap": "Akaryakıt antrepoları ile 4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı liste kapsamı eşya için uygulanmaz; bunlarda teminat ayrı ayrı veya toplu olarak verilir.",
+    "dayanak": "GY md. 526/2"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre götürü veya yaygın götürü teminat hükümleri hangi antrepo ve eşya için uygulanmaz?",
+    "cevap": "Akaryakıt antrepoları ile 4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı liste kapsamı eşya için götürü ve yaygın götürü teminata ilişkin 527 nci madde hükümleri uygulanmaz.",
+    "dayanak": "GY md. 526/2"
+   },
+   "gerekce": "Cevaptaki 'bunlarda teminat ayrı ayrı veya toplu olarak verilir' sonucu kaynakta yer almıyor. Ayrıca GY md. 526/3 uyarınca yetkilendirilmiş yükümlü sertifikası veya onaylanmış kişi statü belgesi sahipleri C ve E tipi antrepolarda 494/1'e göre hesaplanmış götürü teminatı da kullanabildiğinden bu çıkarım yanıltıcı. Kaynakta olmayan çıkarım kaldırıldı."
+  },
+  {
+   "key": "G08|1|40",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre bu şekilde kullanılan E tipi antrepoların işletme hakkı başkasına devredilebilir mi?",
+    "cevap": "Hayır, E tipi antrepoların işletme hakkının başkasına devrine izin verilmez.",
+    "dayanak": "GY md. 539/4"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre sadece antrepo sahibi adına gelen yatırım malı, bozulabilir ya da ağır ve hacimli eşyanın antrepo addedilen yere, montaj mahalline veya eşya sahibinin deposuna konulduğu şekilde kullanılan E tipi antrepoların işletme hakkı başkasına devredilebilir mi?",
+    "cevap": "Hayır, bu şekilde kullanılan E tipi antrepoların işletme hakkının başkasına devrine izin verilmez.",
+    "dayanak": "GY md. 539/4"
+   },
+   "gerekce": "Soru 'bu şekilde kullanılan' diyerek bağlamı olmayan bir önceki soruya gönderme yapıyordu, tek başına anlaşılmıyordu. Cevap ise yasağı tüm E tipi antrepolara genelleştiriyordu; hüküm yalnız 539/2'deki şekilde kullanılan E tipi antrepolar içindir. Soru bağımsız hale getirildi, cevap daraltıldı."
+  },
+  {
+   "key": "G08|1|46",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre dökme gelen sıvıların kısmen dolu bir tanka konulmasına hangi şartla izin verilir?",
+    "cevap": "Yeni gelen sıvının aynı cins ve nev'iden ve aynı vergi oranına tabi olması şartıyla izin verilir; boşaltmadan önce tank mevcudu tespit edilir ve buna ilişkin analiz raporu alınmadan tanktan eşya çıkışına izin verilmez.",
+    "dayanak": "GY md. 542/3-4"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre dökme gelen sıvıların kısmen dolu bir tanka konulmasına hangi şartla izin verilir?",
+    "cevap": "Yeni gelen sıvının aynı cins ve nev'iden ve aynı vergi oranına tabi olması şartıyla izin verilir; boşaltmaya başlamadan önce tank mevcudu tespit edilir. Talebin kabulü ayrıca yurtdışı analiz raporu ile faturadaki cins ve nev'e ilişkin bilgilerin uyum göstermesine ve talep sahibi firmadan taahhütname alınmasına bağlıdır; aynı cins, nev'i ve vergi oranına ilişkin analiz raporu alınmadan bu tanktan eşya çıkışına izin verilmez. (İstisna: aynı cins, nev'i ve GTİP'te olup farklı vergi oranına tabi sıvılar, işlemler vergileri en yüksek eşya esas alınarak tamamlanmak ve eşya yurtdışına transit edilmek kaydıyla kısmen dolu tanka konulabilir.)",
+    "dayanak": "GY md. 542/3, 542/4, 542/9"
+   },
+   "gerekce": "Cevap 542/4'teki iki kabul şartını (yurtdışı analiz raporu-fatura uyumu ve taahhütname) atlıyor ve 542/9'daki farklı vergi oranına tabi sıvılara ilişkin istisnayı göstermiyordu; 'aynı vergi oranı' şartı mutlakmış gibi okunuyordu. Bu şart ve istisna eklendi."
+  },
+  {
+   "key": "G08|1|73",
+   "eski": {
+    "soru": "Gümrük Yönetmeliğine göre ön izinle açılacak hangi geçici depolama yerlerinde kapalı alan veya alan şartı aranmaz?",
+    "cevap": "Taşıt depolanacak geçici depolama yerlerinde kapalı alan şartı, havayolu ile hızlı kargo taşımacılığına ilişkin geçici depolama yerlerinde ise alan şartı aranmaz.",
+    "dayanak": "GY md. 513/7"
+   },
+   "yeni": {
+    "soru": "Gümrük Yönetmeliğine göre ön izinle açılacak geçici depolama yerlerine ilişkin asgari alan şartları bakımından, taşıt depolanacak geçici depolama yerlerinde ve havayolu ile hızlı kargo taşımacılığına ilişkin geçici depolama yerlerinde hangi şartlar aranmaz?",
+    "cevap": "Taşıt depolanacak geçici depolama yerlerinde kapalı alan şartı, havayolu ile hızlı kargo taşımacılığına ilişkin geçici depolama yerlerinde ise alan şartı aranmaz.",
+    "dayanak": "GY md. 513/7"
+   },
+   "gerekce": "Önceki soru ('hangi geçici depolama yerlerinde kapalı alan veya alan şartı aranmaz?') tek cevaplı değildi: GY md. 513/8 (aynı gümrük müdürlüğü denetiminde ihtiyacı karşılayan kapalı alanlı geçici depolama yeri bulunması) ve 513/10 (liman işleticisi, 10.000.000 TL teminat, 20 km) de kapalı alan şartını kaldırıyor. Soru, cevabın dayandığı 513/7'deki iki duruma daraltıldı."
+  },
+  {
+   "key": "G15|0|54",
+   "eski": {
+    "soru": "2022/9 sayılı Genelgeye göre posta veya hızlı kargo yoluyla gelen hangi ürün grupları, basitleştirilmiş beyana konu Karar hükmünün ilgili alt bendi kapsamında beyan edilemez ve bu sınırlama hangi eşyaya uygulanmaz?",
+    "cevap": "Ayakkabılar, oyuncaklar ve saraciye ürünleri (gerçek ve suni deriden çanta ve bavullar) bu kapsamda beyan edilemez; düzenlemenin yayımı tarihinden önce yüklemesi yapılmış veya Türkiye Gümrük Bölgesine girmiş eşyaya bu hüküm uygulanmaz.",
+    "dayanak": "2022/9 Genelge IV/5"
+   },
+   "yeni": {
+    "soru": "2022/9 sayılı Genelgeye göre hangi ürün grupları, posta veya hızlı kargo yoluyla gelen eşyanın basitleştirilmiş gümrük beyannamesiyle beyanına imkân veren 2009/15481 sayılı Karar hükmü kapsamında beyan edilemez ve bu sınırlama hangi eşyaya uygulanmaz?",
+    "cevap": "Ayakkabılar, oyuncaklar ve saraciye ürünleri (gerçek ve suni deriden çanta ve bavullar) bu kapsamda beyan edilemez; düzenlemenin yayımı tarihinden önce yüklemesi yapılmış veya Türkiye Gümrük Bölgesine girmiş eşyaya bu hüküm uygulanmaz.",
+    "dayanak": "2022/9 Genelge IV/5"
+   },
+   "gerekce": "Elle: Soruda Karar hükmünün 'alt bendi'ne yapılan atıf kaldırıldı; hükmün konusu adıyla yazıldı (madde/bent ezberi yok)."
+  }
+ ],
+ "sil": []
+}

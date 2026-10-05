@@ -1,0 +1,1873 @@
+{
+ "grup": "G18",
+ "dosyalar": [
+  {
+   "kaynak": "5607_sayili_kacakcilikla_mucadele_kanunu.txt",
+   "konu": "Kaçakçılık (5607 sayılı Kaçakçılıkla Mücadele Kanunu)",
+   "mevzuat": "5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 1-24 (geçici maddeler ve gerekçe hariç)",
+   "cikmis_sayisi": 27,
+   "cikmis": [
+    "2021-91: Kaçakçıların kamuoyuna ilanının ön şartı mahkûmiyet hükmünün kesinleşmesidir.",
+    "2021-92: Kaçak akaryakıtın tasfiyesi bağımsız maddede (16/A) düzenlenmiştir.",
+    "2021-93: Önleme-izleme görevlileri: mülki amirler, gümrük, emniyet, jandarma, sahil güvenlik; özel güvenlik değildir.",
+    "2021-94: İzleme tutanağının zorunlu unsurları; düzenleyenlerin yerleşim yeri unsur değildir.",
+    "2021-96: Yarısından iki katına artırım akaryakıt, tütün, makaron, yaprak sigara kâğıdı, etil alkol, metanol ve alkollü içkide uygulanır; e-sigarada değil.",
+    "2021-97: Yasak yerlerden gümrük bölgesine girenler durdurulur, aranır; kaçak eşyaya el konulur.",
+    "2021-98: Taşıt müsaderesinde TCK hükümleri ve 13. madde koşulları uygulanır; 3628 sayılı Kanun değil.",
+    "2021-99: 5607'ye dayalı ikramiye, elkonulan eşya, akaryakıt ve kara taşıtı iadesi yönetmelikleri vardır; alıkonulan tarım ürünleri yönetmeliği yoktur.",
+    "2021-100: Suçun üç veya daha fazla kişiyle işlenmesi cezayı yarı oranında artırır.",
+    "2022-21: Gümrüklenmiş değer yalnız CIF değil CIF + gümrük vergileridir (şıklarda gümrük vergileri tanımı, kaim değer, görevlilerce işlenmede artırım, asliye ceza mahkemesi yer aldı).",
+    "2022-22: Örgüt faaliyeti çerçevesinde işlenmede ceza iki kat artırılır.",
+    "2022-23: Toplum/çevre sağlığına zararlı eşya ve atıkta soruşturma başlatılır, eşya derhal getirildiği ülkeye iade edilir.",
+    "2022-24: Aldatıcı işlemle vergisiz sokma iki-beş yıl hapis ve on bin güne kadar adli para cezası (diğer şıklarda 3/1, 3/3, 3/4, 3/8 cezaları).",
+    "2022-25: Kara Kuvvetleri sınır birlikleri önleme-izleme görevlileri arasında sayılmaz.",
+    "2022-26: Davaya ilgili gümrük idaresi başvurusu üzerine katılan olarak kabul edilir.",
+    "2022-27: Muaf ithal eşyayı süresinde yurt dışına çıkarmamak kaçakçılık fiili değildir (şıklarda 3/3, 3/12, 3/13, 3/16 fiilleri).",
+    "2023-22: Özel güvenlik çalışanları önleme-izleme görevlisi değildir.",
+    "2023-45: Gümrüklenmiş değer hesabı: CIF 50.000 + vergiler 5.000 = 55.000 TL.",
+    "2023-51: Kaçakçılık fiil ve yaptırımları ile önleme-izleme usulleri 5607 sayılı Kanunla belirlenir.",
+    "2023-73: Transit eşyasını rejime aykırı bırakma: bir-üç yıl hapis ve beş bin güne kadar adli para cezası.",
+    "2024-65: Gümrük kapıları dışından sokmada ceza üçte birinden yarısına kadar artırılır.",
+    "2024-66: 3. madde fiilleri teşebbüste kalsa bile tamamlanmış gibi cezalandırılır.",
+    "2024-67: Antrepo sayımında fazla çıkan eşya kaçakçılık suçu değildir (şıklarda 3/1, 3/2, 3/3, 3/7 fiilleri).",
+    "2025-37: Gümrüklenmiş değer CIF ile gümrük vergileri toplamıdır.",
+    "2025-87: Gümrüklenmiş değer tanımı: ithalatta CIF + gümrük vergileri, ihracatta FOB + gümrük vergileri.",
+    "2025-88: Ulusal markersiz akaryakıtı ticari amaçla üretme-bulundurma-nakletme ve satma cezalandırılır; kişisel kullanım amaçlı alım değil.",
+    "2025-89: Alıkonulan kara taşıtının iadesinde teminat değeri kasko değeridir."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Kanunun amacı",
+     "dayanak": "5607 md. 1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-51"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Tanımlar: gümrük vergileri, gümrüklenmiş değer, akaryakıt",
+     "dayanak": "5607 md. 2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-21",
+      "2023-45",
+      "2025-37",
+      "2025-87"
+     ],
+     "not": "Gümrüklenmiş değer ve gümrük vergileri tanımı soruldu; akaryakıt tanımı sorulmadı."
+    },
+    {
+     "baslik": "Eşyayı gümrük işlemlerine tabi tutmaksızın veya aldatıcı işlemle ülkeye sokma",
+     "dayanak": "5607 md. 3/1-2",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-24",
+      "2024-65",
+      "2024-67"
+     ],
+     "not": "Cezalar ve gümrük kapıları dışından sokmada artırım oranı soruldu."
+    },
+    {
+     "baslik": "Transit eşyasını gümrük bölgesinde bırakma; geçici ithalat/DİR eşyasını hile ile çıkmış gösterme",
+     "dayanak": "5607 md. 3/3-4",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-73",
+      "2022-24",
+      "2022-27",
+      "2024-67"
+     ],
+     "not": "Transit fiilinin cezası doğrudan, geçici ithalat/DİR fiilinin cezası 2022-24 şıklarında ölçüldü."
+    },
+    {
+     "baslik": "Kaçak eşyayı bilerek ve ticari amaçla satın alma, satma, taşıma, saklama",
+     "dayanak": "5607 md. 3/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Muafen ithal edilen eşyanın amacı dışında kullanılması",
+     "dayanak": "5607 md. 3/6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-27"
+     ],
+     "not": "Fiilin kapsamı soruldu (süresinde çıkarmamak suç değil); cezası sorulmadı."
+    },
+    {
+     "baslik": "İthali yasak eşya",
+     "dayanak": "5607 md. 3/7",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-67"
+     ],
+     "not": "Fiilin kaçakçılık suçu olduğu şıkta yer aldı; ceza ve alıcı-satıcının sorumluluğu sorulmadı."
+    },
+    {
+     "baslik": "İhracı yasak eşya",
+     "dayanak": "5607 md. 3/8",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-24"
+     ],
+     "not": "Ceza 2022-24 E şıkkında ölçüldü."
+    },
+    {
+     "baslik": "Teşvik ve iadelerden yararlanmak için ihracatı gerçekleşmiş veya değişik gösterme",
+     "dayanak": "5607 md. 3/9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "2024-48 GK 235'teki %10 farkı ölçtü; 5607'deki yüzde on eşiği ve ceza sorulmadı."
+    },
+    {
+     "baslik": "Akaryakıt, tütün mamulleri ve alkollü içki konulu kaçakçılıkta ceza artırımı",
+     "dayanak": "5607 md. 3/10",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-96"
+     ],
+     "not": "Artırıma tabi eşya listesi soruldu; üç yıllık alt sınır sorulmadı."
+    },
+    {
+     "baslik": "Ulusal marker içermeyen veya düşük seviyede içeren akaryakıt",
+     "dayanak": "5607 md. 3/11",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-88"
+     ],
+     "not": "Cezalandırılan fiiller soruldu; ceza miktarı ve kaçak girişte uygulanacak hüküm sorulmadı."
+    },
+    {
+     "baslik": "İzinsiz petrol ürünlerinden akaryakıt üretimi ve boru hatlarından alınan ürünler",
+     "dayanak": "5607 md. 3/12-13",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-27"
+     ],
+     "not": "Fiillerin kaçakçılık fiili olduğu şıklarda yer aldı; cezaları sorulmadı."
+    },
+    {
+     "baslik": "Kaçak akaryakıt düzenekleri ve ulusal markerin yetkisiz üretimi",
+     "dayanak": "5607 md. 3/14-15",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bandrol, etiket, hologram ve benzeri işaretlere ilişkin suçlar",
+     "dayanak": "5607 md. 3/16-18",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-27"
+     ],
+     "not": "Bandrol taklidi imali fiil olarak şıkta yer aldı; cezalar, amacı dışında kullanma ve bandrolsüz ürün fiilleri sorulmadı."
+    },
+    {
+     "baslik": "Doldurulmuş makaron satışı ve yetki belgesiz tütün ticareti",
+     "dayanak": "5607 md. 3/20-21",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teşebbüs",
+     "dayanak": "5607 md. 3/22",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2024-66"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Suç konusu eşyanın değerinin fahiş, hafif veya pek hafif olması",
+     "dayanak": "5607 md. 3/23",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Nitelikli haller: örgüt faaliyeti ve üç veya daha fazla kişi",
+     "dayanak": "5607 md. 4/1-2",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-22",
+      "2021-100"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Nitelikli haller: tüzel kişi, görevli kişi, belgede sahtecilik, göz yumma",
+     "dayanak": "5607 md. 4/3-6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-21"
+     ],
+     "not": "Görevlilerce işlenmede yarı oranında artırım 2022-21 D şıkkında yer aldı; tüzel kişi, belgede sahtecilik ve göz yumma sorulmadı."
+    },
+    {
+     "baslik": "Nitelikli haller: güvenlik veya sağlığı tehdit eden eşya ve tank/düzenek kullanımı",
+     "dayanak": "5607 md. 4/7-8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Mahkûmiyeti kesinleşenlerin kamuoyuna ilanı",
+     "dayanak": "5607 md. 4/9",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-91"
+     ],
+     "not": "İlan için mahkûmiyetin kesinleşmesi şartı soruldu; ilanı yapacak Bakanlık ve yönetmelikle düzenleme sorulmadı."
+    },
+    {
+     "baslik": "Etkin pişmanlık",
+     "dayanak": "5607 md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yolcu beraberinde getirilen kaçak eşya",
+     "dayanak": "5607 md. 6/4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Deniz taşıtları",
+     "dayanak": "5607 md. 7/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Arama ve elkoyma",
+     "dayanak": "5607 md. 9",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-97"
+     ],
+     "not": "Yasak yerlerden girişte durdurma-arama-elkoyma soruldu; CMK'ya tabi arama ve gümrük salonlarında arama sorulmadı."
+    },
+    {
+     "baslik": "Kaçak eşya naklinde kullanılan taşıta elkoyma, alıkoyma ve teminat",
+     "dayanak": "5607 md. 10",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-89"
+     ],
+     "not": "Kara taşıtında kasko değeri soruldu; alıkoyma halleri, otuz ve doksan günlük süreler, deniz/hava taşıtı değeri sorulmadı."
+    },
+    {
+     "baslik": "Elkonulan eşyanın muhafazası, imhası ve masrafları",
+     "dayanak": "5607 md. 11",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-99"
+     ],
+     "not": "Yalnızca elkonulan eşya yönetmeliğinin varlığı soruldu; teslim, muhafaza, imha ve masraf hükümleri sorulmadı."
+    },
+    {
+     "baslik": "Yasak eşyanın geri gönderilmesi",
+     "dayanak": "5607 md. 12",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-23"
+     ],
+     "not": "Tehlikeli/zararlı eşyanın derhal iadesi soruldu; belgede belirtilerek getirilen yasak eşyanın iadesi sorulmadı."
+    },
+    {
+     "baslik": "Müsadere",
+     "dayanak": "5607 md. 13",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-98"
+     ],
+     "not": "Taşıt müsaderesi koşulları soruldu; etkin pişmanlığın müsadereye etkisi sorulmadı."
+    },
+    {
+     "baslik": "Kaim değer",
+     "dayanak": "5607 md. 15",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-21"
+     ],
+     "not": "Kaim değer = gümrüklenmiş değer 2022-21 B şıkkında yer aldı."
+    },
+    {
+     "baslik": "Elkonulan eşyanın tasfiyesi",
+     "dayanak": "5607 md. 16",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kaçak akaryakıtın tasfiyesi",
+     "dayanak": "5607 md. 16/A",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-92"
+     ],
+     "not": "Yalnızca akaryakıt tasfiyesinin bağımsız maddede düzenlendiği soruldu; tasfiye usulü sorulmadı."
+    },
+    {
+     "baslik": "Görevli mahkeme",
+     "dayanak": "5607 md. 17/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-21"
+     ],
+     "not": "Asliye ceza mahkemesi 2022-21 E şıkkında yer aldı; sahtecilikte ağır ceza mahkemesi sorulmadı."
+    },
+    {
+     "baslik": "Davaya katılma",
+     "dayanak": "5607 md. 18",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-26"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Kaçakçılığı önleme, izleme ve araştırmakla görevli olanlar",
+     "dayanak": "5607 md. 19/1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-93",
+      "2022-25",
+      "2023-22"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Görevlilerin bildirim yükümlülüğü, bilgi-belge talebi ve muhbirin korunması",
+     "dayanak": "5607 md. 19/2-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tutanaklar",
+     "dayanak": "5607 md. 20",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-94"
+     ],
+     "not": "Tutanağın zorunlu unsurları soruldu; okutma ve imzadan kaçınma usulü sorulmadı."
+    },
+    {
+     "baslik": "Kontrollü teslimat",
+     "dayanak": "5607 md. 21",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Silah kullanma yetkisi",
+     "dayanak": "5607 md. 22",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İkramiyeler",
+     "dayanak": "5607 md. 23",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-99"
+     ],
+     "not": "Yalnızca ikramiye yönetmeliğinin varlığı soruldu; ikramiye oranları, süreleri ve üst sınırları sorulmadı."
+    },
+    {
+     "baslik": "Kriminal laboratuvar",
+     "dayanak": "5607 md. 24",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Tanımlar: gümrük vergileri, gümrüklenmiş değer, akaryakıt",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre \"akaryakıt\" kavramı neleri ifade eder?",
+     "cevap": "Benzin, gaz yağı, jet yakıtı, motorin, fuel-oil, sıvılaştırılmış petrol gazları, doğal gaz gibi akaryakıt ürünleri ile akaryakıt yerine kullanılan petrol türevleri, bunların karışımları ve akaryakıt yerine kullanılan diğer ürünleri ifade eder; doğal gaz ve sıvılaştırılmış petrol gazları da tanıma dahildir.",
+     "dayanak": "5607 md. 2/1-c",
+     "kanit": "Akaryakıt: Benzin, gaz yağı, jet yakıtı, motorin, fuel-oil, sıvılaştırılmış petrol gazları, doğal gaz gibi akaryakıt ürünleri ile akaryakıt yerine kullanılan petrol türevleri ve bunların karışımları ile akaryakıt yerine kullanılan diğer ürünleri"
+    },
+    {
+     "alt_konu": "Kaçak eşyayı bilerek ve ticari amaçla satın alma, satma, taşıma, saklama",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre eşyayı gümrük işlemlerine tabi tutmaksızın veya aldatıcı işlem ve davranışlarla ülkeye sokma, transit rejimi kapsamındaki eşyayı rejim hükümlerine aykırı olarak gümrük bölgesinde bırakma ya da geçici ithalat veya dahilde işleme rejimi kapsamındaki eşyayı hile ile yurt dışına çıkarmış gibi işlem yapma fiillerine iştirak etmeksizin, bu fiillerin konusunu oluşturan eşyayı bu özelliğini bilerek ve ticari amaçla satın alan, satışa arz eden, satan, taşıyan veya saklayan kişiye hangi ceza verilir?",
+     "cevap": "Bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası verilir; suçun oluşması için eşyanın bu özelliğinin bilinmesi ve ticari amaç bulunması gerekir.",
+     "dayanak": "5607 md. 3/5",
+     "kanit": "Birinci ila dördüncü fıkralarda tanımlanan fiillerin işlenmesine iştirak etmeksizin, bunların konusunu oluşturan eşyayı, bu özelliğini bilerek ve ticarî amaçla satın alan, satışa arz eden, satan, taşıyan veya saklayan kişi, bir yıldan üç yıla[6] kadar hapis ve beş bin güne kadar adlî para cezası"
+    },
+    {
+     "alt_konu": "Muafen ithal edilen eşyanın amacı dışında kullanılması",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre özel kanunları gereğince gümrük vergilerinden kısmen veya tamamen muaf olarak ithal edilen eşyayı ithal amacı dışında başka bir kullanıma tahsis eden, satan veya devreden kişiye hangi ceza verilir?",
+     "cevap": "Altı aydan iki yıla kadar hapis ve beş bin güne kadar adli para cezası verilir; bu özelliği bilerek eşyayı satın alan veya kabul eden kişi de aynı cezaya tabidir.",
+     "dayanak": "5607 md. 3/6",
+     "kanit": "ithal amacı dışında başka bir kullanıma tahsis eden, satan veya devreden ya da bu özelliğini bilerek satın alan veya kabul eden kişi, altı aydan iki yıla[7] kadar hapis ve beş bin güne kadar adlî para cezası"
+    },
+    {
+     "alt_konu": "İthali yasak eşya",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ithali kanun gereği yasak olan eşyayı ülkeye sokan kişiye, fiil daha ağır cezayı gerektiren bir suç oluşturmadığı takdirde hangi ceza verilir?",
+     "cevap": "İki yıldan altı yıla kadar hapis ve yirmi bin güne kadar adli para cezası verilir; ithali yasak eşyayı bu özelliğini bilerek satın alan, satışa arz eden, satan, taşıyan veya saklayan kişi de aynı ceza ile cezalandırılır.",
+     "dayanak": "5607 md. 3/7",
+     "kanit": "İthali kanun gereği yasak olan eşyayı ülkeye sokan kişi, ... iki yıldan altı yıla kadar hapis ve yirmi bin güne kadar adlî para cezası ile cezalandırılır. ... bu özelliğini bilerek satın alan, satışa arz eden, satan, taşıyan veya saklayan kişi, aynı ceza ile cezalandırılır."
+    },
+    {
+     "alt_konu": "Teşvik ve iadelerden yararlanmak için ihracatı gerçekleşmiş veya değişik gösterme",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ilgili kanunlara göre teşvik, sübvansiyon veya parasal iadelerden yararlanmak amacıyla ihracat gerçekleşmediği hâlde gerçekleşmiş gibi gösteren ya da ihracata konu malın cins, miktar, evsaf veya fiyatını değişik gösteren kişiye hangi ceza verilir?",
+     "cevap": "Bir yıldan beş yıla kadar hapis ve on bin güne kadar adli para cezası verilir.",
+     "dayanak": "5607 md. 3/9",
+     "kanit": "ihracata konu malın cins, miktar, evsaf veya fiyatını değişik gösteren[9] kişi, bir yıldan beş yıla kadar hapis ve on bin güne kadar adlî para cezası ile cezalandırılır."
+    },
+    {
+     "alt_konu": "Teşvik ve iadelerden yararlanmak için ihracatı gerçekleşmiş veya değişik gösterme",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre beyanname ve eki belgelerde gösterilen eşya ile gerçekte ihraç edilen eşya arasındaki fark hangi oranı aşmadığında yalnızca Gümrük Kanunu hükümlerine göre işlem yapılır?",
+     "cevap": "Fark yüzde onu aşmıyorsa kaçakçılık suçu hükümleri uygulanmaz, sadece 4458 sayılı Gümrük Kanunu hükümlerine göre işlem yapılır.",
+     "dayanak": "5607 md. 3/9",
+     "kanit": "Beyanname ve eki belgelerde gösterilen ile gerçekte ihraç edilen eşya arasında yüzde onu aşmayan bir fark bulunması halinde, sadece 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu hükümlerine göre işlem yapılır."
+    },
+    {
+     "alt_konu": "Akaryakıt, tütün mamulleri ve alkollü içki konulu kaçakçılıkta ceza artırımı",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçunun konusunu akaryakıt, tütün, tütün mamulleri, makaron, yaprak sigara kâğıdı, etil alkol, metanol veya alkollü içkilerin oluşturması nedeniyle artırım uygulanarak verilecek ceza en az ne kadar olabilir?",
+     "cevap": "Bu eşyada cezalar yarısından iki katına kadar artırılır; artırım uygulanarak verilecek ceza üç yıldan az olamaz.",
+     "dayanak": "5607 md. 3/10",
+     "kanit": "yukarıdaki fıkralara göre verilecek cezalar yarısından iki katına kadar artırılır, ancak bu fıkranın uygulanması suretiyle verilecek ceza üç yıldan az olamaz"
+    },
+    {
+     "alt_konu": "Ulusal marker içermeyen veya düşük seviyede içeren akaryakıt",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ulusal marker uygulamasına tabi olup Enerji Piyasası Düzenleme Kurumunun belirlediği seviyenin altında ulusal marker içeren veya hiç içermeyen akaryakıtı ticari amaçla üreten, bulunduran, nakleden ya da satan kişiye hangi ceza verilir?",
+     "cevap": "İki yıldan beş yıla kadar hapis ve yirmi bin güne kadar adli para cezası verilir.",
+     "dayanak": "5607 md. 3/11",
+     "kanit": "Enerji Piyasası Düzenleme Kurumunun belirlediği seviyenin altında ulusal marker içeren veya hiç içermeyen akaryakıtı; ... kişi iki yıldan beş yıla kadar hapis ve yirmi bin güne kadar adli para cezası ile cezalandırılır."
+    },
+    {
+     "alt_konu": "Ulusal marker içermeyen veya düşük seviyede içeren akaryakıt",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ulusal marker içermeyen veya seviyesi geçersiz olan akaryakıtın kaçak olarak yurda sokulduğunun anlaşılması hâlinde ceza hangi hükme göre belirlenir?",
+     "cevap": "Bu durumda ulusal marker suçuna ilişkin ceza değil, kaçakçılık suçunun konusunun akaryakıt olması hâlinde öngörülen artırımlı ceza hükmü uygulanır; cezalar yarısından iki katına kadar artırılır ve bu şekilde verilecek ceza üç yıldan az olamaz.",
+     "dayanak": "5607 md. 3/11, 3/10",
+     "kanit": "Ancak, marker içermeyen veya seviyesi geçersiz olan akaryakıtın kaçak olarak yurda sokulduğunun anlaşılması hâlinde, onuncu fıkra hükmüne istinaden cezaya hükmolunur. ... yukarıdaki fıkralara göre verilecek cezalar yarısından iki katına kadar artırılır, ancak bu fıkranın uygulanması suretiyle verilecek ceza üç yıldan az olamaz"
+    },
+    {
+     "alt_konu": "İzinsiz petrol ürünlerinden akaryakıt üretimi ve boru hatlarından alınan ürünler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre Enerji Piyasası Düzenleme Kurumundan izin alınmadan solvent, madeni yağ, baz yağ, asfalt ve benzeri petrol ürünlerinden akaryakıt üreten veya bunları doğrudan akaryakıt yerine ikmal ederek satan kişiye hangi ceza verilir?",
+     "cevap": "İki yıldan beş yıla kadar hapis ve yirmi bin güne kadar adli para cezası verilir; akaryakıt yerine kullanılan diğer ürünler yönünden de aynı hükme göre cezaya hükmolunur.",
+     "dayanak": "5607 md. 3/12",
+     "kanit": "ticarî amaçla satın alan, taşıyan veya saklayan kişi, iki yıldan beş yıla kadar hapis ve yirmi bin güne kadar adlî para cezası ile cezalandırılır. Akaryakıt yerine kullanılan diğer ürünler yönünden de bu fıkra uyarınca cezaya hükmolunur"
+    },
+    {
+     "alt_konu": "Kaçak akaryakıt düzenekleri ve ulusal markerin yetkisiz üretimi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçak akaryakıt veya sahte ulusal marker elde etmeye, satmaya ya da piyasa faaliyetine konu etmeye yarayacak şekilde lisansa esas belgelerde belirlenenlere aykırı olarak sabit ya da seyyar tank, düzenek veya ekipman bulunduranlara hangi ceza verilir?",
+     "cevap": "İki yıldan beş yıla kadar hapis ve yirmi bin güne kadar adli para cezası verilir.",
+     "dayanak": "5607 md. 3/14",
+     "kanit": "aykırı olarak sabit ya da seyyar tank, düzenek veya ekipman bulunduranlar iki yıldan beş yıla kadar hapis ve yirmi bin güne kadar adlî para cezası ile cezalandırılır."
+    },
+    {
+     "alt_konu": "Kaçak akaryakıt düzenekleri ve ulusal markerin yetkisiz üretimi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ulusal markeri yetkisiz olarak üreten, satan veya yetkisiz kişilerden satın alanlara hangi ceza verilir?",
+     "cevap": "İki yıldan beş yıla kadar hapis ve yirmi bin güne kadar adli para cezası verilir; ulusal markerin kimyasal özelliklerini taşımasa bile onun yerine kullanılmak amacıyla üretilen kimyasal terkipler hakkında da aynı hüküm uygulanır.",
+     "dayanak": "5607 md. 3/15",
+     "kanit": "Ulusal markeri yetkisiz olarak üreten, satışa arz eden, satan, yetkisiz kişilerden satın alan, kabul eden, bu özelliğini bilerek nakleden veya bulunduranlar, iki yıldan beş yıla kadar hapis ve yirmi bin güne kadar adlî para cezası ile cezalandırılır."
+    },
+    {
+     "alt_konu": "Bandrol, etiket, hologram ve benzeri işaretlere ilişkin suçlar",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre tütün mamulleri, makaron, yaprak sigara kâğıdı, etil alkol, metanol ve alkollü içkilerin ambalajlarına kamu kurumlarınca uygulanan bandrol, etiket, hologram, pul, damga veya benzeri işaretlerin taklitlerini imal eden veya ülkeye sokanlara hangi ceza verilir?",
+     "cevap": "Üç yıldan altı yıla kadar hapis ve yirmi bin güne kadar adli para cezası verilir; bu taklitleri bilerek bulunduran, nakleden, satan ya da kullananlar da aynı cezaya tabidir.",
+     "dayanak": "5607 md. 3/16",
+     "kanit": "işaretlerin taklitlerini imal eden veya ülkeye sokanlar ile bunları bilerek bulunduran, nakleden, satan ya da kullananlar üç yıldan altı yıla kadar hapis ve yirmi bin güne kadar adlî para cezası ile cezalandırılır."
+    },
+    {
+     "alt_konu": "Bandrol, etiket, hologram ve benzeri işaretlere ilişkin suçlar",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ambalajlarında bandrol, etiket, hologram, pul, damga veya benzeri işaret bulunmayan ya da taklit veya yanıltıcı işaret taşıyan tütün mamulleri ve alkollü içkileri ticari amaçla bulunduran, nakleden veya satan kişiye hangi ceza verilir?",
+     "cevap": "Üç yıldan altı yıla kadar hapis ve yirmi bin güne kadar adli para cezası verilir; ürünlerin kaçak olarak yurda sokulduğu anlaşılırsa artırımlı kaçakçılık cezası hükmüne göre cezaya hükmolunur.",
+     "dayanak": "5607 md. 3/18",
+     "kanit": "Ambalajlarında bandrol, etiket, hologram, pul, damga veya benzeri işaret bulunmayan ya da taklit veya yanıltıcı bandrol ... kişi üç yıldan altı yıla kadar hapis ve yirmi bin güne kadar adli para cezası ile cezalandırılır. Ancak, tütün mamullerinin"
+    },
+    {
+     "alt_konu": "Doldurulmuş makaron satışı ve yetki belgesiz tütün ticareti",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ticari amaçla makaron veya yaprak sigara kâğıdını içine kıyılmış veya parçalanmış tütün ya da tütün dışı herhangi bir ürün doldurulmuş olarak satanlara, bulunduran ve nakledenlere hangi ceza verilir?",
+     "cevap": "Üç yıldan altı yıla kadar hapis cezası verilir; bu fiil için ayrıca adli para cezası öngörülmemiştir.",
+     "dayanak": "5607 md. 3/20",
+     "kanit": "doldurulmuş olarak satanlara, satışa arz edenlere, bulunduran ve nakledenlere üç yıldan altı yıla kadar hapis cezası verilir."
+    },
+    {
+     "alt_konu": "Doldurulmuş makaron satışı ve yetki belgesiz tütün ticareti",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre Tarım ve Orman Bakanlığından yetki belgesi almadan veya bildirimde bulunmadan tütün ticareti yapanlara hangi ceza verilir?",
+     "cevap": "İki yıldan beş yıla kadar hapis cezası verilir; adli para cezası öngörülmemiştir.",
+     "dayanak": "5607 md. 3/21",
+     "kanit": "Tarım ve Orman Bakanlığından yetki belgesi almadan veya bildirimde bulunmadan tütün ticareti yapanlara iki yıldan beş yıla kadar hapis cezası verilir."
+    },
+    {
+     "alt_konu": "Suç konusu eşyanın değerinin fahiş, hafif veya pek hafif olması",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarının konusunu oluşturan eşyanın değerinin fahiş olması hâlinde verilecek cezalar ne oranda artırılır?",
+     "cevap": "Cezalar yarısından bir katına kadar artırılır.",
+     "dayanak": "5607 md. 3/23",
+     "kanit": "Yukarıdaki fıkralarda tanımlanan suçların konusunu oluşturan eşyanın değerinin fahiş[26] olması hâlinde, verilecek cezalar yarısından bir katına kadar artırılır."
+    },
+    {
+     "alt_konu": "Suç konusu eşyanın değerinin fahiş, hafif veya pek hafif olması",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarının konusunu oluşturan eşyanın değerinin hafif veya pek hafif olması hâlinde verilecek cezalar ne oranda indirilir?",
+     "cevap": "Değer hafif ise cezalar yarısına kadar, pek hafif ise üçte birine kadar indirilir.",
+     "dayanak": "5607 md. 3/23",
+     "kanit": "Eşyanın değerinin hafif olması hâlinde verilecek cezalar yarısına kadar, pek hafif olması hâlinde ise üçte birine kadar indirilir."
+    },
+    {
+     "alt_konu": "Nitelikli haller: tüzel kişi, görevli kişi, belgede sahtecilik, göz yumma",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarının bir tüzel kişinin faaliyeti çerçevesinde veya yararına işlenmesi hâlinde ne tür bir yaptırım uygulanır?",
+     "cevap": "Ayrıca tüzel kişilere özgü güvenlik tedbirlerine hükmolunur.",
+     "dayanak": "5607 md. 4/3",
+     "kanit": "Bu Kanunda tanımlanan suçların, tüzel kişinin faaliyeti çerçevesinde veya yararına olarak işlenmesi halinde, ayrıca bunlara özgü güvenlik tedbirlerine hükmolunur."
+    },
+    {
+     "alt_konu": "Nitelikli haller: tüzel kişi, görevli kişi, belgede sahtecilik, göz yumma",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarının belgede sahtecilik yapılarak işlenmesi hâlinde nasıl cezalandırma yapılır?",
+     "cevap": "Kaçakçılık suçunun cezasına ek olarak belgede sahtecilik suçundan dolayı da ayrıca cezaya hükmolunur.",
+     "dayanak": "5607 md. 4/5",
+     "kanit": "belgede sahtecilik yapılarak işlenmesi halinde, ayrıca bu suçtan dolayı da cezaya hükmolunur."
+    },
+    {
+     "alt_konu": "Nitelikli haller: tüzel kişi, görevli kişi, belgede sahtecilik, göz yumma",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup kaçakçılık suçlarının işlenmesine kasten göz yuman kişi nasıl sorumlu tutulur?",
+     "cevap": "İşlenen suçun müşterek faili olarak sorumlu tutulur.",
+     "dayanak": "5607 md. 4/6",
+     "kanit": "araştırmakla görevli olup da bu Kanunda tanımlanan suçların işlenmesine kasten göz yuman kişi, işlenen suçun müşterek faili olarak sorumlu tutulur."
+    },
+    {
+     "alt_konu": "Nitelikli haller: güvenlik veya sağlığı tehdit eden eşya ve tank/düzenek kullanımı",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçunun konusunu oluşturan eşyanın Devletin siyasi, iktisadi veya askeri güvenliğini bozacak ya da çevre veya toplum sağlığını tehdit edecek nitelikte olması hâlinde verilecek hapis cezasının alt sınırı nedir?",
+     "cevap": "Fiil daha ağır cezayı gerektiren bir suç oluşturmadığı takdirde verilecek hapis cezası on yıldan az olamaz.",
+     "dayanak": "5607 md. 4/7",
+     "kanit": "toplum sağlığını tehdit edecek nitelikte olması halinde, fiil daha ağır cezayı gerektiren bir suç oluşturmadığı takdirde, verilecek hapis cezası on yıldan az olamaz."
+    },
+    {
+     "alt_konu": "Nitelikli haller: güvenlik veya sağlığı tehdit eden eşya ve tank/düzenek kullanımı",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçak akaryakıt satışının sabit ya da seyyar tank, düzenek veya ekipman kullanılarak gerçekleştirilmesi hâlinde verilecek ceza nasıl belirlenir?",
+     "cevap": "Verilecek cezalar iki kat artırılır.",
+     "dayanak": "5607 md. 4/8",
+     "kanit": "sabit ya da seyyar tank, düzenek veya ekipman kullanılarak gerçekleştirilmesi halinde verilecek cezalar iki kat artırılır."
+    },
+    {
+     "alt_konu": "Mahkûmiyeti kesinleşenlerin kamuoyuna ilanı",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık türleri ile ilgili mahkûmiyet hükmü kesinleşenlerin kamuoyuna ilanının süresi, nasıl yapılacağı ve ilan edilecek kaçakçılık türleri hangi düzenleme ile belirlenir?",
+     "cevap": "Bu hususlar Gümrük ve Ticaret Bakanlığınca çıkarılan yönetmelikle belirlenir; ilan da aynı Bakanlıkça yapılabilir (ilan zorunlu değil, takdire bağlıdır).",
+     "dayanak": "5607 md. 4/9",
+     "kanit": "Gümrük ve Ticaret Bakanlığınca kamuoyuna ilan edilebilir. Bu ilanın süresi, nasıl yapılacağı ve ilan edilecek kaçakçılık türleri gibi hususlar Gümrük ve Ticaret Bakanlığınca çıkarılan yönetmelikle belirlenir."
+    },
+    {
+     "alt_konu": "Etkin pişmanlık",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarından birine iştirak etmiş olan kişi, resmi makamlar haber almadan önce fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verir ve bu bilgi faillerin yakalanmasını veya eşyanın ele geçirilmesini sağlarsa hakkında ne uygulanır?",
+     "cevap": "Bu kişi cezalandırılmaz.",
+     "dayanak": "5607 md. 5/1",
+     "kanit": "resmî makamlar tarafından haber alınmadan önce, fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verirse, verilen bilginin, faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlaması halinde cezalandırılmaz."
+    },
+    {
+     "alt_konu": "Etkin pişmanlık",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre resmi makamların haber almasından sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza ne oranda indirilir?",
+     "cevap": "Ceza üçte iki oranında indirilir.",
+     "dayanak": "5607 md. 5/1",
+     "kanit": "Haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza üçte iki oranında indirilir."
+    },
+    {
+     "alt_konu": "Etkin pişmanlık",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre etkin pişmanlık gösteren failin cezasında indirim yapılabilmesi için Devlet Hazinesine ne kadar para ödemesi gerekir?",
+     "cevap": "Suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar parayı Devlet Hazinesine ödemesi gerekir.",
+     "dayanak": "5607 md. 5/2",
+     "kanit": "etkin pişmanlık göstererek suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar parayı Devlet Hazinesine;"
+    },
+    {
+     "alt_konu": "Etkin pişmanlık",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre etkin pişmanlık kapsamındaki ödemenin soruşturma evresi sona erinceye kadar veya kovuşturma evresinde hüküm verilinceye kadar yapılması hâlinde ceza hangi oranlarda indirilir?",
+     "cevap": "Soruşturma evresi sona erinceye kadar ödenirse ceza yarı oranında, kovuşturma evresinde hüküm verilinceye kadar ödenirse üçte bir oranında indirilir.",
+     "dayanak": "5607 md. 5/2-a,b",
+     "kanit": "Soruşturma evresi sona erinceye kadar ödediği takdirde ... suçlarından dolayı verilecek ceza yarı oranında ... Kovuşturma evresinde hüküm verilinceye kadar ödediği takdirde ... suçlarından dolayı verilecek ceza üçte bir oranında"
+    },
+    {
+     "alt_konu": "Etkin pişmanlık",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ödeme yoluyla etkin pişmanlık hükmünden hangi kaçakçılık suçunu işleyenler yararlanamaz?",
+     "cevap": "İthali kanun gereği yasak olan eşyayı ülkeye sokma (ve bu eşyayı bilerek satın alma, satma, taşıma, saklama) suçunu işleyenler yararlanamaz; hüküm bu fıkra hariç tutularak düzenlenmiştir.",
+     "dayanak": "5607 md. 5/2",
+     "kanit": "Yedinci fıkrası hariç, 3 üncü maddede tanımlanan suçlardan birini işlemiş olan kişi ... İthali kanun gereği yasak olan eşyayı ülkeye sokan kişi"
+    },
+    {
+     "alt_konu": "Etkin pişmanlık",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre etkin pişmanlık ve ödeme imkânı şüpheli veya sanığa kim tarafından ihtar edilir?",
+     "cevap": "Soruşturma evresinde Cumhuriyet savcısı tarafından şüpheliye ihtar edilir; soruşturma evresinde ihtar yapılmamışsa kovuşturma evresinde hâkim tarafından sanığa ihtar yapılır.",
+     "dayanak": "5607 md. 5/2",
+     "kanit": "Bu husus, soruşturma evresinde Cumhuriyet savcısı tarafından şüpheliye ihtar edilir. Soruşturma evresinde ihtar yapılmaması hâlinde kovuşturma evresinde hâkim tarafından sanığa ihtar yapılır."
+    },
+    {
+     "alt_konu": "Etkin pişmanlık",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ödeme yoluyla etkin pişmanlık indirimi hangi kişiler veya hâller bakımından uygulanmaz?",
+     "cevap": "Mükerrirler hakkında ve suçun bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz.",
+     "dayanak": "5607 md. 5/3",
+     "kanit": "İkinci fıkra hükmü, mükerrirler hakkında veya suçun bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz."
+    },
+    {
+     "alt_konu": "Yolcu beraberinde getirilen kaçak eşya",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre yolcuların beyanlarına aykırı olarak üzerlerinde, eşyası arasında veya taşıma araçlarında çıkan eşyanın hangi nitelikte olması hâlinde kaçakçılık suçlarına ilişkin hükümler uygulanır?",
+     "cevap": "Eşyanın ticari mahiyette olması veya ithali ya da ihracının yasak olması hâlinde kaçakçılık suçlarına ilişkin hükümler uygulanır.",
+     "dayanak": "5607 md. 6/4",
+     "kanit": "Yolcuların, beyanlarına aykırı olarak üzerlerinde, eşyası arasında veya taşıma araçlarında çıkan eşyanın ticarî mahiyette veya ithali veya ihracının yasak olması halinde 3 üncü madde hükümleri uygulanır."
+    },
+    {
+     "alt_konu": "Deniz taşıtları",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre hukuken geçerli bir mazereti olmadan izinsiz olarak gümrük bölgesine girerek sahile veya başka bir gemiye yanaşan geminin kaptanı hangi hâllerde kaçakçılık suçuna ilişkin hükümlere göre cezalandırılır?",
+     "cevap": "Gemide yasak eşya ya da yükleme veya taşıma belgelerinde yer almayan eşya bulunması hâllerinde cezalandırılır.",
+     "dayanak": "5607 md. 7/1",
+     "kanit": "geminin kaptanı, gemide yasak eşya ya da yükleme veya taşıma belgelerinde yer almayan eşya bulunması hallerinde, bu Kanundaki kaçakçılık suçuna ilişkin hükümlere göre cezalandırılır."
+    },
+    {
+     "alt_konu": "Arama ve elkoyma",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçak eşya, silah, mühimmat, patlayıcı ve uyuşturucu bulunduğundan şüphe edilen kap, ambalaj, taşıma araçları ile kişilerin üzerinde yapılacak arama ve elkoymalar hangi kanun uyarınca yerine getirilir?",
+     "cevap": "5271 sayılı Ceza Muhakemesi Kanunu uyarınca yerine getirilir.",
+     "dayanak": "5607 md. 9/1",
+     "kanit": "kişilerin üzerlerinde yapılacak arama ve elkoymalar, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu uyarınca yerine getirilir."
+    },
+    {
+     "alt_konu": "Arama ve elkoyma",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre gümrük salonları ve gümrük kapılarında kaçak eşya sakladığından kuşkulanılan kişilerin üzeri, eşyası, yükleri ve araçları kim tarafından ve hangi amaçla aranabilir?",
+     "cevap": "Gümrük kontrolü amacıyla gümrük görevlilerince aranabilir; arama sonucunda tespit edilen kaçak eşyaya derhal el konulur.",
+     "dayanak": "5607 md. 9/2",
+     "kanit": "Gümrük salonları ve gümrük kapılarında kaçak eşya sakladığından kuşkulanılan kişilerin üzeri, eşyası, yükleri ve araçları gümrük kontrolü amacıyla gümrük görevlilerince aranabilir."
+    },
+    {
+     "alt_konu": "Kaçak eşya naklinde kullanılan taşıta elkoyma, alıkoyma ve teminat",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarının işlenmesinde kullanılan ve el konulan taşıt hangi hâllerde elkoyma kararı veren mercilerce alıkonulur?",
+     "cevap": "Kaçak eşyanın taşıtta özel olarak hazırlanmış gizli tertibat içinde saklanmış veya taşınmış olması, taşıtın Türkiye'de sicile kayıtlı olmaması ya da soruşturma ve kovuşturma devam ederken kaçakçılık suçunda tekrar kullanılması hâllerinde alıkonulur.",
+     "dayanak": "5607 md. 10/2, 13/1-a",
+     "kanit": "13 üncü maddenin birinci fıkrasının (a) bendi kapsamına girmesi, Türkiye'de sicile kayıtlı olmaması ya da soruşturma ve kovuşturma devam ederken, kaçakçılık suçunun işlenmesinde tekrar kullanılması halinde, elkonulan taşıt, elkoyma kararı veren mercilerce[35] alıkonulur. ... Kaçak eşyanın, suçun işlenmesini kolaylaştıracak veya fiilin ortaya çıkmasını engelleyecek şekilde özel olarak hazırlanmış gizli tertibat içerisinde saklanmış veya taşınmış olması."
+    },
+    {
+     "alt_konu": "Kaçak eşya naklinde kullanılan taşıta elkoyma, alıkoyma ve teminat",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre alıkonulan taşıtın sahibine iade edilebilmesi için taşıt değeri kadar teminatın ne kadar süre içinde ve nereye teslim edilmesi gerekir?",
+     "cevap": "Alıkoyma tarihinden itibaren otuz gün içinde gümrük idaresine teslim edilmesi gerekir; aksi takdirde taşıt tasfiye idaresince soruşturma ve kovuşturma sonucu beklenmeksizin derhal tasfiye olunur.",
+     "dayanak": "5607 md. 10/2",
+     "kanit": "Sahibinin taşıtın[36] değeri kadar teminatı alıkoyma tarihinden itibaren otuz gün içinde gümrük idaresine teslim etmesi halinde, araç sahibine iade edilir. Aksi takdirde, tasfiye idaresi tarafından soruşturma ve kovuşturma sonucu beklenmeksizin derhal tasfiye olunur."
+    },
+    {
+     "alt_konu": "Kaçak eşya naklinde kullanılan taşıta elkoyma, alıkoyma ve teminat",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre hakkında elkoyma kararı bulunmakla birlikte alıkonulmayan ve gümrük idaresine veya yediemine teslim edilmiş taşıt, sahibi tarafından ne kadar süre içinde teslim alınmazsa tasfiye edilir?",
+     "cevap": "Gümrük idaresince yapılacak tebligattan itibaren doksan gün içinde muhafaza ve diğer masraflar karşılanarak teslim alınmazsa, tasfiye idaresince soruşturma ve kovuşturma sonucu beklenmeksizin derhal tasfiye olunur.",
+     "dayanak": "5607 md. 10/3",
+     "kanit": "gümrük idaresince yapılacak tebligattan itibaren doksan gün içinde muhafaza ve diğer masraflar karşılanmak suretiyle sahibi tarafından teslim alınmaması halinde, tasfiye idaresi tarafından soruşturma ve kovuşturma sonucu beklenmeksizin derhal tasfiye olunur."
+    },
+    {
+     "alt_konu": "Kaçak eşya naklinde kullanılan taşıta elkoyma, alıkoyma ve teminat",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre alıkonulan taşıtın iadesi için alınacak teminatın belirlenmesinde deniz taşıtlarında hangi değer esas alınır?",
+     "cevap": "Deniz taşıtlarında tekne ve makine sigortasına esas teşkil eden değer esas alınır; sigortasız taşıtlar ile hava ve demiryolu taşıtlarında ise piyasa değeri anlaşılır.",
+     "dayanak": "5607 md. 10/5",
+     "kanit": "deniz taşıtlarında, tekne ve makine sigortasına esas teşkil eden değer; sigortasız taşıtlar ile hava ve demiryolu taşıtlarında ise piyasa değeri anlaşılır."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın muhafazası, imhası ve masrafları",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçak şüphesiyle elkonulan eşya ile alıkonulan taşıt ve araçlar hangi idareye ve nasıl teslim edilir?",
+     "cevap": "Miktarı, cinsi, markası, tipi, modeli, seri numarası gibi ayırıcı özelliklerini gösteren bir tutanakla gümrük idaresine teslim edilir.",
+     "dayanak": "5607 md. 11/1",
+     "kanit": "miktarı, cinsi, markası, tipi, modeli, seri numarası gibi eşyanın ayırıcı özelliklerini gösterir bir tutanakla gümrük idaresine teslim edilir."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın muhafazası, imhası ve masrafları",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre alıkonularak gümrük idaresine teslim edilen deniz taşıtları teminatla teslim alınmazsa nereye teslim edilir?",
+     "cevap": "Muhafaza ve zorunlu bakım giderleri sahiplerince veya donatanlarınca karşılanmak üzere gümrük idaresince belirlenen liman işletme müdürlüğüne teslim edilir; masraflar karşılandığı sürece taşıtın tasfiyesi yoluna gidilmez.",
+     "dayanak": "5607 md. 11/3",
+     "kanit": "gümrük idaresince belirlenen liman işletme müdürlüğüne teslim edilir. Masraflar, sahiplerince ya da donatanlarınca karşılandığı sürece, taşıtın tasfiyesi yoluna gidilmez."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın muhafazası, imhası ve masrafları",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre muhafazası özel tesis ve tertibat gerektiren veya gümrük idaresinin depolama kapasitesini aşan elkonulan eşya nereye konulur?",
+     "cevap": "Özelliklerine göre doğrudan ilgili idarelere; bu mümkün değilse büyükşehirler dahil ilçelerde kaymakamın, illerde valinin uygun göreceği yerlere konulur.",
+     "dayanak": "5607 md. 11/4",
+     "kanit": "Muhafazası özel tesis ve tertibatı gerektiren veya gümrük idaresinin depolama kapasitesini aşan eşya, özelliklerine göre doğrudan ilgili idarelere, bunun mümkün olmaması halinde büyükşehirler dahil ilçelerde kaymakam, illerde valinin uygun göreceği yerlere konulur."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın muhafazası, imhası ve masrafları",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre el konulan bandrolsüz tütün mamulleri ve alkollü içkiler ile ilaç, tıbbi cihaz, elektronik sigara ve elektronik nargile gibi ürünler hakkında el koyan idarelerce ne yapılır?",
+     "cevap": "Numune alınarak, numune alınması mümkün değilse ayırt edici bilgileri tespit edilerek tutanağa bağlanır ve imha edilir. Ancak ilaç, ilaç hammaddeleri, ilaç hammaddesi içeren ürünler, tıbbi cihaz ve malzemeler ile etil alkolden imha dışındaki yöntemlerle tasfiye edilmesi uygun görülenler, ilgili bakanlıkların görüşü alınarak Ticaret Bakanlığınca çıkarılan yönetmelikle belirlenir.",
+     "dayanak": "5607 md. 11/5",
+     "kanit": "el koyan idarelerce numune alınmak veya numune alınması mümkün olmaması halinde ayırt edici bilgilerin tespiti yapılmak suretiyle tutanağa bağlanarak imha edilir. ... Ancak ilaç, ilaç hammaddeleri, ilaç hammaddesi içeren ürünler, tıbbi cihaz ve malzemeler ile etil alkolden imha haricindeki yöntemlerle tasfiye edilmesi uygun görülenler ilgili bakanlıkların görüşü alınarak Ticaret Bakanlığı tarafından çıkarılan yönetmelikle belirlenir."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın muhafazası, imhası ve masrafları",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçak akaryakıt hariç el konulan ve alıkonulan eşya, yük hayvanı ve taşıtların muhafaza, depolama, nakliye ve imha masrafları nereden karşılanır?",
+     "cevap": "El konulduğu andan itibaren yapılan masraflar Gümrük ve Ticaret Bakanlığı döner sermaye işletmesi gelirlerinden karşılanır; bu kapsamdaki mal ve hizmet alımlarında 4734 sayılı Kamu İhale Kanunu uygulanmaz.",
+     "dayanak": "5607 md. 11/6",
+     "kanit": "yapılan masraflar, Gümrük ve Ticaret Bakanlığı döner sermaye işletmesi gelirlerinden karşılanır. ... hizmet alımlarında 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu hükümleri uygulanmaz."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın muhafazası, imhası ve masrafları",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre yakalanan kaçak akaryakıt nereye ve nasıl teslim edilir?",
+     "cevap": "Yakalandığı ildeki il özel idaresine, il özel idaresi bulunmayan yerlerde yatırım izleme ve koordinasyon başkanlığına, miktarı, cinsi ve özelliklerini gösterir bir tutanakla yakalandığı yerde teslim edilir.",
+     "dayanak": "5607 md. 11/8",
+     "kanit": "Kaçak akaryakıt, yakalandığı ildeki il özel idaresine, il özel idaresi bulunmayan yerlerde ise yatırım izleme ve koordinasyon başkanlığına[41], miktarı, cinsi ve özelliklerini gösterir bir tutanakla yakalandığı yerde teslim edilir."
+    },
+    {
+     "alt_konu": "Yasak eşyanın geri gönderilmesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre yabancı ülkelerden gelen yasak eşya yükleme veya taşıma belgelerinde belirtilerek gümrüğe getirilirse ne yapılır?",
+     "cevap": "Teminat altında ve gerekli güvenlik tedbirleri alınarak geldiği yere veya diğer bir ülkeye iade ve sevk olunur.",
+     "dayanak": "5607 md. 12/1",
+     "kanit": "Yabancı ülkelerden gelen yasak eşya, yükleme veya taşıma belgelerinde belirtilerek gümrüğe getirilirse, teminat altında ve gerekli güvenlik tedbirleri alınarak geldiği yere veya diğer bir ülkeye iade ve sevk olunur."
+    },
+    {
+     "alt_konu": "Müsadere",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması veya kamu davasının düşmesine karar verilmesi suç konusu eşyanın müsaderesine engel midir?",
+     "cevap": "Engel değildir; suç konusu eşya ile ilgili olarak müsadere hükümleri uygulanabilir.",
+     "dayanak": "5607 md. 13/2",
+     "kanit": "Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması veya kamu davasının düşmesine karar verilmesi, sadece suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil etmez."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarının konusunu oluşturması nedeniyle müsadere yaptırımının uygulanabileceği eşya sahibine iade edilebilir mi?",
+     "cevap": "Hayır; müsadere yaptırımının uygulanabileceği eşya sahibine iade edilemez.",
+     "dayanak": "5607 md. 16/1",
+     "kanit": "Bu Kanunda tanımlanan suçların konusunu oluşturması dolayısıyla müsadere yaptırımının uygulanabileceği eşya, sahibine iade edilemez."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçak şüphesiyle el konulan eşya (kaçak akaryakıt hariç) hakkında tasfiye kararı ne kadar süre içinde ve kim tarafından verilir?",
+     "cevap": "Kural olarak el koyma tarihinden itibaren altı ay içinde, eşyanın zarara uğraması, değerinde esaslı ölçüde kayıp tehlikesi bulunması veya muhafazasının ciddi külfet oluşturması hâlinde ise bir ay içinde; soruşturma aşamasında hâkim, kovuşturma aşamasında mahkeme tarafından verilir. Bu süreler içinde karar verilmezse eşya derhal tasfiye edilir.",
+     "dayanak": "5607 md. 16/1",
+     "kanit": "Kaçak şüphesiyle el konulan kaçak akaryakıt hariç her türlü eşya hakkında, el koyma tarihinden itibaren altı ay, ancak eşyanın zarara uğraması veya değerinde esaslı ölçüde kayıp meydana gelme tehlikesinin varlığı veya muhafazasının ciddi külfet oluşturması halinde bir ay içinde, gerekli tespitler yaptırılarak soruşturma aşamasında hâkim, kovuşturma aşamasında mahkeme tarafından tasfiye kararı verilir. Bu süreler içinde karar verilmemesi halinde eşya derhal tasfiye edilir."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre el konulan eşyanın zarara uğraması, değerinde esaslı ölçüde kayıp tehlikesi bulunması veya muhafazasının ciddi külfet oluşturması hâlinde tasfiye kararı ne kadar sürede verilir?",
+     "cevap": "El koyma tarihinden itibaren bir ay içinde verilir.",
+     "dayanak": "5607 md. 16/1",
+     "kanit": "ancak eşyanın zarara uğraması veya değerinde esaslı ölçüde kayıp meydana gelme tehlikesinin varlığı veya muhafazasının ciddi külfet oluşturması halinde bir ay içinde"
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre satılarak tasfiye edilen eşyanın sahibine iadesine karar verilmesi hâlinde satış bedeli hak sahibine nasıl ödenir?",
+     "cevap": "Emanet hesabına alınan satış bedeli, Gümrük Kanunu hükümleri çerçevesinde el koyma tarihinden iade tarihine kadar geçen süre için kanuni faiziyle birlikte hak sahibine ödenir.",
+     "dayanak": "5607 md. 16/2",
+     "kanit": "satış bedeli Gümrük Kanununun 180 inci maddesi hükümleri çerçevesinde el koyma tarihinden iade tarihine kadar geçen süre için kanuni faizi ile birlikte hak sahibine ödenir."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre emanet hesabındaki tutarın hak sahibine yapılacak ödemeyi karşılamaması veya eşyanın imha edilmiş olması hâlinde fark ya da bedel nereden karşılanır?",
+     "cevap": "Gümrük idaresince genel bütçenin ilgili tertibinden karşılanarak hak sahibine ödenir.",
+     "dayanak": "5607 md. 16/2",
+     "kanit": "Emanet hesabında bulunan tutarın hak sahibine yapılacak ödemeyi karşılamaması halinde aradaki fark, eşyanın imha edilmiş olması halinde ise imha edilen eşyanın bedeli, gümrük idaresince genel bütçenin ilgili tertibinden karşılanarak hak sahibine ödenir."
+    },
+    {
+     "alt_konu": "Elkonulan eşyanın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre Kanunun uygulamasında tasfiye hangi idare tarafından ve hangi kanun hükümlerine göre yapılır?",
+     "cevap": "Tasfiye, tasfiye idaresi tarafından Gümrük Kanunu hükümlerine göre yapılır.",
+     "dayanak": "5607 md. 16/4",
+     "kanit": "Bu Kanunun uygulamasında tasfiye, tasfiye idaresi tarafından Gümrük Kanunu hükümlerine göre yapılır."
+    },
+    {
+     "alt_konu": "Kaçak akaryakıtın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre el konulan kaçak akaryakıttan teknik düzenlemelere uygun olanlar kim tarafından ve hangi yollarla tasfiye edilir?",
+     "cevap": "İl özel idareleri, il özel idaresi bulunmayan yerde yatırım izleme ve koordinasyon başkanlıkları tarafından numune alınarak kamu kurum ve kuruluşları ile mahalli idarelerin kullanımına bedelsiz tahsis edilerek veya satılarak tasfiye edilir.",
+     "dayanak": "5607 md. 16/A-1",
+     "kanit": "il özel idareleri, il özel idaresi bulunmayan yerde yatırım izleme ve koordinasyon başkanlıkları[48] tarafından, numune alınmak suretiyle kamu kurum ve kuruluşları ile mahalli idarelerin kullanımına bedelsiz tahsis edilerek veya satışı yapılarak tasfiye edilir"
+    },
+    {
+     "alt_konu": "Kaçak akaryakıtın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kara, hava ve deniz hudut kapılarında el konulan kaçak akaryakıt ile gümrüğe terk edilen veya terk edilmiş sayılan akaryakıt nasıl tasfiye edilir?",
+     "cevap": "Hudut kapılarında el konulan kaçak akaryakıt numune alınarak, gümrüğe terk edilen veya terk edilmiş sayılan akaryakıt ise numune alınmaksızın gümrük idarelerinin, gerektiğinde kamu kurum ve kuruluşları ile mahalli idarelerin kullanımına bedelsiz tahsis edilerek veya satılarak tasfiye edilir.",
+     "dayanak": "5607 md. 16/A-1",
+     "kanit": "Kara, hava ve deniz hudut kapılarında el konulan kaçak akaryakıt numune alınarak, gümrüğe terk edilen veya terk edilmiş sayılan akaryakıt ise numune alınmaksızın gümrük idarelerinin"
+    },
+    {
+     "alt_konu": "Kaçak akaryakıtın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre sahipsiz olarak yakalanan kaçak akaryakıtın ulusal marker saha ölçüm sonucunun Enerji Piyasası Düzenleme Kurumunun belirlediği şart ve seviyede olmaması hâlinde ne yapılır?",
+     "cevap": "Ürünler analiz yapılmaksızın teknik düzenlemelere aykırı kabul edilir ve tasfiye edilir.",
+     "dayanak": "5607 md. 16/A-2",
+     "kanit": "belirlenen şart ve seviyede olmaması halinde bahse konu ürünler analizi yapılmaksızın teknik düzenlemelere aykırı kabul edilir ve tasfiye edilir."
+    },
+    {
+     "alt_konu": "Kaçak akaryakıtın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre teknik düzenlemelere uygun olmayan kaçak akaryakıtın rafineriye satışında satış bedelinin alt sınırı nasıl belirlenir?",
+     "cevap": "Beyaz ürünlerde (benzin, motorin türleri, nafta, gaz yağı, jet yakıtı ve solvent türleri) rafineride bir önceki ay sonunda oluşan ham petrol/devir maliyet fiyatından, diğer ürünlerde ise bu fiyatın yüzde altmışından az olamaz.",
+     "dayanak": "5607 md. 16/A-3",
+     "kanit": "rafineride bir önceki ay sonunda oluşan ham petrol/devir maliyet fiyatından, diğer ürünlerde ise yüzde altmışından az olamaz."
+    },
+    {
+     "alt_konu": "Kaçak akaryakıtın tasfiyesi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre yargılamanın tasfiye edilen kaçak akaryakıt sahiplerinin lehine sonuçlanması hâlinde satışı yapılan akaryakıt için hak sahibine ne ödenir?",
+     "cevap": "Toplam satış bedelinden vergiler düşüldükten sonra kalan tutar, el koyma tarihinden kararın kesinleştiği tarihe kadar geçen süre için kanuni faiz eklenerek ilgili kurum bütçesinden ödenir.",
+     "dayanak": "5607 md. 16/A-4",
+     "kanit": "satışı yapılan kaçak akaryakıtın toplam satış bedelinden vergiler düşüldükten sonra kalan tutarı ... el koyma tarihinden kararın kesinleştiği tarihe kadar geçen süre için kanuni faiz ilave edilerek ilgili kurum bütçesinden hak sahibine ödenir."
+    },
+    {
+     "alt_konu": "Görevli mahkeme",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre Kanun kapsamındaki suçlarla bağlantılı olarak resmi belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme hangisidir?",
+     "cevap": "Ağır ceza mahkemesidir; diğer davalar Adalet Bakanlığının teklifi üzerine Hakimler ve Savcılar Yüksek Kurulunca belirlenen asliye ceza mahkemelerinde görülür.",
+     "dayanak": "5607 md. 17/2",
+     "kanit": "Ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi halinde, görevli mahkeme ağır ceza mahkemesidir."
+    },
+    {
+     "alt_konu": "Görevlilerin bildirim yükümlülüğü, bilgi-belge talebi ve muhbirin korunması",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılığı önleme, izleme ve soruşturmakla görevli olanlar operasyon gerektiren kaçakçılık olaylarından haberdar olduklarında kime bilgi verirler?",
+     "cevap": "Kanuni görevlerine başlarlar ve aynı zamanda mahallin en büyük mülki amirine bilgi verirler.",
+     "dayanak": "5607 md. 19/2",
+     "kanit": "operasyon gerektiren kaçakçılık olaylarından haberdar olduklarında kanunî görevlerini yapmaya başlar ve aynı zamanda mahallin en büyük mülkî amirine de bilgi verirler."
+    },
+    {
+     "alt_konu": "Görevlilerin bildirim yükümlülüğü, bilgi-belge talebi ve muhbirin korunması",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılığı önleme, izleme ve soruşturmakla görevli olanların bilgi ve belge talepleri kimler tarafından ve hangi kayıtla karşılanmak zorundadır?",
+     "cevap": "Kamu veya özel, gerçek veya tüzel kişilerce, savunma hakkına ilişkin hükümler saklı kalmak kaydıyla eksiksiz olarak karşılanmak zorundadır.",
+     "dayanak": "5607 md. 19/3",
+     "kanit": "kamu veya özel, gerçek veya tüzel kişilerce, savunma hakkına ilişkin hükümler saklı kalmak kaydıyla eksiksiz olarak karşılanmak zorundadır."
+    },
+    {
+     "alt_konu": "Görevlilerin bildirim yükümlülüğü, bilgi-belge talebi ve muhbirin korunması",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık suçlarını ihbar edenler ile ikramiye ödenmesi öngörülen muhbirlerin kimliği hangi hâllerde açıklanabilir?",
+     "cevap": "Yalnızca izinleri olması veya ihbarın niteliğinin haklarında suç oluşturması hâlinde açıklanabilir; aksi hâlde hiçbir şekilde açıklanamaz ve bu kişiler hakkında tanıkların korunmasına ilişkin hükümler uygulanır.",
+     "dayanak": "5607 md. 19/4",
+     "kanit": "muhbirlerin kimliği izinleri olmadıkça veya ihbarın niteliği haklarında suç oluşturmadıkça hiçbir şekilde açıklanamaz. Bu kişiler hakkında tanıkların korunmasına ilişkin hükümler uygulanır."
+    },
+    {
+     "alt_konu": "Tutanaklar",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık fiillerinin izlenmesine ilişkin tutanağın imzalanmasında ilgililerin imzadan kaçınması hâlinde ne yapılır?",
+     "cevap": "Tutanağın ilgilileri ilgilendiren kısımları okunur veya okumaları için kendilerine verilir; imzadan kaçınma hâlinde nedenleri tutanağa geçirilir.",
+     "dayanak": "5607 md. 20/2",
+     "kanit": "İşlemde hazır bulunan ilgililerce onanmak üzere tutanağın kendilerini ilgilendiren kısımları okunur ... İmzadan kaçınma halinde nedenleri tutanağa geçirilir."
+    },
+    {
+     "alt_konu": "Kontrollü teslimat",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kontrollü teslimat işlemleri hangi kanun çerçevesinde ve hangi birimlerce yürütülür?",
+     "cevap": "4208 sayılı Kanun hükümleri çerçevesinde Gümrük Müsteşarlığı, Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından yürütülür; mülki amirler bu birimler arasında sayılmamıştır.",
+     "dayanak": "5607 md. 21",
+     "kanit": "4208 sayılı Kanunun 10 uncu, 11 inci ve 13 üncü maddeleri hükümleri çerçevesinde Gümrük Müsteşarlığı, Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından yürütülür."
+    },
+    {
+     "alt_konu": "Silah kullanma yetkisi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre Gümrük Kanunu gereğince belirlenen kapı ve yollardan başka yerlerden gümrük bölgesine girmek, çıkmak veya geçmek isteyen kişinin \"dur\" uyarısına uymaması hâlinde silah nasıl kullanılır?",
+     "cevap": "Önce havaya ateş edilerek uyarı yinelenir; ancak silahla karşılığa yeltenilmesi veya meşru müdafaa durumuna düşülmesi hâlinde yetkili memurlar saldırıyı etkisiz kılacak oranda doğrudan hedefe ateş edebilir.",
+     "dayanak": "5607 md. 22/1",
+     "kanit": "havaya ateş edilmek suretiyle uyarı yinelenir. Ancak silâhla karşılığa yeltenilmesi ve sair surette meşru müdafaa durumuna düşülmesi halinde, yetkili memurlar saldırıyı etkisiz kılacak oranda doğrudan hedefe ateş edebilir."
+    },
+    {
+     "alt_konu": "Silah kullanma yetkisi",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre gümrük bölgesinde görevlilerin yanaşmasına izin vermeyerek kaçan veya kaçmaya teşebbüs eden deniz araçlarına karşı hangi sıra izlenir?",
+     "cevap": "Önce uluslararası deniz işaretlerine göre telsiz, flama, mors ve benzeri işaretlerle durması ihtar olunur; ihtara uymayana uyarı mahiyetinde ateş edilir; buna da uymayıp kaçmaya devam ederse durmaya zorlayacak şekilde üzerine ateş edilir.",
+     "dayanak": "5607 md. 22/2",
+     "kanit": "Bu ihtara uymayan deniz araçlarına uyarı mahiyetinde ateş edilir. Buna da uymayıp kaçmaya devam ettiği takdirde durmaya zorlayacak şekilde üzerine ateş edilir."
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre 6136 sayılı Kanuna aykırılık suçlarından yakalanan silah ve mermilerde ikramiyeye esas değer nasıl belirlenir?",
+     "cevap": "Olay tarihine göre Milli Savunma Bakanlığınca her yıl belirlenen değer esas alınır.",
+     "dayanak": "5607 md. 23/1-a",
+     "kanit": "suçlarından yakalanan maddelerin olay tarihine göre Milli Savunma Bakanlığınca her yıl belirlenen değeri esas alınarak"
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre 6136 sayılı Kanuna aykırılık suçlarından yakalanan silah ve mermilerin sahipli yakalanması hâlinde ikramiye hangi oranlarda ve ne zaman ödenir?",
+     "cevap": "Değerin yüzde yirmi beşi kamu davasının açılmasını, yüzde yetmiş beşi mahkûmiyet hükmünün veya müsadere kararının kesinleşmesini takip eden üç ay içinde ödenir.",
+     "dayanak": "5607 md. 23/1-a",
+     "kanit": "sahipli yakalanması halinde değerinin yüzde yirmibeşi kamu davasının açılmasını, yüzde yetmişbeşi ise mahkûmiyete ilişkin hükmün veya müsadere kararının kesinleşmesini takip eden üç ay içinde;"
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre 6136 sayılı Kanuna aykırılık suçlarından yakalanan silah ve mermilerin sahipsiz yakalanması hâlinde ikramiye hangi oranda ve ne zaman ödenir?",
+     "cevap": "Yakalanan eşya değerinin yüzde ellisi, müsadere kararının kesinleşmesini takip eden üç ay içinde ödenir.",
+     "dayanak": "5607 md. 23/1-a",
+     "kanit": "sahipsiz yakalanmışsa yakalanan eşya değerinin yüzde ellisi müsadere kararının kesinleşmesini takip eden üç ay içinde,"
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre silah ve mermi, uyuşturucu madde, ambalajında bandrol vb. işaret bulunmayan ya da taklit veya yanıltıcı işaret taşıyan tütün mamulü, alkol ve alkollü içki ile kaçak akaryakıt yakalamaları için öngörülen özel esaslar dışında kalan ikramiye ödemelerinde hangi kıymet esas alınır?",
+     "cevap": "Çıkış kaçağı eşyada FOB kıymeti, giriş kaçağı eşyada CIF kıymeti esas alınır.",
+     "dayanak": "5607 md. 23/1-c",
+     "kanit": "Bu maddenin (a) ve (b) bentlerindeki durumlar dışındaki ikramiye ödemelerinde, çıkış kaçağı eşyanın FOB, giriş kaçağı eşyanın CIF kıymeti esas alınır. ... 3 üncü maddenin on sekizinci ve on dokuzuncu fıkraları kapsamında gerçekleştirilen yakalamalarda ise"
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ikramiye ödemelerinde sahipsiz yakalanan eşyanın değeri kim tarafından belirlenir?",
+     "cevap": "Mahallin en büyük mülki amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir.",
+     "dayanak": "5607 md. 23/1-c",
+     "kanit": "Sahipsiz yakalanan eşyanın değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir."
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre silah ve mermi, uyuşturucu madde, ambalajında bandrol vb. işaret bulunmayan ya da taklit veya yanıltıcı işaret taşıyan tütün mamulü, alkol ve alkollü içki ile kaçak akaryakıt dışında kalan kaçak eşyanın sahipli veya sahipsiz yakalanmasında ikramiye kıymetin hangi oranında ve ne zaman ödenir?",
+     "cevap": "Sahipli yakalanmışsa kıymetinin yüzde ellisi, sahipsiz yakalanmışsa yüzde yirmi beşi ödenir. Ödeme, mahkûmiyete, etkin pişmanlıkta kamu davasının açılmamasına, eşyanın müsaderesine ya da mülkiyetinin kamuya geçirilmesine ilişkin kararların kesinleşmesini takip eden üç ay içinde yapılır.",
+     "dayanak": "5607 md. 23/1-c",
+     "kanit": "Kaçak eşya sahipli yakalanmışsa kıymetinin yüzde ellisi, sahipsiz yakalanmışsa yüzde yirmibeşi mahkûmiyete, etkin pişmanlıkta kamu davasının açılmamasına, eşyanın müsaderesine ya da mülkiyetinin kamuya geçirilmesine ilişkin kararların kesinleşmesini takip eden üç ay içinde,"
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre dağıtılacak ikramiye muhbirler ile elkoyma ikramiyesine hak kazananlar arasında nasıl paylaştırılır?",
+     "cevap": "Yüzde ellisi muhbirlere, yüzde ellisi elkoyma ikramiyesine hak kazananlara verilir; ihbarsız yakalamalarda ikramiyenin tamamı elkoyma ikramiyesine hak kazananlara ödenir.",
+     "dayanak": "5607 md. 23/2",
+     "kanit": "Dağıtılacak ikramiyenin yüzde ellisi muhbirlere, yüzde ellisi elkoyma ikramiyesine hak kazananlara verilir. İhbarsız yakalama olaylarında ikramiyenin tamamı elkoyma ikramiyesine hak kazananlara ödenir."
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlara muhbir ikramiyesi ödenir mi?",
+     "cevap": "Hayır; kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlara muhbir ikramiyesi ödenmez, bunlar ancak şartları varsa elkoyma ikramiyesine hak kazanır.",
+     "dayanak": "5607 md. 23/2",
+     "kanit": "Kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlara muhbir ikramiyesi ödenmez."
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre ödenecek ikramiyeler hangi vergi ve harçlara tabidir?",
+     "cevap": "Damga vergisi hariç vergi, resim ve harca tabi tutulmaz; yalnızca damga vergisine tabidir.",
+     "dayanak": "5607 md. 23/3",
+     "kanit": "Bu maddeye göre ödenecek ikramiyeler, damga vergisi hariç vergi, resim ve harca tâbi tutulmaz."
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre elkoyma ikramiyesine hak kazananlara olay başına ödenecek ikramiyenin üst sınırı nedir?",
+     "cevap": "Olay başına (30.000) gösterge rakamının, kamu davasının açılması, mahkûmiyet veya müsadere kararının kesinleştiği tarihteki memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçemez.",
+     "dayanak": "5607 md. 23/4",
+     "kanit": "verilecek ikramiyenin tutarı olay başına (30.000) gösterge rakamının, kamu davasının açılması, mahkûmiyet, müsadere kararının kesinleştiği tarihteki memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçemez."
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre elkoyma ikramiyesine hak kazananlara bir yılda ödenecek ikramiyenin üst sınırı nedir ve bu sınır hangi ikramiyelerde uygulanmaz?",
+     "cevap": "Bir yılda ödenecek ikramiye (120.000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarı geçemez; olay başı ve yıllık sınırlar kaçak akaryakıt ikramiyelerinde uygulanmaz.",
+     "dayanak": "5607 md. 23/4",
+     "kanit": "Ancak bir yılda ödenecek ikramiye (120.000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarı geçemez. Bu fıkra hükmü bu maddenin altıncı fıkrası kapsamında yapılacak ikramiye ödemeleri hakkında uygulanmaz."
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre bir ihbar sonucunda kaçak akaryakıtın sahipli yakalanması hâlinde kamu davasının açılmasını takip eden üç ay içinde ihbar edene ve elkoyma ikramiyesine hak kazananlara hangi oranlarda ikramiye ödenir?",
+     "cevap": "Hesaplanacak toplamın yüzde onu ihbar edene, yüzde onu elkoyma ikramiyesine hak kazananlara ödenir; mahkûmiyet veya müsadere kararının kesinleşmesinden sonra ayrıca yüzde on beşer oranında ilave ikramiye ödenir.",
+     "dayanak": "5607 md. 23/6-a",
+     "kanit": "toplamın yüzde onu tutarında ihbar edene, yüzde onu tutarında elkoyma ikramiyesine hak kazananlara[69] kamu davasının açılmasını takip eden üç ay içinde ... toplamın yüzde on beşi tutarında ihbar edene, yüzde on beşi tutarında yakalama eylemine"
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre yakalanan kaçak akaryakıtın sahipli olmaması hâlinde ihbar edenlere ve elkoyma ikramiyesine hak kazananlara ödenecek ikramiye nasıl belirlenir?",
+     "cevap": "İkramiyeler yüzde elli eksik ödenir.",
+     "dayanak": "5607 md. 23/6-c",
+     "kanit": "Yakalanan kaçak akaryakıtın sahipli olmaması halinde, bu fıkra kapsamında ihbar edenlere ve elkoyma ikramiyesine hak kazananlara[71] ödenecek ikramiyeler yüzde elli eksik ödenir."
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre Kara Kuvvetleri Komutanlığı hudut birlikleri personeli ile Deniz Kuvvetleri Komutanlığı personeline kaçakçılık yakalamalarından ikramiye ödenebilir mi?",
+     "cevap": "Evet; 3497 sayılı Kanun uyarınca görev verilen Kara Kuvvetleri Komutanlığı hudut birlikleri personeli ile yardım talep edilmesi hâlinde kaçakçılıkla mücadele görevi verilen Deniz Kuvvetleri Komutanlığı personeline de aynı usul ve esaslara göre ikramiye ödenir.",
+     "dayanak": "5607 md. 23/7",
+     "kanit": "Kara Kuvvetleri Komutanlığı hudut birlikleri (desteğine/emrine verilen unsurlar dahil) personeli ile yardım talep edilmesi halinde kaçakçılıkla mücadele görevi verilen Deniz Kuvvetleri Komutanlığı personeline de bu maddede düzenlenen usul ve esaslara göre ikramiye ödenir."
+    },
+    {
+     "alt_konu": "İkramiyeler",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre muhbir ve elkoyma ikramiyesine hak kazananlara ödenecek ikramiye tutarı hangi tutarın altında kalırsa ikramiye talep dosyası hazırlanmaz?",
+     "cevap": "3.000 gösterge rakamının olayın olduğu tarihteki memur maaş katsayısı ile çarpımı sonucu bulunacak tutardan az olması durumunda ikramiye talep dosyası hazırlanmaz.",
+     "dayanak": "5607 md. 23/9",
+     "kanit": "tutarı 3.000 gösterge rakamının olayın olduğu tarihteki memur maaş katsayısı ile çarpımı sonucu bulunacak tutardan az olması durumunda ikramiye talep dosyası hazırlanmaz."
+    },
+    {
+     "alt_konu": "Kriminal laboratuvar",
+     "soru": "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık fiillerinin önlenmesi, izlenmesi ve araştırılması çerçevesinde görev yapacak kriminal laboratuvarlar kim tarafından kurulur?",
+     "cevap": "Gümrük Müsteşarlığınca kurulur; çalışma usul ve esasları da Gümrük Müsteşarlığınca çıkarılacak yönetmelikle belirlenir.",
+     "dayanak": "5607 md. 24",
+     "kanit": "araştırılması çerçevesinde görev yapmak üzere Gümrük Müsteşarlığınca kriminal laboratuvarlar kurulur. Bu laboratuvarların çalışma usûl ve esasları Gümrük Müsteşarlığınca çıkarılacak yönetmelikle belirlenir."
+    }
+   ]
+  },
+  {
+   "kaynak": "kacakcilik_turleri_ile_ilgili_mahkumiyet_hukmu_kesinlesenlerin_kamuoyuna_ilan_edilmesine_dair_yonetmelik.txt",
+   "konu": "Kaçakçılık – mahkûmiyeti kesinleşenlerin kamuoyuna ilanı",
+   "mevzuat": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmelik (RG 03.12.2013/28840) md. 1-7",
+   "cikmis_sayisi": 1,
+   "cikmis": [
+    "2021-91: Kaçakçıların kamuoyuna ilanının ön şartı mahkûmiyet hükmünün kesinleşmesidir (5607 md. 4/9; Yönetmelik md. 4)."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Kapsam dışı kalanlar: yaş sınırı",
+     "dayanak": "İlan Yönetmeliği md. 1/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Dayanak",
+     "dayanak": "İlan Yönetmeliği md. 2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İlan edilebilecek kaçakçılık fiilleri ve ilan kararını veren birim",
+     "dayanak": "İlan Yönetmeliği md. 3, 4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-91"
+     ],
+     "not": "İlan için mahkûmiyet hükmünün kesinleşmesi şartı (Kanun md. 4/9 üzerinden) soruldu; Yönetmelikteki genişletilmiş fiil listesi ve kararı veren birim sorulmadı."
+    },
+    {
+     "baslik": "İlana esas asgari miktar ve değerler",
+     "dayanak": "İlan Yönetmeliği md. 6/1-2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Miktar ve değere bakılmaksızın ilan edilebilecek fiiller",
+     "dayanak": "İlan Yönetmeliği md. 6/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İlanın yayımlanması, süresi ve içeriği",
+     "dayanak": "İlan Yönetmeliği md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Kapsam dışı kalanlar: yaş sınırı",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre Yönetmelik hükümleri kimler hakkında uygulanmaz?",
+     "cevap": "Suçun işlendiği tarihte 18 yaşını doldurmamış olanlar hakkında uygulanmaz; yaş, hüküm veya ilan tarihine göre değil suç tarihine göre belirlenir.",
+     "dayanak": "İlan Yönetmeliği md. 1/2",
+     "kanit": "Bu Yönetmelik hükümleri suçun işlendiği tarihte[1] 18 yaşını doldurmamış olanlar için uygulanmaz."
+    },
+    {
+     "alt_konu": "Dayanak",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre Yönetmelik hangi kanun hükmüne dayanılarak hazırlanmıştır?",
+     "cevap": "5607 sayılı Kaçakçılıkla Mücadele Kanununun nitelikli hâlleri düzenleyen ve kamuoyuna ilan yetkisini veren hükmüne dayanılarak hazırlanmıştır.",
+     "dayanak": "İlan Yönetmeliği md. 2",
+     "kanit": "Bu Yönetmelik, 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanununun 4 üncü maddesine dayanılarak hazırlanmıştır."
+    },
+    {
+     "alt_konu": "İlan edilebilecek kaçakçılık fiilleri ve ilan kararını veren birim",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre mahkûmiyet hükmü kesinleşenlerden kamuoyuna ilan edileceklere dair karar hangi birimce verilir ve nasıl icra edilir?",
+     "cevap": "Karar Gümrükler Muhafaza Genel Müdürlüğünce verilir ve Bakan Onayı ile icra edilir.",
+     "dayanak": "İlan Yönetmeliği md. 3/1-b, 4/2",
+     "kanit": "Genel Müdürlük: Gümrükler Muhafaza Genel Müdürlüğünü, ... 6 ncı madde hükümlerine göre ilan edileceklere dair karar Genel Müdürlükçe verilir ve Bakan Onayı ile icra edilir."
+    },
+    {
+     "alt_konu": "İlan edilebilecek kaçakçılık fiilleri ve ilan kararını veren birim",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre kaçakçılık fiillerinden mahkûmiyet hükmü kesinleşenler hangi amaçla ve hangi Bakanlık tarafından ilan edilebilir?",
+     "cevap": "Kamuoyunun bilgilendirilmesi amacıyla Ticaret Bakanlığı tarafından ilan edilebilir; ilan zorunlu değil, takdire bağlıdır.",
+     "dayanak": "İlan Yönetmeliği md. 3/1-a, 4/1",
+     "kanit": "Bakanlık: Ticaret Bakanlığını,[2] ... fiillerinden mahkûmiyet hükmü kesinleşenler kamuoyunun bilgilendirilmesi amacıyla Bakanlık tarafından ilan edilebilir."
+    },
+    {
+     "alt_konu": "İlan edilebilecek kaçakçılık fiilleri ve ilan kararını veren birim",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre hayali ihracat ve göçmen kaçakçılığı fiillerinden mahkûmiyet hükmü kesinleşenler kamuoyuna ilan edilebilir mi?",
+     "cevap": "Evet; Yönetmelik, Kanunda sayılan türlere ek olarak tarihi eser, motorlu taşıt, genetiği değiştirilmiş organizmalı ürünler, radyoaktif ve kimyasal maddeler, fikri ve sınai mülkiyet hakları, sahte para, altın, maden kaçakçılığı, hayali ihracat ve göçmen kaçakçılığını da ilan edilebilecek fiiller arasında saymıştır.",
+     "dayanak": "İlan Yönetmeliği md. 4/1",
+     "kanit": "hakları, sahte para, altın, maden kaçakçılığı, hayali ihracat, göçmen kaçakçılığı fiillerinden mahkûmiyet hükmü kesinleşenler kamuoyunun bilgilendirilmesi amacıyla Bakanlık tarafından ilan edilebilir."
+    },
+    {
+     "alt_konu": "İlana esas asgari miktar ve değerler",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre akaryakıt ve türevleri kaçakçılığına konu mahkûmiyet kararının kamuoyuna ilan edilebilmesi için yakalanan miktarın en az ne kadar olması gerekir?",
+     "cevap": "5.000 litreden az olmaması gerekir.",
+     "dayanak": "İlan Yönetmeliği md. 6/1-a",
+     "kanit": "Kaçakçılık fiiline konu mahkûmiyet kararının kamuoyuna ilan edilmesi için; ... Akaryakıt ve türevleri için 5.000 litreden,"
+    },
+    {
+     "alt_konu": "İlana esas asgari miktar ve değerler",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre sigara ve tütün kaçakçılığında mahkûmiyet kararının ilan edilebilmesi için aranan asgari miktarlar nedir?",
+     "cevap": "Sigara için 5.000 paketten, tütün için 500 kilogramdan az olmaması şartı aranır.",
+     "dayanak": "İlan Yönetmeliği md. 6/1-b,c",
+     "kanit": "Sigara için 5.000 paketten, ... Tütün için 500 kilogramdan,"
+    },
+    {
+     "alt_konu": "İlana esas asgari miktar ve değerler",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre alkollü içki kaçakçılığında mahkûmiyet kararının ilan edilebilmesi için aranan asgari miktar nedir?",
+     "cevap": "150 litreden az olmaması şartı aranır.",
+     "dayanak": "İlan Yönetmeliği md. 6/1-ç",
+     "kanit": "Kaçakçılık fiiline konu mahkûmiyet kararının kamuoyuna ilan edilmesi için; ... Alkollü içki için 150 litreden,"
+    },
+    {
+     "alt_konu": "İlana esas asgari miktar ve değerler",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre canlı hayvan kaçakçılığında mahkûmiyet kararının ilan edilebilmesi için aranan asgari miktar nedir?",
+     "cevap": "50 baştan az olmaması şartı aranır.",
+     "dayanak": "İlan Yönetmeliği md. 6/1-d",
+     "kanit": "Kaçakçılık fiiline konu mahkûmiyet kararının kamuoyuna ilan edilmesi için; ... Canlı hayvan için 50 baştan,"
+    },
+    {
+     "alt_konu": "İlana esas asgari miktar ve değerler",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre et, çay ve şeker kaçakçılığında mahkûmiyet kararının ilan edilebilmesi için aranan asgari miktarlar nedir?",
+     "cevap": "Et için 500 kilogram, çay için 150 kilogram, şeker için 500 kilogramdan az olmaması şartı aranır.",
+     "dayanak": "İlan Yönetmeliği md. 6/1-e,f,g",
+     "kanit": "Et için 500 kilogramdan, f) Çay için 150 kilogramdan, g) Şeker için 500 kilogramdan,"
+    },
+    {
+     "alt_konu": "İlana esas asgari miktar ve değerler",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre miktar eşiği belirlenmemiş diğer eşya türlerinde mahkûmiyet kararının ilan edilebilmesi için eşyanın değeri en az ne kadar olmalıdır?",
+     "cevap": "Eşyanın gümrüklenmiş değerinin 500.000 Türk Lirasından az olmaması gerekir.",
+     "dayanak": "İlan Yönetmeliği md. 6/1-ı",
+     "kanit": "Diğer eşya türleri için gümrüklenmiş değerinin 500.000[5] Türk Lirasından,"
+    },
+    {
+     "alt_konu": "İlana esas asgari miktar ve değerler",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre diğer eşya türleri için belirlenen ilana esas gümrüklenmiş değer tutarı nasıl güncellenir?",
+     "cevap": "Her yıl Hazine ve Maliye Bakanlığınca belirlenen yeniden değerleme oranında artırılır.",
+     "dayanak": "İlan Yönetmeliği md. 6/2",
+     "kanit": "Birinci fıkranın (ı) bendindeki gümrüklenmiş değer tutarı, her yıl Hazine ve Maliye Bakanlığınca[6] belirlenen yeniden değerleme oranında artırılır."
+    },
+    {
+     "alt_konu": "Miktar ve değere bakılmaksızın ilan edilebilecek fiiller",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre hangi kaçakçılık fiilleri miktar veya eşyanın gümrüklenmiş değerine bakılmaksızın kamuoyuna ilan edilebilir?",
+     "cevap": "Genetiği değiştirilmiş organizmalı ürünler, radyoaktif ve kimyasal maddeler, çevre veya toplum sağlığını tehdit eden ürünler, fikri ve sınai mülkiyet hakları, nesli tükenmekte olan türler, tarihi eser, uyuşturucu, silah ve mühimmat, sahte para, altın, maden ve göçmen kaçakçılığı fiilleri miktar veya değere bakılmaksızın ilan edilebilir.",
+     "dayanak": "İlan Yönetmeliği md. 6/3",
+     "kanit": "Genetiği değiştirilmiş organizmalı ürünler, radyoaktif ve kimyasal maddeler ... uyuşturucu ile silah ve mühimmat, sahte para, altın, maden kaçakçılığı ve göçmen kaçakçılığı fiilleri, miktar veya eşyanın gümrüklenmiş değerine bakılmaksızın kamuoyuna ilan edilebilir."
+    },
+    {
+     "alt_konu": "İlanın yayımlanması, süresi ve içeriği",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre kamuoyuna ilan edilecek kaçakçılık suçları ve hükümlülerine ilişkin bilgiler nerede ve ne kadar süre yayımlanır?",
+     "cevap": "Bakanlık resmi internet sitesinde üç ay süre ile yayımlanır; bilgiler diğer iletişim vasıtalarıyla da duyurulabilir.",
+     "dayanak": "İlan Yönetmeliği md. 7/1-2",
+     "kanit": "kaçakçılık suçları ve hükümlülerine ilişkin bilgiler üç ay süre ile Bakanlık resmî internet sitesinde yayımlanır."
+    },
+    {
+     "alt_konu": "İlanın yayımlanması, süresi ve içeriği",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre ilanın yayımlanma süresi suçun mahiyetine göre kim tarafından ve ne kadar artırılabilir?",
+     "cevap": "Gümrükler Muhafaza Genel Müdürlüğünce bir katına kadar artırılabilir.",
+     "dayanak": "İlan Yönetmeliği md. 7/3",
+     "kanit": "Suçun mahiyetine göre birinci fıkradaki süre, Genel Müdürlükçe bir katına kadar artırılabilir."
+    },
+    {
+     "alt_konu": "İlanın yayımlanması, süresi ve içeriği",
+     "soru": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre ilan metninde kaçakçılık suçundan mahkûm olanlara ilişkin hangi kişisel bilgiler yer alır?",
+     "cevap": "Mahkûmun adı soyadı, baba adı, doğum tarihi, doğum yeri ve mesleği yer alır; ayrıca yakalanan eşyanın cinsi ve miktarı ile yayımlanma süresi de ilan içeriğinde bulunur.",
+     "dayanak": "İlan Yönetmeliği md. 7/4",
+     "kanit": "Kaçakçılık suçundan mahkûm olanların adı soyadı, baba adı, doğum tarihi, doğum yeri ve mesleği,"
+    }
+   ]
+  },
+  {
+   "kaynak": "milli_savunma_veya_ic_guvenlik_hizmetleriyle_dogrudan_ilgili_silah_muhimmat_arac_ve_gerec_ile_sarf_malzem.txt",
+   "konu": "Kaçakçılık – el konulan silah, mühimmat, araç-gereç ve sarf malzemesinin güvenlik birimlerine tahsisi",
+   "mevzuat": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmelik (Adalet, İçişleri, Millî Savunma ve Maliye Bakanlıkları; RG 01.02.2017/29966; dayanak 6136 sayılı Kanun Ek md. 12) md. 1-13",
+   "cikmis_sayisi": 0,
+   "cikmis": [],
+   "alt_konular": [
+    {
+     "baslik": "Amaç, kapsam ve tahsis yapılabilecek kurumlar",
+     "dayanak": "Tahsis Yönetmeliği md. 1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Dayanak ve düzenleyen/yürüten bakanlıklar",
+     "dayanak": "Tahsis Yönetmeliği md. 2, 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "2021-99'da 5607'ye dayalı yönetmelikler soruldu; bu Yönetmelik şıklarda yer almadı."
+    },
+    {
+     "baslik": "Tanımlar: araç ve gereç, kurumlar, mühimmat",
+     "dayanak": "Tahsis Yönetmeliği md. 3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyaya ilişkin işlemlerin süresi",
+     "dayanak": "Tahsis Yönetmeliği md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyaların listelenmesi ve tahsis taleplerinin iletilmesi",
+     "dayanak": "Tahsis Yönetmeliği md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tahsis komisyonu",
+     "dayanak": "Tahsis Yönetmeliği md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Valinin tahsis talebi",
+     "dayanak": "Tahsis Yönetmeliği md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tahsis kararı ve itiraz",
+     "dayanak": "Tahsis Yönetmeliği md. 8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tahsis kararının bildirilmesi ve listelerin gönderilmesi",
+     "dayanak": "Tahsis Yönetmeliği md. 9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İade veya müsadere kararı",
+     "dayanak": "Tahsis Yönetmeliği md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Rayiç değerin tespiti ve bedelin ödenmesi",
+     "dayanak": "Tahsis Yönetmeliği md. 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Amaç, kapsam ve tahsis yapılabilecek kurumlar",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre el konulan millî savunma veya iç güvenlik hizmetleriyle doğrudan ilgili silah, mühimmat, araç ve gereç ile sarf malzemesi hangi kurumlara tahsis edilebilir?",
+     "cevap": "Türk Silahlı Kuvvetleri, Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığına tahsis edilebilir; gümrük idaresi bu kurumlar arasında değildir.",
+     "dayanak": "Tahsis Yönetmeliği md. 1/1",
+     "kanit": "doğrudan ilgili silah, mühimmat, araç ve gereç ile sarf malzemesinin Türk Silahlı Kuvvetleri, Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığına tahsis edilmesi"
+    },
+    {
+     "alt_konu": "Amaç, kapsam ve tahsis yapılabilecek kurumlar",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre Yönetmelik hangi suçlar sebebiyle el konulan veya adli emanette bulunan eşyayı kapsar?",
+     "cevap": "Terör veya örgüt faaliyeti çerçevesinde işlenen suçlar ile 5607 sayılı Kaçakçılıkla Mücadele Kanunu kapsamındaki suçlar sebebiyle el konulan veya adli emanette bulunan eşyayı kapsar.",
+     "dayanak": "Tahsis Yönetmeliği md. 1/1",
+     "kanit": "terör veya örgüt faaliyeti çerçevesinde işlenen ya da 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu kapsamındaki suçlar sebebiyle el konulan veya adli emanette bulunan"
+    },
+    {
+     "alt_konu": "Dayanak ve düzenleyen/yürüten bakanlıklar",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre Yönetmelik hangi kanuna dayanılarak hazırlanmıştır?",
+     "cevap": "6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanuna dayanılarak hazırlanmıştır; dayanağı 5607 sayılı Kanun değildir.",
+     "dayanak": "Tahsis Yönetmeliği md. 2",
+     "kanit": "Bu Yönetmelik, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunun Ek 12 nci maddesine dayanılarak hazırlanmıştır."
+    },
+    {
+     "alt_konu": "Dayanak ve düzenleyen/yürüten bakanlıklar",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre Yönetmelik hangi bakanlıklarca çıkarılmış olup hükümlerini kimler yürütür?",
+     "cevap": "Adalet, İçişleri, Millî Savunma ve Maliye Bakanlıklarınca çıkarılmıştır ve hükümlerini bu dört Bakan birlikte yürütür.",
+     "dayanak": "Tahsis Yönetmeliği md. 13",
+     "kanit": "Adalet, İçişleri, Millî Savunma ve Maliye Bakanlıklarından ... Bu Yönetmelik hükümlerini Adalet, İçişleri, Milli Savunma ve Maliye Bakanları birlikte yürütür."
+    },
+    {
+     "alt_konu": "Tanımlar: araç ve gereç, kurumlar, mühimmat",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre \"Kurumlar\" kavramı hangi birimleri ifade eder?",
+     "cevap": "İl garnizon komutanlığı, emniyet müdürlüğü, jandarma komutanlığı ve sahil güvenlik komutanlığını ifade eder.",
+     "dayanak": "Tahsis Yönetmeliği md. 3/1-ç",
+     "kanit": "Kurumlar: İl garnizon komutanlığı, emniyet müdürlüğü, jandarma komutanlığı ve sahil güvenlik komutanlığını,"
+    },
+    {
+     "alt_konu": "Tanımlar: araç ve gereç, kurumlar, mühimmat",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre insansız hava aracı, gece görüş sistemleri ve haberleşmeyi engelleyen cihazlar hangi kavram kapsamında değerlendirilir?",
+     "cevap": "\"Araç ve gereç\" kapsamında değerlendirilir; bu kavram nakil vasıtaları, silaha ait yedek parça ve bakım malzemeleri, dürbün gibi millî savunma ve iç güvenlik hizmetlerinde kullanılabilecek her türlü malzemeyi kapsar.",
+     "dayanak": "Tahsis Yönetmeliği md. 3/1-a",
+     "kanit": "Araç ve gereç: Nakil vasıtaları ile silâha ait yedek parça ve bakım malzemeleri, dürbün, insansız hava aracı, gece görüş sistemleri, haberleşmeyi sağlayan ve haberleşmeyi engelleyen cihazlar gibi"
+    },
+    {
+     "alt_konu": "Tanımlar: araç ve gereç, kurumlar, mühimmat",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre \"mühimmat\" kavramı neleri kapsar?",
+     "cevap": "Ateşli silahlarda kullanılan fişek kovanı, falya, barut tozu, kurşun veya mermiler dahil cephanenin kendisi veya bunu meydana getiren unsurlar ile her türlü patlayıcı maddeyi kapsar.",
+     "dayanak": "Tahsis Yönetmeliği md. 3/1-d",
+     "kanit": "Mühimmat: Ateşli silâhlarda kullanılan fişek kovanı, falya, barut tozu, kurşun veya mermiler dâhil, cephanenin kendisi veya bunu meydana getiren unsurlar ile her türlü patlayıcı maddeyi,"
+    },
+    {
+     "alt_konu": "Eşyaya ilişkin işlemlerin süresi",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre tahsise konu olabilecek eşya hakkında kriminal inceleme, bilirkişi raporu veya durum tespiti gibi yargılama için gerekli işlemler ne kadar süre içinde yerine getirilir?",
+     "cevap": "Zorunlu hâller haricinde ele geçirme tarihinden itibaren 15 gün içinde yerine getirilir.",
+     "dayanak": "Tahsis Yönetmeliği md. 4/1",
+     "kanit": "yargılama için yapılması gerekli olduğu değerlendirilen işlemler, ele geçirme tarihinden itibaren, zorunlu haller haricinde, 15 gün içerisinde yerine getirilir."
+    },
+    {
+     "alt_konu": "Eşyaların listelenmesi ve tahsis taleplerinin iletilmesi",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre tahsise konu olabilecek eşyaya ilişkin güncel listeler hangi sıklıkla, kim tarafından ve kimlere bildirilir?",
+     "cevap": "Ayda bir, valilik kanalıyla il jandarma komutanlığınca garnizon komutanlığı, emniyet müdürlüğü ve sahil güvenlik komutanlığına bildirilir.",
+     "dayanak": "Tahsis Yönetmeliği md. 5/1",
+     "kanit": "güncel listeler ayda bir valilik kanalıyla il jandarma komutanlığınca; garnizon komutanlığı, emniyet müdürlüğü ve sahil güvenlik komutanlığına bildirilir."
+    },
+    {
+     "alt_konu": "Eşyaların listelenmesi ve tahsis taleplerinin iletilmesi",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre kurumlar tahsis taleplerini listelerin bildiriminden itibaren ne kadar süre içinde Komisyona iletir?",
+     "cevap": "Bildirim tarihini müteakip 3 iş günü içinde Komisyona iletir.",
+     "dayanak": "Tahsis Yönetmeliği md. 5/1",
+     "kanit": "Kurumlar tarafından tahsis talepleri bildirim tarihini müteakip 3 iş günü içerisinde Komisyona iletilir."
+    },
+    {
+     "alt_konu": "Eşyaların listelenmesi ve tahsis taleplerinin iletilmesi",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre bir seferde veya olayda çok sayıda eşya ele geçirilmesi ve kurumların bu eşyaya ihtiyaç duyması hâlinde yapılan tahsis talebi üzerine Komisyon ne kadar sürede toplanır?",
+     "cevap": "Listeler ivedilikle güncellenir ve talep Komisyona ulaştıktan sonra en geç 3 iş günü içinde Komisyon toplanıp karar verir (olağan taleplerde bu süre 5 iş günüdür).",
+     "dayanak": "Tahsis Yönetmeliği md. 5/2",
+     "kanit": "Bu kapsamda yapılan tahsis talebi Komisyona ulaştıktan sonra en geç 3 iş günü içinde Komisyon toplanır ve karar verir."
+    },
+    {
+     "alt_konu": "Tahsis komisyonu",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre tahsis komisyonu kimlerden oluşur?",
+     "cevap": "İl valisinin başkanlığında garnizon komutanı, emniyet müdürü, jandarma komutanı, sahil güvenlik komutanı ve sorumlu vali yardımcısından oluşur; Komisyonun sekretaryası il jandarma komutanlığınca yürütülür.",
+     "dayanak": "Tahsis Yönetmeliği md. 6/1",
+     "kanit": "İl valisinin başkanlığında, garnizon komutanı, emniyet müdürü, jandarma komutanı, sahil güvenlik komutanı ve sorumlu vali yardımcısından oluşan tahsis komisyonu kurulur. Komisyon sekretaryası il jandarma komutanlığınca yürütülür."
+    },
+    {
+     "alt_konu": "Tahsis komisyonu",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre güncel listede yer alan eşyaya ilişkin tahsis talepleri Komisyona ulaştıktan sonra Komisyon en geç ne kadar sürede toplanır?",
+     "cevap": "En geç 5 iş günü içinde toplanır ve karar verir; ihtiyaç hâlinde gecikmeksizin derhal toplanır.",
+     "dayanak": "Tahsis Yönetmeliği md. 6/3",
+     "kanit": "Listede yer alan eşyayla ilgili talepler Komisyona ulaştıktan sonra en geç 5 iş günü içinde Komisyon toplanır ve karar verir."
+    },
+    {
+     "alt_konu": "Valinin tahsis talebi",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre Komisyonun tahsisi için talepte bulunulmasını uygun bulduğu eşya hakkında tahsis talebi kim tarafından, kime ve hangi aracılıkla yapılır?",
+     "cevap": "İlgili Vali tarafından derhal hâkim veya mahkemeden, Cumhuriyet başsavcılığı aracılığıyla talep edilir.",
+     "dayanak": "Tahsis Yönetmeliği md. 7/1",
+     "kanit": "Komisyonun tahsisi için talepte bulunulmasını uygun bulduğu eşya hakkında ilgili Vali tarafından derhâl hâkim veya mahkemeden Cumhuriyet başsavcılığı aracılığıyla tahsis talebinde bulunulur."
+    },
+    {
+     "alt_konu": "Tahsis kararı ve itiraz",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre hâkim veya mahkemenin tahsis talebinin kabulü veya reddi kararlarına karşı kimler itiraz edebilir?",
+     "cevap": "Talepte bulunan Vali, Cumhuriyet savcısı ve dosyanın tarafları itiraz edebilir; itirazlar hakkında ivedilikle karar verilir.",
+     "dayanak": "Tahsis Yönetmeliği md. 8/2",
+     "kanit": "Hâkim veya mahkeme tarafından verilen tahsis talebinin kabulü veya reddi kararlarına karşı talepte bulunan Vali, Cumhuriyet savcısı ve dosyanın tarafları itiraz edebilir."
+    },
+    {
+     "alt_konu": "Tahsis kararının bildirilmesi ve listelerin gönderilmesi",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre hâkim veya mahkemece verilen tahsis kararları kim tarafından ve kimlere bildirilir?",
+     "cevap": "Valilik kanalıyla il jandarma komutanlığı tarafından, tahsis işleminin gerçekleştirilmesi için talepte bulunan kuruma ve Jandarma Genel Komutanlığına derhal bildirilir.",
+     "dayanak": "Tahsis Yönetmeliği md. 9/1",
+     "kanit": "tahsis kararları valilik kanalıyla il jandarma komutanlığı tarafından tahsis işleminin gerçekleştirilmesi için talepte bulunan kuruma ve Jandarma Genel Komutanlığına derhal bildirilir."
+    },
+    {
+     "alt_konu": "Tahsis kararının bildirilmesi ve listelerin gönderilmesi",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre tahsis edilen eşyalara ilişkin güncel listeler kim tarafından hazırlanır ve hangi sıklıkla ilgili makamlara gönderilir?",
+     "cevap": "Jandarma Genel Komutanlığı tarafından hazırlanır ve İçişleri Bakanlığınca üç ayda bir Başbakanlık, Adalet, Maliye ve Milli Savunma Bakanlıkları ile Emniyet Genel Müdürlüğü ve Sahil Güvenlik Komutanlığına gönderilir.",
+     "dayanak": "Tahsis Yönetmeliği md. 9/2",
+     "kanit": "Tahsis edilen eşyalara ilişkin güncel listeler Jandarma Genel Komutanlığı tarafından hazırlanarak İçişleri Bakanlığınca üç ayda bir"
+    },
+    {
+     "alt_konu": "İade veya müsadere kararı",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre tahsis edilen eşya hakkında soruşturma veya kovuşturma sonunda müsadere kararı verilmesi hâlinde eşya ne olur?",
+     "cevap": "Tahsis edilen eşya, tahsis edildiği kurumun malı olarak işlem görür.",
+     "dayanak": "Tahsis Yönetmeliği md. 10/2",
+     "kanit": "Müsadere kararı verilmesi halinde tahsis edilen eşya tahsis edilen kurumun malı olarak işlem görür."
+    },
+    {
+     "alt_konu": "Rayiç değerin tespiti ve bedelin ödenmesi",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre soruşturma veya kovuşturma sonunda iadesine karar verilen tahsisli eşyanın rayiç değeri hangi usule göre tespit edilir?",
+     "cevap": "İlgili kurumların tabi olduğu taşınır mal yönetmeliği hükümleri uyarınca eşyanın kurum envanterine kaydedilmesi sırasında izlenen usule göre tespit edilir.",
+     "dayanak": "Tahsis Yönetmeliği md. 11/1",
+     "kanit": "ilgili kurumların tabi olduğu taşınır mal yönetmeliği hükümleri uyarınca kurum envanterine kaydedilmesi sırasında izlenen usule göre rayiç değeri tespit edilir."
+    },
+    {
+     "alt_konu": "Rayiç değerin tespiti ve bedelin ödenmesi",
+     "soru": "Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre iadesine karar verilen tahsisli eşyanın bedeli eşya sahibine kim tarafından ve nereden ödenir?",
+     "cevap": "Tahsis yapılan kurum tarafından rayiç değer üzerinden belirlenen bedel, kurum bütçesinden karşılanarak eşya sahibine ödenir.",
+     "dayanak": "Tahsis Yönetmeliği md. 11/2",
+     "kanit": "Tahsis yapılan kurum tarafından rayiç değer üzerinden belirlenen bedel, kurum bütçesinden karşılanmak suretiyle eşya sahibine ödenir."
+    }
+   ]
+  },
+  {
+   "kaynak": "ck_2020-03350_ithalat_rejimi_karari.txt",
+   "konu": "İthalat Rejim Kararı",
+   "mevzuat": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı (RG 31.12.2020/31351 3. Mük.) md. 1-17",
+   "cikmis_sayisi": 4,
+   "cikmis": [
+    "2024-35: Ek mali yükümlülük gümrük yükümlülüğünün doğduğu tarihte gümrük idarelerince (vergi dairesince değil) tahsil edilir; şıklarda md. 10'un tüm fıkraları.",
+    "2025-44: Md. 4'teki ticaret politikası önlemleri: damping, gözetim, kota, tarife kontenjanı; ilave gümrük vergisi önlem sayılmaz.",
+    "2024-42: Gelişmiş ülkelerin gelişme yolundaki ve en az gelişmiş ülkelere tek taraflı tanıdığı tercihli rejim GTS'dir (Menşe konusu).",
+    "2022-35 (D şıkkı): II sayılı listedeki eşya V sayılı listede de yer alırsa düşük oran uygulanır (soru asıl olarak liste kapsamlarını ölçtü)."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Kararın dayanağı olan kanunlar",
+     "dayanak": "İthalat Rejimi Kararı (giriş)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yetki ve yetki devri",
+     "dayanak": "İthalat Rejimi Kararı md. 3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İthalatın yürütülmesi ve ticaret politikası önlemleri",
+     "dayanak": "İthalat Rejimi Kararı md. 4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-44"
+     ],
+     "not": "Ticaret politikası önlemlerinin kapsamı (ilave gümrük vergisi önlem değil) soruldu; ithalatın yürütüldüğü çerçeve ve ayırıcı işlem uygulayan ülkelere karşı önlemler sorulmadı."
+    },
+    {
+     "baslik": "İthalat yasak ve kısıtlamaları",
+     "dayanak": "İthalat Rejimi Kararı md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İthalatta kambiyo işlemleri",
+     "dayanak": "İthalat Rejimi Kararı md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Özel nitelikli eşya (eski, kullanılmış, yenileştirilmiş, defolu, yatık)",
+     "dayanak": "İthalat Rejimi Kararı md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İthalat işlemlerini yürütebilecek kişiler",
+     "dayanak": "İthalat Rejimi Kararı md. 8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük vergisi oranları ve listelerin uygulanması",
+     "dayanak": "İthalat Rejimi Kararı md. 9/1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-35"
+     ],
+     "not": "II ile V/VI sayılı listelerden düşük oranın uygulanması 2022-35 D şıkkında yer aldı; liste adları 10790 sayılı Karar başlığında değerlendirildi."
+    },
+    {
+     "baslik": "VII sayılı liste: nihai kullanım",
+     "dayanak": "İthalat Rejimi Kararı md. 9/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-31"
+     ],
+     "not": "VII sayılı listenin nihai kullanım tarım ürünleri olduğu soruldu; nihai kullanım şartı ve ek mali yükümlülük uygulanmaması sorulmadı."
+    },
+    {
+     "baslik": "Genelleştirilmiş Tercihler Sistemi (GTS) ve hariç sektörler",
+     "dayanak": "İthalat Rejimi Kararı md. 9/3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-42"
+     ],
+     "not": "GTS tanımı (tek taraflı tercihli rejim) soruldu; GTS tarifelerinin yeri ve hariç sektörlerde uygulanacak oran sorulmadı."
+    },
+    {
+     "baslik": "III sayılı liste: tarım payı ve ek mali yükümlülük",
+     "dayanak": "İthalat Rejimi Kararı md. 9/4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-35",
+      "2025-50"
+     ],
+     "not": "III sayılı listenin işlenmiş tarım ürünleri olduğu soruldu; T1/T2 işaretli eşyada tarım payı tespiti sorulmadı."
+    },
+    {
+     "baslik": "Telafi edici vergi hesaplaması",
+     "dayanak": "İthalat Rejimi Kararı md. 9/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ek mali yükümlülük",
+     "dayanak": "İthalat Rejimi Kararı md. 10",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2024-35"
+     ],
+     "not": "Maddenin tüm fıkraları 2024-35 şıklarında ölçüldü."
+    },
+    {
+     "baslik": "Yurtdışı müteahhitlik hizmetleri",
+     "dayanak": "İthalat Rejimi Kararı md. 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Fuar ve sergilerde ithalat",
+     "dayanak": "İthalat Rejimi Kararı md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kamu ithalatı",
+     "dayanak": "İthalat Rejimi Kararı md. 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Muafiyet",
+     "dayanak": "İthalat Rejimi Kararı md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "NATO kapsamında ithalat",
+     "dayanak": "İthalat Rejimi Kararı md. 15",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kesin ithalat",
+     "dayanak": "İthalat Rejimi Kararı md. 16",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yürürlükten kaldırılan mevzuat ve atıflar",
+     "dayanak": "İthalat Rejimi Kararı md. 17",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Kararın dayanağı olan kanunlar",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre İthalat Rejimi Kararı hangi kanunlar gereğince yürürlüğe konulmuştur?",
+     "cevap": "1567, 474, 3283, 4458 sayılı Gümrük Kanunu ve 2976 sayılı Kanun hükümleri gereğince yürürlüğe konulmuştur.",
+     "dayanak": "İthalat Rejimi Kararı (giriş)",
+     "kanit": "1567 sayılı Kanunun 1 inci, 474 sayılı Kanının 2 nci, 3283 sayılı Kanunun 2 nci 4458 sayılı kanunun 16 ncı, 22 nci ve 55 inci maddeleri ile 2976 sayılı Kanun hükümleri gereğince karar verilmiştir."
+    },
+    {
+     "alt_konu": "Yetki ve yetki devri",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre Karara ilişkin tebliğ çıkarmaya, izin ve talimat vermeye, ithalatın her aşamasında değişiklik yapmaya ve önlem almaya hangi makam yetkilidir?",
+     "cevap": "Ticaret Bakanlığı yetkilidir; ithal eşya fiyatlarının kontrolü ile özel ve zorunlu durumları inceleyip sonuçlandırma yetkisi de bu Bakanlığa aittir.",
+     "dayanak": "İthalat Rejimi Kararı md. 3/1",
+     "kanit": "Bu Kararda yer alan hususlara ilişkin tebliğler çıkarmaya, Karar metninde sözü edilen izinleri ve talimatları vermeye ... özel ve zorunlu durumları inceleyip sonuçlandırmaya Ticaret Bakanlığı (Bakanlık) yetkilidir."
+    },
+    {
+     "alt_konu": "Yetki ve yetki devri",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre ithalat izinlerinin verilmesi ve ithalata ilişkin önlem ve kısıtlamaların uygulanması yetkileri kimlere ve hangi araçla devredilebilir?",
+     "cevap": "Karara istinaden yayımlanacak tebliğ veya verilecek talimatla diğer kamu kurumları ve/veya ihracatçı birlikleri genel sekreterliklerine kısmen veya tamamen devredilebilir.",
+     "dayanak": "İthalat Rejimi Kararı md. 3/2",
+     "kanit": "bu Karara istinaden yayımlanacak Tebliğ veya verilecek talimatla, diğer kamu kurumları ve/veya ihracatçı birlikleri genel sekreterliklerine de kısmen veya tamamen devredilebilir."
+    },
+    {
+     "alt_konu": "İthalatın yürütülmesi ve ticaret politikası önlemleri",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre ithalat hangi düzenlemeler çerçevesinde yürütülür?",
+     "cevap": "Karar, Karara dayanılarak çıkarılacak tebliğler, ilgili kuruluşlara verilecek talimatlar ile ikili ve çok taraflı anlaşmalar hükümleri çerçevesinde yürütülür.",
+     "dayanak": "İthalat Rejimi Kararı md. 4/1",
+     "kanit": "İthalat, bu Karar ile bu Karara dayanılarak çıkarılacak tebliğler, ilgili kuruluşlara verilecek talimatlar, ikili ve çok taraflı anlaşmalar hükümleri çerçevesinde yürütülür."
+    },
+    {
+     "alt_konu": "İthalatın yürütülmesi ve ticaret politikası önlemleri",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre ticaret ve ödemeler dengemizi bozacak kayıtlar koyan veya ithalat rejimimizin genellik ilkesiyle bağdaşmayan ayırıcı işlemler uygulayan ülke, kuruluş ve firmalar hakkında ne yapılır?",
+     "cevap": "Taraf olunan uluslararası anlaşmalar çerçevesinde uygun görülecek gerekli önlemler alınır.",
+     "dayanak": "İthalat Rejimi Kararı md. 4/2",
+     "kanit": "ayırıcı işlemler uygulayan ülkeler, kuruluşlar ve firmalar hakkında taraf olunan uluslararası anlaşmalar çerçevesinde uygun görülecek gerekli önlemler alınır."
+    },
+    {
+     "alt_konu": "İthalat yasak ve kısıtlamaları",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre eşyanın ithalinin serbest olması hangi amaçlarla alınan önlemlerin kapsamı dışında kalmasına bağlıdır?",
+     "cevap": "Kamu ahlakı, kamu düzeni veya kamu güvenliği; insan, hayvan ve bitki sağlığının korunması ile sınai ve ticari mülkiyetin korunması amaçlarıyla alınan önlemlerin kapsamı dışındaki eşyanın ithali serbesttir.",
+     "dayanak": "İthalat Rejimi Kararı md. 5/1",
+     "kanit": "Kamu ahlakı, kamu düzeni veya kamu güvenliği; insan, hayvan ve bitki sağlığının korunması, sınai ve ticari mülkiyetin korunması amaçlarıyla ilgili mevzuat hükümleri çerçevesinde alınan önlemlerin kapsamı dışındaki eşyanın ithali serbesttir."
+    },
+    {
+     "alt_konu": "İthalat yasak ve kısıtlamaları",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre ithalatı kanunlarla belirli kurum ve kuruluşlara bırakılmış eşyanın ithali kimler tarafından yapılabilir?",
+     "cevap": "Yalnızca bu kurum ve kuruluşlar ile bunlar tarafından yetkilendirilenler tarafından yapılabilir.",
+     "dayanak": "İthalat Rejimi Kararı md. 5/2",
+     "kanit": "İthalatı kanunlarla belirli kurum ve kuruluşlara bırakılmış eşya ithali ancak, bu kurum ve kuruluşlar tarafından veya bu kurum ve kuruluşlar tarafından yetkilendirilenler tarafından yapılabilir."
+    },
+    {
+     "alt_konu": "İthalatta kambiyo işlemleri",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre ithalat bedellerinin ödenmesi hangi mevzuata tabidir?",
+     "cevap": "Kambiyo mevzuatı hükümlerine tabidir.",
+     "dayanak": "İthalat Rejimi Kararı md. 6",
+     "kanit": "İthalat bedellerinin ödenmesi, kambiyo mevzuatı hükümlerine tabidir."
+    },
+    {
+     "alt_konu": "Özel nitelikli eşya (eski, kullanılmış, yenileştirilmiş, defolu, yatık)",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre eski, kullanılmış, yenileştirilmiş, kusurlu (defolu) ve yatık eşyanın ithali hangi şarta bağlıdır?",
+     "cevap": "Bu eşyanın ithali izne tabidir; yatık eşya, zamanla dayanıklılığını yitirmiş eşyadır.",
+     "dayanak": "İthalat Rejimi Kararı md. 7",
+     "kanit": "Eski, kullanılmış, yenileştirilmiş, kusurlu (defolu) ve yatık (zamanla dayanıklılığını yitirmiş) eşyanın ithali izne tabidir."
+    },
+    {
+     "alt_konu": "İthalat işlemlerini yürütebilecek kişiler",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre ithalat işlemlerini kimler yürütebilir?",
+     "cevap": "Vergi Usul Kanunu uyarınca vergi kimlik numarası verilen her gerçek ve tüzel kişi ile tüzel kişiliği olmamakla birlikte mevzuata göre hukuki tasarruf yetkisi tanınan kişi ortaklıkları yürütebilir.",
+     "dayanak": "İthalat Rejimi Kararı md. 8/1",
+     "kanit": "vergi kimlik numarası verilen her gerçek ve tüzel kişi ile tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat hükümlerine istinaden hukuki tasarruf yapma yetkisi tanınan kişi ortaklıkları ithalat işlemlerini yürütebilir."
+    },
+    {
+     "alt_konu": "İthalat işlemlerini yürütebilecek kişiler",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre hangi ithalatlarda vergi kimlik numarasına sahip olma şartı aranmaz?",
+     "cevap": "Özel anlaşmalara dayanan ithalatta, kitap ve diğer yayınların ithalatında ve ülkemizde açılan uluslararası fuar ve sergilerde Bakanlıkça perakende satışına izin verilen eşyanın ithalatında aranmaz.",
+     "dayanak": "İthalat Rejimi Kararı md. 8/2",
+     "kanit": "Özel anlaşmalara dayanan ithalatta, ... Kitap ve diğer yayınların ithalatında, ... perakende satışına izin verilen eşyanın ithalatında, vergi kimlik numarasına sahip olma şartı aranmaz."
+    },
+    {
+     "alt_konu": "İthalat işlemlerini yürütebilecek kişiler",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre ithalat yapmak isteyen kişiler, almaları gereken belgelerle birlikte nereye başvururlar?",
+     "cevap": "Kambiyo mevzuatı hükümleri saklı kalmak kaydıyla, almaları gereken belgeler veya bu belgeler yerine geçen bilgilerle birlikte doğrudan gümrük idarelerine başvururlar.",
+     "dayanak": "İthalat Rejimi Kararı md. 8/4",
+     "kanit": "ithalat yapmak isteyen kişiler, ilgili mevzuat hükümleri çerçevesinde almaları gereken belgeler veya bu belgeler yerine geçen bilgilerle birlikte doğrudan gümrük idarelerine başvururlar."
+    },
+    {
+     "alt_konu": "VII sayılı liste: nihai kullanım",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre VII sayılı listede yer alan eşyanın listede gösterilen indirimli oranda gümrük vergisine tabi olması hangi şarta bağlıdır ve bu durumda eşya hangi hükümlere tabi olur?",
+     "cevap": "Eşyanın \"Üretimi Gerçekleştirilecek Nihai Ürün\" sütununda karşısında gösterilen ürünlerin imalinde kullanılmak kaydıyla ithal edilmesi gerekir; bu hâlde eşya gümrük mevzuatının nihai kullanıma ilişkin hükümlerine tabidir.",
+     "dayanak": "İthalat Rejimi Kararı md. 9/2",
+     "kanit": "ürünlerin imalinde kullanılmak kaydıyla ithal edilmesi halinde karşısında gösterilen oranda gümrük vergisi uygulanır ve bu halde gümrük mevzuatının nihai kullanıma ilişkin hükümlerine tabidir."
+    },
+    {
+     "alt_konu": "VII sayılı liste: nihai kullanım",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre VII sayılı liste kapsamında nihai kullanım şartıyla ithal edilen eşyaya ek mali yükümlülük uygulanır mı?",
+     "cevap": "Hayır; bu kapsamdaki eşyaya ek mali yükümlülük uygulanmaz.",
+     "dayanak": "İthalat Rejimi Kararı md. 9/2",
+     "kanit": "gümrük mevzuatının nihai kullanıma ilişkin hükümlerine tabidir. Bu fıkra kapsamı eşyaya ek mali yükümlülük uygulanmaz."
+    },
+    {
+     "alt_konu": "Genelleştirilmiş Tercihler Sistemi (GTS) ve hariç sektörler",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre gelişme yolundaki ülkeler, özel teşvik düzenlemesinden yararlanacak ülkeler ve en az gelişmiş ülkelere yönelik Türkiye'nin tek taraflı tercihli tarifeleri nerede düzenlenmiştir?",
+     "cevap": "II sayılı listenin \"GTS Ülkeleri\" (Genelleştirilmiş Tercihler Sistemi Ülkeleri) bölümünde yer alan sütunlarda düzenlenmiştir; bu ülkeler EK-1'de yer alır.",
+     "dayanak": "İthalat Rejimi Kararı md. 9/3",
+     "kanit": "Türkiye'nin tek taraflı tercihli tarifeleri II sayılı listenin \"GTS Ülkeleri\" (Genelleştirilmiş Tercihler Sistemi Ülkeleri) bölümünde yer alan sütunlarda düzenlenmiştir."
+    },
+    {
+     "alt_konu": "Genelleştirilmiş Tercihler Sistemi (GTS) ve hariç sektörler",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre GTS'den yararlanacak ülkelerden \"Hariç Sektörler\" kapsamındaki eşyanın ithalatında hangi gümrük vergisi oranı uygulanır?",
+     "cevap": "Bu ülkeler için II sayılı listenin \"D.Ü.\" (Diğer Ülkeler) sütunu ile V ve VI sayılı listelerde belirtilen gümrük vergisi oranlarından daha düşük olanı uygulanır.",
+     "dayanak": "İthalat Rejimi Kararı md. 9/3",
+     "kanit": "kapsamında yer alan eşyadan yapılacak ithalatta, bu ülkeler için II sayılı listenin \"D.Ü.\" (Diğer Ülkeler) sütunu, V ve VI sayılı listede belirtilen gümrük vergisi oranlarından daha düşük olanı uygulanır."
+    },
+    {
+     "alt_konu": "III sayılı liste: tarım payı ve ek mali yükümlülük",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre III sayılı liste kapsamında karşısında (T1) veya (T2) işareti bulunan eşya için ek mali yükümlülük nasıl belirlenir?",
+     "cevap": "Eşya için yapılan tahlil sonuçlarına göre Tablo 1 (Bileşim Tablosu) kullanılarak kod numarası tespit edilir; bu koda Tablo 2'de (Tarım Payı Tablosu) tekabül eden ek mali yükümlülük tahsil edilir.",
+     "dayanak": "İthalat Rejimi Kararı md. 9/4",
+     "kanit": "söz konusu eşya için yapılan tahlil sonuçlarına göre Tablo 1 (Bileşim Tablosu) kullanılarak tespit edilen kod numarasına Tablo 2'de (Tarım Payı Tablosu) tekabül eden ek mali yükümlülük tahsil edilir."
+    },
+    {
+     "alt_konu": "Telafi edici vergi hesaplaması",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre serbest bölgelere veya antrepoya alınan ya da dahilde işleme rejimi kapsamında ithal edilen eşyanın işlem görmüş ürün olarak Avrupa Birliğine ihracında telafi edici vergi hangi oran esas alınarak hesaplanır?",
+     "cevap": "İthalat rejimi kapsamında ithal ülke ve eşyasına uygulanan ithalat vergisi oranı ile AB Ortak Gümrük Tarifesindeki en düşük gümrük vergisi oranı karşılaştırılır ve daha düşük olan oran uygulanır.",
+     "dayanak": "İthalat Rejimi Kararı md. 9/5",
+     "kanit": "İthalat Rejimi Kapsamında uygulanan ithalat vergisi oranı ile Avrupa Birliği Ortak Gümrük Tarifesinde uygulanan en düşük gümrük vergisi oranı karşılaştırılır ve daha düşük olan vergi oranı tatbik edilir."
+    },
+    {
+     "alt_konu": "Yurtdışı müteahhitlik hizmetleri",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre Türk müteahhitlik firmalarının yurt dışında üstlendikleri işlerle ilgili olarak satın aldıkları makine ve teçhizatın Türkiye'ye kesin ve geçici ithali hangi şarta bağlıdır?",
+     "cevap": "Kesin ve geçici ithali ile bunlara ilişkin süre uzatımları Ticaret Bakanlığının iznine bağlıdır.",
+     "dayanak": "İthalat Rejimi Kararı md. 11",
+     "kanit": "satın aldıkları makina ve teçhizatın Türkiye'ye kesin ve geçici ithali ile bunlara ilişkin süre uzatımları Bakanlığın iznine bağlıdır."
+    },
+    {
+     "alt_konu": "Fuar ve sergilerde ithalat",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre ülkemizde açılan uluslararası fuar ve sergilerin ithalatla ilgili işlemlerinin düzenlenmesine ve yürütülmesine hangi makam yetkilidir?",
+     "cevap": "Ticaret Bakanlığı yetkilidir.",
+     "dayanak": "İthalat Rejimi Kararı md. 12",
+     "kanit": "Ülkemizde açılan uluslararası fuar ve sergilerin ithalatla ilgili işlemlerinin düzenlenmesine ve yürütülmesine Bakanlık yetkilidir."
+    },
+    {
+     "alt_konu": "Kamu ithalatı",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre Kamu İhale Kanununda sayılan kamu kurum ve kuruluşlarınca serbest dolaşıma giriş rejimi kapsamında yapılacak ithalatta gümrük beyannamesinin tescili hangi şarta bağlıdır?",
+     "cevap": "Gümrük beyannamesinin tescilinde Ticaret Bakanlığının izni aranır.",
+     "dayanak": "İthalat Rejimi Kararı md. 13/1",
+     "kanit": "tarafından serbest dolaşıma giriş rejimi kapsamında yapılacak ithalata ilişkin gümrük beyannamesinin tescilinde Bakanlığın izni aranır."
+    },
+    {
+     "alt_konu": "Kamu ithalatı",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre kamu ithalatı için verilen Bakanlık izni, diğer mevzuata göre alınması gereken izin ve belgelerin yerine geçer mi?",
+     "cevap": "Hayır; ilgili mevzuattan kaynaklanan yükümlülükler ve istisnai hükümler saklı kalmak kaydıyla, bu izinler diğer mevzuata göre alınması gereken izin ve belgelerin yerine geçmez.",
+     "dayanak": "İthalat Rejimi Kararı md. 13/2",
+     "kanit": "birinci fıkra kapsamında verilen izinler, diğer mevzuata göre alınması gereken izin ve belgelerin yerine geçmez."
+    },
+    {
+     "alt_konu": "Muafiyet",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre Milli Savunma Bakanlığı veya adına ithalat yapacak kamu kurum ve kuruluşları ithalatta hangi yükümlülüklerden muaftır?",
+     "cevap": "İthalatta alınan gümrük vergisi, ek mali yükümlülük ve harçlardan muaftır.",
+     "dayanak": "İthalat Rejimi Kararı md. 14/2",
+     "kanit": "Milli Savunma Bakanlığı veya adına ithalat yapacak olan kamu kurum ve kuruluşları ithalatta alınan gümrük vergisi, ek mali yükümlülük ve harçlardan muaftır."
+    },
+    {
+     "alt_konu": "Muafiyet",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre müzelerde sergilenmek üzere ithal edilecek eşya hangi şartla ve hangi yükümlülüklerden muaftır?",
+     "cevap": "Kültür ve Turizm Bakanlığınca belirlenen usul ve esaslar dahilinde özel veya kamuya ait müzelerde sergilenmek üzere ithal edilecek her türlü eşya gümrük vergisi, harç ve ek mali yükümlülüklerden muaftır; özel müzeler de kapsamdadır.",
+     "dayanak": "İthalat Rejimi Kararı md. 14/3",
+     "kanit": "Kültür ve Turizm Bakanlığınca belirlenen usul ve esaslar dâhilinde özel veya kamuya ait müzelerde sergilenmek üzere ithal edilecek her türlü eşya, gümrük vergisi, harç ve ek mali yükümlülüklerden muaftır."
+    },
+    {
+     "alt_konu": "NATO kapsamında ithalat",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre NATO kapsamında yapılacak ithalat için gümrük idarelerine hangi belge ile başvurulur?",
+     "cevap": "İlgili kamu kurum ve kuruluşlarınca onaylanmış üç nüsha \"Müracaat Mektubu\" ile başvurulur.",
+     "dayanak": "İthalat Rejimi Kararı md. 15/1-a",
+     "kanit": "NATO ithalatı için ilgili kamu kurum ve kuruluşlarınca onaylanmış üç nüsha \"Müracaat Mektubu\" ile gümrük idarelerine başvurulur."
+    },
+    {
+     "alt_konu": "NATO kapsamında ithalat",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre NATO ortak alt yapı projelerinin sona ermesinden sonra mal, eşya, malzeme ve araçların ithalatçılarına bırakılması hangi şartlara bağlıdır?",
+     "cevap": "İlgili merciin görüşü alınarak her türlü mali yükümlülüğün ödenmesi kaydıyla Ticaret Bakanlığının iznine tabidir.",
+     "dayanak": "İthalat Rejimi Kararı md. 15/1-b",
+     "kanit": "NATO ortak alt yapı projelerinin sona ermesinden sonra, ilgili merciin görüşü alınarak her türlü mali yükümlülüklerin ödenmesi kaydıyla mal, eşya, malzeme ve araçların ithalatçılarına bırakılması Bakanlığın iznine tabidir."
+    },
+    {
+     "alt_konu": "Kesin ithalat",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre mali mükellefiyetleri teminata bağlanarak geçici olarak yurda giren eşyanın (ATA Karnesi kapsamında gelenler dahil) kesin ithali nasıl ve kim tarafından sonuçlandırılır?",
+     "cevap": "Kesin ithalin talep edildiği tarihte yeni ve kullanılmamış eşyanın bedelleri ödenmek suretiyle, kısıtlayıcı hükümler saklı kalmak kaydıyla gümrük idarelerince sonuçlandırılır.",
+     "dayanak": "İthalat Rejimi Kararı md. 16",
+     "kanit": "kesin ithalinin talep edildiği tarihte yeni ve kullanılmamış eşyanın bedelleri ödenmek suretiyle kesin ithali (kısıtlayıcı hükümler saklı kalmak kaydıyla), gümrük idarelerince sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Yürürlükten kaldırılan mevzuat ve atıflar",
+     "soru": "3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına göre ilgili mevzuatta 95/7606 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan eski İthalat Rejimi Kararına yapılan atıflar nasıl değerlendirilir?",
+     "cevap": "Eski Karar, eki listeler ve ekleriyle birlikte yürürlükten kaldırılmış olup ona yapılan atıflar 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararına yapılmış sayılır.",
+     "dayanak": "İthalat Rejimi Kararı md. 17",
+     "kanit": "İlgili mevzuatta İthalat Rejimi Kararı'na dair 95/7606 sayılı Bakanlar Kurulu Kararına yapılan atıflar bu Karara yapılmış sayılır."
+    }
+   ]
+  },
+  {
+   "kaynak": "ck_2025-10790_ithalat_rejimi_kararinda_degisiklik_yapilmasina_iliskin_karar.txt",
+   "konu": "İthalat Rejim Kararı – 2026 ek listeleri",
+   "mevzuat": "10790 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karar (RG 31.12.2025/33124 3. Mük.) md. 1-2, geçici md. 1-2, ek kısaltmalar ve liste başlıkları/dipnotları",
+   "cikmis_sayisi": 3,
+   "cikmis": [
+    "2022-35: I sayılı liste tarım ürünleridir; balık ve su ürünleri IV sayılı listededir (I = balık yanlış).",
+    "2024-31: VI sayılı liste sivil hava taşıtı ürünleri; nihai kullanımlı tarım ürünleri VII sayılı listededir.",
+    "2025-50: III sayılı liste işlenmiş tarım ürünleridir (sanayi değil); VI sayılı liste nihai kullanımlı sivil hava taşıtı ürünleridir."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Değişikliğin niteliği: kısaltma, liste ve eklerin yenilenmesi",
+     "dayanak": "2025/10790 CK md. 1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçiş: ek mali yükümlülük ihdas edilen veya vergisi artırılan eşya",
+     "dayanak": "2025/10790 CK Geçici md. 1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçiş: Pan-Avrupa-Akdeniz menşeli eşyada II sayılı liste ek mali yükümlülüğü",
+     "dayanak": "2025/10790 CK Geçici md. 2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ek listelerin kapsamı ve fasıl ayrımları",
+     "dayanak": "2025/10790 CK eki liste başlıkları",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-35",
+      "2024-31",
+      "2025-50"
+     ],
+     "not": "Liste-kapsam eşleştirmeleri (I tarım, II sanayi, III işlenmiş tarım, IV balıkçılık, V askıya alınan, VI sivil hava, VII nihai kullanım tarım) soruldu; II sayılı listenin tarım/sanayi fasıl ayrımı ve IV sayılı listenin fasılları sorulmadı."
+    },
+    {
+     "baslik": "Kısaltmalar: ülke grupları",
+     "dayanak": "2025/10790 CK eki Kısaltmalar",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "II sayılı liste (25-97. fasıllar) sütun başlıkları",
+     "dayanak": "2025/10790 CK eki II sayılı liste sütun başlıkları",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "VI sayılı liste: sivil hava taşıtlarında nihai kullanım",
+     "dayanak": "2025/10790 CK eki VI sayılı liste dipnotu",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-31",
+      "2025-50"
+     ],
+     "not": "VI sayılı listenin sivil hava taşıtı ürünleri olduğu soruldu; %0 oran ve nihai kullanım şartı sorulmadı."
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Değişikliğin niteliği: kısaltma, liste ve eklerin yenilenmesi",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karara göre İthalat Rejimi Kararının ekinde yer alan kısaltmalar, listeler ve ekler hakkında nasıl bir düzenleme yapılmıştır?",
+     "cevap": "Mevcut kısaltmalar, listeler ve ekler değişiklikleriyle birlikte yürürlükten kaldırılmış, yerlerine Karar ekinde yer alan yeni kısaltmalar, listeler ve ekler ilave edilmiştir; düzenleme 1/1/2026 tarihinde yürürlüğe girmiştir.",
+     "dayanak": "2025/10790 CK md. 1-2",
+     "kanit": "İthalat Rejimi Kararının ekinde yer alan kısaltmalar, listeler ve ekler değişiklikleri ile birlikte yürürlükten kaldırılmış, aynı Karara ekte yer alan kısaltmalar, listeler ve ekler ilave edilmiştir."
+    },
+    {
+     "alt_konu": "Geçiş: ek mali yükümlülük ihdas edilen veya vergisi artırılan eşya",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karara göre 1/1/2026 itibarıyla ek mali yükümlülük ihdas edilen ya da gümrük vergisi ve/veya ek mali yükümlülüğü artırılan eşyada önceki oranların uygulanabilmesi için gümrük beyannamesinin hangi tarihe kadar tescil edilmesi gerekir?",
+     "cevap": "31/1/2026 tarihine kadar (bu tarih dahil) tescil edilmesi hâlinde 1/1/2026 tarihinden önceki gümrük vergisi ve/veya ek mali yükümlülük uygulanır.",
+     "dayanak": "2025/10790 CK Geçici md. 1",
+     "kanit": "ilişkin gümrük beyannamesinin 31/1/2026 tarihine kadar (bu tarih dâhil) tescil edilmesi hâlinde 1/1/2026 tarihinden önceki gümrük vergisi ve/veya ek mali yükümlülük uygulanır."
+    },
+    {
+     "alt_konu": "Geçiş: Pan-Avrupa-Akdeniz menşeli eşyada II sayılı liste ek mali yükümlülüğü",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karara göre A.TR dolaşım belgesi eşliğinde ithal edilen ve Pan-Avrupa-Akdeniz Bölgesel Konvansiyonuna taraf ülkeler menşeli olarak beyan edilen eşyadan II sayılı listede belirtilen ek mali yükümlülük hangi tarihe kadar ve hangi şartla alınmaz?",
+     "cevap": "Yapılan beyanın aksine bir bilgi veya belge olmadığı sürece, tercihli menşein ayrıca tevsiki şartı aranmaksızın 31/3/2026 tarihine kadar (bu tarih dahil) alınmaz.",
+     "dayanak": "2025/10790 CK Geçici md. 2",
+     "kanit": "yapılan beyanın aksine bir bilgi ya da belge olmadığı sürece, ayrıca eşyanın tercihli menşeinin tevsiki şartı aranmaksızın 31/3/2026 tarihine kadar (bu tarih dâhil) 3350 sayılı Kararın eki II sayılı listede belirtilen ek mali yükümlülük alınmaz."
+    },
+    {
+     "alt_konu": "Ek listelerin kapsamı ve fasıl ayrımları",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yenilenen İthalat Rejimi Kararı eki listelere göre II sayılı liste hangi ürün gruplarını ve fasılları kapsar?",
+     "cevap": "II sayılı liste iki bölümden oluşur: 4, 5, 9, 13, 14, 15, 17, 18, 19, 20, 21, 22 ve 24. fasıllardaki tarım ürünleri ile 25-97. fasıllardaki sanayi ürünleri.",
+     "dayanak": "2025/10790 CK eki liste başlıkları",
+     "kanit": "II Sayılı Liste Tarım Ürünleri (4,5,9,13,14,15,17,18,19,20,21,22 ve 24. Fasıllar) ... II Sayılı Liste Sanayi Ürünleri (25-97. Fasıllar)"
+    },
+    {
+     "alt_konu": "Ek listelerin kapsamı ve fasıl ayrımları",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yenilenen İthalat Rejimi Kararı eki listelere göre IV sayılı liste hangi fasıllardaki ürünleri kapsar?",
+     "cevap": "2, 3, 15, 16 ve 23. fasıllardaki balıkçılık ve su ürünlerini kapsar.",
+     "dayanak": "2025/10790 CK eki liste başlıkları",
+     "kanit": "IV Sayılı Liste Balıkçılık ve Su Ürünleri (2,3,15, 16 ve 23. Fasıllar)"
+    },
+    {
+     "alt_konu": "Kısaltmalar: ülke grupları",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yenilenen İthalat Rejimi Kararı eki listelere göre \"EFTA\" kısaltması hangi ülkeleri ifade eder?",
+     "cevap": "İzlanda, Lihtenştayn, Norveç ve İsviçre'yi ifade eder.",
+     "dayanak": "2025/10790 CK eki Kısaltmalar",
+     "kanit": "EFTA Üyesi Ülkeler (İzlanda, Lihtenştayn, Norveç, İsviçre)"
+    },
+    {
+     "alt_konu": "Kısaltmalar: ülke grupları",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yenilenen İthalat Rejimi Kararı eki listelere göre \"D-8\" kısaltması kapsamında hangi ülke hariç tutulmuştur?",
+     "cevap": "Mısır Arap Cumhuriyeti hariç tutulmuştur; kapsamda Bangladeş, Endonezya, İran, Malezya, Nijerya ve Pakistan yer alır.",
+     "dayanak": "2025/10790 CK eki Kısaltmalar",
+     "kanit": "Gelişen Sekiz Ülke (Mısır Arap Cumhuriyeti hariç olmak üzere Bangladeş Halk Cumhuriyeti, Endonezya Cumhuriyeti, İran İslam Cumhuriyeti, Malezya, Nijerya Federal Cumhuriyeti ve Pakistan İslam Cumhuriyeti)"
+    },
+    {
+     "alt_konu": "Kısaltmalar: ülke grupları",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yenilenen İthalat Rejimi Kararı eki listelere göre \"TPS-OIC\" kısaltması neyi ifade eder?",
+     "cevap": "İslam Konferansı Teşkilatı Üyesi Devletler Arasında Tercihli Ticaret Sistemi Çerçeve Anlaşması ve Tercihli Tarife Düzenlemesi Protokolü (PRETAS) kapsamındaki ülkeleri ifade eder.",
+     "dayanak": "2025/10790 CK eki Kısaltmalar",
+     "kanit": "İslam Konferansı Teşkilatı Üyesi Devletler Arasında Tercihli Ticaret Sistemi Çerçeve Anlaşması ve Tercihli Tarife Düzenlemesi Protokolü (PRETAS) kapsamındaki ülkeler"
+    },
+    {
+     "alt_konu": "II sayılı liste (25-97. fasıllar) sütun başlıkları",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yenilenen İthalat Rejimi Kararı eki listelere göre II sayılı listenin (25-97. fasıllar) \"1\" numaralı sütunu hangi ülkeleri kapsar?",
+     "cevap": "AB üyesi ülkeler, EFTA üyesi ülkeler ve Arnavutluk, Birleşik Krallık, Bosna-Hersek, Gürcistan, Güney Kore, İsrail, Malezya, Mısır, Singapur, Şili, Tunus gibi serbest ticaret anlaşması ülkelerini kapsar; Katar ve Birleşik Arap Emirlikleri ayrı sütunlarda gösterilir.",
+     "dayanak": "2025/10790 CK eki II sayılı liste sütun başlıkları",
+     "kanit": "AB Üyesi Ülkeler, EFTA Üyesi Ülkeler, Serbest Ticaret Anlaşması Ülkeleri: Arnavutluk,"
+    },
+    {
+     "alt_konu": "VI sayılı liste: sivil hava taşıtlarında nihai kullanım",
+     "soru": "10790 sayılı Cumhurbaşkanı Kararı ile yenilenen İthalat Rejimi Kararı eki listelere göre VI sayılı listede yer alan ürünlerin ithalatında hangi şartla ve hangi oranda gümrük vergisi uygulanır?",
+     "cevap": "Yalnızca Eşya Tanımı sütununda tanımlanan ürünler için sivil hava taşıtlarında kullanılmak kaydıyla yapılan ithalatta gümrük vergisi %0 uygulanır ve bu hâlde gümrük mevzuatının nihai kullanıma ilişkin hükümleri tatbik edilir.",
+     "dayanak": "2025/10790 CK eki VI sayılı liste dipnotu",
+     "kanit": "Bu listede yer alan G.T.P'lerde sadece Eşya Tanımı sütununda tanımlanan ürünler için sivil hava taşıtlarında kullanılmak kaydıyla yapılan ithalatta, gümrük vergisi %0 olarak uygulanır"
+    }
+   ]
+  }
+ ]
+}

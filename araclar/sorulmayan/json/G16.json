@@ -1,0 +1,1382 @@
+{
+ "grup": "G16",
+ "dosyalar": [
+  {
+   "kaynak": "43-tasfiye.txt",
+   "konu": "Tasfiye",
+   "mevzuat": "GK md. 177-180; Tasfiye Yönetmeliği (25.06.2013 tarihli ve 28688 sayılı R.G.) md. 1-69/A",
+   "cikmis_sayisi": 6,
+   "cikmis": [
+    "2021-34: Beyanname verilmişse tasfiye edilen eşyanın satış bedelinden alınacak vergi tescil tarihindeki orana göre belirlenir.",
+    "2021-56: Tasfiye yöntemleri ihale, yeniden ihraç amaçlı satış, perakende satış ve imhadır; mutat elleçleme yöntem değildir.",
+    "2021-60: İhale ile tasfiye edilecek eşya için ihale ilanı yayımlanana kadar rejim veya yeniden ihraç talep edilebilir.",
+    "2021-62: Taşıtlardaki satılamaz, haciz, rehin gibi şerhler tasfiye kararının alındığı tarihten itibaren kalkmış sayılır.",
+    "2021-63: Tasfiyelik eşya halleri; antrepoda tescilden sonra otuz (on değil) gün içinde işlemi bitmeyen eşya.",
+    "2024-96: Tasfiye yöntemleri (tahsis, yeniden ihraç amaçlı satış, perakende, ihale, imha); sergi-fuarda kullanma yöntem değildir."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Kanuna göre tasfiyelik hale gelen eşya",
+     "dayanak": "GK md. 177/1",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-63"
+     ],
+     "not": "Sorulan: yolcu ambarında bekleme süresi dolan eşya, tahlilden arta kalan numune (bir ay), antrepoda tescilden sonra otuz gün, sayım fazlası, gümrüğe terk. Sorulmayan: çabuk bozulan/masraflı eşyanın bekleme süresine bakılmaksızın tasfiyesi, verilen sürede işlem başlatılmayan eşya vb."
+    },
+    {
+     "baslik": "Kaçakçılık Kanunu kapsamında tasfiyelik eşya",
+     "dayanak": "GK md. 177/2; Tasfiye Yön. md. 14/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tasfiye edilecek eşyanın bulunmaması",
+     "dayanak": "GK md. 177/3; Tasfiye Yön. md. 66",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tespit ve tahakkuk belgelerinin intikali ve eşyanın teslim alınması",
+     "dayanak": "GK md. 177/4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tasfiye yolları ve tasfiye yönteminin belirlenmesi",
+     "dayanak": "GK md. 178; Tasfiye Yön. md. 32",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-56",
+      "2024-96"
+     ],
+     "not": "Tasfiye yöntemleri listesi sorulmuş. Sorulmayan: özel yolla tasfiye, tasfiye idaresinin sağlık önlemleri yükümlülüğü, tasfiye yolunun on beş gün içinde komisyonca belirlenmesi."
+    },
+    {
+     "baslik": "Tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya yeniden ihracı",
+     "dayanak": "GK md. 179; Tasfiye Yön. md. 57",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-60"
+     ],
+     "not": "İhale ilanının yayımlandığı tarihe kadar başvuru sorulmuş. Sorulmayan: perakende satış kararı tarihi, %1/%3/%10 oranları, hükmün uygulanmadığı eşya, hak sahibi, kısmi talep yasağı, on ve otuz günlük süreler, serbest bölge adresli eşya."
+    },
+    {
+     "baslik": "Satış bedelinin dağıtımı ve artan paranın emanete alınması",
+     "dayanak": "GK md. 180/1; Tasfiye Yön. md. 64/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kaçak eşya ve taşıtların satış bedelleri",
+     "dayanak": "GK md. 180/2; Tasfiye Yön. md. 64/4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Satış bedelinden alınacak vergilerde esas alınacak tarih",
+     "dayanak": "GK md. 180/3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-34"
+     ],
+     "not": "Beyanname verilmiş eşyada tescil tarihi sorulmuş. Sorulmayan: kaçak eşyada tespit tutanağı tarihi ve tarihlerin bilinmemesi halinde tespit ve tahakkuk belgesi tarihi."
+    },
+    {
+     "baslik": "Şerhli taşıtların tasfiyesi",
+     "dayanak": "GK md. 180/4; Tasfiye Yön. md. 64/8",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-62"
+     ],
+     "not": "Şerhlerin tasfiye kararı tarihinden itibaren kalkmış sayılması sorulmuş. Sorulmayan: iade kararında şerhe konu bedelin önce ilgilisine ödenmesi."
+    },
+    {
+     "baslik": "Tasfiyede Devlet İhale Kanununun uygulanmaması",
+     "dayanak": "GK md. 180/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Emanetteki tutarların iadesi için başvuru süresi",
+     "dayanak": "GK md. 180/6; Tasfiye Yön. md. 64/9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tasfiye Yönetmeliğindeki tanımlar",
+     "dayanak": "Tasfiye Yön. md. 3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Gümrüklenmiş değer kavramı 2025-37'de (5607 bağlamında) ölçüldüğünden bu tanım için soru üretilmedi."
+    },
+    {
+     "baslik": "Kaçak eşyanın ambara alınması ve iade kararlarının tasfiyeye etkisi",
+     "dayanak": "Tasfiye Yön. md. 10, 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tasfiye ambarına alınmadan tasfiye edilecek eşya",
+     "dayanak": "Tasfiye Yön. md. 15/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tasfiye listesi ve tespit ve tahakkuk belgesinin düzenlenme süreleri",
+     "dayanak": "Tasfiye Yön. md. 30",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tasfiyelik eşyanın bedelinin tespiti",
+     "dayanak": "Tasfiye Yön. md. 31",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhaleye hazırlık ve satış ilanları",
+     "dayanak": "Tasfiye Yön. md. 33-34",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhaleye katılım teminatı",
+     "dayanak": "Tasfiye Yön. md. 35",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Açık artırma kuralları ve tekliflerin değerlendirilmesi",
+     "dayanak": "Tasfiye Yön. md. 38",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhale bedelinin ödenmesi ve eşyanın teslimi",
+     "dayanak": "Tasfiye Yön. md. 39-41",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhalelere katılma yasakları",
+     "dayanak": "Tasfiye Yön. md. 42-43",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Satış bedelinin taksitlendirilmesi",
+     "dayanak": "Tasfiye Yön. md. 44",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Perakende satışlar",
+     "dayanak": "Tasfiye Yön. md. 45-49",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yeniden ihraç amaçlı satış",
+     "dayanak": "Tasfiye Yön. md. 56",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tahsis",
+     "dayanak": "Tasfiye Yön. md. 58",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Özel yolla tasfiye",
+     "dayanak": "Tasfiye Yön. md. 59",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İmha yoluyla tasfiye",
+     "dayanak": "Tasfiye Yön. md. 61-63",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Satış sonrası ardiye ve hizmet payı ödemeleri",
+     "dayanak": "Tasfiye Yön. md. 64/6-7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ek süre ve mücbir sebep",
+     "dayanak": "Tasfiye Yön. md. 67",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Komisyonlar",
+     "dayanak": "Tasfiye Yön. md. 68",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Kanuna göre tasfiyelik hale gelen eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşyanın tasfiyesi için kanuni bekleme süresinin dolması beklenir mi?",
+     "cevap": "Hayır. Bu eşya, ilgili hükümlerine göre kanuni bekleme süreleri bulunup bulunmadığına bakılmaksızın tasfiye edilir.",
+     "dayanak": "GK md. 177/1-k",
+     "kanit": "İlgili hükümlerine göre kanuni bekleme süreleri bulunup bulunmadığına bakılmaksızın, çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşya"
+    },
+    {
+     "alt_konu": "Kaçakçılık Kanunu kapsamında tasfiyelik eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre Kaçakçılıkla Mücadele Kanunu uyarınca el konulan eşyanın mahkemesince sahibine iadesine karar verilmesi halinde, eşya hangi süre içinde teslim alınmazsa tasfiye edilir?",
+     "cevap": "Eşyanın teslim alınması için ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya tasfiye edilir.",
+     "dayanak": "GK md. 177/2-b",
+     "kanit": "El konulan eşyanın mahkemesince sahibine iadesine karar verilmesi halinde, eşyanın teslim alınması için ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya"
+    },
+    {
+     "alt_konu": "Tasfiye edilecek eşyanın bulunmaması",
+     "soru": "4458 sayılı Gümrük Kanununa göre tasfiye edilmesine karar verilen eşyanın bulunmaması halinde hangi tutarlar tahsil edilir?",
+     "cevap": "İthal eşyası için CIF, ihraç eşyası için FOB kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir.",
+     "dayanak": "GK md. 177/3",
+     "kanit": "Tasfiye edilmesine karar verilen eşyanın bulunmaması halinde, ithal eşyası için CIF, ihraç eşyası için FOB kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir."
+    },
+    {
+     "alt_konu": "Tasfiye edilecek eşyanın bulunmaması",
+     "soru": "Tasfiye Yönetmeliğine göre tasfiyelik hale gelmiş olmakla beraber bulunamayan eşya için tahsil edilen tutarlar, tespit ve tahakkuk belgesi düzenlenmemiş olsa da tahsil edilir mi ve tahsil edilen tutar hangi hesaba aktarılır?",
+     "cevap": "Evet. Tespit ve tahakkuk belgesinin düzenlenip düzenlenmediğine bakılmaksızın tutarlar gümrük müdürlüğünce 4458 ve 6183 sayılı Kanunlar çerçevesinde tahsil edilerek döner sermaye hesabına aktarılır.",
+     "dayanak": "Tasfiye Yön. md. 66",
+     "kanit": "tespit ve tahakkuk belgesinin düzenlenip düzenlenmediğine bakılmaksızın ... gümrük müdürlüğünce 4458 sayılı Kanun ve 6183 sayılı Kanun hükümleri çerçevesinde tahsil edilerek döner sermaye hesabına aktarılır."
+    },
+    {
+     "alt_konu": "Tespit ve tahakkuk belgelerinin intikali ve eşyanın teslim alınması",
+     "soru": "4458 sayılı Gümrük Kanununa göre tasfiyelik hale gelen eşyanın tespit ve tahakkuk belgeleri tasfiye idaresine hangi süre içinde intikal ettirilir ve tasfiye idaresi eşyayı hangi süre içinde teslim almakla mükelleftir?",
+     "cevap": "Belgeler otuz gün içinde tasfiye idaresine intikal ettirilir; tasfiye idaresi de eşyayı otuz gün içinde teslim almakla mükelleftir.",
+     "dayanak": "GK md. 177/4",
+     "kanit": "tasfiyelik hale gelen eşyanın tespit ve tahakkuk belgeleri otuz gün içinde tasfiye idaresine intikal ettirilir. Tasfiye idaresi, tasfiyeye konu eşyayı otuz gün içinde teslim almakla mükelleftir."
+    },
+    {
+     "alt_konu": "Tasfiye yolları ve tasfiye yönteminin belirlenmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre ihale, yeniden ihraç amaçlı satış, perakende satış, tahsis ve imha dışında Kanunda sayılan tasfiye yolu hangisidir?",
+     "cevap": "Özel yolla tasfiyedir.",
+     "dayanak": "GK md. 178/1-f",
+     "kanit": "e) İmha suretiyle, f) Özel yolla, (07.07.2009/27281 R.G. 5911 s.k. ile eklenmiştir) Tasfiyeye tabi tutulur."
+    },
+    {
+     "alt_konu": "Tasfiye yolları ve tasfiye yönteminin belirlenmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre tasfiyede insan, hayvan, bitki ve çevre sağlığı bakımından gerekli önlemleri almakla kim yükümlüdür?",
+     "cevap": "Tasfiye idaresi; ilgili kamu kurum ve kuruluşlarının görüşünü alarak bu önlemleri almakla yükümlüdür.",
+     "dayanak": "GK md. 178/2",
+     "kanit": "Tasfiye idaresi; ilgili kamu kurum ve kuruluşlarının görüşünü alarak insan, hayvan, bitki ve çevre sağlığı bakımından gerekli önlemleri almakla yükümlüdür."
+    },
+    {
+     "alt_konu": "Tasfiye yolları ve tasfiye yönteminin belirlenmesi",
+     "soru": "Tasfiye Yönetmeliğine göre ihale yoluyla satış, yeniden ihraç amaçlı satış veya perakende satış yoluyla tasfiye edilecek eşya hangi süre içinde ve kim tarafından belirlenir?",
+     "cevap": "Eşyanın teslim alındığı veya alınması gereken tarihten itibaren en geç on beş gün içinde, işletme müdürü tarafından oluşturulacak komisyonca belirlenir.",
+     "dayanak": "Tasfiye Yön. md. 32/2",
+     "kanit": "Birinci fıkranın (a), (b), (c) ve (d)[25] bentlerinde belirtilen tasfiye yollarına tabi tutulacak eşya, teslim alındığı veya alınması gereken tarihten itibaren en geç onbeşgün içinde işletme müdürü tarafından oluşturulacak komisyon tarafından belirlenir."
+    },
+    {
+     "alt_konu": "Tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya yeniden ihracı",
+     "soru": "4458 sayılı Gümrük Kanununa göre perakende satılacak tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya gümrük bölgesi dışına yeniden ihracı hangi tarihe kadar istenebilir?",
+     "cevap": "Perakende satış kararının alındığı tarihe kadar (ihaleye çıkarılacak eşyada ihale ilanının yayımlandığı tarihe kadar) gümrük idaresine başvurularak istenebilir. Bu tarihten sonra ancak satış gerçekleşmeden önce yapılan başvurular da varsa cezalar ve giderler ile eşyanın döviz cinsinden CIF değerinin %10'u ödenmek şartıyla kabul edilir; bunun dışındaki başvurular kabul edilmez.",
+     "dayanak": "GK md. 179/1",
+     "kanit": "ihale ilanının yayımlandığı veya perakende satış kararının alındığı tarihe kadar, gümrük idaresine başvurularak bir gümrük rejimine tabi tutulması veya gümrük bölgesi dışına yeniden ihracı istenebilir. ... Başvurunun, eşyanın ihale ilanı yayımlandıktan veya perakende satış kararı alındıktan sonra ve satışının gerçekleşmesinden önce yapılması hâlinde bu taleplerin kabulü söz konusu eşyaya ait varsa cezalar ile ambarlama ve elleçleme giderleri ve diğer giderler ile eşyanın döviz cinsinden CIF değerinin % 10'u oranında bir tutarın ödenmesine bağlıdır. Bunun dışındaki başvurular kabul edilmez."
+    },
+    {
+     "alt_konu": "Tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya yeniden ihracı",
+     "soru": "4458 sayılı Gümrük Kanununa göre ihale ilanı yayımlanmadan veya perakende satış kararı alınmadan önce yapılan, tasfiyelik eşyayı bir gümrük rejimine tabi tutma veya yeniden ihraç talebinin kabulü, varsa cezalar ve giderlerin yanında eşyanın CIF değerinin yüzde kaçının ödenmesine bağlıdır?",
+     "cevap": "Eşyanın döviz cinsinden CIF değerinin %1'inin; bu uygulamadan ikinci kez yararlanılmak istenmesi halinde %3'ünün ödenmesine bağlıdır.",
+     "dayanak": "GK md. 179/1",
+     "kanit": "eşyanın döviz cinsinden CIF değerinin % 1'i, bu uygulamadan ikinci kez yararlanmak istenmesi hâlinde ise CIF değerinin % 3'ü oranında bir tutarın ödenmesine bağlıdır."
+    },
+    {
+     "alt_konu": "Tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya yeniden ihracı",
+     "soru": "4458 sayılı Gümrük Kanununa göre tasfiyelik eşyayı bir gümrük rejimine tabi tutma veya yeniden ihraç başvurusu ihale ilanı yayımlandıktan veya perakende satış kararı alındıktan sonra, ancak satış gerçekleşmeden önce yapılırsa talebin kabulü CIF değerinin yüzde kaçının ödenmesine bağlıdır?",
+     "cevap": "Varsa cezalar, ambarlama ve elleçleme giderleri ile diğer giderlere ek olarak eşyanın döviz cinsinden CIF değerinin %10'unun ödenmesine bağlıdır; bunun dışındaki başvurular kabul edilmez.",
+     "dayanak": "GK md. 179/1",
+     "kanit": "Başvurunun, eşyanın ihale ilanı yayımlandıktan veya perakende satış kararı alındıktan sonra ve satışının gerçekleşmesinden önce yapılması hâlinde ... eşyanın döviz cinsinden CIF değerinin % 10'u oranında bir tutarın ödenmesine bağlıdır. Bunun dışındaki başvurular kabul edilmez."
+    },
+    {
+     "alt_konu": "Tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya yeniden ihracı",
+     "soru": "4458 sayılı Gümrük Kanununa göre tasfiyelik eşyayı bir gümrük rejimine tabi tutma veya yeniden ihraç etme imkânı, tahlilden arta kalan numunelik eşya ile gümrüğe terk edilen eşya için de kullanılabilir mi?",
+     "cevap": "Hayır. Bu imkân; tahlilden arta kalan numunelik eşya, gümrüğe terk edilen veya terk edilmiş sayılan eşya, diğer mevzuatla tasfiyesi öngörülen eşya ve Kaçakçılıkla Mücadele Kanunu uyarınca tasfiye edilebilecek duruma gelen eşya gibi Kanunda sayılan eşya için uygulanmaz.",
+     "dayanak": "GK md. 179/2",
+     "kanit": "birinci fıkrasının (c), (d), (ı), (l) ve (m) bentleri ile ikinci fıkrasının (a) bendinde belirtilen eşya için birinci fıkra hükmü uygulanmaz. ... tahlilden arta kalan ve ilgilisi tarafından bir ay içerisinde alınmayan numunelik eşya ... 164 üncü maddesine göre gümrüğe terk edilen eşya"
+    },
+    {
+     "alt_konu": "Tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya yeniden ihracı",
+     "soru": "Tasfiye Yönetmeliğine göre tasfiyelik eşyanın bir gümrük rejimine tabi tutulması talebinde eşya hak sahibi kimdir?",
+     "cevap": "Yurt dışındaki göndericiye döviz transferi yapılmışsa yurt içindeki alıcı, döviz transferi yapılmamışsa yurt dışındaki gönderici; transfer edilmiş dövizin iadesi durumunda ise yurt dışındaki göndericidir.",
+     "dayanak": "Tasfiye Yön. md. 57/2",
+     "kanit": "Eşya hak sahibi, yurtdışındaki göndericiye döviz transferi yapılmışsa yurtiçindeki alıcı, döviz transferi yapılmamışsa yurtdışındaki gönderici, transfer edilmiş dövizin iadesi durumunda yurtdışındaki göndericidir."
+    },
+    {
+     "alt_konu": "Tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya yeniden ihracı",
+     "soru": "Tasfiye Yönetmeliğine göre CIF değer oranındaki tutarın ödendiğinin anlaşılmasından itibaren eşya hangi süre içinde bir gümrük rejimine tabi tutulur?",
+     "cevap": "Otuz gün içinde; varsa eşyaya ait cezalar, ambarlama ve elleçleme giderleri ile yapılmış diğer giderler de tahsil edilerek eşya bir gümrük rejimine tabi tutulur.",
+     "dayanak": "Tasfiye Yön. md. 57/8",
+     "kanit": "Bu tarihten itibaren otuz gün içinde, varsa eşyaya ait cezalar, ambarlama ve elleçleme giderleri ile yapılmış diğer giderler de tahsil edilerek eşya bir gümrük rejimine tabi tutulur."
+    },
+    {
+     "alt_konu": "Tasfiyelik eşyanın bir gümrük rejimine tabi tutulması veya yeniden ihracı",
+     "soru": "Tasfiye Yönetmeliğine göre serbest bölge adresli firma adına gelen ve Türkiye Gümrük Bölgesine girişteki ithalat kontrolleri bakımından uygun olmadığı için tasfiyelik hale gelen eşya serbest bölgeye gönderilebilir mi?",
+     "cevap": "Evet; üçüncü ülkeye transit edilmek şartıyla yeniden ihraç amaçlı teslim suretiyle serbest bölgeye gönderilebilir.",
+     "dayanak": "Tasfiye Yön. md. 57/11",
+     "kanit": "Serbest bölge adresli firma adına gelen, Türkiye Gümrük Bölgesine girişte tabi olduğu ithalat kontrollerine göre uygun olmayan ve tasfiyelik hale gelen eşya, üçüncü ülkeye transit edilmek şartıyla yeniden ihraç amaçlı teslim suretiyle serbest bölgeye gönderilebilir."
+    },
+    {
+     "alt_konu": "Satış bedelinin dağıtımı ve artan paranın emanete alınması",
+     "soru": "4458 sayılı Gümrük Kanununa göre süresi içinde işlemleri tamamlanmayan veya çabuk bozulma tehlikesi bulunan eşya gibi tasfiye edilen eşyanın satış bedelinden hangi kalemler hangi sırayla ayrılır?",
+     "cevap": "Sırasıyla hizmet karşılığı alacaklar ve yapılmış masraflar, gümrük vergileri, satış için yapılmış masraflar ve para cezaları ayrılarak hak sahiplerine dağıtılır. Tasfiye Yönetmeliğine göre hizmet karşılığı alacaklar ve masraflar için satış bedelinin yüzde on beşi ayrılır.",
+     "dayanak": "GK md. 180/1; Tasfiye Yön. md. 64/1",
+     "kanit": "a) Hizmet karşılığı alacaklar ve yapılmış masraflar, b) Gümrük vergileri, c) Satış için yapılmış masraflar, d) Para cezaları, ayrılarak hak sahiplerine dağıtılır. ... a) Hizmet karşılığı alacaklar ve yapılmış masraflar karşılığı olarak yüzde onbeşi,"
+    },
+    {
+     "alt_konu": "Satış bedelinin dağıtımı ve artan paranın emanete alınması",
+     "soru": "4458 sayılı Gümrük Kanununa göre süresi içinde işlemleri tamamlanmayan eşya gibi tasfiye edilen eşyanın satış bedelinden yapılan dağıtımdan sonra artan para ne yapılır ve hangi süre içinde alınmazsa döner sermaye işletmesine irat kaydedilir?",
+     "cevap": "Artan para eşya sahipleri adına emanet hesabına alınır; emanete alındığı tarihten itibaren bir yıl içinde alınmayan para döner sermaye işletmesine irat kaydedilir.",
+     "dayanak": "GK md. 180/1",
+     "kanit": "Bu bedellerin dağıtımından sonra artan para olursa, eşya sahipleri adına emanet hesabına alınır. Emanete alındığı tarihten itibaren bir yıl içinde alınmayan para"
+    },
+    {
+     "alt_konu": "Kaçak eşya ve taşıtların satış bedelleri",
+     "soru": "4458 sayılı Gümrük Kanununa göre Kaçakçılıkla Mücadele Kanunu kapsamında satış suretiyle tasfiye edilen eşyanın, dava sonucunda sahibine iadesine karar verilmesi halinde tasfiye edilen eşyanın gümrük vergileri iade edilir mi?",
+     "cevap": "Hayır; emanetteki satış bedeli sahibine ödenir ancak tasfiye edilen eşyanın gümrük vergileri iade edilmez. Müsadere kararı verilmesi halinde ise satış bedeli döner sermaye işletmesine irat kaydedilir.",
+     "dayanak": "GK md. 180/2",
+     "kanit": "Eşyanın sahibine iade edilmesine karar verilmesi halinde tasfiye edilen eşyanın gümrük vergileri iade edilmez, müsadere kararı verilmesi halinde satış bedeli Gümrük ve Ticaret Bakanlığı döner sermaye işletmesine irat kaydedilir."
+    },
+    {
+     "alt_konu": "Satış bedelinden alınacak vergilerde esas alınacak tarih",
+     "soru": "4458 sayılı Gümrük Kanununa göre tasfiye edilen kaçak eşyanın satış bedelinden alınacak gümrük vergileri hangi tarihteki vergi oranlarına göre belirlenir?",
+     "cevap": "Kaçak eşya tespit tutanağının düzenlendiği tarihteki; bu tarih bilinmiyorsa tespit ve tahakkuk belgesinin düzenlendiği tarihteki vergi oranlarına göre belirlenir.",
+     "dayanak": "GK md. 180/3",
+     "kanit": "kaçak eşya için kaçak eşya tespit tutanağının düzenlendiği tarihte, söz konusu tarihler bilinmiyorsa tespit ve tahakkuk belgesinin düzenlendiği tarihteki vergi oranlarına göre belirlenir."
+    },
+    {
+     "alt_konu": "Şerhli taşıtların tasfiyesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre üzerinde haciz, rehin veya ipotek gibi şerhler bulunan bir taşıtın tasfiyesinden sonra dava sonucunda taşıtın sahibine iadesine karar verilirse emanetteki tutar nasıl ödenir?",
+     "cevap": "Önce şerhlere konu bedel ilgilisine ödenir; kalan tutar taşıtın sahibine ödenir.",
+     "dayanak": "GK md. 180/4",
+     "kanit": "Dava sonucunda taşıtın sahibine iadesine karar verilmesi halinde, şerhlere konu bedel ilgilisine ödendikten sonra kalan tutar ikinci fıkra hükmü uyarınca sahibine ödenir."
+    },
+    {
+     "alt_konu": "Tasfiyede Devlet İhale Kanununun uygulanmaması",
+     "soru": "4458 sayılı Gümrük Kanunu kapsamında yapılacak tasfiye işlemlerinde 2886 sayılı Devlet İhale Kanunu hükümleri uygulanır mı?",
+     "cevap": "Hayır; 2886 sayılı Devlet İhale Kanunu hükümleri uygulanmaz, tasfiyeye ilişkin usul ve esaslar yönetmelikle belirlenir.",
+     "dayanak": "GK md. 180/5",
+     "kanit": "Bu Kanun kapsamında yapılacak tasfiye işlemlerinde 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu hükümleri uygulanmaz ve buna ilişkin usul ve esaslar yönetmelikle belirlenir."
+    },
+    {
+     "alt_konu": "Emanetteki tutarların iadesi için başvuru süresi",
+     "soru": "4458 sayılı Gümrük Kanununa göre tasfiye kapsamında emanete alınan tutarların iadesi için başvuruların hangi süre içinde yapılması gerekir?",
+     "cevap": "Sahibine iadesine ilişkin mahkeme kararının kesinleştiği tarihten, diğer hallerde emanete alındığı tarihten itibaren bir yıl içinde yapılan başvurular kabul edilir.",
+     "dayanak": "GK md. 180/6",
+     "kanit": "emanete alınan tutarların iadesi için, sahibine iadesine ilişkin mahkeme kararının kesinleştiği, diğerlerinde ise emanete alındığı tarihten itibaren bir yıl içinde yapılan başvurular kabul edilir."
+    },
+    {
+     "alt_konu": "Tasfiye Yönetmeliğindeki tanımlar",
+     "soru": "Tasfiye Yönetmeliğine göre \"bekletilmeyecek eşya\" nasıl tanımlanır?",
+     "cevap": "Çabuk bozulma, telef olma, ekonomik değerini kaybetme riski bulunan eşya ile saklanması masraflı, külfetli veya tehlikeli olan eşyadır.",
+     "dayanak": "Tasfiye Yön. md. 3/1-e",
+     "kanit": "Bekletilmeyecek eşya: Çabuk bozulma, telef olma, ekonomik değerini kaybetme riski bulunan eşya ile saklanması masraflı, külfetli veya tehlikeli olan eşyayı,"
+    },
+    {
+     "alt_konu": "Kaçak eşyanın ambara alınması ve iade kararlarının tasfiyeye etkisi",
+     "soru": "Tasfiye Yönetmeliğine göre kaçak zannıyla elkonulan eşya veya alıkonulan araç, kaçak eşya ambarı bulunmaması halinde nereye konulur?",
+     "cevap": "Kaçak eşya ambarı yoksa sırasıyla genel antrepo, geçici depolama yeri veya gümrük idaresince uygun bulunan yerlere konulur.",
+     "dayanak": "Tasfiye Yön. md. 10/7",
+     "kanit": "Kaçak zannı ile elkonulan eşya veya alıkonulan araç, kaçak eşya ambarlarına, yoksa sırasıyla genel antrepo, geçici depolama yeri veya gümrük idaresince uygun bulunan yerlere konulur."
+    },
+    {
+     "alt_konu": "Kaçak eşyanın ambara alınması ve iade kararlarının tasfiyeye etkisi",
+     "soru": "Tasfiye Yönetmeliğine göre el konulan eşyanın sahibine iadesi yönünde verilen kesinleşmemiş mahkeme kararları eşyanın tasfiye işlemlerini durdurur mu?",
+     "cevap": "Hayır, durdurmaz; istinaf veya temyiz yoluna konu edilen iade kararları da kararda aksine hüküm yoksa hükmün kesinleşmesinden sonra yerine getirilir. Ancak bu kural, itiraz kanun yoluna tabi iade yönündeki ara kararlar ile hükmün açıklanmasının geri bırakılması kararlarını kapsamaz: bunlar kesinleşmeleri beklenmeden yerine getirilir ve iade işlemi gerçekleştirilir.",
+     "dayanak": "Tasfiye Yön. md. 14/3-4",
+     "kanit": "El konulan eşyanın veya kaçak eşya naklinde kullanılan taşıtların sahiplerine iadesine yönelik itiraz kanun yoluna tabi ara kararlar ve hükmün açıklanmasının geri bırakılması kararlarının yerine getirilmesi için, bu kararların kesinleşmesi beklenmez ve iade işlemi gerçekleştirilir. ... İstinaf veya temyiz yoluna konu edilmiş iade kararları, kararda aksine bir hüküm bulunmadığı sürece, hükmün kesinleşmesi akabinde yerine getirilir. Üçüncü fıkra saklı kalmak üzere, el konulan eşya ile eşya naklinde kullanılan taşıtların sahiplerine iadesi yönünde verilen kesinleşmemiş mahkeme kararları eşyanın tasfiye işlemlerini durdurmaz."
+    },
+    {
+     "alt_konu": "Tasfiye ambarına alınmadan tasfiye edilecek eşya",
+     "soru": "Tasfiye Yönetmeliğine göre parlayıcı, patlayıcı, yanıcı eşya ile imhalık eşya tasfiye ambarına alınır mı?",
+     "cevap": "Hayır; bu eşya tasfiye ambarına alınmadan, bulunduğu yerde veya buna uygun yapılmış yerlere alınarak tasfiye edilir.",
+     "dayanak": "Tasfiye Yön. md. 15/3",
+     "kanit": "imhalık eşya, tasfiye ambarına alınmadan, bulunduğu yerde veya buna uygun yapılmış yerlere alınarak tasfiye edilir."
+    },
+    {
+     "alt_konu": "Tasfiye listesi ve tespit ve tahakkuk belgesinin düzenlenme süreleri",
+     "soru": "Tasfiye Yönetmeliğine göre geçici depolama ve antrepo işleticileri tasfiye listesini, eşyanın tasfiyelik hale geldiği tarihten itibaren hangi süre içinde gümrük müdürlüğüne gönderir?",
+     "cevap": "En geç on gün içinde; her özet beyan veya transit beyannamesi ya da yerine geçen belge için ayrı ayrı düzenleyerek gönderir.",
+     "dayanak": "Tasfiye Yön. md. 30/1",
+     "kanit": "Eşyanın tasfiyelik hale geldiği tarihten itibaren en geç on gün içinde her özet beyan veya transit beyannamesi ya da yerine geçen belge için ayrı ayrı"
+    },
+    {
+     "alt_konu": "Tasfiye listesi ve tespit ve tahakkuk belgesinin düzenlenme süreleri",
+     "soru": "Tasfiye Yönetmeliğine göre gümrük müdürlüğü, düzenlediği tespit ve tahakkuk belgesini işletme müdürlüklerine en geç ne zamana kadar gönderir?",
+     "cevap": "Eşyanın tasfiyelik hale geldiği tarihi izleyen en geç otuz gün içinde, varsa eşya hakkında ilgili kamu kurum ve kuruluşlarının görüşleriyle birlikte gönderir.",
+     "dayanak": "Tasfiye Yön. md. 30/6",
+     "kanit": "eşyanın tasfiyelik hale geldiği tarihi izleyen en geç otuz gün içinde varsa eşya hakkında ilgili kamu kurum ve kuruluşlarının görüşleri ile birlikte işletme müdürlüklerine gönderilir."
+    },
+    {
+     "alt_konu": "Tasfiye listesi ve tespit ve tahakkuk belgesinin düzenlenme süreleri",
+     "soru": "Tasfiye Yönetmeliğine göre bekleme süresi dolmamış olmakla beraber bekletilmeyecek eşya olduğu anlaşılan eşya için tasfiye listesi ve tespit ve tahakkuk belgesi hangi sürelerde düzenlenir?",
+     "cevap": "Tasfiye listesi en geç iki iş günü içinde düzenlenerek gümrük müdürlüğüne gönderilir; gümrük müdürlüğünce de en geç iki iş günü içinde tespit ve tahakkuk belgesi düzenlenir.",
+     "dayanak": "Tasfiye Yön. md. 30/7",
+     "kanit": "en geç iki iş günü içerisinde[20] tasfiye listesi düzenlenerek ilgili gümrük müdürlüğüne gönderilir. Gümrük müdürlüğünce de en geç iki iş günü içerisinde[21] tespit ve tahakkuk belgesi düzenlenir."
+    },
+    {
+     "alt_konu": "Tasfiye listesi ve tespit ve tahakkuk belgesinin düzenlenme süreleri",
+     "soru": "Tasfiye Yönetmeliğine göre zarara uğrama veya değer kaybı tehlikesi bulunan kaçak eşya için tasfiye yönünde ara karar istenmesine rağmen el koyma tarihinden itibaren hangi süre içinde karar verilmezse eşya derhal tasfiye edilir?",
+     "cevap": "El koyma tarihinden itibaren bir ay içinde karar verilmemesi halinde, eşyanın derhal tasfiyesi için gümrük müdürlüğünce iki iş günü içinde tespit ve tahakkuk belgesi düzenlenerek işletme müdürlüğüne gönderilir.",
+     "dayanak": "Tasfiye Yön. md. 30/8",
+     "kanit": "El koyma tarihinden itibaren bir ay içerisinde karar verilmemesi halinde, eşyanın derhal tasfiye edilmesini sağlamak üzere gümrük müdürlüğünce iki iş günü içerisinde tespit ve tahakkuk belgesi düzenlenerek ilgili işletme müdürlüğüne gönderilir."
+    },
+    {
+     "alt_konu": "Tasfiye listesi ve tespit ve tahakkuk belgesinin düzenlenme süreleri",
+     "soru": "Tasfiye Yönetmeliğine göre taşınması güç, masraflı veya özel tesis ve tertibat gerektiren eşyanın bulunduğu yerde tasfiyesi en fazla ne kadar sürebilir?",
+     "cevap": "Yerinde tasfiye edilecek eşyanın tasfiye süresi altı ayı geçemez; bu sürede tasfiye edilemeyenler fiziken mümkünse işletme müdürlüklerince teslim alınır.",
+     "dayanak": "Tasfiye Yön. md. 30/10",
+     "kanit": "Yerinde tasfiye edilecek eşyanın tasfiye süresi altı ayı geçemez. Bu sürede tasfiye edilemeyenler fiziken mümkün olması halinde işletme müdürlüklerince teslim alınır."
+    },
+    {
+     "alt_konu": "Tasfiyelik eşyanın bedelinin tespiti",
+     "soru": "Tasfiye Yönetmeliğine göre maktu olarak alınması gereken vergi ve mali yükler, tasfiyelik eşyanın ihaleye esas bedeline dahil edilir mi?",
+     "cevap": "Hayır. Maktu vergi ve mali yükler ile bunlara isabet eden KDV gümrüklenmiş değere dahil olmakla birlikte ihaleye esas bedele dahil edilmez, ayrıca tahsil edilir.",
+     "dayanak": "Tasfiye Yön. md. 31/1-a",
+     "kanit": "Maktu olarak alınması gereken vergiler ve mali yükler ile bunlara isabet eden Katma Değer Vergisi gümrüklenmiş değere dahil olmakla birlikte ihaleye esas bedele dahil edilmez. Bu vergiler ayrıca tahsil edilir."
+    },
+    {
+     "alt_konu": "Tasfiyelik eşyanın bedelinin tespiti",
+     "soru": "Tasfiye Yönetmeliğine göre tasfiye edilecek kaçak eşyanın bedeli nasıl belirlenir?",
+     "cevap": "Varsa mahkemece belirlenen bedel; bedel belirlenmemişse kaçak eşyaya ait tespit tutanağındaki bedel; o da yoksa rayiç değer esas alınarak belirlenir.",
+     "dayanak": "Tasfiye Yön. md. 31/1-b",
+     "kanit": "Kaçak eşyanın bedeli, varsa mahkemece belirlenen bedel, bedel belirlenmemiş ise kaçak eşyaya ait tespit tutanağındaki bedel, yoksa rayiç değer esas alınarak belirlenir."
+    },
+    {
+     "alt_konu": "İhaleye hazırlık ve satış ilanları",
+     "soru": "Tasfiye Yönetmeliğine göre ihale yoluyla yapılacak satışların ilanları, satış tarihinden en az kaç gün önce Resmî Gazete'de yayımlanmak üzere gönderilir?",
+     "cevap": "Satış tarihinden en az beş gün önce gönderilir.",
+     "dayanak": "Tasfiye Yön. md. 34/2",
+     "kanit": "Satış ilanları, satış tarihinden en az beş gün önce Resmî Gazete'de yayımlanmak üzere Başbakanlık Basımevi Döner Sermaye İşletmesi Müdürlüğüne gönderilir"
+    },
+    {
+     "alt_konu": "İhaleye hazırlık ve satış ilanları",
+     "soru": "Tasfiye Yönetmeliğine göre çabuk bozulma ve telef olma tehlikesi taşıyan eşyanın ihale yoluyla satış ilanında hangi istisna uygulanır?",
+     "cevap": "Satış ilanı Resmî Gazete'de yayımlanmaz ve beş günlük ilan süresi bir güne kadar indirilebilir.",
+     "dayanak": "Tasfiye Yön. md. 34/3",
+     "kanit": "Çabuk bozulma ve telef olma tehlikesi taşıyan eşya ile Bakanlıkça belirlenen eşya ve parasal limitleri aşmayan değerdeki eşyanın satış ilanı Resmî Gazete'de yayımlanmaz ve ikinci fıkradaki süre bir güne kadar indirilebilir."
+    },
+    {
+     "alt_konu": "İhaleye katılım teminatı",
+     "soru": "Tasfiye Yönetmeliğine göre ihale yoluyla yapılacak satışlara katılacaklardan ne kadar teminat alınır?",
+     "cevap": "Eşyanın ihaleye esas bedelinin en az yüzde onu oranında teminat alınır; ihaleye esas bedeli 1.000.000 TL'yi geçen eşyada 100.000 TL teminat alınır.",
+     "dayanak": "Tasfiye Yön. md. 35/1",
+     "kanit": "eşyanın ihaleye esas bedelinin en az yüzde onu oranında teminat alınır. İhaleye esas bedeli 1.000.000 TL'yi geçen eşyada 100.000 TL teminat bedeli alınır"
+    },
+    {
+     "alt_konu": "Açık artırma kuralları ve tekliflerin değerlendirilmesi",
+     "soru": "Tasfiye Yönetmeliğine göre teminatı yeterli olmadığı halde teklif veren alıcıya hangi orana kadar eksik teminatı tamamlama izni verilir?",
+     "cevap": "Yüzde ona kadar olan eksik teminat bedelini tamamlamasına izin verilir.",
+     "dayanak": "Tasfiye Yön. md. 38/2-d",
+     "kanit": "Alıcının teminatının yeterli olmadığı halde teklif vermiş olması durumunda, yüzde ona kadar olan eksik teminat bedelini tamamlamasına izin verilir."
+    },
+    {
+     "alt_konu": "Açık artırma kuralları ve tekliflerin değerlendirilmesi",
+     "soru": "Tasfiye Yönetmeliğine göre açık artırmada verilen en yüksek teklif ihaleye esas bedelin yüzde kaçını bulursa satış yapılır?",
+     "cevap": "En az yüzde yetmiş beşini bulması halinde satış yapılır; bulmazsa teklifler ihale komisyonunca değerlendirilmek üzere kaydedilir.",
+     "dayanak": "Tasfiye Yön. md. 38/2-e",
+     "kanit": "Verilen en yüksek teklifin ihaleye esas bedelin en az yüzde yetmiş beşini bulması halinde satış yapılır, bulmaması halinde teklifler ihale komisyonunca değerlendirilmek üzere kaydedilir."
+    },
+    {
+     "alt_konu": "Açık artırma kuralları ve tekliflerin değerlendirilmesi",
+     "soru": "Tasfiye Yönetmeliğine göre ihaleye esas bedelin yüzde yetmiş beşinin altında kalan teklifler kabul veya ret için kime sunulur?",
+     "cevap": "Teklif ihaleye esas bedelin yüzde elli ve üstündeyse üç iş günü içinde işletme müdürüne; yüzde ellinin altındaysa üç iş günü içinde işletme müdürlüğünün görüşüyle birlikte bölge müdürlüğüne sunulur.",
+     "dayanak": "Tasfiye Yön. md. 38/2-f",
+     "kanit": "verilen teklifin eşyanın ihaleye esas bedelinin yüzde elli ve üstünde olması halinde üç iş günü içinde işletme müdürüne, teklifin yüzde ellinin altında olması durumunda ise üç iş günü içinde işletme müdürlüğünün görüşü ile birlikte bölge müdürlüğüne kabul veya reddedilmesi için sunulur."
+    },
+    {
+     "alt_konu": "Açık artırma kuralları ve tekliflerin değerlendirilmesi",
+     "soru": "Tasfiye Yönetmeliğine göre tasfiye yoluyla satılan araçlardan hangileri için trafik şahadetnamesi düzenlenmez?",
+     "cevap": "Yüzde yetmiş ve daha fazla hasarlı durumda olan araçlar için trafik şahadetnamesi düzenlenmez.",
+     "dayanak": "Tasfiye Yön. md. 38/3",
+     "kanit": "Yüzde yetmiş ve daha fazla hasarlı durumda olan araçlar için trafik şahadetnamesi düzenlenmez."
+    },
+    {
+     "alt_konu": "İhale bedelinin ödenmesi ve eşyanın teslimi",
+     "soru": "Tasfiye Yönetmeliğine göre ihale bedeli, ihalenin tamamlanmasını izleyen hangi süre içinde ödenmelidir?",
+     "cevap": "Yedi gün içinde, bekletilmeyecek eşyada ise iki iş günü içinde ödenmesi zorunludur; ödenmezse satış bozularak teminat döner sermayeye gelir kaydedilir.",
+     "dayanak": "Tasfiye Yön. md. 40/1",
+     "kanit": "İhalenin tamamlanmasını izleyen yedi gün içinde, bekletilmeyecek eşyada iki iş günü içinde ihale bedelinin ödenmesi zorunludur. İhale bedelinin bu süre içinde ödenmemesi halinde satış bozularak teminat döner sermayeye gelir kaydedilir."
+    },
+    {
+     "alt_konu": "İhale bedelinin ödenmesi ve eşyanın teslimi",
+     "soru": "Tasfiye Yönetmeliğine göre ihale yoluyla satılan eşya, ihale bedelinin ödenmesini izleyen hangi süre içinde alıcı tarafından teslim alınmalıdır?",
+     "cevap": "On gün içinde, bekletilmeyecek eşyada ise üç gün içinde bulunduğu yerden teslim alınması zorunludur.",
+     "dayanak": "Tasfiye Yön. md. 41/1",
+     "kanit": "Eşyanın, ihale bedelinin ödenmesini izleyen on gün, bekletilmeyecek eşyanın ise üç gün içinde alıcı tarafından bulunduğu yerden teslim alınması zorunludur."
+    },
+    {
+     "alt_konu": "İhale bedelinin ödenmesi ve eşyanın teslimi",
+     "soru": "Tasfiye Yönetmeliğine göre yeniden ihraç amacıyla satılan eşya hangi süre içinde yurt dışı edilir?",
+     "cevap": "İhale bedelinin ödendiği tarihten itibaren otuz gün içinde gümrük müdürlüğünün denetiminde yurt dışı edilir.",
+     "dayanak": "Tasfiye Yön. md. 41/1",
+     "kanit": "Yeniden ihraç amacıyla satılacak eşya, ihale bedelinin ödendiği tarihten itibaren otuz gün içerisinde gümrük müdürlüğünün denetiminde yurtdışı edilir."
+    },
+    {
+     "alt_konu": "İhalelere katılma yasakları",
+     "soru": "Tasfiye Yönetmeliğine göre ihalelere fesat karıştıranlar hakkında, işletme müdürlüklerinin ihalelerine katılmaktan yasaklama kararını kim ve en fazla ne kadar süreyle verir?",
+     "cevap": "Fiilin özelliğine göre Genel Müdürlük (Tasfiye Hizmetleri Genel Müdürlüğü) tarafından bir yıla kadar yasaklama kararı verilir.",
+     "dayanak": "Tasfiye Yön. md. 42/2; md. 3/1-i",
+     "kanit": "fiilin özelliğine göre Genel Müdürlük tarafından bir yıla kadar işletme müdürlüklerinin ihalelerine katılmaktan yasaklama kararı verilir. ... i) Genel Müdürlük: Tasfiye Hizmetleri Genel Müdürlüğünü,"
+    },
+    {
+     "alt_konu": "İhalelere katılma yasakları",
+     "soru": "Tasfiye Yönetmeliğine göre teminatı yeterli olmadığı halde pey süren veya ihale bedelini ödemeyen alıcı, bu fiili geriye doğru bir yıl içinde iki veya daha fazla ihalede işlemişse ne kadar süre ihalelere alınmaz?",
+     "cevap": "Bir yıl süresince ihalelere alınmaz; bir ihalede daha işlemişse altı ay süreyle alınmaz.",
+     "dayanak": "Tasfiye Yön. md. 42/3",
+     "kanit": "a) Bir ihalede daha işlemiş ise altı ay, b) İki veya daha fazla ihalede işlemiş ise bir yıl, süresince işletme müdürlüklerince yapılan ihalelere alınmaz."
+    },
+    {
+     "alt_konu": "Satış bedelinin taksitlendirilmesi",
+     "soru": "Tasfiye Yönetmeliğine göre tasfiyelik eşyanın satış bedeli hangi şartlarla taksitlendirilebilir?",
+     "cevap": "Satış bedelinin 10.000 TL'den az olmaması, talebin yazılı olması ve teminat verilmesi şartıyla, alıcının talebine göre işletme müdürlüğünce on iki ayı geçmemek üzere taksitlendirilebilir.",
+     "dayanak": "Tasfiye Yön. md. 44/1",
+     "kanit": "Eşya satış bedelinin 10.000 TL'den az olmaması şartıyla alıcının talebine göre on iki ayı geçmemek üzere işletme müdürlüğünce taksitlendirme yapılabilir. Taksitlendirmenin yapılmasında, talebin yazılı olması ve teminat verilmesi gerekir."
+    },
+    {
+     "alt_konu": "Satış bedelinin taksitlendirilmesi",
+     "soru": "Tasfiye Yönetmeliğine göre vergi, resim ve harçlar ile 5607 sayılı Kanun kapsamında tasfiyelik hale gelen eşyanın satış bedeli taksitlendirilebilir mi?",
+     "cevap": "Hayır; vergi, resim, harç ve diğer giderlerde taksitlendirme yapılmaz, 5607 sayılı Kanun kapsamında tasfiyelik hale gelen eşyanın satışlarında da taksitlendirme yapılmaz.",
+     "dayanak": "Tasfiye Yön. md. 44/3-4",
+     "kanit": "Vergi, resim, harç ve diğer giderlerde taksitlendirme yapılmaz. (4) 5607 sayılı Kanun kapsamında tasfiyelik hale gelen eşyanın tasfiyesi amacıyla yapılan satışlarda taksitlendirme yapılmaz."
+    },
+    {
+     "alt_konu": "Perakende satışlar",
+     "soru": "Tasfiye Yönetmeliğine göre 5607 sayılı Kanun uyarınca tasfiyelik hale gelen perakende niteliğindeki eşya, açık artırmada ihaleye esas bedelin yüzde yetmiş beşinin altında teklif alırsa ne yapılabilir?",
+     "cevap": "Teklif bedeli üzerinden işletme tarafından satın alınarak perakende satılabilir.",
+     "dayanak": "Tasfiye Yön. md. 45/2",
+     "kanit": "perakende niteliğini haiz eşya yüzde yetmiş beşin altında teklif alması halinde 38 inci maddenin ikinci fıkrasının (e) bendinde belirtilen teklif bedeli üzerinden işletme tarafından satın alınarak perakende satılabilir."
+    },
+    {
+     "alt_konu": "Perakende satışlar",
+     "soru": "Tasfiye Yönetmeliğine göre perakende satışa sunulduğu tarihten itibaren hangi süre içinde satılamayan eşya ihale veya diğer yollarla tasfiye edilmek üzere teslim edilir?",
+     "cevap": "Satışa sunulduğu tarihten itibaren doksan gün içinde perakende satılma imkânı olmadığı anlaşılan eşya, tutanak düzenlenerek en yakın işletme müdürlüğüne teslim edilir.",
+     "dayanak": "Tasfiye Yön. md. 48/2",
+     "kanit": "Satışa sunulduğu tarihten itibaren doksan gün içinde perakende satılma imkanıolmadığı anlaşılan eşya için tutanak düzenlenerek, ihale veya diğer yollarla tasfiye edilmek üzere en yakın işletme müdürlüğüne teslim edilir."
+    },
+    {
+     "alt_konu": "Perakende satışlar",
+     "soru": "Tasfiye Yönetmeliğine göre perakende satılan eşyanın belirtilen niteliklere uygun olmaması halinde satış hangi süre içinde iptal edilebilir?",
+     "cevap": "Satışı takip eden yedi gün içinde alıcının talebi ve işletme müdürünün uygun görmesi üzerine satış iptal edilerek eşya geri alınır ve bedeli iade edilir (eşyanın satıldığı haliyle geri alınamadığı durumlarda satış iptal edilmez).",
+     "dayanak": "Tasfiye Yön. md. 49/3",
+     "kanit": "satışı takip eden yedi gün içinde alıcının talebi ve işletme müdürünün uygun görmesi üzerine satış iptal edilerek, eşya geri alınır ve bedeli iade edilir. Eşyanın satıldığı haliyle geri alınamadığı durumlarda satış iptal edilmez."
+    },
+    {
+     "alt_konu": "Yeniden ihraç amaçlı satış",
+     "soru": "Tasfiye Yönetmeliğine göre ithalatı yasak veya kısıtlamaya tabi tasfiyelik eşya hangi yolla satılabilir ve satılan eşya nereye gönderilmelidir?",
+     "cevap": "Sadece yeniden ihraç amacıyla satılır; yeniden ihraç amacıyla satılan eşyanın mahrecine veya üçüncü ülkeye gönderilmesi zorunludur.",
+     "dayanak": "Tasfiye Yön. md. 56/1, 56/3",
+     "kanit": "İthalatı yasak veya kısıtlamaya tabi eşya sadece yeniden ihraç amacıyla satılır. ... yeniden ihraç amacıyla satılan eşyanın mahrecine veya üçüncü ülkeye gönderilmesi zorunludur."
+    },
+    {
+     "alt_konu": "Tahsis",
+     "soru": "Tasfiye Yönetmeliğine göre kamu kurum ve kuruluşlarına tahsis edilen eşya hangi süre içinde teslim alınmazsa tahsis kararı iptal edilir?",
+     "cevap": "Tahsis edilen eşyanın otuz iş günü içinde teslim alınması şarttır; süresi içinde teslim alınmayan eşyanın tahsis kararı iptal edilir.",
+     "dayanak": "Tasfiye Yön. md. 58/1",
+     "kanit": "Tahsis edilen eşyanın otuz iş günü içinde teslim alınması şarttır. Süresi içinde teslim alınmayan eşyanın tahsis kararı iptal edilir."
+    },
+    {
+     "alt_konu": "Tahsis",
+     "soru": "Tasfiye Yönetmeliğine göre 5607 sayılı Kanun kapsamında tasfiyelik hale gelen eşya hangi şart gerçekleşmedikçe tahsis edilemez?",
+     "cevap": "Bakanlığa yapılan tahsisler saklı kalmak üzere, mahkemesince verilen müsadere kararı kesinleşmedikçe tahsis edilemez.",
+     "dayanak": "Tasfiye Yön. md. 58/4",
+     "kanit": "İkinci fıkra hükümleri saklı kalmak üzere, 5607 sayılı Kanun kapsamında tasfiyelik hale gelen eşya mahkemesince verilen müsadere kararı kesinleşmedikçe tahsis edilemez."
+    },
+    {
+     "alt_konu": "Özel yolla tasfiye",
+     "soru": "Tasfiye Yönetmeliğine göre tasfiyelik hale gelen eşyanın özel yolla Bakanlıkça belirlenecek bedel üzerinden kamu kurum ve kuruluşlarına satılmasında bu bedel gümrüklenmiş değerin yüzde kaçından az olamaz?",
+     "cevap": "Gümrüklenmiş değerinin yüzde ellisinden az olamaz.",
+     "dayanak": "Tasfiye Yön. md. 59/1",
+     "kanit": "Tasfiyelik hale gelen eşya, 38 inci maddenin ikinci fıkrasının (f) bendi kapsamında veya gümrüklenmiş değerinin yüzde ellisinden az olmamak üzere Bakanlıkça belirlenecek bedel üzerinden kamu kurum ve kuruluşları ile özel kanunla kurulmuş vakıf ve derneklere satılabilir."
+    },
+    {
+     "alt_konu": "Özel yolla tasfiye",
+     "soru": "Tasfiye Yönetmeliğine göre satışa çıkarılıp satılamayan ve diğer yollarla da tasfiyesi yapılamayan eşya, imha edilmeden önce hangi usulle son kez satışa sunulabilir?",
+     "cevap": "Pazarlık usulüyle son kez satışa sunulabilir.",
+     "dayanak": "Tasfiye Yön. md. 59/3",
+     "kanit": "Satışa çıkarılıp satılamayan ve diğer yollarla da tasfiyesi yapılamayan eşya, imha edilmeden önce son kez olmak üzere pazarlık usulüyle satışa sunulabilir."
+    },
+    {
+     "alt_konu": "İmha yoluyla tasfiye",
+     "soru": "Tasfiye Yönetmeliğine göre mahkemesince imhasına karar verilenler dışındaki tasfiyelik eşyanın imhasına kim karar verir?",
+     "cevap": "Komisyonca karar verilir.",
+     "dayanak": "Tasfiye Yön. md. 61/1",
+     "kanit": "Mahkemesince imhasına karar verilenler hariç diğer eşyanın imhasına komisyonca karar verilir."
+    },
+    {
+     "alt_konu": "İmha yoluyla tasfiye",
+     "soru": "Tasfiye Yönetmeliğine göre tasfiyelik hale gelmeden önce imhalık olduğu anlaşılan eşyanın imhası hangi mevzuata göre yapılır?",
+     "cevap": "Gümrük Yönetmeliği hükümlerine göre yapılır; tasfiyelik hale geldikten sonra imhalık duruma gelen eşyanın imhası ise Tasfiye Yönetmeliği hükümlerine göre yapılır.",
+     "dayanak": "Tasfiye Yön. md. 63/3",
+     "kanit": "Tasfiyelik hale gelmeden önce imhalık olduğu anlaşılan eşyanın imhası Gümrük Yönetmeliği hükümleri, tasfiyelik hale geldikten sonra imhalık duruma gelen eşyanın imhası ise bu Yönetmelik hükümleri çerçevesinde yapılır."
+    },
+    {
+     "alt_konu": "İmha yoluyla tasfiye",
+     "soru": "Tasfiye Yönetmeliğine göre tespit ve tahakkuk belgesi itibarıyla gümrüklenmiş değeri hangi tutarı aşan eşyanın imhasından önce bölge müdürlüğünden onay alınır?",
+     "cevap": "Gümrüklenmiş değeri 250.000 TL'nin üzerindeki eşyanın imhasından önce bölge müdürlüğünden onay alınır.",
+     "dayanak": "Tasfiye Yön. md. 63/8",
+     "kanit": "Tespit ve tahakkuk belgesi itibariyle gümrüklenmiş değeri 250.000 TL'nin ... üzerindeki eşyanın imhasından önce bölge müdürlüğünden onay alınır."
+    },
+    {
+     "alt_konu": "İmha yoluyla tasfiye",
+     "soru": "Tasfiye Yönetmeliğine göre imha giderleri kimden alınır?",
+     "cevap": "Esas olarak eşya sahibinden alınır; sahipsiz eşya ile sahibine ulaşılamayan veya giderlerin eşya sahibince karşılanmadığı durumlarda, eşya sahibine rücu hakkı saklı kalmak üzere giderler işletmeci tarafından karşılanır.",
+     "dayanak": "Tasfiye Yön. md. 63/10",
+     "kanit": "İmha giderlerinin eşya sahibinden alınması esastır. Ancak, sahipsiz eşya ile sahibine ulaşılamadığı veya imha giderlerinin eşya sahibince karşılanmadığı durumlarda, muhafaza eden işletmenin eşya sahibine rücu etme hakkı saklı kalmak kaydıyla, giderler işletmeci tarafından karşılanır."
+    },
+    {
+     "alt_konu": "Satış sonrası ardiye ve hizmet payı ödemeleri",
+     "soru": "Tasfiye Yönetmeliğine göre gümrük idaresi ve diğer işletmecilerin ardiye ve diğer hizmet ücretleri için satış bedelinden ayrılacak tutar en fazla ne kadar olabilir?",
+     "cevap": "Satış bedelinin yüzde on beşini geçemez; perakende satılan, özel yolla tasfiye edilen veya imha edilen eşyayı muhafaza edenlere ardiye ve diğer hizmetler için ödeme yapılmaz.",
+     "dayanak": "Tasfiye Yön. md. 64/6",
+     "kanit": "satış bedelinden ayrılacak tutar satış bedelinin yüzde on beşini geçemez. ... Perakende satılan, özel yolla tasfiye edilen veya imha edilen eşyayı muhafaza eden kişi ve kuruluşlara ardiye ve diğer hizmetler için işletme müdürlüğünce bir ödeme yapılmaz."
+    },
+    {
+     "alt_konu": "Ek süre ve mücbir sebep",
+     "soru": "Tasfiye Yönetmeliğine göre Yönetmelikte yer alan süreler için ek süre hangi şartla ve ne kadar verilebilir?",
+     "cevap": "Kanunda öngörülen süreler hariç, sürelerin bitiminden önce ilgili mercie başvurulması şartıyla, Yönetmelikte belirlenmiş süreler kadar gümrük idaresince bir defaya mahsus ek süre verilebilir.",
+     "dayanak": "Tasfiye Yön. md. 67/1",
+     "kanit": "Kanunda öngörülen süreler dışında bu Yönetmelikte yer alan sürelerle ilgili olarak, sürelerin bitiminden önce ilgili mercie başvurulması şartıyla bu Yönetmelikte belirlenmiş süreler kadar gümrük idaresince bir defaya mahsus olmak üzere ek süre verilebilir."
+    },
+    {
+     "alt_konu": "Ek süre ve mücbir sebep",
+     "soru": "Tasfiye Yönetmeliğine göre ödemeye ilişkin verilen ek sürelerde faiz alınır mı?",
+     "cevap": "Evet; faiz alınır ve faizin hesabında 6183 sayılı Kanunun tecil faizine ilişkin hükümleri uygulanır.",
+     "dayanak": "Tasfiye Yön. md. 67/3",
+     "kanit": "Ödemeye ilişkin verilen ek sürelerde faiz alınır. Faizin hesabında 6183 sayılı Kanunun tecil faizine ilişkin hükümleri uygulanır."
+    },
+    {
+     "alt_konu": "Komisyonlar",
+     "soru": "Tasfiye Yönetmeliğine göre komisyonlar kaç kişiden oluşur ve nasıl karar alır?",
+     "cevap": "Aksine hüküm yoksa idare amiri veya en az şef düzeyinde personel başkanlığında en az üç ve tek sayıda kişiden oluşur; eksiksiz toplanarak oy çokluğuyla karar alır ve kararlarda çekimser kalınamaz.",
+     "dayanak": "Tasfiye Yön. md. 68/1-2",
+     "kanit": "idare amiri veya idare amirince belirlenecek en az şef düzeyinde personel başkanlığında idarede görevli en az üç ve tek sayıda kişiden oluşur. ... Komisyon eksiksiz olarak toplanarak oy çokluğu ile karar alır. Kararlarda çekimser kalınamaz."
+    }
+   ]
+  },
+  {
+   "kaynak": "44-yükümlülük.txt",
+   "konu": "Gümrük Yükümlülüğü",
+   "mevzuat": "GK md. 181-194, 208-209; GY md. 483-488",
+   "cikmis_sayisi": 9,
+   "cikmis": [
+    "2021-78: Hatalı beyanla eksik alınan vergiye yükümlülük başlangıcı ile kesinleşme arası faiz uygulanır (envanterde Teminat ve Faiz).",
+    "2022-29: İhracat vergisine tabi eşyanın ihracında gümrük yükümlülüğü beyannamenin tescil tarihinde başlar.",
+    "2022-34: Yükümlülük ödeme, kaldırma, iptal, kanuna aykırı giriş nedeniyle müsadere ile sona erer; beyanname düzeltmesi sona erdirmez.",
+    "2022-54: Hatalı beyan faizi gecikme zammı oranında uygulanır (envanterde Teminat ve Faiz).",
+    "2023-68: Yükümlülük vergilerin ödenmesi ve teslimden önce telef/kayıpla sona erer.",
+    "2023-88: Gözetimdeki vergiye tabi eşyanın kanuna aykırı gözetimden çıkarılması gümrük yükümlülüğü doğurur.",
+    "2024-54: Telafi edici vergi (GK 194): başlama, hesaplama tarihi, ödeme zamanı, gecikme zammı, geri ödeme sistemi (envanterde Dahilde İşleme).",
+    "2021-89: Telafi edici vergi tanımı (GK 194/1; envanterde Dahilde İşleme).",
+    "2022-46: Telafi edici vergi tanımı (GK 194/1; envanterde Dahilde İşleme)."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "İthalatta gümrük yükümlülüğünün başlaması",
+     "dayanak": "GK md. 181/1; GY md. 483",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İthalatta yükümlü ve dolaylı temsilcinin sorumluluğu",
+     "dayanak": "GK md. 181/2-3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın Türkiye Gümrük Bölgesine kanuna aykırı girişi",
+     "dayanak": "GK md. 182",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın gümrük gözetiminden kanuna aykırı çıkarılması ve gümrük statüsü",
+     "dayanak": "GK md. 183; GY md. 484-485",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-88"
+     ],
+     "not": "Gözetimden kanuna aykırı çıkarmanın yükümlülük doğurduğu sorulmuş. Sorulmayan: başlama tarihi, sorumlular, yanlış nitelikte belgenin gözetimden çıkarma hükmünde olması, vergiler ödenince serbest dolaşımda sayılma."
+    },
+    {
+     "baslik": "Geçici depolama veya rejim yükümlülüklerinin yerine getirilmemesi",
+     "dayanak": "GK md. 184",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest bölgede kanuna aykırı tüketim veya kullanım",
+     "dayanak": "GK md. 185",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük yükümlülüğünün doğmamış sayıldığı haller",
+     "dayanak": "GK md. 186",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanım eşyasında atık-artıklar ve ödenmiş vergilerin indirimi",
+     "dayanak": "GK md. 187",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracat vergisine tabi eşyada yükümlülüğün başlaması",
+     "dayanak": "GK md. 188; GY md. 488",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-29"
+     ],
+     "not": "Normal usulde beyannamenin tescil tarihi sorulmuş. Sorulmayan: basitleştirilmiş usulde başlama tarihi."
+    },
+    {
+     "baslik": "İhracat vergisine tabi eşyanın beyansız çıkarılması ve muafiyet şartlarına uyulmaması",
+     "dayanak": "GK md. 189-190",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yasak ve kısıtlamaya tabi eşyada gümrük yükümlülüğü",
+     "dayanak": "GK md. 191",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kanuna aykırılık hallerinde tercihli tarife ve muafiyetin uygulanması",
+     "dayanak": "GK md. 191/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Birden çok yükümlünün müteselsil sorumluluğu",
+     "dayanak": "GK md. 192",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "2022-87 ve 2024-85'te ölçülen müteselsil sorumluluk gümrük müşavirine ilişkin temsil hükmüdür; bu genel hüküm sorulmamıştır."
+    },
+    {
+     "baslik": "Vergi tutarının belirlenmesinde esas alınacak tarih",
+     "dayanak": "GK md. 193/1-2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hatalı beyan sonucu eksik alınan vergilere faiz",
+     "dayanak": "GK md. 193/3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-78",
+      "2022-54"
+     ],
+     "not": "Yükümlülük başlangıcı ile kesinleşme arasındaki faiz sorulmuş. Sorulmayan: kesinleşmeden önce ödemede faizin ödeme tarihine kadar hesaplanması."
+    },
+    {
+     "baslik": "Telafi edici vergi (dahilde işleme ürünlerinde ithalata ilişkin yükümlülük)",
+     "dayanak": "GK md. 194",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-54",
+      "2021-89",
+      "2022-46"
+     ],
+     "not": "TEV tanımı, ihracat beyannamesinin tescilinde başlaması, hesaplama tarihi, ödeme zamanı, gecikme zammı ve geri ödeme sistemi istisnası sorulmuş. Sorulmayan: önceden ihracatta hesaplama/ödeme ve mahsup yetkisi."
+    },
+    {
+     "baslik": "Gümrük yükümlülüğünü etkilemeyecek ihmaller",
+     "dayanak": "GY md. 486",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kabul edilebilir kayıplar ve telef/kaybın kanıtlanması",
+     "dayanak": "GY md. 487",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük yükümlülüğünün sona ermesi",
+     "dayanak": "GK md. 208-209",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-34",
+      "2023-68"
+     ],
+     "not": "Ödeme, kaldırma, iptal, kanuna aykırı giriş nedeniyle müsadere ve telef/kayıp sorulmuş. Sorulmayan: teslimden önce zapt-müsadere veya imha, terk ve imha (GK 164), TEV yükümlülüğünün işlemlerin iptaliyle ortadan kalkması."
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "İthalatta gümrük yükümlülüğünün başlaması",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithalat vergilerine tabi eşyanın serbest dolaşıma girişinde ve kısmi muafiyet suretiyle geçici ithalinde gümrük yükümlülüğü hangi tarihte başlar?",
+     "cevap": "Bu işlemler için verilecek gümrük beyannamesinin tescil tarihinde başlar.",
+     "dayanak": "GK md. 181/1",
+     "kanit": "a) İthalat vergilerine tabi eşyanın serbest dolaşıma girişi, b) İthalat vergilerine tabi eşyanın ithalat vergilerinden kısmi muafiyet suretiyle geçici ithali, için verilecek gümrük beyannamesinin tescil tarihinde başlar."
+    },
+    {
+     "alt_konu": "İthalatta gümrük yükümlülüğünün başlaması",
+     "soru": "Gümrük Yönetmeliğine göre basitleştirilmiş usulde yapılan ithalat beyanlarında gümrük yükümlülüğü hangi tarihte başlar?",
+     "cevap": "Basitleştirilmiş işlemlere ilişkin beyannamenin ya da gümrük idaresince kabul edilen ticari veya idari belgenin tescil edildiği ya da tescil hükmünde kayıt işleminin yapıldığı tarihte başlar.",
+     "dayanak": "GY md. 483/1",
+     "kanit": "basitleştirilmiş usulde yapılan beyanlarda basitleştirilmiş işlemlere ilişkin beyannamenin ya da gümrük idaresince kabul edilen ticari veya idari belgenin tescil edildiği ya da tescil hükmünde kayıt işleminin yapıldığı tarihte başlar."
+    },
+    {
+     "alt_konu": "İthalatta yükümlü ve dolaylı temsilcinin sorumluluğu",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithalatta gümrük yükümlülüğünde yükümlü kimdir?",
+     "cevap": "Beyan sahibidir; dolaylı temsil durumunda hesabına gümrük beyanında bulunulan kişi de yükümlüdür.",
+     "dayanak": "GK md. 181/2",
+     "kanit": "İthalatta gümrük yükümlülüğünde yükümlü, beyan sahibidir. Dolaylı temsil durumunda, hesabına gümrük beyanında bulunulan kişi de yükümlüdür."
+    },
+    {
+     "alt_konu": "İthalatta yükümlü ve dolaylı temsilcinin sorumluluğu",
+     "soru": "4458 sayılı Gümrük Kanununa göre dolaylı temsilde temsilcinin gümrük yükümlülüğü hangi durumlarla sınırlıdır?",
+     "cevap": "Beyanda kullanılan verilerin yanlış olduğunu bildiği veya mesleği icabı ve mutat olarak bilmesi gerektiği durumlarla sınırlıdır.",
+     "dayanak": "GK md. 181/2",
+     "kanit": "Dolaylı temsilde, temsilcinin yükümlülüğü, beyanda kullanılan verilerin yanlış olduğunu bildiği veya mesleği icabı ve mutat olarak bilmesi gerektiği durumlarla sınırlıdır."
+    },
+    {
+     "alt_konu": "İthalatta yükümlü ve dolaylı temsilcinin sorumluluğu",
+     "soru": "4458 sayılı Gümrük Kanununa göre beyanda kullanılan veriler nedeniyle vergilerin tamamen veya kısmen tahsil edilememesi halinde, beyan sahibi dışında kimler gümrük vergilerinden sorumludur?",
+     "cevap": "Beyanın yapılabilmesi için bu verileri veren ve verilerin yanlış olduğunu bilen veya bilmesi gereken kişiler de gümrük vergilerinden sorumludur.",
+     "dayanak": "GK md. 181/3",
+     "kanit": "beyanın yapılabilmesi için bu verileri veren ve bu verilerin yanlış olduğunu bilen veya bilmesi gereken kişiler de gümrük vergilerinden sorumludur."
+    },
+    {
+     "alt_konu": "Eşyanın Türkiye Gümrük Bölgesine kanuna aykırı girişi",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithalat vergilerine tabi eşyanın Türkiye Gümrük Bölgesine kanuna aykırı şekilde girmesi halinde gümrük yükümlülüğü hangi tarihte başlar?",
+     "cevap": "Eşyanın Türkiye Gümrük Bölgesine kanuna aykırı olarak girişi tarihinde başlar.",
+     "dayanak": "GK md. 182/2",
+     "kanit": "Gümrük yükümlülüğü, eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı olarak girişi tarihinde başlar."
+    },
+    {
+     "alt_konu": "Eşyanın Türkiye Gümrük Bölgesine kanuna aykırı girişi",
+     "soru": "4458 sayılı Gümrük Kanununa göre kanuna aykırı olarak Türkiye Gümrük Bölgesine giren eşyayı elde eden veya elinde bulunduran kişi hangi şartla gümrük vergilerinden sorumlu olur?",
+     "cevap": "Eşyayı elde ettiği veya aldığı sırada eşyanın kanuna aykırı olarak girdiğini bilen veya normal olarak bilmesi gereken kişi ise sorumludur.",
+     "dayanak": "GK md. 182/3-c",
+     "kanit": "Söz konusu eşyayı elde eden veya elinde bulunduran ve bu eşyayı elde ettiği veya aldığı sırada eşyanın kanuna aykırı olarak girdiğini bilen veya normal olarak bilmesi gereken kişiler,"
+    },
+    {
+     "alt_konu": "Eşyanın gümrük gözetiminden kanuna aykırı çıkarılması ve gümrük statüsü",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük gözetimi altındaki ithalat vergilerine tabi eşyanın kanuna aykırı olarak gözetim dışına çıkarılmasında gümrük yükümlülüğü hangi tarihte başlar?",
+     "cevap": "Eşyanın gümrük gözetiminden çıkarıldığı tarihte başlar.",
+     "dayanak": "GK md. 183/2",
+     "kanit": "Gümrük yükümlülüğü, eşyanın gümrük gözetiminden çıkarıldığı tarihte başlar."
+    },
+    {
+     "alt_konu": "Eşyanın gümrük gözetiminden kanuna aykırı çıkarılması ve gümrük statüsü",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük gözetiminden kanuna aykırı çıkarılan eşya için, eşyayı çıkaranlar ve bu işe bilerek iştirak edenler ile eşyayı bilerek elde edenler dışında başka kimler gümrük vergilerinden sorumludur?",
+     "cevap": "Eşyanın geçici depolanmasında veya tabi tutulmuş olduğu gümrük rejiminin kullanılmasından doğan yükümlülükleri yerine getirmesi gereken kişiler de sorumludur.",
+     "dayanak": "GK md. 183/3-d",
+     "kanit": "Eşyanın geçici depolanmasında veya tabi tutulmuş olduğu gümrük rejiminin kullanılmasından doğan yükümlülükleri yerine getirmesi gereken kişiler,"
+    },
+    {
+     "alt_konu": "Eşyanın gümrük gözetiminden kanuna aykırı çıkarılması ve gümrük statüsü",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın gümrük statüsünün serbest dolaşımda bulunan eşya gibi değerlendirilmesine yol açabilecek yanlış nitelikte bir beyan veya belge düzenlenmesi hangi fiil hükmündedir?",
+     "cevap": "Eşyanın gümrük gözetiminden (kanuna aykırı olarak) çıkarılması hükmündedir.",
+     "dayanak": "GY md. 484/1",
+     "kanit": "eşyanın gümrük statüsünün serbest dolaşımda bulunan eşya gibi değerlendirilmesine yol açabilecek yanlış niteliğe sahip ise, bu fiil, Kanunun 183 üncü maddesinin birinci fıkrası uyarınca, eşyanın gümrük gözetiminden çıkarılması hükmündedir."
+    },
+    {
+     "alt_konu": "Eşyanın gümrük gözetiminden kanuna aykırı çıkarılması ve gümrük statüsü",
+     "soru": "Gümrük Yönetmeliğine göre gözetimden kanuna aykırı çıkarma veya serbest bölgede kanuna aykırı tüketim nedeniyle doğan gümrük yükümlülüğünde ithalat vergileri ödendiğinde eşyanın gümrük statüsü ne olur?",
+     "cevap": "Yasaklama veya kısıtlamalar ile cezai hükümler saklı kalmak üzere, eşya bir beyana gerek görülmeksizin serbest dolaşımda bulunan eşya sayılır.",
+     "dayanak": "GY md. 485/1",
+     "kanit": "bu eşya gümrük statüsü açısından bir beyana gerek görülmeksizin serbest dolaşımda bulunan eşya sayılır."
+    },
+    {
+     "alt_konu": "Geçici depolama veya rejim yükümlülüklerinin yerine getirilmemesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın tabi tutulduğu gümrük rejimine veya nihai kullanım nedeniyle indirimli ya da sıfır vergi oranı uygulanmasına ilişkin bir koşula uyulmadığının sonradan tespiti halinde gümrük yükümlülüğü hangi tarihte başlar?",
+     "cevap": "Eşyanın ilgili rejime tabi tutulduğu tarihte başlar.",
+     "dayanak": "GK md. 184/2-b",
+     "kanit": "kullanımı nedeniyle indirimli ya da sıfır ithalat vergi oranı uygulanmasına ilişkin bir koşula uyulmadığının sonradan tespiti halinde, ilgili rejime tabi tutulduğu tarihte,"
+    },
+    {
+     "alt_konu": "Geçici depolama veya rejim yükümlülüklerinin yerine getirilmemesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçici depolamadan veya rejimin uygulanmasından doğan yükümlülüklerin yerine getirilmemesi nedeniyle doğan gümrük yükümlülüğünde yükümlü kimdir?",
+     "cevap": "Bu yükümlülükleri yerine getirmesi gereken kişi ya da eşyanın rejime tabi tutulması için konulmuş koşullara uyması gereken kişidir.",
+     "dayanak": "GK md. 184/3",
+     "kanit": "Yükümlü, ithalat vergilerine tabi eşyanın geçici depolanmasından veya tabi tutulduğu gümrük rejiminin uygulanmasından doğan yükümlülükleri yerine getirmesi gereken kişi ya da söz konusu rejime tabi tutulması için konulmuş koşullara uyması gereken kişidir."
+    },
+    {
+     "alt_konu": "Serbest bölgede kanuna aykırı tüketim veya kullanım",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest bölgede bulunan ithalat vergilerine tabi eşyanın kaybolması ve kaybın kanıtlanamaması halinde eşya ne sayılır?",
+     "cevap": "Eşya serbest bölgede tüketilmiş veya kullanılmış sayılır.",
+     "dayanak": "GK md. 185/1",
+     "kanit": "Eşyanın kaybolması ve bu kaybın kanıtlanamaması halinde, eşya serbest bölgede tüketilmiş veya kullanılmış sayılır."
+    },
+    {
+     "alt_konu": "Serbest bölgede kanuna aykırı tüketim veya kullanım",
+     "soru": "4458 sayılı Gümrük Kanununa göre kaybolan eşyanın serbest bölgede tüketilmiş sayıldığı ve tüketen veya kullananların sorumluluğuna ilişkin hükmün uygulanamadığı hallerde gümrük vergilerini ödemekle yükümlü kişi kimdir?",
+     "cevap": "Eşyanın gümrük idarelerince bilinen en son kullanıcısıdır.",
+     "dayanak": "GK md. 185/3",
+     "kanit": "eşyanın gümrük idarelerince bilinen en son kullanıcısı, gümrük vergilerini ödemekle yükümlü kişidir."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünün doğmamış sayıldığı haller",
+     "soru": "4458 sayılı Gümrük Kanununa göre yükümlülüklerin yerine getirilememesinin hangi nedenlerden kaynaklanan tahribat veya kayıptan ileri geldiğinin kanıtlanması halinde ithalat nedeniyle gümrük yükümlülüğü doğmuş sayılmaz?",
+     "cevap": "Eşyanın tahrip olmasının veya tekrar yerine konulamaması şeklinde kaybının eşyanın özelliklerine bağlı bir nedenden, beklenmeyen hal veya mücbir sebepten ya da gümrük idarelerinin izninden kaynaklandığının kanıtlanması halinde.",
+     "dayanak": "GK md. 186/1",
+     "kanit": "eşyanın tahrip olmasının veya tekrar yerine konulamaması şeklinde kaybının, eşyanın özelliklerine bağlı bir nedenden veya beklenmeyen hal veya mücbir sebepten ya da gümrük idarelerinin izninden kaynaklandığını kanıtlaması halinde, ithalat nedeniyle gümrük yükümlülüğü doğmuş sayılmaz."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünün doğmamış sayıldığı haller",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın \"tekrar yerine konulamaz şekilde kaybı\" neyi ifade eder?",
+     "cevap": "Eşyanın kullanılamaz hale gelmiş olmasını ifade eder.",
+     "dayanak": "GK md. 186/1",
+     "kanit": "Eşyanın tekrar yerine konulamaz şekilde kaybı, bunun kullanılamaz hale gelmiş olmasını ifade eder."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünün doğmamış sayıldığı haller",
+     "soru": "4458 sayılı Gümrük Kanununa göre nihai kullanımı nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma giren eşyanın gümrük idarelerinin izniyle ihraç veya yeniden ihracı gümrük yükümlülüğü doğurur mu?",
+     "cevap": "Hayır; bu halde ithalat nedeniyle bir gümrük yükümlülüğü doğmuş sayılmaz.",
+     "dayanak": "GK md. 186/2",
+     "kanit": "gümrük idarelerinin izni ile ihraç veya yeniden ihraç edilmesi halinde de ithalat nedeni ile bir gümrük yükümlülüğü doğmuş sayılmaz."
+    },
+    {
+     "alt_konu": "Nihai kullanım eşyasında atık-artıklar ve ödenmiş vergilerin indirimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre nihai kullanım eşyası için tahribat nedeniyle gümrük yükümlülüğünün doğmadığı kabul edildiğinde, tahribattan kaynaklanan atık ve artıklar hangi statüde sayılır?",
+     "cevap": "Serbest dolaşımda olmayan eşya sayılır.",
+     "dayanak": "GK md. 187/1",
+     "kanit": "söz konusu fıkrada belirtilen tahribattan kaynaklanan atık ve artıklar serbest dolaşımda olmayan eşya sayılır."
+    },
+    {
+     "alt_konu": "Nihai kullanım eşyasında atık-artıklar ve ödenmiş vergilerin indirimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre nihai kullanım nedeniyle indirimli veya sıfır oranla serbest dolaşıma giren eşya için sonradan gümrük vergileri tahakkuk ettiğinde, serbest dolaşıma giriş sırasında ödenmiş vergiler ne yapılır?",
+     "cevap": "Serbest dolaşıma giriş sırasında ödenen gümrük vergileri tutarı, tahakkuk eden gümrük vergileri tutarından indirilir.",
+     "dayanak": "GK md. 187/2",
+     "kanit": "serbest dolaşıma giriş sırasında ödenen gümrük vergileri tutarı, tahakkuk eden gümrük vergileri tutarından indirilir."
+    },
+    {
+     "alt_konu": "İhracat vergisine tabi eşyada yükümlülüğün başlaması",
+     "soru": "Gümrük Yönetmeliğine göre ihracat vergilerine tabi eşyada basitleştirilmiş usulde yapılan beyanlarda gümrük yükümlülüğü hangi tarihte başlar?",
+     "cevap": "Basitleştirilmiş işlemlere ilişkin beyannamenin ya da faturanın tescil edildiği ya da tescil hükmünde olan kayıt işleminin yapıldığı tarihte başlar.",
+     "dayanak": "GY md. 488/1",
+     "kanit": "basitleştirilmiş usulde yapılan beyanlarda basitleştirilmiş işlemlere ilişkin beyannamenin ya da faturanın tescil edildiği ya da tescil hükmünde olan kayıt işleminin yapıldığı tarihte başlar."
+    },
+    {
+     "alt_konu": "İhracat vergisine tabi eşyanın beyansız çıkarılması ve muafiyet şartlarına uyulmaması",
+     "soru": "4458 sayılı Gümrük Kanununa göre ihracat vergilerine tabi eşyanın gümrük beyanında bulunulmaksızın Türkiye Gümrük Bölgesi dışına çıkartılması halinde gümrük yükümlülüğü hangi tarihte başlar?",
+     "cevap": "Eşyanın fiilen Türkiye Gümrük Bölgesi dışına çıktığı tarihte başlar.",
+     "dayanak": "GK md. 189/2",
+     "kanit": "Gümrük yükümlülüğü, söz konusu eşyanın fiilen Türkiye Gümrük Bölgesi dışına çıktığı tarihte başlar."
+    },
+    {
+     "alt_konu": "İhracat vergisine tabi eşyanın beyansız çıkarılması ve muafiyet şartlarına uyulmaması",
+     "soru": "4458 sayılı Gümrük Kanununa göre ihracat vergilerinden muafiyetle gönderilmesine izin verilen eşyanın izin verilen yerden başka bir varış yerine ulaşması halinde gümrük yükümlülüğü ne zaman başlar?",
+     "cevap": "Eşyanın izin verilen yerden başka bir varış yerine ulaştığı tarihte başlar; bu tarih tespit edilemezse muafiyet şartlarına uyulduğunu kanıtlayan belgenin ibrazı için rejim hak sahibine verilen sürenin bittiği tarihte başlar.",
+     "dayanak": "GK md. 190/2",
+     "kanit": "gümrük yükümlülüğü, izin verilen yerden başka bir varış yerine ulaştığı tarihte başlar. ... Söz konusu belgenin ibraz edilememesi halinde, verilen sürenin bittiği tarihte gümrük yükümlüğü başlar."
+    },
+    {
+     "alt_konu": "Yasak ve kısıtlamaya tabi eşyada gümrük yükümlülüğü",
+     "soru": "4458 sayılı Gümrük Kanununa göre sahte paralar ile tıbbi ve bilimsel amaçlı kullanımları yetkili idarelerce denetlenen ve ekonomik dolaşıma girmeyen narkotik maddelerin Türkiye Gümrük Bölgesine kanuna aykırı girmesi halinde gümrük yükümlülüğü doğar mı?",
+     "cevap": "Hayır; kaçakçılık ve diğer ceza kanunlarına göre işlem yapılacağından gümrük yükümlülüğü doğmaz. Ancak gümrük vergilerinin ceza tespitine esas olması veya cezai kovuşturmanın gümrük yükümlülüğünün varlığına bağlı olması hallerinde yükümlülük doğmuş sayılır.",
+     "dayanak": "GK md. 191",
+     "kanit": "kaçakçılık ve diğer ceza koyan kanun hükümlerine göre işlem yapılacağından, gümrük yükümlülüğü doğmaz. ... gümrük vergilerinin ceza tespitine esas olması veya cezai kovuşturmaların gümrük yükümlülüğünün varlığına bağlı olması hallerinde, gümrük yükümlülüğü doğmuş sayılır."
+    },
+    {
+     "alt_konu": "Kanuna aykırılık hallerinde tercihli tarife ve muafiyetin uygulanması",
+     "soru": "4458 sayılı Gümrük Kanununa göre kanuna aykırılık nedeniyle gümrük yükümlülüğü doğduğu hallerde tercihli tarife veya vergi muafiyeti hangi şartlarla uygulanabilir?",
+     "cevap": "İlgili kişinin hileli bir davranış veya ihmalinin olmaması ve tercihli tarife veya muafiyet için gerekli diğer şartların yerine getirildiğinin ilgili kişi tarafından ispat edilmesi şartıyla uygulanır.",
+     "dayanak": "GK md. 191/A",
+     "kanit": "a) İlgili kişinin hileli bir davranış veya ihmalinin olmaması, b) Tercihli tarife veya muafiyetin uygulanması için gerekli olan diğer şartların yerine getirildiğinin ilgili kişi tarafından ispat edilmesi,"
+    },
+    {
+     "alt_konu": "Birden çok yükümlünün müteselsil sorumluluğu",
+     "soru": "4458 sayılı Gümrük Kanununa göre aynı gümrük vergilerinin ödenmesinden birden çok yükümlünün sorumlu olduğu hallerde bu kişilerin sorumluluğunun niteliği nedir?",
+     "cevap": "Söz konusu vergilerin ödenmesinden müştereken ve müteselsilen sorumludurlar.",
+     "dayanak": "GK md. 192",
+     "kanit": "Aynı gümrük vergilerinin ödenmesinden birden çok yükümlünün sorumlu olduğu hallerde, bunlar söz konusu vergilerin ödenmesinden müştereken ve müteselsilen sorumludurlar."
+    },
+    {
+     "alt_konu": "Vergi tutarının belirlenmesinde esas alınacak tarih",
+     "soru": "4458 sayılı Gümrük Kanununa göre bir eşyaya uygulanacak ithalat veya ihracat vergileri tutarı, kural olarak hangi tarihteki vergi oranlarına göre belirlenir?",
+     "cevap": "Eşyaya ilişkin gümrük yükümlülüğünün başladığı tarihteki vergi oranları ve diğer vergilendirme unsurlarına göre belirlenir.",
+     "dayanak": "GK md. 193/1",
+     "kanit": "bu eşyaya ilişkin gümrük yükümlülüğünün başladığı tarihteki vergi oranları ve diğer vergilendirme unsurlarına göre belirlenir."
+    },
+    {
+     "alt_konu": "Vergi tutarının belirlenmesinde esas alınacak tarih",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük yükümlülüğünün başladığı tarihin kesin olarak tespit edilemediği hallerde vergilendirmede hangi tarih esas alınır?",
+     "cevap": "Gümrük idarelerinin bu eşya için bir gümrük yükümlülüğü başladığı sonucuna vardıkları tarih esas alınır; elde edilen bilgiler daha önceki bir tarihi gösteriyorsa, yükümlülüğün başladığının anlaşıldığı en eski tarihteki oranlar uygulanır.",
+     "dayanak": "GK md. 193/2",
+     "kanit": "gümrük idarelerinin bu eşya için bir gümrük yükümlülüğü başladığı sonucuna vardıkları tarihtir. ... söz konusu yükümlülüğün başladığının anlaşıldığı en eski tarihteki vergi oranları ve diğer vergilendirme unsurlarına dayanılarak tespit edilir."
+    },
+    {
+     "alt_konu": "Hatalı beyan sonucu eksik alınan vergilere faiz",
+     "soru": "4458 sayılı Gümrük Kanununa göre beyan sahibinin hatalı beyanı nedeniyle noksan alındığı tespit edilen gümrük vergilerinin kesinleşmeden önce ödenmek istenmesi halinde faiz nasıl hesaplanır?",
+     "cevap": "Faiz ödeme tarihine kadar hesaplanarak vergiler ile birlikte tahsil edilir.",
+     "dayanak": "GK md. 193/3",
+     "kanit": "Gümrük vergilerinin kesinleşmesinden önce ödenmek istenmesi durumunda faiz, ödeme tarihine kadar hesaplanarak vergiler ile birlikte tahsil edilir."
+    },
+    {
+     "alt_konu": "Telafi edici vergi (dahilde işleme ürünlerinde ithalata ilişkin yükümlülük)",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme rejiminde izin kapsamında önceden ihracat yapılması halinde, telafi edici vergiye konu ithalat vergileri hangi tarihteki oranlara göre hesaplanır ve ne zaman ödenir?",
+     "cevap": "Önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki vergi oranı ve diğer vergilendirme unsurlarına göre hesaplanır; önceden ihracata tekabül eden ithalatın yapılması esnasında ödenir.",
+     "dayanak": "GK md. 194/3",
+     "kanit": "bu vergi önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki vergi oranı ve diğer vergilendirme unsurlarına göre hesaplanarak, önceden ihracata tekabül eden ithalatın yapılması esnasında ödenir."
+    },
+    {
+     "alt_konu": "Telafi edici vergi (dahilde işleme ürünlerinde ithalata ilişkin yükümlülük)",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme rejiminde bir ihracat beyannamesine ilişkin fazla ödenen ithalat vergilerinin, aynı izin kapsamındaki başka bir ihracat beyannamesine ilişkin eksik ödenen vergilere mahsubunun usul ve esaslarını belirlemeye kim yetkilidir?",
+     "cevap": "Cumhurbaşkanı yetkilidir.",
+     "dayanak": "GK md. 194/5",
+     "kanit": "eksik  ödenen ithalat vergilerine mahsup işlemi yapılmasına ilişkin usul ve esasları belirlemeye Cumhurbaşkanı[196] yetkilidir."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünü etkilemeyecek ihmaller",
+     "soru": "Gümrük Yönetmeliğine göre süre aşımı gibi ihmallerin, geçici depolama veya gümrük rejiminin doğru işleyişini etkilemeyip gümrük yükümlülüğü doğurmaması için hangi koşullar aranır?",
+     "cevap": "Eşyanın gümrük kontrolünden yasadışı olarak çıkarılmasına teşebbüs olmaması, ihmalin ilgili kişi tarafından kasten yapılmamış olması ve eşyanın durumunu düzenleyen tüm gerekli işlemlerin yerine getirilmesi koşulları aranır.",
+     "dayanak": "GY md. 486/1",
+     "kanit": "Eşyanın gümrük kontrolünden yasadışı olarak çıkarılmasına teşebbüs olmaması, ilgili kişi tarafından kasten yapılmış bulunmaması ve eşyanın durumunu düzenleyen tüm gerekli işlemlerin yerine getirilmesi koşuluyla"
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünü etkilemeyecek ihmaller",
+     "soru": "Gümrük Yönetmeliğine göre transit rejimi altındaki eşyanın varış gümrük idaresine verilen süre aşılarak sunulması, gerekli koşullar sağlanmışsa gümrük yükümlülüğü doğurur mu?",
+     "cevap": "Hayır; teşebbüs ve kasıt bulunmaması ile gerekli işlemlerin yerine getirilmesi koşuluyla bu ihmal rejimin doğru işleyişini etkilemez. Ancak bu durum, izin belgelerinin geri alınmasını veya iptalini engellemez.",
+     "dayanak": "GY md. 486/1-b, 486/3",
+     "kanit": "b) Transit rejimi altındaki eşyanın varış gümrük idaresine sunulması için verilen süre aşılarak ilgili idareye sunulması, ... izin belgelerinin geri alınmasını veya iptalini engellemez."
+    },
+    {
+     "alt_konu": "Kabul edilebilir kayıplar ve telef/kaybın kanıtlanması",
+     "soru": "Gümrük Yönetmeliğine göre gümrük idareleri, yükümlülük doğup doğmadığının değerlendirilmesinde kayıp miktarını hangi durumda dikkate alır?",
+     "cevap": "İlgili kişinin isteği üzerine, kayıpların sadece eşyanın mahiyetinden kaynaklandığı ve ilgili kişinin ihmalinden ya da hileli işlerinden kaynaklanmadığının gösterilebildiği durumlarda dikkate alır.",
+     "dayanak": "GY md. 487/1",
+     "kanit": "ilgili kişinin isteği üzerine, ortaya çıkan kayıpların sadece eşyanın mahiyetinden kaynaklandığı ve ilgili kişinin ihmalinden ya da hileli işlerinden kaynaklanmadığının gösterilebildiği durumlarda, kayıp miktarını dikkate alır."
+    },
+    {
+     "alt_konu": "Kabul edilebilir kayıplar ve telef/kaybın kanıtlanması",
+     "soru": "Gümrük Yönetmeliğine göre gümrük idarelerinin izninden kaynaklanmayan hallerde eşyanın telef olması veya kaybı nasıl kanıtlanır?",
+     "cevap": "Kural olarak mahkeme kararı ile kanıtlanır; suçüstü şeklindeki hırsızlıklar Cumhuriyet Savcılığınca verilen belge ile, herkesçe bilinen ve duyulan olaylar ise o yerin en büyük mülki idare amirince verilecek belge ile kanıtlanır.",
+     "dayanak": "GY md. 487/4",
+     "kanit": "eşyanın telef olması veya kaybı mahkeme kararı ile kanıtlanır. ... Suçüstü şeklindeki hırsızlıklar, hazırlık tahkikatı üzerine Cumhuriyet Savcılığınca verilen belge ile ... o yerin en büyük mülki idare amiri tarafından verilecek belge ile"
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünün sona ermesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın bir gümrük rejimi kapsamında tesliminden önce zapt ve müsadere edilmesi, imha edilmesi veya gümrüğe terk edilmesi gümrük yükümlülüğünü sona erdirir mi?",
+     "cevap": "Evet; 6183 sayılı Kanun hükümleri saklı kalmak üzere, eşyanın tesliminden önce zapt ve müsadere edilmesi veya imha edilmesi ile Kanuna göre imha veya terk edilmesi gümrük yükümlülüğünü sona erdirir.",
+     "dayanak": "GK md. 208/d",
+     "kanit": "d) Eşyanın bir gümrük rejimi kapsamında tesliminden önce zapt ve müsadere edilmesi veya imha edilmesi, 164 üncü madde uyarınca imha veya terk edilmesi,"
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünün sona ermesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme rejimi altında elde edilen Türk menşeli eşyanın tercihli tarifeden yararlanması nedeniyle doğan (telafi edici vergiye ilişkin) gümrük yükümlülüğü hangi halde ortadan kalkar?",
+     "cevap": "Bu işlemlerin iptal edilmesiyle ortadan kalkar.",
+     "dayanak": "GK md. 209",
+     "kanit": "194 üncü maddenin 1 inci fıkrası uyarınca doğan gümrük yükümlülüğü, bu işlemlerin iptal edilmesiyle ortadan kalkar."
+    }
+   ]
+  },
+  {
+   "kaynak": "46-teminat ve faiz.txt",
+   "konu": "Teminat ve Faiz",
+   "mevzuat": "GK md. 202-207; GY md. 493-498; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 22",
+   "cikmis_sayisi": 4,
+   "cikmis": [
+    "2022-92: GY 495'te sayılan teminatlar; kesin kefalet senedi teminat olarak kabul edilmez.",
+    "2024-77: Götürü teminat transit rejiminde kullanılamaz.",
+    "2024-78: Mevzuattaki teminat türleri; 'yaygın toplu teminat' yoktur.",
+    "2025-29: Firmaların garanti mektupları teminat olarak kabul edilmez."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Teminatı verecek kişi ve teminat tutarı",
+     "dayanak": "GK md. 202/1-2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kamu garanti mektupları ve teminat aranmayacak hallerin belirlenmesi",
+     "dayanak": "GK md. 202/3-4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-29"
+     ],
+     "not": "Firmaların garanti mektuplarının kabul edilmediği (kamu idarelerininkilerin kabul edildiği) sorulmuş. Sorulmayan: teminat aranmayacak ve kısmi teminat uygulanacak halleri belirleme yetkisi."
+    },
+    {
+     "baslik": "Toplu teminat",
+     "dayanak": "GK md. 203; GY md. 493/1-3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-78"
+     ],
+     "not": "Teminat türlerinin adları sorulmuş. Sorulmayan: toplu teminatın iki veya daha fazla işlemi kapsaması, transit hariç olması ve diğer idarelerde geçerliliği."
+    },
+    {
+     "baslik": "Teminat tutarının belirlenmesi",
+     "dayanak": "GK md. 204",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teminatların 6183 sayılı Kanuna tabi olması ve yabancı paralar",
+     "dayanak": "GK md. 205",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ek teminat ve teminatın çözülmesi",
+     "dayanak": "GK md. 206",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teminatlı işlemlerde gecikme zammı",
+     "dayanak": "GK md. 207",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Götürü teminatın kapsamı ve yararlananlar",
+     "dayanak": "GY md. 493/4-7",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-77"
+     ],
+     "not": "Götürü teminatın transit rejiminde kullanılamaması sorulmuş (OKSB sahiplerinin götürü teminattan yararlanması 2022-94 ve 2025-98'de OKSB konusu olarak ölçülmüş). Sorulmayan: antrepo işleticilerinin yararlanması, ÖTV (I) sayılı liste istisnası."
+    },
+    {
+     "baslik": "Götürü teminat tutarı",
+     "dayanak": "GY md. 494",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kabul olunabilecek teminatlar ve garanti mektubu yaptırımı",
+     "dayanak": "GY md. 495",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-92",
+      "2025-29"
+     ],
+     "not": "Kabul edilen teminat türleri sorulmuş. Sorulmayan: esham ve tahvilatın %15 noksanıyla değerlendirilmesi, garanti mektubu ile işlemde yükümlülüğün yerine getirilmemesinin bir yıllık yaptırımı."
+    },
+    {
+     "baslik": "Teminatın değiştirilmesi ve kabulü",
+     "dayanak": "GY md. 496-497",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teminat mektuplarının takibi ve götürü teminatın askıya alınması",
+     "dayanak": "GY md. 498",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tecil ve taksitlendirmede kabul edilecek teminatlar",
+     "dayanak": "Tahsilat İşlemleri Tebliği (Seri No 2) md. 22",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Teminatı verecek kişi ve teminat tutarı",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük vergilerinin ve diğer amme alacaklarının ödenmesini sağlamak üzere teminat hangi tutarda ve kim tarafından verilir?",
+     "cevap": "Söz konusu vergiler ve diğer amme alacakları tutarı kadar, yükümlü veya yükümlü olması muhtemel kişi tarafından verilir; gümrük idareleri teminat vermesi istenen kişinin yerine başka bir kişinin teminat vermesini de kabul edebilir.",
+     "dayanak": "GK md. 202/1-2",
+     "kanit": "bu teminat söz konusu vergiler ve diğer amme alacakları tutarı kadar yükümlü veya yükümlü olması muhtemel kişi tarafından verilir. ... Gümrük idareleri, teminat vermesi istenen kişinin yerine başka bir kişinin de teminat vermesini kabul edebilir."
+    },
+    {
+     "alt_konu": "Kamu garanti mektupları ve teminat aranmayacak hallerin belirlenmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre teminat aranmayacak ve kısmi teminat uygulanacak halleri belirlemeye kim yetkilidir?",
+     "cevap": "Cumhurbaşkanı yetkilidir.",
+     "dayanak": "GK md. 202/4",
+     "kanit": "Teminat aranmayacak ve kısmi teminat uygulanacak halleri belirlemeye Cumhurbaşkanı[202] yetkilidir."
+    },
+    {
+     "alt_konu": "Toplu teminat",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idareleri toplu teminat verilmesine hangi durumda izin verir?",
+     "cevap": "Teminat verecek kişilerin talebi üzerine, bir gümrük yükümlülüğünü gerektiren veya gerektirebilecek iki veya daha fazla işlemi kapsamak üzere izin verir.",
+     "dayanak": "GK md. 203",
+     "kanit": "gümrük idareleri, bir gümrük yükümlülüğünü gerektiren veya gerektirebilecek iki veya daha fazla işlemi kapsamak üzere toplu teminat verilmesine izin verirler."
+    },
+    {
+     "alt_konu": "Toplu teminat",
+     "soru": "Gümrük Yönetmeliğine göre toplu teminat sisteminde bir kişinin bir gümrük idaresine verdiği teminat hangi işlemler için kullanılamaz ve diğer idarelerde geçerli midir?",
+     "cevap": "Transit rejimi hariç o kişinin o gümrük idaresindeki bütün gümrük işlemleri için kullanılır, yani transit rejiminde kullanılamaz; takip edilebilir olması halinde diğer gümrük idarelerinde de geçerlidir.",
+     "dayanak": "GY md. 493/1-2",
+     "kanit": "o kişinin o gümrük idaresindeki transit rejimi hariç bütün gümrük işlemleri için kullanılır. ... Takip edilebilir olması halinde söz konusu teminat diğer gümrük idarelerinde de geçerlidir."
+    },
+    {
+     "alt_konu": "Teminat tutarının belirlenmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre teminata konu gümrük vergileri tutarı kesin olarak tespit edilemeyen hallerde teminat tutarı neye göre belirlenir?",
+     "cevap": "Tahakkuk edilen veya edilebilecek gümrük vergilerinin en yüksek tutarı esas alınarak belirlenir; vergiler kesin olarak tespit edilmişse bu miktar esas alınır.",
+     "dayanak": "GK md. 204/1",
+     "kanit": "teminata konu gümrük vergileri tutarının kesin olarak tespiti halinde bu miktar, diğer hallerde ise tahakkuk edilen veya edilebilecek gümrük vergilerinin en yüksek tutarı esas alınarak belirlenir."
+    },
+    {
+     "alt_konu": "Teminatların 6183 sayılı Kanuna tabi olması ve yabancı paralar",
+     "soru": "4458 sayılı Gümrük Kanununa göre yabancı paralar teminat olarak hangi kur üzerinden hesaplanan değerle kabul edilir?",
+     "cevap": "T.C. Merkez Bankası efektif alış kuru üzerinden hesaplanan değeri üzerinden kabul edilir; bu şekilde kabule Kanun metnine göre Müsteşarlık yetkilidir.",
+     "dayanak": "GK md. 205",
+     "kanit": "Yabancı paraların T.C. Merkez Bankası efektif alış kuru üzerinden hesaplanan değeri üzerinden teminat olarak kabulüne Müsteşarlık yetkilidir."
+    },
+    {
+     "alt_konu": "Ek teminat ve teminatın çözülmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre teminatın zaman içinde değerini yitirmesi veya yetersiz kalması halinde gümrük idaresi ne isteyebilir?",
+     "cevap": "Ek teminat verilmesini veya ilk teminatın yeni bir teminat ile değiştirilmesini isteyebilir.",
+     "dayanak": "GK md. 206/1",
+     "kanit": "Teminatın zaman içinde değerini yitirmesi veya yetersiz kalması halinde, ilgili gümrük idaresi ek teminat verilmesini veya ilk teminatın yeni bir teminat ile değiştirilmesini isteyebilir."
+    },
+    {
+     "alt_konu": "Ek teminat ve teminatın çözülmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük yükümlülüğü kısmen sona erdiğinde verilmiş teminat kısmen çözülebilir mi?",
+     "cevap": "Evet; ilgilinin talebi üzerine ve teminatın kısmen çözülmeye uygun olması şartıyla kısmen çözülür. Yükümlülük tamamen sona erdiğinde ise teminat çözülür.",
+     "dayanak": "GK md. 206/2-3",
+     "kanit": "Teminatın alınmasını gerektiren gümrük yükümlülüğü sona erdiğinde teminat çözülür. ... Gümrük yükümlülüğü kısmen sona erdiğinde, ilgilinin talebi üzerine verilmiş teminat kısmen çözülür. Ancak, söz konusu teminatın kısmen çözülmeye uygun olması gerekir."
+    },
+    {
+     "alt_konu": "Teminatlı işlemlerde gecikme zammı",
+     "soru": "4458 sayılı Gümrük Kanununa göre tahakkuk ettirilip tahsili gereken gümrük vergileri için nakdi teminat dışında bir teminat verilmişse gecikme zammı hangi tarihten başlatılır?",
+     "cevap": "Teminatın kabulü tarihinden başlamak üzere 6183 sayılı Kanuna göre tespit edilen gecikme zammı tahsil edilir; teminatın nakdi olması halinde bu hüküm uygulanmaz.",
+     "dayanak": "GK md. 207/1-a",
+     "kanit": "Nakdî teminat dışında, bu Kanuna göre; a) Tahakkuk ettirilip tahsili gereken gümrük vergileri için verilen teminatın kabulü, ... tarihinden başlamak üzere, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre tespit edilen gecikme zammı tahsil edilir."
+    },
+    {
+     "alt_konu": "Teminatlı işlemlerde gecikme zammı",
+     "soru": "4458 sayılı Gümrük Kanununa göre şartlı muafiyet düzenlemesi kapsamında indirimli teminattan faydalanılması durumunda gecikme zammı hangi kısma uygulanır?",
+     "cevap": "Teminatın nakit verilen kısmı dışında kalan kısım ile teminat verilmeyen kısmın tümü için uygulanır.",
+     "dayanak": "GK md. 207/2",
+     "kanit": "gecikme zammı, teminatın nakit verilen kısmı dışında kalan kısım ile teminat verilmeyen kısmın tümü için uygulanır."
+    },
+    {
+     "alt_konu": "Götürü teminatın kapsamı ve yararlananlar",
+     "soru": "Gümrük Yönetmeliğine göre yetkilendirilmiş yükümlü sertifikası veya onaylanmış kişi statü belgesi sahipleri dışında götürü teminat uygulamasından kimler yararlanabilir?",
+     "cevap": "Gümrük Yönetmeliğinin ilgili hükmü uyarınca antrepo işleticileri yararlanabilir.",
+     "dayanak": "GY md. 493/5",
+     "kanit": "a) Yetkilendirilmiş yükümlü sertifikasına veya onaylanmış kişi statü belgesine sahip yükümlüler, b) 527 nci madde uyarınca antrepo işleticileri, yararlanabilir."
+    },
+    {
+     "alt_konu": "Götürü teminatın kapsamı ve yararlananlar",
+     "soru": "Gümrük Yönetmeliğine göre götürü teminat hangi eşyaya ilişkin kamu alacakları için geçerli değildir?",
+     "cevap": "4760 sayılı Özel Tüketim Vergisi Kanununa ekli (I) sayılı listede yer alan eşyaya ilişkin kamu alacakları için geçerli değildir.",
+     "dayanak": "GY md. 493/6",
+     "kanit": "Götürü teminat, 4760 sayılı Özel Tüketim Vergisi Kanununun ekindeki (I) sayılı listede yer alan eşyaya ilişkin kamu alacakları hariç"
+    },
+    {
+     "alt_konu": "Götürü teminat tutarı",
+     "soru": "Gümrük Yönetmeliğine göre götürü teminat sisteminden yararlanmak için verilecek teminat tutarı nasıl belirlenir?",
+     "cevap": "Bir önceki yılda gümrük işlemleri nedeniyle teminat konusu olan toplam değerin %10'udur; tutar yıllık olarak Müsteşarlıkça belirlenir.",
+     "dayanak": "GY md. 494/1, 494/3",
+     "kanit": "Götürü teminat sisteminden yararlanmak için verilecek teminat tutarı bir önceki yılda gümrük işlemleri nedeniyle teminat konusu olan toplam değerin % 10'udur. ... Götürü teminat tutarı, yıllık olarak Müsteşarlıkça belirlenir."
+    },
+    {
+     "alt_konu": "Götürü teminat tutarı",
+     "soru": "Gümrük Yönetmeliğine göre götürü teminat tutarının alt ve üst sınırları nelerdir?",
+     "cevap": "Teminat dahilde işleme rejimi kapsamındaki eşyayı da içeriyorsa 250.000 Avro'dan, dahilde işleme dışındaki işlemleri kapsıyorsa 75.000 Avro'dan az olamaz; 2.000.000 Avro'yu aşmayan tutarda verilebilir.",
+     "dayanak": "GY md. 494/1-a, b",
+     "kanit": "a) Teminatın dahilde işleme rejimi kapsamındaki eşyayı da içermesi halinde 250.000 Avro, dahilde işleme rejimi dışındaki gümrük işlemlerini kapsaması halinde ise 75.000 Avro'dan az olamaz. b) Teminatın 2.000.000 Avro'yu aşmayan tutarda verilmesi mümkündür."
+    },
+    {
+     "alt_konu": "Kabul olunabilecek teminatlar ve garanti mektubu yaptırımı",
+     "soru": "Gümrük Yönetmeliğine göre teminat olarak kabul edilen Hükümetçe belli edilecek Millî Esham ve Tahvilât nasıl değerlendirilir?",
+     "cevap": "Teminatın kabul edilmesine en yakın borsa cetvelleri üzerinden %15 noksanıyla değerlendirilir.",
+     "dayanak": "GY md. 495/1-ç",
+     "kanit": "Bu Esham ve Tahvilât, teminatın kabul edilmesine en yakın borsa cetvelleri üzerinden % 15 noksanıyla değerlendirilir."
+    },
+    {
+     "alt_konu": "Kabul olunabilecek teminatlar ve garanti mektubu yaptırımı",
+     "soru": "Gümrük Yönetmeliğine göre garanti mektubu ile işlem yapılması durumunda yükümlülüklerin tam ve zamanında yerine getirilmemesinin sonucu nedir?",
+     "cevap": "Yükümlüye bir yıl boyunca bu haktan yararlanma izni verilmez.",
+     "dayanak": "GY md. 495/2",
+     "kanit": "Garanti mektubu ile işlem yapılması durumunda, yükümlülüklerin tam ve zamanında yerine getirilmemesi hâlinde yükümlüye bir yıl boyunca bu haktan yararlanma izni verilmez."
+    },
+    {
+     "alt_konu": "Teminatın değiştirilmesi ve kabulü",
+     "soru": "Gümrük Yönetmeliğine göre teminatı veren, verdiği teminatın başka bir teminatla değiştirilmesini kimin izniyle isteyebilir?",
+     "cevap": "İdare amirinin izniyle teminatın kısmen veya tamamen başka bir teminatla değiştirilmesini isteyebilir.",
+     "dayanak": "GY md. 496/1",
+     "kanit": "Teminatı veren, verdiği teminatın, idare amirinin izniyle kısmen veya tamamen başka bir teminat ile değiştirilmesini isteyebilir."
+    },
+    {
+     "alt_konu": "Teminat mektuplarının takibi ve götürü teminatın askıya alınması",
+     "soru": "Gümrük Yönetmeliğine göre gümrük yükümlülüğü karşılığında alınan teminat mektubunun nakde dönüştürülmesinden önce, mektubu veren hak sahibine yükümlülüğe ilişkin sürenin bitiminden kaç gün önce tebligat yapılır?",
+     "cevap": "Sürenin bitiminden yirmi gün önce tebligat yapılır; yükümlülük bu süre içinde yerine getirilmezse teminat mektubu nakde dönüştürülür.",
+     "dayanak": "GY md. 498/1",
+     "kanit": "Teminat mektubunu veren hak sahibine yükümlülüğe ilişkin sürenin bitiminden yirmi gün önce tebligat yapılarak bu yükümlülüğünü yerine getirmemesi halinde teminat mektubunun nakde dönüştürüleceği belirtilir."
+    },
+    {
+     "alt_konu": "Teminat mektuplarının takibi ve götürü teminatın askıya alınması",
+     "soru": "Gümrük Yönetmeliğine göre götürü teminattan yararlanma hakkı geçici olarak askıya alınanların götürü teminat için verdikleri teminat mektupları iade edilir mi?",
+     "cevap": "Hayır, iade edilmez; askıya alma süresi içinde teminata bağlanması gereken gümrük vergileri ve diğer vergilerin tümü ayrıca teminata bağlanır.",
+     "dayanak": "GY md. 498/3",
+     "kanit": "götürü teminat sisteminden yararlanmak için vermiş oldukları teminat mektupları iade edilmez ve askıya alma süresi içinde teminata bağlanması gereken gümrük vergileri ve diğer vergilerin tümü"
+    },
+    {
+     "alt_konu": "Tecil ve taksitlendirmede kabul edilecek teminatlar",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tecil ve taksitlendirme işlemlerinde gümrük idarelerince kabul edilecek teminatlar nelerdir?",
+     "cevap": "Para; bankalar ve özel finans kurumlarınca verilen süresiz teminat mektupları; hazine bonosu; devlet tahvili; gümrük idarelerince haczedilmiş taşınır ve taşınmaz mallar.",
+     "dayanak": "Tahsilat İşlemleri Tebliği (Seri No 2) md. 22/1",
+     "kanit": "a) Para, b) Bankalar ve özel finans kurumları tarafından verilen süresiz teminat mektupları, c) Hazine bonosu, ç) Devlet tahvili, d) Gümrük idarelerince haczedilmiş taşınır ve taşınmaz mallar."
+    },
+    {
+     "alt_konu": "Tecil ve taksitlendirmede kabul edilecek teminatlar",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tecil ve taksitlendirmede maddi teminat gösteremeyen borçlu ne gösterebilir ve şahsi kefalet hangi belgeyle tesis edilir?",
+     "cevap": "Muteber bir şahsı müteselsil kefil ve müşterek müteselsil borçlu olarak gösterebilir; şahsi kefaletin noter onaylı Tecil Kefalet Senedi ile tesis edilmesi gerekir.",
+     "dayanak": "Tahsilat İşlemleri Tebliği (Seri No 2) md. 22/7",
+     "kanit": "borçlu, maddi teminat gösteremediği takdirde, muteber bir şahsı müteselsil kefil ve müşterek müteselsil borçlu olarak gösterebilir. ... noter onaylı Tecil Kefalet Senedi ile tesis edilmesi gerekir."
+    }
+   ]
+  }
+ ]
+}

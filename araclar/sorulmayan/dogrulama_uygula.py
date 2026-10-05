@@ -20,6 +20,13 @@ for f in sorted(DOG.glob('V*.json')):
         g, fi, qi = s['key'].split('|'); silinecek[(g, int(fi))].add(int(qi))
         q = G[g]['dosyalar'][int(fi)]['soru_cevap'][int(qi)]
         oz['sil'].append({'key': s['key'], 'soru': q['soru'], 'cevap': q['cevap'], 'gerekce': s.get('gerekce', '')})
+# Birleştirme denetiminde yakalanıp elle düzeltilenler
+for d in json.load(open(HERE / 'elle_duzeltmeler.json', encoding='utf-8'))['duzelt']:
+    g, fi, qi = d['key'].split('|'); q = G[g]['dosyalar'][int(fi)]['soru_cevap'][int(qi)]
+    eski = {k: q[k] for k in ('soru', 'cevap', 'dayanak')}
+    for k in ('soru', 'cevap', 'dayanak', 'kanit'):
+        if d.get(k): q[k] = d[k]
+    oz['duzelt'].append({'key': d['key'], 'eski': eski, 'yeni': {k: q[k] for k in ('soru', 'cevap', 'dayanak')}, 'gerekce': 'Elle: ' + d['gerekce']})
 for (g, fi), qs in silinecek.items():
     x = G[g]['dosyalar'][fi]
     x['soru_cevap'] = [q for i, q in enumerate(x['soru_cevap']) if i not in qs]

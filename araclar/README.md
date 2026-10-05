@@ -7,3 +7,4 @@
   - `not.js` ders notu (6 blok).
 - `gmy-deneme/` — 2025 GMY sınavı modelinde 100 soruluk deneme: `batch_A..E.py` soru verileri (A genel kültür, B–E gümrük), `kontrol_batch.py` kural denetimi, `birlestir.py` kanıt denetimi + harf dağılımı, `cikti.py`/`cikti.js` Markdown/Word çıktısı.
 - `gmy-deneme2/` — Prompt 3 kurallarıyla 100 soruluk deneme 2: `batch_GK/G1–G4.py` soru verileri, `kontrol3.py` Prompt 3 denetimi, `birlestir2.py` kanıt denetimi + harf dağılımı (art arda aynı harf yok) + gerekçeye harf yazımı, `cikti2.py/.js` çıktı; `cikmis_envanter.tsv` ve `cikmis_ozet.md` 2021–2025 GMY sınavlarının bilgi alanı analizi (400 gümrük sorusu).
+- `sorulmayan/` — 2021–2025 çıkmış sorularla mevzuatın hüküm bazında karşılaştırması ve sorulmayan hükümlerden 2.679 açık uçlu soru–cevap (SC1): grup çıktıları `json/`, bağımsız doğrulama, birleştirme ve Markdown/Word çıktı betikleri (ayrıntı: `sorulmayan/README.md`).

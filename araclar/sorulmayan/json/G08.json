@@ -1,0 +1,1527 @@
+{
+ "grup": "G08",
+ "dosyalar": [
+  {
+   "kaynak": "28-antrepo rejimi.txt",
+   "konu": "Gümrük antrepo rejimi (Kanun ve Yönetmelik hükümleri)",
+   "mevzuat": "GK md. 93-107; GY md. 328-348",
+   "cikmis_sayisi": 16,
+   "cikmis": [
+    "2021-23: Antrepo işleticisi izni için Türkiye'de yerleşik olma şartı (GK 95-96 hükümleri)",
+    "2021-41: Antrepodaki eşya için beyanname tescilinden itibaren 30 gün",
+    "2021-54: İşleticinin stok kaydı tuttuğu ve noksanlıktan sorumlu genel antrepo A tipi",
+    "2021-63: Antrepoda 30 gün içinde işlemi bitmeyen eşya ve sayımda fazla çıkan eşyanın tasfiyesi",
+    "2022-68: İzin hak sahibinin depolama yerinin antrepo addedildiği E tipi antrepo",
+    "2022-70: Belirgin farklı cinste eşya için yaptırım (tanım GY 328/2'de)",
+    "2022-72: C tipi özel, F tipi genel; mağaza izni Bakanlık; kalış süresi sınırsız, izinler süresiz",
+    "2023-35: Antrepolarda elleçleme izni gümrük müdürlüğünce verilir",
+    "2023-62: Antrepoda beyanname tescilinden itibaren 30 gün",
+    "2023-74: Antrepo rejimi altında kalış süresi sınırsız",
+    "2023-85: Genel antrepolar A, B, F tipi",
+    "2024-63: İşleticisi ve kullanıcısı aynı kişi olan antrepo ve gümrüksüz satış mağazası özel antrepodur",
+    "2024-64: Özel antrepoda devirde beş iş günü içinde çıkarılma şartı",
+    "2024-67: Antrepo sayımında fazla eşya çıkması kaçakçılık değil, GK 236 idari yaptırım",
+    "2025-81: Geçici çıkışlı elleçlemeden yalnız antrepo rejimine tabi eşya yararlanır; ihraç eşyasında teminat aranmaz",
+    "2025-82: Antrepoya konan eşya gümrük gözetimi ve kontrolü altındadır"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Antrepo rejiminin kapsamı; işletici ve kullanıcı tanımları",
+     "dayanak": "GK md. 93; GY md. 328/1",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-82",
+      "2021-23"
+     ],
+     "not": "Antrepodaki eşyanın gümrük gözetimi altında olduğu (2025-82) ve işletici tanımı (2021-23 kökü) ölçüldü; kullanıcı tanımı sorulmadı."
+    },
+    {
+     "baslik": "Genel ve özel antrepo ayrımı",
+     "dayanak": "GK md. 94; GY md. 328/1-b,c",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-72",
+      "2023-85"
+     ],
+     "not": "Fuar ve sergilerin antrepo sayılması 29 numaralı dosyada GY md. 551 alt konusunda ele alındı."
+    },
+    {
+     "baslik": "Antrepo ve gümrük kapısı mağazası izni, yerleşiklik ve işletici hakkının devri",
+     "dayanak": "GK md. 95",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-23",
+      "2022-72"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepo işleticisinin sorumlulukları",
+     "dayanak": "GK md. 96",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-23"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Genel antrepoda yükümlülüklerin kullanıcıya bırakılması ve kullanıcının sorumluluğu",
+     "dayanak": "GK md. 97",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepo işleticisinden teminat ve izinsiz çıkış yasağı",
+     "dayanak": "GK md. 98",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-81"
+     ],
+     "not": "İhraç edilmek üzere konulan eşyada teminat aranmadığı soruldu; fuar-sergi ve muaf eşya istisnası ile teminat alınmış olsa bile izinsiz çıkış yasağı sorulmadı."
+    },
+    {
+     "baslik": "Serbest dolaşımdaki eşyanın ihraç amacı dışında antrepoya konulması ve işçilik",
+     "dayanak": "GK md. 100; GY md. 342",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın antrepoda kalış süresi",
+     "dayanak": "GK md. 101; GY md. 346",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-41",
+      "2021-63",
+      "2022-72",
+      "2023-62",
+      "2023-74"
+     ],
+     "not": "Sınırsız kalış ve beyanname tescilinden itibaren 30 gün soruldu; 30 gün içinde başka rejim beyanında dikkate alınacak süre ve süre tahdidinde başlangıç tarihi sorulmadı."
+    },
+    {
+     "baslik": "Antrepolarda elleçleme ve izin makamı",
+     "dayanak": "GK md. 102; GY md. 334-335",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-35",
+      "2025-81"
+     ],
+     "not": "Antrepo içi elleçlemede gümrük müdürlüğü izni ve geçici çıkışlı elleçlemeden yalnız antrepo rejimine tabi eşyanın yararlanması soruldu; antrepo dışı elleçlemede Bölge Müdürlüğü, başvuru usulü, tarım ürünlerinde sınırlama, savunma sanayi eşyası, geçici çıkan eşyanın tespiti, üçüncü ülke girdilerinin vergilendirilmesi sorulmadı."
+    },
+    {
+     "baslik": "Geçici çıkış, kesin çıkış ve basitleştirilmiş usuller",
+     "dayanak": "GK md. 103/1; GY md. 338",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepolar arasında eşya nakli",
+     "dayanak": "GK md. 103/2; GY md. 339",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepo masrafları, gümrük kıymeti ve vergilendirme unsurları",
+     "dayanak": "GK md. 104; GY md. 345",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yıllık sayım ve sayım sonuçları",
+     "dayanak": "GK md. 105",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-63",
+      "2024-67"
+     ],
+     "not": "Sayımda fazla çıkan eşyanın tasfiyesi ve kaçakçılık sayılmadığı soruldu; örnekleme yöntemiyle sayım sorulmadı (noksanlık yaptırımı 29 numaralı dosyada GY md. 538 ile ele alındı)."
+    },
+    {
+     "baslik": "İşletici ve kullanıcının miktar sorumluluğu, fire ve sigorta",
+     "dayanak": "GK md. 106",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracata ilişkin önlemlerden yararlanan serbest dolaşımdaki eşya",
+     "dayanak": "GK md. 107; GY md. 340",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Belirgin şekilde farklı cinste eşya tanımı",
+     "dayanak": "GY md. 328/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-70"
+     ],
+     "not": "2022-70'te bu tanıma dayalı ceza (GK 236/5) soruldu; tanımın unsurları ölçülmedi."
+    },
+    {
+     "baslik": "Antrepo tipleri (A, B, C, D, E, F)",
+     "dayanak": "GY md. 329/1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-54",
+      "2022-68",
+      "2022-72",
+      "2023-85",
+      "2024-63"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepo sayılan yerler, geçici depolama yerlerinin antrepo onayı ve tanımlama",
+     "dayanak": "GY md. 329/2-7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepoya konulabilecek eşya; serbest dolaşımdaki eşyanın çıkışı ve taşıma işleri organizatörleri",
+     "dayanak": "GY md. 330/1-2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tehlikeli, özel tertibat gerektiren ve izne tabi ürünler",
+     "dayanak": "GY md. 330/3-8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bölge müdürlüğü izniyle antrepoya konulabilecek eşya",
+     "dayanak": "GY md. 331",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Özel hallerde eşyanın rejime girişi",
+     "dayanak": "GY md. 332",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepodaki eşyanın satış suretiyle devri",
+     "dayanak": "GY md. 333/1-3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Özel antrepoda eşyanın devri",
+     "dayanak": "GY md. 333/4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-64"
+     ],
+     "not": "Beş iş günü içinde çıkarılma şartı soruldu; süre aşımında işletici ve devralana ayrı ayrı uygulanacak yaptırım sorulmadı."
+    },
+    {
+     "baslik": "Solvent ve baz yağ devrinde istisna koşulları",
+     "dayanak": "GY md. 333/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepoda karıştırma ve montaj",
+     "dayanak": "GY md. 336",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ortak depolama",
+     "dayanak": "GY md. 337",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepolarda dahilde işleme ve gümrük kontrolü altında işleme faaliyetleri",
+     "dayanak": "GY md. 341-344",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kap içinde gelen sıvılar ve istif",
+     "dayanak": "GY md. 347",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Antrepo rejiminin kapsamı; işletici ve kullanıcı tanımları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük antrepo rejiminde kullanıcı kimdir?",
+     "cevap": "Kullanıcı, eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişidir. (Antrepo işleticisi ise gümrük antreposu işletmesine izin verilen kişidir.)",
+     "dayanak": "GK md. 93/2",
+     "kanit": "Kullanıcı, eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişidir."
+    },
+    {
+     "alt_konu": "Genel antrepoda yükümlülüklerin kullanıcıya bırakılması ve kullanıcının sorumluluğu",
+     "soru": "4458 sayılı Gümrük Kanununa göre genel antrepo işletme izninde, eşyanın gümrük gözetimi altında bulunmasını sağlama ve muhafaza yükümlülüklerinin kime ait olduğu belirtilebilir?",
+     "cevap": "Genel antrepo işletilmesi için izin verildiğinde, antrepo veya eşyanın özelliklerine göre işleticinin sorumluluğunun istisnası olarak bu yükümlülüklerin münhasıran kullanıcıya ait olduğu işletme izninde belirtilebilir. Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerinden her halükarda sorumludur.",
+     "dayanak": "GK md. 97",
+     "kanit": "antrepo veya eşyanın özelliklerine göre 96 ncı maddenin bir istisnası olarak ... kullanıcıya ait olduğu, işletme izninde belirtilebilir. ... Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur."
+    },
+    {
+     "alt_konu": "Antrepo işleticisinden teminat ve izinsiz çıkış yasağı",
+     "soru": "4458 sayılı Gümrük Kanununa göre antrepo işleticisinden istenen teminat, ihraç edilmek üzere konulan eşya dışında hangi eşya için aranmaz?",
+     "cevap": "Fuar ve sergilere konulan eşya ile ithalat vergilerinden muaf olan eşya için de teminat aranmaz.",
+     "dayanak": "GK md. 98",
+     "kanit": "Ancak, fuar ve sergilere konulan veya ithalat vergilerinden muaf olan yahut ihraç edilmek üzere antrepolara konulan eşya için teminat aranmaz."
+    },
+    {
+     "alt_konu": "Antrepo işleticisinden teminat ve izinsiz çıkış yasağı",
+     "soru": "4458 sayılı Gümrük Kanununa göre teminat alınmış olması, antrepodaki eşyanın antrepodan çıkarılması için yeterli midir?",
+     "cevap": "Hayır. Teminat alınmış olsa bile gümrük işlemlerine başlanmadan ve bu işlemler bitirilip gümrük idaresinin izni alınmadan antrepolardan kısmen veya tamamen eşya çıkarılamaz.",
+     "dayanak": "GK md. 98",
+     "kanit": "Teminat alınmış olsa bile, gümrük işlemlerine başlanmadan ve bu işlemler bitirilip gümrük idaresinin izni alınmadan, antrepolardan kısmen veya tamamen eşya çıkartılamaz."
+    },
+    {
+     "alt_konu": "Serbest dolaşımdaki eşyanın ihraç amacı dışında antrepoya konulması ve işçilik",
+     "soru": "4458 sayılı Gümrük Kanununa göre ihraç amacı dışında serbest dolaşımda bulunan eşyanın gümrüklü antrepoya konulmasına hangi koşullarla izin verilebilir?",
+     "cevap": "Ekonomik yönden bir ihtiyaç bulunması ve gümrük gözetiminin olumsuz etkilenmemesi koşuluyla, Müsteşarlıkça belirlenecek şartlar altında izin verilebilir.",
+     "dayanak": "GK md. 100",
+     "kanit": "Ekonomik yönden bir ihtiyaç bulunması ve gümrük gözetiminin olumsuz etkilenmemesi koşuluyla; ... Müsteşarlıkça belirlenecek şartlar altında izin verilebilir."
+    },
+    {
+     "alt_konu": "Serbest dolaşımdaki eşyanın ihraç amacı dışında antrepoya konulması ve işçilik",
+     "soru": "4458 sayılı Gümrük Kanununa göre ihraç amacı dışında antrepoya konulan serbest dolaşımdaki eşya ile antrepoda işçiliğe tabi tutulan serbest dolaşımda olmayan eşya gümrük antrepo rejimine tabi midir?",
+     "cevap": "Hayır, bu durumlarda eşya gümrük antrepo rejimine tabi değildir; ancak gümrük idareleri bu eşyanın antrepo kayıtlarına geçirilmesini zorunlu tutabilir.",
+     "dayanak": "GK md. 100",
+     "kanit": "Birinci fıkrada belirtilen durumlarda eşya, gümrük antrepo rejimine tabi değildir. ... Gümrük idareleri, birinci fıkrada belirtilen eşyanın 99 uncu maddede belirtilen şekilde antrepo kayıtlarına geçirilmesini zorunlu tutabilir."
+    },
+    {
+     "alt_konu": "Eşyanın antrepoda kalış süresi",
+     "soru": "Gümrük Yönetmeliğine göre antrepodaki eşya için tescil edilen beyannameye ilişkin otuz günlük süre içinde gümrük antrepo rejimi dahil başka bir rejim beyanında bulunulursa hangi süre dikkate alınır?",
+     "cevap": "Bu durumda yeni yapılan rejim beyanına ilişkin süre göz önüne alınır.",
+     "dayanak": "GY md. 346/2",
+     "kanit": "Bu süre içerisinde Kanunun 64 üncü maddesinin birinci fıkrasında belirtilen koşullarda, gümrük antrepo rejimi dahil başka bir rejim beyanında bulunulması halinde, bu beyana ilişkin süre göz önüne alınır."
+    },
+    {
+     "alt_konu": "Eşyanın antrepoda kalış süresi",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın antrepoda kalabileceği süre için bir tahdit konulmuşsa bu süre hangi tarihten itibaren hesaplanır?",
+     "cevap": "Eşyanın antrepoya alındığı tarihten; antrepolar arası nakil yoluyla başka bir antrepodan gelen eşyada ise eşyanın ilk antrepoya giriş tarihinden itibaren hesaplanır.",
+     "dayanak": "GY md. 346/4",
+     "kanit": "eşyanın antrepoya alındığı tarihten veya antrepolar arası nakil yoluyla başka bir antrepodan gelen eşyanın ilk antrepoya giriş tarihinden itibaren hesaplanır."
+    },
+    {
+     "alt_konu": "Antrepolarda elleçleme ve izin makamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre tarım ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri hangi amaçla ve hangi makamca sınırlandırılabilir?",
+     "cevap": "Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla Müsteşarlıkça sınırlandırılabilir.",
+     "dayanak": "GK md. 102/1",
+     "kanit": "Piyasa düzeninin aksamadan işleyişini sağlamak amacıyla, tarım ürünlerinin antrepolarda tabi tutulacağı elleçleme işlemleri Müsteşarlıkça sınırlandırılabilir."
+    },
+    {
+     "alt_konu": "Antrepolarda elleçleme ve izin makamı",
+     "soru": "Gümrük Yönetmeliğine göre savunma sanayi ve havacılık sektöründe kullanılan eşyanın Ek-63'te belirtilen elleçleme faaliyetlerine tabi tutulmasına hangi şartla ve hangi makamca izin verilebilir?",
+     "cevap": "Türk Gümrük Tarife Cetvelindeki faslı değişmemek şartıyla Bakanlıkça izin verilebilir.",
+     "dayanak": "GY md. 334/4",
+     "kanit": "Türk Gümrük Tarife Cetvelindeki faslı değişmemek şartıyla, savunma sanayi ve havacılık sektöründe kullanılan eşyanın ek-63'te belirtilen elleçleme faaliyetlerine tabi tutulmasına Bakanlıkça izin verilebilir."
+    },
+    {
+     "alt_konu": "Antrepolarda elleçleme ve izin makamı",
+     "soru": "Gümrük Yönetmeliğine göre elleçlemenin antrepo dışında yapılmasının talep edilmesi halinde başvuru hangi makamca sonuçlandırılır?",
+     "cevap": "Başvuru denetleyici gümrük müdürlüğüne yapılır; gümrük müdürlüğünün görüşü üzerine Bölge Müdürlüğünce sonuçlandırılır. (Antrepo içinde yapılacak elleçleme ise denetleyici gümrük müdürlüğünce sonuçlandırılır.)",
+     "dayanak": "GY md. 335/1, 335/3-c",
+     "kanit": "elleçlemenin antrepo dışında yapılmasının talep edilmesi halinde gümrük müdürlüğünün görüşü üzerine Bölge Müdürlüğünce sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Antrepolarda elleçleme ve izin makamı",
+     "soru": "Gümrük Yönetmeliğine göre antrepolarda elleçleme izni başvuruları nasıl yapılır?",
+     "cevap": "Denetleyici gümrük müdürlüğüne yazılı olarak ve her işlem için münferiden yapılır; başvuru yapılacak işlemleri ve antrepo rejimi hükümlerinin uygulanması için gerekli bütün ayrıntıları içermek zorundadır.",
+     "dayanak": "GY md. 335/1",
+     "kanit": "Elleçleme izin başvuruları denetleyici gümrük müdürlüğüne yazılı olarak ve her işlem için münferiden yapılır."
+    },
+    {
+     "alt_konu": "Antrepolarda elleçleme ve izin makamı",
+     "soru": "Gümrük Yönetmeliğine göre elleçleme yapılmak üzere antrepodan geçici çıkışı yapılan eşyanın antrepo beyannamesine uygunluğu, miktarı ve ayniyat tespiti kim tarafından yapılır?",
+     "cevap": "Yetkilendirilmiş gümrük müşaviri veya Gümrük Memurunca yapılır.",
+     "dayanak": "GY md. 335/5",
+     "kanit": "Elleçleme yapılmak üzere geçici çıkışı yapılan eşyanın antrepo beyannamesine uygunluğu, miktarı ve ayniyat tespiti yetkilendirilmiş gümrük müşaviri veya Gümrük Memurunca yapılır."
+    },
+    {
+     "alt_konu": "Antrepolarda elleçleme ve izin makamı",
+     "soru": "Gümrük Yönetmeliğine göre antrepo rejimine tabi eşyanın üçüncü ülke menşeli girdiler kullanılarak elleçlenmesi halinde gümrük vergisi hangi değer üzerinden ve hangi belge ile tahsil edilir?",
+     "cevap": "Üçüncü ülke girdilerinin muayene ve tespiti yapıldıktan sonra CIF değeri belirlenerek gümrük vergisi tahsil edilir; işlemler Ek-70/A'daki Antrepo Rejimi Kapsamında Tespit ve Tahakkuk Kağıdı üzerinden yürütülür. Vezne alındısının ibrazı üzerine A.TR Dolaşım Belgesi vize edilir.",
+     "dayanak": "GY md. 335/7",
+     "kanit": "üçüncü ülke girdilerinin muayene ve tespiti yapıldıktan sonra CIF değeri belirlenerek, gümrük vergisi tahsilatı yapılır. Bu işlemler, ek-70/A'da yer alan Antrepo Rejimi Kapsamında Tespit ve Tahakkuk Kağıdı üzerinden yürütülür."
+    },
+    {
+     "alt_konu": "Geçici çıkış, kesin çıkış ve basitleştirilmiş usuller",
+     "soru": "Gümrük Yönetmeliğine göre elleçleme vb. işlemler için gümrük antreposundan eşyanın geçici olarak çıkarılması hangi izne bağlıdır?",
+     "cevap": "Her seferinde gümrük idaresinden izin alınması gerekir. (Kanuna göre de antrepo rejimine tabi eşya, gümrük idarelerinden izin alınmak şartıyla geçici olarak gümrük antreposundan çıkarılabilir ve antrepo dışında bulunduğu sürede elleçleme işlemlerine tabi tutulabilir.)",
+     "dayanak": "GY md. 338/4; GK md. 103/1",
+     "kanit": "Elleçleme vb. işlemler yapılmak üzere gümrük antrepolarından geçici olarak eşya çıkarılabilir. Bunun için her seferinde gümrük idaresinden izin alınması gerekir. ... Antrepo rejimine tabi tutulan eşya, gümrük idarelerinden izin alınmak şartıyla geçici olarak gümrük antreposundan çıkarılabilir."
+    },
+    {
+     "alt_konu": "Geçici çıkış, kesin çıkış ve basitleştirilmiş usuller",
+     "soru": "Gümrük Yönetmeliğine göre basitleştirilmiş usul izni bulunması halinde, antrepo rejimini sona erdiren kayıt yoluyla beyan hangi antrepo tipinde uygulanamaz?",
+     "cevap": "F tipi antrepoda uygulanamaz; kayıt yoluyla beyan F tipi dışındaki diğer antrepo tipleri için uygulanır. (Ticari veya idari belge ile beyan ise B ve F tipi hariç uygulanır.)",
+     "dayanak": "GY md. 338/2-c",
+     "kanit": "Kayıt yoluyla beyan, her işlem ve kullanımla birlikte, F tipi antrepo hariç diğer antrepo tipleri için,"
+    },
+    {
+     "alt_konu": "Antrepolar arasında eşya nakli",
+     "soru": "Gümrük Yönetmeliğine göre gümrük antrepo rejimini sona erdirmeden antrepolar arasında eşya naklinde basitleştirilmiş usulün uygulanabilmesi için hangi şartlardan birinin bulunması gerekir?",
+     "cevap": "Her iki antreponun bağlı olduğu gümrük idaresinin kayıt yoluyla beyan usulünü kullandırma yetkisinin olması veya aynı kişinin her iki antrepodan sorumlu olması ya da her iki antreponun stok kayıtlarının bilgisayar ağı ile birbirine bağlı olması gerekir.",
+     "dayanak": "GY md. 339/2",
+     "kanit": "Aynı kişinin her iki antrepodan sorumlu olması veya, ... Her iki antreponun stok kayıtlarının bilgisayar ağı ile birbirine bağlı olması,"
+    },
+    {
+     "alt_konu": "Antrepo masrafları, gümrük kıymeti ve vergilendirme unsurları",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithal eşyası için gümrük yükümlülüğü doğduğunda antrepo masrafları ile antrepoda muhafaza için yapılan masraflar gümrük kıymetine dahil edilir mi?",
+     "cevap": "Fiilen ödenen veya ödenecek fiyattan ayrı olarak gösterilmeleri şartıyla gümrük kıymetine dahil edilmez.",
+     "dayanak": "GK md. 104/1; GY md. 345/1",
+     "kanit": "eşyanın antrepo masrafları ile antrepoda kaldığı sürece muhafazası için yapılan masraflar, fiilen ödenen veya ödenecek fiyattan ayrı olarak gösterilmeleri şartıyla gümrük kıymetine dahil edilmez."
+    },
+    {
+     "alt_konu": "Antrepo masrafları, gümrük kıymeti ve vergilendirme unsurları",
+     "soru": "4458 sayılı Gümrük Kanununa göre antrepoda elleçleme işlemlerine tabi tutulan eşyanın ithalat vergilerinin belirlenmesinde niteliği, gümrük kıymeti ve miktarı nasıl tespit edilir?",
+     "cevap": "Beyan sahibinin talebi üzerine, vergilendirmeye esas tarihte, eşya elleçleme işlemlerine tabi tutulmamış gibi tespit edilir; Müsteşarlıkça bu hükme istisnalar getirilebilir.",
+     "dayanak": "GK md. 104/2",
+     "kanit": "beyan sahibinin talebi üzerine, 193 üncü maddede belirtilen tarihte, eşya söz konusu elleçleme işlemlerine tabi tutulmamış gibi tespit edilir."
+    },
+    {
+     "alt_konu": "Antrepo masrafları, gümrük kıymeti ve vergilendirme unsurları",
+     "soru": "4458 sayılı Gümrük Kanununa göre antrepo rejimindeki ithal eşyasının gümrüğe sunulmaksızın ve beyannamesi verilmeden önce kayıt yoluyla serbest dolaşıma girmek üzere teslim edildiği hallerde gümrük vergileri hangi tarihteki unsurlara göre hesaplanır?",
+     "cevap": "Eşyanın antrepo rejimine tabi tutulduğu tarihte yürürlükte bulunan vergi oranları ve diğer vergilendirme unsurlarına göre hesaplanır; bu, vergilendirme unsurlarının o tarihte tespit edilmesi şartına bağlıdır. Yükümlü talep ederse serbest dolaşıma giriş beyannamesinin tescil tarihindeki hal ve unsurlara göre işlem yapılır.",
+     "dayanak": "GK md. 104/3; GY md. 345/2",
+     "kanit": "gümrük vergileri, eşyanın antrepo rejimine tabi tutulduğu tarihte yürürlükte bulunan vergi oranları ve diğer vergilendirme unsurlarına dayanarak hesaplanır."
+    },
+    {
+     "alt_konu": "Yıllık sayım ve sayım sonuçları",
+     "soru": "4458 sayılı Gümrük Kanununa göre genel antrepolardaki eşyanın kısa sürede sayılamayacak kadar çok olması halinde yıllık sayım nasıl yapılabilir?",
+     "cevap": "Gümrük idareleri tarafından örnekleme yöntemiyle sayılması mümkündür. (Sayım, işleticinin yıl sonunda verdiği antrepo mevcutları listesi göz önünde bulundurularak her yıl yapılır.)",
+     "dayanak": "GK md. 105/1",
+     "kanit": "Genel antrepolardaki eşyanın kısa sürede sayılamayacak kadar çok olması halinde, bunların gümrük idareleri tarafından örnekleme yöntemiyle sayılması mümkündür."
+    },
+    {
+     "alt_konu": "İşletici ve kullanıcının miktar sorumluluğu, fire ve sigorta",
+     "soru": "4458 sayılı Gümrük Kanununa göre işleticiler ile kullanıcılar antrepoya konulan eşyadan hangi miktar üzerinden gümrük idaresine karşı sorumludur?",
+     "cevap": "Gümrük idarelerince miktarı belirlenmişse bu miktardan, belirlenmemişse belgelerinde yazılı miktarlar üzerinden sorumludurlar.",
+     "dayanak": "GK md. 106/1",
+     "kanit": "gümrük idarelerince miktarı belirlenmiş ise bu miktardan, belirlenmemiş ise belgelerinde yazılı miktarlar üzerinden gümrük idaresine karşı sorumludur."
+    },
+    {
+     "alt_konu": "İşletici ve kullanıcının miktar sorumluluğu, fire ve sigorta",
+     "soru": "4458 sayılı Gümrük Kanununa göre antrepoda ortaya çıkan hangi noksanlıklar için gümrük vergileri aranmaz?",
+     "cevap": "Eşyanın niteliğinden kaynaklanan kayıp ve fireler, gümrüğün kontrolü altında yapılan işleme faaliyeti sonucu ortaya çıkan noksanlıklar ile işletici ve kullanıcıların kusur ve hatalarından ileri gelmediği gümrük idaresine kanıtlanan telef, kayıp ve çalınmalar için gümrük vergileri aranmaz.",
+     "dayanak": "GK md. 106/2",
+     "kanit": "Eşyanın niteliğinden kaynaklanan kayıplar ve fireler ile ... altında yapılan işleme faaliyeti sonucunda ortaya çıkan noksanlıklar ve antrepo işleticileri ile kullanıcılarının kusur ve hatalarından ileri gelmediği gümrük idaresine kanıtlanan telef, kayıp ve çalınmalar için gümrük vergileri aranmaz."
+    },
+    {
+     "alt_konu": "İşletici ve kullanıcının miktar sorumluluğu, fire ve sigorta",
+     "soru": "4458 sayılı Gümrük Kanununa göre antrepodaki eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmişse noksan çıkan eşyanın vergileri kimden alınır?",
+     "cevap": "Sigorta ettirenden veya lehine sigorta ettirilenden alınır.",
+     "dayanak": "GK md. 106/2",
+     "kanit": "Eşya, gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır."
+    },
+    {
+     "alt_konu": "İhracata ilişkin önlemlerden yararlanan serbest dolaşımdaki eşya",
+     "soru": "Gümrük Yönetmeliğine göre antrepoya konulması halinde ihracata bağlı önlemlerden yararlanan serbest dolaşımdaki eşya üzerindeki gümrük gözetimi ne zamana kadar devam eder?",
+     "cevap": "Eşya Türkiye Gümrük Bölgesini terk edinceye kadar devam eder; bu eşyanın ihraç edilmesi veya ihracat sayılan bir işlem veya kullanıma tabi tutulması zorunludur.",
+     "dayanak": "GY md. 340/1-a; GK md. 107",
+     "kanit": "serbest dolaşımda bulunan eşyanın üzerindeki gümrük gözetimi, eşya Kanunun 150 ve 151 inci maddelerinde öngörüldüğü şekilde Türkiye Gümrük Bölgesini terk edinceye kadar devam eder."
+    },
+    {
+     "alt_konu": "İhracata ilişkin önlemlerden yararlanan serbest dolaşımdaki eşya",
+     "soru": "Gümrük Yönetmeliğine göre antrepoya alınması dahil ihracat sayılan bir gümrük işlemine tabi tutulan eşya Türkiye Gümrük Bölgesini terk etmiş sayılır mı?",
+     "cevap": "Evet, Türkiye Gümrük Bölgesini terk etmiş sayılır ve bu tarih ihracat beyannamesine kaydedilir.",
+     "dayanak": "GY md. 340/3",
+     "kanit": "Antrepoya alınması dahil, ihracat sayılan bir gümrük işlemine tabi tutulan eşya, Türkiye Gümrük Bölgesini terk etmiş sayılır ve bu tarih ihracat beyannamesine kaydedilir."
+    },
+    {
+     "alt_konu": "Belirgin şekilde farklı cinste eşya tanımı",
+     "soru": "Gümrük Yönetmeliğine göre antrepo rejimine tabi tutulan eşyanın kontrolünde hangi eşya belirgin bir şekilde farklı cinste eşya olarak kabul edilir?",
+     "cevap": "Kontrol neticesinde beyan edilenden açıkça farklı olduğu tahlil, teknik inceleme ve araştırmaya gerek olmaksızın kolayca anlaşılabilen ve gümrük vergileri ve/veya ticaret politikası önlemleri açısından farklılık oluşturan eşya.",
+     "dayanak": "GY md. 328/2",
+     "kanit": "beyan edilenden açıkça farklı olduğu tahlil, teknik inceleme ve araştırmaya gerek olmaksızın kolayca anlaşılabilen ve gümrük vergileri ve/veya ticaret politikası önlemleri açısından farklılık oluşturan eşya, belirgin bir şekilde farklı cinste eşya olarak kabul edilir."
+    },
+    {
+     "alt_konu": "Antrepo sayılan yerler, geçici depolama yerlerinin antrepo onayı ve tanımlama",
+     "soru": "Gümrük Yönetmeliğine göre posta idaresinin sorumluluğu ve gümrüğün denetlemesi altında yabancı menşeli kolilerin konulması için ayrılmış kapalı yerler hangi antrepo türünden sayılır?",
+     "cevap": "Genel antrepo sayılır.",
+     "dayanak": "GY md. 329/3",
+     "kanit": "Posta idaresinin sorumluluğu ve gümrüğün denetlemesi altında yabancı menşeli kolilerin konulması için ayrılmış kapalı yerler de genel antrepo sayılır."
+    },
+    {
+     "alt_konu": "Antrepo sayılan yerler, geçici depolama yerlerinin antrepo onayı ve tanımlama",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolama yerleri aynı zamanda hangi tip antrepo olarak onaylanabilir veya işletilebilir?",
+     "cevap": "A, B, C ve D tipi antrepo olarak Müsteşarlıkça onaylanabilir veya F tipi antrepo olarak işletilebilir.",
+     "dayanak": "GY md. 329/4",
+     "kanit": "Geçici depolama yerleri, aynı zamanda A, B, C ve D tipi antrepo olarak Müsteşarlıkça onaylanabilir veya buralar F tipi antrepo olarak işletilebilir."
+    },
+    {
+     "alt_konu": "Antrepoya konulabilecek eşya; serbest dolaşımdaki eşyanın çıkışı ve taşıma işleri organizatörleri",
+     "soru": "Gümrük Yönetmeliğine göre antrepoya konulan serbest dolaşımdaki eşyanın ihracı veya gümrükçe onaylanmış bir işleme tabi tutulması mümkün olmadığında eşyanın antrepodan çıkartılmasına hangi sınırla izin verilir?",
+     "cevap": "Bir takvim yılında beş defayı geçmemek üzere, yetkilendirilmiş gümrük müşaviri veya gümrük memuru gözetiminde eşyanın antrepodan çıkartılmasına izin verilerek beyanname iptal edilir.",
+     "dayanak": "GY md. 330/1",
+     "kanit": "bir takvim yılında beş defayı geçmemek üzere yetkilendirilmiş gümrük müşaviri veya gümrük memuru gözetiminde eşyanın antrepodan çıkartılmasına izin verilerek beyanname iptal edilir."
+    },
+    {
+     "alt_konu": "Antrepoya konulabilecek eşya; serbest dolaşımdaki eşyanın çıkışı ve taşıma işleri organizatörleri",
+     "soru": "Gümrük Yönetmeliğine göre satıcı veya göndericisi ile yurtdışındaki alıcısı belli olan eşya için genel antrepoya antrepo beyannamesini kimler verebilir?",
+     "cevap": "Taşıma İşleri Organizatörlüğü Yönetmeliği kapsamında yetki belgesi sahibi olan ve taşıma belgesinde bildirim tarafı olarak yer alan taşıma işleri organizatörleri verebilir; bu eşya hakkında elleçleme ve yurtdışındaki alıcısına sevk dışında başka bir tasarrufa izin verilmez.",
+     "dayanak": "GY md. 330/2",
+     "kanit": "yetki belgesi sahibi olan ve taşıma belgesinde bildirim tarafı olarak yer alan taşıma işleri organizatörleri tarafından antrepo beyannamesi verilerek genel antrepolara konulabilir."
+    },
+    {
+     "alt_konu": "Tehlikeli, özel tertibat gerektiren ve izne tabi ürünler",
+     "soru": "Gümrük Yönetmeliğine göre parlayıcı, patlayıcı, yanıcı ve yanmayı artırıcı eşya ile soğuk hava deposu gibi özel tertibat gerektiren eşya hangi antrepolara konulmak zorundadır?",
+     "cevap": "EK-62'de yer alan bu eşyanın, niteliklerine ve yapılacak faaliyetin özelliklerine uygun özel düzenek ve yapılara sahip genel veya özel antrepolara konulması zorunludur.",
+     "dayanak": "GY md. 330/3",
+     "kanit": "niteliklerine ve yapılacak faaliyetin özelliklerine uygun özel düzenek ve yapılara sahip genel veya özel antrepolara konulması zorunludur."
+    },
+    {
+     "alt_konu": "Tehlikeli, özel tertibat gerektiren ve izne tabi ürünler",
+     "soru": "Gümrük Yönetmeliğine göre antrepoya konulacak Türkiye İlaç ve Tıbbî Cihaz Kurumunun iznine tabi ürünler ve etkin maddeler için hangi belge aranır?",
+     "cevap": "Türkiye İlaç ve Tıbbî Cihaz Kurumundan alınan izin belgesi aranır.",
+     "dayanak": "GY md. 330/8",
+     "kanit": "Antrepoya konulacak Türkiye İlaç ve Tıbbî Cihaz Kurumunun iznine tabi ürünler ve etkin maddeler için Türkiye İlaç ve Tıbbî Cihaz Kurumundan alınan izin belgesi aranır."
+    },
+    {
+     "alt_konu": "Bölge müdürlüğü izniyle antrepoya konulabilecek eşya",
+     "soru": "Gümrük Yönetmeliğine göre Türkiye'ye girmesi veya transit geçirilmesi yasak olan yabancı ülke eşyası ile fikri ve sınai mülkiyet haklarına tecavüz eden eşya gibi eşya hangi makamın izni ile gümrük antrepolarına konulabilir?",
+     "cevap": "Gümrük ve ticaret bölge müdürlüklerinin izni ile konulabilir. Bu kapsama yanıltıcı menşe izlenimi veren eşya ile geçici depolama yerinde tasfiyelik hale gelen, terk edilen veya fazla çıkan eşya da girer.",
+     "dayanak": "GY md. 331/1",
+     "kanit": "Aşağıda yazılı eşya gümrük ve ticaret bölge müdürlüklerinin izni ile gümrük antrepolarına konulabilir: ... hak sahibinin yetkilerine tecavüz eder mahiyetteki eşya ... kanuni süresini doldurduğu için tasfiyesi gereken veya sahipleri tarafından geçici depolama yerlerinde gümrüğe terk edilen"
+    },
+    {
+     "alt_konu": "Özel hallerde eşyanın rejime girişi",
+     "soru": "Gümrük Yönetmeliğine göre karayoluyla gelen parsiyel yüklere ilişkin antrepo beyannamesi kim tarafından verilebilir?",
+     "cevap": "Eşya sahibinin yetki vermesi halinde A tipi antrepo işleticilerince verilebilir.",
+     "dayanak": "GY md. 332/1",
+     "kanit": "Karayoluyla gelen parsiyel yüklere ilişkin antrepo beyannamesi, eşya sahibinin yetki vermesi halinde A tipi antrepo işleticilerince verilebilir."
+    },
+    {
+     "alt_konu": "Özel hallerde eşyanın rejime girişi",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolama yerine konulmadan gümrük antrepo rejimine tabi tutulacak eşyanın antrepo beyannamesi hangi süre içinde tescil edilmelidir?",
+     "cevap": "Taşıtın antrepoya gelişini takip eden iki iş günü içinde tescil edilmelidir; gümrük idaresi sürenin bitiminden önce eşya sahibi veya taşıyıcının yazılı ve gerekçeli talebiyle bu süreyi bir gün uzatabilir.",
+     "dayanak": "GY md. 332/2",
+     "kanit": "Antrepo beyannamesinin, taşıtın antrepoya gelişini takip eden iki iş günü içerisinde tescil edilmesi gerekir. Gümrük idaresi, sürenin bitiminden önce eşya sahibi ya da taşıyıcı tarafından yapılacak yazılı ve gerekçeli talebe istinaden bu süreyi bir gün uzatabilir."
+    },
+    {
+     "alt_konu": "Özel hallerde eşyanın rejime girişi",
+     "soru": "Gümrük Yönetmeliğine göre aynı sevkiyata konu olup antrepoya birden fazla taşıtla peyderpey sevk edilen eşyada antrepo beyannamesi hangi süre içinde verilmelidir?",
+     "cevap": "İlk eşyanın antrepoya girişinden itibaren en geç beş iş günü içinde verilmelidir; ihtiyaç halinde bu süre gümrük idaresince bir defaya mahsus olmak üzere beş iş gününe kadar uzatılabilir.",
+     "dayanak": "GY md. 332/2",
+     "kanit": "ilk eşyanın antrepoya girişinden itibaren en geç beş iş günü içinde antrepo beyannamesinin verilmesi koşuluyla eşyanın peyderpey antrepoya alınmasına izin verilebilir. İhtiyaç halinde bu süre gümrük idaresince bir defaya mahsus olmak üzere beş iş gününe kadar uzatılabilir."
+    },
+    {
+     "alt_konu": "Antrepodaki eşyanın satış suretiyle devri",
+     "soru": "Gümrük Yönetmeliğine göre gümrük antrepolarında depolanan solvent ve baz yağın satış suretiyle devrine hangi durumda izin verilmez?",
+     "cevap": "Devralan tarafından serbest dolaşıma sokulacak olması durumunda izin verilmez.",
+     "dayanak": "GY md. 333/1",
+     "kanit": "Gümrük antrepolarında depolanan solvent ve baz yağın satış suretiyle devrine, devralan tarafından serbest dolaşıma sokulacak olması durumunda izin verilmez."
+    },
+    {
+     "alt_konu": "Antrepodaki eşyanın satış suretiyle devri",
+     "soru": "Gümrük Yönetmeliğine göre antrepoda devri yapılan eşya için devralan hangi süre içinde ne yapmak zorundadır?",
+     "cevap": "Beş iş günü içinde eşyayı gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutmalı ya da yeni bir antrepo beyannamesi vermelidir; aksi halde devralana aşılan her gün için Kanunun 241 inci maddesinin birinci fıkrası uyarınca işlem yapılır.",
+     "dayanak": "GY md. 333/3-a",
+     "kanit": "Antrepoda devri yapılan her bir eşya için, beş iş günü içerisinde devralan tarafından eşyanın gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutulması ya da yeni bir antrepo beyannamesi verilmesi gerekir."
+    },
+    {
+     "alt_konu": "Antrepodaki eşyanın satış suretiyle devri",
+     "soru": "Gümrük Yönetmeliğine göre antrepoda eşyanın devri ile gümrük vergileri ve para cezaları dahil hukuki sorumluluklar kime geçer?",
+     "cevap": "Devralana geçer ve antrepo stok kayıtlarında gerekli değişiklikler yapılır.",
+     "dayanak": "GY md. 333/3-b",
+     "kanit": "Eşyanın devri ile birlikte gümrük vergileri ile para cezaları da dâhil eşya ile ilgili hukuki sorumluluklar devralana geçer ve antrepo stok kayıtlarında gerekli değişiklikler yapılır."
+    },
+    {
+     "alt_konu": "Özel antrepoda eşyanın devri",
+     "soru": "Gümrük Yönetmeliğine göre özel antrepoda devredilen eşya beş iş günü içinde antrepodan çıkarılmazsa kimler hakkında ve nasıl işlem yapılır?",
+     "cevap": "Sürenin aşıldığı tarihten itibaren antrepo işleticisine ve devralana ayrı ayrı olmak üzere, aşılan her gün için Kanunun 241 inci maddesinin birinci fıkrası uyarınca işlem yapılır.",
+     "dayanak": "GY md. 333/4",
+     "kanit": "bu sürenin aşıldığı tarihten itibaren antrepo işleticisine ve devralana ayrı ayrı olmak üzere, aşılan her gün için Kanunun 241 inci maddesinin birinci fıkrası uyarınca işlem yapılır"
+    },
+    {
+     "alt_konu": "Solvent ve baz yağ devrinde istisna koşulları",
+     "soru": "Gümrük Yönetmeliğine göre antrepodaki solvent ve baz yağın serbest dolaşıma sokulmak üzere devrine izin verilebilmesi için devralan firmanın onaylanmış kişi veya yetkilendirilmiş yükümlü statüsü yoksa en az ne kadar süredir faaliyette bulunması gerekir?",
+     "cevap": "Devralan firmanın en az iki yıldır faaliyette bulunması gerekir; ayrıca ceza, borç ve sabıka koşullarının sağlanması ve bölge müdürlüklerince yıllık kontrollerle tespiti aranır.",
+     "dayanak": "GY md. 333/5-a",
+     "kanit": "Devralan firmanın en az iki yıldır faaliyette bulunması."
+    },
+    {
+     "alt_konu": "Antrepoda karıştırma ve montaj",
+     "soru": "Gümrük Yönetmeliğine göre antrepoya alınmış serbest dolaşımda olmayan eşyanın karıştırılması veya montajı sonucu elde edilen ürünün transit olarak gönderilmesine hangi makam izin verir?",
+     "cevap": "Menşelerine bakılmaksızın, antreponun bağlı bulunduğu gümrük müdürlüğünce izin verilebilir.",
+     "dayanak": "GY md. 336/1",
+     "kanit": "karıştırılması veya montajı sonucu elde edilen ürünün transit olarak gönderilmesine antreponun bağlı bulunduğu gümrük müdürlüğünce izin verilebilir."
+    },
+    {
+     "alt_konu": "Ortak depolama",
+     "soru": "Gümrük Yönetmeliğine göre ortak depolama her bir eşyanın gümrük statüsünün belirlenmesini imkansız kılıyorsa hangi eşyanın birlikte depolanmasına izin verilir?",
+     "cevap": "Sadece aynı gümrük tarife pozisyonunda yer alan, aynı ticari niteliğe ve aynı teknik özelliklere sahip eşyanın birlikte depolanmasına izin verilir; bu eşya beyan sahibinin tercihine göre serbest dolaşımda bulunan ya da bulunmayan eşya sayılır.",
+     "dayanak": "GY md. 337/1",
+     "kanit": "sadece aynı gümrük tarife pozisyonunda yer alan, aynı ticari niteliğe ve aynı teknik özelliklere sahip eşyanın birlikte depolanmasına izin verilir."
+    },
+    {
+     "alt_konu": "Antrepolarda dahilde işleme ve gümrük kontrolü altında işleme faaliyetleri",
+     "soru": "Gümrük Yönetmeliğine göre ihracat ve serbest dolaşıma giriş rejimlerinde basitleştirilmiş usul uygulanacak ise dahilde işleme (şartlı muafiyet) veya gümrük kontrolü altında işleme faaliyetleri hangi tip antrepolarda yapılabilir?",
+     "cevap": "A, C ve D tipi antrepolarda yapılabilir; basitleştirilmiş usul uygulanmıyorsa bu işleme faaliyetleri tüm antrepo tiplerinde izin alınması şartıyla yapılabilir.",
+     "dayanak": "GY md. 341/1",
+     "kanit": "dahilde işleme rejiminin şartlı muafiyet sistemi veya gümrük kontrolü altında işleme rejimi altında işleme faaliyetleri, A, C ve D tipi antrepolarda,"
+    },
+    {
+     "alt_konu": "Antrepolarda dahilde işleme ve gümrük kontrolü altında işleme faaliyetleri",
+     "soru": "Gümrük Yönetmeliğine göre dahilde işleme veya gümrük kontrolü altında işleme rejimine tabi eşyanın antrepo rejimine tabi tutulmadan antrepoya konulabilmesi için işleme faaliyetlerinin sıklığına ilişkin hangi şart aranır?",
+     "cevap": "İşleme faaliyetlerinin ara sıra değil sık sık yapılıyor olması gerekir.",
+     "dayanak": "GY md. 343/1-c",
+     "kanit": "İşleme faaliyetlerinin ara sıra değil sık sık yapılıyor olması,"
+    },
+    {
+     "alt_konu": "Kap içinde gelen sıvılar ve istif",
+     "soru": "Gümrük Yönetmeliğine göre yetkilendirilmiş yükümlü sertifikası sahiplerince işletilen antrepolarda farklı beyanname muhteviyatı eşyanın bir arada istiflenmesi izne tabi midir?",
+     "cevap": "Hayır, gümrük idaresinden izin alınması gerekmeksizin bir arada istiflenerek depolanabilir; ancak antrepo rejimi hükümlerinin ihlali tespit edilirse gümrük idaresince kısıtlama getirilebilir. (Diğer antrepolarda bu istif gümrük idaresinin iznine bağlıdır.)",
+     "dayanak": "GY md. 347/1",
+     "kanit": "Yetkilendirilmiş yükümlü sertifikası sahipleri tarafından işletilen antrepolarda, gümrük idaresinden izin alınması gerekmeksizin farklı beyanname muhteviyatı eşya bir arada istiflenmek suretiyle depolanabilir"
+    }
+   ]
+  },
+  {
+   "kaynak": "29-iŞLETİCİLER.txt",
+   "konu": "Antrepo ve geçici depolama yeri açma-işletme, işleticiler, teminat; geçici depolama",
+   "mevzuat": "GY md. 518-527, 533-559; GK md. 47-50; GY md. 77-98/A, 512-517",
+   "cikmis_sayisi": 18,
+   "cikmis": [
+    "2021-23: Antrepo işleticisinin hak ve yükümlülüklerinin izinle devri (GK 95)",
+    "2021-40: Yolcu eşyası geçici depolama yerinde mücbir sebep aranmaksızın üç aya kadar uzatma",
+    "2021-54: A tipi antrepoda stok kayıtlarını işletici tutar",
+    "2021-63: Sayımda fazla çıkan eşyanın tasfiyesi",
+    "2022-68: E tipinde stok kaydına giriş, eşya antrepo addedilen yere ulaştığında",
+    "2022-72: Antrepo açma ve işletme izinleri süresiz verilir",
+    "2023-34: Fuar ve sergi yerlerindeki eşyaya geçici ithalat rejimi uygulanır",
+    "2023-38: Gümrüğe sunulan eşya GOİK'e tabi tutuluncaya kadar geçici depolanan eşya statüsünde",
+    "2023-50: Yolcu eşyası ambarında kalış süresi üç ay",
+    "2023-74: Yolcu eşyası ambarında süre üç ay (1 yıl değil)",
+    "2024-63: Özel antrepolar için yatırım izni aranmaz (yatırım izinli antrepo özel antrepo değil)",
+    "2024-67: Antrepo sayımında fazla çıkan eşya GK 236 kapsamında",
+    "2024-100: Geçici depolama yerinde devir yapılabilir; gözetim YGM vasıtasıyla da yapılabilir",
+    "2025-80: Yolcu eşyası ambarında kalış süresi üç ay",
+    "2025-81: Yaygın götürü teminat başvurusu bölge müdürlüğüne yapılır",
+    "2025-84: Özel antrepo açmada 518/3 sabıka şartı, teknik donanım, mali yeterlilik, harç; gümrük müşaviri istihdamı şart değil",
+    "2025-85: Geçici depolanan eşya statüsü GOİK (ör. gümrüğe terk) ile sona erer",
+    "2025-94: Kişisel kara taşıtları ve yolcu eşyası geçici depolama yerinde üç ay"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Antrepo yatırım izni başvurusu ve özel antrepo istisnası",
+     "dayanak": "GY md. 518/1",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-63"
+     ],
+     "not": "Özel antrepolar için yatırım izni aranmadığı 2024-63'te dolaylı ölçüldü; akaryakıt antreposu istisnası sorulmadı."
+    },
+    {
+     "baslik": "Yatırım izni verilebilecek şirketler: faaliyet süresi ve ödenmiş sermaye",
+     "dayanak": "GY md. 518/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yönetici ve ortaklarda sabıka şartı, yabancılar ve izin iptali",
+     "dayanak": "GY md. 518/3-6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-84"
+     ],
+     "not": "518/3 kapsamında mahkumiyet bulunmaması şartı soruldu; %10 sermaye eşiği, affa uğramış olsa dahi kuralı ve mahkumiyette iznin iptali sorulmadı."
+    },
+    {
+     "baslik": "Yatırım izni başvurusunun incelenmesi ve sonuçlandırılması",
+     "dayanak": "GY md. 518/8, 518/10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yatırım izninden sonra tesisin hazırlanma süresi",
+     "dayanak": "GY md. 518/9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepo açma ve işletme izni: izin verilecek kişiler, mesafe, alan ve sayı sınırlaması",
+     "dayanak": "GY md. 519",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-72"
+     ],
+     "not": "İzinlerin süresiz verildiği soruldu; 50 km mesafe, alan şartları, tek gümrük müdürlüğüne bağlılık ve sayı sınırlaması sorulmadı."
+    },
+    {
+     "baslik": "Antrepo açılış başvurusu, görgü raporu ve açılış izni makamı",
+     "dayanak": "GY md. 520-521",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük idaresine karşı sorumluluk; konteyner eşyada kap adedi farkı",
+     "dayanak": "GY md. 522",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Genel sorumluluk/fire/sigorta hükümleri 28 numaralı dosyada GK md. 106 ile ele alındı."
+    },
+    {
+     "baslik": "Antreponun devri",
+     "dayanak": "GY md. 523/1-7, 11-12",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-23"
+     ],
+     "not": "İşletici hak ve yükümlülüklerinin izinle devredilebileceği soruldu; özel antrepo devrinde eşyanın çıkarılma süresi, D tipi devri, müşterek başvuru, şirket birleşmesi ve hisse devri sorulmadı."
+    },
+    {
+     "baslik": "Antreponun sahibinin isteği üzerine kapatılması",
+     "dayanak": "GY md. 523/8-10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepolarda yapılacak değişiklikler",
+     "dayanak": "GY md. 524",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşya girişinin durdurulması ve iznin geri alınması; kusurlar ve fiyat tarifesi",
+     "dayanak": "GY md. 525",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepo işleticisi ve kullanıcısının teminatı",
+     "dayanak": "GY md. 526",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-81"
+     ],
+     "not": "İhraç edilmek üzere konulan eşyada teminat aranmadığı soruldu; teminat türleri, akaryakıt/ÖTV istisnası ve C-E tipinde YYS götürü teminatı sorulmadı."
+    },
+    {
+     "baslik": "Götürü ve yaygın götürü teminat",
+     "dayanak": "GY md. 527",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-81"
+     ],
+     "not": "Yaygın götürü teminat başvurusunun bölge müdürlüğüne yapıldığı soruldu; teminat tutarları, üst sınır, %75 oranı ve ek teminat süresi sorulmadı."
+    },
+    {
+     "baslik": "Antrepolarda aranacak şartlar; akaryakıtın tanklara alınması",
+     "dayanak": "GY md. 534",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepo stok kayıtları",
+     "dayanak": "GY md. 536",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-54"
+     ],
+     "not": "A tipinde stok kaydını işleticinin tuttuğu ölçüldü; B ve F tipinde kayıt düzeni sorulmadı."
+    },
+    {
+     "baslik": "Stok kayıt işlemlerinin zamanı",
+     "dayanak": "GY md. 537",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-68"
+     ],
+     "not": "E tipinde giriş kaydının zamanı soruldu; A, C ve D tipinde giriş kaydı zamanı sorulmadı."
+    },
+    {
+     "baslik": "Yıllık sayımlar",
+     "dayanak": "GY md. 538",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-63",
+      "2024-67"
+     ],
+     "not": "Fazla çıkan eşyanın tasfiyesi ve kaçakçılık sayılmadığı soruldu; noksanlıkta idari para cezası, YGM sayımı istisnası ve fazlalıkta para cezası tutarı sorulmadı."
+    },
+    {
+     "baslik": "E tipi antrepo ve montaj müsaadeli özel antrepolar",
+     "dayanak": "GY md. 539",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Özelliği olan eşya için bilgi verme",
+     "dayanak": "GY md. 540",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Akaryakıt antrepoları",
+     "dayanak": "GY md. 541",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Dökme gelen sıvılar ve tank işlemleri",
+     "dayanak": "GY md. 542-547",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Rafinerilerde verimlilik oranı ve yıl sonu muvazene",
+     "dayanak": "GY md. 548-550",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Fuar ve sergi yerleri",
+     "dayanak": "GY md. 551",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-34"
+     ],
+     "not": "Fuar ve sergi eşyasına geçici ithalat rejimi uygulandığı soruldu; fuar ve sergilerin özel antrepo sayılması sorulmadı."
+    },
+    {
+     "baslik": "Ortak hükümler: dosya saklama, izin belgesi ve harçlar",
+     "dayanak": "GY md. 553",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-84"
+     ],
+     "not": "Antrepo harçlarının yatırılmış olması açma şartı olarak soruldu; belgelerin saklama süresi ve yıllık harcın ibraz süresi sorulmadı."
+    },
+    {
+     "baslik": "Görevli gümrük memurları ve güvenlik önlemleri",
+     "dayanak": "GY md. 554-558",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-100"
+     ],
+     "not": "Geçici depolama yerlerinde gözetimin YGM vasıtasıyla yapılabileceği soruldu; YGM bulunmayan yerlerde çift kilit zorunluluğu sorulmadı."
+    },
+    {
+     "baslik": "Bakanlığın yetkileri ve yetki devri",
+     "dayanak": "GY md. 559",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici depolanan eşya statüsü ve sürelerin başlangıcı",
+     "dayanak": "GK md. 47; GY md. 77",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-38",
+      "2025-85"
+     ],
+     "not": "Statünün tanımı ve sona ermesi soruldu; ihracat eşyasının bu kapsama alınması ve birden fazla limana uğramada sürelerin başlangıcı sorulmadı."
+    },
+    {
+     "baslik": "Geçici depolanan eşyanın depolanacağı yerler ve teminat",
+     "dayanak": "GK md. 48/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yolcu eşyası ambarları, kişisel kara taşıtları ve geçici depolama yeri addedilen açık alanlar",
+     "dayanak": "GK md. 48/2; GY md. 79/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-40",
+      "2023-50",
+      "2023-74",
+      "2025-80",
+      "2025-94"
+     ],
+     "not": "Üç aylık süre ve üç aya kadar uzatma soruldu; ağır ve havaleli eşya için açık alanların geçici depolama yeri addedilmesi sorulmadı."
+    },
+    {
+     "baslik": "Geçici depolanan eşyanın elleçlenmesi",
+     "dayanak": "GK md. 49; GY md. 90-91",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Süresinde işlem başlatılmayan geçici depolanan eşya",
+     "dayanak": "GK md. 50; GY md. 86",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici depolama yerlerine eşya alınması",
+     "dayanak": "GY md. 78",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici depolama yeri bulunmayan yerler",
+     "dayanak": "GY md. 79/3, 97, 514",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Özel tertip gerektiren ve tehlikeli eşya",
+     "dayanak": "GY md. 81",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Rezerveli eşya",
+     "dayanak": "GY md. 84",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kaçak zannıyla el konulup iadesine karar verilen eşya",
+     "dayanak": "GY md. 85",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın incelenmesi ve numune alınması",
+     "dayanak": "GY md. 87",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın başka geçici depolama yeri veya antrepoya nakli ve devri",
+     "dayanak": "GY md. 96",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-100"
+     ],
+     "not": "Geçici depolama yerinde devrin yapılabileceği soruldu; başka gümrük idaresi denetimindeki yere naklin transit hükümlerine göre yapılması sorulmadı."
+    },
+    {
+     "baslik": "Re'sen imha ve cebri icra yoluyla satış",
+     "dayanak": "GY md. 98, 98/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici depolama yeri işleticilerinde aranan şartlar ve açma izni",
+     "dayanak": "GY md. 512-513",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici depolama yeri işleticisinin kayıt tutma ve mali sorumluluğu",
+     "dayanak": "GY md. 515",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici depolama yerinin devri, kapatılması ve değişiklikler",
+     "dayanak": "GY md. 516, 516/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici depolama yeri işletme izninin geri alınması",
+     "dayanak": "GY md. 517",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Antrepo yatırım izni başvurusu ve özel antrepo istisnası",
+     "soru": "Gümrük Yönetmeliğine göre özel antrepolardan hangisi için yatırım izni aranır?",
+     "cevap": "Akaryakıt antrepoları için yatırım izni aranır; bunlar dışındaki özel antrepolar için yatırım izni aranmaz. Başvuru yatırım yapılmadan önce antreponun bağlı bulunacağı gümrük müdürlüğüne dilekçe ile yapılır.",
+     "dayanak": "GY md. 518/1",
+     "kanit": "Akaryakıt antrepoları hariç olmak üzere, özel antrepolar için yatırım izni aranmaz."
+    },
+    {
+     "alt_konu": "Yatırım izni verilebilecek şirketler: faaliyet süresi ve ödenmiş sermaye",
+     "soru": "Gümrük Yönetmeliğine göre antrepo yatırım izni verilebilecek anonim veya limited şirketlerin asgari kaç yıldır faaliyette bulunması gerekir?",
+     "cevap": "Asgari üç yıldır faaliyette bulunması gerekir; bu şartın tespitinde unvan değişikliği, şirket birleşmesi, bölünmesi veya tür değiştirmesi göz önünde bulundurulur. (Kamu kurum ve kuruluşları ile belediyelere de yatırım izni verilebilir.)",
+     "dayanak": "GY md. 518/2",
+     "kanit": "Başvuru sahibi şirketlerin asgari üç yıldır faaliyette bulunması şartının tespitinde, anonim ve limited şirketlerde unvan değişikliği, şirket birleşmesi, bölünmesi veya tür değiştirmesi göz önünde bulundurulur."
+    },
+    {
+     "alt_konu": "Yatırım izni verilebilecek şirketler: faaliyet süresi ve ödenmiş sermaye",
+     "soru": "Gümrük Yönetmeliğine göre antrepo yatırım izni başvurusunda bulunacak şirketlerde aranan asgari ödenmiş sermaye tutarları nelerdir?",
+     "cevap": "Yatırım Teşvik Uygulamalarında Bölgeler tablosuna göre 1. ve 2. Bölge illeri için 40.000.000 TL, 3. ve 4. Bölge illeri için 20.000.000 TL, 5. ve 6. Bölge illeri için 10.000.000 TL'dir.",
+     "dayanak": "GY md. 518/2",
+     "kanit": "1. ve 2. Bölge kapsamındaki iller için 40.000.000 TL ... 3. ve 4. Bölge kapsamındaki iller için 20.000.000 TL ... 5. ve 6. Bölge kapsamındaki iller için 10.000.000 TL"
+    },
+    {
+     "alt_konu": "Yönetici ve ortaklarda sabıka şartı, yabancılar ve izin iptali",
+     "soru": "Gümrük Yönetmeliğine göre antrepo açma izni için başvuran anonim şirketlerde sabıka şartı yönetim kurulu dışında hangi kişilerde aranır?",
+     "cevap": "Şirket sermayesinin %10 veya daha fazlasına sahip gerçek kişilerde aranır; sayılan suçlardan affa uğramış olsalar dahi haklarında kesinleşmiş mahkumiyet kararı bulunmaması şarttır.",
+     "dayanak": "GY md. 518/3",
+     "kanit": "Antrepo açma izni almak üzere başvuracak anonim şirketlerin yönetim kurulu başkan ve üyeleri ile şirketlerde ... şirket sermayesinin % 10 veya daha fazlasına sahip gerçek kişilerin, affa uğramış olsalar dahi"
+    },
+    {
+     "alt_konu": "Yönetici ve ortaklarda sabıka şartı, yabancılar ve izin iptali",
+     "soru": "Gümrük Yönetmeliğine göre antrepo işleticileri hakkında sabıka şartına ilişkin suçlardan kesinleşmiş mahkumiyet kararı verilmesinin sonucu nedir?",
+     "cevap": "Antrepo işletme izinleri iptal edilir.",
+     "dayanak": "GY md. 518/6",
+     "kanit": "Antrepo işleticileri hakkında, üçüncü fıkrada belirtilen suçlardan kesinleşmiş mahkumiyet kararı verilmesi halinde antrepo işletme izinleri iptal edilir."
+    },
+    {
+     "alt_konu": "Yatırım izni başvurusunun incelenmesi ve sonuçlandırılması",
+     "soru": "Gümrük Yönetmeliğine göre antrepo yatırım izni talepleri hangi makamca sonuçlandırılır?",
+     "cevap": "Gümrük müdürlüğünün görüşü bölge müdürlüğüne iletilir; bölge müdürlüğü gözetim, ekonomik ihtiyaç ve güvenli sevkiyat hususlarındaki görüşüyle talebi Bakanlığa intikal ettirir ve yatırım izni talepleri Bakanlıkça sonuçlandırılır.",
+     "dayanak": "GY md. 518/8",
+     "kanit": "Yatırım izni talepleri Bakanlıkça sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Yatırım izninden sonra tesisin hazırlanma süresi",
+     "soru": "Gümrük Yönetmeliğine göre yatırım izni verilen başvuru sahibi, tesisi hazırlayıp gümrük müdürlüğüne başvurmak için ne kadar süreye sahiptir?",
+     "cevap": "Yatırım izninin bildirim tarihinden itibaren altı ay içinde tesisin hazır hale getirilerek ilgili gümrük müdürlüğüne başvurulması gerekir; hazırlanamazsa bu süre içinde Bakanlıktan ek süre istenir, aksi halde yatırım izni iptal edilebilir.",
+     "dayanak": "GY md. 518/9",
+     "kanit": "Yatırım izni verilen başvuru sahiplerine yapılacak bildirim tarihinden itibaren altı ay içerisinde antrepo olarak açılmak istenen tesisin/yerin hazır hale getirilerek ilgili gümrük müdürlüğüne başvurulması gerekir."
+    },
+    {
+     "alt_konu": "Antrepo açma ve işletme izni: izin verilecek kişiler, mesafe, alan ve sayı sınırlaması",
+     "soru": "Gümrük Yönetmeliğine göre antrepo açma ve işletme izni kimlere verilebilir?",
+     "cevap": "Kamu kurum ve kuruluşları ve belediyeler ile 6102 sayılı Türk Ticaret Kanunu hükümlerine göre kurulmuş anonim ve limited şirketlere verilebilir.",
+     "dayanak": "GY md. 519/1",
+     "kanit": "Antrepo açma ve işletme izni, kamu kurum ve kuruluşları ve belediyeler ile 6102 sayılı Türk Ticaret Kanunu hükümlerine göre kurulmuş anonim ve limited şirketlere verilebilir"
+    },
+    {
+     "alt_konu": "Antrepo açma ve işletme izni: izin verilecek kişiler, mesafe, alan ve sayı sınırlaması",
+     "soru": "Gümrük Yönetmeliğine göre genel antrepo olarak açılacak yerin gümrük müdürlüğüne uzaklığı en fazla ne kadar olabilir?",
+     "cevap": "Mutat yolların izlenmesi kaydıyla gümrük müdürlüğüne en fazla 50 km mesafede olmalıdır.",
+     "dayanak": "GY md. 519/2",
+     "kanit": "Genel antrepo olarak açılıp işletilmesi istenen yerlerin mutat yolların izlenmesi kaydıyla gümrük müdürlüğüne en fazla 50 km. mesafede olması gereklidir."
+    },
+    {
+     "alt_konu": "Antrepo açma ve işletme izni: izin verilecek kişiler, mesafe, alan ve sayı sınırlaması",
+     "soru": "Gümrük Yönetmeliğine göre genel antrepo olarak açılacak yerlerde asgari alan şartı nedir?",
+     "cevap": "Açık ve/veya kapalı alanlar toplamı, en az %20'si kapalı alan olmak üzere büyükşehir belediyesi sınırları içinde 5.000 m²'den, diğer yerlerde 3.000 m²'den küçük olamaz. Soğuk hava tertibatı ya da yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren veya kıymetli maden ve kıymetli taşların konulduğu antrepolar, antrepo alanının en az yarısı bu nitelikte eşyanın depolanacağı bölümlerden oluşan antrepolar ile havalimanı, demiryolu istasyonu/aktarma tesisi ve deniz limanı sahasında bulunan, havayolu ile kargo taşımacılığında kullanılan antrepolar bu şarta tabi değildir.",
+     "dayanak": "GY md. 519/3",
+     "kanit": "Genel antrepo olarak açılıp işletilmesi istenen yerlerin açık ve/veya kapalı alanları toplamı, en az % 20'si kapalı alan olmak üzere ... büyükşehir belediyesi sınırları içerisinde 5.000 m²'den, diğer yerlerde ise 3.000 m²'den küçük olamaz. ... Soğuk hava tertibatı ya da yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren veya kıymetli maden ve kıymetli taşların konulduğu antrepolar ... antrepo alanının en az yarısı bu nitelikte eşyanın depolanacağı bölümlerden oluşan antrepolar ile havalimanı, demiryolu istasyonu/aktarma tesisi ve deniz limanı sahasında bulunan, havayolu ile kargo taşımacılığında kullanılan antrepolar bu şarta tabi değildir."
+    },
+    {
+     "alt_konu": "Antrepo açma ve işletme izni: izin verilecek kişiler, mesafe, alan ve sayı sınırlaması",
+     "soru": "Gümrük Yönetmeliğine göre aynı işleticinin aynı gayrimenkul üzerindeki antrepoları kaç gümrük müdürlüğüne bağlı olabilir?",
+     "cevap": "Tek bir gümrük müdürlüğüne bağlı olabilir.",
+     "dayanak": "GY md. 519/4",
+     "kanit": "Aynı işleticinin aynı gayrimenkul üzerindeki antrepoları tek bir gümrük müdürlüğüne bağlı olabilir."
+    },
+    {
+     "alt_konu": "Antrepo açma ve işletme izni: izin verilecek kişiler, mesafe, alan ve sayı sınırlaması",
+     "soru": "Gümrük Yönetmeliğine göre Bakanlık, yatırım izni ve/veya antrepo açılış izni verilecek antrepo sayılarına sınırlama getirirken neyi dikkate alır?",
+     "cevap": "Gümrük müdürlüğü veya bölge müdürlüğü özelinde getirilen bu sınırlamada mevcut antrepo sayıları ile başvuru yılından önceki asgari iki yıl antrepolarda gerçekleştirilen miktar ve/veya kıymete dayalı işlem hacmi dikkate alınır.",
+     "dayanak": "GY md. 519/5",
+     "kanit": "Bu sınırlamanın getirilmesinde mevcut antrepo sayıları ile yatırım izni ve/veya antrepo açılış izni başvurusunun yapıldığı yıldan önceki asgari iki yıl antrepolarda gerçekleştirilen miktar ve/veya kıymete dayalı işlem hacmi dikkate alınır."
+    },
+    {
+     "alt_konu": "Antrepo açılış başvurusu, görgü raporu ve açılış izni makamı",
+     "soru": "Gümrük Yönetmeliğine göre antrepo açılış talepleri hangi makamca sonuçlandırılır?",
+     "cevap": "Gümrük müdürlüğünce yerinde inceleme yaptırılarak görüşle bölge müdürlüğüne, bölge müdürlüğünün görüşü ile birlikte Bakanlığa aktarılır ve Bakanlıkça sonuçlandırılır.",
+     "dayanak": "GY md. 521/3",
+     "kanit": "Antrepo açılış talepleri, bölge müdürlüğünün görüşü ile birlikte Bakanlığa aktarılır ve Bakanlıkça sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Gümrük idaresine karşı sorumluluk; konteyner eşyada kap adedi farkı",
+     "soru": "Gümrük Yönetmeliğine göre denizyoluyla konteynerle gelip belgelerdeki miktar üzerinden antrepoya sevk edilen eşyada kap adedinde farklılık tespit edilirse kullanıcıya hangi süre verilir?",
+     "cevap": "Farklılığın sebebinin 45 gün içinde izah edilmesi istenir; süresi içinde talep edilirse bu süre gümrük idaresince 30 gün daha uzatılabilir.",
+     "dayanak": "GY md. 522/8",
+     "kanit": "kullanıcıdan söz konusu farklılığın sebebinin 45 gün içinde izah edilmesi istenir. Süresi içerisinde talepte bulunulması halinde bu süre gümrük idaresince 30 gün daha uzatılabilir."
+    },
+    {
+     "alt_konu": "Gümrük idaresine karşı sorumluluk; konteyner eşyada kap adedi farkı",
+     "soru": "Gümrük Yönetmeliğine göre konteynerle antrepoya getirilen eşyada kap adedi fazlalığının mahrecinden fazla yüklemeden kaynaklandığı süresi içinde kanıtlanamazsa fazla eşya hakkında ne yapılır?",
+     "cevap": "Fazla çıkan eşya tasfiyeye tabi tutulur. (Süresi içinde kanıtlanırsa ilgilisince gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasına izin verilir.)",
+     "dayanak": "GY md. 522/8-b",
+     "kanit": "Eşyanın mahrecinden fazla yüklendiğinin süresi içinde kanıtlanamaması halinde fazla çıkan eşya Kanunun 177 nci maddesi kapsamında tasfiyeye tabi tutulur."
+    },
+    {
+     "alt_konu": "Gümrük idaresine karşı sorumluluk; konteyner eşyada kap adedi farkı",
+     "soru": "Gümrük Yönetmeliğine göre orijinal ambalajı bozulmamış kaplarla antrepoya konulan ve kap adedi tamam çıkan eşyada sayı veya ağırlıkta eksiklik ya da fazlalık bulunması, antrepoda noksan veya fazla çıkan eşyaya ilişkin Kanun yaptırımı kapsamında değerlendirilir mi?",
+     "cevap": "Hayır; kaplarının orijinal ambalajının bozulmadığı ya da gümrük idaresinin bilgisi dahilinde bozulduğu tespit edilen ve kap adedi itibarıyla tamam çıkan eşyadaki bu tür eksiklik veya fazlalık 236 ncı madde kapsamında değerlendirilmez.",
+     "dayanak": "GY md. 522/9",
+     "kanit": "kap adedi itibarıyla tamam çıkan ancak sayı, ağırlık gibi ölçülerinde eksiklik veya fazlalık olan eşya Kanunun 236 ncı maddesi kapsamında değerlendirilmez."
+    },
+    {
+     "alt_konu": "Antreponun devri",
+     "soru": "Gümrük Yönetmeliğine göre özel antreponun devrinde antrepodaki eşya devralana devredilmezse eşyanın antrepodan çıkarılması için ne kadar süre verilir?",
+     "cevap": "Gümrük idaresince bir aylık süre verilir; gerekirse bu süre gümrük idaresince en çok iki ay uzatılabilir.",
+     "dayanak": "GY md. 523/3",
+     "kanit": "bu eşyanın antrepodan çıkarılması için gümrük idaresince bir aylık süre verilir. Bu sürenin uzatılmasını gerektirir bir durumun olması halinde, bu süre gümrük idaresince en çok iki ay uzatılabilir."
+    },
+    {
+     "alt_konu": "Antreponun devri",
+     "soru": "Gümrük Yönetmeliğine göre D tipi antrepo kime devredilebilir?",
+     "cevap": "Ancak kayıt yoluyla rejime giriş iznine sahip bir başka kişiye devredilebilir.",
+     "dayanak": "GY md. 523/4",
+     "kanit": "D tipi antrepo, ancak kayıt yoluyla rejime giriş iznine sahip bir başka kişiye devredilebilir."
+    },
+    {
+     "alt_konu": "Antreponun devri",
+     "soru": "Gümrük Yönetmeliğine göre antrepo devir talepleri hangi makamca sonuçlandırılır?",
+     "cevap": "İşletmeci ile devralacak kişinin gümrük müdürlüğüne müştereken başvurusu üzerine gümrük müdürlüğünün görüşüyle bölge müdürlüğüne, bölge müdürlüğünün görüşü ile Bakanlığa aktarılır ve Bakanlıkça sonuçlandırılır.",
+     "dayanak": "GY md. 523/5, 523/7",
+     "kanit": "Antrepo devir talepleri, bölge müdürlüğünün görüşü ile birlikte Bakanlığa aktarılır ve Bakanlıkça sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Antreponun devri",
+     "soru": "Gümrük Yönetmeliğine göre antrepo işleticisi şirketin hisselerinin devri halinde gümrük müdürlüğüne hangi süre içinde bilgi verilir ve hangi oranda devirde sabıka şartı aranır?",
+     "cevap": "10 iş günü içinde Gümrük Müdürlüğüne bilgi verilir; şirket sermayesinin %10 veya fazlasının devredilmesi halinde devralan kişiler için sabıka şartı uygulanır, şart sağlanamazsa antrepoya eşya girişine izin verilmez.",
+     "dayanak": "GY md. 523/12",
+     "kanit": "Şirket hisselerinin devri durumunda, 10 iş günü içerisinde Gümrük Müdürlüğüne bilgi verilir. Şirket sermayesinin % 10 veya fazlasının devredilmesi durumunda, devralan kişilere ilişkin 518 inci maddenin üçüncü fıkrası hükmü uygulanır."
+    },
+    {
+     "alt_konu": "Antreponun sahibinin isteği üzerine kapatılması",
+     "soru": "Gümrük Yönetmeliğine göre kapatılacak antrepodaki eşya hangi süre içinde ve kimin masrafıyla antrepodan çıkarılır?",
+     "cevap": "Her türlü masrafı antrepo sahiplerine ait olmak üzere en geç altı ay içinde gösterilen diğer antrepolara nakledilir, ihraç edilir ya da serbest dolaşıma sokulur; bu işlemler tamamlanıncaya kadar işletici ve/veya kullanıcının sorumluluğu devam eder.",
+     "dayanak": "GY md. 523/10",
+     "kanit": "her türlü masrafı antrepo sahiplerine ait olmak üzere en geç altı ay içerisinde gümrük müdürlüğünce gösterilen diğer antrepolara nakil veya yabancı memleketlere ihraç olunur"
+    },
+    {
+     "alt_konu": "Antrepolarda yapılacak değişiklikler",
+     "soru": "Gümrük Yönetmeliğine göre antrepo planında değişiklik gerektiren tadilat, genişletme ve daraltma talepleri hangi makamca sonuçlandırılır?",
+     "cevap": "Gümrük müdürlüğünün görüşü ile bölge müdürlüğüne aktarılır ve bölge müdürlüğünce sonuçlandırılarak Bakanlığa bilgi verilir. Plan değişikliği gerektirmeyen talepler gümrük müdürlüğünce sonuçlandırılır.",
+     "dayanak": "GY md. 524/1",
+     "kanit": "antrepo planında değişiklik yapılmasını gerektiren tadilat, genişletme ve daraltma talepleri ... bölge müdürlüğünce sonuçlandırılarak Bakanlığa bilgi verilir."
+    },
+    {
+     "alt_konu": "Antrepolarda yapılacak değişiklikler",
+     "soru": "Gümrük Yönetmeliğine göre antreponun başka bir adrese taşınması ve akaryakıt antrepolarına tank ilavesi talepleri hangi makamca sonuçlandırılır?",
+     "cevap": "Gümrük müdürlüğünün ve bölge müdürlüğünün görüşleriyle Bakanlığa aktarılır ve Bakanlıkça sonuçlandırılır.",
+     "dayanak": "GY md. 524/2",
+     "kanit": "denetiminde bulunan başka bir adrese taşınması talepleri ile akaryakıt antrepolarına ilişkin tank ilavesi talepleri ... Talep bölge müdürlüğünün görüşü ile birlikte Bakanlığa aktarılır ve Bakanlıkça sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Eşya girişinin durdurulması ve iznin geri alınması; kusurlar ve fiyat tarifesi",
+     "soru": "Gümrük Yönetmeliğine göre antrepo işleticilerinin yatırım izni ve açma izni şartlarını taşıyıp taşımadıkları ne zaman kontrol edilir?",
+     "cevap": "Her yıl Ocak ayı itibarıyla kontrol edilir.",
+     "dayanak": "GY md. 525/1",
+     "kanit": "Antrepo işleticilerinin 518 inci maddenin ikinci ve üçüncü fıkraları ile 519 uncu maddede aranan şartları taşıyıp taşımadıkları her yıl Ocak ayı itibarıyla kontrol edilir."
+    },
+    {
+     "alt_konu": "Eşya girişinin durdurulması ve iznin geri alınması; kusurlar ve fiyat tarifesi",
+     "soru": "Gümrük Yönetmeliğine göre taahhüt ve yükümlülüklerine uymayan antrepo işleticisine yükümlülüklerini yerine getirmesi için en fazla ne kadar süre verilir ve bu süre içinde eşya girişinin durdurulmasına kim karar verebilir?",
+     "cevap": "İlk tebligat tarihinden başlamak üzere en fazla bir yıl süre verilir; yükümlülükler yerine getirilinceye kadar tedbir olarak eşya girişinin durdurulmasına Bakanlıkça karar verilebilir. Süre sonunda yerine getirilmezse izin geri alınır.",
+     "dayanak": "GY md. 525/2",
+     "kanit": "ilk tebligat tarihinden başlamak ve en fazla bir yıl olmak üzere bu yükümlülüklerini yerine getirmelerini, aksi halde verilen süre sonunda iznin geri alınacağını bildirir. ... tedbir mahiyetinde antrepoya eşya girişinin durdurulmasına Bakanlıkça karar verilebilir."
+    },
+    {
+     "alt_konu": "Eşya girişinin durdurulması ve iznin geri alınması; kusurlar ve fiyat tarifesi",
+     "soru": "Gümrük Yönetmeliğine göre sahibinin isteği dışında antrepo açma izni geri alınan şirketin yöneticileri, ortakları ve %10 veya daha fazla sermaye sahiplerinin yer aldığı tüzel kişilere ne kadar süre yeniden antrepo açma izni verilmez?",
+     "cevap": "İznin geri alındığı tarihten itibaren 5 yıl süre ile yeniden antrepo açma izni verilmez; bu süreden sonraki başvurular Bakanlıkça sonuçlandırılır.",
+     "dayanak": "GY md. 525/6",
+     "kanit": "iznin geri alındığı tarihten itibaren 5 yıl süre ile yeniden antrepo açma izni verilmez."
+    },
+    {
+     "alt_konu": "Eşya girişinin durdurulması ve iznin geri alınması; kusurlar ve fiyat tarifesi",
+     "soru": "Gümrük Yönetmeliğine göre Ek-80'de sayılan hafif ve orta kusurların tespiti halinde antrepo işleticisine kusurların giderilmesi için ne kadar süre verilir?",
+     "cevap": "İlk tebligat tarihinden itibaren hafif kusurda üç ay, orta kusurda bir ay süre verilir ve bu sürede eşya girişine izin verilir; süreler en fazla bir kez ve verilen süre kadar uzatılır. Ağır kusurda ve süresinde giderilmeyen kusurlarda eşya girişine izin verilmez.",
+     "dayanak": "GY md. 525/10",
+     "kanit": "\"Hafif Kusur\"da üç ay, \"Orta Kusur\"da bir ay süre verilerek yükümlülüklerin yerine getirilmesi bildirilir ve bu sürede antrepoya eşya girişine izin verilir."
+    },
+    {
+     "alt_konu": "Eşya girişinin durdurulması ve iznin geri alınması; kusurlar ve fiyat tarifesi",
+     "soru": "Gümrük Yönetmeliğine göre genel antrepolarda uygulanacak yıllık fiyat tarifesi ne zamana kadar ve nereye gönderilir?",
+     "cevap": "Antrepo işleticilerince Ocak ayı sonuna kadar ilgili gümrük ve dış ticaret bölge müdürlüğüne gönderilir ve bölge müdürlüğünün internet sitesinde yayımlanır; gönderilmezse antrepoya eşya girişine izin verilmez. Yeni açılan genel antrepolarda izin ayını takip eden ayın sonuna kadar gönderilir.",
+     "dayanak": "GY md. 525/11",
+     "kanit": "Genel antrepolarda uygulanacak yıllık fiyat tarifesi, antrepo işleticileri tarafından Ocak ayı sonuna kadar ilgili gümrük ve dış ticaret bölge müdürlüğüne gönderilir"
+    },
+    {
+     "alt_konu": "Antrepo işleticisi ve kullanıcısının teminatı",
+     "soru": "Gümrük Yönetmeliğine göre götürü veya yaygın götürü teminat hükümleri hangi antrepo ve eşya için uygulanmaz?",
+     "cevap": "Akaryakıt antrepoları ile 4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı liste kapsamı eşya için götürü ve yaygın götürü teminata ilişkin 527 nci madde hükümleri uygulanmaz.",
+     "dayanak": "GY md. 526/2",
+     "kanit": "Ancak akaryakıt antrepoları ile 4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı liste kapsamı eşya için 527 nci madde hükümleri uygulanmaz."
+    },
+    {
+     "alt_konu": "Antrepo işleticisi ve kullanıcısının teminatı",
+     "soru": "Gümrük Yönetmeliğine göre yetkilendirilmiş yükümlü sertifikası veya onaylanmış kişi statü belgesi sahipleri hangi tip antrepolarda yaptıkları işlemlerde diğer teminat türlerine ilaveten statülerine göre hesaplanmış götürü teminatı da kullanabilir?",
+     "cevap": "C ve E tipi antrepolarında yapılan işlemlerde kullanabilir.",
+     "dayanak": "GY md. 526/3",
+     "kanit": "C ve E tipi antrepolarında yapılan işlemlerde ikinci fıkrada belirtilen teminat türlerine ilaveten 494 üncü maddenin birinci fıkrası uyarınca hesaplanmış götürü teminat da kullanılabilir."
+    },
+    {
+     "alt_konu": "Götürü ve yaygın götürü teminat",
+     "soru": "Gümrük Yönetmeliğine göre antrepo işleticilerince her bir antrepo için verilecek götürü teminat nasıl hesaplanır?",
+     "cevap": "1.000 m² veya 2.000 m³'e kadar olanlar için 3.000.000 TL; 1.000 m²'den sonraki her 1.000 m² için ve 2.000 m³'den sonraki her 2.000 m³ için 1.000.000 TL eklenir (altındaki artışlar tamamlanır).",
+     "dayanak": "GY md. 527/2",
+     "kanit": "1.000 m² veya 2.000 m³'e kadar olanlar için 3.000.000 ... 1.000 m²'den sonraki her 1.000 m² için 1.000.000"
+    },
+    {
+     "alt_konu": "Götürü ve yaygın götürü teminat",
+     "soru": "Gümrük Yönetmeliğine göre bir antrepo için hesaplanan götürü teminatın üst sınırı nedir?",
+     "cevap": "Hesaplanan götürü teminatın 40.000.000 TL'yi aşması durumunda aşan miktar dikkate alınmaz.",
+     "dayanak": "GY md. 527/2-ç",
+     "kanit": "Bir antrepo için hesaplanan götürü teminatın 40.000.000 ... TL'yi aşması durumunda aşan miktar dikkate alınmaz."
+    },
+    {
+     "alt_konu": "Götürü ve yaygın götürü teminat",
+     "soru": "Gümrük Yönetmeliğine göre yaygın götürü teminatın kullanılacağı antrepo sayısı 5 ve üzerinde olduğunda ne kadar teminat verilebilir?",
+     "cevap": "Hesaplanan götürü teminatların toplam tutarının %75'i kadar yaygın götürü teminat verilebilir.",
+     "dayanak": "GY md. 527/5",
+     "kanit": "Antrepo işleticilerince yaygın götürü teminatın kullanılacağı antrepo sayısının 5 ve üzeri olduğu durumda, ikinci fıkra uyarınca hesaplanan götürü teminatların toplam tutarının % 75'i kadar yaygın götürü teminat verilebilir."
+    },
+    {
+     "alt_konu": "Antrepolarda aranacak şartlar; akaryakıtın tanklara alınması",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşımda olmayan akaryakıtın antrepo tanklarına alınması hangi yolla yapılır?",
+     "cevap": "Tamamen deniz yoluyla veya boru hattıyla yapılır; Bakanlık izniyle karayolu veya demiryoluyla yapılan akaryakıt transiti ile havalimanlarında hava taşıtlarına yakıt vermek için açılan antrepolar bunun istisnasıdır.",
+     "dayanak": "GY md. 534/3",
+     "kanit": "serbest dolaşımda olmayan akaryakıtın tanklara alınması tamamen deniz yoluyla veya boru hattıyla yapılır."
+    },
+    {
+     "alt_konu": "Antrepo stok kayıtları",
+     "soru": "Gümrük Yönetmeliğine göre B tipi antrepoda rejime giriş ve rejimi sona erdiren beyanname ve belgelerin kaydını kim tutar?",
+     "cevap": "Denetleyici gümrük idaresi tutar ve belgeleri muhafaza eder; B tipi antrepoda stok kayıtları tutulmayabilir. (F tipi antrepoda ise gümrük kayıtları stok kayıtlarının yerini alır.)",
+     "dayanak": "GY md. 536/3",
+     "kanit": "B tipi antrepoda, denetleyici gümrük idaresi, rejime giriş beyannamesinin ve rejimi sona erdiren beyanname ve belgelerin kaydını tutar ve belgeleri muhafaza eder."
+    },
+    {
+     "alt_konu": "Stok kayıt işlemlerinin zamanı",
+     "soru": "Gümrük Yönetmeliğine göre A, C ve D tipi antrepolarda eşyanın stok kayıtlarına girişi ne zaman yapılır?",
+     "cevap": "Eşyanın antrepoya fiziken girdiği sırada yapılır. (E tipinde ise eşya antrepo addedilen depolama yerine ulaştığında yapılır.)",
+     "dayanak": "GY md. 537/1-a",
+     "kanit": "A, C ve D tipi antrepoda eşyanın antrepoya fiziken girdiği sırada,"
+    },
+    {
+     "alt_konu": "Yıllık sayımlar",
+     "soru": "Gümrük Yönetmeliğine göre antrepolarda yapılan sayımda noksan çıkan eşya için vergilerin tahsili yanında hangi idari para cezası uygulanır?",
+     "cevap": "Kanunun 236 ncı maddesi uyarınca bu eşyanın gümrüklenmiş değerinin iki katı idari para cezası alınır; vergiler işletici veya kullanıcıdan tahsil edilir ya da teminatından mahsup edilir.",
+     "dayanak": "GY md. 538/3",
+     "kanit": "Ayrıca, Kanunun 236 ncı maddesi uyarınca bu eşyanın gümrüklenmiş değerinin iki katı idari para cezası alınır."
+    },
+    {
+     "alt_konu": "Yıllık sayımlar",
+     "soru": "Gümrük Yönetmeliğine göre hangi antrepolar gümrük idaresince yapılan yıllık sayımın kapsamı dışındadır?",
+     "cevap": "Yetkilendirilmiş gümrük müşavirlerince fiziki sayım yapılarak stok kayıtları altışar aylık dönemler itibarıyla tespit edilen ve raporları gümrük müdürlüğüne sunulan genel ve özel antrepolar.",
+     "dayanak": "GY md. 538/4",
+     "kanit": "Yetkilendirilmiş gümrük müşavirleri tarafından fiziki sayım yapılarak stok kayıtları altışar aylık dönemler itibarıyla tespit edilen ve buna ilişkin raporları ilgili gümrük müdürlüğüne sunulan genel ve özel antrepolar, birinci fıkranın kapsamı dışındadır."
+    },
+    {
+     "alt_konu": "Yıllık sayımlar",
+     "soru": "Gümrük Yönetmeliğine göre antrepo sayımında fazla çıkan eşya için tasfiye yanında hangi para cezası alınır?",
+     "cevap": "Kanunun 236 ncı maddesi uyarınca fazla çıkan eşyaya isabet eden ithalat veya ihracat vergileri kadar para cezası alınır.",
+     "dayanak": "GY md. 538/5",
+     "kanit": "Ayrıca, Kanunun 236 ncı maddesi uyarınca, fazla çıkan eşyaya isabet eden ithalat veya ihracat vergileri kadar para cezası alınır."
+    },
+    {
+     "alt_konu": "E tipi antrepo ve montaj müsaadeli özel antrepolar",
+     "soru": "Gümrük Yönetmeliğine göre E tipi antrepoda antrepo addedilen yer, montaj mahalli veya eşya sahibinin deposuna hangi eşya konulabilir?",
+     "cevap": "Sadece antrepo sahibi adına gelen eşyadan; sanayicilere ait yatırım malı, hammadde, makine ve benzeri eşya ile hacim, ağırlık ve hassasiyeti nedeniyle doğrudan montaj mahalline alınması gereken eşya; sadece ithalatçı statüsünde olanlar için bozulabilir veya telef olabilir eşya ile ağır ve hacimli eşya konulabilir.",
+     "dayanak": "GY md. 539/2",
+     "kanit": "Sadece antrepo sahibi adına gelen eşyadan; ... Sadece ithalatçı statüsünde olmakla birlikte, bozulabilir ya da telef olabilir türdeki eşya ile büyük yer tutan ağır ve hacimli eşya,"
+    },
+    {
+     "alt_konu": "E tipi antrepo ve montaj müsaadeli özel antrepolar",
+     "soru": "Gümrük Yönetmeliğine göre sadece antrepo sahibi adına gelen yatırım malı, bozulabilir ya da ağır ve hacimli eşyanın antrepo addedilen yere, montaj mahalline veya eşya sahibinin deposuna konulduğu şekilde kullanılan E tipi antrepoların işletme hakkı başkasına devredilebilir mi?",
+     "cevap": "Hayır, bu şekilde kullanılan E tipi antrepoların işletme hakkının başkasına devrine izin verilmez.",
+     "dayanak": "GY md. 539/4",
+     "kanit": "Bu maddede belirtildiği şekilde kullanılan E tipi antrepoların işletme hakkının başkasına devrine izin verilmez. ... antrepo rejimi hükümlerine tabi olarak, antrepo addedilen yer veya montaj mahallerine ya da eşya sahibinin deposuna konulabilir."
+    },
+    {
+     "alt_konu": "E tipi antrepo ve montaj müsaadeli özel antrepolar",
+     "soru": "Gümrük Yönetmeliğine göre montaj müsaadeli özel antrepolara konulacak eşya için teminat alınır mı?",
+     "cevap": "Teminat alınması zorunludur; ancak yatırım teşvik belgesinde yer alan ve %100 gümrük muafiyetine tabi yatırım malları belgenin geçerlik süresi sonuna kadar teminat aranmadan konulabilir, süre bitince vergiler teminata bağlanır.",
+     "dayanak": "GY md. 539/6",
+     "kanit": "Montaj müsaadeli özel antrepolara konulacak eşya için teminat alınması zorunludur. ... % 100 gümrük muafiyetine tabi olması halinde, belgenin geçerlik süresi sonuna kadar antrepoya teminat aranılmadan konulabilir."
+    },
+    {
+     "alt_konu": "E tipi antrepo ve montaj müsaadeli özel antrepolar",
+     "soru": "Gümrük Yönetmeliğine göre montaj müsaadeli özel antrepolara konulan eşyanın montajı ve serbest dolaşıma giriş işlemleri hangi süre içinde tamamlanmalıdır?",
+     "cevap": "Yatırım teşvik belgesi konusu ise ek süreler dahil belge süresi sonunda; teşvik belgesi konusu değilse iki yıl içinde tamamlanmalıdır. Haklı ve geçerli sebeplerin tevsiki halinde gümrük idaresince uzatılabilir.",
+     "dayanak": "GY md. 539/10",
+     "kanit": "Yatırım Teşvik Belgesi konusu olması halinde ek süreler dahil belge süresi sonunda; teşvik belgesi konusu olmaması halinde ise iki yıl içinde montajının tamamlanarak serbest dolaşıma giriş işlemlerinin yapılması gerekir."
+    },
+    {
+     "alt_konu": "Özelliği olan eşya için bilgi verme",
+     "soru": "Gümrük Yönetmeliğine göre çabuk bozulma, akma veya sızma tehlikesine maruz eşya antrepoya konulduğunda ne yapılır ve sahibince çekilmezse hangi hükümler uygulanır?",
+     "cevap": "İşleticiler koruyucu tedbirleri alarak durumu görevli gümrük memuru veya yetkilendirilmiş gümrük müşaviri ile birlikte tutanağa bağlar, eşya sahibi, temsilcisi veya taşıyıcısına haber vererek kısa sürede kaldırılmasını ister; çekilmeyen eşya hakkında tasfiye hükümleri uygulanır.",
+     "dayanak": "GY md. 540/1-2",
+     "kanit": "antrepolara konur konmaz işleticiler tarafından gereken koruyucu tedbirler alınarak durum görevli gümrük memuru veya yetkilendirilmiş gümrük müşaviri ile birlikte tutanağa bağlanır. ... Bu suretle sahip ve taşıyıcılarınca çekilmeyen eşya hakkında tasfiye hükümleri uygulanır."
+    },
+    {
+     "alt_konu": "Akaryakıt antrepoları",
+     "soru": "Gümrük Yönetmeliğine göre akaryakıt antreposuna konulacak petrol ürününe ilişkin taşıma belgesi bilgileri gümrük müdürlüğüne ne kadar önceden bildirilir?",
+     "cevap": "Yirmidört saat öncesinden bildirilmesi gerekir.",
+     "dayanak": "GY md. 541/3",
+     "kanit": "taşıma belgesinde yer alan bilgilerin, antreponun denetiminde bulunduğu gümrük müdürlüğüne yirmidört saat öncesinden bildirilmesi gerekmektedir."
+    },
+    {
+     "alt_konu": "Dökme gelen sıvılar ve tank işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre denizyoluyla gelen veya giden benzin, motorin, fuel-oil, LPG gibi ürünlerin akaryakıt antreposuna giriş ve çıkışında ölçüm nasıl yapılır?",
+     "cevap": "Ek-80'de belirtilen sayaçlar ile ölçüm yapılır; usul ve esaslar Bakanlıkça belirlenir.",
+     "dayanak": "GY md. 542/1",
+     "kanit": "akaryakıt antreposuna girişinde ve antrepodan çıkışında Ek-80'in II. Bölümü'nün B kısmının 16 ncı maddesinde belirtilen sayaçlar ile ölçüm yapılır."
+    },
+    {
+     "alt_konu": "Dökme gelen sıvılar ve tank işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre dökme gelen sıvıların kısmen dolu bir tanka konulmasına hangi şartla izin verilir?",
+     "cevap": "Yeni gelen sıvının aynı cins ve nev'iden ve aynı vergi oranına tabi olması şartıyla izin verilir; boşaltmaya başlamadan önce tank mevcudu tespit edilir. Talebin kabulü ayrıca yurtdışı analiz raporu ile faturadaki cins ve nev'e ilişkin bilgilerin uyum göstermesine ve talep sahibi firmadan taahhütname alınmasına bağlıdır; aynı cins, nev'i ve vergi oranına ilişkin analiz raporu alınmadan bu tanktan eşya çıkışına izin verilmez. (İstisna: aynı cins, nev'i ve GTİP'te olup farklı vergi oranına tabi sıvılar, işlemler vergileri en yüksek eşya esas alınarak tamamlanmak ve eşya yurtdışına transit edilmek kaydıyla kısmen dolu tanka konulabilir.)",
+     "dayanak": "GY md. 542/3, 542/4, 542/9",
+     "kanit": "Yeni gelen sıvılar kısmen dolu olan bir tanka konulmak istenir ise, yeni gelen sıvının aynı cins ve nev'iden ve aynı vergi oranına tabi olması şartıyla izin verilir ... Gümrüğe ibraz edilecek yurtdışı analiz raporu ile bu eşyaya ilişkin faturada kayıtlı cins ve nev'ine ilişkin bilgilerin uyum göstermesi, ... Ancak, yeni konulan sıvının tankta bulunan sıvı ile aynı cins ve nev'iden ve aynı vergi oranına tabi olduğuna ilişkin analiz raporu alınmadan bu tanktan eşya çıkışına izin verilmez. ... vergileri en yüksek olan eşya esas alınarak tekemmül ettirilmesi ve eşyanın yurtdışına transit edilmesi kaydıyla kısmen dolu tanka konulabilir."
+    },
+    {
+     "alt_konu": "Dökme gelen sıvılar ve tank işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre aynı tankta bulunan serbest dolaşıma girmiş dökme eşyanın antrepodan çıkarılması hangi süre içinde tamamlanmalıdır?",
+     "cevap": "Akaryakıt antreposu tanklarına konulan eşya için on beş gün, diğer eşya için altmış gün içinde tamamlanır; gümrük müdürlükleri bu süreleri otuz güne kadar uzatmaya yetkilidir, diğer farklı durumları bölge müdürlükleri sonuçlandırır.",
+     "dayanak": "GY md. 542/6-d",
+     "kanit": "akaryakıt antreposu tanklarına konulan eşya için on beş gün, diğer eşya için ise altmış gün içinde tamamlanır. Bu süreler içerisinde serbest dolaşıma girmiş eşyanın antrepodan çekilememesi halinde bu süreleri otuz güne kadar uzatmaya gümrük müdürlükleri yetkilidir."
+    },
+    {
+     "alt_konu": "Dökme gelen sıvılar ve tank işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre tanka konmuş sıvıların tahlil sonucu belli olmadan tanktan eşya çıkarılabilir mi?",
+     "cevap": "Transit suretiyle çıkış hariç çıkarılamaz; acele hallerde eşya çekilmeden önce örnek alınıp tahlile gönderilmiş olması şartıyla tahlil sonucu beklenmeden çekilebilir.",
+     "dayanak": "GY md. 545/1-2",
+     "kanit": "Transit suretiyle çıkış hariç olmak üzere, bir tanka konmuş sıvıların tahlil sonucu belli olmadıkça, bu tanktan eşya çıkarılamaz. ... Bu takdirde, eşya çekilmeden evvel örnek alınıp tahlile gönderilmiş bulunması şarttır."
+    },
+    {
+     "alt_konu": "Rafinerilerde verimlilik oranı ve yıl sonu muvazene",
+     "soru": "Gümrük Yönetmeliğine göre rafinerilerde kayden mevcut görülen miktar ile yıl sonu envanter miktarı arasındaki eksik veya fazlalıkların hangi orana kadarı verim marjı kabul edilir?",
+     "cevap": "Yıllık ithal tutarının %2'sini aşmayan eksik veya fazlalıklar verim marjı kabul edilir.",
+     "dayanak": "GY md. 550/2-b",
+     "kanit": "yıllık ithal tutarının % 2'sini aşmayan eksik veya fazlalıklar verim marjı kabul edilir."
+    },
+    {
+     "alt_konu": "Fuar ve sergi yerleri",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler hangi antrepo türünden sayılır?",
+     "cevap": "Özel antrepo sayılır ve izin belgesi düzenlenirken antrepo tipi gösterilir.",
+     "dayanak": "GY md. 551/1",
+     "kanit": "Serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler, özel antrepo sayılır ve izin belgesi düzenlenirken antrepo tipi gösterilir."
+    },
+    {
+     "alt_konu": "Ortak hükümler: dosya saklama, izin belgesi ve harçlar",
+     "soru": "Gümrük Yönetmeliğine göre antrepo ve geçici depolama yerleri için açılan dosyalardaki belgeler, bu yerler kapatıldıktan sonra ne kadar süre saklanır?",
+     "cevap": "Kapanış tarihinden itibaren beş yıl süre ile saklanır.",
+     "dayanak": "GY md. 553/1",
+     "kanit": "Antrepolar ve geçici depolama yerleri kapatılsa dahi, bu belgeler kapanış tarihinden itibaren beş yıl süre ile saklanır."
+    },
+    {
+     "alt_konu": "Ortak hükümler: dosya saklama, izin belgesi ve harçlar",
+     "soru": "Gümrük Yönetmeliğine göre antrepo ve geçici depolama yerlerine ilişkin yıllık harcın yatırıldığına dair makbuz ne zamana kadar ibraz edilmezse eşya girişine izin verilmez?",
+     "cevap": "Yıllık harcın Ocak ayı sonuna kadar yatırıldığına ilişkin makbuz gümrük idaresine ibraz edilmezse bu yerlere eşya girişine izin verilmez.",
+     "dayanak": "GY md. 553/5",
+     "kanit": "Antrepolara veya geçici depolama yerlerine ilişkin yıllık harcın Ocak ayı sonuna kadar yatırıldığına ilişkin makbuzun gümrük idaresine ibraz edilmemesi halinde, bu antrepolara ve geçici depolama yerlerine eşya girişine izin verilmez."
+    },
+    {
+     "alt_konu": "Görevli gümrük memurları ve güvenlik önlemleri",
+     "soru": "Gümrük Yönetmeliğine göre hangi antrepo ve geçici depolama yerlerinde çift kilit bulundurulması zorunludur?",
+     "cevap": "Yetkilendirilmiş gümrük müşaviri bulunmayan antrepo ve geçici depolama yerlerinde zorunludur; gümrüğe ait anahtarlar gümrük memurlarınca kullanılır.",
+     "dayanak": "GY md. 555/1-2",
+     "kanit": "Yetkilendirilmiş gümrük müşaviri bulunmayan antrepo ile geçici depolama yerlerinde çift kilit bulundurulması zorunludur."
+    },
+    {
+     "alt_konu": "Bakanlığın yetkileri ve yetki devri",
+     "soru": "Gümrük Yönetmeliğine göre Bakanlık, geçici depolama yeri veya antrepo açma ve işletme izni verme ve kapatma yetkisini kime devredebilir?",
+     "cevap": "Sınırlarını açık olarak belirtmek kaydıyla gümrük ve ticaret bölge müdürlüklerine devredebilir.",
+     "dayanak": "GY md. 559/2",
+     "kanit": "Bakanlık, sınırlarını açık olarak belirtmek kaydıyla, bu Yönetmelik çerçevesinde geçici depolama yeri veya antrepo açma ve işletme izni verme ve kapatma yetkisini gümrük ve ticaret bölge müdürlüklerine devredebilir."
+    },
+    {
+     "alt_konu": "Geçici depolanan eşya statüsü ve sürelerin başlangıcı",
+     "soru": "Gümrük Yönetmeliğine göre ihracat eşyası geçici depolanan eşya statüsünde değerlendirilebilir mi?",
+     "cevap": "Evet, talep halinde ihracat eşyasının da geçici depolanan eşya kapsamında değerlendirilmesi mümkündür.",
+     "dayanak": "GY md. 77/1",
+     "kanit": "Talep halinde ihracat eşyasının da bu kapsamda değerlendirilmesi mümkündür."
+    },
+    {
+     "alt_konu": "Geçici depolanan eşya statüsü ve sürelerin başlangıcı",
+     "soru": "Gümrük Yönetmeliğine göre deniz veya hava taşıtının Türkiye Gümrük Bölgesinde birden fazla liman veya havalimanına uğraması halinde geçici depolanan eşyaya ilişkin süreler ne zaman başlar?",
+     "cevap": "Taşıtın eşyanın boşaltılacağı gümrük idaresine girişine ilişkin gümrük veya gümrük muhafaza yetkililerince tutulan kayıt tarihinden itibaren başlar. (Özet beyan sunumdan önce verilmişse süreler eşyanın gümrüğe sunulduğu tarihten başlar.)",
+     "dayanak": "GY md. 77/2",
+     "kanit": "taşıt aracının eşyanın boşaltılacağı gümrük idaresine girişine ilişkin gümrük veya gümrük muhafaza yetkililerince tutulan kayıt tarihinden itibaren başlar."
+    },
+    {
+     "alt_konu": "Geçici depolanan eşyanın depolanacağı yerler ve teminat",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçici depolanan eşya nerede depolanabilir ve gümrük idareleri bu eşya için teminat isteyebilir mi?",
+     "cevap": "Sadece gümrük idarelerinin uygun gördüğü yerlerde ve belirlediği koşullarda depolanabilir; gümrük idareleri tahakkuk edebilecek gümrük vergilerinin ödenmesini sağlamak üzere eşya sahibinden teminat isteyebilir.",
+     "dayanak": "GK md. 48/1",
+     "kanit": "Geçici depolanan eşya, sadece gümrük idarelerinin uygun gördüğü yerlerde ve bu idarelerin belirlediği koşullarda depolanabilir. ... tahakkuk edebilecek gümrük vergilerinin ödenmesini sağlamak üzere eşya sahibinden teminat isteyebilir."
+    },
+    {
+     "alt_konu": "Yolcu eşyası ambarları, kişisel kara taşıtları ve geçici depolama yeri addedilen açık alanlar",
+     "soru": "Gümrük Yönetmeliğine göre limanlar gibi gümrük işlemlerinin yapıldığı yerlerde ağır ve havaleli eşyanın konulmasına mahsus açık alanlar hangi statüdedir?",
+     "cevap": "Geçici depolama yerlerinin mütemmim cüz'ü niteliğindeki bu açık alanlar da geçici depolama yeri addolunur.",
+     "dayanak": "GY md. 79/2",
+     "kanit": "Ağır ve havaleli eşyanın konulmasına mahsus olmak üzere, limanlar gibi gümrük işlemlerinin yapıldığı yerlerde bulunan geçici depolama yerlerinin mütemmim cüz'ü niteliğindeki açık alanlar"
+    },
+    {
+     "alt_konu": "Geçici depolanan eşyanın elleçlenmesi",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolanan eşya hangi koşulla ve hangi elleçleme faaliyetlerine tabi tutulabilir?",
+     "cevap": "Görünüş ve teknik özellikleri değiştirilmemek koşuluyla, aynı durumda muhafazasını sağlamak üzere gümrük idaresinin izni ve denetlemesi altında kaplarının tamiri veya sağlamlaştırılması, yenilenmesi, havalandırılması, kalburlanması gibi elleçlemelere tabi tutulabilir.",
+     "dayanak": "GY md. 90; GK md. 49",
+     "kanit": "görünüş ve teknik özelliklerinin değiştirilmemesi koşuluyla aynı durumda muhafazalarını sağlamak üzere, gümrük idaresinin izni ve denetlemesi altında"
+    },
+    {
+     "alt_konu": "Süresinde işlem başlatılmayan geçici depolanan eşya",
+     "soru": "Gümrük Yönetmeliğine göre süresi içinde gümrükçe onaylanmış bir işlem veya kullanım belirlenerek işlemlerine başlanmayan geçici depolanan eşya hakkında gümrük idaresi tasfiye dışında ne yapabilir?",
+     "cevap": "Durumu belirleninceye kadar eşyayı sahibinin risk ve hesabına gümrüğün denetimindeki uygun göreceği bir yere sevk edebilir veya eşya sahipleri hesabına geçici depolama yeri işleticisince antrepoya kaldırılabilir; bu sırada tasfiye hükümlerinin uygulanmasına devam olunur.",
+     "dayanak": "GY md. 86/2; GK md. 50",
+     "kanit": "Gümrük idareleri, bu tür eşyayı durumu belirleninceye kadar eşya sahibinin risk ve hesabına gümrüğün denetimindeki uygun göreceği bir yere sevk edebilir veya söz konusu eşya sahipleri hesabına geçici depolama yeri işleticisince antrepoya kaldırılabilir."
+    },
+    {
+     "alt_konu": "Geçici depolama yerlerine eşya alınması",
+     "soru": "Gümrük Yönetmeliğine göre eşya geçici depolama yerlerine kimin sorumluluğu ve kimin gözetimi altında alınır?",
+     "cevap": "Geçici depolama yerinde görevli işletme personelinin sorumluluğu ve gümrük memurlarının gözetimi altında alınır.",
+     "dayanak": "GY md. 78/1",
+     "kanit": "Eşya, geçici depolama yerlerine buralarda görevli işletme personelinin sorumluluğu ve gümrük memurlarının gözetimi altında alınır."
+    },
+    {
+     "alt_konu": "Geçici depolama yeri bulunmayan yerler",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolama yeri bulunmayan yerlere getirilen eşyanın konulduğu yerin geçici depolama yeri kabul edilebilmesi için hangi şart aranır?",
+     "cevap": "Eşyanın hacim ve ağırlık itibarıyla geçici depolama yeri bulunan bir gümrük idaresine sevkinin masraflı veya külfetli olması ya da mevcut geçici depolama yerine konulmasının mümkün olmaması gerekir.",
+     "dayanak": "GY md. 97/1",
+     "kanit": "eşyanın hacim ve ağırlık itibariyle geçici depolama yeri bulunan bir gümrük idaresine sevkinin masraflı veya külfetli olması ya da eşyanın hacim ve ağırlık itibariyle mevcut geçici depolama yerine konulmasının mümkün olmaması gerekir."
+    },
+    {
+     "alt_konu": "Geçici depolama yeri bulunmayan yerler",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolama yeri bulunmayan yerlerde eşyanın konulduğu yerin geçici depolama yeri kabul edilmesine ilişkin başvuru hangi makamca sonuçlandırılır ve bu statü ne zaman sona erer?",
+     "cevap": "Gümrük müdürlüğünün görüşü üzerine bağlı bulunulan bölge müdürlüğünce sonuçlandırılır ve Bakanlığa bilgi verilir; buraya konulan eşyanın gümrük işlemlerinin tamamlanmasıyla geçici depolama yeri statüsü sona erer.",
+     "dayanak": "GY md. 514/1",
+     "kanit": "gümrük müdürlüğünün görüşü üzerine bağlı bulunulan bölge müdürlüğünce sonuçlandırılır ve Bakanlığa bilgi verilir."
+    },
+    {
+     "alt_konu": "Özel tertip gerektiren ve tehlikeli eşya",
+     "soru": "Gümrük Yönetmeliğine göre parlayıcı, patlayıcı, yanıcı veya özel tertibat gerektiren eşyaya uygun geçici depolama yeri bulunmaması halinde bu eşya nereye alınır?",
+     "cevap": "Doğrudan bu niteliklere uygun genel veya özel antrepolara alınır.",
+     "dayanak": "GY md. 81/4",
+     "kanit": "niteliklerine uygun özel tertip ve düzeneğe sahip geçici depolama yerleri bulunmaması halinde doğrudan 330 uncu maddede belirtilen ve bu niteliklerine uygun genel veya özel antrepolara alınır."
+    },
+    {
+     "alt_konu": "Rezerveli eşya",
+     "soru": "Gümrük Yönetmeliğine göre altın, gümüş, platin gibi kıymetli madenlerden yapılmış eşya ile mücevherat, antika, müze ve sanat eşyası geçici depolama yerinde nereye konulur?",
+     "cevap": "Rezerve yerine konulur ve üzerlerine zarar vermeyecek şekilde mühür tatbik edilir; rezerve yerleri işletme personeli ve gümrük memurlarınca çift kilit altında bulundurulur.",
+     "dayanak": "GY md. 84/3-4",
+     "kanit": "Altın, gümüş ve platin gibi kıymetli madenlerden yapılmış her türlü eşya ile mücevherat, antika, müze ve sanat eşyası da rezerve yerine konulur ve üzerlerine zarar vermeyecek şekilde mühür tatbik edilir."
+    },
+    {
+     "alt_konu": "Kaçak zannıyla el konulup iadesine karar verilen eşya",
+     "soru": "Gümrük Yönetmeliğine göre kaçak zannı ile el konulup mahkemece sahibine iadesine karar verilen eşya hakkında hangi süre içinde işlem yapılmalıdır?",
+     "cevap": "Kararın kesinleşmesinden sonra yapılan tebligat tarihinden itibaren eşya geçici depolanan eşya statüsüne girer; serbest dolaşımda değilse otuz gün içinde gümrükçe onaylanmış bir işlem veya kullanım tayin edilerek işlemleri tamamlanır, serbest dolaşımdaysa otuz gün içinde teslim alınır; aksi halde tasfiye edilir.",
+     "dayanak": "GY md. 85/1",
+     "kanit": "serbest dolaşımda bulunmuyorsa otuz gün içinde gümrükçe onaylanmış bir işlem veya kullanım tayin edilerek buna ilişkin işlemler tamamlanır; serbest dolaşımda bulunuyorsa kararın kesinleşmesini müteakip ilgilisine yapılacak tebligat tarihinden itibaren otuz gün içinde teslim alınır."
+    },
+    {
+     "alt_konu": "Eşyanın incelenmesi ve numune alınması",
+     "soru": "Gümrük Yönetmeliğine göre gümrükçe onaylanmış işlemden önce eşyadan alınan numunenin telef olması veya telafi edilemez kaybı halinde gümrük yükümlülüğü doğar mı?",
+     "cevap": "Hayır, bu durumda gümrük yükümlülüğünün doğmamış olduğu kabul edilir; aksi halde alınan numuneler gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulur.",
+     "dayanak": "GY md. 87/5",
+     "kanit": "Ancak numunenin telef olması veya telafi edilemez kaybı durumunda, gümrük yükümlülüğünün doğmamış olduğu kabul edilir."
+    },
+    {
+     "alt_konu": "Eşyanın başka geçici depolama yeri veya antrepoya nakli ve devri",
+     "soru": "Gümrük Yönetmeliğine göre başka bir gümrük idaresi denetimindeki geçici depolama yerine veya antrepoya nakli istenen eşya hangi hükümlere göre taşınır?",
+     "cevap": "Transit rejimi hükümlerine göre taşınır.",
+     "dayanak": "GY md. 96/1",
+     "kanit": "Başka bir gümrük idaresi denetimindeki geçici depolama yerine veya antrepoya nakli istenen eşya, transit rejimi hükümlerine göre taşınır."
+    },
+    {
+     "alt_konu": "Re'sen imha ve cebri icra yoluyla satış",
+     "soru": "Gümrük Yönetmeliğine göre gümrüğe sunulan ve beyandan önce hasara uğrayarak tehlike arz eden eşyanın re'sen imhasına kim karar verir?",
+     "cevap": "Gümrük idare amiri veya görevlendireceği amir veya memur başkanlığında en az üç kişiden oluşan komisyon karar verir ve imhayı sonuçlandırır; eşya sahibine haber verilmeden imha ettirilebilir, masraflar sahibinden tahsil edilir.",
+     "dayanak": "GY md. 98/1, 98/3",
+     "kanit": "gümrük idare amiri veya görevlendireceği amir veya memur başkanlığında en az üç kişiden oluşan bir komisyon tarafından karara bağlanır"
+    },
+    {
+     "alt_konu": "Re'sen imha ve cebri icra yoluyla satış",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolama yeri veya antrepoda bulunan ve gümrük işlemleri bitirilmemiş eşyanın cebri icra yoluyla satılması halinde rejime ilişkin yükümlülükleri kim yerine getirir?",
+     "cevap": "Eşyayı satın alan kişi yerine getirir; bu yükümlülükler yerine getirilmeden eşyanın cebri icra kararına dayanılarak teslim alınmasına izin verilmez.",
+     "dayanak": "GY md. 98/A",
+     "kanit": "eşyanın tabi tutulacağı rejime ilişkin gümrük, dış ticaret ve sair mevzuattan kaynaklanan tüm yükümlülükler eşyayı satın alan kişi tarafından yerine getirilir."
+    },
+    {
+     "alt_konu": "Geçici depolama yeri işleticilerinde aranan şartlar ve açma izni",
+     "soru": "Gümrük Yönetmeliğine göre ön izin gerekmeksizin geçici depolama yeri açılabilecek yerler hangileridir?",
+     "cevap": "Gümrüklü sahada, gümrük idaresi bulunan deniz ve hava limanı içinde veya iç gümrük idarelerinde gümrük müdürlüğüne bitişik yerler; bunlar dışındaki yerler için Bakanlıkça ön izin verilmesi gerekir.",
+     "dayanak": "GY md. 513/2-b, 513/3",
+     "kanit": "Gümrüklü sahada veya gümrük idaresi bulunan deniz ve hava limanı içerisinde veya iç gümrük idarelerinde gümrük müdürlüğüne bitişik, ... İkinci fıkranın (b) bendinde belirtilen yerler dışında geçici depolama yeri açma talepleri ile ilgili olarak"
+    },
+    {
+     "alt_konu": "Geçici depolama yeri işleticilerinde aranan şartlar ve açma izni",
+     "soru": "Gümrük Yönetmeliğine göre ön izinle açılacak geçici depolama yerlerinde alan ve mesafe şartları nelerdir?",
+     "cevap": "En az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması ve mutat yollar izlenerek gümrük müdürlüğüne en fazla 10 km mesafede olması gerekir.",
+     "dayanak": "GY md. 513/7",
+     "kanit": "en az 3.000 m2'si kapalı olmak üzere 10.000 m2'den küçük olmaması ve mutat yolların izlenmesi kaydıyla gümrük müdürlüğüne en fazla 10 km mesafede olması gerekir."
+    },
+    {
+     "alt_konu": "Geçici depolama yeri işleticilerinde aranan şartlar ve açma izni",
+     "soru": "Gümrük Yönetmeliğine göre ön izinle açılacak geçici depolama yerlerine ilişkin asgari alan şartları bakımından, taşıt depolanacak geçici depolama yerlerinde ve havayolu ile hızlı kargo taşımacılığına ilişkin geçici depolama yerlerinde hangi şartlar aranmaz?",
+     "cevap": "Taşıt depolanacak geçici depolama yerlerinde kapalı alan şartı, havayolu ile hızlı kargo taşımacılığına ilişkin geçici depolama yerlerinde ise alan şartı aranmaz.",
+     "dayanak": "GY md. 513/7",
+     "kanit": "Taşıt depolanacak geçici depolama yerlerinde kapalı alan ile havayolu ile hızlı ... kargo taşımacılığına ilişkin açılacak geçici depolama yerlerinde alan şartı aranmaz."
+    },
+    {
+     "alt_konu": "Geçici depolama yeri işleticilerinde aranan şartlar ve açma izni",
+     "soru": "Gümrük Yönetmeliğine göre liman işleticisinin ön izinle açacağı geçici depolama yerinde kapalı alan şartı hangi koşullarla aranmaz?",
+     "cevap": "Ekonomik ihtiyaç olması halinde, başvuranın liman işleticisi olması, 10.000.000 TL teminat verilmesi ve yerin limanın bağlı bulunduğu gümrük müdürlüğüne mutat yollarla en fazla 20 km mesafede olması koşullarıyla kapalı alan şartı aranmaz.",
+     "dayanak": "GY md. 513/10",
+     "kanit": "geçici depolama yeri açma talebinde bulunan kişinin liman işleticisi olması, geçici depolama yeri için 10.000.000 TL tutarında teminat verilmesi"
+    },
+    {
+     "alt_konu": "Geçici depolama yeri işleticisinin kayıt tutma ve mali sorumluluğu",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolama yerine eşyanın giriş ve çıkışına ilişkin kayıtlar nasıl tutulur?",
+     "cevap": "Geçici depolama yeri işleticilerince eşyanın girişine ve çıkışına eş zamanlı olarak bilgisayar ortamında tutulur ve her zaman gümrüğün denetlemesine hazır bulundurulur.",
+     "dayanak": "GY md. 515/1",
+     "kanit": "geçici depolama yeri işleticilerince eşyanın girişine ve çıkışına eş zamanlı olarak bilgisayar ortamında tutulur."
+    },
+    {
+     "alt_konu": "Geçici depolama yeri işleticisinin kayıt tutma ve mali sorumluluğu",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolama yerindeki eşyanın ziyanı, hasarı veya değiştirilmesinden doğan mali sorumluluk kime aittir ve neyi kapsar?",
+     "cevap": "Geçerli veya zorlayıcı nedenler dışında işleticilere aittir; bu sorumluluk eşyanın gümrük vergileri ile Kanunun 236 ncı maddesindeki cezaların ödenmesini de kapsar, ayrıca duruma göre 5607 sayılı Kanun hükümleri uygulanır.",
+     "dayanak": "GY md. 515/2",
+     "kanit": "Geçici depolama yerlerinde bulunan eşyanın geçerli veya zorlayıcı nedenler dışında ziyanından, hasara uğramasından veya değiştirilmesinden doğan mali sorumluluk işleticilere aittir."
+    },
+    {
+     "alt_konu": "Geçici depolama yerinin devri, kapatılması ve değişiklikler",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektiren talepler hangi makamca sonuçlandırılır?",
+     "cevap": "Bölge müdürlüğünün görüşü ile birlikte Bakanlıkça sonuçlandırılır; plan değişikliği gerektirmeyen talepler ise bölge müdürlüğünce sonuçlandırılıp Bakanlığa bilgi verilir. (Antrepolarda plan değişikliği gerektiren tadilat, genişletme ve daraltma taleplerini bölge müdürlüğü sonuçlandırır.)",
+     "dayanak": "GY md. 516/A-2",
+     "kanit": "Bununla birlikte geçici depolama yerlerinde yapılmak istenen ve plan değişikliği gerektiren talepler, ilgili bölge müdürlüğünün görüşü ile birlikte Bakanlıkça sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Geçici depolama yeri işletme izninin geri alınması",
+     "soru": "Gümrük Yönetmeliğine göre taahhüt ve yükümlülüklerini yerine getirmeyen geçici depolama yeri işleticisine ne kadar süre verilir ve izni hangi makam geri alır?",
+     "cevap": "Tebligatla bir yılı geçmeyecek şekilde belirlenen süre verilir; yerine getirilmezse durum bölge müdürlüğü aracılığıyla Bakanlığa iletilir ve işletme izni Bakanlıkça geri alınır.",
+     "dayanak": "GY md. 517/1",
+     "kanit": "bir yılı geçmeyecek şekilde belirlenen süre içerisinde bu yükümlülüklerini yerine getirmeleri, aksi halde verilen süre sonunda geçici depolama yeri açma ve işletme izninin geri alınacağı bildirilir."
+    }
+   ]
+  }
+ ]
+}

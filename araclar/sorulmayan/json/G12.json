@@ -1,0 +1,1195 @@
+{
+ "grup": "G12",
+ "dosyalar": [
+  {
+   "kaynak": "34-GEÇİCİ İTHALAT.txt",
+   "konu": "Geçici İthalat Rejimi",
+   "mevzuat": "GK md. 128-134; GY md. 376-394; 2009/15481 Karar md. 16-44; Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1); Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)",
+   "cikmis_sayisi": 18,
+   "cikmis": [
+    "2021-45: Geçici ithalat rejiminin tanımı (olağan yıpranma dışında değişikliğe uğramadan kullanılıp yeniden ihraç)",
+    "2021-53: Kısmi muafiyette her ay için vergilerin %3'ü alınır",
+    "2021-75: Geçici ithalat rejiminin tanımı (tekrar)",
+    "2022-57: Eşya ve yolcu taşımayan tüzel kişi adına kayıtlı otomobilin 1 No.lu Taşıt Takip Programına kaydı",
+    "2022-60: Geçici ithalat eşyası satılamaz (seçenekler: %3 dışı tutar için teminat, kriz hali yardım malzemesinde teminat aranmaması, tüketilebilir ve ayniyeti tespit edilemeyen eşya)",
+    "2022-61: Gümrüklerden geçiş karnesi (CPD) tanımı",
+    "2023-34: Fuar ve sergide sergilenecek eşyaya geçici ithalat rejimi uygulanır",
+    "2023-37: Kısmi muafiyette tescil tarihindeki serbest dolaşım vergilerinin aylık %3'ü",
+    "2023-54: Geçici ithalat rejiminin tanımı",
+    "2024-39: Geçici ithalat beyanında kullanılan belgeler (beyanname, sözlü beyan formu, ATA karnesi, yabancı taşıtlar geçici giriş karnesi; TIR karnesi değil)",
+    "2024-69: Geçici ithalat eşyası kiralanamaz (seçenekler: teminat alınması, farklı idareden yeniden ihracat, serbest dolaşımda ticaret politikası önlemleri, başka şartlı muafiyet rejimiyle kapatma)",
+    "2024-70: Tüketilebilir eşya rejime konu olamaz (seçenekler: yolcuların kişisel/sportif eşyası, paletler, kriz hali yardım malzemesi, sergi-fuar eşyası)",
+    "2024-72: Kısmi muafiyette vergilerin tamamı değil aylık %3'ü alınır (seçenekler: iznin gümrük idaresince verilmesi, ayniyet tespiti şartı, tam muafiyette teminat)",
+    "2025-90: ATA Karnesinin tanımı",
+    "2025-91: Geçici ithalat rejiminin tanımı",
+    "2025-92: Süresinde yeniden ihraç/GOİK rejim ihlali değildir; satış, işleme, ayniyet değişikliği ve hak sahibi olmayanlarca kullanım ihlaldir",
+    "2025-93: Kişisel kullanıma mahsus yabancı plakalı kara taşıtlarının plaka uygulaması",
+    "2025-94: Teslim alınan tam muafiyetli kişisel kara taşıtlarının geçici depolama yerinde üç ay kalabilmesi"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Geçici ithalat rejiminin tanımı",
+     "dayanak": "GK md. 128",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-45",
+      "2021-75",
+      "2023-54",
+      "2025-91"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici ithalat izni ve ayniyet tespiti şartı",
+     "dayanak": "GK md. 129",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-72",
+      "2022-60"
+     ],
+     "not": "İznin talep üzerine gümrük idarelerince verilmesi ve ayniyet tespiti mümkün değilse izin verilmemesi seçeneklerde ölçüldü; vergilerin tümü teminata bağlanarak izin verilebilmesi istisnası sorulmadı."
+    },
+    {
+     "baslik": "Rejim altında kalma süreleri",
+     "dayanak": "GK md. 130",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tam ve kısmi muafiyetin kapsamı",
+     "dayanak": "GK md. 131-132",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kısmi muafiyette vergilerin hesaplanması ve rejimin devri",
+     "dayanak": "GK md. 133",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-53",
+      "2023-37",
+      "2024-72"
+     ],
+     "not": "Aylık %3 oranı ve tescil tarihindeki vergilerin esas alınması ölçüldü; bir aydan az sürenin tam ay sayılması, alınacak vergilerin üst sınırı ve aynı ay içindeki devirde o ayın vergisini kimin ödeyeceği sorulmadı."
+    },
+    {
+     "baslik": "Gümrük yükümlülüğü doğduğunda vergilendirme esası",
+     "dayanak": "GK md. 134",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici ithalat rejimine ilişkin tanımlar",
+     "dayanak": "GY md. 376",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tam ve kısmi muafiyetten yararlandırılmayacak eşya",
+     "dayanak": "GY md. 377",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzin başvurusu ve iznin verilme şartı",
+     "dayanak": "GY md. 378",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-72"
+     ],
+     "not": "İznin eşyayı kullanan veya kullandıranın talebi üzerine gümrük idarelerince verilmesi seçenekte ölçüldü; iznin hangi koşulda verileceği sorulmadı."
+    },
+    {
+     "baslik": "Rejim altında kalma süresinin belirlenmesi ve hesaplanması",
+     "dayanak": "GY md. 379",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-69"
+     ],
+     "not": "Rejimin başka bir şartlı muafiyet rejimine tabi tutulmak üzere kapatılabilmesi seçenekte ölçüldü; bu durumda 24 aylık sürenin hesabı ve sürenin başlangıç tarihi sorulmadı."
+    },
+    {
+     "baslik": "Süre uzatımı",
+     "dayanak": "GY md. 380",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ayniyet, tahsis amacı ve havayolu taşıtı motorlarının değişimi",
+     "dayanak": "GY md. 381",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-92"
+     ],
+     "not": "Ayniyeti değiştirmeye yönelik işlem ve işleme faaliyetinin rejim ihlali olduğu ölçüldü; ticari havayolu taşıtı motorlarının değiştirilebilmesi sorulmadı."
+    },
+    {
+     "baslik": "ATA karnesi ile beyan",
+     "dayanak": "GY md. 382",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-39",
+      "2025-90"
+     ],
+     "not": "ATA karnesinin geçici ithalat beyanında kullanılan ve beyanname yerine geçen belge olduğu ölçüldü; ATA karnesi kapsamında ayrıca belge ve teminat aranmaması sorulmadı."
+    },
+    {
+     "baslik": "İstisnai yazılı beyan",
+     "dayanak": "GY md. 383",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teminat",
+     "dayanak": "GY md. 385",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2024-69",
+      "2022-60"
+     ],
+     "not": "Geçici ithalat eşyasından teminat alınması ve kısmi muafiyette %3 dışında kalan tutar için teminat seçeneklerde ölçüldü."
+    },
+    {
+     "baslik": "Geçici ithal eşyasının serbest dolaşıma girişi",
+     "dayanak": "GY md. 386",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-69"
+     ],
+     "not": "Ticaret politikası önlemlerinin uygulanması seçenekte ölçüldü; kısmi muafiyette alınacak vergi farkı, sergi/satış eşyasının süre bitiminden önce satışı ve ticari taşıtların gümrük kıymeti sorulmadı."
+    },
+    {
+     "baslik": "Yeniden ihraç ve süre aşımında çıkış",
+     "dayanak": "GY md. 387",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-69"
+     ],
+     "not": "Yeniden ihracatın farklı bir gümrük idaresinden yapılabilmesi seçenekte ölçüldü; ek süreler dahil süre aşılarak yurt dışı etmede çıkış koşulları sorulmadı."
+    },
+    {
+     "baslik": "Teminatın çözülmesi",
+     "dayanak": "GY md. 388",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Taşıtların giriş-çıkış işlemleri",
+     "dayanak": "GY md. 391-392",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Taşıtların yedek parça, aksesuar ve teçhizatı",
+     "dayanak": "GY md. 393-394",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Taşıtlara geçici ithalat izninin genel şartları ve yerleşik kişilerce kullanımı",
+     "dayanak": "2009/15481 Karar md. 16-18",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Taşıtlara ilişkin özel şartlar",
+     "dayanak": "2009/15481 Karar md. 19",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Taşıtlara verilecek geçici ithalat süreleri",
+     "dayanak": "2009/15481 Karar md. 20",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ticari hava taşıtları ve paletler",
+     "dayanak": "2009/15481 Karar md. 21-22",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-70"
+     ],
+     "not": "Paletlerin geçici ithalata konu olabileceği seçenekte ölçüldü; palet rejiminin sona ermesi ve ticari hava taşıtlarının Türkiye'ye getirilmeksizin rejime tabi tutulabilmesi sorulmadı."
+    },
+    {
+     "baslik": "Yolcuların kişisel ve sportif amaçlı eşyası",
+     "dayanak": "2009/15481 Karar md. 24",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2024-70"
+     ],
+     "not": "Bölgede ikamet etmeyen yolcuların kişisel ve sportif eşyasının rejime konu olabileceği seçenekte ölçüldü."
+    },
+    {
+     "baslik": "Kriz hali yardım malzemesi ile tıbbi ve cerrahi teçhizat",
+     "dayanak": "2009/15481 Karar md. 26-27",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-70",
+      "2022-60"
+     ],
+     "not": "Kriz hali yardım malzemesinin rejime konu olduğu ve teminat aranmadığı ölçüldü; tıbbi ve cerrahi teçhizat ile laboratuvar teçhizatının şartları sorulmadı."
+    },
+    {
+     "baslik": "Mesleki teçhizat",
+     "dayanak": "2009/15481 Karar md. 31",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ambalajlar, özel nitelikte eşya, numuneler ve üretim araçları",
+     "dayanak": "2009/15481 Karar md. 33-36",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sergilenmek veya satılmak amacıyla getirilen eşya",
+     "dayanak": "2009/15481 Karar md. 37",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-34",
+      "2024-70"
+     ],
+     "not": "Sergi, fuar ve benzeri etkinliklerde gösterilecek eşyaya geçici ithalat uygulandığı ölçüldü; genel sergi şartı ve organizasyon belgesi ile incelemeye bağlı satın alma için iki aylık süre sorulmadı."
+    },
+    {
+     "baslik": "Ekonomik etkisi olmayan özel bir durumda getirilen eşya",
+     "dayanak": "2009/15481 Karar md. 39",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Rejimden yararlandırılmayacak eşya",
+     "dayanak": "2009/15481 Karar md. 40",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-70",
+      "2022-60"
+     ],
+     "not": "Tüketilebilir eşya ile ayniyet tespiti yapılamayan eşyanın rejimden yararlanamayacağı ölçüldü; ithali yasak eşya ve ülke ekonomisine zarar verebileceği belirlenecek eşya sorulmadı."
+    },
+    {
+     "baslik": "Geçici ithalatta teminat",
+     "dayanak": "2009/15481 Karar md. 41-42",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-72",
+      "2022-60"
+     ],
+     "not": "Tam muafiyette teminat aranması, kriz hali yardım malzemesinde teminat aranmaması ve kısmi muafiyette %3 dışındaki tutar için teminat ölçüldü; sözlü beyana konu eşya ile taşıma şirketleri ve posta idarelerine ait işaretli malzeme istisnaları sorulmadı."
+    },
+    {
+     "baslik": "İzin hak sahibince yapılamayacak işlemler",
+     "dayanak": "2009/15481 Karar md. 43",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-60",
+      "2024-69",
+      "2025-92"
+     ],
+     "not": "Kiralama, ödünç verme, başkasının kullanımına bırakma ve satış yasağı ölçüldü; ticari hava taşıtının başka havayolu şirketine kiralanmasında sorumluluğun kime ait olduğu sorulmadı."
+    },
+    {
+     "baslik": "Rejimde kalış süresinin belirlenmesi",
+     "dayanak": "2009/15481 Karar md. 44",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tebliğdeki tanımlar",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-61"
+     ],
+     "not": "Gümrüklerden geçiş karnesinin (CPD) tanımı ölçüldü; yerleşim yeri ile yabancı taşıtlar geçici giriş karnesi ve formunun tanımları sorulmadı."
+    },
+    {
+     "baslik": "Turistik kolaylıklar kapsamı taşıtların giriş işlemleri ve süreleri",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 5-7",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-93"
+     ],
+     "not": "Bu kapsamda getirilen yabancı plakalı taşıtların plaka uygulaması ölçüldü; AB/EFTA'da kayıtlı taşıtlar, 730 günlük süre ve 185 günlük yurt dışında bulunma kuralları sorulmadı."
+    },
+    {
+     "baslik": "Geçici giriş belgesi ve yabancı taşıtlar geçici giriş karnesi/formu kapsamı taşıtlar",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 8-13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ticari kullanıma mahsus kara taşıtları",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 14-16",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-57"
+     ],
+     "not": "Eşya ve yolcu taşımayan tüzel kişi adına kayıtlı otomobilin 1 No.lu programa kaydı ölçüldü; yükünü boşaltan taşıtların kaydı ve ticari taşıtlara verilecek süreler sorulmadı."
+    },
+    {
+     "baslik": "Kara taşıtlarının süre uzatımı",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 17",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Şartların ihlali",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 19",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Vergi ve cezaların takibi",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 20",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici (ZOLL) plakalı taşıtlar",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 22",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hak sahibi dışında kullanım ve taşıtsız çıkış",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 26-27",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Mülkiyet devri",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 28",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Çalınan ve kazaya uğrayan taşıtlar",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 30-31",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teslim alınan taşıtların gümrük gözetiminde kalma süresi ve tasfiye",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 32",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-94"
+     ],
+     "not": "Gümrük idaresince teslim alınan taşıtların üç ay kalabileceği ölçüldü; bu sürenin uzatılması sorulmadı."
+    },
+    {
+     "baslik": "Yetkili gümrük idaresi",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 33",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "ATA kısaltması ve ATA Karnesinin tanımı",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-90"
+     ],
+     "not": "ATA Karnesinin tanımı ölçüldü; ATA kısaltmasının anlamı sorulmadı."
+    },
+    {
+     "baslik": "Geçici İthalat Sözleşmesi ve ATA karnesinin kabulü",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "ATA Karnesi ile rejimin işleyişi",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-39",
+      "2025-90"
+     ],
+     "not": "ATA Karnesinin beyanname yerine geçen belge olduğu ölçüldü; varıştan önce elektronik beyan imkânı sorulmadı."
+    },
+    {
+     "baslik": "Rejimin sona ermesi",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "ATA Karnesi kapsamı eşyaya verilecek yurtta kalma süreleri",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Süre uzatımı ve karnenin yeni karne ile değiştirilmesi",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 7-8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Rejim şartları ve takibi",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Rejim şartlarının ihlali ve kefil kuruluşun sorumluluğu",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Çıkış sayılan haller",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Geçici ithalat izni ve ayniyet tespiti şartı",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithal eşyasının ayniyet tespitinin mümkün olmadığı hallerde, ayniyet önlemlerinin alınmamasının rejimin kötüye kullanılmasına sebep olmayacağı durumlarda gümrük idareleri geçici ithalat rejiminin kullanılmasına hangi koşulla izin verebilir?",
+     "cevap": "Kural olarak ayniyet tespiti mümkün değilse izin verilmez; ancak eşyanın veya yapılacak işin niteliği itibarıyla kötüye kullanma riski yoksa gümrük idareleri vergilerin tümünü teminata bağlamak suretiyle rejimin kullanılmasına izin verebilir.",
+     "dayanak": "GK md. 129/2",
+     "kanit": "ayniyet tespiti ile ilgili önlemlerin alınmamasının rejimin kötüye kullanılmasına sebep olmayacağı hallerde, gümrük idareleri vergilerin tümünü teminata bağlamak suretiyle, geçici ithalat rejiminin kullanılmasına izin verebilirler."
+    },
+    {
+     "alt_konu": "Rejim altında kalma süreleri",
+     "soru": "4458 sayılı Gümrük Kanununa göre özel süreler saklı kalmak üzere eşyanın geçici ithalat rejimi altında kalma süresi azami ne kadardır?",
+     "cevap": "Azami yirmi dört aydır; gümrük idareleri ilgili kişinin de kabul etmesiyle daha kısa süreler saptayabilir.",
+     "dayanak": "GK md. 130/2",
+     "kanit": "eşyanın geçici ithalat rejimi altında kalma süresi azami yirmidört ay olarak belirlenir. Bununla birlikte, gümrük idareleri ilgili kişinin de kabul etmesiyle daha kısa süreler saptayabilir."
+    },
+    {
+     "alt_konu": "Tam ve kısmi muafiyetin kapsamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithalat vergilerinden tam muafiyet suretiyle geçici ithalat rejiminin uygulanabileceği durumlar ile kısmi muafiyetten yararlandırılmayacak eşya listesi hangi makamca belirlenir?",
+     "cevap": "Her ikisi de Cumhurbaşkanınca belirlenir (tam muafiyetin uygulanabileceği durumlar ve özel şartlar ile kısmi muafiyetten yararlandırılmayacak eşya listesi).",
+     "dayanak": "GK md. 131; GK md. 132/2",
+     "kanit": "İthal vergilerinden tam muafiyet suretiyle geçici ithalat rejiminin uygulanabileceği durumlar ve özel şartlar Cumhurbaşkanınca[125] tespit edilir. ... Kısmi muafiyet suretiyle geçici ithalat rejiminden yararlandırılmayacak eşyaya ilişkin liste Cumhurbaşkanınca[126] belirlenir."
+    },
+    {
+     "alt_konu": "Tam ve kısmi muafiyetin kapsamı",
+     "soru": "4458 sayılı Gümrük Kanununa göre kısmi muafiyet suretiyle geçici ithalat rejiminden hangi eşya yararlanabilir?",
+     "cevap": "Mülkiyeti Türkiye Gümrük Bölgesi dışında yerleşik bir kişiye ait olan ve tam muafiyet hükümlerine tabi olmayan ya da bu hükümlere tabi olmakla birlikte tam muafiyet koşullarını taşımayan eşya kısmi muafiyetten yararlanabilir.",
+     "dayanak": "GK md. 132/1",
+     "kanit": "Mülkiyeti, Türkiye Gümrük Bölgesi dışında yerleşik bir kişiye ait olan ve 131 inci madde uyarınca konulmuş hükümlere tabi olmayan veya söz konusu hükümlere tabi olmakla birlikte, tam muafiyet suretiyle geçici ithalat iznine ilişkin hükümlerde öngörülen koşulları taşımayan eşyanın"
+    },
+    {
+     "alt_konu": "Kısmi muafiyette vergilerin hesaplanması ve rejimin devri",
+     "soru": "4458 sayılı Gümrük Kanununa göre kısmi muafiyet suretiyle geçici ithalatta her ay için alınan vergiler hesaplanırken bir aydan daha az süreler nasıl değerlendirilir?",
+     "cevap": "Bir aydan daha az süreler tam ay olarak değerlendirilir; vergiler eşyanın rejimden yararlandığı her ay için alınır.",
+     "dayanak": "GK md. 133/1",
+     "kanit": "Söz konusu vergiler eşyanın bu rejimden yararlandığı her ay için alınır ve bir aydan daha az süreler tam ay olarak değerlendirilir."
+    },
+    {
+     "alt_konu": "Kısmi muafiyette vergilerin hesaplanması ve rejimin devri",
+     "soru": "4458 sayılı Gümrük Kanununa göre kısmi muafiyet suretiyle geçici ithalatta alınacak ithalat vergileri toplamı için öngörülen üst sınır nedir?",
+     "cevap": "Uygulanacak faizler hariç olmak üzere, eşyanın geçici ithalat rejimine tabi tutulduğu tarihte serbest dolaşıma girmesi halinde alınacak vergileri aşamaz.",
+     "dayanak": "GK md. 133/2",
+     "kanit": "Alınacak ithalat vergileri tutarı, uygulanacak faizler hariç olmak üzere, söz konusu eşyanın geçici ithalat rejimine tabi tutulduğu tarihte serbest dolaşıma girmesi halinde alınacak vergileri aşamaz."
+    },
+    {
+     "alt_konu": "Kısmi muafiyette vergilerin hesaplanması ve rejimin devri",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçici ithalat rejiminden kaynaklanan hak ve yükümlülüklerin aynı ay içinde, rejimi kısmi muafiyetle kullanmasına izin verilmiş iki kişi arasında devredilmesi halinde o ayın ithalat vergilerini kim öder?",
+     "cevap": "İlk hak sahibi, söz konusu ayın tamamı için tahakkuk eden ithalat vergileri tutarını ödemekle yükümlüdür; yeni hak sahibi rejime ilişkin kalan süreyi kullanabilir.",
+     "dayanak": "GK md. 133/3-4",
+     "kanit": "devir işleminin aynı ay içerisinde, rejimi kısmi muafiyetle kullanmasına izin verilmiş iki kişi arasında gerçekleştirilmesi halinde, ilk hak sahibi söz konusu ayın tamamı için tahakkuk eden ithalat vergileri tutarını ödemekle yükümlüdür."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğü doğduğunda vergilendirme esası",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçici ithal edilen eşya için gümrük yükümlülüğü doğduğunda gümrük vergilerinin tutarı kural olarak hangi tarihteki vergi oranı ve vergilendirme unsurlarına göre tespit edilir?",
+     "cevap": "Geçici ithalat rejimine ilişkin beyanda bulunulduğu tarihteki vergi oranı ve diğer vergilendirme unsurlarına göre tespit edilir.",
+     "dayanak": "GK md. 134/1",
+     "kanit": "gümrük vergilerinin tutarı, geçici ithalat rejimine ilişkin beyanda bulunulduğu tarihte söz konusu eşyaya ait vergi oranı ve diğer vergilendirme unsurlarına istinaden tespit edilir."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğü doğduğunda vergilendirme esası",
+     "soru": "4458 sayılı Gümrük Kanununa göre tam muafiyet suretiyle geçici ithal edilen eşya için gümrük yükümlülüğü doğması halinde hangi tarihteki vergi oranı ve vergilendirme unsurları esas alınır?",
+     "cevap": "Beyan tarihi değil, gümrük yükümlülüğünün başladığı tarihteki vergi oranı ve diğer vergilendirme unsurları esas alınır (kısmi muafiyette ve genel kuralda ise beyan tarihi esastır).",
+     "dayanak": "GK md. 134/1; GY md. 386/2",
+     "kanit": "Ancak, tam muafiyet suretiyle geçici ithal edilen eşya ile ilgili olarak gümrük yükümlülüğü doğması halinde,193 üncü maddede belirtilen tarihte ... gümrük yükümlülüğünün başladığı tarihteki vergi oranları ve diğer vergilendirme unsurlarına göre tespit edilecek ithalat vergileri alınır."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğü doğduğunda vergilendirme esası",
+     "soru": "4458 sayılı Gümrük Kanununa göre kısmi muafiyet suretiyle geçici ithalat hükümleri dışında herhangi bir nedenle ithal eşyası için gümrük yükümlülüğü doğması halinde, daha önce aylık olarak ödenen vergiler ne olur?",
+     "cevap": "Beyan tarihindeki unsurlara göre hesaplanan vergi tutarından, kısmi muafiyet kapsamında aylık olarak ödenen vergi miktarı düşülür.",
+     "dayanak": "GK md. 134/2",
+     "kanit": "Kısmi muafiyet suretiyle geçici ithalat hükümleri dışında herhangi bir nedenle ithal eşyası için gümrük yükümlülüğü doğması halinde, 1 inci fıkra uyarınca hesaplanan vergi tutarından 133 üncü madde hükümlerine göre ödenen vergi miktarı düşülür."
+    },
+    {
+     "alt_konu": "Geçici ithalat rejimine ilişkin tanımlar",
+     "soru": "Gümrük Yönetmeliğine göre Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde getirdikleri taşıtlar için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen, üç parçadan ibaret teminat hükmündeki belge hangisidir?",
+     "cevap": "Triptik Karnesidir.",
+     "dayanak": "GY md. 376/1-i",
+     "kanit": "Triptik Karnesi: Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde Türkiye Gümrük Bölgesine getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen üç parçadan ibaret teminat hükmünde olan belgeyi"
+    },
+    {
+     "alt_konu": "Geçici ithalat rejimine ilişkin tanımlar",
+     "soru": "Gümrük Yönetmeliğine göre geçici ithalat rejiminin uygulanmasında \"Gümrük Bölgesi dışında yerleşik kişi\" kimdir?",
+     "cevap": "Olağan durumda Gümrük Bölgesi dışında ikamet eden gerçek kişi ya da kayıtlı işyeri bulunan tüzel kişidir. Geçici İthal Edilen Kara Taşıtlarına İlişkin Tebliğde ise yalnızca olağan durumda bölge dışında ikamet eden gerçek kişi olarak tanımlanmıştır.",
+     "dayanak": "GY md. 376/1-c; Kara Taşıtları Tebliği (Seri No 1) md. 4/1-m",
+     "kanit": "Gümrük Bölgesi dışında yerleşik kişi: Olağan durumda Gümrük Bölgesi dışında ikamet eden gerçek kişi ya da kayıtlı işyeri bulunan tüzel kişiyi ... Olağan durumda Türkiye Gümrük Bölgesi dışında ikamet eden gerçek kişiyi"
+    },
+    {
+     "alt_konu": "Tam ve kısmi muafiyetten yararlandırılmayacak eşya",
+     "soru": "Gümrük Yönetmeliğine göre kısmi muafiyetten yararlandırılmayacağı Kararla belirlenen eşya, tam muafiyet suretiyle geçici ithalat rejiminden yararlandırılabilir mi?",
+     "cevap": "Hayır; kısmi muafiyetten yararlandırılmayacak eşya tam muafiyetten de yararlandırılmaz.",
+     "dayanak": "GY md. 377/1",
+     "kanit": "Bakanlar Kurulu Kararı ile belirlenen kısmi muafiyetten yararlandırılmayacak eşya, tam muafiyetten de yararlandırılmaz."
+    },
+    {
+     "alt_konu": "İzin başvurusu ve iznin verilme şartı",
+     "soru": "Gümrük Yönetmeliğine göre gümrük idarelerince geçici ithalat izni hangi durumda verilir?",
+     "cevap": "Eşyanın geçici ithalat rejimi amacına uygun olması ve izin başvurusunda belirtilen süre içinde giriş ayniyetine uygun olarak gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutulabileceğinin anlaşılması halinde verilir.",
+     "dayanak": "GY md. 378/3",
+     "kanit": "eşyanın geçici ithalat rejimi amacına uygun olması ve izin başvurusunda belirtilen süre içinde eşyanın giriş ayniyetine uygun olarak gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutulabileceğinin anlaşılması halinde verilir."
+    },
+    {
+     "alt_konu": "Rejim altında kalma süresinin belirlenmesi ve hesaplanması",
+     "soru": "Gümrük Yönetmeliğine göre geçici ithalat rejiminin başka bir şartlı muafiyet rejimine tabi tutulmak üzere kapatılması ve aynı eşya için aynı izin hak sahibince aynı amaçla tekrar geçici ithalat izni istenmesi halinde rejim altında kalma süresi nasıl belirlenir?",
+     "cevap": "Daha önce verilen süre de dahil olmak üzere rejim altında kalma süresi 24 ayı aşamaz; ancak izin hak sahibinin talebi üzerine bu süre, eşyanın rejim altında kullanılmadığı süre kadar uzatılabilir.",
+     "dayanak": "GY md. 379/2",
+     "kanit": "geçici ithalat rejimi için daha önce verilen süre de dahil olmak üzere, rejim altında kalma süresinin birinci fıkrada belirtilen 24 ayı aşmaması gerekir. Bununla birlikte izin hak sahibinin talebi üzerine bu süre, eşyanın rejim altında kullanılmadığı süre kadar uzatılabilir."
+    },
+    {
+     "alt_konu": "Rejim altında kalma süresinin belirlenmesi ve hesaplanması",
+     "soru": "Gümrük Yönetmeliğine göre geçici ithalat rejimi altında kalma süresinin hesaplanmasında hangi tarih esas alınır?",
+     "cevap": "Eşyanın yükümlüsüne teslim edildiği tarih esas alınır.",
+     "dayanak": "GY md. 379/3",
+     "kanit": "Sürenin hesaplanmasında Kanunun 69 uncu maddesi uyarınca eşyanın yükümlüsüne teslim edildiği tarih esas alınır."
+    },
+    {
+     "alt_konu": "Süre uzatımı",
+     "soru": "Gümrük Yönetmeliğine göre geçici ithal edilen eşya için ek süre talebi ne zaman ve hangi gümrük idaresine yapılabilir?",
+     "cevap": "İzin hak sahibince izin süresi içinde veya süre bitiminden sonra, rejime giriş gümrük idaresine ya da eşyanın bulunduğu yere en yakın gümrük idaresine müracaat edilerek yapılabilir.",
+     "dayanak": "GY md. 380/1",
+     "kanit": "izin hak sahibi tarafından izin süresi içinde veya süre bitiminden sonra rejime giriş gümrük idaresine veya eşyanın bulunduğu yere en yakın gümrük idaresine müracaat edilerek ek süre talep edilebilir."
+    },
+    {
+     "alt_konu": "Süre uzatımı",
+     "soru": "Gümrük Yönetmeliğine göre hangi eşya için rejime giriş gümrük idaresince yirmi dört ayı aşan süre uzatımı yapılabilir?",
+     "cevap": "Özelliği nedeniyle mülkiyeti devredilemeyen eşya; yirmi dört aydan uzun süreli yatırımlarda kullanılan eşya; kamu kuruluşları, belediyeler ve sermayesinin tamamı devlete ait kamu iktisadi kuruluşları ile yapılan sözleşmeye istinaden getirilen ambulans, yangın söndürme, zirai ilaçlama ve sıhhi ilaçlama hava taşıtları ile bunların yedek parça, aksesuar ve ekipmanları için yapılabilir.",
+     "dayanak": "GY md. 380/3",
+     "kanit": "rejime giriş gümrük idaresince yirmi dört ayı aşan süre uzatımı da yapılabilir: ... Özelliği nedeniyle mülkiyeti devredilemeyen eşya, ... Yirmi dört aydan uzun süreli yatırımlarda kullanılan eşya,"
+    },
+    {
+     "alt_konu": "Süre uzatımı",
+     "soru": "Gümrük Yönetmeliğine göre yetkilendirilmiş yükümlü sertifikası sahibi veya bir önceki takvim yılında beş milyon ABD Dolarının üzerinde ihracat yapmış yükümlülerin kısmi muafiyetle geçici ithal ettikleri eşyanın yirmi dört aydan uzun kullanımı söz konusu olduğunda izin süresi ne kadar uzatılır?",
+     "cevap": "Rejime giriş gümrük idaresince dokuz ay uzatılır; uzatım sonunda kullanım devam ediyorsa yeni izin başvurusu yapılır ve süre azami yirmi dört ay olarak yeniden belirlenir.",
+     "dayanak": "GY md. 380/5",
+     "kanit": "rejime giriş gümrük idaresince geçici ithalat izin süresi dokuz ay uzatılır. Süre uzatımı sonunda, geçici ithal eşyasının Türkiye Gümrük Bölgesinde kullanımının devam ettiği durumda, gümrük idaresine yeni bir izin başvurusunda bulunulur"
+    },
+    {
+     "alt_konu": "Ayniyet, tahsis amacı ve havayolu taşıtı motorlarının değişimi",
+     "soru": "Gümrük Yönetmeliğine göre geçici ithal edilen ticari kullanıma mahsus havayolu taşıtlarına ait motorlar rejim süresi içinde hangi motorlarla değiştirilerek kullanılabilir?",
+     "cevap": "Aynı havayolu şirketi ve/veya iştirakleri bünyesinde bulunan havayolu taşıtlarındaki motorlarla ve/veya yedek motorlarla değiştirilerek kullanılabilir.",
+     "dayanak": "GY md. 381/4",
+     "kanit": "geçici ithalat rejimi için verilen süre içerisinde aynı havayolu şirketi ve/veya iştirakleri bünyesinde bulunan havayolu taşıtlarındaki motorlarla ve/veya yedek motorlarla değiştirilerek kullanılabilir."
+    },
+    {
+     "alt_konu": "ATA karnesi ile beyan",
+     "soru": "Gümrük Yönetmeliğine göre geçici ithalatın ATA karnesi kapsamında yapılması halinde ayrıca belge ve teminat aranır mı?",
+     "cevap": "Hayır; ATA karnesi kapsamındaki geçici ithalatta ayrıca başka bir belge ve teminat aranmaksızın işlem yapılır.",
+     "dayanak": "GY md. 382/2",
+     "kanit": "Geçici ithalatın ATA karnesi kapsamında yapılması halinde, ayrıca başka bir belge ve teminat aranmaksızın işlem yapılır."
+    },
+    {
+     "alt_konu": "İstisnai yazılı beyan",
+     "soru": "Gümrük Yönetmeliğine göre yolcular tarafından ithal edilen kişisel ve sportif amaçlı eşyanın geçici ithalatında gümrük idaresi hangi durumda yazılı beyan talep eder?",
+     "cevap": "Sözlü veya başka bir tasarruf yoluyla yapılacak beyan sırasında eşya ile ilgili vergi kaybı veya rejimin kötüye kullanılacağı riskinin bulunması halinde yazılı beyan talep eder.",
+     "dayanak": "GY md. 383/1",
+     "kanit": "sözlü veya başka bir tasarruf yoluyla yapılacak beyanı sırasında eşya ile ilgili olarak vergi kaybı veya rejimin kötüye kullanılacağı riskinin bulunması koşuluna bağlı olarak gümrük idaresi yükümlüden yazılı beyan talep eder."
+    },
+    {
+     "alt_konu": "Geçici ithal eşyasının serbest dolaşıma girişi",
+     "soru": "Gümrük Yönetmeliğine göre kısmi muafiyet suretiyle geçici ithal edilen eşyanın serbest dolaşıma giriş rejimine tabi tutulması halinde hangi ithalat vergileri alınır?",
+     "cevap": "Kısmi muafiyetle geçici ithalatta gümrük yükümlülüğü beyannamenin tescil tarihinde başladığından, aylık olarak tahsil edilen miktar dışında kalan ithalat vergileri alınır.",
+     "dayanak": "GY md. 386/1",
+     "kanit": "kısmi muafiyet suretiyle geçici ithalatta gümrük yükümlülüğü gümrük beyannamesinin tescil tarihinde başladığından ... Kanunun 133 üncü maddesi uyarınca tahsil edilen miktar dışında kalan ithalat vergileri alınır."
+    },
+    {
+     "alt_konu": "Geçici ithal eşyasının serbest dolaşıma girişi",
+     "soru": "Gümrük Yönetmeliğine göre Kararda belirtilen, sergilenmek veya satılmak amacıyla getirilen eşyanın verilen süre bitiminden önce satılmak istenmesi halinde ne yapılması gerekir?",
+     "cevap": "Eşyanın serbest dolaşıma giriş rejimine tabi tutulması gerekir; bu durumda gümrük yükümlülüğünün başladığı tarihteki vergi oranları ve vergilendirme unsurlarına göre ithalat vergileri alınır.",
+     "dayanak": "GY md. 386/3",
+     "kanit": "sergilenmek veya satılmak amacıyla getirilen eşyanın, verilen süre bitiminden önce satılmak istenmesi durumunda serbest dolaşıma giriş rejimine tabi tutulması gerekir."
+    },
+    {
+     "alt_konu": "Geçici ithal eşyasının serbest dolaşıma girişi",
+     "soru": "Gümrük Yönetmeliğine göre tam muafiyet suretiyle geçici ithalat izni verilen ticari kullanıma mahsus taşıtların serbest dolaşıma giriş rejimine tabi tutulmasında gümrük kıymeti nasıl tespit edilir?",
+     "cevap": "Türkiye Muhasebe Standartları çerçevesinde tespit edilecek değerdir; bu kıymet taşıt araçlarının emsal kıymetinden düşük olamaz.",
+     "dayanak": "GY md. 386/6",
+     "kanit": "eşyanın gümrük kıymeti, Türkiye Muhasebe Standartları çerçevesinde tespit edilecek değerdir. Söz konusu standartlara göre tespit edilecek kıymet, taşıt araçlarının emsal kıymetinden düşük olamaz."
+    },
+    {
+     "alt_konu": "Yeniden ihraç ve süre aşımında çıkış",
+     "soru": "Gümrük Yönetmeliğine göre ek süreler dahil yurtta kalma süresi aşılarak yurt dışı edilmek istenen geçici ithal eşyası için süresi içinde ek süre talep dilekçesinin gümrüğün kaydına alındığı belgelenirse çıkışa nasıl izin verilir?",
+     "cevap": "Süreye ilişkin talebin sonuçlandırılması beklenmeden ve vergiler karşılığı alınan teminat iade edilmeksizin yurt dışına çıkışına izin verilir.",
+     "dayanak": "GY md. 387/6-a",
+     "kanit": "Süresi içinde ek süre talep dilekçesinin ilgili gümrüğün kaydına alındığının belgelendirilmesi koşuluyla, süreye ilişkin talebin sonuçlandırılması beklenilmeden ve geçici ithalat izni verilen eşya için tahakkuk ettirilen vergiler karşılığı alınan teminat iade edilmeksizin,"
+    },
+    {
+     "alt_konu": "Yeniden ihraç ve süre aşımında çıkış",
+     "soru": "Gümrük Yönetmeliğine göre süresi içinde ek süre talebinde bulunulmadan yurtta kalma süresi aşılan geçici ithal eşyasının yurt dışına çıkışına hangi koşulla izin verilir?",
+     "cevap": "Gümrük Kanununun 238 ve 241 inci maddeleri uyarınca alınması gereken cezanın tahsil edildiğinin veya teminata bağlandığının anlaşılması halinde izin verilir.",
+     "dayanak": "GY md. 387/6-b",
+     "kanit": "Süresi içinde ek süre talebinde bulunulmadığı ya da bunun belgelendirilemediği durumlarda, Kanunun 238 ve 241 inci maddeleri uyarınca alınması gereken cezanın tahsil edildiğinin veya teminata bağlandığının anlaşılması halinde,"
+    },
+    {
+     "alt_konu": "Teminatın çözülmesi",
+     "soru": "Gümrük Yönetmeliğine göre geçici ithal eşyasının yeniden ihracından veya başka bir gümrükçe onaylanmış işlem veya kullanıma tabi tutulmasından sonra teminatın çözülmesi için nereye başvurulur?",
+     "cevap": "İzin hak sahibi veya temsilcisi tarafından giriş işlemini yapan gümrük idaresine dilekçe ile başvurulur; beyannameler incelenerek şartlara uygunluk anlaşılırsa teminat çözülür.",
+     "dayanak": "GY md. 388/1",
+     "kanit": "teminatın çözülmesi için giriş işlemini yapan gümrük idaresine dilekçe ile başvurulması gerekir."
+    },
+    {
+     "alt_konu": "Taşıtların giriş-çıkış işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre Türkiye Gümrük Bölgesi dışında yerleşik kişilere ait özel ve ticari kullanıma mahsus kara taşıtlarının taşıt takip programlarına kaydının yapılamadığı hallerde hangi belge düzenlenir?",
+     "cevap": "Taşıt Giriş-Çıkış Formu düzenlenir; ancak triptik karnesi veya gümrüklerden geçiş karnesi ibraz edilmişse ayrıca bu form düzenlenmez.",
+     "dayanak": "GY md. 391/1, 391/5",
+     "kanit": "Taşıt takip programlarına kayıt yapılamayan hallerde özel ve ticari kullanıma mahsus kara taşıtları için Taşıt Giriş-Çıkış Formu düzenlenir. ... Triptik karnesi veya gümrüklerden geçiş karnesi ibrazı halinde ayrıca taşıt giriş çıkış formu düzenlenmez."
+    },
+    {
+     "alt_konu": "Taşıtların yedek parça, aksesuar ve teçhizatı",
+     "soru": "Gümrük Yönetmeliğine göre taşıtlarıyla birlikte veya ayrı olarak geçici ithal edilen yedek parçalar hangi amaçla kullanılabilir?",
+     "cevap": "Sadece söz konusu taşıtların küçük onarımları ve mutat bakımları için kullanılabilir.",
+     "dayanak": "GY md. 393/2",
+     "kanit": "Üzerinde kullanılacakları taşıtları ile birlikte veya ayrı olarak ithal edilen yedek parçalar, sadece söz konusu taşıtların küçük onarımları ve mutat bakımları için kullanılır."
+    },
+    {
+     "alt_konu": "Taşıtlara geçici ithalat izninin genel şartları ve yerleşik kişilerce kullanımı",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre demiryolu taşıtları dışındaki ticari kullanıma mahsus taşıtlara geçici ithalat izni verilebilmesi için bu taşıtların hangi taşıma işlerinde kullanılması gerekir?",
+     "cevap": "Türkiye Gümrük Bölgesi dışında başlayan veya sona eren taşıma işlerinde kullanılması gerekir; ayrıca taşıtın bölge dışında yerleşik bir kişi adına ve bölge dışında tescil edilmiş olması veya böyle bir kişiye ait olduğunun belgelendirilmesi şarttır.",
+     "dayanak": "2009/15481 Karar md. 16/1-c",
+     "kanit": "Demiryolu taşıtları dışında ticari kullanıma mahsus taşıtların, Türkiye Gümrük Bölgesi dışında başlayan veya sona eren taşıma işlerinde kullanılması,"
+    },
+    {
+     "alt_konu": "Taşıtlara geçici ithalat izninin genel şartları ve yerleşik kişilerce kullanımı",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre geçici ithal edilen kişisel kullanıma mahsus taşıt, izin hak sahibinin izniyle Türkiye Gümrük Bölgesinde yerleşik gerçek bir kişi tarafından hangi koşullarla kullanılabilir?",
+     "cevap": "Süreklilik arz etmemek koşuluyla kullanılabilir; bu kullanım sırasında izin hak sahibinin Türkiye Gümrük Bölgesinde bulunması şarttır.",
+     "dayanak": "2009/15481 Karar md. 18/1",
+     "kanit": "Türkiye Gümrük Bölgesinde yerleşik gerçek bir kişi tarafından süreklilik arz etmemek koşuluyla kullanılabilir. Ancak, bu kullanım sırasında izin hak sahibinin Türkiye Gümrük Bölgesinde bulunması şarttır."
+    },
+    {
+     "alt_konu": "Taşıtlara ilişkin özel şartlar",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Türkiye Gümrük Bölgesindeki yerleşim yerini bölge dışına nakletmek isteyen gerçek kişinin kişisel kullanım amacıyla getireceği taşıtın en geç ne zamana kadar yeniden ihraç edilmesi zorunludur?",
+     "cevap": "Taşıtın geçici olarak Türkiye Gümrük Bölgesine getirildiği tarihten itibaren en fazla üç ay içinde yeniden ihraç edilmesi zorunludur.",
+     "dayanak": "2009/15481 Karar md. 19/1",
+     "kanit": "Bu taşıtın geçici olarak Türkiye Gümrük Bölgesine getirildiği tarihten itibaren en fazla üç ay içinde yeniden ihraç edilmesi zorunludur."
+    },
+    {
+     "alt_konu": "Taşıtlara ilişkin özel şartlar",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yurt dışından emekli olanların emeklilik tarihinden sonra Türkiye Gümrük Bölgesine ilk defa getirecekleri kişisel kullanıma mahsus kara taşıtları için hangi koşul aranmaz?",
+     "cevap": "Türkiye'ye son giriş tarihinden geriye doğru bir yılda en az yüz seksen beş gün Türkiye Gümrük Bölgesi dışında bulunma koşulu aranmaz.",
+     "dayanak": "2009/15481 Karar md. 19/5",
+     "kanit": "Bu kişilerden emeklilik tarihinden sonra Türkiye Gümrük Bölgesine ilk defa getirecekleri kişisel kullanıma mahsus kara taşıtları için Türkiye'ye son giriş tarihinden geriye doğru bir yılda en az yüzseksenbeş gün Türkiye Gümrük Bölgesi dışında bulunması koşulu aranmaz"
+    },
+    {
+     "alt_konu": "Taşıtlara ilişkin özel şartlar",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre ticari kullanıma mahsus deniz, hava ve demiryolu taşıtları ile hava taşıtlarının motorlarına finansal kiralama kapsamında geçici ithalat izni hangi süreye bağlı olarak verilir?",
+     "cevap": "3226 sayılı Finansal Kiralama Kanunu uyarınca finansal kiralama sözleşmesi süresine bağlı olarak verilir.",
+     "dayanak": "2009/15481 Karar md. 19/6",
+     "kanit": "Finansal Kiralama Kanunu uyarınca finansal kiralama sözleşmesi süresine bağlı olarak geçici ithalat izni verilir."
+    },
+    {
+     "alt_konu": "Taşıtlara verilecek geçici ithalat süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre demiryolu taşıtlarına ne kadar süreyle geçici ithalat izni verilir?",
+     "cevap": "On iki ay süreyle verilir.",
+     "dayanak": "2009/15481 Karar md. 20/1-a",
+     "kanit": "19 uncu maddede belirtilen süreler saklı kalmak kaydıyla; ... Demiryolu taşıtlarına oniki ay,"
+    },
+    {
+     "alt_konu": "Taşıtlara verilecek geçici ithalat süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Türkiye Gümrük Bölgesi dışında yerleşik yurt dışından emeklilerin kişisel kullanıma mahsus kara taşıtlarına ne kadar süreyle geçici ithalat izni verilir?",
+     "cevap": "İki yıl süreyle verilir. Türkiye'de oturma iznine sahip, bölge dışından emekli yabancıların taşıtlarına ise ikamet izinleri kadar süre verilir.",
+     "dayanak": "2009/15481 Karar md. 20/1-c-3, 4",
+     "kanit": "kişisel kullanıma mahsus kara taşıtına iki yıl, ... Türkiye'de oturma iznine sahip Türkiye Gümrük Bölgesi dışından emekli yabancıların kişisel kullanıma mahsus kara taşıtına ikamet izinleri kadar,"
+    },
+    {
+     "alt_konu": "Taşıtlara verilecek geçici ithalat süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre binek ve yük hayvanları ile bu hayvanların çektikleri taşıtlara ne kadar süreyle geçici ithalat izni verilir?",
+     "cevap": "Altı ay süreyle verilir (Türkiye Gümrük Bölgesine getirilen kişisel kullanıma mahsus kara taşıtlarına ise yirmi dört ay).",
+     "dayanak": "2009/15481 Karar md. 20/1-c-5",
+     "kanit": "Türkiye Gümrük Bölgesine getirilen kişisel kullanıma mahsus kara taşıtlarına yirmidört ay, binek ve yük hayvanları ile bu hayvanların çektikleri taşıtlara altı ay,"
+    },
+    {
+     "alt_konu": "Taşıtlara verilecek geçici ithalat süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre kişisel kara taşıtlarına tanınan sürelerin tamamını kullanmış veya yerleşim yeri şartını sağlayamayan Avrupa Birliği, Avrupa Serbest Ticaret Birliği ve Birleşik Krallık ülkelerinde yerleşik kişilerin, ikamet yerlerinde adlarına kayıtlı kişisel kara taşıtlarına ne kadar süre verilir?",
+     "cevap": "Yılda bir kez olmak üzere bir ay süre verilir.",
+     "dayanak": "2009/15481 Karar md. 20/1-c-6",
+     "kanit": "ülkelerinde yerleşik kişilerin ikamet yerlerinde adlarına kayıtlı olan kişisel kullanıma mahsus kara taşıtlarına yılda bir kez olmak üzere bir ay,"
+    },
+    {
+     "alt_konu": "Taşıtlara verilecek geçici ithalat süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre kişisel kullanıma mahsus hava taşıtlarına ne kadar süreyle geçici ithalat izni verilir?",
+     "cevap": "Altı ay süreyle verilir.",
+     "dayanak": "2009/15481 Karar md. 20/1-ç",
+     "kanit": "Kişisel kullanıma mahsus hava taşıtlarına altı ay,"
+    },
+    {
+     "alt_konu": "Taşıtlara verilecek geçici ithalat süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Turizmi Teşvik Kanunu kapsamında getirilenler hariç, kişisel kullanıma mahsus diğer deniz ve iç su yolları taşıtlarına ne kadar süreyle geçici ithalat izni verilir?",
+     "cevap": "On sekiz ay süreyle verilir; 2634 sayılı Turizmi Teşvik Kanunu kapsamında getirilen taşıtlar ise o Kanunda belirlenen sürelere tabidir.",
+     "dayanak": "2009/15481 Karar md. 20/1-d, 20/2",
+     "kanit": "Turizmi Teşvik Kanunu kapsamında getirilenler hariç kişisel kullanıma mahsus diğer deniz ve iç su yolları taşıtlarına onsekiz ay, ... 2634 sayılı Turizmi Teşvik Kanunu kapsamında getirilen taşıtlar, anılan Kanunda belirlenen sürelere tabidir."
+    },
+    {
+     "alt_konu": "Ticari hava taşıtları ve paletler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre ticari kullanıma mahsus hava taşıtları Türkiye Gümrük Bölgesine getirilmeden geçici ithalat rejimine tabi tutulabilir mi?",
+     "cevap": "Evet; diğer yükümlülüklerin yerine getirilmesi şartıyla Türkiye Gümrük Bölgesine getirilmeksizin geçici ithalat rejimine tabi tutulabilir.",
+     "dayanak": "2009/15481 Karar md. 21/2",
+     "kanit": "Ticari kullanıma mahsus hava taşıtları, diğer yükümlülüklerin yerine getirilmesi şartıyla Türkiye Gümrük Bölgesine getirilmeksizin geçici ithalat rejimine tabi tutulabilir."
+    },
+    {
+     "alt_konu": "Ticari hava taşıtları ve paletler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre daha önce geçici ithaline izin verilen paletlerle ilgili geçici ithalat rejimi hangi durumda sona erdirilir?",
+     "cevap": "Aynı tür ve aynı kıymette olan paletin ihraç veya yeniden ihraç edilmesi durumunda sona erdirilir.",
+     "dayanak": "2009/15481 Karar md. 22/2",
+     "kanit": "Aynı tür ve aynı kıymette olan paletin ihraç veya yeniden ihraç edilmesi durumunda, daha önce geçici ithaline izin verilen palet ile ilgili geçici ithalat rejimi sona erdirilir."
+    },
+    {
+     "alt_konu": "Kriz hali yardım malzemesi ile tıbbi ve cerrahi teçhizat",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre hastane veya başka bir tıbbi kuruluşa gönderilen tıbbi ve cerrahi teçhizat ile laboratuvar teçhizatına hangi koşullarla geçici ithalat izni verilir?",
+     "cevap": "Türkiye Gümrük Bölgesinden temin edilememesi nedeniyle kuruluşun acil ihtiyacını karşılamaya yönelik olması, teşhis veya tedavi amacıyla bedelsiz gönderilmesi ve Türkiye Gümrük Bölgesi dışında yerleşik kişiye ait olması koşuluyla izin verilir.",
+     "dayanak": "2009/15481 Karar md. 27/1",
+     "kanit": "Türkiye Gümrük Bölgesinden temin edilememesi nedeniyle hastane ya da başka bir tıbbi kuruluşun acil ihtiyacını karşılamaya yönelik olarak, bu kuruluşlara teşhis veya tedavi amacıyla bedelsiz gönderilen ve Türkiye Gümrük Bölgesi dışında yerleşik kişiye ait"
+    },
+    {
+     "alt_konu": "Mesleki teçhizat",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre hangi teçhizat geçici ithalatta mesleki teçhizat olarak değerlendirilemez?",
+     "cevap": "El aletleri hariç olmak üzere; sınai üretim ve ambalajlama işlerinde, doğal kaynakların işlenmesinde, binaların inşası, tamiri veya bakımında ya da toprak hafriyatı gibi işlerde kullanılacak teçhizat mesleki teçhizat sayılmaz.",
+     "dayanak": "2009/15481 Karar md. 31/4",
+     "kanit": "El aletleri hariç olmak üzere, sınai üretim ve ambalajlama işlerinde, doğal kaynakların işlenmesinde, binaların inşasında, tamir veya bakımında ya da toprak hafriyatı gibi işlerde kullanılacak teçhizat bu maddenin uygulanmasında mesleki teçhizat olarak değerlendirilemez."
+    },
+    {
+     "alt_konu": "Ambalajlar, özel nitelikte eşya, numuneler ve üretim araçları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre tam muafiyetle boş olarak geçici ithal edilip dolu olarak yeniden ihraç edilmediği tespit edilen ambalajlar için ne uygulanır?",
+     "cevap": "Gümrük yükümlülüğü doğar ve yükümlülüğün doğmasından itibaren bu ambalajlara kısmi muafiyet suretiyle geçici ithalat rejimi uygulanır.",
+     "dayanak": "2009/15481 Karar md. 33/3",
+     "kanit": "dolu olarak yeniden ihraç edilmediği tespit edilen ambalajlar için Kanunun 184 üncü maddesi uyarınca gümrük yükümlülüğü doğar. Bu eşyaya, gümrük yükümlülüğünün doğmasından itibaren kısmi muafiyet suretiyle geçici ithalat rejimi uygulanır."
+    },
+    {
+     "alt_konu": "Ambalajlar, özel nitelikte eşya, numuneler ve üretim araçları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Türkiye Gümrük Bölgesinde yerleşik kişiye imalat işlerinde kullanılmak üzere gönderilen ölçme, kontrol, test araçları ile kalıp, çizim ve taslak gibi araçlara hangi koşulla geçici ithalat izni verilir?",
+     "cevap": "Mülkiyetinin bölge dışında yerleşik bir kişiye ait olması ve kullanımı sonucunda elde edilen ürünün en az %75'inin Türkiye Gümrük Bölgesinden ihraç edilmesi koşuluyla izin verilir.",
+     "dayanak": "2009/15481 Karar md. 34/1-a",
+     "kanit": "kullanımı sonucunda elde edilen ürünün en az % 75'inin Türkiye Gümrük Bölgesinden ihraç edilmesi koşuluyla, bu bölgede yerleşik kişiye imalat işlerinde kullanılmak üzere gönderilen ölçme, kontrol, test araçları"
+    },
+    {
+     "alt_konu": "Ambalajlar, özel nitelikte eşya, numuneler ve üretim araçları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre tek bir şahıs tarafından getirilen aynı cinsten fazla miktarda eşya ile tek bir şahsa gönderilen çok sayıda eşya numune olarak değerlendirilir mi?",
+     "cevap": "Hayır, numune olarak değerlendirilmez; ayrıca numuneler Türkiye Gümrük Bölgesinde iken gösteri amacı dışında kullanılamaz.",
+     "dayanak": "2009/15481 Karar md. 35/2-3",
+     "kanit": "tek bir şahıs tarafından getirilen aynı cinsten fazla miktarda eşya ile tek bir şahsa gönderilen çok sayıda eşya numune olarak değerlendirilmez."
+    },
+    {
+     "alt_konu": "Ambalajlar, özel nitelikte eşya, numuneler ve üretim araçları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre tamir veya siparişe konu üretim araçları veya bunların parçaları tam muafiyetle geçici ithalat rejimi altında ne kadar süre kalabilir?",
+     "cevap": "Altı ay kalabilir; bu eşyaya, tamir veya teslim süresi boyunca kullanılmak ve tamirci veya tedarikçi tarafından bedelsiz gönderilmek kaydıyla tam muafiyet uygulanır.",
+     "dayanak": "2009/15481 Karar md. 36",
+     "kanit": "tamirci veya tedarikçi tarafından bedelsiz olarak gönderilmek kaydıyla tam muafiyet suretiyle geçici ithalat rejimi uygulanır. ... Birinci fıkrada belirtilen eşyanın geçici ithalat rejimi altında kalabileceği süre altı aydır."
+    },
+    {
+     "alt_konu": "Sergilenmek veya satılmak amacıyla getirilen eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre sergi, fuar ve benzeri etkinliklerde gösterilmek üzere geçici ithal edilecek eşya bakımından etkinliğin niteliği ve ispatına ilişkin hangi şart aranır?",
+     "cevap": "Eşyanın işyerinde veya mağazalarda düzenlenen satış veya özel amaçlı sergiler dışındaki genel bir sergi, fuar, toplantı veya benzeri etkinlikte gösterim ve kullanım amacıyla getirilmesi ve bunun ilgili sergi veya fuar organizasyonundan alınacak belge ile kanıtlanması gerekir.",
+     "dayanak": "2009/15481 Karar md. 37/1",
+     "kanit": "işyerinde veya mağazalarda düzenlenen satış veya özel amaçlı sergiler dışındaki genel bir sergi, fuar, toplantı ve benzeri etkinliklerde ... ilgili sergi veya fuar organizasyonundan alınacak belge ile kanıtlanması gerekir."
+    },
+    {
+     "alt_konu": "Sergilenmek veya satılmak amacıyla getirilen eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre alıcının yapacağı inceleme sonucuna bağlı olarak satın alımına karar verilecek, numune olarak nitelendirilemeyecek eşyaya ne kadar süreyle geçici ithalat izni verilir?",
+     "cevap": "İki ay süreyle verilir.",
+     "dayanak": "2009/15481 Karar md. 37/2",
+     "kanit": "Alıcının yapacağı inceleme sonucuna bağlı olarak satın alımına karar verilecek, numune olarak nitelendirilemeyecek eşyaya iki ay süre ile geçici ithalat izni verilir."
+    },
+    {
+     "alt_konu": "Ekonomik etkisi olmayan özel bir durumda getirilen eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Kararda sayılan hallerde tam muafiyetten yararlanamayan ve önemli ekonomik etkisi olmayan eşyaya tam muafiyetli geçici ithalat izni en fazla ne kadar süre için verilebilir?",
+     "cevap": "Süre hiçbir koşulda üç ayı geçemez ve süre uzatım talepleri karşılanmaz; izin bu eşyaya bir defaya mahsus olmak üzere verilir.",
+     "dayanak": "2009/15481 Karar md. 39/1",
+     "kanit": "önemli ekonomik etkisi olmayan eşyaya bir defaya mahsus olmak üzere tam muafiyet suretiyle geçici ithalat izni verilir. Bu eşyaya verilecek süre hiçbir koşulda üç ayı geçemez ve bu eşyaya ilişkin süre uzatım talepleri karşılanmaz."
+    },
+    {
+     "alt_konu": "Rejimden yararlandırılmayacak eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre tüketilebilir eşya ve ayniyet tespiti yapılamayan eşya dışında, tam ve kısmi muafiyetle geçici ithalat rejiminden yararlandırılmayacak eşya hangileridir?",
+     "cevap": "Türkiye'ye ithali yasak olan eşya ile ülke ekonomisine zarar verebileceği Müsteşarlıkça belirlenecek eşya rejimden yararlandırılmaz.",
+     "dayanak": "2009/15481 Karar md. 40/1-a, ç",
+     "kanit": "Türkiye'ye ithali yasak olan eşya. ... Ülke ekonomisine zarar verebileceği Müsteşarlıkça belirlenecek eşya."
+    },
+    {
+     "alt_konu": "Geçici ithalatta teminat",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre tam muafiyet suretiyle geçici ithalatta sözlü beyana konu olan eşya için teminat aranır mı?",
+     "cevap": "Hayır; sözlü beyana konu olan eşya için teminat aranmaz.",
+     "dayanak": "2009/15481 Karar md. 41/2-a",
+     "kanit": "Ancak, Kanunun 202 nci maddesi hükmü uyarınca; ... Sözlü beyana konu olan eşya,"
+    },
+    {
+     "alt_konu": "Geçici ithalatta teminat",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre tam muafiyet suretiyle geçici ithalatta, yazılı beyana konu olup kriz hali yardım malzemesi dışında teminat aranmayan malzeme hangisidir?",
+     "cevap": "Hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olan ve bunlarca uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için teminat aranmaz.",
+     "dayanak": "2009/15481 Karar md. 41/2-b-3",
+     "kanit": "Hava, deniz veya demiryolu şirketlerine veya posta idarelerine ait olan ve bunlar tarafından uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme,"
+    },
+    {
+     "alt_konu": "İzin hak sahibince yapılamayacak işlemler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre ticari kullanıma mahsus hava taşıtının izin süresi içinde başka bir havayolu şirketine kiralanması halinde rejim ihlalinden gümrük idaresine karşı kim sorumludur?",
+     "cevap": "İzin hak sahibi sorumludur (ticari hava taşıtları, kiralama yasağının istisnası olarak başka bir havayolu şirketine kiralanabilir).",
+     "dayanak": "2009/15481 Karar md. 43/2",
+     "kanit": "ticari kullanıma mahsus hava taşıtları, izin süresi içerisinde bir başka hava yolu şirketine kiralanabilir. Bu durumda, rejim ihlali halinde gümrük idaresine karşı izin hak sahibi sorumludur."
+    },
+    {
+     "alt_konu": "Rejimde kalış süresinin belirlenmesi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Kararda belirlenmiş bir süre bulunmayan geçici ithal eşyası için rejimde kalış süresi kim tarafından ve neye göre belirlenir?",
+     "cevap": "Geçici ithalatın amacı ve eşyanın kullanım yeri dikkate alınarak Müsteşarlıkça belirlenir; bu süre, usulüne göre uzatılmış süreler hariç, hiçbir koşulda yirmi dört ayı geçemez.",
+     "dayanak": "2009/15481 Karar md. 44/1",
+     "kanit": "Belirlenen bir süre bulunmaması durumunda, bu süre, geçici ithalatın amacı, eşyanın kullanım yeri dikkate alınarak Müsteşarlıkça belirlenir."
+    },
+    {
+     "alt_konu": "Tebliğdeki tanımlar",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre \"yerleşim yeri\" nasıl tanımlanmıştır?",
+     "cevap": "Kişinin Türkiye'ye giriş yapmak istediği tarihten geriye doğru 365 gün içerisinde en az 185 gün yaşadığı yerdir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 4/1-p",
+     "kanit": "Yerleşim yeri: Kişinin Türkiye'ye giriş yapmak istediği tarihten geriye doğru 365 (üçyüzaltmışbeş) gün içerisinde en az 185 (yüzseksenbeş) gün yaşadığı yeri"
+    },
+    {
+     "alt_konu": "Tebliğdeki tanımlar",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre yabancı taşıtlar geçici giriş formu kim tarafından ve neyin karşılığında düzenlenir?",
+     "cevap": "Gümrük idarelerince teminat karşılığında düzenlenir ve yalnız Türkiye için geçerlidir; yabancı taşıtlar geçici giriş karnesi ise kefil kuruluşlarca verilen teminat hükmünde bir belgedir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 4/1-o, ö",
+     "kanit": "kişisel kullanıma mahsus kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen ve yalnız Türkiye için geçerli olan belgeyi"
+    },
+    {
+     "alt_konu": "Tebliğdeki tanımlar",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre yabancı taşıtlar geçici giriş karnesi ve formu kapsamında taşıt getirme imkânından hangi kişiler hariç tutulmuştur?",
+     "cevap": "Çift uyruklu Türk vatandaşları hariç tutulmuştur; bu belgeler bölge dışında yerleşik olup Türkiye'ye belirli bir süre görev veya öğrenim için gelenler ile geçici oturma iznine sahip emekli yabancıların ikamet yerlerinde adlarına kayıtlı taşıtları içindir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 4/1-o, ö",
+     "kanit": "Yabancı taşıtlar geçici giriş karnesi: Çift uyruklu Türk vatandaşları hariç olmak üzere,"
+    },
+    {
+     "alt_konu": "Turistik kolaylıklar kapsamı taşıtların giriş işlemleri ve süreleri",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre Avrupa Birliği ve Avrupa Serbest Ticaret Birliği ülkelerinde ikamet eden kişiler turistik kolaylıklar kapsamında, ikamet ettikleri ülke dışında hangi ülkelerde adlarına kayıtlı taşıtlarını getirebilir?",
+     "cevap": "İkamet yerleri dışındaki Avrupa Birliği ve Avrupa Serbest Ticaret Birliği ülkelerinde adlarına kayıtlı taşıtlarını da getirebilirler.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 5/1",
+     "kanit": "Avrupa Birliği ve Avrupa Serbest Ticaret Birliği ülkelerinde ikamet eden kişiler, ikamet yerleri dışındaki Avrupa Birliği ve Avrupa Serbest Ticaret Birliği ülkelerinde adlarına kayıtlı taşıtlarını da getirebilirler"
+    },
+    {
+     "alt_konu": "Turistik kolaylıklar kapsamı taşıtların giriş işlemleri ve süreleri",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre turistik kolaylıklar kapsamında Türkiye Gümrük Bölgesi dışında yerleşik kişilerin getirdikleri taşıtlarına ne kadar süre verilir?",
+     "cevap": "730 gün süre verilir; ancak verilecek izin süresi kişinin Türkiye'de kalabileceği süreden uzun olamaz.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 6/1",
+     "kanit": "Türkiye Gümrük Bölgesi dışında yerleşik kişilerin getirdikleri taşıtlarına 730 (yediyüzotuz) gün süre verilir. Verilecek olan izin süresi kişinin Türkiye'de kalabileceği süreden uzun olamaz."
+    },
+    {
+     "alt_konu": "Turistik kolaylıklar kapsamı taşıtların giriş işlemleri ve süreleri",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre turistik kolaylıklar kapsamında tanınan sürelerin tamamı kullanıldıktan sonra yeniden Türkiye'ye taşıt getirilebilmesi için hangi şart aranır?",
+     "cevap": "Kişi ve taşıtın, çıkış tarihinden itibaren en az 185 gün süreyle fiilen yurt dışında bulunmaları gerekir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 6/4",
+     "kanit": "yeniden Türkiye'ye taşıt getirilebilmesi için kişi ve taşıtın, çıkış tarihinden itibaren en az 185 (yüzseksenbeş) gün süreyle fiilen yurtdışında bulunmaları gerekir."
+    },
+    {
+     "alt_konu": "Turistik kolaylıklar kapsamı taşıtların giriş işlemleri ve süreleri",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre turistik kolaylıklar kapsamındaki taşıta verilecek süre hesaplanırken taşıt ve kişi için bulunan süreler farklıysa hangisi verilir?",
+     "cevap": "Taşıt ve kişi için süreler ayrı ayrı hesaplanır ve kısa olan süre verilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 6/6",
+     "kanit": "Taşıta verilecek süre hesaplanırken, taşıt ve kişi için süreler ayrı ayrı hesaplanır ve kısa olan süre verilir."
+    },
+    {
+     "alt_konu": "Geçici giriş belgesi ve yabancı taşıtlar geçici giriş karnesi/formu kapsamı taşıtlar",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre geçici giriş belgesi, yabancı taşıtlar geçici giriş karnesi veya formu kapsamında getirilen taşıtlar için geçici trafik tescil belgesi düzenlenmesi amacıyla gümrük idaresine ne kadar süre içinde başvurulmalıdır?",
+     "cevap": "Taşıtın Türkiye Gümrük Bölgesine ilk giriş tarihinden itibaren 30 gün içinde başvurulmalıdır; bu süre içinde başvurulmazsa Gümrük Kanununun 241 inci maddesinin birinci fıkrası uygulanır.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 8/4, 11/7",
+     "kanit": "Geçici trafik tescil belgesinin düzenlenmesi için gümrük idaresine başvurunun, bu taşıtların Türkiye Gümrük Bölgesine ilk giriş tarihinden itibaren 30 (otuz) gün içinde yapılması gerekir."
+    },
+    {
+     "alt_konu": "Geçici giriş belgesi ve yabancı taşıtlar geçici giriş karnesi/formu kapsamı taşıtlar",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre geçici giriş belgesi, yabancı taşıtlar geçici giriş karnesi veya formu kapsamında getirilen taşıtlara ne kadar süre verilir?",
+     "cevap": "Kişinin Türkiye'deki ikamet izin süresi ve diğer belgelerindeki süreler göz önünde bulundurularak 24 ayı geçmemek üzere süre verilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 9, 12",
+     "kanit": "Bu taşıtlara, kişinin Türkiye'deki ikamet izin süresi ve diğer belgelerindeki süreler göz önünde bulundurularak 24 (yirmidört) ayı geçmemek üzere süre verilir."
+    },
+    {
+     "alt_konu": "Ticari kullanıma mahsus kara taşıtları",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre NCTS ve TIR karnesi kapsamı eşyasını transit rejimine uygun olarak Türkiye'ye getirip boşaltan ticari taşıtlar hangi programa ve kim tarafından kaydedilir?",
+     "cevap": "Yükün boşaltıldığı gümrük idaresi tarafından 2 No.lu Taşıt Takip Programına kaydedilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 14/1",
+     "kanit": "NCTS ve TIR karnesi kapsamı eşyasını transit rejimine uygun olarak Türkiye'ye getirip boşaltan taşıtlar, yükün boşaltıldığı gümrük idaresi tarafından 2 No.lu Taşıt Takip Programına kaydedilir."
+    },
+    {
+     "alt_konu": "Ticari kullanıma mahsus kara taşıtları",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre ticari kullanıma mahsus kara taşıtlarına ne kadar süre verilir?",
+     "cevap": "30 güne kadar süre verilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 15/1-a",
+     "kanit": "Ticari kullanıma mahsus kara taşıtlarına 30 (otuz) güne kadar,"
+    },
+    {
+     "alt_konu": "Ticari kullanıma mahsus kara taşıtları",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre toplu gezilerde kullanılan yabancı plakalı otobüslere ne kadar süre verilir?",
+     "cevap": "90 güne kadar süre verilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 15/1-b",
+     "kanit": "Toplu gezilerde kullanılan otobüslere 90 (doksan) güne kadar,"
+    },
+    {
+     "alt_konu": "Ticari kullanıma mahsus kara taşıtları",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre valiliklerce düzenlenen sınır ticareti uygunluk belgesine istinaden ithal eşyası taşımacılığında kullanılan taşıtlara ne kadar süre verilir?",
+     "cevap": "15 güne kadar süre verilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 15/1-c",
+     "kanit": "valiliklerce düzenlenen sınır ticareti uygunluk belgesine istinaden yapılan ithal eşyası taşımacılığında kullanılan taşıtlara 15 (onbeş) güne kadar,"
+    },
+    {
+     "alt_konu": "Ticari kullanıma mahsus kara taşıtları",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre 1 No.lu Taşıt Takip Programına kayden giriş yapan tüzel kişiliklere ait otomobil, minibüs, arazi taşıtı, kamyonet ve motosikletlere ne kadar süre verilir?",
+     "cevap": "90 güne kadar süre verilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 15/1-ç",
+     "kanit": "1 No.lu Taşıt Takip Programına kayden giriş yapan tüzel kişiliklere ait otomobil, minibüs, arazi taşıtı, kamyonet ve motosikletlere 90 (doksan) güne kadar,"
+    },
+    {
+     "alt_konu": "Kara taşıtlarının süre uzatımı",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre kişisel ve ticari kullanıma mahsus kara taşıtları için süre uzatım talebi hangi gümrük idaresine yapılabilir?",
+     "cevap": "Yurtta kalma süresi içinde herhangi bir gümrük idaresine yapılabilir; talep, beklenmeyen haller, olağan dışı durumlar, hastalık veya tutukluluğun resmi belgelerle ya da ihracatçının yükünü zamanında tedarik edememesinden doğan yükleme gecikmesinin ihracatçıdan alınacak belgeyle kanıtlanmasına dayanmalıdır.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 17/1",
+     "kanit": "herhangi bir gümrük idaresine süresi içerisinde yapılacak müracaatla; ... ihracatçının yükünü zamanında tedarik edememesi nedeniyle yüklemenin gecikmesi hâlinde bunun ihracatçıdan alınacak belge ile kanıtlanması"
+    },
+    {
+     "alt_konu": "Kara taşıtlarının süre uzatımı",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre yabancı taşıtlar geçici giriş karnesi ile getirilen taşıtın süre uzatım talebi gümrük idaresine kimin aracılığıyla yapılır?",
+     "cevap": "Kefil kuruluş aracılığıyla yapılır; geçici giriş belgesiyle getirilen taşıtlarda ilk girişte aranan belgeleri veren kuruluşlar aracılığıyla, yabancı taşıtlar geçici giriş formu ile getirilenlerde ise doğrudan gümrük idaresine yapılır.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 17/5-a",
+     "kanit": "taşıt, yabancı taşıtlar geçici giriş karnesi ile getirilmiş ise kefil kuruluş aracılığıyla, ... Yabancı taşıtlar geçici giriş formu ile getirilen taşıtların süre uzatım talepleri doğrudan gümrük idaresine yapılır."
+    },
+    {
+     "alt_konu": "Kara taşıtlarının süre uzatımı",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre yurt dışından emekliler ile Türkiye'de oturma iznine sahip emekli yabancıların kişisel kara taşıtları için Kararla tanınan sürelerin yeniden verilmesi amacıyla gümrük idaresine ne zaman başvurulmalıdır?",
+     "cevap": "Mücbir sebep ve beklenmeyen haller saklı kalmak üzere, verilen geçici ithalat izin sürelerinin tamamlanmasından önceki son üç ay içinde başvurulmalıdır.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 17/6",
+     "kanit": "verilen geçici ithalat izin sürelerinin tamamlanmasından önceki son üç ay içerisinde yapılması gerekir."
+    },
+    {
+     "alt_konu": "Şartların ihlali",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre geçici ithaline izin verilen kara taşıtının kiralanması, ödünç verilmesi, satılması veya süresi içinde yurt dışına çıkarılmaması gibi şartların ihlali halinde geçici ithal izni ve taşıt hakkında ne yapılır?",
+     "cevap": "5607 sayılı Kanun hükümleri saklı kalmak kaydıyla Gümrük Kanununun 238 inci maddesi uyarınca işlem yapılır; geçici ithal izni iptal edilerek taşıt gümrük idaresince teslim alınır.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 19/1",
+     "kanit": "Kanunun 238 inci maddesi hükümleri uyarınca işlem yapılır ve geçici ithal izni iptal edilerek taşıt gümrük idaresince teslim alınır."
+    },
+    {
+     "alt_konu": "Şartların ihlali",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre ülkemizde transit halinde bulunan geçici (ZOLL) plakalı taşıtların verilen süre içinde yurt dışı edilmemesi halinde hangi hükümler uygulanır?",
+     "cevap": "5607 sayılı Kanun hükümleri saklı kalmak kaydıyla Gümrük Kanununun 241 inci maddesindeki transite ilişkin hükümler uygulanır.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 19/2",
+     "kanit": "geçici (ZOLL) plakalı taşıtların verilen süre içerisinde yurtdışı edilmemesi hâlinde, 5607 sayılı Kaçakçılıkla Mücadele Kanunu hükümleri saklı kalmak kaydıyla Kanunun 241 inci maddesinde yer alan transite ilişkin hükümler uygulanır."
+    },
+    {
+     "alt_konu": "Vergi ve cezaların takibi",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre şartların ihlali nedeniyle tahakkuk ettirilecek gümrük vergileri bakımından yabancı taşıtlar geçici giriş karnesi ve gümrüklerden geçiş karnesi kapsamı taşıtlarda takibata kimin nezdinde başlanır?",
+     "cevap": "Kefil kuruluş nezdinde başlanır; belgesiz girenler ile form kapsamı taşıtlarda ilgili kişi, geçici giriş belgesi kapsamı taşıtlarda taahhütnameyi veren kuruluş nezdinde başlanır. Para cezalarının takibi ise ilgili kişi nezdinde yürütülür.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 20/1-2",
+     "kanit": "Yabancı taşıtlar geçici giriş karnesi kapsamı taşıtlar ile kefil kuruluş kefaletindeki yabancı otomobil kulüplerince verilen gümrüklerden geçiş karnesi kapsamı taşıtlar için kefil kuruluş,"
+    },
+    {
+     "alt_konu": "Vergi ve cezaların takibi",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre taşıt sahibinin ölümü halinde taşıt gümrüğe teslim veya yurt dışı edilmezse gümrük vergileri kimden tahsil edilir?",
+     "cevap": "Reddi miras talebinde bulunmayan varislerinden tahsil edilir; ayrıca para cezası uygulanmaz.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 20/4",
+     "kanit": "taşıtın gümrük vergileri reddi miras talebinde bulunmayan varislerinden tahsil edilir, ayrıca para cezası uygulanmaz."
+    },
+    {
+     "alt_konu": "Vergi ve cezaların takibi",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre şartların ihlali nedeniyle vergi ve cezaların tahsil edilmesi taşıtın serbest dolaşıma girişini sağlar mı?",
+     "cevap": "Hayır; vergi ve cezalar ödenmiş olsa dahi taşıtın yurt dışı edilmesi gerekir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 20/7",
+     "kanit": "Şartların ihlali neticesinde vergi ve cezaların tahsil edilmiş olması taşıtın serbest dolaşıma girişini sağlamaz. Vergi ve cezalar ödenmiş dahi olsa taşıtın yurtdışı edilmesi gerekir."
+    },
+    {
+     "alt_konu": "Geçici (ZOLL) plakalı taşıtlar",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre yabancı ülke çıkışlı Türkiye varışlı ya da yabancı ülke varışlı olup ülkemizde transit halinde bulunan geçici (ZOLL) plakalı taşıtlara en çok ne kadar süre verilir?",
+     "cevap": "En çok 15 gün süre verilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 22/2",
+     "kanit": "ülkemizde transit hâlinde bulunan geçici (ZOLL) plakalı taşıtlara en çok 15 (onbeş) gün süre verilir."
+    },
+    {
+     "alt_konu": "Hak sahibi dışında kullanım ve taşıtsız çıkış",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre turistik kolaylıklardan faydalanılarak geçici ithal edilen taşıtlar izin hak sahibi dışında kimler tarafından kullanılabilir?",
+     "cevap": "İzin hak sahibinin ikamet yeri Türkiye Gümrük Bölgesi dışında bulunan eşi, usul veya füruu tarafından ya da izin hak sahibinin taşıtta bulunması kaydıyla ikamet yeri bölge dışında bulunan kişilerce kullanılabilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 26/1-a",
+     "kanit": "izin hak sahibinin, ikamet yeri Türkiye Gümrük Bölgesi dışında bulunan eşi, usul ya da füruu olan kişilerce veya izin hak sahibinin taşıtta bulunması kaydıyla ikamet yeri Türkiye Gümrük Bölgesi dışında bulunan kişilerce,"
+    },
+    {
+     "alt_konu": "Hak sahibi dışında kullanım ve taşıtsız çıkış",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre taşıt gümrük gözetimine bırakılmadan izin hak sahibinin yurt dışına geçici olarak çıkışına hangi belgenin alınması halinde izin verilir?",
+     "cevap": "Taşıtın başkası tarafından kullanılmayacağına ilişkin, iki nüsha düzenlenen ve bir örneği ilgiliye verilen taahhütnamenin alınması halinde izin verilir; taahhütname elektronik olarak da verilebilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 27/1",
+     "kanit": "taşıtın başkası tarafından kullanılmayacağına ilişkin iki nüsha düzenlenen ve bir örneği ilgiliye verilen ek-7'deki taahhütnamenin alınması halinde izin verilir."
+    },
+    {
+     "alt_konu": "Mülkiyet devri",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre turistik kolaylıklardan istifade edilerek programa kaydedilmek suretiyle geçici ithal edilen taşıtların başkasına mülkiyet devri yapılabilir mi?",
+     "cevap": "Kural olarak yapılamaz; ancak geçici giriş belgesi, yabancı taşıtlar geçici giriş karnesi veya formuna kayden taşıt ithal etme hakkı bulunan aile ünitesine dahil bir başkasına, devrin belgelendirilmesi ve taşıtın gümrük gözetimine alınması koşuluyla devrine izin verilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 28/2",
+     "kanit": "Turistik kolaylıklardan istifade edilerek programa kaydedilmek suretiyle geçici ithali yapılan taşıtların bir başkasına mülkiyet devri yapılamaz."
+    },
+    {
+     "alt_konu": "Çalınan ve kazaya uğrayan taşıtlar",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre çalındığı ispat edilen ya da kaza veya herhangi bir nedenle hasar görerek kullanılamayacak duruma gelen taşıtlara ait vergiler aranır mı?",
+     "cevap": "Aranmaz; ancak hasara uğrayan taşıtın yurt dışına çıkarılması veya gümrüğe terk edilmesi gerekir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 30/2, 31/1",
+     "kanit": "Çalındığı ispat edilen taşıtlara ait vergiler aranmaz. ... hasar görmesi sonucu kullanılamayacak duruma gelen taşıta ait vergiler aranmaz. Hasara uğrayan taşıtın, yurtdışına çıkarılması veya gümrüğe terk edilmesi gerekir."
+    },
+    {
+     "alt_konu": "Teslim alınan taşıtların gümrük gözetiminde kalma süresi ve tasfiye",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre gümrük idaresince teslim alınan taşıtların gümrük gözetiminde kalabileceği üç aylık süre uzatılabilir mi?",
+     "cevap": "Evet; talep halinde mücbir sebep belgesi aranmaksızın ilgili gümrük müdürlüğünce üç aya kadar uzatılabilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 32/1",
+     "kanit": "Bu süre, talep halinde mücbir sebep belgesi aranmaksızın ilgili gümrük müdürlüğünce üç aya kadar uzatılabilir."
+    },
+    {
+     "alt_konu": "Yetkili gümrük idaresi",
+     "soru": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre geçici giriş belgesi, yabancı taşıtlar geçici giriş karnesi ve formuna kayden taşıt getirecek kişilere geçici ithal izni vermeye hangi gümrük idaresi yetkilidir?",
+     "cevap": "Bu kişilerin bulunduğu yere en yakın gümrük idaresi yetkilidir; birden fazla gümrük idaresinin bulunduğu yerlerde yetkili idare gümrük ve muhafaza başmüdürlüklerince belirlenir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) md. 33/1",
+     "kanit": "geçici ithal iznini vermeye ve işlemleri yerine getirmeye bu kişilerin bulunduğu yere en yakın gümrük idaresi yetkilidir. Birden fazla gümrük idarelerinin bulunduğu yerlerde bu tür işlemleri yapmaya yetkili gümrük idaresi gümrük ve muhafaza başmüdürlüklerince belirlenir."
+    },
+    {
+     "alt_konu": "ATA kısaltması ve ATA Karnesinin tanımı",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre \"ATA\" kısaltması neyi ifade eder?",
+     "cevap": "Fransızca \"Admission Temporaire\", İngilizce \"Temporary Admission\" kelimelerinin ilk harflerinin birleştirilmesiyle oluşan ve geçici kabul anlamına gelen bir sözcüktür.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 2",
+     "kanit": "ATA kısaltması; Fransızca \"Admission Temporaire\", İngilizce \"Temporary Admission\" kelimelerinin ilk harflerinin birleştirilmesiyle geçici kabul anlamına gelen bir sözcüktür."
+    },
+    {
+     "alt_konu": "Geçici İthalat Sözleşmesi ve ATA karnesinin kabulü",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre Türkiye'nin Geçici İthalat Sözleşmesini çekincelerle onaylaması nedeniyle hangi trafikte ATA karneleri kabul edilmez?",
+     "cevap": "Posta trafiğinde ATA karneleri kabul edilmez.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 3",
+     "kanit": "Buna göre, posta trafiğinde ATA karneleri kabul edilmeyecektir."
+    },
+    {
+     "alt_konu": "ATA Karnesi ile rejimin işleyişi",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre ATA Karnesi kapsamında geçici ithal edilecek eşya giriş gümrük idaresine varmadan önce beyan edilebilir mi?",
+     "cevap": "Evet; giriş gümrük idaresine varışından önce elektronik olarak beyan edilebilir.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 4",
+     "kanit": "ATA Karnesi kapsamında geçici ithal edilecek eşya, giriş gümrük idaresine varışından önce elektronik olarak beyan edilebilir"
+    },
+    {
+     "alt_konu": "Rejimin sona ermesi",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre yurtta kalma süresi aşılarak yurt dışı edilmek üzere çıkış gümrüğüne getirilen ATA Karnesi kapsamı eşyanın çıkışına hangi durumda izin verilir?",
+     "cevap": "Gümrük Kanununun 238 ve 241 inci maddeleri uyarınca alınması gereken cezanın tahsil edildiğinin veya ceza tutarının teminata bağlandığının ya da eşyanın CIF kıymeti karşılığı dövizin güvenceye bağlandığının anlaşılması halinde izin verilir.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 5/1",
+     "kanit": "alınması gereken cezanın tahsil edildiğinin veya ceza tutarının teminata bağlandığının ya da eşyanın CIF kıymeti karşılığı dövizin güvenceye bağlandığının anlaşılması halinde eşyanın yurt dışına çıkarılmasına müsaade edilir."
+    },
+    {
+     "alt_konu": "Rejimin sona ermesi",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre ATA Karnesi kapsamı eşyanın kaza veya mücbir sebep nedeniyle tümüyle kullanılamaz hale geldiği veya tamamen kaybolduğu kanıtlanırsa sonuç ne olur?",
+     "cevap": "Geçici ithalat rejimi sona erer ve rejimden yararlanan şahıs ithalat vergilerinden muaf tutulur.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 5/3",
+     "kanit": "geçici ithalat rejimi sona erer ve geçici ithalat rejiminden yararlanan şahıs ithalat vergilerinden muaf tutulur."
+    },
+    {
+     "alt_konu": "ATA Karnesi kapsamı eşyaya verilecek yurtta kalma süreleri",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre sergi, fuar ve benzeri etkinliklerde kullanılmak üzere ATA Karnesi ile getirilen eşyaya ne kadar yurtta kalma süresi verilir?",
+     "cevap": "Geçici ithal tarihinden itibaren 6 aydan az olmayacak şekilde süre verilir; eşyanın başka etkinliklerde de sergileneceği veya kullanılacağı belgelenirse karne geçerlilik süresi kadar süre verilir.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 6/1",
+     "kanit": "sergi, fuar ve benzeri etkinliklerde kullanılmak üzere getirilen eşyaya geçici ithal tarihinden itibaren 6 aydan az olmayacak şekilde yurtta kalma süresi verilecektir."
+    },
+    {
+     "alt_konu": "ATA Karnesi kapsamı eşyaya verilecek yurtta kalma süreleri",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre mesleki malzeme, eğitsel/bilimsel/kültürel amaçlı eşya, yolcu zati eşyası ve hayvanlar gibi ATA Karnesi kapsamı eşyaya kural olarak ne kadar yurtta kalma süresi verilir?",
+     "cevap": "Karne hamilince daha kısa süre talep edilmedikçe, geçici ithal tarihinden itibaren karne geçerlilik süresi kadar süre verilir.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 6/3",
+     "kanit": "geçici ithal tarihinden itibaren, karne hamilince daha kısa süre talep edilmemesi halinde karne geçerlilik süresi kadar yurtta kalma süresi verilir."
+    },
+    {
+     "alt_konu": "Süre uzatımı ve karnenin yeni karne ile değiştirilmesi",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre ATA Karnesi kapsamı eşya için süre uzatımı hangi sınırı aşmamak üzere talep edilebilir?",
+     "cevap": "Dilekçe ile gümrük idaresine başvurularak, karnenin geçerlilik süresini geçmemek üzere süre uzatımı talep edilebilir.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 7",
+     "kanit": "bir dilekçe ile gümrük idaresine müracaat edilerek, karnenin geçerlilik süresini geçmemek üzere süre uzatımı talebinde bulunulması gerekir."
+    },
+    {
+     "alt_konu": "Süre uzatımı ve karnenin yeni karne ile değiştirilmesi",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre eşyanın ATA Karnesinin geçerlilik süresinden daha uzun süre geçici ithalat rejimi altında kullanılması istenirse ne yapılır?",
+     "cevap": "Mevcut karnenin süresi uzatılamayacağından, mevcut karnenin geçerlilik süresi içinde karneyi veren kuruluşça yeniden düzenlenen yeni bir ATA Karnesi ile kullanıma devam edilebilir.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 8",
+     "kanit": "mevcut karnenin süresi uzatılamayacağından, yeni bir ATA Karnesi ile kullanımına devam edilmesi mümkündür."
+    },
+    {
+     "alt_konu": "Rejim şartları ve takibi",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre yurtta kalma süresi tamamlandıktan ne kadar süre geçtiği halde işlemleri tamamlanmamış ATA Karnesi kapsamı eşya için vergilerin tahsiline yönelik işlem yapılır?",
+     "cevap": "Yurtta kalma süresi tamamlandıktan 20 gün geçtiği halde işlemleri tamamlanmamış eşya için işlem yapılır; giriş gümrük idaresi bu kontrolü her ayın ilk iş günü kayıtlar üzerinden yapar.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 9",
+     "kanit": "giriş gümrük idaresi tarafından her ayın ilk iş günü kayıtların[6] kontrolü yapılarak, yurtta kalma süresi sona eren ancak yurtta kalma süresi tamamlandıktan 20 (yirmi) gün geçtiği halde"
+    },
+    {
+     "alt_konu": "Rejim şartlarının ihlali ve kefil kuruluşun sorumluluğu",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre süresinde yurt dışı edilmeyen ATA Karnesi kapsamı eşya için kefil kuruluşa ne kadar süre içinde tebligat yapılması gerekir?",
+     "cevap": "Karnenin geçerlilik süresinin bitim tarihinden itibaren 1 yıl içinde tebligat yapılması gerekir.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 10/a",
+     "kanit": "kefil kuruluşa, karnenin geçerlilik süresinin bitim tarihinden itibaren 1 (bir) yıl içerisinde tebligat yapılması gerekir."
+    },
+    {
+     "alt_konu": "Rejim şartlarının ihlali ve kefil kuruluşun sorumluluğu",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre ATA Karnesi kapsamında kefil kuruluşun ödemekle sorumlu olduğu tutar hangi sınırı aşamaz?",
+     "cevap": "Gümrük vergileri ile ithalatta alınan diğer vergiler toplamının %10 fazlasını aşamaz.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 10/b",
+     "kanit": "Bu tutar, gümrük vergileri ve ithalatta alınan diğer vergiler (ithal vergi ve resimleri) toplamının %10 fazlasını aşamaz."
+    },
+    {
+     "alt_konu": "Rejim şartlarının ihlali ve kefil kuruluşun sorumluluğu",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre kefil kuruluşa, eşyanın kanuni yurtta kalma süresi içinde yeniden ihraç edildiğine veya karnenin usulüne uygun ibra edildiğine dair delil vermesi için ne kadar süre tanınır?",
+     "cevap": "Talep tarihinden itibaren 6 aylık süre tanınır.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 10/b",
+     "kanit": "talep tarihinden itibaren Geçici Kabul Belgelerine İlişkin Ek A'nın 9/1-a maddesi uyarınca 6 (altı) aylık süre tanınır."
+    },
+    {
+     "alt_konu": "Rejim şartlarının ihlali ve kefil kuruluşun sorumluluğu",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre ATA Karnesi kapsamı eşyanın süresinde yurt dışı edilmemesi nedeniyle uygulanan para cezası tutarı ile faizi kimden tahsil edilir?",
+     "cevap": "Karne hamilinden tahsil edilir; vergilerin %10 fazlasına kadar olan tutar ise kefil kuruluş olan Türkiye Odalar ve Borsalar Birliğinden tahsil edilir.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 10/e",
+     "kanit": "para cezası tutarı ile faizi ise karne hamilinden tahsil etmek üzere gerekli işlemleri yapar."
+    },
+    {
+     "alt_konu": "Çıkış sayılan haller",
+     "soru": "Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4)'e göre ATA Karnesi ile geçici ithal edilen eşyanın yurt dışı edilmesinden vazgeçilerek hangi işlemlere tabi tutulması çıkış hükmündedir?",
+     "cevap": "Serbest dolaşıma giriş rejimine tabi tutulması, çıkış hükmünde geçici depolama yeri veya antrepoya konulması ya da Hazineye herhangi bir külfet getirmeksizin resmi makamların nezareti altında imha edilmesi çıkış hükmündedir.",
+     "dayanak": "Geçici İthalat Tebliği (Seri No 4) md. 12",
+     "kanit": "serbest dolaşıma giriş rejimine tabi tutulması veya çıkış hükmünde geçici depolama yeri veya antrepoya konulması ya da Hazine'ye herhangi bir külfet getirmeksizin resmi makamların nezareti altında imha edilmesi çıkış hükmündedir."
+    }
+   ]
+  }
+ ]
+}

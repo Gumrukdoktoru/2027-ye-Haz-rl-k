@@ -1,0 +1,2299 @@
+{
+ "grup": "G17",
+ "dosyalar": [
+  {
+   "kaynak": "45-tebliğ.txt",
+   "konu": "Gümrük vergilerinin tahakkuku, tebliği, ödenmesi, zamanaşımı, tecil-taksitlendirme ve terkin (Tahakkuk-Tebliğ-Ödeme)",
+   "mevzuat": "GK md. 195-201; GY md. 489-492; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 3-29",
+   "cikmis_sayisi": 20,
+   "cikmis": [
+    "2021-79: GK 197 tebliğ/kesinleşme hükümleri; ceza davası açılmışsa vergiler TCK dava ve ceza zamanaşımı içinde tahsil edilir (6183 değil).",
+    "2021-81: Ödeme süresi 15 gün; teminatla 30 gün uzatma, uzatılan süre için tecil faizi; itiraz ödeme süresini keser; kısmi ödeme mümkündür.",
+    "2021-88: Çok zor durum formülü (kasa+banka+kısa vadeli alacaklar)/kısa vadeli borçlar; stoklar dahil değildir.",
+    "2022-88: Sonradan tespit edilen eksik vergiler tebliğden itibaren 15 gün içinde ödenir.",
+    "2023-44: Gümrük vergilerinin tahakkukunda Gümrük Kanunu hükümleri uygulanır.",
+    "2023-61: Süresinde ödenmeyen kesinleşmiş gümrük vergileri 6183 sayılı Kanuna göre takip edilir.",
+    "2023-70: Hiç/noksan alınan vergilerin tebliği yükümlülüğün doğduğu tarihten itibaren üç yıl içinde yapılır.",
+    "2024-79: Hiç/noksan alınan vergilerin tebligatı yükümlülük doğumundan itibaren üç yıl içinde yapılır.",
+    "2024-80: Beyan edilen vergi ile hesaplanan vergi eşitse eşyanın teslimi tebliğ yerine geçer.",
+    "2024-81: Noksan vergiler 15 günde ödenir; süre bitmeden yazılı istem ve teminatla 30 gün uzatılabilir.",
+    "2025-27: Sonradan tespit edilen noksan vergiler tebliğden itibaren 15 gün içinde ödenir.",
+    "2025-30: Hiç alınmadığı belirlenen vergilerin tebligatı yükümlülüğün doğduğu tarihten itibaren üç yıl içinde yapılır.",
+    "2023-77 (ilişkili; 49-itirazlar): Tebliğ tahakkuktan hemen sonra yapılır, teslim tebliğ yerine geçer; itiraz ve uzlaşma süresi 15 gün, itiraz 30 günde karara bağlanır.",
+    "2021-78 (ilişkili; 44-yükümlülük): Hatalı beyanla eksik alınan vergiye yükümlülük başlangıcı ile kesinleşme arası faiz uygulanır (Tebliğ md. 15/1).",
+    "2022-54 (ilişkili; 44-yükümlülük): Aynı faiz (gecikme zammı oranında) uygulaması.",
+    "2022-87 (ilişkili; 2-TEMSİL): Müteselsil sorumlulukta borç bir kez ödenir, kim öderse kapanır (Tebliğ md. 5/4).",
+    "2024-85 (ilişkili; 2-TEMSİL): Müteselsil sorumlulukta ceza bir kez ödenir; paylaşarak ödeme kararı kapatır.",
+    "2024-82 (ilişkili; 48-cezalar): Vergi alacağına bağlı İPC zamanaşımı vergilerin zamanaşımına tabidir (GY 490/4; Tebliğ md. 10/1).",
+    "2022-66 (ilişkili; 49-itirazlar): İtiraz süresi tebliğden itibaren 15 gün.",
+    "2024-95 (ilişkili; 49-itirazlar): İtiraz süresi tebliğden itibaren 15 gün."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Tahakkukun kayda geçirilmesi ve özel durum kaydı",
+     "dayanak": "GK md. 195; GY md. 489/1",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-44"
+     ],
+     "not": "Sorulan: tahakkukta Gümrük Kanunu hükümlerinin uygulanması. Sorulmayan: deftere/bilgisayara kayıt, bilgisayar çıktısının defter yerine geçmesi, özel durumu deftere işlenen haller."
+    },
+    {
+     "baslik": "Belirli aralıklarla teslim edilen eşyada dönemsel tahakkuk ve basitleştirilmiş usul",
+     "dayanak": "GK md. 196, 199; GY md. 491",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tebliğ, tebliğ süresi ve zamanaşımının durması",
+     "dayanak": "GK md. 197/1-3; GY md. 489/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-79",
+      "2023-70",
+      "2023-77",
+      "2024-79",
+      "2024-80",
+      "2025-30"
+     ],
+     "not": "Sorulan: tahakkuktan hemen sonra tebliğ, üç yıllık tebliğ süresi, beyan=hesaplanan vergi halinde teslimin tebliğ yerine geçmesi. Sorulmayan: dava açılmasının zamanaşımını durdurması, tebliğin sistem üzerinden yapılması."
+    },
+    {
+     "baslik": "Ceza davası açılması halinde TCK zamanaşımı",
+     "dayanak": "GK md. 197/4; Tahsilat Tebliği md. 9/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-79"
+     ],
+     "not": "Sorulan: ceza davası açılmışsa TCK dava ve ceza zamanaşımı süreleri. Sorulmayan: ceza davasının sonuçlanması beklenmeksizin takip."
+    },
+    {
+     "baslik": "Gümrük vergileri ve para cezalarının kesinleşmesi",
+     "dayanak": "GK md. 197/5; Tahsilat Tebliği md. 13",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-79"
+     ],
+     "not": "Sorulan: itiraz/dava yoluna gidilmezse sürelerin bitiminde kesinleşme (GK 197/5). Sorulmayan: itirazın reddi, istinaf/temyiz ve uzlaşma halinde kesinleşme anları."
+    },
+    {
+     "baslik": "Ödeme süresi, uzatılması ve itirazın ödeme süresine etkisi",
+     "dayanak": "GK md. 198/1-3; Tahsilat Tebliği md. 17",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-81",
+      "2022-88",
+      "2024-81",
+      "2025-27"
+     ],
+     "not": "Sorulan: 15 günlük ödeme süresi, yazılı istem ve teminatla 30 gün uzatma, tecil faizi, itirazın ödeme süresini kesmesi, kısmi ödeme. Sorulmayan: kalem bazında uzatma, ödeme süresinin yeniden başladığı tarih."
+    },
+    {
+     "baslik": "Dolaşım belgesinin karşı ülkece yanlışlıkla onaylanması",
+     "dayanak": "GK md. 198/4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ödemenin şekli ve kesinleşmiş vergilerin takibi",
+     "dayanak": "GK md. 200-201",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-61"
+     ],
+     "not": "Sorulan: kesinleşmiş vergilerde 6183 sayılı Kanunun uygulanması. Sorulmayan: Türk Lirası ile ve 6183'e göre ödeme, bankalar aracılığıyla tahsil."
+    },
+    {
+     "baslik": "Ek tahakkuk ve ceza kararlarının düzenlenmesi, tebliği ve birleştirilmesi",
+     "dayanak": "GY md. 490/2-3; Tahsilat Tebliği md. 4, 5/1, 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Müteselsil sorumlulukta tebligat ve dolaylı temsilcinin sorumluluğu",
+     "dayanak": "Tahsilat Tebliği md. 5/2-5, 6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-87",
+      "2024-85"
+     ],
+     "not": "Sorulan (2-TEMSİL kaynaklı): müteselsil sorumlulukta borcun bir kez ödenmesi (Tebliğ md. 5/4 ile örtüşür). Sorulmayan: her birine ayrı tebliğ, uzlaşma tutanağının tebliğ hükmünde olması, dolaylı temsilcinin sorumluluk halleri ve ayrıca tebligat yapılmayan haller."
+    },
+    {
+     "baslik": "Para cezası kararlarının tebliği ve iştirak",
+     "dayanak": "Tahsilat Tebliği md. 7-8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tahakkuk zamanaşımı ve davanın tahsilat takibine etkisi",
+     "dayanak": "Tahsilat Tebliği md. 9/1, 9/3-4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-70",
+      "2024-79",
+      "2025-30"
+     ],
+     "not": "Sorulan: üç yıllık süre. Sorulmayan: zamanaşımının re'sen dikkate alınması, ilk derece davasının tahsilatı durdurması."
+    },
+    {
+     "baslik": "Para cezalarında zamanaşımı",
+     "dayanak": "GY md. 490/4; Tahsilat Tebliği md. 10",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-82"
+     ],
+     "not": "Sorulan: vergiye bağlı İPC'nin vergilerin zamanaşımına tabi olması. Sorulmayan: vergiye bağlı olmayan cezalarda 5326 sayılı Kanuna göre zamanaşımı."
+    },
+    {
+     "baslik": "İtiraz (Tahsilat Tebliği)",
+     "dayanak": "Tahsilat Tebliği md. 12",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-66",
+      "2023-77",
+      "2024-95"
+     ],
+     "not": "İtiraza ilişkin sorulmamış ayrıntılar 49-itirazlar dosyasında işlenmiştir; tekrar edilmemiştir."
+    },
+    {
+     "baslik": "Kesinleşen alacakların takibi, rızaen ödeme, taksit ve ölüm hali",
+     "dayanak": "Tahsilat Tebliği md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gecikme zammı oranında faiz ve gecikme zammı hesabı",
+     "dayanak": "Tahsilat Tebliği md. 15",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-78",
+      "2022-54"
+     ],
+     "not": "Sorulan (44-yükümlülük kaynaklı): yükümlülük başlangıcı ile kesinleşme arası faiz uygulanması. Sorulmayan: yıllık oranın bulunması, gecikme zammında sürenin hesabı, idari para cezalarına faiz ve gecikme zammı uygulanmaması."
+    },
+    {
+     "baslik": "Takip mahalli",
+     "dayanak": "Tahsilat Tebliği md. 16",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "6183 sayılı Kanun çerçevesinde tecil: ret, yetki ve başvuru",
+     "dayanak": "Tahsilat Tebliği md. 18-20",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Çok zor durum halinin tespiti",
+     "dayanak": "Tahsilat Tebliği md. 21",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-88"
+     ],
+     "not": "Sorulan: formülde yer alan hesaplar (stoklar yok); ayrıca 2021-87'de YGM rapor kodu (ZD1) sorulmuş. Sorulmayan: oranın 1 ve altı olması eşiği, kamu kurumlarında tespiti yapan makam."
+    },
+    {
+     "baslik": "Tecil ve taksitlendirmede teminat",
+     "dayanak": "Tahsilat Tebliği md. 22",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tecil süresi ve tecil faizi",
+     "dayanak": "Tahsilat Tebliği md. 23-24",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Taksitlerin ödenmemesi ve tecilin geçerli sayılması",
+     "dayanak": "Tahsilat Tebliği md. 26-27",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Terkin",
+     "dayanak": "Tahsilat Tebliği md. 28-29",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Tahakkukun kayda geçirilmesi ve özel durum kaydı",
+     "soru": "4458 sayılı Gümrük Kanununa göre hangi hallerde hesaplanan vergiler Gümrük Vergileri Tahakkukunu İzleme Defterine kaydedilmekle birlikte özel durumları ayrıca defterde belirtilir?",
+     "cevap": "Geçici anti-damping vergisi veya fark giderici vergi uygulanması, kanunen alınması gereken verginin bağlayıcı tarife ve menşe bilgisine göre belirlenen tutardan yüksek olması ve vergi tutarının Cumhurbaşkanınca belirlenen seviyenin altında kalması hallerinde.",
+     "dayanak": "GK md. 195/1",
+     "kanit": "a) Geçici bir anti-damping vergisi veya fark giderici vergi uygulandığı, ... Hallerde, hesaplanan vergiler Gümrük Vergileri Tahakkukunu İzleme Defterine kaydedilmekle birlikte, bunların özel durumu defterde belirtilir."
+    },
+    {
+     "alt_konu": "Belirli aralıklarla teslim edilen eşyada dönemsel tahakkuk ve basitleştirilmiş usul",
+     "soru": "4458 sayılı Gümrük Kanununa göre belirli aralıklarla ve aynı kişiye teslim edilen aynı cins eşyanın gümrük vergileri hangi şartla ve en fazla ne kadarlık bir süre için topluca tahakkuk ettirilebilir?",
+     "cevap": "Gerekli teminatın sağlanması şartıyla, otuz günü geçmeyecek şekilde belirlenecek bir süre içinde tahakkuk ettirilerek deftere kaydedilebilir.",
+     "dayanak": "GK md. 196",
+     "kanit": "Gerekli teminatın sağlanması şartıyla, belirli aralıklarla ve aynı kişiye teslim edilen aynı cins eşyanın gümrük vergileri otuz günü geçmeyecek şekilde belirlenecek bir süre içinde tahakkuk ettirilerek"
+    },
+    {
+     "alt_konu": "Belirli aralıklarla teslim edilen eşyada dönemsel tahakkuk ve basitleştirilmiş usul",
+     "soru": "4458 sayılı Gümrük Kanununa göre basitleştirilmiş usule göre tescil edilen beyannamedeki eksik bilgi veya belge gümrük idaresinin verdiği süre içinde tamamlanmazsa beyanname kapsamı eşyanın vergileri bakımından sonuç nedir?",
+     "cevap": "Beyanname kapsamı eşyanın ödenmesi gereken vergileri ertelenmez; Yönetmeliğe göre bu durumda dönemsel (toplu) tahakkuk imkânı da uygulanmaz.",
+     "dayanak": "GK md. 199; GY md. 491",
+     "kanit": "söz konusu beyanname kapsamı eşyanın ödenmesi gereken vergileri ertelenmez."
+    },
+    {
+     "alt_konu": "Tebliğ, tebliğ süresi ve zamanaşımının durması",
+     "soru": "4458 sayılı Gümrük Kanununa göre hiç alınmadığı veya noksan alındığı belirlenen gümrük vergilerine ilişkin üç yıllık tebliğ zamanaşımını ne durdurur?",
+     "cevap": "Gümrük yükümlülüğünün doğduğu olayla ilgili olarak dava açılması zamanaşımını durdurur.",
+     "dayanak": "GK md. 197/2; Tahsilat Tebliği md. 9/3",
+     "kanit": "Şu kadar ki, gümrük yükümlülüğünün doğduğu olayla ilgili olarak dava açılması zaman aşımını durdurur."
+    },
+    {
+     "alt_konu": "Ceza davası açılması halinde TCK zamanaşımı",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre ceza gerektiren ve zamanaşımı daha uzun bir fiil nedeniyle ceza davası açılmışsa gelir eksiğinin takip ve tahsili için ceza davasının sonuçlanması beklenir mi?",
+     "cevap": "Beklenmez; gelir eksiği ceza davasının sonuçlanması beklenilmeksizin ilgili kanunlarda belirlenmiş zamanaşımı süreleri içinde takip ve tahsil edilir.",
+     "dayanak": "Tahsilat Tebliği md. 9/2",
+     "kanit": "gelir eksiği, ceza davasının sonuçlanması beklenilmeksizin, ilgili kanunlarda belirlenmiş olan zamanaşımı süreleri içerisinde takip ve tahsil edilir."
+    },
+    {
+     "alt_konu": "Gümrük vergileri ve para cezalarının kesinleşmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre idari itirazın reddedilmesinden sonra idari yargıya başvurulmazsa gümrük vergileri ve para cezalarına ilişkin kararlar ne zaman kesinleşir?",
+     "cevap": "İtirazın reddine ilişkin kararın tebliğinden itibaren 2577 sayılı İdari Yargılama Usulü Kanununda öngörülen dava açma süresinin bitiminde kesinleşir.",
+     "dayanak": "Tahsilat Tebliği md. 13/1-b",
+     "kanit": "itirazın reddine ilişkin kararın tebliğ edildiği tarihten itibaren bu karara karşı idari yargıya başvurma için 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanununda belirtilen sürenin bitiminde"
+    },
+    {
+     "alt_konu": "Gümrük vergileri ve para cezalarının kesinleşmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre uzlaşma başvurusunda bulunulup uzlaşılması halinde gümrük vergileri ile para cezaları hangi tutarlar üzerinden kesinleşir?",
+     "cevap": "Uzlaşılan tutarlar üzerinden kesinleşir.",
+     "dayanak": "Tahsilat Tebliği md. 13/2",
+     "kanit": "uzlaşılması durumunda, gümrük vergileri ile para cezaları uzlaşılan tutarlar üzerinden kesinleşir."
+    },
+    {
+     "alt_konu": "Ödeme süresi, uzatılması ve itirazın ödeme süresine etkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre sonradan tespit edilen gümrük vergilerinin ödeme süresinin uzatılması beyanname kapsamı eşyanın kalemleri itibarıyla ayrı ayrı yapılabilir mi?",
+     "cevap": "Evet; süre uzatımı beyanname kapsamı eşyanın her bir kalemi için ayrı ayrı da yapılabilir.",
+     "dayanak": "GK md. 198/1",
+     "kanit": "Süre uzatımı beyanname kapsamı eşyanın her bir kalemi için ayrı ayrı da yapılabilir."
+    },
+    {
+     "alt_konu": "Ödeme süresi, uzatılması ve itirazın ödeme süresine etkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre tebliğ edilen gümrük vergilerine gümrük idaresi nezdinde itiraz edilmesiyle kesilen ödeme süresi hangi tarihten itibaren yeniden başlar?",
+     "cevap": "İdarenin ya da yargı merciinin kararının tebliğ edildiği tarihten itibaren yeniden başlar.",
+     "dayanak": "GK md. 198/2",
+     "kanit": "Ödeme süresi idarenin ya da yargı mercii kararının tebliğ edildiği tarihten itibaren yeniden başlar."
+    },
+    {
+     "alt_konu": "Dolaşım belgesinin karşı ülkece yanlışlıkla onaylanması",
+     "soru": "4458 sayılı Gümrük Kanununa göre tercihli tarifenin karşı ülke idaresiyle idari işbirliği çerçevesinde oluşturulduğu durumda dolaşım belgesinin karşı ülkece yanlışlıkla onaylandığı tespit edilirse, tahakkuk ettirilmeyen vergiler hangi şartla sonradan istenmez?",
+     "cevap": "Yükümlünün gümrük mevzuatının gerektirdiği yükümlülüklerin yerine getirilmesinde tüm özeni gösterdiğini ispat edebilmesi halinde, tercihli tarife nedeniyle tahakkuk ettirilmeyen vergiler sonradan istenmez.",
+     "dayanak": "GK md. 198/4",
+     "kanit": "yükümlü, gümrük mevzuatının gerektirdiği yükümlülüklerin yerine getirilmesinde tüm özeni gösterdiğini ispat edebildiği takdirde, tercihli tarife uygulanması nedeniyle tahakkuk ettirilmeyen vergiler sonradan istenmez."
+    },
+    {
+     "alt_konu": "Dolaşım belgesinin karşı ülkece yanlışlıkla onaylanması",
+     "soru": "4458 sayılı Gümrük Kanununa göre dolaşım belgesinin karşı ülkece yanlışlıkla onaylanması durumunda hangi hallerde vergiler yine de yükümlüden tahsil edilir?",
+     "cevap": "Belgenin ihracatçının sunduğu yanlış verilere dayanılarak onaylanması (onaylayan idarenin şartların yerine getirilmediğini bildiği veya bilmesi gerektiği haller hariç) ya da tercihli düzenlemenin yararlanan ülkece doğru uygulandığına dair şüphe bulunduğu yönünde Resmi Gazetede duyuru yayımlanmış olması hallerinde.",
+     "dayanak": "GK md. 198/4",
+     "kanit": "doğru olmadığı tespit edilen belgenin ihracatçı tarafından sunulan yanlış verilere dayanılarak onaylanması ... Resmi Gazetede bir duyuru yayımlanmış olması halinde vergiler yükümlüden tahsil edilir."
+    },
+    {
+     "alt_konu": "Ödemenin şekli ve kesinleşmiş vergilerin takibi",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük vergileri hangi para birimiyle ve hangi kanunda öngörülen usullere göre ödenir?",
+     "cevap": "Türk Lirası olarak ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunda öngörülen usullere göre ödenir; yetki verilen bankalar aracılığıyla da tahsil edilebilir.",
+     "dayanak": "GK md. 200",
+     "kanit": "Gümrük vergileri Türk Lirası olarak ödenir. Bu ödeme 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunda öngörülen usullere göre yapılır."
+    },
+    {
+     "alt_konu": "Ek tahakkuk ve ceza kararlarının düzenlenmesi, tebliği ve birleştirilmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre ek tahakkuka esas alacak aslının 6183 sayılı Kanunda belirtilen (tahsil zamanaşımı beklenmeksizin terkin edilebilen) tutarın altında kalması halinde ne yapılır?",
+     "cevap": "Ek tahakkuk yapılmaz ve vergi aslına bağlı olarak ceza kararı da düzenlenmez.",
+     "dayanak": "Tahsilat Tebliği md. 4/2",
+     "kanit": "Ek tahakkuka esas alacak aslının, 6183 sayılı Kanunun 106 ncı maddesinde belirtilen tutarın altında kalması halinde ek tahakkuk yapılmaz ve vergi aslına bağlı olarak ceza kararı da düzenlenmez."
+    },
+    {
+     "alt_konu": "Ek tahakkuk ve ceza kararlarının düzenlenmesi, tebliği ve birleştirilmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre ek tahakkuku yapılan gümrük vergileri hangi kanun hükümlerine göre ve kime tebliğ edilir?",
+     "cevap": "Zamanaşımı hükümleri dikkate alınarak 7201 sayılı Tebligat Kanunu hükümlerine göre, Tebliğ ekindeki kararla asıl yükümlüye tebliğ edilir.",
+     "dayanak": "Tahsilat Tebliği md. 5/1",
+     "kanit": "zamanaşımı hükümleri dikkate alınarak 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre ek-1'de yer alan kararla asıl yükümlüye tebliğ edilir."
+    },
+    {
+     "alt_konu": "Ek tahakkuk ve ceza kararlarının düzenlenmesi, tebliği ve birleştirilmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre birden fazla işleme veya beyannameye ilişkin gümrük vergileri ve para cezalarına tek tahakkuk ve tek ceza kararı hangi şartlarla düzenlenebilir?",
+     "cevap": "Konusu ve yükümlüsünün aynı olması ve aralarında maddi veya hukuki yönden bağlılık bulunması şartıyla; ilgili işlem/beyanname bilgileri ek yapılmaksızın kararın içinde belirtilir.",
+     "dayanak": "Tahsilat Tebliği md. 11/1; GK md. 232/2; GY md. 490/3",
+     "kanit": "Konusu ve yükümlüsünün aynı olması, aralarında maddi veya hukuki yönden bağlılık bulunması şartıyla; birden fazla işleme veya beyannameye ilişkin gümrük vergileri ve para cezalarına tek tahakkuk ve tek ceza kararı düzenlenebilir."
+    },
+    {
+     "alt_konu": "Müteselsil sorumlulukta tebligat ve dolaylı temsilcinin sorumluluğu",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre Gümrük Kanunu uyarınca uzlaşmanın vaki olması durumunda uzlaşma tutanağının yükümlü tarafından imzalanmasının tebliğ bakımından sonucu nedir?",
+     "cevap": "İmzalanması tebliğ hükmündedir; ayrıca tebligat yapılmaz.",
+     "dayanak": "Tahsilat Tebliği md. 5/5",
+     "kanit": "uzlaşma tutanağının yükümlü tarafından imzalanması tebliğ hükmünde olup ayrıca bir tebligat yapılmaz."
+    },
+    {
+     "alt_konu": "Müteselsil sorumlulukta tebligat ve dolaylı temsilcinin sorumluluğu",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre dolaylı temsilcinin sorumluluğunun tespitinde beyanname eki belgeler arasında çelişki bulunması hangi durumda sorumluluk hali olarak değerlendirilir?",
+     "cevap": "Gümrük müşavirinin elindeki imkânlarla bu çelişkiyi araştırmamış olması halinde.",
+     "dayanak": "Tahsilat Tebliği md. 6/1-b",
+     "kanit": "Gümrük beyannamesi eki belgeler arasında çelişki bulunması halinde gümrük müşavirinin elindeki imkânlarla bu hususu araştırmamış olması,"
+    },
+    {
+     "alt_konu": "Müteselsil sorumlulukta tebligat ve dolaylı temsilcinin sorumluluğu",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre dolaylı temsile yetkili kişilerin sorumluluğu tespit edilse bile hangi hallerde bu kişilere ayrıca tebligat yapılmaz?",
+     "cevap": "Asıl yükümlünün onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikasına sahip olması, asıl yükümlü adına alacağa yetecek miktarda teminat bulunması ya da eşyanın tesliminden önce ek tahakkukun asıl yükümlüye tebliğ edilmiş olması hallerinde.",
+     "dayanak": "Tahsilat Tebliği md. 6/3",
+     "kanit": "a) Asıl yükümlünün onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikasına sahip olması, ... hallerinde dolaylı temsile yetkili kişilere ayrıca tebligat yapılmaz."
+    },
+    {
+     "alt_konu": "Para cezası kararlarının tebliği ve iştirak",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre iştirak halinin varlığı tespit edildiğinde para cezaları ilgililere nasıl uygulanır?",
+     "cevap": "Para cezaları ilgililere ayrı ayrı uygulanır ve ayrı ayrı tebliğ edilir.",
+     "dayanak": "Tahsilat Tebliği md. 8/2",
+     "kanit": "İştirak halinin varlığı tespit edildiğinde, para cezaları ilgililere ayrı ayrı uygulanır ve tebliğ edilir."
+    },
+    {
+     "alt_konu": "Tahakkuk zamanaşımı ve davanın tahsilat takibine etkisi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tahakkuk zamanaşımı süreleri yükümlü tarafından ileri sürülmedikçe dikkate alınmaz mı?",
+     "cevap": "Hayır; tahakkuk zamanaşımı süreleri gümrük idarelerince re'sen dikkate alınır.",
+     "dayanak": "Tahsilat Tebliği md. 9/1",
+     "kanit": "Tahakkuk zamanaşımı süreleri gümrük idarelerince re'sen dikkate alınır."
+    },
+    {
+     "alt_konu": "Tahakkuk zamanaşımı ve davanın tahsilat takibine etkisi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tebliğ edilen gümrük vergilerine karşı ilk derece mahkemesinde dava açılmasının tahsilat takibine etkisi nedir?",
+     "cevap": "İlk derece mahkemesinde dava açılması tahsilat takibini durdurur; ilk derece kararına karşı istinaf veya temyize gidilmesi ise yürütmeyi durdurma kararı verilmedikçe tahsilatı durdurmaz.",
+     "dayanak": "Tahsilat Tebliği md. 9/4",
+     "kanit": "Tebliğ edilen gümrük vergilerine karşı, ilk derece mahkemesinde dava açılması tahsilât takibini durdurur. ... yürütmeyi durdurma kararı verilmediği sürece, tahsilâtı durdurmaz."
+    },
+    {
+     "alt_konu": "Para cezalarında zamanaşımı",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergileri alacağına bağlı olmayan maktu ve nispi idari para cezalarında zamanaşımı süreleri hangi kanuna göre belirlenir?",
+     "cevap": "5326 sayılı Kabahatler Kanunu hükümlerine göre belirlenir (vergiye bağlı cezalar ise ilgili vergilerin zamanaşımına tabidir).",
+     "dayanak": "Tahsilat Tebliği md. 10/2",
+     "kanit": "Gümrük vergileri alacağına bağlı olmayan maktu ve nispi idari para cezalarında zamanaşımı süreleri 5326 sayılı Kanunun 20 nci maddesi hükümleri uyarınca belirlenir."
+    },
+    {
+     "alt_konu": "Kesinleşen alacakların takibi, rızaen ödeme, taksit ve ölüm hali",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre kesinleşen ve 6183 sayılı Kanun gereğince takibi gereken alacaklara ilişkin tebligatlar hangi kanunun tebligat hükümlerine göre yapılır?",
+     "cevap": "213 sayılı Vergi Usul Kanununun tebligat hükümlerine göre yapılır (ek tahakkukun ilk tebliği ise 7201 sayılı Tebligat Kanununa göre yapılır).",
+     "dayanak": "Tahsilat Tebliği md. 14/1",
+     "kanit": "mezkur Kanunun 8 inci maddesi uyarınca 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun tebligat hükümlerine göre yapılır."
+    },
+    {
+     "alt_konu": "Kesinleşen alacakların takibi, rızaen ödeme, taksit ve ölüm hali",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre zamanaşımına uğramış gümrük vergileri ve para cezalarını yükümlü ödemek isterse ne yapılır?",
+     "cevap": "Rızaen yapılan ödemeler kabul olunur.",
+     "dayanak": "Tahsilat Tebliği md. 14/4",
+     "kanit": "Zamanaşımına uğramış gümrük vergilerini ve para cezalarını yükümlünün ödemek istemesi durumunda rızaen yapılacak ödemeler kabul olunur."
+    },
+    {
+     "alt_konu": "Kesinleşen alacakların takibi, rızaen ödeme, taksit ve ölüm hali",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük idarelerince verilen idari para cezalarının Kabahatler Kanunu uyarınca taksitle ödenmesine hangi koşullarla ve kim karar verebilir?",
+     "cevap": "Ödeme süresi içinde yapılacak yazılı başvuru üzerine, ilk taksitin peşin ödenmesi koşuluyla bir yıl içinde dört eşit taksitte ödenmesine ceza kararını veren gümrük idaresi karar verebilir.",
+     "dayanak": "Tahsilat Tebliği md. 14/5",
+     "kanit": "ilk taksitinin peşin ödenmesi koşuluyla, bir yıl içinde ve dört eşit taksit halinde ödenmesine ceza kararını veren gümrük idaresince"
+    },
+    {
+     "alt_konu": "Kesinleşen alacakların takibi, rızaen ödeme, taksit ve ölüm hali",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre yükümlünün ölümü halinde gümrük vergi borçları ile idari para cezaları bakımından nasıl işlem yapılır?",
+     "cevap": "Vergi borçları mirası reddetmemiş kanuni ve mansup mirasçılara miras hisseleri oranında geçer; idari para cezaları ise cezaların şahsiliği ilkesi gereği mirasçılardan takip edilmez.",
+     "dayanak": "Tahsilat Tebliği md. 14/6",
+     "kanit": "Yükümlülerin ölümü halinde gümrük vergi borçları, mirası reddetmemiş kanuni ve mansup mirasçılarına geçer. ... cezaların şahsiliği ilkesi uyarınca, bu cezalar mirasçılarından takip edilmez"
+    },
+    {
+     "alt_konu": "Gecikme zammı oranında faiz ve gecikme zammı hesabı",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tebligata rağmen ödeme süresi içinde ödenmeyen vergiler için gecikme zammı hesabında vade tarihi ve ödeme tarihi süreye dahil edilir mi?",
+     "cevap": "Ödeme tarihi süreye dahil edilir, vade tarihi dahil edilmez; gecikme zammı vadenin bitiminden ödeme tarihine kadar her ay için ayrı ayrı uygulanır.",
+     "dayanak": "Tahsilat Tebliği md. 15/2",
+     "kanit": "Bu hesaplamada ödeme tarihi süreye dahil edilir, vade tarihi ise süreye dahil edilmez."
+    },
+    {
+     "alt_konu": "Gecikme zammı oranında faiz ve gecikme zammı hesabı",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanır mı?",
+     "cevap": "Uygulanmaz.",
+     "dayanak": "Tahsilat Tebliği md. 15/5",
+     "kanit": "gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanmaz."
+    },
+    {
+     "alt_konu": "Takip mahalli",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre 6183 sayılı Kanuna göre takibat bakımından büyükşehir belediyesi sınırları içindeki ve illerdeki gümrük idareleri için mahal neresidir?",
+     "cevap": "Büyükşehirlerde büyükşehir belediyesi sınırı, illerde merkez ilçe sınırları, ilçelerdeki gümrük müdürlükleri için ise ilçe sınırlarıdır.",
+     "dayanak": "Tahsilat Tebliği md. 16/2",
+     "kanit": "Büyükşehir belediyesi sınırları içinde bulunan gümrük idareleri için mahal, büyükşehir belediyesi sınırı, illerde bulunan gümrük idareleri için mahal, merkez ilçe sınırları"
+    },
+    {
+     "alt_konu": "6183 sayılı Kanun çerçevesinde tecil: ret, yetki ve başvuru",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre 6183 sayılı Kanun çerçevesinde yapılan tecil ve taksitlendirme başvurusunun reddi halinde alacak hangi süre içinde ve nasıl ödenebilir?",
+     "cevap": "Ret kararının tebliğinden itibaren azami otuz gün içinde tecil faizi uygulanarak ödenebilir.",
+     "dayanak": "Tahsilat Tebliği md. 18/2",
+     "kanit": "ret kararının tebliğinden itibaren azami otuz gün içinde tecil faizi uygulanmak suretiyle ödenmesi mümkündür."
+    },
+    {
+     "alt_konu": "6183 sayılı Kanun çerçevesinde tecil: ret, yetki ve başvuru",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergileri ve para cezalarının 6183 sayılı Kanun uyarınca tecil ve taksitlendirilmesi taleplerinde tutar itibarıyla hangi makamlar yetkilidir?",
+     "cevap": "5.000.000,00 TL'ye kadar olan tutarlar için gümrük müdürlükleri, 5.000.000,00 TL ve üzerindeki tutarlar için gümrük ve dış ticaret bölge müdürlükleri yetkilidir.",
+     "dayanak": "Tahsilat Tebliği md. 19/1",
+     "kanit": "a) 5.000.000,00 Türk Lirasına kadar olan tutarlar için gümrük müdürlükleri, ... b) 5.000.000,00 Türk Lirası ve üzerindeki tutarlar için gümrük ve dış ticaret bölge müdürlükleri,"
+    },
+    {
+     "alt_konu": "6183 sayılı Kanun çerçevesinde tecil: ret, yetki ve başvuru",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre alacağın tecil ve taksitlendirilmesine yönelik başvuru hangi aşamaya kadar yapılabilir?",
+     "cevap": "Alacağın ilgilisine tebliğinden itibaren haczedilen malların paraya çevrilmesi aşamasına kadar yapılabilir.",
+     "dayanak": "Tahsilat Tebliği md. 20/1",
+     "kanit": "alacağın ilgilisine tebliğinden itibaren, haczedilen malların paraya çevrilmesi aşamasına kadar yapılabilir."
+    },
+    {
+     "alt_konu": "Çok zor durum halinin tespiti",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre borçlunun çok zor durumda olup olmadığının tespitinde kullanılan formül sonucunda bulunan oran kaç olursa çok zor durum hali kabul edilir?",
+     "cevap": "Oranın 1 ve altında olması çok zor durum hali olarak kabul edilir.",
+     "dayanak": "Tahsilat Tebliği md. 21/4",
+     "kanit": "formülü sonucu bulunacak oranın \"1\" ve altında olması borçlu açısından \"çok zor durum hali\" olarak kabul edilir."
+    },
+    {
+     "alt_konu": "Çok zor durum halinin tespiti",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre kamu kurum ve kuruluşlarının çok zor durum hali tespitlerini kim yapar?",
+     "cevap": "Genel Müdürlük (Gümrükler Genel Müdürlüğü) yapar.",
+     "dayanak": "Tahsilat Tebliği md. 21/5",
+     "kanit": "Kamu kurum ve kuruluşlarının çok zor durum hali tespitleri Genel Müdürlükçe yapılır."
+    },
+    {
+     "alt_konu": "Tecil ve taksitlendirmede teminat",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tecil ve taksitlendirme işlemlerinde gümrük idarelerince kabul edilecek teminatlar nelerdir?",
+     "cevap": "Para, bankalar ve özel finans kurumlarınca verilen süresiz teminat mektupları, hazine bonosu, devlet tahvili ile gümrük idarelerince haczedilmiş taşınır ve taşınmaz mallar.",
+     "dayanak": "Tahsilat Tebliği md. 22/1",
+     "kanit": "Tecil ve taksitlendirme işlemlerinde gümrük idarelerince kabul edilecek teminatlar şunlardır: ... b) Bankalar ve özel finans kurumları tarafından verilen süresiz teminat mektupları, ... d) Gümrük idarelerince haczedilmiş taşınır ve taşınmaz mallar."
+    },
+    {
+     "alt_konu": "Tecil süresi ve tecil faizi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre azami tecil ve taksitlendirme süresi ne kadardır?",
+     "cevap": "Otuz altı aydır; borcun daha kısa sürede ödenebileceğine kanaat getirilirse daha az süreli tecil yapılabilir.",
+     "dayanak": "Tahsilat Tebliği md. 23/4",
+     "kanit": "Azami tecil ve taksitlendirme süresi otuz altı aydır."
+    },
+    {
+     "alt_konu": "Tecil süresi ve tecil faizi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tecil faizi hesaplamalarında esas alınacak tutar hangi kalemlerin toplamıdır?",
+     "cevap": "Gümrük vergileri, gecikme zammı oranında faiz ve/veya gecikme zammı ile para cezalarının toplamıdır.",
+     "dayanak": "Tahsilat Tebliği md. 24/1",
+     "kanit": "Tecil faizi hesaplamalarında esas alınacak tutar, gümrük vergileri, gecikme zammı oranında faiz ve/veya gecikme zammı ile para cezalarının toplamıdır."
+    },
+    {
+     "alt_konu": "Tecil süresi ve tecil faizi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tecil ve taksitlendirme talebi vade tarihinden sonra yapılmışsa tecil faizi hangi süre için uygulanır?",
+     "cevap": "Tecil talep tarihinden (bu tarih dahil) ödeme tarihine kadar (bu tarih dahil) geçen süre için uygulanır; talep vadeden önce veya vadesinde yapılmışsa vade gününü takip eden tarihten itibaren uygulanır.",
+     "dayanak": "Tahsilat Tebliği md. 24/3",
+     "kanit": "vade tarihinden sonra yapılmış ise tecil talep tarihinden (bu tarih dâhil), ödeme tarihine kadar (bu tarih dâhil) geçen süre için tecil faizi uygulanır"
+    },
+    {
+     "alt_konu": "Taksitlerin ödenmemesi ve tecilin geçerli sayılması",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre aylık taksitlerin ödenmemesi halinde muaccel hale gelen borç için borçluya hangi ödeme süresi bildirilir?",
+     "cevap": "Borcun on beş gün içinde ödenmesi gerektiği, aksi halde teminatın paraya çevrileceği veya cebren tahsile devam olunacağı bildirilir.",
+     "dayanak": "Tahsilat Tebliği md. 26/1",
+     "kanit": "6183 sayılı Kanunun 56 ncı maddesi uyarınca, borcun on beş ... gün içinde ödenmesi gerektiği, aksi halde teminatın paraya çevrileceği"
+    },
+    {
+     "alt_konu": "Taksitlerin ödenmemesi ve tecilin geçerli sayılması",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tecilin ihlaline neden olan taksit son taksit ise tecilin geçerli sayılması talebi en geç ne zaman yapılmalı ve ihlal edilen taksit hangi sürede ödenmelidir?",
+     "cevap": "Talep en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapılmalı; ihlal edilen taksit ve tecil faizi, tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde ödenmelidir.",
+     "dayanak": "Tahsilat Tebliği md. 27/4",
+     "kanit": "en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapmaları ve ihlal edilen taksit tutarı ile hesaplanan tecil faizini tecilin geçerli sayıldığına ilişkin yazının tebliğ edildiği tarihten itibaren beş iş günü içinde ödemeleri gerekir."
+    },
+    {
+     "alt_konu": "Terkin",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tahsili imkânsız veya tahsil giderleri alacaktan fazla olan amme alacağı hangi tutara kadar ve kim tarafından terkin edilebilir?",
+     "cevap": "20 liraya kadar (bu tutar dahil) olan alacaklar gümrük müdürleri veya vekillerince terkin edilir; bu terkinde terkin cetveli düzenlenmez ve terkin izni alınmaz.",
+     "dayanak": "Tahsilat Tebliği md. 29/1",
+     "kanit": "tahsili imkansız veya tahsili için yapılacak giderlerin alacaktan fazla bulunduğu anlaşılan 20 liraya kadar olan amme alacağının terkin yetkisi gümrük müdürleri veya vekillerine aittir."
+    }
+   ]
+  },
+  {
+   "kaynak": "47-geri verme kaldırma.txt",
+   "konu": "Gümrük vergilerinin ve para cezalarının geri verilmesi veya kaldırılması (Geri Verme-Kaldırma)",
+   "mevzuat": "GK md. 210-217; GY md. 499-511; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 30-44",
+   "cikmis_sayisi": 9,
+   "cikmis": [
+    "2021-80: Geri verme/kaldırma hükümleri GK kapsamındaki para cezalarına uygulanır; 6183 kapsamı ifadesi yanlış.",
+    "2022-89: GK 211 kapsamı başvuru süresi üç yıl (bir yıl değil); başvuru sahipleri, Ek-78 form, tek karar, 30 gün.",
+    "2022-90: 250.000 TL'lik geri vermeye ilgili Gümrük Müdürlüğü yetkilidir (GY 500).",
+    "2022-91: Uluslararası anlaşma kapsamı geri verme başvurusu tebliğden itibaren bir yıl içinde.",
+    "2023-69: Geri verme/kaldırma hükümleri idari para cezalarına uygulanır; adli para cezalarına değil.",
+    "2023-76: Kasıtlı tahrifat veya TPÖ eşyasının kıymetini kendi beyanıyla artırma halinde talep kabul edilmez.",
+    "2024-83: Uluslararası anlaşma kapsamı başvuru vergilerin tebliğinden itibaren bir yıl içinde.",
+    "2024-84: Geri verme/kaldırma talebi otuz gün (45 değil) içinde karara bağlanır; denenmek üzere teslim edilen eşya.",
+    "2025-26: Kusurlu eşya için başvuru tebliğden itibaren bir yıl (üç yıl değil); transit/antrepo izni, ilk kullanım şartı."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Geri verme ve kaldırma tanımları; para cezalarına uygulanması",
+     "dayanak": "GK md. 210; Tahsilat Tebliği md. 34/1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-80",
+      "2023-69"
+     ],
+     "not": "Tanımlar ve hükümlerin GK kapsamındaki (idari) para cezalarına uygulanması sorulmuş."
+    },
+    {
+     "baslik": "Kanunen ödenmemesi gereken vergilerin geri verilmesi veya kaldırılması",
+     "dayanak": "GK md. 211; GY md. 502/5; Tahsilat Tebliği md. 30/1-3, 31/3, 32, 41",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-89",
+      "2023-76"
+     ],
+     "not": "Sorulan: üç yıllık başvuru süresi, kasıtlı tahrifat/TPÖ kıymet artırımı halinde talebin kabul edilmemesi. Sorulmayan: re'sen (doğrudan) geri verme, sürenin uzatılması, itiraz edilmemiş olmanın engel olmaması, beyanname yazım hataları, indirimli oranın talep edilmemesi."
+    },
+    {
+     "baslik": "Beyannamenin iptali nedeniyle geri verme",
+     "dayanak": "GK md. 212; GY md. 499; Tahsilat Tebliği md. 30/4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-76"
+     ],
+     "not": "Sorulan: iptal üzerine süresinde başvuruyla geri verme. Sorulmayan: başvurunun yapılacağı süreler."
+    },
+    {
+     "baslik": "Kusurlu veya sözleşmeye aykırı eşyada geri verme",
+     "dayanak": "GK md. 213; GY md. 501; Tahsilat Tebliği md. 30/5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-76",
+      "2024-84",
+      "2025-26"
+     ],
+     "not": "Sorulan: ilk kullanım dışında kullanılmama ve ihraç şartı, transit/antrepo izni, denenmek üzere teslim edilen eşya, bir yıllık süre. Sorulmayan: hasar gören eşya, işlem gören eşyanın statüsü, mücbir sebepte uzatma makamı, geri verilmeyecek haller, tüketilen eşya istisnası."
+    },
+    {
+     "baslik": "Uluslararası anlaşmalar çerçevesinde geri verme",
+     "dayanak": "GK md. 214; Tahsilat Tebliği md. 30/6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-91",
+      "2024-83"
+     ],
+     "not": "Sorulan: tebliğden itibaren bir yıllık başvuru süresi. Sorulmayan: hallerin Cumhurbaşkanınca belirlenmesi, mücbir sebepte süre aşımına izin veren makam."
+    },
+    {
+     "baslik": "Geri verme veya kaldırmaya tabi olmayacak tutar",
+     "dayanak": "GK md. 215",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geri verme kararının geç uygulanmasında faiz",
+     "dayanak": "GK md. 216/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hatalı geri verme veya kaldırma",
+     "dayanak": "GK md. 217",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geri verme ve kaldırmada yetkili gümrük idareleri",
+     "dayanak": "GY md. 500; Tahsilat Tebliği md. 30/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-90"
+     ],
+     "not": "Sorulan: gümrük müdürlüğü limiti içindeki tutar (250.000 TL). Sorulmayan: bölge müdürlüğü ve Bakanlık limitleri, limitlerin yıllık güncellenmesi."
+    },
+    {
+     "baslik": "Geri verme başvurusunun şekli",
+     "dayanak": "GY md. 502; Tahsilat Tebliği md. 34/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-89",
+      "2024-84"
+     ],
+     "not": "Sorulan: başvuruyu yapabilecek kişiler, Ek-78 formla elektronik başvuru, tek karar düzenlenmesi. Sorulmayan: formun düzenlenme birimi, eksikliklerin tamamlanmaması, para cezası başvurusunun yapılacağı yer."
+    },
+    {
+     "baslik": "Başvurunun incelenmesi ve karar süresi",
+     "dayanak": "GY md. 503-504; Tahsilat Tebliği md. 31/4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-89",
+      "2024-84"
+     ],
+     "not": "Sorulan: otuz günde karara bağlanma. Sorulmayan: süreye uyulamaması halinde bildirim."
+    },
+    {
+     "baslik": "Vergi dairesine bildirim",
+     "dayanak": "GY md. 505/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tarife kotası, tercihli tarife ve reddedilecek talepler",
+     "dayanak": "GY md. 507-508; Tahsilat Tebliği md. 38",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Atık-artıklar ve eşyanın bir kısmının başka işleme tabi tutulması",
+     "dayanak": "GY md. 509-510",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Para cezalarının geri verilmesi ve muhbir payları",
+     "dayanak": "GY md. 511",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-80",
+      "2023-69"
+     ],
+     "not": "Sorulan: geri verme hükümlerinin para cezalarına uygulanması. Sorulmayan: usulsüzlük cezalarında aranan belge, muhbirlere ödenen payların geri istenmesi."
+    },
+    {
+     "baslik": "KDV'nin geri verilmesi ve YGM incelemesi",
+     "dayanak": "Tahsilat Tebliği md. 31/5-6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Telafi edici verginin geri verilmesi",
+     "dayanak": "Tahsilat Tebliği md. 33",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Dolaşım belgesinin karşı ülkece yanlış onaylanmasında kaldırma",
+     "dayanak": "Tahsilat Tebliği md. 36",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "GK md. 198/4'teki esas kural 45-tebliğ dosyasında sorulmuştur; burada karar mercii ele alınmıştır."
+    },
+    {
+     "baslik": "Muaccel borçlara mahsup ve geri verilecek tutarın ödenmesi",
+     "dayanak": "Tahsilat Tebliği md. 39-40",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yargı kararlarının uygulanması ve fer'i alacaklar",
+     "dayanak": "Tahsilat Tebliği md. 42, 44",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Kanunen ödenmemesi gereken vergilerin geri verilmesi veya kaldırılması",
+     "soru": "4458 sayılı Gümrük Kanununa göre kontrol ve denetleme sonucunda geri verme veya kaldırma hallerinden birinin tespit edilmesi halinde işlem nasıl yapılır?",
+     "cevap": "Başvuru beklenmeksizin, aynı (tebliğden itibaren üç yıllık) süre içinde geri verme veya kaldırma işlemi doğrudan yapılır.",
+     "dayanak": "GK md. 211/2",
+     "kanit": "Kontrol ve denetleme sonucunda, geri verme veya kaldırma hallerinden birinin tespiti durumunda, aynı süre içinde geri verme veya kaldırma işlemi doğrudan yapılır."
+    },
+    {
+     "alt_konu": "Kanunen ödenmemesi gereken vergilerin geri verilmesi veya kaldırılması",
+     "soru": "4458 sayılı Gümrük Kanununa göre kanunen ödenmemesi gereken vergiler için öngörülen üç yıllık geri verme veya kaldırma süresi hangi hallerde uzatılabilir?",
+     "cevap": "Mücbir sebep veya beklenmeyen hallerde uzatılabilir.",
+     "dayanak": "GK md. 211/2",
+     "kanit": "Bu süre mücbir sebep veya beklenmeyen hallerde uzatılabilir."
+    },
+    {
+     "alt_konu": "Kanunen ödenmemesi gereken vergilerin geri verilmesi veya kaldırılması",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre süresi içinde itiraz edilmemiş olması, kanuni süreler içinde yapılan geri verme veya kaldırma başvurusuna engel midir?",
+     "cevap": "Hayır; süreler içinde başvurulması halinde itiraz hakkının kullanılmamış olması geri verme veya kaldırma başvurusuna engel teşkil etmez.",
+     "dayanak": "Tahsilat Tebliği md. 32/1",
+     "kanit": "süresi içerisinde itiraz başvurusunda bulunulmaması geri verme veya kaldırma başvurusunda bulunulmasına engel teşkil etmez"
+    },
+    {
+     "alt_konu": "Kanunen ödenmemesi gereken vergilerin geri verilmesi veya kaldırılması",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre beyanname ekindeki belgelere aykırı olarak beyannamede ağırlık, adet, ölçü, kıymet veya döviz cinsinin yanlış yazılması nedeniyle fazla ödenen vergiler için geri verme talebi değerlendirilir mi?",
+     "cevap": "Evet; beyanın bağlayıcılığı idarenin geri verme sorumluluğunu ortadan kaldırmadığından bu talepler kanunen ödenmemesi gereken vergilerin geri verilmesi kapsamında kabul edilerek değerlendirilir.",
+     "dayanak": "Tahsilat Tebliği md. 31/3",
+     "kanit": "beyanname üzerinde ağırlık, adet, ölçü, kıymet veya döviz cinsinin yanlış yazılması gibi nedenlerden ötürü fazla ödenen ... yönündeki talepler kabul edilerek değerlendirilir."
+    },
+    {
+     "alt_konu": "Kanunen ödenmemesi gereken vergilerin geri verilmesi veya kaldırılması",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tarımsal mali yükler dışındaki ithalat vergisi oranlarının tescilden sonra fakat vergilerin ödenmesinden veya teminata bağlanmasından önce indirilmesi halinde, beyan sahibi indirimli oranı talep etmemişse geri verme yapılabilir mi?",
+     "cevap": "Hayır; indirim talebe bağlı olup zorunlu olmadığından kanunen ödenmemesi gereken vergilerin geri verilmesine ilişkin hüküm uygulanamaz.",
+     "dayanak": "Tahsilat Tebliği md. 41/1",
+     "kanit": "indirimli oranın uygulanmasının beyan sahibi tarafından talep edilmemesi halinde, indirimin talebe bağlı olması ve zorunlu olmaması nedeniyle"
+    },
+    {
+     "alt_konu": "Beyannamenin iptali nedeniyle geri verme",
+     "soru": "4458 sayılı Gümrük Kanununa göre beyannamenin iptali üzerine ödenmiş gümrük vergilerinin geri verilmesi istemi hangi süreler içinde yapılmalıdır?",
+     "cevap": "Gümrük beyannamesinin iptal edilmesi amacıyla müracaatta bulunulması için öngörülen süreler içinde yapılmalıdır.",
+     "dayanak": "GK md. 212; GY md. 499/1",
+     "kanit": "Bu istemin, gümrük beyannamesinin iptal edilmesi amacıyla müracaatta bulunulması için öngörülen süreler içerisinde yapılması gerekir."
+    },
+    {
+     "alt_konu": "Kusurlu veya sözleşmeye aykırı eşyada geri verme",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithalatçı tarafından kabul edilmeyen kusurlu eşya kapsamına teslimden önce hasar gören eşya da girer mi?",
+     "cevap": "Evet; kusurlu eşyaya teslimden önce hasar gören eşya da dahildir.",
+     "dayanak": "GK md. 213/1",
+     "kanit": "Kusurlu eşyaya, teslimden önce hasar gören eşya da dahildir."
+    },
+    {
+     "alt_konu": "Kusurlu veya sözleşmeye aykırı eşyada geri verme",
+     "soru": "4458 sayılı Gümrük Kanununa göre kusurlu eşyaya ilişkin geri vermede ihraç yerine izin verilen imha, transit, gümrük antrepo rejimi veya serbest bölgeye konulma işlemlerinden birine tabi tutulan eşya hangi statüde değerlendirilir?",
+     "cevap": "Serbest dolaşımda olmayan eşya olarak değerlendirilir.",
+     "dayanak": "GK md. 213/2",
+     "kanit": "Söz konusu işlem veya kullanımlardan birine tabi tutulan eşya, serbest dolaşımda olmayan eşya olarak değerlendirilir."
+    },
+    {
+     "alt_konu": "Kusurlu veya sözleşmeye aykırı eşyada geri verme",
+     "soru": "4458 sayılı Gümrük Kanununa göre kusurlu veya sözleşmeye aykırı eşya için öngörülen bir yıllık başvuru süresi mücbir sebebin tespiti halinde kim tarafından uzatılır?",
+     "cevap": "Müsteşarlıkça (Bakanlıkça) uzatılır.",
+     "dayanak": "GK md. 213/4",
+     "kanit": "Mücbir sebebin tespiti halinde bu süre Müsteşarlıkça uzatılır."
+    },
+    {
+     "alt_konu": "Kusurlu veya sözleşmeye aykırı eşyada geri verme",
+     "soru": "Gümrük Yönetmeliğine göre hangi hallerde kusurlu veya sözleşmeye aykırı eşyaya ilişkin vergiler geri verilmez veya kaldırılmaz?",
+     "cevap": "Sözleşmenin, özellikle fiyat dahil şartları belirlenirken eşyanın kusurlu mahiyetinin dikkate alınması ve eşyanın kusurlu olduğu veya sözleşmeye uygun olmadığı teyit edildikten sonra ithalatçı tarafından satılması hallerinde.",
+     "dayanak": "GY md. 501/1",
+     "kanit": "a) Bir alıcı ile satıcı arasında yapılan sözleşmenin, özellikle fiyat da dahil olmak üzere şartları belirlenirken eşyanın kusurlu mahiyetinin dikkate alınması, ... teyit edildikten sonra ithalatçı tarafından satılması,"
+    },
+    {
+     "alt_konu": "Uluslararası anlaşmalar çerçevesinde geri verme",
+     "soru": "4458 sayılı Gümrük Kanununa göre Türkiye'nin taraf olduğu uluslararası anlaşmalar çerçevesinde gümrük vergilerinin geri verileceği veya kaldırılacağı halleri kim belirler?",
+     "cevap": "Cumhurbaşkanı belirler.",
+     "dayanak": "GK md. 214",
+     "kanit": "211, 212 ve 213 üncü maddelerde belirtilen haller dışında, Türkiye'nin taraf olduğu uluslararası anlaşma hükümleri çerçevesinde, Cumhurbaşkanı"
+    },
+    {
+     "alt_konu": "Uluslararası anlaşmalar çerçevesinde geri verme",
+     "soru": "4458 sayılı Gümrük Kanununa göre uluslararası anlaşmalara dayalı geri verme için öngörülen bir yıllık sürenin mücbir sebeple aşılmasına kim izin verir?",
+     "cevap": "Mücbir sebebin tespiti halinde Müsteşarlık (Bakanlık) izin verir.",
+     "dayanak": "GK md. 214",
+     "kanit": "Ancak, mücbir sebebin tespiti halinde, bu sürenin aşılmasına Müsteşarlıkça izin verilir."
+    },
+    {
+     "alt_konu": "Geri verme veya kaldırmaya tabi olmayacak tutar",
+     "soru": "4458 sayılı Gümrük Kanununa göre geri verme veya kaldırma işlemine tabi olmayacak gümrük vergileri miktarı nasıl belirlenir?",
+     "cevap": "Cumhurbaşkanı Kararı ile belirlenir.",
+     "dayanak": "GK md. 215",
+     "kanit": "Geri verme veya kaldırma işlemine tabi olmayacak gümrük vergileri miktarı Cumhurbaşkanı"
+    },
+    {
+     "alt_konu": "Geri verme kararının geç uygulanmasında faiz",
+     "soru": "4458 sayılı Gümrük Kanununa göre geri verme kararı tebliğinden itibaren hangi süre içinde idarece uygulanmazsa ilgiliye faiz ödenir ve faiz nasıl hesaplanır?",
+     "cevap": "Karar tebliğden itibaren dört ay içinde uygulanmazsa, ilgilinin talebi üzerine tebliğ tarihinden ödeme tarihine kadar geçen süre için geri verilecek tutar üzerinden kanuni faiz oranında faiz ödenir.",
+     "dayanak": "GK md. 216/2",
+     "kanit": "Geri verme kararının tebliğ edildiği tarihten itibaren dört[210] ay içerisinde idarece söz konusu kararın uygulanmaması hâlinde, ilgilinin talebi üzerine"
+    },
+    {
+     "alt_konu": "Hatalı geri verme veya kaldırma",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük vergilerinin hatalı olarak kaldırılması veya geri verilmesi halinde neler yeniden tahsil edilir?",
+     "cevap": "Başlangıçta tahakkuk eden vergiler ile kararın geç uygulanması nedeniyle ödenmiş faizler yeniden tahsil edilir.",
+     "dayanak": "GK md. 217",
+     "kanit": "başlangıçta tahakkuk eden vergiler ile 216 ncı madde uyarınca ödenmiş faizler yeniden tahsil edilir."
+    },
+    {
+     "alt_konu": "Hatalı geri verme veya kaldırma",
+     "soru": "4458 sayılı Gümrük Kanununa göre hatalı geri verme veya kaldırma nedeniyle yeniden istenen tutarlar hangi süre içinde ödenir?",
+     "cevap": "Tebliğ tarihinden itibaren on beş gün içinde ödenir; ödenmeyenler için 6183 sayılı Kanuna göre işlem yapılır.",
+     "dayanak": "GK md. 217",
+     "kanit": "Tahsil edilmeyen miktarlar tebliğ tarihinden itibaren onbeş gün[212] içinde ödenir."
+    },
+    {
+     "alt_konu": "Geri verme ve kaldırmada yetkili gümrük idareleri",
+     "soru": "Gümrük Yönetmeliğine göre geri verme veya kaldırma işlemlerinde gümrük ve dış ticaret bölge müdürlükleri hangi tutara kadar yetkilidir ve bu tutarı aşan işlemlerde kim yetkilidir?",
+     "cevap": "47.397.000 TL'ye kadar olan işlemlerde gümrük ve dış ticaret bölge müdürlükleri, bu tutarın üstündekilerde Bakanlık yetkilidir (4.730.000 TL'ye kadar olanlarda gümrük müdürlükleri).",
+     "dayanak": "GY md. 500/1",
+     "kanit": "b) 47.397.000. TL'ye kadar olan geri verme veya kaldırma işlemlerini yapmaya gümrük ve dış ticaret bölge müdürlükleri, ... c) 47.397.000.TL'nin üstündeki geri verme veya kaldırma işlemlerini yapmaya ise Bakanlık,"
+    },
+    {
+     "alt_konu": "Geri verme ve kaldırmada yetkili gümrük idareleri",
+     "soru": "Gümrük Yönetmeliğine göre geri verme ve kaldırma yetki limitleri her yıl nasıl güncellenir?",
+     "cevap": "Bir önceki yıla ilişkin olarak Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında artırılır; bu hesaplamada 1.000 TL'ye kadar olan tutarlar dikkate alınmaz.",
+     "dayanak": "GY md. 500/2",
+     "kanit": "her yıl, bir önceki yıla ilişkin olarak 213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında arttırılır ve bu hesaplamada 1.000 TL'ye kadar olan tutarlar dikkate alınmaz."
+    },
+    {
+     "alt_konu": "Geri verme başvurusunun şekli",
+     "soru": "Gümrük Yönetmeliğine göre bir beyanname ile bu beyannameye bağlı ceza kararının geri verilmesi veya kaldırılması için kaç başvuru formu düzenlenir?",
+     "cevap": "Form esas olarak her beyanname, ek tahakkuk ve ceza kararı için ayrı düzenlenir; ancak bir beyanname ve ona bağlı ceza kararı (ya da bir ek tahakkuk ve ona bağlı ceza kararı) için tek bir başvuru formu düzenlenir.",
+     "dayanak": "GY md. 502/3",
+     "kanit": "Ancak, bir beyanname ve bu beyannameye bağlı ceza kararı ile bir ek tahakkuk ve buna bağlı ceza kararı için tek bir başvuru formu düzenlenir."
+    },
+    {
+     "alt_konu": "Geri verme başvurusunun şekli",
+     "soru": "Gümrük Yönetmeliğine göre geri verme başvurusundaki eksik bilgi ve belgeler için gümrük idaresince belirlenen süreye uyulmaması halinde ne olur?",
+     "cevap": "Başvuru geri çekilmiş sayılır ve başvuru sahibi derhal haberdar edilir; mücbir sebep ve beklenmeyen hallerde süresi içinde kanıtlayıcı belgeyle başvurulursa ek süre verilir.",
+     "dayanak": "GY md. 502/4",
+     "kanit": "Bu süreye uyulmaması halinde başvuru geri çekilmiş sayılarak başvuru sahibi derhal bu durumdan haberdar edilir."
+    },
+    {
+     "alt_konu": "Geri verme başvurusunun şekli",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre para cezalarının geri verilmesi veya kaldırılması talebi hangi süre içinde ve nereye yapılır?",
+     "cevap": "Gümrük vergilerinin geri verilmesine ilişkin kanuni süreler içinde, elektronik başvuru formu ile para cezasını veren gümrük müdürlüğüne yapılır.",
+     "dayanak": "Tahsilat Tebliği md. 34/2",
+     "kanit": "Para cezalarının geri verme veya kaldırma talepleri, Gümrük Kanununda gümrük vergilerinin geri verilmesi veya kaldırılmasına ilişkin süreler içerisinde ... para cezasını veren gümrük müdürlüğüne yapılır."
+    },
+    {
+     "alt_konu": "Başvurunun incelenmesi ve karar süresi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre geri verme başvurusu otuz günlük süre içinde sonuçlandırılamayacaksa ne yapılır?",
+     "cevap": "Süre dolmadan önce, süre aşımını gerektiren gerekçeler ile karar için gerekli görülen ek süre belirtilerek yükümlüye bildirimde bulunulur.",
+     "dayanak": "Tahsilat Tebliği md. 31/4",
+     "kanit": "sürenin dolmasından önce, süre aşımını gerekli kılan gerekçeler ile talep hakkında karar vermek için gerekli görülen ek süreyi de belirterek yükümlüye bildirimde bulunulması gerekir."
+    },
+    {
+     "alt_konu": "Vergi dairesine bildirim",
+     "soru": "Gümrük Yönetmeliğine göre nakden veya mahsuben geri verilmesine karar verilen gümrük vergileri neden ve nereye bildirilir?",
+     "cevap": "Gümrük vergileri yükümlülerin dahili vergiler açısından gider kalemi olduğundan, yükümlünün bağlı bulunduğu vergi dairesine bildirilir.",
+     "dayanak": "GY md. 505/3",
+     "kanit": "nakden veya mahsup suretiyle geri verilmesine karar verilen gümrük vergileri, yükümlünün bağlı bulunduğu vergi dairesine bildirilir."
+    },
+    {
+     "alt_konu": "Tarife kotası, tercihli tarife ve reddedilecek talepler",
+     "soru": "Gümrük Yönetmeliğine göre tarife kotası çerçevesinde indirimli veya sıfır vergi oranına tabi eşyaya ilişkin geri verme veya kaldırma talebi hangi şartla kabul edilir?",
+     "cevap": "Gerekli belgelerle başvurulması ve kota sınırlarına ulaşılmamış olması halinde kabul edilir (diğer tercihli düzenlemelerde normal vergi oranının yeniden belirlenmemiş olması aranır).",
+     "dayanak": "GY md. 507/1",
+     "kanit": "a) Bir tarife kotası durumunda, kota sınırlarına ulaşılmamış olması,"
+    },
+    {
+     "alt_konu": "Tarife kotası, tercihli tarife ve reddedilecek talepler",
+     "soru": "Gümrük Yönetmeliğine göre kota şartları yerine getirilmemiş olsa dahi indirimli vergi oranının uygulanmaması hangi durumda geri verme hakkı doğurur?",
+     "cevap": "İndirimli oranın uygulanmaması gümrük idarelerinin yanlışlığından kaynaklanıyorsa ve serbest dolaşıma giriş beyannamesi tüm ayrıntıları içerip gerekli tüm belgeler eklenmişse geri verme veya kaldırmaya hak tanınır.",
+     "dayanak": "GY md. 507/2",
+     "kanit": "indirimli vergi oranının eşyaya uygulanmaması gümrük idareleri tarafından yapılan bir yanlışlıktan kaynaklanıyorsa"
+    },
+    {
+     "alt_konu": "Tarife kotası, tercihli tarife ve reddedilecek talepler",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre kıymet kriterli gözetim uygulamalarında yükümlünün kendi isteğiyle eşik kıymet üzerinden beyanda bulunması sonrasında yapılan geri verme talebi hakkında ne karar verilir?",
+     "cevap": "Talep reddedilir.",
+     "dayanak": "Tahsilat Tebliği md. 38/1-c",
+     "kanit": "Kıymet kriterli gözetim uygulamalarında, yükümlünün kendi isteğiyle ilgili gözetim tebliğinde belirlenen eşik kıymet üzerinden beyan yapılması, hallerinde reddedilir."
+    },
+    {
+     "alt_konu": "Atık-artıklar ve eşyanın bir kısmının başka işleme tabi tutulması",
+     "soru": "Gümrük Yönetmeliğine göre gümrük idaresinin izni ve denetimi altında imha edilen eşyadan ortaya çıkan atık ve artıklar geri verme veya kaldırma kararından sonra hangi statüde kabul edilir?",
+     "cevap": "Serbest dolaşımda olmayan eşya olarak kabul edilir.",
+     "dayanak": "GY md. 509/1",
+     "kanit": "atık ve artıklar geri verme veya kaldırma kararı alındıktan sonra, serbest dolaşımda olmayan eşya olarak kabul edilir."
+    },
+    {
+     "alt_konu": "Atık-artıklar ve eşyanın bir kısmının başka işleme tabi tutulması",
+     "soru": "Gümrük Yönetmeliğine göre geri verme talebine konu eşyanın bir kısmı ihraç edilir veya gümrükçe izin verilen başka bir işleme konu edilirse geri verilecek tutar nasıl hesaplanır?",
+     "cevap": "Eşyanın tamamına uygulanan ithalat vergileri ile eşyanın geri kalan kısmına uygulanması gereken ithalat vergileri arasındaki fark kadardır.",
+     "dayanak": "GY md. 510/1",
+     "kanit": "geri verilmesi veya kaldırılması gereken tutar, eşyanın tamamına uygulanan ithalat vergileri tutarı ile eşyanın geri kalan kısmına uygulanması gereken ithalat vergileri tutarı arasındaki fark kadardır."
+    },
+    {
+     "alt_konu": "Para cezalarının geri verilmesi ve muhbir payları",
+     "soru": "Gümrük Yönetmeliğine göre usulsüzlüklere ilişkin para cezalarının geri verilmesi veya kaldırılması için ne gerekir?",
+     "cevap": "Ceza kararlarının kanunen düzenlenmemesi gerektiği halde düzenlendiğini veya cezaların kanunen ödenmemesi gerektiği halde ödendiğini tevsik eden belgelerin ibrazı gerekir (vergi kaybı cezalarında ise vergilere ilişkin hükümler uygulanır).",
+     "dayanak": "GY md. 511/1-2",
+     "kanit": "Usulsüzlüklere ilişkin para cezalarının geri verilmesi ve kaldırılmasında, bu cezalara ilişkin kararların kanunen düzenlenmemesi gerektiği halde düzenlendiğini"
+    },
+    {
+     "alt_konu": "Para cezalarının geri verilmesi ve muhbir payları",
+     "soru": "Gümrük Yönetmeliğine göre muhbirlere dağıtılan para cezalarından geri verilmesine karar verilenler muhbirden hangi süre içinde geri istenir?",
+     "cevap": "Kararın verildiği tarihten itibaren bir ay içinde geri istenir.",
+     "dayanak": "GY md. 511/3",
+     "kanit": "muhbirlere dağıtılan para cezalarından geri verilmesine karar verilenler kararın verildiği tarihten itibaren bir ay içerisinde geri istenir."
+    },
+    {
+     "alt_konu": "KDV'nin geri verilmesi ve YGM incelemesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre indirim hakkına sahip yükümlüden fazla veya yersiz tahsil edilen KDV için gümrük idaresi nasıl işlem yapar?",
+     "cevap": "Fazla veya yersiz tahsil edilen tutarı, başvuru formu ile geri verme kararının onaylı örneklerinin eklendiği bir yazıyla yükümlünün vergi dairesine doğrudan bildirir.",
+     "dayanak": "Tahsilat Tebliği md. 31/5-b",
+     "kanit": "gümrük idaresi fazla veya yersiz tahsil ettiği vergi tutarını, indirim hakkına sahip yükümlünün vergi dairesine doğrudan göndereceği"
+    },
+    {
+     "alt_konu": "Telafi edici verginin geri verilmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre dahilde işleme rejimi kapsamındaki ihracat beyannamesinin iptali üzerine telafi edici verginin geri verilmesi hangi süre içinde talep edilmelidir?",
+     "cevap": "Gümrük Yönetmeliğinde beyanname iptali için belirlenen süre içinde talep edilmelidir.",
+     "dayanak": "Tahsilat Tebliği md. 33/1",
+     "kanit": "Gümrük Yönetmeliğinin 417 nci maddesindeki beyanname iptali için belirlenen süre içerisinde talepte bulunulması gerekir."
+    },
+    {
+     "alt_konu": "Telafi edici verginin geri verilmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre dahilde işleme rejimi kapsamındaki ihracatta kur veya vergi oranının yanlış hesaplanması gibi nedenlerle fazla alınan telafi edici vergi hangi süre içinde talep edilirse geri verilir?",
+     "cevap": "Kanunen ödenmemesi gereken vergilerin geri verilmesi için öngörülen süre içinde (tebliğden itibaren üç yıl) talepte bulunulması halinde geri verilir.",
+     "dayanak": "Tahsilat Tebliği md. 33/3",
+     "kanit": "fazla alındığı anlaşılan telafi edici vergi, Gümrük Kanununun 211 inci maddesi ikinci fıkrasında belirtilen süre içerisinde talepte bulunulması halinde geri verilir."
+    },
+    {
+     "alt_konu": "Telafi edici verginin geri verilmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre A.TR veya menşe ispat belgelerinin usulüne uygun düzenlenmemesi nedeniyle telafi edici verginin geri verilmesi için süre şartı yanında ne gerekir?",
+     "cevap": "Dolaşım belgelerinin asıllarının ilgili gümrük idaresine iade edilmiş olması veya ithalatta kullanılmadığını belirten, ithalatçı ülke gümrük idaresinden temin edilen resmi yazının ibrazı gerekir.",
+     "dayanak": "Tahsilat Tebliği md. 33/5",
+     "kanit": "bahse konu dolaşım belgelerinin asıllarının ilgili gümrük idaresine iade edilmiş olması veya ithalat sırasında kullanılmadığını belirten ithalatçı ülke gümrük idaresinden temin edilecek resmi bir yazının ibrazı gerekir."
+    },
+    {
+     "alt_konu": "Dolaşım belgesinin karşı ülkece yanlış onaylanmasında kaldırma",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre dolaşım belgesinin karşı ülke idaresince yanlışlıkla onaylanması durumunda yükümlünün gerekli özeni gösterdiğine ve ihmal veya kusurunun bulunmadığına kim karar verir?",
+     "cevap": "İlgili gümrük idaresi karar verir; ayrıca sehven onayın, ihracatçının yanlış bilgilendirmesi hariç, karşı ülke gümrük idaresinin hatasından kaynaklandığının belirlenmesi gerekir.",
+     "dayanak": "Tahsilat Tebliği md. 36/2",
+     "kanit": "herhangi bir ihmal veya kusurunun bulunmadığına ilgili gümrük idaresi tarafından karar verilmesi gerekir."
+    },
+    {
+     "alt_konu": "Muaccel borçlara mahsup ve geri verilecek tutarın ödenmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük idaresince geri verme yapılabilmesi için yükümlünün borç durumu bakımından hangi şartı taşıması gerekir?",
+     "cevap": "6183 sayılı Kanun kapsamında gümrük idarelerine muaccel hale gelmiş borcunun bulunmaması gerekir.",
+     "dayanak": "Tahsilat Tebliği md. 39/2",
+     "kanit": "Gümrük idaresince geri verme yapılabilmesi için, yükümlünün 6183 sayılı Kanun kapsamında gümrük idarelerine muaccel hale gelmiş borcunun bulunmaması gerekir."
+    },
+    {
+     "alt_konu": "Muaccel borçlara mahsup ve geri verilecek tutarın ödenmesi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre geri verilecek amme alacağı yükümlünün muaccel borçlarına hangi sırayla mahsup edilir?",
+     "cevap": "Önce Bakanlığa (Ticaret Bakanlığı) bağlı tahsil dairelerine olan muaccel borçlara, kalan tutar varsa Maliye Bakanlığına bağlı tahsil dairelerine olan muaccel borçlara mahsup edilir.",
+     "dayanak": "Tahsilat Tebliği md. 39/3",
+     "kanit": "gümrük idaresince öncelikle yükümlünün Bakanlığa bağlı tahsil dairelerine olan muaccel borçlarına mahsup yapılır, mahsup sonrası kalan bir tutar bulunması halinde ise bu tutar, Maliye Bakanlığına bağlı tahsil dairelerine olan muaccel borçlarına mahsup edilir."
+    },
+    {
+     "alt_konu": "Yargı kararlarının uygulanması ve fer'i alacaklar",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük idaresi aleyhine verilen ve geri vermeyi gerektiren idari yargı kararları hangi sürede ve nasıl uygulanır?",
+     "cevap": "Kararın idareye tebliğinden itibaren otuz gün içinde; başvuru formu beklenmeksizin ve yetki limitleri dikkate alınmaksızın, mahkeme kararı gerekçe gösterilerek düzenlenen bir kararla sonuçlandırılır.",
+     "dayanak": "Tahsilat Tebliği md. 42/1",
+     "kanit": "form ile müracaat edilmesi beklenilmeksizin ve Gümrük Yönetmeliğinin 500 üncü maddesinde belirtilen limitler dikkate alınmaksızın, ilgili mahkeme kararı gerekçe gösterilerek düzenlenecek bir karar ile otuz gün içerisinde"
+    },
+    {
+     "alt_konu": "Yargı kararlarının uygulanması ve fer'i alacaklar",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tahsil edilen asli amme alacağının geri verilmesine karar verilirken buna bağlı fer'i alacaklar hakkında ne yapılır?",
+     "cevap": "Asli alacağa bağlı olarak tahsil edilmiş fer'iler de geri verilir.",
+     "dayanak": "Tahsilat Tebliği md. 44/1",
+     "kanit": "Tahsil edilen asli amme alacağının geri verilmesine karar verilirken buna bağlı olarak tahsil edilmiş olan fer'ilerinin de geri verilmesi gerekmektedir."
+    }
+   ]
+  },
+  {
+   "kaynak": "48-cezalar.txt",
+   "konu": "Gümrük Kanunu kapsamındaki idari para cezaları: vergi kaybına neden olan işlemler ve usulsüzlük cezaları (Cezalar)",
+   "mevzuat": "GK md. 231-241; GY md. 579-583",
+   "cikmis_sayisi": 24,
+   "cikmis": [
+    "2022-36: İzne tabi eşya izin alınmış gibi beyan edilirse gümrüklenmiş değerin iki katı İPC; iade/transit/terk seçenekleri (235/1-c, 235/4-b).",
+    "2022-42: İthali yasak eşyada fark vergilerin yanı sıra gümrüklenmiş değerin dört katı İPC (235/1-a).",
+    "2022-65: 241/1 usulsüzlük cezası yıllık yeniden değerlemeyle güncellenir; 2022 tutarı 235 TL.",
+    "2022-69: Antrepodaki eşyanın izinsiz elleçlemeye tabi tutulması dört kat usulsüzlük cezası (241/4-f).",
+    "2022-70: Antrepo beyanında belirgin farklı ve izne tabi eşyada gümrüklenmiş değerin iki katı İPC (236/5-b).",
+    "2022-74: TIR güzergâh ihlalinde sekiz kat usulsüzlük cezası (241/6).",
+    "2023-21: Vergi kaybına neden olan işlemler bölümü dışındaki para cezaları usulsüzlük cezasıdır.",
+    "2023-29: Geçerli temsil yetkisi olmadan iş takibi dört kat usulsüzlük cezası (241/4-a).",
+    "2023-33: Tarife unsurunda aykırılık ve %5'i aşan vergi farkında farkın üç katı ceza (234/1-a).",
+    "2023-43: İlişkinin beyan edilmemesi (vergi kaybı yok) iki kat usulsüzlük cezası (241/3-b).",
+    "2023-60: Muaf eşyayı beyansız çıkarmaya teşebbüste FOB değerinin onda biri ceza (239/1).",
+    "2024-26: İlişkinin beyan edilmemesi iki kat; 2024 tutarı 828 TL, ceza 1.656 TL.",
+    "2024-32: Geçici ithalat eşyasının bilgi verilmeden süresinde çıkarıldığının belgelenmesi iki kat (241/3-m).",
+    "2024-48: İhraç eşyasında miktar/cinste %10'dan fazla fark iki kat (241/3-j).",
+    "2024-52: İhracı genel düzenleyici işlemle yasak eşyanın ihracı gümrüklenmiş değerin iki katı İPC (235/2-a).",
+    "2024-67: Antrepo sayımında fazla eşya çıkması kaçakçılık değil GK 236 kapsamında idari yaptırımdır.",
+    "2024-82: Vergi alacağına bağlı İPC zamanaşımı vergilerin zamanaşımına tabidir (üç yıl).",
+    "2025-31: Karara dayanak belge ve bilgilerin yanlış verilmesi iki kat usulsüzlük cezası (241/3-a).",
+    "2025-32: Genel yönetim kapsamındaki kamu idaresinde 234 cezası uygulanmaz, 241/1 cezası uygulanır.",
+    "2025-43: İthali yasak eşya talep halinde yasağın bildiriminden itibaren otuz gün içinde mahrecine iade veya transit edilir.",
+    "2025-95: Geçici ithalat rejimi ihlalinde gümrüklenmiş değerin iki katı İPC (238/1-a).",
+    "2021-64 (ilişkili; 37-geri gelen eşya): Geçici ihraç eşyasında süre aşımı 241/3-ı iki kat usulsüzlük cezası.",
+    "2024-71 (ilişkili; 37-geri gelen eşya): Üç yıllık süre aşımında 241/3-ı usulsüzlük cezası.",
+    "2023-30 (ilişkili; 2-TEMSİL): Stajyer/GMY bildirimlerinin süresinde yapılmaması 241/1 tutarında usulsüzlük cezası."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Genel hükümler: zamanaşımı, kaim değer ve yanlış izahat",
+     "dayanak": "GK md. 231",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-82"
+     ],
+     "not": "Sorulan: vergiye bağlı İPC'nin vergilerin zamanaşımına tabi olması. Sorulmayan: kaim değer, yanlış izahat halinde ceza ve faiz uygulanmaması."
+    },
+    {
+     "baslik": "İdari yaptırım kararını vermeye yetkili makam ve karar usulü",
+     "dayanak": "GK md. 232/3; GY md. 580",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Vergiler ile birlikte tek kararla tebliğ ve tek ceza kararı şartları 45-tebliğ dosyasında işlenmiştir."
+    },
+    {
+     "baslik": "Muhbir ikramiyesi",
+     "dayanak": "GK md. 233; GY md. 581",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tarife, kıymet ve miktar farklılıklarında vergi kaybı cezası",
+     "dayanak": "GK md. 234; GY md. 582",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-33",
+      "2025-32"
+     ],
+     "not": "Sorulan: tarife unsurunda %5'i aşan farkta üç kat ceza; genel yönetim kapsamındaki kamu idarelerinde 241/1 uygulanması. Sorulmayan: kıymet noksanlığı, %5'i geçmeyen fark ve maddi hata, DİR/GKAİ/tam muafiyetli GİR, kendiliğinden bildirim, alt sınır, GY 582 esasları."
+    },
+    {
+     "baslik": "İthali yasak veya izne tabi eşyada yaptırımlar",
+     "dayanak": "GK md. 235/1, 235/4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-36",
+      "2022-42",
+      "2025-43"
+     ],
+     "not": "Sorulan: yasak eşyada dört kat, izne tabi eşyada iki kat ve terk/iade/transit seçenekleri, otuz günlük iade süresi. Sorulmayan: değersiz/atık eşyada maktu cezalar, sonradan izin alınması halinde uygulanacak ceza."
+    },
+    {
+     "baslik": "İhracı yasak veya izne tabi eşyada yaptırımlar",
+     "dayanak": "GK md. 235/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-52"
+     ],
+     "not": "Sorulan: ihracı yasak eşyada gümrüklenmiş değerin iki katı. Sorulmayan: ihracı izne tabi eşyada uygulanan ceza."
+    },
+    {
+     "baslik": "Yolcu eşyasında beyana aykırılık",
+     "dayanak": "GK md. 235/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Transit rejiminde eksik ve fazla eşya",
+     "dayanak": "GK md. 235/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Belirgin farklı cinste eşya için öngörülen yaptırımlar antrepo için 2022-70'te sorulduğundan transitte eksik ve fazla eşya ele alınmıştır."
+    },
+    {
+     "baslik": "Antrepo ve izin verilen yerlerde eksik-fazla eşya; gümrüksüz satış",
+     "dayanak": "GK md. 236",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-70",
+      "2024-67"
+     ],
+     "not": "Sorulan: antrepo beyanında belirgin farklı ve izne tabi eşyada gümrüklenmiş değerin iki katı; sayım fazlasının kaçakçılık değil idari yaptırım olması. Sorulmayan: izinsiz çıkarma/noksanlık cezası, fazla eşyada ceza tutarı, gümrüksüz satış ihlali."
+    },
+    {
+     "baslik": "Özet beyana göre eksik ve fazla kaplar",
+     "dayanak": "GK md. 237; GY md. 583",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Rejim hükümlerinin ihlali (DİR, GKAİ, geçici ithalat)",
+     "dayanak": "GK md. 238",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-95"
+     ],
+     "not": "Sorulan: DİR/GKAİ/geçici ithalat ihlalinde gümrüklenmiş değerin iki katı. Sorulmayan: özel kullanım taşıtları, gözetimden çıkarılmamış eşya ve süresinde işlem görmeyen eşya için ceza, altmış günlük ek ceza, alt sınır."
+    },
+    {
+     "baslik": "Muaf eşyanın kaçak giriş-çıkışı ve vergili ihraç eşyasının işlemsiz çıkarılması",
+     "dayanak": "GK md. 239",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-60"
+     ],
+     "not": "Sorulan: muaf eşyada CIF/FOB değerinin onda biri. Sorulmayan: vergiye tabi ihraç eşyasının işlemsiz çıkarılması."
+    },
+    {
+     "baslik": "Usulsüzlük cezasının temel tutarı ve niteliği",
+     "dayanak": "GK md. 241/1-2",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-65",
+      "2023-21",
+      "2023-30",
+      "2024-26",
+      "2025-32"
+     ],
+     "not": "Temel usulsüzlük cezası tutarı, yıllık güncellenmesi ve usulsüzlük cezası kavramı sorulmuştur."
+    },
+    {
+     "baslik": "İki kat usulsüzlük cezası gerektiren haller ve süre aşımlarında kademeli cezalar",
+     "dayanak": "GK md. 241/3; 241/4-d, g, h; 241/5; 241/6-c",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-64",
+      "2023-43",
+      "2024-26",
+      "2024-32",
+      "2024-48",
+      "2024-71",
+      "2025-31"
+     ],
+     "not": "Sorulan: (a) yanlış belge/bilgi, (b) ilişkinin beyan edilmemesi, (ı) geçici ihracatta süre aşımı, (j) ihracatta %10'u aşan fark, (m) bilgi verilmeden süresinde çıkış. Sorulmayan: özet beyanın süresinde verilmemesi, transit süre aşımı kademeleri, antrepo kayıtları, DİR/GİR süre aşımı kademeleri, serbest bölge kuralları."
+    },
+    {
+     "baslik": "Dört kat usulsüzlük cezası gerektiren haller",
+     "dayanak": "GK md. 241/4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-69",
+      "2023-29"
+     ],
+     "not": "Sorulan: (a) temsil yetkisi olmadan iş takibi, (f) antrepoda izinsiz elleçleme. Sorulmayan: özet beyanda cins/kap uyumsuzluğu, tehlikeli eşyanın genel amaçlı yerde depolanması vb."
+    },
+    {
+     "baslik": "Sekiz kat usulsüzlük cezası gerektiren haller",
+     "dayanak": "GK md. 241/6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-74"
+     ],
+     "not": "Sorulan: (b) önceden belirlenmiş yollar dışında seyretme. Sorulmayan: bilgi-belge ibraz etmeme, yabancı plakalı taşıtsız çıkış vb."
+    },
+    {
+     "baslik": "Azami bedellere uyulmaması",
+     "dayanak": "GK md. 241/7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Fiilin aynı zamanda ceza kanunları kapsamına girmesi",
+     "dayanak": "GY md. 579",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yanlış izahat talebinin usulü",
+     "dayanak": "GY md. 580/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Genel hükümler: zamanaşımı, kaim değer ve yanlış izahat",
+     "soru": "4458 sayılı Gümrük Kanununa göre mülkiyetinin kamuya geçirilmesine karar verilen eşyanın bulunamaması halinde ne karar verilir?",
+     "cevap": "Kaim değer olarak eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.",
+     "dayanak": "GK md. 231/4",
+     "kanit": "Mülkiyetinin kamuya geçirilmesine karar verilen eşyanın bulunamaması hâlinde kaim değer olarak eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir."
+    },
+    {
+     "alt_konu": "Genel hükümler: zamanaşımı, kaim değer ve yanlış izahat",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idaresinin yükümlüye yazı ile yanlış izahat vermiş olması halinde hangi yaptırımlar uygulanmaz?",
+     "cevap": "İdari para cezası ve faiz uygulanmaz.",
+     "dayanak": "GK md. 231/5; GY md. 580/A-1",
+     "kanit": "Gümrük idaresi tarafından yükümlüye yazı ile yanlış izahat verilmiş olması hâlinde bu Kısım hükümlerine göre idari para cezası ve faiz uygulanmaz."
+    },
+    {
+     "alt_konu": "İdari yaptırım kararını vermeye yetkili makam ve karar usulü",
+     "soru": "4458 sayılı Gümrük Kanununa göre Kanun uyarınca idari yaptırım kararlarını kim verir?",
+     "cevap": "Gümrük idarelerinin amirleri veya yardımcıları verir.",
+     "dayanak": "GK md. 232/3; GY md. 580/1",
+     "kanit": "Bu Kanun uyarınca idari yaptırım kararları gümrük idarelerinin amirleri veya yardımcıları tarafından verilir."
+    },
+    {
+     "alt_konu": "Muhbir ikramiyesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre tahsil edilen idari para cezalarının yüzde kaçı hangi şartla muhbirlere ödenir?",
+     "cevap": "Yüzde on beşi; muayene ve tahlilden önce cezayı gerektiren durumun ortaya çıkarılmasını sağlayan muhbirlere Bakanlık bütçesinden ödenir.",
+     "dayanak": "GK md. 233",
+     "kanit": "Bu Kanuna göre tahsil edilen idari para cezalarının yüzde onbeşi nispetinde bir tutar, varsa muayene ve tahlilden önce cezayı gerektiren durumun ortaya çıkarılmasını sağlayacak muhbirlere"
+    },
+    {
+     "alt_konu": "Tarife, kıymet ve miktar farklılıklarında vergi kaybı cezası",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest dolaşıma giriş rejimine tabi eşyanın beyan edilen kıymetinin noksan bulunması halinde ithalat vergileri dışında ne kadar para cezası alınır?",
+     "cevap": "Noksanlığa ait ithalat vergilerinden başka vergi farkının üç katı para cezası alınır.",
+     "dayanak": "GK md. 234/1-b",
+     "kanit": "beyan edilen kıymeti, 23 ila 31 inci maddelerde yer alan hükümler çerçevesinde belirlenen kıymete göre noksan bulunduğu takdirde ... başka vergi farkının üç katı para cezası alınır."
+    },
+    {
+     "alt_konu": "Tarife, kıymet ve miktar farklılıklarında vergi kaybı cezası",
+     "soru": "4458 sayılı Gümrük Kanununa göre satış birimine göre miktar itibarıyla %5'i geçmeyen bir fark ile maddi hesap hatasından doğan noksan kıymet beyanlarında ne kadar para cezası alınır?",
+     "cevap": "Bu farklara ait ithalat vergilerinden başka vergi farkının yarısı tutarında para cezası alınır.",
+     "dayanak": "GK md. 234/1-c",
+     "kanit": "Satış birimine göre miktar itibarıyla % 5'i geçmeyen bir fark ile maddi hesap hatasından doğan noksan kıymet beyanlarında ... başka vergi farkının yarısı tutarında para cezası alınır."
+    },
+    {
+     "alt_konu": "Tarife, kıymet ve miktar farklılıklarında vergi kaybı cezası",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme, gümrük kontrolü altında işleme ve tam muafiyet suretiyle geçici ithalat rejimlerine tabi eşyada tarife, ölçü veya kıymet farklılıklarının tespiti halinde ne kadar idari para cezası verilir?",
+     "cevap": "Vergi farkının yarısı tutarında idari para cezası verilir.",
+     "dayanak": "GK md. 234/2",
+     "kanit": "birinci fıkrada belirtilen farklılıkların tespiti durumunda vergi farkının yarısı tutarında idari para cezası verilir."
+    },
+    {
+     "alt_konu": "Tarife, kıymet ve miktar farklılıklarında vergi kaybı cezası",
+     "soru": "4458 sayılı Gümrük Kanununa göre vergi kaybına neden olan tarife, ölçü veya kıymet aykırılıklarının gümrük idaresince tespitinden önce beyan sahibince bildirilmesi halinde cezalar hangi oranda uygulanır?",
+     "cevap": "Yüzde on oranında uygulanır.",
+     "dayanak": "GK md. 234/3",
+     "kanit": "Yukarıda belirtilen aykırılıkların gümrük idaresince tespit edilmesinden önce beyan sahibince bildirilmesi durumunda söz konusu cezalar yüzde on"
+    },
+    {
+     "alt_konu": "Tarife, kıymet ve miktar farklılıklarında vergi kaybı cezası",
+     "soru": "4458 sayılı Gümrük Kanununa göre tarife, ölçü ve kıymet farklılıkları nedeniyle verilen vergi kaybı cezalarının alt sınırı nedir?",
+     "cevap": "Bu cezalar temel usulsüzlük cezası (bir kat) miktarından az olamaz.",
+     "dayanak": "GK md. 234/6",
+     "kanit": "Bir ila üçüncü fıkralara göre verilen cezalar 241 inci maddenin birinci fıkrasında belirtilen miktardan az olamaz."
+    },
+    {
+     "alt_konu": "Tarife, kıymet ve miktar farklılıklarında vergi kaybı cezası",
+     "soru": "Gümrük Yönetmeliğine göre vergi kaybı cezasının uygulanmasında eşyanın tarife istatistik pozisyonu konusunda yeterli bilgi bulunmazsa hangi vergi oranı esas alınır?",
+     "cevap": "Eşyanın girdiği tarife pozisyonundaki en düşük vergi oranı esas alınır.",
+     "dayanak": "GY md. 582/1",
+     "kanit": "gümrük tarife istatistik pozisyonu konusunda yeterli bilgi bulunmadığı takdirde eşyanın girdiği tarife pozisyonundaki en düşük vergi oranı esas alınır."
+    },
+    {
+     "alt_konu": "İthali yasak veya izne tabi eşyada yaptırımlar",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithali genel düzenleyici idari işlemlerle yasaklanmış eşyanın değersiz, artık veya atık madde olması durumunda idari para cezası nasıl hesaplanır?",
+     "cevap": "Dökme halinde gelen eşyada ton başına otuz bin TL, ambalajlı gelen eşyada kap başına altı yüz TL olarak hesaplanır ve eşya yurt dışı edilir.",
+     "dayanak": "GK md. 235/1-b",
+     "kanit": "dökme halinde gelen eşya için ton başına otuz bin Türk Lirası, ambalajlı gelmesi halinde kap başına altı yüz Türk Lirası olarak hesaplanır ve eşya yurtdışı edilir."
+    },
+    {
+     "alt_konu": "İthali yasak veya izne tabi eşyada yaptırımlar",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithali izne bağlı olduğu halde izne tabi değilmiş gibi beyan edilen eşya için Bakanlıkça belirlenen süre içinde uygunluk belgesinin düzenlenmesi halinde hangi ceza verilir?",
+     "cevap": "Gümrüklenmiş değerin iki katı yerine temel (bir kat) usulsüzlük cezası tutarında idari para cezası verilir.",
+     "dayanak": "GK md. 235/1-e",
+     "kanit": "Bakanlıkça belirlenecek süre içerisinde, (c) bendinde belirtilen eşyanın ithalinin uygun bulunduğuna ilişkin belge veya bilginin düzenlenmesi ... denetimin olumlu sonuçlandığının bildirilmesi hâlinde, 241 inci maddenin birinci fıkrası uyarınca idari para cezası verilir."
+    },
+    {
+     "alt_konu": "İhracı yasak veya izne tabi eşyada yaptırımlar",
+     "soru": "4458 sayılı Gümrük Kanununa göre ihracı izne tabi olduğu halde izne tabi değilmiş ya da izin alınmış gibi beyan edilen eşya için ne kadar idari para cezası verilir?",
+     "cevap": "Gümrüklenmiş değerinin onda biri kadar idari para cezası verilir (ithalatta ise iki katıdır).",
+     "dayanak": "GK md. 235/2-b",
+     "kanit": "beyanda bulunulduğunun tespit edilmesi hâlinde, gümrüklenmiş değerinin onda biri kadar idari para cezası verilir."
+    },
+    {
+     "alt_konu": "Yolcu eşyasında beyana aykırılık",
+     "soru": "4458 sayılı Gümrük Kanununa göre yolcuların kişisel ve hediyelik eşya kapsamı dışında olup beyanlarına aykırı olarak üzerlerinde, eşyaları arasında veya taşıma araçlarında çıkan eşyanın gümrük vergileri nasıl alınır?",
+     "cevap": "Gümrük vergileri iki kat olarak alınır ve eşya sahibine teslim edilir; vergiler ödenmezse eşya gümrüğe terk edilmiş sayılır.",
+     "dayanak": "GK md. 235/3",
+     "kanit": "eşyanın gümrük vergileri iki kat olarak alınır ve eşya sahibine teslim edilir. Gümrük vergileri ödenmediği takdirde, eşya gümrüğe terk edilmiş sayılır."
+    },
+    {
+     "alt_konu": "Transit rejiminde eksik ve fazla eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre transit rejimine konu serbest dolaşımda olmayan eşyanın varış gümrük idaresinde yapılan kontrolde beyana göre eksik çıkması halinde ne uygulanır?",
+     "cevap": "Eksik çıkan eşyanın gümrük vergileri alınır ve ayrıca bu vergilerin iki katı idari para cezası verilir.",
+     "dayanak": "GK md. 235/5-c",
+     "kanit": "Beyana göre eksik olduğunun tespit edilmesi hâlinde, eksik çıkan eşyaya ilişkin gümrük vergilerinin alınmasının yanı sıra eşyanın gümrük vergilerinin iki katı idari para cezası verilir."
+    },
+    {
+     "alt_konu": "Transit rejiminde eksik ve fazla eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre transit rejimine konu serbest dolaşımda olmayan eşyanın beyana göre fazla çıkması halinde ne uygulanır?",
+     "cevap": "Fazla çıkan eşyanın gümrük vergileri kadar idari para cezası verilir ve fazla eşya tasfiyeye tabi tutulur.",
+     "dayanak": "GK md. 235/5-d",
+     "kanit": "Beyana göre fazla olduğunun tespit edilmesi hâlinde, fazla çıkan eşyanın gümrük vergileri kadar idari para cezası verilir"
+    },
+    {
+     "alt_konu": "Antrepo ve izin verilen yerlerde eksik-fazla eşya; gümrüksüz satış",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük antrepolarından veya eşya konulmasına izin verilen yerlerden izin alınmadan eşya çıkarılması ya da sayımda eşyanın noksan çıkması halinde vergilerin yanı sıra ne kadar idari para cezası verilir?",
+     "cevap": "Teminat alınmış olsa bile, gümrük vergilerinin yanı sıra eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir.",
+     "dayanak": "GK md. 236/1",
+     "kanit": "bu eşyanın gümrük vergilerinin yanı sıra gümrüklenmiş değerinin iki katı idari para cezası verilir."
+    },
+    {
+     "alt_konu": "Antrepo ve izin verilen yerlerde eksik-fazla eşya; gümrüksüz satış",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük antrepolarında yapılan sayımda kayıtlara göre fazla eşya çıkması halinde tasfiye dışında ne kadar para cezası alınır?",
+     "cevap": "Fazla çıkan eşyaya ait ithalat veya ihracat vergileri tutarı kadar para cezası alınır.",
+     "dayanak": "GK md. 236/2",
+     "kanit": "fazla çıkan eşyaya ait ithalat veya ihracat vergileri tutarı kadar para cezası alınır."
+    },
+    {
+     "alt_konu": "Antrepo ve izin verilen yerlerde eksik-fazla eşya; gümrüksüz satış",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrüksüz satış mağazalarından hak sahibi olmayanlara satış yapılması halinde ne kadar para cezası verilir?",
+     "cevap": "Satışa konu eşyanın ithalat vergilerinin yanı sıra bu vergilerin üç katı para cezası verilir; hak sahibine limit üstü satışta da limit üstü eşya için aynı ceza uygulanır.",
+     "dayanak": "GK md. 236/4",
+     "kanit": "Gümrüksüz satış mağazalarından hak sahibi olmayanlara satış yapılması halinde satışa konu eşyaya, ... ait ithalat vergilerinin yanı sıra bu vergilerin üç katı para cezası verilir."
+    },
+    {
+     "alt_konu": "Özet beyana göre eksik ve fazla kaplar",
+     "soru": "4458 sayılı Gümrük Kanununa göre özet beyandaki kayıtlı miktara göre noksan çıkan kapların noksanlık nedeni gümrük idaresince belirlenen sürede kanıtlanamazsa ceza nasıl hesaplanır?",
+     "cevap": "Noksan kaplara ait eşyanın tarife pozisyonuna, pozisyon tespit edilemiyorsa cinsine ve türüne göre faslın en yüksek vergiye tabi pozisyonuna göre hesaplanan gümrük vergileri kadar para cezası alınır.",
+     "dayanak": "GK md. 237/1",
+     "kanit": "tarife pozisyonu tespit edilemiyor ise cinsine ve türüne göre tarifede dahil olduğu faslın en yüksek vergiye tabi pozisyonuna göre hesaplanacak gümrük vergileri"
+    },
+    {
+     "alt_konu": "Özet beyana göre eksik ve fazla kaplar",
+     "soru": "4458 sayılı Gümrük Kanununa göre özet beyandaki kayıtlı miktara göre fazla çıkan kapların yanlışlıkla fazla yüklendiği belirlenen sürede kanıtlanamazsa ne uygulanır?",
+     "cevap": "Eşyaya el konularak mülkiyetinin kamuya geçirilmesine karar verilir, eşya tasfiye edilir ve eşyanın CIF kıymeti kadar para cezası alınır.",
+     "dayanak": "GK md. 237/3",
+     "kanit": "söz konusu eşyaya el konularak mülkiyetinin kamuya geçirilmesine karar verilir, 177 ila 180 inci madde hükümlerine göre tasfiyeye tabi tutulur ... ve eşyanın CIF kıymeti kadar para cezası alınır."
+    },
+    {
+     "alt_konu": "Özet beyana göre eksik ve fazla kaplar",
+     "soru": "4458 sayılı Gümrük Kanununa göre dökme gelen eşyada hangi orandaki eksiklik ve fazlalıklar için takibat yapılmaz?",
+     "cevap": "Yüzde üçü aşmayacak şekilde eşya cinsine göre Cumhurbaşkanı kararıyla belirlenen oranlardaki farklar için takibat yapılmaz; boru hattıyla taşınanlar hariç doğalgaz ürünlerinde bu oran yüzde altıyı aşmayacak şekilde uygulanır.",
+     "dayanak": "GK md. 237/4",
+     "kanit": "Dökme gelen eşyada yüzde üçü aşmayacak şekilde eşya cinsi itibarıyla ... Doğalgaz ürünlerinde boru hatları ile taşınarak ithal edilenler hariç bu oran % 6'yı"
+    },
+    {
+     "alt_konu": "Özet beyana göre eksik ve fazla kaplar",
+     "soru": "4458 sayılı Gümrük Kanununa göre özet beyan eksiklik veya fazlalık takibatı sonucunda miktar farklılığı nedeniyle ceza gerekirse ayrıca tarife-kıymet-miktar farkına ilişkin vergi kaybı cezası da uygulanır mı?",
+     "cevap": "Hayır; vergi kaybı cezası uygulanmaz, yalnızca özet beyana ilişkin ceza hükümlerine göre işlem yapılır.",
+     "dayanak": "GK md. 237/5",
+     "kanit": "miktar farklılığı nedeniyle cezayı gerektirir bir durum ortaya çıkması halinde, 234 üncü madde hükümleri uygulanmayarak sadece bu madde hükümlerine göre işlem yapılır."
+    },
+    {
+     "alt_konu": "Özet beyana göre eksik ve fazla kaplar",
+     "soru": "Gümrük Yönetmeliğine göre kap adedi itibarıyla tamam çıkan ancak sayı, baş, ağırlık gibi ölçülerinde eksiklik veya fazlalık olan eşya için özet beyan takibatı yapılır mı?",
+     "cevap": "Takibat yapılmaz.",
+     "dayanak": "GY md. 583/2",
+     "kanit": "Kap adedi itibariyle tamam çıkan ancak sayı, baş, ağırlık gibi ölçülerinde eksiklik veya fazlalık olan eşya için takibat yapılmaz."
+    },
+    {
+     "alt_konu": "Rejim hükümlerinin ihlali (DİR, GKAİ, geçici ithalat)",
+     "soru": "4458 sayılı Gümrük Kanununa göre tam muafiyet suretiyle geçici olarak ithal edilen özel kullanıma mahsus taşıtlara ilişkin rejim ihlallerinde ne kadar idari para cezası verilir?",
+     "cevap": "Gümrük vergileri tutarının dörtte biri kadar idari para cezası verilir.",
+     "dayanak": "GK md. 238/1-b",
+     "kanit": "Tam muafiyet suretiyle geçici olarak ithal edilen özel kullanıma mahsus taşıtlara ilişkin rejim ihlallerinde, gümrük vergileri tutarının dörtte biri,"
+    },
+    {
+     "alt_konu": "Rejim hükümlerinin ihlali (DİR, GKAİ, geçici ithalat)",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme veya gümrük kontrolü altında işleme rejimi hükümleri ihlal edilmekle birlikte eşyanın gümrük gözetiminden mevzuata aykırı olarak çıkarılmadığı tespit edilirse idari para cezası nasıl hesaplanır?",
+     "cevap": "İthal eşyasının gümrük vergileri ile beyannamenin tescil tarihinden tespit tarihine kadar geçen süre için gecikme zammı oranında hesaplanan faizin toplamı kadar idari para cezası verilir (süresinde işlem görmeyen geçici ithalat eşyasında da aynı esas uygulanır).",
+     "dayanak": "GK md. 238/1-c, d",
+     "kanit": "ithal eşyasının gümrük vergileri ile ilgili rejime ilişkin beyannamenin tescil tarihinden tespitin yapıldığı tarihe kadar geçen süre için 6183 sayılı Kanuna göre tespit edilen gecikme zammı oranında faizin toplamı kadar,"
+    },
+    {
+     "alt_konu": "Rejim hükümlerinin ihlali (DİR, GKAİ, geçici ithalat)",
+     "soru": "4458 sayılı Gümrük Kanununa göre gözetimden çıkarılmamış dahilde işleme/gümrük kontrolü altında işleme eşyası ile süresinde işlem görmeyen geçici ithalat eşyası, tebligattan itibaren altmış gün içinde gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmazsa ne olur?",
+     "cevap": "Ayrıca gümrük vergileri tutarında idari para cezası verilir.",
+     "dayanak": "GK md. 238/2",
+     "kanit": "yapılacak tebligat tarihinden itibaren altmış gün içinde gümrükçe onaylanmış başka bir işlem veya kullanıma tabi tutulmaması hâlinde, ayrıca gümrük vergileri tutarında idari para cezası verilir."
+    },
+    {
+     "alt_konu": "Rejim hükümlerinin ihlali (DİR, GKAİ, geçici ithalat)",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme, gümrük kontrolü altında işleme ve geçici ithalat rejimi ihlallerinde verilen idari para cezalarının alt sınırı nedir?",
+     "cevap": "Temel usulsüzlük cezasının sekiz katı tutarından az olamaz.",
+     "dayanak": "GK md. 238/3",
+     "kanit": "Birinci fıkraya göre verilen cezalar 241 inci maddenin altıncı fıkrasında belirtilen miktardan az olamaz."
+    },
+    {
+     "alt_konu": "Muaf eşyanın kaçak giriş-çıkışı ve vergili ihraç eşyasının işlemsiz çıkarılması",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük vergileri ödenmek suretiyle ihraç edilebilen eşyayı gümrük işlemlerine tabi tutmaksızın veya vergileri ödemeksizin Türkiye Gümrük Bölgesinden çıkaranlara ne uygulanır?",
+     "cevap": "Eşyanın gümrük vergilerinin yanı sıra bu vergilerin iki katı idari para cezası verilir.",
+     "dayanak": "GK md. 239/2",
+     "kanit": "eşyanın gümrük vergilerinin yanı sıra bu vergilerin iki katı idari para cezası verilir."
+    },
+    {
+     "alt_konu": "İki kat usulsüzlük cezası gerektiren haller ve süre aşımlarında kademeli cezalar",
+     "soru": "4458 sayılı Gümrük Kanununa göre özet beyan veya özet beyan olarak kullanılan ticari veya resmi belgenin süresi içinde verilmemesi halinde usulsüzlük cezası kaç kat uygulanır?",
+     "cevap": "Temel usulsüzlük cezasının iki katı uygulanır.",
+     "dayanak": "GK md. 241/3-d",
+     "kanit": "Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın iki katı olarak uygulanır ... göre özet beyan veya özet beyan olarak kullanılan ticari veya resmi belgenin süresi içinde verilmemesi"
+    },
+    {
+     "alt_konu": "İki kat usulsüzlük cezası gerektiren haller ve süre aşımlarında kademeli cezalar",
+     "soru": "4458 sayılı Gümrük Kanununa göre Türkiye Gümrük Bölgesinde karayoluyla transit eşya taşıyan taşıtların verilen süreyi aşması halinde usulsüzlük cezası aşım süresine göre nasıl kademelendirilir?",
+     "cevap": "Yirmi dört saate kadar aşımda iki kat, kırk sekiz saate kadar dört kat, yetmiş iki saate kadar altı kat, yetmiş iki saatten fazla aşımda sekiz kat uygulanır.",
+     "dayanak": "GK md. 241/3-e, 4-d, 5-a, 6-c",
+     "kanit": "verilen süreleri yirmidört saate kadar aşması ... verilen süreleri kırksekiz saate kadar aşması ... verilen süreleri yetmişiki saate kadar aşması ... verilen süreleri yetmişiki saatten daha fazla bir süre ile aşması"
+    },
+    {
+     "alt_konu": "İki kat usulsüzlük cezası gerektiren haller ve süre aşımlarında kademeli cezalar",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme, gümrük kontrolü altında işleme ve geçici ithalat rejimlerinde eşyanın izin verilen sürenin bitiminden sonra yeniden ihraç edilmesi veya onaylanmış bir işleme tabi tutulması halinde usulsüzlük cezası gecikme süresine göre nasıl uygulanır?",
+     "cevap": "Sürenin bitimini takiben bir ay içinde ise iki kat, iki ayı aşmayan sürede ise dört kat uygulanır; geçici ithalattaki taşıtlarda üç ayı aşmayan sürede altı kat uygulanır.",
+     "dayanak": "GK md. 241/3-h, l; 241/4-g, h; 241/5-b",
+     "kanit": "izin verilen süresinin bitimini takiben bir ay içerisinde rejimin gerektirdiği işlemlerinin bitirilmesi ... verilen sürenin bitimini takiben iki ayı aşmayan sürede yeniden ihraç edilmesi ... taşıtlara verilen sürenin bitimini takiben üç ayı aşmayan sürede yeniden ihraç edilmesi"
+    },
+    {
+     "alt_konu": "Dört kat usulsüzlük cezası gerektiren haller",
+     "soru": "4458 sayılı Gümrük Kanununa göre özet beyanda kayıtlı eşyanın cinsinin yanlış beyan edilmesi veya kapların türleri ile numara ve işaretlerinin özet beyan kayıtlarına uygun olmaması halinde usulsüzlük cezası kaç kat uygulanır?",
+     "cevap": "Temel usulsüzlük cezasının dört katı uygulanır (özet beyanın süresinde verilmemesi ise iki kattır).",
+     "dayanak": "GK md. 241/4-c",
+     "kanit": "Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın dört katı olarak uygulanır ... özet beyan veya özet beyan olarak kullanılan ticari ve resmi belgelerde kayıtlı eşyanın cinsinin yanlış beyan edilmesi"
+    },
+    {
+     "alt_konu": "Dört kat usulsüzlük cezası gerektiren haller",
+     "soru": "4458 sayılı Gümrük Kanununa göre genel antrepo ve serbest bölgelere getirilen parlayıcı, patlayıcı veya tehlikeli eşyanın genel amaçlı eşya konulan yerlerde depolanması halinde usulsüzlük cezası kaç kat uygulanır?",
+     "cevap": "Temel usulsüzlük cezasının dört katı uygulanır.",
+     "dayanak": "GK md. 241/4-e",
+     "kanit": "Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın dört katı olarak uygulanır ... Genel antrepo ve serbest bölgelere getirilen parlayıcı, patlayıcı veya bir arada bulundukları eşya için tehlikeli olan"
+    },
+    {
+     "alt_konu": "Sekiz kat usulsüzlük cezası gerektiren haller",
+     "soru": "4458 sayılı Gümrük Kanununa göre yazılı olarak talep edilen bilgi ve belgeler ile beş yıl süreyle saklanması gereken belgelerin gümrük kontrolü sırasında ibraz edilmemesi halinde usulsüzlük cezası kaç kat uygulanır?",
+     "cevap": "Temel usulsüzlük cezasının sekiz katı uygulanır.",
+     "dayanak": "GK md. 241/6-d",
+     "kanit": "Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın sekiz katı olarak uygulanır ... beş yıl süreyle saklanması gereken belgelerin gümrük kontrolü sırasında ibraz edilmemesi"
+    },
+    {
+     "alt_konu": "Sekiz kat usulsüzlük cezası gerektiren haller",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçici ithalat kapsamında kişisel kullanıma mahsus yabancı plakalı taşıtı getiren hak sahibinin gümrük idaresine bilgi vermeden taşıtsız yurt dışına çıkması halinde usulsüzlük cezası kaç kat uygulanır?",
+     "cevap": "Temel usulsüzlük cezasının sekiz katı uygulanır.",
+     "dayanak": "GK md. 241/6-e",
+     "kanit": "Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın sekiz katı olarak uygulanır ... hak sahipleri tarafından gümrük idaresine bilgi verilmeden taşıtsız yurt dışına çıkılması"
+    },
+    {
+     "alt_konu": "Azami bedellere uyulmaması",
+     "soru": "4458 sayılı Gümrük Kanununa göre Bakanlıkça belirlenen azami bedellere uyulmaması halinde ne kadar usulsüzlük cezası uygulanır?",
+     "cevap": "Her bir işlem için beş bin Türk lirası usulsüzlük cezası uygulanır.",
+     "dayanak": "GK md. 241/7",
+     "kanit": "Bakanlıkça belirlenen azami bedellere uyulmaması halinde her bir işlem için beş bin Türk lirası usulsüzlük cezası uygulanır."
+    },
+    {
+     "alt_konu": "Fiilin aynı zamanda ceza kanunları kapsamına girmesi",
+     "soru": "Gümrük Yönetmeliğine göre soruşturma veya kovuşturma sonucunda daha ağır para cezasına ya da fiilin suç teşkil ettiğine karar verilmesi halinde Gümrük Kanununa göre verilmiş ceza ne olur?",
+     "cevap": "Kararın kesinleşmesi ve hükmolunan paranın tahsili şartıyla Gümrük Kanununa göre verilen ceza kaldırılır ve alınmış para geri verilir.",
+     "dayanak": "GY md. 579/2",
+     "kanit": "kararın kesinleşmesi ve hükmolunan paranın tahsili şartıyla Kanuna göre verilmiş olan ceza kaldırılır ve alınmış olan para geri verilir."
+    },
+    {
+     "alt_konu": "Yanlış izahat talebinin usulü",
+     "soru": "Gümrük Yönetmeliğine göre yanlış izahat hükmünden yararlanmaya esas olacak izahat talepleri nereye yapılır?",
+     "cevap": "Gümrük ve dış ticaret bölge müdürlüklerine yapılır; bölge müdürlüğü inceleyip görüşüyle birlikte Bakanlığa (Gümrükler Genel Müdürlüğü) intikal ettirir.",
+     "dayanak": "GY md. 580/A-4",
+     "kanit": "İkinci fıkrada belirtilen talepler, gümrük ve dış ticaret bölge müdürlüklerine yapılır."
+    },
+    {
+     "alt_konu": "Yanlış izahat talebinin usulü",
+     "soru": "Gümrük Yönetmeliğine göre gümrük idaresince verilen izahat itiraza konu olur mu?",
+     "cevap": "Hayır; izahat karar niteliği taşımaz ve itiraza konu olmaz.",
+     "dayanak": "GY md. 580/A-9",
+     "kanit": "İzahat, karar niteliği taşımaz ve itiraza konu olmaz."
+    },
+    {
+     "alt_konu": "Yanlış izahat talebinin usulü",
+     "soru": "Gümrük Yönetmeliğine göre Bakanlık laboratuvarlarının tahlil raporuna göre tarife beyanında bulunulmuş, ancak sonraki tahlilde eşyanın farklı tarifede sınıflandırılması gerektiği belirlenmişse nasıl işlem yapılır?",
+     "cevap": "Yanlış izahat hükmü uygulanır; idari para cezası verilmez ve faiz uygulanmaz.",
+     "dayanak": "GY md. 580/A-10",
+     "kanit": "daha sonra yapılan tahlil sonucunda eşyanın farklı bir tarifede sınıflandırılması gerektiğinin belirlendiği durumlarda Kanunun 231 inci maddesinin beşinci fıkrası hükümleri uygulanır."
+    }
+   ]
+  },
+  {
+   "kaynak": "49-itirazlar.txt",
+   "konu": "Gümrük vergileri, cezalar ve idari kararlara itiraz; kimyevi tahlil sonuçlarına itiraz (İtiraz)",
+   "mevzuat": "GK md. 242-243; GY md. 585-590; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 12",
+   "cikmis_sayisi": 5,
+   "cikmis": [
+    "2022-66: Tebliğ edilen vergi, ceza ve kararlara tebliğden itibaren 15 gün içinde üst makama itiraz edilir.",
+    "2023-77: İtirazlar otuz gün (altmış değil) içinde karara bağlanır; uzlaşma ve itiraz süresi 15 gündür.",
+    "2024-95: İtiraz süresi tebliğden itibaren 15 gündür.",
+    "2024-80 (ilişkili; 45-tebliğ): Şıklarda itiraz süresi (30 gün yanlış) ve itirazın karara bağlanma süresi (45 gün yanlış) ölçülmüş.",
+    "2023-78 (ilişkili; 18-Ser.Dol.Giriş): Tebliğ edilen tahlil sonuçlarına itirazı Gümrük ve Dış Ticaret Bölge Müdürlüğü karara bağlar."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "İtiraz süresi, mercii ve karar süresi",
+     "dayanak": "GK md. 242/1-2; GY md. 585/1, 586; Tahsilat Tebliği md. 12/1, 12/4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-66",
+      "2023-77",
+      "2024-80",
+      "2024-95"
+     ],
+     "not": "Sorulan: tebliğden itibaren 15 gün içinde üst makama (yoksa aynı makama) itiraz, 30 günde karara bağlanma. Sorulmayan: 30 günde karar verilemeyecekse ek süre bildirimi."
+    },
+    {
+     "baslik": "Yanlış makama verilen itiraz ve itirazın reddine karşı yargı yolu",
+     "dayanak": "GK md. 242/3-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İtiraz süresinin tespitinde esas alınan tarih",
+     "dayanak": "GY md. 585/4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İtiraz sonuçlanmadan eşyanın çekilmesi",
+     "dayanak": "GY md. 587",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kimyevi tahlil sonuçlarına itiraz ve ikinci tahlil",
+     "dayanak": "GK md. 243; GY md. 588-590",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-78"
+     ],
+     "not": "Sorulan (18-Ser.Dol.Giriş kaynaklı): tahlil sonuçlarına itirazı karara bağlayan makam. Sorulmayan: itiraz süresi, ikinci tahlili yapanlar, gözlemci kimyager, küçük laboratuvar, ikinci tahlilin kesinliği, ücret, numune kaynaklı itiraz."
+    },
+    {
+     "baslik": "Müteselsil sorumlularda yargı yolu ve mahkemece verilen cezalar",
+     "dayanak": "Tahsilat Tebliği md. 12/3, 12/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Uzlaşma ile itirazın çakışması (md. 12/2) 50-uzlaşma dosyasında işlenmiştir."
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "İtiraz süresi, mercii ve karar süresi",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gelir eksiği ve para cezalarına karşı yapılan itiraz başvurusu otuz gün içinde sonuçlandırılamayacaksa ne yapılır?",
+     "cevap": "Süre dolmadan önce, süre aşımını gerekli kılan gerekçeler ve ek süre yükümlüye bildirilir.",
+     "dayanak": "Tahsilat Tebliği md. 12/4",
+     "kanit": "eğer bu süre zarfında karar alınamayacak ise sürenin dolmasından önce, süre aşımını gerekli kılan gerekçeler ve ek süre yükümlüye bildirilir."
+    },
+    {
+     "alt_konu": "Yanlış makama verilen itiraz ve itirazın reddine karşı yargı yolu",
+     "soru": "4458 sayılı Gümrük Kanununa göre itiraz dilekçesinin süresi içinde yanlış makama verilmesi halinde ne olur?",
+     "cevap": "İtiraz süresinde yapılmış sayılır ve dilekçe idarece yetkili makama ulaştırılır.",
+     "dayanak": "GK md. 242/3",
+     "kanit": "İtiraz dilekçelerinin süresi içinde yanlış makama verilmesi halinde, itiraz süresinde yapılmış sayılır ve idarece yetkili makama ulaştırılır."
+    },
+    {
+     "alt_konu": "Yanlış makama verilen itiraz ve itirazın reddine karşı yargı yolu",
+     "soru": "4458 sayılı Gümrük Kanununa göre itirazın reddi kararlarına karşı nereye başvurulabilir?",
+     "cevap": "İşlemin yapıldığı yerdeki idari yargı mercilerine başvurulabilir.",
+     "dayanak": "GK md. 242/4",
+     "kanit": "İtirazın reddi kararlarına karşı işlemin yapıldığı yerdeki idari yargı mercilerine başvurulabilir."
+    },
+    {
+     "alt_konu": "İtiraz süresinin tespitinde esas alınan tarih",
+     "soru": "Gümrük Yönetmeliğine göre taahhütlü posta yoluyla yapılan itirazlarda itirazın süresi içinde olup olmadığının tespitinde hangi tarih dikkate alınır?",
+     "cevap": "İtiraz dilekçesinin postaya verildiği tarih dikkate alınır; doğrudan veya adi posta ile yapılan itirazlarda ise dilekçenin itirazın yapıldığı gümrük idaresinin kaydına giriş tarihi esas alınır.",
+     "dayanak": "GY md. 585/4",
+     "kanit": "Taahhütlü olarak posta yolu ile yapılacak itirazlarda, itiraz dilekçesinin postaya verildiği tarih,"
+    },
+    {
+     "alt_konu": "İtiraz sonuçlanmadan eşyanın çekilmesi",
+     "soru": "Gümrük Yönetmeliğine göre ihtilaf konusu eşyanın itiraz kararından önce çekilebilmesi için vergi farkı ve para cezaları bakımından hangi şart aranır?",
+     "cevap": "Yükümlünün beyanına göre yapılan tahakkuk ile idarece tahakkuk ettirilen vergiler arasındaki farkın ve eşyanın alıcısı adına düzenlenen para cezalarının teminata bağlanması gerekir.",
+     "dayanak": "GY md. 587/1-b",
+     "kanit": "Yükümlünün beyanına göre yapılan vergi tahakkukları ile gümrük idaresince tahakkuk ettirilen bütün vergiler arasındaki farkın ve eşyanın alıcısı adına düzenlenen para cezalarının[156] teminata bağlanması"
+    },
+    {
+     "alt_konu": "İtiraz sonuçlanmadan eşyanın çekilmesi",
+     "soru": "Gümrük Yönetmeliğine göre vergi tahakkukunun kesinleşmesinden önceki uyuşmazlık yürürlükteki yasaklama ve kısıtlama hükümlerini ihlal eder mahiyetteyse eşyanın teminat karşılığı çekilmesine izin verilir mi?",
+     "cevap": "Hayır; bu durumda itiraz sonuçlanmadan eşyanın çekilmesine ilişkin hüküm uygulanmaz.",
+     "dayanak": "GY md. 587/2",
+     "kanit": "uyuşmazlık yürürlükteki yasaklama ve kısıtlama hükümlerini ihlal eder mahiyette olduğu takdirde bu madde hükmü uygulanmaz."
+    },
+    {
+     "alt_konu": "İtiraz sonuçlanmadan eşyanın çekilmesi",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın teminat karşılığı çekildiği durumda düşük kıymet beyanı şüphesiyle yapılan kıymet araştırması ne kadar sürede sonuçlanmazsa işlem mevcut verilere göre sonuçlandırılır?",
+     "cevap": "Talep tarihinden itibaren bir yılda sonuçlanmazsa gümrük idaresindeki mevcut verilere göre işlem sonuçlandırılır; sonradan gelen cevaplarla vergi farkı çıkarsa gerekli işlem yapılır.",
+     "dayanak": "GY md. 587/3",
+     "kanit": "araştırmanın bu maddenin uygulanmasının talep edildiği tarihten itibaren bir yılda sonuçlanmaması halinde, gümrük idaresinde mevcut verilere göre işlem sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Kimyevi tahlil sonuçlarına itiraz ve ikinci tahlil",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük vergilerinin hesaplanmasında esas alınan kimyevi tahlil sonuçlarına karşı hangi süre içinde itiraz edilebilir?",
+     "cevap": "Tebliğden itibaren on beş gün içinde yazılı olarak itiraz edilebilir.",
+     "dayanak": "GK md. 243/1; GY md. 588/1-a",
+     "kanit": "gümrük vergilerinin hesaplanmasında esas alınan kimyevi tahlil sonuçlarına karşı tebliğden itibaren onbeş gün içinde"
+    },
+    {
+     "alt_konu": "Kimyevi tahlil sonuçlarına itiraz ve ikinci tahlil",
+     "soru": "4458 sayılı Gümrük Kanununa göre kimyevi tahlil sonucuna itiraz üzerine ikinci tahlili kimler yapar?",
+     "cevap": "Birinci tahlilin yapıldığı gümrük laboratuvarında görevli olan ve ilk tahlili yapan kimyager dışındaki iki kimyager yapar.",
+     "dayanak": "GK md. 243/2; GY md. 589/1-a",
+     "kanit": "birinci tahlilin yapıldığı gümrük laboratuarında görevli olan ve ilk tahlili yapan kimyager dışındaki iki kimyager tarafından ikinci tahlil yapılır."
+    },
+    {
+     "alt_konu": "Kimyevi tahlil sonuçlarına itiraz ve ikinci tahlil",
+     "soru": "4458 sayılı Gümrük Kanununa göre yükümlünün talebi halinde ikinci tahlilde gümrük kimyagerleri dışında kim hazır bulunabilir?",
+     "cevap": "Gümrük kimyageri olmayan bir gözlemci kimyager hazır bulunabilir; gözlemci duyuruya rağmen gelmezse tahlil gıyabında yapılır.",
+     "dayanak": "GK md. 243/2; GY md. 589/1-a, b",
+     "kanit": "gümrük kimyageri olmayan bir gözlemci kimyagerin de ikinci tahlilde hazır bulunmasına izin verirler."
+    },
+    {
+     "alt_konu": "Kimyevi tahlil sonuçlarına itiraz ve ikinci tahlil",
+     "soru": "4458 sayılı Gümrük Kanununa göre üç kimyagerden fazla kimyager bulunmayan gümrük laboratuvarında yapılan tahlile itiraz edilmesi halinde ikinci tahlil nerede yaptırılır?",
+     "cevap": "En az iki kimyager bulunan en yakın gümrük idaresine ait laboratuvarda yaptırılır.",
+     "dayanak": "GK md. 243/2",
+     "kanit": "ikinci tahlil en az iki kimyager bulunan en yakın gümrük idaresine ait laboratuarda yaptırılır."
+    },
+    {
+     "alt_konu": "Kimyevi tahlil sonuçlarına itiraz ve ikinci tahlil",
+     "soru": "4458 sayılı Gümrük Kanununa göre ikinci tahlil sonucunun bağlayıcılığı nedir?",
+     "cevap": "Eşyanın teknik özelliklerinin ve niteliklerinin belirlenmesi yönünden kesindir.",
+     "dayanak": "GK md. 243/3; GY md. 590",
+     "kanit": "İkinci tahlil sonucu, eşyanın teknik özelliklerinin ve niteliklerinin belirlenmesi yönünden kesindir."
+    },
+    {
+     "alt_konu": "Kimyevi tahlil sonuçlarına itiraz ve ikinci tahlil",
+     "soru": "Gümrük Yönetmeliğine göre itirazın kanuni süresi içinde yapıldığı ve eşya örneklerinin henüz gümrükte bulunduğu tespit edilirse ikinci tahlil için ne kadar ücret alınır?",
+     "cevap": "Numune başına 2.330 TL ücret alınır.",
+     "dayanak": "GY md. 588/1-c",
+     "kanit": "ikinci tahlil için numune başına 2.330 TL  ücret alınır."
+    },
+    {
+     "alt_konu": "Kimyevi tahlil sonuçlarına itiraz ve ikinci tahlil",
+     "soru": "Gümrük Yönetmeliğine göre numuneden kaynaklanan nedenlerle tahlil sonucuna itiraz edilmesi halinde nasıl işlem yapılır?",
+     "cevap": "Beyan sahibi veya temsilcisi huzurunda tutanak düzenlenerek yeniden alınan numune ile birinci tahlil tekrarlanır ve tahlil ücretleri listesindeki tutarda analiz ücreti alınır.",
+     "dayanak": "GY md. 588/1-ç",
+     "kanit": "beyan sahibi veya temsilcisi huzurunda ek-25'te yer alan tutanak tanzim edilerek tekrar alınan numune ile birinci tahlil tekrarlanır"
+    },
+    {
+     "alt_konu": "Müteselsil sorumlularda yargı yolu ve mahkemece verilen cezalar",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre alacağa ilişkin kararlara karşı ilgililerden birinin idari yargıya başvurması halinde aynı alacak için diğeri hakkındaki işlemler nasıl yürütülür?",
+     "cevap": "Tahsil zamanaşımı süreleri dikkate alınarak idari dava sürecinin sonuçlarına göre değerlendirilir; vergi aslına bağlı olmayan para cezalarına konu fiilin iştirak halinde işlenmesinde bu hüküm uygulanmaz.",
+     "dayanak": "Tahsilat Tebliği md. 12/3",
+     "kanit": "aynı alacağa dair diğeri hakkında yapılacak işlemler, tahsil zamanaşımı süreleri dikkate alınarak, idari dava süreci sonuçlarına göre değerlendirilir."
+    },
+    {
+     "alt_konu": "Müteselsil sorumlularda yargı yolu ve mahkemece verilen cezalar",
+     "soru": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre 5326 sayılı Kabahatler Kanunu uyarınca mahkemelerce verilen idari para cezalarına karşı Gümrük Kanunu uyarınca itiraz veya uzlaşma yoluna gidilebilir mi?",
+     "cevap": "Hayır; bu kararlara karşı 5326 sayılı Kanunda öngörülen itiraz yolu izlenir, Gümrük Kanunu uyarınca itiraz edilemez ve uzlaşma talebinde bulunulamaz.",
+     "dayanak": "Tahsilat Tebliği md. 12/5",
+     "kanit": "bu kararlara karşı Gümrük Kanunu uyarınca itiraz edilemez ve uzlaşma talebinde bulunulamaz"
+    }
+   ]
+  },
+  {
+   "kaynak": "50-uzlaşma.txt",
+   "konu": "Gümrük vergileri ve para cezalarında uzlaşma (Uzlaşma)",
+   "mevzuat": "GK md. 244; Gümrük Uzlaşma Yönetmeliği (27.08.2011 tarihli ve 28038 sayılı R.G.) md. 1-28",
+   "cikmis_sayisi": 2,
+   "cikmis": [
+    "2023-77 (ilişkili; 49-itirazlar): Doğru şık olarak yükümlünün gümrük vergileri ve idari para cezaları için tebliğden itibaren 15 gün içinde uzlaşma talep edebileceği ölçülmüş.",
+    "2024-80 (ilişkili; 45-tebliğ): Uzlaşma talebinin 20 gün içinde yapılabileceği ifadesi yanlış şık olarak kullanılmış."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Uzlaşmanın kapsamı ve uzlaşmaya konu olabilecek alacaklar",
+     "dayanak": "GK md. 244/1; Gümrük Uzlaşma Yön. md. 4-5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Uzlaşma başvuru süresi ve itiraz-dava sürelerine etkisi",
+     "dayanak": "GK md. 244/1; Gümrük Uzlaşma Yön. md. 11, 14/1",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-77",
+      "2024-80"
+     ],
+     "not": "Sorulan (45/49 kaynaklı sorularda şık olarak): uzlaşma talebinin tebliğden itibaren 15 gün içinde yapılması (20 gün yanlış). Sorulmayan: itiraz/dava süresinin durması, beş güne tamamlanma, yeniden uzlaşma yasağı, itirazı sonuçlanmamış alacaklarda uzlaşma."
+    },
+    {
+     "baslik": "Uzlaşmaya konu olamayacak alacaklar ve kaçakçılık ilişkisi",
+     "dayanak": "GK md. 244/2; Gümrük Uzlaşma Yön. md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Uzlaşma komisyonlarının teşkili ve çalışma esasları",
+     "dayanak": "GK md. 244/3; Gümrük Uzlaşma Yön. md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Uzlaşmanın kesinliği ve sonuçları",
+     "dayanak": "GK md. 244/4; Gümrük Uzlaşma Yön. md. 21",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Uzlaşılan tutarların ödenmesi, faiz ve peşin ödeme indirimi",
+     "dayanak": "GK md. 244/5-6; Gümrük Uzlaşma Yön. md. 23-24",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Uzlaşmanın vaki olmaması ve temin edilememesi kavramları",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Komisyonların yetki limitleri ve tutar tespiti",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Başvurunun şekli ve başvurabilecek kişiler",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 10, 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Usul yönünden inceleme",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Uzlaşma başvurusundan feragat ve müteselsil sorumlularda uzlaşma",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 14/2-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Uzlaşma görüşmeleri, davetiye, nihai teklif ve erteleme",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 15-17",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Tutanağın imzalanmasının tebliğ hükmünde olması 45-tebliğ dosyasında (Tahsilat Tebliği md. 5/5) işlenmiştir."
+    },
+    {
+     "baslik": "Uzlaşma işlemlerinin süresi",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 18",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İtiraz ve uzlaşma hakkının aynı anda kullanılmaması",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 25",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teminat karşılığı eşyanın teslimi",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 26",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Uzlaşmanın kapsamı ve uzlaşmaya konu olabilecek alacaklar",
+     "soru": "4458 sayılı Gümrük Kanununa göre hangi alacaklar uzlaşmanın kapsamına girer?",
+     "cevap": "Beyan ile gümrük idaresinin tespiti sonucu belirlenen farklılıklara ilişkin tebliğ edilen gümrük vergileri, gümrük idaresinin tespitinden önce beyan sahibince bildirilen farklılıklara ilişkin tebliğ edilen gümrük vergileri ve Kanun ile ilgili diğer kanunlar uyarınca gümrük idaresince düzenlenen idari para cezaları.",
+     "dayanak": "GK md. 244/1",
+     "kanit": "a) Beyan ile gümrük idaresi tarafından yapılan tespit sonucunda belirlenen farklılıklara ilişkin tebliğ edilen gümrük vergileri alacakları, ... c) Bu Kanun ve ilgili diğer kanunlar uyarınca gümrük idaresi tarafından düzenlenen idari para cezaları,"
+    },
+    {
+     "alt_konu": "Uzlaşmanın kapsamı ve uzlaşmaya konu olabilecek alacaklar",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma talebinde eksiklik veya aykırılıkların hangi nedenlerden kaynaklandığı ileri sürülebilir?",
+     "cevap": "Kanun hükümlerine yeterince nüfuz edememekten veya Kanun hükümlerini yanlış yorumlamaktan kaynaklandığı ya da ihtilaf konusu olayda yargı kararları ile idarenin görüş farklılığı bulunduğu ileri sürülebilir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 4/2",
+     "kanit": "a) Kanun hükümlerine yeterince nüfuz edememekten veya Kanun hükümlerini yanlış yorumlamaktan kaynaklandığı, ... b) İhtilaf konusu olayda yargı kararları ile idarenin görüş farklılığının olduğu,"
+    },
+    {
+     "alt_konu": "Uzlaşmanın kapsamı ve uzlaşmaya konu olabilecek alacaklar",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma talebi yükümlüye tebliğ edilen alacakların bir kısmı için yapılabilir mi?",
+     "cevap": "Alacakların tamamı için yapılabileceği gibi vergiler veya cezaların tür itibarıyla bir kısmı için de yapılabilir; ancak aynı tür vergi veya cezanın bir kısmı için uzlaşma talep edilemez.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 5/2, 6/2",
+     "kanit": "Uzlaşma talebi, yükümlüye tebliğ edilen alacakların tamamı için yapılabileceği gibi vergiler veya cezaların tür itibariyle bir kısmı için de yapılabilir. ... aynı tür vergi veya cezanın bir kısmı için uzlaşma talebinde bulunulamaz."
+    },
+    {
+     "alt_konu": "Uzlaşmanın kapsamı ve uzlaşmaya konu olabilecek alacaklar",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre şartlı muafiyet rejimlerine ilişkin hükümlerin ihlali sonucu doğan alacakta hangi kalemler uzlaşmaya konu edilebilir?",
+     "cevap": "Alacağın yükümlüye tebliğinden itibaren 15 gün içinde, alacağa konu para cezaları uzlaşmaya konu edilebilir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 5/3",
+     "kanit": "Şartlı muafiyet rejimlerine ilişkin hükümlerin ihlali sonucunda doğan alacağın ... yükümlüye tebliğinden itibaren 15 gün içinde, alacağa konu para cezaları uzlaşmaya konu edilebilir."
+    },
+    {
+     "alt_konu": "Uzlaşma başvuru süresi ve itiraz-dava sürelerine etkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre uzlaşma talebinde bulunulması itiraz ve dava açma süresini nasıl etkiler?",
+     "cevap": "İtiraz veya dava açma süresi durur; uzlaşmanın vaki olmaması veya temin edilememesi halinde süre kaldığı yerden işlemeye başlar.",
+     "dayanak": "GK md. 244/1; Gümrük Uzlaşma Yön. md. 14/1",
+     "kanit": "Uzlaşma talebinde bulunulması hâlinde, itiraz veya dava açma süresi durur, uzlaşmanın vaki olmaması veya temin edilememesi hâlinde süre kaldığı yerden işlemeye başlar"
+    },
+    {
+     "alt_konu": "Uzlaşma başvuru süresi ve itiraz-dava sürelerine etkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre uzlaşma sağlanamaması üzerine kaldığı yerden işleyen itiraz veya dava süresinin bitimine beş günden az kalmışsa ne olur?",
+     "cevap": "Süre beş güne tamamlanır.",
+     "dayanak": "GK md. 244/1; Gümrük Uzlaşma Yön. md. 14/1",
+     "kanit": "ancak sürenin bitimine beş günden az kalmış olması hâlinde süre beş güne tamamlanır."
+    },
+    {
+     "alt_konu": "Uzlaşma başvuru süresi ve itiraz-dava sürelerine etkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre uzlaşmanın vaki olmaması veya temin edilememesi halinde aynı alacak için yeniden uzlaşma talep edilebilir mi?",
+     "cevap": "Hayır; yeniden uzlaşma talebinde bulunulamaz.",
+     "dayanak": "GK md. 244/1; Gümrük Uzlaşma Yön. md. 22/3",
+     "kanit": "Uzlaşmanın vaki olmaması veya temin edilememesi hâlinde yeniden uzlaşma talebinde bulunulamaz."
+    },
+    {
+     "alt_konu": "Uzlaşma başvuru süresi ve itiraz-dava sürelerine etkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre itiraz başvurusu yapılmış gümrük vergileri ve idari para cezaları için uzlaşma talebinde bulunulabilir mi?",
+     "cevap": "İtirazı henüz sonuçlandırılmamış olmak kaydıyla, tebliğ tarihinden itibaren on beş gün içinde uzlaşma talebinde bulunulabilir.",
+     "dayanak": "GK md. 244/1",
+     "kanit": "Uzlaşma talebi, henüz itiraz başvurusu yapılmamış veya itiraz edilmiş olmakla birlikte itirazı henüz sonuçlandırılmamış gümrük vergileri ve idari para cezaları için"
+    },
+    {
+     "alt_konu": "Uzlaşmaya konu olamayacak alacaklar ve kaçakçılık ilişkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük vergileri ve cezalarına ilişkin fiilin hangi suçlarla ilişkili olması halinde uzlaşma hükümleri uygulanmaz?",
+     "cevap": "5607 sayılı Kaçakçılıkla Mücadele Kanununda yer alan kaçakçılık suçlarıyla ilişkili olması halinde uygulanmaz.",
+     "dayanak": "GK md. 244/2; Gümrük Uzlaşma Yön. md. 6/4",
+     "kanit": "Gümrük vergileri ve cezalarına ilişkin fiilin, 5607 sayılı Kanunda yer alan kaçakçılık suçları ile ilişkili olması hâlinde bu madde hükmü uygulanmaz."
+    },
+    {
+     "alt_konu": "Uzlaşmaya konu olamayacak alacaklar ve kaçakçılık ilişkisi",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre gümrük vergilerinin matrahına giren ancak aslı gümrük idarelerince takip ve tahsil edilmeyen vergi ve mali yükler uzlaşmaya konu edilebilir mi?",
+     "cevap": "Hayır, uzlaşmaya konu edilemez.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 6/1",
+     "kanit": "Gümrük vergilerinin matrahına giren, ancak aslı gümrük idarelerince takip ve tahsil edilmeyen vergi ve benzeri mali yükler uzlaşmaya konu edilemez."
+    },
+    {
+     "alt_konu": "Uzlaşmaya konu olamayacak alacaklar ve kaçakçılık ilişkisi",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre eşyanın mülkiyetinin kamuya geçirilmesine ilişkin kararlar uzlaşmaya konu edilebilir mi?",
+     "cevap": "Edilemez; ancak mülkiyetin kamuya geçirilmesine karar verilen eşyaya ilişkin gümrük vergileri ve para cezaları uzlaşmaya konu edilebilir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 6/7",
+     "kanit": "Eşyanın mülkiyetinin kamuya geçirilmesine ilişkin kararlar uzlaşmaya konu edilmez. Ancak, mülkiyetin kamuya geçirilmesine karar verilen eşya ile ilgili gümrük vergileri ve para cezaları uzlaşmaya konu edilebilir."
+    },
+    {
+     "alt_konu": "Uzlaşma komisyonlarının teşkili ve çalışma esasları",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre Gümrük ve Dış Ticaret Bölge Müdürlüğü Uzlaşma Komisyonu kaç üyeden oluşur ve komisyona kim başkanlık eder?",
+     "cevap": "Başkan dahil üç üyeden oluşur; Bölge Müdürü veya belirleyeceği Bölge Müdür Yardımcısı başkanlık eder.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 7/2",
+     "kanit": "Bölge Müdürü tarafından belirlenen, Başkan dâhil, üç üyeden oluşur. Bölge Müdürü veya belirleyeceği Bölge Müdür Yardımcısı komisyonlara başkanlık eder."
+    },
+    {
+     "alt_konu": "Uzlaşma komisyonlarının teşkili ve çalışma esasları",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre Merkezi Uzlaşma Komisyonlarına kim başkanlık eder?",
+     "cevap": "Bakan Yardımcısı veya Gümrükler Genel Müdürü başkanlık eder.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 7/3",
+     "kanit": "Komisyonlara, Bakan Yardımcısı veya Gümrükler Genel Müdürü başkanlık eder."
+    },
+    {
+     "alt_konu": "Uzlaşma komisyonlarının teşkili ve çalışma esasları",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre bölge müdürlüklerinde aynı gün yapılacak uzlaşma görüşmesi sayısı kaç veya üzerinde olursa birden fazla uzlaşma komisyonu oluşturulabilir?",
+     "cevap": "Yirmi veya üzerinde olması halinde en fazla iki uzlaşma komisyonu oluşturulabilir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 7/6",
+     "kanit": "aynı gün yapılacak uzlaşma görüşmesi sayısının yirmi veya üzerinde olması halinde, en fazla iki adet uzlaşma komisyonu oluşturulabilir."
+    },
+    {
+     "alt_konu": "Uzlaşma komisyonlarının teşkili ve çalışma esasları",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma komisyonları hangi tutarın altındaki uzlaşma talepleri için toplanamaz?",
+     "cevap": "10.000 TL'den az olan uzlaşma talepleri için toplanamaz; birden fazla yükümlünün başvurularının toplamı 10.000 TL'yi aşarsa bu talepler tek bir komisyonca sonuçlandırılabilir. Ancak bölge müdürlüklerine yapılan talepler üç ay içinde 10.000 TL'ye ulaşmazsa mevcut talepler takip eden ay içinde sonuçlandırılır; tam muafiyetle geçici ithal edilen kişisel kullanıma mahsus taşıtlara ilişkin ihlalin çıkışta tespiti üzerine düzenlenen ceza kararlarında ise bu sınır uygulanmaz ve talep derhal sonuçlandırılır.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 7/7, 7/8, 18/2",
+     "kanit": "10.000 TL'den az olan uzlaşma talepleri için toplanamaz. ... Bölge Müdürlüklerine yapılan uzlaşma taleplerinin üç ay içerisinde 10.000 TL'ye ulaşmaması halinde, takip eden ay içinde mevcut uzlaşma talepleri sonuçlandırılır. ... uzlaşma talebinde bulunulması durumunda yedinci fıkra hükmü uygulanmaz. Yükümlünün uzlaşma talebi derhal sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Uzlaşmanın kesinliği ve sonuçları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük uzlaşma komisyonlarının çalışmaları hakkında hangi ilke geçerlidir?",
+     "cevap": "Komisyon çalışmaları gizlidir.",
+     "dayanak": "GK md. 244/4; Gümrük Uzlaşma Yön. md. 21/4",
+     "kanit": "Gümrük uzlaşma komisyonlarının çalışmaları gizlidir."
+    },
+    {
+     "alt_konu": "Uzlaşmanın kesinliği ve sonuçları",
+     "soru": "4458 sayılı Gümrük Kanununa göre uzlaşma tutanaklarının hukuki niteliği nedir; yükümlü üzerinde uzlaşılan hususlar hakkında dava açabilir mi?",
+     "cevap": "Tutanaklar kesindir ve gereği idarece derhal yerine getirilir; yükümlü veya ceza muhatabı uzlaşılan hususlar hakkında dava açamaz ve hiçbir mercie şikâyette bulunamaz.",
+     "dayanak": "GK md. 244/4",
+     "kanit": "Uzlaşma tutanakları kesin olup gereği idarece derhal yerine getirilir. Vergi yükümlüsü veya ceza muhatabı, üzerinde uzlaşılan ve tutanakla tespit olunan hususlar hakkında dava açamaz"
+    },
+    {
+     "alt_konu": "Uzlaşmanın kesinliği ve sonuçları",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşılan alacaklar için geri verme veya kaldırma talebinde bulunulabilir mi?",
+     "cevap": "Hayır; uzlaşılan hususlar dahil komisyon çalışmaları hakkında dava açılamaz, şikâyet veya itirazda bulunulamaz ve geri verme-kaldırma talebinde bulunulamaz.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 21/3",
+     "kanit": "herhangi bir idari inceleme, araştırma ve soruşturmaya konu edilemez, geri verme ve kaldırma talebinde bulunulamaz."
+    },
+    {
+     "alt_konu": "Uzlaşılan tutarların ödenmesi, faiz ve peşin ödeme indirimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre uzlaşılan gümrük vergileri ve cezalar hangi süre içinde ödenir?",
+     "cevap": "Uzlaşma tutanağının tebliğinden itibaren bir ay içinde ödenir.",
+     "dayanak": "GK md. 244/5; Gümrük Uzlaşma Yön. md. 24/1",
+     "kanit": "Uzlaşılan gümrük vergileri ve cezalar, uzlaşma tutanağının tebliğinden itibaren bir ay içinde ödenir."
+    },
+    {
+     "alt_konu": "Uzlaşılan tutarların ödenmesi, faiz ve peşin ödeme indirimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre uzlaşılan vergilere hangi süre için ve hangi oranda gecikme faizi uygulanır?",
+     "cevap": "Gümrük yükümlülüğünün başladığı tarihten uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için, 6183 sayılı Kanuna göre belirlenen gecikme zammı oranında uygulanır.",
+     "dayanak": "GK md. 244/5; Gümrük Uzlaşma Yön. md. 24/3",
+     "kanit": "Uzlaşılan vergilere ilişkin gümrük yükümlülüğünün başladığı tarihten uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için 6183 sayılı Kanun hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi uygulanır."
+    },
+    {
+     "alt_konu": "Uzlaşılan tutarların ödenmesi, faiz ve peşin ödeme indirimi",
+     "soru": "4458 sayılı Gümrük Kanununa göre üzerinde uzlaşılan cezalar için Kabahatler Kanunundaki peşin ödeme indiriminden yararlanılabilir mi?",
+     "cevap": "Hayır; uzlaşılan cezalar hakkında ayrıca peşin ödeme indiriminden yararlanılamaz.",
+     "dayanak": "GK md. 244/6; Gümrük Uzlaşma Yön. md. 23",
+     "kanit": "Bu madde uyarınca üzerinde uzlaşılan cezalar hakkında 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 17 nci maddesi uyarınca ayrıca peşin ödeme indiriminden yararlanılamaz."
+    },
+    {
+     "alt_konu": "Uzlaşmanın vaki olmaması ve temin edilememesi kavramları",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre 'uzlaşmanın temin edilememesi' hangi durumları ifade eder?",
+     "cevap": "Yükümlünün komisyon davetine katılmaması, komisyona geldiği halde uzlaşma tutanağını imzalamaması veya tutanağı ihtirazi kayıtla imzalamak istemesi durumlarını ifade eder.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 3/1-g",
+     "kanit": "Uzlaşmanın temin edilememesi: Yükümlünün uzlaşma komisyonunun davetine katılmaması, komisyona geldiği halde uzlaşma tutanağını imzalamaması veya tutanağı ihtirazi kayıtla imzalamak istemesi durumunu,"
+    },
+    {
+     "alt_konu": "Uzlaşmanın vaki olmaması ve temin edilememesi kavramları",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre 'uzlaşmanın vaki olmaması' ne anlama gelir?",
+     "cevap": "Uzlaşma komisyonu teklifinin yükümlü tarafından kabul edilmediği durumu ifade eder.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 3/1-ğ",
+     "kanit": "Uzlaşmanın vaki olmaması: Uzlaşma komisyonu teklifinin yükümlü tarafından kabul edilmediği durumu,"
+    },
+    {
+     "alt_konu": "Komisyonların yetki limitleri ve tutar tespiti",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre hangi tutara kadar olan uzlaşma başvurularında Bölge Müdürlüğü Uzlaşma Komisyonları, bu tutarı aşanlarda Merkezi Uzlaşma Komisyonları yetkilidir?",
+     "cevap": "7.000.000 TL'ye kadar olanlar (bu tutar dahil) için Bölge Müdürlüğü Uzlaşma Komisyonları, aşanlar için Merkezi Uzlaşma Komisyonları yetkilidir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 9/1",
+     "kanit": "konusu 7.000.000.- TL'ye[13] kadar olanlar (bu tutar dâhil) için Gümrük ve Dış Ticaret[14] Bölge Müdürlüğü Uzlaşma Komisyonları"
+    },
+    {
+     "alt_konu": "Komisyonların yetki limitleri ve tutar tespiti",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma komisyonlarının yetki alanına ilişkin tutarın tespitinde fer'i alacaklar dikkate alınır mı?",
+     "cevap": "Hayır, fer'i alacaklar dikkate alınmaz.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 9/5",
+     "kanit": "Birinci fıkrada belirtilen tutarların tespitinde fer'i alacaklar dikkate alınmaz."
+    },
+    {
+     "alt_konu": "Komisyonların yetki limitleri ve tutar tespiti",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre aynı nitelikteki alacakların birden fazla bölge müdürlüğüne bağlı gümrük müdürlüklerine ilişkin olması halinde uzlaşma talepleri hangi komisyonca sonuçlandırılır?",
+     "cevap": "Merkezi komisyonların yetkisine giren alt tutarı aşmamak kaydıyla, uzlaşmaya esas alacak tutarının en çok olduğu bölge müdürlüğünde oluşturulacak komisyonca sonuçlandırılır.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 9/2",
+     "kanit": "uzlaşmaya esas alacak tutarının en çok olduğu Gümrük ve Dış Ticaret"
+    },
+    {
+     "alt_konu": "Başvurunun şekli ve başvurabilecek kişiler",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre iştirak sebebiyle ceza uygulananlardan yalnızca bir kısmının başvurup uzlaşması halinde uzlaşma kimler için hüküm ifade eder?",
+     "cevap": "Sadece başvuruda bulunanlar için hüküm ifade eder.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 10/2",
+     "kanit": "uzlaşma, sadece başvuruda bulunanlar için hüküm ifade eder."
+    },
+    {
+     "alt_konu": "Başvurunun şekli ve başvurabilecek kişiler",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre gümrük müşaviri hangi şartla yükümlü adına uzlaşma talebinde bulunabilir?",
+     "cevap": "Özel vekâletname verilmesi şartıyla; ayrıca aynı vergilerden yükümlü ile müştereken ve müteselsilen sorumlu olduğu hallerde kendisi de talepte bulunabilir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 12/1",
+     "kanit": "Yükümlünün kendisi, temsilcisi veya özel vekâletname verilmesi şartıyla gümrük müşaviri"
+    },
+    {
+     "alt_konu": "Usul yönünden inceleme",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre başvuru süresinin sonunda yapılan ve giderilebilir nitelikte usul eksikliği bulunan uzlaşma başvurusuna ne kadar ek süre verilir?",
+     "cevap": "Üç iş günü ek süre verilir; sürenin sonunda eksiklik tamamlanmazsa talep reddedilir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 13/2",
+     "kanit": "Başvuru süresinin sonunda uzlaşma başvurusunda bulunulmuş olması ve usule ilişkin eksikliklerin giderilebilir nitelikte olması halinde üç iş günü ek süre verilir."
+    },
+    {
+     "alt_konu": "Usul yönünden inceleme",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma talebinin kabul edilmemesine ilişkin idari işleme karşı hangi yollara başvurulabilir?",
+     "cevap": "İtiraz veya yargı yoluna açıktır ve genel usullere göre dava konusu edilebilir (uzlaşılan hususlar ise dava konusu yapılamaz).",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 13/3",
+     "kanit": "Uzlaşma talebinin kabul edilmemesine ilişkin idari işlem itiraz veya yargı yoluna açık olup genel usullere göre dava konusu edilebilir."
+    },
+    {
+     "alt_konu": "Uzlaşma başvurusundan feragat ve müteselsil sorumlularda uzlaşma",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre yükümlü uzlaşma başvurusundan hangi aşamaya kadar feragat edebilir?",
+     "cevap": "Kendisine uzlaşma davetiyesi tebliğ edilmeden önce, sekretarya birimine dilekçeyle başvurarak feragat edebilir; feragat halinde aynı alacak için tekrar uzlaşma talep edilemez.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 14/2",
+     "kanit": "kendisine uzlaşma davetiyesi yazısı tebliğ edilmeden önce, uzlaşmaya yetkili komisyonların sekretarya hizmetlerini yürütmekle görevli birimine, bir dilekçe ile başvurarak uzlaşma başvurusundan feragat edebilir."
+    },
+    {
+     "alt_konu": "Uzlaşma başvurusundan feragat ve müteselsil sorumlularda uzlaşma",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre yükümlü ile gümrük müşavirinin aynı vergilerden müteselsilen sorumlu olduğu durumda biri uzlaşma, diğeri itiraz başvurusunda bulunursa itiraz ne zaman değerlendirilir?",
+     "cevap": "İtiraz, uzlaşma talebi sonuçlandıktan sonra değerlendirmeye alınır.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 14/4; Tahsilat Tebliği md. 12/2",
+     "kanit": "itiraz başvurusunda bulunan tarafın talebi uzlaşma talebi sonuçlandıktan sonra değerlendirmeye alınır."
+    },
+    {
+     "alt_konu": "Uzlaşma görüşmeleri, davetiye, nihai teklif ve erteleme",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma komisyonu toplantılarına yükümlü dahil en fazla kaç kişi katılabilir?",
+     "cevap": "Üç kişi; yükümlü dahil katılacak kişi sayısı üçü geçemez.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 15/3",
+     "kanit": "Uzlaşma komisyonlarına, yükümlü dâhil, katılacak kişi sayısı üçü geçemez."
+    },
+    {
+     "alt_konu": "Uzlaşma görüşmeleri, davetiye, nihai teklif ve erteleme",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma davetiyesi yükümlüye görüşme gününden en az kaç gün önce tebliğ edilir?",
+     "cevap": "En az beş gün önce tebliğ edilir; yükümlü isterse beş günlük süreye bağlı kalınmadan daha önceki bir tarih belirlenebilir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 16/1",
+     "kanit": "EK-4'e uygun düzenlenen uzlaşma davetiyesi ile en az beş gün önceden yazıyla"
+    },
+    {
+     "alt_konu": "Uzlaşma görüşmeleri, davetiye, nihai teklif ve erteleme",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşmanın vaki olmaması halinde yükümlü komisyonun nihai teklifini en geç ne zamana kadar kabul edebilir?",
+     "cevap": "İtiraz süresinin son günü mesai saati bitimine kadar dilekçeyle bildirirse bu tarih itibarıyla uzlaşma vaki olmuş sayılır.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 16/6",
+     "kanit": "Kanunun 242 nci maddesinde belirtilen sürenin son günü mesai saati bitimine kadar komisyonun nihai teklifini kabul ettiğini bir dilekçe ile ... bu tarih itibarıyla uzlaşma vaki olmuş sayılır"
+    },
+    {
+     "alt_konu": "Uzlaşma işlemlerinin süresi",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşma talebinin, dilekçenin komisyon kayıtlarına girdiği tarihten itibaren azami ne kadar sürede sonuçlandırılması esastır?",
+     "cevap": "Azami 45 gün içinde; ayrıntılı inceleme veya araştırma gerektiğinde bu süre aşılabilir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 18/1",
+     "kanit": "kayıtlarına girdiği tarihten itibaren azami 45 gün içinde sonuçlandırılması esastır."
+    },
+    {
+     "alt_konu": "İtiraz ve uzlaşma hakkının aynı anda kullanılmaması",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre uzlaşmaya konu edilen alacaklar hangi hallerde itiraza konu olabilir?",
+     "cevap": "Uzlaşma başvurusundan feragat edilmesi, uzlaşma talebinin reddedilmesi, uzlaşmanın vaki olmaması veya temin edilememesi hallerinde itiraza konu olabilir; itiraz ve uzlaşma hakkı aynı anda kullanılamaz.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 25/1",
+     "kanit": "Uzlaşmaya konu edilen alacaklar, uzlaşma başvurusundan feragat edilmesi, uzlaşma talebinin reddedilmesi, uzlaşmanın vaki olmaması veya temin edilememesi halinde"
+    },
+    {
+     "alt_konu": "Teminat karşılığı eşyanın teslimi",
+     "soru": "Gümrük Uzlaşma Yönetmeliğine göre gümrüklü yer ve sahalarda bulunan eşyaya ilişkin alacaklar için uzlaşma talep edilmesi halinde eşya yükümlüsüne teslim edilebilir mi?",
+     "cevap": "Ayrıca talep edilmesi şartıyla tahakkuk eden alacaklar teminata bağlanarak eşya teslim edilebilir; uzlaşma vaki olursa uzlaşılan tutar teminattan mahsup edilir.",
+     "dayanak": "Gümrük Uzlaşma Yön. md. 26/1-2",
+     "kanit": "ayrıca talep edilmesi şartıyla, tahakkuk eden alacaklar teminata bağlanarak eşya yükümlüsüne teslim edilebilir."
+    }
+   ]
+  },
+  {
+   "kaynak": "51-disiplin cezaları.txt",
+   "konu": "Gümrük müşavirleri ve yardımcılarının disiplin cezaları, sınavlar, izin belgesinin tedbiren alınması ve asgari ücret tarifesi (Disiplin)",
+   "mevzuat": "GK geçici md. 6; Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ (30.12.2015 tarihli ve 29578 sayılı R.G.) md. 1-5/A",
+   "cikmis_sayisi": 10,
+   "cikmis": [
+    "2021-86: Asgari ücret tarifesinde SDŞ, DTSŞ, OKSB, YYS sahiplerinin ihracat işlemlerinde genel indirim oranı (sınav tarihinde %30; metinde güncel %20).",
+    "2022-64: Mevzuata aykırı GM/GMY izin belgeleri tedbiren en fazla altı ay geçici olarak alınabilir.",
+    "2023-24: Disiplin cezaları (adli kovuşturma hariç) aykırılığın tespitinden itibaren üç yıl uygulanmazsa zamanaşımına uğrar.",
+    "2023-25: Kaçakçılıktan mahkûmiyeti kesinleşen meslek mensubuna meslekten çıkarma cezası verilir.",
+    "2023-27: Disiplin cezaları uyarma, kınama, geçici alıkoyma, meslekten çıkarmadır; izin belgesinin tedbiren alınması ceza değildir.",
+    "2023-28: Geçici olarak mesleki faaliyetten alıkoyma altı aydan az, bir yıldan çok olamaz.",
+    "2023-94: GM ve GMY sınavlarına en fazla üçer kez girilebilir.",
+    "2024-87: Disiplin cezaları kesinleşme tarihinden itibaren uygulanır.",
+    "2024-89: Kınama: meslek mensubuna görev ve davranışında kusurlu sayıldığının yazıyla bildirilmesidir.",
+    "2024-90: Meslekten çıkarma cezasını Yüksek Disiplin Kurulu verir."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Gümrük müşavirliği ve yardımcılığı sınavları",
+     "dayanak": "GK geçici md. 6/1",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-94"
+     ],
+     "not": "Sorulan: sınavlara en fazla üçer kez girilebilmesi. Sorulmayan: sınavların yılda bir kez yapılması, koşulların sınavın açıldığı yıl başında sağlanması."
+    },
+    {
+     "baslik": "Disiplin cezalarının türleri ve tanımları",
+     "dayanak": "GK geçici md. 6/2",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-27",
+      "2023-28",
+      "2024-89"
+     ],
+     "not": "Sorulan: ceza türleri, kınama tanımı, geçici alıkoyma süreleri. Sorulmayan: uyarma ve meslekten çıkarma tanımları."
+    },
+    {
+     "baslik": "Disiplin cezası gerektiren fiiller",
+     "dayanak": "GK geçici md. 6/3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-25"
+     ],
+     "not": "Sorulan: kaçakçılıktan mahkûmiyet halinde meslekten çıkarma. Sorulmayan: ilk defa uyarma/tekrarında kınama, bağımsızlık-tarafsızlık ihlalinde alıkoyma, sahte belge halinde kınama."
+    },
+    {
+     "baslik": "Tekerrür ve cezanın derecelendirilmesi",
+     "dayanak": "GK geçici md. 6/4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Savunma hakkı",
+     "dayanak": "GK geçici md. 6/5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-87"
+     ],
+     "not": "Sorulan: cezaların kesinleşme tarihinden itibaren uygulanması. Sorulmayan: savunma alınmadan ceza verilememesi ve savunma süresi."
+    },
+    {
+     "baslik": "Görev suçlarında cezai sorumluluk",
+     "dayanak": "GK geçici md. 6/6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Disiplin cezalarında zamanaşımı",
+     "dayanak": "GK geçici md. 6/7",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-24"
+     ],
+     "not": "Sorulan: tespit tarihinden itibaren üç yıllık zamanaşımı. Sorulmayan: adli kovuşturma konusu fiillerde TCK zamanaşımı."
+    },
+    {
+     "baslik": "Disiplin cezası vermeye yetkili merciler",
+     "dayanak": "GK geçici md. 6/8",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-90"
+     ],
+     "not": "Sorulan: meslekten çıkarmayı Yüksek Disiplin Kurulunun vermesi. Sorulmayan: uyarma-kınama ve geçici alıkoyma cezalarını veren merciler."
+    },
+    {
+     "baslik": "İzin belgesinin tedbiren geri alınması",
+     "dayanak": "GK geçici md. 6/9",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-64"
+     ],
+     "not": "Sorulan: tedbiren en fazla altı ay süreyle alınması. Sorulmayan: tedbiri uygulayabilecek makamlar, Bakanlığa bildirim, mahsup, 3713 sayılı Kanun kapsamındaki kovuşturma."
+    },
+    {
+     "baslik": "Asgari ücret tarifesinin belirlenmesi ve uygulama esasları",
+     "dayanak": "GK geçici md. 6/10; Asgari Ücret Tarifesi Tebliği md. 4-5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-86"
+     ],
+     "not": "Sorulan: SDŞ, DTSŞ ve YYS sahiplerinin ihracat işlemlerinde genel indirim oranı. Sorulmayan: tarifenin belirlenip onaylanması, özellik arz eden ihracat işlemlerinde indirim, beyanname sayısına bağlı indirimler, tarife altı hizmetin yaptırımı."
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Gümrük müşavirliği ve yardımcılığı sınavları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük müşavirliği ve gümrük müşavir yardımcılığı sınavları hangi sıklıkla yapılır?",
+     "cevap": "Müsteşarlıkça (Bakanlıkça) belirlenen usul ve esaslar çerçevesinde her yıl bir kez yapılır.",
+     "dayanak": "GK geçici md. 6/1-a",
+     "kanit": "Gümrük müşavirliği ve gümrük müşavir yardımcılığı sınavları Müsteşarlıkça belirlenen usul ve esaslar çerçevesinde her yıl bir kez yapılır."
+    },
+    {
+     "alt_konu": "Gümrük müşavirliği ve yardımcılığı sınavları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük müşavirliği veya yardımcılığı sınavına müracaat edebilmek için Kanunda öngörülen koşulların hangi tarihte sağlanmış olması gerekir?",
+     "cevap": "Sınavın açıldığı yıl başında sağlanmış olması gerekir.",
+     "dayanak": "GK geçici md. 6/1-b",
+     "kanit": "koşulları sınavın açıldığı yıl başında sağlamış olanlar, o yıl açılan gümrük müşavirliği veya gümrük müşavir yardımcılığı sınavlarına müracaat edebilirler."
+    },
+    {
+     "alt_konu": "Disiplin cezalarının türleri ve tanımları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük müşavirleri için öngörülen 'uyarma' disiplin cezası nasıl tanımlanmıştır?",
+     "cevap": "Meslek mensubuna mesleğinin icrasında daha dikkatli davranması gerektiğinin yazı ile bildirilmesidir.",
+     "dayanak": "GK geçici md. 6/2-a",
+     "kanit": "Uyarma: Meslek mensubuna mesleğinin icrasında daha dikkatli davranması gerektiğinin yazı ile bildirilmesidir."
+    },
+    {
+     "alt_konu": "Disiplin cezalarının türleri ve tanımları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük müşavirleri için öngörülen 'meslekten çıkarma' disiplin cezası nasıl tanımlanmıştır?",
+     "cevap": "Meslek mensubunun izin belgesinin geri alınarak bir daha bu mesleği icra etmesine izin verilmemesidir.",
+     "dayanak": "GK geçici md. 6/2-d",
+     "kanit": "Meslekten çıkarma: Meslek mensubunun izin belgesinin geri alınarak, bir daha bu mesleği icra etmesine izin verilmemesidir."
+    },
+    {
+     "alt_konu": "Disiplin cezası gerektiren fiiller",
+     "soru": "4458 sayılı Gümrük Kanununa göre mesleki kurallara, mesleğin vakar ve onuruna aykırı fiil ve harekette bulunan meslek mensubuna hangi disiplin cezaları uygulanır?",
+     "cevap": "İlk defasında uyarma, tekrarında kınama cezası uygulanır.",
+     "dayanak": "GK geçici md. 6/3",
+     "kanit": "görevin gerektirdiği güveni sarsıcı harekette bulunan meslek mensupları hakkında, ilk defasında uyarma, tekrarında ise kınama cezası uygulanır."
+    },
+    {
+     "alt_konu": "Disiplin cezası gerektiren fiiller",
+     "soru": "4458 sayılı Gümrük Kanununa göre görevini bağımsızlık, tarafsızlık ve dürüstlükle yapmayan veya mesleğin genel prensiplerine aykırı harekette bulunan meslek mensubuna hangi disiplin cezası uygulanır?",
+     "cevap": "Geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır.",
+     "dayanak": "GK geçici md. 6/3",
+     "kanit": "mesleğin genel prensiplerine aykırı harekette bulunan meslek mensupları için geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır."
+    },
+    {
+     "alt_konu": "Disiplin cezası gerektiren fiiller",
+     "soru": "4458 sayılı Gümrük Kanununa göre sahte belgelere dayanılarak yapılan yanlış beyanın gümrük müşavirinin bilgisi dışında olduğu, ancak araştırmayla gerçek durumun öğrenilebileceğinin merkez denetim elemanlarınca rapora bağlandığı durumda müşavire hangi ceza verilir?",
+     "cevap": "İlk defasında kınama cezası verilir; tekerrüründe geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır.",
+     "dayanak": "GK geçici md. 6/3",
+     "kanit": "ilgili gümrük müşavirine ilk defasında kınama cezası verilir. Bu hususun tekerrür etmesi halinde geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır."
+    },
+    {
+     "alt_konu": "Tekerrür ve cezanın derecelendirilmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre beş yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma cezası alan meslek mensubu bu cezayı gerektiren fiili yeniden işlerse hangi ceza uygulanır?",
+     "cevap": "Meslekten çıkarma cezası uygulanır.",
+     "dayanak": "GK geçici md. 6/4",
+     "kanit": "Beş yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma cezası ile cezalandırılmasından sonra bu cezayı gerektiren fiili yeniden işleyen meslek mensupları hakkında meslekten çıkarma cezası uygulanır."
+    },
+    {
+     "alt_konu": "Tekerrür ve cezanın derecelendirilmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre disiplin kurulları Kanunda öngörülen disiplin cezasından farklı bir ceza uygulayabilir mi?",
+     "cevap": "Evet; bir derece ağır veya bir derece hafif disiplin cezasının uygulanmasına karar verebilirler.",
+     "dayanak": "GK geçici md. 6/4",
+     "kanit": "Disiplin kurulları bir derece ağır veya bir derece hafif disiplin cezasının uygulanmasına karar verebilirler."
+    },
+    {
+     "alt_konu": "Savunma hakkı",
+     "soru": "4458 sayılı Gümrük Kanununa göre meslek mensubuna savunma için verilecek süre en az ne kadardır ve bu süre içinde savunma yapmayanlar hakkında ne kabul edilir?",
+     "cevap": "Savunma alınmadan disiplin cezası verilemez; yetkili kurulun on günden az olmamak üzere verdiği süre içinde savunma yapmayanlar savunma hakkından vazgeçmiş sayılır.",
+     "dayanak": "GK geçici md. 6/5",
+     "kanit": "Yetkili disiplin kurulunun on günden az olmamak üzere verdiği süre içinde savunma yapmayanlar, savunma hakkından vazgeçmiş sayılırlar."
+    },
+    {
+     "alt_konu": "Görev suçlarında cezai sorumluluk",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük müşavirleri ve yardımcıları görevleri sırasında veya görevleri sebebiyle işledikleri suçlardan dolayı hangi hükümlere göre cezalandırılır?",
+     "cevap": "Fiillerinin niteliğine göre Türk Ceza Kanununun Devlet memurlarına ait hükümleri uyarınca cezalandırılır.",
+     "dayanak": "GK geçici md. 6/6",
+     "kanit": "fiillerinin niteliğine göre Türk Ceza Kanununun Devlet memurlarına ait hükümleri uyarınca cezalandırılır."
+    },
+    {
+     "alt_konu": "Disiplin cezalarında zamanaşımı",
+     "soru": "4458 sayılı Gümrük Kanununa göre mevzuata aykırı işlem ve eylemlerin aynı zamanda adli kovuşturma konusu olması halinde disiplin cezası hangi zamanaşımı hükümlerine göre verilebilir?",
+     "cevap": "Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre verilebilir (diğer hallerde tespitten itibaren üç yıl).",
+     "dayanak": "GK geçici md. 6/7",
+     "kanit": "bu aykırılık için Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre disiplin cezası verilebilir."
+    },
+    {
+     "alt_konu": "Disiplin cezası vermeye yetkili merciler",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük müşavirlerine uyarma ve kınama cezalarını hangi merci verir?",
+     "cevap": "Yetkili gümrük başmüdürü verir.",
+     "dayanak": "GK geçici md. 6/8",
+     "kanit": "2 numaralı bentte belirtilen uyarma ve kınama cezası yetkili gümrük başmüdürü"
+    },
+    {
+     "alt_konu": "Disiplin cezası vermeye yetkili merciler",
+     "soru": "4458 sayılı Gümrük Kanununa göre geçici olarak mesleki faaliyetten alıkoyma cezasını hangi merci verir?",
+     "cevap": "Müsteşarlık Merkez Disiplin Kurulu verir (meslekten çıkarmayı Yüksek Disiplin Kurulu verir).",
+     "dayanak": "GK geçici md. 6/8",
+     "kanit": "geçici olarak mesleki faaliyetten alıkoyma cezası Müsteşarlık Merkez Disiplin Kurulu"
+    },
+    {
+     "alt_konu": "İzin belgesinin tedbiren geri alınması",
+     "soru": "4458 sayılı Gümrük Kanununa göre mevzuata aykırı hareketleri görülen gümrük müşavirlerinin izin belgelerini tedbir mahiyetinde geçici olarak kimler alabilir?",
+     "cevap": "Bakanlık müfettişleri ve gümrük ve dış ticaret bölge müdürleri alabilir; durum gerekçesiyle birlikte belgenin alınmasını izleyen günde Bakanlığa bildirilir.",
+     "dayanak": "GK geçici md. 6/9",
+     "kanit": "izin belgeleri Bakanlık müfettişleri ve gümrük ve dış ticaret bölge müdürleri tarafından gerek görülmesi hâlinde tedbir mahiyetinde"
+    },
+    {
+     "alt_konu": "İzin belgesinin tedbiren geri alınması",
+     "soru": "4458 sayılı Gümrük Kanununa göre izin belgesi tedbiren alınan meslek mensubuna sonradan geçici mesleki faaliyetten alıkoyma cezası verilirse tedbir süresi nasıl değerlendirilir?",
+     "cevap": "Tedbir mahiyetinde izin belgelerinin alındığı süre verilen cezadan mahsup edilir.",
+     "dayanak": "GK geçici md. 6/9",
+     "kanit": "tedbir mahiyetinde izin belgelerinin alındığı süre verilen cezadan mahsup edilir."
+    },
+    {
+     "alt_konu": "İzin belgesinin tedbiren geri alınması",
+     "soru": "4458 sayılı Gümrük Kanununa göre 3713 sayılı Kanun kapsamında haklarında kovuşturma başlatılan gümrük müşavirlerinin izin belgeleri ne kadar süreyle tedbiren geri alınır?",
+     "cevap": "Kovuşturma sonuçlanıncaya kadar tedbiren geri alınır (genel tedbirdeki en fazla altı ay sınırı uygulanmaz).",
+     "dayanak": "GK geçici md. 6/9",
+     "kanit": "3713 sayılı Kanun kapsamında haklarında kovuşturma başlatılanların izin belgeleri kovuşturma sonuçlanıncaya kadar tedbiren geri alınır."
+    },
+    {
+     "alt_konu": "Asgari ücret tarifesinin belirlenmesi ve uygulama esasları",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük müşavirlerinin asgari ücretlerini gösteren Asgari Ücret Tarifesi kim tarafından belirlenir ve nasıl uygulamaya konulur?",
+     "cevap": "Gümrük müşavir derneklerince takvim yılı bazında belirlenir ve Müsteşarlıkça (Bakanlıkça) uygun görülerek onaylanmak suretiyle uygulamaya konulur.",
+     "dayanak": "GK geçici md. 6/10",
+     "kanit": "Gümrük müşavir derneklerince, gümrük müşavirlerinin yapacakları iş ve işlemler karşılığı ... takvim yılı bazında belirlenen Asgari Ücret Tarifesi, Müsteşarlıkça uygun görülerek onaylanmak suretiyle uygulamaya konulur."
+    },
+    {
+     "alt_konu": "Asgari ücret tarifesinin belirlenmesi ve uygulama esasları",
+     "soru": "Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğe göre tarife tablosunda 'Özellik Arz Eden İşlemler' başlığı altındaki iş ve işlemlerin ihracata ilişkin olması halinde ücretlere ne kadar indirim uygulanabilir?",
+     "cevap": "Ücretler yarısı oranında indirim yapılarak uygulanabilir.",
+     "dayanak": "Asgari Ücret Tarifesi Tebliği md. 5/1-a",
+     "kanit": "iş ve işlemlerin ihracata ilişkin olması durumunda ücretler yarısı oranında indirim yapılarak uygulanabilir."
+    },
+    {
+     "alt_konu": "Asgari ücret tarifesinin belirlenmesi ve uygulama esasları",
+     "soru": "Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğe göre aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla, sektörel dış ticaret firması, dış ticaret sermaye şirketi ve YYS sahibi firmaların bir takvim yılında ihracat beyanname sayısı 1.000'i ve 2.500'ü aştığında sonraki beyannamelere hangi indirim oranları uygulanabilir?",
+     "cevap": "1.000'i aştığında yüzde 35, 2.500'ü aştığında yüzde 50 oranında indirim uygulanabilir.",
+     "dayanak": "Asgari Ücret Tarifesi Tebliği md. 5/1-c-1",
+     "kanit": "beyanname sayısı 1.000'i aştığında bundan sonraki beyannameler için % 35 oranında; beyanname sayısı 2.500'ü aştığında bundan sonraki beyannameler için % 50 oranında indirim uygulanabilir."
+    },
+    {
+     "alt_konu": "Asgari ücret tarifesinin belirlenmesi ve uygulama esasları",
+     "soru": "Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğe göre Asgari Ücret Tarifesi altında hizmet veren gümrük müşavirleri hakkında hangi yaptırım uygulanır?",
+     "cevap": "Disiplin hükümleri saklı kalmak kaydıyla, her beyanname itibarıyla işlemi yapan gümrük müşavirine ve yükümlülere ayrı ayrı temel (bir kat) usulsüzlük cezası uygulanır.",
+     "dayanak": "Asgari Ücret Tarifesi Tebliği md. 5/1-g",
+     "kanit": "her beyanname itibarıyla işlemi yapan gümrük müşavirine ve yükümlülere ayrı ayrı olmak üzere Gümrük Kanununun 241 inci maddesinin birinci fıkrası uygulanır."
+    }
+   ]
+  }
+ ]
+}

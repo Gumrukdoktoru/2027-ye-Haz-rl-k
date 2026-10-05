@@ -7,6 +7,8 @@ const notlar = JSON.parse(fs.readFileSync(path.join(__dirname, 'notlar.json')));
 const YIL = ['2021', '2022', '2023', '2024', '2025'];
 const TOP = D.reduce((a, x) => a + x.soru_cevap.length, 0);
 const st = (x, k) => x.st[k] || 0;
+const KISA = JSON.parse(fs.readFileSync(path.join(__dirname, 'kisa_adlar.json')));
+D.forEach(x => { x.uzun = x.konu; x.konu = KISA[x.kaynak] || x.konu; });
 const B = []; const add = (...e) => e.flat().forEach(z => B.push(z));
 
 add(h1('Karşılaştırma Özeti'));
@@ -29,7 +31,7 @@ add(p('Sorular açık uçludur; cevabı kapatıp kendinizi deneyin. Her cevabın
 D.forEach((x, i) => {
   if (!x.soru_cevap.length) return;
   add(h1(`${i + 1}. ${x.konu}`));
-  add(new Paragraph({ spacing: { after: 160 }, children: [new TextRun({ text: `${x.mevzuat} · Beş yılda ${x.refs.length} soru · ${x.soru_cevap.length} soru–cevap`, italics: true, color: GOLD, size: 19 })] }));
+  add(new Paragraph({ spacing: { after: 160 }, children: [new TextRun({ text: `${x.uzun} · ${x.mevzuat} · Beş yılda ${x.refs.length} soru · ${x.soru_cevap.length} soru–cevap`, italics: true, color: GOLD, size: 19 })] }));
   let son = null;
   x.soru_cevap.forEach(q => {
     if (q.alt_konu !== son) { add(h2(q.alt_konu)); son = q.alt_konu; }

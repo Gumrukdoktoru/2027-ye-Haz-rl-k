@@ -1,0 +1,1161 @@
+{
+ "grup": "G10",
+ "dosyalar": [
+  {
+   "kaynak": "32-DAHİLDE İŞLEME.txt",
+   "konu": "Dahilde İşleme Rejimi (şartlı muafiyet ve geri ödeme sistemleri; izin/izin belgesi, süreler, teminat, telafi edici vergi, taahhüt kapatma ve müeyyideler)",
+   "mevzuat": "GK md. 108-122; GY md. 349-369; Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 1-49",
+   "cikmis_sayisi": 21,
+   "cikmis": [
+    "2021-21: Şartlı muafiyet sistemi tanımı (vergileri teminata bağlanarak geçici ithal, işlem görmüş ürün olarak ihracında teminat iadesi)",
+    "2021-89: Telafi edici vergi tanımı (DİR'de elde edilen Türk menşeli eşyanın tercihli tarife için ödenen vergisi)",
+    "2022-46: Telafi edici vergi tanımı (şartlı muafiyet sistemi ürünü Türk menşeli eşya)",
+    "2022-62: Şartlı muafiyet düzenlemeleri arasında DİR şartlı muafiyet sistemi (hariçte işleme değil)",
+    "2022-97: DİR'in amaçları (ithalatçıyı desteklemek amaç değil) — kaynak dosyada doğrudan karşılığı yok",
+    "2023-55: Eşdeğer eşya tanımı (şıklarda değişmemiş eşya, işletme malzemesi, asıl/işlem görmüş ürün tanımları)",
+    "2023-56: Dahilde işleme iznini gümrük müdürlüğü verir",
+    "2023-65: Şartlı muafiyette vergiler tahsil edilmez, teminata bağlanır (şıklarda TPÖ uygulanmaması, geri ödeme, eşdeğer eşyanın birlikte kullanımı, önceden ihracat)",
+    "2023-99: Vergileri teminata bağlanarak işlenip yeniden ihraç amaçlı geçici ithalat dahilde işleme rejimidir",
+    "2024-30: DİR geri ödeme sistemi şartlı muafiyet düzenlemesi değildir",
+    "2024-50: DİR izni şartları; ticari nitelikte olmayan ithalatta TGB dışında yerleşiklere de izin verilebilir",
+    "2024-51: Teminatlı geçici ithal şartlı muafiyettir (şıklarda izin şartı, süre başlangıcı/ayın son günü, hariçte işleme amaçlı geçici ihraç, geri ödeme talebi)",
+    "2024-53: DİR Tebliğine göre ek süreye dayanak mücbir sebep ve fevkalade haller",
+    "2024-54: TEV ihracat beyannamesinin tescil tarihindeki kur ve oranlarla hesaplanır",
+    "2025-59: Dahilde işleme izni kapsamındaki işlem ve işçilikler (makarna üretimi değil)",
+    "2025-62: DİR uygulamaları şartlı muafiyet ve geri ödeme sistemleridir (standart değişim HİR'e ait)",
+    "2025-63: Tanımlar: işlem görmüş ürün, eşdeğer eşya, verimlilik oranı doğru; ikincil ürün ve geri ödeme tanımları hatalı",
+    "2025-64: Tebliğdeki şartlı muafiyet sistemi tanımı",
+    "2025-66: Kanuna göre dahilde işleme izninin verilme şartları",
+    "2025-67: Önceden ihracatta eşdeğer eşya karşılığı ithal eşyasının beyan süresinin başlangıcı (ihracat beyannamesinin tescil tarihi)",
+    "2025-71: İzin belgesini İhracat GM düzenler, şartlı muafiyette vergiler teminata bağlanır, DKO = CIF ithal/FOB ihraç (izin kapatma ihracatçı birliklerine yapılmaz)"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Şartlı muafiyet ve geri ödeme sistemleri",
+     "dayanak": "GK md. 108/1-2",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-21",
+      "2022-62",
+      "2023-65",
+      "2023-99",
+      "2024-30",
+      "2024-51",
+      "2025-62",
+      "2025-63"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "İşleme faaliyetleri ve temel tanımlar (işlem görmüş ürün, asıl/ikincil ürün, eşdeğer eşya, verimlilik oranı)",
+     "dayanak": "GK md. 108/3-8",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-55",
+      "2025-59",
+      "2025-63"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Eşdeğer eşya kullanımı ve önceden ihracat (Kanun)",
+     "dayanak": "GK md. 109",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-55",
+      "2023-65"
+     ],
+     "not": "Eşdeğer eşya tanımı ve önceden ihracat imkânı soruldu; aynı özellik/nitelik şartı ve istisnası, ithal–eşdeğer eşyanın karşılıklı değerlendirilmesi, ihracat vergisine tabi eşdeğer eşyada teminat sorulmadı."
+    },
+    {
+     "baslik": "Dahilde işleme izninin verilme şartları",
+     "dayanak": "GK md. 110",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-56",
+      "2024-50",
+      "2024-51",
+      "2025-66"
+     ],
+     "not": "İzin şartları, izni veren idare ve ticari nitelikte olmayan ithalatta TGB dışında yerleşiklere izin soruldu; ekonomik koşullara ilişkin halleri belirleme yetkisi (Cumhurbaşkanı) sorulmadı."
+    },
+    {
+     "baslik": "Rejim süreleri ve ek süre (Kanun)",
+     "dayanak": "GK md. 111",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-51",
+      "2025-67"
+     ],
+     "not": "Sürenin başlangıcı/ayın son günü (2024-51 şıkkı) ve önceden ihracatta beyan süresinin başlangıcı soruldu; ek süre gerekçesi, sürelerin Cumhurbaşkanı Kararıyla belirlenmesi ve önceden ihracatta süreyi belirleme yetkisi sorulmadı."
+    },
+    {
+     "baslik": "Verimlilik oranının belirlenmesi ve standart verimlilik oranları",
+     "dayanak": "GK md. 112",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-63"
+     ],
+     "not": "Verimlilik oranı tanımı soruldu; standart verimlilik oranlarının tespit esası sorulmadı."
+    },
+    {
+     "baslik": "Gümrük yükümlülüğünde vergilendirme esası ve tercihli tarife",
+     "dayanak": "GK md. 113-114",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İkincil ürünlerin ve şartlı muafiyete tabi tutulan işlem görmüş ürünlerin vergilendirilmesi",
+     "dayanak": "GK md. 115",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Türkiye Gümrük Bölgesi dışında işleme faaliyetleri",
+     "dayanak": "GK md. 116",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2024-51"
+     ],
+     "not": "Hariçte işleme amacıyla geçici ihraç imkânı 2024-51 şıkkında ölçüldü; yeniden ithalde vergilendirme yalnızca atıf hükmü olduğundan ayrıca çift yazılmadı."
+    },
+    {
+     "baslik": "Geri ödeme sisteminden yararlanamayacak eşya",
+     "dayanak": "GK md. 117",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geri ödeme sisteminde uygulanmayan hükümler ve hariçte işleme",
+     "dayanak": "GK md. 118-120",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geri ödeme talebi ve geri ödemeli eşyanın serbest dolaşıma girişi",
+     "dayanak": "GK md. 121",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-51"
+     ],
+     "not": "İhracın belgelendirilmesi halinde geri verme talebi soruldu; transit/antrepo/geçici ithalat/şartlı muafiyetli DİR'e tabi tutma ve serbest bölgeye koyma halleri ile serbest dolaşıma girişte vergi tutarı sorulmadı."
+    },
+    {
+     "baslik": "Şartlı muafiyette ihracat vergisine tabi eşdeğer eşyanın muafiyeti",
+     "dayanak": "GK md. 122",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yönetmelik tanımları: eşdeğer eşya, önceden ihracat, fire ve zayiat",
+     "dayanak": "GY md. 349",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-55",
+      "2023-65"
+     ],
+     "not": "Eşdeğer eşya ve önceden ihracat tanımları soruldu; fire ve zayiat tanımı sorulmadı (eşdeğer eşyada GTİP basamak şartı Tebliğ alt konusunda ele alındı)."
+    },
+    {
+     "baslik": "İzin verilmesine ilişkin ilave şartlar",
+     "dayanak": "GY md. 350",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşdeğer eşya kullanımının izin belgesindeki şartları",
+     "dayanak": "GY md. 351-352",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzin belgesinin süresi ve önceden ihracatta beyan süresi (Yönetmelik)",
+     "dayanak": "GY md. 353-354",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-51",
+      "2025-67"
+     ],
+     "not": "Sürenin başlangıcı/sonu ve önceden ihracatta beyan süresinin başlangıcı soruldu; sürenin uzatılabileceği haller sorulmadı."
+    },
+    {
+     "baslik": "İthal eşyası ve eşdeğer eşyanın gümrük statüsü",
+     "dayanak": "GY md. 355",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest dolaşıma girmiş sayılma ve işlem görmüş ürünlerin vergilendirilmesinde INF 1",
+     "dayanak": "GY md. 356-358",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İkincil işlem görmüş ürünlerin vergileri (Yönetmelik)",
+     "dayanak": "GY md. 359",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Verimlilik oranının hesaplanması: miktar ve kıymet ölçme yöntemleri",
+     "dayanak": "GY md. 360-362",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanımda vergi",
+     "dayanak": "GY md. 363",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Şartlı muafiyette belgelerde yer alacak kayıtlar",
+     "dayanak": "GY md. 364",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geri ödeme sisteminde serbest dolaşıma giriş ve belgelerdeki kayıtlar",
+     "dayanak": "GY md. 365-369",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tebliğin dayanağı",
+     "dayanak": "DİR Tebliği (2006/12) md. 1-2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tebliğ tanımları",
+     "dayanak": "DİR Tebliği (2006/12) md. 3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-55",
+      "2023-56",
+      "2025-71"
+     ],
+     "not": "Eşdeğer eşya, değişmemiş eşya, işletme malzemesi ve döviz kullanım oranı tanımları ile belge/izni düzenleyen makamlar soruldu; belge–izin arasındaki yurt içi alım farkı ve yan sanayici tanımı sorulmadı."
+    },
+    {
+     "baslik": "Dahilde işleme tedbirleri ve şartlı muafiyetin kapsamı",
+     "dayanak": "DİR Tebliği (2006/12) md. 4-5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-65",
+      "2025-62",
+      "2025-64"
+     ],
+     "not": "Tedbirlerin iki sistemden oluşması ve şartlı muafiyet tanımı soruldu; işletme malzemesi ithalatında KDV-ÖTV tahsili ve ticaret politikası önlemlerinin uygulanması sorulmadı."
+    },
+    {
+     "baslik": "Eşdeğer eşya kullanımı ve önceden ihracat (Tebliğ)",
+     "dayanak": "DİR Tebliği (2006/12) md. 6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-65"
+     ],
+     "not": "Eşdeğer eşyanın ithal eşyası ile birlikte kullanımı ve önceden ihracat imkânı soruldu; GTİP basamak şartı, önceden ihracata tekabül eden ithalatın süresi ve teminatı, ithal edilen eşyanın serbestçe kullanımı sorulmadı."
+    },
+    {
+     "baslik": "Yurt içi alımlar",
+     "dayanak": "DİR Tebliği (2006/12) md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teminat",
+     "dayanak": "DİR Tebliği (2006/12) md. 8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İndirimli teminat uygulaması",
+     "dayanak": "DİR Tebliği (2006/12) md. 9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Kaynak metinde madde başlığında 'değişik. Mülga' ibaresi eski metne bağlantı olarak yer alıyor; madde metni yürürlükteki (2018/1 ile değişik) hali olarak esas alındı."
+    },
+    {
+     "baslik": "Geri ödeme sisteminin kapsamı ve uygulanmayacağı haller (Tebliğ)",
+     "dayanak": "DİR Tebliği (2006/12) md. 11-12",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-65",
+      "2025-63"
+     ],
+     "not": "Geri ödeme sisteminin tanımı soruldu; ticaret politikası önlemlerinin uygulanması ve AB'ye A.TR ile ihracatta gümrük vergisi + TKF tahsili sorulmadı."
+    },
+    {
+     "baslik": "Geri ödeme sisteminde ödenen verginin geri verilmesi",
+     "dayanak": "DİR Tebliği (2006/12) md. 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Dahilde işleme izni verilecek haller",
+     "dayanak": "DİR Tebliği (2006/12) md. 14",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-59"
+     ],
+     "not": "İzin kapsamındaki işlem ve işçilik türleri soruldu; fide/çelik filmaşin/rulo sac işlemleri ve iznin kapsamını genişletme yetkisi sorulmadı."
+    },
+    {
+     "baslik": "Belge/izin müracaatının değerlendirme kriterleri",
+     "dayanak": "DİR Tebliği (2006/12) md. 15-16",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-56",
+      "2025-71"
+     ],
+     "not": "Belgeyi/izni düzenleyen makam soruldu; değerlendirme kriterleri (Türk malı imajı, katma değer, performans) sorulmadı."
+    },
+    {
+     "baslik": "Belge/izin düzenlenmesi: kapsam dışı eşya, döviz kullanım oranı ve oran sınırları",
+     "dayanak": "DİR Tebliği (2006/12) md. 17",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-71"
+     ],
+     "not": "Belgenin İhracat GM'ce düzenlenmesi ve döviz kullanım oranı tanımı soruldu; kapsam dışı eşya, DKO'nun aranmadığı haller, %80/%100 tavanı, değişmemiş eşya (%1) ve işletme malzemesi (%2/%10) sınırları sorulmadı."
+    },
+    {
+     "baslik": "Belgenin/iznin revizesi",
+     "dayanak": "DİR Tebliği (2006/12) md. 18-19",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Belge/izin süresi",
+     "dayanak": "DİR Tebliği (2006/12) md. 20",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-51"
+     ],
+     "not": "Sürenin başlangıcı ve ayın son günü kuralı (Kanun düzeyinde) soruldu; azami 12 ay ve proje süresi sorulmadı."
+    },
+    {
+     "baslik": "Ek süre müracaatı ve değerlendirilmesi",
+     "dayanak": "DİR Tebliği (2006/12) md. 21-22",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Haklı sebep halleri",
+     "dayanak": "DİR Tebliği (2006/12) md. 23-24",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Mücbir sebep ve fevkalade haller",
+     "dayanak": "DİR Tebliği (2006/12) md. 25-27",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-53"
+     ],
+     "not": "Mücbir sebep listesinden yasak-harp-abluka, faaliyetin kısıtlanması, şahıs firmasında ölüm, iflas/konkordato soruldu; hallerin süre içinde meydana gelmesi şartı, grev-lokavt tevsiki ve telef/kayıp halindeki işlemler sorulmadı."
+    },
+    {
+     "baslik": "İhracatın gerçekleştirilmesi ve serbest bölgelere ihracat",
+     "dayanak": "DİR Tebliği (2006/12) md. 28",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Aracı ihracatçı ile ihracat",
+     "dayanak": "DİR Tebliği (2006/12) md. 29",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük idaresince yapılacak işlemler",
+     "dayanak": "DİR Tebliği (2006/12) md. 31",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gözetim ve korunma önlemlerine tabi eşya",
+     "dayanak": "DİR Tebliği (2006/12) md. 32",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Telafi edici verginin ödenmesi",
+     "dayanak": "DİR Tebliği (2006/12) md. 33",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-89",
+      "2022-46",
+      "2024-54"
+     ],
+     "not": "TEV kavramı ve ihracat beyannamesinin tescil tarihindeki kur/oran esası soruldu; önceden ihracatta hesaplama ve ödeme zamanı ile harp araçları istisnası sorulmadı."
+    },
+    {
+     "baslik": "Fazla ödenen verginin geri verilmesi",
+     "dayanak": "DİR Tebliği (2006/12) md. 34",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kısmi teminat iadesi",
+     "dayanak": "DİR Tebliği (2006/12) md. 35-36",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracat taahhüdünün kapatılması için bilgi ve belgelerin sunulması",
+     "dayanak": "DİR Tebliği (2006/12) md. 37",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-71"
+     ],
+     "not": "İzin kapatma başvurusunun ihracatçı birliklerine değil gümrük idaresine yapıldığı soruldu; belgede 3 aylık süre ve bölge müdürlüğü ile firmaya ayrıca bildirim yapılmaması sorulmadı."
+    },
+    {
+     "baslik": "Kapatma işleminin sonuçlandırılması",
+     "dayanak": "DİR Tebliği (2006/12) md. 38",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hak ve yükümlülüklerin devri",
+     "dayanak": "DİR Tebliği (2006/12) md. 38/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kapatmanın bildirimi ve teminatın/verginin iadesi",
+     "dayanak": "DİR Tebliği (2006/12) md. 39-40",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhraç edilen işlem görmüş ürünün geri getirilmesi",
+     "dayanak": "DİR Tebliği (2006/12) md. 42",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracatın gerçekleştirilmemesi",
+     "dayanak": "DİR Tebliği (2006/12) md. 43",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Belgenin/iznin iptali",
+     "dayanak": "DİR Tebliği (2006/12) md. 44",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Dahilde işleme tedbirlerine uyulmaması (müeyyideler)",
+     "dayanak": "DİR Tebliği (2006/12) md. 45",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Madde başlığındaki 'değişik Mülga' ibaresi eski metne bağlantıdır; madde 2022/6 Tebliğ değişiklikleriyle yürürlükte olduğundan metin esas alındı."
+    },
+    {
+     "baslik": "Dahilde işleme rejiminde sağlanan hakların kötüye kullanımı",
+     "dayanak": "DİR Tebliği (2006/12) md. 46",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Taahhüt kapatma ve iptal işlemlerinin geri alınması",
+     "dayanak": "DİR Tebliği (2006/12) md. 49",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Eşdeğer eşya kullanımı ve önceden ihracat (Kanun)",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme rejiminde eşdeğer eşyanın ithal eşyası karşısında hangi özellikleri taşıması gerekir ve bu kuralın istisnası nedir?",
+     "cevap": "Eşdeğer eşyanın ithal eşyası ile aynı özellik ve aynı nitelikleri taşıması gerekir. Ancak belirlenecek özel hallerde eşdeğer eşyanın ithal eşyasından daha kaliteli veya daha ileri bir imalat aşamasında olmasına izin verilebilir.",
+     "dayanak": "GK md. 109",
+     "kanit": "Eşdeğer eşyanın, ithal eşyası ile aynı özellik ve aynı nitelikleri taşıması gerekir. Ancak, belirlenecek özel hallerde eşdeğer eşyanın ithal eşyasından daha kaliteli veya daha ileri bir imalat aşamasında olmasına izin verilebilir."
+    },
+    {
+     "alt_konu": "Eşdeğer eşya kullanımı ve önceden ihracat (Kanun)",
+     "soru": "4458 sayılı Gümrük Kanununa göre işlem görmüş ürünlerin eşdeğer eşyadan elde edilmesi durumunda gümrük işlemlerinde ithal eşyası ve eşdeğer eşya nasıl değerlendirilir?",
+     "cevap": "Gümrük işlemlerinde ithal eşyası eşdeğer eşya, eşdeğer eşya ise ithal eşyası olarak değerlendirilir; yani iki eşyanın statüsü yer değiştirir.",
+     "dayanak": "GK md. 109",
+     "kanit": "İşlem görmüş ürünlerin eşdeğer eşyadan elde edilmesi durumunda, gümrük işlemlerinde ithal eşyası eşdeğer eşya, eşdeğer eşya ise ithal eşya olarak değerlendirilir."
+    },
+    {
+     "alt_konu": "Eşdeğer eşya kullanımı ve önceden ihracat (Kanun)",
+     "soru": "4458 sayılı Gümrük Kanununa göre henüz ithal edilmemiş eşyanın yerine ihracat vergilerine tabi eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ihracı halinde izin hak sahibinden ne alınır?",
+     "cevap": "İthal eşyasının süresi içinde ithal edilmesine karşılık olarak izin hak sahibinden ihracat vergileri kadar teminat alınır.",
+     "dayanak": "GK md. 109",
+     "kanit": "Henüz ithal edilmemiş eşyanın yerine ihracat vergilerine tabi eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ihracı halinde, ithal eşyasının süresi içinde ithal edilmesine karşılık olarak izin hak sahibinden, ihracat vergileri kadar teminat alınır."
+    },
+    {
+     "alt_konu": "Dahilde işleme izninin verilme şartları",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme izninin, Türkiye Gümrük Bölgesindeki üreticilerin temel ekonomik çıkarlarının olumsuz etkilenmemesi şartıyla rejimin ihracat için en iyi imkânların yaratılmasına yardımcı olduğu hallerde verilmesinde, bu halleri belirlemeye kim yetkilidir?",
+     "cevap": "Bu halleri (ekonomik koşulları) belirlemeye Cumhurbaşkanı yetkilidir.",
+     "dayanak": "GK md. 110/2-c",
+     "kanit": "c) Türkiye Gümrük Bölgesindeki üreticilerin temel ekonomik çıkarlarının olumsuz etkilenmemesi şartıyla ... (c) bendinde belirtilen halleri belirlemeye Cumhurbaşkanı"
+    },
+    {
+     "alt_konu": "Rejim süreleri ve ek süre (Kanun)",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme rejiminde izin sahibine ek süre hangi gerekçeye bağlı olarak verilebilir ve süre ile ek süreler hangi işlemle belirlenir?",
+     "cevap": "İzin sahibi tarafından ileri sürülen haklı gerekçelere bağlı olarak ek süre verilebilir; rejim süresi ve ek süreler Cumhurbaşkanı Kararıyla belirlenir.",
+     "dayanak": "GK md. 111/2",
+     "kanit": "İzin sahibi tarafından ileri sürülen haklı gerekçelere bağlı olarak ek süre verilebilir. ... Bu süre ve ek süreler, Cumhurbaşkanı"
+    },
+    {
+     "alt_konu": "Rejim süreleri ve ek süre (Kanun)",
+     "soru": "4458 sayılı Gümrük Kanununa göre ithal eşyasının ithalinden önce eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ihracı (önceden ihracat) halinde, ithal eşyasının rejim beyanı için gereken süreyi kim belirler?",
+     "cevap": "Bu süre Cumhurbaşkanınca belirlenir.",
+     "dayanak": "GK md. 111/3",
+     "kanit": "İthal eşyasının ithalinden önce eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ihracı halinde, ithal eşyasının rejim beyanı için gereken süre Cumhurbaşkanınca"
+    },
+    {
+     "alt_konu": "Verimlilik oranının belirlenmesi ve standart verimlilik oranları",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme rejiminde standart verimlilik oranları nasıl tespit edilir?",
+     "cevap": "İlgili kuruluşların görüşleri alınarak hesaplanır; asli nitelikleri itibarıyla aynı özelliklere sahip eşya kullanılarak aynı kalitede işlem görmüş ürün elde edilmesiyle sonuçlanan ve belirli teknik koşullar altında yürütülen işleme faaliyetleri için, doğruluğu önceden belirlenmiş verilere göre tespit edilir.",
+     "dayanak": "GK md. 112/2",
+     "kanit": "İlgili kuruluşların görüşleri alınarak hesaplanan standart verimlilik oranları ... doğruluğu önceden belirlenmiş verilere göre tespit edilir."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünde vergilendirme esası ve tercihli tarife",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme rejimi kapsamında bir gümrük yükümlülüğü doğması halinde gümrük vergileri hangi beyannamenin tescil tarihindeki vergi oranı ve vergilendirme unsurlarına göre hesaplanır?",
+     "cevap": "İkincil ürünler ve diğer gümrükçe onaylanmış işlemlere ilişkin özel vergilendirme hükümleri saklı kalmak kaydıyla, ithal eşyasının dahilde işleme rejimine ilişkin beyannamesinin tescil tarihindeki vergi oranı ve diğer vergilendirme unsurları esas alınır (serbest dolaşıma giriş beyannamesinin tescil tarihi değil).",
+     "dayanak": "GK md. 114/1",
+     "kanit": "gümrük vergileri, ithal eşyasının dahilde işleme rejimine ilişkin beyannamenin tescil tarihindeki vergi oranı ve diğer vergilendirme unsurları göz önünde bulundurularak hesaplanır."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünde vergilendirme esası ve tercihli tarife",
+     "soru": "4458 sayılı Gümrük Kanununa göre dahilde işleme rejimine ilişkin beyannamenin tescil tarihinde tarife kotaları ve tarife tavanları çerçevesinde tercihli tarifeden yararlanabilir durumda olan ithal eşyasının bu tercihten yararlanabilmesi hangi şarta bağlıdır?",
+     "cevap": "Serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte de mevcut tercihli tarifenin yürürlükte olmasına bağlıdır.",
+     "dayanak": "GK md. 114/2",
+     "kanit": "söz konusu eşyanın bu tercihli tarifeden yararlanabilmesi, serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte de mevcut tercihli tarifenin yürürlükte olmasına bağlıdır."
+    },
+    {
+     "alt_konu": "İkincil ürünlerin ve şartlı muafiyete tabi tutulan işlem görmüş ürünlerin vergilendirilmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre yönetmelikle belirlenen listedeki işleme faaliyetleri sonucunda elde edilen ikincil işlem görmüş ürünlerin serbest dolaşıma sokulması halinde ithalat vergileri nasıl hesaplanır?",
+     "cevap": "Asıl işlem görmüş ürünün ihraç edilen kısmı oranında, ikincil işlem görmüş ürünlerin serbest dolaşıma girişine ilişkin beyannamenin tescil tarihindeki vergi oranı ve vergilendirme unsurları esas alınarak hesaplanır; izin hak sahibi bu ürünlere ilişkin vergilerin ithal eşyasının rejim beyannamesinin tescil tarihine göre tahakkukunu da talep edebilir.",
+     "dayanak": "GK md. 115/1",
+     "kanit": "ihraç edilen kısmı oranında ikincil işlem görmüş ürünlerin serbest dolaşıma girişine ilişkin beyannamenin tescil tarihindeki vergi oranı ... izin hak sahibi, bu ürünlere ilişkin vergilerin 114 üncü maddede belirtilen usule göre tahakkukunu talep edebilir."
+    },
+    {
+     "alt_konu": "İkincil ürünlerin ve şartlı muafiyete tabi tutulan işlem görmüş ürünlerin vergilendirilmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre işlem görmüş ürünlerin gümrük kontrolü altında işleme rejimi dışındaki bir şartlı muafiyet düzenlemesine tabi tutulduğu hallerde uygulanacak verginin alt sınırı nedir?",
+     "cevap": "Uygulanacak vergi, ithal eşyasının dahilde işleme rejimine ilişkin beyannamesinin tescil tarihindeki unsurlara göre hesaplanan miktardan az olamaz; ilgili kişi verginin bu usule göre hesaplanmasını da isteyebilir.",
+     "dayanak": "GK md. 115/2",
+     "kanit": "Ancak, işlem görmüş ürünlerin, gümrük kontrolü altında işleme rejimi dışında, yukarda düzenlenen gümrükçe onaylanmış işlem veya kullanım şekillerinden birine tabi tutulduğu hallerde, uygulanacak vergi 114 üncü madde uyarınca hesaplanan miktardan az olamaz."
+    },
+    {
+     "alt_konu": "Geri ödeme sisteminden yararlanamayacak eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre serbest dolaşıma giriş beyannamesinin tescili sırasında hangi eşya için geri ödeme sistemi uygulanmaz?",
+     "cevap": "Kural olarak her eşya geri ödeme sisteminden yararlanabilir; ancak ithalat miktar kısıtlamasına tabi olan, kota kapsamında tarife önlemleri uygulanan, tarım politikası çerçevesinde ithalat veya ihracat lisansı ya da sertifikası ibrazını gerektiren ve işlem görmüş ürün için ihracat iadesi veya vergisi mevcut olan eşya için uygulanmaz.",
+     "dayanak": "GK md. 117/1",
+     "kanit": "a) İthalat miktar kısıtlamasına tabi olan, ... b) Kota kapsamında tarife önlemleri uygulanan, ... c) Tarım politikası çerçevesinde ithalat veya ihracat lisansı veya sertifikası ibrazını gerektiren, ... d) İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut,"
+    },
+    {
+     "alt_konu": "Geri ödeme sisteminde uygulanmayan hükümler ve hariçte işleme",
+     "soru": "4458 sayılı Gümrük Kanununa göre geri ödeme sisteminin uygulandığı dahilde işleme rejiminde, eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ithal eşyası serbest dolaşıma girmeden önce Türkiye Gümrük Bölgesi dışına ihracı (önceden ihracat) mümkün müdür?",
+     "cevap": "Mümkün değildir; bu hüküm geri ödeme sisteminde uygulanmaz. Önceden ihracat yalnızca şartlı muafiyet sisteminde mümkündür.",
+     "dayanak": "GK md. 119/a",
+     "kanit": "Dahilde işleme rejiminde geri ödeme sisteminin uygulandığı hallerde; ... a) Eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ithal eşyasının serbest dolaşıma girmesinden önce Türkiye Gümrük Bölgesi dışına ihraç edilmesi hükmü,"
+    },
+    {
+     "alt_konu": "Geri ödeme sisteminde uygulanmayan hükümler ve hariçte işleme",
+     "soru": "4458 sayılı Gümrük Kanununa göre geri ödeme sisteminde işlem görmüş ürünlerin veya değişmemiş eşyanın hariçte işleme rejimi çerçevesinde daha ileri düzeyde işlenmek üzere geçici ihracı, vergilerin geri verilmesi bakımından ihracat sayılır mı?",
+     "cevap": "Sayılmaz; ancak bu ürünlerin tespit edilmiş süreler içinde Türkiye Gümrük Bölgesine yeniden ithal edilmemeleri halinde ihracat olarak kabul edilir.",
+     "dayanak": "GK md. 120",
+     "kanit": "geçici ihracı, söz konusu ürünlerin tespit edilmiş süreler içinde Türkiye Gümrük Bölgesine yeniden ithal edilmemeleri hariç olmak üzere, 121 inci madde çerçevesinde bir ihracat olarak kabul edilmez."
+    },
+    {
+     "alt_konu": "Geri ödeme talebi ve geri ödemeli eşyanın serbest dolaşıma girişi",
+     "soru": "4458 sayılı Gümrük Kanununa göre geri ödeme sisteminde izin hak sahibi, ihracat dışında hangi hallerin belgelendirilmesi üzerine de ithalat vergilerinin geri verilmesini veya kaldırılmasını isteyebilir?",
+     "cevap": "İşlem görmüş ürünlerin veya değişmemiş eşyanın daha sonra yeniden ihraç edilmek üzere transit rejimi, gümrük antrepo rejimi, geçici ithalat rejimi veya şartlı muafiyet sistemine tabi dahilde işleme rejimine tabi tutulduğunu ya da serbest bölgeye konulduğunu belgelendirmesi halinde.",
+     "dayanak": "GK md. 121/1",
+     "kanit": "b) Daha sonra yeniden ihraç edilmek üzere transit rejimi, gümrük antrepo rejimi, geçici ithalat rejimi veya şartlı muafiyet sistemine tabi dahilde işleme rejimine tabi tutulduğunu, ... c) Serbest bölgeye konulduğunu,"
+    },
+    {
+     "alt_konu": "Geri ödeme talebi ve geri ödemeli eşyanın serbest dolaşıma girişi",
+     "soru": "4458 sayılı Gümrük Kanununa göre geri ödeme sistemi çerçevesinde bir gümrük rejimine tabi tutulan ya da serbest bölgeye konulan işlem görmüş ürünler veya değişmemiş eşya serbest dolaşıma sokulursa gümrük vergileri tutarı ne kadar olur?",
+     "cevap": "Geri verilen veya kaldırılan vergi tutarı kadardır.",
+     "dayanak": "GK md. 121/4",
+     "kanit": "Bu şekilde serbest dolaşıma sokulacak eşyanın gümrük vergileri tutarı, 1 inci fıkra hükmüne göre geri verilen veya kaldırılan vergi tutarı kadardır."
+    },
+    {
+     "alt_konu": "Şartlı muafiyette ihracat vergisine tabi eşdeğer eşyanın muafiyeti",
+     "soru": "4458 sayılı Gümrük Kanununa göre şartlı muafiyet sisteminin uygulandığı dahilde işleme rejiminde ihraç olunan işlem görmüş ürünlerin ihracat vergilerine tabi eşdeğer eşyadan elde edilmesi durumunda eşdeğer eşya ihracat vergileri bakımından nasıl işlem görür?",
+     "cevap": "Söz konusu eşdeğer eşya ihracat vergilerinden muaf tutulur.",
+     "dayanak": "GK md. 122",
+     "kanit": "Şartlı muafiyet sisteminin uygulandığı dahilde işleme rejiminde, ihraç olunan işlem görmüş ürünlerin ihracat vergilerine tabi eşdeğer eşyadan elde edilmesi durumunda, söz konusu eşdeğer eşya ihracat vergilerinden muaf tutulur."
+    },
+    {
+     "alt_konu": "Yönetmelik tanımları: eşdeğer eşya, önceden ihracat, fire ve zayiat",
+     "soru": "Gümrük Yönetmeliğine göre dahilde işleme rejiminde \"fire ve zayiat\" neyi ifade eder?",
+     "cevap": "İthal eşyasından, işleme faaliyetleri esnasında buharlaşma, gaz olarak havaya karışma, kuruma veya damıtma sonucu tahrip veya zayi şeklinde meydana gelen eksilmeleri ifade eder.",
+     "dayanak": "GY md. 349/2-c",
+     "kanit": "c) Fire ve zayiat: İthal eşyasından, işleme faaliyetleri esnasında buharlaşma, gaz olarak havaya karışma, kuruma veya damıtma sonucu tahrip veya zayi şeklindeki eksilmeleri,"
+    },
+    {
+     "alt_konu": "İzin verilmesine ilişkin ilave şartlar",
+     "soru": "Gümrük Yönetmeliğine göre şartlı muafiyet sisteminin kullanılması izni ile geri ödeme sisteminin kullanılması izni hangi durumlarda verilebilir?",
+     "cevap": "Şartlı muafiyet sistemi izni, işlem görmüş asıl ürünlerin ihraç edilmesi amacının bulunduğu durumlarda işlenecek bütün eşya için; geri ödeme sistemi izni ise işlem görmüş esas ürünlerin ihraç edilmesi imkânının bulunduğu ve Kanunda geri ödeme için öngörülen şartlara uyulduğu hallerde verilebilir (amaç–imkân ayrımı).",
+     "dayanak": "GY md. 350/1",
+     "kanit": "a) Şartlı muafiyet sisteminin kullanılması izni, işlem görmüş asıl ürünlerin ihraç edilmesi amacının bulunduğu durumlarda, işlenecek bütün eşya için, ... b) Geri ödeme sisteminin kullanılması izni, işlem görmüş esas ürünlerin ihraç edilmesi imkanının bulunduğu"
+    },
+    {
+     "alt_konu": "İzin verilmesine ilişkin ilave şartlar",
+     "soru": "Gümrük Yönetmeliğine göre işlem görmüş ürünlerin bünyesinde bulunmayan ancak üretimini sağlayan veya kolaylaştıran eşya kapsamında hangi eşya için dahilde işleme izni verilmez?",
+     "cevap": "İşlem görmüş ürünlerin denenmesinde veya tamire ihtiyacı olan ithal eşyanın kusurlarının tespitinde kullanılanlar dışındaki yakıt ve enerji kaynakları; ürünlerin denenmesi, ayarlanması veya geri alınmasında kullanılanlar dışındaki yağlar ile alet ve gereç için izin verilmez.",
+     "dayanak": "GY md. 350/2",
+     "kanit": "kullanılanlar haricindeki yakıt ve enerji kaynakları, ... b) İşlem görmüş ürünlerin denenmesi, ayarlanması veya geri alınmasında kullanılan yağlar dışındaki yağlar, ... c) Alet ve gereç, hariç olmak üzere, izin verilebilir."
+    },
+    {
+     "alt_konu": "Eşdeğer eşya kullanımının izin belgesindeki şartları",
+     "soru": "Gümrük Yönetmeliğine göre eşdeğer eşyanın ithal eşyasından daha ileri bir üretim aşamasında olmasına hangi durumda izin verilebilir?",
+     "cevap": "İşlemenin asli kısmının izin hak sahibinin işletmesinde veya onun adına işlemenin yapıldığı yerde gerçekleşmesi durumunda, istisnai haller dışında izin verilebilir.",
+     "dayanak": "GY md. 352/3",
+     "kanit": "Eşdeğer eşyanın, işlemenin asli kısmının izin hak sahibinin işletmesinde veya onun adına işlemenin yapıldığı yerde gerçekleşmesi durumunda, istisnai haller dışında, ithal eşyasından daha ileri bir üretim aşamasında olmasına izin verilebilir."
+    },
+    {
+     "alt_konu": "İzin belgesinin süresi ve önceden ihracatta beyan süresi (Yönetmelik)",
+     "soru": "Gümrük Yönetmeliğine göre dahilde işleme izin belgesinin süresi hangi hallerde uzatılabilir?",
+     "cevap": "Mücbir sebep ve beklenmeyen hallerde veya izin sahibi tarafından ileri sürülen haklı gerekçelere bağlı olarak uzatılabilir.",
+     "dayanak": "GY md. 353/1",
+     "kanit": "Bu süreler mücbir sebep ve beklenmeyen hallerde veya izin sahibi tarafından ileri sürülen haklı gerekçelere bağlı olarak uzatılabilir."
+    },
+    {
+     "alt_konu": "İthal eşyası ve eşdeğer eşyanın gümrük statüsü",
+     "soru": "Gümrük Yönetmeliğine göre eşdeğer eşyanın işleme faaliyetlerinde kullanılması rejime giriş işlemlerine tabi midir?",
+     "cevap": "Tabi değildir; eşdeğer eşyanın işleme faaliyetleri için kullanımı rejime giriş işlemlerine tabi tutulmaz.",
+     "dayanak": "GY md. 355/1",
+     "kanit": "Eşdeğer eşyanın Kanunun 109 uncu maddesine istinaden işleme faaliyetleri için kullanımları, rejime giriş işlemlerine tabi değildir."
+    },
+    {
+     "alt_konu": "Serbest dolaşıma girmiş sayılma ve işlem görmüş ürünlerin vergilendirilmesinde INF 1",
+     "soru": "Gümrük Yönetmeliğine göre işlem görmüş ürünlerin serbest dolaşıma sokulmasında vergilerin ithal eşyasına ilişkin unsurlara göre belirlenmesi durumunda, ithal eşyasına ait bilgilerin beyannamede gösterilmesine hangi belgenin ibrazı halinde gerek kalmaz?",
+     "cevap": "INF 1 Formunun veya bununla aynı bilgileri içeren başka bir belgenin serbest dolaşıma giriş beyannamesi ile birlikte ibrazı halinde gerek kalmaz.",
+     "dayanak": "GY md. 358/2",
+     "kanit": "INF 1 Formunun veya bununla aynı bilgileri içeren başka bir belgenin serbest dolaşıma giriş beyannamesi ile birlikte ibrazı halinde, birinci fıkrada belirtilen bilgilerin sunulmasına gerek yoktur."
+    },
+    {
+     "alt_konu": "İkincil işlem görmüş ürünlerin vergileri (Yönetmelik)",
+     "soru": "Gümrük Yönetmeliğine göre ikincil işlem görmüş ürünlerin serbest dolaşıma girişine ilişkin beyanname, ihracat partilerinden bağımsız olarak toplu halde hangi zamanlarda verilebilir?",
+     "cevap": "Asıl işlem görmüş ürünün ilk partisinin ihracatı ile eş zamanlı olarak belgelerde öngörülen ikincil ürünün tamamı için (bu durumda sonraki partilerdeki ikincil ürün gümrük işlemine tabi tutulmaz) ya da izin kapsamındaki ihracatın tamamı yapıldıktan sonra tek seferde verilebilir.",
+     "dayanak": "GY md. 359/1",
+     "kanit": "ilk partisinin ihracatı ile eş zamanlı olarak belgelerde öngörülen işlem görmüş ikincil ürünün tamamı için serbest dolaşıma giriş beyannamesi verilebilir. ... ihracatın tamamının yapılmasından sonra ikincil işlem görmüş ürünlerin tamamı için tek seferde serbest dolaşıma giriş beyannamesi"
+    },
+    {
+     "alt_konu": "Verimlilik oranının hesaplanması: miktar ve kıymet ölçme yöntemleri",
+     "soru": "Gümrük Yönetmeliğine göre kıymet ölçme yönteminin uygulanmasında her farklı işlem görmüş ürünün değeri neye göre tespit edilir?",
+     "cevap": "Alıcı ile satıcı arasındaki ilişkiden etkilenmemiş olması şartıyla aynı veya benzer ürünlerin Türkiye'deki son satış fiyatı, bu bilinmiyorsa aynı şartla Türkiye'deki son fabrika çıkış fiyatı esas alınır.",
+     "dayanak": "GY md. 362/3",
+     "kanit": "alıcı ve satıcı arasındaki ilişkiden etkilenmemiş olması şartı ile aynı veya benzer ürünlerin Türkiye'de son satış fiyatı veya bu bilinmiyorsa, aynı şartla Türkiye'deki son fabrika çıkış fiyatı, esas alınarak tespit olunur."
+    },
+    {
+     "alt_konu": "Nihai kullanımda vergi",
+     "soru": "Gümrük Yönetmeliğine göre nihai kullanımları nedeniyle tercihli tarifeden yararlanabilecek ithal eşyası için dahilde işleme rejiminde tercihli uygulama hangi koşulla kullanılabilir ve bunun için özel izin gerekir mi?",
+     "cevap": "Eşyanın, rejime giriş beyannamesinin tescilinden itibaren başlayan ve tercihli tarife uygulamasına imkân tanıyan sürenin dolmasından önce nihai kullanıma tabi tutulması gerekir; bunun için özel bir izin gerekmez.",
+     "dayanak": "GY md. 363",
+     "kanit": "Bunun için özel bir izin gerekmez. ... sadece eşyanın tercihli tarife uygulamasına imkan tanıyan sürecin dolmasından önce nihai kullanıma tabi tutulması halinde kullanılabilir. Süre, rejim için giriş beyannamesinin tescilinden itibaren başlar."
+    },
+    {
+     "alt_konu": "Şartlı muafiyette belgelerde yer alacak kayıtlar",
+     "soru": "Gümrük Yönetmeliğine göre şartlı muafiyet sisteminde işlem görmüş ürün veya değişmemiş eşya rejimin kapatılması amacıyla bir şartlı muafiyet düzenlemesine tabi tutulduğunda veya serbest bölgeye konulduğunda, ithal eşyası ticaret politikası önlemlerine tabi ise belgelere hangi ibareler konulur?",
+     "cevap": "Belgelerde \"Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya\" ibaresine ek olarak \"Ticaret Politikası\" ibaresi yer alır (önlemlerin, rejimin uygulandığı veya serbest bölgeye konulduğu tarihte yürürlükte olması halinde).",
+     "dayanak": "GY md. 364",
+     "kanit": "\"Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya\" ibaresini içerir. ... bu belgelere birinci fıkrada belirtilen ibareye ek olarak Ticaret Politikası ibaresi konulur."
+    },
+    {
+     "alt_konu": "Geri ödeme sisteminde serbest dolaşıma giriş ve belgelerdeki kayıtlar",
+     "soru": "Gümrük Yönetmeliğine göre geri ödeme sisteminde serbest dolaşıma girişte basitleştirilmiş usul uygulandığında tamamlayıcı beyanname ne zaman verilir?",
+     "cevap": "İzinde öngörülen süre içinde ve en geç geri ödeme talebinin yapılmasından önce gümrük idaresine verilir.",
+     "dayanak": "GY md. 365/2",
+     "kanit": "Tamamlayıcı beyanname, izinde öngörülen süre içinde ve en geç geri ödeme talebinin yapılmasından önce gümrük idaresine verilir."
+    },
+    {
+     "alt_konu": "Geri ödeme sisteminde serbest dolaşıma giriş ve belgelerdeki kayıtlar",
+     "soru": "Gümrük Yönetmeliğine göre geri ödeme sistemi kapsamındaki eşya, vergilerin geri verilmesine imkân veren gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulduğunda rejim için kullanılan belge hangi ibareyi içerir?",
+     "cevap": "'Dahilde İşleme/Geri Ödeme Sistemindeki Eşya' ibaresini içerir.",
+     "dayanak": "GY md. 367",
+     "kanit": "rejim için kullanılan belge 'Dahilde İşleme/Geri Ödeme Sistemindeki Eşya' ibaresini içerir."
+    },
+    {
+     "alt_konu": "Tebliğin dayanağı",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) hangi Karara istinaden hazırlanmıştır?",
+     "cevap": "17/1/2005 tarihli ve 2005/8391 sayılı Bakanlar Kurulu Kararı eki \"Dahilde İşleme Rejimi Kararı\"na istinaden, dahilde işleme tedbirlerinin uygulama usul ve esaslarını belirlemek üzere hazırlanmıştır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 1",
+     "kanit": "Bu Tebliğ 17/1/2005 tarihli ve 2005/8391 sayılı Bakanlar Kurulu Kararı eki \"Dahilde İşleme Rejimi Kararı\"na istinaden dahilde işleme tedbirlerinin uygulama usul ve esaslarını belirlemek üzere hazırlanmıştır."
+    },
+    {
+     "alt_konu": "Tebliğ tanımları",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre yurt içi alımlara imkân sağlayan araç dahilde işleme izin belgesi midir, yoksa dahilde işleme izni midir?",
+     "cevap": "Yurt içi alımlara yalnızca Bakanlıkça düzenlenen dahilde işleme izin belgesi imkân sağlar; gümrük idaresince verilen dahilde işleme izni yalnızca ihraç amacıyla gümrük muafiyetli ithalata imkân sağlar.",
+     "dayanak": "DİR Tebliği (2006/12) md. 3/f-g",
+     "kanit": "f) Dahilde işleme izin belgesi: İhraç amacıyla gümrük muafiyetli ithalata ve/veya yurt içi alımlara imkan sağlayan Bakanlıkça düzenlenen belgeyi, ... g) Dahilde işleme izni: İhraç amacıyla gümrük muafiyetli ithalata imkan sağlayan ve gümrük idaresince verilen izni,"
+    },
+    {
+     "alt_konu": "Tebliğ tanımları",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre \"yan sanayici\" kimdir?",
+     "cevap": "Dahilde işleme izin belgesinde/izninde taahhüt edilen ihraç ürününün tamamını ya da bir kısmını üreten, belgede/izinde kayıtlı ancak belge/izin sahibi olmayan firmadır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 3/mm",
+     "kanit": "mm) Yan sanayici: Dahilde işleme izin belgesinde/dahilde işleme izninde taahhüt edilen ihraç ürününün tamamını ya da bir kısmını üreten, belgede/izinde kayıtlı ancak belge/izin sahibi olmayan firmayı,"
+    },
+    {
+     "alt_konu": "Dahilde işleme tedbirleri ve şartlı muafiyetin kapsamı",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre şartlı muafiyet sistemi çerçevesinde belge/izin kapsamında yapılan işletme malzemesi ithalatında hangi vergiler tahsil edilir ve ticaret politikası önlemleri uygulanır mı?",
+     "cevap": "İşletme malzemesi ithalatında katma değer vergisi ve özel tüketim vergisi tahsil edilir ve ticaret politikası önlemleri uygulanır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 5/2",
+     "kanit": "Ancak, belge/izin kapsamında yapılacak işletme malzemesi ithalatında, katma değer vergisi ve özel tüketim vergisi tahsil edilir ve ticaret politikası önlemleri uygulanır."
+    },
+    {
+     "alt_konu": "Eşdeğer eşya kullanımı ve önceden ihracat (Tebliğ)",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre şartlı muafiyet sisteminde eşdeğer eşya olarak kullanılacak eşyanın ithal eşyası ile asgari kaçlı bazda gümrük tarife istatistik pozisyonunun aynı olması gerekir; tarım ürünlerinde bu tespit nasıl yapılır?",
+     "cevap": "Asgari 8'li bazda gümrük tarife istatistik pozisyonu, ticari kalite ve teknik özellikleri itibarıyla aynı olmalıdır; eşdeğer eşya olarak kullanılan tarım ürünlerinde aynılık tespiti münhasıran 12'li bazda pozisyona göre yapılır ve Bakanlık ilave şart getirebilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 6/1",
+     "kanit": "asgari 8 (sekiz)'li bazda gümrük tarife istatistik pozisyonu, ticari kalite ve teknik özellikleri itibarıyla aynı kalite ve nitelikleri taşıyan serbest dolaşımdaki eşya kullanılabilir. ... münhasıran 12 (oniki)'libazda gümrük tarife istatistik pozisyonuna göre yapılır."
+    },
+    {
+     "alt_konu": "Eşdeğer eşya kullanımı ve önceden ihracat (Tebliğ)",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre önceden ihracat yapılması halinde buna tekabül eden ithalat ne zamana kadar yapılabilir ve bu ithalatta vergiler nasıl işlem görür?",
+     "cevap": "Belge süresi sonuna kadar yapılabilir; bu ithalatta katma değer vergisi dahil tüm vergiler (ÖTV Kanunu hükümleri saklı) teminata bağlanır ve ticaret politikası önlemleri uygulanmaz.",
+     "dayanak": "DİR Tebliği (2006/12) md. 6/3",
+     "kanit": "buna tekabül eden ithalat belge süresi sonuna kadar yapılabilir. Bu kapsamda yapılacak ithalat esnasında katma değer vergisi dahil tüm vergiler ... teminata bağlanır ve ticaret politikası önlemleri uygulanmaz."
+    },
+    {
+     "alt_konu": "Eşdeğer eşya kullanımı ve önceden ihracat (Tebliğ)",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre önceden ihracat işleminden sonra buna tekabül eden oranda ithal edilen eşya belge sahibi firma tarafından nasıl kullanılabilir?",
+     "cevap": "Belge sahibi firma tarafından serbestçe kullanılabilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 6/4",
+     "kanit": "Önceden ihracat işleminden sonra buna tekabül eden oranda ithal edilen eşya, belge sahibi firma tarafından serbestçe kullanılabilir."
+    },
+    {
+     "alt_konu": "Yurt içi alımlar",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izin belgesi kapsamında yurt içinden temin edilen eşyanın belge süresi içinde işlem görmüş ürün olarak ihraç edilmemesi halinde, ithal edilip süresinde ihraç edilmeyen eşya için öngörülen Gümrük Kanunu müeyyidesi uygulanır mı?",
+     "cevap": "Uygulanmaz; yurt içinden temin edilen eşya için Gümrük Kanunundaki rejim ihlali müeyyidesi uygulanmaz.",
+     "dayanak": "DİR Tebliği (2006/12) md. 7/5",
+     "kanit": "Dahilde işleme izin belgesi kapsamında yurt içinden temin edilen eşyanın belge süresi içerisinde işlem görmüş ürün olarak ihracının gerçekleştirilmemesi halinde, bu Tebliğin 45 inci maddesinde belirtilen 4458 sayılı Gümrük Kanununun 238 inci maddesi hükmü uygulanmaz."
+    },
+    {
+     "alt_konu": "Yurt içi alımlar",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre önceden ihracatın gerçekleştiği belgelendiği halde belge kapsamında ilgili kamu kurum ve kuruluşlarından yurt içi alım yapılamıyorsa ithalata nasıl izin verilebilir?",
+     "cevap": "İlgili bölge müdürlüğünün uygun görüşü olması kaydıyla Bakanlıkça (İhracat Genel Müdürlüğü), durumun tespitinden itibaren belgeye azami 6 ay ek süre verilerek ithalat yapılmasına izin verilebilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 7/7",
+     "kanit": "ilgili bölge müdürlüğünün uygun görüşünün olması kaydıyla Bakanlıkça (İhracat Genel Müdürlüğü), bu durumun tespitinden itibaren belgeye azami 6 (altı) ay ek süre verilmek suretiyle ithalat yapılmasına izin verilebilir."
+    },
+    {
+     "alt_konu": "Teminat",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre şartlı muafiyet sistemi kapsamındaki ithalatta alınacak teminat hangi unsurlardan oluşabilir?",
+     "cevap": "Para, bankalar tarafından verilen teminat mektupları ve Hazine tahvil ve bonolarından biri veya birkaçından oluşabilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 8/4",
+     "kanit": "Teminat; a- Para, b- Bankalar tarafından verilen teminat mektupları, c- Hazine tahvil ve bonoları,"
+    },
+    {
+     "alt_konu": "Teminat",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre şartlı muafiyet sistemi kapsamındaki ithalatta uygulanan teminat oranı en fazla ne kadara artırılabilir ve buna kim yetkilidir?",
+     "cevap": "Bakanlıkça (İhracat Genel Müdürlüğü) ithalattan doğan vergi tutarının 2 katına kadar artırılabilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 8/2",
+     "kanit": "ithalatta uygulanan teminat oranı Bakanlıkça (İhracat Genel Müdürlüğü), bu ithalattan doğan vergi tutarının 2 (iki) katına kadar artırılabilir."
+    },
+    {
+     "alt_konu": "İndirimli teminat uygulaması",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre yetkilendirilmiş yükümlü sertifikası sahibi firmalar ile müracaattan önceki iki takvim yılının herhangi birinde asgari 25 milyon ABD Doları ihracat yapan onaylanmış kişi statü belgesi sahibi imalatçı firmalar, belge/izin kapsamındaki ithalatta verginin yüzde kaçını teminat olarak yatırır?",
+     "cevap": "İki yıl süresince ithalattan doğan verginin %1'ini teminat olarak yatırırlar.",
+     "dayanak": "DİR Tebliği (2006/12) md. 9/1-a",
+     "kanit": "a) Yetkilendirilmiş yükümlü sertifikası sahibi firmalar veya belge/izin müracaat tarihinden önceki iki takvim yılı içerisinde herhangi bir yıl asgari 25 (yirmibeş) milyon ABD Doları tutarında ihracat yapan ... iki yıl süresince bu ithalattan doğan verginin % 1'inin,"
+    },
+    {
+     "alt_konu": "İndirimli teminat uygulaması",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre müracaattan önceki iki takvim yılının herhangi birinde 5 milyon ABD Doları (dahil) ile 25 milyon ABD Doları arasında ihracat yapan onaylanmış kişi statü belgesi sahibi imalatçı firmalar için indirimli teminat oranı nedir?",
+     "cevap": "İki yıl süresince ithalattan doğan verginin %5'i teminat olarak alınır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 9/1-b",
+     "kanit": "5 (beş) milyon ABD Doları tutarı (bu tutar dahil) ile 25 (yirmibeş) milyon ABD Doları tutarı arasında ihracat yapan onaylanmış kişi statü belgesi sahibi imalatçı firmaların ... iki yıl süresince bu ithalattan doğan verginin % 5'inin,"
+    },
+    {
+     "alt_konu": "Geri ödeme sisteminin kapsamı ve uygulanmayacağı haller (Tebliğ)",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre geri ödeme sistemi kapsamında ithal edilen eşyaya ticaret politikası önlemleri uygulanır mı?",
+     "cevap": "Uygulanır; gümrük idaresince ticaret politikası önlemleri uygulanır ve eşyanın ithali için öngörülen dış ticarette teknik düzenlemeler ve standardizasyon mevzuatı dahil diğer işlemlerin tamamlanması şartı aranır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 11/1",
+     "kanit": "Bu kapsamda ithal edilen eşya için gümrük idaresince, ticaret politikası önlemleri uygulanır ve eşyanın ithali için öngörülen dış ticarette teknik düzenlemeler ve standardizasyon mevzuatı dahil diğer işlemlerin tamamlanması şartı aranır."
+    },
+    {
+     "alt_konu": "Geri ödeme sisteminin kapsamı ve uygulanmayacağı haller (Tebliğ)",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre A.TR dolaşım belgesi eşliğinde Avrupa Topluluğuna üye ülkelere ihraç edilecek işlem görmüş ürünün elde edilmesinde kullanılacak eşyanın geri ödeme sistemi kapsamındaki ithalatında hangi vergiler tahsil edilir?",
+     "cevap": "Gümrük vergisi ile varsa toplu konut fonu tahsil edilir; bunların dışındaki vergiler teminata bağlanarak ithalata izin verilebilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 11/2",
+     "kanit": "gümrük vergisi ile varsa toplu konut fonunun tahsil edilmesi ve bu vergilerin haricindeki vergilerin teminata bağlanması suretiyle ithalatına izin verilebilir."
+    },
+    {
+     "alt_konu": "Geri ödeme sisteminde ödenen verginin geri verilmesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre geri ödeme sistemi çerçevesindeki belge/izin kapsamında ithalat sırasında ödenen vergilerin iadesi için gümrük idaresine ne zaman müracaat edilmesi zorunludur?",
+     "cevap": "İhracat taahhüdünün kapatılmasını müteakip 3 ay içerisinde ilgili gümrük idaresine müracaat edilmesi zorunludur.",
+     "dayanak": "DİR Tebliği (2006/12) md. 13",
+     "kanit": "kapatılmasını müteakip 3 (üç) ay içerisinde, ithalat sırasında ödenen vergilerin iadesi için ilgili gümrük idaresine müracaat edilmesi zorunludur."
+    },
+    {
+     "alt_konu": "Dahilde işleme izni verilecek haller",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izni kapsamında fide, çelik filmaşin ve rulo sac ithalatını müteakip hangi ihraç ürünlerinin elde edilmesine izin verilir?",
+     "cevap": "Fide ithalatını müteakip kesme çiçek yetiştirilmesine, çelik filmaşin ithalatını müteakip çivi ve sıcak çekme siyah tel üretimine, rulo sac ithalatını müteakip kesilmiş sac elde edilmesine izin verilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 14/1-g, ğ, h",
+     "kanit": "g) Fide ithalatını müteakip, ihraç edilmek üzere kesme çiçek yetiştirilmesi, ... ğ) Çelik filmaşin ithalatını müteakip, ihraç edilmek üzere çivi ve sıcak çekme siyah tel üretimi, ... h) Rulo sacın ithalatını müteakip, ihraç edilmek üzere kesilmiş sac elde edilmesinde kullanılması,"
+    },
+    {
+     "alt_konu": "Dahilde işleme izni verilecek haller",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izninin kapsamını genişletmeye hangi birim yetkilidir?",
+     "cevap": "Gümrükler Genel Müdürlüğünün görüşü alınmak suretiyle İhracat Genel Müdürlüğü yetkilidir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 14/2",
+     "kanit": "Gümrükler Genel Müdürlüğünün görüşü alınmak suretiyle, İhracat Genel Müdürlüğünce birinci fıkrada belirtilen dahilde işleme izninin kapsamı genişletilebilir."
+    },
+    {
+     "alt_konu": "Belge/izin müracaatının değerlendirme kriterleri",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin müracaatları değerlendirilirken, ithal eşyasının kullanıldığının tespiti ve üreticilerin temel ekonomik çıkarları dışında hangi kriterler esas alınır?",
+     "cevap": "Türk malı imajının olumsuz etkilenmemesi; işleme faaliyetinin katma değer yaratan ve kapasite kullanımını artıran, ürünün rekabet gücünü ve ihraç potansiyelini artıran nitelikte olması; firmaların belge/izinler kapsamındaki performansları.",
+     "dayanak": "DİR Tebliği (2006/12) md. 16",
+     "kanit": "ile Türk malı imajının olumsuz etkilenmemesi, ... katma değer yaratan ve kapasite kullanımını artıran bir faaliyet olması ... ç) Firmaların dahilde işleme izin belgeleri/dahilde işleme izinleri kapsamındaki performansları,"
+    },
+    {
+     "alt_konu": "Belge/izin düzenlenmesi: kapsam dışı eşya, döviz kullanım oranı ve oran sınırları",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre hangi eşyalar dahilde işleme rejimi kapsamında değerlendirilmez?",
+     "cevap": "Süs hayvanları, canlı balık (orkinos balığı ve larva hariç), küçük ve büyükbaş hayvanlar ile çevre kirliliğine neden olan eşyalar.",
+     "dayanak": "DİR Tebliği (2006/12) md. 17/2",
+     "kanit": "Süs hayvanları, canlı balık (orkinos balığı ve larva hariç), küçük ve büyükbaş hayvanlar ile çevre kirliliğine neden olan eşyalar dahilde işleme rejimi kapsamında değerlendirilmez."
+    },
+    {
+     "alt_konu": "Belge/izin düzenlenmesi: kapsam dışı eşya, döviz kullanım oranı ve oran sınırları",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre döviz kullanım oranı hangi hallerde aranmaz?",
+     "cevap": "Dahilde işleme izninde; izin belgesi kapsamındaki bedelsiz ithalatta; belge süresi sona erdikten veya ihracat taahhüdü kapatıldıktan sonra geri gelen işlem görmüş ürün için düzenlenen yeni belgede; izin belgesi kapsamındaki yurt içi alımlarda aranmaz.",
+     "dayanak": "DİR Tebliği (2006/12) md. 17/8",
+     "kanit": "Döviz kullanım oranı; a) Dahilde işleme izninde, ... kapsamındaki bedelsiz ithalatta, ... geri gelen işlem görmüş ürün için yeni bir dahilde işleme izin belgesi düzenlenmesi halinde yeni belgede, ... kapsamındaki yurt içi alımlarda, aranmaz."
+    },
+    {
+     "alt_konu": "Belge/izin düzenlenmesi: kapsam dışı eşya, döviz kullanım oranı ve oran sınırları",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izin belgesi kapsamında döviz kullanım oranı en fazla yüzde kaç olarak belirlenebilir?",
+     "cevap": "Bakanlıkça %80'i geçmemek üzere belirlenir; ikincil işlem görmüş tarım ürünleri taahhüdü içeren belgelerde bu oran Bakanlıkça azami %100 olarak tespit edilebilir. Ancak Bakanlık, uluslararası emtia piyasalarındaki konjonktürel fiyat dalgalanmaları nedeniyle bu azami oranları dönemsel veya sektörel olarak yükseltmeye yetkilidir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 17/9-10",
+     "kanit": "Dahilde işleme izin belgesi kapsamında döviz kullanım oranı % 80'i geçmemek üzere Bakanlıkça belirlenir. Ancak, ikincil işlem görmüş tarım ürünleri taahhüdü içeren belgelerde bu oran Bakanlıkça azami % 100 olarak tespit edilebilir. ... Bakanlık uluslararası emtia piyasalarındaki konjonktürel fiyat dalgalanmalarından dolayı dokuzuncu fıkrada belirtilen azami oranları dönemsel veya sektörel olarak yükseltmeye yetkilidir."
+    },
+    {
+     "alt_konu": "Belge/izin düzenlenmesi: kapsam dışı eşya, döviz kullanım oranı ve oran sınırları",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin kapsamında ihracat taahhüdünün azami yüzde kaçı oranında değişmemiş eşya ithalatına izin verilebilir?",
+     "cevap": "İhracat taahhüdünün azami %1'i oranında.",
+     "dayanak": "DİR Tebliği (2006/12) md. 17/11",
+     "kanit": "Belge/izin kapsamında ihracat taahhüdünün azami % 1'i oranında değişmemiş eşya ithalatına izin verilebilir."
+    },
+    {
+     "alt_konu": "Belge/izin düzenlenmesi: kapsam dışı eşya, döviz kullanım oranı ve oran sınırları",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin kapsamında ithaline izin verilecek işletme malzemesinin değeri ihracat taahhüdünün yüzde kaçını geçemez?",
+     "cevap": "%2'sini geçemez; doğal taşlar ile kıymetli maden ve taş ihraç taahhüdü içeren belge/izinlerde bu oran %10'a kadar tespit edilebilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 17/12",
+     "kanit": "Belge/izin kapsamında ithaline izin verilecek işletme malzemesi değeri, ihracat taahhüdünün % 2'sini geçemez. Ancak, doğal taşlar ile kıymetli maden ve taş ihraç taahhüdü içeren belgede/izinde, bu oran % 10'a kadar tespit edilebilir."
+    },
+    {
+     "alt_konu": "Belgenin/iznin revizesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izni hangi aşamaya kadar revize edilebilir ve revize müracaatı nereye yapılır?",
+     "cevap": "Taahhüt kapatma işlemleri sonuçlandırılıncaya kadar revize edilebilir; revize müracaatı gerekli bilgi ve belgelerle ilgili gümrük idaresine yapılır ve gümrük idaresince sonuçlandırılır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 19/4",
+     "kanit": "Dahilde işleme izni, taahhüt kapatma işlemleri sonuçlandırılıncaya kadar revize edilebilir. ... revize müracaatı, ilgili firma tarafından gerekli bilgi ve belgeler ile birlikte ilgili gümrük idaresine yapılır."
+    },
+    {
+     "alt_konu": "Belge/izin süresi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izin belgesinin/izninin süresi sektörüne göre azami ne kadar tespit edilebilir?",
+     "cevap": "Azami 12 aya kadar tespit edilebilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 20/1",
+     "kanit": "Dahilde işleme izin belgesinin/dahilde işleme izninin süresi sektörüne göre azami 12 (oniki) aya kadar tespit edilebilir."
+    },
+    {
+     "alt_konu": "Belge/izin süresi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre hangi ürünlerin ihracına ilişkin belge/izinlerde süre proje süresi kadar tespit edilebilir?",
+     "cevap": "Gemi inşası, komple tesis vb. ile üretim süreci 12 ayı aşan ürünler ve savunma sanayi alanına giren ürünlerin ihracına ilişkin belge/izinlerde.",
+     "dayanak": "DİR Tebliği (2006/12) md. 20/2",
+     "kanit": "Ancak, gemi inşaa, komple tesis v.b. ile üretim süreci 12 (oniki) ayı aşan ürünler ve savunma sanayi alanına giren ürünlerin ihracına ilişkin düzenlenen belgenin/iznin süresi, proje süresi kadar tespit edilebilir."
+    },
+    {
+     "alt_konu": "Ek süre müracaatı ve değerlendirilmesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izin belgesine ek süre almak için en geç ne zamana kadar ve nereye müracaat edilmelidir; proje süreli dahilde işleme izninde bu süre nedir?",
+     "cevap": "İzin belgesinde en geç belge süresi sonundan itibaren 3 ay içinde elektronik ortamda Bakanlığa; proje süreli dahilde işleme izninde en geç izin süresi sonundan itibaren 2 ay içinde ilgili gümrük idaresine müracaat edilir. Süresinde yapılmayan müracaat değerlendirmeye alınmaz.",
+     "dayanak": "DİR Tebliği (2006/12) md. 21",
+     "kanit": "en geç belge süresi sonundan itibaren 3 (üç) ay içerisinde elektronik ortamda Bakanlığa, ... en geç izin süresi sonundan itibaren 2 (iki) ay içerisinde ilgili gümrük idaresine, ... sürede yapılmayan müracaat değerlendirmeye alınmaz."
+    },
+    {
+     "alt_konu": "Ek süre müracaatı ve değerlendirilmesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre ilk ithalatın yapıldığı tarih esas alınarak izin belgesinin süresi azami ne kadar uzatılır; belge kapsamında hiç ithalat yapılmamışsa ne olur?",
+     "cevap": "Belge süresi azami 3 ay uzatılır; hiç ithalat yapılmamış olsa da belge süresi azami 3 ay uzatılır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 22/1",
+     "kanit": "Dahilde işleme izin belgesi kapsamında ilk ithalatın yapıldığı tarih esas alınmak suretiyle belge süresi azami 3 (üç) ay uzatılır. Belge kapsamında hiç ithalat yapılmaması halinde de belge süresi azami 3 (üç) ay uzatılır."
+    },
+    {
+     "alt_konu": "Ek süre müracaatı ve değerlendirilmesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre gerçekleştirilen ihracatın belge ihracat taahhüdüne oranı en az ne kadar olursa izin belgesine ne kadar ek süre verilebilir?",
+     "cevap": "Oranın en az %25 olması halinde (komple tesis veya gemi inşasında üretimin %25'inin tamamlandığının belgelenmesi halinde) belge orijinal süresinin yarısı kadar ek süre verilebilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 22/2",
+     "kanit": "Dahilde işleme izin belgesi kapsamında gerçekleştirilen ihracat değerinin belge ihracat taahhüdü değerine oranının en az % 25 olması halinde ... dahilde işleme izin belgesine belge orijinal süresinin yarısı kadar ek süre verilebilir."
+    },
+    {
+     "alt_konu": "Haklı sebep halleri",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre firmanın belge kapsamındaki önceden ihracatına tekabül eden ithalatını tamamlayamaması halinde izin belgesine haklı sebebe dayalı olarak ne kadar ek süre verilebilir?",
+     "cevap": "Belge süresi sonundan itibaren azami belge orijinal süresinin yarısı kadar haklı sebebe ilişkin ek süre verilebilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 24/1",
+     "kanit": "ilgili firmanın belge kapsamındaki önceden ihracatına tekabül eden ithalatını tamamlayamaması haline mahsus olmak üzere, belge süresi sonundan itibaren azami belge orijinal süresinin yarısı kadar haklı sebebe ilişkin ek süre verilebilir."
+    },
+    {
+     "alt_konu": "Mücbir sebep ve fevkalade haller",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre mücbir sebep ve fevkalade hallere dayanılarak belge/izne ilave süre verilebilmesi için bu hallerin ne zaman meydana gelmiş olması gerekir?",
+     "cevap": "Belge/izin süresi içerisinde meydana gelmiş olması gerekir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 25/1",
+     "kanit": "Aşağıda belirtilen mücbir sebep ile fevkalade hallerin belge/izin süresi içerisinde meydana gelmesi halinde, dahilde işleme izin belgesine/dahilde işleme iznine ilave süre verilebilir:"
+    },
+    {
+     "alt_konu": "Mücbir sebep ve fevkalade haller",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre mücbir sebep ve fevkalade haller arasında sayılan grev ve lokavt hangi merciden alınacak yazı ile tevsik edilir?",
+     "cevap": "İl çalışma müdürlüklerinden alınacak yazı ile tevsik edilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 25/1-e",
+     "kanit": "e) Grev ve lokavt (İl çalışma müdürlüklerinden alınacak yazı ile)."
+    },
+    {
+     "alt_konu": "Mücbir sebep ve fevkalade haller",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre tabii afet ve yangın gibi mücbir sebeplerle belge/izin kapsamında ithal edilen eşyanın yerine konulamayacak şekilde telef veya kaybı halinde, mahkemece yapılan delil tespitinin tevsiki üzerine ne yapılır?",
+     "cevap": "Bu ithalata tekabül eden ihracat aranmaksızın ihracat taahhüdü kapatılır ve ithalata ilişkin teminat iade edilir ya da ihracat taahhüdünün tamamlanması için telef olan veya kaybolan miktar kadar yeni ithalata izin verilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 27/2-a",
+     "kanit": "1) Bu ithalata tekabül eden ihracatın gerçekleştirilmesi aranmaksızın ihracat taahhüdü kapatılır ve ithalata ilişkin teminat iade edilir veya, ... 2) İhracat taahhüdünün tamamlanması için telef olan veya kaybolan miktar kadar yeni ithalata izin verilir."
+    },
+    {
+     "alt_konu": "İhracatın gerçekleştirilmesi ve serbest bölgelere ihracat",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre şartlı muafiyet sistemi çerçevesinde belge/izin süresi içinde serbest bölgelere yapılan ihracatın taahhüt kapatmada değerlendirilebilmesi için hangi süre içinde ne tevsik edilmelidir?",
+     "cevap": "En geç belge/izin süresi bitiminden itibaren 3 ay içinde eşyanın serbest bölgeden başka bir ülkeye satıldığı veya Yatırım Teşvik Belgesi ya da başka bir belge/izin kapsamında Türkiye Gümrük Bölgesine ithal edildiği gibi Tebliğde sayılan kullanımlardan birinin tevsiki gerekir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 28/2",
+     "kanit": "serbest bölgelere gerçekleştirilen ihracata konu eşyanın en geç belge/izin süresi bitiminden itibaren 3 (üç) ay içerisinde; serbest bölgelerden başka bir ülkeye satışının yapıldığının, Yatırım Teşvik Belgesi veya bir başka belge/izin kapsamında Türkiye Gümrük Bölgesine ithalatının yapıldığının,"
+    },
+    {
+     "alt_konu": "Aracı ihracatçı ile ihracat",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre elektronik ortamda düzenlenen dahilde işleme izin belgesi kapsamında aracı ihracatçı ile ihracat yapılabilmesi için ne gerekir?",
+     "cevap": "Önceden ilgili bölge müdürlüğünden izin alınması gerekir; Bakanlık (İhracat Genel Müdürlüğü) aracı ihracatçı kullanımına kısıtlama getirebilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 29/1",
+     "kanit": "Ancak, elektronik ortamda düzenlenen dahilde işleme izin belgesi kapsamındaki işlemler için önceden ilgili bölge müdürlüğünden izin alınması gerekir. Bakanlıkça (İhracat Genel Müdürlüğü) aracı ihracatçı kullanımına kısıtlama getirilebilir."
+    },
+    {
+     "alt_konu": "Aracı ihracatçı ile ihracat",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre aracı ihracatçı ile yapılan ihracatta gümrük beyannamesi ve eki belgelerin sahte olduğu veya gerçeği yansıtmadığı tespit edildiğinde aracı ihracatçının sorumluluğu nedir?",
+     "cevap": "Aracı ihracatçı, beyanname konusu işlem görmüş ürünün elde edilmesinde kullanılan eşyanın ithalatında alınmayan vergiden belge/izin sahibi firma ile birlikte müştereken ve müteselsilen sorumludur.",
+     "dayanak": "DİR Tebliği (2006/12) md. 29/5",
+     "kanit": "aracı ihracatçı, beyanname konusu işlem görmüş ürünün elde edilmesinde kullanılan eşyanın ithalatı esnasında alınmayan vergiden, belge/izin sahibi firma ile birlikte müştereken ve müteselsilen sorumludur."
+    },
+    {
+     "alt_konu": "Gümrük idaresince yapılacak işlemler",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge kapsamındaki ihracatta işlem görmüş ürün için ekspertiz raporu ve ayniyet tespiti istenir mi; dahilde işleme izni kapsamında hangi durumda ekspertiz raporu istenebilir?",
+     "cevap": "Belgede ihracı taahhüt edilen ürünle fiziki unsurları itibarıyla aynı eşya olduğunun belge üzerinde görülmesi yeterlidir; belgenin özel şartlarında aksine hüküm yoksa ayrıca ekspertiz raporu ve ayniyet istenmez. İzin kapsamında ise ihraç edilen ürünün ithal edilen eşyadan elde edilmediğine ilişkin karineler bulunması halinde ekspertiz raporu istenebilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 31/2-g, ğ",
+     "kanit": "belgenin özel şartlar bölümünde aksine bir hüküm olmadıkça ayrıca ekspertiz raporu ve ayniyet istenmez. ... ithal edilen eşyadan elde edilmediğine ilişkin karinelerin bulunması halinde, bu ürün için ekspertiz raporu istenebilir."
+    },
+    {
+     "alt_konu": "Gözetim ve korunma önlemlerine tabi eşya",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin kapsamında ithali gözetim ve korunma önlemlerine tabi eşyanın serbest dolaşıma girebilmesi için ne gerekir; aksi halde bu eşyadan elde edilen ürün için ne yapılır?",
+     "cevap": "Firmaların ithal tarihi itibarıyla yürürlükteki önlemler çerçevesinde ithal lisansı (kota) ve/veya gözetim belgesine sahip olması zorunludur; aksi takdirde işlem görmüş ürünün üçüncü ülkelere ihracı ya da gümrük idaresi gözetiminde imhası gerekir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 32/1-2",
+     "kanit": "ithal tarihi itibarıyla yürürlükte bulunan gözetim ve korunma önlemleri çerçevesinde ithal lisanslarının (kota) ve/veya gözetim belgelerinin bulunması zorunludur. ... Aksi takdirde, bu eşyadan elde edilen işlem görmüş ürünün, üçüncü ülkelere ihracı ya da gümrük idaresi gözetiminde imhası gerekir."
+    },
+    {
+     "alt_konu": "Telafi edici verginin ödenmesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge kapsamında önceden ihracat işleminden sonra ithalat yapılması durumunda telafi edici vergi hangi tarihteki kur ve oranlar üzerinden hesaplanır ve ne zaman ödenir?",
+     "cevap": "Önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz satış kuru ve bu tarihte ithalat rejiminde belirtilen gümrük vergisi ile varsa toplu konut fonu üzerinden hesaplanır; önceden ihracata tekabül eden ithalatın yapılması esnasında ödenir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 33/7",
+     "kanit": "bu vergi serbest bölgelerden gerçekleştirilen satışlar dahil önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz satış kuru ... önceden ihracata tekabül eden ithalatın yapılması esnasında ödenir."
+    },
+    {
+     "alt_konu": "Telafi edici verginin ödenmesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre Avrupa Topluluğuna üye ülkelere ihraç edilen ve elde edilmesinde üçüncü ülke menşeli eşya kullanılan hangi ürünler için telafi edici vergi aranmaz?",
+     "cevap": "Her türlü harp araç, gereç, teçhizat, makine, cihaz ve sistemleri ile bunların yapım, bakım ve onarımlarında kullanılacak yedek parçalar için aranmaz.",
+     "dayanak": "DİR Tebliği (2006/12) md. 33/9",
+     "kanit": "Elde edilmesinde üçüncü ülke menşeli eşya kullanılan ve Avrupa Topluluğuna üye ülkelere ihraç edilen her türlü harp araç, gereç, teçhizat, makine, cihaz ve sistemleri ile bunların yapım, bakım ve onarımlarında kullanılacak yedek parçalar için telafi edici vergi aranmaz."
+    },
+    {
+     "alt_konu": "Fazla ödenen verginin geri verilmesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin kapsamında fazla yatırıldığı tespit edilen verginin geri verilmesi için hangi süre içinde nereye müracaat edilmelidir?",
+     "cevap": "Verginin tebliği tarihinden itibaren 3 yıl içinde tevsik edici bilgi ve belgelerle ilgili gümrük idaresine müracaat edilmelidir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 34/2",
+     "kanit": "Belge/izin kapsamında fazla yatırıldığı tespit edilen verginin geri verilmesi için, bu verginin tebliği tarihinden itibaren 3 (üç) yıl içerisinde tevsik edici bilgi ve belgelerle birlikte ilgili gümrük idaresine müracaat edilmesi gerekir."
+    },
+    {
+     "alt_konu": "Fazla ödenen verginin geri verilmesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre gümrük idaresi fazla yatırılan vergiyi geri verme kararının alındığı tarihten itibaren hangi süre içinde geri vermek zorundadır; bu süre içinde geri verilmezse ne uygulanır?",
+     "cevap": "3 ay içinde geri vermek zorundadır; bu süre içinde geri verilmezse sürenin bitiminden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun tecil faizine ilişkin hükümleri uygulanır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 34/3",
+     "kanit": "geri verme kararının alındığı tarihten itibaren 3 (üç) ay içerisinde fazla yatırılan vergiyi geri vermek zorundadır. ... bu sürenin bitiminden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun tecil faizine ilişkin hükümleri uygulanır."
+    },
+    {
+     "alt_konu": "Kısmi teminat iadesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre kısmi teminat iadesi kapsamında geri verilen teminat tutarı, belge/izin kapsamında alınması gereken toplam verginin yüzde kaçını geçemez; bakiye teminat ne zaman iade edilir?",
+     "cevap": "Toplam verginin %90'ını geçemez; bakiye teminatlar ihracat taahhüdünün kapatılmasını müteakip firmaya iade edilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 36/4",
+     "kanit": "Kısmi teminat iadesi kapsamında geri verilen teminat tutarı, belge/izin kapsamında alınması gereken toplam verginin % 90'ını geçemez. Bakiye teminatlar ise, belge/izin ihracat taahhüdünün kapatılmasını müteakip firmaya iade edilir."
+    },
+    {
+     "alt_konu": "Kısmi teminat iadesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre indirimli teminat uygulaması çerçevesinde düzenlenen belge/izin kapsamında yapılan ithalat için kısmi teminat iadesi yapılır mı?",
+     "cevap": "Yapılmaz.",
+     "dayanak": "DİR Tebliği (2006/12) md. 36/5",
+     "kanit": "indirimli teminat uygulaması çerçevesinde düzenlenen dahilde işleme izin belgesi/dahilde işleme izni kapsamında yapılan ithalat için kısmi teminat iadesi yapılmaz."
+    },
+    {
+     "alt_konu": "İhracat taahhüdünün kapatılması için bilgi ve belgelerin sunulması",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izin belgesinin ihracat taahhüdünü kapatmak için bilgi ve belgeler hangi süre içinde nereye sunulmalıdır?",
+     "cevap": "En geç belge süresi sonundan itibaren 3 ay içinde, Bakanlıkça (İhracat Genel Müdürlüğü) belirlenen ilgili bölge müdürlüğüne sunulmalıdır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 37/1-a",
+     "kanit": "Dahilde işleme izin belgesi ihracat taahhüdünü kapatmak için en geç belge süresi sonundan itibaren üç ay içerisinde Ek-3'te belirtilen bilgi ve belgeleri Bakanlıkça (İhracat Genel Müdürlüğü) belirlenen ilgili bölge müdürlüğüne,"
+    },
+    {
+     "alt_konu": "İhracat taahhüdünün kapatılması için bilgi ve belgelerin sunulması",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre taahhüt kapatma için öngörülen sürelerin dolacağı hususunda firmalara ayrıca yazılı bildirim yapılır mı?",
+     "cevap": "Yapılmaz; işlemlerin süresi içinde yerine getirilmesi firmanın sorumluluğundadır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 37/2",
+     "kanit": "Birinci fıkrada belirtilen işlemlerin süresi içerisinde yerine getirilmesi firma sorumluluğunda olup, bu süreler zarfında firmalara ayrıca yazılı olarak bildirimde bulunulmaz."
+    },
+    {
+     "alt_konu": "Kapatma işleminin sonuçlandırılması",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre ihracat taahhüdünün kapatılmasına ilişkin bilgi ve belgeler süresinde ibraz edilmez veya eksik ibraz edilirse ne yapılır?",
+     "cevap": "Eksiklikler 1 ay içinde tamamlanmak üzere bölge müdürlüğü/gümrük idaresince firmaya bildirilir; bu sürede tamamlanmazsa ihracat taahhüdü mevcut bilgi ve belgelerle, müeyyide hükümleri de dikkate alınarak kapatılır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 38/1",
+     "kanit": "bu eksiklikler 1 (bir) ay içerisinde tamamlanmak üzere ilgili bölge müdürlüğü/gümrük idaresi tarafından firmaya bildirilir. Bu süre içerisinde eksik bilgi ve belgelerin tamamlanmaması durumunda, ihracat taahhüdü mevcut bilgi ve belgelerle,"
+    },
+    {
+     "alt_konu": "Kapatma işleminin sonuçlandırılması",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre bir gümrük beyannamesinin belge/izin ihracat taahhüdüne sayılabilmesi için beyannamede ne yer alması zorunludur?",
+     "cevap": "Belge/izin sayısını içeren satır kodunun yer alması zorunludur.",
+     "dayanak": "DİR Tebliği (2006/12) md. 38/3",
+     "kanit": "Gümrük beyannamesinin dahilde işleme izin belgesi/dahilde işleme izni ihracat taahhüdüne sayılabilmesi için ilgili gümrük beyannamesinde belge/izin sayısını içeren satır kodunun yer alması zorunludur."
+    },
+    {
+     "alt_konu": "Kapatma işleminin sonuçlandırılması",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin kapsamında ithal edilen eşyanın veya asıl işlem görmüş ürünün hangi hallerde bu eşyaya tekabül eden ihracatın gerçekleştirilmesi aranmaz?",
+     "cevap": "Belge/izin süresi içinde gümrük idaresi gözetiminde imhası, gümrüğe terk edilmesi veya mahrecine iadesi hallerinde aranmaz.",
+     "dayanak": "DİR Tebliği (2006/12) md. 38/8",
+     "kanit": "gümrük mevzuatı çerçevesinde belge/izin süresi içerisinde gümrük idaresi gözetiminde imhası, gümrüğe terk edilmesi veya mahrecine iadesi hallerinde, bu eşyaya tekabül eden ihracatın gerçekleştirilmesi aranmaz."
+    },
+    {
+     "alt_konu": "Kapatma işleminin sonuçlandırılması",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre taahhüt hesabının müeyyideli kapatılmasına karşı dahilde işleme izin belgesi sahibi firmalar hangi süre içinde nereye itiraz edebilir; izinlere ilişkin müeyyideli kapatmada hangi yol izlenir?",
+     "cevap": "Belge sahibi firmalar tebliğ tarihinden itibaren 1 ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak itiraz edebilir; dahilde işleme izinlerine ilişkin müeyyideli kapatma işlemlerine karşı Gümrük Kanunundaki itiraz yoluna başvurulur.",
+     "dayanak": "DİR Tebliği (2006/12) md. 38/12",
+     "kanit": "tebliğ tarihinden itibaren 1 (bir) ay içerisinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak itiraz edebilirler. ... Dahilde işleme izinlerine ilişkin müeyyideli kapatma işlemlerine ise, 4458 sayılı Gümrük Kanununun"
+    },
+    {
+     "alt_konu": "Hak ve yükümlülüklerin devri",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre işlem görmüş ürün bünyesinde kullanılan ithal eşyasına ilişkin hak ve yükümlülüklerin başka bir belge sahibine devri halinde, telafi edici verginin ödenmemesi veya eksik ihracat gerçekleştirilmesinden doğan mali ve hukuki sorumluluk kime aittir?",
+     "cevap": "Tüm mali ve hukuki sorumluluk devralan firmaya geçer.",
+     "dayanak": "DİR Tebliği (2006/12) md. 38/A-4",
+     "kanit": "Devir durumunda varsa ödenmesi gereken telafi edici verginin ödenmemesi veya eksik ihracat gerçekleştirilmesi halinde, tüm mali ve hukuki sorumluluk devralan firmaya geçer."
+    },
+    {
+     "alt_konu": "Kapatmanın bildirimi ve teminatın/verginin iadesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre ihracat taahhüdünün kapatılmasını müteakip yurt içi alım yapılan dahilde işleme izin belgesi kapsamında alınan teminatlar kim tarafından iade edilir?",
+     "cevap": "Tarım ve Orman Bakanlığınca tespit edilen şeker fabrikalarınca iade edilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 40/1-a",
+     "kanit": "a) Yurt içi alım yapılan dahilde işleme izin belgesi kapsamında alınan teminatlar Tarım ve Orman Bakanlığınca ... tespit edilen şeker fabrikalarınca,"
+    },
+    {
+     "alt_konu": "İhraç edilen işlem görmüş ürünün geri getirilmesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin kapsamında ihraç edilen işlem görmüş ürünün belge/izin süresi içerisinde herhangi bir sebeple geri getirilmesi halinde ithalatına ve yeniden ihracatına hangi şartla müsaade edilir?",
+     "cevap": "İhracat nedeniyle varsa yararlanılan hak ve menfaatin teminatının alındığının tevsiki kaydıyla ilgili gümrük idaresince ithalatına ve ihracatına müsaade edilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 42/1",
+     "kanit": "süresi geçerli belge/izin kapsamında ihracat nedeniyle varsa yararlanılan hak ve menfaatin bu Tebliğin 8 inci maddesi hükmüne göre teminatının alındığının tevsiki kaydıyla, ilgili gümrük idaresince bu ürünün ithalatına ve ihracatına müsaade edilir."
+    },
+    {
+     "alt_konu": "İhracatın gerçekleştirilmemesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin kapsamında ihracatı gerçekleştirilmeyen ithal eşyası nerede ve hangi şekilde bulundurulmalıdır?",
+     "cevap": "İşlem görmüş ürün ve/veya ithal edildiği şekliyle belge/izin sahibi firma ve/veya yan sanayici firmanın stoklarında bulundurulması zorunludur.",
+     "dayanak": "DİR Tebliği (2006/12) md. 43/1",
+     "kanit": "ihracatı gerçekleştirilmeyen ithal eşyasının, işlem görmüş ürün ve/veya ithal edildiği şekliyle belge/izin sahibi firma ve/veya yan sanayici firmanın stoklarında bulundurulması zorunludur."
+    },
+    {
+     "alt_konu": "İhracatın gerçekleştirilmemesi",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre geri ödeme sistemi kapsamında ithal edilen ancak belge/izin süresi içerisinde işlem görmüş ürün olarak ihracatı gerçekleştirilemeyen ithal eşyasına ilişkin alınan vergi hakkında ne yapılır?",
+     "cevap": "Alınan vergi iade edilmez.",
+     "dayanak": "DİR Tebliği (2006/12) md. 43/4",
+     "kanit": "Geri ödeme sistemi kapsamında ithal edilen ancak belge/izin süresi içerisinde işlem görmüş ürün olarak ... ihracatı gerçekleştirilemeyen ithal eşyasına ilişkin alınan vergi iade edilmez."
+    },
+    {
+     "alt_konu": "Belgenin/iznin iptali",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin düzenlenmesine dayanak bilgi ve belgelerin gerçek dışı olduğunun veya belge/iznin sahtesinin düzenlendiğinin tespiti halinde belge ve izin hangi makamlarca iptal edilir?",
+     "cevap": "Dahilde işleme izin belgesi Bakanlıkça, dahilde işleme izni ise ilgili gümrük idaresince iptal edilir ve ilgililer hakkında kanuni işlem yapılır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 44/2",
+     "kanit": "ilgili belge Bakanlıkça, izin ise ilgili gümrük idaresince iptal edilir ve ilgililer hakkında kanuni işlem yapılır."
+    },
+    {
+     "alt_konu": "Dahilde işleme tedbirlerine uyulmaması (müeyyideler)",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme tedbirlerine uyulmaması halinde alınmayan vergi hangi tarih itibarıyla ve hangi kanun hükümlerine göre tahsil edilir; süresinde ihracatı gerçekleştirilmeyen eşya için ayrıca ne uygulanır?",
+     "cevap": "İthal tarihi itibarıyla 4458 sayılı Gümrük Kanunu ile 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir; ayrıca ithal edilip süresinde ihracatı gerçekleştirilmeyen eşya için Gümrük Kanunu çerçevesinde müeyyide uygulanır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 45/1",
+     "kanit": "ithal tarihi itibarıyla 4458 sayılı Gümrük Kanunu ile 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir. ... süresi içerisinde ihracatı gerçekleştirilmeyen eşya için 4458 sayılı Gümrük Kanununun 238 inci maddesi hükmü çerçevesinde müeyyide uygulanır."
+    },
+    {
+     "alt_konu": "Dahilde işleme tedbirlerine uyulmaması (müeyyideler)",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre belge/izin kapsamında Türkiye Gümrük Bölgesine getirilen eşya için rejimin gerektirdiği işlemler belge/izin süresinin bitimini takiben 1 ay veya 2 ay içinde tamamlanırsa nasıl işlem yapılır?",
+     "cevap": "Her iki durumda da işlemler belge/izin kapsamında değerlendirilir; ancak süre bitimini takiben 1 ay içinde tamamlanırsa usulsüzlük cezasının iki katı, 2 ay içinde tamamlanırsa dört katı para cezası tahsil edilir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 45/5",
+     "kanit": "belge/izin süresinin bitimini takiben 1 (bir) ay içerisinde ... usulsüzlük cezasının iki katı para cezası tahsil edilir. ... belge/izin süresinin bitimini takiben 2 (iki) ay içerisinde ... usulsüzlük cezasının dört katı para cezası tahsil edilir."
+    },
+    {
+     "alt_konu": "Dahilde işleme tedbirlerine uyulmaması (müeyyideler)",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre ithal edilen eşyanın tamamı ihraç ürününde kullanılmış olsa dahi döviz kullanım oranının azami oranları geçmesi halinde indirimli teminat hakkına sahip firmaya hangi yaptırım uygulanır?",
+     "cevap": "Bakanlıkça uygun görüldüğü tarihten itibaren 6 ay süreyle indirimli teminat uygulanmaz; 2 takvim yılı içindeki müteakip ihlallerde 6 aylık süreyle teminat oranı ithalattan doğan vergi tutarının 2 katına kadar artırılır.",
+     "dayanak": "DİR Tebliği (2006/12) md. 45/4-b",
+     "kanit": "6 (altı) ay süreyle indirimli teminat uygulanmaz ve söz konusu firmaların bu fıkra kapsamında 2 (iki) takvim yılı içerisinde müteakip ihlallerinde teminat oranı ... ithalattan doğan vergi tutarının 2 (iki) katına kadar arttırılır."
+    },
+    {
+     "alt_konu": "Dahilde işleme tedbirlerine uyulmaması (müeyyideler)",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre Bakanlıkça iç piyasa dengelerinin korunması amacıyla konulan önceden ihracat veya önceden ithalat şartının ihlali halinde ihlali gerçekleştiren firmaya hangi süreyle belge/izin düzenlenmez?",
+     "cevap": "Bakanlıkça uygun görüldüğü tarihten itibaren ilk ihlalde 3 ay, 2 takvim yılı içinde gerçekleşen müteakip ihlalde 6 ay süreyle belge/izin düzenlenmez; bu sürede firma başka bir firmanın belgesine/iznine yan sanayici, temsilci ithalatçı veya aracı ihracatçı olarak da eklenmez.",
+     "dayanak": "DİR Tebliği (2006/12) md. 45/7",
+     "kanit": "ilk ihlalde 3 (üç) ay süreyle, 2 (iki) takvim yılı içerisinde gerçekleşen müteakip ihlalde ise 6 (altı) ay süreyle belge/izin düzenlenmez, ihlali gerçekleştiren firma başka bir firmanın belgesine/iznine yan sanayici, temsilci ithalatçı veya aracı ihracatçı olarak eklenmez,"
+    },
+    {
+     "alt_konu": "Dahilde işleme rejiminde sağlanan hakların kötüye kullanımı",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme rejiminde sağlanan hakların kötüye kullanıldığının tespiti halinde ilgili belge/izne ek süre verilir mi?",
+     "cevap": "Verilmez; ilgili belgeye/izne herhangi bir ek süre verilmez.",
+     "dayanak": "DİR Tebliği (2006/12) md. 46/6",
+     "kanit": "Bu maddede belirtilen hakların kötüye kullanıldığına ilişkin hallerin tespiti durumunda, ilgili belgeye/izne herhangi bir ek süre verilmez."
+    },
+    {
+     "alt_konu": "Taahhüt kapatma ve iptal işlemlerinin geri alınması",
+     "soru": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12)'ye göre dahilde işleme izin belgesinin ve dahilde işleme izninin taahhüt kapatma veya iptal işlemlerini geri almaya kimler yetkilidir?",
+     "cevap": "İzin belgesinde Bakanlık (İhracat Genel Müdürlüğü), dahilde işleme izninde ise Bölge Müdürlükleri yetkilidir.",
+     "dayanak": "DİR Tebliği (2006/12) md. 49/2",
+     "kanit": "Dahilde işleme izin belgesinin taahhüt kapatma veya iptal işlemlerini geri almaya Bakanlık (İhracat Genel Müdürlüğü); dahilde işleme izninin taahhüt kapatma veya iptal işlemlerini geri almaya ise Bölge Müdürlükleri"
+    }
+   ]
+  }
+ ]
+}

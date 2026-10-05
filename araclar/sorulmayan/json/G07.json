@@ -1,0 +1,1796 @@
+{
+ "grup": "G07",
+ "dosyalar": [
+  {
+   "kaynak": "23-SERİ NO 4.txt",
+   "konu": "Transit rejimi – ortak ve ulusal transit uygulama usulleri (NCTS, teminat ve kefil, beyan, transit süresi, varış, ibra, araştırma ve tahsilat)",
+   "mevzuat": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 1-60; dayanak: Ortak Transit Rejimine İlişkin Sözleşme, GK md. 84-92, GY md. 212-244",
+   "cikmis_sayisi": 9,
+   "cikmis": [
+    "2024-56: Ulusal ve ortak transit rejimlerinde kapsamlı teminat kullanılabilir (md. 4/1).",
+    "2024-58: Transitte teminattan vazgeçme izni için yetkili birim Gümrükler Genel Müdürlüğüdür (md. 5/1-a).",
+    "2024-77 (Teminat ve Faiz, GY): Götürü teminat transit rejiminde kullanılamaz; transitte kapsamlı teminat kullanılır (md. 4/1 ile ilişkili).",
+    "2025-72 (GY): NCTS'de beyan tarihinden itibaren otuz gün içinde hareket idaresine sunulmayan transit beyanları reddedilir (md. 19/2'deki otuz günlük süreyle aynı).",
+    "2024-92: Transit rejimi eşya ve belgelerin varış gümrük idaresine (Sarp) sunulmasıyla sona erer (md. 35/1).",
+    "2025-74 (GY): Rejimin sonlandırılması için eşyanın sunulması gereken idare varış gümrük idaresidir (md. 35/1).",
+    "2025-75: Transit rejimi eşya ve belgelerin varış idaresine (Doğubayazıt) mevzuata uygun sunulmasıyla sona erer (md. 35/1).",
+    "2024-61 (dolaylı, TIR Tebliği): Nisan-Eylül azami güzergâh kat etme süresi 120 saat (Ekim-Mart 168) – ulusal transit süreleriyle aynı (md. 25/3).",
+    "2022-74 (dolaylı, TIR Tebliği): Güzergâh kat etme süreleri ve güzergâh ihlalinde usulsüzlük cezası (md. 24/4 ve 25/3 ile paralel)."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Tanımlar: teminat referans numarası (GRN)",
+     "dayanak": "Seri No 4 Tebliğ md. 3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teminat türleri ve teminata ilişkin genel hususlar",
+     "dayanak": "Seri No 4 Tebliğ md. 4",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-56",
+      "2024-77"
+     ],
+     "not": "Ulusal ve ortak transitte kapsamlı teminatın kullanılabildiği (2024-56) ve götürü teminatın transitte kullanılamadığı (2024-77, GY) ölçüldü; ortak transitte nakit TL/dövizin bireysel teminat olarak kullanılamaması, teminat bilgisi yoksa beyanın kabul edilmemesi ve teminat hesaplama esası sorulmadı."
+    },
+    {
+     "baslik": "Teminat gümrük idaresi",
+     "dayanak": "Seri No 4 Tebliğ md. 5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-58"
+     ],
+     "not": "Teminattan vazgeçmede Gümrükler Genel Müdürlüğünün yetkili olduğu soruldu; kapsamlı teminatta bölge müdürlüğünün, bireysel teminatta hareket gümrük idaresinin teminat gümrük idaresi olduğu sorulmadı."
+    },
+    {
+     "baslik": "Teminat sertifikaları",
+     "dayanak": "Seri No 4 Tebliğ md. 6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kapsamlı teminat mektubu, GRN ve geçerlilik süreleri",
+     "dayanak": "Seri No 4 Tebliğ md. 9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kapsamlı teminatta indirim ve teminattan vazgeçme başvuru eşiği",
+     "dayanak": "Seri No 4 Tebliğ md. 11/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "2024-58 yalnızca vazgeçme izninde yetkili birimi ölçtü; başvuru eşiği sorulmadı."
+    },
+    {
+     "baslik": "İkinci ve üçüncü düzey kapsamlı teminat kullanıcılığı",
+     "dayanak": "Seri No 4 Tebliğ md. 11/4-5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Dördüncü düzey kapsamlı teminat kullanıcılığı (teminattan vazgeçme)",
+     "dayanak": "Seri No 4 Tebliğ md. 11/6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "2024-58 yalnızca izin makamını ölçtü; dördüncü düzey koşulları sorulmadı."
+    },
+    {
+     "baslik": "İzinli göndericilere kapsamlı teminatta indirim",
+     "dayanak": "Seri No 4 Tebliğ md. 11/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kapsamlı teminat izninin yeniden değerlendirilmesi",
+     "dayanak": "Seri No 4 Tebliğ md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kapsamlı teminat mektuplarının iadesi",
+     "dayanak": "Seri No 4 Tebliğ md. 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kefil ve kefilin yükümlülüğü",
+     "dayanak": "Seri No 4 Tebliğ md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın gümrük statüsü ve T1, T2, TR rejimleri",
+     "dayanak": "Seri No 4 Tebliğ md. 16, 17/5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Transit beyanının verilmesi ve beyanda kullanılan semboller",
+     "dayanak": "Seri No 4 Tebliğ md. 17",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Önceden verilen (D türü) beyanda sunuluş bildirimi için öngörülen otuz günlük süre, 2025-72'de ölçülen otuz günlük ret süresine çok yakın olduğundan ayrıca sorulmadı."
+    },
+    {
+     "baslik": "Transit beyanına eklenecek belgeler",
+     "dayanak": "Seri No 4 Tebliğ md. 18",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Transit beyanının sunulması ve reddi",
+     "dayanak": "Seri No 4 Tebliğ md. 19",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-72"
+     ],
+     "not": "LRN almış beyanların otuz gün içinde hareket idaresine sunulmazsa reddedileceği (GY'deki aynı hüküm üzerinden) soruldu; reddedilen/geri çevrilen beyanlar için usulsüzlük cezası uygulanmayacağı sorulmadı."
+    },
+    {
+     "baslik": "Transit beyanında düzeltme",
+     "dayanak": "Seri No 4 Tebliğ md. 21",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Transit beyanının iptali",
+     "dayanak": "Seri No 4 Tebliğ md. 22",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hareket gümrük idaresinde teminat kontrolü",
+     "dayanak": "Seri No 4 Tebliğ md. 23",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Zorunlu güzergâh",
+     "dayanak": "Seri No 4 Tebliğ md. 24",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "TIR Tebliğindeki güzergâh ihlali yaptırımı 2022-74'te ölçüldü (dolaylı); transitte zorunlu güzergâhın belirlendiği haller sorulmadı."
+    },
+    {
+     "baslik": "Transit süresi",
+     "dayanak": "Seri No 4 Tebliğ md. 25",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-61 (dolaylı)",
+      "2022-74 (dolaylı)"
+     ],
+     "not": "Ulusal transitteki 120/168 saatlik azami süreler, TIR Tebliğindeki aynı sürelerle ölçüldü; ortak transitte asgari beş gün, çok modlu taşımada on beş günlük ilave süre, sürenin başlangıcı ve bitimi sorulmadı."
+    },
+    {
+     "baslik": "Ayniyet önlemleri (mühürleme ve mühürden vazgeçme)",
+     "dayanak": "Seri No 4 Tebliğ md. 27",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Taşıma sırasındaki olaylar ve olay kaydı gümrük idaresi",
+     "dayanak": "Seri No 4 Tebliğ md. 30",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Çok modlu taşımacılık işlemleri",
+     "dayanak": "Seri No 4 Tebliğ md. 31",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Transit idaresi ve transit idaresi işlemleri",
+     "dayanak": "Seri No 4 Tebliğ md. 32-33",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Çıkış gümrük idaresi işlemleri",
+     "dayanak": "Seri No 4 Tebliğ md. 34",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış gümrük idaresine sunma ve rejimin sona ermesi",
+     "dayanak": "Seri No 4 Tebliğ md. 35",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-92",
+      "2025-74",
+      "2025-75"
+     ],
+     "not": "Transit rejiminin eşyanın varış gümrük idaresine sunulmasıyla sona erdiği soruldu; Varış Bilgisi mesajının gönderilme zamanı ve YGM bulunan antrepoda varış işlemini yapacak kişi sorulmadı."
+    },
+    {
+     "baslik": "Süre kontrolü ve transit süresinin aşılması",
+     "dayanak": "Seri No 4 Tebliğ md. 36",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış gümrük idaresinde beyanın kontrolü ve kontrol sonuçları",
+     "dayanak": "Seri No 4 Tebliğ md. 37",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İbra ve teminatın serbest bırakılması",
+     "dayanak": "Seri No 4 Tebliğ md. 40-41",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Alternatif kanıt ve alındı",
+     "dayanak": "Seri No 4 Tebliğ md. 42-43",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sonradan kontrol",
+     "dayanak": "Seri No 4 Tebliğ md. 44",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Araştırma usulü ve karar",
+     "dayanak": "Seri No 4 Tebliğ md. 45, 49",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tahsilat usulü",
+     "dayanak": "Seri No 4 Tebliğ md. 50",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kefile yönelik bildirimler",
+     "dayanak": "Seri No 4 Tebliğ md. 53",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük yükümlülüğünün doğması",
+     "dayanak": "Seri No 4 Tebliğ md. 54",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yükümlünün belirlenmesi",
+     "dayanak": "Seri No 4 Tebliğ md. 55",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Açık transit beyanlarının takibi",
+     "dayanak": "Seri No 4 Tebliğ md. 57",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Tanımlar: teminat referans numarası (GRN)",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre GRN neyi ifade eder?",
+     "cevap": "GRN, teminat gümrük idaresince kabul edilen kapsamlı teminat mektubu için sistem (NCTS) tarafından verilen teminat referans numarasıdır.",
+     "dayanak": "Seri No 4 Tebliğ md. 3/1-d",
+     "kanit": "GRN: Teminat gümrük idaresince kabul edilen kapsamlı teminat mektubu için sistem tarafından verilen teminat referans numarasını"
+    },
+    {
+     "alt_konu": "Teminat türleri ve teminata ilişkin genel hususlar",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ortak transit rejiminde bireysel teminat olarak hangi teminatların kullanılmasına izin verilmez?",
+     "cevap": "Ortak transit rejiminde bireysel teminat olarak nakit Türk lirası veya Türkiye Cumhuriyet Merkez Bankasınca kabul edilen dövizler kullanılamaz. Bireysel ve kapsamlı teminat türleri ise birlikte kullanılabilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 4/1",
+     "kanit": "Bireysel ve kapsamlı teminat türleri birlikte kullanılabilir. Ancak, ortak transit rejiminde bireysel teminat olarak nakit TL veya Türkiye Cumhuriyet Merkez Bankası tarafından kabul edilen dövizlerin kullanılmasına izin verilmez"
+    },
+    {
+     "alt_konu": "Teminat türleri ve teminata ilişkin genel hususlar",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre teminat aranmayan haller dışında transit beyanında teminata ilişkin bilgi bulunmaması veya gerekli teminatın hareket gümrük idaresine sunulmaması halinde ne yapılır?",
+     "cevap": "Beyanname kabul edilmez. Teminat miktarının yetersiz olduğu anlaşılırsa da doğabilecek gümrük yükümlülüğünün tamamını kapsayan teminat verilmeden eşya serbest bırakılmaz.",
+     "dayanak": "Seri No 4 Tebliğ md. 4/2-3",
+     "kanit": "Teminat aranmayan haller dışında, transit beyanında teminata ilişkin bir bilgi bulunmadığı veya gerekli teminatın hareket gümrük idaresine sunulmadığı durumlarda beyanname kabul edilmez. ... doğabilecek gümrük yükümlülüğünün tamamını kapsayan bir teminat verilmeden"
+    },
+    {
+     "alt_konu": "Teminat türleri ve teminata ilişkin genel hususlar",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit rejimi kapsamında taşınan eşya için gerekli teminat hangi esasa göre hesaplanır?",
+     "cevap": "Eşyanın serbest dolaşıma girmesi halinde uygulanabilir ithalat vergileri dâhil en yüksek oranlar esas alınarak doğabilecek gümrük vergilerinin tam tutarı dikkate alınır; tercihli tarife veya kota uygulaması dikkate alınmaz ve ortak transitte serbest dolaşımdaki eşya serbest dolaşımda bulunmayan eşya kabul edilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 4/4",
+     "kanit": "en yüksek oranlar esas alınarak hesaplanmak suretiyle doğabilecek gümrük vergilerinin tam tutarı dikkate alınır ... tercihli tarife veya kota uygulaması dikkate alınmaz ... serbest dolaşımda bulunan eşya serbest dolaşımda bulunmayan eşya olarak kabul edilir"
+    },
+    {
+     "alt_konu": "Teminat gümrük idaresi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre kapsamlı teminat için teminat gümrük idaresi hangisidir?",
+     "cevap": "Bakanlığın internet sayfasındaki kılavuz tablosuna göre başvuru sahibinin şirket merkezinin ticaret siciline kayıtlı bulunduğu ilin karşısında yer alan gümrük ve dış ticaret bölge müdürlüğüdür (teminattan vazgeçmede Gümrükler Genel Müdürlüğü, bireysel teminatta hareket gümrük idaresi).",
+     "dayanak": "Seri No 4 Tebliğ md. 5/1-a",
+     "kanit": "Kapsamlı teminat için Bakanlığın kurumsal internet sayfasında yayımlanan kılavuzda yer alan tabloya göre başvuru sahibinin şirket merkezinin ticaret siciline kayıtlı bulunduğu ilin karşısında yer alan gümrük ve dış ticaret bölge müdürlükleri"
+    },
+    {
+     "alt_konu": "Teminat gümrük idaresi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre bireysel teminat için teminat gümrük idaresi hangisidir?",
+     "cevap": "Bireysel teminat için teminat gümrük idaresi hareket gümrük idaresidir.",
+     "dayanak": "Seri No 4 Tebliğ md. 5/1-b",
+     "kanit": "Bireysel teminat için hareket gümrük idaresidir."
+    },
+    {
+     "alt_konu": "Teminat sertifikaları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ulusal transit rejiminde hangi sertifikalar düzenlenmez?",
+     "cevap": "Ulusal transit rejiminde kapsamlı teminat sertifikası ve teminattan vazgeçme sertifikası düzenlenmez.",
+     "dayanak": "Seri No 4 Tebliğ md. 6/1",
+     "kanit": "Ulusal transit rejiminde, kapsamlı teminat ve teminattan vazgeçme sertifikası düzenlenmez."
+    },
+    {
+     "alt_konu": "Kapsamlı teminat mektubu, GRN ve geçerlilik süreleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre kapsamlı teminat izin başvurusunun kabul edildiğinin izin sahibine bildirilmesinden sonra teminat mektubu ne kadar süre içinde sunulur?",
+     "cevap": "Bildirimi müteakip en geç üç ay içinde, doğrudan kefil tarafından teminat gümrük idaresine sunulur; süre geçirilirse başvuru belgelerinin yenilenmesi istenebilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 9/1",
+     "kanit": "Kapsamlı teminat izin başvurusunun teminat gümrük idaresince kabul edildiğinin izin sahibine bildirilmesini müteakip en geç üç ay içerisinde ... doğrudan kefil tarafından teminat gümrük idaresine sunulur ... başvuru belgelerinin yenilenmesini isteyebilir"
+    },
+    {
+     "alt_konu": "Kapsamlı teminat mektubu, GRN ve geçerlilik süreleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre sisteme tanımlanan GRN'ler ve bu kapsamda düzenlenen kapsamlı teminat sertifikaları ne kadar süre geçerlidir?",
+     "cevap": "Teminat mektubunun teminat gümrük idaresince kabulü tarihinden itibaren beş yıl geçerlidir; uzatma için geçerlilik süresinin dolmasından en geç bir ay önce yazılı başvurulur.",
+     "dayanak": "Seri No 4 Tebliğ md. 9/3-4",
+     "kanit": "GRN'ler sisteme teminat mektubunun teminat gümrük idaresince kabulü tarihinden itibaren beş[9] yıl geçerli olacak şekilde tanımlanır ve bu kapsamda düzenlenen sertifikaların geçerlilik süresi beş[10] yıldır. ... geçerlilik süresinin dolmasından en geç bir ay önce"
+    },
+    {
+     "alt_konu": "Kapsamlı teminat mektubu, GRN ve geçerlilik süreleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre kapsamlı teminat mektubunun iadesi hangi süre geçmedikçe talep edilemez?",
+     "cevap": "Teminat mektubunun teminat gümrük idaresince kabulü tarihinden itibaren altı ay geçmedikçe iadesi talep edilemez.",
+     "dayanak": "Seri No 4 Tebliğ md. 9/5",
+     "kanit": "Teminat mektubunun teminat gümrük idaresince kabulü tarihinden itibaren 6 ay geçmedikçe söz konusu teminat mektubunun iadesi talep edilemez."
+    },
+    {
+     "alt_konu": "Kapsamlı teminatta indirim ve teminattan vazgeçme başvuru eşiği",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre kapsamlı teminatta indirim ve teminattan vazgeçme başvuruları en az hangi tutardaki kapsamlı teminat mektupları için yapılabilir?",
+     "cevap": "En az on milyon TL tutarındaki kapsamlı teminat mektupları için yapılabilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 11/2",
+     "kanit": "Kapsamlı teminatta indirim ve teminattan vazgeçme başvuruları en az on milyon[14] TL tutarındaki kapsamlı teminat mektupları için yapılır."
+    },
+    {
+     "alt_konu": "İkinci ve üçüncü düzey kapsamlı teminat kullanıcılığı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ikinci düzey kapsamlı teminat kullanıcısında kapsamlı teminat tutarı referans tutarın yüzde kaçına eşit olacak şekilde belirlenir?",
+     "cevap": "Referans tutarın %50'sine eşit olacak şekilde belirlenir; referans tutar kapsamlı teminat tutarının 2 katı olarak sisteme tanımlanır.",
+     "dayanak": "Seri No 4 Tebliğ md. 11/4",
+     "kanit": "kapsamlı teminat tutarı referans tutarın % 50'sine eşit olacak şekilde referans tutar artırılır (Referans tutar, kapsamlı teminat tutarının 2 katı olacak şekilde sisteme tanımlanır) (İkinci Düzey Kapsamlı Teminat Kullanıcısı)"
+    },
+    {
+     "alt_konu": "İkinci ve üçüncü düzey kapsamlı teminat kullanıcılığı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ikinci düzey kapsamlı teminat kullanıcısı olabilmek için başvuruya konu GRN kapsamında son bir yılda en az kaç transit beyanı ile taşıma yapılmış olması gerekir?",
+     "cevap": "En az 1000 transit beyanı ile taşıma yapılmış olması gerekir; ayrıca GRN'nin en az bir yıldır sisteme tanımlı olması aranır.",
+     "dayanak": "Seri No 4 Tebliğ md. 11/4-a, b",
+     "kanit": "Başvuruya konu GRN'nin en az bir yıldır sisteme tanımlı olması ... Son bir yıl içerisinde başvuruya konu GRN kapsamında en az 1000 transit beyanı ile taşıma yapılmış olması"
+    },
+    {
+     "alt_konu": "İkinci ve üçüncü düzey kapsamlı teminat kullanıcılığı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre üçüncü düzey kapsamlı teminat kullanıcısında kapsamlı teminat tutarı referans tutarın yüzde kaçına eşittir?",
+     "cevap": "Referans tutarın %30'una eşittir; referans tutar kapsamlı teminat tutarının 3,33 katı olarak sisteme tanımlanır.",
+     "dayanak": "Seri No 4 Tebliğ md. 11/5",
+     "kanit": "kapsamlı teminat tutarı referans tutarın % 30'una eşit olacak şekilde referans tutar artırılır (Referans tutar, kapsamlı teminat tutarının 3,33 katı olacak şekilde sisteme tanımlanır) (Üçüncü Düzey Kapsamlı Teminat Kullanıcısı)"
+    },
+    {
+     "alt_konu": "Dördüncü düzey kapsamlı teminat kullanıcılığı (teminattan vazgeçme)",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre dördüncü düzey kapsamlı teminat kullanıcısı (teminattan vazgeçme) olabilmek için son bir yılda başvuruya konu GRN kapsamında en az kaç transit beyanı ile taşıma yapılmış olması gerekir?",
+     "cevap": "En az 4000 transit beyanı ile taşıma yapılmış olması gerekir; ayrıca GRN'nin en az üç yıldır üçüncü düzey olarak kullanılıyor olması aranır.",
+     "dayanak": "Seri No 4 Tebliğ md. 11/6-a, b",
+     "kanit": "Başvuruya konu GRN'nin en az üç yıldır Üçüncü Düzey Kapsamlı Teminat Kullanıcısı olarak kullanılıyor olması ... en az 4000 transit beyanı ile taşıma yapılmış olması"
+    },
+    {
+     "alt_konu": "Dördüncü düzey kapsamlı teminat kullanıcılığı (teminattan vazgeçme)",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre izin sahibine ait tüm GRN'ler esas alındığında teminattan toplamda vazgeçilecek miktar hangi sınırı aşamaz?",
+     "cevap": "Firmanın ödenmiş sermayesinin beşte birinden fazla olamaz.",
+     "dayanak": "Seri No 4 Tebliğ md. 11/6",
+     "kanit": "İzin sahibine ait tüm GRN'ler esas alındığında, teminattan toplamda vazgeçilecek miktar, firmanın ödenmiş sermayesinin beşte birinden fazla olamaz."
+    },
+    {
+     "alt_konu": "İzinli göndericilere kapsamlı teminatta indirim",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre izinli gönderici yetkisine sahip firmalara, indirim ve vazgeçme başvurularındaki ortak koşulların sağlanması halinde hangi düzey kapsamlı teminat kullanıcısı olma hakkı tanınır?",
+     "cevap": "Başvuru tutarı eşiği ile ikinci ve üçüncü düzeye ilişkin ek şartlar aranmaksızın üçüncü düzey kapsamlı teminat kullanıcısı olma hakkı tanınır; öz kaynak koşulunun yalnızca ikinci düzey için sağlanması halinde ikinci düzey hakkı tanınır.",
+     "dayanak": "Seri No 4 Tebliğ md. 11/A-1",
+     "kanit": "aynı maddenin ikinci, dördüncü ve beşinci fıkralarında yer alan şartlar aranmaksızın üçüncü düzey kapsamlı teminat kullanıcısı olma hakkı tanınır ... bu firmalara ikinci düzey kapsamlı teminat kullanıcısı olma hakkı tanınır"
+    },
+    {
+     "alt_konu": "İzinli göndericilere kapsamlı teminatta indirim",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre izinli gönderici yetkisine istinaden indirim tanımlanan GRN kapsamında, indirimin tanımlandığı yılı takip eden takvim yılı sonuna kadar ihracat taşımalarının en az yüzde kaçının izinli gönderici yetkisi kapsamında olması gerekir?",
+     "cevap": "En az %20'sinin; aksi halde kapsamlı teminat düzeyi önceki düzeye düşürülür ve firma düşürülme tarihinden itibaren iki yıl geçmedikçe yeniden başvuramaz.",
+     "dayanak": "Seri No 4 Tebliğ md. 11/A-4",
+     "kanit": "indirim tanımlanan GRN kapsamında gerçekleştirilen ihracat taşımalarının en az % 20'sinin izinli gönderici yetkisi kapsamında olmaması halinde ... teminat düzeyinin düşürüldüğü tarihten itibaren iki yıl geçmedikçe bu madde kapsamında yeniden başvuruda bulunamazlar"
+    },
+    {
+     "alt_konu": "Kapsamlı teminat izninin yeniden değerlendirilmesi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre kapsamlı teminat, kapsamlı teminatta indirim veya teminattan vazgeçme için gerekli koşulların kaybedildiği anlaşıldığında izin sahibine şartları yeniden sağlaması için ne kadar süre verilir?",
+     "cevap": "30 gün süre verilir; bu süre içinde şartlar sağlanamazsa duruma göre sağlanabilen uygulamadan yararlandırılmaya devam edilir, izin askıya alınır veya iptal edilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 12/4",
+     "kanit": "izin sahibine şartları yeniden sağlayabilmesi için 30 gün süre verilir. ... izin sahibinin şartları sağlanabilen uygulamadan yararlandırılmasına devam edilir, izin makamınca belirlenecek süre boyunca izin askıya alınabilir veya iptal edilebilir"
+    },
+    {
+     "alt_konu": "Kapsamlı teminat mektuplarının iadesi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ortak transit rejimi kapsamında sisteme tanımlı bir kapsamlı teminat mektubunun iade edilebilmesi için ulusal transitteki koşullara ilave olarak hangi süre şartı aranır?",
+     "cevap": "İlgili GRN'nin sistemde kullanıma kapatıldığı tarihten itibaren 10 ay geçmiş olması gerekir.",
+     "dayanak": "Seri No 4 Tebliğ md. 13/2",
+     "kanit": "birinci fıkradaki koşullara ilave olarak, ilgili GRN'nin sistemde kullanıma kapatıldığı tarihten itibaren 10 ay geçmiş olması gerekir"
+    },
+    {
+     "alt_konu": "Kefil ve kefilin yükümlülüğü",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit işlemlerinde kimler kefil olabilir?",
+     "cevap": "Türkiye'de yerleşik, teminat mektubu vermeye yetkili banka ve finans kuruluşları kefil olabilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 14/1",
+     "kanit": "Kefil, Türkiye'de yerleşik, teminat mektubu vermeye yetkili banka ve finans kuruluşları olabilir."
+    },
+    {
+     "alt_konu": "Kefil ve kefilin yükümlülüğü",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre kefil ile rejim hak sahibi aynı kişi olabilir mi?",
+     "cevap": "Olamaz. Kefil ile rejim hak sahibi arasında ana firma-bağlı firma ilişkisi varsa bağlı firmanın ana firmadan ayrı bir tüzel kişiliği olmalıdır.",
+     "dayanak": "Seri No 4 Tebliğ md. 14/2",
+     "kanit": "Kefil ve rejim hak sahibi aynı kişi olamaz. Kefil ve rejim hak sahibi arasında ana firma bağlı firma ilişkisi varsa, bağlı firmanın, ana firmadan ayrı bir tüzel kişiliği olmalıdır."
+    },
+    {
+     "alt_konu": "Kefil ve kefilin yükümlülüğü",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre kefilin yükümlülüğü hangi tarihte başlar?",
+     "cevap": "Taahhüdünün teminat gümrük idaresince kabul edilmesine dayanan kefil yükümlülüğü, hareket gümrük idaresinin eşyayı bu teminat kapsamında serbest bıraktığı tarihte başlar.",
+     "dayanak": "Seri No 4 Tebliğ md. 14/3",
+     "kanit": "Kefilin yükümlülüğü, taahhüdünün teminat gümrük idaresince kabul edilmesine dayanır ve hareket gümrük idaresinin eşyayı bu teminat kapsamında serbest bıraktığı tarihte başlar."
+    },
+    {
+     "alt_konu": "Kefil ve kefilin yükümlülüğü",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre kefilin yükümlülüğü para cezalarını kapsar mı?",
+     "cevap": "Kapsamaz; kefilin yükümlülüğü teminat mektubunda belirtilen maksimum tutarla sınırlıdır. Buna karşılık teminat, sonradan kontrolleri müteakiben ödenebilir gümrük vergileri ve diğer yükleri de kapsar.",
+     "dayanak": "Seri No 4 Tebliğ md. 14/3, 5",
+     "kanit": "Kefilin yükümlülüğü, teminat mektubunda belirtilen maksimum tutarla sınırlıdır ve para cezalarını kapsamaz. ... sonradan kontrolleri müteakiben ödenebilir gümrük vergileri ve diğer yükleri de kapsar"
+    },
+    {
+     "alt_konu": "Eşyanın gümrük statüsü ve T1, T2, TR rejimleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre Türkiye'de serbest dolaşımda bulunan ihracat eşyası Sözleşmeye akit taraflara hangi rejim kapsamında taşınır?",
+     "cevap": "T1 rejimi kapsamında taşınır. Birlik eşyası statüsündeki eşya ise T2 rejimi kapsamında taşınır.",
+     "dayanak": "Seri No 4 Tebliğ md. 16/1-a, c",
+     "kanit": "Türkiye'de serbest dolaşımda bulunan ihracat eşyası ile birlik eşyası statüsünde olmayan serbest dolaşımda bulunmayan (geçici depolama yeri, antrepo ya da serbest bölgede bulunan) eşya, Sözleşmeye akit taraflara T1 rejimi kapsamında taşınır. ... statüsünde olup, T2 rejimi kapsamında taşınır"
+    },
+    {
+     "alt_konu": "Eşyanın gümrük statüsü ve T1, T2, TR rejimleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre T2 rejimi kapsamında Türkiye'ye getirilen eşyanın antrepo rejimi kapsamında depolandıktan sonra yeniden ihracında T2 rejiminin uygulanabilmesi için eşya antrepoda en fazla ne kadar süre kalmış olmalıdır?",
+     "cevap": "Beş yıldan fazla antrepoda kalmamış olmalıdır; Türk Gümrük Tarife Cetvelinin 1-24 fasılları kapsamındaki eşya için bu süre altı aydır.",
+     "dayanak": "Seri No 4 Tebliğ md. 16/1-d",
+     "kanit": "Eşyanın beş yıldan fazla bir süre antrepoda kalmamış olması (Türk Gümrük Tarife Cetvelinin 1'den 24'e kadar olan Fasılları kapsamına giren eşya için bu süre altı ayla sınırlıdır)"
+    },
+    {
+     "alt_konu": "Eşyanın gümrük statüsü ve T1, T2, TR rejimleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ulusal transit rejiminde eşya hangi rejim kapsamında taşınır?",
+     "cevap": "Ulusal transit rejiminde eşya, serbest dolaşımda olsun veya olmasın her durumda TR rejimi kapsamında taşınır ve transit beyanında \"TR\" sembolü kullanılır.",
+     "dayanak": "Seri No 4 Tebliğ md. 16/2, 17/5",
+     "kanit": "eşya her durumda TR rejimi kapsamında taşınır ... Ulusal transit rejiminde, transit beyanında eşya serbest dolaşımda olsun veya olmasın \"TR\" sembolü kullanılır."
+    },
+    {
+     "alt_konu": "Transit beyanının verilmesi ve beyanda kullanılan semboller",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre sistem üzerinden gönderilen transit beyanı ne zaman hareket gümrük idaresine sunulmuş kabul edilir?",
+     "cevap": "Türkçe ve elektronik imzalı olarak gönderilen beyanın geçerliliği sistemce kontrol edilip hareket gümrük idaresince alındığında yerel referans numarası (LRN) tahsis edilir ve beyan bu durumda sunulmuş kabul edilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 17/1",
+     "kanit": "Gönderilen transit beyanı, geçerliliği sistem tarafından kontrol edilerek hareket gümrük idaresi tarafından alındığında, bir yerel referans numarası (LRN) tahsis edilir [POS_ACK (IE928)]. Beyan, bu durumda hareket gümrük idaresine sunulmuş kabul edilir."
+    },
+    {
+     "alt_konu": "Transit beyanının verilmesi ve beyanda kullanılan semboller",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ortak transit rejiminde sevkiyatın hem T1 hem T2 rejimi kapsamında taşınması gereken eşyayı içermesi halinde transit beyanında hangi sembol kullanılır?",
+     "cevap": "\"T\" sembolü kullanılır ve her bir eşya kalemi için \"T1\" veya \"T2\" sembolü belirtilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 17/4",
+     "kanit": "Sevkiyatın T1 rejimi kapsamında taşınması gereken eşya ile T2 rejimi kapsamında taşınması gereken eşyayı içermesi durumunda, \"T\" sembolü kullanılır ve her bir eşya kalemi için \"T1\" veya \"T2\" sembolü belirtilir."
+    },
+    {
+     "alt_konu": "Transit beyanına eklenecek belgeler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transitinde teminat aranmayan eşyanın transit rejimi kapsamında sevkinde fatura ibrazı zorunlu mudur?",
+     "cevap": "Zorunlu değildir. Diğer durumlarda beyanın kabulü için LRN bilgisini içeren transit refakat belgesi çıktısı, fatura, taşıma belgesi ve gereken diğer belgeler sunulur.",
+     "dayanak": "Seri No 4 Tebliğ md. 18/1-2",
+     "kanit": "Transitinde teminat aranmayan eşyanın transit rejimi kapsamında sevki durumunda fatura ibrazı zorunlu değildir. ... LRN bilgisini içeren transit refakat belgesi çıktısı"
+    },
+    {
+     "alt_konu": "Transit beyanının sunulması ve reddi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre süresi içinde kabul işlemi için hareket gümrük idaresine başvurulmadığından reddedilen ya da kabul işlemi yapılmadan geri çevrilen transit beyanları için usulsüzlük cezası uygulanır mı?",
+     "cevap": "Uygulanmaz; hareket gümrük idaresince kabul işlemi yapılmayan transit beyanlarının geri çevrilmesi halinde Gümrük Kanununun usulsüzlük cezası hükmü uyarınca işlem yapılmaz.",
+     "dayanak": "Seri No 4 Tebliğ md. 19/2 (GK md. 241)",
+     "kanit": "hareket gümrük idaresince kabul işlemi yapılmayan transit beyanlarının geri çevrilmesi durumunda Kanunun 241 inci maddesi uyarınca işlem yapılmaz"
+    },
+    {
+     "alt_konu": "Transit beyanında düzeltme",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre beyanın kabulünden eşyanın serbest bırakılmasına kadar transit beyanında hangi bilgilerin düzeltilmesine izin verilmez?",
+     "cevap": "Eşyanın cinsi, nevi ve niteliği ile marka ve numaraları düzeltilemez; diğer bilgiler rejim hak sahibi veya temsilcisinin yazılı talebiyle ve başka bir eşyanın beyanı sonucunu doğurmamak kaydıyla düzeltilebilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 21/2",
+     "kanit": "Rejim hak sahibi veya temsilcisinin yazılı talebi üzerine beyanın kabulünden eşyanın serbest bırakılmasına kadar başka bir eşyanın beyanı sonucunu doğurmamak kaydıyla, eşyanın cins, nevi ve niteliği ile marka ve numaraları dışında bir veya daha fazla bilginin düzeltilmesine izin verilir."
+    },
+    {
+     "alt_konu": "Transit beyanında düzeltme",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ulusal transit rejiminde eşya serbest bırakılmış olsa dahi transit beyanında düzeltme yapılabilir mi?",
+     "cevap": "Transit beyanının önceki beyana ilişkin bilgilerinin düzeltilmesine yönelik talep olması halinde, eşya serbest bırakılmış olsa dahi gümrük idare amirinin onayı ile düzeltme yapılabilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 21/3",
+     "kanit": "Ulusal transit rejiminde, transit beyanının önceki beyana ilişkin bilgilerinin düzeltilmesine yönelik talep olması halinde eşya serbest bırakılmış olsa dahi gümrük idare amirinin onayı ile düzeltme yapılabilir."
+    },
+    {
+     "alt_konu": "Transit beyanının iptali",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre eşyanın gümrüğe sunulmasından önce verilen (Ek Beyan Türü \"D\" seçilen) transit beyanında, eşyanın gümrüğe sunulduğunun bildirilmesinden önce yapılan iptal talebi nasıl sonuçlanır?",
+     "cevap": "Otomatik olarak olumlu cevaplanır. Diğer durumlarda iptal talebi, Gümrük Kanununun beyannamenin iptaline ilişkin hükmü çerçevesinde hareket gümrük idaresince değerlendirilerek sonuçlandırılır.",
+     "dayanak": "Seri No 4 Tebliğ md. 22/1 (GK md. 64)",
+     "kanit": "öncesinde yapılan beyanname iptal talebi otomatik olarak olumlu cevaplanır. Diğer durumlarda beyanın iptal talebi Kanunun 64 üncü maddesi çerçevesinde hareket gümrük idaresince değerlendirilerek sonuçlandırılır."
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde teminat kontrolü",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre hareket gümrük idaresince teminatın yeterli veya uygun bulunmaması halinde beyan sahibi teminat bilgilerinde kaç kez güncelleme yapabilir?",
+     "cevap": "Bir defa ile sınırlı olmak üzere teminat bilgilerini güncelleyerek beyanı kontrol için hareket gümrük idaresine gönderebilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 23/1",
+     "kanit": "Teminatın yeterli veya uygun bulunmaması halinde (GUA_INV - Garanti geçersiz) beyan sahibince bir defa ile sınırlı olmak üzere teminat bilgilerinde güncelleme yapılarak beyanın kontrolü için hareket gümrük idaresine gönderilir."
+    },
+    {
+     "alt_konu": "Zorunlu güzergâh",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit taşımalarında izlenecek güzergâh hangi hallerde gümrük idaresince belirlenir?",
+     "cevap": "Kaçakçılık yapılacağına dair ihbar, istihbarat veya kuvvetli şüphe bulunması, taşınan eşya ya da taşıyıcı hakkında gümrük idarelerinde risk verilerinin mevcut olması ve araca ATS cihazı takılması hallerinde gümrük idaresince belirlenir; beyan sahibi de hareket gümrük idaresinden zorunlu güzergâh belirlenmesini talep edebilir. Ayrıca Ulaştırma ve Altyapı Bakanlığınca verilen Özel İzin Belgesi veya Özel Yük Taşıma İzin Belgesinde bir güzergâh belirlenmişse hareket gümrük idaresi bunu dikkate alarak güzergâhı belirler ve taşıtların bu güzergâhı izlemesi zorunludur.",
+     "dayanak": "Seri No 4 Tebliğ md. 24/1, 3",
+     "kanit": "Kaçakçılık yapılacağına dair ihbar, istihbarat, kuvvetli şüphe bulunması veya gerek taşınan eşya gerekse taşıyıcı hakkında gümrük idarelerinde risk verilerinin mevcut olması ile ATS cihazının takılması hallerinde izlenecek güzergâh gümrük idaresince belirlenir. ... beyan sahibince de talep edilebilir ... tarafından verilen Özel İzin Belgesi veya Özel Yük Taşıma İzin Belgesinde bir güzergâh belirlenmesi halinde hareket gümrük idaresince bu durum dikkate alınarak güzergâh belirlenir ve taşıtların bu güzergâhı izlemeleri zorunludur."
+    },
+    {
+     "alt_konu": "Transit süresi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ortak transit rejimi kapsamında süre sınırı, mücbir sebepler haricinde en az kaç gün olarak belirlenir?",
+     "cevap": "Varış gümrük idaresinin uzaklığı da dikkate alınarak, ekteki tablodan yararlanılmak suretiyle beş günden az olmamak üzere belirlenir.",
+     "dayanak": "Seri No 4 Tebliğ md. 25/2",
+     "kanit": "Ortak transit rejimi kapsamında süre sınırı, ilgili ülkedeki varış gümrük idaresinin uzaklığı da dikkate alınarak mücbir sebepler haricinde beş günden az olmamak kaydıyla Ek-13'te yer alan tablodan yararlanılarak belirlenir."
+    },
+    {
+     "alt_konu": "Transit süresi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ortak transit rejiminde çok modlu taşımacılıkta tablodaki azami sürelere en fazla ne kadar ilave süre eklenebilir?",
+     "cevap": "Taşıma modları arasındaki geçiş süreleri dikkate alınarak on beş günü aşmayacak şekilde ilave süre eklenebilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 25/2",
+     "kanit": "Çok modlu taşımacılıkta süre sınırı, taşıma modları arasındaki geçiş süreleri de dikkate alınarak, Ek-13'te yer alan tablodaki azami sürelere on beş günü aşmayacak şekilde ilave süre eklenerek belirlenebilir"
+    },
+    {
+     "alt_konu": "Transit süresi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit süresi hangi andan itibaren başlatılır?",
+     "cevap": "Hareket gümrük idaresindeki işlemler bitirilerek aracın sevk edildiği saatten itibaren başlatılır; hareket gümrük idaresince belirlenen süre sınırı taşıtın sevkinden sonra değiştirilemez.",
+     "dayanak": "Seri No 4 Tebliğ md. 25/4",
+     "kanit": "Transit süresi, hareket gümrük idaresindeki işlemlerin bitirilerek aracın sevk edildiği saatten itibaren başlatılır ... Hareket gümrük idaresince belirlenen süre sınırı, taşıtın sevkinden sonra değiştirilemez."
+    },
+    {
+     "alt_konu": "Transit süresi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit süresi ne zaman sona erer?",
+     "cevap": "Süre sınırı olarak belirtilen takvim gününde, varsa öngörülen saatte, aksi halde mesai saati bitiminde sona erer. Ortak transitte bitim tarihi saat belirtilmeksizin gün, ay ve yıl olarak gösterilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 25/4-5",
+     "kanit": "Transit süresi, süre sınırı olarak belirtilen takvim gününde, varsa öngörülen saatte, aksi halde mesai saati bitiminde sona erer. ... Ortak transit rejiminde sürenin bitim tarihi gün, ay ve yıl olarak belirtilir, ayrıca saat belirtilmez."
+    },
+    {
+     "alt_konu": "Ayniyet önlemleri (mühürleme ve mühürden vazgeçme)",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre hareket gümrük idaresi transit rejimine tabi eşyayı mühürlemekten hangi koşulla vazgeçebilir?",
+     "cevap": "Genel kural mühürlemedir; ancak eşyanın tanımı eşyanın kolayca tanınmasına yeterli açıklıkla imkân veriyor ve miktarı, cinsi ile seri numarası gibi belirleyici özelliklerini belirtiyorsa mühürlemeden vazgeçilebilir. Bu durumda mühür alanına \"VAZGEÇME - 99201\" ibaresi kaydedilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 27/1-2",
+     "kanit": "Genel bir kural olarak, eşyanın ayniyeti mühürlenerek sağlanır. ... eşyanın tanımının eşyanın kolayca tanınmasına yeterli açıklıkla imkân vermesi ve miktarı ile cinsini ve eşyanın seri numarası gibi belirleyici özelliklerini belirtmesi koşuluyla ... mühre ilişkin alana \"VAZGEÇME - 99201\" ibaresini kaydeder"
+    },
+    {
+     "alt_konu": "Taşıma sırasındaki olaylar ve olay kaydı gümrük idaresi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre taşıma sırasında kaza, mühür kırılması gibi bir olay yaşandığında taşıyıcının eşyayı ve MRN'yi sunması gereken gümrük idaresi hangisidir ve bu idare nasıl adlandırılır?",
+     "cevap": "Taşıma aracının o anda bulunduğu bölgedeki en yakın gümrük idaresidir; bu idare \"olay kaydı gümrük idaresi\" olarak adlandırılır.",
+     "dayanak": "Seri No 4 Tebliğ md. 30/2",
+     "kanit": "o anda taşıma aracının bulunduğu bölgedeki en yakın gümrük idaresine sunması gerekir. Bu gümrük idaresi, \"olay kaydı gümrük idaresi\" olarak adlandırılır."
+    },
+    {
+     "alt_konu": "Taşıma sırasındaki olaylar ve olay kaydı gümrük idaresi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre taşıma sırasında yalnızca çekicinin değiştiği hallerde transit refakat belgesi üzerinde yetkili makamın onayı ve mührü gerekir mi?",
+     "cevap": "Gerekmez; değişikliğe ilişkin bilgi transit veya varış gümrük idaresince olay kaydı gümrük idaresi rolüyle sonradan sisteme kaydedilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 30/4",
+     "kanit": "Bu durumda TRB ve/veya taşımaya ilişkin belgeler üzerinde yetkili makamın onayı ve mührü zorunlu değildir ancak değişikliğe ilişkin bilgi transit veya varış gümrük idaresi tarafından olay kaydı gümrük idaresi rolü ile sonradan sisteme kaydedilir."
+    },
+    {
+     "alt_konu": "Çok modlu taşımacılık işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre hareket ve varış gümrük idareleri arasındaki taşımanın birden fazla taşıma modunu içermesi halinde çok modlu taşımacılık işlemleri hangi şartla uygulanır?",
+     "cevap": "Eşyanın konteyner ile taşınması kaydıyla uygulanır.",
+     "dayanak": "Seri No 4 Tebliğ md. 31/1",
+     "kanit": "Hareket ve varış gümrük idareleri arasındaki taşımanın birden fazla taşıma modunu içerecek olması durumunda, eşyanın konteyner ile taşınması kaydıyla aşağıda belirtilen şekilde işlem yapılır."
+    },
+    {
+     "alt_konu": "Çok modlu taşımacılık işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre çok modlu taşımacılıkta eşyanın varış gümrük idaresine sevkinde karayolu taşıması da söz konusu olduğunda teminat nasıl alınır?",
+     "cevap": "Hareket gümrük idaresince taşıma sürecinin tamamını kapsayacak teminat alınır.",
+     "dayanak": "Seri No 4 Tebliğ md. 31/1-b",
+     "kanit": "Eşyanın varış gümrük idaresine sevkinde eşyanın karayolu ile taşınması da söz konusu olduğunda, hareket gümrük idaresince taşıma sürecinin tamamını kapsayacak teminat alınarak işlem yapılır."
+    },
+    {
+     "alt_konu": "Transit idaresi ve transit idaresi işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ortak transit rejimi beyanında transit idaresi olarak hangi gümrük idaresi belirtilir?",
+     "cevap": "Sözleşmeye akit taraflardan birinin giriş gümrük idaresi (örneğin Bulgaristan'a giden araç için Kapitan Andreevo Gümrük Müdürlüğü) belirtilir; transit idaresi belirlenirken AB üyesi ülkelerin toprakları tek bir ülke gibi kabul edilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 32/1-2",
+     "kanit": "ortak transit rejimi beyanında transit idaresi olarak Sözleşmeye akit taraflardan birinin giriş gümrük idaresi (Bulgaristan'a giden bir araç için Kapitan Andreevo Gümrük Müdürlüğü gibi) belirtilmelidir ... AB üyesi ülkelerin toprakları tek bir ülke gibi kabul edilir"
+    },
+    {
+     "alt_konu": "Transit idaresi ve transit idaresi işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ulusal transit rejiminde transit idaresi belirlenir mi?",
+     "cevap": "Hayır; ulusal transit rejiminde transit idaresi belirlenmez.",
+     "dayanak": "Seri No 4 Tebliğ md. 32/3",
+     "kanit": "Ulusal transit rejiminde transit idaresi belirlenmez."
+    },
+    {
+     "alt_konu": "Transit idaresi ve transit idaresi işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit idaresinde MRN bilgilerinin sistemde görüntülenememesi üzerine Bakanlık çağrı merkezinde kayıt oluşturulması halinde, çağrı ne kadar süre içinde cevaplanmazsa yeni bir ulusal transit işlemi başlatılabilir?",
+     "cevap": "Üç saat içinde cevaplanmaması ve rejim hak sahibi ya da taşıyıcının talep etmesi halinde yeni bir ulusal transit (TR) işlemi başlatılarak araç varış gümrük idaresine sevk edilebilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 33/4",
+     "kanit": "Üç saat içinde çağrının cevaplanmaması ve rejim hak sahibi ya da taşıyıcı tarafından talep edilmesi halinde yeni bir ulusal transit işlemi (TR) başlatılarak araç ilgili varış gümrük idaresine sevk edilebilir."
+    },
+    {
+     "alt_konu": "Çıkış gümrük idaresi işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ortak transit işlemlerinde transit idaresi olmayan çıkış gümrük idarelerinde transit rejimi kapsamında işlem yapılır mı?",
+     "cevap": "Yapılmaz; bu idarelerde mühür ve belge kontrolü yapılarak eşyanın ve taşıma aracının yurt dışı edilmesi sağlanır.",
+     "dayanak": "Seri No 4 Tebliğ md. 34/1",
+     "kanit": "Ortak transit işlemlerinde, transit idaresi olmayan çıkış gümrük idarelerinde, transit rejimi kapsamında herhangi bir işlem yapılmaz. Bu durumda mühür ve belge kontrolü yapılarak eşyanın ve taşıma aracının yurt dışı edilmesi sağlanır."
+    },
+    {
+     "alt_konu": "Varış gümrük idaresine sunma ve rejimin sona ermesi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre eşyanın MRN ile varış gümrük idaresine sunulmasının ardından \"Varış Bilgisi\" mesajı hareket gümrük idaresine ne zaman gönderilir?",
+     "cevap": "Aynı gün içerisinde gecikmeksizin gönderilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 35/1",
+     "kanit": "\"Varış Bilgisi\" mesajı aynı gün içerisinde gecikmeksizin hareket gümrük idaresine gönderilir"
+    },
+    {
+     "alt_konu": "Varış gümrük idaresine sunma ve rejimin sona ermesi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre eşyanın varış gümrük idaresine bağlı ve yetkilendirilmiş gümrük müşaviri bulunan bir antrepoya süre sınırı içinde ulaşması halinde varış işlemini kim yapar?",
+     "cevap": "YGM veya YGM'nin antrepodaki çalışanı yapar; süre sınırının aşılması veya varış gümrük idaresinde değişiklik olması halinde ise işlem gümrük idaresince gerçekleştirilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 35/2",
+     "kanit": "hareket gümrük idaresince belirlenen süre sınırı içerisinde ulaşması durumunda, birinci fıkrada belirtilen işlem YGM veya YGM'nin antrepodaki çalışanı tarafından yapılır. ... birinci fıkrada belirtilen işlem gümrük idaresi tarafından gerçekleştirilir"
+    },
+    {
+     "alt_konu": "Süre kontrolü ve transit süresinin aşılması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit süresinin aşılması halinde hangi durumlarda gecikme dolayısıyla para cezası uygulanmaz?",
+     "cevap": "Güvenlik sorunu, arıza, kaza, yol yapımı, yol kapanması, hastalık veya başka bir nedenle sürenin aşıldığının en yakın emniyet, jandarma, gümrük, sağlık vb. birimlerden alınan belgelerle belgelendirilmesi halinde ve deprem, sel gibi herkesçe bilinen olaylarda para cezası uygulanmaz.",
+     "dayanak": "Seri No 4 Tebliğ md. 36/2",
+     "kanit": "güvenlik sorunu, arıza, kaza, yol yapımı, yol kapanması, hastalık veya başka bir nedenle aşılması durumunda ... belgelerle bu durumlarını belgelendirmeleri koşuluyla; ayrıca, deprem ve sel gibi herkesçe bilinen ve duyulan olaylarda gecikme dolayısıyla para cezası uygulanmaz"
+    },
+    {
+     "alt_konu": "Süre kontrolü ve transit süresinin aşılması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre sınır kapılarındaki kuyruklar nedeniyle transit eşyası taşıyan araçların süresi içinde gümrük sahasına giremediği durumlarda transit süresinin aşılıp aşılmadığının tespitinde neye esas alınır?",
+     "cevap": "İlgili gümrük idaresince oluşturulan mobil ekiplerin kuyrukta bekleyen araçlar için düzenlediği tutanağın tarih ve saati esas alınır.",
+     "dayanak": "Seri No 4 Tebliğ md. 36/4",
+     "kanit": "ilgili gümrük idaresince mobil ekipler oluşturularak kuyrukta bekleyen araçlar tutanakla tespit edilir ve transit süresinin aşılıp aşılmadığının tespitinde, söz konusu tutanağın düzenlendiği tarih ve saat esas alınır."
+    },
+    {
+     "alt_konu": "Süre kontrolü ve transit süresinin aşılması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit süresinin aşıldığının tespiti halinde varış gümrük idaresince eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasına ya da Türkiye Gümrük Bölgesinden çıkışına ne zaman izin verilir?",
+     "cevap": "Gümrük Kanunu uyarınca usulsüzlük cezası uygulanmadan izin verilmez.",
+     "dayanak": "Seri No 4 Tebliğ md. 36/7 (GK md. 241)",
+     "kanit": "varış gümrük idaresince Kanunun 241 inci maddesine göre ceza uygulanmadan eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasına veya Türkiye Gümrük Bölgesinden çıkışına izin verilmez."
+    },
+    {
+     "alt_konu": "Varış gümrük idaresinde beyanın kontrolü ve kontrol sonuçları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre varış gümrük idaresinde eşyanın muayenesi yapılıp uyuşmazlık bulunmaması halinde \"Kontrol Sonuçları\" mesajı en geç ne zaman gönderilir?",
+     "cevap": "Eşyanın sunulduğu gün veya en geç takip eden iş günü; istisnai durumlarda eşyanın sunulduğu günü takip eden üç takvim günü içinde \"A1-Uygundur\" kodu girilerek gönderilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 37/3",
+     "kanit": "eşyanın sunulduğu gün veya en geç takip eden iş günü ya da istisnai durumlarda eşyanın sunulduğu günü takip eden üç takvim günü içinde \"A1-Uygundur\" kodu sisteme girilerek varış gümrük idaresince \"Kontrol Sonuçları\" mesajı"
+    },
+    {
+     "alt_konu": "Varış gümrük idaresinde beyanın kontrolü ve kontrol sonuçları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre dökme eşyada eksiklik veya fazlalığın eşyanın tabiatı icabı olduğu ve 2009/15481 sayılı Kararda belirtilen oranlar içinde kaldığı anlaşılırsa ne yapılır?",
+     "cevap": "Eksiklik veya fazlalık takibatı yapılmaz, işlemler tespit edilen miktar üzerinden sonuçlandırılır; takibat gerektiren durumlarda takibat ve varsa cezai işlem tamamı için değil, oranları aşan kısım için uygulanır.",
+     "dayanak": "Seri No 4 Tebliğ md. 37/6",
+     "kanit": "eksiklik veya fazlalık takibatı yapılmayarak işlemler tespit edilen miktar üzerinden sonuçlandırılır. Eksiklik veya fazlalık takibatı gerektiren durumlar için takibat ve varsa cezaî işlem, eksiklik veya fazlalığın tamamı için değil, bu oranları aşan kısmı için uygulanır"
+    },
+    {
+     "alt_konu": "Varış gümrük idaresinde beyanın kontrolü ve kontrol sonuçları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre YGM bulunan antrepolarda boşaltma sonuçlarının bildirilmesine ilişkin yükümlülüklere uyulmaması halinde YGM'ye nasıl bir yaptırım uygulanır?",
+     "cevap": "Her bir transit beyanı için YGM'ye Gümrük Kanunu uyarınca usulsüzlük cezası uygulanır.",
+     "dayanak": "Seri No 4 Tebliğ md. 37/9 (GK md. 241/1)",
+     "kanit": "YGM tarafından bu fıkra hükümlerine uygun hareket edilmemesi halinde her bir transit beyanı için YGM'ye Kanunun 241 inci maddesinin birinci fıkrası uyarınca usulsüzlük cezası uygulanır."
+    },
+    {
+     "alt_konu": "İbra ve teminatın serbest bırakılması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit rejimine konu eşyaya ilişkin idari veya adli takibatın devam etmesi halinde transit beyannamesi hangi durumlarda ibra edilir?",
+     "cevap": "Gümrük vergilerinin tahsilinin gerekmediği ya da tahsili gerekmekle birlikte gümrük vergileri, gecikme faizi ve gecikme zammının eksiksiz alındığı durumlarda, yargı kararlarının uygulanmasına ilişkin düzenlemeler saklı kalmak kaydıyla ibra edilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 40/3",
+     "kanit": "idari veya adli takibatın devam ettiği ve gümrük vergilerinin tahsilinin gerekmediği ya da gümrük vergilerinin tahsili gerekmekle birlikte gümrük vergileri, gecikme faizi ve gecikme zammının eksiksiz olarak alındığı durumlarda"
+    },
+    {
+     "alt_konu": "İbra ve teminatın serbest bırakılması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre kapsamlı teminat kullanılması durumunda ilgili transit işlemine ilişkin teminat tutarı ne zaman serbest bırakılır?",
+     "cevap": "Varış bilgisi mesajı alındığında serbest bırakılır; diğer durumlarda hareket gümrük idaresi rejimi ibra ettiğinde teminatı serbest bırakır.",
+     "dayanak": "Seri No 4 Tebliğ md. 41/1",
+     "kanit": "Hareket gümrük idaresi, rejimi ibra etmesi halinde teminatı serbest bırakır. Ancak, kapsamlı teminat kullanılması durumunda varış bilgisi mesajı alındığında ilgili transit işlemine ilişkin teminat tutarı serbest bırakılır."
+    },
+    {
+     "alt_konu": "Alternatif kanıt ve alındı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit rejiminin sonlandırılmasının alternatif kanıtı olarak hangi belgeler kullanılabilir?",
+     "cevap": "Transit refakat belgesinin veya kağıt usulde 5 no.lu iade nüshasının fotokopisi; eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulduğunu gösteren gümrük belgesinin nüshası veya fotokopisi; ilişkili MRN belirtilmek kaydıyla boşaltma kayıtları ve konşimento gibi ticari belgelerin fotokopisi kullanılabilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 42/2",
+     "kanit": "TRB'nin fotokopisi veya kağıt usülde 5 no.lu iade nüshasının fotokopisi ... bir gümrük belgesinin bir nüshası veya bir fotokopisi ... İlişkili olduğu MRN belirtilmek kaydıyla eşyayı belirleyen boşaltma kayıtları ve konşimento gibi ticari belgelerin fotokopisi"
+    },
+    {
+     "alt_konu": "Alternatif kanıt ve alındı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre eşyayı ve belgeleri varış gümrük idaresine sunan kişinin talebi üzerine düzenlenen alındı (TC11) rejimin sonlandırılmasının alternatif kanıtı olarak kullanılabilir mi?",
+     "cevap": "Kullanılamaz.",
+     "dayanak": "Seri No 4 Tebliğ md. 43/1",
+     "kanit": "gümrük idaresince Ek-16'da yer alan TC11-Alındı Formu düzenlenir. Ancak alındı, rejimin sonlandırılmasının alternatif kanıtı olarak kullanılamaz."
+    },
+    {
+     "alt_konu": "Sonradan kontrol",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit beyanı ve alternatif kanıtın doğruluğuna ilişkin sonradan kontrol hangi durumda zorunludur?",
+     "cevap": "Sonradan kontrol risk analizine dayalı olarak veya örnekleme yoluyla yapılır; ancak sahteciliğe ilişkin kuvvetli şüphe hallerinde zorunludur.",
+     "dayanak": "Seri No 4 Tebliğ md. 44/2",
+     "kanit": "Sonradan kontrol risk analizine dayalı olarak veya örnekleme yoluyla yapılır. Ancak, sahteciliğe ilişkin kuvvetli şüphe hallerinde sonradan kontrol yapılması zorunludur."
+    },
+    {
+     "alt_konu": "Sonradan kontrol",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre sonradan kontrol talepleri en geç ne kadar sürede cevaplandırılır?",
+     "cevap": "Azami iki ay içinde, TC21-Doğrulama Talebi formunun ilgili bölümleri doldurularak cevaplandırılır.",
+     "dayanak": "Seri No 4 Tebliğ md. 44/1, 3",
+     "kanit": "Sonradan kontrol taleplerinde ek-15'te yer alan TC21-Doğrulama Talebi formu kullanılır. ... Sonradan kontrol talepleri azami iki ay içinde aynı formun ilgili bölümleri doldurularak cevaplandırılır."
+    },
+    {
+     "alt_konu": "Araştırma usulü ve karar",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre hareket gümrük idaresi, \"Varış Bilgisi\" mesajını aldıktan sonra kaç gün içinde \"Kontrol Sonuçları\" mesajını almazsa sistem tarafından otomatik olarak \"Durum Talebi\" mesajı gönderilir?",
+     "cevap": "Altı gün içinde almazsa gönderilir; süre sınırına kadar \"Varış Bilgisi\" mesajı hiç alınmazsa da Durum Talebi otomatik olarak gönderilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 45/1",
+     "kanit": "eşyanın varış gümrük idaresine sunulması gereken süre sınırına kadar \"Varış Bilgisi\" [ARR_ADV (IE006)] mesajını veya \"Varış Bilgisi\" mesajını aldıktan sonraki altı gün içinde \"Kontrol Sonuçları\" [DES_CON (IE018)] mesajını almazsa sistem tarafından otomatik olarak"
+    },
+    {
+     "alt_konu": "Araştırma usulü ve karar",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre araştırma usulünün varış gümrük idaresi nezdinde başlatılmasından sonra hangi süre içinde cevap alınamazsa rejim hak sahibi nezdinde araştırma başlatılır?",
+     "cevap": "Yirmi sekiz gün içinde cevap alınamaması veya olumsuz cevap alınması halinde rejim hak sahibi nezdinde araştırma başlatılır; rejim hak sahibi de en geç yirmi sekiz gün içinde cevap verir.",
+     "dayanak": "Seri No 4 Tebliğ md. 45/3",
+     "kanit": "Araştırmanın başlatılmasından sonra yirmi sekiz gün içinde araştırmaya cevap alınamaması veya araştırmaya olumsuz cevap alınması ... Rejim hak sahibi tarafından araştırmaya en geç yirmi sekiz gün içerisinde"
+    },
+    {
+     "alt_konu": "Araştırma usulü ve karar",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre hareket gümrük idaresi araştırma usulünün sonucuna en geç ne zamana kadar karar verir?",
+     "cevap": "Eşyanın varış gümrük idaresine sunulması için verilen süre sınırından itibaren en geç altı ay içinde karar verir; rejim ibra edilir veya tahsilat usulüne geçilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 49/1",
+     "kanit": "Hareket gümrük idaresi, eşyanın varış gümrük idaresine sunulması için verilen süre sınırından itibaren en geç 6 ay içinde araştırma usulünün sonucuna karar verir."
+    },
+    {
+     "alt_konu": "Tahsilat usulü",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre Gümrük Yönetmeliğinde düzenlenen beyana aykırılık hallerinde ve Tebliğde belirlenen durumlarda tahsilat sürecinin başlatılması için araştırma usulünün başlatılması şartı aranır mı?",
+     "cevap": "Aranmaz.",
+     "dayanak": "Seri No 4 Tebliğ md. 50/2 (GY md. 239-240)",
+     "kanit": "Yönetmeliğin 239 ve 240 ıncı maddeleri ile bu Tebliğde belirlenen durumlarda tahsilat sürecinin başlatılması için araştırma usulünün başlatılması şartı aranmaz."
+    },
+    {
+     "alt_konu": "Kefile yönelik bildirimler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit işlemlerinde rejimin ibra edilmediği durum kefile hangi süre içinde bildirilir?",
+     "cevap": "Eşyanın varış gümrük idaresine sunulması gereken tarihten itibaren dokuz ay içinde hareket gümrük idaresince kefile bildirilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 53/1",
+     "kanit": "Transit işlemlerinde rejimin ibra edilmediği, eşyanın varış gümrük idaresine sunulması gereken tarihten itibaren dokuz ay içinde hareket gümrük idaresince kefile bildirilir."
+    },
+    {
+     "alt_konu": "Kefile yönelik bildirimler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ortak transit rejiminde gümrük yükümlülüğünün Türkiye Gümrük Bölgesinde doğması halinde kefile gümrük vergilerini ödemesi gerektiğine ilişkin bildirim hangi süre içinde yapılır?",
+     "cevap": "Transit beyanının kabul tarihinden itibaren üç yıl içinde yapılır.",
+     "dayanak": "Seri No 4 Tebliğ md. 53/2",
+     "kanit": "ilgili gümrük idaresi transit beyanının kabul tarihinden itibaren üç yıl içinde kefile transit beyanının MRN ve tarihini"
+    },
+    {
+     "alt_konu": "Kefile yönelik bildirimler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre ortak transit rejimi kapsamındaki işlemlerde kefile öngörülen bildirimlerden hiçbiri süre sınırı dolmadan yapılmamışsa sonuç ne olur?",
+     "cevap": "Kefil yükümlülüklerinden kurtulur; ancak rejim hak sahibinin yükümlülüğü devam eder.",
+     "dayanak": "Seri No 4 Tebliğ md. 53/4",
+     "kanit": "süre sınırının dolmasından önce kefile yapılmamışsa, kefil yükümlülüklerinden kurtulur. Ancak rejim hak sahibinin yükümlülüğü devam eder."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünün doğması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre eşya transit rejiminden çıkarılmamakla birlikte rejimden doğan bir yükümlülüğün yerine getirilmemesi halinde gümrük yükümlülüğünün doğması için hangi şart aranır?",
+     "cevap": "Yerine getirilmeyen yükümlülüğün rejimin yanlış uygulanması sonucunu yaratması gerekir.",
+     "dayanak": "Seri No 4 Tebliğ md. 54/2",
+     "kanit": "yükümlülüğün doğması için, yerine getirilmeyen yükümlülüğün rejimin yanlış uygulanması sonucunu yaratması gerekir."
+    },
+    {
+     "alt_konu": "Gümrük yükümlülüğünün doğması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit rejimine tabi eşyanın tabiatı, öngörülemeyen koşullar ya da mücbir sebepler nedeniyle tamamen tahrip olduğunun veya tekrar yerine konulamayacak şekilde kaybolduğunun kanıtlanması halinde ne sonuç doğar?",
+     "cevap": "Eşya ile ilgili bir gümrük yükümlülüğünün doğmadığı kabul edilir; kullanılamaz hale gelen eşya da yerine konulamayacak şekilde kayıp sayılır.",
+     "dayanak": "Seri No 4 Tebliğ md. 54/3",
+     "kanit": "transit rejimine tabi tutulan eşya ile ilgili bir gümrük yükümlülüğünün doğmadığı kabul edilir. Kullanılamaz hale gelen eşyanın yerine konulamayacak şekilde kayıp olduğu kabul edilir."
+    },
+    {
+     "alt_konu": "Yükümlünün belirlenmesi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre aynı gümrük vergilerinin ödenmesinden birden fazla kişinin yükümlü olması durumunda sorumluluk nasıldır?",
+     "cevap": "Bu kişiler vergilerin ödenmesinden müştereken ve müteselsilen sorumludur.",
+     "dayanak": "Seri No 4 Tebliğ md. 55/3",
+     "kanit": "Aynı gümrük vergilerinin ödenmesinden birden fazla kişinin yükümlü olması durumunda, bu kişiler vergilerin ödenmesinden müştereken ve müteselsilen sorumludur."
+    },
+    {
+     "alt_konu": "Açık transit beyanlarının takibi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre bağlantı hareket ya da varış gümrük idarelerince işlemleri tamamlanmayan açık transit beyanları kim tarafından ve hangi dönemler itibarıyla takip edilir?",
+     "cevap": "Aylık dönemler itibarıyla ilgili bölge müdürlüğünce takip edilir.",
+     "dayanak": "Seri No 4 Tebliğ md. 57/1",
+     "kanit": "işlemleri tamamlanmayan transit beyanları, aylık dönemler itibarıyla ilgili bölge müdürlüğünce takip edilerek"
+    }
+   ]
+  },
+  {
+   "kaynak": "24-SERİ NO 5.txt",
+   "konu": "Transit rejimi – eşyanın havayolu ile basitleştirilmiş usulde taşınması",
+   "mevzuat": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 1-16; dayanak: GK md. 84-92, GY md. 237",
+   "cikmis_sayisi": 0,
+   "cikmis": [],
+   "alt_konular": [
+    {
+     "baslik": "Başvuru koşulları ve istenen belgeler",
+     "dayanak": "Seri No 5 Tebliğ md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Başvuru yeri ve izin makamı",
+     "dayanak": "Seri No 5 Tebliğ md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eksik başvuruların tamamlanması",
+     "dayanak": "Seri No 5 Tebliğ md. 6/2-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Basitleştirme izninin kapsamı ve kullanılamayacağı eşya",
+     "dayanak": "Seri No 5 Tebliğ md. 6/5-6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Transit beyanı olarak iletilecek bilgiler ve konşimento kodları",
+     "dayanak": "Seri No 5 Tebliğ md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hareket gümrük idaresinde yapılacak işlemler",
+     "dayanak": "Seri No 5 Tebliğ md. 8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış işlemleri ve transit işleminin sonlandırılması",
+     "dayanak": "Seri No 5 Tebliğ md. 9/1-2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Genel transitte rejimin varış idaresine sunulmakla sona erdiği (2024-92, 2025-74/75) soruldu; havayolu basitleştirmesine özgü sonlanma anı sorulmadı."
+    },
+    {
+     "baslik": "Eksik ve fazla çıkan eşya",
+     "dayanak": "Seri No 5 Tebliğ md. 9/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İznin askıya alınması",
+     "dayanak": "Seri No 5 Tebliğ md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İznin iptali",
+     "dayanak": "Seri No 5 Tebliğ md. 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzin sahibinin yükümlülükleri",
+     "dayanak": "Seri No 5 Tebliğ md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Basitleştirme izni kapsamındaki işlemlerin sonradan kontrolü",
+     "dayanak": "Seri No 5 Tebliğ md. 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Başvuru koşulları ve istenen belgeler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirme izni için başvuran havayolu şirketinin bünyesinde asgari kaç uçak bulunması gerekir?",
+     "cevap": "Asgari 3 adet kargo uçağı ya da asgari 10 adet yolcu uçağı bulundurması gerekir; ayrıca başvuru yılı ve bir önceki yıl içinde yurtiçi tarifeli seferlerle yolcu ya da kargo taşımacılığı yapmış olması aranır.",
+     "dayanak": "Seri No 5 Tebliğ md. 4/1-a",
+     "kanit": "bünyesinde asgari 3 adet kargo uçağı ya da asgari 10 adet yolcu uçağı bulundurmak ve başvuru yılı ve bir önceki yıl içerisinde yurtiçi tarifeli seferlerle yolcu ya da kargo taşımacılığı yapmış olmak"
+    },
+    {
+     "alt_konu": "Başvuru koşulları ve istenen belgeler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre ISO 9001 ve ISO 27001 sertifikalarına henüz sahip olmayan başvuru sahibi bu koşulu nasıl karşılayabilir?",
+     "cevap": "Sertifikaların alınması için başvuru yapıldığını tevsik ederek, sertifikaların birer örneğini başvuru tarihinden itibaren bir yıl içinde Bakanlığa ibraz etmesi gerekir.",
+     "dayanak": "Seri No 5 Tebliğ md. 4/1-c",
+     "kanit": "ISO 9001 ve ISO 27001 sertifikalarına sahip olmak ya da söz konusu sertifikaların alınması için başvuru yapıldığının tevsik edilerek sertifikaların birer örneğini başvuru tarihinden itibaren bir yıl içerisinde Bakanlığa ibraz etmek"
+    },
+    {
+     "alt_konu": "Başvuru koşulları ve istenen belgeler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre başvuruda sunulacak adli sicil kayıtları hangi kişilere ait olmalı ve ne zaman alınmış olmalıdır?",
+     "cevap": "Yönetim kurulu üyeleri, sermayesinin yüzde onundan fazlasına sahip gerçek kişiler ile gümrük ve dış ticaret işlemlerinde temsil yetkisini haiz çalışanlara ait, arşiv bilgilerini de içeren ve son bir ay içinde alınmış adli sicil kayıtları sunulur.",
+     "dayanak": "Seri No 5 Tebliğ md. 4/2-c",
+     "kanit": "Yönetim Kurulu üyeleri, sermayesinin yüzde onundan fazlasına sahip gerçek kişiler ile gümrük ve dış ticaret işlemlerinde temsil yetkisini haiz çalışanlarının arşiv bilgilerini de içeren son bir ay içerisinde alınmış adli sicil kayıtlarını"
+    },
+    {
+     "alt_konu": "Başvuru yeri ve izin makamı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre eşyanın havayolu ile taşınmasına ilişkin basitleştirme izni için başvuru yeri ve izin makamı neresidir?",
+     "cevap": "Gümrükler Genel Müdürlüğüdür.",
+     "dayanak": "Seri No 5 Tebliğ md. 5/1",
+     "kanit": "Eşyanın havayolu ile taşınmasına ilişkin basitleştirme izni için başvuru yeri ve izin makamı Gümrükler Genel Müdürlüğü'dür."
+    },
+    {
+     "alt_konu": "Eksik başvuruların tamamlanması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre başvuru dosyasındaki eksikliklerin başvuru sahibine bildirilmesi halinde eksiklikler ne kadar sürede tamamlanmalıdır?",
+     "cevap": "Bildirimin yapıldığı tarihi müteakip en geç altmış gün içinde tamamlanır; bu sürede tamamlanmayan başvuru yapılmamış sayılır ve evrak başvuru sahibine geri gönderilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 6/2",
+     "kanit": "bildirimin yapıldığı tarihi müteakip en geç altmış gün içinde tamamlanır. Bu süre içerisinde tamamlanmayan başvuru yapılmamış sayılır ve başvuru evrakları başvuru sahibine geri gönderilir."
+    },
+    {
+     "alt_konu": "Basitleştirme izninin kapsamı ve kullanılamayacağı eşya",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirme izni hangi taşımalarda kullanılabilir?",
+     "cevap": "İzin sahibinin kendi havayolu şirketine ait sefer kodu ile yurtdışından Türkiye Gümrük Bölgesine getirdiği eşyanın ve ihracat eşyasının Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında kullanılabilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 6/5",
+     "kanit": "Basitleştirme izni, izin sahibinin kendi havayolu şirketine ait sefer kodu ile yurtdışından Türkiye Gümrük Bölgesi'ne getirdiği eşyanın Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında ve ihracat eşyasının"
+    },
+    {
+     "alt_konu": "Basitleştirme izninin kapsamı ve kullanılamayacağı eşya",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirme izni hangi eşyanın taşınmasında kullanılamaz?",
+     "cevap": "Gümrük Yönetmeliğinin ilgili hükmü kapsamına giren eşya ile Türk Gümrük Tarife Cetvelinin 22.08 ve 24.02 pozisyonlarında yer alan eşyanın taşınmasında kullanılamaz.",
+     "dayanak": "Seri No 5 Tebliğ md. 6/6 (GY md. 225)",
+     "kanit": "Basitleştirme izni, Yönetmeliğin 225 inci maddesi kapsamına giren eşyanın ve Türk Gümrük Tarife Cetvelinin 22.08 ve 24.02 pozisyonlarında yer alan eşyanın taşınmasında kullanılamaz."
+    },
+    {
+     "alt_konu": "Transit beyanı olarak iletilecek bilgiler ve konşimento kodları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni kapsamında iletilen bilgilerde, transit rejimine konu olmayan serbest dolaşımdaki kabotaj eşyası için konşimento numarasının karşısında hangi kod kullanılır?",
+     "cevap": "\"K\" kodu kullanılır.",
+     "dayanak": "Seri No 5 Tebliğ md. 7/3-c",
+     "kanit": "Transit rejimine konu olmayan serbest dolaşımdaki kabotaj eşyası için \"K\" kodu"
+    },
+    {
+     "alt_konu": "Transit beyanı olarak iletilecek bilgiler ve konşimento kodları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni kapsamında öncesinde bir transit beyanına konu olmuş eşya için konşimento numarasının karşısında hangi kod kullanılır?",
+     "cevap": "\"H\" kodu kullanılır; bu eşyanın devamı niteliğindeki eşya için \"HD\" kodu kullanılır.",
+     "dayanak": "Seri No 5 Tebliğ md. 7/3-e, f",
+     "kanit": "Öncesinde bir transit beyanına konu olmuş eşya için \"H\" kodu, ... Öncesinde bir transit beyanına konu olmuş eşyanın devamı niteliğindeki eşya için \"HD\" kodu"
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayoluyla getirilip giriş gümrük idaresinden başka bir gümrük idaresine sevk edilecek eşyada, basitleştirme izni kapsamındaki bilgiler giriş özet beyanın verildiği tarihten itibaren kaç saat içinde sisteme iletilmelidir?",
+     "cevap": "96 saat içinde iletilmelidir; bu durumda işlemler eşya geçici depolama yerine alınmaksızın yapılır, süre aşılırsa eşya geçici depolama yerine alınır.",
+     "dayanak": "Seri No 5 Tebliğ md. 8/2",
+     "kanit": "giriş özet beyanın verildiği tarihten itibaren 96 saat içerisinde gümrük idaresinin sistemine iletilir. Bu durumda işlemler, eşya geçici depolama yerine alınmaksızın gerçekleştirilir. Söz konusu sürenin aşılması halinde, eşya geçici depolama yerine alınır."
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni kapsamında taşıma yapan havayolu şirketi taşıma işlemlerinde hangi sıfatı taşır?",
+     "cevap": "Taşıma işlemleri için rejim hak sahibi olur.",
+     "dayanak": "Seri No 5 Tebliğ md. 8/4",
+     "kanit": "Basitleştirme izni kapsamında taşıma yapan havayolu şirketi, taşıma işlemleri için rejim hak sahibi olur."
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesinde eşya hangi durumda hareket gümrük idaresine sunulmuş kabul edilir?",
+     "cevap": "Gerekli bilgilerin hava taşıtının kalkışı öncesinde gümrük idaresinin sistemine elektronik veri değişimi sistemi ile iletilmesi halinde sunulmuş kabul edilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 8/5",
+     "kanit": "bilgilerin hava taşıtının kalkışı öncesinde gümrük idaresinin sistemine elektronik veri değişimi sistemi ile iletilmesi halinde, eşyanın hareket gümrük idaresine sunulmuş olduğu kabul edilir."
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre izin sahibince gümrük idaresinin sistemine iletilen bilgilerde değişiklik ne zamana kadar yapılabilir?",
+     "cevap": "İlgili kayıt numarası kullanılarak, taşıtın varış havalimanına varışına kadar elektronik veri değişimi sistemiyle iletilebilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 8/3",
+     "kanit": "ilgili kayıt numarası kullanılarak değişiklik bilgileri taşıtın varış havalimanına varışına kadar gümrük idaresinin sistemine elektronik veri değişimi sistemi ile iletilir"
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre giriş özet beyanda \"ambar harici\" olarak belirtilen taşıma senetlerindeki eşyanın geçici depolama yerine alınması gerektiğinde sistemdeki düzeltme nasıl yapılır?",
+     "cevap": "Gümrük Kanunundaki usulsüzlük cezası uygulanmaksızın gümrük idaresince sistemde gerekli düzeltme yapılır.",
+     "dayanak": "Seri No 5 Tebliğ md. 8/10 (GK md. 241/1)",
+     "kanit": "eşyanın geçici depolama yerine alınmasının gerekmesi durumunda, Kanunun 241 inci maddesinin birinci fıkrası uygulanmaksızın sistemde gümrük idaresince gerekli düzeltme yapılır"
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre 96 saatlik sürenin aşılması veya ambar harici düzeltmesi nedeniyle geçici depolama yerine alınan eşyanın varış gümrük idaresine sevki nasıl yapılır?",
+     "cevap": "Ulusal transit rejimi çerçevesinde transit beyanı ile gerçekleştirilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 8/11",
+     "kanit": "geçici depolama yerine alınan eşyanın varış gümrük idaresine sevki, ulusal transit rejimi çerçevesinde transit beyanı ile gerçekleştirilir"
+    },
+    {
+     "alt_konu": "Varış işlemleri ve transit işleminin sonlandırılması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirme izni kapsamında eşya ne zaman varış gümrük idaresine sunulmuş ve transit işlemi sonlandırılmış kabul edilir?",
+     "cevap": "Gerekli bilgilerin izin sahibince sisteme iletilmiş olması koşuluyla, hava taşıtı varış havalimanına ulaştığında.",
+     "dayanak": "Seri No 5 Tebliğ md. 9/1",
+     "kanit": "hava taşıtı varış havalimanına ulaştığında eşyanın varış gümrük idaresine sunulmuş olduğu ve transit işleminin sonlandırıldığı kabul edilir"
+    },
+    {
+     "alt_konu": "Eksik ve fazla çıkan eşya",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre boşaltma sonrasında kap adedinin eksik çıkması halinde, eksik eşya kaç gün içinde başka bir hava taşıtıyla getirilmezse izin sahibinden eksikliğin sebebini ispat etmesi istenir ve ispat süresi ne kadardır?",
+     "cevap": "Eksik eşya 10 gün içinde başka bir hava taşıtıyla getirilip sunulmazsa eksikliğin mahrecindeki eksik yüklemeden veya yanlış beyandan kaynaklandığının yirmi sekiz gün içinde ispatı istenir; bu süre yazılı başvuruyla yirmi sekiz gün daha uzatılabilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 9/3-a",
+     "kanit": "eksik çıkan eşyanın 10 gün içerisinde başka bir hava taşıtı ile getirilerek varış gümrük idaresine sunulmaması durumunda ... yirmi sekiz gün içerisinde varış gümrük idaresine ispat edilmesi istenir. Bu süre yazılı başvuru halinde, yirmi sekiz gün daha uzatılabilir."
+    },
+    {
+     "alt_konu": "Eksik ve fazla çıkan eşya",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre eksik çıkan eşyada eksikliğin sebebinin süresi içinde ispat edilememesi halinde ne yapılır?",
+     "cevap": "Gümrük vergileri ve diğer yükler tahsil edilir; ayrıca Gümrük Kanunu uyarınca usulsüzlük cezası uygulanır.",
+     "dayanak": "Seri No 5 Tebliğ md. 9/3-a (GK md. 241/1)",
+     "kanit": "Eksikliğin sebebinin süresi içerisinde ispat edilememesi halinde, gümrük vergileri ve diğer yüklerin tahsil edilmesinin yanı sıra, Kanunun 241 inci maddesinin birinci fıkrası uygulanır."
+    },
+    {
+     "alt_konu": "Eksik ve fazla çıkan eşya",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre kap adedinin fazla çıkması halinde fazlalığın sebebi süresi içinde ispat edilemezse fazla çıkan eşya hakkında ne yapılır?",
+     "cevap": "Fazla çıkan eşya Gümrük Kanunu uyarınca tasfiyeye tabi tutulur.",
+     "dayanak": "Seri No 5 Tebliğ md. 9/3-b (GK md. 177)",
+     "kanit": "Fazlalığın sebebinin süresi içerisinde ispat edilememesi halinde, fazla çıkan eşya Kanunun 177 nci maddesi kapsamında tasfiyeye tabi tutulur."
+    },
+    {
+     "alt_konu": "İznin askıya alınması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre izin sahibinin izin koşullarına ilişkin eksiklikleri verilen süre içinde düzeltmemesi halinde izin ne kadar süreyle askıya alınır ve bu süre uzatılabilir mi?",
+     "cevap": "İzin otuz gün süreyle askıya alınır; bu süre izin sahibinin talebi üzerine altmış gün daha uzatılabilir. Ek süreler içinde de düzeltme yapılmazsa izin iptal edilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 10/2",
+     "kanit": "izni otuz gün süre ile askıya alır ve durumu izin sahibine bildirir. Otuz günlük askıya alma süresi izin sahibinin talebi üzerine altmış gün daha uzatılabilir."
+    },
+    {
+     "alt_konu": "İznin iptali",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre Gümrük Yönetmeliğinde sayılan kişilerden biri hakkında kesinleşmiş yargı kararı verilmesi halinde iznin iptal edilmemesi için ne yapılmalıdır?",
+     "cevap": "Hakkında yargı kararı verilen kişinin firma ile ilişiğinin 60 gün içinde kesilmesi gerekir; kesilmezse izin iptal edilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 11/1-c",
+     "kanit": "hakkında yargı kararı verilmiş kişinin 60 gün içerisinde firma ile ilişiğinin kesilmemiş olması"
+    },
+    {
+     "alt_konu": "İznin iptali",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre iznin iptalini müteakip yapılan izin başvuruları hakkında ne yapılır?",
+     "cevap": "İptal işlemini müteakip bir yıl içinde yapılan izin başvuruları reddedilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 11/3",
+     "kanit": "Birinci fıkradaki iptal işlemini müteakip bir yıl içerisinde yapılan izin başvuruları reddedilir."
+    },
+    {
+     "alt_konu": "İzin sahibinin yükümlülükleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni kapsamında taşıma yapılacak havalimanlarına ilişkin değişiklikler Bakanlığa ne zaman bildirilir?",
+     "cevap": "Taşımaların başlamasının planlandığı tarihten en geç 15 gün önce bildirilir.",
+     "dayanak": "Seri No 5 Tebliğ md. 12/1-a",
+     "kanit": "taşıma yapılacak havalimanlarına ilişkin değişiklik söz konusu olduğunda, söz konusu değişiklikleri, taşımaların başlamasının planlandığı tarihten en geç 15 gün öncesinde Bakanlığa bildirmekle"
+    },
+    {
+     "alt_konu": "İzin sahibinin yükümlülükleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre izin sahibi, izin kapsamındaki işlemlere ilişkin manifesto ve konşimentoların gümrük idaresince sorgulanabilmesi için ne kadar süre erişim sağlamakla yükümlüdür?",
+     "cevap": "İşlem tarihinden itibaren üç yıl süreyle erişim sağlamakla yükümlüdür.",
+     "dayanak": "Seri No 5 Tebliğ md. 12/1-c",
+     "kanit": "gümrük idaresince sorgulanabilmesi için işlem tarihinden itibaren üç yıl süre ile gerekli erişimi sağlamakla"
+    },
+    {
+     "alt_konu": "Basitleştirme izni kapsamındaki işlemlerin sonradan kontrolü",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre izin sahibince gerçekleştirilen işlemler hangi düzenleme kapsamında sonradan kontrole tabi tutulur?",
+     "cevap": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliği kapsamında sonradan kontrole tabi tutulur; bu kontrolde izin sahibinin izin koşullarını taşımaya devam edip etmediği de incelenir.",
+     "dayanak": "Seri No 5 Tebliğ md. 13",
+     "kanit": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliği kapsamında sonradan kontrole tabi tutulur. ... izin sahibinin izne ilişkin koşulları taşımaya devam edip etmediği de kontrol edilir."
+    }
+   ]
+  },
+  {
+   "kaynak": "25-SERİ NO 6.txt",
+   "konu": "Transit rejimi – eşyanın demiryolu ile basitleştirilmiş usulde taşınması (CIM taşıma belgesi)",
+   "mevzuat": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 1-22; dayanak: Ortak Transit Rejimine İlişkin Sözleşme, GK md. 84-92, GY md. 235",
+   "cikmis_sayisi": 1,
+   "cikmis": [
+    "2024-59 (dolaylı, GK): Demiryolu ile basitleştirilmiş usulde CIM taşıma belgesi, transit taşımasında kullanılabilen belgeler arasında şık olarak yer aldı (doğru cevap CMR belgesi)."
+   ],
+   "alt_konular": [
+    {
+     "baslik": "CIM taşıma belgesi ve sınır gümrük idaresi tanımları",
+     "dayanak": "Seri No 6 Tebliğ md. 3",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-59 (dolaylı)"
+     ],
+     "not": "2024-59'da demiryolu ile basitleştirilmiş usulde CIM taşıma belgesinin transit beyanı olarak kullanılabileceği şık olarak yer aldı; CIM'in dayanağı (COTIF Ek-B) ve sınır gümrük idaresi tanımı sorulmadı."
+    },
+    {
+     "baslik": "Başvuru koşulları",
+     "dayanak": "Seri No 6 Tebliğ md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzin makamı ve basitleştirme izninin kapsamı",
+     "dayanak": "Seri No 6 Tebliğ md. 5-6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Rejim hak sahibi ve transit beyanı olarak iletilecek bilgiler",
+     "dayanak": "Seri No 6 Tebliğ md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yeşil piktogramlı etiket",
+     "dayanak": "Seri No 6 Tebliğ md. 8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yükleme listeleri",
+     "dayanak": "Seri No 6 Tebliğ md. 9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ayniyet önlemleri",
+     "dayanak": "Seri No 6 Tebliğ md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hareket gümrük idaresince kontrol ve eşyanın sevki",
+     "dayanak": "Seri No 6 Tebliğ md. 11-12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Taşıma sözleşmelerinin değiştirilmesi",
+     "dayanak": "Seri No 6 Tebliğ md. 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sınır gümrük idaresindeki işlemler",
+     "dayanak": "Seri No 6 Tebliğ md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış gümrük idaresinde yapılacak işlemler",
+     "dayanak": "Seri No 6 Tebliğ md. 15",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İznin askıya alınması",
+     "dayanak": "Seri No 6 Tebliğ md. 16",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İznin iptali",
+     "dayanak": "Seri No 6 Tebliğ md. 17",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzin sahibinin yükümlülükleri",
+     "dayanak": "Seri No 6 Tebliğ md. 18",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "CIM taşıma belgesi ve sınır gümrük idaresi tanımları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre CIM Taşıma Belgesi hangi uluslararası sözleşmede belirtilen taşıma belgesidir?",
+     "cevap": "3172 sayılı Kanunla onaylanması uygun bulunan Uluslararası Demiryolu Taşımalarına İlişkin Sözleşmenin (COTIF) Ek-B'sinde belirtilen taşıma belgesidir.",
+     "dayanak": "Seri No 6 Tebliğ md. 3/1-b",
+     "kanit": "CIM Taşıma Belgesi: 21/3/1985 tarihli ve 3172 sayılı Kanunla onaylanması uygun bulunan Uluslararası Demiryolu Taşımalarına İlişkin Sözleşmenin (COTIF) Ek-B'sinde belirtilen taşıma belgesini"
+    },
+    {
+     "alt_konu": "CIM taşıma belgesi ve sınır gümrük idaresi tanımları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre sınır gümrük idaresi nasıl tanımlanır?",
+     "cevap": "Eşyanın Türkiye Gümrük Bölgesine giriş yaptığı veya Türkiye Gümrük Bölgesini terk ettiği gümrük idaresidir.",
+     "dayanak": "Seri No 6 Tebliğ md. 3/1-f",
+     "kanit": "Sınır gümrük idaresi: Eşyanın Türkiye Gümrük Bölgesine giriş yaptığı veya Türkiye Gümrük Bölgesini terk ettiği gümrük idaresini"
+    },
+    {
+     "alt_konu": "Başvuru koşulları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre demiryolu basitleştirme izni hangi kişilere verilebilir?",
+     "cevap": "6461 sayılı Türkiye Demiryolu Ulaştırmasının Serbestleştirilmesi Hakkında Kanun uyarınca ulusal demiryolu altyapı ağı üzerinde yük taşımacılığı yapmak üzere Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yetkilendirilmiş demiryolu tren işletmecisine verilebilir.",
+     "dayanak": "Seri No 6 Tebliğ md. 4/1",
+     "kanit": "6461 sayılı Türkiye Demiryolu Ulaştırmasının Serbestleştirilmesi Hakkında Kanun uyarınca ulusal demiryolu altyapı ağı üzerinde yük taşımacılığı yapmak üzere Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yetkilendirilmiş bir demiryolu tren işletmecisine"
+    },
+    {
+     "alt_konu": "Başvuru koşulları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre demiryolu basitleştirme izni için başvuran tren işletmecisinin hangi kayıtları elektronik ortamda tutması gerekir?",
+     "cevap": "CIM Taşıma Belgesi, sevkiyat kayıtları ve muhasebe kayıtlarını elektronik ortamda tutması ve bunlara hareket, varış ve sınır gümrük idarelerinin anlık erişimi için gerekli elektronik altyapıya sahip olması gerekir.",
+     "dayanak": "Seri No 6 Tebliğ md. 4/1",
+     "kanit": "demiryolu tren işletmecisinin CIM Taşıma Belgesi, sevkiyat kayıtları ve muhasebe kayıtlarını elektronik ortamda tutması ve bu bilgilere hareket, varış ve sınır gümrük idarelerinin anlık erişimi için gerekli elektronik altyapıya sahip olması gerekir"
+    },
+    {
+     "alt_konu": "İzin makamı ve basitleştirme izninin kapsamı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre demiryolu basitleştirme izni hangi transit rejimleri kapsamındaki taşımalarda kullanılabilir?",
+     "cevap": "Ortak ve ulusal transit rejimleri kapsamındaki taşımalarda kullanılabilir; ancak Gümrük Yönetmeliğinin ilgili hükmü kapsamındaki eşya ile Türk Gümrük Tarife Cetvelinin 22.08 ve 24.02 pozisyonlarındaki eşyanın taşınmasında kullanılamaz.",
+     "dayanak": "Seri No 6 Tebliğ md. 6/5-6",
+     "kanit": "Basitleştirme izni, eşyanın ortak ve ulusal transit rejimleri kapsamında taşınmasında kullanılabilir. ... Türk Gümrük Tarife Cetvelinin 22.08 ve 24.02 pozisyonlarında yer alan eşyanın taşınmasında kullanılamaz"
+    },
+    {
+     "alt_konu": "İzin makamı ve basitleştirme izninin kapsamı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre eşyanın demiryolu ile taşınmasına ilişkin basitleştirme izni için başvuru yeri ve izin makamı neresidir?",
+     "cevap": "Gümrükler Genel Müdürlüğüdür.",
+     "dayanak": "Seri No 6 Tebliğ md. 5/1",
+     "kanit": "Eşyanın demiryolu ile taşınmasına ilişkin basitleştirme izni için başvuru yeri ve izin makamı Gümrükler Genel Müdürlüğüdür."
+    },
+    {
+     "alt_konu": "Rejim hak sahibi ve transit beyanı olarak iletilecek bilgiler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre basitleştirme izni kapsamında taşıma yapan demiryolu tren işletmecisi taşıma işlemlerinde hangi sıfatı taşır?",
+     "cevap": "Taşıma işlemleri için rejim hak sahibidir.",
+     "dayanak": "Seri No 6 Tebliğ md. 7/1",
+     "kanit": "Basitleştirme izni kapsamında taşıma yapan demiryolu tren işletmecisi, taşıma işlemleri için rejim hak sahibidir."
+    },
+    {
+     "alt_konu": "Rejim hak sahibi ve transit beyanı olarak iletilecek bilgiler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre basitleştirme izni kapsamında vagon bazında iletilecek bilgiler gümrük idaresinin sistemine ne zamana kadar ve nasıl iletilir?",
+     "cevap": "Taşıtın hareketine kadar izin sahibi tarafından elektronik veri değişimi sistemi ile elektronik imzalı olarak iletilir; değişiklik bilgileri taşıtın varış istasyonuna varışına kadar iletilebilir.",
+     "dayanak": "Seri No 6 Tebliğ md. 7/5",
+     "kanit": "taşıtın hareketine kadar izin sahibi tarafından gümrük idaresinin sistemine elektronik veri değişimi sistemi ile elektronik imzalı olarak iletilir ... değişiklik bilgileri taşıtın varış istasyonuna varışına kadar"
+    },
+    {
+     "alt_konu": "Rejim hak sahibi ve transit beyanı olarak iletilecek bilgiler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre serbest bölgeden çıkarılarak demiryolu ile varış gümrük idaresine sevk edilecek eşyada işlemler hangi koşulla elektronik veri iletimine gerek olmaksızın transit beyanı üzerinden yürütülür?",
+     "cevap": "Transit beyanında rejim hak sahibinin izin sahibi demiryolu tren işletmecisi olması ve CIM Taşıma Belgesinin transit beyanına eklenmesi koşuluyla.",
+     "dayanak": "Seri No 6 Tebliğ md. 7/9",
+     "kanit": "rejim hak sahibinin izin sahibi demiryolu tren işletmecisi olması ve CIM Taşıma Belgesinin transit beyanına eklenmesi koşuluyla"
+    },
+    {
+     "alt_konu": "Yeşil piktogramlı etiket",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre basitleştirilmiş usulde taşınacak eşyanın tanınmasını sağlayan piktogramlı etiketler nereye yapıştırılır?",
+     "cevap": "CIM Taşıma Belgesinin sol üst köşesine yapıştırılır; ortak transit taşımalarında ayrıca tam yüklü vagona veya diğer durumlarda kaplara da etiket yapıştırılır.",
+     "dayanak": "Seri No 6 Tebliğ md. 8/2",
+     "kanit": "Bu etiketler, CIM Taşıma Belgesinin sol üst köşesine yapıştırılır. Ayrıca, ortak transit rejimi kapsamı taşımalarda, tam yüklü olması durumunda ilgili demiryolu vagonuna veya diğer durumlarda kaplara da etiket yapıştırılır."
+    },
+    {
+     "alt_konu": "Yeşil piktogramlı etiket",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre ulusal transit rejimi kapsamındaki demiryolu taşımalarında vagon veya kaplara etiket yapıştırılması gerekir mi?",
+     "cevap": "Gerekmez.",
+     "dayanak": "Seri No 6 Tebliğ md. 8/4",
+     "kanit": "Ulusal transit rejimi kapsamındaki taşımalar için, vagon, kap veya kaplara etiket yapıştırılmasına gerek yoktur."
+    },
+    {
+     "alt_konu": "Yeşil piktogramlı etiket",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre piktogramlı etiketlerin hazırlanmasından ve basımından kim sorumludur?",
+     "cevap": "İzin sahibi sorumludur; CIM Taşıma Belgesi üzerinde etiket yerine piktogramı yeşil renkte basan bir mühür de kullanılabilir.",
+     "dayanak": "Seri No 6 Tebliğ md. 8/3, 5",
+     "kanit": "piktogramı yeşil renkte basan bir mühür kullanılabilir ... Etiketlerin, Sözleşme Ek III, İlave B11'de yer alan örneğe uygun olarak hazırlanmasından ve basımından izin sahibi sorumludur."
+    },
+    {
+     "alt_konu": "Yükleme listeleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre CIM Taşıma Belgesine eşlik eden yükleme listelerinin niteliği nedir?",
+     "cevap": "Yükleme listeleri CIM Taşıma Belgesinin ayrılmaz bir parçasını oluşturur; listelerin aslı üzerinde sevk eden istasyonun mührü bulunur.",
+     "dayanak": "Seri No 6 Tebliğ md. 9/2, 4",
+     "kanit": "CIM Taşıma Belgesine eşlik eden yükleme listeleri, bu belgenin ayrılmaz bir parçasını oluşturur. ... Yükleme listelerinin aslı üzerinde sevk eden istasyonun mührü bulunur."
+    },
+    {
+     "alt_konu": "Ayniyet önlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre demiryolu basitleştirmesinde vagonların mühürlenmesi kural olarak kim tarafından yapılır?",
+     "cevap": "İzin sahibi tarafından yapılması esastır; hareket gümrük idaresi alınan önlemleri kontrol eder ve aksine karar gerektiren bir tespit yoksa yeni mühürleme yapmaz.",
+     "dayanak": "Seri No 6 Tebliğ md. 10/1-2",
+     "kanit": "Vagonlar ve mühürlenmeye uygun diğer taşıma araçlarının izin sahibi tarafından mühürlenmesi esastır. ... aksine karar alınmasını gerektiren bir tespitte bulunulmadığı durumlarda yeni bir mühürleme yapılmaz"
+    },
+    {
+     "alt_konu": "Ayniyet önlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre eşyanın ayniyetinin mühürleme dışındaki yollarla sağlanması halinde izin sahibi CIM Taşıma Belgesine hangi ibareyi yazar?",
+     "cevap": "\"Vazgeçme - 92110\" ibaresini yazar.",
+     "dayanak": "Seri No 6 Tebliğ md. 10/4",
+     "kanit": "izin sahibi, CIM Taşıma Belgesinin 21 no.lu kutusuna \"Vazgeçme - 92110\" ibaresini yazar"
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresince kontrol ve eşyanın sevki",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre hareket gümrük idaresince yapılan kontrollerde uygunsuzluk tespit edilmemesi halinde trenin hareketine nasıl izin verilir?",
+     "cevap": "CIM Taşıma Belgesine taşımanın türüne göre T1, T2 veya TR sembolleri yazılarak gümrük idaresince mühür uygulanır ve belgenin aslı ile birlikte trenin hareketine izin verilir.",
+     "dayanak": "Seri No 6 Tebliğ md. 12/1",
+     "kanit": "taşımanın türüne göre T1, T2 veya TR sembolleri yazılarak gümrük idaresi tarafından mühür uygulanır ve CIM Taşıma Belgesinin aslı ile birlikte trenin hareketine izin verilir"
+    },
+    {
+     "alt_konu": "Taşıma sözleşmelerinin değiştirilmesi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre taşıma sözleşmesinde yapılan hangi değişiklikler hareket idaresinin önceden izni olmadan uygulanamaz?",
+     "cevap": "Türkiye Gümrük Bölgesi dışında sona erecek taşımanın Türkiye Gümrük Bölgesi içinde sona ermesi veya Türkiye Gümrük Bölgesi içinde sona erecek taşımanın dışında sona ermesi sonucunu doğuran değişiklikler.",
+     "dayanak": "Seri No 6 Tebliğ md. 13",
+     "kanit": "Türkiye Gümrük Bölgesi dışında sona erecek olan bir taşıma işleminin Türkiye Gümrük Bölgesi içinde sona ermesi, ... durumunda izin sahibi, hareket idaresinin önceden izni olmadan değişiklik yapılmış sözleşmeyi uygulayamaz"
+    },
+    {
+     "alt_konu": "Sınır gümrük idaresindeki işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre denizyolu ile getirilip CIM Taşıma Belgesiyle demiryolu ile sevk edilecek eşyanın limandan demiryolu taşıtlarına yükleneceği yere kadar karayoluyla taşınması gerektiğinde, taşımanın tamamının basitleştirilmiş usulde yapılmasına hangi koşullarla izin verilebilir?",
+     "cevap": "İzin sahibince karayolu taşımasının da sorumluluğu altında gerçekleştirileceğinin taahhüt edilmesi ve karayolu kısmı için gerekli teminatın verilmesi koşuluyla izin makamınca izin verilebilir.",
+     "dayanak": "Seri No 6 Tebliğ md. 14/5",
+     "kanit": "izin sahibince söz konusu karayolu taşımasının da sorumlulukları altında gerçekleştirileceğinin taahhüt edilmesi ve taşımanın karayolu ile gerçekleştirilecek kısmı için gerekli teminatın verilmesi koşuluyla, izin makamınca"
+    },
+    {
+     "alt_konu": "Varış gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre demiryolu basitleştirmesi kapsamında transit işlemi ne zaman sonlandırılmış kabul edilir?",
+     "cevap": "Gerekli bilgilerin izin sahibince sisteme iletilmiş olması koşuluyla, trenin varış gümrük idaresine ulaşması ile eşya sunulmuş ve transit işlemi sonlandırılmış kabul edilir.",
+     "dayanak": "Seri No 6 Tebliğ md. 15/1",
+     "kanit": "trenin varış gümrük idaresine ulaşması ile eşyanın varış gümrük idaresine sunulmuş olduğu ve transit işleminin sonlandırıldığı kabul edilir"
+    },
+    {
+     "alt_konu": "İznin askıya alınması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre izin koşullarından birinin artık karşılanmadığının bildirilmesi veya tespiti halinde izin sahibine eksikliklerin giderilmesi için ne kadar süre verilir?",
+     "cevap": "Bildirim tarihinden başlamak üzere otuz gün süre verilir; inandırıcı bilgi ve belge sunulması kaydıyla bu süre otuz gün daha uzatılabilir.",
+     "dayanak": "Seri No 6 Tebliğ md. 16/1",
+     "kanit": "izin sahibine, bildirim tarihinden başlamak üzere otuz gün süre verilir. Bu süre, izin sahibinin eksikliklerin giderilebileceğine dair inandırıcı bilgi ve belge sunması kaydıyla otuz gün süreyle uzatılabilir."
+    },
+    {
+     "alt_konu": "İznin iptali",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre izni iptal edilen demiryolu tren işletmecisine ne kadar süre yeni izin verilmez?",
+     "cevap": "İznin iptalinin yürürlüğe girdiği tarihten itibaren bir yıl süreyle yeni izin verilmez.",
+     "dayanak": "Seri No 6 Tebliğ md. 17/3",
+     "kanit": "izni iptal edilen demiryolu tren işletmecisine, iznin iptalinin yürürlüğe girdiği tarihten itibaren bir yıl süre ile yeni izin verilmez."
+    },
+    {
+     "alt_konu": "İzin sahibinin yükümlülükleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre izin sahibi basitleştirme izni kapsamında taşıma yapılacak istasyonlara ilişkin değişiklikleri Bakanlığa ne zaman bildirir?",
+     "cevap": "Taşımaların başlamasının planlandığı tarihten en geç 15 gün önce bildirir.",
+     "dayanak": "Seri No 6 Tebliğ md. 18/1-a",
+     "kanit": "taşıma yapılacak istasyonlara ilişkin değişiklik söz konusu olduğunda, söz konusu değişiklikleri, taşımaların başlamasının planlandığı tarihten en geç 15 gün öncesinde Bakanlığa bildirmekle"
+    }
+   ]
+  },
+  {
+   "kaynak": "26-seri no 8.txt",
+   "konu": "Transit rejimi – eşyanın denizyolu ile basitleştirilmiş usulde taşınması",
+   "mevzuat": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 1-16; dayanak: GK md. 84-92, GY md. 236",
+   "cikmis_sayisi": 0,
+   "cikmis": [],
+   "alt_konular": [
+    {
+     "baslik": "Başvuru koşulları",
+     "dayanak": "Seri No 8 Tebliğ md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzin makamı ve basitleştirme izninin kapsamı",
+     "dayanak": "Seri No 8 Tebliğ md. 5-6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Transit beyanı olarak iletilecek bilgiler",
+     "dayanak": "Seri No 8 Tebliğ md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Hareket gümrük idaresinde yapılacak işlemler",
+     "dayanak": "Seri No 8 Tebliğ md. 8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış gümrük idaresinde yapılacak işlemler",
+     "dayanak": "Seri No 8 Tebliğ md. 9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İznin askıya alınması",
+     "dayanak": "Seri No 8 Tebliğ md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İznin iptali",
+     "dayanak": "Seri No 8 Tebliğ md. 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzin sahibinin yükümlülükleri",
+     "dayanak": "Seri No 8 Tebliğ md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Başvuru koşulları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre denizyolu basitleştirme izni için başvuru sahibinin hangi yetki belgesine sahip olması gerekir?",
+     "cevap": "Ulaştırma ve Altyapı Bakanlığı (Deniz ve İçsular Düzenleme Genel Müdürlüğü) tarafından verilmiş Gemi Acenteliği Yetki Belgesine sahip olması gerekir.",
+     "dayanak": "Seri No 8 Tebliğ md. 4/1-a",
+     "kanit": "Başvuru tarihi itibarıyla Ulaştırma ve Altyapı Bakanlığı (Deniz ve İçsular Düzenleme Genel Müdürlüğü) tarafından verilmiş olan Gemi Acenteliği Yetki Belgesine sahip olmak"
+    },
+    {
+     "alt_konu": "Başvuru koşulları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre başvuru sahibinin geriye dönük son bir yıl içinde Türkiye Gümrük Bölgesindeki deniz limanları arasında denizyoluyla en az kaç konteyner kapsamı eşyayı transit etmiş olması halinde Gümrük Yönetmeliğindeki ilgili genel koşul sağlanmış sayılır?",
+     "cevap": "Başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içinde 500 konteyner kapsamı eşyanın transit edilmiş olması halinde sağlanmış sayılır.",
+     "dayanak": "Seri No 8 Tebliğ md. 4/2 (GY md. 230/1-ç)",
+     "kanit": "başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içerisinde Türkiye Gümrük Bölgesindeki deniz limanları arasında denizyoluyla 500 konteyner kapsamı eşyanın transit edilmiş olması durumunda da"
+    },
+    {
+     "alt_konu": "İzin makamı ve basitleştirme izninin kapsamı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre denizyolu basitleştirme izni hangi eşyanın taşınmasında kullanılmak üzere verilir?",
+     "cevap": "Yurtdışından Türkiye Gümrük Bölgesine getirilen veya Türkiye Gümrük Bölgesinden yurtdışı edilecek, konteynerle taşınan eşyanın Türkiye Gümrük Bölgesi içindeki deniz limanları arasında denizyoluyla taşınmasında kullanılmak üzere verilir.",
+     "dayanak": "Seri No 8 Tebliğ md. 6/1",
+     "kanit": "Basitleştirme izni, yurtdışından Türkiye Gümrük Bölgesine getirilen veya Türkiye Gümrük Bölgesinden yurtdışı edilecek olan, konteynerle taşınan eşyanın Türkiye Gümrük Bölgesi içerisindeki deniz limanları arasında denizyoluyla taşınmasında kullanılmak üzere verilir."
+    },
+    {
+     "alt_konu": "İzin makamı ve basitleştirme izninin kapsamı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre eşyanın denizyolu ile taşınmasına ilişkin basitleştirme izni için başvuru yeri ve izin makamı neresidir?",
+     "cevap": "Gümrükler Genel Müdürlüğüdür.",
+     "dayanak": "Seri No 8 Tebliğ md. 5/1",
+     "kanit": "Eşyanın denizyolu ile taşınmasına ilişkin basitleştirme izni için başvuru yeri ve izin makamı Gümrükler Genel Müdürlüğüdür."
+    },
+    {
+     "alt_konu": "Transit beyanı olarak iletilecek bilgiler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre basitleştirme izni kapsamında her bir taşımaya ilişkin olarak gümrük idaresine elektronik ortamda hangi bilgiler iletilir?",
+     "cevap": "Taşımayı gerçekleştiren gemi acentesinin vergi numarası, geminin IMO ve sefer numarası, hareket tarihi, hareket ve varış gümrük idareleri ile konşimento numaraları iletilir.",
+     "dayanak": "Seri No 8 Tebliğ md. 7/2",
+     "kanit": "Taşımayı gerçekleştiren gemi acentesinin vergi numarası, b) Taşımanın gerçekleştirileceği geminin IMO ve sefer numarası, c) Hareket tarihi, ç) Hareket ve varış gümrük idareleri, d) Konşimento numaraları"
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre basitleştirme izni kapsamındaki bilgiler gümrük idaresinin sistemine ne zamana kadar iletilmelidir?",
+     "cevap": "Geminin hareketine kadar izin sahibi tarafından elektronik veri değişimi sistemi ile iletilir.",
+     "dayanak": "Seri No 8 Tebliğ md. 8/2",
+     "kanit": "bilgiler geminin hareketine kadar izin sahibi tarafından gümrük idaresinin sistemine elektronik veri değişimi sistemi ile iletilir"
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre denizyolu basitleştirmesinde taşıma işlemleri için rejim hak sahibi kimdir?",
+     "cevap": "Bilgileri gümrük idaresinin sistemine elektronik olarak ileten izin sahibi rejim hak sahibi olur.",
+     "dayanak": "Seri No 8 Tebliğ md. 8/3",
+     "kanit": "bilgileri gümrük idaresinin sistemine elektronik olarak ileten izin sahibi, taşıma işlemleri için rejim hak sahibi olur."
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre izin sahibi gümrük idaresinin sistemine iletilen bilgilerde değişiklik yapmak isterse bunu ne zamana kadar yapabilir?",
+     "cevap": "Hareket gümrük idaresince sistemde gerekli işlemler ikmal edilinceye kadar, ilgili kayıt numarası kullanılarak elektronik veri değişimi sistemiyle iletebilir.",
+     "dayanak": "Seri No 8 Tebliğ md. 8/4",
+     "kanit": "hareket gümrük idaresince sistemde gerekli işlemler ikmal edilinceye kadar, değişiklik bilgileri ilgili kayıt numarası kullanılarak gümrük idaresinin sistemine elektronik veri değişimi sistemi ile iletilir"
+    },
+    {
+     "alt_konu": "Hareket gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre hareket gümrük idaresinin kontrolünde iletilen bilgilerin yanlış beyan edildiği veya özet beyan ya da beyanname kayıtlarıyla ilişkilendirilmesinde hata yapıldığı tespit edilirse ne yapılır?",
+     "cevap": "Sistemdeki işlemler ikmal edilmeden önce izin sahibinin söz konusu bilgileri düzeltmesine izin verilir.",
+     "dayanak": "Seri No 8 Tebliğ md. 8/5",
+     "kanit": "sistemdeki işlemler ikmal edilmeden önce izin sahibinin söz konusu bilgileri düzeltmesine izin verilir"
+    },
+    {
+     "alt_konu": "Varış gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre denizyolu basitleştirmesinde varış işlemi hangi tespit üzerine gerçekleştirilir?",
+     "cevap": "Taşımanın gerçekleştirildiği geminin varış limanına ulaştığının gümrük idaresince tespit edilmesi üzerine, kayıt numarası üzerinden gerçekleştirilir.",
+     "dayanak": "Seri No 8 Tebliğ md. 9/1",
+     "kanit": "Basitleştirme izni kapsamında taşımanın gerçekleştirildiği geminin varış limanına ulaştığının gümrük idaresince tespit edilmesi üzerine"
+    },
+    {
+     "alt_konu": "Varış gümrük idaresinde yapılacak işlemler",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre yurtdışı edilmek üzere varış gümrük idaresine sevk edilen ihracat eşyasına ilişkin çıkış bildirimi işlemleri ne zaman tamamlanır?",
+     "cevap": "Geminin Türkiye Gümrük Bölgesini terk etmesinden sonra tamamlanır.",
+     "dayanak": "Seri No 8 Tebliğ md. 9/2-b",
+     "kanit": "geminin Türkiye Gümrük Bölgesini terk etmesinden sonra çıkış bildirimine ilişkin işlemler tamamlanır"
+    },
+    {
+     "alt_konu": "İznin askıya alınması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre bir takvim yılı içinde iki kez yazılı olarak uyarılan izin sahibinin aynı hükmü üçüncü kez ihlal etmesi halinde ne yapılır?",
+     "cevap": "Mevzuattaki cezai hükümler saklı kalmak üzere izin otuz gün süreyle askıya alınır.",
+     "dayanak": "Seri No 8 Tebliğ md. 10/3",
+     "kanit": "Bir takvim yılı içerisinde iki kez yazılı olarak uyarılmasına rağmen aynı hükmün üçüncü kez ihlal edilmesi durumunda izin, otuz gün süreyle askıya alınır."
+    },
+    {
+     "alt_konu": "İznin iptali",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre iznin iptali ne zaman yürürlüğe girer?",
+     "cevap": "Bildirim tarihinden itibaren yürürlüğe girer; izin sahibinin haklı talepleri söz konusu olduğunda izin makamı iptalin yürürlüğe giriş tarihini erteleyebilir ve bu tarihi belirtir.",
+     "dayanak": "Seri No 8 Tebliğ md. 11/2",
+     "kanit": "İznin iptali bildirim tarihinden itibaren yürürlüğe girer. Bununla birlikte, izin sahibinin haklı talepleri söz konusu olduğunda izin makamı, iptalin yürürlüğe giriş tarihini erteleyebilir."
+    },
+    {
+     "alt_konu": "İzin sahibinin yükümlülükleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre izin sahibi, izin şartlarına ilişkin durumunda değişiklik olması halinde izin makamına ne zaman bildirimde bulunur?",
+     "cevap": "En geç otuz gün içinde bildirir.",
+     "dayanak": "Seri No 8 Tebliğ md. 12/1-i",
+     "kanit": "İzin şartlarına ilişkin durumunda bir değişiklik olması halinde, en geç otuz gün içerisinde izin makamına durumunu bildirmekle"
+    }
+   ]
+  },
+  {
+   "kaynak": "27-seri no 14.txt",
+   "konu": "Transit rejimi – izinli gönderici yetkisi",
+   "mevzuat": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14) md. 1-21; dayanak: Ortak Transit Rejimine İlişkin Sözleşme, GY md. 238/A",
+   "cikmis_sayisi": 0,
+   "cikmis": [],
+   "alt_konular": [
+    {
+     "baslik": "Tanımlar: izinli gönderici ve kolay ihracat noktaları uygulaması",
+     "dayanak": "Seri No 14 Tebliğ md. 3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzinli gönderici yetkisinin koşulları",
+     "dayanak": "Seri No 14 Tebliğ md. 4/1",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yetkilendirilmiş yükümlü statüsündeki başvuru sahiplerine kolaylık",
+     "dayanak": "Seri No 14 Tebliğ md. 4/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Başvuru, yerinde inceleme ve yenileme",
+     "dayanak": "Seri No 14 Tebliğ md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tesis yetkilendirmesinin askıya alınması ve iptali",
+     "dayanak": "Seri No 14 Tebliğ md. 6-7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzinli gönderici yetkisinin askıya alınması ve iptali",
+     "dayanak": "Seri No 14 Tebliğ md. 8-9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Askıya alma ve iptal kararlarının bildirilmesi",
+     "dayanak": "Seri No 14 Tebliğ md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzinli gönderici tesisinde gümrük işlemleri",
+     "dayanak": "Seri No 14 Tebliğ md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Mesai saatleri dışında gümrük işlemleri",
+     "dayanak": "Seri No 14 Tebliğ md. 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tesise mühürlü gelen araçlarda mühür sökme yetkisi",
+     "dayanak": "Seri No 14 Tebliğ md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracatta yerinde gümrükleme tesislerinden yapılacak taşımalar",
+     "dayanak": "Seri No 14 Tebliğ md. 15",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepodan ve gümrük idaresinden eşya alınması",
+     "dayanak": "Seri No 14 Tebliğ md. 16-17",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Özel tipte mühür kullanımı",
+     "dayanak": "Seri No 14 Tebliğ md. 18",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Tanımlar: izinli gönderici ve kolay ihracat noktaları uygulaması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici kimdir?",
+     "cevap": "Transit rejimine tabi eşyayı hareket gümrük idaresine sunmaksızın sevk etmeye yetkilendirilmiş olan ve rejim kapsamında yapılan işlemlerde transit işlemlerinden sorumlu olan kişidir.",
+     "dayanak": "Seri No 14 Tebliğ md. 3/1-ç",
+     "kanit": "İzinli gönderici: Transit rejimine tabi eşyayı, hareket gümrük idaresine sunmaksızın sevk etmeye yetkilendirilmiş olan ve rejim kapsamında yapılan işlemlerde transit işlemlerinden sorumlu olan kişiyi"
+    },
+    {
+     "alt_konu": "Tanımlar: izinli gönderici ve kolay ihracat noktaları uygulaması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre kolay ihracat noktaları uygulaması nedir?",
+     "cevap": "Nihai çıkış noktasının bir izinli gönderici tesisi olması kaydıyla, ülkenin herhangi bir noktasından tescil edilen ihracat beyannamesi kapsamı eşyanın transit beyanı ve mühür tatbiki olmaksızın getirildiği izinli gönderici tesisinden sınır gümrük idaresine doğrudan sevkine imkân veren uygulamadır.",
+     "dayanak": "Seri No 14 Tebliğ md. 3/1-d",
+     "kanit": "Nihai çıkış noktasının bir izinli gönderici tesisi olması kaydıyla, ülkenin herhangi bir noktasından tescil edilen ihracat beyannamesi kapsamı eşyanın transit beyanı ve mühür tatbiki olmaksızın getirildiği izinli gönderici tesisinden sınır gümrük idaresine doğrudan sevkine imkan veren uygulamayı"
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisinin koşulları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici başvurusunda teminata ilişkin olarak hangi koşul aranır?",
+     "cevap": "Kapsamlı teminat izni ile ilişkili teminat mektubunun Türkiye'de yerleşik bir kefil kuruluştan alınmış olması şartıyla kapsamlı teminat kullanma veya teminattan vazgeçme iznine sahip olunması aranır.",
+     "dayanak": "Seri No 14 Tebliğ md. 4/1-a",
+     "kanit": "Sahip olunan kapsamlı teminat izni ile ilişkili teminat mektubunun, Türkiye'de yerleşik bir kefil kuruluştan alınmış olması şartıyla kapsamlı teminat kullanma veya teminattan vazgeçme iznine sahip olması"
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisinin koşulları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre başvuru sahibinin, başvuru yılından geriye dönük üç takvim yılı boyunca her yıl ayrı ayrı değerlendirilmek üzere en az kaç transit beyanında rejim hak sahibi olması gerekir?",
+     "cevap": "İhracat beyannamesi kapsamı eşyanın taşınmasına yönelik olarak TIR karnesi dahil en az 5.500 transit beyanında rejim hak sahibi veya en az 500 transit beyanında taşıyıcı olması gerekir.",
+     "dayanak": "Seri No 14 Tebliğ md. 4/1-c",
+     "kanit": "ihracat beyannamesi kapsamı eşyanın taşınmasına yönelik olarak TIR karnesi dahil en az 5.500 transit beyanında rejim hak sahibi olması veya en az 500 transit beyanında taşıyıcı sıfatını taşıyor olması"
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisinin koşulları",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici başvurusunda, vergi kaybına neden olan gümrük mevzuatı ihlali nedeniyle ceza uygulanan beyanname sayısı hangi oranı aşmamalıdır?",
+     "cevap": "Her yıl ayrı ayrı değerlendirilmek üzere işlem gören tüm beyanname sayısının %0,5'ini aşmamalıdır; usulsüzlük cezası uygulanan beyanname sayısı ise %2'yi aşmamalıdır.",
+     "dayanak": "Seri No 14 Tebliğ md. 4/1-ç",
+     "kanit": "işlem gören tüm beyanname sayısının % 0,5'ini aşan sayıda vergi kaybına neden olan gümrük mevzuatı ihlali nedeniyle ceza uygulanmamış olması ve gümrük mevzuatının ihlali nedeniyle % 2'sini aşan sayıda"
+    },
+    {
+     "alt_konu": "Yetkilendirilmiş yükümlü statüsündeki başvuru sahiplerine kolaylık",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre başvuru sahibinin yetkilendirilmiş yükümlü statüsü olması halinde hangi koşulları kanıtlaması gerekmez?",
+     "cevap": "Mali yapısının yeminli mali müşavirce incelenerek olumlu rapora bağlanması ve kesinleşmiş ancak ödenmemiş vergi ve ceza borcu bulunmaması koşullarını kanıtlaması gerekmez.",
+     "dayanak": "Seri No 14 Tebliğ md. 4/2",
+     "kanit": "Başvuru sahibinin yetkilendirilmiş yükümlü statüsü olması halinde birinci fıkranın (g) ve (ğ) bentlerinde belirtilen koşulları kanıtlaması gerekmez. ... yeminli mali müşavir tarafından incelenerek ... kesinleşmiş ancak ödenmemiş herhangi bir vergi ve ceza borcu bulunmaması"
+    },
+    {
+     "alt_konu": "Yetkilendirilmiş yükümlü statüsündeki başvuru sahiplerine kolaylık",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre yetkilendirilmiş yükümlü statüsündeki başvuru sahibi için aranan transit beyanı sayısı nasıl uygulanır?",
+     "cevap": "Dörtte bir nispetinde uygulanır.",
+     "dayanak": "Seri No 14 Tebliğ md. 4/2",
+     "kanit": "Aynı fıkranın (c) bendinde belirtilen transit beyanı sayısı ise dörtte bir nispetinde uygulanır."
+    },
+    {
+     "alt_konu": "Başvuru, yerinde inceleme ve yenileme",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici ön başvurusu ve başvurusu hangi makamlara yapılır?",
+     "cevap": "Ön başvuru ön başvuru formuyla gümrük ve dış ticaret bölge müdürlüğüne, başvuru ise başvuru formuyla Gümrükler Genel Müdürlüğüne yapılır.",
+     "dayanak": "Seri No 14 Tebliğ md. 5/1",
+     "kanit": "Ön Başvuru Ek-1/A'da yer alan ön başvuru formuyla bölge müdürlüğüne, başvuru ise Ek-1/B'de yer alan başvuru formuyla Genel Müdürlüğe yapılır."
+    },
+    {
+     "alt_konu": "Başvuru, yerinde inceleme ve yenileme",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre tesiste gümrük hizmeti verilmesinin gümrük idaresi üzerinde orantısız idari yük getirmeyeceğine ilişkin koşulun değerlendirmesi ve incelemesi kim tarafından yapılır?",
+     "cevap": "İlgili bölge müdürlüğü tarafından yapılır; diğer koşulların değerlendirmesi ve yerinde incelemesi ise Genel Müdürlükçe görevlendirilen Ticaret Uzmanınca yapılır.",
+     "dayanak": "Seri No 14 Tebliğ md. 5/2",
+     "kanit": "değerlendirme ve yerinde inceleme Genel Müdürlükçe görevlendirilen Ticaret Uzmanı, (h) bendinde belirtilen koşulun sağlandığına ilişkin değerlendirme ve inceleme ise ilgili bölge müdürlüğü tarafından gerçekleştirilir"
+    },
+    {
+     "alt_konu": "Başvuru, yerinde inceleme ve yenileme",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici yetkisi ne zamana kadar geçerlidir ve yenileme başvurusu ne zaman yapılır?",
+     "cevap": "Yetki askıya alınmadığı veya iptal edilmediği sürece geçerlidir; yenileme başvurusu yetkilendirmenin yapıldığı takvim yılını izleyen her üç yılın son ayında veya Genel Müdürlükçe talep edilmesi halinde yapılır.",
+     "dayanak": "Seri No 14 Tebliğ md. 5/4",
+     "kanit": "İzinli gönderici yetkisi askıya alınmadığı veya iptal edilmediği sürece geçerlidir. Yenileme başvurusu yetkilendirmenin yapıldığı takvim yılını izleyen her üç yılın son ayında veya Genel Müdürlükçe talep edilmesi halinde yapılır."
+    },
+    {
+     "alt_konu": "Başvuru, yerinde inceleme ve yenileme",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre yerinde incelemeye ilişkin konaklama ve ulaşım giderleri kim tarafından ve hangi süreyle sınırlı olarak karşılanır?",
+     "cevap": "Beş günü geçmemek üzere başvuruda bulunanlarca karşılanır.",
+     "dayanak": "Seri No 14 Tebliğ md. 5/3",
+     "kanit": "beş günü geçmemek üzere yapılan konaklama ve ulaşım giderleri inceleme sırasında başvuruda bulunanlarca karşılanır"
+    },
+    {
+     "alt_konu": "Tesis yetkilendirmesinin askıya alınması ve iptali",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre başka bir rejim hak sahibine ait transit beyannamesi kapsamında mühürlü gelen taşıma aracına, rejim hak sahibinin genel muvafakatnamesi olmaksızın tesiste yeni mühür tatbik edilmesinin sonucu nedir?",
+     "cevap": "İlgili tesisin yetkilendirilmesi iptal edilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 7/1-c",
+     "kanit": "ilgili tesisin yetkilendirilmesi iptal edilir ... Başka bir rejim hak sahibine ait transit beyannamesi kapsamı mühürlü vaziyette gelen taşıma aracına rejim hak sahibinin Ek-3'te yer alan genel muvafakatnamesi olmaksızın tesiste yeni mühür tatbik edilmesi"
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisinin askıya alınması ve iptali",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre yenilemenin Genel Müdürlükçe talep edildiği durumlarda yenileme başvurusu hangi süre içinde yapılmazsa izinli gönderici yetkisi askıya alınır?",
+     "cevap": "Tebligat tarihinden başlamak üzere 30 gün içinde yapılmazsa askıya alınır.",
+     "dayanak": "Seri No 14 Tebliğ md. 8/1-b",
+     "kanit": "Yenilemenin Genel Müdürlükçe talep edildiği durumlarda tebligat tarihinden başlamak üzere 5 inci maddenin dördüncü fıkrasında belirtilen yenileme başvurusunun 30 gün içerisinde yapılmaması"
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisinin askıya alınması ve iptali",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre yenileme yapılmaması nedeniyle askıya alınan izinli gönderici yetkisi, askıya alma işleminden itibaren kaç gün içinde başvurunun yenilenmemesi halinde iptal edilir?",
+     "cevap": "90 gün içinde yenilenmezse iptal edilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 9/1-b",
+     "kanit": "askıya alma işleminden itibaren 90 gün içerisinde başvurunun yenilenmemesi"
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisinin askıya alınması ve iptali",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli göndericinin gümrük idaresinden temin edilen özel tipte mühür dışında mühür kullanmasının sonucu nedir?",
+     "cevap": "İzinli gönderici yetkisi iptal edilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 9/1-ç",
+     "kanit": "halinde izinli gönderici yetkisi iptal edilir ... Gümrük idaresinden temin edilen özel tipte mühür dışında mühür kullanılması."
+    },
+    {
+     "alt_konu": "Askıya alma ve iptal kararlarının bildirilmesi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici yetkisinin iptaline ilişkin kararda yer alan yeniden başvuru yapılabilecek tarih hangi sınırlar içinde belirlenir?",
+     "cevap": "Riskin boyutu, sürekliliği ve ihmalden sonra önlem alınıp alınmadığı dikkate alınarak bir aydan az, üç yıldan fazla olmayacak şekilde belirlenir; kararlar Genel Müdürlükçe gerekçeli olarak bildirilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 10/1",
+     "kanit": "iptal ve askıya alma kararı izin sahibine gerekçeli olarak Genel Müdürlükçe bildirilir. ... dikkate alınarak bir aydan az üç yıldan fazla olmayacak şekilde belirlenir."
+    },
+    {
+     "alt_konu": "İzinli gönderici tesisinde gümrük işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici tesislerinde muayene öngörülmesi halinde muayene ne kadar süre içinde yapılır?",
+     "cevap": "Kontrol türünün bildirimini müteakip azami üç saat içinde yetki kapsamı izinli gönderici tesislerinde yapılır.",
+     "dayanak": "Seri No 14 Tebliğ md. 12/6",
+     "kanit": "Muayenenin öngörülmesi durumunda muayene işlemi kontrol türünün bildirimini müteakip azami üç saat içinde yetki kapsamı izinli gönderici tesislerinde gerçekleştirilir."
+    },
+    {
+     "alt_konu": "İzinli gönderici tesisinde gümrük işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre transit beyannamesinde teminat verilmesi gereken hallerde izinli gönderici hangi teminatı kullanabilir?",
+     "cevap": "Yalnızca kendisine ait kapsamlı teminatı kullanabilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 12/8",
+     "kanit": "Transit beyannamesinde teminat verilmesi gereken hallerde yetki sahibi sadece kendisine ait kapsamlı teminatı kullanabilir."
+    },
+    {
+     "alt_konu": "İzinli gönderici tesisinde gümrük işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre transit beyannamesinin kırmızı hatta işlem görmesi halinde mühürle ilgili nasıl işlem yapılır?",
+     "cevap": "Muayene memurunca tesislerde izinli gönderici mührü sökülür ve muayeneyi müteakip izinli gönderici tarafından yeni mühür tatbik edilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 12/9",
+     "kanit": "Transit beyannamesinin kırmızı hatta işlem görecek olması halinde muayene memurunca tesislerde izinli gönderici mührü sökülür ve muayeneyi müteakip izinli gönderici tarafından yeni mühür tatbik edilir."
+    },
+    {
+     "alt_konu": "Mesai saatleri dışında gümrük işlemleri",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre eşyanın muayene edilmeyeceği bildirilen transit beyannamelerine ilişkin işlemler mesai saatleri dışında fazla mesai ücreti ödenerek mi tamamlanır?",
+     "cevap": "Hayır; belge kontrolüne tabi tutulmayacağı bildirilen ihracat beyannameleri ile muayene edilmeyeceği bildirilen ihracat ve transit beyannameleri fazla mesai ücreti ödenmeksizin tamamlanır. Belge kontrolü veya muayene bildirilenlerin mesai dışında tamamlanması ise fazla mesai ücreti yatırılması koşuluna bağlıdır.",
+     "dayanak": "Seri No 14 Tebliğ md. 13",
+     "kanit": "fazla mesai ücreti yatırılması koşuluyla yerine getirilir ... belge kontrolüne tabi tutulmayacağı bildirilen ihracat beyannameleri ile eşyanın muayene edilmeyeceği bildirilen ihracat ve transit beyannamelerine ilişkin işlemler fazla mesai ücreti ödenmeksizin tamamlanır"
+    },
+    {
+     "alt_konu": "Tesise mühürlü gelen araçlarda mühür sökme yetkisi",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici tesisinde mühür sökme yetkisi hangi araçlarla sınırlıdır?",
+     "cevap": "Yalnızca yetki sahibinin rejim hak sahibi olduğu transit beyanlarıyla tesise gelen araçlarla sınırlıdır; izinli göndericinin muvafakatnameye sahip olması halinde bu sınırlama uygulanmaz.",
+     "dayanak": "Seri No 14 Tebliğ md. 14/1-2",
+     "kanit": "İzinli gönderici tesisinde mühür sökme yetkisi sadece yetki sahibinin rejim hak sahibi olduğu transit beyanlarıyla tesise gelen araçlarla sınırlıdır. ... muvafakatnameye sahip olması durumunda birinci fıkrada yer alan sınırlama uygulanmaz"
+    },
+    {
+     "alt_konu": "İhracatta yerinde gümrükleme tesislerinden yapılacak taşımalar",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre ihracatta yerinde gümrükleme izni sahibi firmaların tesislerinden ihraç edilecek eşyanın transit beyanını kim, hangi usulde verebilir?",
+     "cevap": "İzinli gönderici yetkisi sahibi, rejim hak sahibi olarak basitleştirilmiş usulde verebilir.",
+     "dayanak": "Seri No 14 Tebliğ md. 15/1",
+     "kanit": "İhracatta yerinde gümrükleme izni sahibi firmaların tesislerinden ihraç edilecek eşyanın transit beyanını izinli gönderici yetkisi sahibi rejim hak sahibi olarak basitleştirilmiş usulde verebilir."
+    },
+    {
+     "alt_konu": "Antrepodan ve gümrük idaresinden eşya alınması",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici tesisinden çıkış yapıldıktan sonra antrepodan eşya alınması halinde yüklü aracın mührünün sökülmesi ve yeni mühür tatbiki kim tarafından yapılır?",
+     "cevap": "Yetkilendirilmiş gümrük müşaviri veya antrepoda görevli gümrük memuru tarafından yapılır; gümrük idaresinden eşya alınmasında ise bu işlemler gümrük idaresince yapılır.",
+     "dayanak": "Seri No 14 Tebliğ md. 16/2, 17/2",
+     "kanit": "yeni mühür tatbiki işlemleri yetkilendirilmiş gümrük müşaviri veya antrepoda görevli gümrük memuru tarafından yapılır ... yeni mühür tatbiki işlemleri gümrük idaresi tarafından yapılır"
+    },
+    {
+     "alt_konu": "Özel tipte mühür kullanımı",
+     "soru": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 14)'e göre izinli gönderici yetkisi sahipleri hangi mührü kullanır ve bu mühürler nerede muhafaza edilir?",
+     "cevap": "Gümrük idaresinden ücreti karşılığında temin edilen, Ortak Transit Rejimine İlişkin Sözleşmeye uygun özel tipte mühür kullanırlar; ihracatta yerinde gümrükleme tesisinde mühürleme hali dışında mühürler izinli gönderici tesisinde muhafaza edilir ve tesis dışına çıkarılamaz.",
+     "dayanak": "Seri No 14 Tebliğ md. 18/1-2",
+     "kanit": "İzinli gönderici yetkisi sahipleri gümrük idaresinden ücreti karşılığında temin edilecek, Sözleşmenin 82 nci maddesine uygun özel tipte mühür kullanır. ... mühürler izinli gönderici tesisinde muhafaza edilir ve tesis dışına çıkarılamaz"
+    }
+   ]
+  }
+ ]
+}

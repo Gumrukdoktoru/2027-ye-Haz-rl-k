@@ -1,0 +1,1489 @@
+{
+ "grup": "G14",
+ "dosyalar": [
+  {
+   "kaynak": "39-muafiyetler.txt",
+   "konu": "Gümrük vergilerinden muafiyet ve istisnalar (diplomatik muafiyet, şahsi ve kişisel eşya, yolcu beraberi eşya, kamu yararına eşya, engelli araçları vb.)",
+   "mevzuat": "GK md. 167; GY md. 438-443; 2009/15481 Karar md. 45-112; Gümrük Muafiyeti Tebliği (Seri No: 2) md. 1-45",
+   "cikmis_sayisi": 16,
+   "cikmis": [
+    "2021-58: Ticari faaliyetle bağlantılı istisnada sermaye malları yalnız işyeri nakli suretiyle ithalde muaftır (GK 167/8)",
+    "2021-72: Diplomatik muafiyetten milletlerarası kuruluşların Türkiye'de ikamet eden misyon şefleri yararlanır, ikamet etmeyenler yararlanamaz (GY 438)",
+    "2021-73: Bilgi materyali istisnası: patent/yayın hakları örgütlerine gönderilen eşya, turistik reklam malzemesi, ticari değeri olmayan belgeler (GK 167/10)",
+    "2021-74: Ticari amaçsız eğitim-bilim eşyası, tıbbi cihaz, Ar-Ge eşyası ve ilaç kalite kontrol maddeleri istisna kapsamında (GK 167/7)",
+    "2022-83: Kullanılmış taşıt muafiyetinden yararlanan/yararlanamayan kişiler; geçici görevli kamu görevlileri yararlanamaz (Karar 46, Tebliğ 4/6)",
+    "2022-84: Otobüs standart deposu muaf yakıt 300 litre (550 yanlış); seçeneklerde 430 Avro, kurtarma araçları dışı motorlu araç, konut eşyası 24 ay/1 yıl kira (Karar 61, 57, 68, 96)",
+    "2022-85: Şahsi eşya kişisel eşyadan geniştir; aile ünitesi, yerleşim yeri nakli tanımları (Karar tanımları)",
+    "2022-86: Yolcu beraberi hediyelik eşya limiti 15 yaş altı 150, üstü 430 Avro (Karar 61)",
+    "2023-48: Yolcu beraberi muafiyet sınırları; 10 karton sigara muafen getirilemez (Karar 59-60, Ek-9)",
+    "2024-62: Engelli araçlarında 3 yıl, tertibat, 1600 cc/160 kW, sol bacak gazi; arazi taşıtı yararlanamaz (Karar 104)",
+    "2024-98: Ek-9 kişisel eşya listesinde alkol, parfüm, tütün limitleri; 100 puro yanlış (Ek-9)",
+    "2025-77: Muafen araç ithal eden kişi beş yıl geçmedikçe yeniden muaf araç getiremez (Karar 47/5)",
+    "2025-78: Tüzel kişiye posta/hızlı kargo ile gelen eşyada 22 Avro, %60 ve ÖTV (IV) listesi için ilave %20 (Karar 62)",
+    "2025-79: Ek-9 (B) bölümü eşyası yolcu beraberinde veya gelişten bir ay önce ya da üç ay sonra getirilebilir (Karar 58)",
+    "2025-76 (Posta konulu, ilişkili): Muafiyet sınırındaki eşyada kıymet fatura/fişe göre, belge yoksa idarece belirlenir; nakliye kıymete eklenmez (Karar 63/3)",
+    "2022-78, 2023-40 (Beyan konulu, ilişkili): Elçilik mektubu beyanname yerine geçer (GY 440/4)"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Cumhurbaşkanlığı, diplomatik ve millî savunma eşyası ile değeri 150 Euro'yu geçmeyen eşya muafiyeti",
+     "dayanak": "GK md. 167/1-(1)-(4)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gerçek kişilerce serbest dolaşıma sokulacak şahsi eşya ve diğer eşya (genel çerçeve)",
+     "dayanak": "GK md. 167/1-(5)-(6)",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-85",
+      "2022-86"
+     ],
+     "not": "Şahsi/kişisel eşya kapsam farkı ve hediyelik eşya limiti soruldu; özel nakil vasıtasının alındığı tarihte üç yaşından büyük olmaması şartı sorulmadı (diğer ayrıntılar Karar başlıklarında)."
+    },
+    {
+     "baslik": "Cumhurbaşkanınca belirlenecek kurumların ticari amaç gütmeden ithal ettiği eşya",
+     "dayanak": "GK md. 167/1-(7)",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-74"
+     ],
+     "not": "Eğitim-bilim eşyası, tıbbi cihaz, Ar-Ge eşyası ve ilaç kalite kontrol maddeleri soruldu; bilimsel araştırma hayvanları/biyolojik-kimyasal maddeler ile insan kaynaklı tedavi edici maddeler ve kan/doku belirteçleri sorulmadı."
+    },
+    {
+     "baslik": "Bir ticari faaliyetin yürütülmesi ile bağlantılı ithalat",
+     "dayanak": "GK md. 167/1-(8)",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-58"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Ulaştırmacılıkta kullanılan eşya",
+     "dayanak": "GK md. 167/1-(9)",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-84"
+     ],
+     "not": "Standart depo yakıt sınırı (Karar düzeyinde) soruldu; hava yolu şirketlerinin hava taşıtı muafiyetinin başlangıç tarihi sorulmadı."
+    },
+    {
+     "baslik": "Bilgi materyali ithalatı",
+     "dayanak": "GK md. 167/1-(10)",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-73"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Cenaze eşyası ve diğer eşya (engelli eşyası, kriz halleri, spor müsabakaları eczacılık ürünleri)",
+     "dayanak": "GK md. 167/1-(11)-(12)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Cumhurbaşkanının muafiyet ve istisnaları düzenleme yetkisi",
+     "dayanak": "GK md. 167/2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Diplomatik muafiyetlerden yararlanacak kişiler",
+     "dayanak": "GY md. 438",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-72"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Diplomatik muafiyetlerde karşılıklılık şartı",
+     "dayanak": "GY md. 439",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Diplomatik muafiyete tabi eşyanın gümrük işlemleri",
+     "dayanak": "GY md. 440",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-78",
+      "2023-40"
+     ],
+     "not": "Elçilik mektubunun beyanname yerine geçtiği Beyan konulu sorularda ölçüldü; beyan ve muayene aranmaması, muayene istisnası (şüphe/ihbar) ve vizeli mektup yoksa beyanname ile işlem sorulmadı."
+    },
+    {
+     "baslik": "Diplomatik muafiyetle giren eşya ve taşıtların satış ve devri",
+     "dayanak": "GY md. 441",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Diplomatik muafiyetle giren taşıtların çalınması ve elçilik mektuplarının tescili",
+     "dayanak": "GY md. 442-443",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta veya hızlı kargo ile gelen kitap ve basılı yayın muafiyeti",
+     "dayanak": "2009/15481 Karar md. 45",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kullanılmış özel nakil vasıtası muafiyetinden yararlanacak kişiler",
+     "dayanak": "2009/15481 Karar md. 46",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-83"
+     ],
+     "not": "Muafiyetten yararlanan/yararlanamayan kişiler soruldu; (b) ve (c) bentlerindeki kişiler için 24 ay ikamet şartının aranmaması ve evlilik yoluyla vatandaşlığa geçenlerin durumu sorulmadı."
+    },
+    {
+     "baslik": "Kullanılmış özel nakil vasıtası muafiyetinin koşulları",
+     "dayanak": "2009/15481 Karar md. 47",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-77"
+     ],
+     "not": "Beş yıl geçmeden yeniden muafiyet talebinin kabul edilmemesi soruldu; yurt dışında en az altı ay kayıtlı olma ve ticari araç yasağı sorulmadı."
+    },
+    {
+     "baslik": "Yerleşim yerini nakleden kişilerin kullanılmış ev eşyası",
+     "dayanak": "2009/15481 Karar md. 48-49",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Evlilik nedeniyle serbest dolaşıma giren eşya (çeyiz ve hediyeler)",
+     "dayanak": "2009/15481 Karar md. 50-52",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Miras yoluyla intikal eden eşya",
+     "dayanak": "2009/15481 Karar md. 53-54",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Öğrenim amacıyla gelen öğrencilerin eğitim malzemeleri ve ev eşyası",
+     "dayanak": "2009/15481 Karar md. 55",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geçici olarak yurt dışına çıkan kişilerin geri getirdiği kullanılmış ev eşyası",
+     "dayanak": "2009/15481 Karar md. 56",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yurt dışında yerleşik kişilerin Türkiye'de edindikleri konutlar için ev eşyası",
+     "dayanak": "2009/15481 Karar md. 57",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-84"
+     ],
+     "not": "24 ay yerleşiklik ve bir yıllık kira şartı soruldu; bir konut-bir defa sınırı ve şart karşılanmazsa tam muafiyetli geçici ithal sorulmadı."
+    },
+    {
+     "baslik": "Kişisel eşya (Ek-9 listesi)",
+     "dayanak": "2009/15481 Karar md. 58",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-79",
+      "2024-98"
+     ],
+     "not": "(B) bölümü eşyasının getirilme süresi ve Ek-9 miktar sınırları soruldu; (A) bölümü eşyasının yalnızca yolcu beraberinde getirilebilmesi sorulmadı."
+    },
+    {
+     "baslik": "Yolcu beraberi eşya muafiyeti ve kullanım sınırları",
+     "dayanak": "2009/15481 Karar md. 59-60",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-48"
+     ],
+     "not": "Ek-9 sigara sınırı soruldu; transit yolcu istisnası, kara hudut kapısında ayda 10 defa sınırı ve tütün/alkolde 18 yaş şartı sorulmadı."
+    },
+    {
+     "baslik": "Yolcu beraberi hediyelik eşya limiti",
+     "dayanak": "2009/15481 Karar md. 61",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-86"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Posta/hızlı kargo ve yolcu beraberi eşyada tek ve maktu vergi",
+     "dayanak": "2009/15481 Karar md. 62",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-78"
+     ],
+     "not": "Tüzel kişiye gelen eşyada 22 Avro, %60 ve ÖTV (IV) listesi için ilave %20 soruldu; ilaç/takviye edici gıdada belge ve 1500 Avro, AB için %30, kitapta %0, brüt 30 kg ve diplomatik eşyada sınır uygulanmaması sorulmadı."
+    },
+    {
+     "baslik": "Muafiyet limitlerinin aşılması ve vergilendirme",
+     "dayanak": "2009/15481 Karar md. 63",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-76"
+     ],
+     "not": "Kıymetin fatura/fişe göre belirlenmesi ve nakliye gideri soruldu (Posta konulu); limit aşımında muafiyetin uygulanacağı kısım ve 1500 Avro'yu aşan eşyada normal vergiler sorulmadı."
+    },
+    {
+     "baslik": "Gümrük kapılarındaki mağazalardan alınan eşya",
+     "dayanak": "2009/15481 Karar md. 64",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Şeref nişanları, ödüller ve uluslararası ilişkiler çerçevesinde hediyeler",
+     "dayanak": "2009/15481 Karar md. 65-66",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Millî savunma ve kamu/hayır kurumlarınca serbest dolaşıma sokulan eşya",
+     "dayanak": "2009/15481 Karar md. 67-68",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-84"
+     ],
+     "not": "Kurtarma araçları dışındaki motorlu araçlara muafiyet uygulanmaması soruldu; temel ihtiyaç maddeleri tanımı ve kurtarma/cenaze araçlarını getirebilecek kurumlar sorulmadı."
+    },
+    {
+     "baslik": "Eğitim, bilim, kültür, tıbbi ve Ar-Ge amaçlı eşya",
+     "dayanak": "2009/15481 Karar md. 69-79",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-74"
+     ],
+     "not": "Kategoriler Kanun düzeyinde soruldu; tıbbi cihaz bağış şartları, ilaç kalite kontrol numunelerinde DSÖ onayı ve Ar-Ge eşyasında TÜBİTAK şartı sorulmadı."
+    },
+    {
+     "baslik": "İşyeri nakli suretiyle serbest dolaşıma sokulan sermaye malları",
+     "dayanak": "2009/15481 Karar md. 80-83",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-58"
+     ],
+     "not": "İşyeri nakli kategorisi soruldu; 12 ay fiilî kullanım, 3 yıl aynı işte çalışma ve kapsam dışı eşya sorulmadı."
+    },
+    {
+     "baslik": "Çiftçilere ilişkin muafiyetler (komşu ülkede elde edilen ürünler ve getirilen tohum-gübre)",
+     "dayanak": "2009/15481 Karar md. 84-85",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-58"
+     ],
+     "not": "Kategoriler soruldu; hayvancılıkta Türk menşeli/serbest dolaşımdaki hayvan şartı sorulmadı."
+    },
+    {
+     "baslik": "Numunelik eşya ve basılı reklam malzemeleri",
+     "dayanak": "2009/15481 Karar md. 86-88",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-58"
+     ],
+     "not": "Ticari mahiyet arz etmeyen numune kategorisi soruldu; basılı reklam malzemesinde 1 kg sınırı sorulmadı."
+    },
+    {
+     "baslik": "Ticari fuar veya benzeri faaliyette kullanılan veya tüketilen ürünler",
+     "dayanak": "2009/15481 Karar md. 89-90",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İnceleme, analiz veya test amaçlı eşya",
+     "dayanak": "2009/15481 Karar md. 91-92",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-58"
+     ],
+     "not": "Kategori soruldu; tamamen sarf edilme şartı ve tıbbi tetkik amaçlı biyolojik materyal şartı sorulmadı."
+    },
+    {
+     "baslik": "İstif maddeleri, hayvan yemi ve standart depo muafiyeti",
+     "dayanak": "2009/15481 Karar md. 93-95",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Muaf olarak ithal edilecek yakıt miktarı ve tek ve maktu vergi",
+     "dayanak": "2009/15481 Karar md. 96",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-84"
+     ],
+     "not": "Otobüslerde 300 litre soruldu; TIR çekicisi, kamyon/tanker sınırları, depo fazlası vergisi, ayda dört defa sınırı ve yanıltıcı eylem vergisi sorulmadı."
+    },
+    {
+     "baslik": "Deniz ve hava ulaştırmacılığında kullanılan eşya ve hava taşıtları",
+     "dayanak": "2009/15481 Karar md. 97",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bilgi materyali: fikri mülkiyet, turistik reklam ve ticari değeri olmayan belgeler",
+     "dayanak": "2009/15481 Karar md. 98-100",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-73"
+     ],
+     "not": "Kategoriler Kanun düzeyinde soruldu; turistik reklam malzemesinde %25 özel ticari reklam sınırı sorulmadı."
+    },
+    {
+     "baslik": "Cenaze ve cenaze ile ilgili eşya",
+     "dayanak": "2009/15481 Karar md. 101-102",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Engellilerin kullanımına mahsus eşya ve özel tertibatlı araçlar",
+     "dayanak": "2009/15481 Karar md. 103-104",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-62"
+     ],
+     "not": "Araç yaşı, tertibat, 1600 cc/160 kW, sol bacak engelli gaziler ve arazi taşıtı yasağı soruldu; aracı kullanabilecek kişiler, ihtiyaç kanaati ve mücbir sebepte başkasınca kullanım sorulmadı."
+    },
+    {
+     "baslik": "Kriz hallerinde zarar görenlere gönderilen eşya",
+     "dayanak": "2009/15481 Karar md. 105",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Uluslararası spor müsabakalarında kullanılan eczacılık ürünleri",
+     "dayanak": "2009/15481 Karar md. 106",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Muaf eşyaya ilişkin yasaklama, kısıtlama ve devir süreleri",
+     "dayanak": "2009/15481 Karar md. 107",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yedek parça-aksesuar ile alkol ve tütün ürünleri",
+     "dayanak": "2009/15481 Karar md. 108-109",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Çift uyruklu kişiler",
+     "dayanak": "2009/15481 Karar md. 110",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-83"
+     ],
+     "not": "Seçeneklerde çift uyruklu kamu görevlisi yer aldı; çift uyruğun genel kural olarak dikkate alınmaması sorulmadı."
+    },
+    {
+     "baslik": "Mücbir sebep ve beklenmeyen haller",
+     "dayanak": "2009/15481 Karar md. 111",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Diğer mevzuattan kaynaklanan tahdidi ve takyidi hükümler",
+     "dayanak": "2009/15481 Karar md. 112",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tebliğe özgü tanımlar (kurtarma aracı, hareket ettirici tertibat vb.)",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Araç muafiyeti – kişiler ve koşullar (Tebliğ)",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 4-5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-83"
+     ],
+     "not": "Yararlanacak kişiler soruldu; 45 gün kuralı ve son on yılda beş yıl ikamet istisnası sorulmadı."
+    },
+    {
+     "baslik": "Araç muafiyetinin istisnaları (Tebliğ)",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-83",
+      "2025-77"
+     ],
+     "not": "Geçici görevli kamu görevlileri, vatandaşlıktan çıkanlar ve beş yıl kuralı soruldu; (a) ve (c) bentlerindeki çift uyruklu kişilerin yararlanamaması sorulmadı."
+    },
+    {
+     "baslik": "Araç muafiyetinde müracaat süreleri",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Araç muafiyetinde belgeler ve şerhli bildirim",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 8-9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kullanılmış ev eşyası – Tebliğ hükümleri",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 10-16",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yurt dışı yerleşiklerin konut eşyası – Tebliğ hükümleri",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 17-21",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-84"
+     ],
+     "not": "24 ay yerleşiklik ve bir yıllık kira (Karar düzeyinde) soruldu; 185 gün kuralı ve geçici ithalattaki eşyanın serbest dolaşıma girişi sorulmadı."
+    },
+    {
+     "baslik": "Genel amaçlı eşya – kurtarma ve cenaze araçları ile komisyon",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 22-24",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İşyeri nakli – Tebliğ hükümleri",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 25-28",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-58"
+     ],
+     "not": "İşyeri nakli kategorisi soruldu; istenen belgeler sorulmadı."
+    },
+    {
+     "baslik": "Engelli araçları – koşullar, komisyon ve işlemler",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 29-33",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Engelli aracının satış ve devri",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 34",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kriz hallerinde gönderilen eşyanın gümrük işlemleri",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 35-37",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yetkili gümrük idareleri",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 38",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Süre uzatımı, yasaklama, kısıtlama ve yaptırımlar",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 40-41",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Cumhurbaşkanlığı, diplomatik ve millî savunma eşyası ile değeri 150 Euro'yu geçmeyen eşya muafiyeti",
+     "soru": "4458 sayılı Gümrük Kanununa göre başka bir nitelik aranmaksızın yalnızca değeri itibarıyla gümrük vergilerinden muaf tutulan eşya için öngörülen değer sınırı nedir?",
+     "cevap": "Değeri 150 Euro'yu geçmeyen eşya gümrük vergilerinden muaftır (yolcuların beraberindeki hediyelik eşya için ayrıca 430 Euro'luk ayrı bir sınır öngörülmüştür).",
+     "dayanak": "GK md. 167/1-(4); 167/1-(6)-a",
+     "kanit": "Aşağıda sayılan hallerde, serbest dolaşıma sokulacak eşya gümrük vergilerinden muaftır: ... Değeri 150[145] EURO' yu  geçmeyen  eşya ... Değeri 430 EURO'yu geçmemek üzere yolcuların beraberindeki hediyelik eşya"
+    },
+    {
+     "alt_konu": "Gerçek kişilerce serbest dolaşıma sokulacak şahsi eşya ve diğer eşya (genel çerçeve)",
+     "soru": "4458 sayılı Gümrük Kanununa göre yerleşim yerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait kullanılmış özel nakil vasıtalarının şahsi eşya olarak muaf olabilmesi için alındığı tarihte en fazla kaç yaşında olması gerekir?",
+     "cevap": "Alındığı tarihte üç yaşından büyük olmayan kullanılmış motorlu veya motorsuz özel nakil vasıtaları muaftır.",
+     "dayanak": "GK md. 167/1-(5)-a",
+     "kanit": "Yerleşim yerlerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait, alındığı tarihte üç yaşından büyük olmayan kullanılmış motorlu veya motorsuz özel nakil vasıtaları"
+    },
+    {
+     "alt_konu": "Cumhurbaşkanınca belirlenecek kurumların ticari amaç gütmeden ithal ettiği eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre Cumhurbaşkanınca belirlenecek kişi, kurum ve kuruluşlarca ticari gaye güdülmeksizin ithal edilen eşyadan; eğitim-bilim eşyası, tıbbi alet ve cihazlar, ilaç kalite kontrol maddeleri ve Ar-Ge eşyası dışında hangi eşya muafiyet kapsamındadır?",
+     "cevap": "Bilimsel araştırma amacına yönelik hayvanlar ile biyolojik veya kimyasal maddeler ve insan kaynaklı tedavi edici maddeler ile kan gruplama ve doku tipi ayırma belirteçleri muafiyet kapsamındadır.",
+     "dayanak": "GK md. 167/1-(7)-c,d",
+     "kanit": "c) Bilimsel araştırma amacına yönelik hayvanlar ile biyolojik veya kimyasal maddeler, ... d) İnsan kaynaklı tedavi edici maddeler ile kan gruplama ve doku tipi ayırma belirteçleri,"
+    },
+    {
+     "alt_konu": "Ulaştırmacılıkta kullanılan eşya",
+     "soru": "4458 sayılı Gümrük Kanununa göre yolcu ve yük taşımacılığı yapan hava yolu şirketlerinin bu faaliyetlerinde kullanmak üzere ithal ettikleri hava taşıtları, motorları ve bunların aksam ve parçalarına tanınan muafiyet hangi tarihten itibaren geçerlidir?",
+     "cevap": "1/7/2010 tarihinden itibaren geçerlidir; bu eşya ulaştırmacılıkta kullanılan eşya kapsamında muaftır.",
+     "dayanak": "GK md. 167/1-(9)-e",
+     "kanit": "1/7/2010 tarihinden itibaren geçerli olmak üzere, yolcu ve yük taşımacılığı faaliyetlerinde bulunan hava yolu şirketlerinin bu faaliyetlerinde kullanılmak üzere ithal edilen hava taşıtları, motorları ve bunların aksam ve parçaları"
+    },
+    {
+     "alt_konu": "Cenaze eşyası ve diğer eşya (engelli eşyası, kriz halleri, spor müsabakaları eczacılık ürünleri)",
+     "soru": "4458 sayılı Gümrük Kanununa göre zarar görenlere gönderilen eşyanın gümrük vergilerinden muaf tutulduğu kriz halleri nelerdir?",
+     "cevap": "Tabii afetler, tehlikeli ve salgın hastalıklar, büyük yangınlar, radyasyon ve hava kirliliği gibi önemli nitelikteki kimyasal ve teknolojik olaylar ile büyük nüfus hareketleri gibi kriz halleridir.",
+     "dayanak": "GK md. 167/1-(12)-b",
+     "kanit": "Tabiî  afetler, tehlikeli ve salgın hastalıklar, büyük yangınlar, radyasyon ve hava kirliliği gibi önemli nitelikteki kimyasal ve teknolojik olaylar ile büyük nüfus hareketleri gibi kriz hallerinden zarar görenlere gönderilen eşya"
+    },
+    {
+     "alt_konu": "Cumhurbaşkanının muafiyet ve istisnaları düzenleme yetkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre Cumhurbaşkanı, muafiyet ve istisna uygulanacak tutarları hangi sınırlar içinde değiştirmeye yetkilidir?",
+     "cevap": "Muafiyet ve istisna uygulanacak tutarları sıfıra kadar indirmeye veya iki katına kadar çıkartmaya yetkilidir.",
+     "dayanak": "GK md. 167/2",
+     "kanit": "muafiyet ve istisna uygulanacak tutarları sıfıra kadar indirmeye veya iki katına kadar çıkartmaya ve bu muafiyet ve istisnayı farklı eşya itibarıyla birlikte veya ayrı ayrı uygulamaya"
+    },
+    {
+     "alt_konu": "Cumhurbaşkanının muafiyet ve istisnaları düzenleme yetkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre ticari mahiyette bulunmayan vergiye tabi eşyadan alınacak gümrük vergileri için Cumhurbaşkanı hangi tarife uygulamasına yetkilidir?",
+     "cevap": "İlgili kanunlarda belirtilen hadleri geçmemek şartıyla tek ve maktu bir tarife uygulamaya yetkilidir.",
+     "dayanak": "GK md. 167/2",
+     "kanit": "ticari mahiyette bulunmayan vergiye tabi eşyadan alınacak gümrük vergilerini göstermek üzere ilgili kanunlarda belirtilen hadleri geçmemek şartıyla tek ve maktu bir tarife uygulamaya Cumhurbaşkanı"
+    },
+    {
+     "alt_konu": "Diplomatik muafiyetlerde karşılıklılık şartı",
+     "soru": "Gümrük Yönetmeliğine göre diplomatik muafiyetlerde Türkiye'ye daha az muafiyet ve kolaylık gösteren devletlere nasıl uygulama yapılır?",
+     "cevap": "Bu devletler hakkında karşılıklı uygulanacak muafiyet ve kolaylıklar o nispette azaltılır.",
+     "dayanak": "GY md. 439/2",
+     "kanit": "Daha az muafiyet ve kolaylık gösteren devletler hakkında karşılıklı uygulanacak muafiyet ve kolaylıklar o nispette azaltılır."
+    },
+    {
+     "alt_konu": "Diplomatik muafiyetlerde karşılıklılık şartı",
+     "soru": "Gümrük Yönetmeliğine göre durumları gümrüklere bildirilmemiş olan devletlerin diplomasi memurları ve eşyası hakkında nasıl işlem yapılır?",
+     "cevap": "Kanunda yazılı muafiyet ve kolaylıklar uygulanmaz; durum Müsteşarlığa intikal ettirilir ve alınacak talimata göre gereği yapılır.",
+     "dayanak": "GY md. 439/4",
+     "kanit": "Durumları gümrüklere bildirilmemiş olan devletlerin diplomasi memurları ve eşyası hakkında, Kanunda yazılı muafiyet ve kolaylıklar uygulanmayarak, keyfiyet Müsteşarlığa intikal ettirilir"
+    },
+    {
+     "alt_konu": "Diplomatik muafiyete tabi eşyanın gümrük işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre diplomatik muafiyetten yararlanan kişilerin beraberlerinde gelen kişisel eşya ve ev eşyası hangi durumda muayene edilebilir?",
+     "cevap": "Kural olarak bu eşya için beyan aranmaz ve muayene yapılmaz; ancak şüphe ve yazılı, açık adresli ve imzalı ihbar bulunması halinde muayene edilebilir.",
+     "dayanak": "GY md. 440/1,3",
+     "kanit": "ilgililerinden hiç bir beyan aranılmaz ve bu eşya muayene edilmez. ... Şüphe ve yazılı, açık adresli ve imzalı ihbar olmadıkça, bu eşya muayene edilmez."
+    },
+    {
+     "alt_konu": "Diplomatik muafiyete tabi eşyanın gümrük işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre diplomatik muafiyetten yararlanan kişilerin beraberlerinde gelmeyen eşyası için Dışişleri Bakanlığınca vize edilmiş mektup bulunmaması halinde gümrük işlemleri nasıl yapılır?",
+     "cevap": "Gümrük beyannamesi ile yapılır; yalnızca ilgili elçilik, konsolosluk veya milletlerarası kuruluşça tanzim edilip Dışişleri Bakanlığınca vize edilmiş mektuplar beyanname olarak kabul olunur.",
+     "dayanak": "GY md. 440/4",
+     "kanit": "Dışişleri Bakanlığınca vize edilmiş 'Mektup'lar beyanname olarak kabul olunur. Aksi takdirde, bu eşyanın gümrük işlemleri gümrük beyannamesi ile yapılır."
+    },
+    {
+     "alt_konu": "Diplomatik muafiyetle giren eşya ve taşıtların satış ve devri",
+     "soru": "Gümrük Yönetmeliğine göre diplomatik muafiyetlerden yararlanılarak yurda sokulan eşya ve taşıtların devir veya satışı hangi makamın önceden iznine tabidir?",
+     "cevap": "Muafiyet hakkı olan veya olmayan kimse ve yerlere yapılacak her türlü devir veya satış Dışişleri Bakanlığının önceden iznine tabidir.",
+     "dayanak": "GY md. 441/1",
+     "kanit": "gerek muafiyet hakkı olan, gerekse muafiyet hakkı bulunmayan kimse ve yerlere herhangi bir suretle devir veya satışı Dışişleri Bakanlığının önceden iznine tabidir."
+    },
+    {
+     "alt_konu": "Diplomatik muafiyetle giren eşya ve taşıtların satış ve devri",
+     "soru": "Gümrük Yönetmeliğine göre diplomatik muafiyetle yurda sokulan eşya ve taşıtların muafiyet hakkı olmayan yer ve kişilere devri veya satışında gümrük işlemleri nasıl yürütülür?",
+     "cevap": "İlgiliden alınacak serbest dolaşıma giriş beyannamesiyle yürütülür ve gümrük vergileri tahakkuk ettirilerek tahsil olunur.",
+     "dayanak": "GY md. 441/4",
+     "kanit": "Devir veya satış muafiyet hakkı olmayan yer ve kişilere yapılıyorsa, bunların gümrük işlemleri, ilgiliden alınacak serbest dolaşıma giriş beyannamesiyle yürütülür ve Kanunun 181 inci maddesi hükmü gereğince gümrük vergileri tahakkuk ve tahsil olunur."
+    },
+    {
+     "alt_konu": "Diplomatik muafiyetle giren taşıtların çalınması ve elçilik mektuplarının tescili",
+     "soru": "Gümrük Yönetmeliğine göre diplomatik muafiyetten faydalanarak yurda sokulan taşıtların çalınması halinde, gümrük vergilerinin aranmaması için çalınma hangi belgelerle ispatlanmalıdır?",
+     "cevap": "Mahkeme ilamı veya Cumhuriyet Savcılığından ya da olayın vuku bulduğu yerin en büyük mülki amirinden alınan belge ile ispatlanmalıdır; bu durumda elçilik mektuplarının kayıtları bu belgelerle kapatılır.",
+     "dayanak": "GY md. 442/1",
+     "kanit": "çalınma hadisesi, mahkeme ilamı veya Cumhuriyet Savcılığından veya olayın vuku bulduğu yerin en büyük mülki amirinden alınan belge ile ispatlandığı takdirde, bunların gümrük vergileri aranmayarak"
+    },
+    {
+     "alt_konu": "Posta veya hızlı kargo ile gelen kitap ve basılı yayın muafiyeti",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre posta veya hızlı kargo taşımacılığı yoluyla gelen kişisel kullanıma mahsus kitap veya benzeri basılı yayına hangi tutara kadar muafiyet tanınır?",
+     "cevap": "Bedeli gönderi başına toplam 150 Avro'yu geçmeyen kitap veya benzeri basılı yayına muafiyet tanınır; muafiyetin aynı kişi tarafından süreklilik arz edecek şekilde kullanıldığı tespit edilirse sınırlama getirilebilir.",
+     "dayanak": "2009/15481 Karar md. 45/1-2",
+     "kanit": "bedeli gönderi başına toplam 150 Avro'yu geçmeyen kişisel kullanıma mahsus kitap veya benzeri basılı yayına muafiyet tanınır."
+    },
+    {
+     "alt_konu": "Kullanılmış özel nakil vasıtası muafiyetinden yararlanacak kişiler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre kullanılmış özel nakil vasıtası muafiyetinde, yurt dışındaki milli veya milletlerarası kadrolardan dönen kamu görevlileri ile Türk vatandaşlığına geçerek yerleşim yerini Türkiye'ye nakledenler için hangi süre şartı aranmaz?",
+     "cevap": "Türkiye Gümrük Bölgesi dışında en az yirmidört ay ikamet etme şartı aranmaz; bu şart yerleşim yerini nakleden diğer gerçek kişiler için geçerlidir.",
+     "dayanak": "2009/15481 Karar md. 46/2",
+     "kanit": "Birinci fıkranın (b) ve (c) bentlerinde belirtilen kişiler için, Türkiye Gümrük Bölgesi dışında en az yirmidört ay ikamet etme şartı aranmaz."
+    },
+    {
+     "alt_konu": "Kullanılmış özel nakil vasıtası muafiyetinden yararlanacak kişiler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre evlilik yoluyla Türk vatandaşlığına geçen kişiler kullanılmış özel nakil vasıtası muafiyetinden yararlanabilir mi?",
+     "cevap": "Yararlanamaz; evlilik yoluyla Türk vatandaşlığına geçen kişiler için bu muafiyet hükümleri uygulanmaz.",
+     "dayanak": "2009/15481 Karar md. 46/3",
+     "kanit": "Evlilik yoluyla Türk vatandaşlığına geçen kişiler için bu madde hükümleri uygulanmaz."
+    },
+    {
+     "alt_konu": "Kullanılmış özel nakil vasıtası muafiyetinin koşulları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre kullanılmış özel nakil vasıtası muafiyetinden yararlanmak için aracın, kişinin Türkiye'ye son giriş tarihinden en az ne kadar süre öncesinde yurt dışında adına kayıtlı olması gerekir?",
+     "cevap": "En az altı ay öncesinde, yurt dışında bulunduğu ülkede adına kayıtlı olması gerekir.",
+     "dayanak": "2009/15481 Karar md. 47/1",
+     "kanit": "kişilerin Türkiye'ye son giriş tarihinden en az altı ay öncesinde yurt dışında bulundukları ülkede adlarına kayıtlı olması"
+    },
+    {
+     "alt_konu": "Kullanılmış özel nakil vasıtası muafiyetinin koşulları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre motorlu ticari araçlar ve diğer ticari nakil vasıtaları, yerleşim yeri nakli nedeniyle tanınan özel nakil vasıtası muafiyeti kapsamında serbest dolaşıma girebilir mi?",
+     "cevap": "Giremez; motorlu ticari araçların ve diğer ticari nakil vasıtalarının bu kapsamda muafen serbest dolaşıma girişine izin verilmez.",
+     "dayanak": "2009/15481 Karar md. 47/4",
+     "kanit": "Motorlu ticari araçlar ve diğer ticari nakil vasıtalarının 46 ncı madde kapsamında muafen serbest dolaşıma girişine izin verilmez."
+    },
+    {
+     "alt_konu": "Yerleşim yerini nakleden kişilerin kullanılmış ev eşyası",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre kullanılmış ev eşyası muafiyetinde yurt dışında devamlı yirmidört ay ikamet şartı bakımından, Türkiye Gümrük Bölgesinde geçici olarak bulunmak hangi süreye kadar devamlılığı bozmaz ve bu süreler yirmidört aya dahil edilir mi?",
+     "cevap": "Bir yıl içinde altı aydan az süre ile geçici olarak bulunmak devamlılık halini bozmaz; ancak bu süreler yurt dışında aranan yirmidört aylık kalma süresine dahil edilmez.",
+     "dayanak": "2009/15481 Karar md. 48/2",
+     "kanit": "Türkiye Gümrük Bölgesinde bir yıl içinde altı aydan az süre ile geçici olarak bulunmak devamlılık halini bozmaz. Ancak, bu süreler Türkiye Gümrük Bölgesi dışındaki yerleşim yerinde aranan yirmidört ay kalma süresine dahil edilmez."
+    },
+    {
+     "alt_konu": "Yerleşim yerini nakleden kişilerin kullanılmış ev eşyası",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre sürekli görevle yabancı bir ülkede bulunurken yine sürekli görevle başka bir yabancı ülkeye atanan memurların yurt dışındaki ev eşyasına hangi durumda muafiyet uygulanır?",
+     "cevap": "Yeni tayin edildikleri ülkenin özelliği veya uzaklığı nedeniyle eşyayı beraberlerinde götürmelerinin külfetli ve masraflı olması ya da Türkiye'ye getirme veya gönderme zorunluluğu bulunması halinde, durumlarını tevsik etmeleri kaydıyla muafiyet uygulanır.",
+     "dayanak": "2009/15481 Karar md. 48/4",
+     "kanit": "yeni tayin edildikleri ülkenin özelliği veya uzaklığı sebebiyle eşyasını beraberlerinde götürmelerinin külfetli ve masraflı bulunması veya Türkiye Gümrük Bölgesine getirmelerinde veya göndermelerinde zorunluluk bulunması hallerinde, durumlarının tevsik edilmesi kaydıyla"
+    },
+    {
+     "alt_konu": "Yerleşim yerini nakleden kişilerin kullanılmış ev eşyası",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yerleşim yerini nakleden kişilerin kullanılmış ev eşyası için serbest dolaşıma giriş beyanı hangi süre içinde yapılmalıdır?",
+     "cevap": "Ev eşyası kişilerin beraberinde ya da gelişlerinden önce veya gelişlerinden sonraki altı ay içinde getirilip beyan edilmelidir.",
+     "dayanak": "2009/15481 Karar md. 49/3",
+     "kanit": "Ev eşyasının kişilerin beraberinde veya gelişlerinden önce veya altı ay sonraki süre içerisinde getirilip serbest dolaşıma giriş beyanında bulunulması gerekir."
+    },
+    {
+     "alt_konu": "Evlilik nedeniyle serbest dolaşıma giren eşya (çeyiz ve hediyeler)",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre evlilik nedeniyle yerleşim yeri yabancı ülkede olan kişilerce geleneksel olarak gönderilen hediyelere hangi kıymet sınırları dahilinde muafiyet tanınır?",
+     "cevap": "Ticari miktar ve mahiyette olmamak, her bir hediyenin kıymeti 430 Avro'yu ve toplam hediye kıymeti 3.000 Avro'yu aşmamak kaydıyla muafiyet tanınır.",
+     "dayanak": "2009/15481 Karar md. 50/2",
+     "kanit": "her bir hediyenin kıymeti 430 Avro ve toplam hediye kıymeti 3.000 Avro'yu aşmamak kaydıyla muafiyet tanınır."
+    },
+    {
+     "alt_konu": "Evlilik nedeniyle serbest dolaşıma giren eşya (çeyiz ve hediyeler)",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre çeyiz eşyası muafiyeti, evlilik nedeniyle yerleşim yerinin naklinden önce Türkiye Gümrük Bölgesi dışında en az ne kadar süre bulunmuş kişilere tanınır?",
+     "cevap": "En az oniki ay süre ile Türkiye Gümrük Bölgesi dışında bulunan ve evlilik belgesini ibraz eden kişilere tanınır.",
+     "dayanak": "2009/15481 Karar md. 50/3",
+     "kanit": "Muafiyet, yerleşim yerinin evlilik nedeniyle naklinden önce, en az oniki ay süre ile Türkiye Gümrük Bölgesi dışında bulunan ve evlilik belgesini ibraz eden kişilere tanınır."
+    },
+    {
+     "alt_konu": "Evlilik nedeniyle serbest dolaşıma giren eşya (çeyiz ve hediyeler)",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre evlilik nedeniyle getirilen çeyiz eşyası, evlilik akdine göre hangi süreler içinde serbest dolaşıma sokulmalıdır?",
+     "cevap": "Evlilik akdinden iki ay önce veya dört ay sonraki süreler içinde serbest dolaşıma sokulmalıdır; giriş tek seferde veya bu süreler içinde ayrı partiler halinde yapılabilir.",
+     "dayanak": "2009/15481 Karar md. 52/1",
+     "kanit": "bu eşyayı Türkiye Gümrük Bölgesine evlilik akdinden iki ay önce veya dört ay sonraki süreler içerisinde serbest dolaşıma sokmaları şarttır."
+    },
+    {
+     "alt_konu": "Miras yoluyla intikal eden eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre miras yoluyla intikal eden eşyadan hangileri muafiyet kapsamı dışındadır?",
+     "cevap": "Motorlu ticari nakil vasıtaları; ölenin mesleğini veya sanatını icra ederken kullandığı taşınabilir alet ve cihazlar hariç meslek veya sanat icrasında kullanılan alet ve cihazlar; hammadde stokları ile mamul veya yarı mamul ürünler; normal aile ihtiyaçlarından fazla canlı hayvanlar ile tarım ürünleri muafiyet dışındadır.",
+     "dayanak": "2009/15481 Karar md. 53/3",
+     "kanit": "a) Motorlu ticari nakil vasıtaları. ... c) Hammadde stokları ve mamul veya yarı mamul ürünler. ... ç) Normal aile ihtiyaçlarından fazla miktarlarda bulunan canlı hayvanlar ile tarım ürünleri."
+    },
+    {
+     "alt_konu": "Miras yoluyla intikal eden eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre miras yoluyla intikal eden eşyaya muafiyet, hangi tarihten itibaren ne kadar süre içinde getirilen eşya için tanınır?",
+     "cevap": "Mücbir sebepler ve beklenmeyen haller saklı kalmak kaydıyla, veraset ilamı tarihinden itibaren yirmidört ay içinde, tek seferde veya birden fazla partide getirilen eşya için tanınır.",
+     "dayanak": "2009/15481 Karar md. 54/1",
+     "kanit": "veraset ilamı tarihinden itibaren yirmidört ay içinde, tek seferde veya aynı süre içinde birden fazla partide getirilen eşya için tanınır."
+    },
+    {
+     "alt_konu": "Öğrenim amacıyla gelen öğrencilerin eğitim malzemeleri ve ev eşyası",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre öğrenim amacıyla Türkiye'ye gelen öğrencilere eğitim malzemeleri ve ev eşyası muafiyeti kaç kez tanınabilir?",
+     "cevap": "Eğitim malzemeleri için muafiyet her bir öğrenim yılında bir defadan fazla tanınabilir; ev eşyası ise öğrenim süresi boyunca yalnızca bir kez muafen serbest dolaşıma sokulabilir.",
+     "dayanak": "2009/15481 Karar md. 55/3",
+     "kanit": "Muafiyet, eğitim malzemeleri yönünden her bir öğrenim yılında bir defadan fazla tanınabilir. Ancak, öğrenim süresi boyunca muafen bir kez ev eşyası serbest dolaşıma sokulabilir."
+    },
+    {
+     "alt_konu": "Geçici olarak yurt dışına çıkan kişilerin geri getirdiği kullanılmış ev eşyası",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Türkiye Gümrük Bölgesinden geçici olarak çıkan gerçek kişilerin geri getirdiği kullanılmış ev eşyasına muafiyet tanınabilmesi için eşyanın ne zaman ve kaç seferde getirilmesi gerekir?",
+     "cevap": "Türkiye Gümrük Bölgesine dönüş tarihinden itibaren en geç altı ay içinde ve bir defada getirilmesi gerekir.",
+     "dayanak": "2009/15481 Karar md. 56/2",
+     "kanit": "Muafiyet tanınabilmesi için kişinin ev eşyasını Türkiye Gümrük Bölgesine dönüş tarihinden itibaren en geç altı ay içerisinde ve bir defada getirmesi şarttır."
+    },
+    {
+     "alt_konu": "Yurt dışında yerleşik kişilerin Türkiye'de edindikleri konutlar için ev eşyası",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yerleşim yeri Türkiye Gümrük Bölgesi dışında olan kişilerin Türkiye'de edindikleri konutlarda kullanılmak üzere getirdikleri ev eşyası muafiyeti hangi sınırla tanınır?",
+     "cevap": "Muafiyet bir konut ve aynı kişi için bir defa ile sınırlıdır; eşyanın aynı kişinin edindiği başka bir konutta kullanılması halinde muafiyet uygulaması devam eder.",
+     "dayanak": "2009/15481 Karar md. 57/4-5",
+     "kanit": "Muafiyet, bir konut ve aynı kişi için bir defa ile sınırlıdır. ... Söz konusu eşyanın, aynı kişi tarafından Türkiye'de kiralanmak veya satın alınmak suretiyle elde edilen başka bir konutta kullanılması durumunda muafiyet uygulaması devam eder."
+    },
+    {
+     "alt_konu": "Yurt dışında yerleşik kişilerin Türkiye'de edindikleri konutlar için ev eşyası",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yurt dışında yerleşik kişilerin Türkiye'deki konutları için getirdikleri ev eşyasında, konutun satın alınmamış veya en az bir yıl için kiralanmamış olması halinde hangi uygulamaya izin verilir?",
+     "cevap": "Ev eşyasının gümrük vergilerinden tam muafiyet suretiyle, vergileri teminata bağlanarak geçici ithaline izin verilir.",
+     "dayanak": "2009/15481 Karar md. 57/6",
+     "kanit": "İkinci fıkranın (a) bendinde yer alan koşulun karşılanmadığı durumlarda, ev eşyasının gümrük vergilerinden tam muafiyet suretiyle vergileri teminata bağlanarak geçici ithaline izin verilir."
+    },
+    {
+     "alt_konu": "Kişisel eşya (Ek-9 listesi)",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Ek-9'daki kişisel eşya listesinin (A) bölümünde yer alan eşya nasıl getirilebilir?",
+     "cevap": "Yalnızca yolcu beraberinde getirilebilir; yolcunun gelişinden önce veya sonra getirme imkânı yalnızca (B) bölümündeki eşya için öngörülmüştür.",
+     "dayanak": "2009/15481 Karar md. 58/2",
+     "kanit": "Ek-9'daki listenin (A) bölümünde belirtilen eşya sadece yolcu beraberinde"
+    },
+    {
+     "alt_konu": "Yolcu beraberi eşya muafiyeti ve kullanım sınırları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yolcu beraberinde getirilen ticari miktar ve mahiyette olmayan kişisel ve hediyelik eşyaya tanınan muafiyetten hangi yolcular yararlanamaz?",
+     "cevap": "Transit yolcular yararlanamaz.",
+     "dayanak": "2009/15481 Karar md. 59/1",
+     "kanit": "Transit yolcular hariç olmak üzere, yolcu beraberinde getirilip serbest dolaşıma sokulan, ticari miktar ve mahiyette olmayan"
+    },
+    {
+     "alt_konu": "Yolcu beraberi eşya muafiyeti ve kullanım sınırları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre kara hudut kapısından giriş yapan yolcular için kişisel eşya, yolcu beraberi eşya ve tek ve maktu vergili eşyaya ilişkin muafiyet ayda en fazla kaç defa kullandırılır?",
+     "cevap": "Ayda en fazla 10 defa kullandırılır.",
+     "dayanak": "2009/15481 Karar md. 59/2",
+     "kanit": "58, 59, 62 ve 63 üncü maddelerde bahsi geçen muafiyet, kara hudut kapısından giriş yapan yolcular için ayda en fazla 10 defa kullandırılır."
+    },
+    {
+     "alt_konu": "Yolcu beraberi eşya muafiyeti ve kullanım sınırları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Ek-9'daki listede yer alan tütün ve tütün ürünleri ile alkollü ürünlere ilişkin muafiyet hangi yolculara uygulanır?",
+     "cevap": "18 yaşından büyük yolculara uygulanır.",
+     "dayanak": "2009/15481 Karar md. 60/2",
+     "kanit": "tütün ve tütün ürünleri ile alkollü ürünlere ilişkin muafiyet 18 yaşından büyükler için uygulanır."
+    },
+    {
+     "alt_konu": "Posta/hızlı kargo ve yolcu beraberi eşyada tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre posta veya hızlı kargo ile bir gerçek kişiye gelen ilaç cinsi eşya ile takviye edici gıdalara tek ve maktu vergi uygulanabilmesi için eşyanın hangi belgeye istinaden gelmesi ve kıymetinin hangi sınırı aşmaması gerekir?",
+     "cevap": "Bir sağlık kuruluşu raporu veya doktor reçetesine istinaden gelmesi, ticari miktar ve mahiyet arz etmemesi ve kıymetinin 1500 Avro'yu geçmemesi gerekir.",
+     "dayanak": "2009/15481 Karar md. 62/1",
+     "kanit": "Posta veya hızlı kargo taşımacılığı yoluyla bir sağlık kuruluşu raporu veya doktor reçetesine istinaden bir gerçek kişiye gelen ve ticari miktar ve mahiyet arz etmeyen, kıymeti 1500 Avro'yu geçmeyen ilaç cinsi eşya ile takviye edici gıdaların"
+    },
+    {
+     "alt_konu": "Posta/hızlı kargo ve yolcu beraberi eşyada tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre posta veya hızlı kargo ile bir gerçek kişiye gelen ilaç cinsi eşya ile takviye edici gıdalarda, eşyanın Avrupa Birliği ülkelerinden doğrudan gelmesi halinde tek ve maktu vergi oranı nedir?",
+     "cevap": "%30'dur; eşyanın diğer ülkelerden gelmesi halinde oran %60'tır.",
+     "dayanak": "2009/15481 Karar md. 62/1-a,b",
+     "kanit": "a) Avrupa Birliği ülkelerinden doğrudan gelmesi halinde % 30, ... b) Diğer ülkelerden gelmesi halinde % 60,"
+    },
+    {
+     "alt_konu": "Posta/hızlı kargo ve yolcu beraberi eşyada tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre posta veya hızlı kargo ile bir gerçek kişiye gelen kişisel kullanıma mahsus kitap veya benzeri basılı yayının muafiyet limitini aşan ve kıymeti 1500 Avro'yu geçmeyen kısmına hangi oranda tek ve maktu vergi uygulanır?",
+     "cevap": "%0 oranında tek ve maktu vergi uygulanır.",
+     "dayanak": "2009/15481 Karar md. 62/2",
+     "kanit": "kıymeti 1500 Avro'yu geçmeyen kişisel kullanıma mahsus kitap veya benzeri basılı yayın için 45 inci maddede belirtilen limitleri aşan eşyanın değeri üzerinden % 0 oranında tek ve maktu bir vergi uygulanır."
+    },
+    {
+     "alt_konu": "Posta/hızlı kargo ve yolcu beraberi eşyada tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre posta veya hızlı kargo yoluyla limitler dahilinde getirilen ve tek ve maktu vergiye tabi tutulan eşyanın ağırlık sınırı nedir?",
+     "cevap": "Eşyanın brüt 30 kilogramı geçmemesi gerekir.",
+     "dayanak": "2009/15481 Karar md. 62/5",
+     "kanit": "Birinci, ikinci ve üçüncü fıkralarda sözü edilen limitler dahilinde getirilen eşyanın brüt 30 kilogramı geçmemesi gerekir."
+    },
+    {
+     "alt_konu": "Posta/hızlı kargo ve yolcu beraberi eşyada tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre diplomatik eşya ile kişisel eşya kapsamındaki yolcu eşyasının posta veya hızlı kargo yoluyla gelmesi halinde kıymet ve ağırlık sınırı uygulanır mı?",
+     "cevap": "Uygulanmaz.",
+     "dayanak": "2009/15481 Karar md. 62/6",
+     "kanit": "Diplomatik eşya ve 58 inci madde kapsamı yolcu eşyasının posta veya hızlı kargo taşımacılığı yoluyla gelmesi halinde kıymet ve ağırlık sınırı uygulanmaz."
+    },
+    {
+     "alt_konu": "Muafiyet limitlerinin aşılması ve vergilendirme",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yolcu beraberi hediyelik eşyanın toplam kıymetinin muafiyet limitini aşması halinde muafiyet ve vergilendirme nasıl yapılır?",
+     "cevap": "Muafiyet yalnızca toplam değeri 150 veya 430 Avro tutarındaki kısma uygulanır; muafiyet miktarına tekabül eden vergi düşüldükten sonra kalan kısma tek ve maktu vergi uygulanır.",
+     "dayanak": "2009/15481 Karar md. 63/1",
+     "kanit": "muafiyet yalnızca toplam değeri 150 veya 430 Avro tutarındaki kısma uygulanır. Muafiyet değerlerinin aşılması durumunda, muafiyet miktarına tekabül eden vergi düşüldükten sonra kalan kısma"
+    },
+    {
+     "alt_konu": "Muafiyet limitlerinin aşılması ve vergilendirme",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yolcu beraberinde tek ve maktu vergi kapsamında getirilen eşyanın tek başına kıymetinin 1500 Avro'yu aşması halinde hangi vergi uygulanır?",
+     "cevap": "Tek ve maktu vergi değil, yürürlükte olan ithalat vergilerine ilişkin oranlar uygulanır.",
+     "dayanak": "2009/15481 Karar md. 63/2",
+     "kanit": "getirilen eşyanın tek başına kıymetinin 1500 Avro'yu aşması halinde, söz konusu eşyaya yürürlükte olan ithalat vergilerine ilişkin oranlar uygulanır."
+    },
+    {
+     "alt_konu": "Gümrük kapılarındaki mağazalardan alınan eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yolcunun kişisel eşya ve hediyelik eşyayı beraberinde getirmesi halinde aynı eşyayı gümrük kapılarındaki mağazalardan da satın alması mümkün müdür?",
+     "cevap": "Mümkün değildir; kişisel eşya ve hediyelik eşyanın getirilmesi halinde aynı eşyanın gümrük kapılarındaki mevcut mağazalardan da satın alınamaz.",
+     "dayanak": "2009/15481 Karar md. 64/3",
+     "kanit": "Yolcular tarafından 58 inci maddede belirtilen kişisel eşyanın ve 59 uncu maddede belirtilen hediyelik eşyanın getirilmesi halinde; aynı eşyanın gümrük kapılarındaki mevcut mağazalardan da satın alınması mümkün değildir."
+    },
+    {
+     "alt_konu": "Şeref nişanları, ödüller ve uluslararası ilişkiler çerçevesinde hediyeler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre şeref nişanları ve ödüllerin gümrük vergisi aranmaksızın serbest dolaşıma sokulması hangi koşullara bağlıdır?",
+     "cevap": "Gümrük idarelerine tevsik edici belgelerin ibraz edilmesi ve eşyanın gayri ticari amaçlı olması koşullarına bağlıdır.",
+     "dayanak": "2009/15481 Karar md. 65/1",
+     "kanit": "Gümrük idarelerine tevsik edici belgelerin ibraz edilmesi ve gayri ticari amaçlı olmaları koşullarıyla aşağıda sayılan eşyanın serbest dolaşıma sokulmasında gümrük vergileri aranmaz"
+    },
+    {
+     "alt_konu": "Millî savunma ve kamu/hayır kurumlarınca serbest dolaşıma sokulan eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre kamu kurum ve kuruluşları, hayır kurumları veya insani yardım kurumlarınca muafen serbest dolaşıma sokulan eşyada \"temel ihtiyaç maddeleri\" deyimi neyi ifade eder?",
+     "cevap": "İnsanların en temel ihtiyaçlarını karşılamak için gerekli olan yiyecek, ilaç, giyecek, yatak malzemeleri ve benzeri eşyayı ifade eder.",
+     "dayanak": "2009/15481 Karar md. 68/2",
+     "kanit": "Temel ihtiyaç maddeleri deyimi, insanların en temel ihtiyaçlarını karşılamak için gerekli olan yiyecek, ilaç, giyecek, yatak malzemeleri ve benzeri eşya anlamına gelir."
+    },
+    {
+     "alt_konu": "Millî savunma ve kamu/hayır kurumlarınca serbest dolaşıma sokulan eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre ambulans, cenaze arabaları, yangın söndürme araçları ve kurtarma araçlarını genel amaçlı eşya muafiyeti kapsamında hangi kurumlar getirebilir?",
+     "cevap": "Kamu kurum ve kuruluşları ile Bakanlar Kurulunca belirlenen insani yardım ve hayır kurumları getirebilir.",
+     "dayanak": "2009/15481 Karar md. 68/1-d",
+     "kanit": "Kamu kurum ve kuruluşları ile Bakanlar Kurulunca belirlenen insani yardım ve hayır kurumlarının getirecekleri ambulans, cenaze arabaları, yangın söndürme araçları ile kurtarma araçları."
+    },
+    {
+     "alt_konu": "Eğitim, bilim, kültür, tıbbi ve Ar-Ge amaçlı eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre bir hayır kurumu veya gerçek kişi tarafından Türkiye'deki sağlık kuruluşuna bağışlanan tıbbi araştırma, teşhis veya tedavi amaçlı alet ve cihazlara muafiyet uygulanabilmesi için bağış bakımından hangi şartlar aranır?",
+     "cevap": "Eşyanın ticari bir amaçla bağışlanmamış olması ve bağışlayanın üretici ile herhangi bir ilgisinin bulunmaması gerekir.",
+     "dayanak": "2009/15481 Karar md. 73/2",
+     "kanit": "a) Ticari bir amaçla bağışlanmayan, ... b) Bağışlayanın üretici ile herhangi bir ilgisinin olmadığı,"
+    },
+    {
+     "alt_konu": "Eğitim, bilim, kültür, tıbbi ve Ar-Ge amaçlı eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre ilaç özelliği olan ürünlerin kalite kontrolüne yönelik referans maddelerine ilişkin numunelerde gümrük vergilerinin aranmaması için hangi şartlar gerekir?",
+     "cevap": "Referans maddelerinin Dünya Sağlık Örgütü tarafından onaylanmış olması ve numunelerin Sağlık Bakanlığınca izin verilen kurumlarca ithal edilmesi gerekir.",
+     "dayanak": "2009/15481 Karar md. 77/1",
+     "kanit": "Dünya Sağlık Örgütü tarafından onaylanmış referans maddelerine ilişkin numunelerin, Sağlık Bakanlığınca izin verilen kurumlarca ithal edilmesi halinde gümrük vergileri aranmaz."
+    },
+    {
+     "alt_konu": "Eğitim, bilim, kültür, tıbbi ve Ar-Ge amaçlı eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre araştırma ve geliştirme projelerinde kullanılmak üzere getirilen eşyaya muafiyet hangi kurumun yürüttüğü veya desteklediği projeler için tanınır ve eşyanın proje kapsamında olduğunu kim teyit eder?",
+     "cevap": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumunca yürütülen veya desteklenen projeler için tanınır; eşyanın proje kapsamında olduğunu da aynı Kurum teyit eder.",
+     "dayanak": "2009/15481 Karar md. 78-79/1",
+     "kanit": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu tarafından yürütülen veya desteklenen araştırma ve geliştirme projelerinde kullanılmak üzere getirilen eşyaya muafiyet tanınır. ... Türkiye Bilimsel ve Teknolojik Araştırma Kurumu tarafından teyit edilmesi gerekir."
+    },
+    {
+     "alt_konu": "İşyeri nakli suretiyle serbest dolaşıma sokulan sermaye malları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre işyeri nakli suretiyle serbest dolaşıma sokulan sermaye malı ve malzemeye muafiyet tanınabilmesi için eşyanın yabancı ülkedeki faaliyet sona erdirilmeden önce işletmece en az ne kadar süre fiilen kullanılmış olması gerekir?",
+     "cevap": "Mücbir sebep veya beklenmeyen haller saklı kalmak kaydıyla en az oniki ay süreyle fiilen kullanılmış olması gerekir.",
+     "dayanak": "2009/15481 Karar md. 81/1-a",
+     "kanit": "yabancı ülkedeki faaliyetini sona erdirmeden önce en az oniki ay süreyle işletme tarafından fiilen kullanılmakta olan"
+    },
+    {
+     "alt_konu": "İşyeri nakli suretiyle serbest dolaşıma sokulan sermaye malları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre işyeri nakli muafiyeti, ayrıldıkları ülkede en az kaç yıl süreyle aynı işte çalışmış kişilere tanınır?",
+     "cevap": "En az üç yıl süre ile aynı işte çalışan kişilere tanınır.",
+     "dayanak": "2009/15481 Karar md. 81/3",
+     "kanit": "Muafiyet hakkı sadece ayrıldıkları ülkede en az üç yıl süre ile aynı işte çalışan kişilere tanınır."
+    },
+    {
+     "alt_konu": "İşyeri nakli suretiyle serbest dolaşıma sokulan sermaye malları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre işyeri nakli muafiyetinin kapsamı dışında kalan eşya nelerdir?",
+     "cevap": "Üretim veya hizmet endüstrisi makinesi olmayan, taşınabilir laboratuvar veya dış yayın yapma birimleri gibi ulaşım araçları; canlı hayvan, hayvan yemleri ile tohum ve fidanlar; ham, yarı mamul veya mamul madde stokları ile akaryakıtlar muafiyet dışındadır.",
+     "dayanak": "2009/15481 Karar md. 81/4",
+     "kanit": "a) Üretim veya hizmet endüstrisi makinesi olmayan, taşınabilir laboratuvar veya dış yayın yapma birimleri gibi ulaşım araçları. ... Canlı hayvan, hayvan yemleri ile tohum ve fidanlar ... c) Ham, yarı mamul veya mamul madde stokları ile akaryakıtlar."
+    },
+    {
+     "alt_konu": "Çiftçilere ilişkin muafiyetler (komşu ülkede elde edilen ürünler ve getirilen tohum-gübre)",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Türkiye Gümrük Bölgesindeki çiftçilerin komşu ülkedeki mülklerinden elde ettikleri hayvancılık ürünlerine muafiyet tanınabilmesi için hayvanlar bakımından hangi şart aranır?",
+     "cevap": "Hayvancılık faaliyetlerinin Türk menşeli veya Türkiye'de serbest dolaşım durumunda bulunan hayvanlarla yapılıyor olması şarttır.",
+     "dayanak": "2009/15481 Karar md. 84/2",
+     "kanit": "hayvancılık faaliyetlerinin Türk menşeli veya Türkiye'de serbest dolaşım durumunda bulunan hayvanlarla yapılıyor olması şarttır."
+    },
+    {
+     "alt_konu": "Numunelik eşya ve basılı reklam malzemeleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre parasız dağıtılacak basılı reklamcılık malzemesinde aynı çeşitten birden fazla basılı materyal bulunması halinde muafiyet için ağırlık sınırı nedir?",
+     "cevap": "Aynı çeşitteki basılı materyalin toplam brüt ağırlığının bir kilogramı aşmaması gerekir.",
+     "dayanak": "2009/15481 Karar md. 88/1-b",
+     "kanit": "aynı çeşitteki basılı materyalin birden fazla bulunması halinde toplam brüt ağırlığının bir kilogramı aşmaması"
+    },
+    {
+     "alt_konu": "Ticari fuar veya benzeri faaliyette kullanılan veya tüketilen ürünler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre ticari fuar veya benzeri bir olay münasebetiyle getirilen küçük numuneler ile sergilenen makine ve cihazların gösteri amacıyla çalıştırılmasında kullanılacak eşyaya ilişkin muafiyet hangi eşya için uygulanmaz?",
+     "cevap": "Katı, sıvı ve gaz yakıtlar için uygulanmaz.",
+     "dayanak": "2009/15481 Karar md. 90/5",
+     "kanit": "89 uncu maddenin birinci fıkrasının (a) ve (b) bentlerinde belirtilen muafiyet katı, sıvı ve gaz yakıtlar için uygulanmaz."
+    },
+    {
+     "alt_konu": "Ticari fuar veya benzeri faaliyette kullanılan veya tüketilen ürünler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre UEFA tarafından Türkiye'de düzenlenen uluslararası spor müsabakaları ve ilgili etkinlikler için muafen serbest dolaşıma giren eşya hakkında hangi işlemler yapılabilir?",
+     "cevap": "Eşya imha edilebilir, ücretsiz olarak dağıtılabilir ya da hayır amaçlı sembolik bedel karşılığında satılabilir.",
+     "dayanak": "2009/15481 Karar md. 89/4",
+     "kanit": "muafen serbest dolaşıma giren eşya imha edilebilir, ücretsiz olarak dağıtılabilir ya da hayır amaçlı sembolik bedel karşılığında satılabilir."
+    },
+    {
+     "alt_konu": "İnceleme, analiz veya test amaçlı eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre inceleme, analiz veya test amaçlı getirilen eşyaya muafiyet, eşyanın bu işlemler sırasındaki durumu bakımından hangi halde tanınır?",
+     "cevap": "Eşyanın inceleme, analiz veya test sırasında tamamıyla sarf edilmesi veya aynı amaçla tekrar kullanılamayacak hale gelmesi halinde tanınır.",
+     "dayanak": "2009/15481 Karar md. 92/2",
+     "kanit": "test edilecek eşyanın, inceleme, analiz veya test sırasında tamamıyla sarf edilmesi veya aynı amaçla tekrar kullanılamayacak hale gelmesi"
+    },
+    {
+     "alt_konu": "İnceleme, analiz veya test amaçlı eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yurt dışından tıbbi tetkik amacıyla gönderilen biyolojik materyallerin muafiyetten yararlanabilmesi için kimin adına gönderilmesi gerekir?",
+     "cevap": "Sağlık Bakanlığınca ruhsatlandırılmış Tıbbi Laboratuvarlar ve Genetik Hastalıklar Değerlendirme Merkezleri adına gönderilmesi gerekir.",
+     "dayanak": "2009/15481 Karar md. 92/6",
+     "kanit": "biyolojik materyallerin Sağlık Bakanlığınca ruhsatlandırılmış Tıbbi Laboratuvarlar ve Genetik Hastalıklar Değerlendirme Merkezleri adına gönderilmesi gerekir."
+    },
+    {
+     "alt_konu": "İstif maddeleri, hayvan yemi ve standart depo muafiyeti",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre özel motorlu araç ve motosikletlerde kullanılmak üzere portatif depolarla taşınan yakıta hangi miktara kadar muafiyet tanınır?",
+     "cevap": "Araç başına on litreyi geçmeyen yakıta muafiyet tanınır.",
+     "dayanak": "2009/15481 Karar md. 95/1-b",
+     "kanit": "Özel motorlu araç ve motosikletlerde kullanılmak üzere tasarlanmış ve anılan araçlarda portatif depolarla taşınan araç başına on litreyi geçmeyen yakıtlara"
+    },
+    {
+     "alt_konu": "Muaf olarak ithal edilecek yakıt miktarı ve tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre TIR çekicilerinin standart depolarında bulunan ve gümrük vergilerinden muaf olarak ithal edilecek yakıt miktarı en fazla ne kadardır?",
+     "cevap": "550 litreyi aşamaz.",
+     "dayanak": "2009/15481 Karar md. 96/1-a",
+     "kanit": "Motorlu ticari araçların ve özel konteynerlerin standart depolarında mevcut bulunan ve gümrük vergilerinden muaf olarak ithal edilecek yakıt miktarı; ... a) TIR çekicilerinde 550 litreyi,"
+    },
+    {
+     "alt_konu": "Muaf olarak ithal edilecek yakıt miktarı ve tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre istiap haddi 15 tonun üzerinde olan kamyon ve tankerlerin standart depolarında muaf olarak ithal edilecek yakıt miktarı en fazla ne kadardır?",
+     "cevap": "400 litreyi aşamaz; istiap haddi 15 tona kadar (15 ton dahil) olan kamyon ve tankerlerde sınır 300 litredir.",
+     "dayanak": "2009/15481 Karar md. 96/1-b,c",
+     "kanit": "b) İstiap haddi 15 tona kadar olan (15 ton dahil), kamyon ve tankerlerde 300 litreyi, ... c) İstiap haddi 15 tonun üzerinde olan kamyon ve tankerlerde ise 400 litreyi,"
+    },
+    {
+     "alt_konu": "Muaf olarak ithal edilecek yakıt miktarı ve tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre gümrük kapılarında standart depo fazlası olarak tespit edilen petrol ürünlerinden hangi tutarda tek ve maktu vergi tahsil edilir?",
+     "cevap": "İlgili petrol ürünü için litre başına uygulanan özel tüketim vergisi tutarının %50 fazlası tutarında tek ve maktu vergi tahsil edilir.",
+     "dayanak": "2009/15481 Karar md. 96/3",
+     "kanit": "Gümrük kapılarında standart depo fazlası olarak tespit edilen petrol ürünlerinden, ilgili petrol ürünü için litre başına ... özel tüketim vergisi tutarının % 50 fazlası tutarındaki vergi, tek ve maktu vergi olarak tahsil edilir."
+    },
+    {
+     "alt_konu": "Muaf olarak ithal edilecek yakıt miktarı ve tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Avrupa Birliği ülkelerinden girişler hariç, hususi ve ticari olarak tescilli otomobiller ile hususi minibüs ve kamyonetler için standart depo muafiyeti ayda en fazla kaç defa kullandırılır ve bu sayı aşılırsa ne uygulanır?",
+     "cevap": "Ayda en fazla dört defa kullandırılır; bir ay içinde dört defadan fazla giriş yapan araçlardan her giriş için tüm depodan litre başına özel tüketim vergisi tutarında tek ve maktu vergi tahsil edilir.",
+     "dayanak": "2009/15481 Karar md. 96/4",
+     "kanit": "için ayda en fazla dört defa kullandırılır. Bir ay içerisinde dört defadan fazla giriş yapan araçlardan her giriş için tüm depodan litre başına 4760 sayılı Özel Tüketim Vergisi Kanunu uyarınca uygulanmakta olan özel tüketim vergisi tutarındaki vergi, tek ve maktu vergi olarak tahsil edilir."
+    },
+    {
+     "alt_konu": "Muaf olarak ithal edilecek yakıt miktarı ve tek ve maktu vergi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre standart depo muafiyetinden yararlanan araçların kat edeceği mesafeye ilişkin olarak gümrük idaresini yanıltıcı eylem tespit edilmesi halinde hangi tutarda vergi tahsil edilir?",
+     "cevap": "Tüm depodan litre başına özel tüketim vergisi tutarının %50 fazlası tutarında tek ve maktu vergi tahsil edilir (eksik mesafe katedilmesi halinde ise yalnızca tüketilmeyen yakıt için ÖTV tutarında vergi alınır).",
+     "dayanak": "2009/15481 Karar md. 96/5-6",
+     "kanit": "Bu araçların katedeceği mesafeye ilişkin olarak gümrük idaresini yanıltıcı her türlü eylemin tespitinde, tüm depodan litre başına 4760 sayılı Özel Tüketim Vergisi Kanunu uyarınca uygulanmakta olan özel tüketim vergisi tutarının % 50 fazlası tutarındaki vergi"
+    },
+    {
+     "alt_konu": "Deniz ve hava ulaştırmacılığında kullanılan eşya ve hava taşıtları",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yolcu ve yük taşımacılığı yapan hava yolu şirketlerince serbest dolaşıma sokulan hava taşıtlarına muafiyet tanınabilmesi için koltuk kapasitesi ne olmalıdır?",
+     "cevap": "Hava taşıtının koltuk kapasitesinin yirmi ve üzeri olması gerekir.",
+     "dayanak": "2009/15481 Karar md. 97/3",
+     "kanit": "İkinci fıkra kapsamında muafiyet tanınacak hava taşıtlarının koltuk kapasitesinin yirmi ve üzeri olması gerekir."
+    },
+    {
+     "alt_konu": "Bilgi materyali: fikri mülkiyet, turistik reklam ve ticari değeri olmayan belgeler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre turistik reklamcılık malzemelerine muafiyet tanınabilmesi için malzemenin özel ticari reklam içeriği bakımından hangi sınırı aşmaması gerekir?",
+     "cevap": "%25'ten fazla özel ticari reklam içermemesi gerekir; ayrıca ücretsiz dağıtılması ve asıl tanıtma amacının açıkça belli olması aranır.",
+     "dayanak": "2009/15481 Karar md. 99/1-a",
+     "kanit": "% 25'ten fazla özel ticari reklam içermemesi ve asıl tanıtma amacının açıkça belli olması kaydıyla"
+    },
+    {
+     "alt_konu": "Cenaze ve cenaze ile ilgili eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yabancı bir ülkede ikamet eden kişilerin cenaze veya mezar ziyareti amacıyla beraberinde getirdiği çiçek, çelenk ve benzeri süsleme eşyasına muafiyet hangi koşulla tanınır?",
+     "cevap": "Miktar ve nitelik itibarıyla ticari değer taşımadıklarının tespit edilmesi koşuluyla tanınır.",
+     "dayanak": "2009/15481 Karar md. 102/1-b",
+     "kanit": "cenaze veya mezar ziyareti amacıyla beraberinde getirdiği miktar ve nitelik itibarıyla ticari değer taşımadıkları tespit edilen çiçek, çelenk ve diğer benzeri süsleme eşyası."
+    },
+    {
+     "alt_konu": "Engellilerin kullanımına mahsus eşya ve özel tertibatlı araçlar",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre el ve ayak fonksiyonlarını tamamen yitirmiş olması nedeniyle engelli kişinin bizzat kullanamadığı muaf araç kimler tarafından kullanılabilir?",
+     "cevap": "Malul ve sakat kişinin üçüncü dereceye kadar kan ve sıhri hısımlarından bir sürücü veya kişi ile iş akdine bağlı olarak istihdam edilen sürücü tarafından kullanılabilir.",
+     "dayanak": "2009/15481 Karar md. 104/2-b",
+     "kanit": "malul ve sakat kişinin üçüncü dereceye kadar kan ve sıhri hısımlarından bir sürücü veya kişi ile iş akdine bağlı olarak istihdam edilen sürücü tarafından kullanılan vasıtalardan"
+    },
+    {
+     "alt_konu": "Engellilerin kullanımına mahsus eşya ve özel tertibatlı araçlar",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre el ve ayak fonksiyonlarını tamamen yitirmiş engelliler için muafen getirilecek araçlarda, engelli kişinin bu tür bir araca ihtiyacı bulunduğuna kim kanaat getirmelidir?",
+     "cevap": "İlgili gümrük idaresi kanaat getirmelidir.",
+     "dayanak": "2009/15481 Karar md. 104/4",
+     "kanit": "malul ve sakat kişinin bu tür bir araca ihtiyacı bulunduğuna ilgili gümrük idaresince kanaat getirilmesi gerekir."
+    },
+    {
+     "alt_konu": "Engellilerin kullanımına mahsus eşya ve özel tertibatlı araçlar",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre münhasıran engelliler tarafından kullanılmak üzere muafen serbest dolaşıma sokulan özel tertibatlı araç, beklenmeyen hal ve mücbir sebeplerin varlığı halinde başka bir kişi tarafından kullanılabilir mi?",
+     "cevap": "Kullanılabilir; ancak engelli kişinin araçta bulunması şarttır.",
+     "dayanak": "2009/15481 Karar md. 104/7",
+     "kanit": "beklenmeyen hal ve mücbir sebeplerin varlığı halinde, engelli kişinin araçta bulunması şartıyla başka bir kişi tarafından da kullanılabilir."
+    },
+    {
+     "alt_konu": "Kriz hallerinde zarar görenlere gönderilen eşya",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre kriz hallerinden zarar gören bölgelerin yeniden inşasına yönelik madde ve malzemeler kriz hali muafiyeti kapsamında mıdır?",
+     "cevap": "Değildir; yeniden inşaya yönelik madde ve malzemeler muafiyet kapsamı dışındadır. Buna karşılık yardım kuruluşlarının kriz hali süresince kendi ihtiyaçları için serbest dolaşıma soktukları eşyaya muafiyet tanınır.",
+     "dayanak": "2009/15481 Karar md. 105/2-3",
+     "kanit": "Kriz hallerinden zarar gören bölgelerin yeniden inşasına yönelik madde ve malzemeler muafiyet kapsamı dışındadır."
+    },
+    {
+     "alt_konu": "Uluslararası spor müsabakalarında kullanılan eczacılık ürünleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Türkiye'de düzenlenen uluslararası spor müsabakalarına katılan sporcular ve hayvanlar için getirilen eczacılık ürünlerine muafiyet hangi şartlarla tanınır?",
+     "cevap": "Tıbbi amaçla kullanılmak üzere getirilmesi, sporcu ve hayvanların Türkiye'de kaldıkları süreye uygun miktarda olması ve kullanıldıkları mahal dışına çıkarılmaması şartlarıyla tanınır.",
+     "dayanak": "2009/15481 Karar md. 106/1",
+     "kanit": "bu sporcu ve hayvanların Türkiye'de kaldıkları süreye uygun miktarda olmak ve kullanıldıkları mahal dışına çıkarılmamak kaydıyla muafiyet tanınır."
+    },
+    {
+     "alt_konu": "Muaf eşyaya ilişkin yasaklama, kısıtlama ve devir süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre muafen serbest dolaşıma sokulan eşyanın izinsiz olarak muafiyetten faydalanamayanlara devri, kiralanması, satışı veya amaç dışı kullanımı yasağı; özel nakil vasıtası, ev eşyası, çeyiz, miras, konut eşyası ve işyeri nakli eşyası için kaç yıl uygulanır?",
+     "cevap": "Bir yıl uygulanır; engellilere mahsus eşya için bu süre üç yıldır. İşyeri nakli eşyasında hakkın kötüye kullanılma riski varsa süre Müsteşarlıkça üç yıla kadar uzatılabilir.",
+     "dayanak": "2009/15481 Karar md. 107/4",
+     "kanit": "a) 46, 48, 50, 53, 57 ve 80 inci maddede yer alan eşya için bir yıl, ... b) 104 üncü maddede yer alan eşya için üç yıl,"
+    },
+    {
+     "alt_konu": "Muaf eşyaya ilişkin yasaklama, kısıtlama ve devir süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre engellilere mahsus muaf araçların engelli olmayan kişilere gümrük vergileri tahsil edilmeden satışı, hibesi veya devri için serbest dolaşıma giriş tarihinden itibaren kaç yıl geçmesi gerekir?",
+     "cevap": "On yıl geçmesi gerekir; on yıl sonrasında devirde gümrük vergileri aranmaz.",
+     "dayanak": "2009/15481 Karar md. 107/5-a",
+     "kanit": "serbest dolaşıma girdiği tarihten itibaren on yıl geçmedikçe engelli olmayan kişilere gümrük vergileri tahsil edilmeden satışı, hibesi veya devri yapılamaz."
+    },
+    {
+     "alt_konu": "Muaf eşyaya ilişkin yasaklama, kısıtlama ve devir süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre engelli kişinin vefatı halinde varise intikal eden muaf aracın varis tarafından engelli olmayan kişilere satılması halinde, serbest dolaşıma giriş tarihinden itibaren kaç yıl geçmemişse gümrük vergileri tahsil edilir?",
+     "cevap": "Beş yıl geçmeden satılması veya devredilmesi halinde gümrük vergileri tahsil edilir; aracın varise intikalinde ise gümrük vergileri aranmaz.",
+     "dayanak": "2009/15481 Karar md. 107/5-b",
+     "kanit": "Aracın, serbest dolaşıma girdiği tarihten itibaren beş yıl geçmeden varis tarafından engelli olmayan kişilere satılması veya devredilmesi durumunda gümrük vergileri tahsil edilir."
+    },
+    {
+     "alt_konu": "Muaf eşyaya ilişkin yasaklama, kısıtlama ve devir süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre kamu kurumları ve insani yardım-hayır kurumlarınca muafen getirilen ambulans ve diğer kurtarma araçlarının gümrük vergileri tahsil edilmeden satışı, hibesi veya devri hangi sürelere bağlıdır?",
+     "cevap": "Beyannamenin tescil tarihinden itibaren beş yıl geçmedikçe muafiyetten faydalanan başka bir kurum ve kuruluşa, on yıl geçmedikçe muafiyetten faydalanmayan kurum ve kuruluşlara vergiler tahsil edilmeden devredilemez; on yıl sonrasında vergi aranmaz.",
+     "dayanak": "2009/15481 Karar md. 107/6",
+     "kanit": "beyannamenin tescil tarihinden itibaren beş yıl geçmedikçe muafiyetten faydalanan başka bir kurum ve kuruluşa; on yıl geçmedikçe muafiyetten faydalanmayan kurum ve kuruluşlara gümrük vergileri tahsil edilmeden satışı, hibesi veya devri yapılamaz."
+    },
+    {
+     "alt_konu": "Muaf eşyaya ilişkin yasaklama, kısıtlama ve devir süreleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre standart depo kapsamında muafen serbest dolaşıma sokulan yakıtlar, hangi hal dışında ithal edildikleri ulaşım aracından çıkarılamaz?",
+     "cevap": "Ulaşım aracı için gerekli olan tamir süresi dışında araçtan çıkarılamaz; ayrıca başka bir araçta kullanılamaz, depolanamaz, satılamaz ve devredilemez.",
+     "dayanak": "2009/15481 Karar md. 107/7",
+     "kanit": "içerisinde ithal edildikleri ulaşım araçlarından başka bir araçta kullanılamaz, ulaşım aracı için gerekli olan tamir süresi haricinde söz konusu ulaşım aracından çıkarılamaz, depolanamaz, satılamaz ve devredilemez."
+    },
+    {
+     "alt_konu": "Yedek parça-aksesuar ile alkol ve tütün ürünleri",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre alkol ve alkollü ürünler ile tütün ve tütün ürünlerine Karar'daki muafiyetler uygulanır mı?",
+     "cevap": "Kişisel eşya ve yolcu beraberi eşyaya ilişkin hükümler saklı kalmak kaydıyla, bu ürünlere muafiyet uygulanmaz.",
+     "dayanak": "2009/15481 Karar md. 109/1",
+     "kanit": "58, 59 ve 60 ıncı madde hükümleri saklı kalmak kaydıyla, alkol ve alkollü ürünler ile tütün ve tütün ürünleri için bu Kısım kapsamında muafiyet uygulanmaz."
+    },
+    {
+     "alt_konu": "Çift uyruklu kişiler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre muafiyet hükümlerinin uygulanmasında kişilerin çift uyruklu olup olmadığı dikkate alınır mı?",
+     "cevap": "Kural olarak dikkate alınmaz. İstisna yalnızca kullanılmış özel nakil vasıtasını muafen serbest dolaşıma sokan iki gruba ilişkindir: Türkiye Gümrük Bölgesi dışında en az yirmidört ay ikamet ettikten sonra yerleşim yerini Türkiye'ye kesin olarak nakleden kişiler ile Türk vatandaşlığına geçerek yerleşim yerini Türkiye'ye nakleden kişiler (yurt dışı görevden dönen kamu görevlileri bu istisnaya girmez).",
+     "dayanak": "2009/15481 Karar md. 110/1; md. 46/1-a,c",
+     "kanit": "Kullanılmış motorlu veya motorsuz özel nakil vasıtalarım muafen serbest dolaşıma sokan 46 ncı maddenin birinci fıkrasının (a)[66] ve (c) bentlerinde yer alan kişiler hariç olmak üzere, bu Kısım hükümlerinin uygulanmasında kişilerin çift uyruklu olup olmadığı dikkate alınmaz. ... a) Türkiye Gümrük Bölgesi dışında en az yirmidört ay ikamet ettikten sonra, yerleşim yerini Türkiye Gümrük Bölgesine kesin olarak nakleden gerçek kişiler. ... c) Türk vatandaşlığına geçmek suretiyle yerleşim yerini yabancı bir ülkeden Türkiye Gümrük Bölgesine kesin olarak nakleden kişiler."
+    },
+    {
+     "alt_konu": "Mücbir sebep ve beklenmeyen haller",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yükümlünün iflası ile yükümlü faaliyetinin kamu otoritelerince durdurulması mücbir sebep mi yoksa beklenmeyen hal mi sayılır?",
+     "cevap": "Mücbir sebep sayılır; ulaştırma şartlarındaki beklenmeyen değişiklikler ise beklenmeyen hal sayılır.",
+     "dayanak": "2009/15481 Karar md. 111/1",
+     "kanit": "6) Yükümlünün iflasını, 7) Yükümlü faaliyetinin kamu otoritelerince durdurulmasını, ... b) Beklenmeyen haller; 1) Ulaştırma şartlarındaki beklenmeyen değişiklikleri,"
+    },
+    {
+     "alt_konu": "Diğer mevzuattan kaynaklanan tahdidi ve takyidi hükümler",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre muafiyet hükümlerinin uygulanmasında diğer mevzuattan kaynaklanan tahdidi ve takyidi hükümler dikkate alınır mı?",
+     "cevap": "Dikkate alınmaz; ancak hava yolu şirketlerince yolcu ve yük taşımacılığında kullanılmak üzere serbest dolaşıma sokulan hava taşıtları bu kuralın dışındadır.",
+     "dayanak": "2009/15481 Karar md. 112/1",
+     "kanit": "97 nci maddenin ikinci fikrası kapsamında serbest dolaşıma sokulan hava taşıtları hariç olmak üzere, bu Kısım hükümlerinin uygulanmasında diğer mevzuattan kaynaklanan tahdidi ve takyidi hükümler dikkate alınmaz."
+    },
+    {
+     "alt_konu": "Tebliğe özgü tanımlar (kurtarma aracı, hareket ettirici tertibat vb.)",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre engelli araçlarına ilişkin hükümlerde \"hareket ettirici tertibat\" neyi ifade eder?",
+     "cevap": "Debriyaj, fren ve gaz pedalları ile vites kolunu ifade eder.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 3/1-e",
+     "kanit": "Hareket ettirici tertibat: Debriyaj, fren ve gaz pedalları ile vites kolunu,"
+    },
+    {
+     "alt_konu": "Tebliğe özgü tanımlar (kurtarma aracı, hareket ettirici tertibat vb.)",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre \"kurtarma aracı\" tanımına iş makineleri girer mi?",
+     "cevap": "Girmez; kurtarma aracı, iş makineleri hariç olmak üzere sadece kriz halinde kullanılabilecek nitelikteki araç ile itfaiye aracı ve ambulanstır.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 3/1-c",
+     "kanit": "Kurtarma aracı: İş makineleri hariç olmak üzere sadece kriz halinde kullanılabilecek nitelikteki araç ile itfaiye aracı ve ambulansı,"
+    },
+    {
+     "alt_konu": "Araç muafiyeti – kişiler ve koşullar (Tebliğ)",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre kullanılmış özel nakil vasıtası muafiyetinde yurt dışı ikamet şartı bakımından, Türkiye Gümrük Bölgesinde bir takvim yılında kaç güne kadar kalışlar yurt dışındaki ikamet süresinden sayılır?",
+     "cevap": "Kırk beş güne kadar kalışlar yurt dışındaki ikamet süresinden sayılır; ayrıca kişinin geriye doğru bir takvim yılında altı aydan fazla Türkiye'de kalmamış olması gerekir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 5/3",
+     "kanit": "Türkiye Gümrük Bölgesinde geriye doğru bir takvim yılında altı aydan fazla kalmamış olmaları gerekir. Türkiye Gümrük Bölgesinde bir takvim yılında kırk beş güne kadar kalışlar yurt dışındaki ikamet süresinden sayılır."
+    },
+    {
+     "alt_konu": "Araç muafiyeti – kişiler ve koşullar (Tebliğ)",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre kullanılmış özel nakil vasıtası muafiyetinde, Türkiye Gümrük Bölgesinde geriye doğru bir takvim yılında altı aydan fazla kalmamış olma şeklindeki yerleşim yerine ilişkin süre şartı hangi kişiler için aranmaz?",
+     "cevap": "Türkiye Gümrük Bölgesi dışında son on yıl içinde en az beş yıl ikamet eden gerçek kişiler için aranmaz.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 5/3",
+     "kanit": "Türkiye Gümrük Bölgesinde geriye doğru bir takvim yılında altı aydan fazla kalmamış olmaları gerekir. ... Türkiye Gümrük Bölgesi dışında son on yıl içinde en az beş yıl ikamet eden gerçek kişiler için yerleşim yerine ilişkin bu süre şartı aranmaz."
+    },
+    {
+     "alt_konu": "Araç muafiyetinin istisnaları (Tebliğ)",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre yurt dışında en az yirmi dört ay ikamet ettikten sonra yerleşim yerini nakleden Türk vatandaşları ile Türk vatandaşlığına geçerek yerleşim yerini nakledenler çift uyruklu ise araç muafiyetinden yararlanabilir mi?",
+     "cevap": "Yararlanamazlar; bu kişiler çift uyruklu olmaları halinde özel nakil vasıtası muafiyeti hakkından faydalanamaz.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 6/7",
+     "kanit": "4 üncü maddenin birinci fıkrasının (a) ve (c) bentlerinde belirtilen kişiler, çift uyruklu olmaları halinde bu haktan faydalanamazlar."
+    },
+    {
+     "alt_konu": "Araç muafiyetinde müracaat süreleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre Türk vatandaşlığına geçenlerin kullanılmış özel nakil vasıtası muafiyeti için gümrük idaresine müracaat süresi hangi tarihten başlar ve ne kadardır?",
+     "cevap": "Vatandaşlığa geçiş kararından sonra adlarına nüfus kağıdının düzenlendiği tarihten itibaren altı aydır.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 7/1-c",
+     "kanit": "Türk vatandaşlığına geçenlerin; vatandaşlığa geçiş kararından sonra adlarına nüfus kağıdının düzenlendiği tarihten itibaren altı ay,"
+    },
+    {
+     "alt_konu": "Araç muafiyetinde müracaat süreleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre yurt dışında yirmi dört ay ikamet eden Türk vatandaşlarının araç muafiyeti için müracaat süresi hangi tarihten başlar ve ne kadardır?",
+     "cevap": "İkamet nakil belgesindeki tarihten sonraki ilk giriş tarihinden itibaren altı aydır.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 7/1-a",
+     "kanit": "Yurt dışında yirmi dört ay ikamet eden Türk vatandaşlarının; ikamet nakil belgesindeki tarihten sonraki ilk giriş tarihinden itibaren altı ay,"
+    },
+    {
+     "alt_konu": "Araç muafiyetinde belgeler ve şerhli bildirim",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre serbest dolaşıma giriş işlemleri tamamlanan muaf özel kara, hava ve deniz nakil vasıtalarına ilişkin şerhli belge veya yazılar nereye gönderilir?",
+     "cevap": "Özel kara nakil vasıtası için trafik şahadetnamesi ilgili notere; özel hava nakil vasıtası için yazı Sivil Havacılık Genel Müdürlüğüne; özel deniz nakil vasıtası için yazı vasıtanın kayıtlı olduğu Liman Başkanlığına gönderilir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 9/2",
+     "kanit": "Özel kara nakil vasıtaları için düzenlenecek trafik şahadetnamesi ilgili notere ... Haberleşme Bakanlığı Sivil Havacılık Genel Müdürlüğüne, ... Özel deniz nakil vasıtası için yazılacak yazı vasıtanın kayıtlı olduğu Liman Başkanlığına,"
+    },
+    {
+     "alt_konu": "Kullanılmış ev eşyası – Tebliğ hükümleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre yurt dışında yirmi dört ay ikamet ettikten sonra yerleşim yerini nakleden ve kullanılmış ev eşyası muafiyetinden faydalanmış kişilerin tekrar aynı muafiyetten yararlanabilmesi için ne gerekir?",
+     "cevap": "Yurt dışında en az yirmi dört ay yeniden ikamet tesis etmiş olmaları gerekir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 11/2",
+     "kanit": "tekrar aynı muafiyetten yararlanabilmeleri için, yurt dışında en az yirmi dört ay yeniden ikamet tesis etmiş olmaları gerekir."
+    },
+    {
+     "alt_konu": "Kullanılmış ev eşyası – Tebliğ hükümleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre Türk vatandaşlığından çıkma izni alarak yabancı ülke vatandaşlığı kazananlar ile çift uyruklu kişiler kullanılmış ev eşyası muafiyetinden yararlanabilir mi?",
+     "cevap": "Vatandaşlıktan çıkma izni alarak yabancı vatandaşlık kazananlar yararlanamaz; çift uyruklu kişiler ise yararlanır.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 12/2",
+     "kanit": "Türk vatandaşlığından çıkma izni almak suretiyle, yabancı bir ülke vatandaşlığını kazanan kişiler bu bölümde yer alan muafiyetten faydalanamazlar. Ancak, çift uyruklu kişiler bu bölümde yer alan muafiyetten faydalanırlar."
+    },
+    {
+     "alt_konu": "Yurt dışı yerleşiklerin konut eşyası – Tebliğ hükümleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre yurt dışında yerleşik kişilerin Türkiye'de edindikleri konutlarda kullanacakları ev eşyası muafiyetinde, Türkiye'ye son giriş tarihinden geriye doğru bir yılda kaç güne kadar yurtta bulunmak süreklilik halini bozmaz?",
+     "cevap": "Yüz seksen beş güne kadar yurtta bulunmak süreklilik halini bozmaz.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 18/1-a",
+     "kanit": "Türkiye'ye son giriş tarihinden geriye doğru bir yılda yüz seksen beş güne kadar yurtta bulunmak süreklilik halini bozmaz."
+    },
+    {
+     "alt_konu": "Yurt dışı yerleşiklerin konut eşyası – Tebliğ hükümleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre geçici ithalat rejimine tabi tutulan ev eşyasında, konutun en az bir yıl süreyle kiralanması veya satın alınması halinde hangi sonuç doğar?",
+     "cevap": "Eşyanın geçici ithalat rejimi altında kaldığı süre de dahil olmak üzere konutun en az bir yıl kiralanması veya satın alınması halinde, yurt dışında yerleşiklik süre şartı aranmaksızın eşyanın muafen serbest dolaşıma girişine izin verilir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 19/1",
+     "kanit": "Eşyanın geçici ithalat rejimi altında kaldığı süre de dahil olmak üzere konutun en az bir yıl süreyle kiralanması veya satın alınması halinde, ... süre şartı aranmaksızın eşyanın gümrük vergilerinden muaf olarak serbest dolaşıma girişine izin verilir."
+    },
+    {
+     "alt_konu": "Genel amaçlı eşya – kurtarma ve cenaze araçları ile komisyon",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre kurtarma ve cenaze araçları dışında kalan genel amaçlı eşyaya ilişkin muafiyet talepleri kim tarafından ve nasıl karara bağlanır?",
+     "cevap": "Eşyanın teslim edildiği gümrük idaresince, gümrük müdürü veya yetkili kılacağı gümrük müdür yardımcısı başkanlığında iki muayene memurundan oluşan komisyon tarafından oybirliği ile karara bağlanır.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 24/2",
+     "kanit": "teslim edildiği gümrük idaresince gümrük müdürü veya yetkili kılacağı gümrük müdür yardımcısı başkanlığında iki muayene memurundan oluşan komisyon tarafından oybirliği ile karara bağlanır."
+    },
+    {
+     "alt_konu": "İşyeri nakli – Tebliğ hükümleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre işyeri nakli muafiyetinde yurt dışından temin edilecek belgeler arasında işletmenin kazancı ve ödediği vergilere ilişkin hangi döneme ait belgeler yer alır?",
+     "cevap": "İşletmenin son üç yıllık kazancı ve ödenen vergilere ilişkin belgeler yer alır; bu belgelerin tercümeleri dış temsilciliklerimizce onaylanmış olmalıdır.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 27/1-a",
+     "kanit": "Yurt dışından temin edilerek dış temsilciliklerimizce tercümeleri onaylanmış belgeler; ... İşletmenin son üç yıllık kazancı ve ödenen vergilere ilişkin belgeler,"
+    },
+    {
+     "alt_konu": "Engelli araçları – koşullar, komisyon ve işlemler",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre özel tertibatlı engelli aracını muafen serbest dolaşıma sokacak kişide hangi tür engel bulunması gerekir?",
+     "cevap": "Ortopedik engelinin bulunması gerekir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 29/1",
+     "kanit": "özel tertibatlı engelli aracını muafiyet kapsamında serbest dolaşıma sokacak kişinin ortopedik engelinin bulunması gerekir."
+    },
+    {
+     "alt_konu": "Engelli araçları – koşullar, komisyon ve işlemler",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre özel tertibatlı engelli aracının serbest dolaşıma girişi talebini değerlendiren komisyon kimlerden oluşur?",
+     "cevap": "Gümrük ve Ticaret Bölge Müdürü veya yetki vereceği Bölge Müdür Yardımcısı başkanlığında; Gümrük Müdürü ve/veya Müdür Yardımcısı, bir muayene memuru ile Sağlık Bakanlığını temsilen ortopedi ve travmatoloji uzmanı bir doktordan oluşur.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 31/1",
+     "kanit": "Gümrük ve Ticaret Bölge Müdürü veya yetki vereceği Bölge Müdür Yardımcısı başkanlığında, Gümrük Müdürü ve/veya Müdür Yardımcısı, bir muayene memuru ile Sağlık Bakanlığını temsilen ortopedi ve travmatoloji uzmanı bir doktordan oluşan komisyon"
+    },
+    {
+     "alt_konu": "Engelli araçları – koşullar, komisyon ve işlemler",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre özel tertibatlı engelli araçlarına ilişkin komisyon yetkili gümrük müdürlüğünde ne zaman toplanır?",
+     "cevap": "Her ayın ilk salı günü toplanır.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 31/1",
+     "kanit": "Söz konusu komisyon yetkili gümrük müdürlüğünde her ayın ilk salı günü toplanır."
+    },
+    {
+     "alt_konu": "Engelli araçları – koşullar, komisyon ve işlemler",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre özel tertibatlı engelli aracına ilişkin olumlu komisyon kararının geçerlilik süresi ne kadardır?",
+     "cevap": "Karar belgesi düzenlendiği tarihten itibaren altı ay geçerlidir; olumlu kararın komisyonca oybirliği ile verilmesi gerekir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 31/3-4",
+     "kanit": "Kararın olumlu olması halinde karar belgesinin geçerlilik süresi düzenlendiği tarihten itibaren altı aydır."
+    },
+    {
+     "alt_konu": "Engelli aracının satış ve devri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre engelli kişi, muafen getirdiği özel tertibatlı aracı engelli olmayan bir kişiye serbest dolaşıma giriş tarihinden itibaren ne kadar süre geçmeden satamaz?",
+     "cevap": "Üç yıl geçmeden satamaz; üç ila on yıl arasındaki satışlarda gümrük vergileri tahsil edilir, on yıl sonrasında vergi aranmaz.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 34/1-b,c",
+     "kanit": "Engelli kişi tarafından, engelli olmayan başka bir kişiye aracın serbest dolaşıma girdiği tarihten itibaren, üç yıl geçmeden aracın satışı mümkün değildir."
+    },
+    {
+     "alt_konu": "Engelli aracının satış ve devri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre engelli kişinin vefatı halinde varislerin kendi adlarına yeni trafik şahadetnamesi düzenlenmesi için yetkili gümrük idaresine hangi süre içinde başvurması gerekir?",
+     "cevap": "Veraset ilamı tarihinden itibaren altı ay içinde başvurması gerekir; aracın varise intikalinde gümrük vergileri aranmaz.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 34/1-ç-1",
+     "kanit": "Varislerin, kendi adlarına yeni bir trafik şahadetnamesi düzenlenmesini teminen veraset ilamı tarihinden itibaren altı ay içinde yetkili gümrük idaresine başvurması gerekmektedir."
+    },
+    {
+     "alt_konu": "Kriz hallerinde gönderilen eşyanın gümrük işlemleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre kriz halinin devam etmesi nedeniyle işlemlerin çok hızlı yürütülmesi gereken durumlarda, kriz bölgesine yurt dışından gönderilen eşyanın gümrük işlemleri nasıl tamamlanır?",
+     "cevap": "Eşyayı kabul eden kuruluşça düzenlenen eşya listesinin gümrük idaresine sunulmasıyla tamamlanır; sözlü beyan formu eşyanın tesliminden sonra gümrük idaresince elektronik ortamda doldurulur.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 36/1",
+     "kanit": "temel ihtiyaç maddesini ve diğer eşyayı kabul eden kuruluş tarafından Ek-7'ye uygun olarak düzenlenecek eşya listesinin gümrük idaresine sunulmasıyla gümrük işlemleri tamamlanır. Bu durumda sözlü beyan formu eşyanın tesliminden sonra"
+    },
+    {
+     "alt_konu": "Yetkili gümrük idareleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre yerleşim yeri nakli kapsamındaki kullanılmış özel nakil vasıtalarının serbest dolaşıma giriş işlemlerinde hangi gümrük müdürlükleri yetkilidir?",
+     "cevap": "Yeşilköy, Gebze, İzmir Yolcu Salonu ve Ankara Gar Gümrük Müdürlükleri yetkilidir; NATO/SOFA kapsamında ABD personeli adına gelen nakil vasıtalarında İncirlik Gümrük Müdürlüğü de yetkilidir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 38/1",
+     "kanit": "İkinci bölüm kapsamı araçlar için, Yeşilköy Gümrük Müdürlüğü, Gebze Gümrük Müdürlüğü, İzmir Yolcu Salonu Gümrük Müdürlüğü ve Ankara Gar Gümrük Müdürlüğü yetkilidir. ... İncirlik Gümrük Müdürlüğü de yetkilidir."
+    },
+    {
+     "alt_konu": "Yetkili gümrük idareleri",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre özel tertibatlı engelli araçlarının serbest dolaşıma giriş işlemlerinde hangi gümrük müdürlükleri yetkilidir?",
+     "cevap": "Yeşilköy, Gebze, İzmir Yolcu Salonu, Ankara Gar, Malatya, Rize ve Mersin Gümrük Müdürlükleri yetkilidir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 38/3",
+     "kanit": "Yedinci bölüm kapsamı özel tertibatlı engelli araçlarının serbest dolaşıma giriş işlemlerinde Yeşilköy Gümrük Müdürlüğü, Gebze Gümrük Müdürlüğü, İzmir Yolcu Salonu Gümrük Müdürlüğü, Ankara Gar Gümrük Müdürlüğü, Malatya Gümrük Müdürlüğü, Rize Gümrük Müdürlüğü ve Mersin Gümrük Müdürlüğü yetkilidir."
+    },
+    {
+     "alt_konu": "Süre uzatımı, yasaklama, kısıtlama ve yaptırımlar",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre Karar ve Tebliğde belirtilen sürelerin mücbir sebep veya beklenmeyen haller nedeniyle aşılması halinde süreler ne kadar uzatılabilir ve buna kim karar verir?",
+     "cevap": "Bir defayla sınırlı olmak üzere sürelerin yarısına kadar uzatılabilir; kişisel eşyaya ilişkin yolcu işlemleri süreleri ise en fazla altı aya kadar uzatılabilir. Uzatıma ilgili Gümrük ve Ticaret Bölge Müdürlükleri karar verir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 40/1",
+     "kanit": "bir defayla sınırlı olmak üzere söz konusu sürelerin yarısına kadar; Kararın 58 inci maddesi ile tespit edilen yolcu işlemlerine ilişkin sürelerin en fazla altı aya kadar uzatımına karar vermeye ilgili Gümrük ve Ticaret Bölge Müdürlükleri yetkilidir."
+    },
+    {
+     "alt_konu": "Süre uzatımı, yasaklama, kısıtlama ve yaptırımlar",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre muafen getirilen özel tertibatlı engelli aracının deprem, heyelan, sel, yangın veya kaza sonucu kullanılamaz hale gelip hurdaya çıkarılması halinde engelli kişi yeniden muafiyetten nasıl yararlanabilir?",
+     "cevap": "Araç gümrüğe terk edilirse gümrük vergileri aranmaksızın, terk edilmezse gümrük vergilerinin ödenmesi koşuluyla yeniden muafiyetten faydalanılabilir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 41/3-a",
+     "kanit": "gümrüğe terk edilmesi durumunda gümrük vergileri aranmaksızın, gümrüğe terk edilmemesi durumunda ise gümrük vergilerinin ödenmesi koşuluyla yeniden muafiyetten faydalanılması mümkündür"
+    },
+    {
+     "alt_konu": "Süre uzatımı, yasaklama, kısıtlama ve yaptırımlar",
+     "soru": "Gümrük Muafiyeti Tebliği (Seri No: 2)'ye göre Tebliğ kapsamındaki eşyanın cebri icra veya hacze konu olması durumunda eşyaya ait gümrük vergileri kimden tahsil edilir?",
+     "cevap": "Eşyayı devralan kişiden tahsil edilir.",
+     "dayanak": "Gümrük Muafiyeti Tebliği (Seri No 2) md. 41/6",
+     "kanit": "Tebliğ kapsamı eşyanın cebri icra veya hacze konu olması durumunda, eşyaya ait gümrük vergileri eşyayı devralan kişiden tahsil edilir."
+    }
+   ]
+  },
+  {
+   "kaynak": "42-kumanya.txt",
+   "konu": "Akaryakıt ve kumanya (deniz ve hava taşıtlarına yakıt ve kumanya verilmesi)",
+   "mevzuat": "GK md. 176; GY md. 476-482",
+   "cikmis_sayisi": 4,
+   "cikmis": [
+    "2021-69: Liman bayii şartları: AŞ/Ltd, 50.000 TL sermaye, 200 DWT tanker veya teminat, sabıka şartı; dış sefer yapmama şartı yoktur (GY 478)",
+    "2021-70: Kabotaj gemisinin yabancı limandan aldığı yakıt farkı seyir jurnali ve devriçark defterine göre bulunur (GY 481)",
+    "2025-65: Dış sefer yakıt/kumanya muaftır; serbest dolaşımdaki (serbest dolaşımda olmayan değil) yakıt/kumanya teslimi ihracat hükmündedir (GK 176)",
+    "2023-40, 2024-45 (Beyan konulu, ilişkili): Kumanya listesi beyanname yerine geçer (GY 477/2 ile bağlantılı)"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Dış seferde kullanılacak yakıt, yağ ve kumanyanın ithalat vergilerinden muafiyeti",
+     "dayanak": "GK md. 176/1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-65"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepodaki yakıt ve kumanyanın transit hükümlerine göre verilmesi; serbest dolaşımdaki yakıt ve kumanyanın verilmesinin ihracat hükmünde olması",
+     "dayanak": "GK md. 176/2",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-65"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Deniz ve hava taşıtlarına yakıt ve kumanya verilmesi (Yönetmelik hükmü)",
+     "dayanak": "GY md. 476",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-65"
+     ],
+     "not": "Antrepodaki eşyanın transit hükümlerine göre verilmesi Kanun düzeyinde soruldu; geçici depolama yerinin de kaynak olabilmesi, kumanyanın kapsamı ve Türk bandıralı taşıtların dış sefere çıkılan limandan itibaren tüketme şartı sorulmadı."
+    },
+    {
+     "baslik": "Yakıt ve kumanya talebi ve yükleme",
+     "dayanak": "GY md. 477",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-40",
+      "2024-45"
+     ],
+     "not": "Kumanya listesinin beyanname yerine geçtiği Beyan konulu sorularda ölçüldü; yakıt talebini bildirecek kişiler, sipariş belgesi ve muayene/gözetim kuralı sorulmadı."
+    },
+    {
+     "baslik": "Gümrüklerde doğrudan işlem takip edebilecek bunker ve liman bayileri",
+     "dayanak": "GY md. 478",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-69"
+     ],
+     "not": "Şirket türü, 50.000 TL sermaye, 200 DWT tanker veya teminat ve sabıka şartları soruldu; toplu teminat tutarı (80.000 ABD doları) ve her başvuruda kaptan/acente talep yazısı sorulmadı."
+    },
+    {
+     "baslik": "Türk bandıralı gemilerde yakıt ve kumanya defteri",
+     "dayanak": "GY md. 479",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Türk bandıralı gemilerin yabancı limanlardan tedarik ettikleri yakıt ve kumanyanın beyanı",
+     "dayanak": "GY md. 480",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kabotaja girecek gemilerde yakıt miktarlarının tespiti",
+     "dayanak": "GY md. 481",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-70"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Seferin devamı sayılabilecek haller",
+     "dayanak": "GY md. 482",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Deniz ve hava taşıtlarına yakıt ve kumanya verilmesi (Yönetmelik hükmü)",
+     "soru": "Gümrük Yönetmeliğine göre transit rejimi hükümlerine göre deniz ve hava taşıtlarına verilecek kumanyanın kapsamına hangi maddeler girer?",
+     "cevap": "Mürettebat ve yolcuların yiyecek, içecek, sigara ve alkollü içkiler de dahil olmak üzere kumanyaları girer.",
+     "dayanak": "GY md. 476/1",
+     "kanit": "mürettebat ve yolcuların yiyecek, içecek, sigara ve alkollü içkiler de dahil olmak üzere kumanyaları transit rejimi hükümlerine göre deniz ve hava taşıtlarına verilir."
+    },
+    {
+     "alt_konu": "Deniz ve hava taşıtlarına yakıt ve kumanya verilmesi (Yönetmelik hükmü)",
+     "soru": "Gümrük Yönetmeliğine göre henüz serbest dolaşıma girmemiş yakıt, yağ ve kumanya deniz ve hava taşıtlarına hangi yerlerden transit rejimi hükümlerine göre verilebilir?",
+     "cevap": "Geçici depolama yeri veya antrepoda bulunan, henüz serbest dolaşıma girmemiş yakıt, yağ ve kumanyalar verilebilir.",
+     "dayanak": "GY md. 476/1",
+     "kanit": "Geçici depolama yeri veya antrepoda bulunan ve henüz serbest dolaşıma girmemiş olan yakıt ve yağlar ile"
+    },
+    {
+     "alt_konu": "Deniz ve hava taşıtlarına yakıt ve kumanya verilmesi (Yönetmelik hükmü)",
+     "soru": "Gümrük Yönetmeliğine göre geçici depolama yeri veya antrepodan verilen henüz serbest dolaşıma girmemiş yakıt ve kumanyalardan gümrük vergilerinin aranmaması için Türk bandıralı deniz ve hava taşıtlarının hangi şartı yerine getirmesi gerekir?",
+     "cevap": "Aldıkları yakıt, yağlayıcı madde ve kumanyayı dış sefere çıkacağı limandan itibaren tüketmeleri gerekir.",
+     "dayanak": "GY md. 476/2",
+     "kanit": "Ancak, Türk bandıralı deniz ve hava taşıtlarının bu hükümden yararlanabilmesi için aldıkları söz konusu eşyayı dış sefere çıkacağı limandan itibaren tüketmeleri gerekir."
+    },
+    {
+     "alt_konu": "Yakıt ve kumanya talebi ve yükleme",
+     "soru": "Gümrük Yönetmeliğine göre deniz veya hava taşıtına yakıt talebi kimler tarafından ve hangi bilgilerle gümrük idaresine bildirilir?",
+     "cevap": "Taşıt kaptanları, acenteleri, bunker veya liman bayileri; taşıtın gideceği yeri ve talep edilen yakıt miktarını yazılı olarak bildirir.",
+     "dayanak": "GY md. 477/1",
+     "kanit": "Deniz ve hava taşıtı kaptanları, acenteleri, bunker veya liman bayileri, taşıtın gideceği yer ve talep ettiği yakıt miktarını yazılı olarak gümrük idaresine bildirir."
+    },
+    {
+     "alt_konu": "Yakıt ve kumanya talebi ve yükleme",
+     "soru": "Gümrük Yönetmeliğine göre deniz veya hava taşıtı için yakıt talebinin kaptan ve işletme dışındaki kişilerce yapılması halinde hangi belge aranır?",
+     "cevap": "Kaptan veya işletme tarafından talep edilen yakıt siparişine dair belge aranır.",
+     "dayanak": "GY md. 477/1",
+     "kanit": "Bu talebin kaptan ve işletme dışındaki kişiler tarafından yapılması halinde, kaptan veya işletme tarafından talep edilen yakıt siparişine dair belge aranır."
+    },
+    {
+     "alt_konu": "Yakıt ve kumanya talebi ve yükleme",
+     "soru": "Gümrük Yönetmeliğine göre gemiye verilecek yakıt, yağ ve kumanya muayeneye tabi tutulur mu?",
+     "cevap": "Şüphe veya ihbar olmadıkça muayeneye tabi tutulmaz; yalnızca gümrük idaresinin gözetimi altında gemiye yüklenir.",
+     "dayanak": "GY md. 477/3",
+     "kanit": "Şüphe veya ihbar olmadıkça, yakıt, yağ ve kumanya muayeneye tabi tutulmaz ve sadece gümrük idaresinin gözetimi altında gemiye yüklenir."
+    },
+    {
+     "alt_konu": "Gümrüklerde doğrudan işlem takip edebilecek bunker ve liman bayileri",
+     "soru": "Gümrük Yönetmeliğine göre bunker veya liman bayilerinin gemiye verilecek yağ ve yakıta ilişkin beyannameyi doğrudan tescil ettirebilmesi için, mülkiyetlerinde 200 DWT kapasiteli deniz akaryakıt tankeri bulunmaması halinde ne tutarda toplu teminat vermeleri gerekir?",
+     "cevap": "80.000 ABD doları tutarında toplu teminat vermeleri gerekir.",
+     "dayanak": "GY md. 478/1-c",
+     "kanit": "Firmanın mülkiyetinde bir adet 200 DWT (Deadweight Ton) kapasitede deniz akaryakıt tankerinin bulunması veya 80.000 ABD doları tutarı toplu teminat verilmesi,"
+    },
+    {
+     "alt_konu": "Gümrüklerde doğrudan işlem takip edebilecek bunker ve liman bayileri",
+     "soru": "Gümrük Yönetmeliğine göre doğrudan işlem takip edebilecek bunker ve liman bayilerinin gemilere yağ ve yakıt verilmesine ilişkin her başvurusunda hangi belgenin ibrazı şarttır?",
+     "cevap": "İlgili kaptan veya gemi acentesinin talep veya izin yazısının gümrük idaresine ibrazı şarttır.",
+     "dayanak": "GY md. 478/2",
+     "kanit": "Bu firmaların gemilere yağ ve yakıt verilmesine ilişkin her başvurularında ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibrazı şarttır."
+    },
+    {
+     "alt_konu": "Türk bandıralı gemilerde yakıt ve kumanya defteri",
+     "soru": "Gümrük Yönetmeliğine göre yakıt ve kumanya defteri hangi gemilerde tutulur ve defterin sayfaları kimce onanır?",
+     "cevap": "Türkiye Gümrük Bölgesi dışına sefer yapan Türk bandıralı gemilerde tutulur; sayfaları gümrük idaresince önceden tespit edilerek onanır.",
+     "dayanak": "GY md. 479/1",
+     "kanit": "Türkiye Gümrük Bölgesi dışına sefer yapan Türk bandıralı gemilerde, ek-76'da yer alan örneğe uygun yakıt ve kumanya defteri tutulur. Bu defterin sayfaları gümrük idaresince önceden tespit edilerek onanır."
+    },
+    {
+     "alt_konu": "Türk bandıralı gemilerin yabancı limanlardan tedarik ettikleri yakıt ve kumanyanın beyanı",
+     "soru": "Gümrük Yönetmeliğine göre Türk bandıralı gemilerin yabancı limanlardan gelişlerinde yakıt ve kumanyaları için düzenlenen liste hangi limanda ve hangi idareye verilir?",
+     "cevap": "İlk uğrayacakları Türk limanında, geminin kontrolünü yapacak gümrük idaresine verilir.",
+     "dayanak": "GY md. 480/1",
+     "kanit": "yakıt ve kumanyaları için bir liste düzenlenerek ilk uğrayacakları Türk limanında bu liste geminin kontrolünü yapacak gümrük idaresine verilir."
+    },
+    {
+     "alt_konu": "Türk bandıralı gemilerin yabancı limanlardan tedarik ettikleri yakıt ve kumanyanın beyanı",
+     "soru": "Gümrük Yönetmeliğine göre Türk bandıralı gemilerin yabancı limanlardan gelişlerinde verilen yakıt ve kumanya listesi ilgili memurlarca neyle karşılaştırılır?",
+     "cevap": "Yakıt ve kumanya defteri ile karşılaştırılarak beyan edilen miktarın defter kayıtlarına uygunluğu incelenir.",
+     "dayanak": "GY md. 480/3",
+     "kanit": "İlgili memurlar, kendilerine verilen listeyi, yakıt ve kumanya defteri ile karşılaştırarak, beyan edilen miktarın defter kayıtlarına uygunluğunu inceler."
+    },
+    {
+     "alt_konu": "Seferin devamı sayılabilecek haller",
+     "soru": "Gümrük Yönetmeliğine göre Türkiye Gümrük Bölgesi dışına düzenli sefer yapan gemilerin yabancı ülke seferinden son Türk limanına dönüp tekrar dış sefere çıkmaları halinde, bu limandaki bekleme süresinin ne kadarı seferin devamı sayılır?",
+     "cevap": "Üç aya kadar olan bekleme süreleri yabancı ülkelere yapılan seferin devamı sayılır.",
+     "dayanak": "GY md. 482/1",
+     "kanit": "bu limandaki üç aya kadar olan bekleme süreleri yabancı ülkelere yapılan seferin devamı sayılır."
+    },
+    {
+     "alt_konu": "Seferin devamı sayılabilecek haller",
+     "soru": "Gümrük Yönetmeliğine göre yurt dışı seferden dönen gemilerin Türk limanlarında yüklerinin tamamını boşalttıktan sonra ihraç yükü almak üzere diğer Türk limanlarına hareket etmeleri nasıl değerlendirilir?",
+     "cevap": "Boş veya kısmen ihraç yükü alarak hareket etmeleri dış seferin devamı sayılır.",
+     "dayanak": "GY md. 482/2",
+     "kanit": "Yurt dışı seferden dönen gemilerin Türk limanlarında yüklerinin tamamını boşalttıktan sonra diğer Türk limanlarına ihraç yükünü almak üzere boş veya kısmen ihraç yükü alarak hareket etmeleri hali de dış seferin devamı sayılır."
+    },
+    {
+     "alt_konu": "Seferin devamı sayılabilecek haller",
+     "soru": "Gümrük Yönetmeliğine göre dış seferden dönen geminin üç aylık süre içinde Türk limanları arasında sefer yapması halinde tüketilen akaryakıt nerede vergilendirilir?",
+     "cevap": "Uğradığı en son Türk limanında vergilendirilir.",
+     "dayanak": "GY md. 482/3",
+     "kanit": "Üç aylık süre içerisinde Türk limanları arasında sefer yapılması halinde tüketilen akaryakıt uğradığı en son Türk limanında vergilendirilir."
+    },
+    {
+     "alt_konu": "Seferin devamı sayılabilecek haller",
+     "soru": "Gümrük Yönetmeliğine göre dış seferden dönen geminin üç ay içinde yabancı limanlara çıkmaması halinde transit akaryakıt ve kumanyalar hakkında ne yapılır?",
+     "cevap": "Gümrük idaresince transit akaryakıt ve kumanyalar tespit edilerek vergileri tahsil edilir.",
+     "dayanak": "GY md. 482/4",
+     "kanit": "Geminin üç ay içerisinde yabancı limanlara çıkmaması halinde gümrük idaresince transit akaryakıt ve kumanyaları tespit edilerek vergileri tahsil edilir."
+    },
+    {
+     "alt_konu": "Seferin devamı sayılabilecek haller",
+     "soru": "Gümrük Yönetmeliğine göre geminin üç ay içinde yabancı limanlara çıkmamasının zorunlu nedenlerden kaynaklandığının belgelendirilmesi halinde bu sürenin uzatılmasına hangi makam yetkilidir?",
+     "cevap": "Gümrük ve muhafaza başmüdürlükleri yetkilidir.",
+     "dayanak": "GY md. 482/4",
+     "kanit": "Geminin üç ay içerisinde yabancı limanlara çıkmamasının zorunlu nedenlerden kaynaklandığının ilgili gümrük idaresine belgelendirilmesi halinde bu sürenin uzatılmasına gümrük ve muhafaza başmüdürlükleri yetkilidir."
+    }
+   ]
+  }
+ ]
+}

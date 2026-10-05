@@ -7,7 +7,8 @@ YIL = ['2021', '2022', '2023', '2024', '2025']
 TOP = sum(len(x['soru_cevap']) for x in D)
 ALT = collections.Counter(); [ALT.update(x['st']) for x in D]
 def ycount(x): return collections.Counter(r[:4] for r in x['refs'])
-def bas(x): return x['konu']
+KISA = json.load(open(HERE / 'kisa_adlar.json', encoding='utf-8'))
+def bas(x): return KISA.get(x['kaynak'], x['konu'])
 
 # ---------------- Analiz ----------------
 A = ['# Gümrük Koçu - Ufuk Çetintaş', '', '## 2021–2025 GMY Çıkmış Soruları: Sorulan ve Sorulmayan Konular Karşılaştırması', '',
@@ -19,11 +20,11 @@ A = ['# Gümrük Koçu - Ufuk Çetintaş', '', '## 2021–2025 GMY Çıkmış So
 A += ['## 1. Yöntem', '']
 A += [f'- {n}' for n in notlar['yontem']] + ['']
 A += ['## 2. Konu bazında genel tablo', '',
-      '| # | Konu | Kaynak dosya | ' + ' | '.join(YIL) + ' | Toplam | Alt konu | Sorulan | Kısmen | Sorulmayan | S–C |',
-      '|---|---|---|' + '---|' * 5 + '---|---|---|---|---|---|']
+      '| # | Konu | ' + ' | '.join(YIL) + ' | Toplam | Alt konu | Sorulan | Kısmen | Sorulmayan | S–C |',
+      '|---|---|' + '---|' * 5 + '---|---|---|---|---|---|']
 for i, x in enumerate(D, 1):
     yc = ycount(x); st = x['st']
-    A.append(f"| {i} | {bas(x)} | {x['kaynak'].replace('.txt','')[:60]} | " + ' | '.join(str(yc.get(y, 0)) for y in YIL)
+    A.append(f"| {i} | {bas(x)} | " + ' | '.join(str(yc.get(y, 0)) for y in YIL)
              + f" | **{len(x['refs'])}** | {len(x['alt_konular'])} | {st.get('SORULDU',0)} | {st.get('KISMEN',0)} | {st.get('SORULMADI',0)} | {len(x['soru_cevap'])} |")
 A += ['', '> Toplam sütunu, o kaynak dosyadaki hükümlere dayanan çıkmış soru sayısıdır. Bir soru birden fazla dosyanın hükmünü ölçüyorsa her iki dosyada da sayılmıştır; bu nedenle sütun toplamı 400 değildir. Kaynakta karşılığı bulunmayan 16 çıkmış soru (rejim kodları, Ek-9 limitleri, Form A vb.) tabloda yer almaz; liste 5. bölümdedir.', '']
 sifir = [x for x in D if not x['refs']]
@@ -34,11 +35,11 @@ A += [f"- **{bas(x)}** ({x['mevzuat']}) — {len(x['alt_konular'])} alt konu, {l
 A += ['### 3.2 Az sorulan konular (5 yılda 1–3 soru)', '']
 A += [f"- **{bas(x)}** — {len(x['refs'])} soru ({', '.join(x['refs'])}); sorulmayan alt konu: {x['st'].get('SORULMADI',0)}" for x in az] + ['']
 A += ['### 3.3 Çok sorulan konular (5 yılda 10+ soru) ve hâlâ sorulmamış hükümleri', '']
-A += [f"- **{bas(x)}** — {len(x['refs'])} soru; buna rağmen {x['st'].get('SORULMADI',0)} alt konu hiç, {x['st'].get('KISMEN',0)} alt konu kısmen sorulmamış" for x in cok] + ['']
+A += [f"- **{bas(x)}** — {len(x['refs'])} soru; {len(x['alt_konular'])} alt konunun {x['st'].get('SORULMADI',0)}'i hiç sorulmamış, {x['st'].get('KISMEN',0)}'i yalnız kısmen sorulmuş" for x in cok] + ['']
 A += [f'- {n}' for n in notlar.get('gozlem', [])] + ['']
 A += ['## 4. Konu konu karşılaştırma', '']
 for i, x in enumerate(D, 1):
-    A += [f"### 4.{i} {bas(x)}", '', f"*Kaynak: {x['kaynak'].replace('.txt','')} · Mevzuat: {x['mevzuat']}*", '',
+    A += [f"### 4.{i} {bas(x)}", '', f"*{x['konu']} · Kaynak dosya: {x['kaynak'].replace('.txt','')} · Mevzuat: {x['mevzuat']}*", '',
           f"Beş yılda **{len(x['refs'])}** soru" + (f" ({', '.join(x['refs'])})" if x['refs'] else '') + '.', '']
     if x.get('cikmis'):
         A += ['**Sorulan bilgi noktaları**', ''] + [f'- {c}' for c in x['cikmis']] + ['']
@@ -55,6 +56,7 @@ for i, x in enumerate(D, 1):
             A.append(f"- {a['baslik']} ({a['dayanak']}){ek}")
         A.append('')
 A += ['## 5. Kaynakta karşılığı bulunmayan çıkmış sorular', ''] + [f'- {n}' for n in notlar['yok']] + ['']
+A += ['## 6. Uyarılar', ''] + [f'- {n}' for n in notlar['uyari']] + ['']
 A += ['---', '**Gümrük Koçu - Ufuk Çetintaş**']
 (OUT / 'GK_Cikmis_vs_Sorulmayan_Analiz.md').write_text('\n'.join(A) + '\n', encoding='utf-8')
 

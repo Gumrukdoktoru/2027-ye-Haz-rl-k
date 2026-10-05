@@ -1,0 +1,2031 @@
+{
+ "grup": "G05",
+ "dosyalar": [
+  {
+   "kaynak": "17-BEYAN.txt",
+   "konu": "Gümrük beyanı, basitleştirilmiş usuller, sözlü beyan, beyanname yerine geçen belgeler, muayene ve laboratuvar tahlili",
+   "mevzuat": "GK md. 58-73; GY md. 112-203",
+   "cikmis_sayisi": 28,
+   "cikmis": [
+    "2021-41: Antrepodaki eşya için gümrükçe onaylanmış işlem beyannamesinde işlemlerin tescilden itibaren otuz günde bitirilmesi (GK 70/2)",
+    "2021-49: Çeki listesinin tanımı (GY 117)",
+    "2021-50: Yanlış rejim nedeniyle iptal talebinin tescilden itibaren üç ay içinde yapılması (GY 124/2)",
+    "2021-51: Kırmızı, sarı, mavi ve yeşil hat tanımları (GY 180)",
+    "2021-61: Proforma faturanın tanımı (Dış Ticaret Belgeleri; kaynakta tanımı yok)",
+    "2021-63: [çapraz - Tasfiye] Tahlilden arta kalan numunenin bir ay içinde alınmaması (GK 66/5) çeldirici olarak",
+    "2021-71: Gümrük beyannamesinin içerdiği bilgiler (kaynakta ayrıca tanım yok)",
+    "2022-45: Türkiye'de vefat eden yabancının mirasçılarına intikal eden eşyanın sözlü beyan formuyla beyanı (GY 170/1-f)",
+    "2022-77: Beyannamede düzeltme yasağı halleri; GK 73 saklı kalmak üzere teslimden sonra düzeltme yapılamaz (GK 63)",
+    "2022-78: Beyanname yerine kullanılan belgeler; CIM taşıma belgesi bunlardan değildir (GY 131)",
+    "2022-80: Muayene ve numune alma, muayene sonuçlarının esas alınması, ikinci muayene, sorumluluk, muayene yeri (GK 65-66)",
+    "2022-81: Çeki listesinin tanımı (GY 117)",
+    "2022-94: [çapraz - OKSB] OKSB sahiplerinin eksik beyandan yararlanması",
+    "2022-95: [çapraz - OKSB] Mavi hattın onaylanmış kişilerce yalnız ihracatta kullanılması",
+    "2022-96: Numunelerin laboratuvara gönderilmesi; yükümlünün doğrudan numune gönderememesi (GY 200)",
+    "2023-40: Beyanname yerine geçen belgeler; menşe şahadetnamesi bunlardan değildir (GY 131)",
+    "2023-62: Antrepoda gümrükçe onaylanmış işlem beyannamesinde otuz günlük süre (GK 70/2)",
+    "2023-80: Laboratuvar tahlilini zorunlu kılan haller (GY 196/1)",
+    "2023-81: Tam/kısmi muayene, muayene şeklinin belirlenmesi, tutanak, ihracat eşyasının gümrüğe sunulması (GY 182)",
+    "2023-84: Gümrük beyanının tanımı; imha talebi gümrük beyanı değildir (1-TANIMLAR)",
+    "2023-90: Gümrük beyanının şekilleri (GK 59)",
+    "2023-93: Beyan kontrol hatları; siyah hat yoktur (GY 180)",
+    "2023-100: CMR'nin taşıma belgesi olması (GY 118)",
+    "2024-39: [çapraz - Geçici İthalat] Geçici ithalat beyanında sözlü beyanın kullanılabilmesi",
+    "2024-45: Beyanname yerine geçen belgeler; A.TR dolaşım belgesi bunlardan değildir (GY 131)",
+    "2025-60: Beyan edilen serbest dolaşım eşyasının çıkış/imha/iptale kadar gözetimde kalması (GK 58/2)",
+    "2025-61: İhracatta eksik beyanın tamamlanma süresi ve ek süre (GY 155)",
+    "2025-70: Vefat eden yabancının cenazesinin sözlü beyan formuyla gönderilmesi (GY 170/1-e)"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Eşyanın gümrük rejimine tabi tutulması ve beyan edilen serbest dolaşım eşyasının gözetimi",
+     "dayanak": "GK md. 58",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-60"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük beyanının şekilleri",
+     "dayanak": "GK md. 59",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2023-90"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Yazılı beyan: beyannamenin içeriği, ekleri ve kazıntılı beyanname",
+     "dayanak": "GK md. 60/1-4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yetkili makamların resmi yazılarının beyanname kabul edilmesi",
+     "dayanak": "GK md. 60/5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-78",
+      "2023-40"
+     ],
+     "not": "Elçilik/kurye mektubunun beyanname yerine geçtiği GY 131 yönünden soruldu; misyon şefi yazılarındaki karşılıklılık şartı ve Cumhurbaşkanlığı yazıları sorulmadı."
+    },
+    {
+     "baslik": "Beyannamenin tescili, esas alınacak tarih ve tescilin bağlayıcılığı",
+     "dayanak": "GK md. 61",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Beyan sahibi ve Türkiye Gümrük Bölgesinde yerleşik olma koşulu",
+     "dayanak": "GK md. 62",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Beyannamede düzeltme yasağı halleri",
+     "dayanak": "GK md. 63",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-77"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Beyannamenin iptali ve tescilden sonra eşyada meydana gelen bozulmalar",
+     "dayanak": "GK md. 64",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "GY 124'teki üç aylık iptal talebi süresi 2021-50'de soruldu; GK 64'ün kendisi sorulmadı."
+    },
+    {
+     "baslik": "Beyanın doğruluğunun araştırılması, muayene sonuçlarının esas alınması ve ikinci muayene",
+     "dayanak": "GK md. 65",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-80"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Muayene ve numune giderleri, beyan sahibinin hazır bulunması ve numune tazminatı",
+     "dayanak": "GK md. 66",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-80",
+      "2021-63"
+     ],
+     "not": "Muayene yeri (2022-80) ve tahlilden arta kalan numunenin bir ayda alınmaması (2021-63, çeldirici) soruldu; giderlerin beyan sahibince karşılanması ve numune tazminatı sorulmadı."
+    },
+    {
+     "baslik": "Kısmi muayene ve birden fazla kalemli beyanname",
+     "dayanak": "GK md. 67",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ayniyet tespitine yönelik etiket ve mühürlerin sökülmesi",
+     "dayanak": "GK md. 68",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın teslimi koşulları",
+     "dayanak": "GK md. 69",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Süresinde işlemi tamamlanmayan eşya ve antrepoda otuz günlük süre",
+     "dayanak": "GK md. 70",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-41",
+      "2023-62"
+     ],
+     "not": "Antrepoda otuz günlük süre (70/2) soruldu; beyan sahibinden kaynaklanan gecikmede muayene, tutanak ve tasfiye usulü (70/1) sorulmadı."
+    },
+    {
+     "baslik": "Basitleştirilmiş usul türleri ve tamamlayıcı beyan",
+     "dayanak": "GK md. 71",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın tesliminden sonra beyanın kontrolü",
+     "dayanak": "GK md. 73",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük beyannamesi ve bilgisayar veri işleme tekniğiyle beyan esası",
+     "dayanak": "GY md. 112",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Beyanın bağlayıcılığı ve beyannamenin devredilemezliği",
+     "dayanak": "GY md. 113",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Beyannameye eklenecek belgeler ve eklenmeyen belgelerin muhafazası",
+     "dayanak": "GY md. 114",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Fatura",
+     "dayanak": "GY md. 115",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ayrıntılı fatura",
+     "dayanak": "GY md. 116",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Adı 2021-49 ve 2022-81'de yalnızca çeldirici seçenek olarak geçti; tanımı ve ibraz şartı ölçülmedi."
+    },
+    {
+     "baslik": "Çeki listesi",
+     "dayanak": "GY md. 117",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-49",
+      "2022-81"
+     ],
+     "not": "Tanım iki kez soruldu; çeki listesini kimlerin hazırlayabileceği ve ağırlık esaslı eşyada hazırlanış esası sorulmadı."
+    },
+    {
+     "baslik": "Taşıma belgeleri (konşimento, hava konşimentosu, CMR, CIM/CIV)",
+     "dayanak": "GY md. 118",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-100",
+      "2022-78"
+     ],
+     "not": "CMR'nin taşıma belgesi olduğu ve CIM'in beyanname yerine geçmediği soruldu; konşimentoyu kimin kime verdiği sorulmadı."
+    },
+    {
+     "baslik": "İşlenmiş Tarım Ürünleri Beyan Formu/Analiz Sonuç Raporu ve Kıymet Bildirim Formu",
+     "dayanak": "GY md. 119-120",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Adları 2021-49'da yalnızca çeldirici olarak geçti."
+    },
+    {
+     "baslik": "Beyannamede düzeltme: başka eşya kavramı ve teslimden sonra üç yıllık süre",
+     "dayanak": "GY md. 121",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-77"
+     ],
+     "not": "Yanlışlığın tespitinden sonra düzeltme yasağı GK 63 üzerinden soruldu; 'başka bir eşya' tanımı ve teslimden sonra üç yıllık düzeltme süresi sorulmadı."
+    },
+    {
+     "baslik": "Bölünmüş beyanname",
+     "dayanak": "GY md. 122",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Teslimden önce iptal ve tasfiyelik eşyanın beyannamesi",
+     "dayanak": "GY md. 123",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yanlış rejim beyanı nedeniyle teslimden sonra iptal",
+     "dayanak": "GY md. 124",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-50"
+     ],
+     "not": "Üç aylık başvuru süresi soruldu; iptal için aranan şartlar, mücbir sebep istisnası ve yeni beyannamenin geçerlilik tarihi sorulmadı."
+    },
+    {
+     "baslik": "Başka eşyanın beyanı nedeniyle teslimden sonra iptal",
+     "dayanak": "GY md. 125",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Geriye dönük izin verilmesi halinde beyannamenin iptali",
+     "dayanak": "GY md. 126",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracat veya hariçte işleme rejimine ilişkin beyannamenin iptali",
+     "dayanak": "GY md. 127",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Antrepo rejimine tabi serbest dolaşım eşyasına ilişkin beyannamenin iptali",
+     "dayanak": "GY md. 128",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Posta veya hızlı kargo eşyasının iadesinde beyannamenin iptali",
+     "dayanak": "GY md. 129",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın teslimi: hızlı kargo ve tahlil sonucu beklenmeden teslim",
+     "dayanak": "GY md. 130",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Beyanname yerine kullanılan belgeler",
+     "dayanak": "GY md. 131",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-78",
+      "2023-40",
+      "2024-45"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Kurye mektubu ve kurye kaplarının işlemleri",
+     "dayanak": "GY md. 132-139",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Basitleştirilmiş usullerden yararlanma koşulları",
+     "dayanak": "GY md. 140",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-94"
+     ],
+     "not": "OKSB sahiplerinin eksik beyandan yararlanması OKSB tebliği yönünden soruldu; kayıt yoluyla rejime giriş koşulları, ticari/idari belge usulünde statü aranmaması ve teminat şartı sorulmadı."
+    },
+    {
+     "baslik": "İzinli gönderici kapsamında ihracat beyannamesinin yerleşik yer gümrük idaresine verilmesi",
+     "dayanak": "GY md. 141/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest dolaşıma girişte eksik beyan ve zorunlu unsurlar",
+     "dayanak": "GY md. 142-143",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest dolaşıma girişte eksik beyanın tamamlanma süreleri",
+     "dayanak": "GY md. 144",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "İhracat rejimindeki benzer 1 ay/3 ay süresi 2025-61'de soruldu; serbest dolaşıma giriş rejimindeki ek süre koşulu ve vergilerin ertelenmemesi sorulmadı."
+    },
+    {
+     "baslik": "Eksik beyanda vergilendirme, eksik belgenin süresinde sunulmaması ve esas alınacak tarih",
+     "dayanak": "GY md. 145-146",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Özelliği olan eşyanın tesliminde basitleştirilmiş usul",
+     "dayanak": "GY md. 147",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest dolaşıma girişte beyanname yerine ticari veya idari belge",
+     "dayanak": "GY md. 148",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest dolaşıma girişte tamamlayıcı beyan",
+     "dayanak": "GY md. 150",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ekonomik etkili rejimdeki eşyanın basitleştirilmiş usulle serbest dolaşıma girişi ve antrepo tipleri",
+     "dayanak": "GY md. 151",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracat rejiminde basitleştirilmiş usul koşulları ve eksik beyan",
+     "dayanak": "GY md. 152-154",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracat rejiminde eksik beyanın tamamlanması",
+     "dayanak": "GY md. 155",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-61"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "İhracat rejiminde beyanname yerine ticari veya idari belge",
+     "dayanak": "GY md. 156",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracat rejiminde tamamlayıcı beyan",
+     "dayanak": "GY md. 158",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ekonomik etkili rejimlerde basitleştirilmiş usul ortak hükümleri ve ihracat rejimine giriş",
+     "dayanak": "GY md. 159-160",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük antrepo rejiminde basitleştirilmiş usuller",
+     "dayanak": "GY md. 161-166",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Diğer rejimlerde basitleştirilmiş usullere yapılan atıflar",
+     "dayanak": "GY md. 167-168",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Serbest dolaşıma girişte sözlü beyana tabi eşya",
+     "dayanak": "GY md. 169",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracatta sözlü beyana tabi eşya",
+     "dayanak": "GY md. 170",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-45",
+      "2025-70"
+     ],
+     "not": "Vefat eden yabancının mirasçılarına intikal eden eşya ve cenaze soruldu; yurt dışına yerleşenlerin eşyasında iki ay evvel/altı ay sonra kuralı sorulmadı."
+    },
+    {
+     "baslik": "Geçici ithalat ve dahilde işlemede sözlü beyana tabi eşya",
+     "dayanak": "GY md. 171",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-39"
+     ],
+     "not": "Geçici ithalatta sözlü beyanın kullanılabildiği soruldu; Sözlü Beyan Formu tescilinin hukuki sonucu ve sayılan eşya sorulmadı."
+    },
+    {
+     "baslik": "Sözlü beyan formu ve yazılı beyan isteme hakkı",
+     "dayanak": "GY md. 172-173",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bilgisayar veri işleme tekniği yoluyla beyan",
+     "dayanak": "GY md. 174",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Başka bir tasarruf yoluyla beyan",
+     "dayanak": "GY md. 175-179",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-90"
+     ],
+     "not": "Beyan şekli olarak varlığı soruldu; hangi eşya için hangi rejime ilişkin beyan sayıldığı ve uygulanmayacağı eşya sorulmadı."
+    },
+    {
+     "baslik": "Beyanın kontrol türleri (hatlar) ve belirlenmesi",
+     "dayanak": "GY md. 180, 184",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-51",
+      "2023-93",
+      "2022-95"
+     ],
+     "not": "Hatların tanımları ve mavi hat soruldu; kontrol türünün ve görevli memurun sistemce risk kriterlerine göre belirlenmesi ile YYS beyannamelerine öncelik sorulmadı."
+    },
+    {
+     "baslik": "Diğer kurumlarca yapılacak ithalat kontrolleri",
+     "dayanak": "GY md. 181",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eşyanın muayenesi: kısmi/tam muayene ve ihracat eşyasının muayenesi",
+     "dayanak": "GY md. 182",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-81"
+     ],
+     "not": "Tam/kısmi muayene tanımı, muayene şeklinin belirlenmesi, tutanak ve ihracat eşyasının gümrüğe sunulması esası soruldu; kısmi muayenede farklılık halinde tam muayeneye geçiş ve gümrüğe sunulmadan yükletilirken muayene istisnası sorulmadı."
+    },
+    {
+     "baslik": "Belge kontrolü ve muayeneye yönlendirme",
+     "dayanak": "GY md. 183",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Muayene edilmeyecek eşya",
+     "dayanak": "GY md. 185",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Görevlilerin sorumluluğu",
+     "dayanak": "GY md. 186",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-80"
+     ],
+     "not": "İkinci muayeneyi yapanların sorumluluğu soruldu; tahlili yapanların GTİP belirlemesinden müteselsil sorumluluğu sorulmadı."
+    },
+    {
+     "baslik": "Muayene yeri, muayenede bulunacaklar ve muayene giderleri",
+     "dayanak": "GY md. 187-189",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-80"
+     ],
+     "not": "Muayenenin yalnız antrepoda yapılmadığı soruldu; izin verilen yerler dışında muayeneye izin verme yetkisi sorulmadı."
+    },
+    {
+     "baslik": "Eksik muayenenin tamamlanması ve ikinci muayene",
+     "dayanak": "GY md. 190-191",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Muayenede tespit edilen farklılıklar",
+     "dayanak": "GY md. 192",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Beyannamenin düzeltilmesi ve tesliminden sonra düzeltme işlemleri",
+     "dayanak": "GY md. 193-194",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ayniyet tespiti ve mücbir sebep belgesi",
+     "dayanak": "GY md. 195",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Laboratuvar tahliline tabi eşya ve önceki tahlile itibar",
+     "dayanak": "GY md. 196",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2023-80"
+     ],
+     "not": "Tahlili zorunlu kılan haller soruldu; süreklilik arz eden ithalatta önceki rapora itibar süreleri (bir yıl/altı ay), kırmızı hat tam muayene istisnası ve OKSB/YYS kolaylıkları sorulmadı."
+    },
+    {
+     "baslik": "Gümrük rejiminden önce laboratuvar tahlili",
+     "dayanak": "GY md. 196/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Gümrük laboratuvarlarında tahlil ücretleri",
+     "dayanak": "GY md. 197",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Numune alma kuralları",
+     "dayanak": "GY md. 198",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Numunelerin miktarı, etiketlenmesi ve mühürlenmesi",
+     "dayanak": "GY md. 199",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Numunelerin laboratuvara gönderilmesi",
+     "dayanak": "GY md. 200",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-96"
+     ],
+     "not": "Refakatle gönderim, yetersiz numune, doğrudan numune gönderme yasağı ve tekrar numune için izin soruldu; usulsüz numunede tahlilin geçersizliği ve kargo masrafı sorulmadı."
+    },
+    {
+     "baslik": "Tahlillerin gümrük ve akredite laboratuvarlarda yapılması",
+     "dayanak": "GY md. 201",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Tahlilin yönü ve tahlil sonuçlarının tebliği",
+     "dayanak": "GY md. 202-203",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Tahlile itirazı karara bağlayan merci 2023-78'de soruldu; itiraz süresinin başlangıcı sorulmadı."
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Yazılı beyan: beyannamenin içeriği, ekleri ve kazıntılı beyanname",
+     "soru": "4458 sayılı Gümrük Kanununa göre kazıntılı veya silintili beyannameler kabul edilir mi; beyannamedeki hatalı yazı nasıl düzeltilir?",
+     "cevap": "Kazıntılı ve silintili beyannameler gümrük idarelerince kabul edilmez. Hatalı yazının üzeri okunacak şekilde çizilip yanına doğrusu yazılır, beyan sahibince imzalanır ve tescil sırasında resmi mühürle mühürlenerek düzeltilir.",
+     "dayanak": "GK md. 60/3",
+     "kanit": "Kazıntılı ve silintili beyannameler gümrük idarelerince kabul edilmez. Ancak, beyannameler hatalı yazının üzeri okunacak şekilde çizilerek yanına doğrusu yazılıp beyan sahibi tarafından imzalanarak ve tescil sırasında resmi mühürle mühürlenerek düzeltilir."
+    },
+    {
+     "alt_konu": "Yetkili makamların resmi yazılarının beyanname kabul edilmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre diplomatik muaflık ve ayrıcalıklardan yararlananlara gelen eşya için misyon şeflerinin gönderdiği yazılar hangi şartla beyanname kabul edilir?",
+     "cevap": "Yalnızca kendi adlarına veya elçilik adına gelecek eşya için ve karşılıklı olmak şartıyla, misyon şeflerinden veya muaflık hakkı tanınmış heyet başkanlarınca gönderilen yazılar beyanname kabul edilir ve işlemler bu yazılara dayanılarak yürütülür.",
+     "dayanak": "GK md. 60/5-b",
+     "kanit": "Diplomatik muaflık ve ayrıcalıklardan yararlananların ancak kendi adlarına veya elçilik adına gelecek eşya için karşılıklı olmak şartıyla misyon şeflerinden veya muaflık hakkı tanınmış heyet başkanlarınca gönderilen yazılar"
+    },
+    {
+     "alt_konu": "Beyannamenin tescili, esas alınacak tarih ve tescilin bağlayıcılığı",
+     "soru": "4458 sayılı Gümrük Kanununa göre aksine hüküm bulunmadıkça, eşyanın beyan edildiği gümrük rejimine ilişkin hükümlerin uygulanmasında hangi tarih esas alınır?",
+     "cevap": "Beyannamenin tescil edildiği tarih esas alınır.",
+     "dayanak": "GK md. 61/2",
+     "kanit": "Aksine hüküm bulunmadıkça, eşyanın beyan edildiği gümrük rejimine ilişkin tüm hükümlerin uygulanmasında esas alınacak tarih, beyannamenin (..) tescil edildiği tarihtir"
+    },
+    {
+     "alt_konu": "Beyannamenin tescili, esas alınacak tarih ve tescilin bağlayıcılığı",
+     "soru": "4458 sayılı Gümrük Kanununa göre tescil edilmiş beyannamenin beyan sahibi bakımından hukuki niteliği nedir?",
+     "cevap": "Tescil edilmiş beyanname, ait olduğu eşyanın vergileri ve para cezalarından dolayı taahhüt niteliğinde beyan sahibini bağlar ve gümrük vergileri tahakkukuna esas tutulur.",
+     "dayanak": "GK md. 61/3",
+     "kanit": "beyanname, ait olduğu eşyanın vergileri ve para cezalarından dolayı taahhüt niteliğinde beyan sahibini bağlar ve gümrük vergileri tahakkukuna esas tutulur."
+    },
+    {
+     "alt_konu": "Beyan sahibi ve Türkiye Gümrük Bölgesinde yerleşik olma koşulu",
+     "soru": "4458 sayılı Gümrük Kanununa göre beyannamenin tescilinin belirli bir kişi için özel yükümlülükler getirdiği hallerde aranan Türkiye Gümrük Bölgesinde yerleşik olma koşulu hangi kişilere uygulanmaz?",
+     "cevap": "Transit ya da geçici ithalat beyanında bulunan kişilere ve gümrük idarelerinin uygun bulması koşuluyla arızi olarak beyanda bulunan kişilere uygulanmaz.",
+     "dayanak": "GK md. 62/2",
+     "kanit": "yerleşik olma koşulu, transit ya da geçici ithalat beyanında bulunan veya gümrük idarelerinin uygun bulması koşuluyla arızi olarak beyanda bulunan kişilere uygulanmaz."
+    },
+    {
+     "alt_konu": "Beyannamenin iptali ve tescilden sonra eşyada meydana gelen bozulmalar",
+     "soru": "4458 sayılı Gümrük Kanununa göre beyan sahibine eşyanın muayene edileceği bildirilmiş olan hallerde beyannamenin iptaline ilişkin talep hakkında nasıl işlem yapılır?",
+     "cevap": "Muayenenin sonucu alınmadan beyannamenin iptaline ilişkin talep kabul edilmez.",
+     "dayanak": "GK md. 64/1",
+     "kanit": "gümrük idarelerince beyan sahibine eşyanın muayene edileceğinin bildirilmiş olduğu hallerde, muayenenin sonucu alınmadan beyannamenin iptaline ilişkin talep kabul edilmez."
+    },
+    {
+     "alt_konu": "Beyannamenin iptali ve tescilden sonra eşyada meydana gelen bozulmalar",
+     "soru": "4458 sayılı Gümrük Kanununa göre beyannamenin tescilinden sonra eşyanın niteliklerinde meydana gelen değişiklik veya bozulmalar nedeniyle ithalat vergilerinden indirim yapılır mı?",
+     "cevap": "İndirim yapılmaz. Ancak ilk madde olarak kullanılması mümkün hale gelen eşyanın ilk madde olarak beyan edilmesine gümrük idarelerince izin verilir.",
+     "dayanak": "GK md. 64/3",
+     "kanit": "Beyannamenin tescilinden sonra, eşyanın niteliklerinde meydana gelen değişiklikler veya bozulmalar nedeniyle ithalat vergilerinden indirim yapılmaz. ... Özellikle ilk madde olarak kullanılması mümkün hale gelen eşyanın ilk madde olarak beyan edilmesine gümrük idarelerince izin verilir."
+    },
+    {
+     "alt_konu": "Muayene ve numune giderleri, beyan sahibinin hazır bulunması ve numune tazminatı",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın muayene ve numune alma yerlerine taşınması, elleçlenmesi ile numunelerin ambalajlanması ve gönderilmesine ilişkin giderleri kim karşılar?",
+     "cevap": "Bu giderlerin tamamı beyan sahibi tarafından karşılanır.",
+     "dayanak": "GK md. 66/2",
+     "kanit": "Eşyanın muayene edileceği ve numunelerin alınacağı yerlere taşınması ile bu muayene ve numune alma işlemleri için gerekli tüm elleçleme ile numunelerin ambalajlanmasına ve gönderilmesine ilişkin giderleri beyan sahibi tarafından karşılanır."
+    },
+    {
+     "alt_konu": "Muayene ve numune giderleri, beyan sahibinin hazır bulunması ve numune tazminatı",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idareleri aldıkları numuneler karşılığında tazminat ödemekle yükümlü müdür?",
+     "cevap": "Numunelerin yürürlükteki hükümlere uygun olarak alınması şartıyla gümrük idareleri numuneler karşılığında herhangi bir tazminat ödemekle yükümlü değildir.",
+     "dayanak": "GK md. 66/4",
+     "kanit": "Numunelerin yürürlükteki hükümlere uygun olarak alınması şartıyla, gümrük idareleri, numuneler karşılığında herhangi bir tazminat ödemekle yükümlü değildir."
+    },
+    {
+     "alt_konu": "Kısmi muayene ve birden fazla kalemli beyanname",
+     "soru": "4458 sayılı Gümrük Kanununa göre tek kalemden oluşan bir beyanname kapsamı eşyanın kısmen muayene edilmesi halinde muayene sonuçları nasıl uygulanır?",
+     "cevap": "Kısmi muayene sonuçları beyanname kapsamı eşyanın tümüne uygulanır; beyan sahibi bu sonuçların kalan kısım için geçerli olmadığı düşüncesindeyse eşyanın tamamının muayenesini talep edebilir.",
+     "dayanak": "GK md. 67/1",
+     "kanit": "Bir beyanname kapsamı eşyanın tek kalemden oluşması ve kısmen muayene edilmesi halinde, muayene sonuçları söz konusu beyanname kapsamı eşyanın tümüne uygulanır. ... eşyanın tamamının muayenesini talep edebilir."
+    },
+    {
+     "alt_konu": "Kısmi muayene ve birden fazla kalemli beyanname",
+     "soru": "4458 sayılı Gümrük Kanununa göre birden fazla kalemi kapsayan bir beyannamede bir kalemde çıkan eksiklik diğer kalemdeki fazlalığa mahsup edilebilir mi?",
+     "cevap": "Edilemez. Her kaleme ilişkin bilgiler ayrı bir beyan sayılır ve bir kalemin eksik veya fazlası diğer kalemin fazla veya eksiğine mahsup edilemez.",
+     "dayanak": "GK md. 67/2",
+     "kanit": "Bir beyannamenin iki veya daha fazla kalemi kapsaması halinde, her kaleme ilişkin bilgiler ayrı bir beyan sayılır. Bir kalemin eksik veya fazlası, diğer kalemin fazla veya eksiğine mahsup edilemez."
+    },
+    {
+     "alt_konu": "Ayniyet tespitine yönelik etiket ve mühürlerin sökülmesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyaya veya taşıtlara ayniyet tespiti amacıyla tatbik edilen etiket ve mühürler kim tarafından sökülebilir?",
+     "cevap": "Beklenmeyen hal veya mücbir sebep nedeniyle eşyanın veya taşıtın korunması için zorunlu olmadıkça, yalnız gümrük idareleri tarafından veya bu idarelerin izni ile sökülebilir ya da imha edilebilir.",
+     "dayanak": "GK md. 68/2",
+     "kanit": "beklenmeyen hal veya mücbir sebep nedeniyle, eşyanın veya taşıtların korunmasını sağlamak için sökülmeleri veya imhaları zorunlu olmadıkça, yalnız gümrük idareleri tarafından veya bu idarelerin izni ile sökülebilir ya da imha edilebilir."
+    },
+    {
+     "alt_konu": "Eşyanın teslimi koşulları",
+     "soru": "4458 sayılı Gümrük Kanununa göre beyannamenin tescili gümrük yükümlülüğü doğuruyorsa, vergiler ödenmeden veya teminata bağlanmadan eşya teslim edilebilir mi?",
+     "cevap": "Gümrük vergileri ödenmedikçe veya teminata bağlanmadıkça eşya teslim edilemez; ancak bu hüküm kısmi muafiyete tabi geçici ithalat rejimine uygulanmaz.",
+     "dayanak": "GK md. 69/3",
+     "kanit": "gümrük vergileri ödenmedikçe veya teminata bağlanmadıkça beyanname kapsamı eşya teslim edilemez. Ancak, bu hüküm kısmi muafiyete tabi geçici ithalat rejimine uygulanamaz."
+    },
+    {
+     "alt_konu": "Süresinde işlemi tamamlanmayan eşya ve antrepoda otuz günlük süre",
+     "soru": "4458 sayılı Gümrük Kanununa göre beyan sahibinden kaynaklanan sebeplerle tescil edilmiş beyanname kapsamı eşyanın muayenesine süresi içinde başlanamaması, gerekli belgelerin verilmemesi veya vergilerin ödenmemesi hallerinde nasıl işlem yapılır?",
+     "cevap": "Eşya muayene edilir; para cezası veya diğer takipleri gerektiren ya da gerektirmeyen durumlar bir tutanağa bağlanır ve daha sonra eşya tasfiye hükümlerine göre tasfiye edilir.",
+     "dayanak": "GK md. 70/1",
+     "kanit": "Hallerinde, eşya muayene edilir. Muayene sonucunda gümrük idarelerince alınacak para cezasını veya diğer takipleri gerektiren veya gerektirmeyen durumlar bir tutanağa bağlanır ve daha sonra eşya 177 ila 180 inci madde hükümlerine göre tasfiye edilir."
+    },
+    {
+     "alt_konu": "Basitleştirilmiş usul türleri ve tamamlayıcı beyan",
+     "soru": "4458 sayılı Gümrük Kanununa göre gümrük idareleri basitleştirilmiş usul kapsamında hangi kolaylıklara izin verebilir?",
+     "cevap": "Beyannameye eklenmesi gereken bazı belgelerin eklenmemesine ve bazı bilgilerin yazılmamasına, beyanname yerine ticari veya idari bir belge verilmesine ve eşyanın ilgili rejime geçişinin kayıt yoluyla yapılmasına izin verebilir.",
+     "dayanak": "GK md. 71/1",
+     "kanit": "beyannameye eklenmesi gereken belgelerden bazılarının eklenmemesine ... ticari veya idari bir belgenin verilmesine, ... Eşyanın ilgili rejime geçişinin kayıt yoluyla yapılmasına,"
+    },
+    {
+     "alt_konu": "Basitleştirilmiş usul türleri ve tamamlayıcı beyan",
+     "soru": "4458 sayılı Gümrük Kanununa göre basitleştirilmiş usulde verilen tamamlayıcı beyan hangi tarihten itibaren hüküm ifade eder?",
+     "cevap": "Genel, dönemsel veya özet nitelikte olabilen tamamlayıcı beyanlar, basitleştirilmiş beyanlarla ayrılmaz bir bütün oluşturur ve basitleştirilmiş işleme ilişkin beyannamelerin tescil tarihinden itibaren hüküm ifade eder.",
+     "dayanak": "GK md. 71/2-3",
+     "kanit": "Beyan sahibi genel, dönemsel veya özet niteliğinde bir tamamlayıcı beyanda bulunur. ... ayrılmaz bir bütündür ve basitleştirilmiş işleme ilişkin beyannamelerin tescil tarihinden itibaren hüküm ifade ederler."
+    },
+    {
+     "alt_konu": "Eşyanın tesliminden sonra beyanın kontrolü",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın tesliminden sonra beyanın kontrolü kapsamında ticari belge ve veriler kimlere ait yerlerde kontrol edilebilir?",
+     "cevap": "Beyan sahibine, söz konusu işlemlerle doğrudan veya dolaylı olarak ticari yönden ilgili diğer kişilere ya da belge ve verileri ticari amaçla elinde bulunduran diğer kişilere ait yerlerde kontrol yapılabilir; mümkünse eşya muayene de edilebilir.",
+     "dayanak": "GK md. 73/1",
+     "kanit": "Bu kontroller beyan sahibine, söz konusu işlemler ile doğrudan ya da dolaylı olarak ticari yönden ilgili diğer kişilere veya belge ve verileri ticari amaçla elinde bulunduran diğer kişilere ait yerlerde yapılabilir."
+    },
+    {
+     "alt_konu": "Gümrük beyannamesi ve bilgisayar veri işleme tekniğiyle beyan esası",
+     "soru": "Gümrük Yönetmeliğine göre gümrük beyanının hangi yolla yapılması esastır ve beyanın elektronik imzayla yapılamayacağı istisnai halleri kim belirler?",
+     "cevap": "Beyanın bilgisayar veri işleme tekniği yoluyla yapılması esastır; elektronik imzayla yapılamayacağı istisnai haller Bakanlıkça belirlenir.",
+     "dayanak": "GY md. 112/2",
+     "kanit": "Beyanın, bilgisayar veri işleme tekniği yoluyla yapılması esastır. Ancak, beyanın elektronik imzayla yapılamayacağı istisnai haller Bakanlıkça belirlenir."
+    },
+    {
+     "alt_konu": "Beyanın bağlayıcılığı ve beyannamenin devredilemezliği",
+     "soru": "Gümrük Yönetmeliğine göre tescil edilmiş beyanname başkasına devredilebilir mi; eşyanın başkasına satılması beyan sahibinin yükümlülüklerini ortadan kaldırır mı?",
+     "cevap": "Beyanın bağlayıcı olması nedeniyle beyanname başkasına devredilemez; eşyanın başkalarına satılması da beyan sahiplerini yükümlülüklerinden kurtarmaz.",
+     "dayanak": "GY md. 113/1",
+     "kanit": "Beyanın bağlayıcı olması nedeniyle beyanname başkasına devredilemez; eşyanın başkalarına satılması beyan sahiplerini yükümlülüklerinden kurtarmaz."
+    },
+    {
+     "alt_konu": "Beyannameye eklenecek belgeler ve eklenmeyen belgelerin muhafazası",
+     "soru": "Gümrük Yönetmeliğine göre mevzuatta sayılan zorunlu belgeler dışında gümrük beyannamesine başka belge eklenir mi?",
+     "cevap": "Eklenmez. Bakanlıkça belirlenecek haller hariç ve eksik beyan hükümleri saklı kalmak kaydıyla, Bakanlığın internet sayfasında duyurulan zorunlu belgeler (tercihli tarife ve vergi avantajı sağlayan belgeler, kanun veya uluslararası düzenleme gereği zorunlu belgeler, ticaret politikası önlemi belgeleri, tescil öncesi ayniyet tespiti belgeleri vb.) dışında beyannameye herhangi bir belge eklenmez.",
+     "dayanak": "GY md. 114/1",
+     "kanit": "Bu belgeler dışında gümrük beyannamesine herhangi bir belge eklenmez. ... Tercihli tarife uygulanabilmesi için gerekli olan belgeler ile vergilendirmeyi doğrudan etkileyen veya yükümlüye vergi avantajı sağlayan belgeler,"
+    },
+    {
+     "alt_konu": "Beyannameye eklenecek belgeler ve eklenmeyen belgelerin muhafazası",
+     "soru": "Gümrük Yönetmeliğine göre beyanname ekinde ibrazı istenmeyen belgeler kim tarafından ve ne süreyle muhafaza edilir?",
+     "cevap": "Gerekli görüldüğünde ibraz edilmek üzere adına beyanname düzenlenen yükümlü tarafından, transit rejiminde ise asıl sorumlu tarafından belge saklama süresi boyunca muhafaza edilir.",
+     "dayanak": "GY md. 114/2",
+     "kanit": "gerekli görüldüğünde gümrük idaresine ibraz edilmek üzere adına beyanname düzenlenen yükümlü tarafından, transit rejiminde ise asıl sorumlu tarafından belge saklama süresi boyunca muhafaza edilir."
+    },
+    {
+     "alt_konu": "Fatura",
+     "soru": "Gümrük Yönetmeliğine göre ihracata ilişkin gümrük beyannamesiyle ibraz edilen ve yurt dışındaki alıcılar adına düzenlenen faturalarda satış bedeli hangi para cinsinden gösterilebilir?",
+     "cevap": "Yabancı para cinsinden gösterilebilir.",
+     "dayanak": "GY md. 115/2",
+     "kanit": "İhracata ilişkin gümrük beyannameleri ile birlikte ibraz edilmesi gereken yurt dışındaki alıcılar adına düzenlenmiş faturalarda satış bedeli yabancı para cinsinden gösterilebilir."
+    },
+    {
+     "alt_konu": "Ayrıntılı fatura",
+     "soru": "Gümrük Yönetmeliğine göre ayrıntılı faturanın beyanname ile birlikte idareye verilmesi hangi durumda gerekir?",
+     "cevap": "Faturalarda her kabın içinde satış birimine göre ne miktar eşya bulunduğu gösterilmediği takdirde ayrıntılı faturanın beyanname ile birlikte verilmesi gerekir. Ayrıntılı fatura, kıymet üzerinden vergiye tabi, birden fazla kapta gelen ve çeşitli cins ve kıymetteki eşya için satıcı veya gönderici tarafından düzenlenir (çeki listesiyle karıştırılmamalıdır).",
+     "dayanak": "GY md. 116",
+     "kanit": "Faturalarda her kabın içinde satış birimine göre ne miktar eşya bulunduğu gösterilmediği takdirde, ayrıntılı faturanın beyanname ile birlikte idareye verilmesi gerekir."
+    },
+    {
+     "alt_konu": "Çeki listesi",
+     "soru": "Gümrük Yönetmeliğine göre çeki listesini kimler hazırlayabilir?",
+     "cevap": "Çeki listesi satıcı veya gönderici tarafından fatura ile birlikte hazırlanabileceği gibi beyan sahibi tarafından da hazırlanabilir.",
+     "dayanak": "GY md. 117/2",
+     "kanit": "Çeki listesi satıcı veya gönderici tarafından fatura ile birlikte hazırlanabileceği gibi, beyan sahibi tarafından da hazırlanabilir."
+    },
+    {
+     "alt_konu": "Taşıma belgeleri (konşimento, hava konşimentosu, CMR, CIM/CIV)",
+     "soru": "Gümrük Yönetmeliğine göre deniz yoluyla yapılan taşımalarda taşıma belgesi olarak konşimento kim tarafından kime verilir?",
+     "cevap": "Geminin kaptanı veya donatanı veya mümessili tarafından yükletene verilir. (Hava taşımalarında hava konşimentosu, karayolunda CMR, demiryolunda CIM ve CIV belgeleri kullanılır.)",
+     "dayanak": "GY md. 118/1",
+     "kanit": "Deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından yükletene taşıma belgesi olarak konşimento verilir."
+    },
+    {
+     "alt_konu": "İşlenmiş Tarım Ürünleri Beyan Formu/Analiz Sonuç Raporu ve Kıymet Bildirim Formu",
+     "soru": "Gümrük Yönetmeliğine göre İşlenmiş Tarım Ürünleri Beyan Formu/Analiz Sonuç Raporu nedir ve kim tarafından onaylanır?",
+     "cevap": "İşlenmiş tarım ürünlerinin serbest dolaşıma sokulması halinde bu ürünlerdeki tarım paylarını belirten, kimyager tarafından onaylanmış belgedir.",
+     "dayanak": "GY md. 119/1",
+     "kanit": "işlenmiş tarım ürünlerinin serbest dolaşıma sokulması halinde, bu ürünlerdeki tarım paylarını belirten ve kimyager tarafından onaylanmış, ek-15'te yer alan belgedir."
+    },
+    {
+     "alt_konu": "Beyannamede düzeltme: başka eşya kavramı ve teslimden sonra üç yıllık süre",
+     "soru": "Gümrük Yönetmeliğine göre beyannamede düzeltmeye izin verilmemesine yol açan 'başka bir eşya' ifadesinden ne anlaşılır?",
+     "cevap": "Tarife alt pozisyonu değişen eşya; alt pozisyon değişmese bile her türlü vergi ve ek mali yükümlülüğün oranında veya miktarında ya da ticaret politikası önlemine ilişkin hak ve menfaatlerde farklılık gösteren eşya başka bir eşya sayılır.",
+     "dayanak": "GY md. 121/1",
+     "kanit": "tarife alt pozisyonu değişen, değişmemesi durumunda ise her türlü vergi ile ek mali yükümlülüğün ad valorem usulde oran veya spesifik usulde miktarına ve/veya ticaret politikası önlemine ilişkin faydalanılacak hak ve menfaatlerde farklılık gösteren eşya anlaşılır."
+    },
+    {
+     "alt_konu": "Beyannamede düzeltme: başka eşya kavramı ve teslimden sonra üç yıllık süre",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın tesliminden sonra yükümlünün talebi üzerine beyannamede düzeltme yapılmasına hangi süre içinde izin verilir?",
+     "cevap": "Cezai hükümler saklı kalmak kaydıyla beyanname tescil tarihinden itibaren üç yıl içinde izin verilir; dahilde işleme rejimi için bu sürenin daha uzun belirlenmesine Müsteşarlık yetkilidir.",
+     "dayanak": "GY md. 121/4",
+     "kanit": "Cezai hükümler saklı kalmak kaydıyla, beyanname tescil tarihinden itibaren üç yıllık süre içinde yükümlünün talebi üzerine Kanunun 73 üncü maddesinin ikinci fıkrası uyarınca beyannamede düzeltme yapılmasına izin verilir."
+    },
+    {
+     "alt_konu": "Bölünmüş beyanname",
+     "soru": "Gümrük Yönetmeliğine göre bir beyanname kapsamında olup farklı kalemlerde bulunan eşyadan bir kalemin çekilmesi talebi hangi aşamadan sonra kabul olunur?",
+     "cevap": "Eşyanın muayenesi yapıldıktan ve para cezasına hükmedilmesini gerektiren bir durum varsa bunun eşya sahibi veya temsilcisine duyurulmasından sonra kabul olunur; çekilecek kısım için asıl beyannameye uygun ayrı bir beyanname alınır.",
+     "dayanak": "GY md. 122/1-2",
+     "kanit": "bu istek, eşyanın muayenesi yapıldıktan ve para cezasına hükmedilmesini gerektirir bir durumun olması halinde bunun eşya sahip veya temsilcilerine duyurulmasından sonra kabul olunur."
+    },
+    {
+     "alt_konu": "Teslimden önce iptal ve tasfiyelik eşyanın beyannamesi",
+     "soru": "Gümrük Yönetmeliğine göre beyan sahibinden kaynaklanan gecikme nedeniyle tasfiyesine karar verilen eşyaya ait beyannameye ne işlem yapılır?",
+     "cevap": "Beyanname iptal edilir ve iptalin gerekçesi belirtilir.",
+     "dayanak": "GY md. 123/2",
+     "kanit": "Kanunun 70 inci maddesi hükümleri çerçevesinde tasfiyesine karar verilen eşyaya ait beyanname iptal edilir ve gerekçesi belirtilir."
+    },
+    {
+     "alt_konu": "Yanlış rejim beyanı nedeniyle teslimden sonra iptal",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın yanlışlıkla ithalat vergilerinin ödenmesini gerektiren bir rejime tabi tutulması nedeniyle teslimden sonra beyannamenin iptali için hangi şartların tamamının kanıtlanması gerekir?",
+     "cevap": "Eşyanın herhangi bir kullanımının istenilen rejime tabi tutulmasına engel olmaması, tescil sırasında istenilen rejime ilişkin bütün yükümlülüklerin yerine getirilmiş olması ve eşyanın istenilen rejime gecikmeksizin girişinin mümkün olması gerekir.",
+     "dayanak": "GY md. 124/1",
+     "kanit": "Beyanname konusu eşyanın herhangi bir kullanımının beyan edilmek istenilen gümrük rejimine tabi tutulmasına engel olmaması, ... Eşyanın beyan edilmek istenilen rejime gecikmeksizin girişinin mümkün olması."
+    },
+    {
+     "alt_konu": "Başka eşyanın beyanı nedeniyle teslimden sonra iptal",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın yanlışlıkla aynı rejime konu olabilecek başka bir eşya yerine beyan edilmesi nedeniyle teslimden sonra beyannamenin iptali hangi şartlara bağlıdır?",
+     "cevap": "Tescilden itibaren üç ay içinde talepte bulunulması; yanlış beyana konu eşyanın orijinal halini koruması ve izin verilenden başka şekilde kullanılmamış olması; gerçekte beyan edilmek istenen eşyanın ilk beyannamenin tescili sırasında aynı gümrük idaresine sunulmasının ve aynı rejime tabi tutulmasının mümkün olması gerekir.",
+     "dayanak": "GY md. 125/1",
+     "kanit": "Yanlış beyana konu eşyanın orijinal halini koruması, izin verildiği şekilden başka bir şekilde kullanılmamış olması, ... aynı gümrük idaresine sunulmasının ve aynı gümrük rejimine tabi tutulmasının mümkün olması."
+    },
+    {
+     "alt_konu": "Geriye dönük izin verilmesi halinde beyannamenin iptali",
+     "soru": "Gümrük Yönetmeliğine göre daha önce serbest dolaşıma girmiş eşyanın tercihli tarife veya nihai kullanım nedeniyle indirimli ya da sıfır vergi oranından yararlanabilmesi için geriye dönük izin verilmesi durumunda önceki beyannameye ne olur?",
+     "cevap": "Müsteşarlıkça belirlenecek şartlar dahilinde geriye dönük izin verilmesi durumunda daha önceki beyanname iptal edilir.",
+     "dayanak": "GY md. 126/1",
+     "kanit": "Müsteşarlıkça belirlenecek şartlar dahilinde geriye dönük izin verilmesi durumunda daha önceki beyanname iptal edilir."
+    },
+    {
+     "alt_konu": "İhracat veya hariçte işleme rejimine ilişkin beyannamenin iptali",
+     "soru": "Gümrük Yönetmeliğine göre ihracat vergilerine veya ihracata bağlı önlemlere konu eşyanın ihracat ya da hariçte işleme beyannamesinin iptali için beyan sahibinin ihracat işlemlerinin yapıldığı gümrük idaresine neleri belgelemesi gerekir?",
+     "cevap": "Süresi içinde müracaat ederek eşyanın gümrük bölgesini terk etmediğini belgelemesi, tescil sırasında sunulan belgeleri ibraz etmesi ve ihracat nedeniyle sağlanan bütün hak ve menfaatlerin iade edildiğini veya bunlardan yararlandırılmaması için tedbir alındığını kanıtlaması gerekir.",
+     "dayanak": "GY md. 127/1",
+     "kanit": "Beyanname konusu eşyanın gümrük bölgesini terk etmediğinin ihracata ilişkin işlemlerin yapıldığı gümrük idaresine belgelenmesi, ... İhracat nedeniyle beyan sahibine sağlanan bütün hak ve menfaatlerin iade edildiğinin"
+    },
+    {
+     "alt_konu": "Antrepo rejimine tabi serbest dolaşım eşyasına ilişkin beyannamenin iptali",
+     "soru": "Gümrük Yönetmeliğine göre ihracata bağlı önlemlerden yararlanan ve antrepo rejimine tabi tutulan serbest dolaşımdaki eşya için antrepoda kalış süresi içinde gümrükçe onaylanmış bir işlem veya kullanıma ilişkin başvuru yapılmazsa ne olur?",
+     "cevap": "Gümrük mevzuatı ve ihracata bağlı önlemlere ilişkin mevzuat uyarınca gerekli önlemler alınmak kaydıyla antrepo beyannamesi gümrük idaresince iptal edilir.",
+     "dayanak": "GY md. 128/2",
+     "kanit": "Eşyanın antrepo rejimi altında kalış süresi içerisinde, gümrükçe onaylanmış bir işlem veya kullanıma tahsis edilmesine ilişkin bir başvurunun yapılmamış olması halinde ... gerekli önlemlerin alınması kaydıyla beyanname iptal edilir."
+    },
+    {
+     "alt_konu": "Posta veya hızlı kargo eşyasının iadesinde beyannamenin iptali",
+     "soru": "Gümrük Yönetmeliğine göre posta veya hızlı kargo yoluyla gelen eşyanın tesliminden sonra iade edilmesi halinde beyannamenin iptali hangi şartlara bağlıdır?",
+     "cevap": "Beyan sahibinin beyannamenin tescil tarihinden itibaren üç ay içinde başvurması ve eşyanın gerçek tedarikçisine ya da tedarikçinin tayin ettiği adrese geri gönderilmesi şartıyla beyanname iptal edilir.",
+     "dayanak": "GY md. 129/1",
+     "kanit": "beyan sahibinin beyannamenin tescil edildiği tarihten itibaren üç ay içerisinde başvuruda bulunması ve eşyanın gerçek tedarikçisine ya da tedarikçisi tarafından tayin edilen adrese geri gönderilmesi şartıyla beyanname iptal edilir."
+    },
+    {
+     "alt_konu": "Eşyanın teslimi: hızlı kargo ve tahlil sonucu beklenmeden teslim",
+     "soru": "Gümrük Yönetmeliğine göre hızlı kargo yoluyla gelen eşyanın serbest dolaşıma giriş beyannamesinin incelenmesi hangi süre içinde tamamlanamazsa eşya teslim edilir?",
+     "cevap": "Beyannamenin gümrük idaresine verilmesinden itibaren altı saat içinde incelenmesi tamamlanamazsa eşya teslim edilir; muayenenin zorunlu görüldüğü taşıyıcı veya işletmeciye bildirilmişse bu süre kısıtlaması uygulanmaz.",
+     "dayanak": "GY md. 130/2",
+     "kanit": "Hızlı kargo taşımacılığı yoluyla gelen eşyanın serbest dolaşıma girişine ilişkin beyannamesinin gümrük idaresine verilmesinden itibaren altı saat içerisinde bu beyannamenin incelenmesinin tamamlanamaması halinde de eşya teslim edilir."
+    },
+    {
+     "alt_konu": "Eşyanın teslimi: hızlı kargo ve tahlil sonucu beklenmeden teslim",
+     "soru": "Gümrük Yönetmeliğine göre tahlile tabi eşyanın tahlil sonucu beklenmeden teslimi talep edildiğinde teminata bağlanacak tutar nasıl belirlenir?",
+     "cevap": "Beyan edilen GTİP'e karşılık gelen vergi oranı ile beyan edilen fasıldaki en yüksek vergi oranı arasındaki farka karşılık gelen tutar teminata bağlanır; ayrıca taahhütname alınır, şahit numune alınır ve eşya yediemin olarak teslim edilir.",
+     "dayanak": "GY md. 130/3",
+     "kanit": "eşyanın beyan edilen gümrük tarife istatistik pozisyonuna karşılık gelen vergi oranı ile beyan edilen fasıldaki en yüksek vergi oranı arasındaki farka karşılık gelen tutarın teminata bağlanarak ... yediemin olarak teslim edilir."
+    },
+    {
+     "alt_konu": "Kurye mektubu ve kurye kaplarının işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre kurye oldukları anlaşılan kişilerin getirip götürdükleri resmi ve gizli evrakı içeren kurye kapları nasıl işlem görür?",
+     "cevap": "Dıştan muayene ve inceleme yapılarak kurye mektuplarının uygun ve resmi mühürle mühürlenmiş olduğu görülürse, kaplar açılıp kapsamı muayene edilmeksizin üzerlerine etiket yapıştırılarak veya işaret konularak geçirilir.",
+     "dayanak": "GY md. 134/1",
+     "kanit": "bunları açıp kapsamını muayene etmeksizin, üzerlerine etiket yapıştırarak veya işaret koyarak geçirilmelerine izin verir."
+    },
+    {
+     "alt_konu": "Kurye mektubu ve kurye kaplarının işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre dışarıdan gelen kuryelerin beraberindeki kaplardan mühürleri sağlam olmayan veya kurye mektubu gösterilmeyenler hakkında nasıl işlem yapılır?",
+     "cevap": "Kaplara gümrüğün mührü tatbik edilir, durum tutanakla tespit edilir ve kaplar kuryenin sorumluluğu altında Esenboğa Gümrük Müdürlüğüne sevk edilir; durum mahalli gümrük amirince en seri şekilde Müsteşarlığa bildirilir.",
+     "dayanak": "GY md. 135/1",
+     "kanit": "kaplara gümrüğün mührü tatbik edilir ve durum bir tutanakla tespit edildikten sonra kuryenin sorumluluğu altında Esenboğa Gümrük Müdürlüğüne sevk edilir."
+    },
+    {
+     "alt_konu": "Basitleştirilmiş usullerden yararlanma koşulları",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın kayıt yoluyla rejime girişi usulünden kimler yararlandırılabilir ve bu usul hangi koşula bağlıdır?",
+     "cevap": "Yalnızca yetkilendirilmiş yükümlü sertifikası sahipleri yararlandırılabilir; usulden yararlanma, ihracat rejimi hariç, kapsamı ve miktarı Bakanlıkça belirlenecek teminatın verilmesi koşuluna bağlıdır. (Eksik beyan YYS/OKSB sahiplerine açıktır; ticari/idari belge usulünde bu statüler aranmaz.)",
+     "dayanak": "GY md. 140/3-4",
+     "kanit": "eşyanın kayıt yoluyla rejime girişi usulünden yetkilendirilmiş yükümlü sertifikasına sahip kişiler yararlandırılabilir. ... ihracat rejimi hariç olmak üzere, kapsamı ve miktarı Bakanlıkça belirlenecek teminatın verilmesi koşuluna bağlıdır."
+    },
+    {
+     "alt_konu": "İzinli gönderici kapsamında ihracat beyannamesinin yerleşik yer gümrük idaresine verilmesi",
+     "soru": "Gümrük Yönetmeliğine göre izinli gönderici yetkisi kapsamında taşınacak ihracat eşyasına ilişkin beyanname hangi gümrük idaresine verilebilir?",
+     "cevap": "İzinli gönderici tesisinin bağlı bulunduğu gümrük idaresi yerine kişinin yerleşik olduğu yerdeki gümrük idaresine verilmesine izin verilebilir; bu durumda belge kontrolü ve muayene, eşyanın sunulduğu yerdeki muayene memurunca beyanın verildiği idare adına yapılır.",
+     "dayanak": "GY md. 141/A",
+     "kanit": "gümrük beyannamesinin izinli gönderici tesisinin bağlı bulunduğu gümrük idaresi yerine kişinin yerleşik olduğu yerdeki gümrük idaresine verilmesine izin verilebilir."
+    },
+    {
+     "alt_konu": "Serbest dolaşıma girişte eksik beyan ve zorunlu unsurlar",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşıma giriş rejiminde, serbest dolaşımdan önce ibrazı gerekli belgelerden bir ya da birkaçını içermeyen eksik beyanlarda hangi hususlar zorunludur?",
+     "cevap": "İlgili belgenin mevcut ve geçerli olması, beyanın kabulündeki gecikmenin serbest dolaşıma girişi engelleyeceğinin veya daha yüksek vergilendirmeye yol açacağının belli olması ve eksik belgeye ilişkin bilgilerin her durumda beyanda gösterilmesi zorunludur.",
+     "dayanak": "GY md. 143/2",
+     "kanit": "İlgili belgenin mevcut ve geçerli olduğunun, ... daha yüksek bir oranda vergilendirmeye yol açacağının belli olması ve ... Eksik belgeye ilişkin bilgilerin her durumda beyanda gösterilmesi,"
+    },
+    {
+     "alt_konu": "Serbest dolaşıma girişte eksik beyanın tamamlanma süreleri",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşıma giriş rejiminde eksik beyan kapsamında indirimli veya sıfır oranlı ithalat vergisi uygulanması için gereken belgelerin tamamlanması amacıyla ek süre verilebilir mi?",
+     "cevap": "Tescilden itibaren bir ayı geçemeyen tamamlama süresine ek olarak, eşyanın indirimli veya sıfır oranda vergilendirileceği konusunda yeterli nedenlerin olması ve beyan sahibinin talebi üzerine ek süre verilebilir; ek süre üç ayı geçemez.",
+     "dayanak": "GY md. 144/1-2",
+     "kanit": "İndirimli veya sıfır oranında ithalat vergisinin uygulanması için gereken belgelerin eksikliği durumunda ... beyan sahibinin talebi üzerine söz konusu belgenin tamamlanması için ek süre verilebilir. Bu şekilde verilecek ek süre üç ayı geçemez."
+    },
+    {
+     "alt_konu": "Serbest dolaşıma girişte eksik beyanın tamamlanma süreleri",
+     "soru": "Gümrük Yönetmeliğine göre eksik beyan usulüyle tescil edilen beyannamedeki eksiklikler gümrük idaresince verilen süre içinde tamamlanmazsa vergilerin ödenmesi ertelenir mi?",
+     "cevap": "Ertelenmez; söz konusu beyanname kapsamı eşyanın ödenmesi gereken vergileri ertelenmez.",
+     "dayanak": "GY md. 144/5",
+     "kanit": "verilen süre içinde bu eksikliklerin tamamlanmaması halinde, söz konusu beyanname kapsamı eşyanın ödenmesi gereken vergileri ertelenmez."
+    },
+    {
+     "alt_konu": "Eksik beyanda vergilendirme, eksik belgenin süresinde sunulmaması ve esas alınacak tarih",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşıma girişte eksik belgeler süresi içinde sunulmazsa noksan alınan vergiler ve faiz hangi süre içinde ödenir?",
+     "cevap": "Normal oranlara göre belirlenen noksan gümrük vergileri ile 6183 sayılı Kanuna göre gecikme zammı oranında hesaplanan faizin, yükümlüye tebliğ edildiği tarihi takip eden on beş gün içinde ödenmesi zorunludur.",
+     "dayanak": "GY md. 145/2",
+     "kanit": "gecikme zammı oranında faizin yükümlüye tebliğ edildiği tarihi takiben onbeş gün içinde ödenmesi zorunludur."
+    },
+    {
+     "alt_konu": "Eksik beyanda vergilendirme, eksik belgenin süresinde sunulmaması ve esas alınacak tarih",
+     "soru": "Gümrük Yönetmeliğine göre eksik beyanı içeren beyanname tamamlandığında veya yeni bir beyanname ile değiştirildiğinde gümrük vergilerinin hesaplanmasında hangi tarih esas alınır?",
+     "cevap": "Her iki durumda da eksik beyanı içeren beyannamenin tescil edildiği tarih esas alınır.",
+     "dayanak": "GY md. 146/2",
+     "kanit": "Her iki durumda da, gümrük vergilerinin hesaplanması ve eşyanın serbest dolaşıma girişini düzenleyen diğer hükümlerin uygulanmasında, eksik beyanı içeren beyannamenin tescil edildiği tarih esas alınır."
+    },
+    {
+     "alt_konu": "Özelliği olan eşyanın tesliminde basitleştirilmiş usul",
+     "soru": "Gümrük Yönetmeliğine göre özelliği olan eşyanın tesliminde basitleştirilmiş usulden yararlanabilmesi için radyoaktif maddelerde hangi belgenin ibrazı şarttır?",
+     "cevap": "Türkiye Atom Enerjisi Kurumunun uygunluk yazısının ibrazı şarttır. Özelliği olan eşyada basitleştirilmiş usul talebi, YYS veya onaylanmış kişi statüsü koşulları aranmaksızın ilgili gümrük idaresince değerlendirilir.",
+     "dayanak": "GY md. 147/1-2",
+     "kanit": "Türkiye Atom Enerjisi Kurumunun uygunluk yazısının ibrazı şartıyla radyoaktif maddeler, ... yetkilendirilmiş yükümlü veya onaylanmış kişi statüsüne ilişkin koşullar aranmaksızın ilgili gümrük idaresince değerlendirilip kabul edilebilir."
+    },
+    {
+     "alt_konu": "Serbest dolaşıma girişte beyanname yerine ticari veya idari belge",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşıma giriş rejiminde beyanname yerine ticari veya idari belge ile işlem yapılabilmesi için aynı gümrük idaresinden sürekli ve periyodik olarak ithal edilen 'diğer eşya'nın kıymeti hangi sınırı geçmemelidir?",
+     "cevap": "CIF kıymeti 500 Avro'yu geçmemelidir. Bu usul ayrıca aşılar, kan ve plazma gibi ürünler, canlı hayvanlar ve akvaryum balıkları gibi eşya için de uygulanır.",
+     "dayanak": "GY md. 148/1",
+     "kanit": "akvaryum balıkları ile CIF kıymeti 500 Avro'yu geçmeyen diğer eşyayı aynı gümrük idaresinden sürekli ve periyodik olarak ithal edenlerin"
+    },
+    {
+     "alt_konu": "Serbest dolaşıma girişte beyanname yerine ticari veya idari belge",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşıma giriş rejiminde beyanname yerine ticari veya idari belge ile işlem yapılmasına ilişkin yazılı talepler ne kadar süreyle geçerli olmak üzere kabul edilir?",
+     "cevap": "YYS veya onaylanmış kişi statüsü koşulları aranmaksızın altı ay süreyle geçerli olmak üzere kabul edilir.",
+     "dayanak": "GY md. 148/1",
+     "kanit": "yetkilendirilmiş yükümlü veya onaylanmış kişi statüsüne ilişkin koşullar aranmaksızın altı ay süreyle geçerli olmak üzere kabul edilir."
+    },
+    {
+     "alt_konu": "Serbest dolaşıma girişte tamamlayıcı beyan",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşıma girişte bir ay içinde basitleştirilmiş usule göre yapılan işlemlere ilişkin tamamlayıcı beyan ne zaman verilmelidir?",
+     "cevap": "İzleyen ayın ilk üç günü içinde verilmesi zorunludur. Beyanın eksik kıymet unsuru içermesi halinde ise tamamlayıcı beyan, unsurun tahakkuk ettiği ayı takip eden ayın yirmi altıncı günü akşamına kadar verilir.",
+     "dayanak": "GY md. 150/2-3",
+     "kanit": "Bir ay içinde gerçekleştirilen basitleştirilmiş usule göre yapılan işlemlere ilişkin tamamlayıcı beyanın, izleyen ayın ilk üç günü içinde verilmesi zorunludur."
+    },
+    {
+     "alt_konu": "Ekonomik etkili rejimdeki eşyanın basitleştirilmiş usulle serbest dolaşıma girişi ve antrepo tipleri",
+     "soru": "Gümrük Yönetmeliğine göre antrepo rejimine tabi tutulmuş ithal eşyasının kayıt yoluyla, gümrüğe sunulmaksızın ve beyanname verilmeden serbest dolaşıma girmek üzere teslim edildiği durumlarda gümrük vergileri hangi tarihteki unsurlara göre hesaplanır?",
+     "cevap": "Eşyanın antrepo rejimine tabi tutulduğu tarihte yürürlükte bulunan vergi oranları ve diğer vergilendirme unsurlarına göre hesaplanır (unsurların o tarihte saptanmış olması şartıyla); yükümlü talep ederse serbest dolaşıma giriş beyannamesinin tescil tarihindeki hal ve unsurlara göre işlem yapılır.",
+     "dayanak": "GY md. 151/3-4",
+     "kanit": "gümrük vergileri, eşyanın antrepo rejimine tabi tutulduğu tarihte yürürlükte bulunan vergi oranları ve diğer vergilendirme unsurlarına dayanarak hesaplanır."
+    },
+    {
+     "alt_konu": "İhracat rejiminde basitleştirilmiş usul koşulları ve eksik beyan",
+     "soru": "Gümrük Yönetmeliğine göre dolaylı temsilci olarak yetkilendirilen posta idaresi ve hızlı kargo şirketlerinin faturanın eklenmediği ihracat beyanları hangi koşulla kabul edilebilir?",
+     "cevap": "Beyan için gerekli bilgileri içeren e-irsaliyenin beyannameye eklenmesi kaydıyla kabul edilebilir; bu beyanı takiben yedi iş günü içinde tamamlayıcı beyan verilir.",
+     "dayanak": "GY md. 153/3; 158/6",
+     "kanit": "beyannameye eklenmesi gereken faturanın eklenmediği gümrük beyanını, beyan için gerekli bilgileri içeren e-irsaliyenin beyannameye eklenmesi kaydıyla kabul edebilir."
+    },
+    {
+     "alt_konu": "İhracat rejiminde beyanname yerine ticari veya idari belge",
+     "soru": "Gümrük Yönetmeliğine göre ihracat rejiminde beyanname yerine ticari veya idari belge tescil ettirerek işlem yapma talebi hangi ihracatçılar için statü koşulu aranmaksızın kabul edilir?",
+     "cevap": "Aynı gümrük idaresinden sürekli ve periyodik olarak kitap ve diğer basılı yayın ihraç edenler ile gemilere kumanya, yağ, yakıt ve diğer malzeme verme şeklinde ihracat gerçekleştirenlerin talepleri YYS veya onaylanmış kişi koşulları aranmaksızın kabul edilir.",
+     "dayanak": "GY md. 156/1",
+     "kanit": "Aynı gümrük idaresinden sürekli ve periyodik olarak kitap ve diğer basılı yayın ihraç edenler ile gemilere kumanya, yağ, yakıt ve diğer malzeme verme şeklinde ihracat gerçekleştirenlerin"
+    },
+    {
+     "alt_konu": "İhracat rejiminde tamamlayıcı beyan",
+     "soru": "Gümrük Yönetmeliğine göre bir ay içinde deniz taşıtları ve hava gemilerine yapılan ve ihracat sayılan teslimlere ilişkin tamamlayıcı beyan ne zaman yapılır?",
+     "cevap": "İzleyen ayın ilk yedi iş günü içinde yapılır (genel kural olan izleyen ayın ilk üç günü uygulanmaz).",
+     "dayanak": "GY md. 158/2",
+     "kanit": "bir ay içinde deniz taşıtları ile hava gemilerine Kanunun 176 ncı maddesi hükümleri çerçevesinde yapılan ve ihracat sayılan teslimlere ilişkin tamamlayıcı beyan izleyen ayın ilk yedi iş günü içinde yapılır."
+    },
+    {
+     "alt_konu": "Ekonomik etkili rejimlerde basitleştirilmiş usul ortak hükümleri ve ihracat rejimine giriş",
+     "soru": "Gümrük Yönetmeliğine göre ekonomik etkili gümrük rejimleri için iki veya daha fazla iznin aynı kişiye verilmesi halinde, kayıt yoluyla bir rejimin sonlandırılıp diğerine başlanmasında tamamlayıcı beyan gerekir mi?",
+     "cevap": "Gerekmez; bu durumda tamamlayıcı beyan verilmesine gerek yoktur.",
+     "dayanak": "GY md. 159/1",
+     "kanit": "kayıt yoluyla beyanın kullanılması suretiyle bir rejimin sonlandırılıp diğer rejime başlanılması halinde tamamlayıcı beyan verilmesine gerek yoktur."
+    },
+    {
+     "alt_konu": "Gümrük antrepo rejiminde basitleştirilmiş usuller",
+     "soru": "Gümrük Yönetmeliğine göre gümrük antrepo rejiminde eksik beyan usulü hangi tip antrepolara alınmada uygulanmaz?",
+     "cevap": "F tipi antrepolara alınmada uygulanmaz.",
+     "dayanak": "GY md. 162/2",
+     "kanit": "Eksik beyan usulü, eşyanın F tipi antrepolara alınmasında uygulanmaz."
+    },
+    {
+     "alt_konu": "Gümrük antrepo rejiminde basitleştirilmiş usuller",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın antrepo rejimine girişinin kayıt yoluyla yapılmasına kimlere izin verilebilir ve bu usul hangi tip antrepolarda uygulanmaz?",
+     "cevap": "Yetkilendirilmiş yükümlü sertifikası sahiplerine izin verilebilir; bu usul eşyanın B ve F tipi antrepolara alınmasında uygulanmaz.",
+     "dayanak": "GY md. 166",
+     "kanit": "Yetkilendirilmiş yükümlü sertifikasına sahip kişilere gümrük idarelerince eşyanın antrepo rejimine girişinin kayıt yoluyla yapılmasına izin verilebilir. ... Bu usul, eşyanın B ve F tipi antrepolara alınmasında uygulanmaz."
+    },
+    {
+     "alt_konu": "Diğer rejimlerde basitleştirilmiş usullere yapılan atıflar",
+     "soru": "Gümrük Yönetmeliğine göre dahilde işleme, gümrük kontrolü altında işleme ve geçici ithalat rejimlerinde basitleştirilmiş usullerle beyanda hangi rejime ilişkin basitleştirilmiş usul hükümleri uygulanır?",
+     "cevap": "Serbest dolaşıma giriş rejimine ilişkin basitleştirilmiş usul hükümleri uygulanır (hariçte işleme rejiminde ise ihracat rejimine ilişkin hükümler uygulanır).",
+     "dayanak": "GY md. 168/1",
+     "kanit": "Dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimlerinde basitleştirilmiş usuller kullanılarak beyanda, bu Yönetmeliğin serbest dolaşıma giriş rejiminde basitleştirilmiş usullere ilişkin"
+    },
+    {
+     "alt_konu": "Serbest dolaşıma girişte sözlü beyana tabi eşya",
+     "soru": "Gümrük Yönetmeliğine göre ticari amaçla serbest dolaşıma girecek eşya hangi koşullarda gümrük idaresine sözlü beyan edilir?",
+     "cevap": "Gümrük kıymetinin sevkiyat ve beyan başına 1000 Avro'yu geçmemesi, sevkiyatın düzenli benzer sevkiyatların parçası olmaması ve bağımsız bir taşıyıcıyla taşınan daha büyük bir nakliyatın parçası olmaması koşuluyla sözlü beyan edilir.",
+     "dayanak": "GY md. 169/6",
+     "kanit": "Ticari amaçla Türkiye Gümrük Bölgesinde serbest dolaşıma girecek eşyanın gümrük kıymetinin sevkiyat ve beyan başına 1000 Avro'yu geçmemesi"
+    },
+    {
+     "alt_konu": "Serbest dolaşıma girişte sözlü beyana tabi eşya",
+     "soru": "Gümrük Yönetmeliğine göre sınır bölgesi halkının hangi eşyasının serbest dolaşıma girişi sözlü beyana tabidir?",
+     "cevap": "Ticari nitelikte olmayan, elde ve sırtta taşınabilecek miktarda kendi ihtiyaçlarına mahsus eşyası sözlü beyana tabidir.",
+     "dayanak": "GY md. 169/1-c",
+     "kanit": "Sınır bölgesi halkının elde ve sırtta taşınabilecek miktarda kendi ihtiyaçlarına mahsus eşyası,"
+    },
+    {
+     "alt_konu": "İhracatta sözlü beyana tabi eşya",
+     "soru": "Gümrük Yönetmeliğine göre devamlı görevli veya yerleşmek üzere yabancı ülkelere giden Türk memur ve vatandaşlarının kişisel ve ev eşyasının ihracında sözlü beyan hangi zaman aralığında gönderilen eşya için uygulanır?",
+     "cevap": "Beraberlerinde götürdükleri veya gidişlerinden iki ay evvel ya da altı ay sonra gönderecekleri kişisel ve ev eşyası için uygulanır.",
+     "dayanak": "GY md. 170/1-b",
+     "kanit": "beraberlerinde götürecekleri veya gidişlerinden iki ay evvel veya altı ay sonra gönderecekleri kişisel ve ev eşyası,"
+    },
+    {
+     "alt_konu": "Geçici ithalat ve dahilde işlemede sözlü beyana tabi eşya",
+     "soru": "Gümrük Yönetmeliğine göre geçici ithalatta sözlü beyana tabi eşya hangi formla beyan edilir ve bu formun tescili ne hükmündedir?",
+     "cevap": "Sözlü Beyan Formu kullanılarak beyan edilir; formun tescili geçici ithalat rejimi kullanım izni hükmündedir.",
+     "dayanak": "GY md. 171/2",
+     "kanit": "Geçici ithalatta sözlü beyana tabi eşya, ek-22'de yer alan Sözlü Beyan Formu kullanılarak beyan edilir. Söz konusu formun tescili, geçici ithalat rejimi kullanım izni hükmündedir."
+    },
+    {
+     "alt_konu": "Sözlü beyan formu ve yazılı beyan isteme hakkı",
+     "soru": "Gümrük Yönetmeliğine göre sözlü beyana tabi eşyanın işlemlerinin temsilci tarafından yürütüldüğü durumlarda gümrük idaresi yazılı beyan isteyebilir mi?",
+     "cevap": "Yapılan sözlü beyanın doğru ve tam olduğu konusunda tereddüt oluşması halinde gümrük idaresi bu eşya için yazılı beyan isteyebilir.",
+     "dayanak": "GY md. 173/1",
+     "kanit": "yapılan sözlü beyanın doğru ve tam olduğu konusunda tereddütlerin oluşması halinde, gümrük idareleri bu kapsamdaki eşya için yazılı beyanda bulunulmasını isteyebilir."
+    },
+    {
+     "alt_konu": "Bilgisayar veri işleme tekniği yoluyla beyan",
+     "soru": "Gümrük Yönetmeliğine göre bilgisayar veri işleme tekniği yoluyla yapılan beyanda gümrük idaresince tüm işlemlere esas tutulacak asıl beyanname hangisidir?",
+     "cevap": "Sistemde kayıtlı beyanname asıl beyannamedir; sisteme veri girişi için gümrük idaresinden önceden alınmış kullanıcı kodu ve şifre gerekir.",
+     "dayanak": "GY md. 174/2-4",
+     "kanit": "Sistemde kayıtlı beyanname, gümrük idaresince tüm işlemlere esas tutulacak asıl beyannamedir."
+    },
+    {
+     "alt_konu": "Başka bir tasarruf yoluyla beyan",
+     "soru": "Gümrük Yönetmeliğine göre yolcu beraberinde yurda getirilen standart işlenmemiş altın için başka bir tasarruf yoluyla yapılan beyan hangi rejime ilişkin beyan olarak kabul edilir?",
+     "cevap": "Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karar ile belirlenen yolcu beraberi standart işlenmemiş altına ilişkin bu beyan serbest dolaşıma giriş rejimine ilişkin beyan olarak kabul edilir.",
+     "dayanak": "GY md. 175/1-c",
+     "kanit": "serbest dolaşıma giriş rejimine ilişkin beyan olarak kabul edilir; ... Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karar ile belirlenen yolcu beraberinde yurda getirilen standart işlenmemiş altın."
+    },
+    {
+     "alt_konu": "Başka bir tasarruf yoluyla beyan",
+     "soru": "Gümrük Yönetmeliğine göre başka bir tasarruf yoluyla beyana ilişkin hükümler hangi eşya için uygulanmaz?",
+     "cevap": "İhracata bağlı hak ve menfaatlerden yararlanan, gümrük vergileri geri verilen veya yasaklama, kısıtlama ya da diğer özel bir işleme tabi eşya için uygulanmaz.",
+     "dayanak": "GY md. 179/1",
+     "kanit": "ihracata bağlı hak ve menfaatlerden yararlanan, gümrük vergilerinin geri verildiği veya yasaklama, kısıtlama veya diğer özel bir işleme tabi eşya için uygulanmaz."
+    },
+    {
+     "alt_konu": "Beyanın kontrol türleri (hatlar) ve belirlenmesi",
+     "soru": "Gümrük Yönetmeliğine göre beyanın kontrol türü ve kontrolle görevli memur nasıl belirlenir?",
+     "cevap": "Bilgisayar sistemi tarafından risk kriterlerine göre belirlenir; YYS sahipleri adına tescilli beyannamelere ilişkin kontroller öncelikli olarak yapılır.",
+     "dayanak": "GY md. 180/1, 180/3",
+     "kanit": "Beyanın kontrol türü ve kontrolle görevli memur, bilgisayar sistemi tarafından risk kriterlerine göre belirlenir."
+    },
+    {
+     "alt_konu": "Diğer kurumlarca yapılacak ithalat kontrolleri",
+     "soru": "Gümrük Yönetmeliğine göre izin veya uygunluk belgesine tabi eşyaya ilişkin diğer kurumlarca yapılacak ithalat kontrolleri hangi aşamalarda yapılır?",
+     "cevap": "Eşyanın taşıyacağı muhtemel riske göre; Türkiye Gümrük Bölgesine girişte, gümrük beyannamesinin tescili öncesinde ya da gümrük yükümlülüğünün sona ermesinden sonraki aşamalardan yalnızca birinde ve gümrük idaresinin koordinasyonunda yapılır.",
+     "dayanak": "GY md. 181/1",
+     "kanit": "Türkiye Gümrük Bölgesine girişinde veya gümrük beyannamesinin tescil işlemi öncesinde ya da gümrük yükümlülüğünün sona ermesinden sonraki aşamalardan yalnızca birinde ve gümrük idaresinin koordinasyonunda yapılır."
+    },
+    {
+     "alt_konu": "Diğer kurumlarca yapılacak ithalat kontrolleri",
+     "soru": "Gümrük Yönetmeliğine göre beyanname tescili öncesinde yapılan kontroller sonucunda ilgili kurumca ithaline izin verilmeyen eşya, yükümlünün talebi doğrultusunda hangi işlemlere tabi tutulabilir?",
+     "cevap": "Mahrecine iade edilebilir, ilgili kurumun uygun görüşüyle doğrudan veya serbest bölge üzerinden üçüncü ülkeye transit edilebilir ya da ihraç kaydıyla satış veya masrafları sahibince karşılanarak imha suretiyle tasfiye edilmek üzere gümrük idaresine terk edilebilir.",
+     "dayanak": "GY md. 181/4-ç",
+     "kanit": "İlgili kurumun uygun görüşü ile doğrudan ya da serbest bölge üzerinden üçüncü ülkeye transit, ... İhraç kaydıyla satış ya da masrafları sahibince karşılanmak koşuluyla imha suretiyle tasfiye edilmek üzere bulunduğu gümrük idaresine terk,"
+    },
+    {
+     "alt_konu": "Diğer kurumlarca yapılacak ithalat kontrolleri",
+     "soru": "Gümrük Yönetmeliğine göre ilgili kurumlarca yapılan kontrolde insan, hayvan, bitki ve çevre sağlığı yönünden tehlikeli ve zararlı olduğu tespit edilen eşya hakkında nasıl işlem yapılır?",
+     "cevap": "Yükümlüsü tarafından derhal yurt dışı edilir; mevzuat hükümleri saklı kalmak üzere bu eşya Türkiye Gümrük Bölgesinde imha edilemez ve gümrük idarelerine terk de edilemez.",
+     "dayanak": "GY md. 181/4-d",
+     "kanit": "yükümlüsü tarafından derhal yurtdışı edilir. Mevzuat hükümleri saklı kalmak üzere, bu nitelikteki eşya Türkiye Gümrük Bölgesinde imha edilemeyeceği gibi gümrük idarelerine de terk edilemez."
+    },
+    {
+     "alt_konu": "Diğer kurumlarca yapılacak ithalat kontrolleri",
+     "soru": "Gümrük Yönetmeliğine göre gümrük yükümlülüğü sona erdikten sonra ilgili kurumlarca kontrol edilecek eşya geçici depolama yeri ve antrepolarda en fazla ne kadar süre tutulabilir?",
+     "cevap": "Gümrük mevzuatının öngördüğü yükümlülüklerin yerine getirildiği tarihi takip eden günden itibaren en fazla üç iş günü tutulabilir; bu sürede ilgili kurumca bildirim yapılmazsa ithalatçının talebiyle gümrük gözetimi sona erdirilir.",
+     "dayanak": "GY md. 181/5-b",
+     "kanit": "gümrük mevzuatının öngördüğü yükümlülüklerin yerine getirildiği tarihi takip eden günden itibaren en fazla üç iş günü tutulabilir."
+    },
+    {
+     "alt_konu": "Diğer kurumlarca yapılacak ithalat kontrolleri",
+     "soru": "Gümrük Yönetmeliğine göre ithalinin yasak olduğu yükümlüye bildirilen eşya hangi süre içinde mahrecine iade veya üçüncü ülkeye transit edilmelidir?",
+     "cevap": "Bildirim tarihinden itibaren otuz gün içinde mahrecine iade ya da ilgili kurumun uygun görüşüyle doğrudan üçüncü ülkeye transit edilir; bu sürede edilmezse ihraç kaydıyla satış veya imha suretiyle tasfiye edilmek üzere gümrük idaresine terk edilir.",
+     "dayanak": "GY md. 181/11",
+     "kanit": "ithalinin yasak olduğunun yükümlüye bildirildiği tarihten itibaren otuz gün içinde mahrecine iade ya da ilgili kurum ya da kuruluşun uygun görüşü ile doğrudan üçüncü ülkeye transit edilir."
+    },
+    {
+     "alt_konu": "Eşyanın muayenesi: kısmi/tam muayene ve ihracat eşyasının muayenesi",
+     "soru": "Gümrük Yönetmeliğine göre kısmi muayene sırasında bir farklılık tespit edilmesi halinde nasıl işlem yapılır?",
+     "cevap": "Tam muayene yapılır; gerekçeleri ve sonucu bilgisayar sistemine 'tam muayenesi yapıldı' şerhi düşülerek yazılır. Muayene memurunca gerekli görülmesi halinde de tam muayene yapılır.",
+     "dayanak": "GY md. 182/3",
+     "kanit": "Kısmi muayene esnasında bir farklılık tespit edilmesi veya muayene ile görevli memur tarafından gerekli görülmesi halinde tam muayene yapılır"
+    },
+    {
+     "alt_konu": "Eşyanın muayenesi: kısmi/tam muayene ve ihracat eşyasının muayenesi",
+     "soru": "Gümrük Yönetmeliğine göre muayenesine karar verilen ihracat eşyasından hangileri gümrüğe sunulmadan taşıtlara yükletilirken muayene edilebilir?",
+     "cevap": "Farklı yerlerden ve kısım kısım geldiği kanıtlanan eşya, dökme haldeki eşya, standardizasyon kontrolü yapılan maddeler ile kan, insan dokusu, ilaç, balık, sebze ve meyve gibi çabuk bozulacak eşya deniz ve kara taşıtlarına yükletilirken muayene edilebilir.",
+     "dayanak": "GY md. 182/5",
+     "kanit": "farklı yerlerden ve kısım kısım gelmekte olduğu kanıtlanan eşya ile dökme haldeki eşyanın ve standardizasyon kontrolü yapılan maddeler ve çabuk bozulacak kan, insan dokusu, ilaç ve balık, sebze ve meyve gibi eşyanın gümrüğe sunulmadan"
+    },
+    {
+     "alt_konu": "Belge kontrolü ve muayeneye yönlendirme",
+     "soru": "Gümrük Yönetmeliğine göre belge kontrolü ile görevli memur beyanname ile ekli belgeler arasında ciddi farklılık tespit edip muayeneyi gerekli görürse bu hususu hangi süre içinde kime bildirir?",
+     "cevap": "Sistem tarafından kendisine havale edildiği tarih ve saatten itibaren en geç yirmi dört saat içinde idare amirine bildirir.",
+     "dayanak": "GY md. 183/2",
+     "kanit": "sistem tarafından kendisine havale edilen tarih ve saat itibariyle en geç yirmidört saat içinde bu hususu idare amirine bildirir."
+    },
+    {
+     "alt_konu": "Muayene edilmeyecek eşya",
+     "soru": "Gümrük Yönetmeliğine göre hangi eşya muayeneye tabi tutulmaz?",
+     "cevap": "Cumhurbaşkanının zat ve ikametgâhı için gelen eşya; Gümrük Kanununun 167 nci maddesinin üçüncü fıkrası kapsamına giren eşyadan, ilgili kurumlarca gizliliği önceden Müsteşarlığa bildirilen eşya; yabancı devlet başkanları ve aile efradı ile refakatlerindeki memurların getirdikleri veya Türkiye'deki ikametleri sırasında getirtecekleri eşya ve taşıtlar; Türkiye'deki yabancı diplomatik temsilciliklerin ve yabancı devletlerin konsolosluklarının resmi bir görevin yapılmasıyla ilgili getirecekleri her türlü basılmış ve basılmamış belge, taşıt ve diğer eşya ile resmi binalar için inşaat malzemesi; içinde gizli evrak bulunan mühürlü kurye çantaları.",
+     "dayanak": "GY md. 185/1",
+     "kanit": "Cumhurbaşkanının zat ve ikametgâhı için gelen eşya, ... Kanunun 167 nci maddesinin üçüncü fıkrası kapsamına giren eşyadan, ilgili kurumlarca gizliliği önceden Müsteşarlığa bildirilen eşya, ... Yabancı devlet başkanları ve aileleri efradı ile refakatlerinde memur olanların getirdikleri ... İçinde gizli evrak bulunan mühürlü kurye çantaları."
+    },
+    {
+     "alt_konu": "Görevlilerin sorumluluğu",
+     "soru": "Gümrük Yönetmeliğine göre laboratuvar tahliline konu edilen eşyanın tahlilini gerçekleştirenlerin sorumluluğu nedir?",
+     "cevap": "Tahlil sonucuna bağlı olarak yapılan GTİP belirlenmesinden müteselsilen sorumludurlar.",
+     "dayanak": "GY md. 186/3",
+     "kanit": "Laboratuvar tahliline konu edilen eşyanın tahlilini gerçekleştirenler tahlil sonucuna bağlı olarak yapılan GTİP belirlenmesinden müteselsilen sorumludur."
+    },
+    {
+     "alt_konu": "Muayene yeri, muayenede bulunacaklar ve muayene giderleri",
+     "soru": "Gümrük Yönetmeliğine göre eşyanın gümrükçe izin verilen yerler ve antrepolar dışında başka bir yerde muayene edilmesine kim izin verebilir?",
+     "cevap": "Gümrük idare amirleri, beyan sahibinin talebi üzerine izin verebilir.",
+     "dayanak": "GY md. 187/1",
+     "kanit": "gümrük idare amirleri beyan sahibinin talebi üzerine eşyanın, bu yerler dışında herhangi bir yerde muayene edilmesine izin verebilir."
+    },
+    {
+     "alt_konu": "Eksik muayenenin tamamlanması ve ikinci muayene",
+     "soru": "Gümrük Yönetmeliğine göre kendisine havale edilmiş beyanname kapsamı eşyanın muayenesini herhangi bir nedenle tamamlayamayan memurun yerine muayene nasıl tamamlanır?",
+     "cevap": "Bilgisayar sisteminde görevli memur değişikliği yapılır, nedenleri beyanname üzerinde belirtilir ve idare amirinin oluru alındıktan sonra muayene diğer bir memur tarafından tamamlanır.",
+     "dayanak": "GY md. 190/2",
+     "kanit": "bilgisayar sisteminde muayene ile görevli memur değişikliği yapılır ve durum nedenleri ile beyanname üzerinde belirtilmek suretiyle idare amirinin oluru alındıktan sonra muayene diğer bir memur tarafından tamamlanır."
+    },
+    {
+     "alt_konu": "Muayenede tespit edilen farklılıklar",
+     "soru": "Gümrük Yönetmeliğine göre muayene sonucunda bulunan eksiklik veya fazlalığın eşyanın tabiatı icabı yönetmelik ekindeki oranlar içinde kalması halinde nasıl işlem yapılır?",
+     "cevap": "İşlemler gümrük idaresince tespit edilen miktar üzerinden yapılır ve ceza uygulanmaz.",
+     "dayanak": "GY md. 192/2",
+     "kanit": "Muayene sonucunda bulunan eksiklik veya fazlalığın eşyanın tabiatı icabı ek-11'de bulunan oranlarda olduğunun anlaşılması halinde, işlemler gümrük idaresince tespit edilen miktar üzerinden yapılır ve ceza uygulanmaz."
+    },
+    {
+     "alt_konu": "Beyannamenin düzeltilmesi ve tesliminden sonra düzeltme işlemleri",
+     "soru": "Gümrük Yönetmeliğine göre yükümlü talebi üzerine veya beyanın kontrolü sonucunda beyannamelerde yapılacak değişiklikler kimin oluru ile kimlerce yapılır?",
+     "cevap": "Gümrük idare amirinin oluru ile gümrük müdürlüklerince yapılır; bu hüküm eşyanın tesliminden sonra yapılacak düzeltmeler için de geçerlidir.",
+     "dayanak": "GY md. 194/2",
+     "kanit": "beyannamelerde yapılacak değişiklikler gümrük idare amirinin oluru ile gümrük müdürlüklerince yapılır. Bu hüküm, eşyanın tesliminden sonra yapılacak düzeltmeler için de geçerlidir."
+    },
+    {
+     "alt_konu": "Ayniyet tespiti ve mücbir sebep belgesi",
+     "soru": "Gümrük Yönetmeliğine göre ayniyet tespiti amacıyla tatbik edilen mühür ve etiketlerin mücbir sebep veya beklenmeyen haller nedeniyle sökülmesi zorunluluğu nasıl tevsik edilir?",
+     "cevap": "Bu zorunluluğun ilgili kurum veya kuruluşlardan alınacak mücbir sebep belgesi ile gümrük idaresine ayrıca tevsiki gerekir.",
+     "dayanak": "GY md. 195/2",
+     "kanit": "Bu tür bir zorunluluğun ilgili kurum veya kuruluşlardan alınacak mücbir sebep belgesi ile gümrük idaresine ayrıca tevsiki gerekir."
+    },
+    {
+     "alt_konu": "Laboratuvar tahliline tabi eşya ve önceki tahlile itibar",
+     "soru": "Gümrük Yönetmeliğine göre ithalinde süreklilik bulunan, göndericisi, alıcısı ve menşei aynı eşya için önceki tahlil raporuna itibar edilebilmesi için rapor en fazla ne kadar eski olabilir?",
+     "cevap": "Beyanname tescil tarihi itibarıyla en fazla bir yıl öncesine dayanan tahlil raporunun tarih ve sayısı beyannamede beyan edilirse eşya yeniden tahlile gönderilmez; ancak beyanın kontrolü kırmızı hat tam muayene olarak belirlenirse bu kolaylıktan yararlanılamaz.",
+     "dayanak": "GY md. 196/2-b",
+     "kanit": "beyanname tescil tarihi itibarıyla en fazla bir yıl öncesine dayanan tahlil raporunun tarih ve sayısının beyannamenin 44 no.lu kutusunda beyan edilmesi halinde, daha önce yapılan tahlile itibar edilerek yeniden laboratuvar tahliline gönderilmez."
+    },
+    {
+     "alt_konu": "Laboratuvar tahliline tabi eşya ve önceki tahlile itibar",
+     "soru": "Gümrük Yönetmeliğine göre 39.01 ila 39.15 tarife pozisyonlarında yer alıp dökme gelen eşyanın onaylanmış kişi veya YYS sahiplerince ithalinde en fazla ne kadar eski tahlil raporuna itibar edilir?",
+     "cevap": "Beyanname tescil tarihi itibarıyla en fazla altı ay öncesine dayanan tahlil raporuna itibar edilir.",
+     "dayanak": "GY md. 196/2-c",
+     "kanit": "beyanname tescil tarihi itibariyle en fazla altı ay öncesine dayanan bir tahlil raporu ibraz edilmesi halinde buna itibar edilir."
+    },
+    {
+     "alt_konu": "Gümrük rejiminden önce laboratuvar tahlili",
+     "soru": "Gümrük Yönetmeliğine göre tahlile gönderilmesi gereken eşya, rejim beyanında bulunulmadan önce tahlile gönderilebilir mi?",
+     "cevap": "Yükümlünün ilgili gümrük idaresine başvurması halinde eşya rejim beyanından önce tahlile gönderilir; yükümlü sonuçları kabul etmezse tahlile itiraz edebilir.",
+     "dayanak": "GY md. 196/A-1",
+     "kanit": "tahlile gönderilmesi gereken eşya, yükümlünün ilgili gümrük idaresine başvurması halinde rejim beyanında bulunmadan önce tahlile gönderilir."
+    },
+    {
+     "alt_konu": "Gümrük laboratuvarlarında tahlil ücretleri",
+     "soru": "Gümrük Yönetmeliğine göre gümrük laboratuvarı tahlil ücretleri kim tarafından ve hangi sınırla belirlenir?",
+     "cevap": "213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranını geçmemek üzere Bakanlıkça (Gümrükler Genel Müdürlüğü) yıllık olarak belirlenir.",
+     "dayanak": "GY md. 197/3",
+     "kanit": "Laboratuvar tahlil ücretleri 213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranını geçmemek üzere Bakanlıkça (Gümrükler Genel Müdürlüğü) yıllık olarak belirlenir."
+    },
+    {
+     "alt_konu": "Numune alma kuralları",
+     "soru": "Gümrük Yönetmeliğine göre numune kim tarafından ve neyle birlikte alınır?",
+     "cevap": "Eşyanın özelliği dikkate alınarak, varsa TSE standardı göz önünde bulundurulmak suretiyle şahit numunesiyle beraber muayene ile görevli memur tarafından alınır.",
+     "dayanak": "GY md. 198/1-a",
+     "kanit": "Numune, eşyanın özelliği dikkate alınarak, varsa TSE standardı göz önünde bulundurulmak suretiyle şahit numunesiyle beraber, muayene ile görevli memur tarafından alınır."
+    },
+    {
+     "alt_konu": "Numunelerin miktarı, etiketlenmesi ve mühürlenmesi",
+     "soru": "Gümrük Yönetmeliğine göre petrol ürünleri ve alkollerden alınacak numune en az ne miktarda olmalıdır?",
+     "cevap": "Petrol ürünlerinde ve alkollerde en az 1 litre numune alınır (diğer sıvı numunelerde en az ½ litre, toz örneklerde en az 250 gram). Numuneler beyan edilen eşyayı temsil edecek şekilde ve en az iki tahlile yetecek miktarda alınır; orijinal ambalajlı, kıymetli, az miktarda bulunan ve benzeri durumlardaki numuneler bu miktar kurallarının dışındadır.",
+     "dayanak": "GY md. 199/1-a",
+     "kanit": "Numuneler, beyan edilen eşyayı temsil edecek şekilde ve en az iki tahlile yetecek miktarda (orijinal ambalajlı, kıymetli, az miktarda bulunan ve benzeri durumlardaki numuneler hariç, petrol ürünlerinde ve alkollerde en az 1 litre, diğer sıvı numunelerde en az ½ litre, toz örneklerde ise en az 250 gram) alınır."
+    },
+    {
+     "alt_konu": "Numunelerin laboratuvara gönderilmesi",
+     "soru": "Gümrük Yönetmeliğine göre usulüne uygun alınmadığı veya gönderilmediği sonradan tespit edilen numune kullanılarak yapılan tahlilin sonuçları ne olur?",
+     "cevap": "Tahlil sonuçları geçersiz sayılır.",
+     "dayanak": "GY md. 200/1-ğ",
+     "kanit": "Usulüne uygun alınmadığı veya usulüne uygun gönderilmediği sonradan tespit edilen numune kullanılarak yapılan tahlil sonuçları geçersiz sayılır."
+    },
+    {
+     "alt_konu": "Tahlillerin gümrük ve akredite laboratuvarlarda yapılması",
+     "soru": "Gümrük Yönetmeliğine göre gümrük laboratuvarının analiz sonuçları ile akredite dış laboratuvar sonuçlarının uyuşmaması halinde eşyanın mahiyeti ve GTİP'i hakkında nihai kararı kim verir?",
+     "cevap": "Masrafları yükümlüce ödenmek şartıyla tahlil başka bir akredite laboratuvarda tekrar yaptırılabilir; eşyanın mahiyeti ve GTİP'i hakkındaki nihai karar Bakanlıkça verilir.",
+     "dayanak": "GY md. 201/4",
+     "kanit": "tahlil masrafları yükümlüsünce ödenmek şartıyla eşyanın tahlili başka bir akredite laboratuvarda tekrar yaptırılabilir. Bu durumda eşyanın mahiyeti ve GTİP'i hakkındaki nihai karar Bakanlıkça verilir."
+    },
+    {
+     "alt_konu": "Tahlilin yönü ve tahlil sonuçlarının tebliği",
+     "soru": "Gümrük Yönetmeliğine göre tahlil raporlarına itiraz süresinin başlangıcı nedir?",
+     "cevap": "Birinci tahlil sonuçlarının beyan sahibine tebliğ edildiği tarih itiraz için başlangıç sayılır; bu tarih BİLGE sistemindeki 'Tebliğ Tarihi' alanına girilir.",
+     "dayanak": "GY md. 203/1",
+     "kanit": "Birinci tahlil sonuçları ilgili memurca beyan sahiplerine tebliğ ettirilerek, BİLGE Sistemi Muayene Kontrol ekranındaki \"Tebliğ Tarihi\" alanına tebliğ ettirilen tarih girilir. Bu tarih, tahlil raporlarına itiraz için başlangıç sayılır."
+    }
+   ]
+  },
+  {
+   "kaynak": "18-Ser.Dol.Giriş Rejimi.txt",
+   "konu": "Serbest dolaşıma giriş rejimi, nihai kullanım, ticaret politikası önlemleri ve özel serbest dolaşıma giriş tebliğleri",
+   "mevzuat": "GK md. 74-78; 2009/15481 Karar md. 13-15; GY md. 204-211; Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1); Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1); Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 13, 15, 16, 18); Gümrük Genel Tebliği (Serbest Dolaşıma Giriş Rejimi) (Seri No: 2)",
+   "cikmis_sayisi": 21,
+   "cikmis": [
+    "2021-42: Nihai kullanım nedeniyle sıfır vergiden yararlanmanın serbest dolaşım statüsünü kaybettirmemesi (GK 78)",
+    "2021-66: [Gümrük Vergileri] Vergi hesabında tarife, menşe ve kıymetin birlikte dikkate alınması (kaynakta karşılığı yok)",
+    "2022-37: Nihai kullanım: TPS başvurusu, izin verilecek kişiler, devir, fark teminatı, YGM raporu (GY 207; Tebliğ md. 4-6, 9)",
+    "2022-38: [Gümrük Vergileri] İthalatta alınan vergi ve fonlar; TRT bandrolü bunlardan değil (kaynakta karşılığı yok)",
+    "2022-39: Serbest dolaşım statüsünü sona erdiren haller; beyannamede düzeltme sona erdirmez (GK 78)",
+    "2022-40: Türk Bayrağı çekilmiş gemilerin Bölgeye getirilmeksizin serbest dolaşıma girişi (2009/15481 Karar md. 13)",
+    "2023-36: [Ticaret Politikası] Gözetim, kota ve yasakların ticaret politikası önlemi olması (1-TANIMLAR)",
+    "2023-49: [Gümrük Vergileri] İthalatta gümrükte tahsil edilen vergiler (kaynakta karşılığı yok)",
+    "2023-63: [çapraz - Temel Tanımlar] Nihai kullanımın gümrük rejimi olmaması",
+    "2023-78: Tahlil sonuçlarına itirazı karara bağlayan merci (Seri No 2 Tebliğ md. 6 ile ilişkili; güncel cevap Bölge Müdürlüğü)",
+    "2024-36: [İlave Gümrük Vergisi] Menşein doğru beyanından ithalatçının sorumlu olması (3351 sayılı Karar; kaynakta yok)",
+    "2024-37: [Ticaret Politikası] Kotanın tanımı (9-TAR.POZ.AYIRMA)",
+    "2024-43: Serbest dolaşıma giriş koşulları, lehe oran, en yüksek oranın yalnız talep üzerine uygulanması, statü kaybı (GK 74-76, 78)",
+    "2024-91: [çapraz - YGM] İRK önlemlerine tabi eşyada kapanmış beyannamede tespit raporu türü",
+    "2025-35: [Gümrük Vergileri] Gümrük vergileri tanımı; gecikme zammı dahil değil (1-TANIMLAR)",
+    "2025-37: [Gümrük Vergileri] Gümrüklenmiş değer (5607 sayılı Kanun)",
+    "2025-40: Serbest dolaşım statüsünü sona erdiren hallerin tümü (GK 78)",
+    "2025-49: YYS/OKSB sahiplerine tescilden itibaren üç ay içinde sonradan nihai kullanım izni (Tebliğ md. 8/2)",
+    "2025-51: Lehe oran uygulamasının şartları (GK 75)",
+    "2025-55: Serbest dolaşıma girmiş sayılan eşya (GK 74)",
+    "2025-56: Nihai kullanım eşyasının devri; hak ve yükümlülüklerin devralana geçmesi (Tebliğ md. 6)"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "Serbest dolaşıma girişin koşulları ve Bölgeye getirilmeden giriş yetkisi",
+     "dayanak": "GK md. 74",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-55",
+      "2024-43"
+     ],
+     "not": "Serbest dolaşıma giriş koşulları soruldu; Türkiye Gümrük Bölgesine getirilmeden serbest dolaşıma giriş usul ve esaslarını belirleme yetkisi sorulmadı."
+    },
+    {
+     "baslik": "Lehe oranın uygulanması",
+     "dayanak": "GK md. 75",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2025-51",
+      "2024-43"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Farklı tarife pozisyonlarındaki eşyaya en yüksek oranın uygulanması",
+     "dayanak": "GK md. 76",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2024-43"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanım eşyasında gümrük gözetiminin sona ermesi",
+     "dayanak": "GK md. 77; GY md. 211/3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Nihai kullanımın serbest dolaşım statüsünü kaybettirmediği 2021-42'de (GK 78) soruldu; gözetimin sona erme halleri sorulmadı."
+    },
+    {
+     "baslik": "Serbest dolaşım statüsünün kaybı",
+     "dayanak": "GK md. 78",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-42",
+      "2022-39",
+      "2025-40"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Türk Bayrağı çekilmiş gemilerin Bölgeye getirilmeden serbest dolaşıma girişi",
+     "dayanak": "2009/15481 Karar md. 13",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-40"
+     ],
+     "not": "Kapsam (Türk bayraklı gemiler) soruldu; sicil kaydı süresi, gümrük işlemlerinin süresi ve yapılacağı idare sorulmadı."
+    },
+    {
+     "baslik": "Hava taşıtlarının Bölgeye getirilmeden serbest dolaşıma girişi",
+     "dayanak": "2009/15481 Karar md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bölgeye getirilmeden serbest dolaşımda özet beyan ve gümrüğe sunulma istisnası",
+     "dayanak": "2009/15481 Karar md. 15",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "En yüksek orandan vergilendirmede liste zorunluluğu",
+     "dayanak": "GY md. 204",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "GK 76'nın kendisi 2024-43'te soruldu; Yönetmelikteki ticaret politikası önlemine tabi olmama şartı ve liste zorunluluğu sorulmadı."
+    },
+    {
+     "baslik": "Ticaret politikası önlemleri, ilave gümrük vergisi ve menşe şahadetnamesi",
+     "dayanak": "GY md. 205",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "2023-36 ve 2024-37 TPÖ/kota tanımını (başka dosyalar), 2024-36 İGV'de menşe beyanı sorumluluğunu (ayrı Karar) ölçtü; GY 205 hükümleri sorulmadı."
+    },
+    {
+     "baslik": "İthali belli kurum ve kuruluşlara bırakılan eşya",
+     "dayanak": "GY md. 206",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanıma tabi eşya, uygulanmayan haller ve süre sonu müracaatı",
+     "dayanak": "GY md. 207",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-37"
+     ],
+     "not": "Fark verginin teminata bağlanması ve YGM raporu soruldu; nihai kullanımın uygulanmadığı haller (89.08 istisnası) ve otuz günlük müracaat süresi sorulmadı."
+    },
+    {
+     "baslik": "Nihai kullanım izni başvurusu, iptali ve geriye dönük izin",
+     "dayanak": "GY md. 208",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-37"
+     ],
+     "not": "Başvurunun elektronik ortamda yapılması soruldu; iptal halleri, iptalde verginin derhal ödenmesi ve geriye dönük izin şartı sorulmadı."
+    },
+    {
+     "baslik": "Birlikte depolama ve nihai kullanıma tahsis",
+     "dayanak": "GY md. 209",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanım eşyasının devri ve T5 belgesiyle başka gümrüğe gönderilmesi",
+     "dayanak": "GY md. 210",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-37",
+      "2025-56"
+     ],
+     "not": "Devir imkânı soruldu; başka gümrüğe T5 belgesiyle gönderim ve nüsha sayısı sorulmadı."
+    },
+    {
+     "baslik": "Nihai kullanımda izin hak sahibinin sorumluluğu ve denetim",
+     "dayanak": "GY md. 211/1-2",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanım izni verilebilecek kişiler",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 4",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-37"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanım izni talebinin zamanı ve değerlendirilmesi",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-37"
+     ],
+     "not": "Talebin Tek Pencere Sistemi üzerinden elektronik yapılması soruldu; talebin beyanname tescilinden önce yapılması sorulmadı."
+    },
+    {
+     "baslik": "Nihai kullanım eşyasının devri ve ara işlem için başka firmaya gönderilmesi",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 6",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-37",
+      "2025-56"
+     ],
+     "not": "Devir ve hak-yükümlülüklerin devralana geçmesi soruldu; ara işlem için başka firmaya gönderimde sorumluluğun kimde olduğu sorulmadı."
+    },
+    {
+     "baslik": "Nihai kullanım izninde değişiklik ve iptal",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanım izninin sonradan verilmesi",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 8",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-49"
+     ],
+     "not": "YYS/OKSB sahiplerine tescilden itibaren üç ay içindeki başvuruda sonradan izin soruldu; geçici depolama yeri/antrepodaki eşya için beyannamenin kapatılmamış olması şartı ve istisnaları sorulmadı."
+    },
+    {
+     "baslik": "Nihai kullanımda teminat",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 9",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2022-37"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanımda denetim ve teminatın iadesi",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Denetleyici ve izni veren gümrük idareleri",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Nihai kullanımda bilgi-belge verme ve bildirim yükümlülüğü",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış öncesi gümrük işlemlerinin kapsamı",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 1, 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış öncesi gümrükleme izni için başvuru sahibine ilişkin koşullar",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış öncesi gümrükleme izni başvurusu ve değerlendirilmesi",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 6-7",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış öncesi gümrükleme izninin süresi, uzatılması ve iptali",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 8",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Varış öncesi beyanname işlemleri ve beyanın kontrolü",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 9-15",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Oyun alet ve makinalarının serbest dolaşıma girişi",
+     "dayanak": "SDG Tebliği (Seri No 13) md. 5-9",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Boru hatları ve elektrik telleriyle taşınan eşyanın serbest dolaşıma girişi",
+     "dayanak": "SDG Tebliği (Seri No 15)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sıvılaştırılmış doğal gazın (LNG) serbest dolaşıma girişi",
+     "dayanak": "SDG Tebliği (Seri No 16)",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Diğer kurum kontrollerine tabi eşyada yetkilendirilmiş gümrük müşaviri tespit raporu",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 3",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Metal hurda ithalatına ilişkin özel hükümler",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 4",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ticaret politikası önlemlerine tabiiyetin yetkilendirilmiş gümrük müşaviri raporuyla tespiti",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 5",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "2024-91'de YGM Tebliğindeki rapor türü (TP1) soruldu; bu tebliğdeki süreler, teminat ve yaptırım sorulmadı."
+    },
+    {
+     "baslik": "İşlenmiş tarım ürünlerinin tahlili, itiraz ve ikinci tahlil",
+     "dayanak": "SDG Rejimi Tebliği (Seri No 2)",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2022-96",
+      "2023-78"
+     ],
+     "not": "İkinci tahlil sonucunun kesinliği (2022-96) ve itiraz mercii (2023-78; güncel cevap Bölge Müdürlüğü) soruldu; itiraz süresi ve ikinci tahlilin yapılış şekli sorulmadı. Tebliğdeki kurum adları (Başmüdürlük) eskidir; merci sorusu bu metinden yazılmadı."
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Serbest dolaşıma girişin koşulları ve Bölgeye getirilmeden giriş yetkisi",
+     "soru": "4458 sayılı Gümrük Kanununa göre eşyanın Türkiye Gümrük Bölgesine getirilmeden serbest dolaşıma girişine ilişkin usul ve esasları belirlemeye kim yetkilidir?",
+     "cevap": "Cumhurbaşkanı yetkilidir.",
+     "dayanak": "GK md. 74",
+     "kanit": "Eşyanın Türkiye Gümrük Bölgesine getirilmeden serbest dolaşıma girişine ilişkin usul ve esasları belirlemeye Cumhurbaşkanı yetkilidir."
+    },
+    {
+     "alt_konu": "Nihai kullanım eşyasında gümrük gözetiminin sona ermesi",
+     "soru": "4458 sayılı Gümrük Kanununa göre nihai kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi hangi hallerde sona erer?",
+     "cevap": "Nihai kullanım olarak kabul edilen üretim veya kullanım faaliyetiyle sona erer; ayrıca indirimli veya sıfır vergi koşullarının sona ermesi, eşyanın ihraç veya imha edilmesi ya da amaç dışı kullanım nedeniyle tahsili gereken vergilerin ödenmesi hallerinde de sona erer.",
+     "dayanak": "GK md. 77/1",
+     "kanit": "gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyetiyle sona erer. ... eşyanın ihraç veya imha edildiği"
+    },
+    {
+     "alt_konu": "Türk Bayrağı çekilmiş gemilerin Bölgeye getirilmeden serbest dolaşıma girişi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Türk Bayrağı çekilmiş gemilerin Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma girişinde gemi, Bayrak Şahadetnamesinin düzenlendiği tarihten itibaren en geç ne kadar süre içinde sicile kaydedilmelidir?",
+     "cevap": "Yurt dışı temsilciliklerden alınan Bayrak Şahadetnamesinin düzenlendiği tarihten itibaren en geç bir yıl içinde mahalli sicile başvurularak Türk Uluslararası Gemi Siciline veya Milli Gemi Siciline kaydedilmelidir.",
+     "dayanak": "2009/15481 Karar md. 13/1-b",
+     "kanit": "Bayrak Şahadetnamesinin düzenlendiği tarihten itibaren en geç bir yıl içinde mahalli sicile başvurularak Türk Uluslararası Gemi Siciline veya Milli Gemi Siciline kaydedilmesi,"
+    },
+    {
+     "alt_konu": "Türk Bayrağı çekilmiş gemilerin Bölgeye getirilmeden serbest dolaşıma girişi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Türk Bayrağı çekilmiş gemilerin Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma girişinde, liman başkanlığının sicil kaydını bildirmesini müteakip gümrük işlemleri hangi süre içinde sonuçlandırılmalıdır?",
+     "cevap": "Otuz gün içinde sonuçlandırılmalıdır; işlemler geminin kayıtlı olduğu liman başkanlığına en yakın gümrük idaresinde yapılır.",
+     "dayanak": "2009/15481 Karar md. 13/1-ç,d",
+     "kanit": "Liman başkanlıklarının geminin Türk Uluslararası Gemi Siciline kaydının yapıldığının bildirimini müteakip gümrük işlemlerinin otuz gün içinde sonuçlandırılması,"
+    },
+    {
+     "alt_konu": "Hava taşıtlarının Bölgeye getirilmeden serbest dolaşıma girişi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre hava taşıtlarının Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma girişinde hava taşıtı için hangi kurumca düzenlenmiş hangi belge bulunmalıdır?",
+     "cevap": "Sivil Havacılık Genel Müdürlüğü tarafından tanzim edilmiş Teknik Uygunluk Belgesi bulunmalıdır; belge, işlemlerin yapılacağı gümrük idaresinin bağlı olduğu Gümrük ve Muhafaza Başmüdürlüğüne gönderilir ve işlemin Ulaştırma Bakanlığınca da uygun bulunması gerekir.",
+     "dayanak": "2009/15481 Karar md. 14/1-a,b,c",
+     "kanit": "Hava taşıtı için Sivil Havacılık Genel Müdürlüğü tarafından tanzim edilmiş Teknik Uygunluk Belgesinin olması,"
+    },
+    {
+     "alt_konu": "Hava taşıtlarının Bölgeye getirilmeden serbest dolaşıma girişi",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre hava taşıtlarının Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma girişinde gümrük işlemleri hangi süre içinde sonuçlandırılmalıdır?",
+     "cevap": "Teknik Uygunluk Belgesinin düzenlendiği tarihten itibaren otuz gün içinde sonuçlandırılmalıdır (gemilerde ise süre sicil kaydının bildiriminden itibaren işler).",
+     "dayanak": "2009/15481 Karar md. 14/1-d",
+     "kanit": "Teknik Uygunluk Belgesinin düzenlendiği tarihten itibaren otuz gün içinde gümrük işlemlerinin sonuçlandırılması,"
+    },
+    {
+     "alt_konu": "Bölgeye getirilmeden serbest dolaşımda özet beyan ve gümrüğe sunulma istisnası",
+     "soru": "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma giren gemi ve hava taşıtlarına Gümrük Kanununun hangi hükümleri uygulanmaz?",
+     "cevap": "Kanunun özet beyana ve eşyanın gümrüğe sunulmasına ilişkin hükümleri uygulanmaz.",
+     "dayanak": "2009/15481 Karar md. 15/1",
+     "kanit": "13 ve 14 üncü maddeler kapsamında eşyanın serbest dolaşıma giriş işlemlerinde, Kanunun özet beyana ve eşyanın gümrüğe sunulmasına ilişkin hükümleri uygulanmaz."
+    },
+    {
+     "alt_konu": "En yüksek orandan vergilendirmede liste zorunluluğu",
+     "soru": "Gümrük Kanunu ve Gümrük Yönetmeliğine göre bir taşıma belgesi içeriği farklı tarife pozisyonlarına giren eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulanabilmesi için hangi şartlar aranır?",
+     "cevap": "Her bir eşya için kendi tarife pozisyonuna göre işlem yapılmasının ek bir iş yükü ve masrafa sebep olması ve beyan sahibinin bunu talep etmesi gerekir; bu durumda gümrük idareleri eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulayabilir. Yönetmeliğe göre bu uygulama herhangi bir ticaret politikası önlemine tabi olmayan eşyaya yapılır ve taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonunu içeren listenin beyannameye eklenmesi zorunludur.",
+     "dayanak": "GK md. 76; GY md. 204/1",
+     "kanit": "her bir eşya için kendi tarife pozisyonuna göre işlem yapılmasının ek bir iş yükü ve masrafa sebep olması halinde, beyan sahibinin talebi üzerine, gümrük idareleri, eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulayabilirler. ... Herhangi bir ticaret politikası önlemine tabi olmayan eşyaya Kanunun 76 ncı maddesi hükmünün uygulanması halinde, taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonunu içeren listenin beyannameye eklenmesi zorunludur."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemleri, ilave gümrük vergisi ve menşe şahadetnamesi",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşıma girişte ticaret politikası önlemleri, ilave gümrük vergisi ve diğer mali yükümlülüklerin uygulanmasında hangi tarih esas alınır?",
+     "cevap": "Serbest dolaşıma giriş beyannamesinin tescil tarihi esas alınır; önlemin bir belgeye istinaden uygulandığı hallerde tescil tarihi itibarıyla geçerlilik süresi sona ermiş belgeler kabul edilmez.",
+     "dayanak": "GY md. 205/2",
+     "kanit": "serbest dolaşıma giriş beyannamesinin tescil tarihi esas alınır. Önlem kararının düzenlenecek bir belgeye istinaden uygulanması durumunda, gümrük beyannamesinin tescil tarihi itibariyle geçerlilik süresi sona eren belgeler kabul edilmez."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemleri, ilave gümrük vergisi ve menşe şahadetnamesi",
+     "soru": "Gümrük Yönetmeliğine göre serbest dolaşıma girişte ticaret politikası önlemlerine, ilave gümrük vergisine veya ek mali yükümlülüğe tabi eşyanın menşei hangi belge ile ispat edilir?",
+     "cevap": "Menşe şahadetnamesi ile ispat olunur; menşe şahadetnamesi serbest dolaşıma giriş beyannamesi ekinde ibraz edilir.",
+     "dayanak": "GY md. 205/3",
+     "kanit": "tabi eşyanın menşei, menşe şahadetnamesi ile ispat olunur. Menşe şahadetnamesi, eşyanın serbest dolaşıma girişine ilişkin beyanname ekinde ibraz edilir."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemleri, ilave gümrük vergisi ve menşe şahadetnamesi",
+     "soru": "Gümrük Yönetmeliğine göre ticaret politikası önlemine tabi eşyanın serbest dolaşıma girişinde hangi hallerde menşe şahadetnamesi aranmaz?",
+     "cevap": "Tercihli tarifeden yararlanmak için tercihli menşei tevsik eden belgelerin ibrazında (tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan serbest dolaşımda olmayan eşyaya ait bu belgelerin ibrazı dahil), eşyanın doğrudan önlemin uygulandığı ülkeden ithal edildiği veya önlem uygulanan ülke menşeli olduğu beyan edildiği hallerde ve 1/95 sayılı Ortaklık Konseyi Kararının 47. maddesi saklı kalmak üzere AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşyada menşe şahadetnamesi aranmaz. Ancak önlem uygulanan ülkeden ithal edilen/menşeli beyan edilen eşya aynı anda birden fazla önleme tabiyse ya da aynı düzenlemede ülkesine göre farklı oranlar belirlenmişse menşe şahadetnamesi aranır. Numunelerin serbest dolaşıma girişinde ise bu madde hükümleri uygulanmaz.",
+     "dayanak": "GY md. 205/4, 205/7",
+     "kanit": "Doğrudan ticaret politikası önleminin uygulandığı ülkeden ithal edilen ... AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşyanın serbest dolaşıma girişinde, ... Ancak, (c) bendinin istisnası olarak, eşyanın aynı zamanda birden fazla ticaret politikası önlemi, ilave gümrük vergisi veya ek mali yükümlülük gibi diğer mali yükümlülüklere tabi olması ya da aynı düzenleme kapsamında ülkesine göre farklı oranların belirlenmiş olması durumunda menşe şahadetnamesi aranır. ... Numunelerin serbest dolaşıma girişinde bu madde hükümleri uygulanmaz."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemleri, ilave gümrük vergisi ve menşe şahadetnamesi",
+     "soru": "Gümrük Yönetmeliğine göre önlem uygulanan ülke menşeli olduğu beyan edilen eşya aynı anda birden fazla önleme tabiyse veya ülkesine göre farklı oranlar belirlenmişse menşe şahadetnamesi ibraz edilmediğinde nasıl işlem yapılır?",
+     "cevap": "Bu durumda menşe şahadetnamesi aranır; ibraz edilmemesi halinde tahsil edilmesi gerekenlerden en yüksek tutarlar esas alınarak işlem yapılır.",
+     "dayanak": "GY md. 205/4",
+     "kanit": "durumunda menşe şahadetnamesi aranır. Menşe şahadetnamesi ibraz edilmemesi halinde, tahsil edilmesi gerekenlerden en yüksek tutarlar esas alınarak işlem yapılır."
+    },
+    {
+     "alt_konu": "İthali belli kurum ve kuruluşlara bırakılan eşya",
+     "soru": "Gümrük Yönetmeliğine göre özel kanunlar gereğince ithali belli kurum ve kuruluşlara bırakılan eşyayı kimler ithal edebilir?",
+     "cevap": "Ancak bu kurum veya kuruluşlar ya da bunların yetki verdiği kurum veya kuruluşlarca ithal edilebilir.",
+     "dayanak": "GY md. 206/1",
+     "kanit": "Özel kanunlar gereğince Türkiye'ye ithali belli kurum ve kuruluşlara bırakılan eşya, ancak bu kurum veya kuruluşlar veya bunların yetki verdiği kurum veya kuruluşlarca ithal edilebilir."
+    },
+    {
+     "alt_konu": "Nihai kullanıma tabi eşya, uygulanmayan haller ve süre sonu müracaatı",
+     "soru": "Gümrük Yönetmeliğine göre nihai kullanıma tabi tutulacak eşyanın Avrupa Birliğinde serbest dolaşımda olması veya diğer tercihli tarife uygulamalarına konu olması halinde nihai kullanım hükümleri hangi durumda uygulanmaz?",
+     "cevap": "Bu hallerde (AB'de serbest dolaşım, diğer tercihli tarife ya da Kanunla muafiyet/Kararla indirimli vergi) eşyanın tabi olduğu gümrük vergisinin uygulanabilecek vergi ile aynı veya yüksek olması durumunda nihai kullanım hükümleri uygulanmaz; 89.08 pozisyonundaki sökülecek gemiler ve suda yüzen sökülecek diğer araçlar bu sınırlamanın dışındadır.",
+     "dayanak": "GY md. 207/2",
+     "kanit": "bu eşyanın tabi olduğu gümrük vergisinin uygulanabilecek vergi ile aynı veya yüksek olması durumunda söz konusu eşyaya 89.08 tarife pozisyonunda yer alan 'sökülecek gemilerle, suda yüzen sökülecek diğer araçlar' hariç nihai kullanım hükümleri uygulanmaz."
+    },
+    {
+     "alt_konu": "Nihai kullanıma tabi eşya, uygulanmayan haller ve süre sonu müracaatı",
+     "soru": "Gümrük Yönetmeliğine göre nihai kullanım izin hak sahibi izin belgesindeki sürenin sona ermesinden itibaren hangi süre içinde izni veren gümrük idaresine müracaat etmezse ne olur?",
+     "cevap": "Otuz gün içinde müracaat edilmemesi halinde indirimli veya sıfır vergi oranı nedeniyle alınmamış olan fark vergiler tahsil edilir.",
+     "dayanak": "GY md. 207/4",
+     "kanit": "İzin belgesinde öngörülen sürenin sona ermesinden itibaren otuz gün içinde izni veren gümrük idaresine herhangi bir müracaatta bulunulmaması halinde eşyaya ilişkin indirimli veya sıfır vergi oranı uygulanması nedeniyle alınmamış olan fark vergiler tahsil edilir."
+    },
+    {
+     "alt_konu": "Nihai kullanım izni başvurusu, iptali ve geriye dönük izin",
+     "soru": "Gümrük Yönetmeliğine göre nihai kullanım izni hangi hallerde iptal edilir?",
+     "cevap": "İzin aşamasında yanlış veya gerçeğe aykırı beyanda bulunulduğunun, eşyanın nihai kullanıma tahsis edilmediğinin veya edilemeyeceğinin anlaşılması ya da eşyanın gümrük idaresinin izni olmaksızın devredilmesi veya satılması hallerinde iptal edilir; iptalde izin hak sahibi tahsis edilmemiş eşyanın vergisini derhal öder.",
+     "dayanak": "GY md. 208/4-5",
+     "kanit": "gümrük idaresinin izni olmaksızın devredilmesi veya satılması hallerinde izin iptal edilir. ... nihai kullanıma tahsis edilmemiş eşya ile ilgili gümrük vergisini derhal ödemek zorundadır."
+    },
+    {
+     "alt_konu": "Nihai kullanım izni başvurusu, iptali ve geriye dönük izin",
+     "soru": "Gümrük Yönetmeliğine göre nihai kullanım için geriye dönük izin verilebilmesi hangi şarta bağlıdır?",
+     "cevap": "Eşya üzerinde gümrük gözetiminin sona ermemiş olması şartı aranır.",
+     "dayanak": "GY md. 208/7",
+     "kanit": "geriye dönük izin verilebilmesi için eşya üzerinde gümrük gözetiminin sona ermemiş olması şartı aranır."
+    },
+    {
+     "alt_konu": "Birlikte depolama ve nihai kullanıma tahsis",
+     "soru": "Gümrük Yönetmeliğine göre nihai kullanımı nedeniyle indirimli tarife uygulanan eşyanın başka eşya ile birlikte depolanmasına hangi şartla izin verilebilir?",
+     "cevap": "İzin hak sahibinin haklı gerekçeleri bulunması halinde, aynı teknik ve fiziksel özelliklere sahip, aynı şekil ve evsaftaki eşya ile, kayıtlarda ayrı ayrı gösterilmesi şartıyla birlikte depolanmasına izin verilebilir.",
+     "dayanak": "GY md. 209/1",
+     "kanit": "nihai kullanımı nedeniyle indirimli tarife uygulanan eşyanın, aynı teknik ve fiziksel özelliklere sahip, aynı şekil ve evsaftaki eşya ile birlikte depolanmasına kayıtlarda ayrı ayrı gösterilmesi şartıyla izin verebilir."
+    },
+    {
+     "alt_konu": "Birlikte depolama ve nihai kullanıma tahsis",
+     "soru": "Gümrük Yönetmeliğine göre mükerrer olarak kullanılabilen eşya hangi süre geçtiğinde nihai kullanıma tahsis edilmiş sayılır?",
+     "cevap": "Öngörülen kullanıma ilk tahsis tarihinden itibaren iki yıl geçmiş olması halinde tahsis edilmiş sayılır (bir kez kullanılabilen eşyada ise tümünün süresi içinde tahsis edilmiş olması gerekir).",
+     "dayanak": "GY md. 209/4",
+     "kanit": "Mükerrer olarak kullanılabilir olması durumunda, öngörülen kullanıma ilk tahsis tarihinden itibaren iki yıl geçmiş olması,"
+    },
+    {
+     "alt_konu": "Birlikte depolama ve nihai kullanıma tahsis",
+     "soru": "Gümrük Yönetmeliğine göre nihai kullanım işlemi sonucunda ortaya çıkan atık ve artıklar ile doğal yıpranmadan ileri gelen kayıplar nasıl değerlendirilir?",
+     "cevap": "Nihai kullanıma tabi tutulmuş eşya olarak değerlendirilir.",
+     "dayanak": "GY md. 209/7",
+     "kanit": "Nihai kullanım işleminin gerçekleştirilmesi sonucunda ortaya çıkan atık ve artıklar ile doğal yıpranmadan ileri gelen kayıplar da nihai kullanıma tabi tutulmuş eşya olarak değerlendirilir."
+    },
+    {
+     "alt_konu": "Nihai kullanım eşyasının devri ve T5 belgesiyle başka gümrüğe gönderilmesi",
+     "soru": "Gümrük Yönetmeliğine göre devir nedeniyle başka bir gümrüğe gönderilecek nihai kullanım kapsamı eşya hangi belgeyle gönderilir ve bu belge kaç nüsha düzenlenir?",
+     "cevap": "T5 belgesi ile gönderilir; T5 belgesi üç nüsha düzenlenir ve tescil edilir, iki nüshası eşyayla varış gümrüğüne ibraz edilmek üzere eşya sahibine verilir.",
+     "dayanak": "GY md. 210/3-4, 210/6",
+     "kanit": "Devir nedeniyle başka bir gümrüğe gönderilecek nihai kullanım kapsamı eşya varış gümrüğüne ek-32'de yer alan T5 belgesi ile gönderilir. ... T5 belgesi üç nüsha düzenlenir ve tescil işlemine tabi tutulur."
+    },
+    {
+     "alt_konu": "Nihai kullanımda izin hak sahibinin sorumluluğu ve denetim",
+     "soru": "Gümrük Yönetmeliğine göre nihai kullanımda izin hak sahibi nelerden sorumludur?",
+     "cevap": "Eşyayı öngörülen nihai kullanıma tahsis etmekten ve gümrük idarelerinin gerekli kontrolleri yapabilmesini sağlayacak kayıtları tutup dayanak belgeleriyle birlikte saklamaktan sorumludur.",
+     "dayanak": "GY md. 211/1",
+     "kanit": "Eşyayı, öngörülen nihai kullanıma tahsis etmekle, ... gerekli gördükleri kontrolleri yapabilmelerini sağlayacak kayıtları tutmak ve bunların dayanaklarını teşkil eden belgelerle birlikte saklamakla,"
+    },
+    {
+     "alt_konu": "Nihai kullanım izni talebinin zamanı ve değerlendirilmesi",
+     "soru": "Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre nihai kullanım nedeniyle indirimli veya sıfır vergi oranı uygulanabilmesi için talep ne zaman ve nereye yapılır?",
+     "cevap": "Eşyanın serbest dolaşıma gireceği yetkili gümrük idaresine, beyannamenin tescil tarihinden önce yazılı olarak yapılır.",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 5/1",
+     "kanit": "eşyanın serbest dolaşıma gireceği yetkili gümrük idaresinden, beyannamenin tescil tarihinden önce yazılı olarak talepte bulunulur."
+    },
+    {
+     "alt_konu": "Nihai kullanım eşyasının devri ve ara işlem için başka firmaya gönderilmesi",
+     "soru": "Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre nihai kullanım kapsamı eşya ara işleme tabi tutulmak veya nihai kullanıma tahsis edilmek üzere başka bir firmaya gönderildiğinde sorumluluk kime aittir?",
+     "cevap": "İzin belgesinde işlem ve işlemi yapacak firma bilgileri ayrıntılı belirtilmek ve gümrük idaresinin izni alınmak kaydıyla gönderilebilir; bu durumda sorumluluk izin hak sahibine aittir.",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 6/3",
+     "kanit": "ara işleme tabi tutulmak ya da nihai kullanıma tahsis edilmek üzere başka bir firmaya gönderilebilir. Bu durumda sorumluluk izin hak sahibine aittir."
+    },
+    {
+     "alt_konu": "Nihai kullanım izninde değişiklik ve iptal",
+     "soru": "Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre denetleyici gümrük idaresi ile izni veren gümrük idaresinin farklı olması halinde izin iptalini gerektiren duruma ilişkin bilgi ve belgeler hangi süre içinde izni veren idareye gönderilir?",
+     "cevap": "İptali gerektiren durumun tespitini takip eden beş iş günü içinde izni veren gümrük idaresine gönderilir; iptal, izni veren idarece Tek Pencere Sistemi üzerinden yapılır.",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 7/2",
+     "kanit": "izin iptaline ilişkin ilgili bilgi ve belgeler, izin iptalini gerektiren durumun tespitini takip eden beş iş günü içinde iznin iptalini teminen izni veren gümrük idaresine gönderilir."
+    },
+    {
+     "alt_konu": "Nihai kullanım izninin sonradan verilmesi",
+     "soru": "Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre geçici depolama yeri veya antrepodaki eşya için nihai kullanım izni hangi şartla sonradan verilebilir ve hangi eşya bu imkândan yararlanamaz?",
+     "cevap": "Beyannamenin kapatılmamış olması şartıyla sonradan verilebilir; tam beyanlı yaygın basitleştirilmiş usule tabi eşya ile sivil hava taşıtları ve parçaları bu imkânın dışındadır.",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 8/1",
+     "kanit": "Tam beyanlı yaygın basitleştirilmiş usule tabi eşya ile sivil hava taşıtları ve parçaları hariç olmak üzere geçici depolama yeri veya antrepodaki eşya için, nihai kullanım izni beyannamenin kapatılmamış olması şartı ile sonradan verilebilir."
+    },
+    {
+     "alt_konu": "Nihai kullanımda denetim ve teminatın iadesi",
+     "soru": "Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre gümrük idaresi eşyanın nihai kullanıma tahsis sürecinde en az kaç defa denetim yapar?",
+     "cevap": "Tahsis sürecinde en az bir defa denetim yapılır; gümrük idaresi eşya ve işlemi üretim süreci dahil her zaman denetleyebilir.",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 10/1",
+     "kanit": "Gümrük idareleri tarafından eşyanın nihai kullanıma tahsis sürecinde en az bir defa denetim yapılır."
+    },
+    {
+     "alt_konu": "Denetleyici ve izni veren gümrük idareleri",
+     "soru": "Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre eşyanın kullanılacağı yer izni veren gümrük idaresinin bulunduğu il sınırları dışında ise denetleyici gümrük idaresi hangisidir?",
+     "cevap": "Kural olarak izni veren idare denetleyicidir; ancak kullanım yeri il sınırları dışındaysa eşyanın tahsis edileceği veya kullanılacağı yere en yakın gümrük idaresi denetleyici idaredir ve izni veren idare izin belgesini iznin verilmesini takip eden ilk iş günü içinde ona gönderir.",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 11/1",
+     "kanit": "denetleyici gümrük idaresi eşyanın nihai kullanıma tahsis edileceği veya öngörülen amaçlar için kullanılacağı yere en yakın gümrük idaresidir."
+    },
+    {
+     "alt_konu": "Nihai kullanımda bilgi-belge verme ve bildirim yükümlülüğü",
+     "soru": "Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre ara işleme gönderilen nihai kullanım eşyası ara işlemden sonra izin hak sahibine geri getirilmeden önce izin hak sahibinin yükümlülüğü nedir?",
+     "cevap": "Eşya geri getirilmeden önce izni veren gümrük idaresine bildirimde bulunulur (eşya başka firmaya gönderilmeden önce de gümrük idaresine bildirim yapılır).",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No 1) md. 12/2",
+     "kanit": "Ara işlemden sonra eşyanın izin hak sahibine geri getirilmesinden önce izni veren gümrük idaresine bildirimde bulunulur."
+    },
+    {
+     "alt_konu": "Varış öncesi gümrük işlemlerinin kapsamı",
+     "soru": "Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre eşyanın Türkiye Gümrük Bölgesine gelişinden önce rejime giriş işlemlerine başlanabilmesi hangi rejimler ve taşıma türleri için öngörülmüştür?",
+     "cevap": "Serbest dolaşıma giriş ve dahilde işleme rejimleri kapsamında, denizyolu konteyner taşımacılığı veya havayolu taşımacılığı ile gelen ve yerli üretimde girdi olarak kullanılabilecek eşya için öngörülmüştür; yararlanacak eşyayı Genel Müdürlük belirler.",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 1, 5",
+     "kanit": "serbest dolaşıma giriş ve dahilde işleme rejimi kapsamında denizyolu konteyner taşımacılığı veya havayolu taşımacılığı ile Türkiye Gümrük Bölgesine gelen yerli üretimde girdi olarak kullanılabilecek eşyanın"
+    },
+    {
+     "alt_konu": "Varış öncesi gümrükleme izni için başvuru sahibine ilişkin koşullar",
+     "soru": "Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre izin başvurusunda bulunacak kişinin Türkiye Gümrük Bölgesinde yerleşik olmasının yanında en az ne kadar süredir faaliyette bulunması gerekir?",
+     "cevap": "En az üç yıldır faaliyette bulunması gerekir.",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 4/1-a",
+     "kanit": "Türkiye Gümrük Bölgesinde yerleşik olması ve en az üç yıldır faaliyette bulunması."
+    },
+    {
+     "alt_konu": "Varış öncesi gümrükleme izni için başvuru sahibine ilişkin koşullar",
+     "soru": "Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre başvuru sahibinin gerçekleştirmiş olması gereken asgari yıllık fiili ihracat tutarı nedir?",
+     "cevap": "Başvuru yılından önceki son üç takvim yılı veya başvurunun kayda alındığı ayın ilk gününden geriye dönük üç yıl içinde yılda asgari beş milyon FOB/ABD doları tutarında fiili ihracat gerçekleştirmiş olmalıdır.",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 4/1-e",
+     "kanit": "yılda asgari beş milyon FOB/ABD doları tutarında fiili ihracat gerçekleştirmiş olması,"
+    },
+    {
+     "alt_konu": "Varış öncesi gümrükleme izni başvurusu ve değerlendirilmesi",
+     "soru": "Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre varış öncesi gümrükleme izni başvurusu nereye yapılır?",
+     "cevap": "Başvuru sahibinin ticaret sicili kaydına göre şirket merkezinin bulunduğu ilin bağlı olduğu Gümrük ve Dış Ticaret Bölge Müdürlüğüne yapılır; başvurular Genel Müdürlükçe veya yetki verilmesi halinde bölge müdürlüğünce değerlendirilir.",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 6/1, 7/1",
+     "kanit": "Başvurular, başvuru sahibinin ticaret sicili kaydı uyarınca şirket merkezinin bulunduğu ilin bağlı olduğu Gümrük ve Dış Ticaret Bölge Müdürlüğüne yapılır."
+    },
+    {
+     "alt_konu": "Varış öncesi gümrükleme izni başvurusu ve değerlendirilmesi",
+     "soru": "Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre yetkilendirilmiş yükümlü statüsü sahipleri varış öncesi gümrük işlemlerinden nasıl yararlanır?",
+     "cevap": "Kendilerinden ayrıca başvuru alınmaz ve başvuru koşulları aranmaz; tebliğ hükümlerinden sertifika geçerli olduğu sürece doğrudan faydalandırılırlar.",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 6/3, 4/2, 8/2",
+     "kanit": "Yetkilendirilmiş yükümlü statüsü sahiplerinden ayrıca başvuru alınmaz. Bu kişiler bu Tebliğ hükümlerinden doğrudan faydalandırılır."
+    },
+    {
+     "alt_konu": "Varış öncesi gümrükleme izninin süresi, uzatılması ve iptali",
+     "soru": "Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre varış öncesi gümrükleme izninin süresi ne zaman sona erer?",
+     "cevap": "İznin verildiği yılı izleyen takvim yılını takip eden üçüncü yılın son günü sona erer; uzatma için iznin sona erdiği yılın Kasım ayı içinde başvurulur.",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 8/1",
+     "kanit": "İzin süre sonu, iznin verildiği yılı izleyen takvim yılını takip eden üçüncü yılın son günüdür."
+    },
+    {
+     "alt_konu": "Varış öncesi beyanname işlemleri ve beyanın kontrolü",
+     "soru": "Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre tebliğ kapsamındaki eşyanın gümrük beyannamesine konu edilebilmesi için hangi şart aranır?",
+     "cevap": "Tescil edilmiş statüde bir özet beyanın bulunması gerekir; beyanname, özet beyanın ilgili satırındaki eşyanın tamamını kapsamalıdır.",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 9",
+     "kanit": "Bu Tebliğ kapsamı eşyanın gümrük beyannamesine konu edilebilmesi için tescil edilmiş statüde bir özet beyanın bulunması gereklidir."
+    },
+    {
+     "alt_konu": "Varış öncesi beyanname işlemleri ve beyanın kontrolü",
+     "soru": "Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre tebliğ kapsamında işlem gören beyannamelerin beyanın kontrolü türü (hat bildirimi) yükümlülere ne zaman bildirilir?",
+     "cevap": "Varış bildirimi onayına kadar yükümlülere bildirilmez.",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 10/1",
+     "kanit": "Bu Tebliğ kapsamında işlem gören gümrük beyannamelerinin beyanın kontrolü türü (hat bildirimi), varış bildirimi onayına kadar yükümlülere bildirilmez."
+    },
+    {
+     "alt_konu": "Varış öncesi beyanname işlemleri ve beyanın kontrolü",
+     "soru": "Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre kırmızı hatta sevk edilen beyanname kapsamı eşya hakkında nasıl işlem yapılır?",
+     "cevap": "Eşya izin kapsamında değerlendirilmez; beyannamede düzeltme yapılarak varış öncesi basitleştirilmiş usul kodu iptal edilir ve eşyanın geçici depolama giriş kaydı yapılır.",
+     "dayanak": "Varış Öncesi Tebliği (Seri No 1) md. 13/2",
+     "kanit": "kırmızı hatta sevki yapılan veya varış bildirimi onayı ile birlikte yükümlülerce beyanın kontrol türünün kırmızı hat olduğunun öğrenildiği gümrük beyannamesi kapsamı eşya izin kapsamında değerlendirilmez."
+    },
+    {
+     "alt_konu": "Oyun alet ve makinalarının serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 13)'e göre 1072 sayılı Kanun kapsamı dışında kalan oyun alet ve makinalarının ithaline izin verilebilmesi için hangi koşulların tümünün aynı anda sağlanması gerekir?",
+     "cevap": "Elektronik veya dijital olması; ekran ihtiva etmesi ve jeton veya elektronik kart sistemi ile çalışması; kullanımının süreye bağlı olması; puan veya süre kazanımı dışında herhangi bir ödül veya kazanç sağlamaması gerekir (ayrıca tebliğde sayılan 9504 GTİP'lerinde yer almalıdır).",
+     "dayanak": "SDG Tebliği (Seri No 13) md. 6",
+     "kanit": "Ekran ihtiva etmesi, jeton veya elektronik kart sistemi ile çalışması, ... Puan veya süre kazanımı dışında herhangi bir ödül veya kazanç sağlamaması,"
+    },
+    {
+     "alt_konu": "Oyun alet ve makinalarının serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 13)'e göre ithali yasak oyun alet ve makinası olup olmadığı gümrük idaresince açıkça tespit edilemeyen eşyayı değerlendiren Komisyon kimlerden oluşur?",
+     "cevap": "Gümrük müdürlüğünün talebi üzerine, işlemin yapılacağı ildeki Baronun görevlendireceği hukukçu, Makina Mühendisleri Odasının görevlendireceği makina mühendisi ve Emniyet Müdürlüğü ahlak büro görevlisinden oluşur; kararlar oy çokluğuyla alınır.",
+     "dayanak": "SDG Tebliği (Seri No 13) md. 4, 7",
+     "kanit": "gümrük işleminin yapılacağı ildeki Baronun görevlendireceği hukukçu, Makina Mühendisleri Odasının görevlendireceği makina mühendisi ve Emniyet Müdürlüğü ahlak büro görevlisinin katılımıyla oluşturulacak heyeti,"
+    },
+    {
+     "alt_konu": "Oyun alet ve makinalarının serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 13)'e göre kumar ve kazanç kastı bulunmayan eğlence amaçlı oyun alet ve makinalarının ithalinde hangi kurumun ayrıca uygun görmesi gerekir?",
+     "cevap": "İçişleri Bakanlığının (Mahalli İdareler Genel Müdürlüğü) uygun görmesi gerekir; spor amaçlılarda Gençlik ve Spor Bakanlığı, eğitim-öğretim amaçlılarda Milli Eğitim Bakanlığı, ilgili Fakülte Dekanlığı veya Yüksekokul Müdürlüğü yetkilidir.",
+     "dayanak": "SDG Tebliği (Seri No 13) md. 8",
+     "kanit": "Eğlence amaçlı oyun alet ve makinalarının ise İçişleri Bakanlığınca (Mahalli İdareler Genel Müdürlüğü),"
+    },
+    {
+     "alt_konu": "Oyun alet ve makinalarının serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 13)'e göre tebliğ kapsamındaki oyun alet ve makinalarının serbest dolaşıma giriş işlemlerini yapmaya hangi gümrük müdürlükleri yetkilidir?",
+     "cevap": "Ankara, Mersin, Antalya ve İzmir Gümrük Müdürlükleri ile İstanbul Havalimanı, Atatürk Havalimanı Kargo, Halkalı ve Ambarlı Gümrük Müdürlükleri yetkilidir.",
+     "dayanak": "SDG Tebliği (Seri No 13) md. 9",
+     "kanit": "Orta Anadolu Gümrük ve Ticaret Bölge Müdürlüğüne bağlı Ankara Gümrük Müdürlüğü, ... İstanbul Havalimanı, Atatürk Havalimanı Kargo, Halkalı ve Ambarlı Gümrük Müdürlükleri yetkilidir."
+    },
+    {
+     "alt_konu": "Boru hatları ve elektrik telleriyle taşınan eşyanın serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 15)'e göre boru hatları veya elektrik telleriyle sürekli akış halinde bir ay içinde getirilmesi öngörülen eşyanın serbest dolaşıma giriş beyannamesi ne zaman tescil edilir?",
+     "cevap": "O ayın ilk on günü içinde tescil edilir.",
+     "dayanak": "SDG Tebliği (Seri No 15) md. 4/1",
+     "kanit": "bir ay içinde getirilmesi öngörülen eşyaya ilişkin serbest dolaşıma giriş beyannamesi o ayın ilk on günü içinde tescil edilir."
+    },
+    {
+     "alt_konu": "Boru hatları ve elektrik telleriyle taşınan eşyanın serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 15)'e göre beyana esas miktarın tek seferde veya kısım kısım gelmesi halinde serbest dolaşıma giriş beyannamesi en geç ne zaman tescil edilir?",
+     "cevap": "En geç eşyanın Türkiye Gümrük Bölgesine geldiği günü takip eden ilk iş günü içinde tescil edilir.",
+     "dayanak": "SDG Tebliği (Seri No 15) md. 4/2",
+     "kanit": "serbest dolaşıma giriş beyannamesi en geç eşyanın Türkiye Gümrük Bölgesine geldiği günü takip eden ilk iş günü içinde tescil edilir."
+    },
+    {
+     "alt_konu": "Boru hatları ve elektrik telleriyle taşınan eşyanın serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 15)'e göre beyannamenin tescili anında beyan edilemeyen fatura veya diğer belgeler en geç ne zamana kadar ibraz edilir?",
+     "cevap": "En geç eşyanın Türkiye Gümrük Bölgesine geldiği ayı takip eden ayın yirmi altıncı gününe (yirmi altıncı gün dahil) kadar ibraz edilir; tahakkuk eden vergiler de aynı süre içinde ödenir.",
+     "dayanak": "SDG Tebliği (Seri No 15) md. 5/2-3",
+     "kanit": "en geç eşyanın Türkiye Gümrük Bölgesine geldiği ayı takip eden ayın yirmi altıncı gününe (yirmi altıncı gün dahil) kadar gümrük idaresine ibraz edilir."
+    },
+    {
+     "alt_konu": "Boru hatları ve elektrik telleriyle taşınan eşyanın serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 15)'e göre tebliğ kapsamındaki eşyanın serbest dolaşıma giriş işlemlerini yapmaya hangi gümrük idaresi yetkilidir?",
+     "cevap": "Orta Anadolu Gümrük ve Ticaret Bölge Müdürlüğüne bağlı Ankara Gümrük Müdürlüğü yetkilidir.",
+     "dayanak": "SDG Tebliği (Seri No 15) md. 6",
+     "kanit": "Bu Tebliğ kapsamına giren eşyanın serbest dolaşıma girişine ilişkin gümrük işlemlerini yapmaya Orta Anadolu Gümrük ve Ticaret Bölge Müdürlüğüne bağlı Ankara Gümrük Müdürlüğü yetkilidir."
+    },
+    {
+     "alt_konu": "Sıvılaştırılmış doğal gazın (LNG) serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 16)'ya göre deniz yoluyla sıvı halde getirilen LNG'nin serbest dolaşıma giriş beyannamesi ne zaman tescil edilir?",
+     "cevap": "Kanunda öngörülen geçici depolama süreleri içinde ve eşyanın boşaltılmasına başlanmadan önce tescil edilir; bu eşya için özet beyan verilir ve eşya gümrüğe sunulur.",
+     "dayanak": "SDG Tebliği (Seri No 16) md. 3-4",
+     "kanit": "eşyanın boşaltılmasına başlanmadan önce tescil edilir."
+    },
+    {
+     "alt_konu": "Sıvılaştırılmış doğal gazın (LNG) serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 16)'ya göre LNG'ye ilişkin fatura veya diğer belgeler en geç ne zamana kadar ibraz edilir?",
+     "cevap": "En geç beyannamenin tescil edildiği ayı takip eden ayın yirmi altıncı gününe (yirmi altıncı gün dahil) kadar ibraz edilir (boru hattı tebliğinde ise eşyanın geldiği ay esas alınır).",
+     "dayanak": "SDG Tebliği (Seri No 16) md. 5/2",
+     "kanit": "en geç beyannamenin tescil edildiği ayı takip eden ayın yirmi altıncı gününe (yirmi altıncı gün dahil) kadar gümrük idaresine ibraz edilir."
+    },
+    {
+     "alt_konu": "Sıvılaştırılmış doğal gazın (LNG) serbest dolaşıma girişi",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 16)'ya göre LNG'nin serbest dolaşıma giriş işlemlerini yapmaya hangi gümrük müdürlükleri yetkilidir?",
+     "cevap": "Aliağa, Tekirdağ ve İskenderun Gümrük Müdürlükleri yetkilidir; altyapı kurulması halinde Bakanlıkça (Gümrükler Genel Müdürlüğü) diğer idareler de yetkilendirilebilir.",
+     "dayanak": "SDG Tebliği (Seri No 16) md. 6",
+     "kanit": "Aliağa Gümrük Müdürlüğü, Batı Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğüne bağlı Tekirdağ Gümrük Müdürlüğü ve Doğu Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğüne bağlı İskenderun Gümrük Müdürlüğü yetkilidir."
+    },
+    {
+     "alt_konu": "Diğer kurum kontrollerine tabi eşyada yetkilendirilmiş gümrük müşaviri tespit raporu",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)'e göre diğer kurumlarca kontrole tabi eşyanın serbest dolaşıma girişi sonrası beyana uygun kullanımının tespitine ilişkin yetkilendirilmiş gümrük müşaviri raporu hangi süre içinde düzenlenir?",
+     "cevap": "Beyannamenin tescil tarihinden itibaren altı ay içinde düzenlenir; süresinde başvurulursa üçer aylık dönemler halinde uzatılabilir, ancak ek süreler dahil yirmi dört ayı geçemez.",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 3/2",
+     "kanit": "Yetkilendirilmiş gümrük müşaviri raporu beyannamenin tescil tarihinden itibaren altı ay içinde düzenlenir."
+    },
+    {
+     "alt_konu": "Diğer kurum kontrollerine tabi eşyada yetkilendirilmiş gümrük müşaviri tespit raporu",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)'e göre diğer kurum kontrollerine ilişkin tespit raporunun süresi içinde ibraz edilmemesi halinde yükümlüye hangi yaptırım uygulanır?",
+     "cevap": "İbraz süresinin bitiminden itibaren raporun ibraz edildiği güne kadar geçen her gün için Gümrük Kanunu uyarınca usulsüzlük cezası uygulanır; ceza en fazla iki aylık süre için uygulanır.",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 3/3",
+     "kanit": "raporun ibraz edildiği güne kadar geçen her gün için yükümlüye Gümrük Kanununun 241 inci maddesinin birinci fıkrası uyarınca usulsüzlük cezası uygulanır. Usulsüzlük cezası en fazla iki aylık süre için uygulanır"
+    },
+    {
+     "alt_konu": "Diğer kurum kontrollerine tabi eşyada yetkilendirilmiş gümrük müşaviri tespit raporu",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)'e göre yetkilendirilmiş gümrük müşavirleri hangi yükümlülerin beyannameleri kapsamındaki eşya için tespit raporu düzenleyemez?",
+     "cevap": "Tespit tarihi itibarıyla son iki yıl içinde bizzat veya ortağı oldukları müşavirlik firmasınca dolaylı temsil suretiyle işlerini takip ettikleri yükümlüler ile çalışanı veya ortağı oldukları yükümlüler adına ya da hesabına tescil edilen beyannameler kapsamı eşya için rapor düzenleyemezler.",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 3/6",
+     "kanit": "tespit tarihi itibarıyla son iki yıl içinde, bizzat kendilerince veya ortağı oldukları gümrük müşavirliği firmalarınca dolaylı temsil suretiyle işleri takip edilen yükümlüler ile çalışanı veya ortağı oldukları yükümlüler"
+    },
+    {
+     "alt_konu": "Metal hurda ithalatına ilişkin özel hükümler",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)'e göre hurda olarak beyan edilmesi halinde özel hükümlere tabi olan eşya Türk Gümrük Tarife Cetvelinin hangi fasıllarında yer alır ve nasıl olmalıdır?",
+     "cevap": "72, 74 ve 76. fasıllarda hurda olarak beyan edilen eşyadır; izahname açıklama notlarında belirtildiği gibi kırpıntı, döküntü ve yeniden kullanılamaz halde olması gerekir.",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 4/1",
+     "kanit": "Türk Gümrük Tarife Cetvelinin 72 nci, 74 üncü ve 76 ncı fasıllarında hurda olarak beyan edilen eşyanın izahname açıklama notlarında belirtildiği gibi kırpıntı, döküntü ve yeniden kullanılamaz halde olması gerekmekte"
+    },
+    {
+     "alt_konu": "Metal hurda ithalatına ilişkin özel hükümler",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)'e göre hurda olarak değerlendirilmesinde tereddüt bulunan eşyanın hurda olarak ithali için alınacak teminatın tutarı nasıl belirlenir?",
+     "cevap": "Eşyanın metal hurda olarak beyan edildiği GTİP ile hurda olmaması durumunda sınıflandırılması muhtemel GTİP için uygulanacak gümrük vergileri arasındaki fark kadar teminat alınır.",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 4/1-ç",
+     "kanit": "Eşyanın, metal hurda olarak beyan edildiği gümrük tarife istatistik pozisyonu ile hurda olmaması durumunda sınıflandırılması muhtemel gümrük tarife istatistik pozisyonu için uygulanacak gümrük vergileri arasındaki fark kadar"
+    },
+    {
+     "alt_konu": "Metal hurda ithalatına ilişkin özel hükümler",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)'e göre hurda olarak beyan edilen motor, şaft, dingil, jant gibi araç parçalarının ithal edilebilmesi için hangi şart aranır?",
+     "cevap": "Yakıt, fren, hidrolik ve soğutma sıvıları gibi sıvılardan ve şanzıman ve motor yağı gibi yağlardan arındırılmış olmaları gerekir; tehlikeli atık ve yağlarla kontamine araç parçalarının ithaline izin verilmez.",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 4/3",
+     "kanit": "yakıt, fren, hidrolik ve soğutma sıvıları gibi sıvılardan ve şanzıman ve motor yağı gibi yağlardan arındırılmış olması gerekir. Tehlikeli atık ve yağlarla kontamine durumdaki araç parçalarının ithaline izin verilmez."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemlerine tabiiyetin yetkilendirilmiş gümrük müşaviri raporuyla tespiti",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)'e göre kapanmış beyannameler için eşyanın İthalat Rejimi Kararında sayılan önlemlere tabi olup olmadığına ilişkin yetkilendirilmiş gümrük müşaviri raporu hangi süre içinde düzenlenir?",
+     "cevap": "Gümrük idaresinin ilgili firmaya yönelik yazısının tebliğinden itibaren bir ay içinde düzenlenir.",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 5/2",
+     "kanit": "Kapanmış beyannameler için yetkilendirilmiş gümrük müşaviri raporu gümrük idaresinin ilgili firmaya yönelik yazısının tebliğinden itibaren bir ay içinde düzenlenir."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemlerine tabiiyetin yetkilendirilmiş gümrük müşaviri raporuyla tespiti",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)'e göre serbest dolaşıma giriş işlemleri tamamlanmamış eşyanın ticaret politikası önlemine tabi olup olmadığı anlaşılamıyorsa tespit için verilecek süre ve uzatma sınırı nedir?",
+     "cevap": "Gümrük idaresince altı ayı geçmemek üzere süre verilir; süresinde başvurulursa üçer aylık dönemler halinde uzatılabilir ancak ek süreler dahil yirmi dört ayı geçemez (kapanmış beyannamelerde ise üç ay, ek sürelerle en çok on iki ay).",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 5/3",
+     "kanit": "gümrük idaresince altı ayı geçmemek üzere bir süre verilir. ... bu süre, üçer aylık dönemler halinde uzatılabilir ancak ek süreler dahil yirmi dört ayı geçemez."
+    },
+    {
+     "alt_konu": "Ticaret politikası önlemlerine tabiiyetin yetkilendirilmiş gümrük müşaviri raporuyla tespiti",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)'e göre ticaret politikası önlemine ilişkin tespit raporunun süresinde ibraz edilmemesi halinde nasıl işlem yapılır?",
+     "cevap": "Eksik alınmış vergi ve diğer mali yükümlülükler için ek tahakkuk düzenlenir ve Gümrük Kanunu uyarınca cezai işlem uygulanır; eşyanın önleme tabi olmadığı tespit edilirse teminat iade edilir.",
+     "dayanak": "SDG Tebliği (Seri No 18) md. 5/6-7",
+     "kanit": "eksik alınmış olan vergi ve diğer mali yükümlülükler için ek tahakkuk düzenlenir ve Gümrük Kanununun 234 üncü maddesine göre cezai işlem uygulanır."
+    },
+    {
+     "alt_konu": "İşlenmiş tarım ürünlerinin tahlili, itiraz ve ikinci tahlil",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş Rejimi) (Seri No: 2)'ye göre yükümlüler işlenmiş tarım ürünlerinin tahlil sonuçlarına hangi süre içinde itiraz ederek ikinci tahlil isteyebilir?",
+     "cevap": "Tahlil sonuçlarının kendilerine duyurulduğu günden itibaren 15 gün içinde itiraz ederek ikinci tahlil isteyebilirler.",
+     "dayanak": "SDG Rejimi Tebliği (Seri No 2) md. 6",
+     "kanit": "Yükümlüler, tahlil sonuçlarının kendilerine duyurulduğu günden itibaren 15 gün içinde itiraz ile ikinci tahlil isteyebilirler."
+    },
+    {
+     "alt_konu": "İşlenmiş tarım ürünlerinin tahlili, itiraz ve ikinci tahlil",
+     "soru": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş Rejimi) (Seri No: 2)'ye göre itiraz üzerine ikinci tahlil nerede ve kimler tarafından yapılır?",
+     "cevap": "Birinci tahlilin yapıldığı laboratuvarda, birinci tahlili yapan kimyager dışındaki iki kimyager tarafından; birinci tahlili yapan kimyager ile yükümlünün gözlemci sıfatıyla bulundurabileceği bir kimyagerin huzurunda yapılır. Laboratuvarda üçten az kimyager varsa ikinci tahlil resmi bilimsel kuruluş laboratuvarında yapılır.",
+     "dayanak": "SDG Rejimi Tebliği (Seri No 2) md. 6",
+     "kanit": "ikinci tahlil, birinci tahlilin yapıldığı laboratuarda, birinci tahlili yapan kimyager dışındaki iki kimyager tarafından ve birinci tahlili yapan kimyager ile itiraz eden yükümlünün gözlemci sıfatıyla bulundurabileceği bir kimyagerin huzurunda yapılır."
+    }
+   ]
+  }
+ ]
+}

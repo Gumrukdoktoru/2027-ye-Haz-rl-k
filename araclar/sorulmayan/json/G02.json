@@ -1,0 +1,1007 @@
+{
+ "grup": "G02",
+ "dosyalar": [
+  {
+   "kaynak": "3-YYS.txt",
+   "konu": "Yetkilendirilmiş Yükümlü (Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği)",
+   "mevzuat": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği (GİKY) md. 1-163; dayanak GK md. 5/A vd.",
+   "cikmis_sayisi": 7,
+   "cikmis": [
+    "2021-25: YYS şartları; en az 3 yıl faaliyet aranır, 'en az iki yıl' şartı yer almaz",
+    "2021-82: Antrepo, GKAİR ve geçici ithalatta YYS sahibinden talep halinde ithalat vergilerinin %10'u teminat (kısmi teminat)",
+    "2022-93: YYS başvurusu için TGB'de yerleşik ve en az 3 yıl faaliyette bulunma",
+    "2024-76: YYS sertifikası (askı, geri alma, iptal saklı) süresiz geçerlidir",
+    "2025-97: Resmî daireler ve tamamı devlete ait KİT'lerin YYS başvurusu Orta Anadolu GDTBM'ye yapılır",
+    "2025-99: YYS koşulları güvenilirlik, mali yeterlilik, emniyet-güvenlik, ticari kayıtlar; kapsamlı teminat koşul değildir",
+    "2025-100: Sertifika koşullarının izlenme periyodu (5 yılda bir)"
+   ],
+   "alt_konular": [
+    {
+     "baslik": "YYS statüsünün temel koşulları ve 3 yıllık faaliyet şartı",
+     "dayanak": "GİKY md. 4/1",
+     "durum": "SORULDU",
+     "cikmis": [
+      "2021-25",
+      "2022-93",
+      "2025-99"
+     ],
+     "not": ""
+    },
+    {
+     "baslik": "Devir, birleşme ve bölünmede sertifika başvurusu",
+     "dayanak": "GİKY md. 4/2-6",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Statü kapsamındaki basitleştirilmiş uygulamalar ve kolaylaştırmalar",
+     "dayanak": "GİKY md. 4/7-13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "YYS-I ve YYS-II statüleri",
+     "dayanak": "GİKY md. 4/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Güvenilirlik koşulunun ölçütleri",
+     "dayanak": "GİKY md. 5",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-99"
+     ],
+     "not": "Yalnız güvenilirliğin bir YYS koşulu olduğu ölçülmüş; kapsanan kişiler, değerlendirme dönemi, ceza kararı oranları ve 100 beyan şartı sorulmamış."
+    },
+    {
+     "baslik": "Ticari kayıtlar, mali yeterlilik ve emniyet-güvenlik koşullarının içeriği",
+     "dayanak": "GİKY md. 6-8",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-25",
+      "2025-99"
+     ],
+     "not": "Koşulların varlığı sorulmuş; belge saklama süresi ile mali yeterlilik incelemesinin dönemi ve yeminli mali müşavir şartı sorulmamış."
+    },
+    {
+     "baslik": "Kamu kurum ve kuruluşlarına ilişkin istisna",
+     "dayanak": "GİKY md. 9, 10/11",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Kamu kurumlarının başvuru yeri 'Başvuru yeri' alt konusunda (2025-97) ölçülmüştür."
+    },
+    {
+     "baslik": "Başvuruda aranacak belgeler ve ISO sertifikaları",
+     "dayanak": "GİKY md. 10",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Başvuru yeri",
+     "dayanak": "GİKY md. 11",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-97"
+     ],
+     "not": "Kamu kurumlarının Orta Anadolu GDTBM'ye başvurusu sorulmuş; genel başvuru yerinin Ek-20'ye göre yetkili bölge müdürlüğü olduğu ve yetkisiz başvurunun sonucu sorulmamış."
+    },
+    {
+     "baslik": "Başvuruların ön incelemesi",
+     "dayanak": "GİKY md. 12",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yerinde inceleme",
+     "dayanak": "GİKY md. 13",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Başvurunun reddi",
+     "dayanak": "GİKY md. 14",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sertifikanın düzenlenmesi ve dava açılmasının etkisi",
+     "dayanak": "GİKY md. 15",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sertifikanın geçerlilik süresi",
+     "dayanak": "GİKY md. 16",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2024-76"
+     ],
+     "not": "Süresiz geçerlilik sorulmuş; geçerliliğin başlangıcı (düzenlemeyi izleyen ilk iş günü) sorulmamış."
+    },
+    {
+     "baslik": "Sertifikada kayıtlı bilgilerde değişiklik",
+     "dayanak": "GİKY md. 17",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sertifika kapsamı yetkiler, tesisler ve şirket yetkililerinde değişiklik",
+     "dayanak": "GİKY md. 18, 18/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Eksik beyan usulü: belgeler, süreler ve vergi/teminat işlemleri",
+     "dayanak": "GİKY md. 19-25",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": "Tescilden itibaren 1 aylık genel tamamlama süresi GY ihracat bağlamında 2025-61'de (17-BEYAN) ölçüldüğünden ayrıca sorulmadı."
+    },
+    {
+     "baslik": "Eksik beyanda bulunma yetkisinin askıya alınması",
+     "dayanak": "GİKY md. 26",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kısmi teminat uygulaması",
+     "dayanak": "GİKY md. 27-31",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2021-82"
+     ],
+     "not": "%10 oranı ve kapsanan rejimler sorulmuş; DİR/HİR'e ilişkin saklı hüküm ve kısmi teminat yetkisinin askıya alınması sorulmamış."
+    },
+    {
+     "baslik": "Götürü teminat uygulaması",
+     "dayanak": "GİKY md. 32-43",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Onaylanmış ihracatçı: basitleştirilmiş usulde A.TR düzenleme ve vize izni",
+     "dayanak": "GİKY md. 44-51",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Kıymete bakılmaksızın fatura beyanı/EUR.MED fatura beyanı izni",
+     "dayanak": "GİKY md. 52-56",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracatta yerinde gümrükleme izni: koşullar ve kapsam",
+     "dayanak": "GİKY md. 57-66",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İhracatta yerinde gümrükleme: işlemler, yükümlülükler ve askıya alma",
+     "dayanak": "GİKY md. 67-75",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzinli gönderici yetkisi",
+     "dayanak": "GİKY md. 76-95",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İzinli alıcı yetkisi",
+     "dayanak": "GİKY md. 96-120",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "İthalatta yerinde gümrükleme izni",
+     "dayanak": "GİKY md. 121-142",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Beyanın kontrol türüne ilişkin kolaylaştırmalar (yeşil hat, öncelikli kontrol)",
+     "dayanak": "GİKY md. 143-147",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Emniyet ve güvenlik kontrollerine ilişkin kolaylıklar",
+     "dayanak": "GİKY md. 148-152",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sertifika sahibinin yükümlülükleri",
+     "dayanak": "GİKY md. 153",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sertifikanın askıya alınması",
+     "dayanak": "GİKY md. 154",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sertifikanın geri alınması",
+     "dayanak": "GİKY md. 155",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Sertifikanın iptali ve hak/yetkilerin ayrıca askıya alınması veya geri alınması",
+     "dayanak": "GİKY md. 156-157",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Yıllık faaliyet raporu",
+     "dayanak": "GİKY md. 158",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Ön izleme ve yerinde izleme",
+     "dayanak": "GİKY md. 159-160",
+     "durum": "KISMEN",
+     "cikmis": [
+      "2025-100"
+     ],
+     "not": "5 yıllık izleme periyodu sorulmuş; izlemeyi yapan makamlar, yöntem ve sorgu dönemleri sorulmamış."
+    },
+    {
+     "baslik": "Bilgi değişimi ve YYS listesinin yayımlanması",
+     "dayanak": "GİKY md. 161",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Beyana aykırılık ölçütleri",
+     "dayanak": "GİKY md. 161/A",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Onaylanmış kişi statüsü ile ilişki",
+     "dayanak": "GİKY md. 162",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    },
+    {
+     "baslik": "Bakanlık ve bölge müdürlüklerinin yetkileri",
+     "dayanak": "GİKY md. 163",
+     "durum": "SORULMADI",
+     "cikmis": [],
+     "not": ""
+    }
+   ],
+   "soru_cevap": [
+    {
+     "alt_konu": "Devir, birleşme ve bölünmede sertifika başvurusu",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika sahibi şirketin devir veya birleşme suretiyle tüzel kişiliğinin sona ermesi halinde, yeni kurulan ya da devralan tüzel kişinin yapacağı sertifika başvurusunda hangi şart aranmaz?",
+     "cevap": "En az 3 yıldır fiilen faaliyette bulunma şartı aranmaz; ancak tüzel kişiliği sona eren şirketin ceza kararı sayıları ile beyan sayısı, başvuru sahibinin verileriyle birlikte değerlendirilir.",
+     "dayanak": "GİKY md. 4/2",
+     "kanit": "Sertifika sahibi şirketin devir veya birleşme suretiyle tüzel kişiliğinin sona ermesi durumunda, yeni kurulan ya da sertifika sahibi şirketi devralan tüzel kişinin yapacağı sertifika başvurusunda: ... En az 3 yıldır fiilen faaliyette bulunma şartı aranmaz."
+    },
+    {
+     "alt_konu": "Devir, birleşme ve bölünmede sertifika başvurusu",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika sahibi şirkete sertifika sahibi olmayan bir şirketin devir suretiyle katılması halinde gümrük idaresine bildirim ve yeniden sertifika başvurusu hangi sürelerde yapılır?",
+     "cevap": "Devir alma işleminin tescil edildiği tarihi izleyen 5 iş günü içinde gümrük idaresine bildirim yapılır; aynı tarihi izleyen 60 iş günü içinde yeniden sertifika başvurusunda bulunulur. Bu süre sonuna kadar başvurulmazsa sertifika askıya alınır.",
+     "dayanak": "GİKY md. 4/4, 154/11",
+     "kanit": "Devir alma işleminin tescil edildiği tarihi izleyen 5 iş günü içinde gümrük idaresine bildirim yapılır. ... Bu tarihi izleyen 60 iş günü içinde, 10 uncu maddede ... Bu süre sonuna kadar yeniden başvurulmaması halinde sertifika;"
+    },
+    {
+     "alt_konu": "Devir, birleşme ve bölünmede sertifika başvurusu",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre iki veya daha fazla şirketin devralınması ya da yeni kurulan bir şirket şeklinde birleşilmesi sonrasında yapılan sertifika başvurusunda faaliyet süresi şartı nasıl aranır?",
+     "cevap": "Devralınan veya birleşen şirketlerin her birinin en az 3 yıldır faaliyette bulunması gerekir; şirketlerin ceza kararı ve beyan sayıları da birlikte değerlendirilir.",
+     "dayanak": "GİKY md. 4/6",
+     "kanit": "Yeni kurulan bir şirket şeklinde birleşilmesi ... Her bir şirketin en az 3 yıldır faaliyette bulunması gerekir."
+    },
+    {
+     "alt_konu": "Statü kapsamındaki basitleştirilmiş uygulamalar ve kolaylaştırmalar",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlü statüsü sahiplerinin ayrıca bir talebe gerek kalmaksızın yararlanabildiği basitleştirilmiş uygulamalar hangileridir?",
+     "cevap": "Eksik beyan usulü ve kısmi teminat uygulaması. Götürü teminat, onaylanmış ihracatçı, izinli gönderici, izinli alıcı ve ithalatta yerinde gümrükleme ise talep ve ek koşulların sağlanmasına bağlıdır.",
+     "dayanak": "GİKY md. 4/7",
+     "kanit": "Yetkilendirilmiş yükümlü statüsü sahiplerinin, ayrıca bir talebe gerek kalmaksızın, aşağıdaki basitleştirilmiş uygulamalardan faydalanmalarına izin verilir: a) Eksik beyan usulü b) Kısmi teminat uygulaması"
+    },
+    {
+     "alt_konu": "Statü kapsamındaki basitleştirilmiş uygulamalar ve kolaylaştırmalar",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlü statüsü sahiplerinin talep etmeleri ve ek koşulları sağlamaları halinde yararlanabilecekleri uygulamalar hangileridir?",
+     "cevap": "Götürü teminat uygulaması; onaylanmış ihracatçı yetkisi (basitleştirilmiş usulde A.TR düzenleme, kıymete bakılmaksızın fatura beyanı/EUR.MED fatura beyanı ve ihracatta yerinde gümrükleme); izinli gönderici yetkisi; izinli alıcı yetkisi ve ithalatta yerinde gümrükleme izni.",
+     "dayanak": "GİKY md. 4/8",
+     "kanit": "İlgili uygulamaya ilişkin ek koşul veya koşulları sağlamaları ... a) Götürü teminat uygulaması ... c) İzinli gönderici yetkisi ... d) İthalatta yerinde gümrükleme izni"
+    },
+    {
+     "alt_konu": "Statü kapsamındaki basitleştirilmiş uygulamalar ve kolaylaştırmalar",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlü statüsü sahiplerine sınır kapılarından öncelikli geçiş hakkı hangi koşulla tanınır?",
+     "cevap": "İzinli gönderici yetkisine sahip olmaları koşuluyla ve ayrıca bir talebe gerek kalmaksızın tanınır; hak, izinli gönderici yetkisi kapsamında gerçekleştirilen taşımalarda kullanılır.",
+     "dayanak": "GİKY md. 4/11, 151/1",
+     "kanit": "izinli gönderici yetkisine sahip olmaları koşuluyla ve ayrıca bir talebe gerek kalmaksızın sınır kapılarından öncelikli geçiş hakkı uygulamasından yararlanma izni verilir. ... izinli gönderici yetkisi kapsamında gerçekleştirdikleri taşımalarda sınır kapılarından öncelikli geçiş hakkı tanınır."
+    },
+    {
+     "alt_konu": "YYS-I ve YYS-II statüleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlü statüsü sahiplerine YYS-I statüsü verilebilmesi için imalatçı olmanın yanında hangi ihracat koşulu aranır?",
+     "cevap": "Başvurunun yapıldığı yıldan bir önceki takvim yılı veya başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde asgari 5 milyon ABD doları ihracat yapmış olmak.",
+     "dayanak": "GİKY md. 4/A-1-b",
+     "kanit": "Aşağıdaki dönemlerden birinde asgari 5 milyon ABD doları ihracat yapmış olmak: YYS-I statüsü başvurusunun yapıldığı yıldan bir önceki takvim yılı veya"
+    },
+    {
+     "alt_konu": "YYS-I ve YYS-II statüleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre YYS-I statüsü için ihracat koşuluna ek olarak aranan istihdam veya daha yüksek ihracat koşulu nedir?",
+     "cevap": "Başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde ortalama en az 50 işçi istihdam etmek veya ilgili dönemde asgari 10 milyon ABD doları ihracat yapmak.",
+     "dayanak": "GİKY md. 4/A-1-c",
+     "kanit": "Başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içerisinde ortalama en az 50 işçi istihdam etmek, ... asgari 10 milyon ABD doları ihracat yapmak."
+    },
+    {
+     "alt_konu": "YYS-I ve YYS-II statüleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre YYS-II statüsü için aranan ihracat ve istihdam eşikleri nelerdir?",
+     "cevap": "İmalatçı olmanın yanında, önceki takvim yılı veya geriye dönük 1 yıl içinde asgari 1 milyon ABD doları ihracat yapmış olmak; ayrıca geriye dönük 1 yılda ortalama en az 30 işçi istihdam etmek veya asgari 5 milyon ABD doları ihracat yapmak.",
+     "dayanak": "GİKY md. 4/A-2",
+     "kanit": "Aşağıdaki dönemlerden birinde asgari 1 milyon ABD doları ihracat yapmış olmak: ... ortalama en az 30 işçi istihdam etmek, ... asgari 5 milyon ABD doları ihracat yapmak."
+    },
+    {
+     "alt_konu": "Güvenilirlik koşulunun ölçütleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre güvenilirlik koşulu kapsamında hakkında ceza veya mahkûmiyet kararı bulunmaması gereken kişiler kimlerdir?",
+     "cevap": "Yönetim kurulu üyeleri, sermayenin %10 ve fazlasına sahip gerçek kişiler ile gümrük ve dış ticaret işlemlerinde temsil yetkisini haiz çalışanlar.",
+     "dayanak": "GİKY md. 5/1-a",
+     "kanit": "Yönetim kurulu üyeleri, sermayenin %10 ve fazlasına sahip gerçek kişiler ile gümrük ve dış ticaret işlemlerinde temsil yetkisini haiz çalışanlar hakkında, maddede sayılan suç ve mevzuata aykırılıklardan ceza veya mahkûmiyet kararı bulunmaması gerekir."
+    },
+    {
+     "alt_konu": "Güvenilirlik koşulunun ölçütleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre güvenilirlik koşulunda ceza kararı ölçütleri hangi dönem esas alınarak değerlendirilir?",
+     "cevap": "Başvurunun kayda alındığı ayın ilk gününden geriye dönük 3 yıl esas alınır ve 12'şer aylık 3 dönem ayrı ayrı değerlendirilir.",
+     "dayanak": "GİKY md. 5/1",
+     "kanit": "Başvurunun kayda alındığı ayın ilk gününden geriye dönük 3 yıl, 12'şer aylık 3 dönem ayrı ayrı değerlendirilir."
+    },
+    {
+     "alt_konu": "Güvenilirlik koşulunun ölçütleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre güvenilirlik koşulu bakımından ithalat ve ihracat beyannamelerine ilişkin olarak usulsüzlük cezasının 3 katını aşan ceza kararlarının sayısı hangi sınırı aşmamalıdır?",
+     "cevap": "Gümrük Kanunu uyarınca usulsüzlük cezasının 3 katını aşan ceza kararlarının toplam sayısı, 5'ten fazla olmak koşuluyla her dönemdeki ithalat ve ihracat beyannamesi toplamının %1'ini aşmamalıdır.",
+     "dayanak": "GİKY md. 5/1-c",
+     "kanit": "241/1'deki usulsüzlük cezasının 3 katını aşan ceza kararlarının toplam sayısı; ... 5'ten fazla olmak koşuluyla, her dönemdeki ithalat ve ihracat gümrük beyannamesi toplamının %1'ini aşmamalıdır."
+    },
+    {
+     "alt_konu": "Güvenilirlik koşulunun ölçütleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre güvenilirlik koşulu kapsamında başvuru sahibinin gümrük idaresinde en az kaç adet beyan kapsamında işlem yapmış olması gerekir?",
+     "cevap": "Başvurunun yapıldığı yıldan önceki takvim yılı içinde veya başvurunun yapıldığı ayın ilk gününden geriye dönük 1 yıl içinde en az 100 adet beyan kapsamında işlem yapılmış olması gerekir.",
+     "dayanak": "GİKY md. 5/1-l",
+     "kanit": "Sertifika başvurusunun yapıldığı yıldan önceki takvim yılı içinde veya başvurunun yapıldığı ayın ilk gününden geriye dönük 1 yıl içerisinde gümrük idaresinde en az 100 adet beyan kapsamında işlem yapılmış olması."
+    },
+    {
+     "alt_konu": "Ticari kayıtlar, mali yeterlilik ve emniyet-güvenlik koşullarının içeriği",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ticari kayıtların güvenilirliği koşulu kapsamında tüm beyanlara ilişkin belgeler ne kadar süreyle saklanmalıdır?",
+     "cevap": "Özel mevzuat hükümleri saklı kalmak kaydıyla, beyanın gerçekleştiği yılın sonundan itibaren 5 yıl süreyle, idarenin isteği doğrultusunda sunulacak şekilde saklanmalıdır.",
+     "dayanak": "GİKY md. 6/1-ğ",
+     "kanit": "Tüm beyanlara ilişkin belgeleri; İdarenin isteği doğrultusunda sunulacak şekilde, Özel mevzuat hükümleri saklı kalmak kaydıyla, Beyanın gerçekleştiği yılın sonundan itibaren 5 yıl süreyle"
+    },
+    {
+     "alt_konu": "Ticari kayıtlar, mali yeterlilik ve emniyet-güvenlik koşullarının içeriği",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre mali yeterlilik koşulu bakımından başvuru sahibinin mali yapısı hangi dönem esas alınarak ve kim tarafından incelenmelidir?",
+     "cevap": "Başvuru yılından önceki 3 yıl esas alınarak yeminli mali müşavir tarafından incelenmeli ve olumlu görüşle rapora bağlanmalıdır; Ocak-Mart başvurularında önceki yılın mali tabloları tamamlanamamışsa başvuru yılından önceki ikinci, üçüncü ve dördüncü yıllar esas alınır.",
+     "dayanak": "GİKY md. 7/1-2",
+     "kanit": "Başvuru yılından önceki 3 yıl esas alınmak suretiyle, Yeminli mali müşavir tarafından incelenerek, Olumlu görüşle rapora bağlanmış ... Ocak ilâ Mart ayları içerisinde yapılacak başvurularda ... İkinci yıl, Üçüncü yıl, Dördüncü yıl"
+    },
+    {
+     "alt_konu": "Kamu kurum ve kuruluşlarına ilişkin istisna",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre resmî daireler ile sermayesinin tamamı devlete ait iktisadi devlet teşekkülleri ve kamu iktisadi kuruluşlarının sertifika başvurularında hangi koşullar aranmaz?",
+     "cevap": "Güvenilirlik, ticari kayıtların güvenilirliği ve izlenebilirliği, mali yeterlilik ile emniyet ve güvenlik koşulları aranmaz; resmî dairelerin başvurularında yalnızca başvuru formu aranır.",
+     "dayanak": "GİKY md. 9, 10/11",
+     "kanit": "Aşağıdaki kurum ve kuruluşların yapacakları yetkilendirilmiş yükümlü sertifikası başvurularında 5 ilâ 8 inci maddelerde sayılan koşullar aranmaz: ... Resmî dairelerin başvurularında yalnızca başvuru formu aranır."
+    },
+    {
+     "alt_konu": "Başvuruda aranacak belgeler ve ISO sertifikaları",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika başvurusunda güvenilirlik koşulu kapsamındaki kişiler için ibraz edilecek adli sicil belgeleri ne zaman alınmış olmalıdır?",
+     "cevap": "Başvuru tarihinden geriye dönük en geç 2 ay içinde, resmî kuruma verilmek üzere alınmış olmalıdır (sosyal güvenlik prim borcuna ilişkin belgede bu süre en geç 1 aydır).",
+     "dayanak": "GİKY md. 10/1-b, c",
+     "kanit": "Başvuru tarihinden geriye dönük en geç 2 ay içerisinde, Resmî kuruma verilmek üzere alınan adli sicil belgelerinin asılları ibraz edilir. ... başvuru tarihinden geriye dönük en geç 1 ay içerisinde aşağıdakilerden biri ibraz edilir:"
+    },
+    {
+     "alt_konu": "Başvuruda aranacak belgeler ve ISO sertifikaları",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika başvurusunda hangi ISO sertifikalarının ibrazı gerekir?",
+     "cevap": "Avrupa Akreditasyon Birliğinin karşılıklı tanıma anlaşmalarına imza atmış akreditasyon kurumlarınca akredite edilmiş uygunluk değerlendirme kuruluşlarınca düzenlenen geçerli ISO 9001 ve ISO 27001 sertifikalarının aslı veya onaylı örneği ibraz edilir.",
+     "dayanak": "GİKY md. 10/1-e",
+     "kanit": "Avrupa Akreditasyon Birliğinin karşılıklı tanıma anlaşmalarına imza atmış akreditasyon kurumları ... ISO 9001 ISO 27001 sertifikalarının aslı veya düzenleyen kuruluş tarafından onaylı örneği ibraz edilir."
+    },
+    {
+     "alt_konu": "Başvuruda aranacak belgeler ve ISO sertifikaları",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika alındıktan sonra ISO 9001 ve ISO 27001 belgelerinin süreleri içinde yenilenmemeleri nedeniyle geçerliliklerini kaybetmesi halinde belgeler hangi süre içinde tamamlanmalıdır?",
+     "cevap": "Bölge müdürlüğü durumu öğrendiği tarihten itibaren 5 iş günü içinde bildirim yapar ve belgelerin 3 ay içinde tamamlanması gerekir (sertifika sahibinden kaynaklanmayan nedenlerle geçerliliğini kaybetmesinde süre 6 aydır); süresinde ibraz edilmezse sertifika askıya alınır.",
+     "dayanak": "GİKY md. 10/19",
+     "kanit": "Süreleri içinde yenilenmemeleri nedeniyle geçerliliklerini kaybetmeleri halinde: ... Bölge Müdürlüğünün durumu öğrendiği tarihten itibaren 5 iş günü içinde, ... Belgelerin 3 ay içinde tamamlanması için ... Belgelerin 6 ay içinde tamamlanması için"
+    },
+    {
+     "alt_konu": "Başvuru yeri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre kamu kurum ve kuruluşları dışındaki başvuru sahiplerinin yetkilendirilmiş yükümlü sertifikası başvurusu hangi makama yapılır?",
+     "cevap": "Ek-20'deki tabloya göre belirlenen yetkili gümrük ve dış ticaret bölge müdürlüğüne yapılır; yetkili bölge müdürlüğüne yapılmayan başvuru ön inceleme yapılmaksızın reddedilir ve dosya derhal iade edilir.",
+     "dayanak": "GİKY md. 11/1, 14/1-a",
+     "kanit": "Başvurular, Ek-20'de yer alan tabloya göre belirlenecek yetkili bölge müdürlüğüne yapılır. ... başvuru ön inceleme yapılmaksızın reddedilir ve başvuru dosyası, başvurunun yapıldığı bölge müdürlüğü tarafından derhal iade edilir"
+    },
+    {
+     "alt_konu": "Başvuruların ön incelemesi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika başvurusunun ön incelemesi hangi makamca ve ne kadar sürede tamamlanır?",
+     "cevap": "İlgili bölge müdürlüğünce, başvurunun genel evrak kaydına alınmasını takiben en geç 15 iş günü içinde tamamlanır; bu süre başvuru sahibine bilgi verilmesi kaydıyla 15 iş günü uzatılabilir.",
+     "dayanak": "GİKY md. 12/2",
+     "kanit": "Başvurunun ön incelemesi, başvurunun genel evrak kaydına alınmasını takiben ilgili bölge müdürlüğü tarafından en geç 15 iş günü içinde tamamlanır. ... Bu süre, başvuru sahibine bilgi verilmesi kaydıyla 15 iş günü uzatılabilir."
+    },
+    {
+     "alt_konu": "Başvuruların ön incelemesi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ön inceleme sırasında başvuru sahibine bildirilen eksik bilgi ve belgeler ne kadar sürede tamamlanmalıdır?",
+     "cevap": "Bildirimin yapıldığı tarihi müteakip en geç 45 iş günü içinde tamamlanmalıdır; tamamlanmazsa başvuru reddedilir.",
+     "dayanak": "GİKY md. 12/5-6",
+     "kanit": "bildirilen eksikliklerin, bildirimin yapıldığı tarihi müteakip en geç 45 iş günü içinde tamamlanması gerekir. ... başvuru 14/2 [Başvurunun reddi] uyarınca reddedilir."
+    },
+    {
+     "alt_konu": "Yerinde inceleme",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yerinde inceleme kapsamında ticari kayıtlara ve emniyet-güvenliğe ilişkin koşulların sağlanıp sağlanmadığı kim tarafından ve ne kadar sürede incelenir?",
+     "cevap": "Genel Müdürlükçe görevlendirilen sonradan kontrol yetkilisi tarafından 90 iş günü içinde incelenir.",
+     "dayanak": "GİKY md. 13/1-2",
+     "kanit": "Sonradan kontrol yetkilisi tarafından; ... kapsamındaki koşulların sağlanıp sağlanmadığı 90 iş günü içerisinde incelenir."
+    },
+    {
+     "alt_konu": "Yerinde inceleme",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yerinde incelemede koşullardan bir veya birkaçının sağlanmadığı, ancak başvuru sahibinin eksiklikleri gidereceğini taahhüt ettiği durumda ne kadar ek süre tanınır?",
+     "cevap": "90 iş gününe kadar ek süre tanınır; ek sürenin bitimini müteakip 20 iş günü içinde eksikliklerin giderilip giderilmediği sonradan kontrol yetkilisince incelenir.",
+     "dayanak": "GİKY md. 13/2",
+     "kanit": "eksikliklerin giderilmesi için başvuru sahibine 90 iş gününe kadar ek süre tanınır. ... Ek sürenin bitimini müteakip, sonradan kontrol yetkilisi tarafından 20 iş günü içerisinde eksikliklerin giderilip giderilmediği incelenir."
+    },
+    {
+     "alt_konu": "Başvurunun reddi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre başvuru dosyasında ISO 9001 veya ISO 27001 sertifikalarından herhangi birinin eksik olması halinde nasıl işlem yapılır?",
+     "cevap": "Başvuru ön inceleme yapılmaksızın reddedilir ve başvuru dosyası bölge müdürlüğünce derhal iade edilir.",
+     "dayanak": "GİKY md. 14/1-c",
+     "kanit": "Aşağıdaki durumlardan herhangi birinin bulunması halinde başvuru ön inceleme yapılmaksızın reddedilir ... Başvuru dosyasında 10/1-(e) [ISO 9001 ve ISO 27001 sertifikaları] kapsamında belirtilen belgelerden herhangi birinin eksik olması."
+    },
+    {
+     "alt_konu": "Başvurunun reddi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifikası iptal edilmiş kişilerin yeni sertifika başvurusu ne zamana kadar kabul edilmez?",
+     "cevap": "İptal işlemini müteakip 3 yıl içinde yapılan başvurular ön inceleme yapılmaksızın reddedilir.",
+     "dayanak": "GİKY md. 14/1-ç, 156/3",
+     "kanit": "sertifikası daha önce iptal edilmiş kişiler tarafından yeni sertifika başvurusunun, iptal işlemini müteakip 3 yıl içerisinde yapılmış olması."
+    },
+    {
+     "alt_konu": "Sertifikanın düzenlenmesi ve dava açılmasının etkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yerinde inceleme sonucunda koşulların tamamının sağlandığının bildirilmesi üzerine, götürü teminat talep edilmemişse sertifika hangi makamca ve ne kadar sürede düzenlenir?",
+     "cevap": "İlgili gümrük ve dış ticaret bölge müdürlüğünce 5 iş günü içinde düzenlenir ve Bölge Müdürünce imzalanır; götürü teminat talep edilmişse götürü teminat başvurusuna ilişkin süreler içinde düzenlenir.",
+     "dayanak": "GİKY md. 15/1, 15/4",
+     "kanit": "kapsamındaki bildirimi müteakip ilgili bölge müdürlüğü tarafından Ek-8'de yer alan Yetkilendirilmiş Yükümlü Sertifikası aşağıdaki sürelerde düzenlenir: ... Sertifika 5 iş günü içerisinde düzenlenir. ... Sertifika, ilgili Gümrük ve Dış Ticaret Bölge Müdürü tarafından imzalanır."
+    },
+    {
+     "alt_konu": "Sertifikanın düzenlenmesi ve dava açılmasının etkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre güvenilirlik koşulu kapsamındaki kişiler hakkında Cumhuriyet savcılığınca dava açılmış olması sertifika düzenlenmesine engel midir?",
+     "cevap": "Engel değildir; ancak dava sürecinde yalnızca eksik beyan, kısmi teminat, götürü teminat, basitleştirilmiş usulde A.TR düzenleme ve kıymete bakılmaksızın fatura beyanı/EUR.MED fatura beyanı düzenleme izinlerinden yararlanılır; diğer hak ve yetkiler beraat kararıyla kesin olarak lehe sonuçlanıncaya kadar kullanılamaz.",
+     "dayanak": "GİKY md. 15/7",
+     "kanit": "Cumhuriyet savcılığı tarafından dava açılmış olması, sertifika düzenlenmesini engellemez. ... Bunların dışındaki hak ve yetkilerden, dava süreci beraat kararı ile kesin olarak lehe sonuçlanıncaya kadar faydalanılmasına izin verilmez."
+    },
+    {
+     "alt_konu": "Sertifikanın geçerlilik süresi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlü sertifikası hangi tarihte geçerli hale gelir?",
+     "cevap": "Düzenlendiği tarihten sonraki ilk iş gününde geçerli hale gelir.",
+     "dayanak": "GİKY md. 16/1",
+     "kanit": "Yetkilendirilmiş yükümlü sertifikası, düzenlendiği tarihten sonraki ilk iş gününde geçerli hale gelir."
+    },
+    {
+     "alt_konu": "Sertifikada kayıtlı bilgilerde değişiklik",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika sahibinin ticaret unvanı veya adresinin değişmesi halinde sertifikada değişiklik için ne kadar sürede başvurulmalıdır?",
+     "cevap": "Değişikliğin Ticaret Sicil Gazetesinde veya Türkiye Esnaf ve Sanatkârlar Sicil Gazetesinde yayımlandığı tarihi izleyen 5 iş günü içinde sertifikayı düzenleyen bölge müdürlüğüne başvurulmalıdır; süresinde başvurulmazsa sertifika başvuru yapılıncaya kadar askıya alınır.",
+     "dayanak": "GİKY md. 17/6, 154/9",
+     "kanit": "değişikliğin Ticaret Sicil Gazetesinde veya Türkiye Esnaf ve Sanatkârlar Sicil Gazetesinde yayımlandığı tarihi izleyen 5 iş günü içerisinde sertifikada değişiklik yapılması için başvurulması gerekir. ... sertifika başvuru yapılıncaya kadar askıya alınır."
+    },
+    {
+     "alt_konu": "Sertifika kapsamı yetkiler, tesisler ve şirket yetkililerinde değişiklik",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika sahibi firmada ortaklık, yönetim kurulu üyeliği veya gümrük ve dış ticaret işlemlerinde temsil yetkisi kapsamında yeni kişilerin görevlendirilmesi halinde bildirim ve belge ibrazı hangi sürelerde yapılır?",
+     "cevap": "Durum, değişikliğin yapıldığı tarihi izleyen 5 iş günü içinde sertifikayı düzenleyen bölge müdürlüğüne bildirilir; yeni kişilere ilişkin adli sicil belgeleri (gerektiğinde beyan formları) bildirimi izleyen 30 iş günü içinde ibraz edilir.",
+     "dayanak": "GİKY md. 18/A-1",
+     "kanit": "Değişikliğin yapıldığı tarihi izleyen 5 iş günü içerisinde ... bildirimin yapıldığı tarihi izleyen 30 iş günü içerisinde ibraz edilir."
+    },
+    {
+     "alt_konu": "Eksik beyan usulü: belgeler, süreler ve vergi/teminat işlemleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika sahiplerince eksik beyan usulü kapsamında beyannamenin tescilinden sonra temin edilmek üzere beyan edilebilecek belgeler hangileridir?",
+     "cevap": "Fatura, A.TR Dolaşım Belgesi, menşe ispat belgeleri, teslim şekli gereği ibrazı gereken navlun makbuzu ve sigorta poliçesi ile işlenmiş tarım ürünlerinin serbest dolaşıma sokulmasında gereken analiz sonuç raporu; bunlar tescil anında hazır olmakla birlikte temin edilmemiş belgelerdir.",
+     "dayanak": "GİKY md. 19",
+     "kanit": "aşağıdaki belgelerden bir veya daha fazlası beyannamenin tescilinden sonra temin edilmek üzere beyanda bulunulabilir: a) Fatura b) A.TR Dolaşım Belgesi c) Menşe ispat belgeleri ... beyannamenin tescil anında hazır olmakla birlikte temin edilmemiş olan belgelerdir."
+    },
+    {
+     "alt_konu": "Eksik beyan usulü: belgeler, süreler ve vergi/teminat işlemleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre eksik beyanda indirimli veya sıfır oranlı gümrük vergisi uygulanması için gereken belgenin eksik olması halinde ek süre verilebilir mi?",
+     "cevap": "Eşyanın indirimli veya sıfır oranda vergilendirileceğine ilişkin yeterli nedenlerin bulunması koşuluyla, beyan sahibinin 1 aylık ibraz süresi içindeki talebi üzerine gümrük müdürlüğünce 3 ayı geçmeyecek şekilde ek süre verilebilir.",
+     "dayanak": "GİKY md. 20/2",
+     "kanit": "eşyanın indirimli veya sıfır oranında vergilendirileceği konusunda yeterli nedenlerin bulunması koşuluyla, ... gümrük müdürlüğünce belgenin ibrazı için 3 ayı geçmeyecek şekilde ek süre verilebilir."
+    },
+    {
+     "alt_konu": "Eksik beyan usulü: belgeler, süreler ve vergi/teminat işlemleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre tamamlanacak eksik beyanın gümrük kıymetiyle ilgili olması halinde ne kadar ek süre belirlenebilir?",
+     "cevap": "Beyanın tamamlanmasının daha uzun bir süre gerektirdiğinin kanıtlanması halinde gümrük müdürlüğünce 3 aydan uzun bir ek süre belirlenebilir.",
+     "dayanak": "GİKY md. 20/3",
+     "kanit": "Tamamlanacak eksik beyanın gümrük kıymetiyle ilgili olması ve beyanın tamamlanmasının daha uzun bir süre gerektirdiğinin kanıtlanması halinde; ... gümrük müdürlüğünce 3 aydan uzun bir ek süre belirlenebilir."
+    },
+    {
+     "alt_konu": "Eksik beyan usulü: belgeler, süreler ve vergi/teminat işlemleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre eksik beyan usulünden yararlanılan durumlarda eksik belgelerin süresinde sunulmaması halinde eksik ödenen vergiler ve gecikme zammı ne kadar sürede ödenmelidir?",
+     "cevap": "Cezai hükümler saklı kalmak kaydıyla, yükümlüye tebliğ edildiği tarihi takip eden 15 gün içinde ödenmelidir; ödenmezse vergiler, gecikme zammı ve varsa ceza tutarı yükümlünün teminatından çözülerek irat kaydedilir.",
+     "dayanak": "GİKY md. 23/3",
+     "kanit": "yükümlüye tebliğ edildiği tarihi takip eden 15 gün içinde ödenmesi zorunludur. ... yükümlünün teminatından çözülerek irada kaydedilir."
+    },
+    {
+     "alt_konu": "Eksik beyanda bulunma yetkisinin askıya alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yeşil hatta işlem gören eksik beyanlarda Eksik Belge Tamamlama Formunda tamamlandığı beyan edilen belgelerin formda belirtilen tarihlerde tamamlanmadığının tespiti halinde ne yapılır?",
+     "cevap": "Sertifika sahibinin eksik beyanda bulunma yetkisi 3 ay süreyle askıya alınır; hakkında usulsüzlük cezası uygulanır ve sertifikanın düzenlendiği bölge müdürlüğüne derhal bildirim yapılır.",
+     "dayanak": "GİKY md. 26/2",
+     "kanit": "Ek-9'da tamamlanmış olduğu beyan edilen eksik belge veya belgelerin, formda belirtilen tarihlerde tamamlanmadığının tespit edilmesi halinde; ... sertifika sahibinin eksik beyanda bulunma yetkisinin 3 ay süreyle askıya alınması için;"
+    },
+    {
+     "alt_konu": "Eksik beyanda bulunma yetkisinin askıya alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre eksik belgeleri süresinde ibraz etmediği için ilk seferde yazılı olarak uyarılan sertifika sahibinin, bu işlemin sonlandırılmasını takip eden 3 yıl içinde aynı ihlali tekrarlaması halinde ne yapılır?",
+     "cevap": "Eksik beyanda bulunma yetkisi 6 ay süreyle askıya alınır ve usulsüzlük cezası uygulanır; bu askının bitiminden itibaren 3 yıl içinde ihlalin yeniden tekrarı halinde yetki 2 yıl süreyle askıya alınır.",
+     "dayanak": "GİKY md. 26/5, 26/7",
+     "kanit": "sertifika sahibinin eksik beyanda bulunma yetkisinin 6 ay süreyle askıya alınması için; ... eksik beyanda bulunma yetkisinin 2 yıl süreyle askıya alınması için;"
+    },
+    {
+     "alt_konu": "Kısmi teminat uygulaması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre dahilde işleme ve hariçte işleme rejimlerinde teminat uygulamasına ilişkin olarak kısmi teminat hükümleri karşısında hangi düzenleme saklıdır?",
+     "cevap": "Bu rejimlerle ilgili usul ve esaslar hakkında çıkarılan Bakanlar Kurulu Kararlarıyla belirlenmiş teminat uygulamalarına ilişkin hükümler saklıdır; kısmi teminat oranı antrepo, gümrük kontrolü altında işleme ve geçici ithalat rejimleri için öngörülmüştür.",
+     "dayanak": "GİKY md. 27/2",
+     "kanit": "Dahilde işleme ve hariçte işleme rejimleri ile ilgili usul ve esaslar hakkında çıkarılan Bakanlar Kurulu Kararları ile belirlenmiş teminat uygulamalarına ilişkin hükümler saklıdır."
+    },
+    {
+     "alt_konu": "Kısmi teminat uygulaması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ekonomik etkili rejimlere ilişkin kesinleşmiş gümrük vergileri, faiz ve para cezasının süresinde ödenmemesi ihlalinin, sertifikanın bu nedenle askıya alınmasının sona erdirilmesini takip eden 3 yıl içinde ikinci kez tekrarlanması halinde kısmi teminat yetkisine ne olur?",
+     "cevap": "Kısmi teminat uygulamasından yararlanma yetkisi, kesinleşmiş gümrük vergisi ve/veya ceza borcunun ödenmesini müteakip 2 yıl süreyle askıya alınır.",
+     "dayanak": "GİKY md. 31/1",
+     "kanit": "askıya alma işleminin sona erdirilmesini takip eden 3 yıl içerisinde ikinci kez tekrarlanması halinde; ... Kesinleşmiş gümrük vergisi ve/veya ceza borcunun ödenmesini müteakip, 2 yıl süreyle askıya alınır."
+    },
+    {
+     "alt_konu": "Götürü teminat uygulaması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre götürü teminat uygulaması neyi ifade eder?",
+     "cevap": "Teminat gerektiren gümrükçe onaylanmış işlem veya kullanımlarda, yararlanacak kişi için belirlenmiş tutardaki teminatın her işlem için ayrı ayrı teminat verilmeksizin, teminata bağlanacak tutardan bağımsız olarak ve herhangi bir düşüm yapılmaksızın 1 yıl süreyle kullanılabilmesini ifade eder.",
+     "dayanak": "GİKY md. 32/1",
+     "kanit": "Her işlem için ayrı ayrı teminat verilmeksizin, Teminata bağlanması gereken tutardan bağımsız olarak, Herhangi bir düşüm yapılmaksızın, 1 yıl süreyle kullanılabilmesini ifade eder."
+    },
+    {
+     "alt_konu": "Götürü teminat uygulaması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ilk götürü teminat yetkisi başvurusunda verilmesi gereken teminat tutarı nasıl hesaplanır?",
+     "cevap": "Bildirimin yapıldığı ayın ilk gününden geriye dönük 1 yıl içinde gerçekleştirilen gümrük işlemlerine ilişkin teminata konu gümrük vergilerinin toplam kıymetinin %10'u esas alınır; bu tutarın 1 yıllık geçerlilik süresi içinde yeniden hesaplanması talep edilemez.",
+     "dayanak": "GİKY md. 35/1",
+     "kanit": "bildirimin yapıldığı ayın ilk gününden geriye dönük 1 yıl içerisinde gerçekleştirdiği gümrük işlemlerine ilişkin olarak; teminata konu olan gümrük vergilerinin toplam kıymetinin %10'u esas alınır. ... bu tutarların 1 yıllık geçerlilik süresi içerisinde yeniden hesaplanması talep edilemez."
+    },
+    {
+     "alt_konu": "Götürü teminat uygulaması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre götürü teminat tutarı hangi asgari tutarlardan az olamaz?",
+     "cevap": "Götürü teminat dahilde işleme rejimi dâhil kapsamda ise 250.000 Avrodan, dahilde işleme rejimi dışında kalan kapsamda ise 75.000 Avrodan az olamaz.",
+     "dayanak": "GİKY md. 35/2",
+     "kanit": "Götürü teminatın dahilde işleme rejimi dâhil bu Yönetmeliğin götürü teminat hükümlerinin uygulanabileceği eşyaya ilişkin gümrük vergilerini kapsaması halinde: 250.000 Avrodan az olamaz. ... 75.000 Avrodan az olamaz."
+    },
+    {
+     "alt_konu": "Götürü teminat uygulaması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre götürü teminat uygulamasında sertifika sahibinden istenebilecek azami teminat tutarı nedir?",
+     "cevap": "Hesaplanan tutar daha yüksek olsa dahi 2.000.000 Avro tutarında azami teminat istenebilir; bu tutarda teminat verilmişse götürü teminat yetkisi, aksine talep olmadıkça sertifikanın düzenlendiği bölge müdürlüğünce re'sen güncellenir.",
+     "dayanak": "GİKY md. 35/3, 39/7",
+     "kanit": "2.000.000 Avro tutarında azami teminat verilmesi istenebilir. ... götürü teminat yetkisi, sertifika sahibinin aksine bir talebi bulunmadığı müddetçe, sertifikanın düzenlendiği bölge müdürlüğünce re'sen güncellenir."
+    },
+    {
+     "alt_konu": "Götürü teminat uygulaması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre götürü teminat başvurusunda kendisine teminat tutarı bildirilen başvuru sahibi teminat mektubunu ne kadar sürede ibraz etmelidir?",
+     "cevap": "Bildirimin yapıldığı tarihi müteakip en geç 30 iş günü içinde ibraz etmelidir; bu sürede ibraz etmeyenlerin götürü teminat yetkisi başvuruları reddedilir.",
+     "dayanak": "GİKY md. 36/1-b",
+     "kanit": "bildirimin yapıldığı tarihi müteakip en geç 30 iş günü içinde ibraz edilir. ... ibraz etmeyen kişilerin götürü teminat yetkisi başvuruları reddedilir."
+    },
+    {
+     "alt_konu": "Götürü teminat uygulaması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre götürü teminat yetkisinin güncellenmesi için başvuru ne zaman yapılmalıdır?",
+     "cevap": "Yetkinin 1 yıllık geçerlilik süresinin bitiminden önceki 1 ay içinde yapılmalıdır; bu süreden önce yapılan başvurular kabul edilmez. Geçerlilik süresi sonunda güncelleme tamamlanmamışsa götürü teminat yetkisi askıya alınır.",
+     "dayanak": "GİKY md. 39/1-2, 42/1",
+     "kanit": "geçerlilik süresinin bitiminden önceki 1 ay içinde başvuruda bulunur. ... kapsamındaki süreden önce yapılan güncelleme başvuruları kabul edilmez. ... güncelleme işleminin tamamlanmamış olması durumunda;"
+    },
+    {
+     "alt_konu": "Onaylanmış ihracatçı: basitleştirilmiş usulde A.TR düzenleme ve vize izni",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre basitleştirilmiş işlem kapsamında A.TR Dolaşım Belgesi düzenleme ve vize etme izni verilebilmesi için hangi işlem hacmi aranır?",
+     "cevap": "Başvuru yılından bir önceki takvim yılı veya başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde en az 50 adet A.TR Dolaşım Belgesi düzenleyip vize işlemlerini tamamlamış olmak gerekir.",
+     "dayanak": "GİKY md. 45/1",
+     "kanit": "Başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içerisinde ... en az 50 adet A.TR Dolaşım Belgesi düzenleyip vize işlemlerini tamamlamış olmaları halinde;"
+    },
+    {
+     "alt_konu": "Onaylanmış ihracatçı: basitleştirilmiş usulde A.TR düzenleme ve vize izni",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre basitleştirilmiş işlem kapsamında A.TR Dolaşım Belgesi düzenleme izni sahibinin Karar hükümlerine aykırı hareketinin tekrarlanması halinde yaptırım nasıl kademelenir?",
+     "cevap": "İlk ihlalde yazılı uyarı yapılır; tespiti takip eden 3 yıl içinde ikinci ihlalde tekrar yazılı uyarı yapılır; bunu takip eden 3 yıl içinde üçüncü ihlalde izin 6 ay süreyle, 6 aylık askının bitiminden itibaren 3 yıl içinde yeni ihlalde ise 2 yıl süreyle askıya alınır.",
+     "dayanak": "GİKY md. 50",
+     "kanit": "kişiler yazılı olarak tekrar uyarılır. ... basitleştirilmiş işlem kapsamında A.TR Dolaşım Belgesi düzenleme ve vize etme izni 6 ay süreyle askıya alınır. ... izin 2 yıl süreyle askıya alınır."
+    },
+    {
+     "alt_konu": "Kıymete bakılmaksızın fatura beyanı/EUR.MED fatura beyanı izni",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre eşyanın kıymetine bakılmaksızın fatura beyanı veya EUR.MED fatura beyanı düzenleme izni verilebilmesi için hangi koşul aranır?",
+     "cevap": "Önceki takvim yılı veya geriye dönük 1 yıl içinde aynı eşya (aynı dörtlü tarife pozisyonundaki eşya) için en az 50 adet EUR.1 veya EUR.MED Dolaşım Belgesi düzenlemiş olmak; dış ticaret sermaye şirketi, grup ihracatçısı ve benzeri aracılar vasıtasıyla yapılan ihracat dikkate alınmaz.",
+     "dayanak": "GİKY md. 52/1-2",
+     "kanit": "aynı eşyanın (aynı dörtlü tarife pozisyonu altında sınıflandırılan eşyanın) en az 50 adet EUR.1 veya EUR.MED Dolaşım Belgesi düzenlemiş olmaları halinde; ... vasıtasıyla gerçekleştirmiş olduğu ihracat tutarları dikkate alınmaz."
+    },
+    {
+     "alt_konu": "Kıymete bakılmaksızın fatura beyanı/EUR.MED fatura beyanı izni",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre kıymete bakılmaksızın fatura beyanı düzenleme izni sahibinin her 12 aylık dönemde gerçekleştirmesi gereken asgari işlem hacmi nedir?",
+     "cevap": "Sertifikanın düzenlendiği tarihi müteakip her 12 aylık dönem sonunda en az 50 adet EUR.1/EUR.MED Dolaşım Belgesi veya toplam kıymeti 6.000 Avroyu geçen menşeli ürünler için fatura beyanı/EUR.MED fatura beyanı kapsamında işlem yapılmış olmalıdır; aksi halde izin bu koşul sağlanıncaya kadar askıya alınır.",
+     "dayanak": "GİKY md. 55/8",
+     "kanit": "Sertifikanın düzenlendiği tarihi müteakip her 12 aylık dönem sonunda; ... Toplam kıymeti 6.000 Avroyu geçen menşeli ürünler için fatura beyanı veya EUR.MED fatura beyanı kapsamı işlem ... bu Bölümde belirtilen izin, bu koşul sağlanıncaya kadar askıya alınır."
+    },
+    {
+     "alt_konu": "İhracatta yerinde gümrükleme izni: koşullar ve kapsam",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ihracatta yerinde gümrükleme izni için aranan asgari ihracat tutarı nedir?",
+     "cevap": "Başvuru yılından bir önceki takvim yılı veya başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde asgari 5 milyon FOB/ABD doları tutarında fiili ihracat; dış ticaret sermaye şirketi, grup ihracatçısı ve benzeri aracılar vasıtasıyla yapılan ihracat dikkate alınmaz.",
+     "dayanak": "GİKY md. 57/1-a, 57/2",
+     "kanit": "asgari 5 milyon FOB/ABD doları tutarında fiili ihracat yapmış olmak. ... 57/1 [İhracatta yerinde gümrükleme izni için aranan ek koşullar] uygulanırken, başvuru sahibinin; ... vasıtasıyla gerçekleştirmiş olduğu ihracat tutarları dikkate alınmaz."
+    },
+    {
+     "alt_konu": "İhracatta yerinde gümrükleme izni: koşullar ve kapsam",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre Sivil Havacılık Genel Müdürlüğünce bilinen gönderici olarak belirlenmiş kişilere ihracatta yerinde gümrükleme izni verilirken hangi koşul aranmaz?",
+     "cevap": "Asgari 5 milyon FOB/ABD doları fiili ihracat koşulu aranmaz; ancak bu şekilde tanınan izin yalnızca hava yoluyla ihraç edilecek eşyanın işlemlerinde uygulanır.",
+     "dayanak": "GİKY md. 57/5",
+     "kanit": "Sivil havacılık mevzuatı uyarınca Sivil Havacılık Genel Müdürlüğü tarafından bilinen gönderici olarak belirlenmiş kişilerden; ... sadece aynı mevzuat kapsamında ihracatı hava yolu ile gerçekleştirilecek eşyanın işlemlerinde uygulanır."
+    },
+    {
+     "alt_konu": "İhracatta yerinde gümrükleme izni: koşullar ve kapsam",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ihracatta yerinde gümrükleme iznine sahip sertifika sahiplerine ayrıca talep aranmaksızın hangi yetki tanınır?",
+     "cevap": "Kendilerine ait ve ihracatta yerinde gümrükleme izni kapsamında ihraç edecekleri eşya ile sınırlı olmak üzere, transit rejimine tabi eşyayı hareket gümrük idaresine sunmaksızın kendi ihracatta yerinde gümrükleme tesislerinden sınır gümrük idaresine veya Türkiye Cumhuriyeti Gümrük Bölgesi dışındaki varış noktasına sevk etmek için izinli gönderici olarak işlem yapma yetkisi tanınır. Bu yetkinin tanınmasında izinli gönderici yetkisi için aranan ek koşullar aranmaz; ancak ortak transit rejimi kapsamında rejim hak sahibi sıfatıyla yapılacak işlemler için kapsamlı teminat sahibi olmak veya teminattan vazgeçme iznine sahip olmak şarttır.",
+     "dayanak": "GİKY md. 57/7-8",
+     "kanit": "ihracatta yerinde gümrükleme izni kapsamında ihraç edecekleri kendilerine ait eşya ile sınırlı olmak kaydıyla, transit rejimine tabi eşyayı; ... Sınır gümrük idaresine veya Türkiye Cumhuriyeti Gümrük Bölgesi dışındaki varış noktasına, ... 76/1 [İzinli gönderici yetkisi için aranan koşullar] aranmaz. ... Ancak bu kişilerin ortak transit rejimi kapsamında rejim hak sahibi sıfatıyla yapacakları işlemler için; Kapsamlı teminat sahibi olmaları veya Teminattan vazgeçme izinlerinin bulunması şarttır."
+    },
+    {
+     "alt_konu": "İhracatta yerinde gümrükleme: işlemler, yükümlülükler ve askıya alma",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ihracatta yerinde gümrükleme izni kapsamında eşyanın ihraç edilmeye hazır olduğunun bildirilmesinden itibaren kontrol türü ne kadar sürede bildirilir ve muayene ne kadar sürede başlatılır?",
+     "cevap": "Bildirimden itibaren 30 dakika içinde beyanın hangi kontrol türüne tabi tutulacağı gümrük idaresince elektronik ortamda bildirilir; muayene öngörülmüşse azami 3 saat içinde firmanın tesisine gidilerek başlatılır.",
+     "dayanak": "GİKY md. 67/4, 67/8",
+     "kanit": "uyarınca yapılan bildirimden itibaren 30 dakika içerisinde; ... beyanın hangi kontrol türüne tabi tutulacağı, gümrük idaresince beyan sahibine elektronik ortamda bildirilir. ... azami 3 saat içinde, firmanın ihracatta yerinde gümrükleme izni kapsamındaki tesisine gidilerek başlatılır."
+    },
+    {
+     "alt_konu": "İhracatta yerinde gümrükleme: işlemler, yükümlülükler ve askıya alma",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ihracatta yerinde gümrükleme izni sahibi kamera kayıtlarını ve tesisten çıkışa ilişkin kayıtları ne kadar süre saklamalıdır?",
+     "cevap": "Kamera kayıtlarını kayıt tarihinden itibaren en az 1 ay, eşya ve taşıma aracının tesisten çıkışına ilişkin kayıtları en az 3 yıl saklamalıdır.",
+     "dayanak": "GİKY md. 73/1-c",
+     "kanit": "kapsamındaki kamera kayıtlarını, kayıt tarihinden itibaren en az 1 ay, ... kapsamındaki kayıtları, kayıt tarihinden itibaren en az 3 yıl"
+    },
+    {
+     "alt_konu": "İhracatta yerinde gümrükleme: işlemler, yükümlülükler ve askıya alma",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ihracatta yerinde gümrükleme izni sahibinin içinde bulunulan takvim yılının sonunda asgari ihracat tutarını gerçekleştirememesi halinde ne olur?",
+     "cevap": "Bilinen gönderici durumu hariç, takvim yılı sonunda asgari 5 milyon FOB/ABD doları fiili ihracat yapılmamışsa ihracatta yerinde gümrükleme izni, koşullar yeniden sağlanıncaya kadar askıya alınır.",
+     "dayanak": "GİKY md. 74/7-a",
+     "kanit": "içinde bulunulan takvim yılının sonunda asgari 5 milyon FOB/ABD doları tutarında fiili ihracat yapılmış olması. ... ihracatta yerinde gümrükleme izni, bu koşulların tümü yeniden sağlanıncaya kadar askıya alınır"
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli gönderici yetkisi için Ulaştırma ve Altyapı Bakanlığından alınmış uluslararası taşımacı yetki belgesinin yanında hangi teminat koşulu aranır?",
+     "cevap": "Kapsamlı teminat veya teminattan vazgeçme sertifikası sahibi olmak gerekir.",
+     "dayanak": "GİKY md. 76/1-a, b",
+     "kanit": "a) Ulaştırma ve Altyapı Bakanlığından alınmış uluslararası taşımacı yetki belgesi sahibi olmak. ... b) Kapsamlı teminat veya teminattan vazgeçme sertifikası sahibi olmak."
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli gönderici yetkisi için aranan işlem hacmi koşulu nedir?",
+     "cevap": "Başvuru yılından önceki takvim yılı veya başvurunun yapıldığı ayın ilk gününden geriye dönük 1 yıl içinde en az 500 transit beyannamesi (TIR Karnesi dâhil) kapsamında eşya transit etmiş olmak ya da en az 300'ü transit beyanı olmak kaydıyla toplam 500 transit beyanı ve özet beyan kapsamında işlem yapmış olmak.",
+     "dayanak": "GİKY md. 76/1-c",
+     "kanit": "1) En az 500 transit beyannamesi (TIR Karnesi dâhil) kapsamında eşya transit etmiş olmak. ... 2) En az 300'ü transit beyanı (TIR Karnesi dâhil) olmak kaydıyla, toplam 500 transit beyanı ve özet beyan kapsamında işlem yapmış olmak."
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli gönderici yetkisi kapsamındaki tesislerden yapılacak taşımalarda ihracatçının yetkilendirilmiş yükümlü statüsüne sahip olması gerekir mi?",
+     "cevap": "Gerekmez; izinli gönderici yetkisi kapsamındaki tesislerden yapılan taşımalarda ihracatçının yetkilendirilmiş yükümlü statüsüne sahip olması aranmaz.",
+     "dayanak": "GİKY md. 77/1-b",
+     "kanit": "İzinli gönderici yetkisi kapsamı tesislerden yapılacak taşımalarda; ... ihracatçının yetkilendirilmiş yükümlü statüsüne sahip olması gerekmez."
+    },
+    {
+     "alt_konu": "İzinli gönderici yetkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli alıcı yetkisine de sahip izinli göndericinin, transit rejimi kapsamında sevkli birden fazla beyan muhteviyatı eşyayı aynı taşıma aracına birden fazla tesis veya gümrük idaresinden yükleyerek ihraç etmek üzere başka kişilerden taşıma hizmeti alarak kiraladığı araçlarla taşıtabilmesi için taşıyıcıdan ne kadar süredir hizmet alıyor olması gerekir?",
+     "cevap": "Yetki kapsamında taşıma yaptıracağı taşıyıcıdan en az 1 yıldır taşıma hizmeti alıyor olması gerekir. Ayrıca izinli göndericinin transit beyanını rejim hak sahibi sıfatıyla kendi adına vermesi ve verdiği beyandan gümrük idaresine karşı sorumlu olması, taşıyıcı firmanın taşımaya ilişkin uygun güvenlik tedbirleri aldığını kontrol etmesi ve taşıyıcının güvenilirlik koşulunun Yönetmelikte sayılan ölçütlerini sağlaması aranır.",
+     "dayanak": "GİKY md. 91/1-c",
+     "kanit": "96 ncı madde [İzinli alıcı yetkisi] uyarınca izinli alıcı yetkisine de sahip izinli göndericiler tarafından; transit rejimi kapsamında sevkli birden fazla beyan muhteviyatı eşya, aynı taşıma aracına birden fazla tesis veya gümrük idaresinden ayrı ayrı yüklenerek ihraç edilmek üzere aşağıdaki taşıyıcılar aracılığıyla taşınabilir: ... Transit beyanını rejim hak sahibi sıfatıyla kendi adına vermesi ve ... 1) Yetki kapsamında taşıma yaptıracağı taşıyıcıdan en az 1 yıldır taşıma hizmeti alması. ... 2) İzinli göndericinin, taşıma işlerini yürütecek taşıyıcı firmanın taşımaya ilişkin uygun güvenlik tedbirleri aldığını kontrol etmesi."
+    },
+    {
+     "alt_konu": "İzinli alıcı yetkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli alıcı yetkisinin kullanılabilmesi için gümrük idaresine hangi tutarda teminat verilmelidir?",
+     "cevap": "Ek-27/A'daki örneğe uygun olarak 1.000.000 Avro tutarında nakit teminat veya teminat mektubu verilmelidir.",
+     "dayanak": "GİKY md. 98/1",
+     "kanit": "Ek-27/A'daki örneğe uygun olarak gümrük idaresine 1.000.000 Avro tutarında; ... Nakit teminat veya Teminat mektubu verilmiş olması gerekir."
+    },
+    {
+     "alt_konu": "İzinli alıcı yetkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli alıcı yetkisi kapsamında hangi kişilerin eşyasının işlemleri yapılabilir?",
+     "cevap": "Yalnızca YYS-I statüsüne sahip yetkilendirilmiş yükümlülerin eşyasının işlemleri yapılabilir; YYS-I statüsü bulunmayan sertifika sahipleri izinli alıcı tesislerinde ithalat işlemi yapmak istediklerinde YYS-I statüsü için başvurmalıdır.",
+     "dayanak": "GİKY md. 97/1, 10/10",
+     "kanit": "4/A maddesi [YYS-I statüsü] uyarınca YYS-I statüsüne sahip yetkilendirilmiş yükümlülerin eşyasının işlemleri yapılabilir. ... YYS-I statüsüne sahip olmayan kişilerin, izinli alıcı tesislerinde ithalat işlemlerini gerçekleştirmek istemeleri halinde;"
+    },
+    {
+     "alt_konu": "İzinli alıcı yetkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli alıcı tesislerindeki eşyanın hangi kontrol türüne tabi tutulacağının izinli alıcıya bildirilmesine ilişkin azami süreyi kim belirler ve bu süre ne kadar olabilir?",
+     "cevap": "Süre sertifikayı düzenleyen bölge müdürlüğünce belirlenir ve 2 saati geçemez; Genel Müdürlük de bu süreyi belirlemeye ve değiştirmeye yetkilidir.",
+     "dayanak": "GİKY md. 104/1-2, 104/6",
+     "kanit": "izinli alıcıya bildirileceği azami süre, sertifikayı düzenleyen bölge müdürlüğünce belirlenir. ... 104/1 [Kontrol türünün bildirilmesi için bölge müdürlüğünce belirlenen süre] 2 saati geçemez. ... Genel Müdürlük, kontrol türü bildirim süresini belirlemeye ve değiştirmeye yetkilidir."
+    },
+    {
+     "alt_konu": "İzinli alıcı yetkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli alıcı tesisinde güvenli depolama alanına alınan eşyanın ithalat işlemleri ne kadar sürede tamamlanmalıdır?",
+     "cevap": "Tesise varış bildirimi tarihinden itibaren azami 20 gün içinde tamamlanmalıdır; aynı süre ithalatta yerinde gümrükleme izni kapsamında güvenli depolama alanına alınan eşya için de geçerlidir.",
+     "dayanak": "GİKY md. 111/12, 134/12",
+     "kanit": "110/3 [Tesise varış bildirimi] tarihinden itibaren azami 20 gün içerisinde tamamlanır. ... 133/3 [Tesise varış bildirimi] tarihinden itibaren azami 20 gün içerisinde tamamlanır."
+    },
+    {
+     "alt_konu": "İzinli alıcı yetkisi",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre izinli alıcı yetkisi kapsamında eşyanın ithalat işlemleri hangi durumda taşıttan boşaltılmadan güvenli park alanında yapılabilir?",
+     "cevap": "İthalat beyannamesinin tesise varış bildiriminden (araç veya mühre müdahale halinde gümrük idaresinin izninden) itibaren 48 saat içinde tescil edilecek olması halinde; bu sürede tescil edilmezse durum gümrük müdürlüğüne bildirilir ve eşya güvenli depolama alanına alınır.",
+     "dayanak": "GİKY md. 112/1, 112/7",
+     "kanit": "48 saat içerisinde tescil edilecekse; ithalat işlemleri, eşya taşıma aracından boşaltılmadan 106/2 [Güvenli park alanında] yapılabilir. ... Eşyanın 112/1'deki 48 saatlik süre içerisinde rejime giriş beyannamesi 114 üncü madde [İthalat beyannamesinin tescili] uyarınca tescil edilmezse;"
+    },
+    {
+     "alt_konu": "İthalatta yerinde gümrükleme izni",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ithalatta yerinde gümrükleme izni verilebilmesi için sertifika sahibinin hangi statüye sahip olması gerekir ve bu statünün kaybı izni nasıl etkiler?",
+     "cevap": "YYS-I statüsüne sahip olması (ayrıca gümrük idaresine teminat vermiş olması) gerekir; YYS-I statüsünün kaybedilmesi halinde izin, koşul yeniden sağlanıncaya kadar askıya alınır.",
+     "dayanak": "GİKY md. 121/1, 141/7",
+     "kanit": "a) 4/A/1 [YYS-I statüsü] kapsamında YYS-I statüsüne sahip olmak. ... b) 123 üncü madde [İthalatta yerinde gümrükleme izni için kullanılacak teminat] uyarınca gümrük idaresine teminat vermiş olmak. ... b) 121/1-(a)'daki [YYS-I statüsüne sahip olma] koşulunun kaybedilmesi."
+    },
+    {
+     "alt_konu": "İthalatta yerinde gümrükleme izni",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ithalatta yerinde gümrükleme izninin kullanılabilmesi için verilmesi gereken teminat tutarı nedir?",
+     "cevap": "Ek-27/B'ye uygun 500.000 Avro tutarında nakit teminat veya teminat mektubu verilmelidir.",
+     "dayanak": "GİKY md. 123/1",
+     "kanit": "İthalatta yerinde gümrükleme izninin kullanılabilmesi için; ... Ek-27/B'ye uygun 500.000 Avro tutarında;"
+    },
+    {
+     "alt_konu": "İthalatta yerinde gümrükleme izni",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre götürü teminat yetkisine sahip olup 2.000.000 Avro götürü teminat vermiş başvuru sahibinden ithalatta yerinde gümrükleme izni için ayrıca 500.000 Avro teminat istenir mi?",
+     "cevap": "İstenmez; götürü teminat geçerli ve gümrük idaresinin zilyedinde bulunduğu sürece 500.000 Avro teminat verme koşulu karşılanmış sayılır.",
+     "dayanak": "GİKY md. 123/4",
+     "kanit": "bu teminat geçerli ve gümrük idaresinin zilyedinde bulunduğu sürece; ... 123/1'deki 500.000 Avro teminat verme koşulu karşılanmış sayılır."
+    },
+    {
+     "alt_konu": "İthalatta yerinde gümrükleme izni",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre grup ithalatçısının grup imalatçısının tesislerinde ithalatta yerinde gümrükleme izni kapsamında işlem yapabilmesi için hangi oran şartı aranır?",
+     "cevap": "Grup ithalatçısının gerçekleştirdiği ithalatın en az %60'ının grup imalatçılarının üretiminde kullanılan eşyanın ithalatı olduğunu gösteren, yeminli mali müşavirce hazırlanmış rapor aslının ibrazı gerekir.",
+     "dayanak": "GİKY md. 121/3",
+     "kanit": "grup ithalatçısının gerçekleştirdiği ithalatın en az %60'ının, grup imalatçılarının üretiminde kullanılan eşyanın ithalatı olduğunu gösteren; ... yeminli mali müşavir tarafından hazırlanmış Ek-21'e uygun rapor aslının ibraz edilmesi gerekir."
+    },
+    {
+     "alt_konu": "Beyanın kontrol türüne ilişkin kolaylaştırmalar (yeşil hat, öncelikli kontrol)",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlülerin hangi eşyaya ilişkin gümrük beyannameleri yeşil hatta işlem görmez?",
+     "cevap": "Gümrük Yönetmeliğinin 196 ncı maddesinin birinci fıkrasının (a) ve (ç) bentlerinde tahlile tabi tutulacağı belirtilen eşyaya ilişkin gümrük beyannameleri yeşil hatta işlem görmez.",
+     "dayanak": "GİKY md. 144/2",
+     "kanit": "Gümrük Yönetmeliğinin 196/1-(a) ve (ç) bentlerinde tahlile tabi tutulacağı belirtilen eşyaya ilişkin gümrük beyannameleri; ... yeşil hatta işlem görmez."
+    },
+    {
+     "alt_konu": "Beyanın kontrol türüne ilişkin kolaylaştırmalar (yeşil hat, öncelikli kontrol)",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yeşil hatta işlem görmüş beyannameye ilişkin tahakkuk eden gümrük vergileri nasıl ödenmelidir?",
+     "cevap": "Yetkilendirilmiş yükümlünün banka hesabından elektronik ortamda veya bu kişinin GÜMKART'ı aracılığıyla ödenmesi zorunludur; banka hesabının yükümlüye ait olduğunun kontrolünden ödemenin yapıldığı banka sorumludur.",
+     "dayanak": "GİKY md. 144/3",
+     "kanit": "Yetkilendirilmiş yükümlünün banka hesabından elektronik ortamda veya ... Bu kişinin GÜMKART'ı (gümrük veznelerinde kullanılan elektronik para kartı) aracılığıyla ... Kullanılan banka hesabının yetkilendirilmiş yükümlüye ait olduğunun kontrolünden ödemenin yapıldığı banka sorumludur."
+    },
+    {
+     "alt_konu": "Beyanın kontrol türüne ilişkin kolaylaştırmalar (yeşil hat, öncelikli kontrol)",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre tahlile tabi olduğu halde yükümlünün beyanından kaynaklı olarak yeşil hatta işlem gören beyannamenin, gümrük idaresince tespitinden önce beyan sahibince bildirilmesi halinde ne yapılır?",
+     "cevap": "Beyanın kontrol türüne ilişkin kolaylıkların askıya alınmasına dair hükümler uygulanmaz; ancak diğer mevzuat hükümleri saklı kalmak kaydıyla her bir aykırılık için usulsüzlük cezası uygulanır.",
+     "dayanak": "GİKY md. 147/13",
+     "kanit": "eşyanın yeşil hatta işlem gördüğü, gümrük idaresince tespit edilmeden önce beyan sahibi tarafından gümrük idaresine bildirilirse; ... Bu maddedeki askıya alma hükümleri uygulanmaz."
+    },
+    {
+     "alt_konu": "Emniyet ve güvenlik kontrollerine ilişkin kolaylıklar",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika sahibi nakliyeci kuruluşlar ile kara, deniz ve hava yolu işletmeleri azaltılmış zorunlu bilgilerden oluşan özet beyanı hangi durumda verebilir?",
+     "cevap": "Yalnızca yetkilendirilmiş yükümlü statüsü tanınmış kişilerin eşyasını taşıdıkları durumlarda verebilirler.",
+     "dayanak": "GİKY md. 149/2",
+     "kanit": "azaltılmış zorunlu bilgilerden oluşan özet beyanı yalnızca yetkilendirilmiş yükümlü statüsü tanınmış kişilerin eşyasını taşıdıkları durumlarda verebilir."
+    },
+    {
+     "alt_konu": "Emniyet ve güvenlik kontrollerine ilişkin kolaylıklar",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika sahibi taşıyıcının yetkilendirilmiş yükümlü statüsü bulunmayan kişilerin eşyası için azaltılmış zorunlu bilgilerden oluşan özet beyan vermesi halinde uygulanacak yaptırım nedir?",
+     "cevap": "Emniyet ve güvenlik kontrollerine ilişkin kolaylıklardan yararlanma hakkı her seferinde 6 ay süreyle askıya alınır.",
+     "dayanak": "GİKY md. 152/2",
+     "kanit": "emniyet ve güvenlik kontrollerinde kolaylıklardan yararlanma hakkı her seferinde 6 ay süreyle askıya alınır."
+    },
+    {
+     "alt_konu": "Sertifika sahibinin yükümlülükleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre Ek-2 soru formu sertifika sahibince hangi periyotta güncellenir ve ne zamana kadar gönderilir?",
+     "cevap": "Sertifikanın düzenlendiği tarihten itibaren 5 yılda bir güncellenir ve 60 aylık dönemlerin sonuna tekabül eden tarihi izleyen üçüncü ayın sonuna kadar sertifikayı düzenleyen bölge müdürlüğüne gönderilir.",
+     "dayanak": "GİKY md. 153/5-6",
+     "kanit": "sertifikanın düzenlendiği tarihten itibaren 5 yılda bir kez güncellenerek mevcut durumu yansıtacak şekilde hazırlanır. ... sertifikanın düzenlendiği tarihten sonraki 60 aylık dönemlerin sonuna tekabül eden tarihi izleyen üçüncü ayın sonuna kadar"
+    },
+    {
+     "alt_konu": "Sertifika sahibinin yükümlülükleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre güvenilirlik koşulu kapsamındaki kişiler hakkında Cumhuriyet savcılığınca dava açıldığının davalıya tebliği halinde sertifika sahibi ne kadar sürede bildirimde bulunmalıdır?",
+     "cevap": "Tebliğ tarihinden itibaren 30 gün içinde sertifikayı düzenleyen bölge müdürlüğüne bildirmelidir.",
+     "dayanak": "GİKY md. 153/9",
+     "kanit": "tebliğ tarihinden itibaren 30 gün içerisinde durum sertifika sahibi tarafından sertifikayı düzenleyen Bölge Müdürlüğüne bildirilir."
+    },
+    {
+     "alt_konu": "Sertifikanın askıya alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika için aranan koşullardan birinin artık karşılanmadığının sertifika sahibince bildirilmesi halinde bölge müdürlüğünce ne kadar süre verilir?",
+     "cevap": "Eksikliklerin düzeltilmesi ve/veya durumun açıklanması için bildirim tarihinden itibaren 30 gün süre verilir.",
+     "dayanak": "GİKY md. 154/1",
+     "kanit": "ilgili Bölge Müdürlüğünce, eksikliklerin düzeltilmesi ve/veya durumun açıklanması için bildirim tarihinden itibaren 30 gün süre verilir."
+    },
+    {
+     "alt_konu": "Sertifikanın askıya alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre verilen sürede durumun düzeltilmemesi veya koşul kaybının sertifika sahibince bildirilmeden gümrük idaresince tespiti halinde yetkilendirilmiş yükümlü statüsü ne kadar süreyle askıya alınır?",
+     "cevap": "Bölge müdürlüğünce 30 gün süreyle askıya alınır; eksikliklerin giderilebileceğine ilişkin bilgi ve belge sunulması şartıyla bu süre 30 gün uzatılabilir.",
+     "dayanak": "GİKY md. 154/3-4",
+     "kanit": "yetkilendirilmiş yükümlü statüsünü 30 gün süreyle askıya alır ve durumu ilgili yükümlüye bildirir. ... sertifika sahibinin eksikliklerin giderilebileceğine ilişkin bilgi ve belge sunması şartıyla ilgili Bölge Müdürlüğünce 30 gün uzatılabilir."
+    },
+    {
+     "alt_konu": "Sertifikanın askıya alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre gümrük işlemlerinden veya gümrük cezalarından doğan kesinleşmiş kamu alacağının süresinde ödenmemesi halinde sertifikaya ne olur?",
+     "cevap": "Sertifika, kesinleşmiş gümrük vergisi ve/veya ceza borcu ödeninceye kadar askıya alınır.",
+     "dayanak": "GİKY md. 154/6",
+     "kanit": "Gümrük işlemlerinden veya gümrük cezalarından doğan kesinleşmiş herhangi bir kamu alacağının süresinde ödenmediği tespit edilirse; ... sertifika, kesinleşmiş gümrük vergisi ve/veya ceza borcu ödeninceye kadar askıya alınır."
+    },
+    {
+     "alt_konu": "Sertifikanın askıya alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre Cumhuriyet savcılığınca açılan dava sertifika sahibince bildirilmeden gümrük idaresince öğrenildiği için askıya alınan sertifikada, ilgili kişinin ortaklık, yönetim kurulu üyeliği veya temsil ilişkisinin sona ermesi halinde askı ne zaman sona erer?",
+     "cevap": "Durumun yetkili idareye bildirildiği tarihi izleyen 1 yılın bitiminde sonlandırılır; dava önceden bildirilmiş olsaydı askı, bildirimi izleyen 30 günün bitiminde sona ererdi.",
+     "dayanak": "GİKY md. 154/14, 154/16",
+     "kanit": "askıya alma, durumun yetkili gümrük idaresine bildirildiği tarihi izleyen 1 yılın bitiminde sonlandırılır. ... askıya alma işlemi, durumun yetkili Bölge Müdürlüğüne bildirildiği tarihi izleyen 30 günün bitiminde sonlandırılır."
+    },
+    {
+     "alt_konu": "Sertifikanın askıya alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre gümrük ve dış ticaret işlemlerinde temsil yetkisine sahip çalışan hakkında kesinleşmiş yargı kararı verilmesi halinde sertifika bakımından nasıl işlem yapılır?",
+     "cevap": "Askıya alma devam eder; temsil yetkisi yargı kararının davalıya tebliğinden itibaren 30 gün içinde sona erdirilirse askı, durumun bildirildiği tarihi izleyen 30 günün bitiminde sona erer; bu sürede sona erdirilmezse sertifika geri alınır.",
+     "dayanak": "GİKY md. 154/18-19, 155/1-c",
+     "kanit": "nedeniyle devam eden askı; ... temsil yetkisi, yargı kararının davalıya tebliğ tarihinden itibaren 30 gün içinde sona erdirilirse; ... Temsil yetkisi tebliğden itibaren 30 gün içinde sona erdirilmezse; ... 155/1-(c) [Sertifikanın geri alınması] uygulanır."
+    },
+    {
+     "alt_konu": "Sertifikanın geri alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre askıya alma ve uzatma sürelerinin sonunda kaybedilen sertifika koşullarının tekrar sağlanamaması halinde ne olur?",
+     "cevap": "Sertifika, sertifikayı düzenleyen bölge müdürlüğünce geri alınır.",
+     "dayanak": "GİKY md. 155/1-a",
+     "kanit": "Sertifika aşağıdaki hallerde, sertifikayı düzenleyen Bölge Müdürlüğünce geri alınır: ... kaybedilen sertifika koşullarından herhangi biri tekrar sağlanamamışsa."
+    },
+    {
+     "alt_konu": "Sertifikanın geri alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre bildirilmeden öğrenilen dava nedeniyle bir yıllık askı uygulanmakta iken sertifika sahibinin talebiyle geri alınan sertifika için yeniden başvuru ne zaman yapılabilir?",
+     "cevap": "Talep üzerine geri alınan sertifika için kural olarak yeniden başvuru yapılabilir; ancak bu bir yıllık askı devam ederken geri alma talep edilmişse geçerli askıya alma süresi tamamlanıncaya kadar yeniden başvuru yapılamaz.",
+     "dayanak": "GİKY md. 155/2",
+     "kanit": "Ancak sertifika 154/16 [Bildirim yapılmadan öğrenilen dava sonrasında ilişkinin sona ermesi halinde 1 yıllık askı] kapsamında askıya alınmışken geri alınması talep edilirse; ... geçerli askıya alma süresi tamamlanıncaya kadar yeniden başvuru yapılamaz."
+    },
+    {
+     "alt_konu": "Sertifikanın geri alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre adına sertifika düzenlenen kamu kuruluşunun istisnadan yararlanmasını sağlayan özelliklerin hiçbirine artık sahip olmadığının öğrenilmesi halinde ne yapılır?",
+     "cevap": "Sertifika, kapsamındaki tüm hak ve yetkilerle birlikte süresiz olarak geri alınır.",
+     "dayanak": "GİKY md. 155/7",
+     "kanit": "sertifika, sertifika kapsamındaki tüm hak ve yetkilerle birlikte süresiz olarak geri alınır."
+    },
+    {
+     "alt_konu": "Sertifikanın iptali ve hak/yetkilerin ayrıca askıya alınması veya geri alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlü sertifikası hangi hallerde iptal edilir?",
+     "cevap": "Sertifikanın yanlış veya eksik bilgilere ya da sahte belgelere dayanılarak verildiğinin anlaşılması; yönetim kurulu üyeleri veya sermayenin %10'undan fazlasına sahip gerçek kişilerden biri hakkında ilgili kanunlara muhalefetten kesinleşmiş yargı kararı verilmesi; sertifikanın, hak ve yetkilerin, yetki numaralarının veya özel tipte mühürlerin başkası adına kullanılması ya da kullanılmasına izin verilmesi halinde, sertifikayı düzenleyen bölge müdürlüğünce iptal edilir.",
+     "dayanak": "GİKY md. 156/1",
+     "kanit": "Yanlış veya eksik bilgilere veya ... dayanılarak verildiğinin anlaşılması. ... Sermayenin %10'undan fazlasına sahip gerçek kişilerden ... Aşağıdakilerin sertifika sahibi tarafından başkası adına kullanılması veya kullanılmasına izin verilmesi:"
+    },
+    {
+     "alt_konu": "Sertifikanın iptali ve hak/yetkilerin ayrıca askıya alınması veya geri alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yönetim kurulu üyesi veya sermayenin %10'undan fazlasına sahip ortak hakkında kesinleşmiş yargı kararı verilmesine rağmen sertifika hangi durumda iptal edilmez?",
+     "cevap": "Yargı kararının verildiği tarihten önce kişinin sertifika sahibi şirketle ortaklık veya yönetim kurulu üyeliği ilişkisi sona ermişse sertifika iptal edilmez.",
+     "dayanak": "GİKY md. 156/4",
+     "kanit": "yargı kararının verildiği tarihten önce kişinin sertifika sahibi şirketle; ... Ortaklık veya Yönetim kurulu üyeliği ilişkisi sona ermişse; sertifika iptal edilmez."
+    },
+    {
+     "alt_konu": "Sertifikanın iptali ve hak/yetkilerin ayrıca askıya alınması veya geri alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika koşulları korunmakla birlikte sertifika kapsamında tanınan bir hak veya yetkinin koşullarının kaybedildiği anlaşılırsa nasıl işlem yapılır?",
+     "cevap": "Sertifika geri alınmaz; yalnız ilgili hak veya yetki, sertifikayı düzenleyen bölge müdürlüğünce askıya alınır veya geri alınır.",
+     "dayanak": "GİKY md. 157/1",
+     "kanit": "Sertifika geri alınmaz. Yalnız ilgili hak veya yetki askıya alınır veya geri alınır. ... İşlem, sertifikayı düzenleyen Bölge Müdürlüğünce yapılır."
+    },
+    {
+     "alt_konu": "Sertifikanın iptali ve hak/yetkilerin ayrıca askıya alınması veya geri alınması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika kapsamındaki hak ve yetkilerin askıya alınmasını veya geri alınmasını gerektiren durumlarda yetkili makam hangisidir ve gümrük müdürlüğünün görevi nedir?",
+     "cevap": "Yetkili makam sertifikanın düzenlendiği bölge müdürlüğüdür; durumu tespit eden ilgili gümrük müdürlüğü, askıya alma veya geri alma işleminin yapılması için bu bölge müdürlüğüne bildirimde bulunur.",
+     "dayanak": "GİKY md. 157/2-3",
+     "kanit": "Yetkili makam: Sertifikanın düzenlendiği Bölge Müdürlüğü. ... ilgili Gümrük Müdürlüğü, öngörülen askıya alma veya geri alma işleminin yapılması için sertifikanın düzenlendiği Bölge Müdürlüğüne bildirimde bulunur:"
+    },
+    {
+     "alt_konu": "Yıllık faaliyet raporu",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika kapsamında gerçekleştirilen gümrük işlemlerine ilişkin yıllık faaliyet raporu incelemesi ne zaman yapılır?",
+     "cevap": "Sertifikanın düzenlendiği tarihten sonraki her 12 aylık dönem sonunda, dönem sonunu izleyen üçüncü ayın sonuna kadar yapılır; sertifika sahibi incelemeyi hizmet alımı yoluyla da yaptırabilir.",
+     "dayanak": "GİKY md. 158/1",
+     "kanit": "sertifikanın düzenlendiği tarihten sonraki her 12 aylık dönem sonunda; ... 12 aylık dönemin sonuna tekabül eden tarihi izleyen üçüncü ayın sonuna kadar yapılır. ... Sertifika sahibi bu incelemeyi hizmet alımı yoluyla da yaptırabilir."
+    },
+    {
+     "alt_konu": "Yıllık faaliyet raporu",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yıllık faaliyet raporunda geriye dönük kontrole konu edilecek beyanname sayısı ne olmalıdır?",
+     "cevap": "50'den az olmamak şartıyla toplam beyanname sayısının en az %5'i olmalıdır.",
+     "dayanak": "GİKY md. 158/2",
+     "kanit": "Faaliyet raporuna konu edilecek beyanname sayısı; 50'den az olmamak şartıyla toplam beyanname sayısının en az %5'idir."
+    },
+    {
+     "alt_konu": "Ön izleme ve yerinde izleme",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika koşullarının ön izlemesi hangi makamca ve hangi yöntemle yapılır?",
+     "cevap": "Ticari kayıtlar ve emniyet-güvenlik koşulları dışında kalan ön incelemeye konu koşullar için sertifikayı düzenleyen bölge müdürlüğünce, koşulları tevsik eden belgeler ve Bakanlık veri tabanları üzerinden yapılır.",
+     "dayanak": "GİKY md. 159/1",
+     "kanit": "sertifikayı düzenleyen Bölge Müdürlüğünce ön izlemeye tabi tutulur. ... Koşulları tevsik eden belgeler ve Bakanlık veri tabanları üzerinden yapılır."
+    },
+    {
+     "alt_konu": "Ön izleme ve yerinde izleme",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika koşullarının yerinde izlemesi kim tarafından ve nerede gerçekleştirilir?",
+     "cevap": "Sonradan kontrol yetkilisi tarafından sertifika sahibinin tesislerinde gerçekleştirilir; Genel Müdürlük gerekli görürse 5 yıllık periyotlar dışında da yerinde izleme yapılmasına karar verebilir.",
+     "dayanak": "GİKY md. 160/1, 160/8",
+     "kanit": "sonradan kontrol yetkilisi tarafından sertifika sahibinin tesislerinde gerçekleştirilecek yerinde izleme ile tespit edilir. ... 5 yıllık periyotlar dışında da yerinde izleme yapılmasına karar verebilir."
+    },
+    {
+     "alt_konu": "Ön izleme ve yerinde izleme",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre ön izlemede güvenilirlik koşuluna ilişkin ceza kararı sorguları ile en az 100 beyan koşuluna ilişkin sorgu hangi dönemler için yapılır?",
+     "cevap": "Ceza kararı sorguları sertifikanın düzenlendiği tarihten itibaren 5 yıl içinde 12'şer aylık 5 dönem için ayrı ayrı; 100 beyan koşuluna ilişkin sorgu ise 5 yıllık dönemin yalnız son 1 yılı için yapılır.",
+     "dayanak": "GİKY md. 159/8",
+     "kanit": "sertifikanın düzenlendiği tarihten itibaren 5 yıl içinde, 12'şer aylık 5 dönem için ayrı ayrı yapılır. ... sertifikanın düzenlendiği tarihten itibaren geçen 5 yıllık dönemin yalnız son 1 yıllık dönemi için yapılır."
+    },
+    {
+     "alt_konu": "Bilgi değişimi ve YYS listesinin yayımlanması",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlülerin listesi hangi şartla kamuya açılabilir ve listede hangi bilgiler yer alır?",
+     "cevap": "İlgili yetkilendirilmiş yükümlünün önceden muvafakati alınarak internet yoluyla kamuya açılabilir; listede sertifika numarası ve tarihi, sertifika kapsamındaki yetki ve izinler, vergi numarası ve ticaret unvanı yer alır.",
+     "dayanak": "GİKY md. 161/3-4",
+     "kanit": "ilgili yetkilendirilmiş yükümlünün önceden muvafakati alınarak internet yoluyla kamuya açılabilir. ... Sertifika numarası, Sertifika tarihi, Sertifika kapsamındaki yetki ve izinler, Vergi numarası, Ticaret unvanı bilgilerini içerir ve sürekli güncellenir."
+    },
+    {
+     "alt_konu": "Beyana aykırılık ölçütleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre beyana aykırılık değerlendirmesinde dökme halde gelen eşyanın vergilendirmeye esas ağırlığına ilişkin farklılıklarda hangi oran esas alınır?",
+     "cevap": "%3'ü aşan farklılıklar dikkate alınır; aynı oran izinli gönderici ve izinli alıcı kapsamında dökme eşyanın ağırlığına ilişkin beyana aykırılık tespitinde de uygulanır.",
+     "dayanak": "GİKY md. 161/A-3, 161/A-7",
+     "kanit": "dökme halde gelen eşyanın vergilendirmeye esas ağırlığına ilişkin aykırılıklarda %3'ü aşan farklılıklar dikkate alınır. ... dökme halde gelen eşyanın ağırlığına ilişkin beyana aykırılığın tespitinde %3'ü aşan farklılıklar dikkate alınır."
+    },
+    {
+     "alt_konu": "Beyana aykırılık ölçütleri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre beyana aykırılık değerlendirmesinde ihraç eşyasının miktar veya cinsindeki farklılık hangi oranın altında dikkate alınmaz?",
+     "cevap": "Beyan ve eki belgelere göre %10'dan az farklılık dikkate alınmaz; ancak cins, miktar, evsaf veya fiyat değişik gösterilerek teşvik, sübvansiyon veya parasal iadelerden yararlanılması hali bu kapsamın dışındadır.",
+     "dayanak": "GİKY md. 161/A-5",
+     "kanit": "ihraç eşyasının beyan ve eki belgelere göre miktar veya cinsinde %10'dan daha az farklılık bulunması dikkate alınmaz. ... ihracata konu malın cins, miktar, evsaf veya fiyatı değişik gösterilerek ilgili kanunlara göre;"
+    },
+    {
+     "alt_konu": "Onaylanmış kişi statüsü ile ilişki",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre adına yetkilendirilmiş yükümlü sertifikası düzenlenen onaylanmış kişilerin statü belgelerine ne olur?",
+     "cevap": "Onaylanmış kişi statü belgeleri geri alınır; sertifikanın geçerlilik süresi boyunca onaylanmış kişi statü belgesi başvurusunda bulunulamaz.",
+     "dayanak": "GİKY md. 162/1-2",
+     "kanit": "Adlarına yetkilendirilmiş yükümlü sertifikası düzenlenen onaylanmış kişilerin; onaylanmış kişi statü belgeleri geri alınır. ... onaylanmış kişi statü belgesi başvurusunda bulunulamaz."
+    },
+    {
+     "alt_konu": "Onaylanmış kişi statüsü ile ilişki",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre onaylanmış kişi statü belgesi veya onaylanmış ihracatçı yetkisi iptal edilen kişilerin YYS başvurusu ne zamana kadar reddedilir?",
+     "cevap": "İptal kararının başlangıç tarihini takip eden 3 yıl içinde yapılan YYS başvuruları reddedilir.",
+     "dayanak": "GİKY md. 162/6, 14/1-d",
+     "kanit": "Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'nin 68 inci maddesi uyarınca onaylanmış kişi statü belgesi iptal edilenler, ... iptal kararının başlangıç tarihini takip eden 3 yıl içerisinde YYS başvurusu yaparsa;"
+    },
+    {
+     "alt_konu": "Onaylanmış kişi statüsü ile ilişki",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre YYS başvurusu sırasında onaylanmış kişi statü belgesi kapsamında güncel ve geçerli götürü teminat yetkisi bulunan başvuru sahibinin bu yetkisi nasıl değerlendirilir?",
+     "cevap": "Başvuru sahibi götürü teminattan yararlanmaya devam etmek istiyorsa bu yetki, götürü teminat tutarının bildirilmesi ve teminat mektubunun ibrazına ilişkin hükümler uygulanmaksızın sertifika kapsamına dâhil edilir.",
+     "dayanak": "GİKY md. 162/7",
+     "kanit": "Başvuru sahibi YYS kapsamında da götürü teminat yetkisinden yararlanmaya devam etmek istiyorsa, ... 36 ncı madde [Götürü teminat uygulamasına ilişkin hükümler] uygulanmaksızın sertifika kapsamına dâhil edilir."
+    },
+    {
+     "alt_konu": "Bakanlık ve bölge müdürlüklerinin yetkileri",
+     "soru": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre sertifika sahibi firmaların ticari faaliyetlerine konu eşya üzerinde emniyet ve güvenlik amaçlı risk analizi yapmaya hangi makam yetkilidir?",
+     "cevap": "Bölge müdürlükleri yetkilidir.",
+     "dayanak": "GİKY md. 163/3",
+     "kanit": "Sertifika sahibi firmaların ticari faaliyetlerine konu eşya üzerinde emniyet ve güvenlik amaçlı risk analizi yapmaya Bölge Müdürlükleri yetkilidir."
+    }
+   ]
+  }
+ ]
+}
