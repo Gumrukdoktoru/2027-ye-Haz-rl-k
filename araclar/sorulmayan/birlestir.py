@@ -60,11 +60,13 @@ for r in env: env_by_file[r[5]].append(r)
 YIL = ['2021', '2022', '2023', '2024', '2025']
 # Envanter konusu bu dosyaya benzese de hükmü başka kaynakta olan sorular (dosyanın hükümleri sorulmamış)
 HARIC = {'13-TAŞITLAR.txt': {'2021-32'}, '14-KABOTAJ.txt': {'2021-70'}}
+# Ajanların "ilişkili / çapraz / dolaylı / bu dosyada değil" diye işaretlediği çıkmışlar konu sayımına girmez
+ILGILI = re.compile(r'\[çapraz|\((?:[^)]*, )?ilişkili[;)]|\(dolaylı|bu dosyada değil|kaynak: [^;)]*; bu dosyada karşılığı yok')
 def yillar(x):
     refs = set()
     for r in env_by_file.get(x['kaynak'], []): refs.add(f'{r[0]}-{r[1]}')
     for c in x.get('cikmis', []):
-        if '[çapraz]' in c: continue  # başka konunun sorusu; yalnız ilgili hükme değdiği için listelenir
+        if ILGILI.search(c): continue  # başka konunun/dosyanın sorusu; yalnız ilgili hükme değdiği için listelenir
         m = re.match(r'\s*(20\d\d)\s*[-/]\s*(\d+)', c)
         if m: refs.add(f'{m.group(1)}-{m.group(2)}')
     return sorted(refs - HARIC.get(x['kaynak'], set()))
