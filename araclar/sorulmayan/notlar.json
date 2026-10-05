@@ -1,0 +1,28 @@
+{
+ "yontem": [
+  "2021–2025 GMY sınavlarının 400 gümrük sorusu, depodaki çıkmış soru envanterinde (araclar/gmy-deneme2/cikmis_envanter.tsv) ölçtüğü bilgi noktası ve dayandığı kaynak dosyayla kayıtlıdır; gerekli yerlerde soru metni sınav kitapçığından kontrol edildi.",
+  "Her kaynak mevzuat dosyası baştan sona okunup sınav değeri taşıyan alt konulara (hüküm gruplarına) ayrıldı; her alt konu çıkmış sorularla karşılaştırılarak SORULDU / KISMEN / SORULMADI olarak işaretlendi.",
+  "KISMEN: maddenin bir ayrıntısı sorulmuş, diğer sınav değeri taşıyan ayrıntıları sorulmamış demektir; bu ayrıntılar da soru–cevaba alındı.",
+  "Soru–cevaplar yalnızca sorulmamış hükümlerden ve yalnızca depodaki mevzuat metninden üretildi; her cevabın dayanağı kaynak metinden birebir kesitle otomatik olarak doğrulandı, doğrulanamayan çiftler setten çıkarıldı.",
+  "Şekli maddeler (amaç, yürürlük, yürütme, mülga hükümler) alt konu sayılmadı."
+ ],
+ "yok": [
+  "2021-61 (Dış Ticaret Belgeleri): Anlaşma aşamasında teklif niteliği taşıyan, satıcının alıcıya gönderdiği belge proforma faturadır.",
+  "2021-66 (Gümrük Vergileri): Gümrük vergisi hesabında tarife sınıflandırması, menşe ve gümrük kıymeti birlikte dikkate alınır.",
+  "2021-71 (Beyan): Gönderici-alıcı, kıymet, tarife, menşe, taşıma ve vergi bilgilerini içeren belge gümrük beyannamesidir.",
+  "2022-38 (Gümrük Vergileri): İthalatta EMY, KDV, ÖTV, İGV alınır; ticari ithalatta TRT bandrolü bu vergi ve fonlardan sayılmaz.",
+  "2022-97 (Dahilde İşleme): DİR amacı ihracatı desteklemek, ucuz hammadde, ürün ve pazar çeşitlendirmektir; ithalatçıyı desteklemek değildir.",
+  "2023-49 (Gümrük Vergileri): İthalatta gümrük vergisi, KDV, ÖTV, İGV tahsil edilir; motorlu taşıtlar vergisi gümrükte tahsil edilmez.",
+  "2024-22 (Gümrük Kıymeti): Eski model eşya/taşıtların model yılı fiyatından vergiye esas fiyatı bulmak için yapılan düşüm amortisman indirimidir.",
+  "2024-36 (İlave Gümrük Vergisi): 3351 sayılı Karar: menşein doğru beyanından ithalatçı sorumludur; \"sorumlu değildir\" yanlış.",
+  "2024-41 (Menşe): Genelleştirilmiş Tercihler Sisteminde kullanılan menşe ispat belgesi Form A'dır.",
+  "2024-49 (İhracat): 1040 rejim kodu: muafiyete tabi olmadan serbest dolaşım ile eş zamanlı yurtiçi kullanıma giren eşyanın kesin ihracatı.",
+  "2024-57 (Transit): Transitteki serbest dolaşımdaki eşyada beyana aykırılıkta GK 241 usulsüzlük cezası uygulanır.",
+  "2024-88 (YGM): DR2 tespit raporu, gümrük idaresinin firmaya tebligatından itibaren en geç bir ay içinde sunulur (süre metinde yok).",
+  "2024-98 (Muafiyetler): 2009/15481 Ek-9 kişisel eşya listesinde alkol, parfüm, tütün limitleri; \"100 adet puro\" yanlış (limit 50).",
+  "2025-34 (Gümrük Kıymeti): Bedelsiz ithal edilen kullanılmış otomobilde fatura bedelinden amortisman indirimi uygulanarak gümrük kıymeti hesaplanır.",
+  "2025-42 (Menşe): Menşe ispat belgelerinin basım ve dağıtımı için TOBB ve TİM yetkilendirilmiştir (Seri No 149).",
+  "2025-68 (İhracat): İhraç edildiği şekli ile geri gelmek üzere geçici ihraç edilen eşyanın kesin ihracatı 1023 rejim kodudur."
+ ],
+ "gozlem": []
+}
