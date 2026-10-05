@@ -64,6 +64,7 @@ def yillar(x):
     refs = set()
     for r in env_by_file.get(x['kaynak'], []): refs.add(f'{r[0]}-{r[1]}')
     for c in x.get('cikmis', []):
+        if '[çapraz]' in c: continue  # başka konunun sorusu; yalnız ilgili hükme değdiği için listelenir
         m = re.match(r'\s*(20\d\d)\s*[-/]\s*(\d+)', c)
         if m: refs.add(f'{m.group(1)}-{m.group(2)}')
     return sorted(refs - HARIC.get(x['kaynak'], set()))
