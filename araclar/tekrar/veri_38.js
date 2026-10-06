@@ -3,7 +3,7 @@
 module.exports = {
   no: '38',
   konu: 'Serbest Bölgeler',
-  kaynak: '38-serbest bölge.docx (GK m.152–162; GY m.419–432; 3218 sayılı Serbest Bölgeler Kanunu m.1–12; Serbest Bölgeler Uygulama Yönetmeliği m.4–58)',
+  kaynak: '38-serbest bölge.docx (GK m.152–162; GY m.419–432; 3218 sayılı Serbest Bölgeler Kanunu m.1–12; Serbest Bölgeler Uygulama Yönetmeliği m.6–58)',
   bolumler: [
     { baslik: 'Tanım, Gözetim ve Kontrol (GK m.152–153; GY m.419–423)', sorular: [
       ['GK\'ya göre serbest bölgeler hangi bakımdan Türkiye Gümrük Bölgesi dışında kabul edilir?',
