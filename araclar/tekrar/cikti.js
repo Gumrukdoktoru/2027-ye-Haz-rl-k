@@ -6,7 +6,7 @@ const tablo = (...a) => { const t = table(...a); t.root.filter(r => r instanceof
 const no = process.argv[2];
 const v = require(`./veri_${no}.js`);
 const kok = path.join(__dirname, '..', '..', 'tekrar');
-const slug = v.konu.replace(/[çÇğĞıİöÖşŞüÜ]/g, c => ({ ç: 'c', Ç: 'C', ğ: 'g', Ğ: 'G', ı: 'i', İ: 'I', ö: 'o', Ö: 'O', ş: 's', Ş: 'S', ü: 'u', Ü: 'U' })[c]).replace(/\s+/g, '_');
+const slug = v.konu.replace(/[çÇğĞıİöÖşŞüÜ]/g, c => ({ ç: 'c', Ç: 'C', ğ: 'g', Ğ: 'G', ı: 'i', İ: 'I', ö: 'o', Ö: 'O', ş: 's', Ş: 'S', ü: 'u', Ü: 'U' })[c]).replace(/[^A-Za-z0-9]+/g, '_').replace(/^_|_$/g, '');
 const ad = path.join(kok, `Tekrar_${v.no}_${slug}`);
 const yildiz = k => k ? ` ★ ${k}` : '';
 const toplam = v.bolumler.reduce((a, b) => a + b.sorular.length, 0);
