@@ -57,7 +57,7 @@ module.exports = {
         '**Hayır**; ibraz edilen **uluslararası kabul görmüş belgeler beyanname hükmündedir**. Ticari eşya ise GK **m.58–71** uyarınca beyan edilir.', 'GK m.175', '',
         ['ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmünde olup, ayrıca beyanname aranmaz', '58 ilâ 71 inci madde hükümleri uyarınca gümrük idarelerine beyan edilir']],
     ] },
-    { baslik: 'Posta Kolileri (GY m.455–463)', sorular: [
+    { baslik: 'Posta Kolileri (GY m.455–462)', sorular: [
       ['Posta kolileri gümrüğe nasıl beyan olunur?',
         'Posta idarelerinde **sıra numarası izleyen**, **ek-72**\'deki örneğe uygun **liste** ile.', 'GY m.455/1', '2021',
         'Posta kolileri gümrük işlemlerinin yapılacağı posta idarelerinde gümrüğe sıra numarası izleyen, ek-72\'deki örneğe uygun liste ile beyan olunur.'],
@@ -226,7 +226,7 @@ module.exports = {
       ['Takviye edici gıda ve sporcu gıdalarında rapor/reçetenin geçerlilik süresi nedir?',
         'Eşyanın teslim tarihi itibarıyla **son bir yıl** içinde düzenlenmiş olması yeterli; **her gönderi için yeni** rapor/reçete aranmaz. (Karar m.62 kapsamında ithali **mümkündür**.)', 'Genelge (2022/9) IV/3', '',
         ['son bir yıl içerisinde düzenlenmiş olması yeterli olup, her gönderi için yeni bir rapor ve reçete aranmasına gerek bulunmamaktadır', 'Kararın 62 nci maddesi kapsamında ithali mümkün bulunmaktadır']],
-      ['Kozmetik ürünleri ile alkol, tütün ve elektronik sigara posta/hızlı kargo ile muafen ithal edilebilir mi?',
+      ['Kozmetik ürünleri ile alkol, tütün ve elektronik sigara posta/hızlı kargo ile Karar m.62 kapsamında ithal edilebilir mi?',
         '**Hayır.** Kozmetik Karar **m.62/1**, alkol-tütün-e-sigara (aksam ve solüsyon dahil) Karar **m.62 ve 86** kapsamında ithal edilemez.', 'Genelge (2022/9) IV/4, 11', '',
         ['kozmetik ürünlerinin Kararın 62 nci maddesinin birinci fıkrası kapsamında ithali mümkün bulunmamaktadır', 'Kararın 62 nci ve 86 ncı maddeleri kapsamında posta veya hızlı kargo taşımacılığı yoluyla ithali mümkün bulunmamaktadır']],
       ['Ayakkabı, oyuncak ve saraciye ürünleri 126/1-a-(3) kapsamında beyan edilebilir mi?',
