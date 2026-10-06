@@ -34,7 +34,7 @@ Not: Metin seslendirmede tek parça okunur; zamanlar tahminidir, gerçek zamanla
 **Time:** 35 – 48s
 **Delivery:** "Ama" ile dönüş; "b, c ve ç" harf harf.
 
-    Burada yönetmeliğin yirmi iki ila yirmi dördüncü maddelerindeki genel ve özel koşullar aranmaz; ama bu, basitleştirilmiş usulün diğer haklarını vermez. b, c ve ç'de ise sözleşme örneği ve onaylı çevirisi sunulur.
+    Burada yönetmeliğin yirmi iki ila yirmi dördüncü maddelerindeki genel ve özel koşullar aranmaz; ama bu, basitleştirilmiş usulün diğer haklarını vermez. be, ce ve çe bentlerinde ise sözleşme örneği ve onaylı çevirisi sunulur.
 
 ## Line 5 — Tescil günü (Frame 5)
 

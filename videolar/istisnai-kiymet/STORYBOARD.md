@@ -15,7 +15,7 @@ language: tr
 - voiceover: "Bazı eşyanın kıymeti, beyanname tescil edildiği gün henüz kesinleşmemiştir. Peki bu eşya nasıl beyan edilir?"
 - duration: 7s
 - transition_in: cut
-- status: outline
+- status: built
 - src: compositions/frames/01-kiymet-belli-degil.html
 - type: hook
 - persuasion: Rhetorical question
@@ -31,7 +31,7 @@ keyMessage: Tescil günü kıymeti kesinleşmemiş eşya için özel bir beyan y
 - voiceover: "Cevap: istisnai kıymetle beyan. Satış bedeli yöntemiyle kıymet tespit edilen hallerde, beyan sahibinin talebi üzerine, gümrük idaresi basitleştirilmiş usul uygular."
 - duration: 10s
 - transition_in: blur-crossfade
-- status: outline
+- status: built
 - src: compositions/frames/02-istisnai-kiymet.html
 - type: product_intro
 - persuasion: Concept announcement + Frame-then-fill
@@ -47,7 +47,7 @@ keyMessage: Satış bedeli yönteminde, talep üzerine gümrük idaresi basitle�
 - voiceover: "Beş eşya için: konsinye teslim edilen, çabuk bozulabilir eşya. Kıymet unsurları sonradan belli olacak eşya. Fiyatı sonradan gözden geçirilecek eşya. Boru hattı ya da elektrik teliyle taşınan, sürekli akış halindeki eşya. Ve limanda gaza dönüştürülüp boru hattına verilen sıvılaştırılmış doğal gaz."
 - duration: 19s
 - transition_in: push-slide LEFT
-- status: outline
+- status: built
 - src: compositions/frames/03-bes-esya.html
 - type: feature_showcase
 - persuasion: Numbered enumeration
@@ -61,10 +61,10 @@ keyMessage: İstisnai kıymetle beyan beş eşya içindir: a, b, c, ç, d.
 ## Frame 4 — Koşullar aranmaz, sözleşme sunulur
 
 - scene: Aynı beş kart küçülerek üste dizilir; b, c ve ç kartlarına kırmızı "SÖZLEŞME + ONAYLI ÇEVİRİ" damgası basılır; altta iki satır: "GY 22–24 genel ve özel koşullar → aranmaz" ve "diğer haklar → verilmez"
-- voiceover: "Burada yönetmeliğin yirmi iki ila yirmi dördüncü maddelerindeki genel ve özel koşullar aranmaz; ama bu, basitleştirilmiş usulün diğer haklarını vermez. b, c ve ç'de ise sözleşme örneği ve onaylı çevirisi sunulur."
+- voiceover: "Burada yönetmeliğin yirmi iki ila yirmi dördüncü maddelerindeki genel ve özel koşullar aranmaz; ama bu, basitleştirilmiş usulün diğer haklarını vermez. be, ce ve çe bentlerinde ise sözleşme örneği ve onaylı çevirisi sunulur."
 - duration: 14s
 - transition_in: crossfade
-- status: outline
+- status: built
 - src: compositions/frames/04-kosullar.html
 - type: feature_showcase
 - persuasion: Common-belief vs reality + Progressive disclosure
@@ -80,7 +80,7 @@ keyMessage: 22–24'teki koşullar aranmaz ama diğer haklar doğmaz; b, c, ç'd
 - voiceover: "Şimdi zaman çizgisini açalım. TESCİL günü: vergi, mevcut belgelerdeki kıymet esas alınarak tahakkuk eder."
 - duration: 7s
 - transition_in: push-slide LEFT
-- status: outline
+- status: built
 - src: compositions/frames/05-tescil.html
 - type: feature_showcase
 - persuasion: Frame-then-fill
@@ -96,7 +96,7 @@ keyMessage: Tescilde vergi, mevcut belgelerdeki kıymetle tahakkuk eder.
 - voiceover: "Sonra eksik kıymet unsuru, mahiyet ve tutar olarak tahakkuk eder. Tamamlayıcı beyan, bu ayı takip eden ayın yirmi altıncı günü akşamına kadar verilir; vergiler de aynı sürede ödenir."
 - duration: 13s
 - transition_in: crossfade
-- status: outline
+- status: built
 - src: compositions/frames/06-yirmi-alti.html
 - type: feature_showcase
 - persuasion: Demonstration + Signposting
@@ -112,7 +112,7 @@ keyMessage: Tamamlayıcı beyan, unsurun tahakkuk ettiği ayı takip eden ayın 
 - voiceover: "Tamamlayıcı beyana göre kıymet YÜKSEKSE, ek vergi tahakkuk eder. DÜŞÜKSE: farkın iade alındığı belgelenir, tahlil raporu gibi bir belgenin onaylı örneği sunulur, gümrük inceler; sonra Kanunun iki yüz on birinci maddesine göre işlem yapılır."
 - duration: 16s
 - transition_in: crossfade
-- status: outline
+- status: built
 - src: compositions/frames/07-yuksek-dusuk.html
 - type: feature_showcase
 - persuasion: Comparison of two options
@@ -128,7 +128,7 @@ keyMessage: Yüksekse ek tahakkuk; düşükse belgeler + inceleme → GK md. 211
 - voiceover: "Dikkat: tamamlayıcı beyana isabet eden vergilerde zamanaşımı, tamamlayıcı beyanın VERİLDİĞİ tarihten başlar."
 - duration: 6s
 - transition_in: crossfade
-- status: outline
+- status: built
 - src: compositions/frames/08-zamanasimi.html
 - type: feature_showcase
 - persuasion: Counterexample (tescil değil, beyan)
@@ -144,7 +144,7 @@ keyMessage: Zamanaşımı tamamlayıcı beyanın verildiği tarihten başlar.
 - voiceover: "Yirmi altı kuralı iki yerde daha var: tescil anında varlığı bilinemeyen kıymet ya da katma değer vergisi matrah unsurları; ve tutarı kesinleşmeyen depolama, tahmil tahliye, liman giderleri gibi matrah unsurları. Burada süre, unsurun MUHASEBE kayıtlarına geçtiği ayı takip eden ayın yirmi altısı akşamıdır; vergiler de aynı sürede ödenir."
 - duration: 22s
 - transition_in: crossfade
-- status: outline
+- status: built
 - src: compositions/frames/09-muhasebe-kaydi.html
 - type: feature_showcase
 - persuasion: Comparison of two options (başlangıç ayı: tahakkuk vs muhasebe kaydı)
@@ -160,7 +160,7 @@ keyMessage: (5) ve (6)'da süre, muhasebe kaydına geçtiği ayı takip eden ay�
 - voiceover: "Tamamlayıcı beyan süresinde verilmezse? Zamanında ödenmeyen gümrük vergileri için, beyannamenin TESCİL tarihinden itibaren gecikme zammı oranında gecikme faizi alınır; ve Kanunun iki yüz kırk birinci maddesinin birinci fıkrası uyarınca işlem yapılır."
 - duration: 15s
 - transition_in: crossfade
-- status: outline
+- status: built
 - src: compositions/frames/10-gecikme.html
 - type: feature_showcase
 - persuasion: Causal chain + Demonstration
@@ -176,7 +176,7 @@ keyMessage: Süresinde verilmezse gecikme faizi tescil tarihinden işler; GK md.
 - voiceover: "Kısacası: tescilde belgedeki kıymet, takip eden ayın yirmi altısı akşamı tamamlayıcı beyan. Zamanaşımı beyandan, gecikme faizi tescilden başlar."
 - duration: 9s
 - transition_in: blur-crossfade
-- status: outline
+- status: built
 - src: compositions/frames/11-kisacasi.html
 - type: branding
 - persuasion: Distillation + Callback (iki tarih)
@@ -192,7 +192,7 @@ keyMessage: Tescil ve 26'sı akşamı; zamanaşımı beyandan, gecikme faizi tes
 - voiceover: "Gümrük Koçu… Ufuk Çetintaş."
 - duration: 4s
 - transition_in: blur-crossfade
-- status: outline
+- status: built
 - src: compositions/frames/12-kapanis.html
 - type: cta
 - persuasion: Brand sign-off
