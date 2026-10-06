@@ -110,7 +110,7 @@ module.exports = {
     'Ön başvuru **bölge müdürlüğüne (Ek-1/A)**, başvuru **Genel Müdürlüğe (Ek-1/B)**; (a)–(ğ) incelemesi **Ticaret Uzmanı**, (h) **bölge müdürlüğü**; inceleme gideri **5 gün**e kadar başvuru sahibinden.',
     'Süreler: yenileme **her 3 yılın son ayı**; GM talebinde **30 gün**; askıdan sonra **90 gün** içinde yenilenmezse **iptal**; yeniden başvuru tarihi **1 ay – 3 yıl** arası; muayene **azami 3 saat**.',
     '**Tesis** askısı/iptali ile **yetki** askısı/iptali ayrı maddelerdir (m.6–7 ↔ m.8–9); hepsini **Genel Müdürlük** gerekçeli bildirir.',
-    'Mühür: **özel tipte**, gümrükten **ücretli**, Sözleşme **m.82**; tesis dışına çıkarılamaz. Kırmızı hatta mührü **muayene memuru** söker, yenisini **izinli gönderici** takar; antrepoda **yetkilendirilmiş gümrük müşaviri veya antrepo memuru**, gümrük idaresinde **gümrük idaresi**.',
+    'Mühür: **özel tipte**, gümrükten **ücretli**, Sözleşme **m.82**; tesis dışına çıkarılamaz. Kırmızı hatta mührü **muayene memuru** söker, yenisini **izinli gönderici** takar; antrepoda **yetkilendirilmiş gümrük müşaviri veya antrepoda görevli gümrük memuru**, gümrük idaresinde **gümrük idaresi**.',
     'Teminat: transit beyannamesinde yalnız **kendi kapsamlı teminatı**; koşul olarak teminat mektubu **Türkiye\'de yerleşik kefil** kuruluştan.',
   ],
 };

@@ -26,7 +26,7 @@ module.exports = {
       ['GY m.235 koşullarına ilave olarak hangi özel koşul aranır?',
         '**CIM Taşıma Belgesi, sevkiyat ve muhasebe kayıtlarını** elektronik ortamda tutmak ve **hareket, varış ve sınır** idarelerinin anlık erişimi için altyapıya sahip olmak.', 'Transit Tebliği (Seri No: 6) m.4/1', '',
         'demiryolu tren işletmecisinin CIM Taşıma Belgesi, sevkiyat kayıtları ve muhasebe kayıtlarını elektronik ortamda tutması ve bu bilgilere hareket, varış ve sınır gümrük idarelerinin anlık erişimi için gerekli elektronik altyapıya sahip olması gerekir'],
-      ['Başvuruda sunulan belgelerden demiryolu basitleştirmesine özgü olanlar nelerdir?',
+      ['GY m.235 belgelerine ek olarak sunulan belgelerden beyan, faaliyet ve istasyonlara ilişkin olanlar nelerdir?',
         'Ek-2 **beyan ve taahhüt metni**, Bakanlıktan **aktif yük taşımacılığı** yapıldığını kanıtlayan yazı ve taşıma yapılacak **istasyonların listesi**.', 'Transit Tebliği (Seri No: 6) m.4/2-d, e, f', '',
         ['Şirketi temsile yetkili kişilerce imzalanmış Ek-2\'de yer alan beyan ve taahhüt metnini', 'aktif olarak yük taşımacılığı yaptığını kanıtlayan, Ulaştırma, Denizcilik ve Haberleşme Bakanlığından alınmış yazıyı', 'Basitleştirme izni kapsamında taşıma yapılacak istasyonların listesini']],
       ['Demiryolu basitleştirme izni için başvuru yeri ve izin makamı neresidir?',

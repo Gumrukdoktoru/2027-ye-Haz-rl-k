@@ -128,7 +128,7 @@ module.exports = {
         'İşlem görmüş ürünlerin serbest dolaşıma giriş rejimine tabi tutulmasına ilişkin beyanname, izni veren gümrük idaresinden başka bir gümrük müdürlüğüne de verilebilir.'],
       ['Ekonomik değeri haiz ikincil işlem görmüş ürünler talep halinde hangi işlemlere tabi tutulabilir?',
         '**Tasfiye**, **yeniden ihraç**, **serbest dolaşıma giriş**, **mahrece iade**, **imha**.', 'Tebliğ (Seri No: 3) m.6', '',
-        ['ekonomik değeri haiz ikincil işlem görmüş ürünler talep halinde', 'Tasfiyeye tabi tutulabilir.', 'Yeniden ihraç edilebilir.', 'Serbest dolaşıma giriş rejimine tabi tutulabilir.', 'Mahrece iade edilebilir.']],
+        ['ekonomik değeri haiz ikincil işlem görmüş ürünler talep halinde', 'Tasfiyeye tabi tutulabilir.', 'Yeniden ihraç edilebilir.', 'Serbest dolaşıma giriş rejimine tabi tutulabilir.', 'Mahrece iade edilebilir. e) İmha edilebilir.']],
       ['Teminat hangi hallerde iade edilir?',
         'İzni veren gümrük müdürlüğünce; eşyanın **işlem görmüş ürün şeklinde serbest dolaşıma girdiğinin**, ikincil ürünler için **m.6\'daki işlemin yapıldığının** veya m.3/6 uyarınca **telef/kaybın** tespiti halinde.', 'Tebliğ (Seri No: 3) m.7', '',
         ['Rejim kapsamındaki eşyanın işlem görmüş ürünler şeklinde serbest dolaşıma girdiğinin', 'İkincil işlem görmüş ürünler için bu Tebliğin 6 ncı maddesinde belirtilen işlemin yapıldığının', 'izin verilen eşyanın telef veya kaybının, tespiti halinde teminat iade edilir']],
