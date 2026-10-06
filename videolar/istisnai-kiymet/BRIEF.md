@@ -36,4 +36,5 @@ sonuçları, zamanaşımı beyandan, gecikme faizi oku geriye tescile. Karar vid
 
 - Tek bilgi kaynağı depodaki mevzuat (12-KIYMET VE KAPLAR.docx, 17-BEYAN.docx); kaynak dışı bilgi yok.
 - Kullanıcı metnindeki başka kuruma ait sayfa notu kullanılmaz; marka yalnızca "Gümrük Koçu - Ufuk Çetintaş".
+- Logo filigranı: ortada, %10 opaklık, video boyunca (tools/watermark.py; kapanış logosunda söner).
 - →, ≠, ⇄ gibi işaretler yazı tiplerinde yok; SVG çizilir. İçerik y ≤ 900 px.

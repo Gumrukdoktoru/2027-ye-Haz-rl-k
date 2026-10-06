@@ -30,6 +30,9 @@
         width: 100%;
         height: 100%;
       }
+      /* filigran:start */
+      #el-filigran { z-index: 100; pointer-events: none; }
+      /* filigran:end */
     </style>
   </head>
   <body>
@@ -257,6 +260,10 @@
         data-volume="1"
       ></audio>
 
+      <!-- filigran:start -->
+      <div id="el-filigran" class="scene" data-composition-id="filigran" data-composition-src="compositions/filigran.html"
+        data-start="0" data-duration="140.24" data-track-index="20"></div>
+      <!-- filigran:end -->
     </div>
 
     <script>
@@ -297,6 +304,9 @@
         tl.to("#el-11-kisacasi", { filter: "blur(10px)", scale: 1.03, opacity: 0, duration: 0.6, ease: "power2.inOut" }, 135.64);
         tl.fromTo("#el-12-kapanis", { filter: "blur(10px)", scale: 0.97, opacity: 0 }, { filter: "blur(0px)", scale: 1, opacity: 1, duration: 0.6, ease: "power2.inOut" }, 135.64);
         tl.addLabel("hf:transition:11-kisacasi:12-kapanis:blur-crossfade", 135.64);
+        // filigran:start
+        tl.to("#el-filigran", { opacity: 0, duration: 0.6, ease: "power2.inOut" }, 135.64);
+        // filigran:end
         tl.to({}, { duration: 140.24 }, 0); // full-span anchor — main.duration() == composition total (Studio master duration)
       })();
     </script>
