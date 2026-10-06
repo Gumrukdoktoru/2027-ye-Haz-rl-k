@@ -6,7 +6,7 @@ module.exports = {
   kaynak: '43-tasfiye.docx (GK m.177–180; Tasfiye Yönetmeliği m.1–69/A)',
   bolumler: [
     { baslik: 'Tasfiyelik Hale Gelen Eşya (GK m.177; Tasfiye Yönetmeliği m.14, 66)', sorular: [
-      ['Geçici depolamada GK m.50\'ye göre verilen süre içinde onaylanmış işlem veya kullanım için işlemlerine başlanmamış eşya ne olur?',
+      ['GK m.50\'ye göre verilen süre içinde onaylanmış işlem veya kullanım tayini için işlemlerine başlanmamış eşya ne olur?',
         'Tasfiyelik olur ve **GK m.178** hükümlerine göre **tasfiye edilir**.', 'GK m.177/1-b', '',
         ['50 nci maddesine göre verilen süre içinde kendilerine gümrükçe onaylanmış bir işlem veya kullanım tayini için gerekli işlemlere başlanmamış eşya', '178 inci madde hükümlerine göre tasfiye edilir.']],
       ['Tahlilden arta kalan numunelik eşya ne zaman tasfiyelik olur?',
@@ -205,8 +205,8 @@ module.exports = {
         'Bir ihalede daha işlemişse **altı ay**; iki veya daha fazla ihalede işlemişse **bir yıl**.', 'Tasfiye Yönetmeliği m.42/3', '',
         ['teminatı yeterli olmadığı halde pey sürdüğü veya ihale bedelini ödemediği tarihten itibaren geriye doğru bir yıl içinde', 'Bir ihalede daha işlemiş ise altı ay,', 'İki veya daha fazla ihalede işlemiş ise bir yıl,']],
       ['İşletme müdürlüklerinin ihalelerine kimler katılamaz?',
-        'Yasaklılar; **Genel Müdürlük personeli**, işletme müdürlüklerinde görevliler, elektronik satış sistemine erişim yetkisi olanlar, bölge müdürlüklerinde tasfiyeyle görevliler ile **eşleri ve birinci dereceye kadar kan ve sıhri hısımları** ve bunların hakim olduğu tüzel kişiler. İşletme müdürlüğünden ayrılanlar **bir yıl** süreyle giremez.', 'Tasfiye Yönetmeliği m.43', '',
-        ['Genel Müdürlük personeli, işletme müdürlüklerinde görevli olanlar, elektronik satışlara ilişkin sisteme erişim yetkisi olanlar', 'bunların eşleri ve birinci dereceye kadar (birinci derece dahil) kan ve sıhri hısımları', 'yapılacak ihalelere bir yıl süreyle giremezler']],
+        'Yasaklılar; **Genel Müdürlük personeli**, işletme müdürlüklerinde görevliler, elektronik satış sistemine erişim yetkisi olanlar, bölge müdürlüklerinde tasfiyeyle görevliler ile **eşleri ve birinci dereceye kadar kan ve sıhri hısımları**; bunların sermaye çoğunluğuna sahip olduğu veya yönetim kurulunda görev aldığı tüzel kişiler. İşletme müdürlüğünden ayrılanlar **bir yıl** süreyle giremez.', 'Tasfiye Yönetmeliği m.43', '',
+        ['Genel Müdürlük personeli, işletme müdürlüklerinde görevli olanlar, elektronik satışlara ilişkin sisteme erişim yetkisi olanlar', 'bunların eşleri ve birinci dereceye kadar (birinci derece dahil) kan ve sıhri hısımları', 'şahısların sermayesinin çoğunluğuna sahip bulunduğu tüzel kişiler veya yönetim kurulunda görev aldığı tüzel kişiler', 'yapılacak ihalelere bir yıl süreyle giremezler']],
       ['Satış bedeli hangi şartlarla taksitlendirilebilir?',
         'Satış bedeli **10.000 TL\'den az olmamak** şartıyla, **yazılı talep ve teminatla**, **on iki ayı geçmemek** üzere; **6183** sayılı Kanuna göre **tecil faizi** alınır. Vergi, resim, harç ve giderlerde ve **5607** kapsamındaki satışlarda taksit **yapılmaz**.', 'Tasfiye Yönetmeliği m.44', '',
         ['Eşya satış bedelinin 10.000 TL\'den az olmaması şartıyla alıcının talebine göre on iki ayı geçmemek üzere işletme müdürlüğünce taksitlendirme yapılabilir.', 'Taksitlendirmenin yapılmasında, talebin yazılı olması ve teminat verilmesi gerekir.', '6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre tecil faizi alınır', 'Vergi, resim, harç ve diğer giderlerde taksitlendirme yapılmaz.', '5607 sayılı Kanun kapsamında tasfiyelik hale gelen eşyanın tasfiyesi amacıyla yapılan satışlarda taksitlendirme yapılmaz.']],
