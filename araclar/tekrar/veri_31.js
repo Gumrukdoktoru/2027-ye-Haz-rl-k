@@ -90,7 +90,7 @@ module.exports = {
         'AN1 antrepo **açılışı**, AN2 **genişletme-daraltma**, AN3 **tadilat**, AN4 **adres değişikliği** başvuru dosyalarının **ön incelemesi**; AN5 antreponun **devir** işlemlerinin (GY m.523) mevzuata uygunluğunun incelenmesi.', 'YGM Tebliği m.11/1-a', '',
         ['AN1, antreponun açılmasına ilişkin başvuru dosyalarının ön incelemesini', 'AN2, antrepoda genişletme, daraltma işlemlerine ilişkin başvuru dosyalarının ön incelemesini', 'AN3, antrepodaki tadilatlara ilişkin', 'AN4, antrepodaki adres değişikliğine ilişkin', 'AN5, Gümrük Yönetmeliğinin 523 üncü maddesi çerçevesinde antreponun devir işlemlerinin']],
       ['AN6 kodlu tespit işlemi nedir?',
-        '**Özel antrepoya** eşya giriş-çıkış işlemlerinin tespiti ve gerekirse gümrük gözetiminin sonlandırılmasının tespiti.', 'YGM Tebliği m.11/1-a-6', '',
+        '**Özel antrepoya** eşya giriş-çıkış işlemlerinin tespiti ile gümrük yükümlülüğü sona erdikten sonra varsa ilgili kurum kontrol sonuçlarına göre **gümrük gözetiminin sonlandırılmasının** tespiti.', 'YGM Tebliği m.11/1-a-6', '',
         'AN6, özel antrepoya eşya giriş çıkış işlemlerinin tespiti'],
       ['AN7 kodlu tespit işlemi nedir?',
         'Antrepoda **stok kayıtlarının altışar aylık** dönemler itibarıyla tespiti.', 'YGM Tebliği m.11/1-a-7', '',
@@ -138,7 +138,7 @@ module.exports = {
         'Diğer kurumlarca yapılacak kontroller kapsamında **kullanım amacına göre bilgi/belgeye tabi** eşyanın kullanım amacına uygun olup olmadığının tespiti.', 'YGM Tebliği m.11/1-j', '',
         'DK1, diğer kurumlarca yapılacak kontroller kapsamında kullanım amacına göre bilgi/belgeye tabi eşyanın kullanım amacına uygun olup olmadığının tespitini kapsar'],
     ] },
-    { baslik: 'Tespit Ücreti ve Genel Hükümler (YGM Tebliği m.12–13)', sorular: [
+    { baslik: 'Genel Hükümler (YGM Tebliği m.13)', sorular: [
       ['AN6, AN7 ve AN8 tespit sözleşmeleri ne süreli yapılır; AN6 ve AN8 için hangi rapor düzenlenir?',
         '**Bir yıl** süreli; AN6 ve AN8 için **günlük rapor** (Ek-6) düzenlenir.', 'YGM Tebliği m.13/1-b, c', '',
         ['AN6 ve AN8 tespit işlemlerine ilişkin olarak Ek-6\'da yer alan günlük rapor düzenlenir.', 'sözleşmenin bir yıl süreli olarak yapılması gerekir']],
