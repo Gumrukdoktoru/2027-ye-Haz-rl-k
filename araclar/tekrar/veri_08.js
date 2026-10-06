@@ -117,7 +117,7 @@ module.exports = {
         'özet beyan kapsamı eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasından önce verilebileceği gibi gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasını müteakip beyanname tescilinden sonra da verilebilecektir'],
       ['Verilen süre uzatımından sonra tekrar süre uzatımı talep edilebilir mi?',
         'Evet; (1/b) hükümleri doğrultusunda, **bir önceki sürenin bitiminden önce** olmak şartıyla.', 'Tebliğ (Süre Değişimi Seri No: 2) m.2/5', '',
-        'bir önceki sürenin bitiminden önce olmak şartıyla bu yöndeki talep de değerlendirilecektir'],
+        ['1 inci fıkranın (b) bendinde belirtilen hükümler doğrultusunda tekrar süre uzatımı talebinde bulunulması halinde', 'bir önceki sürenin bitiminden önce olmak şartıyla bu yöndeki talep de değerlendirilecektir']],
       ['Verilen süre uzatımları hangi tarihten itibaren başlatılır?',
         '**Yasal sürenin bitiminden sonraki gün** itibariyle.', 'Tebliğ (Süre Değişimi Seri No: 2) m.2/6', '',
         'Verilen süre uzatımları yasal sürenin bitiminden sonraki gün itibariyle başlatılır.'],
