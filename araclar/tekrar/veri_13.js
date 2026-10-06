@@ -62,7 +62,7 @@ module.exports = {
         '**Sayılmaz** (sahip ve acentelerce gümrük idaresine **önceden bildirim** yapılmış olması şartıyla).', 'GY m.72/6', '',
         ['Sahip ve acentelerince gümrük idaresine önceden bildirim yapmak suretiyle', 'geriye dönüş yapmayan gemilerin bu durumları rota değişikliği sayılmaz']],
       ['Taşıt kontrolü hangi işlemleri kapsar?',
-        'Duruma göre işlemlerin **bir kısmı veya tamamı**: belge/defter/kayıt kontrolü, ilave bilgi, üst araması, **tarama sistemleri**, **dedektör köpek** ve teknik cihazlar, fiziki tam/kısmi kontrol, **numune** alınması, ambarların **mühür altına** alınması vb. (GY m.182 saklı).', 'GY m.72/A', '',
+        'Duruma göre işlemlerin **bir kısmı veya tamamı**: belge/defter/kayıt kontrolü, ilave bilgi, üst araması, **tarama sistemleri**, **dedektör köpek** ve teknik cihazlar, fiziki tam/kısmi kontrol, **numune** alınması, ambarların **mühür altına** alınması vb. (182 nci madde hükümleri saklı).', 'GY m.72/A', '',
         ['taşıtların kontrolü duruma göre aşağıda yer alan işlemlerin bir kısmı veya tamamını kapsar', 'Taşıtın dedektör köpek ve teknik cihazlar vasıtasıyla kontrol edilmesi', 'Eşyadan numune alınması ve incelenmesi']],
       ['TGB\'ye gelen ve giden karayolu taşıtlarının kontrolü esas olarak nerede yapılır?',
         '**Giriş ve çıkış gümrük idaresinde** (mobil ekip kontrolleri saklı); kara taşıtı, sistemde işlemlerin tamamlandığı görüldükten sonra gümrüklü sahadan çıkabilir.', 'GY m.72/B', '',
