@@ -9,7 +9,7 @@ GM / GMY sınavlarına hazırlık için Word kaynaklarından **ders notu** ve **
 - `promptlar/prompt-3-nihai-soru-hazirlama-kurallari.md` — kullanıcının nihai soru hazırlama kuralları (Prompt 3). Soru üretiminde Prompt 1 ile çelişirse **Prompt 3 geçerlidir** (çıkmış soruların bilgi alanları atlanmaz, kök = mevzuat adı + hükmün konusu + kurum kalıbı, önermeli en az 3 önerme, gerekçe sonunda (MD …), art arda aynı cevap harfi yok).
 - `sorular/` — üretilen soru setleri; `sorular/hafiza/URETIM-HAFIZASI.md` üretim hafızası.
 - `notlar/` — üretilen ders notları (Ders_Notu_{KONU}.docx).
-- `tekrar/` — hızlı tekrar kısa soru-cevap setleri (Tekrar_{NO}_{KONU}.md/.docx); konu sırası kökteki numaralı Word dosyalarıdır. Veri `araclar/tekrar/veri_{NO}.js`, çıktı `node araclar/tekrar/cikti.js {NO}`.
+- `tekrar/` — hızlı tekrar kısa soru-cevap setleri (Tekrar_{NO}_{KONU}.md/.pdf, kullanıcı PDF istiyor); konu sırası kökteki numaralı Word dosyalarıdır, sırayla ilerlenir. Veri `araclar/tekrar/veri_{NO}.js` (5. alan kaynaktan birebir kanıt), denetim `python3 -I araclar/tekrar/kontrol.py {NO}`, çıktı `node araclar/tekrar/cikti.js {NO}`.
 
 ## Çalışma kuralları
 - Soru isteğinde Prompt 1'i, ders notu isteğinde Prompt 2'yi eksiksiz uygula.

@@ -1,5 +1,5 @@
-// Kullanım: node araclar/tekrar/cikti.js 01  → tekrar/Tekrar_01_<Konu>.md ve .docx
-const fs = require('fs'), path = require('path');
+// Kullanım: node araclar/tekrar/cikti.js 01  → tekrar/Tekrar_01_<Konu>.md ve .pdf (Word ara çıktısı LibreOffice ile PDF'e çevrilir)
+const fs = require('fs'), path = require('path'), os = require('os'), { execFileSync } = require('child_process');
 const { d, p, h1, h2, table, box, doc, coverPage } = require('../karar/gk.js');
 const no = process.argv[2];
 const v = require(`./veri_${no}.js`);
@@ -31,4 +31,10 @@ for (const b of v.bolumler) {
 body.push(h2('Sık Karıştırılanlar'), ...box(v.tuzaklar, 'star'));
 const D = doc({ header: `Gümrük Koçu | Hızlı Tekrar ${v.no} — ${v.konu}`, footer: 'Gümrük Koçu - Ufuk Çetintaş',
   cover: coverPage('HIZLI TEKRAR', `${v.no}. Konu — ${v.konu}`, `Kısa Soru-Cevap · ${toplam} soru`), body });
-d.Packer.toBuffer(D).then(buf => { fs.writeFileSync(ad + '.docx', buf); console.log(ad, toplam, 'soru'); });
+d.Packer.toBuffer(D).then(buf => {
+  const gecici = fs.mkdtempSync(path.join(os.tmpdir(), 'tekrar-')), docx = path.join(gecici, path.basename(ad) + '.docx');
+  fs.writeFileSync(docx, buf);
+  execFileSync('soffice', [`-env:UserInstallation=file://${gecici}/lo`, '--headless', '--convert-to', 'pdf', '--outdir', kok, docx], { stdio: 'ignore' });
+  fs.rmSync(gecici, { recursive: true, force: true });
+  console.log(ad + '.pdf', toplam, 'soru');
+});
