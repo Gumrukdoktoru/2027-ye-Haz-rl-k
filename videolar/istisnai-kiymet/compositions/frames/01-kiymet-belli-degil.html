@@ -1,0 +1,95 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f01-bg { position:absolute; inset:0; background:#FFFFFF; }
+#root .f01-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f01-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#D8000F; white-space:nowrap; }
+.f01-dark { color:#1C1410; }
+.f01-white { color:#fff; }
+.f01-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f01-red { color:#D8000F; }
+.f01-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f01-body { position:absolute; font-size:30px; line-height:1.5; }
+.f01-w { display:inline-block; }
+.f01-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; white-space:nowrap; }
+.f01-chip.f01-redb { border-color:#D8000F; color:#D8000F; }
+.f01-chip b { color:#D8000F; font-weight:600; }
+.f01-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:17px; letter-spacing:2px;
+  text-transform:uppercase; background:#1C1410; color:#fff; padding:6px 11px; white-space:nowrap; }
+.f01-tag.f01-redbg { background:#D8000F; }
+.f01-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  color:#D8000F; border:5px solid #D8000F; padding:8px 14px; white-space:nowrap; background:rgba(255,255,255,.92); }
+.f01-cite { position:absolute; left:69px; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; background:#FFFFFF; white-space:nowrap; }
+.f01-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f01-card { position:absolute; border:3px solid #1C1410; background:#FFFFFF; }
+.f01-cl { position:absolute; left:22px; top:14px; font-family:'Shrikhand'; font-size:72px; line-height:1; color:#D8000F; }
+.f01-ci { position:absolute; left:0; right:0; top:120px; height:150px; display:flex; justify-content:center; }
+.f01-ct { position:absolute; left:22px; right:18px; top:286px; font-size:27px; line-height:1.42; }
+.f01-cn { position:absolute; left:22px; bottom:16px; font-family:'Space Grotesk'; font-weight:600; font-size:15px;
+  letter-spacing:2px; text-transform:uppercase; color:#D8000F; }
+
+.f01-prog { background:#D8000F; }
+
+#f01-paper { position:absolute; left:980px; top:140px; width:780px; height:640px; border:3px solid #1C1410; background:#FFFFFF; }
+.f01-row { position:absolute; left:0; right:0; border-top:1.5px solid #1C1410; }
+.f01-rk { position:absolute; left:24px; top:22px; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px; }
+.f01-rv { position:absolute; left:260px; top:30px; height:14px; background:#F5F2EF; }
+#f01-qcell { position:absolute; left:236px; top:438px; width:516px; height:176px; border:6px solid #D8000F; }
+#f01-q { position:absolute; left:1408px; top:572px; font-family:'Shrikhand'; font-size:240px; line-height:.7; color:#D8000F;
+  transform-origin:center center; }
+
+</style>
+<div id="root" data-composition-id="01-kiymet-belli-degil" data-start="0" data-duration="7.78" data-width="1920" data-height="1080">
+<div id="f01-bg" class="clip" data-start="0" data-duration="7.78" data-track-index="0"></div>
+<div id="f01-eyebrow" class="f01-eyebrow" style="left:69px;top:86px">GÜMRÜK KOÇU · İSTİSNAİ KIYMET</div>
+<div id="f01-h1" class="f01-hero" style="left:69px;top:190px" data-layout-allow-overlap>Kıymet</div>
+<div id="f01-h2" class="f01-hero f01-red" style="left:69px;top:362px;" data-layout-allow-overlap>belli değil.</div>
+<div id="f01-body" class="f01-body" style="left:69px;top:640px;width:800px">Tescil günü: <b>kıymet alanı boş.</b></div>
+<div id="f01-paper"><div class="f01-rk" style="top:24px;letter-spacing:4px">BEYANNAME</div>
+<div class="f01-row" style="top:90px;height:136px"><div class="f01-rk">EŞYA</div><div class="f01-rv" style="width:380px"></div></div>
+<div class="f01-row" style="top:226px;height:136px"><div class="f01-rk">MİKTAR</div><div class="f01-rv" style="width:220px"></div></div>
+<div class="f01-row" style="top:362px;height:136px"><div class="f01-rk">TESCİL</div><div class="f01-rv" style="width:300px"></div></div>
+<div class="f01-row" style="top:498px;height:136px"><div class="f01-rk">KIYMET</div></div>
+<div id="f01-qcell"></div></div>
+<div id="f01-q">?</div>
+<div id="f01-cite" class="f01-cite">GY md. 53</div>
+<div id="f01-prog" class="f01-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f01-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.0000 }, { scaleX: 0.0833, duration: 7.18, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.0);
+  tl.fromTo(q("paper"), { opacity: 0, y: 30, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.7, ease: E }, 0.15);
+  tl.fromTo(q("h1"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 0.92);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.92);
+  tl.fromTo(q("body"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 2.24);
+  tl.fromTo(q("h2"), { opacity: 0, scale: 1.25, rotation: -12 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.5, ease: E }, 3.6);
+  tl.fromTo(q("qcell"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 3.9);
+  tl.fromTo(q("q"), { opacity: 0, scale: 1.6, rotation: -18 }, { opacity: 1, scale: 1, rotation: -6, duration: 0.55, ease: E }, 4.987);
+  window.__timelines["01-kiymet-belli-degil"] = tl;
+})();
+</script>
+</template>

@@ -177,7 +177,8 @@ def timeline_html(p, tescil_on=True, ay1=True, strip=True, ring=True, flag=True,
                    f'<div id="{p}-ay1-l" class="{p}-mks" style="left:{AY1_X - 22}px;top:{LINE_Y + 46}px">unsur <b>tahakkuk</b> eder</div>')
     ring_html, circ = ("", 0)
     if strip:
-        cells = "".join(f'<div class="{p}-sd"><span>{d}</span></div>' for d in range(STRIP_D0, STRIP_D0 + STRIP_N))
+        cells = "".join(f'<div class="{p}-sd"><span id="{p}-sd-{d}" style="opacity:{0 if (ring and d == 26) else 1}">{d}</span></div>'
+                        for d in range(STRIP_D0, STRIP_D0 + STRIP_N))
         out.append(f'<div id="{p}-ay2-top" class="{p}-tag" style="left:{STRIP_X0}px;top:{STRIP_TOP - 44}px">2. AY</div>')
         out.append(f'<div id="{p}-strip" class="{p}-strip">{cells}</div>')
         if ring:
@@ -215,8 +216,8 @@ def frame_specs():
     paper.append(f'<div id="{p}-qcell"></div></div>')
     F[1] = dict(slug="kiymet-belli-degil", css=paper_css, html="\n".join([
         eyebrow(p, "GÜMRÜK KOÇU · İSTİSNAİ KIYMET"),
-        f'<div id="{p}-h1" class="{p}-hero" style="left:69px;top:200px">Kıymet</div>',
-        f'<div id="{p}-h2" class="{p}-hero {p}-red" style="left:69px;top:350px;transform:rotate(-4deg)">belli değil.</div>',
+        f'<div id="{p}-h1" class="{p}-hero" style="left:69px;top:190px" data-layout-allow-overlap>Kıymet</div>',
+        f'<div id="{p}-h2" class="{p}-hero {p}-red" style="left:69px;top:362px;transform:rotate(-4deg)" data-layout-allow-overlap>belli değil.</div>',
         f'<div id="{p}-body" class="{p}-body" style="left:69px;top:640px;width:800px">Tescil günü: <b>kıymet alanı boş.</b></div>',
         "\n".join(paper),
         f'<div id="{p}-q">?</div>',
@@ -227,8 +228,8 @@ def frame_specs():
     p = "f02"
     F[2] = dict(slug="istisnai-kiymet", css="", html="\n".join([
         eyebrow(p, "CEVAP"),
-        f'<div id="{p}-h1" class="{p}-hero" style="left:69px;top:170px">İstisnai</div>',
-        f'<div id="{p}-h2" class="{p}-hero {p}-red" style="left:69px;top:330px;font-size:132px;transform:rotate(-4deg)">kıymetle beyan</div>',
+        f'<div id="{p}-h1" class="{p}-hero" style="left:69px;top:160px" data-layout-allow-overlap>İstisnai</div>',
+        f'<div id="{p}-h2" class="{p}-hero {p}-red" style="left:69px;top:342px;font-size:132px;transform:rotate(-4deg)" data-layout-allow-overlap>kıymetle beyan</div>',
         f'<div id="{p}-c1" class="{p}-chip" style="left:69px;top:620px">BEYAN SAHİBİNİN <b>TALEBİ</b></div>',
         f'<div id="{p}-ar" class="{p}-abs" style="left:520px;top:632px">{svg_arrow(90, 40, 7, DARK)}</div>',
         f'<div id="{p}-c2" class="{p}-chip {p}-redb" style="left:640px;top:620px">GÜMRÜK İDARESİ · BASİTLEŞTİRİLMİŞ USUL</div>',
@@ -366,10 +367,10 @@ def frame_specs():
         f'<div id="{p}-dot2" class="{p}-dot" style="left:1670px;top:303px"></div>',
         f'<div id="{p}-b1" class="{p}-big" style="left:120px;top:380px;transform:rotate(-4deg)">Tescil</div>',
         f'<div id="{p}-s1" class="{p}-sub" style="left:130px;top:540px">belgedeki kıymet</div>',
-        f'<div id="{p}-b2" class="{p}-big" style="left:1060px;top:380px;transform:rotate(-4deg)">26\'sı akşamı</div>',
-        f'<div id="{p}-s2" class="{p}-sub" style="left:1070px;top:540px">tamamlayıcı beyan</div>',
+        f'<div id="{p}-b2" class="{p}-big" style="left:980px;top:380px;transform:rotate(-4deg)">26\'sı akşamı</div>',
+        f'<div id="{p}-s2" class="{p}-sub" style="left:990px;top:540px">tamamlayıcı beyan</div>',
         f'<div id="{p}-r1" class="{p}-rule" style="left:130px;top:720px">ZAMANAŞIMI {svg_arrow(50, 26, 5, "#fff")} BEYANDAN</div>',
-        f'<div id="{p}-r2" class="{p}-rule" style="left:1070px;top:720px">GECİKME FAİZİ {svg_arrow(50, 26, 5, "#fff")} TESCİLDEN</div>',
+        f'<div id="{p}-r2" class="{p}-rule" style="left:990px;top:720px">GECİKME FAİZİ {svg_arrow(50, 26, 5, "#fff")} TESCİLDEN</div>',
     ]))
 
     # 12 — logo

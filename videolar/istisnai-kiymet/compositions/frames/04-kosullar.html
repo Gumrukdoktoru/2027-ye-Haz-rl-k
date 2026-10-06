@@ -1,0 +1,88 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f04-bg { position:absolute; inset:0; background:#FFFFFF; }
+#root .f04-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f04-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#D8000F; white-space:nowrap; }
+.f04-dark { color:#1C1410; }
+.f04-white { color:#fff; }
+.f04-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f04-red { color:#D8000F; }
+.f04-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f04-body { position:absolute; font-size:30px; line-height:1.5; }
+.f04-w { display:inline-block; }
+.f04-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; white-space:nowrap; }
+.f04-chip.f04-redb { border-color:#D8000F; color:#D8000F; }
+.f04-chip b { color:#D8000F; font-weight:600; }
+.f04-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:17px; letter-spacing:2px;
+  text-transform:uppercase; background:#1C1410; color:#fff; padding:6px 11px; white-space:nowrap; }
+.f04-tag.f04-redbg { background:#D8000F; }
+.f04-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  color:#D8000F; border:5px solid #D8000F; padding:8px 14px; white-space:nowrap; background:rgba(255,255,255,.92); }
+.f04-cite { position:absolute; left:69px; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; background:#FFFFFF; white-space:nowrap; }
+.f04-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f04-card { position:absolute; border:3px solid #1C1410; background:#FFFFFF; }
+.f04-cl { position:absolute; left:22px; top:14px; font-family:'Shrikhand'; font-size:72px; line-height:1; color:#D8000F; }
+.f04-ci { position:absolute; left:0; right:0; top:120px; height:150px; display:flex; justify-content:center; }
+.f04-ct { position:absolute; left:22px; right:18px; top:286px; font-size:27px; line-height:1.42; }
+.f04-cn { position:absolute; left:22px; bottom:16px; font-family:'Space Grotesk'; font-weight:600; font-size:15px;
+  letter-spacing:2px; text-transform:uppercase; color:#D8000F; }
+
+.f04-prog { background:#D8000F; }
+
+</style>
+<div id="root" data-composition-id="04-kosullar" data-start="0" data-duration="15.08" data-width="1920" data-height="1080">
+<div id="f04-bg" class="clip" data-start="0" data-duration="15.08" data-track-index="0"></div>
+<div id="f04-eyebrow" class="f04-eyebrow" style="left:69px;top:86px">GY MD. 53/2</div>
+<div id="f04-k1" class="f04-chip" style="left:69px;top:150px">GY 22–24 GENEL VE ÖZEL KOŞULLAR <b>ARANMAZ</b></div>
+<div id="f04-k2" class="f04-chip" style="left:69px;top:222px">BASİTLEŞTİRİLMİŞ USULÜN DİĞER HAKLARI <b>VERİLMEZ</b></div>
+<div id="f04-card-a" class="f04-card" style="left:69px;top:300px;width:330px;height:500px;opacity:0.32"><div class="f04-cl">a)</div><div class="f04-ci"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><rect x="20" y="58" width="130" height="78" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 84 H150 M20 110 H150" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="168" cy="44" r="30" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M168 28 V44 L180 52" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f04-ct">Konsinye teslim edilen, <b>çabuk bozulabilir</b> eşya</div><div class="f04-cn">GK md. 31/2</div></div>
+<div id="f04-card-b" class="f04-card" style="left:423px;top:300px;width:330px;height:500px;opacity:1"><div class="f04-cl">b)</div><div class="f04-ci"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><path d="M40 14 H120 L150 44 V140 H40 Z" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M120 14 V44 H150" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M60 72 H128 M60 96 H128" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="178" cy="112" r="28" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M178 98 V112 L189 120" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f04-ct">Kıymet unsurları yükümlülük başladıktan <b>sonra belli</b> olacak eşya</div><div class="f04-cn">sözleşme gereği</div></div>
+<div id="f04-stamp-b" class="f04-stamp" style="left:441px;top:490px">SÖZLEŞME +<br>ONAYLI ÇEVİRİ</div>
+<div id="f04-card-c" class="f04-card" style="left:777px;top:300px;width:330px;height:500px;opacity:1"><div class="f04-cl">c)</div><div class="f04-ci"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><path d="M24 70 L80 14 H150 V84 L94 140 Z" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="124" cy="40" r="9" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M168 92 A34 34 0 1 1 150 62" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M146 46 L152 64 L170 58" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f04-ct">Fiyatın <b>sonradan gözden geçirilmesini</b> öngören eşya</div><div class="f04-cn">satış sözleşmesi</div></div>
+<div id="f04-stamp-c" class="f04-stamp" style="left:795px;top:490px">SÖZLEŞME +<br>ONAYLI ÇEVİRİ</div>
+<div id="f04-card-cc" class="f04-card" style="left:1131px;top:300px;width:330px;height:500px;opacity:1"><div class="f04-cl">ç)</div><div class="f04-ci"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><path d="M10 60 H110 V100 H10" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M110 50 H126 V110 H110" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M186 16 L152 80 H182 L156 140" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f04-ct">Boru hattı / elektrik teliyle taşınan, <b>sürekli akış</b> halindeki eşya</div><div class="f04-cn">depolanamaz</div></div>
+<div id="f04-stamp-cc" class="f04-stamp" style="left:1149px;top:490px">SÖZLEŞME +<br>ONAYLI ÇEVİRİ</div>
+<div id="f04-card-d" class="f04-card" style="left:1485px;top:300px;width:330px;height:500px;opacity:0.32"><div class="f04-cl">d)</div><div class="f04-ci"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><path d="M10 120 Q30 104 50 120 T90 120" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M18 96 H84 L74 112 H28 Z" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M100 92 C112 60 132 60 140 40" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M118 96 C128 76 142 74 150 58" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M150 120 H200 V140 H150" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f04-ct">Sıvı gelir, gümrük gözetiminde gaza, limanda <b>boru hattına</b></div><div class="f04-cn">LNG</div></div>
+<div id="f04-cite" class="f04-cite">GY md. 53/2</div>
+<div id="f04-prog" class="f04-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f04-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.2500 }, { scaleX: 0.3333, duration: 14.58, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 0.0);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.3);
+  tl.fromTo(q("k1"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 3.7);
+  tl.fromTo(q("k2"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 5.9);
+  tl.fromTo(q("card-a"), { opacity: 1 }, { opacity: 0.32, duration: 0.5, ease: E }, 9.38);
+  tl.fromTo(q("card-d"), { opacity: 1 }, { opacity: 0.32, duration: 0.5, ease: E }, 9.38);
+  tl.fromTo(q("stamp-b"), { opacity: 0, scale: 1.5, rotation: -14 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.4, ease: E }, 9.38);
+  tl.fromTo(q("stamp-c"), { opacity: 0, scale: 1.5, rotation: -14 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.4, ease: E }, 9.94);
+  tl.fromTo(q("stamp-cc"), { opacity: 0, scale: 1.5, rotation: -14 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.4, ease: E }, 10.5);
+  window.__timelines["04-kosullar"] = tl;
+})();
+</script>
+</template>

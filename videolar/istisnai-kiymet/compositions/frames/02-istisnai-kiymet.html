@@ -1,0 +1,83 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f02-bg { position:absolute; inset:0; background:#FFFFFF; }
+#root .f02-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f02-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#D8000F; white-space:nowrap; }
+.f02-dark { color:#1C1410; }
+.f02-white { color:#fff; }
+.f02-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f02-red { color:#D8000F; }
+.f02-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f02-body { position:absolute; font-size:30px; line-height:1.5; }
+.f02-w { display:inline-block; }
+.f02-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; white-space:nowrap; }
+.f02-chip.f02-redb { border-color:#D8000F; color:#D8000F; }
+.f02-chip b { color:#D8000F; font-weight:600; }
+.f02-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:17px; letter-spacing:2px;
+  text-transform:uppercase; background:#1C1410; color:#fff; padding:6px 11px; white-space:nowrap; }
+.f02-tag.f02-redbg { background:#D8000F; }
+.f02-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  color:#D8000F; border:5px solid #D8000F; padding:8px 14px; white-space:nowrap; background:rgba(255,255,255,.92); }
+.f02-cite { position:absolute; left:69px; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; background:#FFFFFF; white-space:nowrap; }
+.f02-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f02-card { position:absolute; border:3px solid #1C1410; background:#FFFFFF; }
+.f02-cl { position:absolute; left:22px; top:14px; font-family:'Shrikhand'; font-size:72px; line-height:1; color:#D8000F; }
+.f02-ci { position:absolute; left:0; right:0; top:120px; height:150px; display:flex; justify-content:center; }
+.f02-ct { position:absolute; left:22px; right:18px; top:286px; font-size:27px; line-height:1.42; }
+.f02-cn { position:absolute; left:22px; bottom:16px; font-family:'Space Grotesk'; font-weight:600; font-size:15px;
+  letter-spacing:2px; text-transform:uppercase; color:#D8000F; }
+
+.f02-prog { background:#D8000F; }
+
+</style>
+<div id="root" data-composition-id="02-istisnai-kiymet" data-start="0" data-duration="11.06" data-width="1920" data-height="1080">
+<div id="f02-bg" class="clip" data-start="0" data-duration="11.06" data-track-index="0"></div>
+<div id="f02-eyebrow" class="f02-eyebrow" style="left:69px;top:86px">CEVAP</div>
+<div id="f02-h1" class="f02-hero" style="left:69px;top:160px" data-layout-allow-overlap>İstisnai</div>
+<div id="f02-h2" class="f02-hero f02-red" style="left:69px;top:342px;font-size:132px;" data-layout-allow-overlap>kıymetle beyan</div>
+<div id="f02-c1" class="f02-chip" style="left:69px;top:620px">BEYAN SAHİBİNİN <b>TALEBİ</b></div>
+<div id="f02-ar" class="f02-abs" style="left:520px;top:632px"><svg class="glyph" width="90" height="40" viewBox="0 0 90 40" aria-hidden="true"><path d="M7 20.0 H79.5 M73.2 5.6000000000000005 L83 20.0 L73.2 34.4" fill="none" stroke="#1C1410" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f02-c2" class="f02-chip f02-redb" style="left:640px;top:620px">GÜMRÜK İDARESİ · BASİTLEŞTİRİLMİŞ USUL</div>
+<div id="f02-yon" class="f02-tag" style="left:1388px;top:92px">SATIŞ BEDELİ YÖNTEMİ · GK MD. 24</div>
+<div id="f02-cite" class="f02-cite">GY md. 53/1</div>
+<div id="f02-prog" class="f02-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f02-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.0833 }, { scaleX: 0.1667, duration: 10.56, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.0);
+  tl.fromTo(q("h1"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 0.82);
+  tl.fromTo(q("h2"), { opacity: 0, scale: 1.25, rotation: -12 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.5, ease: E }, 1.54);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 2.02);
+  tl.fromTo(q("yon"), { opacity: 0, y: -12, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 2.78);
+  tl.fromTo(q("c1"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 6.18);
+  tl.fromTo(q("ar"), { opacity: 0, y: 0, x: -30 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 7.7);
+  tl.fromTo(q("c2"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 8.14);
+  window.__timelines["02-istisnai-kiymet"] = tl;
+})();
+</script>
+</template>

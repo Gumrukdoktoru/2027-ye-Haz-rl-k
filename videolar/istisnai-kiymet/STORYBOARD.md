@@ -1,6 +1,6 @@
 ---
 format: 1920x1080
-duration: 138s
+duration: 140s
 message: "İstisnai kıymetle beyanın bütün kuralları iki tarih arasında geçer: tescil ve tamamlayıcı beyan"
 arc: concept-explainer with process (zaman çizgisi sahnesi)
 audience: GM / GMY sınavına hazırlanan adaylar
@@ -9,13 +9,21 @@ music: none
 language: tr
 ---
 
+## Video direction
+
+- **palette:** frame.md Bold Poster — beyaz zemin, mürekkep yazı/çizgi, tek vurgu domates kırmızısı (halka, damga, kahraman kelime, ilerleme çubuğu); 11. sahne tam kırmızı panel; logo yalnızca 12. sahnede kendi renkleriyle.
+- **motion grammar:** power3.out uzun kuyruklu yerleşme, zıplama yok; her parça seslendirmede adı geçtiği an gelir (audio_meta.json kelime zamanları); kahraman kelime ve damgalar tek dönüşlü damga hareketi (−4°); zaman çizgisi soldan çizilir, 26 halkası SVG ile çizilir.
+- **stage:** 3–4 aynı beş kart (aynı konum); 5–10 aynı zaman çizgisi (TESCİL x 220 · 1. ay x 760 · 2. ay günleri 22–30, 26 halkası); geçişlerde sahne kıpırdamaz.
+- **rhythm:** 1 merak, 2 kavram damgası, 3 sayım ritmi, 4 damgalar, 5–6 çizgi kurulur, 7 dallanma (en yoğun), 8 kısa uyarı, 9 karşılaştırma, 10 geriye uzanan ok, 11 tutulan özet, 12 sakin imza.
+- **negative list:** zıplama/elastik, nefes alan kartlar, arka yarıda kaydırma, slayt gibi baştan dökme, bağımsız süzülen öğeler; ikinci vurgu rengi, yuvarlak köşe, gölge (kırmızı panel yazısı hariç); fontta olmayan işaretler (→ ≠ ⇄) SVG; içerik y ≤ 900 px. Yerleşim tools/scenes.py (taslakla ortak), hareket tools/build_frames.py.
+
 ## Frame 1 — Kıymet belli değilse
 
 - scene: Sade bir beyanname kâğıdı; "EŞYA" dolu, "KIYMET" alanında boşluk; kırmızı, eğik dev bir soru işareti iner
 - voiceover: "Bazı eşyanın kıymeti, beyanname tescil edildiği gün henüz kesinleşmemiştir. Peki bu eşya nasıl beyan edilir?"
-- duration: 7s
+- duration: 7.18s
 - transition_in: cut
-- status: built
+- status: animated
 - src: compositions/frames/01-kiymet-belli-degil.html
 - type: hook
 - persuasion: Rhetorical question
@@ -29,9 +37,9 @@ keyMessage: Tescil günü kıymeti kesinleşmemiş eşya için özel bir beyan y
 
 - scene: Kavram adı damgalanır: "İstisnai kıymetle beyan"; altında iki etiket akışı: "BEYAN SAHİBİNİN TALEBİ" → "GÜMRÜK İDARESİ · BASİTLEŞTİRİLMİŞ USUL"; köşede "Satış bedeli yöntemi (GK md. 24)"
 - voiceover: "Cevap: istisnai kıymetle beyan. Satış bedeli yöntemiyle kıymet tespit edilen hallerde, beyan sahibinin talebi üzerine, gümrük idaresi basitleştirilmiş usul uygular."
-- duration: 10s
+- duration: 10.56s
 - transition_in: blur-crossfade
-- status: built
+- status: animated
 - src: compositions/frames/02-istisnai-kiymet.html
 - type: product_intro
 - persuasion: Concept announcement + Frame-then-fill
@@ -45,9 +53,9 @@ keyMessage: Satış bedeli yönteminde, talep üzerine gümrük idaresi basitle�
 
 - scene: Beş kart yan yana sırayla gelir — a) konsinye · çabuk bozulabilir, b) kıymet unsurları sonra belli, c) fiyat sonradan gözden geçirilir, ç) boru hattı / elektrik teli · sürekli akış, d) LNG; her kartta basit bir çizim
 - voiceover: "Beş eşya için: konsinye teslim edilen, çabuk bozulabilir eşya. Kıymet unsurları sonradan belli olacak eşya. Fiyatı sonradan gözden geçirilecek eşya. Boru hattı ya da elektrik teliyle taşınan, sürekli akış halindeki eşya. Ve limanda gaza dönüştürülüp boru hattına verilen sıvılaştırılmış doğal gaz."
-- duration: 19s
+- duration: 18.96s
 - transition_in: push-slide LEFT
-- status: built
+- status: animated
 - src: compositions/frames/03-bes-esya.html
 - type: feature_showcase
 - persuasion: Numbered enumeration
@@ -62,9 +70,9 @@ keyMessage: İstisnai kıymetle beyan beş eşya içindir: a, b, c, ç, d.
 
 - scene: Aynı beş kart küçülerek üste dizilir; b, c ve ç kartlarına kırmızı "SÖZLEŞME + ONAYLI ÇEVİRİ" damgası basılır; altta iki satır: "GY 22–24 genel ve özel koşullar → aranmaz" ve "diğer haklar → verilmez"
 - voiceover: "Burada yönetmeliğin yirmi iki ila yirmi dördüncü maddelerindeki genel ve özel koşullar aranmaz; ama bu, basitleştirilmiş usulün diğer haklarını vermez. be, ce ve çe bentlerinde ise sözleşme örneği ve onaylı çevirisi sunulur."
-- duration: 14s
+- duration: 14.58s
 - transition_in: crossfade
-- status: built
+- status: animated
 - src: compositions/frames/04-kosullar.html
 - type: feature_showcase
 - persuasion: Common-belief vs reality + Progressive disclosure
@@ -78,9 +86,9 @@ keyMessage: 22–24'teki koşullar aranmaz ama diğer haklar doğmaz; b, c, ç'd
 
 - scene: Yatay zaman çizgisi soldan sağa çizilir; ilk işaret "TESCİL" kırmızı halka; altında "VERGİ = MEVCUT BELGELERDEKİ KIYMET"
 - voiceover: "Şimdi zaman çizgisini açalım. TESCİL günü: vergi, mevcut belgelerdeki kıymet esas alınarak tahakkuk eder."
-- duration: 7s
+- duration: 7.08s
 - transition_in: push-slide LEFT
-- status: built
+- status: animated
 - src: compositions/frames/05-tescil.html
 - type: feature_showcase
 - persuasion: Frame-then-fill
@@ -94,9 +102,9 @@ keyMessage: Tescilde vergi, mevcut belgelerdeki kıymetle tahakkuk eder.
 
 - scene: Aynı çizgi; ikinci işaret "UNSUR TAHAKKUK EDER (AY 1)"; ileride "AY 2" günler şeridi (… 24 25 26 27 28 …), 26 kırmızı halka ve "AKŞAMINA KADAR"; halkadan "TAMAMLAYICI BEYAN + ÖDEME" bayrağı
 - voiceover: "Sonra eksik kıymet unsuru, mahiyet ve tutar olarak tahakkuk eder. Tamamlayıcı beyan, bu ayı takip eden ayın yirmi altıncı günü akşamına kadar verilir; vergiler de aynı sürede ödenir."
-- duration: 13s
+- duration: 11.04s
 - transition_in: crossfade
-- status: built
+- status: animated
 - src: compositions/frames/06-yirmi-alti.html
 - type: feature_showcase
 - persuasion: Demonstration + Signposting
@@ -110,9 +118,9 @@ keyMessage: Tamamlayıcı beyan, unsurun tahakkuk ettiği ayı takip eden ayın 
 
 - scene: Tamamlayıcı beyan işaretinden iki kol ayrılır: yukarı "YÜKSEK → EK VERGİ TAHAKKUKU"; aşağı "DÜŞÜK →" üç kutu (iade tevsiki · tahlil raporu gibi belgenin onaylı örneği · gümrük incelemesi) ve sonunda "GK md. 211"
 - voiceover: "Tamamlayıcı beyana göre kıymet YÜKSEKSE, ek vergi tahakkuk eder. DÜŞÜKSE: farkın iade alındığı belgelenir, tahlil raporu gibi bir belgenin onaylı örneği sunulur, gümrük inceler; sonra Kanunun iki yüz on birinci maddesine göre işlem yapılır."
-- duration: 16s
+- duration: 14.8s
 - transition_in: crossfade
-- status: built
+- status: animated
 - src: compositions/frames/07-yuksek-dusuk.html
 - type: feature_showcase
 - persuasion: Comparison of two options
@@ -126,9 +134,9 @@ keyMessage: Yüksekse ek tahakkuk; düşükse belgeler + inceleme → GK md. 211
 
 - scene: Tamamlayıcı beyan işaretinden sağa doğru kırmızı ok uzar: "ZAMANAŞIMI BURADAN BAŞLAR"; tescil işareti sönük kalır
 - voiceover: "Dikkat: tamamlayıcı beyana isabet eden vergilerde zamanaşımı, tamamlayıcı beyanın VERİLDİĞİ tarihten başlar."
-- duration: 6s
+- duration: 6.8s
 - transition_in: crossfade
-- status: built
+- status: animated
 - src: compositions/frames/08-zamanasimi.html
 - type: feature_showcase
 - persuasion: Counterexample (tescil değil, beyan)
@@ -142,9 +150,9 @@ keyMessage: Zamanaşımı tamamlayıcı beyanın verildiği tarihten başlar.
 
 - scene: Aynı çizgi; ilk ara işaretin etiketi değişir: "TAHAKKUK (md. 150/3)" yanına ikinci etiket "MUHASEBE KAYDI (md. 53/5-6)"; iki kart: "(5) tescilde varlığı bilinemeyen kıymet / KDV matrah unsurları" ve "(6) depolama · tahmil-tahliye · liman giderleri"; 26 halkası yeniden yanar
 - voiceover: "Yirmi altı kuralı iki yerde daha var: tescil anında varlığı bilinemeyen kıymet ya da katma değer vergisi matrah unsurları; ve tutarı kesinleşmeyen depolama, tahmil tahliye, liman giderleri gibi matrah unsurları. Burada süre, unsurun MUHASEBE kayıtlarına geçtiği ayı takip eden ayın yirmi altısı akşamıdır; vergiler de aynı sürede ödenir."
-- duration: 22s
+- duration: 20.64s
 - transition_in: crossfade
-- status: built
+- status: animated
 - src: compositions/frames/09-muhasebe-kaydi.html
 - type: feature_showcase
 - persuasion: Comparison of two options (başlangıç ayı: tahakkuk vs muhasebe kaydı)
@@ -158,9 +166,9 @@ keyMessage: (5) ve (6)'da süre, muhasebe kaydına geçtiği ayı takip eden ay�
 
 - scene: 26 halkasının ötesine "SÜRE KAÇTI" işareti; tamamlayıcı beyandan geriye, tescile kadar uzanan kırmızı ok: "GECİKME FAİZİ · TESCİLDEN İTİBAREN"; damga "GK md. 241/1"; küçük not "6183 s. Kanun · gecikme zammı oranı"
 - voiceover: "Tamamlayıcı beyan süresinde verilmezse? Zamanında ödenmeyen gümrük vergileri için, beyannamenin TESCİL tarihinden itibaren gecikme zammı oranında gecikme faizi alınır; ve Kanunun iki yüz kırk birinci maddesinin birinci fıkrası uyarınca işlem yapılır."
-- duration: 15s
+- duration: 14.54s
 - transition_in: crossfade
-- status: built
+- status: animated
 - src: compositions/frames/10-gecikme.html
 - type: feature_showcase
 - persuasion: Causal chain + Demonstration
@@ -174,9 +182,9 @@ keyMessage: Süresinde verilmezse gecikme faizi tescil tarihinden işler; GK md.
 
 - scene: Tam kırmızı panel; iki büyük beyaz durak: "TESCİL — belgedeki kıymet" ve "26'SI AKŞAMI — tamamlayıcı beyan"; altında iki küçük satır: "zamanaşımı → beyandan" · "gecikme faizi → tescilden"
 - voiceover: "Kısacası: tescilde belgedeki kıymet, takip eden ayın yirmi altısı akşamı tamamlayıcı beyan. Zamanaşımı beyandan, gecikme faizi tescilden başlar."
-- duration: 9s
+- duration: 9.46s
 - transition_in: blur-crossfade
-- status: built
+- status: animated
 - src: compositions/frames/11-kisacasi.html
 - type: branding
 - persuasion: Distillation + Callback (iki tarih)
@@ -190,9 +198,9 @@ keyMessage: Tescil ve 26'sı akşamı; zamanaşımı beyandan, gecikme faizi tes
 
 - scene: Beyaz zemin; logo sakin bir girişle ortaya oturur, altında @gumrukkocunuz
 - voiceover: "Gümrük Koçu… Ufuk Çetintaş."
-- duration: 4s
+- duration: 4.6s
 - transition_in: blur-crossfade
-- status: built
+- status: animated
 - src: compositions/frames/12-kapanis.html
 - type: cta
 - persuasion: Brand sign-off
