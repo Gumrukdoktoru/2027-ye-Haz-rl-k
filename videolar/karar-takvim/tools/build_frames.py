@@ -73,7 +73,8 @@ class Cal:
         return (self.left + (c + 0.5) * self.cell_w, self.grid_top + (r + 0.5) * self.row_h)
 
     def html(self, rings=(), dim_rings=(), fills=(), hatch=(), tags=None, up=(), numbers=True,
-             frame_cell=None, label_id=None):
+             frame_cell=None, label_id=None, later=()):
+        """later: ringed days whose ring is drawn mid-frame — their small numeral shows until then."""
         p = self.p
         tags = tags or {}
         out = [f'<div id="{p}-cal" class="{p}-calwrap" style="left:{self.left}px;top:{self.top}px;width:{self.width}px">',
@@ -88,7 +89,7 @@ class Cal:
                 inner += f'<div id="{p}-hatch-{d}" class="{p}-hatch"></div>'
             if frame_cell == d:
                 inner += f'<div id="{p}-cellframe-{d}" class="{p}-cellframe"></div>'
-            show_small = numbers and d not in rings and d not in dim_rings
+            show_small = numbers and (d not in rings or d in later) and d not in dim_rings
             inner += f'<span id="{p}-n-{d}" class="{p}-n" style="opacity:{1 if show_small else 0}">{d}</span>'
             out.append(f'<div class="{p}-d">{inner}</div>')
         out.append('</div></div>')
@@ -237,6 +238,7 @@ def j_strike(sel, t, d=0.4):
 
 def j_ring(p, d, t, circ, dur=0.6):
     return "\n".join([
+        f'  tl.fromTo(q("n-{d}"), {{ opacity: 1 }}, {{ opacity: 0, duration: 0.2, ease: E }}, {t});',
         f'  tl.fromTo(q("ringc-{d}"), {{ strokeDashoffset: {circ:.1f} }}, {{ strokeDashoffset: 0, duration: {dur}, ease: "power2.inOut" }}, {t});',
         f'  tl.fromTo(q("ringn-{d}"), {{ opacity: 0, scale: 0.6 }}, {{ opacity: 1, scale: 1, duration: 0.45, ease: E }}, {t + 0.15});',
     ])
@@ -287,7 +289,7 @@ frames.append(write_frame(n, "otuz-gun", body, "", js))
 # ------------------------------------------------------------------ 02
 n, p = 2, "f02"
 cal = cal_A(p)
-cal_html, circ = cal.html(rings=(0,), tags={0: "BAŞVURU İDAREYE ULAŞIR"})
+cal_html, circ = cal.html(rings=(0,), tags={0: "BAŞVURU İDAREYE ULAŞIR"}, later=(0,))
 body = f"""
 <div id="{p}-eyebrow" class="{p}-eyebrow" style="left:69px;top:86px">SÜRE NE ZAMAN BAŞLAR?</div>
 <div id="{p}-gonder" class="{p}-abs" style="left:69px;top:196px;font-style:italic;font-size:61px">
@@ -352,7 +354,7 @@ frames.append(write_frame(n, "yazili-talep", body, "", js))
 # ------------------------------------------------------------------ 04
 n, p = 4, "f04"
 cal = cal_A(p)
-cal_html, circ = cal.html(rings=(0, 30), fills=(), tags={30: "KARAR + YAZILI TEBLİĞ"})
+cal_html, circ = cal.html(rings=(0, 30), fills=(), tags={30: "KARAR + YAZILI TEBLİĞ"}, later=(30,))
 body = f"""
 <div id="{p}-eyebrow" class="{p}-eyebrow" style="left:69px;top:86px" data-layout-allow-overlap>SAYAÇ</div>
 <div id="{p}-stat" class="{p}-stat" style="left:69px;top:170px" data-layout-allow-overlap><span id="{p}-count">0</span></div>
@@ -421,7 +423,7 @@ frames.append(write_frame(n, "sure-asimi", body, "", js))
 # ------------------------------------------------------------------ 06
 n, p = 6, "f06"
 cal = cal_B(p)
-cal_html, circ = cal.html(rings=(0, 30), tags={30: "KARARA BAĞLANIR"}, up=(30,))
+cal_html, circ = cal.html(rings=(0, 30), tags={30: "KARARA BAĞLANIR"}, up=(30,), later=(0, 30))
 stamp_css = f""".{p}-stamp {{ position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:24px; letter-spacing:3px;
   color:{RED}; border:5px solid {RED}; padding:10px 18px; white-space:nowrap; }}"""
 body = f"""
@@ -466,7 +468,7 @@ frames.append(write_frame(n, "itiraz", body, stamp_css, js))
 # ------------------------------------------------------------------ 07
 n, p = 7, "f07"
 cal = cal_C(p)
-cal_html, circ = cal.html(rings=(5,), tags={5: "İPTAL KARARININ VERİLDİĞİ GÜN"}, up=(5,))
+cal_html, circ = cal.html(rings=(5,), tags={5: "İPTAL KARARININ VERİLDİĞİ GÜN"}, up=(5,), later=(5,))
 br_css = f""".{p}-brk {{ position:absolute; width:40px; border:6px solid {RED}; border-left:none; transform-origin:top; }}
 .{p}-brl {{ position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3px; color:{RED};
   line-height:1.35; width:150px; }}"""
@@ -509,7 +511,7 @@ frames.append(write_frame(n, "yedi-bir", body, br_css, js))
 # ------------------------------------------------------------------ 08
 n, p = 8, "f08"
 cal = cal_C(p)
-cal_html, circ = cal.html(rings=(5, 10), tags={5: "İPTAL KARARININ VERİLDİĞİ GÜN", 10: "TEBLİĞ GÜNÜ"}, up=(5,))
+cal_html, circ = cal.html(rings=(5, 10), tags={5: "İPTAL KARARININ VERİLDİĞİ GÜN", 10: "TEBLİĞ GÜNÜ"}, up=(5,), later=(10,))
 dim_css = ""
 c4x, c4y = cal.center(5)
 body = f"""
