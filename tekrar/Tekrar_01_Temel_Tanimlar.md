@@ -1,0 +1,214 @@
+# Hızlı Tekrar 01 — Temel Tanımlar
+
+**Gümrük Koçu - Ufuk Çetintaş** · Kısa soru-cevap · 59 soru
+
+Kaynak: 1-TANIMLAR.docx (4458 sayılı Gümrük Kanunu m.1–4; Gümrük Yönetmeliği m.1–3). ★ işaretli sorular 2021–2025 GMY sınavlarında sorulmuş bilgilerdir.
+
+## Amaç ve Gümrük Bölgesi (GK m.1–2)
+
+**1. Gümrük Kanununun amacı nedir?** ★ 2023  
+→ Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya ve taşıt araçlarına uygulanacak gümrük kurallarını belirlemek. *(GK m.1)*
+
+**2. Türkiye Cumhuriyeti Gümrük Bölgesi neleri kapsar?** ★ 2023  
+→ Türkiye Cumhuriyeti topraklarını; kara suları, iç sular ve hava sahası da gümrük bölgesine dahildir. *(GK m.2; GY m.3/1-o)*
+
+**3. Kanunda geçen "Türkiye Gümrük Bölgesi" ve "Gümrük Bölgesi" ifadeleri neyi anlatır?**  
+→ İkisi de Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder. *(GK m.2)*
+
+## Gümrük İdareleri (GK m.3/2)
+
+**4. "Gümrük idaresi" deyimi neyi ifade eder?** ★ 2023  
+→ Gümrük mevzuatındaki işlemlerin kısmen veya tamamen yerine getirildiği merkez veya taşra teşkilatındaki hiyerarşik yönetim birimlerinin tamamını. *(GK m.3/2-a)*
+
+**5. Eşyanın TGB'ye getirildiği, risk analizine dayalı giriş kontrolüne tabi tutularak geciktirilmeksizin sevk işlemlerinin yapıldığı idare hangisidir?**  
+→ **Giriş** gümrük idaresi. *(GK m.3/2-b)*
+
+**6. TGB'ye getirilen eşyanın, risk analizine dayalı kontroller dahil gümrükçe onaylanmış işlem veya kullanıma tabi tutulma işlemlerinin yapıldığı idare hangisidir?**  
+→ **İthalat** gümrük idaresi. *(GK m.3/2-c)*
+
+**7. TGB'yi terk edecek eşyanın, risk analizine dayalı kontroller dahil gümrükçe onaylanmış işlem veya kullanıma tabi tutulma işlemlerinin yapıldığı idare hangisidir?**  
+→ **İhracat** gümrük idaresi. *(GK m.3/2-d)*
+
+**8. Eşyanın TGB'yi terk etmeden önce sunulmasının gerekli olduğu ve çıkış işlemleriyle ilgili kontrollerin yapıldığı idare hangisidir?** ★ 2024  
+→ **Çıkış** gümrük idaresi. *(GK m.3/2-e)*
+
+## Kişi, Yerleşik Kişi, Karar (GK m.3/3–5)
+
+**9. "Kişi" deyimi kimleri kapsar?**  
+→ Gerçek ve tüzel kişiler ile tüzel kişiliği olmadığı halde mevzuatça hukuki tasarruf yapma yetkisi tanınan kişiler ortaklığını. *(GK m.3/3)*
+
+**10. Gerçek kişi hangi durumda TGB'de yerleşik sayılır?**  
+→ Bu bölgede **yerleşim yeri** varsa. *(GK m.3/4-a)*
+
+**11. Tüzel kişi veya kişiler ortaklığı hangi durumda TGB'de yerleşik sayılır?**  
+→ Bu bölgede **kayıtlı işyeri, kanuni iş merkezi veya şubesi** varsa. *(GK m.3/4-b)*
+
+**12. "Karar" deyimi nedir?**  
+→ Gümrük idaresinin, gümrük mevzuatıyla ilgili belirli bir konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufu. *(GK m.3/5)*
+
+**13. Bağlayıcı tarife ve menşe bilgileri "karar" tanımına girer mi?**  
+→ Evet; tanımda açıkça "dahil olmak üzere" sayılmıştır. *(GK m.3/5)*
+
+## Eşyanın Statüsü (GK m.3/6–7)
+
+**14. Serbest dolaşımda bulunan eşya hangileridir?**  
+→ (1) m.18'e göre tümüyle TGB'de elde edilen ve bünyesinde ithal girdi bulundurmayan eşya; (2) şartlı muafiyet düzenlemelerine tabi eşyadan elde edilen ve özel ekonomik değer taşımadığı tespit edilen eşya; (3) serbest dolaşıma giriş rejimiyle ithal edilen eşya; (4) TGB'de bunlardan ayrı ayrı veya birlikte elde edilen ya da üretilen eşya. *(GK m.3/6-a)*
+
+**15. Serbest dolaşımda bulunmayan eşya nedir?**  
+→ Serbest dolaşımdaki eşya dışında kalan eşya ile transit hükümleri saklı kalmak üzere **TGB'yi fiilen terk eden** eşya. *(GK m.3/6-b)*
+
+**16. "Gümrük statüsü" nedir?** ★ 2023  
+→ Eşyanın TGB'de serbest dolaşıma girmiş olup olmadığı yönünden durumu. *(GK m.3/7)*
+
+## Vergiler ve Yükümlülük (GK m.3/8–11)
+
+**17. "Gümrük vergileri" deyimi neyi ifade eder?** ★ 2022, 2025  
+→ İlgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin **tümünü**. *(GK m.3/8-a)*
+
+**18. "Gümrük yükümlülüğü" nedir?**  
+→ Yükümlünün gümrük vergilerini ödemesi zorunluluğu. *(GK m.3/8-b)*
+
+**19. İthalat vergileri hangi iki gruptan oluşur?**  
+→ (a) Eşyanın ithalinde ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükler; (b) tarım politikası veya tarım ürünlerinin işlenmesiyle elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınan vergiler ve mali yükler. *(GK m.3/9)*
+
+**20. İhracat vergilerinin tanımı ithalat vergilerinden nasıl ayrılır?**  
+→ Yapı aynıdır (gümrük vergisi + eş etkili vergi/mali yükler; tarım düzenlemeleri); fark, bunların **ihracatta** alınmasıdır. *(GK m.3/10)*
+
+**21. "Yükümlü" kimdir?** ★ 2023  
+→ Gümrük yükümlülüğünü yerine getirmekle sorumlu **bütün** kişiler. *(GK m.3/11)*
+
+## Gözetim ve Kontrol (GK m.3/12–13)
+
+**22. "Gümrük gözetimi" nedir?**  
+→ Gümrük mevzuatına ve gerektiğinde gözetim altındaki eşyaya uygulanacak diğer hükümlere uyulmasını sağlamak üzere gümrük idarelerince **genel olarak** uygulanan işlemler. *(GK m.3/12)*
+
+**23. Gümrük kontrolü kapsamında sayılan uygulamalar nelerdir?**  
+→ Eşyanın muayenesi; beyanname verileri ile elektronik/yazılı belgelerin varlık ve gerçekliğinin doğrulanması; işletmelerin hesap ve kayıtlarının incelenmesi; taşıma araçlarının kontrolü; bagajların ve kişilerin yanında/üstünde taşınan eşyanın kontrolü; resmi araştırmalar ve benzeri uygulamalar. *(GK m.3/13)*
+
+**24. Gümrük kontrolü hangi mevzuatın doğru uygulanmasını sağlamaya yöneliktir?**  
+→ Eşyanın giriş, çıkış, transit, nakil ve nihai kullanımını ve serbest dolaşımda bulunmayan eşyanın durumunu düzenleyen gümrük mevzuatı ve diğer mevzuatın. *(GK m.3/13)*
+
+## GOİK ve Gümrük Rejimleri (GK m.3/14–15)
+
+**25. Eşyanın gümrükçe onaylanmış bir işlem veya kullanıma (GOİK) tabi tutulması hangi halleri kapsar?** ★ 2022, 2023, 2024  
+→ **5 hal:** bir gümrük rejimine tabi tutulma, serbest bölgeye girme, TGB dışına yeniden ihraç, imha, gümrüğe terk. *(GK m.3/14)*
+
+**26. Eşyanın teslimi, geçici depolama yerine konulması veya OSB'deki firmaya satışı GOİK midir?** ★ 2022, 2023, 2024  
+→ Hayır; GOİK yalnızca sayılan 5 haldir. *(GK m.3/14)*
+
+**27. Kanunda kaç gümrük rejimi sayılmıştır?** ★ 2021  
+→ **Sekiz.** *(GK m.3/15)*
+
+**28. Gümrük rejimleri nelerdir?** ★ 2021  
+→ Serbest dolaşıma giriş, transit, gümrük antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat, hariçte işleme, ihracat. *(GK m.3/15)*
+
+**29. Geçici ihracat, nihai kullanım ve serbest bölge birer gümrük rejimi midir?** ★ 2022, 2023  
+→ Hayır; hiçbiri sekiz rejim arasında sayılmamıştır (serbest bölgeye giriş bir GOİK halidir). *(GK m.3/14–15)*
+
+## Beyan, Sunma, Teslim ve Hak Sahipleri (GK m.3/16–21)
+
+**30. "Gümrük beyanı" nedir?**  
+→ Belirlenen usul ve esaslar çerçevesinde eşyanın bir gümrük rejimine tabi tutulması **talebinde bulunulması**. *(GK m.3/16)*
+
+**31. "Beyan sahibi" kimdir?**  
+→ Kendi adına beyanda bulunan kişi veya adına beyanda bulunulan kişi. *(GK m.3/17)*
+
+**32. "Eşyanın gümrüğe sunulması" nedir?**  
+→ Eşyanın gümrük idaresine ya da gümrükçe tayin edilen/uygun görülen bir yere getirilmesi üzerine, usulüne uygun olarak gümrük idaresine yapılan **bildirim**. *(GK m.3/18)*
+
+**33. "Eşyanın teslimi" nedir?**  
+→ Eşyanın tabi tutulduğu rejimle öngörülen amaçlar doğrultusunda gümrük idaresince ilgilisine teslimi. *(GK m.3/19)*
+
+**34. "Rejim hak sahibi" kimdir?**  
+→ Kendi adına **ve** hesabına beyanı yapan veya hesabına beyan yapılan kişi ya da bu kişilerin rejimle ilgili hak ve yükümlülüklerinin devredildiği kişi. *(GK m.3/20-a)*
+
+**35. Transit rejiminde rejim hak sahibine ne ad verilir?**  
+→ **Asıl sorumlu.** *(GK m.3/20-b)*
+
+**36. "İzin hak sahibi" kimdir?**  
+→ Kendisine bir izin verilen kişi. *(GK m.3/21)*
+
+## Elleçleme, Eşya, Risk, Gümrüklenmiş Değer (GK m.3/22–26)
+
+**37. "Elleçleme" nedir?**  
+→ Gözetim altındaki eşyanın asli niteliklerini değiştirmeden istiflenmesi, yerinin değiştirilmesi, büyük kaplardan küçük kaplara aktarılması, kapların yenilenmesi/tamiri, havalandırılması, kalburlanması, karıştırılması ve benzeri işlemler. *(GK m.3/22)*
+
+**38. Elleçlemenin olmazsa olmaz şartı nedir?**  
+→ Eşyanın **asli niteliklerinin değişmemesi**. *(GK m.3/22)*
+
+**39. "Eşya" deyimi neyi kapsar?**  
+→ Her türlü madde, ürün ve değeri. *(GK m.3/23)*
+
+**40. "Risk" nedir?**  
+→ Taşınan eşyanın giriş, çıkış, transit, nakil, nihai kullanımına ve serbest dolaşımda bulunmayan eşyaya ilişkin olarak; önlemlerin doğru uygulanmasını engelleyen, ülkenin mali çıkarlarını tehlikeye düşüren veya güvenlik-emniyet, kamu güvenliği-sağlığı, çevre ya da tüketiciler için tehdit oluşturan bir olayın **ortaya çıkma ihtimali**. *(GK m.3/24)*
+
+**41. Risk yönetimi hangi aşamaları içerir?**  
+→ Veri ve bilgi toplanması, risk analizi ve değerlendirilmesi, önlemlerin belirlenmesi ve uygulanması, sürecin düzenli izlenmesi ve gözden geçirilmesi (ulusal ve uluslararası kaynak ve stratejilere dayanarak). *(GK m.3/25)*
+
+**42. "Risk analizi" nedir? (Yönetmelik tanımı)**  
+→ Tanımlanmış risklerin ne sıklıkla ortaya çıkabileceğinin ve sonuçlarının büyüklüğünün belirlenmesi için mevcut bilginin sistematik kullanımı. *(GY m.3/1-m)*
+
+**43. "Gümrüklenmiş değer" nedir?**  
+→ Uluslararası Kıymet Sözleşmesine göre; ithal eşyasında **CIF** kıymeti + gümrük vergileri, ihraç eşyasında **FOB** kıymeti + gümrük vergileri. *(GK m.3/26)*
+
+## Kişilerin Sorumlulukları (GK m.4)
+
+**44. Gümrük idareleriyle muhatap olan kişiler neyle sorumludur?**  
+→ (1) Cumhurbaşkanlığı kararnameleri ile bunlara ve Kanuna dayanılarak çıkarılan mevzuata uymak; (2) gözetim ve kontrollere tabi olmak; (3) idarenin kendi adına veya başka idareler nam/hesabına tahsil edeceği her tür vergi, resim, harç ve ücreti ödemek veya teminata bağlamak; (4) mevzuatın zorunlu kıldığı her tür işlemi yerine getirmek. *(GK m.4)*
+
+## Gümrük Yönetmeliği Tanımları (GY m.1–3)
+
+**45. Gümrük Yönetmeliğinin amacı, kapsamı ve dayanağı nedir?**  
+→ Amaç: Kanunun yönetmelikle düzenlenmesini öngördüğü konuları düzenlemek ve uygulamaya açıklık getirmek. Kapsam: gümrük işlemlerine ilişkin usul ve esaslar. Dayanak: 27/10/1999 tarihli 4458 sayılı Gümrük Kanunu. *(GY m.1–2)*
+
+**46. ATA Karnesi nedir?**  
+→ ATA Karneleri Hakkındaki Gümrük Sözleşmesi ile Geçici İthalat Sözleşmesi çerçevesinde düzenlenen belge. *(GY m.3/1-a)*
+
+**47. Gümrüklerden Geçiş Karnesi (CPD) nedir?**  
+→ Ticari ve özel kullanıma mahsus **kara taşıtları** için ulusal ve uluslararası kefil kuruluşlarca verilen **teminat hükmündeki** belge. *(GY m.3/1-ğ)*
+
+**48. Dökme eşya nedir?**  
+→ Ambalajlanmamış ve genellikle yükleme-boşaltması mekanik vasıta ve tesis gerektiren her nevi gaz, sıvı ve katı madde (maden cevheri, mineraller, hurda demir, kömür, hububat, hayvan yemi, küspe, çimento, klinker, ponza, suni gübre, mucur). *(GY m.3/1-c)*
+
+**49. Levha, kangal, profil, kütük, firkete, boru, rulo sac ve pik dökme eşya mıdır?**  
+→ Hayır; tanımda "ambalajlı olarak sayılabilen" eşya örneği olarak dökme eşya dışında bırakılmıştır. *(GY m.3/1-c)*
+
+**50. Eşyanın kayıt yoluyla rejime geçişi nedir?**  
+→ Rejime geçiş işlemlerinin gümrük idaresi yerine yükümlünün kendi tesislerinde yerinde gümrükleme yoluyla yapılması ve idarece uygun bulunursa beyanın beyanname yerine **ticari kayıtlara giriş** yoluyla yapılması. *(GY m.3/1-d)*
+
+**51. Grup imalatçısı, grup ihracatçısı ve grup ithalatçısı arasındaki fark nedir?**  
+→ Üçü de idare-murakabe ve/veya sermaye bakımından vasıtalı/vasıtasız şirket ilişkisi olan aynı gruba aittir. İmalatçı firma = grup imalatçısı; grubun imalatçılarının ihracatını yapan dış ticaret/pazarlama şirketi = grup ihracatçısı; ithalatını yapan = grup ithalatçısı. *(GY m.3/1-e, f, g)*
+
+**52. Gümrük işlemlerinin bitirilmesi hangi hallerde gerçekleşir?**  
+→ Vergilerin ödenmesi, kaldırılması veya teminata bağlanması; beyannamenin iptali; eşyanın gümrüğe terki, imhası veya müsaderesi. *(GY m.3/1-h)*
+
+**53. Gümrüklü saha nedir?**  
+→ Gümrük idaresinin denetim, kontrol, yetki ve sorumluluğundaki; kara, demiryolu, hava gümrük kapıları, iç gümrükler ve diğer yerlerde fiziki olarak etrafından ayrılmış veya böyle addedilen yerler. Deniz gümrük kapılarında bunlara ek olarak liman yönetmelikleriyle belirlenen liman ve demirleme sahalarını kapsayan deniz ve kıyı alanları. *(GY m.3/1-ı)*
+
+**54. "İdare amiri" kimdir?**  
+→ İşlemin yerine getirildiği gümrük idaresinin **en üst amiri**. *(GY m.3/1-i)*
+
+**55. İhracata bağlı önlemlerden yararlanan "eşya/ürün" ile "tarım ürünü" arasındaki fark nedir?**  
+→ Eşya/ürün: ihracı halinde geri ödeme veya benzeri ekonomik fayda sağlayan. Tarım ürünü: herhangi bir işleme tabi tutulmadan ihracı kaydıyla, ihraçtan önce ihraç geri ödemesine eşdeğer bir ödeme konusu olan. *(GY m.3/1-j, k)*
+
+**56. Ticaret politikası önlemleri nelerdir?**  
+→ Gözetim, korunma önlemleri, miktar kısıtlamaları, ithalat veya ihracat yasaklamaları gibi ithal ve ihraçla ilgili **tarife dışı** önlemler. *(GY m.3/1-n)*
+
+**57. Elektronik veri değişimi ile veri işleme tekniği arasındaki fark nedir?**  
+→ EDI: kabul görmüş mesaj standartlarına göre yapılandırılmış verinin bir bilgisayar sisteminden diğerine elektronik aktarımı. Veri işleme tekniği: 5070 sayılı Elektronik İmza Kanununa uygun e-imzalı EDI mesajlarının gümrük idareleriyle değişimi ve/veya gerekli bilgilerin idarenin bilgisayar sistemine girilmesi. *(GY m.3/1-ç, ö)*
+
+**58. "Yolcu" tanımına kimler girer?**  
+→ Herhangi bir amaçla (ticaret, memuriyet, tahsil, ziyaret, tedavi, turizm vb.) kısa veya uzun süre kalmak üzere kara, demiryolu, deniz veya hava yoluyla TGB'ye gelen yabancı ülkede oturan Türkler ve yabancılar; yabancı ülkeden kesin veya geçici dönen Türkiye'de oturan Türkler ve yabancılar; aynı amaç ve yollarla yabancı ülkeye giden Türkler ve yabancılar. *(GY m.3/1-p)*
+
+**59. Yetkilendirilmiş yükümlü sertifikası nedir?**  
+→ Kanunun 5/A maddesine uygun olarak koşulları sağlayan yükümlülere; basitleştirilmiş uygulamalar ve TGB'ye giriş-çıkıştaki emniyet ve güvenlik kontrollerine ilişkin kolaylaştırmalardan yararlanmak için verilen belge. *(GY m.3/1-r)*
+
+## Sık Karıştırılanlar
+
+- **GOİK (5) ≠ gümrük rejimi (8):** serbest bölgeye giriş, yeniden ihraç, imha ve terk GOİK'tir ama rejim değildir. Teslim, geçici depolama, nihai kullanım ve geçici ihracat ikisine de girmez.
+- **Giriş ↔ ithalat idaresi:** giriş = giriş kontrolü + geciktirmeden sevk; ithalat = GOİK işlemleri. **Çıkış ↔ ihracat idaresi:** çıkış = terk etmeden önce sunma + çıkış kontrolleri; ihracat = GOİK işlemleri.
+- **Beyan sahibi ≠ rejim hak sahibi ≠ izin hak sahibi:** beyan sahibi kendi adına beyanda bulunan veya adına beyanda bulunulan; rejim hak sahibi kendi adına ve hesabına beyan eden, hesabına beyan yapılan ya da hakları devralan; izin hak sahibi izin verilen kişi.
+- **Asıl sorumlu** yalnızca transit rejimine özgü bir terimdir.
+- **Gümrüklenmiş değer:** ithalatta CIF, ihracatta FOB + gümrük vergileri.
+- **Risk** tanımı Kanunda (GK m.3/24), **risk analizi** tanımı Yönetmelikte (GY m.3/1-m).
+- **Yerleşiklik:** gerçek kişide yerleşim yeri; tüzel kişide kayıtlı işyeri, kanuni iş merkezi veya şube.
