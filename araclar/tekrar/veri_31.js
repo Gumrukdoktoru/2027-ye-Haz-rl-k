@@ -84,9 +84,6 @@ module.exports = {
       ['Şartlı tespit raporu nedir?',
         'Rapor kapsamındaki tespitlerden birinin ya da bazılarının, **nihai görüşün olumlu olmasını engelleyecek** şekilde **yapılamadığı** durumları içeren rapor.', 'YGM Tebliği m.4/1-ğ', '',
         'raporun sonuç bölümünde yer alan nihai görüşün olumlu olmasını engelleyecek şekilde yapılamadığı durumları ihtiva eden raporu'],
-      ['Tespit sözleşmesi nedir?',
-        'YGM ile yükümlü arasında **özel hukuk hükümlerine** istinaden yapılan sözleşme.', 'YGM Tebliği m.4/1-i', '',
-        'Tespit sözleşmesi: Yetkilendirilmiş gümrük müşaviri ile yükümlü arasında özel hukuk hükümlerine istinaden yapılan sözleşmeyi'],
     ] },
     { baslik: 'Tespit İşlemleri ve Kodları (YGM Tebliği m.11)', sorular: [
       ['AN1, AN2, AN3, AN4 ve AN5 kodlu tespit işlemleri neyi kapsar?',
@@ -97,7 +94,7 @@ module.exports = {
         'AN6, özel antrepoya eşya giriş çıkış işlemlerinin tespiti'],
       ['AN7 kodlu tespit işlemi nedir?',
         'Antrepoda **stok kayıtlarının altışar aylık** dönemler itibarıyla tespiti.', 'YGM Tebliği m.11/1-a-7', '',
-        'AN7, antrepoda stok kayıtlarının altışar aylık dönemler itibariyle tespitini'],
+        'AN7, antrepoda stok kayıtlarının altışar aylık dönemler itibariyla tespitini'],
       ['Genel antrepoya eşya giriş-çıkış işlemlerinin tespiti hangi kodlu YGM tespit işlemiyle yapılır?',
         '**AN8.**', 'YGM Tebliği m.11/1-a-8', '2022',
         'AN8, genel antrepoya eşya giriş çıkış işlemlerinin tespiti'],
@@ -142,9 +139,6 @@ module.exports = {
         'DK1, diğer kurumlarca yapılacak kontroller kapsamında kullanım amacına göre bilgi/belgeye tabi eşyanın kullanım amacına uygun olup olmadığının tespitini kapsar'],
     ] },
     { baslik: 'Tespit Ücreti ve Genel Hükümler (YGM Tebliği m.12–13)', sorular: [
-      ['YGM ile yükümlü arasındaki ücret nasıl belirlenir?',
-        'GK **geçici m.6/10** uyarınca belirlenen YGM **asgari ücret tarifesinden az olamaz**.', 'YGM Tebliği m.12', '',
-        ['Gümrük Kanununun geçici 6 ncı maddesinin onuncu fıkrasına istinaden belirlenen yetkilendirilmiş gümrük müşavirliği asgari ücret tarifesini uygular', 'asgari ücret tarifesinden az olmaması gerekir']],
       ['AN6, AN7 ve AN8 tespit sözleşmeleri ne süreli yapılır; AN6 ve AN8 için hangi rapor düzenlenir?',
         '**Bir yıl** süreli; AN6 ve AN8 için **günlük rapor** (Ek-6) düzenlenir.', 'YGM Tebliği m.13/1-b, c', '',
         ['AN6 ve AN8 tespit işlemlerine ilişkin olarak Ek-6\'da yer alan günlük rapor düzenlenir.', 'sözleşmenin bir yıl süreli olarak yapılması gerekir']],
