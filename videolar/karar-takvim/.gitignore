@@ -1,3 +1,5 @@
 snapshots/
 node_modules/
 .hyperframes/frame-packets/
+renders/work-*/
+renders/.*-transaction-*/
