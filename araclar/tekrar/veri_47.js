@@ -128,7 +128,7 @@ module.exports = {
     ] },
     { baslik: 'Tercihli Tarife, Belgeler ve Kısmi İşlemler (GY m.507–510; Tahsilat Tebliği m.33, 36–38)', sorular: [
       ['Tarife kotası veya tercihli tarife kapsamında indirimli/sıfır oranlı eşyaya ilişkin geri verme talebi hangi şartla kabul edilir?',
-        'Tarife kotasında **kota sınırlarına ulaşılmamış** olması; diğer durumlarda normal vergi oranının **yeniden belirlenmemiş** olması (indirimli oranın uygulanmaması **idarenin yanlışlığından** kaynaklanıyorsa bu şartlar aranmaz).', 'GY m.507', '',
+        'Tarife kotasında **kota sınırlarına ulaşılmamış** olması; diğer durumlarda normal vergi oranının **yeniden belirlenmemiş** olması (indirimli oranın uygulanmaması **idarenin yanlışlığından** kaynaklanıyor ve beyanname tüm ayrıntıları ile gerekli belgeleri içeriyorsa bu şartlar aranmaz).', 'GY m.507', '',
         ['Bir tarife kotası durumunda, kota sınırlarına ulaşılmamış olması', 'Diğer durumlarda, normal olarak tahakkuka esas alınan vergi oranının yeniden belirlenmemiş olması', 'gümrük idareleri tarafından yapılan bir yanlışlıktan kaynaklanıyorsa']],
       ['İmha sonucu ortaya çıkan atık ve artıklar geri verme kararından sonra nasıl kabul edilir?',
         '**Serbest dolaşımda olmayan eşya** olarak.', 'GY m.509', '',

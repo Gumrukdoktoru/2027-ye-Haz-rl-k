@@ -117,7 +117,7 @@ module.exports = {
     ] },
     { baslik: 'Özet Beyan Eksiklik ve Fazlalıkları (GK m.237; GY m.583)', sorular: [
       ['Özet beyana göre noksan çıkan kaplar için süresinde kanıt sunulamazsa ceza nasıl belirlenir?',
-        'Mahrecinde yüklenmeme, yanlışlıkla başka yere çıkarılma, kaza/avarya veya çalınma kanıtlanamazsa: tarife pozisyonuna (tespit edilemezse faslın **en yüksek vergiye tabi** pozisyonuna) göre **gümrük vergileri kadar**; bu da belirlenemiyorsa **noksan her kap için 241/1** miktarı.', 'GK m.237/1–2', '',
+        'Mahrecinden yüklenmeme, yanlışlıkla başka yere çıkarılma, kaza/avarya veya çalınma kanıtlanamazsa: tarife pozisyonuna (tespit edilemezse faslın **en yüksek vergiye tabi** pozisyonuna) göre **gümrük vergileri kadar**; bu da belirlenemiyorsa **noksan her kap için 241/1** miktarı.', 'GK m.237/1–2', '',
         ['tarifede dahil olduğu faslın en yüksek vergiye tabi pozisyonuna göre hesaplanacak gümrük vergileri', '1 inci fıkraya göre ceza belirlenmesi mümkün olamıyorsa, noksan her kap için 241 inci maddenin 1 inci fıkrasında belirlenen miktarda para cezası alınır.']],
       ['Özet beyana göre fazla çıkan kapların yanlışlıkla fazla yüklendiği süresinde kanıtlanamazsa ne olur?',
         'Eşyaya **el konularak** mülkiyeti **kamuya geçirilir**, **tasfiye** edilir ve **CIF kıymeti kadar** para cezası alınır.', 'GK m.237/3', '',
