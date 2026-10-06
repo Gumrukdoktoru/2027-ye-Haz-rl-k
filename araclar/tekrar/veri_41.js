@@ -186,7 +186,7 @@ module.exports = {
     ] },
     { baslik: 'Sınır Ticaret Merkezleri Yönetmeliği (Yönetmelik (STM) m.5–13)', sorular: [
       ['Sınır Ticaret Merkezinde kurulacak kantarın asgari tartma kapasitesi nedir; nitelik ve şartlara uygunluğu kim denetler?',
-        'Asgari **45 ton**; şartlara uygunluğu merkezin bağlı olduğu **gümrük idareleri** denetler.', 'Yönetmelik (STM) m.5', '',
+        'Asgari **45 ton**; şartlara uygunluğu merkezin bağlı olduğu **gümrük idareleri** denetler.', 'Yönetmelik (STM) m.5/1-e, 5/2', '',
         ['Asgari 45 ton tartma kapasitesine sahip kantar kurulması', 'Sınır Ticaret Merkezinin bağlı olduğu Gümrük idarelerince denetlenir']],
       ['Sınır Ticaret Merkezi işleticisi ve mağazaların mali sorumluluğu hangi hallerde söz konusu olmaz?',
         'Eşyanın **tabiatından doğan kayıp ve fireler** ile kusurlarından kaynaklanmayan telef, kayıp, **doğal afet, yangın, su basması, çalınma** vb. eksikliklerin gümrük idaresine **ispatı ve idarece kabulü** halinde.', 'Yönetmelik (STM) m.6/1-b', '',
@@ -198,7 +198,7 @@ module.exports = {
         '**Beş yıl**; defterlerde **tasdik edildiği**, belgelerde **düzenlendiği yılın sonundan** itibaren.', 'Yönetmelik (STM) m.7/4–5', '',
         ['İlgili kişiler bu defter ve belgeleri gümrük kontrolü amacıyla beş yıl süre ile saklamak zorundadırlar.', 'Bu defter ve belgelerin saklama süresi defterlerin tasdik edildiği, belgelerin ise düzenlendiği yılın sonundan itibaren işlemeye başlar.']],
       ['Eşya giriş-çıkış defterini kim tasdik eder; deftere kayıtlar en geç ne zaman yapılır?',
-        'Satış mağazasının bulunduğu yerdeki **noter**; kayıtlar **en geç üç iş günü** içinde.', 'Yönetmelik (STM) m.8/4, 10', '',
+        'Satış mağazasının bulunduğu yerdeki **noter**; kayıtlar **en geç üç iş günü** içinde.', 'Yönetmelik (STM) m.8/4, 8/10', '',
         ['satış mağazasının bulunduğu yerdeki noter veya noterlik görevini ifa ile mükellef olanlar tarafından tasdik edilir', 'Deftere kayıtların en geç üç iş günü içinde yapılması zorunludur.']],
       ['Satış belgesi kaç örnek düzenlenir; aylık satış listesi ne zamana kadar verilir?',
         'Satış belgesi **iki örnek**; aylık satış listesi **biri asıl üç örnek**, aslı **müteakip ayın üçüncü günü akşamına** kadar bağlı **gümrük müdürlüğüne** verilir.', 'Yönetmelik (STM) m.9/3, 10/3', '',
