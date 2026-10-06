@@ -1,0 +1,1193 @@
+{
+ "bgm": null,
+ "bgm_pending": false,
+ "voices": [
+  {
+   "frame": 1,
+   "path": "assets/voice/01.wav",
+   "duration_s": 6.06,
+   "words": [
+    {
+     "id": "w01-0",
+     "text": "Gümrük",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "id": "w01-1",
+     "text": "idaresinin",
+     "start": 0.4,
+     "end": 0.96
+    },
+    {
+     "id": "w01-2",
+     "text": "karar",
+     "start": 1.04,
+     "end": 1.28
+    },
+    {
+     "id": "w01-3",
+     "text": "vermek",
+     "start": 1.36,
+     "end": 1.68
+    },
+    {
+     "id": "w01-4",
+     "text": "için",
+     "start": 1.72,
+     "end": 1.92
+    },
+    {
+     "id": "w01-5",
+     "text": "otuz",
+     "start": 2.08,
+     "end": 2.32
+    },
+    {
+     "id": "w01-6",
+     "text": "günü",
+     "start": 2.4,
+     "end": 2.56
+    },
+    {
+     "id": "w01-7",
+     "text": "var.",
+     "start": 2.64,
+     "end": 3.04
+    },
+    {
+     "id": "w01-8",
+     "text": "Peki",
+     "start": 3.2,
+     "end": 3.52
+    },
+    {
+     "id": "w01-9",
+     "text": "bu",
+     "start": 3.6,
+     "end": 3.68
+    },
+    {
+     "id": "w01-10",
+     "text": "otuz",
+     "start": 3.84,
+     "end": 4.16
+    },
+    {
+     "id": "w01-11",
+     "text": "gün…",
+     "start": 4.24,
+     "end": 4.72
+    },
+    {
+     "id": "w01-12",
+     "text": "ne",
+     "start": 4.88,
+     "end": 4.96
+    },
+    {
+     "id": "w01-13",
+     "text": "zaman",
+     "start": 5.04,
+     "end": 5.28
+    },
+    {
+     "id": "w01-14",
+     "text": "başlar?",
+     "start": 5.36,
+     "end": 5.96
+    }
+   ]
+  },
+  {
+   "frame": 2,
+   "path": "assets/voice/02.wav",
+   "duration_s": 7.42,
+   "words": [
+    {
+     "id": "w02-0",
+     "text": "Başvuruyu",
+     "start": 0.1,
+     "end": 0.58
+    },
+    {
+     "id": "w02-1",
+     "text": "gönderdiğin",
+     "start": 0.66,
+     "end": 1.22
+    },
+    {
+     "id": "w02-2",
+     "text": "gün",
+     "start": 1.3,
+     "end": 1.46
+    },
+    {
+     "id": "w02-3",
+     "text": "değil",
+     "start": 1.54,
+     "end": 1.78
+    },
+    {
+     "id": "w02-4",
+     "text": "—",
+     "start": 2.02,
+     "end": 2.1
+    },
+    {
+     "id": "w02-5",
+     "text": "idareye",
+     "start": 2.18,
+     "end": 2.58
+    },
+    {
+     "id": "w02-6",
+     "text": "ULAŞTIĞI",
+     "start": 2.74,
+     "end": 3.22
+    },
+    {
+     "id": "w02-7",
+     "text": "gün.",
+     "start": 3.3,
+     "end": 3.54
+    },
+    {
+     "id": "w02-8",
+     "text": "Bu",
+     "start": 3.78,
+     "end": 3.94
+    },
+    {
+     "id": "w02-9",
+     "text": "konunun",
+     "start": 4.02,
+     "end": 4.34
+    },
+    {
+     "id": "w02-10",
+     "text": "tuzakları",
+     "start": 4.38,
+     "end": 4.9
+    },
+    {
+     "id": "w02-11",
+     "text": "tarihlerde",
+     "start": 4.98,
+     "end": 5.54
+    },
+    {
+     "id": "w02-12",
+     "text": "saklı;",
+     "start": 5.62,
+     "end": 6.26
+    },
+    {
+     "id": "w02-13",
+     "text": "takvimi",
+     "start": 6.313,
+     "end": 6.66
+    },
+    {
+     "id": "w02-14",
+     "text": "açalım.",
+     "start": 6.7,
+     "end": 7.38
+    }
+   ]
+  },
+  {
+   "frame": 3,
+   "path": "assets/voice/03.wav",
+   "duration_s": 8.14,
+   "words": [
+    {
+     "id": "w03-0",
+     "text": "Sıfırıncı",
+     "start": 0.04,
+     "end": 0.48
+    },
+    {
+     "id": "w03-1",
+     "text": "gün:",
+     "start": 0.52,
+     "end": 1.08
+    },
+    {
+     "id": "w03-2",
+     "text": "talep",
+     "start": 1.16,
+     "end": 1.4
+    },
+    {
+     "id": "w03-3",
+     "text": "yazılı",
+     "start": 1.48,
+     "end": 1.8
+    },
+    {
+     "id": "w03-4",
+     "text": "yapılır;",
+     "start": 1.853,
+     "end": 2.44
+    },
+    {
+     "id": "w03-5",
+     "text": "sözlü",
+     "start": 2.52,
+     "end": 2.8
+    },
+    {
+     "id": "w03-6",
+     "text": "talep",
+     "start": 2.84,
+     "end": 3.12
+    },
+    {
+     "id": "w03-7",
+     "text": "öngörülmemiş.",
+     "start": 3.16,
+     "end": 4.12
+    },
+    {
+     "id": "w03-8",
+     "text": "Gerekli",
+     "start": 4.28,
+     "end": 4.6
+    },
+    {
+     "id": "w03-9",
+     "text": "bütün",
+     "start": 4.68,
+     "end": 4.92
+    },
+    {
+     "id": "w03-10",
+     "text": "bilgi",
+     "start": 5.0,
+     "end": 5.32
+    },
+    {
+     "id": "w03-11",
+     "text": "ve",
+     "start": 5.36,
+     "end": 5.4
+    },
+    {
+     "id": "w03-12",
+     "text": "belgeleri",
+     "start": 5.48,
+     "end": 5.92
+    },
+    {
+     "id": "w03-13",
+     "text": "ibraz",
+     "start": 5.96,
+     "end": 6.28
+    },
+    {
+     "id": "w03-14",
+     "text": "etmek",
+     "start": 6.36,
+     "end": 6.6
+    },
+    {
+     "id": "w03-15",
+     "text": "de",
+     "start": 6.68,
+     "end": 6.84
+    },
+    {
+     "id": "w03-16",
+     "text": "talep",
+     "start": 6.92,
+     "end": 7.16
+    },
+    {
+     "id": "w03-17",
+     "text": "edenin",
+     "start": 7.28,
+     "end": 7.48
+    },
+    {
+     "id": "w03-18",
+     "text": "yükü.",
+     "start": 7.6,
+     "end": 8.12
+    }
+   ]
+  },
+  {
+   "frame": 4,
+   "path": "assets/voice/04.wav",
+   "duration_s": 7.18,
+   "words": [
+    {
+     "id": "w04-0",
+     "text": "İdare,",
+     "start": 0.02,
+     "end": 0.54
+    },
+    {
+     "id": "w04-1",
+     "text": "otuz",
+     "start": 0.62,
+     "end": 0.86
+    },
+    {
+     "id": "w04-2",
+     "text": "gün",
+     "start": 0.94,
+     "end": 1.1
+    },
+    {
+     "id": "w04-3",
+     "text": "içinde",
+     "start": 1.14,
+     "end": 1.42
+    },
+    {
+     "id": "w04-4",
+     "text": "karar",
+     "start": 1.5,
+     "end": 1.74
+    },
+    {
+     "id": "w04-5",
+     "text": "alır",
+     "start": 1.82,
+     "end": 2.06
+    },
+    {
+     "id": "w04-6",
+     "text": "ve",
+     "start": 2.14,
+     "end": 2.22
+    },
+    {
+     "id": "w04-7",
+     "text": "kararı",
+     "start": 2.3,
+     "end": 2.7
+    },
+    {
+     "id": "w04-8",
+     "text": "yazılı",
+     "start": 2.74,
+     "end": 3.1
+    },
+    {
+     "id": "w04-9",
+     "text": "olarak",
+     "start": 3.18,
+     "end": 3.42
+    },
+    {
+     "id": "w04-10",
+     "text": "tebliğ",
+     "start": 3.5,
+     "end": 3.74
+    },
+    {
+     "id": "w04-11",
+     "text": "eder.",
+     "start": 3.82,
+     "end": 4.14
+    },
+    {
+     "id": "w04-12",
+     "text": "Dikkat:",
+     "start": 4.46,
+     "end": 5.18
+    },
+    {
+     "id": "w04-13",
+     "text": "otuz",
+     "start": 5.3,
+     "end": 5.5
+    },
+    {
+     "id": "w04-14",
+     "text": "gün…",
+     "start": 5.66,
+     "end": 6.14
+    },
+    {
+     "id": "w04-15",
+     "text": "iş",
+     "start": 6.22,
+     "end": 6.3
+    },
+    {
+     "id": "w04-16",
+     "text": "günü",
+     "start": 6.38,
+     "end": 6.54
+    },
+    {
+     "id": "w04-17",
+     "text": "değil.",
+     "start": 6.62,
+     "end": 7.1
+    }
+   ]
+  },
+  {
+   "frame": 5,
+   "path": "assets/voice/05.wav",
+   "duration_s": 9.42,
+   "words": [
+    {
+     "id": "w05-0",
+     "text": "Süreye",
+     "start": 0.08,
+     "end": 0.4
+    },
+    {
+     "id": "w05-1",
+     "text": "uyulamıyorsa",
+     "start": 0.48,
+     "end": 1.12
+    },
+    {
+     "id": "w05-2",
+     "text": "süre",
+     "start": 1.28,
+     "end": 1.44
+    },
+    {
+     "id": "w05-3",
+     "text": "aşılabilir.",
+     "start": 1.52,
+     "end": 2.2
+    },
+    {
+     "id": "w05-4",
+     "text": "Ama",
+     "start": 2.32,
+     "end": 2.48
+    },
+    {
+     "id": "w05-5",
+     "text": "idare,",
+     "start": 2.6,
+     "end": 3.04
+    },
+    {
+     "id": "w05-6",
+     "text": "süre",
+     "start": 3.08,
+     "end": 3.28
+    },
+    {
+     "id": "w05-7",
+     "text": "dolmadan,",
+     "start": 3.36,
+     "end": 4.0
+    },
+    {
+     "id": "w05-8",
+     "text": "gerekçeyi",
+     "start": 4.08,
+     "end": 4.6
+    },
+    {
+     "id": "w05-9",
+     "text": "ve",
+     "start": 4.64,
+     "end": 4.72
+    },
+    {
+     "id": "w05-10",
+     "text": "ek",
+     "start": 4.8,
+     "end": 4.96
+    },
+    {
+     "id": "w05-11",
+     "text": "süreyi",
+     "start": 5.04,
+     "end": 5.32
+    },
+    {
+     "id": "w05-12",
+     "text": "başvuru",
+     "start": 5.36,
+     "end": 5.76
+    },
+    {
+     "id": "w05-13",
+     "text": "sahibine",
+     "start": 5.8,
+     "end": 6.24
+    },
+    {
+     "id": "w05-14",
+     "text": "bildirir.",
+     "start": 6.36,
+     "end": 6.84
+    },
+    {
+     "id": "w05-15",
+     "text": "Yani",
+     "start": 6.96,
+     "end": 7.2
+    },
+    {
+     "id": "w05-16",
+     "text": "süre",
+     "start": 7.28,
+     "end": 7.52
+    },
+    {
+     "id": "w05-17",
+     "text": "aşımı,",
+     "start": 7.6,
+     "end": 8.0
+    },
+    {
+     "id": "w05-18",
+     "text": "ret",
+     "start": 8.08,
+     "end": 8.32
+    },
+    {
+     "id": "w05-19",
+     "text": "demek",
+     "start": 8.4,
+     "end": 8.64
+    },
+    {
+     "id": "w05-20",
+     "text": "değildir.",
+     "start": 8.72,
+     "end": 9.32
+    }
+   ]
+  },
+  {
+   "frame": 6,
+   "path": "assets/voice/06.wav",
+   "duration_s": 9.12,
+   "words": [
+    {
+     "id": "w06-0",
+     "text": "Ret",
+     "start": 0.1,
+     "end": 0.34
+    },
+    {
+     "id": "w06-1",
+     "text": "ve",
+     "start": 0.38,
+     "end": 0.42
+    },
+    {
+     "id": "w06-2",
+     "text": "aleyhe",
+     "start": 0.5,
+     "end": 0.82
+    },
+    {
+     "id": "w06-3",
+     "text": "kararlar",
+     "start": 0.9,
+     "end": 1.38
+    },
+    {
+     "id": "w06-4",
+     "text": "gerekçeli",
+     "start": 1.46,
+     "end": 1.94
+    },
+    {
+     "id": "w06-5",
+     "text": "alınır,",
+     "start": 2.02,
+     "end": 2.58
+    },
+    {
+     "id": "w06-6",
+     "text": "itiraz",
+     "start": 2.66,
+     "end": 2.98
+    },
+    {
+     "id": "w06-7",
+     "text": "yolu",
+     "start": 3.06,
+     "end": 3.22
+    },
+    {
+     "id": "w06-8",
+     "text": "kararda",
+     "start": 3.3,
+     "end": 3.7
+    },
+    {
+     "id": "w06-9",
+     "text": "belirtilir.",
+     "start": 3.78,
+     "end": 4.42
+    },
+    {
+     "id": "w06-10",
+     "text": "Kararlar",
+     "start": 4.58,
+     "end": 5.06
+    },
+    {
+     "id": "w06-11",
+     "text": "derhal",
+     "start": 5.14,
+     "end": 5.54
+    },
+    {
+     "id": "w06-12",
+     "text": "uygulanır.",
+     "start": 5.62,
+     "end": 6.3
+    },
+    {
+     "id": "w06-13",
+     "text": "İtiraz",
+     "start": 6.42,
+     "end": 6.82
+    },
+    {
+     "id": "w06-14",
+     "text": "da",
+     "start": 6.9,
+     "end": 6.98
+    },
+    {
+     "id": "w06-15",
+     "text": "otuz",
+     "start": 7.14,
+     "end": 7.38
+    },
+    {
+     "id": "w06-16",
+     "text": "gün",
+     "start": 7.46,
+     "end": 7.54
+    },
+    {
+     "id": "w06-17",
+     "text": "içinde",
+     "start": 7.62,
+     "end": 7.86
+    },
+    {
+     "id": "w06-18",
+     "text": "karara",
+     "start": 7.94,
+     "end": 8.34
+    },
+    {
+     "id": "w06-19",
+     "text": "bağlanır.",
+     "start": 8.38,
+     "end": 9.02
+    }
+   ]
+  },
+  {
+   "frame": 7,
+   "path": "assets/voice/07.wav",
+   "duration_s": 16.7,
+   "words": [
+    {
+     "id": "w07-0",
+     "text": "Gelelim",
+     "start": 0.1,
+     "end": 0.5
+    },
+    {
+     "id": "w07-1",
+     "text": "lehe",
+     "start": 0.58,
+     "end": 0.74
+    },
+    {
+     "id": "w07-2",
+     "text": "kararların",
+     "start": 0.82,
+     "end": 1.3
+    },
+    {
+     "id": "w07-3",
+     "text": "iptaline.",
+     "start": 1.38,
+     "end": 2.1
+    },
+    {
+     "id": "w07-4",
+     "text": "Gümrük",
+     "start": 2.26,
+     "end": 2.5
+    },
+    {
+     "id": "w07-5",
+     "text": "Kanunu",
+     "start": 2.58,
+     "end": 3.06
+    },
+    {
+     "id": "w07-6",
+     "text": "yedinci",
+     "start": 3.1,
+     "end": 3.38
+    },
+    {
+     "id": "w07-7",
+     "text": "madde,",
+     "start": 3.46,
+     "end": 3.82
+    },
+    {
+     "id": "w07-8",
+     "text": "birinci",
+     "start": 3.86,
+     "end": 4.1
+    },
+    {
+     "id": "w07-9",
+     "text": "fıkra:",
+     "start": 4.18,
+     "end": 4.82
+    },
+    {
+     "id": "w07-10",
+     "text": "yanlış",
+     "start": 4.9,
+     "end": 5.3
+    },
+    {
+     "id": "w07-11",
+     "text": "ya",
+     "start": 5.38,
+     "end": 5.46
+    },
+    {
+     "id": "w07-12",
+     "text": "da",
+     "start": 5.5,
+     "end": 5.54
+    },
+    {
+     "id": "w07-13",
+     "text": "eksik",
+     "start": 5.62,
+     "end": 5.94
+    },
+    {
+     "id": "w07-14",
+     "text": "bilgi,",
+     "start": 6.02,
+     "end": 6.46
+    },
+    {
+     "id": "w07-15",
+     "text": "başvuranın",
+     "start": 6.58,
+     "end": 7.14
+    },
+    {
+     "id": "w07-16",
+     "text": "bunu",
+     "start": 7.22,
+     "end": 7.38
+    },
+    {
+     "id": "w07-17",
+     "text": "bilmesi",
+     "start": 7.46,
+     "end": 7.94
+    },
+    {
+     "id": "w07-18",
+     "text": "ya",
+     "start": 8.02,
+     "end": 8.1
+    },
+    {
+     "id": "w07-19",
+     "text": "da",
+     "start": 8.18,
+     "end": 8.26
+    },
+    {
+     "id": "w07-20",
+     "text": "bilmesi",
+     "start": 8.34,
+     "end": 8.66
+    },
+    {
+     "id": "w07-21",
+     "text": "gerekmesi,",
+     "start": 8.74,
+     "end": 9.42
+    },
+    {
+     "id": "w07-22",
+     "text": "doğru",
+     "start": 9.54,
+     "end": 9.78
+    },
+    {
+     "id": "w07-23",
+     "text": "bilgiyle",
+     "start": 9.86,
+     "end": 10.26
+    },
+    {
+     "id": "w07-24",
+     "text": "karar",
+     "start": 10.34,
+     "end": 10.58
+    },
+    {
+     "id": "w07-25",
+     "text": "verilememesi.",
+     "start": 10.66,
+     "end": 11.62
+    },
+    {
+     "id": "w07-26",
+     "text": "Üçü",
+     "start": 11.7,
+     "end": 11.94
+    },
+    {
+     "id": "w07-27",
+     "text": "BİR",
+     "start": 11.98,
+     "end": 12.1
+    },
+    {
+     "id": "w07-28",
+     "text": "ARADAYSA",
+     "start": 12.18,
+     "end": 12.66
+    },
+    {
+     "id": "w07-29",
+     "text": "karar",
+     "start": 12.74,
+     "end": 13.06
+    },
+    {
+     "id": "w07-30",
+     "text": "iptal",
+     "start": 13.14,
+     "end": 13.46
+    },
+    {
+     "id": "w07-31",
+     "text": "edilir",
+     "start": 13.54,
+     "end": 13.86
+    },
+    {
+     "id": "w07-32",
+     "text": "—",
+     "start": 14.1,
+     "end": 14.127
+    },
+    {
+     "id": "w07-33",
+     "text": "ve",
+     "start": 14.153,
+     "end": 14.18
+    },
+    {
+     "id": "w07-34",
+     "text": "iptal,",
+     "start": 14.26,
+     "end": 14.82
+    },
+    {
+     "id": "w07-35",
+     "text": "VERİLDİĞİ",
+     "start": 14.9,
+     "end": 15.38
+    },
+    {
+     "id": "w07-36",
+     "text": "gün",
+     "start": 15.46,
+     "end": 15.54
+    },
+    {
+     "id": "w07-37",
+     "text": "yürürlüğe",
+     "start": 15.62,
+     "end": 16.02
+    },
+    {
+     "id": "w07-38",
+     "text": "girer.",
+     "start": 16.1,
+     "end": 16.66
+    }
+   ]
+  },
+  {
+   "frame": 8,
+   "path": "assets/voice/08.wav",
+   "duration_s": 10.28,
+   "words": [
+    {
+     "id": "w08-0",
+     "text": "İkinci",
+     "start": 0.04,
+     "end": 0.36
+    },
+    {
+     "id": "w08-1",
+     "text": "fıkra",
+     "start": 0.44,
+     "end": 0.68
+    },
+    {
+     "id": "w08-2",
+     "text": "farklı:",
+     "start": 0.76,
+     "end": 1.4
+    },
+    {
+     "id": "w08-3",
+     "text": "karara",
+     "start": 1.48,
+     "end": 1.88
+    },
+    {
+     "id": "w08-4",
+     "text": "esas",
+     "start": 1.96,
+     "end": 2.2
+    },
+    {
+     "id": "w08-5",
+     "text": "koşul",
+     "start": 2.28,
+     "end": 2.52
+    },
+    {
+     "id": "w08-6",
+     "text": "gerçekleşmezse",
+     "start": 2.64,
+     "end": 3.56
+    },
+    {
+     "id": "w08-7",
+     "text": "ya",
+     "start": 3.64,
+     "end": 3.8
+    },
+    {
+     "id": "w08-8",
+     "text": "da",
+     "start": 3.84,
+     "end": 3.88
+    },
+    {
+     "id": "w08-9",
+     "text": "yükümlülüğe",
+     "start": 3.96,
+     "end": 4.52
+    },
+    {
+     "id": "w08-10",
+     "text": "uyulmazsa,",
+     "start": 4.6,
+     "end": 5.32
+    },
+    {
+     "id": "w08-11",
+     "text": "karar",
+     "start": 5.48,
+     "end": 5.72
+    },
+    {
+     "id": "w08-12",
+     "text": "değiştirilir",
+     "start": 5.8,
+     "end": 6.52
+    },
+    {
+     "id": "w08-13",
+     "text": "veya",
+     "start": 6.6,
+     "end": 6.84
+    },
+    {
+     "id": "w08-14",
+     "text": "iptal",
+     "start": 6.92,
+     "end": 7.24
+    },
+    {
+     "id": "w08-15",
+     "text": "edilebilir.",
+     "start": 7.32,
+     "end": 8.04
+    },
+    {
+     "id": "w08-16",
+     "text": "Yürürlük",
+     "start": 8.12,
+     "end": 8.6
+    },
+    {
+     "id": "w08-17",
+     "text": "bu",
+     "start": 8.68,
+     "end": 8.76
+    },
+    {
+     "id": "w08-18",
+     "text": "kez",
+     "start": 8.84,
+     "end": 9.0
+    },
+    {
+     "id": "w08-19",
+     "text": "TEBLİĞ",
+     "start": 9.16,
+     "end": 9.56
+    },
+    {
+     "id": "w08-20",
+     "text": "günüdür.",
+     "start": 9.6,
+     "end": 10.2
+    }
+   ]
+  },
+  {
+   "frame": 9,
+   "path": "assets/voice/09.wav",
+   "duration_s": 7.5,
+   "words": [
+    {
+     "id": "w09-0",
+     "text": "Takvimde",
+     "start": 0.08,
+     "end": 0.56
+    },
+    {
+     "id": "w09-1",
+     "text": "iki",
+     "start": 0.64,
+     "end": 0.72
+    },
+    {
+     "id": "w09-2",
+     "text": "halka:",
+     "start": 0.8,
+     "end": 1.44
+    },
+    {
+     "id": "w09-3",
+     "text": "birinci",
+     "start": 1.52,
+     "end": 1.84
+    },
+    {
+     "id": "w09-4",
+     "text": "fıkra,",
+     "start": 1.92,
+     "end": 2.32
+    },
+    {
+     "id": "w09-5",
+     "text": "verildiği",
+     "start": 2.48,
+     "end": 2.96
+    },
+    {
+     "id": "w09-6",
+     "text": "gün;",
+     "start": 3.04,
+     "end": 3.44
+    },
+    {
+     "id": "w09-7",
+     "text": "ikinci",
+     "start": 3.52,
+     "end": 3.84
+    },
+    {
+     "id": "w09-8",
+     "text": "fıkra,",
+     "start": 3.92,
+     "end": 4.4
+    },
+    {
+     "id": "w09-9",
+     "text": "tebliğ",
+     "start": 4.48,
+     "end": 4.8
+    },
+    {
+     "id": "w09-10",
+     "text": "günü.",
+     "start": 4.88,
+     "end": 5.36
+    },
+    {
+     "id": "w09-11",
+     "text": "Sınavda",
+     "start": 5.44,
+     "end": 5.84
+    },
+    {
+     "id": "w09-12",
+     "text": "yerlerini",
+     "start": 5.92,
+     "end": 6.4
+    },
+    {
+     "id": "w09-13",
+     "text": "değiştirirler.",
+     "start": 6.44,
+     "end": 7.4
+    }
+   ]
+  },
+  {
+   "frame": 10,
+   "path": "assets/voice/10.wav",
+   "duration_s": 4.34,
+   "words": [
+    {
+     "id": "w10-0",
+     "text": "Gümrük",
+     "start": 0.1,
+     "end": 0.42
+    },
+    {
+     "id": "w10-1",
+     "text": "Koçu…",
+     "start": 0.46,
+     "end": 1.06
+    },
+    {
+     "id": "w10-2",
+     "text": "Ufuk",
+     "start": 1.14,
+     "end": 1.38
+    },
+    {
+     "id": "w10-3",
+     "text": "Çetintaş.",
+     "start": 1.46,
+     "end": 2.34
+    }
+   ]
+  }
+ ],
+ "sfx": []
+}
