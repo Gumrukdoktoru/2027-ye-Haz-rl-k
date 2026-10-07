@@ -1,0 +1,26 @@
+{
+ "baslik": "GMY Deneme Sınavı 3",
+ "bulunamayan": [
+  "2024/22 ve 2025/34: amortisman indirimi, kullanılmış otomobilin gümrük kıymeti (kaynak metin yok).",
+  "2024/36: 3351 sayılı İlave Gümrük Vergisi Kararı (metin yok).",
+  "2024/41: Genelleştirilmiş Tercihler Sistemi ve Form A (metin yok).",
+  "2025/42: Gümrük Genel Tebliği (Gümrük İşlemleri) Seri No 149, menşe ispat belgelerinin basımı (metin yok).",
+  "2024/49 ve 2025/68: beyanname rejim kodları (1040, 1023) (liste yok).",
+  "2024/98: 2009/15481 sayılı Karar Ek-9 kişisel eşya listesi (listenin kendisi yok, yalnız atıf var).",
+  "2022/65, 2024/26 ve 2025/32: usulsüzlük cezasının yıllık güncel tutarı (metinde yalnız 60 TL taban tutar ve yeniden değerleme kuralı var).",
+  "2023/30: Gümrük Yönetmeliği Ek-82 tablosu (yalnız atıf var).",
+  "2022/97: Dahilde İşleme Rejimi Kararının amaç maddesi (metin yok).",
+  "2021/71: gümrük beyannamesinin genel tanımı ve içeriği (metin yok).",
+  "2024/85: aynı fiil için farklı muhataplara kesilen idari para cezasının ayrı ayrı ödenmesi (açık hüküm yok; soru kurulmadı).",
+  "Güncel metinle uyuşmayan resmî cevaplar: 2021/86 (asgari ücret indirimi %25 iken güncel metinde %20) ve 2025/100 (resmî cevap 1 yıl; güncel metinde ön ve yerinde izleme 5 yılda bir)."
+ ],
+ "giremeyen": "GKAİR izin şartları ve süresi, NCTS, tasfiyede otuzar günlük intikal ve teslim süreleri, ayrı bir teminat sorusu, antrepoda gümrük müdürlüğü ↔ bölge müdürlüğü makam ayrımı ve iptal ↔ düzeltme ekseni 50 soruluk sete sığmadı.",
+ "uretim": [
+  "Set, kullanıcının 7 Ekim 2026 tarihli GMY Sınavı Mevzuat Sorusu Hazırlama Promptu'na (depoda Prompt 5) göre hazırlandı. Depo kuralları da uygulandı: tek bilgi kaynağı depodaki mevzuat metinleri; kökte mevzuat adı, hükmün konusu ve kurum kalıbı; 2009/15481 sayılı Karar kökü kalıbı; marka yalnızca Gümrük Koçu - Ufuk Çetintaş.",
+  "Her soru kaynak mevzuattan en az bir birebir alıntıyla kanıtlandı ve alıntıların tamamı kaynakta otomatik olarak arandı (50/50 bulundu). Doğru cevaplar ve kritik çeldiriciler ayrıca mevzuat metniyle elle karşılaştırıldı; savunulabilir görünen bir çeldirici (15. soru) aynı maddenin komşu tanımıyla değiştirildi.",
+  "Çıkmış soruların metni, şık yapısı ve kurgusu kopyalanmadı. 41 soru, en az bir çıkmış sorunun bilgi alanını farklı hükümle ya da farklı yönden yeniden ölçüyor. Üretim hafızasındaki önceki setlerin (Karar S1, GMY deneme 1 ve 2) çekirdekleri tekrar edilmedi.",
+  "Sayısal ve sıralı şıklar küçükten büyüğe dizildi; sayısal sorularda doğru değer B, C veya D şıkkında. Cevap harfleri dengeli: her harf 10 kez kullanıldı ve art arda aynı harf yok.",
+  "Set profili iki noktada prompt hedefinden ayrılıyor. Kilit cümlesi madde metninden birebir alınan soru oranı %82 (hedef %65–70), parafraz %8 (hedef %15–20). Savunulabilirlik için birebir kurgu korundu. Ayırt etme düzeyindeki soru sayısı (27) hatırlamadakinden (13) fazla; bunun nedeni sette 14 ikiz kavram ekseninin ve 2 ayna çiftin kullanılması.",
+  "Güncellik: 6 soru son 12 ayda değişen hükümlere dayanıyor (05.12.2025 – 04.07.2026). Değişiklik tarihleri gerekçelerde yazılı."
+ ]
+}

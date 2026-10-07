@@ -8,6 +8,7 @@ GM / GMY sınavlarına hazırlık için Word kaynaklarından **ders notu** ve **
 - `promptlar/prompt-2-ders-notu-motoru.md` — ders notu üretim kuralları (Prompt 2).
 - `promptlar/prompt-3-nihai-soru-hazirlama-kurallari.md` — kullanıcının nihai soru hazırlama kuralları (Prompt 3). Soru üretiminde Prompt 1 ile çelişirse **Prompt 3 geçerlidir** (çıkmış soruların bilgi alanları atlanmaz, kök = mevzuat adı + hükmün konusu + kurum kalıbı, önermeli en az 3 önerme, gerekçe sonunda (MD …), art arda aynı cevap harfi yok).
 - `promptlar/prompt-4-bakanlik-yazar-profili.md` — 2021–2025 çıkmış soruların tersine mühendisliğinden çıkan Bakanlık soru yazarı profili (yazarın hedefleri, çeldirici üretimi, ikiz kavram eksenleri). Soru üretiminde Prompt 3'ün üstüne uygulanır; çelişirse Prompt 3 geçerlidir. Tam rapor ve resmî cevap anahtarı: `gmy-ikmislar` deposu `analiz/`.
+- `promptlar/prompt-5-gmy-mevzuat-sorusu-hazirlama.md` — kullanıcının 7 Ekim 2026'da verdiği GMY Sınavı Mevzuat Sorusu Hazırlama Promptu (Prompt 3 ve Prompt 4'ün birleşik, genişletilmiş hâli). Kullanıcı bu promptla soru istediğinde eksiksiz uygulanır; ilk set: `sorular/GK_GMY_Deneme3_50soru` (üretim hattı `araclar/gmy-deneme3/`).
 - `sorular/` — üretilen soru setleri; `sorular/hafiza/URETIM-HAFIZASI.md` üretim hafızası.
 - `notlar/` — üretilen ders notları (Ders_Notu_{KONU}.docx).
 
