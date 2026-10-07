@@ -3,7 +3,7 @@
 Kapsam: 5 sınav × 100 soru. Envanter `cikmis_envanter.tsv` dosyasında: gümrük sorularının hepsi, 400 satır. KAYNAK_DOSYA sütunu, `metin/` altındaki dosyalarda düzenli ifadeyle (regex) arama yapılarak dolduruldu. Arama, sorunun ölçtüğü hükmün ayırt edici ifadesiyle yapıldı.
 
 > **Önemli uyarılar**
-> 1. "cevaplı" adlı 2021–2024 metinlerinde **cevap anahtarı yok**. PDF'teki işaretler metne aktarılmamış. CEVAP sütunundaki harfler, mevzuat metninden kontrol edilerek **tarafımdan türetildi**, resmî anahtar değildir. Doğrulanamayan veya mevzuatı sonradan değişen sorular aşağıda (g) bölümünde listelendi.
+> 1. CEVAP sütunu **resmî cevapları** gösterir (Ekim 2026 güncellemesi). Sınav PDF'lerinde doğru şıklar kırmızı basılmış; renk bilgisi karakter düzeyinde okundu. 2025 cevapları `gmy-ikmislar` deposundaki yanıt anahtarlı A kitapçığından B numaralarına eşlendi; A numarası `A_KITAPCIK_NO` sütununda. Ayrıntı ve eski türetilmiş cevaplarla farklar aşağıda (g) bölümünde.
 > 2. 2025 kitapçığında iki sütunlu sayfa düzeni yüzünden bazı sorular metinde iç içe geçmiş: 23/24, 35/37, 40/42, 52/53, 59/60, 62/63, 72/74/73. Bu sorular şıklar elle eşleştirilerek işlendi.
 > 3. 2022'de 7. ve 8. matematik soruları görselden oluştuğu için metinde boş.
 
@@ -94,7 +94,7 @@ Kökte en sık atıf yapılan mevzuat (80 soruluk gümrük bölümlerinin toplam
 - DİR (19) ve Geçici İthalat (18) her yıl sorulmuş.
 - Gümrük müşavirliği ve disiplin birlikte 26 soru.
 
-## (c) Kaynakta karşılığı bulunmayan ("YOK") bilgi alanları (16 soru)
+## (c) Kaynakta karşılığı bulunmayan ("YOK") bilgi alanları (14 soru)
 
 | Soru | Konu | Ölçülen bilgi |
 |---|---|---|
@@ -108,11 +108,9 @@ Kökte en sık atıf yapılan mevzuat (80 soruluk gümrük bölümlerinin toplam
 | 2024-36 | İlave Gümrük Vergisi | 3351 sayılı Karar: menşein doğru beyanından ithalatçı sorumludur; "sorumlu değildir" yanlış. |
 | 2024-41 | Menşe | Genelleştirilmiş Tercihler Sisteminde kullanılan menşe ispat belgesi Form A'dır. |
 | 2024-49 | İhracat | 1040 rejim kodu: muafiyete tabi olmadan serbest dolaşım ile eş zamanlı yurtiçi kullanıma giren eşyanın kesin ihracatı. |
-| 2024-57 | Transit | Transitteki serbest dolaşımdaki eşyada beyana aykırılıkta GK 241 usulsüzlük cezası uygulanır. |
-| 2024-88 | YGM | DR2 tespit raporu, gümrük idaresinin firmaya tebligatından itibaren en geç bir ay içinde sunulur (süre metinde yok). |
 | 2024-98 | Muafiyetler | 2009/15481 Ek-9 kişisel eşya listesinde alkol, parfüm, tütün limitleri; "100 adet puro" yanlış (limit 50). |
 | 2025-34 | Gümrük Kıymeti | Bedelsiz ithal edilen kullanılmış otomobilde fatura bedelinden amortisman indirimi uygulanarak gümrük kıymeti hesaplanır. |
-| 2025-42 | Menşe | Menşe ispat belgelerinin basım ve dağıtımı için TOBB ve TİM yetkilendirilmiştir (Seri No 149). |
+| 2025-42 | Menşe | Menşe ispat belgelerinin basım ve dağıtımı için TOBB, TESK ve TİM yetkilendirilmiştir (Seri No 149). |
 | 2025-68 | İhracat | İhraç edildiği şekli ile geri gelmek üzere geçici ihraç edilen eşyanın kesin ihracatı 1023 rejim kodudur. |
 
 **Eksik kaynak grupları**
@@ -122,13 +120,11 @@ Kökte en sık atıf yapılan mevzuat (80 soruluk gümrük bölümlerinin toplam
 - Amortisman indirimi (eski model taşıt kıymeti) iki yılda soruldu, metinde yok.
 - GTS / Form A tanımı yok.
 - Gümrük Genel Tebliği (Gümrük İşlemleri) Seri No 149 yok: menşe belgelerinin basımı (TOBB, TİM).
-- Transitte serbest dolaşımdaki eşyada beyana aykırılık cezası (GY 243 sonrası) yok.
-- YGM Rehberindeki rapor teslim süreleri (DR2) yok.
 - Genel ticaret ve dış ticaret belgeleri (proforma fatura, ithalatta tahsil edilen vergiler listesi: TRT bandrolü, MTV) yok.
 
 **Kısmi kaynaklar (dosya var ama içerik güncel değil)**
-- 51-disiplin: asgari ücret indirimi metinde %20 (30.12.2025 değişikliği). 2021 sorusu %30'a göre kurulu.
-- 21-TIR: güzergâh süresi metinde 120/168 saat. 2022 sorusundaki 144/192 saat seçenekleri eski düzenlemeye dayanıyor.
+- 51-disiplin: asgari ücret indirimi metinde %20 (30.12.2025 değişikliği). 2021 sorusunun resmî cevabı %25.
+- 21-TIR: güzergâh süresi metinde 120/168 saat; 2022-74'ün resmî cevabı da buna dayanıyor (144/192 saat, +24 saatlik çeldiriciler).
 - 48-cezalar: GK 241/1 cezasının yıllık TL tutarları metinde yok. Yalnızca 60 TL taban tutar ve yeniden değerleme kuralı var. 2022, 2024 ve 2025 tutar soruları bu kuralla hesaplandı: 2022 = 235 TL, 2024 = 828 TL, 2025 = 1.191 TL.
 
 ## (d) Birden fazla yıl sorulan bilgi noktaları (en sık 20)
@@ -263,13 +259,12 @@ Ek gözlemler:
   - Çeldirici terimler (Tesanütçülük, Gerçekçilik) ve "sesteş" kelimesi yok. Bunun yerine "eş seslilik" geçiyor.
   - Görsel matematik soruları (2022-7, 2022-8) metinden çıkarılamadığı için kontrol edilemedi.
 
-## (g) CEVAP sütunu için güvenilirlik notu
+## (g) CEVAP sütunu: resmî cevaplar
 
-Resmî anahtar olmadığından, şu sorulardaki türetilmiş cevaplar düşük güvenilirlikte. Bunlar ya mevzuattan doğrulanamadı ya da mevzuat sınavdan sonra değişti:
+CEVAP sütunu Ekim 2026'da resmî cevaplarla değiştirildi. Kaynak sınav PDF'lerindeki kırmızı işaretli şıklar. Yöntem ve tam anahtar `gmy-ikmislar` deposunda: `analiz/CEVAP-ANAHTARI.md` ve `araclar/kirmizi_cevap_cikar.py`.
 
-- 2021: 21-66, 21-71, 21-86 (tebliğ oranı değişti), 21-99
-- 2022: 22-65 (yeniden değerleme hesabı), 22-72, 22-74 (TIR süreleri değişti), 22-97
-- 2023: 23-30, 23-67, 23-74, 23-78, 23-80
-- 2024: 24-26 (hesap), 24-54, 24-60, 24-63, 24-88, 24-98, 24-99, 24-100
-
-Diğer cevaplar, kaynak dosyadaki hüküm metniyle tek tek karşılaştırıldı.
+- 2021–2024'te eski türetilmiş cevaplar 7 soruda resmî anahtardan farklıydı: 21-86 (B→A), 21-95 (C→E), 22-83 (E→D), 22-87 (D→B), 24-47 (B→C), 24-85 (D→B), 24-100 (D→A). Bu satırların notları da düzeltildi.
+- 2025'in 80 cevabı ilk kez eklendi. 2025-35/37 notlarının yer değiştirmesi ve 2025-42, 61, 86, 100 notları düzeltildi.
+- Mevzuatı sonradan değişen sorular: 21-86 (oran %25 → %20), 21-95 (Hazine ve Maliye Bakanlığı 18.01.2024'te çıkarıldı), 25-50 (VI sayılı liste başlığı), 25-76 (Karar 62, 2026 değişikliği). Bu sorularda resmî cevap sınav tarihindeki metne göredir.
+- Tartışmalı sorular (resmî cevap korunur): 22-83, 24-85, 24-100, 25-86, 25-100.
+- Soru yazarının tersine mühendisliği (400 sorunun her biri için hedef, çeldirici kaynağı, sonraki hamle): `gmy-ikmislar` deposu, `analiz/BAKANLIK-SORU-YAZARI-ANALIZI.md`.
