@@ -84,7 +84,7 @@ C) II ve IV
 D) I, III ve IV  
 E) I, II ve III  
 
-**9-** 4458 sayılı Gümrük Kanunu'na göre gümrük müşavir yardımcısı olabilmek için aranan öğrenim koşulunda, eğitim veren fakülte ve yüksek okullarından en az lisans seviyesinde mezun olunmasının yeterli sayıldığı dallar arasında aşağıdakilerden hangisi yer almaz?
+**9-** 4458 sayılı Gümrük Kanunu'na göre gümrük müşavir yardımcısı olabilmek için aranan öğrenim koşulunda, eğitim veren fakülte ve yüksek okullardan en az lisans seviyesinde mezun olunmasının yeterli sayıldığı dallar arasında aşağıdakilerden hangisi yer almaz?
 
 A) Endüstri mühendisliği  
 B) Bankacılık  
@@ -92,15 +92,13 @@ C) Kamu yönetimi
 D) Muhasebe  
 E) Dış ticaret  
 
-**10-** (T), gümrük idaresinde on yedi yıl çalışmış, bu sürenin dört yılını gümrük başmemuru olarak geçirmiş ve emekliye ayrılmıştır. (T), Kanunda gümrük müşavir yardımcılığı için sayılan staj ve sınav dışındaki koşulların tamamını taşımaktadır; staj yapmamış ve herhangi bir sınava girmemiştir.
+**10-** 4458 sayılı Gümrük Kanunu'na göre gümrük idaresinden istifa ederek veya emekli olarak ayrılan memurların sınav veya staj koşulu aranmaksızın gümrük müşavir yardımcısı ya da gümrük müşaviri olabilmesine ilişkin aşağıdakilerden hangisi doğrudur?
 
-4458 sayılı Gümrük Kanunu'na göre (T) hakkında aşağıdakilerden hangisi söylenebilir?  
-
-A) Sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır.  
-B) Sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilir.  
-C) Staj koşuluna tabi tutulmaksızın gümrük müşavirliği sınavına girebilir.  
-D) Talep etmesi hâlinde sınav ve staj koşulu aranmaksızın kendisine Gümrük Müşavirliği İzin Belgesi verilir.  
-E) Staj koşulu aranmaksızın gümrük müşavir yardımcılığı sınavına girebilir; ancak bu sınavda başarılı olmadan gümrük müşavir yardımcısı olamaz.  
+A) Gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük başmemuru olarak geçiren ve emekliye ayrılan memur, diğer koşulları taşıyorsa sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır.  
+B) Gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük başmemuru olarak geçiren ve emekliye ayrılan memur, diğer koşulları taşıyorsa sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilir.  
+C) Gümrük idaresinde en az on beş yıl çalışıp emekli olarak ayrılan memurlar, görevlerine bakılmaksızın sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilir.  
+D) Gümrük idaresinde on yıl çalışıp bunun üç yılını gümrük müdürü olarak geçirip ayrılanlara, talep hâlinde sınav ve staj koşulu aranmaksızın Gümrük Müşavirliği İzin Belgesi verilir.  
+E) Gümrük idaresinde on yıl çalışıp bunun üç yılını şube müdürü olarak geçirip ayrılanlar, sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır.  
 
 **11-** 4458 sayılı Gümrük Kanunu'na göre gümrük idaresinde gümrük başmüdürü, gümrük muhafaza başmüdürü, gümrük uzmanı, kontrolör, gümrük müfettişi, daire başkanı ve daha üst görevlerde en az kaç yıl çalışmış olup görevlerinden istifa eden veya emekliye ayrılanlar, gümrük müşavir yardımcılığı için aranan koşulları taşımaları hâlinde sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır?
 
@@ -126,29 +124,21 @@ C) Sınav sonucunun adaya yazı ile tebliğ edildiği tarihten itibaren on gün 
 D) Sınav sonucunun duyurulduğu tarihten itibaren on gün içinde ilgili gümrük müşavirleri derneğine başvurularak itiraz edilebilir; itirazlar otuz gün içinde değerlendirilerek sonucu adaylara yazı ile tebliğ edilir.  
 E) Sınav sonucunun duyurulduğu tarihten itibaren on gün içinde Bakanlığa başvurularak itiraz edilebilir; itirazlar altmış gün içinde değerlendirilerek sonucu adaylara yazı ile tebliğ edilir.  
 
-**14-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre gümrük müşavirliğinin tüzel kişilik oluşturularak yürütülmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**14-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre gümrük müşavirliğinin tüzel kişilik oluşturularak yürütülmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Tüzel kişilik ortağı olan gümrük müşavirleri, ayrıca gerçek kişi olarak da mesleki faaliyette bulunabilir.  
-II. Gümrük müşavirlerince kurulan tüzel kişiliklere müşavir yardımcıları da ortak olabilir; gümrük müşavir ve müşavir yardımcıları dışındaki kişiler ise gümrük müşavirliği yapacak olan tüzel kişilere ortak olamaz.  
-III. Gümrük müşavirlerince kurulan tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmeleri için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir.  
-IV. Tüzel kişiliği temsil ve ilzam etmek üzere atanan şirket ortağı dışındaki üçüncü kişilere de sınırsız temsil yetkisi verilebilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+A) Gümrük müşavirlerince kurulan tüzel kişiliklere müşavir yardımcıları da ortak olabilir.  
+B) Gümrük müşavir ve müşavir yardımcıları dışındaki kişiler, gümrük müşavirliği yapacak olan tüzel kişilere ortak olamaz.  
+C) Gümrük müşavirlerince kurulan tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmeleri için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir.  
+D) Tüzel kişilik ortağı olan gümrük müşavirleri, ayrıca gerçek kişi olarak da mesleki faaliyette bulunabilir.  
+E) Tüzel kişiliği temsil ve ilzam etmek üzere atanan şirket ortağı dışındaki üçüncü kişilere ancak sınırlandırılmış temsil yetkisi verilebilir.  
 
-A) I ve II  
-B) III ve IV  
-C) II, III ve IV  
-D) II ve III  
-E) I, II ve III  
+**15-** 4458 sayılı Gümrük Kanunu'na göre gümrük müşavirliğinin bir tüzel kişilik olması hâlinde, gümrük beyannamesini imzalayan kişinin vergi kaybına neden olan durumu bildiği veya bilmesi gerektiği hâllerde gümrük idaresine karşı sorumluluk aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-**15-** (X) Gümrük Müşavirliği Limited Şirketinin ortağı olan gümrük müşaviri (M), şirketin dolaylı temsil yoluyla takip ettiği bir ithalat işlemine ait gümrük beyannamesini imzalamıştır. Sonradan yapılan kontrolde beyanda vergi kaybına neden olan bir durum bulunduğu ve (M)'nin bu durumu bildiği tespit edilmiştir.
-
-4458 sayılı Gümrük Kanunu'na göre bu olayda gümrük idaresine karşı sorumluluğa ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Beyanname şirketin işlemi olarak imzalandığından vergiler ve para cezaları yönünden yalnızca (X) şirketi sorumludur.  
-B) (M) ile (X) şirketi, gümrük idaresince alınan vergiler ve verilen para cezaları yönünden müteselsilen sorumludur; (M)'nin kişisel cezai sorumluluğu ise saklıdır.  
-C) (M) ile (X) şirketi yalnızca vergiler yönünden müteselsilen sorumludur; para cezalarından yalnızca (M) sorumludur.  
-D) (M) ile (X) şirketi müteselsilen sorumlu olduğundan (M)'nin kişisel cezai sorumluluğu ortadan kalkar.  
-E) Beyannameyi imzalayan gümrük müşaviri beyandaki bilgilerin doğruluğundan sorumlu olduğundan yalnızca (M) sorumludur; (X) şirketi sorumlu tutulamaz.  
+A) Beyanname tüzel kişiliğin işlemi olarak imzalandığından vergiler ve para cezaları yönünden yalnızca tüzel kişilik sorumludur.  
+B) İmzalayan kişi ile tüzel kişilik, vergiler ve para cezaları yönünden müteselsilen sorumludur; ilgili gümrük müşavirinin kişisel cezai sorumluluğu saklıdır.  
+C) İmzalayan kişi ile tüzel kişilik yalnızca alınan vergiler yönünden müteselsilen sorumludur; para cezalarından yalnızca imzalayan kişi sorumludur.  
+D) İmzalayan kişi ile tüzel kişilik müteselsilen sorumlu olduğundan ilgili gümrük müşavirinin kişisel cezai sorumluluğu ortadan kalkar.  
+E) Beyandaki bilgilerin doğruluğundan imzalayan gümrük müşaviri sorumlu olduğundan yalnızca imzalayan kişi sorumludur; tüzel kişilik sorumlu tutulamaz.  
 
 **16-** Gümrük Yönetmeliği'ne göre gümrük müşavirlerinin hizmet karşılığı düzenlenecek belgeler, izin belgeleri ve sır saklama yükümlülüğüne ilişkin aşağıdakilerden hangisi doğrudur?
 
@@ -198,7 +188,7 @@ E) Onaylanan gerçek veya tüzel kişi genel bilgilerinin değişmesi üzerine g
 
 ### Çözümler
 
-*4458 sayılı Gümrük Kanunu md. 5*
+*4458 sayılı Gümrük Kanunu md. 5, 225*
 
 **1-** 4458 sayılı Gümrük Kanunu'na göre dolaylı temsil durumunda temsilcinin hareket biçimi aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
@@ -228,7 +218,7 @@ D) I, III ve IV
 E) I, II, III ve IV  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre kara, deniz ve havayolu işletmeleri ile nakliyeci kuruluş temsilcileri, taşıdıkları eşyanın sadece transit işlemlerini doğrudan temsil yoluyla takip edebilir (I doğru). Özel hukuk tüzel kişilerinin doğrudan temsil yoluyla iş takibi yapacak personelinde, gümrük müşavir yardımcılığı koşullarından yalnızca staj (bir gümrük müşavirinin yanında bir yıl çalışmış olmak) ve sınav koşulları dışındakiler aranır; yani staj ve sınav aranmaz (II yanlış). Devlet, belediye ve özel idarelerle diğer kamu tüzel kişilerinin memurları idare ve müesseselerine ait eşyanın gümrük işlemlerini takibe yetkilidir ve beyanname ile diğer belgelerde imzalarının yanına kuruluş unvanını eklemek zorundadır (III doğru). Doğrudan temsil yoluyla iş takibi yapacak kişilerin BİLGE kullanıcı kodu taleplerinde sigorta primleri bordrosu, temsil belgesi ve Ticaret Sicil Tasdiknamesi gibi belgeler aranır; belgeler ibraz edilmez veya eksik ibraz edilirse kullanıcı kodu verilmez veya bloke konulur (IV doğru). En güçlü çeldirici II'dir: Kanun bu personelde gümrük müşavir yardımcılığı koşullarını arar, ancak staj ve sınav koşullarını açıkça dışarıda bırakır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 225, 227; GY 561)
+**Gerekçe:** Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre kara, deniz ve havayolu işletmeleri ile nakliyeci kuruluş temsilcileri, taşıdıkları eşyanın sadece transit işlemlerini doğrudan temsil yoluyla takip edebilir (I doğru). Özel hukuk tüzel kişilerinin doğrudan temsil yoluyla iş takibi yapacak personelinde, gümrük müşavir yardımcılığı koşullarından yalnızca staj (bir gümrük müşavirinin yanında bir yıl çalışmış olmak) ve sınav koşulları dışındakiler aranır; yani staj ve sınav aranmaz (II yanlış). Devlet, belediye ve özel idarelerle diğer kamu tüzel kişilerinin memurları idare ve müesseselerine ait eşyanın gümrük işlemlerini takibe yetkilidir ve beyanname ile diğer belgelerde imzalarının yanına kuruluş unvanını eklemek zorundadır (III doğru). Doğrudan temsil yoluyla iş takibi yapacak kişilerin BİLGE kullanıcı kodu taleplerinde sigorta primleri bordrosu, temsil belgesi ve Ticaret Sicil Tasdiknamesi gibi belgeler aranır; belgeler ibraz edilmez veya eksik ibraz edilirse kullanıcı kodu verilmez veya bloke konulur (IV doğru). En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: Kanun bu personelde gümrük müşavir yardımcılığı koşullarını arar, ancak staj ve sınav koşullarını açıkça dışarıda bırakır; bunu atlayan aday II'yi de doğru sayar. Bu nedenle doğru cevap D seçeneğidir. (MD GK 225, 227; GY 561)
 
 *4458 sayılı Gümrük Kanunu md. 225; Gümrük Yönetmeliği md. 561, 563*
 
@@ -282,7 +272,7 @@ D) Tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numara
 E) Gümrük müşavirliği hizmeti karşılığında ödenecek ücret  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre dolaylı temsil yoluyla iş takibini eşya sahibince verilmiş noter tasdikli vekaletnameyi haiz gümrük müşavirleri yapar ve vekaletnamelerde en az şu hususlara yer verilir: tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları; yapılacak işlerin amacı, kapsamı; tarafların Kanunda yer alanlara ilaveten belirlemeleri gereken karşılıklı sorumluluk ve yükümlülükleri; vekaletname yeri, tarihi ve varsa süresi; temsilin türü. Hizmet karşılığında ödenecek ücret bu asgari unsurlar arasında sayılmamıştır. Sahada her sözleşmede bulunması mantıklı görünen ücret, listeye sağduyuyla eklenmiş yabancı unsurdur. En güçlü çeldirici 'temsilin türü'dür: aday bunu temsilcinin gümrük idaresine karşı beyan yükümlülüğü sanıp vekaletname unsuru olmadığını düşünebilir; oysa temsilin türü listenin son unsurudur. Bu nedenle doğru cevap E seçeneğidir. (MD GY 561)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre dolaylı temsil yoluyla iş takibini eşya sahibince verilmiş noter tasdikli vekaletnameyi haiz gümrük müşavirleri yapar ve vekaletnamelerde en az şu hususlara yer verilir: tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları; yapılacak işlerin amacı, kapsamı; tarafların Kanunda yer alanlara ilaveten belirlemeleri gereken karşılıklı sorumluluk ve yükümlülükleri; vekaletname yeri, tarihi ve varsa süresi; temsilin türü. Hizmet karşılığında ödenecek ücret bu asgari unsurlar arasında sayılmamıştır. Uygulamada her sözleşmede bulunması mantıklı görünen ücret, listeye sağduyuyla eklenmiş yabancı unsurdur. En güçlü çeldirici 'temsilin türü'dür: aday bunu temsilcinin gümrük idaresine karşı beyan yükümlülüğü sanıp vekaletname unsuru olmadığını düşünebilir; oysa temsilin türü listenin son unsurudur. Bu nedenle doğru cevap E seçeneğidir. (MD GY 561)
 
 *4458 sayılı Gümrük Kanunu md. 226; Gümrük Yönetmeliği md. 561*
 
@@ -314,11 +304,11 @@ D) I, III ve IV
 E) I, II ve III  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Kanunu'na göre stajyerler gümrük idarelerinde iş takibi yapamaz (I doğru). Aynı maddeye göre gümrük müşavir yardımcılarının gümrüklerde iş takibine ilişkin sınırlandırmalar yapmaya gümrük ve muhafaza başmüdürlükleri değil, Gümrük Müsteşarlığı yetkilidir (II yanlış). Gümrük Yönetmeliği'ne göre stajyerlik ve gümrük müşavir yardımcılığı için gerekli bir ve iki yıllık sürelerin hesaplanmasında sigortalı olarak işe başlama tarihi ve sigortalı olarak çalışılan süre dikkate alınır; sürenin başlangıcı fiilî işe başlama değil, sigortalı işe başlama tarihidir (III doğru). Gümrük müşavirleri ayrılan yardımcı ve stajyerler için ilişik kesme belgesi düzenler ve yanlarında çalışmaya başlayacaklardan bu belgeyi arar; ancak ilk defa göreve başlayacak gümrük müşavir yardımcıları ve stajyerler bu hükmün dışındadır (IV yanlış). En güçlü çeldirici II'dir: başmüdürlükler yardımcı ve stajyer bildirimlerinin gönderildiği makamdır, sınırlandırma yetkisi ise merkezdedir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 226; GY 563)
+**Gerekçe:** Gümrük Kanunu'na göre stajyerler gümrük idarelerinde iş takibi yapamaz (I doğru). Aynı maddeye göre gümrük müşavir yardımcılarının gümrüklerde iş takibine ilişkin sınırlandırmalar yapmaya gümrük ve muhafaza başmüdürlükleri değil, Gümrük Müsteşarlığı yetkilidir (II yanlış). Gümrük Yönetmeliği'ne göre stajyerlik ve gümrük müşavir yardımcılığı için gerekli bir ve iki yıllık sürelerin hesaplanmasında sigortalı olarak işe başlama tarihi ve sigortalı olarak çalışılan süre dikkate alınır; sürenin başlangıcı fiilî işe başlama değil, sigortalı işe başlama tarihidir (III doğru). Gümrük müşavirleri ayrılan yardımcı ve stajyerler için ilişik kesme belgesi düzenler ve yanlarında çalışmaya başlayacaklardan bu belgeyi arar; ancak ilk defa göreve başlayacak gümrük müşavir yardımcıları ve stajyerler bu hükmün dışındadır (IV yanlış). En güçlü çeldirici 'I, II ve III' seçeneğidir: başmüdürlükler yardımcı ve stajyer bildirimlerinin gönderildiği makamdır, sınırlandırma yetkisi ise merkezdedir; bunu karıştıran aday II'yi de doğru sayar. Bu nedenle doğru cevap B seçeneğidir. (MD GK 226; GY 563)
 
 *4458 sayılı Gümrük Kanunu md. 227*
 
-**9-** 4458 sayılı Gümrük Kanunu'na göre gümrük müşavir yardımcısı olabilmek için aranan öğrenim koşulunda, eğitim veren fakülte ve yüksek okullarından en az lisans seviyesinde mezun olunmasının yeterli sayıldığı dallar arasında aşağıdakilerden hangisi yer almaz?
+**9-** 4458 sayılı Gümrük Kanunu'na göre gümrük müşavir yardımcısı olabilmek için aranan öğrenim koşulunda, eğitim veren fakülte ve yüksek okullardan en az lisans seviyesinde mezun olunmasının yeterli sayıldığı dallar arasında aşağıdakilerden hangisi yer almaz?
 
 A) Endüstri mühendisliği  
 B) Bankacılık  
@@ -331,20 +321,18 @@ E) Dış ticaret
 
 *4458 sayılı Gümrük Kanunu md. 227, 228*
 
-**10-** (T), gümrük idaresinde on yedi yıl çalışmış, bu sürenin dört yılını gümrük başmemuru olarak geçirmiş ve emekliye ayrılmıştır. (T), Kanunda gümrük müşavir yardımcılığı için sayılan staj ve sınav dışındaki koşulların tamamını taşımaktadır; staj yapmamış ve herhangi bir sınava girmemiştir.
+**10-** 4458 sayılı Gümrük Kanunu'na göre gümrük idaresinden istifa ederek veya emekli olarak ayrılan memurların sınav veya staj koşulu aranmaksızın gümrük müşavir yardımcısı ya da gümrük müşaviri olabilmesine ilişkin aşağıdakilerden hangisi doğrudur?
 
-4458 sayılı Gümrük Kanunu'na göre (T) hakkında aşağıdakilerden hangisi söylenebilir?  
-
-A) Sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır.  
-B) Sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilir.  
-C) Staj koşuluna tabi tutulmaksızın gümrük müşavirliği sınavına girebilir.  
-D) Talep etmesi hâlinde sınav ve staj koşulu aranmaksızın kendisine Gümrük Müşavirliği İzin Belgesi verilir.  
-E) Staj koşulu aranmaksızın gümrük müşavir yardımcılığı sınavına girebilir; ancak bu sınavda başarılı olmadan gümrük müşavir yardımcısı olamaz.  
+A) Gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük başmemuru olarak geçiren ve emekliye ayrılan memur, diğer koşulları taşıyorsa sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır.  
+B) Gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük başmemuru olarak geçiren ve emekliye ayrılan memur, diğer koşulları taşıyorsa sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilir.  
+C) Gümrük idaresinde en az on beş yıl çalışıp emekli olarak ayrılan memurlar, görevlerine bakılmaksızın sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilir.  
+D) Gümrük idaresinde on yıl çalışıp bunun üç yılını gümrük müdürü olarak geçirip ayrılanlara, talep hâlinde sınav ve staj koşulu aranmaksızın Gümrük Müşavirliği İzin Belgesi verilir.  
+E) Gümrük idaresinde on yıl çalışıp bunun üç yılını şube müdürü olarak geçirip ayrılanlar, sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Kanunu'na göre gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük muayene memuru, gümrük başmemuru ve gümrük müdür yardımcısı görevlerinde geçirenlerden görevinden istifa eden veya emekliye ayrılan ve diğer koşulları taşıyanlar, sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilir. (T) on yedi yıl çalışmış, dört yılını başmemur olarak geçirmiş ve emekli olmuştur; bu nedenle doğrudan bu imkândan yararlanır. Olayda saklanan nokta, (T)'nin görevinin gümrük müşavirliği yolunu açan görevlerden olmamasıdır: Staj koşuluna tabi tutulmadan gümrük müşavirliği sınavına girme ve talep hâlinde Gümrük Müşavir Yardımcısı İzin Belgesi alma, on yılın üç yılını şube müdürü, gümrük müdürü gibi görevlerde geçirenlere; sınav ve staj koşulu olmadan gümrük müşaviri olma ise gümrük başmüdürü, gümrük uzmanı, kontrolör, gümrük müfettişi, daire başkanı ve üst görevlerde en az on yıl çalışanlara tanınmıştır. En güçlü çeldirici son seçenektir: en az on beş yıl çalışanların staj aranmaksızın sınava girebileceği doğrudur, ancak üç yılı başmemurlukta geçen (T) için sınav da aranmaz. Bu nedenle doğru cevap B seçeneğidir. (MD GK 227, 228)
+**Gerekçe:** Gümrük Kanunu'na göre gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük muayene memuru, gümrük başmemuru ve gümrük müdür yardımcısı görevlerinde geçirenlerden görevinden istifa eden veya emekliye ayrılan ve diğer koşulları taşıyanlar, sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilir; üç yılını başmemur olarak geçiren emekli memur bu kapsamdadır. Bu kişiler gümrük müşaviri olmaya hak kazanmaz: sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olma hakkı, gümrük başmüdürü, gümrük muhafaza başmüdürü, gümrük uzmanı, kontrolör, gümrük müfettişi, daire başkanı ve daha üst görevlerde en az on yıl çalışanlara tanınmıştır. Görevine bakılmaksızın en az on beş yıl çalışıp ayrılan memurlar yalnızca staj koşulu aranmaksızın gümrük müşavir yardımcısı sınavına girebilir; sınav koşulu kalkmaz. On yıl çalışıp bunun üç yılını şube müdürü, gümrük müdürü, gümrük muhafaza müdürü, gümrük başmüdür yardımcısı ve gümrük muhafaza başmüdür yardımcısı görevlerinde geçirenler ise staj koşuluna tabi tutulmaksızın gümrük müşavirliği sınavına girebilir; bu kişilere talep hâlinde sınav ve staj koşulu aranmaksızın verilen belge Gümrük Müşavirliği İzin Belgesi değil, Gümrük Müşavir Yardımcısı İzin Belgesidir. En güçlü çeldirici, üç yılı başmemurlukta geçen memura gümrük müşavirliği hakkı tanıyan seçenektir: başmemurluk, sınavsız gümrük müşavirliği yolunu açan görevler arasında sayılmamıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 227, 228)
 
-*4458 sayılı Gümrük Kanunu md. 228*
+*4458 sayılı Gümrük Kanunu md. 227, 228*
 
 **11-** 4458 sayılı Gümrük Kanunu'na göre gümrük idaresinde gümrük başmüdürü, gümrük muhafaza başmüdürü, gümrük uzmanı, kontrolör, gümrük müfettişi, daire başkanı ve daha üst görevlerde en az kaç yıl çalışmış olup görevlerinden istifa eden veya emekliye ayrılanlar, gümrük müşavir yardımcılığı için aranan koşulları taşımaları hâlinde sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır?
 
@@ -357,7 +345,7 @@ E) On beş
 **Doğru Cevap:** D  
 **Gerekçe:** Gümrük Kanunu'na göre gümrük idaresinde gümrük başmüdürü, gümrük muhafaza başmüdürü, gümrük uzmanı, kontrolör, gümrük müfettişi, daire başkanı ve daha üst görevlerde en az on yıl çalışmış olanlardan görevlerinden istifa eden veya emekliye ayrılanlar, gümrük müşavir yardımcılığı koşullarını taşımaları hâlinde sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanır. En güçlü çeldirici üç yıldır: on yıl çalışıp bunun üç yılını şube müdürü, gümrük müdürü gibi görevlerde geçirenler yalnızca staj koşulu olmadan gümrük müşavirliği sınavına girebilir. On beş yıl gümrük müşavir yardımcılığına ilişkin sınavsız ve stajsız geçiş süresi, iki yıl gümrük müşavirliği için gereken gümrük müşavir yardımcılığı süresi, bir yıl ise gümrük müşavir yardımcılığı için staj süresidir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 227, 228)
 
-*4458 sayılı Gümrük Kanunu md. 228*
+*4458 sayılı Gümrük Kanunu md. 227, 228*
 
 **12-** 4458 sayılı Gümrük Kanunu'na göre gümrük müşavirliği yapmaya hak kazanma koşullarını yerine getirenlere Gümrük Müşavirliği İzin Belgesinin verilmesine ilişkin süre aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
@@ -381,41 +369,33 @@ D) Sınav sonucunun duyurulduğu tarihten itibaren on gün içinde ilgili gümr�
 E) Sınav sonucunun duyurulduğu tarihten itibaren on gün içinde Bakanlığa başvurularak itiraz edilebilir; itirazlar altmış gün içinde değerlendirilerek sonucu adaylara yazı ile tebliğ edilir.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük müşavirliği ve gümrük müşavir yardımcılığı sınav sonuçları Bakanlığın kurumsal internet sayfasından duyurulur. Sınav sonucunun duyurulduğu tarihten itibaren on gün içinde Bakanlığa başvurularak sonuçlara itiraz edilebilir; itirazlar otuz gün içinde değerlendirilerek sonucu adaylara yazı ile tebliğ edilir. İtiraz süresi sonucun adaya tebliğiyle değil, internet sayfasında duyurulmasıyla başlar; yazılı tebliğ yalnızca itirazın sonucu için öngörülmüştür. En güçlü çeldirici bu başlangıç anını değiştiren seçenektir. On ve otuz günün yer değiştirilmesi, başvurunun dernek aracılığıyla yapılması ve altmış günlük değerlendirme süresi metinde bu itiraza ait değildir; dernek izin belgesi başvurularının, altmış gün ise izin belgesinin verilme süresinin yeridir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 571)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük müşavirliği ve gümrük müşavir yardımcılığı sınav sonuçları Bakanlığın kurumsal internet sayfasından duyurulur. Sınav sonucunun duyurulduğu tarihten itibaren on gün içinde Bakanlığa başvurularak sonuçlara itiraz edilebilir; itirazlar otuz gün içinde değerlendirilerek sonucu adaylara yazı ile tebliğ edilir. İtiraz süresi sonucun adaya tebliğiyle değil, internet sayfasında duyurulmasıyla başlar; yazılı tebliğ yalnızca itirazın sonucu için öngörülmüştür. En güçlü çeldirici bu başlangıç anını değiştiren seçenektir. On ve otuz günün yer değiştirilmesi, başvurunun dernek aracılığıyla yapılması ve altmış günlük değerlendirme süresi metinde bu itiraza ait değildir; dernek, izin belgesi başvurularının yapıldığı yerdir; altmış gün ise izin belgesinin verilme süresidir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 571)
 
 *4458 sayılı Gümrük Kanunu md. 229; Gümrük Yönetmeliği md. 563*
 
-**14-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre gümrük müşavirliğinin tüzel kişilik oluşturularak yürütülmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**14-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre gümrük müşavirliğinin tüzel kişilik oluşturularak yürütülmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Tüzel kişilik ortağı olan gümrük müşavirleri, ayrıca gerçek kişi olarak da mesleki faaliyette bulunabilir.  
-II. Gümrük müşavirlerince kurulan tüzel kişiliklere müşavir yardımcıları da ortak olabilir; gümrük müşavir ve müşavir yardımcıları dışındaki kişiler ise gümrük müşavirliği yapacak olan tüzel kişilere ortak olamaz.  
-III. Gümrük müşavirlerince kurulan tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmeleri için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir.  
-IV. Tüzel kişiliği temsil ve ilzam etmek üzere atanan şirket ortağı dışındaki üçüncü kişilere de sınırsız temsil yetkisi verilebilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) III ve IV  
-C) II, III ve IV  
-D) II ve III  
-E) I, II ve III  
+A) Gümrük müşavirlerince kurulan tüzel kişiliklere müşavir yardımcıları da ortak olabilir.  
+B) Gümrük müşavir ve müşavir yardımcıları dışındaki kişiler, gümrük müşavirliği yapacak olan tüzel kişilere ortak olamaz.  
+C) Gümrük müşavirlerince kurulan tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmeleri için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir.  
+D) Tüzel kişilik ortağı olan gümrük müşavirleri, ayrıca gerçek kişi olarak da mesleki faaliyette bulunabilir.  
+E) Tüzel kişiliği temsil ve ilzam etmek üzere atanan şirket ortağı dışındaki üçüncü kişilere ancak sınırlandırılmış temsil yetkisi verilebilir.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük müşavirleri mesleki faaliyetlerini gerçek kişi olarak veya tüzel kişilik oluşturarak sürdürebilir; ancak tüzel kişilik ortağı olan gümrük müşavirleri gerçek kişi olarak mesleki faaliyette bulunamaz (I yanlış). Gümrük müşavirlerince kurulan tüzel kişiliklere müşavir yardımcıları da ortak olabilir; gümrük müşavir ve müşavir yardımcıları dışındaki kişiler gümrük müşavirliği yapacak olan tüzel kişilere ortak olamaz (II doğru). Yönetmeliğe göre bu tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmesi için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir (III doğru). Tüzel kişiliği temsil ve ilzam etmek üzere atanan şirket ortağı dışındaki üçüncü kişilere ancak sınırlandırılmış temsil yetkisi verilebilir (IV yanlış). En güçlü çeldirici I'dir: Yönetmelik iki çalışma biçimini de tanır, fakat ikisinin aynı anda kullanılmasını yasaklar. Bu nedenle doğru cevap D seçeneğidir. (MD GK 229; GY 563)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük müşavirleri mesleki faaliyetlerini gerçek kişi olarak veya tüzel kişilik oluşturarak sürdürebilir; ancak tüzel kişilik ortağı olan gümrük müşavirleri gerçek kişi olarak mesleki faaliyette bulunamaz. Yanlış ifade bu yasağı tersine çevirmiştir. Diğer ifadeler doğrudur: Kanun ve Yönetmeliğe göre gümrük müşavirlerince kurulan tüzel kişiliklere müşavir yardımcıları da ortak olabilir; gümrük müşavir ve müşavir yardımcıları dışındaki kişiler gümrük müşavirliği yapacak olan tüzel kişilere ortak olamaz. Bu tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmesi için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir; tüzel kişiliği temsil ve ilzam etmek üzere atanan şirket ortağı dışındaki üçüncü kişilere ise ancak sınırlandırılmış temsil yetkisi verilebilir. En güçlü tuzak, Yönetmeliğin iki çalışma biçimini de tanımasıdır: gerçek kişi olarak ya da tüzel kişilik oluşturarak çalışma seçenek olarak sayılmış, ancak tüzel kişilik ortağının ayrıca gerçek kişi olarak çalışması yasaklanmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 229; GY 563)
 
 *4458 sayılı Gümrük Kanunu md. 229; Gümrük Yönetmeliği md. 563*
 
-**15-** (X) Gümrük Müşavirliği Limited Şirketinin ortağı olan gümrük müşaviri (M), şirketin dolaylı temsil yoluyla takip ettiği bir ithalat işlemine ait gümrük beyannamesini imzalamıştır. Sonradan yapılan kontrolde beyanda vergi kaybına neden olan bir durum bulunduğu ve (M)'nin bu durumu bildiği tespit edilmiştir.
+**15-** 4458 sayılı Gümrük Kanunu'na göre gümrük müşavirliğinin bir tüzel kişilik olması hâlinde, gümrük beyannamesini imzalayan kişinin vergi kaybına neden olan durumu bildiği veya bilmesi gerektiği hâllerde gümrük idaresine karşı sorumluluk aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-4458 sayılı Gümrük Kanunu'na göre bu olayda gümrük idaresine karşı sorumluluğa ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Beyanname şirketin işlemi olarak imzalandığından vergiler ve para cezaları yönünden yalnızca (X) şirketi sorumludur.  
-B) (M) ile (X) şirketi, gümrük idaresince alınan vergiler ve verilen para cezaları yönünden müteselsilen sorumludur; (M)'nin kişisel cezai sorumluluğu ise saklıdır.  
-C) (M) ile (X) şirketi yalnızca vergiler yönünden müteselsilen sorumludur; para cezalarından yalnızca (M) sorumludur.  
-D) (M) ile (X) şirketi müteselsilen sorumlu olduğundan (M)'nin kişisel cezai sorumluluğu ortadan kalkar.  
-E) Beyannameyi imzalayan gümrük müşaviri beyandaki bilgilerin doğruluğundan sorumlu olduğundan yalnızca (M) sorumludur; (X) şirketi sorumlu tutulamaz.  
+A) Beyanname tüzel kişiliğin işlemi olarak imzalandığından vergiler ve para cezaları yönünden yalnızca tüzel kişilik sorumludur.  
+B) İmzalayan kişi ile tüzel kişilik, vergiler ve para cezaları yönünden müteselsilen sorumludur; ilgili gümrük müşavirinin kişisel cezai sorumluluğu saklıdır.  
+C) İmzalayan kişi ile tüzel kişilik yalnızca alınan vergiler yönünden müteselsilen sorumludur; para cezalarından yalnızca imzalayan kişi sorumludur.  
+D) İmzalayan kişi ile tüzel kişilik müteselsilen sorumlu olduğundan ilgili gümrük müşavirinin kişisel cezai sorumluluğu ortadan kalkar.  
+E) Beyandaki bilgilerin doğruluğundan imzalayan gümrük müşaviri sorumlu olduğundan yalnızca imzalayan kişi sorumludur; tüzel kişilik sorumlu tutulamaz.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Kanunu'na göre gümrük müşavirliğinin bir tüzel kişilik olması hâlinde, gümrük beyannamesi veya beyanname kabul edilen diğer belgeler üzerine imzasını atmış olanlar, vergi kaybına neden olan durumu bildikleri veya bilmeleri gerektiği hâllerde gümrük idaresine karşı bağlı bulundukları tüzel kişilikle birlikte müteselsilen sorumlu olur. Bu hâllerde ilgili gümrük müşavirinin kişisel cezai sorumluluğu saklı kalmak kaydıyla, işlemi yapan kişi ile birlikte tüzel kişilik de gümrük idaresince alınan vergiler ve verilen para cezaları yönünden müteselsilen sorumludur. Olayda (M) beyannameyi imzalamış ve vergi kaybına neden olan durumu bilmektedir; sorumluluk hem (M)'yi hem şirketi kapsar ve hem vergilere hem para cezalarına uzanır. Bu müteselsil sorumluluk, gümrük müşavirliği tüzel kişiliği ile beyannameyi imzalayan kişi arasındaki ilişkiye özgü bir Kanun hükmüdür. En güçlü çeldirici, para cezalarını müteselsil sorumluluğun dışında tutan seçenektir; Kanun vergiler ile para cezalarını birlikte saymıştır. Yönetmelikteki imzalayan müşavirin beyandaki bilgilerin doğruluğundan sorumlu olduğu hükmü de tüzel kişiliğin sorumluluğunu ortadan kaldırmaz. Bu nedenle doğru cevap B seçeneğidir. (MD GK 229; GY 563)
+**Gerekçe:** Gümrük Kanunu'na göre gümrük müşavirliğinin bir tüzel kişilik olması hâlinde, gümrük beyannamesi veya beyanname kabul edilen diğer belgeler üzerine imzasını atmış olanlar, vergi kaybına neden olan durumu bildikleri veya bilmeleri gerektiği hâllerde gümrük idaresine karşı bağlı bulundukları tüzel kişilikle birlikte müteselsilen sorumlu olur. Bu hâllerde ilgili gümrük müşavirinin kişisel cezai sorumluluğu saklı kalmak kaydıyla, işlemi yapan kişi ile birlikte tüzel kişilik de gümrük idaresince alınan vergiler ve verilen para cezaları yönünden müteselsilen sorumludur. Sorumluluk ne yalnız tüzel kişiliğe ne de yalnız imzalayana yüklenir; vergiler ile para cezaları birlikte sayılmıştır ve müteselsil sorumluluk kişisel cezai sorumluluğu kaldırmaz. Gümrük Yönetmeliği'ndeki, imzalayan müşavirin beyandaki bilgilerin doğruluğundan sorumlu olduğu hükmü de tüzel kişiliğin sorumluluğunu ortadan kaldırmaz. En güçlü çeldirici, para cezalarını müteselsil sorumluluğun dışında tutan seçenektir; Kanun vergiler ile para cezalarını birlikte saymıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 229; GY 563)
 
 *Gümrük Yönetmeliği md. 563, 573*
 
@@ -428,7 +408,7 @@ D) Gümrük müşavirlerine verilecek izin belgeleri, Harçlar Kanunu uyarınca 
 E) Gümrük müşavirliği hizmeti verenler, hesabına beyanda bulundukları kişilere ait öğrendikleri ticari sırları mesleki faaliyetlerine son vermeleri hâlinde açıklayabilir.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre herhangi bir gümrük müşavirliği şirketine bağlı olmaksızın müstakil olarak dolaylı temsilci sıfatıyla gümrük işlemlerini takip eden gümrük müşavirleri, gördükleri hizmet karşılığında elde edecekleri her tür gelir için hesabına beyanda bulundukları kişi veya kuruluş ya da taşımacılara serbest meslek makbuzu düzenlemek zorundadır; bu kişilerin yaptıkları hizmet karşılığında başka bir şirket veya kişi fatura, makbuz veya benzeri belge düzenleyemez. Fatura kesme ve bunu muhasebe kayıtlarında gösterme zorunluluğu ise şirketlere aittir; şirketlere serbest meslek makbuzu yükümlülüğü yüklenmemiştir. Gümrük müşavirlerine verilecek izin belgeleri 492 sayılı Harçlar Kanunu uyarınca ruhsat harcına tabidir. Gümrük müşavirliği hizmeti verenler öğrendikleri bilgi ve ticari sırları mesleki faaliyetlerine son verseler dahi açıklayamaz; bu yasak yalnızca adli veya idari inceleme ve soruşturma durumunda uygulanmaz. En güçlü çeldirici, müstakil müşavire fatura yükümlülüğü yükleyen seçenektir: makbuz ile faturanın yeri yer değiştirilmiştir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 563, 573)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre herhangi bir gümrük müşavirliği şirketine bağlı olmaksızın müstakil olarak dolaylı temsilci sıfatıyla gümrük işlemlerini takip eden gümrük müşavirleri, gördükleri hizmet karşılığında elde edecekleri her tür gelir için hesabına beyanda bulundukları kişi veya kuruluş ya da taşımacılara serbest meslek makbuzu düzenlemek zorundadır; bu kişilerin yaptıkları hizmet karşılığında başka bir şirket veya kişi fatura, makbuz veya benzeri belge düzenleyemez. Fatura kesme ve bunu muhasebe kayıtlarında gösterme zorunluluğu ise şirketlere aittir; şirketlere serbest meslek makbuzu yükümlülüğü yüklenmemiştir. Gümrük müşavirlerine verilecek izin belgeleri 492 sayılı Harçlar Kanunu uyarınca ruhsat harcına tabidir. Gümrük müşavirliği hizmeti verenler öğrendikleri bilgi ve ticari sırları mesleki faaliyetlerine son verseler dahi açıklayamaz; bu yasak yalnızca adli veya idari inceleme ve soruşturma durumunda uygulanmaz. En güçlü çeldirici, müstakil müşavire fatura yükümlülüğü yükleyen seçenektir: makbuz ile faturanın yeri değiştirilmiştir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 563, 573)
 
 *4458 sayılı Gümrük Kanunu md. 230*
 
@@ -456,7 +436,7 @@ E) Müşavir yardımcıları ve stajyerlerin göreve başlama ve ayrılmaları, 
 **Doğru Cevap:** A  
 **Gerekçe:** Gümrük Yönetmeliği'ne göre çalışma yeri dışında diğer başmüdürlükler ve bağlantılarında iş takibi yapmak isteyen gümrük müşavirleri, bu durumu iş takibine başlamadan önce ilgili gümrük müdürlüğüne bildirir; yanlış ifade bildirimin zamanını iş takibinden sonraya taşımıştır. Diğer ifadeler doğrudur: Gümrük müşavirleri izin belge numarası, şirket adı, şirketi temsile yetkili kişiler gibi bilgi ve belgelerdeki değişiklikleri bir hafta içinde gümrük müşavirleri derneklerine bildirir; değişiklik olmayan hâllerde durum her yılın ikinci ayı içerisinde dernekler vasıtasıyla başmüdürlüğe yazıyla bildirilir. Tebligat adresleri ve çalışma yerleri, bağlı olunan gümrük ve muhafaza başmüdürlüğüne ve ilgili derneğe yazıyla bildirilir. Müşavir yardımcıları ve stajyerlerin göreve başlama ve ayrılmaları müşavir tarafından bir hafta içinde derneğe, dernek tarafından da bir hafta içinde başmüdürlüğe bildirilir. En güçlü çeldiriciler bir haftalık sürelerdir; aday sayıyı sorgularken asıl değiştirilen 'önce' kaydını gözden kaçırabilir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 563, 564)
 
-*Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71) md. 7, 8*
+*Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71) md. 4, 7, 8*
 
 **19-** Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71)'e göre özet beyan verecekler ile taşıdıkları eşyanın sadece transit işlemlerini doğrudan temsil yoluyla takip edeceklere sağlanan Gümrük İşlemi Takip Kartının amaç dışı kullanıldığının ilk kez tespit edilmesi hâlinde aşağıdakilerden hangisi uygulanır?
 
@@ -486,11 +466,11 @@ E) Onaylanan gerçek veya tüzel kişi genel bilgilerinin değişmesi üzerine g
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 3 (I, III ve IV, I ve III, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 15, TERSİNE 7, İSTİSNA 7, SAĞDUYU 7, YAKIN-SAYI 5, BAŞLANGIÇ 4 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (I, III ve IV, I ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 15, TERSİNE 8, SAĞDUYU 7, İSTİSNA 6, YAKIN-SAYI 5, TERİM 4 |
 | İkiz eksen / ayna | 12, 15 / Doğrudan ↔ dolaylı temsil yoluyla iş takibi |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 16 |

@@ -42,23 +42,17 @@ E) II, III ve IV
 
 A) Gerekli taahhütnamelerin ve teminatların verilmesi ile rejim kapsamındaki işlemlerin gümrük müşaviri aracılığıyla yürütüleceğinin başvuru sahibince yazılı olarak taahhüt edilmesi  
 B) Gerekli taahhütnamelerin ve teminatların verilmesi ile izin hak sahibinin Türkiye Gümrük Bölgesinde yerleşik olması  
-C) Gerekli taahhütnamelerin ve teminatların verilmesi ile gümrük idarelerinin yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması  
-D) Gümrük idarelerinin yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması ile rejime ilişkin kayıtların tutulması  
+C) Gümrük idarelerinin yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması ile rejime ilişkin kayıtların tutulması  
+D) Gerekli taahhütnamelerin ve teminatların verilmesi ile gümrük idarelerinin yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması  
 E) Yalnızca işlemlerin usulüne uygun olarak yürütülmesi için gerekli taahhütnamelerin ve teminatların verilmesi  
 
-**5-** 4458 sayılı Gümrük Kanunu'nun ekonomik etkili gümrük rejimlerinin kullanımı, izin hak sahibinin yükümlülükleri ve hak sahipliğinin devrine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**5-** 4458 sayılı Gümrük Kanunu'nun ekonomik etkili gümrük rejimlerinin kullanımı, izin hak sahibinin yükümlülükleri ve hak sahipliğinin devrine ilişkin hükümlerine göre aşağıdakilerden hangisi doğrudur?
 
-I. Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir.  
-II. Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülüklerini devralan yeni hak sahibi, bu hakkı başka kişilere devredemez.  
-III. İzin hak sahibi, iznin verilmesinden sonra ortaya çıkan ve iznin devamını veya içeriğini etkileyebilecek olan her türlü gelişmeyi ilgili mercilere bildirmek zorundadır.  
-IV. Gümrük idareleri, bir rejimin öngörülen şartlar altında sona ermemiş olduğu hâllerde Kanunun cezai hükümlerine göre işlem yapar.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, II, III ve IV  
-E) I, III ve IV  
+A) Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Ticaret Bakanlığınca belirlenir.  
+B) Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülüklerini devralan yeni hak sahibi, bu hakkı başka kişilere devredemez.  
+C) İzin hak sahibi, iznin verilmesinden sonra ortaya çıkan ve iznin devamını veya içeriğini etkileyebilecek olan her türlü gelişmeyi ilgili mercilere bildirmek zorundadır.  
+D) İlgili rejimin kullanılmasına ilişkin şartlar Kanunda sayıldığından, verilen izinde ayrıca belirtilmez.  
+E) Gümrük idareleri, bir rejimin öngörülen şartlar altında sona ermemiş olduğu hâllerde, Kanunun cezai hükümlerini uygulamaksızın rejimi denetleyici gümrük idaresi aracılığıyla re'sen kapatır.  
 
 **6-** 4458 sayılı Gümrük Kanunu'na göre ekonomik etkili bir şartlı muafiyet düzenlemesi aşağıdakilerden hangisi gerçekleştiğinde sona erer?
 
@@ -73,8 +67,8 @@ E) Denetleyici gümrük idaresinin, rejim kapsamındaki eşyanın tamamının ve
 A) Gümrük idarelerinin her ikisinin de Türkiye Gümrük Bölgesinde bulunması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durum  
 B) Gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile denetleyici gümrük idaresinin farklı olduğu durum  
 C) Rejim kapsamındaki eşyanın, aynı izinde belirtilmiş farklı yerler arasında herhangi bir gümrük işlemi gerekmeksizin nakledildiği durum  
-D) Gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durum  
-E) Rejime tabi eşyanın, rejim kapatılmadan diğer bir izin hak sahibinin tesisine gönderildiği durum  
+D) Rejime tabi eşyanın, rejim kapatılmadan diğer bir izin hak sahibinin tesisine gönderildiği durum  
+E) Gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durum  
 
 **8-** Gümrük Yönetmeliği'nin ekonomik etkili gümrük rejimlerine ilişkin tanımlarına göre; izin belgesinde belirtilen, ekonomik etkili gümrük rejimine tabi eşyanın rejime girişi sonrasında yeni bir gümrükçe onaylanmış işlem veya kullanıma tabi tutulmasına veya hariçte işleme rejiminde eşyanın serbest dolaşıma girişine ilişkin gümrük işlemlerini yapan gümrük idaresine veya idarelerine ne ad verilir?
 
@@ -88,17 +82,17 @@ E) Varış gümrük idaresi
 
 A) İşlem görmüş ürün, işleme faaliyetleri sonucunda elde edilen tüm ürünlerdir.  
 B) İşlem görmüş asıl ürün, rejim kapsamında elde edilmesi amaçlanan ürünlerdir.  
-C) Kıymet ölçme yöntemi, çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının ithal eşya miktarına göre hesaplanması yöntemidir.  
-D) İşlem görmüş ikincil ürün, rejim kapsamında işleme faaliyetleri sonucunda elde edilen işlem görmüş asıl ürün dışında zorunlu olarak elde edilen ürünlerdir.  
+C) İşlem görmüş ikincil ürün, rejim kapsamında işleme faaliyetleri sonucunda elde edilen işlem görmüş asıl ürün dışında zorunlu olarak elde edilen ürünlerdir.  
+D) Kıymet ölçme yöntemi, çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının ithal eşya miktarına göre hesaplanması yöntemidir.  
 E) Verimlilik oranı, belirli bir miktardaki ithal eşyasının işlenmesi sonucu elde edilen işlenmiş ürünlerin miktarı veya yüzde oranıdır.  
 
 **10-** Gümrük Yönetmeliği'ne göre ekonomik etkili gümrük rejimlerinde izin başvurusunun gümrük beyannamesi ile yapılabileceği durumlarda, gümrük idarelerinin başvuru sahibinden istediği ek-55'te yer alan belgenin en az ihtiva etmesi gereken bilgiler arasında aşağıdakilerden hangisi yer almaz?
 
 A) Ek-57'de yer alan ekonomik koşulların kodları  
-B) Tahmini verimlilik oranı veya bu oranı belirleme yöntemi  
-C) Rejimin tahmini kapatılma süresi  
-D) Öngörülen nakil ve devir işlemleri  
-E) İthal eşyasının tabi olduğu ithalat vergilerinin oranı  
+B) İthal eşyasının tabi olduğu ithalat vergilerinin oranı  
+C) Tahmini verimlilik oranı veya bu oranı belirleme yöntemi  
+D) Rejimin tahmini kapatılma süresi  
+E) Öngörülen nakil ve devir işlemleri  
 
 **11-** Gümrük Yönetmeliği'ne göre gümrük kontrolü altında işleme rejiminde, ekonomik koşulların incelenmesi sonucunda aşağıdakilerden hangisinin belirlenmesi gerekir?
 
@@ -108,23 +102,21 @@ C) İşleme faaliyetinin ülke dışında yapılmasının ülke içinde işleme 
 D) İşleme faaliyetinin ülke içinde yapılmasının ekonomik olmadığı veya teknik nedenlerle ya da sözleşmeden doğan yükümlülükler nedeniyle uygun olmadığı  
 E) İthal edilecek eşya ile aynı kalite ve teknik özelliklere sahip eşyanın ülke içi üretiminin olmayışı  
 
-**12-** (L) Lojistik A.Ş., gümrük antrepo rejiminin kullanımına ilişkin izin almak üzere 3 Mart tarihinde yetkili gümrük idaresine başvurmuştur. Gümrük idaresi, başvuru sırasında verilen bilgileri yetersiz görerek 8 Mart tarihinde ek bilgi ve belge istemiş; istenen belgeler 17 Mart tarihinde gümrük idaresinin kaydına girmiştir.
+**12-** Gümrük Yönetmeliği'ne göre gümrük antrepo rejiminin kullanımına ilişkin izin başvurusunda gümrük idaresince başvuru sahibinden ek bilgi ve belge istenmesi hâlinde, iznin verilmesine ilişkin karar veya başvurunun reddedilme nedenleri başvuru sahibine hangi süre içinde bildirilir?
 
-Gümrük Yönetmeliği'ne göre gümrük idaresi, iznin verilmesine ilişkin kararı veya başvurunun reddedilme nedenlerini başvuru sahibine hangi süre içinde bildirmelidir?  
-
-A) 3 Mart tarihinden itibaren otuz gün içinde  
-B) 8 Mart tarihinden itibaren altmış gün içinde  
-C) 8 Mart tarihinden itibaren otuz gün içinde  
-D) 17 Mart tarihinden itibaren altmış gün içinde  
-E) 17 Mart tarihinden itibaren otuz gün içinde  
+A) Başvurunun yapıldığı tarihten itibaren otuz gün içinde  
+B) Ek bilgi ve belgelerin başvuru sahibinden istendiği tarihten itibaren altmış gün içinde  
+C) İstenilen ek bilgi ve belgelerin gümrük idaresinin kaydına girdiği tarihten itibaren altmış gün içinde  
+D) Ek bilgi ve belgelerin başvuru sahibinden istendiği tarihten itibaren otuz gün içinde  
+E) İstenilen ek bilgi ve belgelerin gümrük idaresinin kaydına girdiği tarihten itibaren otuz gün içinde  
 
 **13-** Gümrük Yönetmeliği'ne göre ekonomik etkili gümrük rejimlerinde izin başvurusu, iznin yenilenmesi ve iznin geçerliliğine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
-A) Gümrük idarelerince, Müsteşarlıkça belirlenecek usul ve esaslar çerçevesinde gümrük antrepo rejiminde de geriye dönük izin verilebilir.  
-B) Gümrük idareleri yazılı talep üzerine iznin yenilenmesine veya bazı bölümlerinin değiştirilmesine izin verebilir.  
-C) Ekonomik etkili gümrük rejimi kullanım izni verilebilmesi için, iznin verilebilmesine ilişkin tüm şartların başvuru sahibince yerine getirilmesi ve bunun kanıtlanması gerekir.  
-D) Geriye dönük izne ilişkin hükümler saklı kalmak kaydıyla izin, düzenlendiği veya izinde belirtilen tarihten itibaren geçerlidir.  
-E) Geçici ithalat ve dahilde işleme rejimlerinde izin başvurusu, ek-55'te yer alan belgenin ibrazı şartıyla sözlü beyan ile de yapılabilir.  
+A) Gümrük idareleri yazılı talep üzerine iznin yenilenmesine veya bazı bölümlerinin değiştirilmesine izin verebilir.  
+B) Ekonomik etkili gümrük rejimi kullanım izni verilebilmesi için, iznin verilebilmesine ilişkin tüm şartların başvuru sahibince yerine getirilmesi ve bunun kanıtlanması gerekir.  
+C) Geriye dönük izne ilişkin hükümler saklı kalmak kaydıyla izin, düzenlendiği veya izinde belirtilen tarihten itibaren geçerlidir.  
+D) Geçici ithalat ve dahilde işleme rejimlerinde izin başvurusu, ek-55'te yer alan belgenin ibrazı şartıyla sözlü beyan ile de yapılabilir.  
+E) Gümrük idarelerince, Müsteşarlıkça belirlenecek usul ve esaslar çerçevesinde gümrük antrepo rejiminde de geriye dönük izin verilebilir.  
 
 **14-** Gümrük Yönetmeliği'ne göre ekonomik etkili gümrük rejimlerine tabi eşyaya ticaret politikası önlemlerinin uygulanmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -143,10 +135,10 @@ IV. Transit rejimi kapsamında Müsteşarlıkça yüksek risk içerdiği belirle
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
 A) I ve II  
-B) II, III ve IV  
-C) II ve III  
-D) I, III ve IV  
-E) I, II, III ve IV  
+B) II ve III  
+C) I, III ve IV  
+D) I, II, III ve IV  
+E) II, III ve IV  
 
 **16-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre ekonomik etkili gümrük rejimlerinde hak ve yükümlülüklerin ve rejime tabi eşyanın devrine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -158,21 +150,19 @@ E) Geçici ithalat rejimi dışında, eşyanın rejim kapatılmadan diğer bir i
 
 **17-** Gümrük Yönetmeliği'ne göre aşağıdaki ekonomik etkili gümrük rejimlerinden hangisinde, rejime ilişkin kayıtların tutulması zorunluluğu öngörülmemiştir?
 
-A) Gümrük antrepo  
-B) Dahilde işleme  
-C) Geçici ithalat  
+A) Geçici ithalat  
+B) Gümrük antrepo  
+C) Dahilde işleme  
 D) Hariçte işleme  
 E) Gümrük kontrolü altında işleme  
 
-**18-** (M) Tekstil A.Ş., şartlı muafiyet sistemi kapsamında dahilde işleme rejimine tabi tuttuğu ithal eşyası için gümrük vergileri tutarındaki teminatı nakit olarak vermiştir. İşlem görmüş ürünlerin bir kısmının ihraç edilememesi üzerine bu kısma isabet eden ithal eşyası için gümrük yükümlülüğü doğmuştur.
+**18-** Gümrük Yönetmeliği'ne göre geçici ithalat ve dahilde işleme rejimlerinde işlem görmüş ürün veya ithal eşyası için gümrük yükümlülüğü doğması hâlinde ithalat vergilerine ilave olarak tahsil edilen faize ilişkin aşağıdakilerden hangisi doğrudur?
 
-Gümrük Yönetmeliği'nin ekonomik etkili gümrük rejimlerinde faize ilişkin hükümlerine göre, bu yükümlülük için ithalat vergilerine ilave olarak faiz tahsiline ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Kanunda belirlenen gecikme zammı oranında faiz tahsil edilir.  
-B) Kanuni faiz oranında faiz tahsil edilir.  
-C) Faiz, ithalat vergilerinin %3'ü üzerinden kesin olarak tahsil edilir.  
-D) Faiz yalnızca geçici ithalat rejiminde tahsil edilir; dahilde işleme rejiminde faiz hükmü bulunmaz.  
-E) Teminat nakit olarak alındığından faiz uygulanmaz.  
+A) Faiz, kanuni faiz oranında tahsil edilir.  
+B) Teminat olarak teminat mektubu verilmiş olması durumunda faiz uygulanmaz.  
+C) Kısmi muafiyet suretiyle geçici ithal edilen eşya için %3 üzerinden kesin olarak alınan ithalat vergilerinin tahsili yapılan kısmına da faiz uygulanır.  
+D) Kanun çerçevesinde imha sırasında ortaya çıkan hurda, atık ve döküntülerin serbest dolaşıma giriş rejimine tabi tutulması durumunda da faiz tahsil edilir.  
+E) Teminatın nakit olarak alınmış olması durumunda faiz uygulanmaz.  
 
 **19-** Gümrük Yönetmeliği'ne göre şartlı muafiyet sisteminin kullanıldığı dahilde işleme rejiminde, rejimin kapatılması için denetleyici gümrük idaresine yapılacak başvurunun süresi aşağıdakilerden hangisidir?
 
@@ -188,15 +178,15 @@ Buna göre aşağıdaki eşleştirmelerden hangisi yanlıştır?
 
 A) INF 8 – Gümrük antrepo rejiminde elleçleme işlemlerinden önce eşyaya ilişkin gümrük yükümlülüğünün tespitini sağlayacak bilgilerin bildirimi  
 B) INF 1 – Dahilde işleme rejiminde vergi tutarları, faiz, teminat ve ticaret politikası önlemlerine dair bilgilerin bildirimi  
-C) INF 7 – Geri ödeme sisteminde vergilerin geri verilmesi veya kaldırılmasına ilişkin bilgilerin bildirimi  
-D) INF 6 – Geçici ithalat rejiminde yer değiştirmiş eşyanın gümrük yükümlülüğünün tespitine veya hâlihazırda tahakkuk ettirilmiş vergilere ilişkin bilgilerin bildirimi  
-E) INF 2 – Dahilde işleme rejiminde üçgen trafikte başkaca bir gümrükçe onaylanmış işlem veya kullanıma tahsis edilecek işlem görmüş ürünlere dair bilgilerin bildirimi  
+C) INF 2 – Dahilde işleme rejiminde üçgen trafikte başkaca bir gümrükçe onaylanmış işlem veya kullanıma tahsis edilecek işlem görmüş ürünlere dair bilgilerin bildirimi  
+D) INF 7 – Geri ödeme sisteminde vergilerin geri verilmesi veya kaldırılmasına ilişkin bilgilerin bildirimi  
+E) INF 6 – Geçici ithalat rejiminde yer değiştirmiş eşyanın gümrük yükümlülüğünün tespitine veya hâlihazırda tahakkuk ettirilmiş vergilere ilişkin bilgilerin bildirimi  
 
 ### Cevap Anahtarı
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A | D | A | C | E | B | D | B | C | E | A | D | A | C | B | D | C | E | B | E |
+| A | D | A | D | C | B | E | B | D | B | A | C | E | C | E | D | A | E | B | C |
 
 ### Çözümler
 
@@ -253,31 +243,25 @@ E) II, III ve IV
 
 A) Gerekli taahhütnamelerin ve teminatların verilmesi ile rejim kapsamındaki işlemlerin gümrük müşaviri aracılığıyla yürütüleceğinin başvuru sahibince yazılı olarak taahhüt edilmesi  
 B) Gerekli taahhütnamelerin ve teminatların verilmesi ile izin hak sahibinin Türkiye Gümrük Bölgesinde yerleşik olması  
-C) Gerekli taahhütnamelerin ve teminatların verilmesi ile gümrük idarelerinin yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması  
-D) Gümrük idarelerinin yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması ile rejime ilişkin kayıtların tutulması  
+C) Gümrük idarelerinin yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması ile rejime ilişkin kayıtların tutulması  
+D) Gerekli taahhütnamelerin ve teminatların verilmesi ile gümrük idarelerinin yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması  
 E) Yalnızca işlemlerin usulüne uygun olarak yürütülmesi için gerekli taahhütnamelerin ve teminatların verilmesi  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Gümrük Kanunu'na göre, yararlanılacak rejime ilişkin özel hükümler saklı kalmak üzere, ekonomik etkili rejimlerin kullanımına ilişkin izinler ile antrepo işletme izni iki şartın birlikte gerçekleşmesi hâlinde verilir: işlemlerin usulüne uygun olarak yürütülmesi için gerekli taahhütnamelerin ve teminatların verilmesi ve gümrük idarelerinin rejimi denetim altında tutabilmesi veya izleyebilmesi için yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması. Yalnızca taahhütname ve teminatı sayan seçenek eksiktir. Kayıt tutulması, Yönetmelikte antrepo işleticisine ve izin hak sahibine yüklenen ayrı bir yükümlülüktür; Kanunun saydığı izin şartlarından biri değildir. Kanun bu izinler için yerleşiklik şartı da saymamıştır. En güçlü çeldirici gümrük müşaviri aracılığını içeren seçenektir: aday temsilin her işlemde zorunlu olduğunu düşünerek bu seçeneğe yönelebilir, oysa Kanunun saydığı iki şart arasında böyle bir unsur yoktur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 80)
+**Doğru Cevap:** D  
+**Gerekçe:** Gümrük Kanunu'na göre, yararlanılacak rejime ilişkin özel hükümler saklı kalmak üzere, ekonomik etkili rejimlerin kullanımına ilişkin izinler ile antrepo işletme izni iki şartın birlikte gerçekleşmesi hâlinde verilir: işlemlerin usulüne uygun olarak yürütülmesi için gerekli taahhütnamelerin ve teminatların verilmesi ve gümrük idarelerinin rejimi denetim altında tutabilmesi veya izleyebilmesi için yapması gereken idari düzenlemelerin rejimden hedeflenen ekonomik amaçlarla orantılı olması. Yalnızca taahhütname ve teminatı sayan seçenek eksiktir. Kayıt tutulması, Yönetmelikte antrepo işleticisine ve izin hak sahibine yüklenen ayrı bir yükümlülüktür; Kanunun saydığı izin şartlarından biri değildir. Kanun bu izinler için yerleşiklik şartı da saymamıştır. En güçlü çeldirici gümrük müşaviri aracılığını içeren seçenektir: aday temsilin her işlemde zorunlu olduğunu düşünerek bu seçeneğe yönelebilir, oysa Kanunun saydığı iki şart arasında böyle bir unsur yoktur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 80)
 
 *4458 sayılı Gümrük Kanunu md. 80, 81, 82, 83*
 
-**5-** 4458 sayılı Gümrük Kanunu'nun ekonomik etkili gümrük rejimlerinin kullanımı, izin hak sahibinin yükümlülükleri ve hak sahipliğinin devrine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**5-** 4458 sayılı Gümrük Kanunu'nun ekonomik etkili gümrük rejimlerinin kullanımı, izin hak sahibinin yükümlülükleri ve hak sahipliğinin devrine ilişkin hükümlerine göre aşağıdakilerden hangisi doğrudur?
 
-I. Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir.  
-II. Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülüklerini devralan yeni hak sahibi, bu hakkı başka kişilere devredemez.  
-III. İzin hak sahibi, iznin verilmesinden sonra ortaya çıkan ve iznin devamını veya içeriğini etkileyebilecek olan her türlü gelişmeyi ilgili mercilere bildirmek zorundadır.  
-IV. Gümrük idareleri, bir rejimin öngörülen şartlar altında sona ermemiş olduğu hâllerde Kanunun cezai hükümlerine göre işlem yapar.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+A) Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Ticaret Bakanlığınca belirlenir.  
+B) Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülüklerini devralan yeni hak sahibi, bu hakkı başka kişilere devredemez.  
+C) İzin hak sahibi, iznin verilmesinden sonra ortaya çıkan ve iznin devamını veya içeriğini etkileyebilecek olan her türlü gelişmeyi ilgili mercilere bildirmek zorundadır.  
+D) İlgili rejimin kullanılmasına ilişkin şartlar Kanunda sayıldığından, verilen izinde ayrıca belirtilmez.  
+E) Gümrük idareleri, bir rejimin öngörülen şartlar altında sona ermemiş olduğu hâllerde, Kanunun cezai hükümlerini uygulamaksızın rejimi denetleyici gümrük idaresi aracılığıyla re'sen kapatır.  
 
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, II, III ve IV  
-E) I, III ve IV  
-
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Kanunu'na göre dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir; I doğrudur. Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülükleri, yönetmelikle belirlenen usul ve esaslara göre rejimden yararlanma koşullarını taşıyan kişilere devredilebilir; yeni hak sahibi de bu hakkı aynı koşulları taşıyan diğer kişilere devredebilir. Bu nedenle II yanlıştır. İzin hak sahibi, iznin verilmesinden sonra ortaya çıkan ve iznin devamını veya içeriğini etkileyebilecek her türlü gelişmeyi ilgili mercilere bildirmek zorundadır; III doğrudur. Gümrük idareleri, bir rejimin öngörülen şartlar altında sona ermemiş olduğu hâllerde Kanunun Onbirinci Kısmındaki cezai hükümlere göre işlem yapar; IV doğrudur. En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: II'de Kanunun açıkça izin verdiği ikinci devir yasaklanmış gibi gösterilmiştir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 80, 81, 82, 83)
+**Doğru Cevap:** C  
+**Gerekçe:** Gümrük Kanunu'na göre ilgili rejimin kullanılmasına ilişkin şartlar verilen izinde belirtilir ve izin hak sahibi, iznin verilmesinden sonra ortaya çıkan ve iznin devamını veya içeriğini etkileyebilecek olan her türlü gelişmeyi ilgili mercilere bildirmek zorundadır; doğru ifade budur. Şartların izinde belirtilmeyeceğini söyleyen ifade aynı hükmün ilk cümlesini tersine çevirmiştir. Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Ticaret Bakanlığınca değil, Cumhurbaşkanınca belirlenir. Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülükleri, rejimden yararlanma koşullarını taşıyan kişilere devredilebilir; yeni hak sahibi de bu hakkı aynı koşulları taşıyan diğer kişilere devredebilir. Gümrük idareleri, bir rejimin öngörülen şartlar altında sona ermemiş olduğu hâllerde Kanunun cezai hükümlerine göre işlem yapar. En güçlü tuzak re'sen kapatmadır: Gümrük Yönetmeliği, süresinde kapatma başvurusu yapılmazsa denetleyici gümrük idaresinin rejimi re'sen kapatabileceğini düzenler; ancak bu, rejimin şartlara uygun sona ermemesi hâlinde cezai hükümlerin uygulanmasını ortadan kaldırmaz. Bu nedenle doğru cevap C seçeneğidir. (MD GK 80, 81, 82, 83; GY 325)
 
 *4458 sayılı Gümrük Kanunu md. 82*
 
@@ -299,11 +283,11 @@ E) Denetleyici gümrük idaresinin, rejim kapsamındaki eşyanın tamamının ve
 A) Gümrük idarelerinin her ikisinin de Türkiye Gümrük Bölgesinde bulunması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durum  
 B) Gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile denetleyici gümrük idaresinin farklı olduğu durum  
 C) Rejim kapsamındaki eşyanın, aynı izinde belirtilmiş farklı yerler arasında herhangi bir gümrük işlemi gerekmeksizin nakledildiği durum  
-D) Gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durum  
-E) Rejime tabi eşyanın, rejim kapatılmadan diğer bir izin hak sahibinin tesisine gönderildiği durum  
+D) Rejime tabi eşyanın, rejim kapatılmadan diğer bir izin hak sahibinin tesisine gönderildiği durum  
+E) Gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durum  
 
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre üçgen trafik, gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durumdur. Tanımın iki unsuru vardır: karşılaştırılan idareler rejime giriş ve rejimi kapatan gümrük idareleridir; bu idarelerden yalnızca biri Türkiye Gümrük Bölgesindedir. Denetleyici gümrük idaresi, izin belgesinde belirtilen rejimi denetleyen idaredir ve üçgen trafik tanımında yer almaz. Aynı izinde belirtilmiş farklı yerler arasında gümrük işlemi gerekmeksizin nakil ile rejim kapatılmadan başka bir izin hak sahibinin tesisine gönderme ise Yönetmelikte nakil ve devir başlığı altında düzenlenir. En güçlü çeldirici iki idarenin de Türkiye Gümrük Bölgesinde olduğunu söyleyen seçenektir: tanımdaki 'sadece birinin' kaydı değiştirilmiştir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 308)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre üçgen trafik, gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durumdur. Tanımın iki unsuru vardır: karşılaştırılan idareler rejime giriş ve rejimi kapatan gümrük idareleridir; bu idarelerden yalnızca biri Türkiye Gümrük Bölgesindedir. Denetleyici gümrük idaresi, izin belgesinde belirtilen rejimi denetleyen idaredir ve üçgen trafik tanımında yer almaz. Aynı izinde belirtilmiş farklı yerler arasında gümrük işlemi gerekmeksizin nakil ile rejim kapatılmadan başka bir izin hak sahibinin tesisine gönderme ise Yönetmelikte nakil ve devir başlığı altında düzenlenir. En güçlü çeldirici iki idarenin de Türkiye Gümrük Bölgesinde olduğunu söyleyen seçenektir: tanımdaki 'sadece birinin' kaydı değiştirilmiştir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 308)
 
 *Gümrük Yönetmeliği md. 308*
 
@@ -324,25 +308,25 @@ E) Varış gümrük idaresi
 
 A) İşlem görmüş ürün, işleme faaliyetleri sonucunda elde edilen tüm ürünlerdir.  
 B) İşlem görmüş asıl ürün, rejim kapsamında elde edilmesi amaçlanan ürünlerdir.  
-C) Kıymet ölçme yöntemi, çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının ithal eşya miktarına göre hesaplanması yöntemidir.  
-D) İşlem görmüş ikincil ürün, rejim kapsamında işleme faaliyetleri sonucunda elde edilen işlem görmüş asıl ürün dışında zorunlu olarak elde edilen ürünlerdir.  
+C) İşlem görmüş ikincil ürün, rejim kapsamında işleme faaliyetleri sonucunda elde edilen işlem görmüş asıl ürün dışında zorunlu olarak elde edilen ürünlerdir.  
+D) Kıymet ölçme yöntemi, çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının ithal eşya miktarına göre hesaplanması yöntemidir.  
 E) Verimlilik oranı, belirli bir miktardaki ithal eşyasının işlenmesi sonucu elde edilen işlenmiş ürünlerin miktarı veya yüzde oranıdır.  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre kıymet ölçme yöntemi, çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının işlem görmüş ürünlerin değerine göre hesaplanması yöntemidir. İthal eşya oranının ithal eşya miktarına göre hesaplanması ise miktar ölçme yöntemidir; seçenekte iki yöntemin ölçütü yer değiştirmiştir. Diğer ifadeler tanımlarla aynıdır: işlem görmüş ürün işleme faaliyetleri sonucunda elde edilen tüm ürünlerdir; işlem görmüş asıl ürün rejim kapsamında elde edilmesi amaçlanan ürünlerdir; işlem görmüş ikincil ürün asıl ürün dışında zorunlu olarak elde edilen ürünlerdir; verimlilik oranı belirli bir miktardaki ithal eşyasının işlenmesi sonucu elde edilen işlenmiş ürünlerin miktarı veya yüzde oranıdır. En güçlü çeldirici ikincil ürün tanımıdır: 'zorunlu olarak' kaydı adaya fazladan eklenmiş gibi görünebilir, ancak tanımda aynen yer alır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 308)
+**Doğru Cevap:** D  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre kıymet ölçme yöntemi, çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının işlem görmüş ürünlerin değerine göre hesaplanması yöntemidir. İthal eşya oranının ithal eşya miktarına göre hesaplanması ise miktar ölçme yöntemidir; seçenekte iki yöntemin ölçütü yer değiştirmiştir. Diğer ifadeler tanımlarla aynıdır: işlem görmüş ürün işleme faaliyetleri sonucunda elde edilen tüm ürünlerdir; işlem görmüş asıl ürün rejim kapsamında elde edilmesi amaçlanan ürünlerdir; işlem görmüş ikincil ürün asıl ürün dışında zorunlu olarak elde edilen ürünlerdir; verimlilik oranı belirli bir miktardaki ithal eşyasının işlenmesi sonucu elde edilen işlenmiş ürünlerin miktarı veya yüzde oranıdır. En güçlü çeldirici ikincil ürün tanımıdır: 'zorunlu olarak' kaydı adaya fazladan eklenmiş gibi görünebilir, ancak tanımda aynen yer alır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 308)
 
 *Gümrük Yönetmeliği md. 311, 325*
 
 **10-** Gümrük Yönetmeliği'ne göre ekonomik etkili gümrük rejimlerinde izin başvurusunun gümrük beyannamesi ile yapılabileceği durumlarda, gümrük idarelerinin başvuru sahibinden istediği ek-55'te yer alan belgenin en az ihtiva etmesi gereken bilgiler arasında aşağıdakilerden hangisi yer almaz?
 
 A) Ek-57'de yer alan ekonomik koşulların kodları  
-B) Tahmini verimlilik oranı veya bu oranı belirleme yöntemi  
-C) Rejimin tahmini kapatılma süresi  
-D) Öngörülen nakil ve devir işlemleri  
-E) İthal eşyasının tabi olduğu ithalat vergilerinin oranı  
+B) İthal eşyasının tabi olduğu ithalat vergilerinin oranı  
+C) Tahmini verimlilik oranı veya bu oranı belirleme yöntemi  
+D) Rejimin tahmini kapatılma süresi  
+E) Öngörülen nakil ve devir işlemleri  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre başvurunun gümrük beyannamesi ile yapılabileceği durumlarda gümrük idareleri, başvuru sahibinden en az belirli bilgileri içeren ek-55'teki belgeyi ister. Bu bilgiler başvuru sahibinin, beyan sahibinin ve işleme faaliyetini yapan kişinin adı ve adresi; işlemenin veya kullanımın niteliği; eşyanın ve ürünlerin teknik tanımı; ek-57'deki ekonomik koşulların kodları; tahmini verimlilik oranı veya bunu belirleme yöntemi; rejimin tahmini kapatılma süresi; rejimi kapatması öngörülen gümrük idaresi; işleme veya kullanım yeri; öngörülen nakil ve devir işlemleri ile sözlü beyanda eşyanın miktarı ve kıymetidir. İthal eşyasının tabi olduğu ithalat vergilerinin oranı bu listede yoktur; bu bilgi, rejimin kapatılması veya vergilerin geri verilmesi ya da kaldırılması başvurusunun içermesi gereken hususlar arasında sayılır. En güçlü çeldirici 'Rejimin tahmini kapatılma süresi' seçeneğidir: kapatmayı çağrıştırdığı için kapatma başvurusuna ait sanılabilir, oysa izin başvurusu belgesinde yer alır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 311, 325)
+**Doğru Cevap:** B  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre başvurunun gümrük beyannamesi ile yapılabileceği durumlarda gümrük idareleri, başvuru sahibinden en az belirli bilgileri içeren ek-55'teki belgeyi ister. Bu bilgiler başvuru sahibinin, beyan sahibinin ve işleme faaliyetini yapan kişinin adı ve adresi; işlemenin veya kullanımın niteliği; eşyanın ve ürünlerin teknik tanımı; ek-57'deki ekonomik koşulların kodları; tahmini verimlilik oranı veya bunu belirleme yöntemi; rejimin tahmini kapatılma süresi; rejimi kapatması öngörülen gümrük idaresi; işleme veya kullanım yeri; öngörülen nakil ve devir işlemleri ile sözlü beyanda eşyanın miktarı ve kıymetidir. İthal eşyasının tabi olduğu ithalat vergilerinin oranı bu listede yoktur; bu bilgi, rejimin kapatılması veya vergilerin geri verilmesi ya da kaldırılması başvurusunun içermesi gereken hususlar arasında sayılır. En güçlü çeldirici 'Rejimin tahmini kapatılma süresi' seçeneğidir: kapatmayı çağrıştırdığı için kapatma başvurusuna ait sanılabilir, oysa izin başvurusu belgesinde yer alır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 311, 325)
 
 *Gümrük Yönetmeliği md. 312*
 
@@ -359,31 +343,29 @@ E) İthal edilecek eşya ile aynı kalite ve teknik özelliklere sahip eşyanın
 
 *Gümrük Yönetmeliği md. 311, 315*
 
-**12-** (L) Lojistik A.Ş., gümrük antrepo rejiminin kullanımına ilişkin izin almak üzere 3 Mart tarihinde yetkili gümrük idaresine başvurmuştur. Gümrük idaresi, başvuru sırasında verilen bilgileri yetersiz görerek 8 Mart tarihinde ek bilgi ve belge istemiş; istenen belgeler 17 Mart tarihinde gümrük idaresinin kaydına girmiştir.
+**12-** Gümrük Yönetmeliği'ne göre gümrük antrepo rejiminin kullanımına ilişkin izin başvurusunda gümrük idaresince başvuru sahibinden ek bilgi ve belge istenmesi hâlinde, iznin verilmesine ilişkin karar veya başvurunun reddedilme nedenleri başvuru sahibine hangi süre içinde bildirilir?
 
-Gümrük Yönetmeliği'ne göre gümrük idaresi, iznin verilmesine ilişkin kararı veya başvurunun reddedilme nedenlerini başvuru sahibine hangi süre içinde bildirmelidir?  
+A) Başvurunun yapıldığı tarihten itibaren otuz gün içinde  
+B) Ek bilgi ve belgelerin başvuru sahibinden istendiği tarihten itibaren altmış gün içinde  
+C) İstenilen ek bilgi ve belgelerin gümrük idaresinin kaydına girdiği tarihten itibaren altmış gün içinde  
+D) Ek bilgi ve belgelerin başvuru sahibinden istendiği tarihten itibaren otuz gün içinde  
+E) İstenilen ek bilgi ve belgelerin gümrük idaresinin kaydına girdiği tarihten itibaren otuz gün içinde  
 
-A) 3 Mart tarihinden itibaren otuz gün içinde  
-B) 8 Mart tarihinden itibaren altmış gün içinde  
-C) 8 Mart tarihinden itibaren otuz gün içinde  
-D) 17 Mart tarihinden itibaren altmış gün içinde  
-E) 17 Mart tarihinden itibaren otuz gün içinde  
-
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük idareleri, başvuru sırasında verilen bilgileri yetersiz görürse başvuru sahibinden ek bilgi ve belge ister. İznin verilmesine ilişkin karar veya başvurunun reddedilme nedenleri, başvurunun yapıldığı veya istenilen ek bilgi ve belgelerin gümrük idaresinin kaydına girdiği tarihten itibaren gümrük antrepo rejiminde altmış gün, diğer rejimlerde otuz gün içinde başvuru sahibine bildirilir. Olayda ek bilgi ve belge istenmiş ve bunlar 17 Mart'ta kayda girmiştir; süre bu tarihten başlar. İdarenin ek belge talebinde bulunduğu 8 Mart süreyi başlatan tarih değildir. Başvuru gümrük antrepo rejimine ilişkin olduğu için süre altmış gündür. En güçlü çeldirici '17 Mart tarihinden itibaren otuz gün içinde' seçeneğidir: başlangıç doğru seçilmiş, ancak antrepo rejimine özgü altmış günlük süre yerine diğer rejimlerin otuz günlük süresi uygulanmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 311, 315)
+**Doğru Cevap:** C  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük idareleri, başvuru sırasında verilen bilgileri yetersiz görürse başvuru sahibinden ek bilgi ve belgeler ister. İznin verilmesine ilişkin karar veya başvurunun reddedilme nedenleri, başvurunun yapıldığı veya istenilen ek bilgi ve belgelerin gümrük idaresinin kaydına girdiği tarihten itibaren gümrük antrepo rejiminde altmış gün, diğer rejimlerde otuz gün içinde başvuru sahibine bildirilir. Ek bilgi ve belge istendiğinde süre, idarenin talepte bulunduğu tarihten değil, istenen bilgi ve belgelerin idarenin kaydına girdiği tarihten başlar. Başvuru gümrük antrepo rejimine ilişkin olduğundan süre altmış gündür. En güçlü tuzak, başlangıcı doğru verip otuz günlük süreyi uygulayan seçenektir: otuz gün, aynı hükümde antrepo dışındaki rejimler için öngörülen süredir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 311, 315)
 
 *Gümrük Yönetmeliği md. 309, 313, 316, 317*
 
 **13-** Gümrük Yönetmeliği'ne göre ekonomik etkili gümrük rejimlerinde izin başvurusu, iznin yenilenmesi ve iznin geçerliliğine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
-A) Gümrük idarelerince, Müsteşarlıkça belirlenecek usul ve esaslar çerçevesinde gümrük antrepo rejiminde de geriye dönük izin verilebilir.  
-B) Gümrük idareleri yazılı talep üzerine iznin yenilenmesine veya bazı bölümlerinin değiştirilmesine izin verebilir.  
-C) Ekonomik etkili gümrük rejimi kullanım izni verilebilmesi için, iznin verilebilmesine ilişkin tüm şartların başvuru sahibince yerine getirilmesi ve bunun kanıtlanması gerekir.  
-D) Geriye dönük izne ilişkin hükümler saklı kalmak kaydıyla izin, düzenlendiği veya izinde belirtilen tarihten itibaren geçerlidir.  
-E) Geçici ithalat ve dahilde işleme rejimlerinde izin başvurusu, ek-55'te yer alan belgenin ibrazı şartıyla sözlü beyan ile de yapılabilir.  
+A) Gümrük idareleri yazılı talep üzerine iznin yenilenmesine veya bazı bölümlerinin değiştirilmesine izin verebilir.  
+B) Ekonomik etkili gümrük rejimi kullanım izni verilebilmesi için, iznin verilebilmesine ilişkin tüm şartların başvuru sahibince yerine getirilmesi ve bunun kanıtlanması gerekir.  
+C) Geriye dönük izne ilişkin hükümler saklı kalmak kaydıyla izin, düzenlendiği veya izinde belirtilen tarihten itibaren geçerlidir.  
+D) Geçici ithalat ve dahilde işleme rejimlerinde izin başvurusu, ek-55'te yer alan belgenin ibrazı şartıyla sözlü beyan ile de yapılabilir.  
+E) Gümrük idarelerince, Müsteşarlıkça belirlenecek usul ve esaslar çerçevesinde gümrük antrepo rejiminde de geriye dönük izin verilebilir.  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük idareleri, Müsteşarlıkça belirlenecek usul ve esaslar çerçevesinde geriye dönük izin verebilir; ancak antrepo rejimi bu imkânın dışında tutulmuştur. Bu nedenle gümrük antrepo rejiminde de geriye dönük izin verilebileceğini söyleyen ifade yanlıştır. Diğer ifadeler doğrudur: gümrük idareleri yazılı talep üzerine iznin yenilenmesine veya bazı bölümlerinin değiştirilmesine izin verebilir; izin verilebilmesi için tüm şartların başvuru sahibince yerine getirilmesi ve kanıtlanması gerekir; izin, geriye dönük izin hükmü saklı kalmak kaydıyla düzenlendiği veya izinde belirtilen tarihten itibaren geçerlidir; geçici ithalat ve dahilde işleme rejimlerinde izin başvurusu, ek-55'teki belgenin ibrazı şartıyla sözlü beyan ile de yapılabilir. En güçlü çeldirici iznin geçerlilik tarihine ilişkin ifadedir: aday geriye dönük izin imkânı nedeniyle bu ifadeyi yanlış sanabilir, oysa genel kural budur ve geriye dönük izin bunun istisnasıdır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 309, 313, 316, 317)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük idareleri, Müsteşarlıkça belirlenecek usul ve esaslar çerçevesinde geriye dönük izin verebilir; ancak antrepo rejimi bu imkânın dışında tutulmuştur. Bu nedenle gümrük antrepo rejiminde de geriye dönük izin verilebileceğini söyleyen ifade yanlıştır. Diğer ifadeler doğrudur: gümrük idareleri yazılı talep üzerine iznin yenilenmesine veya bazı bölümlerinin değiştirilmesine izin verebilir; izin verilebilmesi için tüm şartların başvuru sahibince yerine getirilmesi ve kanıtlanması gerekir; izin, geriye dönük izin hükmü saklı kalmak kaydıyla düzenlendiği veya izinde belirtilen tarihten itibaren geçerlidir; geçici ithalat ve dahilde işleme rejimlerinde izin başvurusu, ek-55'teki belgenin ibrazı şartıyla sözlü beyan ile de yapılabilir. En güçlü çeldirici iznin geçerlilik tarihine ilişkin ifadedir: aday geriye dönük izin imkânı nedeniyle bu ifadeyi yanlış sanabilir, oysa genel kural budur ve geriye dönük izin bunun istisnasıdır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 309, 313, 316, 317)
 
 *Gümrük Yönetmeliği md. 319*
 
@@ -409,13 +391,13 @@ IV. Transit rejimi kapsamında Müsteşarlıkça yüksek risk içerdiği belirle
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
 A) I ve II  
-B) II, III ve IV  
-C) II ve III  
-D) I, III ve IV  
-E) I, II, III ve IV  
+B) II ve III  
+C) I, III ve IV  
+D) I, II, III ve IV  
+E) II, III ve IV  
 
-**Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre eşyanın aynı izinde belirtilmiş farklı yerler arasında nakli herhangi bir gümrük işlemi gerekmeksizin yapılır. Rejime giriş beyanı kapsamında yapılan nakil ise eşyanın rejime giriş gümrük idaresinden izin hak sahibinin veya işleme faaliyetini yapan kişinin tesislerine ya da kullanım yerine naklidir. Bu nedenle I yanlıştır. Eşyanın çıkış veya varış yerinin B tipi antrepo olması hâlinde nakil mümkün değildir; II doğrudur. Yeniden ihracat amacıyla çıkış gümrük idaresine nakil rejim kapsamında yapılabilir ve yeniden ihracı için beyan edilen eşya Türkiye Gümrük Bölgesini terk etmediği sürece rejim kapatılamaz; III doğrudur. Transit rejimi kapsamında Müsteşarlıkça yüksek risk içerdiği belirlenen eşyanın ekonomik etkili gümrük rejimleri kapsamındaki nakil işlemlerinde transit rejimindeki teminat hükümleri uygulanır; IV doğrudur. En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: I'deki 'rejime giriş beyanı kapsamında' ifadesi nakle ilişkin komşu hükümden taşınmıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 320)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre eşyanın aynı izinde belirtilmiş farklı yerler arasında nakli herhangi bir gümrük işlemi gerekmeksizin yapılır. Rejime giriş beyanı kapsamında yapılan nakil ise eşyanın rejime giriş gümrük idaresinden izin hak sahibinin veya işleme faaliyetini yapan kişinin tesislerine ya da kullanım yerine naklidir. Bu nedenle I yanlıştır. Eşyanın çıkış veya varış yerinin B tipi antrepo olması hâlinde nakil mümkün değildir; II doğrudur. Yeniden ihracat amacıyla çıkış gümrük idaresine nakil rejim kapsamında yapılabilir ve yeniden ihracı için beyan edilen eşya Türkiye Gümrük Bölgesini terk etmediği sürece rejim kapatılamaz; III doğrudur. Transit rejimi kapsamında Müsteşarlıkça yüksek risk içerdiği belirlenen eşyanın ekonomik etkili gümrük rejimleri kapsamındaki nakil işlemlerinde transit rejimindeki teminat hükümleri uygulanır; IV doğrudur. En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: I'deki 'rejime giriş beyanı kapsamında' ifadesi nakle ilişkin komşu hükümden taşınmıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 320)
 
 *4458 sayılı Gümrük Kanunu md. 83; Gümrük Yönetmeliği md. 320*
 
@@ -434,29 +416,27 @@ E) Geçici ithalat rejimi dışında, eşyanın rejim kapatılmadan diğer bir i
 
 **17-** Gümrük Yönetmeliği'ne göre aşağıdaki ekonomik etkili gümrük rejimlerinden hangisinde, rejime ilişkin kayıtların tutulması zorunluluğu öngörülmemiştir?
 
-A) Gümrük antrepo  
-B) Dahilde işleme  
-C) Geçici ithalat  
+A) Geçici ithalat  
+B) Gümrük antrepo  
+C) Dahilde işleme  
 D) Hariçte işleme  
 E) Gümrük kontrolü altında işleme  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre, geçici ithalat rejimi hariç olmak üzere, antrepo rejiminde antrepo işleticisi; dahilde işleme, hariçte işleme ve gümrük kontrolü altında işleme rejimlerinde izin hak sahibi veya işleme faaliyetini yapan kişi tarafından rejime ilişkin kayıtların tutulması zorunludur. Geçici ithalat rejimi bu zorunluluğun dışında bırakılmıştır; Yönetmelik bu rejim için yalnızca talep edilebilecek kayıtlardan söz eder. Gümrük idaresi ayrıca ilgili hususları içeren mevcut hesapları kayıt olarak onaylayabilir. En güçlü çeldirici hariçte işleme rejimidir: eşya Türkiye dışında işlendiği için kayıt yükümlülüğü yokmuş gibi düşünülebilir, oysa bu rejimde de izin hak sahibi veya işleme faaliyetini yapan kişi kayıt tutmak zorundadır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 321)
+**Doğru Cevap:** A  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre, geçici ithalat rejimi hariç olmak üzere, antrepo rejiminde antrepo işleticisi; dahilde işleme, hariçte işleme ve gümrük kontrolü altında işleme rejimlerinde izin hak sahibi veya işleme faaliyetini yapan kişi tarafından rejime ilişkin kayıtların tutulması zorunludur. Geçici ithalat rejimi bu zorunluluğun dışında bırakılmıştır; Yönetmelik bu rejim için yalnızca talep edilebilecek kayıtlardan söz eder. Gümrük idaresi ayrıca ilgili hususları içeren mevcut hesapları kayıt olarak onaylayabilir. En güçlü çeldirici hariçte işleme rejimidir: eşya Türkiye dışında işlendiği için kayıt yükümlülüğü yokmuş gibi düşünülebilir, oysa bu rejimde de izin hak sahibi veya işleme faaliyetini yapan kişi kayıt tutmak zorundadır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 321)
 
 *Gümrük Yönetmeliği md. 323*
 
-**18-** (M) Tekstil A.Ş., şartlı muafiyet sistemi kapsamında dahilde işleme rejimine tabi tuttuğu ithal eşyası için gümrük vergileri tutarındaki teminatı nakit olarak vermiştir. İşlem görmüş ürünlerin bir kısmının ihraç edilememesi üzerine bu kısma isabet eden ithal eşyası için gümrük yükümlülüğü doğmuştur.
+**18-** Gümrük Yönetmeliği'ne göre geçici ithalat ve dahilde işleme rejimlerinde işlem görmüş ürün veya ithal eşyası için gümrük yükümlülüğü doğması hâlinde ithalat vergilerine ilave olarak tahsil edilen faize ilişkin aşağıdakilerden hangisi doğrudur?
 
-Gümrük Yönetmeliği'nin ekonomik etkili gümrük rejimlerinde faize ilişkin hükümlerine göre, bu yükümlülük için ithalat vergilerine ilave olarak faiz tahsiline ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Kanunda belirlenen gecikme zammı oranında faiz tahsil edilir.  
-B) Kanuni faiz oranında faiz tahsil edilir.  
-C) Faiz, ithalat vergilerinin %3'ü üzerinden kesin olarak tahsil edilir.  
-D) Faiz yalnızca geçici ithalat rejiminde tahsil edilir; dahilde işleme rejiminde faiz hükmü bulunmaz.  
-E) Teminat nakit olarak alındığından faiz uygulanmaz.  
+A) Faiz, kanuni faiz oranında tahsil edilir.  
+B) Teminat olarak teminat mektubu verilmiş olması durumunda faiz uygulanmaz.  
+C) Kısmi muafiyet suretiyle geçici ithal edilen eşya için %3 üzerinden kesin olarak alınan ithalat vergilerinin tahsili yapılan kısmına da faiz uygulanır.  
+D) Kanun çerçevesinde imha sırasında ortaya çıkan hurda, atık ve döküntülerin serbest dolaşıma giriş rejimine tabi tutulması durumunda da faiz tahsil edilir.  
+E) Teminatın nakit olarak alınmış olması durumunda faiz uygulanmaz.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre geçici ithalat rejimi ile dahilde işleme rejiminde işlem görmüş ürün veya ithal eşyası için gümrük yükümlülüğü doğması hâlinde, ithalat vergilerine ilave olarak Kanunda belirlenen gecikme zammı oranında faiz tahsil edilir. Ancak bu kural sayılan bazı hâllerde uygulanmaz; bunlardan biri teminatın nakit olarak alınmış olmasıdır. Olaydaki firma teminatı nakit olarak verdiği için faiz uygulanmaz. Gecikme zammı oranında faiz genel kuraldır ve olayda saklanan istisnayı görmeyen adayı yanıltır. Kural dahilde işleme rejimini de açıkça kapsadığından faizin yalnızca geçici ithalatta alınacağını söyleyen seçenek yanlıştır. Yüzde 3 oranı, kısmi muafiyetle geçici ithal edilen eşya için kesin olarak alınan ithalat vergilerine ilişkindir; kanuni faiz ise geri verme hükümlerinde geçer. En güçlü çeldirici 'Kanunda belirlenen gecikme zammı oranında faiz tahsil edilir.' seçeneğidir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 323)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre geçici ithalat rejimi ile dahilde işleme rejiminde işlem görmüş ürün veya ithal eşyası için gümrük yükümlülüğü doğması hâlinde, ithalat vergilerine ilave olarak Kanunda belirlenen gecikme zammı oranında faiz tahsil edilir. Bu kural sayılan bazı hâllerde uygulanmaz; teminatın nakit olarak alınmış olması bunlardan biridir. İstisna yalnızca nakit teminat için öngörülmüştür; teminat mektubu verilmiş olması faizi ortadan kaldırmaz. Faiz oranı gecikme zammı oranıdır; kanuni faiz oranı, geri verme kararının süresinde uygulanmaması hâlinde geri verilecek tutara ödenen faize aittir. Kısmi muafiyetle geçici ithal edilen eşya için %3 üzerinden kesin olarak alınan ithalat vergilerinin tahsili yapılan kısmı ile imha sırasında ortaya çıkan hurda, atık ve döküntülerin serbest dolaşıma giriş rejimine tabi tutulması da faiz uygulanmayan hâller arasında sayılmıştır. En güçlü tuzak teminat mektubudur: istisnayı 'teminat verilmiş olması' diye genişleten aday bu ifadeyi doğru sanır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 323; GK 216)
 
 *Gümrük Yönetmeliği md. 325*
 
@@ -479,21 +459,21 @@ Buna göre aşağıdaki eşleştirmelerden hangisi yanlıştır?
 
 A) INF 8 – Gümrük antrepo rejiminde elleçleme işlemlerinden önce eşyaya ilişkin gümrük yükümlülüğünün tespitini sağlayacak bilgilerin bildirimi  
 B) INF 1 – Dahilde işleme rejiminde vergi tutarları, faiz, teminat ve ticaret politikası önlemlerine dair bilgilerin bildirimi  
-C) INF 7 – Geri ödeme sisteminde vergilerin geri verilmesi veya kaldırılmasına ilişkin bilgilerin bildirimi  
-D) INF 6 – Geçici ithalat rejiminde yer değiştirmiş eşyanın gümrük yükümlülüğünün tespitine veya hâlihazırda tahakkuk ettirilmiş vergilere ilişkin bilgilerin bildirimi  
-E) INF 2 – Dahilde işleme rejiminde üçgen trafikte başkaca bir gümrükçe onaylanmış işlem veya kullanıma tahsis edilecek işlem görmüş ürünlere dair bilgilerin bildirimi  
+C) INF 2 – Dahilde işleme rejiminde üçgen trafikte başkaca bir gümrükçe onaylanmış işlem veya kullanıma tahsis edilecek işlem görmüş ürünlere dair bilgilerin bildirimi  
+D) INF 7 – Geri ödeme sisteminde vergilerin geri verilmesi veya kaldırılmasına ilişkin bilgilerin bildirimi  
+E) INF 6 – Geçici ithalat rejiminde yer değiştirmiş eşyanın gümrük yükümlülüğünün tespitine veya hâlihazırda tahakkuk ettirilmiş vergilere ilişkin bilgilerin bildirimi  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük idareleri, ilgili kişinin talebi üzerine veya re'sen ek-61'deki bilgi formlarını düzenleyebilir. Dahilde işleme rejiminde üçgen trafikte başkaca bir gümrükçe onaylanmış işlem veya kullanıma tahsis edilecek işlem görmüş ürünlere dair bilgilerin bildirimi INF 9 bilgi formuyla yapılır. INF 2 ise hariçte işleme rejiminde üçgen trafikte, işlem görmüş ürünlerde kısmi veya tam muafiyetten yararlanmak için geçici ihraç eşyasına ilişkin bilgilerin bildirimidir. Diğer eşleştirmeler doğrudur: INF 8 antrepoda elleçleme öncesi yükümlülüğün tespiti, INF 1 dahilde işlemede vergi tutarları, faiz, teminat ve ticaret politikası önlemleri, INF 7 geri ödeme sisteminde vergilerin geri verilmesi veya kaldırılması, INF 6 geçici ithalatta yer değiştirmiş eşyanın yükümlülüğü ve tahakkuk etmiş vergiler içindir. En güçlü çeldirici INF 7 eşleştirmesidir: geri ödeme sistemi de dahilde işleme rejimine ait olduğundan INF 1 ile karıştırılabilir, ancak eşleştirme doğrudur. Bu nedenle doğru cevap E seçeneğidir. (MD GY 327)
+**Doğru Cevap:** C  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük idareleri, ilgili kişinin talebi üzerine veya re'sen ek-61'deki bilgi formlarını düzenleyebilir. Dahilde işleme rejiminde üçgen trafikte başkaca bir gümrükçe onaylanmış işlem veya kullanıma tahsis edilecek işlem görmüş ürünlere dair bilgilerin bildirimi INF 9 bilgi formuyla yapılır. INF 2 ise hariçte işleme rejiminde üçgen trafikte, işlem görmüş ürünlerde kısmi veya tam muafiyetten yararlanmak için geçici ihraç eşyasına ilişkin bilgilerin bildirimi içindir. Diğer eşleştirmeler doğrudur: INF 8 antrepoda elleçleme öncesi yükümlülüğün tespiti, INF 1 dahilde işlemede vergi tutarları, faiz, teminat ve ticaret politikası önlemleri, INF 7 geri ödeme sisteminde vergilerin geri verilmesi veya kaldırılması, INF 6 geçici ithalatta yer değiştirmiş eşyanın yükümlülüğü ve tahakkuk etmiş vergiler içindir. En güçlü çeldirici INF 7 eşleştirmesidir: geri ödeme sistemi de dahilde işleme rejimine ait olduğundan INF 1 ile karıştırılabilir, ancak eşleştirme doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GY 327)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
+| Birebir / parafraz / çıkarım | 17 / 2 / 1 |
 | Olumsuz kök | 8 |
-| Önermeli | 3 (I ve III, I, III ve IV, II, III ve IV) |
-| Vaka, uygulama, hesap | 3 |
+| Önermeli | 2 (I ve III, II, III ve IV) |
+| Vaka, uygulama, hesap | 1 |
 | Tuzaklar | KOMŞU 17, TERİM 8, SAĞDUYU 6, TERSİNE 5, İSTİSNA 4, UNSUR 3 |
 | İkiz eksen / ayna | 1, 2 / ŞMD-EER listesi |
 | Güncellik | — |

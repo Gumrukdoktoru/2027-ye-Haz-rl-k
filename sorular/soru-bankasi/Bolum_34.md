@@ -6,19 +6,13 @@ Kaynak: 35- hir.txt · 20 soru
 
 ### Sorular
 
-**1-** 4458 sayılı Gümrük Kanunu'nda hariçte işleme rejimi bakımından "işleme faaliyetleri" deyiminin kapsamına ilişkin olarak aşağıdaki faaliyetler verilmiştir:
+**1-** 4458 sayılı Gümrük Kanunu'na göre hariçte işleme rejiminde geçen "işleme faaliyetleri" deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Eşyanın montajı, kurulması ve diğer eşya ile birleştirilmesi dahil olmak üzere işçiliğe tabi tutulması  
-II. Eşyanın işlenmesi  
-III. Eşyanın yenilenmesi ve düzenli hale getirilmesi dahil olmak üzere tamir edilmesi  
-IV. İşleme sırasında tamamen veya kısmen tüketilseler dahi, işlem görmüş ürünler içinde bulunmayan ancak bu ürünlerin üretilmesini sağlayan veya kolaylaştıran önceden belirlenmiş bazı eşyanın kullanılması  
-Yukarıdakilerden hangileri hariçte işleme rejiminde "işleme faaliyetleri" deyiminin kapsamındadır?  
-
-A) I ve II  
-B) II ve III  
-C) I, III ve IV  
-D) I, II ve III  
-E) I, II, III ve IV  
+A) Eşyanın işçiliğe tabi tutulması, işlenmesi ve tamir edilmesi ile işleme sırasında tüketilse dahi işlem görmüş ürünler içinde bulunmayan ancak bunların üretilmesini sağlayan veya kolaylaştıran önceden belirlenmiş bazı eşyanın kullanılması  
+B) Eşyanın montajı, kurulması ve diğer eşya ile birleştirilmesi dahil işçiliğe tabi tutulması ile işlenmesi; tamir bu deyimin dışında kalır  
+C) Eşyanın yalnızca yenilenmesi ve düzenli hale getirilmesi dahil olmak üzere tamir edilmesi  
+D) Eşyanın montajı, kurulması ve diğer eşya ile birleştirilmesi dahil işçiliğe tabi tutulması, işlenmesi ile yenilenmesi ve düzenli hale getirilmesi dahil tamir edilmesi  
+E) Geçici ihracat eşyasının yerine kullanılmak üzere ikame ürünle değiştirilmesi  
 
 **2-** 4458 sayılı Gümrük Kanunu'na göre hariçte işleme rejiminin uygulanmayacağı serbest dolaşımdaki eşya arasında aşağıdakilerden hangisi sayılmamıştır?
 
@@ -28,19 +22,13 @@ C) İhracından önce, nihai kullanımları nedeniyle indirimli bir orandan serb
 D) İhracından önce, nihai kullanımları nedeniyle tam muafiyet suretiyle serbest dolaşıma giren ve bu muafiyetin tanınması için gerekli koşulları taşımaya devam eden eşya  
 E) İhracı nedeniyle tarım politikası çerçevesinde vergi iadesi dışında bir mali avantaj sağlanan eşya  
 
-**3-** 4458 sayılı Gümrük Kanunu'nun hariçte işleme izninin verilmesine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**3-** 4458 sayılı Gümrük Kanunu'na göre hariçte işleme izninin verilmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Hariçte işleme izni, talep üzerine, işleme faaliyetini yaptıracak kişiye verilebilir.  
-II. Hariçte işleme izni, talep edilen iznin Türkiye'deki üreticilerin temel ekonomik çıkarlarına ciddi bir zarar verecek durumda olmadığı hâllerde verilir.  
-III. Standart değişim çerçevesinde yürütülen işlemlerde de izin, işlem görmüş ürünlerin geçici ihracat eşyasının işlenmesi sonucu elde edildiğinin tespitinin mümkün olması şartına bağlıdır.  
-IV. Hariçte işleme izni, işleme faaliyetini yaptıracak kişi dışında başka bir kişiye hiçbir koşulda verilemez.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, II ve IV  
-E) I ve II  
+A) Hariçte işleme izni, talep üzerine, işleme faaliyetini yaptıracak kişiye verilebilir.  
+B) Hariçte işleme izni, Türkiye Gümrük Bölgesinde yerleşik kişilere verilir.  
+C) Hariçte işleme izni, talep edilen iznin Türkiye'deki üreticilerin temel ekonomik çıkarlarına ciddi bir zarar verecek durumda olmadığı hâllerde verilir.  
+D) Standart değişim çerçevesinde yürütülen işlemlerde de izin, işlem görmüş ürünlerin geçici ihracat eşyasının işlenmesi sonucu elde edildiğinin tespitinin mümkün olması şartına bağlıdır.  
+E) Rejimin uygulanması Türkiye'deki üreticilerin temel çıkarlarını olumsuz etkilemeksizin ihraç eşyasının satışını teşvik ediyor ve işleme faaliyeti Türk menşeli eşya ile Türkiye dışında elde edilen eşyanın birleştirilmesiyle oluşan işlem görmüş ürün olarak ithal ediliyorsa, izin işleme faaliyetini yaptıracak kişi dışında başka bir kişiye de verilebilir.  
 
 **4-** 4458 sayılı Gümrük Kanunu'na göre hariçte işleme rejiminde geçici ihracat ve işlem görmüş ürünlerin ithalat vergilerinden muafiyetine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -58,51 +46,41 @@ III. Standart değişimde ithalatın önceden yapıldığı durumda indirilecek 
 IV. Nihai kullanım amacıyla serbest dolaşıma girişte indirimli veya sıfır vergi oranından yararlanabilen geçici ihracat eşyasına, en son işleme faaliyetinin gerçekleştiği ülkede de nihai kullanıma uygun işçilik görmesi koşuluyla söz konusu indirimli veya sıfır vergi oranı uygulanır.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) I ve II  
-B) II ve III  
-C) I, II ve III  
-D) I, II, III ve IV  
-E) I, III ve IV  
+A) I, III ve IV  
+B) I ve II  
+C) II ve III  
+D) I, II ve III  
+E) I, II, III ve IV  
 
-**6-** (C) firması, serbest dolaşımdaki kumaşları hariçte işleme izni kapsamında (X) ülkesine geçici olarak ihraç etmiştir. Kumaşlar yalnızca (X) ülkesinde işlenerek gömleğe dönüştürülmüş ve gömlekler serbest dolaşıma giriş rejimine tabi tutulmak üzere beyan edilmiştir. Serbest dolaşıma giriş beyannamesinin tescil tarihi itibarıyla:
+**6-** Gümrük Yönetmeliği'ne göre hariçte işleme rejiminde düşümü yapılacak tutarın hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?
 
-- Gömleklere ait ithalat vergileri tutarı: 6.000 TL  
-- Kumaşların aynı tarihte (X) ülkesinden ithal edilmesi hâlinde uygulanacak gümrük vergisi tutarı: 2.000 TL  
-- Kumaşların aynı tarihte (X) ülkesinden ithal edilmesi hâlinde uygulanacak anti-damping vergisi tutarı: 1.000 TL  
-4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin hariçte işleme rejiminde ithalat vergilerinin hesaplanmasına ilişkin hükümlerine göre gömleklerin serbest dolaşıma girişinde ödenecek ithalat vergileri tutarı kaç TL'dir?  
+A) Türkiye'deki üreticilerin temel ekonomik çıkarlarının korunması amacıyla yürürlüğe konulan dış ticaret politikası önlemleri kapsamındaki ek mali yükler, düşümü yapılacak tutarın hesaplanmasında dikkate alınır.  
+B) Atık, artık, kırpıntı, döküntü ve kalıntılardan oluşan ikincil işlem görmüş ürünler, düşümü yapılacak tutarın dışında tutulur.  
+C) Düşüm yapılacak tutar, geçici ihracat eşyasına ilk işleme faaliyetine tabi tutulduğu ülkeden getirilerek serbest dolaşıma girişi tarihinde uygulanacak gümrük vergileri tutarıdır.  
+D) Düşüm yapılacak tutar, geçici ihracat eşyasının Türkiye Gümrük Bölgesi dışına çıkışında uygulanan ihracat vergileri tutarıdır.  
+E) Anti-damping vergileri ve telafi edici vergiler, düşümü yapılacak tutarın hesaplanmasında dikkate alınmaz.  
 
-A) 2.000  
-B) 3.000  
-C) 4.000  
-D) 5.000  
-E) 6.000  
+**7-** 4458 sayılı Gümrük Kanunu'na göre tamir amacıyla geçici ihraç edilen eşyanın, tamiratın bedelsiz yapıldığının kanıtlanması hâlinde serbest dolaşıma girişine ilişkin aşağıdakilerden hangisi doğrudur?
 
-**7-** (A) firması yurt dışından satın aldığı bir ölçüm cihazını ithal etmiş, cihaz serbest dolaşıma girerken kusurlu olduğu dikkate alınarak işlem yapılmıştır. Daha sonra:
-
-- Cihaz, garanti sözleşmesi kapsamında tamir edilmek üzere hariçte işleme rejimi çerçevesinde yurt dışındaki imalatçısına geçici olarak ihraç edilmiştir.  
-- Tamiratın garanti nedeniyle bedelsiz yapıldığı, imalatçı firmanın düzenlediği garanti belgesinin noterlikçe onaylı tercümesiyle kanıtlanmıştır.  
-- Tamir edilen cihaz serbest dolaşıma girmek üzere Türkiye'ye getirilmiştir.  
-4458 sayılı Gümrük Kanunu'nun bedelsiz tamire ilişkin hükmüne göre cihazın serbest dolaşıma girişinde ithalat vergilerinden tam muafiyet uygulanıp uygulanmayacağına ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Uygulanmaz; çünkü cihazın serbest dolaşıma ilk girişi sırasında kusurlu olduğu dikkate alınarak işlem yapılmıştır.  
-B) Uygulanır; çünkü tamiratın garanti nedeniyle sözleşmeye bağlı olarak bedelsiz yapıldığı kanıtlanmıştır.  
-C) Uygulanır; çünkü garanti belgesinin noterlikçe onaylı tercümesi gümrük idaresine ibraz edilmiştir.  
-D) Uygulanmaz; çünkü tam muafiyet yalnızca kanuni bir yükümlülüğe dayanılarak bedelsiz yapılan tamiratta tanınır.  
-E) Uygulanmaz; çünkü bedelsiz tamirde ithalat vergileri, tamir masraflarına eşit bir gümrük kıymeti üzerinden hesaplanır.  
+A) İthalat vergilerinden tam muafiyet yalnızca tamiratın kanuni bir yükümlülüğe dayanılarak bedelsiz yapılması hâlinde uygulanır.  
+B) Eşyanın serbest dolaşıma ilk girişi sırasında kusurlu olduğu dikkate alınarak işlem yapılmış olsa da bedelsiz tamirin kanıtlanması tam muafiyet için yeterlidir.  
+C) İthalat vergileri, gümrük kıymeti olarak tamir masraflarına eşit bir tutar dikkate alınarak belirlenir.  
+D) Eşyanın serbest dolaşıma ilk girişi sırasında kusurlu olduğu dikkate alınarak işlem yapılmışsa ithalat vergilerinden tam muafiyet uygulanmaz.  
+E) İthalat vergileri, işlem görmüş ürünlere ait vergilerden eşyanın en son tamir edildiği ülkeden aynı tarihte ithal edilse idi uygulanacak vergilerin indirilmesiyle hesaplanır.  
 
 **8-** (B) firması, serbest dolaşımdaki bir jeneratörü bedel karşılığında tamir ettirmek üzere hariçte işleme rejimi kapsamında yurt dışına geçici olarak ihraç etmiştir. Tamir edilen jeneratör serbest dolaşıma girmek üzere Türkiye'ye getirilmiş olup buna ilişkin bilgiler şöyledir:
 
+- Jeneratörün geçici ihracat beyannamesinde beyan edilen kıymeti: 50.000 Avro  
 - Tamir masrafı: 8.000 Avro  
-- Jeneratörün tamir yerine gönderilmesi için ödenen navlun ve sigorta: 600 Avro  
 - Jeneratörün Türkiye Gümrük Bölgesine gelişinde ödenen navlun: 700 Avro  
 - Jeneratörün Türkiye Gümrük Bölgesine gelişinde ödenen sigorta: 100 Avro  
 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin bedel karşılığında yapılan tamirde vergilendirmeye ilişkin hükümlerine göre jeneratörün ithalat vergilerinin hesaplanmasında gümrük kıymeti olarak dikkate alınacak tutar kaç Avro'dur?  
 
 A) 8.000  
-B) 8.600  
-C) 8.700  
-D) 8.800  
-E) 9.400  
+B) 8.700  
+C) 8.800  
+D) 50.000  
+E) 58.800  
 
 **9-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin standart değişim sistemine dayalı hariçte işlemeye ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
 
@@ -122,9 +100,9 @@ E) II, III ve IV
 
 A) Eşya üzerindeki üretici tarafından konan özel işaret ve seri numaraları  
 B) Eşyanın numune veya teknik dokümanları  
-C) Eşya üzerine tatbik edilmiş mühür veya etiketler  
-D) Eşyanın analiz veya ekspertiz raporu  
-E) İşlem görmüş ürünlerin geçici ihraç eşyasından üretileceğini belgeleyen sözleşme, proforma fatura, fatura gibi belgeler  
+C) Eşyanın analiz veya ekspertiz raporu  
+D) İşlem görmüş ürünlerin geçici ihraç eşyasından üretileceğini belgeleyen sözleşme, proforma fatura, fatura gibi belgeler  
+E) Eşya üzerine tatbik edilmiş mühür veya etiketler  
 
 **11-** Gümrük Yönetmeliği'ne göre önceden ithalatın olmadığı standart değişim sisteminin uygulandığı durumda, ikame ürünlerin Türkiye Gümrük Bölgesine ithali için gereken sürenin başlangıcı aşağıdakilerden hangisidir?
 
@@ -170,25 +148,25 @@ E) Stüdyo banyo işlemleri için sinema-televizyon filmlerinin gönderilmesi �
 
 A) Belge orijinal süresinin yarısı kadar – En geç belge süresi sonundan itibaren 3 ay içinde  
 B) 12 aya kadar – En geç belge süresi sonundan itibaren 1 ay içinde  
-C) 6 aya kadar – En geç belge süresi sonundan itibaren 3 ay içinde  
-D) 12 aya kadar – Belge süresi dolmadan önce  
-E) Belge orijinal süresinin yarısı kadar – En geç belge süresi sonundan itibaren 1 ay içinde  
+C) Belge orijinal süresinin yarısı kadar – En geç belge süresi sonundan itibaren 1 ay içinde  
+D) 6 aya kadar – En geç belge süresi sonundan itibaren 3 ay içinde  
+E) 12 aya kadar – Belge süresi dolmadan önce  
 
 **17-** Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5)'ne göre serbest bölgeye geçici olarak ihraç edilen eşyanın işleme faaliyeti sonucunda elde edilen işlem görmüş ürünün bünyesinde herhangi bir üçüncü ülke menşeli girdi kullanılmamış ve işleme faaliyeti tamamen işçilikten ibaretse, bu ürünün ithalatında vergilendirme aşağıdakilerden hangisine göre yapılır?
 
 A) Katma değer vergisi, ithal edilen eşyanın tamamının kıymeti üzerinden tahsil edilir.  
 B) Gümrük vergisi oranı sıfır olarak uygulanır ve bu husus izin üzerinde belirtilir.  
-C) Yalnızca katma değer vergisi, işçilik faturasında gösterilen kıymet esas alınarak tahsil edilir.  
-D) İşlem görmüş ürün, ithalat vergilerinden tam muaf olarak serbest dolaşıma girer.  
-E) İthalat vergileri, gümrük kıymeti olarak işçilik masraflarına eşit bir tutar dikkate alınarak belirlenir.  
+C) İşlem görmüş ürün, ithalat vergilerinden tam muaf olarak serbest dolaşıma girer.  
+D) İthalat vergileri, gümrük kıymeti olarak işçilik masraflarına eşit bir tutar dikkate alınarak belirlenir.  
+E) Yalnızca katma değer vergisi, işçilik faturasında gösterilen kıymet esas alınarak tahsil edilir.  
 
 **18-** Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5)'ne göre hariçte işleme izin belgesi ve hariçte işleme izni taahhüdünün kapatılmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
 A) Hariçte işleme izin belgesi sahibi firmalar, ek süreler dahil belge süresi sonundan itibaren bir ay içinde DYS üzerinden ilgili bölge müdürlüğüne kapatma müracaatında bulunur.  
 B) Hariçte işleme izni sahibi firmalar, kapatma müracaatını izni veren ihracatçı birlikleri genel sekreterliğine yapar.  
-C) Kapatma müracaatında eksik bilgi ve belge gönderildiğinin tespiti hâlinde, eksikliğin bir ay içinde tamamlanması firmaya bildirilir.  
-D) Taahhüdü kapatılan belgelerde kamu kurum ve kuruluşlarınca yapılan bir maddi hatanın sonradan tespiti hâlinde hata, Bakanlığın (İhracat Genel Müdürlüğü) uygun görüşüne istinaden düzeltilebilir.  
-E) Süresinde kapatma müracaatında bulunulmaması üzerine yapılan bildirime rağmen bir ay içinde de müracaat edilmeyen belge, vergi kaybı cezası uygulanarak resen kapatılır.  
+C) Süresinde kapatma müracaatında bulunulmaması üzerine yapılan bildirime rağmen bir ay içinde de müracaat edilmeyen belge, vergi kaybı cezası uygulanarak resen kapatılır.  
+D) Kapatma müracaatında eksik bilgi ve belge gönderildiğinin tespiti hâlinde, eksikliğin bir ay içinde tamamlanması firmaya bildirilir.  
+E) Taahhüdü kapatılan belgelerde kamu kurum ve kuruluşlarınca yapılan bir maddi hatanın sonradan tespiti hâlinde hata, Bakanlığın (İhracat Genel Müdürlüğü) uygun görüşüne istinaden düzeltilebilir.  
 
 **19-** Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5)'ne göre taahhüdün kapatılması esnasında ibraz edilen gümrük beyannamesi ve eki belgelerin sahte veya üzerinde tahrifat yapılmış olduğunun tespiti hâlinde, ilgili vergi tahsil edilir ve ilgililer hakkında kanuni işlem yapılır. Bunun yanında belge/izin sahibi firma kaç ay süreyle hariçte işleme rejiminden yararlandırılmaz?
 
@@ -203,35 +181,29 @@ E) 36
 A) Eşyanın bakım ve onarımı ile sorumlu yetkili servisinden alınacak teknik rapor  
 B) Sanayi odası veya ticaret ve sanayi odasından alınacak belge  
 C) Belediyelere ait araç, gereç ve teçhizat için belediyenin konuyla ilgili rapor düzenlemeye yetkili teknik personeli tarafından hazırlanan rapor  
-D) Eşyanın gümrük işlemlerini takip eden yetkilendirilmiş gümrük müşavirince düzenlenen tespit raporu  
-E) Savunma sanayi sektöründe üretim ve montaj gibi teknik alanda faaliyet gösteren kuruluşlara ait teçhizat için bu kuruluşun yetkili teknik personelince hazırlanan rapor  
+D) Savunma sanayi sektöründe üretim ve montaj gibi teknik alanda faaliyet gösteren kuruluşlara ait teçhizat için bu kuruluşun yetkili teknik personelince hazırlanan rapor  
+E) Eşyanın gümrük işlemlerini takip eden yetkilendirilmiş gümrük müşavirince düzenlenen tespit raporu  
 
 ### Cevap Anahtarı
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D | C | E | B | E | C | A | D | A | C | B | A | B | D | A | E | C | E | B | D |
+| D | C | D | B | A | E | D | C | A | E | B | A | B | D | A | C | E | C | B | E |
 
 ### Çözümler
 
 *4458 sayılı Gümrük Kanunu md. 108, 135*
 
-**1-** 4458 sayılı Gümrük Kanunu'nda hariçte işleme rejimi bakımından "işleme faaliyetleri" deyiminin kapsamına ilişkin olarak aşağıdaki faaliyetler verilmiştir:
+**1-** 4458 sayılı Gümrük Kanunu'na göre hariçte işleme rejiminde geçen "işleme faaliyetleri" deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Eşyanın montajı, kurulması ve diğer eşya ile birleştirilmesi dahil olmak üzere işçiliğe tabi tutulması  
-II. Eşyanın işlenmesi  
-III. Eşyanın yenilenmesi ve düzenli hale getirilmesi dahil olmak üzere tamir edilmesi  
-IV. İşleme sırasında tamamen veya kısmen tüketilseler dahi, işlem görmüş ürünler içinde bulunmayan ancak bu ürünlerin üretilmesini sağlayan veya kolaylaştıran önceden belirlenmiş bazı eşyanın kullanılması  
-Yukarıdakilerden hangileri hariçte işleme rejiminde "işleme faaliyetleri" deyiminin kapsamındadır?  
-
-A) I ve II  
-B) II ve III  
-C) I, III ve IV  
-D) I, II ve III  
-E) I, II, III ve IV  
+A) Eşyanın işçiliğe tabi tutulması, işlenmesi ve tamir edilmesi ile işleme sırasında tüketilse dahi işlem görmüş ürünler içinde bulunmayan ancak bunların üretilmesini sağlayan veya kolaylaştıran önceden belirlenmiş bazı eşyanın kullanılması  
+B) Eşyanın montajı, kurulması ve diğer eşya ile birleştirilmesi dahil işçiliğe tabi tutulması ile işlenmesi; tamir bu deyimin dışında kalır  
+C) Eşyanın yalnızca yenilenmesi ve düzenli hale getirilmesi dahil olmak üzere tamir edilmesi  
+D) Eşyanın montajı, kurulması ve diğer eşya ile birleştirilmesi dahil işçiliğe tabi tutulması, işlenmesi ile yenilenmesi ve düzenli hale getirilmesi dahil tamir edilmesi  
+E) Geçici ihracat eşyasının yerine kullanılmak üzere ikame ürünle değiştirilmesi  
 
 **Doğru Cevap:** D  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu, hariçte işleme rejiminde geçen 'işleme faaliyetleri' deyimini ayrıca saymaz; dahilde işleme rejimindeki işleme faaliyetleri tanımının yalnızca ilk üç unsuruna gönderme yapar. Bu unsurlar eşyanın montajı, kurulması ve diğer eşya ile birleştirilmesi dahil olmak üzere işçiliğe tabi tutulması (I), eşyanın işlenmesi (II) ve eşyanın yenilenmesi ve düzenli hale getirilmesi dahil olmak üzere tamir edilmesidir (III). İşleme sırasında tüketilse dahi işlem görmüş ürün içinde bulunmayan, ancak üretimi sağlayan veya kolaylaştıran önceden belirlenmiş bazı eşyanın kullanılması (IV) yalnızca dahilde işleme rejimindeki tanımda yer alır; hariçte işleme rejimindeki gönderme bu unsuru kapsamaz. En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: dört unsurun birlikte sayıldığı dahilde işleme tanımını hariçte işlemeye aynen taşıyan aday bu şıkka gider. Bu nedenle doğru cevap D seçeneğidir. (MD GK 135; GK 108)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu, hariçte işleme rejiminde geçen 'işleme faaliyetleri' deyimini ayrıca saymaz; dahilde işleme rejimindeki işleme faaliyetleri tanımının yalnızca ilk üç unsuruna gönderme yapar. Bu unsurlar eşyanın montajı, kurulması ve diğer eşya ile birleştirilmesi dahil olmak üzere işçiliğe tabi tutulması, eşyanın işlenmesi ve eşyanın yenilenmesi ve düzenli hale getirilmesi dahil olmak üzere tamir edilmesidir. İşleme sırasında tüketilse dahi işlem görmüş ürün içinde bulunmayan, ancak üretimi sağlayan veya kolaylaştıran önceden belirlenmiş bazı eşyanın kullanılması yalnızca dahilde işleme rejimindeki tanımda yer alır; hariçte işleme rejimindeki gönderme bu unsuru kapsamaz. En güçlü çeldirici, üretimi sağlayan veya kolaylaştıran eşyanın kullanılmasını da sayan seçenektir: dört unsurlu dahilde işleme tanımını hariçte işlemeye aynen taşıyan aday onu işaretler. Tamiri deyimin dışında bırakan seçenek, tamirin rejimde ayrıca düzenlenmesinden yanılır; deyimi yalnızca tamire indiren seçenek ise standart değişim sisteminin yalnız tamirde uygulanmasını genel tanım sanır. İkame ürünle değiştirme usulü, Yönetmelikteki standart değişim sistemi tanımıdır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 135; GK 108; GY 395)
 
 *4458 sayılı Gümrük Kanunu md. 136, 141*
 
@@ -248,22 +220,16 @@ E) İhracı nedeniyle tarım politikası çerçevesinde vergi iadesi dışında 
 
 *4458 sayılı Gümrük Kanunu md. 137, 138, 148*
 
-**3-** 4458 sayılı Gümrük Kanunu'nun hariçte işleme izninin verilmesine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**3-** 4458 sayılı Gümrük Kanunu'na göre hariçte işleme izninin verilmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Hariçte işleme izni, talep üzerine, işleme faaliyetini yaptıracak kişiye verilebilir.  
-II. Hariçte işleme izni, talep edilen iznin Türkiye'deki üreticilerin temel ekonomik çıkarlarına ciddi bir zarar verecek durumda olmadığı hâllerde verilir.  
-III. Standart değişim çerçevesinde yürütülen işlemlerde de izin, işlem görmüş ürünlerin geçici ihracat eşyasının işlenmesi sonucu elde edildiğinin tespitinin mümkün olması şartına bağlıdır.  
-IV. Hariçte işleme izni, işleme faaliyetini yaptıracak kişi dışında başka bir kişiye hiçbir koşulda verilemez.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+A) Hariçte işleme izni, talep üzerine, işleme faaliyetini yaptıracak kişiye verilebilir.  
+B) Hariçte işleme izni, Türkiye Gümrük Bölgesinde yerleşik kişilere verilir.  
+C) Hariçte işleme izni, talep edilen iznin Türkiye'deki üreticilerin temel ekonomik çıkarlarına ciddi bir zarar verecek durumda olmadığı hâllerde verilir.  
+D) Standart değişim çerçevesinde yürütülen işlemlerde de izin, işlem görmüş ürünlerin geçici ihracat eşyasının işlenmesi sonucu elde edildiğinin tespitinin mümkün olması şartına bağlıdır.  
+E) Rejimin uygulanması Türkiye'deki üreticilerin temel çıkarlarını olumsuz etkilemeksizin ihraç eşyasının satışını teşvik ediyor ve işleme faaliyeti Türk menşeli eşya ile Türkiye dışında elde edilen eşyanın birleştirilmesiyle oluşan işlem görmüş ürün olarak ithal ediliyorsa, izin işleme faaliyetini yaptıracak kişi dışında başka bir kişiye de verilebilir.  
 
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, II ve IV  
-E) I ve II  
-
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Kanunu'na göre hariçte işleme izni, talep üzerine, işleme faaliyetini yaptıracak kişiye verilebilir (I doğru). İzin; Türkiye Gümrük Bölgesinde yerleşik kişilere, işlem görmüş ürünlerin geçici ihracat eşyasının işlenmesi sonucu elde edildiğinin tespiti mümkün olan hâllerde ve talep edilen iznin Türkiye'deki üreticilerin temel ekonomik çıkarlarına ciddi bir zarar verecek durumda olmadığı hâllerde verilir (II doğru). Ancak standart değişim çerçevesinde yürütülen işlemler, iznin başka kişiye verilmesine ilişkin hükme ve tespit şartına tabi değildir; bu sistemde ikame ürün olarak adlandırılan ithal eşyası işlem görmüş ürün ile değiştirilir (III yanlış). Kanun, rejimin Türkiye'deki üreticilerin temel çıkarlarını olumsuz etkilemeksizin ihraç eşyasının satışını teşvik etmesi ve işleme faaliyetinin Türk menşeli eşya ile Türkiye dışında elde edilen eşyanın birleştirilmesiyle oluşan ürün olarak ithal edilmesi hâlinde iznin işleme faaliyetini yaptıracak kişi dışında başka bir kişiye de verilebileceğini öngörür (IV yanlış). En güçlü çeldirici 'I, II ve III' seçeneğidir: tespit şartını her izin için mutlak sanan aday standart değişim istisnasını atlar. Bu nedenle doğru cevap E seçeneğidir. (MD GK 137, 138, 148)
+**Doğru Cevap:** D  
+**Gerekçe:** Gümrük Kanunu'na göre hariçte işleme izni, talep üzerine, işleme faaliyetini yaptıracak kişiye verilebilir. İzin; Türkiye Gümrük Bölgesinde yerleşik kişilere, işlem görmüş ürünlerin geçici ihracat eşyasının işlenmesi sonucu elde edildiğinin tespiti mümkün olan hâllerde ve talep edilen iznin Türkiye'deki üreticilerin temel ekonomik çıkarlarına ciddi bir zarar verecek durumda olmadığı hâllerde verilir. Rejimin uygulanması Türkiye'deki üreticilerin temel çıkarlarını olumsuz etkilemeksizin ihraç eşyasının satışını teşvik ediyor ve işleme faaliyeti Türk menşeli eşya ile Türkiye dışında elde edilen eşyanın birleştirilmesiyle oluşan işlem görmüş ürün olarak ithal ediliyorsa, izin işleme faaliyetini yaptıracak kişi dışında başka bir kişiye de verilebilir. Ancak standart değişim çerçevesinde yürütülen işlemler, iznin başka kişiye verilmesine ilişkin hükme ve tespit şartına tabi değildir; bu sistemde ikame ürün olarak adlandırılan ithal eşyası işlem görmüş ürün ile değiştirildiği için tespit şartı aranmaz. Yanlış ifade, 'tabi değildir' hükmünü 'şarta bağlıdır' biçiminde tersine çevirmektedir. En güçlü tuzak, tespit şartını her izin için mutlak sanmaktır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 137, 138, 144, 148)
 
 *4458 sayılı Gümrük Kanunu md. 135, 140, 141*
 
@@ -288,69 +254,59 @@ III. Standart değişimde ithalatın önceden yapıldığı durumda indirilecek 
 IV. Nihai kullanım amacıyla serbest dolaşıma girişte indirimli veya sıfır vergi oranından yararlanabilen geçici ihracat eşyasına, en son işleme faaliyetinin gerçekleştiği ülkede de nihai kullanıma uygun işçilik görmesi koşuluyla söz konusu indirimli veya sıfır vergi oranı uygulanır.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) I ve II  
-B) II ve III  
-C) I, II ve III  
-D) I, II, III ve IV  
-E) I, III ve IV  
-
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Kanunu'na göre tamir bedel karşılığında yapılmışsa ithalat vergileri, gümrük kıymeti olarak tamir masraflarına eşit bir tutar dikkate alınarak, işlem görmüş ürünlerin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihteki vergi oranı ve diğer vergilendirme unsurlarına göre belirlenir (I doğru). Kısmi muafiyette indirilecek tutarın hesaplanmasında ise iki ayrı tarih kullanılır: geçici ihracat eşyasının miktar ve niteliği hariçte işleme rejimine ilişkin beyannamenin tescili tarihine göre, diğer vergilendirme unsurları ise işlem görmüş ürünlerin yeniden serbest dolaşıma girişine ilişkin beyannamenin tescili tarihine göre dikkate alınır; II bu iki tarihi karıştırdığı için yanlıştır. Standart değişimde ithalat önceden yapılmışsa indirilecek tutar, geçici ihracat rejimine ilişkin beyannamenin tescili tarihinde geçici ihracat eşyasına uygulanabilir vergi oranı ve diğer vergilendirme unsurlarına göre belirlenir (III doğru). Nihai kullanım amacıyla indirimli veya sıfır orandan yararlanabilen geçici ihracat eşyasına, en son işleme ülkesinde de nihai kullanıma uygun işçilik görmesi koşuluyla aynı oran uygulanır (IV doğru). En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: II'deki tarih, aynı cümlede geçen diğer vergilendirme unsurlarına ait tarihtir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 141, 143, 147)
-
-*4458 sayılı Gümrük Kanunu md. 141; Gümrük Yönetmeliği md. 395, 402*
-
-**6-** (C) firması, serbest dolaşımdaki kumaşları hariçte işleme izni kapsamında (X) ülkesine geçici olarak ihraç etmiştir. Kumaşlar yalnızca (X) ülkesinde işlenerek gömleğe dönüştürülmüş ve gömlekler serbest dolaşıma giriş rejimine tabi tutulmak üzere beyan edilmiştir. Serbest dolaşıma giriş beyannamesinin tescil tarihi itibarıyla:
-
-- Gömleklere ait ithalat vergileri tutarı: 6.000 TL  
-- Kumaşların aynı tarihte (X) ülkesinden ithal edilmesi hâlinde uygulanacak gümrük vergisi tutarı: 2.000 TL  
-- Kumaşların aynı tarihte (X) ülkesinden ithal edilmesi hâlinde uygulanacak anti-damping vergisi tutarı: 1.000 TL  
-4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin hariçte işleme rejiminde ithalat vergilerinin hesaplanmasına ilişkin hükümlerine göre gömleklerin serbest dolaşıma girişinde ödenecek ithalat vergileri tutarı kaç TL'dir?  
-
-A) 2.000  
-B) 3.000  
-C) 4.000  
-D) 5.000  
-E) 6.000  
-
-**Doğru Cevap:** C  
-**Gerekçe:** Gümrük Kanunu'na göre hariçte işleme rejiminde ödenecek ithalat vergileri, işlem görmüş ürünlere ait ithalat vergileri tutarından, geçici ihracat eşyasına en son işleme faaliyetine tabi tutulduğu ülkeden aynı tarihte ithal edilse idi uygulanacak ithalat vergileri tutarının indirilmesiyle hesaplanır. Gümrük Yönetmeliği'ne göre ise Türkiye'deki üreticilerin temel ekonomik çıkarlarının korunması amacıyla uygulanan ek mali yükler ile anti-damping vergileri ve telafi edici vergiler, düşümü yapılacak tutarın hesaplanmasında dikkate alınmaz. Buna göre düşülecek tutar yalnızca 2.000 TL gümrük vergisidir: 6.000 − 2.000 = 4.000 TL. En güçlü çeldirici 3.000'dir: anti-damping vergisini de düşüm tutarına katan aday 6.000 − 3.000 = 3.000 bulur. 6.000 hiç düşüm yapmayan, 2.000 ise düşüm tutarını ödenecek vergi sanan adayın sonucudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 141; GY 395, 402)
-
-*4458 sayılı Gümrük Kanunu md. 142; Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1) md. 3*
-
-**7-** (A) firması yurt dışından satın aldığı bir ölçüm cihazını ithal etmiş, cihaz serbest dolaşıma girerken kusurlu olduğu dikkate alınarak işlem yapılmıştır. Daha sonra:
-
-- Cihaz, garanti sözleşmesi kapsamında tamir edilmek üzere hariçte işleme rejimi çerçevesinde yurt dışındaki imalatçısına geçici olarak ihraç edilmiştir.  
-- Tamiratın garanti nedeniyle bedelsiz yapıldığı, imalatçı firmanın düzenlediği garanti belgesinin noterlikçe onaylı tercümesiyle kanıtlanmıştır.  
-- Tamir edilen cihaz serbest dolaşıma girmek üzere Türkiye'ye getirilmiştir.  
-4458 sayılı Gümrük Kanunu'nun bedelsiz tamire ilişkin hükmüne göre cihazın serbest dolaşıma girişinde ithalat vergilerinden tam muafiyet uygulanıp uygulanmayacağına ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Uygulanmaz; çünkü cihazın serbest dolaşıma ilk girişi sırasında kusurlu olduğu dikkate alınarak işlem yapılmıştır.  
-B) Uygulanır; çünkü tamiratın garanti nedeniyle sözleşmeye bağlı olarak bedelsiz yapıldığı kanıtlanmıştır.  
-C) Uygulanır; çünkü garanti belgesinin noterlikçe onaylı tercümesi gümrük idaresine ibraz edilmiştir.  
-D) Uygulanmaz; çünkü tam muafiyet yalnızca kanuni bir yükümlülüğe dayanılarak bedelsiz yapılan tamiratta tanınır.  
-E) Uygulanmaz; çünkü bedelsiz tamirde ithalat vergileri, tamir masraflarına eşit bir gümrük kıymeti üzerinden hesaplanır.  
+A) I, III ve IV  
+B) I ve II  
+C) II ve III  
+D) I, II ve III  
+E) I, II, III ve IV  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Kanunu'na göre tamir amacıyla geçici ihraç edilen eşya, tamiratın garanti nedeniyle sözleşmeye bağlı olarak veya kanuni bir yükümlülüğe dayanarak ya da bir imalat hatası nedeniyle bedelsiz yapıldığının kanıtlanması hâlinde serbest dolaşıma ithalat vergilerinden tam muaf olarak girer. Ancak eşyanın serbest dolaşıma ilk girişi sırasında kusurlu olduğu dikkate alınarak işlem yapılmışsa bu hüküm uygulanmaz. Vakada cihaz ilk girişte kusurlu olduğu dikkate alınarak işlem görmüştür; bu nedenle bedelsiz tamir kanıtlanmış ve garanti belgesinin noterlikçe onaylı tercümesi ibraz edilmiş olsa da tam muafiyet uygulanmaz. Tam muafiyet yalnızca kanuni yükümlülükle sınırlı değildir; garanti ve imalat hatası da sayılmıştır. Tamir masraflarına eşit gümrük kıymeti ise tamiratın bedel karşılığında yapıldığı hâle ilişkindir. En güçlü çeldirici, bedelsiz tamirin kanıtlandığı gerekçesiyle muafiyetin uygulanacağını söyleyen seçenektir; vakadaki istisna ilk cümlede saklıdır. Bu nedenle doğru cevap A seçeneğidir. (MD GK 142, 143; HİR GGT Seri No 1 md. 3)
+**Gerekçe:** Gümrük Kanunu'na göre tamir bedel karşılığında yapılmışsa ithalat vergileri, gümrük kıymeti olarak tamir masraflarına eşit bir tutar dikkate alınarak, işlem görmüş ürünlerin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihteki vergi oranı ve diğer vergilendirme unsurlarına göre belirlenir (I doğru). Kısmi muafiyette indirilecek tutarın hesaplanmasında ise iki ayrı tarih kullanılır: geçici ihracat eşyasının miktar ve niteliği hariçte işleme rejimine ilişkin beyannamenin tescili tarihine göre, diğer vergilendirme unsurları ise işlem görmüş ürünlerin yeniden serbest dolaşıma girişine ilişkin beyannamenin tescili tarihine göre dikkate alınır; II bu iki tarihi karıştırdığı için yanlıştır. Standart değişimde ithalat önceden yapılmışsa indirilecek tutar, geçici ihracat rejimine ilişkin beyannamenin tescili tarihinde geçici ihracat eşyasına uygulanabilir vergi oranı ve diğer vergilendirme unsurlarına göre belirlenir (III doğru). Nihai kullanım amacıyla indirimli veya sıfır orandan yararlanabilen geçici ihracat eşyasına, en son işleme ülkesinde de nihai kullanıma uygun işçilik görmesi koşuluyla aynı oran uygulanır (IV doğru). En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: II'deki tarih, aynı cümlede geçen diğer vergilendirme unsurlarına ait tarihtir. Bu nedenle doğru cevap A seçeneğidir. (MD GK 141, 143, 147)
 
-*4458 sayılı Gümrük Kanunu md. 143; Gümrük Yönetmeliği md. 403, 411*
+*Gümrük Yönetmeliği md. 395, 402; 4458 sayılı Gümrük Kanunu md. 141*
+
+**6-** Gümrük Yönetmeliği'ne göre hariçte işleme rejiminde düşümü yapılacak tutarın hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?
+
+A) Türkiye'deki üreticilerin temel ekonomik çıkarlarının korunması amacıyla yürürlüğe konulan dış ticaret politikası önlemleri kapsamındaki ek mali yükler, düşümü yapılacak tutarın hesaplanmasında dikkate alınır.  
+B) Atık, artık, kırpıntı, döküntü ve kalıntılardan oluşan ikincil işlem görmüş ürünler, düşümü yapılacak tutarın dışında tutulur.  
+C) Düşüm yapılacak tutar, geçici ihracat eşyasına ilk işleme faaliyetine tabi tutulduğu ülkeden getirilerek serbest dolaşıma girişi tarihinde uygulanacak gümrük vergileri tutarıdır.  
+D) Düşüm yapılacak tutar, geçici ihracat eşyasının Türkiye Gümrük Bölgesi dışına çıkışında uygulanan ihracat vergileri tutarıdır.  
+E) Anti-damping vergileri ve telafi edici vergiler, düşümü yapılacak tutarın hesaplanmasında dikkate alınmaz.  
+
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre düşüm yapılacak tutar, geçici ihracat eşyasına en son işleme faaliyetine tabi tutulduğu ülkeden getirilerek Türkiye Gümrük Bölgesinde serbest dolaşıma girişi tarihinde uygulanacak gümrük vergileri tutarıdır; Kanun da ödenecek vergiyi, işlem görmüş ürünlere ait ithalat vergilerinden bu tutarın indirilmesiyle hesaplar. Türkiye'deki üreticilerin temel ekonomik çıkarlarının korunması amacıyla yürürlüğe konulan dış ticaret politikası önlemleri kapsamındaki ek mali yükler ile anti-damping vergileri ve telafi edici vergiler düşümü yapılacak tutarın hesaplanmasında dikkate alınmaz. Ek mali yüklerin dikkate alınacağını söyleyen seçenek bu hükmü tersine çevirir. Atık, artık, kırpıntı, döküntü ve kalıntılardan oluşan ikincil işlem görmüş ürünler ise düşümü yapılacak tutarın içinde yer almış kabul edilir; dışında tutulmaz. Düşümde esas alınan ülke ilk değil en son işleme ülkesidir. Geçici ihraçta uygulanan ihracat vergileri ise eşyanın çıkışına ilişkin ayrı bir hükümdür ve düşüm tutarıyla ilgisi yoktur. En güçlü tuzak, aynı fıkrada birlikte sayılan ek mali yükler ile anti-damping vergilerinin farklı sonuçlara bağlandığını sanmaktır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 395, 402; GK 135, 141)
+
+*4458 sayılı Gümrük Kanunu md. 142*
+
+**7-** 4458 sayılı Gümrük Kanunu'na göre tamir amacıyla geçici ihraç edilen eşyanın, tamiratın bedelsiz yapıldığının kanıtlanması hâlinde serbest dolaşıma girişine ilişkin aşağıdakilerden hangisi doğrudur?
+
+A) İthalat vergilerinden tam muafiyet yalnızca tamiratın kanuni bir yükümlülüğe dayanılarak bedelsiz yapılması hâlinde uygulanır.  
+B) Eşyanın serbest dolaşıma ilk girişi sırasında kusurlu olduğu dikkate alınarak işlem yapılmış olsa da bedelsiz tamirin kanıtlanması tam muafiyet için yeterlidir.  
+C) İthalat vergileri, gümrük kıymeti olarak tamir masraflarına eşit bir tutar dikkate alınarak belirlenir.  
+D) Eşyanın serbest dolaşıma ilk girişi sırasında kusurlu olduğu dikkate alınarak işlem yapılmışsa ithalat vergilerinden tam muafiyet uygulanmaz.  
+E) İthalat vergileri, işlem görmüş ürünlere ait vergilerden eşyanın en son tamir edildiği ülkeden aynı tarihte ithal edilse idi uygulanacak vergilerin indirilmesiyle hesaplanır.  
+
+**Doğru Cevap:** D  
+**Gerekçe:** Gümrük Kanunu'na göre tamir amacıyla geçici ihraç edilen eşya, tamiratın garanti nedeniyle sözleşmeye bağlı olarak veya kanuni bir yükümlülüğe dayanarak ya da bir imalat hatası nedeniyle bedelsiz yapıldığının kanıtlanması hâlinde serbest dolaşıma ithalat vergilerinden tam muaf olarak girer. Ancak eşyanın serbest dolaşıma ilk girişi sırasında kusurlu olduğu dikkate alınarak işlem yapılmışsa bu hüküm uygulanmaz. En güçlü çeldirici, bedelsiz tamirin kanıtlanmasını her durumda yeterli sayan seçenektir: istisna cümlesini görmeyen aday onu doğru sanır. Tam muafiyet yalnızca kanuni yükümlülükle sınırlı değildir; garanti ve imalat hatası da sayılmıştır. Tamir masraflarına eşit gümrük kıymeti tamiratın bedel karşılığında yapıldığı hâle, en son işleme ülkesinden ithal edilse idi uygulanacak vergilerin indirilmesi ise kısmi muafiyetin genel hesaplama yöntemine aittir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 141, 142, 143)
+
+*4458 sayılı Gümrük Kanunu md. 143; Gümrük Yönetmeliği md. 411*
 
 **8-** (B) firması, serbest dolaşımdaki bir jeneratörü bedel karşılığında tamir ettirmek üzere hariçte işleme rejimi kapsamında yurt dışına geçici olarak ihraç etmiştir. Tamir edilen jeneratör serbest dolaşıma girmek üzere Türkiye'ye getirilmiş olup buna ilişkin bilgiler şöyledir:
 
+- Jeneratörün geçici ihracat beyannamesinde beyan edilen kıymeti: 50.000 Avro  
 - Tamir masrafı: 8.000 Avro  
-- Jeneratörün tamir yerine gönderilmesi için ödenen navlun ve sigorta: 600 Avro  
 - Jeneratörün Türkiye Gümrük Bölgesine gelişinde ödenen navlun: 700 Avro  
 - Jeneratörün Türkiye Gümrük Bölgesine gelişinde ödenen sigorta: 100 Avro  
 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin bedel karşılığında yapılan tamirde vergilendirmeye ilişkin hükümlerine göre jeneratörün ithalat vergilerinin hesaplanmasında gümrük kıymeti olarak dikkate alınacak tutar kaç Avro'dur?  
 
 A) 8.000  
-B) 8.600  
-C) 8.700  
-D) 8.800  
-E) 9.400  
+B) 8.700  
+C) 8.800  
+D) 50.000  
+E) 58.800  
 
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük Kanunu'na göre eşyanın tamir amacıyla geçici ihraç edildiği ve tamiratın bedel karşılığında yapıldığı hâllerde ithalat vergileri, gümrük kıymeti olarak tamir masraflarına eşit bir tutar dikkate alınarak, işlem görmüş ürünlerin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihteki vergi oranı ve diğer vergilendirme unsurlarına göre belirlenir. Gümrük Yönetmeliği bu kıymete eşyanın Türkiye Gümrük Bölgesine gelişinde ödenen navlun ve sigortanın ve Türkiye Gümrük Bölgesi dışında tamir sırasında ödenen diğer masrafların da katılacağını öngörür. Buna karşılık geçici ihraç eşyasının işleme yerine kadar olan yükleme, navlun ve sigorta maliyetleri kıymete dahil edilmez. Hesap: 8.000 + 700 + 100 = 8.800 Avro. En güçlü çeldirici 9.400'dür: tamir yerine gidiş için ödenen 600 Avro'yu da ekleyen aday bu sonuca ulaşır. 8.000 yalnızca tamir masrafını esas alıp Yönetmelikteki ilaveleri bilmeyen, 8.600 ise geliş yerine gidiş navlun ve sigortasını ekleyen adayın sonucudur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 143; GY 403, 411)
+**Doğru Cevap:** C  
+**Gerekçe:** Gümrük Kanunu'na göre eşyanın tamir amacıyla geçici ihraç edildiği ve tamiratın bedel karşılığında yapıldığı hâllerde ithalat vergileri, gümrük kıymeti olarak tamir masraflarına eşit bir tutar dikkate alınarak, işlem görmüş ürünlerin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihteki vergi oranı ve diğer vergilendirme unsurlarına göre belirlenir. Gümrük Yönetmeliği bu kıymete eşyanın Türkiye Gümrük Bölgesine gelişinde ödenen navlun ve sigortanın ve Türkiye Gümrük Bölgesi dışında tamir sırasında ödenen diğer masrafların da katılacağını öngörür. Jeneratörün geçici ihracatta beyan edilen kıymeti hesaba katılmaz; Kanun gümrük kıymeti olarak eşyanın kendi kıymetini değil, tamir masraflarına eşit tutarı esas alır. Hesap: 8.000 + 700 + 100 = 8.800 Avro. En güçlü çeldirici 8.000'dir: Kanundaki 'tamir masraflarına eşit bir tutar' ifadesini bilen ancak Yönetmelikteki navlun ve sigorta ilavesini bilmeyen aday bu sonuca ulaşır. 8.700 gelişte ödenen navlunu ekleyip sigortayı atlayan, 50.000 geçici ihracatta beyan edilen kıymeti esas alan, 58.800 ise tamir edilen jeneratörün tüm kıymetini (50.000 + 8.000 + 700 + 100) esas alan adayın sonucudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 143; GY 411)
 
 *4458 sayılı Gümrük Kanunu md. 144, 145; Gümrük Yönetmeliği md. 413, 414*
 
@@ -377,12 +333,12 @@ E) II, III ve IV
 
 A) Eşya üzerindeki üretici tarafından konan özel işaret ve seri numaraları  
 B) Eşyanın numune veya teknik dokümanları  
-C) Eşya üzerine tatbik edilmiş mühür veya etiketler  
-D) Eşyanın analiz veya ekspertiz raporu  
-E) İşlem görmüş ürünlerin geçici ihraç eşyasından üretileceğini belgeleyen sözleşme, proforma fatura, fatura gibi belgeler  
+C) Eşyanın analiz veya ekspertiz raporu  
+D) İşlem görmüş ürünlerin geçici ihraç eşyasından üretileceğini belgeleyen sözleşme, proforma fatura, fatura gibi belgeler  
+E) Eşya üzerine tatbik edilmiş mühür veya etiketler  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük idareleri geçici ihracata konu eşyayı; üretici tarafından konan özel işaret ve seri numaralarını, eşya üzerine tatbik edilmiş mühür veya etiketleri, numune veya teknik dokümanları, analiz veya ekspertiz raporunu ve işlem görmüş ürünlerin geçici ihraç eşyasından üretileceğini belgeleyen sözleşme, proforma fatura, fatura gibi belgeleri inceleyerek geçici ihracına izin verir. Standart değişim sistemi kapsamında ise ayniyet tespitinde bu listenin yalnızca dört unsuru incelenir: özel işaret ve seri numaraları, numune veya teknik dokümanlar, analiz veya ekspertiz raporu ile sözleşme ve fatura gibi belgeler. Eşya üzerine tatbik edilmiş mühür veya etiketler standart değişimde incelenecekler arasında sayılmamıştır. En güçlü tuzak, mühür ve etiketin genel ayniyet listesinde yer almasıdır; genel listeyi standart değişime aynen taşıyan aday bu şıkkı eler. Bu nedenle doğru cevap C seçeneğidir. (MD GY 398)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük idareleri geçici ihracata konu eşyayı; üretici tarafından konan özel işaret ve seri numaralarını, eşya üzerine tatbik edilmiş mühür veya etiketleri, numune veya teknik dokümanları, analiz veya ekspertiz raporunu ve işlem görmüş ürünlerin geçici ihraç eşyasından üretileceğini belgeleyen sözleşme, proforma fatura, fatura gibi belgeleri inceleyerek geçici ihracına izin verir. Standart değişim sistemi kapsamında ise ayniyet tespitinde bu listenin yalnızca dört unsuru incelenir: özel işaret ve seri numaraları, numune veya teknik dokümanlar, analiz veya ekspertiz raporu ile sözleşme ve fatura gibi belgeler. Eşya üzerine tatbik edilmiş mühür veya etiketler standart değişimde incelenecekler arasında sayılmamıştır. En güçlü tuzak, mühür ve etiketin genel ayniyet listesinde yer almasıdır; genel listeyi standart değişime aynen taşıyan aday bu şıkkı eler. Bu nedenle doğru cevap E seçeneğidir. (MD GY 398)
 
 *Gümrük Yönetmeliği md. 397*
 
@@ -455,12 +411,12 @@ E) Stüdyo banyo işlemleri için sinema-televizyon filmlerinin gönderilmesi �
 
 A) Belge orijinal süresinin yarısı kadar – En geç belge süresi sonundan itibaren 3 ay içinde  
 B) 12 aya kadar – En geç belge süresi sonundan itibaren 1 ay içinde  
-C) 6 aya kadar – En geç belge süresi sonundan itibaren 3 ay içinde  
-D) 12 aya kadar – Belge süresi dolmadan önce  
-E) Belge orijinal süresinin yarısı kadar – En geç belge süresi sonundan itibaren 1 ay içinde  
+C) Belge orijinal süresinin yarısı kadar – En geç belge süresi sonundan itibaren 1 ay içinde  
+D) 6 aya kadar – En geç belge süresi sonundan itibaren 3 ay içinde  
+E) 12 aya kadar – Belge süresi dolmadan önce  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Hariçte İşleme Rejimi Tebliği'ne göre hariçte işleme izin belgesinin ve hariçte işleme izninin süresi azami on iki aydır. İlgili firmanın gerekçeli talebi üzerine hariçte işleme izin belgesine belge orijinal süresinin 1/2'si oranında, hariçte işleme iznine ise 12 aya kadar ek süre verilebilir. Ek süreden yararlanmak için hariçte işleme izin belgesinde en geç belge süresi sonundan itibaren 1 ay içinde tevsik edici bilgi ve belgelerle DYS üzerinden Bakanlığa müracaat edilir; bu sürede yapılmayan müracaat değerlendirmeye alınmaz. En güçlü çeldirici, ek süre miktarı doğru olup müracaat süresi üç ay olan seçenektir: üç aylık müracaat süresi dahilde işleme izin belgesine aittir. '12 aya kadar' ise maden ihracatçı birliklerince verilen hariçte işleme izni için öngörülen ek süredir. Bu nedenle doğru cevap E seçeneğidir. (MD HİR Tebliği 9, 10)
+**Doğru Cevap:** C  
+**Gerekçe:** Hariçte İşleme Rejimi Tebliği'ne göre hariçte işleme izin belgesinin ve hariçte işleme izninin süresi azami on iki aydır. İlgili firmanın gerekçeli talebi üzerine hariçte işleme izin belgesine belge orijinal süresinin 1/2'si oranında, hariçte işleme iznine ise 12 aya kadar ek süre verilebilir. Ek süreden yararlanmak için hariçte işleme izin belgesinde en geç belge süresi sonundan itibaren 1 ay içinde tevsik edici bilgi ve belgelerle DYS üzerinden Bakanlığa müracaat edilir; bu sürede yapılmayan müracaat değerlendirmeye alınmaz. En güçlü çeldirici, ek süre miktarı doğru olup müracaat süresi üç ay olan seçenektir: üç aylık müracaat süresi dahilde işleme izin belgesine aittir. '12 aya kadar' ise maden ihracatçı birliklerince verilen hariçte işleme izni için öngörülen ek süredir. Bu nedenle doğru cevap C seçeneğidir. (MD HİR Tebliği 9, 10)
 
 *Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) md. 13, 16*
 
@@ -468,12 +424,12 @@ E) Belge orijinal süresinin yarısı kadar – En geç belge süresi sonundan i
 
 A) Katma değer vergisi, ithal edilen eşyanın tamamının kıymeti üzerinden tahsil edilir.  
 B) Gümrük vergisi oranı sıfır olarak uygulanır ve bu husus izin üzerinde belirtilir.  
-C) Yalnızca katma değer vergisi, işçilik faturasında gösterilen kıymet esas alınarak tahsil edilir.  
-D) İşlem görmüş ürün, ithalat vergilerinden tam muaf olarak serbest dolaşıma girer.  
-E) İthalat vergileri, gümrük kıymeti olarak işçilik masraflarına eşit bir tutar dikkate alınarak belirlenir.  
+C) İşlem görmüş ürün, ithalat vergilerinden tam muaf olarak serbest dolaşıma girer.  
+D) İthalat vergileri, gümrük kıymeti olarak işçilik masraflarına eşit bir tutar dikkate alınarak belirlenir.  
+E) Yalnızca katma değer vergisi, işçilik faturasında gösterilen kıymet esas alınarak tahsil edilir.  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Hariçte İşleme Rejimi Tebliği'ne göre serbest bölgeye geçici olarak ihraç edilen eşyanın işleme faaliyeti sonucunda elde edilen işlem görmüş ürünün bünyesinde herhangi bir üçüncü ülke menşeli girdi kullanılmaması ve işleme faaliyetinin tamamen işçilik olması durumunda, işçilik faturasında belirtilen kıymet üzerinden sadece katma değer vergisi tahsil edilir. En güçlü çeldirici, ithal edilen eşyanın tamamı üzerinden KDV alınmasıdır: Tebliğ bu kuralı, ithalatın izin belgesi veya izin sahibi firma dışında başka bir firma tarafından gerçekleştirildiği durum için öngörür. Gümrük vergisinin sıfır oranla uygulanması ve bunun izin üzerinde belirtilmesi, izabe suretiyle temizlenmek veya elektrolize edilmek gibi amaçlarla geçici ihraç edilen maden cevherlerinden elde edilen ürünlere ilişkindir. Tam muafiyet bedelsiz tamire, işçilik masraflarına eşit kıymet üzerinden vergilendirme ise sinema-televizyon filmleri ile bedelli tamir hükümlerine aittir. Bu nedenle doğru cevap C seçeneğidir. (MD HİR Tebliği 13, 16)
+**Doğru Cevap:** E  
+**Gerekçe:** Hariçte İşleme Rejimi Tebliği'ne göre serbest bölgeye geçici olarak ihraç edilen eşyanın işleme faaliyeti sonucunda elde edilen işlem görmüş ürünün bünyesinde herhangi bir üçüncü ülke menşeli girdi kullanılmaması ve işleme faaliyetinin tamamen işçilik olması durumunda, işçilik faturasında belirtilen kıymet üzerinden sadece katma değer vergisi tahsil edilir. En güçlü çeldirici, ithal edilen eşyanın tamamı üzerinden KDV alınmasıdır: Tebliğ bu kuralı, ithalatın izin belgesi veya izin sahibi firma dışında başka bir firma tarafından gerçekleştirildiği durum için öngörür. Gümrük vergisinin sıfır oranla uygulanması ve bunun izin üzerinde belirtilmesi, izabe suretiyle temizlenmek veya elektrolize edilmek gibi amaçlarla geçici ihraç edilen maden cevherlerinden elde edilen ürünlere ilişkindir. Tam muafiyet bedelsiz tamire, işçilik masraflarına eşit kıymet üzerinden vergilendirme ise sinema-televizyon filmlerine ilişkin hükme aittir; bedelli tamirde de kıymet olarak tamir masraflarına eşit tutar esas alınır. Bu nedenle doğru cevap E seçeneğidir. (MD HİR Tebliği 13, 16)
 
 *Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) md. 17*
 
@@ -481,12 +437,12 @@ E) İthalat vergileri, gümrük kıymeti olarak işçilik masraflarına eşit bi
 
 A) Hariçte işleme izin belgesi sahibi firmalar, ek süreler dahil belge süresi sonundan itibaren bir ay içinde DYS üzerinden ilgili bölge müdürlüğüne kapatma müracaatında bulunur.  
 B) Hariçte işleme izni sahibi firmalar, kapatma müracaatını izni veren ihracatçı birlikleri genel sekreterliğine yapar.  
-C) Kapatma müracaatında eksik bilgi ve belge gönderildiğinin tespiti hâlinde, eksikliğin bir ay içinde tamamlanması firmaya bildirilir.  
-D) Taahhüdü kapatılan belgelerde kamu kurum ve kuruluşlarınca yapılan bir maddi hatanın sonradan tespiti hâlinde hata, Bakanlığın (İhracat Genel Müdürlüğü) uygun görüşüne istinaden düzeltilebilir.  
-E) Süresinde kapatma müracaatında bulunulmaması üzerine yapılan bildirime rağmen bir ay içinde de müracaat edilmeyen belge, vergi kaybı cezası uygulanarak resen kapatılır.  
+C) Süresinde kapatma müracaatında bulunulmaması üzerine yapılan bildirime rağmen bir ay içinde de müracaat edilmeyen belge, vergi kaybı cezası uygulanarak resen kapatılır.  
+D) Kapatma müracaatında eksik bilgi ve belge gönderildiğinin tespiti hâlinde, eksikliğin bir ay içinde tamamlanması firmaya bildirilir.  
+E) Taahhüdü kapatılan belgelerde kamu kurum ve kuruluşlarınca yapılan bir maddi hatanın sonradan tespiti hâlinde hata, Bakanlığın (İhracat Genel Müdürlüğü) uygun görüşüne istinaden düzeltilebilir.  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Hariçte İşleme Rejimi Tebliği'ne göre hariçte işleme izin belgesi sahibi firmalar ek süreler dahil belge süresi sonundan itibaren bir ay içinde DYS üzerinden ilgili bölge müdürlüğüne, hariçte işleme izni sahibi firmalar ise izni veren ihracatçı birlikleri genel sekreterliğine kapatma için müracaat etmek zorundadır. Bu sürede müracaat edilmezse firmaya bir ay içinde müracaat etmesi bildirilir; bu sürede de müracaat edilmezse belge veya izin, kapsamındaki diğer sorumluluklar yerine getirilmiş olmak şartıyla gümrük mevzuatı çerçevesinde usulsüzlük cezası uygulanarak resen kapatılır. Yanlış ifadede usulsüzlük cezası yerine vergi kaybı cezası yazılmıştır ve bu değişiklik hukuki sonucu değiştirir. Eksik bilgi ve belgenin bir ay içinde tamamlanması firmaya bildirilir; kapatılmış belgelerde kamu kurumlarınca yapılan maddi hata Bakanlığın (İhracat Genel Müdürlüğü) uygun görüşüyle düzeltilebilir. Bu nedenle doğru cevap E seçeneğidir. (MD HİR Tebliği 17)
+**Doğru Cevap:** C  
+**Gerekçe:** Hariçte İşleme Rejimi Tebliği'ne göre hariçte işleme izin belgesi sahibi firmalar ek süreler dahil belge süresi sonundan itibaren bir ay içinde DYS üzerinden ilgili bölge müdürlüğüne, hariçte işleme izni sahibi firmalar ise izni veren ihracatçı birlikleri genel sekreterliğine kapatma için müracaat etmek zorundadır. Bu sürede müracaat edilmezse firmaya bir ay içinde müracaat etmesi bildirilir; bu sürede de müracaat edilmezse belge veya izin, kapsamındaki diğer sorumluluklar yerine getirilmiş olmak şartıyla gümrük mevzuatı çerçevesinde usulsüzlük cezası uygulanarak resen kapatılır. Yanlış ifadede usulsüzlük cezası yerine vergi kaybı cezası yazılmıştır ve bu değişiklik hukuki sonucu değiştirir. Eksik bilgi ve belgenin bir ay içinde tamamlanması firmaya bildirilir; kapatılmış belgelerde kamu kurumlarınca yapılan maddi hata Bakanlığın (İhracat Genel Müdürlüğü) uygun görüşüyle düzeltilebilir. Bu nedenle doğru cevap C seçeneğidir. (MD HİR Tebliği 17)
 
 *Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) md. 9, 20*
 
@@ -508,21 +464,21 @@ E) 36
 A) Eşyanın bakım ve onarımı ile sorumlu yetkili servisinden alınacak teknik rapor  
 B) Sanayi odası veya ticaret ve sanayi odasından alınacak belge  
 C) Belediyelere ait araç, gereç ve teçhizat için belediyenin konuyla ilgili rapor düzenlemeye yetkili teknik personeli tarafından hazırlanan rapor  
-D) Eşyanın gümrük işlemlerini takip eden yetkilendirilmiş gümrük müşavirince düzenlenen tespit raporu  
-E) Savunma sanayi sektöründe üretim ve montaj gibi teknik alanda faaliyet gösteren kuruluşlara ait teçhizat için bu kuruluşun yetkili teknik personelince hazırlanan rapor  
+D) Savunma sanayi sektöründe üretim ve montaj gibi teknik alanda faaliyet gösteren kuruluşlara ait teçhizat için bu kuruluşun yetkili teknik personelince hazırlanan rapor  
+E) Eşyanın gümrük işlemlerini takip eden yetkilendirilmiş gümrük müşavirince düzenlenen tespit raporu  
 
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük Genel Tebliği'ne göre tamir amaçlı hariçte işleme izninin verilebilmesi için eşyanın tamir edilebilir durumda olduğunun gümrük idarelerince tespiti gerekir. Gümrük idaresi bunu tespit edemezse eşyanın bakım ve onarımı ile sorumlu yetkili servisinden alınacak teknik rapor veya sanayi odası ya da ticaret ve sanayi odasından alınacak belge gümrük idaresine ibraz edilir. Kamu kurum ve kuruluşları, belediyeler, sermayesinin tamamı devlete ait kamu iktisadi teşebbüsleri ile sivil havacılık ve savunma sanayi sektöründe üretim ve montaj gibi teknik alanda faaliyet gösteren kuruluşlara ait araç, gereç ve teçhizatta ise bu kuruluşların rapor düzenlemeye yetkili teknik personelince hazırlanan raporlar yeterlidir. Yetkilendirilmiş gümrük müşavirinin tespit raporu ayrı bir mevzuatın konusudur ve Tebliğde tamir edilebilirliği gösteren belgeler arasında sayılmamıştır. Tuzak, gümrük işlemlerinde her tespiti müşavirin yapabileceği önyargısıdır. Bu nedenle doğru cevap D seçeneğidir. (MD HİR GGT Seri No 1 md. 3)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Genel Tebliği'ne göre tamir amaçlı hariçte işleme izninin verilebilmesi için eşyanın tamir edilebilir durumda olduğunun gümrük idarelerince tespiti gerekir. Gümrük idaresi bunu tespit edemezse eşyanın bakım ve onarımı ile sorumlu yetkili servisinden alınacak teknik rapor veya sanayi odası ya da ticaret ve sanayi odasından alınacak belge gümrük idaresine ibraz edilir. Kamu kurum ve kuruluşları, belediyeler, sermayesinin tamamı devlete ait kamu iktisadi teşebbüsleri ile sivil havacılık ve savunma sanayi sektöründe üretim ve montaj gibi teknik alanda faaliyet gösteren kuruluşlara ait araç, gereç ve teçhizatta ise bu kuruluşların rapor düzenlemeye yetkili teknik personelince hazırlanan raporlar yeterlidir. Yetkilendirilmiş gümrük müşavirinin tespit raporu ayrı bir mevzuatın konusudur ve Tebliğde tamir edilebilirliği gösteren belgeler arasında sayılmamıştır. Tuzak, gümrük işlemlerinde her tespiti müşavirin yapabileceği önyargısıdır. Bu nedenle doğru cevap E seçeneğidir. (MD HİR GGT Seri No 1 md. 3)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 4 (I, II ve III, I ve II, I, III ve IV, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 15, İSTİSNA 6, LİSTE-DIŞI 5, TERİM 5, TERSİNE 3, AD-HESAP 2 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (I, III ve IV, II ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 15, TERİM 6, TERSİNE 5, İSTİSNA 5, LİSTE-DIŞI 4, UNSUR 3 |
 | İkiz eksen / ayna | 2, 18 / Tamir: bedelsiz ↔ bedelli |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 3 |

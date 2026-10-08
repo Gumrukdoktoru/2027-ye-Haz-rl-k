@@ -38,19 +38,13 @@ C) Üretim makinelerinin yağlanmasında kullanılan yağlar
 D) İşleme faaliyetinde kullanılan aletler  
 E) Üretim hattında kullanılan ölçüm gereçleri  
 
-**5-** 4458 sayılı Gümrük Kanunu'nun dahilde işleme izninin verilmesine ilişkin hükümleri çerçevesinde aşağıdaki olayı değerlendiriniz:
+**5-** 4458 sayılı Gümrük Kanunu'na göre dahilde işleme izninin verilebileceği kişilere ilişkin aşağıdakilerden hangisi doğrudur?
 
-- (K) şirketinin kanuni merkezi ve bütün işyerleri Almanya'dadır; şirketin Türkiye'de işyeri veya şubesi bulunmamaktadır.  
-- (K) şirketi, Türkiye'deki bir fabrikaya işleteceği kumaşları dahilde işleme rejimi kapsamında ithal etmek için izin talep etmiştir.  
-- Fabrikada üretilecek gömlekler, (K) şirketi tarafından Avrupa'daki mağazalarda satılmak üzere yurt dışına gönderilecektir.  
-- Kumaşın gömlekler içerisindeki mevcudiyeti tespit edilebilmekte, ekonomik koşulların da sağlandığı anlaşılmaktadır.  
-Buna göre (K) şirketinin izin talebi hakkında aşağıdakilerden hangisi doğrudur?  
-
-A) İşleme faaliyetini kendisi yapmayıp başka bir fabrikaya yaptıracağı için şirkete dahilde işleme izni verilemez.  
-B) Ticari nitelikteki ithalat için de Türkiye Gümrük Bölgesi dışında yerleşik kişilere izin verilebileceğinden talep karşılanır.  
-C) Türkiye Gümrük Bölgesi dışında yerleşik kişilere yalnızca ticari nitelikte olmayan dahilde işleme amaçlı ithalat için izin verilebileceğinden talep karşılanamaz.  
-D) İşleme faaliyeti Türkiye'deki bir fabrikada yapılacağından yerleşiklik şartı sağlanmış sayılır ve izin verilir.  
-E) İzin, Türkiye Gümrük Bölgesinde yerleşik bir temsilci aracılığıyla talep edilmesi kaydıyla şirkete verilebilir.  
+A) İzin, yalnızca işleme faaliyetlerini bizzat yapan kişinin talebi üzerine verilebilir; işlemeyi başkasına yaptıran kişiye izin verilmez.  
+B) İşleme faaliyetini Türkiye Gümrük Bölgesindeki bir işletmeye yaptıran yurt dışı yerleşik kişi, ticari nitelikteki ithalat için de izin alabilir.  
+C) Ticari nitelikte olmayan dahilde işleme amaçlı ithalat için Türkiye Gümrük Bölgesi dışında yerleşik kişilere de izin verilebilir.  
+D) Türkiye Gümrük Bölgesinde yerleşik bir temsilci aracılığıyla başvuran yurt dışı yerleşik kişiye ticari nitelikteki ithalat için de izin verilebilir.  
+E) Türkiye Gümrük Bölgesinde yerleşik kişilere izin, ancak ithalatın ticari nitelikte olmaması kaydıyla verilebilir.  
 
 **6-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre ihraç amacıyla gümrük muafiyetli ithalata ve/veya yurt içi alımlara imkân sağlayan dahilde işleme izin belgesini almak isteyen firmanın müracaatı aşağıdakilerden hangisine yapılır?
 
@@ -84,19 +78,13 @@ C) %10
 D) %25  
 E) %80  
 
-**10-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre döviz kullanım oranının hesaplanmasına ilişkin aşağıdaki bilgiler verilmiştir:
+**10-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre döviz kullanım oranının tanımı aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-- (M) firması adına düzenlenen dahilde işleme izin belgesi kapsamında 300.000 ABD Doları CIF tutarında ithalat yapılmıştır.  
-- Aynı belge kapsamında yurt içinden 100.000 ABD Doları tutarında hammadde alımı yapılmıştır.  
-- Belge kapsamında gerçekleştirilen ihracatın FOB tutarı 400.000 ABD Dolarıdır.  
-- Belge kapsamında ikincil işlem görmüş ürün elde edilmemiştir.  
-Buna göre belge kapsamındaki döviz kullanım oranı yüzde kaçtır?  
-
-A) %25  
-B) %60  
-C) %75  
-D) %80  
-E) %100  
+A) Belge/izin kapsamındaki CIF ithal tutarı ile yurt içi alımlar toplamının, serbest dolaşıma giriş rejimine göre ithal edilen ikincil işlem görmüş ürünün gümrük kıymeti dahil FOB ihraç tutarına olan yüzde oranı  
+B) Belge/izin kapsamındaki FOB ithal tutarının (yurt içi alımlar hariç), serbest dolaşıma giriş rejimine göre ithal edilen ikincil işlem görmüş ürünün gümrük kıymeti dahil CIF ihraç tutarına olan yüzde oranı  
+C) Belge/izin kapsamındaki CIF ithal tutarının (yurt içi alımlar hariç), serbest dolaşıma giriş rejimine göre ithal edilen ikincil işlem görmüş ürünün gümrük kıymeti hariç FOB ihraç tutarına olan yüzde oranı  
+D) Belge/izin kapsamındaki CIF ithal tutarının (yurt içi alımlar hariç), serbest dolaşıma giriş rejimine göre ithal edilen ikincil işlem görmüş ürünün gümrük kıymeti dahil FOB ihraç tutarına olan yüzde oranı  
+E) Belirli miktardaki eşyanın işlenmesi sonucunda elde edilen işlem görmüş ürünün miktarı veya yüzde oranı  
 
 **11-** Gümrük Yönetmeliği ile Dahilde İşleme Rejimi Tebliği'nin (İhracat: 2006/12) şartlı muafiyet sisteminde önceden ihracat uygulamasına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
 
@@ -106,34 +94,34 @@ III. Önceden ihracata tekabül eden ithalat esnasında, Özel Tüketim Vergisi 
 IV. İthal edilecek eşyanın rejime girmesi şartıyla, ithal eşyası rejime girişi sırasında serbest dolaşımda bulunan eşya kabul edilir.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) I ve II  
-B) II ve III  
-C) I, III ve IV  
-D) II, III ve IV  
+A) II, III ve IV  
+B) I ve II  
+C) II ve III  
+D) I, III ve IV  
 E) I, II, III ve IV  
 
 **12-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre belge/izin süresi içerisinde meydana gelmesi hâlinde dahilde işleme izin belgesine veya dahilde işleme iznine ilave süre verilebilecek mücbir sebep ile fevkalade hâller arasında aşağıdakilerden hangisi sayılmamıştır?
 
-A) Sermaye şirketlerinde şirket ortaklarından birinin ölümü  
-B) Yükümlü firmanın faaliyetinin kamu otoritelerince kısıtlanması, durdurulması veya firmaya el konulması  
-C) Ülkemizde veya ithalatçı ülkede genel salgın hastalık  
-D) Yükümlü firmanın konkordato ilan etmiş olması  
-E) Grev ve lokavt  
+A) Yükümlü firmanın faaliyetinin kamu otoritelerince kısıtlanması, durdurulması veya firmaya el konulması  
+B) Ülkemizde veya ithalatçı ülkede genel salgın hastalık  
+C) Yükümlü firmanın konkordato ilan etmiş olması  
+D) Grev ve lokavt  
+E) Sermaye şirketlerinde şirket ortaklarından birinin ölümü  
 
 **13-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre dahilde işleme izin belgesi/dahilde işleme izni kapsamındaki eşyanın temsilci aracılığıyla ithalatına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
 A) Elektronik ortamda düzenlenen dahilde işleme izin belgesi kapsamında temsilci aracılığıyla ithalat yapılabilmesi için önceden ilgili bölge müdürlüğünden izin alınması gerekir.  
 B) Temsilci aracılığıyla yapılan ithalata, belge/izin süresi içerisinde belirtilen miktarı geçmemesi kaydıyla ilgili gümrük idaresince izin verilir.  
 C) Temsilci aracılığıyla yapılan ithalata ilişkin gümrük beyannamesi üzerinde belge sahibi firma unvanı ile belge satır kodunun kaydedilmiş olması gerekir.  
-D) İthalata aracılık eden temsilcinin eşyayı belge/izin sahibine teslim etmediğinin tespiti hâlinde temsilci, alınmayan vergiden belge/izin sahibi firma ile birlikte müştereken ve müteselsilen sorumludur.  
-E) Belge/izin kapsamındaki eşyanın temsilci aracılığıyla ithalatı, ancak bir gümrük müşavirinin dolaylı temsilci olarak tayin edilmesi hâlinde yapılabilir.  
+D) Belge/izin kapsamındaki eşyanın temsilci aracılığıyla ithalatı, ancak bir gümrük müşavirinin dolaylı temsilci olarak tayin edilmesi hâlinde yapılabilir.  
+E) İthalata aracılık eden temsilcinin eşyayı belge/izin sahibine teslim etmediğinin tespiti hâlinde temsilci, alınmayan vergiden belge/izin sahibi firma ile birlikte müştereken ve müteselsilen sorumludur.  
 
 **14-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre şartlı muafiyet sistemi kapsamında işlem görmüş ürünün A.TR dolaşım belgesi eşliğinde Avrupa Topluluğuna üye ülkelere ihracatında, ürünün elde edilmesinde kullanılan üçüncü ülke menşeli eşyaya ilişkin ödenen telafi edici vergi ile ilgili aşağıdakilerden hangisi doğrudur?
 
 A) Vergi, önceden ihracat yapılmış olsun olmasın, her durumda ithal eşyasına ilişkin gümrük beyannamesinin tescil tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz satış kuru üzerinden hesaplanır.  
 B) Tahsil edilen telafi edici vergi, ihracatı gerçekleştiren firmanın üyesi olduğu ihracatçı birliğinin hesabına irat kaydedilir.  
-C) İşlem görmüş ürünün elde edilmesinde kullanılan vergiye konu eşyanın tespitinde gümrük idaresince düzenlenen ekspertiz raporu esas alınır.  
-D) Önceden ihracattan sonra ithalat yapılıyorsa vergi, önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki kur ve gümrük vergisi üzerinden hesaplanıp ithalat esnasında ödenir.  
+C) Önceden ihracattan sonra ithalat yapılıyorsa vergi, önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki kur ve gümrük vergisi üzerinden hesaplanıp ithalat esnasında ödenir.  
+D) İşlem görmüş ürünün elde edilmesinde kullanılan vergiye konu eşyanın tespitinde gümrük idaresince düzenlenen ekspertiz raporu esas alınır.  
 E) Elde edilmesinde üçüncü ülke menşeli eşya kullanılan harp araç, gereç ve teçhizatının bu ülkelere ihracatında da telafi edici vergi aranır.  
 
 **15-** Dahilde İşleme Rejimi Tebliği'nde (İhracat: 2006/12) yer alan dolaşım ve menşe belgelerine ilişkin hükümler çerçevesinde aşağıdaki ifadeler verilmiştir:
@@ -145,48 +133,42 @@ IV. A.TR dolaşım belgesi, ithalatçı ülke yetkili kuruluşlarınca düzenlen
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
 A) Yalnız I  
-B) I ve III  
-C) I ve II  
+B) I ve II  
+C) I ve III  
 D) II ve IV  
 E) I, II ve III  
 
-**16-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin dahilde işleme rejiminde işlem görmüş ikincil ürünlerin vergilendirilmesine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**16-** Gümrük Yönetmeliği'ne göre dahilde işleme rejiminde işlem görmüş asıl ürünlerin ihraç edilen kısmı ile orantılı olarak serbest dolaşıma girecek işlem görmüş ikincil ürünlerin gümrük vergileri, izin hak sahibinin farklı bir talebi bulunmadığında hangi tarihte yürürlükte bulunan vergi oranı üzerinden hesaplanır?
 
-I. İşlem görmüş asıl ürünlerin ihraç edilen kısmı ile orantılı olarak serbest dolaşıma girecek işlem görmüş ikincil ürünlerin gümrük vergileri, serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte yürürlükte bulunan vergi oranı üzerinden hesaplanır.  
-II. Hak sahibince, ihracata konu işlem görmüş asıl ürünün ilk partisinin ihracatı ile eş zamanlı olarak belgelerde öngörülen işlem görmüş ikincil ürünün tamamı için serbest dolaşıma giriş beyannamesi verilebilir.  
-III. İkincil işlem görmüş ürünlerin serbest dolaşıma girişinde gümrük vergileri, ilgili kurumların kontrolleri hariç olmak üzere, ayniyet tespiti yapılmaksızın firma beyanı ve izinde öngörülen gerçekleşme oranları üzerinden hesaplanan miktar ve birim fiyat esas alınarak tahsil edilir.  
-IV. İzin hak sahibi, bu hesaplamanın ithal eşyasının dahilde işleme rejimine ilişkin beyannamesinin tescil tarihindeki vergi oranı ve diğer vergilendirme unsurlarına göre yapılmasını talep edebilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I, II, III ve IV  
-C) II ve IV  
-D) I, II ve III  
-E) I, III ve IV  
+A) İkincil ürünlere ilişkin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte  
+B) İthal eşyasının dahilde işleme rejimine ilişkin beyannamesinin tescil edildiği tarihte  
+C) İşlem görmüş asıl ürünün ilk partisine ilişkin ihracat beyannamesinin tescil edildiği tarihte  
+D) Dahilde işleme izninin verildiği tarihte  
+E) Dahilde işleme izninin süresinin sona erdiği tarihte  
 
 **17-** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşıma giriş beyannamesinin tescili sırasında taşıdığı nitelik nedeniyle geri ödeme sistemi uygulanmayan eşya arasında aşağıdakilerden hangisi sayılmamıştır?
 
-A) Anti-damping vergisine tabi olan eşya  
-B) İthalat miktar kısıtlamasına tabi olan eşya  
-C) Kota kapsamında tarife önlemleri uygulanan eşya  
-D) Tarım politikası çerçevesinde ithalat veya ihracat lisansı veya sertifikası ibrazını gerektiren eşya  
-E) İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut olan eşya  
+A) İthalat miktar kısıtlamasına tabi olan eşya  
+B) Kota kapsamında tarife önlemleri uygulanan eşya  
+C) Tarım politikası çerçevesinde ithalat veya ihracat lisansı veya sertifikası ibrazını gerektiren eşya  
+D) İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut olan eşya  
+E) Anti-damping vergisine tabi olan eşya  
 
 **18-** 4458 sayılı Gümrük Kanunu'na göre izin hak sahibi, geri ödeme sistemi çerçevesinde serbest dolaşıma giren ithal eşyasından elde edilmiş işlem görmüş ürünlerin daha sonra yeniden ihraç edilmek üzere aşağıdaki rejimlerden hangisine tabi tutulduğunu belgelendirerek ithalat vergilerinin geri verilmesini veya kaldırılmasını isteyemez?
 
 A) Transit rejimi  
 B) Gümrük antrepo rejimi  
-C) Geçici ithalat rejimi  
-D) Şartlı muafiyet sistemine tabi dahilde işleme rejimi  
-E) Gümrük kontrolü altında işleme rejimi  
+C) Gümrük kontrolü altında işleme rejimi  
+D) Geçici ithalat rejimi  
+E) Şartlı muafiyet sistemine tabi dahilde işleme rejimi  
 
 **19-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre dahilde işleme izin belgesi sahibi firmalar, kendilerine tebliğ edilen taahhüt hesabının müeyyideli kapatılması işlemine karşı hangi süre içinde ve hangi makama itiraz edebilir?
 
-A) Tebliğ tarihinden itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
-B) Tebliğ tarihinden itibaren üç ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
-C) Belge süresi sonundan itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
-D) Tebliğ tarihinden itibaren bir ay içinde ilgili bölge müdürlüğüne yazılı olarak  
-E) Tebliğ tarihinden itibaren bir ay içinde ihracatçı birliği genel sekreterliğine yazılı olarak  
+A) Tebliğ tarihinden itibaren üç ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
+B) Belge süresi sonundan itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
+C) Tebliğ tarihinden itibaren bir ay içinde ilgili bölge müdürlüğüne yazılı olarak  
+D) Tebliğ tarihinden itibaren bir ay içinde ihracatçı birliği genel sekreterliğine yazılı olarak  
+E) Tebliğ tarihinden itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
 
 **20-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre dahilde işleme tedbirlerine uyulmaması hâlinde yapılacak işlemler çerçevesinde aşağıdaki olayı değerlendiriniz:
 
@@ -195,17 +177,17 @@ E) Tebliğ tarihinden itibaren bir ay içinde ihracatçı birliği genel sekrete
 - Bu ürünlere ilişkin ihracat beyannamesi 15 Temmuz 2026 tarihinde tescil edilmiş ve ihracat aynı gün gerçekleşmiştir.  
 Buna göre bu ihracat hakkında aşağıdakilerden hangisi uygulanır?  
 
-A) İhracat belge kapsamında değerlendirilir; ancak usulsüzlük cezasının iki katı para cezası tahsil edilir.  
-B) İhracat belge kapsamında değerlendirilmez; ithalat esnasında alınmayan vergi tahsil edilir ve ayrıca Gümrük Kanunu çerçevesinde müeyyide uygulanır.  
-C) İhracat belge kapsamında değerlendirilir ve firmaya herhangi bir para cezası uygulanmaz.  
-D) İhracat belge kapsamında değerlendirilir; ancak firma adına düzenlenen belgelerde altı ay süreyle indirimli teminat uygulanmaz.  
-E) İhracat belge kapsamında değerlendirilir; ancak usulsüzlük cezasının dört katı para cezası tahsil edilir.  
+A) İhracat belge kapsamında değerlendirilir; ancak usulsüzlük cezasının dört katı para cezası tahsil edilir.  
+B) İhracat belge kapsamında değerlendirilir; ancak usulsüzlük cezasının iki katı para cezası tahsil edilir.  
+C) İhracat belge kapsamında değerlendirilmez; ithalat esnasında alınmayan vergi tahsil edilir ve ayrıca Gümrük Kanunu çerçevesinde müeyyide uygulanır.  
+D) İhracat belge kapsamında değerlendirilir ve firmaya herhangi bir para cezası uygulanmaz.  
+E) İhracat belge kapsamında değerlendirilir; ancak firma adına düzenlenen belgelerde altı ay süreyle indirimli teminat uygulanmaz.  
 
 ### Cevap Anahtarı
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D | A | D | B | C | E | B | C | B | C | D | A | E | D | C | B | A | E | A | E |
+| D | A | D | B | C | E | B | C | B | D | A | E | D | C | B | A | E | C | E | A |
 
 ### Çözümler
 
@@ -263,22 +245,16 @@ E) Üretim hattında kullanılan ölçüm gereçleri
 
 *4458 sayılı Gümrük Kanunu md. 110*
 
-**5-** 4458 sayılı Gümrük Kanunu'nun dahilde işleme izninin verilmesine ilişkin hükümleri çerçevesinde aşağıdaki olayı değerlendiriniz:
+**5-** 4458 sayılı Gümrük Kanunu'na göre dahilde işleme izninin verilebileceği kişilere ilişkin aşağıdakilerden hangisi doğrudur?
 
-- (K) şirketinin kanuni merkezi ve bütün işyerleri Almanya'dadır; şirketin Türkiye'de işyeri veya şubesi bulunmamaktadır.  
-- (K) şirketi, Türkiye'deki bir fabrikaya işleteceği kumaşları dahilde işleme rejimi kapsamında ithal etmek için izin talep etmiştir.  
-- Fabrikada üretilecek gömlekler, (K) şirketi tarafından Avrupa'daki mağazalarda satılmak üzere yurt dışına gönderilecektir.  
-- Kumaşın gömlekler içerisindeki mevcudiyeti tespit edilebilmekte, ekonomik koşulların da sağlandığı anlaşılmaktadır.  
-Buna göre (K) şirketinin izin talebi hakkında aşağıdakilerden hangisi doğrudur?  
-
-A) İşleme faaliyetini kendisi yapmayıp başka bir fabrikaya yaptıracağı için şirkete dahilde işleme izni verilemez.  
-B) Ticari nitelikteki ithalat için de Türkiye Gümrük Bölgesi dışında yerleşik kişilere izin verilebileceğinden talep karşılanır.  
-C) Türkiye Gümrük Bölgesi dışında yerleşik kişilere yalnızca ticari nitelikte olmayan dahilde işleme amaçlı ithalat için izin verilebileceğinden talep karşılanamaz.  
-D) İşleme faaliyeti Türkiye'deki bir fabrikada yapılacağından yerleşiklik şartı sağlanmış sayılır ve izin verilir.  
-E) İzin, Türkiye Gümrük Bölgesinde yerleşik bir temsilci aracılığıyla talep edilmesi kaydıyla şirkete verilebilir.  
+A) İzin, yalnızca işleme faaliyetlerini bizzat yapan kişinin talebi üzerine verilebilir; işlemeyi başkasına yaptıran kişiye izin verilmez.  
+B) İşleme faaliyetini Türkiye Gümrük Bölgesindeki bir işletmeye yaptıran yurt dışı yerleşik kişi, ticari nitelikteki ithalat için de izin alabilir.  
+C) Ticari nitelikte olmayan dahilde işleme amaçlı ithalat için Türkiye Gümrük Bölgesi dışında yerleşik kişilere de izin verilebilir.  
+D) Türkiye Gümrük Bölgesinde yerleşik bir temsilci aracılığıyla başvuran yurt dışı yerleşik kişiye ticari nitelikteki ithalat için de izin verilebilir.  
+E) Türkiye Gümrük Bölgesinde yerleşik kişilere izin, ancak ithalatın ticari nitelikte olmaması kaydıyla verilebilir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre dahilde işleme izni, işleme faaliyetlerini yapan veya yaptıran kişinin talebi üzerine ve sadece Türkiye Gümrük Bölgesinde yerleşik kişilere verilebilir. Bu kuralın tek istisnası ticari nitelikte olmayan dahilde işleme amaçlı ithalattır; bu durumda Türkiye Gümrük Bölgesi dışında yerleşik kişilere de izin verilebilir. Olayda (K) şirketinin Türkiye'de işyeri veya şubesi yoktur ve gömlekler mağazalarda satılacağı için ithalat ticari niteliktedir. Bu nedenle mevcudiyet tespiti ve ekonomik koşullar sağlanmış olsa bile talep karşılanamaz. İşlemeyi başka bir fabrikaya yaptırmak izne engel değildir, çünkü izin işlemeyi yaptıran kişiye de verilebilir. Fabrikanın Türkiye'de bulunması şirketi yerleşik yapmaz; bir temsilci aracılığıyla başvurmak da izin sahibinin yerleşik olma şartını ortadan kaldırmaz. En güçlü çeldirici 'fason yaptırma' gerekçesidir; Kanun yaptıranı da açıkça saymıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GK 110)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre dahilde işleme izni, işleme faaliyetlerini yapan veya yaptıran kişinin talebi üzerine verilebilir ve kural olarak sadece Türkiye Gümrük Bölgesinde yerleşik kişilere verilir. Bu kuralın tek istisnası ticari nitelikte olmayan dahilde işleme amaçlı ithalattır; bu durumda Türkiye Gümrük Bölgesi dışında yerleşik kişilere de izin verilebilir. İzni yalnızca işlemeyi bizzat yapana bağlayan ifade yanlıştır; Kanun işlemeyi yaptıran kişiyi de açıkça sayar. İşlemenin Türkiye'deki bir işletmeye yaptırılması kişiyi yerleşik yapmaz; yerleşiklik şartı izin sahibinde aranır. Temsilci aracılığıyla ithalat da Tebliğde belge veya izin kapsamındaki eşyanın ithaline ilişkin bir kolaylıktır ve yerleşiklik şartını kaldırmaz. Ticari nitelikte olmama kaydı ise yerleşik kişilere değil, bölge dışında yerleşik kişilere tanınan istisnanın şartıdır. En güçlü tuzak işlemenin Türkiye'deki bir işletmeye yaptırılmasıdır: yerleşikliği işlemenin yapıldığı yere bağlayan adayı yakalar. Bu nedenle doğru cevap C seçeneğidir. (MD GK 110; Tebliğ 30)
 
 *Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 3, 15*
 
@@ -332,24 +308,18 @@ E) %80
 **Doğru Cevap:** B  
 **Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre belge veya izin kapsamında ithaline izin verilecek işletme malzemesinin değeri ihracat taahhüdünün yüzde ikisini geçemez. Doğal taşlar ile kıymetli maden ve taş ihraç taahhüdü içeren belge veya izinlerde bu oran yüzde ona kadar tespit edilebilir; soru bu istisnanın dışındaki durumu sormaktadır. En güçlü çeldirici, hemen önceki hükümde yer alan yüzde birdir; bu oran ihracat taahhüdü içindeki değişmemiş eşya ithalatının azami sınırıdır. Yüzde yirmi beş performansa dayalı ek süre eşiği, yüzde seksen ise belgede döviz kullanım oranının azami sınırıdır. Bu nedenle doğru cevap B seçeneğidir. (MD Tebliğ 17)
 
-*Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 3, 17, 38*
+*Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 3, 17*
 
-**10-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre döviz kullanım oranının hesaplanmasına ilişkin aşağıdaki bilgiler verilmiştir:
+**10-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre döviz kullanım oranının tanımı aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-- (M) firması adına düzenlenen dahilde işleme izin belgesi kapsamında 300.000 ABD Doları CIF tutarında ithalat yapılmıştır.  
-- Aynı belge kapsamında yurt içinden 100.000 ABD Doları tutarında hammadde alımı yapılmıştır.  
-- Belge kapsamında gerçekleştirilen ihracatın FOB tutarı 400.000 ABD Dolarıdır.  
-- Belge kapsamında ikincil işlem görmüş ürün elde edilmemiştir.  
-Buna göre belge kapsamındaki döviz kullanım oranı yüzde kaçtır?  
+A) Belge/izin kapsamındaki CIF ithal tutarı ile yurt içi alımlar toplamının, serbest dolaşıma giriş rejimine göre ithal edilen ikincil işlem görmüş ürünün gümrük kıymeti dahil FOB ihraç tutarına olan yüzde oranı  
+B) Belge/izin kapsamındaki FOB ithal tutarının (yurt içi alımlar hariç), serbest dolaşıma giriş rejimine göre ithal edilen ikincil işlem görmüş ürünün gümrük kıymeti dahil CIF ihraç tutarına olan yüzde oranı  
+C) Belge/izin kapsamındaki CIF ithal tutarının (yurt içi alımlar hariç), serbest dolaşıma giriş rejimine göre ithal edilen ikincil işlem görmüş ürünün gümrük kıymeti hariç FOB ihraç tutarına olan yüzde oranı  
+D) Belge/izin kapsamındaki CIF ithal tutarının (yurt içi alımlar hariç), serbest dolaşıma giriş rejimine göre ithal edilen ikincil işlem görmüş ürünün gümrük kıymeti dahil FOB ihraç tutarına olan yüzde oranı  
+E) Belirli miktardaki eşyanın işlenmesi sonucunda elde edilen işlem görmüş ürünün miktarı veya yüzde oranı  
 
-A) %25  
-B) %60  
-C) %75  
-D) %80  
-E) %100  
-
-**Doğru Cevap:** C  
-**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre döviz kullanım oranı, yurt içi alımlar hariç CIF ithal tutarının FOB ihraç tutarına yüzde oranıdır. Paydaya, ikincil işlem görmüş ürün serbest dolaşıma giriş rejimine göre ithal edilmişse onun gümrük kıymeti eklenir; olayda ikincil ürün yoktur. Buna göre oran 300.000 / 400.000 = %75'tir. Vakadaki tuzak yurt içi alımdır. 100.000 ABD Dolarlık alım CIF ithal tutarına eklenirse oran (300.000 + 100.000) / 400.000 = %100 bulunur; bu hesap hatalıdır. Alım paydaya eklenirse 300.000 / 500.000 = %60 çıkar; bu da hatalıdır. %80 hesaplanan oran değil, belgede döviz kullanım oranının aşamayacağı azami sınırdır. %25 ise yalnızca yurt içi alımın ihracata oranıdır. Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ 3, 17, 38)
+**Doğru Cevap:** D  
+**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre döviz kullanım oranı, belge/izin kapsamındaki CIF ithal tutarının (yurt içi alımlar hariç) FOB ihraç tutarına olan yüzde oranıdır; ikincil işlem görmüş ürün serbest dolaşıma giriş rejimi hükümlerine göre ithal edilmişse bu ürünün gümrük kıymeti FOB ihraç tutarına dahil edilir. Oranın payında yalnızca CIF ithal tutarı yer alır; yurt içi alımlar bu tutara eklenmez. En güçlü tuzak yurt içi alımları CIF ithal tutarına ekleyen tanımdır: belge kapsamında yurt içi alım yapılabildiği için mantıklı görünür, ancak tanım bu alımları açıkça hariç tutar. İthalatın CIF, ihracatın FOB esasıyla alınması da yer değiştirmez; serbest dolaşıma giren ikincil ürünün gümrük kıymeti ise ihraç tutarından hariç değil, ona dahildir. Belirli miktardaki eşyanın işlenmesiyle elde edilen ürünün miktarı veya yüzde oranı verimlilik oranının tanımıdır. Döviz kullanım oranı, izin belgesinde yüzde sekseni geçmemek üzere Bakanlıkça belirlenir. Bu nedenle doğru cevap D seçeneğidir. (MD Tebliğ 3, 17)
 
 *Gümrük Yönetmeliği md. 353, 354, 355; Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 6*
 
@@ -361,27 +331,27 @@ III. Önceden ihracata tekabül eden ithalat esnasında, Özel Tüketim Vergisi 
 IV. İthal edilecek eşyanın rejime girmesi şartıyla, ithal eşyası rejime girişi sırasında serbest dolaşımda bulunan eşya kabul edilir.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) I ve II  
-B) II ve III  
-C) I, III ve IV  
-D) II, III ve IV  
+A) II, III ve IV  
+B) I ve II  
+C) II ve III  
+D) I, III ve IV  
 E) I, II, III ve IV  
 
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre önceden ihracat durumunda, eşdeğer eşya karşılığı ithal eşyasının gümrük beyanı için gereken süre izin belgesinde belirtilir. Bu süre, eşdeğer eşyadan elde edilen işlem görmüş ürünlere ait ihracat beyannamesinin tescil tarihinden itibaren işler. Bu yüzden süreyi izin belgesinin tarihinden başlatan I. ifade yanlıştır; izin belgesinin tarihi, belgenin kendi geçerlilik süresinin başlangıcıdır. II. ifade doğrudur: süre, izin hak sahibinin haklı bir gerekçeye dayanan talebi üzerine uzatılabilir. III. ifade doğrudur: Tebliğe göre önceden ihracata tekabül eden ithalatta, Özel Tüketim Vergisi Kanunu hükümleri saklı kalmak kaydıyla katma değer vergisi dahil tüm vergiler teminata bağlanır ve ticaret politikası önlemleri uygulanmaz. IV. ifade de doğrudur: ithal edilecek eşyanın rejime girmesi şartıyla, ithal eşyası rejime girişi sırasında serbest dolaşımda bulunan eşya kabul edilir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 353-355; Tebliğ 6)
+**Doğru Cevap:** A  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre önceden ihracat durumunda, eşdeğer eşya karşılığı ithal eşyasının gümrük beyanı için gereken süre izin belgesinde belirtilir. Bu süre, eşdeğer eşyadan elde edilen işlem görmüş ürünlere ait ihracat beyannamesinin tescil tarihinden itibaren işler. Bu yüzden süreyi izin belgesinin tarihinden başlatan I. ifade yanlıştır; izin belgesinin tarihi, belgenin kendi geçerlilik süresinin başlangıcıdır. II. ifade doğrudur: süre, izin hak sahibinin haklı bir gerekçeye dayanan talebi üzerine uzatılabilir. III. ifade doğrudur: Tebliğe göre önceden ihracata tekabül eden ithalatta, Özel Tüketim Vergisi Kanunu hükümleri saklı kalmak kaydıyla katma değer vergisi dahil tüm vergiler teminata bağlanır ve ticaret politikası önlemleri uygulanmaz. IV. ifade de doğrudur: ithal edilecek eşyanın rejime girmesi şartıyla, ithal eşyası rejime girişi sırasında serbest dolaşımda bulunan eşya kabul edilir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 353-355; Tebliğ 6)
 
 *Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 25*
 
 **12-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre belge/izin süresi içerisinde meydana gelmesi hâlinde dahilde işleme izin belgesine veya dahilde işleme iznine ilave süre verilebilecek mücbir sebep ile fevkalade hâller arasında aşağıdakilerden hangisi sayılmamıştır?
 
-A) Sermaye şirketlerinde şirket ortaklarından birinin ölümü  
-B) Yükümlü firmanın faaliyetinin kamu otoritelerince kısıtlanması, durdurulması veya firmaya el konulması  
-C) Ülkemizde veya ithalatçı ülkede genel salgın hastalık  
-D) Yükümlü firmanın konkordato ilan etmiş olması  
-E) Grev ve lokavt  
+A) Yükümlü firmanın faaliyetinin kamu otoritelerince kısıtlanması, durdurulması veya firmaya el konulması  
+B) Ülkemizde veya ithalatçı ülkede genel salgın hastalık  
+C) Yükümlü firmanın konkordato ilan etmiş olması  
+D) Grev ve lokavt  
+E) Sermaye şirketlerinde şirket ortaklarından birinin ölümü  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Dahilde İşleme Rejimi Tebliği, belge veya izin süresi içinde meydana geldiğinde ilave süre verilebilecek mücbir sebep ve fevkalade hâlleri tek tek sayar: deprem, sel, don, fırtına, kasırga gibi tabii afetler ve yangın; ülkemizde veya ithalatçı ülkede devletçe konulan yasaklar, harp ve abluka hâli ya da genel salgın hastalık; yükümlü firmanın faaliyetinin kamu otoritelerince kısıtlanması, durdurulması veya firmaya el konulması; firmanın iflası, konkordato ilan etmesi ya da hakkında iflasın ertelenmesi kararı verilmesi; şahıs firmalarında firma sahibinin ölümü; grev ve lokavt. Ölüm yalnızca şahıs firmalarında ve yalnızca firma sahibi için sayılmıştır. Sermaye şirketlerinde bir ortağın ölümü listede yer almaz. En güçlü tuzak, listedeki 'ölüm' unsurunun kişi ve şirket türü kaydı düşürülerek genişletilmesidir. Bu nedenle doğru cevap A seçeneğidir. (MD Tebliğ 25)
+**Doğru Cevap:** E  
+**Gerekçe:** Dahilde İşleme Rejimi Tebliği, belge veya izin süresi içinde meydana geldiğinde ilave süre verilebilecek mücbir sebep ve fevkalade hâlleri tek tek sayar: deprem, sel, don, fırtına, kasırga gibi tabii afetler ve yangın; ülkemizde veya ithalatçı ülkede devletçe konulan yasaklar, harp ve abluka hâli ya da genel salgın hastalık; yükümlü firmanın faaliyetinin kamu otoritelerince kısıtlanması, durdurulması veya firmaya el konulması; firmanın iflası, konkordato ilan etmesi ya da hakkında iflasın ertelenmesi kararı verilmesi; şahıs firmalarında firma sahibinin ölümü; grev ve lokavt. Ölüm yalnızca şahıs firmalarında ve yalnızca firma sahibi için sayılmıştır. Sermaye şirketlerinde bir ortağın ölümü listede yer almaz. En güçlü tuzak, listedeki 'ölüm' unsurunun kişi ve şirket türü kaydı düşürülerek genişletilmesidir. Bu nedenle doğru cevap E seçeneğidir. (MD Tebliğ 25)
 
 *Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 30*
 
@@ -390,11 +360,11 @@ E) Grev ve lokavt
 A) Elektronik ortamda düzenlenen dahilde işleme izin belgesi kapsamında temsilci aracılığıyla ithalat yapılabilmesi için önceden ilgili bölge müdürlüğünden izin alınması gerekir.  
 B) Temsilci aracılığıyla yapılan ithalata, belge/izin süresi içerisinde belirtilen miktarı geçmemesi kaydıyla ilgili gümrük idaresince izin verilir.  
 C) Temsilci aracılığıyla yapılan ithalata ilişkin gümrük beyannamesi üzerinde belge sahibi firma unvanı ile belge satır kodunun kaydedilmiş olması gerekir.  
-D) İthalata aracılık eden temsilcinin eşyayı belge/izin sahibine teslim etmediğinin tespiti hâlinde temsilci, alınmayan vergiden belge/izin sahibi firma ile birlikte müştereken ve müteselsilen sorumludur.  
-E) Belge/izin kapsamındaki eşyanın temsilci aracılığıyla ithalatı, ancak bir gümrük müşavirinin dolaylı temsilci olarak tayin edilmesi hâlinde yapılabilir.  
+D) Belge/izin kapsamındaki eşyanın temsilci aracılığıyla ithalatı, ancak bir gümrük müşavirinin dolaylı temsilci olarak tayin edilmesi hâlinde yapılabilir.  
+E) İthalata aracılık eden temsilcinin eşyayı belge/izin sahibine teslim etmediğinin tespiti hâlinde temsilci, alınmayan vergiden belge/izin sahibi firma ile birlikte müştereken ve müteselsilen sorumludur.  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre belge veya izin kapsamındaki eşyanın ithalatı belge/izin sahibi firma tarafından yapılabilir. Borçlar Kanununun doğrudan ya da dolaylı temsil hükümlerine göre tayin edilmiş bir temsilci aracılığıyla da yapılabilir. Tebliğ temsilcinin gümrük müşaviri olmasını veya yalnızca dolaylı temsil yolunun kullanılmasını şart koşmaz; bu nedenle ithalatı gümrük müşavirinin dolaylı temsilci olarak tayinine bağlayan ifade yanlıştır. Diğer ifadeler doğrudur. Elektronik ortamda düzenlenen belgede temsilci aracılığıyla ithalat için önceden ilgili bölge müdürlüğünden izin alınır. Gümrük idaresi, belge/izin süresi içinde belirtilen miktarı geçmemek ve beyannamede belge sahibi firma unvanı ile satır kodu kaydedilmek kaydıyla ithalata izin verir. Temsilci eşyayı belge/izin sahibine teslim etmezse, alınmayan vergiden firma ile birlikte müştereken ve müteselsilen sorumludur. Bu nedenle doğru cevap E seçeneğidir. (MD Tebliğ 30)
+**Doğru Cevap:** D  
+**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre belge veya izin kapsamındaki eşyanın ithalatı belge/izin sahibi firma tarafından yapılabilir. Borçlar Kanununun doğrudan ya da dolaylı temsil hükümlerine göre tayin edilmiş bir temsilci aracılığıyla da yapılabilir. Tebliğ temsilcinin gümrük müşaviri olmasını veya yalnızca dolaylı temsil yolunun kullanılmasını şart koşmaz; bu nedenle ithalatı gümrük müşavirinin dolaylı temsilci olarak tayinine bağlayan ifade yanlıştır. Diğer ifadeler doğrudur. Elektronik ortamda düzenlenen belgede temsilci aracılığıyla ithalat için önceden ilgili bölge müdürlüğünden izin alınır. Gümrük idaresi, belge/izin süresi içinde belirtilen miktarı geçmemek ve beyannamede belge sahibi firma unvanı ile satır kodu kaydedilmek kaydıyla ithalata izin verir. Temsilci eşyayı belge/izin sahibine teslim etmezse, alınmayan vergiden firma ile birlikte müştereken ve müteselsilen sorumludur. Bu nedenle doğru cevap D seçeneğidir. (MD Tebliğ 30)
 
 *Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 33*
 
@@ -402,12 +372,12 @@ E) Belge/izin kapsamındaki eşyanın temsilci aracılığıyla ithalatı, ancak
 
 A) Vergi, önceden ihracat yapılmış olsun olmasın, her durumda ithal eşyasına ilişkin gümrük beyannamesinin tescil tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz satış kuru üzerinden hesaplanır.  
 B) Tahsil edilen telafi edici vergi, ihracatı gerçekleştiren firmanın üyesi olduğu ihracatçı birliğinin hesabına irat kaydedilir.  
-C) İşlem görmüş ürünün elde edilmesinde kullanılan vergiye konu eşyanın tespitinde gümrük idaresince düzenlenen ekspertiz raporu esas alınır.  
-D) Önceden ihracattan sonra ithalat yapılıyorsa vergi, önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki kur ve gümrük vergisi üzerinden hesaplanıp ithalat esnasında ödenir.  
+C) Önceden ihracattan sonra ithalat yapılıyorsa vergi, önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki kur ve gümrük vergisi üzerinden hesaplanıp ithalat esnasında ödenir.  
+D) İşlem görmüş ürünün elde edilmesinde kullanılan vergiye konu eşyanın tespitinde gümrük idaresince düzenlenen ekspertiz raporu esas alınır.  
 E) Elde edilmesinde üçüncü ülke menşeli eşya kullanılan harp araç, gereç ve teçhizatının bu ülkelere ihracatında da telafi edici vergi aranır.  
 
-**Doğru Cevap:** D  
-**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre telafi edici vergi, ihracata ilişkin gümrük beyannamesinin tescil tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz satış kuru ve o tarihte ithalat rejiminde belirtilen gümrük vergisi ile varsa toplu konut fonu üzerinden hesaplanır ve ihracat esnasında ödenir. Belge kapsamında önceden ihracattan sonra ithalat yapılıyorsa vergi, önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki kur ve vergi üzerinden hesaplanır ve önceden ihracata tekabül eden ithalat yapılırken ödenir. En güçlü çeldirici, hesaplamayı ithal eşyasına ilişkin beyannamenin tescil tarihine bağlayan ifadedir; esas alınan beyanname her durumda ihracata ilişkin beyannamedir. Tahsil edilen telafi edici vergi bütçeye irat kaydedilir. Vergiye konu eşyanın tespitinde firma beyanı esas alınır. Üçüncü ülke menşeli eşya kullanılarak elde edilip Avrupa Topluluğuna üye ülkelere ihraç edilen harp araç, gereç ve teçhizatı için telafi edici vergi aranmaz. Bu nedenle doğru cevap D seçeneğidir. (MD Tebliğ 33)
+**Doğru Cevap:** C  
+**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre telafi edici vergi, ihracata ilişkin gümrük beyannamesinin tescil tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz satış kuru ve o tarihte ithalat rejiminde belirtilen gümrük vergisi ile varsa toplu konut fonu üzerinden hesaplanır ve ihracat esnasında ödenir. Belge kapsamında önceden ihracattan sonra ithalat yapılıyorsa vergi, önceden ihracata ilişkin gümrük beyannamesinin tescil tarihindeki kur ve vergi üzerinden hesaplanır ve önceden ihracata tekabül eden ithalat yapılırken ödenir. En güçlü çeldirici, hesaplamayı ithal eşyasına ilişkin beyannamenin tescil tarihine bağlayan ifadedir; esas alınan beyanname her durumda ihracata ilişkin beyannamedir. Tahsil edilen telafi edici vergi bütçeye irat kaydedilir. Vergiye konu eşyanın tespitinde firma beyanı esas alınır. Üçüncü ülke menşeli eşya kullanılarak elde edilip Avrupa Topluluğuna üye ülkelere ihraç edilen harp araç, gereç ve teçhizatı için telafi edici vergi aranmaz. Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ 33)
 
 *Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 3, 33*
 
@@ -420,45 +390,39 @@ IV. A.TR dolaşım belgesi, ithalatçı ülke yetkili kuruluşlarınca düzenlen
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
 A) Yalnız I  
-B) I ve III  
-C) I ve II  
+B) I ve II  
+C) I ve III  
 D) II ve IV  
 E) I, II ve III  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre menşe ispat belgeleri, malın menşeini belirleyen EUR.1 dolaşım sertifikası, EUR-MED dolaşım sertifikası, EUR-MED fatura beyanı veya fatura beyanıdır; bu yüzden I. ifade doğrudur. Tedarikçi beyanı, A.TR dolaşım belgesi, EUR.1 veya EUR-MED dolaşım sertifikası ile birlikte kullanılan ve Türkiye ile Topluluk arasında ticarete konu Pan-Avrupa veya Pan-Avrupa-Akdeniz menşe kümülasyonu kapsamı eşyanın menşeini gösteren belgedir; II. ifade de doğrudur. III. ifade yanlıştır: şartlı muafiyet sisteminde tarım ürünlerinin Avrupa Topluluğuna üye ülkelere ihracatında üçüncü ülke menşeli girdilere ilişkin vergi, anlaşmadaki menşe kuralının sağlanması ve bir menşe ispat belgesinin düzenlenmesi kaydıyla tahsil edilir. A.TR dolaşım belgesi ise sanayi ürünleri ile işlenmiş tarım ürünlerine ilişkin hükümlerde geçer. IV. ifade de yanlıştır: A.TR dolaşım belgesi ithalatçı ülkenin değil, ihracatçı ülkenin yetkili kuruluşlarınca düzenlenir ve gümrük idaresince vize edilir. Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ 3, 33)
+**Doğru Cevap:** B  
+**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre menşe ispat belgeleri, malın menşeini belirleyen EUR.1 dolaşım sertifikası, EUR-MED dolaşım sertifikası, EUR-MED fatura beyanı veya fatura beyanıdır; bu yüzden I. ifade doğrudur. Tedarikçi beyanı, A.TR dolaşım belgesi, EUR.1 veya EUR-MED dolaşım sertifikası ile birlikte kullanılan ve Türkiye ile Topluluk arasında ticarete konu Pan-Avrupa veya Pan-Avrupa-Akdeniz menşe kümülasyonu kapsamı eşyanın menşeini gösteren belgedir; II. ifade de doğrudur. III. ifade yanlıştır: şartlı muafiyet sisteminde tarım ürünlerinin Avrupa Topluluğuna üye ülkelere ihracatında üçüncü ülke menşeli girdilere ilişkin vergi, anlaşmadaki menşe kuralının sağlanması ve bir menşe ispat belgesinin düzenlenmesi kaydıyla tahsil edilir. A.TR dolaşım belgesi ise sanayi ürünleri ile işlenmiş tarım ürünlerine ilişkin hükümlerde geçer. IV. ifade de yanlıştır: A.TR dolaşım belgesi ithalatçı ülkenin değil, ihracatçı ülkenin yetkili kuruluşlarınca düzenlenir ve gümrük idaresince vize edilir. Bu nedenle doğru cevap B seçeneğidir. (MD Tebliğ 3, 33)
 
 *Gümrük Yönetmeliği md. 359; 4458 sayılı Gümrük Kanunu md. 114, 115*
 
-**16-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin dahilde işleme rejiminde işlem görmüş ikincil ürünlerin vergilendirilmesine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**16-** Gümrük Yönetmeliği'ne göre dahilde işleme rejiminde işlem görmüş asıl ürünlerin ihraç edilen kısmı ile orantılı olarak serbest dolaşıma girecek işlem görmüş ikincil ürünlerin gümrük vergileri, izin hak sahibinin farklı bir talebi bulunmadığında hangi tarihte yürürlükte bulunan vergi oranı üzerinden hesaplanır?
 
-I. İşlem görmüş asıl ürünlerin ihraç edilen kısmı ile orantılı olarak serbest dolaşıma girecek işlem görmüş ikincil ürünlerin gümrük vergileri, serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte yürürlükte bulunan vergi oranı üzerinden hesaplanır.  
-II. Hak sahibince, ihracata konu işlem görmüş asıl ürünün ilk partisinin ihracatı ile eş zamanlı olarak belgelerde öngörülen işlem görmüş ikincil ürünün tamamı için serbest dolaşıma giriş beyannamesi verilebilir.  
-III. İkincil işlem görmüş ürünlerin serbest dolaşıma girişinde gümrük vergileri, ilgili kurumların kontrolleri hariç olmak üzere, ayniyet tespiti yapılmaksızın firma beyanı ve izinde öngörülen gerçekleşme oranları üzerinden hesaplanan miktar ve birim fiyat esas alınarak tahsil edilir.  
-IV. İzin hak sahibi, bu hesaplamanın ithal eşyasının dahilde işleme rejimine ilişkin beyannamesinin tescil tarihindeki vergi oranı ve diğer vergilendirme unsurlarına göre yapılmasını talep edebilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+A) İkincil ürünlere ilişkin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte  
+B) İthal eşyasının dahilde işleme rejimine ilişkin beyannamesinin tescil edildiği tarihte  
+C) İşlem görmüş asıl ürünün ilk partisine ilişkin ihracat beyannamesinin tescil edildiği tarihte  
+D) Dahilde işleme izninin verildiği tarihte  
+E) Dahilde işleme izninin süresinin sona erdiği tarihte  
 
-A) I ve II  
-B) I, II, III ve IV  
-C) II ve IV  
-D) I, II ve III  
-E) I, III ve IV  
-
-**Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre işlem görmüş asıl ürünlerin ihraç edilen kısmıyla orantılı olarak serbest dolaşıma girecek ikincil ürünlerin gümrük vergileri, serbest dolaşıma giriş beyannamesinin tescil edildiği tarihteki vergi oranı üzerinden hesaplanır; I. ifade doğrudur. Hak sahibi, asıl ürünün ilk partisinin ihracatıyla eş zamanlı olarak belgelerde öngörülen ikincil ürünün tamamı için serbest dolaşıma giriş beyannamesi verebilir; II. ifade doğrudur. Bu ürünlerin serbest dolaşıma girişinde gümrük vergileri, ilgili kurumların kontrolleri hariç, ayniyet tespiti yapılmaksızın firma beyanı ve izinde öngörülen gerçekleşme oranları üzerinden hesaplanan miktar ve birim fiyat esas alınarak tahsil edilir; III. ifade doğrudur. İzin hak sahibi bu hesaplamanın Kanunda ithal eşyası için öngörülen esasa göre yapılmasını da talep edebilir; bu esas, ithal eşyasının dahilde işleme rejimine ilişkin beyannamesinin tescil tarihindeki vergi oranı ve diğer vergilendirme unsurlarıdır. Bu yüzden IV. ifade de doğrudur. Tuzak, 'ayniyet tespiti yapılmaksızın' ve 'talep edebilir' gibi kolaylık hükümlerinin yanlış sanılmasıdır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 359; GK 114, 115)
+**Doğru Cevap:** A  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre işlem görmüş asıl ürünlerin ihraç edilen kısmı ile orantılı olarak serbest dolaşıma girecek işlem görmüş ikincil ürünlerin gümrük vergileri, serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte yürürlükte bulunan vergi oranı üzerinden hesaplanır; Kanun da ikincil ürünlerin serbest dolaşıma girişine ilişkin beyannamenin tescil tarihindeki vergi oranı ve diğer vergilendirme unsurlarını esas alır. İzin hak sahibi ise bu hesaplamanın ithal eşyasının dahilde işleme rejimine ilişkin beyannamesinin tescil tarihindeki vergi oranı ve diğer vergilendirme unsurlarına göre yapılmasını talep edebilir. Kökte böyle bir talep bulunmadığı belirtildiği için bu tarih kural değil, talebe bağlı bir seçenektir ve en güçlü tuzaktır. Hak sahibinin asıl ürünün ilk partisinin ihracatıyla eş zamanlı olarak ikincil ürünün tamamı için verebileceği beyanname de bir serbest dolaşıma giriş beyannamesidir; hesaplama ihracat beyannamesinin tescil tarihine bağlanmaz. İznin verildiği ve süresinin sona erdiği tarihler ise vergilendirme anı değildir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 359; GK 114, 115)
 
 *4458 sayılı Gümrük Kanunu md. 117*
 
 **17-** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşıma giriş beyannamesinin tescili sırasında taşıdığı nitelik nedeniyle geri ödeme sistemi uygulanmayan eşya arasında aşağıdakilerden hangisi sayılmamıştır?
 
-A) Anti-damping vergisine tabi olan eşya  
-B) İthalat miktar kısıtlamasına tabi olan eşya  
-C) Kota kapsamında tarife önlemleri uygulanan eşya  
-D) Tarım politikası çerçevesinde ithalat veya ihracat lisansı veya sertifikası ibrazını gerektiren eşya  
-E) İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut olan eşya  
+A) İthalat miktar kısıtlamasına tabi olan eşya  
+B) Kota kapsamında tarife önlemleri uygulanan eşya  
+C) Tarım politikası çerçevesinde ithalat veya ihracat lisansı veya sertifikası ibrazını gerektiren eşya  
+D) İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut olan eşya  
+E) Anti-damping vergisine tabi olan eşya  
 
-**Doğru Cevap:** A  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre geri ödeme sisteminden kural olarak her eşya yararlanabilir. Ancak serbest dolaşıma giriş beyannamesinin tescili sırasında dört nitelikteki eşya için sistem uygulanmaz: ithalat miktar kısıtlamasına tabi olan; kota kapsamında tarife önlemleri uygulanan; tarım politikası çerçevesinde ithalat veya ihracat lisansı ya da sertifikası ibrazını gerektiren; işlem görmüş ürün için ihracat iadesi veya vergisi mevcut olan eşya. Anti-damping vergisine tabi olmak bu sayılanlar arasında yer almaz. Anti-damping vergisi Dahilde İşleme Rejimi Tebliği'nde indirimli teminatın uygulanmayacağı vergi olarak geçer, geri ödeme sistemini engelleyen hâl olarak geçmez. Sayılanlar sınırlıdır; ticaret politikasıyla ilgili göründüğü için akla yatkın gelen unsur bunlara eklenemez. Bu nedenle doğru cevap A seçeneğidir. (MD GK 117)
+**Doğru Cevap:** E  
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre geri ödeme sisteminden kural olarak her eşya yararlanabilir. Ancak serbest dolaşıma giriş beyannamesinin tescili sırasında dört nitelikteki eşya için sistem uygulanmaz: ithalat miktar kısıtlamasına tabi olan; kota kapsamında tarife önlemleri uygulanan; tarım politikası çerçevesinde ithalat veya ihracat lisansı ya da sertifikası ibrazını gerektiren; işlem görmüş ürün için ihracat iadesi veya vergisi mevcut olan eşya. Anti-damping vergisine tabi olmak bu sayılanlar arasında yer almaz. Anti-damping vergisi Dahilde İşleme Rejimi Tebliği'nde indirimli teminatın uygulanmayacağı vergi olarak geçer, geri ödeme sistemini engelleyen hâl olarak geçmez. Sayılanlar sınırlıdır; ticaret politikasıyla ilgili göründüğü için akla yatkın gelen unsur bunlara eklenemez. Bu nedenle doğru cevap E seçeneğidir. (MD GK 117)
 
 *4458 sayılı Gümrük Kanunu md. 121*
 
@@ -466,25 +430,25 @@ E) İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut olan eşya
 
 A) Transit rejimi  
 B) Gümrük antrepo rejimi  
-C) Geçici ithalat rejimi  
-D) Şartlı muafiyet sistemine tabi dahilde işleme rejimi  
-E) Gümrük kontrolü altında işleme rejimi  
+C) Gümrük kontrolü altında işleme rejimi  
+D) Geçici ithalat rejimi  
+E) Şartlı muafiyet sistemine tabi dahilde işleme rejimi  
 
-**Doğru Cevap:** E  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre geri ödeme sisteminde izin hak sahibi, serbest dolaşıma giren ithal eşyasından elde edilen işlem görmüş ürünlerin veya değişmemiş eşyanın üç durumdan birinde olduğunu belgelendirerek ithalat vergilerinin geri verilmesini veya kaldırılmasını isteyebilir. Bunlar ihraç edilmesi, serbest bölgeye konulması ve daha sonra yeniden ihraç edilmek üzere belirli rejimlere tabi tutulmasıdır. Bu rejimler transit rejimi, gümrük antrepo rejimi, geçici ithalat rejimi ve şartlı muafiyet sistemine tabi dahilde işleme rejimidir. Gümrük kontrolü altında işleme rejimi burada sayılmamıştır. En güçlü tuzak, gümrük kontrolü altında işleme rejiminin Kanunda şartlı muafiyet düzenlemeleri arasında yer almasıdır. Bu yüzden öteki rejimlerle birlikte düşünülmesi kolaydır, ancak geri ödeme talebine dayanak rejimler arasında değildir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 121; GK 79)
+**Doğru Cevap:** C  
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre geri ödeme sisteminde izin hak sahibi, serbest dolaşıma giren ithal eşyasından elde edilen işlem görmüş ürünlerin veya değişmemiş eşyanın üç durumdan birinde olduğunu belgelendirerek ithalat vergilerinin geri verilmesini veya kaldırılmasını isteyebilir. Bunlar ihraç edilmesi, serbest bölgeye konulması ve daha sonra yeniden ihraç edilmek üzere belirli rejimlere tabi tutulmasıdır. Bu rejimler transit rejimi, gümrük antrepo rejimi, geçici ithalat rejimi ve şartlı muafiyet sistemine tabi dahilde işleme rejimidir. Gümrük kontrolü altında işleme rejimi burada sayılmamıştır. En güçlü tuzak, gümrük kontrolü altında işleme rejiminin Kanunda şartlı muafiyet düzenlemeleri arasında yer almasıdır. Bu yüzden öteki rejimlerle birlikte düşünülmesi kolaydır, ancak geri ödeme talebine dayanak rejimler arasında değildir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 121; GK 79)
 
 *Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 37, 38*
 
 **19-** Dahilde İşleme Rejimi Tebliği'ne (İhracat: 2006/12) göre dahilde işleme izin belgesi sahibi firmalar, kendilerine tebliğ edilen taahhüt hesabının müeyyideli kapatılması işlemine karşı hangi süre içinde ve hangi makama itiraz edebilir?
 
-A) Tebliğ tarihinden itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
-B) Tebliğ tarihinden itibaren üç ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
-C) Belge süresi sonundan itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
-D) Tebliğ tarihinden itibaren bir ay içinde ilgili bölge müdürlüğüne yazılı olarak  
-E) Tebliğ tarihinden itibaren bir ay içinde ihracatçı birliği genel sekreterliğine yazılı olarak  
+A) Tebliğ tarihinden itibaren üç ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
+B) Belge süresi sonundan itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
+C) Tebliğ tarihinden itibaren bir ay içinde ilgili bölge müdürlüğüne yazılı olarak  
+D) Tebliğ tarihinden itibaren bir ay içinde ihracatçı birliği genel sekreterliğine yazılı olarak  
+E) Tebliğ tarihinden itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre dahilde işleme izin belgesi sahibi firmalar, kendilerine tebliğ edilen taahhüt hesabının müeyyideli kapatılması işlemine karşı tebliğ tarihinden itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak itiraz edebilir. İzinlere ilişkin müeyyideli kapatmalarda ise Gümrük Kanunu'ndaki itiraz yoluna başvurulur. Süre, belge süresi sonundan değil, müeyyideli kapatma işleminin tebliğ tarihinden başlar. Belge süresi sonundan itibaren işleyen süre üç aydır ve kapatma için bilgi ve belgelerin sunulmasına ilişkindir. Bölge müdürlüğü, itiraz haklı bulunduğunda izinler için kapatma işlemini geri alan mercidir. İhracatçı birlikleri genel sekreterlikleri ise telafi edici vergi tablosunu kontrol eder. Bu nedenle doğru cevap A seçeneğidir. (MD Tebliğ 37, 38)
+**Doğru Cevap:** E  
+**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre dahilde işleme izin belgesi sahibi firmalar, kendilerine tebliğ edilen taahhüt hesabının müeyyideli kapatılması işlemine karşı tebliğ tarihinden itibaren bir ay içinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak itiraz edebilir. İzinlere ilişkin müeyyideli kapatmalarda ise Gümrük Kanunu'ndaki itiraz yoluna başvurulur. Süre, belge süresi sonundan değil, müeyyideli kapatma işleminin tebliğ tarihinden başlar. Belge süresi sonundan itibaren işleyen süre üç aydır ve kapatma için bilgi ve belgelerin sunulmasına ilişkindir. Bölge müdürlüğü, itiraz haklı bulunduğunda izinler için kapatma işlemini geri alan mercidir. İhracatçı birlikleri genel sekreterlikleri ise telafi edici vergi tablosunu kontrol eder. Bu nedenle doğru cevap E seçeneğidir. (MD Tebliğ 37, 38)
 
 *Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) md. 45*
 
@@ -495,24 +459,24 @@ E) Tebliğ tarihinden itibaren bir ay içinde ihracatçı birliği genel sekrete
 - Bu ürünlere ilişkin ihracat beyannamesi 15 Temmuz 2026 tarihinde tescil edilmiş ve ihracat aynı gün gerçekleşmiştir.  
 Buna göre bu ihracat hakkında aşağıdakilerden hangisi uygulanır?  
 
-A) İhracat belge kapsamında değerlendirilir; ancak usulsüzlük cezasının iki katı para cezası tahsil edilir.  
-B) İhracat belge kapsamında değerlendirilmez; ithalat esnasında alınmayan vergi tahsil edilir ve ayrıca Gümrük Kanunu çerçevesinde müeyyide uygulanır.  
-C) İhracat belge kapsamında değerlendirilir ve firmaya herhangi bir para cezası uygulanmaz.  
-D) İhracat belge kapsamında değerlendirilir; ancak firma adına düzenlenen belgelerde altı ay süreyle indirimli teminat uygulanmaz.  
-E) İhracat belge kapsamında değerlendirilir; ancak usulsüzlük cezasının dört katı para cezası tahsil edilir.  
+A) İhracat belge kapsamında değerlendirilir; ancak usulsüzlük cezasının dört katı para cezası tahsil edilir.  
+B) İhracat belge kapsamında değerlendirilir; ancak usulsüzlük cezasının iki katı para cezası tahsil edilir.  
+C) İhracat belge kapsamında değerlendirilmez; ithalat esnasında alınmayan vergi tahsil edilir ve ayrıca Gümrük Kanunu çerçevesinde müeyyide uygulanır.  
+D) İhracat belge kapsamında değerlendirilir ve firmaya herhangi bir para cezası uygulanmaz.  
+E) İhracat belge kapsamında değerlendirilir; ancak firma adına düzenlenen belgelerde altı ay süreyle indirimli teminat uygulanmaz.  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre belge kapsamında getirilen eşya için rejimin gerektirdiği işlemler, ihracat veya gümrükçe onaylanmış işlem ya da kullanım, belge süresinin bitimini takiben bir ay içinde tamamlanırsa belge kapsamında değerlendirilir. Bu durumda usulsüzlük cezasının iki katı para cezası tahsil edilir. İşlem iki ay içinde tamamlanırsa yine belge kapsamında değerlendirilir, ancak usulsüzlük cezasının dört katı para cezası tahsil edilir. Olayda süre 31 Mayıs 2026'da bitmiştir. Bir aylık dönem 30 Haziran 2026'da, iki aylık dönem 31 Temmuz 2026'da sona erer. 15 Temmuz 2026'daki ihracat ikinci aya düştüğü için dört kat uygulanır. Vakadaki istisna bu tolerans hükmüdür: süre aşıldı diye ithalatta alınmayan verginin tahsili ve Gümrük Kanunu'na göre müeyyide uygulanması yoluna gidilmez. İndirimli teminatın altı ay uygulanmaması ise şartlara uyulmaması veya döviz kullanım oranının aşılması gibi başka ihlallerin müeyyidesidir. Bu nedenle doğru cevap E seçeneğidir. (MD Tebliğ 45)
+**Doğru Cevap:** A  
+**Gerekçe:** Dahilde İşleme Rejimi Tebliği'ne göre belge kapsamında getirilen eşya için rejimin gerektirdiği işlemler, ihracat veya gümrükçe onaylanmış işlem ya da kullanım, belge süresinin bitimini takiben bir ay içinde tamamlanırsa belge kapsamında değerlendirilir. Bu durumda usulsüzlük cezasının iki katı para cezası tahsil edilir. İşlem iki ay içinde tamamlanırsa yine belge kapsamında değerlendirilir, ancak usulsüzlük cezasının dört katı para cezası tahsil edilir. Olayda süre 31 Mayıs 2026'da bitmiştir. Bir aylık dönem 30 Haziran 2026'da, iki aylık dönem 31 Temmuz 2026'da sona erer. 15 Temmuz 2026'daki ihracat ikinci aya düştüğü için dört kat uygulanır. Vakadaki istisna bu tolerans hükmüdür: süre aşıldı diye ithalatta alınmayan verginin tahsili ve Gümrük Kanunu'na göre müeyyide uygulanması yoluna gidilmez. İndirimli teminatın altı ay uygulanmaması ise şartlara uyulmaması veya döviz kullanım oranının aşılması gibi başka ihlallerin müeyyidesidir. Bu nedenle doğru cevap A seçeneğidir. (MD Tebliğ 45)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
+| Birebir / parafraz / çıkarım | 16 / 3 / 1 |
 | Olumsuz kök | 7 |
-| Önermeli | 3 (II, III ve IV, I ve II, I, II, III ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 14, İSTİSNA 5, TERİM 4, SAĞDUYU 3, MAKAM 3, LİSTE-DIŞI 3 |
+| Önermeli | 2 (II, III ve IV, I ve II) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 15, TERİM 5, İSTİSNA 5, SAĞDUYU 3, MAKAM 3, LİSTE-DIŞI 3 |
 | İkiz eksen / ayna | 2, 5, 18 / SB31-A: geri ödeme tanımı ↔ şartlı muafiyet/geri ödeme kuralları, SB31-B: izin belgesi müracaatı ↔ dahilde işleme izni işlemleri |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 12 |

@@ -48,18 +48,13 @@ C) Cumhurbaşkanınca – gümrük idaresince
 D) Gümrük idaresince – Müsteşarlıkça  
 E) Müsteşarlıkça – gümrük idaresince  
 
-**5-** 4458 sayılı Gümrük Kanunu'nun geri gelen eşyaya ilişkin hükümlerine göre aşağıdaki olay verilmiştir:
+**5-** 4458 sayılı Gümrük Kanunu'na göre, ihraç edilmeden önce özel amaçlı kullanımı nedeniyle indirimli vergi oranından yararlanarak serbest dolaşıma girmiş olan geri gelen eşyanın farklı bir ithal amacıyla yeniden serbest dolaşıma sokulmak istenmesi hâlinde aşağıdakilerden hangisi uygulanır?
 
-- (B) Ltd. Şti., özel amaçlı kullanımı nedeniyle indirimli vergi oranından yararlanarak serbest dolaşıma soktuğu bir eşya için ilk girişte 4.000 TL ithalat vergisi ödemiştir.  
-- Eşya daha sonra Türkiye Gümrük Bölgesinden ihraç edilmiş ve ihracından iki yıl sonra ayniyeti değişmeden geri getirilmiştir. Muafiyetin diğer koşulları da sağlanmaktadır.  
-- Şirket eşyayı bu kez farklı bir ithal amacıyla serbest dolaşıma sokmak istemektedir; bu giriş için hesaplanan ithalat vergileri tutarı 3.000 TL'dir.  
-Buna göre, eşyanın serbest dolaşıma girişinde ithalat vergileri bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) İthalat vergisi tahsil edilmez; ilk girişte alınan tutarın fazla kısmı olan 1.000 TL ilgiliye iade edilir  
-B) Hesaplanan 3.000 TL ithalat vergisi herhangi bir indirim yapılmaksızın tahsil edilir  
-C) Eşyaya ilk girişindeki indirimli vergi oranı uygulanarak hesaplanan ithalat vergisi tahsil edilir  
-D) İthalat vergisi tahsil edilmez; ilk girişte alınan tutarın fazla kısmı için iade de yapılmaz  
-E) Muafiyet tanınmaz; hesaplanan 3.000 TL ithalat vergisi ile birlikte usulsüzlük cezası tahsil edilir  
+A) Uygulanacak ithalat vergileri tutarı ilk girişte alınmış tutar kadar indirilir; ilk girişte alınmış tutar daha fazla ise aradaki fark ilgiliye iade edilir.  
+B) Eşyaya, ilk girişinde yararlandığı indirimli vergi oranı yeniden uygulanır.  
+C) Eşyaya geri gelen eşya hükümleri uygulanmaz; ithalat vergileri herhangi bir indirim yapılmaksızın tahsil edilir.  
+D) Uygulanacak ithalat vergileri tutarı ilk girişte alınmış tutar kadar indirilir; ilk girişte alınmış tutar daha fazla ise hiçbir iade yapılmaz.  
+E) Usulsüzlük cezası uygulanır ve ithalat vergileri herhangi bir indirim yapılmaksızın tahsil edilir.  
 
 **6-** 4458 sayılı Gümrük Kanunu'na göre, dahilde işleme rejiminin uygulanmasından sonra ihraç edilip daha sonra geri gelen işlem görmüş ürünlere geri gelen eşya hükümlerinin uygulandığı hâllerde, serbest dolaşıma giriş tarihi olarak kabul edilen tarih ile kanunen alınması gereken ithalat vergileri tutarının belirlenmesinde esas alınacak hükümler aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?
 
@@ -73,25 +68,25 @@ E) İşlem görmüş ürünün elde edilmesinde kullanılan eşyanın ilk ithal 
 
 A) Bu koşul, sadece eşyanın kusurlu olduğunun veya sözleşme hükümlerine uygun olmadığının kullanılmadan anlaşılabildiği haller için geçerlidir  
 B) Bu koşul, eşyanın kusurlu olduğunun kullanılmadan anlaşılıp anlaşılamayacağına bakılmaksızın her durumda aranır  
-C) Bu koşul, sadece eşyanın kusurlu olduğunun veya sözleşme hükümlerine uygun olmadığının kullanılmadan anlaşılamayacağı haller için geçerlidir  
-D) Bu koşul, serbest dolaşımda iken ihraç edilip geri gelen ticari kullanıma mahsus taşıt araçları ve iş makineleri için de aranır  
-E) Bu koşulun sağlandığı, eşyanın Türkiye'deki ihracatçısı tarafından düzenlenen belgeyle gümrük idaresine ispatlanır  
+C) Bu koşul, serbest dolaşımda iken ihraç edilip geri gelen ticari kullanıma mahsus taşıt araçları ve iş makineleri için de aranır  
+D) Bu koşulun sağlandığı, eşyanın Türkiye'deki ihracatçısı tarafından düzenlenen belgeyle gümrük idaresine ispatlanır  
+E) Bu koşul, sadece eşyanın kusurlu olduğunun veya sözleşme hükümlerine uygun olmadığının kullanılmadan anlaşılamayacağı haller için geçerlidir  
 
 **8-** Gümrük Yönetmeliği'ne göre, ihraç edilen eşyanın ihracatçının elinde olmayan sebeplerle amaçlanan kullanıma girememesi nedeniyle geri gelmesi hâlinde uygulanacak durumlar arasında aşağıdakilerden hangisi sayılmamıştır?
 
 A) Gönderilen kişiye teslim edilmeden önce, eşyanın tabiatından ileri gelen veya nakliye sırasında meydana gelen hasar yüzünden Türkiye Gümrük Bölgesine geri gönderilen eşya  
-B) Tüketilmek veya satılmak amacıyla yurt dışındaki sergi ve fuarlara gönderilen ancak, tüketilmeden veya satılmadan geri gelen eşya  
-C) Alıcının fiziksel bir engeli veya yasal bir engel nedeniyle alıcısına teslim edilemeyen eşya  
-D) Siyasi ya da sosyal durumlarda meydana gelen ani ve beklenmeyen değişiklikler yüzünden ihracına ilişkin sözleşmede belirtilen tarihten sonra teslim edilen eşya  
-E) Türkiye Gümrük Bölgesi dışındaki ülkelere gönderilen ancak, piyasa kuralları gereği gönderildiği ülkede satılamayan dayanıklı tüketim malları  
+B) Türkiye Gümrük Bölgesi dışındaki ülkelere gönderilen ancak, piyasa kuralları gereği gönderildiği ülkede satılamayan dayanıklı tüketim malları  
+C) Tüketilmek veya satılmak amacıyla yurt dışındaki sergi ve fuarlara gönderilen ancak, tüketilmeden veya satılmadan geri gelen eşya  
+D) Alıcının fiziksel bir engeli veya yasal bir engel nedeniyle alıcısına teslim edilemeyen eşya  
+E) Siyasi ya da sosyal durumlarda meydana gelen ani ve beklenmeyen değişiklikler yüzünden ihracına ilişkin sözleşmede belirtilen tarihten sonra teslim edilen eşya  
 
 **9-** Gümrük Yönetmeliği'ne göre, serbest dolaşımda iken ihraç edilen ancak çeşitli nedenlerle geri gelen ticari kullanıma mahsus taşıt araçları, iş makineleri ve üretime yönelik makinelerin geri gelen eşya muafiyetinden faydalandırılması aşağıdakilerden hangisi kaydıyla mümkündür?
 
 A) Geri gelme nedeninin yurt dışındaki alıcıdan alınan belgeyle ispatı  
-B) Ayniyet tespiti yapılması  
-C) İlk kullanım dışında kullanılmamış olması  
-D) Gönderildiği ülkede mevzuat nedeniyle kullanıma arz edilememiş olması  
-E) Teslimden önce nakliye sırasında hasar görmüş olması  
+B) İlk kullanım dışında kullanılmamış olması  
+C) Gönderildiği ülkede mevzuat nedeniyle kullanıma arz edilememiş olması  
+D) Teslimden önce nakliye sırasında hasar görmüş olması  
+E) Ayniyet tespiti yapılması  
 
 **10-** Gümrük Yönetmeliği'ne göre, Türkiye Gümrük Bölgesinden ihraç edilen makinelere ait parça veya aksesuarları içeren eşyanın geri gelmesi hâlinde gümrük vergilerinden muafiyet uygulanabilmesi için, bu parça veya aksesuarların söz konusu makinelere ait olduğu aşağıdakilerden hangisiyle kanıtlanmalıdır?
 
@@ -109,42 +104,29 @@ C) Konsinye satış suretiyle ihracat
 D) Dahilde işleme rejiminin uygulanmasından sonra işlem görmüş ürünlerin ihracı  
 E) Ticari nitelikte olmayan eşyanın geçici olarak çıkarılması  
 
-**12-** Gümrük Yönetmeliği'nin ihraç edildikten sonra geri gelen eşyanın beyanına ve ihracat nedeniyle yararlanılan hak ve menfaatlere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**12-** Gümrük Yönetmeliği'nin ihraç edildikten sonra geri gelen eşyanın beyanında ibraz edilecek belgelere ve ihracat nedeniyle yararlanılan hak ve menfaatlere ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Geri gelen eşyanın gümrük vergilerinden muaf olarak serbest dolaşıma girebilmesi için, ihracat nedeniyle yararlanılmış bir hak ve menfaat varsa bunların iade edildiğini gösteren belgenin beyannameye eklenmesi gerekir.  
-II. İhracat nedeniyle katma değer vergisi ve özel tüketim vergisi istisnasından yararlanmış olan eşya geri geldiğinde, bu vergiler de geri gelen eşya muafiyeti kapsamında tahsil edilmez.  
-III. Geri gelen eşyaya tekabül eden katma değer vergisi ve özel tüketim vergisi ile diğer hak ve menfaatlere karşılık teminat verilmiş olsa dahi, bu hak ve menfaatlerden yararlanılıp yararlanılmadığı tespit edilmeden eşyanın teslimine izin verilmez.  
-IV. Yükümlü, geri gelen eşyanın beyanı sırasında ilgili gümrük idaresine eşyanın Türkiye Gümrük Bölgesinden ihracına ilişkin gümrük beyannamesini ve ayniyet tespitine ilişkin diğer belgeleri ibraz eder.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) III ve IV  
-C) I, II ve IV  
-D) I ve IV  
-E) I, III ve IV  
+A) Geri gelen eşyanın gümrük vergilerinden muaf olarak serbest dolaşıma girebilmesi için, ihracat nedeniyle yararlanılan hak ve menfaat varsa bunların iade edildiğini gösteren belgenin beyannameye eklenmesi gerekir.  
+B) Geri gelen eşyaya tekabül eden katma değer vergisi ve özel tüketim vergisi ile ihracata ilişkin diğer hak ve menfaatlere karşılık gerekli teminatın verilmesi hâlinde, bunlardan yararlanılıp yararlanılmadığı tespit edilmeden önce eşyanın teslimine izin verilir.  
+C) Yükümlü, geri gelen eşyanın beyanında ilgili gümrük idaresine eşyanın Türkiye Gümrük Bölgesinden ihracına ilişkin gümrük beyannamesini ve ayniyet tespitine ilişkin diğer belgeleri ibraz eder.  
+D) İhracat nedeniyle katma değer vergisi ve özel tüketim vergisi iadesinden veya istisnasından yararlanan eşya geri geldiğinde, bu vergiler de geri gelen eşya muafiyeti kapsamında tahsil edilmez.  
+E) İhraç edilen eşyanın kusurlu olması nedeniyle alıcısı tarafından kabul edilmeyerek geri gelmesi hâlinde, durumun Türkiye Gümrük Bölgesi dışındaki alıcıdan veya yetkili kurumlardan alınacak belgelerle gümrük idaresine ispatı gerekir.  
 
 **13-** Gümrük Yönetmeliği'nin Türkiye Gümrük Bölgesi dışına geçici olarak çıkarıldıktan sonra süresi içinde geri gelen taşıtların ve ticari nitelikte olmayan eşyanın işlemlerine ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
 A) Geçici olarak çıkarılan taşıtın süresi içerisinde yurda geri getirilmesi halinde çıkış kayıtları Taşıt Takip Programından kapatılır  
-B) Çıkış işlemi sırasında Triptik veya Gümrük Geçiş Karnesi beyanname olarak sunulmuşsa, taşıtın geri gelmesi halinde bu belgeler beyanname olarak kabul olunur  
-C) Geçici olarak çıkışı yapılan ticari nitelikte olmayan eşyanın süresi içerisinde geri getirilmesi halinde, gümrük idaresince çıkış kaydı kapatılır  
-D) Geri gelen demiryolu araçlarının çıkış kayıtları usulü dairesinde kapatılır  
-E) Diplomatik statüdeki memurların geri gelen taşıtlarının çıkış kayıtları, taşıtın muayenesi yapılıp gümrük formaliteleri tamamlanarak kapatılır  
+B) Diplomatik statüdeki memurların geri gelen taşıtlarının çıkış kayıtları, taşıtın muayenesi yapılıp gümrük formaliteleri tamamlanarak kapatılır  
+C) Çıkış işlemi sırasında Triptik veya Gümrük Geçiş Karnesi beyanname olarak sunulmuşsa, taşıtın geri gelmesi halinde bu belgeler beyanname olarak kabul olunur  
+D) Geçici olarak çıkışı yapılan ticari nitelikte olmayan eşyanın süresi içerisinde geri getirilmesi halinde, gümrük idaresince çıkış kaydı kapatılır  
+E) Geri gelen demiryolu araçlarının çıkış kayıtları usulü dairesinde kapatılır  
 
-**14-** Gümrük Yönetmeliği'nin geri getirilme süresinin başlangıcına ilişkin hükümlerine göre aşağıdaki olay verilmiştir:
+**14-** Gümrük Yönetmeliği'ne göre, kara yoluyla ve partiler hâlinde ihraç edilen eşyanın geri gelmesinde geri getirilme süresinin başlangıcı aşağıdakilerden hangisidir?
 
-- Serbest dolaşımdaki eşyanın kesin ihracı için 3 Mart 2025 tarihinde tek bir gümrük beyannamesi tescil edilmiştir.  
-- Eşya kara yoluyla üç parti hâlinde çıkarılmıştır. Birinci parti, çıkış işlemleri tamamlanarak 5 Mart 2025 tarihinde kara sınırından yabancı bir ülkeye fiilen çıkmıştır.  
-- İkinci partinin çıkış işlemleri 19 Mart 2025 tarihinde tamamlanmış, bu partiyi taşıyan taşıt 20 Mart 2025 tarihinde kara sınırından yabancı bir ülkeye fiilen çıkmıştır.  
-- Üçüncü parti 2 Nisan 2025 tarihinde kara sınırından yabancı bir ülkeye fiilen çıkmıştır.  
-- İkinci partideki eşya alıcısı tarafından kabul edilmeyerek Türkiye'ye geri getirilmiştir.  
-Buna göre, ikinci partideki eşya bakımından geri getirilme süresinin başlangıç tarihi aşağıdakilerden hangisidir?  
-
-A) 3 Mart 2025  
-B) 5 Mart 2025  
-C) 19 Mart 2025  
-D) 20 Mart 2025  
-E) 2 Nisan 2025  
+A) Her parti için, gümrük idaresince çıkış işlemleri tamamlanıp o partinin kara sınırından yabancı bir ülkeye fiilen çıktığı tarih  
+B) Bütün partiler için, ihracata ilişkin gümrük beyannamesinin tescil edildiği tarih  
+C) Bütün partiler için, gümrük idaresince çıkış işlemleri tamamlanıp son partinin kara sınırından yabancı bir ülkeye fiilen çıktığı tarih  
+D) Her parti için, o partiye ilişkin çıkış işlemlerinin gümrük idaresince tamamlandığı tarih  
+E) Her parti için, o partinin yabancı ülkedeki alıcısına teslim edildiği tarih  
 
 **15-** Gümrük Yönetmeliği'nin süresini aşarak geri getirilen eşyaya ilişkin hükümlerine göre aşağıdaki olay verilmiştir:
 
@@ -153,11 +135,11 @@ E) 2 Nisan 2025
 - Eşya, ek süre de dolduktan sonra, fiilen ihraç edildiği tarihten itibaren iki yıl geçtiğinde ayniyeti değişmeden Türkiye'ye geri getirilmiştir.  
 Buna göre, eşyanın serbest dolaşıma sokulması sırasında aşağıdakilerden hangisi uygulanır?  
 
-A) Usulsüzlük cezası uygulanır ve eşya gümrük vergileri tahsil edilmeden serbest dolaşıma sokulur  
-B) Usulsüzlük cezası uygulanır, gümrük vergileri tahsil edilerek serbest dolaşıma giriş rejimi hükümleri uygulanır  
-C) Eşya, süre aşımına rağmen herhangi bir yaptırım uygulanmaksızın ithalat vergilerinden muaf olarak serbest dolaşıma sokulur  
-D) Geçici ihracat kesin ihracata dönüşmüş sayılır, ithalat vergileri tahsil edilir  
-E) İhracat vergilerine tabi ise bu vergiler tahsil edilir, eşya usulsüzlük cezası uygulanmaksızın serbest dolaşıma sokulur  
+A) Usulsüzlük cezası uygulanır, gümrük vergileri tahsil edilerek serbest dolaşıma giriş rejimi hükümleri uygulanır  
+B) Eşya, süre aşımına rağmen herhangi bir yaptırım uygulanmaksızın ithalat vergilerinden muaf olarak serbest dolaşıma sokulur  
+C) Geçici ihracat kesin ihracata dönüşmüş sayılır, ithalat vergileri tahsil edilir  
+D) İhracat vergilerine tabi ise bu vergiler tahsil edilir, eşya usulsüzlük cezası uygulanmaksızın serbest dolaşıma sokulur  
+E) Usulsüzlük cezası uygulanır ve eşya gümrük vergileri tahsil edilmeden serbest dolaşıma sokulur  
 
 **16-** Gümrük Yönetmeliği'nin süresini aşarak geri getirilen, süresinde geri getirilmeyen ve kesin ihracata dönüştürülen eşyaya ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
 
@@ -178,27 +160,22 @@ E) II, III ve IV
 A) Mücbir sebep belgesinin ibraz edilmesi ve ihracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması  
 B) Kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve eşyanın ayniyet tespiti için gümrük idaresine sunulması  
 C) Kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve ihracat vergilerine tabi eşyadan bu vergilerin tahsil edilmesi  
-D) İhracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması ve hak ve menfaatlere karşılık gerekli teminatın verilmesi  
-E) Kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve ihracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması  
+D) Kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve ihracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması  
+E) İhracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması ve hak ve menfaatlere karşılık gerekli teminatın verilmesi  
 
-**18-** 4458 sayılı Gümrük Kanunu'nun serbest dolaşımda olmayan eşyanın yeniden ihracına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**18-** 4458 sayılı Gümrük Kanunu'nun serbest dolaşımda olmayan eşyanın yeniden ihracına ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Ticaret politikası önlemleri yalnızca serbest dolaşımdaki eşyanın ihracında uygulanır; yeniden ihraç edilecek eşyaya bu önlemler uygulanmaz.  
-II. Ticaret politikası önlemleri dahil, ihracat veya yeniden ihracata ilişkin işlem ya da önlemlerin gerektirdiği hallerde yeniden ihracat Gümrük Müsteşarlığınca yasaklanır.  
-III. Türkiye Gümrük Bölgesinde bulunduğu sırada ekonomik etkili bir gümrük rejimine tabi tutulmuş eşya yeniden ihraç edilmek istendiğinde gümrük beyannamesi verilmesi gerekir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) Yalnız I  
-B) Yalnız II  
-C) I ve III  
-D) II ve III  
-E) I, II ve III  
+A) Serbest dolaşımda olmayan eşyanın Türkiye Gümrük Bölgesinden yeniden ihracı mümkündür.  
+B) Gümrük Müsteşarlığı, ticaret politikası önlemleri dahil olmak üzere eşyanın ihracı veya yeniden ihracına ilişkin işlemlerin veya önlemlerin gerektirdiği hâllerde yeniden ihracatı yasaklar.  
+C) Türkiye Gümrük Bölgesinde bulunduğu sırada ekonomik etkili bir gümrük rejimine tabi tutulan eşyanın yeniden ihraç edilmek istenmesi hâlinde gümrük beyannamesi verilmesi gerekir.  
+D) Serbest dolaşımda olmayan eşyanın, ihracata ilişkin ticaret politikası önlemlerinin uygulanmayacağını öngören şartlı muafiyet içeren bir gümrük rejimine tabi tutulabileceği hâller yönetmelikle belirlenir.  
+E) Ticaret politikası önlemleri yalnızca serbest dolaşımdaki eşyanın ihracında uygulanır; yeniden ihraç edilecek eşyaya bu önlemler uygulanmaz.  
 
 **19-** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşımda olmayan eşyanın imhasına ve gümrüğe terk edilmesine ilişkin aşağıdakilerden hangisi söylenemez?
 
 A) Serbest dolaşımda olmayan eşyanın gümrük idaresinin gözetiminde imhası veya gümrüğe terk edilmesi mümkündür  
-B) İmha veya gümrüğe terk işlemlerinden doğan masraflar, işlemler gümrük idaresinin gözetiminde yapıldığı için Hazinece karşılanır  
-C) İmha sonucunda çıkan artık ve atıklar, serbest dolaşımda olmayan eşya için öngörülen bir işlem veya kullanıma tabi tutulur  
+B) İmha sonucunda çıkan artık ve atıklar, serbest dolaşımda olmayan eşya için öngörülen bir işlem veya kullanıma tabi tutulur  
+C) İmha veya gümrüğe terk işlemlerinden doğan masraflar, işlemler gümrük idaresinin gözetiminde yapıldığı için Hazinece karşılanır  
 D) İmha sonucunda çıkan artık ve atıklar, Kanunda öngörülen işlemler tamamlanıncaya kadar gümrük gözetimi altında kalır  
 E) Müsteşarlıkça belirlenen haller saklı kalmak üzere, eşyanın imhası gümrük idarelerine önceden bildirilir  
 
@@ -207,14 +184,14 @@ E) Müsteşarlıkça belirlenen haller saklı kalmak üzere, eşyanın imhası g
 A) Bildirim, gümrük idarelerinin imhayı denetlemesi için yeteri kadar zaman verecek bir süre içinde yapılmalıdır  
 B) Eşya için tescil edilmiş bir gümrük beyannamesi olması halinde, gümrük idaresi beyanname üzerine imhaya ilişkin şerh düşer ve beyannameyi iptal eder  
 C) Gümrük görevlileri imha sırasında hazır bulunarak, imha sonucunda kalan artık ya da atık miktarını ve tipini belirten tutanak düzenler ya da bunları beyanname üzerinde belirtir  
-D) Hazineye terk edilen eşya için tescil edilmiş beyanname bulunması halinde de beyanname üzerine şerh düşülerek beyanname iptal edilir  
-E) Eşya imhasının bildirimi ilgili kişi tarafından sözlü olarak da yapılabilir; bildirimin imzalanması gerekmez  
+D) Eşya imhasının bildirimi ilgili kişi tarafından sözlü olarak da yapılabilir; bildirimin imzalanması gerekmez  
+E) Hazineye terk edilen eşya için tescil edilmiş beyanname bulunması halinde de beyanname üzerine şerh düşülerek beyanname iptal edilir  
 
 ### Cevap Anahtarı
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C | A | B | A | D | B | C | E | B | A | C | D | E | D | A | C | E | D | B | E |
+| C | A | B | A | D | B | E | B | E | A | C | D | B | A | E | C | D | E | C | D |
 
 ### Çözümler
 
@@ -282,21 +259,16 @@ E) Müsteşarlıkça – gümrük idaresince
 
 *4458 sayılı Gümrük Kanunu md. 168*
 
-**5-** 4458 sayılı Gümrük Kanunu'nun geri gelen eşyaya ilişkin hükümlerine göre aşağıdaki olay verilmiştir:
+**5-** 4458 sayılı Gümrük Kanunu'na göre, ihraç edilmeden önce özel amaçlı kullanımı nedeniyle indirimli vergi oranından yararlanarak serbest dolaşıma girmiş olan geri gelen eşyanın farklı bir ithal amacıyla yeniden serbest dolaşıma sokulmak istenmesi hâlinde aşağıdakilerden hangisi uygulanır?
 
-- (B) Ltd. Şti., özel amaçlı kullanımı nedeniyle indirimli vergi oranından yararlanarak serbest dolaşıma soktuğu bir eşya için ilk girişte 4.000 TL ithalat vergisi ödemiştir.  
-- Eşya daha sonra Türkiye Gümrük Bölgesinden ihraç edilmiş ve ihracından iki yıl sonra ayniyeti değişmeden geri getirilmiştir. Muafiyetin diğer koşulları da sağlanmaktadır.  
-- Şirket eşyayı bu kez farklı bir ithal amacıyla serbest dolaşıma sokmak istemektedir; bu giriş için hesaplanan ithalat vergileri tutarı 3.000 TL'dir.  
-Buna göre, eşyanın serbest dolaşıma girişinde ithalat vergileri bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) İthalat vergisi tahsil edilmez; ilk girişte alınan tutarın fazla kısmı olan 1.000 TL ilgiliye iade edilir  
-B) Hesaplanan 3.000 TL ithalat vergisi herhangi bir indirim yapılmaksızın tahsil edilir  
-C) Eşyaya ilk girişindeki indirimli vergi oranı uygulanarak hesaplanan ithalat vergisi tahsil edilir  
-D) İthalat vergisi tahsil edilmez; ilk girişte alınan tutarın fazla kısmı için iade de yapılmaz  
-E) Muafiyet tanınmaz; hesaplanan 3.000 TL ithalat vergisi ile birlikte usulsüzlük cezası tahsil edilir  
+A) Uygulanacak ithalat vergileri tutarı ilk girişte alınmış tutar kadar indirilir; ilk girişte alınmış tutar daha fazla ise aradaki fark ilgiliye iade edilir.  
+B) Eşyaya, ilk girişinde yararlandığı indirimli vergi oranı yeniden uygulanır.  
+C) Eşyaya geri gelen eşya hükümleri uygulanmaz; ithalat vergileri herhangi bir indirim yapılmaksızın tahsil edilir.  
+D) Uygulanacak ithalat vergileri tutarı ilk girişte alınmış tutar kadar indirilir; ilk girişte alınmış tutar daha fazla ise hiçbir iade yapılmaz.  
+E) Usulsüzlük cezası uygulanır ve ithalat vergileri herhangi bir indirim yapılmaksızın tahsil edilir.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre ihraç edilmeden önce özel amaçlı kullanımı nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşya geri gelip aynı amaçla tekrar serbest dolaşıma sokulmak istenirse indirimli veya sıfır oran uygulanır. İthal amacı aynı değilse, uygulanacak ithalat vergileri tutarı ilk girişte alınmış tutar kadar indirilir. Ancak ilk girişte alınmış tutar yeniden girişte alınacak tutardan fazla ise hiçbir iade yapılmaz. Olayda amaç farklıdır; hesaplanan 3.000 TL, ilk girişte ödenen 4.000 TL kadar indirildiğinde ödenecek vergi kalmaz, aradaki 1.000 TL ise iade edilmez. Vakaya saklanan istisna bu son cümledir: indirim ödenecek tutarı sıfıra indirir ama fark geri verilmez. İndirimli oranın yeniden uygulanması yalnızca eşyanın aynı amaçla serbest dolaşıma sokulduğu hâle aittir. En güçlü çeldirici 1.000 TL'nin ilgiliye iade edileceğini söyleyen seçenektir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 168)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre ihraç edilmeden önce özel amaçlı kullanımı nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşya geri gelip aynı amaçla tekrar serbest dolaşıma sokulmak istenirse bu eşyaya indirimli veya sıfır vergi oranı uygulanır. İthal amacı aynı değilse, uygulanacak ithalat vergileri tutarı serbest dolaşıma ilk girişi sırasında alınmış tutar kadar indirilir. Ancak ilk girişte alınmış tutar yeniden girişte alınacak tutardan fazla ise hiçbir iade yapılmaz. En güçlü çeldirici, aradaki farkın ilgiliye iade edileceğini söyleyen seçenektir: indirimi bilen ancak 'hiçbir iade yapılmaz' cümlesini atlayan aday bu seçeneğe gider. İndirimli oranın yeniden uygulanması yalnızca eşyanın aynı amaçla serbest dolaşıma sokulduğu hâle aittir. Kanun bu eşyayı muafiyet dışında bırakmaz; muafiyetin tanınmadığı hâller hariçte işleme rejimiyle ihraç edilip aynen dönmeyen eşya ile ihracı dış ticaret önlemine konu eşyadır. Usulsüzlük cezası ile vergilerin tahsili ise Yönetmelikte üç yıllık sürenin aşılmasına bağlanan sonuçtur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 168; GY 453)
 
 *4458 sayılı Gümrük Kanunu md. 170*
 
@@ -317,38 +289,38 @@ E) İşlem görmüş ürünün elde edilmesinde kullanılan eşyanın ilk ithal 
 
 A) Bu koşul, sadece eşyanın kusurlu olduğunun veya sözleşme hükümlerine uygun olmadığının kullanılmadan anlaşılabildiği haller için geçerlidir  
 B) Bu koşul, eşyanın kusurlu olduğunun kullanılmadan anlaşılıp anlaşılamayacağına bakılmaksızın her durumda aranır  
-C) Bu koşul, sadece eşyanın kusurlu olduğunun veya sözleşme hükümlerine uygun olmadığının kullanılmadan anlaşılamayacağı haller için geçerlidir  
-D) Bu koşul, serbest dolaşımda iken ihraç edilip geri gelen ticari kullanıma mahsus taşıt araçları ve iş makineleri için de aranır  
-E) Bu koşulun sağlandığı, eşyanın Türkiye'deki ihracatçısı tarafından düzenlenen belgeyle gümrük idaresine ispatlanır  
+C) Bu koşul, serbest dolaşımda iken ihraç edilip geri gelen ticari kullanıma mahsus taşıt araçları ve iş makineleri için de aranır  
+D) Bu koşulun sağlandığı, eşyanın Türkiye'deki ihracatçısı tarafından düzenlenen belgeyle gümrük idaresine ispatlanır  
+E) Bu koşul, sadece eşyanın kusurlu olduğunun veya sözleşme hükümlerine uygun olmadığının kullanılmadan anlaşılamayacağı haller için geçerlidir  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre kusurlu olması veya sözleşme hükümlerine uygun olmaması nedenleriyle alıcısı tarafından kabul edilmeyen eşyanın geri gelen eşya muafiyetinden yararlanabilmesi için ilk kullanım dışında kullanılmamış olması gerekir. Yönetmelik bu koşulun kapsamını da sınırlamıştır: koşul her durumda değil, sadece eşyanın kusurlu olduğunun veya sözleşme hükümlerine uygun olmadığının kullanılmadan anlaşılamayacağı haller için geçerlidir. Bu koşul kusurlu veya sözleşmeye aykırı eşya için öngörülmüştür; ticari kullanıma mahsus taşıt araçları, iş makineleri ve üretime yönelik makineler ise ayniyet tespiti kaydıyla bu şartlara bağlı olmaksızın muafiyetten yararlanır. Geri gelme nedeni de Türkiye'deki ihracatçının değil, Türkiye Gümrük Bölgesi dışındaki alıcının veya yetkili kurumların belgeleriyle ispatlanır. En güçlü çeldirici, doğru cümledeki 'anlaşılamayacağı' kelimesinin 'anlaşılabildiği' biçiminde tersine çevrildiği seçenektir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 446)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre kusurlu olması veya sözleşme hükümlerine uygun olmaması nedenleriyle alıcısı tarafından kabul edilmeyen eşyanın geri gelen eşya muafiyetinden yararlanabilmesi için ilk kullanım dışında kullanılmamış olması gerekir. Yönetmelik bu koşulun kapsamını da sınırlamıştır: koşul her durumda değil, sadece eşyanın kusurlu olduğunun veya sözleşme hükümlerine uygun olmadığının kullanılmadan anlaşılamayacağı haller için geçerlidir. Bu koşul kusurlu veya sözleşmeye aykırı eşya için öngörülmüştür; ticari kullanıma mahsus taşıt araçları, iş makineleri ve üretime yönelik makineler ise ayniyet tespiti kaydıyla bu şartlara bağlı olmaksızın muafiyetten yararlanır. Geri gelme nedeni de Türkiye'deki ihracatçının değil, Türkiye Gümrük Bölgesi dışındaki alıcının veya yetkili kurumların belgeleriyle ispatlanır. En güçlü çeldirici, doğru cümledeki 'anlaşılamayacağı' kelimesinin 'anlaşılabildiği' biçiminde tersine çevrildiği seçenektir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 446)
 
 *Gümrük Yönetmeliği md. 446*
 
 **8-** Gümrük Yönetmeliği'ne göre, ihraç edilen eşyanın ihracatçının elinde olmayan sebeplerle amaçlanan kullanıma girememesi nedeniyle geri gelmesi hâlinde uygulanacak durumlar arasında aşağıdakilerden hangisi sayılmamıştır?
 
 A) Gönderilen kişiye teslim edilmeden önce, eşyanın tabiatından ileri gelen veya nakliye sırasında meydana gelen hasar yüzünden Türkiye Gümrük Bölgesine geri gönderilen eşya  
-B) Tüketilmek veya satılmak amacıyla yurt dışındaki sergi ve fuarlara gönderilen ancak, tüketilmeden veya satılmadan geri gelen eşya  
-C) Alıcının fiziksel bir engeli veya yasal bir engel nedeniyle alıcısına teslim edilemeyen eşya  
-D) Siyasi ya da sosyal durumlarda meydana gelen ani ve beklenmeyen değişiklikler yüzünden ihracına ilişkin sözleşmede belirtilen tarihten sonra teslim edilen eşya  
-E) Türkiye Gümrük Bölgesi dışındaki ülkelere gönderilen ancak, piyasa kuralları gereği gönderildiği ülkede satılamayan dayanıklı tüketim malları  
+B) Türkiye Gümrük Bölgesi dışındaki ülkelere gönderilen ancak, piyasa kuralları gereği gönderildiği ülkede satılamayan dayanıklı tüketim malları  
+C) Tüketilmek veya satılmak amacıyla yurt dışındaki sergi ve fuarlara gönderilen ancak, tüketilmeden veya satılmadan geri gelen eşya  
+D) Alıcının fiziksel bir engeli veya yasal bir engel nedeniyle alıcısına teslim edilemeyen eşya  
+E) Siyasi ya da sosyal durumlarda meydana gelen ani ve beklenmeyen değişiklikler yüzünden ihracına ilişkin sözleşmede belirtilen tarihten sonra teslim edilen eşya  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre ihracatçının elinde olmayan sebeplerle amaçlanan kullanıma girememe durumları tek tek sayılmıştır: teslimden önce eşyanın tabiatından ileri gelen veya nakliye sırasında meydana gelen hasar yüzünden geri gönderilen eşya; tüketilmek veya satılmak amacıyla yurt dışındaki sergi ve fuarlara gönderilip tüketilmeden veya satılmadan geri gelen eşya; alıcının fiziksel veya yasal engeli nedeniyle teslim edilemeyen eşya; kriz halleri veya siyasi ya da sosyal durumlardaki ani ve beklenmeyen değişiklikler yüzünden teslim edilemeyen ya da sözleşmedeki tarihten sonra teslim edilen eşya; piyasa kuralları gereği gönderildiği ülkede satılamayan sebze ve meyveler. Piyasa kuralları gereği satılamama yalnızca sebze ve meyveler için öngörülmüştür; aynı gerekçe dayanıklı tüketim mallarına genişletilemez. En güçlü tuzak, listedeki 'piyasa kuralları gereği satılamama' ifadesinin her türlü eşyayı kapsadığı izlenimidir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 446)
+**Doğru Cevap:** B  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre ihracatçının elinde olmayan sebeplerle amaçlanan kullanıma girememe durumları tek tek sayılmıştır: teslimden önce eşyanın tabiatından ileri gelen veya nakliye sırasında meydana gelen hasar yüzünden geri gönderilen eşya; tüketilmek veya satılmak amacıyla yurt dışındaki sergi ve fuarlara gönderilip tüketilmeden veya satılmadan geri gelen eşya; alıcının fiziksel veya yasal engeli nedeniyle teslim edilemeyen eşya; kriz halleri veya siyasi ya da sosyal durumlardaki ani ve beklenmeyen değişiklikler yüzünden teslim edilemeyen ya da sözleşmedeki tarihten sonra teslim edilen eşya; piyasa kuralları gereği gönderildiği ülkede satılamayan sebze ve meyveler. Piyasa kuralları gereği satılamama yalnızca sebze ve meyveler için öngörülmüştür; aynı gerekçe dayanıklı tüketim mallarına genişletilemez. En güçlü tuzak, listedeki 'piyasa kuralları gereği satılamama' ifadesinin her türlü eşyayı kapsadığı izlenimidir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 446)
 
 *Gümrük Yönetmeliği md. 446*
 
 **9-** Gümrük Yönetmeliği'ne göre, serbest dolaşımda iken ihraç edilen ancak çeşitli nedenlerle geri gelen ticari kullanıma mahsus taşıt araçları, iş makineleri ve üretime yönelik makinelerin geri gelen eşya muafiyetinden faydalandırılması aşağıdakilerden hangisi kaydıyla mümkündür?
 
 A) Geri gelme nedeninin yurt dışındaki alıcıdan alınan belgeyle ispatı  
-B) Ayniyet tespiti yapılması  
-C) İlk kullanım dışında kullanılmamış olması  
-D) Gönderildiği ülkede mevzuat nedeniyle kullanıma arz edilememiş olması  
-E) Teslimden önce nakliye sırasında hasar görmüş olması  
+B) İlk kullanım dışında kullanılmamış olması  
+C) Gönderildiği ülkede mevzuat nedeniyle kullanıma arz edilememiş olması  
+D) Teslimden önce nakliye sırasında hasar görmüş olması  
+E) Ayniyet tespiti yapılması  
 
-**Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre serbest dolaşımda iken ihraç edilen, ancak çeşitli nedenlerle geri gelen ticari kullanıma mahsus taşıt araçları, iş makineleri ve üretime yönelik makineler, ayniyet tespiti kaydıyla, geri gelme nedenlerine ilişkin fıkralarda belirtilen şartlara bağlı olmaksızın geri gelen eşya muafiyetinden faydalandırılır. Dolayısıyla bu eşyada geri gelme nedeninin yurt dışındaki alıcı veya yetkili kurum belgesiyle ispatı, ilk kullanım sınırı ya da ihracatçının elinde olmayan sebeplerden birinin bulunması aranmaz; aranan tek kayıt ayniyetin tespit edilmesidir. Bu hüküm Yönetmeliğe 31.12.2010 tarihli Resmî Gazete ile eklenmiştir. En güçlü çeldirici 'Geri gelme nedeninin yurt dışındaki alıcıdan alınan belgeyle ispatı' seçeneğidir: bu ispat genel geri gelme nedenleri için aranır, ticari taşıt ve makinelerde aranmaz. Bu nedenle doğru cevap B seçeneğidir. (MD GY 446)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre serbest dolaşımda iken ihraç edilen, ancak çeşitli nedenlerle geri gelen ticari kullanıma mahsus taşıt araçları, iş makineleri ve üretime yönelik makineler, ayniyet tespiti kaydıyla, geri gelme nedenlerine ilişkin fıkralarda belirtilen şartlara bağlı olmaksızın geri gelen eşya muafiyetinden faydalandırılır. Dolayısıyla bu eşyada geri gelme nedeninin yurt dışındaki alıcı veya yetkili kurum belgesiyle ispatı, ilk kullanım sınırı ya da ihracatçının elinde olmayan sebeplerden birinin bulunması aranmaz; aranan tek kayıt ayniyetin tespit edilmesidir. Bu hüküm Yönetmeliğe 31.12.2010 tarihli Resmî Gazete ile eklenmiştir. En güçlü çeldirici 'Geri gelme nedeninin yurt dışındaki alıcıdan alınan belgeyle ispatı' seçeneğidir: bu ispat genel geri gelme nedenleri için aranır, ticari taşıt ve makinelerde aranmaz. Bu nedenle doğru cevap E seçeneğidir. (MD GY 446)
 
 *Gümrük Yönetmeliği md. 447*
 
@@ -376,57 +348,44 @@ E) Ticari nitelikte olmayan eşyanın geçici olarak çıkarılması
 **Doğru Cevap:** C  
 **Gerekçe:** Gümrük Yönetmeliği'ne göre konsinye satış suretiyle ihraç edilen eşyanın çıkışında, gönderildiği yerde satılmayıp geri gelmesi ihtimali göz önünde bulundurularak ayniyet tespitine ilişkin tüm destekleyici bilgiler gümrük beyannamesine eklenir; bu suretle ihraç edilen eşya geri gelirse geri gelen eşyanın beyanına ilişkin genel hükümlere göre işlem yapılır. Yönetmelik bu kuralı, satış amacıyla gönderilip satılamama ihtimali bulunan konsinye ihracat için koymuştur. Geçici ihracatta süre ve ek süreler, hariçte işleme rejiminde aynen ihraç hali dışında muafiyetin tanınmaması, dahilde işleme rejimi sonrasında yeniden ihraç tarihinin serbest dolaşıma giriş tarihi sayılması, ticari nitelikte olmayan eşyada ise çıkış kaydının gümrük idaresince kapatılması düzenlenmiştir. En güçlü çeldirici 'Geçici ihracat' seçeneğidir: geri dönmesi beklenen eşya çağrışımı adayı bu şıkka yöneltir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 449)
 
-*Gümrük Yönetmeliği md. 448, 451*
+*Gümrük Yönetmeliği md. 446, 448, 451*
 
-**12-** Gümrük Yönetmeliği'nin ihraç edildikten sonra geri gelen eşyanın beyanına ve ihracat nedeniyle yararlanılan hak ve menfaatlere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**12-** Gümrük Yönetmeliği'nin ihraç edildikten sonra geri gelen eşyanın beyanında ibraz edilecek belgelere ve ihracat nedeniyle yararlanılan hak ve menfaatlere ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Geri gelen eşyanın gümrük vergilerinden muaf olarak serbest dolaşıma girebilmesi için, ihracat nedeniyle yararlanılmış bir hak ve menfaat varsa bunların iade edildiğini gösteren belgenin beyannameye eklenmesi gerekir.  
-II. İhracat nedeniyle katma değer vergisi ve özel tüketim vergisi istisnasından yararlanmış olan eşya geri geldiğinde, bu vergiler de geri gelen eşya muafiyeti kapsamında tahsil edilmez.  
-III. Geri gelen eşyaya tekabül eden katma değer vergisi ve özel tüketim vergisi ile diğer hak ve menfaatlere karşılık teminat verilmiş olsa dahi, bu hak ve menfaatlerden yararlanılıp yararlanılmadığı tespit edilmeden eşyanın teslimine izin verilmez.  
-IV. Yükümlü, geri gelen eşyanın beyanı sırasında ilgili gümrük idaresine eşyanın Türkiye Gümrük Bölgesinden ihracına ilişkin gümrük beyannamesini ve ayniyet tespitine ilişkin diğer belgeleri ibraz eder.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) III ve IV  
-C) I, II ve IV  
-D) I ve IV  
-E) I, III ve IV  
+A) Geri gelen eşyanın gümrük vergilerinden muaf olarak serbest dolaşıma girebilmesi için, ihracat nedeniyle yararlanılan hak ve menfaat varsa bunların iade edildiğini gösteren belgenin beyannameye eklenmesi gerekir.  
+B) Geri gelen eşyaya tekabül eden katma değer vergisi ve özel tüketim vergisi ile ihracata ilişkin diğer hak ve menfaatlere karşılık gerekli teminatın verilmesi hâlinde, bunlardan yararlanılıp yararlanılmadığı tespit edilmeden önce eşyanın teslimine izin verilir.  
+C) Yükümlü, geri gelen eşyanın beyanında ilgili gümrük idaresine eşyanın Türkiye Gümrük Bölgesinden ihracına ilişkin gümrük beyannamesini ve ayniyet tespitine ilişkin diğer belgeleri ibraz eder.  
+D) İhracat nedeniyle katma değer vergisi ve özel tüketim vergisi iadesinden veya istisnasından yararlanan eşya geri geldiğinde, bu vergiler de geri gelen eşya muafiyeti kapsamında tahsil edilmez.  
+E) İhraç edilen eşyanın kusurlu olması nedeniyle alıcısı tarafından kabul edilmeyerek geri gelmesi hâlinde, durumun Türkiye Gümrük Bölgesi dışındaki alıcıdan veya yetkili kurumlardan alınacak belgelerle gümrük idaresine ispatı gerekir.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre ihraç edildikten sonra geri gelen eşyanın gümrük vergilerinden muaf olarak serbest dolaşıma girebilmesi için, ihracat nedeniyle yararlanılan hak ve menfaat varsa bunların iade edildiğini gösteren belgenin beyannameye eklenmesi gerekir (I doğru). İhracat nedeniyle katma değer vergisi ve özel tüketim vergisi iadesinden veya istisnasından yararlanan eşyanın bu vergileri tahsil edilir; geri gelen eşya muafiyeti bu vergileri kapsamaz (II yanlış). Bu vergiler ile diğer hak ve menfaatlere karşılık gerekli teminat verilirse, yararlanılıp yararlanılmadığı tespit edilmeden önce eşyanın teslimine Bakanlıkça belirlenecek usul ve esaslar çerçevesinde izin verilir; bu hüküm Yönetmeliğe 30.12.2021 tarihli Resmî Gazete ile eklenmiştir (III yanlış). Geri gelen eşyanın beyanında yükümlü, ilgili gümrük idaresine ihracata ilişkin gümrük beyannamesini ve ayniyet tespitine ilişkin diğer belgeleri ibraz eder (IV doğru). En güçlü çeldirici 'I, III ve IV' seçeneğidir: teminatla erken teslim imkânını bilmeyen aday III'ü doğru sayar. Bu nedenle doğru cevap D seçeneğidir. (MD GY 448, 451)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre ihracat nedeniyle katma değer vergisi ve özel tüketim vergisi iadesinden veya istisnasından yararlanan eşyanın bu vergileri tahsil edilir; geri gelen eşya muafiyeti bu vergileri kapsamaz. Yanlış ifade, 'tahsil edilir' hükmünü tersine çevirmektedir. Diğer ifadeler Yönetmelikle örtüşür: geri gelen eşyanın gümrük vergilerinden muaf olarak serbest dolaşıma girebilmesi için ihracat nedeniyle yararlanılan hak ve menfaat varsa bunların iade edildiğini gösteren belge beyannameye eklenir; bu vergiler ile diğer hak ve menfaatlere karşılık gerekli teminat verilirse, yararlanılıp yararlanılmadığı tespit edilmeden önce eşyanın teslimine Bakanlıkça belirlenecek usul ve esaslar çerçevesinde izin verilir (bu hüküm Yönetmeliğe 30.12.2021 tarihli Resmî Gazete ile eklenmiştir); yükümlü, ihracata ilişkin gümrük beyannamesini ve ayniyet tespitine ilişkin diğer belgeleri ibraz eder; kusurlu olması nedeniyle alıcısınca kabul edilmeyen eşyada durum Türkiye Gümrük Bölgesi dışındaki alıcıdan veya yetkili kurumlardan alınacak belgelerle ispatlanır. En güçlü tuzak, teminatla erken teslim imkânını bu vergilerin hiç alınmayacağı biçiminde okumaktır; Yönetmelik bu vergilerin tahsil edileceğini açıkça belirtir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 446, 448, 451)
 
 *Gümrük Yönetmeliği md. 450*
 
 **13-** Gümrük Yönetmeliği'nin Türkiye Gümrük Bölgesi dışına geçici olarak çıkarıldıktan sonra süresi içinde geri gelen taşıtların ve ticari nitelikte olmayan eşyanın işlemlerine ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
 A) Geçici olarak çıkarılan taşıtın süresi içerisinde yurda geri getirilmesi halinde çıkış kayıtları Taşıt Takip Programından kapatılır  
-B) Çıkış işlemi sırasında Triptik veya Gümrük Geçiş Karnesi beyanname olarak sunulmuşsa, taşıtın geri gelmesi halinde bu belgeler beyanname olarak kabul olunur  
-C) Geçici olarak çıkışı yapılan ticari nitelikte olmayan eşyanın süresi içerisinde geri getirilmesi halinde, gümrük idaresince çıkış kaydı kapatılır  
-D) Geri gelen demiryolu araçlarının çıkış kayıtları usulü dairesinde kapatılır  
-E) Diplomatik statüdeki memurların geri gelen taşıtlarının çıkış kayıtları, taşıtın muayenesi yapılıp gümrük formaliteleri tamamlanarak kapatılır  
+B) Diplomatik statüdeki memurların geri gelen taşıtlarının çıkış kayıtları, taşıtın muayenesi yapılıp gümrük formaliteleri tamamlanarak kapatılır  
+C) Çıkış işlemi sırasında Triptik veya Gümrük Geçiş Karnesi beyanname olarak sunulmuşsa, taşıtın geri gelmesi halinde bu belgeler beyanname olarak kabul olunur  
+D) Geçici olarak çıkışı yapılan ticari nitelikte olmayan eşyanın süresi içerisinde geri getirilmesi halinde, gümrük idaresince çıkış kaydı kapatılır  
+E) Geri gelen demiryolu araçlarının çıkış kayıtları usulü dairesinde kapatılır  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre diplomatik statüdeki memurların geri gelen taşıtlarının yalnızca plaka numaraları ve modelleri Taşıt Takip Programından evvelce yapılmış çıkış kayıtları ile karşılaştırılarak kayıtları kapatılır ve herhangi bir gümrük formalitesi uygulanmayarak gerekli sürat ve kolaylık gösterilir; muayene yapılması veya formalitelerin tamamlanması öngörülmemiştir. Diğer seçenekler doğrudur: süresinde geri getirilen taşıtın çıkış kayıtları Taşıt Takip Programından kapatılır; çıkışta Triptik veya Gümrük Geçiş Karnesi beyanname olarak sunulmuşsa geri gelişte bu belgeler beyanname olarak kabul olunur; ticari nitelikte olmayan eşyanın çıkış kaydı gümrük idaresince kapatılır; demiryolu araçlarının çıkış kayıtları usulü dairesinde kapatılır. En güçlü çeldirici Triptik ve Gümrük Geçiş Karnesine ilişkin seçenektir: bu belgelerin geri gelişte de beyanname sayılması adaya olağan dışı görünebilir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 450)
+**Doğru Cevap:** B  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre diplomatik statüdeki memurların geri gelen taşıtlarının yalnızca plaka numaraları ve modelleri Taşıt Takip Programından evvelce yapılmış çıkış kayıtları ile karşılaştırılarak kayıtları kapatılır ve herhangi bir gümrük formalitesi uygulanmayarak gerekli sürat ve kolaylık gösterilir; muayene yapılması veya formalitelerin tamamlanması öngörülmemiştir. Diğer seçenekler doğrudur: süresinde geri getirilen taşıtın çıkış kayıtları Taşıt Takip Programından kapatılır; çıkışta Triptik veya Gümrük Geçiş Karnesi beyanname olarak sunulmuşsa geri gelişte bu belgeler beyanname olarak kabul olunur; ticari nitelikte olmayan eşyanın çıkış kaydı gümrük idaresince kapatılır; demiryolu araçlarının çıkış kayıtları usulü dairesinde kapatılır. En güçlü çeldirici Triptik ve Gümrük Geçiş Karnesine ilişkin seçenektir: bu belgelerin geri gelişte de beyanname sayılması adaya olağan dışı görünebilir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 450)
 
 *Gümrük Yönetmeliği md. 452, 416*
 
-**14-** Gümrük Yönetmeliği'nin geri getirilme süresinin başlangıcına ilişkin hükümlerine göre aşağıdaki olay verilmiştir:
+**14-** Gümrük Yönetmeliği'ne göre, kara yoluyla ve partiler hâlinde ihraç edilen eşyanın geri gelmesinde geri getirilme süresinin başlangıcı aşağıdakilerden hangisidir?
 
-- Serbest dolaşımdaki eşyanın kesin ihracı için 3 Mart 2025 tarihinde tek bir gümrük beyannamesi tescil edilmiştir.  
-- Eşya kara yoluyla üç parti hâlinde çıkarılmıştır. Birinci parti, çıkış işlemleri tamamlanarak 5 Mart 2025 tarihinde kara sınırından yabancı bir ülkeye fiilen çıkmıştır.  
-- İkinci partinin çıkış işlemleri 19 Mart 2025 tarihinde tamamlanmış, bu partiyi taşıyan taşıt 20 Mart 2025 tarihinde kara sınırından yabancı bir ülkeye fiilen çıkmıştır.  
-- Üçüncü parti 2 Nisan 2025 tarihinde kara sınırından yabancı bir ülkeye fiilen çıkmıştır.  
-- İkinci partideki eşya alıcısı tarafından kabul edilmeyerek Türkiye'ye geri getirilmiştir.  
-Buna göre, ikinci partideki eşya bakımından geri getirilme süresinin başlangıç tarihi aşağıdakilerden hangisidir?  
+A) Her parti için, gümrük idaresince çıkış işlemleri tamamlanıp o partinin kara sınırından yabancı bir ülkeye fiilen çıktığı tarih  
+B) Bütün partiler için, ihracata ilişkin gümrük beyannamesinin tescil edildiği tarih  
+C) Bütün partiler için, gümrük idaresince çıkış işlemleri tamamlanıp son partinin kara sınırından yabancı bir ülkeye fiilen çıktığı tarih  
+D) Her parti için, o partiye ilişkin çıkış işlemlerinin gümrük idaresince tamamlandığı tarih  
+E) Her parti için, o partinin yabancı ülkedeki alıcısına teslim edildiği tarih  
 
-A) 3 Mart 2025  
-B) 5 Mart 2025  
-C) 19 Mart 2025  
-D) 20 Mart 2025  
-E) 2 Nisan 2025  
-
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre geri getirilme süresinin başlangıcı eşyanın fiilen ihraç edildiği tarihtir; çıkışın partiler halinde yapılması halinde her partiye ilişkin sürenin başlangıcı ayrı ayrı göz önünde bulundurulur. Eşyanın Türkiye Gümrük Bölgesini terk ettiği tarih, kara yoluyla çıkışlarda gümrük idaresince çıkış işlemleri tamamlanıp kara sınırından yabancı bir ülkeye fiilen çıktığı tarihtir; deniz ve hava yoluyla çıkışlarda ise eşyanın yüklendiği deniz veya hava taşıtının hareket ettiği tarihtir. Olayda ikinci parti, çıkış işlemleri 19 Mart 2025'te tamamlandıktan sonra 20 Mart 2025'te sınırdan fiilen çıkmıştır; bu nedenle ikinci partinin süresi 20 Mart 2025'te başlar. Beyannamenin tescil tarihi başlangıç değildir; birinci ve üçüncü partinin çıkış tarihleri ise yalnızca kendi partileri için süre başlatır. En güçlü çeldirici '19 Mart 2025' seçeneğidir: kara yolunda çıkış işlemlerinin tamamlanması yetmez, eşyanın sınırdan fiilen çıkması gerekir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 452, 416)
+**Doğru Cevap:** A  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre geri getirilme süresinin başlangıcı eşyanın fiilen ihraç edildiği tarihtir; çıkışın partiler hâlinde yapılması hâlinde her partiye ilişkin sürenin başlangıcı ayrı ayrı göz önünde bulundurulur. Eşyanın Türkiye Gümrük Bölgesini terk ettiği tarih ise kara ve demir yoluyla çıkışlarda gümrük idaresince çıkış işlemleri tamamlanıp kara sınırından yabancı bir ülkeye fiilen çıktığı tarihtir. Buna göre her parti için süre, o partinin sınırdan fiilen çıktığı tarihte başlar. En güçlü çeldirici, çıkış işlemlerinin tamamlandığı tarihi esas alan seçenektir: kara yolunda çıkış işlemlerinin tamamlanması yetmez, eşyanın sınırdan fiilen çıkması da gerekir. Beyannamenin tescil tarihi başlangıç değildir; partilerin süresi son partiye göre birleştirilmez; yabancı ülkedeki alıcıya teslim ise Yönetmelikte süre başlangıcı olarak öngörülmemiştir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 452, 416)
 
 *Gümrük Yönetmeliği md. 453*
 
@@ -437,14 +396,14 @@ E) 2 Nisan 2025
 - Eşya, ek süre de dolduktan sonra, fiilen ihraç edildiği tarihten itibaren iki yıl geçtiğinde ayniyeti değişmeden Türkiye'ye geri getirilmiştir.  
 Buna göre, eşyanın serbest dolaşıma sokulması sırasında aşağıdakilerden hangisi uygulanır?  
 
-A) Usulsüzlük cezası uygulanır ve eşya gümrük vergileri tahsil edilmeden serbest dolaşıma sokulur  
-B) Usulsüzlük cezası uygulanır, gümrük vergileri tahsil edilerek serbest dolaşıma giriş rejimi hükümleri uygulanır  
-C) Eşya, süre aşımına rağmen herhangi bir yaptırım uygulanmaksızın ithalat vergilerinden muaf olarak serbest dolaşıma sokulur  
-D) Geçici ihracat kesin ihracata dönüşmüş sayılır, ithalat vergileri tahsil edilir  
-E) İhracat vergilerine tabi ise bu vergiler tahsil edilir, eşya usulsüzlük cezası uygulanmaksızın serbest dolaşıma sokulur  
+A) Usulsüzlük cezası uygulanır, gümrük vergileri tahsil edilerek serbest dolaşıma giriş rejimi hükümleri uygulanır  
+B) Eşya, süre aşımına rağmen herhangi bir yaptırım uygulanmaksızın ithalat vergilerinden muaf olarak serbest dolaşıma sokulur  
+C) Geçici ihracat kesin ihracata dönüşmüş sayılır, ithalat vergileri tahsil edilir  
+D) İhracat vergilerine tabi ise bu vergiler tahsil edilir, eşya usulsüzlük cezası uygulanmaksızın serbest dolaşıma sokulur  
+E) Usulsüzlük cezası uygulanır ve eşya gümrük vergileri tahsil edilmeden serbest dolaşıma sokulur  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre eşyanın, Kanunda belirtilen üç yıllık süre aşılmaksızın, ek süreler dahil verilen sürelerin aşılarak geri getirilmesi halinde usulsüzlük cezası uygulanır ve eşya gümrük vergileri tahsil edilmeden serbest dolaşıma sokulur. Olayda gümrük idaresince verilen bir yıllık süre ile altı aylık ek süre aşılmış, ancak eşya fiili ihraçtan iki yıl sonra getirildiği için üç yıllık kanuni süre aşılmamıştır. Vakaya saklanan istisna budur: verilen süreyi aşmak ceza doğurur, fakat üç yıl dolmadıkça vergi alınmaz. Gümrük vergilerinin tahsil edilerek serbest dolaşıma giriş rejimi hükümlerinin uygulanması, süresi içinde mücbir sebep belgesiyle uzatma istenmeden üç yıllık sürenin veya idarece üç yılın üzerine uzatılan sürenin aşıldığı hâle aittir; olayı yalnızca 'süre aşıldı' diye okuyan aday en güçlü çeldirici olan bu şıkka yönelir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 453; GK 168)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre eşyanın, Kanunda belirtilen üç yıllık süre aşılmaksızın, ek süreler dahil verilen sürelerin aşılarak geri getirilmesi halinde usulsüzlük cezası uygulanır ve eşya gümrük vergileri tahsil edilmeden serbest dolaşıma sokulur. Olayda gümrük idaresince verilen bir yıllık süre ile altı aylık ek süre aşılmış, ancak eşya fiili ihraçtan iki yıl sonra getirildiği için üç yıllık kanuni süre aşılmamıştır. Vakaya saklanan istisna budur: verilen süreyi aşmak ceza doğurur, fakat üç yıl dolmadıkça vergi alınmaz. Gümrük vergilerinin tahsil edilerek serbest dolaşıma giriş rejimi hükümlerinin uygulanması, süresi içinde mücbir sebep belgesiyle uzatma istenmeden üç yıllık sürenin veya idarece üç yılın üzerine uzatılan sürenin aşıldığı hâle aittir; olayı yalnızca 'süre aşıldı' diye okuyan aday en güçlü çeldirici olan bu şıkka yönelir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 453; GK 168)
 
 *Gümrük Yönetmeliği md. 453*
 
@@ -472,42 +431,37 @@ E) II, III ve IV
 A) Mücbir sebep belgesinin ibraz edilmesi ve ihracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması  
 B) Kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve eşyanın ayniyet tespiti için gümrük idaresine sunulması  
 C) Kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve ihracat vergilerine tabi eşyadan bu vergilerin tahsil edilmesi  
-D) İhracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması ve hak ve menfaatlere karşılık gerekli teminatın verilmesi  
-E) Kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve ihracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması  
+D) Kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve ihracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması  
+E) İhracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması ve hak ve menfaatlere karşılık gerekli teminatın verilmesi  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre geçici ihracat eşyası için ilgili kurumca veya gümrük idaresince verilen süre ile varsa ek sürelerin, böyle bir süre yoksa Kanundaki üç yıllık süre ile varsa ek sürelerin bitiminden önce geçici ihracatın kesin ihracata dönüştürülmek istenmesi halinde, kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve ihracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması kaydıyla kati ihracata dönüştürülmesine izin verilir ve ilgili rejim sonlandırılır. Mücbir sebep belgesi süre uzatımı talebine, ihracat vergilerinin tahsili süresinde geri getirilmediği tespit edilen geçici ihracat eşyasına, teminat ise geri gelen eşyanın hak ve menfaatlerin tespitinden önce teslimine ilişkindir. Ayniyet tespiti geri gelen eşyanın muafiyetinde aranır; kesin ihracata dönüştürmede eşyanın Türkiye'ye getirilmesi söz konusu değildir. En güçlü çeldirici beyanname ile ihracat vergisi tahsilini birleştiren seçenektir: ihracat vergileri, sürelerin bitiminde geri getirilmediği tespit edilen eşya için öngörülmüştür. Bu nedenle doğru cevap E seçeneğidir. (MD GY 453)
+**Doğru Cevap:** D  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre geçici ihracat eşyası için ilgili kurumca veya gümrük idaresince verilen süre ile varsa ek sürelerin, böyle bir süre yoksa Kanundaki üç yıllık süre ile varsa ek sürelerin bitiminden önce geçici ihracatın kesin ihracata dönüştürülmek istenmesi halinde, kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve ihracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması kaydıyla kati ihracata dönüştürülmesine izin verilir ve ilgili rejim sonlandırılır. Mücbir sebep belgesi süre uzatımı talebine, ihracat vergilerinin tahsili süresinde geri getirilmediği tespit edilen geçici ihracat eşyasına, teminat ise geri gelen eşyanın hak ve menfaatlerin tespitinden önce teslimine ilişkindir. Ayniyet tespiti geri gelen eşyanın muafiyetinde aranır; kesin ihracata dönüştürmede eşyanın Türkiye'ye getirilmesi söz konusu değildir. En güçlü çeldirici beyanname ile ihracat vergisi tahsilini birleştiren seçenektir: ihracat vergileri, sürelerin bitiminde geri getirilmediği tespit edilen eşya için öngörülmüştür. Bu nedenle doğru cevap D seçeneğidir. (MD GY 453)
 
 *4458 sayılı Gümrük Kanunu md. 163, 165*
 
-**18-** 4458 sayılı Gümrük Kanunu'nun serbest dolaşımda olmayan eşyanın yeniden ihracına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**18-** 4458 sayılı Gümrük Kanunu'nun serbest dolaşımda olmayan eşyanın yeniden ihracına ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Ticaret politikası önlemleri yalnızca serbest dolaşımdaki eşyanın ihracında uygulanır; yeniden ihraç edilecek eşyaya bu önlemler uygulanmaz.  
-II. Ticaret politikası önlemleri dahil, ihracat veya yeniden ihracata ilişkin işlem ya da önlemlerin gerektirdiği hallerde yeniden ihracat Gümrük Müsteşarlığınca yasaklanır.  
-III. Türkiye Gümrük Bölgesinde bulunduğu sırada ekonomik etkili bir gümrük rejimine tabi tutulmuş eşya yeniden ihraç edilmek istendiğinde gümrük beyannamesi verilmesi gerekir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+A) Serbest dolaşımda olmayan eşyanın Türkiye Gümrük Bölgesinden yeniden ihracı mümkündür.  
+B) Gümrük Müsteşarlığı, ticaret politikası önlemleri dahil olmak üzere eşyanın ihracı veya yeniden ihracına ilişkin işlemlerin veya önlemlerin gerektirdiği hâllerde yeniden ihracatı yasaklar.  
+C) Türkiye Gümrük Bölgesinde bulunduğu sırada ekonomik etkili bir gümrük rejimine tabi tutulan eşyanın yeniden ihraç edilmek istenmesi hâlinde gümrük beyannamesi verilmesi gerekir.  
+D) Serbest dolaşımda olmayan eşyanın, ihracata ilişkin ticaret politikası önlemlerinin uygulanmayacağını öngören şartlı muafiyet içeren bir gümrük rejimine tabi tutulabileceği hâller yönetmelikle belirlenir.  
+E) Ticaret politikası önlemleri yalnızca serbest dolaşımdaki eşyanın ihracında uygulanır; yeniden ihraç edilecek eşyaya bu önlemler uygulanmaz.  
 
-A) Yalnız I  
-B) Yalnız II  
-C) I ve III  
-D) II ve III  
-E) I, II ve III  
-
-**Doğru Cevap:** D  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşımda olmayan eşyanın Türkiye Gümrük Bölgesinden yeniden ihracı mümkündür ve ticaret politikası önlemleri dahil olmak üzere eşyanın ihracı için öngörülen işlemler gerektiğinde yeniden ihraç edilecek eşyaya da uygulanır; önlemlerin yalnızca serbest dolaşımdaki eşyanın ihracına özgü olduğu söylenemez (I yanlış). Gümrük Müsteşarlığı, ticaret politikası önlemleri dahil olmak üzere eşyanın ihracı veya yeniden ihracına ilişkin işlemlerin veya önlemlerin gerektirdiği hallerde yeniden ihracatı yasaklar (II doğru). Türkiye Gümrük Bölgesinde bulundukları sırada ekonomik etkili bir gümrük rejimine tabi tutulan eşyanın yeniden ihraç edilmek istenmesi halinde gümrük beyannamesi verilmesi gerekir (III doğru). En güçlü çeldirici 'I, II ve III' seçeneğidir: yeniden ihracın ihracat kurallarından bağımsız olduğunu düşünen aday I'i de doğru sayar. Bu nedenle doğru cevap D seçeneğidir. (MD GK 163, 165)
+**Doğru Cevap:** E  
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşımda olmayan eşyanın Türkiye Gümrük Bölgesinden yeniden ihracı mümkündür ve ticaret politikası önlemleri dahil olmak üzere eşyanın ihracı için öngörülen işlemler, gerektiğinde yeniden ihraç edilecek eşyaya da uygulanır. Yanlış ifade, bu önlemlerin yalnızca serbest dolaşımdaki eşyanın ihracına özgü olduğunu söyleyerek hükmü tersine çevirmektedir. Diğer ifadeler Kanunla örtüşür: Gümrük Müsteşarlığı, ticaret politikası önlemleri dahil olmak üzere eşyanın ihracı veya yeniden ihracına ilişkin işlemlerin veya önlemlerin gerektirdiği hâllerde yeniden ihracatı yasaklar; Türkiye Gümrük Bölgesinde bulundukları sırada ekonomik etkili bir gümrük rejimine tabi tutulan eşyanın yeniden ihraç edilmek istenmesi hâlinde gümrük beyannamesi verilmesi gerekir; serbest dolaşımda olmayan eşyanın, ihracata ilişkin ticaret politikası önlemlerinin uygulanmayacağını öngören şartlı muafiyet içeren bir gümrük rejimine tabi tutulabileceği hâller yönetmelikle belirlenir. En güçlü tuzak, şartlı muafiyet içeren rejime ilişkin hükümdür: şartlı muafiyetli rejimde önlemlerin uygulanmayabileceğini gören aday, yeniden ihracatta da önlemlerin hiç uygulanmayacağını sanır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 163, 165)
 
 *4458 sayılı Gümrük Kanunu md. 164, 165*
 
 **19-** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşımda olmayan eşyanın imhasına ve gümrüğe terk edilmesine ilişkin aşağıdakilerden hangisi söylenemez?
 
 A) Serbest dolaşımda olmayan eşyanın gümrük idaresinin gözetiminde imhası veya gümrüğe terk edilmesi mümkündür  
-B) İmha veya gümrüğe terk işlemlerinden doğan masraflar, işlemler gümrük idaresinin gözetiminde yapıldığı için Hazinece karşılanır  
-C) İmha sonucunda çıkan artık ve atıklar, serbest dolaşımda olmayan eşya için öngörülen bir işlem veya kullanıma tabi tutulur  
+B) İmha sonucunda çıkan artık ve atıklar, serbest dolaşımda olmayan eşya için öngörülen bir işlem veya kullanıma tabi tutulur  
+C) İmha veya gümrüğe terk işlemlerinden doğan masraflar, işlemler gümrük idaresinin gözetiminde yapıldığı için Hazinece karşılanır  
 D) İmha sonucunda çıkan artık ve atıklar, Kanunda öngörülen işlemler tamamlanıncaya kadar gümrük gözetimi altında kalır  
 E) Müsteşarlıkça belirlenen haller saklı kalmak üzere, eşyanın imhası gümrük idarelerine önceden bildirilir  
 
-**Doğru Cevap:** B  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşımda olmayan eşyanın hazineye hiçbir masraf getirmeyecek şekilde, gümrük idaresinin gözetiminde imhası veya gümrüğe terk edilmesi mümkündür; işlemin gümrük gözetiminde yapılması masrafın Hazinece karşılanması sonucunu doğurmaz. İmha sonucunda çıkan artık ve atıklar serbest dolaşımda olmayan eşya için öngörülen bir işlem veya kullanıma tabi tutulur ve Kanunda belirlenen işlemler tamamlanıncaya kadar gümrük gözetimi altında kalır. Müsteşarlıkça belirlenen haller saklı kalmak üzere eşyanın imhası gümrük idarelerine önceden bildirilir. En güçlü çeldirici, artık ve atıkların gözetimde kalmaya devam ettiğini söyleyen seçenektir: imhayla birlikte gözetimin sona erdiğini sanan aday bu doğru ifadeyi işaretler. Bu nedenle doğru cevap B seçeneğidir. (MD GK 164, 165)
+**Doğru Cevap:** C  
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşımda olmayan eşyanın hazineye hiçbir masraf getirmeyecek şekilde, gümrük idaresinin gözetiminde imhası veya gümrüğe terk edilmesi mümkündür; işlemin gümrük gözetiminde yapılması masrafın Hazinece karşılanması sonucunu doğurmaz. İmha sonucunda çıkan artık ve atıklar serbest dolaşımda olmayan eşya için öngörülen bir işlem veya kullanıma tabi tutulur ve Kanunda belirlenen işlemler tamamlanıncaya kadar gümrük gözetimi altında kalır. Müsteşarlıkça belirlenen haller saklı kalmak üzere eşyanın imhası gümrük idarelerine önceden bildirilir. En güçlü çeldirici, artık ve atıkların gözetimde kalmaya devam ettiğini söyleyen seçenektir: imhayla birlikte gözetimin sona erdiğini sanan aday bu doğru ifadeyi işaretler. Bu nedenle doğru cevap C seçeneğidir. (MD GK 164, 165)
 
 *Gümrük Yönetmeliği md. 434*
 
@@ -516,21 +470,21 @@ E) Müsteşarlıkça belirlenen haller saklı kalmak üzere, eşyanın imhası g
 A) Bildirim, gümrük idarelerinin imhayı denetlemesi için yeteri kadar zaman verecek bir süre içinde yapılmalıdır  
 B) Eşya için tescil edilmiş bir gümrük beyannamesi olması halinde, gümrük idaresi beyanname üzerine imhaya ilişkin şerh düşer ve beyannameyi iptal eder  
 C) Gümrük görevlileri imha sırasında hazır bulunarak, imha sonucunda kalan artık ya da atık miktarını ve tipini belirten tutanak düzenler ya da bunları beyanname üzerinde belirtir  
-D) Hazineye terk edilen eşya için tescil edilmiş beyanname bulunması halinde de beyanname üzerine şerh düşülerek beyanname iptal edilir  
-E) Eşya imhasının bildirimi ilgili kişi tarafından sözlü olarak da yapılabilir; bildirimin imzalanması gerekmez  
+D) Eşya imhasının bildirimi ilgili kişi tarafından sözlü olarak da yapılabilir; bildirimin imzalanması gerekmez  
+E) Hazineye terk edilen eşya için tescil edilmiş beyanname bulunması halinde de beyanname üzerine şerh düşülerek beyanname iptal edilir  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre eşya imhasının bildirimi ilgili kişi tarafından yazılı olarak yapılır ve imzalanır; sözlü veya imzasız bildirim öngörülmemiştir. Bildirim, gümrük idarelerinin imhayı denetlemesi için yeteri kadar zaman verecek bir süre içinde yapılır. Eşya için tescil edilmiş bir gümrük beyannamesi varsa gümrük idaresi beyanname üzerine imhaya ilişkin şerh düşer ve beyannameyi iptal eder; bu hüküm Hazineye terk edilen eşya için de uygulanır. Gümrük görevlileri imha sırasında hazır bulunur; kalan artık ya da atık miktarını ve tipini, uygulanabilecek mali yüklerin tespiti ve başka bir işlem veya kullanıma girdiğinde kullanılması için tutanakla tespit eder ya da beyanname üzerinde belirtir. En güçlü çeldirici Hazineye terk edilen eşyaya ilişkin seçenektir: şerh ve iptal hükmünün terk edilen eşyaya da uygulandığını bilmeyen aday bu doğru ifadeyi işaretler. Bu nedenle doğru cevap E seçeneğidir. (MD GY 434)
+**Doğru Cevap:** D  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre eşya imhasının bildirimi ilgili kişi tarafından yazılı olarak yapılır ve imzalanır; sözlü veya imzasız bildirim öngörülmemiştir. Bildirim, gümrük idarelerinin imhayı denetlemesi için yeteri kadar zaman verecek bir süre içinde yapılır. Eşya için tescil edilmiş bir gümrük beyannamesi varsa gümrük idaresi beyanname üzerine imhaya ilişkin şerh düşer ve beyannameyi iptal eder; bu hüküm Hazineye terk edilen eşya için de uygulanır. Gümrük görevlileri imha sırasında hazır bulunur; kalan artık ya da atık miktarını ve tipini, uygulanabilecek mali yüklerin tespiti ve başka bir işlem veya kullanıma girdiğinde kullanılması için tutanakla tespit eder ya da beyanname üzerinde belirtir. En güçlü çeldirici Hazineye terk edilen eşyaya ilişkin seçenektir: şerh ve iptal hükmünün terk edilen eşyaya da uygulandığını bilmeyen aday bu doğru ifadeyi işaretler. Bu nedenle doğru cevap D seçeneğidir. (MD GY 434)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 4 (I, III ve IV, I ve IV, III ve IV, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 17, TERSİNE 10, İSTİSNA 4, TERİM 3, SAĞDUYU 3, MUTLAK 2 |
+| Birebir / parafraz / çıkarım | 17 / 2 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (I, III ve IV, III ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 18, TERSİNE 10, SAĞDUYU 4, MUTLAK 3, İSTİSNA 3, TERİM 3 |
 | İkiz eksen / ayna | — / AYNA-AMAÇ, AYNA-SÜREAŞIMI |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 5 |

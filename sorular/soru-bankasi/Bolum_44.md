@@ -60,49 +60,35 @@ C) Ödeme süresi, başvuru tarihinden itibaren on beş gün daha uzatılır.
 D) Talep, haczedilen malların paraya çevrilmesi aşamasına kadar yapılabildiğinden süresindedir ve ödeme süresi otuz gün uzatılır.  
 E) Yazılı istem ödeme süresinin bitmesinden sonra yapıldığından ödeme süresi uzatılamaz.  
 
-**6-** 4458 sayılı Gümrük Kanunu'na göre, eşyanın tercihli tarifesinin karşı ülke idareleri ile idari işbirliği çerçevesinde oluşturulduğu durumlarda dolaşım belgesinin karşı ülke idaresince yanlışlıkla onaylandığının tespit edilmesi hâlinde, tercihli tarife uygulanması nedeniyle tahakkuk ettirilmeyen vergilere ilişkin aşağıdaki ifadeler verilmiştir:
+**6-** 4458 sayılı Gümrük Kanunu'na göre eşyanın tercihli tarifesinin karşı ülke idareleri ile idari işbirliği çerçevesinde oluşturulduğu durumlarda dolaşım belgesinin karşı ülke idaresince yanlışlıkla onaylandığının tespit edilmesi hâlinde, tercihli tarife uygulanması nedeniyle tahakkuk ettirilmeyen vergilere ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. Yükümlü, gümrük mevzuatının gerektirdiği yükümlülüklerin yerine getirilmesinde tüm özeni gösterdiğini ispat edebilirse bu vergiler kural olarak sonradan istenmez.  
-II. Bu kural, geçici bir anti-damping vergisi veya fark giderici vergi uygulanan durumlarda da geçerlidir.  
-III. Tercihli düzenlemenin yararlanan ülke tarafından doğru olarak uygulandığına dair şüphe bulunduğu yönünde Resmî Gazete'de bir duyuru yayımlanmışsa vergiler yükümlüden tahsil edilir.  
-IV. Belge ihracatçının sunduğu yanlış verilere dayanılarak onaylanmışsa, onaylayan idare eşyanın tercihli tarife şartlarını yerine getirmediğini bilse dahi vergiler her hâlde yükümlüden tahsil edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+A) Belge ihracatçının sunduğu yanlış verilere dayanılarak onaylanmışsa, onaylayan idare şartların yerine getirilmediğini bilse dahi vergiler yükümlüden tahsil edilir.  
+B) Yükümlü, gümrük mevzuatının gerektirdiği yükümlülüklerin yerine getirilmesinde tüm özeni gösterdiğini ispat edebilirse bu vergiler kural olarak sonradan istenmez.  
+C) Tercihli düzenlemenin yararlanan ülke tarafından doğru olarak uygulandığına dair şüphe bulunduğu yönünde Resmî Gazete'de bir duyuru yayımlanmışsa vergiler yükümlüden tahsil edilir.  
+D) Geçici bir anti-damping vergisi veya fark giderici vergi uygulandığı hâllerde, yükümlünün özen gösterdiğini ispat etmesine bağlanan bu kural uygulanmaz.  
+E) Vergi tutarının Cumhurbaşkanı tarafından belirlenen seviyenin altında kaldığı hâllerde de bu kural uygulanmaz.  
 
-A) Yalnız I  
-B) I ve III  
-C) I ve IV  
-D) II ve III  
-E) I, III ve IV  
+**7-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre 'alacak' deyimi aşağıdakilerden hangisini ifade eder?
 
-**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergilerine ilişkin işlemler ile bu işlemlerde uygulanacak kanun hükümleri aşağıda eşleştirilmiştir.
+A) Yapılan kontrol ve denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenen gümrük vergileri ile bunların fer'ilerini  
+B) 6183 sayılı Kanun hükümlerine göre gümrük idarelerince takip ve tahsili gereken gümrük vergilerini; bunlara bağlı fer'i amme alacakları ile para cezaları hariç  
+C) 6183 sayılı Kanun hükümlerine göre gümrük idarelerince takip ve tahsili gereken gümrük vergileri ile bunlara bağlı fer'i amme alacakları ve para cezalarını  
+D) İlgili mevzuat uyarınca gümrük idarelerince tahakkuk ve tahsil edilen ithalat vergilerinin ya da ihracat vergilerinin tümünü  
+E) 7201 sayılı Tebligat Kanunu hükümlerine göre ek tahakkuk kararıyla yükümlüsüne tebliğ edilen gümrük vergileri ile para cezalarını  
 
-Bu eşleştirmelerden hangisi yanlıştır?  
+**8-** Gümrük Yönetmeliği'nin gümrük vergilerinin tebliği ve ek tahakkukuna ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-A) Süresi içinde ödenmeyen kesinleşmiş gümrük vergileri – 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun  
-B) Ek tahakkuku yapılan gümrük vergilerinin asıl yükümlüye tebliği – 7201 sayılı Tebligat Kanunu  
-C) Ceza davası açılmış gümrük vergileri alacaklarının kovuşturulup tahsili – Türk Ceza Kanunundaki dava ve ceza zamanaşımı süreleri  
-D) Kesinleşen ve 6183 sayılı Kanuna göre takibi gereken alacaklara ilişkin tebligatlar – 7201 sayılı Tebligat Kanunu  
-E) Ödeme süresinin uzatılan kısmı için alınacak tecil faizi – 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun  
-
-**8-** Gümrük Yönetmeliği'nin Gümrük Vergileri Tahakkukunu İzleme Defteri, gümrük vergilerinin tebliği ve ek tahakkukuna ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
-
-I. Gümrük Vergileri Tahakkukunu İzleme Defteri elektronik ortamda tutulur.  
-II. Gümrük vergileri tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, sistem üzerinde tebliğin yapılamadığı hâllerde ise ilgili belge üzerinde tebliğ edilir.  
-III. Sonradan yapılan denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenerek istenen gümrük vergileri ile bu vergiler alacağına bağlı idari para cezaları, yükümlüsüne ayrı ayrı kararlarla tebliğ edilir.  
-IV. Beyannamede düzeltme yapılmasını gerektirir nitelikteki tespitler, sistem üzerinde düzenlenen müzekkere ile gümrük ve dış ticaret bölge müdürüne sunulur.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) III ve IV  
-B) Yalnız III  
-C) I ve IV  
-D) II ve III  
-E) II, III ve IV  
+A) Sonradan yapılan denetlemeler sonucunda istenen gümrük vergileri ile bu vergiler alacağına bağlı idari para cezaları, yükümlüsüne ayrı ayrı kararlarla tebliğ edilir.  
+B) Gümrük Vergileri Tahakkukunu İzleme Defteri elektronik ortamda tutulur.  
+C) Gümrük vergileri tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, sistem üzerinde tebliğin yapılamadığı hâllerde ise ilgili belge üzerinde tebliğ edilir.  
+D) Beyannamede düzeltme yapılmasını gerektirir nitelikteki tespitler, sistem üzerinde düzenlenen müzekkere ile idare amirine sunulur.  
+E) Konusu, yükümlüsü ve gümrük idaresi aynı olan ve aralarında maddi veya hukuki yönden bağlılık bulunan birden fazla beyannameye ilişkin gümrük vergileri ve para cezalarına tek tahakkuk ve ceza kararı düzenlenebilir.  
 
 **9-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'de "yapılan kontrol ve denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenen gümrük vergileri ile bunların fer'ileri" şeklinde tanımlanan kavram aşağıdakilerden hangisidir?
 
 A) Ek tahakkuk  
-B) Gelir eksiği  
-C) Alacak  
+B) Alacak  
+C) Gelir eksiği  
 D) Kaldırma  
 E) Gümrük vergileri alacağına bağlı para cezaları  
 
@@ -116,50 +102,43 @@ E) Alacak aslı için ayrıca tahakkuk yapılmaz; alacağın 6183 sayılı Kanun
 
 **11-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre, gelir eksiğinin oluşmasında asıl yükümlü ile birlikte dolaylı temsilcinin de sorumluluğunun tespit edildiği durumlara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Gelir eksiğinin yükümlülerden biri tarafından ödenmesi, diğer yükümlülerin yükümlülüğünü sona erdirmez.  
-B) Ek tahakkuka ilişkin tebligatlar ilgililere aynı anda gönderilir.  
-C) Gümrük müşavirinin bir tüzel kişilik bünyesinde faaliyet göstermesi hâlinde gelir eksiği ilgili tüzel kişiliğe de tebliğ edilir.  
-D) Ek tahakkuka ilişkin olarak alınan kararlarda yapılan tespitler ispatlayıcı belgelerle birlikte gerekçeli olarak belirtilir.  
+A) Ek tahakkuka ilişkin tebligatlar ilgililere aynı anda gönderilir.  
+B) Gümrük müşavirinin bir tüzel kişilik bünyesinde faaliyet göstermesi hâlinde gelir eksiği ilgili tüzel kişiliğe de tebliğ edilir.  
+C) Ek tahakkuka ilişkin olarak alınan kararlarda yapılan tespitler ispatlayıcı belgelerle birlikte gerekçeli olarak belirtilir.  
+D) Gelir eksiğinin yükümlülerden biri tarafından ödenmesi, diğer yükümlülerin yükümlülüğünü sona erdirmez.  
 E) Asıl yükümlü adına gümrük idaresi nezdinde alacağa yetecek miktarda teminat bulunması hâlinde dolaylı temsile yetkili kişilere ayrıca tebligat yapılmaz.  
 
 **12-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre, dolaylı temsilcinin beyanda kullanılan verilerin yanlış olduğunu bildiği veya mesleği icabı ve mutat olarak bilmesi gerektiği durumların tespitinde varlığı araştırılan hâller arasında aşağıdakilerden hangisi yer almaz?
 
 A) Gümrük beyannamelerinin beyanın hazırlanmasına esas alınan belge ve bilgilere uygun olmaması  
-B) Gümrük beyannamesi eki belgeler arasında çelişki bulunması hâlinde gümrük müşavirinin elindeki imkânlarla bu hususu araştırmamış olması  
-C) Gümrük beyannamesine eklenen belgelerin sahte, yanlış veya hatalı olduğunun ayrıca bir araştırmaya gerek duyulmaksızın anlaşılabilecek olması  
-D) Gümrük beyannamesine eklenen belgelerin ulusal ve uluslararası mevzuatın ön gördüğü formlara veya şartlara uygun olmaması  
-E) Eşyanın niteliğinin ancak tahlil sonucunda anlaşılabilecek olmasına karşın tarife yönüyle yanlış beyanda bulunulmuş olması  
+B) Eşyanın niteliğinin ancak tahlil sonucunda anlaşılabilecek olmasına karşın tarife yönüyle yanlış beyanda bulunulmuş olması  
+C) Gümrük beyannamesi eki belgeler arasında çelişki bulunması hâlinde gümrük müşavirinin elindeki imkânlarla bu hususu araştırmamış olması  
+D) Gümrük beyannamesine eklenen belgelerin sahte, yanlış veya hatalı olduğunun ayrıca bir araştırmaya gerek duyulmaksızın anlaşılabilecek olması  
+E) Gümrük beyannamesine eklenen belgelerin ulusal ve uluslararası mevzuatın ön gördüğü formlara veya şartlara uygun olmaması  
 
 **13-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük idarelerince verilen idari para cezalarına ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Para cezasına konu kabahat fiiline iştirak hükümlerinin uygulanabilmesi için fiilin taksirle işlenmiş olması yeterlidir.  
 B) İdari para cezasına muhatap olan yükümlünün ölümü hâlinde cezalar, mirası reddetmemiş mirasçılardan miras hisseleri nispetinde takip edilir.  
-C) İştirak hâlinin varlığı tespit edildiğinde para cezaları ilgililere ayrı ayrı uygulanır ve tebliğ edilir.  
-D) Gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanır.  
+C) Gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanır.  
+D) İştirak hâlinin varlığı tespit edildiğinde para cezaları ilgililere ayrı ayrı uygulanır ve tebliğ edilir.  
 E) Para cezaları gümrük ve dış ticaret bölge müdürlüklerince karara bağlanır.  
 
 **14-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergileri ve para cezalarına ilişkin olarak tebliğ edilen kararların kesinleşmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Üst mahkeme nezdinde başvuru yapılmışsa, başvuru üzerine verilen kararın tebliğinden itibaren otuz günlük süre içinde kararın düzeltilmesi talebinde bulunulmaması hâlinde karar bu sürenin bitiminde kesinleşir.  
-B) İtiraz edilmemesi hâlinde karar, tebliğ edildiği tarihten itibaren 15 günlük idari itiraz süresinin bitiminde kesinleşir.  
-C) İdari itirazın reddi üzerine idari yargıya başvurulmuşsa, nihai yargı kararının tebliğinden itibaren otuz günlük istinaf veya temyiz süresi içinde üst mahkemeye başvurulmaması hâlinde karar bu sürenin bitiminde kesinleşir.  
-D) Süresi içinde idari yargı kararının düzeltilmesi talebinde bulunulması hâlinde karar, idare lehine verilen kararın tebliğ edildiği tarihte kesinleşir.  
-E) Uzlaşılması durumunda gümrük vergileri ile para cezaları uzlaşılan tutarlar üzerinden kesinleşir.  
+A) İtiraz edilmemesi hâlinde karar, tebliğ edildiği tarihten itibaren 15 günlük idari itiraz süresinin bitiminde kesinleşir.  
+B) İdari itirazın reddi üzerine idari yargıya başvurulmuşsa, nihai yargı kararının tebliğinden itibaren otuz günlük istinaf veya temyiz süresi içinde üst mahkemeye başvurulmaması hâlinde karar bu sürenin bitiminde kesinleşir.  
+C) Süresi içinde idari yargı kararının düzeltilmesi talebinde bulunulması hâlinde karar, idare lehine verilen kararın tebliğ edildiği tarihte kesinleşir.  
+D) Uzlaşılması durumunda gümrük vergileri ile para cezaları uzlaşılan tutarlar üzerinden kesinleşir.  
+E) Üst mahkeme nezdinde başvuru yapılmışsa, başvuru üzerine verilen kararın tebliğinden itibaren otuz günlük süre içinde kararın düzeltilmesi talebinde bulunulmaması hâlinde karar bu sürenin bitiminde kesinleşir.  
 
-**15-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre eksik alınan gümrük vergisine uygulanacak gecikme zammı oranında faizin hesaplanmasına ilişkin bilgiler aşağıda verilmiştir:
+**15-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre hiç alınmayan veya eksik alınan gümrük vergilerine uygulanacak gecikme zammı oranında faiz ile gecikme zammının hesaplanmasına ilişkin aşağıdakilerden hangisi söylenemez?
 
-- Eksik alınan gümrük vergisi tutarı: 150.000 TL  
-- Aylık gecikme zammı oranı: %2 (hesaplama için varsayılmıştır)  
-- Gümrük yükümlülüğünün başladığı tarihten ek tahakkukun yükümlüye tebliğ edildiği tarihe kadar geçen süre: 75 gün  
-- Gümrük yükümlülüğünün başladığı tarihten vergilerin kesinleştiği tarihe kadar geçen süre: 90 gün  
-- Gümrük yükümlülüğünün başladığı tarihten vergilerin ödendiği tarihe kadar geçen süre: 105 gün  
-Buna göre bu vergiye uygulanacak gecikme zammı oranında faiz tutarı kaç TL'dir?  
-
-A) 750 TL  
-B) 7.500 TL  
-C) 9.000 TL  
-D) 10.500 TL  
-E) 90.000 TL  
+A) Aylık esasa göre gecikme zammının hesaplanacağı bir aylık süre içinde oran değişikliği yapılırsa, söz konusu bir aylık sürenin tamamına yeni oran uygulanır.  
+B) Gecikme zammı oranında faiz, gümrük yükümlülüğünün başladığı tarihten vergilerin kesinleştiği tarihe kadar olan süre için uygulanır.  
+C) Gecikme zammı oranında faizin hesabında, aylık gecikme zammı oranı on iki ile çarpılmak suretiyle yıllık orana dönüştürülür.  
+D) Tebligata rağmen ödeme süresi içinde ödenmeyen vergilere uygulanacak gecikme zammının hesabında ödeme tarihi süreye dâhil edilir, vade tarihi ise süreye dâhil edilmez.  
+E) Ay kesirleri için gecikme zammı günlük esasa göre hesaplanır.  
 
 **16-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre, 6183 sayılı Kanun uyarınca yapılan ve tutarı 5.000.000,00 Türk Lirası olan gümrük vergileri ve para cezalarına ilişkin tecil ve taksitlendirme talebinde yetkili merci aşağıdakilerden hangisidir?
 
@@ -202,15 +181,15 @@ E) Oran 0,875 olup 1'in altında kaldığından borçlu çok zor durumda kabul e
 
 A) Tecilin geçerli sayılması, daha evvel tecil edilen bir borca karşılık yapılan ödemelerin geçerli sayılması ve kalan tutarın belirlenen bir plan dahilinde ödenmesine izin verilmesidir.  
 B) Taksitlendirme süresi içerisinde yapılan tecilin geçerli sayılması talebi, tecili yapan idarece değerlendirilerek sonuçlandırılır.  
-C) İhlale neden olan taksit son taksitse, tecilin geçerli sayılması talebi en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapılmalıdır.  
-D) Tecilin geçerli sayılması durumunda tecil faizi hesaplanmasında ve taksitlendirme süresinin belirlenmesinde geçerli sayılma talebinin yapıldığı tarih esas alınır.  
+C) Tecilin geçerli sayılması durumunda tecil faizi hesaplanmasında ve taksitlendirme süresinin belirlenmesinde geçerli sayılma talebinin yapıldığı tarih esas alınır.  
+D) İhlale neden olan taksit son taksitse, tecilin geçerli sayılması talebi en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapılmalıdır.  
 E) Son taksitte ihlal edilen taksit tutarı ile hesaplanan tecil faizi, tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde ödenmelidir.  
 
 **20-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tahsili imkânsız veya tahsili için yapılacak giderlerin alacaktan fazla olduğu anlaşılan 20 liraya kadar (bu tutar dahil) amme alacağının terkinine ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Terkin için her borçlu adına ayrı ayrı olmak üzere üç nüsha Zamanaşımına Uğramış Amme Alacaklarına İlişkin Terkin Cetveli düzenlenir.  
-B) Terkin izni alınması için düzenlenen cetvel, Gelir İdaresi Başkanlığına iletilmek üzere Genel Müdürlüğe gönderilir.  
-C) Terkin yetkisi gümrük müdürleri veya vekillerine aittir; bu terkinde terkin cetveli düzenlenmez ve terkin izni alınmaz.  
+B) Terkin yetkisi gümrük müdürleri veya vekillerine aittir; bu terkinde terkin cetveli düzenlenmez ve terkin izni alınmaz.  
+C) Terkin izni alınması için düzenlenen cetvel, Gelir İdaresi Başkanlığına iletilmek üzere Genel Müdürlüğe gönderilir.  
 D) Terkin yetkisi gümrük ve dış ticaret bölge müdürlüklerine aittir; verilen takipten vazgeçme onayı takibat dosyasında saklanır.  
 E) Bu alacakların terkin edilebilmesi için alacağın tahsil zamanaşımına uğramış olması gerekir.  
 
@@ -218,7 +197,7 @@ E) Bu alacakların terkin edilebilmesi için alacağın tahsil zamanaşımına u
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D | B | A | D | E | B | D | A | B | E | A | E | C | A | C | B | C | E | D | C |
+| D | B | A | D | E | A | C | A | C | E | D | B | D | E | A | B | C | E | C | B |
 
 ### Çözümler
 
@@ -301,71 +280,57 @@ E) Yazılı istem ödeme süresinin bitmesinden sonra yapıldığından ödeme s
 **Doğru Cevap:** E  
 **Gerekçe:** Gümrük Kanunu'na göre sonradan noksan alındığı belirlenen gümrük vergileri yükümlüye tebliğ edildiği tarihten itibaren on beş gün içinde ödenmek zorundadır. Bu süre, ödeme süresinin bitmesinden önce ilgilinin yazılı istemde bulunması ve teminat alınması şartıyla otuz gün daha uzatılabilir; uzatılan süre için tecil faizi alınır ve uzatma beyanname kapsamı eşyanın her bir kalemi için ayrı ayrı da yapılabilir. Olayda tebliğ 2 Mart 2026'da yapılmış, itiraz edilmediği için süre kesilmemiş ve on beş günlük ödeme süresi 17 Mart 2026'da dolmuştur. Yazılı istem ve teminat 25 Mart 2026'da, yani süre bittikten sonra geldiğinden uzatmanın şartı gerçekleşmemiştir. Haczedilen malların paraya çevrilmesi aşamasına kadar başvuru imkânı, 6183 sayılı Kanun çerçevesindeki tecil ve taksitlendirmeye aittir; Gümrük Kanunu'ndaki otuz günlük uzatmanın zamanlama şartını kaldırmaz. En güçlü çeldirici, yazılı istem ve teminat bulunduğu için uzatmanın otomatik yapılacağını söyleyen şıktır; olayda saklanan nokta istemin süre bittikten sonra yapılmasıdır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 198; Tahsilat Tebliği 17, 20)
 
-*4458 sayılı Gümrük Kanunu md. 198*
+*4458 sayılı Gümrük Kanunu md. 195, 198*
 
-**6-** 4458 sayılı Gümrük Kanunu'na göre, eşyanın tercihli tarifesinin karşı ülke idareleri ile idari işbirliği çerçevesinde oluşturulduğu durumlarda dolaşım belgesinin karşı ülke idaresince yanlışlıkla onaylandığının tespit edilmesi hâlinde, tercihli tarife uygulanması nedeniyle tahakkuk ettirilmeyen vergilere ilişkin aşağıdaki ifadeler verilmiştir:
+**6-** 4458 sayılı Gümrük Kanunu'na göre eşyanın tercihli tarifesinin karşı ülke idareleri ile idari işbirliği çerçevesinde oluşturulduğu durumlarda dolaşım belgesinin karşı ülke idaresince yanlışlıkla onaylandığının tespit edilmesi hâlinde, tercihli tarife uygulanması nedeniyle tahakkuk ettirilmeyen vergilere ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. Yükümlü, gümrük mevzuatının gerektirdiği yükümlülüklerin yerine getirilmesinde tüm özeni gösterdiğini ispat edebilirse bu vergiler kural olarak sonradan istenmez.  
-II. Bu kural, geçici bir anti-damping vergisi veya fark giderici vergi uygulanan durumlarda da geçerlidir.  
-III. Tercihli düzenlemenin yararlanan ülke tarafından doğru olarak uygulandığına dair şüphe bulunduğu yönünde Resmî Gazete'de bir duyuru yayımlanmışsa vergiler yükümlüden tahsil edilir.  
-IV. Belge ihracatçının sunduğu yanlış verilere dayanılarak onaylanmışsa, onaylayan idare eşyanın tercihli tarife şartlarını yerine getirmediğini bilse dahi vergiler her hâlde yükümlüden tahsil edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+A) Belge ihracatçının sunduğu yanlış verilere dayanılarak onaylanmışsa, onaylayan idare şartların yerine getirilmediğini bilse dahi vergiler yükümlüden tahsil edilir.  
+B) Yükümlü, gümrük mevzuatının gerektirdiği yükümlülüklerin yerine getirilmesinde tüm özeni gösterdiğini ispat edebilirse bu vergiler kural olarak sonradan istenmez.  
+C) Tercihli düzenlemenin yararlanan ülke tarafından doğru olarak uygulandığına dair şüphe bulunduğu yönünde Resmî Gazete'de bir duyuru yayımlanmışsa vergiler yükümlüden tahsil edilir.  
+D) Geçici bir anti-damping vergisi veya fark giderici vergi uygulandığı hâllerde, yükümlünün özen gösterdiğini ispat etmesine bağlanan bu kural uygulanmaz.  
+E) Vergi tutarının Cumhurbaşkanı tarafından belirlenen seviyenin altında kaldığı hâllerde de bu kural uygulanmaz.  
 
-A) Yalnız I  
-B) I ve III  
-C) I ve IV  
-D) II ve III  
-E) I, III ve IV  
+**Doğru Cevap:** A  
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre dolaşım belgesinin karşı ülke idaresince yanlışlıkla onaylandığı tespit edildiğinde, gümrük mevzuatının gerektirdiği yükümlülüklerin yerine getirilmesinde tüm özeni gösterdiğini ispat eden yükümlüden tercihli tarife nedeniyle tahakkuk ettirilmeyen vergiler sonradan istenmez. Bu kural; geçici anti-damping vergisi veya fark giderici vergi uygulanan, kanunen alınması gereken vergi tutarının bağlayıcı tarife ve menşe bilgisine göre belirlenen tutardan yüksek olduğu ve vergi tutarının Cumhurbaşkanınca belirlenen seviyenin altında kaldığı hâllerde uygulanmaz. Tercihli düzenlemenin doğru uygulandığına dair şüphe bulunduğu yönünde Resmî Gazete'de duyuru yayımlanmışsa vergiler yükümlüden tahsil edilir. Belgenin ihracatçının sunduğu yanlış verilere dayanılarak onaylanması da tahsili gerektirir; ancak onaylayan idarenin eşyanın tercihli tarife şartlarını yerine getirmediğini bildiği veya bilmesi gerektiği durumlar bu tahsilden hariç tutulmuştur. Yanlış ifade 'bilse dahi' diyerek bu istisnayı yok saymıştır. En güçlü tuzak Cumhurbaşkanınca belirlenen seviyeye ilişkin ifadedir: bu hâl özen kuralının uygulanmadığı hâller arasında sayıldığı için doğrudur. Bu nedenle doğru cevap A seçeneğidir. (MD GK 198; GK 195)
 
-**Doğru Cevap:** B  
-**Gerekçe:** Gümrük Kanunu'na göre tercihli tarifenin karşı ülke idareleriyle idari işbirliği çerçevesinde oluşturulduğu durumlarda dolaşım belgesinin karşı ülke idaresince yanlışlıkla onaylandığı tespit edilirse, gümrük mevzuatının gerektirdiği yükümlülüklerin yerine getirilmesinde tüm özeni gösterdiğini ispat eden yükümlüden tercihli tarife nedeniyle tahakkuk ettirilmeyen vergiler sonradan istenmez; I doğrudur. Bu kural, geçici anti-damping vergisi veya fark giderici vergi uygulanan, kanunen alınması gereken verginin bağlayıcı tarife ve menşe bilgisine göre belirlenen tutardan yüksek olduğu ve vergi tutarının Cumhurbaşkanınca belirlenen seviyenin altında kaldığı durumlar hariç tutularak konmuştur; II yanlıştır. Tercihli düzenlemenin yararlanan ülkece doğru uygulandığına dair şüphe bulunduğu yönünde Resmî Gazete'de duyuru yayımlanmışsa vergiler yükümlüden tahsil edilir; III doğrudur. Belgenin ihracatçının sunduğu yanlış verilere dayanılarak onaylanması da vergilerin tahsilini gerektirir, ancak onaylayan idarenin şartların yerine getirilmediğini bildiği veya bilmesi gerektiği durumlar bu tahsilden hariç tutulmuştur; IV'teki 'bilse dahi ... her hâlde' ifadesi bu istisnayı yok saydığı için yanlıştır. En güçlü çeldirici 'I, III ve IV' seçeneğidir: ihracatçının yanlış verisinde tahsil kuralı doğru hatırlanıp onaylayan idarenin bilgisine ilişkin istisna atlanır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 198; GK 195)
+*Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 3, 5; 4458 sayılı Gümrük Kanunu md. 201*
 
-*4458 sayılı Gümrük Kanunu md. 197, 198, 201; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 5, 14*
+**7-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre 'alacak' deyimi aşağıdakilerden hangisini ifade eder?
 
-**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergilerine ilişkin işlemler ile bu işlemlerde uygulanacak kanun hükümleri aşağıda eşleştirilmiştir.
+A) Yapılan kontrol ve denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenen gümrük vergileri ile bunların fer'ilerini  
+B) 6183 sayılı Kanun hükümlerine göre gümrük idarelerince takip ve tahsili gereken gümrük vergilerini; bunlara bağlı fer'i amme alacakları ile para cezaları hariç  
+C) 6183 sayılı Kanun hükümlerine göre gümrük idarelerince takip ve tahsili gereken gümrük vergileri ile bunlara bağlı fer'i amme alacakları ve para cezalarını  
+D) İlgili mevzuat uyarınca gümrük idarelerince tahakkuk ve tahsil edilen ithalat vergilerinin ya da ihracat vergilerinin tümünü  
+E) 7201 sayılı Tebligat Kanunu hükümlerine göre ek tahakkuk kararıyla yükümlüsüne tebliğ edilen gümrük vergileri ile para cezalarını  
 
-Bu eşleştirmelerden hangisi yanlıştır?  
-
-A) Süresi içinde ödenmeyen kesinleşmiş gümrük vergileri – 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun  
-B) Ek tahakkuku yapılan gümrük vergilerinin asıl yükümlüye tebliği – 7201 sayılı Tebligat Kanunu  
-C) Ceza davası açılmış gümrük vergileri alacaklarının kovuşturulup tahsili – Türk Ceza Kanunundaki dava ve ceza zamanaşımı süreleri  
-D) Kesinleşen ve 6183 sayılı Kanuna göre takibi gereken alacaklara ilişkin tebligatlar – 7201 sayılı Tebligat Kanunu  
-E) Ödeme süresinin uzatılan kısmı için alınacak tecil faizi – 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun  
-
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük vergilerinin tahakkuku, tebliği ve ödeme süresi Gümrük Kanunu'nda düzenlenmiş; tahsil aşamasında ise farklı kanunlara gönderme yapılmıştır. Gümrük Kanunu'na göre süresi içinde ödenmeyen kesinleşmiş gümrük vergileri hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uygulanır; ödeme süresinin otuz gün uzatılan kısmı için de aynı Kanuna göre tecil faizi alınır. Ceza davası açılmış alacaklar Türk Ceza Kanunundaki dava ve ceza zamanaşımı süreleri içinde kovuşturulup tahsil edilir. Tahsilat Tebliği'ne göre ek tahakkuku yapılan gümrük vergileri 7201 sayılı Tebligat Kanunu hükümlerine göre asıl yükümlüye tebliğ edilir. Buna karşılık kesinleşen ve 6183 sayılı Kanuna göre takibi gereken alacaklara ilişkin tebligatlar, 6183 sayılı Kanunun yollamasıyla 213 sayılı Vergi Usul Kanununun tebligat hükümlerine göre yapılır; bu eşleştirmede Tebligat Kanunu yanlış yerdedir. En güçlü tuzak, ek tahakkukun tebliğinde geçerli olan 7201 sayılı Kanunun kesinleşme sonrası takip tebligatına da uygulanacağının sanılmasıdır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 197, 198, 201; Tahsilat Tebliği 5, 14)
+**Doğru Cevap:** C  
+**Gerekçe:** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre alacak, 6183 sayılı Kanun hükümlerine göre gümrük idarelerince takip ve tahsili gereken gümrük vergileri ile bunlara bağlı fer'i amme alacakları ve para cezalarıdır. Gümrük Kanunu da süresi içinde ödenmeyen kesinleşmiş gümrük vergileri hakkında 6183 sayılı Kanunun uygulanacağını hükme bağlar. Kontrol ve denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenen vergiler ile fer'ileri gelir eksiğinin, ithalat veya ihracat vergilerinin tümü ise gümrük vergilerinin tanımıdır. Ek tahakkuku yapılan vergiler 7201 sayılı Tebligat Kanunu hükümlerine göre asıl yükümlüye tebliğ edilir; ancak alacak tanımı tebliğ usulüne değil, 6183 sayılı Kanuna göre takip ve tahsile dayanır. En güçlü tuzak fer'i amme alacaklarını ve para cezalarını dışarıda bırakan tanımdır: alacak bunları da kapsar. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Tebliği 3, 5; GK 201)
 
 *Gümrük Yönetmeliği md. 489, 490*
 
-**8-** Gümrük Yönetmeliği'nin Gümrük Vergileri Tahakkukunu İzleme Defteri, gümrük vergilerinin tebliği ve ek tahakkukuna ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**8-** Gümrük Yönetmeliği'nin gümrük vergilerinin tebliği ve ek tahakkukuna ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Gümrük Vergileri Tahakkukunu İzleme Defteri elektronik ortamda tutulur.  
-II. Gümrük vergileri tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, sistem üzerinde tebliğin yapılamadığı hâllerde ise ilgili belge üzerinde tebliğ edilir.  
-III. Sonradan yapılan denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenerek istenen gümrük vergileri ile bu vergiler alacağına bağlı idari para cezaları, yükümlüsüne ayrı ayrı kararlarla tebliğ edilir.  
-IV. Beyannamede düzeltme yapılmasını gerektirir nitelikteki tespitler, sistem üzerinde düzenlenen müzekkere ile gümrük ve dış ticaret bölge müdürüne sunulur.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) III ve IV  
-B) Yalnız III  
-C) I ve IV  
-D) II ve III  
-E) II, III ve IV  
+A) Sonradan yapılan denetlemeler sonucunda istenen gümrük vergileri ile bu vergiler alacağına bağlı idari para cezaları, yükümlüsüne ayrı ayrı kararlarla tebliğ edilir.  
+B) Gümrük Vergileri Tahakkukunu İzleme Defteri elektronik ortamda tutulur.  
+C) Gümrük vergileri tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, sistem üzerinde tebliğin yapılamadığı hâllerde ise ilgili belge üzerinde tebliğ edilir.  
+D) Beyannamede düzeltme yapılmasını gerektirir nitelikteki tespitler, sistem üzerinde düzenlenen müzekkere ile idare amirine sunulur.  
+E) Konusu, yükümlüsü ve gümrük idaresi aynı olan ve aralarında maddi veya hukuki yönden bağlılık bulunan birden fazla beyannameye ilişkin gümrük vergileri ve para cezalarına tek tahakkuk ve ceza kararı düzenlenebilir.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre Gümrük Vergileri Tahakkukunu İzleme Defteri elektronik ortamda tutulur; I doğrudur. Gümrük vergileri tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, sistem üzerinde tebliğin yapılamadığı hâllerde ise ilgili belge üzerinde tebliğ edilir; II doğrudur. Sonradan hiç alınmadığı veya noksan alındığı belirlenerek istenen gümrük vergileri ile gümrük vergileri alacağına bağlı idari para cezaları yükümlüsüne ayrı ayrı değil, tek bir karar ile tebliğ edilir ve aynı anda ilgili programa kaydedilir; III yanlıştır. Beyannamede düzeltme yapılmasını gerektiren tespitler sistem üzerinde düzenlenen müzekkere ile bölge müdürüne değil idare amirine sunulur; idare amirinin olurundan sonra yeni vergi tahakkuku ve varsa cezalar yükümlüsüne tebliğ edilir; IV de yanlıştır. En güçlü çeldirici 'Yalnız III' seçeneğidir: müzekkerenin sunulduğu makamı bölge müdürlüğü sanan aday IV'ü doğru kabul eder. Bu nedenle doğru cevap A seçeneğidir. (MD GY 489, 490)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre sonradan yapılan denetlemeler sonucunda istenen gümrük vergileri ve gümrük vergileri alacağına bağlı idari para cezaları yükümlüsüne ayrı ayrı değil, tek bir karar ile tebliğ edilir ve aynı anda ilgili programa kaydedilir. Gümrük Vergileri Tahakkukunu İzleme Defteri elektronik ortamda tutulur; gümrük vergileri tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, bu mümkün değilse ilgili belge üzerinde tebliğ edilir; beyannamede düzeltme gerektiren tespitler sistem üzerinde düzenlenen müzekkere ile idare amirine sunulur. Konusu, yükümlüsü ve gümrük idaresi aynı olan, aralarında maddi veya hukuki bağlılık bulunan birden fazla işleme veya beyannameye ilişkin vergi ve cezalara tek tahakkuk ve ceza kararı düzenlenebilir. En güçlü tuzak müzekkereye ilişkin ifadedir: müzekkerenin bölge müdürüne sunulduğunu sanan aday bu doğru ifadeyi yanlış görür. Bu nedenle doğru cevap A seçeneğidir. (MD GY 489, 490)
 
 *Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 3, 4*
 
 **9-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'de "yapılan kontrol ve denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenen gümrük vergileri ile bunların fer'ileri" şeklinde tanımlanan kavram aşağıdakilerden hangisidir?
 
 A) Ek tahakkuk  
-B) Gelir eksiği  
-C) Alacak  
+B) Alacak  
+C) Gelir eksiği  
 D) Kaldırma  
 E) Gümrük vergileri alacağına bağlı para cezaları  
 
-**Doğru Cevap:** B  
-**Gerekçe:** Tahsilat Tebliği'nde gelir eksiği, yapılan kontrol ve denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenen gümrük vergileri ile bunların fer'ileri olarak tanımlanır. Ek tahakkuk tanımlanmış bir kavram değildir; gelir eksiği için zamanaşımı süreleri göz önüne alınarak yapılan işlemin adıdır. Alacak, 6183 sayılı Kanuna göre gümrük idarelerince takip ve tahsili gereken gümrük vergileri ile bunlara bağlı fer'i amme alacakları ve para cezalarıdır; yalnızca noksan alınan vergiyi değil bütün tahsil edilecek tutarı kapsar. Kaldırma, henüz ödenmemiş vergi ve para cezalarının tamamen veya kısmen alınmamasına karar verilmesidir. Gümrük vergileri alacağına bağlı para cezaları ise tutarının belirlenmesinde bir vergi alacağının dayanak alındığı para cezalarıdır. En güçlü çeldirici ek tahakkuktur: tanımlanan tutar ile o tutarın istenmesi için yapılan işlem birbirine karıştırılır. Bu nedenle doğru cevap B seçeneğidir. (MD Tahsilat Tebliği 3, 4)
+**Doğru Cevap:** C  
+**Gerekçe:** Tahsilat Tebliği'nde gelir eksiği, yapılan kontrol ve denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenen gümrük vergileri ile bunların fer'ileri olarak tanımlanır. Ek tahakkuk tanımlanmış bir kavram değildir; gelir eksiği için zamanaşımı süreleri göz önüne alınarak yapılan işlemin adıdır. Alacak, 6183 sayılı Kanuna göre gümrük idarelerince takip ve tahsili gereken gümrük vergileri ile bunlara bağlı fer'i amme alacakları ve para cezalarıdır; yalnızca noksan alınan vergiyi değil bütün tahsil edilecek tutarı kapsar. Kaldırma, henüz ödenmemiş vergi ve para cezalarının tamamen veya kısmen alınmamasına karar verilmesidir. Gümrük vergileri alacağına bağlı para cezaları ise tutarının belirlenmesinde bir vergi alacağının dayanak alındığı para cezalarıdır. En güçlü çeldirici ek tahakkuktur: tanımlanan tutar ile o tutarın istenmesi için yapılan işlem birbirine karıştırılır. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Tebliği 3, 4)
 
 *Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 4, 14*
 
@@ -384,27 +349,27 @@ E) Alacak aslı için ayrıca tahakkuk yapılmaz; alacağın 6183 sayılı Kanun
 
 **11-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre, gelir eksiğinin oluşmasında asıl yükümlü ile birlikte dolaylı temsilcinin de sorumluluğunun tespit edildiği durumlara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Gelir eksiğinin yükümlülerden biri tarafından ödenmesi, diğer yükümlülerin yükümlülüğünü sona erdirmez.  
-B) Ek tahakkuka ilişkin tebligatlar ilgililere aynı anda gönderilir.  
-C) Gümrük müşavirinin bir tüzel kişilik bünyesinde faaliyet göstermesi hâlinde gelir eksiği ilgili tüzel kişiliğe de tebliğ edilir.  
-D) Ek tahakkuka ilişkin olarak alınan kararlarda yapılan tespitler ispatlayıcı belgelerle birlikte gerekçeli olarak belirtilir.  
+A) Ek tahakkuka ilişkin tebligatlar ilgililere aynı anda gönderilir.  
+B) Gümrük müşavirinin bir tüzel kişilik bünyesinde faaliyet göstermesi hâlinde gelir eksiği ilgili tüzel kişiliğe de tebliğ edilir.  
+C) Ek tahakkuka ilişkin olarak alınan kararlarda yapılan tespitler ispatlayıcı belgelerle birlikte gerekçeli olarak belirtilir.  
+D) Gelir eksiğinin yükümlülerden biri tarafından ödenmesi, diğer yükümlülerin yükümlülüğünü sona erdirmez.  
 E) Asıl yükümlü adına gümrük idaresi nezdinde alacağa yetecek miktarda teminat bulunması hâlinde dolaylı temsile yetkili kişilere ayrıca tebligat yapılmaz.  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Tahsilat Tebliği'ne göre gelir eksiğinin oluşmasında dolaylı temsilcinin sorumluluğu tespit edilirse tebligatlar ilgililere aynı anda gönderilir; gümrük müşaviri bir tüzel kişilik bünyesinde çalışıyorsa gelir eksiği o tüzel kişiliğe de tebliğ edilir. Dolaylı temsile yetkili kişilerin sorumluluğu tespit edildiğinde ek tahakkuk kararlarındaki tespitler ispatlayıcı belgelerle birlikte gerekçeli olarak yazılır. Asıl yükümlünün onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikası bulunması, adına alacağa yetecek teminat bulunması ya da ek tahakkukun eşyanın tesliminden önce asıl yükümlüye tebliğ edilmiş olması hâllerinde dolaylı temsilciye ayrıca tebligat yapılmaz. Müştereken ve müteselsilen sorumlulukta vergi bir kez ödenir: gelir eksiğinin yükümlülerden biri tarafından ödenmesi hâlinde diğer yükümlüler açısından da yükümlülük sona erer. Yanlış olan ifade, bu sonucu tersine çeviren ifadedir. Tuzak, idari para cezasında iştirak hâlinde her muhataba ayrı ayrı uygulanan kuralın vergiye taşınmasıdır. Bu nedenle doğru cevap A seçeneğidir. (MD Tahsilat Tebliği 5, 6)
+**Doğru Cevap:** D  
+**Gerekçe:** Tahsilat Tebliği'ne göre gelir eksiğinin oluşmasında dolaylı temsilcinin sorumluluğu tespit edilirse tebligatlar ilgililere aynı anda gönderilir; gümrük müşaviri bir tüzel kişilik bünyesinde çalışıyorsa gelir eksiği o tüzel kişiliğe de tebliğ edilir. Dolaylı temsile yetkili kişilerin sorumluluğu tespit edildiğinde ek tahakkuk kararlarındaki tespitler ispatlayıcı belgelerle birlikte gerekçeli olarak yazılır. Asıl yükümlünün onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikası bulunması, adına alacağa yetecek teminat bulunması ya da ek tahakkukun eşyanın tesliminden önce asıl yükümlüye tebliğ edilmiş olması hâllerinde dolaylı temsilciye ayrıca tebligat yapılmaz. Müştereken ve müteselsilen sorumlulukta vergi bir kez ödenir: gelir eksiğinin yükümlülerden biri tarafından ödenmesi hâlinde diğer yükümlüler açısından da yükümlülük sona erer. Yanlış olan ifade, bu sonucu tersine çeviren ifadedir. Tuzak, idari para cezasında iştirak hâlinde her muhataba ayrı ayrı uygulanan kuralın vergiye taşınmasıdır. Bu nedenle doğru cevap D seçeneğidir. (MD Tahsilat Tebliği 5, 6)
 
 *Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 6*
 
 **12-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre, dolaylı temsilcinin beyanda kullanılan verilerin yanlış olduğunu bildiği veya mesleği icabı ve mutat olarak bilmesi gerektiği durumların tespitinde varlığı araştırılan hâller arasında aşağıdakilerden hangisi yer almaz?
 
 A) Gümrük beyannamelerinin beyanın hazırlanmasına esas alınan belge ve bilgilere uygun olmaması  
-B) Gümrük beyannamesi eki belgeler arasında çelişki bulunması hâlinde gümrük müşavirinin elindeki imkânlarla bu hususu araştırmamış olması  
-C) Gümrük beyannamesine eklenen belgelerin sahte, yanlış veya hatalı olduğunun ayrıca bir araştırmaya gerek duyulmaksızın anlaşılabilecek olması  
-D) Gümrük beyannamesine eklenen belgelerin ulusal ve uluslararası mevzuatın ön gördüğü formlara veya şartlara uygun olmaması  
-E) Eşyanın niteliğinin ancak tahlil sonucunda anlaşılabilecek olmasına karşın tarife yönüyle yanlış beyanda bulunulmuş olması  
+B) Eşyanın niteliğinin ancak tahlil sonucunda anlaşılabilecek olmasına karşın tarife yönüyle yanlış beyanda bulunulmuş olması  
+C) Gümrük beyannamesi eki belgeler arasında çelişki bulunması hâlinde gümrük müşavirinin elindeki imkânlarla bu hususu araştırmamış olması  
+D) Gümrük beyannamesine eklenen belgelerin sahte, yanlış veya hatalı olduğunun ayrıca bir araştırmaya gerek duyulmaksızın anlaşılabilecek olması  
+E) Gümrük beyannamesine eklenen belgelerin ulusal ve uluslararası mevzuatın ön gördüğü formlara veya şartlara uygun olmaması  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Tahsilat Tebliği'ne göre dolaylı temsilcinin beyanda kullanılan verilerin yanlış olduğunu bildiği veya mesleği icabı ve mutat olarak bilmesi gerektiği durumların tespitinde şu hâllerin varlığı araştırılır: beyannamenin esas alınan belge ve bilgilere uygun olmaması; eki belgeler arasında çelişki varken müşavirin elindeki imkânlarla bunu araştırmamış olması; eklenen belgelerin sahte, yanlış veya hatalı olduğunun ayrıca araştırmaya gerek duyulmaksızın anlaşılabilecek olması; belgelerin ulusal ve uluslararası mevzuatın öngördüğü form veya şartlara uymaması; eşyanın cins, nevi ve niteliği herhangi bir tahlil veya detaylı incelemeye gerek kalmaksızın fiziki incelemeyle ya da belgelerden anlaşılabildiği hâlde tarife yönüyle vergi kaybına yol açan beyan; vergi kaybına ilişkin fezleke, rapor veya iddianame düzenlenmiş olması. Bu hâllerden biri varsa dolaylı temsile yetkili kişiler müştereken ve müteselsilen sorumludur. Liste, niteliği tahlil gerektirmeden anlaşılabilen eşyayı kapsar; niteliği ancak tahlille anlaşılabilecek eşyada müşavirden bunu bilmesi beklenmez. Tuzak, gümrük müşavirinin her yanlış tarife beyanından sorumlu olduğu önyargısıdır. Bu nedenle doğru cevap E seçeneğidir. (MD Tahsilat Tebliği 6)
+**Doğru Cevap:** B  
+**Gerekçe:** Tahsilat Tebliği'ne göre dolaylı temsilcinin beyanda kullanılan verilerin yanlış olduğunu bildiği veya mesleği icabı ve mutat olarak bilmesi gerektiği durumların tespitinde şu hâllerin varlığı araştırılır: beyannamenin esas alınan belge ve bilgilere uygun olmaması; eki belgeler arasında çelişki varken müşavirin elindeki imkânlarla bunu araştırmamış olması; eklenen belgelerin sahte, yanlış veya hatalı olduğunun ayrıca araştırmaya gerek duyulmaksızın anlaşılabilecek olması; belgelerin ulusal ve uluslararası mevzuatın öngördüğü form veya şartlara uymaması; eşyanın cins, nevi ve niteliği herhangi bir tahlil veya detaylı incelemeye gerek kalmaksızın fiziki incelemeyle ya da belgelerden anlaşılabildiği hâlde tarife yönüyle vergi kaybına yol açan beyan; vergi kaybına ilişkin fezleke, rapor veya iddianame düzenlenmiş olması. Bu hâllerden biri varsa dolaylı temsile yetkili kişiler müştereken ve müteselsilen sorumludur. Liste, niteliği tahlil gerektirmeden anlaşılabilen eşyayı kapsar; niteliği ancak tahlille anlaşılabilecek eşyada müşavirden bunu bilmesi beklenmez. Tuzak, gümrük müşavirinin her yanlış tarife beyanından sorumlu olduğu önyargısıdır. Bu nedenle doğru cevap B seçeneğidir. (MD Tahsilat Tebliği 6)
 
 *Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 7, 8, 14, 15*
 
@@ -412,45 +377,38 @@ E) Eşyanın niteliğinin ancak tahlil sonucunda anlaşılabilecek olmasına kar
 
 A) Para cezasına konu kabahat fiiline iştirak hükümlerinin uygulanabilmesi için fiilin taksirle işlenmiş olması yeterlidir.  
 B) İdari para cezasına muhatap olan yükümlünün ölümü hâlinde cezalar, mirası reddetmemiş mirasçılardan miras hisseleri nispetinde takip edilir.  
-C) İştirak hâlinin varlığı tespit edildiğinde para cezaları ilgililere ayrı ayrı uygulanır ve tebliğ edilir.  
-D) Gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanır.  
+C) Gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanır.  
+D) İştirak hâlinin varlığı tespit edildiğinde para cezaları ilgililere ayrı ayrı uygulanır ve tebliğ edilir.  
 E) Para cezaları gümrük ve dış ticaret bölge müdürlüklerince karara bağlanır.  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Tahsilat Tebliği'ne göre Kabahatler Kanunu kapsamında iştirak hükümlerinin uygulanabilmesi için para cezasına konu kabahat fiilinin kasıtla, yani bilerek ve istenerek işlenmiş olması gerekir; taksir yetmez. İştirak hâlinin varlığı tespit edildiğinde para cezaları ilgililere ayrı ayrı uygulanır ve tebliğ edilir. Bu, vergideki müteselsil sorumluluktan farklı işler: vergi bir kez ödenince herkes için sona erer, ceza ise her muhataba ayrıdır. Yükümlünün ölümünde gümrük vergi borçları mirası reddetmemiş kanuni ve mansup mirasçılara miras hisseleri nispetinde geçer; idari para cezaları ise cezaların şahsiliği ilkesi gereği mirasçılardan takip edilmez ve tahsilinden vazgeçilir (bu hüküm 04.01.2025 tarihli Seri No: 4 Tebliğ ile eklenmiştir). Gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanmaz. Para cezaları gümrük idare amirleri veya yardımcıları tarafından karara bağlanır. En güçlü çeldirici ölüm hâline ilişkin şıktır: miras hisseleri nispetinde takip kuralı vergi borcuna aittir. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Tebliği 7, 8, 14, 15)
+**Doğru Cevap:** D  
+**Gerekçe:** Tahsilat Tebliği'ne göre Kabahatler Kanunu kapsamında iştirak hükümlerinin uygulanabilmesi için para cezasına konu kabahat fiilinin kasıtla, yani bilerek ve istenerek işlenmiş olması gerekir; taksir yetmez. İştirak hâlinin varlığı tespit edildiğinde para cezaları ilgililere ayrı ayrı uygulanır ve tebliğ edilir. Bu, vergideki müteselsil sorumluluktan farklı işler: vergi bir kez ödenince herkes için sona erer, ceza ise her muhataba ayrıdır. Yükümlünün ölümünde gümrük vergi borçları mirası reddetmemiş kanuni ve mansup mirasçılara miras hisseleri nispetinde geçer; idari para cezaları ise cezaların şahsiliği ilkesi gereği mirasçılardan takip edilmez ve tahsilinden vazgeçilir (bu hüküm 04.01.2025 tarihli Seri No: 4 Tebliğ ile eklenmiştir). Gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanmaz. Para cezaları gümrük idare amirleri veya yardımcıları tarafından karara bağlanır. En güçlü çeldirici ölüm hâline ilişkin şıktır: miras hisseleri nispetinde takip kuralı vergi borcuna aittir. Bu nedenle doğru cevap D seçeneğidir. (MD Tahsilat Tebliği 7, 8, 14, 15)
 
 *Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 13; 4458 sayılı Gümrük Kanunu md. 197*
 
 **14-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergileri ve para cezalarına ilişkin olarak tebliğ edilen kararların kesinleşmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Üst mahkeme nezdinde başvuru yapılmışsa, başvuru üzerine verilen kararın tebliğinden itibaren otuz günlük süre içinde kararın düzeltilmesi talebinde bulunulmaması hâlinde karar bu sürenin bitiminde kesinleşir.  
-B) İtiraz edilmemesi hâlinde karar, tebliğ edildiği tarihten itibaren 15 günlük idari itiraz süresinin bitiminde kesinleşir.  
-C) İdari itirazın reddi üzerine idari yargıya başvurulmuşsa, nihai yargı kararının tebliğinden itibaren otuz günlük istinaf veya temyiz süresi içinde üst mahkemeye başvurulmaması hâlinde karar bu sürenin bitiminde kesinleşir.  
-D) Süresi içinde idari yargı kararının düzeltilmesi talebinde bulunulması hâlinde karar, idare lehine verilen kararın tebliğ edildiği tarihte kesinleşir.  
-E) Uzlaşılması durumunda gümrük vergileri ile para cezaları uzlaşılan tutarlar üzerinden kesinleşir.  
+A) İtiraz edilmemesi hâlinde karar, tebliğ edildiği tarihten itibaren 15 günlük idari itiraz süresinin bitiminde kesinleşir.  
+B) İdari itirazın reddi üzerine idari yargıya başvurulmuşsa, nihai yargı kararının tebliğinden itibaren otuz günlük istinaf veya temyiz süresi içinde üst mahkemeye başvurulmaması hâlinde karar bu sürenin bitiminde kesinleşir.  
+C) Süresi içinde idari yargı kararının düzeltilmesi talebinde bulunulması hâlinde karar, idare lehine verilen kararın tebliğ edildiği tarihte kesinleşir.  
+D) Uzlaşılması durumunda gümrük vergileri ile para cezaları uzlaşılan tutarlar üzerinden kesinleşir.  
+E) Üst mahkeme nezdinde başvuru yapılmışsa, başvuru üzerine verilen kararın tebliğinden itibaren otuz günlük süre içinde kararın düzeltilmesi talebinde bulunulmaması hâlinde karar bu sürenin bitiminde kesinleşir.  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Tahsilat Tebliği'ne göre gümrük vergileri ve para cezalarına ilişkin kararlar şu anlarda kesinleşir: itiraz edilmezse tebliğden itibaren 15 günlük idari itiraz süresinin bitiminde; itiraz reddedilirse ret kararının tebliğinden itibaren İdari Yargılama Usulü Kanunundaki dava açma süresinin bitiminde; idari yargıya başvurulmuşsa nihai yargı kararının tebliğinden itibaren otuz günlük istinaf veya temyiz süresinde üst mahkemeye gidilmezse bu sürenin bitiminde; üst mahkeme kararı verilmişse bu kararın tebliğinden itibaren on beş günlük karar düzeltme süresinde talepte bulunulmazsa bu sürenin bitiminde; süresinde karar düzeltme talep edilmişse idare lehine verilen kararın tebliğ edildiği tarihte. Uzlaşılırsa vergi ve cezalar uzlaşılan tutarlar üzerinden kesinleşir. Gümrük Kanunu da itiraz edilmeyen veya süresinde yargıya gidilmeyen vergilerin bu sürelerin bittiği tarihte kesinleşeceğini düzenler. Yanlış ifadede karar düzeltme süresi on beş gün yerine otuz gün yazılmıştır; otuz gün bir önceki aşamadaki istinaf veya temyiz süresidir. Bu nedenle doğru cevap A seçeneğidir. (MD Tahsilat Tebliği 13; GK 197)
+**Doğru Cevap:** E  
+**Gerekçe:** Tahsilat Tebliği'ne göre gümrük vergileri ve para cezalarına ilişkin kararlar şu anlarda kesinleşir: itiraz edilmezse tebliğden itibaren 15 günlük idari itiraz süresinin bitiminde; itiraz reddedilirse ret kararının tebliğinden itibaren İdari Yargılama Usulü Kanunundaki dava açma süresinin bitiminde; idari yargıya başvurulmuşsa nihai yargı kararının tebliğinden itibaren otuz günlük istinaf veya temyiz süresinde üst mahkemeye gidilmezse bu sürenin bitiminde; üst mahkeme kararı verilmişse bu kararın tebliğinden itibaren on beş günlük karar düzeltme süresinde talepte bulunulmazsa bu sürenin bitiminde; süresinde karar düzeltme talep edilmişse idare lehine verilen kararın tebliğ edildiği tarihte. Uzlaşılırsa vergi ve cezalar uzlaşılan tutarlar üzerinden kesinleşir. Gümrük Kanunu da itiraz edilmeyen veya süresinde yargıya gidilmeyen vergilerin bu sürelerin bittiği tarihte kesinleşeceğini düzenler. Yanlış ifadede karar düzeltme süresi on beş gün yerine otuz gün yazılmıştır; otuz gün bir önceki aşamadaki istinaf veya temyiz süresidir. Bu nedenle doğru cevap E seçeneğidir. (MD Tahsilat Tebliği 13; GK 197)
 
 *Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 15*
 
-**15-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre eksik alınan gümrük vergisine uygulanacak gecikme zammı oranında faizin hesaplanmasına ilişkin bilgiler aşağıda verilmiştir:
+**15-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre hiç alınmayan veya eksik alınan gümrük vergilerine uygulanacak gecikme zammı oranında faiz ile gecikme zammının hesaplanmasına ilişkin aşağıdakilerden hangisi söylenemez?
 
-- Eksik alınan gümrük vergisi tutarı: 150.000 TL  
-- Aylık gecikme zammı oranı: %2 (hesaplama için varsayılmıştır)  
-- Gümrük yükümlülüğünün başladığı tarihten ek tahakkukun yükümlüye tebliğ edildiği tarihe kadar geçen süre: 75 gün  
-- Gümrük yükümlülüğünün başladığı tarihten vergilerin kesinleştiği tarihe kadar geçen süre: 90 gün  
-- Gümrük yükümlülüğünün başladığı tarihten vergilerin ödendiği tarihe kadar geçen süre: 105 gün  
-Buna göre bu vergiye uygulanacak gecikme zammı oranında faiz tutarı kaç TL'dir?  
+A) Aylık esasa göre gecikme zammının hesaplanacağı bir aylık süre içinde oran değişikliği yapılırsa, söz konusu bir aylık sürenin tamamına yeni oran uygulanır.  
+B) Gecikme zammı oranında faiz, gümrük yükümlülüğünün başladığı tarihten vergilerin kesinleştiği tarihe kadar olan süre için uygulanır.  
+C) Gecikme zammı oranında faizin hesabında, aylık gecikme zammı oranı on iki ile çarpılmak suretiyle yıllık orana dönüştürülür.  
+D) Tebligata rağmen ödeme süresi içinde ödenmeyen vergilere uygulanacak gecikme zammının hesabında ödeme tarihi süreye dâhil edilir, vade tarihi ise süreye dâhil edilmez.  
+E) Ay kesirleri için gecikme zammı günlük esasa göre hesaplanır.  
 
-A) 750 TL  
-B) 7.500 TL  
-C) 9.000 TL  
-D) 10.500 TL  
-E) 90.000 TL  
-
-**Doğru Cevap:** C  
-**Gerekçe:** Tahsilat Tebliği'ne göre hiç alınmayan veya eksik alınan gümrük vergilerine, gümrük yükümlülüğünün başladığı tarihten vergilerin kesinleştiği tarihe kadar olan süre için gecikme zammı oranında faiz uygulanır. Faiz, aylık gecikme zammı oranı on iki ile çarpılarak yıllık orana dönüştürülür ve 'Tutar × (Aylık oran × 12) × Gün sayısı / 36.000' formülüyle hesaplanır. Olayda süre kesinleşmeye kadar olan 90 gündür: 150.000 × (2 × 12) × 90 / 36.000 = 9.000 TL. Süreyi tebliğ tarihinde kesmek (75 gün) 7.500 TL, ödeme tarihine kadar uzatmak (105 gün) 10.500 TL sonucunu verir; kesinleşmeden sonra ödeme süresinde ödenmeyen vergi için vadenin bitiminden itibaren ayrıca gecikme zammı hesaplanır, faiz süresi uzamaz. Aylık oranı on iki ile çarpmayı unutan aday 750 TL'ye, paydayı 3.600 alan aday 90.000 TL'ye ulaşır. Vakada saklanan nokta faizin bitiş anının tebliğ ya da ödeme değil, kesinleşme olmasıdır. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Tebliği 15)
+**Doğru Cevap:** A  
+**Gerekçe:** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre aylık esasa göre gecikme zammının hesaplanacağı bir aylık süre içinde oran değişikliği yapılırsa, söz konusu bir aylık sürenin tamamına yeni oran değil eski oran uygulanır. Hiç alınmayan veya eksik alınan gümrük vergilerine, gümrük yükümlülüğünün başladığı tarihten vergilerin kesinleştiği tarihe kadar olan süre için gecikme zammı oranında faiz uygulanır; bu faiz, aylık gecikme zammı oranı on iki ile çarpılarak yıllık orana dönüştürülmek ve paydası 36.000 olan formül kullanılmak suretiyle hesaplanır. Tebligata rağmen ödeme süresinde ödenmeyen vergiler için vadenin bitiminden ödeme tarihine kadar her ay için ayrı ayrı gecikme zammı uygulanır; bu hesapta ödeme tarihi süreye dâhil edilir, vade tarihi edilmez; ay kesirleri için gecikme zammı günlük esasa göre hesaplanır. En güçlü tuzak faizin bitiş anına ilişkin ifadedir: faizi tebliğ veya ödeme tarihine kadar hesaplanacak sanan aday kesinleşme tarihini içeren bu doğru ifadeyi yanlış görür. Bu nedenle doğru cevap A seçeneğidir. (MD Tahsilat Tebliği 15)
 
 *Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 19, 20, 23*
 
@@ -510,36 +468,36 @@ E) Oran 0,875 olup 1'in altında kaldığından borçlu çok zor durumda kabul e
 
 A) Tecilin geçerli sayılması, daha evvel tecil edilen bir borca karşılık yapılan ödemelerin geçerli sayılması ve kalan tutarın belirlenen bir plan dahilinde ödenmesine izin verilmesidir.  
 B) Taksitlendirme süresi içerisinde yapılan tecilin geçerli sayılması talebi, tecili yapan idarece değerlendirilerek sonuçlandırılır.  
-C) İhlale neden olan taksit son taksitse, tecilin geçerli sayılması talebi en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapılmalıdır.  
-D) Tecilin geçerli sayılması durumunda tecil faizi hesaplanmasında ve taksitlendirme süresinin belirlenmesinde geçerli sayılma talebinin yapıldığı tarih esas alınır.  
+C) Tecilin geçerli sayılması durumunda tecil faizi hesaplanmasında ve taksitlendirme süresinin belirlenmesinde geçerli sayılma talebinin yapıldığı tarih esas alınır.  
+D) İhlale neden olan taksit son taksitse, tecilin geçerli sayılması talebi en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapılmalıdır.  
 E) Son taksitte ihlal edilen taksit tutarı ile hesaplanan tecil faizi, tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde ödenmelidir.  
 
-**Doğru Cevap:** D  
-**Gerekçe:** Tahsilat Tebliği'ne göre taksitlerin süresinde ödenmemesi tecil ihlaline yol açar; ancak yükümlü taksitlendirme süresi içinde tecilin geçerli sayılmasını talep ederse talep tecili yapan idarece değerlendirilir. Tecilin geçerli sayılması, daha önce tecil edilen borca karşılık yapılan ödemelerin geçerli sayılması ve kalan tutarın belirlenen bir plan dahilinde ödenmesine izin verilmesidir. Bu durumda tecil faizinin hesaplanmasında ve taksitlendirme süresinin belirlenmesinde geçerli sayılma talebinin tarihi değil, ilk müracaat tarihi esas alınır. İhlale neden olan taksit son taksitse talep en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapılır; ihlal edilen taksit ve hesaplanan tecil faizi, tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde ödenir. Yanlış ifade, sürelerin hesabındaki başlangıç anını ilk müracaat yerine geçerli sayılma talebine kaydırmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD Tahsilat Tebliği 27)
+**Doğru Cevap:** C  
+**Gerekçe:** Tahsilat Tebliği'ne göre taksitlerin süresinde ödenmemesi tecil ihlaline yol açar; ancak yükümlü taksitlendirme süresi içinde tecilin geçerli sayılmasını talep ederse talep tecili yapan idarece değerlendirilir. Tecilin geçerli sayılması, daha önce tecil edilen borca karşılık yapılan ödemelerin geçerli sayılması ve kalan tutarın belirlenen bir plan dahilinde ödenmesine izin verilmesidir. Bu durumda tecil faizinin hesaplanmasında ve taksitlendirme süresinin belirlenmesinde geçerli sayılma talebinin tarihi değil, ilk müracaat tarihi esas alınır. İhlale neden olan taksit son taksitse talep en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapılır; ihlal edilen taksit ve hesaplanan tecil faizi, tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde ödenir. Yanlış ifade, sürelerin hesabındaki başlangıç anını ilk müracaat yerine geçerli sayılma talebine kaydırmıştır. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Tebliği 27)
 
 *Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) md. 28, 29*
 
 **20-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tahsili imkânsız veya tahsili için yapılacak giderlerin alacaktan fazla olduğu anlaşılan 20 liraya kadar (bu tutar dahil) amme alacağının terkinine ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Terkin için her borçlu adına ayrı ayrı olmak üzere üç nüsha Zamanaşımına Uğramış Amme Alacaklarına İlişkin Terkin Cetveli düzenlenir.  
-B) Terkin izni alınması için düzenlenen cetvel, Gelir İdaresi Başkanlığına iletilmek üzere Genel Müdürlüğe gönderilir.  
-C) Terkin yetkisi gümrük müdürleri veya vekillerine aittir; bu terkinde terkin cetveli düzenlenmez ve terkin izni alınmaz.  
+B) Terkin yetkisi gümrük müdürleri veya vekillerine aittir; bu terkinde terkin cetveli düzenlenmez ve terkin izni alınmaz.  
+C) Terkin izni alınması için düzenlenen cetvel, Gelir İdaresi Başkanlığına iletilmek üzere Genel Müdürlüğe gönderilir.  
 D) Terkin yetkisi gümrük ve dış ticaret bölge müdürlüklerine aittir; verilen takipten vazgeçme onayı takibat dosyasında saklanır.  
 E) Bu alacakların terkin edilebilmesi için alacağın tahsil zamanaşımına uğramış olması gerekir.  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Tahsilat Tebliği'ne göre amme idarelerince tahsil zamanaşımı beklenmeksizin terkin olunabilecek amme alacağı 20 lira (bu tutar dahil) olarak belirlenmiştir. Tahsili imkânsız veya tahsili için yapılacak giderleri alacaktan fazla olan 20 liraya kadar alacağın terkin yetkisi gümrük müdürleri veya vekillerine aittir; bu terkinde terkin cetveli düzenlenmez, terkin izni alınmaz ve gümrük müdürü veya vekilinin verdiği 'takipten vazgeçme onayı' takibat dosyasında saklanır. Her borçlu için ayrı ayrı üç nüsha terkin cetveli düzenlenmesi ve cetvelin Gelir İdaresi Başkanlığından izin alınmak üzere Genel Müdürlüğe gönderilmesi, zamanaşımına uğramış alacakların terkinine ilişkin usuldür (bu fıkra 04.01.2025 tarihli Seri No: 4 Tebliğ ile değiştirilmiştir). Bölge müdürlükleri bu terkinde değil, 5.000.000 TL ve üzerindeki tecil taleplerinde yetkilidir. En güçlü çeldirici üç nüsha terkin cetvelidir: iki terkin usulü aynı bölümde yan yana düzenlendiği için karıştırılır. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Tebliği 28, 29)
+**Doğru Cevap:** B  
+**Gerekçe:** Tahsilat Tebliği'ne göre amme idarelerince tahsil zamanaşımı beklenmeksizin terkin olunabilecek amme alacağı 20 lira (bu tutar dahil) olarak belirlenmiştir. Tahsili imkânsız veya tahsili için yapılacak giderleri alacaktan fazla olan 20 liraya kadar alacağın terkin yetkisi gümrük müdürleri veya vekillerine aittir; bu terkinde terkin cetveli düzenlenmez, terkin izni alınmaz ve gümrük müdürü veya vekilinin verdiği 'takipten vazgeçme onayı' takibat dosyasında saklanır. Her borçlu için ayrı ayrı üç nüsha terkin cetveli düzenlenmesi ve cetvelin Gelir İdaresi Başkanlığından izin alınmak üzere Genel Müdürlüğe gönderilmesi, zamanaşımına uğramış alacakların terkinine ilişkin usuldür (bu fıkra 04.01.2025 tarihli Seri No: 4 Tebliğ ile değiştirilmiştir). Bölge müdürlükleri bu terkinde değil, 5.000.000 TL ve üzerindeki tecil taleplerinde yetkilidir. En güçlü çeldirici üç nüsha terkin cetvelidir: iki terkin usulü aynı bölümde yan yana düzenlendiği için karıştırılır. Bu nedenle doğru cevap B seçeneğidir. (MD Tahsilat Tebliği 28, 29)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 4 (II ve III, I ve III, III ve IV, I, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 15, TERSİNE 7, YAKIN-SAYI 5, BAŞLANGIÇ 4, MAKAM 4, ŞART 3 |
-| İkiz eksen / ayna | 7, 15 / Eksen 15: müteselsil vergi bir kez ödenir ↔ idari para cezası iştirakte her muhataba ayrı, Eksen 7: ek tahakkukta tebliğden itibaren 15 gün ↔ teminata bağlı vergide 6183'e göre bir ay |
+| Birebir / parafraz / çıkarım | 16 / 2 / 2 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (II ve III, I, II ve IV) |
+| Vaka, uygulama, hesap | 2 |
+| Tuzaklar | KOMŞU 16, TERSİNE 8, YAKIN-SAYI 5, BAŞLANGIÇ 4, MAKAM 4, ŞART 3 |
+| İkiz eksen / ayna | 7, 15 / Eksen 15: müteselsil vergi bir kez ödenir ↔ idari para cezası iştirakte her muhataba ayrı, Eksen 7: ek tahakkukta tebliğden itibaren 15 gün ↔ teminata bağlı vergide 6183'e göre bir ay, SB44-A gelir eksiği ↔ alacak tanım ikizi, soru 7, SB44-A gelir eksiği ↔ alacak tanım ikizi, soru 9 |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 7 |
 | Cevap harfleri | A 4 · B 4 · C 4 · D 4 · E 4 |

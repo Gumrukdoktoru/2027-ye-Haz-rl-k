@@ -22,19 +22,13 @@ C) Gümrük vergisi oranı 6 Mart'ta indirilmiş, vergiler 9 Mart'ta ödenmiş v
 D) Gümrük vergileri 5 Mart'ta ödenmiş, gümrük vergisi oranı ise 6 Mart'ta indirilmiştir.  
 E) Gümrük vergisi oranı 6 Mart'ta indirilmiş, ancak işlemler beyan sahibinin istenen belgeleri süresinde ibraz etmemesi nedeniyle tamamlanamamış ve vergiler 20 Mart'ta ödenmiştir.  
 
-**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin, bir taşıma belgesi içeriği eşyanın değişik tarife pozisyonlarına girdiği hâllerde eşyanın tamamına tek bir tarife pozisyonuna göre vergi uygulanmasına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin, bir taşıma belgesi içeriği eşyanın değişik tarife pozisyonlarına girdiği hâllerde eşyanın tamamına tek bir tarife pozisyonuna göre vergi uygulanmasına ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Bu uygulama, her bir eşya için kendi tarife pozisyonuna göre işlem yapılmasının ek bir iş yükü ve masrafa sebep olması hâlinde, beyan sahibinin talebi üzerine yapılır.  
-II. Koşulların oluşması hâlinde gümrük idareleri, beyan sahibinin talebini beklemeksizin eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulamak zorundadır.  
-III. Herhangi bir ticaret politikası önlemine tabi olmayan eşyaya bu uygulama yapılırsa, taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonunu içeren listenin beyannameye eklenmesi zorunludur.  
-IV. Bu uygulamada eşyanın tamamına, kıymeti en yüksek olan eşyanın tarife pozisyonuna göre vergi uygulanır.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) I ve III  
-B) Yalnız II  
-C) II ve III  
-D) II ve IV  
-E) II, III ve IV  
+A) Bu uygulamaya, her bir eşya için kendi tarife pozisyonuna göre işlem yapılmasının ek bir iş yükü ve masrafa sebep olması hâlinde başvurulabilir.  
+B) Bu uygulama, beyan sahibinin talebi üzerine yapılır.  
+C) Herhangi bir ticaret politikası önlemine tabi olmayan eşyaya bu uygulama yapılırsa, taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonunu içeren listenin beyannameye eklenmesi zorunludur.  
+D) Eşyanın tamamına, taşıma belgesi içeriği eşyadan kıymeti en yüksek olanın tarife pozisyonuna göre vergi uygulanır.  
+E) Bu uygulama, bir taşıma belgesi içeriği eşyanın değişik tarife pozisyonlarına girdiği hâllerde söz konusudur.  
 
 **4-** 4458 sayılı Gümrük Kanunu'na göre aşağıdakilerden hangisi, serbest dolaşımda bulunan eşyanın bu statüsünü kaybetmesine yol açan hâllerden biridir?
 
@@ -106,30 +100,21 @@ C) Eşyanın nihai kullanıma tahsis edildiği tarihten itibaren üç ay içinde
 D) Beyannamenin kapatılmasından önce  
 E) İzin süresinin sona ermesinden itibaren otuz gün içinde  
 
-**12-** Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) çerçevesinde aşağıdaki olay verilmiştir:
+**12-** Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre nihai kullanım kapsamı eşyanın ara işleme tabi tutulmak üzere başka bir firmaya gönderilmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- A firması, nihai kullanım izni kapsamında indirimli vergi oranından yararlanarak ithal ettiği eşyanın bir kısmını, izin belgesinde yapılacak işlem ve işlemi yapacak firma bilgileri ayrıntılı olarak belirtilmiş olarak ve gümrük idaresinin izniyle ara işleme tabi tutulmak üzere B firmasına göndermiştir.  
-- A firması eşyanın kalan kısmını, gümrük idaresinin izniyle izin hak sahibi olan C firmasına devretmiştir.  
-- Daha sonra hem B firmasına gönderilen hem de C firmasına devredilen eşyanın öngörülen amaçlar dışında kullanıldığı tespit edilmiştir.  
-Buna göre eşyaya ilişkin sorumluluk bakımından aşağıdakilerden hangisi doğrudur?  
+A) Eşyanın işlenmek üzere bir başka firmaya gönderilmek istenmesi hâlinde, bu durum izin başvurusunda belirtilir.  
+B) Eşya işlenmek üzere bir başka firmaya gönderilecekse, nihai kullanım izin belgesinde işleme faaliyeti, firma bilgileri ve işlem süresi gibi bilgilerin de yer alması gerekir.  
+C) Eşyayı ara işleme tabi tutacak kişiler de Gümrük Kanunu uyarınca istenecek gerekli her türlü bilgi ve belgeyi vermekle yükümlüdür.  
+D) Eşya gümrük idaresinin izniyle ara işleme tabi tutulmak üzere başka bir firmaya gönderildiğinde, eşyaya ilişkin sorumluluk eşyayı ara işleme tabi tutan firmaya geçer.  
+E) Ara işlemden sonra eşyanın izin hak sahibine geri getirilmesinden önce izni veren gümrük idaresine bildirimde bulunulur.  
 
-A) Her iki kısımdan da izin belgesi kendi adına düzenlenmiş olan A firması sorumludur.  
-B) B firmasına gönderilen kısımdan B firması, C firmasına devredilen kısımdan C firması sorumludur.  
-C) B firmasına gönderilen kısımdan B firması, C firmasına devredilen kısımdan A firması sorumludur.  
-D) B firmasına gönderilen kısımdan A firması, C firmasına devredilen kısımdan C firması sorumludur.  
-E) Her iki kısımdan da A, B ve C firmaları birlikte sorumludur.  
+**13-** Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre; kural olarak izni veren gümrük idaresi olan, ancak ihtisas gümrüğü uygulaması ve eşyanın deniz yoluyla gelmesi gibi bazı zorunlu durumlar nedeniyle eşyanın nihai kullanıma tahsis edileceği yerin izni veren gümrük idaresinin bulunduğu il sınırları dışında olması durumunda eşyanın nihai kullanıma tahsis edileceği yere en yakın gümrük idaresi olarak belirlenen idare aşağıdakilerden hangisidir?
 
-**13-** Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) çerçevesinde aşağıdaki olay verilmiştir:
-
-- Y firmasının ithal ettiği eşya deniz yoluyla geldiğinden, nihai kullanım izni limanın bulunduğu X ilindeki gümrük müdürlüğünce verilmiştir.  
-- Eşya, izni veren gümrük idaresinin bulunduğu il sınırları dışında kalan Z ilindeki fabrikada nihai kullanıma tahsis edilecektir.  
-Buna göre aşağıdakilerden hangisi doğrudur?  
-
-A) Denetleyici gümrük idaresi, eşyanın nihai kullanıma tahsis edileceği yere en yakın gümrük idaresidir; izin belgesi ve ekleri bu idareye iznin verilmesini takip eden beş iş günü içinde gönderilir.  
-B) İzni veren gümrük idaresi her durumda denetleyici gümrük idaresi olduğundan, Z ilindeki denetimleri X ilindeki gümrük müdürlüğü yapar.  
-C) Z ilindeki denetleyici gümrük idaresi, iznin iptalini gerektiren bir durum tespit ederse izni Tek Pencere Sistemi üzerinden kendisi iptal eder.  
-D) Denetleyici gümrük idaresi, Z ilinin bağlı olduğu Gümrük ve Dış Ticaret Bölge Müdürlüğüdür.  
-E) Denetleyici gümrük idaresi, eşyanın nihai kullanıma tahsis edileceği yere en yakın gümrük idaresidir; izin belgesi ve ekleri bu idareye iznin verilmesini takip eden ilk iş günü içinde gönderilir.  
+A) Yetkili gümrük idaresi  
+B) Varış gümrük idaresi  
+C) Hareket gümrük idaresi  
+D) Gümrük ve Dış Ticaret Bölge Müdürlüğü  
+E) Denetleyici gümrük idaresi  
 
 **14-** Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1)'e göre, eşyanın Türkiye Gümrük Bölgesine gelişinden önce ilgili rejime giriş işlemlerine başlanabilmesi için başvuru sahibinde aranan koşullara ilişkin aşağıdaki ifadeler verilmiştir:
 
@@ -229,22 +214,16 @@ E) Gümrük vergisi oranı 6 Mart'ta indirilmiş, ancak işlemler beyan sahibini
 
 *4458 sayılı Gümrük Kanunu md. 76; Gümrük Yönetmeliği md. 204*
 
-**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin, bir taşıma belgesi içeriği eşyanın değişik tarife pozisyonlarına girdiği hâllerde eşyanın tamamına tek bir tarife pozisyonuna göre vergi uygulanmasına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin, bir taşıma belgesi içeriği eşyanın değişik tarife pozisyonlarına girdiği hâllerde eşyanın tamamına tek bir tarife pozisyonuna göre vergi uygulanmasına ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Bu uygulama, her bir eşya için kendi tarife pozisyonuna göre işlem yapılmasının ek bir iş yükü ve masrafa sebep olması hâlinde, beyan sahibinin talebi üzerine yapılır.  
-II. Koşulların oluşması hâlinde gümrük idareleri, beyan sahibinin talebini beklemeksizin eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulamak zorundadır.  
-III. Herhangi bir ticaret politikası önlemine tabi olmayan eşyaya bu uygulama yapılırsa, taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonunu içeren listenin beyannameye eklenmesi zorunludur.  
-IV. Bu uygulamada eşyanın tamamına, kıymeti en yüksek olan eşyanın tarife pozisyonuna göre vergi uygulanır.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) I ve III  
-B) Yalnız II  
-C) II ve III  
-D) II ve IV  
-E) II, III ve IV  
+A) Bu uygulamaya, her bir eşya için kendi tarife pozisyonuna göre işlem yapılmasının ek bir iş yükü ve masrafa sebep olması hâlinde başvurulabilir.  
+B) Bu uygulama, beyan sahibinin talebi üzerine yapılır.  
+C) Herhangi bir ticaret politikası önlemine tabi olmayan eşyaya bu uygulama yapılırsa, taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonunu içeren listenin beyannameye eklenmesi zorunludur.  
+D) Eşyanın tamamına, taşıma belgesi içeriği eşyadan kıymeti en yüksek olanın tarife pozisyonuna göre vergi uygulanır.  
+E) Bu uygulama, bir taşıma belgesi içeriği eşyanın değişik tarife pozisyonlarına girdiği hâllerde söz konusudur.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre bir taşıma belgesi içeriği eşyanın değişik tarife pozisyonlarına girdiği hâllerde, her bir eşya için kendi pozisyonuna göre işlem yapılmasının ek bir iş yükü ve masrafa sebep olması hâlinde, beyan sahibinin talebi üzerine gümrük idareleri eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulayabilir. Gümrük Yönetmeliği'ne göre herhangi bir ticaret politikası önlemine tabi olmayan eşyaya bu hüküm uygulanırsa, taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonunu içeren listenin beyannameye eklenmesi zorunludur. Buna göre I ve III doğrudur. II yanlıştır: uygulama beyan sahibinin talebine bağlıdır ve Kanun idareye bir zorunluluk değil, takdir yetkisi tanır ('uygulayabilirler'). IV yanlıştır: esas alınan, kıymeti en yüksek eşyanın değil, en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonudur. Kök 'yanlıştır' dediği için doğru ifadelerin kombinasyonu olan 'I ve III' en güçlü çeldiricidir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 76; GY 204)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre bir taşıma belgesi içeriği eşyanın değişik tarife pozisyonlarına girdiği hâllerde, her bir eşya için kendi tarife pozisyonuna göre işlem yapılmasının ek bir iş yükü ve masrafa sebep olması hâlinde, beyan sahibinin talebi üzerine gümrük idareleri eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulayabilir. Yanlış ifadede ölçüt değiştirilmiştir: esas alınan, kıymeti en yüksek eşyanın değil, en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonudur. Kıymet, Gümrük Yönetmeliği'ne göre herhangi bir ticaret politikası önlemine tabi olmayan eşyaya bu hüküm uygulandığında beyannameye eklenmesi zorunlu olan listedeki bilgilerden biridir; listede eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonu yer alır. Kıymetin listede geçmesi, adayı kıymeti esas alan ifadeye yöneltir; en güçlü tuzak budur. Diğer ifadeler doğrudur: uygulama, bir taşıma belgesi içeriği eşyanın değişik tarife pozisyonlarına girdiği hâllere ilişkindir, ek iş yükü ve masraf koşuluna bağlıdır ve beyan sahibinin talebi üzerine yapılır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 76; GY 204)
 
 *4458 sayılı Gümrük Kanunu md. 78*
 
@@ -356,40 +335,31 @@ E) İzin süresinin sona ermesinden itibaren otuz gün içinde
 **Doğru Cevap:** B  
 **Gerekçe:** Nihai Kullanım Tebliği'ne göre yetkilendirilmiş yükümlü sertifikası veya onaylanmış kişi statü belgesi sahibi kişilere, eşyanın ayniyatının veya nihai kullanıma tahsis edildiğinin tespit edilmesi şartıyla, beyannamenin tescilinden itibaren üç ay içinde başvurulması hâlinde nihai kullanım izni sonradan verilebilir; sürenin başlangıcı beyannamenin tescilidir. En güçlü çeldirici 'beyannamenin kapatılmasından önce' seçeneğidir: bu şart, tam beyanlı yaygın basitleştirilmiş usule tabi eşya ile sivil hava taşıtları ve parçaları hariç olmak üzere geçici depolama yeri veya antrepodaki eşya için sonradan izin verilmesine aittir. Tescilden itibaren altı ay, Seri No: 18 Tebliğinde diğer kurum kontrollerine ilişkin tespit raporunun düzenlenme süresidir; izin süresinin sona ermesinden itibaren otuz gün ise yerinde nihai denetim için müracaat süresidir. Nihai kullanıma tahsis tarihi, mükerrer kullanılabilir eşyada iki yıllık sürenin başlangıcıdır. Bu nedenle doğru cevap B seçeneğidir. (MD NK Tebliği 8, 10; GY 209)
 
-*Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) md. 6*
+*Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) md. 5, 6, 12*
 
-**12-** Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) çerçevesinde aşağıdaki olay verilmiştir:
+**12-** Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre nihai kullanım kapsamı eşyanın ara işleme tabi tutulmak üzere başka bir firmaya gönderilmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- A firması, nihai kullanım izni kapsamında indirimli vergi oranından yararlanarak ithal ettiği eşyanın bir kısmını, izin belgesinde yapılacak işlem ve işlemi yapacak firma bilgileri ayrıntılı olarak belirtilmiş olarak ve gümrük idaresinin izniyle ara işleme tabi tutulmak üzere B firmasına göndermiştir.  
-- A firması eşyanın kalan kısmını, gümrük idaresinin izniyle izin hak sahibi olan C firmasına devretmiştir.  
-- Daha sonra hem B firmasına gönderilen hem de C firmasına devredilen eşyanın öngörülen amaçlar dışında kullanıldığı tespit edilmiştir.  
-Buna göre eşyaya ilişkin sorumluluk bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) Her iki kısımdan da izin belgesi kendi adına düzenlenmiş olan A firması sorumludur.  
-B) B firmasına gönderilen kısımdan B firması, C firmasına devredilen kısımdan C firması sorumludur.  
-C) B firmasına gönderilen kısımdan B firması, C firmasına devredilen kısımdan A firması sorumludur.  
-D) B firmasına gönderilen kısımdan A firması, C firmasına devredilen kısımdan C firması sorumludur.  
-E) Her iki kısımdan da A, B ve C firmaları birlikte sorumludur.  
+A) Eşyanın işlenmek üzere bir başka firmaya gönderilmek istenmesi hâlinde, bu durum izin başvurusunda belirtilir.  
+B) Eşya işlenmek üzere bir başka firmaya gönderilecekse, nihai kullanım izin belgesinde işleme faaliyeti, firma bilgileri ve işlem süresi gibi bilgilerin de yer alması gerekir.  
+C) Eşyayı ara işleme tabi tutacak kişiler de Gümrük Kanunu uyarınca istenecek gerekli her türlü bilgi ve belgeyi vermekle yükümlüdür.  
+D) Eşya gümrük idaresinin izniyle ara işleme tabi tutulmak üzere başka bir firmaya gönderildiğinde, eşyaya ilişkin sorumluluk eşyayı ara işleme tabi tutan firmaya geçer.  
+E) Ara işlemden sonra eşyanın izin hak sahibine geri getirilmesinden önce izni veren gümrük idaresine bildirimde bulunulur.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Nihai Kullanım Tebliği'ne göre nihai kullanım kapsamı eşya gümrük idaresinin izniyle bir izin hak sahibinden başka bir izin hak sahibine devredilebilir ve bu durumda eşyaya ilişkin hak ve yükümlülükler eşyayı devralan izin hak sahibine geçer. Buna karşılık eşya, izin belgesinde yapılacak işlem ve işlemi yapacak firma bilgilerinin ayrıntılı belirtilmesi kaydıyla ve gümrük idaresinin izniyle ara işleme tabi tutulmak ya da nihai kullanıma tahsis edilmek üzere başka bir firmaya gönderilebilir; bu durumda sorumluluk izin hak sahibine aittir. Olayda B firmasına yapılan işlem devir değil, ara işlem için gönderme olduğundan bu kısımdan izin hak sahibi A sorumludur; C firmasına yapılan işlem ise izinli devir olduğundan yükümlülük C'ye geçmiştir. En güçlü çeldirici her iki kısmı da eşyayı alan firmalara yükleyen seçenektir: devir kuralı ara işlem için gönderilen eşyaya taşınamaz. Her iki kısmı A'ya bırakan seçenek ise devirde yükümlülüğün devralana geçtiğini gözden kaçırır. Bu nedenle doğru cevap D seçeneğidir. (MD NK Tebliği 6; GY 210)
+**Gerekçe:** Nihai Kullanım Tebliği'ne göre nihai kullanım kapsamı eşya, izin belgesinde yapılacak işlem ve işlemi yapacak firma bilgilerinin detaylı olarak belirtilmesi kaydıyla ve gümrük idaresinin izniyle, ara işleme tabi tutulmak ya da nihai kullanıma tahsis edilmek üzere başka bir firmaya gönderilebilir; bu durumda sorumluluk izin hak sahibine aittir. Yanlış ifade, eşyanın başka bir izin hak sahibine devrine ilişkin kuralı ara işleme taşımıştır: eşyaya ilişkin hak ve yükümlülüklerin eşyayı devralana geçmesi yalnızca gümrük idaresinin izniyle başka bir izin hak sahibine yapılan devirde söz konusudur. Diğer ifadeler doğrudur: eşyanın işlenmek üzere başka bir firmaya gönderilmek istenmesi izin başvurusunda belirtilir; bu durumda izin belgesinde işleme faaliyeti, firma bilgileri ve işlem süresi gibi bilgiler de yer alır; eşyayı ara işleme tabi tutacak kişiler de istenecek her türlü bilgi ve belgeyi vermekle yükümlüdür; ara işlemden sonra eşyanın izin hak sahibine geri getirilmesinden önce izni veren gümrük idaresine bildirimde bulunulur. En güçlü tuzak, ara işlemi yapan firmanın bilgi ve belge verme yükümlülüğüdür: bu yükümlülük, sorumluluğun da o firmaya geçtiği izlenimini doğurur. Bu nedenle doğru cevap D seçeneğidir. (MD NK Tebliği 5, 6, 12; GY 210)
 
-*Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) md. 7, 11*
+*Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) md. 11*
 
-**13-** Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) çerçevesinde aşağıdaki olay verilmiştir:
+**13-** Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre; kural olarak izni veren gümrük idaresi olan, ancak ihtisas gümrüğü uygulaması ve eşyanın deniz yoluyla gelmesi gibi bazı zorunlu durumlar nedeniyle eşyanın nihai kullanıma tahsis edileceği yerin izni veren gümrük idaresinin bulunduğu il sınırları dışında olması durumunda eşyanın nihai kullanıma tahsis edileceği yere en yakın gümrük idaresi olarak belirlenen idare aşağıdakilerden hangisidir?
 
-- Y firmasının ithal ettiği eşya deniz yoluyla geldiğinden, nihai kullanım izni limanın bulunduğu X ilindeki gümrük müdürlüğünce verilmiştir.  
-- Eşya, izni veren gümrük idaresinin bulunduğu il sınırları dışında kalan Z ilindeki fabrikada nihai kullanıma tahsis edilecektir.  
-Buna göre aşağıdakilerden hangisi doğrudur?  
-
-A) Denetleyici gümrük idaresi, eşyanın nihai kullanıma tahsis edileceği yere en yakın gümrük idaresidir; izin belgesi ve ekleri bu idareye iznin verilmesini takip eden beş iş günü içinde gönderilir.  
-B) İzni veren gümrük idaresi her durumda denetleyici gümrük idaresi olduğundan, Z ilindeki denetimleri X ilindeki gümrük müdürlüğü yapar.  
-C) Z ilindeki denetleyici gümrük idaresi, iznin iptalini gerektiren bir durum tespit ederse izni Tek Pencere Sistemi üzerinden kendisi iptal eder.  
-D) Denetleyici gümrük idaresi, Z ilinin bağlı olduğu Gümrük ve Dış Ticaret Bölge Müdürlüğüdür.  
-E) Denetleyici gümrük idaresi, eşyanın nihai kullanıma tahsis edileceği yere en yakın gümrük idaresidir; izin belgesi ve ekleri bu idareye iznin verilmesini takip eden ilk iş günü içinde gönderilir.  
+A) Yetkili gümrük idaresi  
+B) Varış gümrük idaresi  
+C) Hareket gümrük idaresi  
+D) Gümrük ve Dış Ticaret Bölge Müdürlüğü  
+E) Denetleyici gümrük idaresi  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Nihai Kullanım Tebliği'ne göre kural olarak izni veren gümrük idaresi denetleyici gümrük idaresidir. Ancak ihtisas gümrüğü uygulaması ve eşyanın deniz yoluyla gelmesi gibi zorunlu durumlar nedeniyle eşyanın nihai kullanıma tahsis edileceği yerin izni veren gümrük idaresinin bulunduğu il sınırları dışında olması durumunda denetleyici gümrük idaresi, eşyanın tahsis edileceği yere en yakın gümrük idaresidir; izni veren idare izin belgesi ve ekli belgeleri bu idareye iznin verilmesini takip eden ilk iş günü içinde gönderir. En güçlü çeldirici 'beş iş günü' seçeneğidir: beş iş günü, denetleyici ve izni veren idarenin farklı olduğu durumda iptali gerektiren durumun tespitini takip eden ve belgelerin izni veren idareye gönderilmesi için öngörülen süredir. İptal işlemini de denetleyici idare değil, izni veren gümrük idaresi Tek Pencere Sistemi üzerinden yapar. Bölge müdürlüğü ise varış öncesi gümrük işlemleri izninde başvurunun yapıldığı makamdır. Bu nedenle doğru cevap E seçeneğidir. (MD NK Tebliği 7, 11)
+**Gerekçe:** Nihai Kullanım Tebliği'ne göre izni veren gümrük idaresi denetleyici gümrük idaresidir. Ancak ihtisas gümrüğü uygulaması ve eşyanın deniz yoluyla gelmesi gibi bazı zorunlu durumlar nedeniyle eşyanın nihai kullanıma tahsis edileceği veya öngörülen amaçlar için kullanılacağı yerin izni veren gümrük idaresinin bulunduğu il sınırları dışında olması durumunda denetleyici gümrük idaresi, eşyanın nihai kullanıma tahsis edileceği veya öngörülen amaçlar için kullanılacağı yere en yakın gümrük idaresidir; bu durumda izni veren gümrük idaresi, izin belgesi ve ekli belgeleri iznin verilmesini takip eden ilk iş günü içinde denetleyici gümrük idaresine gönderir. Kökte iki hâliyle tarif edilen idare budur. En güçlü tuzak yetkili gümrük idaresidir: bu ad, nihai kullanım izni için talepte bulunulan ve eşyanın serbest dolaşıma gireceği idareyi anlatır; il dışındaki tahsis yerine en yakın idareyi karşılamaz. Hareket ve varış gümrük idaresi, devir nedeniyle başka bir gümrüğe T5 belgesiyle gönderilen nihai kullanım kapsamı eşyada belgenin düzenlendiği ve eşyanın gönderildiği idarelerdir. Gümrük ve Dış Ticaret Bölge Müdürlüğü ise varış öncesi gümrük işlemleri izni başvurularının yapıldığı makamdır. Bu nedenle doğru cevap E seçeneğidir. (MD NK Tebliği 5, 11; GY 208, 210; VÖ Tebliği 6)
 
 *Gümrük Genel Tebliği (Varış Öncesi Gümrük İşlemleri) (Seri No: 1) md. 4*
 
@@ -447,7 +417,7 @@ D) 6 ay
 E) 24 ay  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Seri No: 18 Tebliğe göre diğer kurumlarca yapılacak kontrollere tabi eşyada, serbest dolaşıma giriş sonrası beyana uygun kullanım, teslim veya işleme konu edilip edilmediğinin tespiti yetkilendirilmiş gümrük müşaviri raporuyla yapılır; rapor beyannamenin tescil tarihinden itibaren altı ay içinde düzenlenir, bu süre üçer aylık dönemler hâlinde uzatılabilir ancak ek süreler dahil yirmi dört ayı geçemez. Rapor süresinde ibraz edilmezse ibraz süresinin bitiminden itibaren raporun ibraz edildiği güne kadar her gün için yükümlüye usulsüzlük cezası uygulanır; bu ceza en fazla iki aylık süre için uygulanır ve sürenin sonunda Gümrük Yönetmeliğinde öngörülen işlem yapılır. Süresi geçtikten sonra ibraz edilen raporlar da ancak süre bitiminden itibaren iki ay içinde ibraz edilmiş olması ve cezaların tahsili şartıyla kabul edilir. Bir ay, kapanmış beyannamelerde ticaret politikası önlemi tespitine ilişkin raporun düzenlenme süresidir; üç, altı ve yirmi dört ay ise aynı hükmün uzatma, düzenleme ve azami süre sayılarıdır. Bu nedenle doğru cevap B seçeneğidir. (MD Seri 18 Tebliğ 3, 5)
+**Gerekçe:** Seri No: 18 Tebliğe göre diğer kurumlarca yapılacak kontrollere tabi eşyada, serbest dolaşıma giriş sonrası beyana uygun kullanım, teslim veya işleme konu edilip edilmediğinin tespiti yetkilendirilmiş gümrük müşaviri raporuyla yapılır; rapor beyannamenin tescil tarihinden itibaren altı ay içinde düzenlenir, bu süre üçer aylık dönemler hâlinde uzatılabilir ancak ek süreler dahil yirmi dört ayı geçemez. Rapor süresinde ibraz edilmezse ibraz süresinin bitiminden itibaren raporun ibraz edildiği güne kadar her gün için yükümlüye usulsüzlük cezası uygulanır; bu ceza en fazla iki aylık süre için uygulanır ve sürenin sonunda Gümrük Yönetmeliğinde öngörülen işlem yapılır. Süresi geçtikten sonra ibraz edilen raporlar da ancak süre bitiminden itibaren iki ay içinde ibraz edilmiş olması ve cezaların tahsili şartıyla kabul edilir. Bir ay, kapanmış beyannamelerde ticaret politikası önlemi tespitine ilişkin raporun düzenlenme süresidir; üç, altı ve yirmi dört ay ise diğer kurum kontrollerine ilişkin tespit raporunun uzatma dönemi, düzenleme süresi ve azami süresidir. Bu nedenle doğru cevap B seçeneğidir. (MD Seri 18 Tebliğ 3, 5)
 
 *Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18) md. 3, 4, 5*
 
@@ -492,11 +462,11 @@ E) 30 gün içinde, birinci tahlilin yapıldığı gümrük laboratuvarına
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 3 (II ve IV, I ve II, I, III ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 13, TERİM 5, TERSİNE 5, İSTİSNA 4, YAKIN-SAYI 4, LİSTE-DIŞI 3 |
+| Birebir / parafraz / çıkarım | 16 / 3 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (I ve II, I, III ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 15, TERİM 6, TERSİNE 5, LİSTE-DIŞI 3, SAĞDUYU 3, YAKIN-SAYI 3 |
 | İkiz eksen / ayna | 3, 9 / gemi-hava taşıtı |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 9 |

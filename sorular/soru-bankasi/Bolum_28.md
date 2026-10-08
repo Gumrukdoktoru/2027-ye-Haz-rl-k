@@ -6,87 +6,71 @@ Kaynak: 29-iŞLETİCİLER.txt · 20 soru
 
 ### Sorular
 
-**1-** Gümrük Yönetmeliği'nin geçici depolama yeri addolunan yerlere ilişkin hükümlerine göre aşağıdaki olay verilmiştir:
+**1-** Gümrük Yönetmeliği'nin geçici depolama yerlerine ilişkin hükümlerine göre aşağıdakilerden hangisi, geçici depolama yerinde ya da geçici depolama yeri addolunan yerde üç ay kalabilen ve bu süresi talep hâlinde mücbir sebep belgesi aranmaksızın ilgili gümrük müdürlüğünce üç aya kadar uzatılabilen eşyadır?
 
-- Bir yolcu, ithalat vergilerinden tam muafiyet suretiyle geçici ithal ettiği kişisel kullanımına mahsus otomobilini yurt dışı edilmek üzere gümrük idaresine teslim etmiştir.  
-- Taşıt, gümrük idaresince teslim alınarak bu amaçla kullanılan yere konulmuştur.  
-- Yolcu, taşıtın burada kalma süresinin uzatılmasını talep etmiş, ancak herhangi bir mücbir sebep belgesi ibraz etmemiştir.  
-Buna göre, ilgili gümrük müdürlüğünce yapılabilecek uzatma da dikkate alındığında, taşıt bu yerde en fazla kaç ay kalabilir?  
+A) Limanlardaki geçici depolama yerlerinin mütemmim cüz'ü niteliğindeki açık alanlara konulan ağır ve havaleli eşya  
+B) İhracat veya yeniden ihracat amacıyla geçici depolama yerine konulması talep edilen eşya  
+C) Denizyolu ile gelen ve özet beyan kapsamında geçici depolama yerine konulan eşya  
+D) Denizyolu dışındaki bir yolla gelen ve özet beyan kapsamında geçici depolama yerine konulan eşya  
+E) Tam muafiyetle geçici ithal edilmiş olup yurt dışı edilmek üzere gümrük idaresince teslim alınan kişisel kullanıma mahsus kara taşıtı  
 
-A) 1 ay  
-B) 3 ay  
-C) 4 ay  
-D) 6 ay  
-E) 12 ay  
+**2-** 4458 sayılı Gümrük Kanunu'na göre "geçici depolanan eşya" statüsünde bulunan ve bu şekilde adlandırılan eşya aşağıdakilerden hangisidir?
 
-**2-** 4458 sayılı Gümrük Kanunu'nun eşyanın geçici depolanmasına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+A) Gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar bekleyen eşya  
+B) Özet beyanı verilmiş olmakla birlikte henüz gümrüğe sunulmamış eşya  
+C) Gümrük antrepo rejimine tabi tutularak gümrük antreposuna konulmuş ve antrepodan çıkarılıncaya kadar bekleyen eşya  
+D) Transit rejimine tabi tutularak hareket gümrük idaresinden sevk edilmiş ve varış gümrük idaresine sunuluncaya kadar yolda bulunan eşya  
+E) Geçici ithalat rejimine tabi tutularak ithalat vergilerinden tamamen veya kısmen muaf olarak Türkiye Gümrük Bölgesi içinde kullanılan eşya  
 
-I. Eşya, gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar geçici depolanan eşya statüsünde bulunur.  
-II. Gümrük idareleri, geçici depolanan eşya için tahakkuk edebilecek gümrük vergilerinin ödenmesini sağlamak üzere eşya sahibinden teminat almak zorundadır.  
-III. Geçici depolanan eşya, görünüş ve teknik özelliklerinin değiştirilmemesi koşuluyla, aynı durumda muhafazalarını sağlamak üzere yönetmelikle belirlenen elleçlemeye tabi tutulabilir.  
-IV. Belirlenen süreler içinde kendilerine gümrükçe onaylanmış bir işlem veya kullanım tayini için gerekli işlemlere başlanmamış eşya, adli veya idari takibata konu olsa dahi tasfiye edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+**3-** Gümrük Yönetmeliği'nin antrepo işleticilerince verilecek götürü ve yaygın götürü teminata ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, II ve III  
-E) I, III ve IV  
-
-**3-** Gümrük Yönetmeliği'nin antrepo işleticilerince verilecek yaygın götürü teminata ilişkin hükümlerine göre aşağıdaki olay verilmiştir:
-
-- (K) Anonim Şirketi, işlettiği altı antrepo için yaygın götürü teminat kullanmak istemektedir.  
-- Bu antrepolardan üçü (X) Gümrük ve Dış Ticaret Bölge Müdürlüğü, diğer üçü (Y) Gümrük ve Dış Ticaret Bölge Müdürlüğü bağlantısı gümrük müdürlüklerinin denetimindedir.  
-- Şirket merkezinin bulunduğu il ise (Z) Gümrük ve Dış Ticaret Bölge Müdürlüğüne bağlıdır.  
-Buna göre şirketin yaygın götürü teminat başvurusu nereye yapılır?  
-
-A) (Z) Gümrük ve Dış Ticaret Bölge Müdürlüğüne  
-B) Antrepoların denetiminde bulunduğu gümrük müdürlüklerinin her birine  
-C) İşleticinin tercih edeceği (X) veya (Y) Gümrük ve Dış Ticaret Bölge Müdürlüğüne  
-D) (X) ve (Y) Gümrük ve Dış Ticaret Bölge Müdürlüklerinin her birine ayrı ayrı  
-E) Bakanlığa (Tasfiye Hizmetleri Genel Müdürlüğü)  
+A) Götürü teminat verilen antrepoya konulan eşya için başka bir teminat aranmaz.  
+B) Birden fazla antreposu bulunan antrepo işleticilerince, birden fazla antrepoyu kapsayacak şekilde yaygın götürü teminat verilebilir.  
+C) Yaygın götürü teminatın kullanılacağı antrepo sayısının 5 ve üzeri olduğu durumda, hesaplanan götürü teminatların toplam tutarının %75'i kadar yaygın götürü teminat verilebilir.  
+D) Yaygın götürü teminat kullanılması talep edilen antrepolar birden fazla bölge müdürlüğü bağlantısı gümrük müdürlüğünün denetimindeyse başvuru, işleticinin en fazla antreposunun bulunduğu bölge müdürlüğüne, bu şekilde belirleme yapılamazsa Bakanlığa yapılır.  
+E) Alan veya hacim değişikliği nedeniyle mevcut teminat tutarı yetersiz kalırsa ek teminat mektubu, değişikliği takip eden bir ay içerisinde önceki teminatın verildiği bölge müdürlüğüne verilir.  
 
 **4-** Gümrük Yönetmeliği'ne göre makine ve yedek parça depolamak amacıyla özel antrepo açıp işletmek isteyen bir anonim şirket bakımından aşağıdakilerden hangisi aranmaz?
 
 A) Yönetim kurulu başkan ve üyeleri ile şirket sermayesinin %10 veya daha fazlasına sahip gerçek kişiler hakkında sayılan suçlardan kesinleşmiş mahkumiyet kararı bulunmaması  
-B) Gümrük mevzuatı uyarınca kesinleşmiş vergi ve ceza borcu ile vergi mevzuatı uyarınca kesinleşmiş vergi borcu bulunmaması  
-C) Başvurunun Ek-81'de yer alan taahhütname ile antreponun bağlı bulunacağı gümrük müdürlüğüne yapılması  
-D) Yatırım yapmadan önce antreponun bağlı bulunacağı gümrük müdürlüğüne başvurularak yatırım izni alınması  
+B) Yatırım yapmadan önce antreponun bağlı bulunacağı gümrük müdürlüğüne başvurularak yatırım izni alınması  
+C) Gümrük mevzuatı uyarınca kesinleşmiş vergi ve ceza borcu ile vergi mevzuatı uyarınca kesinleşmiş vergi borcu bulunmaması  
+D) Başvurunun Ek-81'de yer alan taahhütname ile antreponun bağlı bulunacağı gümrük müdürlüğüne yapılması  
 E) Antrepo olarak kullanılacak alanların Ek-80'de antrepolarda aranacak şart ve nitelikler olarak belirtilen koşulları taşıması  
 
 **5-** Gümrük Yönetmeliği'ne göre antrepo yatırım izni verilen başvuru sahibinin, antrepo olarak açılmak istenen tesisi hazır hâle getirerek ilgili gümrük müdürlüğüne başvurması gereken süre aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
 A) Yatırım izni başvurusunun yapıldığı tarihten itibaren altı ay içinde  
-B) Kendisine yapılacak bildirim tarihinden itibaren altı ay içinde  
-C) Bakanlıkça yatırım izni verildiği tarihten itibaren altı ay içinde  
-D) Kendisine yapılacak bildirim tarihinden itibaren üç ay içinde  
+B) Bakanlıkça yatırım izni verildiği tarihten itibaren altı ay içinde  
+C) Kendisine yapılacak bildirim tarihinden itibaren üç ay içinde  
+D) Kendisine yapılacak bildirim tarihinden itibaren altı ay içinde  
 E) Kendisine yapılacak bildirim tarihinden itibaren bir yıl içinde  
 
 **6-** Gümrük Yönetmeliği'ne göre genel antrepo olarak açılıp işletilmesi istenen yerler için öngörülen asgari alan büyüklüğü şartına tabi olmayan antrepolar arasında aşağıdakilerden hangisi yer almaz?
 
 A) Soğuk hava tertibatı gerektiren eşyanın konulduğu antrepolar  
-B) Kıymetli maden ve kıymetli taşların konulduğu antrepolar  
-C) Yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren antrepolar  
-D) Havalimanı sahasında bulunan ve havayolu ile kargo taşımacılığında kullanılan antrepolar  
-E) Ağır ve havaleli eşyanın konulmasına mahsus açık alanlardan oluşan antrepolar  
+B) Ağır ve havaleli eşyanın konulmasına mahsus açık alanlardan oluşan antrepolar  
+C) Kıymetli maden ve kıymetli taşların konulduğu antrepolar  
+D) Yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren antrepolar  
+E) Havalimanı sahasında bulunan ve havayolu ile kargo taşımacılığında kullanılan antrepolar  
 
 **7-** Gümrük Yönetmeliği'ne göre antrepo ve geçici depolama yerlerinde yapılacak değişikliklere ilişkin talepler ile bu talepleri sonuçlandıran merciler aşağıda eşleştirilmiştir.
 
 Bu eşleştirmelerden hangisi yanlıştır?  
 
 A) Antrepo planında değişiklik yapılmasını gerektiren tadilat, genişletme ve daraltma talepleri – Bölge müdürlüğü  
-B) Geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektirmeyen talepler – Gümrük müdürlüğü  
-C) Antrepo planında değişiklik yapılmasını gerektirmeyen değişiklik talepleri – Gümrük müdürlüğü  
-D) Antreponun aynı gümrük idaresi denetiminde bulunan başka bir adrese taşınması talepleri – Bakanlık  
-E) Geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektiren talepler – Bakanlık  
+B) Antrepo planında değişiklik yapılmasını gerektirmeyen değişiklik talepleri – Gümrük müdürlüğü  
+C) Antreponun aynı gümrük idaresi denetiminde bulunan başka bir adrese taşınması talepleri – Bakanlık  
+D) Geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektiren talepler – Bakanlık  
+E) Geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektirmeyen talepler – Gümrük müdürlüğü  
 
 **8-** Gümrük Yönetmeliği'ne göre gümrüklü sahada veya gümrük idaresi bulunan deniz ve hava limanı içerisinde ya da iç gümrük idarelerinde gümrük müdürlüğüne bitişik olarak açılanlar dışında kalan geçici depolama yerleri için genel olarak aranan alan ve mesafe şartları aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
 A) En az %20'si kapalı olmak üzere 5.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 50 km mesafede olması  
-B) En az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 20 km mesafede olması  
-C) En az 5.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
-D) En az %20'si kapalı olmak üzere 3.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
-E) En az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
+B) En az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
+C) En az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 20 km mesafede olması  
+D) En az 5.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
+E) En az %20'si kapalı olmak üzere 3.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
 
 **9-** Gümrük Yönetmeliği'nin antrepo stok kayıtlarına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
 
@@ -96,24 +80,24 @@ III. F tipi antrepoda gümrük kayıtları stok kayıtlarının yerini alır.
 IV. E tipi antrepoda stok kayıtlarına giriş işlemi, eşyanın izin hak sahibinin antrepo addedilen depolama yerine ulaştığında yapılır.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, III ve IV  
+A) I, III ve IV  
+B) I ve III  
+C) II ve IV  
+D) I, II ve III  
 E) I, II, III ve IV  
 
 **10-** Gümrük Yönetmeliği'ne göre antrepo işleticileri ve kullanıcılarının antrepoya alınan eşya nedeniyle gümrük idaresine karşı mali sorumluluğuna ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Eşya gümrük vergileri de dahil olduğu halde sigortalanmış ve bu vergiler sigorta şirketinden tazminat olarak alınmışsa, noksanlıklara ait gümrük vergileri antrepo işleticisinden alınır.  
-B) Sorumluluk, eşyanın girerken gümrük idaresince tespit edilen miktarı, tespit yapılmamışsa belgelerinde yazılı miktarları üzerinden doğar.  
-C) Eşyanın tabiatından doğan kayıp ve firelerin gümrük idaresine ispat edilmesi ve bunun idarece de kabul edilmesi halinde sorumluluk söz konusu olmaz.  
+A) Sorumluluk, eşyanın girerken gümrük idaresince tespit edilen miktarı, tespit yapılmamışsa belgelerinde yazılı miktarları üzerinden doğar.  
+B) Eşyanın tabiatından doğan kayıp ve firelerin gümrük idaresine ispat edilmesi ve bunun idarece de kabul edilmesi halinde sorumluluk söz konusu olmaz.  
+C) Eşya gümrük vergileri de dahil olduğu halde sigortalanmış ve bu vergiler sigorta şirketinden tazminat olarak alınmışsa, noksanlıklara ait gümrük vergileri antrepo işleticisinden alınır.  
 D) Tabiatları gereği antrepolarda fire veren eşyanın ek-11'de yer alması halinde fire miktarlarının belirlenmesinde bu oranlar dikkate alınır.  
 E) Denizyoluyla konteyner ile getirilip giriş gümrük idaresince miktar tespiti yapılmaksızın aynı gümrük müdürlüğüne bağlı antrepoya sevk edilen eşyanın kap adedinde farklılık tespit edilirse, kullanıcıdan farklılığın sebebini 45 gün içinde izah etmesi istenir.  
 
 **11-** Gümrük Yönetmeliği'ne göre antrepolarda yapılacak değişikliklere ilişkin olarak yetkilendirilmiş gümrük müşavirince düzenlenecek tespit raporu ile ilgili aşağıdakilerden hangisi doğrudur?
 
-A) Antrepoda yapılacak her türlü değişiklik talebinde, antrepo planında değişiklik gerektirip gerektirmediğine bakılmaksızın tespit raporu düzenlenmesi zorunludur.  
-B) İznin Bakanlıkça verildiği durumlarda tespit raporları Bakanlığa (Tasfiye Hizmetleri Genel Müdürlüğü) da gönderilir.  
+A) İznin Bakanlıkça verildiği durumlarda tespit raporları Bakanlığa (Tasfiye Hizmetleri Genel Müdürlüğü) da gönderilir.  
+B) Antrepoda yapılacak her türlü değişiklik talebinde, antrepo planında değişiklik gerektirip gerektirmediğine bakılmaksızın tespit raporu düzenlenmesi zorunludur.  
 C) Tespit raporu yalnızca akaryakıt antrepolarına ilişkin tank ilavesi taleplerinde düzenlenir.  
 D) Antreponun başka bir adrese taşınması taleplerinde tespit raporu düzenlenmez; gümrük müdürlüğünce düzenlenen görgü raporu yeterlidir.  
 E) Antrepo planında değişiklik gerektiren tadilat, genişletme ve daraltma taleplerinde tespit raporu, yetkilendirilmiş gümrük müşaviri yerine bölge müdürlüğünce düzenlenir.  
@@ -134,11 +118,11 @@ III. Ağır kusur durumunda da işleticiye süre verilir ve bu süre içinde ant
 IV. Verilen süreler en fazla bir kez ve verilen süre kadar uzatılır.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) II ve IV  
-B) I ve II  
-C) III ve IV  
-D) I, II ve IV  
-E) II, III ve IV  
+A) I ve II  
+B) III ve IV  
+C) I, II ve IV  
+D) II, III ve IV  
+E) II ve IV  
 
 **14-** Gümrük Yönetmeliği'nin antrepo işleticilerince verilecek götürü teminata ilişkin hükümlerine göre aşağıdaki bilgiler verilmiştir:
 
@@ -170,16 +154,16 @@ E) Bir yıl
 
 **17-** Gümrük Yönetmeliği'nde yer alan akaryakıt antrepoları tanımına göre, bu antrepolara dökme veya kaplı olarak konulmasına özgü olduğu belirtilen eşya arasında aşağıdakilerden hangisi yer almaz?
 
-A) Ham petrol  
-B) Jet yakıtı  
-C) Bio dizel  
-D) Sıvılaştırılmış petrol gazı (LPG)  
-E) Hammadde ve solvent nafta  
+A) Hammadde ve solvent nafta  
+B) Ham petrol  
+C) Jet yakıtı  
+D) Bio dizel  
+E) Sıvılaştırılmış petrol gazı (LPG)  
 
 **18-** Gümrük Yönetmeliği'ne göre antrepo açma ve işletme izninin geri alınmasının sonuçlarına ilişkin aşağıdakilerden hangisi doğrudur?
 
-A) Antrepoda kaçakçılık gibi bir suistimal saptanması nedeniyle antrepo açma ve işletme izni geri alınan kişilere yeni bir antrepo açma ve işletme izni verilmez.  
-B) Sahiplerinin isteği üzerine kapatılan antreponun işleticisi olan şirketin yönetim kurulu üyelerinin yer aldığı diğer tüzel kişilere, kapatma tarihinden itibaren beş yıl süreyle antrepo açma izni verilmez.  
+A) Sahiplerinin isteği üzerine kapatılan antreponun işleticisi olan şirketin yönetim kurulu üyelerinin yer aldığı diğer tüzel kişilere, kapatma tarihinden itibaren beş yıl süreyle antrepo açma izni verilmez.  
+B) Antrepoda kaçakçılık gibi bir suistimal saptanması nedeniyle antrepo açma ve işletme izni geri alınan kişilere yeni bir antrepo açma ve işletme izni verilmez.  
 C) İzni geri alınan şirketin ortaklarının yer aldığı diğer tüzel kişilere, iznin geri alındığı tarihten itibaren üç yıl süreyle yeniden antrepo açma izni verilmez.  
 D) Yasaklama süresi geçtikten sonra bu kişilerin antrepo açma veya devralma müracaatları bölge müdürlüğünce sonuçlandırılır.  
 E) Antrepo işleticisinin taahhüt ve yükümlülüklerine aykırı hareket etmesi nedeniyle vergi kaybına neden olunması hâlinde izin geri alınamaz; yalnızca antrepoya eşya girişi durdurulur.  
@@ -188,8 +172,8 @@ E) Antrepo işleticisinin taahhüt ve yükümlülüklerine aykırı hareket etme
 
 A) Gümrüklü sahalar  
 B) Genel antrepolar  
-C) Geçici depolama yerleri  
-D) Rezerve yerleri  
+C) Rezerve yerleri  
+D) Geçici depolama yerleri  
 E) Yolcu beraberi eşya ambarları  
 
 **20-** Gümrük Yönetmeliği'nin geçici depolama yerlerinden eşyanın kesin çıkış işlemlerine ilişkin hükmü ile ilgili aşağıdakilerden hangisi doğrudur?
@@ -204,103 +188,87 @@ E) Hükmün 25.05.2022 tarihli değişiklikle kazandığı hâli, 12.08.2026 tar
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D | B | A | D | B | E | B | E | D | A | B | C | A | C | D | C | E | A | C | E |
+| E | A | D | B | D | B | E | B | A | C | A | C | E | C | D | C | A | B | D | E |
 
 ### Çözümler
 
-*Gümrük Yönetmeliği md. 79*
+*Gümrük Yönetmeliği md. 79, 417; 4458 sayılı Gümrük Kanunu md. 46*
 
-**1-** Gümrük Yönetmeliği'nin geçici depolama yeri addolunan yerlere ilişkin hükümlerine göre aşağıdaki olay verilmiştir:
+**1-** Gümrük Yönetmeliği'nin geçici depolama yerlerine ilişkin hükümlerine göre aşağıdakilerden hangisi, geçici depolama yerinde ya da geçici depolama yeri addolunan yerde üç ay kalabilen ve bu süresi talep hâlinde mücbir sebep belgesi aranmaksızın ilgili gümrük müdürlüğünce üç aya kadar uzatılabilen eşyadır?
 
-- Bir yolcu, ithalat vergilerinden tam muafiyet suretiyle geçici ithal ettiği kişisel kullanımına mahsus otomobilini yurt dışı edilmek üzere gümrük idaresine teslim etmiştir.  
-- Taşıt, gümrük idaresince teslim alınarak bu amaçla kullanılan yere konulmuştur.  
-- Yolcu, taşıtın burada kalma süresinin uzatılmasını talep etmiş, ancak herhangi bir mücbir sebep belgesi ibraz etmemiştir.  
-Buna göre, ilgili gümrük müdürlüğünce yapılabilecek uzatma da dikkate alındığında, taşıt bu yerde en fazla kaç ay kalabilir?  
+A) Limanlardaki geçici depolama yerlerinin mütemmim cüz'ü niteliğindeki açık alanlara konulan ağır ve havaleli eşya  
+B) İhracat veya yeniden ihracat amacıyla geçici depolama yerine konulması talep edilen eşya  
+C) Denizyolu ile gelen ve özet beyan kapsamında geçici depolama yerine konulan eşya  
+D) Denizyolu dışındaki bir yolla gelen ve özet beyan kapsamında geçici depolama yerine konulan eşya  
+E) Tam muafiyetle geçici ithal edilmiş olup yurt dışı edilmek üzere gümrük idaresince teslim alınan kişisel kullanıma mahsus kara taşıtı  
 
-A) 1 ay  
-B) 3 ay  
-C) 4 ay  
-D) 6 ay  
-E) 12 ay  
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre limanlardaki geçici depolama yerlerinin mütemmim cüz'ü niteliğindeki ağır ve havaleli eşyaya mahsus açık alanlar, yolcu eşyasına mahsus gümrük ambarları ve ithalat vergilerinden tam muafiyet suretiyle geçici ithal edilip yurt dışı edilmek ya da gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmak üzere gümrük idarelerince teslim alınan kişisel kullanıma mahsus kara taşıtlarının konulduğu yerler geçici depolama yeri addolunur. Aynı hükme göre buralarda üç ay kalabilen ve bu süresi talep hâlinde mücbir sebep belgesi aranmaksızın ilgili gümrük müdürlüğünce üç aya kadar uzatılabilen eşya yalnızca yolcu eşyası ve taşıtlardır; ağır ve havaleli eşya bu cümlenin öznesi değildir. İhracat veya yeniden ihracat amacıyla geçici depolama yerine konulan eşya bir ay kalabilir ve gümrük müdürlüklerince en çok üç aya kadar ek süre verilebilir. Özet beyan kapsamındaki eşyada gümrükçe onaylanmış işlem veya kullanıma ilişkin işlemler, Gümrük Kanunu'na göre denizyolu ile gelen eşyada özet beyanın verildiği tarihten itibaren kırk beş günde, diğer yollarla gelen eşyada yirmi günde tamamlanır. En güçlü çeldirici ağır ve havaleli eşyadır: aynı cümlede geçici depolama yeri addolunan yerler arasında sayılır, ancak üç aylık süre yalnızca yolcu eşyası ve taşıtlar için öngörülmüştür. Bu nedenle doğru cevap E seçeneğidir. (MD GY 79, 417; GK 46)
 
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre ithalat vergilerinden tam muafiyet suretiyle geçici ithal edilen ve yurt dışı edilmek ya da gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmak üzere gümrük idarelerince teslim alınan kişisel kullanıma mahsus kara taşıtlarının konulduğu yerler geçici depolama yeri addolunur. Yolcu eşyası ve taşıtlar buralarda üç ay kalabilir; bu süre talep hâlinde mücbir sebep belgesi aranmaksızın ilgili gümrük müdürlüğünce üç aya kadar uzatılabilir. Olayda yolcu uzatma talep etmiştir; mücbir sebep belgesinin bulunmaması uzatmaya engel değildir. Bu nedenle taşıt üç aylık süre ile üç aylık uzatma birlikte en fazla altı ay kalabilir. En güçlü çeldirici '3 ay' seçeneğidir: uzatma için mücbir sebep belgesi gerektiğini sanan aday bu şıkka yönelir. '1 ay' ve '4 ay' ise ihracat amacıyla geçici depolama yerine konulan eşyanın bir aylık kalış süresi ile en çok üç aylık ek süresinden gelir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 79)
+*4458 sayılı Gümrük Kanunu md. 3, 47; Gümrük Yönetmeliği md. 77*
 
-*4458 sayılı Gümrük Kanunu md. 47, 48, 49, 50*
+**2-** 4458 sayılı Gümrük Kanunu'na göre "geçici depolanan eşya" statüsünde bulunan ve bu şekilde adlandırılan eşya aşağıdakilerden hangisidir?
 
-**2-** 4458 sayılı Gümrük Kanunu'nun eşyanın geçici depolanmasına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+A) Gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar bekleyen eşya  
+B) Özet beyanı verilmiş olmakla birlikte henüz gümrüğe sunulmamış eşya  
+C) Gümrük antrepo rejimine tabi tutularak gümrük antreposuna konulmuş ve antrepodan çıkarılıncaya kadar bekleyen eşya  
+D) Transit rejimine tabi tutularak hareket gümrük idaresinden sevk edilmiş ve varış gümrük idaresine sunuluncaya kadar yolda bulunan eşya  
+E) Geçici ithalat rejimine tabi tutularak ithalat vergilerinden tamamen veya kısmen muaf olarak Türkiye Gümrük Bölgesi içinde kullanılan eşya  
 
-I. Eşya, gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar geçici depolanan eşya statüsünde bulunur.  
-II. Gümrük idareleri, geçici depolanan eşya için tahakkuk edebilecek gümrük vergilerinin ödenmesini sağlamak üzere eşya sahibinden teminat almak zorundadır.  
-III. Geçici depolanan eşya, görünüş ve teknik özelliklerinin değiştirilmemesi koşuluyla, aynı durumda muhafazalarını sağlamak üzere yönetmelikle belirlenen elleçlemeye tabi tutulabilir.  
-IV. Belirlenen süreler içinde kendilerine gümrükçe onaylanmış bir işlem veya kullanım tayini için gerekli işlemlere başlanmamış eşya, adli veya idari takibata konu olsa dahi tasfiye edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, II ve III  
-E) I, III ve IV  
-
-**Doğru Cevap:** B  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre eşya, gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar geçici depolanan eşya statüsünde bulunur; geçici depolama bir rejim değil, bir statüdür (I doğru). Gümrük idareleri geçici depolanan eşya için tahakkuk edebilecek gümrük vergilerinin ödenmesini sağlamak üzere eşya sahibinden teminat isteyebilir; Kanun teminatı idarenin takdirine bırakmış, zorunlu tutmamıştır (II yanlış). Geçici depolanan eşya, görünüş ve teknik özellikleri değiştirilmemek koşuluyla, aynı durumda muhafazasını sağlamak üzere yönetmelikle belirlenen elleçlemeye tabi tutulabilir (III doğru). Süresi içinde gümrükçe onaylanmış işlem veya kullanım tayini için işlemlerine başlanmamış eşya ancak herhangi bir adli veya idari takibata konu olmaması hâlinde tasfiye edilir (IV yanlış). En güçlü çeldiriciler II'yi içeren kombinasyonlardır: teminatın zorunlu olarak istendiği hâl, Yönetmelikte geçici depolama yeri bulunmayan yerlere konulan eşyaya ilişkindir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 47-50; GY 79)
+**Doğru Cevap:** A  
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre eşya, gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar geçici depolanan eşya statüsünde bulunur ve bu şekilde adlandırılır. Statü gümrüğe sunuşla başlar ve eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasıyla sona erer; geçici depolama bir gümrük rejimi değil, rejim beyanına kadar süren bir statüdür. Özet beyan eşyanın gümrüğe sunulmasından önce de verilebilir; ancak Gümrük Yönetmeliği'ne göre bu durumda Kanundaki geçici depolama süreleri eşyanın gümrüğe sunulduğu tarihten başlar, yani statü sunuşla doğar. Gümrük antrepo rejimi, transit rejimi ve geçici ithalat rejimi ise Kanunda sayılan gümrük rejimleridir; eşyanın bir gümrük rejimine tabi tutulması gümrükçe onaylanmış bir işlem veya kullanım olduğundan geçici depolanan eşya statüsünü sona erdirir. En güçlü çeldirici antrepoya konulan eşyadır: antrepo da gümrük gözetimi altındaki eşyanın konulduğu bir yerdir, ancak eşya oraya bir rejim beyanıyla girer. Bu nedenle doğru cevap A seçeneğidir. (MD GK 3, 47; GY 77)
 
 *Gümrük Yönetmeliği md. 527*
 
-**3-** Gümrük Yönetmeliği'nin antrepo işleticilerince verilecek yaygın götürü teminata ilişkin hükümlerine göre aşağıdaki olay verilmiştir:
+**3-** Gümrük Yönetmeliği'nin antrepo işleticilerince verilecek götürü ve yaygın götürü teminata ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-- (K) Anonim Şirketi, işlettiği altı antrepo için yaygın götürü teminat kullanmak istemektedir.  
-- Bu antrepolardan üçü (X) Gümrük ve Dış Ticaret Bölge Müdürlüğü, diğer üçü (Y) Gümrük ve Dış Ticaret Bölge Müdürlüğü bağlantısı gümrük müdürlüklerinin denetimindedir.  
-- Şirket merkezinin bulunduğu il ise (Z) Gümrük ve Dış Ticaret Bölge Müdürlüğüne bağlıdır.  
-Buna göre şirketin yaygın götürü teminat başvurusu nereye yapılır?  
+A) Götürü teminat verilen antrepoya konulan eşya için başka bir teminat aranmaz.  
+B) Birden fazla antreposu bulunan antrepo işleticilerince, birden fazla antrepoyu kapsayacak şekilde yaygın götürü teminat verilebilir.  
+C) Yaygın götürü teminatın kullanılacağı antrepo sayısının 5 ve üzeri olduğu durumda, hesaplanan götürü teminatların toplam tutarının %75'i kadar yaygın götürü teminat verilebilir.  
+D) Yaygın götürü teminat kullanılması talep edilen antrepolar birden fazla bölge müdürlüğü bağlantısı gümrük müdürlüğünün denetimindeyse başvuru, işleticinin en fazla antreposunun bulunduğu bölge müdürlüğüne, bu şekilde belirleme yapılamazsa Bakanlığa yapılır.  
+E) Alan veya hacim değişikliği nedeniyle mevcut teminat tutarı yetersiz kalırsa ek teminat mektubu, değişikliği takip eden bir ay içerisinde önceki teminatın verildiği bölge müdürlüğüne verilir.  
 
-A) (Z) Gümrük ve Dış Ticaret Bölge Müdürlüğüne  
-B) Antrepoların denetiminde bulunduğu gümrük müdürlüklerinin her birine  
-C) İşleticinin tercih edeceği (X) veya (Y) Gümrük ve Dış Ticaret Bölge Müdürlüğüne  
-D) (X) ve (Y) Gümrük ve Dış Ticaret Bölge Müdürlüklerinin her birine ayrı ayrı  
-E) Bakanlığa (Tasfiye Hizmetleri Genel Müdürlüğü)  
-
-**Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre yaygın götürü teminata ilişkin başvurular ilgili bölge müdürlüğüne yapılır. Yaygın götürü teminat kullanılması talep edilen antrepolar birden fazla bölge müdürlüğü bağlantısı gümrük müdürlüğünün denetimindeyse başvuru, işleticinin bu kapsamdaki en fazla antreposunun bulunduğu bölge müdürlüğüne yapılır; bu şekilde belirleme yapılamıyorsa işleticinin şirket merkezinin bulunduğu ilin bağlı olduğu bölge müdürlüğüne yapılır ve işlemler o bölge müdürlüğünce sonuçlandırılır. Olayda antrepolar iki bölge müdürlüğü arasında üçer üçer dağıldığı için 'en fazla antrepo' ölçütüyle belirleme yapılamaz; bu yüzden şirket merkezinin bulunduğu ilin bağlı olduğu (Z) Bölge Müdürlüğü yetkilidir. En güçlü çeldirici işleticinin (X) ile (Y) arasında tercih yapabileceğini söyleyen seçenektir: tercih hakkı, genel antreponun 50 km içinde birden fazla yetkili gümrük müdürlüğü bulunmasına ilişkin ayrı bir hükümdür. Başvurunun gümrük müdürlüklerine yapılacağı düşüncesi de yanlıştır; götürü ve yaygın götürü teminat işlemleri bölge müdürlüğünde yürür. Bu nedenle doğru cevap A seçeneğidir. (MD GY 527)
+**Doğru Cevap:** D  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepo işleticilerince antrepo rejiminde kullanılmak üzere götürü teminat verilebilir ve götürü teminat verilen antrepoya konulan eşya için başka bir teminat aranmaz. Birden fazla antreposu bulunan işleticiler, birden fazla antrepoyu kapsayacak şekilde yaygın götürü teminat verebilir; yaygın götürü teminatın kullanılacağı antrepo sayısı 5 ve üzerindeyse hesaplanan götürü teminatların toplam tutarının %75'i kadar yaygın götürü teminat verilebilir. Alan veya hacim değişikliği nedeniyle teminat yetersiz kalırsa ek teminat mektubu, değişikliği takip eden bir ay içinde önceki teminatın verildiği bölge müdürlüğüne verilir. Yaygın götürü teminat başvuruları ilgili bölge müdürlüğüne yapılır; antrepolar birden fazla bölge müdürlüğü bağlantısı gümrük müdürlüğünün denetimindeyse başvuru, işleticinin bu kapsamdaki en fazla antreposunun bulunduğu bölge müdürlüğüne, bu şekilde belirleme yapılamazsa (örneğin antrepolar iki bölgeye eşit dağılmışsa) Bakanlığa değil, işleticinin şirket merkezinin bulunduğu ilin bağlı olduğu bölge müdürlüğüne yapılır ve işlemler bölge müdürlüğünce sonuçlandırılır. Yanlış seçenekte belirleme yapılamayan hâldeki makam değiştirilmiştir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 527)
 
 *Gümrük Yönetmeliği md. 518, 520, 521, 534*
 
 **4-** Gümrük Yönetmeliği'ne göre makine ve yedek parça depolamak amacıyla özel antrepo açıp işletmek isteyen bir anonim şirket bakımından aşağıdakilerden hangisi aranmaz?
 
 A) Yönetim kurulu başkan ve üyeleri ile şirket sermayesinin %10 veya daha fazlasına sahip gerçek kişiler hakkında sayılan suçlardan kesinleşmiş mahkumiyet kararı bulunmaması  
-B) Gümrük mevzuatı uyarınca kesinleşmiş vergi ve ceza borcu ile vergi mevzuatı uyarınca kesinleşmiş vergi borcu bulunmaması  
-C) Başvurunun Ek-81'de yer alan taahhütname ile antreponun bağlı bulunacağı gümrük müdürlüğüne yapılması  
-D) Yatırım yapmadan önce antreponun bağlı bulunacağı gümrük müdürlüğüne başvurularak yatırım izni alınması  
+B) Yatırım yapmadan önce antreponun bağlı bulunacağı gümrük müdürlüğüne başvurularak yatırım izni alınması  
+C) Gümrük mevzuatı uyarınca kesinleşmiş vergi ve ceza borcu ile vergi mevzuatı uyarınca kesinleşmiş vergi borcu bulunmaması  
+D) Başvurunun Ek-81'de yer alan taahhütname ile antreponun bağlı bulunacağı gümrük müdürlüğüne yapılması  
 E) Antrepo olarak kullanılacak alanların Ek-80'de antrepolarda aranacak şart ve nitelikler olarak belirtilen koşulları taşıması  
 
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepo açma ve işletme izni almak üzere başvuracak kişiler kural olarak yatırım yapmadan önce antreponun bağlı bulunacağı gümrük müdürlüğüne dilekçeyle başvurur ve yatırım izni talepleri Bakanlıkça sonuçlandırılır; ancak akaryakıt antrepoları hariç olmak üzere özel antrepolar için yatırım izni aranmaz. Makine ve yedek parça depolanacak özel antrepo akaryakıt antreposu olmadığından yatırım izni aranmaz. Buna karşılık antrepo açma izni için anonim şirketin yönetim kurulu başkan ve üyeleri ile sermayenin %10 veya daha fazlasına sahip gerçek kişiler hakkında sayılan suçlardan kesinleşmiş mahkumiyet kararı bulunmaması, şirketin gümrük mevzuatı uyarınca kesinleşmiş vergi ve ceza borcu ile vergi mevzuatı uyarınca kesinleşmiş vergi borcu bulunmaması, başvurunun Ek-80'deki belgeler ve Ek-81'deki taahhütnameyle yapılması ve kullanılacak alanların Ek-80'deki şart ve nitelikleri taşıması aranır. En güçlü çeldirici sicil şartıdır: bu şart yatırım iznine ilişkin hükümde yer aldığı için yalnız yatırım iznine bağlı sanılır; oysa antrepo açma izni almak üzere başvuracak anonim şirketlerin tümü için aranır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 518, 520, 521, 534)
+**Doğru Cevap:** B  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepo açma ve işletme izni almak üzere başvuracak kişiler kural olarak yatırım yapmadan önce antreponun bağlı bulunacağı gümrük müdürlüğüne dilekçeyle başvurur ve yatırım izni talepleri Bakanlıkça sonuçlandırılır; ancak akaryakıt antrepoları hariç olmak üzere özel antrepolar için yatırım izni aranmaz. Makine ve yedek parça depolanacak özel antrepo akaryakıt antreposu olmadığından yatırım izni aranmaz. Buna karşılık antrepo açma izni için anonim şirketin yönetim kurulu başkan ve üyeleri ile sermayenin %10 veya daha fazlasına sahip gerçek kişiler hakkında sayılan suçlardan kesinleşmiş mahkumiyet kararı bulunmaması, şirketin gümrük mevzuatı uyarınca kesinleşmiş vergi ve ceza borcu ile vergi mevzuatı uyarınca kesinleşmiş vergi borcu bulunmaması, başvurunun Ek-80'deki belgeler ve Ek-81'deki taahhütnameyle yapılması ve kullanılacak alanların Ek-80'deki şart ve nitelikleri taşıması aranır. En güçlü çeldirici sicil şartıdır: bu şart yatırım iznine ilişkin hükümde yer aldığı için yalnız yatırım iznine bağlı sanılır; oysa antrepo açma izni almak üzere başvuracak anonim şirketlerin tümü için aranır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 518, 520, 521, 534)
 
 *Gümrük Yönetmeliği md. 518*
 
 **5-** Gümrük Yönetmeliği'ne göre antrepo yatırım izni verilen başvuru sahibinin, antrepo olarak açılmak istenen tesisi hazır hâle getirerek ilgili gümrük müdürlüğüne başvurması gereken süre aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
 A) Yatırım izni başvurusunun yapıldığı tarihten itibaren altı ay içinde  
-B) Kendisine yapılacak bildirim tarihinden itibaren altı ay içinde  
-C) Bakanlıkça yatırım izni verildiği tarihten itibaren altı ay içinde  
-D) Kendisine yapılacak bildirim tarihinden itibaren üç ay içinde  
+B) Bakanlıkça yatırım izni verildiği tarihten itibaren altı ay içinde  
+C) Kendisine yapılacak bildirim tarihinden itibaren üç ay içinde  
+D) Kendisine yapılacak bildirim tarihinden itibaren altı ay içinde  
 E) Kendisine yapılacak bildirim tarihinden itibaren bir yıl içinde  
 
-**Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre yatırım izni verilen başvuru sahiplerine yapılacak bildirim tarihinden itibaren altı ay içerisinde antrepo olarak açılmak istenen tesisin veya yerin hazır hâle getirilerek ilgili gümrük müdürlüğüne başvurulması gerekir. Bu sürede tesis hazırlanamaz veya belgeler sunulamazsa süre içinde ilgili gümrük müdürlüğü ve bölge müdürlüğü aracılığıyla Bakanlıktan ek süre istenir; verilen ek süre içinde başvuru yapılmaz ya da süre bitiminde yeniden ek süre talep edilmezse yatırım izni iptal edilebilir. Sürenin başlangıcı iznin verildiği ya da başvurunun yapıldığı tarih değil, izin sahibine yapılan bildirimin tarihidir. En güçlü çeldirici 'Bakanlıkça yatırım izni verildiği tarihten itibaren altı ay içinde' seçeneğidir: süre miktarı doğru, başlangıç anı yanlıştır. 'Üç ay' hafif kusurda verilen süreden, 'bir yıl' yükümlülüklerin yerine getirilmesi için verilebilecek azami süreden gelir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 518)
+**Doğru Cevap:** D  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre yatırım izni verilen başvuru sahiplerine yapılacak bildirim tarihinden itibaren altı ay içerisinde antrepo olarak açılmak istenen tesisin veya yerin hazır hâle getirilerek ilgili gümrük müdürlüğüne başvurulması gerekir. Bu sürede tesis hazırlanamaz veya belgeler sunulamazsa süre içinde ilgili gümrük müdürlüğü ve bölge müdürlüğü aracılığıyla Bakanlıktan ek süre istenir; verilen ek süre içinde başvuru yapılmaz ya da süre bitiminde yeniden ek süre talep edilmezse yatırım izni iptal edilebilir. Sürenin başlangıcı iznin verildiği ya da başvurunun yapıldığı tarih değil, izin sahibine yapılan bildirimin tarihidir. En güçlü çeldirici 'Bakanlıkça yatırım izni verildiği tarihten itibaren altı ay içinde' seçeneğidir: süre miktarı doğru, başlangıç anı yanlıştır. 'Üç ay' hafif kusurda verilen süreden, 'bir yıl' yükümlülüklerin yerine getirilmesi için verilebilecek azami süreden gelir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 518)
 
 *Gümrük Yönetmeliği md. 519*
 
 **6-** Gümrük Yönetmeliği'ne göre genel antrepo olarak açılıp işletilmesi istenen yerler için öngörülen asgari alan büyüklüğü şartına tabi olmayan antrepolar arasında aşağıdakilerden hangisi yer almaz?
 
 A) Soğuk hava tertibatı gerektiren eşyanın konulduğu antrepolar  
-B) Kıymetli maden ve kıymetli taşların konulduğu antrepolar  
-C) Yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren antrepolar  
-D) Havalimanı sahasında bulunan ve havayolu ile kargo taşımacılığında kullanılan antrepolar  
-E) Ağır ve havaleli eşyanın konulmasına mahsus açık alanlardan oluşan antrepolar  
+B) Ağır ve havaleli eşyanın konulmasına mahsus açık alanlardan oluşan antrepolar  
+C) Kıymetli maden ve kıymetli taşların konulduğu antrepolar  
+D) Yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren antrepolar  
+E) Havalimanı sahasında bulunan ve havayolu ile kargo taşımacılığında kullanılan antrepolar  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre genel antrepo olarak açılacak yerlerin açık ve kapalı alanları toplamı, en az %20'si kapalı olmak üzere büyükşehir belediyesi sınırları içinde 5.000 m²'den, diğer yerlerde 3.000 m²'den küçük olamaz. Bu şarta tabi olmayanlar tek tek sayılmıştır: soğuk hava tertibatı ya da yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren veya kıymetli maden ve kıymetli taşların konulduğu antrepolar, alanının en az yarısı bu nitelikteki eşyanın depolanacağı bölümlerden oluşan antrepolar ile havalimanı, demiryolu istasyonu veya aktarma tesisi ve deniz limanı sahasında bulunan, havayolu ile kargo taşımacılığında kullanılan antrepolar. Ağır ve havaleli eşyaya mahsus açık alanlar bu listede yoktur; bu ifade, limanlardaki geçici depolama yerlerinin mütemmim cüzü sayılan ve geçici depolama yeri addolunan açık alanlara ilişkin komşu hükümden taşınmıştır. Liste kapalıdır ve sağduyuyla genişletilemez. Bu nedenle doğru cevap E seçeneğidir. (MD GY 519; GY 79)
+**Doğru Cevap:** B  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre genel antrepo olarak açılacak yerlerin açık ve kapalı alanları toplamı, en az %20'si kapalı olmak üzere büyükşehir belediyesi sınırları içinde 5.000 m²'den, diğer yerlerde 3.000 m²'den küçük olamaz. Bu şarta tabi olmayanlar tek tek sayılmıştır: soğuk hava tertibatı ya da yanıcı, parlayıcı, patlayıcı nitelikteki eşya için özel tertibat gerektiren veya kıymetli maden ve kıymetli taşların konulduğu antrepolar, alanının en az yarısı bu nitelikteki eşyanın depolanacağı bölümlerden oluşan antrepolar ile havalimanı, demiryolu istasyonu veya aktarma tesisi ve deniz limanı sahasında bulunan, havayolu ile kargo taşımacılığında kullanılan antrepolar. Ağır ve havaleli eşyaya mahsus açık alanlar bu listede yoktur; bu ifade, limanlardaki geçici depolama yerlerinin mütemmim cüzü sayılan ve geçici depolama yeri addolunan açık alanlara ilişkin komşu hükümden taşınmıştır. Liste kapalıdır ve sağduyuyla genişletilemez. Bu nedenle doğru cevap B seçeneğidir. (MD GY 519; GY 79)
 
 *Gümrük Yönetmeliği md. 524, 516/A*
 
@@ -309,26 +277,26 @@ E) Ağır ve havaleli eşyanın konulmasına mahsus açık alanlardan oluşan an
 Bu eşleştirmelerden hangisi yanlıştır?  
 
 A) Antrepo planında değişiklik yapılmasını gerektiren tadilat, genişletme ve daraltma talepleri – Bölge müdürlüğü  
-B) Geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektirmeyen talepler – Gümrük müdürlüğü  
-C) Antrepo planında değişiklik yapılmasını gerektirmeyen değişiklik talepleri – Gümrük müdürlüğü  
-D) Antreponun aynı gümrük idaresi denetiminde bulunan başka bir adrese taşınması talepleri – Bakanlık  
-E) Geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektiren talepler – Bakanlık  
+B) Antrepo planında değişiklik yapılmasını gerektirmeyen değişiklik talepleri – Gümrük müdürlüğü  
+C) Antreponun aynı gümrük idaresi denetiminde bulunan başka bir adrese taşınması talepleri – Bakanlık  
+D) Geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektiren talepler – Bakanlık  
+E) Geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektirmeyen talepler – Gümrük müdürlüğü  
 
-**Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepolarda antrepo planında değişiklik yapılmasını gerektiren tadilat, genişletme ve daraltma talepleri gümrük müdürlüğünün görüşüyle bölge müdürlüğüne aktarılır ve bölge müdürlüğünce sonuçlandırılarak Bakanlığa bilgi verilir; plan değişikliği gerektirmeyen talepler ise gümrük müdürlüğünce sonuçlandırılır. Antreponun aynı gümrük idaresi denetiminde başka bir adrese taşınması talebi bölge müdürlüğünün görüşüyle Bakanlıkça sonuçlandırılır. Geçici depolama yerlerinde kademe bir basamak yukarıdadır: plan değişikliği gerektirmeyen talepler gümrük müdürlüğünün görüşüyle bölge müdürlüğünce sonuçlandırılarak Bakanlığa bilgi verilir, plan değişikliği gerektiren talepler bölge müdürlüğünün görüşüyle Bakanlıkça sonuçlandırılır. Yanlış eşleştirme, antrepodaki 'plan değişikliği gerektirmeyen talep – gümrük müdürlüğü' kuralının geçici depolama yerine taşınmasıyla kurulmuştur. Bu nedenle doğru cevap B seçeneğidir. (MD GY 524, 516/A)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepolarda antrepo planında değişiklik yapılmasını gerektiren tadilat, genişletme ve daraltma talepleri gümrük müdürlüğünün görüşüyle bölge müdürlüğüne aktarılır ve bölge müdürlüğünce sonuçlandırılarak Bakanlığa bilgi verilir; plan değişikliği gerektirmeyen talepler ise gümrük müdürlüğünce sonuçlandırılır. Antreponun aynı gümrük idaresi denetiminde başka bir adrese taşınması talebi bölge müdürlüğünün görüşüyle Bakanlıkça sonuçlandırılır. Geçici depolama yerlerinde kademe bir basamak yukarıdadır: plan değişikliği gerektirmeyen talepler gümrük müdürlüğünün görüşüyle bölge müdürlüğünce sonuçlandırılarak Bakanlığa bilgi verilir, plan değişikliği gerektiren talepler bölge müdürlüğünün görüşüyle Bakanlıkça sonuçlandırılır. Yanlış eşleştirme, antrepodaki 'plan değişikliği gerektirmeyen talep – gümrük müdürlüğü' kuralının geçici depolama yerine taşınmasıyla kurulmuştur. Bu nedenle doğru cevap E seçeneğidir. (MD GY 524, 516/A)
 
 *Gümrük Yönetmeliği md. 513*
 
 **8-** Gümrük Yönetmeliği'ne göre gümrüklü sahada veya gümrük idaresi bulunan deniz ve hava limanı içerisinde ya da iç gümrük idarelerinde gümrük müdürlüğüne bitişik olarak açılanlar dışında kalan geçici depolama yerleri için genel olarak aranan alan ve mesafe şartları aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
 A) En az %20'si kapalı olmak üzere 5.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 50 km mesafede olması  
-B) En az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 20 km mesafede olması  
-C) En az 5.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
-D) En az %20'si kapalı olmak üzere 3.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
-E) En az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
+B) En az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
+C) En az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 20 km mesafede olması  
+D) En az 5.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
+E) En az %20'si kapalı olmak üzere 3.000 m²'den küçük olmaması; mutat yollarla gümrük müdürlüğüne en fazla 10 km mesafede olması  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrüklü sahada, gümrük idaresi bulunan deniz ve hava limanı içinde veya iç gümrük idarelerinde gümrük müdürlüğüne bitişik olarak açılanlar dışında kalan geçici depolama yerlerinin en az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması ve mutat yolların izlenmesi kaydıyla gümrük müdürlüğüne en fazla 10 km mesafede olması gerekir. Taşıt depolanacak yerlerde kapalı alan, havayolu ile hızlı kargo taşımacılığına ilişkin yerlerde alan şartı aranmaz. En güçlü çeldirici 20 km'yi içeren seçenektir: 20 km, ekonomik ihtiyaç hâlinde liman işleticisinin 10.000.000 TL teminatla kapalı alan şartı aranmaksızın açabileceği geçici depolama yerine ilişkin istisnadır. %20 kapalı alan, 5.000 m², 3.000 m² ve 50 km değerleri ise genel antrepolara aittir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 513; GY 519)
+**Doğru Cevap:** B  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrüklü sahada, gümrük idaresi bulunan deniz ve hava limanı içinde veya iç gümrük idarelerinde gümrük müdürlüğüne bitişik olarak açılanlar dışında kalan geçici depolama yerlerinin en az 3.000 m²'si kapalı olmak üzere 10.000 m²'den küçük olmaması ve mutat yolların izlenmesi kaydıyla gümrük müdürlüğüne en fazla 10 km mesafede olması gerekir. Taşıt depolanacak yerlerde kapalı alan, havayolu ile hızlı kargo taşımacılığına ilişkin yerlerde alan şartı aranmaz. En güçlü çeldirici 20 km'yi içeren seçenektir: 20 km, ekonomik ihtiyaç hâlinde liman işleticisinin 10.000.000 TL teminatla kapalı alan şartı aranmaksızın açabileceği geçici depolama yerine ilişkin istisnadır. %20 kapalı alan, 5.000 m², 3.000 m² ve 50 km değerleri ise genel antrepolara aittir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 513; GY 519)
 
 *Gümrük Yönetmeliği md. 536, 537*
 
@@ -340,40 +308,40 @@ III. F tipi antrepoda gümrük kayıtları stok kayıtlarının yerini alır.
 IV. E tipi antrepoda stok kayıtlarına giriş işlemi, eşyanın izin hak sahibinin antrepo addedilen depolama yerine ulaştığında yapılır.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, III ve IV  
+A) I, III ve IV  
+B) I ve III  
+C) II ve IV  
+D) I, II ve III  
 E) I, II, III ve IV  
 
-**Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre A, C, D ve E tipi antrepolarda antrepo stok kayıtlarını antrepo işleticileri tutar (I doğru). B tipi antrepoda ise rejime giriş beyannamesinin ve rejimi sona erdiren beyanname ve belgelerin kaydını denetleyici gümrük idaresi tutar; işletici ve kullanıcı yalnızca belgeleri muhafaza eder ve stok kayıtları tutulmayabilir (II yanlış). F tipi antrepoda gümrük kayıtları stok kayıtlarının yerini alır (III doğru). Stok kayıtlarına giriş işlemi A, C ve D tipi antrepoda eşyanın antrepoya fiziken girdiği sırada, E tipi antrepoda ise eşyanın izin hak sahibinin antrepo addedilen depolama yerine ulaştığında yapılır (IV doğru). En güçlü çeldirici dört ifadeyi de doğru sayan seçenektir: B tipinde kayıt yükü işleticide değil denetleyici gümrük idaresindedir ve stok kaydı zorunlu değildir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 536, 537)
+**Doğru Cevap:** A  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre A, C, D ve E tipi antrepolarda antrepo stok kayıtlarını antrepo işleticileri tutar (I doğru). B tipi antrepoda ise rejime giriş beyannamesinin ve rejimi sona erdiren beyanname ve belgelerin kaydını denetleyici gümrük idaresi tutar; işletici ve kullanıcı yalnızca belgeleri muhafaza eder ve stok kayıtları tutulmayabilir (II yanlış). F tipi antrepoda gümrük kayıtları stok kayıtlarının yerini alır (III doğru). Stok kayıtlarına giriş işlemi A, C ve D tipi antrepoda eşyanın antrepoya fiziken girdiği sırada, E tipi antrepoda ise eşyanın izin hak sahibinin antrepo addedilen depolama yerine ulaştığında yapılır (IV doğru). En güçlü çeldirici dört ifadeyi de doğru sayan seçenektir: B tipinde kayıt yükü işleticide değil denetleyici gümrük idaresindedir ve stok kaydı zorunlu değildir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 536, 537)
 
 *Gümrük Yönetmeliği md. 522*
 
 **10-** Gümrük Yönetmeliği'ne göre antrepo işleticileri ve kullanıcılarının antrepoya alınan eşya nedeniyle gümrük idaresine karşı mali sorumluluğuna ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Eşya gümrük vergileri de dahil olduğu halde sigortalanmış ve bu vergiler sigorta şirketinden tazminat olarak alınmışsa, noksanlıklara ait gümrük vergileri antrepo işleticisinden alınır.  
-B) Sorumluluk, eşyanın girerken gümrük idaresince tespit edilen miktarı, tespit yapılmamışsa belgelerinde yazılı miktarları üzerinden doğar.  
-C) Eşyanın tabiatından doğan kayıp ve firelerin gümrük idaresine ispat edilmesi ve bunun idarece de kabul edilmesi halinde sorumluluk söz konusu olmaz.  
+A) Sorumluluk, eşyanın girerken gümrük idaresince tespit edilen miktarı, tespit yapılmamışsa belgelerinde yazılı miktarları üzerinden doğar.  
+B) Eşyanın tabiatından doğan kayıp ve firelerin gümrük idaresine ispat edilmesi ve bunun idarece de kabul edilmesi halinde sorumluluk söz konusu olmaz.  
+C) Eşya gümrük vergileri de dahil olduğu halde sigortalanmış ve bu vergiler sigorta şirketinden tazminat olarak alınmışsa, noksanlıklara ait gümrük vergileri antrepo işleticisinden alınır.  
 D) Tabiatları gereği antrepolarda fire veren eşyanın ek-11'de yer alması halinde fire miktarlarının belirlenmesinde bu oranlar dikkate alınır.  
 E) Denizyoluyla konteyner ile getirilip giriş gümrük idaresince miktar tespiti yapılmaksızın aynı gümrük müdürlüğüne bağlı antrepoya sevk edilen eşyanın kap adedinde farklılık tespit edilirse, kullanıcıdan farklılığın sebebini 45 gün içinde izah etmesi istenir.  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepo işleticileri ve kullanıcıları, eşyanın girerken gümrük idaresince tespit edilen, tespit yapılmamışsa belgelerinde yazılı miktarları üzerinden gümrük idaresine karşı mali bakımdan sorumludur; sorumluluk eksiklik veya değişikliğe ait gümrük vergilerini ve cezalarını kapsar. Eşyanın tabiatından doğan kayıp ve fireler, gözetim altında yapılan işleme faaliyetinden doğan noksanlıklar ve işletici ile kullanıcının kusurundan doğmayan eksiklikler idareye ispat edilip kabul edilirse sorumluluk doğmaz; fire veren eşya ek-11'de yer alıyorsa bu oranlar dikkate alınır. Denizyoluyla konteynerle getirilip miktar tespiti yapılmadan antrepoya sevk edilen eşyanın kap adedinde fark çıkarsa kullanıcıdan farkın sebebini 45 gün içinde izah etmesi istenir; süre talep hâlinde 30 gün uzatılabilir. Eşya gümrük vergileri dâhil sigortalanmış ve bu vergiler sigorta şirketinden tazminat olarak alınmışsa, noksanlıklara ait gümrük vergileri antrepo işleticisinden değil, sigorta ettirenden veya lehine sigorta ettirilenden alınır. Yanlış ifade, tazminatı alan kişiye ait yükümlülüğü genel sorumluluk kuralına bağlayarak kurulmuştur. Bu nedenle doğru cevap A seçeneğidir. (MD GY 522)
+**Doğru Cevap:** C  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepo işleticileri ve kullanıcıları, eşyanın girerken gümrük idaresince tespit edilen, tespit yapılmamışsa belgelerinde yazılı miktarları üzerinden gümrük idaresine karşı mali bakımdan sorumludur; sorumluluk eksiklik veya değişikliğe ait gümrük vergilerini ve cezalarını kapsar. Eşyanın tabiatından doğan kayıp ve fireler, gözetim altında yapılan işleme faaliyetinden doğan noksanlıklar ve işletici ile kullanıcının kusurundan doğmayan eksiklikler idareye ispat edilip kabul edilirse sorumluluk doğmaz; fire veren eşya ek-11'de yer alıyorsa bu oranlar dikkate alınır. Denizyoluyla konteynerle getirilip miktar tespiti yapılmadan antrepoya sevk edilen eşyanın kap adedinde fark çıkarsa kullanıcıdan farkın sebebini 45 gün içinde izah etmesi istenir; süre talep hâlinde 30 gün uzatılabilir. Eşya gümrük vergileri dâhil sigortalanmış ve bu vergiler sigorta şirketinden tazminat olarak alınmışsa, noksanlıklara ait gümrük vergileri antrepo işleticisinden değil, sigorta ettirenden veya lehine sigorta ettirilenden alınır. Yanlış ifade, tazminatı alan kişiye ait yükümlülüğü genel sorumluluk kuralına bağlayarak kurulmuştur. Bu nedenle doğru cevap C seçeneğidir. (MD GY 522)
 
 *Gümrük Yönetmeliği md. 524*
 
 **11-** Gümrük Yönetmeliği'ne göre antrepolarda yapılacak değişikliklere ilişkin olarak yetkilendirilmiş gümrük müşavirince düzenlenecek tespit raporu ile ilgili aşağıdakilerden hangisi doğrudur?
 
-A) Antrepoda yapılacak her türlü değişiklik talebinde, antrepo planında değişiklik gerektirip gerektirmediğine bakılmaksızın tespit raporu düzenlenmesi zorunludur.  
-B) İznin Bakanlıkça verildiği durumlarda tespit raporları Bakanlığa (Tasfiye Hizmetleri Genel Müdürlüğü) da gönderilir.  
+A) İznin Bakanlıkça verildiği durumlarda tespit raporları Bakanlığa (Tasfiye Hizmetleri Genel Müdürlüğü) da gönderilir.  
+B) Antrepoda yapılacak her türlü değişiklik talebinde, antrepo planında değişiklik gerektirip gerektirmediğine bakılmaksızın tespit raporu düzenlenmesi zorunludur.  
 C) Tespit raporu yalnızca akaryakıt antrepolarına ilişkin tank ilavesi taleplerinde düzenlenir.  
 D) Antreponun başka bir adrese taşınması taleplerinde tespit raporu düzenlenmez; gümrük müdürlüğünce düzenlenen görgü raporu yeterlidir.  
 E) Antrepo planında değişiklik gerektiren tadilat, genişletme ve daraltma taleplerinde tespit raporu, yetkilendirilmiş gümrük müşaviri yerine bölge müdürlüğünce düzenlenir.  
 
-**Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepo planında değişiklik gerektiren tadilat, genişletme ve daraltma talepleri ile antreponun başka bir adrese taşınması ve akaryakıt antrepolarında tank ilavesi taleplerine ilişkin işlemler için yetkilendirilmiş gümrük müşavirince tespit raporu düzenlenir; iznin Bakanlıkça verildiği durumlarda bu raporlar Bakanlığa (Tasfiye Hizmetleri Genel Müdürlüğü) da gönderilir. Bu işlemlerin kapsamı dışında kalan ve antrepo planında değişiklik yapılmasını gerektirmeyen değişiklik talepleri için ise yetkilendirilmiş gümrük müşavirince tespit raporu düzenlenmez. En güçlü çeldirici raporu her türlü değişiklikte zorunlu sayan seçenektir; 'gümrük müşavirinin raporu her durumda şarttır' önyargısını yoklar. Görgü raporu ise antrepo açılış başvurusunun incelenmesinde gümrük müdürlüğünce düzenlenen ayrı bir belgedir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 524; GY 521)
+**Doğru Cevap:** A  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepo planında değişiklik gerektiren tadilat, genişletme ve daraltma talepleri ile antreponun başka bir adrese taşınması ve akaryakıt antrepolarında tank ilavesi taleplerine ilişkin işlemler için yetkilendirilmiş gümrük müşavirince tespit raporu düzenlenir; iznin Bakanlıkça verildiği durumlarda bu raporlar Bakanlığa (Tasfiye Hizmetleri Genel Müdürlüğü) da gönderilir. Bu işlemlerin kapsamı dışında kalan ve antrepo planında değişiklik yapılmasını gerektirmeyen değişiklik talepleri için ise yetkilendirilmiş gümrük müşavirince tespit raporu düzenlenmez. En güçlü çeldirici raporu her türlü değişiklikte zorunlu sayan seçenektir; 'gümrük müşavirinin raporu her durumda şarttır' önyargısını yoklar. Görgü raporu ise antrepo açılış başvurusunun incelenmesinde gümrük müdürlüğünce düzenlenen ayrı bir belgedir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 524; GY 521)
 
 *Gümrük Yönetmeliği md. 523*
 
@@ -398,14 +366,14 @@ III. Ağır kusur durumunda da işleticiye süre verilir ve bu süre içinde ant
 IV. Verilen süreler en fazla bir kez ve verilen süre kadar uzatılır.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) II ve IV  
-B) I ve II  
-C) III ve IV  
-D) I, II ve IV  
-E) II, III ve IV  
+A) I ve II  
+B) III ve IV  
+C) I, II ve IV  
+D) II, III ve IV  
+E) II ve IV  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre izin işlemlerinde Ek-80'deki hafif, orta ve ağır kusurlar dikkate alınır. Kusur tespit edilirse işleticiye ilk tebligat tarihinden başlamak üzere hafif kusurda üç ay, orta kusurda bir ay süre verilerek yükümlülüklerin yerine getirilmesi bildirilir ve bu sürede antrepoya eşya girişine izin verilir (II doğru). Süre kusurun tespit edildiği tarihten değil, ilk tebligat tarihinden başlar (I yanlış). Hafif veya orta kusurun verilen sürede giderilememesi ile ağır kusur durumlarında antrepoya eşya girişine izin verilmez ve taahhüde uymayan işleticilere uygulanan genel usule göre işlem yapılır (III yanlış). Bu kapsamda verilen süreler en fazla bir kez ve verilen süre kadar uzatılır (IV doğru). En güçlü çeldiriciler I'i içeren kombinasyonlardır: süre miktarları doğru olsa da başlangıç anı ilk tebligat tarihidir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 525)
+**Doğru Cevap:** E  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre izin işlemlerinde Ek-80'deki hafif, orta ve ağır kusurlar dikkate alınır. Kusur tespit edilirse işleticiye ilk tebligat tarihinden başlamak üzere hafif kusurda üç ay, orta kusurda bir ay süre verilerek yükümlülüklerin yerine getirilmesi bildirilir ve bu sürede antrepoya eşya girişine izin verilir (II doğru). Süre kusurun tespit edildiği tarihten değil, ilk tebligat tarihinden başlar (I yanlış). Hafif veya orta kusurun verilen sürede giderilememesi ile ağır kusur durumlarında antrepoya eşya girişine izin verilmez ve taahhüde uymayan işleticilere uygulanan genel usule göre işlem yapılır (III yanlış). Bu kapsamda verilen süreler en fazla bir kez ve verilen süre kadar uzatılır (IV doğru). En güçlü çeldiriciler I'i içeren kombinasyonlardır: süre miktarları doğru olsa da başlangıç anı ilk tebligat tarihidir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 525)
 
 *Gümrük Yönetmeliği md. 527*
 
@@ -454,27 +422,27 @@ E) Bir yıl
 
 **17-** Gümrük Yönetmeliği'nde yer alan akaryakıt antrepoları tanımına göre, bu antrepolara dökme veya kaplı olarak konulmasına özgü olduğu belirtilen eşya arasında aşağıdakilerden hangisi yer almaz?
 
-A) Ham petrol  
-B) Jet yakıtı  
-C) Bio dizel  
-D) Sıvılaştırılmış petrol gazı (LPG)  
-E) Hammadde ve solvent nafta  
+A) Hammadde ve solvent nafta  
+B) Ham petrol  
+C) Jet yakıtı  
+D) Bio dizel  
+E) Sıvılaştırılmış petrol gazı (LPG)  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre akaryakıt antrepoları; benzin türleri, ham petrol, nafta (hammadde ve solvent nafta hariç), gaz yağı, jet yakıtı, motorin türleri, fuel-oil türleri, bio dizel ile sıvılaştırılmış petrol gazının (LPG) dökme veya kaplı olarak konulmasına özgü genel veya özel antrepolardır. Nafta tanımda yer almakla birlikte hammadde ve solvent nafta açıkça hariç tutulmuştur. Akaryakıt konulan antrepoların mal tahmil ve tahliyesinde kullanılan boru hatları da antreponun mütemmim cüzü sayılır. En güçlü çeldirici ham petroldür: denizyoluyla gelen akaryakıtın sayaçla ölçülmesine ilişkin listede ham petrol yer almaz, ancak akaryakıt antreposu tanımında sayılmıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 541; GY 542)
+**Doğru Cevap:** A  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre akaryakıt antrepoları; benzin türleri, ham petrol, nafta (hammadde ve solvent nafta hariç), gaz yağı, jet yakıtı, motorin türleri, fuel-oil türleri, bio dizel ile sıvılaştırılmış petrol gazının (LPG) dökme veya kaplı olarak konulmasına özgü genel veya özel antrepolardır. Nafta tanımda yer almakla birlikte hammadde ve solvent nafta açıkça hariç tutulmuştur. Akaryakıt konulan antrepoların mal tahmil ve tahliyesinde kullanılan boru hatları da antreponun mütemmim cüzü sayılır. En güçlü çeldirici ham petroldür: denizyoluyla gelen akaryakıtın sayaçla ölçülmesine ilişkin listede ham petrol yer almaz, ancak akaryakıt antreposu tanımında sayılmıştır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 541; GY 542)
 
 *Gümrük Yönetmeliği md. 525*
 
 **18-** Gümrük Yönetmeliği'ne göre antrepo açma ve işletme izninin geri alınmasının sonuçlarına ilişkin aşağıdakilerden hangisi doğrudur?
 
-A) Antrepoda kaçakçılık gibi bir suistimal saptanması nedeniyle antrepo açma ve işletme izni geri alınan kişilere yeni bir antrepo açma ve işletme izni verilmez.  
-B) Sahiplerinin isteği üzerine kapatılan antreponun işleticisi olan şirketin yönetim kurulu üyelerinin yer aldığı diğer tüzel kişilere, kapatma tarihinden itibaren beş yıl süreyle antrepo açma izni verilmez.  
+A) Sahiplerinin isteği üzerine kapatılan antreponun işleticisi olan şirketin yönetim kurulu üyelerinin yer aldığı diğer tüzel kişilere, kapatma tarihinden itibaren beş yıl süreyle antrepo açma izni verilmez.  
+B) Antrepoda kaçakçılık gibi bir suistimal saptanması nedeniyle antrepo açma ve işletme izni geri alınan kişilere yeni bir antrepo açma ve işletme izni verilmez.  
 C) İzni geri alınan şirketin ortaklarının yer aldığı diğer tüzel kişilere, iznin geri alındığı tarihten itibaren üç yıl süreyle yeniden antrepo açma izni verilmez.  
 D) Yasaklama süresi geçtikten sonra bu kişilerin antrepo açma veya devralma müracaatları bölge müdürlüğünce sonuçlandırılır.  
 E) Antrepo işleticisinin taahhüt ve yükümlülüklerine aykırı hareket etmesi nedeniyle vergi kaybına neden olunması hâlinde izin geri alınamaz; yalnızca antrepoya eşya girişi durdurulur.  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepo işleticisinin taahhüt ve yükümlülüklerine aykırı hareket etmesi nedeniyle vergi kaybına neden olunması hâlinde antrepo açma ve işletme izni geri alınabilir. Antrepoda kaçakçılık gibi bir suistimal ve/veya yolsuzluk saptanması ya da bu vergi kaybı nedeniyle izni geri alınan kişilere yeni bir antrepo açma ve işletme izni verilmez. Sahiplerinin isteğiyle kapatılma hâli hariç olmak üzere izni geri alınan şirketin anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde ortakları ile şirket müdürünün ve sermayenin %10 veya daha fazlasına sahip gerçek kişilerin yer aldığı diğer tüzel kişilere iznin geri alındığı tarihten itibaren 5 yıl süreyle yeniden antrepo açma izni verilmez; bu süre geçtikten sonraki açma veya devralma müracaatları Bakanlıkça sonuçlandırılır. En güçlü çeldirici kendi isteğiyle kapatılan antrepoya beş yıllık yasağı uygulayan seçenektir; hüküm bu hâli açıkça dışarıda bırakır. Üç yıl ise yatırım izni başvurusunda aranan asgari faaliyet süresidir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 525)
+**Doğru Cevap:** B  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre antrepo işleticisinin taahhüt ve yükümlülüklerine aykırı hareket etmesi nedeniyle vergi kaybına neden olunması hâlinde antrepo açma ve işletme izni geri alınabilir. Antrepoda kaçakçılık gibi bir suistimal ve/veya yolsuzluk saptanması ya da bu vergi kaybı nedeniyle izni geri alınan kişilere yeni bir antrepo açma ve işletme izni verilmez. Sahiplerinin isteğiyle kapatılma hâli hariç olmak üzere izni geri alınan şirketin anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde ortakları ile şirket müdürünün ve sermayenin %10 veya daha fazlasına sahip gerçek kişilerin yer aldığı diğer tüzel kişilere iznin geri alındığı tarihten itibaren 5 yıl süreyle yeniden antrepo açma izni verilmez; bu süre geçtikten sonraki açma veya devralma müracaatları Bakanlıkça sonuçlandırılır. En güçlü çeldirici kendi isteğiyle kapatılan antrepoya beş yıllık yasağı uygulayan seçenektir; hüküm bu hâli açıkça dışarıda bırakır. Üç yıl ise yatırım izni başvurusunda aranan asgari faaliyet süresidir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 525)
 
 *Gümrük Yönetmeliği md. 79*
 
@@ -482,12 +450,12 @@ E) Antrepo işleticisinin taahhüt ve yükümlülüklerine aykırı hareket etme
 
 A) Gümrüklü sahalar  
 B) Genel antrepolar  
-C) Geçici depolama yerleri  
-D) Rezerve yerleri  
+C) Rezerve yerleri  
+D) Geçici depolama yerleri  
 E) Yolcu beraberi eşya ambarları  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre geçici depolanan eşyanın her türlü dış etken ve müdahalelerden korunmasını sağlayacak şekilde yapılmış ve taşıtların durduğu, yanaştığı veya indiği yerlerdeki ambar, depo, ardiye veya hangar gibi yerler geçici depolama yerleridir. Gümrüğe sunulan eşya gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar geçici depolanan eşya statüsündedir; tanımdaki yerler bu eşyanın konulduğu yerlerdir. Gümrüklü saha, gümrük idaresinin denetiminde fiziki olarak etrafından ayrılmış veya böyle addedilen alanı ifade eder; yolcu beraberi eşya ambarları ise geçici depolama yeri addolunan özel yerlerdir. Rezerve yeri, rezerveli eşyanın geçici depolama yeri içinde ayrılan çift kilitli bölümüdür; genel antrepolar ise antrepo rejimine tabi eşyanın depolandığı yerlerdir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 79; GK 47)
+**Doğru Cevap:** D  
+**Gerekçe:** Gümrük Yönetmeliği'ne göre geçici depolanan eşyanın her türlü dış etken ve müdahalelerden korunmasını sağlayacak şekilde yapılmış ve taşıtların durduğu, yanaştığı veya indiği yerlerdeki ambar, depo, ardiye veya hangar gibi yerler geçici depolama yerleridir. Gümrüğe sunulan eşya gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar geçici depolanan eşya statüsündedir; tanımdaki yerler bu eşyanın konulduğu yerlerdir. Gümrüklü saha, gümrük idaresinin denetiminde fiziki olarak etrafından ayrılmış veya böyle addedilen alanı ifade eder; yolcu beraberi eşya ambarları ise geçici depolama yeri addolunan özel yerlerdir. Rezerve yeri, rezerveli eşyanın geçici depolama yeri içinde ayrılan çift kilitli bölümüdür; genel antrepolar ise antrepo rejimine tabi eşyanın depolandığı yerlerdir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 79; GK 47)
 
 *Gümrük Yönetmeliği md. 94*
 
@@ -500,17 +468,17 @@ D) Eşyanın çıkarılmasına yalnızca eşya sahibi veya temsilcisi için izin
 E) Hükmün 25.05.2022 tarihli değişiklikle kazandığı hâli, 12.08.2026 tarihli yazı eki Danıştay kararları ile iptal edilmiştir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük işlemlerinin sistem üzerinde tamamlandığının anlaşılması üzerine bilgisayar sisteminde çıkış onayı verilerek eşya sahibinin, temsilcisinin veya eşyayı teslim almak için vekâlet verilmiş diğer kişilerin eşyayı geçici depolama yerinden çıkarmasına izin verilir. Hükmün 25.05.2022 tarihli ve 31846 sayılı Resmî Gazete ile yapılan değişiklikle kazandığı hâli, 12.08.2026 tarihli yazı eki Danıştay kararları ile iptal edilmiştir; değişiklik son on iki ay içindedir. En güçlü çeldirici yürütmenin durdurulduğunu söyleyen seçenektir: Yönetmelikte yürütmesi durdurulan hükümler ayrıca belirtilmiştir, bu hükümde ise iptal söz konusudur. Çıkış onayı gümrük işlemleri sistemde tamamlanmadan işleticice verilemez; vekâlet verilmiş kişilerin eşyayı çıkarması da mümkündür. Bu nedenle doğru cevap E seçeneğidir. (MD GY 94)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük işlemlerinin sistem üzerinde tamamlandığının anlaşılması üzerine bilgisayar sisteminde çıkış onayı verilerek eşya sahibinin, temsilcisinin veya eşyayı teslim almak için vekâlet verilmiş diğer kişilerin eşyayı geçici depolama yerinden çıkarmasına izin verilir. Hükmün 25.05.2022 tarihli ve 31846 sayılı Resmî Gazete ile yapılan değişiklikle kazandığı hâli, 12.08.2026 tarihli yazı eki Danıştay kararları ile iptal edilmiştir; bu iptal son on iki ay içinde gerçekleşmiştir. En güçlü çeldirici yürütmenin durdurulduğunu söyleyen seçenektir: Yönetmelikte yürütmesi durdurulan hükümler ayrıca belirtilmiştir, bu hükümde ise iptal söz konusudur. Çıkış onayı gümrük işlemleri sistemde tamamlanmadan işleticice verilemez; vekâlet verilmiş kişilerin eşyayı çıkarması da mümkündür. Bu nedenle doğru cevap E seçeneğidir. (MD GY 94)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I ve III, I, III ve IV, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 13, İSTİSNA 8, YAKIN-SAYI 5, TERİM 5, MAKAM 4, LİSTE-DIŞI 3 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I, III ve IV, II ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 14, TERİM 6, İSTİSNA 6, YAKIN-SAYI 5, MAKAM 4, SAYI 3 |
 | İkiz eksen / ayna | 10, 13, 17 / AYNA-ALAN (antrepo ↔ geçici depolama yeri) |
 | Güncellik | 12.08.2026 |
 | Çıkmış bilgi alanı karşılayan | 4 |

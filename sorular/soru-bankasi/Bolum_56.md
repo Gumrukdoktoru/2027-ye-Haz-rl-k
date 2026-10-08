@@ -14,19 +14,13 @@ C) Listede, gümrük vergisi askıya alınan sanayi ürünleri yer alır.
 D) Listedeki ürünlere sivil hava taşıtlarında kullanılmak kaydıyla %0 gümrük vergisi uygulanır; ancak bu ithalat gümrük mevzuatının nihai kullanıma ilişkin hükümlerine tabi tutulmaz.  
 E) II sayılı listedeki bir eşyanın aynı zamanda VI sayılı listede yer alması durumunda, VI sayılı listedeki oran II sayılı listedeki orandan yüksek olsa dahi uygulanır.  
 
-**2-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nın 10790 sayılı Cumhurbaşkanı Kararı ile yenilenen eki listelerinin kapsamına ilişkin aşağıdaki ifadeler verilmiştir:
+**2-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nın 10790 sayılı Cumhurbaşkanı Kararı ile yenilenen eki listelerine ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. I sayılı liste tarım ürünlerini kapsar.  
-II. II sayılı liste yalnızca sanayi ürünlerini kapsar.  
-III. Balıkçılık ve su ürünleri IV sayılı listede yer alır.  
-IV. III sayılı liste, gümrük vergisi askıya alınan sanayi ürünlerini kapsar.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) Yalnız II  
-B) I ve III  
-C) III ve IV  
-D) II, III ve IV  
-E) II ve IV  
+A) I sayılı liste tarım ürünlerini kapsar.  
+B) II sayılı liste, tarım ürünleri ve sanayi ürünleri olmak üzere iki bölüm hâlinde düzenlenmiştir.  
+C) Balıkçılık ve su ürünleri IV sayılı listede yer alır.  
+D) 10790 sayılı Kararla, 3350 sayılı Kararın ekinde yer alan kısaltmalar, listeler ve ekler yürürlükten kaldırılarak yerine yenileri eklenmiştir.  
+E) III sayılı liste, gümrük vergisi askıya alınan sanayi ürünlerini kapsar.  
 
 **3-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nın gümrük vergisi oranlarını ve ek mali yükümlülüğü gösteren eki listelerinin uygulanmasına ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -89,13 +83,13 @@ C) Yenileştirilmiş eşya
 D) Eski eşya  
 E) Kullanılmış eşya  
 
-**10-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nın ithalat işlemlerini yürütmeye ilişkin hükümlerine göre aşağıdaki ithalatların hangisinde vergi kimlik numarasına sahip olma şartı aranır?
+**10-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'na göre, ithalat işlemlerinde vergi kimlik numarasına sahip olma şartının aranmadığı hâller arasında aşağıdakilerden hangisi yer almaz?
 
-A) Özel bir anlaşmaya dayanılarak yapılan ithalat  
+A) Özel anlaşmalara dayanan ithalat  
 B) Kitap ithalatı  
 C) Kitap dışındaki diğer yayınların ithalatı  
-D) Ülkemizde açılan uluslararası bir fuarda Bakanlıkça perakende satışına izin verilen eşyanın ithalatı  
-E) Türk müteahhitlik firmasınca yurt dışındaki inşaat işi için satın alınan makinanın Türkiye'ye kesin ithali  
+D) Ülkemizde açılan uluslararası fuar ve sergilerde Bakanlıkça perakende satışına izin verilen eşyanın ithalatı  
+E) Türk müteahhitlik firmalarının yurt dışındaki işleri için satın aldıkları makinanın ithalatı  
 
 **11-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'na göre ithalat işlemlerinin yürütülmesine ilişkin aşağıdakilerden hangisi doğrudur?
 
@@ -151,7 +145,7 @@ C) Kesin ithalde, yeni ve kullanılmamış eşyanın bedeli ödenir.
 D) Kesin ithal, kısıtlayıcı hükümler saklı kalmak kaydıyla gerçekleştirilir.  
 E) Kesin ithal işlemleri gümrük idarelerince sonuçlandırılır.  
 
-**17-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nda yer alan aşağıdaki hükümde boş bırakılan yerlere sırasıyla gelmesi gereken ifadeler hangisidir?
+**17-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nda yer alan aşağıdaki hükümde boş bırakılan yerlere sırasıyla gelmesi gereken ifadeler hangi seçenekte doğru olarak verilmiştir?
 
 "III sayılı liste (İşlenmiş Tarım Ürünleri) kapsamı eşyanın karşılarında (T1), (T2) işaretlerinin bulunduğu durumlarda, söz konusu eşya için yapılan tahlil sonuçlarına göre Tablo 1 (Bileşim Tablosu) kullanılarak tespit edilen kod numarasına Tablo 2'de (……) tekabül eden …… tahsil edilir."  
 
@@ -183,13 +177,13 @@ C) I ve III
 D) II ve III  
 E) I, III ve IV  
 
-**20-** 10790 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karar'ın geçiş hükmüne göre, aşağıdaki ithalatların hangisinde 1 Ocak 2026 tarihinden önceki gümrük vergisi veya ek mali yükümlülük uygulanır?
+**20-** 10790 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karar'ın, 1 Ocak 2026 tarihi itibarıyla değişen gümrük vergisi ve ek mali yükümlülüklere ilişkin geçiş hükmüne göre aşağıdakilerden hangisi doğrudur?
 
-A) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi artırılan eşyaya ilişkin gümrük beyannamesinin 3 Şubat 2026 tarihinde tescil edilmesi  
-B) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi indirilen eşyaya ilişkin gümrük beyannamesinin 20 Ocak 2026 tarihinde tescil edilmesi  
-C) 1 Ocak 2026 tarihi itibarıyla ek mali yükümlülük ihdas edilen eşyaya ilişkin gümrük beyannamesinin 27 Şubat 2026 tarihinde tescil edilmesi  
-D) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi artırılan eşyaya ilişkin gümrük beyannamesinin 31 Ocak 2026 tarihinde tescil edilmesi  
-E) Aralık 2025'te Türkiye'ye sevk edilmek üzere yüklenen ve 1 Ocak 2026 tarihi itibarıyla gümrük vergisi artırılan eşyaya ilişkin beyannamenin 10 Şubat 2026'da tescil edilmesi  
+A) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi indirilen eşyaya ilişkin beyanname 31 Ocak 2026 tarihine kadar (bu tarih dâhil) tescil edilirse önceki gümrük vergisi uygulanır.  
+B) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi artırılan eşyaya ilişkin beyanname 31 Mart 2026 tarihine kadar (bu tarih dâhil) tescil edilirse önceki gümrük vergisi uygulanır.  
+C) Gümrük vergisi artırılan eşyaya önceki oranın uygulanması, eşyanın 1 Ocak 2026 tarihinden önce Türkiye'ye sevk edilmek üzere yüklenmiş olması şartına bağlıdır.  
+D) 1 Ocak 2026 tarihi itibarıyla ek mali yükümlülük ihdas edilen eşyaya ilişkin beyanname 31 Ocak 2026 tarihine kadar (bu tarih dâhil) tescil edilirse önceki ek mali yükümlülük uygulanır.  
+E) Gümrük vergisi artırılan eşyaya önceki oranın uygulanması, eşyanın 1 Ocak 2026 tarihinden önce gümrüğe sunularak özet beyanının verilmiş olması şartına bağlıdır.  
 
 ### Cevap Anahtarı
 
@@ -212,24 +206,18 @@ E) II sayılı listedeki bir eşyanın aynı zamanda VI sayılı listede yer alm
 **Doğru Cevap:** B  
 **Gerekçe:** İthalat Rejimi Kararı eki VI sayılı liste, nihai kullanım uygulaması kapsamında indirimli gümrük vergisinden faydalanacak sivil hava taşıtlarında kullanılmaya mahsus ürünleri gösterir. Listenin dipnotuna göre listedeki pozisyonlarda yalnızca eşya tanımı sütununda tanımlanan ürünler için, sivil hava taşıtlarında kullanılmak kaydıyla yapılan ithalatta gümrük vergisi %0 olarak uygulanır ve bu hâlde gümrük mevzuatının nihai kullanıma ilişkin hükümleri tatbik edilir. Nihai ürünün imalinde kullanılacak tarım ürünleri VII sayılı listede, gümrük vergisi askıya alınan sanayi ürünleri V sayılı listede yer alır. II sayılı listedeki eşya V veya VI sayılı listede de bulunuyorsa bu listelerdeki oranlardan yüksek olanı değil düşük olanı uygulanır. En güçlü çeldirici nihai kullanım hükümlerinin uygulanmayacağını söyleyen seçenektir; %0 oran tam da sivil hava taşıtında kullanılma şartına bağlandığı için eşya nihai kullanım hükümlerine tabi tutulur. Bu nedenle doğru cevap B seçeneğidir. (MD CK 10790 eki VI sayılı liste; İRK 9/1)
 
-*İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karar (CK 10790) eki I, II, III ve IV sayılı listeler*
+*İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karar (CK 10790) md. 1 ve eki I, II, III, IV ve V sayılı listeler*
 
-**2-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nın 10790 sayılı Cumhurbaşkanı Kararı ile yenilenen eki listelerinin kapsamına ilişkin aşağıdaki ifadeler verilmiştir:
+**2-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nın 10790 sayılı Cumhurbaşkanı Kararı ile yenilenen eki listelerine ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. I sayılı liste tarım ürünlerini kapsar.  
-II. II sayılı liste yalnızca sanayi ürünlerini kapsar.  
-III. Balıkçılık ve su ürünleri IV sayılı listede yer alır.  
-IV. III sayılı liste, gümrük vergisi askıya alınan sanayi ürünlerini kapsar.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) Yalnız II  
-B) I ve III  
-C) III ve IV  
-D) II, III ve IV  
-E) II ve IV  
+A) I sayılı liste tarım ürünlerini kapsar.  
+B) II sayılı liste, tarım ürünleri ve sanayi ürünleri olmak üzere iki bölüm hâlinde düzenlenmiştir.  
+C) Balıkçılık ve su ürünleri IV sayılı listede yer alır.  
+D) 10790 sayılı Kararla, 3350 sayılı Kararın ekinde yer alan kısaltmalar, listeler ve ekler yürürlükten kaldırılarak yerine yenileri eklenmiştir.  
+E) III sayılı liste, gümrük vergisi askıya alınan sanayi ürünlerini kapsar.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** İthalat Rejimi Kararı eki listelerde I sayılı liste tarım ürünlerini kapsar (I doğru). II sayılı liste tek bir sanayi listesi değildir; tarım ürünleri ve sanayi ürünleri olmak üzere iki bölümden oluşur (II yanlış). Balıkçılık ve su ürünleri IV sayılı listededir (III doğru). III sayılı liste işlenmiş tarım ürünlerini kapsar; gümrük vergisi askıya alınan sanayi ürünleri V sayılı listededir (IV yanlış). En güçlü çeldirici 'Yalnız II' seçeneğidir; III sayılı listeyi sanayi listesi sanan aday IV'ü doğru sayar, oysa sanayi ürünleri için askıya alma listesi V sayılı listedir. Bu nedenle doğru cevap E seçeneğidir. (MD CK 10790 eki I, II, III, IV ve V sayılı listeler)
+**Gerekçe:** İthalat Rejimi Kararı'nın 10790 sayılı Kararla yenilenen eki listelerinde I sayılı liste tarım ürünlerini, III sayılı liste işlenmiş tarım ürünlerini, IV sayılı liste balıkçılık ve su ürünlerini kapsar; II sayılı liste ise tarım ürünleri ve sanayi ürünleri olmak üzere iki bölüm hâlinde düzenlenmiştir. Gümrük vergisi askıya alınan sanayi ürünleri III sayılı listede değil V sayılı listede yer alır; söylenemeyecek ifade III sayılı listeyi V sayılı listenin içeriğiyle tanımlamıştır. 10790 sayılı Karar, 3350 sayılı Kararın ekinde yer alan kısaltmaları, listeleri ve ekleri değişiklikleriyle birlikte yürürlükten kaldırmış ve aynı Karara yenilerini eklemiştir. En güçlü çeldirici II sayılı listeye ilişkin ifadedir: II sayılı listeyi yalnızca sanayi listesi sanan aday bu ifadeyi yanlış sayar, oysa liste tarım ve sanayi bölümlerinden oluşur. Bu nedenle doğru cevap E seçeneğidir. (MD CK 10790 md. 1 ve eki I, II, III, IV ve V sayılı listeler)
 
 *İthalat Rejimi Kararı (CK 3350) md. 9/1, 9/2; CK 10790 eki VII sayılı liste*
 
@@ -329,16 +317,16 @@ E) Kullanılmış eşya
 
 *İthalat Rejimi Kararı (CK 3350) md. 8/1, 8/2; md. 11*
 
-**10-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nın ithalat işlemlerini yürütmeye ilişkin hükümlerine göre aşağıdaki ithalatların hangisinde vergi kimlik numarasına sahip olma şartı aranır?
+**10-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'na göre, ithalat işlemlerinde vergi kimlik numarasına sahip olma şartının aranmadığı hâller arasında aşağıdakilerden hangisi yer almaz?
 
-A) Özel bir anlaşmaya dayanılarak yapılan ithalat  
+A) Özel anlaşmalara dayanan ithalat  
 B) Kitap ithalatı  
 C) Kitap dışındaki diğer yayınların ithalatı  
-D) Ülkemizde açılan uluslararası bir fuarda Bakanlıkça perakende satışına izin verilen eşyanın ithalatı  
-E) Türk müteahhitlik firmasınca yurt dışındaki inşaat işi için satın alınan makinanın Türkiye'ye kesin ithali  
+D) Ülkemizde açılan uluslararası fuar ve sergilerde Bakanlıkça perakende satışına izin verilen eşyanın ithalatı  
+E) Türk müteahhitlik firmalarının yurt dışındaki işleri için satın aldıkları makinanın ithalatı  
 
 **Doğru Cevap:** E  
-**Gerekçe:** İthalat Rejimi Kararı'na göre Vergi Usul Kanunu uyarınca vergi kimlik numarası verilen her gerçek ve tüzel kişi ile hukuki tasarruf yetkisi tanınan kişi ortaklıkları ithalat işlemlerini yürütebilir. Vergi kimlik numarasına sahip olma şartı yalnızca üç hâlde aranmaz: özel anlaşmalara dayanan ithalat, kitap ve diğer yayınların ithalatı ile ülkemizde açılan uluslararası fuar ve sergilerde Bakanlıkça perakende satışına izin verilen eşyanın ithalatı. Türk müteahhitlik firmalarının yurt dışındaki işleri için satın aldıkları makina ve teçhizatın Türkiye'ye kesin veya geçici ithali Bakanlığın iznine bağlıdır; ancak bu hâl vergi kimlik numarası şartının aranmadığı istisnalar arasında sayılmamıştır, dolayısıyla genel kural uygulanır. En güçlü tuzak, müteahhitlik ithalatının da özel bir rejime tabi olması nedeniyle istisna sanılmasıdır; özel düzenleme Bakanlık iznine ilişkindir, kimlik numarası şartını kaldırmaz. Bu nedenle doğru cevap E seçeneğidir. (MD İRK 8/1-2, 11)
+**Gerekçe:** İthalat Rejimi Kararı'na göre Vergi Usul Kanunu uyarınca vergi kimlik numarası verilen her gerçek ve tüzel kişi ile hukuki tasarruf yapma yetkisi tanınan kişi ortaklıkları ithalat işlemlerini yürütebilir. Vergi kimlik numarasına sahip olma şartı yalnızca üç hâlde aranmaz: özel anlaşmalara dayanan ithalat, kitap ve diğer yayınların ithalatı ile ülkemizde açılan uluslararası fuar ve sergilerde Bakanlıkça perakende satışına izin verilen eşyanın ithalatı. Türk müteahhitlik firmalarının yurt dışında üstlendikleri işlerle ilgili satın aldıkları makina ve teçhizatın Türkiye'ye kesin ve geçici ithali ile bunlara ilişkin süre uzatımları Bakanlığın iznine bağlıdır; ancak bu hâl vergi kimlik numarası şartının aranmadığı istisnalar arasında sayılmamıştır, dolayısıyla genel kural uygulanır. Tuzak, müteahhitlik ithalatının da Kararda ayrı bir hükümle düzenlenmesi nedeniyle istisna sanılmasıdır; bu özel düzenleme Bakanlık iznine ilişkindir, kimlik numarası şartını kaldırmaz. Bu nedenle doğru cevap E seçeneğidir. (MD İRK 8/1-2, 11)
 
 *İthalat Rejimi Kararı (CK 3350) md. 6, 8/1, 8/3, 8/4*
 
@@ -426,7 +414,7 @@ E) Kesin ithal işlemleri gümrük idarelerince sonuçlandırılır.
 
 *İthalat Rejimi Kararı (CK 3350) md. 9/4; CK 10790 eki Tablo 1 ve Tablo 2*
 
-**17-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nda yer alan aşağıdaki hükümde boş bırakılan yerlere sırasıyla gelmesi gereken ifadeler hangisidir?
+**17-** 3350 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararı'nda yer alan aşağıdaki hükümde boş bırakılan yerlere sırasıyla gelmesi gereken ifadeler hangi seçenekte doğru olarak verilmiştir?
 
 "III sayılı liste (İşlenmiş Tarım Ürünleri) kapsamı eşyanın karşılarında (T1), (T2) işaretlerinin bulunduğu durumlarda, söz konusu eşya için yapılan tahlil sonuçlarına göre Tablo 1 (Bileşim Tablosu) kullanılarak tespit edilen kod numarasına Tablo 2'de (……) tekabül eden …… tahsil edilir."  
 
@@ -471,28 +459,28 @@ E) I, III ve IV
 **Doğru Cevap:** C  
 **Gerekçe:** 31.12.2025 tarihli ve 33124 sayılı Resmî Gazete'nin 3. mükerrerinde yayımlanan ve 1 Ocak 2026 tarihinde yürürlüğe giren değişiklik Kararının geçiş hükmüne göre, A.TR dolaşım belgesi eşliğinde ithal edilen ve Pan-Avrupa-Akdeniz Bölgesel Konvansiyonuna taraf ülkeler menşeli olarak beyan edilen eşyadan (I doğru), yapılan beyanın aksine bir bilgi ya da belge olmadığı sürece ayrıca eşyanın tercihli menşeinin tevsiki şartı aranmaksızın (II yanlış), 31 Mart 2026 tarihine kadar (bu tarih dâhil) (III doğru) 3350 sayılı Kararın eki II sayılı listede belirtilen ek mali yükümlülük alınmaz. Alınmayan, gümrük vergisi değil ek mali yükümlülüktür (IV yanlış). Hükümdeki 'ayrıca' ifadesi, A.TR dolaşım belgesinin varlığının tercihli menşein tevsiki yerine geçmediğini, geçiş hükmünün bu tevsiki yalnızca belirtilen tarihe kadar aramadığını gösterir. En güçlü çeldirici 'I, III ve IV' seçeneğidir; gümrük vergisi ile ek mali yükümlülüğü karıştıran aday IV'ü de doğru sayar. Bu nedenle doğru cevap C seçeneğidir. (MD CK 10790 geçici 2, md. 2)
 
-*İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karar (CK 10790) geçici md. 1, md. 2*
+*İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karar (CK 10790) geçici md. 1, geçici md. 2, md. 2*
 
-**20-** 10790 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karar'ın geçiş hükmüne göre, aşağıdaki ithalatların hangisinde 1 Ocak 2026 tarihinden önceki gümrük vergisi veya ek mali yükümlülük uygulanır?
+**20-** 10790 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan İthalat Rejimi Kararında Değişiklik Yapılmasına İlişkin Karar'ın, 1 Ocak 2026 tarihi itibarıyla değişen gümrük vergisi ve ek mali yükümlülüklere ilişkin geçiş hükmüne göre aşağıdakilerden hangisi doğrudur?
 
-A) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi artırılan eşyaya ilişkin gümrük beyannamesinin 3 Şubat 2026 tarihinde tescil edilmesi  
-B) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi indirilen eşyaya ilişkin gümrük beyannamesinin 20 Ocak 2026 tarihinde tescil edilmesi  
-C) 1 Ocak 2026 tarihi itibarıyla ek mali yükümlülük ihdas edilen eşyaya ilişkin gümrük beyannamesinin 27 Şubat 2026 tarihinde tescil edilmesi  
-D) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi artırılan eşyaya ilişkin gümrük beyannamesinin 31 Ocak 2026 tarihinde tescil edilmesi  
-E) Aralık 2025'te Türkiye'ye sevk edilmek üzere yüklenen ve 1 Ocak 2026 tarihi itibarıyla gümrük vergisi artırılan eşyaya ilişkin beyannamenin 10 Şubat 2026'da tescil edilmesi  
+A) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi indirilen eşyaya ilişkin beyanname 31 Ocak 2026 tarihine kadar (bu tarih dâhil) tescil edilirse önceki gümrük vergisi uygulanır.  
+B) 1 Ocak 2026 tarihi itibarıyla gümrük vergisi artırılan eşyaya ilişkin beyanname 31 Mart 2026 tarihine kadar (bu tarih dâhil) tescil edilirse önceki gümrük vergisi uygulanır.  
+C) Gümrük vergisi artırılan eşyaya önceki oranın uygulanması, eşyanın 1 Ocak 2026 tarihinden önce Türkiye'ye sevk edilmek üzere yüklenmiş olması şartına bağlıdır.  
+D) 1 Ocak 2026 tarihi itibarıyla ek mali yükümlülük ihdas edilen eşyaya ilişkin beyanname 31 Ocak 2026 tarihine kadar (bu tarih dâhil) tescil edilirse önceki ek mali yükümlülük uygulanır.  
+E) Gümrük vergisi artırılan eşyaya önceki oranın uygulanması, eşyanın 1 Ocak 2026 tarihinden önce gümrüğe sunularak özet beyanının verilmiş olması şartına bağlıdır.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** 31.12.2025 tarihli ve 33124 sayılı Resmî Gazete'nin 3. mükerrerinde yayımlanan değişiklik Kararı 1 Ocak 2026 tarihinde yürürlüğe girmiştir. Geçiş hükmüne göre 1 Ocak 2026 tarihi itibarıyla ek mali yükümlülük ihdas edilen ya da gümrük vergisi ve/veya ek mali yükümlülüğü artırılan eşyanın ithalatına ilişkin gümrük beyannamesi 31 Ocak 2026 tarihine kadar (bu tarih dâhil) tescil edilirse 1 Ocak 2026 tarihinden önceki gümrük vergisi ve/veya ek mali yükümlülük uygulanır. Vergisi artırılan eşyada 31 Ocak 2026'da yapılan tescil bu sürenin son günüdür ve önceki oran uygulanır. 3 Şubat, 10 Şubat ve 27 Şubat tarihli tesciller süre dışındadır; yeni hükümde yüklemenin ne zaman yapıldığına bakılmaz, ölçüt yalnızca beyannamenin tescil tarihidir. Vergisi indirilen eşya ise geçiş hükmünün kapsamında değildir; bu eşyaya 1 Ocak 2026'dan itibaren yeni oran uygulanır. En güçlü çeldirici yükleme tarihini içeren seçenektir: yüklemenin önceden yapılması ve tescilin Şubat sonuna kadar yapılması, İthalat Rejimi Kararının 2022 yılı geçiş hükmünün ölçütüdür. Bu nedenle doğru cevap D seçeneğidir. (MD CK 10790 geçici 1, md. 2)
+**Gerekçe:** 31.12.2025 tarihli ve 33124 sayılı Resmî Gazete'nin 3. mükerrerinde yayımlanan ve 1 Ocak 2026 tarihinde yürürlüğe giren değişiklik Kararının geçiş hükmüne göre, 1 Ocak 2026 tarihi itibarıyla ek mali yükümlülük ihdas edilen ya da gümrük vergisi ve/veya ek mali yükümlülüğü artırılan eşyanın ithalatına ilişkin gümrük beyannamesi 31 Ocak 2026 tarihine kadar (bu tarih dâhil) tescil edilirse 1 Ocak 2026 tarihinden önceki gümrük vergisi ve/veya ek mali yükümlülük uygulanır. Hüküm yalnızca vergisi ihdas edilen veya artırılan eşyayı kapsar; vergisi indirilen eşyaya 1 Ocak 2026'dan itibaren yeni oran uygulanır. 31 Mart 2026, aynı değişiklik Kararının diğer geçiş hükmünde A.TR dolaşım belgesi eşliğinde gelen Bölgesel Konvansiyon ülkeleri menşeli eşyadan II sayılı listedeki ek mali yükümlülüğün alınmayacağı son tarihtir. Yeni hükümde yüklemenin ne zaman yapıldığına veya özet beyanın verilip verilmediğine bakılmaz; ölçüt yalnızca beyannamenin tescil tarihidir. Yükleme tarihi ölçütü İthalat Rejimi Kararının 2022 yılına ilişkin geçiş hükmüne, özet beyan ölçütü ise 8043 sayılı Kararla eklenen geçiş hükmüne aittir. En güçlü çeldirici 31 Mart 2026 tarihli seçenektir: aynı değişiklik Kararındaki diğer geçiş hükmünün tarihi bu hükme taşınmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD CK 10790 geçici 1, geçici 2, md. 2; İRK geçici 1, geçici 5)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 3 (II ve IV, I ve IV, I ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 14, TERSİNE 8, TERİM 7, UNSUR 3, İSTİSNA 3, YAKIN-SAYI 3 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (I ve IV, I ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 14, TERSİNE 8, TERİM 7, LİSTE-DIŞI 4, İSTİSNA 3, YAKIN-SAYI 3 |
 | İkiz eksen / ayna | 3 / GV-EMY ayrımı (VII sayılı liste ↔ Bölgesel Konvansiyon geçiş hükmü) |
 | Güncellik | 31.12.2025 / 33124 (3. Mükerrer) R.G.; yürürlük 01.01.2026; 31.12.2025 / 33124 (3. Mükerrer) R.G.; yürürlük 01.01.2026 |
 | Çıkmış bilgi alanı karşılayan | 6 |

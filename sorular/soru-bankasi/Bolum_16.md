@@ -14,18 +14,13 @@ C) Aksine hüküm bulunmadıkça, eşyanın beyan edildiği gümrük rejimine il
 D) Yerleşik olma koşulu, transit ya da geçici ithalat beyanında bulunan veya gümrük idarelerinin uygun bulması koşuluyla arızi olarak beyanda bulunan kişilere uygulanmaz.  
 E) İhracat, hariçte işleme, transit veya antrepo rejimi için beyan edilen serbest dolaşımdaki eşya, beyannamenin tescilinden itibaren Türkiye Gümrük Bölgesinden çıkıncaya, imha edilinceye veya beyanname iptal edilinceye kadar gümrük kontrolü altında kalır.  
 
-**2-** Yurt dışından dönen yolcu (Y) ile ilgili bilgiler şöyledir:
+**2-** Gümrük Yönetmeliği'ne göre başka bir tasarruf yoluyla beyana ilişkin aşağıdakilerden hangisi doğrudur?
 
-- (Y), Türkiye'de kalacak olan ve Bakanlar Kurulu Kararı ile belirlenen ticari mahiyette olmayan yolcu beraberi eşya getirmiştir.  
-- Eşya ihracata bağlı hak ve menfaatlerden yararlanmamakta, gümrük vergileri geri verilmiş eşya niteliği taşımamakta ve herhangi bir yasaklama veya kısıtlamaya tabi bulunmamaktadır.  
-- (Y), iki hat sisteminin çalıştığı gümrük idaresinde herhangi bir form doldurmadan ve sözlü açıklamada bulunmadan "beyana tabi eşyam yoktur" hattından geçmiştir.  
-Gümrük Yönetmeliği'nin beyan şekillerine ilişkin hükümlerine göre bu durumla ilgili aşağıdakilerden hangisi doğrudur?  
-
-A) Bu geçiş geçici ithalat rejimine ilişkin beyan sayılır; eşyanın yeniden ihracı da aynı şekilde yapılır.  
-B) Bu geçiş serbest dolaşıma giriş rejimine ilişkin beyan sayılır; eşyanın gümrüğe sunulduğu, beyannamesinin tescil edildiği ve teslim edildiği kabul edilir.  
-C) Form doldurulmadığından beyan yapılmamış sayılır; eşya için Sözlü Beyan Formu düzenlenmedikçe gümrük işlemleri tamamlanmış olmaz.  
-D) Eşya gümrük idaresine sunulmadığından beyan yapılmamış sayılır ve her durumda cezai işlem yapılır.  
-E) Bu geçiş serbest dolaşıma giriş rejimine ilişkin beyan sayılır; ancak beyannamenin tescil edilmiş sayılması için gümrük idaresince ayrıca yazılı beyan istenmesi zorunludur.  
+A) Eşyanın iki hat sisteminin çalıştığı gümrük idarelerinde yeşil veya "beyana tabi eşyam yoktur" hattından geçirilmesi, form doldurulmadıkça veya sözlü açıklama yapılmadıkça beyan sayılmaz.  
+B) Şartların yerine getirildiği hâllerde bu beyan gerçekleştiğinde eşyanın gümrük idaresine sunulduğu, buna ilişkin beyannamenin tescil edildiği ve eşyanın teslim edildiği kabul edilir.  
+C) Yolcuların ithal vergilerinden tam muafiyet suretiyle getirdikleri kişisel ve sportif amaçlı eşyaya ilişkin bu beyan, serbest dolaşıma giriş rejimine ilişkin beyan olarak kabul edilir.  
+D) Bu beyan şekli, gümrük vergilerinin geri verildiği veya yasaklama ya da kısıtlamaya tabi eşya için de uygulanır.  
+E) Beyan gerçekleştiği hâlde koşulların yerine getirilmediğinin inceleme sonucunda anlaşılması durumunda beyan geçersiz sayılır; cezai işlem yapılmaz.  
 
 **3-** Gümrük Yönetmeliği'ne göre eşyanın tesliminden sonra, yükümlünün talebi üzerine ve cezai hükümler saklı kalmak kaydıyla beyannamede düzeltme yapılmasına, dahilde işleme rejimi dışındaki hâllerde hangi süre içinde izin verilir?
 
@@ -65,13 +60,16 @@ C) Kesin satışlarda satıcı, diğer hâllerde gönderici tarafından mahallin
 D) İthal eşyasına ait gümrük kıymetinin unsurlarını içeren ve Yönetmelik ekinde yer alan belge  
 E) Kara nakliyatında taşıyıcılar tarafından konşimento yerine düzenlenen ve taşınacak eşyanın cinsi, ağırlığı veya adedi ile paketlere yazılı numara ve işaretleri içeren belge  
 
-**7-** Gümrük Yönetmeliği'ne göre aşağıdaki belge ile bu belgeyi düzenleyen, hazırlayan veya veren kişi eşleştirmelerinden hangisi yanlıştır?
+**7-** Gümrük Yönetmeliği'nin çeki listesi ve taşıma belgelerine ilişkin hükümlerinde yer alan aşağıdaki cümlelerde bazı yerler boş bırakılmıştır:
 
-A) Yük senedi (CMR) – Kara nakliyatında taşıyıcılar  
-B) Ayrıntılı fatura – Satıcı veya gönderici  
-C) Konşimento – Eşyayı gemiye yükleten  
-D) Çeki listesi – Satıcı veya gönderici ya da beyan sahibi  
-E) Fatura – Kesin satışlarda satıcı, diğer hâllerde gönderici  
+"Deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından ……(1)…… taşıma belgesi olarak konşimento verilir. Çeki listesi satıcı veya gönderici tarafından fatura ile birlikte hazırlanabileceği gibi, ……(2)…… tarafından da hazırlanabilir."  
+Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?  
+
+A) alıcıya / beyan sahibi  
+B) yükletene / taşıyıcı  
+C) yükletene / beyan sahibi  
+D) alıcıya / taşıyıcı  
+E) taşıyana / alıcı  
 
 **8-** Gümrük Yönetmeliği'ne göre eşyanın tesliminden sonra beyannamenin iptaline ilişkin aşağıdaki ifadeler verilmiştir:
 
@@ -121,19 +119,13 @@ C) 500 Avro
 D) 1.000 Avro  
 E) 1.500 Avro  
 
-**13-** Gümrük Yönetmeliği'ne göre beyanın kontrolüne ilişkin aşağıdaki ifadeler verilmiştir:
+**13-** Gümrük Yönetmeliği'ne göre Bakanlıkça belirlenen onaylanmış kişi statüsüne sahip kişilerin ihracatta yararlandığı, eşyanın çıkış işlemlerinin tamamlanmasından önce belge kontrolüne veya muayeneye tabi tutulmadığı ve beyanın kontrolünün çıkış işlemlerinin tamamlanmasını müteakip gerçekleştirildiği kontrol türü aşağıdakilerden hangisidir?
 
-I. Beyanın kontrol türü ve kontrolle görevli memur, gümrük idare amiri tarafından risk kriterlerine göre belirlenir.  
-II. Mavi hatta işlem gören ihracat beyannamelerine ilişkin beyanın kontrolü, eşyanın çıkış işlemlerinin tamamlanmasını müteakip gerçekleştirilir.  
-III. Yetkilendirilmiş yükümlü sertifikası sahipleri adına tescilli beyannamelere ilişkin kontroller öncelikli olarak yapılır.  
-IV. Yeşil hat, eşyanın muayeneye tabi tutulmadığı ancak beyanname ve eklerinin belge kontrolünün yapıldığı hattır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) II ve III  
-B) I ve II  
-C) III ve IV  
-D) I, II ve III  
-E) II, III ve IV  
+A) Mavi hat  
+B) Yeşil hat  
+C) Sarı hat  
+D) Kırmızı hat  
+E) "Beyana tabi eşyam yoktur" hattı  
 
 **14-** Gümrük Yönetmeliği'ne göre eşyanın muayenesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -143,36 +135,23 @@ C) Kısmi muayene esnasında bir farklılık tespit edilmesi hâlinde tam muayen
 D) Dökme hâldeki ihracat eşyasının, gümrüğe sunulmadan deniz ve kara taşıtlarına yükletilirken muayenesi yapılamaz.  
 E) Muayene sırasında eşyanın veya kaplarının bozuk, kırık veya noksan olduğunun anlaşılması hâlinde, geçici depolama yeri veya antrepo işleticisi kuruluşun yetkilisi ile ortak bir tutanak düzenlenir.  
 
-**15-** (A) A.Ş.'nin ithalatına ilişkin bilgiler şöyledir:
+**15-** Gümrük Yönetmeliği'ne göre laboratuvar tahliline tabi eşyada, daha önce yapılan tahlile itibar edilerek eşyanın yeniden laboratuvar tahliline gönderilmemesi kolaylığına ilişkin aşağıdakilerden hangisi doğrudur?
 
-- (A) A.Ş., ek-23'te yer alan listede bulunan ve dökme olarak gelmeyen bir eşyayı süreklilik arz edecek şekilde ithal etmektedir; eşyanın göndericisi, alıcısı ve menşei her ithalatta aynıdır.  
-- Eşyanın özelliklerini belirleyici belgelerinde ve eşya üzerindeki ayırt edici ibarelerde önceki ithalata göre farklılık yoktur.  
-- Beyannamenin 44 no.lu kutusuna, beyanname tescil tarihi itibarıyla on ay önce düzenlenmiş tahlil raporunun tarih ve sayısı yazılmıştır.  
-- (A) A.Ş.'nin onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikası bulunmamaktadır.  
-- Bilgisayar sistemi beyanın kontrolü türünü kırmızı hat tam muayene olarak belirlemiştir.  
-Gümrük Yönetmeliği'nin laboratuvar tahliline tabi tutulacak eşyaya ilişkin hükümlerine göre bu beyanname ile ilgili aşağıdakilerden hangisi doğrudur?  
+A) Kolaylıktan yararlanılabilmesi için tahlil raporunun beyanname tescil tarihi itibarıyla en fazla altı ay öncesine dayanması şarttır.  
+B) Kolaylıktan yararlanılabilmesi için ithalinde süreklilik bulunan eşyanın göndericisinin aynı olması yeterlidir; alıcısının ve menşeinin aynı olması aranmaz.  
+C) Bilgisayar sistemi beyanın kontrol türünü kırmızı hat tam muayene olarak belirlerse yükümlünün bu kolaylıktan yararlanmasına izin verilmez.  
+D) Bu kolaylıktan yalnızca onaylanmış kişi statü belgesine veya yetkilendirilmiş yükümlü sertifikasına sahip yükümlüler yararlanabilir.  
+E) Kolaylığın suistimal edildiğinin anlaşılması hâlinde beyanname iptal edilir.  
 
-A) Tahlil raporu tescil tarihi itibarıyla bir yıldan eski olmadığından daha önce yapılan tahlile itibar edilir ve eşya yeniden tahlile gönderilmez.  
-B) Eşya tahlil sonuçları alınmadan teslim edilir; tahlil sonucunun beyana aykırı çıkması hâlinde sistem üzerinde beyannameye meşruhat düşülür.  
-C) Yükümlünün, daha önce yapılan tahlile itibar edilmesi kolaylığından yararlanmasına izin verilmez.  
-D) Listedeki eşya belge kontrolüne yönlendirilir ve beyanname içeriği eşya laboratuvar tahliline gönderilmez.  
-E) Daha önce yapılan tahlile itibar edilir; ancak kolaylığın suistimal edildiğinin anlaşılması hâlinde beyanname iptal edilir.  
+**16-** Gümrük Yönetmeliği'nin numunelerin laboratuvara gönderilmesine ilişkin hükümleri arasında aşağıdakilerden hangisi yer almaz?
 
-**16-** Gümrük Yönetmeliği'ne göre numunelerin laboratuvara gönderilmesine ilişkin aşağıdaki ifadeler verilmiştir:
+A) Numunelerin kargo ile gönderilmesine ilişkin masraflar gümrük idaresince karşılanır.  
+B) Eşya sahibi veya temsilcileri, gümrük beyanına konu eşyanın tahlili için gümrük laboratuvarlarına doğrudan numune gönderemez.  
+C) Her beyannameye ait tahlili gereken numuneler laboratuvara bir defada gönderilir; ilk numunelerin tahlilinden ve rapora bağlanmasından sonra tekrar numune gönderilmesi idare amirinin iznine bağlıdır.  
+D) Gümrük laboratuvarları dışındaki laboratuvarlara gönderilen numuneler yazı ile sevk edilir.  
+E) Usulüne uygun alınmadığı veya usulüne uygun gönderilmediği sonradan tespit edilen numune kullanılarak yapılan tahlil sonuçları geçersiz sayılır.  
 
-I. Eşya sahibi veya temsilcileri, gümrük beyanına konu eşyanın tahlili için gümrük laboratuvarlarına doğrudan numune gönderebilir.  
-II. Her beyannameye ait tahlili gereken numuneler laboratuvara bir defada gönderilir; ilk numunelerin tahlilinden ve rapora bağlanmasından sonra tekrar numune gönderilmesi idare amirinin iznine bağlıdır.  
-III. Numunelerin kargo ile gönderilmesine ilişkin masraflar gümrük idaresince karşılanır.  
-IV. Usulüne uygun alınmadığı veya usulüne uygun gönderilmediği sonradan tespit edilen numune kullanılarak yapılan tahlil sonuçları geçersiz sayılır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) II ve IV  
-B) I ve III  
-C) I, II ve IV  
-D) II, III ve IV  
-E) I, II, III ve IV  
-
-**17-** Gümrük Yönetmeliği'nin eşyanın teslimine ilişkin hükmünde yer alan; konşimentosu ibraz edilemeyen petrol ve türevlerinin, alıcı olarak gösterilen onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikası sahiplerinin taahhütnamesine istinaden konşimento ibrazından önce alıcıya teslim edilebilmesine ilişkin düzenleme ile ilgili aşağıdakilerden hangisi doğrudur?
+**17-** Gümrük Yönetmeliği'nin eşyanın teslimine ilişkin hükmünde yer alan, konşimentosu ibraz edilemeyen petrol ve türevlerinin, alıcı olarak gösterilen onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikası sahiplerinin taahhütnamesine istinaden konşimento ibrazından önce alıcıya teslim edilebilmesine ilişkin düzenleme ile ilgili aşağıdakilerden hangisi doğrudur?
 
 A) Konşimentonun en geç doksan gün içinde ibraz edileceğine dair taahhütname verilmesi şartıyla uygulanmaya devam etmektedir.  
 B) Uygulanmaya devam etmekte olup taahhütnameyi eşyanın taşıyıcısı veya temsilcisi vermektedir.  
@@ -227,21 +206,16 @@ E) İhracat, hariçte işleme, transit veya antrepo rejimi için beyan edilen se
 
 *4458 sayılı Gümrük Kanunu md. 59; Gümrük Yönetmeliği md. 175, 177, 178, 179*
 
-**2-** Yurt dışından dönen yolcu (Y) ile ilgili bilgiler şöyledir:
+**2-** Gümrük Yönetmeliği'ne göre başka bir tasarruf yoluyla beyana ilişkin aşağıdakilerden hangisi doğrudur?
 
-- (Y), Türkiye'de kalacak olan ve Bakanlar Kurulu Kararı ile belirlenen ticari mahiyette olmayan yolcu beraberi eşya getirmiştir.  
-- Eşya ihracata bağlı hak ve menfaatlerden yararlanmamakta, gümrük vergileri geri verilmiş eşya niteliği taşımamakta ve herhangi bir yasaklama veya kısıtlamaya tabi bulunmamaktadır.  
-- (Y), iki hat sisteminin çalıştığı gümrük idaresinde herhangi bir form doldurmadan ve sözlü açıklamada bulunmadan "beyana tabi eşyam yoktur" hattından geçmiştir.  
-Gümrük Yönetmeliği'nin beyan şekillerine ilişkin hükümlerine göre bu durumla ilgili aşağıdakilerden hangisi doğrudur?  
-
-A) Bu geçiş geçici ithalat rejimine ilişkin beyan sayılır; eşyanın yeniden ihracı da aynı şekilde yapılır.  
-B) Bu geçiş serbest dolaşıma giriş rejimine ilişkin beyan sayılır; eşyanın gümrüğe sunulduğu, beyannamesinin tescil edildiği ve teslim edildiği kabul edilir.  
-C) Form doldurulmadığından beyan yapılmamış sayılır; eşya için Sözlü Beyan Formu düzenlenmedikçe gümrük işlemleri tamamlanmış olmaz.  
-D) Eşya gümrük idaresine sunulmadığından beyan yapılmamış sayılır ve her durumda cezai işlem yapılır.  
-E) Bu geçiş serbest dolaşıma giriş rejimine ilişkin beyan sayılır; ancak beyannamenin tescil edilmiş sayılması için gümrük idaresince ayrıca yazılı beyan istenmesi zorunludur.  
+A) Eşyanın iki hat sisteminin çalıştığı gümrük idarelerinde yeşil veya "beyana tabi eşyam yoktur" hattından geçirilmesi, form doldurulmadıkça veya sözlü açıklama yapılmadıkça beyan sayılmaz.  
+B) Şartların yerine getirildiği hâllerde bu beyan gerçekleştiğinde eşyanın gümrük idaresine sunulduğu, buna ilişkin beyannamenin tescil edildiği ve eşyanın teslim edildiği kabul edilir.  
+C) Yolcuların ithal vergilerinden tam muafiyet suretiyle getirdikleri kişisel ve sportif amaçlı eşyaya ilişkin bu beyan, serbest dolaşıma giriş rejimine ilişkin beyan olarak kabul edilir.  
+D) Bu beyan şekli, gümrük vergilerinin geri verildiği veya yasaklama ya da kısıtlamaya tabi eşya için de uygulanır.  
+E) Beyan gerçekleştiği hâlde koşulların yerine getirilmediğinin inceleme sonucunda anlaşılması durumunda beyan geçersiz sayılır; cezai işlem yapılmaz.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre gümrük beyanı yazılı olarak, bilgisayar veri işleme tekniği yoluyla, sözlü olarak veya eşya sahibinin bu eşyayı bir gümrük rejimine tabi tutma isteğini ifade ettiği herhangi bir tasarruf yoluyla yapılabilir. Gümrük Yönetmeliği, iki hat sisteminin çalıştığı gümrük idarelerinde eşyanın yeşil veya 'beyana tabi eşyam yoktur' hattından geçirilmesini başka bir tasarruf yoluyla beyan sayar. Bakanlar Kurulu Kararı ile belirlenen ticari mahiyette olmayan yolcu beraberi eşyaya ilişkin bu beyan serbest dolaşıma giriş rejimine ilişkin beyan olarak kabul edilir; şartlar yerine getirildiğinde beyan gerçekleştiği anda eşyanın gümrük idaresine sunulduğu, beyannamesinin tescil edildiği ve eşyanın teslim edildiği kabul edilir. Vakadaki eşya ihracata bağlı hak ve menfaatlerden yararlanmadığı, vergileri geri verilmiş olmadığı ve yasaklama veya kısıtlamaya tabi bulunmadığı için bu beyan şeklinin dışında kalmaz. Vakaya saklanan nokta, form doldurmadan ve sözlü açıklama yapmadan hattan geçmenin kendisinin bir beyan şekli olmasıdır. En güçlü çeldirici geçici ithalat seçeneğidir: geçici ithalata ilişkin tasarruf yoluyla beyan, yolcuların ithal vergilerinden tam muafiyetle getirdiği kişisel ve sportif amaçlı eşyaya özgüdür; vakadaki eşya Türkiye'de kalacaktır. Cezai işlem yalnızca koşulların yerine getirilmediğinin incelemeyle anlaşılması hâlinde söz konusudur; yazılı beyan isteme hakkı ise temsilci aracılığıyla yapılan sözlü beyanlara ilişkindir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 59; GY 175, 177, 178, 179)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre gümrük beyanı yazılı olarak, bilgisayar veri işleme tekniği yoluyla, sözlü olarak veya eşya sahibinin bu eşyayı bir gümrük rejimine tabi tutma isteğini ifade ettiği herhangi bir tasarruf yoluyla yapılabilir. Gümrük Yönetmeliği, iki hat sisteminin çalıştığı gümrük idarelerinde eşyanın yeşil veya 'beyana tabi eşyam yoktur' hattından geçirilmesini, hat sisteminin çalışmadığı bir idareden beyan yapılmaksızın geçirilmesini ve ekteki formla yapılan beyanı başka bir tasarruf yoluyla beyan sayar; hattan geçiş için ayrıca form veya sözlü açıklama aranmaz. Şartlar yerine getirildiğinde bu beyan gerçekleştiği anda eşyanın gümrük idaresine sunulduğu, beyannamesinin tescil edildiği ve eşyanın teslim edildiği kabul edilir. Yolcuların ithal vergilerinden tam muafiyetle getirdiği kişisel ve sportif amaçlı eşyaya ilişkin bu beyan serbest dolaşıma giriş değil, geçici ithalat rejimine ilişkin beyan sayılır; serbest dolaşıma giriş beyanı Bakanlar Kurulu Kararı ile belirlenen ticari mahiyette olmayan yolcu beraberi eşyaya aittir. Bu beyan şekli ihracata bağlı hak ve menfaatlerden yararlanan, gümrük vergilerinin geri verildiği veya yasaklama, kısıtlama ya da diğer özel bir işleme tabi eşya için uygulanmaz; koşulların yerine getirilmediğinin inceleme sonucunda anlaşılması durumunda ise cezai işlem yapılır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 59; GY 175, 177, 178, 179)
 
 *Gümrük Yönetmeliği md. 121; 4458 sayılı Gümrük Kanunu md. 63, 73*
 
@@ -303,16 +277,19 @@ E) Kara nakliyatında taşıyıcılar tarafından konşimento yerine düzenlenen
 
 *Gümrük Yönetmeliği md. 115, 116, 117, 118*
 
-**7-** Gümrük Yönetmeliği'ne göre aşağıdaki belge ile bu belgeyi düzenleyen, hazırlayan veya veren kişi eşleştirmelerinden hangisi yanlıştır?
+**7-** Gümrük Yönetmeliği'nin çeki listesi ve taşıma belgelerine ilişkin hükümlerinde yer alan aşağıdaki cümlelerde bazı yerler boş bırakılmıştır:
 
-A) Yük senedi (CMR) – Kara nakliyatında taşıyıcılar  
-B) Ayrıntılı fatura – Satıcı veya gönderici  
-C) Konşimento – Eşyayı gemiye yükleten  
-D) Çeki listesi – Satıcı veya gönderici ya da beyan sahibi  
-E) Fatura – Kesin satışlarda satıcı, diğer hâllerde gönderici  
+"Deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından ……(1)…… taşıma belgesi olarak konşimento verilir. Çeki listesi satıcı veya gönderici tarafından fatura ile birlikte hazırlanabileceği gibi, ……(2)…… tarafından da hazırlanabilir."  
+Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?  
+
+A) alıcıya / beyan sahibi  
+B) yükletene / taşıyıcı  
+C) yükletene / beyan sahibi  
+D) alıcıya / taşıyıcı  
+E) taşıyana / alıcı  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından yükletene taşıma belgesi olarak konşimento verilir; yükleten konşimentoyu düzenleyen değil, kendisine konşimento verilen taraftır. Diğer eşleştirmeler doğrudur: kara nakliyatında taşıyıcılar konşimento yerine yük senedi (CMR) düzenler; ayrıntılı fatura satıcı veya gönderici tarafından mahallinde düzenlenir; çeki listesi satıcı veya gönderici tarafından fatura ile birlikte hazırlanabileceği gibi beyan sahibi tarafından da hazırlanabilir; fatura kesin satışlarda satıcı, diğer hâllerde gönderici tarafından mahallinde düzenlenir. En güçlü çeldirici çeki listesi eşleştirmesidir: beyan sahibinin de hazırlayabildiği tek belge çeki listesidir, ayrıntılı fatura ise yalnızca satıcı veya gönderici tarafından düzenlenir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 115, 116, 117, 118)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından yükletene taşıma belgesi olarak konşimento verilir; konşimentoda taşıyanın, kaptanın, yükletenin ve alıcının adı ile yükleme ve boşaltma limanları gibi bilgiler bulunur. Çeki listesi ise satıcı veya gönderici tarafından fatura ile birlikte hazırlanabileceği gibi beyan sahibi tarafından da hazırlanabilir. Alıcı ve taşıyan konşimentoda adı yazılan taraflardır; belge yükletene verilir. Taşıyıcı, kara nakliyatında konşimento yerine yük senedini (CMR) düzenleyen kişidir; çeki listesini hazırlayabilecekler arasında sayılmamıştır. Ayrıntılı fatura ve fatura ise yalnızca satıcı veya gönderici tarafından mahallinde düzenlenir; beyan sahibinin de hazırlayabildiği belge çeki listesidir. En güçlü tuzak konşimentonun alıcıya verildiğini düşünmektir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 115, 116, 117, 118)
 
 *Gümrük Yönetmeliği md. 124, 125, 129*
 
@@ -387,24 +364,18 @@ E) 1.500 Avro
 **Doğru Cevap:** D  
 **Gerekçe:** Gümrük Yönetmeliği'ne göre ticari amaçla Türkiye Gümrük Bölgesinde serbest dolaşıma girecek eşyanın gümrük kıymetinin sevkiyat ve beyan başına 1000 Avro'yu geçmemesi, sevkiyatının düzenli hâldeki benzer sevkiyatların bir parçası olmaması ve daha büyük bir nakliyatın parçası olup da bağımsız bir taşıyıcı tarafından taşınmaması kaydıyla bu eşya gümrük idaresine sözlü beyan edilir. En güçlü çeldirici 500 Avro'dur: bu tutar aynı Yönetmelikte, aynı gümrük idaresinden sürekli ve periyodik olarak ithal edilen ve CIF kıymeti 500 Avro'yu geçmeyen eşyada beyanname yerine ticari veya idari belge kullanılmasına ilişkin sınırdır. 150, 430 ve 1.500 Avro ise gümrük mevzuatında posta ve hızlı kargo gönderileri ile yolcu beraberi eşyaya ilişkin kıymet sınırlarıdır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 169, 148)
 
-*Gümrük Yönetmeliği md. 180*
+*Gümrük Yönetmeliği md. 178, 180*
 
-**13-** Gümrük Yönetmeliği'ne göre beyanın kontrolüne ilişkin aşağıdaki ifadeler verilmiştir:
+**13-** Gümrük Yönetmeliği'ne göre Bakanlıkça belirlenen onaylanmış kişi statüsüne sahip kişilerin ihracatta yararlandığı, eşyanın çıkış işlemlerinin tamamlanmasından önce belge kontrolüne veya muayeneye tabi tutulmadığı ve beyanın kontrolünün çıkış işlemlerinin tamamlanmasını müteakip gerçekleştirildiği kontrol türü aşağıdakilerden hangisidir?
 
-I. Beyanın kontrol türü ve kontrolle görevli memur, gümrük idare amiri tarafından risk kriterlerine göre belirlenir.  
-II. Mavi hatta işlem gören ihracat beyannamelerine ilişkin beyanın kontrolü, eşyanın çıkış işlemlerinin tamamlanmasını müteakip gerçekleştirilir.  
-III. Yetkilendirilmiş yükümlü sertifikası sahipleri adına tescilli beyannamelere ilişkin kontroller öncelikli olarak yapılır.  
-IV. Yeşil hat, eşyanın muayeneye tabi tutulmadığı ancak beyanname ve eklerinin belge kontrolünün yapıldığı hattır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) II ve III  
-B) I ve II  
-C) III ve IV  
-D) I, II ve III  
-E) II, III ve IV  
+A) Mavi hat  
+B) Yeşil hat  
+C) Sarı hat  
+D) Kırmızı hat  
+E) "Beyana tabi eşyam yoktur" hattı  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre beyanın kontrol türü ve kontrolle görevli memur, gümrük idare amiri tarafından değil, bilgisayar sistemi tarafından risk kriterlerine göre belirlenir (I yanlış). Mavi hat, Bakanlıkça belirlenen onaylanmış kişi statüsüne sahip kişilerin ihracatta yararlandığı, eşyanın çıkış işlemlerinin tamamlanmasından önce belge kontrolüne veya muayeneye tabi tutulmadığı hattır; bu beyannamelere ilişkin beyanın kontrolü çıkış işlemlerinin tamamlanmasını müteakip yapılır (II doğru). Yetkilendirilmiş yükümlü sertifikası sahipleri adına tescilli beyannamelere ilişkin kontroller öncelikli olarak yapılır (III doğru). Yeşil hat eşyanın belge kontrolüne veya muayeneye tabi tutulmadığı hattır; muayene olmaksızın beyanname ve eklerinin kontrol edildiği hat sarı hattır (IV yanlış). En güçlü çeldirici 'II, III ve IV' seçeneğidir: sarı hattın tanımı yeşil hatta taşınmıştır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 180)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre beyanın kontrol türü ve kontrolle görevli memur, bilgisayar sistemi tarafından risk kriterlerine göre belirlenir. Mavi hat, Bakanlıkça belirlenen onaylanmış kişi statüsüne sahip kişilerin ihracatta yararlandığı, eşyanın çıkış işlemlerinin tamamlanmasından önce belge kontrolüne veya muayeneye tabi tutulmadığı hattır; bu beyannamelere ilişkin beyanın kontrolü çıkış işlemlerinin tamamlanmasını müteakip yapılır. En güçlü tuzak yeşil hattır: yeşil hatta da eşya belge kontrolüne veya muayeneye tabi tutulmaz, ancak bu hat onaylanmış kişilerin ihracatına özgü değildir ve kontrolün çıkıştan sonra yapılması öngörülmemiştir. Kırmızı hat eşyanın muayenesiyle birlikte belge kontrolünün de yapıldığı, sarı hat ise muayeneye gerek görülmeksizin beyanname ve eklerinin doğruluğunun ve birbiriyle uygunluğunun kontrol edildiği hattır. 'Beyana tabi eşyam yoktur' hattı ise beyanın kontrol türü değildir; iki hat sisteminin çalıştığı gümrük idarelerinde yolcu beraberi eşyanın bu hattan geçirilmesi başka bir tasarruf yoluyla beyan sayılır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 178, 180)
 
 *Gümrük Yönetmeliği md. 182*
 
@@ -421,46 +392,33 @@ E) Muayene sırasında eşyanın veya kaplarının bozuk, kırık veya noksan ol
 
 *Gümrük Yönetmeliği md. 196*
 
-**15-** (A) A.Ş.'nin ithalatına ilişkin bilgiler şöyledir:
+**15-** Gümrük Yönetmeliği'ne göre laboratuvar tahliline tabi eşyada, daha önce yapılan tahlile itibar edilerek eşyanın yeniden laboratuvar tahliline gönderilmemesi kolaylığına ilişkin aşağıdakilerden hangisi doğrudur?
 
-- (A) A.Ş., ek-23'te yer alan listede bulunan ve dökme olarak gelmeyen bir eşyayı süreklilik arz edecek şekilde ithal etmektedir; eşyanın göndericisi, alıcısı ve menşei her ithalatta aynıdır.  
-- Eşyanın özelliklerini belirleyici belgelerinde ve eşya üzerindeki ayırt edici ibarelerde önceki ithalata göre farklılık yoktur.  
-- Beyannamenin 44 no.lu kutusuna, beyanname tescil tarihi itibarıyla on ay önce düzenlenmiş tahlil raporunun tarih ve sayısı yazılmıştır.  
-- (A) A.Ş.'nin onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikası bulunmamaktadır.  
-- Bilgisayar sistemi beyanın kontrolü türünü kırmızı hat tam muayene olarak belirlemiştir.  
-Gümrük Yönetmeliği'nin laboratuvar tahliline tabi tutulacak eşyaya ilişkin hükümlerine göre bu beyanname ile ilgili aşağıdakilerden hangisi doğrudur?  
-
-A) Tahlil raporu tescil tarihi itibarıyla bir yıldan eski olmadığından daha önce yapılan tahlile itibar edilir ve eşya yeniden tahlile gönderilmez.  
-B) Eşya tahlil sonuçları alınmadan teslim edilir; tahlil sonucunun beyana aykırı çıkması hâlinde sistem üzerinde beyannameye meşruhat düşülür.  
-C) Yükümlünün, daha önce yapılan tahlile itibar edilmesi kolaylığından yararlanmasına izin verilmez.  
-D) Listedeki eşya belge kontrolüne yönlendirilir ve beyanname içeriği eşya laboratuvar tahliline gönderilmez.  
-E) Daha önce yapılan tahlile itibar edilir; ancak kolaylığın suistimal edildiğinin anlaşılması hâlinde beyanname iptal edilir.  
+A) Kolaylıktan yararlanılabilmesi için tahlil raporunun beyanname tescil tarihi itibarıyla en fazla altı ay öncesine dayanması şarttır.  
+B) Kolaylıktan yararlanılabilmesi için ithalinde süreklilik bulunan eşyanın göndericisinin aynı olması yeterlidir; alıcısının ve menşeinin aynı olması aranmaz.  
+C) Bilgisayar sistemi beyanın kontrol türünü kırmızı hat tam muayene olarak belirlerse yükümlünün bu kolaylıktan yararlanmasına izin verilmez.  
+D) Bu kolaylıktan yalnızca onaylanmış kişi statü belgesine veya yetkilendirilmiş yükümlü sertifikasına sahip yükümlüler yararlanabilir.  
+E) Kolaylığın suistimal edildiğinin anlaşılması hâlinde beyanname iptal edilir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre ek-23'teki listede bulunan eşya laboratuvar tahliline tabi tutulur. Bununla birlikte, dökme gelen belirli eşya hariç, ithalinde süreklilik bulunan, göndericisi, alıcısı ve menşei aynı eşyanın belirleyici belgelerinde ve ayırt edici ibarelerinde farklılık bulunmaması ve beyanname tescil tarihi itibarıyla en fazla bir yıl öncesine dayanan tahlil raporunun tarih ve sayısının beyannamenin 44 no.lu kutusunda beyan edilmesi hâlinde daha önce yapılan tahlile itibar edilir ve eşya yeniden tahlile gönderilmez. Ancak bilgisayar sistemi beyanın kontrolü türünü kırmızı hat tam muayene olarak belirlemişse yükümlünün bu kolaylıktan yararlanmasına izin verilmez. Vakadaki bütün koşullar sağlanmış görünmektedir; saklanan istisna kontrol türünün kırmızı hat tam muayene olmasıdır. En güçlü çeldirici bir yıllık rapor kuralını uygulayıp istisnayı atlayan seçenektir. Tahlil sonucu beklenmeden teslim ve beyannameye meşruhat, dökme gelen belirli eşyada yükümlünün onaylanmış kişi statüsüne veya yetkilendirilmiş yükümlü sertifikasına sahip olması hâline aittir; belge kontrolüne gelen eşyanın tahlile gönderilmemesi kuralı ise kırmızı hat tam muayenede uygulanmaz; suistimal hâlinde öngörülen sonuç iptal değil, eşyanın tahlile gönderilebilmesidir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 196)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre ek-23'teki listede bulunan eşya laboratuvar tahliline tabi tutulur. Dökme gelen belirli eşya hariç, ithalinde süreklilik bulunan, göndericisi, alıcısı ve menşei aynı eşyanın belirleyici belgelerinde ve ayırt edici ibarelerinde farklılık bulunmaması ve beyanname tescil tarihi itibarıyla en fazla bir yıl öncesine dayanan tahlil raporunun tarih ve sayısının beyannamenin 44 no.lu kutusunda beyan edilmesi hâlinde daha önce yapılan tahlile itibar edilir ve eşya yeniden tahlile gönderilmez. Ancak bilgisayar sistemi beyanın kontrolü türünü kırmızı hat tam muayene olarak belirlemişse yükümlünün bu kolaylıktan yararlanmasına izin verilmez. Altı aylık rapor süresi ile onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikası şartı, dökme gelen belirli plastik eşyaya ilişkin ayrı kolaylığa aittir; genel kolaylık için böyle bir statü aranmaz. Gönderici, alıcı ve menşein üçünün de aynı olması gerekir. Kolaylığın suistimal edilmesinin önlenmesi için öngörülen sonuç beyannamenin iptali değil, gerekli görülen durumlarda eşyanın tahlile gönderilebilmesidir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 196)
 
-*Gümrük Yönetmeliği md. 200*
+*Gümrük Yönetmeliği md. 199, 200, 201*
 
-**16-** Gümrük Yönetmeliği'ne göre numunelerin laboratuvara gönderilmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**16-** Gümrük Yönetmeliği'nin numunelerin laboratuvara gönderilmesine ilişkin hükümleri arasında aşağıdakilerden hangisi yer almaz?
 
-I. Eşya sahibi veya temsilcileri, gümrük beyanına konu eşyanın tahlili için gümrük laboratuvarlarına doğrudan numune gönderebilir.  
-II. Her beyannameye ait tahlili gereken numuneler laboratuvara bir defada gönderilir; ilk numunelerin tahlilinden ve rapora bağlanmasından sonra tekrar numune gönderilmesi idare amirinin iznine bağlıdır.  
-III. Numunelerin kargo ile gönderilmesine ilişkin masraflar gümrük idaresince karşılanır.  
-IV. Usulüne uygun alınmadığı veya usulüne uygun gönderilmediği sonradan tespit edilen numune kullanılarak yapılan tahlil sonuçları geçersiz sayılır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) II ve IV  
-B) I ve III  
-C) I, II ve IV  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Numunelerin kargo ile gönderilmesine ilişkin masraflar gümrük idaresince karşılanır.  
+B) Eşya sahibi veya temsilcileri, gümrük beyanına konu eşyanın tahlili için gümrük laboratuvarlarına doğrudan numune gönderemez.  
+C) Her beyannameye ait tahlili gereken numuneler laboratuvara bir defada gönderilir; ilk numunelerin tahlilinden ve rapora bağlanmasından sonra tekrar numune gönderilmesi idare amirinin iznine bağlıdır.  
+D) Gümrük laboratuvarları dışındaki laboratuvarlara gönderilen numuneler yazı ile sevk edilir.  
+E) Usulüne uygun alınmadığı veya usulüne uygun gönderilmediği sonradan tespit edilen numune kullanılarak yapılan tahlil sonuçları geçersiz sayılır.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre eşya sahibi veya temsilcileri gümrük beyanına konu eşyanın tahlili için gümrük laboratuvarlarına doğrudan numune gönderemez, laboratuvarlar da bunları kabul edemez (I yanlış). Her beyannameye ait tahlili gereken numuneler laboratuvara bir defada gönderilir; ilk numunelerin tahlilinden ve rapora bağlanmasından sonra laboratuvara her ne sebeple olursa olsun tekrar numune gönderilmesi idare amirinin iznine bağlıdır (II doğru). Numunelerin kargo ile gönderilmesine ilişkin masraflar gümrük idaresine değil yükümlüsüne aittir (III yanlış). Usulüne uygun alınmadığı veya usulüne uygun gönderilmediği sonradan tespit edilen numune kullanılarak yapılan tahlil sonuçları geçersiz sayılır (IV doğru). En güçlü çeldirici 'II, III ve IV' seçeneğidir: muayene ve numuneye ilişkin giderlerin beyan sahibince karşılanması kuralı kargo masraflarında da geçerlidir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 200)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre numunelerin kargo ile gönderilmesine ilişkin masraflar gümrük idaresine değil yükümlüsüne aittir; seçenekteki ifade bu hükmü tersine çevirdiği için hükümler arasında yer almaz. Yönetmelik aynı yaklaşımı başka hükümlerde de sürdürür: gümrük idareleri aldıkları numuneler karşılığında bedel ödemekle yükümlü değildir ve tahlil masrafları yükümlü tarafından karşılanır. Diğer ifadeler Yönetmelikte aynen yer alır: eşya sahibi veya temsilcileri gümrük beyanına konu eşyanın tahlili için gümrük laboratuvarlarına doğrudan numune gönderemez, laboratuvarlar da bunları kabul edemez; her beyannameye ait numuneler laboratuvara bir defada gönderilir ve ilk numunelerin tahlilinden sonra tekrar numune gönderilmesi idare amirinin iznine bağlıdır; gümrük laboratuvarları dışındaki laboratuvarlara gönderilen numuneler yazı ile sevk edilir; usulüne uygun alınmadığı veya gönderilmediği sonradan tespit edilen numuneyle yapılan tahlil sonuçları geçersiz sayılır. Kargo masrafını idareye yükleyen ifade, numunenin idarece alınıp gönderildiğini düşünen adaya mantıklı gelir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 199, 200, 201)
 
 *Gümrük Yönetmeliği md. 130*
 
-**17-** Gümrük Yönetmeliği'nin eşyanın teslimine ilişkin hükmünde yer alan; konşimentosu ibraz edilemeyen petrol ve türevlerinin, alıcı olarak gösterilen onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikası sahiplerinin taahhütnamesine istinaden konşimento ibrazından önce alıcıya teslim edilebilmesine ilişkin düzenleme ile ilgili aşağıdakilerden hangisi doğrudur?
+**17-** Gümrük Yönetmeliği'nin eşyanın teslimine ilişkin hükmünde yer alan, konşimentosu ibraz edilemeyen petrol ve türevlerinin, alıcı olarak gösterilen onaylanmış kişi statü belgesi veya yetkilendirilmiş yükümlü sertifikası sahiplerinin taahhütnamesine istinaden konşimento ibrazından önce alıcıya teslim edilebilmesine ilişkin düzenleme ile ilgili aşağıdakilerden hangisi doğrudur?
 
 A) Konşimentonun en geç doksan gün içinde ibraz edileceğine dair taahhütname verilmesi şartıyla uygulanmaya devam etmektedir.  
 B) Uygulanmaya devam etmekte olup taahhütnameyi eşyanın taşıyıcısı veya temsilcisi vermektedir.  
@@ -514,11 +472,11 @@ E) Beyannamenin tescil tarihinden itibaren bir ay içinde
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
+| Birebir / parafraz / çıkarım | 17 / 2 / 1 |
 | Olumsuz kök | 7 |
-| Önermeli | 4 (I, II ve IV, I ve IV, II ve III, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 15, TERSİNE 8, TERİM 7, BAŞLANGIÇ 5, YAKIN-SAYI 5, İSTİSNA 2 |
+| Önermeli | 2 (I, II ve IV, I ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 15, TERİM 8, TERSİNE 8, BAŞLANGIÇ 5, YAKIN-SAYI 5, İSTİSNA 2 |
 | İkiz eksen / ayna | 9, 17 / Teslimden sonra düzeltme ↔ teslimden sonra iptal |
 | Güncellik | 12.08.2026 |
 | Çıkmış bilgi alanı karşılayan | 15 |

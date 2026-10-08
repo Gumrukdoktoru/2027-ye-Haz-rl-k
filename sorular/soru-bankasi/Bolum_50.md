@@ -22,13 +22,13 @@ C) Mesleki sıfatı saklı kalmak şartıyla altı aydan az, bir yıldan çok ol
 D) Mesleki sıfatı kaldırılmak suretiyle altı aydan az, bir yıldan çok olmamak üzere mesleki faaliyetten alıkoymadır.  
 E) Meslek mensubunun izin belgesinin geri alınarak, bir daha bu mesleği icra etmesine izin verilmemesidir.  
 
-**3-** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre gümrük müşavirleri ve gümrük müşavir yardımcıları hakkında uygulanan disiplin cezaları ile izin belgesine ilişkin tedbir ve bunlara karar vermeye yetkili makamlarla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?
+**3-** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre gümrük müşavirleri ve gümrük müşavir yardımcıları hakkında disiplin cezası vermeye ve izin belgesini tedbiren almaya yetkili makamlara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Uyarma – Yetkili gümrük başmüdürü  
-B) Kınama – Yetkili gümrük başmüdürü  
-C) Geçici olarak mesleki faaliyetten alıkoyma – Müsteşarlık Merkez Disiplin Kurulu  
-D) İzin belgesinin tedbir mahiyetinde geçici olarak alınması – Bakanlık müfettişleri ile gümrük ve dış ticaret bölge müdürleri  
-E) Meslekten çıkarma – Müsteşarlık Merkez Disiplin Kurulu  
+A) Uyarma cezası yetkili gümrük başmüdürü tarafından verilir.  
+B) Kınama cezası yetkili gümrük başmüdürü tarafından verilir.  
+C) Geçici olarak mesleki faaliyetten alıkoyma cezası Müsteşarlık Merkez Disiplin Kurulu tarafından verilir.  
+D) Mevzuata aykırı hareketleri görülen meslek mensuplarının izin belgeleri, gerek görülmesi hâlinde Bakanlık müfettişleri ve gümrük ve dış ticaret bölge müdürleri tarafından tedbir mahiyetinde geçici olarak alınır.  
+E) Meslekten çıkarma cezaları Müsteşarlık Merkez Disiplin Kurulu tarafından verilir.  
 
 **4-** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerinde yer alan, meslek mensuplarının fiillerine göre uygulanacak disiplin cezalarına ilişkin aşağıdaki ifadeler verilmiştir:
 
@@ -60,17 +60,13 @@ C) İzin belgeleri tedbir mahiyetinde alınan meslek mensuplarının gümrükler
 D) İzin belgesinin tedbiren alınması, gerekçesiyle birlikte izin belgesinin alınmasını izleyen günde Bakanlığa bildirilir.  
 E) İzin belgelerini tedbir mahiyetinde alma yetkisi, Bakanlık müfettişlerinin yanı sıra gümrük ve dış ticaret bölge müdürlerine de tanınmıştır.  
 
-**7-** 4458 sayılı Gümrük Kanunu'nun disiplin cezalarına ilişkin geçici hükümleri çerçevesinde aşağıdaki olay verilmiştir:
+**7-** 4458 sayılı Gümrük Kanunu'nun disiplin cezalarına ilişkin geçici hükümlerine göre, izin belgesi tedbir mahiyetinde geçici olarak alınmış olan meslek mensubuna geçici olarak mesleki faaliyetten alıkoyma cezası verilmesi hâlinde tedbir süresi ve cezanın uygulanmaya başlayacağı an bakımından aşağıdakilerden hangisi doğrudur?
 
-- Gümrük müşaviri (A)'nın izin belgesi, mevzuata aykırı hareketi nedeniyle gümrük ve dış ticaret bölge müdürü tarafından tedbir mahiyetinde geçici olarak alınmış ve dört ay sonra kendisine iade edilmiştir.  
-- Aynı aykırılık nedeniyle (A)'ya Müsteşarlık Merkez Disiplin Kurulunca on ay süreyle geçici olarak mesleki faaliyetten alıkoyma cezası verilmiş ve ceza kesinleşmiştir.  
-Buna göre (A) hakkında uygulanacak cezanın kalan süresi ve uygulanmaya başlanacağı an aşağıdakilerden hangisinde doğru olarak verilmiştir?  
-
-A) On ay; cezanın kesinleşme tarihinden itibaren  
-B) Altı ay; aykırılığın gümrük idarelerince tespit edildiği tarihten itibaren  
-C) Altı ay; cezanın kesinleşme tarihinden itibaren  
-D) Altı ay; izin belgesinin tedbiren alındığı tarihten itibaren  
-E) On ay; aykırılığın gümrük idarelerince tespit edildiği tarihten itibaren  
+A) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilmez; ceza kesinleşme tarihinden itibaren uygulanır.  
+B) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilir; ceza aykırılığın gümrük idarelerince tespit edildiği tarihten itibaren uygulanır.  
+C) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilir; ceza kesinleşme tarihinden itibaren uygulanır.  
+D) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilir; ceza izin belgesinin tedbiren alındığı tarihten itibaren uygulanmış sayılır.  
+E) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilir; ceza durumun Bakanlığa bildirildiği günden itibaren uygulanır.  
 
 **8-** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre, bir dava sonucuna bağlı olmaksızın verilen disiplin cezalarında üç yıllık zamanaşımı süresi aşağıdakilerden hangisinden itibaren işlemeye başlar?
 
@@ -141,17 +137,13 @@ C) Yalnızca ihracat işlemleri için yüzde 20 oranında indirim uygulanabilir.
 D) Yalnızca ihracat işlemleri için yüzde 35 oranında indirim uygulanabilir.  
 E) Yalnızca ithalat işlemleri için yüzde 25 oranında indirim uygulanabilir.  
 
-**15-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ çerçevesinde aşağıdaki olay verilmiştir:
+**15-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ'e göre, aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla beyanname sayısı göz önünde bulundurularak uygulanabilecek indirimler arasında aşağıdakilerden hangisi yer almaz?
 
-- (X) Ltd. Şti. sektörel dış ticaret firması, dış ticaret sermaye şirketi veya Yetkilendirilmiş Yükümlü Sertifikası sahibi değildir; önceki ve içinde bulunulan takvim yılında ihracat beyannamesi tescil ettirmemiştir.  
-- Firma, 2026 yılındaki bütün ithalat işlemlerinde aynı gümrük müşavirliği şirketinden hizmet almış ve yıl içinde tescil ettirdiği ithalat beyannamesi sayısı 1.800'e ulaşmıştır.  
-Buna göre firmanın 2026 yılında tescil ettireceği 1.801'inci ithalat beyannamesi için Asgari Ücret Tarifesinin uygulanmasına ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Asgari Ücret Tarifesindeki ücretlerde yüzde 25 oranında indirim uygulanabilir.  
-B) Asgari Ücret Tarifesindeki ücretlerde yüzde 35 oranında indirim uygulanabilir.  
-C) Asgari Ücret Tarifesindeki ücretlerde yüzde 20 oranında indirim uygulanabilir.  
-D) Ücret, 1.000 beyannameyi aşan kısım için tarafların anlaşmasıyla belirlenir.  
-E) Beyanname sayısına bağlı indirim uygulanamaz; ücret Asgari Ücret Tarifesinin altında olamaz.  
+A) Sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ithalat işlemlerinde bir takvim yılında beyanname sayısı 1.000'i aştığında, sonraki beyannameler için yüzde 25 oranında indirim  
+B) Sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemlerinde bir takvim yılında beyanname sayısı 2.500'ü aştığında, sonraki beyannameler için yüzde 50 oranında indirim  
+C) Bir firmanın bir önceki takvim yılında tescil ettirdiği ihracat beyanname sayısının 2.500'ü aşmış olması hâlinde, takip eden takvim yılının başından itibaren yüzde 35 oranında indirim  
+D) Bir firmanın bir takvim yılında tescil ettirdiği ithalat beyanname sayısı 2.500'ü aştığında, sonraki beyannameler için yüzde 35 oranında indirim  
+E) Sektörel dış ticaret firması, dış ticaret sermaye şirketi veya Yetkilendirilmiş Yükümlü Sertifikası sahibi olmayan firmanın bir takvim yılındaki ithalat beyanname sayısı 1.000'i aştığında, sonraki beyannameler için yüzde 25 oranında indirim  
 
 **16-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ'e göre Asgari Ücret Tarifesine uyulmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -169,19 +161,13 @@ C) Gümrük ve dış ticaret bölge müdürlüğü
 D) Müsteşarlık Merkez Disiplin Kurulu  
 E) Ortak görüş bildiren diğer Gümrük Müşavirleri Dernekleri  
 
-**18-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ'in Asgari Ücret Tarifesinin uygulama esaslarına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**18-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ'in Asgari Ücret Tarifesinin uygulama esaslarına ilişkin hükümlerine göre aşağıdakilerden hangisi söylenemez?
 
-I. Asgari Ücret Tarifesi, resmî kurumların çalışma saatleri içerisinde verilen hizmetler için belirlenmiştir.  
-II. Asgari Ücret Tarifesinde yer alan ücretlere KDV dahildir.  
-III. Gümrük işlemlerinde yükümlü adına kullanılan beyanname, dolaşım belgesi, menşe şahadetnamesi ve tahlil formu gibi belgelerin ücretleri yükümlü tarafından karşılanır.  
-IV. Gümrük Müşavirliği Asgari Ücret Tarifesinde "Danışmanlık Ücretleri" başlığı altında yer alan hizmet konularına ilişkin tarife, yetkilendirilmiş gümrük müşavirleri için geçerli değildir.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) Yalnız II  
-B) I ve III  
-C) II, III ve IV  
-D) II ve IV  
-E) I, II ve IV  
+A) Asgari Ücret Tarifesi, resmî kurumların çalışma saatleri içerisinde verilen hizmetler için belirlenmiştir.  
+B) Asgari Ücret Tarifesinde yer alan ücretlere KDV ilave edilir.  
+C) Gümrük işlemlerinde yükümlü adına kullanılan beyanname, dolaşım belgesi, menşe şahadetnamesi ve tahlil formu gibi belgelerin ücretleri yükümlü tarafından karşılanır.  
+D) Asgari Ücret Tarifesinde "Danışmanlık Ücretleri" başlığı altındaki hizmet konularına ilişkin tarife, yetkilendirilmiş gümrük müşavirleri için geçerli değildir.  
+E) Aynı beyannamede Asgari Ücret Tarifesi tablosunda yer alan birden fazla rejim bulunması hâlinde tarifedeki ücretlerden yüksek olanı uygulanır.  
 
 **19-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ'e göre aşağıdakilerden hangisi tarafların anlaşmasına bırakılmamıştır?
 
@@ -235,16 +221,16 @@ E) Meslek mensubunun izin belgesinin geri alınarak, bir daha bu mesleği icra e
 
 *4458 sayılı Gümrük Kanunu Geçici md. 6*
 
-**3-** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre gümrük müşavirleri ve gümrük müşavir yardımcıları hakkında uygulanan disiplin cezaları ile izin belgesine ilişkin tedbir ve bunlara karar vermeye yetkili makamlarla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?
+**3-** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre gümrük müşavirleri ve gümrük müşavir yardımcıları hakkında disiplin cezası vermeye ve izin belgesini tedbiren almaya yetkili makamlara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Uyarma – Yetkili gümrük başmüdürü  
-B) Kınama – Yetkili gümrük başmüdürü  
-C) Geçici olarak mesleki faaliyetten alıkoyma – Müsteşarlık Merkez Disiplin Kurulu  
-D) İzin belgesinin tedbir mahiyetinde geçici olarak alınması – Bakanlık müfettişleri ile gümrük ve dış ticaret bölge müdürleri  
-E) Meslekten çıkarma – Müsteşarlık Merkez Disiplin Kurulu  
+A) Uyarma cezası yetkili gümrük başmüdürü tarafından verilir.  
+B) Kınama cezası yetkili gümrük başmüdürü tarafından verilir.  
+C) Geçici olarak mesleki faaliyetten alıkoyma cezası Müsteşarlık Merkez Disiplin Kurulu tarafından verilir.  
+D) Mevzuata aykırı hareketleri görülen meslek mensuplarının izin belgeleri, gerek görülmesi hâlinde Bakanlık müfettişleri ve gümrük ve dış ticaret bölge müdürleri tarafından tedbir mahiyetinde geçici olarak alınır.  
+E) Meslekten çıkarma cezaları Müsteşarlık Merkez Disiplin Kurulu tarafından verilir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre uyarma ve kınama cezası yetkili gümrük başmüdürü, geçici olarak mesleki faaliyetten alıkoyma cezası Müsteşarlık Merkez Disiplin Kurulu, meslekten çıkarma cezaları ise Müsteşarlık Yüksek Disiplin Kurulu tarafından verilir. Mevzuata aykırı hareketleri görülen meslek mensuplarının izin belgelerini tedbir mahiyetinde geçici olarak alma yetkisi ise Bakanlık müfettişleri ile gümrük ve dış ticaret bölge müdürlerine aittir. Meslekten çıkarmayı Merkez Disiplin Kuruluna bağlayan eşleştirme yanlıştır; Merkez Disiplin Kurulu bir alt basamaktaki geçici alıkoyma cezasını verir, en ağır ceza olan meslekten çıkarma Yüksek Disiplin Kurulunun yetkisindedir. Bu nedenle doğru cevap E seçeneğidir. (MD GK Geçici 6)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre uyarma ve kınama cezası yetkili gümrük başmüdürü, geçici olarak mesleki faaliyetten alıkoyma cezası Müsteşarlık Merkez Disiplin Kurulu, meslekten çıkarma cezaları ise Müsteşarlık Yüksek Disiplin Kurulu tarafından verilir. Mevzuata aykırı hareketleri görülen meslek mensuplarının izin belgelerini gerek görülmesi hâlinde tedbir mahiyetinde geçici olarak alma yetkisi Bakanlık müfettişleri ile gümrük ve dış ticaret bölge müdürlerine aittir. Meslekten çıkarmayı Merkez Disiplin Kuruluna bağlayan ifade yanlıştır: Merkez Disiplin Kurulu bir alt basamaktaki geçici alıkoyma cezasını verir, en ağır ceza olan meslekten çıkarma Yüksek Disiplin Kurulunun yetkisindedir. En güçlü tuzak, geçici alıkoyma ile meslekten çıkarmanın aynı kurulca verildiği izlenimidir. Bu nedenle doğru cevap E seçeneğidir. (MD GK Geçici 6)
 
 *4458 sayılı Gümrük Kanunu Geçici md. 6*
 
@@ -263,7 +249,7 @@ D) I, III ve IV
 E) I, II, III ve IV  
 
 **Doğru Cevap:** D  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre mesleki kurallara, mesleğin vakar ve onuruna aykırı fiil ve harekette bulunanlarla görevin gerektirdiği güveni sarsıcı harekette bulunan meslek mensupları hakkında ilk defasında uyarma, tekrarında ise kınama cezası uygulanır (I doğru). Görevini bağımsızlık, tarafsızlık ve dürüstlükle yapmayan veya kusurlu olarak yapan ya da Kanunda yer alan mesleğin genel prensiplerine aykırı harekette bulunan meslek mensupları için geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır; bu nedenle II yanlış, IV doğrudur. 1918 sayılı Kaçakçılığın Men ve Takibine Dair Kanun hükümlerine göre kaçakçılık suçundan mahkûmiyet kararı kesinleşen meslek mensuplarına meslekten çıkarma cezası verilir (III doğru). En güçlü çeldirici II'dir: 'mesleğin genel prensiplerine aykırılık' ile 'mesleğin vakar ve onuruna aykırılık' birbirine benzer görünse de birincisi doğrudan geçici alıkoyma basamağındadır, kınama ise ikincisinin tekrarına bağlanmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GK Geçici 6)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre mesleki kurallara, mesleğin vakar ve onuruna aykırı fiil ve harekette bulunanlarla görevin gerektirdiği güveni sarsıcı harekette bulunan meslek mensupları hakkında ilk defasında uyarma, tekrarında ise kınama cezası uygulanır (I doğru). Görevini bağımsızlık, tarafsızlık ve dürüstlükle yapmayan veya kusurlu olarak yapan ya da Kanunda yer alan mesleğin genel prensiplerine aykırı harekette bulunan meslek mensupları için geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır; bu nedenle II yanlış, IV doğrudur. 1918 sayılı Kaçakçılığın Men ve Takibine Dair Kanun hükümlerine göre kaçakçılık suçundan mahkûmiyet kararı kesinleşen meslek mensuplarına meslekten çıkarma cezası verilir (III doğru). En güçlü tuzak II. önermedir: 'mesleğin genel prensiplerine aykırılık' ile 'mesleğin vakar ve onuruna aykırılık' birbirine benzer görünse de birincisi doğrudan geçici alıkoyma basamağındadır, kınama ise ikincisinin tekrarına bağlanmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GK Geçici 6)
 
 *4458 sayılı Gümrük Kanunu Geçici md. 6*
 
@@ -293,20 +279,16 @@ E) İzin belgelerini tedbir mahiyetinde alma yetkisi, Bakanlık müfettişlerini
 
 *4458 sayılı Gümrük Kanunu Geçici md. 6*
 
-**7-** 4458 sayılı Gümrük Kanunu'nun disiplin cezalarına ilişkin geçici hükümleri çerçevesinde aşağıdaki olay verilmiştir:
+**7-** 4458 sayılı Gümrük Kanunu'nun disiplin cezalarına ilişkin geçici hükümlerine göre, izin belgesi tedbir mahiyetinde geçici olarak alınmış olan meslek mensubuna geçici olarak mesleki faaliyetten alıkoyma cezası verilmesi hâlinde tedbir süresi ve cezanın uygulanmaya başlayacağı an bakımından aşağıdakilerden hangisi doğrudur?
 
-- Gümrük müşaviri (A)'nın izin belgesi, mevzuata aykırı hareketi nedeniyle gümrük ve dış ticaret bölge müdürü tarafından tedbir mahiyetinde geçici olarak alınmış ve dört ay sonra kendisine iade edilmiştir.  
-- Aynı aykırılık nedeniyle (A)'ya Müsteşarlık Merkez Disiplin Kurulunca on ay süreyle geçici olarak mesleki faaliyetten alıkoyma cezası verilmiş ve ceza kesinleşmiştir.  
-Buna göre (A) hakkında uygulanacak cezanın kalan süresi ve uygulanmaya başlanacağı an aşağıdakilerden hangisinde doğru olarak verilmiştir?  
-
-A) On ay; cezanın kesinleşme tarihinden itibaren  
-B) Altı ay; aykırılığın gümrük idarelerince tespit edildiği tarihten itibaren  
-C) Altı ay; cezanın kesinleşme tarihinden itibaren  
-D) Altı ay; izin belgesinin tedbiren alındığı tarihten itibaren  
-E) On ay; aykırılığın gümrük idarelerince tespit edildiği tarihten itibaren  
+A) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilmez; ceza kesinleşme tarihinden itibaren uygulanır.  
+B) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilir; ceza aykırılığın gümrük idarelerince tespit edildiği tarihten itibaren uygulanır.  
+C) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilir; ceza kesinleşme tarihinden itibaren uygulanır.  
+D) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilir; ceza izin belgesinin tedbiren alındığı tarihten itibaren uygulanmış sayılır.  
+E) İzin belgesinin tedbiren alındığı süre verilen cezadan mahsup edilir; ceza durumun Bakanlığa bildirildiği günden itibaren uygulanır.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre izin belgeleri tedbir mahiyetinde alınanlar hakkında geçici mesleki faaliyetten alıkoyma cezası verilmesi hâlinde, tedbir mahiyetinde izin belgelerinin alındığı süre verilen cezadan mahsup edilir. Olayda izin belgesi dört ay süreyle tedbiren alınmış, sonra on ay geçici alıkoyma cezası verilmiştir; on aydan dört ay düşülünce uygulanacak süre altı ay kalır. Disiplin cezaları ise kesinleşme tarihinden itibaren uygulanır. Mahsubu atlayan aday on ayı seçer. Aykırılığın gümrük idarelerince tespit edildiği tarih, disiplin cezalarında üç yıllık zamanaşımının başladığı andır; cezanın uygulanmaya başladığı an değildir. Bu nedenle doğru cevap C seçeneğidir. (MD GK Geçici 6)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre izin belgeleri tedbir mahiyetinde alınanlar hakkında geçici mesleki faaliyetten alıkoyma cezası verilmesi hâlinde, tedbir mahiyetinde izin belgelerinin alındığı süre verilen cezadan mahsup edilir; meslek mensubu aynı süre için iki kez faaliyetten alıkonulmuş olmaz. Disiplin cezaları ise kesinleşme tarihinden itibaren uygulanır. Aykırılığın gümrük idarelerince tespit edildiği tarih, bir dava sonucuna bağlı olmaksızın verilen disiplin cezalarında üç yıllık zamanaşımının başladığı andır; cezanın uygulanmaya başladığı an değildir. İzin belgesinin tedbiren alındığı tarih tedbirin başladığı andır; tedbirin gerekçesiyle birlikte Bakanlığa bildirilmesi ise izin belgesinin alınmasını izleyen günde yapılan bir bildirimdir, cezanın başlangıcını belirlemez. En güçlü tuzak, mahsubu doğru bilen ama cezanın başlangıcını zamanaşımının başladığı tespit tarihine bağlayan ifadedir. Bu nedenle doğru cevap C seçeneğidir. (MD GK Geçici 6)
 
 *4458 sayılı Gümrük Kanunu Geçici md. 6*
 
@@ -319,7 +301,7 @@ D) Aykırılığın gerekçesiyle birlikte Bakanlığa bildirildiği tarihten
 E) Yetkili disiplin kurulunun savunma için verdiği sürenin bittiği tarihten  
 
 **Doğru Cevap:** B  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre disiplin cezaları, bir dava sonucuna bağlı olmaksızın, mevzuat hükümlerine aykırılığın gümrük idarelerince tespit edildiği tarihten itibaren üç yıl süreyle uygulanmadığı takdirde zamanaşımına uğrar. Süre fiilin işlendiği tarihten değil, aykırılığın gümrük idarelerince tespit edildiği tarihten başlar; en güçlü çeldirici budur. Mevzuata aykırı işlem ve eylemlerin aynı zamanda bir adli kovuşturma konusu olması hâlinde ise Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre disiplin cezası verilebilir. Kesinleşme tarihi, disiplin cezasının uygulanmaya başladığı andır; izleyen günde Bakanlığa bildirim izin belgesinin tedbiren alınmasına, on günden az olmayan süre ise savunmaya aittir. Bu nedenle doğru cevap B seçeneğidir. (MD GK Geçici 6)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre disiplin cezaları, bir dava sonucuna bağlı olmaksızın, mevzuat hükümlerine aykırılığın gümrük idarelerince tespit edildiği tarihten itibaren üç yıl süreyle uygulanmadığı takdirde zamanaşımına uğrar. Süre fiilin işlendiği tarihten değil, aykırılığın gümrük idarelerince tespit edildiği tarihten başlar. En güçlü çeldirici, süreyi fiilin işlendiği tarihten başlatan seçenektir. Mevzuata aykırı işlem ve eylemlerin aynı zamanda bir adli kovuşturma konusu olması hâlinde ise Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre disiplin cezası verilebilir. Kesinleşme tarihi, disiplin cezasının uygulanmaya başladığı andır; izleyen günde Bakanlığa bildirim izin belgesinin tedbiren alınmasına, on günden az olmayan süre ise savunmaya aittir. Bu nedenle doğru cevap B seçeneğidir. (MD GK Geçici 6)
 
 *4458 sayılı Gümrük Kanunu Geçici md. 6; 4458 sayılı Gümrük Kanunu md. 226*
 
@@ -397,7 +379,7 @@ D) I, III ve IV
 E) II, III ve IV  
 
 **Doğru Cevap:** A  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre 1615 sayılı Gümrük Kanunu hükümlerine göre kurulan Gümrük Komisyoncuları Dernekleri faaliyetlerine devam eder; sınav açılması ile izin belgeleri verilmesi işlemleri ise Gümrük Müsteşarlığınca yürütülür (IV doğru). Sınavlar, derneklerce değil Müsteşarlıkça belirlenen usul ve esaslar çerçevesinde her yıl bir kez yapılır (I yanlış). Kanunda belirtilen koşulları sınavın açıldığı yıl başında sağlamış olanlar o yıl açılan sınavlara müracaat edebilir; yıl sonunda sağlanacak koşul yeterli değildir (II yanlış). Gümrük müşavirliği ve gümrük müşavir yardımcılığı sınavlarına en fazla üçer kez girilebilir (III doğru). En güçlü çeldirici II'dir: koşulların sağlanması gereken an 'yıl başı'dır. Bu nedenle doğru cevap A seçeneğidir. (MD GK Geçici 6)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'nun geçici hükümlerine göre, 1615 sayılı Gümrük Kanunu uyarınca kurulan Gümrük Komisyoncuları Dernekleri faaliyetlerine devam eder; sınav açılması ile izin belgeleri verilmesi işlemleri ise Gümrük Müsteşarlığınca yürütülür (IV doğru). Sınavlar, derneklerce değil Müsteşarlıkça belirlenen usul ve esaslar çerçevesinde her yıl bir kez yapılır (I yanlış). Kanunda belirtilen koşulları sınavın açıldığı yıl başında sağlamış olanlar o yıl açılan sınavlara müracaat edebilir; yıl sonunda sağlanacak koşul yeterli değildir (II yanlış). Gümrük müşavirliği ve gümrük müşavir yardımcılığı sınavlarına en fazla üçer kez girilebilir (III doğru). Bu bent metinde güncel lafzıyla yürürlüktedir; yanındaki Anayasa Mahkemesi kararı notu (E 2016-168, K 2017-82) hükmü kaldırmamıştır. En güçlü tuzak II. önermedir: koşulların sağlanması gereken an 'yıl başı'dır. Bu nedenle doğru cevap A seçeneğidir. (MD GK Geçici 6)
 
 *Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ md. 5*
 
@@ -414,20 +396,16 @@ E) Yalnızca ithalat işlemleri için yüzde 25 oranında indirim uygulanabilir.
 
 *Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ md. 5*
 
-**15-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ çerçevesinde aşağıdaki olay verilmiştir:
+**15-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ'e göre, aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla beyanname sayısı göz önünde bulundurularak uygulanabilecek indirimler arasında aşağıdakilerden hangisi yer almaz?
 
-- (X) Ltd. Şti. sektörel dış ticaret firması, dış ticaret sermaye şirketi veya Yetkilendirilmiş Yükümlü Sertifikası sahibi değildir; önceki ve içinde bulunulan takvim yılında ihracat beyannamesi tescil ettirmemiştir.  
-- Firma, 2026 yılındaki bütün ithalat işlemlerinde aynı gümrük müşavirliği şirketinden hizmet almış ve yıl içinde tescil ettirdiği ithalat beyannamesi sayısı 1.800'e ulaşmıştır.  
-Buna göre firmanın 2026 yılında tescil ettireceği 1.801'inci ithalat beyannamesi için Asgari Ücret Tarifesinin uygulanmasına ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Asgari Ücret Tarifesindeki ücretlerde yüzde 25 oranında indirim uygulanabilir.  
-B) Asgari Ücret Tarifesindeki ücretlerde yüzde 35 oranında indirim uygulanabilir.  
-C) Asgari Ücret Tarifesindeki ücretlerde yüzde 20 oranında indirim uygulanabilir.  
-D) Ücret, 1.000 beyannameyi aşan kısım için tarafların anlaşmasıyla belirlenir.  
-E) Beyanname sayısına bağlı indirim uygulanamaz; ücret Asgari Ücret Tarifesinin altında olamaz.  
+A) Sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ithalat işlemlerinde bir takvim yılında beyanname sayısı 1.000'i aştığında, sonraki beyannameler için yüzde 25 oranında indirim  
+B) Sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemlerinde bir takvim yılında beyanname sayısı 2.500'ü aştığında, sonraki beyannameler için yüzde 50 oranında indirim  
+C) Bir firmanın bir önceki takvim yılında tescil ettirdiği ihracat beyanname sayısının 2.500'ü aşmış olması hâlinde, takip eden takvim yılının başından itibaren yüzde 35 oranında indirim  
+D) Bir firmanın bir takvim yılında tescil ettirdiği ithalat beyanname sayısı 2.500'ü aştığında, sonraki beyannameler için yüzde 35 oranında indirim  
+E) Sektörel dış ticaret firması, dış ticaret sermaye şirketi veya Yetkilendirilmiş Yükümlü Sertifikası sahibi olmayan firmanın bir takvim yılındaki ithalat beyanname sayısı 1.000'i aştığında, sonraki beyannameler için yüzde 25 oranında indirim  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğe göre aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla beyanname sayısı göz önünde bulundurularak indirim uygulanabilir. Bir takvim yılında bir firma tarafından tescil ettirilen ithalat beyanname sayısı 2.000'i aştığında sonraki beyannameler için yüzde 25, 2.500'ü aştığında yüzde 35 oranında indirim uygulanabilir. İthalatta 1.000 beyannameyi aşınca yüzde 25 indirim ise yalnızca sektörel dış ticaret firmaları, dış ticaret sermaye şirketleri ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmalar içindir. (X) bu firmalardan değildir ve ihracatı yoktur; 1.801'inci beyannamede 2.000 eşiği aşılmadığından beyanname sayısına bağlı indirim uygulanamaz. Tebliğde belirlenen indirimler haricinde Asgari Ücret Tarifesinin altında iş kabul edilemez. Vakadaki saklı nokta firmanın niteliğidir: bu firmalara ait 1.000 eşiğini uygulayan aday yüzde 25'i seçer. Yüzde 20 bu firmaların ihracat işlemlerine ait indirimdir; aşan kısmın tarafların anlaşmasına bırakılması ise belirli hizmet kodlarındaki adet ve tutar sınırlarına ilişkindir. Bu nedenle doğru cevap E seçeneğidir. (MD Tebliğ 5)
+**Gerekçe:** Tebliğe göre aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla beyanname sayısı göz önünde bulundurularak indirim uygulanabilir. Sektörel dış ticaret firmaları, dış ticaret sermaye şirketleri ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemlerinde bir takvim yılında beyanname sayısı 1.000'i aşınca yüzde 35, 2.500'ü aşınca yüzde 50; ithalat işlemlerinde 1.000'i aşınca yüzde 25, 2.500'ü aşınca yüzde 35 indirim uygulanabilir. Bir önceki takvim yılında bir firmanın tescil ettirdiği ihracat beyanname sayısı 1.000'i aşmışsa yüzde 25, 2.500'ü aşmışsa yüzde 35 indirim takip eden takvim yılının başından itibaren uygulanabilir. Bir firmanın bir takvim yılında tescil ettirdiği ithalat beyanname sayısı ise 2.000'i aştığında yüzde 25, 2.500'ü aştığında yüzde 35 indirime konu olur. Bu firmalardan olmayan bir firmanın ithalatında 1.000 beyanname eşiği öngörülmemiştir; 1.000 eşiği yalnız sayılan firmaların ithalatına aittir. En güçlü tuzak, aynı oranın sayılan firmalarda 1.000 beyanname eşiğiyle uygulanmasıdır: eşik firma niteliğine göre değişir. Bu nedenle doğru cevap E seçeneğidir. (MD Tebliğ 5)
 
 *Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ md. 4, 5*
 
@@ -457,22 +435,16 @@ E) Ortak görüş bildiren diğer Gümrük Müşavirleri Dernekleri
 
 *Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ md. 5*
 
-**18-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ'in Asgari Ücret Tarifesinin uygulama esaslarına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**18-** Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ'in Asgari Ücret Tarifesinin uygulama esaslarına ilişkin hükümlerine göre aşağıdakilerden hangisi söylenemez?
 
-I. Asgari Ücret Tarifesi, resmî kurumların çalışma saatleri içerisinde verilen hizmetler için belirlenmiştir.  
-II. Asgari Ücret Tarifesinde yer alan ücretlere KDV dahildir.  
-III. Gümrük işlemlerinde yükümlü adına kullanılan beyanname, dolaşım belgesi, menşe şahadetnamesi ve tahlil formu gibi belgelerin ücretleri yükümlü tarafından karşılanır.  
-IV. Gümrük Müşavirliği Asgari Ücret Tarifesinde "Danışmanlık Ücretleri" başlığı altında yer alan hizmet konularına ilişkin tarife, yetkilendirilmiş gümrük müşavirleri için geçerli değildir.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) Yalnız II  
-B) I ve III  
-C) II, III ve IV  
-D) II ve IV  
-E) I, II ve IV  
+A) Asgari Ücret Tarifesi, resmî kurumların çalışma saatleri içerisinde verilen hizmetler için belirlenmiştir.  
+B) Asgari Ücret Tarifesinde yer alan ücretlere KDV ilave edilir.  
+C) Gümrük işlemlerinde yükümlü adına kullanılan beyanname, dolaşım belgesi, menşe şahadetnamesi ve tahlil formu gibi belgelerin ücretleri yükümlü tarafından karşılanır.  
+D) Asgari Ücret Tarifesinde "Danışmanlık Ücretleri" başlığı altındaki hizmet konularına ilişkin tarife, yetkilendirilmiş gümrük müşavirleri için geçerli değildir.  
+E) Aynı beyannamede Asgari Ücret Tarifesi tablosunda yer alan birden fazla rejim bulunması hâlinde tarifedeki ücretlerden yüksek olanı uygulanır.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Tebliğe göre Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesi, resmî kurumların çalışma saatleri içerisinde verilen hizmetler için belirlenmiştir (I doğru). Asgari Ücret Tarifesinde yer alan ücretlere KDV ilave edilir; tarifedeki ücretler KDV dahil değildir (II yanlış). Gümrük işlemlerinde yükümlü adına kullanılan basılı ve/veya elektronik ortamdaki beyanname, dolaşım belgesi, menşe şahadetnamesi, tahlil formu ve benzeri belgelerin ücretleri yükümlü tarafından karşılanır (III doğru). Gümrük Müşavirliği Asgari Ücret Tarifesinde 'Danışmanlık Ücretleri' başlığı altındaki hizmet konularına ilişkin tarife, yetkilendirilmiş gümrük müşavirleri için de geçerlidir (IV yanlış). Kök yanlış ifadeleri sorduğundan, doğru ifadeleri işaretleme alışkanlığıyla 'I ve III' seçeneğine yönelen aday elenir. Bu nedenle doğru cevap D seçeneğidir. (MD Tebliğ 5)
+**Gerekçe:** Tebliğe göre Gümrük Müşavirliği Asgari Ücret Tarifesinde 'Danışmanlık Ücretleri' başlığı altında yer alan hizmet konuları kısmında geçen Asgari Ücret Tarifesi, yetkilendirilmiş gümrük müşavirleri için de geçerlidir; bu tarifenin yetkilendirilmiş gümrük müşavirlerini kapsamadığını söyleyen ifade hükmü tersine çevirir. Diğer ifadeler Tebliğle uyumludur: Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesi resmî kurumların çalışma saatleri içerisinde verilen hizmetler için belirlenmiştir; tarifedeki ücretlere KDV ilave edilir, ücretler KDV dâhil değildir; yükümlü adına kullanılan beyanname, dolaşım belgesi, menşe şahadetnamesi, tahlil formu ve benzeri belgelerin ücretleri yükümlü tarafından karşılanır; aynı beyannamede tarifede yer alan birden fazla rejim bulunursa tarifedeki ücretlerden yüksek olanı uygulanır. En güçlü tuzak, danışmanlık tarifesinin yalnız gümrük müşavirlerine ait olduğunu düşündüren başlıktır: Tebliğ bu tarifeyi yetkilendirilmiş gümrük müşavirleri için de geçerli saymıştır. Bu nedenle doğru cevap D seçeneğidir. (MD Tebliğ 5)
 
 *Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ md. 5*
 
@@ -504,11 +476,11 @@ E) Ticari faturada gösterilen bedele KDV eklenerek bulunan tutar
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I, III ve IV, III ve IV, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 18, TERİM 5, YAKIN-SAYI 5, MAKAM 4, İSTİSNA 4, BAŞLANGIÇ 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I, III ve IV, III ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 17, TERİM 5, YAKIN-SAYI 5, MAKAM 4, İSTİSNA 4, TERSİNE 4 |
 | İkiz eksen / ayna | — / ALIKOYMA-TEDBİR (S2-S6) |
 | Güncellik | 30.12.2025; 30.12.2025 |
 | Çıkmış bilgi alanı karşılayan | 9 |

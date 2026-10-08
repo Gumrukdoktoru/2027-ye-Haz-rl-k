@@ -14,18 +14,13 @@ C) Başvurunun yetkili bölge müdürlüğünün genel evrak kaydına alındığ
 D) Yetkilendirilmiş gümrük müşaviriyle ön inceleme için tespit sözleşmesinin yapıldığı tarih  
 E) Statü belgesinin düzenlendiği tarih  
 
-**2-** (A) A.Ş.'ye Gümrük Kanunu kapsamında yetkilendirilmiş yükümlü statüsü tanınmıştır; (A) A.Ş.'nin onaylanmış kişi statü belgesi yoktur. Ayrıca:
+**2-** Gümrük Yönetmeliği'ne göre onaylanmış kişi statüsü için aranan en az iki yıldır fiilen faaliyette bulunma koşuluna ilişkin aşağıdakilerden hangisi doğrudur?
 
-- (A) A.Ş., malvarlığının bir bölümünü kısmi bölünme suretiyle yeni kurulan (B) A.Ş.'ye devretmiştir,  
-- (B) A.Ş.'nin sermayesinin tamamı (A) A.Ş.'ye aittir,  
-- (B) A.Ş., kuruluşundan on ay sonra onaylanmış kişi statü belgesi için başvurmak istemektedir.  
-Gümrük Yönetmeliği'nin onaylanmış kişi statüsü verilebilecek kişilere ilişkin hükümlerine göre (B) A.Ş.'nin başvurusunda en az iki yıldır fiilen faaliyette bulunma koşuluna ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) İki yıllık faaliyet koşulu, bölünen şirketle aralarında şirket ilişkisi bulunduğu için aranmaz.  
-B) Bölünmede iki yıllık koşulun aranmaması yalnızca statü belgesi sahibi şirketlerin bölünmesine özgü olduğundan (B) A.Ş. iki yılı doldurmadan başvuramaz.  
-C) İki yıllık faaliyet koşulu yalnızca tam bölünme hâlinde aranmaz; kısmi bölünmede (B) A.Ş.'nin bu koşulu sağlaması gerekir.  
-D) (B) A.Ş., yetkilendirilmiş yükümlü statüsü tanınan bir şirketten bölündüğü için onaylanmış kişi statüsüne başvuramaz.  
-E) İki yıllık faaliyet koşulu aranmaz; bu sonuç için bölünen şirketle aralarında şirket ilişkisi bulunup bulunmadığına bakılmaz.  
+A) Yetkilendirilmiş yükümlü statüsü tanınan şirketin malvarlığının bir bölümünü yeni kurulacak bir şirkete kısmi veya tam bölünme suretiyle devretmesi hâlinde, aralarında şirket ilişkisi bulunması koşuluyla devralan şirketin başvurusunda bu koşul aranmaz.  
+B) Yetkilendirilmiş yükümlü statüsü tanınan şirketten bölünme suretiyle kurulan şirketin başvurusunda bu koşul, iki şirket arasında şirket ilişkisi bulunup bulunmadığına bakılmaksızın aranmaz.  
+C) Onaylanmış kişi statü belgesi sahibi şirketin devir suretiyle tüzel kişiliğinin sona ermesi hâlinde, onu devralan tüzel kişiliğin başvurusunda bu koşul aranır.  
+D) Bu koşulun aranmaması, yalnızca onaylanmış kişi statü belgesi sahibi şirketlerin devir, birleşme veya kısmi bölünmesine özgüdür.  
+E) Onaylanmış kişi statü belgesi sahibi şirketin tam bölünmesi hâlinde yeni kurulan şirketin başvurusunda bu koşul aranmaz; kısmi bölünmede ise aranır.  
 
 **3-** Gümrük Yönetmeliği'ne göre onaylanmış kişi statüsü için aranan genel koşullardan biri, başvuru sahibinin yönetim kurulu üyeleri, sermayesinin yüzde on ve fazlasına sahip gerçek kişiler ile gümrük ve dış ticaret işlemlerinde temsil yetkisini haiz çalışanları hakkında sayılan suçlardan ve kanunlara muhalefetten ceza veya mahkumiyet kararı bulunmamasıdır.
 
@@ -80,19 +75,13 @@ C) 7 milyon
 D) 10 milyon  
 E) 20 milyon  
 
-**8-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre statü belgesi başvurularının ön incelemesine ilişkin OK1 tespiti hakkında aşağıdaki ifadeler verilmiştir:
+**8-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre "OK1" aşağıdakilerden hangisini ifade eder?
 
-I. OK1 tespiti, başvuru sahibiyle tespit sözleşmesi yapılması kaydıyla yetkilendirilmemiş bir gümrük müşavirince de yapılabilir.  
-II. Statü belgesi başvurusunda bulunan kişilerce bir yetkilendirilmiş gümrük müşaviri ile OK1 tespiti için tespit sözleşmesi yapılmış olması gerekir.  
-III. Olumlu tespit raporu, yetkilendirilmiş gümrük müşavirince kaşelenip imzalanarak başvuru sahibine iki nüsha hâlinde; olumsuz tespit raporu ise bir nüsha hâlinde teslim edilir.  
-IV. Tespiti yapan yetkilendirilmiş gümrük müşaviri, kendisine ibraz edilen belgelerden birinin sahte olduğunu tespit ederse durumu yetkili bölge müdürlüğüne bildirmekle yükümlüdür.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) I, II ve IV  
-D) I, II, III ve IV  
-E) II, III ve IV  
+A) Onaylanmış kişi statü belgesi müracaatına ilişkin başvuru dosyalarının yetkili bölge müdürlüğünce gerçekleştirilecek ön incelemesini  
+B) Onaylanmış kişi statü belgesi müracaatına ilişkin başvuru dosyalarının herhangi bir gümrük müşavirince gerçekleştirilecek ön incelemesini  
+C) Yetkilendirilmiş gümrük müşaviri ile statü belgesi başvurusunda bulunacak kişi arasında ön incelemenin yapılması için özel hukuk hükümlerine istinaden yapılan sözleşmeyi  
+D) Yetkilendirilmiş gümrük müşavirince gerçekleştirilen tespit işlemleri sonucunda olumlu görüşü ihtiva eden raporu  
+E) Onaylanmış kişi statü belgesi müracaatına ilişkin başvuru dosyalarının yetkilendirilmiş gümrük müşavirince gerçekleştirilecek ön incelemesini  
 
 **9-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre statü belgesi başvurularında OK1 tespiti için tespit sözleşmesi yapılmış yetkilendirilmiş gümrük müşavirine ibraz edilecek belgelere ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -148,31 +137,21 @@ C) I, II ve III
 D) I, III ve IV  
 E) I ve III  
 
-**15-** Onaylanmış kişi statü belgesi sahibi (M) firmasına ilişkin bilgiler şöyledir:
+**15-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre eksik beyan usulünde eksik belgelerin ek süreler dâhil süresi içinde ibraz edilmemesinin sonuçlarına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- Firma, statü belgesinin geçerlilik süresi içinde daha önce bir kez eksik belgeleri ek süreler dâhil süresi içinde ibraz etmemiş; uyarılmış ve hakkında usulsüzlük cezası uygulanmıştır.  
-- Firma daha sonra aynı gün tescil ettirdiği üç ithalat beyannamesinde eksik beyan usulünden yararlanmış ve bu üç beyannameye ait eksik belgeleri de ek süreler dâhil süresi içinde ibraz etmemiştir.  
-Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre eksik beyanda bulunma yetkisinin askıya alınmasına ilişkin hükümler çerçevesinde (M) firması hakkında aşağıdakilerden hangisi doğrudur?  
+A) Süresi içinde ibraz edilmeyen eksik belgeler tamamlanıncaya kadar statü belgesi sahibinin eksik beyanda bulunma yetkisinden yararlanmasına izin verilmez.  
+B) Statü belgesinin geçerlilik süresince eksik belgeleri süresi içinde üçüncü kez ibraz etmeyenin eksik beyanda bulunma yetkisi, eksik belgelerin tamamlanmasını müteakip altı ay süreyle askıya alınır.  
+C) Aynı gün içinde tescil edilmiş birden fazla beyannameye ilişkin eksik belgelerin süresinde tamamlanmaması hâlinde her bir beyanname için usulsüzlük cezası uygulanır.  
+D) Aynı gün içinde tescil edilmiş birden fazla beyannameye ilişkin eksik belgelerin süresinde tamamlanmaması hâlinde kişi, her bir beyanname için ayrı ayrı süresi içinde ibraz etmemiş sayılır.  
+E) Eksik beyanda bulunma yetkisi askıya alınan kişinin, askıya alma süresinin bitiminden sonra ihlali geçerlilik süresi içinde tekrar etmesi hâlinde bu yetki statü belgesinin geçerlilik süresi sonuna kadar geri alınır.  
 
-A) Üç beyannamenin her biri için usulsüzlük cezası uygulanır; firma süresi içinde ibraz etmemeyi üçüncü kez tekrarlamış sayıldığından eksik beyanda bulunma yetkisi altı ay süreyle askıya alınır.  
-B) Aynı gün tescil edilen beyannameler için tek bir usulsüzlük cezası uygulanır; firma bir kez süresi içinde ibraz etmemiş sayılır.  
-C) Firmanın eksik beyanda bulunma yetkisi, statü belgesinin geçerlilik süresi sonuna kadar geri alınır.  
-D) Üç beyannamenin her biri için usulsüzlük cezası uygulanır; firma bu beyannameler için bir kez süresi içinde ibraz etmemiş sayılır.  
-E) Firmanın eksik beyanda bulunma yetkisi bir ay süreyle askıya alınır.  
+**16-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre, ekonomik etkili gümrük rejimlerine ilişkin ihlaller nedeniyle ödenmesi gereken gümrük vergileri, faiz ve para cezasının tamamını tebliğ edilen ödeme süresi içinde ödememe ihlalinin statü belgesinin geçerlilik süresi içinde ikinci kez tekrarı hâlinde, statü belgesi sahibinin kısmi teminat uygulamasından yararlanma yetkisi hakkında aşağıdakilerden hangisi uygulanır?
 
-**16-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre statü belgesi sahiplerine tanınan kısmi teminat uygulamasına ilişkin aşağıdaki ifadeler verilmiştir:
-
-I. Gümrük antrepo, gümrük kontrolü altında işleme ve geçici ithalat rejimlerine tabi tutulan eşya için teminat alınması öngörülen durumlarda, statü belgesi sahiplerinden talep etmeleri hâlinde ithalat vergilerinin yüzde onu oranında teminat alınır.  
-II. Özel Tüketim Vergisi Kanunu ekindeki (I) sayılı listede yer alan eşyaya ilişkin özel tüketim vergisi için, Bakanlıkça belirlenecek hâller saklı kalmak kaydıyla, kısmi teminat uygulamasından yararlanılamaz.  
-III. Dâhilde işleme ve hariçte işleme rejimlerinde, bu rejimlere ilişkin kararlarla belirlenmiş teminat hükümlerine bakılmaksızın yüzde on oranında kısmi teminat uygulanır.  
-IV. Ekonomik etkili gümrük rejimlerine ilişkin ihlaller nedeniyle ödenmesi gereken gümrük vergileri, faiz ve para cezasının tamamını tebliğ edilen ödeme süresi içinde ödememe ihlalinin, statü belgesinin geçerlilik süresi içinde ikinci kez tekrarı hâlinde kısmi teminat yetkisi geçerlilik süresi sonuna kadar geri alınır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I, II ve IV  
-B) I ve II  
-C) I ve III  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Yetki, statü belgesinin geçerlilik süresi sonuna kadar geri alınır.  
+B) Yetki, borcun ödenmesini müteakip iki yıl süreyle askıya alınır.  
+C) Yetki, altı ay süreyle askıya alınır.  
+D) Yetki için ayrı bir işlem yapılmaz; yalnızca statü belgesi borç ödenene kadar askıya alınır.  
+E) Statü belgesi iptal edilir ve kişiye iki yıl süreyle onaylanmış kişi statüsü verilmez.  
 
 **17-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre statü belgesi sahiplerine ait ithalat ve ihracat eşyasının daha az muayeneye tabi tutulabilmesini sağlayan, beyanın kontrol türüne ilişkin kolaylaştırmalardan yararlanma koşullarıyla ilgili aşağıdakilerden hangisi doğrudur?
 
@@ -225,25 +204,20 @@ D) Yetkilendirilmiş gümrük müşaviriyle ön inceleme için tespit sözleşme
 E) Statü belgesinin düzenlendiği tarih  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre onaylanmış kişi statüsü, Türkiye Gümrük Bölgesinde yerleşik ve en az iki yıldır fiilen faaliyette bulunan gerçek ve tüzel kişilere talepleri hâlinde verilir. Tebliğ, bu sürenin hangi an itibarıyla aranacağını ret hâlleri arasında gösterir: başvuru sahibinin, yetkilendirilmiş gümrük müşaviriyle onaylanmış kişi statüsü başvurusunun ön incelemesi için sözleşme yapıldığı tarih itibarıyla iki yıldan daha az süredir faaliyette bulunduğunun anlaşılması hâlinde statü belgesi talebi reddedilir (devir, birleşme ve kısmi bölünme hâlleri saklıdır). En güçlü çeldirici 'sözleşmenin yapıldığı ayın ilk günü'dür: bu an, ceza kararı oranları ile dış ticaret performansında geriye dönük iki yıllık dönemlerin başlangıcıdır; faaliyet süresinde ise sözleşmenin yapıldığı tarihin kendisi esas alınır. Olumlu tespit raporunun düzenlendiği tarih başvurunun beş iş günlük süresini başlatır; statü belgesinin düzenlendiği tarih ise geri almadaki on iki aylık dönemin başlangıcıdır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 22; OKS Tebliği 12)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre onaylanmış kişi statüsü, Türkiye Gümrük Bölgesinde yerleşik ve en az iki yıldır fiilen faaliyette bulunan gerçek ve tüzel kişilere talepleri hâlinde verilir. Tebliğ, bu sürenin hangi an itibarıyla aranacağını ret hâlleri arasında gösterir: başvuru sahibinin, yetkilendirilmiş gümrük müşaviriyle onaylanmış kişi statüsü başvurusunun ön incelemesi için sözleşme yapıldığı tarih itibarıyla iki yıldan daha az süredir faaliyette bulunduğunun anlaşılması hâlinde statü belgesi talebi reddedilir (devir, birleşme ve kısmi bölünme hâlleri saklıdır). En güçlü çeldirici 'Ön inceleme için tespit sözleşmesinin yapıldığı ayın ilk günü' seçeneğidir: bu an, ceza kararı oranları ile dış ticaret performansında geriye dönük iki yıllık dönemlerin başlangıcıdır; faaliyet süresinde ise sözleşmenin yapıldığı tarihin kendisi esas alınır. Olumlu tespit raporunun düzenlendiği tarih başvurunun beş iş günlük süresini başlatır; statü belgesinin düzenlendiği tarih ise geri almadaki on iki aylık dönemin başlangıcıdır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 22; OKS Tebliği 12)
 
 *Gümrük Yönetmeliği md. 22, 24*
 
-**2-** (A) A.Ş.'ye Gümrük Kanunu kapsamında yetkilendirilmiş yükümlü statüsü tanınmıştır; (A) A.Ş.'nin onaylanmış kişi statü belgesi yoktur. Ayrıca:
+**2-** Gümrük Yönetmeliği'ne göre onaylanmış kişi statüsü için aranan en az iki yıldır fiilen faaliyette bulunma koşuluna ilişkin aşağıdakilerden hangisi doğrudur?
 
-- (A) A.Ş., malvarlığının bir bölümünü kısmi bölünme suretiyle yeni kurulan (B) A.Ş.'ye devretmiştir,  
-- (B) A.Ş.'nin sermayesinin tamamı (A) A.Ş.'ye aittir,  
-- (B) A.Ş., kuruluşundan on ay sonra onaylanmış kişi statü belgesi için başvurmak istemektedir.  
-Gümrük Yönetmeliği'nin onaylanmış kişi statüsü verilebilecek kişilere ilişkin hükümlerine göre (B) A.Ş.'nin başvurusunda en az iki yıldır fiilen faaliyette bulunma koşuluna ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) İki yıllık faaliyet koşulu, bölünen şirketle aralarında şirket ilişkisi bulunduğu için aranmaz.  
-B) Bölünmede iki yıllık koşulun aranmaması yalnızca statü belgesi sahibi şirketlerin bölünmesine özgü olduğundan (B) A.Ş. iki yılı doldurmadan başvuramaz.  
-C) İki yıllık faaliyet koşulu yalnızca tam bölünme hâlinde aranmaz; kısmi bölünmede (B) A.Ş.'nin bu koşulu sağlaması gerekir.  
-D) (B) A.Ş., yetkilendirilmiş yükümlü statüsü tanınan bir şirketten bölündüğü için onaylanmış kişi statüsüne başvuramaz.  
-E) İki yıllık faaliyet koşulu aranmaz; bu sonuç için bölünen şirketle aralarında şirket ilişkisi bulunup bulunmadığına bakılmaz.  
+A) Yetkilendirilmiş yükümlü statüsü tanınan şirketin malvarlığının bir bölümünü yeni kurulacak bir şirkete kısmi veya tam bölünme suretiyle devretmesi hâlinde, aralarında şirket ilişkisi bulunması koşuluyla devralan şirketin başvurusunda bu koşul aranmaz.  
+B) Yetkilendirilmiş yükümlü statüsü tanınan şirketten bölünme suretiyle kurulan şirketin başvurusunda bu koşul, iki şirket arasında şirket ilişkisi bulunup bulunmadığına bakılmaksızın aranmaz.  
+C) Onaylanmış kişi statü belgesi sahibi şirketin devir suretiyle tüzel kişiliğinin sona ermesi hâlinde, onu devralan tüzel kişiliğin başvurusunda bu koşul aranır.  
+D) Bu koşulun aranmaması, yalnızca onaylanmış kişi statü belgesi sahibi şirketlerin devir, birleşme veya kısmi bölünmesine özgüdür.  
+E) Onaylanmış kişi statü belgesi sahibi şirketin tam bölünmesi hâlinde yeni kurulan şirketin başvurusunda bu koşul aranmaz; kısmi bölünmede ise aranır.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre onaylanmış kişi statüsü kural olarak en az iki yıldır fiilen faaliyette bulunan kişilere verilir. Vakada saklı istisna, bölünen şirketin onaylanmış kişi değil yetkilendirilmiş yükümlü olmasıdır: Yönetmelik, Gümrük Kanunu kapsamında yetkilendirilmiş yükümlü statüsü tanınan şirketin malvarlığının bir veya birden fazla bölümünü yeni kurulacak bir şirkete kısmi veya tam bölünme suretiyle devretmesi hâlinde, idaresi ve murakabesi ve/veya sermayesi bakımından iki şirket arasında vasıtalı veya vasıtasız şirket ilişkisi bulunması koşuluyla, devralan tüzel kişiliğin başvurusunda iki yıllık faaliyet koşulunu aramaz. (B) A.Ş.'nin sermayesinin tamamı (A) A.Ş.'ye ait olduğundan şirket ilişkisi vardır. En güçlü çeldirici, istisnanın yalnızca statü belgesi sahibi şirketlerin devir, birleşme veya kısmi bölünmesine ait olduğunu söyleyen seçenektir; Yönetmelik bu hâllerin yanında yetkilendirilmiş yükümlü şirketlerin bölünmesini ayrıca düzenlemiştir. Tebliğ'deki ret hâli, adına yetkilendirilmiş yükümlü sertifikası düzenlenmiş başvuru sahibine ilişkindir; (B) A.Ş. adına böyle bir sertifika yoktur. Bu nedenle doğru cevap A seçeneğidir. (MD GY 22; OKS Tebliği 12)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre onaylanmış kişi statüsü kural olarak Türkiye Gümrük Bölgesinde yerleşik ve en az iki yıldır fiilen faaliyette bulunan kişilere verilir. Bu koşul iki istisna grubunda aranmaz. Birincisi, onaylanmış kişi statü belgesi sahibinin devir veya birleşme suretiyle tüzel kişiliğinin sona ermesi ya da malvarlığının bir bölümünü kısmi bölünme suretiyle şirket ilişkisi bulunan yeni bir şirkete devretmesi hâlleridir; devralan veya yeni kurulan şirketin başvurusunda iki yıllık koşul aranmaz. İkincisi, Gümrük Kanunu kapsamında yetkilendirilmiş yükümlü statüsü tanınan şirketin malvarlığının bir veya birden fazla bölümünü yeni kurulacak bir şirkete kısmi veya tam bölünme suretiyle devretmesi hâlidir; idaresi ve murakabesi ve/veya sermayesi bakımından iki şirket arasında vasıtalı veya vasıtasız şirket ilişkisi bulunması koşuluyla devralan tüzel kişiliğin başvurusunda bu koşul aranmaz. Şirket ilişkisi şartı atlanamaz; istisna yalnız statü belgesi sahiplerine özgü değildir; statü belgesi sahibinde de kısmi bölünme istisnanın içindedir. En güçlü çeldirici, istisnayı yalnızca statü belgesi sahibi şirketlere bağlayan seçenektir; Yönetmelik yetkilendirilmiş yükümlü şirketlerin bölünmesini ayrıca düzenlemiştir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 22, 24)
 
 *Gümrük Yönetmeliği md. 23*
 
@@ -277,7 +251,7 @@ D) II, III ve IV
 E) II ve IV  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre ceza kararı sayısının beyanname sayısına oranına ilişkin genel koşulların uygulanmasında ceza kararına sebep teşkil eden ihlalin tarihi esas alınır; kararın kesinleştiği tarih esas alınmaz (I yanlış). Kesinleşmemiş ceza kararları dikkate alınmaz (II doğru). Ön inceleme için sözleşme yapıldığı ayın ilk gününden geriye dönük iki yıldan daha önce işlenen fiiller nedeniyle düzenlenen ceza kararları dikkate alınmaz (III yanlış). Aynı tespite istinaden geriye dönük olarak yapılan tarama sonucunda aynı ihlale ilişkin düzenlenen birden fazla ceza kararı tek bir ceza kararı sayılır (IV doğru). En güçlü çeldirici I'dir: kesinleşme, kararın hesaba katılıp katılmayacağının ölçüsüdür; kararın hangi döneme gireceği ise ihlalin tarihine göre belirlenir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 23)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre ceza kararı sayısının beyanname sayısına oranına ilişkin genel koşulların uygulanmasında ceza kararına sebep teşkil eden ihlalin tarihi esas alınır; kararın kesinleştiği tarih esas alınmaz (I yanlış). Kesinleşmemiş ceza kararları dikkate alınmaz (II doğru). Ön inceleme için sözleşme yapıldığı ayın ilk gününden geriye dönük iki yıldan daha önce işlenen fiiller nedeniyle düzenlenen ceza kararları dikkate alınmaz (III yanlış). Aynı tespite istinaden geriye dönük olarak yapılan tarama sonucunda aynı ihlale ilişkin düzenlenen birden fazla ceza kararı tek bir ceza kararı sayılır (IV doğru). En güçlü çeldirici 'I, II ve IV' seçeneğidir: kesinleşme, kararın hesaba katılıp katılmayacağının ölçüsüdür; kararın hangi döneme gireceği ise ihlalin tarihine göre belirlenir. Bu ikisini karıştıran aday I'i de doğru sayar. Bu nedenle doğru cevap E seçeneğidir. (MD GY 23)
 
 *Gümrük Yönetmeliği md. 23*
 
@@ -325,22 +299,16 @@ E) 20 milyon
 
 *Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 3, 5, 7*
 
-**8-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre statü belgesi başvurularının ön incelemesine ilişkin OK1 tespiti hakkında aşağıdaki ifadeler verilmiştir:
+**8-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre "OK1" aşağıdakilerden hangisini ifade eder?
 
-I. OK1 tespiti, başvuru sahibiyle tespit sözleşmesi yapılması kaydıyla yetkilendirilmemiş bir gümrük müşavirince de yapılabilir.  
-II. Statü belgesi başvurusunda bulunan kişilerce bir yetkilendirilmiş gümrük müşaviri ile OK1 tespiti için tespit sözleşmesi yapılmış olması gerekir.  
-III. Olumlu tespit raporu, yetkilendirilmiş gümrük müşavirince kaşelenip imzalanarak başvuru sahibine iki nüsha hâlinde; olumsuz tespit raporu ise bir nüsha hâlinde teslim edilir.  
-IV. Tespiti yapan yetkilendirilmiş gümrük müşaviri, kendisine ibraz edilen belgelerden birinin sahte olduğunu tespit ederse durumu yetkili bölge müdürlüğüne bildirmekle yükümlüdür.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) I, II ve IV  
-D) I, II, III ve IV  
-E) II, III ve IV  
+A) Onaylanmış kişi statü belgesi müracaatına ilişkin başvuru dosyalarının yetkili bölge müdürlüğünce gerçekleştirilecek ön incelemesini  
+B) Onaylanmış kişi statü belgesi müracaatına ilişkin başvuru dosyalarının herhangi bir gümrük müşavirince gerçekleştirilecek ön incelemesini  
+C) Yetkilendirilmiş gümrük müşaviri ile statü belgesi başvurusunda bulunacak kişi arasında ön incelemenin yapılması için özel hukuk hükümlerine istinaden yapılan sözleşmeyi  
+D) Yetkilendirilmiş gümrük müşavirince gerçekleştirilen tespit işlemleri sonucunda olumlu görüşü ihtiva eden raporu  
+E) Onaylanmış kişi statü belgesi müracaatına ilişkin başvuru dosyalarının yetkilendirilmiş gümrük müşavirince gerçekleştirilecek ön incelemesini  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğ'de OK1, onaylanmış kişi statü belgesi müracaatına ilişkin başvuru dosyalarının yetkilendirilmiş gümrük müşavirince gerçekleştirilecek ön incelemesi olarak tanımlanır; bu tespiti yetkilendirilmemiş bir gümrük müşaviri yapamaz (I yanlış). Statü belgesi başvurusunda bulunacak kişilerce bir yetkilendirilmiş gümrük müşaviriyle OK1 tespiti için tespit sözleşmesi yapılmış olması gerekir (II doğru). Olumlu tespit raporları yetki numarasını içeren kaşeyle kaşelenip imzalanarak başvuru sahibine iki nüsha, olumsuz tespit raporları bir nüsha hâlinde teslim edilir (III doğru). Tespiti yapan yetkilendirilmiş gümrük müşaviri, kendisine ibraz edilen belgelerden bir veya daha fazlasının sahte veya tahrif edilmiş olduğunu tespit ederse durumu yetkili bölge müdürlüğüne bildirmekle yükümlüdür (IV doğru). En güçlü çeldirici I'dir: 'her gümrük müşaviri bu tespiti yapabilir' önyargısı, tespit yetkisinin yalnızca yetkilendirilmiş gümrük müşavirine ait olduğunu gözden kaçırır. Bu nedenle doğru cevap E seçeneğidir. (MD OKS Tebliği 3, 5, 7)
+**Gerekçe:** Tebliğ'e göre OK1, onaylanmış kişi statü belgesi müracaatına ilişkin başvuru dosyalarının yetkilendirilmiş gümrük müşavirince gerçekleştirilecek ön incelemesini ifade eder. Statü belgesi başvurusunda bulunacak kişilerce bir yetkilendirilmiş gümrük müşaviriyle OK1 tespiti için tespit sözleşmesi yapılmış olması gerekir; tespit, sözleşmenin yapıldığı tarihi izleyen otuz gün içinde olumlu veya olumsuz olarak rapora bağlanır. Ön inceleme yetkisi yalnızca yetkilendirilmiş gümrük müşavirine aittir; yetkilendirilmemiş bir gümrük müşaviri bu tespiti yapamaz. Yetkili bölge müdürlüğü ise OK1 sonrasında yapılan statü belgesi başvurusunu inceleyip sonuçlandıran makamdır. Tespit sözleşmesi, yetkilendirilmiş gümrük müşaviri ile başvuru sahibi arasında OK1 tespitinin yapılması için özel hukuk hükümlerine istinaden yapılan sözleşmedir; olumlu tespit raporu da tespit işlemleri sonucunda olumlu görüşü ihtiva eden rapordur. En güçlü çeldirici, ön incelemeyi herhangi bir gümrük müşavirine bırakan seçenektir: 'her gümrük müşaviri bu tespiti yapabilir' önyargısı, yetkinin yalnızca yetkilendirilmiş gümrük müşavirine ait olduğunu gözden kaçırır. Bu nedenle doğru cevap E seçeneğidir. (MD OKS Tebliği 3, 5, 7)
 
 *Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 6*
 
@@ -366,9 +334,9 @@ D) Olumlu tespit raporunun başvuru sahibine teslim edildiği tarihi izleyen ü�
 E) Olumlu tespit raporunun düzenlenme tarihini izleyen beş iş günü içinde  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğ'e göre başvurular, şahsen veya posta yoluyla, aranan belgelerle birlikte yetkili bölge müdürlüğüne olumlu tespit raporunun düzenlenme tarihini izleyen beş iş günü içinde yapılır; bu süre içinde yapılmayan başvurular reddedilir. Sürenin başlangıcı raporun düzenlenme tarihidir; raporun başvuru sahibine teslim tarihi veya tespit sözleşmesinin tarihi değildir. En güçlü çeldirici 'sözleşmenin yapıldığı tarihi izleyen otuz gün'dür: bu süre, yetkilendirilmiş gümrük müşavirinin OK1 tespitini rapora bağlaması için öngörülmüştür ve bu süreyi aşan tarihte düzenlenen rapor geçersizdir. On iş günü, götürü teminat talep edilmemiş başvurunun bölge müdürlüğünce incelenme süresidir; üç iş günü ise başvurudaki eksikliklerin tamamlanması için tanınan süredir. Bu nedenle doğru cevap E seçeneğidir. (MD OKS Tebliği 7, 9, 10, 12)
+**Gerekçe:** Tebliğ'e göre başvurular, şahsen veya posta yoluyla, aranan belgelerle birlikte yetkili bölge müdürlüğüne olumlu tespit raporunun düzenlenme tarihini izleyen beş iş günü içinde yapılır; bu süre içinde yapılmayan başvurular reddedilir. Sürenin başlangıcı raporun düzenlenme tarihidir; raporun başvuru sahibine teslim tarihi veya tespit sözleşmesinin tarihi değildir. En güçlü çeldirici 'Tespit sözleşmesinin yapıldığı tarihi izleyen otuz gün içinde' seçeneğidir: bu süre, yetkilendirilmiş gümrük müşavirinin OK1 tespitini rapora bağlaması için öngörülmüştür ve bu süreyi aşan tarihte düzenlenen rapor geçersizdir. On iş günü, götürü teminat talep edilmemiş başvurunun bölge müdürlüğünce incelenme süresidir; üç iş günü ise başvurudaki eksikliklerin tamamlanması için tanınan süredir. Bu nedenle doğru cevap E seçeneğidir. (MD OKS Tebliği 7, 9, 10, 12)
 
-*Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 12, 61, 62, 63*
+*Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 12, 61, 62, 63; Gümrük Yönetmeliği md. 26*
 
 **11-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre, onaylanmış kişi statü belgesi sahibi bir firma adına Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği uyarınca yetkilendirilmiş yükümlü sertifikası düzenlenmesi hâlinde, firmanın statü belgesi hakkında aşağıdakilerden hangisi uygulanır?
 
@@ -379,9 +347,9 @@ D) Statü belgesi geri alınmaz; yalnızca belge kapsamındaki götürü teminat
 E) Statü belgesi, yetkilendirilmiş yükümlü sertifikasıyla birlikte geçerlilik süresi sonuna kadar kullanılmaya devam edilir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğ'e göre Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği uyarınca adlarına yetkilendirilmiş yükümlü sertifikası düzenlenmiş onaylanmış kişi statüsü sahibi kişilerin statü belgeleri geri alınır; iki statü birlikte sürdürülmez. Aynı nedenle, adına yetkilendirilmiş yükümlü sertifikası düzenlenmiş olduğu tespit edilen kişinin statü belgesi talebi de reddedilir. Statü belgesine ilişkin üç sonuç birbirinden ayrılmalıdır: askıya alma, gümrük işlemlerinden veya cezalarından doğan kamu alacağının süresinde ödenmemesinde borç ödenene kadar uygulanır; iptal, belgenin yanlış veya eksik bilgilere ya da sahte belgelere dayanılarak verildiğinin anlaşılmasında uygulanır; geri alma ise genel koşulların ortadan kalkması, belge sahibinin talebi ve yetkilendirilmiş yükümlü sertifikası düzenlenmesi hâllerinde uygulanır. En güçlü çeldirici 'iptal edilir' seçeneğidir: Gümrük Yönetmeliği'ne göre iptalde belge kapsamındaki yetkiler belgenin düzenlendiği tarih itibarıyla geçersiz sayılır ve bu ağır sonuç yalnızca yanlış bilgi veya sahte belge hâline özgüdür. Bu nedenle doğru cevap C seçeneğidir. (MD OKS Tebliği 12, 61, 62, 63; GY 26)
+**Gerekçe:** Tebliğ'e göre Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği uyarınca adlarına yetkilendirilmiş yükümlü sertifikası düzenlenmiş onaylanmış kişi statüsü sahibi kişilerin statü belgeleri geri alınır; iki statü birlikte sürdürülmez. Aynı nedenle, adına yetkilendirilmiş yükümlü sertifikası düzenlenmiş olduğu tespit edilen kişinin statü belgesi talebi de reddedilir. Statü belgesine ilişkin üç sonuç birbirinden ayrılmalıdır: askıya alma, gümrük işlemlerinden veya cezalarından doğan kamu alacağının süresinde ödenmemesinde borç ödenene kadar uygulanır; iptal, belgenin yanlış veya eksik bilgilere ya da sahte belgelere dayanılarak verildiğinin anlaşılmasında uygulanır; geri alma ise genel koşulların ortadan kalkması, belge sahibinin talebi ve yetkilendirilmiş yükümlü sertifikası düzenlenmesi hâllerinde uygulanır. En güçlü çeldirici, statü belgesinin iptal edileceğini söyleyen seçenektir: Gümrük Yönetmeliği'ne göre iptalde belge kapsamındaki yetkiler belgenin düzenlendiği tarih itibarıyla geçersiz sayılır ve bu ağır sonuç yalnızca yanlış bilgi veya sahte belge hâline özgüdür. Bu nedenle doğru cevap C seçeneğidir. (MD OKS Tebliği 12, 61, 62, 63; GY 26)
 
-*Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 4*
+*Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 4, 42/A, 54*
 
 **12-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre statü belgesi kapsamında tanınan hak ve uygulamalara ilişkin aşağıdakilerden hangisi doğrudur?
 
@@ -394,7 +362,7 @@ E) Eksik beyan usulünden ve kısmi teminat uygulamasından yalnızca statü bel
 **Doğru Cevap:** A  
 **Gerekçe:** Tebliğ'e göre adına statü belgesi düzenlenen gerçek ve tüzel kişilere bu belge kapsamında tanınan hak ve uygulamalardan bizzat bu kişilerce yararlanılır; bu haklardan yararlanma yetkisi başkalarına kullandırılamaz. Statü belgesi sahipleri, belgelerinin geçerlilik süresi boyunca eksik beyan usulü, kısmi teminat uygulaması ve “1000” rejim kodlu ihracat beyannamelerine ilişkin kontrol türü kolaylaştırmasından yararlanabilir; bu imkân ilk on iki ayla sınırlı değildir. Götürü teminat yetkisi ancak talep edilmesi hâlinde tanınabilir; onaylanmış ihracatçı yetkisi de talep hâlinde ve statü belgesinin geçerlilik süresi içinde tanınır, süresiz değildir. Daha az muayeneyi sağlayan kolaylaştırmalardan ise imalatçılık, ihracat veya dış ticaret tutarı ve işçi sayısı koşullarını sağlayanlara talepleri hâlinde izin verilebilir. En güçlü çeldirici götürü teminata ilişkin seçenektir: götürü teminat statü belgesiyle kendiliğinden değil, talep üzerine tanınır. Bu nedenle doğru cevap A seçeneğidir. (MD OKS Tebliği 4, 42/A, 54)
 
-*Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 17*
+*Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 17; Gümrük Yönetmeliği md. 117*
 
 **13-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre statü belgesi sahiplerinin eksik beyan usulü kapsamında beyannameye eklemeksizin beyanda bulunabilecekleri belgeler arasında aşağıdakilerden hangisi yer almaz?
 
@@ -424,43 +392,33 @@ D) I, III ve IV
 E) I ve III  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğ'e göre eksik beyana konu belgelerin, gümrük beyannamesinin tescil tarihinden itibaren bir ay içinde beyannamenin tescil edildiği gümrük müdürlüğüne ibraz edilmesi gerekir (I doğru). İndirimli veya sıfır oranında gümrük vergisi uygulanması için gereken belgelerin eksikliğinde, bu oranların uygulanacağı konusunda yeterli neden bulunması koşuluyla, bir aylık süre içinde beyan sahibinin talebi üzerine gümrük müdürlüğünce verilebilecek ek süre üç ayı geçemez; altı ay yazılması yanlıştır (II yanlış). Tamamlanacak eksik beyanın gümrük kıymetiyle ilgili olması ve beyanın tamamlanmasının daha uzun süre gerektirdiğinin kanıtlanması hâlinde gümrük müdürlüğünce üç aydan uzun bir ek süre belirlenebilir (III doğru). Gümrük müdürlükleri, süresinde ibraz edilmemiş BS-1 kodlu beyannameleri her ayın ilk beş iş günü içinde BİLGE sisteminde sorgulama yaparak tespit eder; 'son beş iş günü' yanlıştır (IV yanlış). En güçlü çeldirici IV'tür: gün sayısı doğrudur, ayın hangi dilimi olduğu değiştirilmiştir. Bu nedenle doğru cevap E seçeneğidir. (MD OKS Tebliği 18, 23)
+**Gerekçe:** Tebliğ'e göre eksik beyana konu belgelerin, gümrük beyannamesinin tescil tarihinden itibaren bir ay içinde beyannamenin tescil edildiği gümrük müdürlüğüne ibraz edilmesi gerekir (I doğru). İndirimli veya sıfır oranında gümrük vergisi uygulanması için gereken belgelerin eksikliğinde, bu oranların uygulanacağı konusunda yeterli neden bulunması koşuluyla, bir aylık süre içinde beyan sahibinin talebi üzerine gümrük müdürlüğünce verilebilecek ek süre üç ayı geçemez; altı ay yazılması yanlıştır (II yanlış). Tamamlanacak eksik beyanın gümrük kıymetiyle ilgili olması ve beyanın tamamlanmasının daha uzun süre gerektirdiğinin kanıtlanması hâlinde gümrük müdürlüğünce üç aydan uzun bir ek süre belirlenebilir (III doğru). Gümrük müdürlükleri, süresinde ibraz edilmemiş BS-1 kodlu beyannameleri her ayın ilk beş iş günü içinde BİLGE sisteminde sorgulama yaparak tespit eder; 'son beş iş günü' yanlıştır (IV yanlış). En güçlü çeldirici 'I, III ve IV' seçeneğidir: IV'te gün sayısı doğrudur, ayın hangi dilimi olduğu değiştirilmiştir. Bu nedenle doğru cevap E seçeneğidir. (MD OKS Tebliği 18, 23)
 
 *Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 24, 25*
 
-**15-** Onaylanmış kişi statü belgesi sahibi (M) firmasına ilişkin bilgiler şöyledir:
+**15-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre eksik beyan usulünde eksik belgelerin ek süreler dâhil süresi içinde ibraz edilmemesinin sonuçlarına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- Firma, statü belgesinin geçerlilik süresi içinde daha önce bir kez eksik belgeleri ek süreler dâhil süresi içinde ibraz etmemiş; uyarılmış ve hakkında usulsüzlük cezası uygulanmıştır.  
-- Firma daha sonra aynı gün tescil ettirdiği üç ithalat beyannamesinde eksik beyan usulünden yararlanmış ve bu üç beyannameye ait eksik belgeleri de ek süreler dâhil süresi içinde ibraz etmemiştir.  
-Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre eksik beyanda bulunma yetkisinin askıya alınmasına ilişkin hükümler çerçevesinde (M) firması hakkında aşağıdakilerden hangisi doğrudur?  
-
-A) Üç beyannamenin her biri için usulsüzlük cezası uygulanır; firma süresi içinde ibraz etmemeyi üçüncü kez tekrarlamış sayıldığından eksik beyanda bulunma yetkisi altı ay süreyle askıya alınır.  
-B) Aynı gün tescil edilen beyannameler için tek bir usulsüzlük cezası uygulanır; firma bir kez süresi içinde ibraz etmemiş sayılır.  
-C) Firmanın eksik beyanda bulunma yetkisi, statü belgesinin geçerlilik süresi sonuna kadar geri alınır.  
-D) Üç beyannamenin her biri için usulsüzlük cezası uygulanır; firma bu beyannameler için bir kez süresi içinde ibraz etmemiş sayılır.  
-E) Firmanın eksik beyanda bulunma yetkisi bir ay süreyle askıya alınır.  
+A) Süresi içinde ibraz edilmeyen eksik belgeler tamamlanıncaya kadar statü belgesi sahibinin eksik beyanda bulunma yetkisinden yararlanmasına izin verilmez.  
+B) Statü belgesinin geçerlilik süresince eksik belgeleri süresi içinde üçüncü kez ibraz etmeyenin eksik beyanda bulunma yetkisi, eksik belgelerin tamamlanmasını müteakip altı ay süreyle askıya alınır.  
+C) Aynı gün içinde tescil edilmiş birden fazla beyannameye ilişkin eksik belgelerin süresinde tamamlanmaması hâlinde her bir beyanname için usulsüzlük cezası uygulanır.  
+D) Aynı gün içinde tescil edilmiş birden fazla beyannameye ilişkin eksik belgelerin süresinde tamamlanmaması hâlinde kişi, her bir beyanname için ayrı ayrı süresi içinde ibraz etmemiş sayılır.  
+E) Eksik beyanda bulunma yetkisi askıya alınan kişinin, askıya alma süresinin bitiminden sonra ihlali geçerlilik süresi içinde tekrar etmesi hâlinde bu yetki statü belgesinin geçerlilik süresi sonuna kadar geri alınır.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Tebliğ'e göre eksik belgeleri ek süreler dâhil süresi içinde ibraz etmeyen statü belgesi sahibi uyarılır ve hakkında Gümrük Kanunu'nun 241 inci maddesinin birinci fıkrasındaki usulsüzlük cezası uygulanır; geçerlilik süresi içinde üçüncü kez süresinde ibraz etmeyenin eksik beyanda bulunma yetkisi, eksik belgelerin tamamlanmasını müteakip altı ay süreyle askıya alınır. Vakada saklı istisna, üç beyannamenin aynı gün tescil edilmiş olmasıdır: aynı gün içinde tescil edilmiş birden fazla beyannameye ilişkin eksik belgelerin süresinde tamamlanmaması hâlinde her bir beyanname için usulsüzlük cezası uygulanır, ancak kişi bir kez süresi içinde ibraz etmemiş sayılır. Böylece (M) firmasının ihlal sayısı ikidir; üçüncü ihlal gerçekleşmediğinden altı aylık askı uygulanmaz (firma yalnızca eksik belgeler tamamlanıncaya kadar eksik beyan yetkisinden yararlanamaz). En güçlü çeldirici, üç beyannameyi üç ayrı ihlal sayıp altı aylık askıya alma sonucuna varan seçenektir. Geçerlilik süresi sonuna kadar geri alma, askı süresi bittikten sonra ihlalin tekrarına; bir aylık askı ise mavi hat ihlallerine özgüdür. Bu nedenle doğru cevap D seçeneğidir. (MD OKS Tebliği 24, 25, 52)
+**Gerekçe:** Tebliğ'e göre eksik belgeleri ek süreler dâhil süresi içinde ibraz etmeyen statü belgesi sahibi uyarılır ve hakkında Gümrük Kanunu'ndaki usulsüzlük cezası uygulanır; eksik belgeler tamamlanıncaya kadar eksik beyanda bulunma yetkisinden yararlandırılmaz. Geçerlilik süresince süresi içinde üçüncü kez ibraz etmeyenin eksik beyanda bulunma yetkisi, eksik belgelerin tamamlanmasını müteakip altı ay süreyle askıya alınır; askı süresi bittikten sonra ihlal geçerlilik süresi içinde tekrar edilirse yetki statü belgesinin geçerlilik süresi sonuna kadar geri alınır. Aynı gün içinde tescil edilmiş birden fazla beyannameye ilişkin eksik belgelerin süresinde tamamlanmaması hâlinde her bir beyanname için usulsüzlük cezası uygulanır, ancak kişi bir kez süresi içinde ibraz etmemiş sayılır. Yanlış ifade, ceza için öngörülen 'her bir beyanname' ölçüsünü ihlal sayısına taşımıştır; böyle sayılsaydı aynı gün tescil edilen üç beyanname tek başına altı aylık askıya yol açardı. En güçlü tuzak, cezanın beyanname başına uygulanmasının ihlal sayısının da beyanname başına artacağı sanısını doğurmasıdır. Bu nedenle doğru cevap D seçeneğidir. (MD OKS Tebliği 24, 25)
 
-*Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 26, 27, 29, 30*
+*Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 26, 29, 30, 61; Gümrük Yönetmeliği md. 26*
 
-**16-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre statü belgesi sahiplerine tanınan kısmi teminat uygulamasına ilişkin aşağıdaki ifadeler verilmiştir:
+**16-** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'e göre, ekonomik etkili gümrük rejimlerine ilişkin ihlaller nedeniyle ödenmesi gereken gümrük vergileri, faiz ve para cezasının tamamını tebliğ edilen ödeme süresi içinde ödememe ihlalinin statü belgesinin geçerlilik süresi içinde ikinci kez tekrarı hâlinde, statü belgesi sahibinin kısmi teminat uygulamasından yararlanma yetkisi hakkında aşağıdakilerden hangisi uygulanır?
 
-I. Gümrük antrepo, gümrük kontrolü altında işleme ve geçici ithalat rejimlerine tabi tutulan eşya için teminat alınması öngörülen durumlarda, statü belgesi sahiplerinden talep etmeleri hâlinde ithalat vergilerinin yüzde onu oranında teminat alınır.  
-II. Özel Tüketim Vergisi Kanunu ekindeki (I) sayılı listede yer alan eşyaya ilişkin özel tüketim vergisi için, Bakanlıkça belirlenecek hâller saklı kalmak kaydıyla, kısmi teminat uygulamasından yararlanılamaz.  
-III. Dâhilde işleme ve hariçte işleme rejimlerinde, bu rejimlere ilişkin kararlarla belirlenmiş teminat hükümlerine bakılmaksızın yüzde on oranında kısmi teminat uygulanır.  
-IV. Ekonomik etkili gümrük rejimlerine ilişkin ihlaller nedeniyle ödenmesi gereken gümrük vergileri, faiz ve para cezasının tamamını tebliğ edilen ödeme süresi içinde ödememe ihlalinin, statü belgesinin geçerlilik süresi içinde ikinci kez tekrarı hâlinde kısmi teminat yetkisi geçerlilik süresi sonuna kadar geri alınır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I, II ve IV  
-B) I ve II  
-C) I ve III  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Yetki, statü belgesinin geçerlilik süresi sonuna kadar geri alınır.  
+B) Yetki, borcun ödenmesini müteakip iki yıl süreyle askıya alınır.  
+C) Yetki, altı ay süreyle askıya alınır.  
+D) Yetki için ayrı bir işlem yapılmaz; yalnızca statü belgesi borç ödenene kadar askıya alınır.  
+E) Statü belgesi iptal edilir ve kişiye iki yıl süreyle onaylanmış kişi statüsü verilmez.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Tebliğ'e göre gümrük antrepo, gümrük kontrolü altında işleme ve geçici ithalat rejimlerine tabi tutulan eşya için teminat alınması öngörülen durumlarda statü belgesi sahiplerinden, talep etmeleri hâlinde, ithalat vergilerinin yüzde onu oranında teminat alınır (I doğru). Özel Tüketim Vergisi Kanunu ekindeki (I) sayılı listedeki eşyaya ilişkin özel tüketim vergisi için, Bakanlıkça belirlenecek hâller saklı kalmak kaydıyla kısmi teminattan yararlanılamaz (II doğru). Dâhilde işleme ve hariçte işleme rejimlerine ilişkin kararlarla belirlenmiş teminat uygulamaları saklıdır; bu rejimlerde kısmi teminat hükmü onların yerine geçmez (III yanlış). Ekonomik etkili gümrük rejimlerine ilişkin ihlaller nedeniyle ödenmesi gereken gümrük vergileri, faiz ve para cezasının tamamının tebliğ edilen süre içinde ödenmemesi ihlalinin geçerlilik süresi içinde ikinci kez tekrarı hâlinde kısmi teminat yetkisi statü belgesinin geçerlilik süresi sonuna kadar geri alınır (IV doğru). En güçlü çeldirici III'tür: yüzde on oranı ekonomik etkili rejimlerin tamamına genellenirse dâhilde ve hariçte işlemenin kendi teminat düzenlemesi gözden kaçar. Bu nedenle doğru cevap A seçeneğidir. (MD OKS Tebliği 26, 27, 29, 30)
+**Gerekçe:** Tebliğ'e göre ekonomik etkili gümrük rejimlerine ilişkin ihlaller nedeniyle ödenmesi gereken gümrük vergileri, faiz ve para cezasının tamamını tebliğ edilen süre içinde ödemeyen statü belgesi sahibi hakkında, statü belgesinin borç ödenene kadar askıya alınmasına ilişkin işlem yapılması için bölge müdürlüğüne bildirim yapılır; bu ihlalin statü belgesinin geçerlilik süresi içinde ikinci kez tekrarı hâlinde ise kişinin kısmi teminat uygulamasından yararlanma yetkisi statü belgesinin geçerlilik süresi sonuna kadar geri alınır. Geçerlilik süresinin bitimine bir yıldan az süre kalmışsa geri alma süresi bir yıldır. Kısmi teminat, gümrük antrepo, gümrük kontrolü altında işleme ve geçici ithalat rejimlerinde talep hâlinde ithalat vergilerinin yüzde onu oranında uygulanan teminattır. En güçlü çeldirici iki yıllık askıya almadır: bu yaptırım Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nde yetkilendirilmiş yükümlü sertifikası sahipleri için öngörülmüştür; onaylanmış kişi statüsünde ise yetki geri alınır. Altı aylık askı eksik beyanda üçüncü ihlalin sonucudur; iptal ve iki yıl süreyle statü verilmemesi ise yanlış veya eksik bilgi ya da sahte belgeye dayanılarak verilen statü belgesine özgüdür. Bu nedenle doğru cevap A seçeneğidir. (MD OKS Tebliği 26, 29, 30, 61; GY 26)
 
 *Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) md. 42/A; Gümrük Yönetmeliği md. 24*
 
@@ -518,11 +476,11 @@ E) Belgelerin şekil şartları ve içerdiği bilgiler bakımından usulüne uyg
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 4 (II ve IV, II, III ve IV, I ve III, I, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 19, YAKIN-SAYI 5, İSTİSNA 4, SAĞDUYU 4, BAŞLANGIÇ 3, ŞART 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (II ve IV, I ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 19, YAKIN-SAYI 6, İSTİSNA 4, TERSİNE 4, SAĞDUYU 4, TERİM 4 |
 | İkiz eksen / ayna | 3 / OKS-42A-ESIK |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 7 |

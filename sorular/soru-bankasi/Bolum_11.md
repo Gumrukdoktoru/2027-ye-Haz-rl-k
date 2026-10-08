@@ -38,18 +38,13 @@ C) Her iki firmanın oy hakkı veren hisse senedi veya sermaye paylarının % 3'
 D) Aynı sanayi kolunda faaliyet göstermeleri  
 E) Birbirlerinin amca çocukları olmaları  
 
-**5-** (B) firmasının serbest dolaşıma giriş rejimi için beyan ettiği eşyaya ilişkin olarak:
+**5-** Gümrük Yönetmeliği'nin gümrük kıymeti yöntemlerinin uygulanma sırasına ilişkin hükmüne göre, beyan sahibinin yazılı talebinin gümrük idaresince uygun bulunması şartıyla uygulama sırası değiştirilebilen yöntemler aşağıdakilerin hangisinde birlikte verilmiştir?
 
-- Beyan edilen kıymetin doğruluğu konusundaki makul şüpheler giderilemediğinden eşyanın gümrük kıymeti satış bedeli yöntemine göre tespit edilememiştir.  
-- Kıymeti belirlenecek eşya ile aynı veya yakın bir tarihte Türkiye'ye ihraç amacıyla satılarak ihraç edilen, aynı ticari düzeyde ve yaklaşık aynı miktarda satılmış ve gümrük kıymeti önceden satış bedeli yöntemine göre belirlenmiş aynı eşya bulunmaktadır.  
-- Beyan sahibi, gümrük idaresine verdiği dilekçeyle eşyanın gümrük kıymetinin hesaplanmış kıymet yöntemine göre belirlenmesini yazılı olarak talep etmiş ve bu yöntem için gerekli bilgi ve belgeleri ibraz etmiştir.  
-Gümrük Yönetmeliği'nin gümrük kıymetinin tespitinde yöntemlerin uygulanma sırasına ilişkin hükümlerine göre bu eşyanın gümrük kıymeti hangi yöntemle belirlenir?  
-
-A) Benzer eşyanın satış bedeli yöntemi  
-B) İndirgeme yöntemi  
-C) Aynı eşyanın satış bedeli yöntemi  
-D) Hesaplanmış kıymet yöntemi  
-E) Son yöntem  
+A) Satış bedeli yöntemi ile aynı eşyanın satış bedeli yöntemi  
+B) Aynı eşyanın satış bedeli yöntemi ile benzer eşyanın satış bedeli yöntemi  
+C) İndirgeme yöntemi ile hesaplanmış kıymet yöntemi  
+D) Benzer eşyanın satış bedeli yöntemi ile indirgeme yöntemi  
+E) Hesaplanmış kıymet yöntemi ile son yöntem  
 
 **6-** 4458 sayılı Gümrük Kanunu'na göre eşyanın satış bedelinin gümrük kıymetine esas alınabilmesi için aranan koşullar arasında aşağıdakilerden hangisi yer alır?
 
@@ -86,21 +81,15 @@ C) gümrük yükümlülüğünün başladığı tarihten – ilk satışına
 D) ithal tarihinden – ilk satışına  
 E) gümrük beyannamesinin tescil tarihinden – en büyük miktardaki satışına  
 
-**10-** Gümrük Yönetmeliği'ne göre hesaplanmış kıymet yöntemine ilişkin aşağıdaki ifadeler verilmiştir:
+**10-** Gümrük Yönetmeliği'ne göre hesaplanmış kıymet yönteminin uygulanmasına ve hesaplanmış kıymetin unsurlarına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Hesaplanmış kıymet; ithal eşyasının üretiminde kullanılan malzeme ve imalat işlemlerinin bedelleri, aynı sınıf veya cins eşyanın satışında mutat olan kâr ve genel giderlere eşit bir tutar ile eşyanın giriş liman veya yerine kadar nakliyesine ilişkin yükleme, boşaltma, elleçleme, nakliye ve sigorta giderlerinin toplamından oluşur.  
-II. Bu yöntemin uygulanması için ithalatçının gerekli bilgi ve belgeleri gümrük idaresine ibraz etmesi ve bunların doğruluğunu ispata hazır olduğunu üretici ülke makamlarından alacağı belge ile tevsik etmesi gerekir.  
-III. Hesaplanmış kıymetin belirlenmesinde ithalatçının ibraz ettiği bilgilerin dışında bilgiler kullanılmışsa gümrük idaresi, talep aranmaksızın beyan sahibini kullanılan bilginin kaynağı ve yapılan hesaplama konusunda bilgilendirir.  
-IV. Hesaplanmış kıymetin unsurlarından olan genel giderler, ithal eşyasının üretiminde kullanılan malzeme ve imalat giderlerini de kapsayan ve eşyanın üretimi ve ihraç amaçlı satışı ile ilgili doğrudan veya dolaylı giderleri ifade eder.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
+A) Bu yöntemin uygulanması için ithalatçının gerekli bilgi ve belgeleri gümrük idaresine ibraz etmesi ve bunların doğruluğunu ispata hazır olduğunu üretici ülke makamlarından alacağı belge ile tevsik etmesi gerekir.  
+B) Genel giderler, ithal eşyasının üretiminde kullanılan malzeme ve imalat işlemlerinin bedellerini de kapsayan, eşyanın üretimi ve ihraç amaçlı satışı ile ilgili doğrudan veya dolaylı giderlerdir.  
+C) Türkiye'ye ihraç edilmek üzere ihraç ülkesindeki üreticilerce üretilen aynı sınıf veya cins eşyanın satışında mutat olan kâr ve genel giderlere eşit bir tutar, hesaplanmış kıymetin unsurlarındandır.  
+D) İthal eşyasının giriş liman veya yerine kadar nakliyesi ile ilgili yükleme, boşaltma, elleçleme, nakliye ve sigorta giderleri hesaplanmış kıymete dahildir.  
+E) Gümrük idaresince ithalatçının ibraz ettiği bilgilerin dışında bilgiler de kullanılmışsa, beyan sahibi talep üzerine kullanılan bilginin kaynağı ve yapılan hesaplama konusunda bilgilendirilir.  
 
-A) I ve II  
-B) III ve IV  
-C) I ve III  
-D) II ve IV  
-E) II, III ve IV  
-
-**11-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre ithal eşyasının üretiminde ve ihraç amacıyla satışında kullanılmak üzere alıcı tarafından bedelsiz veya düşük bedelle sağlanan ve fiyata dahil edilmemiş olan mal ve hizmetlerden aşağıdakilerden hangisinin kıymeti fiilen ödenen veya ödenecek fiyata ilave edilmez?
+**11-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre ithal eşyasının üretiminde ve ihraç amacıyla satışında kullanılmak üzere alıcı tarafından bedelsiz veya düşük bedelle sağlanan ve fiyata dahil edilmemiş olan mal ve hizmetlere ilişkin aşağıdakilerden hangisi fiilen ödenen veya ödenecek fiyata ilave edilmez?
 
 A) İthal eşyasına katılan malzeme, aksam ve parçalar  
 B) İthal eşyasının üretimi sırasında kullanılan kalıplar  
@@ -108,19 +97,13 @@ C) İthal eşyasının üretimi sırasında tüketilen maddeler
 D) Eşyanın üretimi için gereken ve Türkiye dışında gerçekleştirilen çizim çalışmaları ile plan ve taslak hazırlama hizmetleri  
 E) Araştırma ve ilk dizayn taslak giderleri  
 
-**12-** 4458 sayılı Gümrük Kanunu'na göre satış bedeli yöntemi ve onu izleyen yöntemlerle belirlenemeyen ithal eşyasının gümrük kıymetinin belirlenmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**12-** 4458 sayılı Gümrük Kanunu'na göre satış bedeli yöntemi ile onu izleyen yöntemlere göre belirlenemeyen ithal eşyasının gümrük kıymetinin belirlenmesine ilişkin aşağıdakilerden hangisi doğrudur?
 
-I. Gümrük kıymeti, 1994 Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının VII nci Maddesinin ve bu maddenin uygulanmasına ilişkin anlaşmanın prensip ve genel hükümlerine uygun yöntemlerle belirlenir.  
-II. Gümrük kıymeti, eşyanın ihraç ülkesinde mevcut veriler esas alınarak belirlenir.  
-III. Aynı veya benzer eşyanın, hesaplanmış kıymet yöntemine göre hesaplanmış kıymeti dışındaki maliyet bedeli esas alınmaz.  
-IV. Türkiye'de üretilen eşyanın Türkiye içindeki satış fiyatı esas alınabilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) III ve IV  
-D) I, II ve III  
-E) I, III ve IV  
+A) Gümrük kıymeti, eşyanın ihraç ülkesinde mevcut veriler esas alınarak belirlenir.  
+B) Gümrük kıymeti, Türkiye'de mevcut veriler esas alınarak belirlenir.  
+C) Türkiye'de üretilen eşyanın Türkiye içindeki satış fiyatı esas alınabilir.  
+D) Aynı veya benzer eşyanın, hesaplanmış kıymet yöntemine göre hesaplanmış kıymeti dışındaki maliyet bedeli esas alınabilir.  
+E) Asgari gümrük kıymetleri esas alınabilir.  
 
 **13-** 4458 sayılı Gümrük Kanunu'na göre ithal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilebilmeleri koşuluyla gümrük kıymetine dahil edilmeyen giderler arasında aşağıdakilerden hangisi yer almaz?
 
@@ -270,23 +253,18 @@ E) Birbirlerinin amca çocukları olmaları
 **Doğru Cevap:** A  
 **Gerekçe:** Gümrük Yönetmeliği'ne göre alıcı ile satıcı arasındaki ilişkinin varlığı yalnızca sayılan durumlarda kabul edilir: birbirlerinin memuru veya idarecileri olmaları, yasal ortakları olmaları, işçi ve işveren ilişkisi içinde bulunmaları, her iki firmanın oy hakkı veren hisse senedi veya sermaye paylarının en az % 5'inin aynı kişilere ait olması, birinin diğerini kontrol etmesi, her ikisinin bir üçüncü kişi tarafından kontrol edilmesi, her ikisinin birlikte bir üçüncü kişiyi doğrudan veya dolaylı olarak kontrol etmesi ve aynı ailenin üyeleri olmaları. Liste kapalıdır. Tek acente, tek distribütör veya tek bayi olarak iş ilişkisi içinde bulunanlar bu kıstaslara uymuyorsa ilişki içinde olmadıkları kabul edilir. Oy hakkı veren payların % 3'ü, aranan en az % 5 eşiğinin altındadır. Aynı sanayi kolunda faaliyet göstermek listede yoktur; aynı ailenin üyeleri arasında amca sayılmış, ancak amcanın çocukları sayılmamıştır. En güçlü çeldirici % 3'lük paydır: pay ölçütü listede vardır, ancak eşik en az % 5'tir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 43, 55)
 
-*4458 sayılı Gümrük Kanunu md. 25; Gümrük Yönetmeliği md. 44, 46*
+*Gümrük Yönetmeliği md. 44; 4458 sayılı Gümrük Kanunu md. 25, 26*
 
-**5-** (B) firmasının serbest dolaşıma giriş rejimi için beyan ettiği eşyaya ilişkin olarak:
+**5-** Gümrük Yönetmeliği'nin gümrük kıymeti yöntemlerinin uygulanma sırasına ilişkin hükmüne göre, beyan sahibinin yazılı talebinin gümrük idaresince uygun bulunması şartıyla uygulama sırası değiştirilebilen yöntemler aşağıdakilerin hangisinde birlikte verilmiştir?
 
-- Beyan edilen kıymetin doğruluğu konusundaki makul şüpheler giderilemediğinden eşyanın gümrük kıymeti satış bedeli yöntemine göre tespit edilememiştir.  
-- Kıymeti belirlenecek eşya ile aynı veya yakın bir tarihte Türkiye'ye ihraç amacıyla satılarak ihraç edilen, aynı ticari düzeyde ve yaklaşık aynı miktarda satılmış ve gümrük kıymeti önceden satış bedeli yöntemine göre belirlenmiş aynı eşya bulunmaktadır.  
-- Beyan sahibi, gümrük idaresine verdiği dilekçeyle eşyanın gümrük kıymetinin hesaplanmış kıymet yöntemine göre belirlenmesini yazılı olarak talep etmiş ve bu yöntem için gerekli bilgi ve belgeleri ibraz etmiştir.  
-Gümrük Yönetmeliği'nin gümrük kıymetinin tespitinde yöntemlerin uygulanma sırasına ilişkin hükümlerine göre bu eşyanın gümrük kıymeti hangi yöntemle belirlenir?  
-
-A) Benzer eşyanın satış bedeli yöntemi  
-B) İndirgeme yöntemi  
-C) Aynı eşyanın satış bedeli yöntemi  
-D) Hesaplanmış kıymet yöntemi  
-E) Son yöntem  
+A) Satış bedeli yöntemi ile aynı eşyanın satış bedeli yöntemi  
+B) Aynı eşyanın satış bedeli yöntemi ile benzer eşyanın satış bedeli yöntemi  
+C) İndirgeme yöntemi ile hesaplanmış kıymet yöntemi  
+D) Benzer eşyanın satış bedeli yöntemi ile indirgeme yöntemi  
+E) Hesaplanmış kıymet yöntemi ile son yöntem  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük kıymeti; satış bedeli, aynı eşyanın satış bedeli, benzer eşyanın satış bedeli, indirgeme, hesaplanmış kıymet ve son yöntemin sırasıyla uygulanmasıyla belirlenir. Bir yönteme göre belirlenemeyen kıymet için sıra dahilinde izleyen yönteme geçilir ve kıymet bir üst yönteme göre belirlenebildiği sürece alt yöntem uygulanamaz. Gümrük idaresinin makul şüpheleri giderilmediğinde kıymet satış bedeli yöntemine göre tespit edilemez ve sıradaki yöntemlere geçilir; vakada sıradaki ilk yöntem olan aynı eşyanın satış bedeli yöntemi uygulanabilir durumdadır. Beyan sahibinin yazılı talebi sonucu değiştirmez: yazılı talebin gümrük idaresince uygun bulunması şartıyla sırası değiştirilebilen yöntemler yalnızca indirgeme yöntemi ile hesaplanmış kıymet yöntemidir; bu imkân aynı eşya yönteminin atlanmasına izin vermez. En güçlü çeldirici 'Hesaplanmış kıymet yöntemi'dir: sıra değişikliği talebini her yöntem için geçerli sanan aday bu seçeneğe gider. Bu nedenle doğru cevap C seçeneğidir. (MD GK 25; GY 44, 46)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük kıymeti; satış bedeli, aynı eşyanın satış bedeli, benzer eşyanın satış bedeli, indirgeme, hesaplanmış kıymet ve son yöntemin sırasıyla uygulanması yoluyla tespit olunur. Bir yönteme göre belirlenemeyen kıymet için sıra dahilinde izleyen yönteme geçilir ve kıymet bir üst yönteme göre belirlenebildiği sürece alt yöntem uygulanamaz. Bu sıranın tek istisnası, beyan sahibinin yazılı talebinin gümrük idaresince uygun bulunması şartıyla indirgeme yöntemi ile hesaplanmış kıymet yönteminin uygulama sırasının değiştirilebilmesidir. Diğer seçeneklerdeki yöntemler de sırada birbirini izler, ancak bunların yer değiştirmesine imkân tanınmamıştır: satış bedeli, aynı eşya ve benzer eşya yöntemleri beyan sahibinin talebiyle atlanamaz; son yöntem ise Kanuna göre ancak önceki yöntemlerin hiçbiriyle kıymet belirlenemediğinde uygulanır. En güçlü çeldirici benzer eşya ile indirgeme yöntemlerini eşleştiren seçenektir: indirgeme yöntemi sıra değişikliğine konu yöntemlerden biridir, ancak yer değiştirebildiği yöntem benzer eşya değil hesaplanmış kıymet yöntemidir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 44; GK 25, 26)
 
 *4458 sayılı Gümrük Kanunu md. 24; Gümrük Yönetmeliği md. 45*
 
@@ -345,26 +323,20 @@ E) gümrük beyannamesinin tescil tarihinden – en büyük miktardaki satışı
 
 *Gümrük Yönetmeliği md. 49*
 
-**10-** Gümrük Yönetmeliği'ne göre hesaplanmış kıymet yöntemine ilişkin aşağıdaki ifadeler verilmiştir:
+**10-** Gümrük Yönetmeliği'ne göre hesaplanmış kıymet yönteminin uygulanmasına ve hesaplanmış kıymetin unsurlarına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Hesaplanmış kıymet; ithal eşyasının üretiminde kullanılan malzeme ve imalat işlemlerinin bedelleri, aynı sınıf veya cins eşyanın satışında mutat olan kâr ve genel giderlere eşit bir tutar ile eşyanın giriş liman veya yerine kadar nakliyesine ilişkin yükleme, boşaltma, elleçleme, nakliye ve sigorta giderlerinin toplamından oluşur.  
-II. Bu yöntemin uygulanması için ithalatçının gerekli bilgi ve belgeleri gümrük idaresine ibraz etmesi ve bunların doğruluğunu ispata hazır olduğunu üretici ülke makamlarından alacağı belge ile tevsik etmesi gerekir.  
-III. Hesaplanmış kıymetin belirlenmesinde ithalatçının ibraz ettiği bilgilerin dışında bilgiler kullanılmışsa gümrük idaresi, talep aranmaksızın beyan sahibini kullanılan bilginin kaynağı ve yapılan hesaplama konusunda bilgilendirir.  
-IV. Hesaplanmış kıymetin unsurlarından olan genel giderler, ithal eşyasının üretiminde kullanılan malzeme ve imalat giderlerini de kapsayan ve eşyanın üretimi ve ihraç amaçlı satışı ile ilgili doğrudan veya dolaylı giderleri ifade eder.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) I ve II  
-B) III ve IV  
-C) I ve III  
-D) II ve IV  
-E) II, III ve IV  
+A) Bu yöntemin uygulanması için ithalatçının gerekli bilgi ve belgeleri gümrük idaresine ibraz etmesi ve bunların doğruluğunu ispata hazır olduğunu üretici ülke makamlarından alacağı belge ile tevsik etmesi gerekir.  
+B) Genel giderler, ithal eşyasının üretiminde kullanılan malzeme ve imalat işlemlerinin bedellerini de kapsayan, eşyanın üretimi ve ihraç amaçlı satışı ile ilgili doğrudan veya dolaylı giderlerdir.  
+C) Türkiye'ye ihraç edilmek üzere ihraç ülkesindeki üreticilerce üretilen aynı sınıf veya cins eşyanın satışında mutat olan kâr ve genel giderlere eşit bir tutar, hesaplanmış kıymetin unsurlarındandır.  
+D) İthal eşyasının giriş liman veya yerine kadar nakliyesi ile ilgili yükleme, boşaltma, elleçleme, nakliye ve sigorta giderleri hesaplanmış kıymete dahildir.  
+E) Gümrük idaresince ithalatçının ibraz ettiği bilgilerin dışında bilgiler de kullanılmışsa, beyan sahibi talep üzerine kullanılan bilginin kaynağı ve yapılan hesaplama konusunda bilgilendirilir.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre hesaplanmış kıymet; ithal eşyasının üretiminde kullanılan malzeme ve imalat işlemlerinin bedel veya kıymetleri, Türkiye'ye ihraç edilmek üzere ihraç ülkesindeki üreticilerce üretilen aynı sınıf veya cins eşyanın satışında mutat kâr ve genel giderlere eşit tutar ile giriş liman veya yerine kadar nakliyeye ilişkin yükleme, boşaltma, elleçleme, nakliye ve sigorta giderlerinin toplamıdır; I doğrudur. Yöntemin uygulanması için ithalatçının gerekli bilgi ve belgeleri ibraz etmesi ve bunların doğruluğunu ispata hazır olduğunu üretici ülke makamlarından alacağı belge ile tevsik etmesi gerekir; II doğrudur. Gümrük idaresi ithalatçının ibraz ettiği bilgilerin dışında bilgi kullanırsa beyan sahibini, Kanunun ilgili hükümlerine uyulmak kaydıyla ancak talep üzerine bilgilendirir; 'talep aranmaksızın' ifadesi nedeniyle III yanlıştır. Genel giderler, malzeme ve imalat işlemlerinin bedellerinin dışında kalan ve eşyanın üretimi ve ihraç amaçlı satışı ile ilgili doğrudan veya dolaylı giderleri ifade eder; malzeme ve imalat bedelleri hesaplanmış kıymetin ayrı bir unsurudur. 'Kapsayan' ifadesi nedeniyle IV yanlıştır. En güçlü çeldirici 'II ve IV' seçeneğidir: II'deki üretici ülke makamlarından alınacak belge şartı Yönetmelikte aynen yer alır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 49)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre hesaplanmış kıymet; ithal eşyasının üretiminde kullanılan malzeme ve imalat işlemlerinin bedel veya kıymetleri, Türkiye'ye ihraç edilmek üzere ihraç ülkesindeki üreticilerce üretilen aynı sınıf veya cins eşyanın satışında mutat kâr ve genel giderlere eşit tutar ile giriş liman veya yerine kadar nakliyeye ilişkin yükleme, boşaltma, elleçleme, nakliye ve sigorta giderlerinin toplamıdır. Genel giderler ise malzeme ve imalat işlemlerinin bedellerinin dışında kalan ve eşyanın üretimi ve ihraç amaçlı satışı ile ilgili doğrudan veya dolaylı giderleri ifade eder; malzeme ve imalat bedelleri hesaplanmış kıymetin ayrı bir unsurudur. Yanlış ifade 'dışında kalan' kaydını 'de kapsayan' biçimine çevirerek aynı bedeli iki kez saydırmaktadır. Yöntemin uygulanması için ithalatçının bilgi ve belgeleri ibraz etmesi ve bunların doğruluğunu ispata hazır olduğunu üretici ülke makamlarından alacağı belgeyle tevsik etmesi gerekir; gümrük idaresi ithalatçının ibraz ettiği bilgilerin dışında bilgi kullanırsa, Kanunun ilgili hükmüne uyulmak kaydıyla, beyan sahibini talep üzerine bilgilendirir. En güçlü tuzak üretici ülke makamlarından alınacak belgeye ilişkin ifadedir: ağır bir şart gibi göründüğü için uydurma sanılabilir, ancak Yönetmelikte aynen yer alır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 49)
 
 *4458 sayılı Gümrük Kanunu md. 27; Gümrük Yönetmeliği md. 51*
 
-**11-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre ithal eşyasının üretiminde ve ihraç amacıyla satışında kullanılmak üzere alıcı tarafından bedelsiz veya düşük bedelle sağlanan ve fiyata dahil edilmemiş olan mal ve hizmetlerden aşağıdakilerden hangisinin kıymeti fiilen ödenen veya ödenecek fiyata ilave edilmez?
+**11-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre ithal eşyasının üretiminde ve ihraç amacıyla satışında kullanılmak üzere alıcı tarafından bedelsiz veya düşük bedelle sağlanan ve fiyata dahil edilmemiş olan mal ve hizmetlere ilişkin aşağıdakilerden hangisi fiilen ödenen veya ödenecek fiyata ilave edilmez?
 
 A) İthal eşyasına katılan malzeme, aksam ve parçalar  
 B) İthal eşyasının üretimi sırasında kullanılan kalıplar  
@@ -377,22 +349,16 @@ E) Araştırma ve ilk dizayn taslak giderleri
 
 *4458 sayılı Gümrük Kanunu md. 26*
 
-**12-** 4458 sayılı Gümrük Kanunu'na göre satış bedeli yöntemi ve onu izleyen yöntemlerle belirlenemeyen ithal eşyasının gümrük kıymetinin belirlenmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**12-** 4458 sayılı Gümrük Kanunu'na göre satış bedeli yöntemi ile onu izleyen yöntemlere göre belirlenemeyen ithal eşyasının gümrük kıymetinin belirlenmesine ilişkin aşağıdakilerden hangisi doğrudur?
 
-I. Gümrük kıymeti, 1994 Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının VII nci Maddesinin ve bu maddenin uygulanmasına ilişkin anlaşmanın prensip ve genel hükümlerine uygun yöntemlerle belirlenir.  
-II. Gümrük kıymeti, eşyanın ihraç ülkesinde mevcut veriler esas alınarak belirlenir.  
-III. Aynı veya benzer eşyanın, hesaplanmış kıymet yöntemine göre hesaplanmış kıymeti dışındaki maliyet bedeli esas alınmaz.  
-IV. Türkiye'de üretilen eşyanın Türkiye içindeki satış fiyatı esas alınabilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) III ve IV  
-D) I, II ve III  
-E) I, III ve IV  
+A) Gümrük kıymeti, eşyanın ihraç ülkesinde mevcut veriler esas alınarak belirlenir.  
+B) Gümrük kıymeti, Türkiye'de mevcut veriler esas alınarak belirlenir.  
+C) Türkiye'de üretilen eşyanın Türkiye içindeki satış fiyatı esas alınabilir.  
+D) Aynı veya benzer eşyanın, hesaplanmış kıymet yöntemine göre hesaplanmış kıymeti dışındaki maliyet bedeli esas alınabilir.  
+E) Asgari gümrük kıymetleri esas alınabilir.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Kanunu'na göre satış bedeli yöntemi ile aynı eşya, benzer eşya, indirgeme ve hesaplanmış kıymet yöntemlerine göre belirlenemeyen ithal eşyasının gümrük kıymeti; 1994 Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının VII nci Maddesinin Uygulanmasına İlişkin Anlaşmanın, aynı Genel Anlaşmanın VII nci Maddesinin ve Kanunun kıymete ilişkin bölüm hükümlerinin prensip ve genel hükümlerine uygun yöntemlerle ve Türkiye'de mevcut veriler esas alınarak belirlenir; I doğru, II yanlıştır. Bu belirlemede esas alınmayacak kıymetler Kanunda tek tek sayılmıştır: Türkiye'de üretilen eşyanın Türkiye içindeki satış fiyatı, iki alternatif kıymetten yüksek olanını kabul eden sistem, ihraç ülkesindeki iç piyasa fiyatı, aynı veya benzer eşyanın hesaplanmış kıymeti dışındaki maliyet bedeli, Türkiye'den başka bir ülkeye ihraç edilen eşyanın fiyatı, asgari gümrük kıymetleri ile keyfi veya fiktif kıymetler. Bu nedenle III doğru, IV yanlıştır. En güçlü çeldirici IV'tür: son yöntemde Türkiye'de mevcut veriler kullanılır, ancak Türkiye'de üretilen eşyanın yurt içi satış fiyatı açıkça yasaklanmıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 26)
+**Gerekçe:** Gümrük Kanunu'na göre satış bedeli yöntemi ile aynı eşya, benzer eşya, indirgeme ve hesaplanmış kıymet yöntemlerine göre belirlenemeyen ithal eşyasının gümrük kıymeti; 1994 Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının VII nci Maddesinin Uygulanmasına İlişkin Anlaşmanın, aynı Genel Anlaşmanın VII nci Maddesinin ve Kanunun kıymete ilişkin bölüm hükümlerinin prensip ve genel hükümlerine uygun yöntemlerle ve Türkiye'de mevcut veriler esas alınarak belirlenir. Bu belirlemede esas alınmayacak kıymetler Kanunda tek tek sayılmıştır: Türkiye'de üretilen eşyanın Türkiye içindeki satış fiyatı, iki alternatif kıymetten yüksek olanını kabul eden sistem, ihraç ülkesindeki iç piyasa fiyatı, aynı veya benzer eşyanın hesaplanmış kıymeti dışındaki maliyet bedeli, Türkiye'den başka bir ülkeye ihraç edilen eşyanın fiyatı, asgari gümrük kıymetleri ile keyfi veya fiktif kıymetler. Türkiye'deki satış fiyatı, maliyet bedeli ve asgari kıymete dayanan ifadeler bu sayımdaki yasakları tersine çevirmektedir. En güçlü çeldirici ihraç ülkesindeki verilere dayanan ifadedir: Kanun veri kaynağı olarak Türkiye'yi gösterir; ihraç ülkesine ait iç piyasa fiyatı ise esas alınmayacak kıymetler arasındadır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 26)
 
 *4458 sayılı Gümrük Kanunu md. 27, 28*
 
@@ -526,11 +492,11 @@ E) Kıymet üzerinden vergiye tabi eşyanın kutu, kılıf ve mahfazaları, baş
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
+| Birebir / parafraz / çıkarım | 16 / 2 / 2 |
 | Olumsuz kök | 7 |
-| Önermeli | 4 (III ve IV, I ve III, I ve IV, I, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 19, TERSİNE 5, TERİM 4, LİSTE-DIŞI 4, ŞART 4, BAŞLANGIÇ 3 |
+| Önermeli | 2 (I ve IV, I, II ve IV) |
+| Vaka, uygulama, hesap | 2 |
+| Tuzaklar | KOMŞU 19, TERİM 5, TERSİNE 5, LİSTE-DIŞI 4, UNSUR 3, BAŞLANGIÇ 3 |
 | İkiz eksen / ayna | 11 / Aynı eşya tanımı ↔ benzer eşya ve benzer eşyanın satış bedeli yöntemi |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 19 |

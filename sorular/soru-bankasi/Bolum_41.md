@@ -14,7 +14,7 @@ C) Hava gemilerinin karaya çıkarılmamak şartıyla yurt dışından getirdikl
 D) Diğer deniz taşıtlarının dış seferlerde kullanacakları yakıt ve yağlar  
 E) Gemilerin yurt dışından getirip karaya çıkardıkları kumanyalar  
 
-**2-** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşımda bulunan yakıt ve yağlar ile kumanyaların dış sefere çıkan gemi, bot ve diğer deniz taşıtları ile hava gemilerine verilmesi aşağıdakilerden hangisi hükmündedir?
+**2-** 4458 sayılı Gümrük Kanunu'nun akaryakıt ve kumanyaya ilişkin hükümlerine göre serbest dolaşımda bulunan yakıt ve yağlar ile kumanyaların dış sefere çıkan gemi, bot ve diğer deniz taşıtları ile hava gemilerine verilmesi aşağıdakilerden hangisi hükmündedir?
 
 A) Transit  
 B) İhracat  
@@ -84,19 +84,13 @@ C) 80.000 Türk lirası
 D) 80.000 ABD doları  
 E) 200.000 ABD doları  
 
-**10-** Gümrük Yönetmeliği'nin gümrüklerde doğrudan işlem takip edebilecek bunker ve liman bayilerine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**10-** Gümrük Yönetmeliği'ne göre aşağıdakilerden hangisi, basitleştirilmiş usul ile gerçekleştirilen işlemler hariç olmak üzere gemiye verilecek yağ ve yakıta ilişkin beyannameyi gümrük idaresine doğrudan başvurarak tescil ettirmek isteyen bunker veya liman bayilerinde aranan şartlardan biri değildir?
 
-I. Bu firmaların gemiye verilecek yağ ve yakıta ilişkin beyannameyi tescil ettirebilmeleri için bünyelerinde gümrük müşaviri veya gümrük müşavir yardımcısı istihdam etmeleri şarttır.  
-II. Basitleştirilmiş usul ile gerçekleştirilen işlemler, doğrudan başvuru için aranan şartların kapsamı dışında tutulmuştur.  
-III. Aranan şartları ispat eden belgeleri teminat ile birlikte ve Yönetmelik ekindeki taahhütnameyi doldurarak ilgili gümrüğe ibraz eden firmalar, gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir.  
-IV. Bu firmaların gemilere yağ ve yakıt verilmesine ilişkin her başvurusunda, ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibraz etmesi şarttır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) III ve IV  
-D) I, II ve IV  
-E) II, III ve IV  
+A) Anonim veya limited şirket olmaları  
+B) Ödenmiş sermayelerinin asgari 50.000 TL olması  
+C) Mülkiyetlerinde belirli kapasitede bir deniz akaryakıt tankeri bulunması veya toplu teminat vermeleri  
+D) Yönetim kurulu üyeleri ile şirket sermayesinin yüzde onundan fazlasına sahip olanların hırsızlık, rüşvet gibi cürümlerden ya da kaçakçılık mevzuatına muhalefetten mahkûm olmamaları  
+E) Şirket bünyesinde gümrük müşaviri veya gümrük müşavir yardımcısı istihdam etmeleri  
 
 **11-** Gümrük Yönetmeliği'ne göre gümrük idaresine doğrudan başvurarak gemiye verilecek yağ ve yakıta ilişkin beyanname tescil ettirmek isteyen bunker veya liman bayilerinin yönetim kurulu üyeleri ile şirket sermayesinin yüzde onundan fazlasına sahip olanlarının, muhalefetten mahkûm olmamaları aranan kanunlar arasında aşağıdakilerden hangisi yer almaz?
 
@@ -142,16 +136,16 @@ C) II ve IV
 D) III ve IV  
 E) I, III ve IV  
 
-**15-** Gümrük Yönetmeliği'nin yakıt miktarlarının tespitine ilişkin hükmüne göre aşağıdaki cümle verilmiştir:
+**15-** Gümrük Yönetmeliği'nin gümrüklerde doğrudan işlem takip edebilecek bunker ve liman bayilerine ilişkin hükmüne göre aşağıdaki paragraf verilmiştir:
 
-"Kabotaja girecek gemilerin yabancı limanlardan aldıkları yakıtlarda, ……(1)…… göre alınan miktar ile ……(2)…… göre sarf edilen miktar arasındaki fark bulunarak vergiye esas tutulacak miktar tespit olunur."  
-Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?  
+"Aranan şartları ispat eden belgeleri teminat ile birlikte, Yönetmelik ekinde yer alan ……(1)…… doldurarak ilgili gümrüğe ibraz eden firmalar; gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir. Bu firmaların gemilere yağ ve yakıt verilmesine ilişkin her başvurularında ilgili ……(2)…… talep veya izin yazısını gümrük idaresine ibrazı şarttır."  
+Yukarıdaki paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?  
 
-A) devriçark defterine / seyir jurnaline  
-B) yakıt satış faturasına / seyir jurnali ve devriçark defterine  
-C) yakıt ve kumanya defterine / seyir jurnali ve devriçark defterine  
-D) seyir jurnaline / seyir jurnali ve devriçark defterine  
-E) seyir jurnaline / yakıt ve kumanya defterine  
+A) taahhütnameyi / kaptan veya işletmenin  
+B) taahhütnameyi / gümrük ve muhafaza başmüdürlüğünün  
+C) yakıt ve kumanya defterini / kaptan veya gemi acentesinin  
+D) taahhütnameyi / kaptan veya gemi acentesinin  
+E) yakıt siparişine dair belgeyi / kaptan veya gemi acentesinin  
 
 **16-** Gümrük Yönetmeliği'ne göre Türkiye Gümrük Bölgesi dışına sefer yapan gemilerden düzenli seferli olanların, yabancı ülkelere yaptıkları seferden son Türk limanına dönerek tekrar dış sefere çıkmaları hâlinde, bu limandaki bekleme sürelerinin ne kadarı yabancı ülkelere yapılan seferin devamı sayılır?
 
@@ -161,18 +155,13 @@ C) 6 aya kadar olan kısmı
 D) 12 aya kadar olan kısmı  
 E) 18 aya kadar olan kısmı  
 
-**17-** Gümrük Yönetmeliği'nin seferin devamı sayılabilecek hâllere ilişkin hükümlerine göre aşağıdaki olay değerlendirilmektedir:
+**17-** Gümrük Yönetmeliği'nin seferin devamı sayılabilecek hâllere ilişkin hükümleri çerçevesinde dış seferden dönen gemilerin akaryakıt ve kumanyaları hakkında aşağıdakilerden hangisi söylenemez?
 
-- Yabancı ülkelere sefer yapan bir gemi, dış seferden dönüşünde Türkiye'ye ilk giriş limanı olarak İzmir Limanı'na gelmiş; gemideki transit akaryakıt ve kumanya bu limanda tespit edilmiştir.  
-- Gemi, İzmir'e girişinden sonraki iki ay içinde önce Mersin Limanı'na, ardından İskenderun Limanı'na sefer yapmıştır.  
-- Gemi, üç aylık süre dolmadan İskenderun Limanı'ndan yabancı bir limana hareket etmiştir.  
-Buna göre geminin Türk limanları arasında sefer yaparken tükettiği akaryakıt bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) Tüketilen akaryakıt, transit akaryakıtın tespit edildiği ilk giriş limanı olan İzmir'de vergilendirilir.  
-B) Tüketilen akaryakıt, seferlerin başladığı İzmir ile ara liman olan Mersin'de ayrı ayrı vergilendirilir.  
-C) Tüketilen akaryakıt, geminin uğradığı en son Türk limanı olan İskenderun'da vergilendirilir.  
-D) Gemi üç aylık süre dolmadan yabancı limana çıktığından tüketilen akaryakıt vergilendirilmez.  
-E) Gemideki transit akaryakıt ve kumanyanın tamamı, İzmir'de tespit edildiği anda vergilendirilir.  
+A) Gemilerin yurt dışından ya da yurt içinde antrepolardan almış oldukları transit akaryakıt ve kumanyaları, Türkiye'ye ilk giriş limanında tespit edilir.  
+B) Geminin üç ay içerisinde yabancı limanlara çıkmamasının zorunlu nedenlerden kaynaklandığının ilgili gümrük idaresine belgelendirilmesi hâlinde bu süre uzatılabilir.  
+C) Üç aylık süre içerisinde Türk limanları arasında sefer yapılması hâlinde tüketilen akaryakıt, geminin Türkiye'ye ilk giriş limanında vergilendirilir.  
+D) Bu hükümler, yabancı ülkelere sefer yapan gemilerin yurt içinde antrepolardan almış oldukları akaryakıt ve kumanyaları için de uygulanır.  
+E) Bu hükümler, yurt dışı seferi için başka bir Türk limanına ihraç yükü almak üzere yapılan sefer sırasında kullanılan yakıtlar için de uygulanır.  
 
 **18-** Gümrük Yönetmeliği'ne göre dış seferden dönen bir geminin, süre uzatımı için zorunlu bir neden belgelendirilmeksizin üç ay içerisinde yabancı limanlara çıkmaması hâlinde aşağıdakilerden hangisi uygulanır?
 
@@ -221,7 +210,7 @@ E) Gemilerin yurt dışından getirip karaya çıkardıkları kumanyalar
 
 *4458 sayılı Gümrük Kanunu md. 176*
 
-**2-** 4458 sayılı Gümrük Kanunu'na göre serbest dolaşımda bulunan yakıt ve yağlar ile kumanyaların dış sefere çıkan gemi, bot ve diğer deniz taşıtları ile hava gemilerine verilmesi aşağıdakilerden hangisi hükmündedir?
+**2-** 4458 sayılı Gümrük Kanunu'nun akaryakıt ve kumanyaya ilişkin hükümlerine göre serbest dolaşımda bulunan yakıt ve yağlar ile kumanyaların dış sefere çıkan gemi, bot ve diğer deniz taşıtları ile hava gemilerine verilmesi aşağıdakilerden hangisi hükmündedir?
 
 A) Transit  
 B) İhracat  
@@ -331,22 +320,16 @@ E) 200.000 ABD doları
 
 *Gümrük Yönetmeliği md. 478*
 
-**10-** Gümrük Yönetmeliği'nin gümrüklerde doğrudan işlem takip edebilecek bunker ve liman bayilerine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**10-** Gümrük Yönetmeliği'ne göre aşağıdakilerden hangisi, basitleştirilmiş usul ile gerçekleştirilen işlemler hariç olmak üzere gemiye verilecek yağ ve yakıta ilişkin beyannameyi gümrük idaresine doğrudan başvurarak tescil ettirmek isteyen bunker veya liman bayilerinde aranan şartlardan biri değildir?
 
-I. Bu firmaların gemiye verilecek yağ ve yakıta ilişkin beyannameyi tescil ettirebilmeleri için bünyelerinde gümrük müşaviri veya gümrük müşavir yardımcısı istihdam etmeleri şarttır.  
-II. Basitleştirilmiş usul ile gerçekleştirilen işlemler, doğrudan başvuru için aranan şartların kapsamı dışında tutulmuştur.  
-III. Aranan şartları ispat eden belgeleri teminat ile birlikte ve Yönetmelik ekindeki taahhütnameyi doldurarak ilgili gümrüğe ibraz eden firmalar, gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir.  
-IV. Bu firmaların gemilere yağ ve yakıt verilmesine ilişkin her başvurusunda, ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibraz etmesi şarttır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) III ve IV  
-D) I, II ve IV  
-E) II, III ve IV  
+A) Anonim veya limited şirket olmaları  
+B) Ödenmiş sermayelerinin asgari 50.000 TL olması  
+C) Mülkiyetlerinde belirli kapasitede bir deniz akaryakıt tankeri bulunması veya toplu teminat vermeleri  
+D) Yönetim kurulu üyeleri ile şirket sermayesinin yüzde onundan fazlasına sahip olanların hırsızlık, rüşvet gibi cürümlerden ya da kaçakçılık mevzuatına muhalefetten mahkûm olmamaları  
+E) Şirket bünyesinde gümrük müşaviri veya gümrük müşavir yardımcısı istihdam etmeleri  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre basitleştirilmiş usul ile gerçekleştirilen işlemler hariç olmak üzere, bunker veya liman bayileri belirli şartları taşımaları hâlinde gümrük idaresine doğrudan başvurarak gemiye verilecek yağ ve yakıta ilişkin beyanname tescil ettirebilir (II doğru). Şartları ispat eden belgeleri teminat ile birlikte, Yönetmelik ekindeki taahhütnameyi doldurarak ilgili gümrüğe ibraz eden firmalar bu işlemleri yürütebilir (III doğru); bu firmaların her başvurularında ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibraz etmeleri şarttır (IV doğru). I yanlıştır: aranan şartlar şirket türü, ödenmiş sermaye, tanker veya toplu teminat ve yöneticilerle ortakların sabıka durumudur; gümrük müşaviri istihdamı bunlar arasında yoktur, hüküm firmanın gümrük idaresine doğrudan başvurmasını düzenler. Bu nedenle doğru cevap E seçeneğidir. (MD GY 478)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre basitleştirilmiş usul ile gerçekleştirilen işlemler hariç olmak üzere bunker veya liman bayilerinin gümrük idaresine doğrudan başvurarak gemiye verilecek yağ ve yakıta ilişkin beyanname tescil ettirebilmeleri için dört şart aranır: anonim veya limited şirket olmaları, ödenmiş sermayelerinin asgari 50.000 TL olması, mülkiyetlerinde bir adet 200 DWT kapasitede deniz akaryakıt tankeri bulunması veya 80.000 ABD doları tutarı toplu teminat verilmesi, yönetim kurulu üyeleri ile şirket sermayesinin %10'undan fazlasına sahip olanların sayılan cürümlerden ya da kaçakçılıkla ilgili kanunlar ile 1567 sayılı Kanuna muhalefetten mahkûm olmamaları. Şirket bünyesinde gümrük müşaviri veya gümrük müşavir yardımcısı istihdamı bu şartlar arasında sayılmamıştır; hüküm, firmanın gümrük idaresine kendisinin doğrudan başvurmasını düzenler. Sahada akla yatkın görünen bu unsur, müşavir istihdamını her işlemde şart sanan adayı yakalar. En güçlü tuzak, kapasitesi ve tutarı gizlenmiş tanker veya toplu teminat şartıdır; bu şart listede yer alır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 478)
 
 *Gümrük Yönetmeliği md. 478*
 
@@ -412,21 +395,21 @@ E) I, III ve IV
 **Doğru Cevap:** A  
 **Gerekçe:** Gümrük Yönetmeliği'ne göre Türk bandıralı gemilerin yabancı limanlardan gelişlerinde yakıt ve kumanyaları için bir liste düzenlenir ve bu liste ilk uğrayacakları Türk limanında geminin kontrolünü yapacak gümrük idaresine verilir; I bu nedenle yanlıştır. Listede yabancı limanlardan alınmış kumanyanın cins ve miktarı ile sefer sırasında tüketilen miktarı yer alır (II doğru). Listede ayrıca evvelce Türkiye'de serbest dolaşımda olan maddelerden veya geçici depolama yerleri ve antrepolardan tedarik edilen yakıt ve kumanyaların cins ve miktarı, bunlar için verilmiş transit veya ihracat beyannamelerinin numara ve tarihi, gümrük idaresi ve tüketilen miktarları da yer alır; III bu nedenle yanlıştır. İlgili memurlar listeyi yakıt ve kumanya defteri ile karşılaştırarak beyan edilen miktarın defter kayıtlarına uygunluğunu inceler (IV doğru). Bu nedenle doğru cevap A seçeneğidir. (MD GY 480)
 
-*Gümrük Yönetmeliği md. 481*
+*Gümrük Yönetmeliği md. 478*
 
-**15-** Gümrük Yönetmeliği'nin yakıt miktarlarının tespitine ilişkin hükmüne göre aşağıdaki cümle verilmiştir:
+**15-** Gümrük Yönetmeliği'nin gümrüklerde doğrudan işlem takip edebilecek bunker ve liman bayilerine ilişkin hükmüne göre aşağıdaki paragraf verilmiştir:
 
-"Kabotaja girecek gemilerin yabancı limanlardan aldıkları yakıtlarda, ……(1)…… göre alınan miktar ile ……(2)…… göre sarf edilen miktar arasındaki fark bulunarak vergiye esas tutulacak miktar tespit olunur."  
-Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?  
+"Aranan şartları ispat eden belgeleri teminat ile birlikte, Yönetmelik ekinde yer alan ……(1)…… doldurarak ilgili gümrüğe ibraz eden firmalar; gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir. Bu firmaların gemilere yağ ve yakıt verilmesine ilişkin her başvurularında ilgili ……(2)…… talep veya izin yazısını gümrük idaresine ibrazı şarttır."  
+Yukarıdaki paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?  
 
-A) devriçark defterine / seyir jurnaline  
-B) yakıt satış faturasına / seyir jurnali ve devriçark defterine  
-C) yakıt ve kumanya defterine / seyir jurnali ve devriçark defterine  
-D) seyir jurnaline / seyir jurnali ve devriçark defterine  
-E) seyir jurnaline / yakıt ve kumanya defterine  
+A) taahhütnameyi / kaptan veya işletmenin  
+B) taahhütnameyi / gümrük ve muhafaza başmüdürlüğünün  
+C) yakıt ve kumanya defterini / kaptan veya gemi acentesinin  
+D) taahhütnameyi / kaptan veya gemi acentesinin  
+E) yakıt siparişine dair belgeyi / kaptan veya gemi acentesinin  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre kabotaja girecek gemilerin yabancı limanlardan aldıkları yakıtların miktarı gemilerin seyir jurnallerinde ve devriçark defterinde gösterildiğinden, seyir jurnaline göre alınan miktar ile seyir jurnali ve devriçark defterine göre sarf edilen miktar arasındaki fark bulunarak vergiye esas tutulacak miktar tespit olunur. Alınan miktar yalnızca seyir jurnaline, sarf edilen miktar ise seyir jurnali ile devriçark defterine göre bulunur. Yakıt ve kumanya defteri ise dış sefer yapan Türk bandıralı gemilerde tutulan ayrı bir defterdir; faturanın numara ve tarihi bu deftere yazılır, kabotajdaki miktar tespitinde esas alınmaz. Bu nedenle doğru cevap D seçeneğidir. (MD GY 481)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre basitleştirilmiş usul ile gerçekleştirilen işlemler hariç, gümrük idaresine doğrudan başvurarak gemiye verilecek yağ ve yakıta ilişkin beyanname tescil ettirmek isteyen bunker veya liman bayileri, aranan şartları ispat eden belgeleri teminat ile birlikte Yönetmelik ekinde yer alan taahhütnameyi doldurarak ilgili gümrüğe ibraz ettiklerinde gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir. Bu firmaların gemilere yağ ve yakıt verilmesine ilişkin her başvurusunda ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibrazı şarttır. En güçlü tuzak 'kaptan veya işletme' ikilisidir: bu ikili, yakıt talebinin kaptan ve işletme dışındaki kişilerce yapılması hâlinde aranan yakıt siparişine dair belgeyi verecek olanları gösterir; yakıt siparişine dair belge de bu talep aşamasında aranan belgedir. Yakıt ve kumanya defteri, dış sefer yapan Türk bandıralı gemilerde tutulan ve sayfaları gümrük idaresince onanan defterdir. Gümrük ve muhafaza başmüdürlükleri ise geminin üç ay içinde yabancı limana çıkmamasının zorunlu nedenlerden kaynaklandığı belgelendiğinde süreyi uzatmaya yetkili makamdır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 477, 478, 479, 482)
 
 *Gümrük Yönetmeliği md. 482*
 
@@ -439,25 +422,20 @@ D) 12 aya kadar olan kısmı
 E) 18 aya kadar olan kısmı  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre Türkiye Gümrük Bölgesi dışına sefer yapan gemilerden düzenli seferli olanlarının, yabancı ülkelere yaptıkları seferden son Türk limanına dönerek tekrar dış sefere çıkmaları hâlinde, bu limandaki üç aya kadar olan bekleme süreleri yabancı ülkelere yapılan seferin devamı sayılır. Aynı maddede üç aylık süre, dış seferden dönen geminin yabancı limanlara çıkması için de esas alınır; bu süre içinde çıkılmazsa transit akaryakıt ve kumanyanın vergileri tahsil edilir. Altı, on iki ve on sekiz aylık süreler 2009/15481 sayılı Kararda hava, demiryolu ve deniz taşıtlarının geçici ithalat sürelerine aittir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 482)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre Türkiye Gümrük Bölgesi dışına sefer yapan gemilerden düzenli seferli olanlarının, yabancı ülkelere yaptıkları seferden son Türk limanına dönerek tekrar dış sefere çıkmaları hâlinde, bu limandaki üç aya kadar olan bekleme süreleri yabancı ülkelere yapılan seferin devamı sayılır. Aynı maddede üç aylık süre, dış seferden dönen geminin yabancı limanlara çıkması için de esas alınır; bu süre içinde çıkılmazsa transit akaryakıt ve kumanyanın vergileri tahsil edilir. Altı, on iki ve on sekiz aylık süreler 2009/15481 sayılı Kararda sırasıyla kişisel kullanıma mahsus hava taşıtlarının, demiryolu taşıtlarının ve kişisel kullanıma mahsus deniz taşıtlarının geçici ithalat sürelerine aittir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 482)
 
 *Gümrük Yönetmeliği md. 482*
 
-**17-** Gümrük Yönetmeliği'nin seferin devamı sayılabilecek hâllere ilişkin hükümlerine göre aşağıdaki olay değerlendirilmektedir:
+**17-** Gümrük Yönetmeliği'nin seferin devamı sayılabilecek hâllere ilişkin hükümleri çerçevesinde dış seferden dönen gemilerin akaryakıt ve kumanyaları hakkında aşağıdakilerden hangisi söylenemez?
 
-- Yabancı ülkelere sefer yapan bir gemi, dış seferden dönüşünde Türkiye'ye ilk giriş limanı olarak İzmir Limanı'na gelmiş; gemideki transit akaryakıt ve kumanya bu limanda tespit edilmiştir.  
-- Gemi, İzmir'e girişinden sonraki iki ay içinde önce Mersin Limanı'na, ardından İskenderun Limanı'na sefer yapmıştır.  
-- Gemi, üç aylık süre dolmadan İskenderun Limanı'ndan yabancı bir limana hareket etmiştir.  
-Buna göre geminin Türk limanları arasında sefer yaparken tükettiği akaryakıt bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) Tüketilen akaryakıt, transit akaryakıtın tespit edildiği ilk giriş limanı olan İzmir'de vergilendirilir.  
-B) Tüketilen akaryakıt, seferlerin başladığı İzmir ile ara liman olan Mersin'de ayrı ayrı vergilendirilir.  
-C) Tüketilen akaryakıt, geminin uğradığı en son Türk limanı olan İskenderun'da vergilendirilir.  
-D) Gemi üç aylık süre dolmadan yabancı limana çıktığından tüketilen akaryakıt vergilendirilmez.  
-E) Gemideki transit akaryakıt ve kumanyanın tamamı, İzmir'de tespit edildiği anda vergilendirilir.  
+A) Gemilerin yurt dışından ya da yurt içinde antrepolardan almış oldukları transit akaryakıt ve kumanyaları, Türkiye'ye ilk giriş limanında tespit edilir.  
+B) Geminin üç ay içerisinde yabancı limanlara çıkmamasının zorunlu nedenlerden kaynaklandığının ilgili gümrük idaresine belgelendirilmesi hâlinde bu süre uzatılabilir.  
+C) Üç aylık süre içerisinde Türk limanları arasında sefer yapılması hâlinde tüketilen akaryakıt, geminin Türkiye'ye ilk giriş limanında vergilendirilir.  
+D) Bu hükümler, yabancı ülkelere sefer yapan gemilerin yurt içinde antrepolardan almış oldukları akaryakıt ve kumanyaları için de uygulanır.  
+E) Bu hükümler, yurt dışı seferi için başka bir Türk limanına ihraç yükü almak üzere yapılan sefer sırasında kullanılan yakıtlar için de uygulanır.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre dış seferden dönen gemilerin Türkiye'ye ilk giriş limanında yurt dışından ya da yurt içinde antrepolardan almış oldukları transit akaryakıt ve kumanyaları tespit edilir. Üç aylık süre içerisinde Türk limanları arasında sefer yapılması hâlinde tüketilen akaryakıt, geminin uğradığı en son Türk limanında vergilendirilir. Olayda tespit İzmir'de yapılmış, gemi Mersin ve İskenderun'a sefer yapmış ve en son İskenderun'dan yurt dışına çıkmıştır; bu nedenle Türk limanları arasında tüketilen akaryakıt İskenderun'da vergilendirilir. En güçlü çeldirici İzmir'dir; ilk giriş limanı tespitin yapıldığı yerdir, vergilendirmenin yapıldığı yer değildir. Gemi üç ay içinde yabancı limana çıktığından transit akaryakıt ve kumanyanın tespit edilerek vergilendirilmesi hükmü uygulanmaz; ancak bu durum Türk limanları arasında tüketilen akaryakıtın vergilendirilmesini ortadan kaldırmaz. Bu nedenle doğru cevap C seçeneğidir. (MD GY 482)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre dış seferden dönen gemilerin Türkiye'ye ilk giriş limanında yurt dışından ya da yurt içinde antrepolardan almış oldukları transit akaryakıt ve kumanyaları tespit edilir; üç aylık süre içerisinde Türk limanları arasında sefer yapılması hâlinde tüketilen akaryakıt ise geminin uğradığı en son Türk limanında vergilendirilir. İlk giriş limanı tespitin yapıldığı yerdir, vergilendirmenin yapıldığı yer değildir; yanlış ifade bu iki limanı yer değiştirmiştir. Geminin üç ay içinde yabancı limanlara çıkmamasının zorunlu nedenlerden kaynaklandığı ilgili gümrük idaresine belgelendirilirse süre uzatılabilir; bu hükümler yurt içinde antrepolardan alınan akaryakıt ve kumanya ile başka bir Türk limanına ihraç yükü almak için yapılan seferde kullanılan yakıt için de uygulanır. En güçlü tuzak, transit akaryakıt ve kumanyanın ilk giriş limanında tespit edildiğini söyleyen ifadedir; tespit ile vergilendirmeyi karıştıran aday bu doğru ifadeyi yanlış sanar. Bu nedenle doğru cevap C seçeneğidir. (MD GY 482)
 
 *Gümrük Yönetmeliği md. 482*
 
@@ -502,14 +480,14 @@ E) Düzenli seferli gemi olmaları
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 4 / 2 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (II ve IV, II, III ve IV, I ve III) |
-| Vaka, uygulama, hesap | 2 |
-| Tuzaklar | KOMŞU 17, TERSİNE 5, UNSUR 5, ŞART 4, TERİM 4, SAĞDUYU 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (II ve IV, I ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 17, TERSİNE 5, TERİM 5, UNSUR 5, MAKAM 4, ŞART 3 |
 | İkiz eksen / ayna | — / SB41-A şart ikizi, soru 1, SB41-A şart ikizi: karaya çıkarılmamak (Kanun) ↔ dış sefer limanından itibaren tüketme (Yönetmelik), soru 5, SB41-B transit ↔ ihracat ikizi, soru 2, SB41-B transit ↔ ihracat ikizi, soru 4 (III. önerme), SB41-C ilk ↔ son Türk limanı ikizi, soru 14, SB41-C ilk ↔ son Türk limanı ikizi, soru 17 |
 | Güncellik | — |
-| Çıkmış bilgi alanı karşılayan | 8 |
+| Çıkmış bilgi alanı karşılayan | 7 |
 | Cevap harfleri | A 4 · B 4 · C 4 · D 4 · E 4 |
 
 Sete giremeyen alanlar: GY 478/1-ç'deki cürüm listesi (hırsızlık, emniyeti suistimal, yalan yere yemin, suç tasnii vb.) ayrıca liste-dışı olarak, GY 478/2'deki ek-75 taahhütnamesi ve GY 476/1'deki kumanya içeriği (yiyecek-içecek) tek başına soru yapılamadı; bunlar başka soruların önerme veya çeldiricilerinde kullanıldı.

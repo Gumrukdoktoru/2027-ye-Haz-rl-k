@@ -116,18 +116,13 @@ C) İtiraz ve şikâyet konusu olayın meydana geldiği tarihten itibaren en ge�
 D) İtiraz ve şikâyet konusu olayı öğrendikleri tarihten itibaren otuz gün içinde ilgili Bölge Müdürlüğüne  
 E) Tebligatın yapıldığı tarihten itibaren otuz gün içinde serbest bölgenin bulunduğu yerdeki vergi dairesine  
 
-**13-** Bir serbest bölgede faaliyet gösteren kullanıcının stoklarında Bölge Müdürlüğünce re'sen yapılan sayımda aşağıdaki durum tespit edilmiştir:
+**13-** 3218 sayılı Serbest Bölgeler Kanunu'na göre serbest bölgelerde "kullanıcı" deyimi aşağıdakilerden hangisini ifade eder?
 
-- Bölge Müdürlüğü kayıtlarında 20.000 kg görünen bir mal kaleminde kullanıcının mevcut stoku 19.000 kg'dır.  
-- Eksikliğin sebebi kullanıcı tarafından açıklanamamıştır.  
-- Kullanıcı hakkında daha önce bu nedenle herhangi bir işlem yapılmamıştır.  
-Serbest Bölgeler Uygulama Yönetmeliği'ne göre bu kullanıcı hakkında uygulanacak müeyyide aşağıdakilerden hangisidir?  
-
-A) Kullanıcının bölgeden mal çıkışlarına ve bölge içi mal satışlarına ilişkin Serbest Bölge İşlem Formları 3 ay süreyle işleme konulmaz.  
-B) Kullanıcının Faaliyet Ruhsatı hiçbir uyarıya gerek kalmaksızın Genel Müdürlükçe iptal edilir.  
-C) Kullanıcının bölgeden mal çıkışlarına ve bölge içi mal satışlarına ilişkin Serbest Bölge İşlem Formları bir ay süreyle işleme konulmaz.  
-D) Kullanıcının bölgedeki malları, Yönetmeliğin malların tasfiyesine ilişkin hükümlerine göre tasfiye işlemine tabi tutulur.  
-E) Eksiklik yüzde 5'i aşmadığından kullanıcıya müeyyide uygulanmaz; yalnızca Serbest Bölge Gümrük İdaresi konu hakkında bilgilendirilir.  
+A) Faaliyet ruhsatı alan ve serbest bölgede belli bir işyeri bulunan gerçek veya tüzel kişi  
+B) Serbest bölgeyi işleten kamu kurum ve kuruluşu ile yerli ve yabancı gerçek veya tüzel kişi  
+C) Eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişi  
+D) Arazisi özel mülkiyete ait serbest bölgede, aidat ve benzeri bölge katılım bedellerini ödemekle yükümlü olan mülk sahibi  
+E) Faaliyet Ruhsatı ve Depo Kullanma Belgesi alan kişilerin bölgede iş ve işlemlerini yürüten temsilcisi, görevlisi veya işçisi  
 
 **14-** Serbest Bölgeler Uygulama Yönetmeliği'ne göre aşağıdakilerden hangisi, serbest bölgelere getirilmesi yasak olan mallar arasında yer almaz?
 
@@ -145,19 +140,13 @@ C) 5683 sayılı Yabancıların Türkiye'de İkamet ve Seyahatleri Hakkında Kan
 D) Diğer kanunların 3218 sayılı Kanuna aykırı hükümleri  
 E) Türkiye Cumhuriyeti sosyal güvenlik mevzuatı hükümleri  
 
-**16-** Gümrük Yönetmeliği'ne göre serbest bölgelerde tutulan envanter kayıtlarına ilişkin aşağıdaki ifadeler verilmiştir:
+**16-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre serbest bölgelerde tutulan envanter kayıtlarına ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. Bilgisayar ortamında tutulan envanter kayıtları defter hükmündedir.  
-II. Serbest bölgeden eşya çıkarılmasına ilişkin ayrıntılar, çıkıştan sonra kırk sekiz saat içinde envanter kayıtlarına geçirilir.  
-III. İşletici ve/veya kullanıcı tarafından eşyanın kaybolduğu fark edildiğinde, durum gümrük idarelerine derhal bildirilir.  
-IV. Envanter kayıtlarına ilişkin onay yazılı olarak tebliğ edilir ve sadece serbest bölgelere ilişkin hükümlerin uygulanması kapsamında gerekli taahhüdü veren kişilere verilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I, III ve IV  
-B) I ve III  
-C) III ve IV  
-D) I, II ve III  
-E) I, II, III ve IV  
+A) Serbest bölgeden eşya çıkarılmasına ilişkin ayrıntılar, çıkıştan sonra kırk sekiz saat içinde envanter kayıtlarına geçirilir.  
+B) Bilgisayar ortamında tutulan envanter kayıtları defter hükmündedir.  
+C) Eşya, serbest bölgede ilgili kişiye ait yere konulmasından sonra kırk sekiz saat içinde envanter kayıtlarına geçirilir.  
+D) İşletici ve/veya kullanıcı tarafından eşyanın kaybolduğu fark edildiğinde, durum gümrük idarelerine derhal bildirilir.  
+E) Kullanıcının faaliyette bulunabilmesi, envanter kayıtlarının gümrük idaresince onaylanmasına bağlıdır.  
 
 **17-** 4458 sayılı Gümrük Kanunu'na göre ilgili rejimde öngörülen hâllerde, serbest dolaşıma girişi veya geçici ithalata tabi tutulması ithalat vergileri ya da tarım veya ticaret politikası önlemlerinin uygulanmasını gerektirmeyen eşyanın serbest bölgede kullanılması veya tüketilmesi mümkündür. Bu eşya için hangi durumda gümrük beyannamesi verilmesi zorunludur?
 
@@ -188,12 +177,7 @@ C) Serbest dolaşıma giriş rejimi ve ihracat rejimi hükümlerine göre yapıl
 D) Taşıma belgesi deyimi, eşyanın vasıflarının belirlenmesine yarayacak bilgileri taşıdığı sürece nakliye senedi, teslim makbuzu, özet beyan veya sevk pusulası gibi taşıma ile ilgili herhangi bir belgeyi ifade eder.  
 E) İşletici ve/veya kullanıcılar, serbest bölgede çalıştırdıkları kişilerin gümrük mevzuatına uygun olarak görevlerini noksansız yerine getirmeleri için gerekli önlemleri alırlar.  
 
-**20-** Serbest bölgede üretim faaliyetinde bulunan bir kullanıcıya ilişkin bilgiler şöyledir:
-
-- Kullanıcı, Türkiye'den getirdiği serbest dolaşımdaki girdiler ile üçüncü ülkelerden getirdiği girdileri birlikte kullanarak bölgede eşya üretmiştir.  
-- Ürettiği eşyayı statü belgesi olarak A.TR Dolaşım Belgesi ile Avrupa Birliği üyesi bir ülkeye göndermek istemektedir.  
-- Üçüncü ülke menşeli girdiler ticaret politikası önlemlerine tabi değildir.  
-Gümrük Yönetmeliği'ne göre bu gönderimde yapılacak işlem aşağıdakilerden hangisidir?  
+**20-** Gümrük Yönetmeliği'ne göre serbest bölgede, ticaret politikası önlemlerine tabi olmayan üçüncü ülke menşeli girdiler ile Türkiye'de serbest dolaşımda bulunan girdiler birlikte kullanılarak üretilen eşyanın, statü belgesi olarak A.TR Dolaşım Belgesi ile Avrupa Birliği ülkelerine gönderilmek istenmesi hâlinde aşağıdakilerden hangisi yapılır?
 
 A) Eşya serbest bölgede işlem gördüğünden A.TR Dolaşım Belgesi düzenlenemez; eşya ancak menşe şahadetnamesi ile gönderilebilir.  
 B) Girdilerin bir kısmı Türkiye'de serbest dolaşımda bulunduğundan, gümrük beyannameleri üzerinde yapılan inceleme sonucunda herhangi bir vergi tahsilatı yapılmaksızın A.TR Dolaşım Belgesi düzenlenir ve vize edilir.  
@@ -379,23 +363,18 @@ E) Tebligatın yapıldığı tarihten itibaren otuz gün içinde serbest bölgen
 **Doğru Cevap:** B  
 **Gerekçe:** Serbest Bölgeler Uygulama Yönetmeliği itiraz ve şikâyetleri konusuna göre ayırır. Faaliyet Ruhsatı, Giriş İzin Belgesi ve İnşaat Ruhsatı gibi ruhsat ve izinler hakkındaki itiraz ve şikâyetler Genel Müdürlüğe yapılır. Hizmetleri veren işletici veya B.K.İ. ile ilgili itirazlar ise kullanıcılar tarafından itiraz ve şikâyet konusu olaya muttali olunduğu, yani olayın öğrenildiği tarihten itibaren en geç üç gün içinde ilgili Bölge Müdürlüğüne yapılır. Süre olayın meydana geldiği tarihten değil, öğrenildiği tarihten başlar. Otuz günlük süre, ödenmeyen özel hesap gelirleri için yapılan tebligata itiraz süresidir; vergi dairesi ise süresinde ödenmeyen özel hesap alacaklarının takibi için Bölge Müdürlüğünce bildirim yapılan yerdir. En güçlü çeldirici Genel Müdürlüğe başvuru öngören seçenektir: o merci ruhsat ve izin itirazlarına aittir. Bu nedenle doğru cevap B seçeneğidir. (MD SBUY 43, 51)
 
-*Serbest Bölgeler Uygulama Yönetmeliği md. 14*
+*3218 sayılı Serbest Bölgeler Kanunu md. 3, 5; Serbest Bölgeler Uygulama Yönetmeliği md. 4; Gümrük Yönetmeliği md. 419*
 
-**13-** Bir serbest bölgede faaliyet gösteren kullanıcının stoklarında Bölge Müdürlüğünce re'sen yapılan sayımda aşağıdaki durum tespit edilmiştir:
+**13-** 3218 sayılı Serbest Bölgeler Kanunu'na göre serbest bölgelerde "kullanıcı" deyimi aşağıdakilerden hangisini ifade eder?
 
-- Bölge Müdürlüğü kayıtlarında 20.000 kg görünen bir mal kaleminde kullanıcının mevcut stoku 19.000 kg'dır.  
-- Eksikliğin sebebi kullanıcı tarafından açıklanamamıştır.  
-- Kullanıcı hakkında daha önce bu nedenle herhangi bir işlem yapılmamıştır.  
-Serbest Bölgeler Uygulama Yönetmeliği'ne göre bu kullanıcı hakkında uygulanacak müeyyide aşağıdakilerden hangisidir?  
-
-A) Kullanıcının bölgeden mal çıkışlarına ve bölge içi mal satışlarına ilişkin Serbest Bölge İşlem Formları 3 ay süreyle işleme konulmaz.  
-B) Kullanıcının Faaliyet Ruhsatı hiçbir uyarıya gerek kalmaksızın Genel Müdürlükçe iptal edilir.  
-C) Kullanıcının bölgeden mal çıkışlarına ve bölge içi mal satışlarına ilişkin Serbest Bölge İşlem Formları bir ay süreyle işleme konulmaz.  
-D) Kullanıcının bölgedeki malları, Yönetmeliğin malların tasfiyesine ilişkin hükümlerine göre tasfiye işlemine tabi tutulur.  
-E) Eksiklik yüzde 5'i aşmadığından kullanıcıya müeyyide uygulanmaz; yalnızca Serbest Bölge Gümrük İdaresi konu hakkında bilgilendirilir.  
+A) Faaliyet ruhsatı alan ve serbest bölgede belli bir işyeri bulunan gerçek veya tüzel kişi  
+B) Serbest bölgeyi işleten kamu kurum ve kuruluşu ile yerli ve yabancı gerçek veya tüzel kişi  
+C) Eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişi  
+D) Arazisi özel mülkiyete ait serbest bölgede, aidat ve benzeri bölge katılım bedellerini ödemekle yükümlü olan mülk sahibi  
+E) Faaliyet Ruhsatı ve Depo Kullanma Belgesi alan kişilerin bölgede iş ve işlemlerini yürüten temsilcisi, görevlisi veya işçisi  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Vakada 20.000 kg'lık kalemde 1.000 kg eksiklik vardır; bu, mal kalemi bazında tam yüzde 5'tir. Serbest Bölgeler Uygulama Yönetmeliği'ne göre re'sen yapılan stok sayımında Bölge Müdürlüğü kayıtları ile kullanıcının mevcut stokları arasında mal kalemi bazında miktarı yüzde 5'i geçmeyen, sebebi açıklanamayan eksiklik veya fazlalık tespit edilirse, kullanıcının bölgeden mal çıkışlarına ve bölge içi mal satışlarına ilişkin Serbest Bölge İşlem Formları 3 ay süreyle işleme konulmaz ve Serbest Bölge Gümrük İdaresi bilgilendirilir. Faaliyet Ruhsatının hiçbir uyarıya gerek kalmaksızın iptali ise farkın yüzde 5'ten fazla olması ya da aynı işlemin tekrarı hâlinde söz konusudur; vakada fark yüzde 5'i aşmamış ve işlem ilk kez yapılmaktadır. Saklı istisna 'geçmeyen' kaydıdır: tam yüzde 5 alt basamakta kalır. Bir aylık durdurma belge vermeme, yanlış bilgi verme gibi hâllere aittir; malların tasfiyesi ise ruhsatı sona erdiği veya iptal edildiği hâlde faaliyete devam etmeye çalışanlar için öngörülmüştür. Yüzde 5'lik sınır bir hoşgörü payı da değildir; sınırın altında kalan fark da 3 aylık durdurmayı gerektirir, Gümrük İdaresinin bilgilendirilmesi bu müeyyideye eşlik eder. Bu nedenle doğru cevap A seçeneğidir. (MD SBUY 14)
+**Gerekçe:** 3218 sayılı Serbest Bölgeler Kanunu'na göre kullanıcı, faaliyet ruhsatı alan ve bölgede belli bir işyeri bulunan gerçek veya tüzel kişidir; Serbest Bölgeler Uygulama Yönetmeliği ve Gümrük Yönetmeliği de aynı tanımı tekrarlar. Tanımın iki unsuru birlikte aranır: faaliyet ruhsatı ve bölgede belli bir işyeri. Serbest bölgeyi işleten kamu kurum ve kuruluşu ile yerli ve yabancı gerçek veya tüzel kişiler aynı maddede işletici olarak tanımlanır. Eşyanın antrepo rejimi beyanında bulunan veya hak ve yükümlülükleri kendisine devredilen kişi ise Gümrük Kanunu'nun antrepo rejimindeki kullanıcıdır; aynı kelimenin komşu rejimdeki anlamı en güçlü tuzaktır. Kanun, arazisi özel mülkiyete ait bölgelerde kullanıcı niteliğini haiz olmayan mülk sahiplerini aidat ve benzeri bölge katılım bedelleri bakımından kullanıcılarla aynı mali yükümlülüklere tabi tutar; bu yükümlülük onları kullanıcı yapmaz. Faaliyet Ruhsatı ve Depo Kullanma Belgesi alanların temsilci, görevli ve işçileri ise bölgeye Giriş İzin Belgesi ile girer. Bu nedenle doğru cevap A seçeneğidir. (MD SK 3, 5; SBUY 4; GY 419)
 
 *Serbest Bölgeler Uygulama Yönetmeliği md. 32; 4458 sayılı Gümrük Kanunu md. 154*
 
@@ -423,24 +402,18 @@ E) Türkiye Cumhuriyeti sosyal güvenlik mevzuatı hükümleri
 **Doğru Cevap:** E  
 **Gerekçe:** 3218 sayılı Serbest Bölgeler Kanunu'na göre serbest bölgelerde 4875 sayılı Doğrudan Yabancı Yatırımlar Kanunu, Belediye Kanununun sayılan bazı konular dışındaki hükümleri, 5682 sayılı Pasaport Kanunu, 5683 sayılı Yabancıların Türkiye'de İkamet ve Seyahatleri Hakkında Kanun ile diğer kanunların bu Kanuna aykırı hükümleri uygulanmaz. Buna karşılık Kanun, serbest bölgelerde Türkiye Cumhuriyeti sosyal güvenlik mevzuatı hükümlerinin uygulanacağını açıkça söyler; yabancı uyruklu yönetici ve vasıflı personel çalıştırılabilmesi bu sonucu değiştirmez. En güçlü tuzak sağduyudur: yabancı personel ve yabancı yatırım ağırlıklı bölgelerde sosyal güvenlik mevzuatının da uygulanmadığı sanılır. Bu nedenle doğru cevap E seçeneğidir. (MD SK 10, 12)
 
-*Gümrük Yönetmeliği md. 427, 428; 4458 sayılı Gümrük Kanunu md. 159*
+*4458 sayılı Gümrük Kanunu md. 159; Gümrük Yönetmeliği md. 427, 428*
 
-**16-** Gümrük Yönetmeliği'ne göre serbest bölgelerde tutulan envanter kayıtlarına ilişkin aşağıdaki ifadeler verilmiştir:
+**16-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre serbest bölgelerde tutulan envanter kayıtlarına ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. Bilgisayar ortamında tutulan envanter kayıtları defter hükmündedir.  
-II. Serbest bölgeden eşya çıkarılmasına ilişkin ayrıntılar, çıkıştan sonra kırk sekiz saat içinde envanter kayıtlarına geçirilir.  
-III. İşletici ve/veya kullanıcı tarafından eşyanın kaybolduğu fark edildiğinde, durum gümrük idarelerine derhal bildirilir.  
-IV. Envanter kayıtlarına ilişkin onay yazılı olarak tebliğ edilir ve sadece serbest bölgelere ilişkin hükümlerin uygulanması kapsamında gerekli taahhüdü veren kişilere verilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I, III ve IV  
-B) I ve III  
-C) III ve IV  
-D) I, II ve III  
-E) I, II, III ve IV  
+A) Serbest bölgeden eşya çıkarılmasına ilişkin ayrıntılar, çıkıştan sonra kırk sekiz saat içinde envanter kayıtlarına geçirilir.  
+B) Bilgisayar ortamında tutulan envanter kayıtları defter hükmündedir.  
+C) Eşya, serbest bölgede ilgili kişiye ait yere konulmasından sonra kırk sekiz saat içinde envanter kayıtlarına geçirilir.  
+D) İşletici ve/veya kullanıcı tarafından eşyanın kaybolduğu fark edildiğinde, durum gümrük idarelerine derhal bildirilir.  
+E) Kullanıcının faaliyette bulunabilmesi, envanter kayıtlarının gümrük idaresince onaylanmasına bağlıdır.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre bilgisayar ortamında tutulan envanter kayıtları defter hükmündedir; I. ifade doğrudur. Serbest bölgeden eşya çıkarılmasına ilişkin ayrıntılar derhal envanter kayıtlarına geçirilir; II. ifade bu nedenle yanlıştır. Kırk sekiz saatlik süre Kanunda eşyanın serbest bölgede ilgili kişiye ait yere konulmasından sonra envanter kayıtlarına geçirilmesi için öngörülmüştür, çıkış için değil. İşletici ve/veya kullanıcı eşyanın kaybolduğunu fark ettiğinde durumu gümrük idarelerine derhal bildirir; III. ifade doğrudur. Kullanıcının faaliyette bulunabilmesi envanter kayıtlarının gümrük idaresince onaylanmasına bağlıdır; onay yazılı olarak tebliğ edilir ve sadece serbest bölgelere ilişkin hükümlerin uygulanması kapsamında gerekli taahhüdü veren kişilere verilir; IV. ifade doğrudur. En güçlü tuzak II. ifadedir: giriş için öngörülen kırk sekiz saat çıkışa taşınmıştır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 427, 428; GK 159)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre serbest bölgelerde depolama, işçilik, işleme veya alım ve satım faaliyetlerinde bulunanlar envanter kayıtları tutar ve eşya, söz konusu kişiye ait yere konulmasından sonra kırk sekiz saat içinde envanter kayıtlarına geçirilir. Gümrük Yönetmeliği'ne göre ise serbest bölgeden eşya çıkarılmasına ilişkin ayrıntılar derhal envanter kayıtlarına geçirilir; kırk sekiz saatlik süre çıkış için değil, girişte eşyanın yere konulması için öngörülmüştür. Bu nedenle çıkışın kırk sekiz saat içinde kayda geçirileceğini söyleyen ifade yanlıştır. Diğer ifadeler doğrudur: bilgisayar ortamında tutulan envanter kayıtları defter hükmündedir; işletici ve/veya kullanıcı eşyanın kaybolduğunu fark ettiğinde durumu gümrük idarelerine derhal bildirir; kullanıcının faaliyette bulunabilmesi envanter kayıtlarının gümrük idaresince onaylanmasına bağlıdır. Girişteki kırk sekiz saati doğru bilen aday, aynı sürenin çıkışa da uygulandığını sanabilir; çıkışta süre verilmemiş, kaydın derhal yapılması istenmiştir. Bu nedenle doğru cevap A seçeneğidir. (MD GK 159; GY 427, 428)
 
 *4458 sayılı Gümrük Kanunu md. 154, 155, 158*
 
@@ -488,12 +461,7 @@ E) İşletici ve/veya kullanıcılar, serbest bölgede çalıştırdıkları ki�
 
 *Gümrük Yönetmeliği md. 424, 432*
 
-**20-** Serbest bölgede üretim faaliyetinde bulunan bir kullanıcıya ilişkin bilgiler şöyledir:
-
-- Kullanıcı, Türkiye'den getirdiği serbest dolaşımdaki girdiler ile üçüncü ülkelerden getirdiği girdileri birlikte kullanarak bölgede eşya üretmiştir.  
-- Ürettiği eşyayı statü belgesi olarak A.TR Dolaşım Belgesi ile Avrupa Birliği üyesi bir ülkeye göndermek istemektedir.  
-- Üçüncü ülke menşeli girdiler ticaret politikası önlemlerine tabi değildir.  
-Gümrük Yönetmeliği'ne göre bu gönderimde yapılacak işlem aşağıdakilerden hangisidir?  
+**20-** Gümrük Yönetmeliği'ne göre serbest bölgede, ticaret politikası önlemlerine tabi olmayan üçüncü ülke menşeli girdiler ile Türkiye'de serbest dolaşımda bulunan girdiler birlikte kullanılarak üretilen eşyanın, statü belgesi olarak A.TR Dolaşım Belgesi ile Avrupa Birliği ülkelerine gönderilmek istenmesi hâlinde aşağıdakilerden hangisi yapılır?
 
 A) Eşya serbest bölgede işlem gördüğünden A.TR Dolaşım Belgesi düzenlenemez; eşya ancak menşe şahadetnamesi ile gönderilebilir.  
 B) Girdilerin bir kısmı Türkiye'de serbest dolaşımda bulunduğundan, gümrük beyannameleri üzerinde yapılan inceleme sonucunda herhangi bir vergi tahsilatı yapılmaksızın A.TR Dolaşım Belgesi düzenlenir ve vize edilir.  
@@ -502,17 +470,17 @@ D) Tespit ve Tahakkuk Kağıdı üzerinden üçüncü ülke girdilerinin muayene
 E) Gümrük vergisi dışında, ithalatta tahsili gereken katma değer vergisi ve özel tüketim vergisi ile eş etkili mali yükler tahsil edilir.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre Türkiye'den veya üçüncü ülkelerden serbest bölgelere depolanmak, işlenmek veya ihraç edilmek üzere gelen eşyanın daha sonra Avrupa Birliği ülkelerine statü belgesi olarak A.TR Dolaşım Belgesi ile gönderilmek istenmesi hâlinde Tespit ve Tahakkuk Kağıdı düzenlenir. Eşya tamamen veya kısmen üçüncü ülke menşeli girdiler kullanılarak serbest bölgede işlem görmüşse, üçüncü ülke girdilerinin muayene ve tespiti yapıldıktan sonra CIF değeri belirlenerek gümrük vergisi tahsil edilir; gümrük vezne alındısının ibrazı üzerine A.TR Dolaşım Belgesi gümrük idaresince vize edilir. Vakada saklı istisna, girdilerin bir kısmının üçüncü ülkeden gelmesidir: vergi tahsil edilmeden A.TR düzenlenmesi yalnızca eşyanın tamamen Türkiye'de serbest dolaşımda bulunan girdilerden üretildiği hâle aittir. Telafi edici vergi ve ithal lisansı ticaret politikası önlemlerine tabi üçüncü ülke menşeli eşyada; gümrük vergisi dışındaki vergilerin tahsili ise AB'deki alıcının iade ettiği eşyanın Türkiye'de serbest dolaşıma sokulmasında aranır. A.TR'nin hiç düzenlenemeyeceği iddiası da yanlıştır; Yönetmelik serbest bölgeden A.TR ile gönderimi açıkça düzenler. Bu nedenle doğru cevap D seçeneğidir. (MD GY 424, 432)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre Türkiye'den veya üçüncü ülkelerden serbest bölgelere depolanmak, işlenmek veya ihraç edilmek üzere gelen eşyanın daha sonra Avrupa Birliği ülkelerine statü belgesi olarak A.TR Dolaşım Belgesi ile gönderilmek istenmesi hâlinde Tespit ve Tahakkuk Kağıdı düzenlenir. Eşya tamamen veya kısmen üçüncü ülke menşeli girdiler kullanılarak serbest bölgede işlem görmüşse, üçüncü ülke girdilerinin muayene ve tespiti yapıldıktan sonra CIF değeri belirlenerek gümrük vergisi tahsil edilir; gümrük vezne alındısının ibrazı üzerine A.TR Dolaşım Belgesi gümrük idaresince vize edilir. Vergi tahsil edilmeden A.TR düzenlenmesi yalnızca eşyanın tamamen Türkiye'de serbest dolaşımda bulunan girdilerden üretildiği hâle aittir; girdilerin bir kısmının serbest dolaşımda olması bu sonucu doğurmaz ve en güçlü çeldirici budur. Telafi edici vergi ve ithal lisansı ticaret politikası önlemlerine tabi üçüncü ülke menşeli eşyada; gümrük vergisi dışındaki vergilerin tahsili ise AB'deki alıcının iade ettiği eşyanın Türkiye'de serbest dolaşıma sokulmasında aranır. A.TR'nin hiç düzenlenemeyeceği iddiası da yanlıştır; Yönetmelik serbest bölgeden A.TR ile gönderimi açıkça düzenler ve Gümrük Statü Belgesi, serbest dolaşım hakkını kazanmış eşyanın serbest bölgeden ihracında A.TR düzenlenmesinde tevsik edici belge olarak kullanılır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 424, 432)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (II ve III, I ve IV, I, III ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 10, SAYI 7, TERSİNE 5, LİSTE-DIŞI 4, TERİM 4, UNSUR 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (II ve III, I ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 10, SAYI 7, TERİM 5, TERSİNE 5, LİSTE-DIŞI 4, SAĞDUYU 4 |
 | İkiz eksen / ayna | 3 / statu-mense |
 | Güncellik | 06.02.2026 |
 | Çıkmış bilgi alanı karşılayan | 6 |

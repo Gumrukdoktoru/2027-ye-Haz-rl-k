@@ -44,19 +44,13 @@ C) Transit hükümleri saklı kalmak üzere Türkiye Gümrük Bölgesini fiilen 
 D) Tümüyle Türkiye Gümrük Bölgesinde elde edilen ve bünyesinde bu bölge dışındaki ülke veya topraklardan ithal edilen girdileri bulundurmayan eşya, serbest dolaşımda bulunan eşyadır.  
 E) Gümrük statüsü deyimi, eşyanın menşeinin Türkiye Gümrük Bölgesi olup olmadığı yönünden içinde bulunduğu durumu ifade eder.  
 
-**5-** 4458 sayılı Gümrük Kanunu'nda yer alan gümrük vergileri, ithalat vergileri, ihracat vergileri ve yükümlü tanımları çerçevesinde aşağıdaki ifadeler verilmiştir:
+**5-** 4458 sayılı Gümrük Kanunu'ndaki gümrük vergileri, ithalat vergileri, ihracat vergileri, gümrük yükümlülüğü ve yükümlü tanımlarına göre aşağıdakilerden hangisi doğrudur?
 
-I. Gümrük vergileri deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin tümünü ifade eder.  
-II. Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak vergiler ve diğer mali yükler ithalat vergileri kapsamındadır.  
-III. Yükümlü deyimi, gümrük yükümlülüğünü yerine getirmekle sorumlu kişilerden yalnızca beyan sahibini ifade eder.  
-IV. İhracat vergileri, eşyanın ihracatında ödenecek gümrük vergisinden ibaret olup bu vergiyle eş etkili diğer vergiler ve mali yükler ihracat vergileri kapsamında değildir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve IV  
-C) II ve IV  
-D) I, II ve III  
-E) I, II ve IV  
+A) İhracat vergileri, eşyanın ihracatında ödenecek gümrük vergisinin yanı sıra bu vergiyle eş etkili diğer vergileri ve mali yükleri de kapsar.  
+B) Gümrük vergileri deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerini ifade eder; ihracat vergileri bu deyimin kapsamı dışındadır.  
+C) Yükümlü deyimi, gümrük yükümlülüğünü yerine getirmekle sorumlu kişilerden yalnızca beyan sahibini ifade eder.  
+D) Gümrük yükümlülüğü deyimi, yükümlünün gümrük vergilerini teminata bağlaması zorunluluğunu ifade eder.  
+E) Tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak mali yükler ithalat vergileri kapsamı dışındadır.  
 
 **6-** (B) A.Ş., serbest dolaşımdaki eşyasını ihracat rejimine tabi tutmuştur. Beyan edilen eşyaya ilişkin bilgiler şöyledir:
 
@@ -83,7 +77,7 @@ E) Eşyanın gümrüğe terk edilmesi
 
 A) Kayıt yoluyla rejime geçiş  
 B) Elleçleme  
-C) Gümrük antrepo  
+C) Gümrük antrepo rejimi  
 D) Gümrüğe terk  
 E) İmha  
 
@@ -97,15 +91,13 @@ C) tabi tutulduğu rejimin öngördüğü amaçlar doğrultusunda ilgilisine tes
 D) bir gümrük rejimine tabi tutulması  
 E) imhası veya gümrüğe terki  
 
-**10-** (A) Ltd. Şti.'nin yurt dışından satın aldığı eşya için serbest dolaşıma giriş rejimine ilişkin gümrük beyanı, gümrük müşaviri (M) tarafından kendi adına ancak (A) Ltd. Şti.'nin hesabına yapılmıştır.
+**10-** 4458 sayılı Gümrük Kanunu'na göre "rejim hak sahibi" deyimi aşağıdakilerden hangisini ifade eder?
 
-4458 sayılı Gümrük Kanunu'ndaki beyan sahibi ve rejim hak sahibi tanımlarına göre bu beyan bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) Beyan sahibi de rejim hak sahibi de (A) Ltd. Şti.'dir.  
-B) Beyan sahibi de rejim hak sahibi de (M)'dir.  
-C) Beyan sahibi (A) Ltd. Şti., rejim hak sahibi (M)'dir.  
-D) Beyan sahibi (M)'dir; (A) Ltd. Şti. ise asıl sorumlu sıfatını taşır.  
-E) Beyan sahibi (M), rejim hak sahibi (A) Ltd. Şti.'dir.  
+A) Kendi adına beyanda bulunan kişi veya adına beyanda bulunulan kişi  
+B) Gümrük işlemlerinde kendi adına, ancak başkasının hesabına hareket eden temsilci  
+C) Gümrük işlemlerinde başkasının adına ve başkasının hesabına hareket eden temsilci  
+D) Kendisine bir izin verilen kişi  
+E) Kendi adına ve hesabına gümrük beyanını yapan veya hesabına gümrük beyanı yapılan kişi  
 
 **11-** 4458 sayılı Gümrük Kanunu'nda "gümrük gözetimi altındaki eşyanın asli niteliklerini değiştirmeden istiflenmesi, yerinin değiştirilmesi, büyük kaplardan küçük kaplara aktarılması, kapların yenilenmesi veya tamiri, havalandırılması, kalburlanması, karıştırılması ve benzeri işlemler" şeklinde tanımlanan kavram aşağıdakilerden hangisidir?
 
@@ -155,18 +147,13 @@ C) Klinker
 D) Ponza  
 E) Hububat  
 
-**17-** Gümrük Yönetmeliği'nde tanımlanan ATA Karnesi, Gümrüklerden Geçiş Karnesi (CPD) ve yetkilendirilmiş yükümlü sertifikasına ilişkin aşağıdaki ifadeler verilmiştir:
+**17-** Gümrük Yönetmeliği'nde yer alan ATA Karnesi, Gümrüklerden Geçiş Karnesi (CPD) ve yetkilendirilmiş yükümlü sertifikası tanımlarına göre aşağıdakilerden hangisi doğrudur?
 
-I. ATA Karnesi, ATA Karneleri Hakkındaki Gümrük Sözleşmesi ile Geçici İthalat Sözleşmesi çerçevesinde düzenlenen belgedir.  
-II. Gümrüklerden Geçiş Karnesi (CPD), ticari ve özel kullanıma mahsus kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen belgedir.  
-III. Yetkilendirilmiş yükümlü sertifikası, ilgili mevzuat uyarınca aranan koşulları sağlayan yükümlülere gümrük mevzuatının öngördüğü basitleştirilmiş uygulamalar ile eşya giriş ve çıkışı sırasında yapılan emniyet ve güvenlik kontrollerine ilişkin kolaylaştırmalardan yararlanmak üzere verilen belgedir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) Yalnız I  
-C) Yalnız III  
-D) I ve II  
-E) I, II ve III  
+A) Gümrüklerden Geçiş Karnesi (CPD), ticari ve özel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde olan belgedir.  
+B) Gümrüklerden Geçiş Karnesi (CPD), kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen ve yalnız Türkiye için geçerli olan belgedir.  
+C) ATA Karnesi, ticari ve özel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde olan belgedir.  
+D) ATA Karnesi, yalnızca Geçici İthalat Sözleşmesi çerçevesinde düzenlenen belgedir; ATA Karneleri Hakkındaki Gümrük Sözleşmesi bu belgenin dayanakları arasında yer almaz.  
+E) Yetkilendirilmiş yükümlü sertifikası, aranan koşulları sağlayan yükümlülere yalnızca basitleştirilmiş uygulamalardan yararlanmak üzere verilir; emniyet ve güvenlik kontrollerine ilişkin kolaylaştırmalar bu belgenin kapsamında değildir.  
 
 **18-** Gümrük Yönetmeliği'nde yer alan gümrüklü saha ile ihracata bağlı önlemlerden yararlanan eşya ve tarım ürünü tanımları çerçevesinde aşağıdaki ifadeler verilmiştir:
 
@@ -182,13 +169,13 @@ C) II ve III
 D) III ve IV  
 E) II, III ve IV  
 
-**19-** Gümrük Yönetmeliği'nde tanımlanan kavramlar ile tanımlarının eşleştirilmesine ilişkin aşağıdakilerden hangisi yanlıştır?
+**19-** Gümrük Yönetmeliği'nde yer alan risk analizi, grup ithalatçısı, grup imalatçısı, elektronik veri değişimi ve bilgisayar sistemi tanımlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
-A) Grup ithalatçısı – Aynı gruba ait imalatçı firmaların ithalat işlemlerini gerçekleştiren yine bu gruba ait dış ticaret veya pazarlama şirketi  
-B) Elektronik veri değişimi – Kabul görmüş mesaj standartlarına göre yapılandırılmış verilerin bir bilgisayar sistemi ile diğer bir bilgisayar sistemi arasında elektronik olarak aktarımı  
-C) Bilgisayar sistemi – Gümrük idarelerinde gümrük işlemlerinin yürütüldüğü yerel veya geniş alan ağı ile birbirine bağlı entegre bilgisayar sistemi  
-D) Grup imalatçısı – İdaresi ve murakabesi ve/veya sermayesi bakımından aralarında şirket ilişkisi bulunan aynı gruba ait imalatçı firma  
-E) Risk analizi – Riskin sistematik olarak tanımlanması ve riskin en aza indirilmesi için gerekli olan tüm önlemlerin uygulanması amacıyla veri ve bilgi toplanması  
+A) Grup ithalatçısı, aynı gruba ait imalatçı firmaların ithalat işlemlerini gerçekleştiren yine bu gruba ait dış ticaret veya pazarlama şirketidir.  
+B) Elektronik veri değişimi, kabul görmüş mesaj standartlarına göre yapılandırılmış verilerin bir bilgisayar sistemi ile diğer bir bilgisayar sistemi arasında elektronik olarak aktarımıdır.  
+C) Bilgisayar sistemi, gümrük idarelerinde gümrük işlemlerinin yürütüldüğü yerel veya geniş alan ağı ile birbirine bağlı entegre bilgisayar sistemidir.  
+D) Grup imalatçısı, idaresi ve murakabesi ve/veya sermayesi bakımından aralarında vasıtalı veya vasıtasız şirket ilişkisi bulunan aynı gruba ait imalatçı firmadır.  
+E) Risk analizi, riskin sistematik olarak tanımlanması ve riskin en aza indirilmesi için gerekli olan tüm önlemlerin uygulanması amacıyla veri ve bilgi toplanmasıdır.  
 
 **20-** Gümrük Yönetmeliği'ndeki yolcu tanımına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -266,22 +253,16 @@ E) Gümrük statüsü deyimi, eşyanın menşeinin Türkiye Gümrük Bölgesi ol
 
 *4458 sayılı Gümrük Kanunu md. 3*
 
-**5-** 4458 sayılı Gümrük Kanunu'nda yer alan gümrük vergileri, ithalat vergileri, ihracat vergileri ve yükümlü tanımları çerçevesinde aşağıdaki ifadeler verilmiştir:
+**5-** 4458 sayılı Gümrük Kanunu'ndaki gümrük vergileri, ithalat vergileri, ihracat vergileri, gümrük yükümlülüğü ve yükümlü tanımlarına göre aşağıdakilerden hangisi doğrudur?
 
-I. Gümrük vergileri deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin tümünü ifade eder.  
-II. Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak vergiler ve diğer mali yükler ithalat vergileri kapsamındadır.  
-III. Yükümlü deyimi, gümrük yükümlülüğünü yerine getirmekle sorumlu kişilerden yalnızca beyan sahibini ifade eder.  
-IV. İhracat vergileri, eşyanın ihracatında ödenecek gümrük vergisinden ibaret olup bu vergiyle eş etkili diğer vergiler ve mali yükler ihracat vergileri kapsamında değildir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve IV  
-C) II ve IV  
-D) I, II ve III  
-E) I, II ve IV  
+A) İhracat vergileri, eşyanın ihracatında ödenecek gümrük vergisinin yanı sıra bu vergiyle eş etkili diğer vergileri ve mali yükleri de kapsar.  
+B) Gümrük vergileri deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerini ifade eder; ihracat vergileri bu deyimin kapsamı dışındadır.  
+C) Yükümlü deyimi, gümrük yükümlülüğünü yerine getirmekle sorumlu kişilerden yalnızca beyan sahibini ifade eder.  
+D) Gümrük yükümlülüğü deyimi, yükümlünün gümrük vergilerini teminata bağlaması zorunluluğunu ifade eder.  
+E) Tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak mali yükler ithalat vergileri kapsamı dışındadır.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Kanunu'na göre gümrük vergileri, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin tümüdür (I doğru). İthalat vergileri, eşyanın ithalinde ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yüklerin yanında tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak vergileri ve diğer mali yükleri de kapsar (II doğru). Yükümlü, gümrük yükümlülüğünü yerine getirmekle sorumlu bütün kişilerdir; tanım beyan sahibiyle sınırlı değildir (III yanlış). Gümrük yükümlülüğü de yükümlünün gümrük vergilerini ödemesi zorunluluğu olarak tanımlanır. İhracat vergileri, eşyanın ihracatında ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükleri de kapsar (IV yanlış). En güçlü çeldirici 'I, II ve III' seçeneğidir: III'teki 'yalnızca beyan sahibi' kaydı, Kanundaki 'sorumlu bütün kişiler' ifadesini daraltmaktadır. Bu nedenle doğru cevap A seçeneğidir. (MD 3)
+**Gerekçe:** Gümrük Kanunu'na göre ihracat vergileri, eşyanın ihracatında ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükleri ve tarım ürünlerine özel düzenlemeler çerçevesinde ihracatta alınacak vergileri ve diğer mali yükleri ifade eder; tanım gümrük vergisiyle sınırlı değildir. Gümrük vergileri deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin tümünü ifade eder; ihracat vergileri bu deyimin dışında kalmaz. Yükümlü, gümrük yükümlülüğünü yerine getirmekle sorumlu bütün kişilerdir; tanım beyan sahibiyle sınırlı değildir. İthalat vergileri de eşyanın ithalinde ödenecek gümrük vergisi ve eş etkili yüklerin yanında, tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak vergileri ve diğer mali yükleri kapsar. En güçlü çeldirici gümrük yükümlülüğüne ilişkin seçenektir: Kanun gümrük yükümlülüğünü yükümlünün gümrük vergilerini ödemesi zorunluluğu olarak tanımlar; teminata bağlama ise muhatap kişilerin sorumlulukları arasında 'ödemek veya bunları teminata bağlamak' biçiminde geçer. Bu nedenle doğru cevap A seçeneğidir. (MD 3)
 
 *4458 sayılı Gümrük Kanunu md. 3*
 
@@ -320,12 +301,12 @@ E) Eşyanın gümrüğe terk edilmesi
 
 A) Kayıt yoluyla rejime geçiş  
 B) Elleçleme  
-C) Gümrük antrepo  
+C) Gümrük antrepo rejimi  
 D) Gümrüğe terk  
 E) İmha  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Kanunu'nda gümrük rejimi kapalı bir listeyle sekiz rejim olarak sayılır: serbest dolaşıma giriş, transit, gümrük antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat, hariçte işleme ve ihracat rejimleri. Gümrük antrepo bu listede yer alan bir rejimdir. Kayıt yoluyla rejime geçiş bir rejim değil, Gümrük Yönetmeliği'nde tanımlanan ve beyanın beyanname yerine ticari kayıtlara giriş yoluyla yapıldığı bir rejime geçiş usulüdür. Elleçleme, gümrük gözetimi altındaki eşyanın asli niteliklerini değiştirmeden yapılan işlemlerdir; gümrüğe terk ve imha ise gümrük rejimi değil, gümrükçe onaylanmış işlem veya kullanım türleridir. En güçlü çeldirici, adındaki 'rejim' kelimesi nedeniyle kayıt yoluyla rejime geçiştir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 3; GY 3)
+**Gerekçe:** Gümrük Kanunu'nda gümrük rejimi kapalı bir listeyle sekiz rejim olarak sayılır: serbest dolaşıma giriş, transit, gümrük antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat, hariçte işleme ve ihracat rejimleri. Gümrük antrepo rejimi bu listede açıkça yer alır. Kayıt yoluyla rejime geçiş bir rejim değil, Gümrük Yönetmeliği'nde tanımlanan ve beyanın beyanname yerine ticari kayıtlara giriş yoluyla yapıldığı bir rejime geçiş usulüdür. Elleçleme, gümrük gözetimi altındaki eşyanın asli niteliklerini değiştirmeden yapılan işlemlerdir; gümrüğe terk ve imha ise gümrük rejimi değil, gümrükçe onaylanmış işlem veya kullanım türleridir. En güçlü çeldirici, adındaki 'rejim' kelimesi nedeniyle kayıt yoluyla rejime geçiştir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 3; GY 3)
 
 *4458 sayılı Gümrük Kanunu md. 3*
 
@@ -342,20 +323,18 @@ E) imhası veya gümrüğe terki
 **Doğru Cevap:** D  
 **Gerekçe:** Gümrük Kanunu'na göre gümrük beyanı, belirlenen usul ve esaslar çerçevesinde eşyanın bir gümrük rejimine tabi tutulması talebinde bulunulmasıdır. Gümrükçe onaylanmış işlem veya kullanım daha geniş bir kavramdır; bir gümrük rejimine tabi tutulmanın yanında serbest bölgeye giriş, yeniden ihraç, imha ve gümrüğe terki de kapsar. Bu nedenle imha veya terk talebi gümrük beyanı tanımına girmez. Eşyanın gümrük idaresine ya da gümrükçe uygun görülen bir yere getirilmesi üzerine yapılan bildirim gümrüğe sunma; rejimin öngördüğü amaçlar doğrultusunda ilgilisine teslim ise eşyanın teslimidir. En güçlü çeldirici, gümrük beyanını gümrükçe onaylanmış işlem veya kullanımla özdeş sayan seçenektir. Bu nedenle doğru cevap D seçeneğidir. (MD 3)
 
-*4458 sayılı Gümrük Kanunu md. 3*
+*4458 sayılı Gümrük Kanunu md. 3, 5*
 
-**10-** (A) Ltd. Şti.'nin yurt dışından satın aldığı eşya için serbest dolaşıma giriş rejimine ilişkin gümrük beyanı, gümrük müşaviri (M) tarafından kendi adına ancak (A) Ltd. Şti.'nin hesabına yapılmıştır.
+**10-** 4458 sayılı Gümrük Kanunu'na göre "rejim hak sahibi" deyimi aşağıdakilerden hangisini ifade eder?
 
-4458 sayılı Gümrük Kanunu'ndaki beyan sahibi ve rejim hak sahibi tanımlarına göre bu beyan bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) Beyan sahibi de rejim hak sahibi de (A) Ltd. Şti.'dir.  
-B) Beyan sahibi de rejim hak sahibi de (M)'dir.  
-C) Beyan sahibi (A) Ltd. Şti., rejim hak sahibi (M)'dir.  
-D) Beyan sahibi (M)'dir; (A) Ltd. Şti. ise asıl sorumlu sıfatını taşır.  
-E) Beyan sahibi (M), rejim hak sahibi (A) Ltd. Şti.'dir.  
+A) Kendi adına beyanda bulunan kişi veya adına beyanda bulunulan kişi  
+B) Gümrük işlemlerinde kendi adına, ancak başkasının hesabına hareket eden temsilci  
+C) Gümrük işlemlerinde başkasının adına ve başkasının hesabına hareket eden temsilci  
+D) Kendisine bir izin verilen kişi  
+E) Kendi adına ve hesabına gümrük beyanını yapan veya hesabına gümrük beyanı yapılan kişi  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Kanunu'na göre beyan sahibi, kendi adına beyanda bulunan kişi veya adına beyanda bulunulan kişidir. Olayda gümrük müşaviri (M) beyanı kendi adına yaptığı için beyan sahibidir; beyan (A) Ltd. Şti. adına yapılmadığından şirket beyan sahibi değildir. Rejim hak sahibi ise kendi adına ve hesabına gümrük beyanını yapan veya hesabına gümrük beyanı yapılan kişidir. (M) beyanı kendi adına yapmış ancak kendi hesabına yapmamıştır; beyan (A) Ltd. Şti.'nin hesabına yapıldığından rejim hak sahibi şirkettir. Vakada saklanan nokta, müşavirin beyanı 'kendi adına' vermesidir: beyan şirket adına ve hesabına verilseydi her iki sıfat da şirkete ait olurdu. Asıl sorumlu ise yalnızca transit rejiminde rejim hak sahibini ifade eder; olay serbest dolaşıma giriş rejimine ilişkindir. Bu nedenle doğru cevap E seçeneğidir. (MD 3)
+**Gerekçe:** Gümrük Kanunu'na göre rejim hak sahibi, kendi adına ve hesabına gümrük beyanını yapan veya hesabına gümrük beyanı yapılan kişi ya da bu kişilere ait bir gümrük rejimi ile ilgili hak ve yükümlülüklerin devredildiği kişidir. Tanımda belirleyici olan, beyanın kimin hesabına yapıldığıdır. Kendi adına beyanda bulunan kişi veya adına beyanda bulunulan kişi ise beyan sahibidir. Temsil hükümlerine göre dolaylı temsilde temsilci kendi adına, ancak başkasının hesabına hareket eder; bu durumda beyanı kendi adına veren temsilci beyan sahibi olur, rejim hak sahibi ise hesabına beyan yapılan kişidir. Doğrudan temsilde temsilci başkasının adına ve hesabına hareket ettiğinden beyan, temsil edilen kişinin adına ve hesabına yapılmış olur; temsilci rejim hak sahibi değildir. Kendisine bir izin verilen kişi izin hak sahibidir. Rejim hak sahibi transit rejiminde ayrıca asıl sorumlu olarak adlandırılır. En güçlü çeldirici beyan sahibinin tanımıdır: iki tanımda da 'kendi adına' ifadesi geçer, ancak rejim hak sahibini belirleyen 'hesabına' unsurudur. Bu nedenle doğru cevap E seçeneğidir. (MD 3, 5)
 
 *4458 sayılı Gümrük Kanunu md. 3*
 
@@ -383,7 +362,7 @@ E) Eşyanın teslimi, eşyanın gümrükçe uygun görülen bir yere getirilmesi
 **Doğru Cevap:** C  
 **Gerekçe:** Gümrük Kanunu'na göre eşya, her türlü madde, ürün ve değeri ifade eder; kavram maddi ürünlerle sınırlı değildir. Karar tanımı bağlayıcı tarife ve menşe bilgilerini açıkça kapsar ve gümrük idaresinin bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufunu ifade eder. İzin hak sahibi, kendisine bir izin verilen kişidir; bir gümrük rejimiyle ilgili hak ve yükümlülüklerin devredildiği kişi rejim hak sahibi tanımında yer alır. Risk; önlemlerin doğru uygulanmasını engelleyen, ülkenin mali çıkarlarını tehlikeye düşüren ya da güvenlik ve emniyete, kamu güvenliği ve kamu sağlığına, çevreye veya tüketicilere yönelik tehdit oluşturan bir olayın ortaya çıkma ihtimalidir; yalnızca mali çıkarlarla sınırlı değildir. Eşyanın teslimi ise eşyanın tabi tutulduğu rejimle öngörülen amaçlar doğrultusunda gümrük idarelerince ilgilisine teslimidir; eşyanın getirilmesi üzerine idareye yapılan bildirim gümrüğe sunmadır. En güçlü çeldirici, rejim hak sahibine ait devir unsurunu izin hak sahibine taşıyan seçenektir. Bu nedenle doğru cevap C seçeneğidir. (MD 3)
 
-*4458 sayılı Gümrük Kanunu md. 4*
+*4458 sayılı Gümrük Kanunu md. 4, 225*
 
 **13-** 4458 sayılı Gümrük Kanunu'na göre gümrük idareleriyle muhatap olan kişilerin sorumlulukları arasında aşağıdakilerden hangisi sayılmamıştır?
 
@@ -437,21 +416,16 @@ E) Hububat
 
 *Gümrük Yönetmeliği md. 3*
 
-**17-** Gümrük Yönetmeliği'nde tanımlanan ATA Karnesi, Gümrüklerden Geçiş Karnesi (CPD) ve yetkilendirilmiş yükümlü sertifikasına ilişkin aşağıdaki ifadeler verilmiştir:
+**17-** Gümrük Yönetmeliği'nde yer alan ATA Karnesi, Gümrüklerden Geçiş Karnesi (CPD) ve yetkilendirilmiş yükümlü sertifikası tanımlarına göre aşağıdakilerden hangisi doğrudur?
 
-I. ATA Karnesi, ATA Karneleri Hakkındaki Gümrük Sözleşmesi ile Geçici İthalat Sözleşmesi çerçevesinde düzenlenen belgedir.  
-II. Gümrüklerden Geçiş Karnesi (CPD), ticari ve özel kullanıma mahsus kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen belgedir.  
-III. Yetkilendirilmiş yükümlü sertifikası, ilgili mevzuat uyarınca aranan koşulları sağlayan yükümlülere gümrük mevzuatının öngördüğü basitleştirilmiş uygulamalar ile eşya giriş ve çıkışı sırasında yapılan emniyet ve güvenlik kontrollerine ilişkin kolaylaştırmalardan yararlanmak üzere verilen belgedir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) Yalnız I  
-C) Yalnız III  
-D) I ve II  
-E) I, II ve III  
+A) Gümrüklerden Geçiş Karnesi (CPD), ticari ve özel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde olan belgedir.  
+B) Gümrüklerden Geçiş Karnesi (CPD), kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen ve yalnız Türkiye için geçerli olan belgedir.  
+C) ATA Karnesi, ticari ve özel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde olan belgedir.  
+D) ATA Karnesi, yalnızca Geçici İthalat Sözleşmesi çerçevesinde düzenlenen belgedir; ATA Karneleri Hakkındaki Gümrük Sözleşmesi bu belgenin dayanakları arasında yer almaz.  
+E) Yetkilendirilmiş yükümlü sertifikası, aranan koşulları sağlayan yükümlülere yalnızca basitleştirilmiş uygulamalardan yararlanmak üzere verilir; emniyet ve güvenlik kontrollerine ilişkin kolaylaştırmalar bu belgenin kapsamında değildir.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre ATA Karnesi, ATA Karneleri Hakkındaki Gümrük Sözleşmesi ile Geçici İthalat Sözleşmesi çerçevesinde düzenlenen belgedir (I doğru). Gümrüklerden Geçiş Karnesi (CPD) ise ticari ve özel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde olan belgedir; gümrük idarelerince teminat karşılığında düzenlenmez (II yanlış). Gümrük idarelerince teminat karşılığında düzenlenen belge, geçici ithalat mevzuatındaki yabancı taşıtlar geçici giriş formudur. Yetkilendirilmiş yükümlü sertifikası, ilgili mevzuat uyarınca aranan koşulları sağlayan yükümlülere basitleştirilmiş uygulamalar ile eşya giriş ve çıkışı sırasındaki emniyet ve güvenlik kontrollerine ilişkin kolaylaştırmalardan yararlanmak üzere verilen belgedir (III doğru). En güçlü çeldirici 'I, II ve III' seçeneğidir: CPD'yi verenin kefil kuruluş olduğunu bilmeyen aday II'yi de doğru sayar. Bu nedenle doğru cevap A seçeneğidir. (MD GY 3)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre Gümrüklerden Geçiş Karnesi (CPD), ticari ve özel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde olan belgedir. Kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen ve yalnız Türkiye için geçerli olan belge CPD değil, geçici ithalat mevzuatındaki yabancı taşıtlar geçici giriş formudur. ATA Karnesi ise ATA Karneleri Hakkındaki Gümrük Sözleşmesi ile Geçici İthalat Sözleşmesi çerçevesinde düzenlenen belgedir; Yönetmelikteki tanımında kara taşıtı ve kefil kuruluş unsurları yer almaz ve iki sözleşme birlikte sayılır. Yetkilendirilmiş yükümlü sertifikası, koşulları sağlayan yükümlülere hem gümrük mevzuatının öngördüğü basitleştirilmiş uygulamalardan hem de Türkiye Gümrük Bölgesine eşya giriş ve çıkışı sırasında yapılan emniyet ve güvenlik kontrollerine ilişkin kolaylaştırmalardan yararlanmak üzere verilir. En güçlü çeldirici, CPD'yi gümrük idarelerince teminat karşılığında düzenlenen belge olarak gösteren seçenektir: bu unsurlar yabancı taşıtlar geçici giriş formuna aittir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 3)
 
 *Gümrük Yönetmeliği md. 3*
 
@@ -474,16 +448,16 @@ E) II, III ve IV
 
 *Gümrük Yönetmeliği md. 3; 4458 sayılı Gümrük Kanunu md. 3*
 
-**19-** Gümrük Yönetmeliği'nde tanımlanan kavramlar ile tanımlarının eşleştirilmesine ilişkin aşağıdakilerden hangisi yanlıştır?
+**19-** Gümrük Yönetmeliği'nde yer alan risk analizi, grup ithalatçısı, grup imalatçısı, elektronik veri değişimi ve bilgisayar sistemi tanımlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
-A) Grup ithalatçısı – Aynı gruba ait imalatçı firmaların ithalat işlemlerini gerçekleştiren yine bu gruba ait dış ticaret veya pazarlama şirketi  
-B) Elektronik veri değişimi – Kabul görmüş mesaj standartlarına göre yapılandırılmış verilerin bir bilgisayar sistemi ile diğer bir bilgisayar sistemi arasında elektronik olarak aktarımı  
-C) Bilgisayar sistemi – Gümrük idarelerinde gümrük işlemlerinin yürütüldüğü yerel veya geniş alan ağı ile birbirine bağlı entegre bilgisayar sistemi  
-D) Grup imalatçısı – İdaresi ve murakabesi ve/veya sermayesi bakımından aralarında şirket ilişkisi bulunan aynı gruba ait imalatçı firma  
-E) Risk analizi – Riskin sistematik olarak tanımlanması ve riskin en aza indirilmesi için gerekli olan tüm önlemlerin uygulanması amacıyla veri ve bilgi toplanması  
+A) Grup ithalatçısı, aynı gruba ait imalatçı firmaların ithalat işlemlerini gerçekleştiren yine bu gruba ait dış ticaret veya pazarlama şirketidir.  
+B) Elektronik veri değişimi, kabul görmüş mesaj standartlarına göre yapılandırılmış verilerin bir bilgisayar sistemi ile diğer bir bilgisayar sistemi arasında elektronik olarak aktarımıdır.  
+C) Bilgisayar sistemi, gümrük idarelerinde gümrük işlemlerinin yürütüldüğü yerel veya geniş alan ağı ile birbirine bağlı entegre bilgisayar sistemidir.  
+D) Grup imalatçısı, idaresi ve murakabesi ve/veya sermayesi bakımından aralarında vasıtalı veya vasıtasız şirket ilişkisi bulunan aynı gruba ait imalatçı firmadır.  
+E) Risk analizi, riskin sistematik olarak tanımlanması ve riskin en aza indirilmesi için gerekli olan tüm önlemlerin uygulanması amacıyla veri ve bilgi toplanmasıdır.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre risk analizi, tanımlanmış risklerin ne kadar sıklıkla ortaya çıkabileceğinin ve bunların sonuçlarının büyüklüğünün belirlenmesi için mevcut bilginin sistematik kullanımıdır. Riskin sistematik olarak tanımlanması ve en aza indirilmesi için gerekli tüm önlemlerin uygulanması ise Gümrük Kanunu'ndaki risk yönetimi tanımının amacını oluşturur; yanlış eşleştirme Kanundaki risk yönetimi tanımını Yönetmelikteki risk analizine bağlamıştır. Grup ithalatçısı, grup imalatçısı, elektronik veri değişimi ve bilgisayar sistemi eşleştirmeleri Yönetmelik tanımlarıyla uyumludur. En güçlü tuzak, risk yönetimi tanımının unsurları arasında risk analizinin de sayılmasıdır; risk analizi bu sürecin bir parçasıdır, kendisi değildir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 3; GK 3)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre risk analizi, tanımlanmış risklerin ne kadar sıklıkla ortaya çıkabileceğinin ve bunların sonuçlarının büyüklüğünün belirlenmesi için mevcut bilginin sistematik kullanımıdır. Riskin sistematik olarak tanımlanması ve en aza indirilmesi için gerekli tüm önlemlerin uygulanması amacıyla veri ve bilgi toplanması ise Gümrük Kanunu'ndaki risk yönetimi tanımında yer alır; yanlış ifade, Kanundaki risk yönetimi tanımının amacını ve veri toplama unsurunu Yönetmelikteki risk analizine yüklemiştir. Risk yönetimi; veri ve bilgi toplanmasını, risk analizi ve değerlendirilmesini, alınacak önlemlerin belirlenmesini ve uygulanmasını kapsayan bir süreçtir; risk analizi bu sürecin bir parçasıdır. Grup ithalatçısı, grup imalatçısı, elektronik veri değişimi ve bilgisayar sistemine ilişkin ifadeler Yönetmelik tanımlarıyla uyumludur. En güçlü tuzak, risk yönetimi tanımında risk analizinin de sayılması nedeniyle iki kavramın özdeş sanılmasıdır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 3; GK 3)
 
 *Gümrük Yönetmeliği md. 3*
 
@@ -502,12 +476,12 @@ E) Yabancı bir ülkeden demiryoluyla Türkiye Gümrük Bölgesine gelen yabanc�
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 4 / 2 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
 | Olumsuz kök | 8 |
-| Önermeli | 4 (I, III ve IV, I ve II, I ve III, II ve III) |
-| Vaka, uygulama, hesap | 2 |
-| Tuzaklar | KOMŞU 16, TERİM 9, SAĞDUYU 6, UNSUR 5, LİSTE-DIŞI 4, TERSİNE 3 |
-| İkiz eksen / ayna | 3, 10 / A1: GOİK listesi ↔ gümrük işlemlerinin bitirilmesi |
+| Önermeli | 2 (I, III ve IV, II ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 17, TERİM 10, UNSUR 6, SAĞDUYU 6, TERSİNE 4, LİSTE-DIŞI 4 |
+| İkiz eksen / ayna | 3, 10, 12 / A1: GOİK listesi ↔ gümrük işlemlerinin bitirilmesi |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 10 |
 | Cevap harfleri | A 4 · B 4 · C 4 · D 4 · E 4 |

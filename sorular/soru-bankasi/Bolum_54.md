@@ -14,13 +14,13 @@ C) İlana çıkıldığı tarihteki benzeri ürünlerin rafineri çıkış bedel
 D) Elkonulan akaryakıt ihraç eşyası ise FOB kıymeti, ithal eşyası ise CIF kıymeti ya da varsa mahkemece belirlenmiş değeri  
 E) Rafineride bir önceki ay sonunda oluşan ham petrol/devir maliyet fiyatı  
 
-**2-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'nde yer alan tanımlara göre aşağıdaki kavram ve tanım eşleştirmelerinden hangisi yanlıştır?
+**2-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'nde "5607 sayılı Kanun uyarınca kaçakçılığı önleme, izleme ve araştırmakla görevli olan idare/birim" biçiminde tanımlanan kavram aşağıdakilerden hangisidir?
 
-A) Elkoyma – Yakalanan akaryakıta elkonulması  
-B) Elkoyan/Alıkoyan idare – Akaryakıtı muhafaza etmekle yükümlü il özel idaresi  
-C) Alıkoyma – Taşıtın alıkonulması  
-D) Kurum – Enerji Piyasası Düzenleme Kurumu  
-E) Depolama yeri – Elkonulan eşya veya alıkonulan aracın muhafaza edildiği yerler  
+A) Gümrük idaresi  
+B) Elkoyan/Alıkoyan idare/birim  
+C) Müdahil gümrük idaresi  
+D) Teslim almakla sorumlu idare  
+E) Kurum  
 
 **3-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre elkonulan kaçak akaryakıttan numune alınması ve numunelerin analizine ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -30,19 +30,13 @@ C) Analiz sonuçları, tasfiye ile ilgili kuruma bildirilir.
 D) Numuneler, akaryakıtı muhafaza eden il özel idaresince saklanır.  
 E) Mahkemece yeniden analize sevki veya tedbir alınması istenmeyen numunelerin tasfiye edilmesi için mahkemesinden karar istenir.  
 
-**4-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre kaçak akaryakıtın teslimi ve muhafazasına ilişkin aşağıdaki ifadeler verilmiştir:
+**4-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre kaçak akaryakıtın teslimi ve muhafazasına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Kaçak zannıyla ele geçirilen petrol ürünleri, bunları yakalayan kolluk gücü tarafından en yakın gümrük idaresine teslim edilir.  
-II. Depolama hazırlıkları tamamlanamadığı için il özel idaresine veya yatırım izleme ve koordinasyon başkanlığına teslim edilemeyen LPG, depolama lisanslı firmaların depolarında muhafaza edilir.  
-III. Muhafaza için teslim edilecek uygun yer bulunamayan akaryakıt yediemine teslim edilir.  
-IV. Ulusal marker seviyesi yeterli bulunmayan ancak laboratuvar sonuçlarına göre teknik düzenlemelere uygun olduğu belirlenen akaryakıt, tasfiye kararı verilene kadar ayrı koşullarda saklanır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) II, III ve IV  
-D) I, II ve III  
-E) I, III ve IV  
+A) Depolama hazırlıkları tamamlanamadığı için il özel idaresine veya yatırım izleme ve koordinasyon başkanlığına teslim edilemeyen LPG, depolama lisanslı firmaların depolarında muhafaza edilir.  
+B) Muhafaza için teslim edilecek uygun yer bulunamayan akaryakıt yediemine teslim edilir.  
+C) Kaçak zannıyla ele geçirilen petrol ürünleri, bunları yakalayan kolluk gücü tarafından en yakın gümrük idaresine teslim edilir.  
+D) Ulusal marker seviyesi yeterli bulunmayan ancak laboratuvar sonuçlarına göre teknik düzenlemelere uygun olduğu belirlenen akaryakıt, tasfiye kararı verilene kadar ayrı koşullarda saklanır.  
+E) Ulusal marker kontrolü sonuçlarına itiraz edilmiş ve laboratuvar raporunda marker seviyesinin yeterli görüldüğü belirtilmişse ürün, sahibine teslim edilmek üzere ayrı şartlarda muhafaza edilir.  
 
 **5-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre il özel idaresine veya yatırım izleme ve koordinasyon başkanlığına teslimi mümkün olmayan, muhafazası özel tesis ve tertibat gerektiren ya da bu idarelerin depolama kapasitesini aşan akaryakıtın, fiziki depoları uygun olan kamu kurum ve kuruluşları ile özel kişi ve kuruluşların depolarına teslimi aşağıdakilerden hangisinin onayı ile yapılır?
 
@@ -119,16 +113,11 @@ C) Tahsis kararları il özel idarelerinde genel sekreter ya da görevlendirece�
 D) Tahsisi yapılan akaryakıt, muhafaza edildiği yerden tahsis yapılan birim tarafından otuz gün içerisinde teslim alınır.  
 E) Süresi içinde teslim alınmayan akaryakıta ilişkin tahsis kararı iptal edilmiş sayılır ve başka birime tahsis yapılır.  
 
-**13-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği kapsamında bir olaya ilişkin bilgiler şöyledir:
+**13-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre kara, hava ve deniz hudut kapılarında elkonulan kaçak akaryakıt, aşağıdakilerden hangisine bedelsiz tahsis edilerek tasfiye edilir?
 
-- Bir kara hudut kapısında yapılan kontrolde kaçak motorine elkonulmuştur.  
-- Numune analiz sonuçları motorinin teknik düzenlemelere uygun olduğunu göstermiştir.  
-- Akaryakıt kaçakçılığı ile mücadele eden bir birim, akaryakıtın muhafaza edildiği ildeki bir belediye ve başka ildeki bir kamu kurumu bedelsiz tahsis talebinde bulunmuştur.  
-Buna göre bu motorin ilk olarak aşağıdakilerden hangisine bedelsiz tahsis edilerek tasfiye edilir?  
-
-A) Akaryakıt kaçakçılığı ile mücadele eden birime  
-B) Akaryakıtın muhafaza edildiği ildeki belediyeye  
-C) Başka ildeki kamu kurumuna  
+A) Akaryakıt kaçakçılığı ile mücadele eden kurum veya birimlere  
+B) Akaryakıtın muhafaza edildiği yerdeki kamu kurum ve kuruluşlarına  
+C) Akaryakıtın muhafaza edildiği il dışındaki kamu kurum ve kuruluşlarına  
 D) Akaryakıtı teslim almakla sorumlu il özel idaresine  
 E) Gümrük idarelerine  
 
@@ -170,11 +159,7 @@ C) Teknik düzenlemelere uygun olanlar ilk olarak gümrük idarelerinin kullanı
 D) Gümrük idarelerinin ihtiyacını aşan kısım, kamu kurum ve kuruluşları ile mahalli idarelerin kullanımına bedelsiz tahsis edilir.  
 E) Teknik düzenlemelere uygun olup bedelsiz tahsis edilemeyen akaryakıt, 2886 sayılı Devlet İhale Kanununun açık teklif ve pazarlık usulü emsal alınarak satılır.  
 
-**18-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği kapsamında bir olaya ilişkin bilgiler şöyledir:
-
-- Elkonulan kaçak motorin, teknik düzenlemelere uygun bulunarak bir belediyenin kullanımına bedelsiz tahsis edilmiştir.  
-- Yargılama sonucunda motorinin sahibine iadesine karar verilmiş ve karar kesinleşmiştir.  
-Buna göre hak sahibine yapılacak ödemenin hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?  
+**18-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre bedelsiz tahsis edilmiş akaryakıta ilişkin yargılamanın sonucunda sahibine iadesine karar verilmesi hâlinde, hak sahibine yapılacak ödemenin hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Rafinericiye satış bedeli üzerinden hesaplanacak bedelden vergiler düşülür; kalan tutara elkoyma tarihinden kararın kesinleştiği tarihe kadar kanuni faiz eklenir.  
 B) Toplam satış bedelinden vergiler düşülür; kalan tutara elkoyma tarihinden kararın kesinleştiği tarihe kadar kanuni faiz eklenir.  
@@ -190,19 +175,13 @@ C) Enerji Piyasası Düzenleme Kurumu
 D) Konusuna göre Ticaret Bakanlığı ve Enerji Piyasası Düzenleme Kurumu  
 E) Akaryakıtın muhafaza edildiği ilin valisi  
 
-**20-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'nin dayanağı, hazırlanması, yürürlüğü ve yürütülmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**20-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'nin amacı, dayanağı, hazırlanması, yürürlüğü ve yürütülmesine ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. Yönetmelik, 5015 sayılı Petrol Piyasası Kanunu ve 5607 sayılı Kanun hükümlerine dayanılarak hazırlanmıştır.  
-II. Yönetmelik, Ticaret Bakanlığı ile Enerji Piyasası Düzenleme Kurumu tarafından müştereken hazırlanmıştır.  
-III. Yönetmelik hükümlerini Ticaret ve İçişleri Bakanları yürütür.  
-IV. Yönetmelik, Resmî Gazete'de yayımlandığı tarihte yürürlüğe girmiştir.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) I ve II  
-B) III ve IV  
-C) II ve IV  
-D) I, II ve IV  
-E) II, III ve IV  
+A) Yönetmelik, 5015 sayılı Petrol Piyasası Kanunu ve 5607 sayılı Kanun hükümlerine dayanılarak hazırlanmıştır.  
+B) Yönetmelik hükümlerini Ticaret ve İçişleri Bakanları yürütür.  
+C) Yönetmelik, Ticaret Bakanlığı ile Enerji Piyasası Düzenleme Kurumu tarafından müştereken hazırlanmıştır.  
+D) Yönetmelik 1/4/2014 tarihinde yürürlüğe girmiştir.  
+E) Yönetmeliğin amacı, elkonulan kaçak akaryakıtın muhafazası, depolanması, yüklenmesi, boşaltılması, nakliyesi ve tasfiyesi ile bu işlemlere ilişkin giderlerin karşılanmasına ilişkin usul ve esasları belirlemektir.  
 
 ### Cevap Anahtarı
 
@@ -227,16 +206,16 @@ E) Rafineride bir önceki ay sonunda oluşan ham petrol/devir maliyet fiyatı
 
 *Elkonulan Akaryakıt Uygulama Yönetmeliği md. 3*
 
-**2-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'nde yer alan tanımlara göre aşağıdaki kavram ve tanım eşleştirmelerinden hangisi yanlıştır?
+**2-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'nde "5607 sayılı Kanun uyarınca kaçakçılığı önleme, izleme ve araştırmakla görevli olan idare/birim" biçiminde tanımlanan kavram aşağıdakilerden hangisidir?
 
-A) Elkoyma – Yakalanan akaryakıta elkonulması  
-B) Elkoyan/Alıkoyan idare – Akaryakıtı muhafaza etmekle yükümlü il özel idaresi  
-C) Alıkoyma – Taşıtın alıkonulması  
-D) Kurum – Enerji Piyasası Düzenleme Kurumu  
-E) Depolama yeri – Elkonulan eşya veya alıkonulan aracın muhafaza edildiği yerler  
+A) Gümrük idaresi  
+B) Elkoyan/Alıkoyan idare/birim  
+C) Müdahil gümrük idaresi  
+D) Teslim almakla sorumlu idare  
+E) Kurum  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Yönetmelikte elkoyan/alıkoyan idare veya birim, 5607 sayılı Kanun uyarınca kaçakçılığı önleme, izleme ve araştırmakla görevli olan idare veya birim olarak tanımlanmıştır. Elkonulan akaryakıtı kolluk gücünden teslim alıp analiz sonuçları gelinceye kadar saklamakla yükümlü olan il özel idaresi (il özel idaresi bulunmayan yerlerde yatırım izleme ve koordinasyon başkanlığı) ise elkoyan idare değildir. Diğer eşleştirmeler tanımlarla uyumludur: elkoyma yakalanan akaryakıta elkonulmasını, alıkoyma taşıtın alıkonulmasını, Kurum Enerji Piyasası Düzenleme Kurumunu, depolama yeri elkonulan eşya veya alıkonulan aracın muhafaza edildiği yerleri ifade eder. Elkoyma akaryakıta, alıkoyma taşıta ilişkindir; bu ikili ayrıca karıştırılmamalıdır. Bu nedenle doğru cevap B seçeneğidir. (MD 3, 5)
+**Gerekçe:** Yönetmelikte elkoyan/alıkoyan idare/birim, 5607 sayılı Kanun uyarınca kaçakçılığı önleme, izleme ve araştırmakla görevli olan idare veya birim olarak tanımlanmıştır. Akaryakıtı yakalama yerinde kolluk gücünden teslim alıp analiz sonuçları gelinceye kadar saklamakla yükümlü olan il özel idaresi (il özel idaresi bulunmayan yerlerde yatırım izleme ve koordinasyon başkanlığı) teslim almakla sorumlu idaredir; elkoyan idare değildir. Gümrük idaresi, gümrük mevzuatında belirtilen işlemlerin kısmen veya tamamen yerine getirildiği merkez veya taşra teşkilatındaki hiyerarşik yönetim birimlerinin tamamı; Kurum ise Enerji Piyasası Düzenleme Kurumu olarak tanımlanmıştır. Müdahil gümrük idaresi, numunelerin bir adedinin gönderildiği ve muhafazada bozulma veya yok olma hâllerinin bildirildiği idaredir. En güçlü çeldirici 'Teslim almakla sorumlu idare'dir: akaryakıtı fiilen elinde tutan idareyi elkoyan idareyle karıştıran aday bunu seçer. Bu nedenle doğru cevap B seçeneğidir. (MD 3, 4, 5, 16)
 
 *Elkonulan Akaryakıt Uygulama Yönetmeliği md. 4, 5*
 
@@ -253,22 +232,16 @@ E) Mahkemece yeniden analize sevki veya tedbir alınması istenmeyen numunelerin
 
 *Elkonulan Akaryakıt Uygulama Yönetmeliği md. 5, 6*
 
-**4-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre kaçak akaryakıtın teslimi ve muhafazasına ilişkin aşağıdaki ifadeler verilmiştir:
+**4-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre kaçak akaryakıtın teslimi ve muhafazasına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Kaçak zannıyla ele geçirilen petrol ürünleri, bunları yakalayan kolluk gücü tarafından en yakın gümrük idaresine teslim edilir.  
-II. Depolama hazırlıkları tamamlanamadığı için il özel idaresine veya yatırım izleme ve koordinasyon başkanlığına teslim edilemeyen LPG, depolama lisanslı firmaların depolarında muhafaza edilir.  
-III. Muhafaza için teslim edilecek uygun yer bulunamayan akaryakıt yediemine teslim edilir.  
-IV. Ulusal marker seviyesi yeterli bulunmayan ancak laboratuvar sonuçlarına göre teknik düzenlemelere uygun olduğu belirlenen akaryakıt, tasfiye kararı verilene kadar ayrı koşullarda saklanır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) II, III ve IV  
-D) I, II ve III  
-E) I, III ve IV  
+A) Depolama hazırlıkları tamamlanamadığı için il özel idaresine veya yatırım izleme ve koordinasyon başkanlığına teslim edilemeyen LPG, depolama lisanslı firmaların depolarında muhafaza edilir.  
+B) Muhafaza için teslim edilecek uygun yer bulunamayan akaryakıt yediemine teslim edilir.  
+C) Kaçak zannıyla ele geçirilen petrol ürünleri, bunları yakalayan kolluk gücü tarafından en yakın gümrük idaresine teslim edilir.  
+D) Ulusal marker seviyesi yeterli bulunmayan ancak laboratuvar sonuçlarına göre teknik düzenlemelere uygun olduğu belirlenen akaryakıt, tasfiye kararı verilene kadar ayrı koşullarda saklanır.  
+E) Ulusal marker kontrolü sonuçlarına itiraz edilmiş ve laboratuvar raporunda marker seviyesinin yeterli görüldüğü belirtilmişse ürün, sahibine teslim edilmek üzere ayrı şartlarda muhafaza edilir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Yönetmeliğe göre kaçak zannıyla ele geçirilen petrol ürünleri, Kaçak Akaryakıt Tespit ve Elkoyma Tutanağı ile birlikte ele geçirilen mahallin bağlı olduğu il özel idaresine, il özel idaresi bulunmayan yerlerde yatırım izleme ve koordinasyon başkanlığına, yakalayan kolluk gücü tarafından yakalama yerinde teslim edilir; gümrük idaresine teslim söz konusu değildir (I yanlış). LPG'nin teslimi öncelikle il özel idaresine veya yatırım izleme ve koordinasyon başkanlığına yapılır; depolama hazırlıkları tamamlanamadığı için buralara teslim edilemeyen LPG, depolama lisanslı firmaların depolarında tutanak karşılığı muhafaza edilir (II doğru). Teslim edilecek uygun yer bulunamayan akaryakıt yediemine teslim edilir (III doğru). Ulusal marker seviyesi yeterli bulunmayan ancak laboratuvar sonuçlarına göre teknik düzenlemelere uygun olan ürünler tasfiye kararı verilene kadar ayrı koşullarda saklanmaya devam edilir (IV doğru). I'deki gümrük idaresi, numunelerin bir adedinin gönderildiği müdahil gümrük idaresiyle karıştırılmamalıdır. Bu nedenle doğru cevap C seçeneğidir. (MD 4, 5, 6)
+**Gerekçe:** Yönetmeliğe göre kaçak zannıyla ele geçirilen petrol ürünleri, Kaçak Akaryakıt Tespit ve Elkoyma Tutanağı ile birlikte ele geçirilen mahallin bağlı olduğu il özel idaresine, il özel idaresi bulunmayan yerlerde yatırım izleme ve koordinasyon başkanlığına, yakalayan kolluk gücü tarafından yakalama yerinde teslim edilir; gümrük idaresine teslim söz konusu değildir. LPG'nin teslimi öncelikle il özel idaresine veya yatırım izleme ve koordinasyon başkanlığına yapılır; depolama hazırlıkları tamamlanamadığı için buralara teslim edilemeyen LPG, depolama lisanslı firmaların depolarında tutanak karşılığı muhafaza edilir. Teslim edilecek uygun yer bulunamayan akaryakıt yediemine teslim edilir. Ulusal marker seviyesi yeterli bulunmayan ancak laboratuvar sonuçlarına göre teknik düzenlemelere uygun olan ürünler tasfiye kararı verilene kadar ayrı koşullarda saklanır; marker kontrolüne itiraz edilip laboratuvar raporunda marker seviyesi yeterli bulunan ürün ise sahibine teslim edilmek üzere ayrı şartlarda muhafaza edilir. Yanlış ifade komşu rejimden taşınmıştır: kaçak zannıyla elkonulan eşyanın öncelikle en yakın gümrük idaresine teslimi, akaryakıt dışındaki eşya için Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliğinde öngörülen kuraldır; akaryakıtta ise gümrük idaresi yalnızca numunelerin bir adedinin gönderildiği müdahil idaredir. En güçlü çeldirici LPG'ye ilişkin ifadedir: lisanslı depolar LPG için yalnızca ikincil muhafaza yeridir ve ifade bu kaydı doğru biçimde taşır. Bu nedenle doğru cevap C seçeneğidir. (MD 4, 5, 6)
 
 *Elkonulan Akaryakıt Uygulama Yönetmeliği md. 5*
 
@@ -387,21 +360,16 @@ E) Süresi içinde teslim alınmayan akaryakıta ilişkin tahsis kararı iptal e
 
 *Elkonulan Akaryakıt Uygulama Yönetmeliği md. 16*
 
-**13-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği kapsamında bir olaya ilişkin bilgiler şöyledir:
+**13-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre kara, hava ve deniz hudut kapılarında elkonulan kaçak akaryakıt, aşağıdakilerden hangisine bedelsiz tahsis edilerek tasfiye edilir?
 
-- Bir kara hudut kapısında yapılan kontrolde kaçak motorine elkonulmuştur.  
-- Numune analiz sonuçları motorinin teknik düzenlemelere uygun olduğunu göstermiştir.  
-- Akaryakıt kaçakçılığı ile mücadele eden bir birim, akaryakıtın muhafaza edildiği ildeki bir belediye ve başka ildeki bir kamu kurumu bedelsiz tahsis talebinde bulunmuştur.  
-Buna göre bu motorin ilk olarak aşağıdakilerden hangisine bedelsiz tahsis edilerek tasfiye edilir?  
-
-A) Akaryakıt kaçakçılığı ile mücadele eden birime  
-B) Akaryakıtın muhafaza edildiği ildeki belediyeye  
-C) Başka ildeki kamu kurumuna  
+A) Akaryakıt kaçakçılığı ile mücadele eden kurum veya birimlere  
+B) Akaryakıtın muhafaza edildiği yerdeki kamu kurum ve kuruluşlarına  
+C) Akaryakıtın muhafaza edildiği il dışındaki kamu kurum ve kuruluşlarına  
 D) Akaryakıtı teslim almakla sorumlu il özel idaresine  
 E) Gümrük idarelerine  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Yönetmeliğe göre elkonulan kaçak akaryakıt kural olarak öncelik sırasına göre akaryakıt kaçakçılığı ile mücadele eden kurum veya birimlere, akaryakıtın muhafaza edildiği yerdeki kamu kurum ve kuruluşlarına veya mahalli idarelere, son olarak il dışındaki diğer kamu kurum ve kuruluşları ile mahalli idarelere kullanım amacıyla bedelsiz tahsis edilir. Ancak kara, hava ve deniz hudut kapılarında elkonulan kaçak akaryakıt gümrük idarelerine bedelsiz tahsis edilerek tasfiye edilir; ihtiyaç fazlası olursa kamu kurum ve kuruluşları ile mahalli idarelerin kullanımına tahsis edilir. Vakadaki saklı istisna, elkoymanın hudut kapısında yapılmasıdır. En güçlü çeldirici, genel öncelik sırasında birinci sırada bulunan akaryakıt kaçakçılığı ile mücadele eden birimdir. İl özel idaresi ise akaryakıtı teslim alan ve tahsis komisyonunu oluşturan idaredir, tahsisten yararlanan değildir. Bu nedenle doğru cevap E seçeneğidir. (MD 16)
+**Gerekçe:** Yönetmeliğe göre elkonulan kaçak akaryakıt kural olarak öncelik sırasına göre akaryakıt kaçakçılığı ile mücadele eden kurum veya birimlere, akaryakıtın muhafaza edildiği yerdeki kamu kurum ve kuruluşlarına veya mahalli idarelere, son olarak il dışındaki diğer kamu kurum ve kuruluşları ile mahalli idarelere kullanım amacıyla bedelsiz tahsis edilir. Ancak kara, hava ve deniz hudut kapılarında elkonulan kaçak akaryakıt gümrük idarelerine bedelsiz tahsis edilerek tasfiye edilir; ihtiyaç fazlası olursa kamu kurum ve kuruluşları ile mahalli idarelerin kullanımına tahsis edilir. Sorudaki tuzak genel öncelik sırasıdır: bu sıranın başında akaryakıt kaçakçılığı ile mücadele eden kurum veya birimler bulunur, hudut kapısında elkoyma ise bu sıranın istisnasıdır. Muhafaza edildiği yerdeki ve il dışındaki kamu kurum ve kuruluşları genel sıranın ikinci ve üçüncü basamaklarıdır; il özel idaresi ise akaryakıtı teslim alan ve tahsis komisyonunu oluşturan idaredir, tahsisten yararlanan değildir. Bu nedenle doğru cevap E seçeneğidir. (MD 16)
 
 *Elkonulan Akaryakıt Uygulama Yönetmeliği md. 17*
 
@@ -463,11 +431,7 @@ E) Teknik düzenlemelere uygun olup bedelsiz tahsis edilemeyen akaryakıt, 2886 
 
 *Elkonulan Akaryakıt Uygulama Yönetmeliği md. 20*
 
-**18-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği kapsamında bir olaya ilişkin bilgiler şöyledir:
-
-- Elkonulan kaçak motorin, teknik düzenlemelere uygun bulunarak bir belediyenin kullanımına bedelsiz tahsis edilmiştir.  
-- Yargılama sonucunda motorinin sahibine iadesine karar verilmiş ve karar kesinleşmiştir.  
-Buna göre hak sahibine yapılacak ödemenin hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?  
+**18-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'ne göre bedelsiz tahsis edilmiş akaryakıta ilişkin yargılamanın sonucunda sahibine iadesine karar verilmesi hâlinde, hak sahibine yapılacak ödemenin hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Rafinericiye satış bedeli üzerinden hesaplanacak bedelden vergiler düşülür; kalan tutara elkoyma tarihinden kararın kesinleştiği tarihe kadar kanuni faiz eklenir.  
 B) Toplam satış bedelinden vergiler düşülür; kalan tutara elkoyma tarihinden kararın kesinleştiği tarihe kadar kanuni faiz eklenir.  
@@ -476,7 +440,7 @@ D) Rafinericiye satış bedeli üzerinden hesaplanacak bedelden vergiler düşü
 E) Akaryakıtın CIF kıymetinden vergiler düşülür; kalan tutara elkoyma tarihinden kararın kesinleştiği tarihe kadar kanuni faiz eklenir.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Yönetmeliğe göre tahsis edilmiş akaryakıta ilişkin yargılamanın sonucunda sahibine iadesine karar verilmesi hâlinde; benzin, motorin türleri, gaz yağı, jet yakıtı ile nafta ve solvent türlerinde rafineride bir önceki ay sonunda oluşan ham petrol/devir maliyet fiyatından, diğer ürünlerde ise yüzde altmışından az olmayan rafinericiye satış bedeli üzerinden hesaplanacak bedelden vergiler düşülür; kalan tutar, elkoyma tarihinden kararın kesinleştiği tarihe kadar geçen süre için kanuni faiz eklenerek ilgili il özel idaresi veya yatırım izleme ve koordinasyon başkanlığı bütçesinden hak sahibine ödenir. Vakadaki saklı nokta akaryakıtın satılmamış, tahsis edilmiş olmasıdır: toplam satış bedelinden vergilerin düşülmesi, satılarak bedeli bütçeye gelir kaydedilen akaryakıtın iadesine ilişkin komşu hükümdür. Faiz tahsis veya tebliğ tarihine göre değil, elkoyma tarihinden kararın kesinleştiği tarihe kadar işletilir; CIF kıymeti ise muhafaza ücretinin hesaplandığı değerdir. Bu nedenle doğru cevap A seçeneğidir. (MD 3, 8, 20)
+**Gerekçe:** Yönetmeliğe göre tahsis edilmiş akaryakıta ilişkin yargılamanın sonucunda sahibine iadesine karar verilmesi hâlinde; benzin, motorin türleri, gaz yağı, jet yakıtı ile nafta ve solvent türlerinde rafineride bir önceki ay sonunda oluşan ham petrol/devir maliyet fiyatından, diğer ürünlerde ise yüzde altmışından az olmayan rafinericiye satış bedeli üzerinden hesaplanacak bedelden vergiler düşülür; kalan tutar, elkoyma tarihinden kararın kesinleştiği tarihe kadar geçen süre için kanuni faiz eklenerek ilgili il özel idaresi veya yatırım izleme ve koordinasyon başkanlığı bütçesinden hak sahibine ödenir. Sorudaki tuzak akaryakıtın satılmamış, tahsis edilmiş olmasıdır: toplam satış bedelinden vergilerin düşülmesi, satılarak bedeli bütçeye gelir kaydedilen akaryakıtın iadesine ilişkin komşu hükümdür. Faiz tahsis veya tebliğ tarihine göre değil, elkoyma tarihinden kararın kesinleştiği tarihe kadar işletilir; kararın sahibine tebliği iade kararında muhafaza süresinin bitişine esas alınan andır. CIF kıymeti ise ithal eşyasında kaçak akaryakıtın değeridir ve muhafaza ücretinin hesaplandığı tutardır. Bu nedenle doğru cevap A seçeneğidir. (MD 3, 8, 20)
 
 *Elkonulan Akaryakıt Uygulama Yönetmeliği md. 21*
 
@@ -491,33 +455,27 @@ E) Akaryakıtın muhafaza edildiği ilin valisi
 **Doğru Cevap:** B  
 **Gerekçe:** Yönetmeliğe göre Yönetmelik ile yapılan düzenlemelere ilişkin öngörülmeyen durumların ortaya çıkması hâlinde bunları inceleyip sonuçlandırmaya, konusuna göre Ticaret ve İçişleri Bakanlıkları yetkilidir. Hükmün önceki hâlinde Hazine ve Maliye Bakanlığı da sayılıyordu; bu ibare 18.01.2024 tarihli ve 32433 sayılı Resmî Gazete'de yayımlanan değişiklikle çıkarılmıştır. 2021 sınavında bu bilgi sorulduğunda resmî cevap, o tarihteki metne göre üç bakanlığı içeriyordu; güncel metne göre yetkili yalnızca Ticaret ve İçişleri Bakanlıklarıdır. Enerji Piyasası Düzenleme Kurumu Yönetmelik hazırlanırken görüşü alınan kurumdur, yetki hükmünde yer almaz; vali ise akaryakıtın başka depolara tesliminde onay makamıdır. Bu nedenle doğru cevap B seçeneğidir. (MD 5, 21, 22)
 
-*Elkonulan Akaryakıt Uygulama Yönetmeliği md. 2, 22, 23*
+*Elkonulan Akaryakıt Uygulama Yönetmeliği md. 1, 2, 22, 23*
 
-**20-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'nin dayanağı, hazırlanması, yürürlüğü ve yürütülmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**20-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği'nin amacı, dayanağı, hazırlanması, yürürlüğü ve yürütülmesine ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. Yönetmelik, 5015 sayılı Petrol Piyasası Kanunu ve 5607 sayılı Kanun hükümlerine dayanılarak hazırlanmıştır.  
-II. Yönetmelik, Ticaret Bakanlığı ile Enerji Piyasası Düzenleme Kurumu tarafından müştereken hazırlanmıştır.  
-III. Yönetmelik hükümlerini Ticaret ve İçişleri Bakanları yürütür.  
-IV. Yönetmelik, Resmî Gazete'de yayımlandığı tarihte yürürlüğe girmiştir.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) I ve II  
-B) III ve IV  
-C) II ve IV  
-D) I, II ve IV  
-E) II, III ve IV  
+A) Yönetmelik, 5015 sayılı Petrol Piyasası Kanunu ve 5607 sayılı Kanun hükümlerine dayanılarak hazırlanmıştır.  
+B) Yönetmelik hükümlerini Ticaret ve İçişleri Bakanları yürütür.  
+C) Yönetmelik, Ticaret Bakanlığı ile Enerji Piyasası Düzenleme Kurumu tarafından müştereken hazırlanmıştır.  
+D) Yönetmelik 1/4/2014 tarihinde yürürlüğe girmiştir.  
+E) Yönetmeliğin amacı, elkonulan kaçak akaryakıtın muhafazası, depolanması, yüklenmesi, boşaltılması, nakliyesi ve tasfiyesi ile bu işlemlere ilişkin giderlerin karşılanmasına ilişkin usul ve esasları belirlemektir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Yönetmelik, 5015 sayılı Petrol Piyasası Kanunu ve 5607 sayılı Kanun hükümlerine dayanılarak hazırlanmıştır (I doğru). Yönetmelik, Enerji Piyasası Düzenleme Kurumunun görüşü alınarak Ticaret Bakanlığı ile İçişleri Bakanlığı tarafından müştereken hazırlanmıştır; Kurum hazırlayan değil, görüşü alınan kurumdur (II yanlış). Yönetmelik hükümlerini Ticaret ve İçişleri Bakanları yürütür (III doğru). Yönetmelik 26.03.2014 tarihli Resmî Gazete'de yayımlanmış, 1/4/2014 tarihinde yürürlüğe girmiştir; yayım ve yürürlük tarihleri farklıdır (IV yanlış). En güçlü tuzak II'dir: Kurumun görüş verme rolü müşterek hazırlama sanılır. Bu nedenle doğru cevap C seçeneğidir. (MD 2, 22, 23)
+**Gerekçe:** Yönetmelik, 5607 sayılı Kanun uyarınca elkonulan kaçak akaryakıtın muhafazası, depolanması, yüklenmesi, boşaltılması, nakliyesi ve tasfiyesi ile bu işlemlere ilişkin giderlerin karşılanmasına ilişkin usul ve esasları belirlemek amacıyla, 5015 sayılı Petrol Piyasası Kanunu ve 5607 sayılı Kanun hükümlerine dayanılarak hazırlanmıştır. Yönetmelik, Enerji Piyasası Düzenleme Kurumunun görüşü alınarak Ticaret Bakanlığı ile İçişleri Bakanlığı tarafından müştereken hazırlanmış, 26.03.2014 tarihli Resmî Gazete'de yayımlanmış ve 1/4/2014 tarihinde yürürlüğe girmiştir; hükümlerini Ticaret ve İçişleri Bakanları yürütür. Söylenemeyecek ifade, görüşü alınan Kurumu hazırlayan makam yerine koymuş ve İçişleri Bakanlığını düşürmüştür; Kurum hazırlayan değil, görüşü alınan kurumdur. En güçlü çeldirici yürürlük tarihine ilişkin ifadedir: yayım ve yürürlük tarihlerinin aynı olduğunu sanan aday bu ifadeyi yanlış sayar, oysa Yönetmelik yayımından sonraki 1/4/2014 tarihinde yürürlüğe girmiştir. Bu nedenle doğru cevap C seçeneğidir. (MD 1, 2, 22, 23)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
 | Olumsuz kök | 7 |
-| Önermeli | 4 (II, III ve IV, I ve II, I, II, III ve IV, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
+| Önermeli | 2 (I ve II, I, II, III ve IV) |
+| Vaka, uygulama, hesap | 1 |
 | Tuzaklar | KOMŞU 18, MAKAM 6, BAŞLANGIÇ 4, SAĞDUYU 4, YAKIN-SAYI 4, TERİM 3 |
 | İkiz eksen / ayna | — / A1: teknik düzenlemeye uygun akaryakıtın satış ihalesi ↔ uygun olmayan akaryakıtın rafinericiye satışı, A2: masrafların başlangıcı (elkoyma anı) ↔ muhafaza süresinin başlangıcı (teslim tarihi) |
 | Güncellik | 18.01.2024 / 32433 R.G.; 18.01.2024 / 32433 R.G. |

@@ -26,19 +26,13 @@ C) 54.000 TL
 D) 70.000 TL  
 E) 162.000 TL  
 
-**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin toplu teminata ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin toplu teminata ilişkin hükümlerine göre aşağıdakilerden hangisi söylenemez?
 
-I. Toplu teminat verilmesine, gümrük idarelerince ilgilinin talebi aranmaksızın re'sen izin verilir.  
-II. Bir gümrük idaresine verilen toplu teminat, takip edilebilir olması hâlinde diğer gümrük idarelerinde de geçerli olur.  
-III. Zaman içinde değişkenlik gösteren gümrük vergileri için verilen toplu teminatın tutarı, bu vergilerin teminatın verildiği tarihteki tutarı esas alınarak sabit olarak belirlenir.  
-IV. Toplu teminat, Müsteşarlıkça belirlenen usullere uygun olarak elektronik ortamda kayda alınan veriler üzerinden takip edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) III ve IV  
-C) I, II ve IV  
-D) II, III ve IV  
-E) II ve IV  
+A) Gümrük idareleri, ilgililerin talebi üzerine, bir gümrük yükümlülüğünü gerektiren veya gerektirebilecek iki veya daha fazla işlemi kapsamak üzere toplu teminat verilmesine izin verir.  
+B) Bir gümrük idaresine verilen toplu teminat, takip edilebilir olması hâlinde diğer gümrük idarelerinde de geçerlidir.  
+C) Toplu teminatın takibi, Müsteşarlıkça belirlenen usullere uygun olarak elektronik ortamda kayda alınan veriler üzerinden yapılır.  
+D) Toplu teminat sisteminden yararlanmak için ibraz edilen teminat mektupları, Ek-77/B'de yer alan örneğe uygun görülmeleri durumunda kabul edilir.  
+E) Zaman içinde değişkenlik gösteren gümrük vergileri için verilen toplu teminat tutarları, bu vergilerin teminatın verildiği tarihte kesin olarak tespit edilen tutarı esas alınarak sabit olarak belirlenir.  
 
 **4-** 4458 sayılı Gümrük Kanunu'na göre teminatın değerlendirilmesi, tamamlanması ve çözülmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -231,24 +225,18 @@ E) 162.000 TL
 **Doğru Cevap:** D  
 **Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre teminat, gümrük vergileri ve diğer amme alacakları tutarı kadar verilir. Teminat tutarı, teminata konu gümrük vergileri tutarının kesin olarak tespiti hâlinde bu miktar, diğer hâllerde ise tahakkuk edilen veya edilebilecek gümrük vergilerinin en yüksek tutarı esas alınarak belirlenir. Olayda vergiler kesin olarak tespit edilememiştir; bu nedenle tahakkuk edebilecek üç tutardan en yükseği olan 70.000 TL teminat tutarıdır. Vakaya saklanan nokta 'kesin olarak tespit edilememe' koşuludur: aday en düşük tutarı (40.000 TL) ya da ortalamayı (54.000 TL) seçerek teminatın muhtemel vergiyi karşılamayacağını gözden kaçırır. 7.000 TL, götürü teminatta kullanılan yüzde on oranının bu olaya yanlış taşınmasıyla, 162.000 TL ise olası tutarların toplanmasıyla bulunur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 202, 204)
 
-*4458 sayılı Gümrük Kanunu md. 203, 204; Gümrük Yönetmeliği md. 493*
+*4458 sayılı Gümrük Kanunu md. 203, 204; Gümrük Yönetmeliği md. 493, 497*
 
-**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin toplu teminata ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin toplu teminata ilişkin hükümlerine göre aşağıdakilerden hangisi söylenemez?
 
-I. Toplu teminat verilmesine, gümrük idarelerince ilgilinin talebi aranmaksızın re'sen izin verilir.  
-II. Bir gümrük idaresine verilen toplu teminat, takip edilebilir olması hâlinde diğer gümrük idarelerinde de geçerli olur.  
-III. Zaman içinde değişkenlik gösteren gümrük vergileri için verilen toplu teminatın tutarı, bu vergilerin teminatın verildiği tarihteki tutarı esas alınarak sabit olarak belirlenir.  
-IV. Toplu teminat, Müsteşarlıkça belirlenen usullere uygun olarak elektronik ortamda kayda alınan veriler üzerinden takip edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) III ve IV  
-C) I, II ve IV  
-D) II, III ve IV  
-E) II ve IV  
+A) Gümrük idareleri, ilgililerin talebi üzerine, bir gümrük yükümlülüğünü gerektiren veya gerektirebilecek iki veya daha fazla işlemi kapsamak üzere toplu teminat verilmesine izin verir.  
+B) Bir gümrük idaresine verilen toplu teminat, takip edilebilir olması hâlinde diğer gümrük idarelerinde de geçerlidir.  
+C) Toplu teminatın takibi, Müsteşarlıkça belirlenen usullere uygun olarak elektronik ortamda kayda alınan veriler üzerinden yapılır.  
+D) Toplu teminat sisteminden yararlanmak için ibraz edilen teminat mektupları, Ek-77/B'de yer alan örneğe uygun görülmeleri durumunda kabul edilir.  
+E) Zaman içinde değişkenlik gösteren gümrük vergileri için verilen toplu teminat tutarları, bu vergilerin teminatın verildiği tarihte kesin olarak tespit edilen tutarı esas alınarak sabit olarak belirlenir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre gümrük idareleri, teminat vermesi gereken kişilerin talebi üzerine, bir gümrük yükümlülüğünü gerektiren veya gerektirebilecek iki veya daha fazla işlemi kapsamak üzere toplu teminat verilmesine izin verir; izin re'sen değil talep üzerine verildiğinden I yanlıştır. Gümrük Yönetmeliği'ne göre toplu teminat, takip edilebilir olması hâlinde diğer gümrük idarelerinde de geçerlidir (II doğru). Kanuna göre zaman içinde değişkenlik gösteren gümrük vergileri için verilen toplu teminat tutarları, bu vergileri her zaman karşılayabilecek biçimde belirlenir; teminatın verildiği tarihteki tutarla sabitlenmez, III yanlıştır. Toplu teminatın takibi, Müsteşarlıkça belirlenen usullere uygun olarak elektronik ortamda kayda alınan veriler üzerinden yapılır (IV doğru). En güçlü çeldirici III'tür: Kanun teminat tutarı için kesin tespit edilen miktarı esas alırken toplu teminatta değişken vergiler için ayrıca 'her zaman karşılama' ölçütü koyar. Bu nedenle doğru cevap E seçeneğidir. (MD GK 203, 204; GY 493)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre zaman içinde değişkenlik gösteren gümrük vergileri için verilen toplu teminat tutarları, söz konusu gümrük vergilerini her zaman karşılayabilecek biçimde belirlenir; tutar, teminatın verildiği tarihte kesin olarak tespit edilen vergiyle sabitlenmez. Bu nedenle değişken vergilerde sabit tutar öngören ifade söylenemez. Kesin olarak tespit edilen vergi tutarının esas alınması, aynı fıkranın ilk cümlesinde teminat tutarının belirlenmesine ilişkin genel kuraldır; değişken vergiler için toplu teminatta ayrıca 'her zaman karşılama' ölçütü konmuştur. Diğer ifadeler metinle uyumludur: Kanuna göre gümrük idareleri, ilgililerin talebi üzerine bir gümrük yükümlülüğünü gerektiren veya gerektirebilecek iki veya daha fazla işlemi kapsamak üzere toplu teminat verilmesine izin verir. Gümrük Yönetmeliği'ne göre toplu teminat, takip edilebilir olması hâlinde diğer gümrük idarelerinde de geçerlidir; takibi Müsteşarlıkça belirlenen usullere uygun olarak elektronik ortamda kayda alınan veriler üzerinden yapılır; toplu teminat sisteminden yararlanmak için ibraz edilen teminat mektupları Ek-77/B'deki örneğe uygun görülmeleri durumunda kabul edilir. Tuzak, komşu cümledeki 'kesin olarak tespit' ölçütünün toplu teminata taşınmasıdır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 203, 204; GY 493, 497)
 
 *4458 sayılı Gümrük Kanunu md. 205, 206*
 
@@ -319,7 +307,7 @@ D) II, III ve IV
 E) I, II, III ve IV  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre götürü teminat, 4760 sayılı Özel Tüketim Vergisi Kanununun ekindeki (I) sayılı listede yer alan eşyaya ilişkin kamu alacakları hariç, eşyanın gümrükçe onaylanmış işlem veya kullanıma tabi tutulmasına ilişkin tüm kamu alacakları için geçerlidir (I doğru). Götürü teminatın asgari ve azami tutarları Avro olarak belirlenmiştir; teminat bu miktarlar karşılığı Türk Lirası olarak da verilebilir (II doğru). Bir önceki yılda teminat konusu olan toplam değerin yüzde onu kuralı genel götürü teminat tutarıdır; antrepo işleticilerince verilecek götürü teminat ve yaygın götürü teminat tutarı ise antrepo işleticilerine ilişkin özel hükme göre belirlenir, bu nedenle III yanlıştır. Götürü teminat sisteminden yararlanmak için ibraz edilen teminat mektupları, belirlenecek teminat tutarını karşılamaları ve Ek-77/A'daki örneğe uygun görülmeleri durumunda kabul edilir (IV doğru); toplu teminat mektuplarında örnek Ek-77/B'dir. En güçlü çeldirici III'tür: yüzde on kuralı götürü teminatın genel hükmü olduğu için antrepo işleticilerine de uygulandığı sanılır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 493, 494, 497)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre götürü teminat, 4760 sayılı Özel Tüketim Vergisi Kanununun ekindeki (I) sayılı listede yer alan eşyaya ilişkin kamu alacakları hariç, eşyanın gümrükçe onaylanmış işlem veya kullanıma tabi tutulmasına ilişkin tüm kamu alacakları için geçerlidir (I doğru). Götürü teminatın asgari ve azami tutarları Avro olarak belirlenmiştir; teminat bu miktarlar karşılığı Türk Lirası olarak da verilebilir (II doğru). Bir önceki yılda teminat konusu olan toplam değerin yüzde onu kuralı genel götürü teminat tutarıdır; antrepo işleticilerince verilecek götürü teminat ve yaygın götürü teminat tutarı ise antrepo işleticilerine ilişkin özel hükme göre belirlenir, bu nedenle III yanlıştır. Götürü teminat sisteminden yararlanmak için ibraz edilen teminat mektupları, belirlenecek teminat tutarını karşılamaları ve Ek-77/A'daki örneğe uygun görülmeleri durumunda kabul edilir (IV doğru); toplu teminat mektuplarında örnek Ek-77/B'dir. En güçlü tuzak III'tür: yüzde on kuralı götürü teminatın genel hükmü olduğu için antrepo işleticilerine de uygulandığı sanılır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 493, 494, 497)
 
 *Gümrük Yönetmeliği md. 494*
 
@@ -390,7 +378,7 @@ D) I, II ve III
 E) I ve III  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre genel yönetim kapsamındaki kamu idarelerinin, belediyelerin, sermayesinin tamamı devlete ait olan kamu iktisadi teşebbüslerinin ve Türkiye'deki yabancı misyon şeflerinin verecekleri garanti mektupları teminat olarak kabul olunur; belediyelerin garanti mektupları listededir (I doğru). Kamu iktisadi teşebbüslerinde ölçüt sermayenin tamamının devlete ait olmasıdır; sermayesinin yarısından fazlası devlete ait olan teşebbüsün garanti mektubu kabul olunmaz (II yanlış). Garanti mektubu ile işlem yapılması durumunda yükümlülüklerin tam ve zamanında yerine getirilmemesi hâlinde yükümlüye bir yıl boyunca bu haktan yararlanma izni verilmez (III doğru). Ayniyet alındısı karşılığında Bakanlık adına muhasebe birimine teslim, kağıt olarak düzenlenen teminat mektuplarına ilişkindir; garanti mektupları ilgili gümrük idaresinde muhafaza edilir (IV yanlış). En güçlü çeldirici IV'tür: teminat mektubu ile garanti mektubunun saklama yeri ayrı fıkralarda düzenlenmiştir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 495, 497)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre genel yönetim kapsamındaki kamu idarelerinin, belediyelerin, sermayesinin tamamı devlete ait olan kamu iktisadi teşebbüslerinin ve Türkiye'deki yabancı misyon şeflerinin verecekleri garanti mektupları teminat olarak kabul olunur; belediyelerin garanti mektupları listededir (I doğru). Kamu iktisadi teşebbüslerinde ölçüt sermayenin tamamının devlete ait olmasıdır; sermayesinin yarısından fazlası devlete ait olan teşebbüsün garanti mektubu kabul olunmaz (II yanlış). Garanti mektubu ile işlem yapılması durumunda yükümlülüklerin tam ve zamanında yerine getirilmemesi hâlinde yükümlüye bir yıl boyunca bu haktan yararlanma izni verilmez (III doğru). Ayniyet alındısı karşılığında Bakanlık adına muhasebe birimine teslim, kağıt olarak düzenlenen teminat mektuplarına ilişkindir; garanti mektupları ilgili gümrük idaresinde muhafaza edilir (IV yanlış). En güçlü tuzak IV'tür: teminat mektubu ile garanti mektubunun saklama yeri ayrı fıkralarda düzenlenmiştir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 495, 497)
 
 *Gümrük Yönetmeliği md. 498*
 
@@ -492,11 +480,11 @@ E) Gümrük idaresi, kefil tarafından gösterilen mallar için değer tespiti y
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 4 / 2 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (II ve IV, I, II ve IV, I ve III) |
+| Birebir / parafraz / çıkarım | 15 / 3 / 2 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I, II ve IV, I ve III) |
 | Vaka, uygulama, hesap | 2 |
-| Tuzaklar | KOMŞU 15, TERİM 5, SAĞDUYU 4, İSTİSNA 4, TERSİNE 4, LİSTE-DIŞI 3 |
+| Tuzaklar | KOMŞU 15, TERİM 5, SAĞDUYU 4, İSTİSNA 4, TERSİNE 3, LİSTE-DIŞI 3 |
 | İkiz eksen / ayna | — / GY 495 teminatları ↔ tecil teminatları, gecikme zammı ↔ gecikme zammı oranında faiz, toplu ↔ götürü teminat tanımı |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 10 |

@@ -28,15 +28,13 @@ C) I ve III
 D) I, II ve III  
 E) I, II ve IV  
 
-**3-** Yabancı bir limandan gelerek Türkiye Gümrük Bölgesine giren (X) gemisi, yükünü boşaltmak üzere (A) Limanına giderken, gemi acentesince gümrük idaresine önceden bildirim yapılarak yük boşaltma limanı (B) Limanı olarak değiştirilmiştir. Gemi geriye dönüş yapmadan seferine devam etmiş; yolda durmadan ve başka gemilerle temas etmeden gümrük idaresi bulunan (B) Limanına yanaşmıştır.
+**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre Türkiye Gümrük Bölgesi dışındaki limanlardan gelen gemilerin mutat rotası ve gümrük denetimine ilişkin aşağıdakilerden hangisi doğrudur?
 
-4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin gemilerin mutat rotasına ilişkin hükümlerine göre bu durumla ilgili aşağıdakilerden hangisi doğrudur?  
-
-A) Beklenmeyen hâl veya mücbir sebep bulunmadığından gemi, gideceği limana göre mutat olan rotayı değiştirmiş sayılır.  
-B) Rota değişikliği sayılmama hâli yalnızca yük almaya giderken yükü iptal edilen gemilere ilişkin olduğundan durum rota değişikliğidir.  
-C) Durumun rota değişikliği sayılmaması için önceden bildirim yeterli olmayıp Bakanlıktan izin alınmış olması gerekir.  
-D) Önceden bildirim yapıldığı ve gemi geriye dönüş yapmadığı için durum rota değişikliği sayılmaz.  
-E) Durumun rota değişikliği sayılmaması için geminin önce (A) Limanına dönmesi gerekir.  
+A) Gemiler, gümrük kontrolü gerektirse dahi gidecekleri limana göre mutat olan rotayı değiştiremez.  
+B) Yük boşaltma limanı sefer esnasında değişen geminin bu durumunun rota değişikliği sayılmaması için gümrük idaresinden önceden izin alınmış olması gerekir.  
+C) Gemiler, beklenmeyen hâller veya mücbir sebep bulunsa dahi gümrük idaresi bulunmayan yerlere yanaşamaz.  
+D) Sahip veya acentesince önceden bildirim yapılarak yük boşaltma limanı sefer esnasında değişen ve geriye dönüş yapmayan geminin bu durumu rota değişikliği sayılmaz.  
+E) Gümrük memurları gemiyi ve yükünü denetleyebilir, ancak gemi ambarlarını mühür altına alamaz.  
 
 **4-** 4458 sayılı Gümrük Kanunu'na göre Türkiye limanları arasında düzenli sefer yapan ve acentası bulunan gemiler, aşağıdaki durumlardan hangisinde Türkiye Gümrük Bölgesi dışındaki limanlardan gelen gemilere ilişkin hükümlere tabi tutulur?
 
@@ -84,13 +82,15 @@ C) Türkiye Gümrük Bölgesinde taşıtların kontrolü mobil kontrol ekipleri 
 D) Taşıtın işleteni ve temsilcisi, kontrolün yapılmasını temin etmek üzere gerekli önlemleri almakla yükümlüdür.  
 E) Taşıtların kontrolü yalnızca gümrük idaresinin normal çalışma saatleri içinde yapılabilir.  
 
-**9-** Gümrük Yönetmeliği'ne göre aşağıdaki taşıt ile bu taşıtın gümrük kontrolünün yapılacağı yer eşleştirmelerinden hangisi yanlıştır?
+**9-** "Yurtdışına giden hava taşıtı, ………. kontrol edilir. Bu kontrolden sonra Havayolu Beyan Formu ………. tarafından veri işleme tekniği ile elektronik ortamda düzenlenir, varsa mühürler hareketten evvel sökülür."
 
-A) Türkiye Gümrük Bölgesine gelen karayolu taşıtı – Giriş gümrük idaresi  
-B) Yurtdışına giden hava taşıtı – Türkiye Gümrük Bölgesinde ilk indiği havalimanı  
-C) Türkiye Gümrük Bölgesine gelen tren – Gümrük idaresi bulunan ilk istasyon  
-D) Türkiye Gümrük Bölgesinden giden tren – Sınır istasyonu  
-E) Türkiye Gümrük Bölgesine gelen hava taşıtı – İndiği yetkili gümrük idaresi bulunan havalimanı  
+Gümrük Yönetmeliği'nin yurtdışına giden hava taşıtlarının kontrolüne ilişkin hükmünde yer alan yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?  
+
+A) kalkacağı en son havalimanında – görevli gümrük personeli  
+B) kalkacağı en son havalimanında – taşıtın işleticisi veya temsilcisi  
+C) Türkiye Gümrük Bölgesinde ilk indiği havalimanında – taşıtın işleticisi veya temsilcisi  
+D) Türkiye Gümrük Bölgesinde ilk indiği havalimanında – görevli gümrük personeli  
+E) Türkiye Gümrük Bölgesinde ilk indiği havalimanında – taşıtın kaptan pilotu  
 
 **10-** Gümrük Yönetmeliği'ne göre Türkiye Gümrük Bölgesine gelen ve Bölgeden giden trenlerin gümrük gözetimi ve kontrolüne ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -116,19 +116,13 @@ C) Serbest pratika alınmasını müteakip en geç iki saat içerisinde verilir.
 D) Geminin liman sahasına varışından en az iki saat önce verilir.  
 E) Geminin liman sahasından hareketinden en az iki saat önce verilir.  
 
-**13-** Gümrük Yönetmeliği'nin Çanakkale ve İstanbul Boğazlarından geçen gemilerin gümrük kontrolüne ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**13-** Gümrük Yönetmeliği'nin Çanakkale ve İstanbul Boğazlarından geçen gemilerin gümrük kontrolüne ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Boğazlardan geçen transit gemiler, Montrö Antlaşması gereğince kontrole tabi tutulmaz; bu gemiler dışarıdan gözetim altında bulundurulabilir.  
-II. Liman sahaları ve Boğazlarda kırk sekiz saatten fazla bekleyen transit gemiler, serbest pratika almaları sağlandıktan sonra diğer gemiler gibi gümrük kontrolüne tabi tutulur.  
-III. Yabancı limanlardan gelip Boğazdan geçerek bir Türk limanına gidecek gemilerin kontrolleri, şüphe veya ihbar olmadığı sürece varacakları ilk Türk limanında yapılır.  
-IV. En az yirmi dört saat önceden Seyir Planı-1 (SP-1) raporu ile Türk Boğazları Gemi Trafik Hizmetleri Merkezine yapılan bildirimler ilgili gümrük idaresine yapılmış sayılır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) I, II, III ve IV  
-C) II ve IV  
-D) I, II ve III  
-E) I, III ve IV  
+A) Liman sahaları ve Boğazlarda kırk sekiz saatten fazla bekleyen transit gemiler, serbest pratika almaları sağlandıktan sonra diğer gemiler gibi gümrük kontrolüne tabi tutulur.  
+B) Boğazlardan geçen transit gemiler, Montrö Antlaşması gereğince Boğaz geçişi sırasında diğer gemiler gibi gümrük kontrolüne tabi tutulur.  
+C) Yabancı limanlardan gelip Boğazdan geçerek bir Türk limanına gidecek gemilerin kontrolleri, şüphe veya ihbar olmadığı sürece varacakları ilk Türk limanında yapılır.  
+D) En az yirmi dört saat önceden Seyir Planı-1 (SP-1) raporu ile Türk Boğazları Gemi Trafik Hizmetleri Merkezine yapılan bildirimler ilgili gümrük idaresine yapılmış sayılır.  
+E) Boğazdan geçerek bir Türk limanına gidecek gemiye, gümrük idaresince gerek görülen hâllerde refakat memuru verilebilir.  
 
 **14-** Gümrük Yönetmeliği'ne göre yabancı limanlardan gelen deniz taşıtının gümrük kontrolüne ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -233,18 +227,16 @@ E) I, II ve IV
 
 *4458 sayılı Gümrük Kanunu md. 34; Gümrük Yönetmeliği md. 72*
 
-**3-** Yabancı bir limandan gelerek Türkiye Gümrük Bölgesine giren (X) gemisi, yükünü boşaltmak üzere (A) Limanına giderken, gemi acentesince gümrük idaresine önceden bildirim yapılarak yük boşaltma limanı (B) Limanı olarak değiştirilmiştir. Gemi geriye dönüş yapmadan seferine devam etmiş; yolda durmadan ve başka gemilerle temas etmeden gümrük idaresi bulunan (B) Limanına yanaşmıştır.
+**3-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre Türkiye Gümrük Bölgesi dışındaki limanlardan gelen gemilerin mutat rotası ve gümrük denetimine ilişkin aşağıdakilerden hangisi doğrudur?
 
-4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin gemilerin mutat rotasına ilişkin hükümlerine göre bu durumla ilgili aşağıdakilerden hangisi doğrudur?  
-
-A) Beklenmeyen hâl veya mücbir sebep bulunmadığından gemi, gideceği limana göre mutat olan rotayı değiştirmiş sayılır.  
-B) Rota değişikliği sayılmama hâli yalnızca yük almaya giderken yükü iptal edilen gemilere ilişkin olduğundan durum rota değişikliğidir.  
-C) Durumun rota değişikliği sayılmaması için önceden bildirim yeterli olmayıp Bakanlıktan izin alınmış olması gerekir.  
-D) Önceden bildirim yapıldığı ve gemi geriye dönüş yapmadığı için durum rota değişikliği sayılmaz.  
-E) Durumun rota değişikliği sayılmaması için geminin önce (A) Limanına dönmesi gerekir.  
+A) Gemiler, gümrük kontrolü gerektirse dahi gidecekleri limana göre mutat olan rotayı değiştiremez.  
+B) Yük boşaltma limanı sefer esnasında değişen geminin bu durumunun rota değişikliği sayılmaması için gümrük idaresinden önceden izin alınmış olması gerekir.  
+C) Gemiler, beklenmeyen hâller veya mücbir sebep bulunsa dahi gümrük idaresi bulunmayan yerlere yanaşamaz.  
+D) Sahip veya acentesince önceden bildirim yapılarak yük boşaltma limanı sefer esnasında değişen ve geriye dönüş yapmayan geminin bu durumu rota değişikliği sayılmaz.  
+E) Gümrük memurları gemiyi ve yükünü denetleyebilir, ancak gemi ambarlarını mühür altına alamaz.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Kanunu'na göre Türkiye Gümrük Bölgesi dışındaki limanlardan gelen gemiler, Gümrük Bölgesine girmelerinden itibaren beklenmeyen hâller veya mücbir sebep olmadıkça ya da gümrük kontrolü gerektirmedikçe gidecekleri limana göre mutat olan rotayı değiştiremez. Gümrük Yönetmeliği bu kurala bir ayrım getirir: sahip ve acentelerince gümrük idaresine önceden bildirim yapmak suretiyle, yük almaya giderken seferleri esnasında yükleri iptal edilen veya yük boşaltmaya giderken seferleri esnasında yük boşaltma limanları değişen ve geriye dönüş yapmayan gemilerin bu durumları rota değişikliği sayılmaz. Vakada boşaltma limanı acentenin önceden bildirimiyle değişmiş ve gemi geri dönmemiştir; durum Yönetmelikteki ikinci hâle girer. En güçlü çeldirici Kanundaki genel kuralı uygulayan seçenektir: Yönetmeliğin rota değişikliği saymadığı hâli bilmeyen aday mücbir sebep aramaya yönelir. Bakanlık izni ve geri dönüş şartı aranmaz; hüküm tam tersine geriye dönüş yapmayan gemiler için konmuştur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 34; GY 72)
+**Gerekçe:** Gümrük Kanunu'na göre Türkiye Gümrük Bölgesi dışındaki limanlardan gelen gemiler, Gümrük Bölgesine girmelerinden itibaren beklenmeyen hâller veya mücbir sebep olmadıkça ya da gümrük kontrolü gerektirmedikçe gidecekleri limana göre mutat olan rotayı değiştiremez, yolda duramaz, başka gemilerle temas edemez ve gümrük idaresi bulunmayan yerlere yanaşamaz. Gümrük Yönetmeliği bu kurala bir ayrım getirir: sahip ve acentelerince gümrük idaresine önceden bildirim yapmak suretiyle, yük almaya giderken seferleri esnasında yükleri iptal edilen veya yük boşaltmaya giderken seferleri esnasında yük boşaltma limanları değişen ve geriye dönüş yapmayan gemilerin bu durumları rota değişikliği sayılmaz. Hüküm önceden bildirim arar; gümrük idaresinden izin alınması şartı yoktur. Kanundaki yasaklar beklenmeyen hâller, mücbir sebep ve gümrük kontrolü gereği karşısında mutlak değildir; gümrük memurları da gemiyi, yükünü ve bunlara ait defter, belge ve kayıtları denetlemeye, gerektiğinde ambarları ve eşya bulunan diğer yerleri mühür altına almaya yetkilidir. En güçlü çeldirici izin şartını içeren seçenektir: Yönetmeliğin aradığı bildirim, izinle karıştırılmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 34; GY 72)
 
 *4458 sayılı Gümrük Kanunu md. 34*
 
@@ -317,18 +309,20 @@ E) Taşıtların kontrolü yalnızca gümrük idaresinin normal çalışma saatl
 **Doğru Cevap:** E  
 **Gerekçe:** Gümrük Yönetmeliği'ne göre Türkiye Gümrük Bölgesine gelen ve Bölgeden giden kara, deniz, hava ve demiryolu taşıtları gümrük gözetim ve kontrolüne tabidir. Kontrol, gümrük idaresinin kontrolle görevlendireceği personel tarafından yapılır; taşıtların detaylı olarak arandığı hâllerde arama sonucu tutanakla tespit edilir ve Türkiye Gümrük Bölgesinde kontrol mobil kontrol ekiplerince de yerine getirilebilir. Taşıtın işleteni ve temsilcisi kontrolün yapılmasını temin etmek üzere gerekli önlemleri almakla yükümlüdür. Yönetmelik, taşıtların kontrolünün günün her saatinde yapılabileceğini açıkça belirtir; kontrol normal çalışma saatleriyle sınırlı değildir. Tuzak, Gümrük Kanunu'ndaki giriş-çıkış ve gümrük işlemlerinin normal çalışma saatleri içinde yapılacağına ilişkin genel kuraldır; taşıt kontrolüne ilişkin hüküm bundan ayrıdır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 72)
 
-*Gümrük Yönetmeliği md. 72/B, 72/M, 72/Ö, 72/P*
+*Gümrük Yönetmeliği md. 72/Ö, 72/P*
 
-**9-** Gümrük Yönetmeliği'ne göre aşağıdaki taşıt ile bu taşıtın gümrük kontrolünün yapılacağı yer eşleştirmelerinden hangisi yanlıştır?
+**9-** "Yurtdışına giden hava taşıtı, ………. kontrol edilir. Bu kontrolden sonra Havayolu Beyan Formu ………. tarafından veri işleme tekniği ile elektronik ortamda düzenlenir, varsa mühürler hareketten evvel sökülür."
 
-A) Türkiye Gümrük Bölgesine gelen karayolu taşıtı – Giriş gümrük idaresi  
-B) Yurtdışına giden hava taşıtı – Türkiye Gümrük Bölgesinde ilk indiği havalimanı  
-C) Türkiye Gümrük Bölgesine gelen tren – Gümrük idaresi bulunan ilk istasyon  
-D) Türkiye Gümrük Bölgesinden giden tren – Sınır istasyonu  
-E) Türkiye Gümrük Bölgesine gelen hava taşıtı – İndiği yetkili gümrük idaresi bulunan havalimanı  
+Gümrük Yönetmeliği'nin yurtdışına giden hava taşıtlarının kontrolüne ilişkin hükmünde yer alan yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?  
+
+A) kalkacağı en son havalimanında – görevli gümrük personeli  
+B) kalkacağı en son havalimanında – taşıtın işleticisi veya temsilcisi  
+C) Türkiye Gümrük Bölgesinde ilk indiği havalimanında – taşıtın işleticisi veya temsilcisi  
+D) Türkiye Gümrük Bölgesinde ilk indiği havalimanında – görevli gümrük personeli  
+E) Türkiye Gümrük Bölgesinde ilk indiği havalimanında – taşıtın kaptan pilotu  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre mobil ekiplerin kontrolleri saklı kalmak üzere, Türkiye Gümrük Bölgesine gelen ve giden karayolu taşıtlarının kontrolünün giriş ve çıkış gümrük idaresinde yapılması esastır. Gelen trenler gümrük idaresi bulunan ilk istasyonda, giden trenler sınır istasyonunda kontrole tabi tutulur. Gelen hava taşıtlarının kontrolü indikleri yetkili gümrük idaresi bulunan havalimanlarında yapılır; bu taşıtlar Türkiye Gümrük Bölgesinde ilk inecekleri havalimanında gözetim altına alınır. Yurtdışına giden hava taşıtı ise kalkacağı en son havalimanında kontrol edilir. 'İlk inilen havalimanı' gelen hava taşıtının gözetim altına alındığı yere ilişkindir; giden taşıtın kontrol yeri değildir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 72/B, 72/M, 72/Ö, 72/P)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre yurtdışına giden hava taşıtı, kalkacağı en son havalimanında kontrol edilir; bu kontrolden sonra Havayolu Beyan Formu taşıtın işleticisi veya temsilcisi tarafından veri işleme tekniği ile elektronik ortamda düzenlenir ve varsa mühürler hareketten evvel sökülür. 'Türkiye Gümrük Bölgesinde ilk indiği havalimanı' gelen hava taşıtına ilişkindir: Türkiye Gümrük Bölgesine gelen havayolu taşıtları ilk inecekleri havalimanında görevli personel tarafından gözetim altına alınır ve kontrolleri indikleri yetkili gümrük idaresi bulunan havalimanlarında yapılır. Görevli personel taşıtı gözetim altına alan ve kontrol eden taraftır; Beyan Formunu düzenleyen değildir. Kaptan ise Yönetmelikte deniz taşıtları için verilen Denizyolu Genel Bildiriminde işletici ve temsilciyle birlikte sayılır; Havayolu Beyan Formunu düzenleyenler arasında yer almaz. En güçlü çeldirici kontrol yerini doğru, düzenleyeni görevli gümrük personeli olarak veren seçenektir: gelen hava taşıtını gözetim altına alan ve kontrol eden personel, Beyan Formunu düzenleyen taraf sanılmıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 72/Ç, 72/Ö, 72/P)
 
 *Gümrük Yönetmeliği md. 72/M, 72/N, 72/O*
 
@@ -371,22 +365,16 @@ E) Geminin liman sahasından hareketinden en az iki saat önce verilir.
 
 *Gümrük Yönetmeliği md. 72/I, 72/İ, 72/J*
 
-**13-** Gümrük Yönetmeliği'nin Çanakkale ve İstanbul Boğazlarından geçen gemilerin gümrük kontrolüne ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**13-** Gümrük Yönetmeliği'nin Çanakkale ve İstanbul Boğazlarından geçen gemilerin gümrük kontrolüne ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Boğazlardan geçen transit gemiler, Montrö Antlaşması gereğince kontrole tabi tutulmaz; bu gemiler dışarıdan gözetim altında bulundurulabilir.  
-II. Liman sahaları ve Boğazlarda kırk sekiz saatten fazla bekleyen transit gemiler, serbest pratika almaları sağlandıktan sonra diğer gemiler gibi gümrük kontrolüne tabi tutulur.  
-III. Yabancı limanlardan gelip Boğazdan geçerek bir Türk limanına gidecek gemilerin kontrolleri, şüphe veya ihbar olmadığı sürece varacakları ilk Türk limanında yapılır.  
-IV. En az yirmi dört saat önceden Seyir Planı-1 (SP-1) raporu ile Türk Boğazları Gemi Trafik Hizmetleri Merkezine yapılan bildirimler ilgili gümrük idaresine yapılmış sayılır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) I, II, III ve IV  
-C) II ve IV  
-D) I, II ve III  
-E) I, III ve IV  
+A) Liman sahaları ve Boğazlarda kırk sekiz saatten fazla bekleyen transit gemiler, serbest pratika almaları sağlandıktan sonra diğer gemiler gibi gümrük kontrolüne tabi tutulur.  
+B) Boğazlardan geçen transit gemiler, Montrö Antlaşması gereğince Boğaz geçişi sırasında diğer gemiler gibi gümrük kontrolüne tabi tutulur.  
+C) Yabancı limanlardan gelip Boğazdan geçerek bir Türk limanına gidecek gemilerin kontrolleri, şüphe veya ihbar olmadığı sürece varacakları ilk Türk limanında yapılır.  
+D) En az yirmi dört saat önceden Seyir Planı-1 (SP-1) raporu ile Türk Boğazları Gemi Trafik Hizmetleri Merkezine yapılan bildirimler ilgili gümrük idaresine yapılmış sayılır.  
+E) Boğazdan geçerek bir Türk limanına gidecek gemiye, gümrük idaresince gerek görülen hâllerde refakat memuru verilebilir.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre Boğazlardan geçen transit gemiler Montrö Antlaşması gereğince kontrole tabi tutulmaz, yalnızca dışarıdan gözetim altında bulundurulabilir (I doğru). Liman sahaları ve Boğazlarda 48 saatten fazla bekleyen transit gemilerin serbest pratika almaları zorunludur; bu süreyi aşan transit gemiler serbest pratika almaları sağlandıktan sonra diğer gemiler gibi gümrük kontrolüne tabi tutulur (II doğru). Yabancı limanlardan gelip İstanbul veya Çanakkale Boğazından geçip bir Türk limanına gidecek gemilerin kontrolleri, şüphe veya ihbar olmadığı sürece varacakları ilk Türk limanında yapılır; şüphe veya ihbar varsa gelen deniz taşıtının kontrolüne ilişkin hükümler uygulanır (III doğru). Bu gemilerin geliş gün ve saatleri kaptan veya acentesi tarafından ilgili gümrük idaresine bildirilir; ancak en az 24 saat önceden SP-1 raporu ile Türk Boğazları Gemi Trafik Hizmetleri Merkezine yapılan bildirimler ilgili gümrük idaresine yapılmış sayılır (IV doğru). Önermelerin tamamı doğrudur; transit geminin kontrol edilmemesini ya da başka kuruma yapılan bildirimin gümrüğe yapılmış sayılmasını sağduyuyla yanlış sanan aday eksik seçime yönelir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 72/I, 72/İ, 72/J)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre Boğazlardan geçen transit gemiler, Montrö Antlaşması gereğince kontrole tabi tutulmaz; bu gemiler yalnızca dışarıdan gözetim altında bulundurulabilir. Yanlış ifade 'tutulmaz' hükmünü 'tutulur' biçimine çevirmiştir. Liman sahaları ve Boğazlarda 48 saatten fazla bekleyen transit gemilerin serbest pratika almaları zorunludur ve bu süreyi aşan transit gemiler serbest pratika almaları sağlandıktan sonra diğer gemiler gibi gümrük kontrolüne tabi tutulur. Yabancı limanlardan gelip Boğazdan geçerek bir Türk limanına gidecek gemilerin kontrolleri, şüphe veya ihbar olmadığı sürece varacakları ilk Türk limanında yapılır ve gümrük idaresince gerek görülen hâllerde refakat memuru verilebilir. Bu gemilerin geliş gün ve saatleri kaptan veya acentesince ilgili gümrük idaresine bildirilir; ancak en az 24 saat önceden SP-1 raporu ile Türk Boğazları Gemi Trafik Hizmetleri Merkezine yapılan bildirimler ilgili gümrük idaresine yapılmış sayılır. En güçlü tuzak kırk sekiz saati aşan transit gemilere ilişkin ifadedir: transit geminin kontrol edilebildiği tek hâl budur ve aday bu istisnayı genel kural sanarak yanlış ifadeyi doğru kabul edebilir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 72/I, 72/İ, 72/J)
 
 *Gümrük Yönetmeliği md. 72/E*
 
@@ -438,7 +426,7 @@ D) Aksi belirtilmedikçe, gümrük idaresince bildirilen ve gizli tutulması ist
 E) Gümrük işlemlerinin takibi için gümrüklü sahada en az bir gümrük müşaviri istihdam etmek  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre işleticiler gümrük gözetim ve kontrolü işlemlerinin yapılması için bedelsiz olarak; eşya, yolcu ve araçların fiziki aramasının yapılabileceği kapalı arama tesisleri ile gümrük muayenesinin yapılabileceği uygun yerleri temin etmek, kullandıkları otomasyon sistemleri, yazılımlar ve CCTV kamera sistemlerine gümrük idaresinin erişimini veya veri aktarımını sağlamak, bu yer ve sistemlerin bakım, onarım ve güncellemesini yapmak ve gümrük idaresince talep edilen gözetim tedbirlerini almakla yükümlüdür. Ayrıca veri işleme tekniğiyle iletilen veri, mesaj ve talimatların gereğini yerine getirir ve aksi belirtilmedikçe gizli tutulması istenen bilgileri açıklamazlar. Gümrük müşaviri istihdam etmek bu yükümlülükler arasında sayılmamıştır; gümrük müşavirinin her işlemde zorunlu olduğu önyargısıyla soruyu çözen aday bu seçeneği listeye ait sanır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 72/Ş)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre işleticiler gümrük gözetim ve kontrolü işlemlerinin yapılması için bedelsiz olarak; eşya, yolcu ve araçların fiziki aramasının yapılabileceği kapalı arama tesisleri ile gümrük muayenesinin yapılabileceği uygun yerleri temin etmek, kullandıkları otomasyon sistemleri, yazılımlar ve CCTV kamera sistemlerine gümrük idaresinin erişimini veya veri aktarımını sağlamak, bu yer ve sistemlerin bakım, onarım ve güncellemesini yapmak ve gümrük idaresince talep edilen gözetim tedbirlerini almakla yükümlüdür. Ayrıca veri işleme tekniğiyle iletilen veri, mesaj ve talimatların gereğini yerine getirirler ve aksi belirtilmedikçe gizli tutulması istenen bilgileri açıklamazlar. Gümrük müşaviri istihdam etmek bu yükümlülükler arasında sayılmamıştır; gümrük müşavirinin her işlemde zorunlu olduğu önyargısıyla soruyu çözen aday bu seçeneği listeye ait sanır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 72/Ş)
 
 *2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar" md. 122*
 
@@ -488,11 +476,11 @@ E) 1.625
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
+| Birebir / parafraz / çıkarım | 14 / 4 / 2 |
 | Olumsuz kök | 7 |
-| Önermeli | 3 (I ve II, I, III ve IV, I, II, III ve IV) |
-| Vaka, uygulama, hesap | 2 |
-| Tuzaklar | KOMŞU 12, TERSİNE 5, ŞART 4, İSTİSNA 4, TERİM 4, LİSTE-DIŞI 3 |
+| Önermeli | 2 (I ve II, I, III ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 13, İSTİSNA 5, TERSİNE 5, ŞART 4, TERİM 4, MAKAM 3 |
 | İkiz eksen / ayna | — / — |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 0 |

@@ -11,21 +11,16 @@ Kaynak: 5607_sayili_kacakcilikla_mucadele_kanunu.txt · 20 soru
 A) Kaçakçılık fiillerini belirlemek  
 B) Kaçakçılık fiillerinin yaptırımlarını belirlemek  
 C) Kaçakçılığı önleme ve izleme usul ve esaslarını belirlemek  
-D) Kaçak eşyanın tasfiyesine ilişkin usul ve esasları belirlemek  
-E) Kaçakçılığı araştırma usul ve esaslarını belirlemek  
+D) Kaçakçılığı araştırma usul ve esaslarını belirlemek  
+E) Kaçak eşyanın tasfiyesine ilişkin usul ve esasları belirlemek  
 
-**2-** İhracı kanun gereği yasak olan bir eşyayı ülkeden çıkardığı tespit edilen (S) hakkında açılan davada, müsadere yaptırımının konusunu oluşturan eşyanın kaim değerinin belirlenmesi gerekmektedir. Eşyaya ilişkin bilgiler şöyledir:
+**2-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre "gümrüklenmiş değer" deyimi aşağıdakilerden hangisini ifade eder?
 
-- FOB kıymeti: 40.000 TL  
-- Navlun ve sigorta bedeli: 4.000 TL  
-- Eşyanın ihracına bağlı olarak uygulanan vergi ve diğer mali yükümlülükler: 3.000 TL  
-5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre bu eşyanın kaim değeri kaç TL'dir?  
-
-A) 40.000  
-B) 43.000  
-C) 44.000  
-D) 47.000  
-E) 86.000  
+A) Uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için eşyanın CIF kıymetini, ihraç eşyası için FOB kıymetini  
+B) Uluslararası kıymet sözleşmesine göre belirlenecek; ithal ve ihraç eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını  
+C) Uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını, ihraç eşyası için FOB kıymeti ile gümrük vergileri toplamını  
+D) Uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için eşyanın FOB kıymeti ile gümrük vergileri toplamını, ihraç eşyası için CIF kıymeti ile gümrük vergileri toplamını  
+E) Gümrük idaresi veya başka idarelerce, eşyanın ithali veya ihracına bağlı olarak uygulanan vergiler ile diğer malî yükümlülükleri  
 
 **3-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nda tanımlanan kaçakçılık fiilleri ile bu fiiller için öngörülen hapis cezaları aşağıdakilerden hangisinde yanlış eşleştirilmiştir?
 
@@ -43,15 +38,13 @@ C) Cezalar yarısından bir katına kadar artırılır; bu artırımla verilecek
 D) Cezalar yarısından iki katına kadar artırılır; bu artırımla verilecek hapis cezası on yıldan az olamaz.  
 E) Cezalar iki kat artırılır; bu artırımla verilecek ceza beş yıldan az olamaz.  
 
-**5-** (K), elektronik eşyadan oluşan bir partiyi gümrük işlemlerine tabi tutmaksızın ve gümrük kapıları dışından ülkeye sokmak isterken sınır hattında yakalanmış; fiil teşebbüs aşamasında kalmıştır. Fiil tek başına işlenmiş olup eşyanın değeri fahiş, hafif veya pek hafif değildir.
+**5-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre, eşyayı gümrük işlemlerine tabi tutmaksızın gümrük kapıları dışından ülkeye sokmak isterken yakalanan ve fiili teşebbüs aşamasında kalan kişi hakkında uygulanacak ceza hükmüne ilişkin aşağıdakilerden hangisi doğrudur?
 
-5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre (K) hakkında uygulanacak ceza hükmüne ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Fiil tamamlanmış gibi cezalandırılır; ceza, eşyanın niteliği nedeniyle yarısından iki katına kadar artırılır ve üç yıldan az olamaz.  
-B) Fiil tamamlanmış gibi cezalandırılır; ceza, eşya gümrük kapıları dışından sokulmak istendiği için yarı oranında artırılır.  
-C) Fiil tamamlanmış gibi cezalandırılır; ceza, eşya gümrük kapıları dışından sokulmak istendiği için üçte birinden yarısına kadar artırılır.  
-D) Fiil teşebbüs aşamasında kaldığından verilecek ceza yarı oranında indirilir.  
-E) Fiil teşebbüs aşamasında kaldığından cezaya hükmolunmaz; yalnızca 4458 sayılı Gümrük Kanunu hükümlerine göre işlem yapılır.  
+A) Fiil tamamlanmış gibi cezalandırılır; ceza, eşyanın gümrük kapıları dışından sokulmak istenmesi nedeniyle yarısından iki katına kadar artırılır ve üç yıldan az olamaz.  
+B) Fiil tamamlanmış gibi cezalandırılır; ceza, eşyanın gümrük kapıları dışından sokulmak istenmesi nedeniyle yarı oranında artırılır.  
+C) Fiil teşebbüs aşamasında kaldığından verilecek ceza yarı oranında indirilir.  
+D) Fiil teşebbüs aşamasında kaldığından cezaya hükmolunmaz; yalnızca 4458 sayılı Gümrük Kanunu hükümlerine göre işlem yapılır.  
+E) Fiil tamamlanmış gibi cezalandırılır; ceza, eşyanın gümrük kapıları dışından sokulmak istenmesi nedeniyle üçte birinden yarısına kadar artırılır.  
 
 **6-** Gümrük müşaviri (M), müvekkili adına yürüttüğü işlemlerde mesleğinin sağladığı kolaylıklardan yararlanarak, eşyayı aldatıcı işlem ve davranışlarla gümrük vergilerini kısmen ödemeksizin ülkeye sokmuştur. Olayla ilgili şu bilgiler tespit edilmiştir:
 
@@ -62,23 +55,17 @@ E) Fiil teşebbüs aşamasında kaldığından cezaya hükmolunmaz; yalnızca 44
 
 A) Verilecek ceza iki kat artırılır.  
 B) Verilecek ceza üçte birinden yarısına kadar artırılır.  
-C) (M) kaçakçılığı önlemekle görevli olmadığından nitelikli hâl hükümleri uygulanmaz; ceza artırılmaz.  
-D) Kaçakçılık suçunun cezasına ek olarak belgede sahtecilik suçundan da ayrıca cezaya hükmolunur.  
-E) Verilecek ceza yarı oranında artırılır.  
+C) Verilecek ceza yarı oranında artırılır.  
+D) (M) kaçakçılığı önlemekle görevli olmadığından nitelikli hâl hükümleri uygulanmaz; ceza artırılmaz.  
+E) Kaçakçılık suçunun cezasına ek olarak belgede sahtecilik suçundan da ayrıca cezaya hükmolunur.  
 
-**7-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun nitelikli hâllere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**7-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun nitelikli hâllere ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Kanunda tanımlanan suçların üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde, verilecek ceza yarı oranında artırılır.  
-II. Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da Kanunda tanımlanan suçların işlenmesine kasten göz yuman kişi, işlenen suçun müşterek faili olarak sorumlu tutulur.  
-III. Kanunda tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde, verilecek ceza yarı oranında artırılır.  
-IV. Tütün ve tütün mamulleri, alkollü içkiler ve akaryakıt kaçakçılığı ile ilgili olarak haklarında kamu davası açılanlar, Bakanlıkça kamuoyuna ilan edilebilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) I ve II  
-D) I, II ve III  
-E) I, II ve IV  
+A) Kanunda tanımlanan suçların üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde, verilecek ceza yarı oranında artırılır.  
+B) Kanunda tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde, verilecek ceza yarı oranında artırılır.  
+C) Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da Kanunda tanımlanan suçların işlenmesine kasten göz yuman kişi, işlenen suçun müşterek faili olarak sorumlu tutulur.  
+D) Kaçak akaryakıt satışının sabit ya da seyyar tank, düzenek veya ekipman kullanılarak gerçekleştirilmesi hâlinde verilecek cezalar iki kat artırılır.  
+E) Tütün ve tütün mamulleri, alkollü içkiler ve akaryakıt kaçakçılığı ile ilgili mahkûmiyet hükmü kesinleşenler, Gümrük ve Ticaret Bakanlığınca kamuoyuna ilan edilebilir.  
 
 **8-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun etkin pişmanlığa ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
 
@@ -114,16 +101,16 @@ E) CIF kıymeti
 
 A) Alıkoyma tarihinden itibaren otuz gün  
 B) Gümrük idaresince yapılacak tebligattan itibaren otuz gün  
-C) El koyma tarihinden itibaren doksan gün  
-D) El koyma tarihinden itibaren altı ay  
-E) Gümrük idaresince yapılacak tebligattan itibaren doksan gün  
+C) Gümrük idaresince yapılacak tebligattan itibaren doksan gün  
+D) El koyma tarihinden itibaren doksan gün  
+E) El koyma tarihinden itibaren altı ay  
 
 **12-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre kaçakçılık suçunun işlenmesinde kullanıldığı için elkonulan bir taşıtın, elkoyma kararı veren mercilerce alıkonulması aşağıdaki durumların hangisinde söz konusu olur?
 
 A) Taşıttaki kaçak eşyanın, taşıma aracı yüküne göre miktar veya hacim bakımından ağırlıklı bölümünü oluşturması  
 B) Taşıttaki kaçak eşyanın, Türkiye'ye girmesi yasak maddelerden olması  
-C) Taşıtın Türkiye'de sicile kayıtlı olmaması  
-D) Taşıtın değeri kadar teminatın gümrük idaresine teslim edilmiş olması  
+C) Taşıtın değeri kadar teminatın gümrük idaresine teslim edilmiş olması  
+D) Taşıtın Türkiye'de sicile kayıtlı olmaması  
 E) Taşıtın, kaçak eşya naklinde kullanıldığı şüphesiyle yediemine teslim edilmiş olması  
 
 **13-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre yabancı ülkelerden gelen yasak eşyanın yükleme veya taşıma belgelerinde belirtilerek gümrüğe getirilmesi hâlinde aşağıdakilerden hangisi uygulanır?
@@ -164,19 +151,13 @@ C) II ve IV
 D) I, II ve III  
 E) I, II, III ve IV  
 
-**17-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun yargılama ve kaçakçılığı önleme görevine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**17-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun yargılama ile kaçakçılığı önleme, izleme ve soruşturma görevine ilişkin hükümlerine göre aşağıdakilerden hangisi söylenemez?
 
-I. Kanunda tanımlanan suçlar dolayısıyla açılan davalarda mahkeme, iddianamenin bir örneğini ilgili gümrük idaresine de gönderir; gümrük idaresi başvurusu üzerine davaya katılan olarak kabul edilir.  
-II. Kanun kapsamına giren suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde de davalar, Hakimler ve Savcılar Yüksek Kurulunca belirlenen asliye ceza mahkemelerinde görülür.  
-III. Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanlar, operasyon gerektiren kaçakçılık olaylarından haberdar olduklarında kanuni görevlerini yapmaya başlar ve aynı zamanda mahallin en büyük mülki amirine de bilgi verirler.  
-IV. Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanların Kanun kapsamına giren suçlarla ilgili bilgi ve belge talepleri, yalnızca kamu kurum ve kuruluşlarınca eksiksiz olarak karşılanmak zorundadır.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) I ve II  
-B) I ve III  
-C) III ve IV  
-D) II ve IV  
-E) I, II ve IV  
+A) Kanunda tanımlanan suçlar dolayısıyla açılan davalarda mahkeme, iddianamenin bir örneğini ilgili gümrük idaresine de gönderir; gümrük idaresi başvurusu üzerine davaya katılan olarak kabul edilir.  
+B) Kanun kapsamına giren suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme ağır ceza mahkemesidir.  
+C) Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanlar, operasyon gerektiren kaçakçılık olaylarından haberdar olduklarında kanuni görevlerini yapmaya başlar ve aynı zamanda mahallin en büyük mülki amirine de bilgi verirler.  
+D) Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanların Kanun kapsamına giren suçlarla ilgili bilgi ve belge talepleri, yalnızca kamu kurum ve kuruluşlarınca eksiksiz olarak karşılanmak zorundadır.  
+E) Kanunda tanımlanan kaçakçılık suçlarını ihbar edenlerin kimliği, izinleri olmadıkça veya ihbarın niteliği haklarında suç oluşturmadıkça hiçbir şekilde açıklanamaz.  
 
 **18-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre Kanunla yaptırım altına alınan fiilleri önleme, izleme ve araştırmakla yükümlü olanlar arasında aşağıdakilerden hangisi yer almaktadır?
 
@@ -206,7 +187,7 @@ E) Kriminal laboratuvarların çalışma usul ve esasları
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D | B | D | B | C | E | C | A | E | B | E | C | A | C | E | B | D | A | D | A |
+| E | C | D | B | E | C | B | A | E | B | C | D | A | C | E | B | D | A | D | A |
 
 ### Çözümler
 
@@ -217,29 +198,24 @@ E) Kriminal laboratuvarların çalışma usul ve esasları
 A) Kaçakçılık fiillerini belirlemek  
 B) Kaçakçılık fiillerinin yaptırımlarını belirlemek  
 C) Kaçakçılığı önleme ve izleme usul ve esaslarını belirlemek  
-D) Kaçak eşyanın tasfiyesine ilişkin usul ve esasları belirlemek  
-E) Kaçakçılığı araştırma usul ve esaslarını belirlemek  
+D) Kaçakçılığı araştırma usul ve esaslarını belirlemek  
+E) Kaçak eşyanın tasfiyesine ilişkin usul ve esasları belirlemek  
 
-**Doğru Cevap:** D  
-**Gerekçe:** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun amacı, kaçakçılık fiilleri ve yaptırımları ile kaçakçılığı önleme, izleme, araştırma usul ve esaslarını belirlemektir. Buna göre fiillerin belirlenmesi, yaptırımların belirlenmesi ve önleme, izleme, araştırma usul ve esaslarının belirlenmesi amaç hükmünde açıkça yer alır. Kaçak eşyanın tasfiyesi ise amaç hükmünde sayılmamıştır; Kanun bu konuda kendi usulünü koymaz, Kanunun uygulamasında tasfiyenin tasfiye idaresi tarafından Gümrük Kanunu hükümlerine göre yapılacağını belirtir. En güçlü tuzak, Kanunda tasfiye kararına ve kaçak akaryakıtın tasfiyesine ilişkin hükümler bulunduğu için tasfiye usulünün de Kanunun amacı sanılmasıdır. Bu nedenle doğru cevap D seçeneğidir. (MD 1, 16)
+**Doğru Cevap:** E  
+**Gerekçe:** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun amacı, kaçakçılık fiilleri ve yaptırımları ile kaçakçılığı önleme, izleme, araştırma usul ve esaslarını belirlemektir. Buna göre fiillerin belirlenmesi, yaptırımların belirlenmesi ve önleme, izleme, araştırma usul ve esaslarının belirlenmesi amaç hükmünde açıkça yer alır. Kaçak eşyanın tasfiyesi ise amaç hükmünde sayılmamıştır. Kanun tasfiye için genel bir usul koymaz; Kanunun uygulamasında tasfiyenin tasfiye idaresi tarafından Gümrük Kanunu hükümlerine göre yapılacağını belirtir. En güçlü tuzak, Kanunda tasfiye kararına ve kaçak akaryakıtın tasfiyesine ilişkin hükümler bulunduğu için tasfiye usulünün de Kanunun amacı sanılmasıdır. Bu nedenle doğru cevap E seçeneğidir. (MD 1, 16)
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 2, 15*
 
-**2-** İhracı kanun gereği yasak olan bir eşyayı ülkeden çıkardığı tespit edilen (S) hakkında açılan davada, müsadere yaptırımının konusunu oluşturan eşyanın kaim değerinin belirlenmesi gerekmektedir. Eşyaya ilişkin bilgiler şöyledir:
+**2-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre "gümrüklenmiş değer" deyimi aşağıdakilerden hangisini ifade eder?
 
-- FOB kıymeti: 40.000 TL  
-- Navlun ve sigorta bedeli: 4.000 TL  
-- Eşyanın ihracına bağlı olarak uygulanan vergi ve diğer mali yükümlülükler: 3.000 TL  
-5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre bu eşyanın kaim değeri kaç TL'dir?  
+A) Uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için eşyanın CIF kıymetini, ihraç eşyası için FOB kıymetini  
+B) Uluslararası kıymet sözleşmesine göre belirlenecek; ithal ve ihraç eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını  
+C) Uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını, ihraç eşyası için FOB kıymeti ile gümrük vergileri toplamını  
+D) Uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için eşyanın FOB kıymeti ile gümrük vergileri toplamını, ihraç eşyası için CIF kıymeti ile gümrük vergileri toplamını  
+E) Gümrük idaresi veya başka idarelerce, eşyanın ithali veya ihracına bağlı olarak uygulanan vergiler ile diğer malî yükümlülükleri  
 
-A) 40.000  
-B) 43.000  
-C) 44.000  
-D) 47.000  
-E) 86.000  
-
-**Doğru Cevap:** B  
-**Gerekçe:** 5607 sayılı Kanun'a göre Kanunda tanımlanan suçlar dolayısıyla müsadere yaptırımının konusunu oluşturan eşyanın kaim değerinden, bu eşyanın gümrüklenmiş değeri anlaşılır. Gümrüklenmiş değer, ithal eşyası için CIF kıymeti ile gümrük vergileri toplamı, ihraç eşyası için ise FOB kıymeti ile gümrük vergileri toplamıdır. Kanundaki tanıma göre gümrük vergileri, gümrük idaresi veya başka idarelerce eşyanın ithali veya ihracına bağlı olarak uygulanan vergiler ile diğer mali yükümlülüklerdir. Eşya ihraç eşyası olduğundan hesap 40.000 + 3.000 = 43.000 TL'dir; navlun ve sigorta bedeli FOB kıymetine eklenmez. En güçlü çeldirici 47.000'dir: bu tutar ithal eşyasının formülü olan CIF kıymeti ile vergilerin toplamıdır. 44.000 yalnızca CIF kıymeti, 40.000 vergisiz FOB kıymeti, 86.000 ise etkin pişmanlıkta ödenmesi gereken gümrüklenmiş değerin iki katıdır. Bu nedenle doğru cevap B seçeneğidir. (MD 2, 15)
+**Doğru Cevap:** C  
+**Gerekçe:** 5607 sayılı Kanun'a göre gümrüklenmiş değer, uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını, ihraç eşyası için FOB kıymeti ile gümrük vergileri toplamını ifade eder. Tanım iki bileşenlidir: yalnızca CIF veya FOB kıymetini esas alan ifade gümrük vergileri unsurunu düşürür. İhraç eşyasında esas alınan kıymet FOB kıymetidir; ithal eşyasının CIF esaslı formülünü ihraç eşyasına da uygulayan ya da iki formülün yerini değiştiren ifadeler tanımı bozar. Gümrük idaresi veya başka idarelerce eşyanın ithali veya ihracına bağlı olarak uygulanan vergiler ile diğer malî yükümlülükler ise aynı maddede tanımlanan gümrük vergileridir. Kanunda müsadere yaptırımının konusunu oluşturan eşyanın kaim değerinden de bu eşyanın gümrüklenmiş değeri anlaşılır; etkin pişmanlıkta ödenecek tutar da bu değerin iki katı üzerinden belirlenir. En güçlü tuzak, ithal ve ihraç eşyası için aynı CIF esaslı formülü öngören ifadedir. Bu nedenle doğru cevap C seçeneğidir. (MD 2, 15)
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 3*
 
@@ -269,18 +245,16 @@ E) Cezalar iki kat artırılır; bu artırımla verilecek ceza beş yıldan az o
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 3*
 
-**5-** (K), elektronik eşyadan oluşan bir partiyi gümrük işlemlerine tabi tutmaksızın ve gümrük kapıları dışından ülkeye sokmak isterken sınır hattında yakalanmış; fiil teşebbüs aşamasında kalmıştır. Fiil tek başına işlenmiş olup eşyanın değeri fahiş, hafif veya pek hafif değildir.
+**5-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre, eşyayı gümrük işlemlerine tabi tutmaksızın gümrük kapıları dışından ülkeye sokmak isterken yakalanan ve fiili teşebbüs aşamasında kalan kişi hakkında uygulanacak ceza hükmüne ilişkin aşağıdakilerden hangisi doğrudur?
 
-5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre (K) hakkında uygulanacak ceza hükmüne ilişkin aşağıdakilerden hangisi doğrudur?  
+A) Fiil tamamlanmış gibi cezalandırılır; ceza, eşyanın gümrük kapıları dışından sokulmak istenmesi nedeniyle yarısından iki katına kadar artırılır ve üç yıldan az olamaz.  
+B) Fiil tamamlanmış gibi cezalandırılır; ceza, eşyanın gümrük kapıları dışından sokulmak istenmesi nedeniyle yarı oranında artırılır.  
+C) Fiil teşebbüs aşamasında kaldığından verilecek ceza yarı oranında indirilir.  
+D) Fiil teşebbüs aşamasında kaldığından cezaya hükmolunmaz; yalnızca 4458 sayılı Gümrük Kanunu hükümlerine göre işlem yapılır.  
+E) Fiil tamamlanmış gibi cezalandırılır; ceza, eşyanın gümrük kapıları dışından sokulmak istenmesi nedeniyle üçte birinden yarısına kadar artırılır.  
 
-A) Fiil tamamlanmış gibi cezalandırılır; ceza, eşyanın niteliği nedeniyle yarısından iki katına kadar artırılır ve üç yıldan az olamaz.  
-B) Fiil tamamlanmış gibi cezalandırılır; ceza, eşya gümrük kapıları dışından sokulmak istendiği için yarı oranında artırılır.  
-C) Fiil tamamlanmış gibi cezalandırılır; ceza, eşya gümrük kapıları dışından sokulmak istendiği için üçte birinden yarısına kadar artırılır.  
-D) Fiil teşebbüs aşamasında kaldığından verilecek ceza yarı oranında indirilir.  
-E) Fiil teşebbüs aşamasında kaldığından cezaya hükmolunmaz; yalnızca 4458 sayılı Gümrük Kanunu hükümlerine göre işlem yapılır.  
-
-**Doğru Cevap:** C  
-**Gerekçe:** 5607 sayılı Kanun'a göre eşyayı gümrük işlemlerine tabi tutmaksızın ülkeye sokan kişi bir yıldan beş yıla kadar hapis ve on bin güne kadar adli para cezası ile cezalandırılır; eşyanın gümrük kapıları dışından ülkeye sokulması hâlinde verilecek ceza üçte birinden yarısına kadar artırılır. Kanun, kaçakçılık suçlarında tanımlanan fiillerin teşebbüs aşamasında kalmış olsa bile tamamlanmış gibi cezalandırılacağını öngörür; bu nedenle teşebbüs gerekçesiyle indirim yapılmaz. Vakada saklanan istisna eşyanın niteliğidir: yarısından iki katına kadar artırım ve üç yıllık alt sınır yalnızca akaryakıt, tütün, tütün mamulleri, makaron, yaprak sigara kâğıdı, etil alkol, metanol ve alkollü içkiler için öngörülmüştür; elektronik eşya bu listede yoktur. En güçlü çeldirici bu seçenektir: elektronik eşya, Kanunda mahkûmiyet hükmü kesinleşenlerin kamuoyuna ilanı bakımından sayılan kaçakçılık türleri arasında geçtiği için ağırlaştırıcı listede de varmış gibi görünür. Yarı oranında artırım üç veya daha fazla kişiyle birlikte işlemeye, yarı oranında indirim ise soruşturma evresinde ödeme yapılan etkin pişmanlığa aittir. Bu nedenle doğru cevap C seçeneğidir. (MD 3)
+**Doğru Cevap:** E  
+**Gerekçe:** 5607 sayılı Kanun'a göre eşyayı gümrük işlemlerine tabi tutmaksızın ülkeye sokan kişi bir yıldan beş yıla kadar hapis ve on bin güne kadar adlî para cezası ile cezalandırılır; eşyanın gümrük kapıları dışından ülkeye sokulması hâlinde verilecek ceza üçte birinden yarısına kadar artırılır. Kanun, kaçakçılık suçlarında tanımlanan fiillerin teşebbüs aşamasında kalmış olsa bile tamamlanmış gibi cezalandırılacağını öngörür; bu nedenle teşebbüs gerekçesiyle indirim yapılmaz ve cezaya hükmolunmaması söz konusu olmaz. Yarısından iki katına kadar artırım ve üç yıllık alt sınır, gümrük kapılarına değil suç konusu eşyanın akaryakıt, tütün, tütün mamulleri, makaron, yaprak sigara kâğıdı, etil alkol, metanol veya alkollü içki olmasına bağlanmıştır. Yarı oranında artırım üç veya daha fazla kişiyle birlikte işlemeye, yarı oranında indirim ise soruşturma evresinde ödeme yapılan etkin pişmanlığa aittir; yalnızca Gümrük Kanunu hükümlerine göre işlem yapılması, ihracatta beyan ile gerçekte ihraç edilen eşya arasında yüzde onu aşmayan fark bulunması hâline özgüdür. En güçlü tuzak, gümrük kapıları dışından sokmadaki artırımı ağırlaştırıcı eşya listesindeki yarısından iki katına kadar artırımla karıştıran ifadedir. Bu nedenle doğru cevap E seçeneğidir. (MD 3)
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 4*
 
@@ -293,31 +267,25 @@ E) Fiil teşebbüs aşamasında kaldığından cezaya hükmolunmaz; yalnızca 44
 
 A) Verilecek ceza iki kat artırılır.  
 B) Verilecek ceza üçte birinden yarısına kadar artırılır.  
-C) (M) kaçakçılığı önlemekle görevli olmadığından nitelikli hâl hükümleri uygulanmaz; ceza artırılmaz.  
-D) Kaçakçılık suçunun cezasına ek olarak belgede sahtecilik suçundan da ayrıca cezaya hükmolunur.  
-E) Verilecek ceza yarı oranında artırılır.  
+C) Verilecek ceza yarı oranında artırılır.  
+D) (M) kaçakçılığı önlemekle görevli olmadığından nitelikli hâl hükümleri uygulanmaz; ceza artırılmaz.  
+E) Kaçakçılık suçunun cezasına ek olarak belgede sahtecilik suçundan da ayrıca cezaya hükmolunur.  
 
-**Doğru Cevap:** E  
-**Gerekçe:** 5607 sayılı Kanun'a göre Kanunda tanımlanan suçların, kaçakçılık fiillerini önlemek, izlemek, araştırmak ve soruşturmakla görevli kişiler tarafından veya meslek ve sanatın sağladığı kolaylıklardan yararlanmak suretiyle işlenmesi hâlinde verilecek ceza yarı oranında artırılır. Hükümdeki iki durum 'veya' ile bağlanmıştır; failin görevli olmaması, meslek kolaylığından yararlanma nedeniyle yapılacak artırımı engellemez. Vakada saklanan tuzak budur: (M) görevli değildir, ancak gümrük müşavirliği mesleğinin sağladığı kolaylıklardan yararlanmıştır. İki kat artırım örgüt faaliyeti çerçevesinde işlenen suçlara aittir; fiil örgüt faaliyeti kapsamında değildir. Üçte birinden yarısına kadar artırım eşyanın gümrük kapıları dışından ülkeye sokulmasına aittir. Belgede sahtecilik yapılması hâlinde ayrıca bu suçtan da cezaya hükmolunur; vakada sahtecilik yoktur. En güçlü çeldirici 'nitelikli hâl hükümleri uygulanmaz' seçeneğidir: meslek mensubunun yalnızca görevli kamu personeline ilişkin ağırlaştırmanın dışında kaldığı yanılgısına dayanır. Bu nedenle doğru cevap E seçeneğidir. (MD 4)
+**Doğru Cevap:** C  
+**Gerekçe:** 5607 sayılı Kanun'a göre Kanunda tanımlanan suçların, kaçakçılık fiillerini önlemek, izlemek, araştırmak ve soruşturmakla görevli kişiler tarafından veya meslek ve sanatın sağladığı kolaylıklardan yararlanmak suretiyle işlenmesi hâlinde verilecek ceza yarı oranında artırılır. Hükümdeki iki durum 'veya' ile bağlanmıştır; failin görevli olmaması, meslek kolaylığından yararlanma nedeniyle yapılacak artırımı engellemez. Vakada saklanan tuzak budur: (M) görevli değildir, ancak gümrük müşavirliği mesleğinin sağladığı kolaylıklardan yararlanmıştır. İki kat artırım örgüt faaliyeti çerçevesinde işlenen suçlara aittir; fiil örgüt faaliyeti kapsamında değildir. Üçte birinden yarısına kadar artırım eşyanın gümrük kapıları dışından ülkeye sokulmasına aittir. Belgede sahtecilik yapılması hâlinde ayrıca bu suçtan da cezaya hükmolunur; vakada sahtecilik yoktur. En güçlü çeldirici 'nitelikli hâl hükümleri uygulanmaz' seçeneğidir: ağırlaştırmanın yalnızca kaçakçılığı önlemekle görevli kişilere uygulandığı ve görevli olmayan meslek mensubunu kapsamadığı yanılgısına dayanır. Bu nedenle doğru cevap C seçeneğidir. (MD 4)
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 4*
 
-**7-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun nitelikli hâllere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**7-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun nitelikli hâllere ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Kanunda tanımlanan suçların üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde, verilecek ceza yarı oranında artırılır.  
-II. Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da Kanunda tanımlanan suçların işlenmesine kasten göz yuman kişi, işlenen suçun müşterek faili olarak sorumlu tutulur.  
-III. Kanunda tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde, verilecek ceza yarı oranında artırılır.  
-IV. Tütün ve tütün mamulleri, alkollü içkiler ve akaryakıt kaçakçılığı ile ilgili olarak haklarında kamu davası açılanlar, Bakanlıkça kamuoyuna ilan edilebilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+A) Kanunda tanımlanan suçların üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde, verilecek ceza yarı oranında artırılır.  
+B) Kanunda tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde, verilecek ceza yarı oranında artırılır.  
+C) Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da Kanunda tanımlanan suçların işlenmesine kasten göz yuman kişi, işlenen suçun müşterek faili olarak sorumlu tutulur.  
+D) Kaçak akaryakıt satışının sabit ya da seyyar tank, düzenek veya ekipman kullanılarak gerçekleştirilmesi hâlinde verilecek cezalar iki kat artırılır.  
+E) Tütün ve tütün mamulleri, alkollü içkiler ve akaryakıt kaçakçılığı ile ilgili mahkûmiyet hükmü kesinleşenler, Gümrük ve Ticaret Bakanlığınca kamuoyuna ilan edilebilir.  
 
-A) I ve III  
-B) II ve IV  
-C) I ve II  
-D) I, II ve III  
-E) I, II ve IV  
-
-**Doğru Cevap:** C  
-**Gerekçe:** 5607 sayılı Kanun'a göre Kanunda tanımlanan suçların üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde verilecek ceza yarı oranında artırılır (I doğru). Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da suçların işlenmesine kasten göz yuman kişi, işlenen suçun müşterek faili olarak sorumlu tutulur (II doğru). Suçların bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde ise verilecek ceza yarı oranında değil, iki kat artırılır (III yanlış). Tütün, alkollü içki, akaryakıt gibi kaçakçılık türleri ile ilgili olarak Bakanlıkça kamuoyuna ilan edilebilecek olanlar mahkûmiyet hükmü kesinleşenlerdir; kamu davası açılmış olması yeterli değildir (IV yanlış). En güçlü çeldirici 'I, II ve III' seçeneğidir: birlikte işleme ile örgüt faaliyeti birbirine yakın nitelikli hâllerdir, ancak ilkinde artırım yarı oranında, ikincisinde iki kattır. Bu nedenle doğru cevap C seçeneğidir. (MD 4)
+**Doğru Cevap:** B  
+**Gerekçe:** 5607 sayılı Kanun'a göre Kanunda tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde verilecek ceza yarı oranında değil, iki kat artırılır. Diğer ifadeler Kanunla uyumludur: suçların üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde ceza yarı oranında artırılır; kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da suçların işlenmesine kasten göz yuman kişi işlenen suçun müşterek faili olarak sorumlu tutulur; kaçak akaryakıt satışının sabit ya da seyyar tank, düzenek veya ekipman kullanılarak gerçekleştirilmesi hâlinde cezalar iki kat artırılır; tütün, alkollü içki ve akaryakıt gibi kaçakçılık türleriyle ilgili olarak kamuoyuna ilan edilebilecek olanlar mahkûmiyet hükmü kesinleşenlerdir. En güçlü tuzak, birbirine yakın iki nitelikli hâl olan birlikte işleme ile örgüt faaliyetinin artırım oranlarının karıştırılmasıdır: birlikte işlemede yarı oranında, örgüt faaliyetinde iki kat artırım yapılır. Bu nedenle doğru cevap B seçeneğidir. (MD 4)
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 5, 13*
 
@@ -338,7 +306,7 @@ E) I, II ve III
 **Doğru Cevap:** A  
 **Gerekçe:** 5607 sayılı Kanun'a göre kaçakçılık suçlarından birine iştirak etmiş olan kişi, resmî makamlar tarafından haber alınmadan önce fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verir ve bilgi faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlarsa cezalandırılmaz (I doğru). Haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza üçte iki oranında indirilir; yarı oranında değil (II yanlış). İthali yasak eşyaya ilişkin suç hariç olmak üzere kaçakçılık suçlarından birini işleyen kişi, suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar parayı soruşturma evresi sona erinceye kadar öderse ceza yarı oranında, kovuşturma evresinde hüküm verilinceye kadar öderse üçte bir oranında indirilir (III doğru). Etkin pişmanlık nedeniyle cezaya hükmolunmaması veya kamu davasının düşmesine karar verilmesi, suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil etmez (IV yanlış). En güçlü çeldirici 'I, II ve III' seçeneğidir: soruşturma evresindeki yarı oranında indirim, haber alındıktan sonraki yardıma uygulanan üçte iki indirimle karıştırılır. Bu nedenle doğru cevap A seçeneğidir. (MD 5, 13)
 
-*5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 9, 22*
+*5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 9, 20, 22*
 
 **9-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun arama ve elkoyma ile silah kullanma yetkisine ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
@@ -364,18 +332,18 @@ E) CIF kıymeti
 **Doğru Cevap:** B  
 **Gerekçe:** 5607 sayılı Kanun'a göre alıkonulan taşıt, sahibinin taşıtın değeri kadar teminatı alıkoyma tarihinden itibaren otuz gün içinde gümrük idaresine teslim etmesi hâlinde iade edilir. Bu hükmün uygulanmasındaki değerden kara taşıtlarında kasko değeri, deniz taşıtlarında tekne ve makine sigortasına esas teşkil eden değer, sigortasız taşıtlar ile hava ve demiryolu taşıtlarında ise piyasa değeri anlaşılır. Hava taşıtında sigortanın bulunup bulunmaması sonucu değiştirmez; Kanun hava ve demiryolu taşıtlarını sigortasız taşıtlarla birlikte piyasa değerine bağlamıştır. En güçlü çeldirici tekne ve makine sigortasına esas değerdir: kökteki 'sigortası bulunan' ifadesi adayı sigorta değerine yöneltir, ancak bu değer yalnızca deniz taşıtlarına aittir. Kasko değeri kara taşıtlarına, gümrüklenmiş değer müsadere konusu eşyanın kaim değerine, CIF kıymeti ise giriş kaçağı eşyada ikramiye hesabına aittir. Bu nedenle doğru cevap B seçeneğidir. (MD 10)
 
-*5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 10*
+*5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 10, 16*
 
 **11-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'na göre kaçak eşya naklinde kullanıldığı şüphesiyle fiilen gümrük idaresine teslim edilmiş ve hakkında elkoyma kararı bulunmakla birlikte alıkonulmamış taşıtın, muhafaza ve diğer masraflar karşılanarak sahibince teslim alınması gereken süre ve bu sürenin başlangıcı aşağıdakilerden hangisidir?
 
 A) Alıkoyma tarihinden itibaren otuz gün  
 B) Gümrük idaresince yapılacak tebligattan itibaren otuz gün  
-C) El koyma tarihinden itibaren doksan gün  
-D) El koyma tarihinden itibaren altı ay  
-E) Gümrük idaresince yapılacak tebligattan itibaren doksan gün  
+C) Gümrük idaresince yapılacak tebligattan itibaren doksan gün  
+D) El koyma tarihinden itibaren doksan gün  
+E) El koyma tarihinden itibaren altı ay  
 
-**Doğru Cevap:** E  
-**Gerekçe:** 5607 sayılı Kanun'a göre kaçak eşya naklinde kullanıldığı şüphesiyle fiilen gümrük idaresine veya yediemine teslim edilmiş ve hakkında elkoyma kararı bulunmakla birlikte alıkonulmayan taşıtlar, gümrük idaresince yapılacak tebligattan itibaren doksan gün içinde muhafaza ve diğer masraflar karşılanmak suretiyle sahibi tarafından teslim alınmazsa, tasfiye idaresince soruşturma ve kovuşturma sonucu beklenmeksizin derhal tasfiye olunur. Bu hüküm 06.11.2021 tarihinde 7341 sayılı Kanunla eklenmiştir. Alıkoyma tarihinden itibaren otuz gün, alıkonulan taşıtın değeri kadar teminatın gümrük idaresine teslim edilmesi için öngörülen süredir. El koyma tarihinden itibaren altı ay, kaçak şüphesiyle el konulan eşya hakkında tasfiye kararı verilmesine ilişkin genel süredir. En güçlü çeldirici 'El koyma tarihinden itibaren doksan gün' seçeneğidir: süre doğrudur, ancak başlangıç anı el koyma tarihi değil, gümrük idaresinin tebligatıdır. Bu nedenle doğru cevap E seçeneğidir. (MD 10, 16)
+**Doğru Cevap:** C  
+**Gerekçe:** 5607 sayılı Kanun'a göre kaçak eşya naklinde kullanıldığı şüphesiyle fiilen gümrük idaresine veya yediemine teslim edilmiş ve hakkında elkoyma kararı bulunmakla birlikte alıkonulmayan taşıtlar, gümrük idaresince yapılacak tebligattan itibaren doksan gün içinde muhafaza ve diğer masraflar karşılanmak suretiyle sahibi tarafından teslim alınmazsa, tasfiye idaresince soruşturma ve kovuşturma sonucu beklenmeksizin derhal tasfiye olunur. Bu hüküm 06.11.2021 tarihinde 7341 sayılı Kanunla eklenmiştir. Alıkoyma tarihinden itibaren otuz gün, alıkonulan taşıtın değeri kadar teminatın gümrük idaresine teslim edilmesi için öngörülen süredir. El koyma tarihinden itibaren altı ay, kaçak şüphesiyle el konulan eşya hakkında tasfiye kararı verilmesine ilişkin genel süredir. En güçlü çeldirici 'El koyma tarihinden itibaren doksan gün' seçeneğidir: süre doğrudur, ancak başlangıç anı el koyma tarihi değil, gümrük idaresinin tebligatıdır. Bu nedenle doğru cevap C seçeneğidir. (MD 10, 16)
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 10, 13*
 
@@ -383,12 +351,12 @@ E) Gümrük idaresince yapılacak tebligattan itibaren doksan gün
 
 A) Taşıttaki kaçak eşyanın, taşıma aracı yüküne göre miktar veya hacim bakımından ağırlıklı bölümünü oluşturması  
 B) Taşıttaki kaçak eşyanın, Türkiye'ye girmesi yasak maddelerden olması  
-C) Taşıtın Türkiye'de sicile kayıtlı olmaması  
-D) Taşıtın değeri kadar teminatın gümrük idaresine teslim edilmiş olması  
+C) Taşıtın değeri kadar teminatın gümrük idaresine teslim edilmiş olması  
+D) Taşıtın Türkiye'de sicile kayıtlı olmaması  
 E) Taşıtın, kaçak eşya naklinde kullanıldığı şüphesiyle yediemine teslim edilmiş olması  
 
-**Doğru Cevap:** C  
-**Gerekçe:** 5607 sayılı Kanun'a göre suçların işlenmesinde kullanılan taşıtlara Ceza Muhakemesi Kanunu hükmüne göre elkonulur. Elkonulan taşıt; kaçak eşyanın özel olarak hazırlanmış gizli tertibat içinde saklanması veya taşınması koşulunun bulunması, Türkiye'de sicile kayıtlı olmaması ya da soruşturma ve kovuşturma devam ederken kaçakçılık suçunun işlenmesinde tekrar kullanılması hâlinde, elkoyma kararı veren mercilerce alıkonulur. Kaçak eşyanın taşıma aracı yükünün ağırlıklı bölümünü oluşturması ve Türkiye'ye girmesi yasak maddelerden olması, taşıma aracının müsaderesi için aranan koşullar arasındadır; alıkoyma sebebi olarak sayılmamıştır. Değeri kadar teminatın gümrük idaresine teslimi alıkonulan taşıtın sahibine iadesini sağlar. Yediemine teslim edilmiş olma ise alıkonulmayan taşıtlara ilişkin hükümde geçer. En güçlü çeldirici yükün ağırlıklı bölümüne ilişkin seçenektir: alıkoyma hâlleri müsadere koşullarından yalnızca gizli tertibatı kapsar. Bu nedenle doğru cevap C seçeneğidir. (MD 10, 13)
+**Doğru Cevap:** D  
+**Gerekçe:** 5607 sayılı Kanun'a göre suçların işlenmesinde kullanılan taşıtlara Ceza Muhakemesi Kanunu hükmüne göre elkonulur. Elkonulan taşıt; kaçak eşyanın özel olarak hazırlanmış gizli tertibat içinde saklanması veya taşınması koşulunun bulunması, Türkiye'de sicile kayıtlı olmaması ya da soruşturma ve kovuşturma devam ederken kaçakçılık suçunun işlenmesinde tekrar kullanılması hâlinde, elkoyma kararı veren mercilerce alıkonulur. Kaçak eşyanın taşıma aracı yükünün ağırlıklı bölümünü oluşturması ve Türkiye'ye girmesi yasak maddelerden olması, taşıma aracının müsaderesi için aranan koşullar arasındadır; alıkoyma sebebi olarak sayılmamıştır. Değeri kadar teminatın gümrük idaresine teslimi alıkonulan taşıtın sahibine iadesini sağlar. Yediemine teslim edilmiş olma ise alıkonulmayan taşıtlara ilişkin hükümde geçer. En güçlü çeldirici yükün ağırlıklı bölümüne ilişkin seçenektir: alıkoyma hâlleri müsadere koşullarından yalnızca gizli tertibatı kapsar. Bu nedenle doğru cevap D seçeneğidir. (MD 10, 13)
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 12*
 
@@ -450,22 +418,16 @@ E) I, II, III ve IV
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 17, 18, 19*
 
-**17-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun yargılama ve kaçakçılığı önleme görevine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**17-** 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nun yargılama ile kaçakçılığı önleme, izleme ve soruşturma görevine ilişkin hükümlerine göre aşağıdakilerden hangisi söylenemez?
 
-I. Kanunda tanımlanan suçlar dolayısıyla açılan davalarda mahkeme, iddianamenin bir örneğini ilgili gümrük idaresine de gönderir; gümrük idaresi başvurusu üzerine davaya katılan olarak kabul edilir.  
-II. Kanun kapsamına giren suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde de davalar, Hakimler ve Savcılar Yüksek Kurulunca belirlenen asliye ceza mahkemelerinde görülür.  
-III. Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanlar, operasyon gerektiren kaçakçılık olaylarından haberdar olduklarında kanuni görevlerini yapmaya başlar ve aynı zamanda mahallin en büyük mülki amirine de bilgi verirler.  
-IV. Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanların Kanun kapsamına giren suçlarla ilgili bilgi ve belge talepleri, yalnızca kamu kurum ve kuruluşlarınca eksiksiz olarak karşılanmak zorundadır.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) I ve II  
-B) I ve III  
-C) III ve IV  
-D) II ve IV  
-E) I, II ve IV  
+A) Kanunda tanımlanan suçlar dolayısıyla açılan davalarda mahkeme, iddianamenin bir örneğini ilgili gümrük idaresine de gönderir; gümrük idaresi başvurusu üzerine davaya katılan olarak kabul edilir.  
+B) Kanun kapsamına giren suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme ağır ceza mahkemesidir.  
+C) Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanlar, operasyon gerektiren kaçakçılık olaylarından haberdar olduklarında kanuni görevlerini yapmaya başlar ve aynı zamanda mahallin en büyük mülki amirine de bilgi verirler.  
+D) Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanların Kanun kapsamına giren suçlarla ilgili bilgi ve belge talepleri, yalnızca kamu kurum ve kuruluşlarınca eksiksiz olarak karşılanmak zorundadır.  
+E) Kanunda tanımlanan kaçakçılık suçlarını ihbar edenlerin kimliği, izinleri olmadıkça veya ihbarın niteliği haklarında suç oluşturmadıkça hiçbir şekilde açıklanamaz.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** 5607 sayılı Kanun'a göre Kanunda tanımlanan suçlar dolayısıyla açılan davalarda mahkeme, iddianamenin bir örneğini ilgili gümrük idaresine de gönderir; gümrük idaresi başvurusu üzerine davaya katılan olarak kabul edilir (I doğru). Bu suçlar dolayısıyla açılan davalar Adalet Bakanlığının teklifi üzerine Hakimler ve Savcılar Yüksek Kurulunca belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme ağır ceza mahkemesidir (II yanlış). Görevliler operasyon gerektiren kaçakçılık olaylarından haberdar olduklarında kanuni görevlerini yapmaya başlar ve aynı zamanda mahallin en büyük mülki amirine de bilgi verirler (III doğru). Görevlilerin bilgi ve belge talepleri, savunma hakkına ilişkin hükümler saklı kalmak kaydıyla kamu veya özel, gerçek veya tüzel kişilerce eksiksiz olarak karşılanmak zorundadır; yükümlülük kamu kurumlarıyla sınırlı değildir (IV yanlış). Kök yanlış olanları sorduğundan cevap II ve IV'tür. En güçlü çeldirici 'III ve IV' seçeneğidir: bilgi verilecek makamın Cumhuriyet başsavcılığı olduğunu sanan aday III'ü yanlış sayar. Bu nedenle doğru cevap D seçeneğidir. (MD 17, 18, 19)
+**Gerekçe:** 5607 sayılı Kanun'a göre kaçakçılığı önleme, izleme ve soruşturmakla görevli olanların Kanun kapsamına giren suçlarla ilgili bilgi ve belge talepleri, savunma hakkına ilişkin hükümler saklı kalmak kaydıyla kamu veya özel, gerçek veya tüzel kişilerce eksiksiz olarak karşılanmak zorundadır; yükümlülük kamu kurum ve kuruluşlarıyla sınırlı değildir. Diğer ifadeler Kanunla uyumludur: Kanunda tanımlanan suçlar dolayısıyla açılan davalarda mahkeme iddianamenin bir örneğini ilgili gümrük idaresine de gönderir ve gümrük idaresi başvurusu üzerine davaya katılan olarak kabul edilir; davalar Hakimler ve Savcılar Yüksek Kurulunca belirlenen asliye ceza mahkemelerinde görülür, ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçu işlenmişse görevli mahkeme ağır ceza mahkemesidir; görevliler operasyon gerektiren kaçakçılık olaylarından haberdar olduklarında görevlerine başlar ve mahallin en büyük mülki amirine de bilgi verirler; kaçakçılık suçlarını ihbar edenlerin kimliği izinleri olmadıkça veya ihbarın niteliği haklarında suç oluşturmadıkça açıklanamaz. En güçlü tuzak, sahtecilik bağlantısında da asliye ceza mahkemesinin görevli olduğunu düşünen adayın ağır ceza mahkemesini öngören doğru ifadeyi işaretlemesidir. Bu nedenle doğru cevap D seçeneğidir. (MD 17, 18, 19)
 
 *5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 19, 23*
 
@@ -510,12 +472,12 @@ E) Kriminal laboratuvarların çalışma usul ve esasları
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 4 (I ve II, I ve III, I, III ve IV, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 19, TERSİNE 8, YAKIN-SAYI 6, LİSTE-DIŞI 5, SAĞDUYU 4, İSTİSNA 3 |
-| İkiz eksen / ayna | — / alıkonulan taşıt değeri: kara taşıtı kasko (2025/89) ↔ hava taşıtı piyasa değeri, gümrüklenmiş değer: ithal eşyası hesabı (2023/45) ↔ ihraç eşyası hesabı, taşıt: alıkoyma hâlleri ↔ müsadere koşulları, yasak eşyanın geri gönderilmesi: zararlı eşya (2022/23) ↔ belgede belirtilen yasak eşya, önleme-izleme yükümlüleri: listede olmayan (2021/93, 2022/25, 2023/22) ↔ listede olan |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (I ve III, I, III ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 19, TERSİNE 8, YAKIN-SAYI 7, SAĞDUYU 5, LİSTE-DIŞI 4, UNSUR 4 |
+| İkiz eksen / ayna | — / alıkonulan taşıt değeri: kara taşıtı kasko (2025/89) ↔ hava taşıtı piyasa değeri, gümrüklenmiş değer: tanımdan ad (2025/87) ↔ addan tanım, taşıt: alıkoyma hâlleri ↔ müsadere koşulları, yasak eşyanın geri gönderilmesi: zararlı eşya (2022/23) ↔ belgede belirtilen yasak eşya, önleme-izleme yükümlüleri: listede olmayan (2021/93, 2022/25, 2023/22) ↔ listede olan |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 16 |
 | Cevap harfleri | A 4 · B 4 · C 4 · D 4 · E 4 |

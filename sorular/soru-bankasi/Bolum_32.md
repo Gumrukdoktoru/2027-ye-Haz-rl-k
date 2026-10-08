@@ -14,19 +14,13 @@ C) Serbest dolaşıma girmemiş eşyanın Türkiye Gümrük Bölgesinde, ithalat
 D) Serbest dolaşımdaki eşyanın işleme faaliyetlerine tabi tutulmak üzere Türkiye Gümrük Bölgesinden geçici olarak ihracı ve bu faaliyetler sonucunda elde edilen ürünlerin ithal vergilerinden tam veya kısmi muafiyet suretiyle yeniden serbest dolaşıma girişine ilişkin hükümlerin uygulandığı rejimdir.  
 E) Serbest dolaşıma girmemiş eşyanın Türkiye Gümrük Bölgesinde, ithalat vergilerine veya ticaret politikası önlemlerine tabi tutulmaksızın, niteliğini veya durumunu değiştiren işlemlere tabi tutulmaları ve bu işlemlerden elde edilen ürünlerin gümrük vergileri üzerinden serbest dolaşıma girmelerine ilişkin hükümlerin uygulandığı rejimdir.  
 
-**2-** 4458 sayılı Gümrük Kanunu'nun gümrük kontrolü altında işleme rejimine ve bu rejime ilişkin izne dair hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**2-** 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejimi kapsamında yapılan işlemlerden elde edilen ürünlere verilen ad aşağıdakilerden hangisidir?
 
-I. Rejim kapsamında yapılan işlemlerden elde edilen ürünler, işlenmiş ürün olarak adlandırılır.  
-II. İzin, ticari nitelikte olmayan işleme amaçlı ithalat için Türkiye Gümrük Bölgesi dışında yerleşik kişilere de verilebilir.  
-III. İzin, işleme işini yapan veya yaptıran kişinin talebi üzerine gümrük idarelerince verilir.  
-IV. Rejime ilişkin süreler, rejimin ibrası ve verimlilik oranları Cumhurbaşkanı Kararıyla belirlenir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve IV  
-C) I ve III  
-D) III ve IV  
-E) I, III ve IV  
+A) İkame ürün  
+B) Asıl işlem görmüş ürün  
+C) İşlenmiş ürün  
+D) İkincil işlem görmüş ürün  
+E) Değişmemiş eşya  
 
 **3-** 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme izninin Türkiye Gümrük Bölgesinde yerleşik kişilere verilebilmesi için aranan hâller arasında aşağıdakilerden hangisi yer almaz?
 
@@ -44,17 +38,13 @@ C) İzin belgesinde öngörülen sürenin sona erdiği tarihte
 D) Gümrük yükümlülüğünün başladığı tarihte  
 E) İthal eşyasının bu rejime ilişkin beyannamenin tescili sırasında  
 
-**5-** (P) Kimya A.Ş., gümrük kontrolü altında işleme izni kapsamında (X) ülkesinden getirdiği hammaddeyi rejime tabi tutmuştur. Hammadde, (X) ülkesiyle uygulanan ve tarife kotasına tabi bir tercihli tarifeden yararlanabilmekte; aynı tercihli tarife uygulaması, serbest dolaşıma girecek aynı nitelikteki işlenmiş ürünlere de uygulanabilmektedir.
+**5-** 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejiminde, tarife kotalarına veya tarife tavanlarına tabi bir tercihli tarifede öngörülen vergi oranının işlenmiş ürünlere uygulanması aşağıdakilerden hangisine bağlıdır?
 
-- Rejime giriş beyannamesinin tescil edildiği tarihte tarife kotası açıktır.  
-- İşlenmiş ürünlerin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte tarife kotası dolmuş olup söz konusu tercihli tarife hammaddeye artık uygulanamamaktadır.  
-4458 sayılı Gümrük Kanunu'na göre işlenmiş ürünlerin serbest dolaşıma girişinde ithalat vergilerinin hesaplanmasıyla ilgili aşağıdakilerden hangisi doğrudur?  
-
-A) Rejime giriş beyannamesinin tescil edildiği tarihte tarife kotası açık olduğundan işlenmiş ürünlere tercihli vergi oranı uygulanır.  
-B) Tercihli vergi oranı uygulanır; işlenmiş ürünlerle aynı olan ürünler için açılmış tarife kotasının hesabına işlenmiş ürün miktarı kadar ilave yapılır.  
-C) Tercihli tarife, serbest dolaşıma giriş beyannamesinin tescili sırasında hammaddeye uygulanamadığından işlenmiş ürünlere tercihli vergi oranı uygulanamaz.  
-D) Tarife kotası dolmuş olsa da aynı tercihli tarife aynı nitelikteki işlenmiş ürünlere uygulanabildiğinden tercihli vergi oranı uygulanır.  
-E) İşlenmiş ürünlerin ithalat vergileri, hammaddenin rejime giriş beyannamesinin tescili sırasında yürürlükte bulunan vergi oranı ve diğer vergilendirme unsurlarına göre hesaplanır.  
+A) Tercihli tarifenin rejime giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi  
+B) Tercihli tarifenin izin belgesinin tarihinde ithal eşyasına uygulanabilmesi  
+C) Tercihli tarifenin serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi  
+D) İşlenmiş ürünlerle aynı olan ürünler için açılmış tarife kotası hesabına işlenmiş ürün miktarı kadar ilave yapılması  
+E) İşlenmiş ürünlerin serbest dolaşıma giriş beyannamesinin izin süresinin sona ermesinden önce tescil edilmesi  
 
 **6-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre gümrük kontrolü altında işleme rejiminin uygulandığı işlem ve eşyaya ilişkin aşağıdakilerden hangisi doğrudur?
 
@@ -64,15 +54,15 @@ C) Rejim, ancak işlenmiş ürünlerin Türkiye Gümrük Bölgesinden yeniden ih
 D) Rejim konusu eşya, serbest dolaşıma giriş rejimi dışında gümrükçe onaylanmış bir işlem veya kullanıma hiçbir durumda tabi tutulamaz.  
 E) Rejim, serbest dolaşımdaki eşyanın Türkiye Gümrük Bölgesi dışında niteliğini veya durumunu değiştiren işlemlere tabi tutulması için uygulanır.  
 
-**7-** (G) Gıda A.Ş.'ye gümrük idaresince, 14 Nisan 2025 tarihli izin belgesiyle 18 ay geçerlilik süreli gümrük kontrolü altında işleme izni verilmiştir. Firmanın izin sahibi olarak ileri sürdüğü haklı gerekçeler kabul edilmiş ve iznin süresi, Gümrük Yönetmeliği'nde öngörülen azami süre kadar uzatılmıştır.
+**7-** (G) Gıda A.Ş.'ye gümrük idaresince, 14 Mart 2025 tarihli izin belgesiyle 18 ay geçerlilik süreli gümrük kontrolü altında işleme izni verilmiştir. Firmanın izin sahibi olarak ileri sürdüğü haklı gerekçeler kabul edilmiş ve iznin süresi, Gümrük Yönetmeliği'nde öngörülen azami süre kadar uzatılmıştır.
 
 Gümrük Yönetmeliği'nin gümrük kontrolü altında işleme iznine ilişkin hükümlerine göre uzatılan iznin süresi hangi tarihte sona erer?  
 
-A) 31 Ekim 2026  
-B) 30 Kasım 2026  
-C) 14 Ocak 2027  
-D) 31 Ocak 2027  
-E) 14 Nisan 2027  
+A) 30 Eylül 2026  
+B) 31 Ekim 2026  
+C) 14 Aralık 2026  
+D) 31 Aralık 2026  
+E) 14 Mart 2027  
 
 **8-** Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3)'e göre firmaların mücbir sebep ve beklenmeyen hâllerden yararlanabilmeleri için izni veren gümrük müdürlüğüne hangi süre içerisinde müracaat etmeleri gerekir?
 
@@ -169,15 +159,13 @@ C) II ve IV
 D) I, II ve III  
 E) I, II, III ve IV  
 
-**18-** (R) Metal A.Ş.'nin gümrük kontrolü altında işleme izninin süresi 30 Nisan 2026 tarihinde sona ermiştir. Süre uzatımı talebinde bulunmayan firma, rejim kapsamında Türkiye Gümrük Bölgesine getirdiği eşyaya ilişkin rejimin gerektirdiği işlemleri 22 Haziran 2026 tarihinde bitirmiştir.
+**18-** Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3) ve 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejimi kapsamında getirilen eşyanın işlemlerinin izin süresinden sonra bitirilmesi ve rejim hükümlerinin ihlali hâlinde uygulanacak yaptırımlara ilişkin aşağıdakilerden hangisi söylenemez?
 
-Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3) ve 4458 sayılı Gümrük Kanunu'na göre, ceza koyan özel hükümler saklı kalmak kaydıyla firmaya uygulanacak yaptırım aşağıdakilerden hangisidir?  
-
-A) Kanunda öngörülen usulsüzlük cezası miktarının iki katı tutarında usulsüzlük cezası  
-B) Kanunda öngörülen usulsüzlük cezası miktarının altı katı tutarında usulsüzlük cezası  
-C) Kanunda öngörülen usulsüzlük cezası miktarının dört katı tutarında usulsüzlük cezası  
-D) Eşyanın gümrüklenmiş değerinin iki katı tutarında idari para cezası  
-E) Gümrük vergileri ile gecikme zammı oranında hesaplanan faizin toplamı kadar idari para cezası  
+A) İzin süresinin bitimini takiben bir ay içinde rejimin gerektirdiği işlemleri bitirilen eşya için usulsüzlük cezası, Kanunda öngörülen miktarın iki katı olarak uygulanır.  
+B) Belirtilen süreler içinde işlemleri bitirilmeyen eşya ile rejim hükümlerinin ihlali hâlinde Gümrük Kanunu'nun rejim ihlallerine ilişkin idari para cezası hükmüne göre işlem yapılır.  
+C) İzin süresinin bitimini takiben iki ayı aşmayan süre içinde rejimin gerektirdiği işlemleri bitirilen eşya için usulsüzlük cezası, Kanunda öngörülen miktarın iki katı olarak uygulanır.  
+D) Rejim hükümleri ihlal edilmekle birlikte eşyanın, işlem görmüş ürün hâli de dâhil olmak üzere gümrük gözetiminden mevzuata aykırı olarak çıkarılmadığı tespit edilirse, gümrük vergileri ile gecikme zammı oranında hesaplanan faizin toplamı kadar idari para cezası verilir.  
+E) Genel yönetim kapsamındaki kamu idareleri hakkında süre aşımına ilişkin iki ve dört kat usulsüzlük cezası hükümleri uygulanmaz; bu durumda Kanunda öngörülen usulsüzlük cezası uygulanır.  
 
 **19-** Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3)'e göre izin süresi, mücbir sebep ve beklenmeyen hâller ile rejimin ibrasına ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -216,24 +204,18 @@ E) Serbest dolaşıma girmemiş eşyanın Türkiye Gümrük Bölgesinde, ithalat
 **Doğru Cevap:** E  
 **Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejimi, serbest dolaşıma girmemiş eşyanın Türkiye Gümrük Bölgesinde ithalat vergilerine veya ticaret politikası önlemlerine tabi tutulmaksızın niteliğini veya durumunu değiştiren işlemlere tabi tutulması ve bu işlemlerden elde edilen ürünlerin gümrük vergileri üzerinden serbest dolaşıma girmesine ilişkin hükümlerin uygulandığı rejimdir. Rejimin özü, vergilendirmenin girdiye göre değil, işlem sonunda ortaya çıkan ürüne göre yapılmasıdır. Diğer tanımlar komşu rejimlere aittir: olağan yıpranma dışında değişikliğe uğramadan kullanılıp yeniden ihraç edilen eşya geçici ithalat rejiminin; işlem görmüş ürünlerin yeniden ihracı amacıyla vergilerin teminata bağlanarak yapılan geçici ithalat dahilde işleme rejiminin (şartlı muafiyet sistemi); serbest dolaşımdaki eşyanın işlenmek üzere geçici ihracı ve ürünlerin muafiyetle geri gelmesi hariçte işleme rejiminin tanımıdır. En güçlü çeldirici, ürünlerin bünyelerindeki ithal eşyasına ait vergiler üzerinden serbest dolaşıma girdiğini söyleyen seçenektir: Kanun ithal eşyasının vergilendirme unsurlarını yalnızca değişmemiş eşya veya ara aşamadaki ürünler için yükümlülük doğduğunda esas alır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 123; GK 108, 126, 128, 135)
 
-*4458 sayılı Gümrük Kanunu md. 123, 124, 125*
+*4458 sayılı Gümrük Kanunu md. 123*
 
-**2-** 4458 sayılı Gümrük Kanunu'nun gümrük kontrolü altında işleme rejimine ve bu rejime ilişkin izne dair hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**2-** 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejimi kapsamında yapılan işlemlerden elde edilen ürünlere verilen ad aşağıdakilerden hangisidir?
 
-I. Rejim kapsamında yapılan işlemlerden elde edilen ürünler, işlenmiş ürün olarak adlandırılır.  
-II. İzin, ticari nitelikte olmayan işleme amaçlı ithalat için Türkiye Gümrük Bölgesi dışında yerleşik kişilere de verilebilir.  
-III. İzin, işleme işini yapan veya yaptıran kişinin talebi üzerine gümrük idarelerince verilir.  
-IV. Rejime ilişkin süreler, rejimin ibrası ve verimlilik oranları Cumhurbaşkanı Kararıyla belirlenir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve IV  
-C) I ve III  
-D) III ve IV  
-E) I, III ve IV  
+A) İkame ürün  
+B) Asıl işlem görmüş ürün  
+C) İşlenmiş ürün  
+D) İkincil işlem görmüş ürün  
+E) Değişmemiş eşya  
 
 **Doğru Cevap:** C  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejiminde elde edilen ürünler işlenmiş ürün olarak adlandırılır; dahilde işlemedeki işlem görmüş ürün kavramıyla karıştırılmamalıdır (I doğru). Kanuna göre izin, işleme işini yapan veya yaptıran kişinin talebi üzerine gümrük idarelerince verilir (III doğru). İzin sadece Türkiye Gümrük Bölgesinde yerleşik kişilere verilir; ticari nitelikte olmayan işleme amaçlı ithalat için bölge dışında yerleşik kişilere de izin verilebilmesi dahilde işleme rejimine özgü bir istisnadır (II yanlış). Rejime ilişkin süreler, rejimin ibrası ve verimlilik oranları, dahilde işlemedeki esaslar çerçevesinde yönetmelikle belirlenir; sürelerin Cumhurbaşkanı Kararıyla belirlenmesi dahilde işleme rejimine ait bir hükümdür (IV yanlış). En güçlü çeldirici II'dir: iki rejimin izin hükümleri neredeyse aynıdır, ancak yerleşik olmayan kişiye izin istisnası yalnızca dahilde işlemede vardır. Bu nedenle doğru cevap C seçeneğidir. (MD GK 123, 124, 125; GK 110, 111)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejimi, serbest dolaşıma girmemiş eşyanın Türkiye Gümrük Bölgesinde ithalat vergilerine veya ticaret politikası önlemlerine tabi tutulmaksızın niteliğini veya durumunu değiştiren işlemlere tabi tutulması ve elde edilen ürünlerin gümrük vergileri üzerinden serbest dolaşıma girmesidir; Kanun bu işlemlerden elde edilen ürünleri işlenmiş ürün olarak adlandırır. İkame ürün, hariçte işleme rejiminin standart değişim sisteminde işlem görmüş ürünün yerine geçen ithal eşyasının adıdır. Asıl işlem görmüş ürün ve ikincil işlem görmüş ürün, Kanunun dahilde işleme rejimi için tanımladığı deyimlerdir: asıl ürün dahilde işleme rejimi kapsamında elde edilmesi amaçlanan ürün, ikincil ürün ise işleme sonucunda elde edilen asıl ürün dışındaki üründür. Değişmemiş eşya ise rejimde işlenmeden kalan ithal eşyasını anlatır; bu eşya için yükümlülük doğarsa vergiler rejime ilişkin beyannamenin tescili sırasındaki unsurlara göre belirlenir. En güçlü tuzak asıl işlem görmüş üründür: dahilde işleme rejiminin terimi, aynı aileden bir işleme rejimine taşınmıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GK 123; GK 108, 126, 144)
 
 *4458 sayılı Gümrük Kanunu md. 124*
 
@@ -263,20 +245,16 @@ E) İthal eşyasının bu rejime ilişkin beyannamenin tescili sırasında
 
 *4458 sayılı Gümrük Kanunu md. 127*
 
-**5-** (P) Kimya A.Ş., gümrük kontrolü altında işleme izni kapsamında (X) ülkesinden getirdiği hammaddeyi rejime tabi tutmuştur. Hammadde, (X) ülkesiyle uygulanan ve tarife kotasına tabi bir tercihli tarifeden yararlanabilmekte; aynı tercihli tarife uygulaması, serbest dolaşıma girecek aynı nitelikteki işlenmiş ürünlere de uygulanabilmektedir.
+**5-** 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejiminde, tarife kotalarına veya tarife tavanlarına tabi bir tercihli tarifede öngörülen vergi oranının işlenmiş ürünlere uygulanması aşağıdakilerden hangisine bağlıdır?
 
-- Rejime giriş beyannamesinin tescil edildiği tarihte tarife kotası açıktır.  
-- İşlenmiş ürünlerin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte tarife kotası dolmuş olup söz konusu tercihli tarife hammaddeye artık uygulanamamaktadır.  
-4458 sayılı Gümrük Kanunu'na göre işlenmiş ürünlerin serbest dolaşıma girişinde ithalat vergilerinin hesaplanmasıyla ilgili aşağıdakilerden hangisi doğrudur?  
-
-A) Rejime giriş beyannamesinin tescil edildiği tarihte tarife kotası açık olduğundan işlenmiş ürünlere tercihli vergi oranı uygulanır.  
-B) Tercihli vergi oranı uygulanır; işlenmiş ürünlerle aynı olan ürünler için açılmış tarife kotasının hesabına işlenmiş ürün miktarı kadar ilave yapılır.  
-C) Tercihli tarife, serbest dolaşıma giriş beyannamesinin tescili sırasında hammaddeye uygulanamadığından işlenmiş ürünlere tercihli vergi oranı uygulanamaz.  
-D) Tarife kotası dolmuş olsa da aynı tercihli tarife aynı nitelikteki işlenmiş ürünlere uygulanabildiğinden tercihli vergi oranı uygulanır.  
-E) İşlenmiş ürünlerin ithalat vergileri, hammaddenin rejime giriş beyannamesinin tescili sırasında yürürlükte bulunan vergi oranı ve diğer vergilendirme unsurlarına göre hesaplanır.  
+A) Tercihli tarifenin rejime giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi  
+B) Tercihli tarifenin izin belgesinin tarihinde ithal eşyasına uygulanabilmesi  
+C) Tercihli tarifenin serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi  
+D) İşlenmiş ürünlerle aynı olan ürünler için açılmış tarife kotası hesabına işlenmiş ürün miktarı kadar ilave yapılması  
+E) İşlenmiş ürünlerin serbest dolaşıma giriş beyannamesinin izin süresinin sona ermesinden önce tescil edilmesi  
 
 **Doğru Cevap:** C  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre ithal eşyası bir tercihli tarifeden yararlanabiliyor ve aynı tercihli tarife serbest dolaşıma giren aynı nitelikteki işlenmiş ürünlere de uygulanabiliyorsa, işlenmiş ürünlerin ithalat vergileri tercihli tarife çerçevesindeki oranla hesaplanır. Ancak tercihli tarife tarife kotalarına veya tavanlarına tabiyse bu oranın işlenmiş ürünlere uygulanması, tercihli tarifenin serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi koşuluna bağlıdır. Vakada kota, serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte dolmuştur; rejime giriş tarihinde açık olması sonucu değiştirmez. Koşul sağlansaydı imalatta fiilen kullanılan ithal eşyası miktarı serbest dolaşıma giriş beyannamesinin tescili sırasında yürürlükte olan kota hesabına katılır, işlenmiş ürünlerle aynı ürünler için açılmış kota hesabına ise herhangi bir ilave yapılmazdı. Rejime giriş beyannamesinin tescil anı yalnızca değişmemiş eşya ve ara aşamadaki ürünler için yükümlülük doğduğunda esas alınır. En güçlü çeldirici kotanın rejime giriş tarihinde açık olmasına dayanan seçenektir: Kanun koşulu serbest dolaşıma giriş anına bağlamıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GK 127; GK 126)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre rejime tabi ithal eşyası tercihli bir tarifeden yararlanabiliyor ve aynı tercihli tarife serbest dolaşıma giren aynı nitelikteki işlenmiş ürünlere de uygulanabiliyorsa, işlenmiş ürünlerin ithalat vergileri tercihli tarifedeki oranla hesaplanır. Tercihli tarife tarife kotalarına veya tavanlarına tabiyse bu oranın uygulanması, tercihli tarifenin serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi koşuluna bağlıdır; işlenmiş ürünlerin imalatında fiilen kullanılan ithal eşyası miktarı da o sırada yürürlükte olan kota veya tavan hesabına katılır. İşlenmiş ürünlerle aynı olan ürünler için açılmış kota veya tavan hesabına ise herhangi bir ilave yapılmaz. Rejime giriş beyannamesinin tescil anı, değişmemiş eşya veya ara aşamadaki ürünler için yükümlülük doğduğunda vergilendirme unsurlarının belirlendiği andır; en güçlü tuzak budur. İzin belgesinin tarihi izin süresinin başlangıcıdır; Kanun tercihli oranın uygulanmasını izin süresine de bağlamaz. Bu nedenle doğru cevap C seçeneğidir. (MD GK 127; GK 126; GY 372)
 
 *Gümrük Yönetmeliği md. 370; 4458 sayılı Gümrük Kanunu md. 123*
 
@@ -293,18 +271,18 @@ E) Rejim, serbest dolaşımdaki eşyanın Türkiye Gümrük Bölgesi dışında 
 
 *Gümrük Yönetmeliği md. 372*
 
-**7-** (G) Gıda A.Ş.'ye gümrük idaresince, 14 Nisan 2025 tarihli izin belgesiyle 18 ay geçerlilik süreli gümrük kontrolü altında işleme izni verilmiştir. Firmanın izin sahibi olarak ileri sürdüğü haklı gerekçeler kabul edilmiş ve iznin süresi, Gümrük Yönetmeliği'nde öngörülen azami süre kadar uzatılmıştır.
+**7-** (G) Gıda A.Ş.'ye gümrük idaresince, 14 Mart 2025 tarihli izin belgesiyle 18 ay geçerlilik süreli gümrük kontrolü altında işleme izni verilmiştir. Firmanın izin sahibi olarak ileri sürdüğü haklı gerekçeler kabul edilmiş ve iznin süresi, Gümrük Yönetmeliği'nde öngörülen azami süre kadar uzatılmıştır.
 
 Gümrük Yönetmeliği'nin gümrük kontrolü altında işleme iznine ilişkin hükümlerine göre uzatılan iznin süresi hangi tarihte sona erer?  
 
-A) 31 Ekim 2026  
-B) 30 Kasım 2026  
-C) 14 Ocak 2027  
-D) 31 Ocak 2027  
-E) 14 Nisan 2027  
+A) 30 Eylül 2026  
+B) 31 Ekim 2026  
+C) 14 Aralık 2026  
+D) 31 Aralık 2026  
+E) 14 Mart 2027  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük kontrolü altında işleme iznin geçerlilik süresi her başvuru için ve azami iki yıl olarak belirlenir. Sürenin başlangıcı izin belgesinin tarihidir; süre sonu ise izin belgesi süresinin bittiği ayın son günüdür. Bu süreler mücbir sebep ve beklenmeyen hâllerde veya izin sahibinin ileri sürdüğü haklı gerekçelere bağlı olarak üç aya kadar uzatılabilir. Vakada 14 Nisan 2025 tarihli izin belgesine 18 ay eklenince süre Ekim 2026'da biter ve bu ayın son günü olan 31 Ekim 2026'da sona erer; azami üç aylık uzatma ile süre 31 Ocak 2027'de sona erer. 31 Ekim 2026 uzatmayı, 14 Ocak 2027 ayın son günü kuralını atlayan hesaptır; 30 Kasım 2026 uzatmayı bir ay sanan, 14 Nisan 2027 ise izni azami iki yıl süreli kabul eden adayın cevabıdır. En güçlü çeldirici 14 Ocak 2027'dir: uzatma doğru hesaplanmış ama sürenin ayın son günü bittiği atlanmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 372)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük kontrolü altında işleme izninin geçerlilik süresi her başvuru için ve azami iki yıl olarak belirlenir. Sürenin başlangıcı izin belgesinin tarihidir; süre sonu ise izin belgesi süresinin bittiği ayın son günüdür. Bu süreler mücbir sebep ve beklenmeyen hâllerde veya izin sahibinin ileri sürdüğü haklı gerekçelere bağlı olarak üç aya kadar uzatılabilir. Vakada 14 Mart 2025 tarihli izin belgesine 18 ay eklenince süre Eylül 2026'da biter ve bu ayın son günü olan 30 Eylül 2026'da sona erer; azami üç aylık uzatma ile süre 31 Aralık 2026'da sona erer. 30 Eylül 2026 uzatmayı atlayan, 14 Aralık 2026 ise ayın son günü kuralını atlayan hesaptır; 31 Ekim 2026 uzatmayı bir ay sanan, 14 Mart 2027 ise izni azami iki yıl süreli kabul eden adayın cevabıdır. En güçlü çeldirici 14 Aralık 2026'dır: uzatma doğru hesaplanmış ama sürenin ayın son günü bittiği atlanmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 372)
 
 *Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3) md. 3*
 
@@ -336,7 +314,7 @@ D) I, II ve III
 E) I, II ve IV  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük kontrolü altında işleme rejimine giriş için verilecek beyanname yazılı beyan normal usul hükümlerine uygun olarak düzenlenir ve beyannamedeki eşya tanımlaması izin belgesindeki eşya tanımlamasına uygun olmak zorundadır (I ve II doğru). Basitleştirilmiş beyana ilişkin tamamlayıcı beyanname, izin belgesinde öngörülen süre içerisinde ve ibra senedinin ibrazından önce gümrüğe verilmelidir; iki şart birlikte aranır (III yanlış). Rejime giriş esnasında eşyaya isabet eden vergiler tahsil edilmez, teminata bağlanır (IV yanlış). Vergilerin tahsil edilip sonra geri verilmesi, dahilde işleme rejimindeki geri ödeme sisteminin mantığıdır; gümrük kontrolü altında işleme rejimi teminata dayalı bir şartlı muafiyet düzenlemesidir. En güçlü çeldirici IV'tür: teminat ile tahsil-iade sistemleri iki ayrı uygulama yöntemidir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 373; GK 108)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük kontrolü altında işleme rejimine giriş için verilecek beyanname yazılı beyan normal usul hükümlerine uygun olarak düzenlenir ve beyannamedeki eşya tanımlaması izin belgesindeki eşya tanımlamasına uygun olmak zorundadır (I ve II doğru). Basitleştirilmiş beyana ilişkin tamamlayıcı beyanname, izin belgesinde öngörülen süre içerisinde ve ibra senedinin ibrazından önce gümrüğe verilmelidir; iki şart birlikte aranır (III yanlış). Rejime giriş esnasında eşyaya isabet eden vergiler tahsil edilmez, teminata bağlanır (IV yanlış). Vergilerin tahsil edilip sonra geri verilmesi, dahilde işleme rejimindeki geri ödeme sisteminin mantığıdır; gümrük kontrolü altında işleme rejimi teminata dayalı bir şartlı muafiyet düzenlemesidir. En güçlü tuzak IV. önermedir: teminat ile tahsil-iade sistemleri iki ayrı uygulama yöntemidir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 373; GK 108)
 
 *Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3) md. 2, 4, 5*
 
@@ -453,18 +431,16 @@ E) I, II, III ve IV
 
 *Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3) md. 8; 4458 sayılı Gümrük Kanunu md. 238, 241*
 
-**18-** (R) Metal A.Ş.'nin gümrük kontrolü altında işleme izninin süresi 30 Nisan 2026 tarihinde sona ermiştir. Süre uzatımı talebinde bulunmayan firma, rejim kapsamında Türkiye Gümrük Bölgesine getirdiği eşyaya ilişkin rejimin gerektirdiği işlemleri 22 Haziran 2026 tarihinde bitirmiştir.
+**18-** Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3) ve 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejimi kapsamında getirilen eşyanın işlemlerinin izin süresinden sonra bitirilmesi ve rejim hükümlerinin ihlali hâlinde uygulanacak yaptırımlara ilişkin aşağıdakilerden hangisi söylenemez?
 
-Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3) ve 4458 sayılı Gümrük Kanunu'na göre, ceza koyan özel hükümler saklı kalmak kaydıyla firmaya uygulanacak yaptırım aşağıdakilerden hangisidir?  
-
-A) Kanunda öngörülen usulsüzlük cezası miktarının iki katı tutarında usulsüzlük cezası  
-B) Kanunda öngörülen usulsüzlük cezası miktarının altı katı tutarında usulsüzlük cezası  
-C) Kanunda öngörülen usulsüzlük cezası miktarının dört katı tutarında usulsüzlük cezası  
-D) Eşyanın gümrüklenmiş değerinin iki katı tutarında idari para cezası  
-E) Gümrük vergileri ile gecikme zammı oranında hesaplanan faizin toplamı kadar idari para cezası  
+A) İzin süresinin bitimini takiben bir ay içinde rejimin gerektirdiği işlemleri bitirilen eşya için usulsüzlük cezası, Kanunda öngörülen miktarın iki katı olarak uygulanır.  
+B) Belirtilen süreler içinde işlemleri bitirilmeyen eşya ile rejim hükümlerinin ihlali hâlinde Gümrük Kanunu'nun rejim ihlallerine ilişkin idari para cezası hükmüne göre işlem yapılır.  
+C) İzin süresinin bitimini takiben iki ayı aşmayan süre içinde rejimin gerektirdiği işlemleri bitirilen eşya için usulsüzlük cezası, Kanunda öngörülen miktarın iki katı olarak uygulanır.  
+D) Rejim hükümleri ihlal edilmekle birlikte eşyanın, işlem görmüş ürün hâli de dâhil olmak üzere gümrük gözetiminden mevzuata aykırı olarak çıkarılmadığı tespit edilirse, gümrük vergileri ile gecikme zammı oranında hesaplanan faizin toplamı kadar idari para cezası verilir.  
+E) Genel yönetim kapsamındaki kamu idareleri hakkında süre aşımına ilişkin iki ve dört kat usulsüzlük cezası hükümleri uygulanmaz; bu durumda Kanunda öngörülen usulsüzlük cezası uygulanır.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3)'e göre rejim kapsamında getirilen eşyanın işlemleri izin süresinin bitimini takiben bir ay içerisinde bitirilirse Gümrük Kanunu'na göre usulsüzlük cezası iki kat, izin süresinin bitimini takiben iki ayı aşmayan süre içerisinde bitirilirse dört kat uygulanır. Bu sürelerde bitirilmeyen eşya ile rejim hükümlerinin ihlali hâlinde ise Kanundaki rejim ihlali cezası (dahilde işleme, gümrük kontrolü altında işleme ve geçici ithalatta eşyanın gümrüklenmiş değerinin iki katı) uygulanır. Vakada izin süresi 30 Nisan 2026'da bitmiş, bir aylık süre 30 Mayıs 2026'da, iki aylık süre 30 Haziran 2026'da dolmuştur. İşlemler 22 Haziran 2026'da, yani bir ayı aşan fakat iki ayı aşmayan sürede bitirildiğinden usulsüzlük cezası dört kat uygulanır. Altı kat, geçici ithalattaki taşıtlar ve transit sürelerine ilişkin basamaktır; gecikme zammı oranında faiz ise eşyanın gümrük gözetiminden çıkarılmadığı rejim ihlallerine ait yaptırımdır. En güçlü çeldirici iki kattır: bir aylık süre aşıldığı hâlde ilk basamakta kalan aday bu seçeneğe gider. Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ 8; GK 241, 238)
+**Gerekçe:** Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3)'e göre ceza koyan özel hükümler saklı kalmak kaydıyla, rejim kapsamında getirilen eşyanın işlemleri izin süresinin bitimini takiben bir ay içinde bitirilirse Gümrük Kanunu'na göre usulsüzlük cezası iki kat, iki ayı aşmayan süre içinde bitirilirse dört kat uygulanır. Söylenemeyecek ifade, ikinci basamağa birinci basamağın katını taşımıştır; iki ayı aşmayan sürede bitirmede ceza dört kattır. Bu süreler içinde bitirilmeyen eşya ile rejim hükümlerinin ihlali hâlinde Kanunun rejim ihlallerine ilişkin idari para cezası hükmü uygulanır; ihlale rağmen eşya gümrük gözetiminden çıkarılmamışsa ceza, gümrük vergileri ile gecikme zammı oranındaki faizin toplamıdır. Genel yönetim kapsamındaki kamu idareleri hakkında ise iki ve dört kat usulsüzlük cezası hükümleri uygulanmaz, Kanunda öngörülen usulsüzlük cezası uygulanır. En güçlü tuzak bir aylık basamağa ilişkin ifadedir: aynı 'iki kat' ifadesini taşıdığı için iki ifadeyi ayırt etmek süre basamağını bilmeyi gerektirir. Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ 8; GK 238, 241)
 
 *Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3) md. 3, 5*
 
@@ -496,12 +472,12 @@ E) İbra, rejime giriş beyannamesinde beyan edilen ithal eşya miktarının tam
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I ve III, I ve II, I, III ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 16, TERİM 6, BAŞLANGIÇ 5, TERSİNE 5, SAĞDUYU 4, LİSTE-DIŞI 3 |
-| İkiz eksen / ayna | 2 / KIYMET-KDV (11↔12), TESCİL-ANI (4↔5) |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I ve II, I, III ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 16, TERİM 6, TERSİNE 6, BAŞLANGIÇ 5, SAĞDUYU 4, LİSTE-DIŞI 3 |
+| İkiz eksen / ayna | 2, 5 / KIYMET-KDV (11↔12), TESCİL-ANI (4↔5) |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 4 |
 | Cevap harfleri | A 4 · B 4 · C 4 · D 4 · E 4 |

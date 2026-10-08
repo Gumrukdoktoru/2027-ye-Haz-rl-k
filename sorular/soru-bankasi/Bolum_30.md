@@ -73,19 +73,15 @@ C) II ve IV
 D) I, II ve III  
 E) I, III ve IV  
 
-**8-** Gümrük Yönetmeliği'ne göre, genel ve özel antrepolara eşya giriş çıkış işlemleri ile antrepoda stok kayıtlarının altışar aylık dönemler itibarıyla tespiti işlemlerini yapan yetkilendirilmiş gümrük müşaviri Selin Hanım, hâlihazırda iki genel antrepo ve bir özel antrepo için rapor düzenlemektedir.
+**8-** Gümrük Yönetmeliği'ne göre genel ve özel antrepolara eşya giriş çıkış işlemleri ile antrepoda stok kayıtlarının altışar aylık dönemler itibarıyla tespiti işlemlerini yapacak yetkilendirilmiş gümrük müşavirlerinin rapor düzenleyebileceği antrepo sayısına ilişkin sınır aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-Buna göre Selin Hanım'ın rapor düzenleyebileceği antrepolara ilişkin aşağıdakilerden hangisi doğrudur?  
+A) İki özel antrepoyu geçmemek üzere toplam dört antrepo  
+B) Bir genel antrepoyu geçmemek üzere toplam dört antrepo  
+C) Antrepo türüne bakılmaksızın toplam dört antrepo  
+D) İki genel antrepoyu geçmemek üzere toplam dört antrepo  
+E) Her genel antrepo için en az bir gümrük müşavir yardımcısı görevlendirilmesi kaydıyla sayı sınırı olmaksızın  
 
-A) Bir genel antrepo ile bir özel antrepo için daha rapor düzenleyebilir.  
-B) İki özel antrepo için daha rapor düzenleyebilir.  
-C) Her antrepo için en az bir gümrük müşavir yardımcısı görevlendirmesi kaydıyla bir genel antrepo için daha rapor düzenleyebilir.  
-D) Yalnızca bir özel antrepo için daha rapor düzenleyebilir.  
-E) İki genel antrepo sınırına ulaştığı için başka hiçbir antrepo için rapor düzenleyemez.  
-
-**9-** Gümrük Yönetmeliği'ne göre, yetkilendirilmiş gümrük müşaviri yanında stajyer olarak çalışan Emre Bey'in, gümrük müşavir yardımcısı tarafından imzalanması gereken antrepo giriş-çıkış sayım tutanaklarını imzaladığı tespit edilmiştir.
-
-Buna göre Emre Bey hakkında yapılacak işlem aşağıdakilerden hangisidir?  
+**9-** Gümrük Yönetmeliği'ne göre yetkilendirilmiş gümrük müşaviri yanında çalışan ve gümrük müşavir yardımcısı tarafından yapılması gereken iş ve işlemleri yaptığı tespit edilen stajyer hakkında aşağıdakilerden hangisi uygulanır?
 
 A) İki yıl süreyle yetkilendirilmiş gümrük müşaviri yanında çalıştırılamaz.  
 B) Yazılı olarak uyarılır; aynı takvim yılı içinde ikinci kez tespitinde stajına son verilir.  
@@ -109,19 +105,13 @@ C) Antrepoda stok kayıtlarının altışar aylık dönemler itibarıyla tespiti
 D) Antrepo rejimine tabi eşyanın elleçleme işlemlerinin tespitini  
 E) Antreponun devir işlemlerinin mevzuata uygunluğunun incelenmesini  
 
-**12-** Yetkilendirilmiş Gümrük Müşavirliği Tebliği'ne göre tespit sözleşmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**12-** Yetkilendirilmiş Gümrük Müşavirliği Tebliği'ne göre tespit sözleşmesine ilişkin aşağıdakilerden hangisi doğrudur?
 
-I. Yükümlü, birden fazla tespit işlemi için yetkilendirilmiş gümrük müşaviri ile tek bir tespit sözleşmesi yapabilir.  
-II. AN6, AN7 ve AN8 tespit işlemlerine ilişkin sözleşme, yükümlü ile yetkilendirilmiş gümrük müşaviri arasında bir yıl süreli olarak yapılır.  
-III. Yapılan tespit sözleşmelerine ilişkin bilgiler, sözleşmenin yapıldığı tarihten itibaren en geç on iş günü içinde sistem vasıtasıyla gönderilir.  
-IV. Tüzel kişilik ortağı olarak faaliyet gösteren müşavirin düzenleyeceği tespit sözleşmesini, tespiti yapacak müşavirle birlikte tüzel kişiyi temsil ve ilzama yetkili kişiler de imzalar.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve III  
-D) II, III ve IV  
-E) II ve IV  
+A) Yükümlü, birden fazla tespit işlemi için yetkilendirilmiş gümrük müşaviri ile tek bir tespit sözleşmesi yapabilir.  
+B) Yapılan tüm tespit sözleşmelerine ilişkin bilgiler, yetkilendirilmiş gümrük müşaviri tarafından sözleşmenin yapıldığı tarihten itibaren en geç on iş günü içinde sistem vasıtasıyla gönderilir.  
+C) Tespit sözleşmesi, asgari ücret tarifesi dikkate alınmaksızın taraflarca serbestçe belirlenen ücret esas alınarak sistem dışında düzenlenir.  
+D) Yeni sözleşmeye taraf olacak yetkilendirilmiş gümrük müşaviri, fiili durumu eski müşavirin katılımı aranmaksızın tek başına düzenleyeceği bir tutanağa bağlayarak işe başlar.  
+E) Tüzel kişilik ortağı müşavirin düzenleyeceği tespit sözleşmesini, tespiti yapacak müşavirle birlikte tüzel kişiyi temsil ve ilzama yetkili kişiler de imzalar.  
 
 **13-** Gümrük Yönetmeliği'ne göre, iki belge dönemi boyunca herhangi bir disiplin cezası almamış olan yetkilendirilmiş gümrük müşaviri için yetki belgesinin süresi ilk defasında kaç yıl olarak uygulanır?
 
@@ -305,24 +295,20 @@ E) I, III ve IV
 
 *Gümrük Yönetmeliği md. 575*
 
-**8-** Gümrük Yönetmeliği'ne göre, genel ve özel antrepolara eşya giriş çıkış işlemleri ile antrepoda stok kayıtlarının altışar aylık dönemler itibarıyla tespiti işlemlerini yapan yetkilendirilmiş gümrük müşaviri Selin Hanım, hâlihazırda iki genel antrepo ve bir özel antrepo için rapor düzenlemektedir.
+**8-** Gümrük Yönetmeliği'ne göre genel ve özel antrepolara eşya giriş çıkış işlemleri ile antrepoda stok kayıtlarının altışar aylık dönemler itibarıyla tespiti işlemlerini yapacak yetkilendirilmiş gümrük müşavirlerinin rapor düzenleyebileceği antrepo sayısına ilişkin sınır aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-Buna göre Selin Hanım'ın rapor düzenleyebileceği antrepolara ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Bir genel antrepo ile bir özel antrepo için daha rapor düzenleyebilir.  
-B) İki özel antrepo için daha rapor düzenleyebilir.  
-C) Her antrepo için en az bir gümrük müşavir yardımcısı görevlendirmesi kaydıyla bir genel antrepo için daha rapor düzenleyebilir.  
-D) Yalnızca bir özel antrepo için daha rapor düzenleyebilir.  
-E) İki genel antrepo sınırına ulaştığı için başka hiçbir antrepo için rapor düzenleyemez.  
+A) İki özel antrepoyu geçmemek üzere toplam dört antrepo  
+B) Bir genel antrepoyu geçmemek üzere toplam dört antrepo  
+C) Antrepo türüne bakılmaksızın toplam dört antrepo  
+D) İki genel antrepoyu geçmemek üzere toplam dört antrepo  
+E) Her genel antrepo için en az bir gümrük müşavir yardımcısı görevlendirilmesi kaydıyla sayı sınırı olmaksızın  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre genel ve özel antrepolara eşya giriş çıkış işlemleri ile stok kayıtlarının altışar aylık tespitini yapan yetkilendirilmiş gümrük müşaviri, iki genel antrepoyu geçmemek üzere toplam dört antrepo için rapor düzenleyebilir. Selin Hanım iki genel ve bir özel antrepo ile toplam üç antrepoya hizmet vermektedir; toplam sınıra göre bir antrepo daha alabilir, ancak genel antrepo sınırı dolduğu için bu antrepo özel antrepo olmalıdır. Genel antrepo eklenen seçenekler iki genel antrepo sınırını, iki özel antrepo eklenen seçenek dört antreponun toplam sınırını aşar; iki genel antrepo sınırı ise toplam sınır değildir. Birden fazla genel antrepo ile sözleşme yapan müşavirin her antrepo için en az bir gümrük müşavir yardımcısı görevlendirmesi ayrı bir yükümlülüktür ve genel antrepo sınırını kaldırmaz; en güçlü çeldirici budur. Bu nedenle doğru cevap D seçeneğidir. (MD 575)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre genel ve özel antrepolara eşya giriş çıkış işlemleri ile antrepoda stok kayıtlarının altışar aylık dönemler itibarıyla tespitini yapacak yetkilendirilmiş gümrük müşavirleri, iki genel antrepoyu geçmemek üzere toplam dört antrepo için rapor düzenleyebilir. Sınır iki katmanlıdır: toplam sayı dört antrepoyu, bunun içindeki genel antrepo sayısı ikiyi geçemez; özel antrepolar için ayrı bir sınır öngörülmemiştir. En güçlü tuzak iki özel antrepo sınırından söz eden seçenektir: sayılar doğru, antrepo türü değiştirilmiştir. Antrepo türüne bakılmaksızın dört antrepo diyen seçenek genel antrepo sınırını düşürür. Yönetmelik birden fazla genel antrepo ile tespit sözleşmesi imzalayan müşavirin her bir antrepo için en az bir gümrük müşavir yardımcısı görevlendirmesini ayrıca ister; bu hüküm müşavirin birden fazla genel antrepoyla sözleşme yapabildiğini gösterir, ancak sayı sınırını kaldırmaz. Bu nedenle doğru cevap D seçeneğidir. (MD 575)
 
 *Gümrük Yönetmeliği md. 575, 577*
 
-**9-** Gümrük Yönetmeliği'ne göre, yetkilendirilmiş gümrük müşaviri yanında stajyer olarak çalışan Emre Bey'in, gümrük müşavir yardımcısı tarafından imzalanması gereken antrepo giriş-çıkış sayım tutanaklarını imzaladığı tespit edilmiştir.
-
-Buna göre Emre Bey hakkında yapılacak işlem aşağıdakilerden hangisidir?  
+**9-** Gümrük Yönetmeliği'ne göre yetkilendirilmiş gümrük müşaviri yanında çalışan ve gümrük müşavir yardımcısı tarafından yapılması gereken iş ve işlemleri yaptığı tespit edilen stajyer hakkında aşağıdakilerden hangisi uygulanır?
 
 A) İki yıl süreyle yetkilendirilmiş gümrük müşaviri yanında çalıştırılamaz.  
 B) Yazılı olarak uyarılır; aynı takvim yılı içinde ikinci kez tespitinde stajına son verilir.  
@@ -331,7 +317,7 @@ D) Stajına son verilir; bir yıl geçtikten sonra yeniden yetkilendirilmiş gü
 E) Stajına devam edebilir; ancak yetkilendirilmiş gümrük müşaviri yanında geçen süreleri staj süresinden sayılmaz.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre yetkilendirilmiş gümrük müşavirleri yanlarında gümrük müşavir yardımcısı ve stajyer çalıştırabilir; ancak stajyer, gümrük müşavir yardımcısı tarafından yapılması gereken iş ve işlemleri yapamaz. Antrepo giriş-çıkış ve elleçlemelere ilişkin sayım tutanaklarını imzalama yetkisi, sigortalı olarak çalıştığı müşavir adına gümrük müşavir yardımcısına tanınmıştır. Bu işi yaptığı tespit edilen stajyerin stajına son verilir ve bu kişi bir daha yetkilendirilmiş gümrük müşaviri yanında çalıştırılamaz; yaptırım süreli değil, kalıcıdır. İki yıllık çalıştırma yasağı, yapması gereken iş ve işlemleri başkasına yaptıran gümrük müşavir yardımcısına ilişkin yaptırımdır; en güçlü çeldirici budur. Bir yıllık bekleme Tebliğde yetki belgesini iade eden müşavire, yazılı uyarı ve tekrar merdiveni tespit raporu hatalarına aittir; yetkilendirilmiş gümrük müşaviri yanında staj amacıyla geçen süreler ise staj süresinden sayılır. Bu nedenle doğru cevap C seçeneğidir. (MD 575, 577)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre yetkilendirilmiş gümrük müşavirleri yanlarında gümrük müşavir yardımcısı ve stajyer çalıştırabilir; ancak stajyer, gümrük müşavir yardımcısı tarafından yapılması gereken iş ve işlemleri yapamaz. Antrepo giriş-çıkış ve elleçlemelere ilişkin sayım tutanaklarını imzalama yetkisi, sigortalı olarak çalıştığı müşavir adına gümrük müşavir yardımcısına tanınmıştır. Bu işleri yaptığı tespit edilen stajyerin stajına son verilir ve bu kişi bir daha yetkilendirilmiş gümrük müşaviri yanında çalıştırılamaz; yaptırım süreli değil, kalıcıdır. İki yıllık çalıştırma yasağı, yapması gereken iş ve işlemleri başkasına yaptıran gümrük müşavir yardımcısına ilişkin yaptırımdır; en güçlü tuzak budur. Bir yıllık bekleme Tebliğde yetki belgesini iade eden müşavire aittir; yazılı uyarı ile aynı takvim yılında tekrarı hâlinde ağırlaşan yaptırım tespit raporu hatalarına ilişkindir; yetkilendirilmiş gümrük müşaviri yanında staj amacıyla geçen süreler ise staj süresinden sayılır. Bu nedenle doğru cevap C seçeneğidir. (MD 575, 577)
 
 *Yetkilendirilmiş Gümrük Müşavirliği Tebliği md. 11, 13*
 
@@ -359,24 +345,18 @@ E) Antreponun devir işlemlerinin mevzuata uygunluğunun incelenmesini
 **Doğru Cevap:** B  
 **Gerekçe:** Yetkilendirilmiş Gümrük Müşavirliği Tebliği'nde antrepolara ilişkin tespit kodları antreponun türüne ve işlemin niteliğine göre ayrılır. AN6, özel antrepoya eşya giriş çıkış işlemlerinin tespiti ile gümrük yükümlülüğü sona erdikten sonra varsa ilgili kurumlarca yapılacak kontrol sonuçlarına göre gümrük gözetiminin sonlandırılmasının tespitini kapsar. Aynı tespitin genel antrepo için yapılanı AN8'dir; iki kod arasındaki tek fark antreponun özel ya da genel olmasıdır ve en güçlü çeldirici budur. Altışar aylık stok tespiti AN7, elleçleme tespiti AN9, antreponun devir işlemlerinin mevzuata uygunluğunun incelenmesi AN5 kodlu tespittir. Bu nedenle doğru cevap B seçeneğidir. (MD 11)
 
-*Yetkilendirilmiş Gümrük Müşavirliği Tebliği md. 13, 14, 15*
+*Yetkilendirilmiş Gümrük Müşavirliği Tebliği md. 14, 15, 16*
 
-**12-** Yetkilendirilmiş Gümrük Müşavirliği Tebliği'ne göre tespit sözleşmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**12-** Yetkilendirilmiş Gümrük Müşavirliği Tebliği'ne göre tespit sözleşmesine ilişkin aşağıdakilerden hangisi doğrudur?
 
-I. Yükümlü, birden fazla tespit işlemi için yetkilendirilmiş gümrük müşaviri ile tek bir tespit sözleşmesi yapabilir.  
-II. AN6, AN7 ve AN8 tespit işlemlerine ilişkin sözleşme, yükümlü ile yetkilendirilmiş gümrük müşaviri arasında bir yıl süreli olarak yapılır.  
-III. Yapılan tespit sözleşmelerine ilişkin bilgiler, sözleşmenin yapıldığı tarihten itibaren en geç on iş günü içinde sistem vasıtasıyla gönderilir.  
-IV. Tüzel kişilik ortağı olarak faaliyet gösteren müşavirin düzenleyeceği tespit sözleşmesini, tespiti yapacak müşavirle birlikte tüzel kişiyi temsil ve ilzama yetkili kişiler de imzalar.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve III  
-D) II, III ve IV  
-E) II ve IV  
+A) Yükümlü, birden fazla tespit işlemi için yetkilendirilmiş gümrük müşaviri ile tek bir tespit sözleşmesi yapabilir.  
+B) Yapılan tüm tespit sözleşmelerine ilişkin bilgiler, yetkilendirilmiş gümrük müşaviri tarafından sözleşmenin yapıldığı tarihten itibaren en geç on iş günü içinde sistem vasıtasıyla gönderilir.  
+C) Tespit sözleşmesi, asgari ücret tarifesi dikkate alınmaksızın taraflarca serbestçe belirlenen ücret esas alınarak sistem dışında düzenlenir.  
+D) Yeni sözleşmeye taraf olacak yetkilendirilmiş gümrük müşaviri, fiili durumu eski müşavirin katılımı aranmaksızın tek başına düzenleyeceği bir tutanağa bağlayarak işe başlar.  
+E) Tüzel kişilik ortağı müşavirin düzenleyeceği tespit sözleşmesini, tespiti yapacak müşavirle birlikte tüzel kişiyi temsil ve ilzama yetkili kişiler de imzalar.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Yetkilendirilmiş Gümrük Müşavirliği Tebliği'ne göre yetkilendirilmiş gümrük müşavirinin yapacağı her bir tespit işlemi için yükümlü ile ayrı bir tespit sözleşmesi yapılır; birden fazla tespit için tek sözleşme yapılamaz (I yanlış). AN6, AN7 ve AN8 tespit işlemlerine ilişkin sözleşmenin bir yıl süreli olarak yapılması gerekir (II doğru). Sözleşme bilgileri, sözleşmenin yapıldığı tarihten itibaren on iş günü içinde değil, en geç yedi iş günü içinde sistem vasıtasıyla gönderilir (III yanlış). Tüzel kişilik ortağı müşavirin düzenleyeceği sözleşme, tespiti yapacak müşavirle birlikte tüzel kişiyi temsil ve ilzama yetkili kişi veya kişilerce de imzalanır (IV doğru). En güçlü çeldirici III'ü doğru sayan seçeneklerdir; on iş günü, antrepolarda sonlandırılan TIR karnesi yapraklarının bordroyla gümrük idaresine gönderilme süresidir. Bu nedenle doğru cevap E seçeneğidir. (MD 13, 14, 15, 22)
+**Gerekçe:** Yetkilendirilmiş Gümrük Müşavirliği Tebliği'ne göre tüzel kişilik ortağı olarak faaliyet gösteren yetkilendirilmiş gümrük müşavirince düzenlenecek tespit sözleşmesi, tespit işlemini yapacak müşavirle birlikte ortağı bulunduğu tüzel kişi adına, tüzel kişiyi temsil ve ilzama yetkili kişi veya kişilerce de imzalanır. Müşavirin yapacağı her bir tespit işlemi için yükümlü ile ayrı bir tespit sözleşmesi yapılır; birden fazla tespit için tek sözleşme yapılamaz. Sözleşme, Tebliğ ekindeki örneğe uygun olarak sistem üzerinden düzenlenir ve hazırlanmasında rehberdeki usul ve esaslar ile asgari ücret tarifesi dikkate alınır. Sözleşme bilgileri, sözleşmenin yapıldığı tarihten itibaren on iş günü içinde değil, en geç yedi iş günü içinde sistem vasıtasıyla gönderilir; on iş günü, antrepolarda sonlandırılan TIR karnesi yapraklarının bordroyla gümrük idaresine gönderilme süresidir. Yeni sözleşmeye taraf olacak müşavir ise fiili durumu eski müşavirle birlikte ortak bir tutanağa bağlayarak işe başlar. En güçlü tuzak on iş günlük gönderim süresidir: sözleşme kuralının bütün unsurları doğru, yalnızca süre değiştirilmiştir. Bu nedenle doğru cevap E seçeneğidir. (MD 14, 15, 16, 22)
 
 *Gümrük Yönetmeliği md. 576*
 
@@ -492,11 +472,11 @@ E) Firmaların talep etmeleri durumunda, belirlenen kıymetin altındaki işleml
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
+| Birebir / parafraz / çıkarım | 17 / 2 / 1 |
 | Olumsuz kök | 7 |
-| Önermeli | 3 (I ve III, II ve IV, I, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 18, SAYI 6, TERİM 5, BAŞLANGIÇ 3, İSTİSNA 3, YAKIN-SAYI 3 |
+| Önermeli | 2 (I ve III, I, II ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 18, TERİM 6, SAYI 6, BAŞLANGIÇ 3, YAKIN-SAYI 3, TERSİNE 3 |
 | İkiz eksen / ayna | 17 / SB30-AN-genel-ozel |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 8 |

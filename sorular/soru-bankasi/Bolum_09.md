@@ -6,15 +6,13 @@ Kaynak: 9-TAR.POZ.AYIRMA.txt · 20 soru
 
 ### Sorular
 
-**1-** (A) firması, ithal ettiği eşya için 12 Mart tarihinde serbest dolaşıma giriş beyannamesini tescil ettirmiş ve eşyaya ilişkin gümrük yükümlülüğü bu tarihte başlamıştır. Eşyanın tabi olduğu gümrük vergisi oranı, 15 Mart tarihinde yürürlüğe giren bir düzenlemeyle indirilmiştir. Eşyanın muayenesi 16 Mart'ta tamamlanmış, vergiler 17 Mart'ta ödenmiş ve eşya 19 Mart'ta firmaya teslim edilmiştir.
+**1-** 4458 sayılı Gümrük Kanunu'nun gümrük tarifesine ilişkin hükümlerine göre gümrük vergileri, hangi tarihte yürürlükte olan gümrük tarifesine göre hesaplanır?
 
-4458 sayılı Gümrük Kanunu'nun gümrük tarifesine ilişkin hükümlerine göre bu eşyanın gümrük vergileri hangi tarihte yürürlükte olan tarifeye göre hesaplanır?  
-
-A) Beyan sahibinin talep etmesi hâlinde, oran indiriminin yürürlüğe girdiği 15 Mart tarihinde  
-B) Eşyanın muayenesinin tamamlandığı 16 Mart tarihinde  
-C) Vergilerin ödendiği 17 Mart tarihinde  
-D) Gümrük yükümlülüğünün başladığı 12 Mart tarihinde  
-E) Eşyanın firmaya teslim edildiği 19 Mart tarihinde  
+A) Beyan sahibinin tercihli tarife uygulanmasını talep ettiği tarihte  
+B) Gümrük işlemlerinin tamamlandığı tarihte  
+C) Eşyanın beyan sahibine teslim edildiği tarihte  
+D) Gümrük yükümlülüğünün başladığı tarihte  
+E) Gümrük vergilerinin ödendiği tarihte  
 
 **2-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin eşyanın ticaretine ilişkin özel hükümlerle belirlenmiş önlemlere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
 
@@ -70,15 +68,13 @@ C) Belirlenen miktarı aşan ithalat için indirimlerin askıya alınmasına kar
 D) Tespit edilen ithalat hacmi sınırına ulaşıldığında  
 E) Kotanın dolduğu hususu Resmi Gazetede ilan edildiğinde  
 
-**7-** Belirli bir dönem için belirlenen miktar dahilinde ithalatta gümrük vergisi oranında indirim öngören bir tarife tavanı uygulanmaktadır. Dönem içinde yapılan ithalat belirlenen miktarı aşmış, ancak bu konuda henüz bir Cumhurbaşkanı Kararı yayımlanmamıştır. Bu sırada (C) firması, tarife tavanı kapsamındaki eşyadan yeni bir parti için gerekli koşulları taşıyan ve belgeleri eklenmiş serbest dolaşıma giriş beyannamesini vermiş ve indirimli oranın uygulanmasını talep etmiştir.
+**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin hacimle sınırlı tarife uygulamalarına ilişkin hükümlerine göre tarife tavanı hakkında aşağıdakilerden hangisi söylenemez?
 
-4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin hacimle sınırlı tarife uygulamalarına ilişkin hükümlerine göre bu talep hakkında aşağıdakilerden hangisi söylenebilir?  
-
-A) Belirlenen miktar aşıldığı anda tarife tavanı uygulaması kendiliğinden sona erdiğinden normal gümrük vergisi oranı uygulanır.  
-B) Belirlenen miktarı aşan ithalat için indirim, takvim yılının sonuna kadar kendiliğinden askıya alınmış sayılır.  
-C) Tarife tavanı uygulaması Cumhurbaşkanı Kararı ile sona ereceğinden, miktarın aşılmış olması tek başına indirimli oranın uygulanmasına engel değildir.  
-D) Miktarın aşıldığını tespit eden gümrük idaresi, tarife tavanı uygulamasını sona erdirerek normal oranı uygular.  
-E) Tarife tavanı, belirlenen miktarı aşan ithalat için tarife indirimlerinin dönem sonuna kadar askıya alınmasını zorunlu kıldığından indirimli oran uygulanamaz.  
+A) Tarife tavanı, belirli bir dönem içinde belli malların belirlenen değer ya da miktarı için normal gümrük vergisi oranında bir indirime gidilmesini öngörür.  
+B) Tarife tavanında öngörülen indirim, ithalatın yanı sıra ihracatta da söz konusu olabilir.  
+C) Belirlenen ithalat hacmi sınırına ulaşıldığında tarife tavanı uygulaması kendiliğinden sona erer.  
+D) Belirlenen değer ya da miktarı aşan miktar için tarife indirimleri, belirlenen dönemin sonuna kadar askıya alınabilir.  
+E) Kanunda tarife tavanı, tarife kotası gibi belirli bir ithalat hacmiyle sınırlandırılmış tarife uygulamalarından biri olarak düzenlenmiştir.  
 
 **8-** 4458 sayılı Gümrük Kanunu ve Gümrük Genel Tebliği (Gümrük Tarife Cetveli İzahnamesi) (Seri No: 4)'e göre Gümrük Tarife Cetveli İzahnamesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -114,19 +110,13 @@ C) İki ya da daha çok ülkenin yaptıkları ticaret anlaşması uyarınca, ara
 D) Dış ticaretin serbest piyasa koşullarında gelişmesine, konulan gümrük vergileri ile engel olunmasını  
 E) Bir mal ya da mal grubunun gümrük vergisi oranlarında belirli bir miktar veya değer için indirim yapılması ya da muafiyet sağlanmasını  
 
-**12-** Gümrük Yönetmeliği'nin gümrük tarifesi uygulamasına ilişkin tanımları çerçevesinde aşağıdaki ifadeler verilmiştir:
+**12-** Gümrük Yönetmeliği'nin gümrük tarifesi uygulamasına ilişkin tanımlarına göre kota, tercihli tarife, tarife önlemleri ve işlenmiş tarım ürünleriyle ilgili özel düzenlemelere ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Kota, bir takvim yılı içinde veya muayyen bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değeridir.  
-II. Tarife tavanı, belirli bir dönem içinde belli malların belirlenen değer ya da miktarı için yalnızca ithalatta normal gümrük vergisi oranında bir indirime gidilmesi uygulamasıdır.  
-III. Tercihli tarife, bir ülkenin belli ülke ya da toprak parçaları menşeli eşyaya tek taraflı olarak daha düşük tarife uygulamasını da kapsar.  
-IV. Tarife önlemleri, dış ticaretin serbest piyasa koşullarında gelişmesine miktar kısıtlamaları ile engel olunmasıdır.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) Yalnız II  
-B) II ve IV  
-C) I ve III  
-D) I, II ve IV  
-E) II, III ve IV  
+A) Kota, bir takvim yılı içinde veya muayyen bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değeridir.  
+B) Tarife önlemleri, dış ticaretin serbest piyasa koşullarında gelişmesine, konulan miktar kısıtlamaları ile engel olunmasını ifade eder.  
+C) Tercihli tarife, iki ya da daha çok ülkenin yaptıkları ticaret anlaşması uyarınca aralarındaki ticarette karşılıklı olarak daha düşük tarife uygulamasını ifade eder.  
+D) Bir ülkenin belli ülke ya da toprak parçaları menşeli eşyaya tek taraflı olarak daha düşük tarife uygulaması da tercihli tarife kapsamındadır.  
+E) İşlenmiş tarım ürünleriyle ilgili özel düzenlemeler, tarım ürünlerinin işlenmesi sonucu elde edilen işlenmiş tarım ürünlerinin ticaretinde uygulanan özel hükümlerdir.  
 
 **13-** Gümrük Yönetmeliği'ne göre Türk Gümrük Tarife Cetvelinde bölüm başlıklarından sonra yer alan bölüm notlarının bilgi verdiği hususlar arasında aşağıdakilerden hangisi yer almaz?
 
@@ -202,18 +192,16 @@ E) İlk iki rakamıyla – altı basamaktan
 
 *4458 sayılı Gümrük Kanunu md. 15*
 
-**1-** (A) firması, ithal ettiği eşya için 12 Mart tarihinde serbest dolaşıma giriş beyannamesini tescil ettirmiş ve eşyaya ilişkin gümrük yükümlülüğü bu tarihte başlamıştır. Eşyanın tabi olduğu gümrük vergisi oranı, 15 Mart tarihinde yürürlüğe giren bir düzenlemeyle indirilmiştir. Eşyanın muayenesi 16 Mart'ta tamamlanmış, vergiler 17 Mart'ta ödenmiş ve eşya 19 Mart'ta firmaya teslim edilmiştir.
+**1-** 4458 sayılı Gümrük Kanunu'nun gümrük tarifesine ilişkin hükümlerine göre gümrük vergileri, hangi tarihte yürürlükte olan gümrük tarifesine göre hesaplanır?
 
-4458 sayılı Gümrük Kanunu'nun gümrük tarifesine ilişkin hükümlerine göre bu eşyanın gümrük vergileri hangi tarihte yürürlükte olan tarifeye göre hesaplanır?  
-
-A) Beyan sahibinin talep etmesi hâlinde, oran indiriminin yürürlüğe girdiği 15 Mart tarihinde  
-B) Eşyanın muayenesinin tamamlandığı 16 Mart tarihinde  
-C) Vergilerin ödendiği 17 Mart tarihinde  
-D) Gümrük yükümlülüğünün başladığı 12 Mart tarihinde  
-E) Eşyanın firmaya teslim edildiği 19 Mart tarihinde  
+A) Beyan sahibinin tercihli tarife uygulanmasını talep ettiği tarihte  
+B) Gümrük işlemlerinin tamamlandığı tarihte  
+C) Eşyanın beyan sahibine teslim edildiği tarihte  
+D) Gümrük yükümlülüğünün başladığı tarihte  
+E) Gümrük vergilerinin ödendiği tarihte  
 
 **Doğru Cevap:** D  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre gümrük vergileri, gümrük yükümlülüğünün başladığı tarihte yürürlükte olan gümrük tarifesine göre hesaplanır. Vakada yükümlülük, serbest dolaşıma giriş beyannamesinin tescil edildiği 12 Mart'ta başlamıştır; oranın 15 Mart'ta indirilmiş olması ya da muayene, ödeme ve teslimin daha sonraki tarihlerde gerçekleşmesi hesaplamada esas alınacak tarifeyi değiştirmez. En güçlü çeldirici, beyan sahibinin talebiyle indirilmiş oranın uygulanabileceğini söyleyen seçenektir: Kanun beyan sahibine, gerekli koşulları taşıyan eşyada gümrük vergi oranlarını içeren tarife yerine anlaşmalara dayanan veya tek taraflı tanınan tercihli tarife uygulamaları ile şartlı muafiyet veya indirim uygulamalarının uygulanmasını isteme imkânı tanır; sonradan yürürlüğe giren genel bir oran indirimi bu kapsamda değildir. İşlemlerin tamamlanması ve eşyanın teslimi de Kanunda yalnızca bu tercihli uygulama talebinin ne zamana kadar yapılabileceği bakımından geçer. Bu nedenle doğru cevap D seçeneğidir. (MD GK 15)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre gümrük vergileri, gümrük yükümlülüğünün başladığı tarihte yürürlükte olan gümrük tarifesine göre hesaplanır. Yükümlülüğün başlamasından sonra gerçekleşen işlemlerin tamamlanması, teslim veya ödeme gibi aşamalar, hesaplamada esas alınacak tarifeyi değiştirmez. En güçlü çeldiriciler aynı maddenin beyan sahibinin talebine ilişkin hükmünden taşınmıştır: Kanun beyan sahibine, gerekli koşulları taşıyan eşyada gümrük vergi oranlarını içeren tarife yerine tercihli tarife ile şartlı muafiyet veya indirim uygulamalarının uygulanmasını isteme imkânı tanır ve bu talebin gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabileceğini belirtir. Talep, işlemlerin tamamlanması ve teslim tarihleri bu nedenle talebin ne zaman yapılabileceğine ilişkindir; vergilerin hangi tarihteki tarifeye göre hesaplanacağını belirlemez. Vergilerin ödendiği tarih ise Kanunda tarifenin belirlenmesine bağlanmış bir an değildir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 15)
 
 *4458 sayılı Gümrük Kanunu md. 15; Gümrük Yönetmeliği md. 32*
 
@@ -232,7 +220,7 @@ D) II ve IV
 E) I, II ve IV  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Kanunu'na göre eşya ticaretine ilişkin özel hükümlerle belirlenmiş diğer önlemler, gerektiği takdirde, söz konusu eşyanın tarife pozisyonuna göre uygulanır; I doğrudur. Gümrük Yönetmeliği bu önlemleri, bir eşyanın ticaretine ilişkin olarak uluslararası anlaşmalardan kaynaklanan yükümlülükler ya da kanun, kararname, yönetmelik ve benzeri mevzuat çerçevesinde ilgili kurumlarca belirlenmiş özel düzenlemeler olarak tanımlar. Buna göre uluslararası anlaşmalardan doğan yükümlülükler de bu kapsamdadır (II doğru). Önlemleri belirleyen yalnızca gümrük idareleri değil, ilgili kurumlardır (III yanlış); dayanak da yalnızca kanun değildir, kararname, yönetmelik ve benzeri mevzuat da sayılmıştır (IV yanlış). En güçlü çeldirici III'tür: tanım, önlemleri belirleyen merci olarak gümrük idarelerini değil 'ilgili kurumları' gösterir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 15; GY 32)
+**Gerekçe:** Gümrük Kanunu'na göre eşya ticaretine ilişkin özel hükümlerle belirlenmiş diğer önlemler, gerektiği takdirde, söz konusu eşyanın tarife pozisyonuna göre uygulanır; I doğrudur. Gümrük Yönetmeliği bu önlemleri, bir eşyanın ticaretine ilişkin olarak uluslararası anlaşmalardan kaynaklanan yükümlülükler ya da kanun, kararname, yönetmelik ve benzeri mevzuat çerçevesinde ilgili kurumlarca belirlenmiş özel düzenlemeler olarak tanımlar. Buna göre uluslararası anlaşmalardan doğan yükümlülükler de bu kapsamdadır (II doğru). Önlemleri belirleyen yalnızca gümrük idareleri değil, ilgili kurumlardır (III yanlış); dayanak da yalnızca kanun değildir, kararname, yönetmelik ve benzeri mevzuat da sayılmıştır (IV yanlış). En güçlü tuzak III. önermedir: tanım, önlemleri belirleyen merci olarak gümrük idarelerini değil 'ilgili kurumları' gösterir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 15; GY 32)
 
 *4458 sayılı Gümrük Kanunu md. 15*
 
@@ -296,18 +284,16 @@ E) Kotanın dolduğu hususu Resmi Gazetede ilan edildiğinde
 
 *4458 sayılı Gümrük Kanunu md. 15; Gümrük Yönetmeliği md. 32*
 
-**7-** Belirli bir dönem için belirlenen miktar dahilinde ithalatta gümrük vergisi oranında indirim öngören bir tarife tavanı uygulanmaktadır. Dönem içinde yapılan ithalat belirlenen miktarı aşmış, ancak bu konuda henüz bir Cumhurbaşkanı Kararı yayımlanmamıştır. Bu sırada (C) firması, tarife tavanı kapsamındaki eşyadan yeni bir parti için gerekli koşulları taşıyan ve belgeleri eklenmiş serbest dolaşıma giriş beyannamesini vermiş ve indirimli oranın uygulanmasını talep etmiştir.
+**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin hacimle sınırlı tarife uygulamalarına ilişkin hükümlerine göre tarife tavanı hakkında aşağıdakilerden hangisi söylenemez?
 
-4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin hacimle sınırlı tarife uygulamalarına ilişkin hükümlerine göre bu talep hakkında aşağıdakilerden hangisi söylenebilir?  
-
-A) Belirlenen miktar aşıldığı anda tarife tavanı uygulaması kendiliğinden sona erdiğinden normal gümrük vergisi oranı uygulanır.  
-B) Belirlenen miktarı aşan ithalat için indirim, takvim yılının sonuna kadar kendiliğinden askıya alınmış sayılır.  
-C) Tarife tavanı uygulaması Cumhurbaşkanı Kararı ile sona ereceğinden, miktarın aşılmış olması tek başına indirimli oranın uygulanmasına engel değildir.  
-D) Miktarın aşıldığını tespit eden gümrük idaresi, tarife tavanı uygulamasını sona erdirerek normal oranı uygular.  
-E) Tarife tavanı, belirlenen miktarı aşan ithalat için tarife indirimlerinin dönem sonuna kadar askıya alınmasını zorunlu kıldığından indirimli oran uygulanamaz.  
+A) Tarife tavanı, belirli bir dönem içinde belli malların belirlenen değer ya da miktarı için normal gümrük vergisi oranında bir indirime gidilmesini öngörür.  
+B) Tarife tavanında öngörülen indirim, ithalatın yanı sıra ihracatta da söz konusu olabilir.  
+C) Belirlenen ithalat hacmi sınırına ulaşıldığında tarife tavanı uygulaması kendiliğinden sona erer.  
+D) Belirlenen değer ya da miktarı aşan miktar için tarife indirimleri, belirlenen dönemin sonuna kadar askıya alınabilir.  
+E) Kanunda tarife tavanı, tarife kotası gibi belirli bir ithalat hacmiyle sınırlandırılmış tarife uygulamalarından biri olarak düzenlenmiştir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Kanunu'na göre belirli bir ithalat hacmi ile sınırlandırılmış tarife uygulamaları, tarife kotalarında tespit edilen ithalat hacmi sınırına ulaşıldığında, tarife tavanlarında ise Cumhurbaşkanı Kararı ile sona erer. Gümrük Yönetmeliği de tarife tavanını, belirlenen değer ya da miktar için indirime gidilmesi ve bunu aşan miktar için belirlenen dönemin sonuna kadar indirimlerin askıya alınabilmesi uygulaması olarak tanımlar; askıya alma bir imkândır, kendiliğinden gerçekleşmez. Vakada miktar aşılmış, fakat Cumhurbaşkanı Kararı yayımlanmamıştır; bu nedenle tavan uygulaması sona ermemiştir. Vakaya saklanan istisna budur: hacim sınırına ulaşılmasıyla sona eren uygulama tarife tavanı değil, tarife kotasıdır. En güçlü çeldirici, miktar aşılınca uygulamanın kendiliğinden bittiğini söyleyen seçenektir; bu sonuç aynı hükümde tarife kotalarına bağlanmıştır. Sona erdirme yetkisi gümrük idaresine verilmemiş, askıya alma da zorunlu tutulmamıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GK 15; GY 32)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre tercihli tarife ile şartlı muafiyet veya indirim uygulamalarından belirli bir ithalat hacmiyle sınırlandırılmış olanlar, tarife kotalarının söz konusu olduğu durumlarda tespit edilen ithalat hacmi sınırına ulaşıldığında, tarife tavanlarının söz konusu olduğu durumlarda ise Cumhurbaşkanı Kararı ile sona erer. Hacim sınırına ulaşılmasıyla kendiliğinden sona erme tarife kotasına özgüdür; tarife tavanı Cumhurbaşkanı Kararı olmadıkça sona ermez. Gümrük Yönetmeliği de tarife tavanını, belirli bir dönem içinde belli malların belirlenen değer ya da miktar için ithalatta ve ihracatta normal gümrük vergisi oranında bir indirime gidilmesi ve bunu aşan miktar için belirlenen dönemin sonuna kadar bu tarife indirimlerinin askıya alınabilmesi uygulaması olarak tanımlar; dönem ve miktar, ihracat ve askıya alma imkânına ilişkin ifadeler bu tanıma, tarife tavanını tarife kotasıyla birlikte hacimle sınırlı uygulamalar arasında gösteren ifade ise Kanuna uygundur. Aşan miktar için indirimlerin askıya alınabilmesi, uygulamanın hacim aşılınca bittiği izlenimini verdiğinden en güçlü tuzaktır; askıya alma bir imkândır ve uygulamayı sona erdirmez. Bu nedenle doğru cevap C seçeneğidir. (MD GK 15; GY 32)
 
 *4458 sayılı Gümrük Kanunu md. 15; Gümrük Genel Tebliği (Gümrük Tarife Cetveli İzahnamesi) (Seri No: 4) md. 4, 5*
 
@@ -333,7 +319,7 @@ D) Bölüm, birbirine benzeyen aynı nitelikteki veya çoğunlukla aynı hammadd
 E) Fasıl başlıkları, fasılların başında bulunan ve bağlayıcı nitelik taşıyan ibarelerdir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre fasıl başlıkları, Türk Gümrük Tarife Cetvelinde yer alan fasılların başında bulunan ve bağlayıcı olmayan ibarelerdir. Bölüm başlıkları da tarifenin yorumu bakımından bağlayıcı olmayıp yol gösterici niteliktedir. Bölüm notları bölüm başlıklarından sonra, fasıl notları fasıl başlıklarından sonra yer alan açıklamalardır; bölüm ise birbirine benzeyen aynı nitelikteki veya çoğunlukla aynı hammaddeden yapılan eşyayı içine alacak şekilde oluşturulan gruptur. Yanlış ifade, fasıl başlıklarının 'bağlayıcı olmayan' niteliğini 'bağlayıcı' olarak değiştirmiştir. Kanunda idari ve kazai uygulamalarda esas tutulacağı belirtilen metinler Resmi Gazetede yayımlanan tarife cetveli, izahname ve eşya fihristidir; başlıklar ise yalnızca yol gösterir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 32)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre fasıl başlıkları, Türk Gümrük Tarife Cetvelinde yer alan fasılların başında bulunan ve bağlayıcı olmayan ibarelerdir. Bölüm başlıkları da tarifenin yorumu bakımından bağlayıcı olmayıp yol gösterici niteliktedir. Bölüm notları bölüm başlıklarından sonra, fasıl notları fasıl başlıklarından sonra yer alan açıklamalardır; bölüm ise birbirine benzeyen aynı nitelikteki veya çoğunlukla aynı hammaddeden yapılan eşyayı içine alacak şekilde oluşturulan gruptur. Yanlış ifade, fasıl başlıklarının 'bağlayıcı olmayan' niteliğini 'bağlayıcı' olarak değiştirmiştir. Kanunda idari ve kazai uygulamalarda esas tutulacağı belirtilen metinler Resmi Gazetede yayımlanan tarife cetveli, izahname ve eşya fihristidir; bölüm ve fasıl başlıkları ise bağlayıcı değildir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 32)
 
 *4458 sayılı Gümrük Kanunu md. 16*
 
@@ -365,22 +351,16 @@ E) Bir mal ya da mal grubunun gümrük vergisi oranlarında belirli bir miktar v
 
 *Gümrük Yönetmeliği md. 32*
 
-**12-** Gümrük Yönetmeliği'nin gümrük tarifesi uygulamasına ilişkin tanımları çerçevesinde aşağıdaki ifadeler verilmiştir:
+**12-** Gümrük Yönetmeliği'nin gümrük tarifesi uygulamasına ilişkin tanımlarına göre kota, tercihli tarife, tarife önlemleri ve işlenmiş tarım ürünleriyle ilgili özel düzenlemelere ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Kota, bir takvim yılı içinde veya muayyen bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değeridir.  
-II. Tarife tavanı, belirli bir dönem içinde belli malların belirlenen değer ya da miktarı için yalnızca ithalatta normal gümrük vergisi oranında bir indirime gidilmesi uygulamasıdır.  
-III. Tercihli tarife, bir ülkenin belli ülke ya da toprak parçaları menşeli eşyaya tek taraflı olarak daha düşük tarife uygulamasını da kapsar.  
-IV. Tarife önlemleri, dış ticaretin serbest piyasa koşullarında gelişmesine miktar kısıtlamaları ile engel olunmasıdır.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) Yalnız II  
-B) II ve IV  
-C) I ve III  
-D) I, II ve IV  
-E) II, III ve IV  
+A) Kota, bir takvim yılı içinde veya muayyen bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değeridir.  
+B) Tarife önlemleri, dış ticaretin serbest piyasa koşullarında gelişmesine, konulan miktar kısıtlamaları ile engel olunmasını ifade eder.  
+C) Tercihli tarife, iki ya da daha çok ülkenin yaptıkları ticaret anlaşması uyarınca aralarındaki ticarette karşılıklı olarak daha düşük tarife uygulamasını ifade eder.  
+D) Bir ülkenin belli ülke ya da toprak parçaları menşeli eşyaya tek taraflı olarak daha düşük tarife uygulaması da tercihli tarife kapsamındadır.  
+E) İşlenmiş tarım ürünleriyle ilgili özel düzenlemeler, tarım ürünlerinin işlenmesi sonucu elde edilen işlenmiş tarım ürünlerinin ticaretinde uygulanan özel hükümlerdir.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre kota, bir takvim yılı içinde veya muayyen bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değeridir; I doğrudur. Tarife tavanı, belirli bir dönem içinde belli malların belirlenen değer ya da miktar için ithalatta ve ihracatta normal gümrük vergisi oranında bir indirime gidilmesi ve bunu aşan miktar için dönem sonuna kadar indirimlerin askıya alınabilmesi uygulamasıdır; 'yalnızca ithalatta' ifadesi tanımdaki ihracatı dışladığından II yanlıştır. Tercihli tarife, iki ya da daha çok ülkenin ticaret anlaşması uyarınca karşılıklı olarak ya da bir ülkenin belli ülke veya toprak parçaları menşeli eşyaya tek taraflı olarak daha düşük tarife uygulamasıdır; III doğrudur. Tarife önlemleri ise dış ticaretin serbest piyasa koşullarında gelişmesine konulan gümrük vergileri ile engel olunmasıdır; ithalatın miktarının sınırlanması kota tanımındaki unsurdur, bu nedenle IV yanlıştır. En güçlü çeldirici 'Yalnız II'dir: IV'teki tek unsur değişikliği, kota ile tarife önlemini karıştıran adayı yakalar. Bu nedenle doğru cevap B seçeneğidir. (MD GY 32)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre tarife önlemleri, dış ticaretin serbest piyasa koşullarında gelişmesine konulan gümrük vergileri ile engel olunmasıdır; yanlış ifade 'gümrük vergileri' unsurunu 'miktar kısıtlamaları' ile değiştirmiştir. Miktar kısıtlamaları, Gümrük Yönetmeliği'nin genel tanımlarında gözetim, korunma önlemleri ve ithalat veya ihracat yasaklamalarıyla birlikte tarife dışı önlem niteliğindeki ticaret politikası önlemleri arasında sayılır; ithalatın izin verilen miktar ve/veya değerini ifade eden kavram ise kotadır. Aynı tanımlara göre kota, bir takvim yılı içinde veya muayyen bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değeridir; tercihli tarife, iki ya da daha çok ülkenin ticaret anlaşması uyarınca aralarındaki ticarette karşılıklı olarak ya da bir ülkenin belli ülke veya toprak parçaları menşeli eşyaya tek taraflı olarak daha düşük tarife uygulamasıdır; işlenmiş tarım ürünleriyle ilgili özel düzenlemeler ise tarım ürünlerinin işlenmesi sonucu elde edilen işlenmiş tarım ürünlerinin ticaretinde uygulanan özel hükümlerdir. Kota ile tarife önlemini karıştıran aday yanlış ifadeyi doğru sanır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 32; GY 3)
 
 *Gümrük Yönetmeliği md. 32*
 
@@ -393,7 +373,7 @@ D) Hangi eşyanın sadece ilgili bölümde yer alabileceği ve bunun için hangi
 E) Hangi eşyanın o bölüme dahil olmadığı  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre bölüm notu, Türk Gümrük Tarife Cetvelinde bölümlerle ilgili olarak bölüm başlıklarından sonra yer alan ve bölümde geçen bazı tabirlerin ne anlama geldiği, ilgili bölümde bir eşyaya yapılan bir atfın hangi tür eşyayı kapsadığı, hangi eşyanın sadece ilgili bölümde yer alabileceği ve bunun için hangi şartların gerektiği ile hangi eşyanın o bölüme dahil olmadığı hakkında bilgi veren açıklamalardır. Eşyaya uygulanacak gümrük vergisi oranları bu listede yer almaz; Gümrük Kanunu'na göre gümrük vergi oranları gümrük tarifesinin kapsadığı ayrı bir unsurdur. Çeldirici, sınıflandırmaya yön veren not içeriğine mantıklı görünen bir vergi bilgisi ekleyerek mevzuatı sağduyuyla çözen adayı yakalar. Bu nedenle doğru cevap A seçeneğidir. (MD GY 32; GK 15)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre bölüm notu, Türk Gümrük Tarife Cetvelinde bölümlerle ilgili olarak bölüm başlıklarından sonra yer alan ve bölümde geçen bazı tabirlerin ne anlama geldiği, ilgili bölümde bir eşyaya yapılan bir atfın hangi tür eşyayı kapsadığı, hangi eşyanın sadece ilgili bölümde yer alabileceği ve bunun için hangi şartların gerektiği ile hangi eşyanın o bölüme dahil olmadığı hakkında bilgi veren açıklamalardır. Eşyaya uygulanacak gümrük vergisi oranları bu listede yer almaz; Gümrük Kanunu'na göre gümrük vergi oranları gümrük tarifesinin kapsadığı ayrı bir unsurdur. Bu seçenek, sınıflandırmaya yön veren not içeriğine mantıklı görünen bir vergi bilgisi eklediğinden mevzuatı sağduyuyla çözen aday onu da notların kapsamında sanar. Bu nedenle doğru cevap A seçeneğidir. (MD GY 32; GK 15)
 
 *Gümrük Genel Tebliği (Gümrük Tarife Cetveli Açıklama Notları) (Seri No: 6) md. 4*
 
@@ -490,11 +470,11 @@ E) İlk iki rakamıyla – altı basamaktan
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I ve II, I, II ve III, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 14, TERİM 7, UNSUR 6, MAKAM 5, SAĞDUYU 4, TERSİNE 4 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I ve II, I, II ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 14, TERİM 8, MAKAM 5, UNSUR 5, SAĞDUYU 4, TERSİNE 4 |
 | İkiz eksen / ayna | 14 / BAĞLAYICILIK, KOTA-TAVAN |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 5 |

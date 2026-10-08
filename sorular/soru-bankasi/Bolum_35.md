@@ -66,18 +66,13 @@ C) I, II ve III
 D) I ve III  
 E) I, III ve IV  
 
-**6-** İhracat amacıyla geçici depolama yerine konulan eşyaya ilişkin bilgiler şöyledir:
+**6-** Gümrük Yönetmeliği'ne göre ihracat amacıyla geçici depolama yerlerine konulan ve bir aylık süre ile verilen ek süre içinde gümrük işlemleri bitirilerek yerinden kaldırılmayan eşya için gümrük yükümlüsüne yapılan tebligatta eşyanın çıkarılması için tanınan süre ile bu süre içinde de çıkarılmayan eşyaya ilişkin sonuç aşağıdakilerin hangisinde birlikte doğru olarak verilmiştir?
 
-- Eşya 3 Mart 2026 tarihinde geçici depolama yerine konulmuş, ihracat beyannamesi aynı gün tescil edilmiştir.  
-- Bir aylık süre içinde ek süre talebinde bulunulmamış, gümrük işlemleri bitirilerek eşya bu süre içinde yerinden kaldırılmamıştır.  
-- Gümrük idaresince gümrük yükümlüsüne yapılan tebligat 20 Nisan 2026 tarihinde tebliğ edilmiştir.  
-Gümrük Yönetmeliği'ne göre bu eşyaya ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Eşya 3 Mayıs 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır ve tescil edilmiş beyanname iptal edilir.  
-B) Eşya 20 Mayıs 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır; ancak tescil edilmiş beyanname geçerliliğini korur.  
-C) Eşya 20 Haziran 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır ve tescil edilmiş beyanname iptal edilir.  
-D) Eşya 3 Temmuz 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır ve tescil edilmiş beyanname iptal edilir.  
-E) Eşya 20 Mayıs 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır ve tescil edilmiş beyanname iptal edilir.  
+A) Bir aylık sürenin bitiminden itibaren otuz gün – Eşya gümrüğe terk edilmiş sayılır, tasfiye hükümlerine göre işlem yapılır ve tescil edilmiş beyanname varsa iptal edilir.  
+B) Tebliğ tarihinden itibaren otuz gün – Eşya gümrüğe terk edilmiş sayılır ve tasfiye hükümlerine göre işlem yapılır; tescil edilmiş beyanname geçerliliğini korur.  
+C) Tebliğ tarihinden itibaren iki ay – Eşya gümrüğe terk edilmiş sayılır, tasfiye hükümlerine göre işlem yapılır ve tescil edilmiş beyanname varsa iptal edilir.  
+D) Bir aylık sürenin bitiminden itibaren üç ay – Eşya gümrüğe terk edilmiş sayılır ve tasfiye hükümlerine göre işlem yapılır; tescil edilmiş beyanname geçerliliğini korur.  
+E) Tebliğ tarihinden itibaren otuz gün – Eşya gümrüğe terk edilmiş sayılır, tasfiye hükümlerine göre işlem yapılır ve tescil edilmiş beyanname varsa iptal edilir.  
 
 **7-** İhracat Rejimi Kararı'na göre, ihracatta yetkili merci olan Bakanlığın ihracatta kısıtlama veya yasaklama getirmeye yetkili olduğu nedenler arasında aşağıdakilerden hangisi sayılmamıştır?
 
@@ -103,13 +98,13 @@ C) Offset
 D) Transit ticaret  
 E) Konsinye ihracat  
 
-**10-** İhracat Yönetmeliği'ndeki "başlamış işlem" tanımına göre aşağıdaki ihracat şekli – işlemin başlamış sayılması için gerçekleşmiş olması gereken durum eşleştirmelerinden hangisi yanlıştır?
+**10-** İhracat Yönetmeliği'nde tanımlanan "başlamış işlem" deyimi, konsinye ihracat ile yurt dışı müteahhitlik ve teknik müşavirlik kapsamındaki ihracatta aşağıdakilerden hangisini ifade eder?
 
-A) Kayda bağlı ihracat – İhracatçı Birlikleri Genel Sekreterliğince kaydın verilmiş olması  
-B) Bedelsiz ihracat – Gümrük beyannamesi düzenlenmesi gereken hâllerde beyannamenin tescil edilmiş olması  
-C) Offset kapsamında ihracat – Offset anlaşmasının imzalanmış olması  
-D) Genel esaslar çerçevesinde ihracat – Gümrük beyannamesinin İhracatçı Birlikleri Genel Sekreterliğine onaylatılmış olması  
-E) Konsinye ihracat – Malın yurt dışında nihai kullanıcıya kesin satışının yapılmış olması  
+A) Malın nihai kullanıcıya kesin satışının yapılmış olmasını  
+B) Gümrük beyannamesinin İhracatçı Birlikleri Genel Sekreterliğine onaylatılmış olmasını  
+C) Gümrük beyannamesinin tescil edilmiş olmasını  
+D) İhracatçı Birlikleri Genel Sekreterliğince kaydın verilmiş olmasını  
+E) İznin verilmiş olmasını  
 
 **11-** İhracat Yönetmeliği'ne göre, ihracı kayda bağlı mallara ilişkin olarak İhracatçı Birlikleri Genel Sekreterliğince kayda alınmış gümrük beyannamesinin gümrük idarelerine sunulma süresi, kural olarak İhracatçı Birlikleri Genel Sekreterliğinin onay tarihinden itibaren uzatılmamak üzere kaç gündür?
 
@@ -159,33 +154,21 @@ C) Mavi yüzgeçli orkinos (canlı, taze soğutulmuş, dondurulmuş veya işlenm
 D) Ankara (Tiftik) keçisi  
 E) Salep (toz, tablet ve her türlü formda)  
 
-**17-** (B) Belediyesine ilişkin bilgiler şöyledir:
+**17-** Bedelsiz İhracata İlişkin Tebliğ'e göre aşağıdaki bedelsiz ihracatlardan hangisinde izin başvurusu doğrudan ilgili gümrük idaresine yapılmaz?
 
-- (B) Belediyesi, deprem yaşanan bir ülkeye insani yardım malzemesi göndermek istemektedir.  
-- Gönderilecek malzemenin toplam değeri 400.000 ABD Dolarıdır.  
-- Malzeme, ihracı yasaklanmış veya ön izne bağlanmış mallardan değildir.  
-- (B) Belediyesi herhangi bir İhracatçı Birliğine üye değildir.  
-Bedelsiz İhracata İlişkin Tebliğ'e göre bu gönderime ilişkin aşağıdakilerden hangisi doğrudur?  
+A) Daha önce usulüne uygun olarak ihraç edilmiş bir malın bedelsiz gönderilen, değeri 300.000 ABD Doları olan parçaları  
+B) Bir belediyenin deprem yaşanan bir ülkeye gönderdiği, değeri 400.000 ABD Doları olan insani yardım malzemeleri  
+C) Bir üniversitenin bir anlaşma gereği gönderdiği, değeri 300.000 ABD Doları olan mallar  
+D) Kızılay'ın sel yaşanan bir ülkeye gönderdiği, değeri 500.000 ABD Doları olan insani yardım malzemeleri  
+E) Bir şirketin gönderdiği, değeri 50.000 ABD Doları olan ve miktarı ticari teamüllere uygun numuneler  
 
-A) Bedelsiz ihracat izni başvurusu, değer ve miktarına bakılmaksızın doğrudan ilgili gümrük idaresine yapılır.  
-B) Malzemenin değeri 250.000 ABD Dolarını aştığından başvuru, Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliğine yapılır.  
-C) Başvuru, Dış Ticaret Müsteşarlığının (İhracat Genel Müdürlüğü) görüşü alınarak İhracatçı Birlikleri Genel Sekreterliğince sonuçlandırılır.  
-D) Belediye İhracatçı Birliğine üye olmadığından malzeme bedelsiz ihracat kapsamında gönderilemez.  
-E) Gönderilen malzeme, ihracatta uygulanan desteklerden yararlandırılır.  
+**18-** Bedelsiz İhracata İlişkin Tebliğ'in izin süresi, fon kesintisi, kayıt şartı, teknik mevzuat ve İhracatçı Birliğine üyeliğe ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-**18-** Bedelsiz İhracata İlişkin Tebliğ çerçevesinde aşağıdaki ifadeler verilmiştir:
-
-I. Bedelsiz ihraç izinlerinin geçerlilik süresi bir yıldır.  
-II. FOB değeri 1.000 ABD Dolarını geçmeyen malların bedelsiz ihracı Destekleme ve Fiyat İstikrar Fonu kesintisine tabi değildir.  
-III. İhracı kayda bağlı mallardan değeri FOB 1.000 ABD Dolarını geçenlerin bedelsiz olarak ihracında kayıt şartı aranmaz.  
-IV. Gerçek veya tüzel kişiler tarafından gönderilen hediyeler ile miktarı ticari teamüllere uygun numunelerin bedelsiz ihracatında İhracatçı Birliğine üye olma şartı aranmaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I, II ve IV  
-C) II ve III  
-D) I, III ve IV  
-E) I, II, III ve IV  
+A) Bedelsiz ihraç izinlerinin geçerlilik süresi bir yıldır.  
+B) İhracı kayda bağlı mallardan değeri FOB 1.000 ABD Dolarını geçenlerin bedelsiz olarak ihracında kayıt şartı aranmaz.  
+C) FOB değeri 1.000 ABD Dolarını geçmeyen malların bedelsiz ihracı Destekleme ve Fiyat İstikrar Fonu kesintisine tabi değildir.  
+D) Bu Tebliğ kapsamında yapılacak bedelsiz ihracat, standartlar ve ürünlere ilişkin teknik mevzuat hükümlerine tabi değildir.  
+E) Gerçek veya tüzel kişiler tarafından gönderilen hediyeler ile miktarı ticari teamüllere uygun numunelerin bedelsiz ihracatında İhracatçı Birliğine üye olma şartı aranmaz.  
 
 **19-** Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre Türkiye Gümrük Bölgesinden geçici olarak çıkarılan taşıtların beklenmeyen hâller veya mücbir sebeplerle Türkiye'ye geri getirilememesi hâlinde, Gümrük Kanunu'nda belirtilen kanuni süre ile ilgilinin yazılı talebi üzerine süre uzatımını yapacak makam aşağıdakilerin hangisinde birlikte doğru olarak verilmiştir?
 
@@ -228,7 +211,7 @@ D) I, II ve IV
 E) II, III ve IV  
 
 **Doğru Cevap:** B  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre ihracat rejimi, serbest dolaşımda bulunan eşyanın ihraç amacıyla Türkiye Gümrük Bölgesi dışına çıkışına ilişkin hükümlerin uygulandığı rejimdir; I. ifadede 'bulunan' kaydı 'bulunmayan' olarak değiştirildiği için ifade yanlıştır. Kanuna göre ihracat, ticaret politikası önlemleri ve gerektiği takdirde ihracat vergileri de dahil olmak üzere çıkış işlemlerine ilişkin hükümlerin uygulanmasıyla gerçekleştirilir (II doğru). İhraç eşyası, beyannamenin tescili sırasındaki durum ve niteliğini gümrük kontrolünden çıktığı sırada da aynen muhafaza edip bu hâliyle Türkiye Gümrük Bölgesini terk ettiğinde fiilen ihraç edilmiş sayılır ve bu durumda eşya üzerindeki gümrük kontrolü sona erer; kontrolün varış ülkesindeki işlemlere kadar sürdüğünü söyleyen III yanlıştır. Kanun, beyannameye tabi olmayacak hâl ve şartların yönetmelikle belirleneceğini öngörür; Gümrük Yönetmeliği de elektronik ortamda olanlar dahil mektuplar, kartpostallar ve basılmış metinler ile yolcunun kişisel bagajı kapsamındaki eşya için gümrük beyannamesi aranmayacağını düzenler (IV doğru). En güçlü çeldirici I. ifadedir: Kanundaki tanım ile ifade arasındaki fark tek bir kelimedir ve hızlı okuyan aday değişikliği görmez. Bu nedenle doğru cevap B seçeneğidir. (MD GK 150, 151; GY 415)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre ihracat rejimi, serbest dolaşımda bulunan eşyanın ihraç amacıyla Türkiye Gümrük Bölgesi dışına çıkışına ilişkin hükümlerin uygulandığı rejimdir; I. ifadede 'bulunan' kaydı 'bulunmayan' olarak değiştirildiği için ifade yanlıştır. Kanuna göre ihracat, ticaret politikası önlemleri ve gerektiği takdirde ihracat vergileri de dahil olmak üzere çıkış işlemlerine ilişkin hükümlerin uygulanmasıyla gerçekleştirilir (II doğru). İhraç eşyası, beyannamenin tescili sırasındaki durum ve niteliğini gümrük kontrolünden çıktığı sırada da aynen muhafaza edip bu hâliyle Türkiye Gümrük Bölgesini terk ettiğinde fiilen ihraç edilmiş sayılır ve bu durumda eşya üzerindeki gümrük kontrolü sona erer; kontrolün varış ülkesindeki işlemlere kadar sürdüğünü söyleyen III yanlıştır. Kanun, beyannameye tabi olmayacak hâl ve şartların yönetmelikle belirleneceğini öngörür; Gümrük Yönetmeliği de elektronik ortamda olanlar dahil mektuplar, kartpostallar ve basılmış metinler ile yolcunun kişisel bagajı kapsamındaki eşya için gümrük beyannamesi aranmayacağını düzenler (IV doğru). En güçlü çeldirici 'I, II ve IV' seçeneğidir: Kanundaki tanım ile I. ifade arasındaki fark tek bir kelimedir ve hızlı okuyan aday değişikliği görmez. Bu nedenle doğru cevap B seçeneğidir. (MD GK 150, 151; GY 415)
 
 *4458 sayılı Gümrük Kanunu md. 151*
 
@@ -294,25 +277,20 @@ D) I ve III
 E) I, III ve IV  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre ihracat veya yeniden ihracat amacıyla geçici depolama yerlerine konulması talep edilen eşya buralarda bir ay kalabilir (I doğru). Beyanname tescil edilip edilmediğine bakılmaksızın bu süre içinde ek süre talep edilirse gümrük müdürlüklerince en çok üç aya kadar ek süre verilebilir; II. ifadedeki 'iki ay' bu nedenle yanlıştır. Geçici depolama yerlerine konulmaksızın ihraç edilecek eşyanın beyanname kapatma süresi iki aydır (III doğru); bu süre bölge müdürlüklerince değil, gümrük müdürlüklerince makul sebeplerle en çok iki ay uzatılabilir ve süreler içinde işlemleri tamamlanmayan beyannameler iptal edilir (IV yanlış). En güçlü çeldirici II. ifadedir: aynı maddede geçen iki aylık kapatma ve uzatma süreleri, geçici depolamadaki üç aylık ek süreyle karıştırılmaktadır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 417)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre ihracat veya yeniden ihracat amacıyla geçici depolama yerlerine konulması talep edilen eşya buralarda bir ay kalabilir (I doğru). Beyanname tescil edilip edilmediğine bakılmaksızın bu süre içinde ek süre talep edilirse gümrük müdürlüklerince en çok üç aya kadar ek süre verilebilir; II. ifadedeki 'iki ay' bu nedenle yanlıştır. Geçici depolama yerlerine konulmaksızın ihraç edilecek eşyanın beyanname kapatma süresi iki aydır (III doğru); bu süre bölge müdürlüklerince değil, gümrük müdürlüklerince makul sebeplerle en çok iki ay uzatılabilir ve süreler içinde işlemleri tamamlanmayan beyannameler iptal edilir (IV yanlış). En güçlü çeldirici 'I, II ve III' seçeneğidir: aynı maddede geçen iki aylık kapatma ve uzatma süreleri, geçici depolamadaki üç aylık ek süreyle karıştırıldığında II. ifade de doğru sanılır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 417)
 
 *Gümrük Yönetmeliği md. 417*
 
-**6-** İhracat amacıyla geçici depolama yerine konulan eşyaya ilişkin bilgiler şöyledir:
+**6-** Gümrük Yönetmeliği'ne göre ihracat amacıyla geçici depolama yerlerine konulan ve bir aylık süre ile verilen ek süre içinde gümrük işlemleri bitirilerek yerinden kaldırılmayan eşya için gümrük yükümlüsüne yapılan tebligatta eşyanın çıkarılması için tanınan süre ile bu süre içinde de çıkarılmayan eşyaya ilişkin sonuç aşağıdakilerin hangisinde birlikte doğru olarak verilmiştir?
 
-- Eşya 3 Mart 2026 tarihinde geçici depolama yerine konulmuş, ihracat beyannamesi aynı gün tescil edilmiştir.  
-- Bir aylık süre içinde ek süre talebinde bulunulmamış, gümrük işlemleri bitirilerek eşya bu süre içinde yerinden kaldırılmamıştır.  
-- Gümrük idaresince gümrük yükümlüsüne yapılan tebligat 20 Nisan 2026 tarihinde tebliğ edilmiştir.  
-Gümrük Yönetmeliği'ne göre bu eşyaya ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Eşya 3 Mayıs 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır ve tescil edilmiş beyanname iptal edilir.  
-B) Eşya 20 Mayıs 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır; ancak tescil edilmiş beyanname geçerliliğini korur.  
-C) Eşya 20 Haziran 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır ve tescil edilmiş beyanname iptal edilir.  
-D) Eşya 3 Temmuz 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır ve tescil edilmiş beyanname iptal edilir.  
-E) Eşya 20 Mayıs 2026 tarihine kadar geçici depolama yerinden çıkarılmazsa gümrüğe terk edilmiş sayılır ve tescil edilmiş beyanname iptal edilir.  
+A) Bir aylık sürenin bitiminden itibaren otuz gün – Eşya gümrüğe terk edilmiş sayılır, tasfiye hükümlerine göre işlem yapılır ve tescil edilmiş beyanname varsa iptal edilir.  
+B) Tebliğ tarihinden itibaren otuz gün – Eşya gümrüğe terk edilmiş sayılır ve tasfiye hükümlerine göre işlem yapılır; tescil edilmiş beyanname geçerliliğini korur.  
+C) Tebliğ tarihinden itibaren iki ay – Eşya gümrüğe terk edilmiş sayılır, tasfiye hükümlerine göre işlem yapılır ve tescil edilmiş beyanname varsa iptal edilir.  
+D) Bir aylık sürenin bitiminden itibaren üç ay – Eşya gümrüğe terk edilmiş sayılır ve tasfiye hükümlerine göre işlem yapılır; tescil edilmiş beyanname geçerliliğini korur.  
+E) Tebliğ tarihinden itibaren otuz gün – Eşya gümrüğe terk edilmiş sayılır, tasfiye hükümlerine göre işlem yapılır ve tescil edilmiş beyanname varsa iptal edilir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre ihracat amacıyla geçici depolama yerlerine konulan eşya buralarda bir ay kalabilir; ek süre ancak bu süre içinde talepte bulunulması hâlinde gümrük müdürlüklerince en çok üç aya kadar verilebilir. Bir aylık süre ve verilen ek süre içinde gümrük işlemleri bitirilerek yerinden kaldırılmayan eşya için gümrük yükümlüsüne tebligat yapılır; tebliğ tarihinden itibaren otuz gün içinde eşyanın geçici depolama yerinden çıkarılması, aksi takdirde gümrüğe terk edilmiş sayılacağı bildirilir. Bu süre içinde de çıkarılmayan eşya gümrüğe terk edilmiş sayılır, tasfiye hükümlerine göre işlem yapılır ve tescil edilmiş beyanname varsa iptal edilir. Vakada ek süre talep edilmediğinden ek süre söz konusu değildir; otuz günlük süre bir aylık sürenin bittiği 3 Nisan'dan değil, tebliğ tarihi olan 20 Nisan 2026'dan başlar ve 20 Mayıs 2026'da dolar. En güçlü çeldirici 3 Mayıs 2026 tarihini içeren seçenektir; süreyi bir aylık sürenin bitiminden başlatan aday bu şıkka gider. 20 Haziran tarihi geçici depolamasız ihraçtaki iki aylık kapatma süresinden, 3 Temmuz tarihi ise yalnızca talep hâlinde verilebilecek üç aylık ek süreden türetilmiştir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 417)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre ihracat amacıyla geçici depolama yerlerine konulan eşya buralarda bir ay kalabilir; ek süre ancak bu süre içinde talepte bulunulması hâlinde gümrük müdürlüklerince en çok üç aya kadar verilebilir. Bir aylık süre ve verilen ek süre içinde gümrük işlemleri bitirilerek yerinden kaldırılmayan eşya için gümrük yükümlüsüne tebligat yapılır; tebliğ tarihinden itibaren otuz gün içinde eşyanın geçici depolama yerinden çıkarılması, aksi takdirde gümrüğe terk edilmiş sayılacağı bildirilir. Bu süre içinde de çıkarılmayan eşya gümrüğe terk edilmiş sayılır, tasfiye hükümlerine göre işlem yapılır ve bu eşyaya ilişkin tescil edilmiş beyanname varsa iptal edilir. Otuz günlük süre bir aylık sürenin bitiminden değil, tebliğ tarihinden başlar; en güçlü çeldirici bu başlangıcı kaydıran seçenektir. Beyannamenin geçerliliğini koruduğunu söyleyen seçenekler iptal hükmünü tersine çevirir. İki ay, geçici depolama yerlerine konulmaksızın ihraç edilecek eşyanın beyanname kapatma süresi; üç ay ise talep hâlinde verilebilecek ek sürenin üst sınırıdır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 417)
 
 *İhracat Rejimi Kararı (95/7623) md. 3, 4*
 
@@ -355,16 +333,16 @@ E) Konsinye ihracat
 
 *İhracat Yönetmeliği md. 4*
 
-**10-** İhracat Yönetmeliği'ndeki "başlamış işlem" tanımına göre aşağıdaki ihracat şekli – işlemin başlamış sayılması için gerçekleşmiş olması gereken durum eşleştirmelerinden hangisi yanlıştır?
+**10-** İhracat Yönetmeliği'nde tanımlanan "başlamış işlem" deyimi, konsinye ihracat ile yurt dışı müteahhitlik ve teknik müşavirlik kapsamındaki ihracatta aşağıdakilerden hangisini ifade eder?
 
-A) Kayda bağlı ihracat – İhracatçı Birlikleri Genel Sekreterliğince kaydın verilmiş olması  
-B) Bedelsiz ihracat – Gümrük beyannamesi düzenlenmesi gereken hâllerde beyannamenin tescil edilmiş olması  
-C) Offset kapsamında ihracat – Offset anlaşmasının imzalanmış olması  
-D) Genel esaslar çerçevesinde ihracat – Gümrük beyannamesinin İhracatçı Birlikleri Genel Sekreterliğine onaylatılmış olması  
-E) Konsinye ihracat – Malın yurt dışında nihai kullanıcıya kesin satışının yapılmış olması  
+A) Malın nihai kullanıcıya kesin satışının yapılmış olmasını  
+B) Gümrük beyannamesinin İhracatçı Birlikleri Genel Sekreterliğine onaylatılmış olmasını  
+C) Gümrük beyannamesinin tescil edilmiş olmasını  
+D) İhracatçı Birlikleri Genel Sekreterliğince kaydın verilmiş olmasını  
+E) İznin verilmiş olmasını  
 
 **Doğru Cevap:** E  
-**Gerekçe:** İhracat Yönetmeliği'nde başlamış işlem, ihracat şekline göre ayrı ayrı tanımlanmıştır: kayda bağlı ihracatta İhracatçı Birlikleri Genel Sekreterliğince kaydın verilmiş olması; bedelsiz ihracatta, gümrük mevzuatı uyarınca gümrük beyannamesi düzenlenmesi gereken hâllerde beyannamenin tescil edilmiş olması; offset kapsamındaki ihracatta offset anlaşmasının imzalanmış olması; genel esaslar çerçevesinde gümrük beyannamesinin İhracatçı Birlikleri Genel Sekreterliğine onaylatılmış olması; müsaadeye bağlı ihracatta müsaadenin verilmiş olması. Konsinye ihracat ile yurt dışı müteahhitlik ve teknik müşavirlik kapsamındaki ihracatta ise işlem, iznin verilmiş olmasıyla başlamış sayılır. Malın nihai kullanıcıya satılması Yönetmelikte 'kesin satış' olarak tanımlanır ve konsinye ihracatın sonraki aşamasıdır; bu nedenle eşleştirme yanlıştır. En güçlü tuzak, konsinye ihracat tanımının kesin satışa atıf yapmasıdır. Bu nedenle doğru cevap E seçeneğidir. (MD İhracat Yönetmeliği md. 4)
+**Gerekçe:** İhracat Yönetmeliği'nde başlamış işlem, ihracat şekline göre ayrı ayrı tanımlanmıştır: konsinye ihracat ile yurt dışı müteahhitlik ve teknik müşavirlik kapsamındaki ihracatta iznin verilmiş olması başlamış işlemdir. Diğer seçenekler aynı tanımın başka ihracat şekillerine ait bentleridir: gümrük beyannamesinin İhracatçı Birlikleri Genel Sekreterliğine onaylatılmış olması genel esaslar çerçevesindeki ihracata, gümrük beyannamesi düzenlenmesi gereken hâllerde beyannamenin tescil edilmiş olması bedelsiz ihracata, İhracatçı Birlikleri Genel Sekreterliğince kaydın verilmiş olması ise kayda bağlı ihracata aittir. Malın nihai kullanıcıya satılması Yönetmelikte 'kesin satış' olarak ayrıca tanımlanır ve konsinye ihracatın sonraki aşamasıdır; en güçlü çeldirici budur, çünkü konsinye ihracat tanımı kesin satışa atıf yapar. Bu nedenle doğru cevap E seçeneğidir. (MD İhracat Yönetmeliği md. 4)
 
 *İhracat Yönetmeliği md. 7*
 
@@ -390,7 +368,7 @@ D) Kesin satışın, gümrük beyannamesinin tescil tarihinden itibaren yüz yir
 E) Kesin satışın, malın ihraç tarihinden itibaren iki yıl içinde yapılması gerekir ve bu süre uzatılmaz.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** İhracat Yönetmeliği'nin konsinye ihracata ilişkin hükümleri, 06.05.2025 tarihli ve 32892 sayılı Resmî Gazete'de yayımlanan değişiklikle yeniden düzenlenmiştir. Genel kurala göre konsinye olarak gönderilen malın ihraç tarihinden itibaren bir yıl içinde kesin satışının yapılması gerekir ve bu süre, haklı ve zorunlu nedenlere istinaden müracaat edilmesi hâlinde izni veren İhracatçı Birlikleri Genel Sekreterliğince iki yıl daha uzatılabilir. Basitleştirilmiş gümrük beyannamesi, posta veya hızlı kargo yoluyla taşınan eşyanın operatör tarafından beyanında kullanılan, basitleştirilmiş veri setine sahip elektronik gümrük beyannamesidir; bu kapsamda gerçekleştirilen konsinye ihracat işlemlerinde de kesin satışın ihraç tarihinden itibaren bir yıl içinde yapılması gerekir, ancak bu süre uzatılmaz. Sürenin başlangıcı, beyannamenin İhracatçı Birlikleri Genel Sekreterliğince onaylandığı tarih veya tescil tarihi değil, malın ihraç tarihidir; otuz gün Genel Sekreterlikçe onaylanan konsinye beyannamesinin gümrüğe sunulma süresi, yüz yirmi gün ise kesin satıştan sonra ihracatçının bildirim süresidir. En güçlü çeldirici, genel kuraldaki iki yıllık uzatma imkânını bu işlemlere de taşıyan seçenektir. Bu nedenle doğru cevap A seçeneğidir. (MD İhracat Yönetmeliği md. 4, 9)
+**Gerekçe:** İhracat Yönetmeliği'nin konsinye ihracata ilişkin hükümleri, 06.05.2025 tarihli ve 32892 sayılı Resmî Gazete'de yayımlanan değişiklikle yeniden düzenlenmiştir. Genel kurala göre konsinye olarak gönderilen malın ihraç tarihinden itibaren bir yıl içinde kesin satışının yapılması gerekir ve bu süre, haklı ve zorunlu nedenlere istinaden müracaat edilmesi hâlinde izni veren İhracatçı Birlikleri Genel Sekreterliğince iki yıl daha uzatılabilir. Basitleştirilmiş gümrük beyannamesi, posta veya hızlı kargo yoluyla taşınan eşyanın operatör tarafından beyanında kullanılan, basitleştirilmiş veri setine sahip elektronik gümrük beyannamesidir; bu kapsamda gerçekleştirilen konsinye ihracat işlemlerinde de kesin satışın ihraç tarihinden itibaren bir yıl içinde yapılması gerekir, ancak bu süre uzatılmaz. Sürenin başlangıcı, beyannamenin İhracatçı Birlikleri Genel Sekreterliğince onaylandığı tarih veya tescil tarihi değil, malın ihraç tarihidir; yüz yirmi gün ise kesin satıştan sonra ihracatçının bildirim süresidir. En güçlü çeldirici, genel kuraldaki iki yıllık uzatma imkânını bu işlemlere de taşıyan seçenektir. Bu nedenle doğru cevap A seçeneğidir. (MD İhracat Yönetmeliği md. 4, 9)
 
 *İhracat Yönetmeliği md. 10*
 
@@ -444,43 +422,31 @@ E) Salep (toz, tablet ve her türlü formda)
 **Doğru Cevap:** E  
 **Gerekçe:** İhracı Yasak ve Ön İzne Bağlı Mallara İlişkin Tebliğ'e göre İhracı Ön İzne Bağlı Mallar Listesinde her malın karşısında izni veren kurum gösterilmiştir: ihracatı kotayla veya başka herhangi bir kayıtla sınırlandırılan doğal çiçek soğanları, mavi yüzgeçli orkinos ve Ankara (Tiftik) keçisi Tarım ve Köyişleri Bakanlığının, yaprak tütün ve tütün döküntüleri Tütün ve Alkol Piyasası Düzenleme Kurumunun iznine bağlıdır. Toz, tablet ve her türlü formdaki salep ise İhracı Yasak Mallar Listesinde yer alır; ön izinle de ihraç edilemez ve bedelsiz olarak da ihracına izin verilmez. En güçlü çeldirici doğal çiçek soğanlarıdır: doğadan toplanan doğal çiçek soğanları yasak listesinde, ihracatı kotayla veya başka bir kayıtla sınırlandırılanlar ise ön izin listesindedir. Bu nedenle doğru cevap E seçeneğidir. (MD İhracat 96/31 Tebliği Ek-1, Ek-2; Bedelsiz İhracat Tebliği md. 4)
 
-*Bedelsiz İhracata İlişkin Tebliğ (İhracat 2008/12) md. 2, 3, 6, 8*
+*Bedelsiz İhracata İlişkin Tebliğ (İhracat 2008/12) md. 2, 3*
 
-**17-** (B) Belediyesine ilişkin bilgiler şöyledir:
+**17-** Bedelsiz İhracata İlişkin Tebliğ'e göre aşağıdaki bedelsiz ihracatlardan hangisinde izin başvurusu doğrudan ilgili gümrük idaresine yapılmaz?
 
-- (B) Belediyesi, deprem yaşanan bir ülkeye insani yardım malzemesi göndermek istemektedir.  
-- Gönderilecek malzemenin toplam değeri 400.000 ABD Dolarıdır.  
-- Malzeme, ihracı yasaklanmış veya ön izne bağlanmış mallardan değildir.  
-- (B) Belediyesi herhangi bir İhracatçı Birliğine üye değildir.  
-Bedelsiz İhracata İlişkin Tebliğ'e göre bu gönderime ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Bedelsiz ihracat izni başvurusu, değer ve miktarına bakılmaksızın doğrudan ilgili gümrük idaresine yapılır.  
-B) Malzemenin değeri 250.000 ABD Dolarını aştığından başvuru, Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliğine yapılır.  
-C) Başvuru, Dış Ticaret Müsteşarlığının (İhracat Genel Müdürlüğü) görüşü alınarak İhracatçı Birlikleri Genel Sekreterliğince sonuçlandırılır.  
-D) Belediye İhracatçı Birliğine üye olmadığından malzeme bedelsiz ihracat kapsamında gönderilemez.  
-E) Gönderilen malzeme, ihracatta uygulanan desteklerden yararlandırılır.  
+A) Daha önce usulüne uygun olarak ihraç edilmiş bir malın bedelsiz gönderilen, değeri 300.000 ABD Doları olan parçaları  
+B) Bir belediyenin deprem yaşanan bir ülkeye gönderdiği, değeri 400.000 ABD Doları olan insani yardım malzemeleri  
+C) Bir üniversitenin bir anlaşma gereği gönderdiği, değeri 300.000 ABD Doları olan mallar  
+D) Kızılay'ın sel yaşanan bir ülkeye gönderdiği, değeri 500.000 ABD Doları olan insani yardım malzemeleri  
+E) Bir şirketin gönderdiği, değeri 50.000 ABD Doları olan ve miktarı ticari teamüllere uygun numuneler  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Bedelsiz İhracata İlişkin Tebliğ'e göre savaş, deprem, sel, salgın hastalık, kıtlık ve benzeri afet durumlarında kamu kurum ve kuruluşları, belediyeler, üniversiteler, Kızılay ile kamu yararına çalışan dernek ve vakıfların gönderecekleri insani yardım malzemeleri bedelsiz olarak ihraç edilebilir. Hediyeler, numuneler, reklam ve tanıtım malları ile önceden ihraç edilmiş malların parçaları gibi mallarda değeri 250.000 ABD Dolarına kadar olanların başvurusu doğrudan gümrük idaresine, 250.000 ABD Doları ve üzerindekilerin başvurusu ise Bedelsiz İhracat Formu ile İhracatçı Birlikleri Genel Sekreterliklerine yapılır; ancak kamu kurumları, belediyeler ve üniversitelerin görevleri gereği gönderdikleri mallar ile afet durumlarındaki insani yardım malzemelerinde başvuru, değer ve miktarına bakılmaksızın doğrudan ilgili gümrük idaresine yapılır. Vakada saklanan istisna budur: 400.000 ABD Dolarlık değer 250.000 ABD Doları eşiğine takılmaz. Ayrıca insani yardım malzemesinin bedelsiz ihracatında İhracatçı Birliğine üye olma şartı aranmaz ve bedelsiz ihracata konu mal ihracatta uygulanan desteklerden yararlandırılmaz. Tebliğde sayılanlar dışında kalan hususlar Dış Ticaret Müsteşarlığının görüşü alınarak sonuçlandırılır; vakadaki gönderim ise Tebliğde sayılan hâllerdendir. En güçlü çeldirici 250.000 ABD Doları eşiğine dayanan seçenektir. Bu nedenle doğru cevap A seçeneğidir. (MD Bedelsiz İhracat Tebliği md. 2, 3, 6, 8)
+**Gerekçe:** Bedelsiz İhracata İlişkin Tebliğ'e göre hediyeler, ticari teamüllere uygun numuneler, reklam ve tanıtım malları ile daha önce usulüne uygun olarak ihraç edilmiş malların bedelsiz gönderilen parçaları gibi mallarda değeri 250.000 ABD Dolarına kadar olanların bedelsiz ihracat izni başvurusu doğrudan ilgili gümrük idaresine, 250.000 ABD Doları ve üzerindekilerin başvurusu ise Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliklerine yapılır. Buna göre değeri 300.000 ABD Doları olan parçalarda başvuru gümrük idaresine değil, İhracatçı Birlikleri Genel Sekreterliğine yapılır. Kamu kurum ve kuruluşları, belediyeler ve üniversitelerin görevleri veya anlaşmalar gereği gönderecekleri mal ve taşıtlar ile savaş, deprem, sel, salgın hastalık, kıtlık ve benzeri afet durumlarında kamu kurum ve kuruluşları, belediyeler, üniversiteler, Kızılay ile kamu yararına çalışan dernek ve vakıfların gönderecekleri insani yardım malzemelerinde ise başvuru, değer ve miktarına bakılmaksızın doğrudan ilgili gümrük idaresine yapılır. En güçlü tuzak, belediyenin 400.000 ABD Dolarlık yardım malzemesidir: tutar eşiği aştığı için İhracatçı Birlikleri Genel Sekreterliği akla gelir, ancak afet yardımında eşik uygulanmaz. 50.000 ABD Dolarlık numune ise eşiğin altında kaldığı için doğrudan gümrük idaresine başvurulur. Bu nedenle doğru cevap A seçeneğidir. (MD Bedelsiz İhracat Tebliği md. 2, 3)
 
-*Bedelsiz İhracata İlişkin Tebliğ (İhracat 2008/12) md. 2, 3, 5, 8*
+*Bedelsiz İhracata İlişkin Tebliğ (İhracat 2008/12) md. 2, 3, 5, 7, 8*
 
-**18-** Bedelsiz İhracata İlişkin Tebliğ çerçevesinde aşağıdaki ifadeler verilmiştir:
+**18-** Bedelsiz İhracata İlişkin Tebliğ'in izin süresi, fon kesintisi, kayıt şartı, teknik mevzuat ve İhracatçı Birliğine üyeliğe ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Bedelsiz ihraç izinlerinin geçerlilik süresi bir yıldır.  
-II. FOB değeri 1.000 ABD Dolarını geçmeyen malların bedelsiz ihracı Destekleme ve Fiyat İstikrar Fonu kesintisine tabi değildir.  
-III. İhracı kayda bağlı mallardan değeri FOB 1.000 ABD Dolarını geçenlerin bedelsiz olarak ihracında kayıt şartı aranmaz.  
-IV. Gerçek veya tüzel kişiler tarafından gönderilen hediyeler ile miktarı ticari teamüllere uygun numunelerin bedelsiz ihracatında İhracatçı Birliğine üye olma şartı aranmaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I, II ve IV  
-C) II ve III  
-D) I, III ve IV  
-E) I, II, III ve IV  
+A) Bedelsiz ihraç izinlerinin geçerlilik süresi bir yıldır.  
+B) İhracı kayda bağlı mallardan değeri FOB 1.000 ABD Dolarını geçenlerin bedelsiz olarak ihracında kayıt şartı aranmaz.  
+C) FOB değeri 1.000 ABD Dolarını geçmeyen malların bedelsiz ihracı Destekleme ve Fiyat İstikrar Fonu kesintisine tabi değildir.  
+D) Bu Tebliğ kapsamında yapılacak bedelsiz ihracat, standartlar ve ürünlere ilişkin teknik mevzuat hükümlerine tabi değildir.  
+E) Gerçek veya tüzel kişiler tarafından gönderilen hediyeler ile miktarı ticari teamüllere uygun numunelerin bedelsiz ihracatında İhracatçı Birliğine üye olma şartı aranmaz.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Bedelsiz İhracata İlişkin Tebliğ'e göre bedelsiz ihraç izinlerinin geçerlilik süresi bir yıldır (I doğru). İhracında Destekleme ve Fiyat İstikrar Fonu'na prim kesintisi yapılan malların bedelsiz ihracında primin ödendiğine dair banka dekontu aranır; ancak FOB değeri 1.000 ABD Dolarını geçmeyen malların bedelsiz ihracı fon kesintisine tabi değildir (II doğru). İhracı Kayda Bağlı Mallara İlişkin Tebliğ eki listedeki mallardan değeri FOB 1.000 ABD Dolarını geçenlerin bedelsiz olarak ihracında kayıt şartı aranır; III. ifadede 'aranır' kaydı 'aranmaz' olarak değiştirildiği için ifade yanlıştır. Hediyeler, ticari teamüllere uygun numuneler, reklam ve tanıtım malları ile yabancılar, kamu kurumları ve insani yardımlar için yapılan bedelsiz ihracatta İhracatçı Birliğine üye olma şartı aranmaz; bu muafiyet önceden ihraç edilmiş malların parçaları ve garanti kapsamındaki yenileme parçalarını kapsamaz (IV doğru). En güçlü çeldirici III. ifadedir: aynı maddede iki kez geçen 1.000 ABD Doları sınırı, fon kesintisindeki muafiyetle kayıt şartı arasında karıştırılır. Bu nedenle doğru cevap B seçeneğidir. (MD Bedelsiz İhracat Tebliği md. 2, 3, 5, 8)
+**Gerekçe:** Bedelsiz İhracata İlişkin Tebliğ'e göre İhracı Kayda Bağlı Mallara İlişkin Tebliğ eki listedeki mallardan değeri FOB 1.000 ABD Dolarını geçenlerin bedelsiz olarak ihracında kayıt şartı aranır; ifadede 'aranır' kaydı 'aranmaz' olarak değiştirildiği için ifade yanlıştır. Diğer ifadeler Tebliğ ile örtüşür: bedelsiz ihraç izinlerinin geçerlilik süresi bir yıldır; ihracında Destekleme ve Fiyat İstikrar Fonu'na prim kesintisi yapılan malların bedelsiz ihracında primin ödendiğine dair banka dekontu aranır, ancak FOB değeri 1.000 ABD Dolarını geçmeyen malların bedelsiz ihracı fon kesintisine tabi değildir; Tebliğ kapsamında yapılacak bedelsiz ihracat standartlar ve ürünlere ilişkin teknik mevzuat hükümlerine tabi değildir; hediyeler, ticari teamüllere uygun numuneler, reklam ve tanıtım malları ile yabancılar, kamu kurumları ve insani yardımlar için yapılan bedelsiz ihracatta İhracatçı Birliğine üye olma şartı aranmaz. En güçlü tuzak, aynı maddede iki kez geçen 1.000 ABD Doları sınırıdır: fon kesintisinde bu sınırın altı muaf tutulurken kayda bağlı mallarda bu sınırın üstü için kayıt aranır. Bu nedenle doğru cevap B seçeneğidir. (MD Bedelsiz İhracat Tebliği md. 2, 3, 5, 7, 8)
 
 *Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1) md. 6, 8, 19*
 
@@ -512,10 +478,10 @@ E) Ticari kiralama konusu eşyanın finansal kiralama yoluyla elde edilmiş olma
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (II ve IV, I ve III, I, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
+| Birebir / parafraz / çıkarım | 16 / 2 / 2 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (II ve IV, I ve III) |
+| Vaka, uygulama, hesap | 1 |
 | Tuzaklar | KOMŞU 16, TERİM 7, SAYI 6, BAŞLANGIÇ 5, İSTİSNA 5, MAKAM 5 |
 | İkiz eksen / ayna | 13 / A: yasak ↔ ön izin listesi |
 | Güncellik | 06.05.2025 |

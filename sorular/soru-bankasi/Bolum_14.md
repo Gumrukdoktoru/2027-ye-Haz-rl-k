@@ -62,19 +62,13 @@ C) III ve IV
 D) I, III ve IV  
 E) I, II, III ve IV  
 
-**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin Türkiye Gümrük Bölgesine getirilen eşya için özet beyanı verecek kişilere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin Türkiye Gümrük Bölgesine getirilen eşya için özet beyanı verecek kişilere ilişkin hükümlerine göre aşağıdakilerden hangisi doğrudur?
 
-I. Özet beyan, eşyayı Türkiye Gümrük Bölgesine getiren veya eşyanın gümrük bölgesine taşıma sorumluluğunu üstlenen kişi tarafından verilir.  
-II. Eşyayı yetkili gümrük idaresine sunabilen veya eşyanın sunulmasını sağlayan kişi de, yönetmelik ile belirlenen şartlar uyarınca özet beyan verebilir.  
-III. Taşıyıcı dışındaki kişiler özet beyanı ancak gümrük müşaviri aracılığıyla dolaylı temsil yoluyla verebilir.  
-IV. Özet beyanın taşıyıcı adına hareket eden kişi, eşyayı sunabilen kişi veya bunların temsilcisi tarafından verilmesi durumunda, aksine bilgi olmaması hâlinde, gümrük idaresince özet beyanın sözleşme gereği taşıyıcının bilgisi ve onayı dâhilinde verildiği kabul edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve IV  
-C) I, II ve IV  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Özet beyanı yalnızca eşyayı Türkiye Gümrük Bölgesine getiren kişi verebilir; eşyanın gümrük bölgesine taşıma sorumluluğunu üstlenen kişi özet beyan veremez.  
+B) Taşıyıcı dışındaki kişiler özet beyanı ancak gümrük müşaviri aracılığıyla dolaylı temsil yoluyla verebilir.  
+C) Özet beyan taşıyıcı adına hareket eden kişi tarafından verilmişse, aksine bilgi olmadıkça, sözleşme gereği taşıyıcının bilgisi ve onayı dâhilinde verildiği kabul edilir.  
+D) Özet beyanın eşyayı yetkili gümrük idaresine sunabilen kişi tarafından verilmesi hâlinde taşıyıcının özet beyana ilişkin yükümlülükleri sona erer.  
+E) Özet beyan taşıyıcı adına hareket eden kişi tarafından verilmişse tescil bilgisi yalnızca özet beyanı verene bildirilir; taşıyıcı sisteme bağlı olsa da ona bildirim yapılmaz.  
 
 **8-** 4458 sayılı Gümrük Kanunu'na göre Türkiye Gümrük Bölgesinden çıkacak eşya için verilecek gümrük beyannamesi ve özet beyana ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -84,19 +78,13 @@ C) İhracat gümrük idaresinin çıkış gümrük idaresinden farklı olması h
 D) Gümrük beyannamesi verilmesini gerektirmeyen bir gümrükçe onaylanmış işlem veya kullanıma tabi tutulan eşya için özet beyan, eşyanın Türkiye Gümrük Bölgesini terk etmesinden önce ihracat gümrük idaresine verilir.  
 E) Eşyanın Türkiye Gümrük Bölgesi dışına çıkarılmak üzere ilgilisine teslim edilmesinden sonra özet beyanda değişiklik yapılmasına izin verilmez.  
 
-**9-** 4458 sayılı Gümrük Kanunu'nun Türkiye Gümrük Bölgesine getirilen eşyanın götürüleceği yere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**9-** 4458 sayılı Gümrük Kanunu'nun Türkiye Gümrük Bölgesine getirilen eşyanın götürüleceği yere ilişkin hükümlerine göre aşağıdakilerden hangisi doğrudur?
 
-I. Türkiye Gümrük Bölgesine getirilen eşya, getiren kişi tarafından gecikmeksizin belirlenen bir gümrük idaresine veya gümrükçe uygun görülen herhangi bir yere götürülür.  
-II. Eşya, deniz veya havayoluyla ya da Türkiye Gümrük Bölgesinden geçerek karayoluyla doğrudan bir serbest bölgeye götürülür.  
-III. Varış yeri bir Türk limanı veya havalimanı olmaksızın Türkiye karasularını ya da hava sahasını geçen gemilerde veya hava araçlarında yüklü eşyaya, eşyanın götürülmesine ilişkin bu yükümlülük uygulanmaz.  
-IV. Gümrük idarelerinin gözetim ve kontrolüne ilişkin hükümler saklı kalmak kaydıyla, yolcu, sınır ahalisi ve posta eşyası ile ekonomik açıdan önem arz etmeyen eşya için özel hükümler getirmeye Bakanlar Kurulu yetkilidir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, III ve IV  
-E) I, II ve III  
+A) Eşya, deniz veya havayoluyla ya da Türkiye Gümrük Bölgesinden geçerek karayoluyla doğrudan bir serbest bölgeye götürülür.  
+B) Türkiye Gümrük Bölgesine getirildikten sonra eşyanın aktarılması sonucunda nakliyesinden sorumlu olanlar da eşyanın götürülmesine ilişkin hükümlere uymak zorundadır.  
+C) Yolcu, sınır ahalisi ve posta eşyası ile ekonomik açıdan önem arz etmeyen eşya için özel hükümler getirmeye Bakanlar Kurulu yetkilidir.  
+D) Varış yeri bir Türk limanı veya havalimanı olmaksızın Türkiye karasularını ya da hava sahasını geçen gemilerde veya hava araçlarında yüklü eşya da gecikmeksizin belirlenen bir gümrük idaresine götürülür.  
+E) Türkiye Gümrük Bölgesinin iki noktası arasında, bölge dışında durmaksızın düzenli bir hava veya deniz seferiyle doğrudan taşınan eşyaya da özet beyan ve götürme hükümleri uygulanır.  
 
 **10-** Gümrük Yönetmeliği'ne göre aşağıdakilerden hangisi, özet beyan aranmayan eşya arasında sayılmamıştır?
 
@@ -122,28 +110,21 @@ C) Hareket limanında eşyanın gemiye yüklenmesinden en az dört saat önce
 D) Türkiye Gümrük Bölgesindeki ilk varış limanına gelmeden en az dört saat önce  
 E) Türkiye Gümrük Bölgesindeki ilk varış limanına gelmeden en az iki saat önce  
 
-**13-** Singapur'dan kalkan bir kargo uçağı, Dubai Havalimanına inip yakıt ve yük aldıktan sonra yeniden havalanarak İstanbul Havalimanına gelecektir. Uçuşa ilişkin bilgiler şöyledir:
+**13-** Gümrük Yönetmeliği'nin havayolu taşımacılığında özet beyanın verilme sürelerine ilişkin hükmünün uygulanmasında "kısa mesafeli uçuş" ifadesinden aşağıdakilerden hangisi anlaşılır?
 
-- Singapur – Dubai uçuş süresi: 7 saat  
-- Dubai – İstanbul uçuş süresi: 3 saat 50 dakika  
-- Uçak, Türkiye Gümrük Bölgesinde ilk kez İstanbul Havalimanına inecektir.  
-Gümrük Yönetmeliği'nin havayolu taşımacılığında özet beyanın verilme süresine ilişkin hükümlerine göre, Singapur'da uçağa yüklenen eşya için özet beyan en geç ne zaman verilmelidir?  
+A) İlk kalkış havalimanı ile Türkiye'de vardığı ilk havalimanı arasındaki toplam uçuş süresi dört saatten az olan uçuşlar  
+B) Son hareket havalimanı ile Türkiye'de vardığı ilk havalimanı arasındaki uçuş süresi dört saatten az olan uçuşlar  
+C) Son hareket havalimanı ile Türkiye'de vardığı ilk havalimanı arasındaki uçuş süresi iki saatten az olan uçuşlar  
+D) Son hareket havalimanı ile eşyanın boşaltılacağı havalimanı arasındaki uçuş süresi dört saatten az olan uçuşlar  
+E) Türkiye Gümrük Bölgesinde ilk havalimanına inilmesinden en az dört saat önce özet beyan verilmesi gereken uçuşlar  
 
-A) Uçağın Singapur'dan havalandığı ana kadar  
-B) Uçağın Dubai'den havalandığı ana kadar  
-C) İstanbul Havalimanına inilmesinden en az dört saat önce  
-D) İstanbul Havalimanına inilmesinden en az iki saat önce  
-E) Eşyanın Singapur'da uçağa yüklenmesinden en az yirmi dört saat önce  
+**14-** Gümrük Yönetmeliği'ne göre eşyanın yüklendiği aracın aktif taşıma aracı olarak bağımsız şekilde hareket edecek nitelikte olduğu ve bu aracın başka bir araçla Türkiye Gümrük Bölgesine taşındığı kombine taşımacılıkta, özet beyanı verme yükümlülüğünün kime ait olduğu ve özet beyanın verilme süresinin neye göre belirleneceği aşağıdakilerden hangisinde birlikte doğru olarak verilmiştir?
 
-**14-** (A) Lojistik firmasının işlettiği ve kendi başına karayolunda hareket edebilen bir çekici, yüklü dorsesiyle birlikte Avrupa Topluluğu gümrük bölgesinde yer alan Trieste Limanında (B) Denizcilik firmasının işlettiği Ro-Ro gemisine yüklenmiş olup Türkiye Gümrük Bölgesindeki ilk varış limanı olan Pendik Limanına getirilecektir.
-
-Gümrük Yönetmeliği'ne göre dorsedeki eşya için özet beyanı verme yükümlülüğü kime aittir ve özet beyan en geç ne zaman verilmelidir?  
-
-A) (B) firmasına; Pendik Limanına gelmeden en az iki saat önce  
-B) (A) firmasına; çekicinin giriş gümrük idaresine varmasından önce elektronik ortamda  
-C) (A) firmasına; Pendik Limanına gelmeden en az iki saat önce  
-D) (B) firmasına; Trieste Limanında eşyanın gemiye yüklenmesinden en az yirmi dört saat önce  
-E) (A) firmasına; Pendik Limanına gelmeden en az dört saat önce  
+A) Taşıyan taşıma aracının işleticisine aittir; süre, Türkiye Gümrük Bölgesine girilirken kullanılan taşıma şekline göre belirlenir.  
+B) Taşınan taşıma aracının işleticisine aittir; süre, taşınan aracın kendi taşıma şekline göre belirlenir.  
+C) Taşınan taşıma aracının işleticisine aittir; süre, Türkiye Gümrük Bölgesine girilirken kullanılan taşıma şekline göre belirlenir.  
+D) Taşıyan taşıma aracının işleticisine aittir; süre, taşınan aracın kendi taşıma şekline göre belirlenir.  
+E) Taşıma işlemini taahhüt ederek taşıma belgesini düzenleyen kişiye aittir; süre, Türkiye Gümrük Bölgesine girilirken kullanılan taşıma şekline göre belirlenir.  
 
 **15-** Gümrük Yönetmeliği'ne göre aşağıdakilerden hangisi, taşıma şekillerine göre belirlenen özet beyan verme sürelerinin uygulanmayacağı hâller arasında yer almaz?
 
@@ -209,7 +190,7 @@ E) II, III ve IV
 
 ### Çözümler
 
-*4458 sayılı Gümrük Kanunu md. 35/A, 152*
+*4458 sayılı Gümrük Kanunu md. 35/A, 159*
 
 **1-** 4458 sayılı Gümrük Kanunu'nun Türkiye Gümrük Bölgesine getirilen eşya için özet beyan verilmesine ilişkin hükümlerine göre aşağıdaki eşyadan hangisi için özet beyan verilmesi gerekmez?
 
@@ -220,7 +201,7 @@ D) Uzun mesafeli bir uçuşla Türkiye'deki bir havalimanına getirilen eşya
 E) Türkiye Gümrük Bölgesinin kara sularından durmaksızın geçen bir gemide taşınan eşya  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Kanunu'na göre Türkiye Gümrük Bölgesinin kara suları veya hava sahasından gümrük bölgesi içinde durmaksızın geçen taşıt araçları ile taşınan eşya hariç olmak üzere, Türkiye Gümrük Bölgesine getirilen eşya için özet beyan verilir. Kara sularından durmaksızın geçen gemideki eşya bu istisnaya girdiğinden özet beyana konu olmaz. Dökme hâlde denizyoluyla, demiryoluyla veya uzun mesafeli uçuşla getirilen eşya için özet beyan verilir; taşıma şekli yalnızca özet beyanın verilme süresini değiştirir. En güçlü çeldirici serbest bölgeye getirilen eşyadır: Kanunun serbest bölgelere ilişkin hükmü, bir serbest bölgeye doğrudan Türkiye Gümrük Bölgesi dışından gelen eşya için de özet beyan verileceğini açıkça belirtir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 35/A, 152)
+**Gerekçe:** Gümrük Kanunu'na göre Türkiye Gümrük Bölgesinin kara suları veya hava sahasından gümrük bölgesi içinde durmaksızın geçen taşıt araçları ile taşınan eşya hariç olmak üzere, Türkiye Gümrük Bölgesine getirilen eşya için özet beyan verilir. Kara sularından durmaksızın geçen gemideki eşya bu istisnaya girdiğinden özet beyana konu olmaz. Dökme hâlde denizyoluyla, demiryoluyla veya uzun mesafeli uçuşla getirilen eşya için özet beyan verilir; taşıma şekli yalnızca özet beyanın verilme süresini değiştirir. En güçlü çeldirici serbest bölgeye getirilen eşyadır: Kanunun serbest bölgelere ilişkin hükmü, bir serbest bölgeye doğrudan Türkiye Gümrük Bölgesi dışından gelen eşya için de özet beyan verileceğini açıkça belirtir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 35/A, 159)
 
 *4458 sayılı Gümrük Kanunu md. 36*
 
@@ -297,22 +278,16 @@ E) I, II, III ve IV
 
 *4458 sayılı Gümrük Kanunu md. 35/B; Gümrük Yönetmeliği md. 63*
 
-**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin Türkiye Gümrük Bölgesine getirilen eşya için özet beyanı verecek kişilere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin Türkiye Gümrük Bölgesine getirilen eşya için özet beyanı verecek kişilere ilişkin hükümlerine göre aşağıdakilerden hangisi doğrudur?
 
-I. Özet beyan, eşyayı Türkiye Gümrük Bölgesine getiren veya eşyanın gümrük bölgesine taşıma sorumluluğunu üstlenen kişi tarafından verilir.  
-II. Eşyayı yetkili gümrük idaresine sunabilen veya eşyanın sunulmasını sağlayan kişi de, yönetmelik ile belirlenen şartlar uyarınca özet beyan verebilir.  
-III. Taşıyıcı dışındaki kişiler özet beyanı ancak gümrük müşaviri aracılığıyla dolaylı temsil yoluyla verebilir.  
-IV. Özet beyanın taşıyıcı adına hareket eden kişi, eşyayı sunabilen kişi veya bunların temsilcisi tarafından verilmesi durumunda, aksine bilgi olmaması hâlinde, gümrük idaresince özet beyanın sözleşme gereği taşıyıcının bilgisi ve onayı dâhilinde verildiği kabul edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve IV  
-C) I, II ve IV  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Özet beyanı yalnızca eşyayı Türkiye Gümrük Bölgesine getiren kişi verebilir; eşyanın gümrük bölgesine taşıma sorumluluğunu üstlenen kişi özet beyan veremez.  
+B) Taşıyıcı dışındaki kişiler özet beyanı ancak gümrük müşaviri aracılığıyla dolaylı temsil yoluyla verebilir.  
+C) Özet beyan taşıyıcı adına hareket eden kişi tarafından verilmişse, aksine bilgi olmadıkça, sözleşme gereği taşıyıcının bilgisi ve onayı dâhilinde verildiği kabul edilir.  
+D) Özet beyanın eşyayı yetkili gümrük idaresine sunabilen kişi tarafından verilmesi hâlinde taşıyıcının özet beyana ilişkin yükümlülükleri sona erer.  
+E) Özet beyan taşıyıcı adına hareket eden kişi tarafından verilmişse tescil bilgisi yalnızca özet beyanı verene bildirilir; taşıyıcı sisteme bağlı olsa da ona bildirim yapılmaz.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Kanunu'na göre özet beyan, eşyayı Türkiye Gümrük Bölgesine getiren veya eşyanın gümrük bölgesine taşıma sorumluluğunu üstlenen kişi tarafından verilir (I doğru). Bu kişilerin yükümlülükleri saklı kalmak kaydıyla özet beyan; onlar adına hareket eden kişi, eşyayı yetkili gümrük idaresine sunabilen veya sunulmasını sağlayan kişi ya da bu kişilerin temsilcisi tarafından, yönetmelik ile belirlenen şartlar uyarınca verilebilir (II doğru). Kanun bu kişileri doğrudan saymıştır; özet beyanın yalnızca gümrük müşaviri aracılığıyla dolaylı temsil yoluyla verilebileceğine dair bir sınırlama yoktur (III yanlış). Gümrük Yönetmeliği'ne göre özet beyanın bu kişilerce verilmesi durumunda, aksine bilgi olmaması hâlinde, gümrük idaresince özet beyanın sözleşme gereği taşıyıcının bilgisi ve onayı dâhilinde verildiği kabul edilir (IV doğru). En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: gümrük işlemlerinin her aşamasında müşavirin zorunlu olduğunu düşünen aday III'ü de doğru sayar. Bu nedenle doğru cevap C seçeneğidir. (MD GK 35/B; GY 63)
+**Gerekçe:** Gümrük Kanunu'na göre özet beyan, eşyayı Türkiye Gümrük Bölgesine getiren veya eşyanın gümrük bölgesine taşıma sorumluluğunu üstlenen kişi tarafından verilir. Bu kişilerin yükümlülükleri saklı kalmak kaydıyla özet beyan; onlar adına hareket eden kişi, eşyayı yetkili gümrük idaresine sunabilen veya sunulmasını sağlayan kişi ya da bu kişilerin temsilcisi tarafından da yönetmelikle belirlenen şartlar uyarınca verilebilir. Gümrük Yönetmeliği'ne göre özet beyanın bu kişilerce verilmesi durumunda, aksine bilgi olmaması hâlinde, gümrük idaresince özet beyanın sözleşme gereği taşıyıcının bilgisi ve onayı dâhilinde verildiği kabul edilir; tescil edildiği de taşıyıcı sisteme bağlıysa ona ayrıca bildirilir. Kanun taşıma sorumluluğunu üstlenen kişiyi de yükümlü saymış, özet beyanın başkasınca verilmesini taşıyıcının yükümlülüklerini saklı tutarak kabul etmiş ve temsilci için gümrük müşaviri ya da dolaylı temsil şartı aramamıştır. Gümrük işlemlerinin her aşamasında müşavirin zorunlu olduğunu düşünen aday dolaylı temsil seçeneğine yönelir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 35/B; GY 63)
 
 *4458 sayılı Gümrük Kanunu md. 165/A, 165/B, 165/C, 165/D*
 
@@ -329,22 +304,16 @@ E) Eşyanın Türkiye Gümrük Bölgesi dışına çıkarılmak üzere ilgilisin
 
 *4458 sayılı Gümrük Kanunu md. 37*
 
-**9-** 4458 sayılı Gümrük Kanunu'nun Türkiye Gümrük Bölgesine getirilen eşyanın götürüleceği yere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**9-** 4458 sayılı Gümrük Kanunu'nun Türkiye Gümrük Bölgesine getirilen eşyanın götürüleceği yere ilişkin hükümlerine göre aşağıdakilerden hangisi doğrudur?
 
-I. Türkiye Gümrük Bölgesine getirilen eşya, getiren kişi tarafından gecikmeksizin belirlenen bir gümrük idaresine veya gümrükçe uygun görülen herhangi bir yere götürülür.  
-II. Eşya, deniz veya havayoluyla ya da Türkiye Gümrük Bölgesinden geçerek karayoluyla doğrudan bir serbest bölgeye götürülür.  
-III. Varış yeri bir Türk limanı veya havalimanı olmaksızın Türkiye karasularını ya da hava sahasını geçen gemilerde veya hava araçlarında yüklü eşyaya, eşyanın götürülmesine ilişkin bu yükümlülük uygulanmaz.  
-IV. Gümrük idarelerinin gözetim ve kontrolüne ilişkin hükümler saklı kalmak kaydıyla, yolcu, sınır ahalisi ve posta eşyası ile ekonomik açıdan önem arz etmeyen eşya için özel hükümler getirmeye Bakanlar Kurulu yetkilidir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, III ve IV  
-E) I, II ve III  
+A) Eşya, deniz veya havayoluyla ya da Türkiye Gümrük Bölgesinden geçerek karayoluyla doğrudan bir serbest bölgeye götürülür.  
+B) Türkiye Gümrük Bölgesine getirildikten sonra eşyanın aktarılması sonucunda nakliyesinden sorumlu olanlar da eşyanın götürülmesine ilişkin hükümlere uymak zorundadır.  
+C) Yolcu, sınır ahalisi ve posta eşyası ile ekonomik açıdan önem arz etmeyen eşya için özel hükümler getirmeye Bakanlar Kurulu yetkilidir.  
+D) Varış yeri bir Türk limanı veya havalimanı olmaksızın Türkiye karasularını ya da hava sahasını geçen gemilerde veya hava araçlarında yüklü eşya da gecikmeksizin belirlenen bir gümrük idaresine götürülür.  
+E) Türkiye Gümrük Bölgesinin iki noktası arasında, bölge dışında durmaksızın düzenli bir hava veya deniz seferiyle doğrudan taşınan eşyaya da özet beyan ve götürme hükümleri uygulanır.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Kanunu'na göre Türkiye Gümrük Bölgesine getirilen eşya, getiren kişi tarafından gecikmeksizin, Müsteşarlıkça belirlenen usul ve esaslara uygun olarak belirlenen bir gümrük idaresine veya gümrükçe uygun görülen herhangi bir yere götürülür (I doğru). Eşya ayrıca deniz veya havayoluyla ya da Türkiye Gümrük Bölgesinden geçmeksizin karayoluyla doğrudan bir serbest bölgeye götürülebilir; II'de 'geçmeksizin' yerine 'geçerek' yazılmıştır (II yanlış). Götürme yükümlülüğü, varış yeri bir Türk limanı veya havalimanı olmaksızın Türkiye karasularını ya da hava sahasını geçen gemilerde veya hava araçlarında yüklü eşyaya uygulanmaz (III doğru). Yolcu, sınır ahalisi ve posta eşyası ile ekonomik açıdan önem arz etmeyen eşya için özel hükümler getirmeye Bakanlar Kurulu değil Müsteşarlık yetkilidir (IV yanlış). En güçlü çeldirici 'I, III ve IV' seçeneğidir; IV'te yalnızca yetkili makam değiştirilmiştir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 37)
+**Gerekçe:** Gümrük Kanunu'na göre Türkiye Gümrük Bölgesine getirilen eşya, getiren kişi tarafından gecikmeksizin belirlenen bir gümrük idaresine veya gümrükçe uygun görülen bir yere ya da doğrudan bir serbest bölgeye götürülür; Türkiye Gümrük Bölgesine getirildikten sonra eşyanın aktarılması sonucunda nakliyesinden sorumlu olanlar da bu hükümlere uymak zorundadır. Diğer ifadelerde hükmün tek bir unsuru değiştirilmiştir: eşya serbest bölgeye deniz veya havayoluyla ya da Türkiye Gümrük Bölgesinden geçmeksizin karayoluyla doğrudan götürülür; yolcu, sınır ahalisi ve posta eşyası ile ekonomik açıdan önem arz etmeyen eşya için özel hükümler getirmeye Bakanlar Kurulu değil Müsteşarlık yetkilidir; varış yeri bir Türk limanı veya havalimanı olmaksızın karasularını ya da hava sahasını geçen taşıtlardaki eşyaya götürme yükümlülüğü uygulanmaz; bölge dışında durmaksızın, bölgenin iki noktası arasında düzenli bir hava veya deniz seferiyle doğrudan taşınarak bölgeyi geçici olarak terk eden eşyaya da özet beyan ve götürme hükümleri uygulanmaz. Bu nedenle doğru cevap B seçeneğidir. (MD GK 37)
 
 *Gümrük Yönetmeliği md. 61*
 
@@ -385,38 +354,31 @@ E) Türkiye Gümrük Bölgesindeki ilk varış limanına gelmeden en az iki saat
 **Doğru Cevap:** A  
 **Gerekçe:** Gümrük Yönetmeliği'ne göre denizyolu taşımacılığında konteyner ile taşınan eşya için özet beyan, hareket limanında eşyanın gemiye yüklenmesinden en az yirmi dört saat önce gümrük idaresine verilir. Dökme ve ambalaj hâlindeki eşyada süre Türkiye Gümrük Bölgesindeki ilk varış limanına gelmeden en az dört saat önce; Karadeniz ya da Akdeniz üzerindeki yabancı ülke limanları ve Avrupa Topluluğu gümrük bölgesindeki limanlar ile Türk limanları arasındaki taşımada ise ilk varış limanına gelmeden en az iki saat öncedir. Soru bu iki saatlik hâlin dışındaki bir limanı ve konteyner eşyayı sorduğundan yirmi dört saatlik süre uygulanır. En güçlü çeldirici 'Türkiye Gümrük Bölgesindeki ilk varış limanına gelmeden en az yirmi dört saat önce' seçeneğidir: süre doğru, ancak başlangıç anı dökme eşyaya ait olan varış limanına kaydırılmıştır; konteynerde süre hareket limanındaki yüklemeden geriye doğru sayılır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 67)
 
-*Gümrük Yönetmeliği md. 67*
+*Gümrük Yönetmeliği md. 67, 70*
 
-**13-** Singapur'dan kalkan bir kargo uçağı, Dubai Havalimanına inip yakıt ve yük aldıktan sonra yeniden havalanarak İstanbul Havalimanına gelecektir. Uçuşa ilişkin bilgiler şöyledir:
+**13-** Gümrük Yönetmeliği'nin havayolu taşımacılığında özet beyanın verilme sürelerine ilişkin hükmünün uygulanmasında "kısa mesafeli uçuş" ifadesinden aşağıdakilerden hangisi anlaşılır?
 
-- Singapur – Dubai uçuş süresi: 7 saat  
-- Dubai – İstanbul uçuş süresi: 3 saat 50 dakika  
-- Uçak, Türkiye Gümrük Bölgesinde ilk kez İstanbul Havalimanına inecektir.  
-Gümrük Yönetmeliği'nin havayolu taşımacılığında özet beyanın verilme süresine ilişkin hükümlerine göre, Singapur'da uçağa yüklenen eşya için özet beyan en geç ne zaman verilmelidir?  
-
-A) Uçağın Singapur'dan havalandığı ana kadar  
-B) Uçağın Dubai'den havalandığı ana kadar  
-C) İstanbul Havalimanına inilmesinden en az dört saat önce  
-D) İstanbul Havalimanına inilmesinden en az iki saat önce  
-E) Eşyanın Singapur'da uçağa yüklenmesinden en az yirmi dört saat önce  
+A) İlk kalkış havalimanı ile Türkiye'de vardığı ilk havalimanı arasındaki toplam uçuş süresi dört saatten az olan uçuşlar  
+B) Son hareket havalimanı ile Türkiye'de vardığı ilk havalimanı arasındaki uçuş süresi dört saatten az olan uçuşlar  
+C) Son hareket havalimanı ile Türkiye'de vardığı ilk havalimanı arasındaki uçuş süresi iki saatten az olan uçuşlar  
+D) Son hareket havalimanı ile eşyanın boşaltılacağı havalimanı arasındaki uçuş süresi dört saatten az olan uçuşlar  
+E) Türkiye Gümrük Bölgesinde ilk havalimanına inilmesinden en az dört saat önce özet beyan verilmesi gereken uçuşlar  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre havayolu taşımacılığında özet beyan, kısa mesafeli uçuşlarda en geç uçağın havalandığı ana kadar, uzun mesafeli uçuşlarda ise Türkiye Gümrük Bölgesinde ilk havalimanına inilmesinden en az dört saat önce verilir. Kısa mesafeli uçuştan, son hareket havalimanı ile Türkiye'de vardığı ilk havalimanı arasındaki uçuş süresi dört saatten az olan uçuşlar anlaşılır. Vakada toplam yolculuk on saati aşsa da son hareket havalimanı Dubai'dir ve Dubai – İstanbul uçuşu dört saatten az sürdüğü için uçuş kısa mesafelidir; özet beyan en geç uçağın Dubai'den havalandığı ana kadar verilir. En güçlü çeldirici 'İstanbul Havalimanına inilmesinden en az dört saat önce' seçeneğidir: toplam süreye bakarak uçuşu uzun mesafeli sayan aday bu şıkka gider; Singapur'dan havalanma ise kuralı doğru seçip son hareket havalimanını yanlış belirleyen adayı yakalar. Bu nedenle doğru cevap B seçeneğidir. (MD GY 67)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre havayolu taşımacılığında özet beyan, kısa mesafeli uçuşlarda en geç uçağın havalandığı ana kadar, uzun mesafeli uçuşlarda ise Türkiye Gümrük Bölgesinde ilk havalimanına inilmesinden en az dört saat önce gümrük idaresine verilir. Bu hükmün uygulanmasında kısa mesafeli uçuştan, son hareket havalimanı ile Türkiye'de vardığı ilk havalimanı arasındaki uçuş süresi dört saatten az olan uçuşlar anlaşılır; diğer bütün uçuşlar uzun mesafeli sayılır. Ölçüt, aktarmalı bir yolculukta ilk kalkış noktasından itibaren geçen toplam süre değil, Türkiye'ye gelmeden önceki son hareket havalimanından itibaren geçen uçuş süresidir; en güçlü tuzak budur. İki saat, demiryolu taşımacılığında ve Karadeniz, Akdeniz ile Avrupa Topluluğu limanlarından denizyoluyla gelen eşyada öngörülen süredir. Eşyanın boşaltılacağı havalimanı ise Türkiye'de birden fazla havalimanına uğrayan hava taşıtlarında özet beyanın verileceği idareyi belirler. İnişten en az dört saat önce özet beyan verilmesi gereken uçuşlar uzun mesafeli uçuşlardır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 67, 70)
 
-*Gümrük Yönetmeliği md. 60, 65, 67*
+*Gümrük Yönetmeliği md. 60, 65, 66*
 
-**14-** (A) Lojistik firmasının işlettiği ve kendi başına karayolunda hareket edebilen bir çekici, yüklü dorsesiyle birlikte Avrupa Topluluğu gümrük bölgesinde yer alan Trieste Limanında (B) Denizcilik firmasının işlettiği Ro-Ro gemisine yüklenmiş olup Türkiye Gümrük Bölgesindeki ilk varış limanı olan Pendik Limanına getirilecektir.
+**14-** Gümrük Yönetmeliği'ne göre eşyanın yüklendiği aracın aktif taşıma aracı olarak bağımsız şekilde hareket edecek nitelikte olduğu ve bu aracın başka bir araçla Türkiye Gümrük Bölgesine taşındığı kombine taşımacılıkta, özet beyanı verme yükümlülüğünün kime ait olduğu ve özet beyanın verilme süresinin neye göre belirleneceği aşağıdakilerden hangisinde birlikte doğru olarak verilmiştir?
 
-Gümrük Yönetmeliği'ne göre dorsedeki eşya için özet beyanı verme yükümlülüğü kime aittir ve özet beyan en geç ne zaman verilmelidir?  
-
-A) (B) firmasına; Pendik Limanına gelmeden en az iki saat önce  
-B) (A) firmasına; çekicinin giriş gümrük idaresine varmasından önce elektronik ortamda  
-C) (A) firmasına; Pendik Limanına gelmeden en az iki saat önce  
-D) (B) firmasına; Trieste Limanında eşyanın gemiye yüklenmesinden en az yirmi dört saat önce  
-E) (A) firmasına; Pendik Limanına gelmeden en az dört saat önce  
+A) Taşıyan taşıma aracının işleticisine aittir; süre, Türkiye Gümrük Bölgesine girilirken kullanılan taşıma şekline göre belirlenir.  
+B) Taşınan taşıma aracının işleticisine aittir; süre, taşınan aracın kendi taşıma şekline göre belirlenir.  
+C) Taşınan taşıma aracının işleticisine aittir; süre, Türkiye Gümrük Bölgesine girilirken kullanılan taşıma şekline göre belirlenir.  
+D) Taşıyan taşıma aracının işleticisine aittir; süre, taşınan aracın kendi taşıma şekline göre belirlenir.  
+E) Taşıma işlemini taahhüt ederek taşıma belgesini düzenleyen kişiye aittir; süre, Türkiye Gümrük Bölgesine girilirken kullanılan taşıma şekline göre belirlenir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre eşyanın yüklendiği aracın aktif taşıma aracı olarak bağımsız şekilde hareket edecek nitelikte olduğu ve bu aracın başka bir araçla Türkiye Gümrük Bölgesine taşındığı kombine taşımacılıkta, özet beyanı verme yükümlülüğü taşınan taşıma aracının işleticisine, yani çekiciyi işleten (A) firmasına aittir. Özet beyan, Türkiye Gümrük Bölgesine girilirken kullanılan taşıma şekline göre verilir; çekici bölgeye gemiyle girdiğinden denizyolu süreleri uygulanır. Avrupa Topluluğu gümrük bölgesinde yer alan limanlar ile Türk limanları arasında taşınan eşya için özet beyan ilk varış limanına gelmeden en az iki saat önce verilir. En güçlü çeldirici '(B) firmasına; Pendik Limanına gelmeden en az iki saat önce' seçeneğidir: süre doğrudur, ancak eşyayı fiilen getiren gemi işleticisini sorumlu sayan aday kombine taşımacılık kuralını atlar. Karayolu süresini seçen aday ise süreyi belirleyen taşıma şeklinin bölgeye girişte kullanılan şekil olduğunu gözden kaçırır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 60, 65, 67)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre eşyanın yüklendiği aracın aktif taşıma aracı olarak bağımsız şekilde hareket edecek nitelikte olduğu ve bu aracın başka bir araçla Türkiye Gümrük Bölgesine taşındığı kombine taşımacılıkta, özet beyanı verme yükümlülüğü taşınan taşıma aracının işleticisine aittir; Yönetmelik bu taşımacılıkta taşıyıcıyı da taşınan taşıma aracının işleticisi olarak belirler. Özet beyan, Türkiye Gümrük Bölgesine girilirken kullanılan taşıma şekline göre belirlenen sürede verilir; örneğin Ro-Ro gemisiyle getirilen bir çekici için denizyolu süreleri uygulanır, çekicinin kendi taşıma şekli olan karayolunun süresi uygulanmaz. Taşıyan aracın işleticisini yükümlü sayan seçenekler, taşıyıcının eşyayı Türkiye Gümrük Bölgesine getiren kişi olduğuna ilişkin genel kurala dayanır; kombine taşımacılık bu kuralın özel hâlidir. Taşıma belgesini düzenleyen kişinin yükümlülüğü ise deniz veya hava taşımacılığında taşıma aracının paylaşımı veya taşımanın sözleşme kapsamında yapılması hâline aittir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 60, 65, 66)
 
 *Gümrük Yönetmeliği md. 63, 67, 68*
 
@@ -508,11 +470,11 @@ E) II, III ve IV
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
 | Olumsuz kök | 7 |
-| Önermeli | 4 (I, III ve IV, I, II ve IV, I ve III, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 17, İSTİSNA 6, SAĞDUYU 6, TERİM 5, BAŞLANGIÇ 5, MAKAM 4 |
+| Önermeli | 2 (I, III ve IV, II ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 17, SAĞDUYU 6, TERİM 6, İSTİSNA 5, BAŞLANGIÇ 5, TERSİNE 5 |
 | İkiz eksen / ayna | 10 / özet beyanda değişiklik yasağı: giriş ↔ çıkış |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 5 |

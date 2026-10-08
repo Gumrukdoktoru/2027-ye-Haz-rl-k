@@ -14,19 +14,13 @@ C) Her ikisi de veriliş tarihinden itibaren; bağlayıcı tarife bilgisi altı 
 D) Her ikisi de hak sahibine tebliğ edildiği tarihten itibaren altı yıl  
 E) Bağlayıcı tarife bilgisi veriliş tarihinden itibaren altı yıl; bağlayıcı menşe bilgisi gereken tüm belgelerin temin edildiği tarihten itibaren üç yıl  
 
-**2-** 4458 sayılı Gümrük Kanunu'nun bilgi ve bağlayıcı bilgilere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**2-** Gümrük Yönetmeliği'ne göre 'Bağlayıcı Menşe Bilgisi' deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Bağlayıcı tarife veya bağlayıcı menşe bilgisi, gümrük idarelerini hak sahibine karşı yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu olan eşya için bağlar.  
-II. Geçerliliğini kaybeden bağlayıcı bilginin, bağlayıcı sözleşmeler nedeniyle altı aylık süre boyunca kullanılabilmesine ilişkin hükümlere istisna getirmeye Müsteşarlık yetkilidir.  
-III. Bağlayıcı menşe bilgisi alan kişi, beyan edilecek eşya ve menşe kazanımı gerektiren durumu ile bilgide tanımlanan eşya ve menşe kazanımı gerektiren durumunun her bakımdan uygun bulunduğunu kanıtlamak zorundadır.  
-IV. Bilgiler talep edene ücretsiz olarak verilir; ancak eşyanın kimyevi tahlili veya ekspertizi ya da talep edene geri gönderilmesi nedeniyle gümrük idarelerince yapılan masraflar talepte bulunan tarafından karşılanır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, II, III ve IV  
-E) I, III ve IV  
+A) Kişinin yazılı talebi üzerine Müsteşarlık (Gümrükler Genel Müdürlüğü) tarafından verilen ve eşyanın yalnızca tercihli menşeinin tespitine ilişkin idari karar  
+B) Kişinin yazılı talebi üzerine Müsteşarlık (Gümrükler Genel Müdürlüğü) tarafından verilen ve eşyanın tercihli veya tercihli olmayan menşeinin tespitine ilişkin görüş  
+C) Eşyanın Türk Gümrük Tarife Cetvelinde sınıflandırılmasına ilişkin olarak, kişinin yazılı talebi üzerine Müsteşarlıkça veya Müsteşarlık tarafından yetkilendirilmiş gümrük ve muhafaza başmüdürlüklerince verilen idari karar  
+D) Serbest dolaşıma girişte ticaret politikası önlemlerine tabi eşyanın menşeini ispat etmek üzere beyanname ekinde ibraz edilen belge  
+E) Kişinin yazılı talebi üzerine Müsteşarlık (Gümrükler Genel Müdürlüğü) tarafından verilen ve eşyanın tercihli veya tercihli olmayan menşeinin tespitine ilişkin idari karar  
 
 **3-** 4458 sayılı Gümrük Kanunu'na göre bağlayıcı tarife bilgisinin geçerliliğini kaybetmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -97,18 +91,13 @@ C) Talebin başkalarının işlemlerine ilişkin olmaması
 D) Talep konusu işlemin yargıya intikal etmiş olmaması  
 E) Talebin tarife ve menşe tespitine ilişkin olmaması  
 
-**11-** (C) firması, gerçekleştirmeyi planladığı ve henüz gümrük idaresinde işlemine başlanmamış somut bir ithalata ilişkin olarak gümrük ve dış ticaret bölge müdürlüğüne yazılı başvuruda bulunarak izahat talep etmiştir. Başvuruyla ilgili olarak:
-
-- Talep gerekli ve yeterli bilgileri içermekte olup firmanın kendi işlemine ilişkindir.  
-- Talep tarife ve menşe tespitine ilişkin değildir ve yargıya intikal etmemiştir.  
-- Ancak talep konusu hakkında devam eden bir inceleme bulunmaktadır.  
-Gümrük Yönetmeliği'nin yanlış izahat verilmesine ilişkin hükümlerine göre bu başvuru hakkında aşağıdakilerden hangisi doğrudur?  
+**11-** Gümrük Yönetmeliği'nin yanlış izahat verilmesine ilişkin hükümlerine göre, talep konusu hakkında devam eden bir araştırma, inceleme veya soruşturma bulunan izahat başvurusu hakkında aşağıdakilerden hangisi uygulanır?
 
 A) Başvuru, bölge müdürlüğünce doğrudan sonuçlandırılır.  
 B) Bölge müdürlüğünce gerekli inceleme ve değerlendirme yapılarak başvuru, görüşle birlikte Bakanlığa (Gümrükler Genel Müdürlüğü) intikal ettirilir.  
 C) Başvuru, eşyanın beyan edileceği gümrük müdürlüğüne gönderilerek bu müdürlükçe sonuçlandırılır.  
 D) Başvuru, Bilgi Edinme Hakkı Kanunu uyarınca yapılmış bir talep olarak değerlendirilir.  
-E) Firmaya yazı ile yanlış izahat verilmesi hâlinde idari para cezası verilmez ve faiz uygulanmaz.  
+E) Yükümlüye yazı ile yanlış izahat verilmesi hâlinde idari para cezası verilmez ve faiz uygulanmaz.  
 
 **12-** Gümrük Yönetmeliği'ne göre yükümlülerin talebi üzerine gümrük idaresince verilen izahata ilişkin aşağıdakilerden hangisi doğrudur?
 
@@ -148,15 +137,13 @@ C) I, II ve III
 D) I ve III  
 E) I, III ve IV  
 
-**16-** (B) firması adına X eşyası için 12.04.2022 tarihinde İstanbul Gümrük ve Ticaret Bölge Müdürlüğünce BTB düzenlenmiştir. Firma, bu BTB geçerliyken aynı eşya için Ege Gümrük ve Ticaret Bölge Müdürlüğüne başvurmuş ve adına 05.09.2024 tarihinde ikinci bir BTB düzenlenmiştir. Durum 20.03.2026 tarihinde tespit edilmiştir.
+**16-** Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre bir kişi adına aynı eşya için geçerli bir BTB var iken yeniden BTB düzenlendiğinin tespit edilmesi hâlinde BTB'lerin geçerliliği bakımından aşağıdakilerden hangisi doğrudur?
 
-Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre bu durumda aşağıdakilerden hangisi doğrudur?  
-
-A) Yalnızca sonradan düzenlenen BTB hükümsüz olup ilk BTB veriliş tarihinden itibaren altı yıl geçerliliğini korur.  
-B) İlk BTB, ikinci BTB'nin verildiği 05.09.2024 tarihinden itibaren geçerliliğini yitirir; ikinci BTB geçerliliğini korur.  
-C) Firma adına aynı eşya için düzenlenen her iki BTB de verildikleri tarihten başlayarak hükümsüzdür.  
-D) Her iki BTB de durumun tespit edildiği 20.03.2026 tarihinden itibaren hükümsüz hâle gelir.  
-E) Her iki BTB de, iptal kararının firmaya tebliğ edildiği tarihten itibaren geçerliliğini yitirir.  
+A) Yalnızca sonradan düzenlenen BTB verildiği tarihten başlayarak hükümsüzdür; ilk BTB geçerliliğini korur.  
+B) İlk BTB, sonradan düzenlenen BTB'nin verildiği tarihten itibaren geçerliliğini yitirir; sonraki BTB geçerliliğini korur.  
+C) O kişi adına aynı eşya için düzenlenmiş olan tüm BTB'ler, her biri verildiği tarihten başlayarak hükümsüzdür.  
+D) O kişi adına aynı eşya için düzenlenmiş tüm BTB'ler, durumun tespit edildiği tarihten itibaren hükümsüzdür.  
+E) O kişi adına aynı eşya için düzenlenmiş tüm BTB'ler, iptal kararının ilgiliye tebliği tarihinden itibaren geçerliliğini yitirir.  
 
 **17-** Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre BTB bildiriminin içermesi gereken hususlar arasında aşağıdakilerden hangisi yer almaz?
 
@@ -217,24 +204,18 @@ E) Bağlayıcı tarife bilgisi veriliş tarihinden itibaren altı yıl; bağlay�
 **Doğru Cevap:** C  
 **Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre bağlayıcı tarife bilgisi veriliş tarihinden itibaren altı yıl, bağlayıcı menşe bilgisi ise yine veriliş tarihinden itibaren üç yıl geçerlidir. İki bilginin geçerlilik süreleri farklı, başlangıç anı ise aynıdır: bilginin verildiği tarih. Sürelerin yer değiştirildiği seçenek iki bilgiyi karıştıran adayı yakalar; 'başvurunun alındığı tarih' ise Gümrük Yönetmeliği'nde bağlayıcı tarife bilgisinin üç ay içinde bildirilmesi süresinin başlangıcıdır. En güçlü çeldirici, menşe bilgisinin süresini 'gereken tüm belgelerin temin edildiği tarihten' başlatan seçenektir: bu an, Gümrük Yönetmeliği'nde bağlayıcı menşe bilgisinin başvuru sahibine beş ay içinde bildirilmesi süresinin başlangıcıdır, geçerlilik süresinin değil. Bu nedenle doğru cevap C seçeneğidir. (MD GK 9; GY 28, 29)
 
-*4458 sayılı Gümrük Kanunu md. 8, 9*
+*Gümrük Yönetmeliği md. 28, 29*
 
-**2-** 4458 sayılı Gümrük Kanunu'nun bilgi ve bağlayıcı bilgilere ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**2-** Gümrük Yönetmeliği'ne göre 'Bağlayıcı Menşe Bilgisi' deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Bağlayıcı tarife veya bağlayıcı menşe bilgisi, gümrük idarelerini hak sahibine karşı yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu olan eşya için bağlar.  
-II. Geçerliliğini kaybeden bağlayıcı bilginin, bağlayıcı sözleşmeler nedeniyle altı aylık süre boyunca kullanılabilmesine ilişkin hükümlere istisna getirmeye Müsteşarlık yetkilidir.  
-III. Bağlayıcı menşe bilgisi alan kişi, beyan edilecek eşya ve menşe kazanımı gerektiren durumu ile bilgide tanımlanan eşya ve menşe kazanımı gerektiren durumunun her bakımdan uygun bulunduğunu kanıtlamak zorundadır.  
-IV. Bilgiler talep edene ücretsiz olarak verilir; ancak eşyanın kimyevi tahlili veya ekspertizi ya da talep edene geri gönderilmesi nedeniyle gümrük idarelerince yapılan masraflar talepte bulunan tarafından karşılanır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, II, III ve IV  
-E) I, III ve IV  
+A) Kişinin yazılı talebi üzerine Müsteşarlık (Gümrükler Genel Müdürlüğü) tarafından verilen ve eşyanın yalnızca tercihli menşeinin tespitine ilişkin idari karar  
+B) Kişinin yazılı talebi üzerine Müsteşarlık (Gümrükler Genel Müdürlüğü) tarafından verilen ve eşyanın tercihli veya tercihli olmayan menşeinin tespitine ilişkin görüş  
+C) Eşyanın Türk Gümrük Tarife Cetvelinde sınıflandırılmasına ilişkin olarak, kişinin yazılı talebi üzerine Müsteşarlıkça veya Müsteşarlık tarafından yetkilendirilmiş gümrük ve muhafaza başmüdürlüklerince verilen idari karar  
+D) Serbest dolaşıma girişte ticaret politikası önlemlerine tabi eşyanın menşeini ispat etmek üzere beyanname ekinde ibraz edilen belge  
+E) Kişinin yazılı talebi üzerine Müsteşarlık (Gümrükler Genel Müdürlüğü) tarafından verilen ve eşyanın tercihli veya tercihli olmayan menşeinin tespitine ilişkin idari karar  
 
 **Doğru Cevap:** E  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre bağlayıcı tarife veya menşe bilgisi gümrük idarelerini, hak sahibine karşı, yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu eşya için bağlar (I doğru). Bilgi alan kişi, bağlayıcı menşe bilgisinde beyan edilecek eşya ve menşe kazanımı gerektiren durumu ile bilgide tanımlanan eşya ve durumun her bakımdan uygun olduğunu kanıtlamak zorundadır (III doğru). Gümrük idarelerinden istenen bilgiler ücretsizdir; ancak kimyevi tahlil, ekspertiz veya eşyanın geri gönderilmesi nedeniyle yapılan masrafları talepte bulunan karşılar (IV doğru). Geçerliliğini kaybeden bilginin bağlayıcı sözleşmeler nedeniyle altı ay kullanılabilmesine ilişkin hükümlere istisna getirmeye Kanun Cumhurbaşkanını yetkili kılmıştır; Müsteşarlık bağlayıcı bilgiyi veren makamdır, istisna makamı değildir (II yanlış). En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: bilgiyi veren makam ile istisna getiren makamı karıştıran aday dört ifadeyi de doğru sayar. Bu nedenle doğru cevap E seçeneğidir. (MD GK 8, 9)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre Bağlayıcı Menşe Bilgisi, kişinin yazılı talebi üzerine Müsteşarlık (Gümrükler Genel Müdürlüğü) tarafından verilen ve eşyanın tercihli veya tercihli olmayan menşeinin tespitine ilişkin idari karardır; verilmesinde Kanunun ve Yönetmeliğin eşyanın menşeinin belirlenmesine ilişkin hükümleri esas alınır. Tanım menşein iki türünü birlikte kapsar; yalnızca tercihli menşeyle sınırlayan ifade tanımdan unsur düşürür. Bağlayıcı menşe bilgisi bir görüş değil idari karardır; bağlayıcılığı bulunmayan 'tarife sınıflandırma görüşü' Seri No: 11 Tebliğindeki tarife bilgisine aittir. Eşyanın Tarife Cetvelinde sınıflandırılmasına ilişkin idari karar Bağlayıcı Tarife Bilgisinin, serbest dolaşıma girişte beyanname ekinde ibraz edilerek menşei ispat eden belge ise menşe şahadetnamesinin tarifidir. En güçlü çeldirici yalnızca tercihli menşeyle sınırlanmış tanımdır: tek kelimelik kayıt tanımın kapsamını daraltır ve dikkatsiz okuyan aday bunu fark etmez. Bu nedenle doğru cevap E seçeneğidir. (MD GY 29, 28, 205; Seri No: 11 md. 4)
 
 *4458 sayılı Gümrük Kanunu md. 9*
 
@@ -343,25 +324,20 @@ D) Talep konusu işlemin yargıya intikal etmiş olmaması
 E) Talebin tarife ve menşe tespitine ilişkin olmaması  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre yükümlüye yazı ile yanlış izahat verilmesi hâlinde idari para cezası verilmemesi ve faiz uygulanmaması için şu şartların birlikte sağlanması gerekir: yükümlünün yazılı talebi; talebin gerekli ve yeterli bilgileri içermesi; başkalarının işlemlerine ilişkin olmaması; talep konusu işlemin yargıya intikal etmemiş olması; araştırma, inceleme veya soruşturma bulunmaması; somut bir olaya dayanması; işlemin sonuçlanmamış olması; tarife ve menşe tespitine ilişkin olmaması; gümrük idaresinde yürütülen bir işleme ilişkin olmaması. Talebin gümrük müşaviri aracılığıyla yapılması bu şartlar arasında yoktur; talebi yükümlü kendisi yapar ve talepler gümrük ve dış ticaret bölge müdürlüklerine yöneltilir. Tuzak, her başvuruda müşavirin şart olduğu önyargısıdır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 580/A)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre yükümlüye yazı ile yanlış izahat verilmesi hâlinde idari para cezası verilmemesi ve faiz uygulanmaması için şu şartların birlikte sağlanması gerekir: yükümlünün yazılı talebi; talebin gerekli ve yeterli bilgileri içermesi; başkalarının işlemlerine ilişkin olmaması; talep konusu işlemin yargıya intikal etmemiş olması; araştırma, inceleme veya soruşturma bulunmaması; somut bir olaya dayanması; işlemin sonuçlanmamış olması; tarife ve menşe tespitine ilişkin olmaması; gümrük idaresinde yürütülen bir işleme ilişkin olmaması. Talebin gümrük müşaviri aracılığıyla yapılması bu şartlar arasında yoktur; Yönetmelik yalnızca yükümlünün yazılı talebini arar ve talepler gümrük ve dış ticaret bölge müdürlüklerine yöneltilir. Tuzak, her başvuruda müşavirin şart olduğu önyargısıdır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 580/A)
 
 *Gümrük Yönetmeliği md. 580/A*
 
-**11-** (C) firması, gerçekleştirmeyi planladığı ve henüz gümrük idaresinde işlemine başlanmamış somut bir ithalata ilişkin olarak gümrük ve dış ticaret bölge müdürlüğüne yazılı başvuruda bulunarak izahat talep etmiştir. Başvuruyla ilgili olarak:
-
-- Talep gerekli ve yeterli bilgileri içermekte olup firmanın kendi işlemine ilişkindir.  
-- Talep tarife ve menşe tespitine ilişkin değildir ve yargıya intikal etmemiştir.  
-- Ancak talep konusu hakkında devam eden bir inceleme bulunmaktadır.  
-Gümrük Yönetmeliği'nin yanlış izahat verilmesine ilişkin hükümlerine göre bu başvuru hakkında aşağıdakilerden hangisi doğrudur?  
+**11-** Gümrük Yönetmeliği'nin yanlış izahat verilmesine ilişkin hükümlerine göre, talep konusu hakkında devam eden bir araştırma, inceleme veya soruşturma bulunan izahat başvurusu hakkında aşağıdakilerden hangisi uygulanır?
 
 A) Başvuru, bölge müdürlüğünce doğrudan sonuçlandırılır.  
 B) Bölge müdürlüğünce gerekli inceleme ve değerlendirme yapılarak başvuru, görüşle birlikte Bakanlığa (Gümrükler Genel Müdürlüğü) intikal ettirilir.  
 C) Başvuru, eşyanın beyan edileceği gümrük müdürlüğüne gönderilerek bu müdürlükçe sonuçlandırılır.  
 D) Başvuru, Bilgi Edinme Hakkı Kanunu uyarınca yapılmış bir talep olarak değerlendirilir.  
-E) Firmaya yazı ile yanlış izahat verilmesi hâlinde idari para cezası verilmez ve faiz uygulanmaz.  
+E) Yükümlüye yazı ile yanlış izahat verilmesi hâlinde idari para cezası verilmez ve faiz uygulanmaz.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre yanlış izahat hâlinde ceza ve faiz uygulanmaması için sayılan şartların tamamı sağlanmalıdır. Vakada yazılı talep, gerekli ve yeterli bilgi, kendi işlemine ilişkin olma, somut olay, sonuçlanmamış işlem, tarife ve menşe dışı konu, yargıya intikal etmeme ve gümrük idaresinde yürütülen bir işleme ilişkin olmama şartları vardır; ancak talep konusu hakkında devam eden bir inceleme bulunduğundan 'araştırma, inceleme veya soruşturma bulunmaması' şartı karşılanmaz. Yönetmeliğe göre şartları taşımayan başvurular Bölge Müdürlüğünce doğrudan sonuçlandırılır. Vakaya saklanan istisna budur. En güçlü çeldirici Bakanlığa intikal seçeneğidir: bu yol yalnızca şartları taşıyan başvurular için öngörülmüştür. Şartlar sağlanmadığı için yanlış izahat hâlinde ceza ve faiz uygulanmaması hükmü de işlemez; Bilgi Edinme Hakkı Kanunu uyarınca yapılan talepler ise baştan bu madde kapsamı dışındadır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 580/A)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre yanlış izahat hâlinde idari para cezası verilmemesi ve faiz uygulanmaması için sayılan şartların tamamı sağlanmalıdır; bu şartlardan biri de talep konusu hakkında araştırma, inceleme veya soruşturma bulunmamasıdır. Talep konusu hakkında devam eden bir inceleme varsa başvuru bu şartı taşımaz ve Yönetmeliğe göre şartları taşımayan başvurular Bölge Müdürlüğünce doğrudan sonuçlandırılır. Bakanlığa (Gümrükler Genel Müdürlüğü) görüşle intikal ettirme yalnızca şartları taşıyan başvurular için öngörülmüştür; en güçlü çeldirici budur. Talepler gümrük müdürlüğüne değil gümrük ve dış ticaret bölge müdürlüklerine yapılır; Bilgi Edinme Hakkı Kanunu uyarınca yapılan talepler ise baştan bu madde kapsamı dışındadır. Şartlar sağlanmadığından yanlış izahatta ceza ve faiz uygulanmaması hükmü de işlemez. Bu nedenle doğru cevap A seçeneğidir. (MD GY 580/A)
 
 *Gümrük Yönetmeliği md. 580/A*
 
@@ -374,7 +350,7 @@ D) İzahat, talebin bölge müdürlüğüne yapıldığı tarihten itibaren hük
 E) Dayanağı mevzuat hükümlerinde yapılan değişikliğe uymayan izahat için ceza ve faiz uygulanmaması hükmü, değişikliğin yükümlüye bildirildiği tarihten itibaren uygulanmaz.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre izahat karar niteliği taşımaz ve itiraza konu olmaz. Bağlayıcı tarife ve menşe bilgisi ise idari karardır ve bildiriminde Kanundaki itiraz yolunun açık olduğu belirtilir; iki kurum bu noktada ayrılır. Diğer seçeneklerde başlangıç anları ve kapsam değiştirilmiştir: izahat yalnızca başvuru sahibi için izahat niteliği taşır; yanlış veya eksik bilgiye dayanan izahat tespit tarihinden değil, verildiği tarihten itibaren geçersizdir; izahat talebin yapıldığı tarihten değil, ilgiliye bildirildiği tarihten itibaren hüküm ifade eder; dayanağı mevzuat değişen ve değişikliğe uymayan izahatta ceza ve faiz uygulanmaması hükmü yeni düzenlemenin yapıldığı tarihten itibaren işletilmez. En güçlü çeldirici son seçenektir: 'bildirildiği tarih' iptal edilen veya değiştirilen izahat için öngörülen başlangıçtır, mevzuat değişikliği için değil. Bu nedenle doğru cevap C seçeneğidir. (MD GY 580/A; GY 28)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre izahat karar niteliği taşımaz ve itiraza konu olmaz. Bağlayıcı tarife ve menşe bilgisi ise idari karardır ve bildiriminde Kanundaki itiraz yolunun açık olduğu belirtilir; iki kurum bu noktada ayrılır. Diğer seçeneklerde başlangıç anları ve kapsam değiştirilmiştir: izahat yalnızca başvuru sahibi için izahat niteliği taşır; yanlış veya eksik bilgiye dayanan izahat tespit tarihinden değil, verildiği tarihten itibaren geçersizdir; izahat talebin yapıldığı tarihten değil, ilgiliye bildirildiği tarihten itibaren hüküm ifade eder; dayanağı mevzuat değişen ve değişikliğe uymayan izahatta ceza ve faiz uygulanmaması hükmü yeni düzenlemenin yapıldığı tarihten itibaren işletilmez. En güçlü çeldirici mevzuat değişikliğine ilişkin seçenektir: 'bildirildiği tarih' iptal edilen veya değiştirilen izahat için öngörülen başlangıçtır, mevzuat değişikliği için değil. Bu nedenle doğru cevap C seçeneğidir. (MD GY 580/A; GY 28)
 
 *Gümrük Genel Tebliği (Tarife) (Seri No: 14) md. 4*
 
@@ -421,20 +397,18 @@ E) I, III ve IV
 **Doğru Cevap:** D  
 **Gerekçe:** Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre BTB başvurusu sadece bir kalem eşya için yapılır; bir kalem eşya, Türk Gümrük Tarife Cetvelinde aynı tarife pozisyonu alt açılımında bulunan ve aynı yasal ya da tercihli vergi oranına tabi eşyadır (I doğru). Başvuru sahipleri işlem durumunu BTB Programından izler; elektronik başvurular reddedildiğinde ayrıca tebligat yapılmaz (III doğru). Sınıflandırılacak eşya hak sahibince daha önce ithal veya ihraç edilmişse başvuruya buna ilişkin gümrük beyanname ve eklerinin asılları değil fotokopisi eklenir (II yanlış). Başvuru formundaki 'Öngörülen Sınıflandırma' kutusu isteğe bağlıdır; diğer kutuların çoğu zorunludur (IV yanlış). En güçlü çeldirici II'yi içeren seçeneklerdir: fotokopi yerine asıl istendiğini sanan aday 'I, II ve III' seçeneğine yönelir. Bu nedenle doğru cevap D seçeneğidir. (MD Seri No: 14 md. 9-12)
 
-*Gümrük Genel Tebliği (Tarife) (Seri No: 14) md. 7*
+*Gümrük Genel Tebliği (Tarife) (Seri No: 14) md. 7, 20*
 
-**16-** (B) firması adına X eşyası için 12.04.2022 tarihinde İstanbul Gümrük ve Ticaret Bölge Müdürlüğünce BTB düzenlenmiştir. Firma, bu BTB geçerliyken aynı eşya için Ege Gümrük ve Ticaret Bölge Müdürlüğüne başvurmuş ve adına 05.09.2024 tarihinde ikinci bir BTB düzenlenmiştir. Durum 20.03.2026 tarihinde tespit edilmiştir.
+**16-** Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre bir kişi adına aynı eşya için geçerli bir BTB var iken yeniden BTB düzenlendiğinin tespit edilmesi hâlinde BTB'lerin geçerliliği bakımından aşağıdakilerden hangisi doğrudur?
 
-Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre bu durumda aşağıdakilerden hangisi doğrudur?  
-
-A) Yalnızca sonradan düzenlenen BTB hükümsüz olup ilk BTB veriliş tarihinden itibaren altı yıl geçerliliğini korur.  
-B) İlk BTB, ikinci BTB'nin verildiği 05.09.2024 tarihinden itibaren geçerliliğini yitirir; ikinci BTB geçerliliğini korur.  
-C) Firma adına aynı eşya için düzenlenen her iki BTB de verildikleri tarihten başlayarak hükümsüzdür.  
-D) Her iki BTB de durumun tespit edildiği 20.03.2026 tarihinden itibaren hükümsüz hâle gelir.  
-E) Her iki BTB de, iptal kararının firmaya tebliğ edildiği tarihten itibaren geçerliliğini yitirir.  
+A) Yalnızca sonradan düzenlenen BTB verildiği tarihten başlayarak hükümsüzdür; ilk BTB geçerliliğini korur.  
+B) İlk BTB, sonradan düzenlenen BTB'nin verildiği tarihten itibaren geçerliliğini yitirir; sonraki BTB geçerliliğini korur.  
+C) O kişi adına aynı eşya için düzenlenmiş olan tüm BTB'ler, her biri verildiği tarihten başlayarak hükümsüzdür.  
+D) O kişi adına aynı eşya için düzenlenmiş tüm BTB'ler, durumun tespit edildiği tarihten itibaren hükümsüzdür.  
+E) O kişi adına aynı eşya için düzenlenmiş tüm BTB'ler, iptal kararının ilgiliye tebliği tarihinden itibaren geçerliliğini yitirir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre bir kişi aynı eşya için sadece bir BTB müracaatında bulunabilir. Bir kişi adına aynı eşya için geçerli bir BTB varken yeniden BTB düzenlendiği tespit edilirse o kişi adına aynı eşya için düzenlenmiş tüm BTB'ler verildiği tarihten başlayarak hükümsüzdür; bu şekilde hükümsüz hâle gelen BTB'nin hak sahibi için Gümrük Kanunu'ndaki usulsüzlük cezası hükmü uygulanır. Vakaya saklanan istisna, yaptırımın yalnızca sonraki BTB'yi değil ilk BTB'yi de kapsaması ve tespit tarihinden değil her birinin verildiği tarihten işlemesidir. En güçlü çeldirici ilk BTB'nin altı yıl geçerliliğini koruyacağını söyleyen seçenektir: sağduyu ikinci başvuruyu tek kusurlu işlem sayar, Tebliğ ise tüm BTB'leri hükümsüz kılar. İptal kararının tebliği tarihi, iptal edildiği veya değiştirildiği bilgi verilen kişiye tebliğ edilen BTB'ler için öngörülmüş başlangıçtır. Bu nedenle doğru cevap C seçeneğidir. (MD Seri No: 14 md. 7, 20)
+**Gerekçe:** Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre bir kişi aynı eşya için sadece bir BTB müracaatında bulunabilir. Bir kişi adına aynı eşya için geçerli bir BTB var iken yeniden BTB düzenlendiği tespit edilirse o kişi adına aynı eşya için düzenlenmiş tüm BTB'ler verildiği tarihten başlayarak hükümsüzdür; bu şekilde hükümsüz hâle gelen BTB'nin hak sahibi için Gümrük Kanunu'ndaki usulsüzlük cezası hükmü uygulanır. Yaptırım yalnızca sonraki BTB'yi değil ilk BTB'yi de kapsar ve tespit tarihinden değil, her BTB'nin verildiği tarihten işler. En güçlü çeldirici ilk BTB'nin geçerliliğini koruduğunu söyleyen ifadedir: sağduyu ikinci başvuruyu tek kusurlu işlem sayar, Tebliğ ise tüm BTB'leri hükümsüz kılar. İptal kararının ilgiliye tebliği tarihi, iptal edildiği veya değiştirildiği bilgi verilen kişiye tebliğ edilen BTB için öngörülmüş başlangıçtır. Bu nedenle doğru cevap C seçeneğidir. (MD Seri No: 14 md. 7, 20)
 
 *Gümrük Genel Tebliği (Tarife) (Seri No: 14) md. 14*
 
@@ -498,11 +472,11 @@ E) II ve IV
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
+| Birebir / parafraz / çıkarım | 15 / 3 / 2 |
 | Olumsuz kök | 7 |
-| Önermeli | 3 (I, III ve IV, I ve III, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 10, TERİM 9, BAŞLANGIÇ 5, LİSTE-DIŞI 5, SAĞDUYU 5, MAKAM 4 |
+| Önermeli | 2 (I ve III, II ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 11, TERİM 10, BAŞLANGIÇ 5, UNSUR 5, LİSTE-DIŞI 5, SAĞDUYU 5 |
 | İkiz eksen / ayna | 14 / AYNA-1: DGÖ ↔ DTÖ (BMB yönü), AYNA-1: DGÖ ↔ DTÖ (BTB yönü), AYNA-2: ret ↔ vazgeçilmiş sayılma (BTB yönü), AYNA-2: ret ↔ vazgeçilmiş sayılma (tarife bilgisi yönü) |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 8 |

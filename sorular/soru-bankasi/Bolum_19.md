@@ -6,19 +6,13 @@ Kaynak: 20-TRANSİT REJİMİ.txt · 20 soru
 
 ### Sorular
 
-**1-** 4458 sayılı Gümrük Kanunu'nun transit rejiminin uygulandığı eşya ve taşıma yönlerine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**1-** 4458 sayılı Gümrük Kanunu'na göre transit rejiminin uygulandığı durum aşağıdakilerin hangisinde doğru olarak tanımlanmıştır?
 
-I. Transit rejimi, ithalat vergileri ve ticaret politikası önlemlerine tabi tutulmayan serbest dolaşıma girmemiş eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınmasına uygulanır.  
-II. İhracatla ilgili gümrük işlemleri tamamlanmış eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınmasına da transit rejimi uygulanır.  
-III. Gümrük idareleri, transit rejimine tabi tutulan eşyanın bir iç gümrük idaresinden diğer bir iç gümrük idaresine taşınmasına izin vermez.  
-IV. Gümrük idareleri, transit rejimine tabi tutulan eşyanın Türkiye Gümrük Bölgesi içinde yabancı bir ülkeden yabancı bir ülkeye taşınmasına izin verir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) I, III ve IV  
-D) I, II, III ve IV  
-E) I, II ve IV  
+A) İthalat vergileri ve ticaret politikası önlemlerine tabi tutulmayan serbest dolaşıma girmemiş eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi üzerinden yalnızca yabancı bir ülkeden yabancı bir ülkeye taşınması  
+B) Serbest dolaşımdaki eşya ile ihracatla ilgili gümrük işlemleri tamamlanmamış eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınması  
+C) İthalat vergilerine ve ticaret politikası önlemlerine tabi tutulmamış ve serbest dolaşıma girmemiş eşya ile gümrük antreposuna alınması hâlinde ihracata ilişkin önlemlerden yararlanabilecek serbest dolaşımdaki eşyanın bir gümrük antreposuna konulması  
+D) Serbest dolaşıma girmemiş eşyanın, ithalat vergilerinden tamamen ya da kısmen muaf olarak ve ticaret politikası önlemlerine tabi tutulmaksızın Türkiye Gümrük Bölgesi içinde kullanılıp yeniden ihraç edilmesi  
+E) İthalat vergileri ve ticaret politikası önlemlerine tabi tutulmayan serbest dolaşıma girmemiş eşya ile ihracatla ilgili gümrük işlemleri tamamlanmış eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınması  
 
 **2-** 4458 sayılı Gümrük Kanunu'na göre, yönetmelik ile belirlenecek hâllerde büyük konteynerler ile yapılan taşımada transit rejimine tabi eşyanın Türkiye Gümrük Bölgesinde taşınması aşağıdaki belgelerden hangisi kapsamında yapılır?
 
@@ -144,7 +138,7 @@ E) I, II ve IV
 
 **15-** Gümrük Yönetmeliği'ne göre transit rejiminde basitleştirme izni verilebilmesi için başvuru sahibinde aranan genel şartlardan biri, başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içinde işlem gören beyanname sayısının belirli bir oranını aşan sayıda ceza uygulanmamış olmasıdır.
 
-Bu oran, vergi kaybına neden olan gümrük mevzuatı ihlalleri nedeniyle uygulanan cezalar ile gümrük mevzuatının ihlali nedeniyle uygulanan usulsüzlük cezaları için sırasıyla aşağıdakilerden hangisidir?  
+Bu oranlar, vergi kaybına neden olan gümrük mevzuatı ihlalleri nedeniyle uygulanan cezalar ile gümrük mevzuatının ihlali nedeniyle uygulanan usulsüzlük cezaları için sırasıyla aşağıdakilerden hangisidir?  
 
 A) %5 – %2  
 B) %2 – %10  
@@ -184,18 +178,13 @@ C) Eksik çıkan miktar üzerinden transit işlemi sonlandırılır ve hareket g
 D) Mevcut eşya, ulusal transit rejimi kapsamında yapılacak beyana istinaden varış gümrük idaresine sevk edilir.  
 E) Eksikliğe ilişkin vergiler tahsil edilip iki katı idari para cezası uygulandıktan sonra aracın çıkışına izin verilir.  
 
-**20-** İhracatla ilgili gümrük işlemleri bir iç gümrük idaresinde tamamlanan serbest dolaşımdaki eşya, Türkiye Gümrük Bölgesinden çıkarılmak üzere transit rejimi kapsamında bir sınır gümrük idaresine sevk edilmiştir.
+**20-** Gümrük Yönetmeliği'ne göre transit rejiminde varış gümrük idaresince yapılan kontrol ve muayene sonucunda tespit edilen beyana aykırılıklara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- Varış gümrük idaresince yapılan muayenede eşyanın miktar ve cins bakımından transit beyannamesine aykırı olduğu tespit edilmiştir.  
-- İhracatçı, aykırı çıkan kısmı ihraç etmekten vazgeçtiğini bildirmiştir.  
-- Aykırılığın Gümrük Kanunu'nun başka bir hükmünü veya 5607 sayılı Kaçakçılıkla Mücadele Kanununu ihlal etmediği anlaşılmıştır.  
-Gümrük Yönetmeliği'ne göre bu aykırılık için aşağıdakilerden hangisi uygulanır?  
-
-A) Aykırılığın mahrecinden kaynaklandığı 28 gün içinde ispat edilemezse eşyanın gümrük vergilerinin iki katı idari para cezası uygulanır.  
-B) Eşya sonradan ihraç edilsin veya edilmesin Gümrük Kanunu'ndaki usulsüzlük cezası uygulanır.  
-C) Aykırı çıkan kısım ihraç edilmeyeceğinden aykırılık için herhangi bir ceza uygulanmaz.  
-D) Aykırı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası uygulanır.  
-E) Aykırı çıkan kısma ilişkin gümrük vergileri kadar idari para cezası uygulanır ve eşya tasfiyeye tabi tutulur.  
+A) Eksiklik veya fazlalığın eşyanın tabiatı icabı Ek-11'de yer alan oranlarda olduğunun anlaşılması hâlinde, takibat yapılmaz ve işlemler varış gümrük idaresince tespit edilen miktar üzerinden sonuçlandırılır.  
+B) Varış gümrük idaresince yapılan muayenede miktar ve cins bakımından transit beyannamesine göre aykırı çıkan ihraç eşyası için Gümrük Kanunu'ndaki usulsüzlük cezası, ancak eşya sonradan ihraç edilmezse uygulanır.  
+C) Takibat gerektiren eksiklik veya fazlalıkta takibat ve varsa cezai işlem, eksiklik veya fazlalığın tamamı için değil, Ek-11'de belirtilen oranları aşan kısmı için uygulanır.  
+D) Serbest dolaşımda olmayan eşyada 'beyanda belirtilen cinsine uygun' ifadesinden, beyan edilen eşya ile tespit edilen eşyanın 6'lı tarife alt pozisyonunun aynı olması durumu anlaşılır.  
+E) Transit beyannamesine aykırı çıkan ihraç eşyasındaki aykırılığın 5607 sayılı Kaçakçılıkla Mücadele Kanununu da ihlal ettiği sonucuna varılırsa, ilgili hükümler uyarınca gerekli işlemler yapılır.  
 
 ### Cevap Anahtarı
 
@@ -207,22 +196,16 @@ E) Aykırı çıkan kısma ilişkin gümrük vergileri kadar idari para cezası 
 
 *4458 sayılı Gümrük Kanunu md. 84*
 
-**1-** 4458 sayılı Gümrük Kanunu'nun transit rejiminin uygulandığı eşya ve taşıma yönlerine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**1-** 4458 sayılı Gümrük Kanunu'na göre transit rejiminin uygulandığı durum aşağıdakilerin hangisinde doğru olarak tanımlanmıştır?
 
-I. Transit rejimi, ithalat vergileri ve ticaret politikası önlemlerine tabi tutulmayan serbest dolaşıma girmemiş eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınmasına uygulanır.  
-II. İhracatla ilgili gümrük işlemleri tamamlanmış eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınmasına da transit rejimi uygulanır.  
-III. Gümrük idareleri, transit rejimine tabi tutulan eşyanın bir iç gümrük idaresinden diğer bir iç gümrük idaresine taşınmasına izin vermez.  
-IV. Gümrük idareleri, transit rejimine tabi tutulan eşyanın Türkiye Gümrük Bölgesi içinde yabancı bir ülkeden yabancı bir ülkeye taşınmasına izin verir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) I, III ve IV  
-D) I, II, III ve IV  
-E) I, II ve IV  
+A) İthalat vergileri ve ticaret politikası önlemlerine tabi tutulmayan serbest dolaşıma girmemiş eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi üzerinden yalnızca yabancı bir ülkeden yabancı bir ülkeye taşınması  
+B) Serbest dolaşımdaki eşya ile ihracatla ilgili gümrük işlemleri tamamlanmamış eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınması  
+C) İthalat vergilerine ve ticaret politikası önlemlerine tabi tutulmamış ve serbest dolaşıma girmemiş eşya ile gümrük antreposuna alınması hâlinde ihracata ilişkin önlemlerden yararlanabilecek serbest dolaşımdaki eşyanın bir gümrük antreposuna konulması  
+D) Serbest dolaşıma girmemiş eşyanın, ithalat vergilerinden tamamen ya da kısmen muaf olarak ve ticaret politikası önlemlerine tabi tutulmaksızın Türkiye Gümrük Bölgesi içinde kullanılıp yeniden ihraç edilmesi  
+E) İthalat vergileri ve ticaret politikası önlemlerine tabi tutulmayan serbest dolaşıma girmemiş eşya ile ihracatla ilgili gümrük işlemleri tamamlanmış eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınması  
 
 **Doğru Cevap:** E  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre transit rejimi iki tür eşyaya uygulanır: ithalat vergileri ve ticaret politikası önlemlerine tabi tutulmayan serbest dolaşıma girmemiş eşya ile ihracatla ilgili gümrük işlemleri tamamlanmış eşya. Bu eşyanın gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınmasına transit rejimi uygulanır; I ve II doğrudur. Kanun, gümrük idarelerinin transit eşyasının Türkiye Gümrük Bölgesi içinde dört yönde taşınmasına izin vereceğini sayar: yabancı bir ülkeden yabancı bir ülkeye, yabancı bir ülkeden Türkiye'ye, Türkiye'den yabancı bir ülkeye ve bir iç gümrük idaresinden diğer bir iç gümrük idaresine. Bu nedenle IV doğru, iç gümrük idareleri arasındaki taşımaya izin verilmeyeceğini söyleyen III yanlıştır. En güçlü tuzak III'tür: transitin yalnızca sınır ötesi taşımalarda kullanıldığı sanılır; oysa iç gümrükten iç gümrüğe taşıma Kanunda açıkça sayılmıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 84)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre transit rejimi iki eşya grubuna uygulanır: ithalat vergileri ve ticaret politikası önlemlerine tabi tutulmayan serbest dolaşıma girmemiş eşya ile ihracatla ilgili gümrük işlemleri tamamlanmış eşya. Rejim, bu eşyanın gümrük gözetimi altında Türkiye Gümrük Bölgesi içindeki bir noktadan diğerine taşınmasına uygulanır. Taşımayı yalnızca yabancı bir ülkeden yabancı bir ülkeye geçişle sınırlayan tanım eksiktir: Kanun, gümrük idarelerinin yabancı bir ülkeden Türkiye'ye, Türkiye'den yabancı bir ülkeye ve bir iç gümrük idaresinden diğer bir iç gümrük idaresine taşımaya da izin vereceğini sayar; transitin yalnızca ülke üzerinden geçiş olduğu sağduyusu en güçlü tuzaktır. Serbest dolaşımdaki eşyayı ve ihracat işlemleri tamamlanmamış eşyayı sayan tanım, Kanundaki eşya gruplarını tersine çevirmiştir. Aynı yapıda iki eşya grubu sayan, ancak eşyanın bir gümrük antreposuna konulmasından söz eden tanım gümrük antrepo rejimine; eşyanın vergilerden tamamen veya kısmen muaf kullanılıp yeniden ihracından söz eden tanım ise geçici ithalat rejimine aittir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 84, 93, 128)
 
 *4458 sayılı Gümrük Kanunu md. 84*
 
@@ -415,7 +398,7 @@ E) I, II ve IV
 
 **15-** Gümrük Yönetmeliği'ne göre transit rejiminde basitleştirme izni verilebilmesi için başvuru sahibinde aranan genel şartlardan biri, başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içinde işlem gören beyanname sayısının belirli bir oranını aşan sayıda ceza uygulanmamış olmasıdır.
 
-Bu oran, vergi kaybına neden olan gümrük mevzuatı ihlalleri nedeniyle uygulanan cezalar ile gümrük mevzuatının ihlali nedeniyle uygulanan usulsüzlük cezaları için sırasıyla aşağıdakilerden hangisidir?  
+Bu oranlar, vergi kaybına neden olan gümrük mevzuatı ihlalleri nedeniyle uygulanan cezalar ile gümrük mevzuatının ihlali nedeniyle uygulanan usulsüzlük cezaları için sırasıyla aşağıdakilerden hangisidir?  
 
 A) %5 – %2  
 B) %2 – %10  
@@ -478,33 +461,28 @@ E) Eksikliğe ilişkin vergiler tahsil edilip iki katı idari para cezası uygul
 **Doğru Cevap:** C  
 **Gerekçe:** Gümrük Yönetmeliği'ne göre ortak transit rejimi kapsamında mühürlü gelen ve beyanda belirtilen cinsine uygun olmakla birlikte varışta eksik çıkan serbest dolaşımda olmayan eşyada sonuç mührün durumuna bağlanmıştır. Hareket veya transit gümrük idaresinde tatbik edilen orijinal mühür sağlamsa varış gümrük idaresince eksik çıkan miktar üzerinden transit işlemi sonlandırılır ve hareket gümrük idaresine, çözümünün beklenmediği belirtilerek uyuşmazlık bildirilir. Orijinal mühür sağlam değilse, sökülmüşse ya da eşyanın Türkiye Gümrük Bölgesi içinde boşaltıldığı veya değiştirildiği kanaati oluşursa tahsilat işlemi başlatılır ve eşyanın gümrük vergilerinin iki katı idari para cezası uygulanır; en güçlü çeldirici budur. Yirmi sekiz günlük ispat süresi ve aracın vergi ile ceza sonrası çıkışı ulusal transit rejimine özgü hükümlerdir. Mevcut eşyanın ulusal transit beyanıyla varış gümrük idaresine sevki ise eksikliğin transit idaresinde tespit edildiği hâle aittir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 239, 240)
 
-*Gümrük Yönetmeliği md. 239, 242; 4458 sayılı Gümrük Kanunu md. 241*
+*Gümrük Yönetmeliği md. 241, 242; 4458 sayılı Gümrük Kanunu md. 241*
 
-**20-** İhracatla ilgili gümrük işlemleri bir iç gümrük idaresinde tamamlanan serbest dolaşımdaki eşya, Türkiye Gümrük Bölgesinden çıkarılmak üzere transit rejimi kapsamında bir sınır gümrük idaresine sevk edilmiştir.
+**20-** Gümrük Yönetmeliği'ne göre transit rejiminde varış gümrük idaresince yapılan kontrol ve muayene sonucunda tespit edilen beyana aykırılıklara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- Varış gümrük idaresince yapılan muayenede eşyanın miktar ve cins bakımından transit beyannamesine aykırı olduğu tespit edilmiştir.  
-- İhracatçı, aykırı çıkan kısmı ihraç etmekten vazgeçtiğini bildirmiştir.  
-- Aykırılığın Gümrük Kanunu'nun başka bir hükmünü veya 5607 sayılı Kaçakçılıkla Mücadele Kanununu ihlal etmediği anlaşılmıştır.  
-Gümrük Yönetmeliği'ne göre bu aykırılık için aşağıdakilerden hangisi uygulanır?  
-
-A) Aykırılığın mahrecinden kaynaklandığı 28 gün içinde ispat edilemezse eşyanın gümrük vergilerinin iki katı idari para cezası uygulanır.  
-B) Eşya sonradan ihraç edilsin veya edilmesin Gümrük Kanunu'ndaki usulsüzlük cezası uygulanır.  
-C) Aykırı çıkan kısım ihraç edilmeyeceğinden aykırılık için herhangi bir ceza uygulanmaz.  
-D) Aykırı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası uygulanır.  
-E) Aykırı çıkan kısma ilişkin gümrük vergileri kadar idari para cezası uygulanır ve eşya tasfiyeye tabi tutulur.  
+A) Eksiklik veya fazlalığın eşyanın tabiatı icabı Ek-11'de yer alan oranlarda olduğunun anlaşılması hâlinde, takibat yapılmaz ve işlemler varış gümrük idaresince tespit edilen miktar üzerinden sonuçlandırılır.  
+B) Varış gümrük idaresince yapılan muayenede miktar ve cins bakımından transit beyannamesine göre aykırı çıkan ihraç eşyası için Gümrük Kanunu'ndaki usulsüzlük cezası, ancak eşya sonradan ihraç edilmezse uygulanır.  
+C) Takibat gerektiren eksiklik veya fazlalıkta takibat ve varsa cezai işlem, eksiklik veya fazlalığın tamamı için değil, Ek-11'de belirtilen oranları aşan kısmı için uygulanır.  
+D) Serbest dolaşımda olmayan eşyada 'beyanda belirtilen cinsine uygun' ifadesinden, beyan edilen eşya ile tespit edilen eşyanın 6'lı tarife alt pozisyonunun aynı olması durumu anlaşılır.  
+E) Transit beyannamesine aykırı çıkan ihraç eşyasındaki aykırılığın 5607 sayılı Kaçakçılıkla Mücadele Kanununu da ihlal ettiği sonucuna varılırsa, ilgili hükümler uyarınca gerekli işlemler yapılır.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Vakadaki eşya serbest dolaşımdaki ihraç eşyasıdır; ulusal transit rejimi altında taşınan serbest dolaşımda olmayan eşya için öngörülen eksiklik ve fazlalık usulü bu eşyaya uygulanmaz. Gümrük Yönetmeliği'ne göre varış gümrük idaresince yapılan muayene neticesinde miktar ve cins bakımından transit beyannamesine göre aykırı çıkan ihraç eşyası için, sonradan ihraç edilsin veya edilmesin Kanunun 241 inci maddesi, yani usulsüzlük cezası hükmü uygulanır; aykırılık Kanunun diğer hükümlerini veya 5607 sayılı Kanunu da ihlal ediyorsa ayrıca ilgili hükümler uygulanır. İhracatçının aykırı kısmı ihraç etmekten vazgeçmesi sonucu değiştirmez. En güçlü çeldirici 28 günlük ispat süresi ile gümrük vergilerinin iki katı idari para cezasıdır; bu sonuç Türkiye Gümrük Bölgesine getirilerek ulusal transit rejimi altında taşınan serbest dolaşımda olmayan eşyaya aittir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 239, 242; GK 241)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre varış gümrük idaresince yapılan muayene neticesinde miktar ve cins bakımından transit beyannamesine göre aykırı çıkan ihraç eşyası için, sonradan ihraç edilsin veya edilmesin Gümrük Kanunu'nun usulsüzlük cezasına ilişkin hükmü uygulanır. Yanlış ifade, 'edilsin veya edilmesin' kaydını 'ancak ihraç edilmezse' biçimine çevirmiştir; eşyanın sonradan ihraç edilmesi cezayı ortadan kaldırmaz. Aykırılığın Kanunun diğer hükümlerini veya 5607 sayılı Kaçakçılıkla Mücadele Kanununu da ihlal ettiği sonucuna varılırsa ilgili hükümler uyarınca ayrıca gerekli işlemler yapılır. Serbest dolaşımda olmayan eşyada eksiklik veya fazlalığın eşyanın tabiatı icabı Ek-11'deki oranlarda olduğu anlaşılırsa takibat yapılmaz ve işlemler varış gümrük idaresince tespit edilen miktar üzerinden sonuçlandırılır; takibat gerektiren durumlarda takibat ve varsa cezai işlem yalnızca bu oranları aşan kısım için uygulanır. 'Beyanda belirtilen cinsine uygun' ifadesinden de beyan edilen ve tespit edilen eşyanın 6'lı tarife alt pozisyonunun aynı olması anlaşılır. En güçlü tuzak, sonradan ihraç edilen eşyada cezaya gerek kalmadığı sağduyusudur. Bu nedenle doğru cevap B seçeneğidir. (MD GY 241, 242; GK 241)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I, II ve IV, I ve III, I ve II) |
-| Vaka, uygulama, hesap | 2 |
-| Tuzaklar | KOMŞU 16, TERSİNE 8, TERİM 6, İSTİSNA 4, YAKIN-SAYI 4, BAŞLANGIÇ 3 |
+| Birebir / parafraz / çıkarım | 15 / 3 / 2 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I ve III, I ve II) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 16, TERİM 7, TERSİNE 7, YAKIN-SAYI 4, SAĞDUYU 3, BAŞLANGIÇ 3 |
 | İkiz eksen / ayna | 6, 12 / Ulusal↔ortak transitte eksiklik (A), Ulusal↔ortak transitte eksiklik (B) |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 10 |

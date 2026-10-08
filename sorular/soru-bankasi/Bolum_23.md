@@ -30,20 +30,13 @@ C) Başvuru yılından önceki iki takvim yılı
 D) Başvuru yılı ve bir önceki yıl  
 E) Başvuru tarihinden itibaren bir yıl  
 
-**4-** Bir havayolu şirketi, Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) kapsamında havayolu basitleştirmesi izni almak için 2026 yılında başvuruda bulunmuştur. Başvuru tarihi itibarıyla şirkete ilişkin bilgiler şöyledir:
+**4-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesi izni için başvuran havayolu şirketinin Gümrük Yönetmeliği'ndeki koşullara ilave olarak sağlaması gereken özel koşullara ilişkin aşağıdakilerden hangisi doğrudur?
 
-- İç ve Dış Hatlarda Tarifeli ve Tarifesiz Seferlerle Kargo Taşımacılığı Ruhsatına sahiptir.  
-- Bünyesinde 2 adet kargo uçağı ve 12 adet yolcu uçağı bulunmaktadır.  
-- 2025 ve 2026 yıllarında yurtiçi tarifeli seferlerle yolcu taşımacılığı yapmıştır.  
-- Manifesto ve konşimento kayıtlarını elektronik ortamda tutmakta olup hareket ve varış gümrük idarelerinin bu bilgilere anlık erişimi için gerekli altyapıya sahiptir.  
-- ISO 9001 sertifikasına sahiptir; ISO 27001 sertifikasının alınması için ise başvuru yapmış ve bunu belgelemiştir.  
-Buna göre Tebliğde düzenlenen özel koşullar bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) Bünyesindeki kargo uçağı sayısı asgari sınırın altında kaldığından özel koşullar sağlanmamaktadır.  
-B) ISO 27001 sertifikası başvuru tarihi itibarıyla alınmamış olduğundan özel koşullar sağlanmamaktadır.  
-C) Özel koşullar sağlanmaktadır; ISO 27001 sertifikasının bir örneği başvuru tarihinden itibaren bir yıl içerisinde Bakanlığa ibraz edilmelidir.  
-D) Özel koşullar sağlanmaktadır; ISO 27001 sertifikasının bir örneği başvuru tarihinden itibaren bir ay içerisinde Bakanlığa ibraz edilmelidir.  
-E) Kargo taşımacılığı ruhsatı tek başına yeterli olmadığından şirketin yolcu ve yük taşımacılığı ruhsatına da sahip olması gerekir.  
+A) Uçak sayısına ilişkin koşul, bünyede asgari 3 adet kargo uçağı ile asgari 10 adet yolcu uçağının birlikte bulundurulmasıyla sağlanır.  
+B) Ruhsat koşulu, Yolcu ve Yük Taşımacılığı Ruhsatı ile Kargo Taşımacılığı Ruhsatına birlikte sahip olunmasıyla sağlanır.  
+C) Uçak sayısına ilişkin koşul, bünyede asgari 3 adet kargo uçağı ya da asgari 10 adet yolcu uçağı bulundurulmasıyla sağlanır.  
+D) ISO 9001 ve ISO 27001 sertifikalarına başvuru tarihi itibarıyla sahip olunması zorunludur; sertifikalar için başvuru yapılmış olması bu koşulu karşılamaz.  
+E) Sertifikalar için başvuru yapıldığı tevsik edilmişse, sertifikaların birer örneği başvuru tarihinden itibaren bir ay içerisinde Bakanlığa ibraz edilir.  
 
 **5-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesi izni için başvuran havayolu şirketinin, Gümrük Yönetmeliği uyarınca ibraz edilecek belgelere ek olarak izin makamına sunması gereken belgeler arasında aşağıdakilerden hangisi yer almaz?
 
@@ -53,19 +46,13 @@ C) Şirketi temsile yetkili kişilerce imzalanmış, Ek-2'de yer alan beyan form
 D) Basitleştirme izni kapsamında taşıma yapılacak havalimanlarının listesi  
 E) Taşımalarda kullanılacak her bir hava taşıtının tescil belgesinin noter onaylı sureti  
 
-**6-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesi izninin kullanımı ve başvuruda sunulacak belgelere ilişkin aşağıdaki ifadeler verilmiştir:
+**6-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesi izninin kullanımı ve izin başvurusuna ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Basitleştirme izni, izin sahibinin kendi havayolu şirketine ait sefer kodu ile yurtdışından getirdiği eşyanın Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında kullanılabilir.  
-II. Basitleştirme izni, ihracat eşyasının Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında kullanılamaz.  
-III. Başvuruda sunulacak ISO 9001 ve ISO 27001 sertifikaları, Avrupa Akreditasyon Birliğinin karşılıklı tanıma anlaşmalarına imza atmış akreditasyon kurumlarınca akredite edilmiş uygunluk değerlendirme kuruluşlarınca düzenlenmiş ve akreditasyon kurumunun markasını taşıyan güncel sertifikalar olmalıdır.  
-IV. Başvuruda, sahip olunan taşımacılık ruhsatının Sivil Havacılık Genel Müdürlüğünce onaylanmış sureti sunulur.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve IV  
-C) I, III ve IV  
-D) I ve III  
-E) I, II, III ve IV  
+A) Basitleştirme izni, izin sahibinin kendi havayolu şirketine ait sefer kodu ile yurtdışından getirdiği eşyanın Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında kullanılabilir.  
+B) Başvuruda sunulacak ISO 9001 ve ISO 27001 sertifikaları, akreditasyon kurumunun markasını taşıyan güncel sertifikalar olmalıdır.  
+C) Başvuruda, sahip olunan taşımacılık ruhsatının noter onaylı sureti sunulur.  
+D) Basitleştirme izni, ihracat eşyasının Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında kullanılamaz.  
+E) Başvurunun reddi, gerekçesi de belirtilerek başvuru sahibine yazılı olarak bildirilir.  
 
 **7-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni kapsamında transit beyanı olarak gümrük idaresine iletilecek bilgilere ilişkin aşağıdaki ifadeler verilmiştir:
 
@@ -105,17 +92,13 @@ C) Serbest dolaşıma giriş beyannamesi kayıtları
 D) Transit refakat belgesi kayıtları  
 E) Transit beyanı kayıtları  
 
-**11-** İzin sahibi bir havayolu şirketi, kendi sefer koduyla yurtdışından İstanbul'daki giriş gümrük idaresine getirdiği ve Ankara'daki bir gümrük idaresine sevk edeceği serbest dolaşımda olmayan eşya için basitleştirme izni çerçevesinde işlem yapmak istemektedir. Olaya ilişkin bilgiler şöyledir:
+**11-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre Türkiye Gümrük Bölgesine havayoluyla getirilen ve giriş gümrük idaresinden bölge içindeki başka bir gümrük idaresine sevk edilecek eşyaya ilişkin olarak basitleştirme izni çerçevesinde işlem yapılabilmesi için, transit beyanı sayılan bilgilerin gümrük idaresinin sistemine iletilme süresi ve bu sürenin aşılmasının sonucu aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-- Giriş özet beyanda eşyanın başka bir gümrük idaresine sevk edileceğine ilişkin bilgiye yer verilmiş ve özet beyan 3 Mart 2026 günü saat 09.00'da verilmiştir.  
-- Transit beyanı olarak kabul edilen bilgiler, gümrük idaresinin sistemine 7 Mart 2026 günü saat 11.00'de iletilmiştir.  
-Buna göre Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) hükümleri çerçevesinde aşağıdakilerden hangisi doğrudur?  
-
-A) Süre aşıldığından eşya geçici depolama yerine alınır ve varış gümrük idaresine sevki ulusal transit rejimi çerçevesinde transit beyanı ile gerçekleştirilir.  
-B) Bilgiler dört gün içinde iletildiğinden işlemler, eşya geçici depolama yerine alınmaksızın basitleştirme izni çerçevesinde gerçekleştirilir.  
-C) Süre aşıldığından eşya geçici depolama yerine alınır; ancak varış gümrük idaresine sevki basitleştirme izni çerçevesinde kayıt numarası üzerinden yapılır.  
-D) Süre aşıldığından izin sahibi yazılı olarak uyarılır ve işlemler eşya geçici depolama yerine alınmaksızın sürdürülür.  
-E) Bilgilerin hava taşıtının kalkışına kadar iletilmesi yeterli olduğundan süre aşımı söz konusu değildir ve işlemler eşya geçici depolama yerine alınmaksızın yürütülür.  
+A) Giriş özet beyanın verildiği tarihten itibaren 96 saat içinde; süre aşılırsa eşya geçici depolama yerine alınır.  
+B) Hava taşıtının varış havalimanına ulaştığı andan itibaren 96 saat içinde; süre aşılırsa eşya geçici depolama yerine alınır.  
+C) Giriş özet beyanın verildiği tarihten itibaren 10 gün içinde; süre aşılırsa eşya geçici depolama yerine alınır.  
+D) Giriş özet beyanın verildiği tarihten itibaren 96 saat içinde; süre aşılırsa izin sahibi yazılı olarak uyarılır.  
+E) Giriş özet beyanın verildiği tarihten itibaren 96 saat içinde; süre aşılırsa eşya tasfiyeye tabi tutulur.  
 
 **12-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni kapsamında geçici depolama yerine alınmaksızın varış gümrük idaresine sevk edilmesi planlanan eşyaya ilişkin giriş özet beyanda “ambar harici” olarak belirtilen taşıma senetlerinde, eşyanın geçici depolama yerine alınmasının gerekmesi durumunda nasıl işlem yapılır?
 
@@ -125,19 +108,13 @@ C) Usulsüzlük cezası uygulanmaksızın sistemde gümrük idaresince gerekli d
 D) İzin sahibi yazılı olarak uyarılır ve taşıma senedindeki kayıt düzeltilmeksizin eşya geçici depolama yerine alınır.  
 E) Taşıma senedindeki kayıt düzeltilmeksizin eşya geçici depolama yerine alınır ve Kanunun tasfiye hükümleri uygulanır.  
 
-**13-** Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu ile yapılan transit taşımalarına ilişkin aşağıdaki ifadeler verilmiştir:
+**13-** Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu ile yapılan transit taşımalarına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Havayolu ile yapılan transit taşımalarında teminat aranmaz.  
-II. Havayolu ile yapılan taşımalarda, gümrük idaresince gerekli görülen haller dışında mühürleme yapılmaz.  
-III. Basitleştirme izni kapsamında taşıma yapan havayolu şirketi rejim hak sahibi olmaz; taşıma işlemleri için rejim hak sahibi eşyanın alıcısıdır.  
-IV. Basitleştirme izni kapsamında transit beyanı sayılan bilgilerin hava taşıtının kalkışı öncesinde sisteme iletilmesi halinde, eşyanın varış gümrük idaresine sunulmuş olduğu kabul edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve IV  
-D) I, II, III ve IV  
-E) I ve II  
+A) Havayolu ile yapılan transit taşımalarında teminat aranmaz.  
+B) Havayolu ile yapılan taşımalarda, gümrük idaresince gerekli görülen hâller dışında mühürleme yapılmaz.  
+C) Basitleştirme izni kapsamında taşıma yapan havayolu şirketi, taşıma işlemleri için rejim hak sahibi olur.  
+D) Bilgilerin sisteme iletilmiş olması koşuluyla, hava taşıtı varış havalimanına ulaştığında eşyanın varış gümrük idaresine sunulmuş olduğu ve transit işleminin sonlandırıldığı kabul edilir.  
+E) Basitleştirme izni kapsamında transit beyanı sayılan bilgilerin hava taşıtının kalkışı öncesinde sisteme iletilmesi hâlinde, eşyanın varış gümrük idaresine sunulmuş olduğu kabul edilir.  
 
 **14-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre varış gümrük idaresinde yapılacak işlemlere ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -255,23 +232,16 @@ E) Başvuru tarihinden itibaren bir yıl
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 4*
 
-**4-** Bir havayolu şirketi, Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) kapsamında havayolu basitleştirmesi izni almak için 2026 yılında başvuruda bulunmuştur. Başvuru tarihi itibarıyla şirkete ilişkin bilgiler şöyledir:
+**4-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesi izni için başvuran havayolu şirketinin Gümrük Yönetmeliği'ndeki koşullara ilave olarak sağlaması gereken özel koşullara ilişkin aşağıdakilerden hangisi doğrudur?
 
-- İç ve Dış Hatlarda Tarifeli ve Tarifesiz Seferlerle Kargo Taşımacılığı Ruhsatına sahiptir.  
-- Bünyesinde 2 adet kargo uçağı ve 12 adet yolcu uçağı bulunmaktadır.  
-- 2025 ve 2026 yıllarında yurtiçi tarifeli seferlerle yolcu taşımacılığı yapmıştır.  
-- Manifesto ve konşimento kayıtlarını elektronik ortamda tutmakta olup hareket ve varış gümrük idarelerinin bu bilgilere anlık erişimi için gerekli altyapıya sahiptir.  
-- ISO 9001 sertifikasına sahiptir; ISO 27001 sertifikasının alınması için ise başvuru yapmış ve bunu belgelemiştir.  
-Buna göre Tebliğde düzenlenen özel koşullar bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) Bünyesindeki kargo uçağı sayısı asgari sınırın altında kaldığından özel koşullar sağlanmamaktadır.  
-B) ISO 27001 sertifikası başvuru tarihi itibarıyla alınmamış olduğundan özel koşullar sağlanmamaktadır.  
-C) Özel koşullar sağlanmaktadır; ISO 27001 sertifikasının bir örneği başvuru tarihinden itibaren bir yıl içerisinde Bakanlığa ibraz edilmelidir.  
-D) Özel koşullar sağlanmaktadır; ISO 27001 sertifikasının bir örneği başvuru tarihinden itibaren bir ay içerisinde Bakanlığa ibraz edilmelidir.  
-E) Kargo taşımacılığı ruhsatı tek başına yeterli olmadığından şirketin yolcu ve yük taşımacılığı ruhsatına da sahip olması gerekir.  
+A) Uçak sayısına ilişkin koşul, bünyede asgari 3 adet kargo uçağı ile asgari 10 adet yolcu uçağının birlikte bulundurulmasıyla sağlanır.  
+B) Ruhsat koşulu, Yolcu ve Yük Taşımacılığı Ruhsatı ile Kargo Taşımacılığı Ruhsatına birlikte sahip olunmasıyla sağlanır.  
+C) Uçak sayısına ilişkin koşul, bünyede asgari 3 adet kargo uçağı ya da asgari 10 adet yolcu uçağı bulundurulmasıyla sağlanır.  
+D) ISO 9001 ve ISO 27001 sertifikalarına başvuru tarihi itibarıyla sahip olunması zorunludur; sertifikalar için başvuru yapılmış olması bu koşulu karşılamaz.  
+E) Sertifikalar için başvuru yapıldığı tevsik edilmişse, sertifikaların birer örneği başvuru tarihinden itibaren bir ay içerisinde Bakanlığa ibraz edilir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesi izni isteyen şirket, Yönetmelikteki koşullara ilave olarak üç özel koşulu sağlar. Birincisi; yolcu ve yük taşımacılığı ya da kargo taşımacılığı ruhsatlarından birine sahip olmak, bünyesinde asgari 3 kargo uçağı ya da asgari 10 yolcu uçağı bulundurmak ve başvuru yılı ile bir önceki yıl içinde yurtiçi tarifeli seferlerle yolcu ya da kargo taşımacılığı yapmış olmaktır. İkincisi, manifesto ve konşimento kayıtlarını elektronik ortamda tutmak ve hareket ve varış idarelerinin anlık erişimine uygun altyapıya sahip olmaktır. Üçüncüsü, ISO 9001 ve ISO 27001 sertifikalarına sahip olmak ya da sertifikalar için başvuru yapıldığını tevsik edip sertifikaların birer örneğini başvuru tarihinden itibaren bir yıl içinde Bakanlığa ibraz etmektir. Olaydaki şirketin kargo uçağı sayısı 3'ün altındadır; ancak uçak koşulu seçimlidir ve 12 yolcu uçağı asgari 10 sınırını karşılar. Kargo taşımacılığı ruhsatı, iki ruhsattan biri olarak tek başına yeterlidir. ISO 27001 için başvuru yapıldığı belgelendiğinden koşul sağlanır; sertifika örneği ise bir yıl içinde Bakanlığa sunulmalıdır. En güçlü çeldirici kargo uçağı sayısına dayanan seçenektir; vakada saklanan istisna, uçak koşulundaki 'ya da' bağlacıdır. Bir aylık süre, başvuruya eklenecek adli sicil kayıtlarının alınma süresidir. Bu nedenle doğru cevap C seçeneğidir. (MD 4)
+**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesi izni isteyen şirket, Yönetmelikteki koşullara ilave olarak üç özel koşulu sağlar. Birincisi; İç ve Dış Hatlarda Tarifeli ve Tarifesiz Seferlerle Yolcu ve Yük Taşımacılığı ya da Kargo Taşımacılığı ruhsatlarından birine sahip olmak, bünyesinde asgari 3 adet kargo uçağı ya da asgari 10 adet yolcu uçağı bulundurmak ve başvuru yılı ile bir önceki yıl içinde yurtiçi tarifeli seferlerle yolcu ya da kargo taşımacılığı yapmış olmaktır. İkincisi, manifesto ve konşimento kayıtlarını elektronik ortamda tutmak ve hareket ve varış idarelerinin anlık erişimine uygun altyapıya sahip olmaktır. Üçüncüsü, ISO 9001 ve ISO 27001 sertifikalarına sahip olmak ya da sertifikalar için başvuru yapıldığını tevsik edip sertifikaların birer örneğini başvuru tarihinden itibaren bir yıl içinde Bakanlığa ibraz etmektir. Uçak ve ruhsat koşullarında 'ya da' bağlacı kullanıldığından iki seçenekten birinin karşılanması yeterlidir; 'birlikte' arayan seçenekler koşulu ağırlaştırır. Sertifika koşulu da seçimlidir: başvurunun tevsiki yeterlidir. Bir ay, başvuruya eklenecek adli sicil kayıtlarının alınmış olması gereken süredir; sertifika örnekleri için süre bir yıldır. En güçlü çeldirici iki uçak türünü birlikte arayan seçenektir: tek kelimenin ('ya da' yerine 'ile') değişmesi koşulun niteliğini değiştirir. Bu nedenle doğru cevap C seçeneğidir. (MD 4)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 4*
 
@@ -284,26 +254,20 @@ D) Basitleştirme izni kapsamında taşıma yapılacak havalimanlarının listes
 E) Taşımalarda kullanılacak her bir hava taşıtının tescil belgesinin noter onaylı sureti  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre başvuru sahibi, Yönetmelik uyarınca ibraz edilecek belgelere ek olarak izin makamına şunları sunar: Ek-1'deki başvuru formu, ticaret sicil bilgilerini içeren liste, yönetim kurulu üyeleri ile ortakların ve temsil yetkili çalışanların adli sicil kayıtları, Ek-2'deki beyan formu, taşımacılık ruhsatının noter onaylı sureti, uçak sayısını ve yurtiçi tarifeli seferleri kanıtlayan Sivil Havacılık Genel Müdürlüğü yazısı, ISO sertifikaları ve taşıma yapılacak havalimanlarının listesi. Bünyedeki uçak sayısı tek tek hava taşıtlarının tescil belgeleriyle değil, Sivil Havacılık Genel Müdürlüğünden alınan yazıyla kanıtlanır; listede noter onaylı suret yalnızca ruhsat için istenir. En güçlü çeldirici Sivil Havacılık Genel Müdürlüğü yazısıdır: tescil belgesi seçeneği bu yazının yerine geçecek gibi görünen, sağduyuya dayalı bir unsurdur. Bu nedenle doğru cevap E seçeneğidir. (MD 4)
+**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre başvuru sahibi, Yönetmelik uyarınca ibraz edilecek belgelere ek olarak izin makamına şunları sunar: Ek-1'deki başvuru formu, ticaret sicil bilgilerini içeren liste, yönetim kurulu üyeleri, sermayesinin yüzde onundan fazlasına sahip gerçek kişiler ile temsil yetkili çalışanların adli sicil kayıtları, Ek-2'deki beyan formu, taşımacılık ruhsatının noter onaylı sureti, uçak sayısını ve yurtiçi tarifeli seferleri kanıtlayan Sivil Havacılık Genel Müdürlüğü yazısı, ISO sertifikaları ve taşıma yapılacak havalimanlarının listesi. Bünyedeki uçak sayısı tek tek hava taşıtlarının tescil belgeleriyle değil, Sivil Havacılık Genel Müdürlüğünden alınan yazıyla kanıtlanır; listede noter onaylı suret yalnızca ruhsat için istenir. En güçlü çeldirici Sivil Havacılık Genel Müdürlüğü yazısıdır: tescil belgesi seçeneği bu yazının yerine geçecek gibi görünen, sağduyuya dayalı bir unsurdur. Bu nedenle doğru cevap E seçeneğidir. (MD 4)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 4, 6*
 
-**6-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesi izninin kullanımı ve başvuruda sunulacak belgelere ilişkin aşağıdaki ifadeler verilmiştir:
+**6-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu basitleştirmesi izninin kullanımı ve izin başvurusuna ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Basitleştirme izni, izin sahibinin kendi havayolu şirketine ait sefer kodu ile yurtdışından getirdiği eşyanın Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında kullanılabilir.  
-II. Basitleştirme izni, ihracat eşyasının Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında kullanılamaz.  
-III. Başvuruda sunulacak ISO 9001 ve ISO 27001 sertifikaları, Avrupa Akreditasyon Birliğinin karşılıklı tanıma anlaşmalarına imza atmış akreditasyon kurumlarınca akredite edilmiş uygunluk değerlendirme kuruluşlarınca düzenlenmiş ve akreditasyon kurumunun markasını taşıyan güncel sertifikalar olmalıdır.  
-IV. Başvuruda, sahip olunan taşımacılık ruhsatının Sivil Havacılık Genel Müdürlüğünce onaylanmış sureti sunulur.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve IV  
-C) I, III ve IV  
-D) I ve III  
-E) I, II, III ve IV  
+A) Basitleştirme izni, izin sahibinin kendi havayolu şirketine ait sefer kodu ile yurtdışından getirdiği eşyanın Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında kullanılabilir.  
+B) Başvuruda sunulacak ISO 9001 ve ISO 27001 sertifikaları, akreditasyon kurumunun markasını taşıyan güncel sertifikalar olmalıdır.  
+C) Başvuruda, sahip olunan taşımacılık ruhsatının noter onaylı sureti sunulur.  
+D) Basitleştirme izni, ihracat eşyasının Türkiye Gümrük Bölgesi içerisindeki iki gümrük idaresi arasında taşınmasında kullanılamaz.  
+E) Başvurunun reddi, gerekçesi de belirtilerek başvuru sahibine yazılı olarak bildirilir.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni, izin sahibinin kendi havayolu şirketine ait sefer kodu ile yurtdışından Türkiye Gümrük Bölgesine getirdiği eşyanın bölge içindeki iki gümrük idaresi arasında taşınmasında ve ihracat eşyasının yine izin sahibinin kendi sefer kodu ile bölge içindeki iki gümrük idaresi arasında taşınmasında kullanılabilir. Bu nedenle I doğru, ihracat eşyasını dışarıda bırakan II yanlıştır. Başvuruda; Avrupa Akreditasyon Birliğinin karşılıklı tanıma anlaşmalarına imza atmış akreditasyon kurumlarınca akredite edilmiş uygunluk değerlendirme kuruluşlarınca düzenlenen ve akreditasyon kurumunun markasını taşıyan güncel ISO 9001 ve ISO 27001 sertifikalarının aslı veya onaylı örneği ya da sertifikalar için başvuru yapıldığına ilişkin belgeler sunulur; III doğrudur. Taşımacılık ruhsatı ise noter onaylı suretiyle sunulur; Sivil Havacılık Genel Müdürlüğünden alınan yazı ruhsatın onayı için değil, uçak sayısı ile yurtiçi tarifeli seferlerin kanıtlanması için istenir; IV yanlıştır. En güçlü çeldiriciler II'yi içeren seçeneklerdir: izin yalnız yurtdışından getirilen eşya için değil, ihracat eşyası için de kullanılabilir. Bu nedenle doğru cevap D seçeneğidir. (MD 4, 6)
+**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni, izin sahibinin kendi havayolu şirketine ait sefer kodu ile yurtdışından Türkiye Gümrük Bölgesine getirdiği eşyanın bölge içindeki iki gümrük idaresi arasında taşınmasında ve ihracat eşyasının yine izin sahibinin kendi sefer kodu ile bölge içindeki iki gümrük idaresi arasında taşınmasında kullanılabilir; ihracat eşyasını dışarıda bırakan ifade yanlıştır. Diğer ifadeler metinle uyumludur: başvuruda Avrupa Akreditasyon Birliğinin karşılıklı tanıma anlaşmalarına imza atmış akreditasyon kurumlarınca akredite edilmiş uygunluk değerlendirme kuruluşlarınca düzenlenen ve akreditasyon kurumunun markasını taşıyan güncel ISO 9001 ve ISO 27001 sertifikaları (ya da sertifika başvurusuna ilişkin belgeler) sunulur; taşımacılık ruhsatı noter onaylı suretiyle sunulur; başvurunun reddi yazılı olarak bildirilir ve gerekçesi de belirtilir. En güçlü çeldirici ruhsatın noter onaylı suretidir: Sivil Havacılık Genel Müdürlüğünden alınan yazı ruhsatın onayı için değil, uçak sayısı ile yurtiçi tarifeli seferlerin kanıtlanması için istendiğinden ruhsat suretinin de bu kurumca onaylanacağı sanılabilir. Bu nedenle doğru cevap D seçeneğidir. (MD 4, 6)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 7*
 
@@ -348,7 +312,7 @@ D) Eşyanın taşındığı konteynerin numarası
 E) Eşyanın tanınması için gerekli tüm bilgileri içeren normal ticari tanımı  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre izin sahibi, gümrük idaresince talep edilmesi halinde belirli bir tarih aralığındaki işlemlere ilişkin bilgileri liste halinde ibraz eder. Listede transit beyanı olarak iletilen bilgilere ek olarak her bir konşimento için asgari olarak alıcı, gönderici, kap adedi, eşyanın tanınması için gerekli tüm bilgileri içeren normal ticari tanımı ve brüt ağırlık yer alır. Konteyner numarası havayolu listesinde sayılmamıştır; bu bilgi, konteynerle taşınan eşyanın deniz limanları arasında taşınmasını düzenleyen denizyolu basitleştirmesi Tebliğindeki listeye eklenmiştir. En güçlü çeldirici budur: iki Tebliğin listeleri büyük ölçüde aynı olduğu için denizyolundaki ek unsur havayoluna taşınabilir. Bu nedenle doğru cevap D seçeneğidir. (MD 7)
+**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre izin sahibi, gümrük idaresince talep edilmesi halinde belirli bir tarih aralığındaki işlemlere ilişkin bilgileri liste halinde ibraz eder. Listede transit beyanı olarak iletilen bilgilere ek olarak her bir konşimento için asgari olarak alıcı, gönderici, kap adedi, eşyanın tanınması için gerekli tüm bilgileri içeren normal ticari tanımı ve brüt ağırlık yer alır. Konteyner numarası havayolu listesinde sayılmamıştır; bu bilgi, konteynerle taşınan eşyanın deniz limanları arasında taşınmasını düzenleyen denizyolu basitleştirmesi Tebliğindeki listeye eklenmiştir. Tuzak budur: iki Tebliğin listeleri büyük ölçüde aynı olduğu için denizyolundaki ek unsur havayoluna taşınabilir. Bu nedenle doğru cevap D seçeneğidir. (MD 7)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 8*
 
@@ -365,20 +329,16 @@ E) Transit beyanı kayıtları
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 8*
 
-**11-** İzin sahibi bir havayolu şirketi, kendi sefer koduyla yurtdışından İstanbul'daki giriş gümrük idaresine getirdiği ve Ankara'daki bir gümrük idaresine sevk edeceği serbest dolaşımda olmayan eşya için basitleştirme izni çerçevesinde işlem yapmak istemektedir. Olaya ilişkin bilgiler şöyledir:
+**11-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre Türkiye Gümrük Bölgesine havayoluyla getirilen ve giriş gümrük idaresinden bölge içindeki başka bir gümrük idaresine sevk edilecek eşyaya ilişkin olarak basitleştirme izni çerçevesinde işlem yapılabilmesi için, transit beyanı sayılan bilgilerin gümrük idaresinin sistemine iletilme süresi ve bu sürenin aşılmasının sonucu aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-- Giriş özet beyanda eşyanın başka bir gümrük idaresine sevk edileceğine ilişkin bilgiye yer verilmiş ve özet beyan 3 Mart 2026 günü saat 09.00'da verilmiştir.  
-- Transit beyanı olarak kabul edilen bilgiler, gümrük idaresinin sistemine 7 Mart 2026 günü saat 11.00'de iletilmiştir.  
-Buna göre Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) hükümleri çerçevesinde aşağıdakilerden hangisi doğrudur?  
-
-A) Süre aşıldığından eşya geçici depolama yerine alınır ve varış gümrük idaresine sevki ulusal transit rejimi çerçevesinde transit beyanı ile gerçekleştirilir.  
-B) Bilgiler dört gün içinde iletildiğinden işlemler, eşya geçici depolama yerine alınmaksızın basitleştirme izni çerçevesinde gerçekleştirilir.  
-C) Süre aşıldığından eşya geçici depolama yerine alınır; ancak varış gümrük idaresine sevki basitleştirme izni çerçevesinde kayıt numarası üzerinden yapılır.  
-D) Süre aşıldığından izin sahibi yazılı olarak uyarılır ve işlemler eşya geçici depolama yerine alınmaksızın sürdürülür.  
-E) Bilgilerin hava taşıtının kalkışına kadar iletilmesi yeterli olduğundan süre aşımı söz konusu değildir ve işlemler eşya geçici depolama yerine alınmaksızın yürütülür.  
+A) Giriş özet beyanın verildiği tarihten itibaren 96 saat içinde; süre aşılırsa eşya geçici depolama yerine alınır.  
+B) Hava taşıtının varış havalimanına ulaştığı andan itibaren 96 saat içinde; süre aşılırsa eşya geçici depolama yerine alınır.  
+C) Giriş özet beyanın verildiği tarihten itibaren 10 gün içinde; süre aşılırsa eşya geçici depolama yerine alınır.  
+D) Giriş özet beyanın verildiği tarihten itibaren 96 saat içinde; süre aşılırsa izin sahibi yazılı olarak uyarılır.  
+E) Giriş özet beyanın verildiği tarihten itibaren 96 saat içinde; süre aşılırsa eşya tasfiyeye tabi tutulur.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre Türkiye Gümrük Bölgesine havayoluyla getirilen ve giriş gümrük idaresinden bölge içindeki başka bir gümrük idaresine sevk edilecek eşyada basitleştirme izni çerçevesinde işlem yapılabilmesi için transit beyanı sayılan bilgiler, giriş özet beyanın verildiği tarihten itibaren 96 saat içinde gümrük idaresinin sistemine iletilir; bu durumda işlemler eşya geçici depolama yerine alınmaksızın yürütülür. Olayda özet beyan 3 Mart saat 09.00'da verilmiş, bilgiler 7 Mart saat 11.00'de iletilmiştir. Geçen süre 98 saattir ve 96 saatlik süre aşılmıştır. Süre aşılınca eşya geçici depolama yerine alınır ve geçici depolama yerine alınan eşyanın varış gümrük idaresine sevki ulusal transit rejimi çerçevesinde transit beyanı ile gerçekleştirilir. En güçlü çeldirici 'dört gün' yaklaşımıdır: süre gün olarak değil saat olarak ve özet beyanın verildiği andan itibaren hesaplanır. Taşıtın kalkışına kadar iletim, bilgilerin hareket ve varış idarelerine ulaştırılması için öngörülen ayrı bir sınırdır; giriş özet beyanından itibaren işleyen 96 saatlik süreyi ortadan kaldırmaz. Yazılı uyarı ise Tebliğ hükümlerine aykırılıkta askıya almadan önce izin sahibine uygulanan aşamadır. Bu nedenle doğru cevap A seçeneğidir. (MD 8)
+**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre Türkiye Gümrük Bölgesine havayoluyla getirilen ve giriş gümrük idaresinden bölge içindeki başka bir gümrük idaresine sevk edilecek eşyada basitleştirme izni çerçevesinde işlem yapılabilmesi için transit beyanı sayılan bilgiler, giriş özet beyanın verildiği tarihten itibaren 96 saat içinde gümrük idaresinin sistemine iletilir; bu durumda işlemler eşya geçici depolama yerine alınmaksızın yürütülür. Sürenin aşılması hâlinde eşya geçici depolama yerine alınır ve geçici depolama yerine alınan eşyanın varış gümrük idaresine sevki ulusal transit rejimi çerçevesinde transit beyanı ile gerçekleştirilir. Süre saat olarak ve giriş özet beyanın verildiği andan işler; taşıtın varış havalimanına ulaşması ise varış gümrük idaresinde transit işleminin sonlandırılmış sayıldığı andır. On gün, kap adedi eksik çıkan eşyanın başka bir hava taşıtıyla getirilmesi için öngörülen süredir. Yazılı uyarı Tebliğ hükümlerine aykırılıkta askıya almadan önceki aşama, tasfiye ise sebebi süresinde ispat edilemeyen fazla kapların sonucudur. En güçlü çeldirici süreyi taşıtın varışından başlatan seçenektir. Bu nedenle doğru cevap A seçeneğidir. (MD 8, 9, 10)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 8*
 
@@ -393,24 +353,18 @@ E) Taşıma senedindeki kayıt düzeltilmeksizin eşya geçici depolama yerine a
 **Doğru Cevap:** C  
 **Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni kapsamında geçici depolama yerine alınmaksızın varış gümrük idaresine sevk edilmesi planlanan eşyaya ilişkin giriş özet beyanda “ambar harici” olarak belirtilen taşıma senetlerinde, eşyanın geçici depolama yerine alınmasının gerekmesi durumunda Gümrük Kanunu'nun usulsüzlük cezasına ilişkin hükmü uygulanmaksızın sistemde gümrük idaresince gerekli düzeltme yapılır. Bu şekilde geçici depolama yerine alınan eşyanın varış gümrük idaresine sevki ulusal transit rejimi çerçevesinde transit beyanı ile gerçekleştirilir. Kayıt numarası kullanılarak taşıtın varış havalimanına varışına kadar yapılan değişiklik, izin sahibinin sisteme ilettiği transit beyanı bilgilerine ilişkindir; düzeltmeyi bu hükümde gümrük idaresi yapar. Yazılı uyarı Tebliğ hükümlerine aykırılığa, tasfiye ise süresinde sebebi ispat edilemeyen fazla kaplara bağlanmış sonuçlardır. En güçlü çeldirici usulsüzlük cezasını uygulayan seçenektir; Tebliğ, geçici depolamaya alınma zorunluluğunu cezaya konu etmemiştir. Bu nedenle doğru cevap C seçeneğidir. (MD 8)
 
-*Gümrük Yönetmeliği md. 222, 223; Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 8*
+*Gümrük Yönetmeliği md. 222, 223; Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 8, 9*
 
-**13-** Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu ile yapılan transit taşımalarına ilişkin aşağıdaki ifadeler verilmiştir:
+**13-** Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre havayolu ile yapılan transit taşımalarına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Havayolu ile yapılan transit taşımalarında teminat aranmaz.  
-II. Havayolu ile yapılan taşımalarda, gümrük idaresince gerekli görülen haller dışında mühürleme yapılmaz.  
-III. Basitleştirme izni kapsamında taşıma yapan havayolu şirketi rejim hak sahibi olmaz; taşıma işlemleri için rejim hak sahibi eşyanın alıcısıdır.  
-IV. Basitleştirme izni kapsamında transit beyanı sayılan bilgilerin hava taşıtının kalkışı öncesinde sisteme iletilmesi halinde, eşyanın varış gümrük idaresine sunulmuş olduğu kabul edilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve IV  
-D) I, II, III ve IV  
-E) I ve II  
+A) Havayolu ile yapılan transit taşımalarında teminat aranmaz.  
+B) Havayolu ile yapılan taşımalarda, gümrük idaresince gerekli görülen hâller dışında mühürleme yapılmaz.  
+C) Basitleştirme izni kapsamında taşıma yapan havayolu şirketi, taşıma işlemleri için rejim hak sahibi olur.  
+D) Bilgilerin sisteme iletilmiş olması koşuluyla, hava taşıtı varış havalimanına ulaştığında eşyanın varış gümrük idaresine sunulmuş olduğu ve transit işleminin sonlandırıldığı kabul edilir.  
+E) Basitleştirme izni kapsamında transit beyanı sayılan bilgilerin hava taşıtının kalkışı öncesinde sisteme iletilmesi hâlinde, eşyanın varış gümrük idaresine sunulmuş olduğu kabul edilir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre transit rejiminde teminat kural olarak zorunludur; ancak havayolu, boru hattı, denizyolu ve basitleştirilmiş usulde demiryolu ile yapılan taşımalarda teminat aranmaz; I doğrudur. Yönetmelik ayniyetin genel kural olarak mühürlemeyle sağlanacağını belirtir; denizyolu ve havayolu ile yapılan taşımalarda ise gümrük idaresince gerekli görülen haller dışında mühürleme yapılmaz; II doğrudur. Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni kapsamında taşıma yapan havayolu şirketi, taşıma işlemleri için rejim hak sahibi olur; III yanlıştır. Transit beyanı sayılan bilgilerin hava taşıtının kalkışı öncesinde sisteme iletilmesi halinde eşyanın varış idaresine değil hareket gümrük idaresine sunulmuş olduğu kabul edilir; IV yanlıştır. En güçlü çeldirici 'I, II ve IV' seçeneğidir: IV'te tek kelime değiştirilmiş, hareket idaresi yerine varış idaresi yazılmıştır. Bu nedenle doğru cevap E seçeneğidir. (MD 8; GY 222, 223)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre transit rejiminde teminat kural olarak zorunludur; ancak havayolu, boru hattı, denizyolu ve basitleştirilmiş usulde demiryolu ile yapılan taşımalarda teminat aranmaz. Yönetmelik ayniyetin genel kural olarak mühürlemeyle sağlanacağını belirtir; denizyolu ve havayolu ile yapılan taşımalarda ise gümrük idaresince gerekli görülen hâller dışında mühürleme yapılmaz. Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5)'e göre basitleştirme izni kapsamında taşıma yapan havayolu şirketi taşıma işlemleri için rejim hak sahibi olur. Transit beyanı sayılan bilgilerin hava taşıtının kalkışı öncesinde sisteme iletilmesi hâlinde eşya varış idaresine değil, hareket gümrük idaresine sunulmuş sayılır; varış gümrük idaresine sunulmuş olma ve transit işleminin sonlandırılması ise bilgilerin iletilmiş olması koşuluyla hava taşıtının varış havalimanına ulaşmasına bağlanmıştır. Yanlış ifadede tek kelime değiştirilmiş, 'hareket' yerine 'varış' yazılmıştır. En güçlü çeldirici teminat aranmadığını söyleyen ifadedir: transit rejiminde teminatın kural olarak zorunlu olduğunu bilen aday havayolu istisnasını gözden kaçırabilir. Bu nedenle doğru cevap E seçeneğidir. (MD 8, 9; GY 222, 223)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 5) md. 9*
 
@@ -518,11 +472,11 @@ E) İzin kapsamındaki işlemlere ait manifesto ve konşimentoların gümrük id
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 4 (I ve III, II, III ve IV, I ve II, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 18, TERİM 6, TERSİNE 4, UNSUR 3, ŞART 3, İSTİSNA 3 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (II, III ve IV, II ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 18, TERİM 5, TERSİNE 5, UNSUR 3, ŞART 3, YAKIN-SAYI 3 |
 | İkiz eksen / ayna | — / eksik-fazla |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 2 |

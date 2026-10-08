@@ -92,43 +92,29 @@ C) Elkoyma tarihinden itibaren bir ay içinde adli mercilerce karar bildirilmeme
 D) Tasfiye kararının talep edildiği tarihten itibaren altı ay içinde adli mercilerce karar bildirilmemesi hâlinde eşya imha edilir.  
 E) Adli mercilerce süresinde karar bildirilmemesi hâlinde eşya, numune alınmaksızın derhal imha edilir.  
 
-**11-** Kaçakçılığı önleme, izleme ve araştırmakla görevli bir birim, 3 Mart tarihinde ambalajlarında kamu kurumlarınca uygulanan bandrol bulunan 400 şişe alkollü içkiye 5607 sayılı Kanun uyarınca el koymuş ve soruşturma aşamasında hâkimden imhası yapılmak üzere tasfiye kararı verilmesini talep etmiştir. Elkoyan birimce Tarım ve Orman Bakanlığına yaptırılan değerlendirme sonucunda 20 Nisan tarihinde eşya için "uygun değildir" raporu verilmiştir. Bu tarih itibarıyla adli mercilerce herhangi bir karar bildirilmemiştir.
-
-5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre bu eşya hakkında yapılacak işlem aşağıdakilerden hangisidir?  
+**11-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre, ambalajlarında kamu kurumlarınca uygulanan bandrol bulunan alkollü içkilerden elkoyan birimlerce Tarım ve Orman Bakanlığına yaptırılan değerlendirme sonucunda "uygun değildir" raporu verilenler hakkında aşağıdakilerden hangisi uygulanır?
 
 A) Eşya, elkoyma tarihinden itibaren altı ay dolana kadar muhafaza edilir; bu süre içinde adli mercilerce karar bildirilmezse numune alınarak imha edilir.  
-B) Rapor tarihinden itibaren bir ay içinde hâkim kararı beklenir; karar bildirilmezse eşya numune alınmaksızın imha edilir.  
-C) Eşya, rapor üzerine Tarım ve Orman Bakanlığının ilgili birimlerine teslim edilir.  
-D) Eşyanın imhası için kovuşturma aşamasına geçilmesi ve müdahil idarece mahkemeden tasfiye kararı talep edilmesi gerekir.  
-E) Elkoyma tarihinden itibaren altı ayın dolması ve adli merci kararı beklenmeksizin, Yönetmelikte belirtilen miktarlarda numune alınarak eşya imha edilir.  
+B) Rapor tarihinden itibaren bir ay içinde hâkim kararı beklenir; karar bildirilmezse numune alınmaksızın imha edilir.  
+C) Rapor üzerine Tarım ve Orman Bakanlığının ilgili birimlerine teslim edilir.  
+D) İmhası için kovuşturma aşamasına geçilmesi ve müdahil idarece mahkemeden tasfiye kararı talep edilmesi gerekir.  
+E) Elkoyma tarihinden itibaren altı ayın dolması ve adli merci kararı beklenmeksizin, Yönetmelikte belirtilen miktarlarda numune alınarak imha edilir.  
 
-**12-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'nin imha veya bertaraf işlemlerine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**12-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'nin imha veya bertaraf işlemlerine ilişkin hükümlerine göre aşağıdakilerden hangisi söylenemez?
 
-I. İmha veya bertaraf işlemlerinde, 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan düzenlemeler çerçevesinde çevreye zarar vermeyen yöntemlerin kullanılması gerekir.  
-II. Çevre, Şehircilik ve İklim Değişikliği Bakanlığından lisans almış firmalara teslim edilmeksizin yapılan imhalarda, eşya sahibi ile temsilcisi gümrük müşavirinin hazır bulunması için bildirimde bulunulur.  
-III. Eşyanın bulunduğu yerdeki durumundan imha aşamalarına kadar imha komisyonunca alınan video kayıtları, elektronik ortamda beş yıl süreyle muhafaza edilir.  
-IV. İmha yapılırken elkoyan birimin imkânlarının yeterli olmaması hâlinde varsa işletme müdürlüklerinin teknik ve fiziki imkânları, araç ve gereçleri kullanılabilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
+A) Çevre, Şehircilik ve İklim Değişikliği Bakanlığından lisans almış firmalara teslim edilmeksizin yapılan imhalarda, eşya sahibi ile temsilcisi gümrük müşavirinin hazır bulunması için bildirimde bulunulur.  
+B) İmha veya bertaraf işlemlerinde, 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan düzenlemeler çerçevesinde çevreye zarar vermeyen yöntemlerin kullanılması gerekir.  
+C) Eşyanın bulunduğu yerdeki durumundan imha aşamalarına kadar imha komisyonunca alınan video kayıtları, elektronik ortamda beş yıl süreyle muhafaza edilir.  
+D) İmha yapılırken elkoyan birimin imkânlarının yeterli olmaması hâlinde, varsa işletme müdürlüklerinin teknik ve fiziki imkânları, araç ve gereçleri kullanılabilir.  
+E) Eşyanın imhasının lisans almış firmalar tarafından yapılması hâlinde, eşyanın teslimine dair tutanaklar ile imhanın yapıldığına ilişkin bildirim ve varsa kayıtların ilgili dosyasında muhafaza edilmesi yeterlidir.  
 
-A) I, III ve IV  
-B) I ve II  
-C) II ve III  
-D) III ve IV  
-E) I, II, III ve IV  
+**13-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'nin imha komisyonunun kuruluşu, görevleri ve çalışmasına ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-**13-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre imha komisyonunun kuruluşu, görevleri ve çalışmasına ilişkin aşağıdaki ifadeler verilmiştir:
-
-I. İmha komisyonu, ilgili idare amirinin görevlendireceği başkan ve en az iki üyeden oluşur.  
-II. İmha işlemleri sırasında güvenliğe ve yangın önlemeye ilişkin önlemler imha komisyonu tarafından alınır.  
-III. İmha tutanakları ve bunlara ilişkin belgeler, imhayı gerçekleştiren idarece davaya müdahil gümrük idaresine gönderilir.  
-IV. Komisyonca yapılan tüm işlemlere ilişkin bilgi ve belgeler, soruşturmayı yürüten adli birimlere gönderilir.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) III ve IV  
-E) II, III ve IV  
+A) İmha işlemleri sırasında güvenliğe ve yangın önlemeye ilişkin önlemler imha komisyonu tarafından alınır.  
+B) İmha tutanakları ve bunlara ilişkin belgeler, imhayı gerçekleştiren idarece soruşturmayı yürüten adli birimlere gönderilir.  
+C) Komisyonca yapılan tüm işlemlere ilişkin bilgi ve belgeler, davaya müdahil gümrük idaresine gönderilir.  
+D) İmha edilmesi gereken eşyanın işlemlerini gerçekleştirecek imha komisyonu, ilgili idare amirinin görevlendireceği başkan ve en az üç üyeden oluşur.  
+E) Komisyonca alınan İmha Kararı ile İmha/Bertaraf Tutanağı, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.  
 
 **14-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre kaçak zannı ile elkonulan eşya ve alıkonulan taşıtların teslimine ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -138,15 +124,13 @@ C) Taşıtın tesliminde, ayırt edici özelliklerini belirten Taşıt Tespit ve
 D) Yönetmelikte öngörülen yerlere teslimi mümkün olmayan eşyanın yediemin olarak teslimi mümkündür.  
 E) Eşyanın muhafaza edileceği yere kadar yüklenmesi, boşaltılması veya nakliyesi gibi hizmetler, eşyayı teslim alacak gümrük idaresince sağlanır.  
 
-**15-** Kaçak zannı ile 5 Ocak tarihinde elkonulan bir eşya, 10 Ocak tarihinde muhafaza edileceği yere teslim edilmiştir. Yargı mercilerince eşyanın sahibine iadesine karar verilmiş, iade kararı müdahil idarece eşya sahibine 1 Mart tarihinde tebliğ edilmiştir. Eşya sahibi eşyayı 20 Nisan tarihinde muhafaza edildiği yerden teslim almıştır.
+**15-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre, gümrük idaresi dışındaki yerlerde satış yoluyla tasfiye edilen eşya bakımından "muhafaza süresi" aşağıdakilerden hangisini ifade eder?
 
-5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre bu eşyanın muhafaza süresi aşağıdakilerden hangisidir?  
-
-A) 5 Ocak ile 31 Mart tarihleri arasında geçen süre  
-B) 10 Ocak ile 1 Mart tarihleri arasında geçen süre  
-C) 10 Ocak ile 31 Mart tarihleri arasında geçen süre  
-D) 10 Ocak ile 20 Nisan tarihleri arasında geçen süre  
-E) 1 Mart ile 31 Mart tarihleri arasında geçen süre  
+A) Eşyanın muhafaza edileceği yere teslim edildiği tarihten başlamak üzere, ek süreler dahil teslim alındığı tarihe kadar geçen süreyi  
+B) Eşyaya elkonulduğu tarihten başlamak üzere, ek süreler hariç teslim alındığı tarihe kadar geçen süreyi  
+C) Eşyanın muhafaza edileceği yere teslim edildiği tarihten başlamak üzere, ek süreler hariç teslim alındığı tarihe kadar geçen süreyi  
+D) Eşyanın muhafaza edileceği yere teslim edildiği tarihten başlamak üzere, satış bedelinin emanet hesabına alındığı tarihe kadar geçen süreyi  
+E) Eşyanın muhafaza edileceği yere teslim edildiği tarihten başlamak üzere, tasfiye kararının ilgilisine tebliğ edildiği tarihi takip eden otuzuncu günü geçmemek üzere teslim alındığı tarihe kadar geçen süreyi  
 
 **16-** Kaçak zannı ile elkonulan ve korunması özel tesis veya tertibat gerektirmeyen bir ithal eşyası gümrük idaresi dışındaki bir depoda muhafaza edilmiş; eşyanın muhafaza edileceği yere teslim edildiği tarihten gümrük idaresince teslim alındığı tarihe kadar 170 gün geçmiştir. Eşya için mahkemece bir bedel belirlenmemiş olup kaçak eşyaya mahsus tespit tutanağında yer alan CIF değeri 500.000 TL'dir.
 
@@ -262,7 +246,7 @@ E) Kimyasal maddeler – kimyevi madde üretimi yapan kamu kurum ve kuruluşlar�
 **Doğru Cevap:** D  
 **Gerekçe:** Yönetmelik, bazı eşya ve taşıtların gümrük idaresine değil, elkoyan birimlerce doğrudan ilgili idarelere teslim edilmesini öngörür. Bu listeye göre gıda maddeleri, gıda takviyeleri, hayvansal ürünler, bitki ve hayvan sağlığına ilişkin ilaçlar, su ürünleri ve canlı hayvanlar Tarım ve Orman Bakanlığının ilgili birimlerine veya uygun tesise sahip kamu kurum ve kuruluşlarına teslim edilir. Sağlık Bakanlığının ilgili birimleri ise insan sağlığına ilişkin ilaçlar, ilaç hammaddeleri, tıbbi cihaz ve malzemeler, aşılar, kozmetikler ve sular için öngörülen teslim yeridir. Hava taşıtları Devlet Hava Meydanları İşletmesi müdürlüklerine; kıymetli maden ve taşlar ile Türk Lirası banknotlar, döviz, efektif ve sahte paralar Türkiye Cumhuriyet Merkez Bankası şubelerine veya mal müdürlüklerine; nesli tükenmekte olan canlı hayvan ve bitkiler Tarım ve Orman Bakanlığının ilgili birimlerine, hayvanat bahçelerine, botanik bahçelerine ve belediyelere; kimyasal maddeler kimyevi madde üretimi yapan kamu kurum ve kuruluşlarına teslim edilir. En güçlü tuzak sağduyudur: gıda takviyesi sağlık ürünü gibi görünse de Yönetmelik onu gıda maddeleriyle aynı bende koymuştur. Bu nedenle doğru cevap D seçeneğidir. (MD 5)
 
-*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 5*
+*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 5, 6, 8, 11*
 
 **5-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre elkonulan eşyanın tesliminde düzenlenen teslim tutanağının bir örneğinin ilgili müdahil gümrük müdürlüğüne gönderilme süresi aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
@@ -314,7 +298,7 @@ E) Numuneler, kovuşturma sonrasında verilen esasa ilişkin kararın kesinleşm
 **Doğru Cevap:** C  
 **Gerekçe:** Yönetmeliğe göre numune miktarı; her bir cins, nevi, marka ve ebat itibarıyla paketlenmiş sigara, puro ve sigarillo, nargilelik, pipoluk ve sarmalık kıyılmış tütün ve tütün mamullerinde on paket, etil alkol, metanol ve alkollü içkilerde iki şişedir. Tütün veya tütün mamulü, ilaç hammaddesi ve benzeri eşyanın dökme olması hâlinde alınacak numune bir kilogramdır. Üç kilogram, 26.05.2025 tarihli ve 32911 sayılı Resmî Gazete'de yayımlanan değişiklikten önceki metinde dökme tütün için öngörülen alt sınırdır; aynı değişiklikle paketli tütün mamullerinde yirmi paket on pakete, alkollü içkilerde üç şişe iki şişeye indirilmiştir. Elkonulan eşya belirtilen numune miktarından az ise tamamı muhafaza edilir. Alınan numuneler, kovuşturma sonrasında verilen esasa ilişkin kararın kesinleşmesini müteakip muhafaza eden birim tarafından imha edilerek tutanağa bağlanır. Kök yanlış olanı sorduğu için değişiklik öncesi miktarı taşıyan seçenek aranmaktadır; eski metinden çalışan aday bu seçeneği doğru sanır. Bu nedenle doğru cevap C seçeneğidir. (MD 7)
 
-*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 3, 9*
+*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 3, 8, 9*
 
 **9-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre kullanım tarihi geçmiş, CE işareti olmayan, lisansa tabi olup lisansı bulunmayan ve kullanılmayacak hâlde olduğu tahlil, teknik inceleme ve araştırmaya gerek olmaksızın anlaşılması hâlinde imha edilecek özellikli eşya arasında aşağıdakilerden hangisi sayılmamıştır?
 
@@ -325,7 +309,7 @@ D) İlaç hammaddesi içeren ürünler
 E) Tıbbi cihaz ve malzemeler  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Yönetmelik, ilaç, ilaç hammaddesi, ilaç hammaddesi içeren ürünler, tıbbi cihaz ve malzemeler ile etil alkol cinsi eşyayı özellikli eşya olarak ayrıca düzenler. Bu eşyadan kullanım tarihi geçmiş, CE işareti olmayan, lisansa tabi olup lisansı bulunmayan ve kullanılmayacak hâlde olduğu tahlil, teknik inceleme ve araştırmaya gerek olmaksızın anlaşılanlar imha edilir; bunun dışında kalanlar hakkında ilgili Bakanlık birimlerine uygunluğunun değerlendirilmesi için bildirimde bulunularak alınan görüşe göre işlem yapılır. Metanol bu listede yer almaz: Yönetmelik metanolü alkollü içki tanımının içinde sayar ve metanol ile alkollü içkilerin niteliklerine uygun yöntemlerle imha edilmesini öngörür. En güçlü tuzak etil alkol ile metanolün aynı kategoride sanılmasıdır; özellikli eşya listesinde yalnızca etil alkol vardır. Bu nedenle doğru cevap A seçeneğidir. (MD 3, 8, 9)
+**Gerekçe:** Yönetmelik, ilaç, ilaç hammaddesi, ilaç hammaddesi içeren ürünler, tıbbi cihaz ve malzemeler ile etil alkol cinsi eşyayı özellikli eşya olarak ayrıca düzenler. Bu eşyadan kullanım tarihi geçmiş, CE işareti olmayan, lisansa tabi olup lisansı bulunmayan ve kullanılmayacak hâlde olduğu tahlil, teknik inceleme ve araştırmaya gerek olmaksızın anlaşılanlar imha edilir; bunun dışında kalanlar hakkında ilgili Bakanlık birimlerine uygunluğunun değerlendirilmesi için bildirimde bulunularak alınan görüşe göre işlem yapılır. Metanol bu listede yer almaz: Yönetmelik metanolü alkollü içki tanımının içinde sayar ve metanol ile alkollü içkilerin niteliklerine uygun yöntemlerle imha edilmesini öngörür. En güçlü tuzak, alkollü içki tanımında birlikte sayılan etil alkol ile metanolün özellikli eşya hükmünde de birlikte yer aldığının sanılmasıdır; özellikli eşya listesinde yalnızca etil alkol vardır. Bu nedenle doğru cevap A seçeneğidir. (MD 3, 8, 9)
 
 *Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 8; 5607 sayılı Kaçakçılıkla Mücadele Kanunu md. 16*
 
@@ -342,58 +326,44 @@ E) Adli mercilerce süresinde karar bildirilmemesi hâlinde eşya, numune alınm
 
 *Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 8*
 
-**11-** Kaçakçılığı önleme, izleme ve araştırmakla görevli bir birim, 3 Mart tarihinde ambalajlarında kamu kurumlarınca uygulanan bandrol bulunan 400 şişe alkollü içkiye 5607 sayılı Kanun uyarınca el koymuş ve soruşturma aşamasında hâkimden imhası yapılmak üzere tasfiye kararı verilmesini talep etmiştir. Elkoyan birimce Tarım ve Orman Bakanlığına yaptırılan değerlendirme sonucunda 20 Nisan tarihinde eşya için "uygun değildir" raporu verilmiştir. Bu tarih itibarıyla adli mercilerce herhangi bir karar bildirilmemiştir.
-
-5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre bu eşya hakkında yapılacak işlem aşağıdakilerden hangisidir?  
+**11-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre, ambalajlarında kamu kurumlarınca uygulanan bandrol bulunan alkollü içkilerden elkoyan birimlerce Tarım ve Orman Bakanlığına yaptırılan değerlendirme sonucunda "uygun değildir" raporu verilenler hakkında aşağıdakilerden hangisi uygulanır?
 
 A) Eşya, elkoyma tarihinden itibaren altı ay dolana kadar muhafaza edilir; bu süre içinde adli mercilerce karar bildirilmezse numune alınarak imha edilir.  
-B) Rapor tarihinden itibaren bir ay içinde hâkim kararı beklenir; karar bildirilmezse eşya numune alınmaksızın imha edilir.  
-C) Eşya, rapor üzerine Tarım ve Orman Bakanlığının ilgili birimlerine teslim edilir.  
-D) Eşyanın imhası için kovuşturma aşamasına geçilmesi ve müdahil idarece mahkemeden tasfiye kararı talep edilmesi gerekir.  
-E) Elkoyma tarihinden itibaren altı ayın dolması ve adli merci kararı beklenmeksizin, Yönetmelikte belirtilen miktarlarda numune alınarak eşya imha edilir.  
+B) Rapor tarihinden itibaren bir ay içinde hâkim kararı beklenir; karar bildirilmezse numune alınmaksızın imha edilir.  
+C) Rapor üzerine Tarım ve Orman Bakanlığının ilgili birimlerine teslim edilir.  
+D) İmhası için kovuşturma aşamasına geçilmesi ve müdahil idarece mahkemeden tasfiye kararı talep edilmesi gerekir.  
+E) Elkoyma tarihinden itibaren altı ayın dolması ve adli merci kararı beklenmeksizin, Yönetmelikte belirtilen miktarlarda numune alınarak imha edilir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Yönetmeliğe göre bandrollü tütün mamulleri ve alkollü içkiler için genel kural, soruşturma aşamasında elkoyan idarece hâkimden tasfiye kararı istenmesi ve elkoyma tarihinden itibaren altı ay içinde adli mercilerce karar bildirilmemişse numune alınarak imha edilmesidir. Ancak ambalajında kamu kurumlarınca uygulanan bandrol bulunan alkollü içkilerden, elkoyan birimlerce Tarım ve Orman Bakanlığına veya bu Bakanlıktan Özel Gıda Kontrol Laboratuvarı Kuruluş Yeterlilik İzin Belgesi almış akredite laboratuvarlara yaptırılan değerlendirme sonucunda "uygun değildir" raporu verilenler, genel kuraldaki şartlar beklenmeksizin Yönetmelikte belirtilen miktarlarda numune alınarak imha edilir. Vakada rapor Tarım ve Orman Bakanlığınca verildiği için istisna uygulanır; altı aylık sürenin dolacağı 3 Eylül'ü veya adli merci kararını beklemeye gerek yoktur. Numune alınması bu istisnada da zorunludur. Tarım ve Orman Bakanlığı birimlerine teslim, gıda maddeleri ve canlı hayvanlar gibi eşyanın doğrudan teslimine ilişkindir; kovuşturma aşamasında müdahil idarece mahkemeden talep ise genel kuraldaki ikinci makam çiftidir. En güçlü çeldirici altı ayın beklenmesini öngören seçenektir: istisnayı görmeyen aday genel kuralı uygular. Bu nedenle doğru cevap E seçeneğidir. (MD 8)
+**Gerekçe:** Yönetmeliğe göre ambalajında bandrol bulunan tütün mamulleri ve alkollü içkiler için genel kural, elkonulmasını müteakip soruşturma aşamasında elkoyan idarece hâkimden, kovuşturma aşamasında müdahil idarece mahkemeden imhası yapılmak üzere tasfiye kararı istenmesi ve elkoyma tarihinden itibaren altı ay içinde adli mercilerce karar bildirilmemişse numune alınarak eşyanın derhal imha edilmesidir. Ancak ambalajında kamu kurumlarınca uygulanan bandrol bulunan alkollü içkilerden, elkoyan birimlerce Tarım ve Orman Bakanlığına veya bu Bakanlıktan Özel Gıda Kontrol Laboratuvarı Kuruluş Yeterlilik İzin Belgesi almış akredite laboratuvarlara yaptırılan değerlendirme sonucunda "uygun değildir" raporu verilenler, genel kuraldaki şartlar beklenmeksizin Yönetmelikte belirtilen miktarlarda numune alınarak imha edilir. Bu istisnada da numune alınması zorunludur. Tarım ve Orman Bakanlığı birimlerine teslim, gıda maddeleri ve canlı hayvanlar gibi eşyanın doğrudan teslimine ilişkindir; kovuşturma aşamasında müdahil idarece mahkemeden talep ise genel kuraldaki ikinci makamdır. En güçlü tuzak altı ayın beklenmesini öngören ifadedir: istisnayı görmeyen aday genel kuralı uygular. Bu nedenle doğru cevap E seçeneğidir. (MD 8)
 
 *Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 8*
 
-**12-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'nin imha veya bertaraf işlemlerine ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**12-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'nin imha veya bertaraf işlemlerine ilişkin hükümlerine göre aşağıdakilerden hangisi söylenemez?
 
-I. İmha veya bertaraf işlemlerinde, 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan düzenlemeler çerçevesinde çevreye zarar vermeyen yöntemlerin kullanılması gerekir.  
-II. Çevre, Şehircilik ve İklim Değişikliği Bakanlığından lisans almış firmalara teslim edilmeksizin yapılan imhalarda, eşya sahibi ile temsilcisi gümrük müşavirinin hazır bulunması için bildirimde bulunulur.  
-III. Eşyanın bulunduğu yerdeki durumundan imha aşamalarına kadar imha komisyonunca alınan video kayıtları, elektronik ortamda beş yıl süreyle muhafaza edilir.  
-IV. İmha yapılırken elkoyan birimin imkânlarının yeterli olmaması hâlinde varsa işletme müdürlüklerinin teknik ve fiziki imkânları, araç ve gereçleri kullanılabilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I, III ve IV  
-B) I ve II  
-C) II ve III  
-D) III ve IV  
-E) I, II, III ve IV  
+A) Çevre, Şehircilik ve İklim Değişikliği Bakanlığından lisans almış firmalara teslim edilmeksizin yapılan imhalarda, eşya sahibi ile temsilcisi gümrük müşavirinin hazır bulunması için bildirimde bulunulur.  
+B) İmha veya bertaraf işlemlerinde, 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan düzenlemeler çerçevesinde çevreye zarar vermeyen yöntemlerin kullanılması gerekir.  
+C) Eşyanın bulunduğu yerdeki durumundan imha aşamalarına kadar imha komisyonunca alınan video kayıtları, elektronik ortamda beş yıl süreyle muhafaza edilir.  
+D) İmha yapılırken elkoyan birimin imkânlarının yeterli olmaması hâlinde, varsa işletme müdürlüklerinin teknik ve fiziki imkânları, araç ve gereçleri kullanılabilir.  
+E) Eşyanın imhasının lisans almış firmalar tarafından yapılması hâlinde, eşyanın teslimine dair tutanaklar ile imhanın yapıldığına ilişkin bildirim ve varsa kayıtların ilgili dosyasında muhafaza edilmesi yeterlidir.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Yönetmeliğe göre imha veya bertaraf işlemlerinde 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan düzenlemeler çerçevesinde insan, hayvan, bitki ve çevre sağlığı gözetilerek çevreye zarar vermeyen yöntemler kullanılır (I doğru). Çevre, Şehircilik ve İklim Değişikliği Bakanlığından lisans almış firmalara teslim edilmeksizin yapılan imhalarda imhayı gerçekleştirecek idare, anılan Bakanlığın taşra teşkilatından ve ilgili belediyeden birer kişinin hazır bulunması için bildirimde bulunur; bunlar katılmazsa imha komisyonunca işlem gerçekleştirilir. Eşya sahibinin veya gümrük müşavirinin hazır bulundurulmasına ilişkin bir hüküm yoktur (II yanlış). Eşyanın bulunduğu yerdeki durumu, nakliye aracına yüklenmesi, imha mahalline boşaltılması ve imha aşamaları imha komisyonunca video kaydına alınır ve kayıtlar elektronik ortamda beş yıl süreyle muhafaza edilir (III doğru). Elkoyan birimin imkânları yetersizse varsa işletme müdürlüklerinin teknik ve fiziki imkânları, araç ve gereçleri kullanılabilir (IV doğru). En güçlü çeldirici 'I, II, III ve IV' seçeneğidir: gümrükle ilgili her işlemde müşavirin bulunacağı önyargısı II'yi doğru gösterir; oysa Yönetmelik hazır bulunacakları Bakanlık taşra teşkilatı ve belediye olarak belirlemiştir. Bu nedenle doğru cevap A seçeneğidir. (MD 8)
+**Gerekçe:** Yönetmeliğe göre Çevre, Şehircilik ve İklim Değişikliği Bakanlığından lisans almış firmalara teslim edilmeksizin yapılan imhalarda imhayı gerçekleştirecek idare, anılan Bakanlığın taşra teşkilatından ve ilgili belediyeden birer kişinin imha veya bertaraf işlemi sırasında hazır bulunması için bildirimde bulunur; bunlar katılmazsa işlem imha komisyonunca gerçekleştirilir. Eşya sahibinin veya gümrük müşavirinin hazır bulundurulmasına ilişkin bir hüküm yoktur. Diğer ifadeler Yönetmelikle uyumludur: imha veya bertaraf işlemlerinde 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan düzenlemeler çerçevesinde insan, hayvan, bitki ve çevre sağlığı gözetilerek çevreye zarar vermeyen yöntemler kullanılır; eşyanın bulunduğu yerdeki durumu, nakliye aracına yüklenmesi, imha mahalline boşaltılması ve imha aşamaları imha komisyonunca video kaydına alınır ve kayıtlar elektronik ortamda beş yıl süreyle muhafaza edilir; elkoyan birimin imkânları yetersizse varsa işletme müdürlüklerinin teknik ve fiziki imkânları kullanılabilir; imha lisanslı firmalarca yapılmışsa teslim tutanakları ile imhanın yapıldığına ilişkin bildirim ve varsa kayıtların dosyada muhafazası yeterlidir. En güçlü tuzak, gümrükle ilgili her işlemde müşavirin bulunacağı önyargısıdır. Bu nedenle doğru cevap A seçeneğidir. (MD 8)
 
-*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 10*
+*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 10, 16*
 
-**13-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre imha komisyonunun kuruluşu, görevleri ve çalışmasına ilişkin aşağıdaki ifadeler verilmiştir:
+**13-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'nin imha komisyonunun kuruluşu, görevleri ve çalışmasına ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. İmha komisyonu, ilgili idare amirinin görevlendireceği başkan ve en az iki üyeden oluşur.  
-II. İmha işlemleri sırasında güvenliğe ve yangın önlemeye ilişkin önlemler imha komisyonu tarafından alınır.  
-III. İmha tutanakları ve bunlara ilişkin belgeler, imhayı gerçekleştiren idarece davaya müdahil gümrük idaresine gönderilir.  
-IV. Komisyonca yapılan tüm işlemlere ilişkin bilgi ve belgeler, soruşturmayı yürüten adli birimlere gönderilir.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) III ve IV  
-E) II, III ve IV  
+A) İmha işlemleri sırasında güvenliğe ve yangın önlemeye ilişkin önlemler imha komisyonu tarafından alınır.  
+B) İmha tutanakları ve bunlara ilişkin belgeler, imhayı gerçekleştiren idarece soruşturmayı yürüten adli birimlere gönderilir.  
+C) Komisyonca yapılan tüm işlemlere ilişkin bilgi ve belgeler, davaya müdahil gümrük idaresine gönderilir.  
+D) İmha edilmesi gereken eşyanın işlemlerini gerçekleştirecek imha komisyonu, ilgili idare amirinin görevlendireceği başkan ve en az üç üyeden oluşur.  
+E) Komisyonca alınan İmha Kararı ile İmha/Bertaraf Tutanağı, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Yönetmeliğe göre imha edilmesi gereken eşyanın işlemlerini gerçekleştirecek imha komisyonu, ilgili idare amirinin görevlendireceği başkan ve en az iki üyeden oluşur (I doğru). İmha işlemleri sırasında güvenliğe ve yangın önlemeye ilişkin önlemler imha komisyonu tarafından alınır (II doğru). İmha Kararı ve İmha/Bertaraf Tutanağı, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır. İmha tutanakları ve bunlara ilişkin belgeler, imhayı gerçekleştiren idarece soruşturmayı yürüten adli birimlere gönderilir; davaya müdahil gümrük idaresine değil (III yanlış). Komisyonca yapılan tüm işlemlere ilişkin bilgi ve belgeler ise davaya müdahil gümrük idaresine gönderilir; soruşturmayı yürüten adli birimlere değil (IV yanlış). Kök yanlış olanları sorduğu için doğru kombinasyon III ve IV'tür. En güçlü çeldirici 'I ve III' seçeneğidir: imha komisyonunu, piyasa araştırmasına gerek olmayan hâllerdeki en az üç kişilik tespit komisyonuyla karıştıran aday I'i yanlış sanar. Bu nedenle doğru cevap D seçeneğidir. (MD 10, 16)
+**Gerekçe:** Yönetmeliğe göre imha edilmesi gereken eşyanın işlemlerini gerçekleştirecek imha komisyonu, ilgili idare amirinin görevlendireceği başkan ve en az iki üyeden oluşur; en az üç üye aranmaz. En az üç kişilik komisyon, mal ve hizmet alımlarında ihtiyacın tek gerçek veya tüzel kişi tarafından karşılanabileceğini tespit eden ve piyasa araştırması yapılmasına gerek bırakmayan komisyondur. Diğer ifadeler Yönetmelikle uyumludur: imha işlemleri sırasında güvenliğe ve yangın önlemeye ilişkin önlemler imha komisyonunca alınır; İmha Kararı ve İmha/Bertaraf Tutanağı komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır; imha tutanakları ve bunlara ilişkin belgeler imhayı gerçekleştiren idarece soruşturmayı yürüten adli birimlere, komisyonca yapılan tüm işlemlere ilişkin bilgi ve belgeler ise davaya müdahil gümrük idaresine gönderilir. En güçlü tuzak, imha komisyonunu en az üç kişilik tespit komisyonuyla karıştıran ifadedir. Bu nedenle doğru cevap D seçeneğidir. (MD 10, 16)
 
-*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 5*
+*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 5, 15*
 
 **14-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre kaçak zannı ile elkonulan eşya ve alıkonulan taşıtların teslimine ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -406,20 +376,18 @@ E) Eşyanın muhafaza edileceği yere kadar yüklenmesi, boşaltılması veya na
 **Doğru Cevap:** E  
 **Gerekçe:** Yönetmeliğe göre kaçak zannı ile elkonulan eşya, alıkonulan taşıtlar ve numuneler öncelikle en yakın gümrük idaresine; gümrük ve işletme müdürlüğünün aynı yerde bulunması hâlinde bünyesinde kaçak eşya depolama yeri bulunan idareye teslim edilir. Eşyanın muhafaza edileceği yere kadar yüklenmesi, boşaltılması veya nakliyesi gibi hizmetler, eşyayı teslim alacak gümrük idaresince değil, elkoyan/alıkoyan birimlerce sağlanır; seçenekte hizmeti sağlayan birim değiştirilmiştir. Eşya veya taşıtın tesliminde miktarı, cinsi, markası, tipi, modeli, seri numarası gibi ayırt edici özelliklerini belirten Kaçak Eşya Teslim Tutanağı veya Taşıt Tespit ve Teslim-Tesellüm Tutanağı düzenlenir. Sayılan yerlere teslimi mümkün olmayan eşyanın yediemin olarak teslimi de mümkündür. Nakil için de önce eşyanın elkonulduğu araç ile elkoyan idareye veya gümrük idaresine ait uygun araçlar kullanılır. En güçlü tuzak, eşyanın gümrük idaresine teslim edilmesinden hareketle taşıma hizmetinin de teslim alan idareye ait olduğunu düşünmektir. Bu nedenle doğru cevap E seçeneğidir. (MD 5, 15)
 
-*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 11*
+*Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 11, 14*
 
-**15-** Kaçak zannı ile 5 Ocak tarihinde elkonulan bir eşya, 10 Ocak tarihinde muhafaza edileceği yere teslim edilmiştir. Yargı mercilerince eşyanın sahibine iadesine karar verilmiş, iade kararı müdahil idarece eşya sahibine 1 Mart tarihinde tebliğ edilmiştir. Eşya sahibi eşyayı 20 Nisan tarihinde muhafaza edildiği yerden teslim almıştır.
+**15-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre, gümrük idaresi dışındaki yerlerde satış yoluyla tasfiye edilen eşya bakımından "muhafaza süresi" aşağıdakilerden hangisini ifade eder?
 
-5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği'ne göre bu eşyanın muhafaza süresi aşağıdakilerden hangisidir?  
-
-A) 5 Ocak ile 31 Mart tarihleri arasında geçen süre  
-B) 10 Ocak ile 1 Mart tarihleri arasında geçen süre  
-C) 10 Ocak ile 31 Mart tarihleri arasında geçen süre  
-D) 10 Ocak ile 20 Nisan tarihleri arasında geçen süre  
-E) 1 Mart ile 31 Mart tarihleri arasında geçen süre  
+A) Eşyanın muhafaza edileceği yere teslim edildiği tarihten başlamak üzere, ek süreler dahil teslim alındığı tarihe kadar geçen süreyi  
+B) Eşyaya elkonulduğu tarihten başlamak üzere, ek süreler hariç teslim alındığı tarihe kadar geçen süreyi  
+C) Eşyanın muhafaza edileceği yere teslim edildiği tarihten başlamak üzere, ek süreler hariç teslim alındığı tarihe kadar geçen süreyi  
+D) Eşyanın muhafaza edileceği yere teslim edildiği tarihten başlamak üzere, satış bedelinin emanet hesabına alındığı tarihe kadar geçen süreyi  
+E) Eşyanın muhafaza edileceği yere teslim edildiği tarihten başlamak üzere, tasfiye kararının ilgilisine tebliğ edildiği tarihi takip eden otuzuncu günü geçmemek üzere teslim alındığı tarihe kadar geçen süreyi  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Yönetmeliğe göre muhafaza süresi, kaçak zannı ile elkonulan eşyanın muhafaza edileceği yere teslim edildiği tarihten başlar. Yargı mercilerince iade kararı verilmişse süre, kararın müdahil idarece sahibine tebliğ edildiği tarihi takip eden otuzuncu günü geçmemek üzere eşyanın teslim alındığı tarihe kadar devam eder. Vakada süre elkoyma tarihi olan 5 Ocak'tan değil, muhafaza yerine teslim tarihi olan 10 Ocak'tan başlar. Tebliğ 1 Mart'ta yapıldığından takip eden otuzuncu gün 31 Mart'tır; eşya sahibi eşyayı 20 Nisan'da almış olsa da muhafaza süresi 31 Mart'ı aşamaz. 1 Mart ise sürenin bittiği değil, otuz günlük sürenin hesabına esas alınan tebliğ tarihidir. En güçlü çeldirici 20 Nisan'a kadar uzanan seçenektir: otuzuncu gün sınırını görmeyen aday fiilî teslim alma tarihini esas alır. Bu nedenle doğru cevap C seçeneğidir. (MD 11)
+**Gerekçe:** Yönetmeliğe göre muhafaza süresi, kaçak zannı ile elkonulan eşya ile alıkonulan taşıtın muhafaza edileceği yere teslim edildiği tarihten başlar; eşyaya elkonulduğu tarihten değil. Sürenin sonu eşyanın akıbetine göre belirlenir: yargı mercilerince iade kararı verilmişse kararın müdahil idarece sahibine tebliğ edildiği tarihi takip eden otuzuncu günü geçmemek üzere teslim alındığı tarih; gümrük idaresince teslim alınan veya gümrük idaresi dışındaki yerlerde satış haricindeki yöntemlerle tasfiye edilen eşyada gümrük idaresince teslim alındığı ya da ilgilisine teslim edildiği tarih; gümrük idaresi dışındaki yerlerde satış yoluyla tasfiye edilen eşyada ise ek süreler hariç teslim alındığı tarihtir. Otuzuncu gün sınırı yalnızca iade kararına özgüdür. Satış bedelinin emanet hesabına alınması, satılan eşyanın sahibine iadesine karar verildiğinde bu bedelin kanuni faiziyle ödenmesine ilişkindir; muhafaza süresinin sonunu belirlemez. En güçlü tuzak 'ek süreler dahil' ifadesidir: Yönetmelik satış yoluyla tasfiyede ek süreleri muhafaza süresinin dışında bırakır. Bu nedenle doğru cevap C seçeneğidir. (MD 11, 14)
 
 *Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği md. 3, 11, 12; Ek-8*
 
@@ -498,11 +466,11 @@ E) Tasfiye işletme müdürlükleri
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 4 (I ve IV, I, III ve IV, III ve IV, Yalnız II) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 16, MAKAM 7, TERİM 5, BAŞLANGIÇ 5, TERSİNE 5, SAĞDUYU 4 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (I ve IV, Yalnız II) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 17, MAKAM 6, TERİM 5, TERSİNE 5, SAĞDUYU 4, BAŞLANGIÇ 4 |
 | İkiz eksen / ayna | — / SB52-A metanol: alkollü içki tanımına dahil (soru 3) ↔ özellikli eşya listesinde yok (soru 9), SB52-B bandrollü alkollü içki: genel kural altı ay ve adli merci kararı (soru 10) ↔ 'uygun değildir' raporunda beklemeden imha (soru 11), SB52-D yüzde on beş: eşya değerinin %15'i ücret tavanı (soru 16) ↔ satış bedelinin %15'i ücret karşılığı (soru 18) |
 | Güncellik | 26.05.2025 / 32911 R.G.; 26.05.2025 / 32911 R.G.; 26.05.2025 / 32911 R.G.; 26.05.2025 / 32911 R.G. (Ek-8) |
 | Çıkmış bilgi alanı karşılayan | 2 |

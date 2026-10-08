@@ -32,9 +32,9 @@ E) Süresi sona ermeden yapılan başvurunun Komisyonca uygun görülmesi hâlin
 
 A) Başvuruları İl Değerlendirme Komisyonu tarafından uygun görülenler adına belge, ithal edilecek ürünlerin tamamını kapsayacak şekilde Valilikçe düzenlenir.  
 B) Belge, düzenlendiği tarihten itibaren üç yıl süreyle geçerlidir.  
-C) Belgenin geçerliliği, ilgili Valilikçe vize edilmek suretiyle bir yıllık sürelerle uzatılabilir.  
-D) Belge, Karar kapsamındaki illerde yerleşik ve Sınır Ticareti Belgesini haiz esnaf ve tacire devredilebilir.  
-E) Başvuruları İl Değerlendirme Komisyonu tarafından uygun görülenler adına her bir ürün için ayrı bir belge, İl Ticaret Odası veya İl Ticaret ve Sanayi Odasınca düzenlenir.  
+C) Başvuruları İl Değerlendirme Komisyonu tarafından uygun görülenler adına her bir ürün için ayrı bir belge, İl Ticaret Odası veya İl Ticaret ve Sanayi Odasınca düzenlenir.  
+D) Belgenin geçerliliği, ilgili Valilikçe vize edilmek suretiyle bir yıllık sürelerle uzatılabilir.  
+E) Belge, Karar kapsamındaki illerde yerleşik ve Sınır Ticareti Belgesini haiz esnaf ve tacire devredilebilir.  
 
 **4-** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre İthalat Uygunluk Belgesinin geçerlik süresi aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
@@ -54,11 +54,11 @@ E) Bir takvim yılı içerisinde en fazla 75.000 ABD Doları karşılığı Tür
 
 **6-** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre Vali veya Vali Yardımcısı başkanlığında oluşturulan İl Değerlendirme Komisyonunda yer alanlar arasında aşağıdakilerden hangisi sayılmamıştır?
 
-A) İl Defterdarı  
-B) Gümrük İl Müdürü  
-C) İl Jandarma Komutanlığı ya da İl Emniyet Müdürlüğü temsilcisi  
-D) İlde bulunan Esnaf ve Sanatkârlar Odaları Birliği temsilcisi  
-E) İlde faaliyet gösteren gümrük müşavirleri derneği temsilcisi  
+A) İlde faaliyet gösteren gümrük müşavirleri derneği temsilcisi  
+B) İl Defterdarı  
+C) Gümrük İl Müdürü  
+D) İl Jandarma Komutanlığı ya da İl Emniyet Müdürlüğü temsilcisi  
+E) İlde bulunan Esnaf ve Sanatkârlar Odaları Birliği temsilcisi  
 
 **7-** Sınır Ticaretinin Düzenlenmesine İlişkin Karar ile Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11) hükümlerine göre ithalat değer limitlerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -102,24 +102,19 @@ E) on iş günü – on iş günü
 
 **11-** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre aşağıdakilerden hangisi sınır ticareti kapsamına girmeyen ürünler arasında sayılmamıştır?
 
-A) İthalatta gözetim uygulamasına tabi ürünler  
-B) Damping ve sübvansiyona karşı önlemler ile korunma önlemlerine tabi ürünler  
-C) Petrol ve petrol ürünleri  
-D) Amonyum nitrat ve benzeri içerikli patlayıcı yapımında kullanılabilecek maddeler  
-E) Canlı hayvan ve hayvansal ürünler  
+A) Damping ve sübvansiyona karşı önlemler ile korunma önlemlerine tabi ürünler  
+B) Petrol ve petrol ürünleri  
+C) Amonyum nitrat ve benzeri içerikli patlayıcı yapımında kullanılabilecek maddeler  
+D) Canlı hayvan ve hayvansal ürünler  
+E) İthalatta gözetim uygulamasına tabi ürünler  
 
-**12-** Van'da yerleşik ve Sınır Ticareti Belgesini haiz tacir (A), İthalat Uygunluk Belgesine istinaden Kapıköy gümrük kapısından İran menşeli bir sanayi ürününü sınır ticareti kapsamında ithal etmektedir. Eşyaya genel hükümlere göre uygulanacak oranlar şöyledir:
+**12-** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamında yapılan ithalatta uygulanan tek ve maktu vergi nasıl hesaplanır?
 
-- Gümrük vergisi: %10  
-- Katma değer vergisi: %20  
-- Özel tüketim vergisi: %25  
-Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre bu ithalatta uygulanacak tek ve maktu verginin oranı yüzde kaçtır?  
-
-A) %20  
-B) %30  
-C) %35  
-D) %45  
-E) %55  
+A) Gümrük vergisi, katma değer vergisi ve özel tüketim vergisi oranları toplamı olarak  
+B) Gümrük vergisi ile katma değer vergisi oranları toplamı olarak  
+C) Gümrük vergisi ile özel tüketim vergisi oranları toplamı olarak  
+D) Katma değer vergisi ile özel tüketim vergisi oranları toplamı olarak  
+E) İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin toplamı olarak  
 
 **13-** Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre Sınır Ticaret Merkezlerine ithal veya ihraç hükmüyle konulan eşyanın burada satış veya sergi amacıyla kalabileceği süre ile bu süre içinde zorunlu nedenlerle çıkarılamayan eşyaya ek süre vermeye yetkili merci aşağıdakilerden hangisinde birlikte doğru olarak verilmiştir?
 
@@ -137,19 +132,13 @@ C) Beş yıl; defterlerin tasdik edildiği, belgelerin ise düzenlendiği yılı
 D) Beş yıl; defterlerin tasdik edildiği, belgelerin ise düzenlendiği yılın sonundan itibaren  
 E) Beş yıl; defter ve belgelerin gümrük müdürlüğüne ibraz edildiği tarihten itibaren  
 
-**15-** Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre Sınır Ticaret Merkezi Eşya Giriş-Çıkış Defterine ilişkin aşağıdaki ifadeler verilmiştir:
+**15-** Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11)'e göre "İl Ticaret Odası veya İl Ticaret ve Sanayi Odası nezdinde kurulan büro" olarak tanımlanan birim aşağıdakilerden hangisidir?
 
-I. Defterin her yaprağı müteselsil sıra numaralı olur.  
-II. Defter, Sınır Ticaret Merkezinin bağlı olduğu gümrük müdürlüğünce tasdik edilir.  
-III. Deftere kayıtların en geç üç iş günü içinde yapılması zorunludur.  
-IV. Yeni faaliyete geçenler defteri faaliyete geçmeden önce tasdik ettirmek zorundadır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I, III ve IV  
-C) I ve III  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Sınır Ticareti Bürosu  
+B) Sekretarya  
+C) İl Değerlendirme Komisyonu  
+D) Ticaret İl Müdürlüğü  
+E) Esnaf ve Sanatkârlar Odaları Birliği  
 
 **16-** Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre Sınır Ticaret Merkezi mağazalarınca her ay düzenlenen aylık satış listesinin aslı en geç ne zamana kadar ve nereye verilir?
 
@@ -161,9 +150,9 @@ E) Müteakip ayın ilk haftası içinde, ilgili Valiliğe
 
 **17-** Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre Sınır Ticaret Merkezlerinde yapılan sayımlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
-A) Sınır Ticaret Merkezindeki eşyanın kısa sürede sayılamayacak kadar çok olması hâlinde, gümrük idarelerince örnekleme yöntemiyle sayılması mümkündür.  
-B) İhraç eşyasında noksanlık tespit edilmesi hâlinde, katma değer vergisi ve varsa özel tüketim vergisi istisnasından yararlanan eşyanın katma değer vergisi tahsil edilir.  
-C) Sayım sonunda 3 aydan fazla bir süredir Sınır Ticaret Merkezinde bulunduğu tespit edilen ithal eşyası, gümrük mevzuatı doğrultusunda geri gelen eşya hükümlerine tabi tutulur.  
+A) Sayım sonunda 3 aydan fazla bir süredir Sınır Ticaret Merkezinde bulunduğu tespit edilen ithal eşyası, gümrük mevzuatı doğrultusunda geri gelen eşya hükümlerine tabi tutulur.  
+B) Sınır Ticaret Merkezindeki eşyanın kısa sürede sayılamayacak kadar çok olması hâlinde, gümrük idarelerince örnekleme yöntemiyle sayılması mümkündür.  
+C) İhraç eşyasında noksanlık tespit edilmesi hâlinde, katma değer vergisi ve varsa özel tüketim vergisi istisnasından yararlanan eşyanın katma değer vergisi tahsil edilir.  
 D) Sınır Ticaret Merkezi ve mağazalarının sayımlarında bulunacak heyete, ilgili gümrük müdürü tarafından tayin edilecek en az şef seviyesinde bir memur başkanlık eder.  
 E) Sayım sonucunda fazla çıkan eşya kayıtlara alınır; fazlalığın geçerli nedenlerden ileri geldiğine gümrük idaresince kanaat getirilmezse Gümrük Kanunu uyarınca işlem yapılır.  
 
@@ -189,21 +178,19 @@ C) Bu Karar kapsamındaki illerde en az bir yıldır yerleşik olarak faaliyette
 D) Bu Karar kapsamındaki illerde en az bir yıldır yerleşik olarak faaliyette bulunan ve Esnaf ve Sanatkârlar Odaları Birliğine üye olan gerçek kişiler  
 E) Ticari işletme merkezleri bu Karar kapsamındaki illerde olan ve en az bir yıldır faaliyette bulunan gerçek kişiler  
 
-**20-** Mardin'de yerleşik ve Sınır Ticareti Belgesini haiz tacir (B), İthalat Uygunluk Belgesine istinaden Nusaybin gümrük kapısından Suriye menşeli ürünleri sınır ticareti kapsamında ithal etmiştir. Ürünlere ilişkin menşe şahadetnamesi Suriye'nin yetkili makamlarınca düzenlenmiş ve gerçeğe uygundur. Tacir (B), ithal ettiği ürünlerin bir kısmını Şanlıurfa'daki, bir kısmını da Diyarbakır'daki tacirlere, üzerine İthalat Uygunluk Belgesinin tarih ve sayısını kaydettiği satış faturası ve ilgili nakliye belgelerini düzenleyerek satmıştır.
+**20-** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamında ithal edilen ürünlerin satışına ve bu ürünlerin Karar kapsamındaki iller dışında satılması hâlinde uygulanacak müeyyidelere ilişkin aşağıdakilerden hangisi yanlıştır?
 
-Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre bu durumda aşağıdakilerden hangisi uygulanır?  
-
-A) Diyarbakır'da satılan ürünler için İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı tahsil edilir; tacirin İthalat Uygunluk Belgeleri Valilikçe iptal edilir ve adına bir daha bu belge düzenlenmez.  
-B) Şanlıurfa ve Diyarbakır'da satılan ürünlerin tamamı için İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı tahsil edilir; tacirin İthalat Uygunluk Belgeleri Valilikçe iptal edilir.  
-C) Diyarbakır'da satılan ürünler için İthalat Rejimi Kararı uyarınca alınması gereken vergiler tahsil edilir; tacirin İthalat Uygunluk Belgeleri iptal edilir, ancak yeni belge başvuruları İl Değerlendirme Komisyonunca değerlendirmeye alınabilir.  
-D) İthal edilen ürünlerin tamamı için ithalde ödenmesi öngörülen vergi ve mali yüklerin tamamı tahsil edilir ve ayrıca Gümrük Kanunu uyarınca para cezası uygulanır.  
-E) Satışlar Doğu ve Güneydoğu Anadolu bölgelerindeki iller içinde kaldığından ve satış belgeleri usulüne uygun düzenlendiğinden tacir hakkında herhangi bir müeyyide uygulanmaz.  
+A) Karar kapsamındaki illerde yerleşik esnaf ve tacire yapılan satışlarda satış faturası ve ilgili nakliye belgeleri düzenlenir; faturaya İthalat Uygunluk Belgesinin tarih ve sayısı da kaydedilir.  
+B) Karar kapsamındaki iller dışında satıldığı tespit edilen ürünler için İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı ilgiliden tahsil edilir.  
+C) Ürünleri Karar kapsamındaki iller dışında satanların İthalat Uygunluk Belgeleri ilgili Valilikçe iptal edilir.  
+D) Ürünleri Karar kapsamındaki iller dışında satanlar ile bunların sahibi, ortağı veya yöneticisi olduğu firmalar adına bir daha İthalat Uygunluk Belgesi düzenlenmez.  
+E) Karar kapsamında ithal edilen ürünler, Karar kapsamındaki illerle sınırlı olmaksızın Doğu ve Güneydoğu Anadolu coğrafi bölgelerindeki tüm illerde satılabilir.  
 
 ### Cevap Anahtarı
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| E | A | E | A | B | E | B | C | E | C | A | D | B | D | B | D | C | D | C | A |
+| E | A | C | A | B | A | B | C | E | C | E | D | B | D | B | D | A | D | C | E |
 
 ### Çözümler
 
@@ -224,7 +211,7 @@ D) II, III ve IV
 E) I ve III  
 
 **Doğru Cevap:** E  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre Türkiye ile komşu ülkeler arasında coğrafi durum ve bölge ihtiyaçları göz önünde bulundurularak yapılacak sınır ticaretinin kapsamını belirlemeye, sınır ticaret merkezlerinin kurulmasına, buralardan yapılacak ihracat ve ithalatın usul ve esaslarını belirlemeye veya sınır ticareti yoluyla serbest dolaşıma girecek eşyadan alınacak vergileri göstermek üzere tek ve maktu bir tarife uygulamaya Cumhurbaşkanı yetkilidir (I doğru). Tek ve maktu tarife, ilgili kanunlarda belirtilen azami hadleri geçmemek şartıyla uygulanır; Kanun bir üst sınır koyar, asgari had öngörmez (IV yanlış). Sınır ticaret merkezleri, gümrük işlemlerinin yürütülmesinde Türkiye Cumhuriyeti Gümrük Bölgesi dışında addedilir (II yanlış). Sınır ticaretine ilişkin gümrük işlemleri ise Kanun metnindeki ifadeyle Müsteşarlıkça belirlenir (III doğru). En güçlü çeldirici II'dir: sınır ticaret merkezleri fiziken sınır hattında, Türkiye tarafında kurulsa da Kanun bu yerleri gümrük işlemleri bakımından Gümrük Bölgesi dışında sayar. Bu nedenle doğru cevap E seçeneğidir. (MD GK 172)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre Türkiye ile komşu ülkeler arasında coğrafi durum ve bölge ihtiyaçları göz önünde bulundurularak yapılacak sınır ticaretinin kapsamını belirlemeye, sınır ticaret merkezlerinin kurulmasına, buralardan yapılacak ihracat ve ithalatın usul ve esaslarını belirlemeye veya sınır ticareti yoluyla serbest dolaşıma girecek eşyadan alınacak vergileri göstermek üzere tek ve maktu bir tarife uygulamaya Cumhurbaşkanı yetkilidir (I doğru). Tek ve maktu tarife, ilgili kanunlarda belirtilen azami hadleri geçmemek şartıyla uygulanır; Kanun bir üst sınır koyar, asgari had öngörmez (IV yanlış). Sınır ticaret merkezleri, gümrük işlemlerinin yürütülmesinde Türkiye Cumhuriyeti Gümrük Bölgesi dışında addedilir (II yanlış). Sınır ticaretine ilişkin gümrük işlemleri ise Kanun metnindeki ifadeyle Müsteşarlıkça belirlenir (III doğru). En güçlü tuzak II. önermedir: sınır ticaret merkezleri fiziken sınır hattında, Türkiye tarafında kurulsa da Kanun bu yerleri gümrük işlemleri bakımından Gümrük Bölgesi dışında sayar. Bu nedenle doğru cevap E seçeneğidir. (MD GK 172)
 
 *Sınır Ticaretinin Düzenlenmesine İlişkin Karar (03.12.2021/31678 R.G.) md. 6*
 
@@ -245,12 +232,12 @@ E) Süresi sona ermeden yapılan başvurunun Komisyonca uygun görülmesi hâlin
 
 A) Başvuruları İl Değerlendirme Komisyonu tarafından uygun görülenler adına belge, ithal edilecek ürünlerin tamamını kapsayacak şekilde Valilikçe düzenlenir.  
 B) Belge, düzenlendiği tarihten itibaren üç yıl süreyle geçerlidir.  
-C) Belgenin geçerliliği, ilgili Valilikçe vize edilmek suretiyle bir yıllık sürelerle uzatılabilir.  
-D) Belge, Karar kapsamındaki illerde yerleşik ve Sınır Ticareti Belgesini haiz esnaf ve tacire devredilebilir.  
-E) Başvuruları İl Değerlendirme Komisyonu tarafından uygun görülenler adına her bir ürün için ayrı bir belge, İl Ticaret Odası veya İl Ticaret ve Sanayi Odasınca düzenlenir.  
+C) Başvuruları İl Değerlendirme Komisyonu tarafından uygun görülenler adına her bir ürün için ayrı bir belge, İl Ticaret Odası veya İl Ticaret ve Sanayi Odasınca düzenlenir.  
+D) Belgenin geçerliliği, ilgili Valilikçe vize edilmek suretiyle bir yıllık sürelerle uzatılabilir.  
+E) Belge, Karar kapsamındaki illerde yerleşik ve Sınır Ticareti Belgesini haiz esnaf ve tacire devredilebilir.  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre İthalat Uygunluk Belgesi başvuruları, Sınır Ticareti Belgesini haiz esnaf ve tacir ile mağaza kiralayanlar tarafından İl Ticaret Odası veya İl Ticaret ve Sanayi Odasına yapılır; İl Değerlendirme Komisyonunca uygun görülenler adına her bir ürün için ayrı bir belgeyi Oda düzenler. Belge Ticaret İl Müdürü ile Odanın en az genel sekreter düzeyindeki yetkilisince imzalanır ve Odaca mühürlenir. Valilikçe düzenlenme, üç yıllık geçerlik ve Valilikçe vize edilerek bir yıllık sürelerle uzatma Sınır Ticareti Belgesine ait hükümlerdir; İthalat Uygunluk Belgesinin geçerlik süresi düzenlendiği tarihten itibaren 90 gündür ve uzatılamaz. Belge hiçbir şekilde devredilemez; devredildiğinin tespiti hâlinde Valilikçe iptal edilir. En güçlü çeldirici belgenin Valilikçe düzenlendiğini söyleyen ifadedir: Valilik Sınır Ticareti Belgesini düzenler, İthalat Uygunluk Belgesini ise yalnızca iptal eder. Bu nedenle doğru cevap E seçeneğidir. (MD Karar 6, 8)
+**Doğru Cevap:** C  
+**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre İthalat Uygunluk Belgesi başvuruları, Sınır Ticareti Belgesini haiz esnaf ve tacir ile mağaza kiralayanlar tarafından İl Ticaret Odası veya İl Ticaret ve Sanayi Odasına yapılır; İl Değerlendirme Komisyonunca uygun görülenler adına her bir ürün için ayrı bir belgeyi Oda düzenler. Belge Ticaret İl Müdürü ile Odanın en az genel sekreter düzeyindeki yetkilisince imzalanır ve Odaca mühürlenir. Valilikçe düzenlenme, üç yıllık geçerlik ve Valilikçe vize edilerek bir yıllık sürelerle uzatma Sınır Ticareti Belgesine ait hükümlerdir; İthalat Uygunluk Belgesinin geçerlik süresi düzenlendiği tarihten itibaren 90 gündür ve uzatılamaz. Belge hiçbir şekilde devredilemez; devredildiğinin tespiti hâlinde Valilikçe iptal edilir. En güçlü çeldirici belgenin Valilikçe düzenlendiğini söyleyen ifadedir: Valilik Sınır Ticareti Belgesini düzenler, İthalat Uygunluk Belgesini ise yalnızca iptal eder. Bu nedenle doğru cevap C seçeneğidir. (MD Karar 6, 8)
 
 *Sınır Ticaretinin Düzenlenmesine İlişkin Karar (03.12.2021/31678 R.G.) md. 8*
 
@@ -282,14 +269,14 @@ E) Bir takvim yılı içerisinde en fazla 75.000 ABD Doları karşılığı Tür
 
 **6-** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre Vali veya Vali Yardımcısı başkanlığında oluşturulan İl Değerlendirme Komisyonunda yer alanlar arasında aşağıdakilerden hangisi sayılmamıştır?
 
-A) İl Defterdarı  
-B) Gümrük İl Müdürü  
-C) İl Jandarma Komutanlığı ya da İl Emniyet Müdürlüğü temsilcisi  
-D) İlde bulunan Esnaf ve Sanatkârlar Odaları Birliği temsilcisi  
-E) İlde faaliyet gösteren gümrük müşavirleri derneği temsilcisi  
+A) İlde faaliyet gösteren gümrük müşavirleri derneği temsilcisi  
+B) İl Defterdarı  
+C) Gümrük İl Müdürü  
+D) İl Jandarma Komutanlığı ya da İl Emniyet Müdürlüğü temsilcisi  
+E) İlde bulunan Esnaf ve Sanatkârlar Odaları Birliği temsilcisi  
 
-**Doğru Cevap:** E  
-**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre İl Değerlendirme Komisyonu, Karar kapsamındaki illerin Vali veya Vali Yardımcısı başkanlığında İl Jandarma Komutanlığı ya da İl Emniyet Müdürlüğü temsilcisi, İl Defterdarı, Gümrük İl Müdürü, Sanayi ve Teknoloji İl Müdürü, Ticaret İl Müdürü, İl Tarım ve Orman Müdürü, İl Ticaret Odası veya İl Ticaret ve Sanayi Odası ile ilde bulunan Esnaf ve Sanatkârlar Odaları Birliği temsilcilerinden oluşur. Komisyon Sınır Ticareti Belgesi ve İthalat Uygunluk Belgesi başvurularını değerlendirerek karara bağlar. Gümrük işlemlerinde gümrük müşavirlerinin rolü olsa da Komisyonda gümrük müşavirlerini temsil eden bir üye sayılmamıştır; gümrük tarafı Gümrük İl Müdürü ile temsil edilir. Liste kapalıdır; akla yatkın görünen bir meslek temsilcisi eklenerek genişletilemez. Bu nedenle doğru cevap E seçeneğidir. (MD Karar 4, 5)
+**Doğru Cevap:** A  
+**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre İl Değerlendirme Komisyonu, Karar kapsamındaki illerin Vali veya Vali Yardımcısı başkanlığında İl Jandarma Komutanlığı ya da İl Emniyet Müdürlüğü temsilcisi, İl Defterdarı, Gümrük İl Müdürü, Sanayi ve Teknoloji İl Müdürü, Ticaret İl Müdürü, İl Tarım ve Orman Müdürü, İl Ticaret Odası veya İl Ticaret ve Sanayi Odası ile ilde bulunan Esnaf ve Sanatkârlar Odaları Birliği temsilcilerinden oluşur. Komisyon Sınır Ticareti Belgesi ve İthalat Uygunluk Belgesi başvurularını değerlendirerek karara bağlar. Gümrük işlemlerinde gümrük müşavirlerinin rolü olsa da Komisyonda gümrük müşavirlerini temsil eden bir üye sayılmamıştır; gümrük tarafı Gümrük İl Müdürü ile temsil edilir. Liste kapalıdır; akla yatkın görünen bir meslek temsilcisi eklenerek genişletilemez. Bu nedenle doğru cevap A seçeneğidir. (MD Karar 4, 5)
 
 *Sınır Ticaretinin Düzenlenmesine İlişkin Karar (03.12.2021/31678 R.G.) md. 7; Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11) md. 8, 9*
 
@@ -355,32 +342,27 @@ E) on iş günü – on iş günü
 
 **11-** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre aşağıdakilerden hangisi sınır ticareti kapsamına girmeyen ürünler arasında sayılmamıştır?
 
-A) İthalatta gözetim uygulamasına tabi ürünler  
-B) Damping ve sübvansiyona karşı önlemler ile korunma önlemlerine tabi ürünler  
-C) Petrol ve petrol ürünleri  
-D) Amonyum nitrat ve benzeri içerikli patlayıcı yapımında kullanılabilecek maddeler  
-E) Canlı hayvan ve hayvansal ürünler  
+A) Damping ve sübvansiyona karşı önlemler ile korunma önlemlerine tabi ürünler  
+B) Petrol ve petrol ürünleri  
+C) Amonyum nitrat ve benzeri içerikli patlayıcı yapımında kullanılabilecek maddeler  
+D) Canlı hayvan ve hayvansal ürünler  
+E) İthalatta gözetim uygulamasına tabi ürünler  
 
-**Doğru Cevap:** A  
-**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre ihracı ve ithali ilgili mevzuatla yasaklanmış ve ithali belli kurum ve kuruluşlara bırakılmış maddeler; damping ve sübvansiyona karşı önlemler ile korunma önlemlerine tabi ürünler; petrol ve petrol ürünleri; 5201 sayılı Kanun kapsamında kontrole tabi ürünler; sivil kullanım amaçlı patlayıcı maddeler ile amonyum nitrat ve benzeri içerikli patlayıcı yapımında kullanılabilecek maddeler sınır ticaretine konu edilemez. Canlı hayvan ve hayvansal ürünlerin ticareti ile Tarım ve Orman Bakanlığınca insan, bitki ve hayvan sağlığı açısından risk teşkil ettiği belirlenen ürünlerin ticareti de yapılamaz. Gözetim bu listede yer almaz; aksine Karar, ithalatta gözetim uygulanmasına ilişkin mevzuat hükümlerinin bu Karar kapsamındaki eşya için uygulanmayacağını öngörür. Gözetim, damping ve korunma önlemleriyle aynı ailedenmiş gibi görünerek sağduyuyla listeye eklenen yabancıdır. Bu nedenle doğru cevap A seçeneğidir. (MD Karar 11, 19)
+**Doğru Cevap:** E  
+**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre ihracı ve ithali ilgili mevzuatla yasaklanmış ve ithali belli kurum ve kuruluşlara bırakılmış maddeler; damping ve sübvansiyona karşı önlemler ile korunma önlemlerine tabi ürünler; petrol ve petrol ürünleri; 5201 sayılı Kanun kapsamında kontrole tabi ürünler; sivil kullanım amaçlı patlayıcı maddeler ile amonyum nitrat ve benzeri içerikli patlayıcı yapımında kullanılabilecek maddeler sınır ticaretine konu edilemez. Canlı hayvan ve hayvansal ürünlerin ticareti ile Tarım ve Orman Bakanlığınca insan, bitki ve hayvan sağlığı açısından risk teşkil ettiği belirlenen ürünlerin ticareti de yapılamaz. Gözetim bu listede yer almaz; aksine Karar, ithalatta gözetim uygulanmasına ilişkin mevzuat hükümlerinin bu Karar kapsamındaki eşya için uygulanmayacağını öngörür. Gözetim, damping ve korunma önlemleriyle aynı ailedenmiş gibi görünerek sağduyuyla listeye eklenen yabancıdır. Bu nedenle doğru cevap E seçeneğidir. (MD Karar 11, 19)
 
-*Sınır Ticaretinin Düzenlenmesine İlişkin Karar (03.12.2021/31678 R.G.) md. 9; 4458 sayılı Gümrük Kanunu md. 172*
+*Sınır Ticaretinin Düzenlenmesine İlişkin Karar (03.12.2021/31678 R.G.) md. 9, 17; 4458 sayılı Gümrük Kanunu md. 172*
 
-**12-** Van'da yerleşik ve Sınır Ticareti Belgesini haiz tacir (A), İthalat Uygunluk Belgesine istinaden Kapıköy gümrük kapısından İran menşeli bir sanayi ürününü sınır ticareti kapsamında ithal etmektedir. Eşyaya genel hükümlere göre uygulanacak oranlar şöyledir:
+**12-** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamında yapılan ithalatta uygulanan tek ve maktu vergi nasıl hesaplanır?
 
-- Gümrük vergisi: %10  
-- Katma değer vergisi: %20  
-- Özel tüketim vergisi: %25  
-Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre bu ithalatta uygulanacak tek ve maktu verginin oranı yüzde kaçtır?  
-
-A) %20  
-B) %30  
-C) %35  
-D) %45  
-E) %55  
+A) Gümrük vergisi, katma değer vergisi ve özel tüketim vergisi oranları toplamı olarak  
+B) Gümrük vergisi ile katma değer vergisi oranları toplamı olarak  
+C) Gümrük vergisi ile özel tüketim vergisi oranları toplamı olarak  
+D) Katma değer vergisi ile özel tüketim vergisi oranları toplamı olarak  
+E) İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin toplamı olarak  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamındaki ithalatta tek ve maktu vergi uygulanır ve bu vergi katma değer vergisi ile özel tüketim vergisi oranlarının toplamı olarak hesaplanır: %20 + %25 = %45. Gümrük vergisi bu toplama girmez. En güçlü çeldirici %55'tir: genel hükümlerdeki üç oranı birden toplayan aday, tek ve maktu verginin yalnızca KDV ve ÖTV oranlarından oluştuğunu atlar. %30 gümrük vergisi ile KDV'yi, %35 gümrük vergisi ile ÖTV'yi toplayan hatalı hesaplardır; %20 yalnızca KDV oranıdır. Gümrük Kanunu da Cumhurbaşkanına, sınır ticareti yoluyla serbest dolaşıma girecek eşyadan alınacak vergileri göstermek üzere ilgili kanunlardaki azami hadleri geçmemek şartıyla tek ve maktu bir tarife uygulama yetkisi verir. Bu nedenle doğru cevap D seçeneğidir. (MD Karar 9; GK 172)
+**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamındaki ithalatta tek ve maktu vergi uygulanır ve bu vergi katma değer vergisi ile özel tüketim vergisi oranlarının toplamı olarak hesaplanır; gümrük vergisi bu toplama girmez. Genel hükümlerde ithalatta alınan üç vergiyi birden toplayan ya da gümrük vergisini katma değer vergisi veya özel tüketim vergisiyle birleştiren seçenekler, tek ve maktu verginin yalnızca bu iki verginin oranlarından oluştuğunu atlar; üç oranı birden toplayan seçenek en güçlü çeldiricidir. İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı ise Karar kapsamında ithal edilen ürünlerin kapsam dışındaki illerde satıldığının tespiti hâlinde tahsil edilen tutardır; tek ve maktu vergi değildir. Gümrük Kanunu da Cumhurbaşkanına, sınır ticareti yoluyla serbest dolaşıma girecek eşyadan alınacak vergileri göstermek üzere ilgili kanunlardaki azami hadleri geçmemek şartıyla tek ve maktu bir tarife uygulama yetkisi verir. Bu nedenle doğru cevap D seçeneğidir. (MD Karar 9, 17; GK 172)
 
 *Sınır Ticaret Merkezleri Usul ve Esaslar Yönetmeliği (31.10.2009/27392 R.G.) md. 12*
 
@@ -408,24 +390,18 @@ E) Beş yıl; defter ve belgelerin gümrük müdürlüğüne ibraz edildiği tar
 **Doğru Cevap:** D  
 **Gerekçe:** Yönetmeliğe göre Sınır Ticaret Merkezi işleticisi ile mağaza işleticisi; eşya giriş-çıkış defteri, ihracata ve ithalata ilişkin gümrük beyannameleri, satış belgesi ve aylık satış listesini tutmak ve düzenlemek zorundadır. İlgili kişiler bu defter ve belgeleri gümrük kontrolü amacıyla beş yıl süreyle saklamak zorundadır; saklama süresi defterlerin tasdik edildiği, belgelerin ise düzenlendiği yılın sonundan itibaren işlemeye başlar. Üç yıl, Tebliğ'e göre sınır ticareti kapsamında ithal edilen ürünlerin satışında düzenlenen satış faturası ve nakliye belgelerinin esnaf veya tacirce muhafaza edileceği asgari süredir. En güçlü çeldirici 'yılın başından' ifadesidir: tek kelime değişikliği saklama süresini bir yıla yakın kısaltır. Bu nedenle doğru cevap D seçeneğidir. (MD Yön. 7; Tebliğ 12)
 
-*Sınır Ticaret Merkezleri Usul ve Esaslar Yönetmeliği (31.10.2009/27392 R.G.) md. 8*
+*Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11) md. 4, 5, 6*
 
-**15-** Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre Sınır Ticaret Merkezi Eşya Giriş-Çıkış Defterine ilişkin aşağıdaki ifadeler verilmiştir:
+**15-** Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2016/11)'e göre "İl Ticaret Odası veya İl Ticaret ve Sanayi Odası nezdinde kurulan büro" olarak tanımlanan birim aşağıdakilerden hangisidir?
 
-I. Defterin her yaprağı müteselsil sıra numaralı olur.  
-II. Defter, Sınır Ticaret Merkezinin bağlı olduğu gümrük müdürlüğünce tasdik edilir.  
-III. Deftere kayıtların en geç üç iş günü içinde yapılması zorunludur.  
-IV. Yeni faaliyete geçenler defteri faaliyete geçmeden önce tasdik ettirmek zorundadır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I, III ve IV  
-C) I ve III  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Sınır Ticareti Bürosu  
+B) Sekretarya  
+C) İl Değerlendirme Komisyonu  
+D) Ticaret İl Müdürlüğü  
+E) Esnaf ve Sanatkârlar Odaları Birliği  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Yönetmeliğe göre Sınır Ticaret Merkezi Eşya Giriş-Çıkış Defterinin her yaprağı müteselsil sıra numaralı olur (I doğru). Defter, satış mağazasının bulunduğu yerdeki noter veya noterlik görevini ifa ile mükellef olanlar tarafından tasdik edilir; gümrük idaresi tasdik makamı değildir, yalnızca tasdik şerhinde firmanın denetimi altında bulunduğu gümrük idaresi yazılır (II yanlış). Deftere kayıtların en geç üç iş günü içinde yapılması zorunludur (III doğru). Defterin yeni faaliyete geçenler için faaliyete geçmeden önce, öteden beri faaliyete devam edenler için kullanılacağı yıldan önce gelen son ayda, yaprakların dolması hâlinde ise yeni yapraklar kullanılmadan önce tasdik ettirilmesi mecburidir (IV doğru). En güçlü çeldirici II'dir: defterin gümrük denetimi için tutulması, tasdikin de gümrükçe yapılacağı izlenimini verir. Bu nedenle doğru cevap B seçeneğidir. (MD Yön. 8)
+**Gerekçe:** Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ'e göre Sekretarya, İl Ticaret Odası veya İl Ticaret ve Sanayi Odası nezdinde kurulan büroyu ifade eder; İl Değerlendirme Komisyonunun sekretarya hizmetlerini yürütür, Sınır Ticareti Belgesi ve İthalat Uygunluk Belgesi başvuruları ona yapılır ve eksiksiz başvurular onun tarafından Komisyona iletilir. Aynı maddede tanımlanan Sınır Ticareti Bürosu ise Valilik nezdinde Ticaret İl Müdürlüğü bünyesinde kurulan ve Valiliğin sınır ticaretine ilişkin sekretarya hizmetini yürüten bürodur; hem 'büro' adını taşıması hem de sekretarya hizmeti görmesi nedeniyle en güçlü çeldirici budur. Ticaret İl Müdürlüğü bu büronun bünyesinde bulunduğu birimdir. İl Değerlendirme Komisyonu, Vali veya Vali Yardımcısı başkanlığında oluşan ve başvuruları karara bağlayan komisyondur. Esnaf ve Sanatkârlar Odaları Birliğinden personel ise Komisyon kararıyla gerekli hâllerde Sekretaryada görevlendirilebilir. Bu nedenle doğru cevap B seçeneğidir. (MD Tebliğ 4, 5, 6)
 
 *Sınır Ticaret Merkezleri Usul ve Esaslar Yönetmeliği (31.10.2009/27392 R.G.) md. 10; Sınır Ticaretinin Düzenlenmesine İlişkin Karar (03.12.2021/31678 R.G.) md. 18*
 
@@ -444,14 +420,14 @@ E) Müteakip ayın ilk haftası içinde, ilgili Valiliğe
 
 **17-** Sınır Ticaret Merkezlerinin Fiziki Olarak Düzenlenmesi, Eşya ve Stok Kontrollerinin Yapılması ile Bu Merkezlere Giriş ve Çıkışlara İlişkin Usul ve Esaslara Dair Yönetmeliğe göre Sınır Ticaret Merkezlerinde yapılan sayımlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
-A) Sınır Ticaret Merkezindeki eşyanın kısa sürede sayılamayacak kadar çok olması hâlinde, gümrük idarelerince örnekleme yöntemiyle sayılması mümkündür.  
-B) İhraç eşyasında noksanlık tespit edilmesi hâlinde, katma değer vergisi ve varsa özel tüketim vergisi istisnasından yararlanan eşyanın katma değer vergisi tahsil edilir.  
-C) Sayım sonunda 3 aydan fazla bir süredir Sınır Ticaret Merkezinde bulunduğu tespit edilen ithal eşyası, gümrük mevzuatı doğrultusunda geri gelen eşya hükümlerine tabi tutulur.  
+A) Sayım sonunda 3 aydan fazla bir süredir Sınır Ticaret Merkezinde bulunduğu tespit edilen ithal eşyası, gümrük mevzuatı doğrultusunda geri gelen eşya hükümlerine tabi tutulur.  
+B) Sınır Ticaret Merkezindeki eşyanın kısa sürede sayılamayacak kadar çok olması hâlinde, gümrük idarelerince örnekleme yöntemiyle sayılması mümkündür.  
+C) İhraç eşyasında noksanlık tespit edilmesi hâlinde, katma değer vergisi ve varsa özel tüketim vergisi istisnasından yararlanan eşyanın katma değer vergisi tahsil edilir.  
 D) Sınır Ticaret Merkezi ve mağazalarının sayımlarında bulunacak heyete, ilgili gümrük müdürü tarafından tayin edilecek en az şef seviyesinde bir memur başkanlık eder.  
 E) Sayım sonucunda fazla çıkan eşya kayıtlara alınır; fazlalığın geçerli nedenlerden ileri geldiğine gümrük idaresince kanaat getirilmezse Gümrük Kanunu uyarınca işlem yapılır.  
 
-**Doğru Cevap:** C  
-**Gerekçe:** Yönetmeliğe göre Sınır Ticaret Merkezindeki eşya her yıl, işletici veya mağazaların yıl sonunda verdiği liste göz önünde bulundurularak gümrük idaresince sayılır; eşyanın kısa sürede sayılamayacak kadar çok olması hâlinde örnekleme yöntemi kullanılabilir. Sayımda noksan çıkan ithal eşyasının gümrük vergileri ve cezaları duruma göre işletici veya mağazalardan tahsil edilir; ihraç eşyasında noksanlık tespit edilirse KDV ve varsa ÖTV istisnasından yararlanan eşyanın katma değer vergisi tahsil edilir. Fazla çıkan eşya kayıtlara alınır ve fazlalığın geçerli nedenlerden ileri geldiğine kanaat getirilmezse Gümrük Kanunu uyarınca işlem yapılır. Sayım heyetine ilgili gümrük müdürünün tayin edeceği en az şef seviyesinde bir memur başkanlık eder. Sayım sonunda 3 aydan fazla bir süredir merkezde bulunduğu tespit edilen eşyanın geri gelen eşya hükümlerine tabi tutulması yalnızca ihraç eşyası için öngörülmüştür; geri gelen eşya, Türkiye'den ihraç edilmiş eşyaya ilişkin bir kurumdur. Bu nedenle doğru cevap C seçeneğidir. (MD Yön. 13)
+**Doğru Cevap:** A  
+**Gerekçe:** Yönetmeliğe göre Sınır Ticaret Merkezindeki eşya her yıl, işletici veya mağazaların yıl sonunda verdiği liste göz önünde bulundurularak gümrük idaresince sayılır; eşyanın kısa sürede sayılamayacak kadar çok olması hâlinde örnekleme yöntemi kullanılabilir. Sayımda noksan çıkan ithal eşyasının gümrük vergileri ve cezaları duruma göre işletici veya mağazalardan tahsil edilir; ihraç eşyasında noksanlık tespit edilirse KDV ve varsa ÖTV istisnasından yararlanan eşyanın katma değer vergisi tahsil edilir. Fazla çıkan eşya kayıtlara alınır ve fazlalığın geçerli nedenlerden ileri geldiğine kanaat getirilmezse Gümrük Kanunu uyarınca işlem yapılır. Sayım heyetine ilgili gümrük müdürünün tayin edeceği en az şef seviyesinde bir memur başkanlık eder. Sayım sonunda 3 aydan fazla bir süredir merkezde bulunduğu tespit edilen eşyanın geri gelen eşya hükümlerine tabi tutulması yalnızca ihraç eşyası için öngörülmüştür; geri gelen eşya, Türkiye'den ihraç edilmiş eşyaya ilişkin bir kurumdur. Bu nedenle doğru cevap A seçeneğidir. (MD Yön. 13)
 
 *Sınır Ticaretinin Düzenlenmesine İlişkin Karar (03.12.2021/31678 R.G.) md. 15*
 
@@ -485,30 +461,28 @@ E) Ticari işletme merkezleri bu Karar kapsamındaki illerde olan ve en az bir y
 **Doğru Cevap:** C  
 **Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre esnaf, Karar kapsamındaki illerde en az bir yıldır yerleşik olarak faaliyette bulunan ve Esnaf ve Sanatkârlar Siciline kayıtlı olan gerçek kişilerdir. Esnaf tanımında tüzel kişi yer almaz. Ticari işletme merkezi bu illerde olan ve en az bir yıldır faaliyette bulunan gerçek kişiler ise Türk Ticaret Kanunu'na göre 'tacir' tanımına girer; tacir tanımı ayrıca şirket merkezi bu illerde olan ve en az bir yıldır faaliyette bulunan tüzel kişileri de kapsar (vakıf, dernek ve belediyeler ile diğer kamu kurum ve kuruluşları ve bunların kurdukları ya da ortak oldukları şirketler hariç). Ölçüt sicile kayıttır; Esnaf ve Sanatkârlar Odaları Birliği Karar'da İl Değerlendirme Komisyonunda temsil edilen kuruluş olarak geçer. Üç yıl ise Sınır Ticareti Belgesinin geçerlik süresidir. Bu nedenle doğru cevap C seçeneğidir. (MD Karar 4)
 
-*Sınır Ticaretinin Düzenlenmesine İlişkin Karar (03.12.2021/31678 R.G.) md. 2, 9, 17*
+*Sınır Ticaretinin Düzenlenmesine İlişkin Karar (03.12.2021/31678 R.G.) md. 1, 2, 9, 17*
 
-**20-** Mardin'de yerleşik ve Sınır Ticareti Belgesini haiz tacir (B), İthalat Uygunluk Belgesine istinaden Nusaybin gümrük kapısından Suriye menşeli ürünleri sınır ticareti kapsamında ithal etmiştir. Ürünlere ilişkin menşe şahadetnamesi Suriye'nin yetkili makamlarınca düzenlenmiş ve gerçeğe uygundur. Tacir (B), ithal ettiği ürünlerin bir kısmını Şanlıurfa'daki, bir kısmını da Diyarbakır'daki tacirlere, üzerine İthalat Uygunluk Belgesinin tarih ve sayısını kaydettiği satış faturası ve ilgili nakliye belgelerini düzenleyerek satmıştır.
+**20-** Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre sınır ticareti kapsamında ithal edilen ürünlerin satışına ve bu ürünlerin Karar kapsamındaki iller dışında satılması hâlinde uygulanacak müeyyidelere ilişkin aşağıdakilerden hangisi yanlıştır?
 
-Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre bu durumda aşağıdakilerden hangisi uygulanır?  
+A) Karar kapsamındaki illerde yerleşik esnaf ve tacire yapılan satışlarda satış faturası ve ilgili nakliye belgeleri düzenlenir; faturaya İthalat Uygunluk Belgesinin tarih ve sayısı da kaydedilir.  
+B) Karar kapsamındaki iller dışında satıldığı tespit edilen ürünler için İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı ilgiliden tahsil edilir.  
+C) Ürünleri Karar kapsamındaki iller dışında satanların İthalat Uygunluk Belgeleri ilgili Valilikçe iptal edilir.  
+D) Ürünleri Karar kapsamındaki iller dışında satanlar ile bunların sahibi, ortağı veya yöneticisi olduğu firmalar adına bir daha İthalat Uygunluk Belgesi düzenlenmez.  
+E) Karar kapsamında ithal edilen ürünler, Karar kapsamındaki illerle sınırlı olmaksızın Doğu ve Güneydoğu Anadolu coğrafi bölgelerindeki tüm illerde satılabilir.  
 
-A) Diyarbakır'da satılan ürünler için İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı tahsil edilir; tacirin İthalat Uygunluk Belgeleri Valilikçe iptal edilir ve adına bir daha bu belge düzenlenmez.  
-B) Şanlıurfa ve Diyarbakır'da satılan ürünlerin tamamı için İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı tahsil edilir; tacirin İthalat Uygunluk Belgeleri Valilikçe iptal edilir.  
-C) Diyarbakır'da satılan ürünler için İthalat Rejimi Kararı uyarınca alınması gereken vergiler tahsil edilir; tacirin İthalat Uygunluk Belgeleri iptal edilir, ancak yeni belge başvuruları İl Değerlendirme Komisyonunca değerlendirmeye alınabilir.  
-D) İthal edilen ürünlerin tamamı için ithalde ödenmesi öngörülen vergi ve mali yüklerin tamamı tahsil edilir ve ayrıca Gümrük Kanunu uyarınca para cezası uygulanır.  
-E) Satışlar Doğu ve Güneydoğu Anadolu bölgelerindeki iller içinde kaldığından ve satış belgeleri usulüne uygun düzenlendiğinden tacir hakkında herhangi bir müeyyide uygulanmaz.  
-
-**Doğru Cevap:** A  
-**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karar yalnızca Artvin, Ardahan, Kars, Iğdır, Ağrı, Van, Hakkâri, Şırnak, Mardin, Şanlıurfa, Gaziantep, Kilis ve Hatay sınır illerinden yapılan sınır ticaretini kapsar ve bu Karar kapsamında ithal edilen ürünler yalnızca bu illerde satılabilir. Şanlıurfa'daki satış bu nedenle mevzuata uygundur; Diyarbakır ise bu listede yer almaz. Karar kapsamındaki iller dışında satıldığı tespit edilen ürünler için İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı 6183 sayılı Kanun hükümlerine göre ilgiliden tahsil edilir; bu eylemi gerçekleştirenlerin İthalat Uygunluk Belgeleri Valilikçe iptal edilir ve kendileri ile sahibi, ortağı veya yöneticisi oldukları firmalar adına bir daha İthalat Uygunluk Belgesi düzenlenmez. Vergilerin tahsiline ek olarak Gümrük Kanunu uyarınca para cezası uygulanması ise gerçek dışı menşe belgesi ibrazı hâline ait müeyyidedir; vakada menşe şahadetnamesi gerçeğe uygundur. İptal edilip yeni başvurunun engellenmediği hâl, vergi ve diğer mali yükümlülüklerin süresinde yerine getirilmemesidir. Bu nedenle doğru cevap A seçeneğidir. (MD Karar 2, 9, 17)
+**Doğru Cevap:** E  
+**Gerekçe:** Sınır Ticaretinin Düzenlenmesine İlişkin Karar yalnızca Artvin, Ardahan, Kars, Iğdır, Ağrı, Van, Hakkâri, Şırnak, Mardin, Şanlıurfa, Gaziantep, Kilis ve Hatay sınır illerinden yapılan sınır ticaretini kapsar ve bu Karar kapsamında ithal edilen ürünler sadece bu illerde satılabilir. Karar'ın amaç hükmünde Doğu ve Güneydoğu Anadolu coğrafi bölgelerine kara sınırı bulunan komşu ülkelerden söz edilmesi, ürünlerin bu bölgelerdeki bütün illerde satılabileceği anlamına gelmez; örneğin Diyarbakır sayılan iller arasında yer almaz. Bu nedenle ürünlerin bu bölgelerdeki tüm illerde satılabileceğini söyleyen ifade yanlıştır. Diğer ifadeler doğrudur: kapsamdaki illerde yerleşik esnaf ve tacire yapılan satışlarda satış faturası ve ilgili nakliye belgeleri düzenlenir ve faturaya İthalat Uygunluk Belgesinin tarih ve sayısı kaydedilir; kapsam dışındaki illerde satıldığı tespit edilen ürünler için İthalat Rejimi Kararı uyarınca alınması gereken gümrük vergisi, eş etkili vergi ve ek mali yüklerin tamamı 6183 sayılı Kanun hükümlerine göre ilgiliden tahsil edilir; bu eylemi gerçekleştirenlerin İthalat Uygunluk Belgeleri Valilikçe iptal edilir ve bunlar ile sahibi, ortağı veya yöneticisi oldukları firmalar adına bir daha İthalat Uygunluk Belgesi düzenlenmez. Bölge adını sağduyuyla kapsam sanan aday, Kararın kapalı il listesini atlar. Bu nedenle doğru cevap E seçeneğidir. (MD Karar 1, 2, 9, 17)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I ve III, I, III ve IV, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 17, MAKAM 6, YAKIN-SAYI 6, SAĞDUYU 5, TERSİNE 3, BAŞLANGIÇ 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I ve III, II ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 18, MAKAM 6, YAKIN-SAYI 6, SAĞDUYU 5, TERİM 4, TERSİNE 3 |
 | İkiz eksen / ayna | — / STB-İUB düzenleyen makam |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 2 |

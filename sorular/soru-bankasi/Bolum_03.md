@@ -28,15 +28,13 @@ C) Yetki kapsamında işlem yapılacak tesislerde, gerektiğinde eşya ve taşı
 D) Gümrük idaresine 1.000.000 Avro tutarında nakit teminat veya teminat mektubu vermiş olmak  
 E) Yetki kapsamında kullanılacak en az 1 tesise sahip olmak  
 
-**3-** Yetkilendirilmiş yükümlü sertifikası sahibi (A) A.Ş.'ye, sertifika sahibi olmayan (B) A.Ş. devir suretiyle katılmış ve devir alma işlemi 3 Mart tarihinde ticaret siciline tescil edilmiştir.
+**3-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü sertifikası sahibi bir şirkete, sertifika sahibi olmayan başka bir şirketin devir suretiyle katılması durumunda aşağıdakilerden hangisi uygulanır?
 
-Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin sertifika sahibi şirketlerin devir, birleşme ve bölünmesine ilişkin hükümlerine göre (A) A.Ş.'nin yapması gereken işlemler aşağıdakilerden hangisinde doğru olarak verilmiştir?  
-
-A) Yeniden sertifika başvurusunda bulunmamalı, yalnızca durumu sertifikayı düzenlemiş olan bölge müdürlüğüne bildirmelidir.  
-B) Tescil tarihini izleyen 60 iş günü içinde gümrük idaresine bildirimde bulunmalı, bu tarihi izleyen 5 iş günü içinde yeniden sertifika başvurusunda bulunmalıdır.  
-C) Tescil tarihini izleyen 5 iş günü içinde gümrük idaresine bildirimde bulunmalı, bu tarihi izleyen 60 iş günü içinde yeniden sertifika başvurusunda bulunmalıdır.  
-D) Tescil tarihini izleyen 5 iş günü içinde gümrük idaresine bildirimde bulunmalı, bu tarihi izleyen 30 iş günü içinde yeniden sertifika başvurusunda bulunmalıdır.  
-E) Yeniden sertifika başvurusu gerekmeksizin, değişikliğin Ticaret Sicil Gazetesinde yayımlandığı tarihi izleyen 5 iş günü içinde sertifikada değişiklik yapılması için başvurmalıdır.  
+A) Yeniden sertifika başvurusunda bulunulmaz; durum yalnızca sertifikayı düzenlemiş olan bölge müdürlüğüne bildirilir.  
+B) Devir alma işleminin tescil edildiği tarihi izleyen 60 iş günü içinde gümrük idaresine bildirim yapılır; bu tarihi izleyen 5 iş günü içinde yeniden sertifika başvurusunda bulunulur.  
+C) Devir alma işleminin tescil edildiği tarihi izleyen 5 iş günü içinde gümrük idaresine bildirim yapılır; bu tarihi izleyen 60 iş günü içinde yeniden sertifika başvurusunda bulunulur.  
+D) Devir alma işleminin tescil edildiği tarihi izleyen 5 iş günü içinde gümrük idaresine bildirim yapılır; bu tarihi izleyen 30 iş günü içinde yeniden sertifika başvurusunda bulunulur.  
+E) Yeniden sertifika başvurusu gerekmeksizin, değişikliğin Ticaret Sicil Gazetesinde yayımlandığı tarihi izleyen 5 iş günü içinde sertifikada değişiklik yapılması için başvurulur.  
 
 **4-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü sertifikası başvurusunda aranan en az 3 yıldır fiilen faaliyette bulunma şartına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -46,13 +44,15 @@ C) Devir, birleşme ve bölünmeye ilişkin istisnalar saklı kalmak kaydıyla, 
 D) Bu şartın aranmadığı devir veya birleşme hâlinde, tüzel kişiliği sona eren şirketin ceza kararı ve beyan sayıları, sertifika talebinde bulunan kişinin ceza kararları ve beyan sayılarıyla birlikte değerlendirilir.  
 E) Başvuru sahibi şirketin iki veya daha fazla şirketi devralması sonrasında yapılan başvuruda, devralınan şirketlerden en az birinin 3 yıldır faaliyette bulunması yeterlidir.  
 
-**5-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre aşağıdaki işlem veya belge ile süre eşleştirmelerinden hangisi yanlıştır?
+**5-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü sertifikası, askıya alma, geri alma ve iptal hükümleri saklı kalmak kaydıyla …(I)… geçerlidir. Belirli koşullar dışında kalan ön incelemeye konu koşulların karşılanıp karşılanmadığı ise sertifikanın düzenlendiği tarihten itibaren …(II)… sertifikayı düzenleyen Bölge Müdürlüğünce ön izlemeye tabi tutulur.
 
-A) Yetkilendirilmiş yükümlü sertifikasının geçerlilik süresi — Askıya alma, geri alma ve iptal hükümleri saklı kalmak kaydıyla süresiz  
-B) Götürü teminat yetkisinin geçerlilik süresi — 1 yıl  
-C) Ek-2 soru formunun sertifika sahibince güncellenmesi — Sertifikanın düzenlendiği tarihten itibaren 5 yılda bir  
-D) Sertifika koşullarının bölge müdürlüğünce ön izlemeye tabi tutulması — Sertifikanın düzenlendiği tarihten itibaren her 3 yılda bir  
-E) Sertifikası iptal edilen kişinin yeni sertifika başvurusunun reddedileceği süre — İptal işlemini müteakip 3 yıl  
+Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?  
+
+A) süresiz olarak / her 3 yılda bir  
+B) 1 yıl süreyle / her yıl  
+C) 5 yıl süreyle / her 5 yılda bir  
+D) süresiz olarak / her 5 yılda bir  
+E) 3 yıl süreyle / her 3 yılda bir  
 
 **6-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre sertifika kapsamında gerçekleştirilen gümrük işlemlerinin yıllık faaliyet raporuna bağlanmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -62,19 +62,13 @@ C) Sertifika sahibi bu incelemeyi hizmet alımı yoluyla da yaptırabilir.
 D) Faaliyet raporuna konu edilecek beyanname sayısı, 50'den az olmamak şartıyla toplam beyanname sayısının en az %5'idir.  
 E) Taşımacı firmaların faaliyet raporlarında, transit beyanlarının yeterli sayıda olmaması hâlinde özet beyanlar esas alınır.  
 
-**7-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin kamu kurum ve kuruluşlarının yetkilendirilmiş yükümlü sertifikası başvurularına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**7-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin kamu kurum ve kuruluşlarının yetkilendirilmiş yükümlü sertifikası başvurularına ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Resmî dairelerin yapacakları başvurularda güvenilirlik, ticari kayıtların güvenilirliği ve izlenebilirliği, mali yeterlilik ile emniyet ve güvenlik koşulları aranmaz.  
-II. Resmî dairelerin başvurularında yalnızca başvuru formu aranır.  
-III. Sermayesinin tamamı devlete ait olan iktisadi devlet teşekküllerinin başvuruları, Ek-20'deki tabloya göre belirlenecek yetkili bölge müdürlüğüne yapılır.  
-IV. Kamu iktisadi kuruluşlarının başvurularında başvuru formu ile birlikte ortaklık ve sermaye yapılarını gösterir belge aranır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) I, III ve IV  
-D) I, II, III ve IV  
-E) I, II ve IV  
+A) Resmî dairelerin başvurularında güvenilirlik, ticari kayıtların güvenilirliği ve izlenebilirliği, mali yeterlilik ile emniyet ve güvenlik koşulları aranmaz.  
+B) Resmî dairelerin başvurularında yalnızca başvuru formu aranır.  
+C) Kamu iktisadi kuruluşlarının başvurularında başvuru formu ile birlikte ortaklık ve sermaye yapılarını gösterir belge aranır.  
+D) Sermayesinin tamamı devlete ait olan iktisadi devlet teşekküllerine de yetkilendirilmiş yükümlü statüsü tanınabilir.  
+E) Resmî dairelerin yetkilendirilmiş yükümlü sertifikası başvuruları, Ek-20'de yer alan tabloya göre belirlenecek yetkili bölge müdürlüğüne yapılır.  
 
 **8-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre, götürü teminat yetkisi kapsamında verilmiş teminata ilişkin hüküm saklı kalmak kaydıyla, ithalatta yerinde gümrükleme izninin kullanılabilmesi için gümrük idaresine verilmesi gereken nakit teminat veya teminat mektubunun tutarı ne kadardır?
 
@@ -94,19 +88,13 @@ C) 250.000
 D) 600.000  
 E) 2.000.000  
 
-**10-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin kısmi teminat uygulamasına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**10-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin kısmi teminat uygulamasına ilişkin hükümlerine göre aşağıdakilerden hangisi doğrudur?
 
-I. Gümrük antrepo rejimi, gümrük kontrolü altında işleme rejimi ve geçici ithalat rejimine tabi tutulan eşya için teminat alınmasının öngörüldüğü durumlarda, sertifika sahibi kişilerden talep etmeleri hâlinde ithalat vergilerinin %10'u oranında teminat alınır.  
-II. Dahilde işleme rejimine tabi tutulan eşya için de, Bakanlar Kurulu Kararları ile belirlenmiş teminat uygulamalarına bakılmaksızın ithalat vergilerinin %10'u oranında teminat alınır.  
-III. Özel Tüketim Vergisi Kanununa ekli (I) sayılı listede yer alan eşyaya ilişkin özel tüketim vergisi için, Bakanlıkça belirlenecek hâller dışında kısmi teminat uygulamasından yararlanılamaz.  
-IV. Ekonomik etkili gümrük rejimlerine ilişkin kesinleşmiş gümrük vergileri, faiz ve para cezasının tebliğ edilen ödeme süresi içinde ödenmemesi ihlalinin, bu nedenle uygulanan askıya alma işleminin sona erdirilmesini takip eden 3 yıl içinde ikinci kez tekrarlanması hâlinde kısmi teminat yetkisi 2 yıl süreyle askıya alınır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, III ve IV  
-E) I, II, III ve IV  
+A) Dahilde işleme rejiminde de Bakanlar Kurulu Kararlarıyla belirlenmiş teminat uygulamalarına bakılmaksızın, sertifika sahiplerinden talep etmeleri hâlinde ithalat vergilerinin %10'u oranında teminat alınır.  
+B) Özel Tüketim Vergisi Kanununa ekli (I) sayılı listede yer alan eşyaya ilişkin özel tüketim vergisi için de kısmi teminat uygulamasından sınırlama olmaksızın yararlanılır.  
+C) Kesinleşmiş kamu alacağının süresinde ödenmemesi ihlalinin, askıya alma işleminin sona erdirilmesini takip eden 3 yıl içinde ikinci kez tekrarlanması hâlinde kısmi teminat yetkisi 1 yıl süreyle askıya alınır.  
+D) Gümrük antrepo, gümrük kontrolü altında işleme ve geçici ithalat rejimlerinde teminat alınması öngörülen durumlarda, sertifika sahiplerinden talep etmeleri hâlinde ithalat vergilerinin %10'u oranında teminat alınır.  
+E) Götürü teminat uygulamasından yararlanma hakkı askıya alınan sertifika sahiplerinin kısmi teminat uygulamasından yararlanma yetkisi devam eder.  
 
 **11-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin yetkilendirilmiş yükümlü sertifikası başvurusunda aranan güvenilirlik koşuluna göre; ithalat ve ihracat beyannamelerine ilişkin olarak Gümrük Kanunu kapsamında usulsüzlük cezası tutarının 75 katını aşan ceza kararları ile aynı tutardaki usulsüzlük cezasının 250 katını aşan katma değer vergisi ve özel tüketim vergisi ceza kararlarının toplamı, 2'den fazla olmak koşuluyla, ithalat ve ihracat gümrük beyannamesi toplamının hangi oranını aşmamalıdır?
 
@@ -186,17 +174,13 @@ C) Değişikliğin yapıldığı tarihi izleyen 5 iş günü
 D) Değişikliğin ilgili vergi dairesince sertifika sahibine bildirildiği tarihi izleyen 30 iş günü  
 E) Değişikliğin ilgili vergi dairesince sertifika sahibine bildirildiği tarihi izleyen 60 iş günü  
 
-**20-** Yetkilendirilmiş yükümlü sertifikası sahibi ve imalatçı olan (D) A.Ş.'ye ilişkin bilgiler şöyledir:
+**20-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre YYS-I ve YYS-II statülerinin verilmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- Başvurunun yapıldığı yıldan bir önceki takvim yılında ve başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde 7 milyon ABD doları tutarında ihracat yapmıştır.  
-- Başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde ortalama 40 işçi istihdam etmiştir.  
-Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin YYS-I ve YYS-II statülerine ilişkin hükümlerine göre (D) A.Ş. hakkında aşağıdakilerden hangisi söylenebilir?  
-
-A) YYS-II statüsünün koşullarını sağlamakta, YYS-I statüsünün koşullarını ise sağlamamaktadır.  
-B) YYS-I statüsünün koşullarını sağlamaktadır; çünkü asgari 5 milyon ABD doları ihracat koşulunu karşılamaktadır.  
-C) Ortalama işçi sayısı 50'nin altında olduğundan YYS-I ve YYS-II statülerinin koşullarını sağlamamaktadır.  
-D) YYS-II statüsünün koşullarını sağlamamaktadır; çünkü asgari 10 milyon ABD doları ihracat yapmamıştır.  
-E) Hem YYS-I hem de YYS-II statüsünün koşullarını sağlamaktadır.  
+A) İmalatçı olan ve belirtilen dönemlerden birinde asgari 5 milyon ABD doları ihracat yapmış yetkilendirilmiş yükümlü statüsü sahibine, başka bir koşul aranmaksızın YYS-I statüsü verilir.  
+B) YYS-I ve YYS-II statüleri, yetkilendirilmiş yükümlü statüsü sahiplerine YYS'ye ek olarak verilir ve her ikisinde de imalatçı olma koşulu aranır.  
+C) YYS-II statüsünde istihdam koşulu, başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde ortalama en az 30 işçi istihdam edilmesidir.  
+D) YYS-I statüsünde ortalama en az 50 işçi istihdam etme koşulu yerine, belirtilen dönemlerden birinde asgari 10 milyon ABD doları ihracat yapılmış olması da yeterlidir.  
+E) YYS-II statüsünde ihracat koşulu, başvurunun yapıldığı yıldan bir önceki takvim yılında veya başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde asgari 1 milyon ABD doları ihracat yapılmış olmasıdır.  
 
 ### Cevap Anahtarı
 
@@ -223,7 +207,7 @@ D) I, III ve IV
 E) I ve III  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü statüsü; güvenilirlik, ticari kayıtların güvenilirliği ve izlenebilir olması, mali yeterlilik ile emniyet ve güvenlik koşullarını sağlayan, gümrük mevzuatına göre serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olan ve en az 3 yıldır fiilen faaliyette bulunan gerçek veya tüzel kişilere tanınır. Bu nedenle I ve III doğrudur. II yanlıştır: serbest bölgeler yerleşiklik kapsamının dışında değil, içindedir. IV de yanlıştır: kapsamlı teminat veya teminattan vazgeçme sertifikası sahibi olmak, statünün temel koşulu değil, sertifika sahibine sonradan verilebilecek izinli gönderici yetkisinin ek koşuludur. En güçlü çeldirici IV'tür; ifade Yönetmelikte gerçekten geçer, ancak izinli gönderici yetkisine ilişkin bölümde yer alır. Bu nedenle doğru cevap E seçeneğidir. (MD 4, 76)
+**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü statüsü; güvenilirlik, ticari kayıtların güvenilirliği ve izlenebilir olması, mali yeterlilik ile emniyet ve güvenlik koşullarını sağlayan, gümrük mevzuatına göre serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olan ve en az 3 yıldır fiilen faaliyette bulunan gerçek veya tüzel kişilere tanınır. Bu nedenle I ve III doğrudur. II yanlıştır: serbest bölgeler yerleşiklik kapsamının dışında değil, içindedir. IV de yanlıştır: kapsamlı teminat veya teminattan vazgeçme sertifikası sahibi olmak, statünün temel koşulu değil, sertifika sahibine sonradan verilebilecek izinli gönderici yetkisinin ek koşuludur. En güçlü çeldirici 'I, III ve IV' seçeneğidir; IV'teki ifade Yönetmelikte gerçekten geçer, ancak izinli gönderici yetkisine ilişkin bölümde yer alır. Bu nedenle doğru cevap E seçeneğidir. (MD 4, 76)
 
 *Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 76, 96, 98*
 
@@ -238,20 +222,18 @@ E) Yetki kapsamında kullanılacak en az 1 tesise sahip olmak
 **Doğru Cevap:** D  
 **Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre izinli gönderici yetkisi için aranan ek koşullar; Ulaştırma ve Altyapı Bakanlığından alınmış uluslararası taşımacı yetki belgesi sahibi olmak, kapsamlı teminat veya teminattan vazgeçme sertifikası sahibi olmak, belirli bir dönemde öngörülen transit beyanı işlem hacmini sağlamak, eşyanın depolanması, boşaltılması, muayenesi ve numune alınabilmesi için gerekli teçhizata, gerektiğinde eşya ve taşıma aracının tartımı için gerekli düzeneğe ve yetki kapsamında kullanılacak en az 1 tesise sahip olmaktır. Gümrük idaresine 1.000.000 Avro tutarında nakit teminat veya teminat mektubu verilmiş olması ise izinli alıcı yetkisinin ek koşuludur. İki yetkinin koşulları büyük ölçüde aynıdır; ayrıldıkları nokta teminattır: izinli göndericide kapsamlı teminat veya teminattan vazgeçme sertifikası, izinli alıcıda 1.000.000 Avro teminat aranır. En güçlü çeldirici kapsamlı teminattır; bu koşul yetkilendirilmiş yükümlü statüsünün temel koşulu olmadığı hâlde izinli gönderici yetkisinin ek koşuludur. Bu nedenle doğru cevap D seçeneğidir. (MD 76, 96, 98)
 
-*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 4, 154*
+*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 4, 17, 154*
 
-**3-** Yetkilendirilmiş yükümlü sertifikası sahibi (A) A.Ş.'ye, sertifika sahibi olmayan (B) A.Ş. devir suretiyle katılmış ve devir alma işlemi 3 Mart tarihinde ticaret siciline tescil edilmiştir.
+**3-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü sertifikası sahibi bir şirkete, sertifika sahibi olmayan başka bir şirketin devir suretiyle katılması durumunda aşağıdakilerden hangisi uygulanır?
 
-Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin sertifika sahibi şirketlerin devir, birleşme ve bölünmesine ilişkin hükümlerine göre (A) A.Ş.'nin yapması gereken işlemler aşağıdakilerden hangisinde doğru olarak verilmiştir?  
-
-A) Yeniden sertifika başvurusunda bulunmamalı, yalnızca durumu sertifikayı düzenlemiş olan bölge müdürlüğüne bildirmelidir.  
-B) Tescil tarihini izleyen 60 iş günü içinde gümrük idaresine bildirimde bulunmalı, bu tarihi izleyen 5 iş günü içinde yeniden sertifika başvurusunda bulunmalıdır.  
-C) Tescil tarihini izleyen 5 iş günü içinde gümrük idaresine bildirimde bulunmalı, bu tarihi izleyen 60 iş günü içinde yeniden sertifika başvurusunda bulunmalıdır.  
-D) Tescil tarihini izleyen 5 iş günü içinde gümrük idaresine bildirimde bulunmalı, bu tarihi izleyen 30 iş günü içinde yeniden sertifika başvurusunda bulunmalıdır.  
-E) Yeniden sertifika başvurusu gerekmeksizin, değişikliğin Ticaret Sicil Gazetesinde yayımlandığı tarihi izleyen 5 iş günü içinde sertifikada değişiklik yapılması için başvurmalıdır.  
+A) Yeniden sertifika başvurusunda bulunulmaz; durum yalnızca sertifikayı düzenlemiş olan bölge müdürlüğüne bildirilir.  
+B) Devir alma işleminin tescil edildiği tarihi izleyen 60 iş günü içinde gümrük idaresine bildirim yapılır; bu tarihi izleyen 5 iş günü içinde yeniden sertifika başvurusunda bulunulur.  
+C) Devir alma işleminin tescil edildiği tarihi izleyen 5 iş günü içinde gümrük idaresine bildirim yapılır; bu tarihi izleyen 60 iş günü içinde yeniden sertifika başvurusunda bulunulur.  
+D) Devir alma işleminin tescil edildiği tarihi izleyen 5 iş günü içinde gümrük idaresine bildirim yapılır; bu tarihi izleyen 30 iş günü içinde yeniden sertifika başvurusunda bulunulur.  
+E) Yeniden sertifika başvurusu gerekmeksizin, değişikliğin Ticaret Sicil Gazetesinde yayımlandığı tarihi izleyen 5 iş günü içinde sertifikada değişiklik yapılması için başvurulur.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre sertifika sahibi şirkete, sertifika sahibi olmayan başka bir şirketin devir suretiyle katılması durumunda devir alma işleminin tescil edildiği tarihi izleyen 5 iş günü içinde gümrük idaresine bildirim yapılır; bu tarihi izleyen 60 iş günü içinde de gerekli belgelerle birlikte yeniden sertifika başvurusunda bulunulur. Süresinde başvurulmazsa sertifika askıya alınır. Vakadaki belirleyici unsur, katılan (B) A.Ş.'nin sertifika sahibi olmamasıdır. Yeniden başvuru yapılmayıp yalnızca bölge müdürlüğüne bildirimde bulunulması, sertifika sahibi şirketin sertifika sahibi başka bir şirkete devir suretiyle katılması veya onunla birleşmesi hâline aittir; en güçlü çeldirici budur. Ticaret Sicil Gazetesindeki yayımı izleyen 5 iş günlük süre ise unvan, adres gibi sertifikada kayıtlı bilgilerin değişmesinde uygulanır. Bu nedenle doğru cevap C seçeneğidir. (MD 4, 17, 154)
+**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre sertifika sahibi şirkete, sertifika sahibi olmayan başka bir şirketin devir suretiyle katılması durumunda devir alma işleminin tescil edildiği tarihi izleyen 5 iş günü içinde gümrük idaresine bildirim yapılır; bu tarihi izleyen 60 iş günü içinde de gerekli belgelerle birlikte yeniden sertifika başvurusunda bulunulur. Bu süre sonuna kadar yeniden başvurulmazsa sertifika askıya alınır. Belirleyici unsur, katılan şirketin sertifika sahibi olmamasıdır. Sertifika sahibi şirketin sertifika sahibi başka bir şirkete devir suretiyle katılması veya onunla yeni bir tüzel kişilik altında birleşmesi hâlinde ise yeniden sertifika başvurusunda bulunulmaz, durum yalnızca sertifikayı düzenlemiş olan bölge müdürlüğüne bildirilir; en güçlü çeldirici bu komşu hükümdür. Ticaret Sicil Gazetesindeki yayımı izleyen 5 iş günlük süre unvan, adres gibi sertifikada kayıtlı bilgilerin değişmesine aittir; 30 iş günü ise Yönetmelikte yeni şirket yetkililerinin adli sicil belgelerinin ibraz süresidir. Bu nedenle doğru cevap C seçeneğidir. (MD 4, 17, 154)
 
 *Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 4, 14*
 
@@ -266,18 +248,20 @@ E) Başvuru sahibi şirketin iki veya daha fazla şirketi devralması sonrasınd
 **Doğru Cevap:** E  
 **Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre en az 3 yıldır fiilen faaliyette bulunma şartı, sertifika sahibi şirketin devir veya birleşme suretiyle tüzel kişiliğinin sona ermesi hâlinde yeni kurulan ya da devralan tüzel kişinin başvurusunda ve şirket ilişkisi bulunan yeni şirkete bölünme suretiyle devirde devralan tüzel kişinin başvurusunda aranmaz; bu hâllerde de tüzel kişiliği sona eren şirketin ceza kararı ve beyan sayıları başvuru sahibinin verileriyle birlikte değerlendirilir. Bu istisnalar saklı kalmak üzere başvuru tarihi itibarıyla 3 yıldan az süredir faaliyette bulunan başvuru sahibinin başvurusu ön inceleme yapılmaksızın reddedilir. Buna karşılık başvuru sahibi şirket iki veya daha fazla şirketi devralmış ya da yeni kurulan bir şirket şeklinde birleşmişse istisna işlemez; her bir şirketin en az 3 yıldır faaliyette bulunması gerekir. Yanlış ifade 'her bir şirketin' kaydını 'en az birinin' biçiminde değiştirmiştir. Bu nedenle doğru cevap E seçeneğidir. (MD 4, 14)
 
-*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 16, 38, 153, 156, 159*
+*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 16, 38, 156, 158, 159*
 
-**5-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre aşağıdaki işlem veya belge ile süre eşleştirmelerinden hangisi yanlıştır?
+**5-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü sertifikası, askıya alma, geri alma ve iptal hükümleri saklı kalmak kaydıyla …(I)… geçerlidir. Belirli koşullar dışında kalan ön incelemeye konu koşulların karşılanıp karşılanmadığı ise sertifikanın düzenlendiği tarihten itibaren …(II)… sertifikayı düzenleyen Bölge Müdürlüğünce ön izlemeye tabi tutulur.
 
-A) Yetkilendirilmiş yükümlü sertifikasının geçerlilik süresi — Askıya alma, geri alma ve iptal hükümleri saklı kalmak kaydıyla süresiz  
-B) Götürü teminat yetkisinin geçerlilik süresi — 1 yıl  
-C) Ek-2 soru formunun sertifika sahibince güncellenmesi — Sertifikanın düzenlendiği tarihten itibaren 5 yılda bir  
-D) Sertifika koşullarının bölge müdürlüğünce ön izlemeye tabi tutulması — Sertifikanın düzenlendiği tarihten itibaren her 3 yılda bir  
-E) Sertifikası iptal edilen kişinin yeni sertifika başvurusunun reddedileceği süre — İptal işlemini müteakip 3 yıl  
+Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?  
+
+A) süresiz olarak / her 3 yılda bir  
+B) 1 yıl süreyle / her yıl  
+C) 5 yıl süreyle / her 5 yılda bir  
+D) süresiz olarak / her 5 yılda bir  
+E) 3 yıl süreyle / her 3 yılda bir  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü sertifikası, askıya alma, geri alma ve iptal hükümleri saklı kalmak kaydıyla süresiz olarak geçerlidir; buna karşılık götürü teminat yetkisinin geçerlilik süresi 1 yıldır. Ek-2 soru formu sertifika sahibince sertifikanın düzenlendiği tarihten itibaren 5 yılda bir güncellenir; sertifikası iptal edilen kişinin iptal işlemini müteakip 3 yıl içinde yaptığı yeni başvuru reddedilir. Sertifika koşullarının bölge müdürlüğünce ön izlemeye tabi tutulması ise 3 yılda bir değil, sertifikanın düzenlendiği tarihten itibaren her 5 yılda bir yapılır; yerinde izleme de aynı periyodla yürütülür. Her 12 aylık dönem sonunda yapılan ise sertifika kapsamındaki gümrük işlemlerinin usulüne uygunluğunun incelenmesidir. En güçlü çeldirici iptal sonrası 3 yıldır; 3 yıl gerçek bir süredir, fakat yeniden başvuru yasağına aittir. Bu nedenle doğru cevap D seçeneğidir. (MD 16, 38, 153, 156, 158, 159)
+**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü sertifikası, askıya alma, geri alma ve iptal hükümleri saklı kalmak kaydıyla süresiz olarak geçerlidir; sertifikanın belirli bir geçerlilik süresi yoktur. Belirli koşullar dışında kalan ön incelemeye konu koşulların karşılanıp karşılanmadığı ise sertifikanın düzenlendiği tarihten itibaren her 5 yılda bir sertifikayı düzenleyen Bölge Müdürlüğünce ön izlemeye tabi tutulur; yerinde izleme de aynı periyotla yapılır. Çeldiricilerdeki sayılar Yönetmeliğin başka hükümlerine aittir: 1 yıl götürü teminat yetkisinin geçerlilik süresidir ve her yıl yapılan iş, sertifika sahibinin her 12 aylık dönem sonunda sertifika kapsamındaki gümrük işlemlerini incelemesidir; 3 yıl ise sertifikası iptal edilen kişinin yeni başvurusunun reddedileceği süredir. En güçlü çeldirici 'süresiz olarak / her 3 yılda bir' seçeneğidir: geçerlilik süresini bilen, fakat iptal sonrasındaki 3 yıllık süreyi izleme periyoduyla karıştıran aday bu seçeneğe yönelir. Bu nedenle doğru cevap D seçeneğidir. (MD 16, 38, 156, 158, 159)
 
 *Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 158*
 
@@ -292,26 +276,20 @@ E) Taşımacı firmaların faaliyet raporlarında, transit beyanlarının yeterl
 **Doğru Cevap:** A  
 **Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre sertifika sahibi, sertifikanın düzenlendiği tarihten sonraki her 12 aylık dönem sonunda sertifika kapsamında gerçekleştirilen gümrük işlemlerinin usulüne uygun yapılıp yapılmadığını inceler. İnceleme, 12 aylık dönemin sonuna tekabül eden tarihi izleyen üçüncü ayın sonuna kadar yapılır ve hizmet alımı yoluyla da yaptırılabilir. Faaliyet raporuna konu edilecek beyanname sayısı 50'den az olmamak şartıyla toplam beyanname sayısının en az %5'idir; taşımacı firmalarda transit beyanları yeterli sayıda değilse özet beyanlar esas alınır. Düzenlenen faaliyet raporları ise her yıl bölge müdürlüğüne gönderilmez; gümrük idaresince ibrazı istendiğinde sunulmak üzere firma bünyesinde saklanır. Olumsuz kökü hızlı okuyan aday, 'ibraz edilir' ifadesini rapor düzenleme yükümlülüğünün doğal sonucu sanarak doğru kabul edebilir. Bu nedenle doğru cevap A seçeneğidir. (MD 158)
 
-*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 9, 10, 11*
+*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 4, 9, 10, 11*
 
-**7-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin kamu kurum ve kuruluşlarının yetkilendirilmiş yükümlü sertifikası başvurularına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**7-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin kamu kurum ve kuruluşlarının yetkilendirilmiş yükümlü sertifikası başvurularına ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Resmî dairelerin yapacakları başvurularda güvenilirlik, ticari kayıtların güvenilirliği ve izlenebilirliği, mali yeterlilik ile emniyet ve güvenlik koşulları aranmaz.  
-II. Resmî dairelerin başvurularında yalnızca başvuru formu aranır.  
-III. Sermayesinin tamamı devlete ait olan iktisadi devlet teşekküllerinin başvuruları, Ek-20'deki tabloya göre belirlenecek yetkili bölge müdürlüğüne yapılır.  
-IV. Kamu iktisadi kuruluşlarının başvurularında başvuru formu ile birlikte ortaklık ve sermaye yapılarını gösterir belge aranır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) I, III ve IV  
-D) I, II, III ve IV  
-E) I, II ve IV  
+A) Resmî dairelerin başvurularında güvenilirlik, ticari kayıtların güvenilirliği ve izlenebilirliği, mali yeterlilik ile emniyet ve güvenlik koşulları aranmaz.  
+B) Resmî dairelerin başvurularında yalnızca başvuru formu aranır.  
+C) Kamu iktisadi kuruluşlarının başvurularında başvuru formu ile birlikte ortaklık ve sermaye yapılarını gösterir belge aranır.  
+D) Sermayesinin tamamı devlete ait olan iktisadi devlet teşekküllerine de yetkilendirilmiş yükümlü statüsü tanınabilir.  
+E) Resmî dairelerin yetkilendirilmiş yükümlü sertifikası başvuruları, Ek-20'de yer alan tabloya göre belirlenecek yetkili bölge müdürlüğüne yapılır.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre resmî daireler, sermayesinin tamamı devlete ait olan iktisadi devlet teşekkülleri, kamu iktisadi kuruluşları ve sermayesinin tamamı bunlara ait bağlı müesseselerin başvurularında güvenilirlik, ticari kayıtlar, mali yeterlilik ile emniyet ve güvenlik koşulları aranmaz (I doğru). Resmî dairelerin başvurularında yalnızca başvuru formu aranır (II doğru); iktisadi devlet teşekkülleri, kamu iktisadi kuruluşları ve müesseselerde ise başvuru formunun yanında ortaklık ve sermaye yapılarını gösterir belge de aranır (IV doğru). Başvuruların Ek-20'deki tabloya göre belirlenen yetkili bölge müdürlüğüne yapılması genel kuraldır; bu kamu kurum ve kuruluşlarının başvuruları ise Orta Anadolu Gümrük ve Dış Ticaret Bölge Müdürlüğüne yapılır (III yanlış). En güçlü çeldirici III'tür; genel başvuru yeri kuralı, kamu kurumlarına ait özel kuralın yerine konulmuştur. Bu nedenle doğru cevap E seçeneğidir. (MD 9, 10, 11)
+**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre başvurular genel olarak Ek-20'de yer alan tabloya göre belirlenecek yetkili bölge müdürlüğüne yapılır; ancak resmî daireler, sermayesinin tamamı devlete ait olan iktisadi devlet teşekkülleri, kamu iktisadi kuruluşları ve sermayesinin tamamı bunlara ait bağlı müesseselerin başvuruları Orta Anadolu Gümrük ve Dış Ticaret Bölge Müdürlüğüne yapılır. Yanlış ifade, genel başvuru yeri kuralını kamu kurumlarına uygulamıştır. Diğer ifadeler doğrudur: bu kurum ve kuruluşların başvurularında güvenilirlik, ticari kayıtların güvenilirliği ve izlenebilirliği, mali yeterlilik ile emniyet ve güvenlik koşulları aranmaz; resmî dairelerin başvurularında yalnızca başvuru formu, kamu iktisadi kuruluşlarında ise başvuru formu ile ortaklık ve sermaye yapılarını gösterir belge aranır. Yönetmelik bu kamu kurum ve kuruluşlarına da statü tanınacağını açıkça belirtir. En güçlü tuzak, Ek-20 tablosunun bütün başvurular için geçerli olduğunu sanmaktır; kamu kurum ve kuruluşları için başvuru yeri tek bir bölge müdürlüğünde toplanmıştır. Bu nedenle doğru cevap E seçeneğidir. (MD 4, 9, 10, 11)
 
-*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 123*
+*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 35, 98, 123*
 
 **8-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre, götürü teminat yetkisi kapsamında verilmiş teminata ilişkin hüküm saklı kalmak kaydıyla, ithalatta yerinde gümrükleme izninin kullanılabilmesi için gümrük idaresine verilmesi gereken nakit teminat veya teminat mektubunun tutarı ne kadardır?
 
@@ -341,22 +319,16 @@ E) 2.000.000
 
 *Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 27, 28, 30, 31*
 
-**10-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin kısmi teminat uygulamasına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**10-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin kısmi teminat uygulamasına ilişkin hükümlerine göre aşağıdakilerden hangisi doğrudur?
 
-I. Gümrük antrepo rejimi, gümrük kontrolü altında işleme rejimi ve geçici ithalat rejimine tabi tutulan eşya için teminat alınmasının öngörüldüğü durumlarda, sertifika sahibi kişilerden talep etmeleri hâlinde ithalat vergilerinin %10'u oranında teminat alınır.  
-II. Dahilde işleme rejimine tabi tutulan eşya için de, Bakanlar Kurulu Kararları ile belirlenmiş teminat uygulamalarına bakılmaksızın ithalat vergilerinin %10'u oranında teminat alınır.  
-III. Özel Tüketim Vergisi Kanununa ekli (I) sayılı listede yer alan eşyaya ilişkin özel tüketim vergisi için, Bakanlıkça belirlenecek hâller dışında kısmi teminat uygulamasından yararlanılamaz.  
-IV. Ekonomik etkili gümrük rejimlerine ilişkin kesinleşmiş gümrük vergileri, faiz ve para cezasının tebliğ edilen ödeme süresi içinde ödenmemesi ihlalinin, bu nedenle uygulanan askıya alma işleminin sona erdirilmesini takip eden 3 yıl içinde ikinci kez tekrarlanması hâlinde kısmi teminat yetkisi 2 yıl süreyle askıya alınır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) II ve IV  
-C) I, II ve III  
-D) I, III ve IV  
-E) I, II, III ve IV  
+A) Dahilde işleme rejiminde de Bakanlar Kurulu Kararlarıyla belirlenmiş teminat uygulamalarına bakılmaksızın, sertifika sahiplerinden talep etmeleri hâlinde ithalat vergilerinin %10'u oranında teminat alınır.  
+B) Özel Tüketim Vergisi Kanununa ekli (I) sayılı listede yer alan eşyaya ilişkin özel tüketim vergisi için de kısmi teminat uygulamasından sınırlama olmaksızın yararlanılır.  
+C) Kesinleşmiş kamu alacağının süresinde ödenmemesi ihlalinin, askıya alma işleminin sona erdirilmesini takip eden 3 yıl içinde ikinci kez tekrarlanması hâlinde kısmi teminat yetkisi 1 yıl süreyle askıya alınır.  
+D) Gümrük antrepo, gümrük kontrolü altında işleme ve geçici ithalat rejimlerinde teminat alınması öngörülen durumlarda, sertifika sahiplerinden talep etmeleri hâlinde ithalat vergilerinin %10'u oranında teminat alınır.  
+E) Götürü teminat uygulamasından yararlanma hakkı askıya alınan sertifika sahiplerinin kısmi teminat uygulamasından yararlanma yetkisi devam eder.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre gümrük antrepo rejimi, gümrük kontrolü altında işleme rejimi ve geçici ithalat rejimine tabi tutulan eşya için teminat alınmasının öngörüldüğü durumlarda sertifika sahiplerinden, talep etmeleri hâlinde, ithalat vergilerinin %10'u oranında teminat alınır (I doğru). Dahilde işleme ve hariçte işleme rejimleriyle ilgili Bakanlar Kurulu Kararlarında belirlenmiş teminat uygulamalarına ilişkin hükümler ise saklıdır; bu rejimlere %10 kuralı bunlara bakılmaksızın uygulanmaz (II yanlış). Özel Tüketim Vergisi Kanununa ekli (I) sayılı listedeki eşyanın özel tüketim vergisi için Bakanlıkça belirlenecek hâller dışında kısmi teminattan yararlanılamaz (III doğru). Ekonomik etkili gümrük rejimlerine ilişkin kesinleşmiş vergi, faiz ve para cezasının süresinde ödenmemesi ihlalinin, sertifikanın bu nedenle askıya alınmasının sona ermesini takip eden 3 yıl içinde ikinci kez tekrarlanması hâlinde kısmi teminat yetkisi, borcun ödenmesini müteakip 2 yıl süreyle askıya alınır (IV doğru). En güçlü çeldirici II'dir; dahilde işleme rejimi kısmi teminatın sayıldığı üç rejim arasında değildir. Bu nedenle doğru cevap D seçeneğidir. (MD 27, 28, 30, 31)
+**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre gümrük antrepo rejimi, gümrük kontrolü altında işleme rejimi ve geçici ithalat rejimine tabi tutulan eşya için teminat alınmasının öngörüldüğü durumlarda sertifika sahibi kişilerden, talep etmeleri hâlinde, ithalat vergilerinin %10'u oranında teminat alınır. Dahilde işleme ve hariçte işleme rejimleriyle ilgili Bakanlar Kurulu Kararlarında belirlenmiş teminat uygulamalarına ilişkin hükümler ise saklıdır; %10 kuralı dahilde işleme rejimine bu kararlara bakılmaksızın uygulanmaz. Özel Tüketim Vergisi Kanununa ekli (I) sayılı listedeki eşyanın özel tüketim vergisi için Bakanlıkça belirlenecek hâller dışında kısmi teminattan yararlanılamaz. Ekonomik etkili gümrük rejimlerine ilişkin kesinleşmiş vergi, faiz ve para cezasının süresinde ödenmemesi ihlalinin askıya almanın sona erdirilmesini takip eden 3 yıl içinde ikinci kez tekrarlanması hâlinde kısmi teminat yetkisi, borcun ödenmesini müteakip 1 yıl değil 2 yıl süreyle askıya alınır. Götürü teminat uygulamasından yararlanma hakkı askıya alınanların kısmi teminat yetkisi de askıya alınır. En güçlü çeldirici dahilde işleme rejimine ilişkin seçenektir: bu rejim kısmi teminatın sayıldığı üç rejim arasında değildir ve Bakanlar Kurulu Kararlarındaki teminat hükümleri saklıdır. Bu nedenle doğru cevap D seçeneğidir. (MD 27, 28, 30, 31)
 
 *Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 5*
 
@@ -388,7 +360,7 @@ D) III ve IV
 E) II, III ve IV  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre güvenilirlik koşulundaki ceza kararı kriterleri uygulanırken kesinleşmemiş ceza kararları dikkate alınmaz (I yanlış). Aynı gümrük idaresinde, aynı tespite istinaden geriye dönük yapılan tarama sonucunda aynı ihlale ilişkin düzenlenen birden fazla ceza kararı 1 ceza kararı sayılır (II doğru). İhlalin gümrük idaresince tespitinden önce beyan sahibi tarafından tespit edilerek idareye bildirilmesi üzerine düzenlenen ceza kararları dikkate alınmaz; kendiliğinden bildirim bu kararları hesabın dışına çıkarır (III yanlış). Ceza kararının düzenlendiği tarih esas alınır ve başvurunun yapıldığı ayın ilk gününden geriye dönük 3 yıldan daha önce işlenen fiiller nedeniyle düzenlenen ceza kararları dikkate alınmaz (IV doğru). En güçlü çeldirici III'tür; sağduyuyla 'ceza verilmişse sayılır' diye düşünen aday kendiliğinden bildirim istisnasını kaçırır. Bu nedenle doğru cevap C seçeneğidir. (MD 5)
+**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre güvenilirlik koşulundaki ceza kararı kriterleri uygulanırken kesinleşmemiş ceza kararları dikkate alınmaz (I yanlış). Aynı gümrük idaresinde, aynı tespite istinaden geriye dönük yapılan tarama sonucunda aynı ihlale ilişkin düzenlenen birden fazla ceza kararı 1 ceza kararı sayılır (II doğru). İhlalin gümrük idaresince tespitinden önce beyan sahibi tarafından tespit edilerek idareye bildirilmesi üzerine düzenlenen ceza kararları dikkate alınmaz; kendiliğinden bildirim bu kararları hesabın dışına çıkarır (III yanlış). Ceza kararının düzenlendiği tarih esas alınır ve başvurunun yapıldığı ayın ilk gününden geriye dönük 3 yıldan daha önce işlenen fiiller nedeniyle düzenlenen ceza kararları dikkate alınmaz (IV doğru). En güçlü çeldirici 'II, III ve IV' seçeneğidir; sağduyuyla 'ceza verilmişse sayılır' diye düşünen aday kendiliğinden bildirim istisnasını kaçırır ve III'ü de doğru sayar. Bu nedenle doğru cevap C seçeneğidir. (MD 5)
 
 *Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 15, 44*
 
@@ -442,7 +414,7 @@ E) Transit rejimine tabi eşyanın hareket gümrük idaresine sunulmaksızın fi
 **Doğru Cevap:** A  
 **Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre ihracatta yerinde gümrükleme; eşyanın ihraç işlemlerinin firmanın kendi tesislerinde basitleştirilmiş usul çerçevesinde yapılması suretiyle, eşyanın ihracat gümrük müdürlüğüne getirilmeden doğrudan çıkış gümrük idaresine sevk edilmesidir. Tanımın iki unsuru vardır: işlemlerin yapıldığı yer firmanın tesisidir ve eşyanın atlandığı idare ihracat gümrük müdürlüğüdür. En güçlü çeldirici, iki idarenin yerini değiştiren seçenektir; çıkış gümrük idaresi atlanmaz, eşya doğrudan oraya sevk edilir. İşlemlerin ihracat gümrük müdürlüğünde yapıldığını söyleyen seçenek tanımın özünü bozar. Eşyanın giriş gümrük idaresinden doğrudan firmanın tesislerine sevk edilmesi ithalatta yerinde gümrüklemenin, hareket gümrük idaresine sunmaksızın sevk ise izinli göndericinin tanımına aittir. Bu nedenle doğru cevap A seçeneğidir. (MD 3)
 
-*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 10*
+*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 10, 12*
 
 **17-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre yetkilendirilmiş yükümlü sertifikası başvurusu sırasında başvuru formunun yanı sıra ibraz edilecek belgeler arasında aşağıdakilerden hangisi yer almaz?
 
@@ -455,7 +427,7 @@ E) Akredite uygunluk değerlendirme kuruluşlarınca düzenlenen geçerli ISO 90
 **Doğru Cevap:** D  
 **Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre başvuru sırasında Ek-1/A başvuru formunun yanı sıra Ek-2 soru formu; güvenilirlik koşulundaki kişiler için başvuru tarihinden geriye dönük en geç 2 ay içinde alınmış adli sicil belgelerinin asılları; sosyal güvenlik prim borcu ve vergi borcuna ilişkin belgeler; son 3 yıl esas alınarak yeminli mali müşavir tarafından karşılaştırmalı olarak hazırlanan ve olumlu sonuca bağlanan mali yeterlilik raporu ile akredite kuruluşlarca düzenlenmiş geçerli ISO 9001 ve ISO 27001 sertifikaları ibraz edilir. Yetkilendirilmiş gümrük müşaviri tarafından düzenlenen bir ön inceleme raporu bu listede yoktur; ön inceleme bölge müdürlüğünce yapılır. Bu seçenek, gümrük müşavirinin her başvuruda zorunlu olduğu önyargısıyla soruyu çözen adayı eler. Raporu hazırlayan meslek mensubunun yeminli mali müşavir olduğuna dikkat edilmelidir. Bu nedenle doğru cevap D seçeneğidir. (MD 10, 12)
 
-*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 6*
+*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 6, 8, 10*
 
 **18-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin ticari kayıtların güvenilirliği ve izlenebilirliği koşuluna göre, gümrük ve dış ticaret mevzuatı eğitimi, gümrük işlemlerinin cari kontrolü ve geriye dönük kontrolü işlemlerinin hizmet alımı yoluyla yaptırılması hâlinde aranan koşul aşağıdakilerden hangisidir?
 
@@ -468,7 +440,7 @@ E) Hizmet alınan firmada bu işlemleri yapan kişi veya birimin, gümrük işle
 **Doğru Cevap:** E  
 **Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre başvuru sahibi, gümrük ve dış ticaret mevzuatı eğitimi, gümrük işlemlerinin cari kontrolü ve geriye dönük kontrolünü yapmak veya yaptırmak zorundadır. Bu işlemler firma bünyesinde yapılıyorsa, işlemleri yapan kişi veya birim gümrük işlemlerini doğrudan temsil yoluyla yapan kişi veya birimden farklı olmalıdır. Hizmet alımı yoluyla yapılıyorsa, dolaylı temsil hizmetinin de aynı firmadan alınıp alınmadığına bakılmaksızın, hizmet alınan firmada bu işlemleri yapan kişi veya birim gümrük işlemlerini dolaylı temsil yoluyla yapan kişi veya birimden farklı olmalıdır. En güçlü çeldirici doğrudan temsile ilişkin seçenektir; bu ayrılık firma bünyesindeki uygulamaya aittir. Dolaylı temsil hizmetinin başka firmadan alınması aranmaz; ISO 27001 sertifikası başvuru sahibinin tesisleri için, periyodik güvenlik araştırması ise emniyet ve güvenlik koşulunda başvuru sahibinin hassas pozisyondaki çalışanları için aranır. Bu nedenle doğru cevap E seçeneğidir. (MD 6, 8, 10)
 
-*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 17, 154*
+*Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 17, 18/A, 154*
 
 **19-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre adına sertifika düzenlenmiş kişinin vergi numarasının değişmesi hâlinde, sertifikada değişiklik yapılması için başvuru süresi aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
@@ -479,34 +451,30 @@ D) Değişikliğin ilgili vergi dairesince sertifika sahibine bildirildiği tari
 E) Değişikliğin ilgili vergi dairesince sertifika sahibine bildirildiği tarihi izleyen 60 iş günü  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre ticaret unvanı, adres, ticaret siciline kayıtlı olunan yer veya ticaret sicil numarası değiştiğinde değişikliğin Ticaret Sicil Gazetesinde veya Türkiye Esnaf ve Sanatkârlar Sicil Gazetesinde yayımlandığı tarihi izleyen 5 iş günü içinde başvurulur. Vergi numarasının değişmesi hâlinde ise süre aynıdır, fakat başlangıç anı farklıdır: başvuru, değişikliğin ilgili vergi dairesince sertifika sahibine bildirildiği tarihi izleyen 5 iş günü içinde yapılır. Bu sürelerde başvurulmazsa sertifika başvuru yapılıncaya kadar askıya alınır. En güçlü çeldirici sicil gazetesindeki yayımı esas alan seçenektir; bu başlangıç anı unvan, adres ve sicil bilgilerine aittir. Değişikliğin yapıldığı tarihi izleyen 5 iş günü şirket yetkililerinin değişmesine ilişkin bildirim süresi, 30 iş günü bu yeni kişilerin adli sicil belgelerinin ibraz süresi, 60 iş günü ise devir sonrasında yeniden başvuru süresidir. Bu nedenle doğru cevap B seçeneğidir. (MD 17, 18/A, 154)
+**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre ticaret unvanı, adres, ticaret siciline kayıtlı olunan yer veya ticaret sicil numarası değiştiğinde değişikliğin Ticaret Sicil Gazetesinde veya Türkiye Esnaf ve Sanatkârlar Sicil Gazetesinde yayımlandığı tarihi izleyen 5 iş günü içinde başvurulur. Vergi numarasının değişmesi hâlinde ise süre aynıdır, fakat başlangıç anı farklıdır: başvuru, değişikliğin ilgili vergi dairesince sertifika sahibine bildirildiği tarihi izleyen 5 iş günü içinde yapılır. Unvan, adres veya sicil bilgilerindeki değişiklikte bu süre içinde başvurulmazsa sertifika başvuru yapılıncaya kadar askıya alınır. En güçlü çeldirici sicil gazetesindeki yayımı esas alan seçenektir; bu başlangıç anı unvan, adres ve sicil bilgilerine aittir. Değişikliğin yapıldığı tarihi izleyen 5 iş günü şirket yetkililerinin değişmesine ilişkin bildirim süresi, 30 iş günü bu yeni kişilerin adli sicil belgelerinin ibraz süresi, 60 iş günü ise devir sonrasında yeniden başvuru süresidir. Bu nedenle doğru cevap B seçeneğidir. (MD 17, 18/A, 154)
 
 *Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği md. 4/A*
 
-**20-** Yetkilendirilmiş yükümlü sertifikası sahibi ve imalatçı olan (D) A.Ş.'ye ilişkin bilgiler şöyledir:
+**20-** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre YYS-I ve YYS-II statülerinin verilmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- Başvurunun yapıldığı yıldan bir önceki takvim yılında ve başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde 7 milyon ABD doları tutarında ihracat yapmıştır.  
-- Başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde ortalama 40 işçi istihdam etmiştir.  
-Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'nin YYS-I ve YYS-II statülerine ilişkin hükümlerine göre (D) A.Ş. hakkında aşağıdakilerden hangisi söylenebilir?  
-
-A) YYS-II statüsünün koşullarını sağlamakta, YYS-I statüsünün koşullarını ise sağlamamaktadır.  
-B) YYS-I statüsünün koşullarını sağlamaktadır; çünkü asgari 5 milyon ABD doları ihracat koşulunu karşılamaktadır.  
-C) Ortalama işçi sayısı 50'nin altında olduğundan YYS-I ve YYS-II statülerinin koşullarını sağlamamaktadır.  
-D) YYS-II statüsünün koşullarını sağlamamaktadır; çünkü asgari 10 milyon ABD doları ihracat yapmamıştır.  
-E) Hem YYS-I hem de YYS-II statüsünün koşullarını sağlamaktadır.  
+A) İmalatçı olan ve belirtilen dönemlerden birinde asgari 5 milyon ABD doları ihracat yapmış yetkilendirilmiş yükümlü statüsü sahibine, başka bir koşul aranmaksızın YYS-I statüsü verilir.  
+B) YYS-I ve YYS-II statüleri, yetkilendirilmiş yükümlü statüsü sahiplerine YYS'ye ek olarak verilir ve her ikisinde de imalatçı olma koşulu aranır.  
+C) YYS-II statüsünde istihdam koşulu, başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde ortalama en az 30 işçi istihdam edilmesidir.  
+D) YYS-I statüsünde ortalama en az 50 işçi istihdam etme koşulu yerine, belirtilen dönemlerden birinde asgari 10 milyon ABD doları ihracat yapılmış olması da yeterlidir.  
+E) YYS-II statüsünde ihracat koşulu, başvurunun yapıldığı yıldan bir önceki takvim yılında veya başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde asgari 1 milyon ABD doları ihracat yapılmış olmasıdır.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre YYS-I statüsü için imalatçı olmak, belirtilen dönemlerden birinde asgari 5 milyon ABD doları ihracat yapmış olmak ve ayrıca geriye dönük 1 yılda ortalama en az 50 işçi istihdam etmek ya da asgari 10 milyon ABD doları ihracat yapmak gerekir. (D) A.Ş. 5 milyon dolar eşiğini aşsa da 40 işçi ve 7 milyon dolar ihracatla üçüncü koşulu karşılamadığından YYS-I statüsüne sahip olamaz. YYS-II statüsü için ise imalatçı olmak, asgari 1 milyon ABD doları ihracat ve ayrıca ortalama en az 30 işçi istihdamı ya da asgari 5 milyon ABD doları ihracat yeterlidir; (D) A.Ş. hem 40 işçiyle hem 7 milyon dolar ihracatla bu koşulu sağlar. Vakadaki saklı nokta, her iki statüde de ihracat eşiğinin yanında ayrı bir istihdam veya daha yüksek ihracat koşulunun aranmasıdır. En güçlü çeldirici YYS-I'in yalnızca 5 milyon dolar ihracatla sağlanacağını söyleyen seçenektir. Bu nedenle doğru cevap A seçeneğidir. (MD 4/A)
+**Gerekçe:** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği'ne göre YYS-I statüsü için imalatçı olmak ve belirtilen dönemlerden birinde asgari 5 milyon ABD doları ihracat yapmış olmak yetmez; ayrıca başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde ortalama en az 50 işçi istihdam etmek ya da asgari 10 milyon ABD doları ihracat yapmak gerekir. Yanlış ifade, istihdam veya daha yüksek ihracat koşulunu düşürmüştür. Diğer ifadeler doğrudur: her iki statü yetkilendirilmiş yükümlü statüsü sahiplerine YYS'ye ek olarak verilir ve ikisinde de imalatçı olma koşulu aranır; YYS-II'de ihracat koşulu, başvurunun yapıldığı yıldan bir önceki takvim yılında veya başvurunun kayda alındığı ayın ilk gününden geriye dönük 1 yıl içinde asgari 1 milyon ABD dolarıdır; istihdam koşulu ortalama en az 30 işçi, bunun yerine geçen ihracat koşulu ise asgari 5 milyon ABD dolarıdır. En güçlü tuzak, 5 milyon dolarlık tutarın iki statüde farklı işlev görmesidir: bu tutar YYS-I'de temel ihracat koşulu, YYS-II'de ise istihdam yerine geçen daha yüksek ihracat koşuludur. Bu nedenle doğru cevap A seçeneğidir. (MD 4/A)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 4 (I ve III, I, II ve IV, I, III ve IV, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 14, YAKIN-SAYI 6, İSTİSNA 5, TERSİNE 4, LİSTE-DIŞI 4, TERİM 4 |
+| Birebir / parafraz / çıkarım | 17 / 2 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I ve III, II ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 14, YAKIN-SAYI 8, TERSİNE 5, LİSTE-DIŞI 4, SAĞDUYU 4, TERİM 4 |
 | İkiz eksen / ayna | 12 / Kapsamlı teminat: YYS temel koşulu değil ↔ izinli gönderici ek koşulu |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 7 |

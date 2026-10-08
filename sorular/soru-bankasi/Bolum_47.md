@@ -61,9 +61,7 @@ C) İhracat rejimine tabi tutulan eşyanın genel düzenleyici idari işlemlerle
 D) Antrepo beyannamesinde beyan edilenden belirgin şekilde farklı cinste çıkan eşyanın ithalinin, beyan edilen eşyadan farklı şekilde izne veya uygunluk belgesine tabi olması  
 E) Karayoluyla sevk edilmek üzere transit rejimine konu edilen serbest dolaşımda olmayan eşyanın beyan edilenden belirgin şekilde farklı cinste çıkması ve farklı çıkan eşyanın ithalinin beyan edilen eşyadan farklı şekilde lisansa, izne veya uygunluk belgesine tabi olması  
 
-**7-** (D) Lojistik A.Ş.'nin işlettiği genel antrepoda gümrük idaresince yapılan sayımda, kayıtlara göre 40 koli fazla eşya bulunduğu tespit edilmiştir. Antrepodan izinsiz eşya çıkarılması veya eşyanın değiştirilmesi gibi bir durum belirlenmemiştir.
-
-4458 sayılı Gümrük Kanunu'na göre bu durumda uygulanacak işlem aşağıdakilerden hangisidir?  
+**7-** 4458 sayılı Gümrük Kanunu'na göre gümrük antrepolarında veya gümrük idaresince eşya konulmasına izin verilen yerlerde yapılan sayımlarda kayıtlara göre fazla eşya çıkması hâlinde aşağıdakilerden hangisi uygulanır?
 
 A) Fazla çıkan eşyanın gümrük vergilerinin yanı sıra gümrüklenmiş değerinin iki katı idari para cezası verilir.  
 B) Fazla çıkan eşyaya el konularak mülkiyetinin kamuya geçirilmesine karar verilir ve eşyanın CIF kıymeti kadar para cezası alınır.  
@@ -89,19 +87,13 @@ C) Özet beyan veya özet beyan olarak kullanılan ticari ve resmî belgelerde k
 D) Gümrük antrepo rejimine tabi tutulan eşyanın antrepolara konulduğu tarihte işleticiler tarafından kayıtlara geçirilmemesi  
 E) Karayoluyla transit eşya taşıyan taşıt araçlarının verilen süreleri kırk sekiz saate kadar aşması  
 
-**10-** 4458 sayılı Gümrük Kanunu'nun geçici ithalat rejimine ilişkin aykırılıklarda usulsüzlük cezasının kaç kat uygulanacağına dair hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**10-** 4458 sayılı Gümrük Kanunu'nun geçici ithalat rejimine ilişkin aykırılıklarda usulsüzlük cezasının kaç kat uygulanacağına dair hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Rejim kapsamında getirilen eşyanın verilen sürenin bitimini takiben bir ay içerisinde yeniden ihraç edilmesi hâlinde usulsüzlük cezası iki katı olarak uygulanır.  
-II. Rejim kapsamında ithal edilen eşyanın gümrük idaresine bilgi verilmeden, ancak süresi içerisinde Türkiye Gümrük Bölgesinin dışına çıkarıldığının kabul edilebilir belgelerle kanıtlanması hâlinde usulsüzlük cezası iki katı olarak uygulanır.  
-III. Rejim kapsamında getirilen taşıtların verilen sürenin bitimini takiben üç ayı aşmayan sürede yeniden ihraç edilmesi hâlinde usulsüzlük cezası dört katı olarak uygulanır.  
-IV. Kişisel kullanıma mahsus yabancı plakalı taşıtları getiren hak sahiplerinin gümrük idaresine bilgi vermeden taşıtsız yurt dışına çıkması hâlinde usulsüzlük cezası sekiz katı olarak uygulanır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I, II ve IV  
-C) I ve IV  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Rejim kapsamında getirilen eşyanın verilen sürenin bitimini takiben bir ay içerisinde yeniden ihraç edilmesi hâlinde usulsüzlük cezası iki katı olarak uygulanır.  
+B) Rejim kapsamında getirilen taşıtların verilen sürenin bitimini takiben üç ayı aşmayan sürede yeniden ihraç edilmesi hâlinde usulsüzlük cezası dört katı olarak uygulanır.  
+C) Rejim kapsamında ithal edilen eşyanın gümrük idaresine bilgi verilmeden, ancak süresi içerisinde Türkiye Gümrük Bölgesinin dışına çıkarıldığının kabul edilebilir belgelerle kanıtlanması hâlinde usulsüzlük cezası iki katı olarak uygulanır.  
+D) Rejim kapsamında getirilen eşyanın verilen sürenin bitimini takiben iki ayı aşmayan sürede yeniden ihraç edilmesi hâlinde usulsüzlük cezası dört katı olarak uygulanır.  
+E) Kişisel kullanıma mahsus yabancı plakalı taşıtları getiren hak sahiplerinin gümrük idaresine bilgi vermeden taşıtsız yurt dışına çıkması hâlinde usulsüzlük cezası sekiz katı olarak uygulanır.  
 
 **11-** 4458 sayılı Gümrük Kanunu'na göre, Kaçakçılıkla Mücadele Kanunu hükümleri saklı kalmak kaydıyla, ihraç eşyasının yapılan beyan ve eki belgelere göre miktar veya cinsinde yüzde kaçtan fazla farklılık çıkması hâlinde usulsüzlük cezası iki katı olarak uygulanır?
 
@@ -286,9 +278,7 @@ E) Karayoluyla sevk edilmek üzere transit rejimine konu edilen serbest dolaşı
 
 *4458 sayılı Gümrük Kanunu md. 236*
 
-**7-** (D) Lojistik A.Ş.'nin işlettiği genel antrepoda gümrük idaresince yapılan sayımda, kayıtlara göre 40 koli fazla eşya bulunduğu tespit edilmiştir. Antrepodan izinsiz eşya çıkarılması veya eşyanın değiştirilmesi gibi bir durum belirlenmemiştir.
-
-4458 sayılı Gümrük Kanunu'na göre bu durumda uygulanacak işlem aşağıdakilerden hangisidir?  
+**7-** 4458 sayılı Gümrük Kanunu'na göre gümrük antrepolarında veya gümrük idaresince eşya konulmasına izin verilen yerlerde yapılan sayımlarda kayıtlara göre fazla eşya çıkması hâlinde aşağıdakilerden hangisi uygulanır?
 
 A) Fazla çıkan eşyanın gümrük vergilerinin yanı sıra gümrüklenmiş değerinin iki katı idari para cezası verilir.  
 B) Fazla çıkan eşyaya el konularak mülkiyetinin kamuya geçirilmesine karar verilir ve eşyanın CIF kıymeti kadar para cezası alınır.  
@@ -297,7 +287,7 @@ D) Fazla çıkan eşyaya ait ithalat vergilerinin yanı sıra bu vergilerin üç
 E) Fiil kaçakçılık suçu oluşturduğundan yalnızca Kaçakçılıkla Mücadele Kanunu hükümlerine göre işlem yapılır.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Kanunu'na göre gümrük antrepolarında veya gümrük idaresince eşya konulmasına izin verilen yerlerde yapılan sayımlarda kayıtlara göre fazla eşya çıkarsa, bu eşya tasfiyeye tabi tutulur ve ayrıca fazla çıkan eşyaya ait ithalat veya ihracat vergileri tutarı kadar para cezası alınır. Sayımda eşyanın noksan çıkması ya da antrepodan izinsiz eşya çıkarılması hâlinde ise eşyanın gümrük vergilerinin yanı sıra gümrüklenmiş değerinin iki katı idari para cezası verilir. El koyma, kamuya geçirme ve CIF kıymeti kadar ceza özet beyana göre fazla çıkan kaplara; vergilerin üç katı ceza gümrüksüz satış mağazasından hak sahibi olmayanlara veya limit üstü satışa aittir. Antrepo sayımındaki fazlalık Kanunda idari yaptırıma bağlanmıştır; olayda kaçakçılık suçunu gösteren bir unsur yoktur. En güçlü çeldirici, sayım noksanlığına ait gümrüklenmiş değerin iki katı cezadır. Bu nedenle doğru cevap C seçeneğidir. (MD 236, 237)
+**Gerekçe:** Gümrük Kanunu'na göre gümrük antrepolarında veya gümrük idaresince eşya konulmasına izin verilen yerlerde yapılan sayımlarda kayıtlara göre fazla eşya çıkarsa, bu eşya tasfiyeye tabi tutulur ve ayrıca fazla çıkan eşyaya ait ithalat veya ihracat vergileri tutarı kadar para cezası alınır. Sayımda eşyanın bir kısmının noksan çıkması, antrepodan izinsiz eşya çıkarılması veya eşyanın değiştirilmesi hâllerinde ise eşyanın gümrük vergilerinin yanı sıra gümrüklenmiş değerinin iki katı idari para cezası verilir. El koyma, mülkiyetin kamuya geçirilmesi ve CIF kıymeti kadar ceza özet beyana göre fazla çıkan kaplara; vergilerin üç katı ceza ise gümrüksüz satış mağazasından hak sahibi olmayanlara veya limit üstü satışa aittir. Antrepo sayımındaki fazlalık Kanunda idari yaptırıma bağlanmıştır; bu hâli kaçakçılık suçu sayıp yalnızca Kaçakçılıkla Mücadele Kanunu'na göre işlem yapılacağını düşünmek sağduyu hatasıdır. En güçlü çeldirici, aynı maddenin ilk fıkrasındaki sayım noksanlığına ait gümrüklenmiş değerin iki katı cezadır. Bu nedenle doğru cevap C seçeneğidir. (MD 236, 237)
 
 *4458 sayılı Gümrük Kanunu md. 234*
 
@@ -312,7 +302,7 @@ D) 400.000
 E) 600.000  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Kanunu'na göre serbest dolaşıma giriş rejimine tabi tutulan eşyada tarife unsurlarında aykırılık bulunur ve vergi farkı yüzde beşi aşarsa ithalat vergilerinden ayrı olarak farkın üç katı para cezası alınır. Ancak dahilde işleme rejimi, gümrük kontrolü altında işleme rejimi ve tam muafiyet suretiyle geçici ithalat rejimine tabi eşyada aynı farklılıkların tespiti durumunda vergi farkının yarısı tutarında idari para cezası verilir. Olayda vergi farkı 600.000 − 400.000 = 200.000 TL'dir; eşya dahilde işleme rejimine tabi olduğundan ceza 200.000 / 2 = 100.000 TL'dir. Aykırılık beyan sahibince bildirilmeden idarece tespit edildiğinden yüzde on oranında uygulama söz konusu değildir. En güçlü çeldirici 600.000'dir: rejim istisnasını görmeyip serbest dolaşıma giriş rejimindeki üç kat cezayı uygulayan aday bu şıkka gider. 50.000 vergilerin dörtte biri tutarındaki cezayı, 400.000 farkın iki katını, 200.000 fark kadar cezayı gösterir. Bu nedenle doğru cevap B seçeneğidir. (MD 234)
+**Gerekçe:** Gümrük Kanunu'na göre serbest dolaşıma giriş rejimine tabi tutulan eşyada tarife unsurlarında aykırılık bulunur ve vergi farkı yüzde beşi aşarsa ithalat vergilerinden ayrı olarak farkın üç katı para cezası alınır. Ancak dahilde işleme rejimi, gümrük kontrolü altında işleme rejimi ve tam muafiyet suretiyle geçici ithalat rejimine tabi eşyada aynı farklılıkların tespiti durumunda vergi farkının yarısı tutarında idari para cezası verilir. Olayda vergi farkı 600.000 − 400.000 = 200.000 TL'dir; eşya dahilde işleme rejimine tabi olduğundan ceza 200.000 / 2 = 100.000 TL'dir. Aykırılık beyan sahibince bildirilmeden idarece tespit edildiğinden yüzde on oranında uygulama söz konusu değildir. En güçlü çeldirici 600.000'dir: rejim istisnasını görmeyip serbest dolaşıma giriş rejimindeki üç kat cezayı uygulayan aday bu şıkka gider. 50.000 dörtte bir oranının vergi farkına uygulanmasını, 400.000 farkın iki katını, 200.000 fark kadar cezayı gösterir. Bu nedenle doğru cevap B seçeneğidir. (MD 234)
 
 *4458 sayılı Gümrük Kanunu md. 241*
 
@@ -329,22 +319,16 @@ E) Karayoluyla transit eşya taşıyan taşıt araçlarının verilen süreleri 
 
 *4458 sayılı Gümrük Kanunu md. 241*
 
-**10-** 4458 sayılı Gümrük Kanunu'nun geçici ithalat rejimine ilişkin aykırılıklarda usulsüzlük cezasının kaç kat uygulanacağına dair hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**10-** 4458 sayılı Gümrük Kanunu'nun geçici ithalat rejimine ilişkin aykırılıklarda usulsüzlük cezasının kaç kat uygulanacağına dair hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-I. Rejim kapsamında getirilen eşyanın verilen sürenin bitimini takiben bir ay içerisinde yeniden ihraç edilmesi hâlinde usulsüzlük cezası iki katı olarak uygulanır.  
-II. Rejim kapsamında ithal edilen eşyanın gümrük idaresine bilgi verilmeden, ancak süresi içerisinde Türkiye Gümrük Bölgesinin dışına çıkarıldığının kabul edilebilir belgelerle kanıtlanması hâlinde usulsüzlük cezası iki katı olarak uygulanır.  
-III. Rejim kapsamında getirilen taşıtların verilen sürenin bitimini takiben üç ayı aşmayan sürede yeniden ihraç edilmesi hâlinde usulsüzlük cezası dört katı olarak uygulanır.  
-IV. Kişisel kullanıma mahsus yabancı plakalı taşıtları getiren hak sahiplerinin gümrük idaresine bilgi vermeden taşıtsız yurt dışına çıkması hâlinde usulsüzlük cezası sekiz katı olarak uygulanır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I, II ve IV  
-C) I ve IV  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Rejim kapsamında getirilen eşyanın verilen sürenin bitimini takiben bir ay içerisinde yeniden ihraç edilmesi hâlinde usulsüzlük cezası iki katı olarak uygulanır.  
+B) Rejim kapsamında getirilen taşıtların verilen sürenin bitimini takiben üç ayı aşmayan sürede yeniden ihraç edilmesi hâlinde usulsüzlük cezası dört katı olarak uygulanır.  
+C) Rejim kapsamında ithal edilen eşyanın gümrük idaresine bilgi verilmeden, ancak süresi içerisinde Türkiye Gümrük Bölgesinin dışına çıkarıldığının kabul edilebilir belgelerle kanıtlanması hâlinde usulsüzlük cezası iki katı olarak uygulanır.  
+D) Rejim kapsamında getirilen eşyanın verilen sürenin bitimini takiben iki ayı aşmayan sürede yeniden ihraç edilmesi hâlinde usulsüzlük cezası dört katı olarak uygulanır.  
+E) Kişisel kullanıma mahsus yabancı plakalı taşıtları getiren hak sahiplerinin gümrük idaresine bilgi vermeden taşıtsız yurt dışına çıkması hâlinde usulsüzlük cezası sekiz katı olarak uygulanır.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Kanunu'na göre geçici ithalat rejimi kapsamında getirilen eşyanın verilen sürenin bitimini takiben bir ay içerisinde yeniden ihraç edilmesi veya gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması hâlinde usulsüzlük cezası iki katı olarak uygulanır (I doğru). Eşyanın gümrük idaresine bilgi verilmeden, ancak süresi içinde Türkiye Gümrük Bölgesi dışına çıkarıldığının kabul edilebilir belgelerle kanıtlanması da iki kat uygulanan hâller arasındadır (II doğru). Rejim kapsamında getirilen taşıtların verilen sürenin bitimini takiben üç ayı aşmayan sürede yeniden ihraç edilmesinde ceza dört kat değil altı kattır (III yanlış); dört kat, taşıt dışındaki eşyanın süre bitimini takiben iki ayı aşmayan sürede yeniden ihracına aittir. Kişisel kullanıma mahsus yabancı plakalı taşıtları getiren hak sahiplerinin gümrük idaresine bilgi vermeden taşıtsız yurt dışına çıkması sekiz kat usulsüzlük cezası gerektirir (IV doğru). En güçlü tuzak III'tür: eşyadaki iki aylık basamakla taşıttaki üç aylık basamak karıştırılır. Bu nedenle doğru cevap B seçeneğidir. (MD 241)
+**Gerekçe:** Gümrük Kanunu'na göre geçici ithalat rejimi kapsamında getirilen taşıtların verilen sürenin bitimini takiben üç ayı aşmayan sürede yeniden ihraç edilmesi veya gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması hâlinde usulsüzlük cezası dört katı değil, altı katı olarak uygulanır; bu nedenle ifade yanlıştır. Kanuna göre rejim kapsamında getirilen eşyanın verilen sürenin bitimini takiben bir ay içerisinde yeniden ihraç edilmesi veya gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması ile eşyanın gümrük idaresine bilgi verilmeden, ancak süresi içinde Türkiye Gümrük Bölgesi dışına çıkarıldığının kabul edilebilir belgelerle kanıtlanması iki kat; eşyanın sürenin bitimini takiben iki ayı aşmayan sürede yeniden ihraç edilmesi dört kat; kişisel kullanıma mahsus yabancı plakalı taşıtları getiren hak sahiplerinin gümrük idaresine bilgi vermeden taşıtsız yurt dışına çıkması sekiz kat usulsüzlük cezası gerektirir. Tuzak, eşyadaki iki aylık dört kat basamağı ile taşıttaki üç aylık altı kat basamağının karıştırılmasıdır. Bu nedenle doğru cevap B seçeneğidir. (MD 241)
 
 *4458 sayılı Gümrük Kanunu md. 241*
 
@@ -482,17 +466,17 @@ D) Özet beyan eksikliklerinde uygulanacak ceza miktarları, eksikliğin tamamı
 E) Türk Ticaret Kanunu uyarınca taşıyıcı sayılan taşıma işleri komisyoncuları da özet beyana ilişkin eksiklik veya fazlalıklardan sorumludur.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre kap adedi itibarıyla tamam çıkan ancak sayı, baş, ağırlık gibi ölçülerinde eksiklik veya fazlalık olan eşya için özet beyan takibatı yapılmaz. Takibatın sonucundan özet beyanla ilgili sorumlu kişiler sorumlu olacağından, takibat sonuçlanmadan beyan sahibi eşya hakkında gümrük beyanında bulunmak isterse takibat eksiklikle ilgiliyse fiilen bulunan miktar üzerinden işlem yapılır; takibat fazlalıkla ilgiliyse fazla bulunan miktar verilmez, yalnızca eşyanın saklanması masraflı ve külfetliyse sahibine yed-i emin olarak teslim edilebilir. Yanlış ifade bu kuralı tersine çevirmiştir. Özet beyan eksikliklerinde ceza miktarları eksikliğin tamamı dikkate alınarak hesaplanır; Kanunda sayılanların yanında Türk Ticaret Kanunu uyarınca taşıyıcı sayılan taşıma işleri komisyoncuları da eksiklik veya fazlalıklardan sorumludur. En güçlü tuzak yed-i emin istisnasıdır: istisna fazla miktarın beyan sahibine verilmesi değil, saklama külfeti varsa emanet olarak teslimidir. Bu nedenle doğru cevap A seçeneğidir. (MD 583)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre kap adedi itibarıyla tamam çıkan ancak sayı, baş, ağırlık gibi ölçülerinde eksiklik veya fazlalık olan eşya için özet beyan takibatı yapılmaz. Takibatın sonucundan özet beyanla ilgili sorumlu kişiler sorumlu olacağından, takibat sonuçlanmadan beyan sahibi eşya hakkında gümrük beyanında bulunmak isterse takibat eksiklikle ilgiliyse fiilen bulunan miktar üzerinden işlem yapılır; takibat fazlalıkla ilgiliyse fazla bulunan miktar verilmez, yalnızca eşyanın saklanması masraflı ve külfetliyse sahibine yed-i emin olarak teslim edilebilir. Yanlış ifade bu kuralı tersine çevirmiştir. Özet beyan eksikliklerinde ceza miktarları eksikliğin tamamı dikkate alınarak hesaplanır; Kanunda sayılanların yanında Türk Ticaret Kanunu uyarınca taşıyıcı sayılan taşıma işleri komisyoncuları da eksiklik veya fazlalıklardan sorumludur. En güçlü tuzak yed-i emin istisnasıdır: istisna fazla miktarın beyan sahibine verilmesi değil, saklama külfeti varsa emanet olarak teslimidir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 583)
 
 ### Set Raporu
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I ve II, I, II ve IV, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 20, TERİM 7, İSTİSNA 5, YAKIN-SAYI 5, TERSİNE 4, SAYI 3 |
+| Birebir / parafraz / çıkarım | 14 / 4 / 2 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I ve II, II ve IV) |
+| Vaka, uygulama, hesap | 2 |
+| Tuzaklar | KOMŞU 20, TERİM 7, İSTİSNA 5, YAKIN-SAYI 5, TERSİNE 4, SAĞDUYU 3 |
 | İkiz eksen / ayna | 5, 6 / matrah: gümrüklenmiş değer ↔ gümrük vergileri, usulsüzlük kat merdiveni: iki kat ↔ dört kat |
 | Güncellik | 26.03.2026 |
 | Çıkmış bilgi alanı karşılayan | 13 |

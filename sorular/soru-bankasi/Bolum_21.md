@@ -83,19 +83,13 @@ C) Sözleşmenin ve yeminli tercüman tarafından yapılmış tercümesinin note
 D) Sözleşmenin Büyükelçilik kanalıyla Bakanlığa bildirilmiş onaylı örneği eklenir.  
 E) Sözleşmenin aslı ile mahreç ülkesinden alınmış Türkçe tercümesi eklenir.  
 
-**10-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'te düzenlenen ön izin ve izin başvurularına ilişkin aşağıdaki ifadeler verilmiştir:
+**10-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'te düzenlenen ön izin ve izin başvurularına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Ön izin başvurusu, Bakanlığa (Gümrükler Genel Müdürlüğü) Ek-1'de örneği bulunan form kullanılarak yapılır.  
-II. Ön izin başvurusu reddedilen firma, ret tarihinden itibaren bir yıl geçtikten sonra izin başvurusunda bulunabilir.  
-III. Ön izin başvurusunda adli takibatı devam eden bir hususa rastlanırsa, adli makamların değerlendirmesi sonuçlanıncaya kadar firmanın aynı veya benzer konudaki ön izin başvuruları reddedilir.  
-IV. Demiryoluyla yapılacak taşımalarda da izin başvurusunda Ek-2'de sayılan belgelerden taşıyıcıya ilişkin olanlar aranır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) I ve II  
-C) II ve IV  
-D) III ve IV  
-E) I, III ve IV  
+A) Ön izin başvurusu reddedilen firma, ret tarihinden itibaren bir yıl geçtikten sonra izin başvurusunda bulunabilir.  
+B) Ön izin başvurusu, Bakanlığa (Gümrükler Genel Müdürlüğü) örneği Ek-1'de yer alan form ile yapılır.  
+C) Ön izin başvurusunda adli takibatı devam eden bir hususa rastlanılması hâlinde, adli makamlarca değerlendirme sonuçlanıncaya kadar firmanın aynı veya benzer konuya ilişkin ön izin başvuruları reddedilir.  
+D) İzin başvurusu, Ek-2'de sayılan belgeler ve Ek-3'te yer alan taahhütname ile Bakanlığa (Gümrükler Genel Müdürlüğü) yapılır.  
+E) Demiryoluyla taşımada, izin başvurusunda Ek-2'de sayılan belgelerden taşıyıcıya ilişkin belgeler aranmaz.  
 
 **11-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'e göre taşımayı gerçekleştirecek sürücülerin bilgilerini içeren listelerle birlikte Bakanlığa verilecek, "herhangi bir adli sicil ve arşiv kaydının bulunmadığına dair" adli sicil belgelerinin hangi süre içinde alınmış olması gerekir?
 
@@ -127,14 +121,12 @@ C) Firmanın temsil ve ilzama yetkili yöneticisi hakkında kaçakçılık yapı
 D) Firmanın sermayesinin yüzde onundan fazlasına sahip gerçek kişi ortağı hakkında kaçakçılıktan kesinleşmiş mahkûmiyet kararı bulunması – İzinlerin iptal edilmesi ve bu tarihten sonraki başvuruların değerlendirmeye alınmaması  
 E) Taşıma yapan karayolu araç sürücüsünün araç takip sistemini izlenebilir olmaktan çıkardığının tespiti – Söz konusu sürücünün Tebliğ kapsamında taşıma yapmasına izin verilmemesi  
 
-**14-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) kapsamında izin sahibi (B) Petrol A.Ş.'nin Tebliğ kapsamındaki taşımalarda kullandığı filosunda, araç takip sistemi takılı 36 karayolu aracı bulunmaktadır. Yapılan kontrollerde bu araçlardan 12'sindeki araç takip sistemlerinin izlenebilir olmaktan çıkarıldığı tespit edilmiştir. Sistemlerin sürücüler tarafından izlenebilir olmaktan çıkarıldığına ilişkin bir tespit bulunmamaktadır.
+**14-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'e göre yapılan kontrollerde araç takip sistemlerinin üçte birinin izlenebilir olmaktan çıkarıldığının tespit edilmesi durumunda aşağıdakilerden hangisi uygulanır?
 
-Buna göre Tebliğ hükümleri çerçevesinde aşağıdakilerden hangisi uygulanır?  
-
-A) Yalnızca araç takip sistemi izlenebilir olmaktan çıkarılan 12 aracın, durum düzeltilinceye kadar Tebliğ kapsamında taşıma yapmasına izin verilmez.  
-B) Firmanın izni iptal edilir ve bu tarihten sonraki başvuruları değerlendirmeye alınmaz.  
+A) Durum düzeltilinceye kadar yalnızca söz konusu araçların Tebliğ kapsamında taşıma yapmasına izin verilmez.  
+B) Firmanın Tebliğ kapsamında verilmiş izni iptal edilir ve bu tarihten sonraki başvuruları değerlendirmeye alınmaz.  
 C) Durum düzeltilinceye kadar firmanın Tebliğ kapsamında verilmiş izni askıya alınır.  
-D) Söz konusu 12 aracın sürücülerinin Tebliğ kapsamında taşıma yapmasına izin verilmez.  
+D) Firmanın izni askıya alınmaksızın söz konusu araçların sürücülerinin Tebliğ kapsamında taşıma yapmasına izin verilmez.  
 E) Firmanın izni mahkemelerce aksine karar tesis edilinceye kadar askıya alınır.  
 
 **15-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'e göre izin sahibi firma ve taşıyıcı firmaların sahibi, sermayesinin yüzde onundan fazlasına sahip gerçek kişi ortakları ile yönetim kurulu üyeleri ya da temsil ve ilzama yetkili yöneticilerinde değişiklik olması durumunda, değişikliğe ilişkin Ticaret Sicili Gazetesi'nin bir örneği Bakanlığa (Gümrükler Genel Müdürlüğü) hangi süre içinde gönderilmelidir?
@@ -161,15 +153,13 @@ C) Eşyanın öncelikle macun tahlili yöntemiyle tespiti yapılır.
 D) Eşyanın tahlile gönderildiğine ilişkin beyanname üzerine açıklama düşülür.  
 E) Araçlarda bulunan araç takip sisteminin çalışıp çalışmadığı kontrol edilir.  
 
-**18-** Irak'tan ham petrol taşıyan ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) kapsamında transit edilen bir araçta, hareket gümrük idaresinde yapılan macun tahlilinde şüpheye düşülmüş; eşyadan numune alınarak tahlile gönderilmiş, aracın ilgili yerleri mühürlenerek araç tahlil sonucu beklenmeksizin varış gümrük idaresine sevk edilmiştir. Varış gümrük idaresinde aracın mühürlerinin sağlam olduğu görülmüş, macun tahlili yöntemiyle yapılan tespitte herhangi bir şüpheye rastlanmamıştır.
+**18-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'e göre Tebliğ kapsamındaki taşımalarda varış gümrük idarelerince gerçekleştirilecek işlemlere ilişkin aşağıdakilerden hangisi doğrudur?
 
-Buna göre varış gümrük idaresince yapılacak işlem aşağıdakilerden hangisidir?  
-
-A) Eşyadan numune alınarak tahlile gönderilir; tahlil sonucu gelmeden eşyanın tahliyesine veya çıkışına izin verilmez.  
-B) Hareket gümrük idaresince gönderilen numunenin tahlil sonucu beklenir; sonuç gelmeden eşyanın tahliyesine veya çıkışına izin verilmez.  
-C) Mühürler sağlam ve macun tespiti uygun olduğundan, yeniden numune alınmaksızın eşyanın tahliyesine veya çıkışına izin verilir.  
-D) Eşyadan numune alınarak tahlile gönderilir ve eşyanın tahliyesine veya çıkışına izin verilir; tahlil sonuçları alındıktan sonra hareket gümrük idaresine bildirilir.  
-E) Eşyadan numune alınarak tahlile gönderilir ve tahliyesine veya çıkışına izin verilir; sonuçların farklı çıkması hâlinde gerekli işlem varış gümrük idaresince yapılır.  
+A) Hareket gümrük idaresince eşyanın tahlile gönderilmiş olması hâlinde, hareket gümrük idaresince gönderilen numunenin tahlil sonucu gelmeden eşyanın tahliyesine veya çıkışına izin verilmez.  
+B) Şüphenin devamı hâlinde eşyadan numune alınarak tahlile gönderilir ve tahlil sonucu beklenmeksizin eşyanın tahliyesine veya çıkışına izin verilir.  
+C) Hareket ve varış gümrük idarelerince alınan numunelerin tahlil sonuçlarının farklı çıkması hâlinde mevzuat dâhilinde gerekli işlem varış gümrük idaresince yapılır.  
+D) Hareket gümrük idaresince eşyanın tahlile gönderilmiş olması hâlinde, varış gümrük idaresince de eşyadan numune alınarak tahlile gönderilir ve eşyanın tahliyesine veya çıkışına izin verilir.  
+E) Macun tahlili yöntemiyle yapılan tespitte şüpheye düşülmesi hâlinde, takograf ve araç takip sistemi bilgileri kontrol edilmeksizin eşyadan numune alınarak tahlile gönderilir.  
 
 **19-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'e göre Tebliğ kapsamındaki taşımalarda firmaların yükümlülüklerine ilişkin aşağıdaki ifadeler verilmiştir:
 
@@ -212,7 +202,7 @@ D) Gazyağı
 E) Jet yakıtı  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğin amacı, 2011/2033 sayılı Bakanlar Kurulu Kararı kapsamında transitine izin verilen serbest dolaşımda bulunmayan ham petrol, nafta, fuel-oil, gazyağı, benzin, motorin ve jet yakıtın Türkiye Cumhuriyeti Gümrük Bölgesinde karayolu veya demiryolu ile transitinde uyulacak usul ve esasları belirlemektir. Bu yedi ürünlük liste kapalıdır; sıvılaştırılmış petrol gazı (LPG) listede yer almaz. LPG ifadesi Tebliğde yalnızca, temin edilecek fuel-oilin transitinde taşıyıcı ve sürücü hükümlerinin uygulanacağını belirten hükümde 5307 sayılı Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu'nun adı içinde geçer. En güçlü çeldirici fuel-oil şıkkıdır: fuel-oil, izin ön koşulları ve ön izin başvurusuna ilişkin hükümlerdeki ürün sayımlarında geçmese de Tebliğin amaç ve kapsamında açıkça sayılmıştır. Bu nedenle doğru cevap C seçeneğidir. (MD 1, 4)
+**Gerekçe:** Tebliğin amacı, 2011/2033 sayılı Bakanlar Kurulu Kararı kapsamında transitine izin verilen serbest dolaşımda bulunmayan ham petrol, nafta, fuel-oil, gazyağı, benzin, motorin ve jet yakıtın Türkiye Cumhuriyeti Gümrük Bölgesinde karayolu veya demiryolu ile transitinde uyulacak usul ve esasları belirlemektir. Bu yedi ürünlük liste kapalıdır; sıvılaştırılmış petrol gazı (LPG) listede yer almaz. LPG ifadesi Tebliğde yalnızca, temin edilecek fuel-oilin transitinde taşıyıcı ve sürücü hükümlerinin uygulanacağını belirten hükümde 5307 sayılı Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu'nun adı içinde geçer. En güçlü çeldirici fuel-oil şıkkıdır: fuel-oil, faaliyet süresi ve sermaye şartını düzenleyen izin ön koşulu ile ön izin başvurusuna ilişkin hükümdeki ürün sayımlarında geçmese de Tebliğin amaç ve kapsamında açıkça sayılmıştır. Bu nedenle doğru cevap C seçeneğidir. (MD 1, 4)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) md. 2, 3*
 
@@ -277,7 +267,7 @@ D) 2918 sayılı Karayolları Trafik Kanunu uyarınca muayenelerinin yapılmış
 E) İzin sahibi firmanın mülkiyetinde bulunması  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğe göre Tebliğ kapsamındaki ürünlerin karayoluyla taşınması; karayolu ile tehlikeli eşya taşınmasına uygun, Türk plakalı, sayısal (dijital) takograf donanımlı, araç takip sistemini haiz ve 2918 sayılı Karayolları Trafik Kanunu uyarınca muayeneleri yapılmış araçlarla yapılır. Aracın izin sahibi firmanın mülkiyetinde bulunması bu nitelikler arasında sayılmamıştır; hareket gümrük idaresi de Türk plakalı araçlarda yalnızca aracın taşıyıcı veya alt nakliye firmasının yetki belgesinde kayıtlı olup olmadığını kontrol eder. Mülkiyet şartı, mantıklı görünen ama listede bulunmayan bir sağduyu çeldiricisidir. Bu nedenle doğru cevap E seçeneğidir. (MD 4, 10)
+**Gerekçe:** Tebliğe göre Tebliğ kapsamındaki ürünlerin karayoluyla taşınması; karayolu ile tehlikeli eşya taşınmasına uygun, Türk plakalı, sayısal (dijital) takograf donanımlı, araç takip sistemini haiz ve 2918 sayılı Karayolları Trafik Kanunu uyarınca muayeneleri yapılmış araçlarla yapılır. Aracın izin sahibi firmanın mülkiyetinde bulunması bu nitelikler arasında sayılmamıştır; hareket gümrük idaresi de Türk plakalı araçlarda yalnızca aracın taşıyıcı veya alt nakliye firmasının yetki belgesinde kayıtlı olup olmadığını kontrol eder. Mülkiyet şartı, mantıklı görünen ama listede bulunmayan bir sağduyu tuzağıdır. Bu nedenle doğru cevap E seçeneğidir. (MD 4, 10)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) md. 4, 10*
 
@@ -325,22 +315,16 @@ E) Sözleşmenin aslı ile mahreç ülkesinden alınmış Türkçe tercümesi ek
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) md. 4, 5, 6*
 
-**10-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'te düzenlenen ön izin ve izin başvurularına ilişkin aşağıdaki ifadeler verilmiştir:
+**10-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'te düzenlenen ön izin ve izin başvurularına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Ön izin başvurusu, Bakanlığa (Gümrükler Genel Müdürlüğü) Ek-1'de örneği bulunan form kullanılarak yapılır.  
-II. Ön izin başvurusu reddedilen firma, ret tarihinden itibaren bir yıl geçtikten sonra izin başvurusunda bulunabilir.  
-III. Ön izin başvurusunda adli takibatı devam eden bir hususa rastlanırsa, adli makamların değerlendirmesi sonuçlanıncaya kadar firmanın aynı veya benzer konudaki ön izin başvuruları reddedilir.  
-IV. Demiryoluyla yapılacak taşımalarda da izin başvurusunda Ek-2'de sayılan belgelerden taşıyıcıya ilişkin olanlar aranır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) I ve II  
-C) II ve IV  
-D) III ve IV  
-E) I, III ve IV  
+A) Ön izin başvurusu reddedilen firma, ret tarihinden itibaren bir yıl geçtikten sonra izin başvurusunda bulunabilir.  
+B) Ön izin başvurusu, Bakanlığa (Gümrükler Genel Müdürlüğü) örneği Ek-1'de yer alan form ile yapılır.  
+C) Ön izin başvurusunda adli takibatı devam eden bir hususa rastlanılması hâlinde, adli makamlarca değerlendirme sonuçlanıncaya kadar firmanın aynı veya benzer konuya ilişkin ön izin başvuruları reddedilir.  
+D) İzin başvurusu, Ek-2'de sayılan belgeler ve Ek-3'te yer alan taahhütname ile Bakanlığa (Gümrükler Genel Müdürlüğü) yapılır.  
+E) Demiryoluyla taşımada, izin başvurusunda Ek-2'de sayılan belgelerden taşıyıcıya ilişkin belgeler aranmaz.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Tebliğe göre transiti yapacak firma, Bakanlığa (Gümrükler Genel Müdürlüğü) örneği Ek-1'de yer alan form ile ön izin başvurusunda bulunur (I doğru). Ön izin başvurusunda adli takibatı devam eden bir hususa rastlanılması hâlinde, adli makamlarca buna ilişkin değerlendirme sonuçlanıncaya kadar firmanın aynı veya benzer konuya ilişkin ön izin başvuruları reddedilir (III doğru). Ön izin başvurusu reddedilen firmalar izin başvurusunda bulunamaz; Tebliğ bunun için bir bekleme süresi öngörmez, bir yıl ise izin ön koşullarındaki asgari faaliyet süresidir (II yanlış). Demiryoluyla taşımada Ek-2'de sayılan belgelerden taşıyıcıya ilişkin belgeler aranmaz (IV yanlış). En güçlü çeldirici II'dir: ret, süreye bağlı bir engel değil, izin başvurusunun yolunu kapatan bir sonuçtur. Bu nedenle doğru cevap A seçeneğidir. (MD 4, 5, 6)
+**Gerekçe:** Tebliğe göre ön izin başvurularının kabul edilip edilmediği başvuru sahibine bildirilir ve ön izin başvurusu reddedilen firmalar izin başvurusunda bulunamaz. Tebliğ bu engel için bir bekleme süresi öngörmez; ret, izin başvurusunun yolunu kapatan bir sonuçtur. Bir yıl ise izin başvurusunda bulunacak firmanın en az ne kadar süredir faaliyette olması gerektiğini gösteren izin ön koşuludur. Diğer ifadeler metinle aynıdır: ön izin başvurusu Bakanlığa (Gümrükler Genel Müdürlüğü) Ek-1'deki form ile yapılır; adli takibatı devam eden bir hususa rastlanırsa adli makamların değerlendirmesi sonuçlanıncaya kadar firmanın aynı veya benzer konudaki ön izin başvuruları reddedilir; izin başvurusu Ek-2'deki belgeler ve Ek-3'teki taahhütname ile Bakanlığa yapılır; demiryoluyla taşımada Ek-2'deki belgelerden taşıyıcıya ilişkin olanlar aranmaz. En güçlü çeldirici demiryolu istisnasıdır: Ek-2'deki belgelerin her taşımada eksiksiz arandığını sanan aday bu doğru ifadeyi yanlış sayar. Bu nedenle doğru cevap A seçeneğidir. (MD 4, 5, 6)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) md. 6, 9, Geçici 1*
 
@@ -372,7 +356,7 @@ D) II ve III
 E) II, III ve IV  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Tebliğe göre başvuru sahibi firmalar ve taşıyıcı firmalar hakkında nihai değerlendirme yapılmadan önce, kamu düzeni ve kamu güvenliği yönünden Tebliğde düzenlenen işlemleri yapmaya engel değerlendirmelerin olup olmadığına dair ilgili kurumların görüşü alınır (II doğru). Firmaların ulaştırma mevzuatı açısından taşımayı yapmaya yetkili olup olmadığına ilişkin görüş ise bölge müdürlüğünden değil, Ulaştırma, Denizcilik ve Haberleşme Bakanlığından alınır (I yanlış). Değerlendirme sonucunda uygun bulunan izin başvuruları başvuru sahibine ve hareket/varış gümrük idarelerine bildirilir; uygun bulunmayanlar ise yalnızca başvuru sahibine bildirilir (III yanlış). Sürücü listelerinden uygun görülenler başvuru sahibine ve ilgili hareket ve varış gümrük idarelerine bildirilir (IV doğru). En güçlü çeldirici III'tür: hareket ve varış idarelerine bildirim yalnızca uygun bulunan başvurular için öngörülmüştür. Bu nedenle doğru cevap B seçeneğidir. (MD 7)
+**Gerekçe:** Tebliğe göre başvuru sahibi firmalar ve taşıyıcı firmalar hakkında nihai değerlendirme yapılmadan önce, kamu düzeni ve kamu güvenliği yönünden Tebliğde düzenlenen işlemleri yapmaya engel değerlendirmelerin olup olmadığına dair ilgili kurumların görüşü alınır (II doğru). Firmaların ulaştırma mevzuatı açısından taşımayı yapmaya yetkili olup olmadığına ilişkin görüş ise bölge müdürlüğünden değil, Ulaştırma, Denizcilik ve Haberleşme Bakanlığından alınır (I yanlış). Değerlendirme sonucunda uygun bulunan izin başvuruları başvuru sahibine ve hareket/varış gümrük idarelerine bildirilir; uygun bulunmayanlar ise yalnızca başvuru sahibine bildirilir (III yanlış). Sürücü listelerinden uygun görülenler başvuru sahibine ve ilgili hareket ve varış gümrük idarelerine bildirilir (IV doğru). En güçlü tuzak III. önermedir: hareket ve varış idarelerine bildirim yalnızca uygun bulunan başvurular için öngörülmüştür. Bu nedenle doğru cevap B seçeneğidir. (MD 7)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) md. 8, 9*
 
@@ -389,18 +373,16 @@ E) Taşıma yapan karayolu araç sürücüsünün araç takip sistemini izlenebi
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) md. 8*
 
-**14-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) kapsamında izin sahibi (B) Petrol A.Ş.'nin Tebliğ kapsamındaki taşımalarda kullandığı filosunda, araç takip sistemi takılı 36 karayolu aracı bulunmaktadır. Yapılan kontrollerde bu araçlardan 12'sindeki araç takip sistemlerinin izlenebilir olmaktan çıkarıldığı tespit edilmiştir. Sistemlerin sürücüler tarafından izlenebilir olmaktan çıkarıldığına ilişkin bir tespit bulunmamaktadır.
+**14-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'e göre yapılan kontrollerde araç takip sistemlerinin üçte birinin izlenebilir olmaktan çıkarıldığının tespit edilmesi durumunda aşağıdakilerden hangisi uygulanır?
 
-Buna göre Tebliğ hükümleri çerçevesinde aşağıdakilerden hangisi uygulanır?  
-
-A) Yalnızca araç takip sistemi izlenebilir olmaktan çıkarılan 12 aracın, durum düzeltilinceye kadar Tebliğ kapsamında taşıma yapmasına izin verilmez.  
-B) Firmanın izni iptal edilir ve bu tarihten sonraki başvuruları değerlendirmeye alınmaz.  
+A) Durum düzeltilinceye kadar yalnızca söz konusu araçların Tebliğ kapsamında taşıma yapmasına izin verilmez.  
+B) Firmanın Tebliğ kapsamında verilmiş izni iptal edilir ve bu tarihten sonraki başvuruları değerlendirmeye alınmaz.  
 C) Durum düzeltilinceye kadar firmanın Tebliğ kapsamında verilmiş izni askıya alınır.  
-D) Söz konusu 12 aracın sürücülerinin Tebliğ kapsamında taşıma yapmasına izin verilmez.  
+D) Firmanın izni askıya alınmaksızın söz konusu araçların sürücülerinin Tebliğ kapsamında taşıma yapmasına izin verilmez.  
 E) Firmanın izni mahkemelerce aksine karar tesis edilinceye kadar askıya alınır.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğe göre yapılan kontrollerde araç takip sistemlerinin üçte birinin izlenebilir olmaktan çıkarıldığının tespit edilmesi durumunda, durum düzeltilinceye kadar firmanın izni askıya alınır. Vakada 36 aracın 12'sinin sistemi izlenemez hâle gelmiştir; bu oran tam olarak üçte bire eşit olduğundan firma düzeyindeki yaptırım uygulanır. En güçlü çeldirici yalnızca ilgili araçlara taşıma yasağı getiren seçenektir: bu sonuç, münferit bir karayolu aracındaki araç takip sisteminin izlenebilir olmaktan çıkarılması hâline aittir. Sürücüye yönelik yasak, sistemi sürücünün izlenebilir olmaktan çıkardığının tespitini gerektirir; iptal kesinleşmiş kaçakçılık mahkûmiyetine, mahkeme kararına kadar askı ise kaçakçılık iddiasıyla açılan davaya bağlanmıştır. Bu nedenle doğru cevap C seçeneğidir. (MD 8)
+**Gerekçe:** Tebliğe göre yapılan kontrollerde araç takip sistemlerinin üçte birinin izlenebilir olmaktan çıkarıldığının tespit edilmesi durumunda, söz konusu durum düzeltilinceye kadar firmanın izni askıya alınır. Yaptırım firma düzeyindedir ve süresi durumun düzeltilmesine bağlıdır. En güçlü çeldirici yalnızca ilgili araçların taşımasını durduran seçenektir: bu sonuç, münferit bir karayolu aracındaki araç takip sisteminin izlenebilir olmaktan çıkarılması hâline aittir. Sürücüye yönelik taşıma yasağı, araç takip sistemini sürücünün izlenebilir olmaktan çıkardığının tespitine bağlıdır ve firma düzeyindeki askının yerini tutmaz. İznin iptali ve sonraki başvuruların değerlendirmeye alınmaması kaçakçılıktan kesinleşmiş mahkûmiyet kararına, mahkemelerce aksine karar tesis edilinceye kadar askı ise kaçakçılık iddiasıyla dava açılmasına bağlanmıştır. Bu nedenle doğru cevap C seçeneğidir. (MD 8)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) md. 9*
 
@@ -443,18 +425,16 @@ E) Araçlarda bulunan araç takip sisteminin çalışıp çalışmadığı kontr
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) md. 10*
 
-**18-** Irak'tan ham petrol taşıyan ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) kapsamında transit edilen bir araçta, hareket gümrük idaresinde yapılan macun tahlilinde şüpheye düşülmüş; eşyadan numune alınarak tahlile gönderilmiş, aracın ilgili yerleri mühürlenerek araç tahlil sonucu beklenmeksizin varış gümrük idaresine sevk edilmiştir. Varış gümrük idaresinde aracın mühürlerinin sağlam olduğu görülmüş, macun tahlili yöntemiyle yapılan tespitte herhangi bir şüpheye rastlanmamıştır.
+**18-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3)'e göre Tebliğ kapsamındaki taşımalarda varış gümrük idarelerince gerçekleştirilecek işlemlere ilişkin aşağıdakilerden hangisi doğrudur?
 
-Buna göre varış gümrük idaresince yapılacak işlem aşağıdakilerden hangisidir?  
-
-A) Eşyadan numune alınarak tahlile gönderilir; tahlil sonucu gelmeden eşyanın tahliyesine veya çıkışına izin verilmez.  
-B) Hareket gümrük idaresince gönderilen numunenin tahlil sonucu beklenir; sonuç gelmeden eşyanın tahliyesine veya çıkışına izin verilmez.  
-C) Mühürler sağlam ve macun tespiti uygun olduğundan, yeniden numune alınmaksızın eşyanın tahliyesine veya çıkışına izin verilir.  
-D) Eşyadan numune alınarak tahlile gönderilir ve eşyanın tahliyesine veya çıkışına izin verilir; tahlil sonuçları alındıktan sonra hareket gümrük idaresine bildirilir.  
-E) Eşyadan numune alınarak tahlile gönderilir ve tahliyesine veya çıkışına izin verilir; sonuçların farklı çıkması hâlinde gerekli işlem varış gümrük idaresince yapılır.  
+A) Hareket gümrük idaresince eşyanın tahlile gönderilmiş olması hâlinde, hareket gümrük idaresince gönderilen numunenin tahlil sonucu gelmeden eşyanın tahliyesine veya çıkışına izin verilmez.  
+B) Şüphenin devamı hâlinde eşyadan numune alınarak tahlile gönderilir ve tahlil sonucu beklenmeksizin eşyanın tahliyesine veya çıkışına izin verilir.  
+C) Hareket ve varış gümrük idarelerince alınan numunelerin tahlil sonuçlarının farklı çıkması hâlinde mevzuat dâhilinde gerekli işlem varış gümrük idaresince yapılır.  
+D) Hareket gümrük idaresince eşyanın tahlile gönderilmiş olması hâlinde, varış gümrük idaresince de eşyadan numune alınarak tahlile gönderilir ve eşyanın tahliyesine veya çıkışına izin verilir.  
+E) Macun tahlili yöntemiyle yapılan tespitte şüpheye düşülmesi hâlinde, takograf ve araç takip sistemi bilgileri kontrol edilmeksizin eşyadan numune alınarak tahlile gönderilir.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Tebliğe göre varış gümrük idaresinde aracın mühürleri kontrol edilir ve macun tahlili yöntemiyle eşyanın tespiti yapılır; şüphe hâlinde takograf ve araç takip sistemi bilgileri kontrol edilir, şüphe devam ederse numune alınarak tahlile gönderilir ve bu durumda tahlil sonucu gelmeden eşyanın tahliyesine veya çıkışına izin verilmez. Eşya hareket gümrük idaresince tahlile gönderilmişse ise, bu hüküm saklı kalmak üzere varış idaresi eşyadan numune alarak tahlile gönderir ve eşyanın tahliyesine veya çıkışına izin verir; tahlil sonuçları alındıktan sonra karşılaştırma için hareket gümrük idaresine bildirilir, sonuçlar farklı çıkarsa gerekli işlemi hareket gümrük idaresi yapar. Vakada eşya hareket idaresince tahlile gönderilmiş ve varışta şüphe doğmamıştır; bu nedenle tahlil sonucu beklenmeden tahliye veya çıkışa izin verilir, ancak numune alınması gerekir. En güçlü çeldirici tahlil sonucunu bekleten seçenektir: bu sonuç varış idaresinin kendi tespitinde şüphenin devam ettiği hâle aittir. Bu nedenle doğru cevap D seçeneğidir. (MD 10)
+**Gerekçe:** Tebliğe göre varış gümrük idaresinde aracın mühürleri kontrol edilir ve macun tahlili yöntemiyle eşyanın tespiti yapılır; şüphe hâlinde takograf ve araç takip sistemi bilgileri kontrol edilir, şüphenin devamı hâlinde eşyadan numune alınarak tahlile gönderilir ve bu durumda tahlil sonucu gelmeden eşyanın tahliyesine veya çıkışına izin verilmez. Eşya hareket gümrük idaresince tahlile gönderilmişse, bu kontrol hükümleri saklı kalmak üzere varış idaresi de eşyadan numune alarak tahlile gönderir ve eşyanın tahliyesine veya çıkışına izin verir; tahlil sonuçları alındıktan sonra karşılaştırma için hareket gümrük idaresine bildirilir ve sonuçlar farklı çıkarsa gerekli işlemi hareket gümrük idaresi yapar. En güçlü çeldirici hareket idaresinin numunesinin sonucunu bekleten seçenektir: tahlil sonucu beklenmesi, varış idaresinin kendi kontrolünde şüphenin devam ettiği hâle aittir. Şüphenin devamında sonucun beklenmeden tahliyeye izin verilmesi, hareket idaresindeki 'tahlil sonucu beklenilmeksizin sevk' kuralının varışa taşınmış hâlidir; takograf ve araç takip sistemi bilgilerinin kontrolü ise numune alınmadan önceki basamaktır. Bu nedenle doğru cevap D seçeneğidir. (MD 10)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 3) md. 10, 11*
 
@@ -492,11 +472,11 @@ E) Karayoluyla taşımanın sayısal (dijital) takograf donanımlı ve araç tak
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 3 (I ve III, II ve IV, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 12, TERİM 5, İSTİSNA 4, TERSİNE 4, MAKAM 4, SAĞDUYU 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (II ve IV, II ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 13, TERİM 5, TERSİNE 5, SAĞDUYU 4, MAKAM 4, YAKIN-SAYI 3 |
 | İkiz eksen / ayna | 15 / tahlil-bekleme |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 0 |

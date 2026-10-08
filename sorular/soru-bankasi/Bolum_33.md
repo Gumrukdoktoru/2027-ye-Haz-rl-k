@@ -66,12 +66,7 @@ C) 12 ay
 D) 18 ay  
 E) 24 ay  
 
-**7-** Gümrük Yönetmeliği'nin geçici ithal eşyasının yeniden ihracına ilişkin hükümleri çerçevesinde aşağıdaki olayı değerlendiriniz:
-
-- (A) firması, Türkiye Gümrük Bölgesi dışında yerleşik bir kişiye ait ölçüm cihazını tam muafiyet suretiyle geçici ithal etmiş, eşyanın vergileri karşılığında teminat alınmıştır.  
-- Firma, izin süresi bitmeden ek süre talebinde bulunmuş ve dilekçesinin ilgili gümrüğün kaydına alındığını belgelendirmiştir.  
-- Talep henüz sonuçlanmamışken eşyanın yurtta kalma süresi aşılmış; firma eşyayı yurt dışı etmek üzere gümrük idaresine başvurmuştur.  
-Buna göre eşyanın yurt dışına çıkışına ilişkin aşağıdakilerden hangisi doğrudur?  
+**7-** Gümrük Yönetmeliği'ne göre, süresi içinde ek süre talep dilekçesinin ilgili gümrüğün kaydına alındığı belgelendirilmiş olan ve ek süreler dâhil yurtta kalma süresi aşılarak yurt dışı edilmek istenen geçici ithal eşyasının çıkışına ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Süreye ilişkin talep sonuçlandırılmadan çıkışına izin verilmez.  
 B) Çıkışına ancak Kanunda öngörülen cezanın tahsil edildiğinin veya teminata bağlandığının anlaşılması hâlinde izin verilir.  
@@ -95,19 +90,13 @@ C) Ayniyet tespitinin yapılması mümkün olmayan eşya
 D) Ülke ekonomisine zarar verebileceği Müsteşarlıkça belirlenecek eşya  
 E) Önemli ekonomik etkisi olmayan eşya  
 
-**10-** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre tam muafiyet suretiyle geçici ithalatta teminata ilişkin aşağıdaki ifadeler verilmiştir:
+**10-** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre geçici ithalatta teminata ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Sözlü beyana konu olan eşya için teminat aranmaz.  
-II. Yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri için teminat aranmaz.  
-III. Yazılı beyana konu olan ve hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için ithalat vergilerini karşılayacak tutarda teminat aranır.  
-IV. Teminat aranan hâllerde, ithalat vergileri tutarının yüzde üçü dışında kalan tutar kadar teminat alınır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) Yalnız I  
-B) I ve III  
-C) II ve IV  
-D) I ve II  
-E) I, II ve III  
+A) Tam muafiyet suretiyle geçici ithal edilecek eşyadan ithalat vergilerini karşılayacak tutarda teminat aranır.  
+B) Tam muafiyet suretiyle geçici ithalatta sözlü beyana konu olan eşya için teminat aranmaz.  
+C) Tam muafiyet suretiyle geçici ithalatta, yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri için teminat aranmaz.  
+D) Tam muafiyet suretiyle geçici ithalatta, demiryolu şirketlerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için teminat aranır.  
+E) Kısmi muafiyet suretiyle geçici ithalat rejimine tabi tutulan eşya için her ay itibarıyla alınacak ithalat vergileri tutarının yüzde üçü dışında kalan tutar için teminat aranır.  
 
 **11-** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre geçici ithalat rejimi kapsamındaki eşyaya ilişkin olarak izin hak sahibi tarafından yapılamayacak işlemler bakımından aşağıdakilerden hangisi doğrudur?
 
@@ -139,13 +128,13 @@ C) Karne hamilinin talep ettiği süre kadar verilir.
 D) Geçici ithal tarihinden itibaren iki ay süreyle verilir.  
 E) Geçici ithal tarihinden itibaren altı aydan az olmayacak şekilde verilir.  
 
-**14-** Gümrük Yönetmeliği ve Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre aşağıdaki belge – belgeyi düzenleyen veya veren eşleştirmelerinden hangisi yanlıştır?
+**14-** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre, "Çift uyruklu Türk vatandaşları hariç olmak üzere, Türkiye Gümrük Bölgesi dışında yerleşik kişilerden, Türkiye'ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile Türkiye'de geçici olarak oturma iznini haiz emekli yabancıların ikamet yerlerinde adlarına kayıtlı kişisel kullanıma mahsus kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen ve yalnız Türkiye için geçerli olan belge" biçiminde tanımlanan kavram aşağıdakilerden hangisidir?
 
-A) Gümrüklerden geçiş karnesi (CPD) – Ulusal ve uluslararası kefil kuruluşlar  
-B) Yabancı taşıtlar geçici giriş karnesi – Kefil kuruluşlar  
-C) Yabancı taşıtlar geçici giriş formu – Kefil kuruluşlar  
-D) Triptik karnesi – Ulusal kefil kuruluş  
-E) Geçici trafik tescil belgesi – Gümrük idaresi  
+A) Yabancı taşıtlar geçici giriş karnesi  
+B) Gümrüklerden geçiş karnesi (CPD)  
+C) Yabancı taşıtlar geçici giriş formu  
+D) Geçici giriş belgesi  
+E) Triptik karnesi  
 
 **15-** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre "emeklilik belgesi" aşağıdakilerden hangisinde doğru olarak tanımlanmıştır?
 
@@ -155,17 +144,13 @@ C) Türkiye Gümrük Bölgesi dışında yerleşik kişinin yurtdışından emek
 D) Türkiye Gümrük Bölgesi dışında yerleşik kişinin yurtdışından emekli olduğunu gösteren, çalışmaya bağlı olarak hak edilen ilgili ülke sosyal güvenlik mevzuatı gereğince düzenlenen belge ile bu belgenin elçilik, konsolosluk veya noterlerce onaylanmış Türkçe tercümeli sureti  
 E) İkamet tezkeresinde çalışma izninden muaf olduğu belirtilen kişinin Türkiye'de çalıştığını ispat etmek üzere sosyal güvenlik kurumundan alınan belge  
 
-**16-** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) çerçevesinde aşağıdaki olayı değerlendiriniz:
+**16-** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre 2 No.lu Taşıt Takip Programına kaydedilen taşıtlar arasında aşağıdakilerden hangisi yer almaz?
 
-- Almanya'da kayıtlı bir şirket adına tescilli otomobil, şirketin yurt dışında yerleşik yöneticisi tarafından iş görüşmeleri amacıyla bir sınır gümrük idaresinden Türkiye'ye getirilmektedir.  
-- Otomobil NCTS veya TIR karnesi kapsamında eşya taşımamaktadır; Türkiye'de de eşya veya yolcu taşımacılığında kullanılmayacaktır.  
-Buna göre taşıtın giriş işlemlerinin kaydedileceği program ile taşıta verilebilecek süre aşağıdakilerden hangisinde birlikte doğru olarak verilmiştir?  
-
-A) 2 No.lu Taşıt Takip Programı – 30 güne kadar  
-B) 2 No.lu Taşıt Takip Programı – 90 güne kadar  
-C) 1 No.lu Taşıt Takip Programı – 90 güne kadar  
-D) 1 No.lu Taşıt Takip Programı – 730 gün  
-E) MA ve Takrir Modülü – 24 aya kadar  
+A) NCTS ve TIR karnesi kapsamında eşya taşımayan, tüzel kişilikler adına kayıtlı olup eşya ve yolcu taşımacılığında kullanılan minibüs ve kamyonetler  
+B) Yurtdışından tamir, bakım, onarım ve tadilat amacıyla sürülerek getirilen kişisel kullanıma mahsus kara taşıtları  
+C) NCTS ve TIR karnesi kapsamında eşya taşımayan, tüzel kişilikler adına kayıtlı olup eşya ve yolcu taşımacılığında kullanılmayan otomobiller  
+D) Dolu veya boş olarak Türkiye'ye girişi yapılan yabancı plakalı otobüsler  
+E) Sınır ticareti uygunluk belgesine istinaden ithal eşyasının taşımacılığında kullanılan yabancı plakalı taşıtlar  
 
 **17-** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre, Türkiye'ye belirli bir süre görev yapmak üzere gelen ve kişisel kullanıma mahsus kara taşıtını yabancı taşıtlar geçici giriş karnesi ile getiren kişinin, taşıtın trafiğe tescili için gümrük idaresince düzenlenecek geçici trafik tescil belgesine ilişkin başvurusunu hangi süre içinde yapması gerekir?
 
@@ -299,12 +284,7 @@ E) 24 ay
 
 *Gümrük Yönetmeliği md. 387*
 
-**7-** Gümrük Yönetmeliği'nin geçici ithal eşyasının yeniden ihracına ilişkin hükümleri çerçevesinde aşağıdaki olayı değerlendiriniz:
-
-- (A) firması, Türkiye Gümrük Bölgesi dışında yerleşik bir kişiye ait ölçüm cihazını tam muafiyet suretiyle geçici ithal etmiş, eşyanın vergileri karşılığında teminat alınmıştır.  
-- Firma, izin süresi bitmeden ek süre talebinde bulunmuş ve dilekçesinin ilgili gümrüğün kaydına alındığını belgelendirmiştir.  
-- Talep henüz sonuçlanmamışken eşyanın yurtta kalma süresi aşılmış; firma eşyayı yurt dışı etmek üzere gümrük idaresine başvurmuştur.  
-Buna göre eşyanın yurt dışına çıkışına ilişkin aşağıdakilerden hangisi doğrudur?  
+**7-** Gümrük Yönetmeliği'ne göre, süresi içinde ek süre talep dilekçesinin ilgili gümrüğün kaydına alındığı belgelendirilmiş olan ve ek süreler dâhil yurtta kalma süresi aşılarak yurt dışı edilmek istenen geçici ithal eşyasının çıkışına ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Süreye ilişkin talep sonuçlandırılmadan çıkışına izin verilmez.  
 B) Çıkışına ancak Kanunda öngörülen cezanın tahsil edildiğinin veya teminata bağlandığının anlaşılması hâlinde izin verilir.  
@@ -313,7 +293,7 @@ D) Çıkışına ancak eşyanın CIF kıymeti karşılığı dövizin güvenceye
 E) Süreye ilişkin talebin sonuçlandırılması beklenmeden ve alınan teminat iade edilmeksizin çıkışına izin verilir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre ek süreler dâhil yurtta kalma süresi aşılarak yurt dışı edilmek istenen geçici ithal eşyası için iki ayrı yol vardır. Süresi içinde ek süre talep dilekçesinin ilgili gümrüğün kaydına alındığı belgelendirilmişse, süreye ilişkin talebin sonuçlandırılması beklenmeden ve eşya için alınan teminat iade edilmeksizin çıkışa izin verilir. Süresi içinde ek süre talebinde bulunulmamış ya da bu belgelendirilememişse, çıkış için Kanunda öngörülen cezanın tahsil edildiğinin veya teminata bağlandığının anlaşılması gerekir. Olayda firma süresinde dilekçe vermiş ve kayda alındığını belgelendirmiştir; vakaya saklanan nokta budur. En güçlü çeldirici ceza şartını öne süren seçenektir: bu yol, ek süre talebi bulunmayan veya belgelendirilemeyen durumlara aittir. CIF kıymeti karşılığı dövizin güvenceye bağlanması ise ATA karnesi kapsamındaki eşyanın süre aşımıyla çıkışında aranabilen seçeneklerden biridir. Teminatın iadesi çıkışın şartı değildir; teminat, çıkıştan sonra ayrıca yapılacak başvuru ile çözülür. Bu nedenle doğru cevap E seçeneğidir. (MD GY 387, 388; ATA Tebliği 5)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre ek süreler dâhil yurtta kalma süresi aşılarak yurt dışı edilmek istenen geçici ithal eşyası için iki ayrı yol vardır. Süresi içinde ek süre talep dilekçesinin ilgili gümrüğün kaydına alındığı belgelendirilmişse, süreye ilişkin talebin sonuçlandırılması beklenmeden ve eşya için tahakkuk ettirilen vergiler karşılığı alınan teminat iade edilmeksizin çıkışa izin verilir. Süresi içinde ek süre talebinde bulunulmamış ya da bu belgelendirilememişse, çıkış için Kanunda öngörülen cezanın tahsil edildiğinin veya teminata bağlandığının anlaşılması gerekir. Kökte ek süre dilekçesinin süresinde verilip kayda alındığı belgelendirilmiştir; bu nedenle birinci yol uygulanır. En güçlü çeldirici ceza şartını öne süren seçenektir: bu yol, ek süre talebi bulunmayan veya belgelendirilemeyen durumlara aittir. Talebin sonuçlanmasını bekleten seçenek, hükümdeki 'beklenilmeden' kaydını tersine çevirir. Teminatın iadesi de çıkışın şartı değildir; teminat, yeniden ihraçtan sonra giriş işlemini yapan gümrük idaresine dilekçeyle başvurularak çözülür. CIF kıymeti karşılığı dövizin güvenceye bağlanması ise ATA karnesi kapsamındaki eşyanın süre aşımıyla çıkışında aranabilen seçeneklerden biridir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 387, 388; ATA Tebliği 5)
 
 *2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar" md. 37*
 
@@ -343,22 +323,16 @@ E) Önemli ekonomik etkisi olmayan eşya
 
 *2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar" md. 41, 42*
 
-**10-** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre tam muafiyet suretiyle geçici ithalatta teminata ilişkin aşağıdaki ifadeler verilmiştir:
+**10-** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre geçici ithalatta teminata ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Sözlü beyana konu olan eşya için teminat aranmaz.  
-II. Yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri için teminat aranmaz.  
-III. Yazılı beyana konu olan ve hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için ithalat vergilerini karşılayacak tutarda teminat aranır.  
-IV. Teminat aranan hâllerde, ithalat vergileri tutarının yüzde üçü dışında kalan tutar kadar teminat alınır.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) Yalnız I  
-B) I ve III  
-C) II ve IV  
-D) I ve II  
-E) I, II ve III  
+A) Tam muafiyet suretiyle geçici ithal edilecek eşyadan ithalat vergilerini karşılayacak tutarda teminat aranır.  
+B) Tam muafiyet suretiyle geçici ithalatta sözlü beyana konu olan eşya için teminat aranmaz.  
+C) Tam muafiyet suretiyle geçici ithalatta, yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri için teminat aranmaz.  
+D) Tam muafiyet suretiyle geçici ithalatta, demiryolu şirketlerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için teminat aranır.  
+E) Kısmi muafiyet suretiyle geçici ithalat rejimine tabi tutulan eşya için her ay itibarıyla alınacak ithalat vergileri tutarının yüzde üçü dışında kalan tutar için teminat aranır.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Karar'a göre tam muafiyet suretiyle geçici ithal edilecek eşyadan ithalat vergilerini karşılayacak tutarda teminat aranır. Ancak sözlü beyana konu olan eşya için (I doğru) ve yazılı beyana konu olanlardan kriz hali nedeniyle bir kamu kuruluşu veya onların yetkili kıldığı kuruluşlar adına gönderilen yardım malzemeleri için (II doğru) teminat aranmaz. Hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme de teminat aranmayan hâller arasındadır; III bu istisnayı tersine çevirmiştir (III yanlış). Her ay alınacak ithalat vergileri tutarının yüzde üçü dışında kalan tutar için teminat aranması kısmi muafiyete ait bir kuraldır; tam muafiyette teminat, ithalat vergilerini karşılayacak tutardadır (IV yanlış). En güçlü çeldirici 'I, II ve III' seçeneğidir: yazılı beyana konu ticari nitelikli malzemede teminatın aranacağı düşüncesi mantıklı görünür, ancak işaretli uluslararası trafik malzemesi açıkça teminattan istisna edilmiştir. Bu nedenle doğru cevap D seçeneğidir. (MD Karar 41, 42)
+**Gerekçe:** Karar'a göre tam muafiyet suretiyle geçici ithal edilecek eşyadan ithalat vergilerini karşılayacak tutarda teminat aranır. Bu kuralın istisnaları sayılmıştır: sözlü beyana konu olan eşya ile yazılı beyana konu olanlardan Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu veya onların yetkili kıldığı kuruluşlar adına gönderilen yardım malzemeleri ve hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup bunlar tarafından uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için teminat aranmaz. Yanlış ifade, demiryolu şirketine ait işaretli malzemeyi teminat aranan eşya gibi göstererek 'aranmaz' hükmünü tersine çevirmektedir. Kısmi muafiyet suretiyle geçici ithalatta ise her ay itibarıyla alınacak ithalat vergileri tutarının yüzde üçü dışında kalan tutar için teminat aranır; bu ifade de doğrudur. En güçlü tuzak, ticari bir şirkete ait malzemenin kamu yardımı ve sözlü beyan eşyası gibi kayırılmayacağı düşüncesidir; Karar işaretli uluslararası trafik malzemesini de açıkça teminattan istisna etmiştir. Bu nedenle doğru cevap D seçeneğidir. (MD Karar 41, 42)
 
 *2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar" md. 43*
 
@@ -405,18 +379,18 @@ E) Geçici ithal tarihinden itibaren altı aydan az olmayacak şekilde verilir.
 **Doğru Cevap:** E  
 **Gerekçe:** Tebliğ'e göre Geçici İthalat Sözleşmesinin sergi, fuar ve benzeri etkinliklere ilişkin eki (Ek B1) kapsamında getirilen eşyaya, geçici ithal tarihinden itibaren altı aydan az olmayacak şekilde yurtta kalma süresi verilir. Eşyanın başka etkinliklerde de sergileneceği veya kullanılacağı belgelendirilirse karne geçerlilik süresi kadar süre verilir; soruda bu belgelendirme yoktur. Altı ay bir alt sınırdır; 'en fazla altı ay' ifadesi alt sınırı üst sınıra çevirir ve en güçlü çeldiricidir. Karne geçerlilik süresi kadar süre, mesleki malzeme ve eğitsel eşya gibi diğer eklerde, karne hamili daha kısa süre istemedikçe uygulanır. Karne hamilinin talep ettiği süre, sınır ticareti ekindeki arazide çalışmaya mahsus ekipmana aittir. İki ay ise Karar'da alıcının incelemesine bağlı olarak satın alınacak ve numune sayılmayan eşyaya verilen süredir. Bu nedenle doğru cevap E seçeneğidir. (MD ATA Tebliği 6; Karar 37)
 
-*Gümrük Yönetmeliği md. 376; Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) md. 4, 8*
+*Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) md. 4; Gümrük Yönetmeliği md. 376*
 
-**14-** Gümrük Yönetmeliği ve Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre aşağıdaki belge – belgeyi düzenleyen veya veren eşleştirmelerinden hangisi yanlıştır?
+**14-** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre, "Çift uyruklu Türk vatandaşları hariç olmak üzere, Türkiye Gümrük Bölgesi dışında yerleşik kişilerden, Türkiye'ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile Türkiye'de geçici olarak oturma iznini haiz emekli yabancıların ikamet yerlerinde adlarına kayıtlı kişisel kullanıma mahsus kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen ve yalnız Türkiye için geçerli olan belge" biçiminde tanımlanan kavram aşağıdakilerden hangisidir?
 
-A) Gümrüklerden geçiş karnesi (CPD) – Ulusal ve uluslararası kefil kuruluşlar  
-B) Yabancı taşıtlar geçici giriş karnesi – Kefil kuruluşlar  
-C) Yabancı taşıtlar geçici giriş formu – Kefil kuruluşlar  
-D) Triptik karnesi – Ulusal kefil kuruluş  
-E) Geçici trafik tescil belgesi – Gümrük idaresi  
+A) Yabancı taşıtlar geçici giriş karnesi  
+B) Gümrüklerden geçiş karnesi (CPD)  
+C) Yabancı taşıtlar geçici giriş formu  
+D) Geçici giriş belgesi  
+E) Triptik karnesi  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğ'e göre yabancı taşıtlar geçici giriş formu, Türkiye'ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile oturma iznine sahip emekli yabancıların kişisel kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen ve yalnız Türkiye için geçerli olan belgedir; bu nedenle formu kefil kuruluşa bağlayan eşleştirme yanlıştır. Aynı kişiler için kefil kuruluşlarca verilen, yalnız Türkiye'de geçerli teminat hükmündeki belge ise yabancı taşıtlar geçici giriş karnesidir. Gümrüklerden geçiş karnesi (CPD), ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde bir belgedir. Yönetmeliğe göre triptik karnesi, turistik amaçlı seyahatlerde getirilen taşıtlar için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen üç parçalı teminat hükmünde belgedir. Geçici trafik tescil belgesini ise taşıtın trafiğe tescili ve dâhilde alınan vergilerin tahsili için gümrük idaresi düzenler ve notere gönderir. En güçlü tuzak, karne ile formun aynı kişi grubuna hitap eden ikiz belgeler olmasıdır: karneyi kefil kuruluş verir, formu gümrük idaresi teminat karşılığında düzenler. Bu nedenle doğru cevap C seçeneğidir. (MD GY 376; Tebliğ Seri No: 1 md. 4, 8)
+**Gerekçe:** Tebliğ'e göre yabancı taşıtlar geçici giriş formu; çift uyruklu Türk vatandaşları hariç olmak üzere, Türkiye Gümrük Bölgesi dışında yerleşik kişilerden Türkiye'ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile Türkiye'de geçici olarak oturma iznini haiz emekli yabancıların ikamet yerlerinde adlarına kayıtlı kişisel kullanıma mahsus kara taşıtları için gümrük idarelerince teminat karşılığında düzenlenen ve yalnız Türkiye için geçerli olan belgedir. Tanımı ayıran unsur, belgenin gümrük idarelerince teminat karşılığında düzenlenmesidir. En güçlü çeldirici yabancı taşıtlar geçici giriş karnesidir: aynı kişi grubuna ve aynı taşıtlara hitap eder ve o da yalnız Türkiye için geçerlidir; ancak karne, kefil kuruluşlarca verilen teminat hükmünde bir belgedir. Gümrüklerden geçiş karnesi (CPD), ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmündeki belgedir. Geçici giriş belgesi, Türkiye'deki elçilik, konsolosluk ve benzeri uluslararası kuruluşlarda çalışan diplomatik statüsü bulunmayan kişilerin ve teknik işbirliği anlaşmalarıyla gelenlerin taşıtları için onaylanan taahhütname ve teminat hükmündeki belgedir. Triptik karnesi ise Yönetmeliğe göre turistik amaçlı seyahatlerde getirilen taşıtlar için ulusal kefil kuruluşça yalnız Türkiye için geçerli olacak şekilde düzenlenen üç parçalı teminat hükmündeki belgedir. Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ Seri No: 1 md. 4; GY 376)
 
 *Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) md. 4*
 
@@ -431,22 +405,18 @@ E) İkamet tezkeresinde çalışma izninden muaf olduğu belirtilen kişinin Tü
 **Doğru Cevap:** D  
 **Gerekçe:** Tebliğ'e göre emeklilik belgesi; Türkiye Gümrük Bölgesi dışında yerleşik kişinin yurtdışından emekli olduğunu gösteren, çalışmaya bağlı olarak hak edilen ilgili ülke sosyal güvenlik mevzuatı gereğince düzenlenen belge ile bu belgenin elçilik, konsolosluk veya noterlerce onaylanmış Türkçe tercümeli suretidir. Tanım 14.08.2026 tarihli ve 33340 sayılı Resmî Gazete'de yayımlanan Seri No: 9 Tebliğ ile değiştirilmiştir; belgenin taşıt sahibine 730 günlük süre ve 185 gün şartından muafiyet sağladığı düşünüldüğünde güncel tanımın bilinmesi önemlidir. En güçlü çeldirici, onayı 'yalnızca Türkiye'deki noterlere' bağlayan seçenektir: tanım asıl belgeyi de kapsar ve tercümeli suretin elçilik, konsolosluk veya noterlerce onaylanmasını kabul eder; ayrıca 'çalışmaya bağlı olarak hak edilen' unsurunu düşürmüştür. Elçilikçe düzenlenip Dışişleri Bakanlığınca onaylanan taahhütname niteliğindeki belge geçici giriş belgesini, İçişleri Bakanlığınca verilen belge ikamet tezkeresini çağrıştırır; sosyal güvenlik kurumundan alınan belge ise çalışma izninden muaf kişilerin çalıştıklarını ispat için istenen belgedir. Bu nedenle doğru cevap D seçeneğidir. (MD Tebliğ Seri No: 1 md. 4, 6, 11)
 
-*Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) md. 6, 14, 15*
+*Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) md. 4, 14, 22*
 
-**16-** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) çerçevesinde aşağıdaki olayı değerlendiriniz:
+**16-** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre 2 No.lu Taşıt Takip Programına kaydedilen taşıtlar arasında aşağıdakilerden hangisi yer almaz?
 
-- Almanya'da kayıtlı bir şirket adına tescilli otomobil, şirketin yurt dışında yerleşik yöneticisi tarafından iş görüşmeleri amacıyla bir sınır gümrük idaresinden Türkiye'ye getirilmektedir.  
-- Otomobil NCTS veya TIR karnesi kapsamında eşya taşımamaktadır; Türkiye'de de eşya veya yolcu taşımacılığında kullanılmayacaktır.  
-Buna göre taşıtın giriş işlemlerinin kaydedileceği program ile taşıta verilebilecek süre aşağıdakilerden hangisinde birlikte doğru olarak verilmiştir?  
-
-A) 2 No.lu Taşıt Takip Programı – 30 güne kadar  
-B) 2 No.lu Taşıt Takip Programı – 90 güne kadar  
-C) 1 No.lu Taşıt Takip Programı – 90 güne kadar  
-D) 1 No.lu Taşıt Takip Programı – 730 gün  
-E) MA ve Takrir Modülü – 24 aya kadar  
+A) NCTS ve TIR karnesi kapsamında eşya taşımayan, tüzel kişilikler adına kayıtlı olup eşya ve yolcu taşımacılığında kullanılan minibüs ve kamyonetler  
+B) Yurtdışından tamir, bakım, onarım ve tadilat amacıyla sürülerek getirilen kişisel kullanıma mahsus kara taşıtları  
+C) NCTS ve TIR karnesi kapsamında eşya taşımayan, tüzel kişilikler adına kayıtlı olup eşya ve yolcu taşımacılığında kullanılmayan otomobiller  
+D) Dolu veya boş olarak Türkiye'ye girişi yapılan yabancı plakalı otobüsler  
+E) Sınır ticareti uygunluk belgesine istinaden ithal eşyasının taşımacılığında kullanılan yabancı plakalı taşıtlar  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğ'e göre NCTS ve TIR karnesi kapsamında eşya taşıyanlar hariç, tüzel kişilikler adına kayıtlı otomobil, minibüs, arazi taşıtı, kamyonet ve motosikletlerden eşya ve yolcu taşıyanlar 2 No.lu Taşıt Takip Programına, taşımayanlar ise 1 No.lu Taşıt Takip Programına kaydedilir. Olaydaki otomobil şirket adına kayıtlıdır ancak eşya veya yolcu taşımayacaktır; bu nedenle 1 No.lu programa kaydedilir. Süre bakımından Tebliğ, 1 No.lu Taşıt Takip Programına kayden giriş yapan tüzel kişiliklere ait otomobil, minibüs, arazi taşıtı, kamyonet ve motosikletlere 90 güne kadar süre verilmesini öngörür. Vakaya saklanan nokta, aracın 1 No.lu programa girmesine rağmen turistlere verilen süreye tabi olmamasıdır. En güçlü çeldirici '1 No.lu Taşıt Takip Programı – 730 gün' seçeneğidir: 730 gün, bölge dışında yerleşik kişilerin turistik kolaylıklar kapsamında getirdikleri kişisel taşıtların süresidir. 30 gün ticari kullanıma mahsus kara taşıtlarına, MA ve Takrir Modülü ile 24 aya kadar süre ise geçici giriş belgesi, karne ve form kapsamındaki taşıtlara aittir. Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ Seri No: 1 md. 6, 12, 14, 15)
+**Gerekçe:** Tebliğ'e göre NCTS ve TIR karnesi kapsamında eşya taşıyanlar hariç, tüzel kişilikler adına kayıtlı otomobil, minibüs, arazi taşıtı, kamyonet ve motosikletlerden eşya ve yolcu taşıyanlar 2 No.lu Taşıt Takip Programına, taşımayanlar ise 1 No.lu Taşıt Takip Programına kaydedilir. Bu nedenle eşya ve yolcu taşımacılığında kullanılmayan tüzel kişi otomobili 2 No.lu programda yer almaz. 2 No.lu Taşıt Takip Programı ise tanımında; ticari kullanıma mahsus kara taşıtlarından boş olarak girenleri, sınır ticareti uygunluk belgesine istinaden ithal eşyasının taşımacılığında kullanılanları ve dolu veya boş olarak Türkiye'ye girişi yapılan yabancı plakalı otobüsleri kapsar. Yurtdışından tamir, bakım, onarım ve tadilat gibi amaçlarla sürülerek getirilen kişisel ve ticari kullanıma mahsus kara taşıtları da 2 No.lu programa kaydedilir. En güçlü tuzak, aynı cümlenin iki yarısıdır: tüzel kişiye ait taşıtta programı belirleyen ölçüt taşıtın cinsi değil, eşya ve yolcu taşıyıp taşımamasıdır. Tamir amacıyla getirilen kişisel taşıt da 'kişisel taşıt 1 No.lu programa girer' düşüncesiyle yanlış işaretlenebilir; tamir amacı bu taşıtı 2 No.lu programa götürür. Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ Seri No: 1 md. 4, 14, 22)
 
 *Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) md. 8, 11*
 
@@ -504,11 +474,11 @@ E) Yediemine teslim tarihinden itibaren üç aydır; talep hâlinde gümrük ve 
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I ve III, I ve II, I, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 15, İSTİSNA 6, TERSİNE 6, MAKAM 3, BAŞLANGIÇ 3, ŞART 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I ve III, I, II ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 15, TERSİNE 7, İSTİSNA 5, UNSUR 4, BAŞLANGIÇ 3, LİSTE-DIŞI 3 |
 | İkiz eksen / ayna | 15, 16 / Ayniyet tespiti: Karar yasak listesi ↔ Kanun istisnası |
 | Güncellik | 14.08.2026 / 33340 R.G. (Seri No: 9 Tebliğ); 14.08.2026 / 33340 R.G. (Seri No: 9 Tebliğ) |
 | Çıkmış bilgi alanı karşılayan | 12 |

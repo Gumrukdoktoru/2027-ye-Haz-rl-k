@@ -22,15 +22,13 @@ C) E tipi antrepo, işleticisi ve kullanıcısının aynı kişi olduğu, izin h
 D) F tipi antrepo, gümrük idarelerince işletilen genel antrepo tipidir.  
 E) Geçici depolama yerleri, aynı zamanda A, B, C ve D tipi antrepo olarak onaylanabilir veya buralar F tipi antrepo olarak işletilebilir.  
 
-**3-** (K) Lojistik A.Ş., B tipi bir genel antrepo işletmektedir. (M) İthalat Ltd. Şti., yurt dışından getirdiği eşya için antrepo beyannamesini kendisi vererek eşyayı bu antrepoya koymuştur. Yıllık sayımda (M) İthalat Ltd. Şti.'ne ait eşyada 40 koli noksanlık tespit edilmiştir. Noksanlığın eşyanın niteliğinden kaynaklanan bir fire olduğu ya da işletici ve kullanıcının kusur ve hatasından ileri gelmeyen bir kayıp olduğu gümrük idaresine kanıtlanamamıştır. Eşya sigorta ettirilmemiştir.
+**3-** Gümrük Yönetmeliği'ne göre, antrepoya konulan eşyadan kullanıcının sorumlu olduğu, antrepo beyannamesini kullanıcının verdiği ve antrepo işleticisinin sorumluluğunun sınırlı olduğu genel antrepo tipi aşağıdakilerden hangisidir?
 
-Buna göre 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin antrepo tiplerine ve antrepolarda yapılan sayıma ilişkin hükümleri çerçevesinde noksan çıkan eşyanın gümrük vergileri bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) Vergiler antrepo işleticisinden tahsil edilir; antrepoya konulan eşyada noksanlık olması hâlinde vergileri ödemekten işletici sorumludur.  
-B) Vergiler işletici ile kullanıcıdan ayrı ayrı tahsil edilir; her biri noksan eşyanın vergilerinin tamamından sorumludur.  
-C) Vergi aranmaz; antrepolarda yapılan sayımda ortaya çıkan noksanlıklar için gümrük vergileri hiçbir durumda aranmaz.  
-D) Vergi tahsil edilmez; sayımda kayıtlarla uyuşmayan eşya tasfiyeye tabi tutulur.  
-E) Vergiler kullanıcıdan tahsil edilir; bu antrepo tipinde eşyadan kullanıcı sorumludur ve işleticinin sorumluluğu sınırlıdır.  
+A) A tipi antrepo  
+B) C tipi antrepo  
+C) D tipi antrepo  
+D) F tipi antrepo  
+E) B tipi antrepo  
 
 **4-** 4458 sayılı Gümrük Kanunu'na göre gümrük antreposu işletmek isteyen kişilerin yazılı talebinde özellikle belirtilmesi gereken husus ile gümrük antreposu işletme izninin verilebileceği kişiler aşağıdakilerden hangisinde birlikte doğru olarak verilmiştir?
 
@@ -96,15 +94,13 @@ C) Gümrük ve vergi mevzuatları uyarınca hakkında ödenmemiş herhangi bir v
 D) Gümrük işlemlerini yetkilendirilmiş gümrük müşaviri aracılığıyla takip ettirmesi  
 E) Yönetim kurulu üyeleri ile sermayesinin yüzde onundan fazlasına sahip gerçek kişiler hakkında 5607 sayılı Kaçakçılıkla Mücadele Kanununa muhalefetten ceza veya mahkûmiyet kararı bulunmaması  
 
-**12-** (T) Gıda A.Ş., işleticisi ve kullanıcısı olduğu C tipi özel antrepoda depoladığı eşyayı satış suretiyle (R) Ticaret Ltd. Şti.'ne devretmiştir. (R) Ticaret Ltd. Şti., eşyayı devirden sonraki yedinci iş gününde serbest dolaşıma giriş beyannamesiyle antrepodan çıkarmıştır.
+**12-** Gümrük Yönetmeliği'nin gümrük antrepolarında depolanan eşyanın satış suretiyle başkasına devrine ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-Buna göre Gümrük Yönetmeliği'nin antrepolardaki eşyanın başkasına devrine ilişkin hükümleri çerçevesinde aşağıdakilerden hangisi doğrudur?  
-
-A) Sürenin aşıldığı tarihten itibaren aşılan her gün için hem antrepo işleticisine hem devralana ayrı ayrı usulsüzlük cezası uygulanır.  
-B) Sürenin aşıldığı tarihten itibaren aşılan her gün için yalnızca devralana usulsüzlük cezası uygulanır.  
-C) Eşyanın antrepo rejimi altında kalış süresi sınırsız olduğundan işleticiye veya devralana herhangi bir yaptırım uygulanmaz.  
-D) Devirle birlikte eşya ile ilgili hukuki sorumluluklar devralana geçmediğinden yaptırım yalnızca devreden işleticiye uygulanır.  
-E) Süresi içinde antrepodan çıkarılmayan eşya tasfiye edileceğinden serbest dolaşıma giriş beyannamesi işleme konulmaz.  
+A) Özel antrepoda devredilen eşyanın devrini müteakip beş iş günü içinde antrepodan çıkarılmaması hâlinde, sürenin aşıldığı tarihten itibaren aşılan her gün için yalnızca devralana usulsüzlük cezası uygulanır.  
+B) Antrepoda devri yapılan her bir eşya için, beş iş günü içerisinde devralan tarafından eşyanın gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutulması ya da yeni bir antrepo beyannamesi verilmesi gerekir.  
+C) Eşyanın devri ile birlikte gümrük vergileri ile para cezaları da dâhil eşya ile ilgili hukuki sorumluluklar devralana geçer.  
+D) Antrepoda devredilmiş olan eşya için yeni bir antrepo beyannamesi verilmeden söz konusu eşya antrepoda başka bir devre konu olamaz.  
+E) Eşyanın mülkiyeti ile ilgili olarak devri önleyici haciz ya da ihtiyati tedbir kararı gibi hukuki bir engelin varlığı hâlinde bu durum açıklığa kavuşturulmadan işlem yapılamaz.  
 
 **13-** (D) Sanayi A.Ş.'nin işleticisi ve kullanıcısı olduğu D tipi özel antrepoda, 3 Şubat tarihinde gümrük antrepo rejimine tabi tutulan ithal eşyasının nitelik, gümrük kıymeti ve miktarı gibi vergilendirme unsurları aynı tarihte tespit edilmiştir. Eşya 5 Eylül tarihinde kayıt yoluyla serbest dolaşıma girmek üzere teslim edilmiştir.
 
@@ -120,19 +116,13 @@ C) 44.000
 D) 80.000  
 E) 88.000  
 
-**14-** Gümrük Yönetmeliği'nin gümrük antrepolarında elleçleme işlemleri için yapılacak başvuruya ve bu işlemlerin uygulanmasına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**14-** Gümrük Yönetmeliği'ne göre gümrük antreposundaki eşyanın elleçlemesinin antrepo dışında yapılmasının talep edilmesi hâlinde, elleçleme izni başvurusunun yapılacağı ve başvuruyu sonuçlandıracak idare aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-I. Elleçleme izni için başvuru yazılı olarak yapılır ve her işlem için ayrı ayrı yapılması gerekir.  
-II. Elleçlemenin antrepo dışında yapılması talep edildiğinde başvuru doğrudan Bölge Müdürlüğüne yapılır ve Bölge Müdürlüğünce sonuçlandırılır.  
-III. Elleçleme için antrepodan geçici olarak çıkarılan eşya gümrükçe onaylanmış bir işleme tabi tutulacaksa, eşyanın antrepoya geri getirilmesi zorunlu değildir; eşya bulunduğu yerde muayeneye sunulabilir.  
-IV. Antrepolarda veya geçici çıkış yoluyla yapılan elleçleme işlemlerinden, antrepo rejimine tabi olmayan eşya da yararlanabilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) III ve IV  
-C) I ve III  
-D) I, II ve III  
-E) I, III ve IV  
+A) Başvuru denetleyici gümrük müdürlüğüne yapılır ve denetleyici gümrük müdürlüğünce sonuçlandırılır.  
+B) Başvuru doğrudan Bölge Müdürlüğüne yapılır ve Bölge Müdürlüğünce sonuçlandırılır.  
+C) Başvuru denetleyici gümrük müdürlüğüne yapılır; gümrük müdürlüğünün görüşü ile birlikte Bölge Müdürlüğüne iletilir ve Bölge Müdürlüğünce sonuçlandırılır.  
+D) Başvuru Bölge Müdürlüğüne yapılır; Bölge Müdürlüğünün görüşü ile birlikte denetleyici gümrük müdürlüğüne iletilir ve gümrük müdürlüğünce sonuçlandırılır.  
+E) Başvuru denetleyici gümrük müdürlüğüne yapılır; gümrük müdürlüğünün görüşü ile birlikte Bakanlığa iletilir ve Bakanlıkça sonuçlandırılır.  
 
 **15-** Gümrük Yönetmeliği'ne göre savunma sanayi ve havacılık sektöründe kullanılan eşyanın gümrük antrepolarında ek-63'te belirtilen elleçleme faaliyetlerine tabi tutulmasına hangi şartla ve hangi makamca izin verilebilir?
 
@@ -228,20 +218,18 @@ E) Geçici depolama yerleri, aynı zamanda A, B, C ve D tipi antrepo olarak onay
 **Doğru Cevap:** B  
 **Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük antrepoları genel ve özel olmak üzere ikiye ayrılır; genel antrepoların A, B ve F, özel antrepoların C, D ve E tipleri bulunur. A tipi antrepo, işleticisinin stok kayıtlarını tuttuğu ve antrepoya konulan eşyada herhangi bir noksanlık olması hâlinde gümrük vergilerini ödemekten işleticinin sorumlu olduğu genel antrepo tipidir; yanlış seçenekte bu sorumluluk kullanıcıya kaydırılmıştır. Eşyadan kullanıcının sorumlu olduğu ve işleticinin yalnızca antrepoyu kiraladığı genel antrepo B tipidir. C ve E tipi antrepolarda işletici ile kullanıcı aynı kişidir; E tipinde izin hak sahibinin depolama yeri antrepo addedilir. F tipi gümrük idarelerince işletilen genel antrepodur; geçici depolama yerleri de Müsteşarlıkça A, B, C ve D tipi antrepo olarak onaylanabilir veya F tipi antrepo olarak işletilebilir. En güçlü tuzak, A tipindeki işletici sorumluluğunun B tipindeki kullanıcı sorumluluğuyla yer değiştirmesidir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 329)
 
-*4458 sayılı Gümrük Kanunu md. 105, 106; Gümrük Yönetmeliği md. 329*
+*Gümrük Yönetmeliği md. 329; 4458 sayılı Gümrük Kanunu md. 105*
 
-**3-** (K) Lojistik A.Ş., B tipi bir genel antrepo işletmektedir. (M) İthalat Ltd. Şti., yurt dışından getirdiği eşya için antrepo beyannamesini kendisi vererek eşyayı bu antrepoya koymuştur. Yıllık sayımda (M) İthalat Ltd. Şti.'ne ait eşyada 40 koli noksanlık tespit edilmiştir. Noksanlığın eşyanın niteliğinden kaynaklanan bir fire olduğu ya da işletici ve kullanıcının kusur ve hatasından ileri gelmeyen bir kayıp olduğu gümrük idaresine kanıtlanamamıştır. Eşya sigorta ettirilmemiştir.
+**3-** Gümrük Yönetmeliği'ne göre, antrepoya konulan eşyadan kullanıcının sorumlu olduğu, antrepo beyannamesini kullanıcının verdiği ve antrepo işleticisinin sorumluluğunun sınırlı olduğu genel antrepo tipi aşağıdakilerden hangisidir?
 
-Buna göre 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin antrepo tiplerine ve antrepolarda yapılan sayıma ilişkin hükümleri çerçevesinde noksan çıkan eşyanın gümrük vergileri bakımından aşağıdakilerden hangisi doğrudur?  
-
-A) Vergiler antrepo işleticisinden tahsil edilir; antrepoya konulan eşyada noksanlık olması hâlinde vergileri ödemekten işletici sorumludur.  
-B) Vergiler işletici ile kullanıcıdan ayrı ayrı tahsil edilir; her biri noksan eşyanın vergilerinin tamamından sorumludur.  
-C) Vergi aranmaz; antrepolarda yapılan sayımda ortaya çıkan noksanlıklar için gümrük vergileri hiçbir durumda aranmaz.  
-D) Vergi tahsil edilmez; sayımda kayıtlarla uyuşmayan eşya tasfiyeye tabi tutulur.  
-E) Vergiler kullanıcıdan tahsil edilir; bu antrepo tipinde eşyadan kullanıcı sorumludur ve işleticinin sorumluluğu sınırlıdır.  
+A) A tipi antrepo  
+B) C tipi antrepo  
+C) D tipi antrepo  
+D) F tipi antrepo  
+E) B tipi antrepo  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre B tipi antrepo, antrepoya konulan eşyadan kullanıcının sorumlu olduğu, antrepo beyannamesini kullanıcının verdiği genel antrepo tipidir; antrepo işleticisinin sorumluluğu sınırlıdır ve işletici sadece antrepoyu kiralar. Gümrük Kanunu'na göre antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, duruma göre işletici veya kullanıcıdan tahsil edilir. Vakada antrepo B tipi olduğundan ve noksanlığın vergi aranmayan hâllerden (eşyanın niteliğinden kaynaklanan kayıp ve fire, kusur ve hatadan ileri gelmediği kanıtlanan telef, kayıp ve çalınma) birine girdiği kanıtlanamadığından vergiler kullanıcıdan tahsil edilir. En güçlü çeldirici vergileri işleticiden tahsil eden seçenektir: noksanlıkta vergiden işleticinin sorumlu olduğu tip A tipi genel antrepodur. Tasfiye ise sayımda fazla çıkan ve fazlalığı geçerli nedene dayanmayan eşya için öngörülmüştür; noksanlıkta sonuç vergi tahsilidir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 329; GK 105, 106)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük antrepoları genel ve özel olmak üzere ikiye ayrılır; genel antrepoların A, B ve F, özel antrepoların C, D ve E tipleri bulunur. B tipi antrepo, antrepoya konulan eşyadan Gümrük Kanunu'nda belirtilen kullanıcının sorumlu olduğu, antrepo beyannamesini kullanıcının verdiği genel antrepo tipidir; antrepo işleticisinin sorumluluğu sınırlıdır, işletici sadece antrepoyu kiralar ve stok kayıtları tutulmadığından beyanname ve belgeler gümrük kontrolüne esas teşkil eder. A tipi de genel antrepodur, ancak stok kayıtlarını işletici tutar ve antrepoya konulan eşyada noksanlık olması hâlinde gümrük vergilerini ödemekten işletici sorumludur. F tipi gümrük idarelerince işletilen genel antrepodur. C ve D tipi antrepolar ise işleticisi ve kullanıcısı aynı kişi olan özel antrepolardır; bu tiplerde işletici ile kullanıcı arasında sorumluluk paylaşımı söz konusu olmaz. Ayrım sayımda da sonuç doğurur: Gümrük Kanunu'na göre sayımda noksan çıkan eşyanın gümrük vergileri duruma göre işletici veya kullanıcıdan tahsil edilir; eşyadan kullanıcının sorumlu olduğu B tipinde muhatap kullanıcıdır. En güçlü çeldirici 'A tipi antrepo' seçeneğidir: o da genel antrepodur, ancak eşyadan işletici sorumludur. Bu nedenle doğru cevap E seçeneğidir. (MD GY 329; GK 105)
 
 *4458 sayılı Gümrük Kanunu md. 95*
 
@@ -254,7 +242,7 @@ D) Antrepoculuğa ekonomik yönden ihtiyaç bulunduğu – Yalnızca Türkiye'de
 E) Antreponun gümrük müdürlüğüne olan mesafesi – Türkiye'de yerleşik olsun olmasın tüm kişiler  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Gümrük Kanunu'na göre gümrük antreposu işletmek isteyen kişiler, izin verilmesi için gerekli bilgileri ihtiva eden ve özellikle antrepoculuğa ekonomik yönden ihtiyaç bulunduğunu belirten yazılı bir talepte bulunmak zorundadır; antreponun işletilmesine ilişkin şartlar verilen izinde gösterilir. İzin yalnızca Türkiye'de yerleşik kişilere verilir. En güçlü çeldirici 'tüm kişiler' ifadesini taşıyan ilk seçenektir: talepte aranan husus doğru olsa da yerleşiklik şartı kaldırılmıştır. Gümrük gözetiminin olumsuz etkilenmemesi, serbest dolaşımdaki eşyanın antrepoya konulmasına izin verilmesine ilişkin komşu hükümdeki koşuldur; teminat, işleticinin sorumluluklarına ilişkin ayrı bir hükümde düzenlenmiştir; gümrük müdürlüğüne mesafe ise Yönetmelikte genel antrepolar için aranan bir yer şartıdır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 95)
+**Gerekçe:** Gümrük Kanunu'na göre gümrük antreposu işletmek isteyen kişiler, izin verilmesi için gerekli bilgileri ihtiva eden ve özellikle antrepoculuğa ekonomik yönden ihtiyaç bulunduğunu belirten yazılı bir talepte bulunmak zorundadır; antreponun işletilmesine ilişkin şartlar verilen izinde gösterilir. İzin yalnızca Türkiye'de yerleşik kişilere verilir. En güçlü çeldirici, talepte aranan hususu doğru verip izni 'Türkiye'de yerleşik olsun olmasın tüm kişiler'e tanıyan seçenektir: talepte aranan husus doğru olsa da yerleşiklik şartı kaldırılmıştır. Gümrük gözetiminin olumsuz etkilenmemesi, serbest dolaşımdaki eşyanın antrepoya konulmasına izin verilmesine ilişkin komşu hükümdeki koşuldur; teminat, işleticinin sorumluluklarına ilişkin ayrı bir hükümde düzenlenmiştir; gümrük müdürlüğüne mesafe ise Yönetmelikte genel antrepolar için aranan bir yer şartıdır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 95)
 
 *4458 sayılı Gümrük Kanunu md. 95*
 
@@ -349,18 +337,16 @@ E) Yönetim kurulu üyeleri ile sermayesinin yüzde onundan fazlasına sahip ger
 
 *Gümrük Yönetmeliği md. 333*
 
-**12-** (T) Gıda A.Ş., işleticisi ve kullanıcısı olduğu C tipi özel antrepoda depoladığı eşyayı satış suretiyle (R) Ticaret Ltd. Şti.'ne devretmiştir. (R) Ticaret Ltd. Şti., eşyayı devirden sonraki yedinci iş gününde serbest dolaşıma giriş beyannamesiyle antrepodan çıkarmıştır.
+**12-** Gümrük Yönetmeliği'nin gümrük antrepolarında depolanan eşyanın satış suretiyle başkasına devrine ilişkin hükümlerine göre aşağıdakilerden hangisi yanlıştır?
 
-Buna göre Gümrük Yönetmeliği'nin antrepolardaki eşyanın başkasına devrine ilişkin hükümleri çerçevesinde aşağıdakilerden hangisi doğrudur?  
-
-A) Sürenin aşıldığı tarihten itibaren aşılan her gün için hem antrepo işleticisine hem devralana ayrı ayrı usulsüzlük cezası uygulanır.  
-B) Sürenin aşıldığı tarihten itibaren aşılan her gün için yalnızca devralana usulsüzlük cezası uygulanır.  
-C) Eşyanın antrepo rejimi altında kalış süresi sınırsız olduğundan işleticiye veya devralana herhangi bir yaptırım uygulanmaz.  
-D) Devirle birlikte eşya ile ilgili hukuki sorumluluklar devralana geçmediğinden yaptırım yalnızca devreden işleticiye uygulanır.  
-E) Süresi içinde antrepodan çıkarılmayan eşya tasfiye edileceğinden serbest dolaşıma giriş beyannamesi işleme konulmaz.  
+A) Özel antrepoda devredilen eşyanın devrini müteakip beş iş günü içinde antrepodan çıkarılmaması hâlinde, sürenin aşıldığı tarihten itibaren aşılan her gün için yalnızca devralana usulsüzlük cezası uygulanır.  
+B) Antrepoda devri yapılan her bir eşya için, beş iş günü içerisinde devralan tarafından eşyanın gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutulması ya da yeni bir antrepo beyannamesi verilmesi gerekir.  
+C) Eşyanın devri ile birlikte gümrük vergileri ile para cezaları da dâhil eşya ile ilgili hukuki sorumluluklar devralana geçer.  
+D) Antrepoda devredilmiş olan eşya için yeni bir antrepo beyannamesi verilmeden söz konusu eşya antrepoda başka bir devre konu olamaz.  
+E) Eşyanın mülkiyeti ile ilgili olarak devri önleyici haciz ya da ihtiyati tedbir kararı gibi hukuki bir engelin varlığı hâlinde bu durum açıklığa kavuşturulmadan işlem yapılamaz.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük antrepolarında depolanan eşya satış suretiyle başkasına devredilebilir. Özel antrepoda bulunan eşyanın devrine ilişkin talepler, eşyanın devrini müteakip beş iş günü içinde gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutulmak suretiyle antrepodan çıkarılması şartıyla kabul edilir; eşya bu süre içinde çıkarılmazsa sürenin aşıldığı tarihten itibaren antrepo işleticisine ve devralana ayrı ayrı olmak üzere, aşılan her gün için Kanunun usulsüzlük cezasına ilişkin hükmü uyarınca işlem yapılır. Vakada eşya C tipi, yani özel antrepodadır ve yedinci iş gününde çıkarıldığı için beş iş günlük süre aşılmıştır. En güçlü çeldirici yaptırımı yalnızca devralana yönelten seçenektir: bu, antrepoda devralanın beş iş günü içinde yeni bir işlem yapmaması hâline ilişkin genel kuraldır; özel antrepoda işletici de ayrıca sorumlu tutulur. Devirle birlikte gümrük vergileri ve para cezaları dâhil hukuki sorumluluklar devralana geçer; kalış süresinin sınırsız olması devir için öngörülen süreyi ortadan kaldırmaz. Bu nedenle doğru cevap A seçeneğidir. (MD GY 333; GK 241)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre gümrük antrepolarında depolanan eşya satış suretiyle başkasına devredilebilir. Eşyanın mülkiyeti ile ilgili olarak devri önleyici haciz ya da ihtiyati tedbir kararı gibi hukuki bir engel varsa bu durum açıklığa kavuşturulmadan işlem yapılamaz. Antrepoda devri yapılan her bir eşya için beş iş günü içerisinde devralan tarafından eşyanın gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutulması ya da yeni bir antrepo beyannamesi verilmesi gerekir; devirle birlikte gümrük vergileri ile para cezaları da dâhil hukuki sorumluluklar devralana geçer ve devredilmiş eşya yeni bir antrepo beyannamesi verilmeden antrepoda başka bir devre konu olamaz. Bu genel kuralda süre aşılırsa yalnızca devralana işlem yapılır. Özel antrepoda ise devir talepleri, eşyanın devrini müteakip beş iş günü içinde gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutulmak suretiyle antrepodan çıkarılması şartıyla kabul edilir; eşya bu sürede çıkarılmazsa sürenin aşıldığı tarihten itibaren antrepo işleticisine ve devralana ayrı ayrı olmak üzere aşılan her gün için Kanunun usulsüzlük cezasına ilişkin hükmü uygulanır. Yanlış seçenek, özel antrepodaki iki muhataplı yaptırımı genel kuraldaki tek muhataplı yaptırıma indirgemiştir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 333; GK 241)
 
 *4458 sayılı Gümrük Kanunu md. 104; Gümrük Yönetmeliği md. 329, 345*
 
@@ -381,24 +367,18 @@ E) 88.000
 **Doğru Cevap:** B  
 **Gerekçe:** Gümrük Kanunu'na göre gümrük antrepo rejimine tabi tutulmuş ithal eşyasının gümrüğe sunulmaksızın ve beyannamesi verilmeden önce, yani kayıt yoluyla serbest dolaşıma girmek üzere teslim edildiği hâllerde gümrük vergileri, eşyanın antrepo rejimine tabi tutulduğu tarihte yürürlükte bulunan vergi oranları ve diğer vergilendirme unsurlarına dayanarak hesaplanır; bunun şartı vergilendirme unsurlarının o tarihte tespit edilmiş olmasıdır. Gümrük Yönetmeliği'ne göre bu hükmün uygulandığı özel antrepo D tipi antrepodur. Yükümlü tescil tarihindeki unsurlara göre işlem yapılmasını talep etmediğinden 3 Şubat tarihindeki %10 oran uygulanır. Ayrıca antrepo masrafları ile antrepoda muhafaza için yapılan masraflar fiilen ödenen fiyattan ayrı gösterildiği için gümrük kıymetine dahil edilmez; kıymet 400.000 TL'dir. Vergi: 400.000 × %10 = 40.000 TL. En güçlü çeldirici 80.000'dir: teslim tarihindeki %20 oranı uygulayan aday bu şıkka gider; 44.000 ayrı gösterilen masrafları kıymete ekleyen, 36.000 ise bu masrafları fiyattan düşen hatalı hesaptır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 104; GY 329, 345)
 
-*Gümrük Yönetmeliği md. 335*
+*Gümrük Yönetmeliği md. 334, 335*
 
-**14-** Gümrük Yönetmeliği'nin gümrük antrepolarında elleçleme işlemleri için yapılacak başvuruya ve bu işlemlerin uygulanmasına ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**14-** Gümrük Yönetmeliği'ne göre gümrük antreposundaki eşyanın elleçlemesinin antrepo dışında yapılmasının talep edilmesi hâlinde, elleçleme izni başvurusunun yapılacağı ve başvuruyu sonuçlandıracak idare aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-I. Elleçleme izni için başvuru yazılı olarak yapılır ve her işlem için ayrı ayrı yapılması gerekir.  
-II. Elleçlemenin antrepo dışında yapılması talep edildiğinde başvuru doğrudan Bölge Müdürlüğüne yapılır ve Bölge Müdürlüğünce sonuçlandırılır.  
-III. Elleçleme için antrepodan geçici olarak çıkarılan eşya gümrükçe onaylanmış bir işleme tabi tutulacaksa, eşyanın antrepoya geri getirilmesi zorunlu değildir; eşya bulunduğu yerde muayeneye sunulabilir.  
-IV. Antrepolarda veya geçici çıkış yoluyla yapılan elleçleme işlemlerinden, antrepo rejimine tabi olmayan eşya da yararlanabilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) III ve IV  
-C) I ve III  
-D) I, II ve III  
-E) I, III ve IV  
+A) Başvuru denetleyici gümrük müdürlüğüne yapılır ve denetleyici gümrük müdürlüğünce sonuçlandırılır.  
+B) Başvuru doğrudan Bölge Müdürlüğüne yapılır ve Bölge Müdürlüğünce sonuçlandırılır.  
+C) Başvuru denetleyici gümrük müdürlüğüne yapılır; gümrük müdürlüğünün görüşü ile birlikte Bölge Müdürlüğüne iletilir ve Bölge Müdürlüğünce sonuçlandırılır.  
+D) Başvuru Bölge Müdürlüğüne yapılır; Bölge Müdürlüğünün görüşü ile birlikte denetleyici gümrük müdürlüğüne iletilir ve gümrük müdürlüğünce sonuçlandırılır.  
+E) Başvuru denetleyici gümrük müdürlüğüne yapılır; gümrük müdürlüğünün görüşü ile birlikte Bakanlığa iletilir ve Bakanlıkça sonuçlandırılır.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre elleçleme izin başvuruları denetleyici gümrük müdürlüğüne yazılı olarak ve her işlem için münferiden, yani ayrı ayrı yapılır (I doğru). Elleçlemenin antrepo içinde yapılması talep edilirse başvuru denetleyici gümrük müdürlüğünce sonuçlandırılır; antrepo dışında yapılması talep edilirse başvuru yine denetleyici gümrük müdürlüğüne yapılır, gümrük müdürlüğünün görüşüyle Bölge Müdürlüğüne iletilir ve Bölge Müdürlüğünce sonuçlandırılır. Başvurunun doğrudan Bölge Müdürlüğüne yapılacağını söyleyen II yanlıştır. Elleçleme için geçici çıkan eşyanın gümrükçe onaylanmış işleme tabi tutulması hâlinde eşyanın antrepoya getirilmesi zorunlu olmayıp bulunduğu yerde muayeneye arz edilmesi mümkündür (III doğru). Antrepolarda veya geçici çıkış yapılmak suretiyle gerçekleştirilecek elleçleme işlemlerinden sadece antrepo rejimine tabi eşya faydalanabilir; IV yanlıştır. En güçlü tuzak II'dir: başvurunun yapıldığı makam ile başvuruyu sonuçlandıran makam ayrıdır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 335)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre elleçleme izin başvuruları denetleyici gümrük müdürlüğüne yazılı olarak ve her işlem için münferiden yapılır. Başvuruyu sonuçlandıran idare elleçlemenin yapılacağı yere göre değişir: elleçlemenin antrepo içinde yapılması talep edilirse başvuru denetleyici gümrük müdürlüğünce sonuçlandırılır; antrepo dışında yapılması talep edilirse başvuru yine denetleyici gümrük müdürlüğüne yapılır, gümrük müdürlüğünün görüşü ile birlikte Bölge Müdürlüğüne iletilir ve Bölge Müdürlüğünce sonuçlandırılır. Başvurunun doğrudan Bölge Müdürlüğüne yapılacağını söyleyen seçenek başvuru yeri ile sonuçlandıran idareyi karıştırır; görüş ve sonuçlandırma sırasını ters çeviren seçenek de aynı hatayı taşır. Bakanlık ise savunma sanayi ve havacılık sektöründe kullanılan eşyanın elleçleme faaliyetlerine izin veren ve elleçleme başvurularına ilişkin usul ve esasları belirleyen makamdır. En güçlü çeldirici antrepo içi elleçlemeye ait kuraldır: başvuru yeri aynıdır, ancak sonuçlandıran idare farklıdır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 334-335)
 
 *Gümrük Yönetmeliği md. 334*
 
@@ -494,11 +474,11 @@ E) II, III ve IV
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 3 (I ve III, II, III ve IV, II ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 12, TERSİNE 6, İSTİSNA 4, MAKAM 4, LİSTE-DIŞI 3, TERİM 2 |
+| Birebir / parafraz / çıkarım | 17 / 2 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (II, III ve IV, II ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 13, TERSİNE 4, MAKAM 4, TERİM 3, UNSUR 3, LİSTE-DIŞI 3 |
 | İkiz eksen / ayna | 17 / Eksen 17: A tipinde işletici sorumlu (S2) ↔ B tipinde kullanıcı sorumlu (S3) |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 8 |

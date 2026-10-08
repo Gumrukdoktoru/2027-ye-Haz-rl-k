@@ -32,19 +32,13 @@ C) 4
 D) 7  
 E) 8  
 
-**4-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'in TIR rejimine kabul ve TIR rejiminden çıkarılmaya ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**4-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre TIR rejimine kabul ve TIR rejiminden çıkarılmaya ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. TIR karnesi himayesinde uluslararası eşya taşımacılığı yapacak firma, faaliyetine uygun olan uluslararası taşıma yapma yetki belgesini Ulaştırma ve Altyapı Bakanlığından alır.  
-II. Kefil kuruluşça yapılan inceleme sonucunda TIR taşımacılığı yapması uygun bulunan firmalar kefil kuruluş tarafından tezkiye edilir.  
-III. Firmalar adres, unvan ve ortak değişikliklerini Ticaret Sicil Gazetesinde yayımlanmasını müteakip en geç yedi gün içinde kefil kuruluşa bildirir.  
-IV. İki yıl içerisinde herhangi bir TIR taşıması yapmadığı tespit edilen firmaların tezkiyeleri Genel Müdürlükçe resen iptal edilir; Genel Müdürlük bu süreyi üç yıla çıkarmaya yetkilidir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, III ve IV  
-E) II, III ve IV  
+A) TIR karnesi himayesinde uluslararası eşya taşımacılığı yapacak firma, faaliyetine uygun olan uluslararası taşıma yapma yetki belgesini Ulaştırma ve Altyapı Bakanlığından alır.  
+B) Firma, bağlı bulunduğu ticaret odası aracılığıyla yetki belgesi ve gerekli bilgi ve belgelerle kefil kuruluşa başvurur.  
+C) Firmalar adres, unvan ve ortak değişikliklerini Ticaret Sicil Gazetesinde yayımlanmasını müteakip en geç yedi gün içinde kefil kuruluşa bildirir.  
+D) Kefil kuruluşça yapılan inceleme sonucunda TIR taşımacılığı yapması uygun bulunan firmalar, kefil kuruluş tarafından tezkiye edilir.  
+E) İki yıl içerisinde herhangi bir TIR taşıması yapmadığı tespit edilen firmaların tezkiyeleri Genel Müdürlükçe resen iptal edilir; Genel Müdürlük bu süreyi üç yıla çıkarmaya yetkilidir.  
 
 **5-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre aşağıdaki taşıtlardan hangisi için taşıt onay belgesi aranmaz?
 
@@ -84,18 +78,13 @@ C) Kanunda belirtilen usulsüzlük cezası miktarının sekiz katı ceza uygulan
 D) Kanunda belirtilen usulsüzlük cezası miktarının iki katı ceza uygulanır; ayrıca taşıta memur refakati verilir.  
 E) Usulsüzlük cezası uygulanmaz; taşıt fiziki kontrole tabi tutularak varış veya çıkış gümrük idaresine sevk edilir.  
 
-**9-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) kapsamında Şubat ayında giriş gümrük idaresinde işlemleri tamamlanarak çıkış gümrük idaresine sevk edilecek bir taşıta ilişkin bilgiler şöyledir:
+**9-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre giriş veya hareket gümrük idaresince belirlenen güzergâh katetme süresine ilişkin aşağıdakilerden hangisi doğrudur?
 
-- Taşıt, bölünemez nitelikte ağır bir yük taşımaktadır.  
-- Ulaştırma ve Altyapı Bakanlığınca verilen özel yük taşıma izin belgesinde bu taşıma için 200 saatlik süre öngörülmüştür.  
-- Taşıyıcı ve eşya hakkında ihbar, istihbarat veya risk verisi bulunmamaktadır; taşıta ATS cihazı takılmamıştır.  
-Buna göre giriş gümrük idaresince belirlenecek güzergâh katetme süresine ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Ekim–Mart dönemi için öngörülen azami 168 saatlik süre esas alınır.  
-B) Nisan–Eylül dönemi için öngörülen azami 120 saatlik süre esas alınır.  
-C) Mümkün olan en kısa süre verilir.  
-D) Bakanlık belgesinde yalnızca belirlenen güzergâh esas alınır; süre azami 168 saat olarak belirlenir.  
-E) Ulaştırma ve Altyapı Bakanlığınca verilen 200 saatlik süre esas alınır.  
+A) Ekim, Kasım, Aralık, Ocak, Şubat ve Mart aylarında güzergâh katetme süresi en uzun mesafe için azami 120 saate kadar belirlenir.  
+B) ATS cihazı takılan taşıtlara güzergâh katetme süresi olarak mevsime göre öngörülen azami süre verilir.  
+C) Transit süresinin güvenlik, arıza, kaza veya yol kapanması nedeniyle geçirildiği en yakın Emniyet, Jandarma, Gümrük veya Sağlık birimlerinden alınan belgelerle belgelendirilse dahi Gümrük Kanunu'nda öngörülen para cezası uygulanır.  
+D) Güzergâh katetme süresi, mevsim ve yol şartlarına bakılmaksızın bütün taşımalar için azami 168 saat olarak belirlenir.  
+E) Ulaştırma ve Altyapı Bakanlığınca verilen özel izin belgesi veya özel yük taşıma izin belgesindeki süre, mevsim ve yol şartlarına göre öngörülen azami süreleri aşıyorsa bu Bakanlıkça verilen süre esas alınır.  
 
 **10-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre TIR karnesi himayesinde eşya taşıyan yabancı plakalı bir taşıtın Türkiye'ye girişinde, giriş gümrük idaresince aşağıdaki belgelerden hangisi talep edilmez?
 
@@ -172,18 +161,13 @@ C) Kefil kuruluşa bildirim yapıldığı tarih – T.C. Merkez Bankası döviz 
 D) Eksikliğe ilişkin tutanağın imzalandığı tarih – T.C. Merkez Bankası döviz satış kuru  
 E) Güzergâh katetme süresinin bittiği tarih – T.C. Merkez Bankası döviz alış kuru  
 
-**18-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) kapsamında giriş gümrük idaresinde işlem gören bir TIR taşımasına ilişkin bilgiler şöyledir:
+**18-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre TIR karnesi himayesindeki taşımalarda memur refakatine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- Taşınan eşyanın gümrük vergileri toplamı, TIR Sözleşmesine göre tespit edilen azami teminat tutarını aşmaktadır.  
-- Taşıyıcı hakkında gümrük idaresinde risk verileri mevcuttur.  
-- Gümrük idaresinde kullanılabilecek ATS cihazı bulunmaktadır.  
-Buna göre bu taşımaya ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Müdür yardımcısının başkanlığında en az üç kişiden oluşan komisyonun gerekçeli kararıyla memur refakati verilebilir.  
-B) Vergiler azami teminat tutarını aştığından memur refakati verilmesi zorunludur.  
-C) Hem araç takip sisteminden yararlanılır hem de memur refakati verilerek refakat ibaresi TIR karnesinin dipkoçanına yazılır.  
-D) Gümrük müdürü veya yetkilendireceği müdür yardımcısı başkanlığında oluşturulan üç kişilik komisyonun kararıyla memur refakati verilir.  
-E) Araç takip sisteminden yararlanılır ve hiçbir şekilde memur refakati verilemez.  
+A) Taşınan eşyanın gümrük vergileri toplamının TIR Sözleşmesine göre tespit edilen azami teminat tutarını aşmaması durumunda hiçbir şekilde memur refakati verilmez.  
+B) Gümrük vergileri toplamı azami teminat tutarını aşan ve hakkında kaçakçılık ihbarı veya risk verisi bulunan taşımada öncelikle Araç Takip Sisteminden yararlanılması yoluna gidilir.  
+C) Memur refakati öngörülmesi hâlinde taşıyıcıya yazılı bir belge verilmemişse, TIR karnesinin ilgili dipkoçanına "refakat" ibaresi ve gerekçesi yazılır.  
+D) Memur refakati verilen taşımalar listeye işlenerek aylık olarak Genel Müdürlüğe bildirilir.  
+E) Gümrük vergileri toplamı azami teminat tutarını aşan ve hakkında risk verisi bulunan taşımada, ATS cihazı bulunsa dahi komisyonun gerekçeli kararıyla memur refakati verilebilir.  
 
 **19-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre TIR karnesine eklenmesi gereken asıl faturanın ibraz edilemediği durumlarda faks fatura veya proforma fatura ile işlem yapılmasına izin verilebilmesi için, asıl faturanın kaç gün içerisinde ibraz edileceğine dair taahhütname alınır?
 
@@ -252,22 +236,16 @@ E) 8
 
 *Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) md. 10, 11*
 
-**4-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'in TIR rejimine kabul ve TIR rejiminden çıkarılmaya ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**4-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre TIR rejimine kabul ve TIR rejiminden çıkarılmaya ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. TIR karnesi himayesinde uluslararası eşya taşımacılığı yapacak firma, faaliyetine uygun olan uluslararası taşıma yapma yetki belgesini Ulaştırma ve Altyapı Bakanlığından alır.  
-II. Kefil kuruluşça yapılan inceleme sonucunda TIR taşımacılığı yapması uygun bulunan firmalar kefil kuruluş tarafından tezkiye edilir.  
-III. Firmalar adres, unvan ve ortak değişikliklerini Ticaret Sicil Gazetesinde yayımlanmasını müteakip en geç yedi gün içinde kefil kuruluşa bildirir.  
-IV. İki yıl içerisinde herhangi bir TIR taşıması yapmadığı tespit edilen firmaların tezkiyeleri Genel Müdürlükçe resen iptal edilir; Genel Müdürlük bu süreyi üç yıla çıkarmaya yetkilidir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, III ve IV  
-E) II, III ve IV  
+A) TIR karnesi himayesinde uluslararası eşya taşımacılığı yapacak firma, faaliyetine uygun olan uluslararası taşıma yapma yetki belgesini Ulaştırma ve Altyapı Bakanlığından alır.  
+B) Firma, bağlı bulunduğu ticaret odası aracılığıyla yetki belgesi ve gerekli bilgi ve belgelerle kefil kuruluşa başvurur.  
+C) Firmalar adres, unvan ve ortak değişikliklerini Ticaret Sicil Gazetesinde yayımlanmasını müteakip en geç yedi gün içinde kefil kuruluşa bildirir.  
+D) Kefil kuruluşça yapılan inceleme sonucunda TIR taşımacılığı yapması uygun bulunan firmalar, kefil kuruluş tarafından tezkiye edilir.  
+E) İki yıl içerisinde herhangi bir TIR taşıması yapmadığı tespit edilen firmaların tezkiyeleri Genel Müdürlükçe resen iptal edilir; Genel Müdürlük bu süreyi üç yıla çıkarmaya yetkilidir.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Tebliğe göre TIR karnesi himayesinde uluslararası eşya taşımacılığı yapacak firma, faaliyetine uygun uluslararası taşıma yapma yetki belgesini Ulaştırma ve Altyapı Bakanlığından alır (I doğru). Firma bağlı bulunduğu ticaret odası aracılığıyla kefil kuruluşa başvurur; kefil kuruluş başvuruyu inceleyip uygun bulduğu firmaların bilgi ve belgelerini Genel Müdürlüğe gönderir; tezkiye ise Genel Müdürlükçe yapılacak inceleme sonucunda yapılır. Kefil kuruluşun tezkiye yetkisi yoktur (II yanlış). Firmalar adres, unvan ve ortak değişikliklerini Ticaret Sicil Gazetesinde yayımlanmasını müteakip en geç yedi gün içinde kefil kuruluşa bildirir (III doğru). İki yıl içinde hiç TIR taşıması yapmayan firmanın tezkiyesi Genel Müdürlükçe resen iptal edilir ve Genel Müdürlük bu süreyi üç yıla çıkarabilir (IV doğru). En güçlü çeldirici II. ifadeyi içeren seçeneklerdir: kefil kuruluş başvuruyu inceleyen ve Genel Müdürlüğe gönderen kuruluştur, tezkiye eden makam değildir. Bu nedenle doğru cevap D seçeneğidir. (MD 3, 10, 11)
+**Gerekçe:** Tebliğe göre firmanın başvurusu kefil kuruluş tarafından incelenir ve TIR taşımacılığı yapması uygun bulunan firmalara ilişkin bilgi ve belgeler Genel Müdürlüğe gönderilir; tezkiye ise Genel Müdürlükçe yapılacak inceleme sonucunda yapılır. Kefil kuruluşun tezkiye yetkisi yoktur; yanlış ifade, başvuruyu inceleyen kuruluş ile tezkiye eden makamı birleştirmiştir. Diğer ifadeler doğrudur: TIR karnesi himayesinde uluslararası eşya taşımacılığı yapacak firma, faaliyetine uygun uluslararası taşıma yapma yetki belgesini Ulaştırma ve Altyapı Bakanlığından alır; firma bağlı bulunduğu ticaret odası aracılığıyla yetki belgesi ve gerekli bilgi ve belgelerle kefil kuruluşa başvurur; adres, unvan ve ortak değişiklikleri Ticaret Sicil Gazetesinde yayımlanmasını müteakip en geç yedi gün içinde kefil kuruluşa bildirilir; iki yıl içinde hiç TIR taşıması yapmayan firmanın tezkiyesi Genel Müdürlükçe resen iptal edilir ve Genel Müdürlük bu süreyi üç yıla çıkarabilir. En güçlü tuzak, değişikliklerin kefil kuruluşa bildirilmesidir: kefil kuruluş başvuru ve bildirimlerin muhatabı olduğu için tezkiye makamı da sanılır. Bu nedenle doğru cevap D seçeneğidir. (MD 10, 11)
 
 *Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) md. 14, 18*
 
@@ -327,23 +305,18 @@ E) Usulsüzlük cezası uygulanmaz; taşıt fiziki kontrole tabi tutularak varı
 **Doğru Cevap:** C  
 **Gerekçe:** Tebliğe göre güzergâh ihlali yaptığı tespit edilen taşıtlar için Gümrük Kanunu'nun usulsüzlük cezalarına ilişkin hükmündeki sekiz kat basamağı uyarınca para cezası uygulanır; Kanun, taşıt araçlarının önceden belirlenmiş yollar dışında seyretmesini usulsüzlük cezası miktarının sekiz katı ile cezalandırır. Ayrıca bu taşıtlar, herhangi bir koşul aranmaksızın fiziki kontrole tabi tutulur. En güçlü çeldirici ilk çeldiricidir: 'diğer risk unsurları da dikkate alınarak gerekli görülmesi hâlinde' fiziki kontrol, güzergâh ihlaline değil, transit süresi geçtikten sonra varış veya çıkış idaresine gelen taşıta ilişkin hükümdür. Dört ve iki kat basamakları başka fiillere aittir; memur refakati ise azami teminat tutarını aşan riskli taşımalarda ATS cihazı bulunmadığında başvurulan bir önlemdir. Usulsüzlük cezası uygulanmaması, mücbir sebep, olağanüstü hâl veya haklı bir sebeple farklı idareye gelinmesi hâline aittir; bu durum zaten güzergâh ihlali sayılmaz. Bu nedenle doğru cevap C seçeneğidir. (MD 4, 8, 62; GK 241)
 
-*Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) md. 4, 8*
+*Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) md. 8*
 
-**9-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) kapsamında Şubat ayında giriş gümrük idaresinde işlemleri tamamlanarak çıkış gümrük idaresine sevk edilecek bir taşıta ilişkin bilgiler şöyledir:
+**9-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre giriş veya hareket gümrük idaresince belirlenen güzergâh katetme süresine ilişkin aşağıdakilerden hangisi doğrudur?
 
-- Taşıt, bölünemez nitelikte ağır bir yük taşımaktadır.  
-- Ulaştırma ve Altyapı Bakanlığınca verilen özel yük taşıma izin belgesinde bu taşıma için 200 saatlik süre öngörülmüştür.  
-- Taşıyıcı ve eşya hakkında ihbar, istihbarat veya risk verisi bulunmamaktadır; taşıta ATS cihazı takılmamıştır.  
-Buna göre giriş gümrük idaresince belirlenecek güzergâh katetme süresine ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Ekim–Mart dönemi için öngörülen azami 168 saatlik süre esas alınır.  
-B) Nisan–Eylül dönemi için öngörülen azami 120 saatlik süre esas alınır.  
-C) Mümkün olan en kısa süre verilir.  
-D) Bakanlık belgesinde yalnızca belirlenen güzergâh esas alınır; süre azami 168 saat olarak belirlenir.  
-E) Ulaştırma ve Altyapı Bakanlığınca verilen 200 saatlik süre esas alınır.  
+A) Ekim, Kasım, Aralık, Ocak, Şubat ve Mart aylarında güzergâh katetme süresi en uzun mesafe için azami 120 saate kadar belirlenir.  
+B) ATS cihazı takılan taşıtlara güzergâh katetme süresi olarak mevsime göre öngörülen azami süre verilir.  
+C) Transit süresinin güvenlik, arıza, kaza veya yol kapanması nedeniyle geçirildiği en yakın Emniyet, Jandarma, Gümrük veya Sağlık birimlerinden alınan belgelerle belgelendirilse dahi Gümrük Kanunu'nda öngörülen para cezası uygulanır.  
+D) Güzergâh katetme süresi, mevsim ve yol şartlarına bakılmaksızın bütün taşımalar için azami 168 saat olarak belirlenir.  
+E) Ulaştırma ve Altyapı Bakanlığınca verilen özel izin belgesi veya özel yük taşıma izin belgesindeki süre, mevsim ve yol şartlarına göre öngörülen azami süreleri aşıyorsa bu Bakanlıkça verilen süre esas alınır.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğe göre güzergâh katetme süresi, mevsim ve yol şartlarına göre en uzun mesafe için Nisan–Eylül aylarında azami 120, Ekim–Mart aylarında azami 168 saate kadar belirlenir. Şubat ayında genel kural 168 saattir. Ancak Ulaştırma ve Altyapı Bakanlığı tarafından verilen özel izin belgesi veya özel yük taşıma izin belgesindeki süre bu süreleri aşıyorsa o Bakanlıkça verilen süre esas alınır. Olaydaki 200 saat, 168 saati aştığından esas alınacak süredir. Olayda ihbar, risk verisi veya ATS cihazı bulunmadığından 'mümkün olan en kısa süre' kuralı uygulanmaz. En güçlü çeldirici 168 saattir: mevsim kuralını bilen ancak Bakanlık belgesindeki istisnayı gözden kaçıran aday bu şıkka gider. Bakanlık belgesindeki güzergâhın esas alınması da ayrı bir kuraldır, süreye ilişkin istisnayı ortadan kaldırmaz. Bu nedenle doğru cevap E seçeneğidir. (MD 4, 8)
+**Gerekçe:** Tebliğe göre giriş veya hareket gümrük idaresince güzergâh katetme süresi, mevsim ve yol şartlarına göre en uzun mesafe için Nisan–Eylül aylarında azami 120, Ekim–Mart aylarında azami 168 saate kadar belirlenir. Ulaştırma ve Altyapı Bakanlığı tarafından verilen özel izin belgesi veya özel yük taşıma izin belgesindeki süre bu süreleri aşıyorsa Bakanlıkça verilen süre esas alınır; doğru ifade budur. Ekim–Mart dönemi için 120 saat yazan ifadede iki dönemin süreleri yer değiştirmiştir. Kaçakçılık ihbarı, istihbarat, kuvvetli şüphe, risk verisi bulunması veya ATS cihazının takılması durumunda mevsime göre azami süre değil, mümkün olan en kısa süre verilir. Transit süresinin kaza, arıza, yol kapanması gibi nedenlerle geçirildiği ilgili mercilerden alınan belgelerle belgelendirilirse Gümrük Kanunu'nda öngörülen para cezası uygulanmaz. Süre mevsime ve yol şartlarına göre belirlendiğinden tek bir 168 saatlik süre de yoktur. En güçlü tuzak mevsim sürelerinin yer değiştirmesidir. Bu nedenle doğru cevap E seçeneğidir. (MD 8)
 
 *Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) md. 24, 25, 67*
 
@@ -369,7 +342,7 @@ D) Eşyaya ilişkin ön beyanı taşıtın giriş gümrük idaresine varışınd
 E) Mühürleri bulunmayanlar veya koparılmış ya da bozulmuş hâlde olanlar  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Tebliğe göre giriş idaresinde görevlendirilecek muayene memuru tarafından açılarak, masrafları taşımacıya ait olmak üzere muayene edilecek taşıt, römork, yarı römork ve konteynerler tek tek sayılmıştır: hakkında ihbar ya da kuvvetli şüphe bulunanlar; mühürleri bulunmayanlar veya koparılmış ya da bozulmuş olanlar; brandasında sökük, yırtık veya şekle aykırı yama bulunanlar ile TIR halatlarında kopukluk bulunanlar; römork, yarı römork veya konteynerinde kırık, delik bulunanlar; tartıdaki ağırlığı karnedeki ağırlıktan farklı olanlar; belgelerinde şüpheli durum bulunanlar ile gizli bölme şüphesi oluşturanlar ve sistem tarafından muayeneye tabi tutulanlar. Ön beyanın taşıtın varışından sonra verilmesi bu listede yoktur; bu durumda taşıyıcı firma ve taşınan eşya risk kriterleri çerçevesinde ayrıca değerlendirmeye tabi tutulur; ancak bu hâl, açılarak muayene edilecekler listesinde sayılmamıştır. En güçlü çeldirici tartı farkıdır: ağırlık farkı sağduyuyla önemsiz görülebilir, ancak listede açıkça sayılmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD 24, 27)
+**Gerekçe:** Tebliğe göre giriş idaresinde görevlendirilecek muayene memuru tarafından açılarak, masrafları taşımacıya ait olmak üzere muayene edilecek taşıt, römork, yarı römork ve konteynerler tek tek sayılmıştır: hakkında ihbar ya da kuvvetli şüphe bulunanlar; mühürleri bulunmayanlar veya koparılmış ya da bozulmuş olanlar; brandasında sökük, yırtık veya şekle aykırı yama bulunanlar ile TIR halatlarında kopukluk bulunanlar; römork, yarı römork veya konteynerinde kırık, delik bulunanlar; tartıdaki ağırlığı karnedeki ağırlıktan farklı olanlar; belgelerinde şüpheli durum bulunanlar ile gizli bölme şüphesi oluşturanlar ve sistem tarafından muayeneye tabi tutulanlar. Ön beyanın taşıtın varışından sonra verilmesi bu listede yoktur; bu durumda Tebliğ, açılarak muayeneyi değil, taşıyıcı firma ve taşınan eşyanın risk kriterleri çerçevesinde ayrıca değerlendirilmesini öngörür. En güçlü çeldirici tartı farkıdır: ağırlık farkı sağduyuyla önemsiz görülebilir, ancak listede açıkça sayılmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD 24, 27)
 
 *Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) md. 19, 29*
 
@@ -462,21 +435,16 @@ E) Güzergâh katetme süresinin bittiği tarih – T.C. Merkez Bankası döviz 
 
 *Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) md. 55*
 
-**18-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) kapsamında giriş gümrük idaresinde işlem gören bir TIR taşımasına ilişkin bilgiler şöyledir:
+**18-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre TIR karnesi himayesindeki taşımalarda memur refakatine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-- Taşınan eşyanın gümrük vergileri toplamı, TIR Sözleşmesine göre tespit edilen azami teminat tutarını aşmaktadır.  
-- Taşıyıcı hakkında gümrük idaresinde risk verileri mevcuttur.  
-- Gümrük idaresinde kullanılabilecek ATS cihazı bulunmaktadır.  
-Buna göre bu taşımaya ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Müdür yardımcısının başkanlığında en az üç kişiden oluşan komisyonun gerekçeli kararıyla memur refakati verilebilir.  
-B) Vergiler azami teminat tutarını aştığından memur refakati verilmesi zorunludur.  
-C) Hem araç takip sisteminden yararlanılır hem de memur refakati verilerek refakat ibaresi TIR karnesinin dipkoçanına yazılır.  
-D) Gümrük müdürü veya yetkilendireceği müdür yardımcısı başkanlığında oluşturulan üç kişilik komisyonun kararıyla memur refakati verilir.  
-E) Araç takip sisteminden yararlanılır ve hiçbir şekilde memur refakati verilemez.  
+A) Taşınan eşyanın gümrük vergileri toplamının TIR Sözleşmesine göre tespit edilen azami teminat tutarını aşmaması durumunda hiçbir şekilde memur refakati verilmez.  
+B) Gümrük vergileri toplamı azami teminat tutarını aşan ve hakkında kaçakçılık ihbarı veya risk verisi bulunan taşımada öncelikle Araç Takip Sisteminden yararlanılması yoluna gidilir.  
+C) Memur refakati öngörülmesi hâlinde taşıyıcıya yazılı bir belge verilmemişse, TIR karnesinin ilgili dipkoçanına "refakat" ibaresi ve gerekçesi yazılır.  
+D) Memur refakati verilen taşımalar listeye işlenerek aylık olarak Genel Müdürlüğe bildirilir.  
+E) Gümrük vergileri toplamı azami teminat tutarını aşan ve hakkında risk verisi bulunan taşımada, ATS cihazı bulunsa dahi komisyonun gerekçeli kararıyla memur refakati verilebilir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğe göre taşınan eşyanın gümrük vergileri toplamı TIR Sözleşmesine göre tespit edilen azami teminat tutarını aşmıyorsa hiçbir şekilde memur refakati verilmez. Vergiler bu tutarı aşıyor ve kaçakçılık ihbarı, istihbarat, kuvvetli şüphe ya da risk verisi bulunuyorsa öncelikle Araç Takip Sisteminden yararlanılır; ATS cihazının bulunması hâlinde hiçbir şekilde memur refakati verilemez. Memur refakati ancak ilgili gümrük idaresinde ATS cihazı bulunmuyorsa, müdür yardımcısının başkanlığında en az üç kişiden oluşan komisyonun gerekçeli kararıyla ve kararda ATS cihazının bulunmadığı belirtilerek verilebilir. Olayda ATS cihazı bulunduğundan refakat yolu kapalıdır. En güçlü çeldirici komisyon kararıyla refakat seçeneğidir: bu yol yalnızca ATS cihazı bulunmadığında açılır. Gümrük müdürü veya yetkilendireceği müdür yardımcısı başkanlığındaki üç kişilik komisyon ise taşıt onay belgesini düzenleyen komisyondur. Bu nedenle doğru cevap E seçeneğidir. (MD 15, 55)
+**Gerekçe:** Tebliğe göre taşınan eşyanın gümrük vergileri toplamı TIR Sözleşmesine göre tespit edilen azami teminat tutarını aşmıyorsa hiçbir şekilde memur refakati verilmez. Vergiler bu tutarı aşıyor ve kaçakçılık ihbarı, istihbarat, kuvvetli şüphe ya da risk verisi bulunuyorsa öncelikle Araç Takip Sisteminden yararlanılır; ATS cihazının bulunması hâlinde hiçbir şekilde memur refakati verilemez. Memur refakati ancak ilgili gümrük idaresinde ATS cihazı bulunmuyorsa, müdür yardımcısının başkanlığında en az üç kişiden oluşan komisyonun gerekçeli kararıyla ve kararda ATS cihazının bulunmadığı belirtilerek verilebilir. Yanlış ifade, ATS cihazı bulunmadığında açılan komisyon yolunu ATS cihazının bulunduğu hâle taşımıştır. Diğer ifadeler doğrudur: refakat öngörülür ve taşıyıcıya yazılı belge verilmezse TIR karnesinin dipkoçanına 'refakat' ibaresi ve gerekçesi yazılır; memur refakati verilen taşımalar listeye işlenerek aylık olarak Genel Müdürlüğe bildirilir. En güçlü tuzak, azami teminat tutarının aşılmasının refakati kendiliğinden mümkün kıldığı düşüncesidir. Bu nedenle doğru cevap E seçeneğidir. (MD 55)
 
 *Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) md. 56*
 
@@ -489,7 +457,7 @@ D) 30 gün
 E) 60 gün  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğe göre TIR karnesinin eşya tanımına ilişkin kutusunda eşyanın tam tespitini mümkün kılacak bir tanım yapılmamışsa veya 'fatura muhteviyatı eşya' gibi tanımlar kullanılmışsa karneye fatura eklenmesi zorunludur. Asıl faturanın ibraz edilemediği durumlarda, asıl faturanın on beş gün içinde ibraz edileceğine dair taahhütname alınarak faks fatura veya proforma fatura ile işlem yapılmasına izin verilir. Süresinde ibraz edilmezse Gümrük Kanunu uyarınca usulsüzlük cezası uygulanır ve asıl fatura ibraz edilinceye kadar faks veya proforma fatura ile yeni bir işlem yapılmasına izin verilmez. En güçlü çeldirici on iş günüdür: bu süre, izinli alıcı işlemlerinde memur atanmaması hâlinde Volet-2 yaprağı ve tutanağın gümrük idaresine gönderilmesine aittir. Yedi gün firma değişikliklerinin bildirimi ve ihraç kararının bildirimi, otuz gün taşıt onay belgesine verilen ek süre için öngörülmüştür. Bu nedenle doğru cevap C seçeneğidir. (MD 56)
+**Gerekçe:** Tebliğe göre TIR karnesinin eşya tanımına ilişkin kutusunda eşyanın tam tespitini mümkün kılacak bir tanım yapılmamışsa veya 'fatura muhteviyatı eşya' gibi tanımlar kullanılmışsa karneye fatura eklenmesi zorunludur. Asıl faturanın ibraz edilemediği durumlarda, asıl faturanın on beş gün içinde ibraz edileceğine dair taahhütname alınarak faks fatura veya proforma fatura ile işlem yapılmasına izin verilir. Süresinde ibraz edilmezse Gümrük Kanunu uyarınca usulsüzlük cezası uygulanır ve asıl fatura ibraz edilinceye kadar faks veya proforma fatura ile yeni bir işlem yapılmasına izin verilmez. En güçlü çeldirici '10 gün' seçeneğidir: on iş günlük süre, izinli alıcı işlemlerinde memur atanmaması hâlinde Volet-2 yaprağı ve tutanağın gümrük idaresine gönderilmesine aittir. Yedi gün firma değişikliklerinin bildirimi ve ihraç kararının bildirimi, otuz gün taşıt onay belgesine verilen ek süre için öngörülmüştür. Bu nedenle doğru cevap C seçeneğidir. (MD 56)
 
 *Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1) md. 61*
 
@@ -508,11 +476,11 @@ E) Uluslararası kefil kuruluş, listedeki içki ve sigaraya ilişkin kefaleti h
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I, III ve IV, II ve IV, I ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 14, YAKIN-SAYI 7, İSTİSNA 5, TERİM 4, SAĞDUYU 4, MAKAM 3 |
+| Birebir / parafraz / çıkarım | 16 / 3 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (II ve IV, I ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 13, YAKIN-SAYI 7, İSTİSNA 5, TERİM 4, TERSİNE 4, SAĞDUYU 4 |
 | İkiz eksen / ayna | — / SONA-ERME↔İBRA |
 | Güncellik | 04.07.2026 (33300 sayılı R.G., TIR İşlemleri Seri No: 9); 04.07.2026 (33300 sayılı R.G., TIR İşlemleri Seri No: 9) |
 | Çıkmış bilgi alanı karşılayan | 3 |

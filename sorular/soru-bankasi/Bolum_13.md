@@ -6,19 +6,13 @@ Kaynak: 14-KABOTAJ.txt · 20 soru
 
 ### Sorular
 
-**1-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre Tebliğin amacı, dayanağı, kapsamı ve yürütülmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**1-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'in amacı, dayanağı, kapsamı ve yürütülmesine ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. Tebliğin amacı, kaçakçılığın önlenmesine yönelik olarak Türkiye Gümrük Bölgesindeki limanlar ve iskeleler arasında yapılan taşıma ile yükleme ve boşaltmalarda gümrük gözetimi ve kontrolüne ilişkin usul ve esasları düzenlemektir.  
-II. Tebliğ, 4458 sayılı Gümrük Kanunu ve 5607 sayılı Kaçakçılıkla Mücadele Kanununun yanı sıra 815 sayılı Türkiye Sahillerinde Nakliyatı Bahriye ve Limanlarla Karasuları Dâhilinde İcrayı Sanat ve Ticaret Hakkında Kanuna da dayanılarak hazırlanmıştır.  
-III. Tebliğ hükümleri, yalnızca Türk bayraklı deniz taşıtlarıyla yapılan taşıma ile yükleme ve boşaltmalarda uygulanır.  
-IV. Tebliğ hükümlerini Gümrük ve Ticaret Bakanı yürütür.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, II ve IV  
-E) I, II, III ve IV  
+A) Tebliğin amacı, kaçakçılığın önlenmesine yönelik olarak limanlar ve iskeleler arasında yapılan taşıma ile yükleme ve boşaltmalarda gümrük gözetimi ve kontrolüne ilişkin usul ve esasları düzenlemektir.  
+B) Tebliğ, 4458 sayılı Gümrük Kanunu ve 5607 sayılı Kaçakçılıkla Mücadele Kanununun yanı sıra 815 sayılı Kanuna da dayanılarak hazırlanmıştır.  
+C) Tebliğ yayımı tarihinde yürürlüğe girmiş ve aynı konuyu düzenleyen 2003 tarihli önceki Tebliğ yürürlükten kaldırılmıştır.  
+D) Tebliğ hükümleri yalnızca Türk bayraklı deniz taşıtlarıyla yapılan taşıma ile yükleme ve boşaltmalarda uygulanır.  
+E) Tebliğ hükümlerini Gümrük ve Ticaret Bakanı yürütür.  
 
 **2-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'in uygulanmasında kullanılan "liman başkanlığı" ifadesinin tanımı aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
@@ -120,19 +114,13 @@ C) Beyannamenin teyit nüshası, eşya boşaltılmadan önce varış yerindeki l
 D) Teyit nüshası üzerinden eşyanın varışını belirleyen liman başkanlığı, sonucu mülki idare amirine yazıyla bildirir.  
 E) Beyannamenin teyit nüshası eşyanın boşaltılmasından sonra en yakın gümrük idaresine gönderilir ve varış bu idarece belirlenir.  
 
-**13-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre dâhili sefer yaparken yabancı bir limana uğrayacak bir gemiye ilişkin bilgiler aşağıda verilmiştir:
+**13-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre Türk bayraklı gemilerin Türk limanları arasındaki seferleri esnasında yabancı limanlara da uğraması durumunda, kaptan veya acentelerince yapılacak bildirimin zamanı ve yapılacağı idare aşağıdakilerden hangisinde birlikte doğru olarak verilmiştir?
 
-- Türk bayraklı bir gemi, İzmir Limanında yüklediği kabotaj eşyasını Mersin Limanına taşımaktadır.  
-- Gemi bu dâhili sefer sırasında yabancı bir limana da uğrayacaktır.  
-- Gemi, Türkiye'den en son çıkış yapacağı Antalya Limanından 12 Mayıs günü saat 18.00'de hareket edecektir.  
-- İzmir, Antalya ve Mersin limanlarında gümrük idaresi bulunmaktadır.  
-Buna göre kaptan veya acentenin, geminin yabancı limana uğrayacağına ilişkin bildirimi en geç ne zaman ve nereye yapması gerekir?  
-
-A) 12 Mayıs saat 16.00'ya kadar İzmir Limanındaki gümrük idaresine  
-B) 12 Mayıs saat 16.00'ya kadar Mersin Limanındaki gümrük idaresine  
-C) 12 Mayıs saat 18.00'e kadar Antalya Limanındaki gümrük idaresine  
-D) 12 Mayıs saat 16.00'ya kadar Antalya Liman Başkanlığına  
-E) 12 Mayıs saat 16.00'ya kadar Antalya Limanındaki gümrük idaresine  
+A) Geminin limandan hareketinden en az iki saat önce – ilk hareket gümrük idaresine  
+B) Geminin limandan hareketinden en az iki saat önce – varış gümrük idaresine  
+C) Geminin limandan hareketinden en az iki saat önce – en son çıkış yapılacak limandaki liman başkanlığına  
+D) Geminin uğrayacağı yabancı limana varışından en az iki saat önce – en son çıkış yapılacak gümrük idaresine  
+E) Geminin limandan hareketinden en az iki saat önce – en son çıkış yapılacak gümrük idaresine  
 
 **14-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre Türk limanları arasında sefer yaparken yabancı bir limana uğrayarak gelen gemilerin kaptan veya acentelerinin gümrük idaresine yapacakları bildirimin zamanı aşağıdakilerden hangisidir?
 
@@ -166,26 +154,24 @@ C) Gemi adamlarının ihtiyaç malzemesi ve kumanya
 D) Elde edildikleri yerlerden Türk liman ve iskelelerine boşaltılması amacıyla her tonajdaki balıkçı gemileriyle taşınan, denizden elde edilen su ürünleri  
 E) Gümrük Yönetmeliğinin ilgili hükmü kapsamında yabancı bayraklı gemilerce yapılacak taşımalar  
 
-**18-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre aşağıdaki olaya ilişkin bilgiler verilmiştir:
+**18-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre Tebliğ ekinde yer alan kontrole tabi eşyanın aşağıdaki taşımalarından hangisine Tebliğ hükümleri uygulanmaz?
 
-- Türk bayraklı bir yük gemisi, Tebliğ ekinde yer alan kontrole tabi eşyayı taşımıştır.  
-- Yükleme ve boşaltma, aynı liman başkanlığının idari sınırları içerisinde bulunan iki iskelede yapılmıştır.  
-- Taşıma için kabotaj beyannamesi düzenlenmemiştir.  
-Buna göre bu taşımayla ilgili aşağıdakilerden hangisi doğrudur?  
+A) Yalnızca liman başkanlığının bulunduğu bir iskeleye boşaltılmak üzere yapılan taşımasına  
+B) Tek bir liman başkanlığının idari sınırları içerisinde yapılan taşımasına  
+C) Dâhili sefer yaparken yabancı bir limana da uğrayan Türk bayraklı bir gemiyle yapılan taşımasına  
+D) Uluslararası sefer yapan Türk bayraklı bir gemiye bir Türk limanından yüklenerek yapılan taşımasına  
+E) Geçici ithal yoluyla ülkeye giren bir konteyner içinde yapılan taşımasına  
 
-A) Beyanname düzenlenmediğinden 4458 sayılı Gümrük Kanunu'nun usulsüzlük cezasına ilişkin hükmü uyarınca işlem yapılır.  
-B) Bu taşımaya, kabotaj beyannamesi dâhil Tebliğ hükümleri uygulanmaz.  
-C) Beyannamenin yükleme yerindeki liman başkanlığınca düzenlenerek varış yerindeki liman başkanlığına gönderilmesi gerekirdi.  
-D) Konu, 815 sayılı Kanun uyarınca işlem yapılmak üzere mülki idare amirine intikal ettirilir.  
-E) 5607 sayılı Kaçakçılıkla Mücadele Kanunu uyarınca işlem yapılır.  
+**19-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'in cezalara ilişkin hükümlerinde yer alan aşağıdaki cümlelerde bazı yerler boş bırakılmıştır:
 
-**19-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre aşağıdaki durum ile yapılacak işlem eşleştirmelerinden hangisi yanlıştır?
+"Eşyanın serbest dolaşımda olmayan eşya olduğunun ve yurda kaçak olarak sokulduğunun ya da sokulmaya teşebbüs edildiğinin saptanması halinde ……(1)…… uyarınca işlem yapılır. Serbest dolaşımdaki eşyanın yabancı bayraklı gemilerle taşındığının tespit edilmesi halinde, ilgililer hakkında ……(2)…… uyarınca işlem yapılmak üzere konu ……(3)…… intikal ettirilir."  
+Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?  
 
-A) Beyannamede silinti veya kazıntı yapılması – 4458 sayılı Gümrük Kanunu uyarınca işlem yapılması  
-B) Bildirim yükümlülüklerine uyulmaması – 4458 sayılı Gümrük Kanunu uyarınca işlem yapılması  
-C) Serbest dolaşımda olmayan eşyanın yurda kaçak olarak sokulmaya teşebbüs edildiğinin saptanması – 5607 sayılı Kaçakçılıkla Mücadele Kanunu uyarınca işlem yapılması  
-D) Serbest dolaşımdaki eşyanın yabancı bayraklı gemilerle taşındığının tespit edilmesi – 5607 sayılı Kaçakçılıkla Mücadele Kanunu uyarınca işlem yapılması  
-E) Geminin seyir hâlinde iken kontrol amacıyla yol kesmesi istenildiği hâlde yol kesmemesi – 4458 sayılı Gümrük Kanunu uyarınca işlem yapılması  
+A) 815 sayılı Kanun / 5607 sayılı Kaçakçılıkla Mücadele Kanunu / mülki idare amirine  
+B) 5607 sayılı Kaçakçılıkla Mücadele Kanunu / 4458 sayılı Gümrük Kanunu / en yakın gümrük idaresine  
+C) 4458 sayılı Gümrük Kanunu / 815 sayılı Kanun / liman başkanlığına  
+D) 5607 sayılı Kaçakçılıkla Mücadele Kanunu / 815 sayılı Kanun / mülki idare amirine  
+E) 5607 sayılı Kaçakçılıkla Mücadele Kanunu / 815 sayılı Kanun / liman başkanlığına  
 
 **20-** Gümrük Yönetmeliği'nin kabotaja girecek gemilerin yabancı limanlardan aldıkları yakıtların miktarının tespitine ilişkin hükmüne göre aşağıdaki olayda vergiye esas tutulacak yakıt miktarı belirlenecektir:
 
@@ -210,24 +196,18 @@ E) 400 ton
 
 ### Çözümler
 
-*Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 1, 2, 14, 17*
+*Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 1, 2, 14, 15, 16, 17*
 
-**1-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre Tebliğin amacı, dayanağı, kapsamı ve yürütülmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**1-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'in amacı, dayanağı, kapsamı ve yürütülmesine ilişkin aşağıdakilerden hangisi söylenemez?
 
-I. Tebliğin amacı, kaçakçılığın önlenmesine yönelik olarak Türkiye Gümrük Bölgesindeki limanlar ve iskeleler arasında yapılan taşıma ile yükleme ve boşaltmalarda gümrük gözetimi ve kontrolüne ilişkin usul ve esasları düzenlemektir.  
-II. Tebliğ, 4458 sayılı Gümrük Kanunu ve 5607 sayılı Kaçakçılıkla Mücadele Kanununun yanı sıra 815 sayılı Türkiye Sahillerinde Nakliyatı Bahriye ve Limanlarla Karasuları Dâhilinde İcrayı Sanat ve Ticaret Hakkında Kanuna da dayanılarak hazırlanmıştır.  
-III. Tebliğ hükümleri, yalnızca Türk bayraklı deniz taşıtlarıyla yapılan taşıma ile yükleme ve boşaltmalarda uygulanır.  
-IV. Tebliğ hükümlerini Gümrük ve Ticaret Bakanı yürütür.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, II ve IV  
-E) I, II, III ve IV  
+A) Tebliğin amacı, kaçakçılığın önlenmesine yönelik olarak limanlar ve iskeleler arasında yapılan taşıma ile yükleme ve boşaltmalarda gümrük gözetimi ve kontrolüne ilişkin usul ve esasları düzenlemektir.  
+B) Tebliğ, 4458 sayılı Gümrük Kanunu ve 5607 sayılı Kaçakçılıkla Mücadele Kanununun yanı sıra 815 sayılı Kanuna da dayanılarak hazırlanmıştır.  
+C) Tebliğ yayımı tarihinde yürürlüğe girmiş ve aynı konuyu düzenleyen 2003 tarihli önceki Tebliğ yürürlükten kaldırılmıştır.  
+D) Tebliğ hükümleri yalnızca Türk bayraklı deniz taşıtlarıyla yapılan taşıma ile yükleme ve boşaltmalarda uygulanır.  
+E) Tebliğ hükümlerini Gümrük ve Ticaret Bakanı yürütür.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Tebliğ'e göre Tebliğin amacı, kaçakçılığın önlenmesine yönelik olarak Türkiye Gümrük Bölgesindeki limanlar ve iskeleler arasında tüm deniz taşıtlarıyla yapılan taşıma ile yükleme ve boşaltmalarda gümrük gözetimi ve kontrolüne ilişkin usul ve esasları düzenlemektir (I doğru). Tebliğ; 4458 sayılı Gümrük Kanunu, 5607 sayılı Kaçakçılıkla Mücadele Kanunu ve 815 sayılı Türkiye Sahillerinde Nakliyatı Bahriye ve Limanlarla Karasuları Dâhilinde İcrayı Sanat ve Ticaret Hakkında Kanuna dayanılarak hazırlanmıştır (II doğru). Amaç hükmü 'tüm deniz taşıtları' ifadesini kullanır; Tebliğ yabancı bayraklı gemilerle yapılan taşımaları da düzenler, örneğin serbest dolaşımdaki eşyanın yabancı bayraklı gemilerle taşındığı tespit edilirse konu mülki idare amirine intikal ettirilir. Bu nedenle kapsamı yalnızca Türk bayraklı taşıtlarla sınırlayan III yanlıştır. Tebliğ hükümlerini Gümrük ve Ticaret Bakanı yürütür (IV doğru). En güçlü çeldirici III'tür: Tebliğde yabancı limana uğrayan ve uluslararası sefer yapan gemilere ilişkin özel hükümler Türk bayraklı gemiler için kurulmuştur; bu, Tebliğin bütününün Türk bayraklı taşıtlarla sınırlı olduğu anlamına gelmez. Bu nedenle doğru cevap D seçeneğidir. (MD 1, 2, 14, 17)
+**Gerekçe:** Tebliğ'e göre Tebliğin amacı, kaçakçılığın önlenmesine yönelik olarak Türkiye Gümrük Bölgesindeki limanlar ve iskeleler arasında tüm deniz taşıtlarıyla yapılan taşıma ile yükleme ve boşaltmalarda gümrük gözetimi ve kontrolüne ilişkin usul ve esasları düzenlemektir. Amaç hükmündeki 'tüm deniz taşıtları' ifadesi kapsamı Türk bayraklı taşıtlarla sınırlamaz; nitekim Tebliğ, serbest dolaşımdaki eşyanın yabancı bayraklı gemilerle taşındığının tespit edilmesi hâlinde konunun mülki idare amirine intikal ettirileceğini de düzenler. Bu yüzden kapsamı yalnızca Türk bayraklı taşıtlarla sınırlayan ifade söylenemez; bu kayıt, yabancı limana uğrayan ve uluslararası sefer yapan gemilere ilişkin özel hükümlerdeki 'Türk bayraklı gemiler' ifadesinden taşınmıştır. Diğer ifadeler Tebliğin kendi hükümleridir: Tebliğ 4458 sayılı Gümrük Kanunu, 5607 sayılı Kaçakçılıkla Mücadele Kanunu ve 815 sayılı Türkiye Sahillerinde Nakliyatı Bahriye ve Limanlarla Karasuları Dâhilinde İcrayı Sanat ve Ticaret Hakkında Kanuna dayanılarak hazırlanmıştır; yayımı tarihinde yürürlüğe girmiş ve aynı konudaki 2003 tarihli önceki Tebliği yürürlükten kaldırmıştır; hükümlerini Gümrük ve Ticaret Bakanı yürütür. Bu nedenle doğru cevap D seçeneğidir. (MD 1, 2, 14, 15, 16, 17)
 
 *Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 3, 4*
 
@@ -324,7 +304,7 @@ D) I, II ve III
 E) II, III ve IV  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Tebliğ'e göre gümrük idaresine ibraz edilen beyanname gümrük muhafaza personeli tarafından imzalanarak mühürlenir (II doğru) ve eşya beyannameye göre kap ve içeriği kontrol edilerek gözetim altında yüklenir (III doğru). Gemi ambarları yükleme tamamlandıktan sonra her hâlde değil, gerek görülmesi hâlinde mühürlenir; mühürlerin adedi ve vurulduğu yerler beyannamenin her üç nüshasına işlenir (I yanlış). Yük arasında bulunan ve Tebliğ ekinde yer alan eşyadan beyan edilmemiş olanlar ile beyana göre fazla çıkan miktar için ek bir beyanda bulunulmadıkça ya da yeni bir beyanname düzenlenmedikçe yüklemeye izin verilmez; ek beyan yüklemeden sonra değil, yüklemeye izin verilmesinden önce verilir (IV yanlış). En güçlü çeldirici I'dir: dâhili seferde yabancı limana uğrayan ve uluslararası seferde kabotaj eşyası alan gemilerde ambarlar mühür altına alınır; gümrük idaresi bulunan limandan olağan yüklemede ise mühür gerek görülmesine bağlıdır. Bu nedenle doğru cevap A seçeneğidir. (MD 5, 10, 11)
+**Gerekçe:** Tebliğ'e göre gümrük idaresine ibraz edilen beyanname gümrük muhafaza personeli tarafından imzalanarak mühürlenir (II doğru) ve eşya beyannameye göre kap ve içeriği kontrol edilerek gözetim altında yüklenir (III doğru). Gemi ambarları yükleme tamamlandıktan sonra her hâlde değil, gerek görülmesi hâlinde mühürlenir; mühürlerin adedi ve vurulduğu yerler beyannamenin her üç nüshasına işlenir (I yanlış). Yük arasında bulunan ve Tebliğ ekinde yer alan eşyadan beyan edilmemiş olanlar ile beyana göre fazla çıkan miktar için ek bir beyanda bulunulmadıkça ya da yeni bir beyanname düzenlenmedikçe yüklemeye izin verilmez; ek beyan yüklemeden sonra değil, yüklemeye izin verilmesinden önce verilir (IV yanlış). En güçlü tuzak I. önermedir: dâhili seferde yabancı limana uğrayan ve uluslararası seferde kabotaj eşyası alan gemilerde ambarlar mühür altına alınır; gümrük idaresi bulunan limandan olağan yüklemede ise mühür gerek görülmesine bağlıdır. Bu nedenle doğru cevap A seçeneğidir. (MD 5, 10, 11)
 
 *Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 7, 8*
 
@@ -356,7 +336,7 @@ D) I, III ve IV
 E) I, II, III ve IV  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğ'e göre beyannamede kayıtlı eşyanın tamamının varılacak yere boşaltılmasından vazgeçilirse eşya, varış limanı yolu üzerinde gümrük idaresi bulunan liman veya iskelelerden herhangi birine boşaltılabilir ve boşaltma işlemleri boşaltma yerindeki idarece yapılır (I doğru). Eşyanın bir kısmının varış yolu üzerindeki bir limana boşaltılması istenirse bu istek ilgili gümrük idaresince kabul edilir; Tebliğ bunun için hareket gümrük idaresinin onayını aramaz (II yanlış). Bu durumda boşaltılan eşyanın tespiti yapılır, kaptandaki iki nüsha beyannamenin ilgili kısmı doldurulup mühür ve imza ile tasdik edilerek kaptana iade edilir ve kalan eşya varış yerine sevk edilir (III doğru). Seyir esnasında eşyanın varış yolu dışındaki bir limana boşaltılması gerektiğinde bildirim, hareket gümrük idaresine değil, boşaltma yapılacak gümrük idaresine en seri şekilde yapılır (IV yanlış). En güçlü çeldirici IV'tür: Tebliğde hareket gümrük idaresi, boşaltma veya ilave yük işlemi tamamlandıktan sonra beyanname nüshasının gönderildiği idaredir; boşaltma yerinin değişmesinde bildirim muhatabı değildir. Bu nedenle doğru cevap C seçeneğidir. (MD 6, 7, 8)
+**Gerekçe:** Tebliğ'e göre beyannamede kayıtlı eşyanın tamamının varılacak yere boşaltılmasından vazgeçilirse eşya, varış limanı yolu üzerinde gümrük idaresi bulunan liman veya iskelelerden herhangi birine boşaltılabilir ve boşaltma işlemleri boşaltma yerindeki idarece yapılır (I doğru). Eşyanın bir kısmının varış yolu üzerindeki bir limana boşaltılması istenirse bu istek ilgili gümrük idaresince kabul edilir; Tebliğ bunun için hareket gümrük idaresinin onayını aramaz (II yanlış). Bu durumda boşaltılan eşyanın tespiti yapılır, kaptandaki iki nüsha beyannamenin ilgili kısmı doldurulup mühür ve imza ile tasdik edilerek kaptana iade edilir ve kalan eşya varış yerine sevk edilir (III doğru). Seyir esnasında eşyanın varış yolu dışındaki bir limana boşaltılması gerektiğinde bildirim, hareket gümrük idaresine değil, boşaltma yapılacak gümrük idaresine en seri şekilde yapılır (IV yanlış). En güçlü tuzak IV. önermedir: Tebliğde hareket gümrük idaresi, boşaltma veya ilave yük işlemi tamamlandıktan sonra beyanname nüshasının gönderildiği idaredir; boşaltma yerinin değişmesinde bildirim muhatabı değildir. Bu nedenle doğru cevap C seçeneğidir. (MD 6, 7, 8)
 
 *Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 4, 6*
 
@@ -384,24 +364,18 @@ E) Beyannamenin teyit nüshası eşyanın boşaltılmasından sonra en yakın g�
 **Doğru Cevap:** B  
 **Gerekçe:** Tebliğ'e göre gümrük idaresi bulunmayan liman ve iskelelerden yapılacak yükleme ve boşaltmalarda liman başkanlıkları yetkili ve sorumludur. Eşya yalnızca liman başkanlığının bulunduğu bir yere boşaltılırsa, boşaltmadan sonra beyannamenin teyit nüshası beyannameyi düzenleyen gümrük idaresine ya da liman başkanlığına en seri şekilde gönderilir. Teyit nüshasını alarak eşyanın varış yerine ulaştığını belirleyen liman başkanlıkları sonucu en yakın gümrük idaresine yazılı olarak bildirir. Teyit nüshası boşaltmadan önce değil sonra gönderilir; varışı belirleyen de gümrük idaresi değil liman başkanlığıdır. En güçlü çeldirici, sonucun liman başkanlığının bağlı olduğu Ulaştırma, Denizcilik ve Haberleşme Bakanlığına bildirildiğini söyleyen seçenektir; Tebliğ sonucun gümrük idaresine bildirilmesini öngörür. Mülki idare amirine intikal ise serbest dolaşımdaki eşyanın yabancı bayraklı gemiyle taşınmasına ilişkin ceza hükmüne aittir. Bu nedenle doğru cevap B seçeneğidir. (MD 3, 9, 14)
 
-*Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 9, 10*
+*Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 5, 6, 9, 10*
 
-**13-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre dâhili sefer yaparken yabancı bir limana uğrayacak bir gemiye ilişkin bilgiler aşağıda verilmiştir:
+**13-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre Türk bayraklı gemilerin Türk limanları arasındaki seferleri esnasında yabancı limanlara da uğraması durumunda, kaptan veya acentelerince yapılacak bildirimin zamanı ve yapılacağı idare aşağıdakilerden hangisinde birlikte doğru olarak verilmiştir?
 
-- Türk bayraklı bir gemi, İzmir Limanında yüklediği kabotaj eşyasını Mersin Limanına taşımaktadır.  
-- Gemi bu dâhili sefer sırasında yabancı bir limana da uğrayacaktır.  
-- Gemi, Türkiye'den en son çıkış yapacağı Antalya Limanından 12 Mayıs günü saat 18.00'de hareket edecektir.  
-- İzmir, Antalya ve Mersin limanlarında gümrük idaresi bulunmaktadır.  
-Buna göre kaptan veya acentenin, geminin yabancı limana uğrayacağına ilişkin bildirimi en geç ne zaman ve nereye yapması gerekir?  
-
-A) 12 Mayıs saat 16.00'ya kadar İzmir Limanındaki gümrük idaresine  
-B) 12 Mayıs saat 16.00'ya kadar Mersin Limanındaki gümrük idaresine  
-C) 12 Mayıs saat 18.00'e kadar Antalya Limanındaki gümrük idaresine  
-D) 12 Mayıs saat 16.00'ya kadar Antalya Liman Başkanlığına  
-E) 12 Mayıs saat 16.00'ya kadar Antalya Limanındaki gümrük idaresine  
+A) Geminin limandan hareketinden en az iki saat önce – ilk hareket gümrük idaresine  
+B) Geminin limandan hareketinden en az iki saat önce – varış gümrük idaresine  
+C) Geminin limandan hareketinden en az iki saat önce – en son çıkış yapılacak limandaki liman başkanlığına  
+D) Geminin uğrayacağı yabancı limana varışından en az iki saat önce – en son çıkış yapılacak gümrük idaresine  
+E) Geminin limandan hareketinden en az iki saat önce – en son çıkış yapılacak gümrük idaresine  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğ'e göre Türk bayraklı gemilerin Türk limanları arasındaki seferleri esnasında yabancı limanlara da uğraması durumunda kaptan veya acenteleri, geminin limandan hareketinden en az iki saat önce en son çıkış yapılacak gümrük idaresine bildirimde bulunur; gümrük idaresi de kabotaj eşyasının bulunduğu ambar ve mahalleri mühür altına alır. Olayda Türkiye'den en son çıkış Antalya Limanından 12 Mayıs saat 18.00'de yapılacağından bildirim en geç saat 16.00'ya kadar Antalya'daki gümrük idaresine yapılmalıdır. Seferin başladığı İzmir'deki idare, Tebliğde ilave yük ve boşaltma işlemlerinde nüsha gönderilen hareket gümrük idaresidir. Gemi yabancı limandan dönerken ayrıca Türkiye Gümrük Bölgesindeki ilk limana varışından en az iki saat önce gümrük idaresine bildirimde bulunulur; ancak bu, sorulan hareket öncesi bildirim değildir. Antalya'da gümrük idaresi bulunduğundan liman başkanlığı yetkili değildir; hareket saatinin kendisini esas alan seçenek ise iki saatlik süre kaydını yok sayar. Bu nedenle doğru cevap E seçeneğidir. (MD 7, 9, 10)
+**Gerekçe:** Tebliğ'e göre Türk bayraklı gemilerin Türk limanları arasındaki seferleri esnasında yabancı limanlara da uğraması durumunda kaptan veya acenteleri, geminin limandan hareketinden en az iki saat önce en son çıkış yapılacak gümrük idaresine bildirimde bulunur; gümrük idaresince kabotaj eşyasının bulunduğu ambar ve mahaller mühür altına alınarak işlemler yapılır. Bildirimin muhatabı seferin başladığı ilk hareket gümrük idaresi ya da eşyanın gideceği varış gümrük idaresi değildir: ilk hareket gümrük idaresi, ilave yük alınırken onaylanıp kapatılan nüshalardan birinin gönderildiği idare; varış gümrük idaresi ise yükleme tamamlandıktan sonra beyanname örneğinin gönderildiği idaredir. Liman başkanlıkları yalnızca gümrük idaresi bulunmayan liman ve iskelelerdeki yükleme ve boşaltmalarda yetkili ve sorumludur. Sürenin başlangıç anı da ölçülmektedir: iki saat, uğranacak yabancı limana varıştan değil, Türkiye'de en son çıkış yapılacak limandan hareketten geriye doğru hesaplanır; varıştan önce bildirim, yabancı limana uğrayarak dönen gemilerde Türkiye Gümrük Bölgesindeki ilk limana varış için öngörülmüştür. Bu nedenle doğru cevap E seçeneğidir. (MD 5, 6, 9, 10)
 
 *Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 10*
 
@@ -455,36 +429,34 @@ E) Gümrük Yönetmeliğinin ilgili hükmü kapsamında yabancı bayraklı gemil
 **Doğru Cevap:** A  
 **Gerekçe:** Tebliğ'e göre bu Tebliğ hükümleri; kamu kurum ve kuruluşlarına ait eşya, gemi adamlarının ihtiyaç malzemesi ve kumanya, elde edildikleri yerlerden Türk liman ve iskelelerine boşaltılması amacıyla her tonajdaki balıkçı gemileriyle taşınan denizden elde edilen su ürünleri, tek bir liman başkanlığı idari sınırları içerisinde taşınan her türlü eşya ve Gümrük Yönetmeliği'nin ilgili hükmü kapsamında yabancı bayraklı gemilerce yapılacak taşımalar için uygulanmaz. Gemilerin kendi ihtiyaçları için kullanacakları yakıt ve yağlar bu istisnalar arasında sayılmamıştır. Listede gemi adamlarının kumanyasının bulunması ve Gümrük Kanunu'nda dış seferlerde kullanılacak yakıt ve yağlar ile kumanyanın birlikte düzenlenmesi, yakıtın da sayıldığı izlenimini verir; ancak Tebliğdeki istisna listesi yakıt ve yağı içermez. Bu nedenle doğru cevap A seçeneğidir. (MD 13; GK 176)
 
-*Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 9, 13, 14*
+*Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 9, 10, 11, 12, 13*
 
-**18-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre aşağıdaki olaya ilişkin bilgiler verilmiştir:
+**18-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre Tebliğ ekinde yer alan kontrole tabi eşyanın aşağıdaki taşımalarından hangisine Tebliğ hükümleri uygulanmaz?
 
-- Türk bayraklı bir yük gemisi, Tebliğ ekinde yer alan kontrole tabi eşyayı taşımıştır.  
-- Yükleme ve boşaltma, aynı liman başkanlığının idari sınırları içerisinde bulunan iki iskelede yapılmıştır.  
-- Taşıma için kabotaj beyannamesi düzenlenmemiştir.  
-Buna göre bu taşımayla ilgili aşağıdakilerden hangisi doğrudur?  
-
-A) Beyanname düzenlenmediğinden 4458 sayılı Gümrük Kanunu'nun usulsüzlük cezasına ilişkin hükmü uyarınca işlem yapılır.  
-B) Bu taşımaya, kabotaj beyannamesi dâhil Tebliğ hükümleri uygulanmaz.  
-C) Beyannamenin yükleme yerindeki liman başkanlığınca düzenlenerek varış yerindeki liman başkanlığına gönderilmesi gerekirdi.  
-D) Konu, 815 sayılı Kanun uyarınca işlem yapılmak üzere mülki idare amirine intikal ettirilir.  
-E) 5607 sayılı Kaçakçılıkla Mücadele Kanunu uyarınca işlem yapılır.  
+A) Yalnızca liman başkanlığının bulunduğu bir iskeleye boşaltılmak üzere yapılan taşımasına  
+B) Tek bir liman başkanlığının idari sınırları içerisinde yapılan taşımasına  
+C) Dâhili sefer yaparken yabancı bir limana da uğrayan Türk bayraklı bir gemiyle yapılan taşımasına  
+D) Uluslararası sefer yapan Türk bayraklı bir gemiye bir Türk limanından yüklenerek yapılan taşımasına  
+E) Geçici ithal yoluyla ülkeye giren bir konteyner içinde yapılan taşımasına  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Tebliğ'e göre tek bir liman başkanlığı idari sınırları içerisinde taşınan her türlü eşya için Tebliğ hükümleri uygulanmaz. Olaydaki eşya Tebliğ ekinde yer alan kontrole tabi eşya olsa da yükleme ve boşaltma aynı liman başkanlığının idari sınırları içinde yapıldığından taşıma Tebliğ kapsamı dışındadır; kabotaj beyannamesi düzenlenmesi gerekmez ve beyanname düzenlenmemesine ilişkin ceza hükmü işletilmez. En güçlü çeldirici usulsüzlük cezası seçeneğidir: Tebliğ, kabotaj eşyası için beyanname düzenlenmemesini Gümrük Kanunu'nun usulsüzlük cezasına ilişkin hükmü uyarınca işlem yapılacak hâller arasında sayar; ancak bu hüküm Tebliğin uygulandığı taşımalar içindir. Beyannamenin liman başkanlığınca düzenlenmesi gümrük idaresi bulunmayan yerlerdeki kabotaj taşımalarına, 815 sayılı Kanun serbest dolaşımdaki eşyanın yabancı bayraklı gemiyle taşınmasına, 5607 sayılı Kanun ise serbest dolaşımda olmayan eşyanın kaçak olarak sokulmasına ilişkindir. Bu nedenle doğru cevap B seçeneğidir. (MD 9, 13, 14; GK 241)
+**Gerekçe:** Tebliğ'e göre tek bir liman başkanlığı idari sınırları içerisinde taşınan her türlü eşya için Tebliğ hükümleri uygulanmaz. Hükümdeki 'her türlü eşya' ifadesi nedeniyle bu istisna, Tebliğ ekinde yer alan ve beyannameyle sunulması gereken kontrole tabi eşya için de geçerlidir. Diğer taşımalar Tebliğin ayrıca düzenlediği hâllerdir: gümrük idaresi bulunmayan liman ve iskelelerde yükleme ve boşaltmalarda liman başkanlıkları yetkili ve sorumludur ve eşyanın yalnızca liman başkanlığının bulunduğu bir yere boşaltılmasında teyit nüshası usulü işletilir; dâhili seferde yabancı limana uğrayan gemiler için hareketten ve dönüşte ilk limana varıştan önce bildirim yapılır; uluslararası sefer yapan Türk bayraklı gemilere kabotaj eşyası alınmasında ambarlar ayrı ayrı mühürlenir; geçici ithal yoluyla ülkeye giren konteynerler de belirlenen markalama şartlarıyla kabotaj taşımasında kullanılabilir. En güçlü tuzak, yalnızca liman başkanlığı bulunan iskeleye boşaltma hâlidir: orada gümrük idaresi yoktur, ancak Tebliğ uygulanmaya devam eder ve yetki liman başkanlığına geçer. Bu nedenle doğru cevap B seçeneğidir. (MD 9, 10, 11, 12, 13)
 
-*Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 14; 4458 sayılı Gümrük Kanunu md. 241*
+*Kabotaj Tebliği (07.06.2013/28670 R.G.) md. 9, 14*
 
-**19-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'e göre aşağıdaki durum ile yapılacak işlem eşleştirmelerinden hangisi yanlıştır?
+**19-** Türkiye Limanları ve İskeleleri Arasında Deniz Taşıtlarıyla Yapılan Taşıma ile Yükleme ve Boşaltmalarda Gümrük Gözetim ve Kontrolü Usul ve Esaslarına İlişkin Tebliğ'in cezalara ilişkin hükümlerinde yer alan aşağıdaki cümlelerde bazı yerler boş bırakılmıştır:
 
-A) Beyannamede silinti veya kazıntı yapılması – 4458 sayılı Gümrük Kanunu uyarınca işlem yapılması  
-B) Bildirim yükümlülüklerine uyulmaması – 4458 sayılı Gümrük Kanunu uyarınca işlem yapılması  
-C) Serbest dolaşımda olmayan eşyanın yurda kaçak olarak sokulmaya teşebbüs edildiğinin saptanması – 5607 sayılı Kaçakçılıkla Mücadele Kanunu uyarınca işlem yapılması  
-D) Serbest dolaşımdaki eşyanın yabancı bayraklı gemilerle taşındığının tespit edilmesi – 5607 sayılı Kaçakçılıkla Mücadele Kanunu uyarınca işlem yapılması  
-E) Geminin seyir hâlinde iken kontrol amacıyla yol kesmesi istenildiği hâlde yol kesmemesi – 4458 sayılı Gümrük Kanunu uyarınca işlem yapılması  
+"Eşyanın serbest dolaşımda olmayan eşya olduğunun ve yurda kaçak olarak sokulduğunun ya da sokulmaya teşebbüs edildiğinin saptanması halinde ……(1)…… uyarınca işlem yapılır. Serbest dolaşımdaki eşyanın yabancı bayraklı gemilerle taşındığının tespit edilmesi halinde, ilgililer hakkında ……(2)…… uyarınca işlem yapılmak üzere konu ……(3)…… intikal ettirilir."  
+Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir?  
+
+A) 815 sayılı Kanun / 5607 sayılı Kaçakçılıkla Mücadele Kanunu / mülki idare amirine  
+B) 5607 sayılı Kaçakçılıkla Mücadele Kanunu / 4458 sayılı Gümrük Kanunu / en yakın gümrük idaresine  
+C) 4458 sayılı Gümrük Kanunu / 815 sayılı Kanun / liman başkanlığına  
+D) 5607 sayılı Kaçakçılıkla Mücadele Kanunu / 815 sayılı Kanun / mülki idare amirine  
+E) 5607 sayılı Kaçakçılıkla Mücadele Kanunu / 815 sayılı Kanun / liman başkanlığına  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Tebliğ'e göre kabotaj eşyasının yüklenmesi, taşınması ve boşaltılması sırasında beyannamede kayıtlı olmayan veya beyana aykırı eşya tespit edilmesi, Gümrük Kanunu'nda belirtilen miktar ve oranları aşan eksiklik veya fazlalık çıkması, seyir hâlindeki geminin kontrol için istenmesine rağmen yol kesmemesi, bildirim yükümlülüklerine uyulmaması ile beyannamenin düzenlenmemesi, kaybedilmesi veya beyannamede silinti ya da kazıntı yapılması hâllerinde Gümrük Kanunu'nun usulsüzlük cezasına ilişkin hükmü uyarınca işlem yapılır. Eşyanın serbest dolaşımda olmayan eşya olduğu ve yurda kaçak olarak sokulduğu ya da sokulmaya teşebbüs edildiği saptanırsa 5607 sayılı Kaçakçılıkla Mücadele Kanunu uyarınca işlem yapılır. Serbest dolaşımdaki eşyanın yabancı bayraklı gemilerle taşındığı tespit edilirse ilgililer hakkında 815 sayılı Türkiye Sahillerinde Nakliyatı Bahriye ve Limanlarla Karasuları Dâhilinde İcrayı Sanat ve Ticaret Hakkında Kanun uyarınca işlem yapılmak üzere konu mülki idare amirine intikal ettirilir. Yanlış eşleştirmede eşyanın statüsü gözden kaçırılmıştır: kaçakçılık hükmü serbest dolaşımda olmayan eşyaya, 815 sayılı Kanun ise serbest dolaşımdaki eşyanın yabancı bayraklı gemiyle taşınmasına uygulanır. Bu nedenle doğru cevap D seçeneğidir. (MD 14; GK 241)
+**Gerekçe:** Tebliğ'e göre eşyanın serbest dolaşımda olmayan eşya olduğunun ve yurda kaçak olarak sokulduğunun ya da sokulmaya teşebbüs edildiğinin saptanması hâlinde 5607 sayılı Kaçakçılıkla Mücadele Kanunu uyarınca işlem yapılır. Serbest dolaşımdaki eşyanın yabancı bayraklı gemilerle taşındığının tespit edilmesi hâlinde ise ilgililer hakkında 815 sayılı Türkiye Sahillerinde Nakliyatı Bahriye ve Limanlarla Karasuları Dâhilinde İcrayı Sanat ve Ticaret Hakkında Kanun uyarınca işlem yapılmak üzere konu mülki idare amirine intikal ettirilir. Ayrımı eşyanın statüsü yapar: kaçakçılık hükmü serbest dolaşımda olmayan eşyaya, 815 sayılı Kanun ise serbest dolaşımdaki eşyanın yabancı bayraklı gemiyle taşınmasına uygulanır; iki kanunun yerini değiştiren seçenek bu ayrımı tersine çevirir. Gümrük Kanunu'nun usulsüzlük cezasına ilişkin hükmü ise beyannamede kayıtlı olmayan veya beyana aykırı eşya tespiti, yol kesmeme, bildirim yükümlülüğüne uymama ve beyanname düzenlenmemesi gibi hâllerde uygulanır. En yakın gümrük idaresi, gümrük idaresi bulunmayan yerlerde eşyanın varışını belirleyen liman başkanlığının sonucu yazıyla bildirdiği idaredir; liman başkanlığı ise bu yerlerdeki yükleme ve boşaltmalarda yetkili ve sorumlu makamdır, intikal makamı değildir. Bu nedenle doğru cevap D seçeneğidir. (MD 9, 14)
 
 *Gümrük Yönetmeliği md. 481*
 
@@ -510,11 +482,11 @@ E) 400 ton
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 3 (I, II ve IV, II ve III, I ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 16, MAKAM 8, SAĞDUYU 4, LİSTE-DIŞI 3, SAYI 3, ŞART 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (II ve III, I ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 17, MAKAM 9, SAĞDUYU 4, LİSTE-DIŞI 3, ŞART 3, BAŞLANGIÇ 3 |
 | İkiz eksen / ayna | — / iki-saat-bildirim, nusha-dagilimi |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 1 |

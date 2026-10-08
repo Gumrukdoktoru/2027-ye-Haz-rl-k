@@ -66,18 +66,13 @@ C) Eşyanın girişinin belli kurumların kontrolüne tabi olması
 D) Özet beyana göre eksiklik bulunması  
 E) Özet beyana göre fazlalık bulunması  
 
-**8-** Demiryolu ile basitleştirilmiş usulde taşıma izni bulunan (R) Demiryolu Taşımacılık A.Ş.'ye ilişkin bilgiler şöyledir:
+**8-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre bir serbest bölgeden çıkarılarak varış gümrük idaresine demiryolu ile sevk edilecek eşyaya ilişkin işlemlerin, vagon bazındaki bilgilerin izin sahibi tarafından elektronik veri değişimi sistemi ile iletilmesine gerek olmaksızın transit beyanı üzerinden yürütülebilmesi için aranan koşullar aşağıdakilerden hangisinde tam olarak verilmiştir?
 
-- Bir serbest bölgeden çıkarılan serbest dolaşımda olmayan eşya, demiryolu ile iç bölgedeki bir varış gümrük idaresine sevk edilecektir.  
-- Serbest bölgeden çıkışa ilişkin düzenlenen transit beyanında rejim hak sahibi (R) A.Ş.'dir.  
-- Eşyaya ait CIM Taşıma Belgesi transit beyanına eklenmiştir.  
-Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre bu sevkiyata ilişkin işlemler hakkında aşağıdakilerden hangisi doğrudur?  
-
-A) Vagon bazındaki bilgiler taşıtın hareketine kadar elektronik veri değişimi sistemi ile iletilmedikçe işlemler basitleştirme izni çerçevesinde yürütülemez.  
-B) İşlemler, vagon bazındaki bilgilerin elektronik veri değişimi sistemi ile iletilmesine gerek olmaksızın transit beyanı üzerinden yürütülür.  
-C) Eşya önce geçici depolama yerine alınır; sevki ulusal transit rejimi çerçevesinde ayrı bir transit beyanı ile gerçekleştirilir.  
-D) Rejim hak sahibi olarak eşyanın serbest bölgedeki göndericisinin gösterilmesi gerektiğinden işlemler izin kapsamında yürütülemez.  
-E) İşlemlerin basitleştirme izni çerçevesinde yürütülebilmesi için izin makamının bu sevkiyata özgü önceden izni gerekir.  
+A) Serbest bölgeden çıkışa ilişkin transit beyanında rejim hak sahibi olarak eşyanın serbest bölgedeki göndericisinin gösterilmesi ve CIM Taşıma Belgesinin transit beyanına eklenmesi  
+B) Serbest bölgeden çıkışa ilişkin transit beyanında rejim hak sahibinin izin sahibi demiryolu tren işletmecisi olması ve CIM Taşıma Belgesinin transit beyanına eklenmesi  
+C) Eşyanın önce geçici depolama yerine alınması ve varış gümrük idaresine sevkinin ulusal transit rejimi çerçevesinde ayrı bir transit beyanı ile yapılması  
+D) Sevkiyat için hareket idaresinin önceden izninin alınması  
+E) CIM Taşıma Belgesinin transit beyanına eklenmesi ve yükleme listelerinin aslı üzerinde sevk eden istasyonun mührünün bulunması  
 
 **9-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre basitleştirilmiş usul kapsamında taşınacak eşyanın tanınmasını sağlayan piktogramlı etiketlere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
@@ -120,15 +115,13 @@ C) II ve III
 D) I, II ve IV  
 E) I, II, III ve IV  
 
-**13-** Demiryolu basitleştirme izni sahibi (D) A.Ş., Halkalı'daki hareket gümrük idaresinde transit rejimine tabi tutulan serbest dolaşımda olmayan eşyayı ulusal transit rejimi kapsamında Ankara'daki varış gümrük idaresine taşımaktadır. Taşıma sözleşmesinde değişiklik yapılarak taşımanın Kayseri'deki bir gümrük idaresinde sona ermesi kararlaştırılmıştır.
+**13-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre izin sahibinin taşıma sözleşmesinde değişiklik yapmasına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre değişiklik yapılmış taşıma sözleşmesinin uygulanmasına ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) İzin sahibi, hareket idaresinin önceden izni olmadan değişiklik yapılmış sözleşmeyi uygulayamaz.  
-B) İzin sahibi, Gümrükler Genel Müdürlüğünün önceden izni olmadan değişiklik yapılmış sözleşmeyi uygulayamaz.  
-C) Değişiklik yapılmış sözleşme uygulanabilir; izin sahibi durumunu en geç otuz gün içerisinde izin makamına bildirir.  
-D) Değişiklik yapılmış sözleşme uygulanabilir; izin makamı aksine karar vermedikçe izin sahibi değişiklikleri hareket idaresine derhal bildirir.  
-E) Ulusal transit kapsamındaki taşımalarda sözleşme değiştirilemez; eşya ilk belirlenen varış gümrük idaresine sunulur.  
+A) Türkiye Gümrük Bölgesi dışında sona erecek bir taşıma işleminin Türkiye Gümrük Bölgesi içinde sona ermesi, hareket idaresinin önceden iznine bağlıdır.  
+B) Türkiye Gümrük Bölgesi içinde sona erecek bir taşıma işleminin Türkiye Gümrük Bölgesi dışında sona ermesi, hareket idaresinin önceden iznine bağlıdır.  
+C) Önceden izin gerektirmeyen değişikliklerde izin sahibi, değişiklik yapılmış sözleşmeyi uygulayabilir.  
+D) Türkiye Gümrük Bölgesi içinde sona erecek bir taşımanın yine bölge içinde başka bir idarede sona ermesi, hareket idaresinin önceden iznine bağlıdır.  
+E) Önceden izin gerektirmeyen değişikliklerde izin sahibi, izin makamı aksine karar vermedikçe yapılan değişiklikleri hareket idaresine derhal bildirir.  
 
 **14-** Demiryolu basitleştirme izni sahibi (E) A.Ş., Türkiye Gümrük Bölgesine denizyolu ile Mersin Limanına getirilen serbest dolaşımda olmayan eşyayı CIM Taşıma Belgesi düzenleyerek demiryolu ile Ankara'daki varış gümrük idaresine sevk etmek istemektedir. Demiryolu taşımacılığının bir parçası olarak eşyanın limandan demiryolu taşıtlarına yükleneceği yere kadar karayolu ile taşınması gerekmektedir. (E) A.Ş., karayolu taşımasının da kendi sorumluluğu altında gerçekleştirileceğini taahhüt etmiştir.
 
@@ -170,19 +163,13 @@ C) II ve III
 D) III ve IV  
 E) I, II ve IV  
 
-**18-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre eşyanın demiryolu ile basitleştirilmiş usulde taşınmasına ilişkin izin başvurusu ve iznin kapsamı hakkında aşağıdaki ifadeler verilmiştir:
+**18-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre aşağıdakilerden hangisi "yükleme listesi" kavramını ifade eder?
 
-I. Basitleştirme izni yalnızca ulusal transit rejimi kapsamındaki taşımalarda kullanılabilir.  
-II. İzin, 6461 sayılı Kanun uyarınca ulusal demiryolu altyapı ağı üzerinde yük taşımacılığı yapmak üzere Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yetkilendirilmiş bir demiryolu tren işletmecisine verilebilir.  
-III. Demiryolu tren işletmecisinin CIM Taşıma Belgesi, sevkiyat kayıtları ve muhasebe kayıtlarını elektronik ortamda tutması ve bu bilgilere hareket, varış ve sınır gümrük idarelerinin anlık erişimi için gerekli elektronik altyapıya sahip olması gerekir.  
-IV. Başvuruda; yönetim kurulu üyeleri, sermayesinin yüzde onundan fazlasına sahip gerçek kişiler ile temsil yetkisini haiz çalışanların son altı ay içerisinde alınmış adli sicil kayıtları sunulur.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) III ve IV  
-D) I, II ve III  
-E) II, III ve IV  
+A) Transit refakat belgesine eklenen ve bu belgenin ayrılmaz bir parçasını oluşturan liste  
+B) CIM Taşıma Belgesine eklenebilen, bu belgenin ayrılmaz bir parçasını oluşturan ve aslı üzerinde sevk eden istasyonun mührü bulunan liste  
+C) Trenin hareketinden sonra izin sahibi tarafından sevk edilmiş vagonlara ilişkin hazırlanan ve ekinde CIM Taşıma Belgelerinin birer örneğine yer verilen liste  
+D) İzin sahibinin, gümrük idaresince talep edilmesi hâlinde belirli bir tarih aralığında basitleştirme izni kapsamında gerçekleştirdiği işlemlere ilişkin bilgileri içeren ve gümrük idaresine ibraz ettiği liste  
+E) Basitleştirme izni kapsamında taşıma yapılacak istasyonları gösteren ve izin başvurusunda izin makamına sunulan liste  
 
 **19-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre aşağıdakilerden hangisi demiryolu basitleştirme izni sahibinin yükümlülükleri arasında yer almaz?
 
@@ -245,7 +232,7 @@ D) Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yetkilendirildiğine i
 E) Güncel ISO 9001 ve ISO 27001 sertifikalarının aslı veya onaylı örneği  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Demiryolu basitleştirmesi başvurusunda, Gümrük Yönetmeliği uyarınca ibraz edilecek belgelere ek olarak; örneğine uygun doldurulmuş demiryolu basitleştirmesi için başvuru formu, ticaret sicil bilgilerini içeren liste, son bir ay içinde alınmış adli sicil kayıtları, şirketi temsile yetkili kişilerce imzalanmış beyan ve taahhüt metni, ulusal demiryolu altyapı ağı üzerinde yük taşımacılığı için Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yetkilendirildiğine ilişkin belge ile aktif taşımacılığı kanıtlayan yazı ve taşıma yapılacak istasyonların listesi sunulur. ISO 9001 ve ISO 27001 sertifikaları bu listede yoktur; bu belgeler havayolu ile basitleştirilmiş usulü düzenleyen Seri No: 5 Tebliğde havayolu şirketlerinden istenir. En güçlü çeldirici ISO sertifikasıdır; iki Tebliğin başvuru listeleri birbirine çok benzediği için komşu rejimden taşınmıştır. Bu nedenle doğru cevap E seçeneğidir. (MD 4)
+**Gerekçe:** Demiryolu basitleştirmesi başvurusunda, Gümrük Yönetmeliği uyarınca ibraz edilecek belgelere ek olarak; örneğine uygun doldurulmuş demiryolu basitleştirmesi için başvuru formu, ticaret sicil bilgilerini içeren liste, son bir ay içinde alınmış adli sicil kayıtları, şirketi temsile yetkili kişilerce imzalanmış beyan ve taahhüt metni, ulusal demiryolu altyapı ağı üzerinde yük taşımacılığı için Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yetkilendirildiğine ilişkin belge ile aktif taşımacılığı kanıtlayan yazı ve taşıma yapılacak istasyonların listesi sunulur. ISO 9001 ve ISO 27001 sertifikaları bu listede yoktur; bu belgeler havayolu ile basitleştirilmiş usulü düzenleyen Seri No: 5 Tebliğde havayolu şirketlerinden istenir. Tuzak buradadır: iki Tebliğin başvuru listeleri birbirine çok benzediği için ISO sertifikası komşu rejimden taşınmıştır. Bu nedenle doğru cevap E seçeneğidir. (MD 4)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 7*
 
@@ -273,7 +260,7 @@ D) Transit rejimine konu olmayan serbest dolaşımdaki kabotaj eşyası için "K
 E) İhracata konu olan ve daha önceki bir sefer ile taşınan eşyanın devamı niteliğindeki eşya için "XD" kodu  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Demiryolu basitleştirmesinde CIM Taşıma Belgesi numarasının karşısında dört kod kullanılır: transit rejimine tabi tutulan serbest dolaşımda olmayan eşya için T, bunun önceki bir seferle taşınan eşyanın devamı niteliğindeki kısmı için TD, ihracata konu eşya için X ve ihracata konu eşyanın devamı niteliğindeki kısmı için XD. Transit rejimine konu olmayan serbest dolaşımdaki kabotaj eşyası için K kodu bu listede yoktur; K kodu, H, HD ve TR kodlarıyla birlikte havayolu ile basitleştirilmiş usulü düzenleyen Seri No: 5 Tebliğde konşimento numarasının karşısında kullanılır. En güçlü çeldirici K kodudur; iki Tebliğin kod listeleri aynı yapıda olduğu için komşu rejimden taşınmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD 7)
+**Gerekçe:** Demiryolu basitleştirmesinde CIM Taşıma Belgesi numarasının karşısında dört kod kullanılır: transit rejimine tabi tutulan serbest dolaşımda olmayan eşya için T, bunun önceki bir seferle taşınan eşyanın devamı niteliğindeki kısmı için TD, ihracata konu eşya için X ve ihracata konu eşyanın devamı niteliğindeki kısmı için XD. Transit rejimine konu olmayan serbest dolaşımdaki kabotaj eşyası için K kodu bu listede yoktur; K kodu, H, HD ve TR kodlarıyla birlikte havayolu ile basitleştirilmiş usulü düzenleyen Seri No: 5 Tebliğde konşimento numarasının karşısında kullanılır. Tuzak buradadır: iki Tebliğin kod listeleri aynı yapıda olduğu için K kodu komşu rejimden taşınmıştır. Bu nedenle doğru cevap D seçeneğidir. (MD 7)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 7*
 
@@ -301,25 +288,20 @@ D) Özet beyana göre eksiklik bulunması
 E) Özet beyana göre fazlalık bulunması  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğe göre basitleştirme izni sahibi demiryolu tren işletmecilerince verilen giriş özet beyanların kâğıt ortamında gümrük idaresine ibrazı zorunlu değildir. Bu kuralın dışında kalan, yani kâğıt ibrazın gündeme gelebileceği hâller dörttür: gümrük idaresince beyanın kontrolüne karar verilmesi, eşyanın muayenesine karar verilmesi, özet beyan eksikliği ve özet beyan fazlalığı. Eşyanın Türkiye Gümrük Bölgesine girişinin belli kurumların kontrolüne tabi olması bu hâller arasında sayılmamıştır; bu durumda Tebliğ başka bir sonuç bağlar: gerekli kontroller varış gümrük idaresine sevkten önce giriş gümrük idaresinde yapılır. En güçlü çeldirici budur; komşu hükümden taşınmış ve sağduyuya uygun görünen bir durumdur. Bu nedenle doğru cevap C seçeneğidir. (MD 7, 11)
+**Gerekçe:** Tebliğe göre basitleştirme izni sahibi demiryolu tren işletmecilerince verilen giriş özet beyanların kâğıt ortamında gümrük idaresine ibrazı zorunlu değildir. Bu kuralın dışında kalan, yani kâğıt ibrazın gündeme gelebileceği hâller dörttür: gümrük idaresince beyanın kontrolüne karar verilmesi, eşyanın muayenesine karar verilmesi, özet beyan eksikliği ve özet beyan fazlalığı. Eşyanın Türkiye Gümrük Bölgesine girişinin belli kurumların kontrolüne tabi olması bu hâller arasında sayılmamıştır; bu durumda Tebliğ başka bir sonuç bağlar: gerekli kontroller varış gümrük idaresine sevkten önce giriş gümrük idaresinde yapılır. Tuzak budur; komşu hükümden taşınmış ve sağduyuya uygun görünen bir durumdur. Bu nedenle doğru cevap C seçeneğidir. (MD 7, 11)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 7*
 
-**8-** Demiryolu ile basitleştirilmiş usulde taşıma izni bulunan (R) Demiryolu Taşımacılık A.Ş.'ye ilişkin bilgiler şöyledir:
+**8-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre bir serbest bölgeden çıkarılarak varış gümrük idaresine demiryolu ile sevk edilecek eşyaya ilişkin işlemlerin, vagon bazındaki bilgilerin izin sahibi tarafından elektronik veri değişimi sistemi ile iletilmesine gerek olmaksızın transit beyanı üzerinden yürütülebilmesi için aranan koşullar aşağıdakilerden hangisinde tam olarak verilmiştir?
 
-- Bir serbest bölgeden çıkarılan serbest dolaşımda olmayan eşya, demiryolu ile iç bölgedeki bir varış gümrük idaresine sevk edilecektir.  
-- Serbest bölgeden çıkışa ilişkin düzenlenen transit beyanında rejim hak sahibi (R) A.Ş.'dir.  
-- Eşyaya ait CIM Taşıma Belgesi transit beyanına eklenmiştir.  
-Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre bu sevkiyata ilişkin işlemler hakkında aşağıdakilerden hangisi doğrudur?  
-
-A) Vagon bazındaki bilgiler taşıtın hareketine kadar elektronik veri değişimi sistemi ile iletilmedikçe işlemler basitleştirme izni çerçevesinde yürütülemez.  
-B) İşlemler, vagon bazındaki bilgilerin elektronik veri değişimi sistemi ile iletilmesine gerek olmaksızın transit beyanı üzerinden yürütülür.  
-C) Eşya önce geçici depolama yerine alınır; sevki ulusal transit rejimi çerçevesinde ayrı bir transit beyanı ile gerçekleştirilir.  
-D) Rejim hak sahibi olarak eşyanın serbest bölgedeki göndericisinin gösterilmesi gerektiğinden işlemler izin kapsamında yürütülemez.  
-E) İşlemlerin basitleştirme izni çerçevesinde yürütülebilmesi için izin makamının bu sevkiyata özgü önceden izni gerekir.  
+A) Serbest bölgeden çıkışa ilişkin transit beyanında rejim hak sahibi olarak eşyanın serbest bölgedeki göndericisinin gösterilmesi ve CIM Taşıma Belgesinin transit beyanına eklenmesi  
+B) Serbest bölgeden çıkışa ilişkin transit beyanında rejim hak sahibinin izin sahibi demiryolu tren işletmecisi olması ve CIM Taşıma Belgesinin transit beyanına eklenmesi  
+C) Eşyanın önce geçici depolama yerine alınması ve varış gümrük idaresine sevkinin ulusal transit rejimi çerçevesinde ayrı bir transit beyanı ile yapılması  
+D) Sevkiyat için hareket idaresinin önceden izninin alınması  
+E) CIM Taşıma Belgesinin transit beyanına eklenmesi ve yükleme listelerinin aslı üzerinde sevk eden istasyonun mührünün bulunması  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Tebliğe göre basitleştirme izni kapsamında vagon bazındaki bilgilerin taşıtın hareketine kadar elektronik veri değişimi sistemi ile iletilmesi kuraldır. Ancak bir serbest bölgeden çıkarılarak varış gümrük idaresine demiryolu ile sevk edilecek eşya için özel bir hüküm vardır: serbest bölgeden çıkışa ilişkin transit beyanında rejim hak sahibinin izin sahibi demiryolu tren işletmecisi olması ve CIM Taşıma Belgesinin transit beyanına eklenmesi koşuluyla işlemler, bu bilgilerin izin sahibi tarafından gümrük idaresinin sistemine iletilmesine gerek olmaksızın Tebliğ hükümleri çerçevesinde ve transit beyanı üzerinden yürütülür. Vakada her iki koşul da gerçekleşmiştir. En güçlü çeldirici, genel kuralı esas alıp serbest bölge istisnasını görmeyen 'bilgiler iletilmedikçe işlemler yürütülemez' seçeneğidir. Geçici depolamaya alma ve ayrı transit beyanı havayolu basitleştirmesine özgüdür; rejim hak sahibi ise gönderici değil izin sahibi işletmecidir. Bu nedenle doğru cevap B seçeneğidir. (MD 7)
+**Gerekçe:** Tebliğe göre basitleştirme izni kapsamında vagon bazındaki bilgilerin taşıtın hareketine kadar izin sahibi tarafından elektronik veri değişimi sistemi ile iletilmesi kuraldır. Ancak bir serbest bölgeden çıkarılarak varış gümrük idaresine demiryolu ile sevk edilecek eşya için özel bir hüküm vardır: serbest bölgeden çıkışa ilişkin düzenlenen transit beyanında rejim hak sahibinin izin sahibi demiryolu tren işletmecisi olması ve CIM Taşıma Belgesinin transit beyanına eklenmesi koşuluyla işlemler, bu bilgilerin sisteme iletilmesine gerek olmaksızın Tebliğ hükümleri çerçevesinde ve transit beyanı üzerinden yürütülür. İki koşul birlikte aranır. En güçlü çeldirici, rejim hak sahibi olarak göndericiyi gösteren seçenektir: Tebliğe göre basitleştirme izni kapsamında taşıma yapan demiryolu tren işletmecisi taşıma işlemleri için rejim hak sahibidir; gönderici yalnızca talep hâlinde ibraz edilen listedeki bilgilerdendir. Geçici depolamaya alma ve ulusal transitle ayrı sevk havayolu basitleştirmesine özgüdür; hareket idaresinin önceden izni taşıma sözleşmesinin Gümrük Bölgesi sınırını aşacak biçimde değiştirilmesine aittir. Yükleme listelerinin aslında sevk eden istasyonun mührünün bulunması ise listelerin genel şeklidir; rejim hak sahibi koşulunun yerini tutmaz. Bu nedenle doğru cevap B seçeneğidir. (MD 7, 9, 13)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 8*
 
@@ -345,7 +327,7 @@ D) Eşyaya ilişkin özet beyan ve varış bildirimi numaralarının CIM Taşım
 E) Eşyanın gümrük tarife alt pozisyonunun CIM Taşıma Belgesinin armonize eşya kodu kutusuna yazıldığının kontrolü  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğe göre hareket gümrük idaresi, ortak ya da ulusal transit kapsamında sevk edilecek vagonlar ve CIM belgeleri üzerinde şu kontrolleri yapar: ticari tanım ve mühür numaralarının ve tarife alt pozisyonunun ilgili kutulara yazılması, özet beyan ve varış bildirimi ya da önceki rejim beyanname numaralarının kaydı, kayıt numarasının CIM Taşıma Belgesi üzerine yazılması ve izin sahibinin aldığı ayniyet önlemleri. Bunlardan ikisi ortak transit rejimi kapsamı taşımalarla sınırlıdır: 'Basitleştirilmiş demiryolu transit prosedürü' ifadesinin yanındaki 'Evet' ibaresinin işaretlenerek demiryolu tren işletmecisinin Uluslararası Demiryolları Birliği (UIC) işletme kodunun rejim hak sahibi (asıl sorumlu) alanına kaydedildiğinin kontrolü ve yeşil piktogramlı etiket ya da mühür kontrolü. Diğer dört seçenekteki kontroller her iki rejimde de yapılır; en güçlü çeldiriciler bu ortak kontrollerin ortak transite özgü sanılmasıdır. Bu nedenle doğru cevap C seçeneğidir. (MD 11)
+**Gerekçe:** Tebliğe göre hareket gümrük idaresi, ortak ya da ulusal transit kapsamında sevk edilecek vagonlar ve CIM belgeleri üzerinde şu kontrolleri yapar: ticari tanım ve mühür numaralarının ve tarife alt pozisyonunun ilgili kutulara yazılması, özet beyan ve varış bildirimi ya da önceki rejim beyanname numaralarının kaydı, kayıt numarasının CIM Taşıma Belgesi üzerine yazılması ve izin sahibinin aldığı ayniyet önlemleri. Bunlardan ikisi ortak transit rejimi kapsamı taşımalarla sınırlıdır: 'Basitleştirilmiş demiryolu transit prosedürü' ifadesinin yanındaki 'Evet' ibaresinin işaretlenerek demiryolu tren işletmecisinin Uluslararası Demiryolları Birliği (UIC) işletme kodunun rejim hak sahibi (asıl sorumlu) alanına kaydedildiğinin kontrolü ve yeşil piktogramlı etiket ya da mühür kontrolü. Diğer dört seçenekteki kontroller her iki rejimde de yapılır; çeldiriciler, bu ortak kontrollerin ortak transite özgü sanılmasına dayanır. Bu nedenle doğru cevap C seçeneğidir. (MD 11)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 10*
 
@@ -361,7 +343,7 @@ D) T1
 E) TD  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Tebliğe göre vagonların izin sahibi tarafından mühürlenmesi esastır. Ancak CIM Taşıma Belgesindeki veya tamamlayıcı belgelerdeki tanım eşyanın hemen tanınmasını mümkün kılıyorsa ve mühürleme mümkün olmuyorsa mühürlemeden vazgeçilebilir. Ayniyetin bu şekilde mühürleme dışındaki yollarla sağlanması hâlinde izin sahibi CIM Taşıma Belgesinin 21 no.lu kutusuna 'Vazgeçme - 92110' ibaresini yazar. Çeldiricilerin hepsi CIM Taşıma Belgesi üzerinde gerçekten kullanılan ifadelerdir: 'Basitleştirilmiş demiryolu transit prosedürü' ortak transitte 58 (b) no.lu kutuda yer alan ifadedir; 'konsolide' eşyanın gruplandırılması hâlinde listede eşya tanımı yerine kullanılır; T1 sembolü kontroller sonunda aynı 21 no.lu kutuya gümrük idaresince yazılır; TD ise transit eşyasının devamı için kullanılan koddur. En güçlü çeldirici T1'dir, çünkü aynı kutuya yazılır. Bu nedenle doğru cevap B seçeneğidir. (MD 10)
+**Gerekçe:** Tebliğe göre vagonların izin sahibi tarafından mühürlenmesi esastır. Ancak CIM Taşıma Belgesindeki veya tamamlayıcı belgelerdeki tanım eşyanın hemen tanınmasını mümkün kılıyorsa ve mühürleme mümkün olmuyorsa mühürlemeden vazgeçilebilir. Ayniyetin bu şekilde mühürleme dışındaki yollarla sağlanması hâlinde izin sahibi CIM Taşıma Belgesinin 21 no.lu kutusuna 'Vazgeçme - 92110' ibaresini yazar. Çeldiricilerin hepsi Tebliğde gerçekten kullanılan ifadelerdir: 'Basitleştirilmiş demiryolu transit prosedürü' ortak transitte 58 (b) no.lu kutuda yer alan ifadedir; 'konsolide' eşyanın gruplandırılması hâlinde listede eşya tanımı yerine kullanılır; T1 sembolü kontroller sonunda aynı 21 no.lu kutuya gümrük idaresince yazılır; TD ise transit eşyasının devamı için kullanılan koddur. En güçlü çeldirici T1'dir, çünkü aynı kutuya yazılır. Bu nedenle doğru cevap B seçeneğidir. (MD 10)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 10, 12*
 
@@ -380,22 +362,20 @@ D) I, II ve IV
 E) I, II, III ve IV  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Tebliğe göre vagonlar ve mühürlenmeye uygun diğer taşıma araçlarının izin sahibi tarafından mühürlenmesi esastır (II doğru). Hareket gümrük idaresi izin sahibinin aldığı ayniyet önlemlerini kontrol eder; ancak aksine karar alınmasını gerektiren bir tespit yoksa yeni bir mühürleme yapılmaz. 'Her durumda yeni bir mühürleme yapar' ifadesi bu nedenle yanlıştır (I yanlış). Sökülmeleri için özel araçlar gerektiren yüksek güvenlikli mühürler kullanılmışsa, hareket gümrük idaresinin istemesi hâlinde mühürleri izin sahibi söker (III doğru). Kontroller sonucunda uygunsuzluk tespit edilmezse 21 no.lu kutuya taşımanın türüne göre T1, T2 veya TR sembolleri yazılarak gümrük idaresince mühür uygulanır ve CIM Taşıma Belgesinin aslı ile birlikte trenin hareketine izin verilir (IV doğru). En güçlü çeldirici I'dir; hareket idaresinin kontrol yetkisi ile yeniden mühürleme zorunluluğu karıştırılmaktadır. Bu nedenle doğru cevap A seçeneğidir. (MD 10, 12)
+**Gerekçe:** Tebliğe göre vagonlar ve mühürlenmeye uygun diğer taşıma araçlarının izin sahibi tarafından mühürlenmesi esastır (II doğru). Hareket gümrük idaresi izin sahibinin aldığı ayniyet önlemlerini kontrol eder; ancak aksine karar alınmasını gerektiren bir tespit yoksa yeni bir mühürleme yapılmaz. 'Her durumda yeni bir mühürleme yapar' ifadesi bu nedenle yanlıştır (I yanlış). Sökülmeleri için özel araçlar gerektiren yüksek güvenlikli mühürler kullanılmışsa, hareket gümrük idaresinin istemesi hâlinde mühürleri izin sahibi söker (III doğru). Kontroller sonucunda uygunsuzluk tespit edilmezse 21 no.lu kutuya taşımanın türüne göre T1, T2 veya TR sembolleri yazılarak gümrük idaresince mühür uygulanır ve CIM Taşıma Belgesinin aslı ile birlikte trenin hareketine izin verilir (IV doğru). En güçlü tuzak I. önermedir; hareket idaresinin kontrol yetkisi ile yeniden mühürleme zorunluluğu karıştırılmaktadır. Bu nedenle doğru cevap A seçeneğidir. (MD 10, 12)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 13*
 
-**13-** Demiryolu basitleştirme izni sahibi (D) A.Ş., Halkalı'daki hareket gümrük idaresinde transit rejimine tabi tutulan serbest dolaşımda olmayan eşyayı ulusal transit rejimi kapsamında Ankara'daki varış gümrük idaresine taşımaktadır. Taşıma sözleşmesinde değişiklik yapılarak taşımanın Kayseri'deki bir gümrük idaresinde sona ermesi kararlaştırılmıştır.
+**13-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre izin sahibinin taşıma sözleşmesinde değişiklik yapmasına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre değişiklik yapılmış taşıma sözleşmesinin uygulanmasına ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) İzin sahibi, hareket idaresinin önceden izni olmadan değişiklik yapılmış sözleşmeyi uygulayamaz.  
-B) İzin sahibi, Gümrükler Genel Müdürlüğünün önceden izni olmadan değişiklik yapılmış sözleşmeyi uygulayamaz.  
-C) Değişiklik yapılmış sözleşme uygulanabilir; izin sahibi durumunu en geç otuz gün içerisinde izin makamına bildirir.  
-D) Değişiklik yapılmış sözleşme uygulanabilir; izin makamı aksine karar vermedikçe izin sahibi değişiklikleri hareket idaresine derhal bildirir.  
-E) Ulusal transit kapsamındaki taşımalarda sözleşme değiştirilemez; eşya ilk belirlenen varış gümrük idaresine sunulur.  
+A) Türkiye Gümrük Bölgesi dışında sona erecek bir taşıma işleminin Türkiye Gümrük Bölgesi içinde sona ermesi, hareket idaresinin önceden iznine bağlıdır.  
+B) Türkiye Gümrük Bölgesi içinde sona erecek bir taşıma işleminin Türkiye Gümrük Bölgesi dışında sona ermesi, hareket idaresinin önceden iznine bağlıdır.  
+C) Önceden izin gerektirmeyen değişikliklerde izin sahibi, değişiklik yapılmış sözleşmeyi uygulayabilir.  
+D) Türkiye Gümrük Bölgesi içinde sona erecek bir taşımanın yine bölge içinde başka bir idarede sona ermesi, hareket idaresinin önceden iznine bağlıdır.  
+E) Önceden izin gerektirmeyen değişikliklerde izin sahibi, izin makamı aksine karar vermedikçe yapılan değişiklikleri hareket idaresine derhal bildirir.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Tebliğe göre taşıma sözleşmesinde yapılan değişiklik yalnızca iki durumda hareket idaresinin önceden iznine bağlıdır: Türkiye Gümrük Bölgesi dışında sona erecek bir taşımanın Türkiye Gümrük Bölgesi içinde sona ermesi ve Türkiye Gümrük Bölgesi içinde sona erecek bir taşımanın Türkiye Gümrük Bölgesi dışında sona ermesi. Diğer durumlarda izin sahibi değişiklik yapılmış sözleşmeyi uygulayabilir; izin makamı aksine karar vermedikçe yapılan değişiklikleri hareket idaresine derhal bildirir. Vakada taşıma Ankara yerine yine Türkiye Gümrük Bölgesi içinde, Kayseri'de sona ermektedir; Gümrük Bölgesi sınırını aşan bir değişiklik yoktur. Vakadaki saklı nokta budur: en güçlü çeldirici olan 'hareket idaresinin önceden izni' yalnızca Gümrük Bölgesi sınırını aşan değişikliklere aittir. Otuz günlük bildirim ise izin şartlarındaki değişikliklere ilişkin yükümlülüktür. Bu nedenle doğru cevap D seçeneğidir. (MD 13)
+**Gerekçe:** Tebliğe göre taşıma sözleşmesinde yapılan değişiklik yalnızca iki durumda hareket idaresinin önceden iznine bağlıdır: Türkiye Gümrük Bölgesi dışında sona erecek bir taşıma işleminin Türkiye Gümrük Bölgesi içinde sona ermesi ve Türkiye Gümrük Bölgesi içinde sona erecek bir taşıma işleminin Türkiye Gümrük Bölgesi dışında sona ermesi. Bu iki durumda izin sahibi, hareket idaresinin önceden izni olmadan değişiklik yapılmış sözleşmeyi uygulayamaz. Diğer durumlarda izin sahibi değişiklik yapılmış sözleşmeyi uygulayabilir ve izin makamı aksine karar vermedikçe yapılan değişiklikleri hareket idaresine derhal bildirir. Taşımanın yine Gümrük Bölgesi içinde, yalnızca başka bir gümrük idaresinde sona ermesi Gümrük Bölgesi sınırını aşmadığından 'diğer durumlar' arasındadır; önceden izin gerekmez. En güçlü çeldirici derhal bildirim yükümlülüğüdür: önceden izin ile sonradan bildirim birbirine karıştırılır. Bu nedenle doğru cevap D seçeneğidir. (MD 13)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 14; Gümrük Yönetmeliği md. 222*
 
@@ -455,26 +435,20 @@ D) III ve IV
 E) I, II ve IV  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Tebliğe göre izin koşullarından birinin artık karşılanmadığı izin sahibince bildirilir veya gümrük idaresince tespit edilirse, eksikliklerin düzeltilmesi için izin sahibine bildirim tarihinden başlamak üzere otuz gün süre verilir; bu süre inandırıcı bilgi ve belge sunulması kaydıyla otuz gün uzatılabilir (I doğru). Süresinde düzeltme yapılmazsa izin otuz gün süre ile askıya alınır; askıya alma süresi izin sahibinin talebi üzerine otuz gün değil altmış gün daha uzatılabilir (II yanlış). İznin iptali bildirim tarihinden itibaren yürürlüğe girer; karar tarihi esas alınmaz, haklı taleplerde yürürlük tarihi ertelenebilir (III yanlış). İzni iptal edilen demiryolu tren işletmecisine, iptalin yürürlüğe girdiği tarihten itibaren bir yıl süre ile yeni izin verilmez (IV doğru). En güçlü çeldirici II'dir: düzeltme süresinin otuz günlük uzatması askıya alma süresine taşınmıştır. Bu nedenle doğru cevap A seçeneğidir. (MD 16, 17)
+**Gerekçe:** Tebliğe göre izin koşullarından birinin artık karşılanmadığı izin sahibince bildirilir veya gümrük idaresince tespit edilirse, eksikliklerin düzeltilmesi için izin sahibine bildirim tarihinden başlamak üzere otuz gün süre verilir; bu süre inandırıcı bilgi ve belge sunulması kaydıyla otuz gün uzatılabilir (I doğru). Süresinde düzeltme yapılmazsa izin otuz gün süre ile askıya alınır; askıya alma süresi izin sahibinin talebi üzerine otuz gün değil altmış gün daha uzatılabilir (II yanlış). İznin iptali bildirim tarihinden itibaren yürürlüğe girer; karar tarihi esas alınmaz, haklı taleplerde yürürlük tarihi ertelenebilir (III yanlış). İzni iptal edilen demiryolu tren işletmecisine, iptalin yürürlüğe girdiği tarihten itibaren bir yıl süre ile yeni izin verilmez (IV doğru). En güçlü tuzak II. önermedir: düzeltme süresinin otuz günlük uzatması askıya alma süresine taşınmıştır. Bu nedenle doğru cevap A seçeneğidir. (MD 16, 17)
 
-*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 4, 6*
+*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 4, 7, 9, 12; Gümrük Yönetmeliği md. 214*
 
-**18-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre eşyanın demiryolu ile basitleştirilmiş usulde taşınmasına ilişkin izin başvurusu ve iznin kapsamı hakkında aşağıdaki ifadeler verilmiştir:
+**18-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6)'ya göre aşağıdakilerden hangisi "yükleme listesi" kavramını ifade eder?
 
-I. Basitleştirme izni yalnızca ulusal transit rejimi kapsamındaki taşımalarda kullanılabilir.  
-II. İzin, 6461 sayılı Kanun uyarınca ulusal demiryolu altyapı ağı üzerinde yük taşımacılığı yapmak üzere Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yetkilendirilmiş bir demiryolu tren işletmecisine verilebilir.  
-III. Demiryolu tren işletmecisinin CIM Taşıma Belgesi, sevkiyat kayıtları ve muhasebe kayıtlarını elektronik ortamda tutması ve bu bilgilere hareket, varış ve sınır gümrük idarelerinin anlık erişimi için gerekli elektronik altyapıya sahip olması gerekir.  
-IV. Başvuruda; yönetim kurulu üyeleri, sermayesinin yüzde onundan fazlasına sahip gerçek kişiler ile temsil yetkisini haiz çalışanların son altı ay içerisinde alınmış adli sicil kayıtları sunulur.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve III  
-C) III ve IV  
-D) I, II ve III  
-E) II, III ve IV  
+A) Transit refakat belgesine eklenen ve bu belgenin ayrılmaz bir parçasını oluşturan liste  
+B) CIM Taşıma Belgesine eklenebilen, bu belgenin ayrılmaz bir parçasını oluşturan ve aslı üzerinde sevk eden istasyonun mührü bulunan liste  
+C) Trenin hareketinden sonra izin sahibi tarafından sevk edilmiş vagonlara ilişkin hazırlanan ve ekinde CIM Taşıma Belgelerinin birer örneğine yer verilen liste  
+D) İzin sahibinin, gümrük idaresince talep edilmesi hâlinde belirli bir tarih aralığında basitleştirme izni kapsamında gerçekleştirdiği işlemlere ilişkin bilgileri içeren ve gümrük idaresine ibraz ettiği liste  
+E) Basitleştirme izni kapsamında taşıma yapılacak istasyonları gösteren ve izin başvurusunda izin makamına sunulan liste  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Tebliğe göre basitleştirme izni, eşyanın ortak ve ulusal transit rejimleri kapsamında taşınmasında kullanılabilir; yalnızca ulusal transitle sınırlı değildir (I yanlış). İzin, 6461 sayılı Türkiye Demiryolu Ulaştırmasının Serbestleştirilmesi Hakkında Kanun uyarınca ulusal demiryolu altyapı ağı üzerinde yük taşımacılığı yapmak üzere Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yetkilendirilmiş bir demiryolu tren işletmecisine verilebilir (II doğru). Bu işletmecinin, Gümrük Yönetmeliğindeki koşullara ilave olarak CIM Taşıma Belgesi, sevkiyat kayıtları ve muhasebe kayıtlarını elektronik ortamda tutması ve hareket, varış ve sınır gümrük idarelerinin anlık erişimi için gerekli elektronik altyapıya sahip olması gerekir (III doğru). Başvuruda sunulan adli sicil kayıtları son altı ay içinde değil, son bir ay içinde alınmış olmalıdır (IV yanlış). En güçlü çeldirici IV'tür; kişi listesi doğru, yalnızca süre değiştirilmiştir. Bu nedenle doğru cevap B seçeneğidir. (MD 4, 6)
+**Gerekçe:** Tebliğe göre CIM Taşıma Belgesine, Ortak Transit Rejimine İlişkin Sözleşmedeki örneğe uygun olarak düzenlenen yükleme listeleri eklenebilir ve bu listelerin sayısı CIM Taşıma Belgesinde eşlik eden belgelere ilişkin bilgiler için ayrılmış kutuda gösterilir. CIM Taşıma Belgesine eşlik eden yükleme listeleri bu belgenin ayrılmaz bir parçasını oluşturur; yükleme listesi, CIM Taşıma Belgesinin ilgili olduğu vagon numarasını veya konteynerli taşımada eşyanın bulunduğu konteynerin numarasını içerir ve aslı üzerinde sevk eden istasyonun mührü bulunur. En güçlü tuzak transit refakat belgesine eklenen listedir: Gümrük Yönetmeliği'ne göre bu liste kalem listesidir ve o da eklendiği belgenin ayrılmaz bir parçasını oluşturur, ancak CIM Taşıma Belgesine değil transit refakat belgesine eklenir. Trenin hareketinden sonra sevk edilmiş vagonlara ilişkin hazırlanan liste, işlem yapılan tüm vagonların sevk edilip edilmediğinin kontrolüne yarar. Belirli bir tarih aralığındaki işlemlere ilişkin liste izin sahibinin talep üzerine ibraz ettiği listedir; taşıma yapılacak istasyonların listesi ise izin başvurusunda izin makamına sunulan belgeler arasındadır. Bu nedenle doğru cevap B seçeneğidir. (MD 4, 7, 9, 12; GY 214)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 7, 18*
 
@@ -487,7 +461,7 @@ D) Her türlü usulsüzlük ve uyuşmazlığı hareket, varış ve sınır gümr
 E) Basitleştirme izni kapsamındaki gümrük işlemlerini gümrük müşaviri veya yardımcısı aracılığıyla takip ettirmek  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğe göre basitleştirme izni kapsamında taşıma yapan demiryolu tren işletmecisi taşıma işlemleri için rejim hak sahibidir ve yükümlülükleri tek tek sayılmıştır. Bunlar arasında; izin kapsamındaki işlemlere ilişkin bilgilerin gümrük idaresince sorgulanabilmesi için işlem tarihinden itibaren üç yıl süre ile erişim sağlamak, izin şartlarına ilişkin durumunda değişiklik olursa en geç otuz gün içinde izin makamına bildirmek, kayıtlarında sevkiyata konu eşyanın statüsüne ilişkin ayrımı sağlamak ve her türlü usulsüzlük ve uyuşmazlığı hareket, varış ve sınır gümrük idarelerine bildirmek vardır. İşlemlerin gümrük müşaviri veya yardımcısı aracılığıyla takip ettirilmesi bu listede yer almaz. Bu seçenek, 'müşavir her işlemde şarttır' önyargısını yoklayan sağduyu çeldiricisidir. Bu nedenle doğru cevap E seçeneğidir. (MD 7, 18)
+**Gerekçe:** Tebliğe göre basitleştirme izni kapsamında taşıma yapan demiryolu tren işletmecisi taşıma işlemleri için rejim hak sahibidir ve yükümlülükleri tek tek sayılmıştır. Bunlar arasında; izin kapsamındaki işlemlere ilişkin bilgilerin gümrük idaresince sorgulanabilmesi için işlem tarihinden itibaren üç yıl süre ile erişim sağlamak, izin şartlarına ilişkin durumunda değişiklik olursa en geç otuz gün içinde izin makamına bildirmek, kayıtlarında sevkiyata konu eşyanın statüsüne ilişkin ayrımı sağlamak ve her türlü usulsüzlük ve uyuşmazlığı hareket, varış ve sınır gümrük idarelerine bildirmek vardır. İşlemlerin gümrük müşaviri veya yardımcısı aracılığıyla takip ettirilmesi bu listede yer almaz. Bu seçenek, 'müşavir her işlemde şarttır' önyargısını yoklayan sağduyu tuzağıdır. Bu nedenle doğru cevap E seçeneğidir. (MD 7, 18)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 6) md. 16*
 
@@ -506,11 +480,11 @@ E) Durumun düzeltilmesi için izin sahibine otuz gün süre verilir.
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 3 (II, III ve IV, I ve IV, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 19, TERİM 4, LİSTE-DIŞI 4, SAĞDUYU 4, İSTİSNA 4, YAKIN-SAYI 4 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (II, III ve IV, I ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 19, TERİM 5, LİSTE-DIŞI 4, SAĞDUYU 4, İSTİSNA 4, BAŞLANGIÇ 3 |
 | İkiz eksen / ayna | — / AY24-1: ortak transit ↔ ulusal transit (etiket), AY24-1: ortak transit ↔ ulusal transit (hareket idaresi kontrolü) |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 3 |

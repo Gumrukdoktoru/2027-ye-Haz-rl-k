@@ -98,19 +98,13 @@ C) Eşyanın tanıtımında kullanılıp alıcıya bedelsiz sunulan eşantiyonla
 D) Boş şişesi ibraz edilemeyen parfüm numuneleri için, eksiklik işletmecinin kusurundan kaynaklanmasa ve bu durum ispat edilse dahi gümrük vergileri tahsil edilir.  
 E) Numunelerin boş şişeleri, işletmecinin belirleyeceği dönemlerde tutanak düzenlenmeksizin imha edilir.  
 
-**11-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre gemilere satış mağazalarına ilişkin aşağıdaki ifadeler verilmiştir:
+**11-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre "gemilere satış mağazası" deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Gemilere satış mağazası açılabilmesi için mağazanın, gümrük kapıları itibarıyla Türkiye Gümrük Bölgesinden çıkış ve Türkiye Gümrük Bölgesine giriş yerleri içinde yer alması şartı aranır.  
-II. İstanbul Boğazı'nda bir adet, Çanakkale Boğazı'nda bir adet olmak üzere toplam iki adet gemilere satış mağazası açılmasına izin verilebilir.  
-III. Gemilere satış mağazası açma izni için başvuranların Deniz Ticaret Odasına kayıtlı olması gerekir.  
-IV. Gemilere eşya satışında mağaza işletmecisinin sorumluluğu, eşyanın mağazadan çıkışında yetkilendirilmiş gümrük müşavirince tespit işleminin yapılmasıyla sona erer.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve IV  
-C) II ve III  
-D) I, II ve III  
-E) II, III ve IV  
+A) Yalnızca Türk boğazlarından transit geçen Türk veya yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan ve özel antrepo sayılan yerler  
+B) Türk boğazlarından transit geçen veya yurt dışına sefer yapmak üzere mağazanın denetimi altında faaliyet gösterdiği gümrük müdürlüğüne bağlı limanlardan hareket eden yalnızca yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan ve özel antrepo sayılan yerler  
+C) Türk boğazlarından transit geçen veya yurt dışına sefer yapmak üzere mağazanın denetimi altında faaliyet gösterdiği gümrük müdürlüğüne bağlı limanlardan hareket eden Türk veya yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan ve özel antrepo sayılan yerler  
+D) Türk boğazlarından transit geçen gemilere satış yapan firmaların mağazalarının stok ihtiyacını karşılamak amacıyla eşya konulan ve özel antrepo sayılan yerler  
+E) Türk boğazlarından transit geçen veya yurt dışına sefer yapmak üzere mağazanın denetimi altında faaliyet gösterdiği gümrük müdürlüğüne bağlı limanlardan hareket eden gemilerin yolcularına gemi içinde satılmak amacıyla eşya teslimi yapmak üzere açılan ve özel antrepo sayılan yerler  
 
 **12-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre aşağıdaki işlemlerden hangisi yetkilendirilmiş gümrük müşaviri tarafından yapılmaz?
 
@@ -120,23 +114,21 @@ C) Yabancı ülkelere sefer yapan uçaklarda satışa sunulacak eşyanın mağaz
 D) Depolardaki yıllık sayımların altışar aylık dönemler itibarıyla yapılması  
 E) Eşyanın firmanın deposundan aynı gümrük müdürlüğü denetimi altındaki mağazasına sevkinde eşyaya refakat edilmesi  
 
-**13-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre aynı firmaya ait mağaza ve depolar arasındaki eşya hareketleri ile bu hareketlerde izlenecek usul eşleştirmelerinden hangisi yanlıştır?
+**13-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre aynı gümrük müdürlüğü denetimi altındaki mağaza ve depolar arasında yapılan eşya sevkine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Bir depodan farklı gümrük müdürlüğü denetimi altındaki bir mağazaya sevk – Transit rejimi hükümleri  
-B) Firmanın deposundan aynı gümrük müdürlüğü denetimi altındaki mağazasına sevk – Gümrük müdürlüğüne elektronik bildirim  
-C) Bir depodan aynı gümrük müdürlüğü denetimi altındaki başka bir depoya sevk – Gümrük müdürlüğüne elektronik bildirim  
-D) Firmanın mağazasından aynı gümrük müdürlüğü denetimi altındaki diğer mağazasına sevk – Gümrük müdürlüğüne elektronik bildirim  
-E) Firmanın mağazasından farklı gümrük müdürlüğü denetimi altındaki diğer mağazasına sevk – Transit rejimi hükümleri  
+A) Bir firmanın aynı gümrük müdürlüğü denetimi altında bulunan bir mağazasından diğer mağazasına eşya sevki, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle gerçekleştirilir.  
+B) Eşyanın firmanın mağazasından aynı gümrük müdürlüğü denetimi altındaki deposuna iadesi, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle gerçekleştirilir.  
+C) Eşyanın bir depodan aynı gümrük müdürlüğü denetimi altındaki başka bir depoya sevki, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle gerçekleştirilir.  
+D) Satışına izin verilmeyen eşya depodan mağazaya sevk edilemez.  
+E) Eşyanın firmanın deposundan aynı gümrük müdürlüğü denetimi altındaki mağazasına sevkinde işlem, eşyanın mağazada teslim alınmasını müteakip gümrük müdürlüğü tarafından elektronik ortamda gerekli onay verilmek suretiyle tamamlanır.  
 
-**14-** (B) Firmasının İzmir'de aynı gümrük müdürlüğünün denetimi altında bir gümrüksüz satış mağazası ve bir deposu, Antalya'da ise başka bir gümrük müdürlüğünün denetimi altında bir gümrüksüz satış mağazası bulunmaktadır. Firma, İzmir'deki mağazasında bulunan bir parti eşyayı Antalya'daki mağazasına göndermek istemektedir.
+**14-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre mağazasının bulunduğu gümrük müdürlüğü denetimi altında deposu da bulunan bir firmanın, başka bir gümrük müdürlüğü denetimi altındaki mağazasına yapacağı eşya sevkinin nereden ve hangi usulle yapılacağı aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-Gümrüksüz Satış Mağazaları Yönetmeliği'nin eşya sevkine ilişkin hükümlerine göre bu sevkiyat hakkında aşağıdakilerden hangisi doğrudur?  
-
-A) Antalya'daki mağazaya eşya sevki yalnızca firmanın İzmir'deki deposundan yapılabilir.  
-B) Eşya, İzmir'deki mağazadan doğrudan transit rejimi hükümleri çerçevesinde sevk edilir ve Antalya'daki mağazaya antrepo beyannamesiyle alınır.  
-C) Eşya, İzmir'deki mağazadan gümrük müdürlüğüne yapılan elektronik bildirime istinaden doğrudan sevk edilir.  
-D) Eşya, İzmir'deki mağazadan Antalya'daki mağazaya satış suretiyle devredilerek gönderilir.  
-E) Firmalar, farklı gümrük müdürlüklerinin denetimindeki kendi mağazaları arasında eşya sevki yapamaz.  
+A) Sadece firmanın deposundan, transit rejimi hükümleri çerçevesinde  
+B) Firmanın mağazasından veya deposundan, transit rejimi hükümleri çerçevesinde  
+C) Sadece firmanın deposundan, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle  
+D) Sadece firmanın mağazasından, transit rejimi hükümleri çerçevesinde  
+E) Firmanın mağazasından veya deposundan, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle  
 
 **15-** "Aylık satış listesi, en geç takip eden ayın ..(I).. günü mesai bitimine kadar; stok cetveli ise ..(II).. aylarının ilk on günü içinde mağaza veya deponun bağlı bulunduğu gümrük müdürlüğüne bilgisayar ortamında iletilir."
 
@@ -162,15 +154,13 @@ C) I ve IV
 D) II ve III  
 E) I, II, III ve IV  
 
-**17-** (C) Limited Şirketinin bir kara hudut kapısındaki gümrüksüz satış mağazasında bir önceki takvim yılında hiç satış yapılmadığı anlaşılmış; mağazanın açma ve işletme izni, hudut kapısının ileriye dönük potansiyeli ve mevcut kira sözleşmesi hükümleri de dikkate alınarak Genel Müdürlükçe iptal edilmiştir. Şirket, iptalden dört ay sonra başka bir hudut kapısında mağaza açma izni almak üzere başvuruda bulunmuştur.
+**17-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre mağaza ve depoların açma ve işletme izinlerinin iptaline ilişkin aşağıdakilerden hangisi söylenemez?
 
-Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre şirketin yeni başvurusu hakkında aşağıdakilerden hangisi doğrudur?  
-
-A) Açma ve işletme izni iptal edilen şirkete beş yıl süre ile yeni mağaza ve depo açma ve işletme izni verilmez.  
-B) Şirketin yeni başvurusu, iptal tarihinden itibaren bir yıl geçmedikçe değerlendirilemez.  
-C) Şirketin yeni başvurusunda ön izin başvurusu yapılmaz.  
-D) Şirketin yeni başvurusunda asgari iki yıl faaliyette bulunma ve kurumlar vergisi şartları aranmaz.  
-E) İptalin nedeni satış bulunmaması olduğundan şirkete beş yıl süreyle yeni izin verilmemesi yasağı uygulanmaz.  
+A) Mağaza veya deponun faaliyeti ile ilgili olarak firma ortaklarından biri hakkında 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nda sayılan suçlardan verilen mahkûmiyet kararının kesinleşmesi hâlinde açma ve işletme izni iptal edilir.  
+B) Satışların takibini sağlayan bilgisayar sistemi üzerinde usulsüz satışlara imkân verecek şekilde değişiklik yaptığı tespit edilen mağazanın açma ve işletme izni, adlî takibat hükümleri saklı olmak üzere Genel Müdürlükçe iptal edilebilir.  
+C) Bir önceki takvim yılında yolcu sayısı açma için aranan sayıların altında kalan hudut kapısındaki mağazanın izni iptal edilirken hudut kapısının ileriye dönük potansiyeli ve mevcut kira sözleşmesi hükümleri de dikkate alınır.  
+D) Başvuru şartlarından yönetim kurulu üyeleri ve ortaklar hakkında mahkûmiyet bulunmamasına ilişkin koşulların kaybedilmesi hâlinde mağaza ve depoların faaliyetine Genel Müdürlükçe son verilir.  
+E) Bir önceki takvim yılında satışı bulunmadığı anlaşıldığı için açma ve işletme izni Genel Müdürlükçe iptal edilen firma ve ortaklarına, beş yıl süre ile yeni mağaza ve depo açma ve işletme izni verilmez.  
 
 **18-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre aşağıdaki işlemlerden hangisinde 492 sayılı Harçlar Kanunu uyarınca harç alınmaz?
 
@@ -182,7 +172,7 @@ E) Herhangi bir sebeple iptal edilen açma ve işletme izin belgesinin yeniden d
 
 **19-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre mağazalardan yapılacak satışlara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Türkiye'ye girişte mağazalardan satın alınacak eşyanın pasaport işlemleri tamamlandıktan sonra ve gümrük muayenesinden geçmeden önce alınması şarttır.  
+A) Türkiye'ye girişte mağazalardan satın alınacak eşyanın pasaport işlemleri tamamlandıktan sonra ve gümrük muayenesinden geçmeden önce alınması şarttır; Tek Durak uygulamasının faaliyette olduğu kara gümrük kapılarındaki mağazalar için bu şart aranmaz.  
 B) Mağazadan eşya satışı, Türk Lirası veya konvertibl yabancı para cinsinden her türlü ödeme aracıyla yapılır.  
 C) Vekâlet ve pasaport ibraz edilse dahi yolcu dışındaki bir kişiye satış yapılamaz.  
 D) Mağazalarda esas itibarıyla serbest dolaşıma girmemiş eşya satılır; serbest dolaşımda olan eşyanın satılmasına Genel Müdürlükçe izin verilebilir.  
@@ -346,24 +336,18 @@ E) Numunelerin boş şişeleri, işletmecinin belirleyeceği dönemlerde tutanak
 **Doğru Cevap:** B  
 **Gerekçe:** Yönetmeliğe göre mağazalarda satılan eşya ile birlikte müşterilere bedelsiz olarak verilen azami 10 ml'lik eşantiyonlar numune olarak değerlendirilmez ve bunlar için takibat yapılmaz. Bu hüküm, 18.06.2026 tarihli ve 33284 sayılı Resmî Gazete'de yayımlanan düzenlemeyle son hâlini almıştır. Parfüm ve kozmetik numunelerinin boş şişeleri altışar değil birer aylık dönemler itibarıyla, aylık satış listesinin iletilmesi gereken süre içinde gümrük müdürlüğüne ibraz edilir ve gümrük müdürlüğünce belirlenecek dönemlerde, onun gözetiminde tutanak düzenlenerek imha edilir. Boş şişesi ibraz edilemeyen her numune için gümrük vergileri tahsil edilir; ancak işletmecinin kusur ve hatasından ileri gelmeyen ve gümrük müdürlüğüne ispat edilebilen eksiklikler bunun dışındadır. Eşyanın tanıtımında kullanılan bedelsiz eşantiyonlar ile ambalaj malzemelerine, satışa sunulan eşyaya uygulanan işlemler uygulanmaz. En güçlü çeldirici ambalaj ve eşantiyonlara satış eşyasının işlemlerinin uygulanacağını söyleyen seçenektir; hüküm bunun tersini söyler. Bu nedenle doğru cevap B seçeneğidir. (MD 14)
 
-*Gümrüksüz Satış Mağazaları Yönetmeliği md. 4, 7, 12*
+*Gümrüksüz Satış Mağazaları Yönetmeliği md. 1, 3, 12*
 
-**11-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre gemilere satış mağazalarına ilişkin aşağıdaki ifadeler verilmiştir:
+**11-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre "gemilere satış mağazası" deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Gemilere satış mağazası açılabilmesi için mağazanın, gümrük kapıları itibarıyla Türkiye Gümrük Bölgesinden çıkış ve Türkiye Gümrük Bölgesine giriş yerleri içinde yer alması şartı aranır.  
-II. İstanbul Boğazı'nda bir adet, Çanakkale Boğazı'nda bir adet olmak üzere toplam iki adet gemilere satış mağazası açılmasına izin verilebilir.  
-III. Gemilere satış mağazası açma izni için başvuranların Deniz Ticaret Odasına kayıtlı olması gerekir.  
-IV. Gemilere eşya satışında mağaza işletmecisinin sorumluluğu, eşyanın mağazadan çıkışında yetkilendirilmiş gümrük müşavirince tespit işleminin yapılmasıyla sona erer.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve IV  
-C) II ve III  
-D) I, II ve III  
-E) II, III ve IV  
+A) Yalnızca Türk boğazlarından transit geçen Türk veya yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan ve özel antrepo sayılan yerler  
+B) Türk boğazlarından transit geçen veya yurt dışına sefer yapmak üzere mağazanın denetimi altında faaliyet gösterdiği gümrük müdürlüğüne bağlı limanlardan hareket eden yalnızca yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan ve özel antrepo sayılan yerler  
+C) Türk boğazlarından transit geçen veya yurt dışına sefer yapmak üzere mağazanın denetimi altında faaliyet gösterdiği gümrük müdürlüğüne bağlı limanlardan hareket eden Türk veya yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan ve özel antrepo sayılan yerler  
+D) Türk boğazlarından transit geçen gemilere satış yapan firmaların mağazalarının stok ihtiyacını karşılamak amacıyla eşya konulan ve özel antrepo sayılan yerler  
+E) Türk boğazlarından transit geçen veya yurt dışına sefer yapmak üzere mağazanın denetimi altında faaliyet gösterdiği gümrük müdürlüğüne bağlı limanlardan hareket eden gemilerin yolcularına gemi içinde satılmak amacıyla eşya teslimi yapmak üzere açılan ve özel antrepo sayılan yerler  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Yönetmeliğe göre mağaza ve depolar kural olarak gümrük kapıları itibarıyla Türkiye Gümrük Bölgesinden çıkış ve giriş yerleri içinde yer alır; ancak gemilere satış mağazaları açılmasında bu genel yer şartları aranmaz (I yanlış). İstanbul Boğazı'nda bir adet, Çanakkale Boğazı'nda bir adet olmak üzere toplam iki adet gemilere satış mağazası açılmasına izin verilebilir (II doğru). Gemilere satış mağazası açma izni için ayrıca gümrük denetimine tabi gemilere sefer yapacak en az bir deniz hizmet teknesi, mağaza adına VHF cihazı işletme izni ve Deniz Ticaret Odasına kayıt aranır (III doğru). Gemilere eşya satışında mağaza işletmecisinin sorumluluğu, eşyanın geminin yetkili bir personeli (gemi kaptanı veya gemi kâtibi) tarafından teslim alınmasına kadar devam eder; yetkilendirilmiş gümrük müşavirinin mağazadan çıkışta yaptığı tespit sorumluluğu sona erdirmez (IV yanlış). Gemilere satışa ilişkin bu hüküm 18.06.2026 tarihli ve 33284 sayılı Resmî Gazete'de yayımlanan düzenlemeyle son hâlini almıştır. En güçlü çeldirici I'i de doğru sayan 'I, II ve III' seçeneğidir: genel yer şartı mağazalar için doğrudur, fakat aynı hükmün gemilere satış mağazalarına ilişkin cümlesi bu şartı aramaz. Bu nedenle doğru cevap C seçeneğidir. (MD 4, 7, 12)
+**Gerekçe:** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre gemilere satış mağazası; Türk boğazlarından transit geçen veya yurt dışına sefer yapmak üzere mağazanın denetimi altında faaliyet gösterdiği gümrük müdürlüğüne bağlı limanlardan hareket eden Türk veya yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan ve özel antrepo sayılan yerlerdir. Tanım 18.06.2026 tarihli ve 33284 sayılı Resmî Gazete'de yayımlanan düzenlemeyle son hâlini almıştır ve iki tür gemiyi birlikte kapsar: boğazlardan transit geçen gemiler ile mağazanın bağlı olduğu gümrük müdürlüğünün limanlarından yurt dışına hareket eden gemiler. Yönetmeliğin amaç hükmü yalnızca Türk boğazlarından transit geçen gemileri andığı için en güçlü tuzak, satışı boğazdan transit geçen gemilerle sınırlayan tanımdır; tanımın liman unsurunu düşürür. Satış yalnızca yabancı bayraklı gemilere de yapılmaz; Yönetmelik boğazlardan transit geçen Türk bayraklı gemilerin yurt dışı seferde olduğunun gümrük idaresinden teyit edilmesini arar. Aynı firmanın mağazalarının stok ihtiyacı için eşya konulan yer depodur; yolculara taşıt içinde satılmak üzere eşya teslim etmek ise uçakta satış mağazasının tanımına aittir. Bu nedenle doğru cevap C seçeneğidir. (MD 1, 3, 12)
 
 *Gümrüksüz Satış Mağazaları Yönetmeliği md. 7, 12, 15, 30*
 
@@ -380,31 +364,29 @@ E) Eşyanın firmanın deposundan aynı gümrük müdürlüğü denetimi altınd
 
 *Gümrüksüz Satış Mağazaları Yönetmeliği md. 15, 16, 17*
 
-**13-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre aynı firmaya ait mağaza ve depolar arasındaki eşya hareketleri ile bu hareketlerde izlenecek usul eşleştirmelerinden hangisi yanlıştır?
+**13-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre aynı gümrük müdürlüğü denetimi altındaki mağaza ve depolar arasında yapılan eşya sevkine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Bir depodan farklı gümrük müdürlüğü denetimi altındaki bir mağazaya sevk – Transit rejimi hükümleri  
-B) Firmanın deposundan aynı gümrük müdürlüğü denetimi altındaki mağazasına sevk – Gümrük müdürlüğüne elektronik bildirim  
-C) Bir depodan aynı gümrük müdürlüğü denetimi altındaki başka bir depoya sevk – Gümrük müdürlüğüne elektronik bildirim  
-D) Firmanın mağazasından aynı gümrük müdürlüğü denetimi altındaki diğer mağazasına sevk – Gümrük müdürlüğüne elektronik bildirim  
-E) Firmanın mağazasından farklı gümrük müdürlüğü denetimi altındaki diğer mağazasına sevk – Transit rejimi hükümleri  
+A) Bir firmanın aynı gümrük müdürlüğü denetimi altında bulunan bir mağazasından diğer mağazasına eşya sevki, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle gerçekleştirilir.  
+B) Eşyanın firmanın mağazasından aynı gümrük müdürlüğü denetimi altındaki deposuna iadesi, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle gerçekleştirilir.  
+C) Eşyanın bir depodan aynı gümrük müdürlüğü denetimi altındaki başka bir depoya sevki, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle gerçekleştirilir.  
+D) Satışına izin verilmeyen eşya depodan mağazaya sevk edilemez.  
+E) Eşyanın firmanın deposundan aynı gümrük müdürlüğü denetimi altındaki mağazasına sevkinde işlem, eşyanın mağazada teslim alınmasını müteakip gümrük müdürlüğü tarafından elektronik ortamda gerekli onay verilmek suretiyle tamamlanır.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Yönetmeliğe göre eşyanın bir depodan aynı gümrük müdürlüğü denetimi altındaki başka bir depoya sevkinde yeni bir antrepo beyannamesi verilir. Gümrük müdürlüğüne elektronik bildirim yapılarak sevk yalnızca aynı gümrük müdürlüğü denetimindeki mağazadan mağazaya, depodan mağazaya ve mağazadan depoya sevklerde uygulanır; depodan depoya sevk bu sayımda yer almaz. Farklı gümrük müdürlükleri denetimindeki mağaza ve depolar arasındaki sevkler ise transit rejimi hükümleri çerçevesinde yapılır ve eşya varışta antrepo beyannamesiyle alınır. En güçlü çeldirici depodan aynı müdürlükteki mağazaya sevkin elektronik bildirimle yapılmasıdır: bu eşleştirme doğrudur ve aynı usulün depodan depoya sevke de uygulandığı izlenimini verir. Bu nedenle doğru cevap C seçeneğidir. (MD 15, 16, 17)
+**Gerekçe:** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre eşyanın bir depodan aynı gümrük müdürlüğü denetimi altındaki başka bir depoya sevkinde elektronik bildirim yapılmaz; yeni bir antrepo beyannamesi verilmek suretiyle işlem yapılır. Elektronik bildirim usulü, aynı gümrük müdürlüğü denetimindeki mağazadan mağazaya, depodan mağazaya ve mağazadan depoya sevklerde uygulanır; depodan depoya sevk bu sayımda yer almaz. Bu nedenle firmanın mağazaları arasındaki sevk ile mağazadan depoya iade elektronik bildirimle gerçekleştirilir. Depodan mağazaya sevkte işlem, eşyanın mağazada teslim alınmasından sonra gümrük müdürlüğünün elektronik ortamda onay vermesiyle tamamlanır; satışına izin verilmeyen eşya ise depodan mağazaya sevk edilemez. Yanlış ifade, depodan depoya sevki elektronik bildirim usulüne taşımıştır. En güçlü tuzak mağazalar arası sevke ilişkin ifadedir: aynı kalıpla kurulduğu için aday, hangi sevkin elektronik bildirim sayımında yer aldığını bilmeden ikisini ayıramaz. Bu nedenle doğru cevap C seçeneğidir. (MD 15, 16, 17)
 
-*Gümrüksüz Satış Mağazaları Yönetmeliği md. 15, 17*
+*Gümrüksüz Satış Mağazaları Yönetmeliği md. 15, 16, 17*
 
-**14-** (B) Firmasının İzmir'de aynı gümrük müdürlüğünün denetimi altında bir gümrüksüz satış mağazası ve bir deposu, Antalya'da ise başka bir gümrük müdürlüğünün denetimi altında bir gümrüksüz satış mağazası bulunmaktadır. Firma, İzmir'deki mağazasında bulunan bir parti eşyayı Antalya'daki mağazasına göndermek istemektedir.
+**14-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre mağazasının bulunduğu gümrük müdürlüğü denetimi altında deposu da bulunan bir firmanın, başka bir gümrük müdürlüğü denetimi altındaki mağazasına yapacağı eşya sevkinin nereden ve hangi usulle yapılacağı aşağıdakilerden hangisinde doğru olarak verilmiştir?
 
-Gümrüksüz Satış Mağazaları Yönetmeliği'nin eşya sevkine ilişkin hükümlerine göre bu sevkiyat hakkında aşağıdakilerden hangisi doğrudur?  
-
-A) Antalya'daki mağazaya eşya sevki yalnızca firmanın İzmir'deki deposundan yapılabilir.  
-B) Eşya, İzmir'deki mağazadan doğrudan transit rejimi hükümleri çerçevesinde sevk edilir ve Antalya'daki mağazaya antrepo beyannamesiyle alınır.  
-C) Eşya, İzmir'deki mağazadan gümrük müdürlüğüne yapılan elektronik bildirime istinaden doğrudan sevk edilir.  
-D) Eşya, İzmir'deki mağazadan Antalya'daki mağazaya satış suretiyle devredilerek gönderilir.  
-E) Firmalar, farklı gümrük müdürlüklerinin denetimindeki kendi mağazaları arasında eşya sevki yapamaz.  
+A) Sadece firmanın deposundan, transit rejimi hükümleri çerçevesinde  
+B) Firmanın mağazasından veya deposundan, transit rejimi hükümleri çerçevesinde  
+C) Sadece firmanın deposundan, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle  
+D) Sadece firmanın mağazasından, transit rejimi hükümleri çerçevesinde  
+E) Firmanın mağazasından veya deposundan, gümrük müdürlüğüne elektronik bildirim yapılması suretiyle  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Yönetmeliğe göre bir firmanın mağazasından farklı gümrük müdürlüğü denetimi altındaki diğer mağazasına eşya sevki transit rejimi hükümleri çerçevesinde yapılır ve eşya varışta antrepo beyannamesiyle alınır. Vakada saklanan istisna, firmanın İzmir'de aynı gümrük müdürlüğü denetiminde bir deposunun da bulunmasıdır: mağazanın bulunduğu gümrük müdürlüğü denetimi altında deposu da bulunan firmanın başka bir gümrük müdürlüğü denetimi altındaki mağazasına eşya sevki sadece deposundan yapılır. Bu nedenle eşya İzmir'deki mağazadan doğrudan Antalya'ya gönderilemez; sevk İzmir'deki depodan yapılır. En güçlü çeldirici mağazadan doğrudan transitle sevki öngören seçenektir: genel kuralı doğru verir ama depo bulunması hâlindeki istisnayı atlar. Elektronik bildirim yalnızca aynı gümrük müdürlüğü denetimindeki sevklerde kullanılır; mağazadaki eşyanın satış suretiyle devri ise firmanın aynı gümrük müdürlüğü denetiminde deposu bulunmadığında mümkündür. Bu nedenle doğru cevap A seçeneğidir. (MD 15, 17)
+**Gerekçe:** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre bir firmanın mağazasından farklı gümrük müdürlüğü denetimi altındaki diğer mağazasına eşya sevki transit rejimi hükümleri çerçevesinde gerçekleştirilir ve eşya varış gümrük müdürlüğü denetimindeki mağazaya antrepo beyannamesiyle alınır. Ancak firmanın mağazasının bulunduğu gümrük müdürlüğü denetimi altında deposu da bulunuyorsa, başka bir gümrük müdürlüğü denetimi altındaki mağazasına eşya sevki sadece deposundan yapılır; depodan farklı gümrük müdürlüğü denetimindeki mağaza veya depoya sevk de transit rejimi hükümlerine tabidir. En güçlü tuzak eşyanın mağazadan veya depodan gönderilebileceğini söyleyen seçenektir: genel kuralı bilen ama deposu bulunan firmaya ilişkin kaydı atlayan adayı yakalar. Elektronik bildirim usulü yalnızca aynı gümrük müdürlüğü denetimindeki mağazadan mağazaya, depodan mağazaya ve mağazadan depoya sevklerde uygulanır; farklı müdürlükler arasındaki sevkte kullanılmaz. Bu nedenle doğru cevap A seçeneğidir. (MD 15, 16, 17)
 
 *Gümrüksüz Satış Mağazaları Yönetmeliği md. 25, 26*
 
@@ -440,20 +422,18 @@ E) I, II, III ve IV
 **Doğru Cevap:** A  
 **Gerekçe:** Yönetmeliğe göre gümrük mevzuatına aykırılıkların veya mağaza ya da deponun faaliyet alanları dışında kullanıldığının tespiti hâlinde faaliyet, inceleme, denetim ve soruşturma yapan ticaret müfettiş veya müfettiş yardımcıları ya da ilgili bölge müdürlüğünce tedbir mahiyetinde on güne kadar durdurulabilir (I doğru). Genel Müdürlük bu süreyi aykırılıklar giderilinceye kadar uzatabilir; uzatma kararı verilmezse gümrük müdürlüğü sürenin bitimini izleyen gün faaliyetin devamına izin verir (III doğru). Usulsüz satış tespitinde ise faaliyeti on gün ilâ bir yıl arasında durduran makam bölge müdürlüğü değil Genel Müdürlüktür (II yanlış). Bilgisayar sistemi dışına çıkan mağazaya gümrük müdürlüğünce on iş günü süre verilir; mücbir sebep ve beklenmeyen hâller dışında süre sonunda sisteme dâhil olmayan mağazanın faaliyeti gümrük müdürlüğünce durdurulur (IV doğru). En güçlü çeldirici II'yi de doğru sayan en kapsamlı seçenektir: II'de yalnızca makam değiştirilmiştir. Bu nedenle doğru cevap A seçeneğidir. (MD 28)
 
-*Gümrüksüz Satış Mağazaları Yönetmeliği md. 7, 18, 29*
+*Gümrüksüz Satış Mağazaları Yönetmeliği md. 29*
 
-**17-** (C) Limited Şirketinin bir kara hudut kapısındaki gümrüksüz satış mağazasında bir önceki takvim yılında hiç satış yapılmadığı anlaşılmış; mağazanın açma ve işletme izni, hudut kapısının ileriye dönük potansiyeli ve mevcut kira sözleşmesi hükümleri de dikkate alınarak Genel Müdürlükçe iptal edilmiştir. Şirket, iptalden dört ay sonra başka bir hudut kapısında mağaza açma izni almak üzere başvuruda bulunmuştur.
+**17-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre mağaza ve depoların açma ve işletme izinlerinin iptaline ilişkin aşağıdakilerden hangisi söylenemez?
 
-Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre şirketin yeni başvurusu hakkında aşağıdakilerden hangisi doğrudur?  
-
-A) Açma ve işletme izni iptal edilen şirkete beş yıl süre ile yeni mağaza ve depo açma ve işletme izni verilmez.  
-B) Şirketin yeni başvurusu, iptal tarihinden itibaren bir yıl geçmedikçe değerlendirilemez.  
-C) Şirketin yeni başvurusunda ön izin başvurusu yapılmaz.  
-D) Şirketin yeni başvurusunda asgari iki yıl faaliyette bulunma ve kurumlar vergisi şartları aranmaz.  
-E) İptalin nedeni satış bulunmaması olduğundan şirkete beş yıl süreyle yeni izin verilmemesi yasağı uygulanmaz.  
+A) Mağaza veya deponun faaliyeti ile ilgili olarak firma ortaklarından biri hakkında 5607 sayılı Kaçakçılıkla Mücadele Kanunu'nda sayılan suçlardan verilen mahkûmiyet kararının kesinleşmesi hâlinde açma ve işletme izni iptal edilir.  
+B) Satışların takibini sağlayan bilgisayar sistemi üzerinde usulsüz satışlara imkân verecek şekilde değişiklik yaptığı tespit edilen mağazanın açma ve işletme izni, adlî takibat hükümleri saklı olmak üzere Genel Müdürlükçe iptal edilebilir.  
+C) Bir önceki takvim yılında yolcu sayısı açma için aranan sayıların altında kalan hudut kapısındaki mağazanın izni iptal edilirken hudut kapısının ileriye dönük potansiyeli ve mevcut kira sözleşmesi hükümleri de dikkate alınır.  
+D) Başvuru şartlarından yönetim kurulu üyeleri ve ortaklar hakkında mahkûmiyet bulunmamasına ilişkin koşulların kaybedilmesi hâlinde mağaza ve depoların faaliyetine Genel Müdürlükçe son verilir.  
+E) Bir önceki takvim yılında satışı bulunmadığı anlaşıldığı için açma ve işletme izni Genel Müdürlükçe iptal edilen firma ve ortaklarına, beş yıl süre ile yeni mağaza ve depo açma ve işletme izni verilmez.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Yönetmeliğe göre bir önceki takvim yılında satışı bulunmadığı anlaşılan mağazaların açma ve işletme izinleri Genel Müdürlükçe iptal edilebilir. Beş yıl süreyle yeni mağaza ve depo açma ve işletme izni verilmemesi ise yalnızca iki iptal hâline bağlanmıştır: firma ortakları veya yönetim kurulu üyelerinden biri hakkında kaçakçılık suçlarından verilen mahkûmiyetin kesinleşmesi ve satışların takibini sağlayan bilgisayar sisteminde usulsüz satışa imkân verecek değişiklik yapılması. Vakada saklanan istisna iptalin nedenidir: iptal satış bulunmamasına dayandığından beş yıllık yasak uygulanmaz ve şirketin yeni başvurusu genel hükümlere göre değerlendirilir. En güçlü çeldirici beş yıllık yasağı her iptale uygulayan seçenektir. Ön izin başvurusunun yapılmaması yalnızca devir başvurularına; faaliyet süresi ve kurumlar vergisi şartlarının aranmaması ise sermaye ve ihtiyatları en az 50.000.000 TL olan şirketlere ve belirli devir hâllerine özgüdür. Bu nedenle doğru cevap E seçeneğidir. (MD 7, 18, 29)
+**Gerekçe:** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre bir önceki takvim yılında satışı bulunmadığı anlaşılan mağazaların açma ve işletme izinleri; bu duruma neden olan gerekçeler, hudut kapısının mevcut koşulları, ileriye dönük potansiyeli ve mevcut kira sözleşmesi hükümleri dikkate alınarak Genel Müdürlükçe iptal edilebilir. Aynı değerlendirme, yolcu sayısı açma için aranan sayıların altında kalan kapılardaki mağazalar için de yapılır. Beş yıl süreyle yeni mağaza ve depo açma ve işletme izni verilmemesi ise yalnızca iki iptal hâline bağlanmıştır: mağazanın faaliyetiyle ilgili olarak firma ortakları veya yönetim kurulu üyelerinden biri hakkında 5607 sayılı Kanun'da sayılan suçlardan verilen mahkûmiyetin kesinleşmesi ve satışların takibini sağlayan bilgisayar sisteminde usulsüz satışa imkân verecek değişiklik yapılması. Satış yokluğuna dayanan iptalde bu yasak uygulanmaz; söylenemeyecek ifade, beş yıllık yasağı bu iptal hâline taşımıştır. Başvuru için aranan mahkûmiyet bulunmaması koşullarının kaybedilmesi hâlinde ise faaliyete Genel Müdürlükçe son verilir. En güçlü tuzak bilgisayar sistemine ilişkin ifadedir: 'adlî takibat saklı' kaydı ve 'iptal edilebilir' ifadesi yanlış sanılabilir, ancak hükmün lafzıdır. Bu nedenle doğru cevap E seçeneğidir. (MD 29)
 
 *Gümrüksüz Satış Mağazaları Yönetmeliği md. 7, 9*
 
@@ -472,7 +452,7 @@ E) Herhangi bir sebeple iptal edilen açma ve işletme izin belgesinin yeniden d
 
 **19-** Gümrüksüz Satış Mağazaları Yönetmeliği'ne göre mağazalardan yapılacak satışlara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) Türkiye'ye girişte mağazalardan satın alınacak eşyanın pasaport işlemleri tamamlandıktan sonra ve gümrük muayenesinden geçmeden önce alınması şarttır.  
+A) Türkiye'ye girişte mağazalardan satın alınacak eşyanın pasaport işlemleri tamamlandıktan sonra ve gümrük muayenesinden geçmeden önce alınması şarttır; Tek Durak uygulamasının faaliyette olduğu kara gümrük kapılarındaki mağazalar için bu şart aranmaz.  
 B) Mağazadan eşya satışı, Türk Lirası veya konvertibl yabancı para cinsinden her türlü ödeme aracıyla yapılır.  
 C) Vekâlet ve pasaport ibraz edilse dahi yolcu dışındaki bir kişiye satış yapılamaz.  
 D) Mağazalarda esas itibarıyla serbest dolaşıma girmemiş eşya satılır; serbest dolaşımda olan eşyanın satılmasına Genel Müdürlükçe izin verilebilir.  
@@ -498,11 +478,11 @@ E) Aylık satış listesinin satış belgeleri esas alınarak düzenlenip süres
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I, II ve IV, II ve III, I, III ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 15, İSTİSNA 5, TERSİNE 4, YAKIN-SAYI 4, TERİM 3, SAĞDUYU 2 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I, II ve IV, I, III ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 15, TERİM 4, TERSİNE 4, İSTİSNA 4, YAKIN-SAYI 4, UNSUR 2 |
 | İkiz eksen / ayna | 17 / esya-sevki-ayni-farkli-mudurluk |
 | Güncellik | 18.06.2026; 18.06.2026 |
 | Çıkmış bilgi alanı karşılayan | 2 |

@@ -38,19 +38,13 @@ C) Uzatma başvurusunun, kanuni süre veya verilen ek sürenin bitiminden önce 
 D) Bir ayı aşan süre uzatım taleplerinde, talebin gerekçesinin belirtilmesi şarttır.  
 E) Taahhütlü posta yoluyla yapılan uzatma başvurularında, başvuru dilekçesinin postaya verildiği tarih esas alınır.  
 
-**5-** Gümrük Yönetmeliği'ne göre kaçak zannıyla el konulan bir eşyaya ilişkin aşağıdaki bilgiler verilmiştir:
+**5-** Gümrük Yönetmeliği'ne göre kaçak zannıyla el konulan ve mahkemesince sahibine iadesine karar verilen eşyanın serbest dolaşımda bulunması hâlinde aşağıdakilerden hangisi uygulanır?
 
-- Eşya, bulunduğu yerde kaçak eşya ambarı olmadığından genel antrepoya konulmuştur.  
-- Mahkeme, eşyanın sahibine iadesine karar vermiş ve karar kesinleşmiştir.  
-- Kesinleşen karar eşya sahibine tebliğ edilmiştir.  
-- Yapılan incelemede eşyanın serbest dolaşımda bulunduğu anlaşılmıştır.  
-Buna göre bu eşyaya ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Eşyaya, tebligat tarihinden itibaren otuz gün içinde gümrükçe onaylanmış bir işlem veya kullanım tayin edilerek işlemleri tamamlanır.  
-B) Eşya, kararın kesinleştiği tarihten itibaren yirmi gün içinde teslim alınır.  
-C) Eşya serbest dolaşımda bulunduğundan geçici depolanan eşya statüsüne tabi tutulmaz ve herhangi bir süreye bağlı olmaksızın teslim edilir.  
-D) Eşya, otuz gün içinde teslim alınmazsa kaçak eşya ambarına nakledilerek süresiz olarak muhafaza edilir.  
-E) Eşya, tebligat tarihinden itibaren otuz gün içinde teslim alınır.  
+A) Eşyaya, kararın kesinleşmesini müteakip ilgilisine yapılacak tebligat tarihinden itibaren otuz gün içinde gümrükçe onaylanmış bir işlem veya kullanım tayin edilerek işlemleri tamamlanır.  
+B) Eşya, kararın kesinleştiği tarihten itibaren otuz gün içinde teslim alınır.  
+C) Eşya, kararın kesinleşmesini müteakip ilgilisine yapılacak tebligat tarihinden itibaren yirmi gün içinde teslim alınır.  
+D) Eşya serbest dolaşımda bulunduğundan geçici depolanan eşya statüsüne tabi tutulmaz ve herhangi bir süreye bağlı olmaksızın teslim edilir.  
+E) Eşya, kararın kesinleşmesini müteakip ilgilisine yapılacak tebligat tarihinden itibaren otuz gün içinde teslim alınır.  
 
 **6-** Gümrük Yönetmeliği'ne göre süresi içinde gümrükçe onaylanmış bir işlem veya kullanım belirlenerek buna ilişkin işlemlerine başlanmayan eşyaya ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -76,19 +70,13 @@ C) Sanatsal, tarihi veya arkeolojik değeri olan ulusal hazinelerin korunması
 D) Çevrenin korunması  
 E) Fikri ve sınai mülkiyet haklarının korunması  
 
-**9-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin eşyanın gümrükçe onaylanmış işlem veya kullanımlara tabi tutulması ile yasaklama ve kısıtlamalara ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**9-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre Türk kara, hava ve deniz taşıtlarına karşı yasaklama ve kısıtlamalar koyan yabancı ülkelere ait eşya ve taşıtlara karşılık olmak üzere farklı tarifeler uygulamaya yetkili makam ile kamu düzeni gerekçesiyle gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması yasaklanan eşyanın transitine izin vermeye yetkili makam aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?
 
-I. Aksine hüküm bulunmadıkça bir eşya; niteliğine, miktarına, menşeine, yükleme veya varış ülkesine bakılmaksızın, belirlenmiş şartlar altında her zaman gümrükçe onaylanmış işlem veya kullanımlardan birine tabi tutulabilir.  
-II. Türk kara, hava ve deniz taşıtlarına karşı yasaklama ve kısıtlamalar koyan yabancı ülkelere ait eşya ve taşıtlara karşılık olmak üzere farklı tarifeler uygulamaya Müsteşarlık yetkilidir.  
-III. Kamu ahlakı gerekçesiyle gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması yasaklanan eşyanın transitine izin vermeye gümrük ve ticaret bölge müdürlükleri yetkilidir.  
-IV. Türkiye ile ticaret anlaşması bulunmayan yabancı ülkelere ait eşyaya karşılık olmak üzere yasaklama konulabilir; ancak bu ülkelere ait taşıtlara farklı işlem uygulanamaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve IV  
-C) I ve III  
-D) I, II ve III  
-E) I, III ve IV  
+A) Müsteşarlık – gümrük ve ticaret bölge müdürlükleri  
+B) Cumhurbaşkanı – Müsteşarlık  
+C) Cumhurbaşkanı – gümrük ve ticaret bölge müdürlükleri  
+D) Müsteşarlık – gümrük müdürlükleri  
+E) Cumhurbaşkanı – gümrük müdürlükleri  
 
 **10-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre üretildiği ülkeden başka bir ülke ürünü olduğu izlenimini uyandıran eşya ve belgelere ilişkin aşağıdaki ifadeler verilmiştir:
 
@@ -126,18 +114,13 @@ C) II ve IV
 D) I ve IV  
 E) I, III ve IV  
 
-**13-** 4458 sayılı Gümrük Kanunu'na göre, yurt dışından dönen bir yolcunun beraberinde, aynı tescilli markayı yetkisiz olarak taşıdığından şüphelenilen aşağıdaki eşyanın bulunduğu tespit edilmiştir:
+**13-** 4458 sayılı Gümrük Kanunu'na göre fikri ve sınai hakları ihlal eder mahiyetteki eşyanın alıkonulmasına veya gümrük işlemlerinin durdurulmasına ilişkin hükümler, bu hakları ihlal ettiğinden şüphe edilen aşağıdaki eşyadan hangisine uygulanır?
 
-- Yolcunun kendi kullanımına mahsus bir adet kol saati,  
-- Ticari mahiyette olmayan ve gümrük vergisi muafiyeti sınırları içinde kalan, yakınlarına hediye edilecek iki adet cüzdan,  
-- Satışa sunulmak üzere getirildiği anlaşılan, ticari miktardaki el çantaları.  
-Buna göre fikri ve sınai hakları ihlal eder mahiyetteki eşyanın alıkonulmasına veya gümrük işlemlerinin durdurulmasına ilişkin hükümler hangi eşya için uygulanabilir?  
-
-A) Kol saati, cüzdanlar ve el çantalarının tamamı için  
-B) Yalnızca el çantaları için  
-C) Yalnızca kol saati ve el çantaları için  
-D) Yalnızca cüzdanlar ve el çantaları için  
-E) Yalnızca kol saati ve cüzdanlar için  
+A) Yolcunun kendi kullanımına mahsus kişisel eşyası  
+B) Yolcu beraberinde satışa sunulmak üzere getirilen ticari miktardaki eşya  
+C) Ticari mahiyette olmayan ve gümrük vergisi muafiyeti sınırları içinde kalan hediyelik eşya  
+D) Hak sahibinin izni ile üretilmiş olup hak sahibinin rızası dışında bir gümrük işlemine tabi tutulan eşya  
+E) Hak sahibinin izni ile üretilmiş olup hak sahibinin onayladığından farklı şartlarda üretilen eşya  
 
 **14-** Gümrük Yönetmeliği'ne göre, 5846 sayılı Fikir ve Sanat Eserleri Kanunu hükümlerine göre tescil edilmiş, telif hakkı veya bağlantılı haklar veya tasarım hakkına konu eşyanın hak sahibinin veya bu hak sahibi tarafından üretim yapılan ülkede yetkilendirilen kişinin rızası dışında kopyalanan veya bu kopyaları içeren eşya aşağıdakilerden hangisidir?
 
@@ -258,26 +241,20 @@ D) Bir ayı aşan süre uzatım taleplerinde, talebin gerekçesinin belirtilmesi
 E) Taahhütlü posta yoluyla yapılan uzatma başvurularında, başvuru dilekçesinin postaya verildiği tarih esas alınır.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre Kanunda öngörülen yirmi ve kırk beş günlük süreler, ilgilinin doğrudan veya mutat haberleşme araçlarıyla, kanuni süre veya verilen ek sürenin bitiminden önce yapacağı yazılı başvurusu üzerine gümrük müdürlüklerince uzatılır. Bir ayı aşan süre uzatım taleplerinde talebin gerekçesinin belirtilmesi şarttır. Kayıtlı posta (taahhütlü veya APS) ya da kayıtlı kargo ile yapılan başvurularda dilekçenin postaya veya kargoya verildiği tarih esas alınır. Uzatma yetkisi bölge müdürlüklerine değil gümrük müdürlüklerine aittir; gümrük ve ticaret bölge müdürlükleri Yönetmelikte yasaklanan eşyanın transitine ve bazı eşyanın izinle antrepoya konulmasına izin vermek için yetkili kılınmıştır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 76)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre Kanunda öngörülen yirmi ve kırk beş günlük süreler, ilgilinin doğrudan veya mutat haberleşme araçlarıyla, kanuni süre veya verilen ek sürenin bitiminden önce yapacağı yazılı başvurusu üzerine gümrük müdürlüklerince uzatılır. Bir ayı aşan süre uzatım taleplerinde talebin gerekçesinin belirtilmesi şarttır. Kayıtlı posta (taahhütlü veya APS) ya da kayıtlı kargo ile yapılan başvurularda dilekçenin postaya veya kargoya verildiği tarih esas alınır. Uzatma yetkisi bölge müdürlüklerine değil gümrük müdürlüklerine aittir; gümrük ve ticaret bölge müdürlükleri ise Yönetmelikte, yasaklanan eşyanın transitine ve bazı eşyanın izinle antrepoya konulmasına izin vermek için yetkili kılınmıştır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 76)
 
 *Gümrük Yönetmeliği md. 85*
 
-**5-** Gümrük Yönetmeliği'ne göre kaçak zannıyla el konulan bir eşyaya ilişkin aşağıdaki bilgiler verilmiştir:
+**5-** Gümrük Yönetmeliği'ne göre kaçak zannıyla el konulan ve mahkemesince sahibine iadesine karar verilen eşyanın serbest dolaşımda bulunması hâlinde aşağıdakilerden hangisi uygulanır?
 
-- Eşya, bulunduğu yerde kaçak eşya ambarı olmadığından genel antrepoya konulmuştur.  
-- Mahkeme, eşyanın sahibine iadesine karar vermiş ve karar kesinleşmiştir.  
-- Kesinleşen karar eşya sahibine tebliğ edilmiştir.  
-- Yapılan incelemede eşyanın serbest dolaşımda bulunduğu anlaşılmıştır.  
-Buna göre bu eşyaya ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Eşyaya, tebligat tarihinden itibaren otuz gün içinde gümrükçe onaylanmış bir işlem veya kullanım tayin edilerek işlemleri tamamlanır.  
-B) Eşya, kararın kesinleştiği tarihten itibaren yirmi gün içinde teslim alınır.  
-C) Eşya serbest dolaşımda bulunduğundan geçici depolanan eşya statüsüne tabi tutulmaz ve herhangi bir süreye bağlı olmaksızın teslim edilir.  
-D) Eşya, otuz gün içinde teslim alınmazsa kaçak eşya ambarına nakledilerek süresiz olarak muhafaza edilir.  
-E) Eşya, tebligat tarihinden itibaren otuz gün içinde teslim alınır.  
+A) Eşyaya, kararın kesinleşmesini müteakip ilgilisine yapılacak tebligat tarihinden itibaren otuz gün içinde gümrükçe onaylanmış bir işlem veya kullanım tayin edilerek işlemleri tamamlanır.  
+B) Eşya, kararın kesinleştiği tarihten itibaren otuz gün içinde teslim alınır.  
+C) Eşya, kararın kesinleşmesini müteakip ilgilisine yapılacak tebligat tarihinden itibaren yirmi gün içinde teslim alınır.  
+D) Eşya serbest dolaşımda bulunduğundan geçici depolanan eşya statüsüne tabi tutulmaz ve herhangi bir süreye bağlı olmaksızın teslim edilir.  
+E) Eşya, kararın kesinleşmesini müteakip ilgilisine yapılacak tebligat tarihinden itibaren otuz gün içinde teslim alınır.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre kaçak zannıyla el konularak kaçak eşya ambarına, yoksa sırasıyla genel antrepo, geçici depolama yerleri veya gümrük idaresince uygun görülen yerlere konulan eşyanın mahkemesince sahiplerine iadesine karar verilirse, kararın kesinleşmesini müteakip eşya sahibine veya temsilcisine yapılan tebligat tarihinden itibaren eşya geçici depolanan eşya statüsüne tabi tutulur. Bu eşya serbest dolaşımda bulunmuyorsa otuz gün içinde gümrükçe onaylanmış bir işlem veya kullanım tayin edilerek işlemleri tamamlanır; serbest dolaşımda bulunuyorsa tebligat tarihinden itibaren otuz gün içinde teslim alınır. Bu süreler içinde işlemleri yapılmayan eşya tasfiye edilir. Vakadaki eşya serbest dolaşımda bulunduğundan ona gümrükçe onaylanmış işlem veya kullanım tayini gerekmez; otuz gün içinde teslim alınması gerekir. En güçlü çeldirici, serbest dolaşımda bulunmayan eşyaya ait olan otuz günlük işlem tamamlama süresidir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 85)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre kaçak zannıyla el konularak kaçak eşya ambarına, yoksa sırasıyla genel antrepo, geçici depolama yerleri veya gümrük idaresince uygun görülen yerlere konulan eşyanın mahkemesince sahiplerine iadesine karar verilirse, kararın kesinleşmesini müteakip eşya sahibine veya temsilcisine yapılan tebligat tarihinden itibaren eşya geçici depolanan eşya statüsüne tabi tutulur. Bu eşya serbest dolaşımda bulunmuyorsa otuz gün içinde gümrükçe onaylanmış bir işlem veya kullanım tayin edilerek işlemleri tamamlanır; serbest dolaşımda bulunuyorsa tebligat tarihinden itibaren otuz gün içinde teslim alınır. Bu süreler içinde işlemleri yapılmayan eşya tasfiye edilir. Serbest dolaşımdaki eşyaya gümrükçe onaylanmış işlem veya kullanım tayini gerekmez; en güçlü tuzak, serbest dolaşımda bulunmayan eşyaya ait olan otuz günlük işlem tamamlama süresidir. Süre kararın kesinleştiği tarihten değil, kesinleşen kararın tebliğinden başlar; yirmi gün ise Gümrük Kanunu'nda özet beyan kapsamında diğer yollarla gelen eşyaya gümrükçe onaylanmış işlem veya kullanım belirlenmesi için öngörülen süredir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 85; GK 46)
 
 *Gümrük Yönetmeliği md. 86*
 
@@ -320,22 +297,16 @@ E) Fikri ve sınai mülkiyet haklarının korunması
 
 *4458 sayılı Gümrük Kanunu md. 55; Gümrük Yönetmeliği md. 225*
 
-**9-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin eşyanın gümrükçe onaylanmış işlem veya kullanımlara tabi tutulması ile yasaklama ve kısıtlamalara ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**9-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre Türk kara, hava ve deniz taşıtlarına karşı yasaklama ve kısıtlamalar koyan yabancı ülkelere ait eşya ve taşıtlara karşılık olmak üzere farklı tarifeler uygulamaya yetkili makam ile kamu düzeni gerekçesiyle gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması yasaklanan eşyanın transitine izin vermeye yetkili makam aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?
 
-I. Aksine hüküm bulunmadıkça bir eşya; niteliğine, miktarına, menşeine, yükleme veya varış ülkesine bakılmaksızın, belirlenmiş şartlar altında her zaman gümrükçe onaylanmış işlem veya kullanımlardan birine tabi tutulabilir.  
-II. Türk kara, hava ve deniz taşıtlarına karşı yasaklama ve kısıtlamalar koyan yabancı ülkelere ait eşya ve taşıtlara karşılık olmak üzere farklı tarifeler uygulamaya Müsteşarlık yetkilidir.  
-III. Kamu ahlakı gerekçesiyle gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması yasaklanan eşyanın transitine izin vermeye gümrük ve ticaret bölge müdürlükleri yetkilidir.  
-IV. Türkiye ile ticaret anlaşması bulunmayan yabancı ülkelere ait eşyaya karşılık olmak üzere yasaklama konulabilir; ancak bu ülkelere ait taşıtlara farklı işlem uygulanamaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) II ve IV  
-C) I ve III  
-D) I, II ve III  
-E) I, III ve IV  
+A) Müsteşarlık – gümrük ve ticaret bölge müdürlükleri  
+B) Cumhurbaşkanı – Müsteşarlık  
+C) Cumhurbaşkanı – gümrük ve ticaret bölge müdürlükleri  
+D) Müsteşarlık – gümrük müdürlükleri  
+E) Cumhurbaşkanı – gümrük müdürlükleri  
 
 **Doğru Cevap:** C  
-**Gerekçe:** I doğrudur: Kanuna göre aksine hüküm bulunmadıkça eşya; niteliğine, miktarına, menşeine, yükleme veya varış ülkesine bakılmaksızın, belirlenmiş şartlar altında her zaman gümrükçe onaylanmış işlem veya kullanımlardan birine tabi tutulabilir. II yanlıştır: Türkiye ile ticaret, gümrük veya taşımacılık anlaşması bulunmayan, anlaşmaları süresinden önce tek taraflı hükümsüz bırakan ya da Türk kara, hava ve deniz taşıtlarına karşı yasaklama ve kısıtlama koyan yabancı ülkelere ait eşya ve taşıtlara karşılık olmak üzere önlem almaya Müsteşarlık değil Cumhurbaşkanı yetkilidir. III doğrudur: Yönetmeliğe göre kamu ahlakı gibi Kanunda sayılan gerekçelerle yasaklanan eşyanın transitine izin vermeye gümrük ve ticaret bölge müdürlükleri yetkilidir. IV yanlıştır: Karşılıklılık önlemi eşyayla sınırlı değildir; bu ülkelere ait taşıtlara da yasaklama, kısıtlama, farklı işlem veya farklı tarife uygulanabilir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 55; GY 225)
+**Gerekçe:** Gümrük Kanunu'na göre Türkiye ile ticaret, gümrük, taşımacılık anlaşması bulunmayan, imzalanmış anlaşmaları süresinden önce tek taraflı olarak hükümsüz bırakan veya Türk kara, hava ve deniz taşıtlarına karşı yasaklama ve kısıtlamalar koyan ya da bunlar hakkında farklı işlemler uygulayan yabancı ülkelere ait eşya ve taşıtlara, karşılık olmak üzere, yasaklama veya kısıtlamalar koymaya ve farklı işlemler veya farklı tarifeler uygulamaya Cumhurbaşkanı yetkilidir; kamu düzeni gibi gerekçelerle gümrükçe onaylanmış işlem veya kullanıma yasaklama ve kısıtlama koyma yetkisi de Cumhurbaşkanına aittir. Gümrük Yönetmeliği'ne göre bu gerekçelerle yasaklanan eşya, yanıltıcı menşe ibaresi taşıyan eşya ve kanun veya genel idari düzenleyici işlemlerle ithali yasaklanan eşyanın transitine izin vermeye gümrük ve ticaret bölge müdürlükleri yetkilidir. Müsteşarlık Kanunda geçici depolama sürelerini kısaltıp uzatabilen ve yanıltıcı menşe ibaresi taşıyan eşyanın yeniden ihracına izin verebilen makam olarak geçer; gümrük müdürlükleri ise gümrükçe onaylanmış işlem veya kullanım sürelerini yazılı başvuru üzerine uzatır. En güçlü tuzak birinci makamda Müsteşarlığı seçmektir: karşılıklılık önlemi, makamı en sık karıştırılan hükümdür. Bu nedenle doğru cevap C seçeneğidir. (MD GK 55; GY 225)
 
 *4458 sayılı Gümrük Kanunu md. 56; Gümrük Yönetmeliği md. 99*
 
@@ -390,21 +361,16 @@ E) I, III ve IV
 
 *4458 sayılı Gümrük Kanunu md. 57*
 
-**13-** 4458 sayılı Gümrük Kanunu'na göre, yurt dışından dönen bir yolcunun beraberinde, aynı tescilli markayı yetkisiz olarak taşıdığından şüphelenilen aşağıdaki eşyanın bulunduğu tespit edilmiştir:
+**13-** 4458 sayılı Gümrük Kanunu'na göre fikri ve sınai hakları ihlal eder mahiyetteki eşyanın alıkonulmasına veya gümrük işlemlerinin durdurulmasına ilişkin hükümler, bu hakları ihlal ettiğinden şüphe edilen aşağıdaki eşyadan hangisine uygulanır?
 
-- Yolcunun kendi kullanımına mahsus bir adet kol saati,  
-- Ticari mahiyette olmayan ve gümrük vergisi muafiyeti sınırları içinde kalan, yakınlarına hediye edilecek iki adet cüzdan,  
-- Satışa sunulmak üzere getirildiği anlaşılan, ticari miktardaki el çantaları.  
-Buna göre fikri ve sınai hakları ihlal eder mahiyetteki eşyanın alıkonulmasına veya gümrük işlemlerinin durdurulmasına ilişkin hükümler hangi eşya için uygulanabilir?  
-
-A) Kol saati, cüzdanlar ve el çantalarının tamamı için  
-B) Yalnızca el çantaları için  
-C) Yalnızca kol saati ve el çantaları için  
-D) Yalnızca cüzdanlar ve el çantaları için  
-E) Yalnızca kol saati ve cüzdanlar için  
+A) Yolcunun kendi kullanımına mahsus kişisel eşyası  
+B) Yolcu beraberinde satışa sunulmak üzere getirilen ticari miktardaki eşya  
+C) Ticari mahiyette olmayan ve gümrük vergisi muafiyeti sınırları içinde kalan hediyelik eşya  
+D) Hak sahibinin izni ile üretilmiş olup hak sahibinin rızası dışında bir gümrük işlemine tabi tutulan eşya  
+E) Hak sahibinin izni ile üretilmiş olup hak sahibinin onayladığından farklı şartlarda üretilen eşya  
 
 **Doğru Cevap:** B  
-**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre fikri ve sınai hakları ihlal eder mahiyetteki eşyanın alıkonulması veya gümrük işlemlerinin durdurulması hak sahibinin talebi üzerine, açık deliller varsa re'sen gümrük idarelerince yapılır. Ancak yolcuların kendi kullanımlarına mahsus kişisel eşyası ile ticari mahiyette olmayan ve gümrük vergisi muafiyeti sınırları içinde kalan hediyelik eşya için bu hükümler uygulanmaz. Vakada kol saati kişisel eşya, cüzdanlar ise muafiyet sınırındaki ticari olmayan hediyelik eşya olduğundan istisna kapsamındadır. Satışa sunulmak üzere getirilen ticari miktardaki el çantaları istisnaya girmez. En güçlü çeldirici cüzdanların da dahil edildiği seçenektir: hediyelik eşya, ticari mahiyette olmadığı ve muafiyet sınırını aşmadığı sürece hükmün dışındadır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 57)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre fikri ve sınai hakları ihlal eder mahiyetteki eşyanın alıkonulması veya gümrük işlemlerinin durdurulması hak sahibinin talebi üzerine, açık deliller varsa re'sen gümrük idarelerince yapılır. Ancak yolcuların kendi kullanımlarına mahsus kişisel eşyası ile ticari mahiyette olmayan ve gümrük vergisi muafiyeti sınırları içinde kalan hediyelik eşya için bu hükümler uygulanmaz. Aynı şekilde, hak sahibinin izni ile üretilmiş eşyanın hak sahibinin rızası dışında bir gümrük işlemine tabi tutulması, hak sahibinin onayladığından farklı şartlarda üretilmesi veya başka şartlarda bir marka taşıması hâlinde de eşya bu hükümlerin kapsamı dışında tutulur. Yolcu beraberinde gelse de satışa sunulmak üzere getirilen ticari miktardaki eşya bu istisnaların hiçbirine girmez; alıkoyma ve durdurma hükümleri bu eşyaya uygulanır. En güçlü tuzak hediyelik eşyadır: ticari mahiyette olmadığı ve muafiyet sınırını aşmadığı sürece kapsam dışıdır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 57)
 
 *Gümrük Yönetmeliği md. 100*
 
@@ -506,11 +472,11 @@ E) Marka ve etiketlerinin sökülmesi, eşyanın niteliklerinin değişmesi içi
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
+| Birebir / parafraz / çıkarım | 16 / 2 / 2 |
 | Olumsuz kök | 7 |
-| Önermeli | 3 (I ve III, I, II ve IV, I ve IV) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 12, TERSİNE 5, İSTİSNA 5, BAŞLANGIÇ 4, MAKAM 4, YAKIN-SAYI 3 |
+| Önermeli | 2 (I, II ve IV, I ve IV) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 12, TERSİNE 5, İSTİSNA 5, BAŞLANGIÇ 4, MAKAM 4, SAĞDUYU 4 |
 | İkiz eksen / ayna | 10, 13 / sahte-korsan |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 7 |

@@ -38,13 +38,13 @@ C) Sahil Güvenlik Komutanlığı İstihbarat Başkanlığı
 D) Kara Kuvvetleri Komutanlığı Harekât Başkanlığı  
 E) Deniz Kuvvetleri Komutanlığı  
 
-**5-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre aşağıdaki durum ve ikramiye talebini yapacak birim eşleştirmelerinden hangisi yanlıştır?
+**5-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre ikramiye talebinin yapılmasına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) İhbarın birden fazla birime yapılması – Operasyonu koordine eden birim  
-B) Kontrollü teslimat yakalaması – Kontrollü teslimata son verilen yerdeki birim  
-C) Olaya Ticaret Bakanlığı birimlerince el konulması – Müdahil gümrük idaresi  
-D) Müşterek operasyon – Operasyonu koordine eden birim  
-E) Olaya Kara Kuvvetleri Hudut Birliklerince el konulması – Tugay/Alay Komutanlıkları  
+A) İhbarın birden fazla birime yapıldığı durumlarda ikramiye talebi, operasyonu koordine eden birim tarafından yapılır.  
+B) Müşterek operasyonlarda el koyma ikramiyesine hak kazanan listesi, personelin bağlı olduğu birim amiri tarafından onaylanır.  
+C) Olaya Ticaret Bakanlığı birimlerince el konulmuşsa ikramiye talebi, müdahil gümrük idaresince merkez birime veya yetkilendirilen birime yapılır.  
+D) Müşterek operasyonlarda ikramiye talebi, operasyonu koordine eden birim tarafından yapılır.  
+E) Olaya Kara Kuvvetleri Hudut Birliklerince el konulmuşsa ikramiye talebi, Tugay/Alay Komutanlıklarınca Kara Kuvvetleri Komutanlığına veya yetkilendirilen birime yapılır.  
 
 **6-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre ihbarın birden fazla birime yapılmış olması veya birden fazla muhbirin bulunması durumunda, muhbir ikramiyesinden yararlanacak olanlar aşağıdakilerden hangisi tarafından belirlenir?
 
@@ -78,18 +78,13 @@ C) İkramiye talep dosyasında sahipli yakalamalarda analiz raporunun onaylı ö
 D) Yakalanan kaçak akaryakıtın sahipli olmaması hâlinde ihbar edenlere ve el koyma ikramiyesine hak kazananlara ödenecek ikramiyeler yüzde elli eksik ödenir.  
 E) İkramiye talep dosyasında, el koyma işlemini gerçekleştiren birimin amiri tarafından onaylanan değer tespit tutanağı bulunur.  
 
-**10-** Emniyet ekiplerince herhangi bir ihbar olmaksızın durdurulan bir tankerde sahibi belli kaçak akaryakıt yakalanmış ve şüpheli hakkında kamu davası açılmıştır. Olayla ilgili bilgiler şöyledir:
+**10-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre bir ihbar olmadan sahipli yakalanan kaçak akaryakıtta, kamu davasının açılmasını takip eden üç ay içinde el koyma ikramiyesine hak kazanan kamu görevlilerine belirlenen değerin yüzde kaçı tutarında ikramiye ödenir?
 
-- Yönetmelik hükümlerine göre belirlenen ikramiyeye esas değer 400.000 TL'dir.  
-- Mahkûmiyet hükmü veya müsadere kararı henüz kesinleşmemiştir.  
-- İkramiye tutarı bakımından alt veya üst sınır engeli bulunmamaktadır.  
-5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre, kamu davasının açılmasını takip eden üç ay içinde el koyma ikramiyesine hak kazananlara ödenecek toplam ikramiye kaç TL'dir?  
-
-A) 20.000  
-B) 40.000  
-C) 60.000  
-D) 80.000  
-E) 100.000  
+A) %5  
+B) %10  
+C) %15  
+D) %20  
+E) %25  
 
 **11-** Gümrük muhafaza ekiplerince ihbarsız olarak yapılan bir yakalamada, sahibi belli olan giriş kaçağı eşyaya el konulmuştur. Olayla ilgili bilgiler şöyledir:
 
@@ -158,19 +153,13 @@ C) I ve III
 D) I, III ve IV  
 E) I, II, III ve IV  
 
-**17-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre uyuşturucu madde ve uyuşturucu madde elde etmek amacıyla ekilen bitki yakalamalarında ikramiye tutarlarının belirlenmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**17-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre uyuşturucu madde ve uyuşturucu madde elde etmek amacıyla ekilen bitki yakalamalarında ikramiye tutarlarının belirlenmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Uyuşturucu maddenin birim miktarının belirlenmesinde, maddenin saf haldeki miktarı esas alınır.  
-II. Yakalanan uyuşturucu madde birim kabul edilen miktardan az veya fazla ise yakalanan miktarın birim kabul edilen miktara oranı üzerinden hesaplama yapılır.  
-III. Bitkinin geniş bir alanda seyrek bir şekilde ekilmesi halinde ikramiye ödemesi, bitkinin fiilen ekili bulunduğu alanın tamamının yüz ölçümü üzerinden yapılır.  
-IV. Bitki yakalamaları ile uyuşturucu madde yakalamalarının birlikte gerçekleşmesi halinde, ikramiye ödemeleri yönüyle tek bir olay olarak değerlendirilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) I ve II  
-C) II ve IV  
-D) I, II ve III  
-E) I, II ve IV  
+A) Uyuşturucu maddenin birim miktarının belirlenmesinde, maddenin saf hâldeki miktarı esas alınır.  
+B) Bitki yakalamaları ile uyuşturucu madde yakalamalarının birlikte gerçekleşmesi hâlinde, ikramiye ödemeleri yönüyle tek bir olay olarak değerlendirilir.  
+C) Yakalanan uyuşturucu madde birim kabul edilen miktardan az veya fazla ise yakalanan miktarın birim kabul edilen miktara oranı üzerinden hesaplama yapılır.  
+D) Bitkinin geniş bir alanda seyrek bir şekilde ekilmesi hâlinde ikramiye ödemesi, bir metre kareye düşen ortalama bitki sayısı altı kök olacak şekilde hesaplanan alan değeri üzerinden yapılır.  
+E) Bitki yakalamalarında olay tarihine göre ekili alanın yüz ölçümü esas alınarak Cumhurbaşkanınca tespit edilecek sabit rakamın memur aylık katsayısıyla çarpımı sonucu bulunacak değer esas alınır.  
 
 **18-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre, Cumhurbaşkanınca belirlenecek birim miktarını aşmayan uyuşturucu veya uyarıcı madde yakalamalarında örgütlü veya bireysel uyuşturucu ticareti suçlarına yönelik olarak yapılan ikramiye ödemeleri nasıl ve ne zaman yapılır?
 
@@ -256,18 +245,18 @@ E) Deniz Kuvvetleri Komutanlığı
 **Doğru Cevap:** E  
 **Gerekçe:** Yönetmelikte merkez birimi; Gümrükler Muhafaza Genel Müdürlüğü, Jandarma Genel Komutanlığı Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı, Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı, Emniyet Genel Müdürlüğü Narkotik Suçlarla Mücadele Daire Başkanlığı, Sahil Güvenlik Komutanlığı İstihbarat Başkanlığı ve Kara Kuvvetleri Komutanlığı Harekât Başkanlığı olarak sayılmıştır. Deniz Kuvvetleri Komutanlığı bu listede yer almaz; yalnızca 'birim' tanımında, yardım talep edilmesi hâlinde kaçakçılıkla mücadele görevi verilen unsurlarıyla geçer. Tuzak buradadır: suçun aydınlatılmasını sağlayan unsurları birim sayılan kurumlar ile merkez birimi listesi aynı değildir. Ayrıca Sahil Güvenlik Komutanlığında merkez birimi İstihbarat Başkanlığı, Kara Kuvvetleri Komutanlığında ise Harekât Başkanlığıdır. Bu nedenle doğru cevap E seçeneğidir. (MD 4)
 
-*İkramiye Ödenmesi Hakkında Yönetmelik md. 5-12*
+*İkramiye Ödenmesi Hakkında Yönetmelik md. 5-11*
 
-**5-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre aşağıdaki durum ve ikramiye talebini yapacak birim eşleştirmelerinden hangisi yanlıştır?
+**5-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre ikramiye talebinin yapılmasına ilişkin aşağıdakilerden hangisi yanlıştır?
 
-A) İhbarın birden fazla birime yapılması – Operasyonu koordine eden birim  
-B) Kontrollü teslimat yakalaması – Kontrollü teslimata son verilen yerdeki birim  
-C) Olaya Ticaret Bakanlığı birimlerince el konulması – Müdahil gümrük idaresi  
-D) Müşterek operasyon – Operasyonu koordine eden birim  
-E) Olaya Kara Kuvvetleri Hudut Birliklerince el konulması – Tugay/Alay Komutanlıkları  
+A) İhbarın birden fazla birime yapıldığı durumlarda ikramiye talebi, operasyonu koordine eden birim tarafından yapılır.  
+B) Müşterek operasyonlarda el koyma ikramiyesine hak kazanan listesi, personelin bağlı olduğu birim amiri tarafından onaylanır.  
+C) Olaya Ticaret Bakanlığı birimlerince el konulmuşsa ikramiye talebi, müdahil gümrük idaresince merkez birime veya yetkilendirilen birime yapılır.  
+D) Müşterek operasyonlarda ikramiye talebi, operasyonu koordine eden birim tarafından yapılır.  
+E) Olaya Kara Kuvvetleri Hudut Birliklerince el konulmuşsa ikramiye talebi, Tugay/Alay Komutanlıklarınca Kara Kuvvetleri Komutanlığına veya yetkilendirilen birime yapılır.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Yönetmeliğe göre ikramiye talebini yapacak birim olayın niteliğine göre değişir. Müşterek operasyonlarda talep, operasyonu yürüten asli birim tarafından yapılır; operasyonu koordine eden birim ise ihbarın birden fazla birime yapıldığı durumlarda talepte bulunur. Kontrollü teslimat yakalamalarında talep, kontrollü teslimata son verilen yerdeki birim tarafından yapılır. Olaya Ticaret Bakanlığı birimlerince el konulmuşsa talep müdahil gümrük idaresince, Kara Kuvvetleri Hudut Birliklerince el konulmuşsa Tugay/Alay Komutanlıklarınca yapılır. Yanlış eşleştirme, ihbarın birden fazla birime yapıldığı hâle ait 'koordine eden birim' ölçütünün müşterek operasyona taşınmasıdır. Bu nedenle doğru cevap D seçeneğidir. (MD 5-12)
+**Gerekçe:** Yönetmeliğe göre ikramiye talepleri gerekli belgelerden oluşan dosya ile birlikte yazılı olarak yapılır. Olaya Ticaret Bakanlığı birimlerince el konulmuşsa talep müdahil gümrük idaresince merkez birime veya yetkilendirilen birime, Kara Kuvvetleri Hudut Birliklerince el konulmuşsa Tugay/Alay Komutanlıklarınca Kara Kuvvetleri Komutanlığına veya yetkilendirilen birime yapılır. Müşterek operasyonlarda ikramiye talebi, operasyonu yürüten asli birim tarafından yapılır; Ek-1'e göre hazırlanan el koyma ikramiyesine hak kazanan listesi ise personelin bağlı olduğu birim amiri tarafından onaylanır. Operasyonu koordine eden birim, ihbarın birden fazla birime yapıldığı durumlarda talepte bulunan birimdir. Yanlış ifade, çoklu ihbara ait 'koordine eden birim' ölçütünün müşterek operasyona taşınmasıyla kurulmuştur. En güçlü çeldirici çoklu ihbar hâlini anlatan ifadedir: aynı 'koordine eden birim' ibaresini taşıdığı için yanlış sanılabilir, oysa metne birebir uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD 5-11)
 
 *İkramiye Ödenmesi Hakkında Yönetmelik md. 4, 11, 15*
 
@@ -323,21 +312,16 @@ E) İkramiye talep dosyasında, el koyma işlemini gerçekleştiren birimin amir
 
 *İkramiye Ödenmesi Hakkında Yönetmelik md. 15, 19*
 
-**10-** Emniyet ekiplerince herhangi bir ihbar olmaksızın durdurulan bir tankerde sahibi belli kaçak akaryakıt yakalanmış ve şüpheli hakkında kamu davası açılmıştır. Olayla ilgili bilgiler şöyledir:
+**10-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre bir ihbar olmadan sahipli yakalanan kaçak akaryakıtta, kamu davasının açılmasını takip eden üç ay içinde el koyma ikramiyesine hak kazanan kamu görevlilerine belirlenen değerin yüzde kaçı tutarında ikramiye ödenir?
 
-- Yönetmelik hükümlerine göre belirlenen ikramiyeye esas değer 400.000 TL'dir.  
-- Mahkûmiyet hükmü veya müsadere kararı henüz kesinleşmemiştir.  
-- İkramiye tutarı bakımından alt veya üst sınır engeli bulunmamaktadır.  
-5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre, kamu davasının açılmasını takip eden üç ay içinde el koyma ikramiyesine hak kazananlara ödenecek toplam ikramiye kaç TL'dir?  
-
-A) 20.000  
-B) 40.000  
-C) 60.000  
-D) 80.000  
-E) 100.000  
+A) %5  
+B) %10  
+C) %15  
+D) %20  
+E) %25  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Yönetmeliğe göre bir ihbar olmadan kaçak akaryakıt sahipli yakalanmışsa, belirlenen değerin yüzde onu tutarında ikramiye kamu davasının açılmasını takip eden üç ay içinde el koyma ikramiyesine hak kazanan kamu görevlilerine ödenir: 400.000 × %10 = 40.000 TL. Mahkûmiyet hükmünün veya müsadere kararının kesinleşmesini takip eden üç ay içinde ayrıca yüzde on beş tutarında ilave ikramiye ödenecektir; karar henüz kesinleşmediği için bu dilim hesaba girmez. Vakadaki tuzak genel kuraldır: ihbarsız yakalama olaylarında ikramiyenin tamamı el koyma ikramiyesine hak kazananlara ödenir. Kaçak akaryakıtta ise ihbarsız sahipli yakalamada el koyanlara ödenecek oran doğrudan yüzde on olarak belirlenmiştir; ihbarlı olayda ihbar edene ödenen yüzde onluk pay ihbarsız olayda el koyanlara eklenmez, bu yüzden 80.000 TL hatalıdır. 20.000 TL yalnızca sahipsiz akaryakıtta uygulanan yüzde elli eksik ödeme kuralına dayanır. Bu nedenle doğru cevap B seçeneğidir. (MD 15, 19)
+**Gerekçe:** Yönetmeliğe göre bir ihbar olmadan kaçak akaryakıt sahipli yakalanmışsa, belirlenen değerin yüzde onu tutarında ikramiye kamu davasının açılmasını takip eden üç ay içinde el koyma ikramiyesine hak kazanan kamu görevlilerine ödenir; mahkûmiyet hükmünün veya müsadere kararının kesinleşmesini takip eden üç ay içinde ise toplamın yüzde on beşi tutarında ilave ikramiye ödenir. Sorudaki tuzak genel kuraldır: ihbarsız yakalama olaylarında ikramiyenin tamamı el koyma ikramiyesine hak kazananlara ödenir. Kaçak akaryakıtta ise ihbarsız sahipli yakalamada el koyanlara ödenecek oran doğrudan yüzde on olarak belirlenmiştir; ihbarlı olayda ihbar edene ayrılan yüzde onluk pay ihbarsız olayda el koyanlara eklenmez, bu yüzden yüzde yirmi hatalıdır. Yüzde on beş kesinleşmeyi takip eden ilave ikramiyenin, yüzde yirmi beş sahipli silah-mühimmatta kamu davasının açılmasını takip eden dilimin oranıdır; yüzde beş ise sahipsiz akaryakıtta uygulanan yüzde elli eksik ödeme kuralının sonucudur. Bu nedenle doğru cevap B seçeneğidir. (MD 15, 19)
 
 *İkramiye Ödenmesi Hakkında Yönetmelik md. 15, 17, 19*
 
@@ -438,22 +422,16 @@ E) I, II, III ve IV
 
 *İkramiye Ödenmesi Hakkında Yönetmelik md. 17*
 
-**17-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre uyuşturucu madde ve uyuşturucu madde elde etmek amacıyla ekilen bitki yakalamalarında ikramiye tutarlarının belirlenmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**17-** 5607 sayılı Kaçakçılıkla Mücadele Kanununa Göre İkramiye Ödenmesi Hakkında Yönetmelik'e göre uyuşturucu madde ve uyuşturucu madde elde etmek amacıyla ekilen bitki yakalamalarında ikramiye tutarlarının belirlenmesine ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Uyuşturucu maddenin birim miktarının belirlenmesinde, maddenin saf haldeki miktarı esas alınır.  
-II. Yakalanan uyuşturucu madde birim kabul edilen miktardan az veya fazla ise yakalanan miktarın birim kabul edilen miktara oranı üzerinden hesaplama yapılır.  
-III. Bitkinin geniş bir alanda seyrek bir şekilde ekilmesi halinde ikramiye ödemesi, bitkinin fiilen ekili bulunduğu alanın tamamının yüz ölçümü üzerinden yapılır.  
-IV. Bitki yakalamaları ile uyuşturucu madde yakalamalarının birlikte gerçekleşmesi halinde, ikramiye ödemeleri yönüyle tek bir olay olarak değerlendirilir.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve III  
-B) I ve II  
-C) II ve IV  
-D) I, II ve III  
-E) I, II ve IV  
+A) Uyuşturucu maddenin birim miktarının belirlenmesinde, maddenin saf hâldeki miktarı esas alınır.  
+B) Bitki yakalamaları ile uyuşturucu madde yakalamalarının birlikte gerçekleşmesi hâlinde, ikramiye ödemeleri yönüyle tek bir olay olarak değerlendirilir.  
+C) Yakalanan uyuşturucu madde birim kabul edilen miktardan az veya fazla ise yakalanan miktarın birim kabul edilen miktara oranı üzerinden hesaplama yapılır.  
+D) Bitkinin geniş bir alanda seyrek bir şekilde ekilmesi hâlinde ikramiye ödemesi, bir metre kareye düşen ortalama bitki sayısı altı kök olacak şekilde hesaplanan alan değeri üzerinden yapılır.  
+E) Bitki yakalamalarında olay tarihine göre ekili alanın yüz ölçümü esas alınarak Cumhurbaşkanınca tespit edilecek sabit rakamın memur aylık katsayısıyla çarpımı sonucu bulunacak değer esas alınır.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Yönetmeliğe göre uyuşturucu madde yakalamalarında ikramiye tutarı, olay tarihine göre her türlü uyuşturucu maddenin birim miktarı için Cumhurbaşkanınca tespit edilecek sabit rakamın memur aylık katsayısı ile çarpımıyla bulunan değer esas alınarak belirlenir. Birim miktarın belirlenmesinde maddenin saf hâldeki miktarı esas alınır (I doğru); yakalanan madde birim kabul edilen miktardan az veya fazla ise yakalanan miktarın birim miktara oranı üzerinden hesaplama yapılır (II doğru). Bitki yakalamalarında kural olarak ekili alanın yüz ölçümü esas alınır; ancak bitki geniş bir alanda seyrek bir şekilde veya başka bitkilerle birlikte sayılabilecek miktarda ekilmişse ödeme, fiilî alanın tamamı üzerinden değil, bir metre kareye düşen ortalama bitki sayısı altı kök olacak şekilde hesaplanan alan değeri üzerinden yapılır (III yanlış). Bitki ve uyuşturucu madde yakalamalarının birlikte gerçekleşmesi hâlinde her suç unsuru eşya ikramiye ödemeleri yönüyle farklı bir olay olarak değerlendirilir (IV yanlış). Bu nedenle doğru cevap B seçeneğidir. (MD 17)
+**Gerekçe:** Yönetmeliğe göre uyuşturucu madde yakalamalarında birim miktarın belirlenmesinde maddenin saf hâldeki miktarı esas alınır; yakalanan madde birim kabul edilen miktardan az veya fazla ise yakalanan miktarın birim miktara oranı üzerinden hesaplama yapılır. Bitki yakalamalarında olay tarihine göre ekili alanın yüz ölçümü esas alınarak Cumhurbaşkanınca tespit edilecek sabit rakamın memur aylık katsayısıyla çarpımı sonucu bulunacak değer esas alınır; bitki geniş bir alanda seyrek bir şekilde veya başka bitkilerle birlikte sayılabilecek miktarda ekilmişse bir metre kareye düşen ortalama bitki sayısı altı kök olacak şekilde hesaplanan alan değeri üzerinden ödeme yapılır. Bitki yakalamaları ile uyuşturucu madde yakalamalarının birlikte gerçekleşmesi hâlinde ise her suç unsuru eşya, ikramiye ödemeleri yönüyle farklı bir olay olarak değerlendirilir; yanlış ifade 'farklı bir olay' yerine 'tek bir olay' denilerek kurulmuştur. En güçlü çeldirici seyrek ekimdeki altı kök hesabıdır: alışılmadık göründüğü için yanlış sanılabilir, oysa metne birebir uygundur. Bu nedenle doğru cevap B seçeneğidir. (MD 17)
 
 *İkramiye Ödenmesi Hakkında Yönetmelik md. 19; 5607 sayılı Kanun md. 23*
 
@@ -498,11 +476,11 @@ E) Milli Savunma Bakanlığının oluşturacağı, en az üç kişiden oluşan b
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 4 / 2 |
-| Olumsuz kök | 6 |
-| Önermeli | 3 (I, III ve IV, I ve III, I ve II) |
-| Vaka, uygulama, hesap | 2 |
-| Tuzaklar | KOMŞU 17, MAKAM 6, TERİM 3, LİSTE-DIŞI 3, SAĞDUYU 3, İSTİSNA 3 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (I, III ve IV, I ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 17, MAKAM 6, TERİM 3, LİSTE-DIŞI 3, SAĞDUYU 3, YAKIN-SAYI 3 |
 | İkiz eksen / ayna | — / A: memur katsayısının tarihi (olay başına üst sınır ↔ talep dosyası alt sınırı), B: ihbarın birden fazla birime yapılması (talebi yapan birim ↔ muhbirleri belirleyen birim) |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 1 |

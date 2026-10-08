@@ -60,19 +60,13 @@ C) Ticari nitelik arz eden eşya – Gümrük beyannamesi düzenlenmesi
 D) Gazete, kitap, broşür ile periyodik dergiler – Gümrük işlemlerinin Müsteşarlıkça belirlenmesi  
 E) Dahilde işleme, geçici ithalat veya geri gelen eşya rejiminden faydalanmak üzere gelen eşya – Sözlü beyan formu düzenlenmesi  
 
-**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin posta yoluyla gelen ve gönderilen eşyanın beyanı ile beyandaki farklılıklara ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre posta yoluyla gelen ve gönderilen eşyanın beyanı ile beyandaki farklılıklara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Ticari mahiyette olmayan eşyanın gümrük idaresine sunulması sırasında ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmünde olup ayrıca beyanname aranmaz.  
-II. Posta yolu ile gönderilen ticari nitelikte olmayan eşyaya ilişkin Déclaration en Douane'larda kayıtlı bilgilere nazaran tespit edilen farklılıklardan dolayı ceza aranmaz.  
-III. İhracatta ticari eşyanın beyanı ile muayenesi arasında farklılık bulunması hâlinde, duruma bakılmaksızın yalnızca kaçakçılıkla mücadele mevzuatı uyarınca işlem yapılır.  
-IV. Posta yolu ile gelen ticari nitelikteki eşyaya ilişkin beyanın kontrolü sonucunda tespit edilen fark ve aykırılıklardan dolayı da ceza aranmaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) Yalnız II  
-C) I ve IV  
-D) I, II ve III  
-E) I, II, III ve IV  
+A) Posta yolu ile gelen ticari nitelikteki eşyaya ilişkin beyanın kontrolü sonucunda tespit edilen fark ve aykırılıklardan dolayı ceza aranmaz.  
+B) Posta yoluyla gelen veya gönderilecek olan ticari mahiyetteki eşya, Kanunun gümrük beyanına ilişkin genel hükümleri uyarınca gümrük idarelerine beyan edilir.  
+C) Ticari mahiyette olmayan eşyanın gümrük idaresine sunulması sırasında ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmünde olup ayrıca beyanname aranmaz.  
+D) Posta yolu ile gelen ve ticari nitelikte olmayan eşyaya ilişkin Déclaration en Douane'larda kayıtlı bilgilere nazaran tespit edilen farklılıklardan dolayı ceza aranmaz.  
+E) İhracatta ticari eşyanın beyanı ile muayenesi arasında farklılık bulunması hâlinde duruma göre gümrük veya kaçakçılıkla mücadele mevzuatı uyarınca işlem yapılır.  
 
 **8-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre "bir kişiden diğer bir kişiye gönderilen kişisel yazılı mesaj, kartpostal ile herhangi bir ticari değer taşımayan basılı materyal şeklindeki gönderiler" şeklinde tanımlanan kavram aşağıdakilerden hangisidir?
 
@@ -98,19 +92,13 @@ C) Operatörler, basitleştirilmiş gümrük beyannamesi ile beyan edilen eşya 
 D) Normal usulde detaylı beyan ile serbest dolaşıma giren eşyada dolaylı temsil yetkisiyle yapılan işlemlerin ücretinin belirlenmesinde Asgari Ücret Tarifesine İlişkin Tebliğ hükümleri esas alınır.  
 E) Basitleştirilmiş gümrük beyannamesinde beyan edilen gönderilerin tahakkuk ettirilen gümrük vergileri operatör tarafından tahsil edilebilir.  
 
-**11-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatör yetkisi için yapılacak başvuru ve başvurunun değerlendirilmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**11-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre "grup firması" deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Başvuru, yetki kapsamı işlemlerin yapılacağı gümrük müdürlüğünün bağlı olduğu Gümrük ve Dış Ticaret Bölge Müdürlüğüne yapılır.  
-II. Başvurunun eksiksiz yapıldığının anlaşılması hâlinde gerekli şartların sağlanıp sağlanmadığı, gümrük müdürlüğünce oluşturulacak bir heyet marifetiyle yerinde tespit edilir.  
-III. Talep, Bakanlıkça on beş gün içinde karara bağlanır.  
-IV. Posta idaresi de başvurusunda adli sicil belgesi ve teminat mektubu ibraz eder.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) Yalnız I  
-B) I ve IV  
-C) I ve III  
-D) II ve III  
-E) I, II ve III  
+A) Ana ortaklığın doğrudan kendisi veya diğer grup firmaları ya da iştirakleri vasıtasıyla; sermaye ve yönetim ilişkileri çerçevesinde sermayesinin yüzde onundan fazlasına veya oy hakkının yüzde onundan fazlasına sahip olduğu işletme  
+B) Hava yolu ve/veya kara yolu ile hızlı kargo taşımacılığı kapsamındaki gönderilerin gümrük beyanı dahil tüm gümrük işlemlerini dolaylı temsil yoluyla yapmaya yetkili tüzel kişi  
+C) Ana ortaklığın doğrudan kendisi veya diğer grup firmaları ya da iştirakleri vasıtasıyla; sermaye ve yönetim ilişkileri çerçevesinde asgari %50 oranında hisseye, oy hakkına, yönetim kurulu üyelerinin en az yarısını seçme hakkına veya bu üyelerin en az yarısına sahip olduğu işletme  
+D) Gerçek ve tüzel kişiler ile hukuken tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat uyarınca hukuki tasarruflar yapma yetkisini haiz kişiler ortaklığı  
+E) Geçici depolama yeri işleticisi olmayan operatörle yaptığı sözleşme uyarınca yetki kapsamında kullanılacak geçici depolama yerini işleten işletme  
 
 **12-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre yurt dışından gelen gönderilerin otomatik barkod okuyucu ve X-ray kontrolünden geçirildikten sonra otomatik olarak ayrıldığı kategoriler arasında aşağıdakilerden hangisi yer almaz?
 
@@ -120,19 +108,13 @@ C) Basitleştirilmiş gümrük beyannamesine konu edilebilecek kapsamda gelen ve
 D) Basitleştirilmiş gümrük beyannamesine konu edilebilecek kapsamın dışında kalan gönderiler  
 E) Gümrükçe muayeneye tabi tutulacak doküman  
 
-**13-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre hızlı kargo operatörü (X) A.Ş.'nin aynı gün yurt dışına göndereceği ve ihracat rejimine konu edilecek dört gönderiye ilişkin bilgiler şöyledir:
+**13-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre posta ve hızlı kargo taşımacılığı kapsamında ihracat rejimine konu eşyanın beyanının bu Tebliğ hükümleri çerçevesinde operatör tarafından yapılabilmesi için eşyada aranan miktar ve değer sınırı aşağıdakilerden hangisidir?
 
-- 1 numaralı gönderi: brüt 450 kilogram, değeri 28.000 Avro  
-- 2 numaralı gönderi: brüt 640 kilogram, değeri 12.000 Avro  
-- 3 numaralı gönderi: brüt 120 kilogram, değeri 31.500 Avro  
-- 4 numaralı gönderi: brüt 600 kilogram, değeri 30.000 Avro  
-Buna göre hangi gönderilerin beyanı bu Tebliğ hükümleri çerçevesinde operatör tarafından yapılabilir?  
-
-A) 1 ve 4  
-B) Yalnız 1  
-C) 1, 2 ve 4  
-D) 1, 3 ve 4  
-E) 1, 2, 3 ve 4  
+A) Miktarının brüt 600 kilogramı ve değerinin 30.000 Avro'yu geçmemesi  
+B) Miktarının brüt 600 kilogramı veya değerinin 30.000 Avro'yu geçmemesi  
+C) Ağırlığına bakılmaksızın değerinin 30.000 Avro'yu geçmemesi  
+D) Değerine bakılmaksızın miktarının brüt 600 kilogramı geçmemesi  
+E) Ağırlığına bakılmaksızın değerinin 1.500 Avro'yu geçmemesi  
 
 **14-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre basitleştirilmiş gümrük beyannamesiyle beyan edilen ve aynı gerçek kişi adına bir takvim ayında en fazla beş taşıma senedi sınırına tabi tutulan eşyada bu sınırın aşılması hâlinde, aşan gönderilere ilişkin aşağıdakilerden hangisi doğrudur?
 
@@ -158,9 +140,7 @@ C) Basitleştirilmiş gümrük beyannamesi içeriği birden fazla taşıma sened
 D) Müeyyidelerin uygulanmasında posta hizmetlerine ilişkin uluslararası yükümlülükler dikkate alınır.  
 E) Tebliğe aykırılık nedeniyle uygulanacak müeyyide, basitleştirilmiş gümrük beyanı kapsamı her bir taşıma senedi bazında ayrı değerlendirilir.  
 
-**17-** Yurt dışına çıkış yapan yolcu (A)'nın IMEI numarası Türkiye'de kayıtlı olan cep telefonu yurt dışında kalmıştır. Telefon, Kararda öngörülen üç aylık süre içinde hızlı kargo ile Türkiye'ye geri gönderilmiş ve IMEI numarasının kayıtlı olduğu yapılan sorgulamayla teyit edilmiştir.
-
-2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar" kapsamında posta ve hızlı kargo taşımacılığı yoluyla gelen eşyaya ilişkin 2022/9 sayılı Genelge'ye göre bu telefona ilişkin aşağıdakilerden hangisi doğrudur?  
+**17-** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar" kapsamında posta ve hızlı kargo taşımacılığı yoluyla gelen eşyaya ilişkin 2022/9 sayılı Genelge'ye göre, yurt dışına giden yolcunun IMEI numarası Türkiye'de kayıtlı olan ve yurt dışında kalan cep telefonunun Kararda belirtilen üç aylık süre içinde posta veya hızlı kargo yoluyla geri gönderilmesi ve IMEI kaydının yapılan sorgulamayla teyit edilmesi hâlinde aşağıdakilerden hangisi uygulanır?
 
 A) Cep telefonunun posta veya hızlı kargo yoluyla getirilmesi hiçbir surette mümkün olmadığından telefon mahrecine iade edilir.  
 B) Telefon muafen teslim edilir; basitleştirilmiş gümrük beyannamesinde YLC0 muafiyet kodu kullanılır.  
@@ -266,7 +246,7 @@ D) I, II ve IV
 E) II, III ve IV  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği'ne göre posta kolileri, gümrük işlemlerinin yapılacağı posta idarelerinde sıra numarası izleyen bir listeyle gümrüğe beyan olunur. Posta idareleri gelen kolilere ait listeleri vakit geçirmeden ve kolilerin birikmesini beklemeden düzenler ve iki nüshasını imza karşılığında gümrük idaresine verir; I'deki 'bir nüsha' bu nedenle yanlıştır. Listeler alınan her posta için ayrı ayrı düzenlenebileceği gibi bir günde gelen bütün koliler için tek liste olarak da düzenlenebilir (II doğru). Listeler posta idaresince değil gümrük idaresi tarafından sıra numarasına göre saklanır (III yanlış). Listelerde gösterilecek hususların ilki her yılbaşından itibaren teselsül ettirilen sıra numarasıdır (IV doğru). En güçlü çeldirici III'tür: listeyi düzenleyen posta idaresi olduğu için saklayanın da o olduğu sanılır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 455, 456)
+**Gerekçe:** Gümrük Yönetmeliği'ne göre posta kolileri, gümrük işlemlerinin yapılacağı posta idarelerinde sıra numarası izleyen bir listeyle gümrüğe beyan olunur. Posta idareleri gelen kolilere ait listeleri vakit geçirmeden ve kolilerin birikmesini beklemeden düzenler ve iki nüshasını imza karşılığında gümrük idaresine verir; I'deki 'bir nüsha' bu nedenle yanlıştır. Listeler alınan her posta için ayrı ayrı düzenlenebileceği gibi bir günde gelen bütün koliler için tek liste olarak da düzenlenebilir (II doğru). Listeler posta idaresince değil gümrük idaresi tarafından sıra numarasına göre saklanır (III yanlış). Listelerde gösterilecek hususların ilki her yılbaşından itibaren teselsül ettirilen sıra numarasıdır (IV doğru). En güçlü tuzak III. önermedir: listeyi düzenleyen posta idaresi olduğu için saklayanın da o olduğu sanılır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 455, 456)
 
 *Gümrük Yönetmeliği md. 468*
 
@@ -296,22 +276,16 @@ E) Dahilde işleme, geçici ithalat veya geri gelen eşya rejiminden faydalanmak
 
 *4458 sayılı Gümrük Kanunu md. 175; Gümrük Yönetmeliği md. 474, 475*
 
-**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'nin posta yoluyla gelen ve gönderilen eşyanın beyanı ile beyandaki farklılıklara ilişkin hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:
+**7-** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği'ne göre posta yoluyla gelen ve gönderilen eşyanın beyanı ile beyandaki farklılıklara ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Ticari mahiyette olmayan eşyanın gümrük idaresine sunulması sırasında ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmünde olup ayrıca beyanname aranmaz.  
-II. Posta yolu ile gönderilen ticari nitelikte olmayan eşyaya ilişkin Déclaration en Douane'larda kayıtlı bilgilere nazaran tespit edilen farklılıklardan dolayı ceza aranmaz.  
-III. İhracatta ticari eşyanın beyanı ile muayenesi arasında farklılık bulunması hâlinde, duruma bakılmaksızın yalnızca kaçakçılıkla mücadele mevzuatı uyarınca işlem yapılır.  
-IV. Posta yolu ile gelen ticari nitelikteki eşyaya ilişkin beyanın kontrolü sonucunda tespit edilen fark ve aykırılıklardan dolayı da ceza aranmaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) Yalnız II  
-C) I ve IV  
-D) I, II ve III  
-E) I, II, III ve IV  
+A) Posta yolu ile gelen ticari nitelikteki eşyaya ilişkin beyanın kontrolü sonucunda tespit edilen fark ve aykırılıklardan dolayı ceza aranmaz.  
+B) Posta yoluyla gelen veya gönderilecek olan ticari mahiyetteki eşya, Kanunun gümrük beyanına ilişkin genel hükümleri uyarınca gümrük idarelerine beyan edilir.  
+C) Ticari mahiyette olmayan eşyanın gümrük idaresine sunulması sırasında ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmünde olup ayrıca beyanname aranmaz.  
+D) Posta yolu ile gelen ve ticari nitelikte olmayan eşyaya ilişkin Déclaration en Douane'larda kayıtlı bilgilere nazaran tespit edilen farklılıklardan dolayı ceza aranmaz.  
+E) İhracatta ticari eşyanın beyanı ile muayenesi arasında farklılık bulunması hâlinde duruma göre gümrük veya kaçakçılıkla mücadele mevzuatı uyarınca işlem yapılır.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Kanunu'na göre ticari mahiyette olmayan posta eşyasının gümrük idaresine sunulması sırasında ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmündedir ve ayrıca beyanname aranmaz (I doğru). Gümrük Yönetmeliği'ne göre posta yolu ile gelen veya gönderilen ticari nitelikte olmayan eşyaya ilişkin Déclaration en Douane'larda kayıtlı bilgilere nazaran tespit edilen farklılıklardan dolayı ceza aranmaz (II doğru). İhracatta ticari eşyanın beyanı ile muayenesi arasında farklılık bulunursa duruma göre gümrük veya kaçakçılıkla mücadele mevzuatı uyarınca işlem yapılır; 'yalnızca kaçakçılık' denmesi hükmü mutlaklaştırır (III yanlış). Posta yolu ile gelen ticari nitelikteki eşyanın beyanının kontrolünde tespit edilen fark ve aykırılıklar için Gümrük Kanunu'nun ilgili ceza hükmüne göre işlem yapılır; ceza aranmaması yalnızca ticari olmayan eşyaya özgüdür (IV yanlış). Bu nedenle doğru cevap A seçeneğidir. (MD GK 175; GY 474, 475)
+**Gerekçe:** 4458 sayılı Gümrük Kanunu'na göre posta yoluyla Türkiye Gümrük Bölgesine gelen veya Türkiye'den gönderilecek ticari mahiyetteki eşya, gümrük beyanına ilişkin genel hükümler uyarınca gümrük idarelerine beyan edilir; ticari mahiyette olmayan eşyanın gümrük idaresine sunulması sırasında ibraz edilen uluslararası kabul görmüş belgeler ise beyanname hükmündedir ve ayrıca beyanname aranmaz. Gümrük Yönetmeliği'ne göre posta yolu ile gelen veya gönderilen ticari nitelikte olmayan eşyaya ilişkin Déclaration en Douane'larda kayıtlı bilgilere nazaran tespit edilen farklılıklardan dolayı ceza aranmaz. Buna karşılık posta yolu ile gelen ticari nitelikteki eşyaya ilişkin beyanın kontrolü sonucunda tespit edilen fark ve aykırılıklar için Gümrük Kanunu'nun ilgili ceza hükmüne göre işlem yapılır; ihracatta ticari eşyanın beyanı ile muayenesi arasında farklılık bulunursa duruma göre gümrük veya kaçakçılıkla mücadele mevzuatı uygulanır. Ceza aranmaması yalnızca ticari nitelikte olmayan eşyaya özgüdür; bu kuralın ticari eşyaya taşınması ifadeyi yanlış yapar. Bu nedenle doğru cevap A seçeneğidir. (MD GK 175; GY 474, 475)
 
 *Posta ve Hızlı Kargo Tebliği (Seri No: 1) md. 3*
 
@@ -352,24 +326,18 @@ E) Basitleştirilmiş gümrük beyannamesinde beyan edilen gönderilerin tahakku
 **Doğru Cevap:** B  
 **Gerekçe:** 2022/9 sayılı Genelge'ye göre operatörler, basitleştirilmiş gümrük beyannamesiyle beyan edilen eşyanın gümrük işlemleri için verilen hizmet karşılığında gümrük müşavirliği, ordino, terminal ve benzeri isimler altında ilave ücret ile gönderinin geldiğine dair bildirimin alıcıya yapıldığı tarihten itibaren ilk üç gün için ardiye ücreti alamaz. Yanlış ifade, bu eşya için gümrük müşavirliği ücreti alınabileceğini söylemektedir. Tebliğe göre Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ hükümleri yalnızca normal usulde detaylı beyana konu eşyada dolaylı temsil yetkisiyle yapılan işlemlerin ücretinde esas alınır; çeldirici bu komşu hükümden taşınmış olup 'müşavirlik hizmeti her işlemde ücretlidir' önyargısını yoklar. Basitleştirilmiş gümrük beyannamesinde beyan edilen gönderilerin tahakkuk ettirilen gümrük vergileri ise operatör tarafından tahsil edilebilir. Bu nedenle doğru cevap B seçeneğidir. (MD Tebliğ 12, 18; Genelge 2022/9 bölüm I/1.4, 2.1)
 
-*Posta ve Hızlı Kargo Tebliği (Seri No: 1) md. 4, 5, 6*
+*Posta ve Hızlı Kargo Tebliği (Seri No: 1) md. 3, 4, 5, 10*
 
-**11-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre operatör yetkisi için yapılacak başvuru ve başvurunun değerlendirilmesine ilişkin aşağıdaki ifadeler verilmiştir:
+**11-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre "grup firması" deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Başvuru, yetki kapsamı işlemlerin yapılacağı gümrük müdürlüğünün bağlı olduğu Gümrük ve Dış Ticaret Bölge Müdürlüğüne yapılır.  
-II. Başvurunun eksiksiz yapıldığının anlaşılması hâlinde gerekli şartların sağlanıp sağlanmadığı, gümrük müdürlüğünce oluşturulacak bir heyet marifetiyle yerinde tespit edilir.  
-III. Talep, Bakanlıkça on beş gün içinde karara bağlanır.  
-IV. Posta idaresi de başvurusunda adli sicil belgesi ve teminat mektubu ibraz eder.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) Yalnız I  
-B) I ve IV  
-C) I ve III  
-D) II ve III  
-E) I, II ve III  
+A) Ana ortaklığın doğrudan kendisi veya diğer grup firmaları ya da iştirakleri vasıtasıyla; sermaye ve yönetim ilişkileri çerçevesinde sermayesinin yüzde onundan fazlasına veya oy hakkının yüzde onundan fazlasına sahip olduğu işletme  
+B) Hava yolu ve/veya kara yolu ile hızlı kargo taşımacılığı kapsamındaki gönderilerin gümrük beyanı dahil tüm gümrük işlemlerini dolaylı temsil yoluyla yapmaya yetkili tüzel kişi  
+C) Ana ortaklığın doğrudan kendisi veya diğer grup firmaları ya da iştirakleri vasıtasıyla; sermaye ve yönetim ilişkileri çerçevesinde asgari %50 oranında hisseye, oy hakkına, yönetim kurulu üyelerinin en az yarısını seçme hakkına veya bu üyelerin en az yarısına sahip olduğu işletme  
+D) Gerçek ve tüzel kişiler ile hukuken tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat uyarınca hukuki tasarruflar yapma yetkisini haiz kişiler ortaklığı  
+E) Geçici depolama yeri işleticisi olmayan operatörle yaptığı sözleşme uyarınca yetki kapsamında kullanılacak geçici depolama yerini işleten işletme  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğ'e göre başvuru, gerekli belgelerle birlikte yetki kapsamı işlemlerin yapılacağı gümrük müdürlüğünün bağlı olduğu Gümrük ve Dış Ticaret Bölge Müdürlüğüne yapılır (I doğru). Başvurunun eksiksiz olduğu anlaşılırsa gerekli şartların sağlanıp sağlanmadığı, gümrük müdürlüğünce değil Gümrük ve Dış Ticaret Bölge Müdürlüğünce oluşturulacak bir heyet marifetiyle yerinde tespit edilerek tutanağa bağlanır (II yanlış); tespit sonuçları, başvuru evrakı ve bölge müdürlüğü görüşü başvuru tarihinden itibaren on beş gün içinde Bakanlığa gönderilir. Talep Bakanlıkça on beş gün içinde karara bağlanır (III doğru). Posta idaresi için başvuruda aranan belgeler aranmaz, yalnızca başvuru formu ile başvurulur; başvuru koşullarından da yalnızca gümrük müşaviri ve altyapı koşulları aranır, teminat mektubu aranmaz (IV yanlış). Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ 4, 5, 6)
+**Gerekçe:** Posta ve Hızlı Kargo Tebliği'ne göre grup firması; ana ortaklığın doğrudan kendisi veya diğer grup firmaları veya iştirakleri vasıtasıyla, sermaye ve yönetim ilişkileri çerçevesinde asgari %50 oranında hisseye veya asgari %50 oranında oy hakkına veya yönetim kurulu üyelerinin asgari %50'sini seçme hakkına veya yönetim kurulu üyelerinin asgari %50'sine sahip olduğu işletmeyi ifade eder. Tebliğ bu kavramı, operatör hızlı kargo firmalarının yetki kapsamındaki ihracat işlemlerinde eşyayı geçici depolama yerine almaksızın kendisiyle aynı grup firmasının izinli gönderici tesisini de kullanabilmesi için kullanır. Yüzde on oranı ise başvuru koşullarında, sermayesinin yüzde onundan fazlasına sahip gerçek kişilerin sayılan suçlardan kesinleşmiş cezası bulunmaması koşulu için geçer; iki oranın karıştırılması en güçlü tuzaktır. Gümrük işlemlerini dolaylı temsil yoluyla yapmaya yetkili tüzel kişi operatör; gerçek ve tüzel kişiler ile hukuki tasarruf yetkisini haiz kişiler ortaklığı ise kişi tanımıdır. Geçici depolama yeri işleticisi olmayan operatörler için Tebliğ yalnızca geçici depolama yeri sözleşmesinin örneğini başvuru belgeleri arasında sayar; bu işletme için ayrı bir tanım yoktur. Bu nedenle doğru cevap C seçeneğidir. (MD Tebliğ 3, 4, 5, 10)
 
 *Posta ve Hızlı Kargo Tebliği (Seri No: 1) md. 3, 9*
 
@@ -384,24 +352,18 @@ E) Gümrükçe muayeneye tabi tutulacak doküman
 **Doğru Cevap:** E  
 **Gerekçe:** Tebliğ'e göre yurt dışından gelen gönderiler, otomatik barkod okuyucu ve X-ray kontrolünden geçirildikten sonra otomatik olarak dört kategoriye ayrılır: belge kontrolüne tabi doküman; Kararda basitleştirilmiş gümrük beyannamesine konu edilebileceği belirtilen kapsamda gelen ve belge kontrolüne tabi gönderiler; aynı kapsamda gelen ve gümrükçe muayeneye tabi tutulacak gönderiler; bu kapsamın dışında kalan gönderiler. Muayeneye tabi kategori yalnızca bu kapsamdaki gönderiler için öngörülmüştür; dokümanlar yalnızca belge kontrolüne tabi kategoride yer alır. 'Gümrükçe muayeneye tabi tutulacak doküman', listedeki iki ayrı kategorinin birleştirilmesiyle oluşturulmuş, akla yatkın ama listede olmayan bir unsurdur. Basitleştirilmiş gümrük beyannamesinin Tebliğdeki tanımı, bu beyannamenin Kararın posta ve hızlı kargo hükmündeki gelen eşya ile ihracat eşyası için kullanıldığını gösterir. Bu nedenle doğru cevap E seçeneğidir. (MD Tebliğ 3, 9)
 
-*Posta ve Hızlı Kargo Tebliği (Seri No: 1) md. 10/7; 2022/9 sayılı Genelge bölüm I/3.1*
+*Posta ve Hızlı Kargo Tebliği (Seri No: 1) md. 10/7; 2022/9 sayılı Genelge bölüm I/2.1, I/3.1*
 
-**13-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre hızlı kargo operatörü (X) A.Ş.'nin aynı gün yurt dışına göndereceği ve ihracat rejimine konu edilecek dört gönderiye ilişkin bilgiler şöyledir:
+**13-** Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre posta ve hızlı kargo taşımacılığı kapsamında ihracat rejimine konu eşyanın beyanının bu Tebliğ hükümleri çerçevesinde operatör tarafından yapılabilmesi için eşyada aranan miktar ve değer sınırı aşağıdakilerden hangisidir?
 
-- 1 numaralı gönderi: brüt 450 kilogram, değeri 28.000 Avro  
-- 2 numaralı gönderi: brüt 640 kilogram, değeri 12.000 Avro  
-- 3 numaralı gönderi: brüt 120 kilogram, değeri 31.500 Avro  
-- 4 numaralı gönderi: brüt 600 kilogram, değeri 30.000 Avro  
-Buna göre hangi gönderilerin beyanı bu Tebliğ hükümleri çerçevesinde operatör tarafından yapılabilir?  
-
-A) 1 ve 4  
-B) Yalnız 1  
-C) 1, 2 ve 4  
-D) 1, 3 ve 4  
-E) 1, 2, 3 ve 4  
+A) Miktarının brüt 600 kilogramı ve değerinin 30.000 Avro'yu geçmemesi  
+B) Miktarının brüt 600 kilogramı veya değerinin 30.000 Avro'yu geçmemesi  
+C) Ağırlığına bakılmaksızın değerinin 30.000 Avro'yu geçmemesi  
+D) Değerine bakılmaksızın miktarının brüt 600 kilogramı geçmemesi  
+E) Ağırlığına bakılmaksızın değerinin 1.500 Avro'yu geçmemesi  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Tebliğ'e göre posta ve hızlı kargo taşımacılığı kapsamında miktarı brüt 600 kilogramı ve değeri 30.000 Avro'yu geçmeyen ihracat rejimine konu eşyanın beyanı Tebliğ hükümleri çerçevesinde operatör tarafından yapılır; bu sınırlar 03.01.2026 tarihli ve 33126 sayılı Resmî Gazete'de yayımlanan Seri No: 5 Tebliğ ile belirlenmiş, 2022/9 sayılı Genelge de 2026/4 sayılı Genelgeyle aynı sınırlara göre düzenlenmiştir. İki sınır birlikte aranır ve 'geçmeyen' ifadesi sınır değerin kendisini de kapsar. 1 numaralı gönderi her iki sınırın altındadır; 4 numaralı gönderi tam sınırda olduğundan sınırı geçmemektedir. 2 numaralı gönderi değer sınırının altında kalsa da brüt 600 kilogramı aşmakta, 3 numaralı gönderi ise ağırlık sınırının altında olsa da 30.000 Avro'yu aşmaktadır. En güçlü tuzak, sınırlardan yalnızca birini sağlamayı yeterli sayarak 2 veya 3 numaralı gönderiyi de dahil etmektir. Bu nedenle doğru cevap A seçeneğidir. (MD Tebliğ 10/7; Genelge 2022/9 bölüm I/3.1)
+**Gerekçe:** Posta ve Hızlı Kargo Tebliği'ne göre posta ve hızlı kargo taşımacılığı kapsamında miktarı brüt 600 kilogramı ve değeri 30.000 Avro'yu geçmeyen ihracat rejimine konu eşyanın beyanı bu Tebliğ hükümleri çerçevesinde operatör tarafından yapılır; bu sınırlar 03.01.2026 tarihli ve 33126 sayılı Resmî Gazete'de yayımlanan Seri No: 5 Tebliğ ile belirlenmiş, 2022/9 sayılı Genelge de 2026/4 sayılı Genelgeyle aynı sınırlara göre düzenlenmiştir. Hükümdeki 've' bağlacı iki sınırın birlikte aranmasını gerektirir; sınırlardan yalnızca birini yeterli sayan 'veya' ifadesi ile sınırlardan birini düşüren ifadeler bu şartı bozar. 1.500 Avro ise bir gerçek kişiye posta veya hızlı kargo yoluyla gelen ve normal usulde detaylı beyanla serbest dolaşıma giren, ticari miktar ve mahiyet arz etmeyen eşyanın değer sınırıdır; ihracatta uygulanmaz. Bu nedenle doğru cevap A seçeneğidir. (MD Tebliğ 10/7; Genelge 2022/9 bölüm I/2.1, I/3.1)
 
 *Posta ve Hızlı Kargo Tebliği (Seri No: 1) md. 10/10, 10/13; 2022/9 sayılı Genelge bölüm I/2.1*
 
@@ -444,9 +406,7 @@ E) Tebliğe aykırılık nedeniyle uygulanacak müeyyide, basitleştirilmiş gü
 
 *2022/9 sayılı Genelge bölüm IV/12*
 
-**17-** Yurt dışına çıkış yapan yolcu (A)'nın IMEI numarası Türkiye'de kayıtlı olan cep telefonu yurt dışında kalmıştır. Telefon, Kararda öngörülen üç aylık süre içinde hızlı kargo ile Türkiye'ye geri gönderilmiş ve IMEI numarasının kayıtlı olduğu yapılan sorgulamayla teyit edilmiştir.
-
-2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar" kapsamında posta ve hızlı kargo taşımacılığı yoluyla gelen eşyaya ilişkin 2022/9 sayılı Genelge'ye göre bu telefona ilişkin aşağıdakilerden hangisi doğrudur?  
+**17-** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar" kapsamında posta ve hızlı kargo taşımacılığı yoluyla gelen eşyaya ilişkin 2022/9 sayılı Genelge'ye göre, yurt dışına giden yolcunun IMEI numarası Türkiye'de kayıtlı olan ve yurt dışında kalan cep telefonunun Kararda belirtilen üç aylık süre içinde posta veya hızlı kargo yoluyla geri gönderilmesi ve IMEI kaydının yapılan sorgulamayla teyit edilmesi hâlinde aşağıdakilerden hangisi uygulanır?
 
 A) Cep telefonunun posta veya hızlı kargo yoluyla getirilmesi hiçbir surette mümkün olmadığından telefon mahrecine iade edilir.  
 B) Telefon muafen teslim edilir; basitleştirilmiş gümrük beyannamesinde YLC0 muafiyet kodu kullanılır.  
@@ -455,7 +415,7 @@ D) Telefon, normal usulde detaylı beyanla BS20 kodu seçilerek ve vergileri öd
 E) Telefon muafen teslim edilir; basitleştirilmiş gümrük beyannamesinde KNSY muafiyet kodu kullanılır.  
 
 **Doğru Cevap:** B  
-**Gerekçe:** 2022/9 sayılı Genelge'ye göre cep telefonunun posta veya hızlı kargo taşımacılığı yoluyla muafen veya vergileri ödenerek getirilmesi hiçbir surette mümkün değildir. Ancak yurt dışına giden yolcuların IMEI numarası Türkiye'de kayıtlı olan cep telefonlarının yurt dışında kalması ve Kararda belirtilen üç aylık süre içinde posta veya hızlı kargo yoluyla geri gönderilmesi durumunda, IMEI numarasının kayıtlı olduğu sorgulamayla teyit edilirse telefon muafen teslim edilir ve basitleştirilmiş gümrük beyannamesinde YLC0 muafiyet kodu kullanılır. Vakadaki istisnayı görmeyen aday genel yasağa giderek mahrece iade seçeneğini işaretler. Vergi ödenerek getirme de yasak kapsamında olduğundan basitleştirilmiş beyanla ya da BS20 kodlu normal usulde detaylı beyanla vergili teslim mümkün değildir. KNSY muafiyet kodu konsinye ihracat için düzenlenen basitleştirilmiş gümrük beyannamesine aittir. Bu nedenle doğru cevap B seçeneğidir. (MD Genelge 2022/9 bölüm IV/12)
+**Gerekçe:** 2022/9 sayılı Genelge'ye göre cep telefonunun posta veya hızlı kargo taşımacılığı yoluyla muafen veya vergileri ödenerek getirilmesi hiçbir surette mümkün değildir. Ancak yurt dışına giden yolcuların IMEI numarası Türkiye'de kayıtlı olan cep telefonlarının yurt dışında kalması ve Kararda belirtilen üç aylık süre içinde posta veya hızlı kargo yoluyla geri gönderilmesi durumunda, IMEI numarasının kayıtlı olduğu sorgulamayla teyit edilirse telefon muafen teslim edilir ve basitleştirilmiş gümrük beyannamesinde YLC0 muafiyet kodu kullanılır. Bu istisnayı görmeyen aday genel yasağa giderek mahrece iade seçeneğini işaretler. Vergi ödenerek getirme de yasak kapsamında olduğundan basitleştirilmiş beyanla ya da BS20 kodlu normal usulde detaylı beyanla vergili teslim mümkün değildir. KNSY muafiyet kodu konsinye ihracat için düzenlenen basitleştirilmiş gümrük beyannamesine aittir. Bu nedenle doğru cevap B seçeneğidir. (MD Genelge 2022/9 bölüm IV/12)
 
 *Posta ve Hızlı Kargo Tebliği (Seri No: 1) md. 12/1; 2022/9 sayılı Genelge bölüm II*
 
@@ -491,7 +451,7 @@ D) II ve IV
 E) I, II, III ve IV  
 
 **Doğru Cevap:** B  
-**Gerekçe:** 2011/39 sayılı Genelge'ye göre Karar ekindeki listenin tüketim maddeleri bölümündeki sigara miktarına ek olarak yolcular 200 adet sigara daha alabilir (I doğru). Aynı bölümdeki tütün ve tütün ürünleri ile alkollü ürünler için muafiyet hakkı, karşısında yazılı miktarı aşmamak kaydıyla her bir ürün için ayrı ayrı kullanılabilir (II doğru). Tütün ve tütün ürünleri ile alkollü ürünlere ilişkin muafiyet hakkından 18 yaşın altındaki yolcular faydalanamaz (III doğru). Tüketim maddeleri bölümünde yer alan eşyanın yalnızca yolcu beraberinde getirilmesi mümkündür; gelişten önce veya sonra gelme imkânı listedeki diğer kişisel eşya içindir, tüketim maddeleri posta yoluyla getirilemez (IV yanlış). Muafiyet listede karşılarında yazılı miktarlarla sınırlı olduğundan bu miktarları aşan sigara muafen getirilemez. En güçlü çeldirici IV'tür; kişisel eşyaya tanınan gelişten önce veya sonra gelme imkânı tüketim maddelerine taşınmıştır. Bu nedenle doğru cevap B seçeneğidir. (MD Genelge 2011/39 Kişisel eşya, Yolcu beraberi hediyelik eşya)
+**Gerekçe:** 2011/39 sayılı Genelge'ye göre Karar ekindeki listenin tüketim maddeleri bölümündeki sigara miktarına ek olarak yolcular 200 adet sigara daha alabilir (I doğru). Aynı bölümdeki tütün ve tütün ürünleri ile alkollü ürünler için muafiyet hakkı, karşısında yazılı miktarı aşmamak kaydıyla her bir ürün için ayrı ayrı kullanılabilir (II doğru). Tütün ve tütün ürünleri ile alkollü ürünlere ilişkin muafiyet hakkından 18 yaşın altındaki yolcular faydalanamaz (III doğru). Tüketim maddeleri bölümünde yer alan eşyanın yalnızca yolcu beraberinde getirilmesi mümkündür; gelişten önce veya sonra gelme imkânı listedeki diğer kişisel eşya içindir, tüketim maddeleri posta yoluyla getirilemez (IV yanlış). Genelge, listede yer alan eşya için muafiyetin, eşyanın kıymetine bakılmaksızın karşılarında yazılı miktarlarla sınırlı olduğunu belirtir; sigaradaki 200 adetlik ek imkân bu bölüm için Genelgede ayrıca öngörülmüştür. En güçlü tuzak IV. önermedir; kişisel eşyaya tanınan gelişten önce veya sonra gelme imkânı tüketim maddelerine taşınmıştır. Bu nedenle doğru cevap B seçeneğidir. (MD Genelge 2011/39 Kişisel eşya, Yolcu beraberi hediyelik eşya)
 
 *2022/9 sayılı Genelge bölüm IV/2, 3, 7, 9, 13*
 
@@ -510,11 +470,11 @@ E) Emniyet Genel Müdürlüğünden uygunluk yazısı alınan, silah ve tüfek d
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 6 |
-| Önermeli | 4 (II ve IV, I ve II, I ve III, I, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 10, TERSİNE 6, TERİM 6, MAKAM 5, SAYI 4, SAĞDUYU 4 |
+| Birebir / parafraz / çıkarım | 15 / 4 / 1 |
+| Olumsuz kök | 7 |
+| Önermeli | 2 (II ve IV, I, II ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 11, TERİM 7, TERSİNE 6, MAKAM 4, SAYI 4, SAĞDUYU 4 |
 | İkiz eksen / ayna | 12, 13, 17 / posta-bekleme: gelen ↔ giden ticari eşya |
 | Güncellik | 03.01.2026 / 33126 R.G. (Seri No: 5 Tebliğ); 06.11.2025 / 33069 R.G.; 2026/4 sayılı Genelge (yürürlük 06.02.2026) |
 | Çıkmış bilgi alanı karşılayan | 6 |

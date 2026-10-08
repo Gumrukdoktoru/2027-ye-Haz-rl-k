@@ -38,23 +38,21 @@ C) Gümrük ve vergi mevzuatları uyarınca ödenmemiş herhangi bir vergi, ceza
 D) Başvuru tarihi itibarıyla Gemi Acenteliği Yetki Belgesine sahip olmak  
 E) Manifesto ve konşimento kayıtlarını elektronik ortamda tutmak  
 
-**5-** (A) Denizcilik A.Ş. tarafından eşyanın denizyolu ile basitleştirilmiş usulde taşınmasına ilişkin yapılan izin başvurusu 18 Mayıs 2026 tarihinde kayda alınmıştır. Firma, Gümrük Yönetmeliğinde basitleştirme izinleri için aranan ve belirli sayıda transit beyannamesi kapsamı eşyanın transit edilmesine bağlanan koşulu, Türkiye Gümrük Bölgesindeki deniz limanları arasında denizyoluyla transit ettiği konteyner kapsamı eşyaya dayanarak karşılamak istemektedir.
+**5-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre denizyolu basitleştirme izni başvurusunda, Gümrük Yönetmeliğinde belirli sayıda transit beyannamesi kapsamı eşyanın transit edilmesine bağlanan koşul, başvuru sahibinin hangi dönemde Türkiye Gümrük Bölgesindeki deniz limanları arasında denizyoluyla en az kaç konteyner kapsamı eşyayı transit etmiş olması durumunda da sağlanmış sayılır?
 
-Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre bu koşulun sağlanmış sayılması için firmanın hangi dönemde en az kaç konteyner kapsamı eşyayı transit etmiş olması gerekir?  
+A) Başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içinde 500 konteyner  
+B) Başvurunun kayda alındığı tarihten geriye dönük son bir yıl içinde 500 konteyner  
+C) Başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içinde 1.000 konteyner  
+D) Başvurunun yapıldığı takvim yılından geriye dönük üç takvim yılının her birinde 500 konteyner  
+E) Başvurunun yapıldığı takvim yılından önceki takvim yılı içinde 500 konteyner  
 
-A) 1 Mayıs 2026 tarihinden geriye dönük son bir yıl içinde 500 konteyner  
-B) 18 Mayıs 2026 tarihinden geriye dönük son bir yıl içinde 500 konteyner  
-C) 2025 takvim yılı içinde 500 konteyner  
-D) 1 Mayıs 2026 tarihinden geriye dönük son bir yıl içinde 1.000 konteyner  
-E) 18 Mayıs 2026 tarihinden geriye dönük son bir yıl içinde 1.000 konteyner  
+**6-** Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre Türkiye Gümrük Bölgesi içerisindeki deniz limanları arasında denizyoluyla konteynerle yapılacak taşımalarda, aşağıdaki eşyalardan hangisinin taşınmasında denizyolu basitleştirme izni kullanılamaz?
 
-**6-** Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) kapsamında denizyolu basitleştirme izni bulunan bir gemi acentesinin gerçekleştireceği aşağıdaki taşımalardan hangisinde bu izin kullanılabilir?
-
-A) Yurt dışından İskenderun Limanına dökme olarak getirilen serbest dolaşımda olmayan buğdayın denizyoluyla Haydarpaşa Limanına taşınması  
-B) Yurt dışından Mersin Limanına konteynerle getirilen serbest dolaşımda olmayan eşyanın karayoluyla Ankara'daki bir gümrük idaresine taşınması  
-C) Yurt dışından Mersin Limanına getirilen, konteynerle taşınan serbest dolaşımda olmayan eşyanın denizyoluyla İzmir Limanına taşınması  
-D) Kanun veya genel idari düzenleyici işlemlerle ithali yasaklanan ve transitine izin verilen eşyanın konteynerle Mersin Limanından İzmir Limanına taşınması  
-E) Serbest dolaşımda bulunan ve ihracata konu olmayan eşyanın konteynerle İstanbul Limanından İzmir Limanına taşınması  
+A) Yurtdışından Türkiye Gümrük Bölgesine getirilen serbest dolaşımda olmayan eşya  
+B) Türkiye Gümrük Bölgesinden yurtdışı edilecek ihracat eşyası  
+C) Kanun veya genel idari düzenleyici işlemlerle ithali yasaklanan ve transitine bölge müdürlüğünce izin verilen eşya  
+D) Yurtdışından getirilen ve daha önceki bir sefer ile taşınan eşyanın devamı niteliğindeki serbest dolaşımda olmayan eşya  
+E) Yurtdışından getirilen ve gruplandırılmış olduğu için listede eşya tanımı yerine "konsolide" ifadesi kullanılan eşya  
 
 **7-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre izin sahibi tarafından gümrük idaresinin sistemine iletilen bilgilerde değişiklik yapılmak istenmesi hâlinde, değişiklik bilgileri ilgili kayıt numarası kullanılarak en geç ne zamana kadar gümrük idaresinin sistemine iletilir?
 
@@ -110,19 +108,13 @@ C) Bilgiler düzeltilemez; izin sahibinin yeni bir kayıt numarası almak üzere
 D) Sistemdeki işlemler ikmal edilmeden önce izin sahibine söz konusu bilgileri düzeltme imkânı tanınır.  
 E) Varış gümrük idaresine uyuşmazlık bildirilir ve hatanın sebebinin yirmi sekiz gün içinde ispatı istenir.  
 
-**13-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre basitleştirme izni kapsamında hareket gümrük idaresinde yapılacak işlemlere ilişkin aşağıdaki ifadeler verilmiştir:
+**13-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre "varış gümrük idaresi" deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Türkiye Gümrük Bölgesine denizyoluyla getirilen ve giriş gümrük idaresinden Türkiye Gümrük Bölgesi içerisinde bir başka gümrük idaresine denizyoluyla sevk edilecek eşyaya ilişkin olarak giriş özet beyanda bu yönde bilgiye yer verilir.  
-II. Taşıma bilgilerini gümrük idaresinin sistemine elektronik olarak ileten izin sahibi, taşıma işlemleri için rejim hak sahibi olur.  
-III. İzin kapsamında taşınacak eşyanın Türkiye Gümrük Bölgesine girmesinin belli kurumların kontrolüne tabi olması durumunda gerekli kontroller, eşyanın sevkinden sonra varış gümrük idaresinde yapılır.  
-IV. Hareket gümrük idaresi, risk analizlerinden de yararlanmak suretiyle, gerekli gördüğü hâllerde beyanı kontrol veya eşyayı muayene edebilir.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) Yalnız II  
-B) I ve III  
-C) II ve III  
-D) III ve IV  
-E) Yalnız III  
+A) Eşyanın transit rejimine tabi tutulduğu ve basitleştirme izni kapsamında transit beyanı olarak kabul edilen bilgilerin sunulduğu gümrük idaresi  
+B) Eşyanın Türkiye Gümrük Bölgesine girmesinin belli kurumların kontrolüne tabi olması durumunda gerekli kontrollerin, eşyanın sevkinden önce yapıldığı gümrük idaresi  
+C) Türkiye Gümrük Bölgesini terk edecek eşyanın risk analizine dayalı kontrolleri de dâhil olmak üzere gümrükçe onaylanmış bir işlem ve kullanıma tabi tutulmasına ilişkin işlemlerinin yerine getirildiği gümrük idaresi  
+D) Ortak transit rejiminde bir Akit Tarafa giriş noktasındaki gümrük idaresi  
+E) Transit rejimine tabi tutulan eşyanın, rejimin sonlandırılması için sunulması gereken gümrük idaresi  
 
 **14-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre basitleştirme izni kapsamında varış gümrük idaresinde yapılacak işlemlere ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -238,7 +230,7 @@ D) Ticari ve taşımaya ilişkin kayıtlarını genel kabul görmüş muhasebe i
 E) Her türlü usulsüzlük ve uyuşmazlığı hareket ve varış gümrük idarelerine bildirmek  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre izin sahibi; kayıtlarında izin kapsamı sevkiyatlara konu eşyanın statüsüne ilişkin gerekli ayrımı sağlamakla, ticari ve taşımaya ilişkin kayıtlarını bilgi ve kayıtların gerçekliğini koruyan şekilde ve genel kabul görmüş muhasebe ilkelerine uygun olarak tutmakla, sevkiyatın ayniyetini sağlamak üzere gerekli tedbirleri almakla ve her türlü usulsüzlük ve uyuşmazlığı hareket ve varış gümrük idarelerine bildirip bunların araştırılmasında bu idarelerle işbirliği yapmakla yükümlüdür. Denizyolu Tebliğinde izin sahibinin işlemlere ilişkin bilgi sunma yükümlülüğü, gümrük idaresince talep edilmesi hâlinde belirli bir tarih aralığındaki işlemleri liste hâlinde ibraz etmekten ibarettir; manifesto ve konşimentolara işlem tarihinden itibaren üç yıl süreyle erişim sağlama yükümlülüğü bu Tebliğde yer almaz. Üç yıllık erişim yükümlülüğü, havayolu ile basitleştirilmiş usulü düzenleyen Seri No 5 Tebliğinde izin sahibi havayolu şirketine yüklenmiştir. Tuzak buradadır: iki Tebliğin yükümlülükler listesi büyük ölçüde aynıdır, ancak üç yıllık erişim yalnızca havayolu Tebliğinde vardır. Bu nedenle doğru cevap A seçeneğidir. (MD 12)
+**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre izin sahibi; kayıtlarında izin kapsamı sevkiyatlara konu eşyanın statüsüne ilişkin gerekli ayrımı sağlamakla, ticari ve taşımaya ilişkin kayıtlarını bilgi ve kayıtların gerçekliğini koruyan şekilde ve genel kabul görmüş muhasebe ilkelerine uygun olarak tutmakla, sevkiyatın ayniyetini sağlamak üzere gerekli tedbirleri almakla ve her türlü usulsüzlük ve uyuşmazlığı hareket ve varış gümrük idarelerine bildirip bunların araştırılmasında bu idarelerle işbirliği yapmakla yükümlüdür. Denizyolu Tebliğinde izin sahibinin işlemlere ilişkin bilgi sunma yükümlülüğü, gümrük idaresince talep edilmesi hâlinde belirli bir tarih aralığındaki işlemleri liste hâlinde ibraz etmek ile hareket veya varış gümrük idarelerince talep edilmesi hâlinde manifesto ve konşimento çıktılarını sunmaktır; manifesto ve konşimentolara işlem tarihinden itibaren üç yıl süreyle erişim sağlama yükümlülüğü bu Tebliğde yer almaz. Üç yıllık erişim yükümlülüğü, havayolu ile basitleştirilmiş usulü düzenleyen Seri No 5 Tebliğinde izin sahibi havayolu şirketine yüklenmiştir. Tuzak buradadır: iki Tebliğin yükümlülükler listesi büyük ölçüde aynıdır, ancak üç yıllık erişim yalnızca havayolu Tebliğinde vardır. Bu nedenle doğru cevap A seçeneğidir. (MD 12)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 4; Gümrük Yönetmeliği md. 230*
 
@@ -255,31 +247,29 @@ E) Manifesto ve konşimento kayıtlarını elektronik ortamda tutmak
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 4; Gümrük Yönetmeliği md. 230*
 
-**5-** (A) Denizcilik A.Ş. tarafından eşyanın denizyolu ile basitleştirilmiş usulde taşınmasına ilişkin yapılan izin başvurusu 18 Mayıs 2026 tarihinde kayda alınmıştır. Firma, Gümrük Yönetmeliğinde basitleştirme izinleri için aranan ve belirli sayıda transit beyannamesi kapsamı eşyanın transit edilmesine bağlanan koşulu, Türkiye Gümrük Bölgesindeki deniz limanları arasında denizyoluyla transit ettiği konteyner kapsamı eşyaya dayanarak karşılamak istemektedir.
+**5-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre denizyolu basitleştirme izni başvurusunda, Gümrük Yönetmeliğinde belirli sayıda transit beyannamesi kapsamı eşyanın transit edilmesine bağlanan koşul, başvuru sahibinin hangi dönemde Türkiye Gümrük Bölgesindeki deniz limanları arasında denizyoluyla en az kaç konteyner kapsamı eşyayı transit etmiş olması durumunda da sağlanmış sayılır?
 
-Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre bu koşulun sağlanmış sayılması için firmanın hangi dönemde en az kaç konteyner kapsamı eşyayı transit etmiş olması gerekir?  
-
-A) 1 Mayıs 2026 tarihinden geriye dönük son bir yıl içinde 500 konteyner  
-B) 18 Mayıs 2026 tarihinden geriye dönük son bir yıl içinde 500 konteyner  
-C) 2025 takvim yılı içinde 500 konteyner  
-D) 1 Mayıs 2026 tarihinden geriye dönük son bir yıl içinde 1.000 konteyner  
-E) 18 Mayıs 2026 tarihinden geriye dönük son bir yıl içinde 1.000 konteyner  
+A) Başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içinde 500 konteyner  
+B) Başvurunun kayda alındığı tarihten geriye dönük son bir yıl içinde 500 konteyner  
+C) Başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içinde 1.000 konteyner  
+D) Başvurunun yapıldığı takvim yılından geriye dönük üç takvim yılının her birinde 500 konteyner  
+E) Başvurunun yapıldığı takvim yılından önceki takvim yılı içinde 500 konteyner  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliği, basitleştirme izni için başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içinde en az 500 transit beyannamesi (TIR Karnesi dâhil) kapsamı eşyanın transit edilmesini arar. Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre başvuru sahibi, başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içerisinde Türkiye Gümrük Bölgesindeki deniz limanları arasında denizyoluyla 500 konteyner kapsamı eşyayı transit etmişse de bu koşul sağlanmış sayılır. Vakada başvuru 18 Mayıs 2026'da kayda alındığından sürenin başlangıcı bu tarih değil, kayıt ayının ilk günü olan 1 Mayıs 2026'dır; dönem bu tarihten geriye dönük son bir yıldır. Saklı istisna budur: başvurunun kayda alındığı gün değil, o ayın ilk günü esas alınır. Takvim yılı ölçüsü Tebliğde yalnızca yazılı uyarıların sayımında geçer; 1.000 sayısı ise Seri No 4 Tebliğinde kapsamlı teminat indirimi için son bir yılda aranan transit beyanı sayısıdır. En güçlü çeldirici '18 Mayıs 2026 tarihinden geriye dönük son bir yıl içinde 500 konteyner' seçeneğidir: sayı doğrudur, başlangıç anı yanlıştır. Bu nedenle doğru cevap A seçeneğidir. (MD 4; GY 230)
+**Gerekçe:** Gümrük Yönetmeliği, basitleştirme izinlerinde başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içinde en az 500 transit beyannamesi (TIR Karnesi dâhil) kapsamı eşyanın transit edilmesini arar. Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre denizyolu basitleştirmesinde başvuru sahibi, başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yıl içerisinde Türkiye Gümrük Bölgesindeki deniz limanları arasında denizyoluyla 500 konteyner kapsamı eşyayı transit etmişse bu koşul da sağlanmış sayılır. Dönemin başlangıcı başvurunun kayda alındığı gün değil, o ayın ilk günüdür; ölçü de takvim yılı değil, bu tarihten geriye dönük son bir yıldır. 1.000 sayısı Seri No 4 Tebliğinde kapsamlı teminat indirimi için son bir yılda aranan transit beyanı sayısıdır; üç takvim yılının her birinde ayrı ayrı değerlendirme ise izinli gönderici yetkisini düzenleyen Seri No 14 Tebliğine aittir. Seri No 8 Tebliğinde takvim yılı ölçüsü yalnızca yazılı uyarıların sayımında geçer. En güçlü çeldirici 'Başvurunun kayda alındığı tarihten geriye dönük son bir yıl içinde 500 konteyner' seçeneğidir: sayı doğrudur, başlangıç anı yanlıştır. Bu nedenle doğru cevap A seçeneğidir. (MD 4; GY 230)
 
-*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 6; Gümrük Yönetmeliği md. 225*
+*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 6, 7; Gümrük Yönetmeliği md. 225*
 
-**6-** Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) kapsamında denizyolu basitleştirme izni bulunan bir gemi acentesinin gerçekleştireceği aşağıdaki taşımalardan hangisinde bu izin kullanılabilir?
+**6-** Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre Türkiye Gümrük Bölgesi içerisindeki deniz limanları arasında denizyoluyla konteynerle yapılacak taşımalarda, aşağıdaki eşyalardan hangisinin taşınmasında denizyolu basitleştirme izni kullanılamaz?
 
-A) Yurt dışından İskenderun Limanına dökme olarak getirilen serbest dolaşımda olmayan buğdayın denizyoluyla Haydarpaşa Limanına taşınması  
-B) Yurt dışından Mersin Limanına konteynerle getirilen serbest dolaşımda olmayan eşyanın karayoluyla Ankara'daki bir gümrük idaresine taşınması  
-C) Yurt dışından Mersin Limanına getirilen, konteynerle taşınan serbest dolaşımda olmayan eşyanın denizyoluyla İzmir Limanına taşınması  
-D) Kanun veya genel idari düzenleyici işlemlerle ithali yasaklanan ve transitine izin verilen eşyanın konteynerle Mersin Limanından İzmir Limanına taşınması  
-E) Serbest dolaşımda bulunan ve ihracata konu olmayan eşyanın konteynerle İstanbul Limanından İzmir Limanına taşınması  
+A) Yurtdışından Türkiye Gümrük Bölgesine getirilen serbest dolaşımda olmayan eşya  
+B) Türkiye Gümrük Bölgesinden yurtdışı edilecek ihracat eşyası  
+C) Kanun veya genel idari düzenleyici işlemlerle ithali yasaklanan ve transitine bölge müdürlüğünce izin verilen eşya  
+D) Yurtdışından getirilen ve daha önceki bir sefer ile taşınan eşyanın devamı niteliğindeki serbest dolaşımda olmayan eşya  
+E) Yurtdışından getirilen ve gruplandırılmış olduğu için listede eşya tanımı yerine "konsolide" ifadesi kullanılan eşya  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre basitleştirme izni; yurtdışından Türkiye Gümrük Bölgesine getirilen veya Türkiye Gümrük Bölgesinden yurtdışı edilecek olan, konteynerle taşınan eşyanın Türkiye Gümrük Bölgesi içerisindeki deniz limanları arasında denizyoluyla taşınmasında kullanılmak üzere verilir. Bu tanım dört şartı birlikte arar: eşya yurt dışından gelmiş ya da yurt dışına gidecek olmalı, konteynerle taşınmalı, taşıma iki Türk deniz limanı arasında olmalı ve denizyoluyla yapılmalıdır. Mersin'den İzmir'e denizyoluyla taşınan ithal konteyner eşyası dört şartı da karşılar. Dökme buğdayda konteyner şartı, Ankara'ya karayoluyla taşımada deniz limanları arasında denizyolu şartı, yurt içinde kalacak serbest dolaşımdaki eşyada ise yurt dışı bağlantısı yoktur. Saklı istisna ithali yasaklanan eşyadadır: Tebliğe göre izin, Gümrük Yönetmeliği'nde transitine bölge müdürlüklerince izin verilen ithali yasak eşya ile iki belirli tarife pozisyonundaki eşyanın taşınmasında kullanılamaz; transite izin verilmiş olması basitleştirmeden yararlanmayı sağlamaz. En güçlü çeldirici de bu seçenektir, çünkü taşıma şekli ve güzergâh bakımından tüm şartları taşır. Bu nedenle doğru cevap C seçeneğidir. (MD 6; GY 225)
+**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre basitleştirme izni; yurtdışından Türkiye Gümrük Bölgesine getirilen veya Türkiye Gümrük Bölgesinden yurtdışı edilecek olan, konteynerle taşınan eşyanın Türkiye Gümrük Bölgesi içerisindeki deniz limanları arasında denizyoluyla taşınmasında kullanılmak üzere verilir. Konşimento numarasının karşısında serbest dolaşımda olmayan eşya için 'T', bunun daha önceki bir seferle taşınan devamı için 'TD', ihracata konu eşya için 'X' kodunun kullanılması ve talep üzerine verilen listede gruplandırılmış eşya için eşya tanımı yerine 'konsolide' ifadesinin yazılması, bu eşyanın izin kapsamında taşınabildiğini gösterir. Buna karşılık Tebliğ, Gümrük Yönetmeliği'nde transitine gümrük ve ticaret bölge müdürlüklerince izin verilen eşyayı (kanun veya genel idari düzenleyici işlemlerle ithali yasaklanan eşya dâhil) ve iki belirli tarife pozisyonundaki eşyayı basitleştirme izninin kapsamı dışında tutmuştur. Saklı istisna buradadır: bölge müdürlüğünün transite izin vermiş olması, eşyanın denizyolu basitleştirmesiyle taşınabileceği anlamına gelmez; taşıma şekli ve güzergâh şartları karşılansa da izin bu eşyada kullanılamaz. Bu nedenle doğru cevap C seçeneğidir. (MD 6-7; GY 225)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 8*
 
@@ -350,7 +340,7 @@ D) Geminin Türkiye Gümrük Bölgesini terk etmesine kadar
 E) Geminin hareketine kadar  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre eşyanın hareket gümrük idaresinden varış gümrük idaresine sevkinde basitleştirme izni çerçevesinde işlem yapılabilmesi için, her bir taşımaya ilişkin bilgiler geminin hareketine kadar izin sahibi tarafından gümrük idaresinin sistemine elektronik veri değişimi sistemi ile iletilir; bilgiler sistemce kabul edilince izin sahibine kayıt numarası verilir. 'Hareket gümrük idaresince sistemdeki işlemler ikmal edilinceye kadar' ifadesi ilk iletim için değil, daha önce iletilmiş bilgilerde yapılacak değişikliklerin iletilmesi için öngörülen süredir. Doksan altı saatlik süre havayolu basitleştirmesini düzenleyen Seri No 5 Tebliğinde giriş özet beyanından itibaren işleyen süredir. Geminin Türkiye Gümrük Bölgesini terk etmesi ise varışta ihracat eşyasının çıkış bildirimine ilişkin işlemlerin tamamlandığı andır. En güçlü çeldirici değişiklik süresidir: aynı hükümde, aynı kayıt numarası üzerinden yürüyen ikinci bir an olarak yer alır. Bu nedenle doğru cevap E seçeneğidir. (MD 8)
+**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre eşyanın hareket gümrük idaresinden varış gümrük idaresine sevkinde basitleştirme izni çerçevesinde işlem yapılabilmesi için, her bir taşımaya ilişkin bilgiler geminin hareketine kadar izin sahibi tarafından gümrük idaresinin sistemine elektronik veri değişimi sistemi ile iletilir; bilgiler sistemce kabul edilince izin sahibine kayıt numarası verilir. 'Hareket gümrük idaresince sistemdeki işlemler ikmal edilinceye kadar' ifadesi ilk iletim için değil, daha önce iletilmiş bilgilerde yapılacak değişikliklerin iletilmesi için öngörülen süredir. Doksan altı saatlik süre havayolu basitleştirmesini düzenleyen Seri No 5 Tebliğinde giriş özet beyanından itibaren işleyen süredir. Geminin Türkiye Gümrük Bölgesini terk etmesi ise varışta ihracat eşyasının çıkış bildirimine ilişkin işlemlerin ancak ondan sonra tamamlanabildiği andır. En güçlü çeldirici değişiklik süresidir: aynı hükümde, aynı kayıt numarası üzerinden yürüyen ikinci bir an olarak yer alır. Bu nedenle doğru cevap E seçeneğidir. (MD 8)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 8*
 
@@ -365,24 +355,18 @@ E) Varış gümrük idaresine uyuşmazlık bildirilir ve hatanın sebebinin yirm
 **Doğru Cevap:** D  
 **Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre hareket gümrük idaresi, basitleştirme izni kapsamında sevk edilecek eşyaya ilişkin kontrolleri, iletilen taşıma bilgilerini ve kodları giriş özet beyan ya da beyanname kayıtları, elektronik ortamdaki manifesto bilgileri ve konşimentolarla karşılaştırarak yapar. Uygunsuzluk yoksa işlemler kayıt numarası üzerinden ikmal edilir. Bilgilerin yanlış beyan edildiği ya da kayıtlarla ilişkilendirilmesinde hata yapıldığı tespit edilirse, sistemdeki işlemler ikmal edilmeden önce izin sahibinin bu bilgileri düzeltmesine izin verilir. Hüküm bu aşamada ceza, geçici depolama veya yeni kayıt öngörmez; değişiklikler de aynı kayıt numarası kullanılarak iletilir. Yirmi sekiz günlük ispat süresi Gümrük Yönetmeliği'nde varışta eksik çıkan eşya için öngörülmüştür; geçici depolamaya alma ve ulusal transit beyanıyla sevk ise havayolu basitleştirmesine ilişkin Seri No 5 Tebliğinde yer alır. En güçlü çeldirici usulsüzlük cezası seçeneğidir: 'yanlış beyan' ifadesi ceza çağrıştırır, ancak Tebliğ bu aşamada düzeltme imkânı tanır. Bu nedenle doğru cevap D seçeneğidir. (MD 8)
 
-*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 8*
+*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 3, 8*
 
-**13-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre basitleştirme izni kapsamında hareket gümrük idaresinde yapılacak işlemlere ilişkin aşağıdaki ifadeler verilmiştir:
+**13-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre "varış gümrük idaresi" deyimi aşağıdakilerden hangisini ifade eder?
 
-I. Türkiye Gümrük Bölgesine denizyoluyla getirilen ve giriş gümrük idaresinden Türkiye Gümrük Bölgesi içerisinde bir başka gümrük idaresine denizyoluyla sevk edilecek eşyaya ilişkin olarak giriş özet beyanda bu yönde bilgiye yer verilir.  
-II. Taşıma bilgilerini gümrük idaresinin sistemine elektronik olarak ileten izin sahibi, taşıma işlemleri için rejim hak sahibi olur.  
-III. İzin kapsamında taşınacak eşyanın Türkiye Gümrük Bölgesine girmesinin belli kurumların kontrolüne tabi olması durumunda gerekli kontroller, eşyanın sevkinden sonra varış gümrük idaresinde yapılır.  
-IV. Hareket gümrük idaresi, risk analizlerinden de yararlanmak suretiyle, gerekli gördüğü hâllerde beyanı kontrol veya eşyayı muayene edebilir.  
-Yukarıdaki ifadelerden hangileri yanlıştır?  
-
-A) Yalnız II  
-B) I ve III  
-C) II ve III  
-D) III ve IV  
-E) Yalnız III  
+A) Eşyanın transit rejimine tabi tutulduğu ve basitleştirme izni kapsamında transit beyanı olarak kabul edilen bilgilerin sunulduğu gümrük idaresi  
+B) Eşyanın Türkiye Gümrük Bölgesine girmesinin belli kurumların kontrolüne tabi olması durumunda gerekli kontrollerin, eşyanın sevkinden önce yapıldığı gümrük idaresi  
+C) Türkiye Gümrük Bölgesini terk edecek eşyanın risk analizine dayalı kontrolleri de dâhil olmak üzere gümrükçe onaylanmış bir işlem ve kullanıma tabi tutulmasına ilişkin işlemlerinin yerine getirildiği gümrük idaresi  
+D) Ortak transit rejiminde bir Akit Tarafa giriş noktasındaki gümrük idaresi  
+E) Transit rejimine tabi tutulan eşyanın, rejimin sonlandırılması için sunulması gereken gümrük idaresi  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'e göre Türkiye Gümrük Bölgesine denizyoluyla getirilen ve giriş gümrük idaresinden bir başka gümrük idaresine denizyoluyla sevk edilecek eşyaya ilişkin olarak giriş özet beyanda bu yönde bilgiye yer verilir; I doğrudur. Basitleştirme izni kapsamında taşıma yapmak üzere gerekli bilgileri gümrük idaresinin sistemine elektronik olarak ileten izin sahibi, taşıma işlemleri için rejim hak sahibi olur; II doğrudur. Hareket gümrük idaresi risk analizlerinden de yararlanarak gerekli gördüğü hâllerde beyanı kontrol veya eşyayı muayene edebilir ve bu amaçla manifesto ve konşimento çıktılarını isteyebilir; IV doğrudur. Eşyanın Türkiye Gümrük Bölgesine girmesinin belli kurumların kontrolüne tabi olması durumunda ise gerekli kontroller varış gümrük idaresine sevkinden önce giriş gümrük idaresinde yapılır; izin sahibi de bunu sağlamakla yükümlüdür. III, kontrolün yerini ve zamanını tersine çevirdiği için yanlıştır. En güçlü tuzak III'tür: varış idaresinin de kontrol ve muayene yetkisi bulunduğundan ifade makul görünür, ancak belli kurumların kontrolleri sevkten önce yapılır. Bu nedenle doğru cevap E seçeneğidir. (MD 8, 12)
+**Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8)'in tanımlar hükmünde varış gümrük idaresi, transit rejimine tabi tutulan eşyanın rejimin sonlandırılması için sunulması gereken gümrük idaresi olarak tanımlanmıştır. Aynı hükümdeki hareket gümrük idaresi ise eşyanın transit rejimine tabi tutulduğu ve basitleştirme izni kapsamında transit beyanı olarak kabul edilen bilgilerin sunulduğu idaredir; biri rejimin başladığı, öteki sona erdiği yeri gösterir. Tebliğe göre eşyanın Türkiye Gümrük Bölgesine girmesinin belli kurumların kontrolüne tabi olması durumunda gerekli kontroller varış gümrük idaresinde değil, eşyanın varış gümrük idaresine sevkinden önce giriş gümrük idaresinde yapılır. Türkiye Gümrük Bölgesini terk edecek eşyanın işlemlerinin yerine getirildiği idare Gümrük Kanunu'ndaki ihracat gümrük idaresi tanımına, Akit Tarafa giriş noktasındaki idare ise Gümrük Yönetmeliği'nde ortak transit rejimine özgü transit idaresi tanımına aittir. En güçlü çeldirici belli kurum kontrollerinin yapıldığı idareyi tarif eden seçenektir: kontrolün yapıldığı yer ile rejimin sonlandırıldığı yer ayrıdır. Bu nedenle doğru cevap E seçeneğidir. (MD 3, 8)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 8) md. 9*
 
@@ -492,11 +476,11 @@ E) I, II ve III
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 13 / 4 / 3 |
+| Birebir / parafraz / çıkarım | 14 / 5 / 1 |
 | Olumsuz kök | 7 |
-| Önermeli | 3 (I, II ve III, Yalnız III, I ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 16, TERİM 5, BAŞLANGIÇ 4, LİSTE-DIŞI 3, SAĞDUYU 3, YAKIN-SAYI 3 |
+| Önermeli | 2 (I, II ve III, I ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 17, TERİM 6, BAŞLANGIÇ 4, LİSTE-DIŞI 3, SAĞDUYU 3, YAKIN-SAYI 3 |
 | İkiz eksen / ayna | — / ASKI-İPTAL (askı kutbu), ASKI-İPTAL (iptal kutbu), KONTEYNER-NO (talep üzerine liste kutbu), KONTEYNER-NO (taşıma bilgisi kutbu), İLETİM-DEĞİŞİKLİK (değişiklik kutbu), İLETİM-DEĞİŞİKLİK (ilk iletim kutbu) |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 0 |

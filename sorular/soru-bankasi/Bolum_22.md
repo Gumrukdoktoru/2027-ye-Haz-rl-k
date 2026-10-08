@@ -38,19 +38,13 @@ C) Kapsamlı teminatta teminat gümrük idaresi – Şirket merkezinin ticaret s
 D) Kabul edilen teminat mektubunun aslının gönderilmesi – İlgili Gümrük Saymanlık Müdürlüğü  
 E) Kapsamlı teminat izninin iptali veya askıya alınmasında bölge müdürlüğünce bilgi verilmesi – Gümrükler Genel Müdürlüğü  
 
-**5-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'te kapsamlı teminatta indirim ve teminattan vazgeçmeye ilişkin olarak aşağıdaki ifadeler verilmiştir:
+**5-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'te kapsamlı teminatta indirim ve teminattan vazgeçmeye ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Kapsamlı teminatta indirim ve teminattan vazgeçme başvuruları en az on milyon TL tutarındaki kapsamlı teminat mektupları için yapılır.  
-II. İkinci düzey kapsamlı teminat kullanıcısı olabilmek için başvuruya konu GRN kapsamında son bir yıl içerisinde en az 2000 transit beyanı ile taşıma yapılmış olması gerekir.  
-III. İkinci düzey kapsamlı teminat kullanıcısı için referans tutar, kapsamlı teminat tutarının 2 katı olacak şekilde sisteme tanımlanır.  
-IV. İzin sahibine ait tüm GRN'ler esas alındığında, teminattan toplamda vazgeçilecek miktar firmanın ödenmiş sermayesinin beşte birinden fazla olamaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) I, III ve IV  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Kapsamlı teminatta indirim ve teminattan vazgeçme başvuruları en az on milyon TL tutarındaki kapsamlı teminat mektupları için yapılır.  
+B) İkinci düzey kapsamlı teminat kullanıcısı için referans tutar, kapsamlı teminat tutarının 2 katı olacak şekilde sisteme tanımlanır.  
+C) İkinci düzeye geçişte, son bir yıl içerisinde başvuruya konu GRN kapsamında en az 2000 transit beyanı ile taşıma yapılmış olması aranır.  
+D) İzin sahibine ait tüm GRN'ler esas alındığında, teminattan toplamda vazgeçilecek miktar firmanın ödenmiş sermayesinin beşte birinden fazla olamaz.  
+E) Herhangi bir indirim veya vazgeçme uygulaması söz konusu olmadığında, kapsamlı teminat tutarı referans tutara eşittir.  
 
 **6-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'ün kapsamlı teminatta indirime ilişkin hükümleri çerçevesinde (A) Lojistik A.Ş. hakkında aşağıdaki bilgiler verilmiştir:
 
@@ -75,19 +69,13 @@ C) Taşımalarda taşıtların uydu üzerinden takibine imkân veren elektronik 
 D) İzin sahibinin en az 5 yıldır kurumlar vergisi mükellefi olduğuna ilişkin vergi dairesinden alınacak belgenin bulunması  
 E) İzin sahibinin bünyesinde transit işlemlerini takip etmek üzere en az bir gümrük müşaviri istihdam etmesi  
 
-**8-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'te transit rejiminde teminat veren kefile ilişkin olarak aşağıdaki ifadeler verilmiştir:
+**8-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'te transit rejiminde teminat veren kefile ilişkin aşağıdakilerden hangisi doğrudur?
 
-I. Kefil, Türkiye'de yerleşik, teminat mektubu vermeye yetkili banka ve finans kuruluşları olabilir.  
-II. Kefilin yükümlülüğü, hareket gümrük idaresinin eşyayı bu teminat kapsamında serbest bıraktığı tarihte başlar.  
-III. Kefilin yükümlülüğü, teminat mektubunda belirtilen maksimum tutarla sınırlı olup para cezalarını da kapsar.  
-IV. Kefil tarafından verilen teminat, sonradan kontrolleri müteakiben ödenebilir gümrük vergilerini ve diğer yükleri kapsamaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, II ve III  
-E) II, III ve IV  
+A) Kefil tarafından verilen teminat, sonradan kontrolleri müteakiben ödenebilir gümrük vergileri ve diğer yükleri de kapsar.  
+B) Kefilin yükümlülüğü, teminat mektubunda belirtilen maksimum tutarla sınırlı olup para cezalarını da kapsar.  
+C) Kefilin yükümlülüğü, taahhüdünün teminat gümrük idaresince kabul edildiği tarihte başlar.  
+D) Kefil ve rejim hak sahibi aynı kişi olabilir; ancak aralarında ana firma bağlı firma ilişkisi varsa bağlı firmanın ayrı tüzel kişiliği olmalıdır.  
+E) Kefile gümrük yükümlülüğünün doğduğuna ilişkin bildirimde bulunulması hâlinde kefil, bildirimin alınmasından itibaren en geç otuz gün içerisinde teminat gümrük idaresine bilgi verir.  
 
 **9-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit rejiminde eşyanın gümrük statüsü ve eşyanın taşınacağı rejime ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -97,19 +85,13 @@ C) Ulusal transit rejiminde eşya, her durumda TR rejimi kapsamında taşınır.
 D) Sevkiyatın T1 rejimi kapsamında taşınması gereken eşya ile T2 rejimi kapsamında taşınması gereken eşyayı içermesi durumunda transit beyanında "T" sembolü kullanılır.  
 E) T2 rejimi kapsamında Türkiye'ye getirilen ve bu rejim kapsamında yeniden ihraç edilecek eşya, ayniyeti ve durumunda hiçbir değişiklik olmamasını sağlamak amacıyla gümrük gözetimi altında tutulur.  
 
-**10-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'ün taşıma sırasındaki olaylara ilişkin hükümleri çerçevesinde aşağıdaki bilgiler verilmiştir:
+**10-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre taşıma sırasında aracın kaza yapması veya bozulması sebebiyle eşyanın başka bir taşıma aracına aktarılmasının gerekmesi gibi bir durum yaşandığında, taşıyıcının gecikmeksizin eşyayı ve transit beyanının MRN numarasını sunması gereken, o anda taşıma aracının bulunduğu bölgedeki en yakın gümrük idaresine verilen ad aşağıdakilerden hangisidir?
 
-- Ortak transit rejimi kapsamında eşya taşıyan araç, yolda kaza yapmış ve eşyanın başka bir taşıma aracına aktarılması gerekmiştir.  
-- Taşıyıcı, olayın ardından gecikmeksizin eşyayı ve transit beyanının MRN numarasını, aracın o anda bulunduğu bölgedeki en yakın gümrük idaresine sunmuştur.  
-- Bu gümrük idaresi, transit beyanında aynı zamanda transit idaresi olarak kayıtlıdır.  
-- İdare, aktarmanın ardından taşımanın devam edebileceğine karar vermiştir.  
-Buna göre söz konusu gümrük idaresinin işlemlerine ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Transit beyanında transit idaresi olarak kayıtlı olduğundan olay kaydı yapmaksızın yalnızca transit idaresi olarak işlem yapar.  
-B) Önce transit idaresi olarak sınır geçişini kaydeder, ardından olay kaydı gümrük idaresi olarak işlem yapar.  
-C) Olay kaydını kendisi yapmaz; olay bilgileri hareket gümrük idaresince sisteme kaydedilir ve bu idare yalnızca aktarmaya nezaret eder.  
-D) Aktarma taşıyıcı tarafından transit refakat belgesine kaydedildiğinden yetkili makamın onayı ve mührü aranmaz ve idarece sisteme bir kayıt yapılmaz.  
-E) Önce olay kaydı gümrük idaresi olarak hareket eder, ardından taşımada kayıtlı olduğu transit idaresi olarak işlem yapar.  
+A) Transit gümrük idaresi  
+B) Varış gümrük idaresi  
+C) Hareket gümrük idaresi  
+D) Çıkış gümrük idaresi  
+E) Olay kaydı gümrük idaresi  
 
 **11-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre aşağıdaki durumların hangisinde transit beyanında düzeltme yapılmasına izin verilebilir?
 
@@ -143,19 +125,13 @@ C) 7 gün
 D) 10 gün  
 E) 15 gün  
 
-**15-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'ün süre kontrolü işlemlerine ilişkin hükümleri çerçevesinde aşağıdaki bilgiler verilmiştir:
+**15-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre serbest bölgelere transit olarak sevk edilen eşyanın serbest bölgeye alınması için gerekli belgelerin alıcısı tarafından ibraz edilemediği durumlarda, transit süresinin aşılıp aşılmadığının tespitinde aşağıdakilerden hangisi esas alınır?
 
-- Ulusal transit rejimi kapsamındaki eşya, bir serbest bölgeye sevk edilmektedir.  
-- Hareket gümrük idaresince belirlenen süre sınırı 12 Mart günü saat 17.00'dir.  
-- Taşıt, 12 Mart günü saat 11.00'de serbest bölgeye gelmiştir.  
-- Eşyanın serbest bölgeye alınması için gerekli belgeler alıcı tarafından ibraz edilemediğinden, eşya ve belgeler varış gümrük idaresine ancak 14 Mart günü sunulabilmiştir.  
-Buna göre transit süresinin aşılıp aşılmadığının tespitine ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Eşya ve belgelerin varış gümrük idaresine sunulduğu tarih esas alınır; transit süresi aşılmıştır.  
-B) Belgelerin alıcı tarafından ibraz edildiği tarih esas alınır; transit süresi aşılmıştır.  
-C) Mobil ekiplerce düzenlenecek tespit tutanağının tarih ve saati esas alınır; tutanak düzenlenmediğinden süre aşılmıştır.  
-D) Aracın serbest bölgeye geliş tarihi ve saati esas alınır; transit süresi aşılmamıştır.  
-E) Süre aşılmıştır; ancak gecikme emniyet veya jandarma birimlerinden alınacak belgelerle belgelendirilirse para cezası uygulanmaz.  
+A) Eşya ve MRN'nin varış gümrük idaresine sunulduğu tarih ve saat  
+B) Gerekli belgelerin alıcı tarafından ibraz edildiği tarih ve saat  
+C) Eşyanın serbest bölgeye alındığı tarih ve saat  
+D) Aracın serbest bölgeye geliş tarihi ve saati  
+E) Mobil ekiplerce düzenlenen tespit tutanağının tarih ve saati  
 
 **16-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre varış gümrük idaresine bağlı ve yetkilendirilmiş gümrük müşaviri (YGM) bulunan antrepolarda yürütülen transit işlemlerine ilişkin aşağıdakilerden hangisi yanlıştır?
 
@@ -269,24 +245,18 @@ E) Kapsamlı teminat izninin iptali veya askıya alınmasında bölge müdürlü
 **Doğru Cevap:** A  
 **Gerekçe:** Tebliğe göre teminat gümrük idaresi teminatın türüne göre değişir. Kapsamlı teminat için, Bakanlığın internet sayfasında yayımlanan kılavuzdaki tabloya göre başvuru sahibinin şirket merkezinin ticaret siciline kayıtlı bulunduğu ilin karşısında yer alan gümrük ve dış ticaret bölge müdürlüğü; teminattan vazgeçme için Gümrükler Genel Müdürlüğü; bireysel teminat için hareket gümrük idaresi teminat gümrük idaresidir. Teminat gümrük idaresi, kabul ettiği teminat mektubunun aslını ilgili Gümrük Saymanlık Müdürlüğüne gönderir. Kapsamlı teminat izninin iptali veya askıya alınması durumunda bölge müdürlüğü Gümrükler Genel Müdürlüğüne bilgi verir. Yanlış eşleştirme, kapsamlı teminatın makamını teminattan vazgeçmeye taşımaktadır; vazgeçmede yetkili birim bölge müdürlüğü değil Gümrükler Genel Müdürlüğüdür. Bu nedenle doğru cevap A seçeneğidir. (MD 5)
 
-*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 11, Geçici md. 1*
+*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 10, 11, Geçici md. 1*
 
-**5-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'te kapsamlı teminatta indirim ve teminattan vazgeçmeye ilişkin olarak aşağıdaki ifadeler verilmiştir:
+**5-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'te kapsamlı teminatta indirim ve teminattan vazgeçmeye ilişkin aşağıdakilerden hangisi yanlıştır?
 
-I. Kapsamlı teminatta indirim ve teminattan vazgeçme başvuruları en az on milyon TL tutarındaki kapsamlı teminat mektupları için yapılır.  
-II. İkinci düzey kapsamlı teminat kullanıcısı olabilmek için başvuruya konu GRN kapsamında son bir yıl içerisinde en az 2000 transit beyanı ile taşıma yapılmış olması gerekir.  
-III. İkinci düzey kapsamlı teminat kullanıcısı için referans tutar, kapsamlı teminat tutarının 2 katı olacak şekilde sisteme tanımlanır.  
-IV. İzin sahibine ait tüm GRN'ler esas alındığında, teminattan toplamda vazgeçilecek miktar firmanın ödenmiş sermayesinin beşte birinden fazla olamaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) I, III ve IV  
-D) II, III ve IV  
-E) I, II, III ve IV  
+A) Kapsamlı teminatta indirim ve teminattan vazgeçme başvuruları en az on milyon TL tutarındaki kapsamlı teminat mektupları için yapılır.  
+B) İkinci düzey kapsamlı teminat kullanıcısı için referans tutar, kapsamlı teminat tutarının 2 katı olacak şekilde sisteme tanımlanır.  
+C) İkinci düzeye geçişte, son bir yıl içerisinde başvuruya konu GRN kapsamında en az 2000 transit beyanı ile taşıma yapılmış olması aranır.  
+D) İzin sahibine ait tüm GRN'ler esas alındığında, teminattan toplamda vazgeçilecek miktar firmanın ödenmiş sermayesinin beşte birinden fazla olamaz.  
+E) Herhangi bir indirim veya vazgeçme uygulaması söz konusu olmadığında, kapsamlı teminat tutarı referans tutara eşittir.  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Tebliğe göre kapsamlı teminatta indirim ve teminattan vazgeçme başvuruları en az on milyon TL tutarındaki kapsamlı teminat mektupları için yapılır (I doğru); bu alt sınır 31.12.2023 tarihli değişiklikle getirilmiş olup geçiş hükmüne göre bu düzenlemenin yürürlüğünden önce sisteme tanımlanmış en az iki milyon TL tutarındaki mektuplar için uygulanmaz. İkinci düzey için son bir yıl içinde en az 1000 transit beyanı ile taşıma yapılmış olması aranır; 2000 beyan şartı üçüncü düzeye, 4000 beyan şartı dördüncü düzeye aittir (II yanlış). İkinci düzeyde kapsamlı teminat tutarı referans tutarın %50'sine eşit olup referans tutar kapsamlı teminat tutarının 2 katı olarak tanımlanır (III doğru). Dördüncü düzeyde teminattan vazgeçme tanınır; ancak izin sahibinin tüm GRN'leri esas alındığında vazgeçilecek toplam miktar ödenmiş sermayenin beşte birini aşamaz (IV doğru). En güçlü tuzak II'dir: sayı, bir üst düzeyin şartından taşınmıştır. Bu nedenle doğru cevap C seçeneğidir. (MD 11; Geçici MD 1)
+**Gerekçe:** Tebliğe göre birinci düzey kapsamlı teminat kullanıcısının ikinci düzeye geçebilmesi için, ortak koşullara ek olarak başvuruya konu GRN'nin en az bir yıldır sisteme tanımlı olması ve son bir yıl içinde bu GRN kapsamında en az 1000 transit beyanı ile taşıma yapılmış olması aranır. 2000 transit beyanı şartı ikinci düzeyden üçüncü düzeye geçişe, 4000 beyan şartı ise dördüncü düzeye (teminattan vazgeçme) aittir; yanlış ifadede bir üst düzeyin sayısı ikinci düzeye taşınmıştır. Diğer ifadeler metinle aynıdır: indirim ve vazgeçme başvuruları en az on milyon TL tutarındaki kapsamlı teminat mektupları için yapılır (bu alt sınır 31.12.2023 tarihli Seri No: 15 Tebliğ ile getirilmiş olup geçiş hükmüne göre bu düzenlemeden önce sisteme tanımlanmış en az iki milyon TL tutarındaki mektuplara uygulanmaz); ikinci düzeyde referans tutar kapsamlı teminat tutarının 2 katı olarak tanımlanır; tüm GRN'ler esas alındığında vazgeçilecek toplam miktar ödenmiş sermayenin beşte birini aşamaz; indirim veya vazgeçme yoksa kapsamlı teminat tutarı referans tutara eşittir. En güçlü çeldirici on milyon TL alt sınırıdır: geçiş hükmündeki iki milyon TL'yi bilen aday bu doğru ifadeyi yanlış sayabilir. Bu nedenle doğru cevap C seçeneğidir. (MD 10, 11; Geçici MD 1)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 10, 11, 11/A*
 
@@ -323,22 +293,16 @@ E) İzin sahibinin bünyesinde transit işlemlerini takip etmek üzere en az bir
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 14*
 
-**8-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'te transit rejiminde teminat veren kefile ilişkin olarak aşağıdaki ifadeler verilmiştir:
+**8-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'te transit rejiminde teminat veren kefile ilişkin aşağıdakilerden hangisi doğrudur?
 
-I. Kefil, Türkiye'de yerleşik, teminat mektubu vermeye yetkili banka ve finans kuruluşları olabilir.  
-II. Kefilin yükümlülüğü, hareket gümrük idaresinin eşyayı bu teminat kapsamında serbest bıraktığı tarihte başlar.  
-III. Kefilin yükümlülüğü, teminat mektubunda belirtilen maksimum tutarla sınırlı olup para cezalarını da kapsar.  
-IV. Kefil tarafından verilen teminat, sonradan kontrolleri müteakiben ödenebilir gümrük vergilerini ve diğer yükleri kapsamaz.  
-Yukarıdaki ifadelerden hangileri doğrudur?  
-
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, II ve III  
-E) II, III ve IV  
+A) Kefil tarafından verilen teminat, sonradan kontrolleri müteakiben ödenebilir gümrük vergileri ve diğer yükleri de kapsar.  
+B) Kefilin yükümlülüğü, teminat mektubunda belirtilen maksimum tutarla sınırlı olup para cezalarını da kapsar.  
+C) Kefilin yükümlülüğü, taahhüdünün teminat gümrük idaresince kabul edildiği tarihte başlar.  
+D) Kefil ve rejim hak sahibi aynı kişi olabilir; ancak aralarında ana firma bağlı firma ilişkisi varsa bağlı firmanın ayrı tüzel kişiliği olmalıdır.  
+E) Kefile gümrük yükümlülüğünün doğduğuna ilişkin bildirimde bulunulması hâlinde kefil, bildirimin alınmasından itibaren en geç otuz gün içerisinde teminat gümrük idaresine bilgi verir.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Tebliğe göre kefil, Türkiye'de yerleşik, teminat mektubu vermeye yetkili banka ve finans kuruluşları olabilir (I doğru). Kefilin yükümlülüğü, taahhüdünün teminat gümrük idaresince kabul edilmesine dayanır ve hareket gümrük idaresinin eşyayı bu teminat kapsamında serbest bıraktığı tarihte başlar (II doğru). Kefilin yükümlülüğü teminat mektubunda belirtilen maksimum tutarla sınırlıdır ve para cezalarını kapsamaz (III yanlış). Kefil tarafından verilen teminat, sonradan kontrolleri müteakiben ödenebilir gümrük vergileri ve diğer yükleri de kapsar (IV yanlış). III ve IV, metindeki 'kapsamaz' ve 'kapsar' ifadelerinin yer değiştirmesiyle kurulmuştur: kefil vergiyi sonradan kontrol aşamasında da karşılar, para cezasını ise karşılamaz. Bu nedenle doğru cevap A seçeneğidir. (MD 14)
+**Gerekçe:** Tebliğe göre kefil tarafından verilen teminat, sonradan kontrolleri müteakiben ödenebilir gümrük vergileri ve diğer yükleri de kapsar. Kefilin yükümlülüğü teminat mektubunda belirtilen maksimum tutarla sınırlıdır ve para cezalarını kapsamaz; kefil vergiyi sonradan kontrol aşamasında da karşılar, para cezasını ise karşılamaz. Kefilin yükümlülüğü, taahhüdünün teminat gümrük idaresince kabul edilmesine dayanır; ancak hareket gümrük idaresinin eşyayı bu teminat kapsamında serbest bıraktığı tarihte başlar. Kefil ve rejim hak sahibi aynı kişi olamaz; aralarında ana firma bağlı firma ilişkisi varsa bağlı firmanın ana firmadan ayrı tüzel kişiliği olmalıdır. Kefile gümrük yükümlülüğünün doğduğuna ilişkin bildirim yapılmışsa kefil, bildirimin alınmasından itibaren en geç on gün içinde teminat gümrük idaresine bilgi verir; otuz gün, kapsamlı teminat koşullarını kaybeden izin sahibine şartları yeniden sağlaması için verilen süredir. En güçlü çeldirici yükümlülüğün başlangıcını teminatın kabulüne bağlayan seçenektir: kabul yükümlülüğün dayanağıdır, başlangıç anı ise eşyanın serbest bırakılmasıdır. Bu nedenle doğru cevap A seçeneğidir. (MD 12, 14)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 16, 17*
 
@@ -353,24 +317,18 @@ E) T2 rejimi kapsamında Türkiye'ye getirilen ve bu rejim kapsamında yeniden i
 **Doğru Cevap:** B  
 **Gerekçe:** Tebliğe göre ortak transit rejiminde tamamen Topluluk Gümrük Bölgesinde elde edilen veya Toplulukta serbest dolaşıma sokulmuş eşya 'birlik eşyası' statüsünde olup T2 rejimiyle; Topluluk Gümrük Bölgesinin parçası olmayan bir ülkeden ithal edilip serbest dolaşıma sokulmamış eşya ise 'birlik dışı eşya' statüsünde olup T1 rejimiyle taşınır. Türkiye'de serbest dolaşımda bulunan ihracat eşyası birlik eşyası statüsünde değildir; Sözleşmeye akit taraflara T2 ile değil T1 rejimi kapsamında taşınır. Ulusal transitte eşya her durumda TR rejimiyle taşınır; sevkiyat T1 ve T2 eşyasını birlikte içeriyorsa 'T' sembolü kullanılır ve her kalem için T1 veya T2 belirtilir. T2 ile getirilip yeniden ihraç edilecek eşya ise ayniyetinin korunması için gümrük gözetimi altında tutulur. Tuzak, Türkiye'deki serbest dolaşım eşyasının Topluluk eşyası gibi T2 ile taşınacağı sanısıdır. Bu nedenle doğru cevap B seçeneğidir. (MD 16, 17)
 
-*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 30, 33*
+*Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 30, 34*
 
-**10-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'ün taşıma sırasındaki olaylara ilişkin hükümleri çerçevesinde aşağıdaki bilgiler verilmiştir:
+**10-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre taşıma sırasında aracın kaza yapması veya bozulması sebebiyle eşyanın başka bir taşıma aracına aktarılmasının gerekmesi gibi bir durum yaşandığında, taşıyıcının gecikmeksizin eşyayı ve transit beyanının MRN numarasını sunması gereken, o anda taşıma aracının bulunduğu bölgedeki en yakın gümrük idaresine verilen ad aşağıdakilerden hangisidir?
 
-- Ortak transit rejimi kapsamında eşya taşıyan araç, yolda kaza yapmış ve eşyanın başka bir taşıma aracına aktarılması gerekmiştir.  
-- Taşıyıcı, olayın ardından gecikmeksizin eşyayı ve transit beyanının MRN numarasını, aracın o anda bulunduğu bölgedeki en yakın gümrük idaresine sunmuştur.  
-- Bu gümrük idaresi, transit beyanında aynı zamanda transit idaresi olarak kayıtlıdır.  
-- İdare, aktarmanın ardından taşımanın devam edebileceğine karar vermiştir.  
-Buna göre söz konusu gümrük idaresinin işlemlerine ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Transit beyanında transit idaresi olarak kayıtlı olduğundan olay kaydı yapmaksızın yalnızca transit idaresi olarak işlem yapar.  
-B) Önce transit idaresi olarak sınır geçişini kaydeder, ardından olay kaydı gümrük idaresi olarak işlem yapar.  
-C) Olay kaydını kendisi yapmaz; olay bilgileri hareket gümrük idaresince sisteme kaydedilir ve bu idare yalnızca aktarmaya nezaret eder.  
-D) Aktarma taşıyıcı tarafından transit refakat belgesine kaydedildiğinden yetkili makamın onayı ve mührü aranmaz ve idarece sisteme bir kayıt yapılmaz.  
-E) Önce olay kaydı gümrük idaresi olarak hareket eder, ardından taşımada kayıtlı olduğu transit idaresi olarak işlem yapar.  
+A) Transit gümrük idaresi  
+B) Varış gümrük idaresi  
+C) Hareket gümrük idaresi  
+D) Çıkış gümrük idaresi  
+E) Olay kaydı gümrük idaresi  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Tebliğe göre taşıma sırasında aracın kaza yapması veya bozulması sebebiyle eşyanın başka bir taşıma aracına veya konteynere aktarılmasının gerekmesi hâlinde taşıyıcı derhal en yakın gümrük idaresini bilgilendirir ve olayın gerçekleşmesinden sonra gecikmeksizin eşyayı ve transit beyanının MRN numarasını, o anda taşıma aracının bulunduğu bölgedeki en yakın gümrük idaresine sunar; bu idare 'olay kaydı gümrük idaresi' olarak adlandırılır. Olay kaydını gerçekleştirecek en yakın gümrük idaresi aynı zamanda taşımada transit ya da varış gümrük idaresi olarak kayıtlıysa, bu idare önce olay kaydı gümrük idaresi olarak hareket eder ve ardından taşımada kayıtlı olduğu idare olarak işlem yapar. Olay kaydı gümrük idaresi olay bilgilerini sisteme kaydederek hareket gümrük idaresine durumu bildirir; kaydı hareket gümrük idaresi yapmaz. Yetkili makamın onayı ve mührü aranmaksızın taşıyıcının TRB üzerine kaydının yeterli olduğu hâl, eşyanın bulunduğu bölüme müdahale edilmeden ve aktarma yapılmadan yalnızca çekicinin değiştiği durumdur; üstelik bu durumda da değişiklik sonradan olay kaydı gümrük idaresi rolüyle sisteme kaydedilir. En güçlü çeldirici, idarenin transit idaresi olarak kayıtlı olması nedeniyle olay kaydının atlanacağını söyleyen seçenektir: Tebliğ bu çakışmada önce olay kaydını, sonra kayıtlı rolü öngörür; sınır geçişinin transit idaresince kaydı bu nedenle olay kaydından sonra gelir. Bu nedenle doğru cevap E seçeneğidir. (MD 30, 33)
+**Gerekçe:** Tebliğe göre taşıma sırasında aracın kaza yapması veya bozulması sebebiyle eşyanın başka bir taşıma aracına aktarılmasının gerekmesi, mührün taşıyıcının kontrolü dışındaki nedenlerle kırılması veya güzergâh dışına çıkılmasının gerekmesi gibi durumlardan biri yaşandığında taşıyıcı, olayın gerçekleşmesinden sonra gecikmeksizin eşyayı ve transit beyanının MRN numarasını o anda taşıma aracının bulunduğu bölgedeki en yakın gümrük idaresine sunar; bu idare 'olay kaydı gümrük idaresi' olarak adlandırılır. En yakın idare taşımada aynı zamanda transit veya varış gümrük idaresi olarak kayıtlıysa önce olay kaydı gümrük idaresi olarak hareket eder, ardından kayıtlı olduğu idare olarak işlem yapar; taşımanın devam edemeyeceğine karar verilirse olay kaydı gümrük idaresi varış gümrük idaresi olarak işlem yapar. En güçlü çeldiriciler bu yüzden transit ve varış gümrük idareleridir: aynı idare bu rolleri de üstlenebilir, ancak olay sonrası sunuluş yeri olarak adı olay kaydı gümrük idaresidir. Hareket gümrük idaresi olay bilgilerinin bildirildiği idaredir; çıkış gümrük idaresi ise taşıma sırasında çekicinin değiştiği hâllerde bu değişikliğe ilişkin bilgiyi olay kaydı gümrük idaresi rolüyle sisteme kaydeden idaredir. Bu nedenle doğru cevap E seçeneğidir. (MD 30, 34)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 21*
 
@@ -426,22 +384,16 @@ E) 15 gün
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 35, 36*
 
-**15-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'ün süre kontrolü işlemlerine ilişkin hükümleri çerçevesinde aşağıdaki bilgiler verilmiştir:
+**15-** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre serbest bölgelere transit olarak sevk edilen eşyanın serbest bölgeye alınması için gerekli belgelerin alıcısı tarafından ibraz edilemediği durumlarda, transit süresinin aşılıp aşılmadığının tespitinde aşağıdakilerden hangisi esas alınır?
 
-- Ulusal transit rejimi kapsamındaki eşya, bir serbest bölgeye sevk edilmektedir.  
-- Hareket gümrük idaresince belirlenen süre sınırı 12 Mart günü saat 17.00'dir.  
-- Taşıt, 12 Mart günü saat 11.00'de serbest bölgeye gelmiştir.  
-- Eşyanın serbest bölgeye alınması için gerekli belgeler alıcı tarafından ibraz edilemediğinden, eşya ve belgeler varış gümrük idaresine ancak 14 Mart günü sunulabilmiştir.  
-Buna göre transit süresinin aşılıp aşılmadığının tespitine ilişkin aşağıdakilerden hangisi doğrudur?  
-
-A) Eşya ve belgelerin varış gümrük idaresine sunulduğu tarih esas alınır; transit süresi aşılmıştır.  
-B) Belgelerin alıcı tarafından ibraz edildiği tarih esas alınır; transit süresi aşılmıştır.  
-C) Mobil ekiplerce düzenlenecek tespit tutanağının tarih ve saati esas alınır; tutanak düzenlenmediğinden süre aşılmıştır.  
-D) Aracın serbest bölgeye geliş tarihi ve saati esas alınır; transit süresi aşılmamıştır.  
-E) Süre aşılmıştır; ancak gecikme emniyet veya jandarma birimlerinden alınacak belgelerle belgelendirilirse para cezası uygulanmaz.  
+A) Eşya ve MRN'nin varış gümrük idaresine sunulduğu tarih ve saat  
+B) Gerekli belgelerin alıcı tarafından ibraz edildiği tarih ve saat  
+C) Eşyanın serbest bölgeye alındığı tarih ve saat  
+D) Aracın serbest bölgeye geliş tarihi ve saati  
+E) Mobil ekiplerce düzenlenen tespit tutanağının tarih ve saati  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Tebliğe göre eşyanın varış gümrük idaresine sunulması, hareket gümrük idaresince belirlenen süre sınırı içinde gerçekleştirilmelidir ve genel kural olarak transit işlemi eşyanın MRN ile varış gümrük idaresine sunulmasıyla sonlanır. Ancak serbest bölgelere transit olarak sevk edilen eşyanın serbest bölgeye alınması için gerekli belgelerin alıcısı tarafından ibraz edilemediği durumlarda, transit süresinin aşılıp aşılmadığının tespitinde aracın serbest bölgeye geliş tarihi ve saati esas alınır. Vakada araç, süre sınırından (12 Mart 17.00) önce, 12 Mart 11.00'de serbest bölgeye geldiğinden süre aşılmamıştır. Mobil ekip tutanağı sınır kapılarındaki kuyruklara, emniyet veya jandarma belgesiyle belgelendirme ise güvenlik sorunu, arıza, kaza, yol kapanması gibi nedenlerle aşılan sürelere ilişkindir. En güçlü çeldirici, genel kuralı uygulayıp sunuş tarihini esas alan seçenektir; vakaya saklanan istisna serbest bölge hükmüdür. Bu nedenle doğru cevap D seçeneğidir. (MD 35, 36)
+**Gerekçe:** Tebliğe göre eşyanın varış gümrük idaresine sunulması, hareket gümrük idaresince belirlenen süre sınırı içinde gerçekleştirilmelidir ve genel kural olarak transit işlemi eşyanın MRN ile varış gümrük idaresine sunulmasıyla sonlanır. Ancak serbest bölgelere transit olarak sevk edilen eşyanın serbest bölgeye alınması için gerekli belgelerin alıcısı tarafından ibraz edilemediği durumlarda, transit süresinin aşılıp aşılmadığının tespitinde aracın serbest bölgeye geliş tarihi ve saati esas alınır; böylece alıcının belge eksikliğinden doğan gecikme taşımaya yüklenmez. En güçlü çeldirici genel kuralı uygulayıp sunuş anını esas alan seçenektir. Belgelerin ibraz edildiği ya da eşyanın serbest bölgeye alındığı an, gecikmeyi tam da süreye katan ve Tebliğin dışladığı anlardır. Mobil ekip tutanağının tarih ve saati ise sınır kapılarındaki kuyruklar nedeniyle süresi içinde gümrük sahasına giremeyen araçlar için esas alınır. Bu nedenle doğru cevap D seçeneğidir. (MD 35, 36)
 
 *Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) md. 35, 37*
 
@@ -524,11 +476,11 @@ E) Eşyanın varış gümrük idaresine sunulması için verilen süre sınırı
 
 | Ölçüt | Değer |
 |---|---|
-| Birebir / parafraz / çıkarım | 14 / 3 / 3 |
-| Olumsuz kök | 7 |
-| Önermeli | 4 (I, III ve IV, I ve II, I ve III, II ve III) |
-| Vaka, uygulama, hesap | 3 |
-| Tuzaklar | KOMŞU 17, İSTİSNA 5, TERİM 4, TERSİNE 4, YAKIN-SAYI 4, SAĞDUYU 2 |
+| Birebir / parafraz / çıkarım | 16 / 3 / 1 |
+| Olumsuz kök | 8 |
+| Önermeli | 2 (I ve III, II ve III) |
+| Vaka, uygulama, hesap | 1 |
+| Tuzaklar | KOMŞU 17, TERİM 5, YAKIN-SAYI 5, İSTİSNA 4, TERSİNE 3, SAĞDUYU 3 |
 | İkiz eksen / ayna | 9 / SB22: transit beyanında düzeltme ↔ iptal |
 | Güncellik | — |
 | Çıkmış bilgi alanı karşılayan | 3 |
