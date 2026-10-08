@@ -1,11 +1,12 @@
 """GMY Soru Bankası kitabı: her konudan 20 soru, soru bölümleri çift sütun (test kâğıdı), çözümler tek sütun.
 
 Kullanım:
-  python3 kitap.py METIN_KLASORU BOLUMLER.json VERI_KLASORU CIKTI_ADI [SAYFA_HARITASI.json]
+  python3 kitap.py METIN_KLASORU BOLUMLER.json VERI_KLASORU CIKTI_ADI [SAYFA_HARITASI.json] [--cozumsuz]
 
 VERI_KLASORU: sb_XX.py (soru verisi) ve sb_XX_rapor.json (bulunamayan, giremeyen, notlar) dosyaları.
 CIKTI_ADI: CIKTI_ADI.html ve CIKTI_ADI.json yazılır; md dosyaları CIKTI_ADI_md/ klasörüne yazılır.
 SAYFA_HARITASI: {"bölüm no": sayfa} — verilirse içindekiler sayfa numaralarıyla basılır (iki geçişli üretim).
+--cozumsuz: çözümler ve set raporları basılmaz; testler + kitabın sonunda toplu cevap anahtarları (Ek A) + cevap formu (Ek B).
 """
 import html
 import json
@@ -156,6 +157,9 @@ h2 { font-size: 11.5pt; color: #1B3A5C; border-left: 1.4mm solid #B8860B; paddin
 .rapor td { padding: .9mm 2mm; border-bottom: 1px solid #e3e6ea; vertical-align: top; }
 .rapor td:first-child { width: 34%; font-weight: bold; color: #10263d; }
 .ekrapor { break-inside: avoid; margin-bottom: 4mm; }
+.ekanahtar { break-inside: avoid; margin-bottom: 2.5mm; }
+.ekanahtar h3 { font-size: 9.5pt; color: #1B3A5C; margin: 0 0 .8mm; }
+.ekanahtar .anahtar { margin: 0; }
 .ekrapor h3 { font-size: 10pt; color: #1B3A5C; margin: 0 0 1mm; }
 .ekrapor p, .ekrapor li { font-size: 8.4pt; margin: 0 0 .8mm; }
 .ekrapor ul { margin: 0 0 1mm; padding-left: 5mm; }
@@ -216,8 +220,10 @@ def md_bolum(no, baslik, kaynak, Q, R):
 
 
 def main():
-    metin, bolum_yolu, veri, ad = sys.argv[1:5]
-    harita = json.load(open(sys.argv[5])) if len(sys.argv) > 5 else {}
+    cozumsuz = '--cozumsuz' in sys.argv
+    arg = [a for a in sys.argv[1:] if not a.startswith('--')]
+    metin, bolum_yolu, veri, ad = arg[:4]
+    harita = json.load(open(arg[4])) if len(arg) > 4 else {}
     veri = pathlib.Path(veri)
     bolumler = json.load(open(bolum_yolu, encoding='utf-8'))
     kitap = []
@@ -234,48 +240,66 @@ def main():
         kitap.append((no, baslik, kaynak, bolum_hazirla(no, Q), R))
     toplam = sum(len(b[3]) for b in kitap)
     # Markdown (bölüm başına)
-    mdk = pathlib.Path(f'{ad}_md')
-    mdk.mkdir(exist_ok=True)
-    for no, baslik, kaynak, Q, R in kitap:
-        (mdk / f'Bolum_{no:02d}.md').write_text(md_bolum(no, baslik, kaynak, Q, R), encoding='utf-8')
+    if not cozumsuz:
+        mdk = pathlib.Path(f'{ad}_md')
+        mdk.mkdir(exist_ok=True)
+        for no, baslik, kaynak, Q, R in kitap:
+            (mdk / f'Bolum_{no:02d}.md').write_text(md_bolum(no, baslik, kaynak, Q, R), encoding='utf-8')
     # HTML
     b = [f'<!doctype html><html lang="tr"><head><meta charset="utf-8"><title>{BASLIK}</title><style>{CSS}</style></head><body>',
          '<section class="kapak"><div class="bant"><div class="ust">GÜMRÜK MÜŞAVİR YARDIMCILIĞI SINAVINA HAZIRLIK</div>',
          f'<h1>{BASLIK}</h1><div class="alt">Konu konu {toplam} soru · {len(kitap)} bölüm · test kâğıdı düzeninde, '
-         'cevap anahtarlı ve gerekçeli çözümlü</div></div>',
+         + ('cevap anahtarlı</div></div>' if cozumsuz else 'cevap anahtarlı ve gerekçeli çözümlü</div></div>'),
          '<div class="orta">Her bölüm bir konunun mevzuat metninden hazırlanmış bir testtir; kaynağı dar birkaç konu dışında testler 20 sorudur. Sorular 2021–2025 '
          'GMY sınavlarının soru mantığıyla yazılmıştır: kilit cümle madde metninden, çeldiriciler komşu hükümlerden. '
          'Çıkmış soruların metni ve kurgusu kopyalanmamıştır.</div>',
          f'<div class="rakam"><div><b>{toplam}</b>soru</div><div><b>{len(kitap)}</b>konu bölümü</div>'
-         '<div><b>1,5</b>dakika / soru</div><div><b>%100</b>gerekçeli çözüm</div></div>',
+         '<div><b>1,5</b>dakika / soru</div>'
+         + (f'<div><b>{len(kitap)}</b>cevap anahtarı</div></div>' if cozumsuz else '<div><b>%100</b>gerekçeli çözüm</div></div>'),
          f'<div class="imza">{MARKA}</div></section>']
     # Kullanım ve içindekiler
-    b.append('<h1>Kitap Nasıl Kullanılır?</h1><ul>'
-             '<li>Her bölüm bir testle başlar. Test sayfaları sınav kitapçığı gibi çift sütunludur; soru başına 1,5 dakika ayırın (20 soru için 30 dakika).</li>'
-             '<li>Cevaplarınızı Ek B\'deki cevap formuna işaretleyin, sonra bölümün cevap anahtarıyla kontrol edin.</li>'
-             '<li>Çözümler testin hemen arkasındadır ve tek sütundur. Her çözümde doğru şık, dayanak madde ve gerekçe vardır. Gerekçe, '
-             'en güçlü çeldiricinin mevzuattaki yerini de söyler: yanlış yaptığınız soruda neyi neyle karıştırdığınızı görürsünüz.</li>'
-             '<li>Her bölümün set profili ve kaynakta karşılığı bulunamayan çıkmış soru noktaları Ek A\'dadır.</li></ul>')
+    if cozumsuz:
+        b.append('<h1>Kitap Nasıl Kullanılır?</h1><ul>'
+                 '<li>Her bölüm bir testtir. Test sayfaları sınav kitapçığı gibi çift sütunludur; soru başına 1,5 dakika ayırın (20 soru için 30 dakika).</li>'
+                 '<li>Cevaplarınızı Ek B\'deki cevap formuna işaretleyin.</li>'
+                 '<li>Testi bitirince cevaplarınızı Ek A\'daki cevap anahtarlarıyla kontrol edin. Anahtarlar, test sırasında göz ucuyla görülmesin diye kitabın sonunda toplanmıştır.</li></ul>')
+    else:
+        b.append('<h1>Kitap Nasıl Kullanılır?</h1><ul>'
+                 '<li>Her bölüm bir testle başlar. Test sayfaları sınav kitapçığı gibi çift sütunludur; soru başına 1,5 dakika ayırın (20 soru için 30 dakika).</li>'
+                 '<li>Cevaplarınızı Ek B\'deki cevap formuna işaretleyin, sonra bölümün cevap anahtarıyla kontrol edin.</li>'
+                 '<li>Çözümler testin hemen arkasındadır ve tek sütundur. Her çözümde doğru şık, dayanak madde ve gerekçe vardır. Gerekçe, '
+                 'en güçlü çeldiricinin mevzuattaki yerini de söyler: yanlış yaptığınız soruda neyi neyle karıştırdığınızı görürsünüz.</li>'
+                 '<li>Her bölümün set profili ve kaynakta karşılığı bulunamayan çıkmış soru noktaları Ek A\'dadır.</li></ul>')
     b.append('<h2>İçindekiler</h2><table class="icindekiler"><tbody>')
     for no, baslik, kaynak, Q, R in kitap:
         sf = harita.get(str(no), '')
         b.append(f'<tr><td class="no">{no:02d}</td><td>{e(baslik)}</td><td class="sf">{sf}</td></tr>')
     sfA, sfB = harita.get('EkA', ''), harita.get('EkB', '')
-    b.append(f'<tr><td class="no">Ek A</td><td>Set raporları</td><td class="sf">{sfA}</td></tr>'
+    b.append(f'<tr><td class="no">Ek A</td><td>{"Cevap anahtarları" if cozumsuz else "Set raporları"}</td><td class="sf">{sfA}</td></tr>'
              f'<tr><td class="no">Ek B</td><td>Cevap formu</td><td class="sf">{sfB}</td></tr></tbody></table>')
     for no, baslik, kaynak, Q, R in kitap:
         b.append('<section class="test">')
         b.append(f'<div class="bas"><b>BÖLÜM {no:02d} · {e(tr_upper(baslik))}</b><span>{len(Q)} soru · {round(len(Q) * 1.5)} dakika</span></div>')
         b += [test_soru(q) for q in Q]
         b.append('<div class="bitti">TEST BİTTİ. CEVAPLARINIZI KONTROL EDİNİZ.</div></section>')
+        if cozumsuz:
+            continue
         b.append(f'<section class="cozum"><h2 class="ust">Bölüm {no:02d} · {e(baslik)} — Cevap Anahtarı ve Çözümler</h2>')
         b.append('<table class="anahtar"><tr>' + ''.join(f'<th>{q["no"]}</th>' for q in Q) + '</tr><tr>'
                  + ''.join(f'<td>{q["harf"]}</td>' for q in Q) + '</tr></table>')
         b += [cozum_soru(q) for q in Q]
         b.append('</section>')
+    if cozumsuz:
+        # Ek A: toplu cevap anahtarları
+        b.append('<h1>Ek A — Cevap Anahtarları</h1>')
+        for no, baslik, kaynak, Q, R in kitap:
+            b.append(f'<div class="ekanahtar"><h3>Bölüm {no:02d} · {e(baslik)}</h3>'
+                     '<table class="anahtar"><tr>' + ''.join(f'<th>{q["no"]}</th>' for q in Q) + '</tr><tr>'
+                     + ''.join(f'<td>{q["harf"]}</td>' for q in Q) + '</tr></table></div>')
     # Ek A: set raporları
-    b.append('<h1>Ek A — Set Raporları</h1>')
-    for no, baslik, kaynak, Q, R in kitap:
+    if not cozumsuz:
+        b.append('<h1>Ek A — Set Raporları</h1>')
+    for no, baslik, kaynak, Q, R in ([] if cozumsuz else kitap):
         b.append(f'<div class="ekrapor"><h3>Bölüm {no:02d} · {e(baslik)}</h3><table class="rapor"><tbody>')
         b.append(f'<tr><td>Kaynak</td><td>{e(kaynak.replace(".txt", ""))}</td></tr>')
         b += [f'<tr><td>{e(a)}</td><td>{e(v)}</td></tr>' for a, v in profil(Q)]

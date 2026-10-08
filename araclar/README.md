@@ -21,4 +21,5 @@
   - `dogrulama/`: her bölümün bağımsız doğrulama raporu (hangi soru neden değişti).
   - `uretilen.py` → `uretilen.md`: bölümler arası tekrar listesi; `cakisma.py`: bölümler arası çekirdek benzerliği taraması.
   - `kitap.py`: harf dağıtımı ve kitap HTML'i (test bölümü çift sütun, çözüm tek sütun); `sayfa.py`: içindekiler için sayfa haritası; `hafiza.py`: üretim hafızasına ekleme.
+  - Çözümsüz sürüm: aynı komutlara `--cozumsuz` eklenir (testler + toplu cevap anahtarları + cevap formu).
   - Üretim: `python3 kitap.py <metin> bolumler.json veri <ad>` → `node ../gmy-deneme3/pdf5.mjs <ad>.html <ad>.pdf` → `python3 sayfa.py <ad>.pdf harita.json` → `kitap.py … <ad> harita.json` ve yeniden PDF.
