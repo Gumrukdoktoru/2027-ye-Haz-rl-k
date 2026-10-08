@@ -1,7 +1,8 @@
 """Soru bankası sorularını üretim hafızasına ekler (her bölüm ayrı set: SB-K01 … SB-K56).
 
-Kullanım: python3 hafiza.py KITAP.json URETIM-HAFIZASI.md
-Aynı ID zaten varsa satır yeniden eklenmez; Toplam satırı yeniden hesaplanır.
+Kullanım: python3 hafiza.py KITAP.json URETIM-HAFIZASI.md [--yenile]
+Aynı ID zaten varsa satır yeniden eklenmez; --yenile verilirse önce bütün SB-K satırları silinip kitaptan yeniden yazılır.
+Toplam satırı yeniden hesaplanır.
 """
 import json
 import re
@@ -11,6 +12,8 @@ kitap, yol = sys.argv[1:3]
 s = open(yol, encoding='utf-8').read()
 bas, son = s.index('```\n') + 4, s.rindex('\n```')
 satirlar = s[bas:son].split('\n')
+if '--yenile' in sys.argv:
+    satirlar = [x for x in satirlar if not x.rstrip().endswith(tuple(f'SB-K{i:02d}' for i in range(1, 100)))]
 var = {x.split(' | ')[0] for x in satirlar}
 yeni = []
 for b in json.load(open(kitap, encoding='utf-8')):

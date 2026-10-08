@@ -15,15 +15,14 @@ def G(metin, d, md):
 D1 = ("Serbest dolaşıma girmemiş eşyanın Türkiye Gümrük Bölgesinde, ithalat vergilerine veya ticaret politikası "
       "önlemlerine tabi tutulmaksızın, niteliğini veya durumunu değiştiren işlemlere tabi tutulmaları ve bu işlemlerden "
       "elde edilen ürünlerin gümrük vergileri üzerinden serbest dolaşıma girmelerine ilişkin hükümlerin uygulandığı rejimdir.")
-# ---------------------------------------------------------------- 2 — Kanun önermeli (2021/44)
-D2 = "I ve III"
+# ---------------------------------------------------------------- 2 — GK 123/1 tanımdan ad: işlenmiş ürün (2021/44)
+D2 = "İşlenmiş ürün"
 # ---------------------------------------------------------------- 3 — GK 124/2 izin hâlleri (liste dışı)
 D3 = "Rejimin, işlenmiş ürünlerin ihracı veya yeniden ihracı için en iyi imkânların yaratılmasına yardımcı olması"
 # ---------------------------------------------------------------- 4 — GK 126 (ayna: tescil anı)
 D4 = "İthal eşyasının bu rejime ilişkin beyannamenin tescili sırasında"
-# ---------------------------------------------------------------- 5 — GK 127 vaka (ayna: tescil anı)
-D5 = ("Tercihli tarife, serbest dolaşıma giriş beyannamesinin tescili sırasında hammaddeye uygulanamadığından "
-      "işlenmiş ürünlere tercihli vergi oranı uygulanamaz.")
+# ---------------------------------------------------------------- 5 — GK 127 kotalı tercihli tarife koşulu (ayna: tescil anı)
+D5 = "Tercihli tarifenin serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi"
 # ---------------------------------------------------------------- 6 — GY 370 (parafraz)
 D6 = ("Rejim, serbest dolaşıma girişte aranan bazı teknik düzenlemelere uygun hâle getirilmek için işlemden "
       "geçirilmesi gereken eşyaya da uygulanır.")
@@ -53,8 +52,9 @@ D15 = "serbest dolaşımın gerçekleşmesinden / 10'una"
 D16 = "Bir serbest bölgeye konulabilir."
 # ---------------------------------------------------------------- 17 — Tebliğ 7 teminat iadesi (önermeli)
 D17 = "I, III ve IV"
-# ---------------------------------------------------------------- 18 — Tebliğ 8 ceza vakası
-D18 = "Kanunda öngörülen usulsüzlük cezası miktarının dört katı tutarında usulsüzlük cezası"
+# ---------------------------------------------------------------- 18 — Tebliğ 8 ceza basamağı (söylenemez)
+D18 = ("İzin süresinin bitimini takiben iki ayı aşmayan süre içinde rejimin gerektirdiği işlemleri bitirilen eşya için "
+       "usulsüzlük cezası, Kanunda öngörülen miktarın iki katı olarak uygulanır.")
 # ---------------------------------------------------------------- 19 — Tebliğ 3-5 (yanlış)
 D19 = ("Mücbir sebep ve beklenmeyen hâllerin tevsikinde ilgili kamu kurum ve kuruluşlarından alınacak belgeler "
        "aranmaz; başvuru sahibinin yazılı beyanı yeterlidir.")
@@ -95,31 +95,29 @@ cikmis="2024/73",
 kapsamli=False,
 ),
 
-# 2 — GK 123-125: işlenmiş ürün, izin makamı, yerleşiklik, yönetmelik (önermeli)
+# 2 — GK 123/1: rejimde elde edilen ürünün kanuni adı (tanımdan ad; 2021/44)
 dict(
 konu=KONU, blok="SB32",
-kalip="ÖNERMELİ",
-z="Z",
-madde="4458 sayılı Gümrük Kanunu md. 123, 124, 125",
-cek="Kanunda ürün 'işlenmiş ürün'dür; izin talep üzerine gümrük idarelerince ve sadece TGB yerleşiklerine verilir; süre, ibra, verimlilik yönetmelikle belirlenir.",
-kok=["4458 sayılı Gümrük Kanunu'nun gümrük kontrolü altında işleme rejimine ve bu rejime ilişkin izne dair hükümleri çerçevesinde aşağıdaki ifadeler verilmiştir:",
-     "I. Rejim kapsamında yapılan işlemlerden elde edilen ürünler, işlenmiş ürün olarak adlandırılır.",
-     "II. İzin, ticari nitelikte olmayan işleme amaçlı ithalat için Türkiye Gümrük Bölgesi dışında yerleşik kişilere de verilebilir.",
-     "III. İzin, işleme işini yapan veya yaptıran kişinin talebi üzerine gümrük idarelerince verilir.",
-     "IV. Rejime ilişkin süreler, rejimin ibrası ve verimlilik oranları Cumhurbaşkanı Kararıyla belirlenir.",
-     "Yukarıdaki ifadelerden hangileri doğrudur?"],
+kalip="TANIM",
+z="O",
+madde="4458 sayılı Gümrük Kanunu md. 123",
+cek="Kanunda gümrük kontrolü altında işleme rejiminde elde edilen ürünler işlenmiş ürün olarak adlandırılır; ikame ürün HİR'e, asıl ve ikincil işlem görmüş ürün DİR'e aittir.",
+kok=["4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejimi kapsamında yapılan işlemlerden elde edilen ürünlere verilen ad aşağıdakilerden hangisidir?"],
 d=D2,
-c=["I ve II", "II ve IV", "III ve IV", "I, III ve IV"],
+c=["İkame ürün",
+   "Asıl işlem görmüş ürün",
+   "İkincil işlem görmüş ürün",
+   "Değişmemiş eşya"],
 sirali=False,
-g=G("4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejiminde elde edilen ürünler işlenmiş ürün olarak adlandırılır; dahilde işlemedeki işlem görmüş ürün kavramıyla karıştırılmamalıdır (I doğru). Kanuna göre izin, işleme işini yapan veya yaptıran kişinin talebi üzerine gümrük idarelerince verilir (III doğru). İzin sadece Türkiye Gümrük Bölgesinde yerleşik kişilere verilir; ticari nitelikte olmayan işleme amaçlı ithalat için bölge dışında yerleşik kişilere de izin verilebilmesi dahilde işleme rejimine özgü bir istisnadır (II yanlış). Rejime ilişkin süreler, rejimin ibrası ve verimlilik oranları, dahilde işlemedeki esaslar çerçevesinde yönetmelikle belirlenir; sürelerin Cumhurbaşkanı Kararıyla belirlenmesi dahilde işleme rejimine ait bir hükümdür (IV yanlış). En güçlü tuzak II. önermedir: iki rejimin izin hükümleri neredeyse aynıdır, ancak yerleşik olmayan kişiye izin istisnası yalnızca dahilde işlemede vardır.", D2, "GK 123, 124, 125; GK 110, 111"),
-kanit=K + " | Elde edilen bu tür ürünler, işlenmiş ürün olarak adlandırılır || " + K + " | Gümrük kontrolü altında işleme izni, işleme işini yapan veya yaptıran kişinin talebi üzerine gümrük idarelerince verilir || " + K + " | İzin, sadece Türkiye Gümrük Bölgesinde yerleşik kişilere || " + K + " | Gümrük kontrolü altında işleme rejimine ilişkin süreler, rejimin ibrası…ve verimlilik oranları, 111 ve 112 nci maddelerdeki esaslar çerçevesinde yönetmelikle belirlenir || " + DIR + " | Ticari nitelikte olmayan dahilde işleme amaçlı ithalat için Türkiye Gümrük Bölgesi dışında yerleşik kişilere de izin verilmesi mümkündür || " + DIR + " | İzin sahibi tarafından ileri sürülen haklı gerekçelere bağlı olarak ek süre verilebilir || " + DIR + " | Bu süre ve ek süreler, Cumhurbaşkanı",
-yuva=["I ve II: II'yi dahilde işlemedeki yerleşik olmayan kişi istisnasıyla (GK 110/3) karıştıran aday",
-      "II ve IV: iki öncülü de dahilde işleme hükümlerinden (GK 110/3, 111/2) taşıyan aday",
-      "III ve IV: IV'ü dahilde işlemedeki Cumhurbaşkanı Kararı hükmüyle (GK 111/2) karıştırıp I'i işlem görmüş ürün sanan aday",
-      "I, III ve IV: süre ve oranları belirleme yetkisini dahilde işlemedeki gibi Cumhurbaşkanına veren aday"],
+g=G("4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejimi, serbest dolaşıma girmemiş eşyanın Türkiye Gümrük Bölgesinde ithalat vergilerine veya ticaret politikası önlemlerine tabi tutulmaksızın niteliğini veya durumunu değiştiren işlemlere tabi tutulması ve elde edilen ürünlerin gümrük vergileri üzerinden serbest dolaşıma girmesidir; Kanun bu işlemlerden elde edilen ürünleri işlenmiş ürün olarak adlandırır. İkame ürün, hariçte işleme rejiminin standart değişim sisteminde işlem görmüş ürünün yerine geçen ithal eşyasının adıdır. Asıl işlem görmüş ürün ve ikincil işlem görmüş ürün, Kanunun dahilde işleme rejimi için tanımladığı deyimlerdir: asıl ürün dahilde işleme rejimi kapsamında elde edilmesi amaçlanan ürün, ikincil ürün ise işleme sonucunda elde edilen asıl ürün dışındaki üründür. Değişmemiş eşya ise rejimde işlenmeden kalan ithal eşyasını anlatır; bu eşya için yükümlülük doğarsa vergiler rejime ilişkin beyannamenin tescili sırasındaki unsurlara göre belirlenir. En güçlü tuzak asıl işlem görmüş üründür: dahilde işleme rejiminin terimi, aynı aileden bir işleme rejimine taşınmıştır.", D2, "GK 123; GK 108, 126, 144"),
+kanit=K + " | Elde edilen bu tür ürünler, işlenmiş ürün olarak adlandırılır || " + DIR + " | deyimi, dahilde işleme rejimi kapsamında elde edilmesi amaçlanan ürün anlamına gelir || " + DIR + " | deyimi, işleme faaliyetleri sonucunda elde edilen asıl işlem görmüş ürün dışındaki ürünler anlamına gelir || 35- hir.txt | ikame ürün olarak adlandırılan ithal eşyasının bir işlem görmüş ürün ile değiştirilmesi, standart değişim sistemi kapsamında || " + K + " | Değişmemiş eşyaya veya izinde öngörülen işlemin ara aşamalarından birinde bulunan ürünlere ilişkin bir gümrük yükümlülüğü doğduğunda",
+yuva=["GK 144: hariçte işleme rejiminin standart değişim sisteminde işlem görmüş ürünün yerine geçen ithal eşyası (komşu rejim)",
+      "GK 108/5: dahilde işleme rejiminde elde edilmesi amaçlanan ürün (komşu rejimin terimi)",
+      "GK 108/6 ve Tebliğ md. 6: asıl ürün dışında kalan ürünler (unsur daraltılmış)",
+      "GK 126: rejimde işlenmeden kalan ithal eşyası (karşıt kavram)"],
 yakinlik="BİREBİR",
-tuzak=["KOMŞU", "MAKAM", "TERİM"],
-duzey=["AYIRT"],
+tuzak=["TERİM", "KOMŞU"],
+duzey=["TANIMA"],
 profil=[1],
 olumsuz=False, vaka=False, baslangic=False,
 eksen=0, ayna="",
@@ -190,34 +188,31 @@ cikmis="",
 kapsamli=False,
 ),
 
-# 5 — GK 127: tercihli tarife ve kota; vaka (ayna 1)
+# 5 — GK 127: kotalı tercihli tarifenin işlenmiş ürüne uygulanma koşulu (ayna 1)
 dict(
 konu=KONU, blok="SB32",
-kalip="SONUÇ",
+kalip="ŞART",
 z="Z",
 madde="4458 sayılı Gümrük Kanunu md. 127",
 cek="Kota veya tavanlı tercihli tarife işlenmiş ürüne ancak serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabiliyorsa uygulanır.",
-kok=["(P) Kimya A.Ş., gümrük kontrolü altında işleme izni kapsamında (X) ülkesinden getirdiği hammaddeyi rejime tabi tutmuştur. Hammadde, (X) ülkesiyle uygulanan ve tarife kotasına tabi bir tercihli tarifeden yararlanabilmekte; aynı tercihli tarife uygulaması, serbest dolaşıma girecek aynı nitelikteki işlenmiş ürünlere de uygulanabilmektedir.",
-     "- Rejime giriş beyannamesinin tescil edildiği tarihte tarife kotası açıktır.",
-     "- İşlenmiş ürünlerin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte tarife kotası dolmuş olup söz konusu tercihli tarife hammaddeye artık uygulanamamaktadır.",
-     "4458 sayılı Gümrük Kanunu'na göre işlenmiş ürünlerin serbest dolaşıma girişinde ithalat vergilerinin hesaplanmasıyla ilgili aşağıdakilerden hangisi doğrudur?"],
+kok=["4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejiminde, tarife kotalarına veya tarife tavanlarına tabi bir tercihli tarifede öngörülen vergi oranının işlenmiş ürünlere uygulanması aşağıdakilerden hangisine bağlıdır?"],
 d=D5,
-c=["Rejime giriş beyannamesinin tescil edildiği tarihte tarife kotası açık olduğundan işlenmiş ürünlere tercihli vergi oranı uygulanır.",
-   "Tercihli vergi oranı uygulanır; işlenmiş ürünlerle aynı olan ürünler için açılmış tarife kotasının hesabına işlenmiş ürün miktarı kadar ilave yapılır.",
-   "Tarife kotası dolmuş olsa da aynı tercihli tarife aynı nitelikteki işlenmiş ürünlere uygulanabildiğinden tercihli vergi oranı uygulanır.",
-   "İşlenmiş ürünlerin ithalat vergileri, hammaddenin rejime giriş beyannamesinin tescili sırasında yürürlükte bulunan vergi oranı ve diğer vergilendirme unsurlarına göre hesaplanır."],
+c=["Tercihli tarifenin rejime giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi",
+   "Tercihli tarifenin izin belgesinin tarihinde ithal eşyasına uygulanabilmesi",
+   "İşlenmiş ürünlerle aynı olan ürünler için açılmış tarife kotası hesabına işlenmiş ürün miktarı kadar ilave yapılması",
+   "İşlenmiş ürünlerin serbest dolaşıma giriş beyannamesinin izin süresinin sona ermesinden önce tescil edilmesi"],
 sirali=False,
-g=G("4458 sayılı Gümrük Kanunu'na göre ithal eşyası bir tercihli tarifeden yararlanabiliyor ve aynı tercihli tarife serbest dolaşıma giren aynı nitelikteki işlenmiş ürünlere de uygulanabiliyorsa, işlenmiş ürünlerin ithalat vergileri tercihli tarife çerçevesindeki oranla hesaplanır. Ancak tercihli tarife tarife kotalarına veya tavanlarına tabiyse bu oranın işlenmiş ürünlere uygulanması, tercihli tarifenin serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi koşuluna bağlıdır. Vakada kota, serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte dolmuştur; rejime giriş tarihinde açık olması sonucu değiştirmez. Koşul sağlansaydı imalatta fiilen kullanılan ithal eşyası miktarı serbest dolaşıma giriş beyannamesinin tescili sırasında yürürlükte olan kota hesabına katılır, işlenmiş ürünlerle aynı ürünler için açılmış kota hesabına ise herhangi bir ilave yapılmazdı. Rejime giriş beyannamesinin tescil anı yalnızca değişmemiş eşya ve ara aşamadaki ürünler için yükümlülük doğduğunda esas alınır. En güçlü çeldirici kotanın rejime giriş tarihinde açık olmasına dayanan seçenektir: Kanun koşulu serbest dolaşıma giriş anına bağlamıştır.", D5, "GK 127; GK 126"),
-kanit=K + " | Gümrük kontrolü altında işleme rejimine tabi tutulan ithal eşyasının, tercihli bir tarife uygulanmasından yararlanabildiği ve aynı tercihli tarife uygulamasının serbest dolaşıma giren aynı nitelikteki işlenmiş ürünlere de uygulanabildiği hallerde || " + K + " | Tercihli tarife uygulamasının, tarife kotaları veya tarife tavanlarına tabi olması halinde, işlenmiş ürünler için 1 inci fıkrada belirtilen vergi oranının uygulanması, söz konusu tercihli tarifenin serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi koşuluna bağlıdır || " + K + " | Bu durumda, işlenmiş ürünlerle aynı olan ürünler için açılmış tarife kotaları veya tavanlarının hesabına herhangi bir ilave yapılmaz",
-yuva=["GK 126: rejime giriş beyannamesinin tescil anı, değişmemiş eşya ve ara ürünlere ait (saklı istisnayı görmeyen aday)",
+g=G("4458 sayılı Gümrük Kanunu'na göre rejime tabi ithal eşyası tercihli bir tarifeden yararlanabiliyor ve aynı tercihli tarife serbest dolaşıma giren aynı nitelikteki işlenmiş ürünlere de uygulanabiliyorsa, işlenmiş ürünlerin ithalat vergileri tercihli tarifedeki oranla hesaplanır. Tercihli tarife tarife kotalarına veya tavanlarına tabiyse bu oranın uygulanması, tercihli tarifenin serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi koşuluna bağlıdır; işlenmiş ürünlerin imalatında fiilen kullanılan ithal eşyası miktarı da o sırada yürürlükte olan kota veya tavan hesabına katılır. İşlenmiş ürünlerle aynı olan ürünler için açılmış kota veya tavan hesabına ise herhangi bir ilave yapılmaz. Rejime giriş beyannamesinin tescil anı, değişmemiş eşya veya ara aşamadaki ürünler için yükümlülük doğduğunda vergilendirme unsurlarının belirlendiği andır; en güçlü tuzak budur. İzin belgesinin tarihi izin süresinin başlangıcıdır; Kanun tercihli oranın uygulanmasını izin süresine de bağlamaz.", D5, "GK 127; GK 126; GY 372"),
+kanit=K + " | Gümrük kontrolü altında işleme rejimine tabi tutulan ithal eşyasının, tercihli bir tarife uygulanmasından yararlanabildiği ve aynı tercihli tarife uygulamasının serbest dolaşıma giren aynı nitelikteki işlenmiş ürünlere de uygulanabildiği hallerde || " + K + " | Tercihli tarife uygulamasının, tarife kotaları veya tarife tavanlarına tabi olması halinde, işlenmiş ürünler için 1 inci fıkrada belirtilen vergi oranının uygulanması, söz konusu tercihli tarifenin serbest dolaşıma giriş beyannamesinin tescili sırasında ithal eşyasına uygulanabilmesi koşuluna bağlıdır || " + K + " | Bu durumda, işlenmiş ürünlerle aynı olan ürünler için açılmış tarife kotaları veya tavanlarının hesabına herhangi bir ilave yapılmaz || " + K + " | gümrük vergileri tutarı, ithal eşyasının bu rejime ilişkin beyannamenin tescili sırasında yürürlükte bulunan vergi oranı ve diğer vergilendirme unsurlarına dayanılarak belirlenir || " + K + " | Sürenin başlangıcı izin belgesinin tarihidir",
+yuva=["GK 126: rejime giriş beyannamesinin tescil anı, değişmemiş eşya ve ara ürünlere ait (ayna)",
+      "GY 372: izin belgesinin tarihi izin süresinin başlangıcıdır (başlangıç karıştırması)",
       "GK 127/2 son cümle: işlenmiş ürünlerle aynı ürünler için açılmış kota hesabına ilave yapılmaz (tersine)",
-      "GK 127/1: tercihli tarifenin işlenmiş ürünlere uygulanmasına ilişkin genel kural (kota koşulu atlanmış)",
-      "GK 126: değişmemiş eşyaya özgü vergilendirme anı işlenmiş ürünlere taşınmış"],
-yakinlik="ÇIKARIM",
-tuzak=["İSTİSNA", "KOMŞU", "BAŞLANGIÇ"],
-duzey=["UYGULAMA"],
+      "GY 372 ve Tebliğ md. 3: izin süresi kuralı tercihli tarife koşuluna taşınmış (sağduyu)"],
+yakinlik="BİREBİR",
+tuzak=["BAŞLANGIÇ", "KOMŞU", "TERSİNE"],
+duzey=["AYIRT"],
 profil=[3],
-olumsuz=False, vaka=True, baslangic=False,
+olumsuz=False, vaka=False, baslangic=False,
 eksen=0, ayna="TESCİL-ANI (4↔5)",
 guncellik="",
 cikmis="",
@@ -601,33 +596,32 @@ cikmis="",
 kapsamli=False,
 ),
 
-# 18 — Tebliğ md. 8; GK 241, 238: süre aşımında ceza basamağı (vaka)
+# 18 — Tebliğ md. 8; GK 238, 241: süre aşımında ceza basamağı (söylenemez)
 dict(
 konu=KONU, blok="SB32",
-kalip="MÜEYYİDE",
+kalip="YANLIŞ",
 z="Z",
 madde=TT + " md. 8; 4458 sayılı Gümrük Kanunu md. 238, 241",
 cek="İzin süresi bitimini takiben bir ayda bitirme iki kat, iki ayı aşmayan sürede dört kat usulsüzlük; daha sonrası ve rejim ihlali GK 238.",
-kok=["(R) Metal A.Ş.'nin gümrük kontrolü altında işleme izninin süresi 30 Nisan 2026 tarihinde sona ermiştir. Süre uzatımı talebinde bulunmayan firma, rejim kapsamında Türkiye Gümrük Bölgesine getirdiği eşyaya ilişkin rejimin gerektirdiği işlemleri 22 Haziran 2026 tarihinde bitirmiştir.",
-     TT + " ve 4458 sayılı Gümrük Kanunu'na göre, ceza koyan özel hükümler saklı kalmak kaydıyla firmaya uygulanacak yaptırım aşağıdakilerden hangisidir?"],
+kok=[TT + " ve 4458 sayılı Gümrük Kanunu'na göre gümrük kontrolü altında işleme rejimi kapsamında getirilen eşyanın işlemlerinin izin süresinden sonra bitirilmesi ve rejim hükümlerinin ihlali hâlinde uygulanacak yaptırımlara ilişkin aşağıdakilerden hangisi söylenemez?"],
 d=D18,
-c=["Kanunda öngörülen usulsüzlük cezası miktarının iki katı tutarında usulsüzlük cezası",
-   "Kanunda öngörülen usulsüzlük cezası miktarının altı katı tutarında usulsüzlük cezası",
-   "Eşyanın gümrüklenmiş değerinin iki katı tutarında idari para cezası",
-   "Gümrük vergileri ile gecikme zammı oranında hesaplanan faizin toplamı kadar idari para cezası"],
+c=["İzin süresinin bitimini takiben bir ay içinde rejimin gerektirdiği işlemleri bitirilen eşya için usulsüzlük cezası, Kanunda öngörülen miktarın iki katı olarak uygulanır.",
+   "Belirtilen süreler içinde işlemleri bitirilmeyen eşya ile rejim hükümlerinin ihlali hâlinde Gümrük Kanunu'nun rejim ihlallerine ilişkin idari para cezası hükmüne göre işlem yapılır.",
+   "Rejim hükümleri ihlal edilmekle birlikte eşyanın, işlem görmüş ürün hâli de dâhil olmak üzere gümrük gözetiminden mevzuata aykırı olarak çıkarılmadığı tespit edilirse, gümrük vergileri ile gecikme zammı oranında hesaplanan faizin toplamı kadar idari para cezası verilir.",
+   "Genel yönetim kapsamındaki kamu idareleri hakkında süre aşımına ilişkin iki ve dört kat usulsüzlük cezası hükümleri uygulanmaz; bu durumda Kanunda öngörülen usulsüzlük cezası uygulanır."],
 sirali=False,
-g=G("Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3)'e göre rejim kapsamında getirilen eşyanın işlemleri izin süresinin bitimini takiben bir ay içerisinde bitirilirse Gümrük Kanunu'na göre usulsüzlük cezası iki kat, izin süresinin bitimini takiben iki ayı aşmayan süre içerisinde bitirilirse dört kat uygulanır. Bu sürelerde bitirilmeyen eşya ile rejim hükümlerinin ihlali hâlinde ise Kanundaki rejim ihlali cezası (dahilde işleme, gümrük kontrolü altında işleme ve geçici ithalatta eşyanın gümrüklenmiş değerinin iki katı) uygulanır. Vakada izin süresi 30 Nisan 2026'da bitmiş, bir aylık süre 30 Mayıs 2026'da, iki aylık süre 30 Haziran 2026'da dolmuştur. İşlemler 22 Haziran 2026'da, yani bir ayı aşan fakat iki ayı aşmayan sürede bitirildiğinden usulsüzlük cezası dört kat uygulanır. Altı kat, geçici ithalattaki taşıtlar ve transit sürelerine ilişkin basamaktır; gecikme zammı oranında faiz ise eşyanın gümrük gözetiminden çıkarılmadığı rejim ihlallerine ait yaptırımdır. En güçlü çeldirici iki kattır: bir aylık süre aşıldığı hâlde ilk basamakta kalan aday bu seçeneğe gider.", D18, "Tebliğ 8; GK 241, 238"),
-kanit=K + " | izin süresinin bitimini takiben bir ay içerisinde rejimin gerektirdiği işlemlerinin bitirilmesi halinde Gümrük Kanununun 241 inci maddesinin 3/h bendi uyarınca işlem yapılır || " + K + " | izin verilen süresinin bitimini takiben iki ayı aşmayan süre içerisinde rejimin gerektirdiği işlemlerinin bitirilmesi halinde Gümrük Kanununun 241 inci maddesinin 4/h bendi uyarınca işlem yapılır || " + K + " | Yukarıda belirtilen süreler dahilinde işlemleri bitirilmeyen eşya ile rejim hükümlerinin ihlali halinde Gümrük Kanununun 238 inci maddesi uyarınca işlem yapılır || " + CEZ + " | Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın dört katı olarak uygulanır || " + CEZ + " | Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın iki katı olarak uygulanır || " + CEZ + " | Dahilde işleme rejimi, gümrük kontrolü altında işleme rejimi ile geçici ithalat rejimine ilişkin hükümlerin ihlali hâlinde, eşyanın gümrüklenmiş değerinin iki katı || " + CEZ + " | birinci fıkrada belirtilen miktarın altı katı olarak uygulanır",
-yuva=["GK 241/3-h ve Tebliğ md. 8/1: bir ay içinde bitirme hâli (yakın basamak)",
-      "GK 241/5: geçici ithalattaki taşıtlar ve transit süreleri için altı kat (sayı havuzu)",
-      "GK 238/1-a ve Tebliğ md. 8/3: süreler dışında bitirme veya rejim ihlali",
-      "GK 238/1-c: eşyanın gümrük gözetiminden çıkarılmadığı rejim ihlali"],
-yakinlik="ÇIKARIM",
+g=G("Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3)'e göre ceza koyan özel hükümler saklı kalmak kaydıyla, rejim kapsamında getirilen eşyanın işlemleri izin süresinin bitimini takiben bir ay içinde bitirilirse Gümrük Kanunu'na göre usulsüzlük cezası iki kat, iki ayı aşmayan süre içinde bitirilirse dört kat uygulanır. Söylenemeyecek ifade, ikinci basamağa birinci basamağın katını taşımıştır; iki ayı aşmayan sürede bitirmede ceza dört kattır. Bu süreler içinde bitirilmeyen eşya ile rejim hükümlerinin ihlali hâlinde Kanunun rejim ihlallerine ilişkin idari para cezası hükmü uygulanır; ihlale rağmen eşya gümrük gözetiminden çıkarılmamışsa ceza, gümrük vergileri ile gecikme zammı oranındaki faizin toplamıdır. Genel yönetim kapsamındaki kamu idareleri hakkında ise iki ve dört kat usulsüzlük cezası hükümleri uygulanmaz, Kanunda öngörülen usulsüzlük cezası uygulanır. En güçlü tuzak bir aylık basamağa ilişkin ifadedir: aynı 'iki kat' ifadesini taşıdığı için iki ifadeyi ayırt etmek süre basamağını bilmeyi gerektirir.", D18, "Tebliğ 8; GK 238, 241"),
+kanit=K + " | izin süresinin bitimini takiben bir ay içerisinde rejimin gerektirdiği işlemlerinin bitirilmesi halinde Gümrük Kanununun 241 inci maddesinin 3/h bendi uyarınca işlem yapılır || " + K + " | izin verilen süresinin bitimini takiben iki ayı aşmayan süre içerisinde rejimin gerektirdiği işlemlerinin bitirilmesi halinde Gümrük Kanununun 241 inci maddesinin 4/h bendi uyarınca işlem yapılır || " + K + " | Yukarıda belirtilen süreler dahilinde işlemleri bitirilmeyen eşya ile rejim hükümlerinin ihlali halinde Gümrük Kanununun 238 inci maddesi uyarınca işlem yapılır || " + CEZ + " | Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın dört katı olarak uygulanır || " + CEZ + " | Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın iki katı olarak uygulanır || " + CEZ + " | gümrük gözetiminden mevzuata aykırı olarak çıkarılmamış olduğunun tespiti hâlinde, ithal eşyasının gümrük vergileri ile ilgili rejime ilişkin beyannamenin tescil tarihinden tespitin yapıldığı tarihe kadar geçen süre için 6183 sayılı Kanuna göre tespit edilen gecikme zammı oranında faizin toplamı kadar || " + CEZ + " | Genel yönetim kapsamındaki kamu idareleri hakkında bu maddenin para cezasına ilişkin hükümleri ile 241 inci maddenin üçüncü fıkrasının (h), (l) ve (m) bentleri, dördüncü fıkrasının (g) ve (h) bentleri ile beşinci fıkrasının (b) bendi hükümleri uygulanmaz. Bu durumda, 241 inci maddenin birinci fıkra hükmü uygulanır.",
+yuva=["GK 241/3-h ve Tebliğ md. 8/1: bir ay içinde bitirmede iki kat (doğru ifade)",
+      "Tebliğ md. 8/3: süreler dışında bitirme ve rejim ihlalinde rejim ihlali cezası (doğru ifade)",
+      "GK 238/1-c: gözetimden çıkarılmamış eşyada vergi ile gecikme zammı oranında faizin toplamı (doğru ifade)",
+      "GK 238/4: kamu idarelerinde iki ve dört kat basamakları uygulanmaz (doğru ifade)"],
+yakinlik="PARAFRAZ",
 tuzak=["SAYI", "YAKIN-SAYI", "KOMŞU"],
-duzey=["UYGULAMA"],
-profil=[2, 1],
-olumsuz=False, vaka=True, baslangic=False,
-eksen=0, ayna="",
+duzey=["AYIRT"],
+profil=[2, 4],
+olumsuz=True, vaka=False, baslangic=False,
+eksen=5, ayna="",
 guncellik="",
 cikmis="",
 kapsamli=False,
