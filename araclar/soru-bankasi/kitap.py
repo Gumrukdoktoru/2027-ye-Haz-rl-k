@@ -1,4 +1,4 @@
-"""GMY Soru Bankası kitabı: her konudan 20 soru, soru bölümleri çift sütun (test kâğıdı), çözümler tek sütun.
+"""Ortak Mevzuat Soru Bankası kitabı: her konudan 20 soru, soru bölümleri çift sütun (test kâğıdı), çözümler tek sütun.
 
 Kullanım:
   python3 kitap.py METIN_KLASORU BOLUMLER.json VERI_KLASORU CIKTI_ADI [SAYFA_HARITASI.json] [--cozumsuz]
@@ -23,7 +23,7 @@ from kontrol5 import denetle, yukle  # noqa: E402
 
 L = 'ABCDE'
 MARKA = 'Gümrük Koçu - Ufuk Çetintaş'
-BASLIK = 'GMY Gümrük Mevzuatı Soru Bankası'
+BASLIK = 'Ortak Mevzuat Soru Bankası'
 
 
 def css_str(s):
@@ -80,12 +80,12 @@ def on_kapak(toplam, bolum_sayisi, cozumsuz):
     return ''.join([
         '<section class="onkapak"><div class="ok-desen">', desen, '</div><div class="ok-ic">',
         '<div class="ok-etiket">GÜMRÜK MÜŞAVİR YARDIMCILIĞI SINAVINA HAZIRLIK</div>',
-        '<div class="ok-gmy">GMY</div><div class="ok-baslik">Gümrük Mevzuatı<br>Soru Bankası</div><div class="ok-cizgi"></div>',
-        f'<p class="ok-alt">{bolum_sayisi} konu · {toplam} soru<br>Test kâğıdı düzeninde, '
+        '<div class="ok-buyuk">Ortak<br>Mevzuat</div><div class="ok-baslik">Soru Bankası</div><div class="ok-cizgi"></div>',
+        f'<p class="ok-alt">Gümrük mevzuatı · {bolum_sayisi} konu · {toplam} soru<br>Test kâğıdı düzeninde, '
         + ('cevap anahtarlı' if cozumsuz else 'gerekçeli çözümlü') + '</p>',
         f'<div class="ok-rozet">{"CEVAP ANAHTARLI SÜRÜM" if cozumsuz else "ÇÖZÜMLÜ SÜRÜM"}</div></div>',
         f'<div class="ok-rakam"><div><b>{toplam}</b>SORU</div><div><b>{bolum_sayisi}</b>KONU</div>'
-        '<div><b>2021–2025</b>GMY SORU TİPLERİ</div></div>',
+        '<div><b>2021–2025</b>SINAV SORU TİPLERİ</div></div>',
         '<div class="ok-taban">' + (f'<img src="{logo}" alt="">' if logo else '<span></span>'),
         '<div class="ok-marka"><b>Gümrük Koçu</b><span>Ufuk Çetintaş</span></div></div></section>'])
 
@@ -166,7 +166,7 @@ def profil(Q):
 CSS = """
 @page { size: A4; margin: 19mm 15mm 17mm 15mm;
   @top-left { content: 'Gümrük Koçu'; font: bold 8pt 'Liberation Sans', Arial; color: #1B3A5C; }
-  @top-center { content: 'GMY Gümrük Mevzuatı Soru Bankası'; font: bold 8pt 'Liberation Sans', Arial; color: #333; }
+  @top-center { content: 'Ortak Mevzuat Soru Bankası'; font: bold 8pt 'Liberation Sans', Arial; color: #333; }
   @top-right { content: 'Ufuk Çetintaş'; font: bold 8pt 'Liberation Sans', Arial; color: #1B3A5C; }
   @bottom-center { content: counter(page); font: bold 8.5pt 'Liberation Sans', Arial; color: #333; } }
 @page :first { @top-left { content: none; } @top-center { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
@@ -182,7 +182,7 @@ h2 { font-size: 11.5pt; color: #1B3A5C; border-left: 1.4mm solid #B8860B; paddin
   background: #10263d linear-gradient(165deg, #1F4268 0%, #10263d 62%); }
 .ok-ic { padding: 30mm 20mm 0; position: relative; }
 .ok-etiket { font: 600 9.5pt 'Inter'; letter-spacing: .22em; color: #D9A83E; }
-.ok-gmy { font: 900 66pt/1 'Inter Display', 'Inter'; color: #D9A83E; margin: 16mm 0 3mm; letter-spacing: -.01em; }
+.ok-buyuk { font: 900 56pt/1.02 'Inter Display', 'Inter'; color: #D9A83E; margin: 16mm 0 4mm; letter-spacing: -.01em; }
 .ok-baslik { font: 800 35pt/1.08 'Inter Display', 'Inter'; color: #fff; }
 .ok-cizgi { width: 42mm; height: 1.6mm; background: #D9A83E; margin: 10mm 0 7mm; }
 .ok-alt { font: 400 13pt/1.5 'Inter'; color: #d7e0ea; margin: 0; }
