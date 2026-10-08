@@ -22,4 +22,5 @@
   - `uretilen.py` → `uretilen.md`: bölümler arası tekrar listesi; `cakisma.py`: bölümler arası çekirdek benzerliği taraması.
   - `kitap.py`: harf dağıtımı ve kitap HTML'i (test bölümü çift sütun, çözüm tek sütun); `sayfa.py`: içindekiler için sayfa haritası; `hafiza.py`: üretim hafızasına ekleme.
   - Çözümsüz sürüm: aynı komutlara `--cozumsuz` eklenir (testler + toplu cevap anahtarları + cevap formu).
+  - Filigran: `filigran_canli.png` (CAN'LI 7/24 Eğitim Merkezi logosu) her sayfanın ortasına %10 opaklıkta basılır; üst bilgi solda Gümrük Koçu, ortada bölüm adı, sağda Ufuk Çetintaş.
   - Üretim: `python3 kitap.py <metin> bolumler.json veri <ad>` → `node ../gmy-deneme3/pdf5.mjs <ad>.html <ad>.pdf` → `python3 sayfa.py <ad>.pdf harita.json` → `kitap.py … <ad> harita.json` ve yeniden PDF.

@@ -24,6 +24,40 @@ MARKA = 'Gümrük Koçu - Ufuk Çetintaş'
 BASLIK = 'GMY Gümrük Mevzuatı Soru Bankası'
 
 
+def css_str(s):
+    return "'" + str(s).replace('\\', '\\\\').replace("'", "\\'") + "'"
+
+
+SAG_SOL = ("@top-left { content: 'Gümrük Koçu'; font: bold 8pt 'Liberation Sans', Arial; color: #1B3A5C; BORDER }"
+           "@top-right { content: 'Ufuk Çetintaş'; font: bold 8pt 'Liberation Sans', Arial; color: #1B3A5C; BORDER }")
+CIZGI = 'border-bottom: .8pt solid #1B3A5C; vertical-align: bottom; padding-bottom: 1.5mm;'
+
+
+def sayfa_kurallari(kitap, cozumsuz):
+    """Her bölüm için adlandırılmış sayfa: test (t07) ve çözüm (c07); orta başlıkta konu adı."""
+    k = []
+    for no, baslik, *_ in kitap:
+        k.append(f"@page t{no:02d} {{ margin: 19mm 13mm 16mm 13mm; " + SAG_SOL.replace('BORDER', CIZGI)
+                 + f"@top-center {{ content: {css_str(baslik)}; font: bold 9pt 'Liberation Serif', serif; color: #000; {CIZGI} }}"
+                 "@bottom-center { content: counter(page); font: bold 9pt 'Liberation Serif', serif; color: #000; } }")
+        k.append(f"@page c{no:02d} {{ @top-center {{ content: {css_str(baslik + ' · Çözümler')}; "
+                 "font: bold 8pt 'Liberation Sans', Arial; color: #333; } }")
+    k.append(f"@page ekA {{ @top-center {{ content: {css_str('Cevap Anahtarları' if cozumsuz else 'Set Raporları')}; "
+             "font: bold 8pt 'Liberation Sans', Arial; color: #333; } }")
+    k.append("@page ekB { @top-center { content: 'Cevap Formu'; font: bold 8pt 'Liberation Sans', Arial; color: #333; } }")
+    return '\n'.join(k)
+
+
+def filigran_html():
+    """Sayfa ortasında %10 opaklıkta logo (CAN'LI 7/24 Eğitim Merkezi); dosya yoksa boş."""
+    import base64
+    yol = pathlib.Path(__file__).resolve().parent / 'filigran_canli.png'
+    if not yol.exists():
+        return ''
+    veri = base64.b64encode(yol.read_bytes()).decode()
+    return f'<div class="filigran"><img src="data:image/png;base64,{veri}" alt=""></div>'
+
+
 def tr_upper(s):
     """Türkçe büyük harf: i → İ, ı → I."""
     return s.replace('i', 'İ').replace('ı', 'I').upper()
@@ -89,19 +123,14 @@ def profil(Q):
 
 CSS = """
 @page { size: A4; margin: 19mm 15mm 17mm 15mm;
-  @top-left { content: 'Gümrük Koçu - Ufuk Çetintaş'; font: bold 7.5pt 'Liberation Sans', Arial; color: #1B3A5C; }
-  @top-right { content: 'GMY Gümrük Mevzuatı Soru Bankası'; font: 7.5pt 'Liberation Sans', Arial; color: #6b7785; }
+  @top-left { content: 'Gümrük Koçu'; font: bold 8pt 'Liberation Sans', Arial; color: #1B3A5C; }
+  @top-center { content: 'GMY Gümrük Mevzuatı Soru Bankası'; font: bold 8pt 'Liberation Sans', Arial; color: #333; }
+  @top-right { content: 'Ufuk Çetintaş'; font: bold 8pt 'Liberation Sans', Arial; color: #1B3A5C; }
   @bottom-center { content: counter(page); font: bold 8.5pt 'Liberation Sans', Arial; color: #333; } }
-@page :first { @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
-@page test { margin: 19mm 13mm 16mm 13mm;
-  @top-left { content: 'Gümrük Koçu - Ufuk Çetintaş'; font: bold 8pt 'Liberation Sans', Arial; color: #1B3A5C;
-    border-bottom: .8pt solid #1B3A5C; vertical-align: bottom; padding-bottom: 1.5mm; }
-  @top-center { content: 'GMY Gümrük Mevzuatı Soru Bankası'; font: bold 9pt 'Liberation Serif', serif; color: #000;
-    border-bottom: .8pt solid #1B3A5C; vertical-align: bottom; padding-bottom: 1.5mm; }
-  @top-right { content: 'Soru Kitapçığı'; font: 8pt 'Liberation Sans', Arial; color: #444;
-    border-bottom: .8pt solid #1B3A5C; vertical-align: bottom; padding-bottom: 1.5mm; }
-  @bottom-center { content: counter(page); font: bold 9pt 'Liberation Serif', serif; color: #000; } }
-@page cozum { @top-right { content: 'Çözümler'; font: 7.5pt 'Liberation Sans', Arial; color: #6b7785; } }
+@page :first { @top-left { content: none; } @top-center { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
+.filigran { position: fixed; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center;
+  justify-content: center; z-index: -1; pointer-events: none; }
+.filigran img { width: 130mm; opacity: .10; }
 body { font-family: 'Liberation Sans', Arial, sans-serif; font-size: 9.4pt; line-height: 1.36; color: #1d1d1f; margin: 0; }
 h1 { font-size: 16pt; color: #1B3A5C; border-bottom: 1.2mm solid #B8860B; padding-bottom: 1.5mm; margin: 0 0 4mm; break-before: page; }
 h2 { font-size: 11.5pt; color: #1B3A5C; border-left: 1.4mm solid #B8860B; padding-left: 2.5mm; margin: 5mm 0 3mm; break-after: avoid; }
@@ -246,7 +275,8 @@ def main():
         for no, baslik, kaynak, Q, R in kitap:
             (mdk / f'Bolum_{no:02d}.md').write_text(md_bolum(no, baslik, kaynak, Q, R), encoding='utf-8')
     # HTML
-    b = [f'<!doctype html><html lang="tr"><head><meta charset="utf-8"><title>{BASLIK}</title><style>{CSS}</style></head><body>',
+    b = [f'<!doctype html><html lang="tr"><head><meta charset="utf-8"><title>{BASLIK}</title><style>{CSS}\n{sayfa_kurallari(kitap, cozumsuz)}</style></head><body>',
+         filigran_html(),
          '<section class="kapak"><div class="bant"><div class="ust">GÜMRÜK MÜŞAVİR YARDIMCILIĞI SINAVINA HAZIRLIK</div>',
          f'<h1>{BASLIK}</h1><div class="alt">Konu konu {toplam} soru · {len(kitap)} bölüm · test kâğıdı düzeninde, '
          + ('cevap anahtarlı</div></div>' if cozumsuz else 'cevap anahtarlı ve gerekçeli çözümlü</div></div>'),
@@ -278,27 +308,28 @@ def main():
     b.append(f'<tr><td class="no">Ek A</td><td>{"Cevap anahtarları" if cozumsuz else "Set raporları"}</td><td class="sf">{sfA}</td></tr>'
              f'<tr><td class="no">Ek B</td><td>Cevap formu</td><td class="sf">{sfB}</td></tr></tbody></table>')
     for no, baslik, kaynak, Q, R in kitap:
-        b.append('<section class="test">')
+        b.append(f'<section class="test" style="page: t{no:02d}">')
         b.append(f'<div class="bas"><b>BÖLÜM {no:02d} · {e(tr_upper(baslik))}</b><span>{len(Q)} soru · {round(len(Q) * 1.5)} dakika</span></div>')
         b += [test_soru(q) for q in Q]
         b.append('<div class="bitti">TEST BİTTİ. CEVAPLARINIZI KONTROL EDİNİZ.</div></section>')
         if cozumsuz:
             continue
-        b.append(f'<section class="cozum"><h2 class="ust">Bölüm {no:02d} · {e(baslik)} — Cevap Anahtarı ve Çözümler</h2>')
+        b.append(f'<section class="cozum" style="page: c{no:02d}"><h2 class="ust">Bölüm {no:02d} · {e(baslik)} — Cevap Anahtarı ve Çözümler</h2>')
         b.append('<table class="anahtar"><tr>' + ''.join(f'<th>{q["no"]}</th>' for q in Q) + '</tr><tr>'
                  + ''.join(f'<td>{q["harf"]}</td>' for q in Q) + '</tr></table>')
         b += [cozum_soru(q) for q in Q]
         b.append('</section>')
     if cozumsuz:
         # Ek A: toplu cevap anahtarları
-        b.append('<h1>Ek A — Cevap Anahtarları</h1>')
+        b.append('<section style="page: ekA"><h1>Ek A — Cevap Anahtarları</h1>')
         for no, baslik, kaynak, Q, R in kitap:
             b.append(f'<div class="ekanahtar"><h3>Bölüm {no:02d} · {e(baslik)}</h3>'
                      '<table class="anahtar"><tr>' + ''.join(f'<th>{q["no"]}</th>' for q in Q) + '</tr><tr>'
                      + ''.join(f'<td>{q["harf"]}</td>' for q in Q) + '</tr></table></div>')
+        b.append('</section>')
     # Ek A: set raporları
     if not cozumsuz:
-        b.append('<h1>Ek A — Set Raporları</h1>')
+        b.append('<section style="page: ekA"><h1>Ek A — Set Raporları</h1>')
     for no, baslik, kaynak, Q, R in ([] if cozumsuz else kitap):
         b.append(f'<div class="ekrapor"><h3>Bölüm {no:02d} · {e(baslik)}</h3><table class="rapor"><tbody>')
         b.append(f'<tr><td>Kaynak</td><td>{e(kaynak.replace(".txt", ""))}</td></tr>')
@@ -310,15 +341,17 @@ def main():
         if R.get('giremeyen'):
             b.append(f'<p><b>Sete giremeyen alanlar:</b> {e(R["giremeyen"])}</p>')
         b.append('</div>')
+    if not cozumsuz:
+        b.append('</section>')
     # Ek B: cevap formu
-    b.append('<h1>Ek B — Cevap Formu</h1><p>Bu sayfayı çoğaltarak her test için kullanabilirsiniz. Bölüm: ______  '
+    b.append('<section style="page: ekB"><h1>Ek B — Cevap Formu</h1><p>Bu sayfayı çoğaltarak her test için kullanabilirsiniz. Bölüm: ______  '
              'Adı Soyadı: ____________________  Doğru sayısı: ______</p><div class="form-izgara">')
     for kol in range(4):
         b.append('<div>')
         for i in range(kol * 5 + 1, kol * 5 + 6):
             b.append(f'<div class="form-sat"><span class="n">{i}</span>' + ''.join(f'<span class="b">{h}</span>' for h in L) + '</div>')
         b.append('</div>')
-    b.append('</div></body></html>')
+    b.append('</div></section></body></html>')
     pathlib.Path(f'{ad}.html').write_text('\n'.join(b), encoding='utf-8')
     json.dump([{'no': no, 'baslik': baslik, 'kaynak': kaynak, 'sorular': Q, 'rapor': R} for no, baslik, kaynak, Q, R in kitap],
               open(f'{ad}.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
