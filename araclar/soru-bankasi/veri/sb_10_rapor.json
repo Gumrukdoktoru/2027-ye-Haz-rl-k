@@ -1,0 +1,23 @@
+{
+ "bulunamayan": [
+  "2023/42: AB'den A.TR ile gelen sanayi ürününde gümrük vergisi ödenmemesi, KDV ödenmesi (metinde yok; yalnız A.TR eşliğinde AB'den gelen eşyada menşe şahadetnamesi aranmaması ölçüldü)",
+  "2024/41: GTS'de menşe ispat belgesi Form A (metinde yok)",
+  "2024/42: GTS'nin tanımı (bu bölümün kaynağında yalnız adı geçiyor; tanım İthalat Rejimi Kararı bölümüne ait)",
+  "2025/42: Seri No 149 Tebliğ, menşe ispat belgelerini bastırıp dağıtan kuruluşlar (tebliğ kaynakta yok)",
+  "2025/41: Türkiye-AB tarım ürünleri ticaretinde EUR.1 (tarım ayrımı metinde yok; EUR.1'in menşe ispat belgesi niteliği DİR Tebliği tanımından ölçüldü)",
+  "2025/45: A.TR'nin sanayi ürünlerinde serbest dolaşımı gösterdiği (10-MENŞEİ.txt'de yalnız adı geçiyor; A.TR'nin serbest dolaşım belgesi niteliği DİR Tebliği tanımından ölçüldü)"
+ ],
+ "giremeyen": "GK 22 (tercihli menşe kurallarının dayanağı) ve GY 34/1 tekstil pozisyon kuralı ayrı soru olarak, GY 35 (ek-6 ve 5 no.lu not), GY 36/2 fabrika çıkış fiyatı ile montaj kıymeti deyimleri, GY 205/4-b ve 205/6, GY 41/2-3 sonradan kontrol ayrı soru olarak ve GY 42/3 kâğıt ebat-ağırlık-tolerans ayrıntıları sete girmedi.",
+ "notlar": [
+  "Kontrol: kontrol5.py 'Hatalı soru: 0'; prompt bölüm 16 kontrolü her soruya uygulandı, tek doğru ve çeldiricilerin metne göre yanlışlığı teyit edildi.",
+  "Kota: birebir 13, parafraz 4, çıkarım 3 (üç vaka); olumsuz kök 7; önermeli 4 (biri 'yanlıştır' köklü, en kapsamlı şıkla cevaplanan yok; kombinasyonlar II-III, I-III-IV, I-II-IV, II-IV); tanım 2; boşluk/eşleştirme 0.",
+  "Güncellik sorusu yok: kaynaktaki değişiklik dipnotları 31.03.2010 (GY 40) ve 01.04.2020 (GY 205/4); son 12 ayda değişen hüküm olmadığından profil 5 aranmadı.",
+  "Küçük konu kuralına gerek olmadı; 20 soru 20 ayrı sınav noktasından kuruldu.",
+  "Bir soru (menşe ispat belgeleri - A.TR, eksen 3 aynası) ve iki çeldirici yuvası 32-DAHİLDE İŞLEME.txt'deki DİR Tebliği tanımlarına dayanıyor; DİR bölümü A.TR/EUR.1 tanımlarını kullanırsa çakışma kontrol edilmeli.",
+  "Kaynak dosya Kanun (md. 17-22) ile Yönetmelik (md. 33-42, 205) maddelerini etiketsiz birleştiriyor; kökler buna göre Kanun/Yönetmelik olarak yazıldı.",
+  "İkiz eksen: 3 (statü-menşe; serbest dolaşım vakası ile A.TR-menşe ispat belgesi ayna çifti) ve 4 (tümüyle elde-esaslı işçilik-yetersiz işlem önermelisi).",
+  "Meslek yanlılığı: GY 42 ihracatta menşe şahadetnamesi başvurusu ('ancak gümrük müşaviri' yanlış ifadesi).",
+  "Sayısal/sıralı soru 1 (GY 38/3 süre, doğru şık 3. sırada); süre sorularının 2'sinden 1'inde başlangıç anı ölçülüyor.",
+  "Doğru şık 0 soruda tek başına en uzun, 4 soruda tek başına en kısa (her ikisi de %25 sınırının altında)."
+ ]
+}

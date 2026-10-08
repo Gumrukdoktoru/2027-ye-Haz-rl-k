@@ -1,0 +1,17 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "TIR karnesinin düzenlenmesi ve kabul edilmeyen karneler (silinti-kazıntı, boş kutular, hata düzeltme; md. 19), geçerlilik süresi biten karneler (md. 22), yeterli yaprağı bulunmayan karneler (md. 37), kaza ve kayma hâlinde yapılacak işlemler (md. 58), varış veya çıkış idaresinin değiştirilmesi (md. 62), TIR plakası ölçüleri (md. 64), taşıtların tartılması (md. 65), Volet-1 hata düzeltmesi (md. 66), sekiz yıllık saklama süresi (md. 69), ihraç kararının yedi gün içinde bildirileceği merciler (md. 12/2), hareket idaresindeki İHRACAT/TRANSIT/TRNİHR kodları (md. 29) ve serbest bölgeye sevkte rejim türü (md. 48) sete giremedi.",
+  "notlar": [
+    "Çıkmış soru alanlarının üçü de metinde var ve karşılandı: 2022/73 (taşıt onay belgesi düzenlenen taşıtlar) komşu fıkra yönünden 'aranmaz' istisnasıyla; 2022/74 (güzergâh ihlali cezası) sekiz kat + koşulsuz fiziki kontrol olarak; 2024/61 (120/168 saat) Ulaştırma ve Altyapı Bakanlığı süresinin esas alındığı vaka ile. 2022/74'teki 'sekiz kat' bilgisi TIR metninde yok; Tebliğin atıf yaptığı GK 241/6 için 48-cezalar.txt kanıt olarak kullanıldı.",
+    "Önceki setlerle çakışma yok: GMY2-091 (120/168 doğrudan süre) vaka yönünden, GMY3-028 (sekiz idare, toplam on beş) aynı fıkradaki 'üçten az olmamak üzere' alt sınırıyla farklı yönden soruldu.",
+    "Profil: 14 birebir / 3 parafraz / 3 çıkarım; olumsuz kök 6; önermeli 3 (I, III ve IV · II ve IV · I ve III); 'yanlıştır' köklü önermeli yok; vaka/hesap 3; tanım 2 (ayna çift); boşluk ve eşleştirme 0.",
+    "En kapsamlı şık: Q4'te doğru cevap 'I, III ve IV' üç önermeli iki şıktan biri olduğundan ihtiyaten kapsamli=True işaretlendi (setteki tek örnek).",
+    "Sayısal şıklı 2 soru (alt sınır 3 → B; fatura 15 gün → C) ve tarih-süre şıklı hesap sorusu sirali=True; doğru değer ortadaki şıklarda.",
+    "Süre soruları 4; ikisinde başlangıç anı ölçüldü (takibat yazısının tebliğ tarihi; Volet-1 tescil tarihi).",
+    "Güncellik: md. 20/1 ve 20/3 ile md. 3/u (taşıt onay belgesi tanımı) 04.07.2026 tarihli ve 33300 sayılı R.G.'deki Seri No: 9 Tebliğ ile değişti. Güncellik sorusu md. 20/1 sınırlandırma alt sınırından kuruldu. Dipnot metinleri dosyada olmadığından eski hâl çeldirici yapılmadı.",
+    "Prompt bölüm 8 tablosundaki 18 eksenden hiçbiri bu metinde yok (eksen=0). Konuya özgü ikiz 'sona erme ↔ ibra' ayna çiftle ölçüldü. Ayrıca metin içi ikizler ölçüldü: sahte belge ↔ şart kaybı (bloke), memur ↔ izinli alıcı tutanağı (dört ↔ iki nüsha), taşıt onay komisyonu ↔ refakat komisyonu.",
+    "Meslek yanlılığı: 'TIR İhracat' kaydını düzenleyen kişi sorusunda gümrük müşaviri çeldirici yapıldı; Tebliğ kaydı taşıyıcı firma temsilcisi veya sürücüye bırakır.",
+    "Kökler 'Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)' adını taşıyor; Kanun ile birlikte ölçülen tek soruda (güzergâh ihlali) kök iki dayanağı da gösteriyor. 2009/15481 sayılı Karara dayanan soru yok; dökme eşya oranları Karar adı verilmeden ölçüldü.",
+    "Doğru şık tek başına en kısa 1/20, en uzun 0/20."
+  ]
+}

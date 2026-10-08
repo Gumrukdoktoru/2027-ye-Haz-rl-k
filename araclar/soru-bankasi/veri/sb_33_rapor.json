@@ -1,0 +1,20 @@
+{
+ "bulunamayan": [
+  "2024/39: Geçici ithalat beyanında kullanılan belgeleri sayan toplu bir liste ve TIR karnesinin transit belgesi olduğu hüküm bu dosyada yok (transit dosyası). Alan, ATA karnesinin beyanname yerine geçmesi (soru 12) ve taşıt karne, form, CPD ve triptik belgeleri (soru 14) üzerinden ölçüldü.",
+  "2025/96: Devralanın eşyayı teslim almakla rejim yükümlülüğü altına girmesi (GY 320) bu dosyada değil, 19-ŞARTLI M VE E.E.G.R.txt'tedir ve SB18-16'da soruldu. Devir alanı bu bölümde GK 133/3 (yeni hak sahibi kalan süreyi kullanır) ile 1. sorunun IV. önermesinde ölçüldü."
+ ],
+ "giremeyen": "Karar md. 16-19 taşıt kullanım şartları (19/1 üç ay, 19/4 kamu hava taşıtı, 19/5 ve 19/8 emekliler), md. 20'deki hayvan ve AB-EFTA-Birleşik Krallık taşıtı süreleri, md. 22-36 eşya grupları (palet, konteyner, mesleki teçhizatta el aletleri istisnası, %75 ihraç koşullu kalıp, numune, ambalaj), GY 378 izin belgeleri, GY 379/2, 380/1-2 ve 380/4 (sürenin durması), GY 384-385, 389 ve 391-394 taşıt yedek parçaları, Tebliğ md. 5, 6/3-8, 17 (süre uzatımı), 18, 19, 27 (taşıtsız çıkış), 28-31 (devir, çalıntı ve kazalı taşıt) ile ATA Tebliği md. 5 ve 7-10 (kefile bir yıl içinde tebligat, %10 sınırı, altı ay ve yedi gün) sete girmedi.",
+ "notlar": [
+  "Kontrol: kontrol5.py 'Hatalı soru: 0'. Prompt bölüm 16'daki 30 maddelik kontrol her soruya uygulandı. Her soruda tek doğru cevap var, çeldiriciler metne göre yanlış, kökteki mevzuat türü kaynakla aynı, önermelerin doğru/yanlış niteliği metinle teyit edildi. Karar dayanaklı 4 soruda kurum kalıbı aynen kullanıldı.",
+  "Kota: birebir 13, parafraz 4, çıkarım 3 (hesap 1, vaka 2). Olumsuz kök 6. Önermeli 3, hepsi 'doğrudur' köklü; kombinasyonlar I-III, I-II ve I-II-IV; en kapsamlı şıkla cevaplanan yok. Tanım 1, eşleştirme 1, boşluk 0. Sayısal sıralı 2 soru; doğru değer birinde 3., diğerinde 2. sırada.",
+  "Süre soruları 5 (4 SÜRE kalıbı ve süre içeren 1 vaka); 2'sinde başlangıç anı ölçülüyor (geçici trafik tescil belgesinde ilk giriş tarihi, yediemin otoparkında yediemine teslim tarihi).",
+  "Güncellik: 14.08.2026 tarihli ve 33340 sayılı R.G.'de yayımlanan Seri No: 9 Tebliğ ile değişen iki hüküm soruldu: emeklilik belgesi tanımı (soru 15) ve turistik taşıtın hak sahibi dışında kullanımı (soru 18). 05.12.2025 tarihli finansal kiralama hükmü (Karar 19/6) GMY3-025'te soruldu, tekrar edilmedi.",
+  "İkiz eksenler: 16 (aylık %3, kiralama yasağı, olağan yıpranma; tam ↔ kısmi muafiyette vergilendirme tarihi ve teminat tutarı) ve 15 (CPD'de vergi kefil kuruluşa, ceza ilgili kişiye). Ayna çift: Karar 40'taki ayniyet tespiti mümkün olmayan eşya listesi (soru 9) ↔ GK 129/2 istisnası (soru 2).",
+  "Meslek yanlılığı: ATA önermelisinin III. önermesi ('ATA karnesi işlemleri yalnızca gümrük müşaviri aracılığıyla yapılabilir'); Tebliğ işlemleri karne hamiline veya temsilcisine bırakır.",
+  "Çıkmış soru noktalarının tamamı karşılandı: 2021/45, 2021/53, 2021/75, 2022/57, 2022/60, 2022/61, 2023/34, 2023/37, 2023/54, 2024/39, 2024/69, 2024/70, 2024/72, 2025/90, 2025/91, 2025/92, 2025/93, 2025/96. Konusu geçici depolama olan 2025/94'ün süresi Tebliğ md. 32 üzerinden yediemin yönüyle soruldu.",
+  "Önceki çekirdekler (GMY-091 ila 096, GMY2-085 ila 088, GMY3-025 ila 027, SB01-17, SB16-09, SB18-16 ila 18) farklı yönden ölçüldü. %3 aylık vergi mahsup hesabıyla, GK 128 tanımı önermeli olarak, 24 aylık süre GY 380/3 ve 380/5 üzerinden, 30 günlük tescil başvurusu başlangıç anıyla, CPD ise vergi ve ceza takibatı ile belge-düzenleyen eşleştirmesiyle soruldu.",
+  "Kaynakta Karar 18 (yerleşik kişinin süreklilik arz etmeyen kullanımı) ile Tebliğ 26/a arasında gerilim var. Soru 18 yalnız Tebliğ'e dayandırıldı ve çeldiricilerde Karar'la çatışabilecek ifade kullanılmadı.",
+  "Doğru şık 2 soruda tek başına en uzun, 2 soruda tek başına en kısa; ikisi de %25 sınırının altında. cakisma.py (eşik 0,35) Bölüm 33 için bölümler arası çakışma bulmadı.",
+  "Küçük konu kuralına gerek olmadı; 20 soru 20 ayrı sınav noktasından kuruldu."
+ ]
+}

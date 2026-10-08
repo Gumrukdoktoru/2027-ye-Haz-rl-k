@@ -1,0 +1,18 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "İl Değerlendirme Komisyonunun toplantı ve karar nisabı ile üçüncü dereceye kadar hısımlık yasağı, Sınır Ticareti Belgesi verilmeyecek suçlar listesi ve hizmet sektörü yasağı, Tebliğ'deki çay-şeker-fındık-antepfıstığı ve veteriner ilacı yasağı, İthalat Uygunluk Belgesinin üç nüshası ve imza-mühür düzeni, Sınır Ticareti Bürosu ve Sekretarya görevleri, başvuru değerlendirme ölçütleri, Karar'ın çeşitli hükümleri (kesinti yasağı, Valilik-belediye-il özel idaresi yasağı, transit ticaret ve DİR yasağı), yetkili gümrük kapıları ve STM tabloları, STM fiziki şartları (45 ton kantar vb.), işletici mali sorumluluğu, satış belgesi, giriş kartları ve denetim hükümleri ayrı soru olarak sete giremedi (bir kısmı çeldirici veya gerekçede kullanıldı).",
+ "notlar": [
+  "Kota: birebir 14, parafraz 3 (S13, S16, S18), çıkarım 3 (yalnız vaka/hesaplar S8, S12, S20); olumsuz kök 6 (S2, S6, S7, S10, S11, S17); önermeli 3 (doğru kombinasyonlar I-III, I-III-IV, II-III; en kapsamlı doğru 0; 'yanlıştır' köklü önermeli 0); vaka/hesap 3; tanım 1 (S19, addan tanım); boşluk 1 (S9), eşleştirme 0.",
+  "Çıkmış alan: envanterdeki tek soru 2024/44 (GK 172: kapsam, STM kurulması ve tek-maktu tarifede Cumhurbaşkanı yetkili) S1'de önermeli olarak ölçüldü; aynı önermede sonraki hamle olan 'STM gümrük işlemlerinde TGB dışında addedilir' (tek kelime: içinde) ve 'gümrük işlemleri Müsteşarlıkça belirlenir' komşu cümleleri de yer aldı. S18'de STM kurulmasının Bakanlık kararıyla değil Cumhurbaşkanına sunularak yapılması ters yönden ölçüldü.",
+  "Güncellik (profil 5) sorusu yok: 41-sınır ticareti.txt'teki değişiklik notları 23.12.2021 (Tebliğ 2021/11) ve 13.04.2023 (gümrük kapıları tablosu) tarihli; Ekim 2025 – Ekim 2026 arasında değişen hüküm yok.",
+  "Dikkat: Yönetmelik STM'de 3 ayı aşan eşya için GK 241/1'e atıf yapıyor; 48-cezalar.txt'te GK 241/1'e 26.03.2026 tarihli AYM kararı (E:2025/269 K:2026/72) notu var (dipnot metni yok). Bu atıf hiçbir soruda doğru cevap yapılmadı; S13 gerekçesinde yalnız Yönetmeliğin öngördüğü hüküm olarak aktarıldı.",
+  "İkiz eksen: prompt bölüm 8'deki 18 eksenden hiçbiri bu metinde yok; konu içi ayna çift kuruldu: 'STB-İUB düzenleyen makam' S2 (Sınır Ticareti Belgesini Valilik düzenler; yanlış kalıbı) - S3 (İthalat Uygunluk Belgesini Oda düzenler; doğru kalıbı).",
+  "Süre soruları S4, S5, S9, S13, S14, S16; başlangıç anı S4, S14, S16'da ölçüldü (3/6). Sıralı şıklı sorular ve doğru şıkkın yeri: S5 2., S8 3., S9 3., S12 4., S13 2., S14 4.",
+  "Meslek yanlılığı: S6 (İl Değerlendirme Komisyonu üyeleri arasına 'gümrük müşavirleri derneği temsilcisi' eklendi).",
+  "Uydurma çeldirici en aza indirildi: yuvası zayıf olan yalnız S5'teki 'Avro' (para birimi tuzağı) ve S6'daki meslek yanlılığı unsuru; S5'teki 15 gün çeldiricisinin yuvası 34-GEÇİCİ İTHALAT.txt (sınır ticareti taşıtlarına 15 güne kadar süre).",
+  "Önceki bölümlerle çakışma yok: uretilen.md'de sınır ticareti çekirdeği bulunmuyor; URETIM-HAFIZASI.md'deki tek ilgili satır (GMY-094, sınır ticareti taşıtına 15 gün) yalnız çeldirici yuvası olarak kullanıldı.",
+  "Kaynak dağılımı: GK 1 soru (S1), Karar 12 soru (S2-S8, S10-S12, S18-S20; bir kısmı Tebliğ ile birlikte), Tebliğ ağırlıklı 1 soru (S9), STM Yönetmeliği 5 soru (S13-S17). Konu küçük değil; 20 soru farklı hükümlerden kuruldu, aynı bilgi aynı yönden iki kez sorulmadı.",
+  "Doğru şıkkın tek başına en uzun olduğu soru 4/20 (S3, S16, S17, S20), en kısa olduğu soru 0/20.",
+  "Kurum adları metindeki hâliyle korundu (Kanun'da 'Müsteşarlıkça'); aynı makamın eski-yeni adı rakip şık yapılmadı."
+ ]
+}

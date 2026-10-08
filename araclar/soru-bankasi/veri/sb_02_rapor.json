@@ -1,0 +1,19 @@
+{
+  "bulunamayan": [
+    "2023/30: Gümrük Yönetmeliği Ek-82'deki usulsüzlük cezası (yardımcı/stajyer başlama-ayrılma bildiriminin süresinde yapılmaması) metinde yok; yalnızca bildirim zinciri ve bir haftalık süre ölçüldü.",
+    "2024/85: Aynı fiil için ayrı muhataplara tebliğ edilen idari para cezasının her muhatapça ayrı ödenmesi kuralı metinde yok; set, GK 229'un lafzıyla (tüzel kişilik müşavirlikte imzalayan ile tüzel kişiliğin vergi ve para cezalarında müteselsil sorumluluğu) kuruldu.",
+    "2022/87: 'Borç bir kez ödenir, kim öderse kapanır' kısmı metinde yok; müteselsil sorumluluk kısmı GK 229 üzerinden ölçüldü."
+  ],
+  "giremeyen": "GK 5'teki yerleşiklik istisnası (transit taşımacılık ve arızi beyan), gerçek kişinin doğrudan temsili ile engel hastalık ve sağlık raporu hükmü, GY 562 (bağımsız çalışmayan müşavir), GY 564-565 (çalışma yeri değişikliği, izin belgesi kaybı), GY 566-570 (sözlü sınav puanları, %20/%80 soru dağılımı, sınav kurulu, 70 puan), GY 573 izin belgesi düzenleme usulü, Seri No: 71'deki kart başvuru belgeleri, dernek kodları ve beş yıllık saklama, YKTS'deki on iş günü güncelleme süresi ana soru olarak sete giremedi.",
+  "notlar": [
+    "Kota: BİREBİR 14, PARAFRAZ 3, ÇIKARIM 3; olumsuz kök 7; önermeli 3 (cevaplar: 'I, III ve IV', 'I ve III', 'II ve III'; en kapsamlı şık doğru 0, 'yanlıştır' köklü 0); vaka 3; tanım 1; boşluk ve eşleştirme 0. Tüm kotalar hedef aralıkta.",
+    "Süre soruları 3, üçünde de başlangıç anı ölçülüyor (ayrıca önermeli bir soruda sigortalı işe başlama tarihi). Tek saf sayısal soru ('On' yıl) sirali=True, doğru değer 4. sırada.",
+    "Güncellik: 2-TEMSİL.txt'de dipnot veya değişiklik tarihi yok; güncellik sorusu ve profil 5 uygulanmadı.",
+    "İkiz eksen 12 (doğrudan ↔ dolaylı temsil) 4 soruda ölçüldü; ayna çift: doğrudan temsil yoluyla iş takibi (önermeli) ↔ dolaylı temsil yoluyla iş takibi (yanlıştır). Eksen 15 GK 229 vakasında.",
+    "Meslek yanlılığı sorusu: gümrük müşavir yardımcısının yapamayacağı işlem (eşya sahibi adına itiraz).",
+    "Çıkmış envanterde KAYNAK_DOSYA=2-TEMSİL.txt olan 21 kaydın 19'unun bilgi alanı tam, 2'si kısmen ölçüldü (bulunamayan listesinde). 2021/86 ve 2023/94 'Gümrük Müşavirliği' konulu ama kaynağı 51-disiplin cezaları.txt olduğundan bu bölüme alınmadı.",
+    "Hafıza çakışması önlendi: GMY-021/022/023, GMY2-047/048/049/054, GMY3-047/049 çekirdekleri tekrar edilmedi; aynı hükümler farklı yönden (vaka, istisna, ters yön, komşu cümle) ölçüldü.",
+    "Doğru şık 4 soruda en kısa, 2 soruda en uzun (sınır %25 altında). Cevap harfleri atanmadı.",
+    "Kalıp dağılımı: KAPSAM_DIŞI 5, ÖNERMELİ 3, OLAY 3, SÜRE 3, YANLIŞ 2, DOĞRU 2, TANIM 1, MÜEYYİDE 1. Tuzaklarda KOMŞU ilk sırada (15)."
+  ]
+}

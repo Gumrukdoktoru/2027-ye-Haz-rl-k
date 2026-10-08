@@ -1,0 +1,15 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "Sete giremeyen önemli alanlar: başvuru yeri ve izin makamının Gümrükler Genel Müdürlüğü olması ve eksik belgenin 60 günde tamamlanması (Bölüm 19'da Yönetmelikten soruldu), ret ve kabulün yazılı bildirimi, 24 ve 99 no.lu CIM kutuları, yükleme listeleri, sınır idaresinde çıkış bildiriminin onayı, kamu güvenliği tehdidinde askıya alma ile Bakanlığın sınırlama yetkisi.",
+  "notlar": [
+    "Çıkmış envanterde kaynak dosyası 25-SERİ NO 6.txt olan soru yok. Komşu çıkmış alanlar Tebliğin kendi hükümleriyle ölçüldü: varış idaresi tanımı (2025/74), varışta sonlandırma (2024/92, 2025/75), demiryolunda teminat istisnası (2021/47, 2024/60).",
+    "Set profili: 14 birebir, 3 parafraz, 3 çıkarım; 7 olumsuz kök; 3 önermeli soru. Önermeli cevaplar 'II, III ve IV', 'I ve IV' ve 'II ve III'. En kapsamlı şık hiçbirinde doğru değil; 'yanlıştır' köklü önermeli yok.",
+    "Diğer biçimler: 3 vaka (serbest bölge istisnası, TGB içinde varış değişikliği, karayolu kısmı için teminat), 1 tanımdan ad sorusu, 1 boşluk doldurma sorusu, 0 eşleştirme sorusu.",
+    "Saf sayısal şıklı soru yok, bu yüzden sirali=True kullanılmadı. Sayı ve süre ölçümü metin şıklarla yapıldı (15 gün önce ↔ 30 gün içinde, askı uzatması 60 ↔ 30, adli sicil bir ay ↔ altı ay, üçüncü ihlalde 30 gün askı). Başlangıç anı 3 soruda ölçüldü.",
+    "Güncellik sorusu yok. Tek değişiklik 19.06.2021 tarihli bent kaldırma (Seri No 12) ve son 12 ayın dışında; profil 5 aranmadı.",
+    "Prompt bölüm 8'deki 18 ikiz eksenden hiçbiri metinde yok (eksen=0). Yerine 'ortak transit ↔ ulusal transit' ayna çifti kuruldu: ulusal transitte etiket gerekmez; UIC kodu ve 58 (b) kontrolü yalnız ortak transitte yapılır.",
+    "Meslek yanlılığı sorusu kuruldu: yükümlülük listesine 'gümrük müşaviri aracılığıyla takip' sağduyu çeldiricisi eklendi.",
+    "Çeldirici yuvası olarak havayolu basitleştirmesini düzenleyen Seri No 5 Tebliğ kullanıldı (ISO sertifikası, K kodu, 96 saat, geçici depolama ile ulusal transit). Tüm doğru cevaplar Seri No 6'dan.",
+    "Çakışma riski: askıya alma ve iptal hükümleri (30/30, 30+60 gün, üçüncü ihlal, bir yıl) Seri No 5'te birebir aynı. Seri No 5 bölümü üretildiğinde bu çekirdekler başka fıkra veya yönden sorulmalı. Bölüm 19 (Transit Rejimi) çekirdekleri (GY 229-233, 222, 239-242) tekrar edilmedi."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "bulunamayan": [
+    "2021/32: Geçici çıkarılan taşıtların süresi (üç yıl / beş yıl) — envanterde 'Taşıtlar' etiketli tek çıkmış soru; dayanağı 36-ihracat.txt (geçici çıkış), 13-TAŞITLAR metninde karşılığı yok.",
+    "Envanterde KAYNAK_DOSYA = 13-TAŞITLAR.txt olan çıkmış soru bulunmuyor; SONRAKI-HAMLELER'de taşıtlar yalnızca 'az sorulmuş alan' olarak geçiyor."
+  ],
+  "giremeyen": "Taşıt kontrolünün kapsamı listesi (GY 72/A; 'diğer tedbir ve işlemler' bendi liste dışı sorusunu tartışmalı kılıyor), transit taşıtlarda uydu takibi (72/C), birden fazla limandan yük alan gemiler (72/H), ilk defa serbest dolaşıma giren veya iç hatta geçen gemiler (72/F, 72/Ğ-3), gümrüklü saha gözetimi (72/S), A-B sınıfı gümrük müdürlükleri (GY 560/1), fazla çalışma tutarları ve yıllık yeniden değerleme (Karar 122/1-2, Tebliğ md. 6), Ankara Gümrük Muhasebe Birimine aktarma süresi (Karar 124) ve başvuru-taahhütname usulü (Tebliğ md. 3/2-3) sete giremedi.",
+  "notlar": [
+    "Profil: 13 birebir / 4 parafraz / 3 çıkarım; olumsuz kök 7; önermeli 3 (I ve II · I, III ve IV · I, II, III ve IV — en kapsamlı yalnız 1, 'yanlıştır' köklü önermeli yok); vaka/hesap 2; kavram (tanımdan ad) 1; eşleştirme 1; boşluk 0.",
+    "Süre soruları 3, ikisinde başlangıç anı ölçüldü (serbest pratika sonrası DGB; yolcu bildirimi). Sayısal şıklı 2 soru sirali=True, doğru değer C konumunda.",
+    "Metinde dipnot veya değişiklik tarihi yok: güncellik sorusu ve profil 5 kurulamadı.",
+    "Prompt bölüm 8 tablosundaki ikiz eksenlerden hiçbiri bu metinde yok (eksen=0). Metin içi gelen↔giden ikizi (tren ve hava taşıtı kontrol yeri) eşleştirme sorusunda ölçüldü.",
+    "Meslek yanlılığı: GY 72/Ş işletici yükümlülükleri listesine 'gümrük müşaviri istihdamı' liste dışı unsur olarak konuldu.",
+    "GK 34/5 'Cumhurbaşkanının izni' ile GY 72/K 'Bakanlar Kurulunun izni' farkı: soru Kanun köklü kuruldu, eski ve yeni makam rakip şık yapılmadı.",
+    "Karar 122'deki 138/325/510 TL tutarları yıllık yeniden değerlemeye tabi taban tutarlar olduğundan doğrudan tutar sorusu kurulmadı; hesap sorusunda saat ücreti vakada veri olarak verildi.",
+    "Karar dayanaklı soruda (fazla çalışma süresi) kök, 2009/15481 sayılı Karar kurum kalıbıyla başlıyor; Tebliğ soruları kökte 'Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 74)' adını taşıyor.",
+    "Doğru şıkkın tek başına en kısa olduğu soru 4/20, en uzun olduğu soru 1/20; ikisi de sınırın (%25) altında."
+  ]
+}

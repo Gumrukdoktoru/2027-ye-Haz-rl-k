@@ -1,0 +1,19 @@
+{
+ "bulunamayan": [
+  "Bu bölümün kaynağına (20-TRANSİT REJİMİ.txt) dayanan 12 çıkmış sorunun bilgi alanının tamamı metinde bulundu ve sette ölçüldü (2021/28, 2021/47, 2022/75, 2022/76, 2024/57, 2024/59, 2024/60, 2024/92, 2025/72, 2025/73, 2025/74, 2025/75).",
+  "2024/56 ve 2024/58: Seri No 4 Tebliğine dayanıyor. Tebliğ metni bu bölümün kaynağında yok; aynı bilgi alanları Gümrük Yönetmeliğindeki karşılıklarıyla (md. 222/2; md. 229, 231) ölçüldü.",
+  "2021/43, 2022/33, 2022/62 (transitin ekonomik etkili rejim olmaması), 2021/67 (posta), 2023/63 (rejim listesi), 2023/73 (kaçakçılık), 2024/77 (götürü teminat), 2025/22 (temsil), 2025/43 (GK 235 transit), 2025/60 (beyan): bu soruların konusu 'Transit' değil ve bilgileri bu bölümün metninde yok. Kendi bölümlerinin kaynaklarında yer alıyorlar."
+ ],
+ "giremeyen": "Şu alanlar 20 soru sınırı yüzünden sete giremedi: mühürsüz sevk koşulları (GY 223/1), denizyolu özel hükümleri (GY 227/2-7), telef ve kayıp belgelerinin hareket idaresine sunulması (GY 228/2), izin iptali ve askı hâlleri (GY 234), demiryolu ve boru hattı basitleştirmesi (GY 235, 238), Ek-11 tabiatı icabı oranları ve 6'lı alt pozisyon kuralı (GY 241), belirgin farklı cins eşya (GY 243), kefilden tahsilat (GY 244) ve Müsteşarlığın karayolu transit süresi ve güzergâh yetkisi (GK 91).",
+ "notlar": [
+  "Kaynakta son 12 ayda (Ekim 2025 – Ekim 2026) değişen hüküm yok; dipnotlar 2009 ve 2017 tarihli. Bu yüzden güncellik sorusu kurulmadı, 5. aday profili aranmadı.",
+  "Kotalar: birebir 14, parafraz 3, çıkarım 3; olumsuz kök 6; önermeli 3; vaka 2; tanım 1; boşluk ve eşleştirme 0. Hepsi hedef aralıkta.",
+  "Önermeli soruların doğru kombinasyonları farklı: 'I, II ve IV' (S1), 'I ve III' (S4), 'I ve II' (S14). En kapsamlı şıkla cevaplanan ve 'yanlıştır' köklü önermeli soru yok.",
+  "Süre soruları: S10 (otuz gün, beyan tarihi) ve S16 (altmış gün, bildirim tarihi). İkisinde de başlangıç anı ölçülüyor.",
+  "İkiz eksen 6 (S18: gümrük vergilerinin iki katı; matrah ve kat) ve eksen 12 (S9: doğrudan ↔ dolaylı temsil) ölçüldü. Ayna çift: ulusal ↔ ortak transitte eksiklik (S18 ↔ S19).",
+  "Meslek yanlılığı sorusu S7: antrepodan transitle taşınan eşyanın muayenesinde gümrük müşavirinin bulunmasının zorunlu sanılması.",
+  "Sabit şık sırası: S3 tarih çiftleri (doğru şık 4.) ve S10 süreler (doğru şık 3.) sirali=True. Diğer soruların harf dağıtımı serbest.",
+  "Çeldirici yuvalarının kanıtı için başka bölümlerin dosyalarından alıntı yapıldı: S18 ve S20'de 48-cezalar.txt (GK 235, 241), S9'da 2-TEMSİL.txt (GK 5). Soruların cevabı yine transit kaynağına dayanıyor.",
+  "Önceki setlerle çakışma kontrol edildi (GMY-072..076, GMY2-089/090, GMY3-029/030). Aynı hükme dönen sorular farklı yönden kuruldu: S5 teminatın zorunlu olduğu taşımayı soruyor (GMY-074 teminat aranmayanları soruyordu), S18 yaptırımı soruyor (GMY-073 süreyi soruyordu), S8 transit idaresi tanımını soruyor (GMY3-029 hareket idaresiydi)."
+ ]
+}

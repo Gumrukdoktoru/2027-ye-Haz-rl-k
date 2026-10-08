@@ -1,0 +1,20 @@
+{
+ "bulunamayan": [
+  "2024/22: Eski model eşya/taşıtta model yılı fiyatından amortisman indirimi kaynak metinde yok (envanter kaynağı: YOK).",
+  "2025/34: Bedelsiz ithal edilen kullanılmış otomobilde amortisman indirimiyle kıymet hesabı kaynak metinde yok (envanter kaynağı: YOK).",
+  "2022/50 (kısmi): Resmî cevaptaki 'önceki yöntemlerin makul esneklikle uygulanması' ifadesi metinde yok (Ek-8 yüklenmemiş); bilgi alanı olan son yöntemde esas alınmayacak kıymetler listesi soru 12'de ölçüldü."
+ ],
+ "giremeyen": "İstisnai kıymetle beyanın kapsamı (konsinye çabuk bozulabilir eşya, boru hattı/elektrik, LNG) ile tamamlayıcı beyanda gecikme faizi ve zamanaşımı başlangıcı; ardıl satışlar, başka ülkede kullanılan eşya ve kusurlu eşyada sonradan fiyat düzeltmesi; indirgemede işlenmiş eşya ve bedelsiz unsur sağlayana yapılan satışın kullanılmaması; dönemsel royalti beyanı (EK-1/EK-2, bölge müdürlüğü) ve KDV beyannamesiyle ödenen royaltide usulsüzlük cezası; nakliyat abonman sözleşmesi, maktu yurt içine teslim fiyatı, posta-kargo ücretleri; ambalajın ayrı beyanı ve hacim tespiti sete giremedi.",
+ "notlar": [
+  "Kota karşılandı: BİREBİR 14, PARAFRAZ 3, ÇIKARIM 3; olumsuz kök 7; önermeli 4 (I-III, I-IV, I-II-IV 'doğrudur'; III-IV 'yanlıştır'; en kapsamlı doğru 0, 'yanlıştır' köklü 1); vaka/hesap 3 (soru 5, 15, 17); tanım 2 (soru 1 addan tanım, soru 3 tanımdan ad); boşluk 1, eşleştirme 0.",
+  "Çıkmış kaynağı 12-KIYMET VE KAPLAR.txt olan 28 sorunun (2023/97 brüt ağırlık dahil) bilgi alanlarının tamamı ölçüldü; çıkmış metin, şık yapısı ve kurgu kopyalanmadı.",
+  "Hafızadaki kıymet çekirdekleri (GMY-034…040, GMY2-021…026, GMY3-001…004) aynı yönden tekrarlanmadı: indirgeme 90 gün → başlangıç anı ve ilk satış (boşluk); kur → EXW hesabında alış/satış kuru ve tarih ayrımı; ilişki → olumlu yönde 'üçüncü kişiyi birlikte kontrol'; son yöntem → GATT VII ve Türkiye verisiyle önermeli; royalti → tanımın işlem unsurları ve Tebliğ/Yönetmelik koşulları.",
+  "İkiz eksen 11 (kıymet ikizleri) 7 soruda ölçüldü; ayna çift: soru 1 (aynı eşya tanımı) ↔ soru 2 (benzer eşya ve yöntemi). Ayrıca satış ↔ satın alma komisyonu (14), ilişki listesi (4), pazarlama dolaylı ödeme değildir (3, 8), kur (15).",
+  "Süre soruları (soru 9, 16) ikisinde de başlangıç anı ölçüldü.",
+  "Güncellik sorusu yok: kaynaktaki tek değişiklik notu 02.05.2019 (LNG, istisnai kıymet); son 12 ayda değişen hüküm yok, profil 5 aranmadı.",
+  "Meslek yanlılığı sorusu yok: kıymet ve kaplar hükümlerinde gümrük müşaviri, yardımcısı veya temsil unsuru bulunmuyor.",
+  "Profil kapsaması: 1 (Yönetmelik/Tebliğ ayrıntısı) 14, 2 (yakın sayı) 3 (soru 4, 15, 16), 3 (sağduyu/liste dışı) 10, 4 (olumsuz kök/tek kelime) 8 soru.",
+  "Sayısal sıralı sorularda doğru konum: soru 15 → D (754.650), soru 17 → C (1.050); harf dağıtımında sabit kalmalı.",
+  "Doğru şık tek başına en uzun 4, en kısa 4 soruda (%20). Karar (2009/15481) dayanaklı soru yok."
+ ]
+}

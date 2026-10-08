@@ -1,0 +1,20 @@
+{
+ "bulunamayan": [
+  "2023/52: '1000' rejim kodu (daha önce rejime tabi tutulmamış eşyanın kesin ihracatı) 36-ihracat.txt metninde yok; kaynağı 4-OKSB (SB04-18'de ölçüldü).",
+  "2024/49: '1040' rejim kodu metinde yok (envanterde kaynak YOK).",
+  "2025/68: '1023' rejim kodu metinde yok (envanterde kaynak YOK); komşu alan GY 415/2 beyanname yerine geçen belgeler S3'te ölçüldü."
+ ],
+ "giremeyen": "İhracat Yönetmeliği tanımlarından ihracat/ihracatçı/e-ihracat/ihraç müsaadesi ve transit ticaret yasakları, İhracat Rejimi Kararı'nda DTSŞ-SDŞ statüsü ve Eximbank programları, İhracı Kayda Bağlı Mallar Tebliği listesi ile 2020/5 geçici maddesindeki İhracat GM ön onayı, İhracat Yönetmeliği md. 11-12 ve 16-19 (mahrece iade saklı, serbest bölgeye ihracat, nisbi aidat, Birlik Onay Kodu, TÜİK bildirimi, kambiyo), Bedelsiz Tebliği md. 3/5-3/7 ve md. 7, Geçici İhracat Tebliği md. 6/2-6/7 belgeleri ile md. 7, 8, 10 (finansal kiralamada 'uzatılır'), 11, 15, 16, 17 sete giremedi.",
+ "notlar": [
+  "Kota: birebir 14, parafraz 3 (S1, S10, S19 — 3-4 aralığının alt sınırı), çıkarım 3 (yalnız vakalar S4, S6, S17); olumsuz kök 6 (S7, S8, S10, S13, S15, S16); önermeli 3 (doğru kombinasyonlar II-IV, I-III, I-II-IV; en kapsamlı doğru 0; 'yanlıştır' köklü önermeli 0); vaka 3; tanımdan ad 1 (S9); boşluk 1 (S2) + eşleştirme 1 (S10); sayısal sıralı 1 (S11, doğru değer 3. sırada).",
+  "Çıkmış alanların tamamı (36-ihracat kaynaklı 9 soru) ölçüldü: 2021/68→S1 (kontrolün sona ermesi), S2 (boşluk); 2024/45→S3 (tam liste) ve S1 (komşu 415/3); 2024/55, 2025/69→S4 (vaka); 2022/82, 2024/46, 2024/97, 2025/25→S5 (önermeli: bir ay, üç ay ek süre, iki ay kapatma, gümrük müdürlüğü) ve S6 (sonraki hamle 417/2: tebliğden otuz gün, terk, beyanname iptali); 2021/32→S19 (üç yıl + gümrük müdürlüğü). 2025/61 (GY 155) 17-BEYAN kaynaklı olup SB16-10'da ölçüldü.",
+  "Güncellik: kaynakta son 12 ayda (Ekim 2025-Ekim 2026) değişen hüküm yok. En yeni değişiklikler 11.09.2025 (İhracı Kayda Bağlı Mallar Listesine limon/elma eklenmesi; mal listesi olduğu için soru yapılmadı) ve 06.05.2025 (İhracat Yönetmeliği tanımlar ve konsinye ihracat); S12 06.05.2025 değişikliğinden güncellik sorusu olarak kuruldu (profil 5). Ek-2'deki 'CK 2026-11068' yalnız bağlantı etiketi olup metni kaynakta yok.",
+  "Meslek yanlılığı sorusu kurulamadı: kaynakta gümrük müşaviri veya yardımcısına ilişkin hüküm yok; İhracat Rejimi Kararı'ndaki görevlendirme listesi 'ilgili diğer kurum ve kuruluşlar' ifadesiyle açık uçlu olduğundan liste dışı müşavir unsuru tartışmalı olurdu.",
+  "İkiz eksen 13 (ihracatta geçici depolama süreleri) S5-S6'da; ayna çift A (İhracı Yasak Mallar Listesi ↔ İhracı Ön İzne Bağlı Mallar Listesi) S15-S16; ek ikizler: takas ↔ bağlı muamele (S9), konsinye genel kural ↔ basitleştirilmiş beyanname istisnası (S12), Bakanlık (İhracat GM) ↔ gümrük idareleri/İBGS makamları (S14).",
+  "Süre soruları 5 (S6, S11, S12, S18, S19); başlangıç anı S6 (tebliğ tarihi) ve S12 (ihraç tarihi) ile ölçüldü; S4 ayrıca TGB'yi terk anını vaka ile ölçer.",
+  "Hafıza ve önceki bölümlerle çakışma önlendi: GMY-068 (GY 416 tanıma) → S4 vaka; GMY-069 (417/1) ve GMY2-096 (417/3 hesap) → S5 önermeli (ek süre ve makam) ve S6 (417/2); GMY2-097 (GK 151 şart) → S2 boşluk; GMY3-018 (Geçici İhracat Tebliği yanlış) → S19 iki bilgi ve S20 ticari kiralama belgeleri; SB16-09 (GY 131) yalnız S3'te çeldirici yuvası.",
+  "Doğru şıkkın tek başına en uzun olduğu soru 1/20 (S20), en kısa olduğu soru 0/20.",
+  "Küçük konu kuralı uygulanmadı: metin 20'den fazla ayrı sınav noktası taşıyor.",
+  "Kaynaktaki 'Müsteşarlık' terimleri korundu; S19'da Dış Ticaret Müsteşarlığı ile Gümrük ve Ticaret Bakanlığı yalnız yanlış şıklarda, farklı makamlar olarak yer aldı."
+ ]
+}

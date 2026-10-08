@@ -1,0 +1,18 @@
+{
+ "bulunamayan": [
+  "2025/63: eşdeğer eşya ve geri ödeme sistemi tanımları (bu bölümün kaynağında yok; GK 108 tanımları Dahilde İşleme bölümüne ait). Aynı sorunun bu kaynaktaki alanı (işlem görmüş ürün, asıl ve ikincil ürün, verimlilik oranı) S9'da ölçüldü."
+ ],
+ "giremeyen": "GY 310 başvuru mercileri (geçici ithalatta ekonomik etkisi olmayan özel durum eşyası için Gümrükler Genel Müdürlüğü), GY 309/3 gümrük beyanıyla başvuru hâlleri (eşdeğer eşya istisnası, ATA ve CPD karnesi, ticari nitelikte olmayan eşyanın tamiri), GY 314 iznin veriliş şekilleri, GY 322 verimlilik oranının belirlenmesi ve standart verimlilik oranları, GY 324 ilk beyan esaslı kapatma kuralı ile tahrip veya kayıp hâli ve GY 313/1 başvuru sahibinin sorumluluğu ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol5.py 'Hatalı soru: 0'. Prompt bölüm 16 kontrolü her soruya uygulandı: tek doğru cevap, çeldiricilerin metne göre yanlışlığı, kökteki mevzuat türü ve önermelerin doğru/yanlış niteliği metinle teyit edildi.",
+  "Kota: birebir 14, parafraz 3 (S4, S5, S20), çıkarım 3 (yalnız vakalar: S2, S12, S18). Olumsuz kök 8. Önermeli 3: S3 'I ve III', S5 'I, III ve IV', S15 'II, III ve IV'. En kapsamlı şık doğru 0, 'yanlıştır' köklü önermeli 0. Vaka 3, tanım/kavram 2 (S7 addan tanım, S8 tanımdan ad), eşleştirme 1 (S20), boşluk 0.",
+  "Çıkmış alanlar: 2021/43 ve 2022/33 (transit EER değil) -> S1, ayna yönünde (ŞMD olduğu hâlde EER olmayan); 2022/62, 2023/83, 2024/30 (HİR, ihracat, geri ödemeli DİR ŞMD değil) -> S2 vaka (teminat şartı); 2021/52 (üçgen trafik) -> S7 addan tanım; 2025/63 (GY 308 tanımları) -> S9; 2025/96 (devir) -> S16.",
+  "Üretim hafızasında GK 79 listeleri KAPSAM (transit), KAPSAM_DIŞI (HİR) ve EŞLEŞTİRME (geri ödeme) yönlerinden sorulmuştu; bu sette ters kutup (transit) ve teminat şartına bağlı vaka yönü kullanıldı. GY 318 SB08-19'da sorulduğu için dışarıda bırakıldı. GY 350, 355 ve 396 Dahilde İşleme ve Hariçte İşleme bölümlerine bırakıldı.",
+  "İkiz eksen: 1 (ŞMD ve EER listeleri; ayna çift S1-S2) ve 2 (şartlı muafiyet sistemi ve geri ödeme; S3, S19).",
+  "Süre soruları 2 (S12, S19), ikisinde de başlangıç anı ölçüldü. S12 tarih sıralı (sirali=True), doğru şık 4. sırada. Kaynakta sayısal şıklı başka uygun hüküm olmadığından ayrıca sayısal sıralı soru yok.",
+  "Güncellik sorusu yok: kaynaktaki en yeni değişiklik 03.01.2023 tarihli (GY 325/1-a), 12 aydan eski. Profil 5 aranmadı. Bu tarih S19 gerekçesinde belirtildi.",
+  "Meslek yanlılığı: S4 (izin şartları arasına 'gümrük müşaviri aracılığı' eklenmiş çeldirici).",
+  "Doğru şıkkın tek başına en uzun olduğu soru 3/20 (S6; S8 ve S12'de fark 1-2 karakter), en kısa olduğu soru 0/20.",
+  "Küçük konu kuralı uygulanmadı: kaynak 20'den fazla ayrı sınav noktası taşıyor. Kaynaktaki 'Müsteşarlık' terimi korundu; şıklarda Müsteşarlık ve Bakanlık rakip seçenek yapılmadı."
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "bulunamayan": [
+    "2022/97: Dahilde işleme rejiminin amaçları (ihracatı destekleme, ucuz hammadde temini, ürün ve pazar çeşitlendirme) metinde düzenlenmemiş. Envanterde de kaynak 'YOK'. En yakın hüküm Tebliğ md. 16'daki başvuru değerlendirme kriterleri; bu nedenle soru üretilmedi.",
+    "2021/89 ve 2022/46 (kısmen): Telafi edici verginin kavram tanımı GK 194'te, yani Gümrük Yükümlülüğü bölümünün dosyasında. Bu dosyada ayrı bir tanım yok. Alan, Tebliğ md. 33 üzerinden 14. soruda ölçüldü: kavram kökte tanımlandı, şıklar hesap tarihini, ödeme anını, irat kaydını ve harp araçları istisnasını sordu."
+  ],
+  "giremeyen": "Sete giremeyen önemli alanlar: belge/izin süresi ile ek süre, haklı sebep ve mücbir sebep başvuru süreleri (md. 20-24, 26; bir kısmı önceki setlerde soruldu), kısmi teminat iadesinde %90 sınırı ve kapatmada bir aylık eksiklik süresi (GMY3-023'te soruldu), eşdeğer eşyada 8'li ve 12'li GTİP bazı, verimlilik oranı hesap yöntemleri (GY 360-362), GY 364 ve 367'deki belge ibareleri, Tebliğ 17/2'deki kapsam dışı eşya (orkinos ve larva istisnası), 17/7'deki %51 şartı, md. 34'teki fazla vergi iadesi (3 yıl / 3 ay), md. 42'deki geri gelen ürün, md. 44-46'daki iptal ve indirimli teminat yaptırımları.",
+  "notlar": [
+    "Set profili: 14 birebir, 3 parafraz (4, 14 ve 15. sorular), 3 çıkarım (5, 10 ve 20. sorular; hepsi vaka veya hesap); 7 olumsuz kök. Önermeli 3 soru; cevaplar 'II, III ve IV', 'I ve II' ve 'I, II, III ve IV'. En kapsamlı şık yalnız 16. soruda doğru; 'yanlıştır' köklü önermeli yok.",
+    "Vaka ve hesap 3 soru. 5. soru: yurt dışında yerleşik şirketin ticari ithalatı; saklı istisna 'ticari nitelikte olmayan' kaydı. 10. soru: döviz kullanım oranı hesabı; saklı istisna yurt içi alımın hariç tutulması (%75). 20. soru: süre bitiminden sonraki ikinci ayda yapılan ihracat; belge kapsamında değerlendirilir, usulsüzlük cezasının dört katı alınır.",
+    "Diğer biçimler: 1 addan tanım (geri ödeme sistemi), 1 kavram–tanım eşleştirmesi; boşluk doldurma yok. Eşleştirmede 2025/63'ün kurgusu kopyalanmadı: orada yanlış olan ikincil ürün tanımıydı, burada asıl işlem görmüş ürün tanımı yanlış.",
+    "Sayısal sorular: 2 soru sirali=True. İşletme malzemesinde %2 doğru cevap B sırasında, döviz kullanım oranında %75 doğru cevap C sırasında. Süre ölçümü 3 soruda; başlangıç anı 2 soruda ölçüldü (önceden ihracatta beyan süresi ihracat beyannamesinin tescilinden; itiraz süresi tebliğ tarihinden).",
+    "İkiz eksenler ve ayna çiftler. Eksen 2 (şartlı muafiyet ↔ geri ödeme): ayna A, 1. ve 3. sorular. Eksen 18 (izin ↔ izin belgesi): ayna B, 6. ve 7. sorular; 8. soru da bu ekseni ölçüyor. Eksen 5 (iki kat ↔ dört kat): 20. soru.",
+    "Güncellik sorusu yok. Kaynaktaki en yeni değişiklik 14.09.2022 tarihli İhracat 2022/6 Tebliği; Ekim 2025 – Ekim 2026 arasında değişiklik görünmüyor. Bu yüzden profil 5 aranmadı.",
+    "Meslek yanlılığı sorusu 13. soru: temsilci aracılığıyla ithalatı gümrük müşavirinin dolaylı temsilci olarak tayinine bağlayan yanlış ifade.",
+    "Üretim hafızasıyla çakışma önlendi. Şu çekirdekler aynı yönden tekrar edilmedi: GMY-061…066, GMY2-081…084 ve GMY3-023. Örnekler: GK 108 boşluk doldurma yerine addan tanım; Tebliğ 33/7 birinci cümle yerine önceden ihracat cümlesi; GK 110/3 önermeli yerine vaka; 12'li baz yerine başka hükümler. Bölüm 10'daki SB10-06'nın menşe ispat belgesi liste-dışı yönü de tekrar edilmedi. cakisma.py 0,25 eşiğinde SB31 için çakışma bulmadı.",
+    "Şık uzunluğu: doğru şık 3 soruda en uzun, 4 soruda en kısa (≤%25).",
+    "Dikkat: Tebliğ md. 9 (indirimli teminat) ile md. 45, 46 ve 49 başlıklarında '…ile değişik. Mülga' notu var. Bu yüzden md. 9'dan soru kurulmadı. Md. 45/5 kullanıldı; 45/4 ve 45/7'nin 2022 değişiklik notları maddenin yürürlükte olduğunu gösteriyor.",
+    "Çeldirici yuvaları için komşu rejim hükümlerine başvuruldu: hariçte işlemede standart değişim (GK 144) ve şartlı muafiyet düzenlemeleri listesi (GK 79; 19-ŞARTLI M VE E.E.G.R.txt). Bütün doğru cevaplar dahilde işleme dosyasından."
+  ]
+}

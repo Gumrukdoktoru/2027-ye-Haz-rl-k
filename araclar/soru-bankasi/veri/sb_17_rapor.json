@@ -1,0 +1,18 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "GK 77/2 atıfları, GY 206 (belli kurumlara bırakılan eşya), GY 207/2-3 (tercihli tarife ile nihai kullanım ilişkisi, fark teminatı), GY 208/7 (geriye dönük izinde gözetimin sona ermemiş olması), GY 209/1-4, 6-7 (birlikte depolama, atık-artık), GY 210/2-6 (ek-31 form, T5 nüsha akışı), NK Tebliği md. 4, 5, 9, 10 (en az bir denetim), VÖ Tebliği md. 6-8 (bölge müdürlüğüne başvuru, 30 günlük eksiklik süresi, izin süresi ve Kasım ayında uzatma), Seri No: 13 Komisyon yapısı ile kurum eşleşmesi, Seri No: 15 ayrı soru olarak (gümrüğe sunmama, ilk on gün, Ankara), Seri No: 18 metal hurda koşulları ile md. 5/3 süreleri ve Seri No: 2 md. 3, 7, 9 sete girmedi.",
+ "notlar": [
+  "Kontrol: kontrol5.py 'Hatalı soru: 0'. Prompt bölüm 16'daki 30 maddelik kontrol her soruya uygulandı. Her soruda tek doğru cevap var, çeldiriciler metne göre yanlış, kökteki mevzuat türü kaynakla aynı, önermelerin doğru/yanlış niteliği metinle teyit edildi.",
+  "Kota: birebir 14, parafraz 3, çıkarım 3 (üç vaka). Olumsuz kök 7. Önermeli 3: biri 'yanlıştır' köklü; kombinasyonlar II-IV, I-II ve I-III-IV; en kapsamlı şıkla cevaplanan yok. Tanım/kavram 1, eşleştirme 1, boşluk 0. Sayısal sıralı 2 soru, doğru şık ikisinde de 2. sırada.",
+  "Süre soruları 4 (3 SÜRE kalıbı ve 1 süre-merci sorusu); 2'sinde başlangıç anı ölçülüyor (NK Tebliği 8/2 ve LNG fatura süresi).",
+  "Güncellik sorusu yok: kaynaktaki en yeni değişiklik dipnotu 03.05.2023 (GY 205/5, 207/4). Son 12 ayda değişen hüküm olmadığı için profil 5 aranmadı.",
+  "İkiz eksenler: 3 (statü-menşe, menşe çeldiricisiyle), 9 (iptal-düzeltme) ve 2 (şartlı muafiyet-geri ödeme, GK 78 sorusunun çeldiricileri). Ayna çift: Karar 13 gemi (liste dışı) ile Karar 14-15 hava taşıtı (önermeli).",
+  "Meslek yanlılığı: Seri No: 18'de YGM raporunun istenmediği hâller ve YGM'nin iki yıllık dolaylı temsil yasağı ('müşavir raporu her durumda şarttır' önyargısı).",
+  "2023/78: resmî cevap 'Gümrük ve Dış Ticaret Bölge Müdürlüğü', kaynak metin (Seri No: 2) ise 'Gümrük ve Muhafaza Başmüdürlüğü' diyor. Soru metindeki adla kuruldu; eski ve yeni ad çakışmasın diye şıklarda bölge müdürlüğü kullanılmadı. İtirazlar bölümü (GK 243, GY 588) aynı 15 gün/başmüdürlük hükmünü taşıyor; o bölümde çakışma kontrol edilmeli.",
+  "GY 205: SB10-19 ve SB10-20 tescil tarihini, numuneyi, A.TR'yi ve önlem ülkesi istisnasını ölçtü. Bu bölümde yalnız 'belge ibraz edilmezse en yüksek tutar' sonucu soruldu.",
+  "Üretim hafızasındaki önceki çekirdeklerden (GMY-044, 049, 050, 052, 058; GMY2-070, 071, 072; GMY3-012, 016) farklı fıkra veya farklı ölçme yönü seçildi.",
+  "Küçük konu kuralına gerek olmadı; 20 soru 20 ayrı sınav noktasından kuruldu. Kaynakta 11 çıkmış soru noktası var, hepsi karşılandı: 2021/42, 2022/37, 2022/39, 2022/40, 2023/78, 2024/43, 2025/40, 2025/49, 2025/51, 2025/55, 2025/56.",
+  "Doğru şık 3 soruda tek başına en uzun, 2 soruda tek başına en kısa; ikisi de %25 sınırının altında.",
+  "Çeldirici yuvası olarak başka dosyalar da kullanıldı: 1-TANIMLAR.txt (gümrük işlemlerinin bitirilmesi), 32-DAHİLDE İŞLEME.txt (şartlı muafiyet sistemi) ve 49-itirazlar.txt (otuz günlük karar süresi)."
+ ]
+}

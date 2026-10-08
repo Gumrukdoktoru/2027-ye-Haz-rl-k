@@ -1,0 +1,24 @@
+{
+ "bulunamayan": [
+  "Envanterde KAYNAK_DOSYA'sı 24-SERİ NO 5.txt olan çıkmış soru yok; konu adıyla (Transit) eşleşen çıkmış soruların çoğunun bilgisi bu Tebliğde yer almıyor.",
+  "2021/28: GK 84 transit tanımı ve taşıma yönleri (metinde yok)",
+  "2022/75: NATO kuvvetleri için Form 302 (metinde yok)",
+  "2024/56 ve 2024/58: Seri No: 4 teminat türleri ve teminattan vazgeçme izni makamı (metinde yok)",
+  "2024/57: serbest dolaşımdaki eşyada beyana aykırılık (metinde yalnız serbest dolaşımda olmayan eşyanın eksik/fazla kapları var)",
+  "2024/59 ve 2025/73: transit beyanı yerine geçen belgeler, CMR (Tebliğde yok; Gümrük Yönetmeliği'nin 'basitleştirilmiş usulde manifesto' hükmü S7'de kanıt ve gerekçe olarak kullanıldı)",
+  "2025/72: NCTS'de 30 günde sunulmayan beyanın reddi (metinde yok)",
+  "2021/47 ve 2022/76: havayolunda teminat aranmaması (Tebliğde yok; Gümrük Yönetmeliği'nin aynı hükmüyle S13'te önerme olarak ölçüldü)"
+ ],
+ "giremeyen": "Seri No: 6 ve Seri No: 8 ile birebir ortak olup SB24/SB25'te sorulmuş hükümler (hareket ve varış idaresi tanımları, eksik belgede 60 gün, GGM izin makamı, bilgilerin kalkışa kadar iletimi ve değişikliğin varışa kadar yapılması, varışta sunulmuş ve sonlandırılmış sayılma, kâğıt ibraz kolaylığı, 15 gün önce havalimanı bildirimi, askı ve iptal süreleri, üçüncü ihlal, 60 günde ilişik kesme, iptalden sonra bir yıl, sonradan kontrol, yetki maddesi) ayrı soru olarak sete alınmadı.",
+ "notlar": [
+  "Koordinatör uyarıları üzerine set iki kez yeniden kuruldu: ortak çekirdekli 12 soru çıkarıldı, yerine havayoluna özgü hükümlerden soru yazıldı (izin sahibi = havayolu şirketi, 3 kargo/10 yolcu uçağı, başvuru yılı + bir önceki yıl, ISO + bir yıl, SHGM yazısı, kendi sefer kodu, uçuş bilgileri, K/H/HD/TR kodları, 96 saat, 'ambar harici', konşimento ilişkilendirme listesi, belge aranmaksızın elektronik varış bildirimi, 10 gün + 28 gün eksik kap usulü, fazla kapta tasfiye, anlık erişim sağlanamazsa çıktı).",
+  "Seri 5/6/8 ortak çekirdeğine dokunan yalnız 3 soru kaldı, üçü de Seri 5'e özgü yönden: S9 (havayolu listesinde konteyner numarası yok; SB25-10'un aynası), S8 (H kodu ile TD kodunun ayrımı), S13'ün III. önermesi (rejim hak sahibi). cakisma.py 0,30 eşiğinde SB23 için yalnız S9 ↔ SB25-10'u (0,48, bilinçli ayna) bildiriyor.",
+  "Profil: birebir 14, parafraz 3 (S2, S6, S12), çıkarım 3 (yalnızca vakalar S4, S11, S16); olumsuz kök 6; önermeli 4, doğru kombinasyonlar I-III / II-III-IV / I-II / II-III, en kapsamlı doğru 0, 'yanlıştır' köklü önermeli 0; vaka 3; tanım 1 (S1); boşluk ve eşleştirme 0.",
+  "Süre soruları 3 (S3, S11, S17); başlangıç anı S3 ve S11'de ölçüldü. Sıralı şıklı soru S17 (doğru değer 2. sırada).",
+  "Güncellik (profil 5) sorusu yok: Tebliğdeki tek değişiklik 19.06.2021 tarihli (Seri No: 11 ile bir bendin kaldırılması), son 12 ay içinde değil.",
+  "İkiz eksen tablosundaki 18 eksenden hiçbiri bu metinde birebir yok; metin içi ayna çift kuruldu: eksik kap (S16 vaka) ↔ fazla kap (S18 önermeli). S13'te hareket ↔ varış idaresine sunulmuş sayılma tek kelime değişikliğiyle ölçüldü.",
+  "Meslek yanlılığı: S14'te yanlış ifade, varış bildiriminin gümrük müşavirince düzenlenen belgelerle yapılacağı önyargısına dayanıyor.",
+  "Küçük konu durumu: Tebliğin büyük kısmı Seri 6 ve 8 ile ortak olduğundan md. 9'daki eksik/fazla usulüne 4 soru düştü (S15 kapsam, S16 vaka, S17 süreler, S18 fazla kap); her biri farklı boyutu ölçüyor. S13'te Gümrük Yönetmeliği'nin havayoluna özgü teminat ve mühürleme hükümleri kullanıldı, kök buna göre iki düzenlemeyi de adlandırıyor.",
+  "Doğru şık tek başına en uzun: 4/20; tek başına en kısa: 2/20. Tarife pozisyonu (22.08, 24.02) sorulmadı."
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "Karar tanımının tanımdan ada yönü, GY 586'nın Kanundaki süre aşımına göndermesinin tek başına sorulması, kararların derhal uygulanması ve yazılı tebliği ile lehe kararların Kanundaki hâllerde değiştirileceğinin dayanak sorusu sete ayrı soru olarak alınmadı; bunlar ya Karar S1'de aynı yönden soruldu ya da aynı setteki başka bir sorunun cevabını açığa vuruyordu.",
+  "notlar": [
+    "Soru sayısı 18 (20 değil). Kaynak 22 satırdır (GK 6-7, GY 27, GY 586; yaklaşık 25 bilgi noktası) ve aynı kaynaktan üretilmiş 15 soruluk Karar S1 seti var. Kalan noktalar farklı yönlerden ölçüldü: tanım, olandan olmayana, ayna, vaka, tek kelime değişikliği, sayısal. 19. ve 20. soru ya S1'i aynı yönden tekrar ediyor ya da set içindeki başka sorunun cevabını açığa vuruyordu.",
+    "Çıkmış soru: Envanterde KAYNAK_DOSYA'sı 6-KARAR.txt olan soru yok. İlgili iki bilgi alanı farklı kurguyla karşılandı: 2023/77 (itirazlar otuz günde karara bağlanır; GY 586, sayısal soru) ve 2025/31 (kararlara dayanak bilginin yanlış verilmesinde iki kat usulsüzlük cezası; GK 241/3-a, kat sorusu kopyalanmadan vaka içinde).",
+    "Komşu kaynak kullanımı: Karar tanımı için GK 3 (1-TANIMLAR) ve müeyyide için GK 241/3-a (48-cezalar) kullanıldı. Çeldirici yuvaları için yalnız şu dosyalar kullanıldı: 7-BİLGİ, 45-tebliğ, 49-itirazlar, 50-uzlaşma, 18-Ser.Dol.",
+    "Profil: Birebir 12, parafraz 3, çıkarım 3. Olumsuz kök 6. Önermeli 3: cevaplar 'I ve II', 'I ve III', 'Yalnız II'; 'yanlıştır' köklü 1 soru; en kapsamlı şık hiçbir soruda doğru değil. Vaka 3, tanım 1, boşluk 1. Sayısal 1 soru, sıralı, doğru değer 2. sırada. 4 süre sorusunun 4'ünde başlangıç anı ölçüldü.",
+    "Kota sapması: 20 soru için hedef birebir 13-14 idi, 18 soruda 12 oldu (%67); oran korunuyor. Diğer kotalar karşılandı.",
+    "Güncellik: 6-KARAR.txt'deki tek değişiklik notu 2009 tarihli. Son 12 ayda değişen hüküm olmadığı için güncellik sorusu ve 5. aday profili kurulmadı. Not: 48-cezalar'da GK 241/1'e 26.03.2026 tarihli AYM kararı notu var, ancak içeriği kaynakta olmadığından kullanılmadı.",
+    "İkiz eksen: Prompt bölüm 8 tablosundaki eksenlerin hiçbiri kaynakta yok (eksen=0). Metin içi ikizler ayna çiftle ölçüldü: zorunlu iptal ↔ değiştirilir veya iptal edilebilir (10 ↔ 11) ve yürürlükte iptal kararının verildiği tarih ↔ tebliğ tarihi (12 ↔ 13).",
+    "Meslek yanlılığı 2. soruda ölçüldü: karar talebinde gümrük müşaviri aracılığının zorunlu sanılması.",
+    "Şık uzunluğu (önermeli ve sayısal hariç): doğru şık 3 soruda en uzun, 3 soruda en kısa; her ikisi de sınırın altında.",
+    "Set içi sızıntı: 9. sorunun şıkları ile 12. sorunun kökü, üç hâlin bir arada aranması bilgisini kısmen gösteriyor ve 11. vakaya ipucu verebilir. Doğrudan cevap sızıntısı giderildi.",
+    "Örtüşme: SB01-12'de karar tanımı doğru önerme olarak kullanıldı. 1. soru tanımı farklı yönden ölçüyor: olumsuz kök, 'genel olarak uygulanan işlemler' (gümrük gözetimi tanımı) ile karıştırma."
+  ]
+}

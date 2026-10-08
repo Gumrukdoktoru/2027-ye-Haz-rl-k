@@ -1,0 +1,17 @@
+{
+ "bulunamayan": [
+  "2023/52: “1000” rejim kodunun açıklaması (daha önce bir rejime tabi tutulmamış eşyanın kesin ihracatı) metinde yok; metinde yalnızca “1000” kodlu ve “1000” dışındaki kodlu ihracat beyannamelerinin mavi hatta işlem görme koşulu var, bu komşu hüküm mavi hat sorusunda ölçüldü.",
+  "2022/94 ve 2025/98: çeldirici olarak kullanılan yeşil hat ve izinli alıcı YYS'ye ait olup 4-OKSB.txt'de geçmiyor; bilgi alanı (OKSB kapsamındaki haklar) doğru-kök sorusu ve hak bazında ayrı sorularla ölçüldü."
+ ],
+ "giremeyen": "Götürü teminat tutarları ve süreleri (%10, 250.000/75.000 Avro alt, 2 milyon Avro üst sınır; 10 iş günü bildirim, 30 gün mektup ibrazı), yenilemede dört ay kuralı, unvan değişikliği ve kayıp/zayi hâlinde referans numarası, mavi hat ihlal basamakları ile Genel Müdürlüğün karar yetkisi, hak ve yetkilerin askı/geri almasında bölge müdürlüğü yetkisi, GY 23/12'deki üç yıl kuralı ve HAGB hükmü, kalan süre bir yıldan azsa bir yıllık geri alma süresi sete giremedi.",
+ "notlar": [
+  "Kota tam: birebir 14, parafraz 3, çıkarım 3 (üç vaka/hesap); olumsuz kök 6; önermeli 4 (II-IV, II-III-IV, I-III, I-II-IV; en kapsamlı doğru 0, yanlıştır köklü 0); tanım 1; boşluk+eşleştirme 0.",
+  "Güncellik sorusu yok: 4-OKSB.txt'de Ekim 2025–Ekim 2026 tarihli değişiklik dipnotu bulunmuyor (en yeni dipnot 30.05.2022); profil 5 aranmadı.",
+  "İkiz eksen 3 (statü ↔ menşe) onaylanmış ihracatçı tanım sorusunda (A.TR ↔ menşe ispat belgesi) ölçüldü; ayna çift: statü özel koşulları (her bir dönem 7 milyon dolar, 30 işçi) ↔ beyanın kontrol türü kolaylaştırması koşulları (herhangi bir dönem 5/20 milyon dolar, 100 işçi).",
+  "Meslek yanlılığı: YGM/OK1 önermeli sorusundaki 'yetkilendirilmemiş gümrük müşaviri de tespit yapabilir' önermesi.",
+  "Önceki setlerle çakışma önlendi: S1-99 (DTSŞ özel koşul), S1-100 (iptal sonuçları), S2-56 (iki yıl/üç yıl, belge süresi), S3-46 (götürü teminat süreleri) aynı yönden tekrar edilmedi; iki yıl şartı başlangıç anı ve YYS bölünmesi vakasıyla, başkasına kullandırma yasağı doğru-kök yönünden soruldu.",
+  "Kanun listesi sorusunda şıklar kanun numarasıyla başladığı için denetleyici bunları sayısal sayıyor; sirali=True ile numara sırasına dizildi, doğru şık ikinci sırada.",
+  "Süre soruları 5, başlangıç anı ölçülen 2 (≥1/3). Doğru şık en uzun 3, en kısa 4 soruda (≤%25).",
+  "Konu küçük değil; 20 ayrı sınav noktası çıktı, küçük konu kuralına gerek olmadı."
+ ]
+}

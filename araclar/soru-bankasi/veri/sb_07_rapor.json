@@ -1,0 +1,17 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "Sete giremeyen önemli alanlar: GK 8/1 bilgi talep hakkı; GY 28/7-9 (ek-2 form, BTB Programında izleme, gümrükten çekilmede BTB'nin bildirilmesi) ve GY 28/10 iptal başlangıçları; GY 29/7 (menşe hükümlerinin esas alınması) ve GY 29/8; GY 30/2-4 protokol ayrıntıları; GY 580/A-3, 10, 11 (kapsam dışı talepler, laboratuvar raporu ve bölge müdürlüğü tarife bilgisi hâllerinde Kanunun yanlış izahat hükmünün uygulanması); Seri No 14 md. 6 (amaçlar), 7/1 (başvuru yeri ve şekli), 8 (başvuru yapılamayacak eşya), 13/2-4 (heyetin yararlandığı kaynaklar, farklı görüşte Bakanlığa intikal, ihtisas gümrüğü), 14/2, 15-16 (bağlayıcılık, ayniyat), 20/2, 21 (itiraz); Seri No 11 md. 6 (başvuru yeri), 11/1 (başmüdür yardımcısı + en az iki muayene memuru heyeti), 11/3-4 (form sıra sayısı, aylık gönderim).",
+  "notlar": [
+    "Çıkmış alanların tamamı (2021/38, 2022/71, 2023/86, 2023/87, 2025/38, 2025/57, 2025/58) metinde bulundu ve farklı yönden ölçüldü; çıkmış kurgu kopyalanmadı.",
+    "Profil: BİREBİR 14 / PARAFRAZ 3 / ÇIKARIM 3; olumsuz kök 7; önermeli 3 (doğru kombinasyonlar 'I, III ve IV', 'I ve III', 'II ve IV'; en kapsamlı şık doğru 0; 'yanlıştır' köklü önermeli 0); vaka 3 (her birinde tek saklı istisna); tanım 1; boşluk+eşleştirme 0; kota sapması yok.",
+    "Süre soruları 2 (ikisinde de başlangıç anı şıklarda ölçülüyor); vaka 1 de başlangıç anını ölçüyor. Saf sayısal şıklı soru yok, bu yüzden sirali=True kullanılmadı.",
+    "İkiz eksen 14 (BTB ↔ BMB) dört soruda; ayna çiftleri: AYNA-1 DGÖ ↔ DTÖ (BTB/BMB geçersizlik hâlleri), AYNA-2 BTB'de 'başvuru reddedilir' ↔ tarife bilgisinde 'vazgeçilmiş sayılır'. Ek ikizler: BTB (idari karar, itiraz açık) ↔ izahat (karar değil, itiraza konu olmaz) ↔ tarife bilgisi (görüş, bağlayıcı değil).",
+    "Güncellik: 7-BİLGİ.txt dipnotlarında Ekim 2025 – Ekim 2026 arasında değişiklik yok (son dipnotlar 2013 ve 2014); güncellik sorusu kurulmadı, profil 5 aranmadı. Profiller 1-4 yakalandı.",
+    "Meslek yanlılığı: izahat şartları listesine 'talebin gümrük müşaviri aracılığıyla yapılmış olması' yabancı unsur olarak eklendi.",
+    "Küçük konu kuralı gerekmedi; kaynak 20'den fazla farklı sınav noktası taşıyor.",
+    "Üretim hafızasındaki çekirdekler (BTB heyeti, BMB beş ay, BTB üç ay ek süre, GK 9/7 altı ay, BMB altı yıl YANLIŞ, geçersizlik başlangıcı eşleştirmesi) aynı yönden tekrarlanmadı; bu bilgiler yalnızca çeldirici olarak ya da farklı yönden (vaka, süre+başlangıç) kullanıldı.",
+    "2025/38 envanter özeti 'değişikliğin yürürlüğünden' diyor; kaynak metin (GK 9/5, Seri 14 md. 20) Resmî Gazete yayım tarihini esas aldığından sorular metne göre kuruldu. Yayım-yürürlük farkı vakada tuzak olarak kullanıldı.",
+    "GY 580/A metni 48-cezalar.txt'de de bulunuyor (Bölüm 47 ile olası çakışma). Mükerrer BTB vakasında gerekçe Seri 14'ün atıf yaptığı GK 241/1'i anıyor; bu hükümde 26.03.2026 tarihli bir AYM kararı notu var (içeriği kaynakta yok), ancak şıklar cezaya dayanmıyor.",
+    "Kurum adları kaynaktaki terminolojiyle (Müsteşarlık / Bakanlık / bölge müdürlüğü / başmüdürlük) korundu; aynı makamın eski ve yeni adı rakip şık yapılmadı."
+  ]
+}

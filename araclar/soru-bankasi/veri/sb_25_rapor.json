@@ -1,0 +1,15 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "Eşyanın gümrük idaresinin elektronik sistemine iletilmesine ilişkin elektronik altyapı ayrıntısı, varışta 5607 sayılı Kanun ihlalinde izin sahibinin uluslararası ve ulusal sorumluluklarının gözetilmesi, izin sahibinin diğer yükümlülükleri (ayniyet tedbiri, statü ayrımı, muhasebe kayıtları) ve tarama/yoklama yöntemiyle kontroller ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Envanterde KAYNAK_DOSYA '26-seri no 8.txt' olan çıkmış soru yok; bu Tebliğe dayanan çıkmış soru bulunmadığından karşılanamayan çıkmış alan da yok. Komşu transit çıkmışları (2021/47 teminat istisnası, 2024/59 ve 2025/73 transit beyanı belgeleri, 2025/74 varış idaresi) 20-TRANSİT REJİMİ dosyasına ait olduğundan Transit Rejimi bölümüne bırakıldı.",
+    "Profil: BİREBİR 13, PARAFRAZ 4, ÇIKARIM 3; olumsuz kök 6; önermeli 3 (I-II-III / Yalnız III [yanlıştır] / I ve III; en kapsamlı şık doğru 0); vaka-hesap 3; tanımdan ad 1; boşluk 1; eşleştirme 0.",
+    "Güncellik sorusu kurulamadı: kaynakta değişiklik dipnotu yok (Tebliğ 27.10.2018 tarihli metniyle yüklü). Profil 5 bu nedenle aranmadı.",
+    "Prompt bölüm 8 tablosundaki ikiz eksenlerden hiçbiri metinde yok (eksen=0). Konu içi iki ayna çift kuruldu: askıya alma ↔ iptal (soru 16-17) ve konteyner numarası taşıma bilgisinde yok ↔ talep üzerine listede var (soru 8-10).",
+    "Meslek yanlılığı sorusu: başvuru koşullarına 'gümrük müşaviri istihdamı' eklenen liste dışı soru (soru 4).",
+    "Küçük konu: Tebliğ 16 maddedir. Askıya alma ve iptal hükümleri Seri No 5 (havayolu) ve Seri No 6 (demiryolu) ile neredeyse aynı olduğundan bu alanda 4 soruyla sınırlı kalındı. Ağırlık denizyoluna özgü hükümlere verildi: Gemi Acenteliği Yetki Belgesi, 500 konteyner, konteyner şartı, T/TD/X/XD kodları, geminin hareketine kadar bilgi iletimi, çıkış bildirimi anı, 15/30 günlük bildirimler. Havayolu Tebliğindeki farklar (HD kodu, 96 saat, 10 gün, konteyner numarasının olmaması) KOMŞU çeldirici olarak kullanıldı.",
+    "Gümrük Yönetmeliği md. 225, 230 ve 231 yalnız Tebliğin doğrudan atıf yaptığı yerlerde kullanıldı; bu sorularda kök Yönetmeliği de anıyor (soru 4, 5, 6, 16).",
+    "Tarife pozisyonu sorulmadı; 22.08 ve 24.02 pozisyonlarındaki istisna yalnızca soru 6'nın gerekçesinde geçiyor.",
+    "Doğru şık 3 soruda tek başına en uzun, 1 soruda tek başına en kısa (sınır %25). Önermeli sorular sirali=False bırakıldı; harf dağılımı çağırana ait. Tek sayısal soru (15: 150 gün) sirali=True ve doğru değer C konumunda."
+  ]
+}

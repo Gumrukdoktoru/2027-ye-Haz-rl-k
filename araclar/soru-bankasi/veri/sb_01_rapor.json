@@ -1,0 +1,19 @@
+{
+  "bulunamayan": [
+    "2023/67: Hangi teşkilat birimlerinin (ör. saymanlık) gümrük idaresi sayılmadığı metinde yok; yalnızca gümrük idaresi tanımı ölçüldü (soru 2).",
+    "2023/72: Cumhurbaşkanının yasak ve kısıtlama koyma yetkisi 1-TANIMLAR.txt'de yok; kaynağı 16-GOBİK VE SAHTE EŞYA.txt (Bölüm 15).",
+    "2023/97: Brüt ağırlık tanımı 1-TANIMLAR.txt'de yok; kaynağı 12-KIYMET VE KAPLAR.txt (Bölüm 11)."
+  ],
+  "giremeyen": "Kanun amacının unsur düşürmeli ayrı sorusu, giriş ve ithalat gümrük idaresi vakası, gümrük gözetimi ve gümrük kontrolü ayrımı, risk tanımının bentleri, grup ihracatçısı, veri işleme tekniği ve elektronik veri değişimi ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kapsanan çıkmış alanlar: 2021/26, 2022/28, 2023/63 (rejim listesi); 2022/31, 2023/31, 2024/93 (GOİK); 2022/41, 2025/35 (gümrük vergileri); 2022/61 (CPD); 2023/36 (TPÖ); 2023/66 (gümrük idaresi); 2023/71 (statü); 2023/75 (yükümlü); 2023/84 (gümrük beyanı); 2023/91, 2023/92 (bölge, amaç); 2024/47 (ihracat ↔ çıkış idaresi); 2025/37 (gümrüklenmiş değer, ihraç eşyasıyla hesap).",
+    "Profil: 14 birebir, 4 parafraz, 2 çıkarım; 8 olumsuz kök; 4 önermeli (I-III-IV / I-II / I-III / II-III; en kapsamlı doğru 0, yanlıştır kökü 0); 2 vaka (beyan sahibi ↔ rejim hak sahibi, ihraç eşyasında gümrüklenmiş değer); 1 tanımdan ad (elleçleme); 1 boşluk + 1 eşleştirme.",
+    "Vaka 3 yerine 2: giriş ↔ ithalat idaresi vakası, aynı setteki idare türleri sorusunun şıklarından ipucu alacağı için çıkarıldı. Kota 2-3 aralığında kaldı.",
+    "Süre sorusu yok: konu metninde süre hükmü bulunmuyor; başlangıç anı kotası uygulanamadı.",
+    "Güncellik sorusu yok, Profil 5 aranmadı: dipnotlardaki en yeni değişiklik 2018 (KHK-700), son 12 ayda değişen hüküm yok.",
+    "İkiz eksenler: eksen 10 ayna çiftle ölçüldü (GOİK listesi ↔ GY gümrük işlemlerinin bitirilmesi: müsadere / serbest bölgeye giriş); eksen 3 ölçüldü (gümrük statüsü ↔ menşe).",
+    "Meslek yanlılığı: GK md. 4 sorumluluklarına 'işlemleri gümrük müşaviri aracılığıyla takip ettirmek' eklendi, yuvası GK 225. Ayrıca beyan sahibi vakasında müşavir kendi adına beyanda bulunuyor.",
+    "Doğru şık 0 soruda tek başına en uzun, 1 soruda (elleçleme) tek başına en kısa. Kontrol5: hatalı soru 0.",
+    "Hafıza tekrarı önlendi: GMY2-027, GMY2-039/040, GMY3-015 ve GMY3-019 farklı yönden soruldu (ihraç hesabı, müsadere liste dışı, rejim kapsamı, statü yanlış ifade, bitirilmesi liste dışı)."
+  ]
+}
