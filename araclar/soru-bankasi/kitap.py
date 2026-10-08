@@ -85,7 +85,7 @@ def on_kapak(toplam, bolum_sayisi, cozumsuz):
         + ('cevap anahtarlı' if cozumsuz else 'gerekçeli çözümlü') + '</p>',
         f'<div class="ok-rozet">{"CEVAP ANAHTARLI SÜRÜM" if cozumsuz else "ÇÖZÜMLÜ SÜRÜM"}</div></div>',
         f'<div class="ok-rakam"><div><b>{toplam}</b>SORU</div><div><b>{bolum_sayisi}</b>KONU</div>'
-        '<div><b>2021–2025</b>SINAV SORU TİPLERİ</div></div>',
+        + ('<div><b>1,5 dk</b>SORU BAŞINA SÜRE</div></div>' if cozumsuz else '<div><b>%100</b>GEREKÇELİ ÇÖZÜM</div></div>'),
         '<div class="ok-taban">' + (f'<img src="{logo}" alt="">' if logo else '<span></span>'),
         '<div class="ok-marka"><b>Gümrük Koçu</b><span>Ufuk Çetintaş</span></div></div></section>'])
 
