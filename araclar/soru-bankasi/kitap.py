@@ -230,15 +230,15 @@ def main():
          '<section class="kapak"><div class="bant"><div class="ust">GÜMRÜK MÜŞAVİR YARDIMCILIĞI SINAVINA HAZIRLIK</div>',
          f'<h1>{BASLIK}</h1><div class="alt">Konu konu {toplam} soru · {len(kitap)} bölüm · test kâğıdı düzeninde, '
          'cevap anahtarlı ve gerekçeli çözümlü</div></div>',
-         '<div class="orta">Her bölüm bir konunun mevzuat metninden hazırlanmış 20 soruluk bir testtir. Sorular 2021–2025 '
+         '<div class="orta">Her bölüm bir konunun mevzuat metninden hazırlanmış bir testtir; kaynağı dar birkaç konu dışında testler 20 sorudur. Sorular 2021–2025 '
          'GMY sınavlarının soru mantığıyla yazılmıştır: kilit cümle madde metninden, çeldiriciler komşu hükümlerden. '
          'Çıkmış soruların metni ve kurgusu kopyalanmamıştır.</div>',
          f'<div class="rakam"><div><b>{toplam}</b>soru</div><div><b>{len(kitap)}</b>konu bölümü</div>'
-         '<div><b>20</b>soru / test · 30 dakika</div><div><b>%100</b>gerekçeli çözüm</div></div>',
+         '<div><b>1,5</b>dakika / soru</div><div><b>%100</b>gerekçeli çözüm</div></div>',
          f'<div class="imza">{MARKA}</div></section>']
     # Kullanım ve içindekiler
     b.append('<h1>Kitap Nasıl Kullanılır?</h1><ul>'
-             '<li>Her bölüm bir testle başlar. Test sayfaları sınav kitapçığı gibi çift sütunludur; 20 soru için 30 dakika ayırın.</li>'
+             '<li>Her bölüm bir testle başlar. Test sayfaları sınav kitapçığı gibi çift sütunludur; soru başına 1,5 dakika ayırın (20 soru için 30 dakika).</li>'
              '<li>Cevaplarınızı Ek B\'deki cevap formuna işaretleyin, sonra bölümün cevap anahtarıyla kontrol edin.</li>'
              '<li>Çözümler testin hemen arkasındadır ve tek sütundur. Her çözümde doğru şık, dayanak madde ve gerekçe vardır. Gerekçe, '
              'en güçlü çeldiricinin mevzuattaki yerini de söyler: yanlış yaptığınız soruda neyi neyle karıştırdığınızı görürsünüz.</li>'
