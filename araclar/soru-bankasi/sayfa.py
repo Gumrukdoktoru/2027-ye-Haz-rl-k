@@ -18,7 +18,7 @@ with pdfplumber.open(pdf) as p:
             harita[str(int(m.group(1)))] = i
         # çözüm başlığı: "Bölüm 07 · … — Cevap Anahtarı ve Çözümler" (uzun başlık satır kırabilir)
         for m in re.finditer(r'Bölüm (\d\d) ·', t):
-            if 'Cevap Anahtarı ve Çözümler' in t[m.start():m.start() + 250] and f'c{int(m.group(1))}' not in harita:
+            if 'Cevap Anahtarı ve Çözümler' in ' '.join(t[m.start():m.start() + 250].split()) and f'c{int(m.group(1))}' not in harita:
                 harita[f'c{int(m.group(1))}'] = i
         for ek in ('EkA', 'EkB'):
             if ek not in harita and re.search(rf'^Ek {ek[-1]} —', t, re.M):

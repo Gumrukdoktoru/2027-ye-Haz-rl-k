@@ -173,7 +173,7 @@ CSS = """
 .filigran { position: fixed; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center;
   justify-content: center; z-index: -1; pointer-events: none; }
 .filigran img { width: 130mm; opacity: .10; }
-body { font-family: 'Liberation Sans', Arial, sans-serif; font-size: 9.4pt; line-height: 1.36; color: #1d1d1f; margin: 0; }
+body { overflow-wrap: break-word; font-family: 'Liberation Sans', Arial, sans-serif; font-size: 9.4pt; line-height: 1.36; color: #1d1d1f; margin: 0; }
 h1 { font-size: 16pt; color: #1B3A5C; border-bottom: 1.2mm solid #B8860B; padding-bottom: 1.5mm; margin: 0 0 4mm; break-before: page; }
 h2 { font-size: 11.5pt; color: #1B3A5C; border-left: 1.4mm solid #B8860B; padding-left: 2.5mm; margin: 5mm 0 3mm; break-after: avoid; }
 /* ön kapak (tam sayfa) */
@@ -264,7 +264,7 @@ h2 { font-size: 11.5pt; color: #1B3A5C; border-left: 1.4mm solid #B8860B; paddin
 .cozum .gerekce { border-left: .8mm solid #c9d3de; padding: .4mm 0 .4mm 2.6mm; margin-left: 9mm; font-size: 8.7pt; line-height: 1.34; }
 /* ekler */
 .rapor { border-collapse: collapse; width: 100%; font-size: 8.4pt; margin: 0 0 3mm; }
-.rapor td { padding: .9mm 2mm; border-bottom: 1px solid #e3e6ea; vertical-align: top; }
+.rapor td { padding: .9mm 2mm; border-bottom: 1px solid #e3e6ea; vertical-align: top; overflow-wrap: anywhere; }
 .rapor td:first-child { width: 34%; font-weight: bold; color: #10263d; }
 .ekrapor { break-inside: avoid; margin-bottom: 4mm; }
 .ekanahtar { break-inside: avoid; margin-bottom: 2.5mm; }
@@ -421,7 +421,7 @@ def main():
         b.append('<section id="ekA" style="page: ekA"><h1>Ek A — Set Raporları</h1>')
     for no, baslik, kaynak, Q, R in ([] if cozumsuz else kitap):
         b.append(f'<div class="ekrapor"><h3>Bölüm {no:02d} · {e(baslik)}</h3><table class="rapor"><tbody>')
-        b.append(f'<tr><td>Kaynak</td><td>{e(kaynak.replace(".txt", ""))}</td></tr>')
+        b.append(f'<tr><td>Kaynak</td><td>{e(kaynak.replace(".txt", "").replace("_", " "))}</td></tr>')
         b += [f'<tr><td>{e(a)}</td><td>{e(v)}</td></tr>' for a, v in profil(Q)]
         b.append('</tbody></table>')
         if R.get('bulunamayan'):
