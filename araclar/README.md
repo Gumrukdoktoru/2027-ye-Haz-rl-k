@@ -14,3 +14,11 @@
   - `cikti5.py`, `cikti5.js`, `pdf5.mjs`: Markdown, Word ve PDF çıktısı.
   - Üretim: `python3 birlestir5.py <metin> set3.json batch_*.py`, ardından `python3 cikti5.py set3.json notlar3.json <ad>`, `node cikti5.js …` ve `node pdf5.mjs <ad>.html <ad>.pdf`.
 
+- `soru-bankasi/` — Prompt 5 kurallarıyla konu konu soru bankası kitabı (56 bölüm, her kaynak dosyadan 20 soru):
+  - `bolumler.json`: bölüm no, başlık, kaynak dosya.
+  - `talimat_sablon.md`: bölüm ajanına verilen üretim talimatı (20 soruluk set profili dahil).
+  - `veri/sb_XX.py` ve `veri/sb_XX_rapor.json`: soru verileri ve bölüm raporları (bulunamayan çıkmış alanlar, sete giremeyenler).
+  - `dogrulama/`: her bölümün bağımsız doğrulama raporu (hangi soru neden değişti).
+  - `uretilen.py` → `uretilen.md`: bölümler arası tekrar listesi; `cakisma.py`: bölümler arası çekirdek benzerliği taraması.
+  - `kitap.py`: harf dağıtımı ve kitap HTML'i (test bölümü çift sütun, çözüm tek sütun); `sayfa.py`: içindekiler için sayfa haritası; `hafiza.py`: üretim hafızasına ekleme.
+  - Üretim: `python3 kitap.py <metin> bolumler.json veri <ad>` → `node ../gmy-deneme3/pdf5.mjs <ad>.html <ad>.pdf` → `python3 sayfa.py <ad>.pdf harita.json` → `kitap.py … <ad> harita.json` ve yeniden PDF.

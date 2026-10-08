@@ -138,7 +138,7 @@ kok=["Yetkilendirilmiş Gümrük Müşavirliği Tebliği'ne göre aşağıdaki o
      "- Bir ithalatçı ülke gümrük idaresi, uzun dönem tedarikçi beyanının kontrolünü talep etmiş; işlem INF4 tespit kodu kapsamında yürütülmüştür.",
      "- Tespit raporu, kontrol talebinde bulunan ülkenin talep yazısı tarihini müteakip öngörülen süre içinde sunulamamıştır.",
      "- Durum Uluslararası Anlaşmalar ve Avrupa Birliği Genel Müdürlüğüne bildirilmiş; Genel Müdürlük, ülke idaresine olumsuz yanıt vermek yerine raporun düzenletilmesi için tanınabilecek azami ek süreyi tanımıştır.",
-     "Buna göre tespit raporu, talep yazısı tarihinden itibaren en fazla kaç ay içinde sunulabilir?"],
+     "Buna göre tespit raporunun sunulması için öngörülen asıl süre ile tanınan ek sürenin toplamı kaç aydır?"],
 d="4 ay",
 c=["1 ay", "3 ay", "5 ay", "6 ay"],
 sirali=True,

@@ -398,10 +398,10 @@ profil=[3],
 olumsuz=False, vaka=True, baslangic=False, eksen=0, ayna="", guncellik="", cikmis="2021/47; 2024/60", kapsamli=False,
 ),
 
-# 15 ---------------- OLAY (varışta sonlandırma anı) ----------------
+# 15 ---------------- SONUÇ (varışta sonlandırma anı) ----------------
 dict(
 konu=K, blok="SB24",
-kalip="OLAY",
+kalip="SONUÇ",
 z="O",
 madde=T + " md. 14, 15",
 cek="Bilgiler EDI ile iletilmişse trenin varış gümrük idaresine ulaşmasıyla eşya sunulmuş ve transit işlemi sonlandırılmış kabul edilir.",

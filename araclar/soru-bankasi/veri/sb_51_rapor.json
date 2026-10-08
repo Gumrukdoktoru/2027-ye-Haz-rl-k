@@ -1,0 +1,16 @@
+{
+  "bulunamayan": [
+    "2021/95: Akaryakıt Yönetmeliği md. 21 yetkili bakanlıklar (5607 Kanun metninde yok; kaynak dosyası ayrı, SB54 bölümüne ait)",
+    "2023/25: kaçakçılıktan mahkûmiyette meslekten çıkarma (5607 metninde yok; 51-disiplin cezaları.txt, SB50'ye ait)",
+    "2024/67: antrepo sayımında fazla eşya, GK 236 (5607 metninde yok; 48-cezalar.txt, SB47'ye ait)"
+  ],
+  "giremeyen": "İkramiye hükümleri (yüzde elli/yirmi beş oranları, 30.000 ve 120.000 gösterge tavanları, 3.000 gösterge alt sınırı, damga vergisi dışında vergi istisnası), muhbir kimliğinin gizliliği ve 2023'te eklenen aklama ihbarı, el konulan eşyanın muhafaza-imha-masraf hükümleri, 3/12–3/21 akaryakıt-bandrol-makaron suçları, 3/9 yüzde on fark, tüzel kişiye özgü güvenlik tedbiri ve 4/8 artırımı, kontrollü teslimat ve geçici maddeler sete giremedi.",
+  "notlar": [
+    "20 soru; kontrol5.py: Hatalı soru 0. Yakınlık: 14 birebir, 3 parafraz (S1, S4, S20), 3 çıkarım (S2, S5, S6 vakaları). Olumsuz kök 7; önermeli 4 (kombinasyonlar: I ve II / I ve III / I, III ve IV / yanlıştır köklü II ve IV; en kapsamlı şık doğru: 0); vaka/hesap 3; tanım-kavram 1 (S10); eşleştirme 1 (S3), boşluk 0.",
+    "Kota tamam; sapma yok. Doğru şık tek başına en uzun 3, en kısa 4 soruda (önermeliler dâhil). Sayısal şıklı tek soru S2 (sirali, doğru değer B konumunda). Süre soruları S11 ve S15; ikisinde de başlangıç anı ölçüldü.",
+    "Güncellik: kaynakta Ekim 2025–Ekim 2026 arasında değişen hüküm yok (son değişiklikler 05.04.2023/7445, 10.12.2022/7423, 09.11.2022/7420). Bu nedenle profil 5 ve güncellik sorusu aranmadı; eski hâller çeldirici yapıldı: S3 (3/2 alt sınırı 2014 öncesi 'bir yıldan'), S15 (16/1'in 2013 öncesi bir yıl ve on beş gün süreleri).",
+    "İkiz eksen: prompt bölüm 8 tablosundaki eksenlerin hiçbiri 5607 metninde yok (eksen=0). Metin içi ayna çiftleri kuruldu: S12 alıkoyma hâlleri ↔ S14 müsadere koşulları; S18 görevliler listesinde olan ↔ çıkmışlardaki olmayan; S13 12/1 ↔ 2022/23'teki 12/2; S10 hava taşıtı piyasa değeri ↔ 2025/89 kara taşıtı kasko; S2 ihraç eşyası gümrüklenmiş değeri ↔ 2023/45 ithal hesabı.",
+    "Profil 1: kaynak yalnız Kanun olduğundan, Kanunun yönetmeliğe bıraktığı konular (S20) ve 16/A ayrıntısı (S16) ile karşılandı; yönetmelik ayrıntıları SB52–SB55'e bırakıldı. Meslek yanlılığı: S6 (gümrük müşavirinin meslek kolaylığından yararlanması nitelikli hâldir) ve S18 (gümrük müşavirleri görevli listesinde yok).",
+    "Kanun dosyasına bağlı 26 çıkmış soru noktasının tamamı ölçüldü: 2021/91-92-93-94-96-97-98-99-100, 2022/21-27, 2023/22-45-51-73, 2024/65-66, 2025/37-87-88-89. Üretim hafızasındaki GMY2-041…046 ve GMY3-039/040 çekirdekleri aynı yönden tekrarlanmadı. Altı aylık tasfiye yerine bir aylık süre, kasko yerine hava taşıtında piyasa değeri, soruşturmadaki yarı indirim yerine üçte iki ve üçte bir indirim ile müsadere soruldu. Nitelikli hâller eşleştirme yerine önermeli ve vaka biçiminde ölçüldü. cakisma.py yalnız SB01-06 ile 0,36 benzerlik buldu; biri GK tanımı, öteki 5607'deki kaim değer hesabıdır ve yönleri farklıdır."
+  ]
+}

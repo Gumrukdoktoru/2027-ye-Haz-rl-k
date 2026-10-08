@@ -33,6 +33,14 @@ def onerme_mi(satir):
 
 def bolum_hazirla(no, Q):
     """Harfleri dağıtır, şıkları dizer, gerekçeye harfi yazar."""
+    # aynı sabit harfli iki sıralı soru art arda gelirse ikincisini bir sonraki serbest soruyla yer değiştir
+    def sabit(q):
+        return q['siklar'].index(q['d']) if q.get('sirali') else None
+    for i in range(len(Q) - 1):
+        if sabit(Q[i]) is not None and sabit(Q[i]) == sabit(Q[i + 1]):
+            j = next((j for j in range(i + 2, len(Q)) if sabit(Q[j]) is None), None)
+            if j is not None:
+                Q[i + 1], Q[j] = Q[j], Q[i + 1]
     plan = None
     for tohum in range(1, 20000):
         plan = harf_plan(Q, tohum + no * 100)
@@ -106,7 +114,7 @@ h2 { font-size: 11.5pt; color: #1B3A5C; border-left: 1.4mm solid #B8860B; paddin
 /* içindekiler */
 .icindekiler { width: 100%; border-collapse: collapse; }
 .icindekiler td { padding: 1.1mm 2mm; border-bottom: .6pt dotted #bbb; font-size: 9.2pt; }
-.icindekiler td.no { width: 12mm; font-weight: bold; color: #1B3A5C; }
+.icindekiler td.no { width: 14mm; white-space: nowrap; font-weight: bold; color: #1B3A5C; }
 .icindekiler td.sf { width: 14mm; text-align: right; font-weight: bold; }
 .icindekiler td.kaynak { color: #666; font-size: 8pt; }
 /* test bölümü: çift sütun */
@@ -246,11 +254,10 @@ def main():
     b.append('<h2>İçindekiler</h2><table class="icindekiler"><tbody>')
     for no, baslik, kaynak, Q, R in kitap:
         sf = harita.get(str(no), '')
-        b.append(f'<tr><td class="no">{no:02d}</td><td>{e(baslik)}</td><td class="kaynak">{e(kaynak.replace(".txt", ""))}</td>'
-                 f'<td class="sf">{sf}</td></tr>')
+        b.append(f'<tr><td class="no">{no:02d}</td><td>{e(baslik)}</td><td class="sf">{sf}</td></tr>')
     sfA, sfB = harita.get('EkA', ''), harita.get('EkB', '')
-    b.append(f'<tr><td class="no">Ek A</td><td>Set raporları</td><td></td><td class="sf">{sfA}</td></tr>'
-             f'<tr><td class="no">Ek B</td><td>Cevap formu</td><td></td><td class="sf">{sfB}</td></tr></tbody></table>')
+    b.append(f'<tr><td class="no">Ek A</td><td>Set raporları</td><td class="sf">{sfA}</td></tr>'
+             f'<tr><td class="no">Ek B</td><td>Cevap formu</td><td class="sf">{sfB}</td></tr></tbody></table>')
     for no, baslik, kaynak, Q, R in kitap:
         b.append('<section class="test">')
         b.append(f'<div class="bas"><b>BÖLÜM {no:02d} · {e(baslik.upper())}</b><span>{len(Q)} soru · {round(len(Q) * 1.5)} dakika</span></div>')

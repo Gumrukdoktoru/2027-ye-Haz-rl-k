@@ -1,0 +1,17 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "GK 185/2 (serbest bölgede tüketim veya ilk kullanım tarihi; GMY2-031'de cevap olarak soruldu), GK 186/1'deki kanıtlanacak nedenler listesi ile (a)-(d) yükümlülük kaynakları, GK 189/2'nin doğrudan başlangıç sorusu (yalnız çeldirici olarak kullanıldı), GK 190/1, GK 194/3 (SB31-14'te soruldu) ve 194/5'teki mahsup yetkisi (Cumhurbaşkanı), GY 486/1-a, ç ve d bentleri sete ayrı soru olarak girmedi.",
+ "notlar": [
+  "Kontrol: kontrol5.py 'Hatalı soru: 0'. Prompt bölüm 16'daki 30 maddelik kontrol her soruya uygulandı. Her soruda tek doğru cevap var ve hiçbir çeldirici metne göre doğru değil. Kökteki mevzuat türü kaynakla aynı (Kanun 13, Yönetmelik 6, ikisi birlikte 1). Önermelerin doğru/yanlış niteliği metinle tek tek teyit edildi. cakisma.py 0,30 eşiğinde Bölüm 43 için bölümler arası çakışma bulmadı.",
+  "Kota: birebir 13, parafraz 4 (sorular 9, 10, 15, 17), çıkarım 3 (vaka soruları 2, 5, 12). Olumsuz kök 7. Önermeli 4; doğru kombinasyonlar 'I, III ve IV', 'I ve II', 'I ve III' ile tek 'yanlıştır' köklü soruda 'II ve IV'; en kapsamlı şıkla cevaplanan yok. Vaka 3, tanım (addan tanım) 1, boşluk/eşleştirme 0.",
+  "Sayısal şık: konu tutar, oran veya gün sayısı taşımıyor. İki vakada şıklar tarihtir ve kronolojik sıralandı (sirali=True); doğru tarih soru 5'te 2., soru 12'de 3. sırada. Profil 2 (yaklaşık bilen) bu bitişik tarihlerle ve başlangıç anı çeldiricileriyle (soru 4, 9) yakalandı.",
+  "Başlangıç anı: SÜRE kalıbındaki 3 sorunun üçünde de ölçülüyor. Toplam 8 soruda başlangıç anı var (4, 5, 8, 9, 12, 13, 14, 17).",
+  "Güncellik: kaynakta son 12 ayda değişen hüküm yok. Dipnotlardaki değişiklikler 07.07.2009 tarihli 5911 sayılı Kanun ve 31.03.2010 tarihli GY 487/4 eklemesidir. Bu nedenle güncellik sorusu kurulmadı ve profil 5 aranmadı.",
+  "İkiz eksenler: 2 (194'te geri ödeme sisteminde yükümlülük doğmaz, soru 14), 3 (statü ↔ menşe, soru 15), 9 (iptal sona erdirir, soru 19; düzeltme gerekçede), 12 (dolaylı temsil, soru 2), 15 (vergide müteselsil sorumluluk, soru 20; idari para cezası kutbu bu kaynakta yok). Ayna çiftleri: GY 485 serbest dolaşımda sayılma ↔ GK 187/1 serbest dolaşımda olmayan sayılma (sorular 15 ve 7); GY 483 ithalat ↔ GY 488 ihracat basitleştirilmiş usul başlangıcı (sorular 17 ve 8).",
+  "Meslek yanlılığı: soru 2. Dolaylı temsilci gümrük müşavirinin yükümlülüğü, verilerin yanlışlığını bildiği veya mesleği icabı bilmesi gereken durumlarla sınırlıdır; 'müşavir her durumda müteselsilen sorumludur' çeldiricisiyle yoklandı.",
+  "Çıkmış soru noktalarının tamamı karşılandı. 2021/78 ve 2022/54 soru 13'te, 2022/29 soru 8'de ölçüldü; komşu 190/2 soru 9'da. 2022/34 ve 2023/68 soru 19'da ölçüldü; komşu GK 209 soru 14'ün IV. önermesinde. 2023/88 soru 4'te ölçüldü; ilgili hükümler GY 484 soru 15'te, GY 486 soru 16'da. Çıkmış soruların cevabı olan 'düzeltme' tekrar edilmedi; sona erme listesi 'teminata bağlama' sağduyu çeldiricisiyle soruldu.",
+  "Önceki çekirdekler farklı yönden ölçüldü: GMY-026 (181/2 → vaka), GMY-027 (191 → ceza tespiti/kovuşturmada 'doğmuş sayılır'), GMY-030 (208/d teslimden önce → teminat liste dışı), GMY2-030 (193/3 → kesinleşmeden ödeme ve oran), GMY2-031 (başlangıç eşleştirmesi → tekil başlangıç soruları) ve SB31-14 (194/3 → sorulmadı).",
+  "Doğru şık 3 soruda tek başına en uzun, 3 soruda tek başına en kısa (%15); sınır olan %25'in altında. Cevap harfleri koordinatöre bırakıldı.",
+  "Küçük konu kuralına gerek olmadı; 20 soru 20 ayrı sınav noktasından kuruldu."
+ ]
+}
