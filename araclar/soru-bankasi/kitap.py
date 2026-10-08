@@ -5,7 +5,9 @@ Kullanım:
 
 VERI_KLASORU: sb_XX.py (soru verisi) ve sb_XX_rapor.json (bulunamayan, giremeyen, notlar) dosyaları.
 CIKTI_ADI: CIKTI_ADI.html ve CIKTI_ADI.json yazılır; md dosyaları CIKTI_ADI_md/ klasörüne yazılır.
-SAYFA_HARITASI: {"bölüm no": sayfa} — verilirse içindekiler sayfa numaralarıyla basılır (iki geçişli üretim).
+SAYFA_HARITASI: {"bölüm no": test sayfası, "c<no>": çözüm sayfası, "EkA", "EkB"} — verilirse içindekiler sayfa
+  numaralarıyla basılır (iki geçişli üretim).
+Kitap: ön kapak, bu kitap hakkında, içindekiler (tıklanabilir), bölümler, ekler, arka kapak (arka_kapak_reklam.jpg).
 --cozumsuz: çözümler ve set raporları basılmaz; testler + kitabın sonunda toplu cevap anahtarları (Ek A) + cevap formu (Ek B).
 """
 import html
@@ -45,17 +47,57 @@ def sayfa_kurallari(kitap, cozumsuz):
     k.append(f"@page ekA {{ @top-center {{ content: {css_str('Cevap Anahtarları' if cozumsuz else 'Set Raporları')}; "
              "font: bold 8pt 'Liberation Sans', Arial; color: #333; } }")
     k.append("@page ekB { @top-center { content: 'Cevap Formu'; font: bold 8pt 'Liberation Sans', Arial; color: #333; } }")
+    k.append("@page icindekiler { @top-center { content: 'İçindekiler'; font: bold 8pt 'Liberation Sans', Arial; color: #333; } }")
+    bos = '@top-left { content: none; } @top-center { content: none; } @top-right { content: none; } @bottom-center { content: none; }'
+    k.append(f'@page onkapak {{ margin: 0; {bos} }}')
+    k.append(f'@page arkakapak {{ margin: 0; {bos} }}')
     return '\n'.join(k)
+
+
+def gomulu(dosya, tur):
+    """Klasördeki görseli data URI olarak döndürür; dosya yoksa boş."""
+    import base64
+    yol = pathlib.Path(__file__).resolve().parent / dosya
+    if not yol.exists():
+        return ''
+    return f'data:{tur};base64,' + base64.b64encode(yol.read_bytes()).decode()
 
 
 def filigran_html():
     """Sayfa ortasında %10 opaklıkta logo (CAN'LI 7/24 Eğitim Merkezi); dosya yoksa boş."""
-    import base64
-    yol = pathlib.Path(__file__).resolve().parent / 'filigran_canli.png'
-    if not yol.exists():
-        return ''
-    veri = base64.b64encode(yol.read_bytes()).decode()
-    return f'<div class="filigran"><img src="data:image/png;base64,{veri}" alt=""></div>'
+    logo = gomulu('filigran_canli.png', 'image/png')
+    return f'<div class="filigran"><img src="{logo}" alt=""></div>' if logo else ''
+
+
+def on_kapak(toplam, bolum_sayisi, cozumsuz):
+    """Tam sayfa ön kapak: lacivert zemin, başlık, optik form deseni, altta logo ve marka."""
+    # süs: optik cevap formu satırları (kitaptaki hiçbir cevap anahtarıyla ilgisi yok)
+    desen = ''.join(
+        '<div class="s"><i>' + str(i + 1) + '</i>'
+        + ''.join(f'<span class="{"d" if h == dolu else ""}">{h}</span>' for h in L) + '</div>'
+        for i, dolu in enumerate('CAEBDBECAD'))
+    logo = gomulu('filigran_canli.png', 'image/png')
+    return ''.join([
+        '<section class="onkapak"><div class="ok-desen">', desen, '</div><div class="ok-ic">',
+        '<div class="ok-etiket">GÜMRÜK MÜŞAVİR YARDIMCILIĞI SINAVINA HAZIRLIK</div>',
+        '<div class="ok-gmy">GMY</div><div class="ok-baslik">Gümrük Mevzuatı<br>Soru Bankası</div><div class="ok-cizgi"></div>',
+        f'<p class="ok-alt">{bolum_sayisi} konu · {toplam} soru<br>Test kâğıdı düzeninde, '
+        + ('cevap anahtarlı' if cozumsuz else 'gerekçeli çözümlü') + '</p>',
+        f'<div class="ok-rozet">{"CEVAP ANAHTARLI SÜRÜM" if cozumsuz else "ÇÖZÜMLÜ SÜRÜM"}</div></div>',
+        f'<div class="ok-rakam"><div><b>{toplam}</b>SORU</div><div><b>{bolum_sayisi}</b>KONU</div>'
+        '<div><b>2021–2025</b>GMY SORU TİPLERİ</div></div>',
+        '<div class="ok-taban">' + (f'<img src="{logo}" alt="">' if logo else '<span></span>'),
+        '<div class="ok-marka"><b>Gümrük Koçu</b><span>Ufuk Çetintaş</span></div></div></section>'])
+
+
+def arka_kapak():
+    """Tam sayfa arka kapak: kullanıcının verdiği ilan (arka_kapak_reklam.jpg) ve altta marka."""
+    ilan = gomulu('arka_kapak_reklam.jpg', 'image/jpeg')
+    logo = gomulu('filigran_canli.png', 'image/png')
+    return ''.join([
+        '<section class="arkakapak">', f'<img class="ak-ilan" src="{ilan}" alt="">' if ilan else '',
+        '<div class="ak-taban">', f'<div class="ak-logo"><img src="{logo}" alt=""></div>' if logo else '',
+        f'<div class="ak-yazi"><b>{BASLIK}</b><span>Gümrük Koçu · Ufuk Çetintaş</span></div></div></section>'])
 
 
 def tr_upper(s):
@@ -134,24 +176,63 @@ CSS = """
 body { font-family: 'Liberation Sans', Arial, sans-serif; font-size: 9.4pt; line-height: 1.36; color: #1d1d1f; margin: 0; }
 h1 { font-size: 16pt; color: #1B3A5C; border-bottom: 1.2mm solid #B8860B; padding-bottom: 1.5mm; margin: 0 0 4mm; break-before: page; }
 h2 { font-size: 11.5pt; color: #1B3A5C; border-left: 1.4mm solid #B8860B; padding-left: 2.5mm; margin: 5mm 0 3mm; break-after: avoid; }
-/* kapak */
-.kapak { height: 252mm; width: calc(100% - 2mm); margin: 0 auto; box-sizing: border-box; display: flex; flex-direction: column;
-  break-after: page; border: 1.2pt solid #1B3A5C; }
-.kapak .bant { background: #1B3A5C; color: #fff; padding: 34mm 14mm 14mm; border-bottom: 3mm solid #B8860B; }
-.kapak .ust { color: #B8860B; font: bold 10pt 'Liberation Sans', Arial; letter-spacing: .18em; margin-bottom: 7mm; }
-.kapak h1 { font-size: 30pt; line-height: 1.12; margin: 0 0 4mm; color: #fff; border: 0; padding: 0; break-before: auto; }
-.kapak .alt { font-size: 13pt; color: #dbe4ee; }
-.kapak .orta { padding: 12mm 14mm 0; font-size: 10.5pt; color: #333; }
-.kapak .rakam { display: flex; gap: 4mm; padding: 8mm 14mm 0; }
-.kapak .rakam div { flex: 1; border-top: 1mm solid #B8860B; padding-top: 2mm; font-size: 8.5pt; color: #555; }
-.kapak .rakam b { display: block; font-size: 20pt; color: #1B3A5C; }
-.kapak .imza { margin-top: auto; padding: 4mm 14mm; border-top: .8pt solid #ccc; color: #1B3A5C; font-weight: bold; font-size: 12pt; }
+/* ön kapak (tam sayfa) */
+.onkapak { page: onkapak; width: 210mm; height: 297mm; overflow: hidden; position: relative; break-after: page;
+  display: flex; flex-direction: column; color: #fff; font-family: 'Inter', 'Liberation Sans', Arial;
+  background: #10263d linear-gradient(165deg, #1F4268 0%, #10263d 62%); }
+.ok-ic { padding: 30mm 20mm 0; position: relative; }
+.ok-etiket { font: 600 9.5pt 'Inter'; letter-spacing: .22em; color: #D9A83E; }
+.ok-gmy { font: 900 66pt/1 'Inter Display', 'Inter'; color: #D9A83E; margin: 16mm 0 3mm; letter-spacing: -.01em; }
+.ok-baslik { font: 800 35pt/1.08 'Inter Display', 'Inter'; color: #fff; }
+.ok-cizgi { width: 42mm; height: 1.6mm; background: #D9A83E; margin: 10mm 0 7mm; }
+.ok-alt { font: 400 13pt/1.5 'Inter'; color: #d7e0ea; margin: 0; }
+.ok-rozet { display: inline-block; margin-top: 10mm; border: 1pt solid #D9A83E; color: #D9A83E; font: 700 9pt 'Inter';
+  letter-spacing: .16em; padding: 2mm 4mm; border-radius: 1mm; }
+.ok-desen { position: absolute; right: 20mm; top: 60mm; display: flex; flex-direction: column; gap: 3.4mm; }
+.ok-desen .s { display: flex; gap: 2.4mm; align-items: center; }
+.ok-desen .s i { font: normal 600 7pt 'Inter'; color: #6f86a0; width: 5mm; text-align: right; margin-right: 1mm; }
+.ok-desen .s span { width: 6.4mm; height: 6.4mm; border-radius: 50%; border: .7pt solid #4d6a8a; font: 600 6.5pt 'Inter';
+  color: #6f86a0; display: flex; align-items: center; justify-content: center; box-sizing: border-box; }
+.ok-desen .s span.d { background: #D9A83E; border-color: #D9A83E; color: #10263d; }
+.ok-rakam { margin-top: auto; display: flex; padding: 0 20mm 12mm; }
+.ok-rakam div { flex: 1; border-left: .8mm solid #D9A83E; padding-left: 3.5mm; font: 600 8pt 'Inter'; color: #b9c6d4; letter-spacing: .08em; }
+.ok-rakam b { display: block; font: 800 22pt/1.15 'Inter Display', 'Inter'; color: #fff; letter-spacing: 0; }
+.ok-taban { background: #fff; height: 50mm; display: flex; align-items: center; justify-content: space-between; padding: 0 20mm;
+  border-top: 2.2mm solid #D9A83E; }
+.ok-taban img { height: 28mm; }
+.ok-marka { text-align: right; color: #1B3A5C; }
+.ok-marka b { display: block; font: 800 18pt 'Inter Display', 'Inter'; }
+.ok-marka span { font: 600 12pt 'Inter'; color: #B8860B; letter-spacing: .05em; }
+/* arka kapak (tam sayfa) */
+.arkakapak { page: arkakapak; break-before: page; width: 210mm; height: 297mm; overflow: hidden; display: flex;
+  flex-direction: column; background: #182747; font-family: 'Inter', 'Liberation Sans', Arial; }
+.ak-ilan { width: 210mm; display: block; }
+.ak-taban { flex: 1; display: flex; align-items: center; justify-content: center; gap: 9mm; border-top: 1.2mm solid #D9A83E; }
+.ak-logo { background: #fff; border-radius: 2.5mm; padding: 3.5mm 5mm; }
+.ak-logo img { height: 17mm; display: block; }
+.ak-yazi b { display: block; font: 800 14pt 'Inter Display', 'Inter'; color: #fff; }
+.ak-yazi span { font: 600 11pt 'Inter'; color: #D9A83E; letter-spacing: .05em; }
+/* bu kitap hakkında */
+.tanitim .giris { font-size: 10.5pt; line-height: 1.5; color: #333; margin: 0 0 6mm; }
+.tanitim .rakam { display: flex; gap: 4mm; margin: 0 0 7mm; }
+.tanitim .rakam div { flex: 1; border-top: 1mm solid #B8860B; padding-top: 2mm; font-size: 8.5pt; color: #555; }
+.tanitim .rakam b { display: block; font-size: 20pt; color: #1B3A5C; }
+.tanitim li { font-size: 10pt; line-height: 1.45; margin-bottom: 2mm; }
+.tanitim .imza { margin-top: 10mm; padding-top: 3mm; border-top: .8pt solid #ccc; color: #1B3A5C; font-weight: bold; font-size: 11pt; }
 /* içindekiler */
-.icindekiler { width: 100%; border-collapse: collapse; }
-.icindekiler td { padding: 1.1mm 2mm; border-bottom: .6pt dotted #bbb; font-size: 9.2pt; }
-.icindekiler td.no { width: 14mm; white-space: nowrap; font-weight: bold; color: #1B3A5C; }
-.icindekiler td.sf { width: 14mm; text-align: right; font-weight: bold; }
-.icindekiler td.kaynak { color: #666; font-size: 8pt; }
+.icindekiler { page: icindekiler; break-before: page; }
+.icindekiler h1 { break-before: auto; }
+.ic-sat { display: flex; align-items: baseline; padding: 1.25mm 0; font-size: 9.6pt; break-inside: avoid; }
+.ic-sat a { color: inherit; text-decoration: none; }
+.ic-no { width: 9mm; flex: none; font-weight: bold; color: #fff; background: #1B3A5C; text-align: center; border-radius: .8mm;
+  font-size: 8.4pt; padding: .3mm 0; margin-right: 3mm; }
+.ic-no.ek { background: #B8860B; }
+.ic-ad { flex: none; max-width: 128mm; color: #1d1d1f; }
+.ic-nokta { flex: 1; border-bottom: 1pt dotted #9aa7b5; margin: 0 2mm; min-width: 4mm; }
+.ic-sf { width: 13mm; flex: none; text-align: right; font-weight: bold; color: #1B3A5C; }
+.ic-bas { display: flex; justify-content: flex-end; font: bold 7.5pt 'Liberation Sans', Arial; color: #777; letter-spacing: .06em;
+  border-bottom: .8pt solid #1B3A5C; padding-bottom: 1mm; margin-bottom: 1mm; }
+.ic-bas span { width: 13mm; text-align: right; }
 /* test bölümü: çift sütun */
 .test { page: test; break-before: page; column-count: 2; column-gap: 9mm; column-rule: .7pt solid #222;
   font-family: 'Liberation Serif', 'Times New Roman', serif; font-size: 10.2pt; line-height: 1.3; color: #000; }
@@ -276,52 +357,60 @@ def main():
             (mdk / f'Bolum_{no:02d}.md').write_text(md_bolum(no, baslik, kaynak, Q, R), encoding='utf-8')
     # HTML
     b = [f'<!doctype html><html lang="tr"><head><meta charset="utf-8"><title>{BASLIK}</title><style>{CSS}\n{sayfa_kurallari(kitap, cozumsuz)}</style></head><body>',
-         filigran_html(),
-         '<section class="kapak"><div class="bant"><div class="ust">GÜMRÜK MÜŞAVİR YARDIMCILIĞI SINAVINA HAZIRLIK</div>',
-         f'<h1>{BASLIK}</h1><div class="alt">Konu konu {toplam} soru · {len(kitap)} bölüm · test kâğıdı düzeninde, '
-         + ('cevap anahtarlı</div></div>' if cozumsuz else 'cevap anahtarlı ve gerekçeli çözümlü</div></div>'),
-         '<div class="orta">Her bölüm bir konunun mevzuat metninden hazırlanmış bir testtir; kaynağı dar birkaç konu dışında testler 20 sorudur. Sorular 2021–2025 '
-         'GMY sınavlarının soru mantığıyla yazılmıştır: kilit cümle madde metninden, çeldiriciler komşu hükümlerden. '
-         'Çıkmış soruların metni ve kurgusu kopyalanmamıştır.</div>',
-         f'<div class="rakam"><div><b>{toplam}</b>soru</div><div><b>{len(kitap)}</b>konu bölümü</div>'
-         '<div><b>1,5</b>dakika / soru</div>'
-         + (f'<div><b>{len(kitap)}</b>cevap anahtarı</div></div>' if cozumsuz else '<div><b>%100</b>gerekçeli çözüm</div></div>'),
-         f'<div class="imza">{MARKA}</div></section>']
-    # Kullanım ve içindekiler
+         filigran_html(), on_kapak(toplam, len(kitap), cozumsuz)]
+    # Bu kitap hakkında ve kullanım
+    b.append('<section class="tanitim"><h1>Bu Kitap Hakkında</h1>'
+             '<p class="giris">Her bölüm bir konunun mevzuat metninden hazırlanmış bir testtir; kaynağı dar birkaç konu dışında testler 20 sorudur. '
+             'Sorular 2021–2025 GMY sınavlarının soru mantığıyla yazılmıştır: kilit cümle madde metninden, çeldiriciler komşu hükümlerden. '
+             'Soru tiplerinin dağılımı (klasik, olumsuz kök, önermeli, tanım, vaka, boşluk, hesap, eşleştirme) bu sınavlardaki gümrük sorularına göre ayarlanmıştır. '
+             'Çıkmış soruların metni ve kurgusu kopyalanmamıştır.</p>'
+             f'<div class="rakam"><div><b>{toplam}</b>soru</div><div><b>{len(kitap)}</b>konu bölümü</div>'
+             '<div><b>1,5</b>dakika / soru</div>'
+             + (f'<div><b>{len(kitap)}</b>cevap anahtarı</div></div>' if cozumsuz else '<div><b>%100</b>gerekçeli çözüm</div></div>')
+             + '<h2>Kitap Nasıl Kullanılır?</h2><ul>')
     if cozumsuz:
-        b.append('<h1>Kitap Nasıl Kullanılır?</h1><ul>'
-                 '<li>Her bölüm bir testtir. Test sayfaları sınav kitapçığı gibi çift sütunludur; soru başına 1,5 dakika ayırın (20 soru için 30 dakika).</li>'
+        b.append('<li>Her bölüm bir testtir. Test sayfaları sınav kitapçığı gibi çift sütunludur; soru başına 1,5 dakika ayırın (20 soru için 30 dakika).</li>'
                  '<li>Cevaplarınızı Ek B\'deki cevap formuna işaretleyin.</li>'
-                 '<li>Testi bitirince cevaplarınızı Ek A\'daki cevap anahtarlarıyla kontrol edin. Anahtarlar, test sırasında göz ucuyla görülmesin diye kitabın sonunda toplanmıştır.</li></ul>')
+                 '<li>Testi bitirince cevaplarınızı Ek A\'daki cevap anahtarlarıyla kontrol edin. Anahtarlar, test sırasında göz ucuyla görülmesin diye kitabın sonunda toplanmıştır.</li>')
     else:
-        b.append('<h1>Kitap Nasıl Kullanılır?</h1><ul>'
-                 '<li>Her bölüm bir testle başlar. Test sayfaları sınav kitapçığı gibi çift sütunludur; soru başına 1,5 dakika ayırın (20 soru için 30 dakika).</li>'
+        b.append('<li>Her bölüm bir testle başlar. Test sayfaları sınav kitapçığı gibi çift sütunludur; soru başına 1,5 dakika ayırın (20 soru için 30 dakika).</li>'
                  '<li>Cevaplarınızı Ek B\'deki cevap formuna işaretleyin, sonra bölümün cevap anahtarıyla kontrol edin.</li>'
                  '<li>Çözümler testin hemen arkasındadır ve tek sütundur. Her çözümde doğru şık, dayanak madde ve gerekçe vardır. Gerekçe, '
                  'en güçlü çeldiricinin mevzuattaki yerini de söyler: yanlış yaptığınız soruda neyi neyle karıştırdığınızı görürsünüz.</li>'
-                 '<li>Her bölümün set profili ve kaynakta karşılığı bulunamayan çıkmış soru noktaları Ek A\'dadır.</li></ul>')
-    b.append('<h2>İçindekiler</h2><table class="icindekiler"><tbody>')
+                 '<li>Her bölümün set profili ve kaynakta karşılığı bulunamayan çıkmış soru noktaları Ek A\'dadır.</li>')
+    b.append(f'<li>İçindekiler sayfasındaki satırlar tıklanabilir; PDF\'te ilgili teste{"" if cozumsuz else " ya da çözüme"} doğrudan gidilir.</li></ul>'
+             f'<div class="imza">{MARKA}</div></section>')
+    # İçindekiler: bölüm başına test (ve çözüm) sayfası; satırlar iç bağlantı
+    def ic_sat(etiket, ad, hedef, hucreler, ek=False):
+        """hedef: başlığın bağlantısı; hucreler: (bağlantı, harita anahtarı) — ikisi de boşsa boş hücre."""
+        sf = ''.join(f'<span class="ic-sf"><a href="#{h}">{harita.get(k, "")}</a></span>' if h else '<span class="ic-sf"></span>'
+                     for h, k in hucreler)
+        return (f'<div class="ic-sat"><span class="ic-no{" ek" if ek else ""}">{etiket}</span>'
+                f'<span class="ic-ad"><a href="#{hedef}">{e(ad)}</a></span><span class="ic-nokta"></span>{sf}</div>')
+    b.append('<section class="icindekiler"><h1>İçindekiler</h1><div class="ic-bas">'
+             + ('<span>SAYFA</span>' if cozumsuz else '<span>TEST</span><span>ÇÖZÜM</span>') + '</div>')
     for no, baslik, kaynak, Q, R in kitap:
-        sf = harita.get(str(no), '')
-        b.append(f'<tr><td class="no">{no:02d}</td><td>{e(baslik)}</td><td class="sf">{sf}</td></tr>')
-    sfA, sfB = harita.get('EkA', ''), harita.get('EkB', '')
-    b.append(f'<tr><td class="no">Ek A</td><td>{"Cevap anahtarları" if cozumsuz else "Set raporları"}</td><td class="sf">{sfA}</td></tr>'
-             f'<tr><td class="no">Ek B</td><td>Cevap formu</td><td class="sf">{sfB}</td></tr></tbody></table>')
+        hucre = [(f'b{no:02d}', str(no))] + ([] if cozumsuz else [(f'c{no:02d}', f'c{no}')])
+        b.append(ic_sat(f'{no:02d}', baslik, f'b{no:02d}', hucre))
+    for ek, ek_ad in (('A', 'Cevap anahtarları' if cozumsuz else 'Set raporları'), ('B', 'Cevap formu')):
+        hucre = ([] if cozumsuz else [('', '')]) + [(f'ek{ek}', f'Ek{ek}')]
+        b.append(ic_sat(f'Ek {ek}', ek_ad, f'ek{ek}', hucre, ek=True))
+    b.append('</section>')
     for no, baslik, kaynak, Q, R in kitap:
-        b.append(f'<section class="test" style="page: t{no:02d}">')
+        b.append(f'<section class="test" id="b{no:02d}" style="page: t{no:02d}">')
         b.append(f'<div class="bas"><b>BÖLÜM {no:02d} · {e(tr_upper(baslik))}</b><span>{len(Q)} soru · {round(len(Q) * 1.5)} dakika</span></div>')
         b += [test_soru(q) for q in Q]
         b.append('<div class="bitti">TEST BİTTİ. CEVAPLARINIZI KONTROL EDİNİZ.</div></section>')
         if cozumsuz:
             continue
-        b.append(f'<section class="cozum" style="page: c{no:02d}"><h2 class="ust">Bölüm {no:02d} · {e(baslik)} — Cevap Anahtarı ve Çözümler</h2>')
+        b.append(f'<section class="cozum" id="c{no:02d}" style="page: c{no:02d}"><h2 class="ust">Bölüm {no:02d} · {e(baslik)} — Cevap Anahtarı ve Çözümler</h2>')
         b.append('<table class="anahtar"><tr>' + ''.join(f'<th>{q["no"]}</th>' for q in Q) + '</tr><tr>'
                  + ''.join(f'<td>{q["harf"]}</td>' for q in Q) + '</tr></table>')
         b += [cozum_soru(q) for q in Q]
         b.append('</section>')
     if cozumsuz:
         # Ek A: toplu cevap anahtarları
-        b.append('<section style="page: ekA"><h1>Ek A — Cevap Anahtarları</h1>')
+        b.append('<section id="ekA" style="page: ekA"><h1>Ek A — Cevap Anahtarları</h1>')
         for no, baslik, kaynak, Q, R in kitap:
             b.append(f'<div class="ekanahtar"><h3>Bölüm {no:02d} · {e(baslik)}</h3>'
                      '<table class="anahtar"><tr>' + ''.join(f'<th>{q["no"]}</th>' for q in Q) + '</tr><tr>'
@@ -329,7 +418,7 @@ def main():
         b.append('</section>')
     # Ek A: set raporları
     if not cozumsuz:
-        b.append('<section style="page: ekA"><h1>Ek A — Set Raporları</h1>')
+        b.append('<section id="ekA" style="page: ekA"><h1>Ek A — Set Raporları</h1>')
     for no, baslik, kaynak, Q, R in ([] if cozumsuz else kitap):
         b.append(f'<div class="ekrapor"><h3>Bölüm {no:02d} · {e(baslik)}</h3><table class="rapor"><tbody>')
         b.append(f'<tr><td>Kaynak</td><td>{e(kaynak.replace(".txt", ""))}</td></tr>')
@@ -344,14 +433,16 @@ def main():
     if not cozumsuz:
         b.append('</section>')
     # Ek B: cevap formu
-    b.append('<section style="page: ekB"><h1>Ek B — Cevap Formu</h1><p>Bu sayfayı çoğaltarak her test için kullanabilirsiniz. Bölüm: ______  '
+    b.append('<section id="ekB" style="page: ekB"><h1>Ek B — Cevap Formu</h1><p>Bu sayfayı çoğaltarak her test için kullanabilirsiniz. Bölüm: ______  '
              'Adı Soyadı: ____________________  Doğru sayısı: ______</p><div class="form-izgara">')
     for kol in range(4):
         b.append('<div>')
         for i in range(kol * 5 + 1, kol * 5 + 6):
             b.append(f'<div class="form-sat"><span class="n">{i}</span>' + ''.join(f'<span class="b">{h}</span>' for h in L) + '</div>')
         b.append('</div>')
-    b.append('</div></section></body></html>')
+    b.append('</div></section>')
+    b.append(arka_kapak())
+    b.append('</body></html>')
     pathlib.Path(f'{ad}.html').write_text('\n'.join(b), encoding='utf-8')
     json.dump([{'no': no, 'baslik': baslik, 'kaynak': kaynak, 'sorular': Q, 'rapor': R} for no, baslik, kaynak, Q, R in kitap],
               open(f'{ad}.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
