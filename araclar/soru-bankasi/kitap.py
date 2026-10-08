@@ -23,6 +23,11 @@ MARKA = 'Gümrük Koçu - Ufuk Çetintaş'
 BASLIK = 'GMY Gümrük Mevzuatı Soru Bankası'
 
 
+def tr_upper(s):
+    """Türkçe büyük harf: i → İ, ı → I."""
+    return s.replace('i', 'İ').replace('ı', 'I').upper()
+
+
 def e(s):
     return html.escape(str(s), quote=False)
 
@@ -260,7 +265,7 @@ def main():
              f'<tr><td class="no">Ek B</td><td>Cevap formu</td><td class="sf">{sfB}</td></tr></tbody></table>')
     for no, baslik, kaynak, Q, R in kitap:
         b.append('<section class="test">')
-        b.append(f'<div class="bas"><b>BÖLÜM {no:02d} · {e(baslik.upper())}</b><span>{len(Q)} soru · {round(len(Q) * 1.5)} dakika</span></div>')
+        b.append(f'<div class="bas"><b>BÖLÜM {no:02d} · {e(tr_upper(baslik))}</b><span>{len(Q)} soru · {round(len(Q) * 1.5)} dakika</span></div>')
         b += [test_soru(q) for q in Q]
         b.append('<div class="bitti">TEST BİTTİ. CEVAPLARINIZI KONTROL EDİNİZ.</div></section>')
         b.append(f'<section class="cozum"><h2 class="ust">Bölüm {no:02d} · {e(baslik)} — Cevap Anahtarı ve Çözümler</h2>')
