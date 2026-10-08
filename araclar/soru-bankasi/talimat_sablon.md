@@ -31,12 +31,14 @@ Gümrük Koçu - Ufuk Çetintaş için kaynak klasördeki her konudan 20'şer so
 - Gerçek parafraz: **3–4 soru**. Doğru şık ya da kilit cümle, anlamı birebir korunarak kurum diliyle yeniden ifade edilir.
 - Tek adımlı çıkarım: en fazla 3 soru.
 
-**Biçim:**
-- Olumsuz kök: 6–9 soru.
-- Önermeli: 3–4 soru, en az 3 önerme. En kapsamlı şıkla cevaplanan en fazla 1 olur. "Yanlıştır" köklü önermeli en fazla 1 olur. Önermeli sorularda doğru kombinasyonlar çeşitlenir.
-- Vaka, uygulama ya da hesap: 2–3 soru. Vakaya tek bir istisna saklanır.
-- Tanımdan ad / addan tanım: konu tanım içeriyorsa 1–2 soru.
-- Boşluk doldurma ve eşleştirme toplam en fazla 2 soru.
+**Biçim (2021–2025 sınav dağılımına göre; kullanıcı tercihi, Prompt 5 kotasının önüne geçer):**
+- Olumsuz kök (önermeli dışı): 7–8 soru.
+- Önermeli: 2 soru, en az 3 önerme. En kapsamlı şıkla ya da "yanlıştır" köküyle cevaplanan en fazla 1 olur.
+- Vaka, uygulama ya da hesap: 1 soru (kıymet, ceza, tahakkuk ve teminat konularında en fazla 2). Vakaya tek bir istisna saklanır.
+- Tanımdan ad / addan tanım: 2 soru (konu tanım içeriyorsa).
+- Boşluk doldurma ve eşleştirme toplam en fazla 1 soru; boşluk tercih edilir.
+- Kalan sorular klasik: "hangisidir / hangisinde doğru olarak verilmiştir / kaç gündür".
+- Gerekçe şıklara içerikle atıf yapar, harf ya da sıra bildirmez; doğru cevabı "çeldirici" diye anmaz.
 
 **Sayısal ve süre soruları:**
 - Sayısal şıklar `sirali=True` ile küçükten büyüğe dizilir; doğru değer 2., 3. ya da 4. sıradadır.
