@@ -1,7 +1,7 @@
 # Soru Bankası — Bölüm 14: Özet Beyan ve Eşyanın Girişi (20 soru)
 # Gümrük Koçu - Ufuk Çetintaş
 # Kaynak: 15-ÖZET BEYAN.txt (GK 35/A, 35/B, 35/C, 36, 37, 165/A-165/D; GY 60, 61, 63, 65, 67, 68, 69, 74, 75)
-# Yardımcı kanıt: 38-serbest bölge.txt (GK 152/3), 16-GOBİK VE SAHTE EŞYA.txt (GK 46/2), 29-iŞLETİCİLER.txt (GK 47), 48-cezalar.txt (GK 237/6, 241/3-d)
+# Yardımcı kanıt: 38-serbest bölge.txt (GK 159/3), 16-GOBİK VE SAHTE EŞYA.txt (GK 46/2), 29-iŞLETİCİLER.txt (GK 47), 48-cezalar.txt (GK 237/6, 241/3-d)
 K = "15-ÖZET BEYAN.txt"
 Q = [
 
@@ -10,7 +10,7 @@ dict(
 konu="Özet Beyan ve Eşyanın Girişi", blok="SB14",
 kalip="KAPSAM_DIŞI",
 z="O",
-madde="4458 sayılı Gümrük Kanunu md. 35/A, 152",
+madde="4458 sayılı Gümrük Kanunu md. 35/A, 159",
 cek="Özet beyan TGB'ye getirilen eşya için verilir; kara suları veya hava sahasından durmaksızın geçen taşıtlardaki eşya hariçtir; serbest bölgeye gelen eşya dahildir.",
 kok=["4458 sayılı Gümrük Kanunu'nun Türkiye Gümrük Bölgesine getirilen eşya için özet beyan verilmesine ilişkin hükümlerine göre aşağıdaki eşyadan hangisi için özet beyan verilmesi gerekmez?"],
 d="Türkiye Gümrük Bölgesinin kara sularından durmaksızın geçen bir gemide taşınan eşya",
@@ -19,7 +19,7 @@ c=["Denizyoluyla Türkiye Gümrük Bölgesi dışından doğrudan bir serbest b�
    "Demiryoluyla Türkiye Gümrük Bölgesine getirilen eşya",
    "Uzun mesafeli bir uçuşla Türkiye'deki bir havalimanına getirilen eşya"],
 sirali=False,
-g="Gümrük Kanunu'na göre Türkiye Gümrük Bölgesinin kara suları veya hava sahasından gümrük bölgesi içinde durmaksızın geçen taşıt araçları ile taşınan eşya hariç olmak üzere, Türkiye Gümrük Bölgesine getirilen eşya için özet beyan verilir. Kara sularından durmaksızın geçen gemideki eşya bu istisnaya girdiğinden özet beyana konu olmaz. Dökme hâlde denizyoluyla, demiryoluyla veya uzun mesafeli uçuşla getirilen eşya için özet beyan verilir; taşıma şekli yalnızca özet beyanın verilme süresini değiştirir. En güçlü çeldirici serbest bölgeye getirilen eşyadır: Kanunun serbest bölgelere ilişkin hükmü, bir serbest bölgeye doğrudan Türkiye Gümrük Bölgesi dışından gelen eşya için de özet beyan verileceğini açıkça belirtir. Bu nedenle doğru cevap 'Türkiye Gümrük Bölgesinin kara sularından durmaksızın geçen bir gemide taşınan eşya' seçeneğidir. (MD GK 35/A, 152)",
+g="Gümrük Kanunu'na göre Türkiye Gümrük Bölgesinin kara suları veya hava sahasından gümrük bölgesi içinde durmaksızın geçen taşıt araçları ile taşınan eşya hariç olmak üzere, Türkiye Gümrük Bölgesine getirilen eşya için özet beyan verilir. Kara sularından durmaksızın geçen gemideki eşya bu istisnaya girdiğinden özet beyana konu olmaz. Dökme hâlde denizyoluyla, demiryoluyla veya uzun mesafeli uçuşla getirilen eşya için özet beyan verilir; taşıma şekli yalnızca özet beyanın verilme süresini değiştirir. En güçlü çeldirici serbest bölgeye getirilen eşyadır: Kanunun serbest bölgelere ilişkin hükmü, bir serbest bölgeye doğrudan Türkiye Gümrük Bölgesi dışından gelen eşya için de özet beyan verileceğini açıkça belirtir. Bu nedenle doğru cevap 'Türkiye Gümrük Bölgesinin kara sularından durmaksızın geçen bir gemide taşınan eşya' seçeneğidir. (MD GK 35/A, 159)",
 kanit=K + " | Türkiye Gümrük Bölgesinin kara suları veya hava sahasından gümrük bölgesi içinde durmaksızın geçen taşıt araçları ile taşınan eşya hariç olmak üzere, Türkiye Gümrük Bölgesine getirilen eşya için özet beyan verilir || 38-serbest bölge.txt | Bir serbest bölgeye doğrudan Türkiye Gümrük Bölgesi dışından gelen veya bir serbest bölgeden doğrudan Gümrük Bölgesinin dışına çıkan eşya için 35/A, 35/B ve 35/C ile 165/A, 165/B, 165/C ve 165/D maddelerine göre özet beyan verilir",
 yuva=["Kanunun serbest bölgelere ilişkin hükmü: serbest bölgeye doğrudan dışarıdan gelen eşya için de özet beyan verilir",
       "Yönetmeliğin denizyolu süre hükmü: dökme ve ambalaj hâlindeki eşya için özet beyan verilir (ilk varış limanından dört saat önce)",

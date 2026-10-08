@@ -44,7 +44,7 @@ kalip="OLAY",
 z="Z",
 madde=IYN + " md. 1, 6",
 cek="Yönetmelik suçun işlendiği tarihte 18 yaşını doldurmamış olanlara uygulanmaz; yaş, mahkûmiyetin kesinleştiği tarihe göre belirlenmez.",
-kok=["(M) 16 Mayıs 2007 doğumludur. (M)'nin 10 Mart 2025 tarihinde işlediği 600 kilogram şeker kaçakçılığı fiilinden dolayı verilen mahkûmiyet hükmü 20 Haziran 2026 tarihinde kesinleşmiştir.",
+kok=["(M) 16 Mayıs 2007 doğumludur. (M)'nin 10 Mart 2025 tarihinde işlediği 600 kilogram şeker kaçakçılığı fiilinden dolayı verilen mahkûmiyet hükmü 19 Haziran 2026 tarihinde kesinleşmiştir.",
      IYN + "'e göre (M) hakkında aşağıdakilerden hangisi doğrudur?"],
 d="Suçun işlendiği tarihte 18 yaşını doldurmadığı için Yönetmelik hükümleri uygulanmaz.",
 c=["Mahkûmiyet hükmünün kesinleştiği tarihte 18 yaşını doldurduğu için Bakanlık tarafından ilan edilebilir.",
@@ -52,7 +52,7 @@ c=["Mahkûmiyet hükmünün kesinleştiği tarihte 18 yaşını doldurduğu içi
    "Kaçakçılık suçuna ve (M)'ye ilişkin bilgiler üç ay süreyle Bakanlık resmî internet sitesinde yayımlanır.",
    "Şeker kaçakçılığı miktara bakılmaksızın ilan edilebilecek fiillerden olduğundan Bakanlık tarafından ilan edilebilir."],
 sirali=False,
-g="Yönetmelik hükümleri, suçun işlendiği tarihte 18 yaşını doldurmamış olanlar için uygulanmaz. (M) 16 Mayıs 2007 doğumlu olduğundan 18 yaşını 16 Mayıs 2025'te doldurur; şeker kaçakçılığı fiilini işlediği 10 Mart 2025 tarihinde 17 yaşındadır. Mahkûmiyet hükmünün kesinleştiği 20 Haziran 2026'da 18 yaşını doldurmuş olması sonucu değiştirmez; yaş, kesinleşme tarihine göre değil suçun işlendiği tarihe göre belirlenir. 'Suçun işlendiği tarihte' ibaresi Yönetmeliğe 10.04.2019 tarihli değişiklikle eklenmiştir. Şeker için aranan 500 kilogram sınırı aşılmış olsa da yaş istisnası nedeniyle Yönetmelik uygulanmaz; bu yüzden üç aylık internet yayını da söz konusu olmaz. Ayrıca şeker, miktar veya değere bakılmaksızın ilan edilebilecek fiiller arasında yer almaz. En güçlü çeldirici, yaşı mahkûmiyetin kesinleştiği tarihe göre belirleyen seçenektir. Bu nedenle doğru cevap 'Suçun işlendiği tarihte 18 yaşını doldurmadığı için Yönetmelik hükümleri uygulanmaz.' seçeneğidir. (MD 1, 6, 7)",
+g="Yönetmelik hükümleri, suçun işlendiği tarihte 18 yaşını doldurmamış olanlar için uygulanmaz. (M) 16 Mayıs 2007 doğumlu olduğundan 18 yaşını 16 Mayıs 2025'te doldurur; şeker kaçakçılığı fiilini işlediği 10 Mart 2025 tarihinde 17 yaşındadır. Mahkûmiyet hükmünün kesinleştiği 19 Haziran 2026'da 18 yaşını doldurmuş olması sonucu değiştirmez; yaş, kesinleşme tarihine göre değil suçun işlendiği tarihe göre belirlenir. 'Suçun işlendiği tarihte' ibaresi Yönetmeliğe 10.04.2019 tarihli değişiklikle eklenmiştir. Şeker için aranan 500 kilogram sınırı aşılmış olsa da yaş istisnası nedeniyle Yönetmelik uygulanmaz; bu yüzden üç aylık internet yayını da söz konusu olmaz. Ayrıca şeker, miktar veya değere bakılmaksızın ilan edilebilecek fiiller arasında yer almaz. En güçlü çeldirici, yaşı mahkûmiyetin kesinleştiği tarihe göre belirleyen seçenektir. Bu nedenle doğru cevap 'Suçun işlendiği tarihte 18 yaşını doldurmadığı için Yönetmelik hükümleri uygulanmaz.' seçeneğidir. (MD 1, 6, 7)",
 kanit=IY + " | Bu Yönetmelik hükümleri suçun işlendiği tarihte … 18 yaşını doldurmamış olanlar için uygulanmaz || "
       + IY + ' | ibaresi 10.04.2019 / 30741 RG ile eklenmiştir || '
       + IY + " | Şeker için 500 kilogramdan",
