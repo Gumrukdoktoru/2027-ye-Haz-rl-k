@@ -16,6 +16,8 @@ ANA_AD = {'O': 'Olumsuz', 'D': 'Düz', 'Ö': 'Öncüllü', 'G': 'Doğru', 'V': '
 ALANLAR = ['TÜRKÇE', 'MATEMATİK', 'TARİH', 'HUKUK', 'TEMEL', 'ALT', 'KAÇAKÇILIK', 'HESAP']
 BAYRAK = ['F_DAYANAK', 'F_SERI', 'F_TUZAKVERI', 'F_MADDENO', 'F_MUTLAK', 'F_MATRIS', 'F_GUNCEL', 'F_YALNIZ', 'F_TUMU']
 
+DAYANAK = re.compile(r'(Kanun|Yönetmeli[kğ]|Karar[ıi]?\b|Kararname|Tebli[ğg]|Genelge|Sözleşme|Anlaşma|Uygulama Esasları|sayılı)', re.I)
+MADDENO = re.compile(r"\b\d{1,3}\s*['’]?\s*(?:inci|ıncı|nci|ncı|üncü|uncu|ünci|'?n?c?i)?\s+madde|\bmadde(?:si|sinin|sine|sinde|nin)?\s*\d|\b(?:234|235|236|237|238|241)\s*/\s*\d|\bfıkra|\bbendi", re.I)
 soru = {}
 for y in YIL:
     for q in json.load(open(SJ / f'{y}_sorular.json', encoding='utf-8')):
@@ -35,6 +37,10 @@ for e in E:
     if e['alt_tip'] not in ALTLAR or e['alt_tip'][0] != e['ana_tip']: hata.append((e['yil'], e['no'], 'alt_tip', e['alt_tip']))
     if e['alt_alan'] not in ALANLAR: hata.append((e['yil'], e['no'], 'alt_alan', e['alt_alan']))
     e['bayraklar'] = [b for b in e.get('bayraklar', []) if b in BAYRAK]
+    # F_DAYANAK ve F_MADDENO metinden kuralla yeniden hesaplanır (ajanlar arası tutarlılık için)
+    e['bayraklar'] = [b for b in e['bayraklar'] if b not in ('F_DAYANAK', 'F_MADDENO')]
+    if e['alan'] == 'GÜMRÜK' and DAYANAK.search(e['kok']): e['bayraklar'].append('F_DAYANAK')
+    if MADDENO.search(e['kok'] + ' ' + ' '.join(e['siklar'].values())): e['bayraklar'].append('F_MADDENO')
     # doğru şıkkın uzunluk konumu (yalnız cümle/eşleşme şıklı)
     L = {h: len(v) for h, v in e['siklar'].items()}
     d = e['dogru']
