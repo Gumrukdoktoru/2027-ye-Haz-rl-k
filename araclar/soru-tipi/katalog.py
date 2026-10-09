@@ -98,6 +98,8 @@ for k in ('K1', 'K2', 'K3', 'K4'):
         t, s = t.split('<!-- SINIR -->', 1)
         sinir += [l for l in s.splitlines() if l.startswith('|') and not re.match(r'^\|\s*-', l) and 'Tereddüt' not in l]
     t = re.sub(r'^# [^\n]*\n', '', t.strip())          # dosya başlığı varsa at
+    t = re.sub(r'\s*YARDIMCILI\S*', '', t)               # 2022 altbilgi kalıntısı
+    t = re.sub(r'^(>.*\S)[ \t]*$', r'\1  ', t, flags=re.M)  # alıntıda her satır ayrı kalsın
     t = re.sub(r'^## ', '### ', t, flags=re.M) if not re.search(r'^### ', t, re.M) else t
     add([t.strip(), ''])
 
