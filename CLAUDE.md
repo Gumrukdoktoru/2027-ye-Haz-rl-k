@@ -9,6 +9,7 @@ GM / GMY sınavlarına hazırlık için Word kaynaklarından **ders notu** ve **
 - `promptlar/prompt-3-nihai-soru-hazirlama-kurallari.md` — kullanıcının nihai soru hazırlama kuralları (Prompt 3). Soru üretiminde Prompt 1 ile çelişirse **Prompt 3 geçerlidir** (çıkmış soruların bilgi alanları atlanmaz, kök = mevzuat adı + hükmün konusu + kurum kalıbı, önermeli en az 3 önerme, gerekçe sonunda (MD …), art arda aynı cevap harfi yok).
 - `sorular/` — üretilen soru setleri; `sorular/hafiza/URETIM-HAFIZASI.md` üretim hafızası.
 - `sorular/GK_Cikmis_vs_Sorulmayan_Analiz.md` — 2021–2025 çıkmış soruların konu ve hüküm bazında sorulan/sorulmayan karşılaştırması; `sorular/GK_Sorulmayan_Konular_SoruCevap.(md|docx)` sorulmayan hükümlerden açık uçlu soru–cevap seti (SC1). Betikler: `araclar/sorulmayan/`.
+- `sorular/GK_GMY_Soru_Tipi_Katalogu.(md|docx)` — 2021–2025 GMY 500 sorusunun soru tipi kataloğu (alt tip kodları O1…M4, bayraklar, gerçek örnekli alt tip kartları, deneme reçetesi). Soru setlerinde alt tip hedefi için kullanılır. Resmî cevap anahtarı (2021–2024) ve 2025 türetilmiş anahtar: `araclar/soru-tipi/cevap_anahtari.tsv`.
 - `notlar/` — üretilen ders notları (Ders_Notu_{KONU}.docx).
 
 ## Çalışma kuralları

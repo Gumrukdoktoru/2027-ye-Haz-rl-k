@@ -107,10 +107,19 @@ for k in ('K1', 'K2', 'K3', 'K4'):
 add(['## 4. SINIR DURUMLAR: HANGİ TİP HANGİSİ?', '', 'Karar ölçütü her zaman kökün son yüklemi + şıkların biçimidir.', '',
      '| Tereddüt | Karar ölçütü | Örnek |', '|---|---|---|'])
 tip = (HERE / 'TIPOLOJI.md').read_text(encoding='utf-8').split('## 5. Sınır durumlar', 1)[1]
-for l in tip.splitlines():
-    if l.startswith('|') and 'Tereddüt' not in l and not l.startswith('|---'):
-        add([l.rstrip('|').rstrip() + ' | – |'])
-add(sinir + [''])
+satir = collections.OrderedDict()                     # aynı tereddüt tek satırda birleşir
+anahtar = lambda h: re.sub(r'\s*\(.*?\)\s*', '', h).strip().rstrip('?').strip()
+for l in [l for l in tip.splitlines() if l.startswith('|') and 'Tereddüt' not in l and not l.startswith('|---')] + sinir:
+    c = [x.strip() for x in l.strip().strip('|').split('|')]
+    c += ['–'] * (3 - len(c))
+    k = anahtar(c[0])
+    if k in satir:
+        o = satir[k]
+        if o[2] == '–': o[1], o[2] = c[1], c[2]           # sözlük satırının yerine örnekli satır
+        elif c[2] != '–': o[1], o[2] = o[1].rstrip('. ') + ' · ' + c[1], o[2] + '; ' + c[2]
+    else:
+        satir[k] = [c[0].split(' (')[0] if '(' in c[0] and c[0].endswith(')') else c[0], c[1], c[2]]
+add([f'| {a} | {b} | {c} |' for a, b, c in satir.values()] + [''])
 
 # 5. DENEME REÇETESİ
 def dagit(pay, toplam):
@@ -176,6 +185,8 @@ add(['## 7. YÖNTEM NOTU', '',
      '; '.join(f"{y}/{n}: {a} → {r}" for y, n, a, r in ef) + '. Bu soruların envanterdeki "ölçülen bilgi" notları da gözden geçirilmeli (ör. 2024/47 çıkış değil ihracat gümrük idaresi; 2024/85 iştirak hâlinde ceza her birine ayrı uygulanır). Tam liste: `araclar/soru-tipi/cevap_anahtari.tsv`.', '',
      '**Anahtarı tartışmalı ya da yoruma açık sorular** (örnek olarak kullanılmadı):', ''] +
     [f"- {y}/{n}: {t}" for y, n, t in tar] + [
+     '- 2024/100: resmî cevap A; D şıkkı (YGM vasıtasıyla gözetim yapılamaz) da kaynak metne göre doğru bir ifade görünüyor, A–C ve E kaynakta doğrudan doğrulanamadı.',
+     '- 2021/40: kökteki "kaç aya kadar uzatılarak kalabilir" toplam süre (6 ay) olarak da okunabilir; anahtar uzatma süresini (3 ay) esas alıyor.',
      '- 2021/95: resmî cevap sınav tarihine göre doğru; 18.01.2024 değişikliğiyle Hazine ve Maliye Bakanlığı çıkarıldığından güncel metne göre cevap değişir.',
      '- 2021/86: resmî cevap sınav tarihindeki asgari ücret tarifesi indirim oranına göre; kaynaktaki güncel oran farklı.',
      '- 2025/61, 2025/76: önceki envanter notları mevzuat metniyle çelişiyor (GY 155/1 ek süre üç ay; Karar 63/3 nakliye kıymete eklenir).', '',
