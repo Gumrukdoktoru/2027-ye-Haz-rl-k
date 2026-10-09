@@ -52,6 +52,17 @@ for e in E:
     s = e['siklar'].get(d, '')
     e['oncul_cevap'] = ('yalniz' if re.match(r'\s*Yalnız', s) else
                         'tumu' if 'F_TUMU' in e['bayraklar'] else 'ara') if e['ana_tip'] == 'Ö' or e['alt_tip'] == 'E2' else ''
+# F_SERI tek kuralla: önceki ya da sonraki soru aynı konudaysa (gümrükte envanter konusu, yoksa etiket konusu)
+envkonu = {}
+for l in ENV.read_text(encoding='utf-8').splitlines()[1:]:
+    r = l.split('\t'); envkonu[(int(r[0]), int(r[1]))] = r[2]
+for e in E: e['konu_seri'] = envkonu.get((e['yil'], e['no'])) or e.get('konu', '')
+idx = {(e['yil'], e['no']): e for e in E}
+for e in E:
+    e['bayraklar'] = [b for b in e['bayraklar'] if b != 'F_SERI']
+    kom = [idx.get((e['yil'], e['no'] + d)) for d in (-1, 1)]
+    if any(k and k['alan'] == e['alan'] and k['konu_seri'] and k['konu_seri'] == e['konu_seri'] for k in kom):
+        e['bayraklar'].append('F_SERI')
 print('doğrulama hataları:', len(hata)); [print('  ', h) for h in hata[:30]]
 
 # ---- tipler.csv
