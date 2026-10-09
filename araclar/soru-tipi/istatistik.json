@@ -1,0 +1,2229 @@
+{
+ "toplam": 500,
+ "ana": {
+  "O": {
+   "ad": "Olumsuz",
+   "yil": [
+    34,
+    38,
+    27,
+    33,
+    22
+   ],
+   "n": 154
+  },
+  "D": {
+   "ad": "Düz",
+   "yil": [
+    30,
+    31,
+    39,
+    31,
+    30
+   ],
+   "n": 161
+  },
+  "Ö": {
+   "ad": "Öncüllü",
+   "yil": [
+    7,
+    3,
+    5,
+    7,
+    17
+   ],
+   "n": 39
+  },
+  "G": {
+   "ad": "Doğru",
+   "yil": [
+    2,
+    7,
+    5,
+    7,
+    6
+   ],
+   "n": 27
+  },
+  "V": {
+   "ad": "Vaka",
+   "yil": [
+    0,
+    0,
+    0,
+    2,
+    0
+   ],
+   "n": 2
+  },
+  "K": {
+   "ad": "Kavram",
+   "yil": [
+    16,
+    9,
+    10,
+    7,
+    6
+   ],
+   "n": 48
+  },
+  "B": {
+   "ad": "Boşluk",
+   "yil": [
+    0,
+    2,
+    3,
+    1,
+    5
+   ],
+   "n": 11
+  },
+  "E": {
+   "ad": "Eşleştirme",
+   "yil": [
+    1,
+    0,
+    0,
+    1,
+    1
+   ],
+   "n": 3
+  },
+  "S": {
+   "ad": "Sıralama",
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "n": 0
+  },
+  "H": {
+   "ad": "Hesap",
+   "yil": [
+    0,
+    0,
+    1,
+    1,
+    3
+   ],
+   "n": 5
+  },
+  "T": {
+   "ad": "Türkçe",
+   "yil": [
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "n": 25
+  },
+  "M": {
+   "ad": "Matematik",
+   "yil": [
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "n": 25
+  }
+ },
+ "alt": {
+  "O1": {
+   "n": 98,
+   "yil": [
+    20,
+    24,
+    21,
+    19,
+    14
+   ],
+   "alan": {
+    "TARİH": 8,
+    "HUKUK": 5,
+    "TEMEL": 66,
+    "ALT": 11,
+    "KAÇAKÇILIK": 8
+   },
+   "son2": 33,
+   "harf_resmi": {
+    "A": 4,
+    "B": 10,
+    "C": 17,
+    "D": 24,
+    "E": 29
+   },
+   "uzunluk": {
+    "orta": 12,
+    "en_uzun": 5,
+    "en_kisa": 2
+   },
+   "dayanak_kokte": 49,
+   "teknik": {
+    "KOMSU_LISTE": 34,
+    "MINIMAL_CIFT": 23,
+    "UYDURMA": 19,
+    "TERS_ISLEV": 8,
+    "YANLIS_ALTGRUP": 6,
+    "BASKA_HUKUK": 5,
+    "TARAF_OLMAYAN": 3
+   },
+   "sik_turu": {
+    "kisa": 79,
+    "cumle": 19
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_DAYANAK": 49,
+    "F_MADDENO": 5,
+    "F_MUTLAK": 2,
+    "F_SERI": 38,
+    "F_GUNCEL": 1
+   },
+   "yuklem": {
+    "değildir": 23,
+    "biri değildir": 13,
+    "yer almaz": 8,
+    "sayılmamıştır": 3,
+    "unsurlardan değildir": 3,
+    "kabul edilmez": 3,
+    "kapsamında değildir": 2,
+    "görevli değildir": 2
+   }
+  },
+  "O2": {
+   "n": 52,
+   "yil": [
+    12,
+    13,
+    6,
+    14,
+    7
+   ],
+   "alan": {
+    "TEMEL": 43,
+    "KAÇAKÇILIK": 2,
+    "HUKUK": 1,
+    "ALT": 6
+   },
+   "son2": 21,
+   "harf_resmi": {
+    "A": 3,
+    "B": 12,
+    "C": 10,
+    "D": 6,
+    "E": 14
+   },
+   "uzunluk": {
+    "orta": 29,
+    "en_kisa": 15,
+    "en_uzun": 8
+   },
+   "dayanak_kokte": 30,
+   "teknik": {
+    "POLARITE": 23,
+    "SURE_SAYI": 10,
+    "ETIKET": 9,
+    "MAKAM": 5,
+    "KAPSAM": 3,
+    "ZAMAN_YER": 2,
+    "UYDURMA": 1
+   },
+   "sik_turu": {
+    "cumle": 52
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_DAYANAK": 30,
+    "F_MUTLAK": 7,
+    "F_MADDENO": 5,
+    "F_SERI": 15
+   },
+   "yuklem": {
+    "yanlıştır": 46,
+    "söylenemez": 3,
+    "doğru bir ifade değildir": 2,
+    "doğru değildir": 1
+   }
+  },
+  "O3": {
+   "n": 4,
+   "yil": [
+    2,
+    1,
+    0,
+    0,
+    1
+   ],
+   "alan": {
+    "TEMEL": 4
+   },
+   "son2": 1,
+   "harf_resmi": {
+    "B": 1,
+    "D": 1,
+    "E": 1
+   },
+   "uzunluk": {
+    "orta": 1,
+    "en_uzun": 1
+   },
+   "dayanak_kokte": 2,
+   "teknik": {
+    "TASIMA": 1,
+    "KAPSAM": 1,
+    "POLARITE": 1,
+    "UYDURMA": 1
+   },
+   "sik_turu": {
+    "cumle": 2,
+    "kisa": 2
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_DAYANAK": 2,
+    "F_SERI": 2
+   },
+   "yuklem": {
+    "kaybetmez": 1,
+    "oluşturmaz": 1,
+    "sayılmamıştır": 1,
+    "yer almaz": 1
+   }
+  },
+  "D1": {
+   "n": 65,
+   "yil": [
+    12,
+    14,
+    16,
+    12,
+    11
+   ],
+   "alan": {
+    "HUKUK": 4,
+    "TEMEL": 46,
+    "ALT": 11,
+    "KAÇAKÇILIK": 3,
+    "TARİH": 1
+   },
+   "son2": 23,
+   "harf_resmi": {
+    "A": 7,
+    "B": 17,
+    "C": 13,
+    "D": 13,
+    "E": 4
+   },
+   "uzunluk": {
+    "en_kisa": 2,
+    "orta": 1,
+    "en_uzun": 3
+   },
+   "dayanak_kokte": 50,
+   "teknik": {},
+   "sik_turu": {
+    "sayi": 51,
+    "kisa": 4,
+    "kod": 4,
+    "cumle": 6
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_DAYANAK": 50,
+    "F_SERI": 18,
+    "F_GUNCEL": 3,
+    "F_MATRIS": 7,
+    "F_MADDENO": 12
+   },
+   "yuklem": {
+    "uygulanır": 4,
+    "hangisidir": 4,
+    "gerekir": 3,
+    "yapılmalıdır": 3,
+    "gerekmektedir": 3,
+    "ne kadardır": 3,
+    "verilmiştir": 2,
+    "muaf tutulur": 2
+   }
+  },
+  "D2": {
+   "n": 52,
+   "yil": [
+    8,
+    9,
+    15,
+    9,
+    11
+   ],
+   "alan": {
+    "TARİH": 12,
+    "TEMEL": 23,
+    "HUKUK": 7,
+    "KAÇAKÇILIK": 3,
+    "ALT": 7
+   },
+   "son2": 20,
+   "harf_resmi": {
+    "A": 10,
+    "B": 8,
+    "C": 12,
+    "D": 5,
+    "E": 6
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 20,
+   "teknik": {},
+   "sik_turu": {
+    "kisa": 52
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_DAYANAK": 20,
+    "F_SERI": 13,
+    "F_MADDENO": 3,
+    "F_MATRIS": 1,
+    "F_GUNCEL": 1
+   },
+   "yuklem": {
+    "hangisidir": 9,
+    "uygulanır": 3,
+    "yetkilidir": 3,
+    "aittir": 2,
+    "nedir": 2,
+    "çıkarılmıştır": 1,
+    "açılmıştır": 1,
+    "değiştirilebilir": 1
+   }
+  },
+  "D3": {
+   "n": 18,
+   "yil": [
+    3,
+    4,
+    4,
+    4,
+    3
+   ],
+   "alan": {
+    "TARİH": 2,
+    "HUKUK": 5,
+    "KAÇAKÇILIK": 1,
+    "TEMEL": 9,
+    "ALT": 1
+   },
+   "son2": 7,
+   "harf_resmi": {
+    "A": 4,
+    "B": 3,
+    "C": 2,
+    "D": 3,
+    "E": 3
+   },
+   "uzunluk": {
+    "orta": 1
+   },
+   "dayanak_kokte": 5,
+   "teknik": {
+    "KOMSU_LISTE": 12,
+    "MINIMAL_CIFT": 2,
+    "TARAF_OLMAYAN": 1,
+    "YANLIS_ALTGRUP": 1,
+    "BASKA_HUKUK": 1
+   },
+   "sik_turu": {
+    "kisa": 16,
+    "kod": 1,
+    "cumle": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_DAYANAK": 5,
+    "F_SERI": 6,
+    "F_MUTLAK": 1,
+    "F_MADDENO": 1
+   },
+   "yuklem": {
+    "biridir": 2,
+    "yer alır": 2,
+    "üyedir": 1,
+    "düzenlenmiştir": 1,
+    "yasama işlemidir": 1,
+    "serbest dolaşıma girebilir": 1,
+    "aranmamaktadır": 1,
+    "menşe ispat belgesidir": 1
+   }
+  },
+  "D6": {
+   "n": 26,
+   "yil": [
+    7,
+    4,
+    4,
+    6,
+    5
+   ],
+   "alan": {
+    "TEMEL": 20,
+    "KAÇAKÇILIK": 4,
+    "HUKUK": 1,
+    "ALT": 1
+   },
+   "son2": 11,
+   "harf_resmi": {
+    "A": 7,
+    "B": 6,
+    "D": 5,
+    "E": 3
+   },
+   "uzunluk": {
+    "orta": 6,
+    "en_uzun": 5,
+    "en_kisa": 1
+   },
+   "dayanak_kokte": 14,
+   "teknik": {},
+   "sik_turu": {
+    "kisa": 14,
+    "cumle": 12
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_MATRIS": 10,
+    "F_DAYANAK": 14,
+    "F_SERI": 12,
+    "F_MADDENO": 5
+   },
+   "yuklem": {
+    "uygulanır": 6,
+    "çevrilir": 3,
+    "hangisidir": 3,
+    "nedir": 2,
+    "belirlenir": 1,
+    "istenebilir": 1,
+    "tamamlanır": 1,
+    "belirtilmiştir": 1
+   }
+  },
+  "Ö1": {
+   "n": 7,
+   "yil": [
+    0,
+    0,
+    1,
+    2,
+    4
+   ],
+   "alan": {
+    "TEMEL": 5,
+    "ALT": 2
+   },
+   "son2": 6,
+   "harf_resmi": {
+    "B": 1,
+    "C": 2
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 4,
+   "teknik": {
+    "TASIMA": 3,
+    "SURE_SAYI": 2,
+    "UYDURMA": 2,
+    "ZAMAN_YER": 1,
+    "MAKAM": 1,
+    "POLARITE": 1
+   },
+   "sik_turu": {
+    "kombinasyon": 7
+   },
+   "oncul_sayisi": {
+    "3": 3,
+    "5": 3,
+    "4": 1
+   },
+   "oncul_cevap": {
+    "ara": 6,
+    "yalniz": 1
+   },
+   "bayrak": {
+    "F_MUTLAK": 2,
+    "F_YALNIZ": 1,
+    "F_DAYANAK": 4,
+    "F_SERI": 1,
+    "F_GUNCEL": 1
+   },
+   "yuklem": {
+    "doğrudur": 7
+   }
+  },
+  "Ö2": {
+   "n": 6,
+   "yil": [
+    0,
+    1,
+    1,
+    2,
+    2
+   ],
+   "alan": {
+    "TEMEL": 5,
+    "ALT": 1
+   },
+   "son2": 4,
+   "harf_resmi": {
+    "B": 1,
+    "C": 1,
+    "E": 2
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 5,
+   "teknik": {
+    "POLARITE": 3,
+    "ETIKET": 2,
+    "MUTLAK": 2,
+    "TASIMA": 1
+   },
+   "sik_turu": {
+    "kombinasyon": 6
+   },
+   "oncul_sayisi": {
+    "4": 1,
+    "3": 4,
+    "5": 1
+   },
+   "oncul_cevap": {
+    "tumu": 1,
+    "yalniz": 3,
+    "ara": 2
+   },
+   "bayrak": {
+    "F_TUMU": 1,
+    "F_YALNIZ": 3,
+    "F_DAYANAK": 5,
+    "F_MUTLAK": 2,
+    "F_SERI": 2,
+    "F_MADDENO": 1
+   },
+   "yuklem": {
+    "yanlıştır": 5,
+    "kabul edilmez": 1
+   }
+  },
+  "Ö3": {
+   "n": 22,
+   "yil": [
+    7,
+    1,
+    3,
+    3,
+    8
+   ],
+   "alan": {
+    "TEMEL": 16,
+    "KAÇAKÇILIK": 3,
+    "ALT": 3
+   },
+   "son2": 11,
+   "harf_resmi": {
+    "A": 1,
+    "B": 1,
+    "C": 2,
+    "E": 10
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 12,
+   "teknik": {
+    "KOMSU_LISTE": 6,
+    "YANLIS_ALTGRUP": 2,
+    "MINIMAL_CIFT": 2,
+    "UYDURMA": 2,
+    "BASKA_HUKUK": 1,
+    "TERS_ISLEV": 1
+   },
+   "sik_turu": {
+    "kombinasyon": 22
+   },
+   "oncul_sayisi": {
+    "5": 2,
+    "4": 13,
+    "3": 7
+   },
+   "oncul_cevap": {
+    "ara": 11,
+    "tumu": 8,
+    "yalniz": 3
+   },
+   "bayrak": {
+    "F_DAYANAK": 12,
+    "F_TUMU": 8,
+    "F_SERI": 14,
+    "F_YALNIZ": 3
+   },
+   "yuklem": {
+    "kapsamındadır": 2,
+    "tabi tutulabilir": 1,
+    "tabidir": 1,
+    "dikkate alınır": 1,
+    "hangisidir": 1,
+    "vermektedir": 1,
+    "yer almaktadır": 1,
+    "arasındadır": 1
+   }
+  },
+  "Ö4": {
+   "n": 3,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    3
+   ],
+   "alan": {
+    "TEMEL": 3
+   },
+   "son2": 3,
+   "harf_resmi": {},
+   "uzunluk": {},
+   "dayanak_kokte": 3,
+   "teknik": {
+    "UYDURMA": 1
+   },
+   "sik_turu": {
+    "kombinasyon": 3
+   },
+   "oncul_sayisi": {
+    "4": 2,
+    "3": 1
+   },
+   "oncul_cevap": {
+    "tumu": 2,
+    "ara": 1
+   },
+   "bayrak": {
+    "F_TUMU": 2,
+    "F_DAYANAK": 3,
+    "F_SERI": 2
+   },
+   "yuklem": {
+    "sahip olması gerekir": 1,
+    "sağlanmış olması gerekir": 1,
+    "gerekli şartlardandır": 1
+   }
+  },
+  "Ö5": {
+   "n": 1,
+   "yil": [
+    0,
+    1,
+    0,
+    0,
+    0
+   ],
+   "alan": {
+    "TEMEL": 1
+   },
+   "son2": 0,
+   "harf_resmi": {
+    "B": 1
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 1,
+   "teknik": {},
+   "sik_turu": {
+    "kombinasyon": 1
+   },
+   "oncul_sayisi": {
+    "5": 1
+   },
+   "oncul_cevap": {
+    "yalniz": 1
+   },
+   "bayrak": {
+    "F_YALNIZ": 1,
+    "F_MUTLAK": 1,
+    "F_DAYANAK": 1
+   },
+   "yuklem": {
+    "yanlıştır": 1
+   }
+  },
+  "G1": {
+   "n": 22,
+   "yil": [
+    2,
+    5,
+    4,
+    6,
+    5
+   ],
+   "alan": {
+    "TEMEL": 18,
+    "KAÇAKÇILIK": 1,
+    "ALT": 3
+   },
+   "son2": 11,
+   "harf_resmi": {
+    "A": 5,
+    "B": 3,
+    "C": 5,
+    "D": 1,
+    "E": 3
+   },
+   "uzunluk": {
+    "en_uzun": 7,
+    "orta": 10,
+    "en_kisa": 4
+   },
+   "dayanak_kokte": 20,
+   "teknik": {
+    "SURE_SAYI": 13,
+    "POLARITE": 4,
+    "MUTLAK": 3,
+    "MAKAM": 2,
+    "ETIKET": 2,
+    "ZAMAN_YER": 2,
+    "KAPSAM": 2
+   },
+   "sik_turu": {
+    "cumle": 21,
+    "kisa": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_MUTLAK": 6,
+    "F_DAYANAK": 20,
+    "F_SERI": 13,
+    "F_MADDENO": 4,
+    "F_MATRIS": 4
+   },
+   "yuklem": {
+    "doğrudur": 13,
+    "doğru olarak verilmiştir": 6,
+    "doğru bir ifadedir": 2,
+    "nedir": 1
+   }
+  },
+  "G3": {
+   "n": 4,
+   "yil": [
+    0,
+    2,
+    1,
+    1,
+    0
+   ],
+   "alan": {
+    "TEMEL": 4
+   },
+   "son2": 1,
+   "harf_resmi": {
+    "A": 1,
+    "D": 2,
+    "E": 1
+   },
+   "uzunluk": {
+    "orta": 1
+   },
+   "dayanak_kokte": 0,
+   "teknik": {
+    "KOMSU_LISTE": 1
+   },
+   "sik_turu": {
+    "kisa": 3,
+    "cumle": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_SERI": 3
+   },
+   "yuklem": {
+    "mümkündür": 1,
+    "engeller": 1,
+    "kapsamına girer": 1,
+    "unsurlardandır": 1
+   }
+  },
+  "G4": {
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "alan": {
+    "TEMEL": 1
+   },
+   "son2": 1,
+   "harf_resmi": {},
+   "uzunluk": {},
+   "dayanak_kokte": 1,
+   "teknik": {},
+   "sik_turu": {
+    "kod": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_DAYANAK": 1
+   },
+   "yuklem": {
+    "örnektir": 1
+   }
+  },
+  "V2": {
+   "n": 2,
+   "yil": [
+    0,
+    0,
+    0,
+    2,
+    0
+   ],
+   "alan": {
+    "TEMEL": 2
+   },
+   "son2": 2,
+   "harf_resmi": {
+    "A": 1,
+    "B": 1
+   },
+   "uzunluk": {
+    "orta": 2
+   },
+   "dayanak_kokte": 1,
+   "teknik": {
+    "ETIKET": 1
+   },
+   "sik_turu": {
+    "cumle": 2
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_SERI": 1,
+    "F_DAYANAK": 1
+   },
+   "yuklem": {
+    "yanlıştır": 1,
+    "sona erer": 1
+   }
+  },
+  "K1": {
+   "n": 48,
+   "yil": [
+    16,
+    9,
+    10,
+    7,
+    6
+   ],
+   "alan": {
+    "TARİH": 2,
+    "HUKUK": 2,
+    "TEMEL": 34,
+    "ALT": 9,
+    "KAÇAKÇILIK": 1
+   },
+   "son2": 13,
+   "harf_resmi": {
+    "A": 9,
+    "B": 11,
+    "C": 8,
+    "D": 10,
+    "E": 4
+   },
+   "uzunluk": {
+    "en_kisa": 1,
+    "orta": 3,
+    "en_uzun": 5
+   },
+   "dayanak_kokte": 24,
+   "teknik": {},
+   "sik_turu": {
+    "kisa": 39,
+    "cumle": 9
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_DAYANAK": 24,
+    "F_SERI": 15,
+    "F_MATRIS": 1
+   },
+   "yuklem": {
+    "hangisidir": 14,
+    "ne ad verilir": 9,
+    "ifade eder": 4,
+    "nedir": 2,
+    "doğrudur": 2,
+    "kuralıdır": 1,
+    "rapordur": 1,
+    "tipidir": 1
+   }
+  },
+  "B1": {
+   "n": 10,
+   "yil": [
+    0,
+    2,
+    3,
+    1,
+    4
+   ],
+   "alan": {
+    "TEMEL": 9,
+    "ALT": 1
+   },
+   "son2": 5,
+   "harf_resmi": {
+    "A": 1,
+    "B": 2,
+    "C": 1,
+    "D": 1,
+    "E": 1
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 8,
+   "teknik": {},
+   "sik_turu": {
+    "bosluk": 9,
+    "sayi": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_MATRIS": 6,
+    "F_SERI": 3,
+    "F_DAYANAK": 8,
+    "F_GUNCEL": 1
+   },
+   "yuklem": {
+    "gelmelidir": 4,
+    "verilmiştir": 2,
+    "doldurulmalıdır": 1,
+    "doğru olarak verilmiştir": 1,
+    "bitirilmelidir": 1,
+    "yer almaktadır": 1
+   }
+  },
+  "B2": {
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "alan": {
+    "TEMEL": 1
+   },
+   "son2": 1,
+   "harf_resmi": {},
+   "uzunluk": {},
+   "dayanak_kokte": 1,
+   "teknik": {},
+   "sik_turu": {
+    "bosluk": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_MATRIS": 1,
+    "F_DAYANAK": 1,
+    "F_MADDENO": 1
+   },
+   "yuklem": {
+    "gelmesi gerekmektedir": 1
+   }
+  },
+  "E1": {
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "alan": {
+    "ALT": 1
+   },
+   "son2": 1,
+   "harf_resmi": {
+    "E": 1
+   },
+   "uzunluk": {
+    "en_uzun": 1
+   },
+   "dayanak_kokte": 0,
+   "teknik": {
+    "ETIKET": 1
+   },
+   "sik_turu": {
+    "eslesme": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "yanlıştır": 1
+   }
+  },
+  "E2": {
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "alan": {
+    "ALT": 1
+   },
+   "son2": 1,
+   "harf_resmi": {},
+   "uzunluk": {},
+   "dayanak_kokte": 1,
+   "teknik": {
+    "ETIKET": 1
+   },
+   "sik_turu": {
+    "kombinasyon": 1
+   },
+   "oncul_sayisi": {
+    "5": 1
+   },
+   "oncul_cevap": {
+    "yalniz": 1
+   },
+   "bayrak": {
+    "F_YALNIZ": 1,
+    "F_DAYANAK": 1
+   },
+   "yuklem": {
+    "yanlıştır": 1
+   }
+  },
+  "E3": {
+   "n": 1,
+   "yil": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "alan": {
+    "TEMEL": 1
+   },
+   "son2": 0,
+   "harf_resmi": {
+    "A": 1
+   },
+   "uzunluk": {
+    "en_uzun": 1
+   },
+   "dayanak_kokte": 1,
+   "teknik": {},
+   "sik_turu": {
+    "eslesme": 1
+   },
+   "oncul_sayisi": {
+    "4": 1
+   },
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_DAYANAK": 1,
+    "F_SERI": 1
+   },
+   "yuklem": {
+    "hangisidir": 1
+   }
+  },
+  "H4": {
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "alan": {
+    "HESAP": 1
+   },
+   "son2": 1,
+   "harf_resmi": {
+    "B": 1
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 1,
+   "teknik": {},
+   "sik_turu": {
+    "sayi": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_GUNCEL": 1,
+    "F_DAYANAK": 1,
+    "F_MADDENO": 1
+   },
+   "yuklem": {
+    "kaç TL'dir": 1
+   }
+  },
+  "H6": {
+   "n": 2,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    2
+   ],
+   "alan": {
+    "HESAP": 2
+   },
+   "son2": 2,
+   "harf_resmi": {},
+   "uzunluk": {},
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "sayi": 2
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_TUZAKVERI": 2,
+    "F_SERI": 1
+   },
+   "yuklem": {
+    "kaç TL'dir": 2
+   }
+  },
+  "H7": {
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "alan": {
+    "HESAP": 1
+   },
+   "son2": 1,
+   "harf_resmi": {},
+   "uzunluk": {},
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "sayi": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_TUZAKVERI": 1,
+    "F_GUNCEL": 1,
+    "F_SERI": 1
+   },
+   "yuklem": {
+    "kaç TL'dir": 1
+   }
+  },
+  "H8": {
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "alan": {
+    "HESAP": 1
+   },
+   "son2": 0,
+   "harf_resmi": {
+    "D": 1
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "sayi": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "kaç TL'dir": 1
+   }
+  },
+  "T1": {
+   "n": 9,
+   "yil": [
+    1,
+    1,
+    4,
+    2,
+    1
+   ],
+   "alan": {
+    "TÜRKÇE": 9
+   },
+   "son2": 3,
+   "harf_resmi": {
+    "A": 1,
+    "B": 1,
+    "C": 3,
+    "D": 1,
+    "E": 2
+   },
+   "uzunluk": {
+    "orta": 4,
+    "en_kisa": 2
+   },
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "cumle": 6,
+    "kisa": 3
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "vardır": 3,
+    "kullanılmıştır": 2,
+    "verilmemiştir": 1,
+    "bulunmamaktadır": 1,
+    "bulunmaktadır": 1,
+    "zıt anlamlıdır": 1
+   }
+  },
+  "T2": {
+   "n": 4,
+   "yil": [
+    2,
+    0,
+    1,
+    1,
+    0
+   ],
+   "alan": {
+    "TÜRKÇE": 4
+   },
+   "son2": 1,
+   "harf_resmi": {
+    "A": 2,
+    "B": 1,
+    "E": 1
+   },
+   "uzunluk": {
+    "orta": 2
+   },
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "cumle": 2,
+    "kisa": 2
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "gizli öznedir": 1,
+    "ad olmuştur": 1,
+    "gerçekleşmez": 1,
+    "kullanılmıştır": 1
+   }
+  },
+  "T3": {
+   "n": 6,
+   "yil": [
+    1,
+    2,
+    0,
+    2,
+    1
+   ],
+   "alan": {
+    "TÜRKÇE": 6
+   },
+   "son2": 3,
+   "harf_resmi": {
+    "C": 3,
+    "E": 2
+   },
+   "uzunluk": {
+    "orta": 3,
+    "en_kisa": 2
+   },
+   "dayanak_kokte": 0,
+   "teknik": {
+    "KOMSU_LISTE": 1
+   },
+   "sik_turu": {
+    "cumle": 5,
+    "kisa": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "yanlıştır": 2,
+    "yapılmıştır": 1,
+    "vardır": 1,
+    "yanlış kullanılmıştır": 1,
+    "örneklendirilmemiştir": 1
+   }
+  },
+  "T4": {
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "alan": {
+    "TÜRKÇE": 1
+   },
+   "son2": 1,
+   "harf_resmi": {},
+   "uzunluk": {
+    "orta": 1
+   },
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "cumle": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "vardır": 1
+   }
+  },
+  "T5": {
+   "n": 5,
+   "yil": [
+    1,
+    2,
+    0,
+    0,
+    2
+   ],
+   "alan": {
+    "TÜRKÇE": 5
+   },
+   "son2": 2,
+   "harf_resmi": {
+    "C": 1,
+    "D": 2
+   },
+   "uzunluk": {
+    "en_kisa": 2
+   },
+   "dayanak_kokte": 0,
+   "teknik": {
+    "TERS_ISLEV": 1
+   },
+   "sik_turu": {
+    "kisa": 3,
+    "cumle": 2
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "hangisidir": 2,
+    "kullanılmıştır": 1,
+    "değildir": 1,
+    "söylenmiştir": 1
+   }
+  },
+  "M1": {
+   "n": 7,
+   "yil": [
+    2,
+    4,
+    0,
+    1,
+    0
+   ],
+   "alan": {
+    "MATEMATİK": 7
+   },
+   "son2": 1,
+   "harf_resmi": {
+    "A": 3,
+    "C": 2,
+    "D": 1,
+    "E": 1
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "sayi": 4,
+    "gorsel": 2,
+    "kombinasyon": 1
+   },
+   "oncul_sayisi": {
+    "3": 1
+   },
+   "oncul_cevap": {},
+   "bayrak": {
+    "F_YALNIZ": 1
+   },
+   "yuklem": {
+    "kaçtır": 4,
+    "doğrudur": 2,
+    "yanlıştır": 1
+   }
+  },
+  "M2": {
+   "n": 8,
+   "yil": [
+    2,
+    0,
+    2,
+    2,
+    2
+   ],
+   "alan": {
+    "MATEMATİK": 8
+   },
+   "son2": 4,
+   "harf_resmi": {
+    "B": 2,
+    "C": 4
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "sayi": 8
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "kaçtır": 1,
+    "kaç kilogram olur": 1,
+    "kaç olacaktır": 1,
+    "gönderilir": 1,
+    "doldurur": 1,
+    "almıştır": 1,
+    "ödemelidir": 1,
+    "olur": 1
+   }
+  },
+  "M3": {
+   "n": 9,
+   "yil": [
+    0,
+    1,
+    3,
+    2,
+    3
+   ],
+   "alan": {
+    "MATEMATİK": 9
+   },
+   "son2": 5,
+   "harf_resmi": {
+    "A": 2,
+    "B": 2,
+    "C": 1,
+    "E": 1
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "sayi": 9
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "kaçtır": 1,
+    "yanlıştır": 1,
+    "başlamıştır": 1,
+    "taşır": 1,
+    "kaç metrekaredir": 1,
+    "nedir": 1,
+    "gösterir": 1,
+    "çıkmışlardır": 1
+   }
+  },
+  "M4": {
+   "n": 1,
+   "yil": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "alan": {
+    "MATEMATİK": 1
+   },
+   "son2": 0,
+   "harf_resmi": {
+    "D": 1
+   },
+   "uzunluk": {},
+   "dayanak_kokte": 0,
+   "teknik": {},
+   "sik_turu": {
+    "kisa": 1
+   },
+   "oncul_sayisi": {},
+   "oncul_cevap": {},
+   "bayrak": {},
+   "yuklem": {
+    "hangisi olur": 1
+   }
+  }
+ },
+ "alan": {
+  "TÜRKÇE": {
+   "n": 25,
+   "yil": [
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "ilk5": [
+    [
+     "T1",
+     9,
+     36,
+     30
+    ],
+    [
+     "T3",
+     6,
+     24,
+     30
+    ],
+    [
+     "T5",
+     5,
+     20,
+     20
+    ],
+    [
+     "T2",
+     4,
+     16,
+     10
+    ],
+    [
+     "T4",
+     1,
+     4,
+     10
+    ]
+   ],
+   "ilk5_pay": 100
+  },
+  "MATEMATİK": {
+   "n": 25,
+   "yil": [
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "ilk5": [
+    [
+     "M3",
+     9,
+     36,
+     50
+    ],
+    [
+     "M2",
+     8,
+     32,
+     40
+    ],
+    [
+     "M1",
+     7,
+     28,
+     10
+    ],
+    [
+     "M4",
+     1,
+     4,
+     0
+    ]
+   ],
+   "ilk5_pay": 100
+  },
+  "TARİH": {
+   "n": 25,
+   "yil": [
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "ilk5": [
+    [
+     "D2",
+     12,
+     48,
+     40
+    ],
+    [
+     "O1",
+     8,
+     32,
+     50
+    ],
+    [
+     "D3",
+     2,
+     8,
+     0
+    ],
+    [
+     "K1",
+     2,
+     8,
+     0
+    ],
+    [
+     "D1",
+     1,
+     4,
+     10
+    ]
+   ],
+   "ilk5_pay": 100
+  },
+  "HUKUK": {
+   "n": 25,
+   "yil": [
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "ilk5": [
+    [
+     "D2",
+     7,
+     28,
+     50
+    ],
+    [
+     "O1",
+     5,
+     20,
+     10
+    ],
+    [
+     "D3",
+     5,
+     20,
+     30
+    ],
+    [
+     "D1",
+     4,
+     16,
+     10
+    ],
+    [
+     "K1",
+     2,
+     8,
+     0
+    ]
+   ],
+   "ilk5_pay": 92
+  },
+  "TEMEL": {
+   "n": 311,
+   "yil": [
+    63,
+    61,
+    71,
+    63,
+    53
+   ],
+   "ilk5": [
+    [
+     "O1",
+     66,
+     21,
+     18
+    ],
+    [
+     "D1",
+     46,
+     15,
+     12
+    ],
+    [
+     "O2",
+     43,
+     14,
+     15
+    ],
+    [
+     "K1",
+     34,
+     11,
+     7
+    ],
+    [
+     "D2",
+     23,
+     7,
+     4
+    ]
+   ],
+   "ilk5_pay": 68
+  },
+  "ALT": {
+   "n": 58,
+   "yil": [
+    7,
+    12,
+    5,
+    13,
+    21
+   ],
+   "ilk5": [
+    [
+     "O1",
+     11,
+     19,
+     15
+    ],
+    [
+     "D1",
+     11,
+     19,
+     18
+    ],
+    [
+     "K1",
+     9,
+     16,
+     12
+    ],
+    [
+     "D2",
+     7,
+     12,
+     15
+    ],
+    [
+     "O2",
+     6,
+     10,
+     12
+    ]
+   ],
+   "ilk5_pay": 76
+  },
+  "KAÇAKÇILIK": {
+   "n": 26,
+   "yil": [
+    10,
+    7,
+    3,
+    3,
+    3
+   ],
+   "ilk5": [
+    [
+     "O1",
+     8,
+     31,
+     17
+    ],
+    [
+     "D6",
+     4,
+     15,
+     17
+    ],
+    [
+     "Ö3",
+     3,
+     12,
+     17
+    ],
+    [
+     "D1",
+     3,
+     12,
+     17
+    ],
+    [
+     "D2",
+     3,
+     12,
+     17
+    ]
+   ],
+   "ilk5_pay": 81
+  },
+  "HESAP": {
+   "n": 5,
+   "yil": [
+    0,
+    0,
+    1,
+    1,
+    3
+   ],
+   "ilk5": [
+    [
+     "H6",
+     2,
+     40,
+     50
+    ],
+    [
+     "H8",
+     1,
+     20,
+     0
+    ],
+    [
+     "H4",
+     1,
+     20,
+     25
+    ],
+    [
+     "H7",
+     1,
+     20,
+     25
+    ]
+   ],
+   "ilk5_pay": 100
+  }
+ },
+ "bayrak": {
+  "F_DAYANAK": {
+   "yil": [
+    46,
+    43,
+    51,
+    53,
+    60
+   ],
+   "n": 253,
+   "son2": 113
+  },
+  "F_SERI": {
+   "yil": [
+    23,
+    39,
+    24,
+    39,
+    36
+   ],
+   "n": 161,
+   "son2": 75
+  },
+  "F_TUZAKVERI": {
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    3
+   ],
+   "n": 3,
+   "son2": 3
+  },
+  "F_MADDENO": {
+   "yil": [
+    3,
+    4,
+    7,
+    13,
+    11
+   ],
+   "n": 38,
+   "son2": 24
+  },
+  "F_MUTLAK": {
+   "yil": [
+    4,
+    6,
+    1,
+    5,
+    5
+   ],
+   "n": 21,
+   "son2": 10
+  },
+  "F_MATRIS": {
+   "yil": [
+    3,
+    7,
+    7,
+    8,
+    5
+   ],
+   "n": 30,
+   "son2": 13
+  },
+  "F_GUNCEL": {
+   "yil": [
+    1,
+    2,
+    0,
+    3,
+    3
+   ],
+   "n": 9,
+   "son2": 6
+  },
+  "F_YALNIZ": {
+   "yil": [
+    0,
+    2,
+    1,
+    3,
+    4
+   ],
+   "n": 10,
+   "son2": 7
+  },
+  "F_TUMU": {
+   "yil": [
+    3,
+    2,
+    2,
+    1,
+    3
+   ],
+   "n": 11,
+   "son2": 4
+  }
+ },
+ "bicim": {
+  "harf_resmi": {
+   "A": 62,
+   "B": 85,
+   "C": 87,
+   "D": 77,
+   "E": 89
+  },
+  "harf_resmi_yil": {
+   "2021": {
+    "A": 20,
+    "B": 18,
+    "C": 21,
+    "D": 19,
+    "E": 22
+   },
+   "2022": {
+    "A": 14,
+    "B": 19,
+    "C": 19,
+    "D": 23,
+    "E": 25
+   },
+   "2023": {
+    "A": 11,
+    "B": 20,
+    "C": 26,
+    "D": 23,
+    "E": 20
+   },
+   "2024": {
+    "A": 17,
+    "B": 28,
+    "C": 21,
+    "D": 12,
+    "E": 22
+   }
+  },
+  "harf_2025_turetilmis": {
+   "A": 12,
+   "B": 22,
+   "C": 23,
+   "D": 23,
+   "E": 20
+  },
+  "guven_2025": {
+   "yuksek": 86,
+   "dusuk": 3,
+   "orta": 11
+  },
+  "uzunluk_tum": {
+   "orta": 76,
+   "en_kisa": 31,
+   "en_uzun": 36
+  },
+  "n_uzunluk_tum": 143,
+  "uzunluk_O2O3": {
+   "orta": 30,
+   "en_kisa": 15,
+   "en_uzun": 9
+  },
+  "uzunluk_G": {
+   "en_uzun": 7,
+   "orta": 11,
+   "en_kisa": 4
+  },
+  "oncul_cevap": {
+   "ara": 20,
+   "tumu": 11,
+   "yalniz": 9
+  },
+  "oncul_sayisi": {
+   "3": 15,
+   "4": 17,
+   "5": 7
+  },
+  "O3_tumu": [
+   8,
+   22
+  ],
+  "hesap_harf_resmi": {
+   "B": 1,
+   "D": 1
+  },
+  "mat_harf_resmi": {
+   "A": 5,
+   "B": 4,
+   "C": 7,
+   "D": 2,
+   "E": 2
+  },
+  "D1_harf_resmi": {
+   "A": 7,
+   "B": 17,
+   "C": 13,
+   "D": 13,
+   "E": 4
+  },
+  "ardisik_ayni_harf_resmi": {
+   "2021": 12,
+   "2022": 18,
+   "2023": 19,
+   "2024": 16
+  },
+  "tartismali": [
+   [
+    2022,
+    83,
+    "E de savunulabilir: Tebliğ md.4/b 'sürekli görevli' kamu görevlisini sayar; ancak md.6 yalnız 24 ayı aşmayan geçici görevi dışladığından resmî D tutarlı."
+   ],
+   [
+    2022,
+    84,
+    "A ('bedelsiz araç ithalinde muafiyet') kaynakta genel hüküm olarak yok; md.68/3 motorlu araç muafiyetini sınırlar. İkinci yanlış adayı ama E kesin bozuk."
+   ],
+   [
+    2024,
+    5,
+    "E'deki 'gruplar' sözcüğü de topluluk adı (grup) sayılabilir; iki doğru şık ihtimali var."
+   ],
+   [
+    2025,
+    34,
+    "Kullanılmış taşıt kıymet kuralı kaynak metinlerde yok; oran ve başlangıç yılı yoruma açık. Model yılı esas alınırsa 6.000 (B)."
+   ],
+   [
+    2025,
+    50,
+    "Kaynaktaki 2025/10790 sayılı Karar metninde VI sayılı listenin adı 'Nihai Kullanım Uygulaması Kapsamında İndirimli Gümrük Vergisinden Faydalanacak Sivil Hava Taşıtlarında Kullanılmaya Mahsus Ürünler'; buna göre 5 de yanlış olur ve '2 ve 5' şıkkı yok. Cevap, sınav tarihindeki büyük olasılıkla eski başlığa ('Gümrük Vergisi Askıya Alınan …') göre türetildi."
+   ]
+  ],
+  "envanter_fark": [
+   [
+    2021,
+    86,
+    "B",
+    "A"
+   ],
+   [
+    2021,
+    95,
+    "C",
+    "E"
+   ],
+   [
+    2022,
+    83,
+    "E",
+    "D"
+   ],
+   [
+    2022,
+    87,
+    "D",
+    "B"
+   ],
+   [
+    2024,
+    47,
+    "B",
+    "C"
+   ],
+   [
+    2024,
+    85,
+    "D",
+    "B"
+   ],
+   [
+    2024,
+    100,
+    "D",
+    "A"
+   ]
+  ]
+ }
+}
