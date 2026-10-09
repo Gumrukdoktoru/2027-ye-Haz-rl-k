@@ -5,7 +5,7 @@ import re, sys, json, html, pathlib, collections
 XML, OUT = pathlib.Path(sys.argv[1]), pathlib.Path(sys.argv[2]); OUT.mkdir(parents=True, exist_ok=True)
 KIR = '⟦', '⟧'   # kırmızı metin işaretleri ⟦ ⟧
 ALTBILGI = re.compile(r'sayfaya geçiniz|MÜŞAVİR YARDIMCILI|Kitapçığı\s*$|TEST BİTTİ', re.I)
-KUYRUK = re.compile(r'\s*(GÜMRÜK MÜŞAVİR\b.*|TEST BİTTİ.*|[AB] Kitapçığı.*)$')
+KUYRUK = re.compile(r'\s*(GÜMRÜK MÜŞAVİR\b.*|YARDIMCILI\S*.*|TEST BİTTİ.*|[AB] Kitapçığı.*)$')
 TXT = re.compile(r'<text top="(-?\d+)" left="(-?\d+)" width="(\d+)" height="(\d+)" font="(\d+)">(.*?)</text>', re.S)
 
 def satirlar(xml):

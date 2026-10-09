@@ -24,7 +24,7 @@ add(['# 12 — SORU TİPİ KATALOĞU (GMY)', '', '## Gümrük Müşavir Yardımc
      '- Tipi, kökün son yüklemi ve şıkların biçimi belirler. Kök "yanlıştır" dese bile şıklar bir listenin kısa öğeleriyse soru O1\'dir, O2 değildir. Sınır durumlar Bölüm 4\'te.',
      '- "5 yıl" = 2021–2025 toplamı (500 soru). "24–25" = 2024 ve 2025 toplamı (200 soru); son eğilimi gösterir.',
      '- Alanlar: genel kültür (1–20) TÜRKÇE · MATEMATİK · TARİH · HUKUK (her biri 25); gümrük (21–100) TEMEL (GK, GY, 2009/15481 Karar) 311 · ALT (tebliğ, genelge, diğer yönetmelik/karar) 58 · KAÇAKÇILIK (5607 ve yönetmelikleri) 26 · HESAP 5.',
-     '- Cevap anahtarı: 2021–2024 kitapçıklarında doğru şık kırmızıyla işaretli (resmî anahtar, 400 soru). 2025 kitapçığı cevapsızdır; 2025 cevapları mevzuattan türetildi (100 soru: 86 yüksek, 11 orta, 3 düşük güven). Harf ve uzunluk istatistikleri yalnız resmî anahtarla hesaplandı.',
+     '- Cevap anahtarı: 2021–2024 kitapçıklarında doğru şık kırmızıyla işaretli (resmî anahtar, 400 soru). 2025 kitapçığı cevapsızdır; 2025 cevapları mevzuattan türetildi (100 soru: 86 yüksek, 11 orta, 3 düşük güven). Harf istatistikleri yalnız resmî anahtarla, doğru şık uzunluk konumu 2025 dahil 500 soru üzerinden hesaplandı.',
      '- Örnekler kitapçıktan aynen alındı; yalnız satır sonları birleştirildi. Doğru şık ✔ ile işaretlendi.', ''])
 add(['### Kod sözlüğü (özet)', '', '| Ana tip | Alt tipler |', '|---|---|',
      '| O Olumsuz kök | O1 Liste dışı eleman · O2 Bozuk cümle · O3 Çift olumsuz / ters kurgu · O4 Tarife olumsuz |',
