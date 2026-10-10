@@ -1760,32 +1760,33 @@
 },
 {
 "set": 3,
-"konu": "Silah-Mühimmat Tahsisi",
+"konu": "Tasfiye",
 "kalip": "SÜRE",
 "z": "O",
-"madde": "Silah-Mühimmat Tahsis Yön. 4/1, 5/1-2, 6/3",
-"cek": "Güncel listedeki eşya için kurumlar talebi bildirimden itibaren 3 iş günü içinde Komisyona iletir; Komisyon en geç 5 iş günü içinde karar verir.",
+"madde": "Tasfiye Yön. 40/1, 41/1",
+"cek": "İhale bedeli ihalenin tamamlanmasını izleyen yedi günde (bekletilmeyecek eşyada iki iş günü) ödenir; eşya ödemeyi izleyen on günde (üç gün) teslim alınır.",
 "kok": [
-"Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre; bir seferde çok sayıda eşya ele geçirilmesi hâli dışında, il jandarma komutanlığınca valilik kanalıyla bildirilen güncel listede yer alan eşya için kurumların tahsis taleplerini Komisyona iletme süresi ile bu taleplerin Komisyona ulaşmasından sonra Komisyonun toplanıp karar verme süresi sırasıyla aşağıdakilerin hangisinde doğru olarak verilmiştir?"
+"Açık artırma salonunda ihale yoluyla satışa çıkarılan ve bekletilmeyecek eşya niteliği taşımayan bir eşyanın ihalesi tamamlanmıştır.",
+"Tasfiye Yönetmeliği'ne göre alıcının ihale bedelini ödemesi ve ödemeyi izleyerek eşyayı bulunduğu yerden teslim alması için öngörülen süreler sırasıyla aşağıdakilerden hangisidir?"
 ],
-"d": "Bildirim tarihini müteakip 3 iş günü – En geç 5 iş günü",
+"d": "Yedi gün – on gün",
 "c": [
-"Bildirim tarihini müteakip 5 iş günü – En geç 3 iş günü",
-"Bildirim tarihini müteakip 3 iş günü – En geç 15 gün",
-"Bildirim tarihini müteakip 15 gün – En geç 5 iş günü",
-"Bildirim tarihini müteakip 5 iş günü – En geç 15 gün"
+"İki iş günü – üç gün",
+"Yedi gün – otuz gün",
+"On gün – on gün",
+"On beş gün – yedi gün"
 ],
-"g": "Yönetmeliğe göre tahsise konu olabilecek eşyaya ilişkin güncel listeler ayda bir valilik kanalıyla il jandarma komutanlığınca garnizon komutanlığı, emniyet müdürlüğü ve sahil güvenlik komutanlığına bildirilir; kurumlar tahsis taleplerini bildirim tarihini müteakip 3 iş günü içinde il valisinin başkanlığındaki tahsis Komisyonuna iletir. Listede yer alan eşyaya ilişkin talepler Komisyona ulaştıktan sonra Komisyon en geç 5 iş günü içinde toplanır ve karar verir. 3 iş günlük karar süresi yalnızca bir seferde çok sayıda eşya ele geçirilmesi üzerine listelerin ivedilikle güncellendiği durumda uygulanır; 15 günlük süre ise kriminal inceleme ve bilirkişi raporu gibi işlemlerin ele geçirme tarihinden itibaren tamamlanma süresidir. Bu nedenle doğru cevap C seçeneğidir. (MD Silah-Mühimmat Tahsis Yön. 4/1, 5/1-2, 6/3)",
-"kanit": "milli_savunma_veya_ic_guvenlik_hizmetleriyle_dogrudan_ilgili_silah_muhimmat_arac_ve_gerec_ile_sarf_malzem.txt | Kurumlar tarafından tahsis talepleri bildirim tarihini müteakip 3 iş günü içerisinde Komisyona iletilir.",
+"g": "Tasfiye Yönetmeliği'ne göre ihalenin tamamlanmasını izleyen yedi gün içinde, bekletilmeyecek eşyada ise iki iş günü içinde ihale bedelinin ödenmesi zorunludur; bu süre içinde ödenmezse satış bozularak teminat döner sermayeye gelir kaydedilir. Eşyanın, ihale bedelinin ödenmesini izleyen on gün, bekletilmeyecek eşyada ise üç gün içinde alıcı tarafından bulunduğu yerden teslim alınması zorunludur. Otuz günlük süre, yeniden ihraç amacıyla satılan eşyanın ihale bedelinin ödendiği tarihten itibaren gümrük müdürlüğünün denetiminde yurt dışı edilmesine ilişkindir. Olaydaki eşya bekletilmeyecek eşya olmadığından iki iş günü ve üç günlük süreler uygulanmaz. Bu nedenle doğru cevap C seçeneğidir. (MD Tasfiye Yön. 40/1, 41/1)",
+"kanit": "43-tasfiye.txt | İhalenin tamamlanmasını izleyen yedi gün içinde, bekletilmeyecek eşyada iki iş günü içinde ihale bedelinin ödenmesi zorunludur.",
 "cikmis": "",
 "batch": "G8",
 "bidx": 2,
 "opts": [
-"Bildirim tarihini müteakip 5 iş günü – En geç 3 iş günü",
-"Bildirim tarihini müteakip 3 iş günü – En geç 15 gün",
-"Bildirim tarihini müteakip 3 iş günü – En geç 5 iş günü",
-"Bildirim tarihini müteakip 15 gün – En geç 5 iş günü",
-"Bildirim tarihini müteakip 5 iş günü – En geç 15 gün"
+"İki iş günü – üç gün",
+"Yedi gün – otuz gün",
+"Yedi gün – on gün",
+"On gün – on gün",
+"On beş gün – yedi gün"
 ],
 "harf": "C",
 "no": 52,
@@ -2677,30 +2678,30 @@
 "konu": "İhracat",
 "kalip": "OLAY",
 "z": "Z",
-"madde": "Bedelsiz İhracat Tebliği (İhracat 2008/12) 2/1-b, 3/2, 3/4, 6, 8",
-"cek": "Garanti kapsamında bedelsiz gönderilen parçalar 250.000 ABD Doları ve üzerindeyse başvuru Bedelsiz İhracat Formuyla İhracatçı Birlikleri Genel Sekreterliğine yapılır.",
+"madde": "Hariçte İşleme-Geçici İhracat Seri No:1 m.6/1-3, 9/4, 17/1",
+"cek": "Geçici çıkarılan taşıt arıza gibi mücbir sebeple üç yılda getirilemezse, belgeler uygunsa başvuru süre sonrasında yapılsa da gümrük müdürlüğünce yeteri kadar ek süre verilir.",
 "kok": [
-"(M) Makine A.Ş., daha önce usulüne uygun olarak ihraç ettiği ve garantili olarak sattığı makinelerin garanti süresi içinde yenilenmesi gereken parçalarını, karşılığında yurt dışından bir ödeme yapılmaksızın yurt dışındaki alıcısına göndermek istemektedir. Gönderilecek parçaların değeri 300.000 ABD Dolarıdır.",
-"Bedelsiz İhracata İlişkin Tebliğ (İhracat 2008/12)'ye göre bu işleme ilişkin aşağıdakilerden hangisi doğrudur?"
+"(K), Türk plakalı tır çekicisini uluslararası taşımada kullanmak üzere Türkiye Gümrük Bölgesinden geçici olarak çıkarmıştır. Araç yurt dışında arızalanarak tamire alınmış ve üç yıllık kanuni süre içinde Türkiye'ye geri getirilememiştir. (K), kanuni süre dolduktan iki hafta sonra, aracın tamir amacıyla bakıma alındığını gösteren belgenin noter onaylı Türkçe tercümesini ekleyerek ilgili gümrük müdürlüğüne yazılı olarak süre uzatımı talebinde bulunmuştur.",
+"Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre bu talep hakkında aşağıdakilerden hangisi doğrudur?"
 ],
-"d": "İzin başvurusu, Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliğine yapılır.",
+"d": "Belgeler uygun bulunursa, başvurunun kanuni süre geçtikten sonra yapılmış olmasına bakılmaksızın gümrük müdürlüğünce yeteri kadar ek süre verilir.",
 "c": [
-"Değeri ne olursa olsun izin başvurusu doğrudan ilgili gümrük idaresine yapılır.",
-"Verilecek bedelsiz ihraç izni iki yıl süreyle geçerlidir.",
-"Bedelsiz ihraç edilen parçalar ihracatta uygulanan desteklerden yararlandırılır.",
-"Bu kapsamdaki bedelsiz ihracatta firmanın İhracatçı Birliğine üye olma şartı aranmaz."
+"Süre uzatımı ancak kanuni süre bitmeden başvurulması hâlinde mümkün olduğundan talep reddedilir.",
+"Talep gümrük müdürlüğünce değil, Gümrükler Genel Müdürlüğünce incelenerek sonuçlandırılır.",
+"Aracın arızalanması Tebliğde sayılan beklenmeyen hâller arasında yer almadığından ek süre verilemez.",
+"Ek süre verilebilir; ancak verilecek süre üç yıllık kanuni sürenin yarısını aşamaz."
 ],
-"g": "Bedelsiz İhracata İlişkin Tebliğ'e göre garantili olarak ihraç edilen malların garanti süresi içinde yenilenmesi gereken parçaları bedelsiz ihraç edilebilir. Bu tür mallardan değeri 250.000 ABD Doları ve üzeri olanların izin başvuruları Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliklerine yapılır; doğrudan gümrük idaresine başvuru 250.000 ABD Dolarına kadar olanlar içindir. Bedelsiz ihraç izinleri bir yıl geçerlidir, bedelsiz ihracata konu mal ihracat desteklerinden yararlandırılmaz ve İhracatçı Birliğine üyelik şartının aranmadığı hâller arasında garanti parçalarının gönderilmesi sayılmamıştır. Bu nedenle doğru cevap A seçeneğidir. (MD Bedelsiz İhracat Tebliği 2/1-b, 3/1, 3/2, 3/4, 6, 8)",
-"kanit": "36-ihracat.txt | değeri 250.000 (ikiyüzellibin) ABD Doları ve üzeri olanların bedelsiz ihracat izni başvuruları ise, ekteki Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliklerine yapılır.",
+"g": "Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre geçici olarak Türkiye Gümrük Bölgesi dışına çıkarılan taşıtların Gümrük Kanunu'nda belirtilen üç yıllık kanuni süre içinde yurt dışında ağır hasar görmesi, el konulması, arızalanması, sürücünün tutuklanması veya hastalanması, doğal afet ya da iç karışıklık gibi beklenmeyen hâller veya mücbir sebeplerle geri getirilememesi hâlinde, ilgilinin yazılı talebi üzerine ilgili gümrük müdürlüğünce süre uzatımı yapılır. Araç arızalanmışsa dilekçeye tamir amacıyla bakıma alındığına ilişkin belgeler, noter veya yurt dışı temsilciliklerince onaylı Türkçe tercümesiyle eklenir. İbraz edilen belgeler uygun bulunursa müracaatın kanuni süre içinde yapılıp yapılmadığına ve mücbir sebep belgesinin tarihine bakılmaksızın yeteri kadar ek süre verilir. Süre bitiminden önce başvurma koşulu Tebliğde süre uzatımı ayrıca düzenlenmeyen geçici ihracat işlemleri ile kiralama yoluyla ihracatta aranır; taşıtlar için aranmaz. Verilecek ek süre için kanuni sürenin yarısı gibi bir üst sınır da öngörülmemiştir. Bu nedenle doğru cevap A seçeneğidir. (MD Hariçte İşleme-Geçici İhracat Seri No:1 m.6/1-3, 9/4, 17/1)",
+"kanit": "36-ihracat.txt | İbraz edilen belgelerin gümrük müdürlüğünce uygun bulunması halinde, müracaatın kanuni süre içinde yapılıp yapılmadığına ve mücbir sebep belgesinin tarihine bakılmaksızın yeteri kadar ek süre verilir.",
 "cikmis": "",
 "batch": "G4",
 "bidx": 9,
 "opts": [
-"İzin başvurusu, Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliğine yapılır.",
-"Değeri ne olursa olsun izin başvurusu doğrudan ilgili gümrük idaresine yapılır.",
-"Verilecek bedelsiz ihraç izni iki yıl süreyle geçerlidir.",
-"Bedelsiz ihraç edilen parçalar ihracatta uygulanan desteklerden yararlandırılır.",
-"Bu kapsamdaki bedelsiz ihracatta firmanın İhracatçı Birliğine üye olma şartı aranmaz."
+"Belgeler uygun bulunursa, başvurunun kanuni süre geçtikten sonra yapılmış olmasına bakılmaksızın gümrük müdürlüğünce yeteri kadar ek süre verilir.",
+"Süre uzatımı ancak kanuni süre bitmeden başvurulması hâlinde mümkün olduğundan talep reddedilir.",
+"Talep gümrük müdürlüğünce değil, Gümrükler Genel Müdürlüğünce incelenerek sonuçlandırılır.",
+"Aracın arızalanması Tebliğde sayılan beklenmeyen hâller arasında yer almadığından ek süre verilemez.",
+"Ek süre verilebilir; ancak verilecek süre üç yıllık kanuni sürenin yarısını aşamaz."
 ],
 "harf": "A",
 "no": 79,

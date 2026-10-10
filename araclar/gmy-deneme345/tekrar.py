@@ -10,6 +10,7 @@ for S in (3,4,5):
         yeni.append((q['id'],q['cek'],q.get('kok',''),tok(q['cek'])))
 eski=[]
 for l in open(HAFIZA):
+    if re.match(r'GMY[345]-',l): continue
     p=[x.strip() for x in l.split('|')]
     if len(p)>=8 and re.match(r'(KAR|GMY)',p[0]): eski.append((p[0],p[3],tok(p[3])))
 print('eski',len(eski),'yeni',len(yeni))

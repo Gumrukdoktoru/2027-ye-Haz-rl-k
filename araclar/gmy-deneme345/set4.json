@@ -2476,29 +2476,29 @@
 "konu": "İhracat",
 "kalip": "SÜRE",
 "z": "K",
-"madde": "İhracat Yönetmeliği 9/5",
-"cek": "Konsinye gönderilen malın kesin satışı ihraç tarihinden itibaren bir yıl içinde yapılır; İhracatçı Birlikleri Genel Sekreterliği bu süreyi iki yıl daha uzatabilir.",
+"madde": "Hariçte İşleme-Geçici İhracat Seri No:1 m.7/1-3; GK 167/5-f",
+"cek": "Geçici çıkarılan ticari olmayan eşya üç yılda değiştirilmeden getirilir, mücbir sebeple gümrük müdürlüğünce uzatılabilir; ev eşyası süre kısıtlamasına tabi değildir.",
 "kok": [
-"İhracat Yönetmeliğine göre konsinye olarak gönderilen malın kesin satışının ihraç tarihinden itibaren ne kadar süre içinde yapılması gerekir ve bu süre, haklı ve zorunlu nedenlere istinaden müracaat edilmesi hâlinde izni veren İhracatçı Birlikleri Genel Sekreterliğince ne kadar daha uzatılabilir?"
+"Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre, geri getirilmek üzere Türkiye Gümrük Bölgesi dışına geçici olarak çıkarılan ticari nitelikte olmayan eşyanın geri getirilme süresine ilişkin aşağıdakilerden hangisi doğrudur?"
 ],
-"d": "Bir yıl / iki yıl",
+"d": "Eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası ise süre kısıtlamasına tabi değildir.",
 "c": [
-"Bir yıl / bir yıl",
-"Altı ay / bir yıl",
-"İki yıl / bir yıl",
-"Yüz yirmi gün / altı ay"
+"Eşyanın iki yıl içinde değiştirilmeksizin geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası da bu süreye tabidir.",
+"Eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır; bu süre mücbir sebep hâlinde dahi uzatılamaz.",
+"Eşyanın bir yıl içinde geri getirilmesi esastır; bu süre ancak Ticaret Bakanlığınca uzatılabilir.",
+"Eşyanın üç yıl içinde geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası için bu süre altı aydır."
 ],
-"g": "İhracat Yönetmeliğine göre konsinye olarak gönderilen malın ihraç tarihinden itibaren bir yıl içinde kesin satışının yapılması gerekir; bu süre haklı ve zorunlu nedenlere istinaden müracaat edilmesi hâlinde izni veren İhracatçı Birlikleri Genel Sekreterliğince iki yıl daha uzatılabilir. Yüz yirmi gün, kesin satıştan sonra durumun İhracatçı Birlikleri Genel Sekreterliğine ve aracı bankaya bildirilmesi için öngörülen süredir; basitleştirilmiş gümrük beyannamesiyle yapılan konsinye ihracatta ise bir yıllık süre uzatılmaz. Bu nedenle doğru cevap D seçeneğidir. (MD İhracat Yönetmeliği 9/3, 9/5, 9/7)",
-"kanit": "36-ihracat.txt | Konsinye olarak gönderilen malın ihraç tarihinden itibaren bir yıl içinde kesin satışının yapılması gerekir. Bu süre, haklı ve zorunlu nedenlere istinaden müracaat edilmesi halinde, izni veren İhracatçı Birlikleri Genel Sekreterliğince iki yıl daha uzatılabilir.",
+"g": "Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre geçici olarak Türkiye Gümrük Bölgesi dışına çıkarılan ticari nitelikte olmayan eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır. Doğal afet, iç karışıklık, abluka veya savaş hâli, resmî makamlarca getirilen yasaklar ya da eşyanın alıkonulması gibi beklenmeyen hâller veya mücbir sebeplerde bu süre, ilgilinin yazılı talebi üzerine ilgili gümrük müdürlüğünce uzatılabilir; uzatma yetkisi Bakanlığa değil gümrük müdürlüğüne aittir. Geri getirilmek üzere çıkarılan ev eşyası ise süre kısıtlamasına tabi değildir; bu eşyanın giriş işlemleri Gümrük Kanunu'nun, Türkiye Gümrük Bölgesinden geçici olarak çıkan gerçek kişilerin geri getirdiği kullanılmış ev eşyasına gümrük vergilerinden muafiyet tanıyan hükmü çerçevesinde sonuçlandırılır. Altı aylık süre ev eşyasının geri getirilme süresi değildir; 2009/15481 sayılı Karara göre muafiyet için ev eşyasının kişinin Türkiye Gümrük Bölgesine dönüş tarihinden itibaren getirilmesi gereken süredir. Bu nedenle doğru cevap D seçeneğidir. (MD Hariçte İşleme-Geçici İhracat Seri No:1 m.7/1-3; GK 167/5-f)",
+"kanit": "36-ihracat.txt | Geri getirilmek üzere Türkiye Gümrük Bölgesi dışına çıkarılan ev eşyası süre kısıtlamasına tabi değildir.",
 "cikmis": "",
 "batch": "G4",
 "bidx": 13,
 "opts": [
-"Bir yıl / bir yıl",
-"Altı ay / bir yıl",
-"İki yıl / bir yıl",
-"Bir yıl / iki yıl",
-"Yüz yirmi gün / altı ay"
+"Eşyanın iki yıl içinde değiştirilmeksizin geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası da bu süreye tabidir.",
+"Eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır; bu süre mücbir sebep hâlinde dahi uzatılamaz.",
+"Eşyanın bir yıl içinde geri getirilmesi esastır; bu süre ancak Ticaret Bakanlığınca uzatılabilir.",
+"Eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası ise süre kısıtlamasına tabi değildir.",
+"Eşyanın üç yıl içinde geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası için bu süre altı aydır."
 ],
 "harf": "D",
 "no": 73,
@@ -2613,29 +2613,29 @@
 "konu": "İhracat",
 "kalip": "EŞLEŞTİRME",
 "z": "O",
-"madde": "İhracat Yönetmeliği 9/1, 10/4, 14/1, 15/1, 15/2",
-"cek": "Haklı ve zorunlu nedenlerle alıcısına teslim edilemeyen mallara ilişkin ihracat talepleri ile terk talepleri Bakanlıkça (İhracat Genel Müdürlüğü) sonuçlandırılır.",
+"madde": "Hariçte İşleme-Geçici İhracat Seri No:1 m.9/2, 10/1, 11/1-2, 12/1, 15/1",
+"cek": "Sergi-fuar eşyasında kesin satış faturası aranmaz, proforma fatura veya sevk irsaliyesi eklenir; finansal kiralamada onaylı beyanname izin hükmündedir.",
 "kok": [
-"İhracat Yönetmeliğine göre ihracata ilişkin talep ile bu talebi sonuçlandıran merci eşleştirmelerinden hangisi yanlıştır?"
+"Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre Türkiye Gümrük Bölgesinden geçici olarak çıkarılan eşya ile bu eşyaya ilişkin işlem eşleştirmelerinden hangisi yanlıştır?"
 ],
-"d": "Yanma veya çalınma gibi haklı ve zorunlu nedenlerle alıcısına teslim edilemeyen mallara ilişkin ihracat talebi – Gümrük idaresi",
+"d": "Yurt dışındaki sergi ve fuarlarda gösterilecek eşya – Beyannameye kesin satış faturası eklenmesi zorunludur",
 "c": [
-"Alıcısı tarafından kabul edilmeyen mallar karşılığında aynı bedel ve şartlarla mal ihracına ilişkin talep – Gümrük idaresi",
-"Konsinye ihracat başvurusu – İhracatçı Birlikleri Genel Sekreterliği",
-"Geri getirilmesinde ekonomik yarar görülmeyen malların terk edilmesine ilişkin talep – Bakanlık (İhracat Genel Müdürlüğü)",
-"Uluslararası ticari fuarda sergilenmek üzere yurt dışına çıkarılan malın kesin satışına ilişkin talep – Gümrük idaresi"
+"Finansal kiralama yoluyla ihraç edilecek eşya – Gümrük müdürlüğünce onaylanan beyanname izin hükmündedir",
+"Mülkiyeti kiraya verene ait olmayan ticari kiralama konusu eşya – Noterde tanzim ettirilmiş muvafakatname ibraz edilir",
+"Lisanslı radyoaktif cihaz – Türkiye Atom Enerjisi Kurumunun gümrük giriş-çıkış izni formu aranır",
+"Tebliğde ayrıca düzenlenmeyen diğer geçici çıkış eşyası – Marka, seri numarası ve model yılı gibi ayırt edici özellikler beyannameye kaydedilir"
 ],
-"g": "İhracat Yönetmeliğine göre konsinye ihracat başvuruları İhracatçı Birlikleri Genel Sekreterliğine yapılır ve bu birimce sonuçlandırılır. Alıcısı tarafından kabul edilmeyen mallar karşılığında aynı bedel ve şartlarla mal ihracına ilişkin talepler ile uluslararası ticari fuar ve sergilerde sergilenen malların kesin satışına ilişkin talepler gümrük idarelerince sonuçlandırılır. Yanma, çalınma gibi haklı ve zorunlu nedenlerle alıcısına teslim edilemeyen mallara ilişkin ihracat talepleri ile geri getirilmesinde ekonomik yarar görülmeyen malların terkine ilişkin talepler ise gümrük idaresince değil, Bakanlıkça (İhracat Genel Müdürlüğü) sonuçlandırılır. Bu nedenle doğru cevap C seçeneğidir. (MD İhracat Yönetmeliği 9/1, 10/4, 14/1, 15/1, 15/2)",
-"kanit": "36-ihracat.txt | Yanma, çalınma gibi haklı ve zorunlu nedenlerle alıcısına teslim edilemeyen mallara ilişkin ihracat talepleri, durumu gösteren belgelere dayanılarak Bakanlıkça",
+"g": "Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre yurt dışındaki sergi ve fuarlarda gösterilmek üzere geçici olarak çıkarılacak eşya gümrük beyannamesiyle beyan edilir; eşyanın ayırt edici özellikleri, özel işaretleri ve sergi veya fuarın adı beyannameye kaydedilir ve kesin satış faturası aranmayarak proforma fatura veya sevk irsaliyesinin beyannameye eklenmesi sağlanır. Bu nedenle kesin satış faturasını zorunlu tutan eşleştirme yanlıştır. Finansal kiralama yoluyla yapılacak ihracatta gümrük müdürlüğünce onaylanan beyanname izin hükmündedir; mülkiyeti kiraya verene ait olmayan ticari kiralama konusu eşya için noterde tanzim ettirilmiş muvafakatname ibraz edilir; lisanslı radyoaktif cihazların geçici ihracında Türkiye Atom Enerjisi Kurumundan alınan Lisanslı Cihazlar İçin Gümrük Giriş-Çıkış İzni formu aranır; Tebliğde düzenlenmeyen diğer geçici çıkışlarda eşyanın marka, seri numarası, model yılı gibi ayırt edici özellikleri beyannameye kaydedilir. Bu nedenle doğru cevap C seçeneğidir. (MD Hariçte İşleme-Geçici İhracat Seri No:1 m.9/2, 10/1, 11/1-2, 12/1, 15/1)",
+"kanit": "36-ihracat.txt | Bu eşyaya ilişkin kesin satış faturası aranmayarak proforma fatura veya sevk irsaliyesinin beyannameye eklenmesi sağlanır.",
 "cikmis": "",
 "batch": "G4",
 "bidx": 17,
 "opts": [
-"Alıcısı tarafından kabul edilmeyen mallar karşılığında aynı bedel ve şartlarla mal ihracına ilişkin talep – Gümrük idaresi",
-"Konsinye ihracat başvurusu – İhracatçı Birlikleri Genel Sekreterliği",
-"Yanma veya çalınma gibi haklı ve zorunlu nedenlerle alıcısına teslim edilemeyen mallara ilişkin ihracat talebi – Gümrük idaresi",
-"Geri getirilmesinde ekonomik yarar görülmeyen malların terk edilmesine ilişkin talep – Bakanlık (İhracat Genel Müdürlüğü)",
-"Uluslararası ticari fuarda sergilenmek üzere yurt dışına çıkarılan malın kesin satışına ilişkin talep – Gümrük idaresi"
+"Finansal kiralama yoluyla ihraç edilecek eşya – Gümrük müdürlüğünce onaylanan beyanname izin hükmündedir",
+"Mülkiyeti kiraya verene ait olmayan ticari kiralama konusu eşya – Noterde tanzim ettirilmiş muvafakatname ibraz edilir",
+"Yurt dışındaki sergi ve fuarlarda gösterilecek eşya – Beyannameye kesin satış faturası eklenmesi zorunludur",
+"Lisanslı radyoaktif cihaz – Türkiye Atom Enerjisi Kurumunun gümrük giriş-çıkış izni formu aranır",
+"Tebliğde ayrıca düzenlenmeyen diğer geçici çıkış eşyası – Marka, seri numarası ve model yılı gibi ayırt edici özellikler beyannameye kaydedilir"
 ],
 "harf": "C",
 "no": 77,

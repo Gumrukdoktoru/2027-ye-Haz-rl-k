@@ -59,3 +59,11 @@
 - set4/65 [batch_G2.py #15]: madde ve gerekçeye GK 241/4-h ekle; kök "4458 sayılı Gümrük Kanunu ve Dahilde İşleme Rejimi Tebliği'ne göre" olabilir.
 - set4/84 [batch_G6.py #14]: gerekçeden "süresinde başvurulmazsa usulsüzlük cezası uygulanır" ibaresini sil.
 - set4/58 [batch_G8.py #18]: köke "brüt ağırlığı 1 kg olan" gibi 30 kg sınırını karşılayan bir ifade ekle.
+
+## Kapsam düzeltmesi (10 Ekim 2026, kullanıcı geri bildirimi)
+GMY sınavının gümrük bölümü Gümrük Yönetmeliği m.567/2'ye göre yalnızca Gümrük Kanunu ve ikincil düzenlemeleri ile 5607 sayılı Kanun ve ikincil düzenlemelerinden sorulur. Kapsam dışı 4 soru yenisiyle değiştirildi (cevap harfleri aynı kaldı):
+- GMY3-052: Silah-Mühimmat Tahsis Yönetmeliği (dayanağı 6136 s. Kanun) → Tasfiye Yönetmeliği'nde ihale bedelinin ödenmesi ve eşyanın teslim alınması süreleri.
+- GMY3-079: Bedelsiz İhracat Tebliği (İhracat 2008/12) → Hariçte İşleme-Geçici İhracat Tebliği'nde geçici çıkarılan taşıtın süre uzatımı.
+- GMY4-073: İhracat Yönetmeliği (konsinye ihracat) → aynı Tebliğde ticari nitelikte olmayan eşya ve ev eşyasının geri getirilme süresi.
+- GMY4-077: İhracat Yönetmeliği (teslim edilemeyen mallar) → aynı Tebliğde geçici çıkış türleri ve işlem eşleştirmesi.
+Yeni sorular ayrı bir doğrulayıcıdan geçti; bulunan bir gerekçe atfı (ev eşyası → GK 167/5-f) düzeltildi.

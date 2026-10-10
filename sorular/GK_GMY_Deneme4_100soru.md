@@ -727,13 +727,13 @@ C) 3 ay
 D) 9 ay  
 E) 1 yıl  
 
-**73-** İhracat Yönetmeliğine göre konsinye olarak gönderilen malın kesin satışının ihraç tarihinden itibaren ne kadar süre içinde yapılması gerekir ve bu süre, haklı ve zorunlu nedenlere istinaden müracaat edilmesi hâlinde izni veren İhracatçı Birlikleri Genel Sekreterliğince ne kadar daha uzatılabilir?
+**73-** Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre, geri getirilmek üzere Türkiye Gümrük Bölgesi dışına geçici olarak çıkarılan ticari nitelikte olmayan eşyanın geri getirilme süresine ilişkin aşağıdakilerden hangisi doğrudur?
 
-A) Bir yıl / bir yıl  
-B) Altı ay / bir yıl  
-C) İki yıl / bir yıl  
-D) Bir yıl / iki yıl  
-E) Yüz yirmi gün / altı ay  
+A) Eşyanın iki yıl içinde değiştirilmeksizin geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası da bu süreye tabidir.  
+B) Eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır; bu süre mücbir sebep hâlinde dahi uzatılamaz.  
+C) Eşyanın bir yıl içinde geri getirilmesi esastır; bu süre ancak Ticaret Bakanlığınca uzatılabilir.  
+D) Eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası ise süre kısıtlamasına tabi değildir.  
+E) Eşyanın üç yıl içinde geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası için bu süre altı aydır.  
 
 **74-** Gemlik Gümrük Müdürlüğünde transit rejimine tabi tutulan serbest dolaşımda olmayan eşya Habur Gümrük Müdürlüğüne sevk edilmiştir. Eşya ve gerekli belgeler süresi içinde Habur Gümrük Müdürlüğüne sunulmuş; bu idare aynı gün varış bilgisi mesajını, ertesi iş günü de kontrol sonuçları mesajını Gemlik Gümrük Müdürlüğüne göndermiştir. Gemlik Gümrük Müdürlüğü, kendisindeki bilgi ve belgeler ile Habur Gümrük Müdürlüğünden gelen bilgileri karşılaştırarak rejimin usulüne uygun olarak sonlandırıldığını belirlemiş ve teminatı serbest bırakmıştır.
 
@@ -766,13 +766,13 @@ C) Çekiciler ile ağır veya havaleli eşya taşıyan taşıtlar için taşıt 
 D) Belgenin yenilenmesi için geçerlilik süresinin bitimine en fazla otuz gün kala belgeyi düzenleyen gümrük idaresine başvurulur.  
 E) Taşıt onay belgesi en fazla iki defa yenilenebilir.  
 
-**77-** İhracat Yönetmeliğine göre ihracata ilişkin talep ile bu talebi sonuçlandıran merci eşleştirmelerinden hangisi yanlıştır?
+**77-** Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre Türkiye Gümrük Bölgesinden geçici olarak çıkarılan eşya ile bu eşyaya ilişkin işlem eşleştirmelerinden hangisi yanlıştır?
 
-A) Alıcısı tarafından kabul edilmeyen mallar karşılığında aynı bedel ve şartlarla mal ihracına ilişkin talep – Gümrük idaresi  
-B) Konsinye ihracat başvurusu – İhracatçı Birlikleri Genel Sekreterliği  
-C) Yanma veya çalınma gibi haklı ve zorunlu nedenlerle alıcısına teslim edilemeyen mallara ilişkin ihracat talebi – Gümrük idaresi  
-D) Geri getirilmesinde ekonomik yarar görülmeyen malların terk edilmesine ilişkin talep – Bakanlık (İhracat Genel Müdürlüğü)  
-E) Uluslararası ticari fuarda sergilenmek üzere yurt dışına çıkarılan malın kesin satışına ilişkin talep – Gümrük idaresi  
+A) Finansal kiralama yoluyla ihraç edilecek eşya – Gümrük müdürlüğünce onaylanan beyanname izin hükmündedir  
+B) Mülkiyeti kiraya verene ait olmayan ticari kiralama konusu eşya – Noterde tanzim ettirilmiş muvafakatname ibraz edilir  
+C) Yurt dışındaki sergi ve fuarlarda gösterilecek eşya – Beyannameye kesin satış faturası eklenmesi zorunludur  
+D) Lisanslı radyoaktif cihaz – Türkiye Atom Enerjisi Kurumunun gümrük giriş-çıkış izni formu aranır  
+E) Tebliğde ayrıca düzenlenmeyen diğer geçici çıkış eşyası – Marka, seri numarası ve model yılı gibi ayırt edici özellikler beyannameye kaydedilir  
 
 **78-** I. Havayolu, boru hattı, demiryolu ve denizyolu ile yapılan taşımalar için yönetmelikle belirlenen haller dışında teminat aranmaz.
 
@@ -2091,18 +2091,18 @@ E) 1 yıl
 **Doğru Cevap:** B  
 **Gerekçe:** Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre hareket gümrük idaresi, eşyanın varış gümrük idaresine sunulması için verilen süre sınırından itibaren en geç 6 ay içinde araştırma usulünün sonucuna karar verir; elde edilen bilgi ve kanıtlara göre rejim ibra edilir veya tahsilat usulüne geçilir. Yirmi sekiz gün araştırmaya cevap verilmesi için öngörülen süre, dokuz ay ise ibra edilmeyen rejimin kefile bildirilmesi için öngörülen süredir. Bu nedenle doğru cevap B seçeneğidir. (MD Transit Seri No 4 45/3, 49/1, 53/1)
 
-*İhracat Yönetmeliği 9/5*
+*Hariçte İşleme-Geçici İhracat Seri No:1 m.7/1-3; GK 167/5-f*
 
-**73-** İhracat Yönetmeliğine göre konsinye olarak gönderilen malın kesin satışının ihraç tarihinden itibaren ne kadar süre içinde yapılması gerekir ve bu süre, haklı ve zorunlu nedenlere istinaden müracaat edilmesi hâlinde izni veren İhracatçı Birlikleri Genel Sekreterliğince ne kadar daha uzatılabilir?
+**73-** Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre, geri getirilmek üzere Türkiye Gümrük Bölgesi dışına geçici olarak çıkarılan ticari nitelikte olmayan eşyanın geri getirilme süresine ilişkin aşağıdakilerden hangisi doğrudur?
 
-A) Bir yıl / bir yıl  
-B) Altı ay / bir yıl  
-C) İki yıl / bir yıl  
-D) Bir yıl / iki yıl  
-E) Yüz yirmi gün / altı ay  
+A) Eşyanın iki yıl içinde değiştirilmeksizin geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası da bu süreye tabidir.  
+B) Eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır; bu süre mücbir sebep hâlinde dahi uzatılamaz.  
+C) Eşyanın bir yıl içinde geri getirilmesi esastır; bu süre ancak Ticaret Bakanlığınca uzatılabilir.  
+D) Eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası ise süre kısıtlamasına tabi değildir.  
+E) Eşyanın üç yıl içinde geri getirilmesi esastır; geri getirilmek üzere çıkarılan ev eşyası için bu süre altı aydır.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** İhracat Yönetmeliğine göre konsinye olarak gönderilen malın ihraç tarihinden itibaren bir yıl içinde kesin satışının yapılması gerekir; bu süre haklı ve zorunlu nedenlere istinaden müracaat edilmesi hâlinde izni veren İhracatçı Birlikleri Genel Sekreterliğince iki yıl daha uzatılabilir. Yüz yirmi gün, kesin satıştan sonra durumun İhracatçı Birlikleri Genel Sekreterliğine ve aracı bankaya bildirilmesi için öngörülen süredir; basitleştirilmiş gümrük beyannamesiyle yapılan konsinye ihracatta ise bir yıllık süre uzatılmaz. Bu nedenle doğru cevap D seçeneğidir. (MD İhracat Yönetmeliği 9/3, 9/5, 9/7)
+**Gerekçe:** Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre geçici olarak Türkiye Gümrük Bölgesi dışına çıkarılan ticari nitelikte olmayan eşyanın üç yıl içinde değiştirilmeksizin geri getirilmesi esastır. Doğal afet, iç karışıklık, abluka veya savaş hâli, resmî makamlarca getirilen yasaklar ya da eşyanın alıkonulması gibi beklenmeyen hâller veya mücbir sebeplerde bu süre, ilgilinin yazılı talebi üzerine ilgili gümrük müdürlüğünce uzatılabilir; uzatma yetkisi Bakanlığa değil gümrük müdürlüğüne aittir. Geri getirilmek üzere çıkarılan ev eşyası ise süre kısıtlamasına tabi değildir; bu eşyanın giriş işlemleri Gümrük Kanunu'nun, Türkiye Gümrük Bölgesinden geçici olarak çıkan gerçek kişilerin geri getirdiği kullanılmış ev eşyasına gümrük vergilerinden muafiyet tanıyan hükmü çerçevesinde sonuçlandırılır. Altı aylık süre ev eşyasının geri getirilme süresi değildir; 2009/15481 sayılı Karara göre muafiyet için ev eşyasının kişinin Türkiye Gümrük Bölgesine dönüş tarihinden itibaren getirilmesi gereken süredir. Bu nedenle doğru cevap D seçeneğidir. (MD Hariçte İşleme-Geçici İhracat Seri No:1 m.7/1-3; GK 167/5-f)
 
 *GK 84/4-a, 84/4-b; Transit Seri No 4 40/1, 41/1*
 
@@ -2150,18 +2150,18 @@ E) Taşıt onay belgesi en fazla iki defa yenilenebilir.
 **Doğru Cevap:** E  
 **Gerekçe:** TIR İşlemleri Tebliği'ne göre taşıt onay belgesinin süresinin yurt dışında sona ermesi hâlinde belgeyi düzenleyen gümrük idaresince bir defaya mahsus olmak üzere otuz gün ek süre verilir; bir TIR taşıması sırasında geçerlilik süresi biten belge bu taşımanın sonuna kadar geçerli kabul edilir; yenileme için geçerlilik süresinin bitimine en fazla otuz gün kala başvurulur; çekiciler ile ağır veya havaleli eşya taşıyan taşıtlar için belge aranmaz. Taşıt onay belgesi en fazla iki defa değil, üç defa yenilenebilir. Bu nedenle doğru cevap E seçeneğidir. (MD TIR Seri No 1 16/1, 16/2, 16/3, 16/4, 18/2)
 
-*İhracat Yönetmeliği 9/1, 10/4, 14/1, 15/1, 15/2*
+*Hariçte İşleme-Geçici İhracat Seri No:1 m.9/2, 10/1, 11/1-2, 12/1, 15/1*
 
-**77-** İhracat Yönetmeliğine göre ihracata ilişkin talep ile bu talebi sonuçlandıran merci eşleştirmelerinden hangisi yanlıştır?
+**77-** Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre Türkiye Gümrük Bölgesinden geçici olarak çıkarılan eşya ile bu eşyaya ilişkin işlem eşleştirmelerinden hangisi yanlıştır?
 
-A) Alıcısı tarafından kabul edilmeyen mallar karşılığında aynı bedel ve şartlarla mal ihracına ilişkin talep – Gümrük idaresi  
-B) Konsinye ihracat başvurusu – İhracatçı Birlikleri Genel Sekreterliği  
-C) Yanma veya çalınma gibi haklı ve zorunlu nedenlerle alıcısına teslim edilemeyen mallara ilişkin ihracat talebi – Gümrük idaresi  
-D) Geri getirilmesinde ekonomik yarar görülmeyen malların terk edilmesine ilişkin talep – Bakanlık (İhracat Genel Müdürlüğü)  
-E) Uluslararası ticari fuarda sergilenmek üzere yurt dışına çıkarılan malın kesin satışına ilişkin talep – Gümrük idaresi  
+A) Finansal kiralama yoluyla ihraç edilecek eşya – Gümrük müdürlüğünce onaylanan beyanname izin hükmündedir  
+B) Mülkiyeti kiraya verene ait olmayan ticari kiralama konusu eşya – Noterde tanzim ettirilmiş muvafakatname ibraz edilir  
+C) Yurt dışındaki sergi ve fuarlarda gösterilecek eşya – Beyannameye kesin satış faturası eklenmesi zorunludur  
+D) Lisanslı radyoaktif cihaz – Türkiye Atom Enerjisi Kurumunun gümrük giriş-çıkış izni formu aranır  
+E) Tebliğde ayrıca düzenlenmeyen diğer geçici çıkış eşyası – Marka, seri numarası ve model yılı gibi ayırt edici özellikler beyannameye kaydedilir  
 
 **Doğru Cevap:** C  
-**Gerekçe:** İhracat Yönetmeliğine göre konsinye ihracat başvuruları İhracatçı Birlikleri Genel Sekreterliğine yapılır ve bu birimce sonuçlandırılır. Alıcısı tarafından kabul edilmeyen mallar karşılığında aynı bedel ve şartlarla mal ihracına ilişkin talepler ile uluslararası ticari fuar ve sergilerde sergilenen malların kesin satışına ilişkin talepler gümrük idarelerince sonuçlandırılır. Yanma, çalınma gibi haklı ve zorunlu nedenlerle alıcısına teslim edilemeyen mallara ilişkin ihracat talepleri ile geri getirilmesinde ekonomik yarar görülmeyen malların terkine ilişkin talepler ise gümrük idaresince değil, Bakanlıkça (İhracat Genel Müdürlüğü) sonuçlandırılır. Bu nedenle doğru cevap C seçeneğidir. (MD İhracat Yönetmeliği 9/1, 10/4, 14/1, 15/1, 15/2)
+**Gerekçe:** Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre yurt dışındaki sergi ve fuarlarda gösterilmek üzere geçici olarak çıkarılacak eşya gümrük beyannamesiyle beyan edilir; eşyanın ayırt edici özellikleri, özel işaretleri ve sergi veya fuarın adı beyannameye kaydedilir ve kesin satış faturası aranmayarak proforma fatura veya sevk irsaliyesinin beyannameye eklenmesi sağlanır. Bu nedenle kesin satış faturasını zorunlu tutan eşleştirme yanlıştır. Finansal kiralama yoluyla yapılacak ihracatta gümrük müdürlüğünce onaylanan beyanname izin hükmündedir; mülkiyeti kiraya verene ait olmayan ticari kiralama konusu eşya için noterde tanzim ettirilmiş muvafakatname ibraz edilir; lisanslı radyoaktif cihazların geçici ihracında Türkiye Atom Enerjisi Kurumundan alınan Lisanslı Cihazlar İçin Gümrük Giriş-Çıkış İzni formu aranır; Tebliğde düzenlenmeyen diğer geçici çıkışlarda eşyanın marka, seri numarası, model yılı gibi ayırt edici özellikleri beyannameye kaydedilir. Bu nedenle doğru cevap C seçeneğidir. (MD Hariçte İşleme-Geçici İhracat Seri No:1 m.9/2, 10/1, 11/1-2, 12/1, 15/1)
 
 *GK 85/1; GY 222/1, 222/4; Transit Seri No 4 18/2*
 
@@ -2573,6 +2573,7 @@ E) Hizmet karşılığı alacaklar ve yapılmış masraflar – Gümrük vergile
 - Set, 2024 ve 2025 GMY sınavları esas alınarak hazırlanmıştır. Bu iki sınavın kaynaklarda karşılığı bulunan 151 gümrük sorusunun tamamının bilgi alanı Deneme 3, 4 ve 5'e dağıtılmıştır; her bilgi alanı üç denemenin en az birinde, çıkmış sorunun metni, şıkları ve kurgusu kopyalanmadan farklı bir soru tekniğiyle ölçülür. Kalan kontenjan 2021–2023'te sık sorulan alanlar ve kaynaktaki diğer sınavlık hükümlerle doldurulmuştur.
 - 2021–2025 sınavlarının resmî cevap anahtarları, cevaplı kitapçıklardaki kırmızı işaretlerden çıkarılmış (2025 için A kitapçığı, B kitapçığına eşlenmiştir) ve çıkmış soru analizinde esas alınmıştır.
 - Gümrük bölümünün konu dağılımı 2024–2025 sınavlarının ortalamasıdır: menşe 8, dahilde işleme 5, kıymet 5, transit 5, cezalar 5, geçici ithalat 5, ihracat 3, kaçakçılık 3 ve diğer konular.
+- Gümrük bölümü Gümrük Yönetmeliği m.567/2'deki GMY sınav kapsamıyla sınırlıdır: Gümrük Kanunu ve ikincil düzenlemeleri ile 5607 sayılı Kanun ve ikincil düzenlemeleri. Dış ticaret ve kambiyo mevzuatı (bedelsiz ihracat, İhracat Yönetmeliği vb.) gümrük müşavirliği sınavının konusu olduğundan sorulmamıştır; 2021–2025 GMY sınavlarında sorulan İthalat Rejimi Kararı, Dahilde İşleme Rejimi Tebliği ve Sınır Ticareti Kararı kapsamda tutulmuştur.
 - Genel kültür bölümü (1–20) Canlı 7/24 Genel Kültür Kitabı'na dayanır ve 2024–2025 sınavlarının 1–20. sorularındaki bilgi türlerini (anlam ilişkileri, anlatım bozukluğu, noktalama, paragraf; zaman, birim dönüşümü, oran, yüzde, dizi problemleri; Millî Mücadele, inkılaplar, Atatürk; yasama-yürütme-yargı, temel haklar) ölçer.
 - Her sorunun doğru cevabı kaynak mevzuattan birebir alıntıyla doğrulanmış, set bağımsız çekişmeli doğrulamadan geçirilmiştir.
 - Sorular Deneme 1 ve Deneme 2 ile çekirdek bazında karşılaştırılmıştır; önceki denemelerde ölçülen bir çekirdek aynı biçimde tekrar sorulmamıştır.
@@ -2656,11 +2657,11 @@ GMY4-069 | Serbest Dolaşıma Giriş | SDG GGT (Seri No:15) 4/1, 4/2, 5/2 | Boru
 GMY4-070 | Temel Tanımlar | GK 3/14, 3/18, 3/19, 3/22 | GOİK: rejime tabi tutma, serbest bölgeye giriş, yeniden ihraç, imha ve terktir; teslim, gümrüğe sunma, geçici depolama ve elleçleme GOİK değildir. | KAPSAM | ÇK | C | GMY-S4
 GMY4-071 | Transit | GY 229/1 | Transitte basitleştirmeler: kapsamlı teminat veya teminattan vazgeçme, demiryolu, havayolu, denizyolu ve boru hattına özgü basitleştirmeler ile izinli gönderici yetkisidir. | KAPSAM_DIŞI | ÇK | A | GMY-S4
 GMY4-072 | Transit | Transit Seri No 4 49/1 | Hareket idaresi araştırma usulünün sonucuna, varış idaresine sunma süre sınırından itibaren en geç altı ay içinde karar verir. | SÜRE | K | B | GMY-S4
-GMY4-073 | İhracat | İhracat Yönetmeliği 9/5 | Konsinye gönderilen malın kesin satışı ihraç tarihinden itibaren bir yıl içinde yapılır; İhracatçı Birlikleri Genel Sekreterliği bu süreyi iki yıl daha uzatabilir. | SÜRE | K | D | GMY-S4
+GMY4-073 | İhracat | Hariçte İşleme-Geçici İhracat Seri No:1 m.7/1-3; GK 167/5-f | Geçici çıkarılan ticari olmayan eşya üç yılda değiştirilmeden getirilir, mücbir sebeple gümrük müdürlüğünce uzatılabilir; ev eşyası süre kısıtlamasına tabi değildir. | SÜRE | K | D | GMY-S4
 GMY4-074 | Transit | GK 84/4-a, 84/4-b; Transit Seri No 4 40/1, 41/1 | Transit rejimi, hareket idaresinin kendi bilgi ve belgelerini varış idaresininkilerle karşılaştırıp usulüne uygun sonlandırıldığını belirlemesiyle ibra edilir. | OLAY | O | E | GMY-S4
 GMY4-075 | İhracat | GY 152/1, 153/1, 155/1, 155/2 | İhracatta eksik beyan OKSB/YYS sahiplerine açıktır; tamamlama süresi tescilden itibaren bir ay, ek süre en fazla üç aydır; tamamlanmazsa vergiler ertelenmez. | ÖNERMELİ | O | D | GMY-S4
 GMY4-076 | TIR | TIR Seri No 1 16/1, 16/2, 16/3, 16/4, 18/2 | Taşıt onay belgesi en fazla üç defa yenilenir; yurt dışında süresi biterse bir defaya mahsus otuz gün ek süre verilir; çekicilerde aranmaz. | YANLIŞ | O | E | GMY-S4
-GMY4-077 | İhracat | İhracat Yönetmeliği 9/1, 10/4, 14/1, 15/1, 15/2 | Haklı ve zorunlu nedenlerle alıcısına teslim edilemeyen mallara ilişkin ihracat talepleri ile terk talepleri Bakanlıkça (İhracat Genel Müdürlüğü) sonuçlandırılır. | EŞLEŞTİRME | O | C | GMY-S4
+GMY4-077 | İhracat | Hariçte İşleme-Geçici İhracat Seri No:1 m.9/2, 10/1, 11/1-2, 12/1, 15/1 | Sergi-fuar eşyasında kesin satış faturası aranmaz, proforma fatura veya sevk irsaliyesi eklenir; finansal kiralamada onaylı beyanname izin hükmündedir. | EŞLEŞTİRME | O | C | GMY-S4
 GMY4-078 | Transit | GK 85/1; GY 222/1, 222/4; Transit Seri No 4 18/2 | Hava, boru hattı, demir ve denizyolunda yönetmelikteki haller dışında teminat aranmaz; demiryolunda basitleştirilmiş usul gerekir; teminatsız transitte fatura zorunlu değildir. | ÖNERMELİ | Z | B | GMY-S4
 GMY4-079 | Geri Gelen Eşya | GK 168/1; GY 453/1, 453/2 | Üç yıl aşılarak geri getirilen eşyada usulsüzlük cezası ve vergi tahsili; üç yıl aşılmadan verilen süre aşılırsa yalnız usulsüzlük cezası uygulanır. | OLAY | Z | E | GMY-S4
 GMY4-080 | Transit | GK 235/5-c; GY 239/1-b, 241/1; Transit Seri No 4 50/1 | Ulusal transitte eksiklikte vergiler ve vergilerin iki katı idari para cezası varış bildiriminden itibaren üç günde ödenirse hareket idaresi belge aramadan ibra eder. | HESAP | ÇZ | D | GMY-S4

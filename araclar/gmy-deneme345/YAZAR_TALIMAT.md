@@ -35,3 +35,6 @@ set (3/4/5), konu, kalip (TANIM KAVRAM KAPSAM KAPSAM_DIŞI DOĞRU YANLIŞ ÖNERM
 
 ## Rapor (bitince kısa)
 Set başına konu dağılımı; karşılanan 2024–2025 çıkmış soru numaraları; kaynakta olmadığı için karşılanamayan 2024–2025 soruları; emin olmadığın noktalar. Git işlemi yapma, başka dosyaya dokunma.
+
+## Kapsam (GMY)
+- Gümrük bölümü yalnızca Gümrük Yönetmeliği m.567/2 kapsamından yazılır: Gümrük Kanunu ve ikincil düzenlemeleri, 5607 sayılı Kanun ve ikincil düzenlemeleri. Dış ticaret ve kambiyo mevzuatı (bedelsiz ihracat, İhracat Yönetmeliği, e-ihracat vb.) GMY setinde sorulmaz; 2021–2025 GMY sınavlarında sorulan İthalat Rejimi Kararı, Dahilde İşleme Rejimi Tebliği ve Sınır Ticareti Kararı kapsamdadır.

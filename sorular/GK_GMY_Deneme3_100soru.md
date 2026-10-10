@@ -529,13 +529,15 @@ C) I ve III
 D) II ve IV  
 E) I, II ve III  
 
-**52-** Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre; bir seferde çok sayıda eşya ele geçirilmesi hâli dışında, il jandarma komutanlığınca valilik kanalıyla bildirilen güncel listede yer alan eşya için kurumların tahsis taleplerini Komisyona iletme süresi ile bu taleplerin Komisyona ulaşmasından sonra Komisyonun toplanıp karar verme süresi sırasıyla aşağıdakilerin hangisinde doğru olarak verilmiştir?
+**52-** Açık artırma salonunda ihale yoluyla satışa çıkarılan ve bekletilmeyecek eşya niteliği taşımayan bir eşyanın ihalesi tamamlanmıştır.
 
-A) Bildirim tarihini müteakip 5 iş günü – En geç 3 iş günü  
-B) Bildirim tarihini müteakip 3 iş günü – En geç 15 gün  
-C) Bildirim tarihini müteakip 3 iş günü – En geç 5 iş günü  
-D) Bildirim tarihini müteakip 15 gün – En geç 5 iş günü  
-E) Bildirim tarihini müteakip 5 iş günü – En geç 15 gün  
+Tasfiye Yönetmeliği'ne göre alıcının ihale bedelini ödemesi ve ödemeyi izleyerek eşyayı bulunduğu yerden teslim alması için öngörülen süreler sırasıyla aşağıdakilerden hangisidir?  
+
+A) İki iş günü – üç gün  
+B) Yedi gün – otuz gün  
+C) Yedi gün – on gün  
+D) On gün – on gün  
+E) On beş gün – yedi gün  
 
 **53-** Gümrük Yönetmeliği'ne göre geçici depolama yerleri ve bu yerlerdeki eşyaya ilişkin aşağıdakilerden hangisi doğrudur?
 
@@ -781,15 +783,15 @@ C) Kuvvetlerin Statüsü Hakkında Sözleşme kapsamındaki eşyanın transitind
 D) Basitleştirme izni bulunan havayolu şirketinin yaptığı taşımada kullanılan manifesto  
 E) Basitleştirilmiş usulde demiryoluyla yapılan taşımada kullanılan CIM taşıma belgesi  
 
-**79-** (M) Makine A.Ş., daha önce usulüne uygun olarak ihraç ettiği ve garantili olarak sattığı makinelerin garanti süresi içinde yenilenmesi gereken parçalarını, karşılığında yurt dışından bir ödeme yapılmaksızın yurt dışındaki alıcısına göndermek istemektedir. Gönderilecek parçaların değeri 300.000 ABD Dolarıdır.
+**79-** (K), Türk plakalı tır çekicisini uluslararası taşımada kullanmak üzere Türkiye Gümrük Bölgesinden geçici olarak çıkarmıştır. Araç yurt dışında arızalanarak tamire alınmış ve üç yıllık kanuni süre içinde Türkiye'ye geri getirilememiştir. (K), kanuni süre dolduktan iki hafta sonra, aracın tamir amacıyla bakıma alındığını gösteren belgenin noter onaylı Türkçe tercümesini ekleyerek ilgili gümrük müdürlüğüne yazılı olarak süre uzatımı talebinde bulunmuştur.
 
-Bedelsiz İhracata İlişkin Tebliğ (İhracat 2008/12)'ye göre bu işleme ilişkin aşağıdakilerden hangisi doğrudur?  
+Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre bu talep hakkında aşağıdakilerden hangisi doğrudur?  
 
-A) İzin başvurusu, Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliğine yapılır.  
-B) Değeri ne olursa olsun izin başvurusu doğrudan ilgili gümrük idaresine yapılır.  
-C) Verilecek bedelsiz ihraç izni iki yıl süreyle geçerlidir.  
-D) Bedelsiz ihraç edilen parçalar ihracatta uygulanan desteklerden yararlandırılır.  
-E) Bu kapsamdaki bedelsiz ihracatta firmanın İhracatçı Birliğine üye olma şartı aranmaz.  
+A) Belgeler uygun bulunursa, başvurunun kanuni süre geçtikten sonra yapılmış olmasına bakılmaksızın gümrük müdürlüğünce yeteri kadar ek süre verilir.  
+B) Süre uzatımı ancak kanuni süre bitmeden başvurulması hâlinde mümkün olduğundan talep reddedilir.  
+C) Talep gümrük müdürlüğünce değil, Gümrükler Genel Müdürlüğünce incelenerek sonuçlandırılır.  
+D) Aracın arızalanması Tebliğde sayılan beklenmeyen hâller arasında yer almadığından ek süre verilemez.  
+E) Ek süre verilebilir; ancak verilecek süre üç yıllık kanuni sürenin yarısını aşamaz.  
 
 **80-** Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre TIR karnesi himayesinde eşya taşıyan üç taşıtın giriş gümrük idaresinden varış gümrük idaresine sevkinde güzergâh kat etme süresi belirlenecektir:
 
@@ -1788,18 +1790,20 @@ E) I, II ve III
 **Doğru Cevap:** B  
 **Gerekçe:** 3350 sayılı İthalat Rejimi Kararı'na göre VI sayılı liste, nihai kullanım uygulaması kapsamında indirimli gümrük vergisinden faydalanacak sivil hava taşıtlarında kullanılmaya mahsus ürünleri kapsar; bu listedeki ürünlerin sivil hava taşıtlarında kullanılmak kaydıyla ithalinde gümrük vergisi %0 olarak uygulanır ve nihai kullanım hükümleri tatbik edilir (I doğru). VII sayılı listedeki eşya, “Üretimi Gerçekleştirilecek Nihai Ürün” sütununda gösterilen ürünlerin imalinde kullanılmak kaydıyla ithal edildiğinde karşısında gösterilen oranda gümrük vergisine tabidir (II doğru); ancak bu kapsamdaki eşyaya ek mali yükümlülük uygulanmaz (III yanlış). Nihai kullanım kapsamında indirimli gümrük vergisinden yararlanacak tarım ürünleri VI değil VII sayılı listede yer alır (IV yanlış). Tuzak, VI ile VII sayılı listelerin kapsamının yer değiştirilmesidir. Bu nedenle doğru cevap B seçeneğidir. (MD İRK 9/1-2; 2025/10790 s. CK eki VI ve VII sayılı listeler)
 
-*Silah-Mühimmat Tahsis Yön. 4/1, 5/1-2, 6/3*
+*Tasfiye Yön. 40/1, 41/1*
 
-**52-** Milli Savunma veya İç Güvenlik Hizmetleriyle Doğrudan İlgili Silah, Mühimmat, Araç ve Gereç ile Sarf Malzemesinin Tahsisine İlişkin Yönetmeliğe göre; bir seferde çok sayıda eşya ele geçirilmesi hâli dışında, il jandarma komutanlığınca valilik kanalıyla bildirilen güncel listede yer alan eşya için kurumların tahsis taleplerini Komisyona iletme süresi ile bu taleplerin Komisyona ulaşmasından sonra Komisyonun toplanıp karar verme süresi sırasıyla aşağıdakilerin hangisinde doğru olarak verilmiştir?
+**52-** Açık artırma salonunda ihale yoluyla satışa çıkarılan ve bekletilmeyecek eşya niteliği taşımayan bir eşyanın ihalesi tamamlanmıştır.
 
-A) Bildirim tarihini müteakip 5 iş günü – En geç 3 iş günü  
-B) Bildirim tarihini müteakip 3 iş günü – En geç 15 gün  
-C) Bildirim tarihini müteakip 3 iş günü – En geç 5 iş günü  
-D) Bildirim tarihini müteakip 15 gün – En geç 5 iş günü  
-E) Bildirim tarihini müteakip 5 iş günü – En geç 15 gün  
+Tasfiye Yönetmeliği'ne göre alıcının ihale bedelini ödemesi ve ödemeyi izleyerek eşyayı bulunduğu yerden teslim alması için öngörülen süreler sırasıyla aşağıdakilerden hangisidir?  
+
+A) İki iş günü – üç gün  
+B) Yedi gün – otuz gün  
+C) Yedi gün – on gün  
+D) On gün – on gün  
+E) On beş gün – yedi gün  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Yönetmeliğe göre tahsise konu olabilecek eşyaya ilişkin güncel listeler ayda bir valilik kanalıyla il jandarma komutanlığınca garnizon komutanlığı, emniyet müdürlüğü ve sahil güvenlik komutanlığına bildirilir; kurumlar tahsis taleplerini bildirim tarihini müteakip 3 iş günü içinde il valisinin başkanlığındaki tahsis Komisyonuna iletir. Listede yer alan eşyaya ilişkin talepler Komisyona ulaştıktan sonra Komisyon en geç 5 iş günü içinde toplanır ve karar verir. 3 iş günlük karar süresi yalnızca bir seferde çok sayıda eşya ele geçirilmesi üzerine listelerin ivedilikle güncellendiği durumda uygulanır; 15 günlük süre ise kriminal inceleme ve bilirkişi raporu gibi işlemlerin ele geçirme tarihinden itibaren tamamlanma süresidir. Bu nedenle doğru cevap C seçeneğidir. (MD Silah-Mühimmat Tahsis Yön. 4/1, 5/1-2, 6/3)
+**Gerekçe:** Tasfiye Yönetmeliği'ne göre ihalenin tamamlanmasını izleyen yedi gün içinde, bekletilmeyecek eşyada ise iki iş günü içinde ihale bedelinin ödenmesi zorunludur; bu süre içinde ödenmezse satış bozularak teminat döner sermayeye gelir kaydedilir. Eşyanın, ihale bedelinin ödenmesini izleyen on gün, bekletilmeyecek eşyada ise üç gün içinde alıcı tarafından bulunduğu yerden teslim alınması zorunludur. Otuz günlük süre, yeniden ihraç amacıyla satılan eşyanın ihale bedelinin ödendiği tarihten itibaren gümrük müdürlüğünün denetiminde yurt dışı edilmesine ilişkindir. Olaydaki eşya bekletilmeyecek eşya olmadığından iki iş günü ve üç günlük süreler uygulanmaz. Bu nedenle doğru cevap C seçeneğidir. (MD Tasfiye Yön. 40/1, 41/1)
 
 *GY 79/3, 81/4, 96/1-2, 555/1*
 
@@ -2175,20 +2179,20 @@ E) Basitleştirilmiş usulde demiryoluyla yapılan taşımada kullanılan CIM ta
 **Doğru Cevap:** B  
 **Gerekçe:** Gümrük Yönetmeliğine göre transit beyanı olarak; ortak ve ulusal transitte transit refakat belgesi, TIR karnesi, ATA karnesi, Form 302, demiryolunda basitleştirilmiş usulde CIM taşıma belgesi, deniz ve havayolunda basitleştirilmiş usulde manifesto ve ulusal transitte sözlü beyan formu kullanılır. Ancak sözlü beyan; yolcu beraberinde bulunan ve kişisel veya hediyelik eşya muafiyeti dışında kalan eşyanın ulusal transitinde, talep hâlinde uygulanır ve eşyanın ticari miktar ve mahiyette olması hâlinde bu hüküm uygulanmaz. Bu nedenle doğru cevap B seçeneğidir. (MD GY 213/1, 220/1)
 
-*Bedelsiz İhracat Tebliği (İhracat 2008/12) 2/1-b, 3/2, 3/4, 6, 8*
+*Hariçte İşleme-Geçici İhracat Seri No:1 m.6/1-3, 9/4, 17/1*
 
-**79-** (M) Makine A.Ş., daha önce usulüne uygun olarak ihraç ettiği ve garantili olarak sattığı makinelerin garanti süresi içinde yenilenmesi gereken parçalarını, karşılığında yurt dışından bir ödeme yapılmaksızın yurt dışındaki alıcısına göndermek istemektedir. Gönderilecek parçaların değeri 300.000 ABD Dolarıdır.
+**79-** (K), Türk plakalı tır çekicisini uluslararası taşımada kullanmak üzere Türkiye Gümrük Bölgesinden geçici olarak çıkarmıştır. Araç yurt dışında arızalanarak tamire alınmış ve üç yıllık kanuni süre içinde Türkiye'ye geri getirilememiştir. (K), kanuni süre dolduktan iki hafta sonra, aracın tamir amacıyla bakıma alındığını gösteren belgenin noter onaylı Türkçe tercümesini ekleyerek ilgili gümrük müdürlüğüne yazılı olarak süre uzatımı talebinde bulunmuştur.
 
-Bedelsiz İhracata İlişkin Tebliğ (İhracat 2008/12)'ye göre bu işleme ilişkin aşağıdakilerden hangisi doğrudur?  
+Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre bu talep hakkında aşağıdakilerden hangisi doğrudur?  
 
-A) İzin başvurusu, Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliğine yapılır.  
-B) Değeri ne olursa olsun izin başvurusu doğrudan ilgili gümrük idaresine yapılır.  
-C) Verilecek bedelsiz ihraç izni iki yıl süreyle geçerlidir.  
-D) Bedelsiz ihraç edilen parçalar ihracatta uygulanan desteklerden yararlandırılır.  
-E) Bu kapsamdaki bedelsiz ihracatta firmanın İhracatçı Birliğine üye olma şartı aranmaz.  
+A) Belgeler uygun bulunursa, başvurunun kanuni süre geçtikten sonra yapılmış olmasına bakılmaksızın gümrük müdürlüğünce yeteri kadar ek süre verilir.  
+B) Süre uzatımı ancak kanuni süre bitmeden başvurulması hâlinde mümkün olduğundan talep reddedilir.  
+C) Talep gümrük müdürlüğünce değil, Gümrükler Genel Müdürlüğünce incelenerek sonuçlandırılır.  
+D) Aracın arızalanması Tebliğde sayılan beklenmeyen hâller arasında yer almadığından ek süre verilemez.  
+E) Ek süre verilebilir; ancak verilecek süre üç yıllık kanuni sürenin yarısını aşamaz.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Bedelsiz İhracata İlişkin Tebliğ'e göre garantili olarak ihraç edilen malların garanti süresi içinde yenilenmesi gereken parçaları bedelsiz ihraç edilebilir. Bu tür mallardan değeri 250.000 ABD Doları ve üzeri olanların izin başvuruları Bedelsiz İhracat Formu doldurularak İhracatçı Birlikleri Genel Sekreterliklerine yapılır; doğrudan gümrük idaresine başvuru 250.000 ABD Dolarına kadar olanlar içindir. Bedelsiz ihraç izinleri bir yıl geçerlidir, bedelsiz ihracata konu mal ihracat desteklerinden yararlandırılmaz ve İhracatçı Birliğine üyelik şartının aranmadığı hâller arasında garanti parçalarının gönderilmesi sayılmamıştır. Bu nedenle doğru cevap A seçeneğidir. (MD Bedelsiz İhracat Tebliği 2/1-b, 3/1, 3/2, 3/4, 6, 8)
+**Gerekçe:** Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) (Seri No: 1)'e göre geçici olarak Türkiye Gümrük Bölgesi dışına çıkarılan taşıtların Gümrük Kanunu'nda belirtilen üç yıllık kanuni süre içinde yurt dışında ağır hasar görmesi, el konulması, arızalanması, sürücünün tutuklanması veya hastalanması, doğal afet ya da iç karışıklık gibi beklenmeyen hâller veya mücbir sebeplerle geri getirilememesi hâlinde, ilgilinin yazılı talebi üzerine ilgili gümrük müdürlüğünce süre uzatımı yapılır. Araç arızalanmışsa dilekçeye tamir amacıyla bakıma alındığına ilişkin belgeler, noter veya yurt dışı temsilciliklerince onaylı Türkçe tercümesiyle eklenir. İbraz edilen belgeler uygun bulunursa müracaatın kanuni süre içinde yapılıp yapılmadığına ve mücbir sebep belgesinin tarihine bakılmaksızın yeteri kadar ek süre verilir. Süre bitiminden önce başvurma koşulu Tebliğde süre uzatımı ayrıca düzenlenmeyen geçici ihracat işlemleri ile kiralama yoluyla ihracatta aranır; taşıtlar için aranmaz. Verilecek ek süre için kanuni sürenin yarısı gibi bir üst sınır da öngörülmemiştir. Bu nedenle doğru cevap A seçeneğidir. (MD Hariçte İşleme-Geçici İhracat Seri No:1 m.6/1-3, 9/4, 17/1)
 
 *TIR Seri No 1 8/1, 8/2*
 
@@ -2544,6 +2548,7 @@ E) Konteynerler – Kamu kurum ve kuruluşlarına işletme müdürlüğünce bel
 | Yetkilendirilmiş Yükümlü | 2 |
 | Tahakkuk-Tebliğ-Ödeme | 2 |
 | Bağlayıcı Bilgi (BTB/BMB) | 2 |
+| Tasfiye | 2 |
 | Muafiyetler | 2 |
 | Serbest Dolaşıma Giriş | 2 |
 | Uluslararası | 1 |
@@ -2555,7 +2560,6 @@ E) Konteynerler – Kamu kurum ve kuruluşlarına işletme müdürlüğünce bel
 | Teminat ve Faiz | 1 |
 | Geri Verme-Kaldırma | 1 |
 | İthalat Rejim Kararı | 1 |
-| Silah-Mühimmat Tahsisi | 1 |
 | Posta/Hızlı Kargo | 1 |
 | Kabotaj | 1 |
 | Tarife | 1 |
@@ -2567,13 +2571,13 @@ E) Konteynerler – Kamu kurum ve kuruluşlarına işletme müdürlüğünce bel
 | Serbest Bölge | 1 |
 | Gümrüksüz Satış | 1 |
 | İtiraz | 1 |
-| Tasfiye | 1 |
 
 ## Üretim Notu
 
 - Set, 2024 ve 2025 GMY sınavları esas alınarak hazırlanmıştır. Bu iki sınavın kaynaklarda karşılığı bulunan 151 gümrük sorusunun tamamının bilgi alanı Deneme 3, 4 ve 5'e dağıtılmıştır; her bilgi alanı üç denemenin en az birinde, çıkmış sorunun metni, şıkları ve kurgusu kopyalanmadan farklı bir soru tekniğiyle ölçülür. Kalan kontenjan 2021–2023'te sık sorulan alanlar ve kaynaktaki diğer sınavlık hükümlerle doldurulmuştur.
 - 2021–2025 sınavlarının resmî cevap anahtarları, cevaplı kitapçıklardaki kırmızı işaretlerden çıkarılmış (2025 için A kitapçığı, B kitapçığına eşlenmiştir) ve çıkmış soru analizinde esas alınmıştır.
 - Gümrük bölümünün konu dağılımı 2024–2025 sınavlarının ortalamasıdır: menşe 8, dahilde işleme 5, kıymet 5, transit 5, cezalar 5, geçici ithalat 5, ihracat 3, kaçakçılık 3 ve diğer konular.
+- Gümrük bölümü Gümrük Yönetmeliği m.567/2'deki GMY sınav kapsamıyla sınırlıdır: Gümrük Kanunu ve ikincil düzenlemeleri ile 5607 sayılı Kanun ve ikincil düzenlemeleri. Dış ticaret ve kambiyo mevzuatı (bedelsiz ihracat, İhracat Yönetmeliği vb.) gümrük müşavirliği sınavının konusu olduğundan sorulmamıştır; 2021–2025 GMY sınavlarında sorulan İthalat Rejimi Kararı, Dahilde İşleme Rejimi Tebliği ve Sınır Ticareti Kararı kapsamda tutulmuştur.
 - Genel kültür bölümü (1–20) Canlı 7/24 Genel Kültür Kitabı'na dayanır ve 2024–2025 sınavlarının 1–20. sorularındaki bilgi türlerini (anlam ilişkileri, anlatım bozukluğu, noktalama, paragraf; zaman, birim dönüşümü, oran, yüzde, dizi problemleri; Millî Mücadele, inkılaplar, Atatürk; yasama-yürütme-yargı, temel haklar) ölçer.
 - Her sorunun doğru cevabı kaynak mevzuattan birebir alıntıyla doğrulanmış, set bağımsız çekişmeli doğrulamadan geçirilmiştir.
 - Sorular Deneme 1 ve Deneme 2 ile çekirdek bazında karşılaştırılmıştır; önceki denemelerde ölçülen bir çekirdek aynı biçimde tekrar sorulmamıştır.
@@ -2636,7 +2640,7 @@ GMY3-048 | Menşe | GK 18/2-e, f, g, h; GK 18/3 | Kara sularında avlanan ürün
 GMY3-049 | Menşe | İRK (3350) m.9/3 | GTS ülkelerinden Hariç Sektörler kapsamındaki eşyaya D.Ü. sütunu ile V ve VI sayılı listelerdeki oranlardan düşük olanı uygulanır. | ORAN-TUTAR | Z | D | GMY-S3
 GMY3-050 | Menşe | GY 36/2-a, b | Yüzde kuralında menşesiz girdinin gümrük kıymeti, bilinmezse ilk fiyatı; fabrika çıkış fiyatından ihracatta iade edilen yurt içi vergiler düşülür. | HESAP | ÇZ | E | GMY-S3
 GMY3-051 | İthalat Rejim Kararı | İRK 9/1-2; 2025/10790 s. CK eki VI ve VII sayılı listeler | VI liste ürünleri sivil hava taşıtında %0 GV ve nihai kullanım; VII liste nihai ürün imalinde gösterilen oran, EMY uygulanmaz. | ÖNERMELİ | Z | B | GMY-S3
-GMY3-052 | Silah-Mühimmat Tahsisi | Silah-Mühimmat Tahsis Yön. 4/1, 5/1-2, 6/3 | Güncel listedeki eşya için kurumlar talebi bildirimden itibaren 3 iş günü içinde Komisyona iletir; Komisyon en geç 5 iş günü içinde karar verir. | SÜRE | O | C | GMY-S3
+GMY3-052 | Tasfiye | Tasfiye Yön. 40/1, 41/1 | İhale bedeli ihalenin tamamlanmasını izleyen yedi günde (bekletilmeyecek eşyada iki iş günü) ödenir; eşya ödemeyi izleyen on günde (üç gün) teslim alınır. | SÜRE | O | C | GMY-S3
 GMY3-053 | Geçici Depolama/GOBİK | GY 79/3, 81/4, 96/1-2, 555/1 | YGM bulunmayan GD yerlerinde çift kilit zorunlu; GD yeri olmayan mahalde teminat istenir; nakil transitle; devirde sorumluluk devralana geçer. | DOĞRU | O | B | GMY-S3
 GMY3-054 | Geçici Depolama/GOBİK | GY 76/3-4 | Süre uzatım başvurusunda kayıtlı posta/kargoda postaya veya kargoya veriliş, kayıtsız posta veya doğrudan başvuruda idare kaydına giriş tarihi esastır. | BOŞLUK | K | E | GMY-S3
 GMY3-055 | Geçici Depolama/GOBİK | GY 79/2, 86/2; Kara Taşıtları GGT (Seri No:1) 32/1-2 | Teslim alınan taşıt GD'de üç ay kalır, mücbir sebep aranmaksızın üç ay uzatılır; yediemin otoparkında süre yediemine teslim tarihinden başlar. | SÜRE | O | C | GMY-S3
@@ -2663,7 +2667,7 @@ GMY3-075 | Transit | Transit Seri No 4 25/2 | Ortak transitte süre sınırı m�
 GMY3-076 | İhracat | GY 417/1, 417/2, 417/3 | Geçici depolamaya konulmaksızın ihraç eşyasında iki aylık beyanname kapatma süresini makul sebeplerle en çok iki ay gümrük müdürlükleri uzatır. | YANLIŞ | O | E | GMY-S3
 GMY3-077 | Geri Gelen Eşya | GK 168/1; GY 416/1-b, 452/1 | Geri gelen eşyada üç yıllık süre fiili ihraç tarihinden başlar; denizyolu çıkışta bu tarih eşyayı yükleyen geminin hareket tarihidir. | HESAP | O | C | GMY-S3
 GMY3-078 | Transit | GY 213/1, 220/1 | Yolcu beraberindeki eşyanın ulusal transitinde sözlü beyan kullanılabilir; eşya ticari miktar ve mahiyetteyse sözlü beyan transit beyanı olamaz. | KAPSAM_DIŞI | Z | B | GMY-S3
-GMY3-079 | İhracat | Bedelsiz İhracat Tebliği (İhracat 2008/12) 2/1-b, 3/2, 3/4, 6, 8 | Garanti kapsamında bedelsiz gönderilen parçalar 250.000 ABD Doları ve üzerindeyse başvuru Bedelsiz İhracat Formuyla İhracatçı Birlikleri Genel Sekreterliğine yapılır. | OLAY | Z | A | GMY-S3
+GMY3-079 | İhracat | Hariçte İşleme-Geçici İhracat Seri No:1 m.6/1-3, 9/4, 17/1 | Geçici çıkarılan taşıt arıza gibi mücbir sebeple üç yılda getirilemezse, belgeler uygunsa başvuru süre sonrasında yapılsa da gümrük müdürlüğünce yeteri kadar ek süre verilir. | OLAY | Z | A | GMY-S3
 GMY3-080 | TIR | TIR Seri No 1 8/1, 8/2 | TIR'da Nisan–Eylül azami 120, Ekim–Mart azami 168 saat; ATS takılırsa en kısa süre; özel izin belgesindeki daha uzun süre esas alınır. | OLAY | ÇZ | E | GMY-S3
 GMY3-081 | Geçici İthalat | GK 74, 84/1, 93/1, 108/1, 128 | Rejim ayırt etme (olay): Türkiye'de işlem görmeden belirli süre kullanılıp aynen geri gönderilecek, serbest dolaşıma sokulmayacak yabancı eşya geçici ithalat rejimine tabi tutulur. | OLAY | ÇK | D | GMY-S3
 GMY3-082 | Geçici İthalat | GY 376/1-b; GGT Kara Taşıtları Seri 1 m.4/1-d, 8 | Diplomatik statüsü olmayan misyon çalışanının kişisel kara taşıtı, taahhütname ve teminat hükmündeki geçici giriş belgesiyle geçici ithal edilir. | BELGE | K | C | GMY-S3
