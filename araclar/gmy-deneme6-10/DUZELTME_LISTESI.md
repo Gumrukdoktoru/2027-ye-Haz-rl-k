@@ -103,3 +103,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - Koordinatör uyguladı: D10-075 (kökteki MRN ifadeleri D10-072'nin cevabını ele veriyordu), D7-049 (kökteki koşul iki şıkkı eliyordu), D10-048 ("A.TR koşulu" → "dolaşım belgesi koşulu"), D8-034 (kök cevabı ele veriyordu), D8-064 (çıkmış şık kalıntısı çeldirici GK 18/2-h ile değiştirildi), D8-080 ("sistemce" ipucu), D9-045 ve D10-040 (kökte hükmün konusu/mevzuat adı), D10-051 ve D7-084 ("aşağıdakilerden"), D10-005 (olumsuz kelime işaretlendi). Bant aşan köklere sapma notu yazıldı.
 - Yazarlara iletildi: K11 → D7-042 (GMY3-095 E şıkkıyla aynı), K05 → D7-039 (GMY3-040 E şıkkındaki GK 213/3), K02 → D9-021 (D9-043'ün LNG ipucu), K07 → D10-062 öncül I (GMY5-062).
 - K02 uygulandı: D9-021 doğru şık GY 53/1-ç (boru hattı/elektrik teli); LNG ipucu giderildi.
+- K07 uygulandı: D10-062 öncül I GY 365/1 (GMY5-062 çakışması giderildi).
