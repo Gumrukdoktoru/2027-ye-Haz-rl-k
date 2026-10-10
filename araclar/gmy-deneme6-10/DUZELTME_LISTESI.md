@@ -65,3 +65,6 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - D9-077 ↔ D10-098 ve D9-080 ↔ D7-087 çakışmaları karşı taraftaki düzeltmelerle (K15, K13) giderilmişti.
 - GMA uygulandı: D8-009, D8-010, D9-006, D9-007, D10-006, D10-007, D10-010 yeni bağlamla yeniden yazıldı (sonuçlar Python ile doğrulandı); D8-010 çeldirici; D7-009 öncül I.
 - K10 uygulandı: D7-029 (GK 190/2-a), D7-088 (Tahsilat Tebliği 4/3+14/3), D10-027 (Tebliğ 27/4), D10-030 (Tebliğ 13/1-c), D8-077 (öncül I ve II), D10-026 (öncüller ve şık merdiveni), D9-084 (GY 505/1; K05 D10-040 çakışması giderildi), D9-079 (4 ay), D7-066 (kök).
+
+## T1 (Deneme 6–10 kendi arasında tekrar/ipucu)
+- 262 aday çiftin 10'u sorunlu, listedışı 7 bulgu. Yazarlara iletildi: K14 → D10-065 öncül IV (D6-070 ile GY 482/4), D9-049 satır 2 (D9-045 III'ü çözdürüyor); K01 → D7-041 (D8-049 ile GK 3/9); K07 → D6-043 (D8-036 ile GY 319 önermeleri; D6-026'ya ipucu), D10-062 öncül I (D9-051 II ile aynı); K03 → D10-039 (GK 3/6-b üç soruda; D10-055'e ipucu), D8-042 (D9-099 ile GY 432/1); K05 → D10-051 (D6-027 ile GK 15/4), D10-040 (GK 3/6-b), D7-038 öncül IV (D9-035 ile İRK 14/2); K10 → D7-089 öncül III (D7-039 E şıkkı), D6-079 öncül I (D8-070); K12 → D9-067 (D9-052 ile GK 239/2).
