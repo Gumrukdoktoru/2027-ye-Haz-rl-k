@@ -46,7 +46,7 @@ dict(id='D6-038', cikmis='2021/38', konu='Bağlayıcı Bilgi (BTB/BMB)', tip='T2
 dict(id='D6-082', cikmis='2021/82', konu='Yetkilendirilmiş Yükümlü', tip='T3', z='OÜ',
  madde='Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği m.27/1, 30/1, 31/1',
  cek='Kamu alacağını ödememe ihlali askı sonrası üç yıl içinde ikinci kez tekrarlanırsa kısmi teminat yetkisi borç ödendikten sonra iki yıl askıya alınır.',
- kok=['Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre, ödeme ihlali üç yıl içinde tekrarlanırsa kısmi teminat yetkisi **ne kadar süre** askıya alınır?'],
+ kok=['Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre, kamu alacağını süresinde ödememe ihlali üç yıl içinde tekrarlanırsa kısmi teminat yetkisi **ne kadar süre** askıya alınır?']
  d='2 yıl', c=['3 ay', '6 ay', '1 yıl', '3 yıl'], opts=['3 ay', '6 ay', '1 yıl', '2 yıl', '3 yıl'],
  tuzak=False,
  g='Kesinleşmiş gümrük vergisi, faiz ve para cezasını süresinde ödememe ihlalinin, sertifikanın bu nedenle askıya alınmasının sona erdirilmesini takip eden üç yıl içinde ikinci kez tekrarlanması hâlinde kısmi teminat yetkisi, borcun ödenmesini müteakip iki yıl süreyle askıya alınır. Üç yıl tekrarın arandığı süredir; üç ay ve altı ay ise eksik beyanda bulunma yetkisinin askıya alınmasında öngörülen sürelerdir. (MD GİKY 30/1, 31/1)',
@@ -54,7 +54,7 @@ dict(id='D6-082', cikmis='2021/82', konu='Yetkilendirilmiş Yükümlü', tip='T3
 
 # ===================== DENEME 7 =====================
 dict(id='D7-043', cikmis='2022/43', konu='Tarife', tip='T5', z='OÜ',
- madde='4458 sayılı Gümrük Kanunu m.16/1, 16/2; Gümrük Yönetmeliği m.32/1-i',
+ madde='4458 sayılı Gümrük Kanunu m.16/1, 16/2',
  cek='Mahiyet ve nihai kullanım nedeniyle tercihli tarife Cumhurbaşkanınca belirlenen şartlara tabidir; tarife kotası kapsamında olsa dahi indirim veya şartlı muafiyet anlamına gelir.',
  kok=['4458 sayılı Gümrük Kanununa göre, mahiyeti ve …… gerekçesiyle bazı eşyanın yararlanabileceği tercihli tarife uygulaması, Cumhurbaşkanınca belirlenen şartlara tabidir. Bu kapsamdaki tercihli tarife uygulaması ifadesi, tarife kotaları kapsamında olsa dahi, ithalat vergilerinde …… anlamına gelir.',
       'Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?'],
@@ -64,27 +64,24 @@ dict(id='D7-043', cikmis='2022/43', konu='Tarife', tip='T5', z='OÜ',
     'tarife pozisyonu – bir indirim veya şartlı muafiyet uygulaması',
     'nihai kullanım şekli – kota hacmiyle sınırlı vergi askıya alma uygulaması'],
  tuzak=False,
- g='Kanuna göre mahiyeti ve nihai kullanım şekli gerekçesiyle bazı eşyanın yararlanabileceği tercihli tarife uygulaması Cumhurbaşkanınca belirlenen şartlara tabidir ve bu ifade, tarife kotaları kapsamında olsa dahi ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir. İlk boşluğa menşe, kıymet veya tarife pozisyonu ölçütü gelmez; tarife kotası kapsamındaki uygulama da şartsız muafiyet ya da vergilerin askıya alınması olarak nitelendirilmemiştir. (MD GK 16/1-2; GY 32/1-i)',
+ g='Kanuna göre mahiyeti ve nihai kullanım şekli gerekçesiyle bazı eşyanın yararlanabileceği tercihli tarife uygulaması Cumhurbaşkanınca belirlenen şartlara tabidir ve bu ifade, tarife kotaları kapsamında olsa dahi ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir. İlk boşluğa menşe, kıymet veya tarife pozisyonu ölçütü gelmez; tarife kotası kapsamındaki uygulama da şartsız muafiyet ya da vergilerin askıya alınması olarak nitelendirilmemiştir. (MD GK 16/1-2)',
  kanit='9-TAR.POZ.AYIRMA.txt | Mahiyeti ve nihai kullanım şekli gerekçesiyle, bazı eşyanın yararlanabileceği tercihli tarife uygulaması, Cumhurbaşkanınca belirlenen şartlara tabidir. || 9-TAR.POZ.AYIRMA.txt | tarife kotaları kapsamında olsa dahi, ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir.'),
 dict(id='D7-071', cikmis='2022/71', konu='Bağlayıcı Bilgi (BTB/BMB)', tip='T1', z='OÜ',
- madde='Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.7/1, 8/2, 8/3, 10/2',
+ madde='Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.5/2, 7/1, 8/3, 12/1-g'
  cek='BTB kapsamına girmediği sonradan anlaşılan başvuru, ancak başvuru sahibi talep ederse tarife bilgisi (Seri No: 11) hükümlerine göre değerlendirilir.',
- kok=['Gümrük Genel Tebliği (Tarife) (Seri No: 14)\'e göre, BTB başvurusuna ilişkin aşağıdakilerden hangisi [[yanlıştır]]?'],
+ kok=["Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre, Bağlayıcı Tarife Bilgisi (BTB) başvurusuna ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"]
  d='Başvuru konusu eşyanın BTB kapsamına girmediği sonradan anlaşılırsa mevcut başvuru, başvuru sahibinin talebi aranmaksızın Gümrük Genel Tebliği (Tarife) (Seri No: 11) hükümlerine göre değerlendirilir.',
- c=['BTB başvurusu, BTB Programına veri girişi yapılması suretiyle elektronik olarak veya başvuru formu örneğine uygun bir formla yazılı olarak yetkilendirilmiş bölge müdürlüğüne yapılır.',
-    'Başvurunun form ile yazılı olarak yapılması hâlinde, ekindeki tüm belgeler ve eşyanın teşhisini sağlayacak fotoğraflar kâğıt nüshasıyla birlikte ayrıca dijital ortamda da başvuru yapılan bölge müdürlüğüne sunulur.',
-    'Üzerlerinde veya ambalajlarında ayniyetini tespite yarayacak bilgileri bulunmayan eşyaya dair başvurular, ayniyet tespitinin fiziki olarak da mümkün olmaması hâlinde reddedilebilir.',
-    'Başvuru sahipleri başvurularının işlem durumu hakkında BTB Programından bilgi edinebilir; elektronik ortamda yapılan başvuruların reddedilmesi durumunda başvuru sahibine ayrıca tebligat yapılmaz.'],
+ c=['Başvuru formu olarak BTB Programına veri girişi yapıldıktan sonra alınan bilgisayar çıktısı da kullanılabilir; elektronik ortamda yapılan başvurularda beyan bölümüne e-imza tatbik edilir.', 'Başvurunun form ile yazılı olarak yapılması hâlinde, ekindeki tüm belgeler ve eşyanın teşhisini sağlayacak fotoğraflar kâğıt nüshasıyla birlikte ayrıca dijital ortamda da başvuru yapılan bölge müdürlüğüne sunulur.', 'Başvuru formundaki başvuru sahibi bilgileri ile beyan sahibi bilgilerinin uyumlu olması ve başvuru sahibinin Gümrük Kanunu çerçevesinde doğrudan veya dolaylı temsil yetkisine sahip olması gerekir.', 'BTB konusu eşyanın tarife pozisyonunun tespiti için tahlile ihtiyaç duyulursa tahlil, teknik imkânların elvermesi hâlinde gümrük laboratuvarlarında, aksi hâlde üniversite veya diğer resmî kuruluş laboratuvarlarında yapılır.']
  tuzak=False,
- g='Tebliğe göre başvuru konusu eşyanın BTB kapsamına girmediğinin sonradan anlaşılması hâlinde mevcut başvurunun Seri No: 11 hükümlerine göre değerlendirilmesi, başvuru sahibince talep edilmesi şartına bağlıdır; idarece re\'sen yapılmaz. Elektronik başvuruların reddinde ayrıca tebligat yapılmaması ve ayniyet tespiti fiziken de mümkün olmayan eşyaya ilişkin başvuruların reddedilebilmesi Tebliğe uygundur. (MD Tarife Seri No:14 m.7/1, 8/2, 8/3, 10/2)',
- kanit='7-BİLGİ.txt | Başvuru konusu eşyanın BTB kapsamına girmediğinin sonradan anlaşılması ve başvuru sahibince talep edilmesi halinde, mevcut BTB başvurusu'),
+ g="Tebliğe göre başvuru konusu eşyanın BTB kapsamına girmediğinin sonradan anlaşılması hâlinde mevcut başvurunun Seri No: 11 hükümlerine göre değerlendirilmesi, başvuru sahibince talep edilmesi şartına bağlıdır; idarece re'sen yapılmaz. Başvuru sahibi ile beyan sahibi bilgilerinin uyumu ve temsil yetkisi şartı ile tahlilin öncelikle gümrük laboratuvarlarında yapılması Tebliğe uygundur. (MD Tarife Seri No:14 m.5/2, 7/1, 8/3, 12/1-g)"
+ kanit='7-BİLGİ.txt | Başvuru konusu eşyanın BTB kapsamına girmediğinin sonradan anlaşılması ve başvuru sahibince talep edilmesi halinde, mevcut BTB başvurusu || 7-BİLGİ.txt | Başvuru formu olarak BTB Programına veri girişi yapıldıktan sonra alınan bilgisayar çıktısı da kullanılabilir. || 7-BİLGİ.txt | Elektronik başvuru yapılması durumunda e-imza tatbik edilir.'),
 
 dict(id='D7-093', cikmis='2022/93', konu='Yetkilendirilmiş Yükümlü', tip='T3', z='OÜ',
  madde='Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği m.14/1-ç, 156/1, 156/3',
  cek='YYS sertifikası iptal edilen kişinin iptal işlemini müteakip üç yıl içinde yaptığı yeni sertifika başvurusu ön incelemesiz reddedilir.',
- kok=['Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre, sertifikası iptal edilenin yeni başvurusu **hangi süre içinde** yapılırsa reddedilir?'],
- d='İptal işlemini müteakip 3 yıl içinde',
- c=['İptal işlemini müteakip 2 yıl içinde', 'İptal işlemini müteakip 1 yıl içinde', 'İptal kararının tebliğinden itibaren 6 ay içinde', 'Sertifikanın düzenlendiği tarihten itibaren 5 yıl içinde'],
+ kok=['Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre, sertifikası iptal edilenlerin yeni başvurularının reddedileceği süre **hangisidir**?']
+ d='İptal işlemini müteakip 3 yıl'
+ c=['İptal işlemini müteakip 2 yıl', 'İptal işlemini müteakip 1 yıl', 'İptal kararının tebliğinden itibaren 6 ay', 'Sertifikanın düzenlendiği tarihten itibaren 5 yıl']
  tuzak=False,
  g='Yanlış veya eksik bilgiye ya da sahte belgeye dayanılarak verildiği anlaşılması gibi nedenlerle sertifikası iptal edilen kişilerin, iptal işlemini müteakip üç yıl içinde yaptıkları yeni sertifika başvuruları ön inceleme yapılmaksızın reddedilir. İki yıl, onaylanmış kişi statü belgesi iptal edilen kişilere statü verilmeyecek süredir; beş yıl ise sertifika koşullarının izlenme periyodudur. (MD GİKY 14/1-ç, 156/1, 156/3)',
  kanit='3-YYS.txt | sertifikası daha önce iptal edilmiş kişiler tarafından yeni sertifika başvurusunun, iptal işlemini müteakip 3 yıl içerisinde yapılmış olması. || 3-YYS.txt | 3 yıl içerisinde yapılan sertifika başvuruları reddedilir.'),
@@ -119,7 +116,7 @@ dict(id='D7-095', cikmis='2022/95', konu='Onaylanmış Kişi', tip='T4', z='OÜ'
 dict(id='D8-086', cikmis='2023/86', konu='Bağlayıcı Bilgi (BTB/BMB)', tip='T3', z='OÜ',
  madde='4458 sayılı Gümrük Kanunu m.9/2; Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.16/1',
  cek='BTB gümrük idarelerini yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu eşya için bağlar; ölçüt tamamlanma tarihidir.',
- kok=['4458 sayılı Gümrük Kanununa göre bağlayıcı tarife bilgisi, gümrük idarelerini **hangi** gümrük işlemlerine konu eşya bakımından bağlar?'],
+ kok=['4458 sayılı Gümrük Kanununa göre bağlayıcı tarife bilgisi, gümrük idarelerini **yalnızca hangi** gümrük işlemlerine konu eşya bakımından bağlar?']
  d='Bilginin verildiği tarihten sonra tamamlanacak işlemlere konu eşya için',
  c=['Başvurunun yapıldığı tarihten sonra tamamlanacak işlemlere konu eşya için',
     'Bilginin verildiği tarihten sonra başlatılacak işlemlere konu eşya için',
@@ -127,7 +124,8 @@ dict(id='D8-086', cikmis='2023/86', konu='Bağlayıcı Bilgi (BTB/BMB)', tip='T3
     'Bilginin hak sahibine bildirildiği yılın sonundan sonraki işlemler için'],
  tuzak=False,
  g='Bağlayıcı tarife bilgisi, gümrük idarelerini hak sahibine karşı yalnızca eşyanın tarife pozisyonu konusunda ve bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu eşya için bağlar. Ölçüt işlemin başlatıldığı değil tamamlandığı tarihtir; başvuru tarihi ya da bilgi tarihinden önce tamamlanmış işlemler esas alınmaz. (MD GK 9/2; Tarife Seri No:14 m.16)',
- kanit='7-BİLGİ.txt | yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu olan eşya için bağlar.'),
+ kanit='7-BİLGİ.txt | yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu olan eşya için bağlar.',
+ sapma='T3 planı: BTB sayısal süreleri hafızada tükendiği için zaman ölçütü soruldu'),
 
 dict(id='D8-087', cikmis='2023/87', konu='Bağlayıcı Bilgi / Tarife Bilgisi', tip='T3', z='Z',
  madde='Gümrük Genel Tebliği (Tarife) (Seri No: 11) m.5/1, 5/4; Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.5/1',
@@ -146,7 +144,7 @@ dict(id='D8-096', cikmis='2023/96', konu='Tarife', tip='T6', z='OÜ',
  cek='GY tanımı: TGTC\'de birbirine benzeyen aynı nitelikteki veya çoğunlukla aynı hammaddeden eşyayı içine alan gruplar bölümdür; fasıl daha alt düzeydir.',
  kok=['“Türk Gümrük Tarife Cetvelinde birbirine benzeyen aynı nitelikteki veya çoğunlukla aynı hammaddeden yapılan eşyayı içine alacak şekilde oluşturulan gruplar”',
       'Gümrük Yönetmeliğinin gümrük tarifesi uygulamasına ilişkin tanımlarına göre yukarıda tanımlanan kavram aşağıdakilerden hangisidir?'],
- d='Bölüm', c=['Fasıl', 'Pozisyon', 'Bölüm notu', 'Alt pozisyon'],
+ d='Bölüm', c=['Fasıl', 'Pozisyon', 'Fasıl başlığı', 'Alt pozisyon'],
  tuzak=False,
  g='Gümrük Yönetmeliğine göre Türk Gümrük Tarife Cetvelinde birbirine benzeyen aynı nitelikteki veya çoğunlukla aynı hammaddeden yapılan eşyayı içine alacak şekilde oluşturulan gruplar bölümdür. Fasıl, bölümlerden daha alt düzeyde ve birbirine daha çok benzeyen eşyayı kapsayan, Armonize Sistem kodunun ilk iki rakamıyla ifade edilen kısımdır; pozisyon ise fasıl rakamlarından sonra gelen iki rakamla oluşan dört basamaklı gruptur. (MD GY 32/1-a, d, k)',
  kanit='9-TAR.POZ.AYIRMA.txt | a) Bölüm: Türk Gümrük Tarife Cetvelinde birbirine benzeyen aynı nitelikteki veya çoğunlukla aynı hammaddeden yapılan eşyayı içine alacak şekilde oluşturulan grupları,'),
@@ -154,15 +152,12 @@ dict(id='D8-096', cikmis='2023/96', konu='Tarife', tip='T6', z='OÜ',
 # ===================== DENEME 9 =====================
 dict(id='D9-075', cikmis='2024/75', konu='Onaylanmış Kişi', tip='T3', z='OÜ',
  madde='Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.13/1, 13/2, 13/3',
- cek='OKS statü belgesi yenilemesinde geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan başvuru değerlendirilmeksizin iade edilir.',
- kok=['Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)\'ne göre, **hangi** yenileme başvurusu değerlendirilmeksizin iade edilir?'],
- d='Geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan',
- c=['Geçerlilik süresinin bitimine üç aydan fazla süre kala yapılan',
-    'Geçerlilik süresinin bitimine altı aydan fazla süre kala yapılan',
-    'Geçerlilik süresinin bitiminden sonraki bir aylık süre içinde yapılan',
-    'Belgenin düzenlenmesinden itibaren bir yıl dolmadan yapılan'],
+ cek='OKS statü belgesi yenilemesi en erken geçerlilik süresinin bitimine dört ay kala yapılabilir; daha erken başvurular iade edilir.'
+ kok=["Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre, statü belgesinin yenilenmesi için **en erken** ne zaman başvurulabilir?"]
+ d='Geçerlilik süresinin bitimine dört ay kala'
+ c=['Geçerlilik süresinin bitimine üç ay kala', 'Geçerlilik süresinin bitimine altı ay kala', 'Geçerlilik süresinin bitimine bir ay kala', 'Belgenin düzenlenme tarihinden itibaren bir yıl dolduğunda']
  tuzak=False,
- g='Statü belgesinin geçerlilik süresi iki yıl olup yenileme için olumlu tespit raporuyla yetkili bölge müdürlüğüne başvurulur; geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan başvurular değerlendirilmeksizin başvuru sahibine iade edilir. Üç ay ve altı ay bu hükümde öngörülen eşikler değildir; erken başvuru sınırı belgenin düzenlenme tarihine göre değil geçerlilik süresinin bitimine göre belirlenir. (MD OKS Tebliği 13/1-3)',
+ g='Tebliğe göre statü belgesinin geçerlilik süresi iki yıldır; geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan yenileme başvuruları değerlendirilmeksizin iade edildiğinden başvuru en erken bitime dört ay kala yapılabilir. Altı ay kala veya düzenleme tarihinden bir yıl sonra yapılan başvuru iade edilir; üç ay ya da bir ay kala yapılan başvuru kabul edilir, ancak en erken başvuru anı değildir. (MD OKS Tebliği 13/1-3)'
  kanit='4-OKSB.txt | Statü belgesinin geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan başvurular, değerlendirilmeksizin başvuru sahibine iade edilir.'),
 
 dict(id='D9-076', cikmis='2024/76', konu='Yetkilendirilmiş Yükümlü', tip='T3', z='OÜ',
@@ -205,7 +200,7 @@ dict(id='D10-038', cikmis='2025/38', konu='Bağlayıcı Bilgi (BTB/BMB)', tip='T
 dict(id='D10-057', cikmis='2025/57', konu='Bağlayıcı Bilgi (BTB/BMB)', tip='T2', z='Z',
  madde='Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.4/1, 13/2, 13/4, 18/1',
  cek='BTB\'yi GGM veya yetkili bölge müdürlükleri verir; geçerli BTB ile farklı görüşte konu düzenlemeden önce Bakanlığa intikal eder; yeniden inceleme re\'sen de yapılabilir.',
- kok=['Gümrük Genel Tebliği (Tarife) (Seri No: 14)\'e göre BTB işlemlerinde yetkili idarelere ilişkin şu ifadeler veriliyor:',
+ kok=['Gümrük Genel Tebliği (Tarife) (Seri No: 14)\'e göre Bağlayıcı Tarife Bilgisi (BTB) işlemlerinde yetkili idarelere ilişkin şu ifadeler veriliyor:',
       'I. BTB, yazılı veya elektronik talep üzerine Gümrükler Genel Müdürlüğü veya yetkilendirilmiş bölge müdürlüklerince verilen idari karardır.',
       'II. Geçerli bir BTB\'deki sınıflandırmayla farklı görüşte olan bölge müdürlüğü, BTB\'yi kendi görüşüne göre düzenleyip durumu sonradan Bakanlığa bildirir.',
       'III. Yetkilendirilmiş bölge müdürlükleri, sınıflandırmada tereddüt ettikleri hususlar hakkında istişarede bulunabilir.',
@@ -244,17 +239,14 @@ dict(id='D10-097', cikmis='2025/97', konu='Yetkilendirilmiş Yükümlü', tip='T
  kanit='3-YYS.txt | sertifikanın düzenlendiği Bölge Müdürlüğü yetkilidir. || 3-YYS.txt | ilgili Gümrük Müdürlüğü, öngörülen askıya alma veya geri alma işleminin yapılması için sertifikanın düzenlendiği Bölge Müdürlüğüne bildirimde bulunur:'),
 
 dict(id='D10-098', cikmis='2025/98', konu='Onaylanmış Kişi', tip='T1', z='Z',
- madde='Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.31/1, 32, 37, 38/1-2, 41/3-4',
- cek='OKS\'de unvan değişikliğinde teminat yenilenmezse götürü teminat yetkisi askıya alınır; teminat mektupları iade edilmez, vergiler %20 fazlasıyla teminata bağlanır.',
+ madde='Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.31/1, 35/1-b, 37/2, 38/1-2, 41/2'
+ cek='OKS götürü teminatı: yetki süresi devam etse de statü belgesi süresi dolup yenilenmezse götürü teminat yetkisi askıya alınır.'
  kok=['Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)\'ne göre, statü belgesi sahiplerine tanınan götürü teminat yetkisine ilişkin aşağıdakilerden hangisi [[yanlıştır]]?'],
- d='Ticaret unvanı değişikliğinde teminatın yenilenmemesi nedeniyle götürü teminat yetkisi askıya alınan kişinin verdiği teminat mektupları iade edilir ve askı süresinde vergiler yüzde yirmi fazlasıyla teminata bağlanır.',
- c=['Götürü teminat, belirlenmiş tutardaki teminatın her işlem için ayrı ayrı teminat verilmeksizin, teminata bağlanması gereken tutardan bağımsız olarak ve herhangi bir düşüm yapılmaksızın bir yıl süreyle kullanılabilmesini ifade eder.',
-    'Götürü teminat, Özel Tüketim Vergisi Kanununa ekli (I) sayılı listedeki eşyaya ilişkin kamu alacakları hariç, eşyanın gümrükçe onaylanmış işlem veya kullanıma tabi tutulmasına ilişkin tüm kamu alacakları için geçerlidir.',
-    'Götürü teminat yetkisinin geçerlilik süresinin başlangıcı, yetkinin tanınmasına, güncellenmesine veya teminatın değiştirilmesine ilişkin başvurunun yetkili bölge müdürlüğü genel evrak kaydına alındığı ayın ilk günüdür.',
-    'Götürü teminat yetkisinin güncellenmesi için geçerlilik süresinin bitiminden önceki bir ay içinde başvurulur; bu süreden önce yapılan güncelleme başvuruları kabul edilmez.'],
+ d='Statü belgesinin geçerlilik süresinin dolmasına ve yenilenmemesine rağmen götürü teminat yetkisinin bir yıllık geçerlilik süresi devam ediyorsa, götürü teminat yetkisi bu sürenin sonuna kadar askıya alınmaksızın kullanılabilir.'
+ c=['Götürü teminat, belirlenmiş tutardaki teminatın her işlem için ayrı ayrı teminat verilmeksizin, teminata bağlanması gereken tutardan bağımsız olarak ve herhangi bir düşüm yapılmaksızın bir yıl süreyle kullanılabilmesini ifade eder.', 'Götürü teminat yetkisi başvurusunda, yetkili bölge müdürlüğünce başvuru sahibine bildirilen tutardaki teminat mektubunun bildirimi müteakip en geç otuz gün içinde ibraz edilmemesi hâlinde başvuru reddedilir.', 'Götürü teminat yetkisinin geçerlilik süresinin başlangıcı, yetkinin tanınmasına, güncellenmesine veya teminatın değiştirilmesine ilişkin başvurunun yetkili bölge müdürlüğü genel evrak kaydına alındığı ayın ilk günüdür.', 'Götürü teminat yetkisinin güncellenmesi için geçerlilik süresinin bitiminden önceki bir ay içinde başvurulur; bu süreden önce yapılan güncelleme başvuruları kabul edilmez.']
  tuzak=False,
- g='Ticaret unvanının değişmesine rağmen teminatın yenilenmemesi nedeniyle götürü teminat yetkisi askıya alınan kişinin götürü teminat için verdiği teminat mektupları iade edilmez ve askı süresince teminata bağlanması gereken vergiler yüzde yirmi fazlasıyla teminata bağlanır. Götürü teminatın ÖTV (I) sayılı liste eşyası hariç tüm kamu alacakları için geçerli olması ve yetkinin geçerlilik süresinin başvurunun kayda alındığı ayın ilk gününden başlaması Tebliğe uygundur. (MD OKS Tebliği 31/1, 32, 37, 38, 41/3-4)',
- kanit='4-OKSB.txt | götürü teminat sisteminden yararlanmak için vermiş olduğu teminat mektupları iade edilmez ve askıya alma süresi içinde teminata bağlanması gereken tüm gümrük vergileri ve diğer vergiler tutarının % 20 fazlasıyla teminata bağlanır.'),
+ g='Tebliğe göre götürü teminat yetkisinin geçerlilik süresi devam etmekle beraber statü belgesinin geçerlilik süresinin dolması ve yenilenmemesi durumunda götürü teminat yetkisi askıya alınır; yetki kendi süresi sonuna kadar kullanılamaz. Bildirilen tutardaki teminat mektubunun otuz gün içinde ibraz edilmemesi hâlinde başvurunun reddedilmesi ve yetkinin geçerlilik süresinin başvurunun kayda alındığı ayın ilk gününden başlaması Tebliğe uygundur. (MD OKS Tebliği 31/1, 35/1-b, 37/2, 38/1-2, 41/2)'
+ kanit='4-OKSB.txt | Götürü teminat yetkisinin geçerlilik süresi devam etmekle beraber, statü belgesinin geçerlilik süresinin dolması ve yenilenmemesi durumunda götürü teminat yetkisi askıya alınır. || 4-OKSB.txt | Bu süre içinde kendilerine bildirilen tutardaki teminat mektubu veya mektuplarını ibraz etmeyen kişilerin götürü teminat yetkisi için başvuruları reddedilir.'),
 
 dict(id='D10-099', cikmis='2025/99', konu='Yetkilendirilmiş Yükümlü', tip='T1', z='Z',
  madde='Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği m.6/1-d, 6/2, 7/1, 7/2',

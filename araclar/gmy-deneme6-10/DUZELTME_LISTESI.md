@@ -51,3 +51,7 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 ## V10 (K15)
 - Yazara iletildi: D9-075 ve D7-093 (çift doğru — kök yeniden kuruldu), D10-098 (K10 D9-077 ile çapraz aynı hüküm → OKS m.41/2), D7-071 (çeldiriciler GMY4-047'nin doğru şıklarıyla aynı → Seri No:14 m.7/1, 12/1-g, 5/2), D8-086 ("yalnızca"), D6-082 (kök terimi), D7-043 (madde alanı).
 - D10-051 (K05) D6-027 ile aynı hükmü (GK 15/4) ölçüyor → K05'te değiştirilecek (tekrar denetimi sonuçlarıyla birlikte).
+- K12 uygulandı: D8-073 m.4/7'ye taşındı (120 ay), D9-066 "hafif" değer + tamamlanmış fiil (18 ay), D6-094 öncül IV, D7-026 kurum adı (Hâkimler ve Savcılar Kurulu), D6-095 kökte yönetmeliğin tam adı (sapma), D6-091 kök (sapma), D9-067 GK 239/2'ye taşındı (hafıza GMY5-092/093 çakışması giderildi), D7-024 çeldirici.
+
+## V9 (K13 + GTR)
+- Yazarlara iletildi: K13 → D7-087 (K10 D9-080 + GMY3-038 çakışması), D7-100 (GMY-024 çakışması), D7-063 (kök), D8-027 (E şıkkı AYM ile iptal edilen GK 241/1 ibaresine dayanıyordu), D6-083/D10-024 (istifa veya emeklilik), D6-077 (tırnaklı alıntı); K01 → D6-022 öncül III (K13 D8-089 ile aynı hüküm); GTR → D10-005 (GMY2-002 çakışması), D10-003 (kök), D9-001 (açıklama), D8-005 (isteğe bağlı).
