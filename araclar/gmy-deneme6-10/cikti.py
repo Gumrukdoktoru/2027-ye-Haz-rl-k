@@ -71,7 +71,14 @@ md += tab('Kök uzunluk bandı (21–100, hedef %30 · %40 · %20 · %10)', ozet
 md += tab('Şık uzunluk sınıfı (21–100; kısa ≤4 kelime, uzun 5 şık ≥20 kelime)', ozet['sinif'], 80)
 md += [f"**Ters tuzak (doğru şık bilinçli olarak en uzun):** {ozet['tuzak']} soru (21–100'ün %{round(100 * ozet['tuzak'] / 80)}'i)", '']
 md += ['**Konu dağılımı**', '', '| Konu | Soru |', '|---|---|'] + [f'| {k} | {v} |' for k, v in ozet['konu']] + ['']
-md += ['## Üretim Notu', ''] + [f'- {x}' for x in notlar] + ['']
+ek = []
+kf = {t: ozet['tip_m'][t] - v for t, v in {'T1': 16, 'T1+T2': 8, 'T2': 10, 'T3': 11, 'T4': 10, 'T5': 6, 'T6': 5, 'T7': 5, 'T8': 4, 'T9': 3, 'T10': 2}.items() if ozet['tip_m'][t] != v}
+if kf: ek.append('Bu denemede tip planından sapma: ' + ', '.join(f'{t} {v:+d}' for t, v in kf.items()) + ' (D6-039: kıymet bölümündeki bütün süre/eşik hükümleri çıkmış soruda ya da hafızada olduğundan süre sorusu yerine makam sorusu yazıldı).')
+sp = [q for q in Q if q.get('sapma')]
+if sp: ek.append('Plan kısıtından gerekçeli sapmalar: ' + '; '.join(f"{q['no']}. soru — {q['sapma']}" for q in sp) + '.')
+ozet['notlar'] = notlar + ek
+json.dump(ozet, open(f'ozet{D}.json', 'w'), ensure_ascii=False)
+md += ['## Üretim Notu', ''] + [f'- {x}' for x in notlar + ek] + ['']
 md += ['## HAFIZA GÜNCELLEMESİ', '', '```']
 md += [f"GMY{D}-{q['no']:03d} | {q.get('konu') or q.get('ders')} | {q['madde']} | {q['cek']} | {q['tip']} | {q['z']} | {q['harf']} | GMY-S{D}" for q in Q]
 md += [f'Toplam: {515 + 100 * (D - 5)} satır (önceki 515 + Deneme 6–{D})', '```', '', '---', '**Gümrük Koçu - Ufuk Çetintaş**']
