@@ -104,3 +104,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - Yazarlara iletildi: K11 → D7-042 (GMY3-095 E şıkkıyla aynı), K05 → D7-039 (GMY3-040 E şıkkındaki GK 213/3), K02 → D9-021 (D9-043'ün LNG ipucu), K07 → D10-062 öncül I (GMY5-062).
 - K02 uygulandı: D9-021 doğru şık GY 53/1-ç (boru hattı/elektrik teli); LNG ipucu giderildi.
 - K07 uygulandı: D10-062 öncül I GY 365/1 (GMY5-062 çakışması giderildi).
+- K05 uygulandı: D7-039 cevabı GK 212'ye taşındı (GMY3-040 çakışması giderildi); C şıkkı Tahsilat Tebliği 31/5 (D7-089 ile temas giderildi).
