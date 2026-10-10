@@ -96,3 +96,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K10 (T2) uygulandı: D9-083 Tahsilat Tebliği m.33/1'e taşındı (GMY2-032 kilidi kaldırıldı); aynı denemedeki D9-084'ün ipucu veren doğru şıkkı GY 506 ile değiştirildi.
 - K12 (T2) uygulandı: D6-100 5607 m.4/5 ve 5/2-b üzerine kuruldu (m.4/4 artırım adımı çıkarıldı; 24 ay).
 - K13 (T2) uygulandı: D6-076 GY 563/8-9, D7-100 öncüller (GK 225, GY 561/1, YKTS Tebliği 3-4), D8-028 GY 578/1-ç, D7-063 GY 566/2-6, 570/1-3, D9-085 Tahsilat Tebliği 6/1-d, D9-094 (süre unsuru çıkarıldı; GY 563/3).
+- K11 (T2) uygulandı: D9-032 GK 238/1-c, D10-095 Kara Taşıtları Tebliği m.31, D7-042 GK 235/4-c + GY 181/12 (D7-036 öncül IV ipucu giderildi), D7-070 GK 237/5 + 237/1 (30.000 TL), D10-032 ara adım değişti (alt sınır 1.000 TL).
