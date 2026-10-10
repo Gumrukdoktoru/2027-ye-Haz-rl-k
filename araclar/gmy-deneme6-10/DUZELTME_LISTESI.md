@@ -42,3 +42,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K08 uygulandı: D7-061 kökü Tebliğ adıyla, D8-034 çeldirici (Yolcu eşyası ambarı), D9-070 çeldirici (Karar 28/3'ün iki koşulu), D7-068 ilk boşluk GY 536/1'e taşındı.
 - K05 uygulandı: D7-039 GK 213/3 anahtarıyla yeniden kuruldu (hafıza tekrarı giderildi), D8-093 (C, D ve A şıkları), D9-045 (öncül II), D9-043 (D şıkkı), D10-037 (E şıkkı).
 - K02 uygulandı: D7-050 (çeldiriciler ve kök; doğru şık GK 26/2-d), D7-049 (tırnaklı tanım kaldırıldı), D7-055 (GY 43/1-ı 'üretilmiş' tanımı), D7-048 (GY 46/4), D9-024 (kök ve A çeldiricisi), D10-036 (olay cümlesi netleştirildi; 121.000 TL), D10-033 (isteğe bağlı).
+- K11 uygulandı: D8-030 GK 241/3-d'ye taşındı (AYM iptali nedeniyle), D10-032 GK 234/6 alt sınırı (1.000 TL), D8-021 öncül II (GK 237/4), D7-042 GK 231/1 zamanaşımı, D7-065 kök.
