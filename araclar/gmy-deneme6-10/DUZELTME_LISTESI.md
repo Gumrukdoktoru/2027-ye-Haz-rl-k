@@ -88,3 +88,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
   - K02: D6-031 (GMY3-035), D10-034 (GMY2-024), D7-099 (GMY2-023), D8-047 (GMY5-034), D9-024 (GMY4-035 çeldiricileri), D6-029 (bileşik)
   - K14: D10-069 (GMY3-077); K10: D9-083 (GMY2-032); K12: D6-100 (GMY2-042)
 - K04 (T2) uygulandı: D7-032 GY 74/1'e (boşaltma listesi 24 saat) taşındı (GMY5-053/GMY-087 ve D10-094 ile ortak kilit giderildi), D9-086 öncül II GY 68/1-c.
+- K05 (T2) uygulandı: D7-038 İRK m.2/1, 13/1-2, 16/1'e taşındı (İRK m.10 kilidi kaldırıldı), D9-045 GY 159/1, 160/1, 167/1, 168/1'e taşındı (GMY-067 ve D9-049 teması giderildi).
