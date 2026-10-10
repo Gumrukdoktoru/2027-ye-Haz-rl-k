@@ -1,22 +1,7 @@
-262 çift ortak madde/fıkra
-D6-022(K01) ~ D8-089(K13): [('GY', '561/2')]
-   A: Kamu kurumlarının vekaletnamesinde noter onayı aranmaz; vekaletname ve temsilnameler idareye verilip saklanır; posta/hızlı kargo vekaletnamesiz dolaylı temsilci olabilir.
-   B: Posta ve hızlı kargo eşyasının işlemleri posta idaresi veya hızlı kargo şirketlerince vekâletname ibraz edilmeksizin dolaylı temsilci olarak sonuçlandırılabilir.
+252 çift ortak madde/fıkra
 D6-070(K01) ~ D10-065(K14): [('GY', '482/1'), ('GY', '482/4')]
    A: Dış seferden dönen geminin üç ay içinde yabancı limana çıkmaması zorunlu nedenle belgelenirse süreyi uzatmaya gümrük ve muhafaza başmüdürlükleri yetkilidir.
-   B: Üç ay içinde Türk limanları arasında tüketilen transit akaryakıt en son Türk limanında vergilendirilir; süre uzatımına gümrük ve muhafaza başmüdürlükleri yetkilidir.
-D7-041(K01) ~ D8-049(K05): [('GK', '3/9')]
-   A: İthalat vergileri: eşyanın ithalinde ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükler ile tarım politikası kapsamındaki ithalat vergileri.
-   B: Tarım politikası veya işlenmiş tarım ürünlerine özel düzenlemelerle ihracatta alınan vergi ve mali yükler ithalat değil ihracat vergisidir.
-D8-036(K01) ~ D6-043(K07): [('GY', '319/1-5')]
-   A: TGB girişinde uygulanması öngörülen ticaret politikası önlemleri, eşya ekonomik etkili rejime tabi tutulduğunda da uygulanır.
-   B: Hariçte işlemeyi müteakip serbest dolaşımda standart değişim dahil tamir gören eşyaya ticaret politikası önlemleri uygulanmaz; girişte öngörülen önlem EEGR eşyasına uygul
-D8-071(K01) ~ D10-039(K03): [('GK', '3/6-a')]
-   A: Transit hükümleri saklı kalmak üzere TGB’yi fiilen terk eden eşya, serbest dolaşımda bulunmayan eşya sayılır.
-   B: Tümüyle TGB'de elde edilen eşya serbest dolaşımda; fiilen terk eden değil; ithal ve serbest dolaşımdaki eşyadan birlikte üretilen serbest dolaşımdadır.
-D8-071(K01) ~ D10-040(K05): [('GK', '3/6-b')]
-   A: Transit hükümleri saklı kalmak üzere TGB’yi fiilen terk eden eşya, serbest dolaşımda bulunmayan eşya sayılır.
-   B: İzinli imha atıkları geri verme kararından sonra ve nihai kullanım tahribat atıkları serbest dolaşımda olmayan eşyadır; nihai kullanımla giren eşya serbest dolaşımdadır.
+   B: Dış seferden dönen geminin transit akaryakıt ve kumanyası ilk giriş limanında tespit edilir; üç ayda Türk limanları arasında tüketilen akaryakıt en son limanda vergilendi
 D8-071(K01) ~ D10-055(K05): [('GK', '3/6-a')]
    A: Transit hükümleri saklı kalmak üzere TGB’yi fiilen terk eden eşya, serbest dolaşımda bulunmayan eşya sayılır.
    B: Şartlı muafiyet düzenlemelerine tabi eşyadan elde edilen ve özel ekonomik değer taşımadığı tespit edilen eşya serbest dolaşımda bulunan eşyadır.
@@ -79,7 +64,7 @@ D8-041(K03) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D8-041(K03) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Fatura beyanı ihracatçı tarafından fatura, teslimat notu veya ticari belge üzerinde yapılır; tedarikçi beyanı A.TR/EUR.1/EUR-MED ile birlikte kullanılır.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D8-041(K03) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Fatura beyanı ihracatçı tarafından fatura, teslimat notu veya ticari belge üzerinde yapılır; tedarikçi beyanı A.TR/EUR.1/EUR-MED ile birlikte kullanılır.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -92,9 +77,6 @@ D8-041(K03) ~ D10-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
 D8-041(K03) ~ D10-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Fatura beyanı ihracatçı tarafından fatura, teslimat notu veya ticari belge üzerinde yapılır; tedarikçi beyanı A.TR/EUR.1/EUR-MED ile birlikte kullanılır.
    B: DİR belgeleri aylık listelerle Resmî Gazete’de yayımlanır; iptaller ayrıca bildirilmez; kayıpta ilanla bölge müdürlüğüne başvurulur; revize kapatma sonuçlanıncaya kadar.
-D8-042(K03) ~ D9-099(K09): [('GY', '432/1-a')]
-   A: Serbest bölgeden AB'ye A.TR: serbest dolaşımdaki girdiden üretilene vergisiz A.TR; önleme tabi eşyada telafi edici vergi ve ithal lisansı; iadede yalnız KDV-ÖTV.
-   B: Serbest bölgeden AB'ye A.TR ile gönderimde Tespit ve Tahakkuk Kağıdı düzenlenir; tamamen serbest dolaşım girdili eşyada vergi tahsil edilmez; iade eşyada GV dışındaki ver
 D9-038(K03) ~ D9-040(K03): [('GY', '205/4-a')]
    A: Serbest dolaşıma girişte menşe şahadetnamesi, önlem veya İGV uygulanan ülke menşeli olmadığını ya da DTÖ üyesi ülke menşeli olduğunu tevsik için ibraz edilir.
    B: STA veya GTS tercihi kalkmadan önce gümrük gözetimindeki eşyada tercihli menşe belgesi ibraz edilirse, İGV'ye tabi olsa da menşe şahadetnamesi aranmaz.
@@ -136,7 +118,7 @@ D9-042(K03) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D9-042(K03) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Avrupa'da aynı menşe kurallı STA'larla bağlı ülkeler arasında taraf menşeli girdiyle elde edilen ürünün tercihli ithaline imkân veren sistem Pan-Avrupa Menşe Kümülasyonud
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D9-042(K03) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Avrupa'da aynı menşe kurallı STA'larla bağlı ülkeler arasında taraf menşeli girdiyle elde edilen ürünün tercihli ithaline imkân veren sistem Pan-Avrupa Menşe Kümülasyonud
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -149,9 +131,6 @@ D9-042(K03) ~ D10-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
 D9-042(K03) ~ D10-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Avrupa'da aynı menşe kurallı STA'larla bağlı ülkeler arasında taraf menşeli girdiyle elde edilen ürünün tercihli ithaline imkân veren sistem Pan-Avrupa Menşe Kümülasyonud
    B: DİR belgeleri aylık listelerle Resmî Gazete’de yayımlanır; iptaller ayrıca bildirilmez; kayıpta ilanla bölge müdürlüğüne başvurulur; revize kapatma sonuçlanıncaya kadar.
-D10-039(K03) ~ D10-055(K05): [('GK', '3/6-a')]
-   A: Tümüyle TGB'de elde edilen eşya serbest dolaşımda; fiilen terk eden değil; ithal ve serbest dolaşımdaki eşyadan birlikte üretilen serbest dolaşımdadır.
-   B: Şartlı muafiyet düzenlemelerine tabi eşyadan elde edilen ve özel ekonomik değer taşımadığı tespit edilen eşya serbest dolaşımda bulunan eşyadır.
 D10-041(K03) ~ D10-050(K03): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: EUR.1 ve diğer menşe ispat belgeleri ihracatçı ülke yetkili kuruluşlarınca düzenlenir ve gümrük idaresince vize edilir.
    B: DİR Tebliğinde işlenmiş tarım ürünleri, bünyesinde hububat, şeker ve süt bulunduran III sayılı liste ürünleri; sanayi ürünleri tarım ve işlenmiş tarım dışındakilerdir.
@@ -187,7 +166,7 @@ D10-041(K03) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D10-041(K03) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: EUR.1 ve diğer menşe ispat belgeleri ihracatçı ülke yetkili kuruluşlarınca düzenlenir ve gümrük idaresince vize edilir.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D10-041(K03) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: EUR.1 ve diğer menşe ispat belgeleri ihracatçı ülke yetkili kuruluşlarınca düzenlenir ve gümrük idaresince vize edilir.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -232,7 +211,7 @@ D10-050(K03) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D10-050(K03) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR Tebliğinde işlenmiş tarım ürünleri, bünyesinde hububat, şeker ve süt bulunduran III sayılı liste ürünleri; sanayi ürünleri tarım ve işlenmiş tarım dışındakilerdir.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D10-050(K03) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR Tebliğinde işlenmiş tarım ürünleri, bünyesinde hububat, şeker ve süt bulunduran III sayılı liste ürünleri; sanayi ürünleri tarım ve işlenmiş tarım dışındakilerdir.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -245,15 +224,9 @@ D10-050(K03) ~ D10-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
 D10-050(K03) ~ D10-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR Tebliğinde işlenmiş tarım ürünleri, bünyesinde hububat, şeker ve süt bulunduran III sayılı liste ürünleri; sanayi ürünleri tarım ve işlenmiş tarım dışındakilerdir.
    B: DİR belgeleri aylık listelerle Resmî Gazete’de yayımlanır; iptaller ayrıca bildirilmez; kayıpta ilanla bölge müdürlüğüne başvurulur; revize kapatma sonuçlanıncaya kadar.
-D7-039(K05) ~ D7-089(K10): [('GY', '505/3')]
-   A: Beyandan önce denenmek üzere teslim edilen eşyada vergiler, kusurun deneme sırasında anlaşılamadığı kanıtlanmadıkça geri verilmez veya kaldırılmaz.
-   B: Bir beyanname ve buna bağlı ceza kararı için tek başvuru formu düzenlenir; eksik belge süresine uyulmazsa başvuru geri çekilmiş sayılır.
 D7-078(K05) ~ D9-045(K05): [('GY', '148/1')]
    A: Serbest dolaşıma girişte beyanname yerine ticari veya idari belge usulü, CIF kıymeti 500 Avro'yu geçmeyen eşyayı sürekli ithal edenlere altı ay süreyle tanınır.
    B: İhracatta statü koşulu aranmadan ticari/idari belgeyle işlem: aynı idareden sürekli kitap ihracı ve gemilere kumanya verme; F tipi antrepo eşyasında basitleştirme yok.
-D10-051(K05) ~ D6-027(K15): [('GK', '15/4')]
-   A: Tercihli tarife talebi, gerekli koşullar yerine getirilmişse gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir.
-   B: Tercihli tarife (GK 15/3-d,e,f) beyan sahibinin talebiyle uygulanır; koşullar sağlanırsa talep işlemlerin tamamlanmasından veya teslimden sonra da yapılabilir.
 D6-021(K07) ~ D6-089(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Şartlı muafiyet sisteminde teminat oranı Bakanlıkça vergi tutarının iki katına kadar artırılabilir; hazine tahvil-bonosu da teminattır.
    B: Üçüncü ülke girdili olup Topluluğa ihraç edilen harp araç, gereç, teçhizatı ve yedek parçaları için telafi edici vergi aranmaz.
@@ -283,7 +256,7 @@ D6-021(K07) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D6-021(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Şartlı muafiyet sisteminde teminat oranı Bakanlıkça vergi tutarının iki katına kadar artırılabilir; hazine tahvil-bonosu da teminattır.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D6-021(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Şartlı muafiyet sisteminde teminat oranı Bakanlıkça vergi tutarının iki katına kadar artırılabilir; hazine tahvil-bonosu da teminattır.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -322,7 +295,7 @@ D6-089(K07) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D6-089(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Üçüncü ülke girdili olup Topluluğa ihraç edilen harp araç, gereç, teçhizatı ve yedek parçaları için telafi edici vergi aranmaz.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D6-089(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Üçüncü ülke girdili olup Topluluğa ihraç edilen harp araç, gereç, teçhizatı ve yedek parçaları için telafi edici vergi aranmaz.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -358,7 +331,7 @@ D7-046(K07) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D7-046(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Topluluğa ihracatta girdi vergisi Toplulukta uygulanandan yüksekse, tarım ürünleri ve 1/95 kapsamı hariç, Toplulukta uygulanan vergi ödenir.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D7-046(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Topluluğa ihracatta girdi vergisi Toplulukta uygulanandan yüksekse, tarım ürünleri ve 1/95 kapsamı hariç, Toplulukta uygulanan vergi ödenir.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -391,7 +364,7 @@ D7-097(K07) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D7-097(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR belge/izin müracaatları; ithal eşyası kullanımının tespiti, yerli üretici ve Türk malı imajı, katma değer ve firma performansı kriterleriyle değerlendirilir.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D7-097(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR belge/izin müracaatları; ithal eşyası kullanımının tespiti, yerli üretici ve Türk malı imajı, katma değer ve firma performansı kriterleriyle değerlendirilir.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -421,7 +394,7 @@ D8-055(K07) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D8-055(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: İşlemenin asli kısmı izin hak sahibinin işletmesinde yapılıyorsa, istisnai haller dışında eşdeğer eşya ithal eşyasından ileri üretim aşamasında olabilir.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D8-055(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: İşlemenin asli kısmı izin hak sahibinin işletmesinde yapılıyorsa, istisnai haller dışında eşdeğer eşya ithal eşyasından ileri üretim aşamasında olabilir.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -448,7 +421,7 @@ D8-056(K07) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D8-056(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR izninin kapsamı, Gümrükler Genel Müdürlüğünün görüşü alınarak İhracat Genel Müdürlüğünce genişletilebilir.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D8-056(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR izninin kapsamı, Gümrükler Genel Müdürlüğünün görüşü alınarak İhracat Genel Müdürlüğünce genişletilebilir.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -472,7 +445,7 @@ D8-065(K07) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D8-065(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Belge/izinde değişmemiş eşya ithalatı ihracat taahhüdünün azami %1’i, işletme malzemesi %2’si; şartlı muafiyette ithalatçı serbest bölge dışı yerleşik firmadır.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D8-065(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Belge/izinde değişmemiş eşya ithalatı ihracat taahhüdünün azami %1’i, işletme malzemesi %2’si; şartlı muafiyette ithalatçı serbest bölge dışı yerleşik firmadır.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -493,7 +466,7 @@ D9-053(K07) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D9-053(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR’de mücbir sebep ilave süresi talebin uygun görüldüğü tarihten belirlenir; afetle telefte ihracat aranmadan taahhüt kapatılır; tesis kullanılamazsa eşya devredilebilir
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D9-053(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR’de mücbir sebep ilave süresi talebin uygun görüldüğü tarihten belirlenir; afetle telefte ihracat aranmadan taahhüt kapatılır; tesis kullanılamazsa eşya devredilebilir
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -511,7 +484,7 @@ D9-054(K07) ~ D10-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
 D9-054(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: TEV’de mahsup usulünü Cumhurbaşkanı belirler; vergiye konu eşya firma beyanıyla tespit edilir; serbest bölgeden üç ayda Topluluğa satışta TEV aranır.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D9-054(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: TEV’de mahsup usulünü Cumhurbaşkanı belirler; vergiye konu eşya firma beyanıyla tespit edilir; serbest bölgeden üç ayda Topluluğa satışta TEV aranır.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -526,7 +499,7 @@ D9-054(K07) ~ D10-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '20
    B: DİR belgeleri aylık listelerle Resmî Gazete’de yayımlanır; iptaller ayrıca bildirilmez; kayıpta ilanla bölge müdürlüğüne başvurulur; revize kapatma sonuçlanıncaya kadar.
 D10-059(K07) ~ D10-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
-   B: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   B: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
 D10-059(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -540,16 +513,16 @@ D10-059(K07) ~ D10-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    A: Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez.
    B: DİR belgeleri aylık listelerle Resmî Gazete’de yayımlanır; iptaller ayrıca bildirilmez; kayıpta ilanla bölge müdürlüğüne başvurulur; revize kapatma sonuçlanıncaya kadar.
 D10-062(K07) ~ D10-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   A: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
    B: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
 D10-062(K07) ~ D10-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   A: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
    B: Şartlı muafiyette TGB dışında işlenen ürünün ithalinde, ürün vergisinden son işleme yerinden ithal vergisi düşülerek bulunan tutar kadar teminat alınır.
 D10-062(K07) ~ D10-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   A: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
    B: Önceden ihracattan sonra kamu kurumlarından yurt içi alım yapılamazsa belgeye, durumun tespitinden itibaren azami altı ay ek süre verilebilir.
 D10-062(K07) ~ D10-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.
+   A: Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.
    B: DİR belgeleri aylık listelerle Resmî Gazete’de yayımlanır; iptaller ayrıca bildirilmez; kayıpta ilanla bölge müdürlüğüne başvurulur; revize kapatma sonuçlanıncaya kadar.
 D10-063(K07) ~ D10-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır.
@@ -677,30 +650,33 @@ D8-048(K09) ~ D10-079(K09): [('2009/15481 s. Karar', '2009/15481')]
 D9-098(K09) ~ D10-079(K09): [('2009/15481 s. Karar', '2009/15481')]
    A: Kişisel eşya listesindeki eşyada muafiyet, kıymete bakılmaksızın listedeki miktarla sınırlıdır; 430 Avro limiti liste dışı eşyaya uygulanır.
    B: Kişisel eşyaya ilişkin (Karar 58) yolcu işlem süreleri mücbir sebep veya beklenmeyen hâlde Bölge Müdürlüğünce en fazla altı aya kadar uzatılabilir.
-D6-078(K10) ~ D7-088(K10): [('GK', '244/5')]
-   A: Uzlaşılan vergilere yükümlülük başlangıcından uzlaşma tutanağının imzalandığı tarihe kadar gecikme zammı oranında gecikme faizi uygulanır.
-   B: Uzlaşılan gümrük vergileri ve cezalar uzlaşma tutanağının tebliğinden itibaren bir ay içinde ödenir.
+D6-079(K10) ~ D10-030(K10): [('GK', '197/5')]
+   A: Dava hâlinde vergiler aleyhe kararın gümrük idaresine tebliğiyle tahsil edilebilir olur; periyodik tahakkuk süresi otuz günü geçemez.
+   B: İtiraz reddi sonrası yargıya taşınan karar, nihai yargı kararının tebliğinden itibaren otuz günlük üst mahkeme süresinin bitiminde kesinleşir.
 D6-080(K10) ~ D7-090(K10): [('Gümrük Genel Tebliği (Tahsilat İşlemleri', '34/2')]
    A: Muhbirlere dağıtılan para cezalarından geri verilmesine karar verilenler kararın verildiği tarihten itibaren bir ay içinde geri istenir.
    B: Para cezalarının geri verme veya kaldırma talepleri elektronik olarak para cezasını veren gümrük müdürlüğüne yapılır.
 D7-054(K10) ~ D7-088(K10): [('GK', '198/1')]
    A: Nakdî olmayan teminatla karşılanan tahakkuk etmiş vergilerde, teminatın kabulü tarihinden başlamak üzere gecikme zammı tahsil edilir.
-   B: Uzlaşılan gümrük vergileri ve cezalar uzlaşma tutanağının tebliğinden itibaren bir ay içinde ödenir.
+   B: Şartlı muafiyette teminata bağlanan vergilerde rejim ihlalinde ayrıca tahakkuk yapılmaz; alacağın bir aylık ödeme süresinde ödenmesi bildirilir.
 D7-054(K10) ~ D8-068(K10): [('GK', '198/1')]
    A: Nakdî olmayan teminatla karşılanan tahakkuk etmiş vergilerde, teminatın kabulü tarihinden başlamak üzere gecikme zammı tahsil edilir.
    B: Kaldırma kararı ve beyanname iptali yükümlülüğü sona erdirir; teminatla teslim ve ödeme süresinin uzatılması sona erdirmez.
 D7-088(K10) ~ D8-068(K10): [('GK', '198/1')]
-   A: Uzlaşılan gümrük vergileri ve cezalar uzlaşma tutanağının tebliğinden itibaren bir ay içinde ödenir.
+   A: Şartlı muafiyette teminata bağlanan vergilerde rejim ihlalinde ayrıca tahakkuk yapılmaz; alacağın bir aylık ödeme süresinde ödenmesi bildirilir.
    B: Kaldırma kararı ve beyanname iptali yükümlülüğü sona erdirir; teminatla teslim ve ödeme süresinin uzatılması sona erdirmez.
-D7-091(K10) ~ D10-027(K10): [('GK', '216/2')]
+D7-091(K10) ~ D9-079(K10): [('GK', '216/2')]
    A: Geri vermeyi gerektiren yargı kararları, başvuru beklenmeksizin ve limitler dikkate alınmaksızın idareye tebliğden itibaren otuz gün içinde uygulanır.
-   B: Hatalı geri verme veya kaldırmada yeniden tahsil edilen vergiler tebliğ tarihinden itibaren on beş gün içinde ödenir.
-D9-079(K10) ~ D9-082(K11): [('Gümrük Genel Tebliği (Tahsilat İşlemleri', '14/5')]
-   A: Gümrük alacaklarında azami tecil ve taksitlendirme süresi otuz altı aydır; daha kısa süreli tecil yapılabilir.
-   B: İdari para cezaları ilk taksit peşin ödenmek koşuluyla yazılı başvuruyla bir yıl içinde dört eşit taksitte ödenebilir.
+   B: Gümrük alacaklarında azami tecil ve taksitlendirme süresi otuz altı aydır; daha kısa süreli tecil yapılabilir.
 D7-069(K11) ~ D8-043(K11): [('GK', '241/6-d')]
    A: Tehlikeli eşyanın genel amaçlı yerde depolanması dört, antrepo kaydına geçirmeme iki, istenen belgeyi ibraz etmeme sekiz kat; toplam on dört kat.
    B: Yabancı limandan gelen veya giden geminin geliş ve gidişinde süresinde bilgi verilmemesi iki kat usulsüzlük cezası gerektirir.
+D8-030(K11) ~ D8-043(K11): [('GK', '241/4-c')]
+   A: Özet beyanın süresi içinde verilmemesi, eşya özet beyana uygun çıksa ve vergi kaybı olmasa da iki kat usulsüzlük cezası gerektirir.
+   B: Yabancı limandan gelen veya giden geminin geliş ve gidişinde süresinde bilgi verilmemesi iki kat usulsüzlük cezası gerektirir.
+D8-030(K11) ~ D9-067(K12): [('GK', '237/6')]
+   A: Özet beyanın süresi içinde verilmemesi, eşya özet beyana uygun çıksa ve vergi kaybı olmasa da iki kat usulsüzlük cezası gerektirir.
+   B: Özet beyansız getirilen eşyada ceza, özet beyanla yükümlü kişiden; o tespit edilemezse eşyayı Türkiye Gümrük Bölgesine getiren kişiden alınır.
 D6-092(K12) ~ D8-045(K12): [('5607', '2/1-b'), ('5607 Sayılı Kaçakçılıkla Mücadele Kanunu', '3/1-ğ')]
    A: Kaçak akaryakıtın değeri: ihraçta FOB, ithalde CIF kıymeti veya varsa mahkemece belirlenen değerdir; gümrük vergileri eklenmez.
    B: El konulan eşyanın muhafaza ücreti CIF değeri üzerinden günlük binde bir, altı aydan sonra yarısıdır; eşya değerinin yüzde on beşini aşamaz.
@@ -722,6 +698,9 @@ D6-100(K12) ~ D9-065(K12): [('5607', '3/2')]
 D7-022(K12) ~ D10-087(K12): [('5607', '5/2')]
    A: Suç örgüt faaliyeti çerçevesinde işlenmişse gümrüklenmiş değerin iki katını ödeyene etkin pişmanlık indirimi uygulanmaz.
    B: Sahipsiz yakalanan kaçak eşyanın ikramiyeye esas değerini, mahallin en büyük mülkî amirinin görevlendirdiği üç kişilik heyet belirler.
+D7-024(K12) ~ D7-027(K12): [('5607', '3/6')]
+   A: Bandrol ve benzeri işaretleri hakkı olmadan sahte evrakla temin eden kişiye üç-altı yıl hapis ve yirmi bin güne kadar adlî para cezası verilir.
+   B: İhraç beyanı ile fiilen ihraç edilen eşya arasındaki yüzde onu aşmayan fark kaçakçılık sayılmaz; yalnız Gümrük Kanununa göre işlem yapılır.
 D7-024(K12) ~ D10-088(K12): [('5607', '3/12')]
    A: Bandrol ve benzeri işaretleri hakkı olmadan sahte evrakla temin eden kişiye üç-altı yıl hapis ve yirmi bin güne kadar adlî para cezası verilir.
    B: Marker yerine kullanılan kimyasal terkipler de suç kapsamındadır; markersiz akaryakıt kaçak sokulmuşsa artırım fıkrası uygulanır; lisansa aykırı tank bulundurmak tek başı
@@ -737,21 +716,15 @@ D8-045(K12) ~ D10-087(K12): [('5607', '2/1-b')]
 D8-045(K12) ~ D10-089(K12): [('5607 Sayılı Kaçakçılıkla Mücadele Kanunu', '3/1-ğ')]
    A: El konulan eşyanın muhafaza ücreti CIF değeri üzerinden günlük binde bir, altı aydan sonra yarısıdır; eşya değerinin yüzde on beşini aşamaz.
    B: Elkonulan Eşya Yönetmeliğinde rayiç bedel: malın temin edildiği yer ve tarihteki piyasadaki alım ve satım bedelidir.
-D8-073(K12) ~ D9-065(K12): [('5607', '3/1'), ('5607', '3/3')]
-   A: Transit eşyasını bırakma suçu üç veya daha fazla kişiyle birlikte işlenirse ceza yarı oranında artırılır: 24 ay temel ceza 36 ay olur.
+D8-073(K12) ~ D9-065(K12): [('5607', '3/3')]
+   A: Kaçakçılık konusu eşya çevre veya toplum sağlığını tehdit ediyorsa, daha ağır suç yoksa hapis cezası on yıldan az olamaz: 36 ay → 120 ay.
    B: Eşyayı gümrük işlemlerine tabi tutmaksızın ülkeye sokana bir-beş yıl hapis ve on bin güne kadar adlî para cezası verilir.
-D8-073(K12) ~ D9-066(K12): [('5607', '3/1')]
-   A: Transit eşyasını bırakma suçu üç veya daha fazla kişiyle birlikte işlenirse ceza yarı oranında artırılır: 24 ay temel ceza 36 ay olur.
-   B: Eşyanın değeri pek hafifse ceza üçte birine kadar indirilir; azami indirimle 36 aylık temel ceza 12 aya iner.
 D9-065(K12) ~ D9-066(K12): [('5607', '3/1')]
    A: Eşyayı gümrük işlemlerine tabi tutmaksızın ülkeye sokana bir-beş yıl hapis ve on bin güne kadar adlî para cezası verilir.
-   B: Eşyanın değeri pek hafifse ceza üçte birine kadar indirilir; azami indirimle 36 aylık temel ceza 12 aya iner.
+   B: Eşyanın değeri hafifse ceza yarısına kadar indirilir; azami indirimle 36 aylık temel ceza 18 aya iner.
 D10-087(K12) ~ D10-089(K12): [('5607', '10/5')]
    A: Sahipsiz yakalanan kaçak eşyanın ikramiyeye esas değerini, mahallin en büyük mülkî amirinin görevlendirdiği üç kişilik heyet belirler.
    B: Elkonulan Eşya Yönetmeliğinde rayiç bedel: malın temin edildiği yer ve tarihteki piyasadaki alım ve satım bedelidir.
-D6-048(K13) ~ D9-088(K13): [('Yetkilendirilmiş Gümrük Müşavirliği Tebl', '17/2-b')]
-   A: Önemli olay yaşanmadığı bildirilen günlük rapor için gümrük idaresince onay veya ret işlemi yapılmaz.
-   B: AN6-AN8 sayım tutanağı bilgileri tespit günü sisteme gönderilir; aylık genel rapor takip eden ayın ilk yedi iş günü içinde e-imzayla gönderilir.
 D7-064(K13) ~ D8-024(K13): [('GK geçici', '6/9')]
    A: Tedbiren izin belgesi alınması gerekçesiyle birlikte, izin belgesinin alınmasını izleyen günde Bakanlığa bildirilir.
    B: Adli kovuşturmada disiplin cezası TCK zamanaşımına göre verilir; görev suçlarında TCK memur hükümleri uygulanır; tedbiren alma yetkisi müfettiş ve bölge müdüründedir.
@@ -761,9 +734,6 @@ D7-064(K13) ~ D9-087(K13): [('GK geçici', '6/9')]
 D7-064(K13) ~ D9-089(K13): [('GK geçici', '6/9')]
    A: Tedbiren izin belgesi alınması gerekçesiyle birlikte, izin belgesinin alınmasını izleyen günde Bakanlığa bildirilir.
    B: Meslekten çıkarma, meslek mensubunun izin belgesinin geri alınarak bir daha bu mesleği icra etmesine izin verilmemesidir.
-D7-087(K13) ~ D9-085(K13): [('Gümrük Genel Tebliği (Tahsilat İşlemleri', '6/3')]
-   A: Dolaylı temsilci sorumlu ise ek tahakkuk her birine ayrı ve tüzel kişiliğe de tebliğ edilir; OKS/YYS veya teslimden önce tebliğde temsilciye tebligat yapılmaz.
-   B: Eki belgeler arasındaki çelişkiyi araştırmayan dolaylı temsilci GM, verilerin yanlışlığını bilmesi gereken kişi sayılır ve asıl yükümlüyle müteselsilen sorumludur.
 D8-024(K13) ~ D9-087(K13): [('GK geçici', '6/9')]
    A: Adli kovuşturmada disiplin cezası TCK zamanaşımına göre verilir; görev suçlarında TCK memur hükümleri uygulanır; tedbiren alma yetkisi müfettiş ve bölge müdüründedir.
    B: 3713 sayılı Kanun kapsamında hakkında kovuşturma başlatılan meslek mensubunun izin belgesi kovuşturma sonuçlanıncaya kadar tedbiren geri alınır.

@@ -74,3 +74,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K07 (T1) uygulandı: D6-043 GY 321/322'ye taşındı (D8-036 ile aynı önermeler ve D6-026'ya ipucu giderildi), D10-062 öncül I DİR Tebliği 12/1-a.
 - K14 (T1) uygulandı: D10-065 öncül IV GY 482/3 (D6-070 çakışması giderildi; GY 482/2 hafızadaki GMY-071 olduğu için kullanılmadı), D9-049 satır 2 GY 158/3 (D9-045 ipucu giderildi).
 - K05 (T1/V10) uygulandı: D10-051 GK 104/3'e taşındı (D6-027 ile GK 15/4 tekrarı giderildi), D10-040 öncül IV GK 121/1-b ve 121/2, D7-038 öncül IV İRK 10/4.
+- K03 (T1) uygulandı: D10-039 YGM Tebliği m.11/1-e menşe tespit kodlarına (GK 3/6-b tekrarı ve D10-055 ipucu giderildi), D8-042 OKS Tebliği m.55-57 basitleştirilmiş A.TR'ye taşındı (D9-099 ile GY 432/1 çakışması giderildi).
