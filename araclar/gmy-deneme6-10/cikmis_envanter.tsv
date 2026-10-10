@@ -1,0 +1,401 @@
+YIL	SORU_NO	KONU	ÖLÇÜLEN_BİLGİ	KALIP	KAYNAK_DOSYA	CEVAP	RESMI_CEVAP
+2021	21	Dahilde İşleme	Vergileri teminata bağlanarak geçici ithal edilen eşyanın işlem görmüş ürün olarak ihracında teminat iadesi: şartlı muafiyet sistemi.	TANIM	32-DAHİLDE İŞLEME.txt	A	A
+2021	22	Temsil	"Temsilci, temsil edildiğini ve temsil şeklini belirtmek, temsil yetki belgesini ibraz etmek zorundadır; ""zorunda değildir"" yanlıştır."	YANLIŞ	2-TEMSİL.txt	C	C
+2021	23	Antrepo	"Antrepo işleticisi izni için Türkiye Gümrük Bölgesinde yerleşik olma şartı aranır; ""aranmaz"" ifadesi yanlıştır."	YANLIŞ	28-antrepo rejimi.txt	B	B
+2021	24	Belge Saklama	GK 13: belgeler beş yıl saklanır; süre beyanname tescil edildiği yılın başından değil sonundan işlemeye başlar.	YANLIŞ	8-SÜRELER VE DİĞER HÜKÜMLER.txt	E	E
+2021	25	Yetkilendirilmiş Yükümlü	"YYS için en az üç yıl faaliyet aranır; ""en az iki yıldır faaliyette"" şartı sayılmaz."	KAPSAM_DIŞI	3-YYS.txt	A	A
+2021	26	Temel Tanımlar	Gümrük Kanunu md. 3'te sekiz gümrük rejimi sayılmıştır.	KAPSAM	1-TANIMLAR.txt	D	D
+2021	27	Tarife	"GK 15/3: gümrük tarifesi bazı eşyaya şartlı uygulanan muafiyet/indirimi kapsar; ""sadece serbest bölgeye konulan eşya"" ifadesi kapsam dışıdır."	KAPSAM_DIŞI	9-TAR.POZ.AYIRMA.txt	A	A
+2021	28	Transit	İhracat işlemleri tamamlanmış eşyanın gözetim altında TGB içinde bir noktadan diğerine taşınması transit rejimidir.	TANIM	20-TRANSİT REJİMİ.txt	A	A
+2021	29	Gümrük Kıymeti	Beyan sahibinin yazılı talebiyle indirgeme ile hesaplanmış kıymet yöntemlerinin uygulama sırası değiştirilebilir.	KAVRAM	12-KIYMET VE KAPLAR.txt	C	C
+2021	30	Geri Gelen Eşya	Serbest dolaşımdaki eşya ihraçtan sonra üç yıl içinde geri gelirse ithalat vergilerinden muaf tutulur.	SÜRE	37-geri gelen eşya.txt	C	C
+2021	31	Gümrük Kıymeti	Alıcının pazarlama dahil kendi hesabına yaptığı faaliyetler satıcıya dolaylı ödeme sayılmaz, fiyata eklenmez.	YANLIŞ	12-KIYMET VE KAPLAR.txt	E	E
+2021	32	Taşıtlar	"Geçici çıkarılan taşıtlar için süre GK 168'deki üç yıldır; ""beş yıl"" yanlıştır."	YANLIŞ	36-ihracat.txt	D	D
+2021	33	Özet Beyan	TGB'ye getirilen eşya girişinden itibaren gümrük kontrolüne değil gümrük gözetimine tabidir.	YANLIŞ	15-ÖZET BEYAN.txt	D	D
+2021	34	Tasfiye	Beyanname verilmişse tasfiye edilen eşyanın satış bedelinden alınacak vergi tescil tarihindeki orana göre belirlenir.	SÜRE	43-tasfiye.txt	A	A
+2021	35	Gümrük Kıymeti	Fatura dövizleri yükümlülüğün başladığı tarihteki TCMB döviz satış kuru üzerinden TL'ye çevrilir.	KAVRAM	12-KIYMET VE KAPLAR.txt	A	A
+2021	36	Geçici Depolama/GOBİK	"Süre uzatımında gerekçe bir ayı aşan taleplerde şarttır; ""elli günü aşan"" ifadesi yanlıştır."	YANLIŞ	16-GOBİK VE SAHTE EŞYA.txt	A	A
+2021	37	Gümrük Müşavirliği	"GM tüzel kişiliklerine gümrük müşavir yardımcıları da ortak olabilir; ""olamazlar"" yanlıştır."	YANLIŞ	2-TEMSİL.txt	C	C
+2021	38	Bağlayıcı Bilgi (BTB/BMB)	Tahlil metotları BTB başvurusuna ilişkindir; BMB başvurusunun zorunlu bilgileri arasında yer almaz.	KAPSAM_DIŞI	7-BİLGİ.txt	B	B
+2021	39	Gümrük Kıymeti	İndirgeme yönteminde ithal tarihinden itibaren 90 gün içindeki Türkiye'deki ilk satışın birim fiyatı esas alınır.	SÜRE	12-KIYMET VE KAPLAR.txt	D	D
+2021	40	Geçici Depolama/GOBİK	Yolcu eşyası geçici depolama yerinde üç ay kalır; mücbir sebep aranmaksızın üç aya kadar uzatılabilir.	SÜRE	29-iŞLETİCİLER.txt	C	C
+2021	41	Antrepo	Antrepodaki eşya için GOİK beyannamesi tescilinden itibaren işlemler otuz gün içinde bitirilmelidir.	SÜRE	17-BEYAN.txt	E	E
+2021	42	Serbest Dolaşıma Giriş	Nihai kullanım nedeniyle sıfır vergiden yararlanma serbest dolaşım statüsünü kaybettirmez.	KAPSAM_DIŞI	18-Ser.Dol.Giriş Rejimi.txt	B	B
+2021	43	Şartlı Muafiyet/EEGR	Transit rejimi ekonomik etkili gümrük rejimi değildir.	KAPSAM_DIŞI	19-ŞARTLI M VE E.E.G.R.txt	E	E
+2021	44	GKAİR	Gümrük kontrolü altında işleme rejiminde elde edilen ürünlere işlenmiş ürün denir.	TANIM	33-GKAİR.txt	D	D
+2021	45	Geçici İthalat	Olağan yıpranma dışında değişmeden kullanılıp yeniden ihraç: geçici ithalat rejimi.	TANIM	34-GEÇİCİ İTHALAT.txt	B	B
+2021	46	Serbest Bölge	Serbest bölgedeki serbest dolaşımda olmayan eşya DİR, GKAİR, geçici ithalata tabi tutulabilir; bir aylık kalış sınırı yoktur.	YANLIŞ	38-serbest bölge.txt	E	E
+2021	47	Transit	Transitte teminat kuraldır; hava, deniz, demiryolu ve boru hattı taşımaları istisnadır, karayolu değildir.	KAPSAM_DIŞI	20-TRANSİT REJİMİ.txt	D	D
+2021	48	YGM	Sayım tutanakları ve önemli olaylara ilişkin bilgileri içeren YGM raporu günlük rapordur.	TANIM	31-YGM.txt	C	C
+2021	49	Dış Ticaret Belgeleri	Her kapta ne miktar eşya bulunduğunu gösteren belge çeki listesidir.	TANIM	17-BEYAN.txt	B	B
+2021	50	Beyan	Yanlış rejim nedeniyle beyanname iptal talebi tescilden itibaren üç ay içinde yapılır.	SÜRE	17-BEYAN.txt	C	C
+2021	51	Beyan	Hatlar: muayene+belge kırmızı, belge kontrolü sarı, onaylanmış kişi ihracatı mavi, kontrolsüz yeşil.	EŞLEŞTİRME	17-BEYAN.txt	A	A
+2021	52	Hariçte İşleme	Yalnız birinin TGB'de olduğu, rejime giriş ve kapatan idarelerin farklı olduğu durum üçgen trafiktir.	TANIM	19-ŞARTLI M VE E.E.G.R.txt	A	A
+2021	53	Geçici İthalat	Kısmi muafiyette her ay için vergilerin %3'ü alınır.	ORAN-TUTAR	34-GEÇİCİ İTHALAT.txt	C	C
+2021	54	Antrepo	İşleticinin stok kaydı tuttuğu ve noksanlıktan vergiyle sorumlu olduğu genel antrepo A tipidir.	KAVRAM	28-antrepo rejimi.txt	A	A
+2021	55	Serbest Bölge	Hatalı düzenlenip iptal edilen gümrük statü belgeleri imha edilmez, tescil defterine meşruhatla dosyada saklanır.	YANLIŞ	38-serbest bölge.txt	E	E
+2021	56	Tasfiye	Tasfiye yöntemleri ihale, yeniden ihraç amaçlı satış, perakende satış ve imhadır; mutat elleçleme yöntem değildir.	ÖNERMELİ	43-tasfiye.txt	B	B
+2021	57	YGM	YGM tebliğinde olumlu, olumsuz, şartlı tespit ve tespit raporu vardır; tasdik raporu yoktur.	KAPSAM_DIŞI	31-YGM.txt	D	D
+2021	58	Muafiyetler	Ticari faaliyete bağlı istisnada sermaye malları yalnız işyeri nakli suretiyle ithalde muaftır.	KAPSAM_DIŞI	39-muafiyetler.txt	B	B
+2021	59	Posta/Hızlı Kargo	Gelen koliler, gönderilen posta çantaları, iade eşya kontrole tabidir; eşya içermeyen mektuplar hariçtir.	ÖNERMELİ	40-posta ve hızlı kargo.txt	C	C
+2021	60	Tasfiye	İhale ile tasfiye edilecek eşya için ihale ilanı yayımlanana kadar rejim veya yeniden ihraç talep edilebilir.	SÜRE	43-tasfiye.txt	D	D
+2021	61	Dış Ticaret Belgeleri	Anlaşma aşamasında teklif niteliği taşıyan, satıcının alıcıya gönderdiği belge proforma faturadır.	TANIM	YOK	D	D
+2021	62	Tasfiye	Taşıtlardaki satılamaz, haciz, rehin gibi şerhler tasfiye kararının alındığı tarihten itibaren kalkmış sayılır.	SÜRE	43-tasfiye.txt	A	A
+2021	63	Tasfiye	Antrepoda beyanname tescilinden sonra otuz (on değil) gün içinde işlemi bitmeyen eşya tasfiyelik olur.	KAPSAM_DIŞI	43-tasfiye.txt	B	B
+2021	64	Geri Gelen Eşya	Süre aşımında 241/3-ı usulsüzlük cezası, vergiler tahsil ve serbest dolaşıma giriş hükümleri uygulanır.	MÜEYYİDE	37-geri gelen eşya.txt	A	A
+2021	65	Posta/Hızlı Kargo	Koli listesinde sıra no, çıkış ülkesi, sayı-marka, belgeler ve geldiği yol bulunur; muayene memurunun adresi bulunmaz.	KAPSAM_DIŞI	40-posta ve hızlı kargo.txt	E	E
+2021	66	Gümrük Vergileri	Gümrük vergisi hesabında tarife sınıflandırması, menşe ve gümrük kıymeti birlikte dikkate alınır.	ÖNERMELİ	YOK	E	E
+2021	67	Posta/Hızlı Kargo	Mektup postası dışındaki eşyanın başka gümrük idaresine sevki transit rejimi hükümlerine göre yapılır.	KAVRAM	40-posta ve hızlı kargo.txt	B	B
+2021	68	İhracat	Tescildeki durum ve niteliğini koruyarak TGB'yi terk eden eşya fiilen ihraç edilmiş sayılır (fiili ihracat).	TANIM	36-ihracat.txt	D	D
+2021	69	Akaryakıt-Kumanya	Liman bayii: AŞ/Ltd, 50.000 TL sermaye, 200 DWT tanker/teminat, sabıka şartı; dış sefer yapmama şartı yoktur.	KAPSAM_DIŞI	42-kumanya.txt	E	E
+2021	70	Kabotaj	Kabotaj gemisinin yabancı limandan aldığı yakıt farkı seyir jurnali ve devriçark defterine göre bulunur.	BELGE	42-kumanya.txt	A	A
+2021	71	Beyan	Gönderici-alıcı, kıymet, tarife, menşe, taşıma ve vergi bilgilerini içeren belge gümrük beyannamesidir.	BELGE	YOK	C	C
+2021	72	Muafiyetler	Diplomatik muafiyetten milletlerarası kuruluşların Türkiye'de ikamet EDEN misyon şefleri yararlanır; ikamet etmeyenler yararlanamaz.	KAPSAM_DIŞI	39-muafiyetler.txt	D	D
+2021	73	Muafiyetler	Bilgi materyali istisnası: patent/yayın hakları örgütlerine gönderilen eşya, turistik reklam malzemesi, ticari değeri olmayan belgeler.	ÖNERMELİ	39-muafiyetler.txt	E	E
+2021	74	Muafiyetler	Ticari amaçsız eğitim-bilim eşyası, tıbbi cihaz, Ar-Ge eşyası ve ilaç kalite kontrol maddeleri istisna kapsamındadır.	ÖNERMELİ	39-muafiyetler.txt	E	E
+2021	75	Geçici İthalat	Olağan yıpranma dışında değişmeden kullanılıp yeniden ihraç: geçici ithalat rejimi (tanım tekrarı).	TANIM	34-GEÇİCİ İTHALAT.txt	A	A
+2021	76	Gümrük Müşavirliği	Dolaylı temsil noter tasdikli vekaletnameli GM'ce yapılır; kamu kurumlarının vekaletnamelerinde noter onayı aranmaz.	DOĞRU	2-TEMSİL.txt	E	E
+2021	77	Gümrük Müşavirliği	GM izin belgeleri 492 sayılı Harçlar Kanunu uyarınca ruhsat harcına tabidir.	KAVRAM	2-TEMSİL.txt	C	C
+2021	78	Teminat ve Faiz	Hatalı beyanla eksik alınan vergiye yükümlülük başlangıcı ile kesinleşme arası için faiz uygulanır.	KAVRAM	44-yükümlülük.txt	B	B
+2021	79	Tahakkuk-Tebliğ-Ödeme	Ceza davası açılmışsa vergi alacakları TCK dava ve ceza zamanaşımı içinde tahsil edilir; 6183 zamanaşımı ifadesi yanlış.	YANLIŞ	45-tebliğ.txt	E	E
+2021	80	Geri Verme-Kaldırma	Geri verme/kaldırma hükümleri GK kapsamındaki para cezalarına uygulanır; 6183 kapsamı ifadesi yanlıştır.	YANLIŞ	47-geri verme kaldırma.txt	C	C
+2021	81	Tahakkuk-Tebliğ-Ödeme	Ödeme süresi (15 gün) teminatla 30 gün uzatılabilir; uzatılan süre için 6183'e göre tecil faizi alınır.	DOĞRU	45-tebliğ.txt	C	C
+2021	82	Yetkilendirilmiş Yükümlü	Antrepo, GKAİR ve geçici ithalatta YYS sahibinden talep halinde vergilerin %10'u teminat alınır.	ORAN-TUTAR	3-YYS.txt	B	B
+2021	83	Gümrük Müşavirliği	"GMY için staj süresi bir yıldır; ""üç yıl staj"" koşulu sayılmamıştır."	KAPSAM_DIŞI	2-TEMSİL.txt	C	C
+2021	84	Gümrük Müşavirliği	GM bilgi-belge değişikliklerini bir hafta içinde gümrük müşavirleri derneklerine bildirir.	SÜRE	2-TEMSİL.txt	A	A
+2021	85	Gümrük Müşavirliği	Şirkete bağlı olmayan dolaylı temsilci GM, VUK uyarınca serbest meslek makbuzu düzenler.	BELGE	2-TEMSİL.txt	E	E
+2021	86	Gümrük Müşavirliği	Asgari ücret tarifesinde SDŞ, DTSŞ, OKSB, YYS sahiplerinin ihracat işlemlerinde genel indirim (sınav tarihinde %30; metinde güncel %20).	ORAN-TUTAR	51-disiplin cezaları.txt	B	A
+2021	87	YGM	Tecil-taksitlendirmede çok zor durum tespiti YGM raporunun kodu ZD1'dir.	KAVRAM	31-YGM.txt	E	E
+2021	88	Tahakkuk-Tebliğ-Ödeme	Çok zor durum formülü (kasa+banka+kısa vadeli alacaklar)/kısa vadeli borçlar; stoklar dahil değildir.	KAPSAM_DIŞI	45-tebliğ.txt	C	C
+2021	89	Dahilde İşleme	DİR ürünü Türk menşeli eşyanın tercihli tarife için ödenen ithalat vergisine telafi edici vergi denir.	TANIM	32-DAHİLDE İŞLEME.txt	B	B
+2021	90	Posta/Hızlı Kargo	Posta ve hızlı kargo eşyasının miktar ve değerini Cumhurbaşkanı belirler.	YETKİ	2-TEMSİL.txt	E	E
+2021	91	Kaçakçılık	Kaçakçıların kamuoyuna ilanı için mahkûmiyet hükmünün kesinleşmesi gerekir.	ŞART	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2021	92	Kaçakçılık	5607'de kaçak akaryakıtın tasfiyesi bağımsız madde (16/A) ile düzenlenmiştir.	KAVRAM	5607_sayili_kacakcilikla_mucadele_kanunu.txt	E	E
+2021	93	Kaçakçılık	Önleme-izleme görevlileri: mülki amirler, gümrük, emniyet, jandarma, sahil güvenlik; özel güvenlik sayılmaz.	KAPSAM_DIŞI	5607_sayili_kacakcilikla_mucadele_kanunu.txt	C	C
+2021	94	Kaçakçılık	İzleme tutanağında düzenleyenlerin unvan ve isimleri bulunur; yerleşim yeri bilgisi zorunlu unsur değildir.	KAPSAM_DIŞI	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2021	95	Kaçakçılık	Akaryakıt yönetmeliğinde öngörülmeyen durumlarda Ticaret ve İçişleri Bakanlıkları yetkilidir.	YETKİ	kacakcilikla_mucadele_kanununa_gore_elkonulan_akaryakitin_teslimi_muhafazasi_tasfiyesi_ve_yapilan_masraflara_iliskin_uygulama_yonetmeligi.txt	C	E
+2021	96	Kaçakçılık	Ceza artırımı (yarısından iki katına) akaryakıt, tütün, makaron, yaprak sigara kâğıdı, etil alkol, metanol, alkollü içkide uygulanır; e-sigarada değil.	KAPSAM_DIŞI	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2021	97	Kaçakçılık	Yasak yerlerden gümrük bölgesine girenler durdurulur, aranır; bulunan kaçak eşyaya el konulur.	ÖNERMELİ	5607_sayili_kacakcilikla_mucadele_kanunu.txt	E	
+2021	98	Kaçakçılık	Taşıt müsaderesinde TCK müsadere hükümleri ve md.13 koşulları uygulanır; 3628 sayılı Kanun değil.	YANLIŞ	5607_sayili_kacakcilikla_mucadele_kanunu.txt	B	B
+2021	99	Kaçakçılık	"5607'ye dayalı ""alıkonulan tarım ürünleri"" yönetmeliği yoktur; ikramiye, el konulan eşya, akaryakıt yönetmelikleri vardır."	KAPSAM_DIŞI	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2021	100	Kaçakçılık	Suçun üç veya daha fazla kişiyle birlikte işlenmesi cezayı yarı oranında artırır.	ORAN-TUTAR	5607_sayili_kacakcilikla_mucadele_kanunu.txt	B	B
+2022	21	Kaçakçılık	"5607'de gümrüklenmiş değer: ithalatta CIF ile gümrük vergileri toplamı; yalnız ""CIF kıymeti"" demek yanlıştır."	YANLIŞ	5607_sayili_kacakcilikla_mucadele_kanunu.txt	C	C
+2022	22	Kaçakçılık	5607 suçlarının örgüt faaliyeti çerçevesinde işlenmesi halinde ceza iki kat artırılır.	MÜEYYİDE	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2022	23	Kaçakçılık	Toplum/çevre sağlığına zararlı eşya ve atıkta soruşturma başlatılır, eşya derhal getirildiği ülkeye iade edilir.	MÜEYYİDE	5607_sayili_kacakcilikla_mucadele_kanunu.txt	E	E
+2022	24	Kaçakçılık	Eşyayı aldatıcı işlemle vergisiz ülkeye sokma: iki-beş yıl hapis ve on bin güne kadar adli para cezası.	DOĞRU	5607_sayili_kacakcilikla_mucadele_kanunu.txt	B	B
+2022	25	Kaçakçılık	Kara Kuvvetleri sınır birlikleri 5607 md.19'daki önleme-izleme görevlileri arasında sayılmaz.	KAPSAM_DIŞI	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2022	26	Kaçakçılık	5607 davalarında ilgili gümrük idaresi başvurusu üzerine davaya katılan olarak kabul edilir.	YETKİ	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2022	27	Kaçakçılık	Muaf ithal eşyayı ithal amacı dışında kullanmak suçtur; süresinde yurt dışına çıkarmamak kaçakçılık fiili sayılmaz.	KAPSAM_DIŞI	5607_sayili_kacakcilikla_mucadele_kanunu.txt	B	B
+2022	28	Temel Tanımlar	Geçici ihracat GK md.3'te sayılan gümrük rejimlerinden biri değildir.	KAPSAM_DIŞI	1-TANIMLAR.txt	D	D
+2022	29	Gümrük Yükümlülüğü	İhracat vergisine tabi eşyanın ihracında gümrük yükümlülüğü beyannamenin tescil tarihinde başlar.	SÜRE	44-yükümlülük.txt	B	B
+2022	30	Fikri-Sınai Haklar	Açık delil varsa gümrük idaresi eşyayı en fazla üç iş günü re'sen alıkoyabilir.	SÜRE	16-GOBİK VE SAHTE EŞYA.txt	B	B
+2022	31	Temel Tanımlar	GOİK: rejime tabi tutma, serbest bölgeye giriş, yeniden ihraç, imha, terk; OSB'deki firmaya satış GOİK değildir.	KAPSAM_DIŞI	1-TANIMLAR.txt	C	C
+2022	32	Geçici Depolama/GOBİK	Özet beyan kapsamı eşyaya GOİK denizyolunda 45, diğer yollarda 20 gün içinde belirlenir.	SÜRE	16-GOBİK VE SAHTE EŞYA.txt	A	A
+2022	33	Şartlı Muafiyet/EEGR	Transit rejimi ekonomik etkili gümrük rejimi değildir.	KAPSAM_DIŞI	19-ŞARTLI M VE E.E.G.R.txt	B	B
+2022	34	Gümrük Yükümlülüğü	Gümrük yükümlülüğü ödeme, kaldırma, iptal, müsadere gibi hallerde sona erer; beyannamenin düzeltilmesi sona erdirmez.	KAPSAM_DIŞI	44-yükümlülük.txt	D	D
+2022	35	İthalat Rejim Kararı	IRK eki I sayılı liste tarım ürünleridir; balıkçılık ve su ürünleri IV sayılı listededir.	YANLIŞ	ck_2025-10790_ithalat_rejimi_kararinda_degisiklik_yapilmasina_iliskin_karar.txt	A	A
+2022	36	Cezalar	"İzne tabi eşya izin alınmış gibi beyan edilirse gümrüklenmiş değerin iki katı İPC; ""gümrük vergileri tutarında"" yanlış."	YANLIŞ	48-cezalar.txt	B	B
+2022	37	Nihai Kullanım	Nihai kullanım kapsamı eşya gümrük idaresinin izniyle bir izin hak sahibinden diğerine devredilebilir.	YANLIŞ	18-Ser.Dol.Giriş Rejimi.txt	C	C
+2022	38	Gümrük Vergileri	İthalatta EMY, KDV, ÖTV, İGV alınır; ticari ithalatta TRT bandrolü bu vergi ve fonlardan sayılmaz.	KAPSAM_DIŞI	YOK	E	E
+2022	39	Serbest Dolaşıma Giriş	Serbest dolaşım statüsünü iptal ve geri verme halleri sona erdirir; beyannamede düzeltme sona erdirmez.	KAPSAM_DIŞI	18-Ser.Dol.Giriş Rejimi.txt	E	E
+2022	40	Serbest Dolaşıma Giriş	2009/15481 Karar şartlarıyla Türk bayrağı çekilmiş gemiler TGB'ye getirilmeksizin serbest dolaşıma girebilir.	KAPSAM	18-Ser.Dol.Giriş Rejimi.txt	D	D
+2022	41	Temel Tanımlar	"Eşyaya uygulanan ithalat veya ihracat vergilerinin tümü ""gümrük vergileri"" deyimidir."	TANIM	1-TANIMLAR.txt	D	D
+2022	42	Cezalar	İthali yasak eşyada fark vergilerin yanı sıra gümrüklenmiş değerin dört katı idari para cezası (GK 235/1-a).	MÜEYYİDE	48-cezalar.txt	B	B
+2022	43	Tarife	Belirli miktar/değer için vergi indirimi veya muafiyet sağlanan ithalat tarife kontenjanıdır.	TANIM	9-TAR.POZ.AYIRMA.txt	B	B
+2022	44	Gümrük Kıymeti	İlişkili firmalardan ithalatta ilişki fiyatı etkilemediyse satış bedeli yöntemi uygulanabilir.	KAPSAM	12-KIYMET VE KAPLAR.txt	A	A
+2022	45	Beyan	Türkiye'de vefat eden yabancının mirasçılarına intikal eden kişisel ve ev eşyası sözlü beyan formuyla beyan edilir.	BELGE	17-BEYAN.txt	B	B
+2022	46	Dahilde İşleme	DİR şartlı muafiyet ürünü Türk menşeli eşyanın tercihli tarifesi için ödenen vergi telafi edici vergidir.	TANIM	32-DAHİLDE İŞLEME.txt	C	C
+2022	47	Gümrük Kıymeti	Royalti tanımında patent, dizayn, know-how, model, marka, tescilli tasarım, telif hakkı vardır; mizanpaj yoktur.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	E	E
+2022	48	Gümrük Kıymeti	Aynı eşya: fiziksel özellik, kalite, tanınırlık aynı ve aynı ülkede üretilmiş; aynı üretici şart değildir.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	A	A
+2022	49	Gümrük Kıymeti	Kanun/merci kısıtlaması, coğrafi bölge kısıtı ve önemsiz kısıtlar hariç; kullanım yeri-şekli kısıtı satış bedelini engeller.	KAVRAM	12-KIYMET VE KAPLAR.txt	E	E
+2022	50	Gümrük Kıymeti	Son yöntemde önceki yöntemlerin makul esneklikle uygulanmasıyla bulunan kıymet esas alınabilir; yasak unsurlar arasında değildir.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	E	E
+2022	51	Gümrük Kıymeti	Satın alma komisyonu hariç komisyon ve tellaliye, kap ve ambalaj bedeli fiyata eklenir; satın alma komisyonu eklenmez.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	E	E
+2022	52	Gümrük Kıymeti	Alıcının pazarlama dahil kendi hesabına faaliyetleri satıcıya dolaylı ödeme sayılmaz, kıymete eklenmez.	YANLIŞ	12-KIYMET VE KAPLAR.txt	E	E
+2022	53	Gümrük Kıymeti	Hesaplanmış kıymet: malzeme ve imalat maliyeti, mutat kâr-genel gider, nakliye-sigorta; pazarlama gideri eklenmez.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	E	E
+2022	54	Teminat ve Faiz	Hatalı beyanla eksik alınan vergiye yükümlülük başlangıcı ile kesinleşme arası faiz (gecikme zammı oranında) uygulanır.	KAVRAM	44-yükümlülük.txt	A	A
+2022	55	Gümrük Kıymeti	Fatura dövizleri TCMB döviz satış kuru üzerinden TL'ye çevrilir.	KAVRAM	12-KIYMET VE KAPLAR.txt	B	B
+2022	56	GKAİR	İşlem görmüş ürün kıymeti: üçüncü ülke aynı/benzer kıymeti, ilişkisiz satış fiyatı, Türkiye satış fiyatı, ithal kıymet+işleme maliyeti.	ÖNERMELİ	33-GKAİR.txt	E	E
+2022	57	Geçici İthalat	Eşya-yolcu taşımayan tüzel kişi adına kayıtlı otomobil 1 No.lu Taşıt Takip Programına kaydedilir.	KAVRAM	34-GEÇİCİ İTHALAT.txt	A	A
+2022	58	Hariçte İşleme	Üçgen trafikte geçici ihraç eşyası bilgileri INF 2 bilgi formuyla bildirilir.	BELGE	35- hir.txt	B	B
+2022	59	Hariçte İşleme	Bedelli tamirde kıymet tamir masrafı, vergi serbest dolaşıma giriş beyannamesinin tescil tarihindeki unsurlara göre.	BOŞLUK	35- hir.txt	D	D
+2022	60	Geçici İthalat	Geçici ithalat eşyası başkasına satılamaz; satış rejim ihlalidir.	YANLIŞ	34-GEÇİCİ İTHALAT.txt	E	E
+2022	61	Geçici İthalat	Ticari/kişisel kara taşıtlarında kefil kuruluşlarca verilen teminat hükmündeki belge CPD karnesidir.	BELGE	1-TANIMLAR.txt	A	A
+2022	62	Şartlı Muafiyet/EEGR	Şartlı muafiyet düzenlemesi: transit, antrepo, DİR şartlı muafiyet, GKAİR, geçici ithalat; hariçte işleme değil.	KAPSAM_DIŞI	19-ŞARTLI M VE E.E.G.R.txt	D	D
+2022	63	Gümrük Müşavirliği	GM/GMY olmaya engel suçlar Kanunda sayılmıştır; görevi kötüye kullanma bu listede yer almaz.	KAPSAM_DIŞI	2-TEMSİL.txt	E	E
+2022	64	Disiplin	Mevzuata aykırı GM/GMY izin belgeleri tedbiren en fazla altı ay geçici olarak alınabilir (Geçici md.6/9).	SÜRE	51-disiplin cezaları.txt	D	
+2022	65	Cezalar	GK 241/1 usulsüzlük cezası yıllık yeniden değerlemeyle güncellenir; 2022 tutarı 235 TL'dir.	ORAN-TUTAR	48-cezalar.txt	E	E
+2022	66	İtiraz	Tebliğ edilen vergi, ceza ve kararlara tebliğden itibaren 15 gün içinde üst makama itiraz edilir.	SÜRE	49-itirazlar.txt	C	C
+2022	67	YGM	Genel antrepoya eşya giriş-çıkış işlemlerinin tespiti AN8 kodlu YGM raporuyla yapılır.	KAVRAM	31-YGM.txt	D	D
+2022	68	Antrepo	İzin hak sahibinin depolama yerinin antrepo addedildiği özel antrepo E tipidir.	KAVRAM	28-antrepo rejimi.txt	E	E
+2022	69	Cezalar	Antrepodaki eşyanın izinsiz elleçlemeye tabi tutulması 241/4-f uyarınca dört kat usulsüzlük cezası gerektirir.	MÜEYYİDE	48-cezalar.txt	B	B
+2022	70	Cezalar	Antrepoda belirgin farklı cins ve izne tabi eşya çıkarsa gümrüklenmiş değerin iki katı İPC (GK 236/5-b).	MÜEYYİDE	48-cezalar.txt	E	E
+2022	71	Bağlayıcı Bilgi (BTB/BMB)	BTB başvurusunda önceki beyannamelerin orijinal nüshaları istenmez.	KAPSAM_DIŞI	7-BİLGİ.txt	D	D
+2022	72	Antrepo	C tipi özel, F tipi genel antrepodur; GSM izni Bakanlıkça verilir; antrepo kalış süresi sınırsızdır: dört ifade de yanlış.	ÖNERMELİ	28-antrepo rejimi.txt	E	E
+2022	73	TIR	Taşıt onay belgesi kamyon, kamyonet, römork, tanker, brandalı taşıta düzenlenir; binek otomobile düzenlenmez.	KAPSAM_DIŞI	21-TIR SÖZLEŞMESİ.txt	E	E
+2022	74	TIR	TIR güzergâh ihlalinde GK 241/6 (sekiz kat) usulsüzlük cezası uygulanır.	DOĞRU	48-cezalar.txt	C	C
+2022	75	Transit	NATO Kuvvetler Statüsü Sözleşmesi kapsamında eşyanın transiti Form 302 ile yapılır.	BELGE	20-TRANSİT REJİMİ.txt	C	C
+2022	76	Transit	Boru hattıyla yapılan transit taşımalarda teminat aranmaz.	KAPSAM	20-TRANSİT REJİMİ.txt	D	D
+2022	77	Beyan	GK 73 saklı kalmak üzere eşyanın tesliminden sonra beyannamede düzeltme yapılamaz.	DOĞRU	17-BEYAN.txt	C	C
+2022	78	Beyan	Beyanname yerine kullanılan belgeler: elçilik mektubu, TIR, ATA, CPD, sözlü beyan formu vb.; CIM taşıma belgesi sayılmaz.	KAPSAM_DIŞI	17-BEYAN.txt	E	E
+2022	79	Temsil	"Dolaylı temsilci kendi adına başkası hesabına hareket eder; ""başkasının adına kendi hesabına"" yanlıştır."	YANLIŞ	2-TEMSİL.txt	D	D
+2022	80	Muayene/Tahlil	Gümrük idareleri eşyayı muayene edebilir, ayrıntılı muayene veya tahlil için numune alabilir.	DOĞRU	17-BEYAN.txt	A	A
+2022	81	Dış Ticaret Belgeleri	Her kapta ne miktar eşya bulunduğunu gösteren belge çeki listesidir.	TANIM	17-BEYAN.txt	E	E
+2022	82	Geçici Depolama/GOBİK	İhracat amaçlı eşya geçici depolama yerinde bir ay kalır; en çok üç aya kadar ek süre verilebilir.	BOŞLUK	36-ihracat.txt	B	B
+2022	83	Muafiyetler	Kullanılmış taşıt muafiyeti sürekli görevden dönen kamu görevlilerine tanınır; geçici görevle atananlara tanınmaz.	KAPSAM_DIŞI	39-muafiyetler.txt	E	D
+2022	84	Muafiyetler	"2009/15481: otobüs standart deposundaki muaf yakıt 300 litreyi aşamaz; ""550 litre"" yanlıştır."	YANLIŞ	39-muafiyetler.txt	E	E
+2022	85	Muafiyetler	Şahsi eşya kişisel eşyadan geniştir (ev eşyası, taşıt dahil); kapsamları aynı değildir.	YANLIŞ	39-muafiyetler.txt	D	D
+2022	86	Muafiyetler	Yolcu beraberi hediyelik eşya limiti 15 yaş altı 150 Avro, üstü 430 Avro'dur.	ORAN-TUTAR	39-muafiyetler.txt	B	B
+2022	87	Gümrük Müşavirliği	GM hesabına beyan edilen kişiyle müştereken ve müteselsilen sorumludur; borç bir kez ödenir, kim öderse kapanır.	ÖNERMELİ	2-TEMSİL.txt	D	B
+2022	88	Tahakkuk-Tebliğ-Ödeme	Sonradan tespit edilen eksik vergiler tebliğden itibaren on beş gün içinde ödenir.	SÜRE	45-tebliğ.txt	B	B
+2022	89	Geri Verme-Kaldırma	GK 211 kapsamı geri verme/kaldırma başvuru süresi bir değil üç yıldır.	YANLIŞ	47-geri verme kaldırma.txt	C	C
+2022	90	Geri Verme-Kaldırma	GY 500 limitlerine göre 250.000 TL'lik geri vermeye ilgili Gümrük Müdürlüğü yetkilidir.	YETKİ	47-geri verme kaldırma.txt	A	A
+2022	91	Geri Verme-Kaldırma	Uluslararası anlaşma kapsamı geri verme başvurusu tebliğden itibaren bir yıl içinde yapılır.	SÜRE	47-geri verme kaldırma.txt	D	D
+2022	92	Teminat ve Faiz	GY 495 teminatları: nakit TL, süresiz banka mektubu, DİBS, esham, haczedilen mal, kamu garanti mektubu, döviz; kesin kefalet senedi yok.	KAPSAM_DIŞI	46-teminat ve faiz.txt	E	E
+2022	93	Yetkilendirilmiş Yükümlü	YYS başvurusu için TGB'de yerleşik ve en az üç yıl faaliyette bulunmak gerekir.	SÜRE	3-YYS.txt	C	C
+2022	94	Onaylanmış Kişi	OKSB sahipleri eksik beyan, kısmi ve götürü teminat, mavi hattan yararlanır; yeşil hattan yararlanamaz.	KAPSAM_DIŞI	4-OKSB.txt	C	C
+2022	95	Onaylanmış Kişi	Mavi hat onaylanmış kişilerin yalnız ihracat beyannamelerinde yararlandığı, çıkıştan önce kontrolsüz hattır.	DOĞRU	4-OKSB.txt	B	B
+2022	96	Muayene/Tahlil	Eşya sahibi veya temsilcisi gümrük laboratuvarına doğrudan numune gönderemez.	YANLIŞ	17-BEYAN.txt	C	C
+2022	97	Dahilde İşleme	DİR amacı ihracatı desteklemek, ucuz hammadde, ürün ve pazar çeşitlendirmektir; ithalatçıyı desteklemek değildir.	KAPSAM_DIŞI	YOK	D	D
+2022	98	Gümrük Kıymeti	Benzer eşya: benzer özellik-unsur, aynı işlevi görme, ikame edilebilirlik; aynı ticari marka şart değildir.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	A	A
+2022	99	Gümrük Kıymeti	Tek acente/dağıtıcı ilişkisi tek başına ilişki sayılmaz; memur-idareci, işçi-işveren, kontrol ilişki sayılır.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	E	E
+2022	100	Gümrük Müşavirliği	Stajyerler gümrük idarelerinde iş takibi yapamaz.	YANLIŞ	2-TEMSİL.txt	C	C
+2023	21	Cezalar	GK'nın vergi kaybına neden olan işlemler bölümü dışındaki para cezaları usulsüzlük cezasıdır.	KAVRAM	48-cezalar.txt	C	C
+2023	22	Kaçakçılık	Özel güvenlik çalışanları kaçakçılığı önleme, izleme ve araştırmakla görevli değildir.	KAPSAM_DIŞI	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2023	23	Gümrük Müşavirliği	GM'ler düzenledikleri fatura, makbuz ve masraf belgelerini beş yıl saklamak zorundadır.	SÜRE	2-TEMSİL.txt	D	D
+2023	24	Disiplin	Disiplin cezaları (adli kovuşturma hariç) aykırılığın tespitinden itibaren üç yıl uygulanmazsa zamanaşımına uğrar.	SÜRE	51-disiplin cezaları.txt	C	C
+2023	25	Disiplin	Kaçakçılıktan mahkûmiyeti kesinleşen meslek mensubuna meslekten çıkarma cezası verilir.	MÜEYYİDE	51-disiplin cezaları.txt	E	E
+2023	26	Gümrük Müşavirliği	GM bilgi-belge değişikliklerini bir hafta içinde gümrük müşavirleri derneklerine bildirir.	SÜRE	2-TEMSİL.txt	D	D
+2023	27	Disiplin	Disiplin cezaları uyarma, kınama, geçici alıkoyma, meslekten çıkarmadır; izin belgesinin tedbiren alınması ceza değildir.	KAPSAM_DIŞI	51-disiplin cezaları.txt	C	C
+2023	28	Disiplin	Geçici olarak mesleki faaliyetten alıkoyma altı aydan az, bir yıldan çok olamaz.	SÜRE	51-disiplin cezaları.txt	C	C
+2023	29	Cezalar	Geçerli temsil yetkisi olmadan başkası adına iş takibi 241/4-a uyarınca dört kat usulsüzlük cezası gerektirir.	MÜEYYİDE	48-cezalar.txt	C	C
+2023	30	Cezalar	GY Ek-82: stajyer/GMY işe başlayış-ayrılış bildirimlerinin süresinde yapılmaması 241/1 tutarında usulsüzlük cezası gerektirir.	MÜEYYİDE	2-TEMSİL.txt	A	A
+2023	31	Temel Tanımlar	GOİK rejim, serbest bölge, yeniden ihraç, imha, terktir; geçici depolama yerine konulma GOİK değildir.	KAPSAM_DIŞI	1-TANIMLAR.txt	D	D
+2023	32	YGM	Antrepo giriş-çıkış ve stok tespiti yapan YGM iki genel antrepoyu geçmemek üzere toplam dört antrepoya rapor düzenler.	BOŞLUK	31-YGM.txt	B	B
+2023	33	Cezalar	Tarife unsurunda aykırılık ve vergi farkı %5'i aşarsa ithalat vergilerinden ayrı farkın üç katı ceza alınır.	MÜEYYİDE	48-cezalar.txt	B	B
+2023	34	Geçici İthalat	Fuar ve sergilerde sergilenecek eşyaya geçici ithalat rejimi uygulanır.	KAVRAM	34-GEÇİCİ İTHALAT.txt	B	B
+2023	35	Antrepo	Antrepolarda elleçleme izni denetleyici gümrük müdürlüğünce verilir.	YETKİ	28-antrepo rejimi.txt	D	D
+2023	36	Ticaret Politikası	Gözetim, kota, ithalat/ihracat yasakları ticaret politikası önlemidir; gümrük vergisi değildir.	KAPSAM_DIŞI	1-TANIMLAR.txt	B	B
+2023	37	Geçici İthalat	Kısmi muafiyette her ay için, tescil tarihindeki serbest dolaşım vergilerinin %3'ü alınır.	ORAN-TUTAR	34-GEÇİCİ İTHALAT.txt	B	B
+2023	38	Geçici Depolama/GOBİK	Gümrüğe sunulan eşya GOİK'e tabi tutuluncaya kadar geçici depolanan eşya statüsündedir.	KAVRAM	16-GOBİK VE SAHTE EŞYA.txt	B	B
+2023	39	Geçici Depolama/GOBİK	Özet beyan kapsamı eşyada GOİK denizyolunda 45, diğer yollarda 20 gün içinde tamamlanır.	BOŞLUK	16-GOBİK VE SAHTE EŞYA.txt	E	E
+2023	40	Beyan	TIR, ATA karnesi, kumanya listesi, elçilik mektubu beyanname yerine geçer; menşe şahadetnamesi geçmez.	KAPSAM_DIŞI	17-BEYAN.txt	B	B
+2023	41	Menşe	EUR.1 dolaşım belgesi bir menşe ispat belgesidir.	BELGE	32-DAHİLDE İŞLEME.txt	B	B
+2023	42	Menşe	AB'den sanayi ürünü A.TR ile gümrük vergisi ödenmeden ithal edilir; KDV ödenir.	DOĞRU	10-MENŞEİ.txt	A	A
+2023	43	Cezalar	İlişkili kişiler arası satışta ilişkinin beyan edilmemesi (vergi kaybı yok) iki kat usulsüzlük cezası (241/3-b).	MÜEYYİDE	48-cezalar.txt	B	B
+2023	44	Tahakkuk-Tebliğ-Ödeme	Gümrük vergilerinin tahakkukunda Gümrük Kanunu hükümleri uygulanır.	KAVRAM	45-tebliğ.txt	A	A
+2023	45	Kaçakçılık	Gümrüklenmiş değer = CIF + gümrük vergileri: 50.000+5.000=55.000 TL.	HESAP	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2023	46	Gümrük Kıymeti	Kıymet yöntemleri satış bedeli, aynı, benzer, indirgeme, hesaplanmış, son yöntemdir; aritmetik ortalama yoktur.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	D	D
+2023	47	Gümrük Kıymeti	"Bilgi taşıyıcılarında ""veri veya komut"" yazılımı kapsar; ses, sinema, video kayıtları kapsamaz."	KAPSAM	12-KIYMET VE KAPLAR.txt	D	D
+2023	48	Muafiyetler	Yolcu beraberi muafiyet sınırları dahilindedir; 10 karton sigara muafen getirilemez.	KAPSAM_DIŞI	40-posta ve hızlı kargo.txt	B	B
+2023	49	Gümrük Vergileri	İthalatta gümrük vergisi, KDV, ÖTV, İGV tahsil edilir; motorlu taşıtlar vergisi gümrükte tahsil edilmez.	KAPSAM_DIŞI	YOK	E	E
+2023	50	Geçici Depolama/GOBİK	Yolcu eşyasına mahsus ambarlardaki eşya burada üç ay kalabilir.	SÜRE	29-iŞLETİCİLER.txt	D	D
+2023	51	Kaçakçılık	Kaçakçılık fiil ve yaptırımları ile önleme-izleme usulleri 5607 sayılı Kanunla belirlenir.	KAVRAM	5607_sayili_kacakcilikla_mucadele_kanunu.txt	E	E
+2023	52	İhracat	1000 rejim kodu: daha önce bir rejime tabi tutulmamış eşyanın kesin ihracatıdır.	EŞLEŞTİRME	4-OKSB.txt	D	D
+2023	53	Geri Gelen Eşya	Geri gelen eşya muafiyeti için ihraçtan sonra üç yıl içinde serbest dolaşıma girmesi gerekir.	SÜRE	37-geri gelen eşya.txt	B	B
+2023	54	Geçici İthalat	Olağan yıpranma dışında değişmeden kullanılıp yeniden ihraç edilen eşyaya geçici ithalat rejimi uygulanır.	TANIM	34-GEÇİCİ İTHALAT.txt	E	E
+2023	55	Dahilde İşleme	Eşdeğer eşya: işlem görmüş ürün imalinde ithal eşyası yerine kullanılan serbest dolaşımdaki eşyadır.	TANIM	32-DAHİLDE İŞLEME.txt	C	C
+2023	56	Dahilde İşleme	Dahilde işleme iznini (GK kapsamında) Gümrük Müdürlüğü verir.	YETKİ	32-DAHİLDE İŞLEME.txt	D	D
+2023	57	Mücbir Sebep	Mücbir sebepler: doğal afet, grev, salgın, seferberlik, yasak/savaş, ağır kaza-hastalık-tutukluluk vb.; yurtdışı gezisi değildir.	KAPSAM_DIŞI	8-SÜRELER VE DİĞER HÜKÜMLER.txt	C	C
+2023	58	Serbest Bölge	Serbest bölgedeki serbest dolaşımda olmayan eşya yurt dışına geri gönderilebilir.	YANLIŞ	38-serbest bölge.txt	E	E
+2023	59	Geri Gelen Eşya	Dış ticaret önlemine konu eşyada geri gelen eşya muafiyeti istisnalarını Cumhurbaşkanı belirler.	YETKİ	37-geri gelen eşya.txt	B	B
+2023	60	Cezalar	Muaf eşyayı beyansız çıkarmaya teşebbüste ithalatta CIF, ihracatta FOB değerinin onda biri ceza (GK 239/1).	MÜEYYİDE	48-cezalar.txt	B	B
+2023	61	Tahakkuk-Tebliğ-Ödeme	Süresinde ödenmeyen kesinleşmiş gümrük vergileri 6183 sayılı AATUHK'ye göre takip edilir.	KAVRAM	45-tebliğ.txt	E	E
+2023	62	Antrepo	Antrepodaki eşya için GOİK beyannamesi tescilinden itibaren işlemler otuz gün içinde bitirilmelidir.	SÜRE	17-BEYAN.txt	C	C
+2023	63	Temel Tanımlar	Nihai kullanım bir gümrük rejimi değildir; antrepo, transit, DİR, HİR rejimdir.	KAPSAM_DIŞI	1-TANIMLAR.txt	D	D
+2023	64	Menşe	"İthal girdiyle üretilen ürün ""tümüyle elde edilmiş"" sayılmaz."	KAPSAM_DIŞI	10-MENŞEİ.txt	C	C
+2023	65	Dahilde İşleme	Şartlı muafiyet sisteminde vergiler tahsil edilmez, teminata bağlanır.	YANLIŞ	32-DAHİLDE İŞLEME.txt	B	B
+2023	66	Temel Tanımlar	Gümrük idaresi: işlemlerin kısmen veya tamamen yapıldığı merkez veya taşra hiyerarşik birimlerin tamamı.	TANIM	1-TANIMLAR.txt	D	D
+2023	67	Temel Tanımlar	Gümrük idaresi tanımı: gümrük işlemlerini yürüten merkez-taşra birimleri; Maliye'ye bağlı saymanlık birimleri gümrük idaresi sayılmaz.	KAPSAM_DIŞI	1-TANIMLAR.txt	D	D
+2023	68	Gümrük Yükümlülüğü	Yükümlülük vergilerin ödenmesi ve teslimden önce telef/kayıpla sona erer; beyanname düzeltmesi sona erdirmez.	ÖNERMELİ	44-yükümlülük.txt	C	C
+2023	69	Geri Verme-Kaldırma	Geri verme/kaldırma hükümleri GK kapsamındaki (idari) para cezalarına uygulanır; adli para cezalarına değil.	ÖNERMELİ	47-geri verme kaldırma.txt	C	C
+2023	70	Tahakkuk-Tebliğ-Ödeme	Hiç veya noksan alınan vergilerin tebliği yükümlülüğün doğduğu tarihten itibaren üç yıl içinde yapılır.	SÜRE	45-tebliğ.txt	C	C
+2023	71	Temel Tanımlar	Gümrük statüsü: eşyanın serbest dolaşıma girmiş olup olmadığı yönünden durumudur.	TANIM	1-TANIMLAR.txt	A	A
+2023	72	Temel Tanımlar	Kamu ahlakı, güvenlik, sağlık, ulusal hazine, fikri mülkiyet gerekçeli yasak/kısıtlama koymaya Cumhurbaşkanı yetkilidir.	YETKİ	16-GOBİK VE SAHTE EŞYA.txt	E	E
+2023	73	Kaçakçılık	Transit eşyayı rejime aykırı gümrük bölgesinde bırakmak: bir-üç yıl hapis ve beş bin güne kadar adli para cezası.	MÜEYYİDE	5607_sayili_kacakcilikla_mucadele_kanunu.txt	D	D
+2023	74	Süreler	Antrepo kalış süresi sınırsız; yolcu ambarı üç ay (1 yıl değil); denizyolu GOİK 45 gün.	ÖNERMELİ	28-antrepo rejimi.txt	C	C
+2023	75	Temel Tanımlar	"Gümrük yükümlülüğünü yerine getirmekle sorumlu bütün kişiler ""yükümlü"" deyimidir."	TANIM	1-TANIMLAR.txt	D	D
+2023	76	Geri Verme-Kaldırma	Kasıtlı tahrifat veya TPÖ eşyasının kıymetini kendi beyanıyla artırma halinde geri verme talebi kabul edilmez.	YANLIŞ	47-geri verme kaldırma.txt	D	D
+2023	77	İtiraz	İtirazlar gümrük idaresince otuz gün (altmış değil) içinde karara bağlanır; uzlaşma ve itiraz süresi 15 gündür.	YANLIŞ	49-itirazlar.txt	E	E
+2023	78	Muayene/Tahlil	Tebliğ edilen tahlil sonuçlarına itirazı Gümrük ve Dış Ticaret Bölge Müdürlüğü karara bağlar.	YETKİ	18-Ser.Dol.Giriş Rejimi.txt	C	C
+2023	79	Gümrük Kıymeti	Alıcının bedelsiz sağladığı Türkiye'de yapılan plan-taslak hizmetleri kıymete eklenmez; yurt dışındakiler eklenir.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	E	E
+2023	80	Muayene/Tahlil	Tahlil zorunlu haller (27. fasıl dökme, GTİP tespiti, bileşim tablosu, Ek-23); anti-damping tabiiyeti tek başına değildir.	KAPSAM_DIŞI	17-BEYAN.txt	C	C
+2023	81	Muayene/Tahlil	Muayene şekli sistemce belirlenmezse görevli memur eşyanın niteliğine göre belirler.	YANLIŞ	17-BEYAN.txt	C	C
+2023	82	YGM	Stajyer, YGM yanında GMY'nin yapması gereken antrepo giriş-çıkış işlemlerini yapamaz.	YANLIŞ	31-YGM.txt	E	E
+2023	83	Şartlı Muafiyet/EEGR	İhracat rejimi şartlı muafiyet düzenlemesi değildir.	KAPSAM_DIŞI	19-ŞARTLI M VE E.E.G.R.txt	C	C
+2023	84	Beyan	Gümrük beyanı eşyayı bir rejime tabi tutma talebidir; imha talebi gümrük beyanı değildir.	KAPSAM_DIŞI	1-TANIMLAR.txt	D	D
+2023	85	Antrepo	Genel antrepolar A, B ve F tipidir; C, D, E özel antrepodur.	KAVRAM	28-antrepo rejimi.txt	A	A
+2023	86	Bağlayıcı Bilgi (BTB/BMB)	BTB veriliş tarihinden itibaren altı yıl geçerlidir.	SÜRE	7-BİLGİ.txt	C	C
+2023	87	Bağlayıcı Bilgi (BTB/BMB)	BMB veriliş tarihinden itibaren üç yıl geçerlidir.	SÜRE	7-BİLGİ.txt	B	B
+2023	88	Gümrük Yükümlülüğü	Gözetimdeki vergiye tabi eşyanın kanuna aykırı gözetimden çıkarılması gümrük yükümlülüğü doğurur.	BOŞLUK	44-yükümlülük.txt	A	A
+2023	89	Gümrük Müşavirliği	GOİK faaliyetlerini dolaylı temsil yoluyla gümrük müşaviri takip eder ve sonuçlandırır.	KAVRAM	2-TEMSİL.txt	C	C
+2023	90	Beyan	Gümrük beyanı yazılı, bilgisayar veri işleme, sözlü veya tasarruf yoluyla yapılabilir.	ÖNERMELİ	17-BEYAN.txt	E	E
+2023	91	Temel Tanımlar	TC Gümrük Bölgesi toprakları kapsar; kara suları, iç sular ve hava sahası da dahildir.	ÖNERMELİ	1-TANIMLAR.txt	E	E
+2023	92	Temel Tanımlar	GK amacı TC Gümrük Bölgesine giren ve çıkan eşya ve taşıt araçlarına uygulanacak kuralları belirlemektir.	KAVRAM	1-TANIMLAR.txt	D	D
+2023	93	Beyan	Beyan kontrol hatları kırmızı, sarı, mavi, yeşildir; siyah hat yoktur.	KAPSAM_DIŞI	17-BEYAN.txt	B	B
+2023	94	Gümrük Müşavirliği	GM ve GMY sınavlarına en fazla üçer kez girilebilir (Geçici md.6/1-c).	ORAN-TUTAR	51-disiplin cezaları.txt	D	D
+2023	95	Özet Beyan	Özet beyan TGB'ye getirilen eşya için (durmaksızın geçenler hariç) verilir.	DOĞRU	15-ÖZET BEYAN.txt	A	A
+2023	96	Tarife	Tarife pozisyonu fasıl rakamlarıyla birlikte dört rakamlı gruptur (ör. 01.02).	KAVRAM	9-TAR.POZ.AYIRMA.txt	E	E
+2023	97	Temel Tanımlar	Eşyanın kendi ağırlığı ile tüm ambalaj ve kapların ağırlığı toplamı brüt ağırlıktır.	TANIM	12-KIYMET VE KAPLAR.txt	A	A
+2023	98	Gümrük Kıymeti	Aynı iş kolunda faaliyet göstermek alıcı-satıcı ilişkisi sayılmaz.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	E	E
+2023	99	Dahilde İşleme	Vergileri teminata bağlanarak işlenip yeniden ihraç amacıyla geçici ithalat dahilde işleme rejimiyle yapılır.	TANIM	32-DAHİLDE İŞLEME.txt	E	E
+2023	100	Dış Ticaret Belgeleri	CMR karayolu taşıma belgesidir.	BELGE	17-BEYAN.txt	B	B
+2024	21	Gümrük Kıymeti	Hesaplanmış kıymet bir gümrük kıymeti yöntemidir; diğerleri transfer fiyatlandırması yöntemleridir.	KAPSAM	12-KIYMET VE KAPLAR.txt	A	A
+2024	22	Gümrük Kıymeti	Eski model eşya/taşıtların model yılı fiyatından vergiye esas fiyatı bulmak için yapılan düşüm amortisman indirimidir.	TANIM	YOK	A	A
+2024	23	Gümrük Kıymeti	27/1-b unsurları malzeme, araç-gereç, tüketilen madde, yurt dışı mühendislik/plan hizmetidir; pazarlama faaliyetleri değildir.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	E	E
+2024	24	Gümrük Kıymeti	Türkiye'deki giriş yerine kadar nakliye ve sigorta giderleri kıymete eklenir; ithal sonrası montaj, faiz, çoğaltma hakkı eklenmez.	KAPSAM	12-KIYMET VE KAPLAR.txt	D	D
+2024	25	Gümrük Kıymeti	Fatura dövizleri yükümlülüğün başladığı tarihteki TCMB döviz satış kuru üzerinden TL'ye çevrilir.	KAVRAM	12-KIYMET VE KAPLAR.txt	B	B
+2024	26	Cezalar	İlişkinin beyan edilmemesi iki kat usulsüzlük cezası; 2024'te 241/1 tutarı 828 TL, ceza 1.656 TL.	HESAP	48-cezalar.txt	B	B
+2024	27	Gümrük Kıymeti	Benzer eşya tanımında benzer özellik-unsur, kalite, tanınırlık dikkate alınır; fiyat ölçüt değildir.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	E	E
+2024	28	Gümrük Kıymeti	Aynı sanayi kolunda faaliyet göstermek alıcı-satıcı ilişkisi sayılmaz.	KAPSAM_DIŞI	12-KIYMET VE KAPLAR.txt	D	D
+2024	29	Menşe	Menşe şahadetnamesinde gönderen, alıcı, kap bilgileri, cins-ağırlık, tasdik zorunlu; eşyanın kıymeti zorunlu değil.	ÖNERMELİ	10-MENŞEİ.txt	A	A
+2024	30	Şartlı Muafiyet/EEGR	DİR geri ödeme sistemi şartlı muafiyet düzenlemesi değildir.	KAPSAM_DIŞI	19-ŞARTLI M VE E.E.G.R.txt	C	C
+2024	31	İthalat Rejim Kararı	VI sayılı liste sivil hava taşıtı ürünleri; nihai kullanımlı tarım ürünleri VII sayılı listededir.	EŞLEŞTİRME	ck_2025-10790_ithalat_rejimi_kararinda_degisiklik_yapilmasina_iliskin_karar.txt	E	E
+2024	32	Cezalar	Geçici ithalat eşyasının bilgi verilmeden süresinde çıkarıldığının belgelenmesi iki kat usulsüzlük cezası (241/3-m).	MÜEYYİDE	48-cezalar.txt	A	A
+2024	33	Menşe	"O ülke gemilerince karasuları dışındaki denizlerden çıkarılan ürün o ülke menşelidir; ""herhangi bir ülkenin karasuları"" yanlış."	KAPSAM_DIŞI	10-MENŞEİ.txt	E	E
+2024	34	Menşe	Yeni ürün imali veya önemli imalat aşaması yetersiz işlem değildir; menşe kazandırır.	KAPSAM_DIŞI	10-MENŞEİ.txt	E	E
+2024	35	İthalat Rejim Kararı	Ek mali yükümlülük gümrük yükümlülüğünün doğduğu tarihte gümrük idarelerince (vergi dairesi değil) tahsil edilir.	YANLIŞ	ck_2020-03350_ithalat_rejimi_karari.txt	B	B
+2024	36	İlave Gümrük Vergisi	"3351 sayılı Karar: menşein doğru beyanından ithalatçı sorumludur; ""sorumlu değildir"" yanlış."	YANLIŞ	YOK	B	B
+2024	37	Ticaret Politikası	Belirli dönemde izin verilen ithalatın miktar ve/veya değeri kotadır.	TANIM	9-TAR.POZ.AYIRMA.txt	D	D
+2024	38	Menşe	Menşe şahadetnamesi menşe ülke veya ihracatçı ülke yetkili makamlarınca düzenlenir.	DOĞRU	10-MENŞEİ.txt	A	A
+2024	39	Geçici İthalat	Geçici ithalat beyanında beyanname, sözlü beyan, ATA ve taşıt geçici giriş karnesi kullanılır; TIR karnesi kullanılmaz.	KAPSAM_DIŞI	34-GEÇİCİ İTHALAT.txt	C	C
+2024	40	Menşe	AB'de serbest dolaşıma giren Çin menşeli eşya işlemsiz kaldığından Alman menşei kazanmaz.	OLAY	10-MENŞEİ.txt	B	B
+2024	41	Menşe	Genelleştirilmiş Tercihler Sisteminde kullanılan menşe ispat belgesi Form A'dır.	BELGE	YOK	C	C
+2024	42	Menşe	Gelişmiş ülkelerin gelişmekte olan ülkelere tek taraflı tanıdığı tercihli rejim GTS'dir.	TANIM	ck_2020-03350_ithalat_rejimi_karari.txt	C	C
+2024	43	Serbest Dolaşıma Giriş	Farklı pozisyonlu eşyaya en yüksek orana göre vergi ancak beyan sahibinin talebiyle uygulanır.	YANLIŞ	18-Ser.Dol.Giriş Rejimi.txt	E	E
+2024	44	Sınır Ticareti	Sınır ticareti kapsamı, merkezler ve tek-maktu tarife uygulamaya Cumhurbaşkanı yetkilidir.	BOŞLUK	41-sınır ticareti.txt	C	C
+2024	45	Beyan	Özel fatura, kumanya listesi, Form 302, sözlü beyan beyanname yerine geçer; A.TR dolaşım belgesidir, beyan değildir.	KAPSAM_DIŞI	17-BEYAN.txt	D	D
+2024	46	Geçici Depolama/GOBİK	İhracat amaçlı geçici depolama yerine konulan eşya burada bir ay kalabilir.	SÜRE	36-ihracat.txt	B	B
+2024	47	Temel Tanımlar	TGB'yi terk etmeden önce sunulan ve çıkış kontrollerinin yapıldığı idare çıkış gümrük idaresidir.	TANIM	1-TANIMLAR.txt	B	C
+2024	48	Cezalar	İhraç eşyasında miktar/cinste %10'dan fazla fark iki kat usulsüzlük cezası (241/3-j).	MÜEYYİDE	48-cezalar.txt	B	B
+2024	49	İhracat	1040 rejim kodu: muafiyete tabi olmadan serbest dolaşım ile eş zamanlı yurtiçi kullanıma giren eşyanın kesin ihracatı.	EŞLEŞTİRME	YOK	D	D
+2024	50	Dahilde İşleme	Ticari nitelikte olmayan DİR ithalatında TGB dışında yerleşik kişilere de izin verilebilir.	YANLIŞ	32-DAHİLDE İŞLEME.txt	D	D
+2024	51	Dahilde İşleme	"Vergileri teminata bağlanarak geçici ithal sistemi şartlı muafiyettir; ""geri ödeme sistemi"" yanlış."	YANLIŞ	32-DAHİLDE İŞLEME.txt	B	B
+2024	52	Cezalar	İhracı genel düzenleyici işlemle yasak eşyanın ihracı gümrüklenmiş değerin iki katı İPC (GK 235/2-a).	MÜEYYİDE	48-cezalar.txt	C	C
+2024	53	Dahilde İşleme	DİR tebliği mücbir sebepleri: yasak-harp-abluka, faaliyetin kısıtlanması, şahıs firma sahibinin ölümü, iflas/konkordato.	ÖNERMELİ	32-DAHİLDE İŞLEME.txt	E	E
+2024	54	Dahilde İşleme	TEV ihracat beyannamesi tescil tarihindeki kur ve oranlarla hesaplanır; ithalat beyannamesi tarihi yanlış.	YANLIŞ	32-DAHİLDE İŞLEME.txt	B	B
+2024	55	İhracat	Demiryolunda fiilen sınırdan çıkış, hava taşıtına kumanyada teslim tarihi esastır; III ve V yanlış.	ÖNERMELİ	36-ihracat.txt	E	E
+2024	56	Transit	Ulusal ve ortak transitte kapsamlı teminat kullanılabilir.	KAPSAM	23-SERİ NO 4.txt	B	B
+2024	57	Transit	Transitteki serbest dolaşımdaki eşyada beyana aykırılıkta GK 241 usulsüzlük cezası uygulanır.	MÜEYYİDE	YOK	A	A
+2024	58	Transit	Transitte teminattan vazgeçme iznini Gümrükler Genel Müdürlüğü verir.	YETKİ	23-SERİ NO 4.txt	C	C
+2024	59	Transit	Transit; transit refakat belgesi, TIR, ATA karnesi, CIM ile yapılabilir; CMR belgesi transit beyanı değildir.	KAPSAM_DIŞI	20-TRANSİT REJİMİ.txt	C	C
+2024	60	Transit	"Transitte teminat zorunludur; hava, deniz, demiryolu taşımalarında teminat ""her halde"" aranmaz ifadesi yanlıştır."	ÖNERMELİ	20-TRANSİT REJİMİ.txt	B	B
+2024	61	TIR	Nisan-Eylül döneminde azami güzergâh kat etme süresi 120 saattir (Ekim-Mart 168 saat).	SÜRE	21-TIR SÖZLEŞMESİ.txt	B	B
+2024	62	Muafiyetler	Engelli muafiyetinde arazi taşıtları yararlandırılmaz; 1600 cc/160 kW sınırı vardır.	YANLIŞ	39-muafiyetler.txt	E	E
+2024	63	Antrepo	İşleticisi ve kullanıcısı aynı kişi olan antrepo ve gümrüksüz satış mağazası özel antrepo kapsamındadır.	ÖNERMELİ	28-antrepo rejimi.txt	E	E
+2024	64	Antrepo	Özel antrepoda devir, eşyanın devirden sonra beş iş günü içinde antrepodan çıkarılması şartıyla kabul edilir.	SÜRE	28-antrepo rejimi.txt	A	A
+2024	65	Kaçakçılık	Eşyanın gümrük kapıları dışından sokulmasında ceza üçte birinden yarısına kadar artırılır.	ORAN-TUTAR	5607_sayili_kacakcilikla_mucadele_kanunu.txt	C	C
+2024	66	Kaçakçılık	5607 md.3 fiilleri teşebbüste kalsa bile tamamlanmış gibi cezalandırılır.	MÜEYYİDE	5607_sayili_kacakcilikla_mucadele_kanunu.txt	B	B
+2024	67	Kaçakçılık	Antrepo sayımında fazla eşya çıkması kaçakçılık suçu değil, GK 236 kapsamında idari yaptırımdır.	KAPSAM_DIŞI	48-cezalar.txt	E	E
+2024	68	Menşe	Tercihli olmayan menşei gösteren belge menşe şahadetnamesidir.	BELGE	10-MENŞEİ.txt	A	A
+2024	69	Geçici İthalat	Geçici ithalat eşyası kiralanamaz, ödünç verilemez, satılamaz (ticari hava taşıtı istisnası hariç).	YANLIŞ	34-GEÇİCİ İTHALAT.txt	B	B
+2024	70	Geçici İthalat	Tüketilebilir nitelikteki eşya geçici ithalat rejimine konu olamaz.	KAPSAM_DIŞI	34-GEÇİCİ İTHALAT.txt	C	C
+2024	71	Geri Gelen Eşya	Üç yıllık süre aşımında 241/3-ı usulsüzlük cezası, vergiler tahsil ve serbest dolaşıma giriş hükümleri uygulanır.	MÜEYYİDE	37-geri gelen eşya.txt	A	A
+2024	72	Geçici İthalat	Kısmi muafiyette vergilerin tamamı değil her ay için %3'ü alınır.	YANLIŞ	34-GEÇİCİ İTHALAT.txt	B	B
+2024	73	GKAİR	GKAİR: serbest dolaşıma girmemiş eşyanın vergisiz işlenip ürünlerin gümrük vergisi üzerinden serbest dolaşıma girmesidir.	TANIM	33-GKAİR.txt	B	B
+2024	74	GKAİR	"GKAİR'de işlenmek üzere ithal eşyanın vergileri teminata bağlanır; ""bağlanmaz"" yanlış."	YANLIŞ	33-GKAİR.txt	E	E
+2024	75	Onaylanmış Kişi	OKSB için TGB'de yerleşik ve en az iki yıl faaliyette bulunmak gerekir.	SÜRE	4-OKSB.txt	B	B
+2024	76	Yetkilendirilmiş Yükümlü	YYS sertifikası (askı/iptal hariç) süresiz geçerlidir.	SÜRE	3-YYS.txt	E	E
+2024	77	Teminat ve Faiz	Götürü teminat transit rejiminde kullanılamaz; transitte kapsamlı teminat kullanılır.	KAPSAM_DIŞI	46-teminat ve faiz.txt	C	C
+2024	78	Teminat ve Faiz	"Mevzuatta bireysel, götürü, toplu, kapsamlı, yaygın götürü teminat vardır; ""yaygın toplu teminat"" yoktur."	KAPSAM_DIŞI	46-teminat ve faiz.txt	D	D
+2024	79	Tahakkuk-Tebliğ-Ödeme	Hiç/noksan alınan vergilerin tebligatı yükümlülüğün doğduğu tarihten itibaren üç yıl içinde yapılır.	SÜRE	45-tebliğ.txt	C	C
+2024	80	Tahakkuk-Tebliğ-Ödeme	Beyan edilen vergi ile hesaplanan vergi eşitse eşyanın teslimi tebliğ yerine geçer.	DOĞRU	45-tebliğ.txt	B	B
+2024	81	Tahakkuk-Tebliğ-Ödeme	Noksan vergiler 15 günde ödenir; süre bitmeden yazılı istem ve teminatla 30 gün uzatılabilir.	DOĞRU	45-tebliğ.txt	E	E
+2024	82	Cezalar	Vergi alacağına bağlı İPC zamanaşımı vergilerin zamanaşımına tabidir: yükümlülük doğuşundan itibaren üç yıl.	SÜRE	48-cezalar.txt	B	B
+2024	83	Geri Verme-Kaldırma	Uluslararası anlaşma kapsamı geri verme başvurusu vergilerin tebliğinden itibaren bir yıl içinde yapılır.	SÜRE	47-geri verme kaldırma.txt	B	B
+2024	84	Geri Verme-Kaldırma	Geri verme/kaldırma talebi otuz gün (45 değil) içinde karara bağlanır.	YANLIŞ	47-geri verme kaldırma.txt	E	E
+2024	85	Gümrük Müşavirliği	Müteselsil sorumlulukta ceza bir kez ödenir; firmanın tamamını ödemesi ya da paylaşarak ödenmesi kararı kapatır.	OLAY	2-TEMSİL.txt	D	B
+2024	86	Özet Beyan	Özet beyan giriş idaresine verilir; demiryolu varıştan 2 saat önce, kısa mesafeli uçuşta kalkışa kadar verilir; II ve III doğru.	ÖNERMELİ	15-ÖZET BEYAN.txt	C	C
+2024	87	Disiplin	Disiplin cezaları kesinleşme tarihinden itibaren uygulanır.	SÜRE	51-disiplin cezaları.txt	D	D
+2024	88	YGM	DR2 tespit raporu, gümrük idaresinin firmaya tebligatından itibaren en geç bir ay içinde sunulur (süre metinde yok).	SÜRE	31-YGM.txt	D	D
+2024	89	Disiplin	Kınama: meslek mensubuna görev ve davranışında kusurlu sayıldığının yazıyla bildirilmesidir.	TANIM	51-disiplin cezaları.txt	B	B
+2024	90	Disiplin	Meslekten çıkarma cezasını Yüksek Disiplin Kurulu verir.	YETKİ	51-disiplin cezaları.txt	C	C
+2024	91	YGM	IRK md.4 önlemlerine tabi eşyanın kapanmış beyannamelerde kapsam dışı tespiti TP1 kodlu rapordur.	KAVRAM	31-YGM.txt	A	A
+2024	92	Transit	Transit rejimi eşya ve belgelerin varış idaresine (Sarp) sunulmasıyla sona erer.	OLAY	20-TRANSİT REJİMİ.txt	A	A
+2024	93	Temel Tanımlar	"GOİK: rejim, serbest bölge, yeniden ihraç, imha, terk; ""teslim"" GOİK değildir."	KAPSAM_DIŞI	1-TANIMLAR.txt	E	E
+2024	94	Gümrük Müşavirliği	Koşulları sağlayana belgeler tamamlandıktan itibaren altmış gün içinde GMY izin belgesi verilir.	SÜRE	2-TEMSİL.txt	D	D
+2024	95	İtiraz	İtiraz süresi tebliğden itibaren 15 gündür.	SÜRE	49-itirazlar.txt	A	A
+2024	96	Tasfiye	Tasfiye yöntemleri: tahsis, yeniden ihraç amaçlı satış, perakende, ihale, imha; sergi-fuarda kullanma yöntem değildir.	KAPSAM_DIŞI	43-tasfiye.txt	B	B
+2024	97	İhracat	Geçici depolamaya konmadan ihraç eşyasında beyanname kapatma süresi iki ay; gümrük müdürlüğünce en çok iki ay uzatılır.	DOĞRU	36-ihracat.txt	E	E
+2024	98	Muafiyetler	"2009/15481 Ek-9 kişisel eşya listesinde alkol, parfüm, tütün limitleri; ""100 adet puro"" yanlış (limit 50)."	YANLIŞ	YOK	B	B
+2024	99	Serbest Bölge	"Serbest dolaşımdaki eşyanın serbest bölgeden AB'ye ihracında A.TR düzenlenebilir; ""düzenlenemez"" yanlış."	YANLIŞ	38-serbest bölge.txt	B	B
+2024	100	Geçici Depolama/GOBİK	"Geçici depolama yerlerinde gözetim YGM vasıtasıyla da yapılabilir; ""yapılamaz"" ifadesi yanlıştır."	YANLIŞ	29-iŞLETİCİLER.txt	D	A
+2025	21	YGM	Şirket ortağı YGM'nin Bakanlıkça belirlenen antrepo tespitleri için şirketteki hissesinin en az %20 olması gerekir.	ORAN-TUTAR	31-YGM.txt		D
+2025	22	Temsil	GY 561: taşıma işletmeleri ve nakliyeci temsilcileri taşıdıkları eşyanın transit işlemlerini doğrudan temsille takip edebilir.	KAPSAM	2-TEMSİL.txt		C
+2025	23	Gümrük Müşavirliği	GMY muayenede hazır bulunur, tebliğ kabul edemez; tek başına iş takibi ve fatura düzenleme yapamaz (I ve III yanlış).	ÖNERMELİ	2-TEMSİL.txt		C
+2025	24	Gümrük Müşavirliği	GMY koşulları: TC vatandaşlığı, medeni hak ehliyeti, kamu haklarından mahrum olmamak, memuriyetten çıkarılmamış olmak (hepsi).	ÖNERMELİ	2-TEMSİL.txt		E
+2025	25	İhracat	Geçici depolamaya konmaksızın ihraç eşyasında beyanname kapatma süresini gümrük müdürlükleri makul sebeple uzatır.	YETKİ	36-ihracat.txt		C
+2025	26	Geri Verme-Kaldırma	Kusurlu eşya için geri verme başvurusu tebliğden itibaren bir yıl (üç yıl değil) içinde yapılır.	YANLIŞ	47-geri verme kaldırma.txt		E
+2025	27	Tahakkuk-Tebliğ-Ödeme	Sonradan tespit edilen noksan vergiler tebliğden itibaren on beş gün içinde ödenir.	SÜRE	45-tebliğ.txt		B
+2025	28	Tarife	GTİP on iki rakamlı istatistik pozisyonudur (ör. 45.03.90.00.00.00).	KAVRAM	9-TAR.POZ.AYIRMA.txt		C
+2025	29	Teminat ve Faiz	Teminat türleri GY 495'te sayılıdır; özel firmaların garanti mektupları kabul edilmez (yalnız kamu idareleri vb.).	KAPSAM_DIŞI	46-teminat ve faiz.txt		D
+2025	30	Tahakkuk-Tebliğ-Ödeme	Hiç alınmadığı belirlenen vergilerin tebligatı yükümlülüğün doğduğu tarihten itibaren üç yıl içinde yapılır.	SÜRE	45-tebliğ.txt		A
+2025	31	Cezalar	Karara dayanak belge ve bilgilerin yanlış verilmesi 241/3-a uyarınca iki kat usulsüzlük cezası gerektirir.	MÜEYYİDE	48-cezalar.txt		B
+2025	32	Cezalar	Genel yönetim kamu idaresinde 234 cezası uygulanmaz, 241/1 usulsüzlük cezası (2025: 1.191 TL) uygulanır.	HESAP	48-cezalar.txt		D
+2025	33	Gümrük Kıymeti	GATT 1994'ün gümrük kıymetine ilişkin maddesi VII. maddedir (GK son yöntem atfı).	KAVRAM	12-KIYMET VE KAPLAR.txt		E
+2025	34	Gümrük Kıymeti	Bedelsiz ithal edilen kullanılmış otomobilde fatura bedelinden amortisman indirimi uygulanarak gümrük kıymeti hesaplanır.	HESAP	YOK		D
+2025	35	Gümrük Vergileri	Gümrük vergileri: EMY, gümrük vergisi, KDV, ÖTV gibi ithalat vergileri; gecikme zammı bu tanıma girmez.	KAPSAM_DIŞI	1-TANIMLAR.txt		E
+2025	36	Gümrük Kıymeti	EXW fiyata Türkiye sınırına kadar nakliye ve orantılı sigorta eklenir: 5.000+500+50=5.550 TL.	HESAP	12-KIYMET VE KAPLAR.txt		C
+2025	37	Gümrük Vergileri	Gümrüklenmiş değer CIF ile gümrük vergileri toplamıdır; kurumlar vergisi dikkate alınmaz.	KAPSAM_DIŞI	5607_sayili_kacakcilikla_mucadele_kanunu.txt		E
+2025	38	Bağlayıcı Bilgi (BTB/BMB)	"BTB, tarife değişikliğine uymadığında değişikliğin yürürlüğünden itibaren geçersizdir; ""yasal süre dolunca"" ifadesi yanlış."	YANLIŞ	7-BİLGİ.txt		A
+2025	39	Menşe	Serbest dolaşıma girmek eşyaya Türk menşei kazandırmaz (III yanlış).	ÖNERMELİ	10-MENŞEİ.txt		C
+2025	40	Serbest Dolaşıma Giriş	Serbest dolaşım statüsünü iptal, geri ödeme, kusurlu eşya ve ihraç nedenli geri verme halleri sona erdirir (hepsi).	ÖNERMELİ	18-Ser.Dol.Giriş Rejimi.txt		E
+2025	41	Menşe	Türkiye-AB tarım ürünleri ticaretinde tercihli rejim için EUR.1 dolaşım belgesi ibraz edilir.	BELGE	32-DAHİLDE İŞLEME.txt		D
+2025	42	Menşe	Menşe ispat belgelerinin basım ve dağıtımı için TOBB ve TİM yetkilendirilmiştir (Seri No 149).	ÖNERMELİ	YOK		E
+2025	43	Cezalar	İthali yasak eşya, yükümlü talebiyle yasağın bildiriminden itibaren otuz gün içinde mahrecine iade veya üçüncü ülkeye transit edilir.	SÜRE	48-cezalar.txt		D
+2025	44	İthalat Rejim Kararı	IRK md.4: damping, gözetim, kota, tarife kontenjanı TPÖ mevzuatıdır; ilave gümrük vergisi sayılmaz.	KAPSAM_DIŞI	ck_2020-03350_ithalat_rejimi_karari.txt		B
+2025	45	Menşe	Türkiye-AB sanayi ve işlenmiş tarım ürünlerinde serbest dolaşımı gösteren belge A.TR'dir.	BELGE	10-MENŞEİ.txt		E
+2025	46	Menşe	Menşe şahadetnamesinde eşyanın kıymeti zorunlu bilgi değildir.	KAPSAM_DIŞI	10-MENŞEİ.txt		C
+2025	47	Menşe	Tümüyle elde edilen: o ülkede çıkarılan maden, toplanan bitki, doğup yetişen hayvan; çok ülkeli üretim değil.	ÖNERMELİ	10-MENŞEİ.txt		E
+2025	48	Menşe	Menşe şahadetnamesi tescilden itibaren altı ay içinde sonradan ibraz edilebilir.	SÜRE	10-MENŞEİ.txt		C
+2025	49	Nihai Kullanım	YYS/OKSB sahiplerine tescilden itibaren üç ay içinde başvuruda nihai kullanım izni sonradan verilebilir.	BOŞLUK	18-Ser.Dol.Giriş Rejimi.txt		B
+2025	50	İthalat Rejim Kararı	III sayılı liste işlenmiş tarım ürünleridir (sanayi değil); VI sayılı liste nihai kullanımlı sivil hava taşıtı ürünleridir.	EŞLEŞTİRME	ck_2025-10790_ithalat_rejimi_kararinda_degisiklik_yapilmasina_iliskin_karar.txt		A
+2025	51	Serbest Dolaşıma Giriş	Lehe oran için talep, indirimin ödeme/teminattan önce olması ve gecikmenin beyan sahibinden kaynaklanmaması gerekir.	ŞART	18-Ser.Dol.Giriş Rejimi.txt		E
+2025	52	Menşe	Yetersiz işçilik: basit montaj, etiketleme, ambalaj değişikliği; iplikten kumaş üretimi yetersiz işlem değildir.	KAPSAM_DIŞI	10-MENŞEİ.txt		D
+2025	53	Menşe	Tarife pozisyonu değişikliği yaratan üretim yetersiz işlem değildir; nakliye-depolama, ambalaj, basit montaj yetersizdir.	ÖNERMELİ	10-MENŞEİ.txt		A
+2025	54	Fikri-Sınai Haklar	Yolcuların kişisel ve limit içi hediyelik eşyasına GK 57 hükümleri uygulanmaz (D yanlış).	YANLIŞ	16-GOBİK VE SAHTE EŞYA.txt		D
+2025	55	Serbest Dolaşıma Giriş	TPÖ uygulanıp ithal işlemleri tamamlanan ve vergileri tahsil edilen eşya serbest dolaşıma girmiş sayılır.	KAVRAM	18-Ser.Dol.Giriş Rejimi.txt		D
+2025	56	Nihai Kullanım	Nihai kullanım eşyası devredilince hak ve yükümlülükler devralan izin hak sahibine geçer (E yanlış).	YANLIŞ	18-Ser.Dol.Giriş Rejimi.txt		E
+2025	57	Bağlayıcı Bilgi (BTB/BMB)	Seri No 14'e göre BTB yalnız yetkilendirilmiş bölge müdürlüklerince düzenlenir; sayılmayan bölge müdürlükleri düzenleyemez.	ÖNERMELİ	7-BİLGİ.txt		B
+2025	58	Bağlayıcı Bilgi (BTB/BMB)	Hak sahibinin yeni BTB başvurusu yapması BTB'nin geçerliliğini kaybetme nedeni değildir.	KAPSAM_DIŞI	7-BİLGİ.txt		D
+2025	59	Dahilde İşleme	DİR kapsamında yapılabilecek işleme faaliyetleri (işleme, montaj, tamir, ambalajlama vb.) ve izin verilmeyen işlem.	KAPSAM_DIŞI	32-DAHİLDE İŞLEME.txt		D
+2025	60	Beyan	GK 58/2: ihracat, HİR, transit, antrepo için beyan edilen eşya TGB'den çıkıncaya, imha veya iptal edilinceye dek gözetimdedir.	BOŞLUK	17-BEYAN.txt		C
+2025	61	İhracat	İhracatta eksik beyanı tamamlama süresi tescilden itibaren bir ay, ek süre en fazla bir ay (OKSB/YYS).	BOŞLUK	17-BEYAN.txt		C
+2025	62	Dahilde İşleme	DİR uygulamaları şartlı muafiyet ve geri ödeme sistemleridir; standart değişim HİR'e aittir.	ÖNERMELİ	32-DAHİLDE İŞLEME.txt		E
+2025	63	Dahilde İşleme	Doğru tanımlar: işlem görmüş ürün, eşdeğer eşya, verimlilik oranı; ikincil ürün ve geri ödeme tanımları hatalı.	ÖNERMELİ	19-ŞARTLI M VE E.E.G.R.txt		B
+2025	64	Dahilde İşleme	Vergisi teminata bağlanarak ithal edilip ihracat taahhüdü sonrası teminatın iadesi şartlı muafiyet sistemidir.	TANIM	32-DAHİLDE İŞLEME.txt		A
+2025	65	Akaryakıt-Kumanya	Dış sefer yakıt/kumanya muaftır; serbest dolaşımdaki yakıt/kumanya teslimi ihracat hükmündedir (serbest dolaşımda olmayanlar değil).	YANLIŞ	42-kumanya.txt		D
+2025	66	Dahilde İşleme	DİR izni şartları: yerleşik kişi, ithal eşyasının mevcudiyetinin tespiti, yerli üreticilerin çıkarının zarar görmemesi.	ŞART	32-DAHİLDE İŞLEME.txt		C
+2025	67	Dahilde İşleme	Önceden ihracatta eşdeğer eşya karşılığı ithal eşyasının beyan süresinin başlangıç anı.	SÜRE	32-DAHİLDE İŞLEME.txt		A
+2025	68	İhracat	İhraç edildiği şekli ile geri gelmek üzere geçici ihraç edilen eşyanın kesin ihracatı 1023 rejim kodudur.	EŞLEŞTİRME	YOK		B
+2025	69	Geri Gelen Eşya	Geri gelen eşyada süre, eşyanın TGB'yi terk tarihinden (havayolunda uçağın hareket tarihi) başlar.	SÜRE	36-ihracat.txt		D
+2025	70	Beyan	Türkiye'de vefat eden yabancının cenazesinin gönderilmesinde beyan sözlü beyan formuyla yapılır.	BELGE	17-BEYAN.txt		A
+2025	71	Dahilde İşleme	Belgeyi İhracat GM düzenler, şartlı muafiyette vergiler teminata bağlanır, döviz kullanım oranı CIF ithal/FOB ihraç.	ÖNERMELİ	32-DAHİLDE İŞLEME.txt		E
+2025	72	Transit	NCTS'de beyan tarihinden itibaren otuz gün içinde hareket idaresine sunulmayan transit beyanları reddedilir.	BOŞLUK	20-TRANSİT REJİMİ.txt		C
+2025	73	Transit	Transit beyanı: transit refakat belgesi, TIR karnesi, ATA karnesi; fatura transit beyanı değildir.	ÖNERMELİ	20-TRANSİT REJİMİ.txt		C
+2025	74	Transit	Transit rejiminin sonlandırılması için eşya varış gümrük idaresine sunulur.	KAVRAM	20-TRANSİT REJİMİ.txt		B
+2025	75	Transit	Transit rejimi eşya ve belgelerin varış idaresine (Doğubayazıt) mevzuata uygun sunulmasıyla sona erer.	OLAY	20-TRANSİT REJİMİ.txt		E
+2025	76	Posta/Hızlı Kargo	Muafiyet sınırındaki posta eşyasında kıymet fatura/fişe göre, belge yoksa idarece belirlenir; nakliye kıymete eklenmez.	ÖNERMELİ	40-posta ve hızlı kargo.txt		D
+2025	77	Muafiyetler	Muafen araç ithal eden kişi, serbest dolaşıma girişten itibaren beş yıl geçmedikçe yeniden muaf araç getiremez.	SÜRE	39-muafiyetler.txt		D
+2025	78	Posta/Hızlı Kargo	Posta/hızlı kargo ile gelen limit altı eşyada tek ve maktu vergi oranı ve ÖTV (IV) listesi için ilave %20.	BOŞLUK	39-muafiyetler.txt		C
+2025	79	Muafiyetler	Kişisel eşya listesindeki eşya yolcu beraberinde veya gelişinden bir ay önce ya da üç ay sonra getirilebilir.	SÜRE	39-muafiyetler.txt		D
+2025	80	Geçici Depolama/GOBİK	Yolcu eşyasına mahsus ambarlardaki eşya burada üç ay kalabilir.	SÜRE	29-iŞLETİCİLER.txt		B
+2025	81	Antrepo	Yaygın götürü teminat başvurusu bölge müdürlüğüne yapılır; gümrük müdürlüğü ifadesi yanlış.	YANLIŞ	29-iŞLETİCİLER.txt		D
+2025	82	Antrepo	Antrepoya konan eşya gümrük gözetimi ve kontrolü altındadır.	DOĞRU	28-antrepo rejimi.txt		B
+2025	83	Gümrüksüz Satış	Gümrüksüz satış mağazası türleri: yolcu giriş/çıkış kapıları, diplomatik, gemilere satış vb.; listede olmayan tür.	KAPSAM_DIŞI	30-Güm.Sat.Mağazaları.txt		B
+2025	84	Antrepo	Özel antrepo açmak için gümrük müşaviri istihdamı şart değildir; mali yeterlilik, teknik donanım, sabıka şartı aranır.	KAPSAM_DIŞI	29-iŞLETİCİLER.txt		B
+2025	85	Geçici Depolama/GOBİK	Geçici depolanan eşya statüsü GOİK (ör. gümrüğe terk) ile sona erer.	KAVRAM	16-GOBİK VE SAHTE EŞYA.txt		A
+2025	86	Serbest Bölge	Serbest bölgede beyanname tescilinden sonra süresinde işlemi bitmeyen eşya için tasfiye hükümleri uygulanır (D yanlış).	YANLIŞ	38-serbest bölge.txt		B
+2025	87	Kaçakçılık	5607'de gümrüklenmiş değer: ithalatta CIF + gümrük vergileri, ihracatta FOB + gümrük vergileri.	TANIM	5607_sayili_kacakcilikla_mucadele_kanunu.txt		E
+2025	88	Kaçakçılık	Ulusal markersiz akaryakıtı ticari amaçla üretme-bulundurma-nakletme ve satma cezalandırılır; kişisel kullanım alımı değil.	ÖNERMELİ	5607_sayili_kacakcilikla_mucadele_kanunu.txt		C
+2025	89	Kaçakçılık	Alıkonulan kara taşıtının iadesinde teminat değeri kasko değeridir.	KAVRAM	5607_sayili_kacakcilikla_mucadele_kanunu.txt		B
+2025	90	Geçici İthalat	Geçici ithalde ayniyet ve teminatı uluslararası gösteren, beyanname yerine geçen belge ATA karnesidir.	TANIM	34-GEÇİCİ İTHALAT.txt		B
+2025	91	Geçici İthalat	Geçici ithalat: serbest dolaşımda olmayan eşyanın muafen kullanılıp olağan yıpranma dışında değişmeden yeniden ihracı.	TANIM	34-GEÇİCİ İTHALAT.txt		B
+2025	92	Geçici İthalat	Süresi içinde yeniden ihraç veya GOİK rejim ihlali değildir; satış, işleme, ayniyet değişimi ihlaldir.	KAPSAM_DIŞI	34-GEÇİCİ İTHALAT.txt		E
+2025	93	Geçici İthalat	Kişisel kullanımlı yabancı plakalı taşıtlar (karne/form kapsamı hariç) için plaka uygulaması.	KAVRAM	34-GEÇİCİ İTHALAT.txt		A
+2025	94	Geçici Depolama/GOBİK	Teslim alınan tam muafiyetli kişisel kara taşıtları geçici depolama yerinde üç ay kalabilir.	SÜRE	34-GEÇİCİ İTHALAT.txt		C
+2025	95	Cezalar	Geçici ithalat rejimi ihlalinde gümrüklenmiş değerin iki katı idari para cezası (GK 238/1-a).	MÜEYYİDE	48-cezalar.txt		D
+2025	96	Geçici İthalat	Devir, devralanın eşyayı rejime tabi tutmasıyla olur; devralan teslim almakla rejim yükümlülüğü altına girer.	ÖNERMELİ	19-ŞARTLI M VE E.E.G.R.txt		E
+2025	97	Yetkilendirilmiş Yükümlü	Kamu kurumları ve tamamı devlete ait KİT'lerin YYS başvuruları belirli merkezi birime yapılır.	YETKİ	3-YYS.txt		C
+2025	98	Onaylanmış Kişi	OKSB kapsamındaki haklar (eksik beyan, götürü teminat, mavi hat vb.) ve kapsamda olmayan yetki.	KAPSAM_DIŞI	4-OKSB.txt		D
+2025	99	Yetkilendirilmiş Yükümlü	YYS koşulları: güvenilirlik, mali yeterlilik, emniyet-güvenlik, ticari kayıtlar; kapsamlı teminata sahip olma koşul değil.	KAPSAM_DIŞI	3-YYS.txt		D
+2025	100	Yetkilendirilmiş Yükümlü	YYS sertifika koşullarının yerinde izlenmesi periyodu.	SÜRE	3-YYS.txt		E
