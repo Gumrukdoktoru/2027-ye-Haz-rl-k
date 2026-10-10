@@ -84,14 +84,14 @@
 "Sincap gülümsemiş:",
 "– Unuttuklarım filizlenip ağaç olur, o ağaçlar da bir gün yavrularıma yuva olur. Hem bir hırsız kovuklardan birini bulsa bile ötekiler bana kalır.",
 "O kış sincabın birkaç zulası gerçekten kaybolmuş ama sincap bir gün bile aç kalmamış.",
-"Bu metne göre aşağıdakilerden hangisi, sincabın cevizlerini farklı yerlere saklamaya başlamasının nedenlerinden biri [[değildir]]?"
+"Bu metne göre aşağıdakilerden hangisi, sincabın cevizlerini farklı yerlere saklamayı tercih etmesinin gerekçelerinden biri [[değildir]]?"
 ],
 "d": "Komşusu baykuşun, cevizleri dağıtarak saklamasını ona öğütlemesi",
 "c": [
 "Tek kovukta biriktirdiği yiyecekleri bir fırtınada kaybetmesi",
 "Kovuklardan biri bulunsa bile ötekilerin kendisine kalacağını düşünmesi",
 "Unutulan cevizlerin zamanla filizlenip ağaca dönüşeceğine inanması",
-"Yavrularına yuva olacak ağaçların yetişmesini istemesi"
+"Unutulan cevizlerden yetişecek ağaçların yavrularına yuva olacağını düşünmesi"
 ],
 "tuzak": false,
 "g": "Sincap, önceki kış yiyeceklerini fırtınada kaybedip aç kaldığı için aynı sıkıntıyı yaşamamak istemiş; ayrıca unutulan cevizlerin ağaca dönüşüp yavrularına yuva olacağını ve bir kovuk bulunsa bile ötekilerin kendisine kalacağını düşünmüştür. Baykuş ise bu yöntemi öğütlememiş, tersine dağınık saklanan cevizlerin yarısının unutulacağını söyleyerek yönteme itiraz etmiştir. (MD Genel Kültür Kitabı – Türkçe: Bir paragrafı birlikte çöz)",
@@ -104,7 +104,7 @@
 "Komşusu baykuşun, cevizleri dağıtarak saklamasını ona öğütlemesi",
 "Kovuklardan biri bulunsa bile ötekilerin kendisine kalacağını düşünmesi",
 "Unutulan cevizlerin zamanla filizlenip ağaca dönüşeceğine inanması",
-"Yavrularına yuva olacak ağaçların yetişmesini istemesi"
+"Unutulan cevizlerden yetişecek ağaçların yavrularına yuva olacağını düşünmesi"
 ],
 "blok": "GK",
 "ders": "Türkçe",
@@ -152,47 +152,47 @@
 "konu": "Noktalama – Noktalama işaretlerinin işlevi",
 "tip": "T4",
 "z": "Z",
-"madde": "Genel Kültür Kitabı – Türkçe: Noktalama (Nokta ve virgül; Noktalı virgül ve iki nokta); Yazım kuralları (Kesme işaretinin sınırı)",
-"cek": "Parçada noktalı virgül yoktur; içinde virgül bulunan grupları ayırma işlevi örneklenmemiş, kısaltma noktası, kesme, ara söz virgülü, iki nokta örneklenmiştir.",
+"madde": "Genel Kültür Kitabı – Türkçe: Noktalama (Alıntılar, ayraçlar ve çizgiler; Nokta ve virgül); Yazım kuralları (Kesme işaretinin sınırı)",
+"cek": "Parçada yay ayraç yoktur; ek bilgiyi ayraçla gösterme işlevi örneklenmemiş, unvan kısaltması, kesme, ara söz virgülleri ve alıntı tırnağı örneklenmiştir.",
 "kok": [
-"Doç. Dr. Selim Arı kentin en eski kütüphanesini anlattığı yazısına şöyle başlar: Kitaplar bir şehrin sessiz tanıklarıdır. Kütüphanenin müdürü, yarım asırdır burada çalışan Nermin Hanım, her sabah kapıları kendi elleriyle açarmış. Raflarda üç tür eser bulunuyor: el yazmaları, eski haritalar ve ilk baskı romanlar. Arı’ya göre bu koleksiyon Anadolu’daki benzerlerinin çoğundan daha zengindir.",
+"Doç. Dr. Selim Arı kentin en eski kütüphanesini anlattığı yazısına şöyle başlar: “Kitaplar bir şehrin sessiz tanıklarıdır.” Kütüphanenin müdürü, yarım asırdır burada çalışan Nermin Hanım, her sabah kapıları kendi elleriyle açarmış. Raflarda üç tür eser bulunuyor: el yazmaları, eski haritalar ve ilk baskı romanlar. Arı’ya göre bu koleksiyon Anadolu’daki benzerlerinin çoğundan daha zengindir.",
 "Bu parçada, aşağıda işlevi verilen noktalama işaretlerinden hangisinin kullanımına örnek bulunmamaktadır?"
 ],
-"d": "İçinde virgül bulunan grupları birbirinden ayırmak için noktalı virgül kullanılır.",
+"d": "Cümleye ek bilgi katan açıklama, cümle içinde yay ayraç kullanılarak gösterilir.",
 "c": [
 "Doçent, doktor gibi unvanların kısaltılmış biçimlerinden sonra nokta konur.",
 "Özel adlara getirilen durum ekleri, kesme işaretiyle adın kendisinden ayrılır.",
 "Cümlede bir ögeyi açıklayan ara söz, iki yanından birer virgülle ayrılarak gösterilir.",
-"Ardından açıklama ya da örnek gelecek sözün sonuna iki nokta konur."
+"Başka bir kişiden aynen aktarılan söz, tırnak işareti içine alınarak yazılır."
 ],
 "tuzak": false,
-"g": "Parçada noktalı virgül hiç kullanılmadığından içinde virgül bulunan grupları ayırma işlevi örneklendirilmemiştir. “Doç. Dr.” kısaltmalarında nokta, “Arı’ya” ve “Anadolu’daki” sözcüklerinde kesme işareti, “yarım asırdır burada çalışan Nermin Hanım” ara sözünde iki virgül, “şöyle başlar:” ve “üç tür eser bulunuyor:” ifadelerinde ise açıklama ve örnek öncesi iki nokta kullanılmıştır. (MD Genel Kültür Kitabı – Türkçe: Noktalı virgül ve iki nokta)",
-"kanit": "Canli_7_24_Genel_Kultur_Kitabi.txt | Ekiplerin kendi içindeki sıralama virgülle, ekipler birbirinden noktalı virgülle ayrılmıştır. || Canli_7_24_Genel_Kultur_Kitabi.txt | Dr. • Prof. → Kısaltma. || Canli_7_24_Genel_Kultur_Kitabi.txt | “Grubun sözcüsü” ifadesi Elif’i açıklayan ara sözdür. || Canli_7_24_Genel_Kultur_Kitabi.txt | Noktalı virgül grupları ayırır; iki nokta ardından gelecek açıklamayı ya da örneği haber verir. || Canli_7_24_Genel_Kultur_Kitabi.txt | Özel adın iyelik, durum ve bildirme ekleri ayrılır",
+"g": "Parçada yay ayraç hiç kullanılmadığından ek bilgi veren açıklamanın ayraçla gösterilmesi işlevi örneklendirilmemiştir. “Doç. Dr.” kısaltmalarında nokta, “Arı’ya” ve “Anadolu’daki” sözcüklerinde kesme işareti, “yarım asırdır burada çalışan Nermin Hanım” ara sözünde iki virgül, yazarın yazısına başladığı cümlenin aktarılmasında ise tırnak işareti kullanılmıştır. (MD Genel Kültür Kitabı – Türkçe: Alıntılar, ayraçlar ve çizgiler)",
+"kanit": "Canli_7_24_Genel_Kultur_Kitabi.txt | Yay ayraç ek bilgi taşır. || Canli_7_24_Genel_Kultur_Kitabi.txt | Dr. • Prof. → Kısaltma. || Canli_7_24_Genel_Kultur_Kitabi.txt | “Grubun sözcüsü” ifadesi Elif’i açıklayan ara sözdür. || Canli_7_24_Genel_Kultur_Kitabi.txt | “Kaynağı mutlaka belirtin.” dedi. Alıntının kendi son işareti tırnağın içinde kalır. || Canli_7_24_Genel_Kultur_Kitabi.txt | Özel adın iyelik, durum ve bildirme ekleri ayrılır",
 "batch": "GTR",
 "no": 5,
 "harf": "B",
 "opts": [
 "Doçent, doktor gibi unvanların kısaltılmış biçimlerinden sonra nokta konur.",
-"İçinde virgül bulunan grupları birbirinden ayırmak için noktalı virgül kullanılır.",
+"Cümleye ek bilgi katan açıklama, cümle içinde yay ayraç kullanılarak gösterilir.",
 "Özel adlara getirilen durum ekleri, kesme işaretiyle adın kendisinden ayrılır.",
 "Cümlede bir ögeyi açıklayan ara söz, iki yanından birer virgülle ayrılarak gösterilir.",
-"Ardından açıklama ya da örnek gelecek sözün sonuna iki nokta konur."
+"Başka bir kişiden aynen aktarılan söz, tırnak işareti içine alınarak yazılır."
 ],
 "blok": "GK",
 "ders": "Türkçe",
-"g_harfli": "Parçada noktalı virgül hiç kullanılmadığından içinde virgül bulunan grupları ayırma işlevi örneklendirilmemiştir. “Doç. Dr.” kısaltmalarında nokta, “Arı’ya” ve “Anadolu’daki” sözcüklerinde kesme işareti, “yarım asırdır burada çalışan Nermin Hanım” ara sözünde iki virgül, “şöyle başlar:” ve “üç tür eser bulunuyor:” ifadelerinde ise açıklama ve örnek öncesi iki nokta kullanılmıştır. Bu nedenle doğru cevap B seçeneğidir. (MD Genel Kültür Kitabı – Türkçe: Noktalı virgül ve iki nokta)"
+"g_harfli": "Parçada yay ayraç hiç kullanılmadığından ek bilgi veren açıklamanın ayraçla gösterilmesi işlevi örneklendirilmemiştir. “Doç. Dr.” kısaltmalarında nokta, “Arı’ya” ve “Anadolu’daki” sözcüklerinde kesme işareti, “yarım asırdır burada çalışan Nermin Hanım” ara sözünde iki virgül, yazarın yazısına başladığı cümlenin aktarılmasında ise tırnak işareti kullanılmıştır. Bu nedenle doğru cevap B seçeneğidir. (MD Genel Kültür Kitabı – Türkçe: Alıntılar, ayraçlar ve çizgiler)"
 },
 {
 "id": "D10-006",
 "cikmis": "2025/6",
-"konu": "Matematik – Sözel ifadeyi işleme çevirme (set fiyatı)",
+"konu": "Matematik – Sözel ifadeyi işleme çevirme (abonelik ücreti)",
 "tip": "T9",
 "z": "OÜ",
 "madde": "Genel Kültür Kitabı – Matematik: Problem türleri (Sayı problemlerini denkleme çevir)",
-"cek": "Set fiyatı 4 × 180 + 120 = 840 TL, tek tek 6 × 180 = 1.080 TL; set alanın tasarrufu 240 TL.",
+"cek": "Abonelik 4 × 180 + 120 = 840 TL, 6 saatlik saatlik ödeme 1.080 TL; abonelikle 240 TL daha az ödenir.",
 "kok": [
-"Bir mağazada tanesi 180 lira olan tabaklar 6'lı set hâlinde de satılmaktadır. 6'lı setin fiyatı, bir tabağın fiyatının 4 katından 120 lira fazladır.",
-"Buna göre 6 tabağı set olarak alan bir kişi, tabakları tek tek almaya göre kaç lira daha az öder?"
+"Bir otoparkın saatlik ücreti 180 liradır. Günlük abonelik ücreti ise saatlik ücretin 4 katından 120 lira fazladır.",
+"Buna göre aracını bir günde 6 saat otoparkta bırakan bir kişi abonelik alırsa saatlik ödemeye göre kaç lira daha az öder?"
 ],
 "d": "240",
 "c": [
@@ -209,26 +209,26 @@
 "1.080"
 ],
 "tuzak": false,
-"g": "Set fiyatı 4·180 + 120 = 840 lira, 6 tabağın tek tek fiyatı 6·180 = 1.080 liradır; aradaki fark 1.080 − 840 = 240 liradır. 120 liralık eklemeyi unutan 360'a, 120 lirayı fazla yerine eksik alıp seti 600 lira sayan 480'e ulaşır; 840 setin fiyatı, 1.080 ise tek tek alımın tutarıdır. (MD Genel Kültür Kitabı – Matematik: Problem türleri – Sayı problemlerini denkleme çevir)",
+"g": "Günlük abonelik 4·180 + 120 = 840 lira, 6 saatlik saatlik ödeme 6·180 = 1.080 liradır; aradaki fark 1.080 − 840 = 240 liradır. 120 liralık eklemeyi unutan 360'a, 120 lirayı fazla yerine eksik alıp aboneliği 600 lira sayan 480'e ulaşır; 840 abonelik ücreti, 1.080 ise saatlik ödeme tutarıdır. (MD Genel Kültür Kitabı – Matematik: Problem türleri – Sayı problemlerini denkleme çevir)",
 "kanit": "ÖZGÜN – hesap",
 "batch": "GMA",
 "no": 6,
 "harf": "A",
 "blok": "GK",
 "ders": "Matematik",
-"g_harfli": "Set fiyatı 4·180 + 120 = 840 lira, 6 tabağın tek tek fiyatı 6·180 = 1.080 liradır; aradaki fark 1.080 − 840 = 240 liradır. 120 liralık eklemeyi unutan 360'a, 120 lirayı fazla yerine eksik alıp seti 600 lira sayan 480'e ulaşır; 840 setin fiyatı, 1.080 ise tek tek alımın tutarıdır. Bu nedenle doğru cevap A seçeneğidir. (MD Genel Kültür Kitabı – Matematik: Problem türleri – Sayı problemlerini denkleme çevir)"
+"g_harfli": "Günlük abonelik 4·180 + 120 = 840 lira, 6 saatlik saatlik ödeme 6·180 = 1.080 liradır; aradaki fark 1.080 − 840 = 240 liradır. 120 liralık eklemeyi unutan 360'a, 120 lirayı fazla yerine eksik alıp aboneliği 600 lira sayan 480'e ulaşır; 840 abonelik ücreti, 1.080 ise saatlik ödeme tutarıdır. Bu nedenle doğru cevap A seçeneğidir. (MD Genel Kültür Kitabı – Matematik: Problem türleri – Sayı problemlerini denkleme çevir)"
 },
 {
 "id": "D10-007",
 "cikmis": "2025/7",
-"konu": "Matematik – Ders-teneffüs çizelgesinde saat",
+"konu": "Matematik – Tekrarlayan iş-ara çizelgesinde saat",
 "tip": "T4",
 "z": "Z",
 "madde": "Genel Kültür Kitabı – Matematik: Zaman ve takvim (Günler ve tekrar aralıkları; Saat ile süre aynı şey değildir)",
-"cek": "5. dersten önce 4 ders, 3 teneffüs ve teneffüs yerine 40 dk öğle arası: 250 dk; 08.30 + 4 sa 10 dk = 12.40.",
+"cek": "5. analizden önce 4 analiz, 3 temizlik ve temizlik yerine 40 dk kalibrasyon: 250 dk; 08.30 + 4 sa 10 dk = 12.40.",
 "kok": [
-"Bir okulda dersler 45 dakika, teneffüsler 10 dakika sürmektedir. İlk ders 08.30'da başlamakta ve her dersten sonra teneffüs yapılmaktadır; ancak 3. dersten sonra teneffüs yerine 40 dakikalık öğle arası verilmektedir.",
-"Buna göre 5. ders saat kaçta başlar?"
+"Bir gümrük laboratuvarında her numune analizi 45 dakika sürmekte, her analizden sonra cihaz 10 dakika temizlenmektedir; ancak 3. analizden sonra temizlik yerine 40 dakikalık kalibrasyon yapılmaktadır. İlk analiz 08.30'da başlamaktadır.",
+"Buna göre 5. analiz saat kaçta başlar?"
 ],
 "d": "12.40",
 "c": [
@@ -245,14 +245,14 @@
 "13.25"
 ],
 "tuzak": false,
-"g": "5. ders başlamadan önce 4 ders (180 dakika), 3 teneffüs (30 dakika) ve 1 öğle arası (40 dakika) geçer; toplam 250 dakika, yani 4 saat 10 dakika eklenince 12.40 bulunur. Öğle arasını 10 dakikalık teneffüs gibi sayan 12.10'a, öğle arasını teneffüse ek olarak sayan 12.50'ye ulaşır; 12.30 dördüncü dersin, 13.25 ise beşinci dersin bitiş saatidir. (MD Genel Kültür Kitabı – Matematik: Zaman ve takvim – Günler ve tekrar aralıkları)",
+"g": "5. analiz başlamadan önce 4 analiz (180 dakika), 3 temizlik (30 dakika) ve 1 kalibrasyon (40 dakika) geçer; toplam 250 dakika, yani 4 saat 10 dakika eklenince 12.40 bulunur. Kalibrasyonu 10 dakikalık temizlik gibi sayan 12.10'a, kalibrasyonu temizliğe ek olarak sayan 12.50'ye ulaşır; 12.30 dördüncü analizin, 13.25 ise beşinci analizin bitiş saatidir. (MD Genel Kültür Kitabı – Matematik: Zaman ve takvim – Günler ve tekrar aralıkları)",
 "kanit": "ÖZGÜN – hesap",
 "batch": "GMA",
 "no": 7,
 "harf": "C",
 "blok": "GK",
 "ders": "Matematik",
-"g_harfli": "5. ders başlamadan önce 4 ders (180 dakika), 3 teneffüs (30 dakika) ve 1 öğle arası (40 dakika) geçer; toplam 250 dakika, yani 4 saat 10 dakika eklenince 12.40 bulunur. Öğle arasını 10 dakikalık teneffüs gibi sayan 12.10'a, öğle arasını teneffüse ek olarak sayan 12.50'ye ulaşır; 12.30 dördüncü dersin, 13.25 ise beşinci dersin bitiş saatidir. Bu nedenle doğru cevap C seçeneğidir. (MD Genel Kültür Kitabı – Matematik: Zaman ve takvim – Günler ve tekrar aralıkları)"
+"g_harfli": "5. analiz başlamadan önce 4 analiz (180 dakika), 3 temizlik (30 dakika) ve 1 kalibrasyon (40 dakika) geçer; toplam 250 dakika, yani 4 saat 10 dakika eklenince 12.40 bulunur. Kalibrasyonu 10 dakikalık temizlik gibi sayan 12.10'a, kalibrasyonu temizliğe ek olarak sayan 12.50'ye ulaşır; 12.30 dördüncü analizin, 13.25 ise beşinci analizin bitiş saatidir. Bu nedenle doğru cevap C seçeneğidir. (MD Genel Kültür Kitabı – Matematik: Zaman ve takvim – Günler ve tekrar aralıkları)"
 },
 {
 "id": "D10-008",
@@ -329,38 +329,38 @@
 {
 "id": "D10-010",
 "cikmis": "2025/10",
-"konu": "Matematik – Değişen düzenli birikim",
+"konu": "Matematik – Değişen düzenli artış",
 "tip": "T9",
 "z": "OÜ",
-"madde": "Genel Kültür Kitabı – Matematik: Problem türleri (Basit faiz ve büyüme hesabı); Sayılar ve temel kavramlar (Kalan ve örüntü problemleri)",
-"cek": "Parçalı düzenli artış: 80 + 6 × 25 + 9 × 40 = 590; 7. ile 15. hafta arası 9 haftadır.",
+"madde": "Genel Kültür Kitabı – Matematik: Sayılar ve temel kavramlar (Ardışık sayıları merkezden kur; Kalan ve örüntü problemleri)",
+"cek": "Parçalı düzenli artış: 60 + 5 × 25 + 9 × 40 = 545; 6. ile 14. gün arası 9 gündür.",
 "kok": [
-"Kumbarasında 80 lira bulunan Deniz, ilk 6 hafta her hafta kumbarasına 25 lira, sonraki haftalarda ise her hafta 40 lira atmaktadır.",
-"Buna göre 15. haftanın sonunda kumbarada kaç lira birikmiş olur?"
+"Bir su deposunda başlangıçta 60 litre su vardır. Depoya ilk 5 gün her gün 25 litre, sonraki günlerde ise her gün 40 litre su eklenmekte, depodan su kullanılmamaktadır.",
+"Buna göre 14. günün sonunda depoda kaç litre su bulunur?"
 ],
-"d": "590",
+"d": "545",
 "c": [
-"455",
-"510",
-"550",
-"680"
+"410",
+"485",
+"505",
+"620"
 ],
 "opts": [
-"455",
-"510",
-"550",
-"590",
-"680"
+"410",
+"485",
+"505",
+"545",
+"620"
 ],
 "tuzak": false,
-"g": "İlk 6 haftada 6·25 = 150 lira, 7. haftadan 15. haftaya kadar 9 haftada 9·40 = 360 lira eklenir; başlangıçtaki 80 lirayla birlikte toplam 590 lira olur. 40 liralık dönemi 15 − 7 = 8 hafta sayan 550'ye, başlangıçtaki 80 lirayı unutan 510'a ulaşır; bütün haftaları 25 lira alan 455'i, 40 lira alan 680'i bulur. (MD Genel Kültür Kitabı – Matematik: Problem türleri – Basit faiz ve büyüme hesabı)",
+"g": "İlk 5 günde 5·25 = 125 litre, 6. günden 14. güne kadar 9 günde 9·40 = 360 litre eklenir; başlangıçtaki 60 litreyle birlikte toplam 545 litre olur. 40 litrelik dönemi 14 − 6 = 8 gün sayan 505'e, başlangıçtaki 60 litreyi unutan 485'e ulaşır; bütün günleri 25 litre alan 410'u, 40 litre alan 620'yi bulur. (MD Genel Kültür Kitabı – Matematik: Sayılar ve temel kavramlar – Ardışık sayıları merkezden kur)",
 "kanit": "ÖZGÜN – hesap",
 "batch": "GMA",
 "no": 10,
 "harf": "D",
 "blok": "GK",
 "ders": "Matematik",
-"g_harfli": "İlk 6 haftada 6·25 = 150 lira, 7. haftadan 15. haftaya kadar 9 haftada 9·40 = 360 lira eklenir; başlangıçtaki 80 lirayla birlikte toplam 590 lira olur. 40 liralık dönemi 15 − 7 = 8 hafta sayan 550'ye, başlangıçtaki 80 lirayı unutan 510'a ulaşır; bütün haftaları 25 lira alan 455'i, 40 lira alan 680'i bulur. Bu nedenle doğru cevap D seçeneğidir. (MD Genel Kültür Kitabı – Matematik: Problem türleri – Basit faiz ve büyüme hesabı)"
+"g_harfli": "İlk 5 günde 5·25 = 125 litre, 6. günden 14. güne kadar 9 günde 9·40 = 360 litre eklenir; başlangıçtaki 60 litreyle birlikte toplam 545 litre olur. 40 litrelik dönemi 14 − 6 = 8 gün sayan 505'e, başlangıçtaki 60 litreyi unutan 485'e ulaşır; bütün günleri 25 litre alan 410'u, 40 litre alan 620'yi bulur. Bu nedenle doğru cevap D seçeneğidir. (MD Genel Kültür Kitabı – Matematik: Sayılar ve temel kavramlar – Ardışık sayıları merkezden kur)"
 },
 {
 "id": "D10-011",
@@ -472,35 +472,35 @@
 "cikmis": "2025/14",
 "konu": "Atatürk’ün hayatı – Eserleri",
 "tip": "T4",
-"z": "O",
-"madde": "Genel Kültür Kitabı – Tarih: Fikirler, şehirler ve eserler; Tarih, dil ve bilim çalışmaları",
-"cek": "Atatürk’ün Geometri kitabı, bilimsel kavramların anlaşılır Türkçe ile öğretilmesi ve Türkçe terim üretimi çabasının somut örneğidir.",
+"z": "OÜ",
+"madde": "Genel Kültür Kitabı – Tarih: Atatürk’ün eserleri (Bilgi üretimi ve dil); Tarih, dil ve bilim çalışmaları",
+"cek": "Atatürk’ün Geometri kitabı, bilim ve eğitimde kavramların anlaşılır Türkçe ile öğretilmesi çabasının somut örneğidir.",
 "kok": [
-"Mustafa Kemal Atatürk’ün, bilimsel kavramların anlaşılır Türkçe ile öğretilmesi çabasını gösteren ve bilim ile eğitimde Türkçe terimler üretilmesine yönelik ilginin somut örneklerinden sayılan eseri aşağıdakilerden hangisidir?"
+"Mustafa Kemal Atatürk’ün kaleme aldığı Geometri kitabı, aşağıdakilerden hangisinin somut örneği olarak gösterilir?"
 ],
-"d": "Geometri kitabı",
+"d": "Bilim ve eğitimde kavramların anlaşılır Türkçe ile öğretilmesi çabasının",
 "c": [
-"Nutuk",
-"İrade-i Milliye",
-"Havza Genelgesi",
-"Amasya Genelgesi"
+"Askerlik alanındaki mesleki tecrübenin yazıya aktarılması çabasının",
+"1919-1927 arasındaki mücadelenin belgelere dayanılarak anlatılmasının",
+"Yetişkinlere yeni harflerin yaygın biçimde öğretilmesi kampanyasının",
+"Türk tarihinin daha geniş zaman ve coğrafya içinde araştırılması çabasının"
 ],
 "tuzak": false,
-"g": "Atatürk’ün Geometri kitabı, bilimsel kavramların anlaşılır Türkçe ile öğretilmesi çabasını gösterir ve bilim ile eğitimde Türkçe terimler üretilmesine yönelik ilginin somut örneklerindendir. Nutuk ağırlıkla 1919-1927 arasındaki mücadeleyi ve siyasi gelişmeleri anlatır; İrade-i Milliye ise Sivas Kongresi sonrasında hareketin görüşlerini duyuran gazetedir. (MD Genel Kültür Kitabı – Tarih: Atatürk’ün hayatı ve eserleri)",
-"kanit": "Canli_7_24_Genel_Kultur_Kitabi.txt | Geometri kitabı ise bilimsel kavramların anlaşılır Türkçe ile öğretilmesi çabasını gösterir. || Canli_7_24_Genel_Kultur_Kitabi.txt | Bilim ve eğitimde Türkçe terimler üretilmesi, öğrencinin kavramı kendi dili içinde öğrenmesine yardım ediyordu. Geometri kitabı bu ilginin somut örneklerindendir.",
+"g": "Kitaba göre Geometri kitabı, bilimsel kavramların anlaşılır Türkçe ile öğretilmesi çabasını gösterir ve bilim ile eğitimde Türkçe terimler üretilmesine yönelik ilginin somut örneklerindendir. Mesleki tecrübeyi Atatürk’ün askerlik üzerine çalışmaları, 1919-1927 arasındaki mücadeleyi belgelere dayanarak Nutuk yansıtır; yeni harflerin yetişkinlere öğretilmesi Millet Mekteplerinin, Türk tarihinin geniş zaman ve coğrafyada araştırılması ise Türk Tarih Kurumunun kökeni olan kurumun konusudur. (MD Genel Kültür Kitabı – Tarih: Tarih, dil ve bilim çalışmaları)",
+"kanit": "Canli_7_24_Genel_Kultur_Kitabi.txt | Atatürk’ün askerlik üzerine çalışmaları mesleki tecrübeyi, Geometri kitabı ise bilimsel kavramların anlaşılır Türkçe ile öğretilmesi çabasını gösterir. || Canli_7_24_Genel_Kultur_Kitabi.txt | Geometri kitabı bu ilginin somut örneklerindendir.",
 "batch": "GTA",
 "no": 14,
 "harf": "D",
 "opts": [
-"Nutuk",
-"İrade-i Milliye",
-"Havza Genelgesi",
-"Geometri kitabı",
-"Amasya Genelgesi"
+"Askerlik alanındaki mesleki tecrübenin yazıya aktarılması çabasının",
+"1919-1927 arasındaki mücadelenin belgelere dayanılarak anlatılmasının",
+"Yetişkinlere yeni harflerin yaygın biçimde öğretilmesi kampanyasının",
+"Bilim ve eğitimde kavramların anlaşılır Türkçe ile öğretilmesi çabasının",
+"Türk tarihinin daha geniş zaman ve coğrafya içinde araştırılması çabasının"
 ],
 "blok": "GK",
 "ders": "Tarih",
-"g_harfli": "Atatürk’ün Geometri kitabı, bilimsel kavramların anlaşılır Türkçe ile öğretilmesi çabasını gösterir ve bilim ile eğitimde Türkçe terimler üretilmesine yönelik ilginin somut örneklerindendir. Nutuk ağırlıkla 1919-1927 arasındaki mücadeleyi ve siyasi gelişmeleri anlatır; İrade-i Milliye ise Sivas Kongresi sonrasında hareketin görüşlerini duyuran gazetedir. Bu nedenle doğru cevap D seçeneğidir. (MD Genel Kültür Kitabı – Tarih: Atatürk’ün hayatı ve eserleri)"
+"g_harfli": "Kitaba göre Geometri kitabı, bilimsel kavramların anlaşılır Türkçe ile öğretilmesi çabasını gösterir ve bilim ile eğitimde Türkçe terimler üretilmesine yönelik ilginin somut örneklerindendir. Mesleki tecrübeyi Atatürk’ün askerlik üzerine çalışmaları, 1919-1927 arasındaki mücadeleyi belgelere dayanarak Nutuk yansıtır; yeni harflerin yetişkinlere öğretilmesi Millet Mekteplerinin, Türk tarihinin geniş zaman ve coğrafyada araştırılması ise Türk Tarih Kurumunun kökeni olan kurumun konusudur. Bu nedenle doğru cevap D seçeneğidir. (MD Genel Kültür Kitabı – Tarih: Tarih, dil ve bilim çalışmaları)"
 },
 {
 "id": "D10-015",
@@ -835,7 +835,7 @@
 "4458 sayılı Gümrük Kanununa göre gümrük müşaviri olma koşullarına ilişkin aşağıdaki ifadeler veriliyor:",
 "I. Hukuk, iktisat veya maliye gibi Kanunda sayılan dallarda lisans mezunu olup diğer koşulları taşıyan ve iki yıl süreyle gümrük müşavir yardımcılığı yaparak gümrük mevzuatı ile gümrüğe ilişkin iktisadi, ticari ve mali konuları kapsayan sınavda başarılı olan kişiler gümrük müşavirliği yapmaya hak kazanır.",
 "II. Gümrük, dış ticaret ve Avrupa Birliği konularında uzmanlık programı olan ön lisans düzeyindeki meslek yüksek okullarından mezun olanlar, iki yıl gümrük müşavir yardımcılığı yapıp sınavda başarılı olarak gümrük müşaviri olabilir.",
-"III. Gümrük idaresinde on yıl çalışmış olup bunun üç yılını şube müdürü veya gümrük müdürü görevlerinde geçirerek ayrılanlar, diğer koşulları taşımaları hâlinde staj koşuluna tabi tutulmaksızın gümrük müşavirliği sınavına girebilirler.",
+"III. Gümrük idaresinde on yıl çalışmış olup bunun üç yılını şube müdürü veya gümrük müdürü görevlerinde geçirip istifa eden veya emekliye ayrılanlar, diğer koşulları taşımaları hâlinde staj koşuluna tabi tutulmaksızın gümrük müşavirliği sınavına girebilirler.",
 "IV. Gümrük başmüdürü, gümrük uzmanı, kontrolör veya gümrük müfettişi görevlerinde en az beş yıl çalışmış olup ayrılanlar, sınav ve staj koşuluna bağlı olmaksızın gümrük müşaviri olmaya hak kazanırlar.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
@@ -855,7 +855,7 @@
 ],
 "tuzak": false,
 "g": "Kanuna göre gümrük müşavirliğine hak kazanmada, öğrenim koşulunu lisansüstü diploma veya ön lisans meslek yüksek okulu mezuniyeti yoluyla sağlayanlar kapsam dışında bırakılmıştır; bu nedenle II yanlıştır. Gümrük başmüdürü, gümrük uzmanı, kontrolör, gümrük müfettişi ve daha üst görevlerde beş değil en az on yıl çalışıp ayrılanlar sınav ve staj koşulu aranmaksızın gümrük müşaviri olmaya hak kazandığından IV de yanlıştır; I ve III Kanuna uygundur. (MD GK 228/1-2)",
-"kanit": "2-TEMSİL.txt | 227 nci maddenin 1 inci fıkrasının (f) bendinin (ii) alt bendi hariç olmak üzere, aynı fıkrada belirtilen koşulları taşıyan ve iki yıl süre ile gümrük müşavir yardımcılığı yaparak || 2-TEMSİL.txt | daha üst görevlerde en az on yıl çalışmış olanlardan, görevlerinden istifa eden veya emekliye ayrılanlar, || 2-TEMSİL.txt | ii) Diğer öğretim kurumlarından lisans seviyesinde mezun olduktan sonra || 2-TEMSİL.txt | ön lisans eğitimi veren gümrük, dış ticaret ve Avrupa Birliği konularında uzmanlık programı olan meslek yüksek okullarından mezun olmak,",
+"kanit": "2-TEMSİL.txt | 227 nci maddenin 1 inci fıkrasının (f) bendinin (ii) alt bendi hariç olmak üzere, aynı fıkrada belirtilen koşulları taşıyan ve iki yıl süre ile gümrük müşavir yardımcılığı yaparak || 2-TEMSİL.txt | daha üst görevlerde en az on yıl çalışmış olanlardan, görevlerinden istifa eden veya emekliye ayrılanlar, || 2-TEMSİL.txt | görevlerinde geçirenlerden, görevlerinden istifa eden veya emekliye ayrılanlar 227 nci maddenin 1 inci fıkrasında belirtilen koşulları taşımaları halinde, staj koşuluna tabi tutulmaksızın gümrük müşavirliği sınavına girebilirler. || 2-TEMSİL.txt | ii) Diğer öğretim kurumlarından lisans seviyesinde mezun olduktan sonra || 2-TEMSİL.txt | ön lisans eğitimi veren gümrük, dış ticaret ve Avrupa Birliği konularında uzmanlık programı olan meslek yüksek okullarından mezun olmak,",
 "batch": "K13",
 "no": 24,
 "harf": "D",
@@ -905,73 +905,73 @@
 "tip": "T1+T2",
 "z": "Z",
 "madde": "4458 sayılı Gümrük Kanunu m.213/1-2; Gümrük Yönetmeliği m.501/1-a; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.30/5",
-"cek": "Teslimden önce hasar gören eşya kusurlu sayılır; kusur sözleşme fiyatında dikkate alınmışsa vergiler kusurlu eşya hükümleriyle geri verilmez.",
+"cek": "Teslimden önce hasar gören eşya kusurlu sayılır; ilk kullanım şartı bir kere kullanılarak tüketilen eşyada aranmaz.",
 "kok": [
 "Gümrük mevzuatına göre kusurlu olduğu için ithalatçı tarafından kabul edilmeyen eşyanın ithalat vergilerinin geri verilmesine ilişkin aşağıdaki ifadeler veriliyor:",
 "I. Teslimden önce hasar gören eşya, kusurlu eşya kapsamında değerlendirilmez.",
 "II. İhracı yerine ilgilinin talebiyle izin verilen işlem veya kullanımlardan birine tabi tutulan eşya, serbest dolaşımda olmayan eşya sayılır.",
-"III. Alıcı ile satıcı arasındaki sözleşmenin fiyat dâhil şartları belirlenirken eşyanın kusurlu mahiyeti dikkate alınmışsa da vergiler geri verilir.",
-"IV. Bir kere kullanılarak tüketilen eşya hariç, eşyanın kusurun tespiti için gerekli ilk kullanım dışında kullanılmamış olması gerekir.",
+"III. Sözleşmenin fiyat dâhil şartları belirlenirken eşyanın kusurlu mahiyeti dikkate alınmışsa vergiler bu kapsamda geri verilmez.",
+"IV. Bir kere kullanılarak tüketilen eşya dâhil, eşyanın kusurun tespiti için gerekli ilk kullanım dışında kullanılmamış olması gerekir.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
-"d": "I ve III",
+"d": "I ve IV",
 "c": [
 "Yalnız I",
-"Yalnız II",
-"Yalnız III",
-"I ve II"
-],
-"opts": [
-"Yalnız I",
-"Yalnız II",
-"Yalnız III",
+"Yalnız IV",
 "I ve II",
 "I ve III"
 ],
+"opts": [
+"Yalnız I",
+"Yalnız IV",
+"I ve II",
+"I ve III",
+"I ve IV"
+],
 "tuzak": false,
-"g": "Kanuna göre kusurlu eşyaya teslimden önce hasar gören eşya da dâhildir; I yanlıştır. Yönetmeliğe göre sözleşmenin fiyat dâhil şartları belirlenirken eşyanın kusurlu mahiyeti dikkate alınmışsa vergiler kusurlu eşya hükümleri çerçevesinde geri verilmez veya kaldırılmaz; III yanlıştır. İhraç yerine izin verilen işlem veya kullanıma tabi tutulan eşyanın serbest dolaşımda olmayan eşya sayılması ve ilk kullanım şartı mevzuata uygundur. (MD GK 213/1-2; GY 501/1-a; Tahsilat Seri No:2 m.30/5)",
-"kanit": "47-geri verme kaldırma.txt | Kusurlu eşyaya, teslimden önce hasar gören eşya da dahildir. || 47-geri verme kaldırma.txt | Bir alıcı ile satıcı arasında yapılan sözleşmenin, özellikle fiyat da dahil olmak üzere şartları belirlenirken eşyanın kusurlu mahiyetinin dikkate alınması, || 47-geri verme kaldırma.txt | Söz konusu işlem veya kullanımlardan birine tabi tutulan eşya, serbest dolaşımda olmayan eşya olarak değerlendirilir. || 47-geri verme kaldırma.txt | ilk kullanım dışında kullanılmamış olması (bir kere kullanılarak tüketilen eşya hariç)",
+"g": "Kanuna göre kusurlu eşyaya teslimden önce hasar gören eşya da dâhildir; I yanlıştır. Tebliğe göre ilk kullanım dışında kullanılmama şartı, bir kere kullanılarak tüketilen eşya hariç aranır; IV yanlıştır. İhraç yerine izin verilen işlem veya kullanıma tabi tutulan eşyanın serbest dolaşımda olmayan eşya sayılması ve kusurlu mahiyeti fiyatta dikkate alınan eşyada geri verme yapılmaması mevzuata uygundur. (MD GK 213/1-2; GY 501/1-a; Tahsilat Seri No:2 m.30/5)",
+"kanit": "47-geri verme kaldırma.txt | Kusurlu eşyaya, teslimden önce hasar gören eşya da dahildir. || 47-geri verme kaldırma.txt | ilk kullanım dışında kullanılmamış olması (bir kere kullanılarak tüketilen eşya hariç) || 47-geri verme kaldırma.txt | Söz konusu işlem veya kullanımlardan birine tabi tutulan eşya, serbest dolaşımda olmayan eşya olarak değerlendirilir.",
 "batch": "K10",
 "no": 26,
 "harf": "E",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre kusurlu eşyaya teslimden önce hasar gören eşya da dâhildir; I yanlıştır. Yönetmeliğe göre sözleşmenin fiyat dâhil şartları belirlenirken eşyanın kusurlu mahiyeti dikkate alınmışsa vergiler kusurlu eşya hükümleri çerçevesinde geri verilmez veya kaldırılmaz; III yanlıştır. İhraç yerine izin verilen işlem veya kullanıma tabi tutulan eşyanın serbest dolaşımda olmayan eşya sayılması ve ilk kullanım şartı mevzuata uygundur. Bu nedenle doğru cevap E seçeneğidir. (MD GK 213/1-2; GY 501/1-a; Tahsilat Seri No:2 m.30/5)"
+"g_harfli": "Kanuna göre kusurlu eşyaya teslimden önce hasar gören eşya da dâhildir; I yanlıştır. Tebliğe göre ilk kullanım dışında kullanılmama şartı, bir kere kullanılarak tüketilen eşya hariç aranır; IV yanlıştır. İhraç yerine izin verilen işlem veya kullanıma tabi tutulan eşyanın serbest dolaşımda olmayan eşya sayılması ve kusurlu mahiyeti fiyatta dikkate alınan eşyada geri verme yapılmaması mevzuata uygundur. Bu nedenle doğru cevap E seçeneğidir. (MD GK 213/1-2; GY 501/1-a; Tahsilat Seri No:2 m.30/5)"
 },
 {
 "id": "D10-027",
 "cikmis": "2025/27",
 "konu": "Tahakkuk-Tebliğ-Ödeme",
 "tip": "T3",
-"z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.216/2, 217",
-"cek": "Hatalı geri verme veya kaldırmada yeniden tahsil edilen vergiler tebliğ tarihinden itibaren on beş gün içinde ödenir.",
+"z": "Z",
+"madde": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.27/4",
+"cek": "Son taksitte ihlal edilen tecil geçerli sayılırsa taksit ve tecil faizi, geçerlilik yazısının tebliğinden itibaren beş iş günü içinde ödenir.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre hatalı olarak geri verilen gümrük vergilerinden tahsil edilmeyen miktarlar **ne kadar süre içinde** ödenir?"
+"Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre son taksitte ihlal edilip geçerli sayılan tecilde taksit **ne kadar sürede** ödenir?"
 ],
-"d": "Tebliğ tarihinden itibaren on beş gün içinde",
+"d": "Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde",
 "c": [
-"Tebliğ tarihinden itibaren otuz gün içinde",
-"Geri verme tarihinden itibaren on beş gün içinde",
-"Tebliğ tarihinden itibaren dört ay içinde",
-"Hatanın tespit tarihinden itibaren bir ay içinde"
+"Son taksit ödeme süresini izleyen ayın sonuna kadar",
+"Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren bir ay içinde",
+"Tecilin geçerli sayılmasına ilişkin talebin yapıldığı tarihten itibaren beş iş günü içinde",
+"Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren on beş gün içinde"
 ],
 "tuzak": false,
-"g": "Kanuna göre gümrük vergilerinin hatalı olarak kaldırılması veya geri verilmesi hâlinde başlangıçta tahakkuk eden vergiler ile ödenmiş faizler yeniden tahsil edilir; tahsil edilmeyen miktarlar tebliğ tarihinden itibaren on beş gün içinde ödenir, ödenmeyenler için 6183 sayılı Kanun hükümlerine göre işlem yapılır. Dört aylık süre, geri verme kararının uygulanmaması hâlinde faiz ödenmesine ilişkindir. (MD GK 216/2, 217)",
-"kanit": "47-geri verme kaldırma.txt | Gümrük vergilerinin hatalı olarak kaldırılması veya geri verilmesi halinde, başlangıçta tahakkuk eden vergiler ile 216 ncı madde uyarınca ödenmiş faizler yeniden tahsil edilir. || 47-geri verme kaldırma.txt | Tahsil edilmeyen miktarlar tebliğ tarihinden itibaren onbeş gün … içinde ödenir.",
+"g": "Tebliğe göre tecilin ihlaline neden olan taksit son taksitse, yükümlü tecilin geçerli sayılması talebini en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapar; ihlal edilen taksit ile hesaplanan tecil faizini ise tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde öder. Ayın sonuna kadarki süre talebe ilişkindir; beş iş günü de talep tarihinden değil yazının tebliğinden başlar. (MD Tahsilat Seri No:2 m.27/4)",
+"kanit": "45-tebliğ.txt | ihlal edilen taksit tutarı ile hesaplanan tecil faizini tecilin geçerli sayıldığına ilişkin yazının tebliğ edildiği tarihten itibaren beş iş günü içinde ödemeleri gerekir",
 "batch": "K10",
 "no": 27,
 "harf": "D",
 "opts": [
-"Tebliğ tarihinden itibaren otuz gün içinde",
-"Geri verme tarihinden itibaren on beş gün içinde",
-"Tebliğ tarihinden itibaren dört ay içinde",
-"Tebliğ tarihinden itibaren on beş gün içinde",
-"Hatanın tespit tarihinden itibaren bir ay içinde"
+"Son taksit ödeme süresini izleyen ayın sonuna kadar",
+"Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren bir ay içinde",
+"Tecilin geçerli sayılmasına ilişkin talebin yapıldığı tarihten itibaren beş iş günü içinde",
+"Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde",
+"Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren on beş gün içinde"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre gümrük vergilerinin hatalı olarak kaldırılması veya geri verilmesi hâlinde başlangıçta tahakkuk eden vergiler ile ödenmiş faizler yeniden tahsil edilir; tahsil edilmeyen miktarlar tebliğ tarihinden itibaren on beş gün içinde ödenir, ödenmeyenler için 6183 sayılı Kanun hükümlerine göre işlem yapılır. Dört aylık süre, geri verme kararının uygulanmaması hâlinde faiz ödenmesine ilişkindir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 216/2, 217)"
+"g_harfli": "Tebliğe göre tecilin ihlaline neden olan taksit son taksitse, yükümlü tecilin geçerli sayılması talebini en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapar; ihlal edilen taksit ile hesaplanan tecil faizini ise tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde öder. Ayın sonuna kadarki süre talebe ilişkindir; beş iş günü de talep tarihinden değil yazının tebliğinden başlar. Bu nedenle doğru cevap D seçeneğidir. (MD Tahsilat Seri No:2 m.27/4)"
 },
 {
 "id": "D10-028",
@@ -1050,34 +1050,34 @@
 "konu": "Tahakkuk-Tebliğ-Ödeme",
 "tip": "T3",
 "z": "OÜ",
-"madde": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.17/1, 18/2",
-"cek": "Tecil ve taksitlendirme başvurusu reddedilen alacak, ret kararının tebliğinden itibaren azami otuz gün içinde tecil faiziyle ödenebilir.",
+"madde": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.13/1-b, 13/1-c, 13/1-ç; 4458 sayılı Gümrük Kanunu m.197/5",
+"cek": "İtiraz reddi sonrası yargıya taşınan karar, nihai yargı kararının tebliğinden itibaren otuz günlük üst mahkeme süresinin bitiminde kesinleşir.",
 "kok": [
-"Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre tecil başvurusu reddedilen alacak **en geç ne zamana kadar** tecil faiziyle ödenebilir?"
+"Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre yargıya taşınan vergi kararı üst mahkemeye götürülmezse **ne zaman** kesinleşir?"
 ],
-"d": "Ret kararının tebliğinden itibaren azami otuz gün içinde",
+"d": "Nihai yargı kararının tebliğinden itibaren otuz günlük sürenin bitiminde",
 "c": [
-"Ret kararının tebliğinden itibaren azami on beş gün içinde",
-"Tecil başvurusunun yapıldığı tarihten itibaren otuz gün içinde",
-"Alacağın vade tarihinden itibaren azami otuz gün içinde",
-"Ret kararının tebliğinden itibaren azami üç ay içinde"
+"Nihai yargı kararının tebliğinden itibaren on beş günlük sürenin bitiminde",
+"Nihai yargı kararının gümrük idaresine tebliğ edildiği tarihte",
+"Nihai yargı kararının verildiği tarihten itibaren otuz günlük sürenin bitiminde",
+"İtirazın reddi kararının tebliğinden itibaren dava açma süresinin bitiminde"
 ],
 "tuzak": false,
-"g": "Tebliğe göre 6183 sayılı Kanun çerçevesindeki tecil ve taksitlendirme başvurusunun reddi durumunda alacağın, ret kararının tebliğinden itibaren azami otuz gün içinde tecil faizi uygulanarak ödenmesi mümkündür. Başvuru tarihinden itibaren otuz güne kadar erteleme ise on beş günlük ödeme süresi içinde teminatla talep edilen Gümrük Kanunu kapsamındaki ertelemeye ilişkindir. (MD Tahsilat Seri No:2 m.17/1, 18/2)",
-"kanit": "45-tebliğ.txt | ret kararının tebliğinden itibaren azami otuz gün içinde tecil faizi uygulanmak suretiyle ödenmesi mümkündür",
+"g": "Tebliğe göre idari itirazın reddi üzerine idari yargıya başvurulmuşsa karar, nihai yargı kararının tebliğinden itibaren istinaf veya temyiz için gerekli otuz günlük süre içinde üst mahkemeye başvurulmaması hâlinde bu sürenin bitiminde kesinleşir. On beş günlük süre kararın düzeltilmesi talebine ilişkindir; kararın gümrük idaresine tebliği ise Kanuna göre vergilerin tahsil edilebilir hâle geldiği andır. (MD Tahsilat Seri No:2 m.13/1-c, 13/1-ç; GK 197/5)",
+"kanit": "45-tebliğ.txt | nihai yargı kararının tebliğ edildiği tarihten itibaren, söz konusu yargı kararına bir üst mahkeme nezdinde istinaf … otuz günlük süre içerisinde üst mahkemeye başvurulmaması halinde, söz konusu sürenin bitiminde",
 "batch": "K10",
 "no": 30,
 "harf": "C",
 "opts": [
-"Ret kararının tebliğinden itibaren azami on beş gün içinde",
-"Tecil başvurusunun yapıldığı tarihten itibaren otuz gün içinde",
-"Ret kararının tebliğinden itibaren azami otuz gün içinde",
-"Alacağın vade tarihinden itibaren azami otuz gün içinde",
-"Ret kararının tebliğinden itibaren azami üç ay içinde"
+"Nihai yargı kararının tebliğinden itibaren on beş günlük sürenin bitiminde",
+"Nihai yargı kararının gümrük idaresine tebliğ edildiği tarihte",
+"Nihai yargı kararının tebliğinden itibaren otuz günlük sürenin bitiminde",
+"Nihai yargı kararının verildiği tarihten itibaren otuz günlük sürenin bitiminde",
+"İtirazın reddi kararının tebliğinden itibaren dava açma süresinin bitiminde"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre 6183 sayılı Kanun çerçevesindeki tecil ve taksitlendirme başvurusunun reddi durumunda alacağın, ret kararının tebliğinden itibaren azami otuz gün içinde tecil faizi uygulanarak ödenmesi mümkündür. Başvuru tarihinden itibaren otuz güne kadar erteleme ise on beş günlük ödeme süresi içinde teminatla talep edilen Gümrük Kanunu kapsamındaki ertelemeye ilişkindir. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Seri No:2 m.17/1, 18/2)"
+"g_harfli": "Tebliğe göre idari itirazın reddi üzerine idari yargıya başvurulmuşsa karar, nihai yargı kararının tebliğinden itibaren istinaf veya temyiz için gerekli otuz günlük süre içinde üst mahkemeye başvurulmaması hâlinde bu sürenin bitiminde kesinleşir. On beş günlük süre kararın düzeltilmesi talebine ilişkindir; kararın gümrük idaresine tebliği ise Kanuna göre vergilerin tahsil edilebilir hâle geldiği andır. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Seri No:2 m.13/1-c, 13/1-ç; GK 197/5)"
 },
 {
 "id": "D10-031",
@@ -1120,36 +1120,36 @@
 "cikmis": "2025/32",
 "konu": "Cezalar",
 "tip": "T9",
-"z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.234/1-a",
-"cek": "Tarife unsurlarındaki aykırılıkta vergi farkı yüzde beşi aşarsa ithalat vergilerinden ayrı farkın üç katı ceza; 30.000 TL farkta 90.000 TL.",
+"z": "Z",
+"madde": "4458 sayılı Gümrük Kanunu m.234/1-c, 234/6",
+"cek": "Vergi kaybı cezaları usulsüzlük cezası miktarından az olamaz; maddi hata cezası 800 TL hesaplansa da 1.000 TL alınır.",
 "kok": [
-"(L) Makine A.Ş., serbest dolaşıma giriş beyannamesinde eşyayı ithalat vergileri daha düşük olan bir gümrük tarife istatistik pozisyonunda beyan etmiştir. Teslimden sonra kontrol sonucunda eşyanın farklı bir tarife pozisyonunda sınıflandırılması gerektiği tespit edilmiştir. Beyana göre hesaplanan ithalat vergileri 200.000 TL, kontrol sonuçlarına göre alınması gereken ithalat vergileri ise 230.000 TL'dir. Aykırılık, firma tarafından idarenin tespitinden önce bildirilmemiştir; firma genel yönetim kapsamındaki bir kamu idaresi değildir.",
+"(L) Makine A.Ş.'nin serbest dolaşıma giriş beyannamesinde, faturadaki maddi hesap hatası nedeniyle eşyanın kıymeti noksan beyan edilmiştir. Teslimden sonra kontrol sonucunda noksan kıymete ait ithalat vergileri farkı 1.600 TL olarak hesaplanmıştır. Aykırılık, firma tarafından idarenin tespitinden önce bildirilmemiştir; firma genel yönetim kapsamındaki bir kamu idaresi değildir. Usulsüzlük cezası için Kanunda belirlenen miktarın 1.000 TL olduğu kabul edilecektir.",
 "4458 sayılı Gümrük Kanununa göre, (L) Makine A.Ş.'den ithalat vergileri farkından ayrı olarak alınacak para cezası **kaç TL**'dir?"
 ],
-"d": "90.000 TL",
+"d": "1.000 TL",
 "c": [
-"15.000 TL",
-"30.000 TL",
-"60.000 TL",
-"690.000 TL"
+"80 TL",
+"160 TL",
+"800 TL",
+"4.800 TL"
 ],
 "opts": [
-"15.000 TL",
-"30.000 TL",
-"60.000 TL",
-"90.000 TL",
-"690.000 TL"
+"80 TL",
+"160 TL",
+"800 TL",
+"1.000 TL",
+"4.800 TL"
 ],
 "tuzak": false,
-"g": "Tarifeyi oluşturan unsurlarda aykırılık görülmesi ve beyana göre hesaplanan vergilerle kontrol sonucu alınması gereken vergiler arasındaki farkın yüzde beşi aşması hâlinde, ithalat vergilerinden ayrı olarak farkın üç katı ceza alınır. Fark 230.000 - 200.000 = 30.000 TL olup beyan edilen vergilerin yüzde on beşidir; ceza 3 × 30.000 = 90.000 TL'dir. Farkın yarısı olan 15.000 TL miktar farkı veya maddi hata hâline, vergilerin tamamının üç katı olan 690.000 TL ise yanlış matraha karşılık gelir. (MD GK 234/1-a)",
-"kanit": "48-cezalar.txt | beyana göre hesaplanan ithalat vergileri[244] ile muayene sonuçlarına göre alınması gereken ithalat vergileri arasındaki fark % 5'i aştığı takdirde, ithalat vergilerinden[245] ayrı olarak bu farkın üç katı para cezası alınır",
+"g": "Maddi hesap hatasından doğan noksan kıymet beyanlarında ithalat vergileri farkından ayrı olarak vergi farkının yarısı tutarında ceza hesaplanır: 1.600 / 2 = 800 TL. Ancak bu cezalar usulsüzlük cezası için Kanunda belirlenen miktardan az olamayacağından alınacak ceza 1.000 TL'dir. Alt sınır atlanırsa 800 TL, idareden önce bildirim yokken yüzde on oranı uygulanırsa 80 TL, farkın üç katı alınırsa 4.800 TL bulunur. (MD GK 234/1-c, 234/6)",
+"kanit": "48-cezalar.txt | maddi hesap hatasından doğan noksan kıymet beyanlarında, bu farklara ait ithalat vergilerinden[248] başka vergi farkının yarısı tutarında para cezası alınır || 48-cezalar.txt | Bir ila üçüncü fıkralara göre verilen cezalar 241 inci maddenin birinci fıkrasında belirtilen miktardan az olamaz",
 "batch": "K11",
 "no": 32,
 "harf": "D",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tarifeyi oluşturan unsurlarda aykırılık görülmesi ve beyana göre hesaplanan vergilerle kontrol sonucu alınması gereken vergiler arasındaki farkın yüzde beşi aşması hâlinde, ithalat vergilerinden ayrı olarak farkın üç katı ceza alınır. Fark 230.000 - 200.000 = 30.000 TL olup beyan edilen vergilerin yüzde on beşidir; ceza 3 × 30.000 = 90.000 TL'dir. Farkın yarısı olan 15.000 TL miktar farkı veya maddi hata hâline, vergilerin tamamının üç katı olan 690.000 TL ise yanlış matraha karşılık gelir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 234/1-a)"
+"g_harfli": "Maddi hesap hatasından doğan noksan kıymet beyanlarında ithalat vergileri farkından ayrı olarak vergi farkının yarısı tutarında ceza hesaplanır: 1.600 / 2 = 800 TL. Ancak bu cezalar usulsüzlük cezası için Kanunda belirlenen miktardan az olamayacağından alınacak ceza 1.000 TL'dir. Alt sınır atlanırsa 800 TL, idareden önce bildirim yokken yüzde on oranı uygulanırsa 80 TL, farkın üç katı alınırsa 4.800 TL bulunur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 234/1-c, 234/6)"
 },
 {
 "id": "D10-033",
@@ -1160,19 +1160,17 @@
 "madde": "Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2) m.12; Gümrük Yönetmeliği m.44/3, m.56/2",
 "cek": "Royalti değerlendirmesinde yönlendirici olarak dikkate alınması gereken Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesi metinleri Tavsiye Kararlarıdır.",
 "kok": [
-"Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2)'de şu metinlerden söz edilmektedir:",
-"“Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesinin, royalti veya lisans ücretlerinin değerlendirilmesinde yönlendirici mahiyette dikkate alınması gereken metinleri”",
-"Yukarıda tanımlanan metinler aşağıdakilerden hangisidir?"
+"Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2)'ye göre, “Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesinin royalti veya lisans ücretlerinin değerlendirilmesine ilişkin” olup karşılaşılacak durumların değerlendirilmesinde yönlendirici mahiyette dikkate alınması gereken metinler aşağıdakilerden hangisidir?"
 ],
 "d": "Tavsiye Kararları",
 "c": [
 "Yorum Notları",
-"Açıklayıcı Notlar",
+"Menşe Kuralları",
 "Uygulama Anlaşması",
-"Genel Yorum Kuralları"
+"Armonize Sistem İzahnamesi"
 ],
 "tuzak": false,
-"g": "Tebliğe göre Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesinin royalti veya lisans ücretlerinin değerlendirilmesine ilişkin Tavsiye Kararları, karşılaşılacak durumların değerlendirilmesinde yönlendirici mahiyette dikkate alınır. Yorum Notları Gümrük Yönetmeliğinin kıymet ekinin ikinci sütununda yer alan notlardır; Uygulama Anlaşması 1994 GATT VII nci Maddesinin uygulanmasına ilişkin anlaşma, Genel Yorum Kuralları ise tarife sınıflandırmasına ilişkin kurallardır. (MD Kıymet Tebliği 12; GY 44/3; GK 26/1)",
+"g": "Tebliğe göre Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesinin royalti veya lisans ücretlerinin değerlendirilmesine ilişkin Tavsiye Kararları, karşılaşılacak durumların değerlendirilmesinde yönlendirici mahiyette dikkate alınır. Yorum Notları Gümrük Yönetmeliğinin kıymet ekinin ikinci sütununda yer alan notlardır; Uygulama Anlaşması 1994 GATT VII nci Maddesinin uygulanmasına ilişkin anlaşmadır; Armonize Sistem İzahnamesi tarife sınıflandırmasına, Menşe Kuralları ise menşe tespitine ilişkindir. (MD Kıymet Tebliği 12; GY 44/3; GK 26/1)",
 "kanit": "12-KIYMET VE KAPLAR.txt | Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesinin royalti veya lisans ücretlerinin değerlendirilmesine ilişkin EK-3'de yer alan Tavsiye Kararları ve EK-4'teki uygulama örneğinin, karşılaşılacak durumların değerlendirilmesinde yönlendirici mahiyette dikkate alınması gerekir.",
 "batch": "K02",
 "no": 33,
@@ -1180,13 +1178,13 @@
 "opts": [
 "Tavsiye Kararları",
 "Yorum Notları",
-"Açıklayıcı Notlar",
+"Menşe Kuralları",
 "Uygulama Anlaşması",
-"Genel Yorum Kuralları"
+"Armonize Sistem İzahnamesi"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesinin royalti veya lisans ücretlerinin değerlendirilmesine ilişkin Tavsiye Kararları, karşılaşılacak durumların değerlendirilmesinde yönlendirici mahiyette dikkate alınır. Yorum Notları Gümrük Yönetmeliğinin kıymet ekinin ikinci sütununda yer alan notlardır; Uygulama Anlaşması 1994 GATT VII nci Maddesinin uygulanmasına ilişkin anlaşma, Genel Yorum Kuralları ise tarife sınıflandırmasına ilişkin kurallardır. Bu nedenle doğru cevap A seçeneğidir. (MD Kıymet Tebliği 12; GY 44/3; GK 26/1)"
+"g_harfli": "Tebliğe göre Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesinin royalti veya lisans ücretlerinin değerlendirilmesine ilişkin Tavsiye Kararları, karşılaşılacak durumların değerlendirilmesinde yönlendirici mahiyette dikkate alınır. Yorum Notları Gümrük Yönetmeliğinin kıymet ekinin ikinci sütununda yer alan notlardır; Uygulama Anlaşması 1994 GATT VII nci Maddesinin uygulanmasına ilişkin anlaşmadır; Armonize Sistem İzahnamesi tarife sınıflandırmasına, Menşe Kuralları ise menşe tespitine ilişkindir. Bu nedenle doğru cevap A seçeneğidir. (MD Kıymet Tebliği 12; GY 44/3; GK 26/1)"
 },
 {
 "id": "D10-034",
@@ -1268,7 +1266,7 @@
 "madde": "Gümrük Yönetmeliği m.51/7; 4458 sayılı Gümrük Kanunu m.27/1-e, m.28/a",
 "cek": "Giriş yerindeki fiyata tekabül eden maktu yurt içine teslim fiyatında, sınırda teslim fiyatının düşük olduğu tevsik edilmedikçe yurt içi nakliye fiyattan indirilmez.",
 "kok": [
-"Gümrük Yönetmeliğine göre nakliye giderlerinin gümrük kıymetine dahil edilmesine ilişkin olarak; (K) firması, ilişkili olmadığı (L) firmasından satın aldığı tekstil makinelerini serbest dolaşıma giriş rejimi kapsamında beyan etmiştir. Eşya, giriş limanındaki fiyatına tekabül eden ve (K)'nin Kayseri'deki fabrikasına teslimi kapsayan maktu bir yurt içine teslim fiyatı üzerinden 120.000 TL olarak faturalandırılmıştır. Satış sözleşmesinde, bu fiyatın 4.000 TL'lik kısmının giriş limanından fabrikaya kadar yapılacak nakliyeye karşılık geldiği belirtilmekle birlikte, sınırda teslim fiyatının maktu yurt içine teslim fiyatından düşük olduğu gümrük idaresine tevsik edilmemiştir. Fiyata dahil olmayan ve ihracat limanında eşyanın gemiye yüklenmesi ve elleçlenmesi için (K) tarafından ayrıca ödenen tutar 1.000 TL'dir. (K) ayrıca, giriş limanından fabrikaya kadar yapılan yurt içi taşıma için 1.500 TL sigorta ücreti ödemiştir.",
+"Gümrük Yönetmeliğine göre nakliye giderlerinin gümrük kıymetine dahil edilmesine ilişkin olarak; (K) firması, ilişkili olmadığı (L) firmasından satın aldığı tekstil makinelerini serbest dolaşıma giriş rejimi kapsamında beyan etmiştir. Eşya, giriş limanındaki fiyatına tekabül eden ve (K)'nin Kayseri'deki fabrikasına teslimi kapsayan maktu bir yurt içine teslim fiyatı üzerinden 120.000 TL olarak faturalandırılmıştır. Fatura ve satış sözleşmesinde yurt içi nakliye için ayrı bir bedel gösterilmemiştir; (K), giriş limanından fabrikaya kadarki nakliyenin piyasa bedelinin 4.000 TL olduğunu belirterek bu tutarın fiyattan indirilmesini talep etmiş, ancak sınırda teslim fiyatının maktu yurt içine teslim fiyatından düşük olduğunu gümrük idaresine tevsik edememiştir. Fiyata dahil olmayan ve ihracat limanında eşyanın gemiye yüklenmesi ve elleçlenmesi için (K) tarafından ayrıca ödenen tutar 1.000 TL'dir. (K) ayrıca, giriş limanından fabrikaya kadar yapılan yurt içi taşıma için 1.500 TL sigorta ücreti ödemiştir.",
 "Buna göre, eşyanın gümrük kıymeti **kaç TL**'dir?"
 ],
 "d": "121.000",
@@ -1286,14 +1284,14 @@
 "126.500"
 ],
 "tuzak": false,
-"g": "Eşya, giriş limanındaki fiyatına tekabül eden maktu bir yurt içine teslim fiyatıyla faturalandığında Türkiye içindeki nakliye giderleri fiyattan indirilmez; indirim ancak sınırda teslim fiyatının daha düşük olduğu tevsik edilirse yapılır. Giriş limanına kadarki nakliyeyle ilgili yükleme ve elleçleme gideri eklenir, giriş limanından sonraki taşımaya ait sigorta eklenmez: 120.000 + 1.000 = 121.000 TL. 117.000 TL yurt içi nakliyenin indirilmesi, 122.500 TL yurt içi sigortanın eklenmesi, 125.000 TL ve 126.500 TL ise yurt içi nakliyenin mükerrer eklenmesiyle bulunur. (MD GY 51/7; GK 27/1-e, 28/a)",
+"g": "Eşya, giriş limanındaki fiyatına tekabül eden maktu bir yurt içine teslim fiyatıyla faturalandığında Türkiye içindeki nakliye giderleri fiyattan indirilmez; indirim ancak sınırda teslim fiyatının daha düşük olduğu tevsik edilirse yapılır. Giriş limanına kadarki nakliyeyle ilgili yükleme ve elleçleme gideri eklenir, giriş limanından sonraki taşımaya ait sigorta eklenmez: 120.000 + 1.000 = 121.000 TL. 117.000 TL talep edilen nakliye indiriminin yapılması, 122.500 TL yurt içi sigortanın eklenmesi, 125.000 TL ve 126.500 TL ise yurt içi nakliyenin mükerrer eklenmesiyle bulunur. (MD GY 51/7; GK 27/1-e, 28/a)",
 "kanit": "12-KIYMET VE KAPLAR.txt | eşyanın giriş liman veya mahallindeki fiyatına tekabül eden maktu bir yurt içine teslim fiyatı üzerinden faturalandırıldığı durumlarda, Türkiye içindeki nakliye giderleri fiyattan indirilmez. Ancak sınırda teslim fiyatının maktu yurt içine teslim fiyatından düşük olduğunun gümrük idaresine tevsik edilmesi halinde söz konusu indirime izin verilir. || 12-KIYMET VE KAPLAR.txt | eşyanın giriş liman veya yerine kadar nakliyesi ile ilgili olarak yapılan yükleme ve elleçleme giderleri || 12-KIYMET VE KAPLAR.txt | giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri",
 "batch": "K02",
 "no": 36,
 "harf": "B",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Eşya, giriş limanındaki fiyatına tekabül eden maktu bir yurt içine teslim fiyatıyla faturalandığında Türkiye içindeki nakliye giderleri fiyattan indirilmez; indirim ancak sınırda teslim fiyatının daha düşük olduğu tevsik edilirse yapılır. Giriş limanına kadarki nakliyeyle ilgili yükleme ve elleçleme gideri eklenir, giriş limanından sonraki taşımaya ait sigorta eklenmez: 120.000 + 1.000 = 121.000 TL. 117.000 TL yurt içi nakliyenin indirilmesi, 122.500 TL yurt içi sigortanın eklenmesi, 125.000 TL ve 126.500 TL ise yurt içi nakliyenin mükerrer eklenmesiyle bulunur. Bu nedenle doğru cevap B seçeneğidir. (MD GY 51/7; GK 27/1-e, 28/a)"
+"g_harfli": "Eşya, giriş limanındaki fiyatına tekabül eden maktu bir yurt içine teslim fiyatıyla faturalandığında Türkiye içindeki nakliye giderleri fiyattan indirilmez; indirim ancak sınırda teslim fiyatının daha düşük olduğu tevsik edilirse yapılır. Giriş limanına kadarki nakliyeyle ilgili yükleme ve elleçleme gideri eklenir, giriş limanından sonraki taşımaya ait sigorta eklenmez: 120.000 + 1.000 = 121.000 TL. 117.000 TL talep edilen nakliye indiriminin yapılması, 122.500 TL yurt içi sigortanın eklenmesi, 125.000 TL ve 126.500 TL ise yurt içi nakliyenin mükerrer eklenmesiyle bulunur. Bu nedenle doğru cevap B seçeneğidir. (MD GY 51/7; GK 27/1-e, 28/a)"
 },
 {
 "id": "D10-037",
@@ -1311,11 +1309,11 @@
 "Tasfiye edilebilir hâle gelmiş eşyanın bedelinin tespitinde gümrüklenmiş değer esas alınır.",
 "Kaçak eşyanın bedeli, varsa mahkemece belirlenen bedele, yoksa tespit tutanağındaki bedele, o da yoksa rayiç değere göre belirlenir.",
 "Perakende satılacak eşyanın bedeli, serbest piyasa koşulları gözetilerek işletme müdürlüklerince belirlenir.",
-"İmha edilecek eşyanın nitelik, nicelik ve değeri, istatistik bilgilerine esas olmak üzere tespit ve tahakkuk belgesinde gösterilir."
+"İmha edilecek eşyanın nitelik, nicelik ve değeri, istatistiğe esas olarak tespit ve tahakkuk belgesinde veya imha kararında gösterilir."
 ],
 "tuzak": true,
 "g": "Maktu olarak alınması gereken vergi ve mali yükler ile bunlara isabet eden katma değer vergisi gümrüklenmiş değere dahildir; dahil edilmeyen, ihaleye esas bedeldir ve bu vergiler ayrıca tahsil edilir. Bedel tespitinde gümrüklenmiş değerin esas alınması ve kaçak eşyada mahkeme bedeli, tespit tutanağı bedeli ve rayiç değer sırasının izlenmesi Yönetmeliğe uygundur. (MD Tasfiye Yönetmeliği 31/1-a, b, c, ç)",
-"kanit": "43-tasfiye.txt | Maktu olarak alınması gereken vergiler ve mali yükler ile bunlara isabet eden Katma Değer Vergisi gümrüklenmiş değere dahil olmakla birlikte ihaleye esas bedele dahil edilmez. Bu vergiler ayrıca tahsil edilir || 43-tasfiye.txt | Tasfiye edilebilir hale gelmiş olan eşyanın bedelinin tespitinde gümrüklenmiş değer esas alınır || 43-tasfiye.txt | Kaçak eşyanın bedeli, varsa mahkemece belirlenen bedel, bedel belirlenmemiş ise kaçak eşyaya ait tespit tutanağındaki bedel, yoksa rayiç değer esas alınarak belirlenir",
+"kanit": "43-tasfiye.txt | Maktu olarak alınması gereken vergiler ve mali yükler ile bunlara isabet eden Katma Değer Vergisi gümrüklenmiş değere dahil olmakla birlikte ihaleye esas bedele dahil edilmez. Bu vergiler ayrıca tahsil edilir || 43-tasfiye.txt | Tasfiye edilebilir hale gelmiş olan eşyanın bedelinin tespitinde gümrüklenmiş değer esas alınır || 43-tasfiye.txt | istatistik bilgilerine esas olmak üzere tespit ve tahakkuk belgesinde veya imha kararında gösterilir || 43-tasfiye.txt | Kaçak eşyanın bedeli, varsa mahkemece belirlenen bedel, bedel belirlenmemiş ise kaçak eşyaya ait tespit tutanağındaki bedel, yoksa rayiç değer esas alınarak belirlenir",
 "batch": "K05",
 "no": 37,
 "harf": "D",
@@ -1324,7 +1322,7 @@
 "Kaçak eşyanın bedeli, varsa mahkemece belirlenen bedele, yoksa tespit tutanağındaki bedele, o da yoksa rayiç değere göre belirlenir.",
 "Perakende satılacak eşyanın bedeli, serbest piyasa koşulları gözetilerek işletme müdürlüklerince belirlenir.",
 "Maktu alınan vergi ve mali yükler ile bunlara isabet eden katma değer vergisi gümrüklenmiş değere dahil edilmez ve ayrıca tahsil edilir.",
-"İmha edilecek eşyanın nitelik, nicelik ve değeri, istatistik bilgilerine esas olmak üzere tespit ve tahakkuk belgesinde gösterilir."
+"İmha edilecek eşyanın nitelik, nicelik ve değeri, istatistiğe esas olarak tespit ve tahakkuk belgesinde veya imha kararında gösterilir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
@@ -1641,11 +1639,11 @@
 "c": [
 "İthalatçının veya ithalatçının sorumluluğundaki yetkili temsilcisinin",
 "Eşyayı üreten imalatçının veya imalatçının üye olduğu ihracatçı birliğinin",
-"Yetkilendirilmiş gümrük müşavirinin veya gümrük müşavirinin",
+"Taşıyıcının veya taşıyıcının sorumluluğundaki yetkili temsilcisinin",
 "İhracatçı ülkenin yetkili makamlarının veya gümrük idaresinin"
 ],
 "tuzak": false,
-"g": "Menşe şahadetnamesi, ihracatçının veya ihracatçının sorumluluğundaki yetkili temsilcisinin yazılı başvurusuna binaen düzenlenir; bu amaçla başvuru formunu ihracatçı veya yetkili temsilcisi doldurur. Yetkili makamlar şahadetnameyi düzenleyen taraf olup başvuran değildir; ithalatçı veya imalatçı başvuru sahibi olarak sayılmamıştır. (MD GY 42/2)",
+"g": "Menşe şahadetnamesi, ihracatçının veya ihracatçının sorumluluğundaki yetkili temsilcisinin yazılı başvurusuna binaen düzenlenir; bu amaçla başvuru formunu ihracatçı veya yetkili temsilcisi doldurur. Yetkili makamlar şahadetnameyi düzenleyen taraf olup başvuran değildir; ithalatçı, taşıyıcı veya imalatçı başvuru sahibi olarak sayılmamıştır. (MD GY 42/2)",
 "kanit": "10-MENŞEİ.txt | Menşe şahadetnamesi ihracatçının veya ihracatçının sorumluluğundaki yetkili temsilcisinin yazılı başvurusuna binaen düzenlenir.",
 "batch": "K03",
 "no": 46,
@@ -1654,12 +1652,12 @@
 "İthalatçının veya ithalatçının sorumluluğundaki yetkili temsilcisinin",
 "İhracatçının veya ihracatçının sorumluluğundaki yetkili temsilcisinin",
 "Eşyayı üreten imalatçının veya imalatçının üye olduğu ihracatçı birliğinin",
-"Yetkilendirilmiş gümrük müşavirinin veya gümrük müşavirinin",
+"Taşıyıcının veya taşıyıcının sorumluluğundaki yetkili temsilcisinin",
 "İhracatçı ülkenin yetkili makamlarının veya gümrük idaresinin"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Menşe şahadetnamesi, ihracatçının veya ihracatçının sorumluluğundaki yetkili temsilcisinin yazılı başvurusuna binaen düzenlenir; bu amaçla başvuru formunu ihracatçı veya yetkili temsilcisi doldurur. Yetkili makamlar şahadetnameyi düzenleyen taraf olup başvuran değildir; ithalatçı veya imalatçı başvuru sahibi olarak sayılmamıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 42/2)"
+"g_harfli": "Menşe şahadetnamesi, ihracatçının veya ihracatçının sorumluluğundaki yetkili temsilcisinin yazılı başvurusuna binaen düzenlenir; bu amaçla başvuru formunu ihracatçı veya yetkili temsilcisi doldurur. Yetkili makamlar şahadetnameyi düzenleyen taraf olup başvuran değildir; ithalatçı, taşıyıcı veya imalatçı başvuru sahibi olarak sayılmamıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 42/2)"
 },
 {
 "id": "D10-047",
@@ -1706,34 +1704,34 @@
 "konu": "Menşe",
 "tip": "T3",
 "z": "Z",
-"madde": "Gümrük Yönetmeliği m.38/2, 38/4",
-"cek": "Gümrük işlemleri bitmeden yapılan kontrolde pozisyon değişince önlem doğarsa, menşe belgesi için beyanname tescilinden başlayan altı aylık süre tanınır.",
+"madde": "Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.54/1-2",
+"cek": "Onaylanmış ihracatçı yetkisi için önceki takvim yılında veya kayıt ayının ilk gününden geriye dönük bir yılda en az elli A.TR düzenlenip kullanılmış olmalıdır.",
 "kok": [
-"Gümrük Yönetmeliğine göre, işlemler tamamlanmadan yapılan denetimde GTİP değişikliğiyle önleme tabi olduğu anlaşılan eşyada şahadetname süresi nedir?"
+"Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre, onaylanmış ihracatçı yetkisi için aranan A.TR koşulu hangisidir?"
 ],
-"d": "Beyannamenin tescil tarihinden itibaren altı ay",
+"d": "Kayıt ayının ilk gününden geriye dönük bir yılda en az elli A.TR",
 "c": [
-"Yapılan tespit tarihinden itibaren altı ay",
-"Beyannamenin tescil tarihinden itibaren otuz gün",
-"Yapılan tespit tarihinden itibaren otuz gün",
-"Eşyanın teslim tarihinden itibaren altı ay"
+"Kayıt ayının ilk gününden geriye dönük bir yılda en az elli EUR.1",
+"Kayıt ayının ilk gününden geriye dönük iki yılda en az elli A.TR",
+"Başvuru tarihinden geriye dönük on iki aylık iki dönemde elli A.TR",
+"Kayıt ayının ilk gününden geriye dönük altı ayda en az elli A.TR"
 ],
 "tuzak": false,
-"g": "Gümrük işlemleri tamamlanmadan yapılan denetimlerde eşyanın tarife pozisyonunun değişmesiyle önleme tabi olduğu anlaşılırsa sonradan ibraz hâlindeki usul uygulanır; önlem tutarları nakit teminata bağlanarak beyannamenin tescil tarihinden itibaren altı aylık süre verilir. Tespit tarihinden itibaren altı ay, işlemler tamamlandıktan sonra yapılan denetimlerde verilen süredir; otuz gün ise mücbir sebep saklı kalmak kaydıyla idare amirince yapılabilecek azami uzatmadır. (MD GY 38/2, 38/4-5)",
-"kanit": "10-MENŞEİ.txt | Gümrük işlemleri tamamlanmadan yapılan denetimlerde ekinde menşe şahadetnamesi bulunmayan beyannameler kapsamı eşyanın gümrük tarife istatistik pozisyonunun değişmesi sonucunda || 10-MENŞEİ.txt | ikinci fıkrada belirtilen şekilde işlem yapılır || 10-MENŞEİ.txt | usulüne uygun bir menşe şahadetnamesi ibrazı için beyannamenin tescil tarihinden itibaren altı aylık süre verilir",
+"g": "Tebliğe göre onaylanmış ihracatçı yetkisi, başvuru yılından bir önceki takvim yılı içinde veya başvurunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içinde en az elli adet A.TR dolaşım belgesi düzenleyip vize işlemlerini tamamlamış ve bu belgeleri kullanmış statü belgesi sahiplerine talepleri hâlinde verilir. Aynı eşya için en az elli EUR.1 veya EUR.MED koşulu, Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğinde kıymete bakılmaksızın fatura beyanı izni için aranır; geriye dönük iki yıl ve on ikişer aylık iki dönem ise statü başvurusunda ihlal ve cezaların değerlendirildiği dönemlerdir. (MD OKS Tebliği 54/1-2)",
+"kanit": "4-OKSB.txt | başvurunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içerisinde (…)en az elli adet A.TR dolaşım belgesi düzenleyip vize işlemlerini tamamlamış ve söz konusu A.TR dolaşım belgelerini kullanmış olan statü belgesi sahiplerine || 3-YYS.txt | en az 50 adet EUR.1 veya EUR.MED Dolaşım Belgesi düzenlemiş olmaları halinde || 4-OKSB.txt | sözleşme yapıldığı ayın ilk gününden geriye dönük iki yıl içerisinde, on ikişer aylık iki dönem",
 "batch": "K03",
 "no": 48,
 "harf": "C",
 "opts": [
-"Yapılan tespit tarihinden itibaren altı ay",
-"Beyannamenin tescil tarihinden itibaren otuz gün",
-"Beyannamenin tescil tarihinden itibaren altı ay",
-"Yapılan tespit tarihinden itibaren otuz gün",
-"Eşyanın teslim tarihinden itibaren altı ay"
+"Kayıt ayının ilk gününden geriye dönük bir yılda en az elli EUR.1",
+"Kayıt ayının ilk gününden geriye dönük iki yılda en az elli A.TR",
+"Kayıt ayının ilk gününden geriye dönük bir yılda en az elli A.TR",
+"Başvuru tarihinden geriye dönük on iki aylık iki dönemde elli A.TR",
+"Kayıt ayının ilk gününden geriye dönük altı ayda en az elli A.TR"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Gümrük işlemleri tamamlanmadan yapılan denetimlerde eşyanın tarife pozisyonunun değişmesiyle önleme tabi olduğu anlaşılırsa sonradan ibraz hâlindeki usul uygulanır; önlem tutarları nakit teminata bağlanarak beyannamenin tescil tarihinden itibaren altı aylık süre verilir. Tespit tarihinden itibaren altı ay, işlemler tamamlandıktan sonra yapılan denetimlerde verilen süredir; otuz gün ise mücbir sebep saklı kalmak kaydıyla idare amirince yapılabilecek azami uzatmadır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 38/2, 38/4-5)"
+"g_harfli": "Tebliğe göre onaylanmış ihracatçı yetkisi, başvuru yılından bir önceki takvim yılı içinde veya başvurunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içinde en az elli adet A.TR dolaşım belgesi düzenleyip vize işlemlerini tamamlamış ve bu belgeleri kullanmış statü belgesi sahiplerine talepleri hâlinde verilir. Aynı eşya için en az elli EUR.1 veya EUR.MED koşulu, Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğinde kıymete bakılmaksızın fatura beyanı izni için aranır; geriye dönük iki yıl ve on ikişer aylık iki dönem ise statü başvurusunda ihlal ve cezaların değerlendirildiği dönemlerdir. Bu nedenle doğru cevap C seçeneğidir. (MD OKS Tebliği 54/1-2)"
 },
 {
 "id": "D10-049",
@@ -1786,7 +1784,7 @@
 "3. Sanayi ürünleri – Tarım ürünleri dışında kalan, işlenmiş tarım ürünleri dâhil tüm ürünler",
 "4. Ticaret politikası önlemleri – İthalat Rejimi Kararında belirtilen mevzuat çerçevesinde alınan önlemler",
 "5. Üçüncü ülke – Avrupa Topluluğuna üye ülkeler dışındaki ülkeler",
-"Yukarıdaki eşleştirmelerden hangileri yanlıştır?"
+"Yukarıdaki eşleştirmelerden hangileri [[yanlıştır]]?"
 ],
 "d": "2 ve 3",
 "c": [
@@ -2037,7 +2035,7 @@
 "madde": "Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.4/1, 13/2, 13/4, 18/1",
 "cek": "BTB'yi GGM veya yetkili bölge müdürlükleri verir; geçerli BTB ile farklı görüşte konu düzenlemeden önce Bakanlığa intikal eder; yeniden inceleme re'sen de yapılabilir.",
 "kok": [
-"Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre BTB işlemlerinde yetkili idarelere ilişkin şu ifadeler veriliyor:",
+"Gümrük Genel Tebliği (Tarife) (Seri No: 14)'e göre Bağlayıcı Tarife Bilgisi (BTB) işlemlerinde yetkili idarelere ilişkin şu ifadeler veriliyor:",
 "I. BTB, yazılı veya elektronik talep üzerine Gümrükler Genel Müdürlüğü veya yetkilendirilmiş bölge müdürlüklerince verilen idari karardır.",
 "II. Geçerli bir BTB'deki sınıflandırmayla farklı görüşte olan bölge müdürlüğü, BTB'yi kendi görüşüne göre düzenleyip durumu sonradan Bakanlığa bildirir.",
 "III. Yetkilendirilmiş bölge müdürlükleri, sınıflandırmada tereddüt ettikleri hususlar hakkında istişarede bulunabilir.",
@@ -2449,7 +2447,7 @@
 "3. Geçici ihraç edilen eşyanın başka bir kamu kurumunun kendi görev alanı itibarıyla bilgisi ve izni çerçevesinde yurt dışında kalması – Süre uzatımı olarak değerlendirilir",
 "4. Ekonomik gereklilik nedeniyle üç yıllık sürenin üzerinde yurt dışında kalma talebi – Ekonomik nedenlerin belgelendirilmesi ve verilen süre içinde başvurulması hâlinde ilgili gümrük idaresince yeteri kadar ek süre verilir",
 "5. Sürücüsü yurt dışında tutuklanan geçici çıkarılmış taşıt için süre uzatımı talebi – Adli merci kararının noter veya yurt dışı temsilciliklerimizce onaylı Türkçe tercümesi aranmaz",
-"Yukarıdaki eşleştirmelerden hangileri yanlıştır?"
+"Yukarıdaki eşleştirmelerden hangileri [[yanlıştır]]?"
 ],
 "d": "2 ve 5",
 "c": [
@@ -2707,14 +2705,14 @@
 "madde": "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) m.32/3, 35/1, 38/1",
 "cek": "Transit işlemi beyan edilen varış idaresinden başka bir idarede sonlandırılırsa bu idare varış gümrük idaresi olur; önceden izin aranmaz.",
 "kok": [
-"(L) Dış Ticaret Ltd. Şti. adına Ankara Gümrük Müdürlüğünde serbest dolaşımda olmayan eşya için ulusal transit beyanında bulunulmuş ve beyanda varış gümrük idaresi olarak Doğubayazıt Gümrük Müdürlüğü gösterilmiştir. Ankara Gümrük Müdürlüğünce beyan kabul edilmiş, MRN oluşturulmuş, taşıt mühürlenerek sevk edilmiş ve Doğubayazıt Gümrük Müdürlüğüne \"Beklenen Varış Kaydı\" mesajı gönderilmiştir. Yolculuk sırasında alıcı firma, eşyanın Erzurum'daki bir antrepoya konulmasına karar vermiş; taşıt transit süresi içinde ve mühürleri sağlam olarak Erzurum Gümrük Müdürlüğüne getirilmiş, eşya MRN ile birlikte bu idareye sunulmuştur. Sistemde Erzurum Gümrük Müdürlüğüne gönderilmiş bir \"Beklenen Varış Kaydı\" mesajı bulunmamaktadır.",
+"(L) Dış Ticaret Ltd. Şti. adına Kayseri Gümrük Müdürlüğünde serbest dolaşımda olmayan eşya için ulusal transit beyanında bulunulmuş ve beyanda varış gümrük idaresi olarak Doğubayazıt Gümrük Müdürlüğü gösterilmiştir. Kayseri Gümrük Müdürlüğünce beyan kabul edilmiş, MRN oluşturulmuş, taşıt mühürlenerek sevk edilmiş ve Doğubayazıt Gümrük Müdürlüğüne \"Beklenen Varış Kaydı\" mesajı gönderilmiştir. Yolculuk sırasında alıcı firma, eşyanın Erzurum'daki bir antrepoya konulmasına karar vermiş; taşıt transit süresi içinde ve mühürleri sağlam olarak Erzurum Gümrük Müdürlüğüne getirilmiş, eşya MRN ile birlikte bu idareye sunulmuştur. Sistemde Erzurum Gümrük Müdürlüğüne gönderilmiş bir \"Beklenen Varış Kaydı\" mesajı bulunmamaktadır.",
 "Buna göre, Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) çerçevesinde aşağıdakilerden hangisi doğrudur?"
 ],
 "d": "Erzurum Gümrük Müdürlüğü varış gümrük idaresi olur ve transit işlemi eşyanın sunulmasıyla burada sonlanır",
 "c": [
 "Doğubayazıt varış idaresi olarak kalır; Erzurum Gümrük Müdürlüğü olay kaydı idaresi olarak işlem yapar",
 "Transit işlemi sonlanmaz; eşyanın beyan edilen Doğubayazıt Gümrük Müdürlüğüne sevk edilmesi gerekir",
-"Erzurum'da sonlandırma için Ankara Gümrük Müdürlüğünden önceden varış idaresi değişikliği izni alınmalıdır",
+"Erzurum'da sonlandırma için Kayseri Gümrük Müdürlüğünden önceden varış idaresi değişikliği izni alınmalıdır",
 "Erzurum Gümrük Müdürlüğü transit idaresi olarak geçişi kaydeder ve eşyayı Doğubayazıt'a sevk eder"
 ],
 "tuzak": false,
@@ -2727,7 +2725,7 @@
 "Erzurum Gümrük Müdürlüğü varış gümrük idaresi olur ve transit işlemi eşyanın sunulmasıyla burada sonlanır",
 "Doğubayazıt varış idaresi olarak kalır; Erzurum Gümrük Müdürlüğü olay kaydı idaresi olarak işlem yapar",
 "Transit işlemi sonlanmaz; eşyanın beyan edilen Doğubayazıt Gümrük Müdürlüğüne sevk edilmesi gerekir",
-"Erzurum'da sonlandırma için Ankara Gümrük Müdürlüğünden önceden varış idaresi değişikliği izni alınmalıdır",
+"Erzurum'da sonlandırma için Kayseri Gümrük Müdürlüğünden önceden varış idaresi değişikliği izni alınmalıdır",
 "Erzurum Gümrük Müdürlüğü transit idaresi olarak geçişi kaydeder ve eşyayı Doğubayazıt'a sevk eder"
 ],
 "blok": "GÜMRÜK",
@@ -2740,14 +2738,14 @@
 "konu": "Posta/Hızlı Kargo",
 "tip": "T1+T2",
 "z": "Z",
-"madde": "2009/15481 sayılı Karar m.45/2, 58/2, 62/6, 63/3",
+"madde": "2009/15481 sayılı Karar m.45/2, 58/1, 62/6, 63/3",
 "cek": "Posta-kargo kitap muafiyetinde süreklilikte sınırlama getirilebilir; diplomatik ve yolcu eşyasında kıymet ve ağırlık sınırı yoktur; kıymet usul-esaslarını Bakanlık belirler.",
 "kok": [
 "2009/15481 sayılı “4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar”a göre, posta veya hızlı kargo yoluyla gelen eşyaya ilişkin aşağıdaki ifadeler veriliyor:",
 "I. Kitap muafiyetinin aynı kişi tarafından kullanılmasının süreklilik arz ettiği tespit edilirse kullanıma sınırlama getirilebilir.",
 "II. Diplomatik eşyanın bu yolla gelmesi hâlinde kıymet sınırı uygulanmaz; ancak brüt 30 kilogramlık ağırlık sınırı uygulanır.",
 "III. Tek ve maktu vergiye tabi eşyanın kıymetinin belirlenmesine ilişkin usul ve esasları Cumhurbaşkanı belirler.",
-"IV. Yolcunun gelişinden bir ay önce veya üç ay sonra gelebilen Ek-9 (B) listesindeki kişisel eşyada kıymet ve ağırlık sınırı uygulanmaz.",
+"IV. Ek-9’daki listede yer alan kişisel eşyanın posta veya hızlı kargo yoluyla gelmesi hâlinde kıymet ve ağırlık sınırı uygulanmaz.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
 "d": "II ve III",
@@ -2765,14 +2763,14 @@
 "II, III ve IV"
 ],
 "tuzak": false,
-"g": "Kitap muafiyetinin aynı kişi tarafından sürekli kullanılması hâlinde sınırlama getirilebilir ve yolcu eşyası posta veya hızlı kargo ile gelirse kıymet ve ağırlık sınırı uygulanmaz; bu nedenle I ve IV doğrudur. Diplomatik eşyada da kıymet sınırı ile birlikte ağırlık sınırı uygulanmadığından II; tek ve maktu vergiye tabi eşyanın kıymetinin belirlenmesine ilişkin usul ve esasları belirlemeye Cumhurbaşkanı değil Bakanlık yetkili olduğundan III yanlıştır. (MD Karar 45/2, 58/2, 62/6, 63/3)",
-"kanit": "39-muafiyetler.txt | Muafiyetin aynı kişi tarafından kullanılmasının süreklilik arz ettiğinin tespiti halinde muafiyetin kullanımına sınırlama getirilebilir. || 39-muafiyetler.txt | Diplomatik eşya ve 58 inci madde kapsamı yolcu eşyasının posta veya hızlı kargo taşımacılığı yoluyla gelmesi halinde kıymet ve ağırlık sınırı uygulanmaz. || 39-muafiyetler.txt | Bakanlık, bu fıkranın uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir || 39-muafiyetler.txt | (B) bölümünde belirtilen eşya ise, yolcu beraberinde ya da yolcunun gelişinden bir ay önce veya üç[27] ay sonra getirilebilir.",
+"g": "Kitap muafiyetinin aynı kişi tarafından sürekli kullanılması hâlinde sınırlama getirilebilir ve Ek-9’daki listede yer alan kişisel eşya (yolcu eşyası) posta veya hızlı kargo ile gelirse kıymet ve ağırlık sınırı uygulanmaz; bu nedenle I ve IV doğrudur. Diplomatik eşyada da kıymet sınırı ile birlikte ağırlık sınırı uygulanmadığından II; tek ve maktu vergiye tabi eşyanın kıymetinin belirlenmesine ilişkin usul ve esasları belirlemeye Cumhurbaşkanı değil Bakanlık yetkili olduğundan III yanlıştır. (MD Karar 45/2, 58/1, 62/6, 63/3)",
+"kanit": "39-muafiyetler.txt | Muafiyetin aynı kişi tarafından kullanılmasının süreklilik arz ettiğinin tespiti halinde muafiyetin kullanımına sınırlama getirilebilir. || 39-muafiyetler.txt | Diplomatik eşya ve 58 inci madde kapsamı yolcu eşyasının posta veya hızlı kargo taşımacılığı yoluyla gelmesi halinde kıymet ve ağırlık sınırı uygulanmaz. || 39-muafiyetler.txt | Bakanlık, bu fıkranın uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir || 39-muafiyetler.txt | Ek-9'daki listede yer alan kişisel eşyaya muafiyet tanınır.",
 "batch": "K14",
 "no": 76,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kitap muafiyetinin aynı kişi tarafından sürekli kullanılması hâlinde sınırlama getirilebilir ve yolcu eşyası posta veya hızlı kargo ile gelirse kıymet ve ağırlık sınırı uygulanmaz; bu nedenle I ve IV doğrudur. Diplomatik eşyada da kıymet sınırı ile birlikte ağırlık sınırı uygulanmadığından II; tek ve maktu vergiye tabi eşyanın kıymetinin belirlenmesine ilişkin usul ve esasları belirlemeye Cumhurbaşkanı değil Bakanlık yetkili olduğundan III yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD Karar 45/2, 58/2, 62/6, 63/3)"
+"g_harfli": "Kitap muafiyetinin aynı kişi tarafından sürekli kullanılması hâlinde sınırlama getirilebilir ve Ek-9’daki listede yer alan kişisel eşya (yolcu eşyası) posta veya hızlı kargo ile gelirse kıymet ve ağırlık sınırı uygulanmaz; bu nedenle I ve IV doğrudur. Diplomatik eşyada da kıymet sınırı ile birlikte ağırlık sınırı uygulanmadığından II; tek ve maktu vergiye tabi eşyanın kıymetinin belirlenmesine ilişkin usul ve esasları belirlemeye Cumhurbaşkanı değil Bakanlık yetkili olduğundan III yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD Karar 45/2, 58/1, 62/6, 63/3)"
 },
 {
 "id": "D10-077",
@@ -3533,34 +3531,34 @@
 "konu": "Onaylanmış Kişi",
 "tip": "T1",
 "z": "Z",
-"madde": "Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.31/1, 32, 37, 38/1-2, 41/3-4",
-"cek": "OKS'de unvan değişikliğinde teminat yenilenmezse götürü teminat yetkisi askıya alınır; teminat mektupları iade edilmez, vergiler %20 fazlasıyla teminata bağlanır.",
+"madde": "Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.31/1, 35/1-b, 37/2, 38/1-2, 41/2",
+"cek": "OKS götürü teminatı: yetki süresi devam etse de statü belgesi süresi dolup yenilenmezse götürü teminat yetkisi askıya alınır.",
 "kok": [
 "Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre, statü belgesi sahiplerine tanınan götürü teminat yetkisine ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
-"d": "Ticaret unvanı değişikliğinde teminatın yenilenmemesi nedeniyle götürü teminat yetkisi askıya alınan kişinin verdiği teminat mektupları iade edilir ve askı süresinde vergiler yüzde yirmi fazlasıyla teminata bağlanır.",
+"d": "Statü belgesinin geçerlilik süresinin dolmasına ve yenilenmemesine rağmen götürü teminat yetkisinin bir yıllık geçerlilik süresi devam ediyorsa, götürü teminat yetkisi bu sürenin sonuna kadar askıya alınmaksızın kullanılabilir.",
 "c": [
 "Götürü teminat, belirlenmiş tutardaki teminatın her işlem için ayrı ayrı teminat verilmeksizin, teminata bağlanması gereken tutardan bağımsız olarak ve herhangi bir düşüm yapılmaksızın bir yıl süreyle kullanılabilmesini ifade eder.",
-"Götürü teminat, Özel Tüketim Vergisi Kanununa ekli (I) sayılı listedeki eşyaya ilişkin kamu alacakları hariç, eşyanın gümrükçe onaylanmış işlem veya kullanıma tabi tutulmasına ilişkin tüm kamu alacakları için geçerlidir.",
+"Götürü teminat yetkisi başvurusunda, yetkili bölge müdürlüğünce başvuru sahibine bildirilen tutardaki teminat mektubunun bildirimi müteakip en geç otuz gün içinde ibraz edilmemesi hâlinde başvuru reddedilir.",
 "Götürü teminat yetkisinin geçerlilik süresinin başlangıcı, yetkinin tanınmasına, güncellenmesine veya teminatın değiştirilmesine ilişkin başvurunun yetkili bölge müdürlüğü genel evrak kaydına alındığı ayın ilk günüdür.",
 "Götürü teminat yetkisinin güncellenmesi için geçerlilik süresinin bitiminden önceki bir ay içinde başvurulur; bu süreden önce yapılan güncelleme başvuruları kabul edilmez."
 ],
 "tuzak": false,
-"g": "Ticaret unvanının değişmesine rağmen teminatın yenilenmemesi nedeniyle götürü teminat yetkisi askıya alınan kişinin götürü teminat için verdiği teminat mektupları iade edilmez ve askı süresince teminata bağlanması gereken vergiler yüzde yirmi fazlasıyla teminata bağlanır. Götürü teminatın ÖTV (I) sayılı liste eşyası hariç tüm kamu alacakları için geçerli olması ve yetkinin geçerlilik süresinin başvurunun kayda alındığı ayın ilk gününden başlaması Tebliğe uygundur. (MD OKS Tebliği 31/1, 32, 37, 38, 41/3-4)",
-"kanit": "4-OKSB.txt | götürü teminat sisteminden yararlanmak için vermiş olduğu teminat mektupları iade edilmez ve askıya alma süresi içinde teminata bağlanması gereken tüm gümrük vergileri ve diğer vergiler tutarının % 20 fazlasıyla teminata bağlanır.",
+"g": "Tebliğe göre götürü teminat yetkisinin geçerlilik süresi devam etmekle beraber statü belgesinin geçerlilik süresinin dolması ve yenilenmemesi durumunda götürü teminat yetkisi askıya alınır; yetki kendi süresi sonuna kadar kullanılamaz. Bildirilen tutardaki teminat mektubunun otuz gün içinde ibraz edilmemesi hâlinde başvurunun reddedilmesi ve yetkinin geçerlilik süresinin başvurunun kayda alındığı ayın ilk gününden başlaması Tebliğe uygundur. (MD OKS Tebliği 31/1, 35/1-b, 37/2, 38/1-2, 41/2)",
+"kanit": "4-OKSB.txt | Götürü teminat yetkisinin geçerlilik süresi devam etmekle beraber, statü belgesinin geçerlilik süresinin dolması ve yenilenmemesi durumunda götürü teminat yetkisi askıya alınır. || 4-OKSB.txt | Bu süre içinde kendilerine bildirilen tutardaki teminat mektubu veya mektuplarını ibraz etmeyen kişilerin götürü teminat yetkisi için başvuruları reddedilir.",
 "batch": "K15",
 "no": 98,
 "harf": "D",
 "opts": [
 "Götürü teminat, belirlenmiş tutardaki teminatın her işlem için ayrı ayrı teminat verilmeksizin, teminata bağlanması gereken tutardan bağımsız olarak ve herhangi bir düşüm yapılmaksızın bir yıl süreyle kullanılabilmesini ifade eder.",
-"Götürü teminat, Özel Tüketim Vergisi Kanununa ekli (I) sayılı listedeki eşyaya ilişkin kamu alacakları hariç, eşyanın gümrükçe onaylanmış işlem veya kullanıma tabi tutulmasına ilişkin tüm kamu alacakları için geçerlidir.",
+"Götürü teminat yetkisi başvurusunda, yetkili bölge müdürlüğünce başvuru sahibine bildirilen tutardaki teminat mektubunun bildirimi müteakip en geç otuz gün içinde ibraz edilmemesi hâlinde başvuru reddedilir.",
 "Götürü teminat yetkisinin geçerlilik süresinin başlangıcı, yetkinin tanınmasına, güncellenmesine veya teminatın değiştirilmesine ilişkin başvurunun yetkili bölge müdürlüğü genel evrak kaydına alındığı ayın ilk günüdür.",
-"Ticaret unvanı değişikliğinde teminatın yenilenmemesi nedeniyle götürü teminat yetkisi askıya alınan kişinin verdiği teminat mektupları iade edilir ve askı süresinde vergiler yüzde yirmi fazlasıyla teminata bağlanır.",
+"Statü belgesinin geçerlilik süresinin dolmasına ve yenilenmemesine rağmen götürü teminat yetkisinin bir yıllık geçerlilik süresi devam ediyorsa, götürü teminat yetkisi bu sürenin sonuna kadar askıya alınmaksızın kullanılabilir.",
 "Götürü teminat yetkisinin güncellenmesi için geçerlilik süresinin bitiminden önceki bir ay içinde başvurulur; bu süreden önce yapılan güncelleme başvuruları kabul edilmez."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Ticaret unvanının değişmesine rağmen teminatın yenilenmemesi nedeniyle götürü teminat yetkisi askıya alınan kişinin götürü teminat için verdiği teminat mektupları iade edilmez ve askı süresince teminata bağlanması gereken vergiler yüzde yirmi fazlasıyla teminata bağlanır. Götürü teminatın ÖTV (I) sayılı liste eşyası hariç tüm kamu alacakları için geçerli olması ve yetkinin geçerlilik süresinin başvurunun kayda alındığı ayın ilk gününden başlaması Tebliğe uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD OKS Tebliği 31/1, 32, 37, 38, 41/3-4)"
+"g_harfli": "Tebliğe göre götürü teminat yetkisinin geçerlilik süresi devam etmekle beraber statü belgesinin geçerlilik süresinin dolması ve yenilenmemesi durumunda götürü teminat yetkisi askıya alınır; yetki kendi süresi sonuna kadar kullanılamaz. Bildirilen tutardaki teminat mektubunun otuz gün içinde ibraz edilmemesi hâlinde başvurunun reddedilmesi ve yetkinin geçerlilik süresinin başvurunun kayda alındığı ayın ilk gününden başlaması Tebliğe uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD OKS Tebliği 31/1, 35/1-b, 37/2, 38/1-2, 41/2)"
 },
 {
 "id": "D10-099",

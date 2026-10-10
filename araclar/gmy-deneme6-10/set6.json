@@ -605,37 +605,42 @@
 {
 "id": "D6-018",
 "cikmis": "2021/18",
-"konu": "Türkiye’nin kurucu üyesi olduğu kuruluş (OECD)",
-"tip": "T4",
+"konu": "Türkiye’nin uluslararası kuruluşlarla ilişkisi (kurucu üyelik)",
+"tip": "T2",
 "z": "Z",
-"madde": "Genel Kültür Kitabı – Uluslararası Kuruluşlar: DTÖ ve OECD; NATO ve AGİT",
-"cek": "Türkiye, merkezi Paris’teki OECD’nin kurucu üyesidir; NATO’ya kuruluşundan sonra katılması kurucu üyelik sayılmaz.",
+"madde": "Genel Kültür Kitabı – Uluslararası Kuruluşlar: DTÖ ve OECD; NATO ve AGİT; Birleşmiş Milletler",
+"cek": "Türkiye OECD’nin kurucu üyesi, AGİT’in kurucu katılımcısı, BM’nin kurucu üyesidir; 1949’da kurulan NATO’ya 1952’de katıldığından kurucu değildir.",
 "kok": [
-"Türkiye, aşağıdaki uluslararası kuruluşlardan hangisinin kurucu üyeleri arasında yer almaktadır?"
+"Türkiye’nin uluslararası kuruluşlarla ilişkisine ilişkin aşağıdaki ifadeler veriliyor:",
+"I. Merkezi Paris’te bulunan OECD’nin kurucu üyeleri arasındadır.",
+"II. 4 Nisan 1949 tarihli antlaşmaya dayanan NATO’nun kurucu üyeleri arasındadır.",
+"III. Merkezi Viyana’da bulunan AGİT’in kurucu katılımcıları arasındadır.",
+"IV. Merkezi New York’ta bulunan Birleşmiş Milletlere, örgüt kurulduktan sonra üye olmuştur.",
+"Yukarıdaki ifadelerden hangileri doğrudur?"
 ],
-"d": "OECD",
+"d": "I ve III",
 "c": [
-"NATO",
-"AB",
-"EFTA",
-"OPEC"
+"Yalnız I",
+"I ve II",
+"II ve IV",
+"I, III ve IV"
+],
+"opts": [
+"Yalnız I",
+"I ve II",
+"I ve III",
+"II ve IV",
+"I, III ve IV"
 ],
 "tuzak": false,
-"g": "Ekonomik İşbirliği ve Kalkınma Örgütü (OECD), merkezi Paris’te bulunan ve Türkiye’nin kurucu üyeleri arasında yer aldığı kuruluştur. NATO 4 Nisan 1949 tarihli antlaşmaya dayanır; Türkiye ise 18 Şubat 1952’de üye olduğundan NATO’nun kurucu üyesi değildir. Türkiye AB’de üye değil aday ülkedir; EFTA ve OPEC üyeleri arasında da yer almaz. (MD Genel Kültür Kitabı – Uluslararası Kuruluşlar: DTÖ ve OECD; NATO ve AGİT)",
-"kanit": "Canli_7_24_Genel_Kultur_Kitabi.txt | Merkezi Paris’tedir; Türkiye kurucu üyeleri arasındadır. || Canli_7_24_Genel_Kultur_Kitabi.txt | Kuzey Atlantik Antlaşması Örgütü, 4 Nisan 1949 tarihli antlaşmaya dayanır. || Canli_7_24_Genel_Kultur_Kitabi.txt | Türkiye 18 Şubat 1952’de üye olmuştur.",
+"g": "Türkiye, merkezi Paris’te bulunan OECD’nin kurucu üyeleri ve merkezi Viyana’da bulunan AGİT’in kurucu katılımcıları arasındadır; I ve III doğrudur. NATO 4 Nisan 1949 tarihli antlaşmaya dayanır, Türkiye ise 18 Şubat 1952’de üye olduğundan kurucu üye değildir; II yanlıştır. Türkiye Birleşmiş Milletlerin kurucu üyeleri arasında yer aldığından örgüte sonradan katıldığını söyleyen IV de yanlıştır. (MD Genel Kültür Kitabı – Uluslararası Kuruluşlar: DTÖ ve OECD; NATO ve AGİT; Birleşmiş Milletler)",
+"kanit": "Canli_7_24_Genel_Kultur_Kitabi.txt | Merkezi Paris’tedir; Türkiye kurucu üyeleri arasındadır. || Canli_7_24_Genel_Kultur_Kitabi.txt | Merkezi Viyana’dır; Türkiye kurucu katılımcılardandır. || Canli_7_24_Genel_Kultur_Kitabi.txt | Kuzey Atlantik Antlaşması Örgütü, 4 Nisan 1949 tarihli antlaşmaya dayanır. || Canli_7_24_Genel_Kultur_Kitabi.txt | Türkiye 18 Şubat 1952’de üye olmuştur. || Canli_7_24_Genel_Kultur_Kitabi.txt | Türkiye kurucu üyeler arasındadır. Merkez New York’tadır.",
 "batch": "GAN",
 "no": 18,
 "harf": "C",
-"opts": [
-"NATO",
-"AB",
-"OECD",
-"EFTA",
-"OPEC"
-],
 "blok": "GK",
 "ders": "Uluslararası Kuruluşlar",
-"g_harfli": "Ekonomik İşbirliği ve Kalkınma Örgütü (OECD), merkezi Paris’te bulunan ve Türkiye’nin kurucu üyeleri arasında yer aldığı kuruluştur. NATO 4 Nisan 1949 tarihli antlaşmaya dayanır; Türkiye ise 18 Şubat 1952’de üye olduğundan NATO’nun kurucu üyesi değildir. Türkiye AB’de üye değil aday ülkedir; EFTA ve OPEC üyeleri arasında da yer almaz. Bu nedenle doğru cevap C seçeneğidir. (MD Genel Kültür Kitabı – Uluslararası Kuruluşlar: DTÖ ve OECD; NATO ve AGİT)"
+"g_harfli": "Türkiye, merkezi Paris’te bulunan OECD’nin kurucu üyeleri ve merkezi Viyana’da bulunan AGİT’in kurucu katılımcıları arasındadır; I ve III doğrudur. NATO 4 Nisan 1949 tarihli antlaşmaya dayanır, Türkiye ise 18 Şubat 1952’de üye olduğundan kurucu üye değildir; II yanlıştır. Türkiye Birleşmiş Milletlerin kurucu üyeleri arasında yer aldığından örgüte sonradan katıldığını söyleyen IV de yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD Genel Kültür Kitabı – Uluslararası Kuruluşlar: DTÖ ve OECD; NATO ve AGİT; Birleşmiş Milletler)"
 },
 {
 "id": "D6-019",
@@ -748,13 +753,13 @@
 "konu": "Temsil",
 "tip": "T1+T2",
 "z": "Z",
-"madde": "Gümrük Yönetmeliği m.561/2, 561/3, 561/5",
-"cek": "Kamu kurumlarının vekaletnamesinde noter onayı aranmaz; vekaletname ve temsilnameler idareye verilip saklanır; posta/hızlı kargo vekaletnamesiz dolaylı temsilci olabilir.",
+"madde": "Gümrük Yönetmeliği m.561/3, 561/4-c, 561/5",
+"cek": "Kamu kurumlarının vekaletnamesinde noter onayı aranmaz; vekaletname ve temsilnameler gümrük idaresine verilip düzenli şekilde saklanır.",
 "kok": [
 "Gümrük Yönetmeliğine göre temsil yoluyla iş takibinde;",
 "I. Dolaylı temsille iş takibini gümrük müşavirleri yapabilir.",
 "II. Kamu kurumlarının vekaletnamelerinde de noter onayı aranır.",
-"III. Posta idaresi, belirlenen eşya için vekaletnamesiz dolaylı temsilci olabilir.",
+"III. Kamu kurumu memurları, belgelerdeki imzalarının yanına kuruluş unvanını ekler.",
 "IV. Vekaletnameler idareye gösterilir, idarede saklanmaz.",
 "Yukarıdakilerden hangileri [[yanlıştır]]?"
 ],
@@ -773,14 +778,14 @@
 "II, III ve IV"
 ],
 "tuzak": false,
-"g": "Gümrük idarelerinde dolaylı temsil yoluyla iş takibini, eşya sahibince verilmiş noter tasdikli vekaletnameyi haiz gümrük müşavirleri yapabilir; posta idaresi ve hızlı kargo şirketleri, miktar ve değeri belirlenen eşyanın işlemlerini vekaletname ibraz etmeksizin dolaylı temsilci olarak sonuçlandırabilir, bu yüzden I ve III doğrudur. Kamu kurum ve kuruluşlarınca verilen vekaletnamelerde noter onayı aranmaz; vekaletname ve temsilnamelerin gümrük idaresine verilmesi ve düzenli şekilde saklanması gerekir. Bu nedenle II ve IV yanlıştır. (MD GY 561/2, 561/3, 561/5)",
-"kanit": "2-TEMSİL.txt | Gümrük idarelerinde dolaylı temsil yoluyla iş takibini, eşya sahibince verilmiş noter tasdikli vekaletnameyi haiz gümrük müşavirleri yapabilir. Ancak kamu kurum ve kuruluşlarınca verilecek vekâletnamelerde noter onayı aranmaz || 2-TEMSİL.txt | posta idaresi ya da hızlı kargo taşımacılığı yapan şirketlerce vekaletname ibraz edilmeksizin, dolaylı temsilci olarak sonuçlandırılabilir || 2-TEMSİL.txt | vekaletname ve temsilnamelerin gümrük idaresine verilmesi ve bunların düzenli bir şekilde saklanması gerekir",
+"g": "Gümrük idarelerinde dolaylı temsil yoluyla iş takibini, eşya sahibince verilmiş noter tasdikli vekaletnameyi haiz gümrük müşavirleri yapabilir; kamu kurumlarının gümrük işlemlerini takibe yetkili memurları da gümrük beyannameleri ve diğer belgeler üzerindeki imzalarının yanına kuruluş unvanını eklemek zorundadır, bu yüzden I ve III doğrudur. Kamu kurum ve kuruluşlarınca verilen vekaletnamelerde noter onayı aranmaz; vekaletname ve temsilnamelerin gümrük idaresine verilmesi ve düzenli şekilde saklanması gerekir. Bu nedenle II ve IV yanlıştır. (MD GY 561/3, 561/4-c, 561/5)",
+"kanit": "2-TEMSİL.txt | Gümrük idarelerinde dolaylı temsil yoluyla iş takibini, eşya sahibince verilmiş noter tasdikli vekaletnameyi haiz gümrük müşavirleri yapabilir. Ancak kamu kurum ve kuruluşlarınca verilecek vekâletnamelerde noter onayı aranmaz || 2-TEMSİL.txt | Bu memurların gerek gümrük beyannamelerinde ve gerekse diğer belgeler üzerinde imzalarının yanına kuruluş unvanını eklemeleri gerekir. || 2-TEMSİL.txt | vekaletname ve temsilnamelerin gümrük idaresine verilmesi ve bunların düzenli bir şekilde saklanması gerekir",
 "batch": "K01",
 "no": 22,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Gümrük idarelerinde dolaylı temsil yoluyla iş takibini, eşya sahibince verilmiş noter tasdikli vekaletnameyi haiz gümrük müşavirleri yapabilir; posta idaresi ve hızlı kargo şirketleri, miktar ve değeri belirlenen eşyanın işlemlerini vekaletname ibraz etmeksizin dolaylı temsilci olarak sonuçlandırabilir, bu yüzden I ve III doğrudur. Kamu kurum ve kuruluşlarınca verilen vekaletnamelerde noter onayı aranmaz; vekaletname ve temsilnamelerin gümrük idaresine verilmesi ve düzenli şekilde saklanması gerekir. Bu nedenle II ve IV yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 561/2, 561/3, 561/5)"
+"g_harfli": "Gümrük idarelerinde dolaylı temsil yoluyla iş takibini, eşya sahibince verilmiş noter tasdikli vekaletnameyi haiz gümrük müşavirleri yapabilir; kamu kurumlarının gümrük işlemlerini takibe yetkili memurları da gümrük beyannameleri ve diğer belgeler üzerindeki imzalarının yanına kuruluş unvanını eklemek zorundadır, bu yüzden I ve III doğrudur. Kamu kurum ve kuruluşlarınca verilen vekaletnamelerde noter onayı aranmaz; vekaletname ve temsilnamelerin gümrük idaresine verilmesi ve düzenli şekilde saklanması gerekir. Bu nedenle II ve IV yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 561/3, 561/4-c, 561/5)"
 },
 {
 "id": "D6-023",
@@ -1193,7 +1198,7 @@
 "konu": "Tasfiye",
 "tip": "T3",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.180/6, m.177/2-b",
+"madde": "4458 sayılı Gümrük Kanunu m.180/6",
 "cek": "Tasfiyede emanete alınan tutarın iadesi için başvuru, iade kararı varsa kararın kesinleştiği, diğerlerinde emanete alındığı tarihten itibaren bir yıl içinde yapılır.",
 "kok": [
 "4458 sayılı Gümrük Kanununa göre, sahibine iadesine karar verilen tasfiyelik eşyanın emanetteki bedeli için başvuru **hangi süre içinde** yapılır?"
@@ -1203,10 +1208,10 @@
 "Mahkeme kararının verildiği tarihten itibaren bir yıl",
 "Mahkeme kararının kesinleştiği tarihten itibaren altı ay",
 "Satış bedelinin emanete alındığı tarihten itibaren bir yıl",
-"Kararın ilgilisine tebliğ edildiği tarihten itibaren otuz gün"
+"Eşyanın satışının gerçekleştiği tarihten itibaren bir yıl"
 ],
 "tuzak": false,
-"g": "Kanuna göre emanete alınan tutarların iadesi için, sahibine iadesine ilişkin mahkeme kararı bulunan hâllerde kararın kesinleştiği tarihten, diğer hâllerde ise emanete alındığı tarihten itibaren bir yıl içinde yapılan başvurular kabul edilir. Emanete alınma tarihinden başlayan bir yıllık süre iade kararı bulunmayan hâllere aittir; tebliğden itibaren otuz günlük süre ise iadesine karar verilen eşyanın teslim alınması için öngörülmüştür. (MD GK 180/6; 177/2-b)",
+"g": "Kanuna göre emanete alınan tutarların iadesi için, sahibine iadesine ilişkin mahkeme kararı bulunan hâllerde kararın kesinleştiği tarihten, diğer hâllerde ise emanete alındığı tarihten itibaren bir yıl içinde yapılan başvurular kabul edilir. Emanete alınma tarihinden başlayan bir yıllık süre iade kararı bulunmayan hâllere aittir; iade kararı bulunan hâlde satış tarihi değil kararın kesinleşme tarihi esas alınır. (MD GK 180/6)",
 "kanit": "43-tasfiye.txt | emanete alınan tutarların iadesi için, sahibine iadesine ilişkin mahkeme kararının kesinleştiği, diğerlerinde ise emanete alındığı tarihten itibaren bir yıl içinde yapılan başvurular kabul edilir",
 "batch": "K09",
 "no": 34,
@@ -1216,11 +1221,11 @@
 "Mahkeme kararının kesinleştiği tarihten itibaren bir yıl",
 "Mahkeme kararının kesinleştiği tarihten itibaren altı ay",
 "Satış bedelinin emanete alındığı tarihten itibaren bir yıl",
-"Kararın ilgilisine tebliğ edildiği tarihten itibaren otuz gün"
+"Eşyanın satışının gerçekleştiği tarihten itibaren bir yıl"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre emanete alınan tutarların iadesi için, sahibine iadesine ilişkin mahkeme kararı bulunan hâllerde kararın kesinleştiği tarihten, diğer hâllerde ise emanete alındığı tarihten itibaren bir yıl içinde yapılan başvurular kabul edilir. Emanete alınma tarihinden başlayan bir yıllık süre iade kararı bulunmayan hâllere aittir; tebliğden itibaren otuz günlük süre ise iadesine karar verilen eşyanın teslim alınması için öngörülmüştür. Bu nedenle doğru cevap B seçeneğidir. (MD GK 180/6; 177/2-b)"
+"g_harfli": "Kanuna göre emanete alınan tutarların iadesi için, sahibine iadesine ilişkin mahkeme kararı bulunan hâllerde kararın kesinleştiği tarihten, diğer hâllerde ise emanete alındığı tarihten itibaren bir yıl içinde yapılan başvurular kabul edilir. Emanete alınma tarihinden başlayan bir yıllık süre iade kararı bulunmayan hâllere aittir; iade kararı bulunan hâlde satış tarihi değil kararın kesinleşme tarihi esas alınır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 180/6)"
 },
 {
 "id": "D6-035",
@@ -1575,7 +1580,7 @@
 "Daha düşük – menşe kurallarına"
 ],
 "tuzak": false,
-"g": "Yönetmeliğe göre gümrük kontrolü altında işleme rejimi, işlenmiş ürünün ithalat vergisinin bünyesindeki ithal ürünün vergisinden daha düşük olduğu işlemler için uygulanır; rejimin ekonomik anlamı bu vergi farkından gelir. Rejim ayrıca serbest dolaşıma girişte aranan bazı teknik düzenlemelere uygunluğun sağlanması için işlenmesi gereken eşyada da kullanılır; ticaret politikası önlemleri ve menşe kuralları bu hükümde yer almaz. (MD GY 370)",
+"g": "Yönetmeliğe göre gümrük kontrolü altında işleme rejimi, işlenmiş ürünün ithalat vergisinin bünyesindeki ithal ürünün vergisinden daha düşük olduğu işlemler için uygulanır. Rejim ayrıca serbest dolaşıma girişte aranan bazı teknik düzenlemelere uygunluğun sağlanması için işlenmesi gereken eşyada da uygulanır; ticaret politikası önlemleri ve menşe kuralları bu hükümde yer almaz. (MD GY 370)",
 "kanit": "33-GKAİR.txt | işlenmiş ürünün ithalat vergisinin, bünyesinde bulundurduğu ithal ürünün vergisinden daha düşük olduğu işlemler için uygulanır || 33-GKAİR.txt | serbest dolaşıma girişinde aranılan bazı teknik düzenlemelere uygunluğunun sağlanması için",
 "batch": "K07",
 "no": 44,
@@ -1589,7 +1594,7 @@
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yönetmeliğe göre gümrük kontrolü altında işleme rejimi, işlenmiş ürünün ithalat vergisinin bünyesindeki ithal ürünün vergisinden daha düşük olduğu işlemler için uygulanır; rejimin ekonomik anlamı bu vergi farkından gelir. Rejim ayrıca serbest dolaşıma girişte aranan bazı teknik düzenlemelere uygunluğun sağlanması için işlenmesi gereken eşyada da kullanılır; ticaret politikası önlemleri ve menşe kuralları bu hükümde yer almaz. Bu nedenle doğru cevap A seçeneğidir. (MD GY 370)"
+"g_harfli": "Yönetmeliğe göre gümrük kontrolü altında işleme rejimi, işlenmiş ürünün ithalat vergisinin bünyesindeki ithal ürünün vergisinden daha düşük olduğu işlemler için uygulanır. Rejim ayrıca serbest dolaşıma girişte aranan bazı teknik düzenlemelere uygunluğun sağlanması için işlenmesi gereken eşyada da uygulanır; ticaret politikası önlemleri ve menşe kuralları bu hükümde yer almaz. Bu nedenle doğru cevap A seçeneğidir. (MD GY 370)"
 },
 {
 "id": "D6-045",
@@ -1713,7 +1718,7 @@
 "konu": "YGM",
 "tip": "T4",
 "z": "Z",
-"madde": "Yetkilendirilmiş Gümrük Müşavirliği Tebliği m.17/2-b, d; 18/1-2; 24/1-h",
+"madde": "Yetkilendirilmiş Gümrük Müşavirliği Tebliği m.17/2-d; 18/1-2; 22/1-ç",
 "cek": "Önemli olay yaşanmadığı bildirilen günlük rapor için gümrük idaresince onay veya ret işlemi yapılmaz.",
 "kok": [
 "Yetkilendirilmiş Gümrük Müşavirliği Tebliğine göre, AN6 ve AN8 tespit işlemleri kapsamında yetkilendirilmiş gümrük müşavirince sunulan günlük rapora ilişkin aşağıdakilerden hangisi doğrudur?"
@@ -1722,12 +1727,12 @@
 "c": [
 "Günlük rapor, tespit işleminin yapıldığı ayı takip eden ayın ilk yedi iş günü içinde sunulur.",
 "Zorunlu durumlarda günlük raporun ertesi günün sonuna kadar sunulmasına gümrük müdürlüğünce izin verilebilir.",
-"Günlük raporun idareyi yanıltıcı düzenlenmesi hâlinde aylık tek bir usulsüzlük cezası uygulanır.",
+"Antrepoya eşya alınırken tespit edilen eksiklik ve fazlalıklar günlük raporda değil, aylık genel raporda bildirilir.",
 "Sayım tutanaklarıyla uyumsuz bulunan günlük rapor, düzeltilmek üzere en fazla üç defa iade edilebilir."
 ],
 "tuzak": false,
-"g": "Tebliğe göre günlük raporda herhangi bir önemli olay yaşanmadığının bildirilmesi durumunda gümrük idaresince onay veya ret işlemi yapılmaz. Günlük rapor tespit işleminin yapıldığı günün sonuna kadar sunulur; zorunlu durumlarda ertesi günün sonuna kadar sunulmasına gümrük müdürlüğü değil Gümrük ve Dış Ticaret Bölge Müdürlüğü izin verebilir. Uyumsuz raporlar en fazla iki defa iade edilebilir; yanıltıcı günlük raporda ise her bir rapor için usulsüzlük cezası uygulanır. (MD YGM Tebliği 17/2-d; 18/1-2; 24/1-h)",
-"kanit": "31-YGM.txt | Günlük raporda herhangi bir önemli olay yaşanmadığının bildirilmesi durumunda gümrük idaresince onay veya ret işlemi yapılmaz. || 31-YGM.txt | Bu raporlar, hata veya uyumsuzluğun düzeltilmesi amacıyla en fazla iki defa iade edilebilir. || 31-YGM.txt | en geç tespit işleminin yapıldığı günü takip eden günün sonuna kadar sunulmasına Gümrük ve Dış Ticaret Bölge Müdürlüğünce izin verilebilir.",
+"g": "Tebliğe göre günlük raporda herhangi bir önemli olay yaşanmadığının bildirilmesi durumunda gümrük idaresince onay veya ret işlemi yapılmaz. Günlük rapor tespit işleminin yapıldığı günün sonuna kadar sunulur; zorunlu durumlarda ertesi günün sonuna kadar sunulmasına gümrük müdürlüğü değil Gümrük ve Dış Ticaret Bölge Müdürlüğü izin verebilir. Uyumsuz raporlar en fazla iki defa iade edilebilir; antrepoya eşya alınması ve çıkarılması sırasında tespit edilen eksiklik ve fazlalıklar da günlük raporda bildirilir. (MD YGM Tebliği 17/2-d; 18/1-2; 22/1-ç)",
+"kanit": "31-YGM.txt | Günlük raporda herhangi bir önemli olay yaşanmadığının bildirilmesi durumunda gümrük idaresince onay veya ret işlemi yapılmaz. || 31-YGM.txt | Bu raporlar, hata veya uyumsuzluğun düzeltilmesi amacıyla en fazla iki defa iade edilebilir. || 31-YGM.txt | en geç tespit işleminin yapıldığı günü takip eden günün sonuna kadar sunulmasına Gümrük ve Dış Ticaret Bölge Müdürlüğünce izin verilebilir. || 31-YGM.txt | derhal ilgili gümrük idaresine bilgi vererek gerekli takibatın başlatılmasını sağlamak ve bu durumu günlük raporda bildirmek,",
 "batch": "K13",
 "no": 48,
 "harf": "C",
@@ -1735,12 +1740,12 @@
 "Günlük rapor, tespit işleminin yapıldığı ayı takip eden ayın ilk yedi iş günü içinde sunulur.",
 "Zorunlu durumlarda günlük raporun ertesi günün sonuna kadar sunulmasına gümrük müdürlüğünce izin verilebilir.",
 "Önemli bir olay yaşanmadığı bildirilen günlük rapor için gümrük idaresince onay veya ret işlemi yapılmaz.",
-"Günlük raporun idareyi yanıltıcı düzenlenmesi hâlinde aylık tek bir usulsüzlük cezası uygulanır.",
+"Antrepoya eşya alınırken tespit edilen eksiklik ve fazlalıklar günlük raporda değil, aylık genel raporda bildirilir.",
 "Sayım tutanaklarıyla uyumsuz bulunan günlük rapor, düzeltilmek üzere en fazla üç defa iade edilebilir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre günlük raporda herhangi bir önemli olay yaşanmadığının bildirilmesi durumunda gümrük idaresince onay veya ret işlemi yapılmaz. Günlük rapor tespit işleminin yapıldığı günün sonuna kadar sunulur; zorunlu durumlarda ertesi günün sonuna kadar sunulmasına gümrük müdürlüğü değil Gümrük ve Dış Ticaret Bölge Müdürlüğü izin verebilir. Uyumsuz raporlar en fazla iki defa iade edilebilir; yanıltıcı günlük raporda ise her bir rapor için usulsüzlük cezası uygulanır. Bu nedenle doğru cevap C seçeneğidir. (MD YGM Tebliği 17/2-d; 18/1-2; 24/1-h)"
+"g_harfli": "Tebliğe göre günlük raporda herhangi bir önemli olay yaşanmadığının bildirilmesi durumunda gümrük idaresince onay veya ret işlemi yapılmaz. Günlük rapor tespit işleminin yapıldığı günün sonuna kadar sunulur; zorunlu durumlarda ertesi günün sonuna kadar sunulmasına gümrük müdürlüğü değil Gümrük ve Dış Ticaret Bölge Müdürlüğü izin verebilir. Uyumsuz raporlar en fazla iki defa iade edilebilir; antrepoya eşya alınması ve çıkarılması sırasında tespit edilen eksiklik ve fazlalıklar da günlük raporda bildirilir. Bu nedenle doğru cevap C seçeneğidir. (MD YGM Tebliği 17/2-d; 18/1-2; 22/1-ç)"
 },
 {
 "id": "D6-049",
@@ -1751,9 +1756,9 @@
 "madde": "Gümrük Yönetmeliği m.116, m.117, m.120",
 "cek": "Faturada her kaptaki eşya miktarı satış birimine göre gösterilmemişse ayrıntılı fatura beyannameyle birlikte gümrük idaresine verilir.",
 "kok": [
-"Gümrük Yönetmeliğine göre, kıymeti üzerinden vergiye tabi eşyaya ilişkin olarak beyannameye eklenen ayrıntılı faturaya ilişkin aşağıdakilerden hangisi doğrudur?"
+"Gümrük Yönetmeliğine göre, gümrük beyannamesi ile birlikte gümrük idaresine verilen ticari belgelerden ayrıntılı faturaya ilişkin aşağıdakilerden hangisi doğrudur?"
 ],
-"d": "Faturalarda her kabın içinde satış birimine göre ne miktar eşya bulunduğu gösterilmediği takdirde, ayrıntılı faturanın beyanname ile birlikte gümrük idaresine verilmesi gerekir.",
+"d": "Ayrıntılı fatura, faturalarda her kabın içinde satış birimine göre ne miktar eşya bulunduğu gösterilmediğinde beyanname ile birlikte idareye verilmesi gereken belgedir.",
 "c": [
 "Ayrıntılı fatura, ağırlıkları üzerinden vergiye tabi olup birden ziyade kap içinde gelen eşyadan her kapta ne miktar eşya bulunduğunu gösteren ve beyan sahibince düzenlenen belgedir.",
 "Ayrıntılı fatura, faturaya uygun olmak kaydıyla satıcı veya gönderici yerine beyan sahibi tarafından da Türkiye'de düzenlenerek gümrük beyannamesine eklenebilen bir belgedir.",
@@ -1771,7 +1776,7 @@
 "Ayrıntılı fatura, faturaya uygun olmak kaydıyla satıcı veya gönderici yerine beyan sahibi tarafından da Türkiye'de düzenlenerek gümrük beyannamesine eklenebilen bir belgedir.",
 "Ayrıntılı fatura, tek kap içinde gelen ve aynı cins ve kıymette olan eşyanın satış birimine göre miktarını gösteren ve satıcı tarafından düzenlenen bir belgedir.",
 "Ayrıntılı fatura, ithal eşyasına ait gümrük kıymetinin unsurlarını içeren, uluslararası kıymet anlaşması çerçevesinde düzenlenen ve Yönetmelik ekinde örneği yer alan bir belgedir.",
-"Faturalarda her kabın içinde satış birimine göre ne miktar eşya bulunduğu gösterilmediği takdirde, ayrıntılı faturanın beyanname ile birlikte gümrük idaresine verilmesi gerekir."
+"Ayrıntılı fatura, faturalarda her kabın içinde satış birimine göre ne miktar eşya bulunduğu gösterilmediğinde beyanname ile birlikte idareye verilmesi gereken belgedir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
@@ -1965,7 +1970,7 @@
 "konu": "Serbest Bölge",
 "tip": "T1",
 "z": "OÜ",
-"madde": "Gümrük Yönetmeliği m.424/2, 424/4, 424/5, 424/6, 424/7",
+"madde": "Gümrük Yönetmeliği m.424/1, 424/4, 424/5, 424/6, 424/7",
 "cek": "Zayi veya çalınan Gümrük Statü Belgesi için ilgilinin yazılı talebiyle tasdikli örnek verilir; re'sen yeni belge düzenlenmez.",
 "kok": [
 "Gümrük Yönetmeliğine göre, serbest bölgeye konulmuş eşyanın gümrük statüsünü onaylayan Gümrük Statü Belgesinin düzenlenmesine ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
@@ -1975,10 +1980,10 @@
 "Belge, yükümlü tarafından doldurularak gümrük ve yükümlü nüshaları olmak üzere iki nüsha düzenlenip onaylanır.",
 "Aynı belge kapsamında serbest dolaşımda olan ve olmayan eşya birlikte gelirse her kısım için ayrı belge düzenlenir.",
 "Belgelerin arşivlenmesi sırasında Serbest Bölge İşlem Formunun bir örneği de belgeye eklenir.",
-"Eşyanın serbest bölgeye geri getirilmesi veya bir gümrük rejimine tabi tutulması hâlinde bu belge düzenlenir."
+"Belge, ilgilinin talebi üzerine gümrük idarelerince serbest bölgeye konulmuş eşyanın gümrük statüsünü onaylamak için verilir."
 ],
 "tuzak": false,
-"g": "Düzenlenmiş Gümrük Statü Belgesinin çalınması veya zayi edilmesi hâlinde yeni belge düzenlenmez; ilgilinin yazılı talebi üzerine belgenin tasdikli bir örneği gümrük idaresince verilir. Belgenin iki nüsha düzenlenmesi ve aynı belge kapsamında serbest dolaşımda olan ve olmayan eşyanın birlikte gelmesi hâlinde her kısım için ayrı ayrı belge düzenlenmesi Yönetmelikte aynen yer alır. (MD GY 424/2, 424/4-7)",
+"g": "Düzenlenmiş Gümrük Statü Belgesinin çalınması veya zayi edilmesi hâlinde yeni belge düzenlenmez; ilgilinin yazılı talebi üzerine belgenin tasdikli bir örneği gümrük idaresince verilir. Belgenin iki nüsha düzenlenmesi ve aynı belge kapsamında serbest dolaşımda olan ve olmayan eşyanın birlikte gelmesi hâlinde her kısım için ayrı ayrı belge düzenlenmesi Yönetmelikte aynen yer alır. (MD GY 424/1, 424/4-7)",
 "kanit": "38-serbest bölge.txt | Düzenlenmiş bulunan Gümrük Statü Belgelerinin çalınması veya zayi edilmesi halinde, ilgilinin yazılı talebi üzerine tasdikli bir örneği gümrük idaresince verilir || 38-serbest bölge.txt | Gümrük Statü Belgesi, yükümlü tarafından doldurularak gümrük ve yükümlü nüshaları olmak üzere iki nüsha düzenlenir ve gümrük idaresince onaylanır",
 "batch": "K09",
 "no": 55,
@@ -1988,11 +1993,11 @@
 "Belge, yükümlü tarafından doldurularak gümrük ve yükümlü nüshaları olmak üzere iki nüsha düzenlenip onaylanır.",
 "Aynı belge kapsamında serbest dolaşımda olan ve olmayan eşya birlikte gelirse her kısım için ayrı belge düzenlenir.",
 "Belgelerin arşivlenmesi sırasında Serbest Bölge İşlem Formunun bir örneği de belgeye eklenir.",
-"Eşyanın serbest bölgeye geri getirilmesi veya bir gümrük rejimine tabi tutulması hâlinde bu belge düzenlenir."
+"Belge, ilgilinin talebi üzerine gümrük idarelerince serbest bölgeye konulmuş eşyanın gümrük statüsünü onaylamak için verilir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Düzenlenmiş Gümrük Statü Belgesinin çalınması veya zayi edilmesi hâlinde yeni belge düzenlenmez; ilgilinin yazılı talebi üzerine belgenin tasdikli bir örneği gümrük idaresince verilir. Belgenin iki nüsha düzenlenmesi ve aynı belge kapsamında serbest dolaşımda olan ve olmayan eşyanın birlikte gelmesi hâlinde her kısım için ayrı ayrı belge düzenlenmesi Yönetmelikte aynen yer alır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 424/2, 424/4-7)"
+"g_harfli": "Düzenlenmiş Gümrük Statü Belgesinin çalınması veya zayi edilmesi hâlinde yeni belge düzenlenmez; ilgilinin yazılı talebi üzerine belgenin tasdikli bir örneği gümrük idaresince verilir. Belgenin iki nüsha düzenlenmesi ve aynı belge kapsamında serbest dolaşımda olan ve olmayan eşyanın birlikte gelmesi hâlinde her kısım için ayrı ayrı belge düzenlenmesi Yönetmelikte aynen yer alır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 424/1, 424/4-7)"
 },
 {
 "id": "D6-056",
@@ -2116,7 +2121,7 @@
 "4458 sayılı Gümrük Kanununun posta gümrük işlemlerine ilişkin hükümlerine göre aşağıdaki ifadeler veriliyor:",
 "I. Gelen bütün posta çantaları ve koliler ilk giriş kapısından itibaren gümrük gözetimi altında posta idarelerine sevk edilir ve buralarda muayene edilir.",
 "II. Gönderilecek posta çantaları ve kolilerin ihracına, gümrük mühür veya işaretlerinin varlığı ve kapların sağlamlığı tespit edildikten sonra izin verilir.",
-"III. Posta eşyasının posta idaresinin sorumluluğunda konulduğu yerlerdeki bekleme süresi, geçici depolama süreleri esas alınarak belirlenir.",
+"III. Posta yoluyla gelen eşyanın posta idaresinin sorumluluğunda konulduğu yerlerdeki bekleme süresi, geçici depolama süreleri esas alınarak belirlenir.",
 "IV. Ticari mahiyette olmayan eşyada uluslararası kabul görmüş belgeler ibraz edilse dahi ayrıca gümrük beyannamesi verilmesi zorunludur.",
 "Yukarıdaki ifadelerden hangileri doğrudur?"
 ],
@@ -2150,7 +2155,7 @@
 "konu": "Tasfiye",
 "tip": "T3",
 "z": "Z",
-"madde": "Tasfiye Yönetmeliği m.57/1; 4458 sayılı Gümrük Kanunu m.179/1",
+"madde": "Tasfiye Yönetmeliği m.57/1, 57/6; 4458 sayılı Gümrük Kanunu m.179/1",
 "cek": "Tasfiyelik eşyanın rejime tabi tutulması: ihalede ilan, perakendede satış kararı, diğer tasfiye yollarında (ör. özel yol) onay tarihine kadar talep edilebilir.",
 "kok": [
 "Tasfiye Yönetmeliğine göre, özel yolla tasfiye edilecek eşyanın hak sahibi, eşyayı bir gümrük rejimine tabi tutmayı **hangi tarihe kadar** talep edebilir?"
@@ -2163,7 +2168,7 @@
 "Tespit ve tahakkuk belgesinin düzenlendiği tarihe kadar"
 ],
 "tuzak": false,
-"g": "Tasfiyelik eşyanın hak sahibi, ihale ilanının yayımlandığı, perakende satış kararının alındığı veya diğer tasfiye yollarına göre yapılan tasfiyede onay tarihine kadar eşyayı bir gümrük rejimine tabi tutmayı talep edebilir; özel yol bu diğer yollardandır. İhale ilanının yayımlanma tarihi yalnızca ihale yoluyla satışta esas alınır; tespit ve tahakkuk belgesinin düzenlenmiş olması ise yalnızca ödenecek tutarın hesabında dikkate alınır ve başvuruya engel değildir. (MD Tasfiye Yön. 57/1, 57/3; GK 179/1)",
+"g": "Tasfiyelik eşyanın hak sahibi, ihale ilanının yayımlandığı, perakende satış kararının alındığı veya diğer tasfiye yollarına göre yapılan tasfiyede onay tarihine kadar eşyayı bir gümrük rejimine tabi tutmayı talep edebilir; özel yol bu diğer yollardandır. İhale ilanının yayımlanma tarihi yalnızca ihale yoluyla satışta esas alınır; tespit ve tahakkuk belgesinin düzenlenmiş olması ise yalnızca ödenecek tutarın hesabında dikkate alınır ve başvuruya engel değildir. Onaydan sonra satış gerçekleşmeden yapılan başvuru ise CIF değerinin yüzde onu ödenerek değerlendirilir. (MD Tasfiye Yön. 57/1, 57/3, 57/6; GK 179/1)",
 "kanit": "43-tasfiye.txt | ihale ilanının yayımlandığı, perakende satış kararının alındığı veya diğer tasfiye yollarına göre yapılan tasfiyede onay tarihine kadar gümrük müdürlüğüne başvurarak söz konusu eşyayı bir gümrük rejimine tabi tutmayı talep edebilir",
 "batch": "K09",
 "no": 60,
@@ -2177,7 +2182,7 @@
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tasfiyelik eşyanın hak sahibi, ihale ilanının yayımlandığı, perakende satış kararının alındığı veya diğer tasfiye yollarına göre yapılan tasfiyede onay tarihine kadar eşyayı bir gümrük rejimine tabi tutmayı talep edebilir; özel yol bu diğer yollardandır. İhale ilanının yayımlanma tarihi yalnızca ihale yoluyla satışta esas alınır; tespit ve tahakkuk belgesinin düzenlenmiş olması ise yalnızca ödenecek tutarın hesabında dikkate alınır ve başvuruya engel değildir. Bu nedenle doğru cevap B seçeneğidir. (MD Tasfiye Yön. 57/1, 57/3; GK 179/1)"
+"g_harfli": "Tasfiyelik eşyanın hak sahibi, ihale ilanının yayımlandığı, perakende satış kararının alındığı veya diğer tasfiye yollarına göre yapılan tasfiyede onay tarihine kadar eşyayı bir gümrük rejimine tabi tutmayı talep edebilir; özel yol bu diğer yollardandır. İhale ilanının yayımlanma tarihi yalnızca ihale yoluyla satışta esas alınır; tespit ve tahakkuk belgesinin düzenlenmiş olması ise yalnızca ödenecek tutarın hesabında dikkate alınır ve başvuruya engel değildir. Onaydan sonra satış gerçekleşmeden yapılan başvuru ise CIF değerinin yüzde onu ödenerek değerlendirilir. Bu nedenle doğru cevap B seçeneğidir. (MD Tasfiye Yön. 57/1, 57/3, 57/6; GK 179/1)"
 },
 {
 "id": "D6-061",
@@ -2256,34 +2261,34 @@
 "konu": "Tasfiye",
 "tip": "T1",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.177/1-e, h, ı, j, k; m.177/2-b; m.70/1",
-"cek": "Mahkemece iadesine karar verilen el konulmuş eşya, tebliğden itibaren otuz gün içinde teslim alınmazsa tasfiye edilir; on beş gün değil.",
+"madde": "4458 sayılı Gümrük Kanunu m.177/2-a, 177/2-b, 177/3, 177/4, 178, 180/2",
+"cek": "Mahkemece iadesine karar verilen el konulmuş eşya tebliğden itibaren otuz gün içinde teslim alınmazsa tasfiye edilir; on beş gün değil.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre aşağıdaki eşyalardan hangisi tasfiyeye tabi [[tutulmaz]]?"
+"4458 sayılı Gümrük Kanununa göre, tasfiyelik eşyanın tespiti ile el konulan eşyanın tasfiyesine ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
-"d": "Kaçakçılıkla Mücadele Kanunu uyarınca el konulup mahkemesince sahibine iadesine karar verilen eşyadan, ilgilisine yapılan tebliğ tarihinden itibaren on beş gün içinde teslim alınmayan eşya",
+"d": "El konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde, eşyanın teslim alınması için ilgilisine yapılan tebliğ tarihinden itibaren on beş gün içinde teslim alınmayan eşya tasfiye edilir.",
 "c": [
-"İlgili hükümlerine göre kanuni bekleme süreleri bulunup bulunmadığına bakılmaksızın, çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşya",
-"Beyan sahibinden kaynaklanan sebeplerle süresi içinde muayenesine başlanamayan veya beyan edildiği rejim için gereken belgeleri verilmeyen tescilli beyanname kapsamı eşya",
-"Posta gönderileri ile Türkiye Gümrük Bölgesine gelen ve posta yoluyla gelen eşyaya ilişkin hükümler çerçevesinde tasfiye edilebilecek duruma gelen eşya",
-"Antrepolarda veya gümrük idaresince eşya konulmasına izin verilen yerlerde yapılan sayım sonucunda fazla çıkan eşya ile yönetmelikle belirlenen esaslar dâhilinde gümrüğe terk edilmiş sayılan eşya"
+"Kanuna göre tasfiyelik hâle gelen eşyanın tespit ve tahakkuk belgeleri otuz gün içinde tasfiye idaresine intikal ettirilir; tasfiye idaresi de bu eşyayı otuz gün içinde teslim almakla mükelleftir.",
+"Tasfiye edilmesine karar verilen eşyanın bulunmaması hâlinde, ithal eşyası için CIF, ihraç eşyası için FOB kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir.",
+"Kaçakçılıkla Mücadele Kanunu hükümleri uyarınca tasfiye edilebilecek duruma gelen eşya da Gümrük Kanununda sayılan ihale yoluyla satış, perakende satış, tahsis, imha veya özel yol gibi yollarla tasfiye edilir.",
+"Kaçakçılıkla Mücadele Kanunu kapsamında satış suretiyle tasfiye edilen eşyanın sahibine iadesine karar verilirse emanetteki satış bedeli ödenir; ancak tasfiye edilen eşyanın gümrük vergileri iade edilmez."
 ],
 "tuzak": false,
-"g": "El konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde tasfiye, ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya için söz konusudur; on beş gün içinde teslim alınmamış olmak tek başına tasfiye sebebi değildir. Çabuk bozulan veya saklanması külfetli eşya ile beyannamesi tescil edilip süresinde işlemleri tamamlanmayan eşya Kanunda tasfiyelik eşya olarak sayılmıştır. (MD GK 177/1-e, h, ı, j, k; 177/2-b; 70/1)",
-"kanit": "43-tasfiye.txt | eşyanın teslim alınması için ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya || 43-tasfiye.txt | kanuni bekleme süreleri bulunup bulunmadığına bakılmaksızın, çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşya || 17-BEYAN.txt | Beyan sahibinden kaynaklanan sebeplerle 46 ncı maddede belirtilen süreler içerisinde, tescil edilmiş beyanname kapsamı eşyanın",
+"g": "Kanuna göre el konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde tasfiye, ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya için söz konusudur; on beş günlük bir süre öngörülmemiştir. Tespit ve tahakkuk belgelerinin otuz gün içinde tasfiye idaresine intikali ile idarenin eşyayı otuz gün içinde teslim alma yükümlülüğü ve iade kararında emanetteki bedel ödense de tasfiye edilen eşyanın gümrük vergilerinin iade edilmemesi Kanunda aynen yer alır. (MD GK 177/2-a, b; 177/3; 177/4; 178; 180/2)",
+"kanit": "43-tasfiye.txt | eşyanın teslim alınması için ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya || 43-tasfiye.txt | tespit ve tahakkuk belgeleri otuz gün içinde tasfiye idaresine intikal ettirilir. Tasfiye idaresi, tasfiyeye konu eşyayı otuz gün içinde teslim almakla mükelleftir || 43-tasfiye.txt | ithal eşyası için CIF, ihraç eşyası için FOB kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir || 43-tasfiye.txt | Eşyanın sahibine iade edilmesine karar verilmesi halinde tasfiye edilen eşyanın gümrük vergileri iade edilmez",
 "batch": "K09",
 "no": 63,
 "harf": "B",
 "opts": [
-"İlgili hükümlerine göre kanuni bekleme süreleri bulunup bulunmadığına bakılmaksızın, çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşya",
-"Kaçakçılıkla Mücadele Kanunu uyarınca el konulup mahkemesince sahibine iadesine karar verilen eşyadan, ilgilisine yapılan tebliğ tarihinden itibaren on beş gün içinde teslim alınmayan eşya",
-"Beyan sahibinden kaynaklanan sebeplerle süresi içinde muayenesine başlanamayan veya beyan edildiği rejim için gereken belgeleri verilmeyen tescilli beyanname kapsamı eşya",
-"Posta gönderileri ile Türkiye Gümrük Bölgesine gelen ve posta yoluyla gelen eşyaya ilişkin hükümler çerçevesinde tasfiye edilebilecek duruma gelen eşya",
-"Antrepolarda veya gümrük idaresince eşya konulmasına izin verilen yerlerde yapılan sayım sonucunda fazla çıkan eşya ile yönetmelikle belirlenen esaslar dâhilinde gümrüğe terk edilmiş sayılan eşya"
+"Kanuna göre tasfiyelik hâle gelen eşyanın tespit ve tahakkuk belgeleri otuz gün içinde tasfiye idaresine intikal ettirilir; tasfiye idaresi de bu eşyayı otuz gün içinde teslim almakla mükelleftir.",
+"El konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde, eşyanın teslim alınması için ilgilisine yapılan tebliğ tarihinden itibaren on beş gün içinde teslim alınmayan eşya tasfiye edilir.",
+"Tasfiye edilmesine karar verilen eşyanın bulunmaması hâlinde, ithal eşyası için CIF, ihraç eşyası için FOB kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir.",
+"Kaçakçılıkla Mücadele Kanunu hükümleri uyarınca tasfiye edilebilecek duruma gelen eşya da Gümrük Kanununda sayılan ihale yoluyla satış, perakende satış, tahsis, imha veya özel yol gibi yollarla tasfiye edilir.",
+"Kaçakçılıkla Mücadele Kanunu kapsamında satış suretiyle tasfiye edilen eşyanın sahibine iadesine karar verilirse emanetteki satış bedeli ödenir; ancak tasfiye edilen eşyanın gümrük vergileri iade edilmez."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "El konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde tasfiye, ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya için söz konusudur; on beş gün içinde teslim alınmamış olmak tek başına tasfiye sebebi değildir. Çabuk bozulan veya saklanması külfetli eşya ile beyannamesi tescil edilip süresinde işlemleri tamamlanmayan eşya Kanunda tasfiyelik eşya olarak sayılmıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 177/1-e, h, ı, j, k; 177/2-b; 70/1)"
+"g_harfli": "Kanuna göre el konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde tasfiye, ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya için söz konusudur; on beş günlük bir süre öngörülmemiştir. Tespit ve tahakkuk belgelerinin otuz gün içinde tasfiye idaresine intikali ile idarenin eşyayı otuz gün içinde teslim alma yükümlülüğü ve iade kararında emanetteki bedel ödense de tasfiye edilen eşyanın gümrük vergilerinin iade edilmemesi Kanunda aynen yer alır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 177/2-a, b; 177/3; 177/4; 178; 180/2)"
 },
 {
 "id": "D6-064",
@@ -2294,7 +2299,7 @@
 "madde": "Gümrük Yönetmeliği m.453/4, 453/5",
 "cek": "Geçici ihracatın süreler bittikten sonra kesin ihracata dönüştürülmesinde de kesin ihracat beyannamesi ve ihracat mevzuatına uyum kaydıyla izin verilip rejim sonlandırılır.",
 "kok": [
-"(K) Makine Sanayi A.Ş., mülkiyeti kendisine ait bir iş makinesini yurt dışında yerleşik (L) firmasına kiralamak üzere ticari kiralama yoluyla geçici ihracat kapsamında Türkiye Gümrük Bölgesinden çıkarmıştır. Gümrük müdürlüğünce kiralama sözleşmesinde belirlenen süre kadar yapılan uzatma da dahil olmak üzere geçici ihracat için verilen bütün süreler dolmuş; makine bu süreler içinde yurda geri getirilmemiş, firma mücbir sebep veya beklenmeyen hâle dayanan yeni bir süre uzatımı talebinde de bulunmamıştır. Sürelerin bitiminden iki ay sonra (L) firması kiraladığı makineyi satın almak istemiş, bunun üzerine (K) firması geçici ihracatın kesin ihracata dönüştürülmesi için geçici ihracat işlemlerinin yapıldığı gümrük idaresine başvurmuştur. Makine ihracat vergisine tabi değildir ve ihracatına ilişkin herhangi bir yasak veya kısıtlama bulunmamaktadır.",
+"(K) Makine Sanayi A.Ş., mülkiyeti kendisine ait bir iş makinesini yurt dışında yerleşik (L) firmasına kiralamak üzere ticari kiralama yoluyla geçici ihracat kapsamında Türkiye Gümrük Bölgesinden çıkarmıştır. Geçici ihracat için gümrük müdürlüğünce verilen ek süreler de dahil olmak üzere bütün süreler dolmuş; makine bu süreler içinde yurda geri getirilmemiş, firma mücbir sebep veya beklenmeyen hâle dayanan yeni bir süre uzatımı talebinde de bulunmamıştır. Sürelerin bitiminden iki ay sonra (L) firması kiraladığı makineyi satın almak istemiş, bunun üzerine (K) firması geçici ihracatın kesin ihracata dönüştürülmesi için geçici ihracat işlemlerinin yapıldığı gümrük idaresine başvurmuştur. Makine ihracat vergisine tabi değildir ve ihracatına ilişkin herhangi bir yasak veya kısıtlama bulunmamaktadır.",
 "Gümrük Yönetmeliğine göre, (K) firmasının talebi üzerine yapılacak işlem aşağıdakilerden hangisidir?"
 ],
 "d": "Kesin ihracata ilişkin gümrük beyannamesinin düzenlenmesi ve ihracat rejimine ilişkin tüm mevzuat hükümlerine uyulmuş olması kaydıyla dönüştürmeye izin verilir ve geçici ihracat rejimi sonlandırılır.",
@@ -2445,27 +2450,27 @@
 ],
 "d": "ihracat vergileri – gümrük kontrolü",
 "c": [
-"ithalat vergileri – gümrük kontrolü",
+"ihracata bağlı önlemler – gümrük kontrolü",
 "ihracat vergileri – gümrük gözetimi",
-"ithalat vergileri – gümrük gözetimi",
+"ihracat vergileri – gümrük yükümlülüğü",
 "ihracat iadeleri – gümrük yükümlülüğü"
 ],
 "tuzak": false,
-"g": "Kanuna göre ihracat, ticaret politikası önlemleri ve gerektiği takdirde ihracat vergileri de dahil olmak üzere çıkış işlemlerine ilişkin hükümlerin uygulanmasıyla gerçekleştirilir; tescildeki durum ve niteliğini koruyarak Türkiye Gümrük Bölgesini terk eden eşya fiilen ihraç edilmiş sayılır ve bu durumda eşya üzerindeki gümrük kontrolü sona erer. İthalat vergileri ihraç eşyasına ilişkin çıkış hükümleri arasında yer almaz; Kanun fiili ihracatla sona eren unsuru gümrük gözetimi olarak değil gümrük kontrolü olarak belirlemiştir. (MD GK 150/1, 151)",
+"g": "Kanuna göre ihracat, ticaret politikası önlemleri ve gerektiği takdirde ihracat vergileri de dahil olmak üzere çıkış işlemlerine ilişkin hükümlerin uygulanmasıyla gerçekleştirilir; tescildeki durum ve niteliğini koruyarak Türkiye Gümrük Bölgesini terk eden eşya fiilen ihraç edilmiş sayılır ve bu durumda eşya üzerindeki gümrük kontrolü sona erer. Kanun, ticaret politikası önlemleriyle birlikte sayılan unsuru ihracata bağlı önlemler veya ihracat iadeleri olarak değil ihracat vergileri olarak; fiili ihracatla sona eren unsuru da gümrük gözetimi veya gümrük yükümlülüğü olarak değil gümrük kontrolü olarak belirlemiştir. (MD GK 150/1, 151)",
 "kanit": "36-ihracat.txt | İhracat, ticaret politikası önlemleri ve gerektiği takdirde ihracat vergileri de dahil olmak üzere çıkış işlemlerine ilişkin hükümlerin uygulanmasıyla gerçekleştirilir. || 36-ihracat.txt | Bu durumda, ihraç eşyası üzerindeki gümrük kontrolü[132] sona erer.",
 "batch": "K14",
 "no": 68,
 "harf": "A",
 "opts": [
 "ihracat vergileri – gümrük kontrolü",
-"ithalat vergileri – gümrük kontrolü",
+"ihracata bağlı önlemler – gümrük kontrolü",
 "ihracat vergileri – gümrük gözetimi",
-"ithalat vergileri – gümrük gözetimi",
+"ihracat vergileri – gümrük yükümlülüğü",
 "ihracat iadeleri – gümrük yükümlülüğü"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre ihracat, ticaret politikası önlemleri ve gerektiği takdirde ihracat vergileri de dahil olmak üzere çıkış işlemlerine ilişkin hükümlerin uygulanmasıyla gerçekleştirilir; tescildeki durum ve niteliğini koruyarak Türkiye Gümrük Bölgesini terk eden eşya fiilen ihraç edilmiş sayılır ve bu durumda eşya üzerindeki gümrük kontrolü sona erer. İthalat vergileri ihraç eşyasına ilişkin çıkış hükümleri arasında yer almaz; Kanun fiili ihracatla sona eren unsuru gümrük gözetimi olarak değil gümrük kontrolü olarak belirlemiştir. Bu nedenle doğru cevap A seçeneğidir. (MD GK 150/1, 151)"
+"g_harfli": "Kanuna göre ihracat, ticaret politikası önlemleri ve gerektiği takdirde ihracat vergileri de dahil olmak üzere çıkış işlemlerine ilişkin hükümlerin uygulanmasıyla gerçekleştirilir; tescildeki durum ve niteliğini koruyarak Türkiye Gümrük Bölgesini terk eden eşya fiilen ihraç edilmiş sayılır ve bu durumda eşya üzerindeki gümrük kontrolü sona erer. Kanun, ticaret politikası önlemleriyle birlikte sayılan unsuru ihracata bağlı önlemler veya ihracat iadeleri olarak değil ihracat vergileri olarak; fiili ihracatla sona eren unsuru da gümrük gözetimi veya gümrük yükümlülüğü olarak değil gümrük kontrolü olarak belirlemiştir. Bu nedenle doğru cevap A seçeneğidir. (MD GK 150/1, 151)"
 },
 {
 "id": "D6-069",
@@ -2511,7 +2516,7 @@
 "madde": "Gümrük Yönetmeliği m.482/1, 482/4",
 "cek": "Dış seferden dönen geminin üç ay içinde yabancı limana çıkmaması zorunlu nedenle belgelenirse süreyi uzatmaya gümrük ve muhafaza başmüdürlükleri yetkilidir.",
 "kok": [
-"Gümrük Yönetmeliğine göre, dış seferden dönen geminin yabancı limana çıkması için öngörülen üç aylık süreyi uzatmaya hangisi yetkilidir?"
+"Gümrük Yönetmeliğine göre, dış seferden dönen geminin yabancı limana çıkması için öngörülen süreyi aşağıdakilerden hangisi uzatabilir?"
 ],
 "d": "Gümrük ve muhafaza başmüdürlükleri",
 "c": [
@@ -2765,8 +2770,8 @@
 "madde": "Gümrük Yönetmeliği m.573/1",
 "cek": "Sınavı kazananlar belgelerle ilgili Gümrük Müşavirleri Derneğine başvurur; belgelerin teslimini müteakip fotoğraflı izin belgesini Müsteşarlık düzenler.",
 "kok": [
-"Gümrük Yönetmeliğine göre; “Sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları Müsteşarlıkça talep edilen belgelerle birlikte ilgili …… başvurur. Bu belgelerin teslimini müteakip …… tarafından fotoğraflı İzin Belgesi düzenlenir.”",
-"Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?"
+"Gümrük Yönetmeliğine göre, sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları talep edilen belgelerle birlikte ilgili …… başvurur; bu belgelerin teslimini müteakip …… tarafından fotoğraflı izin belgesi düzenlenir.",
+"Yukarıdaki cümlede boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?"
 ],
 "d": "Gümrük Müşavirleri Derneğine / Müsteşarlık",
 "c": [
@@ -2952,7 +2957,7 @@
 "madde": "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği m.27/1, 30/1, 31/1",
 "cek": "Kamu alacağını ödememe ihlali askı sonrası üç yıl içinde ikinci kez tekrarlanırsa kısmi teminat yetkisi borç ödendikten sonra iki yıl askıya alınır.",
 "kok": [
-"Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre, ödeme ihlali üç yıl içinde tekrarlanırsa kısmi teminat yetkisi **ne kadar süre** askıya alınır?"
+"Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre, kamu alacağını süresinde ödememe ihlali üç yıl içinde tekrarlanırsa kısmi teminat yetkisi **ne kadar süre** askıya alınır?"
 ],
 "d": "2 yıl",
 "c": [
@@ -2971,6 +2976,7 @@
 "tuzak": false,
 "g": "Kesinleşmiş gümrük vergisi, faiz ve para cezasını süresinde ödememe ihlalinin, sertifikanın bu nedenle askıya alınmasının sona erdirilmesini takip eden üç yıl içinde ikinci kez tekrarlanması hâlinde kısmi teminat yetkisi, borcun ödenmesini müteakip iki yıl süreyle askıya alınır. Üç yıl tekrarın arandığı süredir; üç ay ve altı ay ise eksik beyanda bulunma yetkisinin askıya alınmasında öngörülen sürelerdir. (MD GİKY 30/1, 31/1)",
 "kanit": "3-YYS.txt | Kesinleşmiş gümrük vergisi ve/veya ceza borcunun ödenmesini müteakip, 2 yıl süreyle askıya alınır.",
+"sapma": "Kök bandı: ihlalin Yönetmelikteki adlandırması (kamu alacağını süresinde ödememe, üç yıl içinde tekrar) ile kök 150 karakteri aşıyor",
 "batch": "K15",
 "no": 82,
 "harf": "D",
@@ -2991,19 +2997,19 @@
 ],
 "d": "Gümrük idaresinde en az on beş yıl çalışıp istifa ederek veya emekli olarak ayrılan memurlardan diğer koşulları taşıyanlar, sınav koşulu aranmaksızın yalnızca staj yaparak gümrük müşavir yardımcısı olabilirler.",
 "c": [
-"Gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük muayene memuru, gümrük başmemuru veya gümrük müdür yardımcısı görevlerinde geçirerek ayrılanlar sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilirler.",
+"Gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük muayene memuru, gümrük başmemuru veya gümrük müdür yardımcısı görevlerinde geçirerek istifa veya emeklilikle ayrılanlar sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilirler.",
 "Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi, siyasal bilgiler veya endüstri mühendisliği dallarında eğitim veren fakültelerden en az lisans seviyesinde mezun olanlar öğrenim koşulunu sağlar.",
 "Diğer öğretim kurumlarından lisans seviyesinde mezun olduktan sonra Kanunda sayılan bilim dallarından lisansüstü seviyede diploma alanlar da gümrük müşavir yardımcılığı için öğrenim koşulunu sağlamış sayılır.",
 "Gümrük mevzuatı ve gümrüğe ilişkin iktisadi, ticari ve mali konuları kapsayan sınavda başarılı olmak, gümrük müşavir yardımcısı olabilmek için Kanunda aranan koşullar arasında sayılmıştır."
 ],
 "tuzak": false,
 "g": "Kanuna göre gümrük idaresinde en az on beş yıl çalışıp istifa veya emeklilikle ayrılanlar staj koşulu aranmaksızın gümrük müşavir yardımcısı sınavına girebilir; muaf tutulan staj olup sınav koşulu devam eder. Sınav ve staj koşulunun birlikte aranmaması ise on beş yılın üç yılını gümrük muayene memuru, gümrük başmemuru veya gümrük müdür yardımcısı olarak geçirenlere özgüdür. Lisans ve lisansüstü öğrenim yollarına ilişkin ifadeler Kanundaki öğrenim koşuluyla uyumludur. (MD GK 227/1-f, h; 227/2)",
-"kanit": "2-TEMSİL.txt | Gümrük idaresinde en az onbeş yıl çalışıp da görevlerinden istifa ederek veya emekli olarak ayrılan memurlardan 1 inci fıkradaki koşulları taşıyanlar, staj koşulu aranmaksızın gümrük müşavir yardımcısı sınavına girebilirler. || 2-TEMSİL.txt | sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilirler.",
+"kanit": "2-TEMSİL.txt | Gümrük idaresinde en az onbeş yıl çalışıp da görevlerinden istifa ederek veya emekli olarak ayrılan memurlardan 1 inci fıkradaki koşulları taşıyanlar, staj koşulu aranmaksızın gümrük müşavir yardımcısı sınavına girebilirler. || 2-TEMSİL.txt | görevlerinden istifa eden veya emekliye ayrılan ve 1 inci fıkradaki koşulları taşıyanlar sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilirler.",
 "batch": "K13",
 "no": 83,
 "harf": "C",
 "opts": [
-"Gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük muayene memuru, gümrük başmemuru veya gümrük müdür yardımcısı görevlerinde geçirerek ayrılanlar sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilirler.",
+"Gümrük idaresinde en az on beş yıl çalışıp bunun üç yılını gümrük muayene memuru, gümrük başmemuru veya gümrük müdür yardımcısı görevlerinde geçirerek istifa veya emeklilikle ayrılanlar sınav ve staj koşulu aranmaksızın gümrük müşavir yardımcısı olabilirler.",
 "Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi, siyasal bilgiler veya endüstri mühendisliği dallarında eğitim veren fakültelerden en az lisans seviyesinde mezun olanlar öğrenim koşulunu sağlar.",
 "Gümrük idaresinde en az on beş yıl çalışıp istifa ederek veya emekli olarak ayrılan memurlardan diğer koşulları taşıyanlar, sınav koşulu aranmaksızın yalnızca staj yaparak gümrük müşavir yardımcısı olabilirler.",
 "Diğer öğretim kurumlarından lisans seviyesinde mezun olduktan sonra Kanunda sayılan bilim dallarından lisansüstü seviyede diploma alanlar da gümrük müşavir yardımcılığı için öğrenim koşulunu sağlamış sayılır.",
@@ -3269,8 +3275,9 @@
 "madde": "Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmelik m.3/1-b, 4/2, 5 (mülga), 6/2, 7/4",
 "cek": "İlan edilecek hükümlülere dair kararı Gümrükler Muhafaza Genel Müdürlüğü verir, Bakan onayıyla icra edilir; Komisyon usulü kaldırılmıştır.",
 "kok": [
-"Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre aşağıdakilerden hangisi doğrudur?"
+"Kaçakçılık Türleri ile İlgili Mahkûmiyet Hükmü Kesinleşenlerin Kamuoyuna İlan Edilmesine Dair Yönetmeliğe göre ilanın usulüne ilişkin aşağıdakilerden hangisi doğrudur?"
 ],
+"sapma": "kök, yönetmeliğin tam adı nedeniyle 120 karakteri aşıyor",
 "d": "Mahkûmiyet hükmü kesinleşenlerden belirlenen ölçütlere göre ilan edileceklere dair karar Gümrükler Muhafaza Genel Müdürlüğünce verilir ve Bakan onayı ile icra edilir.",
 "c": [
 "Kamuoyuna ilan edilecek hükümlüler, Bakanlık bünyesinde oluşturulan ve yılda dört defa toplanan Komisyon tarafından belirlenir ve Komisyonun bu kararı Bakan onayı ile icra edilir.",
@@ -3372,13 +3379,13 @@
 "tip": "T2",
 "z": "OÜ",
 "madde": "5607 sayılı Kaçakçılıkla Mücadele Kanunu m.20/1, 20/2",
-"cek": "İzleme tutanağında imzadan kaçınma nedenleri tutanağa geçirilir; ilgililere okunur veya verilir; ilgilinin iş ve yerleşim yeri de yazılır.",
+"cek": "Tutanağın ilgililere okunduğu veya verildiği husus tutanağa yazılarak imza ettirilir; imzadan kaçınma nedenleri tutanağa geçirilir.",
 "kok": [
 "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçakçılık fiillerinin izlenmesine ilişkin tutanaklarla ilgili aşağıdaki ifadeler veriliyor:",
 "I. Tutanakta tarih, yer ve düzenleyenlerin unvan ve isimlerinin yanı sıra hâkim kararının tarih ve sayısına da yer verilir.",
 "II. İşlemde hazır bulunan ilgililerin tutanağı imzalamaktan kaçınması hâlinde tutanak hükümsüz sayılır ve yeniden düzenlenir.",
 "III. Tutanağın ilgilileri ilgilendiren kısımları, onanmak üzere kendilerine okunur veya okumaları için kendilerine verilir.",
-"IV. Tutanakta ilgilinin kimlik bilgilerine yer verilir; ancak ilgilinin iş ve yerleşim yeri bilgileri tutanağa yazılmaz.",
+"IV. Tutanağın ilgilileri ilgilendiren kısımlarının okunduğu veya okumaları için kendilerine verildiği husus tutanağa yazılmaz; yalnızca ilgililerin imzası alınır.",
 "Yukarıdaki ifadelerden hangileri doğrudur?"
 ],
 "d": "I ve III",
@@ -3396,14 +3403,14 @@
 "II, III ve IV"
 ],
 "tuzak": false,
-"g": "Tutanakta tarih, yer, düzenleyenlerin unvan ve isimleri ile hâkim kararının tarih ve sayısı bulunur; ilgilileri ilgilendiren kısımlar onanmak üzere okunur veya okumaları için verilir, bu nedenle I ve III doğrudur. İmzadan kaçınma hâlinde tutanak hükümsüz sayılmaz, kaçınmanın nedenleri tutanağa geçirilir; ilgilinin kimliği yanında iş ve yerleşim yeri de tutanakta yer alır, bu nedenle II ve IV yanlıştır. (MD 5607 20/1-2)",
-"kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | İmzadan kaçınma halinde nedenleri tutanağa geçirilir || 5607_sayili_kacakcilikla_mucadele_kanunu.txt | İlgilinin kimlik, iş ve yerleşim yeri ile varsa ifadesini",
+"g": "Tutanakta tarih, yer, düzenleyenlerin unvan ve isimleri ile hâkim kararının tarih ve sayısı bulunur; ilgilileri ilgilendiren kısımlar onanmak üzere okunur veya okumaları için verilir, bu nedenle I ve III doğrudur. İmzadan kaçınma hâlinde tutanak hükümsüz sayılmaz, kaçınmanın nedenleri tutanağa geçirilir; okuma veya verme işlemi de tutanağa yazılarak ilgililere imza ettirilir, bu nedenle II ve IV yanlıştır. (MD 5607 20/1-2)",
+"kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Bu husus tutanağa yazılarak ilgililere imza ettirilir. İmzadan kaçınma halinde nedenleri tutanağa geçirilir",
 "batch": "K12",
 "no": 94,
 "harf": "B",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tutanakta tarih, yer, düzenleyenlerin unvan ve isimleri ile hâkim kararının tarih ve sayısı bulunur; ilgilileri ilgilendiren kısımlar onanmak üzere okunur veya okumaları için verilir, bu nedenle I ve III doğrudur. İmzadan kaçınma hâlinde tutanak hükümsüz sayılmaz, kaçınmanın nedenleri tutanağa geçirilir; ilgilinin kimliği yanında iş ve yerleşim yeri de tutanakta yer alır, bu nedenle II ve IV yanlıştır. Bu nedenle doğru cevap B seçeneğidir. (MD 5607 20/1-2)"
+"g_harfli": "Tutanakta tarih, yer, düzenleyenlerin unvan ve isimleri ile hâkim kararının tarih ve sayısı bulunur; ilgilileri ilgilendiren kısımlar onanmak üzere okunur veya okumaları için verilir, bu nedenle I ve III doğrudur. İmzadan kaçınma hâlinde tutanak hükümsüz sayılmaz, kaçınmanın nedenleri tutanağa geçirilir; okuma veya verme işlemi de tutanağa yazılarak ilgililere imza ettirilir, bu nedenle II ve IV yanlıştır. Bu nedenle doğru cevap B seçeneğidir. (MD 5607 20/1-2)"
 },
 {
 "id": "D6-095",
@@ -3414,8 +3421,9 @@
 "madde": "5607 Sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği m.5/4, 16/1, 16/2",
 "cek": "İl özel idarelerinde kaçak akaryakıt tahsis kararlarını genel sekreter ya da görevlendireceği yardımcısı onaylar.",
 "kok": [
-"Elkonulan akaryakıta ilişkin Uygulama Yönetmeliğine göre, il özel idarelerinde kaçak akaryakıtın tahsis kararlarını kim onaylar?"
+"Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliğine göre, il özel idarelerinde kaçak akaryakıtın tahsis kararlarını kim onaylar?"
 ],
+"sapma": "kök, yönetmeliğin tam adı nedeniyle 120 karakteri aşıyor",
 "d": "Genel sekreter ya da görevlendireceği yardımcısı",
 "c": [
 "Vali ya da görevlendireceği bir vali yardımcısı",
