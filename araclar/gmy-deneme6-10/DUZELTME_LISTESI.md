@@ -30,3 +30,10 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 ## V4 (K04 + K05)
 - Yazarlara iletildi: K05 → D7-039 (hafıza tekrarı), D8-093 (aynı denemedeki D8-081'in cevabını ele veren şıklar), D9-045, D9-043, D10-037; K04 → D6-049 (şık kalıbı cevabı ele veriyor), D8-038 (tırnak içi metin birebir değil); K14 → D9-097 (K04 D7-082 ile aynı hüküm, GY 417/2).
 - Kümeler arası tekrar için ek tarama: aynı madde/fıkraya dayanan soru çiftleri `dogrulama/aday_yeni_yeni.txt` (263 çift) ve hafızayla `dogrulama/aday_yeni_hafiza.txt` (428 çift) listelendi; tekrar denetçilerine verildi.
+- K04 uygulandı: D6-049 (doğru şık çeldiricilerle aynı kalıba getirildi; kök sadeleştirildi), D8-038 (tırnak kaldırıldı, cümle GY 77/3'e yakın kuruldu).
+
+## V2 (K02 + K11)
+- Yazarlara iletildi: K02 → D7-050 (çıkmış 2022/50 + GMY-036 ile aynı liste), D7-049 (tırnaklı tanım birebir değil), D7-055 (tanım cevabı ele veriyor), D7-048 (aynı denemedeki D7-098'i çözdüren şık), D9-024 (çıkmış 2024/24'ün ters kopyası), D10-036 (ikinci cevap savunulabilir); K11 → D8-030 (GK 241/1 ikincil düzenleme ibaresi AYM 26.03.2026 kararıyla iptal — Kanunda sayılan hâle taşınacak), D10-032 (çıkmış 2023/33 hükmü), D8-021 (II. öncül), D7-042 (çıkmış 2022/42 + GMY-039), D7-065 (kökte hükmün konusu eksik).
+
+## V6 (K08 + K09)
+- Yazarlara iletildi: K08 → D7-061 (kök dayanak Tebliğ adıyla), D8-034 (savunulabilir çeldirici), D9-070 (çift doğru riski), D7-068 (isteğe bağlı); K09 → D6-063 (çıkmış 2021/63 kök/kurgu kopyası), D7-084 (kök–cevap uyumsuzluğu), D6-034 (D6-063'ü ele veren çeldirici), D6-055 (çıkmış şıkkıyla aynı bent), D6-060 (açıklama).
