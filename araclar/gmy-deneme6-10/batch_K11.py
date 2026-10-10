@@ -151,14 +151,14 @@ dict(id="D8-060", cikmis="2023/60", konu="Cezalar", tip="T8", z="OÜ",
 
 # ---------------- DENEME 9 ----------------
 dict(id="D9-026", cikmis="2024/26", konu="Cezalar", tip="T9", z="Z",
- madde="4458 sayılı Gümrük Kanunu m.237/1, 237/2, 237/7; Gümrük Yönetmeliği m.583/5",
+ madde="4458 sayılı Gümrük Kanunu m.237/1, 237/2; Gümrük Yönetmeliği m.583/5",
  cek="Vergiye göre ceza belirlenemeyen özet beyan noksanlığında kanıtlanamayan her noksan kap için bir kat usulsüzlük cezası; dört noksan kap dört kat.",
  kok=["(U) Denizcilik A.Ş.'nin verdiği özet beyanda (V) firmasına ait 120 kap eşya kayıtlıdır. Eşyanın boşaltılması sonucunda 114 kap bulunmuş; noksan çıkan kaplardan 2'sinin mahrecinden yüklenmediği, gümrük idaresince belirlenen süre içinde kanıtlanmıştır. Özet beyanda eşyanın cinsi yalnızca muhtelif eşya olarak gösterildiğinden noksan kaplara ait eşyanın tarife pozisyonu, cinsi ve türü tespit edilememiş; bu nedenle noksan kaplar için gümrük vergileri esas alınarak ceza belirlenmesi mümkün olmamıştır.",
       "4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre, (U) Denizcilik A.Ş.'ye uygulanacak para cezalarının toplamı, usulsüzlük cezası için Kanunda belirlenen miktarın **kaç katıdır**?"],
  d="4 kat", c=["1 kat", "2 kat", "6 kat", "8 kat"],
  opts=["1 kat", "2 kat", "4 kat", "6 kat", "8 kat"],
  tuzak=False,
- g="Özet beyana göre noksan çıkan kaplar için gümrük vergileri esas alınarak ceza belirlenemiyorsa, noksan her kap için usulsüzlük cezası tutarında ceza alınır ve ceza eksikliğin tamamı dikkate alınarak hesaplanır. Noksan 6 kaptan mahrecinden yüklenmediği kanıtlanan 2 kap düşülünce 4 kap kalır ve toplam ceza 4 kattır. Kanıtlanan kaplar düşülmezse 6 kat, eksikliğin tamamı yerine tek ceza uygulanırsa 1 kat bulunur. (MD GK 237/1, 237/2, 237/7; GY 583/5)",
+ g="Özet beyana göre noksan çıkan kaplar için gümrük vergileri esas alınarak ceza belirlenemiyorsa, noksan her kap için usulsüzlük cezası tutarında ceza alınır ve ceza eksikliğin tamamı dikkate alınarak hesaplanır. Noksan 6 kaptan mahrecinden yüklenmediği kanıtlanan 2 kap düşülünce 4 kap kalır ve toplam ceza 4 kattır. Kanıtlanan kaplar düşülmezse 6 kat, eksikliğin tamamı yerine tek ceza uygulanırsa 1 kat bulunur. (MD GK 237/1, 237/2; GY 583/5)",
  kanit="48-cezalar.txt | 1 inci fıkraya göre ceza belirlenmesi mümkün olamıyorsa, noksan her kap için 241 inci maddenin 1 inci fıkrasında belirlenen miktarda para cezası alınır || 48-cezalar.txt | Özet beyan eksikliklerinde uygulanacak ceza miktarları, eksikliğin tamamı dikkate alınmak suretiyle hesaplanır || 48-cezalar.txt | noksan çıkan kapların mahrecinden yüklenmemiş veya yanlışlıkla başka yere çıkartılmış"),
 
 dict(id="D9-032", cikmis="2024/32", konu="Cezalar", tip="T4", z="OÜ",

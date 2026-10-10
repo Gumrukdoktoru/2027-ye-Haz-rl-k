@@ -72,3 +72,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K01 (T1) uygulandı: D7-041 GK 3/24 'risk' tanımına taşındı.
 - K12 (T1) uygulandı: D9-067 GK 237/7'ye (özet beyansız eşyada cezayı ödeyecek kişi) taşındı; K11 D9-026'nın madde alanındaki kullanılmayan 237/7 atfı kaldırıldı.
 - K07 (T1) uygulandı: D6-043 GY 321/322'ye taşındı (D8-036 ile aynı önermeler ve D6-026'ya ipucu giderildi), D10-062 öncül I DİR Tebliği 12/1-a.
+- K14 (T1) uygulandı: D10-065 öncül IV GY 482/3 (D6-070 çakışması giderildi; GY 482/2 hafızadaki GMY-071 olduğu için kullanılmadı), D9-049 satır 2 GY 158/3 (D9-045 ipucu giderildi).
