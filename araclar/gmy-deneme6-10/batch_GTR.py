@@ -300,7 +300,7 @@ dict(id='D10-005', cikmis='2025/5', konu='Noktalama – Noktalama işaretlerinin
  madde='Genel Kültür Kitabı – Türkçe: Noktalama (Alıntılar, ayraçlar ve çizgiler; Nokta ve virgül); Yazım kuralları (Kesme işaretinin sınırı)',
  cek='Parçada yay ayraç yoktur; ek bilgiyi ayraçla gösterme işlevi örneklenmemiş, unvan kısaltması, kesme, ara söz virgülleri ve alıntı tırnağı örneklenmiştir.',
  kok=['Doç. Dr. Selim Arı kentin en eski kütüphanesini anlattığı yazısına şöyle başlar: “Kitaplar bir şehrin sessiz tanıklarıdır.” Kütüphanenin müdürü, yarım asırdır burada çalışan Nermin Hanım, her sabah kapıları kendi elleriyle açarmış. Raflarda üç tür eser bulunuyor: el yazmaları, eski haritalar ve ilk baskı romanlar. Arı’ya göre bu koleksiyon Anadolu’daki benzerlerinin çoğundan daha zengindir.',
-      'Bu parçada, aşağıda işlevi verilen noktalama işaretlerinden hangisinin kullanımına örnek bulunmamaktadır?'],
+      'Bu parçada, aşağıda işlevi verilen noktalama işaretlerinden hangisinin kullanımına örnek [[bulunmamaktadır]]?'],
  d='Cümleye ek bilgi katan açıklama, cümle içinde yay ayraç kullanılarak gösterilir.',
  c=['Doçent, doktor gibi unvanların kısaltılmış biçimlerinden sonra nokta konur.',
     'Özel adlara getirilen durum ekleri, kesme işaretiyle adın kendisinden ayrılır.',

@@ -98,3 +98,7 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K13 (T2) uygulandı: D6-076 GY 563/8-9, D7-100 öncüller (GK 225, GY 561/1, YKTS Tebliği 3-4), D8-028 GY 578/1-ç, D7-063 GY 566/2-6, 570/1-3, D9-085 Tahsilat Tebliği 6/1-d, D9-094 (süre unsuru çıkarıldı; GY 563/3).
 - K11 (T2) uygulandı: D9-032 GK 238/1-c, D10-095 Kara Taşıtları Tebliği m.31, D7-042 GK 235/4-c + GY 181/12 (D7-036 öncül IV ipucu giderildi), D7-070 GK 237/5 + 237/1 (30.000 TL), D10-032 ara adım değişti (alt sınır 1.000 TL).
 - K02 (T2) uygulandı: D6-029 (bileşik unsurlar çıkarıldı; 85.000), D6-031 GY 56/3 marka royaltisi (68.500), D7-099 GY 55/1-a/c, D8-047 GY 54/2-a, D9-024 dört çeldirici, D10-034 GY 53/3 (36.000); D10-033 madde alanı.
+
+## Son doğrulama (S1, S3; değişen 140 sorunun yeniden kontrolü)
+- Koordinatör uyguladı: D10-075 (kökteki MRN ifadeleri D10-072'nin cevabını ele veriyordu), D7-049 (kökteki koşul iki şıkkı eliyordu), D10-048 ("A.TR koşulu" → "dolaşım belgesi koşulu"), D8-034 (kök cevabı ele veriyordu), D8-064 (çıkmış şık kalıntısı çeldirici GK 18/2-h ile değiştirildi), D8-080 ("sistemce" ipucu), D9-045 ve D10-040 (kökte hükmün konusu/mevzuat adı), D10-051 ve D7-084 ("aşağıdakilerden"), D10-005 (olumsuz kelime işaretlendi). Bant aşan köklere sapma notu yazıldı.
+- Yazarlara iletildi: K11 → D7-042 (GMY3-095 E şıkkıyla aynı), K05 → D7-039 (GMY3-040 E şıkkındaki GK 213/3), K02 → D9-021 (D9-043'ün LNG ipucu), K07 → D10-062 öncül I (GMY5-062).
