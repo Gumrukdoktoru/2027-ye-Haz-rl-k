@@ -42,7 +42,7 @@ dict(id='D6-057', cikmis='2021/57', konu='YGM', tip='T1', z='OÜ',
  g='Tebliğde vekil, yetkilendirilmiş gümrük müşavirinden istenilen vekâlet bildirgesinde vekil olarak gösterilmiş yetkilendirilmiş gümrük müşaviri olarak tanımlanmıştır; gümrük müşavir yardımcısı vekil olamaz. Tespit sözleşmesinin yükümlü ile özel hukuk hükümlerine istinaden yapılması ve rehberin Genel Müdürlükçe yayımlanması tanımlarla uyumludur. (MD YGM Tebliği 4)',
  kanit='31-YGM.txt | Vekil: Bu Tebliğ kapsamında yetkilendirilmiş gümrük müşavirinden istenilen vekâlet bildirgesinde vekil olarak gösterilmiş yetkilendirilmiş gümrük müşavirini,'),
 
-dict(id='D6-076', cikmis='2021/76', konu='Gümrük Müşavirliği', tip='T8', z='OÜ',
+dict(id='D6-076', cikmis='2021/76', konu='Gümrük Müşavirliği', tip='T8', z='Z',
  madde='Gümrük Yönetmeliği m.563/8-9',
  cek='Beyan için üçüncü kişiden bilişim hizmeti alan müşavir, veri güvenliği ve sır saklamayı açıkça içeren yazılı sözleşme yapana kadar dolaylı temsil hizmeti veremez.',
  kok=["(K) Gümrük Müşavirliği A.Ş., hesabına beyanda bulunduğu firmalara ait beyannameleri bilgisayar veri işleme tekniği yoluyla gönderebilmek için yazılım ve sunucu hizmetini (M) Bilişim Ltd. Şti.'den almaktadır. Taraflar arasında yazılı bir hizmet sözleşmesi bulunmakla birlikte sözleşmede, (M)'nin verilerin güvenliği için her türlü tedbiri alacağına ve sunulan hizmet kapsamında öğrendiği bilgi ve sırları açıklamayacağına ilişkin herhangi bir hüküm yer almamaktadır. Bu durum gümrük idaresince yapılan kontrolde tespit edilmiştir.",

@@ -95,3 +95,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K14 (T2) uygulandı: D10-069 GK 170'e taşındı (GMY3-077 kilidi kaldırıldı).
 - K10 (T2) uygulandı: D9-083 Tahsilat Tebliği m.33/1'e taşındı (GMY2-032 kilidi kaldırıldı); aynı denemedeki D9-084'ün ipucu veren doğru şıkkı GY 506 ile değiştirildi.
 - K12 (T2) uygulandı: D6-100 5607 m.4/5 ve 5/2-b üzerine kuruldu (m.4/4 artırım adımı çıkarıldı; 24 ay).
+- K13 (T2) uygulandı: D6-076 GY 563/8-9, D7-100 öncüller (GK 225, GY 561/1, YKTS Tebliği 3-4), D8-028 GY 578/1-ç, D7-063 GY 566/2-6, 570/1-3, D9-085 Tahsilat Tebliği 6/1-d, D9-094 (süre unsuru çıkarıldı; GY 563/3).
