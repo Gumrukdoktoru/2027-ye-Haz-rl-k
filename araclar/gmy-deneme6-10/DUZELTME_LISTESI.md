@@ -40,3 +40,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K14 uygulandı: D9-097 GY 469/2'ye taşındı (K04 D7-082 ile tekrar giderildi); D6-059 öncül III netleştirildi.
 - K09 uygulandı: D6-063 yeniden kuruldu (GK 177/4, 177/3, 177/2-a+178, 180/2 çeldiricileri), D7-084 kökü, D6-034 ve D6-055 çeldiricileri, D6-060 açıklaması.
 - K08 uygulandı: D7-061 kökü Tebliğ adıyla, D8-034 çeldirici (Yolcu eşyası ambarı), D9-070 çeldirici (Karar 28/3'ün iki koşulu), D7-068 ilk boşluk GY 536/1'e taşındı.
+- K05 uygulandı: D7-039 GK 213/3 anahtarıyla yeniden kuruldu (hafıza tekrarı giderildi), D8-093 (C, D ve A şıkları), D9-045 (öncül II), D9-043 (D şıkkı), D10-037 (E şıkkı).
