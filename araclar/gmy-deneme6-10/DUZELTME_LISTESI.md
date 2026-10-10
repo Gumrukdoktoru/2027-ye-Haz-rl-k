@@ -17,3 +17,10 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 
 ## V3 (K03 + K14)
 - Bulgular yazarlarına iletildi: K03 → D7-030, D8-041, D8-064, D9-035, D10-046, D10-048, D7-035/D9-031 künye; K14 → D6-064, D6-068, D8-053, D8-059, D10-076.
+- K03 uygulandı: D7-030 ("1 yıl" → "30 iş günü"), D8-041 (kök GİKY + DİR Tebliğine daraltıldı; vize hükmü kanıta eklendi), D8-064 (2023/64 şık kopyaları değiştirildi), D9-035 (2024/35 şık kopyası öncüller değiştirildi), D10-046 (çift doğru riskli çeldirici), D10-048 (GY 38 yerine OKS Tebliği m.54/2), D7-035/D9-031 (Karar künyesi).
+- K14 uygulandı: D6-064 (kök, D6-030'un cevabını vermiyor), D6-068 (iki zayıf şık), D8-053 ("temel tutar" kaldırıldı), D8-059 (kapsam dışı Tebliğ atfı açıklamadan çıkarıldı), D10-076 (Genelge farkı nedeniyle tartışmalı öncül değiştirildi).
+
+## V5 (K06 + K07)
+- D7-058 (K07): Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) dış ticaret mevzuatı, GMY kapsamı dışı → Gümrük Yönetmeliği m.327/1'e taşınacak.
+- D9-054 (K07) I. öncül netleştirilecek; D6-044 açıklamasındaki kaynak dışı yorum silinecek.
+- D9-092, D10-075 (K06): çıkmış soruların güzergâh kurgusu tekrarlanmayacak şekilde değiştirilecek.
