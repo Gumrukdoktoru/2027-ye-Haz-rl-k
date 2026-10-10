@@ -92,3 +92,5 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K01 (T2) uygulandı: D6-026 GY 3/1-d (kayıt yoluyla rejime geçiş), D7-079 GY 563/1, 563/7, 564/1-2 (ticari sırlar), D8-063 GY 3/1-h (gümrük işlemlerinin bitirilmesi).
 - K03 (T2) uygulandı: D9-033 GY 37/4-b (önemli yedek parçalar), D9-036 GY 205/1-5-6 + 181/7-8, D10-047 GK 17/b-c.
 - K09 (T2) uygulandı: D6-063 cevap GK 177/1-k'ye taşındı (GMY-088 kuralı çıkarıldı; D6-092 ipucu giderildi), D9-096 Tasfiye Yön. 59/2-c, e, g, h.
+- K14 (T2) uygulandı: D10-069 GK 170'e taşındı (GMY3-077 kilidi kaldırıldı).
+- K10 (T2) uygulandı: D9-083 Tahsilat Tebliği m.33/1'e taşındı (GMY2-032 kilidi kaldırıldı); aynı denemedeki D9-084'ün ipucu veren doğru şıkkı GY 506 ile değiştirildi.
