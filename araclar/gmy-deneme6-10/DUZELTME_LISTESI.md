@@ -58,3 +58,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K01 uygulandı: D6-022 öncül III GY 561/4-c'ye taşındı (K13 D8-089 ile çakışma giderildi).
 - K15 uygulandı: D9-075 ve D7-093 (çift doğru giderildi), D10-098 (OKS m.41/2; K10 D9-077 çakışması giderildi), D7-071 (GMY4-047 çakışan çeldiriciler), D8-086 (yalnızca; sapma), D6-082 (kök terimi; sapma), D7-043 (madde), D8-096 çeldirici, BTB kısaltması açıldı.
 - GTR uygulandı: D10-005 (GMY2-002 çekirdeği şıklardan çıkarıldı), D10-003 (kök), D9-001 (açıklama kitaptaki örneklere dayandırıldı), D8-005 (şık kurgusu 2023/5'ten ayrıştırıldı).
+- K13 uygulandı: D7-087 (öncüller), D7-100 (öncül IV ve V), D7-063 (kök), D8-027 (E şıkkı; AYM iptali), D6-083/D10-024 (Kanundaki ifade), D6-077 (tırnak kaldırıldı), D6-048 (GK 241/1'e dayanan çeldirici değiştirildi).
