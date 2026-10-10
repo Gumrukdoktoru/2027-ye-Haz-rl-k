@@ -106,3 +106,7 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K07 uygulandı: D10-062 öncül I GY 365/1 (GMY5-062 çakışması giderildi).
 - K05 uygulandı: D7-039 cevabı GK 212'ye taşındı (GMY3-040 çakışması giderildi); C şıkkı Tahsilat Tebliği 31/5 (D7-089 ile temas giderildi).
 - K11 uygulandı: D7-042 GY 181/4-e ve 181/4-ç'ye taşındı (GMY3-095 çakışması giderildi); D10-043 çeldiricisi değiştirildi.
+
+## Son doğrulama (S2)
+- K12 uygulandı: D7-026 5607 m.17/2 ikinci cümleye (ağır ceza mahkemesi) taşındı; 2022/21 E şıkkıyla aynılık giderildi.
+- K13 uygulandı: D7-100 öncül II YKTS Tebliği 3/4, 7/3'e taşındı; 2021/22 doğru cevabıyla aynılık giderildi.
