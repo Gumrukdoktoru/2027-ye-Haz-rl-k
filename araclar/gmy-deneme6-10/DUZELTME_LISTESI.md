@@ -37,3 +37,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 
 ## V6 (K08 + K09)
 - Yazarlara iletildi: K08 → D7-061 (kök dayanak Tebliğ adıyla), D8-034 (savunulabilir çeldirici), D9-070 (çift doğru riski), D7-068 (isteğe bağlı); K09 → D6-063 (çıkmış 2021/63 kök/kurgu kopyası), D7-084 (kök–cevap uyumsuzluğu), D6-034 (D6-063'ü ele veren çeldirici), D6-055 (çıkmış şıkkıyla aynı bent), D6-060 (açıklama).
+- K14 uygulandı: D9-097 GY 469/2'ye taşındı (K04 D7-082 ile tekrar giderildi); D6-059 öncül III netleştirildi.
