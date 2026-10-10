@@ -63,3 +63,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 ## V7 (K10 + GMA)
 - Yazarlara iletildi: K10 → D7-029, D7-088, D10-027, D10-030 (Deneme 2 eşleştirme satırlarında sınanmış hükümler), D8-077, D10-026 (kısmi tekrar), D9-084 (K05 D10-040 ile GY 509 ortak); GMA → D8-009, D8-010, D9-006, D9-007, D10-006, D10-007, D10-010 (çıkmış soru kurgusu yalnız sayılar değiştirilerek tekrarlanmıştı) ve D8-010 zayıf çeldirici.
 - D9-077 ↔ D10-098 ve D9-080 ↔ D7-087 çakışmaları karşı taraftaki düzeltmelerle (K15, K13) giderilmişti.
+- GMA uygulandı: D8-009, D8-010, D9-006, D9-007, D10-006, D10-007, D10-010 yeni bağlamla yeniden yazıldı (sonuçlar Python ile doğrulandı); D8-010 çeldirici; D7-009 öncül I.
