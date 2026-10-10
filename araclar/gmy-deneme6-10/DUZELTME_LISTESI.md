@@ -94,3 +94,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K09 (T2) uygulandı: D6-063 cevap GK 177/1-k'ye taşındı (GMY-088 kuralı çıkarıldı; D6-092 ipucu giderildi), D9-096 Tasfiye Yön. 59/2-c, e, g, h.
 - K14 (T2) uygulandı: D10-069 GK 170'e taşındı (GMY3-077 kilidi kaldırıldı).
 - K10 (T2) uygulandı: D9-083 Tahsilat Tebliği m.33/1'e taşındı (GMY2-032 kilidi kaldırıldı); aynı denemedeki D9-084'ün ipucu veren doğru şıkkı GY 506 ile değiştirildi.
+- K12 (T2) uygulandı: D6-100 5607 m.4/5 ve 5/2-b üzerine kuruldu (m.4/4 artırım adımı çıkarıldı; 24 ay).
