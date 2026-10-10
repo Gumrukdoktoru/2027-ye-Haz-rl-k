@@ -75,3 +75,15 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K14 (T1) uygulandı: D10-065 öncül IV GY 482/3 (D6-070 çakışması giderildi; GY 482/2 hafızadaki GMY-071 olduğu için kullanılmadı), D9-049 satır 2 GY 158/3 (D9-045 ipucu giderildi).
 - K05 (T1/V10) uygulandı: D10-051 GK 104/3'e taşındı (D6-027 ile GK 15/4 tekrarı giderildi), D10-040 öncül IV GK 121/1-b ve 121/2, D7-038 öncül IV İRK 10/4.
 - K03 (T1) uygulandı: D10-039 YGM Tebliği m.11/1-e menşe tespit kodlarına (GK 3/6-b tekrarı ve D10-055 ipucu giderildi), D8-042 OKS Tebliği m.55-57 basitleştirilmiş A.TR'ye taşındı (D9-099 ile GY 432/1 çakışması giderildi).
+
+## T2 (önceki 515 soruyla tekrar)
+- 422 aday çiftin 28'i sorunlu (12 TEKRAR, 16 KISMİ) + listedışı 8. Yazarlara iletildi:
+  - K01: D6-026 (GMY2-095/GMY5-066), D8-063 (GMY2-095), D7-079 (GMY3-021)
+  - K13: D6-076 (GMY4-026), D7-100 (GMY2-054), D8-028 (GMY5-025), D7-063 (GMY4-021), D9-085 (GMY-026/024), D9-094 (bileşik, düşük öncelik)
+  - K03: D9-033 (GMY3-048), D9-036 (GMY5-069), D10-047 (GMY3-045)
+  - K04: D7-032 (GMY5-053/GMY-087; ayrıca D10-094 ile aynı kilit), D9-086 (GMY4-059)
+  - K05: D9-045 (GMY-067), D7-038 (GMY2-069/GMY5-052)
+  - K11: D9-032 (GMY-096), D10-095 (GMY4-083), D7-042 (GMY3-037), D7-070 (GMY5-076), D10-032 (bileşik)
+  - K09: D6-063 (GMY-088), D9-096 (GMY3-100)
+  - K02: D6-031 (GMY3-035), D10-034 (GMY2-024), D7-099 (GMY2-023), D8-047 (GMY5-034), D9-024 (GMY4-035 çeldiricileri), D6-029 (bileşik)
+  - K14: D10-069 (GMY3-077); K10: D9-083 (GMY2-032); K12: D6-100 (GMY2-042)
