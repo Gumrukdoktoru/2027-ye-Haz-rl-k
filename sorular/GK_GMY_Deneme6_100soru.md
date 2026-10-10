@@ -784,11 +784,11 @@ C) Kanuni faiz
 D) Gecikme faizi  
 E) Usulsüzlük cezası  
 
-**79.** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre gümrük vergilerinin tahakkuku ve tebliğine ilişkin aşağıdaki ifadeler veriliyor:
+**79.** Gümrük mevzuatına göre vergilerin tahakkuku ve kayda geçirilmesine ilişkin şu ifadeler veriliyor:
 
 I. Beyannamede düzeltme gerektiren tespitler müzekkereyle idare amirine sunulur; olur üzerine yeni tahakkuk tebliğ edilir.  
-II. Dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye tebliğ edildiği tarihte tahsil edilebilir hâle gelir.  
-III. Vergiler, tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, bu mümkün olmazsa ilgili belge üzerinde tebliğ edilir.  
+II. Gümrük Vergileri Tahakkukunu İzleme Defteri kâğıt ortamında tutulur; vergilerin bilgisayara kaydedilmesi hâlinde bilgisayar çıktıları bu defterin yerine geçmez.  
+III. Düzenlenen gümrük vergisi ve para cezası kararları, tarih sırasına göre numara verilerek ilgili programlara kaydedilir.  
 IV. Teminat sağlanırsa, aynı kişiye belirli aralıklarla teslim edilen aynı cins eşyanın vergileri altmış günü geçmeyen bir sürede tahakkuk ettirilebilir.  
 Yukarıdaki ifadelerden hangileri <u>**yanlıştır**</u>?  
 
@@ -815,10 +815,10 @@ E) I, II ve III
 **81.** Gümrük mevzuatına göre gümrük vergilerinin tahakkuku ve ödenmesine ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Basitleştirilmiş usule göre tescil edilen beyannamede eksik bilgi veya belgeler gümrük idaresince verilen süre içinde tamamlanmasa dahi, beyanname kapsamı eşyanın ödenmesi gereken vergileri ertelenir.  
-B) Gümrük vergileri Türk Lirası olarak ödenir; bu ödeme ise 213 sayılı Vergi Usul Kanununda öngörülen tahsil usullerine göre ilgili gümrük idaresince yapılır.  
+B) 6183 sayılı Kanun doğrultusunda, gümrük idarelerince verilen idari para cezalarına da vergilerde olduğu gibi gecikme zammı oranında faiz ve gecikme zammı uygulanır.  
 C) Geçici anti-damping vergisi veya fark giderici vergi uygulandığı hâllerde hesaplanan vergiler, Gümrük Vergileri Tahakkukunu İzleme Defterine kaydedilmeyip ayrı bir kayıtta izlenir.  
 D) Ödeme aşamasına gelmiş ancak henüz ödenmemiş gümrük vergileri ile sonradan noksan alındığı belirlenen vergilerin 6183 sayılı Kanuna göre ertelenmesine ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.  
-E) Yükümlü, kendisine tebliğ edilen vergi tutarının tamamını veya bir kısmını verilen ödeme süresinin bitimini beklemeksizin ödeyebilir; gümrük vergileri yetki verilen bankalar aracılığıyla da tahsil edilebilir.  
+E) Gümrük vergileri Türk Lirası olarak ve 6183 sayılı Kanunda öngörülen usullere göre ödenir; söz konusu vergiler gümrük idarelerinin yanı sıra yetki verilen bankalar aracılığıyla da tahsil edilebilmektedir.  
 
 **82.** Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre, kamu alacağını süresinde ödememe ihlali üç yıl içinde tekrarlanırsa kısmi teminat yetkisi **ne kadar süre** askıya alınır?
 
@@ -2492,11 +2492,11 @@ E) Usulsüzlük cezası
 
 **SORU 79.** [T1+T2 – Zor] · Model soru: 2021/79
 
-4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre gümrük vergilerinin tahakkuku ve tebliğine ilişkin aşağıdaki ifadeler veriliyor:
+Gümrük mevzuatına göre vergilerin tahakkuku ve kayda geçirilmesine ilişkin şu ifadeler veriliyor:
 
 I. Beyannamede düzeltme gerektiren tespitler müzekkereyle idare amirine sunulur; olur üzerine yeni tahakkuk tebliğ edilir.  
-II. Dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye tebliğ edildiği tarihte tahsil edilebilir hâle gelir.  
-III. Vergiler, tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, bu mümkün olmazsa ilgili belge üzerinde tebliğ edilir.  
+II. Gümrük Vergileri Tahakkukunu İzleme Defteri kâğıt ortamında tutulur; vergilerin bilgisayara kaydedilmesi hâlinde bilgisayar çıktıları bu defterin yerine geçmez.  
+III. Düzenlenen gümrük vergisi ve para cezası kararları, tarih sırasına göre numara verilerek ilgili programlara kaydedilir.  
 IV. Teminat sağlanırsa, aynı kişiye belirli aralıklarla teslim edilen aynı cins eşyanın vergileri altmış günü geçmeyen bir sürede tahakkuk ettirilebilir.  
 Yukarıdaki ifadelerden hangileri <u>**yanlıştır**</u>?  
 
@@ -2507,8 +2507,8 @@ D) III ve IV
 E) I, II ve IV  
 
 ✅ **Doğru Cevap:** C  
-📖 **Açıklama:** Kanuna göre dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye değil gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hâle gelir; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Düzeltme gerektiren tespitlerin müzekkereyle idare amirine sunulmasına ilişkin I ile sistem üzerinden tebliğe ilişkin III ifadeleri doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 196, 197/5; GY 489/2, 490/1)  
-⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.196, 197/5; Gümrük Yönetmeliği m.489/2, 490/1  
+📖 **Açıklama:** Yönetmeliğe göre Gümrük Vergileri Tahakkukunu İzleme Defteri kâğıt ortamında değil elektronik ortamda tutulur ve Kanuna göre bilgisayar çıktıları bu defterin yerine geçer; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Düzeltme gerektiren tespitlerin müzekkereyle idare amirine sunulmasına ilişkin I ile kararların tarih sırasına göre numaralanıp programlara kaydedilmesine ilişkin III doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 195/1, 196; GY 489/1, 490/1; Tahsilat Seri No:2 m.14/2)  
+⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.195/1, 196; Gümrük Yönetmeliği m.489/1, 490/1; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.14/2  
 🔍 **Şık Uzunluk Kontrolü:** A:9 B:7 C:8 D:9 E:11 karakter → Denge: UYGUN
 
 ---
@@ -2541,15 +2541,15 @@ E) I, II ve III
 Gümrük mevzuatına göre gümrük vergilerinin tahakkuku ve ödenmesine ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Basitleştirilmiş usule göre tescil edilen beyannamede eksik bilgi veya belgeler gümrük idaresince verilen süre içinde tamamlanmasa dahi, beyanname kapsamı eşyanın ödenmesi gereken vergileri ertelenir.  
-B) Gümrük vergileri Türk Lirası olarak ödenir; bu ödeme ise 213 sayılı Vergi Usul Kanununda öngörülen tahsil usullerine göre ilgili gümrük idaresince yapılır.  
+B) 6183 sayılı Kanun doğrultusunda, gümrük idarelerince verilen idari para cezalarına da vergilerde olduğu gibi gecikme zammı oranında faiz ve gecikme zammı uygulanır.  
 C) Geçici anti-damping vergisi veya fark giderici vergi uygulandığı hâllerde hesaplanan vergiler, Gümrük Vergileri Tahakkukunu İzleme Defterine kaydedilmeyip ayrı bir kayıtta izlenir.  
 D) Ödeme aşamasına gelmiş ancak henüz ödenmemiş gümrük vergileri ile sonradan noksan alındığı belirlenen vergilerin 6183 sayılı Kanuna göre ertelenmesine ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.  
-E) Yükümlü, kendisine tebliğ edilen vergi tutarının tamamını veya bir kısmını verilen ödeme süresinin bitimini beklemeksizin ödeyebilir; gümrük vergileri yetki verilen bankalar aracılığıyla da tahsil edilebilir.  
+E) Gümrük vergileri Türk Lirası olarak ve 6183 sayılı Kanunda öngörülen usullere göre ödenir; söz konusu vergiler gümrük idarelerinin yanı sıra yetki verilen bankalar aracılığıyla da tahsil edilebilmektedir.  
 
 ✅ **Doğru Cevap:** E  
-📖 **Açıklama:** Kanuna göre yükümlü, vergi tutarının tamamını veya bir kısmını verilen sürenin bitimini beklemeksizin ödeyebilir; vergiler yetki verilen bankalar aracılığıyla da tahsil edilebilir. Basitleştirilmiş usulde eksiklikler verilen sürede tamamlanmazsa vergiler ertelenmez; ödeme 213 sayılı Kanuna değil 6183 sayılı Kanunda öngörülen usullere göre yapılır, anti-damping ve fark giderici vergiler de deftere kaydedilip özel durumları belirtilir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 195/1, 198/3, 199, 200; GY 492)  
-⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.195/1, 198/3, 199, 200; Gümrük Yönetmeliği m.492  
-🔍 **Şık Uzunluk Kontrolü:** A:200 B:155 C:180 D:203 E:208 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
+📖 **Açıklama:** Kanuna göre gümrük vergileri Türk Lirası olarak ödenir, bu ödeme 6183 sayılı Kanunda öngörülen usullere göre yapılır ve vergiler yetki verilen bankalar aracılığıyla da tahsil edilebilir. Basitleştirilmiş usulde eksiklikler verilen sürede tamamlanmazsa vergiler ertelenmez; gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanmaz, anti-damping ve fark giderici vergiler de deftere kaydedilip özel durumları belirtilir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 195/1, 199, 200; GY 492; Tahsilat Seri No:2 m.15/5)  
+⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.195/1, 199, 200; Gümrük Yönetmeliği m.492; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.15/5  
+🔍 **Şık Uzunluk Kontrolü:** A:200 B:164 C:180 D:203 E:204 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
 
 ---
 
@@ -3011,7 +3011,7 @@ T1: 3 · T2: 1 · T3: 1 · T4: 9 · T6: 2 · T9: 4
 - Madde numarası kökte ve şıkta kullanılmadı (Prompt 3 §7); dayanak her sorunun Yasal Dayanak satırında ve açıklama sonundaki (MD …) parantezinde verildi. 2009/15481 sayılı Karar köklerinde kurum kalıbı kullanıldı.
 - Kök uzunluğu: master §4.1 bantları (%30 · %40 · %20 · %10) hedeflendi; ancak kökün mevzuat adı + hükmün konusu ile açılması zorunluluğu (Prompt 3 §8, CLAUDE.md) özellikle uzun tebliğ adlarında kısa kökleri 121–150 karaktere taşıdı. Bu nedenle ≤120 bandı hedefin altında, >700 bandı hedefin üstündedir; gerçek dağılım Set Sonu tablosundadır.
 - Kapsam: gümrük bölümü Gümrük Yönetmeliği m.567/2 ile sınırlı (Gümrük Kanunu ve ikincil düzenlemeleri, 5607 sayılı Kanun ve ikincil düzenlemeleri; GMY'de fiilen sorulan İthalat Rejimi Kararı, DİR Tebliği, Sınır Ticareti Kararı). Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) gibi dış ticaret düzenlemelerine dayanan soru bırakılmadı. GK 241/1'de AYM 26.03.2026 kararıyla iptal edilen ibareye dayanan hüküm kullanılmadı. Tek bilgi kaynağı depodaki mevzuat dosyaları ve genel kültür kitabıdır.
-- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → düzeltilen 140 sorunun son bağımsız doğrulaması. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
+- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → doğrulama sonrası değişen 140 sorunun 3 bağımsız son doğrulayıcıyla yeniden kontrolü (bulunan sorunlar giderildi). 500 sorunun hiçbirinde doğrulama sonunda yanlış cevap anahtarı kalmadı. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
 - Bu denemede tip planından sapma: T3 -1, T7 +1 (D6-039: kıymet bölümündeki bütün süre/eşik hükümleri çıkmış soruda ya da hafızada olduğundan süre sorusu yerine makam sorusu yazıldı).
 - Plan kısıtından gerekçeli sapmalar: 39. soru — Kıymet bölümündeki süre/eşik hükümleri (90 gün, bir yıl, %5, %10-%3, 26. gün) çıkmışta veya hafızada; T3 yerine aynı bölümde T7; 82. soru — Kök bandı: ihlalin Yönetmelikteki adlandırması (kamu alacağını süresinde ödememe, üç yıl içinde tekrar) ile kök 150 karakteri aşıyor; 91. soru — kök, yönetmeliğin tam adı nedeniyle 120 karakteri aşıyor; 95. soru — kök, yönetmeliğin tam adı nedeniyle 120 karakteri aşıyor.
 
@@ -3096,9 +3096,9 @@ GMY6-075 | Geçici İthalat | 4458 sayılı Gümrük Kanunu m.129/2 | Ayniyet te
 GMY6-076 | Gümrük Müşavirliği | Gümrük Yönetmeliği m.563/8-9 | Beyan için üçüncü kişiden bilişim hizmeti alan müşavir, veri güvenliği ve sır saklamayı açıkça içeren yazılı sözleşme yapana kadar dolaylı temsil hizmeti veremez. | T8 | Z | D | GMY-S6
 GMY6-077 | Gümrük Müşavirliği | Gümrük Yönetmeliği m.573/1 | Sınavı kazananlar belgelerle ilgili Gümrük Müşavirleri Derneğine başvurur; belgelerin teslimini müteakip fotoğraflı izin belgesini Müsteşarlık düzenler. | T5 | OÜ | E | GMY-S6
 GMY6-078 | Teminat ve Faiz | 4458 sayılı Gümrük Kanunu m.244/5; Gümrük Uzlaşma Yönetmeliği m.24/3 | Uzlaşılan vergilere yükümlülük başlangıcından uzlaşma tutanağının imzalandığı tarihe kadar gecikme zammı oranında gecikme faizi uygulanır. | T6 | OÜ | D | GMY-S6
-GMY6-079 | Tahakkuk-Tebliğ-Ödeme | 4458 sayılı Gümrük Kanunu m.196, 197/5; Gümrük Yönetmeliği m.489/2, 490/1 | Dava hâlinde vergiler aleyhe kararın gümrük idaresine tebliğiyle tahsil edilebilir olur; periyodik tahakkuk süresi otuz günü geçemez. | T1+T2 | Z | C | GMY-S6
+GMY6-079 | Tahakkuk-Tebliğ-Ödeme | 4458 sayılı Gümrük Kanunu m.195/1, 196; Gümrük Yönetmeliği m.489/1, 490/1; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.14/2 | Tahakkuk İzleme Defteri elektronik ortamda tutulur, bilgisayar çıktıları defter yerine geçer; aynı cins eşyada dönemsel tahakkuk süresi otuz günü geçemez. | T1+T2 | Z | C | GMY-S6
 GMY6-080 | Geri Verme-Kaldırma | Gümrük Yönetmeliği m.511/2, 511/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.3/1-ğ, 34/2 | Muhbirlere dağıtılan para cezalarından geri verilmesine karar verilenler kararın verildiği tarihten itibaren bir ay içinde geri istenir. | T1+T2 | OÜ | A | GMY-S6
-GMY6-081 | Tahakkuk-Tebliğ-Ödeme | 4458 sayılı Gümrük Kanunu m.195/1, 198/3, 199, 200; Gümrük Yönetmeliği m.492 | Yükümlü vergi tutarının tamamını veya bir kısmını süre bitimini beklemeden ödeyebilir; vergiler yetkili bankalar aracılığıyla da tahsil edilebilir. | T4 | OÜ | E | GMY-S6
+GMY6-081 | Tahakkuk-Tebliğ-Ödeme | 4458 sayılı Gümrük Kanunu m.195/1, 199, 200; Gümrük Yönetmeliği m.492; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.15/5 | Gümrük vergileri Türk Lirası olarak 6183 sayılı Kanun usullerine göre ödenir; yetki verilen bankalar aracılığıyla da tahsil edilebilir. | T4 | OÜ | E | GMY-S6
 GMY6-082 | Yetkilendirilmiş Yükümlü | Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği m.27/1, 30/1, 31/1 | Kamu alacağını ödememe ihlali askı sonrası üç yıl içinde ikinci kez tekrarlanırsa kısmi teminat yetkisi borç ödendikten sonra iki yıl askıya alınır. | T3 | OÜ | D | GMY-S6
 GMY6-083 | Gümrük Müşavirliği | 4458 sayılı Gümrük Kanunu m.227/1-f, h; 227/2-a, b | Gümrük idaresinde 15 yıl çalışıp ayrılanlar staj koşulu aranmaksızın GMY sınavına girer; sınav ve staj birlikte yalnız 3 yılı muayene memurluğu vb. geçenlerde aranmaz. | T1 | Z | C | GMY-S6
 GMY6-084 | Gümrük Müşavirliği | Gümrük Yönetmeliği m.563/2 | GM bilgi-belgelerinde değişiklik yoksa durum her yılın ikinci ayı içinde yazıyla dernekler vasıtasıyla bağlı bulunulan başmüdürlüğe bildirilir. | T8 | OÜ | B | GMY-S6

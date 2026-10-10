@@ -317,7 +317,7 @@ C) 80.000 TL
 D) 160.000 TL  
 E) 240.000 TL  
 
-**34.** Gümrük Yönetmeliğinin gümrük antrepolarına ilişkin hükümlerinde, “serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler” için ayrı bir nitelendirme yapılmış ve bunların izin belgesinde tipinin gösterileceği belirtilmiştir.
+**34.** Gümrük Yönetmeliğine göre, “serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler” için ayrı bir nitelendirme yapılmıştır.
 
 Buna göre yukarıda belirtilen yerler aşağıdakilerden hangisi sayılır?  
 
@@ -608,7 +608,7 @@ E) Eşyaya ait vergilerin kaldırılması
 A) Kanunda sayılan ve tümüyle o ülkede elde edildiği kabul edilen eşyadan üretimin herhangi bir aşamasında elde edilen eşya bu kapsamdadır; ancak bunların türevlerinden elde edilen eşya tümüyle elde edilmiş sayılmaz.  
 B) Söz konusu ülkede kayıtlı ya da tescilli olan ve o ülkenin bandırasını taşıyan fabrika gemilerde, o ülke araçlarınca kara suları dışındaki denizlerden çıkartılan av ürünlerinden elde edilen eşya tümüyle o ülkede elde edilmiş sayılır.  
 C) Tümüyle bir ülkede elde edilen veya üretilen eşya o ülke menşelidir; bu ifadenin uygulanmasında ülke kavramı o ülkenin kara sularını da kapsadığından, kara sularında avlanan ürünler de bu kapsamdadır.  
-D) O ülkede yetiştirilen canlı hayvanlardan elde edilen ürünler, tümüyle o ülkede elde edilen veya üretilen eşya ifadesi kapsamında değerlendirilir ve bu ürünler o ülke menşeli kabul edilir.  
+D) O ülkenin kara suları dışındaki denizlerin dibinden veya deniz dibindeki toprağın altından, münhasır işletme hakkına sahip olarak o ülke tarafından çıkartılan ürünler tümüyle o ülkede elde edilmiş sayılır.  
 E) Sadece hammadde elde etmek için o ülkede toplanan, imalat işlemlerinden veya kullanım kalıntılarından elde edilen atık ve artıklar da tümüyle o ülkede elde edilen veya üretilen eşya olarak kabul edilir.  
 
 **65.** Dahilde İşleme Rejimi Tebliğine göre şartlı muafiyet sisteminde;
@@ -780,7 +780,7 @@ E) I, III ve IV
 
 A) Tahlil edilen eşya gümrük gözetiminden çıkmamış ve başka eşyayla karıştırılmamış veya birleştirilmemişse yeniden tahlile gönderilmez.  
 B) Ek-23 listesindeki eşyaya ait beyanname belge kontrolü için muayene ile görevli memura gelmişse eşya laboratuvar tahliline gönderilmez.  
-C) Beyanın kontrol türü sistemce kırmızı hat tam muayene olarak belirlenirse bir yıl önceki tahlil raporuna itibar edilmez.  
+C) Beyanın kontrol türü kırmızı hat tam muayene olarak belirlenirse bir yıl önceki tahlil raporuna itibar edilmez.  
 D) Dökme gelen 28 ve 29 uncu fasıl eşyasında, ithalatta süreklilik varsa bir yıl öncesine dayanan tahlil raporuna itibar edilir.  
 E) Kolaylıkların suistimalini önlemek için gerekli görülen durumlarda eşya yine de tahlile gönderilebilir.  
 
@@ -1614,7 +1614,7 @@ E) 240.000 TL
 
 **SORU 34.** [T6 – Orta Üstü] · Model soru: 2023/34
 
-Gümrük Yönetmeliğinin gümrük antrepolarına ilişkin hükümlerinde, “serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler” için ayrı bir nitelendirme yapılmış ve bunların izin belgesinde tipinin gösterileceği belirtilmiştir.
+Gümrük Yönetmeliğine göre, “serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler” için ayrı bir nitelendirme yapılmıştır.
 
 Buna göre yukarıda belirtilen yerler aşağıdakilerden hangisi sayılır?  
 
@@ -2175,13 +2175,13 @@ E) Eşyaya ait vergilerin kaldırılması
 A) Kanunda sayılan ve tümüyle o ülkede elde edildiği kabul edilen eşyadan üretimin herhangi bir aşamasında elde edilen eşya bu kapsamdadır; ancak bunların türevlerinden elde edilen eşya tümüyle elde edilmiş sayılmaz.  
 B) Söz konusu ülkede kayıtlı ya da tescilli olan ve o ülkenin bandırasını taşıyan fabrika gemilerde, o ülke araçlarınca kara suları dışındaki denizlerden çıkartılan av ürünlerinden elde edilen eşya tümüyle o ülkede elde edilmiş sayılır.  
 C) Tümüyle bir ülkede elde edilen veya üretilen eşya o ülke menşelidir; bu ifadenin uygulanmasında ülke kavramı o ülkenin kara sularını da kapsadığından, kara sularında avlanan ürünler de bu kapsamdadır.  
-D) O ülkede yetiştirilen canlı hayvanlardan elde edilen ürünler, tümüyle o ülkede elde edilen veya üretilen eşya ifadesi kapsamında değerlendirilir ve bu ürünler o ülke menşeli kabul edilir.  
+D) O ülkenin kara suları dışındaki denizlerin dibinden veya deniz dibindeki toprağın altından, münhasır işletme hakkına sahip olarak o ülke tarafından çıkartılan ürünler tümüyle o ülkede elde edilmiş sayılır.  
 E) Sadece hammadde elde etmek için o ülkede toplanan, imalat işlemlerinden veya kullanım kalıntılarından elde edilen atık ve artıklar da tümüyle o ülkede elde edilen veya üretilen eşya olarak kabul edilir.  
 
 ✅ **Doğru Cevap:** A  
-📖 **Açıklama:** Kanuna göre, tümüyle bir ülkede elde edilen eşya olarak sayılanlardan üretimin herhangi bir aşamasında elde edilen eşya ile bunların türevlerinden elde edilen eşya da tümüyle o ülkede elde edilmiş sayılır; türevlerin kapsam dışında bırakılması yanlıştır. O ülkenin kayıtlı ve bandıralı fabrika gemilerinde, o ülke araçlarınca kara suları dışından çıkartılan av ürünlerinden elde edilen eşya, yetiştirilen hayvanlardan elde edilen ürünler ile sadece hammadde elde etmek için toplanan atık ve artıklar Kanunda açıkça sayılmıştır; ülke kavramı kara sularını da kapsar. Bu nedenle doğru cevap A seçeneğidir. (MD GK 18/1-3)  
+📖 **Açıklama:** Kanuna göre, tümüyle bir ülkede elde edilen eşya olarak sayılanlardan üretimin herhangi bir aşamasında elde edilen eşya ile bunların türevlerinden elde edilen eşya da tümüyle o ülkede elde edilmiş sayılır; türevlerin kapsam dışında bırakılması yanlıştır. O ülkenin kayıtlı ve bandıralı fabrika gemilerinde, o ülke araçlarınca kara suları dışından çıkartılan av ürünlerinden elde edilen eşya, münhasır işletme hakkıyla kara suları dışındaki deniz dibinden çıkartılan ürünler ile sadece hammadde elde etmek için toplanan atık ve artıklar Kanunda açıkça sayılmıştır; ülke kavramı kara sularını da kapsar. Bu nedenle doğru cevap A seçeneğidir. (MD GK 18/1-3)  
 ⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.18/1-3  
-🔍 **Şık Uzunluk Kontrolü:** A:213 B:233 C:200 D:187 E:202 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:213 B:233 C:200 D:205 E:202 karakter → Denge: UYGUN
 
 ---
 
@@ -2491,14 +2491,14 @@ Gümrük Yönetmeliğine göre, laboratuvar tahliline tabi eşyanın tahlile gö
 
 A) Tahlil edilen eşya gümrük gözetiminden çıkmamış ve başka eşyayla karıştırılmamış veya birleştirilmemişse yeniden tahlile gönderilmez.  
 B) Ek-23 listesindeki eşyaya ait beyanname belge kontrolü için muayene ile görevli memura gelmişse eşya laboratuvar tahliline gönderilmez.  
-C) Beyanın kontrol türü sistemce kırmızı hat tam muayene olarak belirlenirse bir yıl önceki tahlil raporuna itibar edilmez.  
+C) Beyanın kontrol türü kırmızı hat tam muayene olarak belirlenirse bir yıl önceki tahlil raporuna itibar edilmez.  
 D) Dökme gelen 28 ve 29 uncu fasıl eşyasında, ithalatta süreklilik varsa bir yıl öncesine dayanan tahlil raporuna itibar edilir.  
 E) Kolaylıkların suistimalini önlemek için gerekli görülen durumlarda eşya yine de tahlile gönderilebilir.  
 
 ✅ **Doğru Cevap:** D  
 📖 **Açıklama:** Süreklilik arz eden ithalatta bir yıl öncesine dayanan tahlil raporuna itibar edilmesi kolaylığı, dökme gelen 28 ve 29 uncu fasıl eşyası gibi zorunlu tahlil eşyasını kapsamaz. Tahlil sonrası gümrük gözetiminden çıkmamış ve karıştırılmamış eşyanın yeniden tahlile gönderilmemesi, belge kontrolüne gelen Ek-23 eşyasının tahlile gönderilmemesi, kırmızı hat tam muayenede kolaylıktan yararlanılamaması ve suistimal hâlinde tahlile gönderilebilmesi Yönetmeliğe uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD GY 196/2, 196/4)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.196/2, m.196/4  
-🔍 **Şık Uzunluk Kontrolü:** A:133 B:135 C:120 D:125 E:103 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:133 B:135 C:111 D:125 E:103 karakter → Denge: UYGUN
 
 ---
 
@@ -3001,7 +3001,7 @@ T1: 4 · T3: 1 · T4: 12 · T5: 1 · T9: 2
 - Madde numarası kökte ve şıkta kullanılmadı (Prompt 3 §7); dayanak her sorunun Yasal Dayanak satırında ve açıklama sonundaki (MD …) parantezinde verildi. 2009/15481 sayılı Karar köklerinde kurum kalıbı kullanıldı.
 - Kök uzunluğu: master §4.1 bantları (%30 · %40 · %20 · %10) hedeflendi; ancak kökün mevzuat adı + hükmün konusu ile açılması zorunluluğu (Prompt 3 §8, CLAUDE.md) özellikle uzun tebliğ adlarında kısa kökleri 121–150 karaktere taşıdı. Bu nedenle ≤120 bandı hedefin altında, >700 bandı hedefin üstündedir; gerçek dağılım Set Sonu tablosundadır.
 - Kapsam: gümrük bölümü Gümrük Yönetmeliği m.567/2 ile sınırlı (Gümrük Kanunu ve ikincil düzenlemeleri, 5607 sayılı Kanun ve ikincil düzenlemeleri; GMY'de fiilen sorulan İthalat Rejimi Kararı, DİR Tebliği, Sınır Ticareti Kararı). Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) gibi dış ticaret düzenlemelerine dayanan soru bırakılmadı. GK 241/1'de AYM 26.03.2026 kararıyla iptal edilen ibareye dayanan hüküm kullanılmadı. Tek bilgi kaynağı depodaki mevzuat dosyaları ve genel kültür kitabıdır.
-- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → düzeltilen 140 sorunun son bağımsız doğrulaması. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
+- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → doğrulama sonrası değişen 140 sorunun 3 bağımsız son doğrulayıcıyla yeniden kontrolü (bulunan sorunlar giderildi). 500 sorunun hiçbirinde doğrulama sonunda yanlış cevap anahtarı kalmadı. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
 - Plan kısıtından gerekçeli sapmalar: 86. soru — T3 planı: BTB sayısal süreleri hafızada tükendiği için zaman ölçütü soruldu.
 
 ## HAFIZA GÜNCELLEMESİ

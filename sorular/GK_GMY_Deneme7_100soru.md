@@ -10,7 +10,7 @@
 | Süre | 150 dakika |
 | Kurallar | Prompt 4 (GMY Soru Motoru – Master) + Prompt 3 + CLAUDE.md |
 | Karşılama | 2022 sınavının 100 sorusunun her biri aynı sıradaki yeni soruyla birebir karşılandı (aynı bilgi alanı, farklı hüküm) |
-| Zorluk | Orta Üstü 66 · Zor 33 · Orta 1 |
+| Zorluk | Orta Üstü 65 · Zor 34 · Orta 1 |
 
 Her sorunun yalnız bir doğru cevabı vardır. Sorular çıkmış soruların kopyası değildir; aynı bilgi alanı farklı hükümle, kurum soru diliyle özgün olarak ölçülmüştür.
 
@@ -254,13 +254,13 @@ C) I, II ve III
 D) I, III ve IV  
 E) II, III ve IV  
 
-**26.** 5607 sayılı Kaçakçılıkla Mücadele Kanununa göre, bu Kanun kapsamına giren suçlar dolayısıyla açılan ve resmî belgede sahtecilik suçuyla bağlantılı olmayan davalar hangi mahkemelerde görülür?
+**26.** 5607 sayılı Kaçakçılıkla Mücadele Kanununa göre, bu Kanun kapsamına giren suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun da işlenmesi hâlinde açılan davalarda görevli mahkeme aşağıdakilerden hangisidir?
 
-A) Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen ağır ceza mahkemelerinde  
-B) Ticaret Bakanlığının teklifi üzerine Adalet Bakanlığınca belirlenen asliye ceza mahkemelerinde  
-C) Hâkimler ve Savcılar Kurulunun teklifi üzerine Adalet Bakanlığınca belirlenen ceza mahkemelerinde  
-D) Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde  
-E) Suçun işlendiği yerdeki gümrük idaresinin bulunduğu yer asliye ceza mahkemelerinde  
+A) Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca bu suçlar için belirlenmiş olan asliye ceza mahkemesi  
+B) Kaçakçılık suçu için belirlenen asliye ceza mahkemesi; bağlantılı sahtecilik suçu için ise ayrıca ağır ceza mahkemesi  
+C) Ticaret Bakanlığının teklifi üzerine Adalet Bakanlığınca belirlenen asliye ceza mahkemesi  
+D) Kanunda, bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâli için görevli kılınan ağır ceza mahkemesi  
+E) Suçun işlendiği yerdeki gümrük idaresinin bağlı olduğu yer sulh ceza hâkimliği  
 
 **27.** 5607 sayılı Kaçakçılıkla Mücadele Kanununa göre aşağıdakilerden hangisi kaçakçılık suçu kapsamında <u>**değildir**</u>?
 
@@ -392,9 +392,9 @@ E) I, III ve IV
 
 **39.** 4458 sayılı Gümrük Kanunu, Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergilerinin geri verilmesi veya kaldırılmasına ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
-A) Gümrük beyanından önce denenmek üzere geçici olarak teslim edilen eşyanın vergileri, kusur veya aykırılık deneme sırasında anlaşılmış olsa dahi, eşya ilk kullanım dışında kullanılmamışsa geri verilir veya kaldırılır.  
+A) Beyannameye dayanılarak ödenmiş gümrük vergileri, beyannamenin iptal edilmesi üzerine ilgilinin talebiyle geri verilir; bu istem, beyanname iptali için öngörülen sürelere bağlı olmaksızın üç yıl içinde yapılabilir.  
 B) Kanunda geçen geri verme deyimi ödenmiş olan gümrük vergilerinin tamamen veya kısmen geri ödenmesini, kaldırma deyimi ise henüz ödenmemiş olan gümrük vergilerinin tamamen veya kısmen alınmamasına karar verilmesini ifade eder.  
-C) Geri verme veya kaldırma başvurusu; vergileri ödeyen veya ödemekle yükümlü olan kişi, bunların temsilcileri ya da hak ve yükümlülükleri devralan kişi tarafından başvuru formu ile elektronik olarak yapılır.  
+C) Gümrük vergileri kapsamındaki katma değer vergisinin geri verme başvurusu da başvuru formu ile yapılır; indirim hakkına sahip olmayanlarda geri verme, vergi dairesinden alınacak belgeye istinaden yapılır.  
 D) Mavi ve yeşil hatta işlem görmüş beyannamelere ilişkin geri verme başvurularında yükümlü nezdinde ayrıca inceleme veya tespit gerekirse, bu tespit işlemleri yetkilendirilmiş gümrük müşavirlerine yaptırılabilir.  
 E) Nakden veya mahsup suretiyle geri verilmesine karar verilen gümrük vergileri, yükümlülerin dahili vergiler açısından gider kalemi olması nedeniyle yükümlünün bağlı bulunduğu vergi dairesine bildirilir.  
 
@@ -416,15 +416,15 @@ C) Risk - gerçekleşme sıklığını
 D) Risk analizi - sonuçlarının büyüklüğünü  
 E) Risk - ortaya çıkma ihtimalini  
 
-**42.** (K) Ticaret A.Ş. tarafından serbest dolaşıma giriş rejimi kapsamında ithal edilen ve vergileri ödenerek teslim alınan eşyanın, genel düzenleyici idari işlemle ithalinin yasaklanmış olduğu teslimden sonra yapılan kontrol sonucunda tespit edilmiştir. Gümrük idaresi, firmaya fark gümrük vergileri ile idari para cezasını tebliğ etmiştir; ancak yapılan araştırmada eşyanın firma tarafından yurt içinde satıldığı ve bulunamadığı anlaşılmıştır. Bu nedenle eşyanın mahrecine iadesi veya üçüncü ülkeye transiti de mümkün değildir.
+**42.** (K) Ticaret A.Ş., yurt dışından getirdiği ve ithali ilgili kurumun uygunluk belgesine tabi olan eşya için tam beyanlı yaygın basitleştirilmiş usulden yararlanmıştır. Firma, uygunluk belgesinin sonradan ibraz edileceğini beyannamenin 44 numaralı kutusuna kaydetmiş; serbest dolaşıma giriş beyannamesi tescil edilmiş ve eşya teslim alınarak firmanın deposuna götürülmüştür. İlgili kurumun beyanname tescilinden sonra firmanın deposunda yaptığı denetim olumsuz sonuçlanmış ve sonuç gümrük idaresine bildirilmiştir. İlgili kurumun düzenlemelerinde bu duruma ilişkin aksine bir hüküm bulunmamaktadır. Eşya, firmanın deposunda eksiksiz olarak bulunmaktadır.
 
-Buna göre, 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği uyarınca bulunamayan eşya hakkında yapılacak işlem aşağıdakilerden hangisidir?  
+Buna göre, Gümrük Yönetmeliği uyarınca eşya hakkında yapılacak işlem aşağıdakilerden hangisidir?  
 
-A) Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın, idari para cezasından ayrı olarak CIF kıymetinin kamuya geçirilmesine karar verilir.  
-B) Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın, idari para cezasından ayrı olarak gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.  
-C) Eşya bulunamadığından mahrecine iade veya transit mümkün olmadığından, yalnızca fark gümrük vergileri ile idari para cezası tahsil edilir ve başka bir işlem yapılmaz.  
-D) Eşyanın bulunamaması hâlinde gümrük vergileri tutarında ayrıca idari para cezası verilir ve bu tutar, otuz günlük iade süresinin bitiminde tahsil edilir.  
-E) Eşya bulunamadığından tebliğ edilmiş olan idari para cezası kaldırılır ve bunun yerine eşyanın gümrüklenmiş değerinin yarısının kamuya geçirilmesine karar verilir.  
+A) Beyanname iptal edilerek eşya, ilgili kurumun görüşü aranmaksızın yükümlünün seçeceği bir üçüncü ülkeye transit edilir ya da Türkiye Gümrük Bölgesinde yükümlüsünce imha edilir.  
+B) Beyanname iptal edilerek eşya, yükümlü talebi doğrultusunda mahrecine iade edilebilir, ilgili kurumun uygun görüşüyle üçüncü ülkeye transit edilebilir ya da gümrük idaresine terk edilebilir.  
+C) Beyanname iptal edilmeksizin eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir ve eşya, yükümlünün tasarrufunda bırakılarak bu şekilde tüm gümrük işlemleri sonlandırılır.  
+D) Beyanname iptal edilmeden eşya, denetim sonucunun yükümlüye bildirildiği tarihten itibaren yeni bir uygunluk belgesi temin edilinceye kadar gümrük gözetiminde bekletilir.  
+E) Eşya serbest dolaşıma girmiş sayıldığından beyanname iptal edilmez; eşya yükümlüde kalır ve olumsuz denetim sonucu yalnızca ilgili kurumun kayıtlarına işlenir.  
 
 **43.** 4458 sayılı Gümrük Kanununa göre, mahiyeti ve …… gerekçesiyle bazı eşyanın yararlanabileceği tercihli tarife uygulaması, Cumhurbaşkanınca belirlenen şartlara tabidir. Bu kapsamdaki tercihli tarife uygulaması ifadesi, tarife kotaları kapsamında olsa dahi, ithalat vergilerinde …… anlamına gelir.
 
@@ -478,7 +478,7 @@ C) Bu yöntemin uygulanması sırasında aynı eşyaya ilişkin birden fazla sat
 D) Gümrük kıymetinin tespitinde görünüşteki küçük farklılıklar, diğer hususlarda tanıma uyan eşyanın aynı eşya sayılmasını önler ve bu eşya aynı eşya olarak dikkate alınmaz.  
 E) Ticari düzey veya miktar farkı nedeniyle yapılacak düzeltme kıymet artışına da azalışına da yol açsa, makul olduğunun ve doğruluğunun kesin delillerle ispatı gerekir.  
 
-**49.** Gümrük Yönetmeliğine göre satış bedeli yönteminin uygulanmasında, “satış veya fiyatın, kıymeti belirlenmekte olan eşya bakımından kıymeti belirlenebilir mahiyette bir koşul veya edim konusu olması” durumunda, bu koşul veya edim alıcının kendi hesabına yaptığı bir faaliyetle ya da fiyata ilave edilecek bir unsurla ilgili değilse, bu kıymet aşağıdakilerden hangisi sayılır?
+**49.** Gümrük Yönetmeliğine göre satış bedeli yönteminin uygulanmasında, “satış veya fiyatın, kıymeti belirlenmekte olan eşya bakımından kıymeti belirlenebilir mahiyette bir koşul veya edim konusu olması” durumunda, Yönetmelikte öngörülen istisnalar saklı kalmak kaydıyla bu kıymet aşağıdakilerden hangisi sayılır?
 
 A) Satıcıya yapılan dolaylı ödeme  
 B) Satıcıya intikal eden hasıla  
@@ -823,7 +823,7 @@ C) Türkiye Gümrük Bölgesi dışında son on yıl içinde en az beş yıl ika
 D) Diğer koşulların sağlanması şartıyla motorlu ve motorsuz nakil vasıtalarının her birinden birer adet muafen serbest dolaşıma sokulabilir ve bu ithalatta vukuatlı nüfus kayıt örneğine göre aile ünitesi esas alınır.  
 E) Mücbir sebep veya beklenmeyen hâller saklı kalmak kaydıyla, Türk vatandaşlığına geçenlerin gümrük idaresine müracaat süresi, adlarına nüfus kâğıdının düzenlendiği tarihten itibaren altı aydır.  
 
-**84.** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre, ulaşım aracı yakıtına ilişkin hangisi <u>**yanlıştır**</u>?
+**84.** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre, ulaşım aracı yakıtına ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
 A) Portatif depolarla taşınan yakıtta araç başına yirmi litreye kadar muafiyet tanınır.  
 B) TIR çekicilerinin standart depolarındaki muaf yakıt miktarı 550 litreyi aşamaz.  
@@ -983,7 +983,7 @@ E) İndirgeme yönteminde dikkate alınan satışlar, eşyanın Türkiye'ye itha
 **100.** Gümrük mevzuatına göre, temsil yoluyla iş takibine ve temsil yetkisinin kaydına ilişkin aşağıdaki ifadeler veriliyor:
 
 I. Doğrudan veya dolaylı temsilcilerin Kanunda öngörülen faaliyetlerini yapmalarına engel hastalıklarının bulunmaması gerekir; tereddüt hâlinde tam teşekküllü resmî sağlık kurumlarından sağlık raporu istenebilir.  
-II. Temsilci, temsil edilen kişi namına hareket ettiğini beyan etmek ve temsilnamesini ibraz etmekle yükümlü olup temsilin doğrudan veya dolaylı olduğunu belirtmek zorunda değildir.  
+II. Temsilcilere verilen temsil yetkisinin süresinin uzatılması hâlinde, süre uzatımı sistem üzerinden yapılır ve ayrıca gümrük idaresinin onayına sunulmaz.  
 III. Temsilcileri vasıtasıyla elektronik ortamda beyanda bulunmak isteyen kişilerin, Yükümlü Kayıt ve Takip Sisteminde onaylı kaydı olmayan temsilciler aracılığıyla işlem yapmasına müsaade edilmez.  
 IV. Yükümlü Kayıt ve Takip Sistemine yapılan vekâlet kayıtlarının iptali, gümrük idaresine başvurulmasına ve idarenin onayına tabidir.  
 V. Yükümlü Kayıt ve Takip Sistemine kaydedilen bilgilerin doğru ve güncel olmasından gümrük işlemi yapan kişiler ve/veya temsilcileri sorumludur.  
@@ -1482,20 +1482,20 @@ E) II, III ve IV
 
 ---
 
-**SORU 26.** [T7 – Orta Üstü] · Model soru: 2022/26
+**SORU 26.** [T7 – Zor] · Model soru: 2022/26
 
-5607 sayılı Kaçakçılıkla Mücadele Kanununa göre, bu Kanun kapsamına giren suçlar dolayısıyla açılan ve resmî belgede sahtecilik suçuyla bağlantılı olmayan davalar hangi mahkemelerde görülür?
+5607 sayılı Kaçakçılıkla Mücadele Kanununa göre, bu Kanun kapsamına giren suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun da işlenmesi hâlinde açılan davalarda görevli mahkeme aşağıdakilerden hangisidir?
 
-A) Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen ağır ceza mahkemelerinde  
-B) Ticaret Bakanlığının teklifi üzerine Adalet Bakanlığınca belirlenen asliye ceza mahkemelerinde  
-C) Hâkimler ve Savcılar Kurulunun teklifi üzerine Adalet Bakanlığınca belirlenen ceza mahkemelerinde  
-D) Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde  
-E) Suçun işlendiği yerdeki gümrük idaresinin bulunduğu yer asliye ceza mahkemelerinde  
+A) Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca bu suçlar için belirlenmiş olan asliye ceza mahkemesi  
+B) Kaçakçılık suçu için belirlenen asliye ceza mahkemesi; bağlantılı sahtecilik suçu için ise ayrıca ağır ceza mahkemesi  
+C) Ticaret Bakanlığının teklifi üzerine Adalet Bakanlığınca belirlenen asliye ceza mahkemesi  
+D) Kanunda, bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâli için görevli kılınan ağır ceza mahkemesi  
+E) Suçun işlendiği yerdeki gümrük idaresinin bağlı olduğu yer sulh ceza hâkimliği  
 
 ✅ **Doğru Cevap:** D  
-📖 **Açıklama:** Kanuna göre bu Kanun kapsamına giren suçlar dolayısıyla açılan davalar, Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür. Ağır ceza mahkemesi ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevlidir; mahkemelerin belirlenmesinde teklif yetkisi Ticaret Bakanlığına değil Adalet Bakanlığına, belirleme yetkisi ise Kurula aittir. Kanun metnindeki “Hakimler ve Savcılar Yüksek Kurulu” ibaresi şıklarda Kurulun bugünkü adıyla verilmiştir. Bu nedenle doğru cevap D seçeneğidir. (MD 5607 17/2)  
+📖 **Açıklama:** Kanuna göre bu Kanun kapsamındaki davalar kural olarak Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme ağır ceza mahkemesidir. Bağlantı hâlinde davanın asliye ceza ve ağır ceza mahkemesi arasında bölünmesi öngörülmemiştir; teklif yetkisi de Ticaret Bakanlığına ait değildir. Bu nedenle doğru cevap D seçeneğidir. (MD 5607 17/2)  
 ⚖️ **Yasal Dayanak:** 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.17/2  
-🔍 **Şık Uzunluk Kontrolü:** A:102 B:94 C:97 D:104 E:82 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
+🔍 **Şık Uzunluk Kontrolü:** A:120 B:117 C:89 D:127 E:78 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
 
 ---
 
@@ -1739,16 +1739,16 @@ E) I, III ve IV
 
 4458 sayılı Gümrük Kanunu, Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergilerinin geri verilmesi veya kaldırılmasına ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
-A) Gümrük beyanından önce denenmek üzere geçici olarak teslim edilen eşyanın vergileri, kusur veya aykırılık deneme sırasında anlaşılmış olsa dahi, eşya ilk kullanım dışında kullanılmamışsa geri verilir veya kaldırılır.  
+A) Beyannameye dayanılarak ödenmiş gümrük vergileri, beyannamenin iptal edilmesi üzerine ilgilinin talebiyle geri verilir; bu istem, beyanname iptali için öngörülen sürelere bağlı olmaksızın üç yıl içinde yapılabilir.  
 B) Kanunda geçen geri verme deyimi ödenmiş olan gümrük vergilerinin tamamen veya kısmen geri ödenmesini, kaldırma deyimi ise henüz ödenmemiş olan gümrük vergilerinin tamamen veya kısmen alınmamasına karar verilmesini ifade eder.  
-C) Geri verme veya kaldırma başvurusu; vergileri ödeyen veya ödemekle yükümlü olan kişi, bunların temsilcileri ya da hak ve yükümlülükleri devralan kişi tarafından başvuru formu ile elektronik olarak yapılır.  
+C) Gümrük vergileri kapsamındaki katma değer vergisinin geri verme başvurusu da başvuru formu ile yapılır; indirim hakkına sahip olmayanlarda geri verme, vergi dairesinden alınacak belgeye istinaden yapılır.  
 D) Mavi ve yeşil hatta işlem görmüş beyannamelere ilişkin geri verme başvurularında yükümlü nezdinde ayrıca inceleme veya tespit gerekirse, bu tespit işlemleri yetkilendirilmiş gümrük müşavirlerine yaptırılabilir.  
 E) Nakden veya mahsup suretiyle geri verilmesine karar verilen gümrük vergileri, yükümlülerin dahili vergiler açısından gider kalemi olması nedeniyle yükümlünün bağlı bulunduğu vergi dairesine bildirilir.  
 
 ✅ **Doğru Cevap:** A  
-📖 **Açıklama:** Kanuna göre gümrük beyanından önce denenmek üzere geçici olarak teslim edilen eşyanın vergileri, kusurlu veya sözleşmeye aykırı olduğunun deneme sırasında anlaşılamadığı kanıtlanmadıkça geri verilmez veya kaldırılmaz; kusur deneme sırasında anlaşılmışsa ilk kullanım dışında kullanılmamış olması sonucu değiştirmez. Geri verme ve kaldırma tanımları, başvurunun ödeyen, yükümlü, temsilci veya hak ve yükümlülükleri devralan kişilerce formla elektronik olarak yapılması ve mavi ile yeşil hatta tespitin yetkilendirilmiş gümrük müşavirine yaptırılabilmesi mevzuata uygundur. Bu nedenle doğru cevap A seçeneğidir. (MD GK 210, 213/3; GY 502/1, 505/3; Tahsilat Tebliği 31/6)  
-⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.210, 213/3; Gümrük Yönetmeliği m.502/1, 505/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.31/6  
-🔍 **Şık Uzunluk Kontrolü:** A:216 B:225 C:205 D:210 E:201 karakter → Denge: UYGUN
+📖 **Açıklama:** Kanuna göre bir gümrük beyannamesine dayanılarak ödenmiş vergiler beyannamenin iptali üzerine ilgilinin talebiyle geri verilir; ancak bu istemin üç yıl içinde değil, beyannamenin iptali için müracaatta bulunulmasına ilişkin öngörülen süreler içinde yapılması gerekir. Geri verme ve kaldırma tanımları, gümrük vergileri kapsamındaki katma değer vergisinin de başvuru formuyla geri istenmesi ve mavi ile yeşil hatta tespitin yetkilendirilmiş gümrük müşavirine yaptırılabilmesi mevzuata uygundur. Bu nedenle doğru cevap A seçeneğidir. (MD GK 210, 212; GY 505/3; Tahsilat Tebliği 31/5, 31/6)  
+⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.210, 212; Gümrük Yönetmeliği m.505/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.31/5, 31/6  
+🔍 **Şık Uzunluk Kontrolü:** A:214 B:225 C:204 D:210 E:201 karakter → Denge: UYGUN
 
 ---
 
@@ -1790,20 +1790,20 @@ E) Risk - ortaya çıkma ihtimalini
 
 **SORU 42.** [T8 – Orta Üstü] · Model soru: 2022/42
 
-(K) Ticaret A.Ş. tarafından serbest dolaşıma giriş rejimi kapsamında ithal edilen ve vergileri ödenerek teslim alınan eşyanın, genel düzenleyici idari işlemle ithalinin yasaklanmış olduğu teslimden sonra yapılan kontrol sonucunda tespit edilmiştir. Gümrük idaresi, firmaya fark gümrük vergileri ile idari para cezasını tebliğ etmiştir; ancak yapılan araştırmada eşyanın firma tarafından yurt içinde satıldığı ve bulunamadığı anlaşılmıştır. Bu nedenle eşyanın mahrecine iadesi veya üçüncü ülkeye transiti de mümkün değildir.
+(K) Ticaret A.Ş., yurt dışından getirdiği ve ithali ilgili kurumun uygunluk belgesine tabi olan eşya için tam beyanlı yaygın basitleştirilmiş usulden yararlanmıştır. Firma, uygunluk belgesinin sonradan ibraz edileceğini beyannamenin 44 numaralı kutusuna kaydetmiş; serbest dolaşıma giriş beyannamesi tescil edilmiş ve eşya teslim alınarak firmanın deposuna götürülmüştür. İlgili kurumun beyanname tescilinden sonra firmanın deposunda yaptığı denetim olumsuz sonuçlanmış ve sonuç gümrük idaresine bildirilmiştir. İlgili kurumun düzenlemelerinde bu duruma ilişkin aksine bir hüküm bulunmamaktadır. Eşya, firmanın deposunda eksiksiz olarak bulunmaktadır.
 
-Buna göre, 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği uyarınca bulunamayan eşya hakkında yapılacak işlem aşağıdakilerden hangisidir?  
+Buna göre, Gümrük Yönetmeliği uyarınca eşya hakkında yapılacak işlem aşağıdakilerden hangisidir?  
 
-A) Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın, idari para cezasından ayrı olarak CIF kıymetinin kamuya geçirilmesine karar verilir.  
-B) Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın, idari para cezasından ayrı olarak gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.  
-C) Eşya bulunamadığından mahrecine iade veya transit mümkün olmadığından, yalnızca fark gümrük vergileri ile idari para cezası tahsil edilir ve başka bir işlem yapılmaz.  
-D) Eşyanın bulunamaması hâlinde gümrük vergileri tutarında ayrıca idari para cezası verilir ve bu tutar, otuz günlük iade süresinin bitiminde tahsil edilir.  
-E) Eşya bulunamadığından tebliğ edilmiş olan idari para cezası kaldırılır ve bunun yerine eşyanın gümrüklenmiş değerinin yarısının kamuya geçirilmesine karar verilir.  
+A) Beyanname iptal edilerek eşya, ilgili kurumun görüşü aranmaksızın yükümlünün seçeceği bir üçüncü ülkeye transit edilir ya da Türkiye Gümrük Bölgesinde yükümlüsünce imha edilir.  
+B) Beyanname iptal edilerek eşya, yükümlü talebi doğrultusunda mahrecine iade edilebilir, ilgili kurumun uygun görüşüyle üçüncü ülkeye transit edilebilir ya da gümrük idaresine terk edilebilir.  
+C) Beyanname iptal edilmeksizin eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir ve eşya, yükümlünün tasarrufunda bırakılarak bu şekilde tüm gümrük işlemleri sonlandırılır.  
+D) Beyanname iptal edilmeden eşya, denetim sonucunun yükümlüye bildirildiği tarihten itibaren yeni bir uygunluk belgesi temin edilinceye kadar gümrük gözetiminde bekletilir.  
+E) Eşya serbest dolaşıma girmiş sayıldığından beyanname iptal edilmez; eşya yükümlüde kalır ve olumsuz denetim sonucu yalnızca ilgili kurumun kayıtlarına işlenir.  
 
 ✅ **Doğru Cevap:** B  
-📖 **Açıklama:** Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir; ithali yasak eşyaya ceza uygulanıp eşyanın bulunamaması hâlinde de Yönetmelik aynı sonucu öngörür. Kamuya geçirilen tutar CIF kıymeti ya da gümrüklenmiş değerin yarısı değil gümrüklenmiş değerin kendisidir ve idari para cezası kaldırılmaz. Otuz günlük iade süresi eşyanın bulunduğu hâllere ilişkindir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 235/1-a, 235/4-c; GY 181/12)  
-⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.235/1-a, 235/4-c; Gümrük Yönetmeliği m.181/12  
-🔍 **Şık Uzunluk Kontrolü:** A:172 B:180 C:166 D:153 E:163 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
+📖 **Açıklama:** Belgenin sonradan ibraz edileceğinin beyannamenin 44 numaralı kutusuna kaydedilmesi koşuluyla tam beyanlı yaygın basitleştirilmiş usulden yararlanılmış ve ilgili kurumca tescilden sonra yapılan denetim olumsuz sonuçlanmışsa beyanname iptal edilir; eşya yükümlü talebi doğrultusunda mahrecine iade edilebilir, ilgili kurumun uygun görüşüyle üçüncü ülkeye transit edilebilir veya ihraç kaydıyla satış ya da imha suretiyle tasfiye edilmek üzere gümrük idaresine terk edilebilir. Transit için ilgili kurumun uygun görüşü aranır ve imha ancak terk sonrası tasfiye yoluyla mümkündür; beyanname iptal edilmeden eşyanın yükümlüde bırakılması öngörülmemiştir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 181/4-ç, 181/4-e)  
+⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.181/4-ç, 181/4-e  
+🔍 **Şık Uzunluk Kontrolü:** A:176 B:190 C:186 D:170 E:159 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
 
 ---
 
@@ -1915,7 +1915,7 @@ E) Ticari düzey veya miktar farkı nedeniyle yapılacak düzeltme kıymet artı
 
 **SORU 49.** [T6 – Orta Üstü] · Model soru: 2022/49
 
-Gümrük Yönetmeliğine göre satış bedeli yönteminin uygulanmasında, “satış veya fiyatın, kıymeti belirlenmekte olan eşya bakımından kıymeti belirlenebilir mahiyette bir koşul veya edim konusu olması” durumunda, bu koşul veya edim alıcının kendi hesabına yaptığı bir faaliyetle ya da fiyata ilave edilecek bir unsurla ilgili değilse, bu kıymet aşağıdakilerden hangisi sayılır?
+Gümrük Yönetmeliğine göre satış bedeli yönteminin uygulanmasında, “satış veya fiyatın, kıymeti belirlenmekte olan eşya bakımından kıymeti belirlenebilir mahiyette bir koşul veya edim konusu olması” durumunda, Yönetmelikte öngörülen istisnalar saklı kalmak kaydıyla bu kıymet aşağıdakilerden hangisi sayılır?
 
 A) Satıcıya yapılan dolaylı ödeme  
 B) Satıcıya intikal eden hasıla  
@@ -2575,7 +2575,7 @@ E) Mücbir sebep veya beklenmeyen hâller saklı kalmak kaydıyla, Türk vatanda
 
 **SORU 84.** [T1 – Orta Üstü] · Model soru: 2022/84
 
-2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre, ulaşım aracı yakıtına ilişkin hangisi <u>**yanlıştır**</u>?
+2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre, ulaşım aracı yakıtına ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
 A) Portatif depolarla taşınan yakıtta araç başına yirmi litreye kadar muafiyet tanınır.  
 B) TIR çekicilerinin standart depolarındaki muaf yakıt miktarı 550 litreyi aşamaz.  
@@ -2879,7 +2879,7 @@ E) İndirgeme yönteminde dikkate alınan satışlar, eşyanın Türkiye'ye itha
 Gümrük mevzuatına göre, temsil yoluyla iş takibine ve temsil yetkisinin kaydına ilişkin aşağıdaki ifadeler veriliyor:
 
 I. Doğrudan veya dolaylı temsilcilerin Kanunda öngörülen faaliyetlerini yapmalarına engel hastalıklarının bulunmaması gerekir; tereddüt hâlinde tam teşekküllü resmî sağlık kurumlarından sağlık raporu istenebilir.  
-II. Temsilci, temsil edilen kişi namına hareket ettiğini beyan etmek ve temsilnamesini ibraz etmekle yükümlü olup temsilin doğrudan veya dolaylı olduğunu belirtmek zorunda değildir.  
+II. Temsilcilere verilen temsil yetkisinin süresinin uzatılması hâlinde, süre uzatımı sistem üzerinden yapılır ve ayrıca gümrük idaresinin onayına sunulmaz.  
 III. Temsilcileri vasıtasıyla elektronik ortamda beyanda bulunmak isteyen kişilerin, Yükümlü Kayıt ve Takip Sisteminde onaylı kaydı olmayan temsilciler aracılığıyla işlem yapmasına müsaade edilmez.  
 IV. Yükümlü Kayıt ve Takip Sistemine yapılan vekâlet kayıtlarının iptali, gümrük idaresine başvurulmasına ve idarenin onayına tabidir.  
 V. Yükümlü Kayıt ve Takip Sistemine kaydedilen bilgilerin doğru ve güncel olmasından gümrük işlemi yapan kişiler ve/veya temsilcileri sorumludur.  
@@ -2892,8 +2892,8 @@ D) II ve IV
 E) II, IV ve V  
 
 ✅ **Doğru Cevap:** D  
-📖 **Açıklama:** Yönetmeliğe göre temsilci, temsil edilen kişi namına hareket ettiğini beyan etmek, temsilin doğrudan veya dolaylı olduğunu belirtmek ve temsilnameyi ibraz etmek zorundadır; II yanlıştır. Yükümlü Kayıt ve Takip Sistemindeki vekâlet kayıtlarının iptali başvuru ve onay işlemine tabi olmaksızın sistem üzerinden yapılır, başvuru ve onaya tabi olan ise kaydın tümüyle iptalidir; IV de yanlıştır. Engel hastalık şartı, onaylı kaydı olmayan temsilci aracılığıyla işlem yapılamaması ve kayıtların doğruluğundan kişilerin ve temsilcilerin sorumlu olması mevzuata uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 225; GY 561/1; YKTS Tebliği 3/5-6, 4/3, 4/5)  
-⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.225; Gümrük Yönetmeliği m.561/1; Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1) m.3/5-6, 4/3, 4/5  
+📖 **Açıklama:** Tebliğe göre Yükümlü Kayıt ve Takip Sisteminde temsil yetkisinin süresi uzatıldığında sistemde gerekli değişiklikler yapılarak vekâlet süre uzatımının onaylanması için gümrük idaresine başvurulur; II yanlıştır. Yükümlü Kayıt ve Takip Sistemindeki vekâlet kayıtlarının iptali başvuru ve onay işlemine tabi olmaksızın sistem üzerinden yapılır, başvuru ve onaya tabi olan ise kaydın tümüyle iptalidir; IV de yanlıştır. Engel hastalık şartı, onaylı kaydı olmayan temsilci aracılığıyla işlem yapılamaması ve kayıtların doğruluğundan kişilerin ve temsilcilerin sorumlu olması mevzuata uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 225; YKTS Tebliği 3/4-6, 4/3, 4/5, 7/3)  
+⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.225; Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1) m.3/4, 3/5, 4/3, 4/5, 7/3  
 🔍 **Şık Uzunluk Kontrolü:** A:9 B:7 C:9 D:8 E:11 karakter → Denge: UYGUN
 
 ---
@@ -2929,7 +2929,7 @@ T1: 5 · T2: 1 · T3: 1 · T4: 9 · T6: 1 · T7: 1 · T9: 2
 
 | ≤120 | 120-350 | 350-700 | >700 |
 |---|---|---|---|
-| 8 (%10) | 39 (%49) | 21 (%26) | 12 (%15) |
+| 8 (%10) | 40 (%50) | 19 (%24) | 13 (%16) |
 
 **Şık uzunluk sınıfı (21–100; kısa ≤4 kelime, uzun 5 şık ≥20 kelime)**
 
@@ -3010,7 +3010,8 @@ T1: 5 · T2: 1 · T3: 1 · T4: 9 · T6: 1 · T7: 1 · T9: 2
 - Madde numarası kökte ve şıkta kullanılmadı (Prompt 3 §7); dayanak her sorunun Yasal Dayanak satırında ve açıklama sonundaki (MD …) parantezinde verildi. 2009/15481 sayılı Karar köklerinde kurum kalıbı kullanıldı.
 - Kök uzunluğu: master §4.1 bantları (%30 · %40 · %20 · %10) hedeflendi; ancak kökün mevzuat adı + hükmün konusu ile açılması zorunluluğu (Prompt 3 §8, CLAUDE.md) özellikle uzun tebliğ adlarında kısa kökleri 121–150 karaktere taşıdı. Bu nedenle ≤120 bandı hedefin altında, >700 bandı hedefin üstündedir; gerçek dağılım Set Sonu tablosundadır.
 - Kapsam: gümrük bölümü Gümrük Yönetmeliği m.567/2 ile sınırlı (Gümrük Kanunu ve ikincil düzenlemeleri, 5607 sayılı Kanun ve ikincil düzenlemeleri; GMY'de fiilen sorulan İthalat Rejimi Kararı, DİR Tebliği, Sınır Ticareti Kararı). Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) gibi dış ticaret düzenlemelerine dayanan soru bırakılmadı. GK 241/1'de AYM 26.03.2026 kararıyla iptal edilen ibareye dayanan hüküm kullanılmadı. Tek bilgi kaynağı depodaki mevzuat dosyaları ve genel kültür kitabıdır.
-- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → düzeltilen 140 sorunun son bağımsız doğrulaması. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
+- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → doğrulama sonrası değişen 140 sorunun 3 bağımsız son doğrulayıcıyla yeniden kontrolü (bulunan sorunlar giderildi). 500 sorunun hiçbirinde doğrulama sonunda yanlış cevap anahtarı kalmadı. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
+- Plan kısıtından gerekçeli sapmalar: 84. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi.
 
 ## HAFIZA GÜNCELLEMESİ
 
@@ -3040,7 +3041,7 @@ GMY7-022 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.5/
 GMY7-023 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.12/1, 12/2 | Yükleme veya taşıma belgelerinde gösterilerek getirilen yasak eşya, teminat altında ve güvenlik tedbiriyle geldiği yere veya başka ülkeye iade ve sevk olunur. | T8 | OÜ | C | GMY-S7
 GMY7-024 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.3/6, 3/7, 3/12, 3/13, 3/17 | Bandrol ve benzeri işaretleri hakkı olmadan sahte evrakla temin eden kişiye üç-altı yıl hapis ve yirmi bin güne kadar adlî para cezası verilir. | T4 | OÜ | D | GMY-S7
 GMY7-025 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.19/1, 21, 23/7 | Kontrollü teslimatı Gümrük Müsteşarlığı, Emniyet, Jandarma ve Sahil Güvenlik yürütür; mülkî amirler ve Kara Kuvvetleri hudut birlikleri sayılmamıştır. | T2 | Z | B | GMY-S7
-GMY7-026 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.17/2 | 5607 davaları, Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür; sahtecilik bağlantısında ağır ceza görevlidir. | T7 | OÜ | D | GMY-S7
+GMY7-026 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.17/2 | 5607 suçlarıyla bağlantılı olarak resmî belgede sahtecilik işlenmişse görevli mahkeme ağır ceza mahkemesidir. | T7 | Z | D | GMY-S7
 GMY7-027 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.3/4, 3/5, 3/6, 3/9, 6/4 | İhraç beyanı ile fiilen ihraç edilen eşya arasındaki yüzde onu aşmayan fark kaçakçılık sayılmaz; yalnız Gümrük Kanununa göre işlem yapılır. | T1 | OÜ | B | GMY-S7
 GMY7-028 | Temel Tanımlar | 4458 sayılı Gümrük Kanunu m.3/16, 3/17, 3/18, 3/19, 3/20-a, 3/22 | Gümrük beyanı, eşyanın gümrükçe onaylanmış herhangi bir işleme değil, bir gümrük rejimine tabi tutulması talebinde bulunulmasıdır. | T1 | Z | E | GMY-S7
 GMY7-029 | Gümrük Yükümlülüğü | 4458 sayılı Gümrük Kanunu m.188/2, 189/2, 190/1, 190/2 | İhracat vergisinden muafiyetle gönderilmesine izin verilen eşyada yükümlülük, izin verilen yerden başka bir varış yerine ulaştığı tarihte başlar. | T3 | OÜ | D | GMY-S7
@@ -3053,10 +3054,10 @@ GMY7-035 | İthalat Rejim Kararı | 3350 sayılı İthalat Rejimi Kararı m.9/1;
 GMY7-036 | Cezalar | 4458 sayılı Gümrük Kanunu m.235/1-c, 235/1-d, 235/1-e | İzin alınmış gibi beyan edilen atık eşyada ceza ton başına sekiz bin, kap başına iki yüz TL olarak hesaplanır ve eşya yurt dışı edilir. | T1+T2 | Z | D | GMY-S7
 GMY7-037 | Nihai Kullanım | Gümrük Yönetmeliği m.208/5, 208/7; Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) m.7/2, 10/1 | Nihai kullanım iptalinde vergi derhal ödenir; denetleyici idare iptal belgelerini beş iş gününde gönderir; tahsis sürecinde en az bir denetim yapılır. | T1+T2 | Z | E | GMY-S7
 GMY7-038 | Gümrük Vergileri | İthalat Rejimi Kararı (3350 sayılı CK) m.2/1, 13/1, 13/2, 16/1 | İRK; vergi, EMY ve eş etkili yükleri kapsar; kamu ithalatı tescili Bakanlık iznine bağlıdır, izin diğer izinlerin yerine geçmez; kesin ithalde yeni eşya bedeli ödenir. | T2 | OÜ | C | GMY-S7
-GMY7-039 | Serbest Dolaşıma Giriş | 4458 sayılı Gümrük Kanunu m.210, 213/3; Gümrük Yönetmeliği m.502/1, 505/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.31/6 | Beyandan önce denenmek üzere teslim edilen eşyada vergiler, kusurun deneme sırasında anlaşılamadığı kanıtlanmadıkça geri verilmez veya kaldırılmaz. | T1 | OÜ | A | GMY-S7
+GMY7-039 | Serbest Dolaşıma Giriş | 4458 sayılı Gümrük Kanunu m.210, 212; Gümrük Yönetmeliği m.505/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.31/5, 31/6 | Beyanname iptali üzerine ödenmiş vergilerin geri verilmesi istemi, üç yıl içinde değil beyanname iptali başvurusu için öngörülen süreler içinde yapılır. | T1 | OÜ | A | GMY-S7
 GMY7-040 | Serbest Dolaşıma Giriş | 2009/15481 sayılı Bakanlar Kurulu Kararı (4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar) m.13/1-a, 13/1-ç, 13/1-d, 14/1 | TGB'ye getirilmeden serbest dolaşıma girecek Türk bayraklı geminin işlemleri, kayıtlı olduğu liman başkanlığına en yakın gümrük idaresinde yapılır. | T4 | OÜ | C | GMY-S7
 GMY7-041 | Temel Tanımlar | 4458 sayılı Gümrük Kanunu m.3/24, 3/25; Gümrük Yönetmeliği m.3/1-m | Risk: eşyaya ilişkin önlemlerin uygulanmasını engelleyen, mali çıkarları tehlikeye düşüren veya tehdit oluşturan bir olayın ortaya çıkma ihtimalidir. | T5 | OÜ | E | GMY-S7
-GMY7-042 | Cezalar | 4458 sayılı Gümrük Kanunu m.235/1-a, 235/4-c; Gümrük Yönetmeliği m.181/12 | Teslimden sonra kontrolde uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir. | T8 | OÜ | B | GMY-S7
+GMY7-042 | Cezalar | Gümrük Yönetmeliği m.181/4-ç, 181/4-e | Belgenin sonradan ibrazı kaydıyla tam beyanlı yaygın basitleştirilmiş usulde tescil sonrası denetim olumsuzsa beyanname iptal edilir; eşya iade, transit veya terk edilir. | T8 | OÜ | B | GMY-S7
 GMY7-043 | Tarife | 4458 sayılı Gümrük Kanunu m.16/1, 16/2 | Mahiyet ve nihai kullanım nedeniyle tercihli tarife Cumhurbaşkanınca belirlenen şartlara tabidir; tarife kotası kapsamında olsa dahi indirim veya şartlı muafiyet anlamına gelir. | T5 | OÜ | D | GMY-S7
 GMY7-044 | Gümrük Kıymeti | 4458 sayılı Gümrük Kanunu m.24/2-a | İlişkili satışta idare, ilişkinin fiyatı etkilediği kanısına varırsa bunu beyan sahibine yazılı bildirir; süresinde cevap hakkı saklıdır. | T4 | OÜ | E | GMY-S7
 GMY7-045 | Beyan | Gümrük Yönetmeliği m.172/3, 172/4 | Sözlü beyan formu, yükümlünün verdiği bilgilere göre gümrük personeli tarafından sisteme girilir veya doldurulur. | T7 | OÜ | B | GMY-S7
@@ -3114,7 +3115,7 @@ GMY7-096 | Muayene/Tahlil | Gümrük Yönetmeliği m.198/1-b, m.198/1-c, m.199/1
 GMY7-097 | Dahilde İşleme | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.16/1 | DİR belge/izin müracaatları; ithal eşyası kullanımının tespiti, yerli üretici ve Türk malı imajı, katma değer ve firma performansı kriterleriyle değerlendirilir. | T2 | OÜ | B | GMY-S7
 GMY7-098 | Gümrük Kıymeti | Gümrük Yönetmeliği m.43/1-c, m.43/4, m.47/3, m.47/5 | Aynı üreticinin benzer eşyası yoksa farklı üreticininki dikkate alınır; aynı sınıf/cins ifadesi aynı-benzer eşyayı kapsar; nakliye farkı düzeltilir. | T2 | Z | A | GMY-S7
 GMY7-099 | Gümrük Kıymeti | Gümrük Yönetmeliği m.55/1, m.55/1-a, m.55/1-c, m.48/1, m.48/5 | İşçi-işveren ilişkisi, fiyata etkisine bakılmaksızın ilişki hâlidir; fiyata etki ilişkinin varlığı için değil, satış bedelinin kabulü için önemlidir. | T1 | OÜ | B | GMY-S7
-GMY7-100 | Gümrük Müşavirliği | 4458 sayılı Gümrük Kanunu m.225; Gümrük Yönetmeliği m.561/1; Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1) m.3/5-6, 4/3, 4/5 | Temsilci temsilin türünü belirtmek zorundadır; YKTS vekâlet kaydı iptali başvuru ve onaya tabi olmadan sistemden yapılır; onaysız temsilci aracılığıyla işlem yapılamaz. | T1+T2 | Z | D | GMY-S7
+GMY7-100 | Gümrük Müşavirliği | 4458 sayılı Gümrük Kanunu m.225; Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1) m.3/4, 3/5, 4/3, 4/5, 7/3 | YKTS'de vekâlet süre uzatımı gümrük idaresinin onayına tabidir, vekâlet kaydı iptali başvuru ve onaya tabi değildir; onaysız temsilci aracılığıyla işlem yapılamaz. | T1+T2 | Z | D | GMY-S7
 Toplam: 715 satır (önceki 515 + Deneme 6–7)
 ```
 

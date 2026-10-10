@@ -2839,13 +2839,13 @@
 "konu": "Tahakkuk-Tebliğ-Ödeme",
 "tip": "T1+T2",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.196, 197/5; Gümrük Yönetmeliği m.489/2, 490/1",
-"cek": "Dava hâlinde vergiler aleyhe kararın gümrük idaresine tebliğiyle tahsil edilebilir olur; periyodik tahakkuk süresi otuz günü geçemez.",
+"madde": "4458 sayılı Gümrük Kanunu m.195/1, 196; Gümrük Yönetmeliği m.489/1, 490/1; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.14/2",
+"cek": "Tahakkuk İzleme Defteri elektronik ortamda tutulur, bilgisayar çıktıları defter yerine geçer; aynı cins eşyada dönemsel tahakkuk süresi otuz günü geçemez.",
 "kok": [
-"4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre gümrük vergilerinin tahakkuku ve tebliğine ilişkin aşağıdaki ifadeler veriliyor:",
+"Gümrük mevzuatına göre vergilerin tahakkuku ve kayda geçirilmesine ilişkin şu ifadeler veriliyor:",
 "I. Beyannamede düzeltme gerektiren tespitler müzekkereyle idare amirine sunulur; olur üzerine yeni tahakkuk tebliğ edilir.",
-"II. Dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye tebliğ edildiği tarihte tahsil edilebilir hâle gelir.",
-"III. Vergiler, tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, bu mümkün olmazsa ilgili belge üzerinde tebliğ edilir.",
+"II. Gümrük Vergileri Tahakkukunu İzleme Defteri kâğıt ortamında tutulur; vergilerin bilgisayara kaydedilmesi hâlinde bilgisayar çıktıları bu defterin yerine geçmez.",
+"III. Düzenlenen gümrük vergisi ve para cezası kararları, tarih sırasına göre numara verilerek ilgili programlara kaydedilir.",
 "IV. Teminat sağlanırsa, aynı kişiye belirli aralıklarla teslim edilen aynı cins eşyanın vergileri altmış günü geçmeyen bir sürede tahakkuk ettirilebilir.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
@@ -2864,14 +2864,14 @@
 "I, II ve IV"
 ],
 "tuzak": false,
-"g": "Kanuna göre dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye değil gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hâle gelir; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Düzeltme gerektiren tespitlerin müzekkereyle idare amirine sunulmasına ilişkin I ile sistem üzerinden tebliğe ilişkin III ifadeleri doğrudur. (MD GK 196, 197/5; GY 489/2, 490/1)",
-"kanit": "45-tebliğ.txt | dava açılması halinde mahkemece yükümlü aleyhine verilen kararın gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hale gelir || 45-tebliğ.txt | aynı cins eşyanın gümrük vergileri otuz günü geçmeyecek şekilde belirlenecek bir süre içinde tahakkuk ettirilerek || 45-tebliğ.txt | sistem üzerinde tebliğin yapılamadığı hallerde ise ilgili belge üzerinde tebliğ edilir || 45-tebliğ.txt | Beyannamede düzeltme yapılmasını gerektirir nitelikteki tespitler sistem üzerinde düzenlenen müzekkere ile idare amirine sunulur.",
+"g": "Yönetmeliğe göre Gümrük Vergileri Tahakkukunu İzleme Defteri kâğıt ortamında değil elektronik ortamda tutulur ve Kanuna göre bilgisayar çıktıları bu defterin yerine geçer; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Düzeltme gerektiren tespitlerin müzekkereyle idare amirine sunulmasına ilişkin I ile kararların tarih sırasına göre numaralanıp programlara kaydedilmesine ilişkin III doğrudur. (MD GK 195/1, 196; GY 489/1, 490/1; Tahsilat Seri No:2 m.14/2)",
+"kanit": "45-tebliğ.txt | Gümrük Vergileri Tahakkukunu İzleme Defteri elektronik ortamda tutulur. || 45-tebliğ.txt | Bilgisayara kayıt halinde, bilgisayar çıktıları Gümrük Vergileri Tahakkukunu İzleme Defteri yerine geçer. || 45-tebliğ.txt | aynı cins eşyanın gümrük vergileri otuz günü geçmeyecek şekilde belirlenecek bir süre içinde tahakkuk ettirilerek || 45-tebliğ.txt | tarih sırasına göre numara verilerek ilgili programlara kaydedilir",
 "batch": "K10",
 "no": 79,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye değil gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hâle gelir; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Düzeltme gerektiren tespitlerin müzekkereyle idare amirine sunulmasına ilişkin I ile sistem üzerinden tebliğe ilişkin III ifadeleri doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 196, 197/5; GY 489/2, 490/1)"
+"g_harfli": "Yönetmeliğe göre Gümrük Vergileri Tahakkukunu İzleme Defteri kâğıt ortamında değil elektronik ortamda tutulur ve Kanuna göre bilgisayar çıktıları bu defterin yerine geçer; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Düzeltme gerektiren tespitlerin müzekkereyle idare amirine sunulmasına ilişkin I ile kararların tarih sırasına göre numaralanıp programlara kaydedilmesine ilişkin III doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 195/1, 196; GY 489/1, 490/1; Tahsilat Seri No:2 m.14/2)"
 },
 {
 "id": "D6-080",
@@ -2919,34 +2919,34 @@
 "konu": "Tahakkuk-Tebliğ-Ödeme",
 "tip": "T4",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.195/1, 198/3, 199, 200; Gümrük Yönetmeliği m.492",
-"cek": "Yükümlü vergi tutarının tamamını veya bir kısmını süre bitimini beklemeden ödeyebilir; vergiler yetkili bankalar aracılığıyla da tahsil edilebilir.",
+"madde": "4458 sayılı Gümrük Kanunu m.195/1, 199, 200; Gümrük Yönetmeliği m.492; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.15/5",
+"cek": "Gümrük vergileri Türk Lirası olarak 6183 sayılı Kanun usullerine göre ödenir; yetki verilen bankalar aracılığıyla da tahsil edilebilir.",
 "kok": [
 "Gümrük mevzuatına göre gümrük vergilerinin tahakkuku ve ödenmesine ilişkin aşağıdakilerden hangisi doğrudur?"
 ],
-"d": "Yükümlü, kendisine tebliğ edilen vergi tutarının tamamını veya bir kısmını verilen ödeme süresinin bitimini beklemeksizin ödeyebilir; gümrük vergileri yetki verilen bankalar aracılığıyla da tahsil edilebilir.",
+"d": "Gümrük vergileri Türk Lirası olarak ve 6183 sayılı Kanunda öngörülen usullere göre ödenir; söz konusu vergiler gümrük idarelerinin yanı sıra yetki verilen bankalar aracılığıyla da tahsil edilebilmektedir.",
 "c": [
 "Basitleştirilmiş usule göre tescil edilen beyannamede eksik bilgi veya belgeler gümrük idaresince verilen süre içinde tamamlanmasa dahi, beyanname kapsamı eşyanın ödenmesi gereken vergileri ertelenir.",
-"Gümrük vergileri Türk Lirası olarak ödenir; bu ödeme ise 213 sayılı Vergi Usul Kanununda öngörülen tahsil usullerine göre ilgili gümrük idaresince yapılır.",
+"6183 sayılı Kanun doğrultusunda, gümrük idarelerince verilen idari para cezalarına da vergilerde olduğu gibi gecikme zammı oranında faiz ve gecikme zammı uygulanır.",
 "Geçici anti-damping vergisi veya fark giderici vergi uygulandığı hâllerde hesaplanan vergiler, Gümrük Vergileri Tahakkukunu İzleme Defterine kaydedilmeyip ayrı bir kayıtta izlenir.",
 "Ödeme aşamasına gelmiş ancak henüz ödenmemiş gümrük vergileri ile sonradan noksan alındığı belirlenen vergilerin 6183 sayılı Kanuna göre ertelenmesine ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir."
 ],
 "tuzak": true,
-"g": "Kanuna göre yükümlü, vergi tutarının tamamını veya bir kısmını verilen sürenin bitimini beklemeksizin ödeyebilir; vergiler yetki verilen bankalar aracılığıyla da tahsil edilebilir. Basitleştirilmiş usulde eksiklikler verilen sürede tamamlanmazsa vergiler ertelenmez; ödeme 213 sayılı Kanuna değil 6183 sayılı Kanunda öngörülen usullere göre yapılır, anti-damping ve fark giderici vergiler de deftere kaydedilip özel durumları belirtilir. (MD GK 195/1, 198/3, 199, 200; GY 492)",
-"kanit": "45-tebliğ.txt | Yükümlü, vergi tutarının tamamını veya bir kısmını verilen sürenin bitimini beklemeksizin ödeyebilir || 45-tebliğ.txt | Gümrük vergileri, yetki verilen bankalar aracılığıyla da tahsil edilebilir",
+"g": "Kanuna göre gümrük vergileri Türk Lirası olarak ödenir, bu ödeme 6183 sayılı Kanunda öngörülen usullere göre yapılır ve vergiler yetki verilen bankalar aracılığıyla da tahsil edilebilir. Basitleştirilmiş usulde eksiklikler verilen sürede tamamlanmazsa vergiler ertelenmez; gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanmaz, anti-damping ve fark giderici vergiler de deftere kaydedilip özel durumları belirtilir. (MD GK 195/1, 199, 200; GY 492; Tahsilat Seri No:2 m.15/5)",
+"kanit": "45-tebliğ.txt | Gümrük vergileri Türk Lirası olarak ödenir. Bu ödeme 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunda öngörülen usullere göre yapılır. || 45-tebliğ.txt | Gümrük vergileri, yetki verilen bankalar aracılığıyla da tahsil edilebilir || 45-tebliğ.txt | gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanmaz",
 "batch": "K10",
 "no": 81,
 "harf": "E",
 "opts": [
 "Basitleştirilmiş usule göre tescil edilen beyannamede eksik bilgi veya belgeler gümrük idaresince verilen süre içinde tamamlanmasa dahi, beyanname kapsamı eşyanın ödenmesi gereken vergileri ertelenir.",
-"Gümrük vergileri Türk Lirası olarak ödenir; bu ödeme ise 213 sayılı Vergi Usul Kanununda öngörülen tahsil usullerine göre ilgili gümrük idaresince yapılır.",
+"6183 sayılı Kanun doğrultusunda, gümrük idarelerince verilen idari para cezalarına da vergilerde olduğu gibi gecikme zammı oranında faiz ve gecikme zammı uygulanır.",
 "Geçici anti-damping vergisi veya fark giderici vergi uygulandığı hâllerde hesaplanan vergiler, Gümrük Vergileri Tahakkukunu İzleme Defterine kaydedilmeyip ayrı bir kayıtta izlenir.",
 "Ödeme aşamasına gelmiş ancak henüz ödenmemiş gümrük vergileri ile sonradan noksan alındığı belirlenen vergilerin 6183 sayılı Kanuna göre ertelenmesine ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.",
-"Yükümlü, kendisine tebliğ edilen vergi tutarının tamamını veya bir kısmını verilen ödeme süresinin bitimini beklemeksizin ödeyebilir; gümrük vergileri yetki verilen bankalar aracılığıyla da tahsil edilebilir."
+"Gümrük vergileri Türk Lirası olarak ve 6183 sayılı Kanunda öngörülen usullere göre ödenir; söz konusu vergiler gümrük idarelerinin yanı sıra yetki verilen bankalar aracılığıyla da tahsil edilebilmektedir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre yükümlü, vergi tutarının tamamını veya bir kısmını verilen sürenin bitimini beklemeksizin ödeyebilir; vergiler yetki verilen bankalar aracılığıyla da tahsil edilebilir. Basitleştirilmiş usulde eksiklikler verilen sürede tamamlanmazsa vergiler ertelenmez; ödeme 213 sayılı Kanuna değil 6183 sayılı Kanunda öngörülen usullere göre yapılır, anti-damping ve fark giderici vergiler de deftere kaydedilip özel durumları belirtilir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 195/1, 198/3, 199, 200; GY 492)"
+"g_harfli": "Kanuna göre gümrük vergileri Türk Lirası olarak ödenir, bu ödeme 6183 sayılı Kanunda öngörülen usullere göre yapılır ve vergiler yetki verilen bankalar aracılığıyla da tahsil edilebilir. Basitleştirilmiş usulde eksiklikler verilen sürede tamamlanmazsa vergiler ertelenmez; gümrük idarelerince verilen idari para cezalarına gecikme zammı oranında faiz ve gecikme zammı uygulanmaz, anti-damping ve fark giderici vergiler de deftere kaydedilip özel durumları belirtilir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 195/1, 199, 200; GY 492; Tahsilat Seri No:2 m.15/5)"
 },
 {
 "id": "D6-082",

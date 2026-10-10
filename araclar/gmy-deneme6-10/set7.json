@@ -903,35 +903,35 @@
 "cikmis": "2022/26",
 "konu": "Kaçakçılık",
 "tip": "T7",
-"z": "OÜ",
+"z": "Z",
 "madde": "5607 sayılı Kaçakçılıkla Mücadele Kanunu m.17/2",
-"cek": "5607 davaları, Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür; sahtecilik bağlantısında ağır ceza görevlidir.",
+"cek": "5607 suçlarıyla bağlantılı olarak resmî belgede sahtecilik işlenmişse görevli mahkeme ağır ceza mahkemesidir.",
 "kok": [
-"5607 sayılı Kaçakçılıkla Mücadele Kanununa göre, bu Kanun kapsamına giren suçlar dolayısıyla açılan ve resmî belgede sahtecilik suçuyla bağlantılı olmayan davalar hangi mahkemelerde görülür?"
+"5607 sayılı Kaçakçılıkla Mücadele Kanununa göre, bu Kanun kapsamına giren suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun da işlenmesi hâlinde açılan davalarda görevli mahkeme aşağıdakilerden hangisidir?"
 ],
-"d": "Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde",
+"d": "Kanunda, bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâli için görevli kılınan ağır ceza mahkemesi",
 "c": [
-"Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen ağır ceza mahkemelerinde",
-"Ticaret Bakanlığının teklifi üzerine Adalet Bakanlığınca belirlenen asliye ceza mahkemelerinde",
-"Hâkimler ve Savcılar Kurulunun teklifi üzerine Adalet Bakanlığınca belirlenen ceza mahkemelerinde",
-"Suçun işlendiği yerdeki gümrük idaresinin bulunduğu yer asliye ceza mahkemelerinde"
+"Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca bu suçlar için belirlenmiş olan asliye ceza mahkemesi",
+"Kaçakçılık suçu için belirlenen asliye ceza mahkemesi; bağlantılı sahtecilik suçu için ise ayrıca ağır ceza mahkemesi",
+"Ticaret Bakanlığının teklifi üzerine Adalet Bakanlığınca belirlenen asliye ceza mahkemesi",
+"Suçun işlendiği yerdeki gümrük idaresinin bağlı olduğu yer sulh ceza hâkimliği"
 ],
 "tuzak": true,
-"g": "Kanuna göre bu Kanun kapsamına giren suçlar dolayısıyla açılan davalar, Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür. Ağır ceza mahkemesi ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevlidir; mahkemelerin belirlenmesinde teklif yetkisi Ticaret Bakanlığına değil Adalet Bakanlığına, belirleme yetkisi ise Kurula aittir. Kanun metnindeki “Hakimler ve Savcılar Yüksek Kurulu” ibaresi şıklarda Kurulun bugünkü adıyla verilmiştir. (MD 5607 17/2)",
-"kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Adalet Bakanlığının teklifi üzerine Hakimler ve Savcılar Yüksek Kurulunca belirlenen asliye ceza mahkemelerinde görülür || 5607_sayili_kacakcilikla_mucadele_kanunu.txt | resmî belgede sahtecilik suçunun işlenmesi halinde, görevli mahkeme ağır ceza mahkemesidir",
+"g": "Kanuna göre bu Kanun kapsamındaki davalar kural olarak Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme ağır ceza mahkemesidir. Bağlantı hâlinde davanın asliye ceza ve ağır ceza mahkemesi arasında bölünmesi öngörülmemiştir; teklif yetkisi de Ticaret Bakanlığına ait değildir. (MD 5607 17/2)",
+"kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi halinde, görevli mahkeme ağır ceza mahkemesidir",
 "batch": "K12",
 "no": 26,
 "harf": "D",
 "opts": [
-"Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen ağır ceza mahkemelerinde",
-"Ticaret Bakanlığının teklifi üzerine Adalet Bakanlığınca belirlenen asliye ceza mahkemelerinde",
-"Hâkimler ve Savcılar Kurulunun teklifi üzerine Adalet Bakanlığınca belirlenen ceza mahkemelerinde",
-"Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde",
-"Suçun işlendiği yerdeki gümrük idaresinin bulunduğu yer asliye ceza mahkemelerinde"
+"Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca bu suçlar için belirlenmiş olan asliye ceza mahkemesi",
+"Kaçakçılık suçu için belirlenen asliye ceza mahkemesi; bağlantılı sahtecilik suçu için ise ayrıca ağır ceza mahkemesi",
+"Ticaret Bakanlığının teklifi üzerine Adalet Bakanlığınca belirlenen asliye ceza mahkemesi",
+"Kanunda, bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâli için görevli kılınan ağır ceza mahkemesi",
+"Suçun işlendiği yerdeki gümrük idaresinin bağlı olduğu yer sulh ceza hâkimliği"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre bu Kanun kapsamına giren suçlar dolayısıyla açılan davalar, Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür. Ağır ceza mahkemesi ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevlidir; mahkemelerin belirlenmesinde teklif yetkisi Ticaret Bakanlığına değil Adalet Bakanlığına, belirleme yetkisi ise Kurula aittir. Kanun metnindeki “Hakimler ve Savcılar Yüksek Kurulu” ibaresi şıklarda Kurulun bugünkü adıyla verilmiştir. Bu nedenle doğru cevap D seçeneğidir. (MD 5607 17/2)"
+"g_harfli": "Kanuna göre bu Kanun kapsamındaki davalar kural olarak Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme ağır ceza mahkemesidir. Bağlantı hâlinde davanın asliye ceza ve ağır ceza mahkemesi arasında bölünmesi öngörülmemiştir; teklif yetkisi de Ticaret Bakanlığına ait değildir. Bu nedenle doğru cevap D seçeneğidir. (MD 5607 17/2)"
 },
 {
 "id": "D7-027",
@@ -1386,34 +1386,34 @@
 "konu": "Serbest Dolaşıma Giriş",
 "tip": "T1",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.210, 213/3; Gümrük Yönetmeliği m.502/1, 505/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.31/6",
-"cek": "Beyandan önce denenmek üzere teslim edilen eşyada vergiler, kusurun deneme sırasında anlaşılamadığı kanıtlanmadıkça geri verilmez veya kaldırılmaz.",
+"madde": "4458 sayılı Gümrük Kanunu m.210, 212; Gümrük Yönetmeliği m.505/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.31/5, 31/6",
+"cek": "Beyanname iptali üzerine ödenmiş vergilerin geri verilmesi istemi, üç yıl içinde değil beyanname iptali başvurusu için öngörülen süreler içinde yapılır.",
 "kok": [
 "4458 sayılı Gümrük Kanunu, Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergilerinin geri verilmesi veya kaldırılmasına ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
-"d": "Gümrük beyanından önce denenmek üzere geçici olarak teslim edilen eşyanın vergileri, kusur veya aykırılık deneme sırasında anlaşılmış olsa dahi, eşya ilk kullanım dışında kullanılmamışsa geri verilir veya kaldırılır.",
+"d": "Beyannameye dayanılarak ödenmiş gümrük vergileri, beyannamenin iptal edilmesi üzerine ilgilinin talebiyle geri verilir; bu istem, beyanname iptali için öngörülen sürelere bağlı olmaksızın üç yıl içinde yapılabilir.",
 "c": [
 "Kanunda geçen geri verme deyimi ödenmiş olan gümrük vergilerinin tamamen veya kısmen geri ödenmesini, kaldırma deyimi ise henüz ödenmemiş olan gümrük vergilerinin tamamen veya kısmen alınmamasına karar verilmesini ifade eder.",
-"Geri verme veya kaldırma başvurusu; vergileri ödeyen veya ödemekle yükümlü olan kişi, bunların temsilcileri ya da hak ve yükümlülükleri devralan kişi tarafından başvuru formu ile elektronik olarak yapılır.",
+"Gümrük vergileri kapsamındaki katma değer vergisinin geri verme başvurusu da başvuru formu ile yapılır; indirim hakkına sahip olmayanlarda geri verme, vergi dairesinden alınacak belgeye istinaden yapılır.",
 "Mavi ve yeşil hatta işlem görmüş beyannamelere ilişkin geri verme başvurularında yükümlü nezdinde ayrıca inceleme veya tespit gerekirse, bu tespit işlemleri yetkilendirilmiş gümrük müşavirlerine yaptırılabilir.",
 "Nakden veya mahsup suretiyle geri verilmesine karar verilen gümrük vergileri, yükümlülerin dahili vergiler açısından gider kalemi olması nedeniyle yükümlünün bağlı bulunduğu vergi dairesine bildirilir."
 ],
 "tuzak": false,
-"g": "Kanuna göre gümrük beyanından önce denenmek üzere geçici olarak teslim edilen eşyanın vergileri, kusurlu veya sözleşmeye aykırı olduğunun deneme sırasında anlaşılamadığı kanıtlanmadıkça geri verilmez veya kaldırılmaz; kusur deneme sırasında anlaşılmışsa ilk kullanım dışında kullanılmamış olması sonucu değiştirmez. Geri verme ve kaldırma tanımları, başvurunun ödeyen, yükümlü, temsilci veya hak ve yükümlülükleri devralan kişilerce formla elektronik olarak yapılması ve mavi ile yeşil hatta tespitin yetkilendirilmiş gümrük müşavirine yaptırılabilmesi mevzuata uygundur. (MD GK 210, 213/3; GY 502/1, 505/3; Tahsilat Tebliği 31/6)",
-"kanit": "47-geri verme kaldırma.txt | Gümrük beyanından önce denenmek üzere geçici olarak teslim edilen eşyanın vergileri, eşyanın kusurlu veya sözleşme hükümlerine aykırı olduğu hususlarının deneme sırasında anlaşılamadığı kanıtlanmadıkça geri verilmez veya kaldırılmaz || 47-geri verme kaldırma.txt | ödenmiş olan gümrük vergilerinin tamamen veya kısmen geri ödenmesi || 47-geri verme kaldırma.txt | henüz ödenmemiş olan gümrük vergilerinin tamamen veya kısmen alınmamasına karar verilmesi || 47-geri verme kaldırma.txt | bu vergileri ve cezaları ödeyen veya ödemekle yükümlü olan kişi veya bunların temsilcileri veya hak ve yükümlülükleri devralan kişi tarafından Ek-78'de yer alan Geri Verme veya Kaldırma Başvurusu Formu ile elektronik olarak || 47-geri verme kaldırma.txt | yükümlü nezdinde ayrıca bir inceleme veya tespit yapılmasına gerek bulunması durumunda, buna ilişkin tespit işlemleri yetkilendirilmiş gümrük müşavirlerine yaptırılabilir || 47-geri verme kaldırma.txt | yükümlünün bağlı bulunduğu vergi dairesine bildirilir",
+"g": "Kanuna göre bir gümrük beyannamesine dayanılarak ödenmiş vergiler beyannamenin iptali üzerine ilgilinin talebiyle geri verilir; ancak bu istemin üç yıl içinde değil, beyannamenin iptali için müracaatta bulunulmasına ilişkin öngörülen süreler içinde yapılması gerekir. Geri verme ve kaldırma tanımları, gümrük vergileri kapsamındaki katma değer vergisinin de başvuru formuyla geri istenmesi ve mavi ile yeşil hatta tespitin yetkilendirilmiş gümrük müşavirine yaptırılabilmesi mevzuata uygundur. (MD GK 210, 212; GY 505/3; Tahsilat Tebliği 31/5, 31/6)",
+"kanit": "47-geri verme kaldırma.txt | Bir gümrük beyannamesine dayanılarak ödenmiş olan gümrük vergileri bu beyannamenin iptal edilmesi üzerine ilgilinin talebiyle geri verilir. Bu istemin, gümrük beyannamesinin iptal edilmesi amacıyla müracaatta bulunulması için öngörülen süreler içerisinde yapılması gerekir || 47-geri verme kaldırma.txt | ödenmiş olan gümrük vergilerinin tamamen veya kısmen geri ödenmesi || 47-geri verme kaldırma.txt | henüz ödenmemiş olan gümrük vergilerinin tamamen veya kısmen alınmamasına karar verilmesi || 47-geri verme kaldırma.txt | Gümrük vergileri kapsamındaki Katma Değer Vergisinin geri verme başvurusu, Gümrük Yönetmeliğinin ek-78'indeki Geri Verme veya Kaldırma Başvurusu Formu ile yapılır || 47-geri verme kaldırma.txt | İndirim hakkına sahip olmayanlarla ilgili olarak, geri vermenin yapılabilmesi için yükümlülerin bağlı olduğu vergi dairesinden alınacak belgeye istinaden || 47-geri verme kaldırma.txt | yükümlü nezdinde ayrıca bir inceleme veya tespit yapılmasına gerek bulunması durumunda, buna ilişkin tespit işlemleri yetkilendirilmiş gümrük müşavirlerine yaptırılabilir || 47-geri verme kaldırma.txt | yükümlünün bağlı bulunduğu vergi dairesine bildirilir",
 "batch": "K05",
 "no": 39,
 "harf": "A",
 "opts": [
-"Gümrük beyanından önce denenmek üzere geçici olarak teslim edilen eşyanın vergileri, kusur veya aykırılık deneme sırasında anlaşılmış olsa dahi, eşya ilk kullanım dışında kullanılmamışsa geri verilir veya kaldırılır.",
+"Beyannameye dayanılarak ödenmiş gümrük vergileri, beyannamenin iptal edilmesi üzerine ilgilinin talebiyle geri verilir; bu istem, beyanname iptali için öngörülen sürelere bağlı olmaksızın üç yıl içinde yapılabilir.",
 "Kanunda geçen geri verme deyimi ödenmiş olan gümrük vergilerinin tamamen veya kısmen geri ödenmesini, kaldırma deyimi ise henüz ödenmemiş olan gümrük vergilerinin tamamen veya kısmen alınmamasına karar verilmesini ifade eder.",
-"Geri verme veya kaldırma başvurusu; vergileri ödeyen veya ödemekle yükümlü olan kişi, bunların temsilcileri ya da hak ve yükümlülükleri devralan kişi tarafından başvuru formu ile elektronik olarak yapılır.",
+"Gümrük vergileri kapsamındaki katma değer vergisinin geri verme başvurusu da başvuru formu ile yapılır; indirim hakkına sahip olmayanlarda geri verme, vergi dairesinden alınacak belgeye istinaden yapılır.",
 "Mavi ve yeşil hatta işlem görmüş beyannamelere ilişkin geri verme başvurularında yükümlü nezdinde ayrıca inceleme veya tespit gerekirse, bu tespit işlemleri yetkilendirilmiş gümrük müşavirlerine yaptırılabilir.",
 "Nakden veya mahsup suretiyle geri verilmesine karar verilen gümrük vergileri, yükümlülerin dahili vergiler açısından gider kalemi olması nedeniyle yükümlünün bağlı bulunduğu vergi dairesine bildirilir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre gümrük beyanından önce denenmek üzere geçici olarak teslim edilen eşyanın vergileri, kusurlu veya sözleşmeye aykırı olduğunun deneme sırasında anlaşılamadığı kanıtlanmadıkça geri verilmez veya kaldırılmaz; kusur deneme sırasında anlaşılmışsa ilk kullanım dışında kullanılmamış olması sonucu değiştirmez. Geri verme ve kaldırma tanımları, başvurunun ödeyen, yükümlü, temsilci veya hak ve yükümlülükleri devralan kişilerce formla elektronik olarak yapılması ve mavi ile yeşil hatta tespitin yetkilendirilmiş gümrük müşavirine yaptırılabilmesi mevzuata uygundur. Bu nedenle doğru cevap A seçeneğidir. (MD GK 210, 213/3; GY 502/1, 505/3; Tahsilat Tebliği 31/6)"
+"g_harfli": "Kanuna göre bir gümrük beyannamesine dayanılarak ödenmiş vergiler beyannamenin iptali üzerine ilgilinin talebiyle geri verilir; ancak bu istemin üç yıl içinde değil, beyannamenin iptali için müracaatta bulunulmasına ilişkin öngörülen süreler içinde yapılması gerekir. Geri verme ve kaldırma tanımları, gümrük vergileri kapsamındaki katma değer vergisinin de başvuru formuyla geri istenmesi ve mavi ile yeşil hatta tespitin yetkilendirilmiş gümrük müşavirine yaptırılabilmesi mevzuata uygundur. Bu nedenle doğru cevap A seçeneğidir. (MD GK 210, 212; GY 505/3; Tahsilat Tebliği 31/5, 31/6)"
 },
 {
 "id": "D7-040",
@@ -1492,35 +1492,35 @@
 "konu": "Cezalar",
 "tip": "T8",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.235/1-a, 235/4-c; Gümrük Yönetmeliği m.181/12",
-"cek": "Teslimden sonra kontrolde uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.",
+"madde": "Gümrük Yönetmeliği m.181/4-ç, 181/4-e",
+"cek": "Belgenin sonradan ibrazı kaydıyla tam beyanlı yaygın basitleştirilmiş usulde tescil sonrası denetim olumsuzsa beyanname iptal edilir; eşya iade, transit veya terk edilir.",
 "kok": [
-"(K) Ticaret A.Ş. tarafından serbest dolaşıma giriş rejimi kapsamında ithal edilen ve vergileri ödenerek teslim alınan eşyanın, genel düzenleyici idari işlemle ithalinin yasaklanmış olduğu teslimden sonra yapılan kontrol sonucunda tespit edilmiştir. Gümrük idaresi, firmaya fark gümrük vergileri ile idari para cezasını tebliğ etmiştir; ancak yapılan araştırmada eşyanın firma tarafından yurt içinde satıldığı ve bulunamadığı anlaşılmıştır. Bu nedenle eşyanın mahrecine iadesi veya üçüncü ülkeye transiti de mümkün değildir.",
-"Buna göre, 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliği uyarınca bulunamayan eşya hakkında yapılacak işlem aşağıdakilerden hangisidir?"
+"(K) Ticaret A.Ş., yurt dışından getirdiği ve ithali ilgili kurumun uygunluk belgesine tabi olan eşya için tam beyanlı yaygın basitleştirilmiş usulden yararlanmıştır. Firma, uygunluk belgesinin sonradan ibraz edileceğini beyannamenin 44 numaralı kutusuna kaydetmiş; serbest dolaşıma giriş beyannamesi tescil edilmiş ve eşya teslim alınarak firmanın deposuna götürülmüştür. İlgili kurumun beyanname tescilinden sonra firmanın deposunda yaptığı denetim olumsuz sonuçlanmış ve sonuç gümrük idaresine bildirilmiştir. İlgili kurumun düzenlemelerinde bu duruma ilişkin aksine bir hüküm bulunmamaktadır. Eşya, firmanın deposunda eksiksiz olarak bulunmaktadır.",
+"Buna göre, Gümrük Yönetmeliği uyarınca eşya hakkında yapılacak işlem aşağıdakilerden hangisidir?"
 ],
-"d": "Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın, idari para cezasından ayrı olarak gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.",
+"d": "Beyanname iptal edilerek eşya, yükümlü talebi doğrultusunda mahrecine iade edilebilir, ilgili kurumun uygun görüşüyle üçüncü ülkeye transit edilebilir ya da gümrük idaresine terk edilebilir.",
 "c": [
-"Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın, idari para cezasından ayrı olarak CIF kıymetinin kamuya geçirilmesine karar verilir.",
-"Eşya bulunamadığından mahrecine iade veya transit mümkün olmadığından, yalnızca fark gümrük vergileri ile idari para cezası tahsil edilir ve başka bir işlem yapılmaz.",
-"Eşyanın bulunamaması hâlinde gümrük vergileri tutarında ayrıca idari para cezası verilir ve bu tutar, otuz günlük iade süresinin bitiminde tahsil edilir.",
-"Eşya bulunamadığından tebliğ edilmiş olan idari para cezası kaldırılır ve bunun yerine eşyanın gümrüklenmiş değerinin yarısının kamuya geçirilmesine karar verilir."
+"Beyanname iptal edilerek eşya, ilgili kurumun görüşü aranmaksızın yükümlünün seçeceği bir üçüncü ülkeye transit edilir ya da Türkiye Gümrük Bölgesinde yükümlüsünce imha edilir.",
+"Beyanname iptal edilmeksizin eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir ve eşya, yükümlünün tasarrufunda bırakılarak bu şekilde tüm gümrük işlemleri sonlandırılır.",
+"Beyanname iptal edilmeden eşya, denetim sonucunun yükümlüye bildirildiği tarihten itibaren yeni bir uygunluk belgesi temin edilinceye kadar gümrük gözetiminde bekletilir.",
+"Eşya serbest dolaşıma girmiş sayıldığından beyanname iptal edilmez; eşya yükümlüde kalır ve olumsuz denetim sonucu yalnızca ilgili kurumun kayıtlarına işlenir."
 ],
 "tuzak": true,
-"g": "Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir; ithali yasak eşyaya ceza uygulanıp eşyanın bulunamaması hâlinde de Yönetmelik aynı sonucu öngörür. Kamuya geçirilen tutar CIF kıymeti ya da gümrüklenmiş değerin yarısı değil gümrüklenmiş değerin kendisidir ve idari para cezası kaldırılmaz. Otuz günlük iade süresi eşyanın bulunduğu hâllere ilişkindir. (MD GK 235/1-a, 235/4-c; GY 181/12)",
-"kanit": "48-cezalar.txt | Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir || 17-BEYAN.txt | Kanunun 235 inci maddesinin birinci fıkrasının (a) ve (c) bentlerine göre idari para cezası uygulanan eşyanın bulunamaması halinde, eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir",
+"g": "Belgenin sonradan ibraz edileceğinin beyannamenin 44 numaralı kutusuna kaydedilmesi koşuluyla tam beyanlı yaygın basitleştirilmiş usulden yararlanılmış ve ilgili kurumca tescilden sonra yapılan denetim olumsuz sonuçlanmışsa beyanname iptal edilir; eşya yükümlü talebi doğrultusunda mahrecine iade edilebilir, ilgili kurumun uygun görüşüyle üçüncü ülkeye transit edilebilir veya ihraç kaydıyla satış ya da imha suretiyle tasfiye edilmek üzere gümrük idaresine terk edilebilir. Transit için ilgili kurumun uygun görüşü aranır ve imha ancak terk sonrası tasfiye yoluyla mümkündür; beyanname iptal edilmeden eşyanın yükümlüde bırakılması öngörülmemiştir. (MD GY 181/4-ç, 181/4-e)",
+"kanit": "17-BEYAN.txt | tam beyanlı yaygın basitleştirilmiş usulden yararlanılması ve ilgili kurumca beyanname tescilinden sonra yapılan denetimin olumsuz sonuçlanması halinde, beyanname iptal edilerek (ç) bendinde belirtilen şekilde işlem yapılır || 17-BEYAN.txt | bu kurumlarca söz konusu eşyanın ithaline izin verilmemesi halinde ise yükümlü talebi doğrultusunda eşya; || 17-BEYAN.txt | İlgili kurumun uygun görüşü ile doğrudan ya da serbest bölge üzerinden üçüncü ülkeye transit",
 "batch": "K11",
 "no": 42,
 "harf": "B",
 "opts": [
-"Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın, idari para cezasından ayrı olarak CIF kıymetinin kamuya geçirilmesine karar verilir.",
-"Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın, idari para cezasından ayrı olarak gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.",
-"Eşya bulunamadığından mahrecine iade veya transit mümkün olmadığından, yalnızca fark gümrük vergileri ile idari para cezası tahsil edilir ve başka bir işlem yapılmaz.",
-"Eşyanın bulunamaması hâlinde gümrük vergileri tutarında ayrıca idari para cezası verilir ve bu tutar, otuz günlük iade süresinin bitiminde tahsil edilir.",
-"Eşya bulunamadığından tebliğ edilmiş olan idari para cezası kaldırılır ve bunun yerine eşyanın gümrüklenmiş değerinin yarısının kamuya geçirilmesine karar verilir."
+"Beyanname iptal edilerek eşya, ilgili kurumun görüşü aranmaksızın yükümlünün seçeceği bir üçüncü ülkeye transit edilir ya da Türkiye Gümrük Bölgesinde yükümlüsünce imha edilir.",
+"Beyanname iptal edilerek eşya, yükümlü talebi doğrultusunda mahrecine iade edilebilir, ilgili kurumun uygun görüşüyle üçüncü ülkeye transit edilebilir ya da gümrük idaresine terk edilebilir.",
+"Beyanname iptal edilmeksizin eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir ve eşya, yükümlünün tasarrufunda bırakılarak bu şekilde tüm gümrük işlemleri sonlandırılır.",
+"Beyanname iptal edilmeden eşya, denetim sonucunun yükümlüye bildirildiği tarihten itibaren yeni bir uygunluk belgesi temin edilinceye kadar gümrük gözetiminde bekletilir.",
+"Eşya serbest dolaşıma girmiş sayıldığından beyanname iptal edilmez; eşya yükümlüde kalır ve olumsuz denetim sonucu yalnızca ilgili kurumun kayıtlarına işlenir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Teslimden sonra kontrol sonucunda uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir; ithali yasak eşyaya ceza uygulanıp eşyanın bulunamaması hâlinde de Yönetmelik aynı sonucu öngörür. Kamuya geçirilen tutar CIF kıymeti ya da gümrüklenmiş değerin yarısı değil gümrüklenmiş değerin kendisidir ve idari para cezası kaldırılmaz. Otuz günlük iade süresi eşyanın bulunduğu hâllere ilişkindir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 235/1-a, 235/4-c; GY 181/12)"
+"g_harfli": "Belgenin sonradan ibraz edileceğinin beyannamenin 44 numaralı kutusuna kaydedilmesi koşuluyla tam beyanlı yaygın basitleştirilmiş usulden yararlanılmış ve ilgili kurumca tescilden sonra yapılan denetim olumsuz sonuçlanmışsa beyanname iptal edilir; eşya yükümlü talebi doğrultusunda mahrecine iade edilebilir, ilgili kurumun uygun görüşüyle üçüncü ülkeye transit edilebilir veya ihraç kaydıyla satış ya da imha suretiyle tasfiye edilmek üzere gümrük idaresine terk edilebilir. Transit için ilgili kurumun uygun görüşü aranır ve imha ancak terk sonrası tasfiye yoluyla mümkündür; beyanname iptal edilmeden eşyanın yükümlüde bırakılması öngörülmemiştir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 181/4-ç, 181/4-e)"
 },
 {
 "id": "D7-043",
@@ -1743,7 +1743,7 @@
 "madde": "Gümrük Yönetmeliği m.45/1-f; 4458 sayılı Gümrük Kanunu m.24/1-b",
 "cek": "Satış veya fiyatın kıymeti belirlenebilir koşul ya da edime bağlı olması hâlinde bu kıymet satıcıya yapılan dolaylı ödeme sayılır.",
 "kok": [
-"Gümrük Yönetmeliğine göre satış bedeli yönteminin uygulanmasında, “satış veya fiyatın, kıymeti belirlenmekte olan eşya bakımından kıymeti belirlenebilir mahiyette bir koşul veya edim konusu olması” durumunda, bu koşul veya edim alıcının kendi hesabına yaptığı bir faaliyetle ya da fiyata ilave edilecek bir unsurla ilgili değilse, bu kıymet aşağıdakilerden hangisi sayılır?"
+"Gümrük Yönetmeliğine göre satış bedeli yönteminin uygulanmasında, “satış veya fiyatın, kıymeti belirlenmekte olan eşya bakımından kıymeti belirlenebilir mahiyette bir koşul veya edim konusu olması” durumunda, Yönetmelikte öngörülen istisnalar saklı kalmak kaydıyla bu kıymet aşağıdakilerden hangisi sayılır?"
 ],
 "d": "Satıcıya yapılan dolaylı ödeme",
 "c": [
@@ -3009,6 +3009,7 @@
 },
 {
 "id": "D7-084",
+"sapma": "kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/\"aşağıdakilerden\" eklendi",
 "cikmis": "2022/84",
 "konu": "Muafiyetler",
 "tip": "T1",
@@ -3016,7 +3017,7 @@
 "madde": "2009/15481 s. Karar m.95/1, 96/1-a, 96/2, 107/7",
 "cek": "Özel motorlu araç ve motosikletlerde portatif depolarla taşınan yakıtta muafiyet araç başına on litre ile sınırlıdır.",
 "kok": [
-"2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre, ulaşım aracı yakıtına ilişkin hangisi [[yanlıştır]]?"
+"2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre, ulaşım aracı yakıtına ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
 "d": "Portatif depolarla taşınan yakıtta araç başına yirmi litreye kadar muafiyet tanınır.",
 "c": [
@@ -3597,12 +3598,12 @@
 "konu": "Gümrük Müşavirliği",
 "tip": "T1+T2",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.225; Gümrük Yönetmeliği m.561/1; Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1) m.3/5-6, 4/3, 4/5",
-"cek": "Temsilci temsilin türünü belirtmek zorundadır; YKTS vekâlet kaydı iptali başvuru ve onaya tabi olmadan sistemden yapılır; onaysız temsilci aracılığıyla işlem yapılamaz.",
+"madde": "4458 sayılı Gümrük Kanunu m.225; Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi) (Seri No: 1) m.3/4, 3/5, 4/3, 4/5, 7/3",
+"cek": "YKTS'de vekâlet süre uzatımı gümrük idaresinin onayına tabidir, vekâlet kaydı iptali başvuru ve onaya tabi değildir; onaysız temsilci aracılığıyla işlem yapılamaz.",
 "kok": [
 "Gümrük mevzuatına göre, temsil yoluyla iş takibine ve temsil yetkisinin kaydına ilişkin aşağıdaki ifadeler veriliyor:",
 "I. Doğrudan veya dolaylı temsilcilerin Kanunda öngörülen faaliyetlerini yapmalarına engel hastalıklarının bulunmaması gerekir; tereddüt hâlinde tam teşekküllü resmî sağlık kurumlarından sağlık raporu istenebilir.",
-"II. Temsilci, temsil edilen kişi namına hareket ettiğini beyan etmek ve temsilnamesini ibraz etmekle yükümlü olup temsilin doğrudan veya dolaylı olduğunu belirtmek zorunda değildir.",
+"II. Temsilcilere verilen temsil yetkisinin süresinin uzatılması hâlinde, süre uzatımı sistem üzerinden yapılır ve ayrıca gümrük idaresinin onayına sunulmaz.",
 "III. Temsilcileri vasıtasıyla elektronik ortamda beyanda bulunmak isteyen kişilerin, Yükümlü Kayıt ve Takip Sisteminde onaylı kaydı olmayan temsilciler aracılığıyla işlem yapmasına müsaade edilmez.",
 "IV. Yükümlü Kayıt ve Takip Sistemine yapılan vekâlet kayıtlarının iptali, gümrük idaresine başvurulmasına ve idarenin onayına tabidir.",
 "V. Yükümlü Kayıt ve Takip Sistemine kaydedilen bilgilerin doğru ve güncel olmasından gümrük işlemi yapan kişiler ve/veya temsilcileri sorumludur.",
@@ -3623,13 +3624,13 @@
 "II, IV ve V"
 ],
 "tuzak": false,
-"g": "Yönetmeliğe göre temsilci, temsil edilen kişi namına hareket ettiğini beyan etmek, temsilin doğrudan veya dolaylı olduğunu belirtmek ve temsilnameyi ibraz etmek zorundadır; II yanlıştır. Yükümlü Kayıt ve Takip Sistemindeki vekâlet kayıtlarının iptali başvuru ve onay işlemine tabi olmaksızın sistem üzerinden yapılır, başvuru ve onaya tabi olan ise kaydın tümüyle iptalidir; IV de yanlıştır. Engel hastalık şartı, onaylı kaydı olmayan temsilci aracılığıyla işlem yapılamaması ve kayıtların doğruluğundan kişilerin ve temsilcilerin sorumlu olması mevzuata uygundur. (MD GK 225; GY 561/1; YKTS Tebliği 3/5-6, 4/3, 4/5)",
-"kanit": "2-TEMSİL.txt | Temsilci, temsil edilen kişi namına hareket ettiğini beyan etmek, temsilin doğrudan veya dolaylı olduğunu belirtmek ve sahip olduğu temsilnameyi gümrük idaresine ibraz etmek zorundadır. || 2-TEMSİL.txt | Yükümlü Kayıt ve Takip Sistemine yapılan vekâlet kayıtlarının iptal işlemi, başvuru ve onay işlemine tabi olmaksızın sistem üzerinden gerçek/tüzel kişi veya kaydı yapan temsilci tarafından gerçekleştirilir. || 2-TEMSİL.txt | Tereddüt edilmesi halinde, Müsteşarlık tarafından tam teşekküllü resmi sağlık kurumlarından sağlık raporu talep edilebilir. || 2-TEMSİL.txt | Yükümlü Kayıt ve Takip Sisteminde onaylı kaydı olmayan doğrudan veya dolaylı temsilcileri aracılığıyla işlem yapmasına müsaade edilmez",
+"g": "Tebliğe göre Yükümlü Kayıt ve Takip Sisteminde temsil yetkisinin süresi uzatıldığında sistemde gerekli değişiklikler yapılarak vekâlet süre uzatımının onaylanması için gümrük idaresine başvurulur; II yanlıştır. Yükümlü Kayıt ve Takip Sistemindeki vekâlet kayıtlarının iptali başvuru ve onay işlemine tabi olmaksızın sistem üzerinden yapılır, başvuru ve onaya tabi olan ise kaydın tümüyle iptalidir; IV de yanlıştır. Engel hastalık şartı, onaylı kaydı olmayan temsilci aracılığıyla işlem yapılamaması ve kayıtların doğruluğundan kişilerin ve temsilcilerin sorumlu olması mevzuata uygundur. (MD GK 225; YKTS Tebliği 3/4-6, 4/3, 4/5, 7/3)",
+"kanit": "2-TEMSİL.txt | Yükümlü Kayıt ve Takip Sisteminde mevcut kayıt üzerinde yapılan güncelleme ve vekâlet süre uzatımı işlemlerinin onaylanması için gerçek/tüzel kişi veya temsilcisi tarafından gümrük idaresine başvuruda bulunulur. || 2-TEMSİL.txt | Yükümlü Kayıt ve Takip Sistemine yapılan vekâlet kayıtlarının iptal işlemi, başvuru ve onay işlemine tabi olmaksızın sistem üzerinden gerçek/tüzel kişi veya kaydı yapan temsilci tarafından gerçekleştirilir. || 2-TEMSİL.txt | Tereddüt edilmesi halinde, Müsteşarlık tarafından tam teşekküllü resmi sağlık kurumlarından sağlık raporu talep edilebilir. || 2-TEMSİL.txt | Yükümlü Kayıt ve Takip Sisteminde onaylı kaydı olmayan doğrudan veya dolaylı temsilcileri aracılığıyla işlem yapmasına müsaade edilmez",
 "batch": "K13",
 "no": 100,
 "harf": "D",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yönetmeliğe göre temsilci, temsil edilen kişi namına hareket ettiğini beyan etmek, temsilin doğrudan veya dolaylı olduğunu belirtmek ve temsilnameyi ibraz etmek zorundadır; II yanlıştır. Yükümlü Kayıt ve Takip Sistemindeki vekâlet kayıtlarının iptali başvuru ve onay işlemine tabi olmaksızın sistem üzerinden yapılır, başvuru ve onaya tabi olan ise kaydın tümüyle iptalidir; IV de yanlıştır. Engel hastalık şartı, onaylı kaydı olmayan temsilci aracılığıyla işlem yapılamaması ve kayıtların doğruluğundan kişilerin ve temsilcilerin sorumlu olması mevzuata uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 225; GY 561/1; YKTS Tebliği 3/5-6, 4/3, 4/5)"
+"g_harfli": "Tebliğe göre Yükümlü Kayıt ve Takip Sisteminde temsil yetkisinin süresi uzatıldığında sistemde gerekli değişiklikler yapılarak vekâlet süre uzatımının onaylanması için gümrük idaresine başvurulur; II yanlıştır. Yükümlü Kayıt ve Takip Sistemindeki vekâlet kayıtlarının iptali başvuru ve onay işlemine tabi olmaksızın sistem üzerinden yapılır, başvuru ve onaya tabi olan ise kaydın tümüyle iptalidir; IV de yanlıştır. Engel hastalık şartı, onaylı kaydı olmayan temsilci aracılığıyla işlem yapılamaması ve kayıtların doğruluğundan kişilerin ve temsilcilerin sorumlu olması mevzuata uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 225; YKTS Tebliği 3/4-6, 4/3, 4/5, 7/3)"
 }
 ]

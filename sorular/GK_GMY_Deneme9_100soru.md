@@ -195,7 +195,7 @@ E) Bölge idare mahkemesi
 
 A) Satıştan sonra beyanname tesciline kadar geçen sürede başka bir ülkede kullanılmış olan ithal eşyası  
 B) Alıcı ile satıcı arasında ilişki bulunan ancak satış fiyatı bu ilişkiden etkilenmediği belgelenen eşya  
-C) Deniz yoluyla sıvı hâlde getirilip gümrük gözetiminde gaza dönüştürülerek limanda boru hattına verilen LNG  
+C) Boru hatları veya elektrik telleriyle taşınan, depolama imkânı bulunmayan ve sürekli akış hâlinde olan eşya  
 D) Bedeli peşin ödenmeyip yazılı finansman anlaşmasıyla vadeli olarak ödenecek olan eşya  
 E) Antrepoda bekletildikten sonra serbest dolaşıma girecek olan dökme hâldeki sıvı eşya  
 
@@ -435,7 +435,7 @@ C) Valiliğe – İl Ticaret Odası veya İl Ticaret ve Sanayi Odası – İl De
 D) İl Ticaret Odası veya İl Ticaret ve Sanayi Odasına – İl Değerlendirme Komisyonu – Valilikçe  
 E) Gümrük ve Dış Ticaret Bölge Müdürlüğüne – İl Değerlendirme Komisyonu – Ticaret Bakanlığınca  
 
-**45.** Gümrük Yönetmeliğine göre;
+**45.** Gümrük Yönetmeliğine göre, ekonomik etkili gümrük rejimlerinde basitleştirilmiş usullerin kullanımına ilişkin;
 
 I. Aynı kişinin iki rejim izni arasında kayıtla geçişte tamamlayıcı beyan aranmaz.  
 II. Geçici ithalat eşyası ihracata basitleştirilmiş usulle girebilir.  
@@ -1375,14 +1375,14 @@ Gümrük Yönetmeliğine göre, satış bedeli yöntemine göre kıymet tespitin
 
 A) Satıştan sonra beyanname tesciline kadar geçen sürede başka bir ülkede kullanılmış olan ithal eşyası  
 B) Alıcı ile satıcı arasında ilişki bulunan ancak satış fiyatı bu ilişkiden etkilenmediği belgelenen eşya  
-C) Deniz yoluyla sıvı hâlde getirilip gümrük gözetiminde gaza dönüştürülerek limanda boru hattına verilen LNG  
+C) Boru hatları veya elektrik telleriyle taşınan, depolama imkânı bulunmayan ve sürekli akış hâlinde olan eşya  
 D) Bedeli peşin ödenmeyip yazılı finansman anlaşmasıyla vadeli olarak ödenecek olan eşya  
 E) Antrepoda bekletildikten sonra serbest dolaşıma girecek olan dökme hâldeki sıvı eşya  
 
 ✅ **Doğru Cevap:** C  
-📖 **Açıklama:** Satış bedeli yöntemine göre kıymet tespiti yapılan hâllerde, beyan sahibinin talebi üzerine basitleştirilmiş usullerin uygulanabileceği eşya arasında deniz yoluyla sıvı hâlde getirilip gümrük gözetiminde gaza dönüştürülerek limanda boru hattına verilen LNG sayılmıştır. Satıştan sonra başka ülkede kullanılmış eşya ile ilişkili kişiler arasındaki satış farklı hükümlere tabidir; vadeli ödeme ve antrepodan çekilecek dökme eşya istisnai kıymetle beyan edilebilecek eşya arasında yer almaz. Bu nedenle doğru cevap C seçeneğidir. (MD GY 53/1; GK 31/2)  
-⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.53/1; 4458 sayılı Gümrük Kanunu m.31/2  
-🔍 **Şık Uzunluk Kontrolü:** A:100 B:102 C:106 D:85 E:84 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
+📖 **Açıklama:** Satış bedeli yöntemine göre kıymet tespiti yapılan hâllerde, beyan sahibinin talebi üzerine basitleştirilmiş usullerin uygulanabileceği eşya arasında boru hatları veya elektrik telleri ile taşınan ve depolama imkânı olmayan sürekli akış hâlindeki eşya sayılmıştır. Satıştan sonra başka ülkede kullanılmış eşya ile ilişkili kişiler arasındaki satış farklı hükümlere tabidir; vadeli ödeme ve antrepodan çekilecek dökme eşya istisnai kıymetle beyan edilebilecek eşya arasında yer almaz. Bu nedenle doğru cevap C seçeneğidir. (MD GY 53/1; GK 31/2)  
+⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.53/1-ç; 4458 sayılı Gümrük Kanunu m.31/2  
+🔍 **Şık Uzunluk Kontrolü:** A:100 B:102 C:107 D:85 E:84 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
 
 ---
 
@@ -1831,7 +1831,7 @@ E) Gümrük ve Dış Ticaret Bölge Müdürlüğüne – İl Değerlendirme Komi
 
 **SORU 45.** [T2 – Orta Üstü] · Model soru: 2024/45
 
-Gümrük Yönetmeliğine göre;
+Gümrük Yönetmeliğine göre, ekonomik etkili gümrük rejimlerinde basitleştirilmiş usullerin kullanımına ilişkin;
 
 I. Aynı kişinin iki rejim izni arasında kayıtla geçişte tamamlayıcı beyan aranmaz.  
 II. Geçici ithalat eşyası ihracata basitleştirilmiş usulle girebilir.  
@@ -2999,7 +2999,8 @@ T1: 5 · T4: 10 · T6: 1 · T7: 1 · T9: 3
 - Madde numarası kökte ve şıkta kullanılmadı (Prompt 3 §7); dayanak her sorunun Yasal Dayanak satırında ve açıklama sonundaki (MD …) parantezinde verildi. 2009/15481 sayılı Karar köklerinde kurum kalıbı kullanıldı.
 - Kök uzunluğu: master §4.1 bantları (%30 · %40 · %20 · %10) hedeflendi; ancak kökün mevzuat adı + hükmün konusu ile açılması zorunluluğu (Prompt 3 §8, CLAUDE.md) özellikle uzun tebliğ adlarında kısa kökleri 121–150 karaktere taşıdı. Bu nedenle ≤120 bandı hedefin altında, >700 bandı hedefin üstündedir; gerçek dağılım Set Sonu tablosundadır.
 - Kapsam: gümrük bölümü Gümrük Yönetmeliği m.567/2 ile sınırlı (Gümrük Kanunu ve ikincil düzenlemeleri, 5607 sayılı Kanun ve ikincil düzenlemeleri; GMY'de fiilen sorulan İthalat Rejimi Kararı, DİR Tebliği, Sınır Ticareti Kararı). Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) gibi dış ticaret düzenlemelerine dayanan soru bırakılmadı. GK 241/1'de AYM 26.03.2026 kararıyla iptal edilen ibareye dayanan hüküm kullanılmadı. Tek bilgi kaynağı depodaki mevzuat dosyaları ve genel kültür kitabıdır.
-- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → düzeltilen 140 sorunun son bağımsız doğrulaması. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
+- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → doğrulama sonrası değişen 140 sorunun 3 bağımsız son doğrulayıcıyla yeniden kontrolü (bulunan sorunlar giderildi). 500 sorunun hiçbirinde doğrulama sonunda yanlış cevap anahtarı kalmadı. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
+- Plan kısıtından gerekçeli sapmalar: 45. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi.
 
 ## HAFIZA GÜNCELLEMESİ
 
@@ -3024,7 +3025,7 @@ GMY9-017 | Hakların sınıflandırılması (sosyal ve ekonomik haklar) | Genel 
 GMY9-018 | Yasama dokunulmazlığının istisnası | Genel Kültür Kitabı – Anayasa: Sorumsuzluk ve dokunulmazlık | Dokunulmazlığın istisnası ağır cezayı gerektiren suçüstü hâli ile seçimden önce soruşturmasına başlanılmış belirli durumlardır. | T4 | Z | D | GMY-S9
 GMY9-019 | Yönetim biçimleri (anayasal monarşi) | Genel Kültür Kitabı – Anayasa: Yönetim biçimleri ve kuvvetler; Demokrasi ve seçim ilkeleri | Anayasal monarşide başkanlık genellikle veraset yoluyla geçer; hükümdarın yetkileri anayasal kurumlarla sınırlandırılır. | T6 | OÜ | A | GMY-S9
 GMY9-020 | Yargı kolları (idari yargı ilk derece) | Genel Kültür Kitabı – Anayasa: Adli ve idari yargı ayrımı | İdare ve vergi mahkemeleri idari yargının ilk derecesi, bölge idare mahkemeleri istinaftır; iş, aile, ağır ceza adli yargıdır. | T4 | OÜ | D | GMY-S9
-GMY9-021 | Gümrük Kıymeti | Gümrük Yönetmeliği m.53/1; 4458 sayılı Gümrük Kanunu m.31/2 | İstisnai kıymetle (basitleştirilmiş usul) beyan edilebilenler: konsinye çabuk bozulabilir, sonradan belli olan unsurlar, fiyat revizyonu, boru hattı-elektrik, LNG. | T4 | OÜ | C | GMY-S9
+GMY9-021 | Gümrük Kıymeti | Gümrük Yönetmeliği m.53/1-ç; 4458 sayılı Gümrük Kanunu m.31/2 | Satış bedeli yöntemi uygulanan hâllerde boru hattı veya elektrik teliyle taşınan, depolanamayan sürekli akıştaki eşyanın kıymeti talep üzerine basitleştirilmiş usulle belirlenir. | T4 | OÜ | C | GMY-S9
 GMY9-022 | Gümrük Kıymeti | Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2) m.3/1-b | İmalat: maddeleri makina, alet veya el emeğiyle kısmen veya tamamen değiştirmek, işlemek ya da ürün bünyesinde fonksiyon yükleyerek yeni ürün elde etmek. | T5 | OÜ | D | GMY-S9
 GMY9-023 | Gümrük Kıymeti | 4458 sayılı Gümrük Kanunu m.27/1-b, m.27/2, m.27/3 | Alıcının bedelsiz veya düşük bedelle sağladığı mal ve hizmetlerde ilave, doğrudan olduğu gibi dolaylı sağlanmada da yapılır. | T1 | Z | C | GMY-S9
 GMY9-024 | Gümrük Kıymeti | 4458 sayılı Gümrük Kanunu m.28/f, m.24/3-a, m.27/1-a-iii, m.27/1-b-i; Gümrük Yönetmeliği m.51/4 | Eşyanın ithali veya satışı nedeniyle Türkiye'de ödenecek ithalat vergileri, fiyattan ayırt edilebilmek koşuluyla gümrük kıymetine dahil edilmez. | T4 | OÜ | B | GMY-S9

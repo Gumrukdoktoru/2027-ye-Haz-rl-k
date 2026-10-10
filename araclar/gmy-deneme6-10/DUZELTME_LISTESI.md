@@ -110,3 +110,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 ## Son doğrulama (S2)
 - K12 uygulandı: D7-026 5607 m.17/2 ikinci cümleye (ağır ceza mahkemesi) taşındı; 2022/21 E şıkkıyla aynılık giderildi.
 - K13 uygulandı: D7-100 öncül II YKTS Tebliği 3/4, 7/3'e taşındı; 2021/22 doğru cevabıyla aynılık giderildi.
+- K10 uygulandı: D6-079 öncül II ve III (2021/79 şıklarıyla aynılık giderildi), D6-081 doğru şık GK 200'e taşındı (2021/81 D şıkkının tersi giderildi).

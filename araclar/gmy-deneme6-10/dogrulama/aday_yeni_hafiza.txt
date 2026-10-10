@@ -1,4 +1,4 @@
-402 çift
+396 çift
 D6-022(K01) ~ HAFIZA GMY2-054: [('GY', '561/4')]
    Y: Kamu kurumlarının vekaletnamesinde noter onayı aranmaz; vekaletname ve temsilnameler gümrük idaresine verilip düzenli şekilde saklanır.
    H: Kamu ve özel hukuk tüzel kişisi yetkilileri tüm işlemleri, gerçek kişi ticari olmayan eşyayı, taşıyıcılar yalnız transit işlemlerini doğrudan temsille takip eder.
@@ -488,9 +488,6 @@ D10-094(K04) ~ HAFIZA GMY5-060: [('GK', '46/2')]
 D6-051(K05) ~ HAFIZA GMY2-059: [('GY', '180/2')]
    Y: Hat sonuçları: yeşil hatta belge eklenmez; mavi hatta kontrol çıkıştan sonra; kırmızı hat tam muayenede tahlil kolaylığı yok; varış öncesi sarı-yeşilde geçici depolama ka
    H: Sarı hat: muayeneye gerek görülmeksizin beyanname ve eklerinin doğruluğu ile birbiriyle uygunluğunun kontrol edildiği hattır.
-D7-039(K05) ~ HAFIZA GMY3-040: [('GK', '213/3')]
-   Y: Beyandan önce denenmek üzere teslim edilen eşyada vergiler, kusurun deneme sırasında anlaşılamadığı kanıtlanmadıkça geri verilmez veya kaldırılmaz.
-   H: Kusurlu eşya ilk kullanım dışında kullanılmamışsa ihraç yerine serbest bölgeye konulabilir; başvuru vergilerin tebliğinden itibaren bir yıl içinde yapılır.
 D8-049(K05) ~ HAFIZA GMY3-036: [('GK', '3/9')]
    Y: Tarım politikası veya işlenmiş tarım ürünlerine özel düzenlemelerle ihracatta alınan vergi ve mali yükler ithalat değil ihracat vergisidir.
    H: Gümrüklenmiş değer CIF kıymeti ile gümrük vergileri toplamıdır; giriş yeri sonrası nakliye ve gecikme zammı hesaba katılmaz.
@@ -587,17 +584,14 @@ D7-085(K09) ~ HAFIZA GMY4-073: [('GK', '167/5')]
 D6-078(K10) ~ HAFIZA GMY2-029: [('GK', '244/5')]
    Y: Uzlaşılan vergilere yükümlülük başlangıcından uzlaşma tutanağının imzalandığı tarihe kadar gecikme zammı oranında gecikme faizi uygulanır.
    H: Noksan vergiler tebliğden itibaren 15 gün içinde ödenir; süre bitmeden yazılı istem ve teminatla ödeme süresi otuz gün daha uzatılabilir.
-D6-079(K10) ~ HAFIZA GMY3-038: [('GY', '489/2')]
-   Y: Dava hâlinde vergiler aleyhe kararın gümrük idaresine tebliğiyle tahsil edilebilir olur; periyodik tahakkuk süresi otuz günü geçemez.
-   H: Uzlaşma tutanağının yükümlüce imzalanması tebliğ hükmündedir; ek tahakkuk ve bağlı cezalar tek kararla, müteselsil sorumlulara ayrı ayrı tebliğ edilir.
+D6-079(K10) ~ HAFIZA GMY5-037: [('GK', '195/1')]
+   Y: Tahakkuk İzleme Defteri elektronik ortamda tutulur, bilgisayar çıktıları defter yerine geçer; aynı cins eşyada dönemsel tahakkuk süresi otuz günü geçemez.
+   H: Dolaşım belgesi karşı ülkece yanlışlıkla onaylanırsa yükümlü tüm özeni gösterdiğini ispatlarsa tercihli tarife nedeniyle alınmayan vergiler sonradan istenmez.
 D6-080(K10) ~ HAFIZA GMY2-033: [('GY', '511/2')]
    Y: Muhbirlere dağıtılan para cezalarından geri verilmesine karar verilenler kararın verildiği tarihten itibaren bir ay içinde geri istenir.
    H: Geri verme/kaldırma hükümleri GK kapsamındaki para cezalarına da uygulanır; kasıtlı tahrifat, TPÖ kıymet artırımı ve kusur bilinerek satışta talep kabul edilmez.
-D6-081(K10) ~ HAFIZA GMY-028: [('GK', '198/3')]
-   Y: Yükümlü vergi tutarının tamamını veya bir kısmını süre bitimini beklemeden ödeyebilir; vergiler yetkili bankalar aracılığıyla da tahsil edilebilir.
-   H: Ödeme süresi: süre bitmeden yazılı istem + teminatla otuz gün uzatılabilir, kalem bazında da olur, tecil faizi alınır; itiraz süreyi keser
 D6-081(K10) ~ HAFIZA GMY5-037: [('GK', '195/1')]
-   Y: Yükümlü vergi tutarının tamamını veya bir kısmını süre bitimini beklemeden ödeyebilir; vergiler yetkili bankalar aracılığıyla da tahsil edilebilir.
+   Y: Gümrük vergileri Türk Lirası olarak 6183 sayılı Kanun usullerine göre ödenir; yetki verilen bankalar aracılığıyla da tahsil edilebilir.
    H: Dolaşım belgesi karşı ülkece yanlışlıkla onaylanırsa yükümlü tüm özeni gösterdiğini ispatlarsa tercihli tarife nedeniyle alınmayan vergiler sonradan istenmez.
 D7-029(K10) ~ HAFIZA GMY2-031: [('GK', '188/2'), ('GK', '189/2')]
    Y: İhracat vergisinden muafiyetle gönderilmesine izin verilen eşyada yükümlülük, izin verilen yerden başka bir varış yerine ulaştığı tarihte başlar.
@@ -676,18 +670,6 @@ D7-036(K11) ~ HAFIZA GMY2-037: [('GK', '235/1')]
    H: İthali yasak eşyada gümrüklenmiş değerin dört katı; ithalatta izin/belge ve ihracı yasak eşyada iki katı; ihracatta belge onda biri; antrepo noksanı iki katı.
 D7-036(K11) ~ HAFIZA GMY5-094: [('GK', '235/1')]
    Y: İzin alınmış gibi beyan edilen atık eşyada ceza ton başına sekiz bin, kap başına iki yüz TL olarak hesaplanır ve eşya yurt dışı edilir.
-   H: İthali yasak dökme atıkta ceza ton başına otuz bin TL'dir; muaf eşyanın kapı dışından ithalinde CIF değerinin onda biri ceza alınır.
-D7-042(K11) ~ HAFIZA GMY-039: [('GK', '235/1')]
-   Y: Teslimden sonra kontrolde uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.
-   H: İthalatta belgeye bağlı eşyada belge alınmış gibi beyan: gümrüklenmiş değerin (CIF+gümrük vergileri) iki katı; idareden önce bildirimde yüzde on
-D7-042(K11) ~ HAFIZA GMY2-037: [('GK', '235/1')]
-   Y: Teslimden sonra kontrolde uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.
-   H: İthali yasak eşyada gümrüklenmiş değerin dört katı; ithalatta izin/belge ve ihracı yasak eşyada iki katı; ihracatta belge onda biri; antrepo noksanı iki katı.
-D7-042(K11) ~ HAFIZA GMY3-095: [('GK', '235/4')]
-   Y: Teslimden sonra kontrolde uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.
-   H: İthali yasak eşya talep üzerine otuz gün içinde mahrecine iade veya uygun görüşle doğrudan üçüncü ülkeye transit edilir; aksi hâlde terk edilir.
-D7-042(K11) ~ HAFIZA GMY5-094: [('GK', '235/1')]
-   Y: Teslimden sonra kontrolde uygunsuzluğu tespit edilen ancak bulunamayan eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir.
    H: İthali yasak dökme atıkta ceza ton başına otuz bin TL'dir; muaf eşyanın kapı dışından ithalinde CIF değerinin onda biri ceza alınır.
 D7-069(K11) ~ HAFIZA GMY-024: [('GK', '241/4')]
    Y: Tehlikeli eşyanın genel amaçlı yerde depolanması dört, antrepo kaydına geçirmeme iki, istenen belgeyi ibraz etmeme sekiz kat; toplam on dört kat.

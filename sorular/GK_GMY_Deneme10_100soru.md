@@ -62,7 +62,7 @@ E) Eski yapıları korumak bir kente neler kazandırır?
 
 **5.** Doç. Dr. Selim Arı kentin en eski kütüphanesini anlattığı yazısına şöyle başlar: “Kitaplar bir şehrin sessiz tanıklarıdır.” Kütüphanenin müdürü, yarım asırdır burada çalışan Nermin Hanım, her sabah kapıları kendi elleriyle açarmış. Raflarda üç tür eser bulunuyor: el yazmaları, eski haritalar ve ilk baskı romanlar. Arı’ya göre bu koleksiyon Anadolu’daki benzerlerinin çoğundan daha zengindir.
 
-Bu parçada, aşağıda işlevi verilen noktalama işaretlerinden hangisinin kullanımına örnek bulunmamaktadır?  
+Bu parçada, aşağıda işlevi verilen noktalama işaretlerinden hangisinin kullanımına örnek <u>**bulunmamaktadır**</u>?  
 
 A) Doçent, doktor gibi unvanların kısaltılmış biçimlerinden sonra nokta konur.  
 B) Cümleye ek bilgi katan açıklama, cümle içinde yay ayraç kullanılarak gösterilir.  
@@ -391,7 +391,7 @@ C) I ve III
 D) II ve III  
 E) I, III ve IV  
 
-**40.** Gümrük mevzuatına göre;
+**40.** 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre;
 
 I. Geri verme kararından sonra, izinli imhadan kalan atık ve artıklar  
 II. Nihai kullanım nedeniyle sıfır vergiyle serbest dolaşıma giren eşya  
@@ -433,7 +433,7 @@ Gümrük Yönetmeliğine göre, söz konusu eşyaya ilişkin yapılacak işlem a
 
 A) Eşya, yükümlü talebi doğrultusunda masrafları sahibince karşılanmak koşuluyla gümrük gözetiminde imha edilir; imha mümkün değilse eşya gümrük idaresine terk edilir.  
 B) Eşya, yükümlü talebi doğrultusunda otuz gün içinde mahrecine iade edilir; bu sürede iade edilmezse imha edilmek üzere bulunduğu gümrük idaresine terk edilir.  
-C) Eşya, yükümlü talebi doğrultusunda ilgili kurumun uygun görüşü ile doğrudan ya da serbest bölge üzerinden üçüncü ülkeye transit edilebilir veya imha edilmek üzere terk edilebilir.  
+C) Eşya, yükümlü talebi doğrultusunda ilgili kurumca yeniden denetlenmek üzere geçici depolama yerinde bekletilir; ikinci denetim olumlu sonuçlanırsa serbest dolaşıma girişine izin verilir.  
 D) Eşyanın gümrüklenmiş değerinin dört katı idari para cezası verilir ve eşya, ceza tahsil edildikten sonra ihraç kaydıyla satılmak üzere gümrüğe terk edilir.  
 E) Eşya yükümlüsü tarafından derhal yurt dışı edilir; bu nitelikteki eşya Türkiye Gümrük Bölgesinde imha edilemeyeceği gibi gümrük idaresine de terk edilemez.  
 
@@ -474,7 +474,7 @@ C) I ve II
 D) I ve III  
 E) II ve III  
 
-**48.** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre, onaylanmış ihracatçı yetkisi için aranan A.TR koşulu hangisidir?
+**48.** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre, onaylanmış ihracatçı yetkisi için aranan dolaşım belgesi koşulu hangisidir?
 
 A) Kayıt ayının ilk gününden geriye dönük bir yılda en az elli EUR.1  
 B) Kayıt ayının ilk gününden geriye dönük iki yılda en az elli A.TR  
@@ -507,7 +507,7 @@ C) 2 ve 3
 D) 2, 3 ve 4  
 E) 2, 3 ve 5  
 
-**51.** 4458 sayılı Gümrük Kanununa göre, antrepodan kayıt yoluyla serbest dolaşıma girişte vergilerin hesaplanmasına ilişkin hangisi doğrudur?
+**51.** 4458 sayılı Gümrük Kanununa göre, antrepodan kayıt yoluyla serbest dolaşıma girişte vergilerin hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Kural olarak beyannamenin tescil tarihindeki unsurlar esas alınır; yükümlü talep ederse antrepo rejimine tabi tutulma tarihindeki unsurlar uygulanır.  
 B) Antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse eşyanın antrepodan fiilen çıktığı tarihteki unsurlar uygulanır.  
@@ -613,9 +613,9 @@ C) menşe belgesinin – e-irsaliyenin – yedi iş günü
 D) faturanın – e-irsaliyenin – izleyen ayın ilk üç günü  
 E) faturanın – e-irsaliyenin – yedi iş günü  
 
-**62.** Dahilde İşleme Rejimi Tebliğine göre geri ödeme sistemine ilişkin aşağıdaki ifadeler veriliyor:
+**62.** Gümrük mevzuatına göre dahilde işleme rejiminin geri ödeme sistemine ilişkin aşağıdaki ifadeler veriliyor:
 
-I. Avrupa Topluluğu menşeli tarım ürünleri hariç olmak üzere, ithali miktar kısıtlamalarına tabi olan eşya geri ödeme sisteminden yararlandırılmaz.  
+I. Geri ödeme sisteminde serbest dolaşıma giriş beyannamesi, izinde belirtilen gümrük idaresine verilir.  
 II. Geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye, bu sürenin bitiminden itibaren tecil faizi hükümleri uygulanır.  
 III. Süresi içinde ihracatı gerçekleştirilemeyen eşyaya ilişkin ithalatta alınan vergi, firmaya faiziyle birlikte iade edilir.  
 IV. A.TR belgesiyle Topluluğa ihraç edilecek ürünün girdilerinin ithalatında, gümrük vergisi dahil tüm vergiler teminata bağlanır.  
@@ -758,7 +758,7 @@ C) Transit rejiminin sonlandırılması
 D) Eşyanın serbest bırakılması  
 E) Rejimin ibra edilmesi  
 
-**75.** (L) Dış Ticaret Ltd. Şti. adına Kayseri Gümrük Müdürlüğünde serbest dolaşımda olmayan eşya için ulusal transit beyanında bulunulmuş ve beyanda varış gümrük idaresi olarak Doğubayazıt Gümrük Müdürlüğü gösterilmiştir. Kayseri Gümrük Müdürlüğünce beyan kabul edilmiş, MRN oluşturulmuş, taşıt mühürlenerek sevk edilmiş ve Doğubayazıt Gümrük Müdürlüğüne "Beklenen Varış Kaydı" mesajı gönderilmiştir. Yolculuk sırasında alıcı firma, eşyanın Erzurum'daki bir antrepoya konulmasına karar vermiş; taşıt transit süresi içinde ve mühürleri sağlam olarak Erzurum Gümrük Müdürlüğüne getirilmiş, eşya MRN ile birlikte bu idareye sunulmuştur. Sistemde Erzurum Gümrük Müdürlüğüne gönderilmiş bir "Beklenen Varış Kaydı" mesajı bulunmamaktadır.
+**75.** (L) Dış Ticaret Ltd. Şti. adına Kayseri Gümrük Müdürlüğünde serbest dolaşımda olmayan eşya için ulusal transit beyanında bulunulmuş ve beyanda varış gümrük idaresi olarak Doğubayazıt Gümrük Müdürlüğü gösterilmiştir. Kayseri Gümrük Müdürlüğünce beyan kabul edilmiş, taşıt mühürlenerek sevk edilmiş ve Doğubayazıt Gümrük Müdürlüğüne "Beklenen Varış Kaydı" mesajı gönderilmiştir. Yolculuk sırasında alıcı firma, eşyanın Erzurum'daki bir antrepoya konulmasına karar vermiş; taşıt transit süresi içinde ve mühürleri sağlam olarak Erzurum Gümrük Müdürlüğüne getirilmiş, eşya bu idareye sunulmuştur. Sistemde Erzurum Gümrük Müdürlüğüne gönderilmiş bir "Beklenen Varış Kaydı" mesajı bulunmamaktadır.
 
 Buna göre, Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) çerçevesinde aşağıdakilerden hangisi doğrudur?  
 
@@ -1106,7 +1106,7 @@ E) Eski yapıları korumak bir kente neler kazandırır?
 
 Doç. Dr. Selim Arı kentin en eski kütüphanesini anlattığı yazısına şöyle başlar: “Kitaplar bir şehrin sessiz tanıklarıdır.” Kütüphanenin müdürü, yarım asırdır burada çalışan Nermin Hanım, her sabah kapıları kendi elleriyle açarmış. Raflarda üç tür eser bulunuyor: el yazmaları, eski haritalar ve ilk baskı romanlar. Arı’ya göre bu koleksiyon Anadolu’daki benzerlerinin çoğundan daha zengindir.
 
-Bu parçada, aşağıda işlevi verilen noktalama işaretlerinden hangisinin kullanımına örnek bulunmamaktadır?  
+Bu parçada, aşağıda işlevi verilen noktalama işaretlerinden hangisinin kullanımına örnek <u>**bulunmamaktadır**</u>?  
 
 A) Doçent, doktor gibi unvanların kısaltılmış biçimlerinden sonra nokta konur.  
 B) Cümleye ek bilgi katan açıklama, cümle içinde yay ayraç kullanılarak gösterilir.  
@@ -1750,7 +1750,7 @@ E) I, III ve IV
 
 **SORU 40.** [T2 – Zor] · Model soru: 2025/40
 
-Gümrük mevzuatına göre;
+4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre;
 
 I. Geri verme kararından sonra, izinli imhadan kalan atık ve artıklar  
 II. Nihai kullanım nedeniyle sıfır vergiyle serbest dolaşıma giren eşya  
@@ -1819,14 +1819,14 @@ Gümrük Yönetmeliğine göre, söz konusu eşyaya ilişkin yapılacak işlem a
 
 A) Eşya, yükümlü talebi doğrultusunda masrafları sahibince karşılanmak koşuluyla gümrük gözetiminde imha edilir; imha mümkün değilse eşya gümrük idaresine terk edilir.  
 B) Eşya, yükümlü talebi doğrultusunda otuz gün içinde mahrecine iade edilir; bu sürede iade edilmezse imha edilmek üzere bulunduğu gümrük idaresine terk edilir.  
-C) Eşya, yükümlü talebi doğrultusunda ilgili kurumun uygun görüşü ile doğrudan ya da serbest bölge üzerinden üçüncü ülkeye transit edilebilir veya imha edilmek üzere terk edilebilir.  
+C) Eşya, yükümlü talebi doğrultusunda ilgili kurumca yeniden denetlenmek üzere geçici depolama yerinde bekletilir; ikinci denetim olumlu sonuçlanırsa serbest dolaşıma girişine izin verilir.  
 D) Eşyanın gümrüklenmiş değerinin dört katı idari para cezası verilir ve eşya, ceza tahsil edildikten sonra ihraç kaydıyla satılmak üzere gümrüğe terk edilir.  
 E) Eşya yükümlüsü tarafından derhal yurt dışı edilir; bu nitelikteki eşya Türkiye Gümrük Bölgesinde imha edilemeyeceği gibi gümrük idaresine de terk edilemez.  
 
 ✅ **Doğru Cevap:** E  
-📖 **Açıklama:** İlgili kurumlarca yapılan kontrol sonucunda eşyanın insan, hayvan, bitki ve çevre sağlığı yönünden tehlikeli ve zararlı olduğunun tespiti hâlinde eşya yükümlüsü tarafından derhal yurt dışı edilir; mevzuat hükümleri saklı kalmak üzere bu nitelikteki eşya Türkiye Gümrük Bölgesinde imha edilemez ve gümrük idarelerine terk edilemez. Mahrecine iade, transit veya terk seçenekleri ithaline izin verilmeyen eşyaya ilişkin genel hükümdür; otuz günlük süre ise ithali yasak eşyaya ilişkindir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 181/4-ç, 181/4-d, 181/11)  
-⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.181/4-ç, 181/4-d, 181/11  
-🔍 **Şık Uzunluk Kontrolü:** A:164 B:157 C:179 D:155 E:155 karakter → Denge: UYGUN
+📖 **Açıklama:** İlgili kurumlarca yapılan kontrol sonucunda eşyanın insan, hayvan, bitki ve çevre sağlığı yönünden tehlikeli ve zararlı olduğunun tespiti hâlinde eşya yükümlüsü tarafından derhal yurt dışı edilir; mevzuat hükümleri saklı kalmak üzere bu nitelikteki eşya Türkiye Gümrük Bölgesinde imha edilemez ve gümrük idarelerine terk edilemez. Bu nitelikteki eşya için gözetim altında imha, terk veya yeniden denetim için bekletme öngörülmemiştir; otuz günlük iade süresi ise ithali yasak eşyaya ilişkindir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 181/4-d, 181/11)  
+⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.181/4-d, 181/11  
+🔍 **Şık Uzunluk Kontrolü:** A:164 B:157 C:186 D:155 E:155 karakter → Denge: UYGUN
 
 ---
 
@@ -1905,7 +1905,7 @@ E) II ve III
 
 **SORU 48.** [T3 – Zor] · Model soru: 2025/48
 
-Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre, onaylanmış ihracatçı yetkisi için aranan A.TR koşulu hangisidir?
+Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre, onaylanmış ihracatçı yetkisi için aranan dolaşım belgesi koşulu hangisidir?
 
 A) Kayıt ayının ilk gününden geriye dönük bir yılda en az elli EUR.1  
 B) Kayıt ayının ilk gününden geriye dönük iki yılda en az elli A.TR  
@@ -1965,7 +1965,7 @@ E) 2, 3 ve 5
 
 **SORU 51.** [T4 – Orta Üstü] · Model soru: 2025/51
 
-4458 sayılı Gümrük Kanununa göre, antrepodan kayıt yoluyla serbest dolaşıma girişte vergilerin hesaplanmasına ilişkin hangisi doğrudur?
+4458 sayılı Gümrük Kanununa göre, antrepodan kayıt yoluyla serbest dolaşıma girişte vergilerin hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Kural olarak beyannamenin tescil tarihindeki unsurlar esas alınır; yükümlü talep ederse antrepo rejimine tabi tutulma tarihindeki unsurlar uygulanır.  
 B) Antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse eşyanın antrepodan fiilen çıktığı tarihteki unsurlar uygulanır.  
@@ -2170,9 +2170,9 @@ E) faturanın – e-irsaliyenin – yedi iş günü
 
 **SORU 62.** [T2 – Orta Üstü] · Model soru: 2025/62
 
-Dahilde İşleme Rejimi Tebliğine göre geri ödeme sistemine ilişkin aşağıdaki ifadeler veriliyor:
+Gümrük mevzuatına göre dahilde işleme rejiminin geri ödeme sistemine ilişkin aşağıdaki ifadeler veriliyor:
 
-I. Avrupa Topluluğu menşeli tarım ürünleri hariç olmak üzere, ithali miktar kısıtlamalarına tabi olan eşya geri ödeme sisteminden yararlandırılmaz.  
+I. Geri ödeme sisteminde serbest dolaşıma giriş beyannamesi, izinde belirtilen gümrük idaresine verilir.  
 II. Geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye, bu sürenin bitiminden itibaren tecil faizi hükümleri uygulanır.  
 III. Süresi içinde ihracatı gerçekleştirilemeyen eşyaya ilişkin ithalatta alınan vergi, firmaya faiziyle birlikte iade edilir.  
 IV. A.TR belgesiyle Topluluğa ihraç edilecek ürünün girdilerinin ithalatında, gümrük vergisi dahil tüm vergiler teminata bağlanır.  
@@ -2185,8 +2185,8 @@ D) I, II ve III
 E) I, II ve IV  
 
 ✅ **Doğru Cevap:** A  
-📖 **Açıklama:** Tebliğe göre Avrupa Topluluğuna üye ülkeler menşeli tarım ürünleri hariç olmak üzere ithali miktar kısıtlamalarına tabi eşya geri ödeme sisteminden yararlandırılmaz ve geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye tecil faizi hükümleri uygulanır; I ve II doğrudur. Süresinde ihracatı gerçekleştirilemeyen eşyaya ilişkin alınan vergi iade edilmez; A.TR ile Topluluğa ihraç edilecek ürünün girdilerinde ise gümrük vergisi ve varsa toplu konut fonu tahsil edilip yalnız diğer vergiler teminata bağlanır. Bu nedenle doğru cevap A seçeneğidir. (MD DİR Tebliği 11/2, 12/1-a, 13/1, 43/4)  
-⚖️ **Yasal Dayanak:** Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.11/2, 12/1-a, 13/1, 43/4  
+📖 **Açıklama:** Gümrük Yönetmeliğine göre geri ödeme sisteminde serbest dolaşıma giriş beyannamesi izinde belirtilen gümrük idaresine verilir; Dahilde İşleme Rejimi Tebliğine göre de geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye tecil faizi hükümleri uygulanır; I ve II doğrudur. Süresinde ihracatı gerçekleştirilemeyen eşyaya ilişkin alınan vergi iade edilmez; A.TR ile Topluluğa ihraç edilecek ürünün girdilerinde ise gümrük vergisi ve varsa toplu konut fonu tahsil edilip yalnız diğer vergiler teminata bağlanır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 365/1; DİR Tebliği 11/2, 13/1, 43/4)  
+⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.365/1; Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.11/2, 13/1, 43/4  
 🔍 **Şık Uzunluk Kontrolü:** A:7 B:7 C:8 D:12 E:11 karakter → Denge: UYGUN
 
 ---
@@ -2432,7 +2432,7 @@ E) Rejimin ibra edilmesi
 
 **SORU 75.** [T8 – Zor] · Model soru: 2025/75
 
-(L) Dış Ticaret Ltd. Şti. adına Kayseri Gümrük Müdürlüğünde serbest dolaşımda olmayan eşya için ulusal transit beyanında bulunulmuş ve beyanda varış gümrük idaresi olarak Doğubayazıt Gümrük Müdürlüğü gösterilmiştir. Kayseri Gümrük Müdürlüğünce beyan kabul edilmiş, MRN oluşturulmuş, taşıt mühürlenerek sevk edilmiş ve Doğubayazıt Gümrük Müdürlüğüne "Beklenen Varış Kaydı" mesajı gönderilmiştir. Yolculuk sırasında alıcı firma, eşyanın Erzurum'daki bir antrepoya konulmasına karar vermiş; taşıt transit süresi içinde ve mühürleri sağlam olarak Erzurum Gümrük Müdürlüğüne getirilmiş, eşya MRN ile birlikte bu idareye sunulmuştur. Sistemde Erzurum Gümrük Müdürlüğüne gönderilmiş bir "Beklenen Varış Kaydı" mesajı bulunmamaktadır.
+(L) Dış Ticaret Ltd. Şti. adına Kayseri Gümrük Müdürlüğünde serbest dolaşımda olmayan eşya için ulusal transit beyanında bulunulmuş ve beyanda varış gümrük idaresi olarak Doğubayazıt Gümrük Müdürlüğü gösterilmiştir. Kayseri Gümrük Müdürlüğünce beyan kabul edilmiş, taşıt mühürlenerek sevk edilmiş ve Doğubayazıt Gümrük Müdürlüğüne "Beklenen Varış Kaydı" mesajı gönderilmiştir. Yolculuk sırasında alıcı firma, eşyanın Erzurum'daki bir antrepoya konulmasına karar vermiş; taşıt transit süresi içinde ve mühürleri sağlam olarak Erzurum Gümrük Müdürlüğüne getirilmiş, eşya bu idareye sunulmuştur. Sistemde Erzurum Gümrük Müdürlüğüne gönderilmiş bir "Beklenen Varış Kaydı" mesajı bulunmamaktadır.
 
 Buna göre, Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4) çerçevesinde aşağıdakilerden hangisi doğrudur?  
 
@@ -3012,7 +3012,8 @@ T1: 3 · T3: 1 · T4: 11 · T7: 1 · T8: 1 · T9: 3
 - Madde numarası kökte ve şıkta kullanılmadı (Prompt 3 §7); dayanak her sorunun Yasal Dayanak satırında ve açıklama sonundaki (MD …) parantezinde verildi. 2009/15481 sayılı Karar köklerinde kurum kalıbı kullanıldı.
 - Kök uzunluğu: master §4.1 bantları (%30 · %40 · %20 · %10) hedeflendi; ancak kökün mevzuat adı + hükmün konusu ile açılması zorunluluğu (Prompt 3 §8, CLAUDE.md) özellikle uzun tebliğ adlarında kısa kökleri 121–150 karaktere taşıdı. Bu nedenle ≤120 bandı hedefin altında, >700 bandı hedefin üstündedir; gerçek dağılım Set Sonu tablosundadır.
 - Kapsam: gümrük bölümü Gümrük Yönetmeliği m.567/2 ile sınırlı (Gümrük Kanunu ve ikincil düzenlemeleri, 5607 sayılı Kanun ve ikincil düzenlemeleri; GMY'de fiilen sorulan İthalat Rejimi Kararı, DİR Tebliği, Sınır Ticareti Kararı). Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) gibi dış ticaret düzenlemelerine dayanan soru bırakılmadı. GK 241/1'de AYM 26.03.2026 kararıyla iptal edilen ibareye dayanan hüküm kullanılmadı. Tek bilgi kaynağı depodaki mevzuat dosyaları ve genel kültür kitabıdır.
-- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → düzeltilen 140 sorunun son bağımsız doğrulaması. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
+- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → doğrulama sonrası değişen 140 sorunun 3 bağımsız son doğrulayıcıyla yeniden kontrolü (bulunan sorunlar giderildi). 500 sorunun hiçbirinde doğrulama sonunda yanlış cevap anahtarı kalmadı. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
+- Plan kısıtından gerekçeli sapmalar: 40. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi; 48. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi; 51. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi.
 
 ## HAFIZA GÜNCELLEMESİ
 
@@ -3059,7 +3060,7 @@ GMY10-039 | Menşe | Yetkilendirilmiş Gümrük Müşavirliği Tebliği m.11/1-e
 GMY10-040 | Serbest Dolaşıma Giriş | Gümrük Yönetmeliği m.509/1; 4458 sayılı Gümrük Kanunu m.77/1, 121/1-b, 121/2, 187/1 | İzinli imha atıkları, nihai kullanım tahribat atıkları ve geri ödeme sisteminde yeniden ihraç için antrepoya konulan ürünler serbest dolaşımda olmayan eşya sayılır. | T2 | Z | E | GMY-S10
 GMY10-041 | Menşe | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-y | EUR.1 ve diğer menşe ispat belgeleri ihracatçı ülke yetkili kuruluşlarınca düzenlenir ve gümrük idaresince vize edilir. | T7 | OÜ | B | GMY-S10
 GMY10-042 | Menşe | Gümrük Yönetmeliği m.42/3 | Menşe şahadetnamesi 210x297 mm (uzunlukta -5/+8 mm tolerans), en az 64 gr/m2, seri numaralı meneviş desenli zeminli; matbaa adı-adresi veya işareti bulunur. | T2 | Z | A | GMY-S10
-GMY10-043 | Cezalar | Gümrük Yönetmeliği m.181/4-ç, 181/4-d, 181/11 | İlgili kurum kontrolünde sağlık yönünden tehlikeli ve zararlı bulunan eşya derhal yurt dışı edilir; Türkiye'de imha edilemez, gümrüğe terk edilemez. | T8 | OÜ | E | GMY-S10
+GMY10-043 | Cezalar | Gümrük Yönetmeliği m.181/4-d, 181/11 | İlgili kurum kontrolünde sağlık yönünden tehlikeli ve zararlı bulunan eşya derhal yurt dışı edilir; Türkiye'de imha edilemez, gümrüğe terk edilemez. | T8 | OÜ | E | GMY-S10
 GMY10-044 | İthalat Rejim Kararı | 3350 sayılı İthalat Rejimi Kararı m.3/1-2, 4/2, 5/1-2 | İRK'ya göre kamu ahlakı, düzen, güvenlik, sağlık ve sınai mülkiyet önlemleri dışındaki eşyanın ithali serbesttir; Bakanlık iznine bağlı değildir. | T1 | OÜ | D | GMY-S10
 GMY10-045 | Menşe | Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.54/1, 56/2, 56/5 | Basitleştirilmiş usulde düzenlenen A.TR, tasdik edilmeksizin onaylanmış ihracatçı yetkisini haiz statü belgesi sahibince vize edilir. | T7 | OÜ | C | GMY-S10
 GMY10-046 | Menşe | Gümrük Yönetmeliği m.42/2 | Türkiye'den ihracatta menşe şahadetnamesi, ihracatçının veya sorumluluğundaki yetkili temsilcisinin yazılı başvurusu üzerine düzenlenir. | T7 | OÜ | B | GMY-S10
@@ -3078,7 +3079,7 @@ GMY10-058 | Bağlayıcı Bilgi (BTB/BMB) | 4458 sayılı Gümrük Kanunu m.9/7, 
 GMY10-059 | Dahilde İşleme | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.17/1-2, 17/5-7 | Tarım/işlenmiş tarım ürünü ihracatında DTSŞ, SDTŞ ve %51’i imalatçı hissedarlarına ait ihracatçılar dışındaki ihracatçılar adına belge/izin düzenlenmez. | T1 | Z | B | GMY-S10
 GMY10-060 | Beyan | 4458 sayılı Gümrük Kanunu m.69/3 | Yükümlülük doğuran beyannamede vergiler ödenmedikçe veya teminata bağlanmadıkça eşya teslim edilmez; kural kısmi muafiyetli geçici ithalata uygulanmaz. | T5 | OÜ | C | GMY-S10
 GMY10-061 | İhracat | Gümrük Yönetmeliği m.153/3, 158/6 | Posta ve hızlı kargo şirketlerinin faturasız ihracat beyanı e-irsaliye eklenerek kabul edilir; tamamlayıcı beyan yedi iş günü içinde verilir. | T5 | Z | E | GMY-S10
-GMY10-062 | Dahilde İşleme | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.11/2, 12/1-a, 13/1, 43/4 | Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır. | T2 | OÜ | A | GMY-S10
+GMY10-062 | Dahilde İşleme | Gümrük Yönetmeliği m.365/1; Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.11/2, 13/1, 43/4 | Geri ödemede serbest dolaşıma giriş beyannamesi izinde belirtilen gümrük idaresine verilir; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır. | T2 | OÜ | A | GMY-S10
 GMY10-063 | Dahilde İşleme | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-l, 3/1-ş, 3/1-oo | DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır. | T1+T2 | OÜ | C | GMY-S10
 GMY10-064 | Dahilde İşleme | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.10/1-2 | Şartlı muafiyette TGB dışında işlenen ürünün ithalinde, ürün vergisinden son işleme yerinden ithal vergisi düşülerek bulunan tutar kadar teminat alınır. | T4 | OÜ | D | GMY-S10
 GMY10-065 | Akaryakıt-Kumanya | Gümrük Yönetmeliği m.482/1, 482/3, 482/4 | Dış seferden dönen geminin transit akaryakıt ve kumanyası ilk giriş limanında tespit edilir; üç ayda Türk limanları arasında tüketilen akaryakıt en son limanda vergilendirilir. | T1+T2 | Z | C | GMY-S10

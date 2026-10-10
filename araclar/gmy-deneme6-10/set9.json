@@ -711,12 +711,12 @@
 "konu": "Gümrük Kıymeti",
 "tip": "T4",
 "z": "OÜ",
-"madde": "Gümrük Yönetmeliği m.53/1; 4458 sayılı Gümrük Kanunu m.31/2",
-"cek": "İstisnai kıymetle (basitleştirilmiş usul) beyan edilebilenler: konsinye çabuk bozulabilir, sonradan belli olan unsurlar, fiyat revizyonu, boru hattı-elektrik, LNG.",
+"madde": "Gümrük Yönetmeliği m.53/1-ç; 4458 sayılı Gümrük Kanunu m.31/2",
+"cek": "Satış bedeli yöntemi uygulanan hâllerde boru hattı veya elektrik teliyle taşınan, depolanamayan sürekli akıştaki eşyanın kıymeti talep üzerine basitleştirilmiş usulle belirlenir.",
 "kok": [
 "Gümrük Yönetmeliğine göre, satış bedeli yöntemine göre kıymet tespitinin yapıldığı hâllerde beyan sahibinin talebi üzerine gümrük kıymetinin tespitinde basitleştirilmiş usuller uygulanabilecek eşya aşağıdakilerden hangisidir?"
 ],
-"d": "Deniz yoluyla sıvı hâlde getirilip gümrük gözetiminde gaza dönüştürülerek limanda boru hattına verilen LNG",
+"d": "Boru hatları veya elektrik telleriyle taşınan, depolama imkânı bulunmayan ve sürekli akış hâlinde olan eşya",
 "c": [
 "Satıştan sonra beyanname tesciline kadar geçen sürede başka bir ülkede kullanılmış olan ithal eşyası",
 "Alıcı ile satıcı arasında ilişki bulunan ancak satış fiyatı bu ilişkiden etkilenmediği belgelenen eşya",
@@ -724,21 +724,21 @@
 "Antrepoda bekletildikten sonra serbest dolaşıma girecek olan dökme hâldeki sıvı eşya"
 ],
 "tuzak": true,
-"g": "Satış bedeli yöntemine göre kıymet tespiti yapılan hâllerde, beyan sahibinin talebi üzerine basitleştirilmiş usullerin uygulanabileceği eşya arasında deniz yoluyla sıvı hâlde getirilip gümrük gözetiminde gaza dönüştürülerek limanda boru hattına verilen LNG sayılmıştır. Satıştan sonra başka ülkede kullanılmış eşya ile ilişkili kişiler arasındaki satış farklı hükümlere tabidir; vadeli ödeme ve antrepodan çekilecek dökme eşya istisnai kıymetle beyan edilebilecek eşya arasında yer almaz. (MD GY 53/1; GK 31/2)",
-"kanit": "12-KIYMET VE KAPLAR.txt | Deniz yolu ile sıvı halde Türkiye Gümrük Bölgesine getirilen ve gümrük gözetimi altında gaz haline dönüştürülerek limanda boru hattına verilen sıvılaştırılmış doğal gazın (LNG) || 12-KIYMET VE KAPLAR.txt | Gümrük kıymetinin tespitinde, beyan sahibinin talebi üzerine, gümrük idaresince basitleştirilmiş usuller uygulanır.",
+"g": "Satış bedeli yöntemine göre kıymet tespiti yapılan hâllerde, beyan sahibinin talebi üzerine basitleştirilmiş usullerin uygulanabileceği eşya arasında boru hatları veya elektrik telleri ile taşınan ve depolama imkânı olmayan sürekli akış hâlindeki eşya sayılmıştır. Satıştan sonra başka ülkede kullanılmış eşya ile ilişkili kişiler arasındaki satış farklı hükümlere tabidir; vadeli ödeme ve antrepodan çekilecek dökme eşya istisnai kıymetle beyan edilebilecek eşya arasında yer almaz. (MD GY 53/1; GK 31/2)",
+"kanit": "12-KIYMET VE KAPLAR.txt | ç) Boru hatları veya elektrik telleri ile taşınan ve depolama imkanı olmayan sürekli akış halinde olan eşyanın, || 12-KIYMET VE KAPLAR.txt | Gümrük kıymetinin tespitinde, beyan sahibinin talebi üzerine, gümrük idaresince basitleştirilmiş usuller uygulanır.",
 "batch": "K02",
 "no": 21,
 "harf": "C",
 "opts": [
 "Satıştan sonra beyanname tesciline kadar geçen sürede başka bir ülkede kullanılmış olan ithal eşyası",
 "Alıcı ile satıcı arasında ilişki bulunan ancak satış fiyatı bu ilişkiden etkilenmediği belgelenen eşya",
-"Deniz yoluyla sıvı hâlde getirilip gümrük gözetiminde gaza dönüştürülerek limanda boru hattına verilen LNG",
+"Boru hatları veya elektrik telleriyle taşınan, depolama imkânı bulunmayan ve sürekli akış hâlinde olan eşya",
 "Bedeli peşin ödenmeyip yazılı finansman anlaşmasıyla vadeli olarak ödenecek olan eşya",
 "Antrepoda bekletildikten sonra serbest dolaşıma girecek olan dökme hâldeki sıvı eşya"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Satış bedeli yöntemine göre kıymet tespiti yapılan hâllerde, beyan sahibinin talebi üzerine basitleştirilmiş usullerin uygulanabileceği eşya arasında deniz yoluyla sıvı hâlde getirilip gümrük gözetiminde gaza dönüştürülerek limanda boru hattına verilen LNG sayılmıştır. Satıştan sonra başka ülkede kullanılmış eşya ile ilişkili kişiler arasındaki satış farklı hükümlere tabidir; vadeli ödeme ve antrepodan çekilecek dökme eşya istisnai kıymetle beyan edilebilecek eşya arasında yer almaz. Bu nedenle doğru cevap C seçeneğidir. (MD GY 53/1; GK 31/2)"
+"g_harfli": "Satış bedeli yöntemine göre kıymet tespiti yapılan hâllerde, beyan sahibinin talebi üzerine basitleştirilmiş usullerin uygulanabileceği eşya arasında boru hatları veya elektrik telleri ile taşınan ve depolama imkânı olmayan sürekli akış hâlindeki eşya sayılmıştır. Satıştan sonra başka ülkede kullanılmış eşya ile ilişkili kişiler arasındaki satış farklı hükümlere tabidir; vadeli ödeme ve antrepodan çekilecek dökme eşya istisnai kıymetle beyan edilebilecek eşya arasında yer almaz. Bu nedenle doğru cevap C seçeneğidir. (MD GY 53/1; GK 31/2)"
 },
 {
 "id": "D9-022",
@@ -1587,6 +1587,7 @@
 },
 {
 "id": "D9-045",
+"sapma": "kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/\"aşağıdakilerden\" eklendi",
 "cikmis": "2024/45",
 "konu": "Beyan",
 "tip": "T2",
@@ -1594,7 +1595,7 @@
 "madde": "Gümrük Yönetmeliği m.159/1, 160/1, 167/1, 168/1",
 "cek": "Aynı kişideki EER izinleri arasında kayıt yoluyla geçişte tamamlayıcı beyan gerekmez; Gİ eşyası ihracata basitleştirilmiş usulle girebilir; HİR ihracat, DİR SDG basitleştirmelerine tabidir.",
 "kok": [
-"Gümrük Yönetmeliğine göre;",
+"Gümrük Yönetmeliğine göre, ekonomik etkili gümrük rejimlerinde basitleştirilmiş usullerin kullanımına ilişkin;",
 "I. Aynı kişinin iki rejim izni arasında kayıtla geçişte tamamlayıcı beyan aranmaz.",
 "II. Geçici ithalat eşyası ihracata basitleştirilmiş usulle girebilir.",
 "III. Hariçte işlemeye basitleştirilmiş girişte serbest dolaşıma giriş hükümleri uygulanır.",
