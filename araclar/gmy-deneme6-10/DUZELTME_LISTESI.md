@@ -24,3 +24,9 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - D7-058 (K07): Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) dış ticaret mevzuatı, GMY kapsamı dışı → Gümrük Yönetmeliği m.327/1'e taşınacak.
 - D9-054 (K07) I. öncül netleştirilecek; D6-044 açıklamasındaki kaynak dışı yorum silinecek.
 - D9-092, D10-075 (K06): çıkmış soruların güzergâh kurgusu tekrarlanmayacak şekilde değiştirilecek.
+- K07 uygulandı: D7-058 Gümrük Yönetmeliği m.327/1-ç ve 401/2'ye taşındı (kapsam), D9-054 öncül I netleştirildi, D6-044 açıklaması düzeltildi.
+- K06 uygulandı: D9-092 (Halkalı→Sarp), D10-075 (Kayseri→Doğubayazıt) güzergâhları çıkmış sorulardan ayrıştırıldı.
+
+## V4 (K04 + K05)
+- Yazarlara iletildi: K05 → D7-039 (hafıza tekrarı), D8-093 (aynı denemedeki D8-081'in cevabını ele veren şıklar), D9-045, D9-043, D10-037; K04 → D6-049 (şık kalıbı cevabı ele veriyor), D8-038 (tırnak içi metin birebir değil); K14 → D9-097 (K04 D7-082 ile aynı hüküm, GY 417/2).
+- Kümeler arası tekrar için ek tarama: aynı madde/fıkraya dayanan soru çiftleri `dogrulama/aday_yeni_yeni.txt` (263 çift) ve hafızayla `dogrulama/aday_yeni_hafiza.txt` (428 çift) listelendi; tekrar denetçilerine verildi.
