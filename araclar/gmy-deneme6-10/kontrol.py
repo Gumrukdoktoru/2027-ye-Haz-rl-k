@@ -109,7 +109,7 @@ def denetle(Q, ad):
         # kök kuralları
         neg = re.findall(r'\[\[([^\]]+)\]\]', ' '.join(kok))
         if q['tip'] in ('T1', 'T1+T2') and not neg: E.append('olumsuz kökte olumsuz kelime [[…]] ile işaretlenmeli')
-        if neg and q['tip'] not in ('T1', 'T1+T2') and not gk: E.append('[[…]] yalnız T1 / T1+T2 kökünde')
+        if neg and q['tip'] not in ('T1', 'T1+T2', 'T10') and not gk: E.append('[[…]] yalnız T1 / T1+T2 / T10 (yanlış eşleştirme) kökünde')
         if not gk:
             if not re.search(r'Kanun|Yönetmeli|Tebliğ|Karar|mevzuat|Sözleşme', koks): E.append('kökte mevzuat adı yok')
             if 'Bazı Maddelerinin Uygulanması Hakkında Karar' in koks and not KARAR_KALIP.search(koks): E.append('Karar kökü kurum kalıbıyla yazılmalı: 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre …')
