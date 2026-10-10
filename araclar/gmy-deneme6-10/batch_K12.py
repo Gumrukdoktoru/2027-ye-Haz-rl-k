@@ -213,7 +213,7 @@ dict(id='D7-026', cikmis='2022/26', konu='Kaçakçılık', tip='T7', z='OÜ',
     'Suçun işlendiği yerdeki gümrük idaresinin bulunduğu yer asliye ceza mahkemelerinde'],
  tuzak=True,
  g='Kanuna göre bu Kanun kapsamına giren suçlar dolayısıyla açılan davalar, Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür. Ağır ceza mahkemesi ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevlidir; mahkemelerin belirlenmesinde teklif yetkisi Ticaret Bakanlığına değil Adalet Bakanlığına, belirleme yetkisi ise Kurula aittir. (MD 5607 17/2)',
- kanit='5607_sayili_kacakcilikla_mucadele_kanunu.txt | Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kurulunca belirlenen asliye ceza mahkemelerinde görülür || 5607_sayili_kacakcilikla_mucadele_kanunu.txt | resmî belgede sahtecilik suçunun işlenmesi halinde, görevli mahkeme ağır ceza mahkemesidir'),
+ kanit='5607_sayili_kacakcilikla_mucadele_kanunu.txt | Adalet Bakanlığının teklifi üzerine Hakimler ve Savcılar Yüksek Kurulunca belirlenen asliye ceza mahkemelerinde görülür || 5607_sayili_kacakcilikla_mucadele_kanunu.txt | resmî belgede sahtecilik suçunun işlenmesi halinde, görevli mahkeme ağır ceza mahkemesidir'),
 
 dict(id='D7-027', cikmis='2022/27', konu='Kaçakçılık', tip='T1', z='OÜ',
  madde='5607 sayılı Kaçakçılıkla Mücadele Kanunu m.3/4, 3/5, 3/6, 3/9, 6/4',
