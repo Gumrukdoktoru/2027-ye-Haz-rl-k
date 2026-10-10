@@ -70,3 +70,5 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - 262 aday çiftin 10'u sorunlu, listedışı 7 bulgu. Yazarlara iletildi: K14 → D10-065 öncül IV (D6-070 ile GY 482/4), D9-049 satır 2 (D9-045 III'ü çözdürüyor); K01 → D7-041 (D8-049 ile GK 3/9); K07 → D6-043 (D8-036 ile GY 319 önermeleri; D6-026'ya ipucu), D10-062 öncül I (D9-051 II ile aynı); K03 → D10-039 (GK 3/6-b üç soruda; D10-055'e ipucu), D8-042 (D9-099 ile GY 432/1); K05 → D10-051 (D6-027 ile GK 15/4), D10-040 (GK 3/6-b), D7-038 öncül IV (D9-035 ile İRK 14/2); K10 → D7-089 öncül III (D7-039 E şıkkı), D6-079 öncül I (D8-070); K12 → D9-067 (D9-052 ile GK 239/2).
 - K10 (T1) uygulandı: D7-089 öncül III GY 502/2, D6-079 öncül I GY 490/1.
 - K01 (T1) uygulandı: D7-041 GK 3/24 'risk' tanımına taşındı.
+- K12 (T1) uygulandı: D9-067 GK 237/7'ye (özet beyansız eşyada cezayı ödeyecek kişi) taşındı; K11 D9-026'nın madde alanındaki kullanılmayan 237/7 atfı kaldırıldı.
+- K07 (T1) uygulandı: D6-043 GY 321/322'ye taşındı (D8-036 ile aynı önermeler ve D6-026'ya ipucu giderildi), D10-062 öncül I DİR Tebliği 12/1-a.
