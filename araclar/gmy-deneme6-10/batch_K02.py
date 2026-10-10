@@ -248,17 +248,17 @@ dict(id='D8-098', cikmis='2023/98', konu='Gümrük Kıymeti', tip='T1+T2', z='O�
 
 # ---------------- DENEME 9 ----------------
 dict(id='D9-021', cikmis='2024/21', konu='Gümrük Kıymeti', tip='T4', z='OÜ',
- madde='Gümrük Yönetmeliği m.53/1; 4458 sayılı Gümrük Kanunu m.31/2',
- cek='İstisnai kıymetle (basitleştirilmiş usul) beyan edilebilenler: konsinye çabuk bozulabilir, sonradan belli olan unsurlar, fiyat revizyonu, boru hattı-elektrik, LNG.',
+ madde='Gümrük Yönetmeliği m.53/1-ç; 4458 sayılı Gümrük Kanunu m.31/2',
+ cek='Satış bedeli yöntemi uygulanan hâllerde boru hattı veya elektrik teliyle taşınan, depolanamayan sürekli akıştaki eşyanın kıymeti talep üzerine basitleştirilmiş usulle belirlenir.',
  kok=['Gümrük Yönetmeliğine göre, satış bedeli yöntemine göre kıymet tespitinin yapıldığı hâllerde beyan sahibinin talebi üzerine gümrük kıymetinin tespitinde basitleştirilmiş usuller uygulanabilecek eşya aşağıdakilerden hangisidir?'],
- d='Deniz yoluyla sıvı hâlde getirilip gümrük gözetiminde gaza dönüştürülerek limanda boru hattına verilen LNG',
+ d='Boru hatları veya elektrik telleriyle taşınan, depolama imkânı bulunmayan ve sürekli akış hâlinde olan eşya',
  c=['Satıştan sonra beyanname tesciline kadar geçen sürede başka bir ülkede kullanılmış olan ithal eşyası',
     'Alıcı ile satıcı arasında ilişki bulunan ancak satış fiyatı bu ilişkiden etkilenmediği belgelenen eşya',
     'Bedeli peşin ödenmeyip yazılı finansman anlaşmasıyla vadeli olarak ödenecek olan eşya',
     'Antrepoda bekletildikten sonra serbest dolaşıma girecek olan dökme hâldeki sıvı eşya'],
  tuzak=True,
- g='Satış bedeli yöntemine göre kıymet tespiti yapılan hâllerde, beyan sahibinin talebi üzerine basitleştirilmiş usullerin uygulanabileceği eşya arasında deniz yoluyla sıvı hâlde getirilip gümrük gözetiminde gaza dönüştürülerek limanda boru hattına verilen LNG sayılmıştır. Satıştan sonra başka ülkede kullanılmış eşya ile ilişkili kişiler arasındaki satış farklı hükümlere tabidir; vadeli ödeme ve antrepodan çekilecek dökme eşya istisnai kıymetle beyan edilebilecek eşya arasında yer almaz. (MD GY 53/1; GK 31/2)',
- kanit='12-KIYMET VE KAPLAR.txt | Deniz yolu ile sıvı halde Türkiye Gümrük Bölgesine getirilen ve gümrük gözetimi altında gaz haline dönüştürülerek limanda boru hattına verilen sıvılaştırılmış doğal gazın (LNG) || 12-KIYMET VE KAPLAR.txt | Gümrük kıymetinin tespitinde, beyan sahibinin talebi üzerine, gümrük idaresince basitleştirilmiş usuller uygulanır.'),
+ g='Satış bedeli yöntemine göre kıymet tespiti yapılan hâllerde, beyan sahibinin talebi üzerine basitleştirilmiş usullerin uygulanabileceği eşya arasında boru hatları veya elektrik telleri ile taşınan ve depolama imkânı olmayan sürekli akış hâlindeki eşya sayılmıştır. Satıştan sonra başka ülkede kullanılmış eşya ile ilişkili kişiler arasındaki satış farklı hükümlere tabidir; vadeli ödeme ve antrepodan çekilecek dökme eşya istisnai kıymetle beyan edilebilecek eşya arasında yer almaz. (MD GY 53/1; GK 31/2)',
+ kanit='12-KIYMET VE KAPLAR.txt | ç) Boru hatları veya elektrik telleri ile taşınan ve depolama imkanı olmayan sürekli akış halinde olan eşyanın, || 12-KIYMET VE KAPLAR.txt | Gümrük kıymetinin tespitinde, beyan sahibinin talebi üzerine, gümrük idaresince basitleştirilmiş usuller uygulanır.'),
 
 dict(id='D9-022', cikmis='2024/22', konu='Gümrük Kıymeti', tip='T5', z='OÜ',
  madde='Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2) m.3/1-b',
