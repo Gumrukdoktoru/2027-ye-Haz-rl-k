@@ -47,3 +47,7 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 ## V8 (K12 + GAN)
 - Yazarlara iletildi: K12 → D8-073 (m.4/2: 2021/100 + GMY2-042 tekrarı → m.4/7), D9-066 ("pek hafif" belirsizliği + 2024/66 teşebbüs unsuru), D6-094 (öncül IV, 2021/94 tuzağının aynası), D7-026 (eski kurum adı HSYK → HSK), D6-095 (yönetmeliğin tam adı); GAN → D6-018 (2021/18 şık kümesi → öncüllü), D9-019, D7-020 (açıklama).
 - GAN uygulandı: D6-018 öncüllü T2'ye çevrildi (2021/18 şık kümesi kaldırıldı; öncül IV BM kurucu üyeliği), D9-019 çeldirici (Teokratik devlet), D7-020 açıklama kitap ifadesine çevrildi.
+
+## V10 (K15)
+- Yazara iletildi: D9-075 ve D7-093 (çift doğru — kök yeniden kuruldu), D10-098 (K10 D9-077 ile çapraz aynı hüküm → OKS m.41/2), D7-071 (çeldiriciler GMY4-047'nin doğru şıklarıyla aynı → Seri No:14 m.7/1, 12/1-g, 5/2), D8-086 ("yalnızca"), D6-082 (kök terimi), D7-043 (madde alanı).
+- D10-051 (K05) D6-027 ile aynı hükmü (GK 15/4) ölçüyor → K05'te değiştirilecek (tekrar denetimi sonuçlarıyla birlikte).
