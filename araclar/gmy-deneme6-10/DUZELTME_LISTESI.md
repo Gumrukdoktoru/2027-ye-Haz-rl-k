@@ -39,3 +39,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - Yazarlara iletildi: K08 → D7-061 (kök dayanak Tebliğ adıyla), D8-034 (savunulabilir çeldirici), D9-070 (çift doğru riski), D7-068 (isteğe bağlı); K09 → D6-063 (çıkmış 2021/63 kök/kurgu kopyası), D7-084 (kök–cevap uyumsuzluğu), D6-034 (D6-063'ü ele veren çeldirici), D6-055 (çıkmış şıkkıyla aynı bent), D6-060 (açıklama).
 - K14 uygulandı: D9-097 GY 469/2'ye taşındı (K04 D7-082 ile tekrar giderildi); D6-059 öncül III netleştirildi.
 - K09 uygulandı: D6-063 yeniden kuruldu (GK 177/4, 177/3, 177/2-a+178, 180/2 çeldiricileri), D7-084 kökü, D6-034 ve D6-055 çeldiricileri, D6-060 açıklaması.
+- K08 uygulandı: D7-061 kökü Tebliğ adıyla, D8-034 çeldirici (Yolcu eşyası ambarı), D9-070 çeldirici (Karar 28/3'ün iki koşulu), D7-068 ilk boşluk GY 536/1'e taşındı.
