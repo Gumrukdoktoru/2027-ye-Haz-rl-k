@@ -1121,35 +1121,35 @@
 "konu": "Cezalar",
 "tip": "T9",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.234/1-c, 234/6",
-"cek": "Vergi kaybı cezaları usulsüzlük cezası miktarından az olamaz; maddi hata cezası 800 TL hesaplansa da 1.000 TL alınır.",
+"madde": "4458 sayılı Gümrük Kanunu m.234/1-a, 234/6",
+"cek": "Vergi kaybı cezaları usulsüzlük cezası miktarından az olamaz; tarife farkında üç kat olarak 900 TL hesaplanan ceza 1.000 TL alınır.",
 "kok": [
-"(L) Makine A.Ş.'nin serbest dolaşıma giriş beyannamesinde, faturadaki maddi hesap hatası nedeniyle eşyanın kıymeti noksan beyan edilmiştir. Teslimden sonra kontrol sonucunda noksan kıymete ait ithalat vergileri farkı 1.600 TL olarak hesaplanmıştır. Aykırılık, firma tarafından idarenin tespitinden önce bildirilmemiştir; firma genel yönetim kapsamındaki bir kamu idaresi değildir. Usulsüzlük cezası için Kanunda belirlenen miktarın 1.000 TL olduğu kabul edilecektir.",
+"(L) Makine A.Ş., serbest dolaşıma giriş beyannamesinde eşyayı ithalat vergileri daha düşük olan bir gümrük tarife istatistik pozisyonunda beyan etmiştir. Teslimden sonra kontrol sonucunda eşyanın farklı bir tarife pozisyonunda sınıflandırılması gerektiği tespit edilmiştir. Beyana göre hesaplanan ithalat vergileri 4.000 TL, kontrol sonuçlarına göre alınması gereken ithalat vergileri 4.300 TL'dir. Aykırılık, firma tarafından idarenin tespitinden önce bildirilmemiştir; firma genel yönetim kapsamındaki bir kamu idaresi değildir. Usulsüzlük cezası için Kanunda belirlenen miktarın 1.000 TL olduğu kabul edilecektir.",
 "4458 sayılı Gümrük Kanununa göre, (L) Makine A.Ş.'den ithalat vergileri farkından ayrı olarak alınacak para cezası **kaç TL**'dir?"
 ],
 "d": "1.000 TL",
 "c": [
-"80 TL",
-"160 TL",
-"800 TL",
-"4.800 TL"
+"90 TL",
+"300 TL",
+"900 TL",
+"12.900 TL"
 ],
 "opts": [
-"80 TL",
-"160 TL",
-"800 TL",
+"90 TL",
+"300 TL",
+"900 TL",
 "1.000 TL",
-"4.800 TL"
+"12.900 TL"
 ],
 "tuzak": false,
-"g": "Maddi hesap hatasından doğan noksan kıymet beyanlarında ithalat vergileri farkından ayrı olarak vergi farkının yarısı tutarında ceza hesaplanır: 1.600 / 2 = 800 TL. Ancak bu cezalar usulsüzlük cezası için Kanunda belirlenen miktardan az olamayacağından alınacak ceza 1.000 TL'dir. Alt sınır atlanırsa 800 TL, idareden önce bildirim yokken yüzde on oranı uygulanırsa 80 TL, farkın üç katı alınırsa 4.800 TL bulunur. (MD GK 234/1-c, 234/6)",
-"kanit": "48-cezalar.txt | maddi hesap hatasından doğan noksan kıymet beyanlarında, bu farklara ait ithalat vergilerinden[248] başka vergi farkının yarısı tutarında para cezası alınır || 48-cezalar.txt | Bir ila üçüncü fıkralara göre verilen cezalar 241 inci maddenin birinci fıkrasında belirtilen miktardan az olamaz",
+"g": "Tarifeyi oluşturan unsurlarda aykırılık bulunur ve vergi farkı yüzde beşi aşarsa ithalat vergilerinden ayrı olarak farkın üç katı ceza hesaplanır; fark 300 TL olup beyan edilen vergilerin yüzde 7,5'idir ve 3 × 300 = 900 TL bulunur. Ancak bu cezalar usulsüzlük cezası için Kanunda belirlenen miktardan az olamayacağından alınacak ceza 1.000 TL'dir. Alt sınır atlanırsa 900 TL, idareden önce bildirim yokken yüzde on oranı uygulanırsa 90 TL, vergilerin tamamının üç katı alınırsa 12.900 TL bulunur. (MD GK 234/1-a, 234/6)",
+"kanit": "48-cezalar.txt | fark % 5'i aştığı takdirde, ithalat vergilerinden[245] ayrı olarak bu farkın üç katı para cezası alınır || 48-cezalar.txt | Bir ila üçüncü fıkralara göre verilen cezalar 241 inci maddenin birinci fıkrasında belirtilen miktardan az olamaz",
 "batch": "K11",
 "no": 32,
 "harf": "D",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Maddi hesap hatasından doğan noksan kıymet beyanlarında ithalat vergileri farkından ayrı olarak vergi farkının yarısı tutarında ceza hesaplanır: 1.600 / 2 = 800 TL. Ancak bu cezalar usulsüzlük cezası için Kanunda belirlenen miktardan az olamayacağından alınacak ceza 1.000 TL'dir. Alt sınır atlanırsa 800 TL, idareden önce bildirim yokken yüzde on oranı uygulanırsa 80 TL, farkın üç katı alınırsa 4.800 TL bulunur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 234/1-c, 234/6)"
+"g_harfli": "Tarifeyi oluşturan unsurlarda aykırılık bulunur ve vergi farkı yüzde beşi aşarsa ithalat vergilerinden ayrı olarak farkın üç katı ceza hesaplanır; fark 300 TL olup beyan edilen vergilerin yüzde 7,5'idir ve 3 × 300 = 900 TL bulunur. Ancak bu cezalar usulsüzlük cezası için Kanunda belirlenen miktardan az olamayacağından alınacak ceza 1.000 TL'dir. Alt sınır atlanırsa 900 TL, idareden önce bildirim yokken yüzde on oranı uygulanırsa 90 TL, vergilerin tamamının üç katı alınırsa 12.900 TL bulunur. Bu nedenle doğru cevap D seçeneğidir. (MD GK 234/1-a, 234/6)"
 },
 {
 "id": "D10-033",
@@ -1157,7 +1157,7 @@
 "konu": "Gümrük Kıymeti",
 "tip": "T6",
 "z": "OÜ",
-"madde": "Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2) m.12; Gümrük Yönetmeliği m.44/3, m.56/2",
+"madde": "Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2) m.12; Gümrük Yönetmeliği m.44/3; 4458 sayılı Gümrük Kanunu m.26/1",
 "cek": "Royalti değerlendirmesinde yönlendirici olarak dikkate alınması gereken Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesi metinleri Tavsiye Kararlarıdır.",
 "kok": [
 "Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2)'ye göre, “Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesinin royalti veya lisans ücretlerinin değerlendirilmesine ilişkin” olup karşılaşılacak durumların değerlendirilmesinde yönlendirici mahiyette dikkate alınması gereken metinler aşağıdakilerden hangisidir?"
@@ -1192,35 +1192,35 @@
 "konu": "Gümrük Kıymeti",
 "tip": "T9",
 "z": "Z",
-"madde": "Gümrük Yönetmeliği m.45/1-ç; 4458 sayılı Gümrük Kanunu m.211",
-"cek": "Serbest dolaşımdan sonra garanti yükümlülüğünden doğan, kusuru fiyatta dikkate alınmamış eşyaya ilişkin fiyat düzeltmesi kıymet tespitinde dikkate alınır; ciro primi alınmaz.",
+"madde": "Gümrük Yönetmeliği m.53/1-c, m.53/3; 4458 sayılı Gümrük Kanunu m.211",
+"cek": "İstisnai kıymette revize kıymet yüksekse ek tahakkuk yapılır; düşükse fark ancak iade alındığı tevsik edilip belgeler sunulursa GK 211 ile geri verilir.",
 "kok": [
-"Gümrük Yönetmeliğine göre serbest dolaşıma girişten sonra fiyatta yapılan düzeltmelerin gümrük kıymetine etkisine ilişkin olarak; (K) firması, ilişkili olmadığı (L) firmasından 100.000 TL bedelle satın aldığı ambalaj makinelerini serbest dolaşıma giriş beyannamesiyle ithal etmiş ve kıymet satış bedeli yöntemine göre belirlenmiştir. Beyannamenin tescilinden sonra (L), fiyatta (K) lehine üç ayrı indirim yapmıştır: Tescilden yedi ay sonra, makinelerin tescil tarihinde mevcut olan ve satış fiyatının belirlenmesinde dikkate alınmamış bir üretim kusuru nedeniyle, tescilden önce yapılmış satış sözleşmesindeki garanti hükmüne dayanılarak 12.000 TL indirim yapılmış; bu durum gümrük idaresine tevsik edilmiş ve İdarece uygun bulunmuştur. Tescilden sekiz ay sonra, satış sırasında bilinen ve fiyatın belirlenmesinde zaten dikkate alınmış olan bir boya kusuru için 8.000 TL indirim yapılmıştır. Ayrıca (L), (K)'nin gelecek yıl yapacağı alımları teşvik amacıyla 5.000 TL ciro primini aynı fiyattan düşmüştür.",
-"Buna göre, eşyanın satış bedeli yöntemine göre belirlenecek gümrük kıymeti **kaç TL**'dir?"
+"Gümrük Yönetmeliğine göre istisnai kıymetle beyan edilen eşyada tamamlayıcı beyan sonucunda yapılacak işlemlere ilişkin olarak; (K) firması, satış sözleşmesinde fiyatın sonradan gözden geçirilmesini öngören hükümler bulunan eşyayı iki ayrı beyannameyle, talebi üzerine istisnai kıymetle beyan etmiş ve vergiler mevcut belgelerde belirtilen kıymet esas alınarak tahakkuk ettirilip ödenmiştir. Birinci beyannamede mevcut belgelere göre kıymet 200.000 TL'dir; süresinde verilen tamamlayıcı beyana göre gözden geçirilmiş kıymet 240.000 TL olmuştur. İkinci beyannamede mevcut belgelere göre kıymet 120.000 TL'dir; süresinde verilen tamamlayıcı beyana göre gözden geçirilmiş kıymet 100.000 TL olmuş, ancak (K) farka isabet eden kıymetin satıcıdan iade alındığını tevsik edememiştir. Eşyanın gümrük vergisi oranı %10 olup başka bir vergi dikkate alınmayacaktır.",
+"Buna göre, (K)'nin bu iki beyanname için nihai olarak ödemiş olacağı gümrük vergisi toplamı **kaç TL**'dir?"
 ],
-"d": "88.000",
+"d": "36.000",
 "c": [
-"75.000",
-"80.000",
-"83.000",
-"100.000"
+"30.000",
+"32.000",
+"34.000",
+"56.000"
 ],
 "opts": [
-"75.000",
-"80.000",
-"83.000",
-"88.000",
-"100.000"
+"30.000",
+"32.000",
+"34.000",
+"36.000",
+"56.000"
 ],
 "tuzak": false,
-"g": "Serbest dolaşıma girişten sonra satıcının alıcı lehine yaptığı fiyat düzeltmesi; eşyanın tescil tarihinde kusurlu olduğunun, düzeltmenin tescilden önceki sözleşmedeki garanti yükümlülüğünden kaynaklandığının ve kusurun fiyatta dikkate alınmadığının tevsiki ve İdarece uygun bulunması, ayrıca tescilden itibaren bir yıl içinde yapılması şartıyla dikkate alınır; bu nedenle yalnız 12.000 TL düşülerek kıymet 88.000 TL olur ve fark için geri verme hükümleri uygulanır. Fiyatta zaten dikkate alınmış kusur için yapılan indirim ile garantiyle ilgisi olmayan ciro primi dikkate alınmaz; 80.000 TL, 83.000 TL ve 75.000 TL bu indirimlerin de düşülmesiyle bulunur. (MD GY 45/1-ç; GK 211)",
-"kanit": "12-KIYMET VE KAPLAR.txt | eşyanın serbest dolaşıma giriş beyannamesinin tescili tarihinde kusurlu olduğunun, satıcı tarafından fiyatta yapılan düzeltmenin beyannamenin tescilinden önce yapılmış satış sözleşmesinde yer alan garantiye ilişkin bir yükümlülükten kaynaklandığının, eşyada mevcut kusurun satış sırasında satış fiyatının belirlenmesinde dikkate alınmamış olduğunun || 12-KIYMET VE KAPLAR.txt | fiyatta yapılan düzeltme satış bedeli yöntemine göre gümrük kıymetinin tespitinde dikkate alınır ve Kanunun 211 inci maddesi çerçevesinde işlem yapılır",
+"g": "İstisnai kıymetle beyanda vergi önce mevcut belgelerdeki kıymet üzerinden alınır (20.000 + 12.000); gözden geçirilmiş kıymet yüksekse farka ek tahakkuk yapılır (40.000 × %10 = 4.000), düşükse fark ancak iade alındığının tevsiki ve tahlil raporu gibi belgelerin sunulması koşuluyla GK 211 çerçevesinde geri verilir. İade tevsik edilemediğinden ikinci beyannamede geri verme yapılmaz ve toplam 36.000 TL olur. 34.000 TL geri vermenin yapılması, 32.000 TL ek tahakkukun atlanması, 56.000 TL ise ek tahakkukun gözden geçirilmiş kıymetin tamamı üzerinden hesaplanmasıyla bulunur. (MD GY 53/1-c, 53/3; GK 211)",
+"kanit": "12-KIYMET VE KAPLAR.txt | Birinci fıkrada belirtilen hallerde, vergi tahakkuku mevcut belgelerde belirtilen kıymet esas alınarak yapılır. Tamamlayıcı beyana göre gözden geçirilmiş kıymetin daha yüksek olması halinde ek vergi tahakkuku yapılır. || 12-KIYMET VE KAPLAR.txt | farka isabet eden kıymetin iade alındığının tevsiki ve satış sözleşmesine göre kıymetin yeniden belirlenmesini gerektiren işleme ait tahlil raporu gibi bir belgenin onaylı örneğinin sunulması koşullarıyla",
 "batch": "K02",
 "no": 34,
 "harf": "D",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Serbest dolaşıma girişten sonra satıcının alıcı lehine yaptığı fiyat düzeltmesi; eşyanın tescil tarihinde kusurlu olduğunun, düzeltmenin tescilden önceki sözleşmedeki garanti yükümlülüğünden kaynaklandığının ve kusurun fiyatta dikkate alınmadığının tevsiki ve İdarece uygun bulunması, ayrıca tescilden itibaren bir yıl içinde yapılması şartıyla dikkate alınır; bu nedenle yalnız 12.000 TL düşülerek kıymet 88.000 TL olur ve fark için geri verme hükümleri uygulanır. Fiyatta zaten dikkate alınmış kusur için yapılan indirim ile garantiyle ilgisi olmayan ciro primi dikkate alınmaz; 80.000 TL, 83.000 TL ve 75.000 TL bu indirimlerin de düşülmesiyle bulunur. Bu nedenle doğru cevap D seçeneğidir. (MD GY 45/1-ç; GK 211)"
+"g_harfli": "İstisnai kıymetle beyanda vergi önce mevcut belgelerdeki kıymet üzerinden alınır (20.000 + 12.000); gözden geçirilmiş kıymet yüksekse farka ek tahakkuk yapılır (40.000 × %10 = 4.000), düşükse fark ancak iade alındığının tevsiki ve tahlil raporu gibi belgelerin sunulması koşuluyla GK 211 çerçevesinde geri verilir. İade tevsik edilemediğinden ikinci beyannamede geri verme yapılmaz ve toplam 36.000 TL olur. 34.000 TL geri vermenin yapılması, 32.000 TL ek tahakkukun atlanması, 56.000 TL ise ek tahakkukun gözden geçirilmiş kıymetin tamamı üzerinden hesaplanmasıyla bulunur. Bu nedenle doğru cevap D seçeneğidir. (MD GY 53/1-c, 53/3; GK 211)"
 },
 {
 "id": "D10-035",
@@ -1368,40 +1368,40 @@
 "cikmis": "2025/39",
 "konu": "Menşe",
 "tip": "T2",
-"z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.3/6-a, b",
-"cek": "Tümüyle TGB'de elde edilen eşya serbest dolaşımda; fiilen terk eden değil; ithal ve serbest dolaşımdaki eşyadan birlikte üretilen serbest dolaşımdadır.",
+"z": "Z",
+"madde": "Yetkilendirilmiş Gümrük Müşavirliği Tebliği m.11/1-e",
+"cek": "AT1, saklama süresi geçen eşyanın A.TR ile ihracında serbest dolaşım statüsünü belirler; EU2 onaylanmış ihracatçı menşe uygunluğu; SK1 tedarikçi beyanını kapsamaz.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre, serbest dolaşımda bulunan ve bulunmayan eşyaya ilişkin aşağıdaki ifadeler veriliyor:",
-"I. Tümüyle Türkiye Gümrük Bölgesinde elde edilen ve ithal girdi içermeyen eşya serbest dolaşımdadır.",
-"II. Transit hükümleri saklı kalmak üzere Türkiye Gümrük Bölgesini fiilen terk eden eşya serbest dolaşımda değildir.",
-"III. Serbest dolaşıma giriş rejimiyle ithal edilen eşya ile serbest dolaşımdaki diğer eşyadan birlikte üretilen eşya serbest dolaşımda değildir.",
-"IV. Şartlı muafiyet eşyasından elde edilen eşya, özel ekonomik değer taşıyıp taşımadığına bakılmaksızın serbest dolaşımdadır.",
+"Yetkilendirilmiş Gümrük Müşavirliği Tebliğinde menşe mevzuatına ilişkin tespit işlemleri hakkında aşağıdaki ifadeler veriliyor:",
+"I. AT1, saklama süresi geçtiği için ithal belgeleri bulunmayan eşyanın A.TR ile ihracında ticari belge ve envanter kayıtlarına göre serbest dolaşım statüsünün belirlenmesidir.",
+"II. SK1, sonradan kontrol talebiyle alınan tedarikçi beyanları dâhil bütün menşe ispat belgelerinin kontrolünü kapsar.",
+"III. EU2, tercihli ticaret anlaşmaları çerçevesinde onaylanmış ihracatçı yetkisi başvurusuna konu eşyanın menşe kurallarına uygunluğunun tespitidir.",
+"IV. INF4, sonradan kontrol talebiyle alınan A.TR Dolaşım Belgelerinin kontrolünü kapsar.",
 "Yukarıdaki ifadelerden hangileri doğrudur?"
 ],
-"d": "I ve II",
+"d": "I ve III",
 "c": [
 "Yalnız I",
-"Yalnız II",
-"I ve IV",
-"II ve III"
+"Yalnız III",
+"II ve III",
+"I, III ve IV"
 ],
 "opts": [
 "Yalnız I",
-"Yalnız II",
-"I ve II",
-"I ve IV",
-"II ve III"
+"Yalnız III",
+"I ve III",
+"II ve III",
+"I, III ve IV"
 ],
 "tuzak": false,
-"g": "Kanuna göre tümüyle Türkiye Gümrük Bölgesinde elde edilen ve ithal girdi içermeyen eşya serbest dolaşımdadır; transit hükümleri saklı kalmak üzere bu bölgeyi fiilen terk eden eşya ise serbest dolaşımda bulunmayan eşyadır. Serbest dolaşıma giriş rejimiyle ithal edilen eşya ile diğer serbest dolaşımdaki eşyadan Türkiye Gümrük Bölgesinde ayrı ayrı veya birlikte elde edilen eşya da serbest dolaşımdadır; şartlı muafiyet eşyasından elde edilen eşya ise ancak özel ekonomik değer taşımadığı tespit edilirse serbest dolaşımda sayılır. (MD GK 3/6-a, b)",
-"kanit": "1-TANIMLAR.txt | şartlı muafiyet düzenlemelerine tabi tutulan eşyadan elde edilen ve tabi olduğu rejim hükümleri uyarınca özel ekonomik değer taşımadığı tespit edilen || 1-TANIMLAR.txt | Türkiye Gümrük Bölgesinde, yukarıda belirtilen eşyadan ayrı ayrı veya birlikte elde edilen veya üretilen eşyayı || 1-TANIMLAR.txt | transit hükümleri saklı kalmak üzere Türkiye Gümrük Bölgesini fiilen terk eden eşyayı",
+"g": "AT1, ithal edilip kullanıldıktan sonra A.TR ile ihraç edilmek istenen eşyanın ithaline ilişkin belgeleri beş yıllık saklama süresi geçtiği için bulunmadığında, ticari belge ve kayıtlar ile envanter defteri kayıtları esas alınarak serbest dolaşım statüsünün belirlenmesidir; EU2 ise onaylanmış ihracatçı yetkisi başvurusuna konu eşyanın menşe kurallarına uygunluğunun tespitidir, bu nedenle I ve III doğrudur. SK1, sonradan kontrol talebiyle alınan A.TR'ler ile tedarikçi beyanı hariç menşe ispat belgelerini kapsar; tedarikçi beyanlarının kontrolü ise INF4 ile yapılır, bu yüzden II ve IV yanlıştır. (MD YGM Tebliği 11/1-e)",
+"kanit": "31-YGM.txt | tedarikçi beyanı hariç menşe ispat belgelerinin ilgili mevzuat çerçevesinde sonradan kontrol işlemlerinin yapılmasını || 31-YGM.txt | eşyanın serbest dolaşımda olduğunu belirleyen ticari belge ve kayıtları ile eşyanın muhasebe kayıtlarının bulunduğu envanter defteri kayıtları esas alınarak serbest dolaşım statüsünün belirlenmesini || 31-YGM.txt | tercihli ticaret anlaşmaları çerçevesinde onaylanmış ihracatçı yetkisi başvurusuna konu eşyanın menşe kurallarına uygunluğunun tespitini || 31-YGM.txt | kısa dönem ve/veya uzun dönem tedarikçi beyanlarının ilgili mevzuatları çerçevesinde kontrollerinin yapılarak",
 "batch": "K03",
 "no": 39,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre tümüyle Türkiye Gümrük Bölgesinde elde edilen ve ithal girdi içermeyen eşya serbest dolaşımdadır; transit hükümleri saklı kalmak üzere bu bölgeyi fiilen terk eden eşya ise serbest dolaşımda bulunmayan eşyadır. Serbest dolaşıma giriş rejimiyle ithal edilen eşya ile diğer serbest dolaşımdaki eşyadan Türkiye Gümrük Bölgesinde ayrı ayrı veya birlikte elde edilen eşya da serbest dolaşımdadır; şartlı muafiyet eşyasından elde edilen eşya ise ancak özel ekonomik değer taşımadığı tespit edilirse serbest dolaşımda sayılır. Bu nedenle doğru cevap C seçeneğidir. (MD GK 3/6-a, b)"
+"g_harfli": "AT1, ithal edilip kullanıldıktan sonra A.TR ile ihraç edilmek istenen eşyanın ithaline ilişkin belgeleri beş yıllık saklama süresi geçtiği için bulunmadığında, ticari belge ve kayıtlar ile envanter defteri kayıtları esas alınarak serbest dolaşım statüsünün belirlenmesidir; EU2 ise onaylanmış ihracatçı yetkisi başvurusuna konu eşyanın menşe kurallarına uygunluğunun tespitidir, bu nedenle I ve III doğrudur. SK1, sonradan kontrol talebiyle alınan A.TR'ler ile tedarikçi beyanı hariç menşe ispat belgelerini kapsar; tedarikçi beyanlarının kontrolü ise INF4 ile yapılır, bu yüzden II ve IV yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD YGM Tebliği 11/1-e)"
 },
 {
 "id": "D10-040",
@@ -1409,14 +1409,14 @@
 "konu": "Serbest Dolaşıma Giriş",
 "tip": "T2",
 "z": "Z",
-"madde": "Gümrük Yönetmeliği m.509/1; 4458 sayılı Gümrük Kanunu m.3/6-b, 77/1, 187/1",
-"cek": "İzinli imha atıkları geri verme kararından sonra ve nihai kullanım tahribat atıkları serbest dolaşımda olmayan eşyadır; nihai kullanımla giren eşya serbest dolaşımdadır.",
+"madde": "Gümrük Yönetmeliği m.509/1; 4458 sayılı Gümrük Kanunu m.77/1, 121/1-b, 121/2, 187/1",
+"cek": "İzinli imha atıkları, nihai kullanım tahribat atıkları ve geri ödeme sisteminde yeniden ihraç için antrepoya konulan ürünler serbest dolaşımda olmayan eşya sayılır.",
 "kok": [
 "Gümrük mevzuatına göre;",
 "I. Geri verme kararından sonra, izinli imhadan kalan atık ve artıklar",
 "II. Nihai kullanım nedeniyle sıfır vergiyle serbest dolaşıma giren eşya",
 "III. Yükümlülük doğmayan tahribattan kalan nihai kullanım atıkları",
-"IV. Transit hükümleri saklı, Türkiye Gümrük Bölgesini fiilen terk eden eşya",
+"IV. Geri ödeme sistemiyle giren eşyadan elde edilip yeniden ihraç için antrepoya konulan ürünler",
 "yukarıdakilerden hangileri serbest dolaşımda olmayan eşya sayılır?"
 ],
 "d": "I, III ve IV",
@@ -1434,14 +1434,14 @@
 "I, III ve IV"
 ],
 "tuzak": false,
-"g": "Gümrük idaresinin izni ve denetiminde imhadan doğan atık ve artıklar geri verme kararından sonra, nihai kullanım eşyasının yükümlülük doğmadığı kabul edilen tahribatından kalan atık ve artıklar ve transit hükümleri saklı kalmak üzere Türkiye Gümrük Bölgesini fiilen terk eden eşya serbest dolaşımda olmayan eşyadır; I, III ve IV doğrudur. Nihai kullanım nedeniyle indirimli veya sıfır vergiyle giren eşya ise serbest dolaşıma girmiş eşya olup yalnız gümrük gözetimi altında kaldığından II yanlıştır. (MD GY 509/1; GK 3/6-b, 77/1, 187/1)",
-"kanit": "47-geri verme kaldırma.txt | Eşyanın gümrük idaresinin izniyle ve denetimi altında imha edilmesiyle ortaya çıkan atık ve artıklar geri verme veya kaldırma kararı alındıktan sonra, serbest dolaşımda olmayan eşya olarak kabul edilir || 44-yükümlülük.txt | söz konusu fıkrada belirtilen tahribattan kaynaklanan atık ve artıklar serbest dolaşımda olmayan eşya sayılır || 1-TANIMLAR.txt | transit hükümleri saklı kalmak üzere Türkiye Gümrük Bölgesini fiilen terk eden eşyayı || 18-Ser.Dol.Giriş Rejimi.txt | nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi",
+"g": "Gümrük idaresinin izni ve denetiminde imhadan doğan atık ve artıklar geri verme kararından sonra, nihai kullanım eşyasının yükümlülük doğmadığı kabul edilen tahribatından kalan atık ve artıklar ile geri ödeme sistemi çerçevesinde serbest dolaşıma giren eşyadan elde edilip daha sonra yeniden ihraç edilmek üzere gümrük antrepo rejimine tabi tutulan işlem görmüş ürünler, bu işlem bakımından serbest dolaşımda olmayan eşya sayılır; I, III ve IV doğrudur. Nihai kullanım nedeniyle indirimli veya sıfır vergiyle giren eşya ise serbest dolaşıma girmiş eşya olup yalnız gümrük gözetimi altında kaldığından II yanlıştır. (MD GY 509/1; GK 77/1, 121/1-b, 121/2, 187/1)",
+"kanit": "47-geri verme kaldırma.txt | Eşyanın gümrük idaresinin izniyle ve denetimi altında imha edilmesiyle ortaya çıkan atık ve artıklar geri verme veya kaldırma kararı alındıktan sonra, serbest dolaşımda olmayan eşya olarak kabul edilir || 44-yükümlülük.txt | söz konusu fıkrada belirtilen tahribattan kaynaklanan atık ve artıklar serbest dolaşımda olmayan eşya sayılır || 32-DAHİLDE İŞLEME.txt | Daha sonra yeniden ihraç edilmek üzere transit rejimi, gümrük antrepo rejimi, geçici ithalat rejimi veya şartlı muafiyet sistemine tabi dahilde işleme rejimine tabi tutulduğunu || 32-DAHİLDE İŞLEME.txt | İşlem görmüş ürünler veya değişmemiş eşya, 1 inci fıkranın (b) bendinde belirtilen gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulma bakımından, serbest dolaşımda olmayan eşya sayılır || 18-Ser.Dol.Giriş Rejimi.txt | nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi",
 "batch": "K05",
 "no": 40,
 "harf": "E",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Gümrük idaresinin izni ve denetiminde imhadan doğan atık ve artıklar geri verme kararından sonra, nihai kullanım eşyasının yükümlülük doğmadığı kabul edilen tahribatından kalan atık ve artıklar ve transit hükümleri saklı kalmak üzere Türkiye Gümrük Bölgesini fiilen terk eden eşya serbest dolaşımda olmayan eşyadır; I, III ve IV doğrudur. Nihai kullanım nedeniyle indirimli veya sıfır vergiyle giren eşya ise serbest dolaşıma girmiş eşya olup yalnız gümrük gözetimi altında kaldığından II yanlıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 509/1; GK 3/6-b, 77/1, 187/1)"
+"g_harfli": "Gümrük idaresinin izni ve denetiminde imhadan doğan atık ve artıklar geri verme kararından sonra, nihai kullanım eşyasının yükümlülük doğmadığı kabul edilen tahribatından kalan atık ve artıklar ile geri ödeme sistemi çerçevesinde serbest dolaşıma giren eşyadan elde edilip daha sonra yeniden ihraç edilmek üzere gümrük antrepo rejimine tabi tutulan işlem görmüş ürünler, bu işlem bakımından serbest dolaşımda olmayan eşya sayılır; I, III ve IV doğrudur. Nihai kullanım nedeniyle indirimli veya sıfır vergiyle giren eşya ise serbest dolaşıma girmiş eşya olup yalnız gümrük gözetimi altında kaldığından II yanlıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 509/1; GK 77/1, 121/1-b, 121/2, 187/1)"
 },
 {
 "id": "D10-041",
@@ -1665,13 +1665,13 @@
 "konu": "Menşe",
 "tip": "T1+T2",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.17/c, 19",
-"cek": "Çok ülkeli üretimde menşe, ilk üretim ülkesi değil; önemli imalat aşaması ve en son esaslı işçiliğin donatılmış işletmede yapıldığı ülkedir.",
+"madde": "4458 sayılı Gümrük Kanunu m.17/b, c",
+"cek": "Tercihli olmayan menşe, tarife önlemleri dışında Cumhurbaşkanı Kararıyla oluşturulan önlemlerin uygulanması ve menşe şahadetnamesi amaçlarıyla da belirlenir.",
 "kok": [
 "4458 sayılı Gümrük Kanununa göre tercihli olmayan menşeye ilişkin;",
-"I. Üretimi birden fazla ülkede gerçekleşen eşya, üretime ilk başlanan ülke menşelidir.",
-"II. Önemli imalat aşaması ve en son esaslı işçilik bu amaçla donatılmış işletmede yapılmalıdır.",
-"III. Menşe şahadetnamelerinin hazırlanması da tercihli olmayan menşeyi belirleme amaçlarındandır.",
+"I. Cumhurbaşkanı Kararıyla konulan tarife dışı önlemlerde bu menşe kurallarına başvurulmaz.",
+"II. Menşe şahadetnamesi düzenlenmesi de bu menşeyi belirleme amaçlarındandır.",
+"III. Bu menşe, tümüyle elde etme, esaslı işçilik ve menşe şahadetnamesi hükümlerine göre belirlenir.",
 "ifadelerinden hangileri [[yanlıştır]]?"
 ],
 "d": "Yalnız I",
@@ -1689,14 +1689,14 @@
 "II ve III"
 ],
 "tuzak": false,
-"g": "Üretimi birden fazla ülkede gerçekleştirilen eşya, üretime ilk başlanan ülkenin değil; yeni bir ürünün imal edildiği veya imalatın önemli bir aşaması ile ekonomik yönden gerekli en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülkenin menşeini taşır; bu nedenle yalnız I yanlıştır. Tercihli olmayan menşe, menşe şahadetnamelerinin hazırlanması ve verilmesi amacıyla da belirlenir. (MD GK 17/c, 19)",
-"kanit": "10-MENŞEİ.txt | o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir || 10-MENŞEİ.txt | c) Menşe şahadetnamelerinin hazırlanması ve verilmesi,",
+"g": "Kanuna göre eşyanın tercihli olmayan menşei, eşya ticaretine ilişkin tarife önlemleri dışında Cumhurbaşkanı Kararı ile oluşturulan önlemlerin uygulanması amacıyla da belirlenir; bu önlemlerde tercihli olmayan menşe kurallarına başvurulmayacağını söyleyen I yanlıştır. Menşe şahadetnamelerinin hazırlanması ve verilmesi de bu amaçlar arasındadır ve tercihli olmayan menşe, Kanunun tümüyle elde etme, esaslı işçilik ve menşe şahadetnamesine ilişkin hükümleri çerçevesinde belirlenir. (MD GK 17/b, c)",
+"kanit": "10-MENŞEİ.txt | b) Eşya ticaretine ilişkin tarife önlemleri dışında, Cumhurbaşkanı Kararı ile oluşturulan önlemlerin uygulanması, || 10-MENŞEİ.txt | c) Menşe şahadetnamelerinin hazırlanması ve verilmesi, || 10-MENŞEİ.txt | Amaçları ile bu Kanunun 18 ila 21 inci maddelerindeki hükümler çerçevesinde belirlenir.",
 "batch": "K03",
 "no": 47,
 "harf": "A",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Üretimi birden fazla ülkede gerçekleştirilen eşya, üretime ilk başlanan ülkenin değil; yeni bir ürünün imal edildiği veya imalatın önemli bir aşaması ile ekonomik yönden gerekli en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülkenin menşeini taşır; bu nedenle yalnız I yanlıştır. Tercihli olmayan menşe, menşe şahadetnamelerinin hazırlanması ve verilmesi amacıyla da belirlenir. Bu nedenle doğru cevap A seçeneğidir. (MD GK 17/c, 19)"
+"g_harfli": "Kanuna göre eşyanın tercihli olmayan menşei, eşya ticaretine ilişkin tarife önlemleri dışında Cumhurbaşkanı Kararı ile oluşturulan önlemlerin uygulanması amacıyla da belirlenir; bu önlemlerde tercihli olmayan menşe kurallarına başvurulmayacağını söyleyen I yanlıştır. Menşe şahadetnamelerinin hazırlanması ve verilmesi de bu amaçlar arasındadır ve tercihli olmayan menşe, Kanunun tümüyle elde etme, esaslı işçilik ve menşe şahadetnamesine ilişkin hükümleri çerçevesinde belirlenir. Bu nedenle doğru cevap A seçeneğidir. (MD GK 17/b, c)"
 },
 {
 "id": "D10-048",
@@ -1816,34 +1816,34 @@
 "konu": "Serbest Dolaşıma Giriş",
 "tip": "T4",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.15/3-d, 15/3-e, 15/4, 15/5-a",
-"cek": "Tercihli tarife talebi, gerekli koşullar yerine getirilmişse gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir.",
+"madde": "4458 sayılı Gümrük Kanunu m.104/3; Gümrük Yönetmeliği m.151/3-4, 345/2",
+"cek": "Antrepodan kayıt yoluyla serbest dolaşıma girişte vergiler antrepo rejimine tabi tutulma tarihindeki unsurlarla; yükümlü talep ederse tescil tarihindeki hâl ve unsurlarla hesaplanır.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre, beyan sahibinin tercihli tarife uygulanması talebine ilişkin aşağıdakilerden hangisi doğrudur?"
+"4458 sayılı Gümrük Kanununa göre, antrepodan kayıt yoluyla serbest dolaşıma girişte vergilerin hesaplanmasına ilişkin hangisi doğrudur?"
 ],
-"d": "Gerekli koşulların yerine getirilmesi hâlinde talep, gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir.",
+"d": "Kural olarak antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse tescil tarihindeki hâl ve unsurlara göre işlem yapılır.",
 "c": [
-"Talep, ancak eşyaya ait gümrük vergilerinin ödenmesinden veya teminata bağlanmasından önce yapılmışsa idarece dikkate alınır.",
-"Talep, yalnızca serbest dolaşıma giriş beyannamesinin tescilinden önce ve yazılı olarak yapılması hâlinde idarece dikkate alınır.",
-"Tarife kotası kapsamındaki tercihli uygulama, ithalat hacmi sınırına ulaşıldıktan sonra da talep üzerine sürdürülür.",
-"Talep, yalnızca Türkiye'nin taraf olduğu anlaşmalarda yer alan tercihli tarife uygulamaları için yapılabilir."
+"Kural olarak beyannamenin tescil tarihindeki unsurlar esas alınır; yükümlü talep ederse antrepo rejimine tabi tutulma tarihindeki unsurlar uygulanır.",
+"Antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse eşyanın antrepodan fiilen çıktığı tarihteki unsurlar uygulanır.",
+"Antrepo rejimine tabi tutulma tarihindeki oranlar, nitelik, kıymet ve miktarın beyanname tescilinde tespit edilmesi şartıyla uygulanır.",
+"Eşyanın antrepodan teslim alındığı tarihteki oranlar esas alınır; yükümlünün başka bir tarihi talep etme hakkı bulunmaz."
 ],
 "tuzak": true,
-"g": "Beyan sahibi, koşulları taşıyan eşyanın ithalinde tercihli tarife uygulamalarının uygulanmasını isteyebilir ve gerekli koşullar yerine getirilmişse bu talep gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir. Vergilerin ödenmesinden önce yapılma şartı tescilden sonra indirilen orana ilişkindir; tarife kotasında ithalat hacmi sınırına ulaşıldığında tercihli uygulama sona erer ve talep tek taraflı tercihler ile şartlı muafiyet veya indirimler için de yapılabilir. (MD GK 15/3-d, e, f, 15/4, 15/5-a; GK 75/1)",
-"kanit": "9-TAR.POZ.AYIRMA.txt | Gerekli koşulların yerine getirilmesi halinde, söz konusu talep gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir || 9-TAR.POZ.AYIRMA.txt | Tarife kotalarının söz konusu olduğu durumlarda, tespit edilen ithalat hacmi sınırına ulaşıldığında || 9-TAR.POZ.AYIRMA.txt | Türkiye tarafından tek taraflı olarak bazı ülkeler, ülke grupları veya toprak parçaları için tanınan tercihli tarife uygulamalarını",
+"g": "Antrepo rejimine tabi ithal eşyası gümrüğe sunulmaksızın ve beyanname verilmeden kayıt yoluyla serbest dolaşıma girmek üzere teslim edildiğinde gümrük vergileri, eşyanın antrepo rejimine tabi tutulduğu tarihteki oranlar ve vergilendirme unsurlarına göre hesaplanır; yükümlü talep ederse serbest dolaşıma giriş beyannamesinin tescil tarihindeki hâl, nitelik ve unsurlara göre işlem yapılır. Kural tescil tarihi değildir; nitelik, kıymet ve miktarın da tescilde değil antrepo rejimine tabi tutulma tarihinde tespit edilmiş olması gerekir. (MD GK 104/3; GY 151/3-4, 345/2)",
+"kanit": "28-antrepo rejimi.txt | gümrük vergileri, eşyanın antrepo rejimine tabi tutulduğu tarihte yürürlükte bulunan vergi oranları ve diğer vergilendirme unsurlarına dayanarak hesaplanır || 28-antrepo rejimi.txt | eşyanın nitelik, gümrük kıymeti ve miktarı gibi vergilendirme unsurlarının, eşyanın antrepo rejimine tabi tutulduğu tarihte tespit edilmesi şartına bağlıdır || 28-antrepo rejimi.txt | yükümlünün serbest dolaşıma giriş beyannamesinin tescil tarihinde eşyanın bulunduğu hal ve niteliği ile diğer vergilendirme unsurlarına göre işlem yapılması yönünde talepte bulunması halinde, bu yönde işlem yapılır",
 "batch": "K05",
 "no": 51,
 "harf": "E",
 "opts": [
-"Talep, ancak eşyaya ait gümrük vergilerinin ödenmesinden veya teminata bağlanmasından önce yapılmışsa idarece dikkate alınır.",
-"Talep, yalnızca serbest dolaşıma giriş beyannamesinin tescilinden önce ve yazılı olarak yapılması hâlinde idarece dikkate alınır.",
-"Tarife kotası kapsamındaki tercihli uygulama, ithalat hacmi sınırına ulaşıldıktan sonra da talep üzerine sürdürülür.",
-"Talep, yalnızca Türkiye'nin taraf olduğu anlaşmalarda yer alan tercihli tarife uygulamaları için yapılabilir.",
-"Gerekli koşulların yerine getirilmesi hâlinde talep, gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir."
+"Kural olarak beyannamenin tescil tarihindeki unsurlar esas alınır; yükümlü talep ederse antrepo rejimine tabi tutulma tarihindeki unsurlar uygulanır.",
+"Antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse eşyanın antrepodan fiilen çıktığı tarihteki unsurlar uygulanır.",
+"Antrepo rejimine tabi tutulma tarihindeki oranlar, nitelik, kıymet ve miktarın beyanname tescilinde tespit edilmesi şartıyla uygulanır.",
+"Eşyanın antrepodan teslim alındığı tarihteki oranlar esas alınır; yükümlünün başka bir tarihi talep etme hakkı bulunmaz.",
+"Kural olarak antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse tescil tarihindeki hâl ve unsurlara göre işlem yapılır."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Beyan sahibi, koşulları taşıyan eşyanın ithalinde tercihli tarife uygulamalarının uygulanmasını isteyebilir ve gerekli koşullar yerine getirilmişse bu talep gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir. Vergilerin ödenmesinden önce yapılma şartı tescilden sonra indirilen orana ilişkindir; tarife kotasında ithalat hacmi sınırına ulaşıldığında tercihli uygulama sona erer ve talep tek taraflı tercihler ile şartlı muafiyet veya indirimler için de yapılabilir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 15/3-d, e, f, 15/4, 15/5-a; GK 75/1)"
+"g_harfli": "Antrepo rejimine tabi ithal eşyası gümrüğe sunulmaksızın ve beyanname verilmeden kayıt yoluyla serbest dolaşıma girmek üzere teslim edildiğinde gümrük vergileri, eşyanın antrepo rejimine tabi tutulduğu tarihteki oranlar ve vergilendirme unsurlarına göre hesaplanır; yükümlü talep ederse serbest dolaşıma giriş beyannamesinin tescil tarihindeki hâl, nitelik ve unsurlara göre işlem yapılır. Kural tescil tarihi değildir; nitelik, kıymet ve miktarın da tescilde değil antrepo rejimine tabi tutulma tarihinde tespit edilmiş olması gerekir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 104/3; GY 151/3-4, 345/2)"
 },
 {
 "id": "D10-052",
@@ -2214,11 +2214,11 @@
 "konu": "Dahilde İşleme",
 "tip": "T2",
 "z": "OÜ",
-"madde": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.11/2, 11/4, 13/1, 43/4",
-"cek": "Geri ödemede sistem kaydı ithalatta beyannameye düşülür; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi; ihraç edilmeyen eşyanın vergisi iade edilmez.",
+"madde": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.11/2, 12/1-a, 13/1, 43/4",
+"cek": "Geri ödemeden AT menşeli tarım ürünü hariç miktar kısıtlamalı eşya yararlanamaz; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır.",
 "kok": [
 "Dahilde İşleme Rejimi Tebliğine göre geri ödeme sistemine ilişkin aşağıdaki ifadeler veriliyor:",
-"I. Geri ödeme sisteminden yararlanmak için, eşyanın bu sistem kapsamında olduğunun ithalat esnasında gümrük beyannamesine kaydedilmesi zorunludur.",
+"I. Avrupa Topluluğu menşeli tarım ürünleri hariç olmak üzere, ithali miktar kısıtlamalarına tabi olan eşya geri ödeme sisteminden yararlandırılmaz.",
 "II. Geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye, bu sürenin bitiminden itibaren tecil faizi hükümleri uygulanır.",
 "III. Süresi içinde ihracatı gerçekleştirilemeyen eşyaya ilişkin ithalatta alınan vergi, firmaya faiziyle birlikte iade edilir.",
 "IV. A.TR belgesiyle Topluluğa ihraç edilecek ürünün girdilerinin ithalatında, gümrük vergisi dahil tüm vergiler teminata bağlanır.",
@@ -2239,14 +2239,14 @@
 "I, II ve IV"
 ],
 "tuzak": false,
-"g": "Tebliğe göre geri ödeme sisteminden yararlanmak için eşyanın bu sistem kapsamında olduğunun ithalat esnasında beyannameye kaydedilmesi zorunludur ve geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye tecil faizi hükümleri uygulanır; I ve II doğrudur. Süresinde ihracatı gerçekleştirilemeyen eşyaya ilişkin alınan vergi iade edilmez; A.TR ile Topluluğa ihraç edilecek ürünün girdilerinde ise gümrük vergisi ve varsa toplu konut fonu tahsil edilip yalnız diğer vergiler teminata bağlanır. (MD DİR Tebliği 11/2, 11/4, 13/1, 43/4)",
-"kanit": "32-DAHİLDE İŞLEME.txt | eşyanın geri ödeme sistemi kapsamında olduğunun gümrük idaresince ithalat esnasında belgeye/izne ilişkin gümrük beyannamesine kaydedilmesi zorunludur || 32-DAHİLDE İŞLEME.txt | bu sürenin bitiminden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun tecil faizine ilişkin hükümleri uygulanır || 32-DAHİLDE İŞLEME.txt | ihracatı gerçekleştirilemeyen ithal eşyasına ilişkin alınan vergi iade edilmez || 32-DAHİLDE İŞLEME.txt | gümrük vergisi ile varsa toplu konut fonunun tahsil edilmesi ve bu vergilerin haricindeki vergilerin teminata bağlanması suretiyle",
+"g": "Tebliğe göre Avrupa Topluluğuna üye ülkeler menşeli tarım ürünleri hariç olmak üzere ithali miktar kısıtlamalarına tabi eşya geri ödeme sisteminden yararlandırılmaz ve geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye tecil faizi hükümleri uygulanır; I ve II doğrudur. Süresinde ihracatı gerçekleştirilemeyen eşyaya ilişkin alınan vergi iade edilmez; A.TR ile Topluluğa ihraç edilecek ürünün girdilerinde ise gümrük vergisi ve varsa toplu konut fonu tahsil edilip yalnız diğer vergiler teminata bağlanır. (MD DİR Tebliği 11/2, 12/1-a, 13/1, 43/4)",
+"kanit": "32-DAHİLDE İŞLEME.txt | Geri ödeme sisteminden, Avrupa Topluluğuna üye ülkeler menşeli tarım ürünleri ithalatı hariç olmak üzere; || 32-DAHİLDE İŞLEME.txt | a) İthali miktar kısıtlamalarına tabi olan, || 32-DAHİLDE İŞLEME.txt | bu sürenin bitiminden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun tecil faizine ilişkin hükümleri uygulanır || 32-DAHİLDE İŞLEME.txt | ihracatı gerçekleştirilemeyen ithal eşyasına ilişkin alınan vergi iade edilmez || 32-DAHİLDE İŞLEME.txt | gümrük vergisi ile varsa toplu konut fonunun tahsil edilmesi ve bu vergilerin haricindeki vergilerin teminata bağlanması suretiyle",
 "batch": "K07",
 "no": 62,
 "harf": "A",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre geri ödeme sisteminden yararlanmak için eşyanın bu sistem kapsamında olduğunun ithalat esnasında beyannameye kaydedilmesi zorunludur ve geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye tecil faizi hükümleri uygulanır; I ve II doğrudur. Süresinde ihracatı gerçekleştirilemeyen eşyaya ilişkin alınan vergi iade edilmez; A.TR ile Topluluğa ihraç edilecek ürünün girdilerinde ise gümrük vergisi ve varsa toplu konut fonu tahsil edilip yalnız diğer vergiler teminata bağlanır. Bu nedenle doğru cevap A seçeneğidir. (MD DİR Tebliği 11/2, 11/4, 13/1, 43/4)"
+"g_harfli": "Tebliğe göre Avrupa Topluluğuna üye ülkeler menşeli tarım ürünleri hariç olmak üzere ithali miktar kısıtlamalarına tabi eşya geri ödeme sisteminden yararlandırılmaz ve geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye tecil faizi hükümleri uygulanır; I ve II doğrudur. Süresinde ihracatı gerçekleştirilemeyen eşyaya ilişkin alınan vergi iade edilmez; A.TR ile Topluluğa ihraç edilecek ürünün girdilerinde ise gümrük vergisi ve varsa toplu konut fonu tahsil edilip yalnız diğer vergiler teminata bağlanır. Bu nedenle doğru cevap A seçeneğidir. (MD DİR Tebliği 11/2, 12/1-a, 13/1, 43/4)"
 },
 {
 "id": "D10-063",
@@ -2329,13 +2329,13 @@
 "tip": "T1+T2",
 "z": "Z",
 "madde": "Gümrük Yönetmeliği m.482/1, 482/3, 482/4",
-"cek": "Üç ay içinde Türk limanları arasında tüketilen transit akaryakıt en son Türk limanında vergilendirilir; süre uzatımına gümrük ve muhafaza başmüdürlükleri yetkilidir.",
+"cek": "Dış seferden dönen geminin transit akaryakıt ve kumanyası ilk giriş limanında tespit edilir; üç ayda Türk limanları arasında tüketilen akaryakıt en son limanda vergilendirilir.",
 "kok": [
 "Gümrük Yönetmeliğine göre seferin devamı sayılabilecek hâllere ilişkin aşağıdaki ifadeler veriliyor:",
 "I. Düzenli seferli gemilerin dış seferden son Türk limanına dönüp tekrar dış sefere çıkmalarında, bu limandaki üç aya kadar bekleme süreleri seferin devamı sayılır.",
 "II. Üç aylık süre içinde Türk limanları arasında sefer yapılması hâlinde tüketilen akaryakıt, Türkiye’ye ilk giriş limanında vergilendirilir.",
 "III. Gemi üç ay içinde yabancı limanlara çıkmazsa transit akaryakıt ve kumanyası tespit edilerek vergileri tahsil edilir.",
-"IV. Üç ay içinde yabancı limana çıkılmamasının zorunlu nedenlere dayandığı belgelenirse sürenin uzatılmasına Gümrükler Genel Müdürlüğü yetkilidir.",
+"IV. Dış seferden dönen gemilerin yurt dışından veya antrepolardan aldıkları transit akaryakıt ve kumanyaları, geminin tekrar dış sefere çıktığı son Türk limanında tespit edilir.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
 "d": "II ve IV",
@@ -2353,14 +2353,14 @@
 "II, III ve IV"
 ],
 "tuzak": false,
-"g": "Düzenli seferli gemilerin son Türk limanındaki üç aya kadar bekleme süreleri seferin devamı sayılır ve gemi üç ay içinde yabancı limana çıkmazsa transit akaryakıt ve kumanyası tespit edilerek vergileri tahsil edilir; bu nedenle I ve III doğrudur. Üç aylık sürede Türk limanları arasında tüketilen akaryakıt ilk giriş limanında değil uğranılan en son Türk limanında vergilendirildiğinden II; sürenin uzatılmasına Gümrükler Genel Müdürlüğü değil gümrük ve muhafaza başmüdürlükleri yetkili olduğundan IV yanlıştır. (MD GY 482/1, 482/3-4)",
-"kanit": "42-kumanya.txt | Üç aylık süre içerisinde Türk limanları arasında sefer yapılması halinde tüketilen akaryakıt uğradığı en son Türk limanında vergilendirilir. || 42-kumanya.txt | bu sürenin uzatılmasına gümrük ve muhafaza başmüdürlükleri yetkilidir.",
+"g": "Düzenli seferli gemilerin son Türk limanındaki üç aya kadar bekleme süreleri seferin devamı sayılır ve gemi üç ay içinde yabancı limana çıkmazsa transit akaryakıt ve kumanyası tespit edilerek vergileri tahsil edilir; bu nedenle I ve III doğrudur. Üç aylık sürede Türk limanları arasında tüketilen akaryakıt ilk giriş limanında değil uğranılan en son Türk limanında vergilendirildiğinden II; transit akaryakıt ve kumanyalar son Türk limanında değil Türkiye’ye ilk giriş limanında tespit edildiğinden IV yanlıştır. (MD GY 482/1, 482/3-4)",
+"kanit": "42-kumanya.txt | Üç aylık süre içerisinde Türk limanları arasında sefer yapılması halinde tüketilen akaryakıt uğradığı en son Türk limanında vergilendirilir. || 42-kumanya.txt | Dış seferden dönen gemilerin Türkiye'ye ilk giriş limanında yurt dışından ya da yurt içinde antrepolardan almış oldukları transit akaryakıt ve kumanyaları tespit edilir.",
 "batch": "K14",
 "no": 65,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Düzenli seferli gemilerin son Türk limanındaki üç aya kadar bekleme süreleri seferin devamı sayılır ve gemi üç ay içinde yabancı limana çıkmazsa transit akaryakıt ve kumanyası tespit edilerek vergileri tahsil edilir; bu nedenle I ve III doğrudur. Üç aylık sürede Türk limanları arasında tüketilen akaryakıt ilk giriş limanında değil uğranılan en son Türk limanında vergilendirildiğinden II; sürenin uzatılmasına Gümrükler Genel Müdürlüğü değil gümrük ve muhafaza başmüdürlükleri yetkili olduğundan IV yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 482/1, 482/3-4)"
+"g_harfli": "Düzenli seferli gemilerin son Türk limanındaki üç aya kadar bekleme süreleri seferin devamı sayılır ve gemi üç ay içinde yabancı limana çıkmazsa transit akaryakıt ve kumanyası tespit edilerek vergileri tahsil edilir; bu nedenle I ve III doğrudur. Üç aylık sürede Türk limanları arasında tüketilen akaryakıt ilk giriş limanında değil uğranılan en son Türk limanında vergilendirildiğinden II; transit akaryakıt ve kumanyalar son Türk limanında değil Türkiye’ye ilk giriş limanında tespit edildiğinden IV yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 482/1, 482/3-4)"
 },
 {
 "id": "D10-066",
@@ -2479,34 +2479,34 @@
 "konu": "Geri Gelen Eşya",
 "tip": "T3",
 "z": "OÜ",
-"madde": "Gümrük Yönetmeliği m.452/1; 4458 sayılı Gümrük Kanunu m.168/1",
-"cek": "Geri getirilme süresi fiili ihraç tarihinden başlar; çıkış partiler hâlinde yapılırsa her partinin süresinin başlangıcı ayrı ayrı dikkate alınır.",
+"madde": "4458 sayılı Gümrük Kanunu m.170",
+"cek": "Dahilde işlemeden sonra ihraç edilip geri gelen işlem görmüş üründe yeniden ihraç tarihi serbest dolaşıma giriş tarihi sayılır; vergiler DİR hükümlerine göre belirlenir.",
 "kok": [
-"Gümrük Yönetmeliğine göre, partiler hâlinde ihraç edilip geri gelen eşyada geri getirilme süresi **nasıl** hesaplanır?"
+"4458 sayılı Gümrük Kanununa göre, dahilde işleme sonrası ihraç edilip geri gelen işlem görmüş üründe serbest dolaşıma giriş tarihi **nedir**?"
 ],
-"d": "Her parti için o partinin fiilen ihraç edildiği tarihten itibaren üç yıl",
+"d": "Ürünün dahilde işleme sonrasında yeniden ihraç edildiği tarih",
 "c": [
-"Tüm partiler için ilk partinin fiilen ihraç edildiği tarihten itibaren üç yıl",
-"Tüm partiler için son partinin fiilen ihraç edildiği tarihten itibaren üç yıl",
-"Tüm partiler için ihracat beyannamesinin tescil tarihinden itibaren üç yıl",
-"Her parti için alıcıya teslim edildiği tarihten itibaren üç yıl"
+"Geri gelen ürüne ait serbest dolaşıma giriş beyannamesinin tescil tarihi",
+"İthal eşyasının dahilde işleme rejimine tabi tutulduğu tarih",
+"Ürünün Türkiye Gümrük Bölgesine yeniden getirildiği tarih",
+"Dahilde işleme izninin veriliş tarihi"
 ],
 "tuzak": false,
-"g": "Geri getirilme süresinin başlangıcı eşyanın fiilen ihraç edildiği tarihtir; çıkışın partiler hâlinde yapılması hâlinde her partiye ilişkin sürenin başlangıcı ayrı ayrı göz önünde bulundurulur. Bu nedenle ilk veya son partinin çıkış tarihi bütün partiler için esas alınmaz; beyannamenin tescil tarihi ya da eşyanın alıcıya teslim tarihi de sürenin başlangıcı değildir. (MD GY 452/1; GK 168/1)",
-"kanit": "37-geri gelen eşya.txt | Geri getirilme süresinin başlangıcı eşyanın fiilen ihraç edildiği tarihtir. Çıkışın partiler halinde yapılması halinde, her partiye ilişkin sürenin başlangıcı ayrı ayrı göz önünde bulundurulur.",
+"g": "Geri gelen eşyaya ilişkin hükümler dahilde işleme rejiminden sonra ihraç edilip geri gelen işlem görmüş ürünlere de uygulanır; bu hâllerde eşyanın yeniden ihraç tarihi serbest dolaşıma giriş tarihi olarak kabul edilir ve kanunen alınması gereken ithalat vergileri dahilde işleme rejimi hükümlerine göre belirlenir. Ürünün yurda yeniden getirildiği tarih, geri gelişe ait beyannamenin tescil tarihi ya da ithal eşyasının rejime tabi tutulduğu tarih esas alınmaz. (MD GK 170)",
+"kanit": "37-geri gelen eşya.txt | 168 ve 169 uncu madde hükümleri, dahilde işleme rejiminin uygulanmasından sonra ihraç edilen ve daha sonra geri gelen işlem görmüş ürünlere de uygulanır. || 37-geri gelen eşya.txt | Bu gibi hallerde, eşyanın yeniden ihraç tarihi, serbest dolaşıma giriş tarihi olarak kabul edilir ve kanunen alınması gereken ithalat vergileri tutarı, dahilde işleme rejimi hükümlerine göre belirlenir.",
 "batch": "K14",
 "no": 69,
 "harf": "D",
 "opts": [
-"Tüm partiler için ilk partinin fiilen ihraç edildiği tarihten itibaren üç yıl",
-"Tüm partiler için son partinin fiilen ihraç edildiği tarihten itibaren üç yıl",
-"Tüm partiler için ihracat beyannamesinin tescil tarihinden itibaren üç yıl",
-"Her parti için o partinin fiilen ihraç edildiği tarihten itibaren üç yıl",
-"Her parti için alıcıya teslim edildiği tarihten itibaren üç yıl"
+"Geri gelen ürüne ait serbest dolaşıma giriş beyannamesinin tescil tarihi",
+"İthal eşyasının dahilde işleme rejimine tabi tutulduğu tarih",
+"Ürünün Türkiye Gümrük Bölgesine yeniden getirildiği tarih",
+"Ürünün dahilde işleme sonrasında yeniden ihraç edildiği tarih",
+"Dahilde işleme izninin veriliş tarihi"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Geri getirilme süresinin başlangıcı eşyanın fiilen ihraç edildiği tarihtir; çıkışın partiler hâlinde yapılması hâlinde her partiye ilişkin sürenin başlangıcı ayrı ayrı göz önünde bulundurulur. Bu nedenle ilk veya son partinin çıkış tarihi bütün partiler için esas alınmaz; beyannamenin tescil tarihi ya da eşyanın alıcıya teslim tarihi de sürenin başlangıcı değildir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 452/1; GK 168/1)"
+"g_harfli": "Geri gelen eşyaya ilişkin hükümler dahilde işleme rejiminden sonra ihraç edilip geri gelen işlem görmüş ürünlere de uygulanır; bu hâllerde eşyanın yeniden ihraç tarihi serbest dolaşıma giriş tarihi olarak kabul edilir ve kanunen alınması gereken ithalat vergileri dahilde işleme rejimi hükümlerine göre belirlenir. Ürünün yurda yeniden getirildiği tarih, geri gelişe ait beyannamenin tescil tarihi ya da ithal eşyasının rejime tabi tutulduğu tarih esas alınmaz. Bu nedenle doğru cevap D seçeneğidir. (MD GK 170)"
 },
 {
 "id": "D10-070",
@@ -3419,36 +3419,36 @@
 "cikmis": "2025/95",
 "konu": "Cezalar",
 "tip": "T8",
-"z": "Z",
-"madde": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.19/1, 20/3, 20/7; 4458 sayılı Gümrük Kanunu m.238",
-"cek": "Kara taşıtında şartların ihlali nedeniyle vergi ve cezaların tahsili serbest dolaşıma girişi sağlamaz; ödenmiş olsa dahi taşıt yurt dışı edilmelidir.",
+"z": "OÜ",
+"madde": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.31/1, 31/2, 31/3",
+"cek": "Kazada kullanılamaz hâle gelen geçici ithal taşıtın vergileri aranmaz; taşıt yurt dışına çıkarılmalı veya gümrüğe terk edilmelidir.",
 "kok": [
-"Yurt dışında yerleşik (N), kişisel kullanımına mahsus otomobilini geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine getirmiştir. Yapılan denetimde taşıtın, hak sahibi olmayan ve Türkiye'de yerleşik bir kişi tarafından kullanıldığı tespit edilmiş; şartların ihlali nedeniyle Gümrük Kanunu uyarınca işlem yapılarak geçici ithal izni iptal edilmiş ve taşıt gümrük idaresince teslim alınmıştır. (N), taşıta ilişkin olarak tahakkuk ettirilen gümrük vergileri ile para cezasını ödedikten sonra, ödeme yaptığı için taşıtın serbest dolaşıma girmiş sayılmasını ve adına Türk plakasıyla tescil edilmesini talep etmiştir.",
-"Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre, (N)'nin talebi hakkında aşağıdakilerden hangisi doğrudur?"
+"Yurt dışında yerleşik (N), kişisel kullanımına mahsus otomobilini geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine getirmiştir. Taşıt, yurtta kalma süresi içinde Türkiye'de geçirdiği trafik kazası sonucunda ağır hasar görmüş ve kullanılamayacak duruma gelmiştir. Kazada ölen veya yaralanan olmamış; kaza durumu, jandarma birimlerince düzenlenen olay yeri tespit tutanağı ve yetkili sigorta şirketinin eksperince düzenlenen ekspertiz raporuyla belgelendirilmiştir. (N), taşıtın enkazını yurt dışına götürmek istemediğini ve enkazın Türkiye'de hurda olarak değerlendirilmesini talep ettiğini gümrük idaresine bildirmiştir.",
+"Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)'e göre, bu taşıt hakkında aşağıdakilerden hangisi doğrudur?"
 ],
-"d": "Şartların ihlali neticesinde vergi ve cezaların tahsil edilmiş olması taşıtın serbest dolaşıma girişini sağlamaz; vergi ve cezalar ödenmiş olsa dahi taşıtın yurt dışı edilmesi gerekir.",
+"d": "Kaza sonucu kullanılamayacak duruma gelen taşıta ait vergiler aranmaz; ancak hasara uğrayan taşıtın yurt dışına çıkarılması veya gümrüğe terk edilmesi gerekir.",
 "c": [
-"Şartların ihlali neticesinde vergi ve cezaların tahsil edilmiş olması taşıtın serbest dolaşıma girişini sağlar; taşıt, ödeme belgesinin ibrazı üzerine (N) adına Türk plakasıyla tescil edilir.",
-"Vergi ve cezaların ödenmesiyle iptal edilen geçici ithal izni yeniden geçerlilik kazanır ve taşıt, kalan süre içinde hak sahibi (N) tarafından Türkiye'de kullanılmaya devam edilebilir.",
-"Taşıt gümrük gözetimine alındığından tahakkuka özel tüketim vergisi dâhil edilmez; (N), bu vergiyi ayrıca ödeyerek taşıtı serbest dolaşıma sokabilir ve Türk plakası alabilir.",
-"Vergi ve cezaların tahsil edilmesiyle taşıtın mülkiyeti kamuya geçer ve taşıt tasfiye hükümlerine göre satılarak satış bedelinden ödenen tutarlar (N)'ye iade edilir."
+"Taşıt yurtta kalma süresi içinde yurt dışına çıkarılamayacağından şartların ihlali sayılır ve gümrük vergileriyle birlikte gümrüklenmiş değerinin iki katı ceza alınır.",
+"Kaza sonucu kullanılamayacak duruma gelen taşıta ait vergiler aranmaz ve taşıt enkazı, (N)'nin talebiyle hurda olarak serbest dolaşıma sokularak Türkiye'de satılabilir.",
+"Taşıta ait gümrük vergileri teminattan tahsil edilir; vergiler ödendiğinden taşıt enkazı yurt dışına çıkarılmaksızın Türkiye'de doğrudan (N) adına tescil edilebilir.",
+"Hasar belgelendirilse de taşıtın vergileri aranır; vergilerin dörtte biri tutarında ceza alınıp taşıtın tamirden sonra yurt dışına çıkarılmasına izin verilir."
 ],
 "tuzak": false,
-"g": "Tebliğe göre şartların ihlali neticesinde vergi ve cezaların tahsil edilmiş olması taşıtın serbest dolaşıma girişini sağlamaz; vergi ve cezalar ödenmiş dahi olsa taşıtın yurt dışı edilmesi gerekir. Taşıtın gümrük gözetimine alınmış olması hâlinde tahakkuka özel tüketim vergisinin dâhil edilmemesi bir hesaplama kuralıdır, taşıtın serbest dolaşıma sokulmasına imkân vermez. İptal edilen izin ödemeyle yeniden geçerlilik kazanmaz. (MD Kara Taşıtları Tebliği Seri No: 1 m.19, 20; GK 238)",
-"kanit": "34-GEÇİCİ İTHALAT.txt | Şartların ihlali neticesinde vergi ve cezaların tahsil edilmiş olması taşıtın serbest dolaşıma girişini sağlamaz. Vergi ve cezalar ödenmiş dahi olsa taşıtın yurtdışı edilmesi gerekir || 34-GEÇİCİ İTHALAT.txt | hak sahibi olmayan kişilerce kullanılması || 34-GEÇİCİ İTHALAT.txt | Taşıtın gümrük gözetimine alınmış olması hâlinde Kanunun 238 inci maddesi uyarınca yapılacak tahakkuklarda özel tüketim vergisi tahakkuka dâhil edilmeksizin",
+"g": "Tebliğe göre kaza veya herhangi bir nedenle hasar görerek kullanılamayacak duruma gelen taşıta ait vergiler aranmaz; ancak hasara uğrayan taşıtın yurt dışına çıkarılması veya gümrüğe terk edilmesi gerekir. Kaza durumu belgelendiğinden şartların ihlali nedeniyle ceza söz konusu değildir; enkaz serbest dolaşıma sokulamaz, yurt dışına çıkarılmak istenmezse terk dilekçesiyle işlem yapılarak tasfiye hükümlerine tabi tutulur. (MD Kara Taşıtları Tebliği Seri No: 1 m.31)",
+"kanit": "34-GEÇİCİ İTHALAT.txt | Kaza veya herhangi bir nedenden dolayı hasar görmesi sonucu kullanılamayacak duruma gelen taşıta ait vergiler aranmaz. Hasara uğrayan taşıtın, yurtdışına çıkarılması veya gümrüğe terk edilmesi gerekir || 34-GEÇİCİ İTHALAT.txt | yetkili sigorta şirketlerinin eksperlerince düzenlenecek ekspertiz raporları ile kaza durumu belgelendirilir || 34-GEÇİCİ İTHALAT.txt | Yurtdışına çıkarılmak istenmeyen taşıt enkazının terk edilmek istenmesi hâlinde",
 "batch": "K11",
 "no": 95,
 "harf": "A",
 "opts": [
-"Şartların ihlali neticesinde vergi ve cezaların tahsil edilmiş olması taşıtın serbest dolaşıma girişini sağlamaz; vergi ve cezalar ödenmiş olsa dahi taşıtın yurt dışı edilmesi gerekir.",
-"Şartların ihlali neticesinde vergi ve cezaların tahsil edilmiş olması taşıtın serbest dolaşıma girişini sağlar; taşıt, ödeme belgesinin ibrazı üzerine (N) adına Türk plakasıyla tescil edilir.",
-"Vergi ve cezaların ödenmesiyle iptal edilen geçici ithal izni yeniden geçerlilik kazanır ve taşıt, kalan süre içinde hak sahibi (N) tarafından Türkiye'de kullanılmaya devam edilebilir.",
-"Taşıt gümrük gözetimine alındığından tahakkuka özel tüketim vergisi dâhil edilmez; (N), bu vergiyi ayrıca ödeyerek taşıtı serbest dolaşıma sokabilir ve Türk plakası alabilir.",
-"Vergi ve cezaların tahsil edilmesiyle taşıtın mülkiyeti kamuya geçer ve taşıt tasfiye hükümlerine göre satılarak satış bedelinden ödenen tutarlar (N)'ye iade edilir."
+"Kaza sonucu kullanılamayacak duruma gelen taşıta ait vergiler aranmaz; ancak hasara uğrayan taşıtın yurt dışına çıkarılması veya gümrüğe terk edilmesi gerekir.",
+"Taşıt yurtta kalma süresi içinde yurt dışına çıkarılamayacağından şartların ihlali sayılır ve gümrük vergileriyle birlikte gümrüklenmiş değerinin iki katı ceza alınır.",
+"Kaza sonucu kullanılamayacak duruma gelen taşıta ait vergiler aranmaz ve taşıt enkazı, (N)'nin talebiyle hurda olarak serbest dolaşıma sokularak Türkiye'de satılabilir.",
+"Taşıta ait gümrük vergileri teminattan tahsil edilir; vergiler ödendiğinden taşıt enkazı yurt dışına çıkarılmaksızın Türkiye'de doğrudan (N) adına tescil edilebilir.",
+"Hasar belgelendirilse de taşıtın vergileri aranır; vergilerin dörtte biri tutarında ceza alınıp taşıtın tamirden sonra yurt dışına çıkarılmasına izin verilir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre şartların ihlali neticesinde vergi ve cezaların tahsil edilmiş olması taşıtın serbest dolaşıma girişini sağlamaz; vergi ve cezalar ödenmiş dahi olsa taşıtın yurt dışı edilmesi gerekir. Taşıtın gümrük gözetimine alınmış olması hâlinde tahakkuka özel tüketim vergisinin dâhil edilmemesi bir hesaplama kuralıdır, taşıtın serbest dolaşıma sokulmasına imkân vermez. İptal edilen izin ödemeyle yeniden geçerlilik kazanmaz. Bu nedenle doğru cevap A seçeneğidir. (MD Kara Taşıtları Tebliği Seri No: 1 m.19, 20; GK 238)"
+"g_harfli": "Tebliğe göre kaza veya herhangi bir nedenle hasar görerek kullanılamayacak duruma gelen taşıta ait vergiler aranmaz; ancak hasara uğrayan taşıtın yurt dışına çıkarılması veya gümrüğe terk edilmesi gerekir. Kaza durumu belgelendiğinden şartların ihlali nedeniyle ceza söz konusu değildir; enkaz serbest dolaşıma sokulamaz, yurt dışına çıkarılmak istenmezse terk dilekçesiyle işlem yapılarak tasfiye hükümlerine tabi tutulur. Bu nedenle doğru cevap A seçeneğidir. (MD Kara Taşıtları Tebliği Seri No: 1 m.31)"
 },
 {
 "id": "D10-096",

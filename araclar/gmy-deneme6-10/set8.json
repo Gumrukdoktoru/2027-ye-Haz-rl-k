@@ -967,34 +967,34 @@
 "konu": "Disiplin",
 "tip": "T3",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu geçici m.6/5",
-"cek": "Yetkili disiplin kurulu savunma için on günden az olmayan süre verir; bu sürede savunma yapmayan savunma hakkından vazgeçmiş sayılır.",
+"madde": "Gümrük Yönetmeliği m.578/1-ç",
+"cek": "Görevini bağımsız, tarafsız ve dürüst yapmayan ya da kusurlu yapan YGM'nin yetki belgesi bir yıl süreyle geri alınır.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre, yetkili disiplin kurulunun meslek mensubuna savunması için vereceği süre **en az** kaç gündür?"
+"Gümrük Yönetmeliğine göre görevini kusurlu olarak yapan yetkilendirilmiş gümrük müşavirinin yetki belgesi ne süreyle geri alınır?"
 ],
-"d": "10 gün",
+"d": "1 yıl",
 "c": [
-"7 gün",
-"15 gün",
-"30 gün",
-"60 gün"
+"6 ay",
+"2 yıl",
+"3 yıl",
+"5 yıl"
 ],
 "opts": [
-"7 gün",
-"10 gün",
-"15 gün",
-"30 gün",
-"60 gün"
+"6 ay",
+"1 yıl",
+"2 yıl",
+"3 yıl",
+"5 yıl"
 ],
 "tuzak": false,
-"g": "Kanuna göre meslek mensubu hakkında savunması alınmadan disiplin cezası verilemez; yetkili disiplin kurulunun on günden az olmamak üzere verdiği süre içinde savunma yapmayanlar savunma hakkından vazgeçmiş sayılır. Yedi gün bu alt sınırın altında kalır; on beş, otuz ve altmış günlük süreler ise savunma için öngörülmemiştir. (MD GK Geçici 6/5)",
-"kanit": "51-disiplin cezaları.txt | Yetkili disiplin kurulunun on günden az olmamak üzere verdiği süre içinde savunma yapmayanlar, savunma hakkından vazgeçmiş sayılırlar.",
+"g": "Yönetmeliğe göre görevin bağımsızlık, tarafsızlık ve dürüstlükle yapılmaması veya kusurlu olarak yapılması ya da Kanunda yer alan mesleğin genel prensiplerine aykırı harekette bulunulması hâlinde yetkilendirilmiş gümrük müşavirinin yetki belgesi 1 yıl süreyle geri alınır. İki yıllık süre tespit sözleşmesi kapsamındaki işleri başkasına yaptırmaya, beş yıllık süre ise mesleki bilgi ve belgelerin amaç dışı kullanılmasına ilişkindir. (MD GY 578/1-ç)",
+"kanit": "31-YGM.txt | Görevin bağımsızlık, tarafsızlık ve dürüstlükle yapılmaması veya kusurlu olarak yapılması ya da Kanunda yer alan mesleğin genel prensiplerine aykırı harekette bulunulması halinde yetkilendirilmiş gümrük müşavirine ait yetki belgesi 1 yıl süreyle geri alınır.",
 "batch": "K13",
 "no": 28,
 "harf": "B",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre meslek mensubu hakkında savunması alınmadan disiplin cezası verilemez; yetkili disiplin kurulunun on günden az olmamak üzere verdiği süre içinde savunma yapmayanlar savunma hakkından vazgeçmiş sayılır. Yedi gün bu alt sınırın altında kalır; on beş, otuz ve altmış günlük süreler ise savunma için öngörülmemiştir. Bu nedenle doğru cevap B seçeneğidir. (MD GK Geçici 6/5)"
+"g_harfli": "Yönetmeliğe göre görevin bağımsızlık, tarafsızlık ve dürüstlükle yapılmaması veya kusurlu olarak yapılması ya da Kanunda yer alan mesleğin genel prensiplerine aykırı harekette bulunulması hâlinde yetkilendirilmiş gümrük müşavirinin yetki belgesi 1 yıl süreyle geri alınır. İki yıllık süre tespit sözleşmesi kapsamındaki işleri başkasına yaptırmaya, beş yıllık süre ise mesleki bilgi ve belgelerin amaç dışı kullanılmasına ilişkindir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 578/1-ç)"
 },
 {
 "id": "D8-029",
@@ -1464,13 +1464,13 @@
 "konu": "Menşe",
 "tip": "T2",
 "z": "OÜ",
-"madde": "Gümrük Yönetmeliği m.432/1-a, c, d",
-"cek": "Serbest bölgeden AB'ye A.TR: serbest dolaşımdaki girdiden üretilene vergisiz A.TR; önleme tabi eşyada telafi edici vergi ve ithal lisansı; iadede yalnız KDV-ÖTV.",
+"madde": "Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.55/1, 56/4, 57/1",
+"cek": "Basitleştirilmiş usulde A.TR ayrı seri numaralı üç nüsha basılır; bir nüsha ihracat beyannamesine eklenir; eşyanın ihracından sonra da düzenlenebilir.",
 "kok": [
-"Gümrük Yönetmeliğine göre, serbest bölgeden AB'ye A.TR ile gönderilen eşyada;",
-"I. Ticaret politikası önlemine tabi üçüncü ülke menşeli eşyada yalnız telafi edici vergi aranır.",
-"II. Tamamen serbest dolaşımdaki girdilerden üretilmişse vergisiz A.TR düzenlenir.",
-"III. Üçüncü ülke girdili eşya AB'den iade edilirse A.TR ibrazıyla gümrük vergisi dışındaki vergiler alınır.",
+"Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre, basitleştirilmiş usulde düzenlenen A.TR'ye ilişkin;",
+"I. Eşyanın ihracından sonra bu usulle A.TR düzenlenemez.",
+"II. Her belgeye ayrı seri numarası verilerek üç nüsha bastırılır.",
+"III. Asıl nüsha dışındaki iki nüshadan biri ihracat beyannamesine eklenir.",
 "ifadelerinden hangileri doğrudur?"
 ],
 "d": "II ve III",
@@ -1488,14 +1488,14 @@
 "II ve III"
 ],
 "tuzak": false,
-"g": "Tamamen Türkiye'de serbest dolaşımdaki girdilerden üretildiği anlaşılan eşya için herhangi bir vergi tahsil edilmeksizin A.TR düzenlenip vize edilir; AB'deki alıcılarca iade edilen üçüncü ülke girdili eşyanın serbest dolaşıma girişinde, ihracatta vize edilmiş A.TR ibraz edilirse gümrük vergisi dışındaki KDV, ÖTV ve eş etkili mali yükler tahsil edilir. Ticaret politikası önlemlerine tabi üçüncü ülke menşeli eşyada ise A.TR düzenlenmesi için telafi edici verginin tahsili yanında ithal lisansının ibrazı da gerekir; bu yüzden I yanlıştır. (MD GY 432/1-a, c, d)",
-"kanit": "38-serbest bölge.txt | herhangi bir vergi tahsilatı yapılmaksızın 2006/10895 sayılı Türkiye ile Avrupa Topluluğu Arasında Oluşturulan Gümrük Birliğinin Uygulanmasına İlişkin Esaslar Hakkında Karar çerçevesinde A.TR Dolaşım Belgesi düzenlenir ve vize edilir || 38-serbest bölge.txt | A.TR Dolaşım Belgesi düzenlenmesi için telafi edici verginin tahsil edilmesi ve bu eşya için düzenlenmiş ithal lisansının ibraz edilmesi gerekir || 38-serbest bölge.txt | gümrük vergisi dışında ithalatta tahsili gereken Katma Değer Vergisi ve Özel Tüketim Vergisi ile eş etkili mali yükler tahsil edilir",
+"g": "Basitleştirilmiş işlem kapsamında düzenlenecek A.TR dolaşım belgeleri, Kararda belirlenen form ve evsafa uygun olarak her belgeye ayrı seri numarası verilerek üç nüsha hâlinde bastırılır; asıl nüsha dışındaki iki nüshadan biri ihracat beyannamesine eklenir. Onaylanmış ihracatçı yetkisi sahiplerince eşyanın ihracından sonra da A.TR dolaşım belgesi düzenlenebildiğinden I yanlıştır. (MD OKS Tebliği 55/1, 56/4, 57/1)",
+"kanit": "4-OKSB.txt | her belgeye ayrı seri numarası verilerek üç nüsha halinde bastırılır || 4-OKSB.txt | asıl nüshası dışında kalan diğer iki nüshasından biri, Karar'ın 8 inci maddesi gereğince, ihracat beyannamesine eklenir || 4-OKSB.txt | eşyanın ihracından sonra da A.TR dolaşım belgesi düzenlenebilir",
 "batch": "K03",
 "no": 42,
 "harf": "E",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tamamen Türkiye'de serbest dolaşımdaki girdilerden üretildiği anlaşılan eşya için herhangi bir vergi tahsil edilmeksizin A.TR düzenlenip vize edilir; AB'deki alıcılarca iade edilen üçüncü ülke girdili eşyanın serbest dolaşıma girişinde, ihracatta vize edilmiş A.TR ibraz edilirse gümrük vergisi dışındaki KDV, ÖTV ve eş etkili mali yükler tahsil edilir. Ticaret politikası önlemlerine tabi üçüncü ülke menşeli eşyada ise A.TR düzenlenmesi için telafi edici verginin tahsili yanında ithal lisansının ibrazı da gerekir; bu yüzden I yanlıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 432/1-a, c, d)"
+"g_harfli": "Basitleştirilmiş işlem kapsamında düzenlenecek A.TR dolaşım belgeleri, Kararda belirlenen form ve evsafa uygun olarak her belgeye ayrı seri numarası verilerek üç nüsha hâlinde bastırılır; asıl nüsha dışındaki iki nüshadan biri ihracat beyannamesine eklenir. Onaylanmış ihracatçı yetkisi sahiplerince eşyanın ihracından sonra da A.TR dolaşım belgesi düzenlenebildiğinden I yanlıştır. Bu nedenle doğru cevap E seçeneğidir. (MD OKS Tebliği 55/1, 56/4, 57/1)"
 },
 {
 "id": "D8-043",
@@ -1646,38 +1646,38 @@
 "tip": "T2",
 "z": "Z",
 "madde": "Gümrük Yönetmeliği m.54/1, m.54/2-a; 4458 sayılı Gümrük Kanunu m.29",
-"cek": "Entegre devre, yarı iletken ve bunlarla bütünlük oluşturan aletler \"taşıyıcı ortam\" sayılmaz; bunlarda yalnız taşıyıcı ortam kıymeti esası uygulanmaz.",
+"cek": "Taşıyıcı ortam deyimi entegre devre, yarı iletken ve bunlarla bütünlük oluşturan aletleri kapsamaz; bunlarda yalnız taşıyıcı ortam kıymeti esası uygulanmaz.",
 "kok": [
-"Gümrük Yönetmeliğinin veri veya komut yüklü bilgi taşıyıcılarının gümrük kıymetine ilişkin hükümlerine göre; (K) firması bilgisayarlarda kullanılmak üzere, üzerine veri veya komut yüklenmiş aşağıdaki eşyayı ithal etmiş ve satış bedeli yöntemine göre beyan etmiştir:",
-"I. Üzerine işletim komutları yüklenmiş olan ve bilgisayar kartıyla bütünlük oluşturan yarı iletken bellek modülleri",
-"II. Üzerine muhasebe yazılımı yüklenmiş, yazılım bedeli taşıyıcı ortam bedelinden ayrı gösterilen ve ayırt edilebilen optik diskler",
-"III. Üzerine müşteri veri tabanı yüklenmiş, veri bedeli taşıyıcı ortam bedelinden ayrı gösterilen ve ayırt edilebilen manyetik bantlar",
-"IV. Üzerine tasarım verileri yüklenmiş olan ve bu verilerin bedeli faturada ayrıca gösterilmediğinden taşıyıcı ortamın maliyetinden ayırt edilemeyen harici diskler",
+"Gümrük Yönetmeliğinin veri veya komut yüklü bilgi taşıyıcılarının gümrük kıymetine ilişkin hükümlerine göre; (K) firması bilgisayarlarda kullanılmak üzere, üzerine veri veya komut yüklenmiş aşağıdaki eşyayı ithal etmiştir. Her birinde yüklü veri veya komutların bedeli faturada ayrıca gösterilmiş olup taşıyıcının maliyet veya kıymetinden ayırt edilebilmektedir:",
+"I. Üzerine muhasebe yazılımı yüklenmiş ve yazılım bedeli disk bedelinden ayrı olarak faturalandırılmış optik diskler",
+"II. Üzerine işletim komutları yüklenmiş olan ve bilgisayar anakartıyla bütünlük oluşturacak şekilde tasarlanmış yarı iletken bellek modülleri",
+"III. Üzerine müşteri veri tabanı yüklenmiş ve veri bedeli bant bedelinden ayrı olarak faturalandırılmış manyetik bantlar",
+"IV. Üzerine bir makinenin kontrol komutları yüklenmiş ve bu komutlarla birlikte satılan entegre devreler",
 "Yukarıdakilerden hangilerinde, gümrük kıymetinin belirlenmesinde yalnızca taşıyıcı ortamın kendisinin maliyeti veya kıymeti esas alınır?"
 ],
-"d": "II ve III",
+"d": "I ve III",
 "c": [
-"II ve IV",
-"III ve IV",
+"I ve IV",
+"II ve III",
 "I, II ve III",
-"II, III ve IV"
+"I, III ve IV"
 ],
 "opts": [
+"I ve III",
+"I ve IV",
 "II ve III",
-"II ve IV",
-"III ve IV",
 "I, II ve III",
-"II, III ve IV"
+"I, III ve IV"
 ],
 "tuzak": false,
-"g": "Veri veya komut yüklü bilgi taşıyıcılarında yalnızca taşıyıcı ortamın maliyeti veya kıymeti esas alınır ve ayırt edilebilmesi koşuluyla veri veya komutların kıymeti kıymete girmez; II ve III bu kapsamdadır. Taşıyıcı ortam deyimi entegre devreleri, yarı iletkenleri ve bunlarla bütünlük oluşturan aletleri kapsamadığından I, veri bedeli ayırt edilemediğinden IV bu esasa tabi değildir. (MD GY 54/1, 54/2-a)",
-"kanit": "12-KIYMET VE KAPLAR.txt | sadece taşıyıcı ortamın kendisinin maliyeti veya kıymeti esas alınır. Bu nedenle, taşıyıcı ortamın maliyet veya kıymetinden ayırt edilebilmesi koşuluyla, gümrük kıymeti, veri veya komutların maliyet veya kıymetini içermez. || 12-KIYMET VE KAPLAR.txt | a) Taşıyıcı ortam deyimi, entegre devreler, yarı iletkenler ve bu tür devre veya cihazlarla bütünlük oluşturan benzeri araç ve aletleri,",
+"g": "Yönetmeliğe göre taşıyıcı ortam deyimi entegre devreleri, yarı iletkenleri ve bu tür devre veya cihazlarla bütünlük oluşturan benzeri araç ve aletleri kapsamaz; bu nedenle yarı iletken bellek modülleri (II) ve entegre devreler (IV) için yalnızca taşıyıcı ortamın kıymetinin esas alınacağı kural uygulanmaz. Optik disk (I) ve manyetik bant (III) ise bu istisnaya girmediğinden, ayırt edilebilen yazılım ve veri bedeli kıymete katılmaz. (MD GY 54/1, 54/2-a; GK 29)",
+"kanit": "12-KIYMET VE KAPLAR.txt | a) Taşıyıcı ortam deyimi, entegre devreler, yarı iletkenler ve bu tür devre veya cihazlarla bütünlük oluşturan benzeri araç ve aletleri, || 12-KIYMET VE KAPLAR.txt | sadece taşıyıcı ortamın kendisinin maliyeti veya kıymeti esas alınır",
 "batch": "K02",
 "no": 47,
 "harf": "A",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Veri veya komut yüklü bilgi taşıyıcılarında yalnızca taşıyıcı ortamın maliyeti veya kıymeti esas alınır ve ayırt edilebilmesi koşuluyla veri veya komutların kıymeti kıymete girmez; II ve III bu kapsamdadır. Taşıyıcı ortam deyimi entegre devreleri, yarı iletkenleri ve bunlarla bütünlük oluşturan aletleri kapsamadığından I, veri bedeli ayırt edilemediğinden IV bu esasa tabi değildir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 54/1, 54/2-a)"
+"g_harfli": "Yönetmeliğe göre taşıyıcı ortam deyimi entegre devreleri, yarı iletkenleri ve bu tür devre veya cihazlarla bütünlük oluşturan benzeri araç ve aletleri kapsamaz; bu nedenle yarı iletken bellek modülleri (II) ve entegre devreler (IV) için yalnızca taşıyıcı ortamın kıymetinin esas alınacağı kural uygulanmaz. Optik disk (I) ve manyetik bant (III) ise bu istisnaya girmediğinden, ayırt edilebilen yazılım ve veri bedeli kıymete katılmaz. Bu nedenle doğru cevap A seçeneğidir. (MD GY 54/1, 54/2-a; GK 29)"
 },
 {
 "id": "D8-048",
@@ -2226,37 +2226,37 @@
 {
 "id": "D8-063",
 "cikmis": "2023/63",
-"konu": "Gümrük Rejimleri",
+"konu": "Temel Tanımlar",
 "tip": "T1",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.79/1-a",
-"cek": "Şartlı muafiyet düzenlemesi: transit, antrepo, şartlı muafiyet sistemiyle dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat; geri ödeme sistemi dahil değil.",
+"madde": "Gümrük Yönetmeliği m.3/1-h",
+"cek": "Gümrük işlemlerinin bitirilmesi: vergilerin ödenmesi, kaldırılması, teminata bağlanması, beyanname iptali, terk, imha, müsadere; vergilerin tahakkuku sayılmaz.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre aşağıdakilerden hangisi şartlı muafiyet düzenlemesi kapsamında uygulanan rejimlerden biri [[değildir]]?"
+"Gümrük Yönetmeliğine göre aşağıdakilerden hangisi \"gümrük işlemlerinin bitirilmesi\" kapsamında [[sayılmaz]]?"
 ],
-"d": "Geri ödeme sistemi kapsamında dahilde işleme rejimi",
+"d": "Eşyaya ait vergilerin tahakkuk ettirilmesi",
 "c": [
-"Şartlı muafiyet sistemi kapsamında dahilde işleme rejimi",
-"Tam veya kısmi muafiyet suretiyle geçici ithalat rejimi",
-"Gümrük kontrolü altında işleme rejimi",
-"Transit rejimi"
+"Eşyaya ait vergilerin teminata bağlanması",
+"Eşyaya ilişkin beyannamenin iptal edilmesi",
+"Eşyanın gümrük idaresinin gözetiminde imha edilmesi",
+"Eşyaya ait vergilerin kaldırılması"
 ],
 "tuzak": false,
-"g": "Kanuna göre şartlı muafiyet düzenlemesi, serbest dolaşımda olmayan eşyaya transit, antrepo, şartlı muafiyet sistemi kapsamında dahilde işleme, gümrük kontrolü altında işleme ve geçici ithalat rejimlerinin uygulanmasıdır. Dahilde işleme rejimi yalnız şartlı muafiyet sistemiyle bu kapsama girer; geri ödeme sisteminde ithal eşyası serbest dolaşıma girdiğinden şartlı muafiyet düzenlemesi sayılmaz. Geçici ithalat tam veya kısmi muafiyetle uygulansa da düzenlemenin içindedir. (MD GK 79/1)",
-"kanit": "19-ŞARTLI M VE E.E.G.R.txt | a) \"Şartlı muafiyet düzenlemesi\"deyimi, serbest dolaşımda olmayan eşyaya, - Transit, - Antrepo, - Şartlı muafiyet sistemi kapsamında dahilde işleme, - Gümrük kontrolü altında işleme, - Geçici ithalat; || 19-ŞARTLI M VE E.E.G.R.txt | geri ödeme sisteminin uygulandığı dahilde işleme rejiminde, 118 inci maddede belirtilen işlemlere tabi tutularak serbest dolaşıma giren eşya",
+"g": "Gümrük Yönetmeliğine göre gümrük işlemlerinin bitirilmesi; eşyaya ait vergilerin ödenmesini, kaldırılmasını veya teminata bağlanmasını, beyannamenin iptal edilmesini, eşyanın gümrüğe terk edilmesini, imhasını veya müsadere edilmesini ifade eder. Vergilerin yalnızca tahakkuk ettirilmesi bu tanımda yer almaz; tahakkuk edilen vergi ödenmedikçe, kaldırılmadıkça veya teminata bağlanmadıkça işlemler bitirilmiş sayılmaz. (MD GY 3/1-h)",
+"kanit": "1-TANIMLAR.txt | h) Gümrük işlemlerinin bitirilmesi: Eşyaya ait vergilerin ödenmesini veya kaldırılmasını veya teminata bağlanmasını veya beyannamenin iptal edilmesini veya eşyanın gümrüğe terk edilmesini veya imhasını veya müsadere edilmesini,",
 "batch": "K01",
 "no": 63,
 "harf": "D",
 "opts": [
-"Şartlı muafiyet sistemi kapsamında dahilde işleme rejimi",
-"Tam veya kısmi muafiyet suretiyle geçici ithalat rejimi",
-"Gümrük kontrolü altında işleme rejimi",
-"Geri ödeme sistemi kapsamında dahilde işleme rejimi",
-"Transit rejimi"
+"Eşyaya ait vergilerin teminata bağlanması",
+"Eşyaya ilişkin beyannamenin iptal edilmesi",
+"Eşyanın gümrük idaresinin gözetiminde imha edilmesi",
+"Eşyaya ait vergilerin tahakkuk ettirilmesi",
+"Eşyaya ait vergilerin kaldırılması"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre şartlı muafiyet düzenlemesi, serbest dolaşımda olmayan eşyaya transit, antrepo, şartlı muafiyet sistemi kapsamında dahilde işleme, gümrük kontrolü altında işleme ve geçici ithalat rejimlerinin uygulanmasıdır. Dahilde işleme rejimi yalnız şartlı muafiyet sistemiyle bu kapsama girer; geri ödeme sisteminde ithal eşyası serbest dolaşıma girdiğinden şartlı muafiyet düzenlemesi sayılmaz. Geçici ithalat tam veya kısmi muafiyetle uygulansa da düzenlemenin içindedir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 79/1)"
+"g_harfli": "Gümrük Yönetmeliğine göre gümrük işlemlerinin bitirilmesi; eşyaya ait vergilerin ödenmesini, kaldırılmasını veya teminata bağlanmasını, beyannamenin iptal edilmesini, eşyanın gümrüğe terk edilmesini, imhasını veya müsadere edilmesini ifade eder. Vergilerin yalnızca tahakkuk ettirilmesi bu tanımda yer almaz; tahakkuk edilen vergi ödenmedikçe, kaldırılmadıkça veya teminata bağlanmadıkça işlemler bitirilmiş sayılmaz. Bu nedenle doğru cevap D seçeneğidir. (MD GY 3/1-h)"
 },
 {
 "id": "D8-064",

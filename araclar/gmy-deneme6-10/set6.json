@@ -903,34 +903,34 @@
 "konu": "Gümrük Rejimleri",
 "tip": "T4",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.3/15, m.79/1-b",
-"cek": "Ekonomik etkili gümrük rejimleri: antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat, hariçte işleme; transit, ihracat, serbest dolaşıma giriş değil.",
+"madde": "Gümrük Yönetmeliği m.3/1-d",
+"cek": "Kayıt yoluyla rejime geçiş: yerinde gümrüklemede, idarece uygun bulunursa beyanın beyanname yerine ticari kayıtlara giriş yoluyla yapılması.",
 "kok": [
-"4458 sayılı Gümrük Kanununda sayılan gümrük rejimlerinden bazıları ayrıca \"ekonomik etkili gümrük rejimi\" olarak nitelendirilmiştir. Buna göre aşağıdakilerin hangisinde yer alan rejimlerin tamamı ekonomik etkili gümrük rejimidir?"
+"Gümrük Yönetmeliğine göre, eşyanın gümrük rejimine geçişine ilişkin \"eşyanın kayıt yoluyla rejime geçişi\" kavramı aşağıdakilerden hangisini ifade eder?"
 ],
-"d": "Gümrük antrepo, gümrük kontrolü altında işleme ve hariçte işleme rejimleri",
+"d": "Rejime geçiş işlemlerinin yükümlünün tesislerinde yerinde gümrüklemeyle yapılıp idarece uygun bulunması hâlinde, beyanın ticari kayıtlara giriş yoluyla yapılmasını",
 "c": [
-"Transit, dahilde işleme ve gümrük kontrolü altında işleme rejimleri",
-"Gümrük antrepo, gümrük kontrolü altında işleme ve ihracat rejimleri",
-"Dahilde işleme, geçici ithalat ve serbest dolaşıma giriş rejimleri",
-"Transit, gümrük antrepo ve hariçte işleme rejimleri"
+"Rejime geçiş işlemlerinin yükümlünün tesislerinde yerinde gümrüklemeyle yapılıp idarece uygun bulunması hâlinde, beyanın sözlü beyan formuyla yapılmasını",
+"Rejime geçiş işlemlerinin gümrük idaresinde yapılıp beyannamenin, yükümlünün ticari kayıtlarına dayanılarak eşyanın tesliminden sonra tescil edilmesini",
+"Eşyanın antrepo işleticisinin stok kayıtlarına alınmasıyla, gümrük idaresine ayrıca beyan edilmeksizin antrepo rejimine girmiş sayılmasını",
+"Rejim kapsamındaki eşyaya ilişkin kayıtların izin hak sahibince tutulması ve bu kayıtların gümrük idaresinin denetimine sunulmasını"
 ],
 "tuzak": true,
-"g": "Kanuna göre ekonomik etkili gümrük rejimi deyimi antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat ve hariçte işleme rejimlerinin uygulanmasını ifade eder; antrepo, gümrük kontrolü altında işleme ve hariçte işleme bu nedenle birlikte doğrudur. Transit rejimi şartlı muafiyet düzenlemesi içinde yer almakla birlikte ekonomik etkili rejimler arasında sayılmamıştır; serbest dolaşıma giriş ve ihracat da gümrük rejimi olup ekonomik etkili değildir. (MD GK 3/15, 79/1-b)",
-"kanit": "19-ŞARTLI M VE E.E.G.R.txt | b) \"Ekonomik etkili gümrük rejimi\" deyimi, || 19-ŞARTLI M VE E.E.G.R.txt | - Gümrük kontrolü altında işleme, - Geçici ithalat, - Hariçte işleme; rejimlerinin uygulanması anlamına gelir.",
+"g": "Gümrük Yönetmeliğine göre eşyanın kayıt yoluyla rejime geçişi, rejime geçişe ilişkin gümrük işlemlerinin gümrük idaresi yerine yükümlünün kendi tesislerinde yerinde gümrükleme yoluyla gerçekleştirilmesi ve idarece uygun bulunması hâlinde beyanın, beyanname verilmesi yerine ticari kayıtlara giriş yoluyla yapılmasıdır. Tanımda beyan sözlü beyan formuyla değil ticari kayıtlara girişle yapılır; işlemler gümrük idaresinde değil yükümlünün tesislerinde yürütülür. Antrepo stok kaydı ve izin hak sahibinin tuttuğu rejim kayıtları ise ekonomik etkili rejimlerdeki \"kayıt\" kavramına ilişkindir. (MD GY 3/1-d)",
+"kanit": "1-TANIMLAR.txt | d) Eşyanın kayıt yoluyla rejime geçişi: Eşyanın rejime geçişine ilişkin gümrük işlemlerinin gümrük idaresi yerine yükümlünün kendi tesislerinde yerinde gümrükleme yoluyla gerçekleştirilmesi ve gümrük idaresince uygun bulunması halinde, beyanın beyanname verilmesi yerine ticari kayıtlara giriş yoluyla yapılmasını,",
 "batch": "K01",
 "no": 26,
 "harf": "B",
 "opts": [
-"Transit, dahilde işleme ve gümrük kontrolü altında işleme rejimleri",
-"Gümrük antrepo, gümrük kontrolü altında işleme ve hariçte işleme rejimleri",
-"Gümrük antrepo, gümrük kontrolü altında işleme ve ihracat rejimleri",
-"Dahilde işleme, geçici ithalat ve serbest dolaşıma giriş rejimleri",
-"Transit, gümrük antrepo ve hariçte işleme rejimleri"
+"Rejime geçiş işlemlerinin yükümlünün tesislerinde yerinde gümrüklemeyle yapılıp idarece uygun bulunması hâlinde, beyanın sözlü beyan formuyla yapılmasını",
+"Rejime geçiş işlemlerinin yükümlünün tesislerinde yerinde gümrüklemeyle yapılıp idarece uygun bulunması hâlinde, beyanın ticari kayıtlara giriş yoluyla yapılmasını",
+"Rejime geçiş işlemlerinin gümrük idaresinde yapılıp beyannamenin, yükümlünün ticari kayıtlarına dayanılarak eşyanın tesliminden sonra tescil edilmesini",
+"Eşyanın antrepo işleticisinin stok kayıtlarına alınmasıyla, gümrük idaresine ayrıca beyan edilmeksizin antrepo rejimine girmiş sayılmasını",
+"Rejim kapsamındaki eşyaya ilişkin kayıtların izin hak sahibince tutulması ve bu kayıtların gümrük idaresinin denetimine sunulmasını"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre ekonomik etkili gümrük rejimi deyimi antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat ve hariçte işleme rejimlerinin uygulanmasını ifade eder; antrepo, gümrük kontrolü altında işleme ve hariçte işleme bu nedenle birlikte doğrudur. Transit rejimi şartlı muafiyet düzenlemesi içinde yer almakla birlikte ekonomik etkili rejimler arasında sayılmamıştır; serbest dolaşıma giriş ve ihracat da gümrük rejimi olup ekonomik etkili değildir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 3/15, 79/1-b)"
+"g_harfli": "Gümrük Yönetmeliğine göre eşyanın kayıt yoluyla rejime geçişi, rejime geçişe ilişkin gümrük işlemlerinin gümrük idaresi yerine yükümlünün kendi tesislerinde yerinde gümrükleme yoluyla gerçekleştirilmesi ve idarece uygun bulunması hâlinde beyanın, beyanname verilmesi yerine ticari kayıtlara giriş yoluyla yapılmasıdır. Tanımda beyan sözlü beyan formuyla değil ticari kayıtlara girişle yapılır; işlemler gümrük idaresinde değil yükümlünün tesislerinde yürütülür. Antrepo stok kaydı ve izin hak sahibinin tuttuğu rejim kayıtları ise ekonomik etkili rejimlerdeki \"kayıt\" kavramına ilişkindir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 3/1-d)"
 },
 {
 "id": "D6-027",
@@ -1011,35 +1011,35 @@
 "konu": "Gümrük Kıymeti",
 "tip": "T9",
 "z": "Z",
-"madde": "Gümrük Yönetmeliği m.44/1, m.49/1, m.49/2; 4458 sayılı Gümrük Kanunu m.25/1, m.28/b",
-"cek": "Sıra değişikliği talebi uygun bulununca hesaplanmış kıymet: malzeme, imalat, mutat kâr-genel gider, giriş limanına kadar nakliye; yurt içi nakliye-montaj eklenmez.",
+"madde": "Gümrük Yönetmeliği m.46/5, m.49/1, m.49/2; 4458 sayılı Gümrük Kanunu m.25/1, m.25/2-d",
+"cek": "Hesaplanmış kıymet: malzeme, imalat, mutat kâr-genel gider ve giriş limanına kadar nakliye; son yöntemle belirlenmiş aynı eşya kıymeti aynı eşya yönteminde kullanılamaz.",
 "kok": [
-"Gümrük Yönetmeliğine göre kıymet tespit yöntemlerinin uygulama sırası ve hesaplanmış kıymetin unsurları dikkate alındığında; (K) firması, ilişkili olmadığı yurt dışındaki (L) firmasından özel üretim bir makine ithal etmektedir. Eşyanın gümrük kıymeti satış bedeli yöntemine göre belirlenememiş, aynı ve benzer eşyaya ait bir satış bedeli de bulunamamıştır. Beyan sahibinin, hesaplanmış kıymet yönteminin indirgeme yönteminden önce uygulanmasına ilişkin yazılı talebi gümrük idaresince uygun bulunmuş; gerekli bilgi ve belgeler, doğruluklarını ispata hazır olunduğu üretici ülke makamlarından alınan belgeyle tevsik edilerek ibraz edilmiştir. Dosyadaki veriler şöyledir: makinenin üretiminde kullanılan malzemelerin bedeli 40.000 TL, imalat işlemlerinin bedeli 25.000 TL; ihraç ülkesindeki üreticilerin Türkiye'ye ihraç ettikleri aynı sınıf veya cins eşyanın satışında mutat olan kâr ve genel giderlere eşit tutar 15.000 TL; makinenin giriş limanına kadar nakliyesine ilişkin yükleme, elleçleme, nakliye ve sigorta giderleri toplamı 5.000 TL; giriş limanından (K)'nin fabrikasına kadar yapılan nakliye gideri 2.000 TL; ithalattan sonra fabrikada yapılacak kurma ve montaj gideri 4.000 TL. Aynı makinelerin Türkiye'deki satışlarına dayanılarak indirgeme yöntemiyle bulunan kıymet ise 90.000 TL'dir.",
+"4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre kıymet tespit yöntemlerinin sırayla uygulanmasına ilişkin olarak; (K) firması, ilişkili olmadığı yurt dışındaki (L) firmasından özel üretim bir makine ithal etmektedir. Eşyanın gümrük kıymeti satış bedeli yöntemine göre belirlenememiştir. Kıymeti belirlenecek eşya ile aynı ülkede üretilmiş ve yakın tarihte Türkiye'ye ihraç edilmiş aynı makinenin daha önce son yönteme göre belirlenmiş 92.000 TL tutarında bir gümrük kıymeti bulunmakta, benzer eşyaya ait bir satış bedeli ise bulunmamaktadır. Eşyanın veya aynı ya da benzer eşyanın Türkiye'de satışı olmadığından indirgeme yöntemi uygulanamamaktadır. (K), gerekli bilgi ve belgeleri, doğruluklarını ispata hazır olduğunu üretici ülke makamlarından alınan belgeyle tevsik ederek ibraz etmiştir. Dosyadaki veriler şöyledir: makinenin üretiminde kullanılan malzemelerin bedeli 40.000 TL; (K)'nin üreticiye bedelsiz sağladığı kalıbın 3.000 TL'lik payı da dahil olmak üzere imalat işlemlerinin bedeli 25.000 TL; ihraç ülkesindeki üreticilerin Türkiye'ye ihraç ettikleri aynı sınıf veya cins eşyanın satışında mutat olan kâr ve genel giderlere eşit tutar 15.000 TL; giriş limanına kadarki yükleme, elleçleme, nakliye ve sigorta giderleri 5.000 TL; eşyanın Türkiye'de beyandan önce bekletildiği depoya ödenen depolama gideri 2.000 TL.",
 "Buna göre, eşyanın gümrük kıymeti **kaç TL**'dir?"
 ],
 "d": "85.000",
 "c": [
 "80.000",
 "87.000",
-"89.000",
-"90.000"
+"88.000",
+"92.000"
 ],
 "opts": [
 "80.000",
 "85.000",
 "87.000",
-"89.000",
-"90.000"
+"88.000",
+"92.000"
 ],
 "tuzak": false,
-"g": "Beyan sahibinin yazılı talebi gümrük idaresince uygun bulunduğundan hesaplanmış kıymet yöntemi indirgeme yönteminden önce uygulanır; kıymet malzeme (40.000), imalat (25.000), mutat kâr ve genel gider (15.000) ile giriş limanına kadarki yükleme, elleçleme, nakliye ve sigorta (5.000) toplamı olan 85.000 TL'dir. 90.000 TL sıra değişikliğinin yok sayılıp indirgeme yönteminin uygulanması, 87.000 TL ve 89.000 TL ise giriş limanından sonraki nakliyenin ya da ithalat sonrası montaj giderinin eklenmesi sonucudur; 80.000 TL giriş limanına kadarki giderlerin atlanmasıyla bulunur. (MD GY 44/1, 49/2; GK 25/1, 28/b)",
-"kanit": "12-KIYMET VE KAPLAR.txt | beyan sahibinin yazılı talebinin gümrük idaresince uygun bulunması şartıyla, aşağıda yer alan yöntemlerden indirgeme yöntemi ile hesaplanmış kıymet yönteminin uygulama sırası değiştirilebilir || 12-KIYMET VE KAPLAR.txt | a) İthal eşyasının üretiminde kullanılan malzeme ve yapılan imalat veya diğer imal işlemlerinin bedel veya kıymetleri, || 12-KIYMET VE KAPLAR.txt | c) İthal eşyasının giriş liman veya yerine kadar nakliyesi ile ilgili olarak yapılan yükleme, boşaltma, elleçleme giderleri ile nakliye ve sigorta giderleri.",
+"g": "Aynı eşyanın satış bedeli yönteminde kullanılabilecek kıymet, önceden satış bedeli yöntemine göre belirlenmiş kıymet olduğundan son yöntemle belirlenmiş 92.000 TL kullanılamaz; benzer eşya ve indirgeme de uygulanamadığından sıradaki hesaplanmış kıymet yöntemi uygulanır. Kıymet; malzeme (40.000), kalıp payını zaten içeren imalat (25.000), mutat kâr ve genel gider (15.000) ile giriş limanına kadarki giderlerin (5.000) toplamı olan 85.000 TL'dir. 88.000 TL kalıp payının mükerrer eklenmesi, 87.000 TL ise unsurlar arasında sayılmayan Türkiye'deki depolama giderinin eklenmesiyle bulunur. (MD GY 46/5, 49/2; GK 25/1, 25/2-d)",
+"kanit": "12-KIYMET VE KAPLAR.txt | aynı eşyanın satış bedeli, önceden kıymeti satış bedeli yöntemine göre belirlenmiş ve bu maddenin ikinci ve üçüncü fıkralarına göre düzeltilmiş gümrük kıymetidir || 12-KIYMET VE KAPLAR.txt | a) İthal eşyasının üretiminde kullanılan malzeme ve yapılan imalat veya diğer imal işlemlerinin bedel veya kıymetleri, || 12-KIYMET VE KAPLAR.txt | c) İthal eşyasının giriş liman veya yerine kadar nakliyesi ile ilgili olarak yapılan yükleme, boşaltma, elleçleme giderleri ile nakliye ve sigorta giderleri.",
 "batch": "K02",
 "no": 29,
 "harf": "B",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Beyan sahibinin yazılı talebi gümrük idaresince uygun bulunduğundan hesaplanmış kıymet yöntemi indirgeme yönteminden önce uygulanır; kıymet malzeme (40.000), imalat (25.000), mutat kâr ve genel gider (15.000) ile giriş limanına kadarki yükleme, elleçleme, nakliye ve sigorta (5.000) toplamı olan 85.000 TL'dir. 90.000 TL sıra değişikliğinin yok sayılıp indirgeme yönteminin uygulanması, 87.000 TL ve 89.000 TL ise giriş limanından sonraki nakliyenin ya da ithalat sonrası montaj giderinin eklenmesi sonucudur; 80.000 TL giriş limanına kadarki giderlerin atlanmasıyla bulunur. Bu nedenle doğru cevap B seçeneğidir. (MD GY 44/1, 49/2; GK 25/1, 28/b)"
+"g_harfli": "Aynı eşyanın satış bedeli yönteminde kullanılabilecek kıymet, önceden satış bedeli yöntemine göre belirlenmiş kıymet olduğundan son yöntemle belirlenmiş 92.000 TL kullanılamaz; benzer eşya ve indirgeme de uygulanamadığından sıradaki hesaplanmış kıymet yöntemi uygulanır. Kıymet; malzeme (40.000), kalıp payını zaten içeren imalat (25.000), mutat kâr ve genel gider (15.000) ile giriş limanına kadarki giderlerin (5.000) toplamı olan 85.000 TL'dir. 88.000 TL kalıp payının mükerrer eklenmesi, 87.000 TL ise unsurlar arasında sayılmayan Türkiye'deki depolama giderinin eklenmesiyle bulunur. Bu nedenle doğru cevap B seçeneğidir. (MD GY 46/5, 49/2; GK 25/1, 25/2-d)"
 },
 {
 "id": "D6-030",
@@ -1082,35 +1082,35 @@
 "konu": "Gümrük Kıymeti",
 "tip": "T9",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.24/3-a, m.28/c ve son paragraf; Gümrük Yönetmeliği m.45/1-a, m.45/1-g",
-"cek": "Satıcının yükümlülüğü için üçüncü kişiye ödeme ve yazılı finansman anlaşmasız vade farkı fiyata dahil; düşüldüğü tevsik edilmeyen dahili vergi fiyattan çıkarılmaz.",
+"madde": "4458 sayılı Gümrük Kanunu m.24/3-a, m.27/1-c; Gümrük Yönetmeliği m.45/1-g, m.56/1, m.56/3",
+"cek": "Satıcının yükümlülüğü için üçüncü kişiye ödeme fiyata dahil; ithalattan sonra yapıştırılan marka royaltisi şartlarla eklenir; tevsik edilmeyen dahili vergi düşülmez.",
 "kok": [
-"4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre fiilen ödenen veya ödenecek fiyatın belirlenmesine ilişkin olarak; (K) firması, ilişkili olmadığı (L) firmasından satın aldığı eşyayı serbest dolaşıma giriş rejimi kapsamında beyan etmiştir. Eşyanın faturası 60.000 TL olup bu bedelin içinde, ihracat ülkesinde ödenen 4.000 TL tutarında bir dahili vergi de yer almaktadır; söz konusu verginin fiyatta alıcı lehine düzeltme yapılarak düşüldüğü veya düşüleceği gümrük idaresine tevsik edilmemiştir. Satış sözleşmesi gereği ve satışın koşulu olarak (K), (L)'nin bir hammadde tedarikçisine olan 6.000 TL tutarındaki borcunu doğrudan bu tedarikçiye ödemiştir. Ayrıca mal bedelinin peşin ödenmemesi nedeniyle (K), (L)'ye 1.500 TL vade farkı ödemiştir; taraflar arasında yazılı olarak yapılmış bir finansman anlaşması bulunmamaktadır. Satış bedeli yönteminin uygulanmasına engel başka bir durum bulunmamaktadır.",
-"Buna göre, eşyanın fiilen ödenen veya ödenecek fiyatı **kaç TL**'dir?"
+"4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre fiilen ödenen veya ödenecek fiyat ve buna yapılacak ilavelere ilişkin olarak; (K) firması, ilişkili olmadığı (L) firmasından satın aldığı eşyayı serbest dolaşıma giriş rejimi kapsamında beyan etmiştir. Giriş limanına kadarki nakliye ve sigorta giderlerini de kapsayan fatura bedeli 60.000 TL olup bu bedelin içinde ihracat ülkesinde ödenen 4.000 TL tutarında bir dahili vergi yer almaktadır; söz konusu verginin fiyatta alıcı lehine düzeltme yapılarak düşüldüğü veya düşüleceği gümrük idaresine tevsik edilmemiştir. Satış sözleşmesi gereği ve satışın koşulu olarak (K), (L)'nin bir hammadde tedarikçisine olan 6.000 TL tutarındaki borcunu doğrudan bu tedarikçiye ödemiştir. (K) ayrıca, satış koşulu olarak ve eşya ile ilgili olarak (L)'ye 2.500 TL marka royaltisi ödemektedir; eşyayı ithal edildiği hâliyle, ithalattan sonra kendisinin yapıştırdığı bu marka altında pazarlamakta olup eşyayı (L) ile ilişkisi olmayan başka satıcılardan temin etme özgürlüğüne de sahip değildir.",
+"Buna göre, eşyanın gümrük kıymeti **kaç TL**'dir?"
 ],
-"d": "67.500",
+"d": "68.500",
 "c": [
 "60.000",
-"61.500",
-"63.500",
+"62.500",
+"64.500",
 "66.000"
 ],
 "opts": [
 "60.000",
-"61.500",
-"63.500",
+"62.500",
+"64.500",
 "66.000",
-"67.500"
+"68.500"
 ],
 "tuzak": false,
-"g": "Fiilen ödenen fiyat, satış koşulu olarak satıcının bir yükümlülüğünü karşılamak üzere üçüncü kişiye yapılan ödemeleri de kapsar; yazılı finansman anlaşmasına dayanmayan vade farkı da fiyatın içindedir. Düşüldüğü tevsik edilmeyen dahili vergi fiyattan çıkarılamayacağından fiyat 60.000 + 6.000 + 1.500 = 67.500 TL'dir. 63.500 TL dahili verginin düşülmesi, 66.000 TL vade farkının, 61.500 TL ise tedarikçiye yapılan ödemenin atlanmasıyla bulunur. (MD GK 24/3-a, 28/c; GY 45/1-a, 45/1-g)",
-"kanit": "12-KIYMET VE KAPLAR.txt | alıcının satıcıya veya satıcının bir yükümlülüğünü karşılamak üzere üçüncü bir kişiye yaptığı veya yapacağı tüm ödemeleri kapsar || 12-KIYMET VE KAPLAR.txt | Mal bedelinin peşin ödenmemesi nedeniyle satıcıya ya da satıcı yararına her ne ad altında olursa olsun yapılan ödemelerden … fiilen ödenen ya da ödenecek fiyatın içindedir || 12-KIYMET VE KAPLAR.txt | finansman anlaşmasının yazılı olarak yapılmış olması || 12-KIYMET VE KAPLAR.txt | bu meblağın fiyatta alıcı lehine düzeltme yapılarak düşüldüğünün veya düşüleceğinin gümrük idaresine tevsiki ve idarece uygun bulunması halinde, gümrük kıymetine dahil edilmez",
+"g": "Fiilen ödenen fiyat, satış koşulu olarak satıcının bir yükümlülüğünü karşılamak üzere üçüncü kişiye yapılan ödemeyi de kapsar; düşüldüğü tevsik edilmeyen dahili vergi fiyattan çıkarılamaz. Marka royaltisi; eşya aynı durumda yeniden satıldığı, ithalattan önce veya sonra yapıştırılan bu marka altında pazarlandığı ve alıcı başka satıcılardan temin özgürlüğüne sahip olmadığı için eklenir: 60.000 + 6.000 + 2.500 = 68.500 TL. 66.000 TL royaltinin, 62.500 TL üçüncü kişiye ödemenin atlanması, 64.500 TL ise dahili verginin düşülmesiyle bulunur. (MD GK 24/3-a, 27/1-c; GY 45/1-g, 56/3)",
+"kanit": "12-KIYMET VE KAPLAR.txt | alıcının satıcıya veya satıcının bir yükümlülüğünü karşılamak üzere üçüncü bir kişiye yaptığı veya yapacağı tüm ödemeleri kapsar || 12-KIYMET VE KAPLAR.txt | Eşya, ithalattan önce veya sonra yapıştırılan ve royalti veya lisans ücretinin ödendiği marka altında pazarlanıyorsa, || 12-KIYMET VE KAPLAR.txt | bu meblağın fiyatta alıcı lehine düzeltme yapılarak düşüldüğünün veya düşüleceğinin gümrük idaresine tevsiki ve idarece uygun bulunması halinde, gümrük kıymetine dahil edilmez",
 "batch": "K02",
 "no": 31,
 "harf": "E",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Fiilen ödenen fiyat, satış koşulu olarak satıcının bir yükümlülüğünü karşılamak üzere üçüncü kişiye yapılan ödemeleri de kapsar; yazılı finansman anlaşmasına dayanmayan vade farkı da fiyatın içindedir. Düşüldüğü tevsik edilmeyen dahili vergi fiyattan çıkarılamayacağından fiyat 60.000 + 6.000 + 1.500 = 67.500 TL'dir. 63.500 TL dahili verginin düşülmesi, 66.000 TL vade farkının, 61.500 TL ise tedarikçiye yapılan ödemenin atlanmasıyla bulunur. Bu nedenle doğru cevap E seçeneğidir. (MD GK 24/3-a, 28/c; GY 45/1-a, 45/1-g)"
+"g_harfli": "Fiilen ödenen fiyat, satış koşulu olarak satıcının bir yükümlülüğünü karşılamak üzere üçüncü kişiye yapılan ödemeyi de kapsar; düşüldüğü tevsik edilmeyen dahili vergi fiyattan çıkarılamaz. Marka royaltisi; eşya aynı durumda yeniden satıldığı, ithalattan önce veya sonra yapıştırılan bu marka altında pazarlandığı ve alıcı başka satıcılardan temin özgürlüğüne sahip olmadığı için eklenir: 60.000 + 6.000 + 2.500 = 68.500 TL. 66.000 TL royaltinin, 62.500 TL üçüncü kişiye ödemenin atlanması, 64.500 TL ise dahili verginin düşülmesiyle bulunur. Bu nedenle doğru cevap E seçeneğidir. (MD GK 24/3-a, 27/1-c; GY 45/1-g, 56/3)"
 },
 {
 "id": "D6-032",
@@ -1531,34 +1531,34 @@
 "konu": "Şartlı Muafiyet/EEGR",
 "tip": "T1",
 "z": "Z",
-"madde": "Gümrük Yönetmeliği m.319/1-5",
-"cek": "Hariçte işlemeyi müteakip serbest dolaşımda standart değişim dahil tamir gören eşyaya ticaret politikası önlemleri uygulanmaz; girişte öngörülen önlem EEGR eşyasına uygulanır.",
+"madde": "Gümrük Yönetmeliği m.321/1-2, 321/4, 322/1-2",
+"cek": "Yönetmelik ekindeki eşya dahilde işleme rejimine tabi tutulursa ekte belirtilen standart verimlilik oranları uygulanır.",
 "kok": [
-"Gümrük Yönetmeliğinin ekonomik etkili gümrük rejimlerine ilişkin ortak hükümlerine göre, ticaret politikası önlemlerinin uygulanmasıyla ilgili aşağıdakilerden hangisi [[yanlıştır]]?"
+"Gümrük Yönetmeliğine göre ekonomik etkili gümrük rejimlerinde tutulacak kayıtlar ve verimlilik oranının belirlenmesine ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
-"d": "Standart değişim sistemi de dahil olmak üzere tamir gören eşyanın hariçte işlemeyi müteakip serbest dolaşıma girişinde, serbest dolaşıma giriş rejiminde uygulanan ticaret politikası önlemleri uygulanır.",
+"d": "Yönetmelik ekinde standart verimlilik oranı belirlenmiş eşyanın dahilde işleme rejimine tabi tutulması durumunda, bu standart oranlar yerine izin hak sahibinin üretim verilerine dayanan oran uygulanır.",
 "c": [
-"Eşyanın serbest dolaşıma girişi sırasında ticaret politikası önlemlerinin uygulanması öngörülüyorsa, bu önlemler eşyanın ekonomik etkili bir gümrük rejimine girişinde ya da rejime tabi olduğu süre zarfında uygulanmaz.",
-"Eşyanın Türkiye Gümrük Bölgesine girişinde ticaret politikası önlemlerinin uygulanması öngörülüyorsa, söz konusu önlemler eşyanın ekonomik etkili gümrük rejimlerine tabi tutulması durumunda da uygulanır.",
-"Gümrük kontrolü altında işleme sonucunda elde edilen işlenmiş ürünlerin serbest dolaşıma giriş rejimine tabi tutulması halinde, işlem görmüş ürüne ilişkin ticaret politikası önlemleri uygulanır.",
-"İhracatta ticaret politikası önlemleri öngörülmüşse, bu önlemler antrepo rejimine tabi tutulmuş serbest dolaşımdaki eşyanın Türkiye Gümrük Bölgesi dışına çıkarılması sırasında da uygulanır."
+"Gümrük idaresi, rejime ilişkin hususları içeren mevcut hesapları kayıt olarak onaylayabilir; denetleyici gümrük idaresi de rejim kapsamı eşyanın tamamının veya bir kısmının envanterinin çıkarılmasını isteyebilir.",
+"Gümrük idareleri, depolanan, işlenen veya kullanılan eşyanın tabi olduğu rejimin denetim ve gözetimini olumsuz etkilememesi şartıyla, kayıtlarda bulunması gereken bilgilerin bir kısmını istemeyebilir.",
+"Verimlilik oranı veya ortalama oranlar dahil olmak üzere oranın belirlenmesine ilişkin yöntem izin belgesinde belirlenir ve oran mümkün olduğu ölçüde üretime veya teknik verilere dayalı olarak belirlenir.",
+"Üretime veya teknik verilere dayalı bilgilerin mevcut olmaması durumunda, verimlilik oranının belirlenmesinde aynı tür işleme faaliyetine ilişkin veriler esas alınır."
 ],
 "tuzak": false,
-"g": "Yönetmeliğe göre serbest dolaşıma giriş rejiminde uygulanan ticaret politikası önlemleri; Türk menşeini koruyan, standart değişim sistemi dahil tamir gören ve daha ileri düzeyde işleme faaliyetine tabi tutulan eşyaya, hariçte işlemeyi müteakip serbest dolaşıma girişte veya yeniden ithalde uygulanmaz. Buna karşılık önlemin Türkiye Gümrük Bölgesine girişte öngörüldüğü hallerde önlem ekonomik etkili rejime tabi eşyaya da uygulanır; gümrük kontrolü altında işlemede ise işlem görmüş ürüne ilişkin önlemler uygulanır. (MD GY 319)",
-"kanit": "19-ŞARTLI M VE E.E.G.R.txt | b) Standart değişim sistemi de dahil olmak üzere tamir gören, || 19-ŞARTLI M VE E.E.G.R.txt | eşyaya, hariçte işlemeyi müteakip serbest dolaşıma girişi veya yeniden ithali halinde uygulanmaz.",
+"g": "Yönetmeliğe göre yönetmelik ekinde (Ek-59) yer alan eşyanın dahilde işleme rejimine tabi tutulması durumunda bu ekte belirtilen standart verimlilik oranları uygulanır; izin hak sahibinin üretim verilerine dayanan oran bunların yerine geçmez. Mevcut hesapların kayıt olarak onaylanabilmesi, envanter istenebilmesi, denetimi etkilemeyecek bilgilerin istenmeyebilmesi ve oran yönteminin izin belgesinde üretim veya teknik verilere, bunlar yoksa aynı tür faaliyet verilerine dayanılarak belirlenmesi mevzuata uygundur. (MD GY 321/1-2, 321/4, 322)",
+"kanit": "19-ŞARTLI M VE E.E.G.R.txt | (2) Ek-59'da yer alan eşyanın dahilde işleme rejimine tabi tutulması durumunda bu ekte belirtilen standart verimlilik oranları uygulanır. || 19-ŞARTLI M VE E.E.G.R.txt | Gümrük idaresi ilgili hususları içeren mevcut hesapları kayıt olarak onaylayabilir. || 19-ŞARTLI M VE E.E.G.R.txt | şartıyla, üçüncü fıkrada belirtilenlerin bir kısmını istemeyebilir || 19-ŞARTLI M VE E.E.G.R.txt | Bu verilerin mevcut olmaması durumunda aynı tür işleme faaliyetine ilişkin veriler esas alınır.",
 "batch": "K07",
 "no": 43,
 "harf": "C",
 "opts": [
-"Eşyanın serbest dolaşıma girişi sırasında ticaret politikası önlemlerinin uygulanması öngörülüyorsa, bu önlemler eşyanın ekonomik etkili bir gümrük rejimine girişinde ya da rejime tabi olduğu süre zarfında uygulanmaz.",
-"Eşyanın Türkiye Gümrük Bölgesine girişinde ticaret politikası önlemlerinin uygulanması öngörülüyorsa, söz konusu önlemler eşyanın ekonomik etkili gümrük rejimlerine tabi tutulması durumunda da uygulanır.",
-"Standart değişim sistemi de dahil olmak üzere tamir gören eşyanın hariçte işlemeyi müteakip serbest dolaşıma girişinde, serbest dolaşıma giriş rejiminde uygulanan ticaret politikası önlemleri uygulanır.",
-"Gümrük kontrolü altında işleme sonucunda elde edilen işlenmiş ürünlerin serbest dolaşıma giriş rejimine tabi tutulması halinde, işlem görmüş ürüne ilişkin ticaret politikası önlemleri uygulanır.",
-"İhracatta ticaret politikası önlemleri öngörülmüşse, bu önlemler antrepo rejimine tabi tutulmuş serbest dolaşımdaki eşyanın Türkiye Gümrük Bölgesi dışına çıkarılması sırasında da uygulanır."
+"Gümrük idaresi, rejime ilişkin hususları içeren mevcut hesapları kayıt olarak onaylayabilir; denetleyici gümrük idaresi de rejim kapsamı eşyanın tamamının veya bir kısmının envanterinin çıkarılmasını isteyebilir.",
+"Gümrük idareleri, depolanan, işlenen veya kullanılan eşyanın tabi olduğu rejimin denetim ve gözetimini olumsuz etkilememesi şartıyla, kayıtlarda bulunması gereken bilgilerin bir kısmını istemeyebilir.",
+"Yönetmelik ekinde standart verimlilik oranı belirlenmiş eşyanın dahilde işleme rejimine tabi tutulması durumunda, bu standart oranlar yerine izin hak sahibinin üretim verilerine dayanan oran uygulanır.",
+"Verimlilik oranı veya ortalama oranlar dahil olmak üzere oranın belirlenmesine ilişkin yöntem izin belgesinde belirlenir ve oran mümkün olduğu ölçüde üretime veya teknik verilere dayalı olarak belirlenir.",
+"Üretime veya teknik verilere dayalı bilgilerin mevcut olmaması durumunda, verimlilik oranının belirlenmesinde aynı tür işleme faaliyetine ilişkin veriler esas alınır."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yönetmeliğe göre serbest dolaşıma giriş rejiminde uygulanan ticaret politikası önlemleri; Türk menşeini koruyan, standart değişim sistemi dahil tamir gören ve daha ileri düzeyde işleme faaliyetine tabi tutulan eşyaya, hariçte işlemeyi müteakip serbest dolaşıma girişte veya yeniden ithalde uygulanmaz. Buna karşılık önlemin Türkiye Gümrük Bölgesine girişte öngörüldüğü hallerde önlem ekonomik etkili rejime tabi eşyaya da uygulanır; gümrük kontrolü altında işlemede ise işlem görmüş ürüne ilişkin önlemler uygulanır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 319)"
+"g_harfli": "Yönetmeliğe göre yönetmelik ekinde (Ek-59) yer alan eşyanın dahilde işleme rejimine tabi tutulması durumunda bu ekte belirtilen standart verimlilik oranları uygulanır; izin hak sahibinin üretim verilerine dayanan oran bunların yerine geçmez. Mevcut hesapların kayıt olarak onaylanabilmesi, envanter istenebilmesi, denetimi etkilemeyecek bilgilerin istenmeyebilmesi ve oran yönteminin izin belgesinde üretim veya teknik verilere, bunlar yoksa aynı tür faaliyet verilerine dayanılarak belirlenmesi mevzuata uygundur. Bu nedenle doğru cevap C seçeneğidir. (MD GY 321/1-2, 321/4, 322)"
 },
 {
 "id": "D6-044",
@@ -2261,34 +2261,34 @@
 "konu": "Tasfiye",
 "tip": "T1",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.177/2-a, 177/2-b, 177/3, 177/4, 178, 180/2",
-"cek": "Mahkemece iadesine karar verilen el konulmuş eşya tebliğden itibaren otuz gün içinde teslim alınmazsa tasfiye edilir; on beş gün değil.",
+"madde": "4458 sayılı Gümrük Kanunu m.177/1-k, 177/2-a, 177/4, 178, 180/2, 180/5",
+"cek": "Çabuk bozulan, telef olma tehlikesi taşıyan veya saklanması masraflı ve külfetli eşya, kanuni bekleme süresi bulunup bulunmadığına bakılmaksızın tasfiye edilir.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre, tasfiyelik eşyanın tespiti ile el konulan eşyanın tasfiyesine ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
+"4458 sayılı Gümrük Kanununa göre, tasfiyeye tabi eşya ve tasfiye işlemlerine ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
-"d": "El konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde, eşyanın teslim alınması için ilgilisine yapılan tebliğ tarihinden itibaren on beş gün içinde teslim alınmayan eşya tasfiye edilir.",
+"d": "Çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşya, ancak ilgili hükümlerine göre öngörülen kanuni bekleme süreleri dolduktan sonra tasfiye edilebilir.",
 "c": [
 "Kanuna göre tasfiyelik hâle gelen eşyanın tespit ve tahakkuk belgeleri otuz gün içinde tasfiye idaresine intikal ettirilir; tasfiye idaresi de bu eşyayı otuz gün içinde teslim almakla mükelleftir.",
-"Tasfiye edilmesine karar verilen eşyanın bulunmaması hâlinde, ithal eşyası için CIF, ihraç eşyası için FOB kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir.",
+"Gümrük Kanunu kapsamında yapılacak tasfiye işlemlerinde 2886 sayılı Devlet İhale Kanunu hükümleri uygulanmaz; tasfiyeye ilişkin usul ve esaslar ise yönetmelikle belirlenir.",
 "Kaçakçılıkla Mücadele Kanunu hükümleri uyarınca tasfiye edilebilecek duruma gelen eşya da Gümrük Kanununda sayılan ihale yoluyla satış, perakende satış, tahsis, imha veya özel yol gibi yollarla tasfiye edilir.",
 "Kaçakçılıkla Mücadele Kanunu kapsamında satış suretiyle tasfiye edilen eşyanın sahibine iadesine karar verilirse emanetteki satış bedeli ödenir; ancak tasfiye edilen eşyanın gümrük vergileri iade edilmez."
 ],
 "tuzak": false,
-"g": "Kanuna göre el konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde tasfiye, ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya için söz konusudur; on beş günlük bir süre öngörülmemiştir. Tespit ve tahakkuk belgelerinin otuz gün içinde tasfiye idaresine intikali ile idarenin eşyayı otuz gün içinde teslim alma yükümlülüğü ve iade kararında emanetteki bedel ödense de tasfiye edilen eşyanın gümrük vergilerinin iade edilmemesi Kanunda aynen yer alır. (MD GK 177/2-a, b; 177/3; 177/4; 178; 180/2)",
-"kanit": "43-tasfiye.txt | eşyanın teslim alınması için ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya || 43-tasfiye.txt | tespit ve tahakkuk belgeleri otuz gün içinde tasfiye idaresine intikal ettirilir. Tasfiye idaresi, tasfiyeye konu eşyayı otuz gün içinde teslim almakla mükelleftir || 43-tasfiye.txt | ithal eşyası için CIF, ihraç eşyası için FOB kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir || 43-tasfiye.txt | Eşyanın sahibine iade edilmesine karar verilmesi halinde tasfiye edilen eşyanın gümrük vergileri iade edilmez",
+"g": "Kanuna göre çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşya, ilgili hükümlerine göre kanuni bekleme süreleri bulunup bulunmadığına bakılmaksızın tasfiye edilir; bekleme süresinin dolması aranmaz. Tasfiye işlemlerinde Devlet İhale Kanununun uygulanmaması, tespit ve tahakkuk belgelerinin otuz gün içinde tasfiye idaresine intikali ve iade kararında emanetteki bedel ödense de gümrük vergilerinin iade edilmemesi Kanunda aynen yer alır. (MD GK 177/1-k; 177/2-a; 177/4; 178; 180/2; 180/5)",
+"kanit": "43-tasfiye.txt | İlgili hükümlerine göre kanuni bekleme süreleri bulunup bulunmadığına bakılmaksızın, çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşya || 43-tasfiye.txt | tespit ve tahakkuk belgeleri otuz gün içinde tasfiye idaresine intikal ettirilir. Tasfiye idaresi, tasfiyeye konu eşyayı otuz gün içinde teslim almakla mükelleftir || 43-tasfiye.txt | Bu Kanun kapsamında yapılacak tasfiye işlemlerinde 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu hükümleri uygulanmaz || 43-tasfiye.txt | Eşyanın sahibine iade edilmesine karar verilmesi halinde tasfiye edilen eşyanın gümrük vergileri iade edilmez",
 "batch": "K09",
 "no": 63,
 "harf": "B",
 "opts": [
 "Kanuna göre tasfiyelik hâle gelen eşyanın tespit ve tahakkuk belgeleri otuz gün içinde tasfiye idaresine intikal ettirilir; tasfiye idaresi de bu eşyayı otuz gün içinde teslim almakla mükelleftir.",
-"El konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde, eşyanın teslim alınması için ilgilisine yapılan tebliğ tarihinden itibaren on beş gün içinde teslim alınmayan eşya tasfiye edilir.",
-"Tasfiye edilmesine karar verilen eşyanın bulunmaması hâlinde, ithal eşyası için CIF, ihraç eşyası için FOB kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir.",
+"Çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşya, ancak ilgili hükümlerine göre öngörülen kanuni bekleme süreleri dolduktan sonra tasfiye edilebilir.",
+"Gümrük Kanunu kapsamında yapılacak tasfiye işlemlerinde 2886 sayılı Devlet İhale Kanunu hükümleri uygulanmaz; tasfiyeye ilişkin usul ve esaslar ise yönetmelikle belirlenir.",
 "Kaçakçılıkla Mücadele Kanunu hükümleri uyarınca tasfiye edilebilecek duruma gelen eşya da Gümrük Kanununda sayılan ihale yoluyla satış, perakende satış, tahsis, imha veya özel yol gibi yollarla tasfiye edilir.",
 "Kaçakçılıkla Mücadele Kanunu kapsamında satış suretiyle tasfiye edilen eşyanın sahibine iadesine karar verilirse emanetteki satış bedeli ödenir; ancak tasfiye edilen eşyanın gümrük vergileri iade edilmez."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre el konulan eşyanın mahkemesince sahibine iadesine karar verilmesi hâlinde tasfiye, ilgilisine yapılan tebliğ tarihinden itibaren otuz gün içinde teslim alınmayan eşya için söz konusudur; on beş günlük bir süre öngörülmemiştir. Tespit ve tahakkuk belgelerinin otuz gün içinde tasfiye idaresine intikali ile idarenin eşyayı otuz gün içinde teslim alma yükümlülüğü ve iade kararında emanetteki bedel ödense de tasfiye edilen eşyanın gümrük vergilerinin iade edilmemesi Kanunda aynen yer alır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 177/2-a, b; 177/3; 177/4; 178; 180/2)"
+"g_harfli": "Kanuna göre çabuk bozulma ve telef olma tehlikesine maruz bulunan veya saklanması masraflı ve külfetli olan eşya, ilgili hükümlerine göre kanuni bekleme süreleri bulunup bulunmadığına bakılmaksızın tasfiye edilir; bekleme süresinin dolması aranmaz. Tasfiye işlemlerinde Devlet İhale Kanununun uygulanmaması, tespit ve tahakkuk belgelerinin otuz gün içinde tasfiye idaresine intikali ve iade kararında emanetteki bedel ödense de gümrük vergilerinin iade edilmemesi Kanunda aynen yer alır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 177/1-k; 177/2-a; 177/4; 178; 180/2; 180/5)"
 },
 {
 "id": "D6-064",
@@ -2731,35 +2731,35 @@
 "konu": "Gümrük Müşavirliği",
 "tip": "T8",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.225/2; Gümrük Yönetmeliği m.561/4-a, b",
-"cek": "Özel hukuk tüzel kişisi personeline doğrudan temsilde staj ve sınav aranmaz; SGK bordrosu, temsil belgesi ve Ticaret Sicil Tasdiknamesi olmadan BİLGE kodu verilmez.",
+"madde": "Gümrük Yönetmeliği m.563/8-9",
+"cek": "Beyan için üçüncü kişiden bilişim hizmeti alan müşavir, veri güvenliği ve sır saklamayı açıkça içeren yazılı sözleşme yapana kadar dolaylı temsil hizmeti veremez.",
 "kok": [
-"(K) Dış Ticaret Limited Şirketi, kanuni temsilcisi olmayan sigortalı çalışanı (L)'yi, şirkete ait eşyanın beyanname imzalama ve tahakkukun tebellüğü dâhil tüm gümrük işlemlerini doğrudan temsil yoluyla takip etmek üzere görevlendirmiştir. (L), Türkiye Cumhuriyeti vatandaşı ve iktisat fakültesi mezunu olup Kanunda gümrük müşavir yardımcıları için sayılan diğer kişisel şartları da taşımaktadır; ancak bir gümrük müşavirinin yanında staj yapmamış ve gümrük müşavir yardımcılığı sınavına girmemiştir. (L), gümrük işlemleri için gerekli BİLGE kullanıcı kodunu almak üzere ilgili gümrük idaresine başvurmuştur.",
+"(K) Gümrük Müşavirliği A.Ş., hesabına beyanda bulunduğu firmalara ait beyannameleri bilgisayar veri işleme tekniği yoluyla gönderebilmek için yazılım ve sunucu hizmetini (M) Bilişim Ltd. Şti.'den almaktadır. Taraflar arasında yazılı bir hizmet sözleşmesi bulunmakla birlikte sözleşmede, (M)'nin verilerin güvenliği için her türlü tedbiri alacağına ve sunulan hizmet kapsamında öğrendiği bilgi ve sırları açıklamayacağına ilişkin herhangi bir hüküm yer almamaktadır. Bu durum gümrük idaresince yapılan kontrolde tespit edilmiştir.",
 "Gümrük Yönetmeliğine göre bu durumla ilgili aşağıdakilerden hangisi doğrudur?"
 ],
-"d": "(L)'den staj ve sınav şartları aranmaz; ancak aylık sigorta primleri bordrosu, şirketi temsile yetkili olduğunu gösteren temsil belgesi ve Ticaret Sicil Tasdiknamesi ibraz edilmeden kendisine kullanıcı kodu verilmez.",
+"d": "Sözleşmede hizmet sağlayıcının verilerin güvenliği için her türlü tedbiri alacağı ve bilgi ve sırları açıklamayacağı açıkça belirtilmediğinden, bu şart yerine getirilinceye kadar (K)'nın dolaylı temsil hizmeti vermesine izin verilmez.",
 "c": [
-"(L) şirketin kanuni temsilcisi olmadığından doğrudan temsil yoluyla iş takibi yapamaz; şirkete ait eşyanın gümrük işlemleri ancak gümrük müşaviri eliyle dolaylı temsil yoluyla takip edilerek sonuçlandırılabilir.",
-"(L)'den staj şartı aranmaz; ancak doğrudan temsil yoluyla iş takibi yapabilmesi için gümrük müşavir yardımcılığı sınavında başarılı olması ve izin belgesi alması zorunludur.",
-"(L), şirket çalışanı olarak yalnızca şirketin taşıdığı eşyanın transit işlemlerini doğrudan temsil yoluyla takip edebilir; beyanname imzalama, tahakkukun tebellüğü ve itiraz gibi işlemleri yapamaz.",
-"(L)'den özel hukuk tüzel kişisi personeli olduğu için Kanunda sayılan şartlar aranmaz; şirketin verdiği noter tasdikli vekâletnamenin ibrazı kullanıcı kodu için yeterlidir."
+"Taraflar arasında yazılı bir sözleşme bulunduğundan şart yerine getirilmiş sayılır; bilgisayar sistemlerindeki verilerin güvenliğine ilişkin tedbirlerin alınması yalnızca hizmeti sunan (M) Bilişim Ltd. Şti.'nin sorumluluğundadır.",
+"Yazılı sözleşme şartı yalnızca gerçek kişi olarak faaliyet gösteren gümrük müşavirleri için arandığından, tüzel kişi olarak faaliyet gösteren (K)'nın dolaylı temsil hizmeti vermesine herhangi bir engel bulunmamaktadır.",
+"(K)'nın dolaylı temsil hizmeti vermeye devam etmesine izin verilir; sözleşmedeki eksiklik, sözleşmenin noterce onaylanarak gümrük idaresine ibraz edilmesiyle giderilmiş sayılır.",
+"Sözleşme şartı yalnızca (K)'nın kendi bilgisayar sistemleri için aranır; üçüncü kişiden hizmet alınması hâlinde sözleşmede veri güvenliğine ilişkin hüküm bulunması zorunlu değildir."
 ],
 "tuzak": true,
-"g": "Yönetmeliğe göre özel hukuk tüzel kişilerinin doğrudan temsil yoluyla iş takibi yapacak, kanuni temsilci dışındaki personelinde Kanunda sayılan şartlardan yalnız staj ve sınav şartları aranmaz; tüm işlemlerin takibinde SGK aylık sigorta primleri bordrosu, temsil belgesi ve Ticaret Sicil Tasdiknamesinin ibrazı zorunludur ve bu belgeler ibraz edilmezse kullanıcı kodu verilmez. Şirket personeli doğrudan temsil yoluyla iş takip edebileceğinden yalnız dolaylı temsilin mümkün olduğu ifadesi; staj gibi sınav şartı da aranmadığından sınav ve izin belgesinin zorunlu olduğu ifadesi yanlıştır. (MD GK 225/2; GY 561/4-a, b)",
-"kanit": "2-TEMSİL.txt | Gümrük idarelerinde özel hukuk tüzel kişilerinin doğrudan temsil yoluyla iş takibi yapacak kanuni temsilcileri hariç diğer kişilerde, Kanunun 227 nci maddesinin birinci fıkrasının (g) ve (h) dışındaki bentlerinde sayılan şartlar aranır. || 2-TEMSİL.txt | Belgelerin ibraz edilmemesi veya eksik ibraz edilmesi halinde ilgililere kullanıcı kodu verilmez veya bloke konulur.",
+"g": "Yönetmeliğe göre gümrük müşavirliği hizmeti veren gerçek ve tüzel kişiler, bilgisayar veri işleme tekniğiyle beyanda kullandıkları sistemlerde verilerin güvenliği için her türlü tedbiri almak zorundadır; bu amaçla üçüncü kişiden hizmet alınırsa yazılı sözleşmede hizmet sağlayıcının veri güvenliği için her türlü tedbiri alacağı ve bilgi ve sırları açıklamayacağı açıkça belirtilmelidir. Bu şartı yerine getirmeyen gerçek ve tüzel kişi müşavirlerin şart yerine getirilinceye kadar dolaylı temsil hizmeti vermesine izin verilmez; şartın yalnız gerçek kişilere uygulandığı veya yazılı bir sözleşmenin varlığının tek başına yeterli olduğu ifadeleri bu nedenle yanlıştır. (MD GY 563/8-9)",
+"kanit": "2-TEMSİL.txt | Bilgisayar veri işleme tekniği yoluyla beyanda bulunulmasına yönelik üçüncü kişilerden hizmet alınması durumunda hizmet alınan kişiyle yazılı sözleşme yapılması ve bu sözleşmede hizmet sağlayıcının verilerin güvenliği için her türlü tedbiri alacağı || 2-TEMSİL.txt | Sekizinci fıkrada yer alan sözleşme şartını yerine getirmeyen gerçek ve tüzel kişi müşavirlerin, bu şart yerine getirilinceye kadar dolaylı temsil hizmeti vermesine izin verilmez",
 "batch": "K13",
 "no": 76,
 "harf": "D",
 "opts": [
-"(L) şirketin kanuni temsilcisi olmadığından doğrudan temsil yoluyla iş takibi yapamaz; şirkete ait eşyanın gümrük işlemleri ancak gümrük müşaviri eliyle dolaylı temsil yoluyla takip edilerek sonuçlandırılabilir.",
-"(L)'den staj şartı aranmaz; ancak doğrudan temsil yoluyla iş takibi yapabilmesi için gümrük müşavir yardımcılığı sınavında başarılı olması ve izin belgesi alması zorunludur.",
-"(L), şirket çalışanı olarak yalnızca şirketin taşıdığı eşyanın transit işlemlerini doğrudan temsil yoluyla takip edebilir; beyanname imzalama, tahakkukun tebellüğü ve itiraz gibi işlemleri yapamaz.",
-"(L)'den staj ve sınav şartları aranmaz; ancak aylık sigorta primleri bordrosu, şirketi temsile yetkili olduğunu gösteren temsil belgesi ve Ticaret Sicil Tasdiknamesi ibraz edilmeden kendisine kullanıcı kodu verilmez.",
-"(L)'den özel hukuk tüzel kişisi personeli olduğu için Kanunda sayılan şartlar aranmaz; şirketin verdiği noter tasdikli vekâletnamenin ibrazı kullanıcı kodu için yeterlidir."
+"Taraflar arasında yazılı bir sözleşme bulunduğundan şart yerine getirilmiş sayılır; bilgisayar sistemlerindeki verilerin güvenliğine ilişkin tedbirlerin alınması yalnızca hizmeti sunan (M) Bilişim Ltd. Şti.'nin sorumluluğundadır.",
+"Yazılı sözleşme şartı yalnızca gerçek kişi olarak faaliyet gösteren gümrük müşavirleri için arandığından, tüzel kişi olarak faaliyet gösteren (K)'nın dolaylı temsil hizmeti vermesine herhangi bir engel bulunmamaktadır.",
+"(K)'nın dolaylı temsil hizmeti vermeye devam etmesine izin verilir; sözleşmedeki eksiklik, sözleşmenin noterce onaylanarak gümrük idaresine ibraz edilmesiyle giderilmiş sayılır.",
+"Sözleşmede hizmet sağlayıcının verilerin güvenliği için her türlü tedbiri alacağı ve bilgi ve sırları açıklamayacağı açıkça belirtilmediğinden, bu şart yerine getirilinceye kadar (K)'nın dolaylı temsil hizmeti vermesine izin verilmez.",
+"Sözleşme şartı yalnızca (K)'nın kendi bilgisayar sistemleri için aranır; üçüncü kişiden hizmet alınması hâlinde sözleşmede veri güvenliğine ilişkin hüküm bulunması zorunlu değildir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yönetmeliğe göre özel hukuk tüzel kişilerinin doğrudan temsil yoluyla iş takibi yapacak, kanuni temsilci dışındaki personelinde Kanunda sayılan şartlardan yalnız staj ve sınav şartları aranmaz; tüm işlemlerin takibinde SGK aylık sigorta primleri bordrosu, temsil belgesi ve Ticaret Sicil Tasdiknamesinin ibrazı zorunludur ve bu belgeler ibraz edilmezse kullanıcı kodu verilmez. Şirket personeli doğrudan temsil yoluyla iş takip edebileceğinden yalnız dolaylı temsilin mümkün olduğu ifadesi; staj gibi sınav şartı da aranmadığından sınav ve izin belgesinin zorunlu olduğu ifadesi yanlıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 225/2; GY 561/4-a, b)"
+"g_harfli": "Yönetmeliğe göre gümrük müşavirliği hizmeti veren gerçek ve tüzel kişiler, bilgisayar veri işleme tekniğiyle beyanda kullandıkları sistemlerde verilerin güvenliği için her türlü tedbiri almak zorundadır; bu amaçla üçüncü kişiden hizmet alınırsa yazılı sözleşmede hizmet sağlayıcının veri güvenliği için her türlü tedbiri alacağı ve bilgi ve sırları açıklamayacağı açıkça belirtilmelidir. Bu şartı yerine getirmeyen gerçek ve tüzel kişi müşavirlerin şart yerine getirilinceye kadar dolaylı temsil hizmeti vermesine izin verilmez; şartın yalnız gerçek kişilere uygulandığı veya yazılı bir sözleşmenin varlığının tek başına yeterli olduğu ifadeleri bu nedenle yanlıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GY 563/8-9)"
 },
 {
 "id": "D6-077",
@@ -2839,14 +2839,14 @@
 "konu": "Tahakkuk-Tebliğ-Ödeme",
 "tip": "T1+T2",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.196, 197/5; Gümrük Yönetmeliği m.489/2",
+"madde": "4458 sayılı Gümrük Kanunu m.196, 197/5; Gümrük Yönetmeliği m.489/2, 490/1",
 "cek": "Dava hâlinde vergiler aleyhe kararın gümrük idaresine tebliğiyle tahsil edilebilir olur; periyodik tahakkuk süresi otuz günü geçemez.",
 "kok": [
 "4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre gümrük vergilerinin tahakkuku ve tebliğine ilişkin aşağıdaki ifadeler veriliyor:",
-"I. Tebliğ edilen vergiler, süresinde itiraz edilmemesi veya idari yargıya başvurulmaması hâlinde bu sürelerin bittiği tarihte kesinleşir.",
+"I. Beyannamede düzeltme gerektiren tespitler müzekkereyle idare amirine sunulur; olur üzerine yeni tahakkuk tebliğ edilir.",
 "II. Dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye tebliğ edildiği tarihte tahsil edilebilir hâle gelir.",
 "III. Vergiler, tahakkukundan hemen sonra yükümlüsüne sistem üzerinde, bu mümkün olmazsa ilgili belge üzerinde tebliğ edilir.",
-"IV. Teminat sağlanması şartıyla, belirli aralıklarla aynı kişiye teslim edilen aynı cins eşyanın vergileri altmış günü geçmeyecek bir süre içinde tahakkuk ettirilebilir.",
+"IV. Teminat sağlanırsa, aynı kişiye belirli aralıklarla teslim edilen aynı cins eşyanın vergileri altmış günü geçmeyen bir sürede tahakkuk ettirilebilir.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
 "d": "II ve IV",
@@ -2864,14 +2864,14 @@
 "I, II ve IV"
 ],
 "tuzak": false,
-"g": "Kanuna göre dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye değil gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hâle gelir; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Kesinleşmeye ilişkin I ile sistem üzerinden tebliğe ilişkin III ifadeleri doğrudur. (MD GK 196, 197/5; GY 489/2)",
-"kanit": "45-tebliğ.txt | dava açılması halinde mahkemece yükümlü aleyhine verilen kararın gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hale gelir || 45-tebliğ.txt | aynı cins eşyanın gümrük vergileri otuz günü geçmeyecek şekilde belirlenecek bir süre içinde tahakkuk ettirilerek || 45-tebliğ.txt | sistem üzerinde tebliğin yapılamadığı hallerde ise ilgili belge üzerinde tebliğ edilir",
+"g": "Kanuna göre dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye değil gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hâle gelir; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Düzeltme gerektiren tespitlerin müzekkereyle idare amirine sunulmasına ilişkin I ile sistem üzerinden tebliğe ilişkin III ifadeleri doğrudur. (MD GK 196, 197/5; GY 489/2, 490/1)",
+"kanit": "45-tebliğ.txt | dava açılması halinde mahkemece yükümlü aleyhine verilen kararın gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hale gelir || 45-tebliğ.txt | aynı cins eşyanın gümrük vergileri otuz günü geçmeyecek şekilde belirlenecek bir süre içinde tahakkuk ettirilerek || 45-tebliğ.txt | sistem üzerinde tebliğin yapılamadığı hallerde ise ilgili belge üzerinde tebliğ edilir || 45-tebliğ.txt | Beyannamede düzeltme yapılmasını gerektirir nitelikteki tespitler sistem üzerinde düzenlenen müzekkere ile idare amirine sunulur.",
 "batch": "K10",
 "no": 79,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye değil gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hâle gelir; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Kesinleşmeye ilişkin I ile sistem üzerinden tebliğe ilişkin III ifadeleri doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 196, 197/5; GY 489/2)"
+"g_harfli": "Kanuna göre dava açılması hâlinde vergiler, yükümlü aleyhine verilen kararın yükümlüye değil gümrük idaresine tebliğ edildiği tarihte tahsil edilebilir hâle gelir; belirli aralıklarla teslim edilen aynı cins eşyanın vergileri ise altmış değil otuz günü geçmeyecek bir süre içinde tahakkuk ettirilebilir. Düzeltme gerektiren tespitlerin müzekkereyle idare amirine sunulmasına ilişkin I ile sistem üzerinden tebliğe ilişkin III ifadeleri doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 196, 197/5; GY 489/2, 490/1)"
 },
 {
 "id": "D6-080",
@@ -3604,34 +3604,34 @@
 "konu": "Kaçakçılık",
 "tip": "T9",
 "z": "Z",
-"madde": "5607 sayılı Kaçakçılıkla Mücadele Kanunu m.3/2, 4/4, 5/1",
-"cek": "Meslek kolaylığıyla işlenen suçta ceza yarı oranında artırılır; haber alındıktan sonra yardım edene ceza üçte iki indirilir: 36→54→18 ay.",
+"madde": "5607 sayılı Kaçakçılıkla Mücadele Kanunu m.3/2, 4/5, 5/2-b, 5/3",
+"cek": "Belgede sahtecilikle işlenen kaçakçılıkta 5607 cezası artırılmaz, ayrıca sahtecilik cezası verilir; kovuşturmada ödemede ceza üçte bir indirilir: 36→24 ay.",
 "kok": [
-"5607 sayılı Kaçakçılıkla Mücadele Kanunu kapsamında yürütülen bir kovuşturmada, gümrük müşaviri (K)’nın mesleğinin sağladığı kolaylıklardan yararlanarak, (L) firmasının yetkilisi (M) ile birlikte, firmaya ait eşyanın aldatıcı işlem ve davranışlarla gümrük vergileri kısmen ödenmeksizin ülkeye sokulması fiiline iştirak ettiği anlaşılmıştır. Hâkim, (K) için temel hapis cezasını 3 yıl olarak belirlemiştir. (K), fiilin resmî makamlarca haber alınmasından sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım etmiştir.",
-"Buna göre, Kanunda öngörülen artırım ve indirim uygulandığında (K) hakkında verilecek hapis cezası **kaç ay** olur?"
+"5607 sayılı Kaçakçılıkla Mücadele Kanunu kapsamında yürütülen bir kovuşturmada (K)’nın, sahte faturalar kullanarak eşyayı aldatıcı işlem ve davranışlarla gümrük vergileri kısmen ödenmeksizin ülkeye soktuğu anlaşılmıştır. (K) mükerrir değildir ve fiil bir örgütün faaliyeti çerçevesinde işlenmemiştir. Hâkim, kaçakçılık suçu için temel hapis cezasını 3 yıl olarak belirlemiştir. (K), kovuşturma evresinde hüküm verilmeden önce suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar parayı Devlet Hazinesine ödemiştir.",
+"Buna göre, belgede sahtecilik suçundan verilecek ceza dışında, (K) hakkında kaçakçılık suçundan hükmedilecek hapis cezası **kaç ay** olur?"
 ],
-"d": "18 ay",
+"d": "24 ay",
 "c": [
 "12 ay",
-"16 ay",
-"27 ay",
+"18 ay",
+"36 ay",
 "54 ay"
 ],
 "opts": [
 "12 ay",
-"16 ay",
 "18 ay",
-"27 ay",
+"24 ay",
+"36 ay",
 "54 ay"
 ],
 "tuzak": false,
-"g": "Suç meslek ve sanatın sağladığı kolaylıklardan yararlanılarak işlendiğinden 36 aylık temel ceza yarı oranında artırılarak 54 aya çıkar; haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına yardım edildiğinden bu ceza üçte iki oranında indirilerek 18 ay olur. Artırım uygulanmadan yapılan hesap 12 aya, artırımın üçte bir oranında yapılması 16 aya, indirimin yarı oranında yapılması 27 aya, indirimin hiç uygulanmaması ise 54 aya götürür; fiil iki kişiyle işlendiğinden üç kişiye bağlı artırım da söz konusu değildir. (MD 5607 4/4, 5/1)",
-"kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | meslek ve sanatın sağladığı kolaylıklardan yararlanmak suretiyle işlenmesi halinde, verilecek ceza yarı oranında artırılır || 5607_sayili_kacakcilikla_mucadele_kanunu.txt | fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza üçte iki oranında indirilir",
+"g": "Kanuna göre suçun belgede sahtecilik yapılarak işlenmesi kaçakçılık cezasını artıran bir hâl değildir; bu durumda ayrıca sahtecilik suçundan da cezaya hükmolunur. Gümrüklenmiş değerin iki katının kovuşturma evresinde hüküm verilinceye kadar ödenmesi hâlinde kaçakçılık suçundan verilecek ceza üçte bir oranında indirilir ve 36 aylık ceza 24 aya iner. 18 ay soruşturma evresine özgü yarı oranındaki indirimin, 12 ay haber alındıktan sonra yardım edene uygulanan üçte iki oranındaki indirimin uygulanmasıyla; 36 ve 54 ay ise indirimin yapılmaması veya sahtecilik nedeniyle yarı oranında artırım yapılması varsayımıyla bulunur. (MD 5607 4/5, 5/2-b, 5/3)",
+"kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | belgede sahtecilik yapılarak işlenmesi halinde, ayrıca bu suçtan dolayı da cezaya hükmolunur || 5607_sayili_kacakcilikla_mucadele_kanunu.txt | Kovuşturma evresinde hüküm verilinceye kadar ödediği takdirde, hakkında bu Kanunda tanımlanan kaçakçılık suçlarından dolayı verilecek ceza üçte bir oranında",
 "batch": "K12",
 "no": 100,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Suç meslek ve sanatın sağladığı kolaylıklardan yararlanılarak işlendiğinden 36 aylık temel ceza yarı oranında artırılarak 54 aya çıkar; haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına yardım edildiğinden bu ceza üçte iki oranında indirilerek 18 ay olur. Artırım uygulanmadan yapılan hesap 12 aya, artırımın üçte bir oranında yapılması 16 aya, indirimin yarı oranında yapılması 27 aya, indirimin hiç uygulanmaması ise 54 aya götürür; fiil iki kişiyle işlendiğinden üç kişiye bağlı artırım da söz konusu değildir. Bu nedenle doğru cevap C seçeneğidir. (MD 5607 4/4, 5/1)"
+"g_harfli": "Kanuna göre suçun belgede sahtecilik yapılarak işlenmesi kaçakçılık cezasını artıran bir hâl değildir; bu durumda ayrıca sahtecilik suçundan da cezaya hükmolunur. Gümrüklenmiş değerin iki katının kovuşturma evresinde hüküm verilinceye kadar ödenmesi hâlinde kaçakçılık suçundan verilecek ceza üçte bir oranında indirilir ve 36 aylık ceza 24 aya iner. 18 ay soruşturma evresine özgü yarı oranındaki indirimin, 12 ay haber alındıktan sonra yardım edene uygulanan üçte iki oranındaki indirimin uygulanmasıyla; 36 ve 54 ay ise indirimin yapılmaması veya sahtecilik nedeniyle yarı oranında artırım yapılması varsayımıyla bulunur. Bu nedenle doğru cevap C seçeneğidir. (MD 5607 4/5, 5/2-b, 5/3)"
 }
 ]

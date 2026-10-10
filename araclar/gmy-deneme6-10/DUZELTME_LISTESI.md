@@ -97,3 +97,4 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K12 (T2) uygulandı: D6-100 5607 m.4/5 ve 5/2-b üzerine kuruldu (m.4/4 artırım adımı çıkarıldı; 24 ay).
 - K13 (T2) uygulandı: D6-076 GY 563/8-9, D7-100 öncüller (GK 225, GY 561/1, YKTS Tebliği 3-4), D8-028 GY 578/1-ç, D7-063 GY 566/2-6, 570/1-3, D9-085 Tahsilat Tebliği 6/1-d, D9-094 (süre unsuru çıkarıldı; GY 563/3).
 - K11 (T2) uygulandı: D9-032 GK 238/1-c, D10-095 Kara Taşıtları Tebliği m.31, D7-042 GK 235/4-c + GY 181/12 (D7-036 öncül IV ipucu giderildi), D7-070 GK 237/5 + 237/1 (30.000 TL), D10-032 ara adım değişti (alt sınır 1.000 TL).
+- K02 (T2) uygulandı: D6-029 (bileşik unsurlar çıkarıldı; 85.000), D6-031 GY 56/3 marka royaltisi (68.500), D7-099 GY 55/1-a/c, D8-047 GY 54/2-a, D9-024 dört çeldirici, D10-034 GY 53/3 (36.000); D10-033 madde alanı.

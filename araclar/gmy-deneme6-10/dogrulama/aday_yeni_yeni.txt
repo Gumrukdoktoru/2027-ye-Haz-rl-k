@@ -1,4 +1,4 @@
-252 çift ortak madde/fıkra
+254 çift ortak madde/fıkra
 D6-070(K01) ~ D10-065(K14): [('GY', '482/1'), ('GY', '482/4')]
    A: Dış seferden dönen geminin üç ay içinde yabancı limana çıkmaması zorunlu nedenle belgelenirse süreyi uzatmaya gümrük ve muhafaza başmüdürlükleri yetkilidir.
    B: Dış seferden dönen geminin transit akaryakıt ve kumanyası ilk giriş limanında tespit edilir; üç ayda Türk limanları arasında tüketilen akaryakıt en son limanda vergilendi
@@ -11,18 +11,30 @@ D8-091(K01) ~ D8-029(K11): [('GK', '34/2')]
 D9-037(K01) ~ D6-027(K15): [('GK', '15/3')]
    A: İthalat hacmiyle sınırlı tarife uygulamaları tarife kotasında hacim sınırına ulaşılınca, tarife tavanında Cumhurbaşkanı Kararıyla sona erer.
    B: Tercihli tarife (GK 15/3-d,e,f) beyan sahibinin talebiyle uygulanır; koşullar sağlanırsa talep işlemlerin tamamlanmasından veya teslimden sonra da yapılabilir.
-D6-029(K02) ~ D7-053(K02): [('GY', '49/1')]
-   A: Sıra değişikliği talebi uygun bulununca hesaplanmış kıymet: malzeme, imalat, mutat kâr-genel gider, giriş limanına kadar nakliye; yurt içi nakliye-montaj eklenmez.
+D6-029(K02) ~ D7-050(K02): [('GY', '46/5')]
+   A: Hesaplanmış kıymet: malzeme, imalat, mutat kâr-genel gider ve giriş limanına kadar nakliye; son yöntemle belirlenmiş aynı eşya kıymeti aynı eşya yönteminde kullanılamaz.
+   B: Son yöntemde yasak olan, aynı/benzer eşyanın hesaplanmış kıymeti dışındaki maliyet bedelidir; hesaplanmış kıymet hükümlerine göre belirlenmiş kıymet Türkiye'de mevcut ver
+D6-029(K02) ~ D7-053(K02): [('GK', '25/2-d'), ('GY', '49/1')]
+   A: Hesaplanmış kıymet: malzeme, imalat, mutat kâr-genel gider ve giriş limanına kadar nakliye; son yöntemle belirlenmiş aynı eşya kıymeti aynı eşya yönteminde kullanılamaz.
    B: Hesaplanmış kıymette genel giderler, malzeme ve imalat bedelleri dışında kalan üretim ve ihraç amaçlı satışla ilgili giderlerdir; malzeme-imalat bunlara dahil değildir.
-D7-047(K02) ~ D9-024(K02): [('GK', '27/1-c')]
-   A: Royalti: satış koşulu tasarım ücretinin eşyayla ilgili kısmı eklenir; satıcının istemediği üçüncü kişi royaltisi ve satış koşulu olmayan tekrar satış hakkı eklenmez.
+D6-031(K02) ~ D7-047(K02): [('GK', '27/1-c')]
+   A: Satıcının yükümlülüğü için üçüncü kişiye ödeme fiyata dahil; ithalattan sonra yapıştırılan marka royaltisi şartlarla eklenir; tevsik edilmeyen dahili vergi düşülmez.
+   B: Royalti: satış koşulu tasarım ücretinin eşyayla ilgili kısmı eklenir; satıcının istemediği üçüncü kişi royaltisi ve satış koşulu olmayan tekrar satış hakkı eklenmez.
+D6-031(K02) ~ D9-024(K02): [('GK', '24/3-a')]
+   A: Satıcının yükümlülüğü için üçüncü kişiye ödeme fiyata dahil; ithalattan sonra yapıştırılan marka royaltisi şartlarla eklenir; tevsik edilmeyen dahili vergi düşülmez.
    B: Eşyanın ithali veya satışı nedeniyle Türkiye'de ödenecek ithalat vergileri, fiyattan ayırt edilebilmek koşuluyla gümrük kıymetine dahil edilmez.
+D7-050(K02) ~ D10-033(K02): [('GK', '26/1')]
+   A: Son yöntemde yasak olan, aynı/benzer eşyanın hesaplanmış kıymeti dışındaki maliyet bedelidir; hesaplanmış kıymet hükümlerine göre belirlenmiş kıymet Türkiye'de mevcut ver
+   B: Royalti değerlendirmesinde yönlendirici olarak dikkate alınması gereken Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesi metinleri Tavsiye Kararlarıdır.
 D7-052(K02) ~ D9-025(K02): [('GY', '45/1-d')]
    A: Kısmi alımda orantılı fiyat kısmi kayıp ve hasarda da uygulanır; satıştan sonra başka ülkede kullanılan eşyada satış bedeli aranmaz.
    B: Türkiye'ye ithal edilmek üzere doğrudan doğruya yapılan satış, "Türkiye'ye ihraç amaçlı satış" olarak tanımlanır.
 D8-046(K02) ~ D10-033(K02): [('GY', '44/3')]
    A: Kıymet hükümleri, onaylanmış başka işlem veya kullanımdan sonra serbest dolaşıma giren eşyanın kıymetine ilişkin özel hükümleri etkilemez.
    B: Royalti değerlendirmesinde yönlendirici olarak dikkate alınması gereken Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesi metinleri Tavsiye Kararlarıdır.
+D8-079(K02) ~ D9-024(K02): [('GK', '27/1-a-iii'), ('GY', '51/4')]
+   A: İthal ülkesindeki ilave posta-kargo ücreti kıymete girmez; ambalaj bedeli işçilik dahil eklenir; tekrar kullanılan kaplar paylaştırılır; abonman poliçesi kabul edilir.
+   B: Eşyanın ithali veya satışı nedeniyle Türkiye'de ödenecek ithalat vergileri, fiyattan ayırt edilebilmek koşuluyla gümrük kıymetine dahil edilmez.
 D8-041(K03) ~ D9-042(K03): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Fatura beyanı ihracatçı tarafından fatura, teslimat notu veya ticari belge üzerinde yapılır; tedarikçi beyanı A.TR/EUR.1/EUR-MED ile birlikte kullanılır.
    B: Avrupa'da aynı menşe kurallı STA'larla bağlı ülkeler arasında taraf menşeli girdiyle elde edilen ürünün tercihli ithaline imkân veren sistem Pan-Avrupa Menşe Kümülasyonud
@@ -224,9 +236,6 @@ D10-050(K03) ~ D10-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
 D10-050(K03) ~ D10-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR Tebliğinde işlenmiş tarım ürünleri, bünyesinde hububat, şeker ve süt bulunduran III sayılı liste ürünleri; sanayi ürünleri tarım ve işlenmiş tarım dışındakilerdir.
    B: DİR belgeleri aylık listelerle Resmî Gazete’de yayımlanır; iptaller ayrıca bildirilmez; kayıpta ilanla bölge müdürlüğüne başvurulur; revize kapatma sonuçlanıncaya kadar.
-D7-078(K05) ~ D9-045(K05): [('GY', '148/1')]
-   A: Serbest dolaşıma girişte beyanname yerine ticari veya idari belge usulü, CIF kıymeti 500 Avro'yu geçmeyen eşyayı sürekli ithal edenlere altı ay süreyle tanınır.
-   B: İhracatta statü koşulu aranmadan ticari/idari belgeyle işlem: aynı idareden sürekli kitap ihracı ve gemilere kumanya verme; F tipi antrepo eşyasında basitleştirme yok.
 D6-021(K07) ~ D6-089(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Şartlı muafiyet sisteminde teminat oranı Bakanlıkça vergi tutarının iki katına kadar artırılabilir; hazine tahvil-bonosu da teminattır.
    B: Üçüncü ülke girdili olup Topluluğa ihraç edilen harp araç, gereç, teçhizatı ve yedek parçaları için telafi edici vergi aranmaz.
@@ -584,9 +593,6 @@ D9-072(K08) ~ D10-076(K14): [('2009/15481 sayılı Karar', '2009/15481')]
 D9-072(K08) ~ D10-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Kısmi muafiyette %3 üzerinden kesin alınan vergilerin tahsil edilen kısmına faiz uygulanmaz; boş gelip dolu çıkmayan ambalaja kısmi muafiyet uygulanır.
    B: Reçeteyle gerçek kişiye posta-kargoyla gelen 1500 Avro’yu geçmeyen ilaç cinsi eşya ile takviye edici gıdalardan tek ve maktu vergi alınır (2026 metni).
-D10-092(K08) ~ D10-095(K11): [('Geçici İthal Edilen Kara Taşıtlarına İli', '19/1')]
-   A: Görevli olarak gelen kişinin taşıtını özel hizmet akdiyle istihdam edilen Türkiye yerleşik şoförün kullanması ihlal değildir; ödünç, kiralama, amaç dışı kullanım ve süre 
-   B: Kara taşıtında şartların ihlali nedeniyle vergi ve cezaların tahsili serbest dolaşıma girişi sağlamaz; ödenmiş olsa dahi taşıt yurt dışı edilmelidir.
 D6-058(K09) ~ D6-073(K09): [('2009/15481 s. Karar', '2009/15481')]
    A: Komşu ülke çiftçilerinin tohum ve gübresine muafiyet, bizzat getirilmesi ve aynı hakkın karşı ülkece de tanınması (karşılıklılık) koşuluyla uygulanır.
    B: Bilgi materyali: turistik broşürde özel ticari reklam %25'i aşamaz; resmî dairelere belge ücretsiz gönderilmeli; yurt dışında vergi ödendiğini kanıtlayan belgeler muaftır
@@ -671,6 +677,9 @@ D7-091(K10) ~ D9-079(K10): [('GK', '216/2')]
 D7-069(K11) ~ D8-043(K11): [('GK', '241/6-d')]
    A: Tehlikeli eşyanın genel amaçlı yerde depolanması dört, antrepo kaydına geçirmeme iki, istenen belgeyi ibraz etmeme sekiz kat; toplam on dört kat.
    B: Yabancı limandan gelen veya giden geminin geliş ve gidişinde süresinde bilgi verilmemesi iki kat usulsüzlük cezası gerektirir.
+D7-070(K11) ~ D9-026(K11): [('GK', '237/1')]
+   A: Miktarı idarece tespit edilmeyip belgelere göre beyan edilen eşyada miktar farkı özet beyan eksikliği sayılır; beyan farkı cezası değil noksan kap vergileri kadar ceza.
+   B: Vergiye göre ceza belirlenemeyen özet beyan noksanlığında kanıtlanamayan her noksan kap için bir kat usulsüzlük cezası; dört noksan kap dört kat.
 D8-030(K11) ~ D8-043(K11): [('GK', '241/4-c')]
    A: Özet beyanın süresi içinde verilmemesi, eşya özet beyana uygun çıksa ve vergi kaybı olmasa da iki kat usulsüzlük cezası gerektirir.
    B: Yabancı limandan gelen veya giden geminin geliş ve gidişinde süresinde bilgi verilmemesi iki kat usulsüzlük cezası gerektirir.
@@ -692,8 +701,11 @@ D6-093(K12) ~ D8-022(K12): [('5607', '22/1')]
 D6-098(K12) ~ D7-022(K12): [('5607', '13/2')]
    A: Etkin pişmanlık nedeniyle cezaya hükmolunmaması veya kamu davasının düşmesi, suç konusu eşyanın müsaderesine engel teşkil etmez.
    B: Suç örgüt faaliyeti çerçevesinde işlenmişse gümrüklenmiş değerin iki katını ödeyene etkin pişmanlık indirimi uygulanmaz.
+D6-100(K12) ~ D7-022(K12): [('5607', '5/3')]
+   A: Belgede sahtecilikle işlenen kaçakçılıkta 5607 cezası artırılmaz, ayrıca sahtecilik cezası verilir; kovuşturmada ödemede ceza üçte bir indirilir: 36→24 ay.
+   B: Suç örgüt faaliyeti çerçevesinde işlenmişse gümrüklenmiş değerin iki katını ödeyene etkin pişmanlık indirimi uygulanmaz.
 D6-100(K12) ~ D9-065(K12): [('5607', '3/2')]
-   A: Meslek kolaylığıyla işlenen suçta ceza yarı oranında artırılır; haber alındıktan sonra yardım edene ceza üçte iki indirilir: 36→54→18 ay.
+   A: Belgede sahtecilikle işlenen kaçakçılıkta 5607 cezası artırılmaz, ayrıca sahtecilik cezası verilir; kovuşturmada ödemede ceza üçte bir indirilir: 36→24 ay.
    B: Eşyayı gümrük işlemlerine tabi tutmaksızın ülkeye sokana bir-beş yıl hapis ve on bin güne kadar adlî para cezası verilir.
 D7-022(K12) ~ D10-087(K12): [('5607', '5/2')]
    A: Suç örgüt faaliyeti çerçevesinde işlenmişse gümrüklenmiş değerin iki katını ödeyene etkin pişmanlık indirimi uygulanmaz.
@@ -743,12 +755,6 @@ D8-024(K13) ~ D9-089(K13): [('GK geçici', '6/9')]
 D9-087(K13) ~ D9-089(K13): [('GK geçici', '6/9')]
    A: 3713 sayılı Kanun kapsamında hakkında kovuşturma başlatılan meslek mensubunun izin belgesi kovuşturma sonuçlanıncaya kadar tedbiren geri alınır.
    B: Meslekten çıkarma, meslek mensubunun izin belgesinin geri alınarak bir daha bu mesleği icra etmesine izin verilmemesidir.
-D9-094(K13) ~ D10-024(K13): [('GK', '228/1')]
-   A: Stajyerlik (bir yıl) ve GMY (iki yıl) sürelerinin hesabında sigortalı işe başlama tarihi ve sigortalı çalışılan süre dikkate alınır.
-   B: Öğrenim koşulunu lisansüstü veya ön lisans yoluyla sağlayan GMY, GM olamaz; üst görevlerde en az on yıl çalışanlar sınavsız ve stajsız GM olur.
-D6-030(K14) ~ D10-069(K14): [('GK', '168/1')]
-   A: Ticari kiralama yoluyla geçici ihraçta üç yıllık süre, bitiminden önce başvurulursa gümrük müdürlüğünce kiralama sözleşmesindeki süre kadar uzatılabilir.
-   B: Geri getirilme süresi fiili ihraç tarihinden başlar; çıkış partiler hâlinde yapılırsa her partinin süresinin başlangıcı ayrı ayrı dikkate alınır.
 D10-076(K14) ~ D10-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Posta-kargo kitap muafiyetinde süreklilikte sınırlama getirilebilir; diplomatik ve yolcu eşyasında kıymet ve ağırlık sınırı yoktur; kıymet usul-esaslarını Bakanlık belirl
    B: Reçeteyle gerçek kişiye posta-kargoyla gelen 1500 Avro’yu geçmeyen ilaç cinsi eşya ile takviye edici gıdalardan tek ve maktu vergi alınır (2026 metni).
