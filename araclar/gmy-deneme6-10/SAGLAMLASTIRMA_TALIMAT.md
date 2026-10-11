@@ -61,3 +61,12 @@ Görev dosyandaki 28 sorunun her birinde doğru şıkkı, çeldiricileri ve aç�
   - Notlar Kanunun eski hâlini ya da hatalı bir özetini veriyorsa soru değişmez; raporda “NOT FARKI” diye yaz, alıntıları ver.
 - Notlar bir çeldiriciyi savunulabilir kılıyorsa (ör. kurum uygulaması ya da istisna) ve Kanun da buna izin veriyorsa çeldiriciyi değiştir.
 - Notlarda soruyla ilgili ek bir istisna ya da şart varsa ve bu, sorunun tek doğru cevabını tehlikeye atıyorsa düzelt.
+
+## 6. Tam örtüşme geçişi (O1–O5)
+G1–G5 yalnız aday listesindeki soruları inceledi. Önceki tekrar denetiminin aday listesi, eski hafıza satırlarındaki kaba madde alanları yüzünden bazı güçlü örtüşmeleri kaçırdı (ör. D7-027, D6-096, D9-066 ~ GMY2-045 ve GMY4-096). Bu geçişte batch dosyalarındaki **bütün** soruları incele:
+1. `python3 eski_ilgili.py batch_<X>.py` her soru için aynı konudaki ve aynı maddeli eski soruları listeler. `*` aynı madde demektir; `ç` 2021–2025 çıkmış soru envanteridir. Çekirdeği aynı hükme dokunan eski soruları dosyasından aç ve şıklarıyla birlikte oku.
+2. §2-A'yı uygula (Deneme 1–5). Çıkmış sınavlar için ölçüt daha dar: yeni soru, **model aldığı soru dışındaki** bir çıkmış soruda cevap ya da doğru ifade olarak birebir geçen hükmü **aynı açıdan** yeniden soruyorsa (kopya benzeri) kilidi değiştir. Aynı hükmün farklı açıdan sorulması kabul edilir; gerçek sınavlar da hüküm tekrarlar.
+3. §2-B ve §2-C'yi her soruda uygula. `python3 ipucu_tara.py` aday verir, ama bayraksız sorulara da bak.
+4. G1–G5'in bu geçişte değiştirdiği sorular (`dogrulama/G*.md`) da kapsama dahil. Onların düzeltmesini bozma; yalnız yeni bir sorun görürsen düzelt.
+5. **Değiştirme eşiği:** yalnız güçlü örtüşme, gerçek cevap ipucu, gerçekten anlaşılmaz ya da çelişkili kök, çift doğru veya yanlış cevap. Üslup tercihi için değişiklik yapma.
+Rapor `dogrulama/O<n>.md`. Her batch için önce sorunsuz soruları aralıkla say (“D6-021…D6-030 sorunsuz”), sonra değişenleri §4 biçiminde yaz.
