@@ -146,7 +146,7 @@ dict(id='D8-012', cikmis='2023/12', konu='Atatürk’ün hayatı – Mesleki eğ
  cek='Mustafa Kemal 1905’te kurmay yüzbaşı olarak mezun oldu; ilk görev yeri Şam’daki 5. Ordu; 1902 teğmenlik ve Akademiye geçiş.',
  kok=['Mustafa Kemal’in Harp Akademisinden kurmay yüzbaşı olarak mezun olduğu yıl ile ilk görev yeri aşağıdakilerin hangisinde doğru olarak verilmiştir?'],
  d='1905 – Şam',
- c=['1902 – Şam', '1905 – Sofya', '1899 – İstanbul', '1911 – Trablusgarp'],
+ c=['1902 – Şam', '1905 – Sofya', '1899 – İstanbul', '1902 – Sofya'],
  tuzak=False,
  g='Mustafa Kemal 1905’te Harp Akademisinden kurmay yüzbaşı olarak mezun olmuş, ilk görev yeri Şam’daki 5. Ordu olmuştur. 1902 teğmen rütbesiyle mezuniyet ve Harp Akademisine geçiş yılı, 1899 İstanbul Harp Okuluna giriş yılıdır; Sofya’daki askerî ataşelik ise ilk görev yeri değildir. (MD Genel Kültür Kitabı – Tarih: Atatürk’ün hayatı)',
  kanit=K + ' | 1899: İstanbul Harp Okuluna giriş. 1902: Teğmen rütbesiyle mezuniyet ve Harp Akademisine geçiş. 1905: Kurmay yüzbaşı olarak mezuniyet; ilk görev yeri Şam’daki 5. Ordu.'),
