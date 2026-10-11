@@ -2,14 +2,14 @@
 Q = [
 # ===================== DENEME 6 =====================
 dict(id='D6-078', cikmis='2021/78', konu='Teminat ve Faiz', tip='T6', z='OÜ',
- madde='4458 sayılı Gümrük Kanunu m.244/5; Gümrük Uzlaşma Yönetmeliği m.24/3',
+ madde='4458 sayılı Gümrük Kanunu m.244/5, 198/1; Gümrük Uzlaşma Yönetmeliği m.24/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.3/1-a',
  cek='Uzlaşılan vergilere yükümlülük başlangıcından uzlaşma tutanağının imzalandığı tarihe kadar gecikme zammı oranında gecikme faizi uygulanır.',
- kok=['"Uzlaşılan vergilere ilişkin gümrük yükümlülüğünün başladığı tarihten uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için, 6183 sayılı Kanun hükümlerine göre belirlenen gecikme zammı oranında uygulanır."',
+ kok=['"Uzlaşılan vergilere ilişkin gümrük yükümlülüğünün başladığı tarihten uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için, uzlaşılan tutar üzerinden 6183 sayılı Kanun hükümlerine göre belirlenen oranda uygulanır."',
       '4458 sayılı Gümrük Kanununa göre yukarıda tanımlanan fer\'i alacak aşağıdakilerden hangisidir?'],
- d='Gecikme faizi', c=['Gecikme zammı', 'Tecil faizi', 'Kanuni faiz', 'Usulsüzlük cezası'],
+ d='Gecikme faizi', c=['Tecil faizi', 'Kanuni faiz', 'Usulsüzlük cezası', 'İdari para cezası'],
  tuzak=False,
- g='Kanuna göre uzlaşılan vergilere, gümrük yükümlülüğünün başladığı tarihten uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için gecikme zammı oranında gecikme faizi uygulanır. Gecikme zammı ise tebligata rağmen ödeme süresinde ödenmeyen vergilere vadenin bitiminden itibaren uygulanır; tecil faizi ödeme süresinin uzatılması veya tecil hâlinde alınır. (MD GK 244/5; Uzlaşma Yön. 24/3)',
- kanit='50-uzlaşma.txt | Uzlaşılan vergilere ilişkin gümrük yükümlülüğünün başladığı tarihten uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için 6183 sayılı Kanun hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi uygulanır'),
+ g='Kanuna göre uzlaşılan vergilere, gümrük yükümlülüğünün başladığı tarihten uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için 6183 sayılı Kanuna göre belirlenen gecikme zammı oranında gecikme faizi uygulanır. Tecil faizi ödeme süresinin yazılı istem ve teminatla uzatılması veya tecil hâlinde alınır; kanuni faiz ise uzlaşma hükümlerinde öngörülmemiştir. Usulsüzlük cezası ve idari para cezası fer\'i alacak değil, para cezası niteliğindedir; Tebliğ de alacak tanımında fer\'i amme alacakları ile para cezalarını ayrı sayar. (MD GK 244/5, 198/1; Uzlaşma Yön. 24/3; Tahsilat Seri No:2 m.3/1-a)',
+ kanit='50-uzlaşma.txt | Uzlaşılan vergilere ilişkin gümrük yükümlülüğünün başladığı tarihten uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için 6183 sayılı Kanun hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi uygulanır || 45-tebliğ.txt | gümrük vergileri ile bunlara bağlı fer\'i amme alacakları ve para cezalarını'),
 
 dict(id='D6-079', cikmis='2021/79', konu='Tahakkuk-Tebliğ-Ödeme', tip='T1+T2', z='Z',
  madde='4458 sayılı Gümrük Kanunu m.195/1, 196; Gümrük Yönetmeliği m.489/1, 490/1; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.14/2',
