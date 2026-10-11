@@ -2,7 +2,7 @@
 İpucu: şıklarda en sık geçen öncüllerden oluşan şıkkı seçen strateji (toplam / ortalama / en az sıklık) şanstan (%20) yüksek isabet eder.
 Doğru kombinasyon ve planlanan harf korunur; yalnız çeldirici kombinasyonlar seçilir. Kısıtlar: merdiven artan (kontrol.py),
 her öncül en az bir şıkta, doğru kombinasyona tek öncül farkla yakın en az 2 çeldirici. Mevcut merdivenden en az değişiklik tercih edilir.
-Kullanım: python3 merdiven_dengele.py [--ceza=1.5] [--alti]   (yalnız rapor; --alti en az sık stratejileri de hedefler)
+Kullanım: python3 merdiven_dengele.py [--ceza=1.5] [--hepsi]   (yalnız rapor; --hepsi ters stratejileri de hedefler)
           python3 merdiven_dengele.py --yaz      (batch dosyalarına yazar; açıklamada geçen eski çeldirici kombinasyonlar listelenir)"""
 import glob, re, sys, itertools, collections
 from kontrol import kombo, PLAN, STRIP
@@ -20,9 +20,10 @@ def uzunluk_ok(metin, k, tuzak):  # kontrol.py uzunluk dengesi kuralının aynı
 def skorlar(O):
     fr = collections.Counter(x for o in O for x in o)
     return [[sum(fr[x] for x in o) for o in O], [sum(fr[x] for x in o) / len(o) for o in O], [min(fr[x] for x in o) for o in O]]
-def vektor(O, k):  # 6 strateji (toplam/ortalama/en az sıklık × en çok/en az seçen) için doğruyu bulma olasılığı
+def vektor(O, k):  # 8 strateji: (toplam/ortalama/en az sıklık × en çok/en az seçen) + (merkez: ötekilere en yakın / en uzak şık)
     v = []
-    for sc in skorlar(O):
+    S = [set(o) for o in O]
+    for sc in skorlar(O) + [[-sum(len(a ^ b) for b in S) for a in S]]:
         for uc in (max, min):
             m = uc(sc); b = [i for i, s in enumerate(sc) if s == m]
             v.append(1 / len(b) if k in b else 0)
@@ -41,9 +42,9 @@ def adaylar(n, d, k, enuzun=5):
 # Açgözlü dengeleme: sorular sırayla işlenir; her soruda, 6 stratejinin birikmiş isabeti şans düzeyine (%20) en yakın kalacak
 # merdiven seçilir; eşitlikte mevcut merdivenden en az değişiklik. Böylece ne "en sık" ne "en az sık" öncül stratejisi kazandırır.
 yaz = '--yaz' in sys.argv; rapor = []; say = 0
-HEDEF = range(6) if '--alti' in sys.argv else (0, 2, 4)  # varsayılan: yalnız "en sık öncül" stratejileri (öğrencinin kullandığı ipucu)
+HEDEF = range(8) if '--hepsi' in sys.argv else (0, 2, 4, 6)  # varsayılan: "en sık öncül" ve "merkezdeki şık" stratejileri (öğrencinin kullandığı ipuçları)
 LAMBDA = float(next((a.split('=')[1] for a in sys.argv if a.startswith('--ceza=')), '1.5'))  # değişen her şık için ceza (1.5: ~%20 isabet, en az değişiklik)
-TOP0 = [0.0] * 6; TOP1 = [0.0] * 6
+TOP0 = [0.0] * 8; TOP1 = [0.0] * 8
 SORU = []
 for f in sorted(glob.glob('batch_*.py')):
     ns = {}; exec(open(f).read(), ns)
@@ -87,6 +88,6 @@ if yaz:
                 else: rapor.append(f'!! liste dosyada bulunamadı: {f} {eski_l}')
         open(f, 'w').write(yeni)
 print('\n'.join(rapor))
-ad = ['toplam-en çok', 'toplam-en az', 'ortalama-en çok', 'ortalama-en az', 'en az sıklık-en çok', 'en az sıklık-en az']
+ad = ['toplam-en çok', 'toplam-en az', 'ortalama-en çok', 'ortalama-en az', 'en az sıklık-en çok', 'en az sıklık-en az', 'merkezdeki şık', 'en uzak şık']
 print(f'\nöncüllü soru: {say} | değişen merdiven: {sum(len(v) for v in DEG.values())} | strateji isabeti (şans %20):')
-for j in range(6): print(f'  {ad[j]}: %{100 * TOP0[j] / say:.0f} → %{100 * TOP1[j] / say:.0f}')
+for j in range(8): print(f'  {ad[j]}: %{100 * TOP0[j] / say:.0f} → %{100 * TOP1[j] / say:.0f}')
