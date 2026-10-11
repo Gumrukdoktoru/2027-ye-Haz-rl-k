@@ -8,6 +8,7 @@ GM / GMY sınavlarına hazırlık için Word kaynaklarından **ders notu** ve **
 - `promptlar/prompt-2-ders-notu-motoru.md` — ders notu üretim kuralları (Prompt 2).
 - `promptlar/prompt-3-nihai-soru-hazirlama-kurallari.md` — kullanıcının nihai soru hazırlama kuralları (Prompt 3). Soru üretiminde Prompt 1 ile çelişirse **Prompt 3 geçerlidir** (çıkmış soruların bilgi alanları atlanmaz, kök = mevzuat adı + hükmün konusu + kurum kalıbı, önermeli en az 3 önerme, gerekçe sonunda (MD …), art arda aynı cevap harfi yok).
 - `promptlar/prompt-4-gmy-soru-motoru-master.md` — kullanıcının GMY Soru Motoru master promptu (Prompt 4): tip blueprint'i (T1–T10), kök uzunluk bantları, şık uzunluk dengesi ve ters tuzak kotası, cevap dağılımı (A alt bantta). GMY deneme üretiminde Prompt 3 ile birlikte uygulanır; madde numarası kökte kullanılmaz (Prompt 3 §7).
+- Ek kaynak deposu (11 Ekim 2026): `Gumrukdoktoru/2027gmynot` — `GUMRUK_MEVZUATI_TUMU.md` (0–51 konu derlemesi; kökteki kaynaklarla aynı mevzuat sürümü, dönüştürmede bağlantılı kelimeler düşmüş), `kaçakçılık.md` (5607 sunum notları; ikincil kaynak, Kanun metni esastır), İRK Markdown'ları. Çapraz kontrol için kullanılır (`araclar/gmy-deneme6-10/kaynak_md_karsilastir.py`).
 - `sorular/` — üretilen soru setleri; `sorular/hafiza/URETIM-HAFIZASI.md` üretim hafızası.
 - `notlar/` — üretilen ders notları (Ders_Notu_{KONU}.docx).
 

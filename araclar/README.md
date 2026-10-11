@@ -16,4 +16,5 @@
   - `kontrol.py` master prompt + Prompt 3 denetimi (kanıt alıntısı kaynakta birebir, uzunluk dengesi, ters tuzak, tip/kök kuralları, Karar kalıbı); `birlestir.py` → `set6–10.json` (harf yerleşimi, deneme düzeyi dağılım); `tekrar_aday.py` aynı madde/fıkra tekrar adayları; `degisen.py` doğrulama sonrası değişen sorular.
   - `cikti.py`/`cikti.js N` Markdown/Word çıktısı (kitapçık + çözümlü sorular, master §10 formatı); `hafiza_ekle.py` üretim hafızasına 500 satır ekler.
   - `DOGRULAYICI_TALIMAT.md`, `dogrulama/` (V1–V10 çekişmeli doğrulama, T1–T2 tekrar denetimi, S1–S3 son doğrulama raporları), `DUZELTME_LISTESI.md` düzeltme kaydı.
+  - İkinci geçiş (sağlamlaştırma): `kaynak_md_karsilastir.py <2027gmynot yolu>` kanıt alıntılarını kullanıcının Markdown kaynak deposunda arar → `dogrulama/KAYNAK_MD.md`; `ipucu_tara.py` cevap ipucu (yakınsama, kök–şık kelime ortaklığı) adayları; `SAGLAMLASTIRMA_TALIMAT.md`, `gorev/G1–G5.md`, `dogrulama/G1–G5.md`.
 
