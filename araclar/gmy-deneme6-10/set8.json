@@ -404,7 +404,7 @@
 "1902 – Şam",
 "1905 – Sofya",
 "1899 – İstanbul",
-"1911 – Trablusgarp"
+"1902 – Sofya"
 ],
 "tuzak": false,
 "g": "Mustafa Kemal 1905’te Harp Akademisinden kurmay yüzbaşı olarak mezun olmuş, ilk görev yeri Şam’daki 5. Ordu olmuştur. 1902 teğmen rütbesiyle mezuniyet ve Harp Akademisine geçiş yılı, 1899 İstanbul Harp Okuluna giriş yılıdır; Sofya’daki askerî ataşelik ise ilk görev yeri değildir. (MD Genel Kültür Kitabı – Tarih: Atatürk’ün hayatı)",
@@ -417,7 +417,7 @@
 "1902 – Şam",
 "1905 – Sofya",
 "1899 – İstanbul",
-"1911 – Trablusgarp"
+"1902 – Sofya"
 ],
 "blok": "GK",
 "ders": "Tarih",
@@ -786,34 +786,34 @@
 "konu": "YGM",
 "tip": "T3",
 "z": "OÜ",
-"madde": "Yetkilendirilmiş Gümrük Müşavirliği Tebliği m.22/1-c",
-"cek": "YGM tespit raporlarını, eklerini, günlük rapor ve tespit sözleşmelerini istenildiğinde ibraz etmek üzere beş yıl süreyle muhafaza eder.",
+"madde": "Yetkilendirilmiş Gümrük Müşavirliği Tebliği m.22/1-i, j",
+"cek": "YGM, antrepoda sonlandırılan transit beyanının belgelerini boşaltma sonucu uygunsa boşaltma tarihinden itibaren en geç üç iş günü içinde bordroyla gümrük idaresine gönderir.",
 "kok": [
-"Yetkilendirilmiş Gümrük Müşavirliği Tebliğine göre, tespit raporları ve dayanağı belgeler ne kadar süreyle muhafaza edilir?"
+"Yetkilendirilmiş Gümrük Müşavirliği Tebliğine göre, antrepoda sonlandırılan transit beyanının belgeleri, boşaltma uygunsa ne zaman gönderilir?"
 ],
-"d": "İstenildiğinde ibraz edilmek üzere beş yıl süreyle",
+"d": "Boşaltma tarihinden itibaren en geç üç iş günü içinde",
 "c": [
-"İstenildiğinde ibraz edilmek üzere üç yıl süreyle",
-"İstenildiğinde ibraz edilmek üzere on yıl süreyle",
-"Yetki belgesinin geçerlilik süresi boyunca",
-"Tespit sözleşmesinin yürürlükte kaldığı süre boyunca"
+"Boşaltma tarihinden itibaren en geç on iş günü içinde",
+"Sonlandırma tarihinden itibaren en geç üç iş günü içinde",
+"Sonlandırma tarihinden itibaren en geç on iş günü içinde",
+"Boşaltma tarihini takip eden ilk iş günü içinde"
 ],
 "tuzak": false,
-"g": "Tebliğe göre yetkilendirilmiş gümrük müşavirleri; hazırladıkları tespit raporlarını ve eklerini, bunlara dayanak olan günlük rapor ve tespit sözleşmelerini ve tespit işleminde kullanılan diğer bilgi ve belgeleri istenildiğinde ibraz etmek üzere beş yıl süreyle muhafaza etmekten sorumludur. Muhafaza süresi yetki belgesinin veya tespit sözleşmesinin süresine bağlanmamış olup üç ya da on yıllık bir süre de öngörülmemiştir. (MD YGM Tebliği 22/1-c)",
-"kanit": "31-YGM.txt | Hazırlanan her türlü tespit raporunu ve eklerini, bunlara dayanak olan günlük rapor ve tespit sözleşmelerini, tespit işleminde kullanılan diğer tüm bilgi ve belgeleri istenildiğinde ibraz etmek üzere beş yıl süreyle muhafaza etmek,",
+"g": "Tebliğe göre yetkilendirilmiş gümrük müşaviri, antrepoda sonlandırılan transit beyanına ilişkin belge ve bilgileri boşaltma sonucu uygunsa boşaltma tarihinden itibaren en geç üç iş günü içinde, uygun değilse en geç boşaltma tarihini takip eden ilk iş günü içinde bir bordroya kaydederek antreponun bağlı bulunduğu gümrük idaresine gönderir. Takip eden ilk iş günü boşaltma sonucunun uygun olmadığı hâle, on iş günlük süre ise antrepoda sonlandırılan TIR karnelerinin Volet-2 yapraklarının gönderilmesine ilişkindir; süre sonlandırma tarihinden değil boşaltma tarihinden başlar. (MD YGM Tebliği 22/1-i, j)",
+"kanit": "31-YGM.txt | boşaltma sonucunun uygun olması halinde boşaltma tarihinden itibaren en geç üç iş günü içerisinde, uygun olmaması halinde ise en geç boşaltma tarihini takip eden ilk iş günü içerisinde bir bordroya kaydederek || 31-YGM.txt | bordroya tescil numarasına göre kaydederek en geç on iş günü içerisinde antreponun bağlı bulunduğu gümrük idaresine göndermek",
 "batch": "K13",
 "no": 23,
 "harf": "C",
 "opts": [
-"İstenildiğinde ibraz edilmek üzere üç yıl süreyle",
-"İstenildiğinde ibraz edilmek üzere on yıl süreyle",
-"İstenildiğinde ibraz edilmek üzere beş yıl süreyle",
-"Yetki belgesinin geçerlilik süresi boyunca",
-"Tespit sözleşmesinin yürürlükte kaldığı süre boyunca"
+"Boşaltma tarihinden itibaren en geç on iş günü içinde",
+"Sonlandırma tarihinden itibaren en geç üç iş günü içinde",
+"Boşaltma tarihinden itibaren en geç üç iş günü içinde",
+"Sonlandırma tarihinden itibaren en geç on iş günü içinde",
+"Boşaltma tarihini takip eden ilk iş günü içinde"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre yetkilendirilmiş gümrük müşavirleri; hazırladıkları tespit raporlarını ve eklerini, bunlara dayanak olan günlük rapor ve tespit sözleşmelerini ve tespit işleminde kullanılan diğer bilgi ve belgeleri istenildiğinde ibraz etmek üzere beş yıl süreyle muhafaza etmekten sorumludur. Muhafaza süresi yetki belgesinin veya tespit sözleşmesinin süresine bağlanmamış olup üç ya da on yıllık bir süre de öngörülmemiştir. Bu nedenle doğru cevap C seçeneğidir. (MD YGM Tebliği 22/1-c)"
+"g_harfli": "Tebliğe göre yetkilendirilmiş gümrük müşaviri, antrepoda sonlandırılan transit beyanına ilişkin belge ve bilgileri boşaltma sonucu uygunsa boşaltma tarihinden itibaren en geç üç iş günü içinde, uygun değilse en geç boşaltma tarihini takip eden ilk iş günü içinde bir bordroya kaydederek antreponun bağlı bulunduğu gümrük idaresine gönderir. Takip eden ilk iş günü boşaltma sonucunun uygun olmadığı hâle, on iş günlük süre ise antrepoda sonlandırılan TIR karnelerinin Volet-2 yapraklarının gönderilmesine ilişkindir; süre sonlandırma tarihinden değil boşaltma tarihinden başlar. Bu nedenle doğru cevap C seçeneğidir. (MD YGM Tebliği 22/1-i, j)"
 },
 {
 "id": "D8-024",
@@ -821,12 +821,12 @@
 "konu": "Disiplin",
 "tip": "T2",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu geçici m.6/4, 6/6, 6/7, 6/9",
-"cek": "Adli kovuşturmada disiplin cezası TCK zamanaşımına göre verilir; görev suçlarında TCK memur hükümleri uygulanır; tedbiren alma yetkisi müfettiş ve bölge müdüründedir.",
+"madde": "4458 sayılı Gümrük Kanunu geçici m.6/6, 6/7, 6/9",
+"cek": "Adli kovuşturmada disiplin cezası TCK zamanaşımına göre verilir; görev suçlarında TCK memur hükümleri uygulanır; tedbiren alınan izin belgesiyle iş takibi yapılamaz.",
 "kok": [
 "4458 sayılı Gümrük Kanununa göre, gümrük müşavirleri hakkında uygulanacak disiplin ve ceza hükümlerine ilişkin aşağıdaki ifadeler veriliyor:",
 "I. Aykırılık aynı zamanda adli kovuşturma konusu ise disiplin cezası Türk Ceza Kanunundaki zamanaşımı hükümlerine göre verilebilir.",
-"II. Üç yıllık dönemde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunana her yeni suçu için daha hafif ceza uygulanır.",
+"II. İzin belgeleri tedbir mahiyetinde geçici olarak alınanlar, bu süre içinde daha önce başladıkları işlemleri sonuçlandırmak üzere gümrüklerde iş takip edebilir.",
 "III. Görevleri sebebiyle işledikleri suçlardan dolayı Türk Ceza Kanununun Devlet memurlarına ait hükümleri uyarınca cezalandırılırlar.",
 "IV. İzin belgelerini tedbiren geçici olarak almaya Bakanlık müfettişleri ile gümrük ve dış ticaret bölge müdürleri yetkilidir.",
 "Yukarıdaki ifadelerden hangileri doğrudur?"
@@ -846,14 +846,14 @@
 "I, III ve IV"
 ],
 "tuzak": false,
-"g": "Kanuna göre aykırılık aynı zamanda adli kovuşturma konusu ise disiplin cezası Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre verilebilir (I); meslek mensupları görevleri sırasında veya sebebiyle işledikleri suçlardan dolayı Türk Ceza Kanununun Devlet memurlarına ait hükümleri uyarınca cezalandırılır (III); izin belgelerini tedbiren almaya Bakanlık müfettişleri ile gümrük ve dış ticaret bölge müdürleri yetkilidir (IV). Üç yıllık dönemde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunana her yeni suçu için bir öncekinden daha ağır ceza uygulanabileceğinden II yanlıştır. (MD GK Geçici 6/4, 6/6, 6/7, 6/9)",
-"kanit": "51-disiplin cezaları.txt | Mevzuata aykırı işlem ve eylemlerin aynı zamanda bir adli kovuşturma konusu olması halinde, bu aykırılık için Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre disiplin cezası verilebilir. || 51-disiplin cezaları.txt | Üç yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir. || 51-disiplin cezaları.txt | Türk Ceza Kanununun Devlet memurlarına ait hükümleri uyarınca cezalandırılır. || 51-disiplin cezaları.txt | Bakanlık müfettişleri ve gümrük ve dış ticaret bölge müdürleri tarafından gerek görülmesi hâlinde tedbir mahiyetinde",
+"g": "Kanuna göre aykırılık aynı zamanda adli kovuşturma konusu ise disiplin cezası Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre verilebilir (I); meslek mensupları görevleri sırasında veya sebebiyle işledikleri suçlardan dolayı Türk Ceza Kanununun Devlet memurlarına ait hükümleri uyarınca cezalandırılır (III); izin belgelerini tedbiren almaya Bakanlık müfettişleri ile gümrük ve dış ticaret bölge müdürleri yetkilidir (IV). İzin belgeleri tedbiren alınanların bu süre içinde gümrüklerde iş takip etmelerine izin verilmediğinden, başlanmış işlemleri sonuçlandırmaya yönelik bir istisna da öngörülmediğinden II yanlıştır. (MD GK Geçici 6/6, 6/7, 6/9)",
+"kanit": "51-disiplin cezaları.txt | Mevzuata aykırı işlem ve eylemlerin aynı zamanda bir adli kovuşturma konusu olması halinde, bu aykırılık için Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre disiplin cezası verilebilir. || 51-disiplin cezaları.txt | tedbir mahiyetinde en fazla altı ay süre ile geçici olarak alınır ve gümrüklerde iş takip etmelerine izin verilmez. || 51-disiplin cezaları.txt | Türk Ceza Kanununun Devlet memurlarına ait hükümleri uyarınca cezalandırılır. || 51-disiplin cezaları.txt | Bakanlık müfettişleri ve gümrük ve dış ticaret bölge müdürleri tarafından gerek görülmesi hâlinde tedbir mahiyetinde",
 "batch": "K13",
 "no": 24,
 "harf": "E",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre aykırılık aynı zamanda adli kovuşturma konusu ise disiplin cezası Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre verilebilir (I); meslek mensupları görevleri sırasında veya sebebiyle işledikleri suçlardan dolayı Türk Ceza Kanununun Devlet memurlarına ait hükümleri uyarınca cezalandırılır (III); izin belgelerini tedbiren almaya Bakanlık müfettişleri ile gümrük ve dış ticaret bölge müdürleri yetkilidir (IV). Üç yıllık dönemde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunana her yeni suçu için bir öncekinden daha ağır ceza uygulanabileceğinden II yanlıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GK Geçici 6/4, 6/6, 6/7, 6/9)"
+"g_harfli": "Kanuna göre aykırılık aynı zamanda adli kovuşturma konusu ise disiplin cezası Türk Ceza Kanununda öngörülen zamanaşımı hükümlerine göre verilebilir (I); meslek mensupları görevleri sırasında veya sebebiyle işledikleri suçlardan dolayı Türk Ceza Kanununun Devlet memurlarına ait hükümleri uyarınca cezalandırılır (III); izin belgelerini tedbiren almaya Bakanlık müfettişleri ile gümrük ve dış ticaret bölge müdürleri yetkilidir (IV). İzin belgeleri tedbiren alınanların bu süre içinde gümrüklerde iş takip etmelerine izin verilmediğinden, başlanmış işlemleri sonuçlandırmaya yönelik bir istisna da öngörülmediğinden II yanlıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GK Geçici 6/6, 6/7, 6/9)"
 },
 {
 "id": "D8-025",
@@ -870,26 +870,26 @@
 "d": "(L)'ye ilk defasında kınama cezası verilir; sahte belgeye dayalı yanlış beyan durumunun tekerrür etmesi hâlinde ise (L) hakkında geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır.",
 "c": [
 "(L)'ye ilk defasında yazılı olarak uyarma cezası verilir; sahte belgeye dayalı yanlış beyan durumunun tekerrür etmesi hâlinde ise (L) hakkında kınama cezası uygulanır.",
-"(L)'nin bilgisi dışında gerçekleşen yanlış beyan nedeniyle (L) hakkında disiplin cezası uygulanamaz; ancak aynı durumun tekerrürü hâlinde (L)'ye ilk defa olarak kınama cezası verilir.",
+"(L)'nin bilgisi dışındaki yanlış beyan nedeniyle ilk defasında (L) hakkında disiplin cezası uygulanamaz; aynı durumun tekerrürü hâlinde ise (L)'ye yazılı olarak uyarma cezası verilir.",
 "(L)'ye ilk defasında geçici olarak mesleki faaliyetten alıkoyma cezası verilir; bu durumun tekerrür etmesi hâlinde ise (L) hakkında doğrudan meslekten çıkarma cezası uygulanır.",
 "(L)'ye sahte belgeye dayanılmış olması nedeniyle doğrudan meslekten çıkarma cezası verilir ve izin belgesi geri alınarak bu mesleği bir daha icra etmesine izin verilmez."
 ],
 "tuzak": true,
-"g": "Kanuna göre sahte belgelere dayanılarak yanlış beyanda bulunulduğunun, bu durumun gümrük müşavirinin bilgisi dışında olduğunun, ancak bir araştırma sonucunda gerçek durumun öğrenilebileceğinin merkez denetim elemanlarınca rapora bağlandığı durumlarda ilk defasında kınama, tekerrüründe geçici olarak mesleki faaliyetten alıkoyma cezası verilir. İlk defasında uyarma, tekrarında kınama sıralaması mesleki kurallara aykırı fiillere; meslekten çıkarma ise kaçakçılık suçundan mahkûmiyeti kesinleşenlere ilişkindir. (MD GK Geçici 6/3)",
+"g": "Kanuna göre sahte belgelere dayanılarak yanlış beyanda bulunulduğunun, bu durumun gümrük müşavirinin bilgisi dışında olduğunun, ancak bir araştırma sonucunda gerçek durumun öğrenilebileceğinin merkez denetim elemanlarınca rapora bağlandığı durumlarda ilk defasında kınama, tekerrüründe geçici olarak mesleki faaliyetten alıkoyma cezası verilir; durumun müşavirin bilgisi dışında olması ilk tespitte cezasız kalmayı sağlamaz. İlk defasında uyarma, tekrarında kınama sıralaması mesleki kurallara aykırı fiillere; meslekten çıkarma ise kaçakçılık suçundan mahkûmiyeti kesinleşenlere ilişkindir. (MD GK Geçici 6/3)",
 "kanit": "51-disiplin cezaları.txt | Sahte belgelere dayanılarak yanlış beyanda bulunulduğunun, ancak bu durumun gümrük müşavirinin bilgisi dışında olduğunun, bununla birlikte, bir araştırma sonucunda gerçek durumun öğrenilebileceğinin || 51-disiplin cezaları.txt | ilgili gümrük müşavirine ilk defasında kınama cezası verilir. Bu hususun tekerrür etmesi halinde geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır.",
 "batch": "K13",
 "no": 25,
 "harf": "D",
 "opts": [
 "(L)'ye ilk defasında yazılı olarak uyarma cezası verilir; sahte belgeye dayalı yanlış beyan durumunun tekerrür etmesi hâlinde ise (L) hakkında kınama cezası uygulanır.",
-"(L)'nin bilgisi dışında gerçekleşen yanlış beyan nedeniyle (L) hakkında disiplin cezası uygulanamaz; ancak aynı durumun tekerrürü hâlinde (L)'ye ilk defa olarak kınama cezası verilir.",
+"(L)'nin bilgisi dışındaki yanlış beyan nedeniyle ilk defasında (L) hakkında disiplin cezası uygulanamaz; aynı durumun tekerrürü hâlinde ise (L)'ye yazılı olarak uyarma cezası verilir.",
 "(L)'ye ilk defasında geçici olarak mesleki faaliyetten alıkoyma cezası verilir; bu durumun tekerrür etmesi hâlinde ise (L) hakkında doğrudan meslekten çıkarma cezası uygulanır.",
 "(L)'ye ilk defasında kınama cezası verilir; sahte belgeye dayalı yanlış beyan durumunun tekerrür etmesi hâlinde ise (L) hakkında geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır.",
 "(L)'ye sahte belgeye dayanılmış olması nedeniyle doğrudan meslekten çıkarma cezası verilir ve izin belgesi geri alınarak bu mesleği bir daha icra etmesine izin verilmez."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre sahte belgelere dayanılarak yanlış beyanda bulunulduğunun, bu durumun gümrük müşavirinin bilgisi dışında olduğunun, ancak bir araştırma sonucunda gerçek durumun öğrenilebileceğinin merkez denetim elemanlarınca rapora bağlandığı durumlarda ilk defasında kınama, tekerrüründe geçici olarak mesleki faaliyetten alıkoyma cezası verilir. İlk defasında uyarma, tekrarında kınama sıralaması mesleki kurallara aykırı fiillere; meslekten çıkarma ise kaçakçılık suçundan mahkûmiyeti kesinleşenlere ilişkindir. Bu nedenle doğru cevap D seçeneğidir. (MD GK Geçici 6/3)"
+"g_harfli": "Kanuna göre sahte belgelere dayanılarak yanlış beyanda bulunulduğunun, bu durumun gümrük müşavirinin bilgisi dışında olduğunun, ancak bir araştırma sonucunda gerçek durumun öğrenilebileceğinin merkez denetim elemanlarınca rapora bağlandığı durumlarda ilk defasında kınama, tekerrüründe geçici olarak mesleki faaliyetten alıkoyma cezası verilir; durumun müşavirin bilgisi dışında olması ilk tespitte cezasız kalmayı sağlamaz. İlk defasında uyarma, tekrarında kınama sıralaması mesleki kurallara aykırı fiillere; meslekten çıkarma ise kaçakçılık suçundan mahkûmiyeti kesinleşenlere ilişkindir. Bu nedenle doğru cevap D seçeneğidir. (MD GK Geçici 6/3)"
 },
 {
 "id": "D8-026",
@@ -904,9 +904,9 @@
 ],
 "d": "Yedi gün içerisinde, bilgilerin sistem aracılığıyla güncellenmesi için Bakanlığa",
 "c": [
-"Bir ay içerisinde, bilgilerin sistem aracılığıyla güncellenmesi için Bakanlığa",
-"On iş günü içerisinde, bilgilerin sistem aracılığıyla güncellenmesi için Bakanlığa",
 "Yedi gün içerisinde, gümrük müşavirleri derneği vasıtasıyla bağlı bulunulan başmüdürlüğe",
+"On iş günü içerisinde, bilgilerin sistem aracılığıyla güncellenmesi için Bakanlığa",
+"On iş günü içerisinde, gümrük müşavirleri derneği vasıtasıyla başmüdürlüğe",
 "Her yılın ikinci ayı içerisinde, gümrük müşavirleri derneği vasıtasıyla başmüdürlüğe"
 ],
 "tuzak": false,
@@ -916,10 +916,10 @@
 "no": 26,
 "harf": "C",
 "opts": [
-"Bir ay içerisinde, bilgilerin sistem aracılığıyla güncellenmesi için Bakanlığa",
+"Yedi gün içerisinde, gümrük müşavirleri derneği vasıtasıyla bağlı bulunulan başmüdürlüğe",
 "On iş günü içerisinde, bilgilerin sistem aracılığıyla güncellenmesi için Bakanlığa",
 "Yedi gün içerisinde, bilgilerin sistem aracılığıyla güncellenmesi için Bakanlığa",
-"Yedi gün içerisinde, gümrük müşavirleri derneği vasıtasıyla bağlı bulunulan başmüdürlüğe",
+"On iş günü içerisinde, gümrük müşavirleri derneği vasıtasıyla başmüdürlüğe",
 "Her yılın ikinci ayı içerisinde, gümrük müşavirleri derneği vasıtasıyla başmüdürlüğe"
 ],
 "blok": "GÜMRÜK",
@@ -932,34 +932,34 @@
 "konu": "Disiplin",
 "tip": "T1",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu geçici m.6/2-3; Gümrük Yönetmeliği m.578/3; Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ m.5/1-g",
-"cek": "Geçici olarak mesleki faaliyetten alıkoyma cezasında mesleki sıfat saklı kalır; ceza süresince sıfatın kaldırılması öngörülmez.",
+"madde": "4458 sayılı Gümrük Kanunu geçici m.6/2, 6/4; Gümrük Yönetmeliği m.578/3; Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ m.5/1-g",
+"cek": "Üç yıllık dönemde iki veya daha fazla disiplin cezası gerektiren davranışta bulunana her yeni suçu için öncekinden ağır ceza uygulanabilir; süre beş yıl değildir.",
 "kok": [
 "Gümrük mevzuatına göre meslek mensuplarına uygulanan disiplin cezalarına ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
-"d": "Geçici olarak mesleki faaliyetten alıkoyma cezası, ceza süresince meslek mensubunun mesleki sıfatının da kaldırılması şartıyla mesleki faaliyetten alıkonulmasını ifade eden disiplin cezasıdır.",
+"d": "Beş yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir.",
 "c": [
-"Görevini bağımsızlık, tarafsızlık ve dürüstlükle yapmayan veya kusurlu olarak yapan ya da mesleğin genel prensiplerine aykırı harekette bulunan meslek mensupları için geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır.",
+"Meslek mensubu hakkında takibat yapılması ve hüküm tesis edilmesi, aynı meslek mensubu hakkında disiplin soruşturması yapılmasına ve disiplin cezası uygulanmasına engel teşkil etmez.",
 "Disiplin cezaları, gümrük müşavirliği hizmetlerinin gereği gibi yürütülmesi amacıyla durumun niteliğine ve ağırlık derecesine göre mesleğin vakar ve onuruna aykırı hareket eden meslek mensuplarına verilir.",
 "Yetkilendirilmiş gümrük müşavirinin yetki belgesinin geri alınması, ayrıca Gümrük Kanunu uyarınca meslek mensubu hakkında disiplin cezası verilmesine engel teşkil etmez.",
 "Gümrük müşavirleri dernekleri, Asgari Ücret Tarifesi altında iş kabul edenler hakkında yasal işlem yapılması için her türlü tedbiri almak ve ilgilileri Bakanlığa bildirmekle yükümlüdür."
 ],
 "tuzak": false,
-"g": "Kanuna göre geçici olarak mesleki faaliyetten alıkoyma, mesleki sıfatı saklı kalmak şartıyla meslek mensubunun mesleki faaliyetten alıkonulmasıdır; ceza süresince mesleki sıfatın kaldırılması söz konusu değildir. Bağımsızlık, tarafsızlık ve dürüstlük ilkelerine aykırılıkta geçici alıkoyma uygulanacağı, yetki belgesinin geri alınmasının disiplin cezasına engel olmadığı ve derneklerin Asgari Ücret Tarifesi altında iş kabul edenler hakkında tedbir alıp Bakanlığa bildirimde bulunmakla yükümlü olduğu ifadeleri mevzuata uygundur. (MD GK Geçici 6/2-3; GY 578/3; Asgari Ücret Tebliği 5/1-g)",
-"kanit": "51-disiplin cezaları.txt | Geçici olarak mesleki faaliyetten alıkoyma: Mesleki sıfatı saklı kalmak şartıyla || 31-YGM.txt | Yetkilendirilmiş gümrük müşavirlerinin yetki belgesinin geri alınması, ayrıca Kanunun geçici 6 ncı maddesi uyarınca disiplin cezası verilmesine engel teşkil etmez. || 51-disiplin cezaları.txt | Gümrük Müşavirleri Dernekleri, Asgari Ücret Tarifesine uyulması ve bu Asgari Ücret Tarifesi altında iş kabul edenler hakkında yasal işlem yapılması hususlarında her türlü tedbiri almak ve ilgililer hakkında Bakanlığa bildirimde bulunmakla yükümlüdür.",
+"g": "Kanuna göre her yeni suç için bir öncekinden daha ağır ceza uygulanabilmesi, üç yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunulmasına bağlıdır; beş yıllık dönem ölçütü, iki defa geçici alıkoyma cezası alanın aynı fiili yeniden işlemesinde meslekten çıkarma için öngörülmüştür. Takibat ve hüküm tesisinin disiplin soruşturmasına engel olmadığı, yetki belgesinin geri alınmasının disiplin cezasına engel teşkil etmediği ve derneklerin Asgari Ücret Tarifesi altında iş kabul edenler hakkında tedbir alıp Bakanlığa bildirimde bulunmakla yükümlü olduğu ifadeleri mevzuata uygundur. (MD GK Geçici 6/2, 6/4; GY 578/3; Asgari Ücret Tebliği 5/1-g)",
+"kanit": "51-disiplin cezaları.txt | Üç yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir. || 51-disiplin cezaları.txt | Takibat ve hüküm tesisi, disiplin soruşturması yapılmasına ve disiplin cezası uygulanmasına engel değildir. || 31-YGM.txt | Yetkilendirilmiş gümrük müşavirlerinin yetki belgesinin geri alınması, ayrıca Kanunun geçici 6 ncı maddesi uyarınca disiplin cezası verilmesine engel teşkil etmez. || 51-disiplin cezaları.txt | Gümrük Müşavirleri Dernekleri, Asgari Ücret Tarifesine uyulması ve bu Asgari Ücret Tarifesi altında iş kabul edenler hakkında yasal işlem yapılması hususlarında her türlü tedbiri almak ve ilgililer hakkında Bakanlığa bildirimde bulunmakla yükümlüdür.",
 "batch": "K13",
 "no": 27,
 "harf": "D",
 "opts": [
-"Görevini bağımsızlık, tarafsızlık ve dürüstlükle yapmayan veya kusurlu olarak yapan ya da mesleğin genel prensiplerine aykırı harekette bulunan meslek mensupları için geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır.",
+"Meslek mensubu hakkında takibat yapılması ve hüküm tesis edilmesi, aynı meslek mensubu hakkında disiplin soruşturması yapılmasına ve disiplin cezası uygulanmasına engel teşkil etmez.",
 "Disiplin cezaları, gümrük müşavirliği hizmetlerinin gereği gibi yürütülmesi amacıyla durumun niteliğine ve ağırlık derecesine göre mesleğin vakar ve onuruna aykırı hareket eden meslek mensuplarına verilir.",
 "Yetkilendirilmiş gümrük müşavirinin yetki belgesinin geri alınması, ayrıca Gümrük Kanunu uyarınca meslek mensubu hakkında disiplin cezası verilmesine engel teşkil etmez.",
-"Geçici olarak mesleki faaliyetten alıkoyma cezası, ceza süresince meslek mensubunun mesleki sıfatının da kaldırılması şartıyla mesleki faaliyetten alıkonulmasını ifade eden disiplin cezasıdır.",
+"Beş yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir.",
 "Gümrük müşavirleri dernekleri, Asgari Ücret Tarifesi altında iş kabul edenler hakkında yasal işlem yapılması için her türlü tedbiri almak ve ilgilileri Bakanlığa bildirmekle yükümlüdür."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre geçici olarak mesleki faaliyetten alıkoyma, mesleki sıfatı saklı kalmak şartıyla meslek mensubunun mesleki faaliyetten alıkonulmasıdır; ceza süresince mesleki sıfatın kaldırılması söz konusu değildir. Bağımsızlık, tarafsızlık ve dürüstlük ilkelerine aykırılıkta geçici alıkoyma uygulanacağı, yetki belgesinin geri alınmasının disiplin cezasına engel olmadığı ve derneklerin Asgari Ücret Tarifesi altında iş kabul edenler hakkında tedbir alıp Bakanlığa bildirimde bulunmakla yükümlü olduğu ifadeleri mevzuata uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD GK Geçici 6/2-3; GY 578/3; Asgari Ücret Tebliği 5/1-g)"
+"g_harfli": "Kanuna göre her yeni suç için bir öncekinden daha ağır ceza uygulanabilmesi, üç yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunulmasına bağlıdır; beş yıllık dönem ölçütü, iki defa geçici alıkoyma cezası alanın aynı fiili yeniden işlemesinde meslekten çıkarma için öngörülmüştür. Takibat ve hüküm tesisinin disiplin soruşturmasına engel olmadığı, yetki belgesinin geri alınmasının disiplin cezasına engel teşkil etmediği ve derneklerin Asgari Ücret Tarifesi altında iş kabul edenler hakkında tedbir alıp Bakanlığa bildirimde bulunmakla yükümlü olduğu ifadeleri mevzuata uygundur. Bu nedenle doğru cevap D seçeneğidir. (MD GK Geçici 6/2, 6/4; GY 578/3; Asgari Ücret Tebliği 5/1-g)"
 },
 {
 "id": "D8-028",
@@ -1117,27 +1117,27 @@
 ],
 "d": "AN7, AN8 ve AN9 – AN6, AN7 ve AN9",
 "c": [
+"AN7, AN8 ve AN9 – AN5, AN6 ve AN7",
+"AN5, AN8 ve AN9 – AN6, AN7 ve AN9",
 "AN6, AN7 ve AN9 – AN7, AN8 ve AN9",
-"AN7, AN8 ve AN9 – AN6, AN8 ve AN9",
-"AN6, AN8 ve AN9 – AN6, AN7 ve AN9",
-"AN7, AN8 ve AN9 – AN6, AN7, AN8 ve AN9"
+"AN5, AN7, AN8 ve AN9 – AN5, AN6 ve AN7"
 ],
 "tuzak": false,
-"g": "Tebliğe göre genel antrepolarda AN7, AN8 ve AN9, özel antrepolarda ise AN6, AN7 ve AN9 tespit işlemlerinin aynı yetkilendirilmiş gümrük müşavirince yapılması zorunludur; bunlar dışındaki tespitler için yükümlü aynı veya başka bir müşavirle sözleşme yapabilir. AN8 genel antrepoya, AN6 özel antrepoya eşya giriş çıkışına ilişkin olduğundan bu kodların yer değiştirildiği eşleşmeler yanlıştır. (MD YGM Tebliği 13/1-ı)",
+"g": "Tebliğe göre genel antrepolarda AN7, AN8 ve AN9, özel antrepolarda ise AN6, AN7 ve AN9 tespit işlemlerinin aynı yetkilendirilmiş gümrük müşavirince yapılması zorunludur; bunlar dışındaki tespitler için yükümlü aynı veya başka bir müşavirle sözleşme yapabilir. Stok tespiti (AN7) ve elleçleme tespiti (AN9) her iki antrepo türünde de bu zorunluluğa dâhildir; antreponun devrinin incelenmesine ilişkin AN5 ise kapsamda değildir. AN8 genel antrepoya, AN6 özel antrepoya ilişkin olduğundan bu kodların yer değiştirdiği eşleşme de yanlıştır. (MD YGM Tebliği 13/1-ı)",
 "kanit": "31-YGM.txt | Genel antrepolarda AN7, AN8 ve AN9 tespit işlemleri, özel antrepolarda ise AN6, AN7 ve AN9 tespit işlemlerinin aynı yetkilendirilmiş gümrük müşavirince yapılması zorunludur.",
 "batch": "K13",
 "no": 32,
 "harf": "E",
 "opts": [
+"AN7, AN8 ve AN9 – AN5, AN6 ve AN7",
+"AN5, AN8 ve AN9 – AN6, AN7 ve AN9",
 "AN6, AN7 ve AN9 – AN7, AN8 ve AN9",
-"AN7, AN8 ve AN9 – AN6, AN8 ve AN9",
-"AN6, AN8 ve AN9 – AN6, AN7 ve AN9",
-"AN7, AN8 ve AN9 – AN6, AN7, AN8 ve AN9",
+"AN5, AN7, AN8 ve AN9 – AN5, AN6 ve AN7",
 "AN7, AN8 ve AN9 – AN6, AN7 ve AN9"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre genel antrepolarda AN7, AN8 ve AN9, özel antrepolarda ise AN6, AN7 ve AN9 tespit işlemlerinin aynı yetkilendirilmiş gümrük müşavirince yapılması zorunludur; bunlar dışındaki tespitler için yükümlü aynı veya başka bir müşavirle sözleşme yapabilir. AN8 genel antrepoya, AN6 özel antrepoya eşya giriş çıkışına ilişkin olduğundan bu kodların yer değiştirildiği eşleşmeler yanlıştır. Bu nedenle doğru cevap E seçeneğidir. (MD YGM Tebliği 13/1-ı)"
+"g_harfli": "Tebliğe göre genel antrepolarda AN7, AN8 ve AN9, özel antrepolarda ise AN6, AN7 ve AN9 tespit işlemlerinin aynı yetkilendirilmiş gümrük müşavirince yapılması zorunludur; bunlar dışındaki tespitler için yükümlü aynı veya başka bir müşavirle sözleşme yapabilir. Stok tespiti (AN7) ve elleçleme tespiti (AN9) her iki antrepo türünde de bu zorunluluğa dâhildir; antreponun devrinin incelenmesine ilişkin AN5 ise kapsamda değildir. AN8 genel antrepoya, AN6 özel antrepoya ilişkin olduğundan bu kodların yer değiştirdiği eşleşme de yanlıştır. Bu nedenle doğru cevap E seçeneğidir. (MD YGM Tebliği 13/1-ı)"
 },
 {
 "id": "D8-033",
@@ -1217,34 +1217,34 @@
 "konu": "Antrepo",
 "tip": "T7",
 "z": "Z",
-"madde": "Gümrük Yönetmeliği m.334/4",
-"cek": "Savunma sanayi ve havacılıkta kullanılan eşyanın antrepoda ek-63 elleçlemesine, tarife faslı değişmemek şartıyla Bakanlıkça izin verilir.",
+"madde": "Gümrük Yönetmeliği m.336/1-2",
+"cek": "Antrepodaki serbest dolaşımda olmayan eşyanın karıştırılması veya montajıyla elde edilen ürünün transitine antreponun bağlı bulunduğu gümrük müdürlüğünce izin verilebilir.",
 "kok": [
-"Gümrük Yönetmeliğine göre, savunma sanayiinde kullanılan eşyanın antrepoda elleçlenmesine hangi şartla ve kim izin verir?"
+"Gümrük Yönetmeliğine göre, antrepoda karıştırma veya montajla elde edilen ürünün transitine kim izin verebilir?"
 ],
-"d": "Tarife faslı değişmemek şartıyla Bakanlık",
+"d": "Antreponun bağlı bulunduğu gümrük müdürlüğü",
 "c": [
-"Tarife faslı değişmemek şartıyla denetleyici gümrük müdürlüğü",
-"Tarife pozisyonu değişmemek şartıyla Bakanlık",
-"Tarife faslına bakılmaksızın Bakanlık",
-"Tarife faslı değişmeksizin bölge müdürlüğü"
+"Antreponun bağlı bulunduğu gümrük ve dış ticaret bölge müdürlüğü",
+"Transitin varış yerindeki gümrük müdürlüğü",
+"Transitin varış yerindeki bölge müdürlüğü",
+"Bakanlık (Gümrükler Genel Müdürlüğü)"
 ],
 "tuzak": false,
-"g": "Türk Gümrük Tarife Cetvelindeki faslı değişmemek şartıyla, savunma sanayi ve havacılık sektöründe kullanılan eşyanın ek-63’te belirtilen elleçleme faaliyetlerine tabi tutulmasına Bakanlıkça izin verilir. Genel elleçleme başvurularını sonuçlandıran denetleyici gümrük müdürlüğü veya bölge müdürlüğü bu özel durumda yetkili değildir; ölçüt de pozisyon değil fasıldır. (MD GY 334/4)",
-"kanit": "28-antrepo rejimi.txt | Türk Gümrük Tarife Cetvelindeki faslı değişmemek şartıyla, savunma sanayi ve havacılık sektöründe kullanılan eşyanın ek-63'te belirtilen elleçleme faaliyetlerine tabi tutulmasına Bakanlıkça izin verilebilir",
+"g": "Antrepoya alınmış serbest dolaşımda olmayan eşyanın menşelerine bakılmaksızın birbirleriyle veya serbest dolaşımdaki eşyayla karıştırılması ya da montajı sonucu elde edilen ürünün transit olarak gönderilmesine antreponun bağlı bulunduğu gümrük müdürlüğünce izin verilebilir. İzin; yanlış menşe gösterme gibi hilelere yol açmama, işlemin stok kayıtlarında ayrıntılı yer alması gibi şartlara bağlıdır, ancak bölge müdürlüğünün veya Bakanlığın onayı ya da transitin varış idaresinin izni öngörülmemiştir. (MD GY 336/1-2)",
+"kanit": "28-antrepo rejimi.txt | Antrepoya alınmış serbest dolaşımda olmayan eşyanın, menşelerine bakılmaksızın birbirleriyle veya serbest dolaşımda bulunan eşya ile karıştırılması veya montajı sonucu elde edilen ürünün transit olarak gönderilmesine antreponun bağlı bulunduğu gümrük müdürlüğünce izin verilebilir",
 "batch": "K08",
 "no": 35,
 "harf": "B",
 "opts": [
-"Tarife faslı değişmemek şartıyla denetleyici gümrük müdürlüğü",
-"Tarife faslı değişmemek şartıyla Bakanlık",
-"Tarife pozisyonu değişmemek şartıyla Bakanlık",
-"Tarife faslına bakılmaksızın Bakanlık",
-"Tarife faslı değişmeksizin bölge müdürlüğü"
+"Antreponun bağlı bulunduğu gümrük ve dış ticaret bölge müdürlüğü",
+"Antreponun bağlı bulunduğu gümrük müdürlüğü",
+"Transitin varış yerindeki gümrük müdürlüğü",
+"Transitin varış yerindeki bölge müdürlüğü",
+"Bakanlık (Gümrükler Genel Müdürlüğü)"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Türk Gümrük Tarife Cetvelindeki faslı değişmemek şartıyla, savunma sanayi ve havacılık sektöründe kullanılan eşyanın ek-63’te belirtilen elleçleme faaliyetlerine tabi tutulmasına Bakanlıkça izin verilir. Genel elleçleme başvurularını sonuçlandıran denetleyici gümrük müdürlüğü veya bölge müdürlüğü bu özel durumda yetkili değildir; ölçüt de pozisyon değil fasıldır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 334/4)"
+"g_harfli": "Antrepoya alınmış serbest dolaşımda olmayan eşyanın menşelerine bakılmaksızın birbirleriyle veya serbest dolaşımdaki eşyayla karıştırılması ya da montajı sonucu elde edilen ürünün transit olarak gönderilmesine antreponun bağlı bulunduğu gümrük müdürlüğünce izin verilebilir. İzin; yanlış menşe gösterme gibi hilelere yol açmama, işlemin stok kayıtlarında ayrıntılı yer alması gibi şartlara bağlıdır, ancak bölge müdürlüğünün veya Bakanlığın onayı ya da transitin varış idaresinin izni öngörülmemiştir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 336/1-2)"
 },
 {
 "id": "D8-036",
@@ -1287,34 +1287,34 @@
 "konu": "Geçici İthalat",
 "tip": "T3",
 "z": "OÜ",
-"madde": "Gümrük Yönetmeliği m.380/1-2",
-"cek": "İzin süresi bittikten sonra ek süre istenirse varsa alınacak ithalat vergileri izin süresinin bitiş tarihinden itibaren hesaplanır; cezai hükümler saklıdır.",
+"madde": "Gümrük Yönetmeliği m.380/4; m.380/5",
+"cek": "Kiralık geçici ithal hava taşıtının iadesi için teknik bakımda geçen süre bakım başında durdurulur; bakımın bittiği tarihten itibaren kalan süre verilir.",
 "kok": [
-"Gümrük Yönetmeliğine göre, izin süresi bittikten sonra ek süre istenen geçici ithal eşyasında ithalat vergileri hangi tarihten hesaplanır?"
+"Gümrük Yönetmeliğine göre, kiralık geçici ithal hava taşıtının iade öncesi teknik bakımı rejim süresine nasıl yansır?"
 ],
-"d": "Gümrük idaresince verilen izin süresinin bitiş tarihinden itibaren",
+"d": "Bakımın başladığı tarihte durdurulur; bittiği tarihten itibaren kalan süre verilir",
 "c": [
-"Ek süre talebinin gümrük idaresine yapıldığı tarihten itibaren",
-"Ek süre talebinin gümrük idaresince kabul edildiği tarihten itibaren",
-"Geçici ithalat beyannamesinin tescil edildiği tarihten itibaren",
-"Eşyanın yükümlüsüne teslim edildiği tarihten itibaren"
+"Bakımın başladığı tarihte durdurulur; bittiği tarihten itibaren dokuz ay ek süre verilir",
+"Süre işlemeye devam eder; bakımın bittiği tarihten itibaren kalan süre kullanılır",
+"Süre işlemeye devam eder; bakımın bittiği tarihten itibaren dokuz ay ek süre verilir",
+"Bakımın bittiği tarihten itibaren yeniden yirmi dört aylık rejim süresi verilir"
 ],
 "tuzak": false,
-"g": "İzin hak sahibi süre bitiminden sonra da ek süre talep edebilir; bu durumda cezai hükümler saklı kalmak kaydıyla varsa alınması gereken ithalat vergileri, gümrük idaresince verilen izin süresinin bitiş tarihinden itibaren hesaplanır. Başvuru veya kabul tarihi esas alınmaz; eşyanın yükümlüsüne teslim edildiği tarih ise rejimde kalma süresinin hesabında esas alınan tarihtir. (MD GY 380/1-2)",
-"kanit": "34-GEÇİCİ İTHALAT.txt | Gümrük idaresince verilen izin süresinin bitiminden sonra yapılan müracaatlarda, cezai hükümler saklı kalmak kaydıyla varsa alınması gereken ithalat vergileri bu sürenin bitiş tarihinden itibaren hesaplanır",
+"g": "Geçici ithal eşyasının yurt dışı edilmesi için gereken belgelerin alınması ya da kiralama kapsamındaki hava taşıtları ve motorlarının iadesi için gereken teknik bakım süreci sırasında geçen süre, işlemin başladığı tarihte durdurularak rejimde kalış süresinin hesabında dikkate alınmaz; işlemin sonuçlandığı tarihten itibaren kalan süre verilir. Süre bakım sırasında işlemeye devam etmez, bakım sonunda yeni bir yirmi dört aylık süre de başlamaz; dokuz aylık uzatma ise kısmi muafiyetle geçici ithal edilen belirli eşyaya özgü ayrı bir düzenlemedir. (MD GY 380/4, 380/5)",
+"kanit": "34-GEÇİCİ İTHALAT.txt | kiralama kapsamı hava taşıtlarının ve motorlarının iadesi için gereken teknik bakım süreci sırasında geçen süreler, işlem tarihinin başladığı tarihte durdurularak rejimde kalış süresinin hesaplanmasında göz önünde bulundurulmaz ve işlemin sonuçlandığı tarihten itibaren kalan süre verilir || 34-GEÇİCİ İTHALAT.txt | rejime giriş gümrük idaresince geçici ithalat izin süresi dokuz ay uzatılır",
 "batch": "K08",
 "no": 37,
 "harf": "E",
 "opts": [
-"Ek süre talebinin gümrük idaresine yapıldığı tarihten itibaren",
-"Ek süre talebinin gümrük idaresince kabul edildiği tarihten itibaren",
-"Geçici ithalat beyannamesinin tescil edildiği tarihten itibaren",
-"Eşyanın yükümlüsüne teslim edildiği tarihten itibaren",
-"Gümrük idaresince verilen izin süresinin bitiş tarihinden itibaren"
+"Bakımın başladığı tarihte durdurulur; bittiği tarihten itibaren dokuz ay ek süre verilir",
+"Süre işlemeye devam eder; bakımın bittiği tarihten itibaren kalan süre kullanılır",
+"Süre işlemeye devam eder; bakımın bittiği tarihten itibaren dokuz ay ek süre verilir",
+"Bakımın bittiği tarihten itibaren yeniden yirmi dört aylık rejim süresi verilir",
+"Bakımın başladığı tarihte durdurulur; bittiği tarihten itibaren kalan süre verilir"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "İzin hak sahibi süre bitiminden sonra da ek süre talep edebilir; bu durumda cezai hükümler saklı kalmak kaydıyla varsa alınması gereken ithalat vergileri, gümrük idaresince verilen izin süresinin bitiş tarihinden itibaren hesaplanır. Başvuru veya kabul tarihi esas alınmaz; eşyanın yükümlüsüne teslim edildiği tarih ise rejimde kalma süresinin hesabında esas alınan tarihtir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 380/1-2)"
+"g_harfli": "Geçici ithal eşyasının yurt dışı edilmesi için gereken belgelerin alınması ya da kiralama kapsamındaki hava taşıtları ve motorlarının iadesi için gereken teknik bakım süreci sırasında geçen süre, işlemin başladığı tarihte durdurularak rejimde kalış süresinin hesabında dikkate alınmaz; işlemin sonuçlandığı tarihten itibaren kalan süre verilir. Süre bakım sırasında işlemeye devam etmez, bakım sonunda yeni bir yirmi dört aylık süre de başlamaz; dokuz aylık uzatma ise kısmi muafiyetle geçici ithal edilen belirli eşyaya özgü ayrı bir düzenlemedir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 380/4, 380/5)"
 },
 {
 "id": "D8-038",
@@ -1368,11 +1368,11 @@
 "c": [
 "ilgilinin talebi üzerine – ihale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı",
 "re'sen – eşyanın ihale yoluyla satışının tamamlandığı veya tahsis edilen kuruma teslim edildiği",
-"ilgilinin talebi üzerine – tespit ve tahakkuk belgesinin işletme müdürlüğüne gönderildiği",
-"re'sen – tespit ve tahakkuk belgesinin ilgiliye tebliğ edildiği"
+"ilgilinin talebi üzerine – eşyanın ihale yoluyla satışının tamamlandığı veya tahsis edilen kuruma teslim edildiği",
+"idarece gerekli görülürse – tespit ve tahakkuk belgesinin ilgiliye tebliğ edildiği"
 ],
 "tuzak": false,
-"g": "Tasfiyelik tespitinde yirmi ve kırk beş günlük süreler ile durdurulan süreler re'sen dikkate alınır; ilgilinin vaktinde bilgi vermemesi nedeniyle düzenlenen tespit ve tahakkuk belgeleri, ihale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı tarihe kadar yapılan başvuru üzerine süreyi durduran sebeplerin varlığı anlaşılırsa iptal edilir. Bu tarihten sonra yapılan başvurular değerlendirilmez; sürelerin dikkate alınması da ilgilinin talebine bağlı değildir. (MD GY 76/2)",
+"g": "Tasfiyelik tespitinde yirmi ve kırk beş günlük süreler ile durdurulan süreler re'sen dikkate alınır; ilgilinin vaktinde bilgi vermemesi nedeniyle düzenlenen tespit ve tahakkuk belgeleri, ihale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı tarihe kadar yapılan başvuru üzerine süreyi durduran sebeplerin varlığı anlaşılırsa iptal edilir. Başvuru için son an satışın tamamlanması, tahsis edilen kuruma teslim veya belgenin tebliği olarak öngörülmemiştir; sürelerin dikkate alınması da ilgilinin talebine ya da idarenin takdirine bağlı değildir. (MD GY 76/2)",
 "kanit": "16-GOBİK VE SAHTE EŞYA.txt | yirmi ve kırkbeş günlük süreler ile yukarıda belirtilen süreler re'sen dikkate alınır || 16-GOBİK VE SAHTE EŞYA.txt | ihale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı tarihe kadar yapılan bir başvuru sonucunda",
 "batch": "K04",
 "no": 39,
@@ -1380,13 +1380,13 @@
 "opts": [
 "ilgilinin talebi üzerine – ihale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı",
 "re'sen – eşyanın ihale yoluyla satışının tamamlandığı veya tahsis edilen kuruma teslim edildiği",
-"ilgilinin talebi üzerine – tespit ve tahakkuk belgesinin işletme müdürlüğüne gönderildiği",
+"ilgilinin talebi üzerine – eşyanın ihale yoluyla satışının tamamlandığı veya tahsis edilen kuruma teslim edildiği",
 "re'sen – ihale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı",
-"re'sen – tespit ve tahakkuk belgesinin ilgiliye tebliğ edildiği"
+"idarece gerekli görülürse – tespit ve tahakkuk belgesinin ilgiliye tebliğ edildiği"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tasfiyelik tespitinde yirmi ve kırk beş günlük süreler ile durdurulan süreler re'sen dikkate alınır; ilgilinin vaktinde bilgi vermemesi nedeniyle düzenlenen tespit ve tahakkuk belgeleri, ihale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı tarihe kadar yapılan başvuru üzerine süreyi durduran sebeplerin varlığı anlaşılırsa iptal edilir. Bu tarihten sonra yapılan başvurular değerlendirilmez; sürelerin dikkate alınması da ilgilinin talebine bağlı değildir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 76/2)"
+"g_harfli": "Tasfiyelik tespitinde yirmi ve kırk beş günlük süreler ile durdurulan süreler re'sen dikkate alınır; ilgilinin vaktinde bilgi vermemesi nedeniyle düzenlenen tespit ve tahakkuk belgeleri, ihale ilanının yayımlandığı veya perakende satış ya da tahsis kararının alındığı tarihe kadar yapılan başvuru üzerine süreyi durduran sebeplerin varlığı anlaşılırsa iptal edilir. Başvuru için son an satışın tamamlanması, tahsis edilen kuruma teslim veya belgenin tebliği olarak öngörülmemiştir; sürelerin dikkate alınması da ilgilinin talebine ya da idarenin takdirine bağlı değildir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 76/2)"
 },
 {
 "id": "D8-040",
@@ -1658,14 +1658,14 @@
 "d": "I ve III",
 "c": [
 "I ve IV",
-"II ve III",
+"II ve IV",
 "I, II ve III",
 "I, III ve IV"
 ],
 "opts": [
 "I ve III",
 "I ve IV",
-"II ve III",
+"II ve IV",
 "I, II ve III",
 "I, III ve IV"
 ],
@@ -1721,19 +1721,19 @@
 "tip": "T1",
 "z": "OÜ",
 "madde": "4458 sayılı Gümrük Kanunu m.3/9, 3/10",
-"cek": "Tarım politikası veya işlenmiş tarım ürünlerine özel düzenlemelerle ihracatta alınan vergi ve mali yükler ithalat değil ihracat vergisidir.",
+"cek": "Tarım politikası veya işlenmiş tarım ürünlerine özel düzenlemelerle ihracatta alınan vergi ve mali yükler ihracat vergileri tanımına dahildir.",
 "kok": [
 "4458 sayılı Gümrük Kanunundaki ithalat ve ihracat vergileri tanımlarına göre aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
-"d": "İşlenmiş tarım ürünlerine özel düzenlemeler çerçevesinde ihracatta alınan vergiler ithalat vergisidir.",
+"d": "Tarım politikası çerçevesinde ihracatta alınacak vergi ve mali yükler ihracat vergileri dışında kalır.",
 "c": [
 "Eşyanın ithalinde ödenecek gümrük vergisi ve eş etkili vergiler ithalat vergileri kapsamındadır.",
 "Tarım politikası çerçevesinde ithalatta alınacak vergiler ve diğer mali yükler ithalat vergisidir.",
 "Eşyanın ihracatında ödenecek gümrük vergisi ile eş etkili mali yükler ihracat vergileri kapsamındadır.",
-"Tarım ürünlerinin işlenmesiyle elde edilen ürünlere özel düzenlemelerle ithalatta alınan yükler ithalat vergisidir."
+"İşlenmiş tarım ürünlerine özel düzenlemeler çerçevesinde ihracatta alınan yükler ithalat vergileri dışında kalır."
 ],
 "tuzak": false,
-"g": "Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ihracatta alınan vergi ve mali yükler ihracat vergileri tanımına girer, ithalat vergisi sayılmaz. Aynı düzenlemeler çerçevesinde ithalatta alınanlar ile ithalde ödenen gümrük vergisi ve eş etkili vergiler ise ithalat vergileridir. (MD GK 3/9, 3/10)",
+"g": "İhracat vergileri; eşyanın ihracatında ödenecek gümrük vergisi ile eş etkili vergi ve mali yükleri ve tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ihracatta alınacak vergi ve mali yükleri kapsar; tarım politikası çerçevesinde ihracatta alınan yüklerin bu tanımın dışında kaldığı ifadesi yanlıştır. Aynı düzenlemeler çerçevesinde ithalatta alınanlar ithalat vergisidir; ihracatta alınanlar ise ithalat vergileri tanımına girmez. (MD GK 3/9, 3/10)",
 "kanit": "1-TANIMLAR.txt | Eşyanın ithalinde ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükleri || 1-TANIMLAR.txt | Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ihracatta alınacak vergileri ve diğer mali yükleri || 1-TANIMLAR.txt | Eşyanın ihracatında ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükleri",
 "batch": "K05",
 "no": 49,
@@ -1741,13 +1741,13 @@
 "opts": [
 "Eşyanın ithalinde ödenecek gümrük vergisi ve eş etkili vergiler ithalat vergileri kapsamındadır.",
 "Tarım politikası çerçevesinde ithalatta alınacak vergiler ve diğer mali yükler ithalat vergisidir.",
-"İşlenmiş tarım ürünlerine özel düzenlemeler çerçevesinde ihracatta alınan vergiler ithalat vergisidir.",
+"Tarım politikası çerçevesinde ihracatta alınacak vergi ve mali yükler ihracat vergileri dışında kalır.",
 "Eşyanın ihracatında ödenecek gümrük vergisi ile eş etkili mali yükler ihracat vergileri kapsamındadır.",
-"Tarım ürünlerinin işlenmesiyle elde edilen ürünlere özel düzenlemelerle ithalatta alınan yükler ithalat vergisidir."
+"İşlenmiş tarım ürünlerine özel düzenlemeler çerçevesinde ihracatta alınan yükler ithalat vergileri dışında kalır."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ihracatta alınan vergi ve mali yükler ihracat vergileri tanımına girer, ithalat vergisi sayılmaz. Aynı düzenlemeler çerçevesinde ithalatta alınanlar ile ithalde ödenen gümrük vergisi ve eş etkili vergiler ise ithalat vergileridir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 3/9, 3/10)"
+"g_harfli": "İhracat vergileri; eşyanın ihracatında ödenecek gümrük vergisi ile eş etkili vergi ve mali yükleri ve tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ihracatta alınacak vergi ve mali yükleri kapsar; tarım politikası çerçevesinde ihracatta alınan yüklerin bu tanımın dışında kaldığı ifadesi yanlıştır. Aynı düzenlemeler çerçevesinde ithalatta alınanlar ithalat vergisidir; ihracatta alınanlar ise ithalat vergileri tanımına girmez. Bu nedenle doğru cevap C seçeneğidir. (MD GK 3/9, 3/10)"
 },
 {
 "id": "D8-050",
@@ -1765,11 +1765,11 @@
 "c": [
 "Vergi dairesine muhatap yazının ilgiliye verildiği tarihten itibaren on beş gün",
 "İzin yazısının gümrük idaresine intikal ettiği tarihten itibaren yedi gün",
-"Vergi dairesine muhatap yazının ilgiliye verildiği tarihten itibaren otuz gün",
-"İzin yazısının gümrük idaresine intikal ettiği tarihten itibaren bir ay"
+"İzin yazısının gümrük idaresine intikal ettiği tarihten itibaren on beş gün",
+"Açma ve işletme izninin verildiği tarihten itibaren bir ay"
 ],
 "tuzak": false,
-"g": "Açma ve işletme harcının tahsil edildiğine dair makbuz veya yazının, vergi dairesine muhatap yazının ilgiliye verildiği tarihten itibaren yedi gün içinde gümrük müdürlüğüne ibrazı hâlinde izin belgesi düzenlenerek ilgilisine verilir. On beş günlük süre, yedi günde ibraz yapılmazsa durumun müzekkereyle vergi dairesine bildirilmesine ilişkindir; süre izin yazısının gümrük idaresine intikalinden başlatılmaz. (MD GY 553/3)",
+"g": "Açma ve işletme harcının tahsil edildiğine dair makbuz veya yazının, vergi dairesine muhatap yazının ilgiliye verildiği tarihten itibaren yedi gün içinde gümrük müdürlüğüne ibrazı hâlinde izin belgesi düzenlenerek ilgilisine verilir. On beş günlük süre, yedi günde ibraz yapılmazsa bu sürenin bitiminden itibaren durumun müzekkereyle vergi dairesine bildirilmesine ilişkindir; ibraz süresi izin yazısının gümrük idaresine intikalinden başlatılmaz ve izin belgesi ancak makbuzun ibrazı üzerine düzenlenir. (MD GY 553/3)",
 "kanit": "29-iŞLETİCİLER.txt | Vergi Dairesine muhatap yazının ilgiliye verildiği tarihten itibaren yedi gün içinde gümrük müdürlüğüne ibraz edilmemesi halinde, bu sürenin bitiminden itibaren on beş gün içinde bir müzekkere ile durumun aynı vergi dairesine bildirilmesi",
 "batch": "K04",
 "no": 50,
@@ -1778,12 +1778,12 @@
 "Vergi dairesine muhatap yazının ilgiliye verildiği tarihten itibaren yedi gün",
 "Vergi dairesine muhatap yazının ilgiliye verildiği tarihten itibaren on beş gün",
 "İzin yazısının gümrük idaresine intikal ettiği tarihten itibaren yedi gün",
-"Vergi dairesine muhatap yazının ilgiliye verildiği tarihten itibaren otuz gün",
-"İzin yazısının gümrük idaresine intikal ettiği tarihten itibaren bir ay"
+"İzin yazısının gümrük idaresine intikal ettiği tarihten itibaren on beş gün",
+"Açma ve işletme izninin verildiği tarihten itibaren bir ay"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Açma ve işletme harcının tahsil edildiğine dair makbuz veya yazının, vergi dairesine muhatap yazının ilgiliye verildiği tarihten itibaren yedi gün içinde gümrük müdürlüğüne ibrazı hâlinde izin belgesi düzenlenerek ilgilisine verilir. On beş günlük süre, yedi günde ibraz yapılmazsa durumun müzekkereyle vergi dairesine bildirilmesine ilişkindir; süre izin yazısının gümrük idaresine intikalinden başlatılmaz. Bu nedenle doğru cevap A seçeneğidir. (MD GY 553/3)"
+"g_harfli": "Açma ve işletme harcının tahsil edildiğine dair makbuz veya yazının, vergi dairesine muhatap yazının ilgiliye verildiği tarihten itibaren yedi gün içinde gümrük müdürlüğüne ibrazı hâlinde izin belgesi düzenlenerek ilgilisine verilir. On beş günlük süre, yedi günde ibraz yapılmazsa bu sürenin bitiminden itibaren durumun müzekkereyle vergi dairesine bildirilmesine ilişkindir; ibraz süresi izin yazısının gümrük idaresine intikalinden başlatılmaz ve izin belgesi ancak makbuzun ibrazı üzerine düzenlenir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 553/3)"
 },
 {
 "id": "D8-051",
@@ -1942,34 +1942,34 @@
 "konu": "Dahilde İşleme",
 "tip": "T4",
 "z": "Z",
-"madde": "Gümrük Yönetmeliği m.352/3; 4458 sayılı Gümrük Kanunu m.119, 122; Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-j, 6/2",
-"cek": "İşlemenin asli kısmı izin hak sahibinin işletmesinde yapılıyorsa, istisnai haller dışında eşdeğer eşya ithal eşyasından ileri üretim aşamasında olabilir.",
+"madde": "4458 sayılı Gümrük Kanunu m.109, 119/a, 119/c; Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-j, 6/2, 6/6",
+"cek": "Şartlı muafiyette ithal edilmemiş eşya yerine ihracat vergisine tabi eşdeğer eşyadan elde edilen ürün ihraç edilirse ihracat vergileri kadar teminat alınır.",
 "kok": [
 "Gümrük mevzuatına göre dahilde işleme rejiminde eşdeğer eşya kullanımına ilişkin aşağıdakilerden hangisi doğrudur?"
 ],
-"d": "Eşdeğer eşyanın, işlemenin asli kısmının izin hak sahibinin işletmesinde veya onun adına işlemenin yapıldığı yerde gerçekleşmesi durumunda, istisnai haller dışında, ithal eşyasından daha ileri bir üretim aşamasında olmasına izin verilebilir.",
+"d": "Şartlı muafiyet sisteminde, henüz ithal edilmemiş eşya yerine ihracat vergilerine tabi eşdeğer eşyadan elde edilen işlem görmüş ürünler ihraç edilirse, ithal eşyasının süresi içinde ithali karşılığında ihracat vergileri kadar teminat alınır.",
 "c": [
-"Şartlı muafiyet sisteminin uygulandığı dahilde işleme rejiminde, ihraç olunan işlem görmüş ürünlerin ihracat vergilerine tabi eşdeğer eşyadan elde edilmesi durumunda, söz konusu eşdeğer eşya ihracat vergilerine tabi tutulur.",
+"Eşdeğer eşya kullanımı çerçevesinde, aynı belge kapsamında ithal eşyası ile serbest dolaşımdaki eşyanın işlem görmüş ürünün elde edilmesinde birlikte kullanılmasına izin verilmez; işlemede yalnızca bunlardan biri kullanılabilir.",
 "Eşdeğer eşya kullanımına süresiz veya dönemsel olarak yasaklama ya da kısıtlama getirmeye, ilgili gümrük idaresinin önerisi üzerine Gümrükler Genel Müdürlüğü yetkilidir.",
 "Geri ödeme sisteminin uygulandığı hallerde de eşdeğer eşyadan elde edilen işlem görmüş ürünlerin, ithal eşyasının serbest dolaşıma girmesinden önce ihraç edilmesine izin verilir.",
 "Eşdeğer eşya, işlem görmüş ürünün elde edilmesinde ithal eşyası yerine kullanılan ve ithal eşyası ile asgari altılı bazda gümrük tarife istatistik pozisyonu aynı olan, aynı kalite ve nitelikleri taşıyan serbest dolaşımdaki eşyadır."
 ],
 "tuzak": true,
-"g": "Yönetmeliğe göre işlemenin asli kısmı izin hak sahibinin işletmesinde veya onun adına işlemenin yapıldığı yerde gerçekleşiyorsa, istisnai haller dışında eşdeğer eşyanın ithal eşyasından daha ileri bir üretim aşamasında olmasına izin verilebilir. Şartlı muafiyet sisteminde ihracat vergilerine tabi eşdeğer eşya bu vergilerden muaf tutulur; eşdeğer eşya kullanımını yasaklama veya kısıtlama yetkisi Bakanlığa (İhracat Genel Müdürlüğü) aittir. Geri ödeme sisteminde önceden ihracat hükmü uygulanmaz ve eşdeğer eşyada aynılık asgari sekizli bazda aranır. (MD GY 352/3; GK 119, 122; DİR Tebliği 3/1-j, 6/2)",
-"kanit": "32-DAHİLDE İŞLEME.txt | Eşdeğer eşyanın, işlemenin asli kısmının izin hak sahibinin işletmesinde veya onun adına işlemenin yapıldığı yerde gerçekleşmesi durumunda, istisnai haller dışında, ithal eşyasından daha ileri bir üretim aşamasında olmasına izin verilebilir. || 32-DAHİLDE İŞLEME.txt | söz konusu eşdeğer eşya ihracat vergilerinden muaf tutulur",
+"g": "Kanuna göre henüz ithal edilmemiş eşyanın yerine ihracat vergilerine tabi eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ihracı halinde, ithal eşyasının süresi içinde ithal edilmesine karşılık izin hak sahibinden ihracat vergileri kadar teminat alınır; bu hüküm geri ödeme sisteminde uygulanmaz. Tebliğe göre ithal eşyası ile serbest dolaşımdaki eşya birlikte de kullanılabilir ve eşdeğer eşya kullanımını yasaklama veya kısıtlama yetkisi Bakanlığa (İhracat Genel Müdürlüğü) aittir. Geri ödeme sisteminde önceden ihracat hükmü uygulanmaz; eşdeğer eşyada aynılık asgari sekizli bazda aranır. (MD GK 109, 119/a, 119/c; DİR Tebliği 3/1-j, 6/2, 6/6)",
+"kanit": "32-DAHİLDE İŞLEME.txt | Henüz ithal edilmemiş eşyanın yerine ihracat vergilerine tabi eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ihracı halinde, ithal eşyasının süresi içinde ithal edilmesine karşılık olarak izin hak sahibinden, ihracat vergileri kadar teminat alınır. || 32-DAHİLDE İŞLEME.txt | ithal eşyası ile serbest dolaşımdaki eşya birlikte de kullanılabilir || 32-DAHİLDE İŞLEME.txt | Bakanlıkça (İhracat Genel Müdürlüğü), eşdeğer eşyanın kullanımına süresiz veya dönemsel olarak yasaklama veya kısıtlama getirilebilir",
 "batch": "K07",
 "no": 55,
 "harf": "E",
 "opts": [
-"Şartlı muafiyet sisteminin uygulandığı dahilde işleme rejiminde, ihraç olunan işlem görmüş ürünlerin ihracat vergilerine tabi eşdeğer eşyadan elde edilmesi durumunda, söz konusu eşdeğer eşya ihracat vergilerine tabi tutulur.",
+"Eşdeğer eşya kullanımı çerçevesinde, aynı belge kapsamında ithal eşyası ile serbest dolaşımdaki eşyanın işlem görmüş ürünün elde edilmesinde birlikte kullanılmasına izin verilmez; işlemede yalnızca bunlardan biri kullanılabilir.",
 "Eşdeğer eşya kullanımına süresiz veya dönemsel olarak yasaklama ya da kısıtlama getirmeye, ilgili gümrük idaresinin önerisi üzerine Gümrükler Genel Müdürlüğü yetkilidir.",
 "Geri ödeme sisteminin uygulandığı hallerde de eşdeğer eşyadan elde edilen işlem görmüş ürünlerin, ithal eşyasının serbest dolaşıma girmesinden önce ihraç edilmesine izin verilir.",
 "Eşdeğer eşya, işlem görmüş ürünün elde edilmesinde ithal eşyası yerine kullanılan ve ithal eşyası ile asgari altılı bazda gümrük tarife istatistik pozisyonu aynı olan, aynı kalite ve nitelikleri taşıyan serbest dolaşımdaki eşyadır.",
-"Eşdeğer eşyanın, işlemenin asli kısmının izin hak sahibinin işletmesinde veya onun adına işlemenin yapıldığı yerde gerçekleşmesi durumunda, istisnai haller dışında, ithal eşyasından daha ileri bir üretim aşamasında olmasına izin verilebilir."
+"Şartlı muafiyet sisteminde, henüz ithal edilmemiş eşya yerine ihracat vergilerine tabi eşdeğer eşyadan elde edilen işlem görmüş ürünler ihraç edilirse, ithal eşyasının süresi içinde ithali karşılığında ihracat vergileri kadar teminat alınır."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yönetmeliğe göre işlemenin asli kısmı izin hak sahibinin işletmesinde veya onun adına işlemenin yapıldığı yerde gerçekleşiyorsa, istisnai haller dışında eşdeğer eşyanın ithal eşyasından daha ileri bir üretim aşamasında olmasına izin verilebilir. Şartlı muafiyet sisteminde ihracat vergilerine tabi eşdeğer eşya bu vergilerden muaf tutulur; eşdeğer eşya kullanımını yasaklama veya kısıtlama yetkisi Bakanlığa (İhracat Genel Müdürlüğü) aittir. Geri ödeme sisteminde önceden ihracat hükmü uygulanmaz ve eşdeğer eşyada aynılık asgari sekizli bazda aranır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 352/3; GK 119, 122; DİR Tebliği 3/1-j, 6/2)"
+"g_harfli": "Kanuna göre henüz ithal edilmemiş eşyanın yerine ihracat vergilerine tabi eşdeğer eşyadan elde edilen işlem görmüş ürünlerin ihracı halinde, ithal eşyasının süresi içinde ithal edilmesine karşılık izin hak sahibinden ihracat vergileri kadar teminat alınır; bu hüküm geri ödeme sisteminde uygulanmaz. Tebliğe göre ithal eşyası ile serbest dolaşımdaki eşya birlikte de kullanılabilir ve eşdeğer eşya kullanımını yasaklama veya kısıtlama yetkisi Bakanlığa (İhracat Genel Müdürlüğü) aittir. Geri ödeme sisteminde önceden ihracat hükmü uygulanmaz; eşdeğer eşyada aynılık asgari sekizli bazda aranır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 109, 119/a, 119/c; DİR Tebliği 3/1-j, 6/2, 6/6)"
 },
 {
 "id": "D8-056",
@@ -2062,14 +2062,14 @@
 "Yalnız I",
 "I ve II",
 "II ve III",
-"II ve IV"
+"I, III ve IV"
 ],
 "opts": [
 "Yalnız I",
 "Yalnız II",
 "I ve II",
 "II ve III",
-"II ve IV"
+"I, III ve IV"
 ],
 "tuzak": false,
 "g": "Gümrük statüsü onay belgesiyle veya başka yoldan kanıtlanamayan eşya; ihracat vergileri, ihracat lisansları veya ticaret politikası önlemlerinin uygulanması bakımından serbest dolaşımda bulunan eşya, diğer tüm hâllerde ise serbest dolaşımda olmayan eşya kabul edildiğinden II yanlış, III doğrudur. Fiyattan ayrı gösterilen serbest bölgedeki depolama ve muhafaza masraflarının kıymete dahil edilmemesi ile onay belgesinin statü tespitinde kanıt olarak kullanılması Kanunda aynen yer aldığından I ve IV doğrudur. (MD GK 161/1; 162/1-2)",
@@ -2122,35 +2122,35 @@
 "konu": "Cezalar",
 "tip": "T8",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.235/3",
-"cek": "Yolcunun beyanına aykırı çıkan kişisel eşya dışı eşyasında gümrük vergileri iki kat alınıp eşya teslim edilir; ödenmezse eşya terk edilmiş sayılır.",
+"madde": "Gümrük Yönetmeliği m.583/3; 4458 sayılı Gümrük Kanunu m.237/3, 237/7",
+"cek": "Özet beyan fazlalık takibatı sürerken yapılan beyanda fazla miktar verilmez; saklanması masraflı ve külfetliyse eşya sahibine yed-i emin olarak teslim edilebilir.",
 "kok": [
-"Yurt dışından İstanbul Havalimanına gelen yolcu (T), gümrük idaresine yaptığı beyanda yanında yalnızca kişisel eşyası bulunduğunu bildirmiştir. Yapılan kontrolde, (T)'nin bagajında kişisel ve hediyelik eşya kapsamı dışında kalan ve beyanında yer almayan çok sayıda elektronik eşya bulunmuştur. Eşyanın ithali herhangi bir yasak veya kısıtlamaya tabi değildir. Olay, Kaçakçılıkla Mücadele Kanunu kapsamında değerlendirilmemiş; (T), eşyanın kendisine ait olduğunu kabul etmiş ve eşyayı teslim almak istediğini bildirmiştir. Gümrük idaresi, eşyaya ilişkin gümrük vergilerini hesaplamış ve (T)'ye bildirmiştir.",
-"Buna göre, 4458 sayılı Gümrük Kanunu uyarınca söz konusu eşya için yapılacak işlem aşağıdakilerden hangisidir?"
+"(Y) Denizcilik A.Ş.'ye ait gemi, yabancı bir limandan Mersin Limanına gelmiş; gemi acentası, eşyaya ilişkin özet beyanı süresi içinde vermiştir. Boşaltma sırasında yapılan sayımda, özet beyanda 400 kap olarak kayıtlı dondurulmuş gıda eşyasının 412 kap olduğu, 12 kabın özet beyana göre fazla çıktığı belirlenmiştir. Gümrük idaresi, fazla kapların mahrecinden yanlışlıkla fazla yüklendiğinin kanıtlanması için süre vermiş ve özet beyan fazlalığına ilişkin takibat başlatmıştır. Takibat henüz sonuçlanmamışken eşyanın alıcısı (Z) Gıda A.Ş., 412 kabın tamamı için serbest dolaşıma giriş beyannamesi vermek istemiştir. Fazla çıkan 12 kaptaki eşyanın soğuk hava deposunda saklanması masraflı ve külfetlidir. Olay Kaçakçılıkla Mücadele Kanunu kapsamında değerlendirilmemiştir.",
+"Buna göre, Gümrük Yönetmeliği uyarınca fazla çıkan 12 kaptaki eşya hakkında yapılacak işlem aşağıdakilerden hangisidir?"
 ],
-"d": "Eşyanın gümrük vergileri iki kat olarak alınır ve eşya sahibine teslim edilir; gümrük vergilerinin ödenmemesi hâlinde ise eşya, gümrüğe terk edilmiş sayılır.",
+"d": "Takibat fazlalıkla ilgili olduğundan fazla çıkan 12 kaptaki eşya beyan sahibine verilmez; ancak bu eşyanın saklanması masraflı ve külfetli olduğundan eşya, sahibine yed-i emin olarak teslim edilebilir.",
 "c": [
-"Eşyanın gümrük vergilerinin yanı sıra bu vergilerin iki katı idari para cezası verilir ve eşya, vergi ile ceza ödendikten sonra sahibine teslim edilir.",
-"Eşyanın gümrük vergileri bir kat alınır, ayrıca CIF değerinin onda biri oranında para cezası verilir ve eşya, ödemeden sonra sahibine teslim edilir.",
-"Gümrük vergileri alınmaz, gümrüklenmiş değerin iki katı idari para cezası verilir; ceza ödenmezse eşyanın mülkiyeti kamuya geçirilerek eşya tasfiye edilir.",
-"Eşyanın gümrük vergileri iki kat olarak alınır; ancak eşya, vergiler ödenmiş olsa dahi sahibine teslim edilmeyerek gümrük idaresine terk edilir."
+"Takibat sonuçlanmadan beyanda bulunulduğundan fiilen bulunan miktar esas alınır; fazla çıkan 12 kaptaki eşya da beyannameye dahil edilerek vergileri ödendikten sonra alıcıya teslim edilir.",
+"Fazla çıkan 12 kaptaki eşyaya takibatın sonucu beklenmeksizin el konularak mülkiyetinin kamuya geçirilmesine karar verilir; eşya tasfiye edilir ve özet beyanı verenden CIF kıymeti kadar ceza alınır.",
+"Takibat sonuçlanıncaya kadar 412 kabın tamamı hakkında beyanname kabul edilmez; saklanması masraflı ve külfetli olsa da eşyanın tamamı gümrük idaresinin gözetiminde bekletilir.",
+"Fazla çıkan 12 kaptaki eşya, vergileri tutarında teminat alınması şartıyla alıcıya teslim edilir; takibat sonunda fazlalığın kanıtlanamaması hâlinde ise alınan teminat irat kaydedilir."
 ],
 "tuzak": true,
-"g": "Yolcuların kişisel ve hediyelik eşya kapsamı dışında olup beyanlarına aykırı olarak eşyası arasında çıkan eşyanın gümrük vergileri iki kat olarak alınır ve eşya sahibine teslim edilir; vergiler ödenmezse eşya gümrüğe terk edilmiş sayılır. Bu hâlde vergilerin yanı sıra ayrıca iki katı ceza verilmez; toplam yük vergilerin iki katıdır. CIF değerinin onda biri oranındaki ceza, muaf eşyanın gümrük kapıları dışından izinsiz ithaline ilişkindir. (MD GK 235/3)",
-"kanit": "48-cezalar.txt | Yolcuların, gümrük mevzuatına göre kişisel ve hediyelik eşya kapsamı dışında olup beyanlarına aykırı olarak üzerlerinde, eşyası arasında veya taşıma araçlarında çıkan || 48-cezalar.txt | eşyanın gümrük vergileri iki kat olarak alınır ve eşya sahibine teslim edilir. Gümrük vergileri ödenmediği takdirde, eşya gümrüğe terk edilmiş sayılır",
+"g": "Yönetmeliğe göre özet beyan eksiklik veya fazlalığına ilişkin takibat sonuçlanmadan bu eşya için beyanda bulunulmak istenirse, takibat fazlalıkla ilgiliyse fazla bulunan miktar verilmez; ancak eşyanın saklanması masraflı ve külfetliyse bu eşya sahibine yed-i emin olarak teslim edilebilir. Fiilen bulunan miktar üzerinden işlem yapılması eksiklik takibatına ilişkindir; el koyma, kamuya geçirme ve CIF kıymeti kadar ceza ise fazla yüklemenin idarece belirlenen sürede kanıtlanamaması hâlinde, takibat sonunda uygulanır. Takibat, fazla kaplar dışındaki eşyanın beyanına engel değildir; teminat karşılığı teslim de bu hâl için öngörülmemiştir. (MD GY 583/3; GK 237/3, 237/7)",
+"kanit": "48-cezalar.txt | takibat sonuçlanmadan beyan sahibi tarafından bu eşya hakkında bir gümrük beyanında bulunulmak istenilmesi halinde || 48-cezalar.txt | Takibatın eksiklikle ilgili olması halinde fiilen bulunan miktar üzerinden işlem yapılır. || 48-cezalar.txt | Takibatın fazlalıkla ilgili olması halinde fazla bulunan miktar verilmez. Ancak, eşyanın saklanmasının masraflı ve külfetli olması halinde bu eşya sahibine yed-i emin olarak teslim edilebilir.",
 "batch": "K11",
 "no": 60,
 "harf": "A",
 "opts": [
-"Eşyanın gümrük vergileri iki kat olarak alınır ve eşya sahibine teslim edilir; gümrük vergilerinin ödenmemesi hâlinde ise eşya, gümrüğe terk edilmiş sayılır.",
-"Eşyanın gümrük vergilerinin yanı sıra bu vergilerin iki katı idari para cezası verilir ve eşya, vergi ile ceza ödendikten sonra sahibine teslim edilir.",
-"Eşyanın gümrük vergileri bir kat alınır, ayrıca CIF değerinin onda biri oranında para cezası verilir ve eşya, ödemeden sonra sahibine teslim edilir.",
-"Gümrük vergileri alınmaz, gümrüklenmiş değerin iki katı idari para cezası verilir; ceza ödenmezse eşyanın mülkiyeti kamuya geçirilerek eşya tasfiye edilir.",
-"Eşyanın gümrük vergileri iki kat olarak alınır; ancak eşya, vergiler ödenmiş olsa dahi sahibine teslim edilmeyerek gümrük idaresine terk edilir."
+"Takibat fazlalıkla ilgili olduğundan fazla çıkan 12 kaptaki eşya beyan sahibine verilmez; ancak bu eşyanın saklanması masraflı ve külfetli olduğundan eşya, sahibine yed-i emin olarak teslim edilebilir.",
+"Takibat sonuçlanmadan beyanda bulunulduğundan fiilen bulunan miktar esas alınır; fazla çıkan 12 kaptaki eşya da beyannameye dahil edilerek vergileri ödendikten sonra alıcıya teslim edilir.",
+"Fazla çıkan 12 kaptaki eşyaya takibatın sonucu beklenmeksizin el konularak mülkiyetinin kamuya geçirilmesine karar verilir; eşya tasfiye edilir ve özet beyanı verenden CIF kıymeti kadar ceza alınır.",
+"Takibat sonuçlanıncaya kadar 412 kabın tamamı hakkında beyanname kabul edilmez; saklanması masraflı ve külfetli olsa da eşyanın tamamı gümrük idaresinin gözetiminde bekletilir.",
+"Fazla çıkan 12 kaptaki eşya, vergileri tutarında teminat alınması şartıyla alıcıya teslim edilir; takibat sonunda fazlalığın kanıtlanamaması hâlinde ise alınan teminat irat kaydedilir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yolcuların kişisel ve hediyelik eşya kapsamı dışında olup beyanlarına aykırı olarak eşyası arasında çıkan eşyanın gümrük vergileri iki kat olarak alınır ve eşya sahibine teslim edilir; vergiler ödenmezse eşya gümrüğe terk edilmiş sayılır. Bu hâlde vergilerin yanı sıra ayrıca iki katı ceza verilmez; toplam yük vergilerin iki katıdır. CIF değerinin onda biri oranındaki ceza, muaf eşyanın gümrük kapıları dışından izinsiz ithaline ilişkindir. Bu nedenle doğru cevap A seçeneğidir. (MD GK 235/3)"
+"g_harfli": "Yönetmeliğe göre özet beyan eksiklik veya fazlalığına ilişkin takibat sonuçlanmadan bu eşya için beyanda bulunulmak istenirse, takibat fazlalıkla ilgiliyse fazla bulunan miktar verilmez; ancak eşyanın saklanması masraflı ve külfetliyse bu eşya sahibine yed-i emin olarak teslim edilebilir. Fiilen bulunan miktar üzerinden işlem yapılması eksiklik takibatına ilişkindir; el koyma, kamuya geçirme ve CIF kıymeti kadar ceza ise fazla yüklemenin idarece belirlenen sürede kanıtlanamaması hâlinde, takibat sonunda uygulanır. Takibat, fazla kaplar dışındaki eşyanın beyanına engel değildir; teminat karşılığı teslim de bu hâl için öngörülmemiştir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 583/3; GK 237/3, 237/7)"
 },
 {
 "id": "D8-061",
@@ -2264,34 +2264,34 @@
 "konu": "Menşe",
 "tip": "T1",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.18/1-3",
+"madde": "4458 sayılı Gümrük Kanunu m.18/2-a, b, h, ı, j, 19",
 "cek": "Tümüyle elde edilen eşyadan üretimin herhangi bir aşamasında elde edilen eşya ile bunların türevlerinden elde edilen eşya da tümüyle elde edilmiş sayılır.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre, tümüyle bir ülkede elde edilen veya üretilen eşyaya ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
+"4458 sayılı Gümrük Kanununa göre, eşyanın tercihli olmayan menşeine ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
-"d": "Kanunda sayılan ve tümüyle o ülkede elde edildiği kabul edilen eşyadan üretimin herhangi bir aşamasında elde edilen eşya bu kapsamdadır; ancak bunların türevlerinden elde edilen eşya tümüyle elde edilmiş sayılmaz.",
+"d": "Kanunda tümüyle bir ülkede elde edildiği sayılan eşyadan üretimin herhangi bir aşamasında elde edilen eşya da o ülkede tümüyle elde edilmiş sayılır; ancak bunların türevlerinden elde edilen eşya bu kapsama girmez.",
 "c": [
-"Söz konusu ülkede kayıtlı ya da tescilli olan ve o ülkenin bandırasını taşıyan fabrika gemilerde, o ülke araçlarınca kara suları dışındaki denizlerden çıkartılan av ürünlerinden elde edilen eşya tümüyle o ülkede elde edilmiş sayılır.",
-"Tümüyle bir ülkede elde edilen veya üretilen eşya o ülke menşelidir; bu ifadenin uygulanmasında ülke kavramı o ülkenin kara sularını da kapsadığından, kara sularında avlanan ürünler de bu kapsamdadır.",
+"Üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için, o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapılması gerekir.",
+"Kanunda sayılan hâller arasında yer alan, o ülkede çıkartılan madencilik ürünleri ile o ülkede toplanan bitkisel ürünler, tümüyle o ülkede elde edilen veya üretilen eşya olarak o ülke menşeli sayılır.",
 "O ülkenin kara suları dışındaki denizlerin dibinden veya deniz dibindeki toprağın altından, münhasır işletme hakkına sahip olarak o ülke tarafından çıkartılan ürünler tümüyle o ülkede elde edilmiş sayılır.",
 "Sadece hammadde elde etmek için o ülkede toplanan, imalat işlemlerinden veya kullanım kalıntılarından elde edilen atık ve artıklar da tümüyle o ülkede elde edilen veya üretilen eşya olarak kabul edilir."
 ],
 "tuzak": false,
-"g": "Kanuna göre, tümüyle bir ülkede elde edilen eşya olarak sayılanlardan üretimin herhangi bir aşamasında elde edilen eşya ile bunların türevlerinden elde edilen eşya da tümüyle o ülkede elde edilmiş sayılır; türevlerin kapsam dışında bırakılması yanlıştır. O ülkenin kayıtlı ve bandıralı fabrika gemilerinde, o ülke araçlarınca kara suları dışından çıkartılan av ürünlerinden elde edilen eşya, münhasır işletme hakkıyla kara suları dışındaki deniz dibinden çıkartılan ürünler ile sadece hammadde elde etmek için toplanan atık ve artıklar Kanunda açıkça sayılmıştır; ülke kavramı kara sularını da kapsar. (MD GK 18/1-3)",
-"kanit": "10-MENŞEİ.txt | j) Yukarıdaki bentlerde sayılan eşyadan üretimin herhangi bir aşamasında elde edilen eşya ile bunların türevlerinden elde edilen eşya || 10-MENŞEİ.txt | ı) Sadece hammadde elde etmek için o ülkede toplanan, imalat işlemlerinden veya kullanım kalıntılarından elde edilen atık ve artıklar",
+"g": "Kanuna göre tümüyle bir ülkede elde edilen eşya olarak sayılanlardan üretimin herhangi bir aşamasında elde edilen eşya ile bunların türevlerinden elde edilen eşya da tümüyle o ülkede elde edilmiş sayılır; türevlerin kapsam dışında bırakılması yanlıştır. O ülkede çıkartılan madencilik ürünleri ve toplanan bitkisel ürünler, münhasır işletme hakkıyla kara suları dışındaki deniz dibinden çıkartılan ürünler ile sadece hammadde elde etmek için toplanan atık ve artıklar Kanunda tümüyle elde edilen eşya olarak sayılmıştır. Üretimi birden fazla ülkede gerçekleşen eşyada ise yeni bir ürün imali veya imalatın önemli bir aşaması ile en son esaslı işçiliğin bu amaçla donatılmış işletmelerde yapılması aranır. (MD GK 18/2-a, b, h, ı, j, 19)",
+"kanit": "10-MENŞEİ.txt | j) Yukarıdaki bentlerde sayılan eşyadan üretimin herhangi bir aşamasında elde edilen eşya ile bunların türevlerinden elde edilen eşya || 10-MENŞEİ.txt | a) O ülkede çıkartılan madencilik ürünleri, || 10-MENŞEİ.txt | b) O ülkede toplanan bitkisel ürünler, || 10-MENŞEİ.txt | o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir",
 "batch": "K03",
 "no": 64,
 "harf": "A",
 "opts": [
-"Kanunda sayılan ve tümüyle o ülkede elde edildiği kabul edilen eşyadan üretimin herhangi bir aşamasında elde edilen eşya bu kapsamdadır; ancak bunların türevlerinden elde edilen eşya tümüyle elde edilmiş sayılmaz.",
-"Söz konusu ülkede kayıtlı ya da tescilli olan ve o ülkenin bandırasını taşıyan fabrika gemilerde, o ülke araçlarınca kara suları dışındaki denizlerden çıkartılan av ürünlerinden elde edilen eşya tümüyle o ülkede elde edilmiş sayılır.",
-"Tümüyle bir ülkede elde edilen veya üretilen eşya o ülke menşelidir; bu ifadenin uygulanmasında ülke kavramı o ülkenin kara sularını da kapsadığından, kara sularında avlanan ürünler de bu kapsamdadır.",
+"Kanunda tümüyle bir ülkede elde edildiği sayılan eşyadan üretimin herhangi bir aşamasında elde edilen eşya da o ülkede tümüyle elde edilmiş sayılır; ancak bunların türevlerinden elde edilen eşya bu kapsama girmez.",
+"Üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için, o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapılması gerekir.",
+"Kanunda sayılan hâller arasında yer alan, o ülkede çıkartılan madencilik ürünleri ile o ülkede toplanan bitkisel ürünler, tümüyle o ülkede elde edilen veya üretilen eşya olarak o ülke menşeli sayılır.",
 "O ülkenin kara suları dışındaki denizlerin dibinden veya deniz dibindeki toprağın altından, münhasır işletme hakkına sahip olarak o ülke tarafından çıkartılan ürünler tümüyle o ülkede elde edilmiş sayılır.",
 "Sadece hammadde elde etmek için o ülkede toplanan, imalat işlemlerinden veya kullanım kalıntılarından elde edilen atık ve artıklar da tümüyle o ülkede elde edilen veya üretilen eşya olarak kabul edilir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre, tümüyle bir ülkede elde edilen eşya olarak sayılanlardan üretimin herhangi bir aşamasında elde edilen eşya ile bunların türevlerinden elde edilen eşya da tümüyle o ülkede elde edilmiş sayılır; türevlerin kapsam dışında bırakılması yanlıştır. O ülkenin kayıtlı ve bandıralı fabrika gemilerinde, o ülke araçlarınca kara suları dışından çıkartılan av ürünlerinden elde edilen eşya, münhasır işletme hakkıyla kara suları dışındaki deniz dibinden çıkartılan ürünler ile sadece hammadde elde etmek için toplanan atık ve artıklar Kanunda açıkça sayılmıştır; ülke kavramı kara sularını da kapsar. Bu nedenle doğru cevap A seçeneğidir. (MD GK 18/1-3)"
+"g_harfli": "Kanuna göre tümüyle bir ülkede elde edilen eşya olarak sayılanlardan üretimin herhangi bir aşamasında elde edilen eşya ile bunların türevlerinden elde edilen eşya da tümüyle o ülkede elde edilmiş sayılır; türevlerin kapsam dışında bırakılması yanlıştır. O ülkede çıkartılan madencilik ürünleri ve toplanan bitkisel ürünler, münhasır işletme hakkıyla kara suları dışındaki deniz dibinden çıkartılan ürünler ile sadece hammadde elde etmek için toplanan atık ve artıklar Kanunda tümüyle elde edilen eşya olarak sayılmıştır. Üretimi birden fazla ülkede gerçekleşen eşyada ise yeni bir ürün imali veya imalatın önemli bir aşaması ile en son esaslı işçiliğin bu amaçla donatılmış işletmelerde yapılması aranır. Bu nedenle doğru cevap A seçeneğidir. (MD GK 18/2-a, b, h, ı, j, 19)"
 },
 {
 "id": "D8-065",
@@ -2409,39 +2409,39 @@
 "konu": "Gümrük Yükümlülüğü",
 "tip": "T2",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.198/1, 208",
-"cek": "Kaldırma kararı ve beyanname iptali yükümlülüğü sona erdirir; teminatla teslim ve ödeme süresinin uzatılması sona erdirmez.",
+"madde": "Gümrük Yönetmeliği m.486/1-b, 486/1-c, 486/1-d, 486/1-f, 486/2; 4458 sayılı Gümrük Kanunu m.184/1",
+"cek": "Transitte süre aşılarak sunma ve arz edilebilir eşyanın izin belgesindekinden farklı yerde bulunması, koşullar varsa rejimin doğru işleyişini etkilemeyen ihmallerdendir.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre gümrük yükümlülüğü doğmuş bir eşyaya ilişkin olarak aşağıdaki durumlar veriliyor:",
-"I. Vergilerin, yükümlünün talebi üzerine teminata bağlanarak eşyanın teslim edilmesi",
-"II. Vergilerin kaldırılmasına karar verilmesi",
-"III. Gümrük beyannamesinin iptal edilmesi",
-"IV. Ödeme süresinin, süre bitmeden yapılan yazılı istem ve teminat üzerine otuz gün daha uzatılması",
-"Yukarıdakilerden hangilerinde gümrük yükümlülüğü sona erer?"
+"Gümrük Yönetmeliğine göre, yasadışı çıkarma teşebbüsü ve kasıt bulunmaması ile eşyanın durumunu düzenleyen gerekli işlemlerin yapılması koşuluyla aşağıdaki durumlar veriliyor:",
+"I. Elleçleme izninin koşulları bulunmaksızın antrepodaki eşyanın izin alınmadan elleçlenmesi",
+"II. Transit eşyasının varış gümrük idaresine verilen süre aşılarak sunulması",
+"III. İstendiğinde arz edilebilecek eşyanın izin belgesinde gösterilenden farklı bir yerde bulunması",
+"IV. Nihai kullanım eşyasının izin hak sahibi olmayan bir kişiye bildirilmeden devredilmesi",
+"Yukarıdakilerden hangileri, gümrük yükümlülüğü açısından eşyanın tabi tutulduğu rejimin doğru işleyişini etkilemeyen ihmaller arasında yer alır?"
 ],
 "d": "II ve III",
 "c": [
-"Yalnız II",
-"I ve III",
-"III ve IV",
-"I, II ve III"
+"Yalnız III",
+"I ve IV",
+"I, II ve III",
+"I, II ve IV"
 ],
 "opts": [
-"Yalnız II",
-"I ve III",
+"Yalnız III",
+"I ve IV",
 "II ve III",
-"III ve IV",
-"I, II ve III"
+"I, II ve III",
+"I, II ve IV"
 ],
 "tuzak": false,
-"g": "Kanuna göre gümrük yükümlülüğü, 6183 sayılı Kanun hükümleri saklı kalmak üzere vergilerin ödenmesi, kaldırılmasına karar verilmesi, beyannamenin iptali, teslimden önce zapt-müsadere, imha, terk, telef veya kayıp ile kanuna aykırı giriş nedeniyle müsadere hâllerinde sona erer. Vergilerin teminata bağlanarak eşyanın teslim edilmesi ve ödeme süresinin uzatılması yükümlülüğü sona erdirmez; II ve III doğrudur. (MD GK 198/1, 208)",
-"kanit": "44-yükümlülük.txt | b) Vergilerin kaldırılmasına karar verilmesi, || 44-yükümlülük.txt | c) Gümrük beyannamesinin iptal edilmesi, || 44-yükümlülük.txt | Hallerinde sona erer.",
+"g": "Yönetmeliğe göre yasadışı çıkarmaya teşebbüs ve kasıt bulunmaması ile gerekli işlemlerin yerine getirilmesi koşuluyla, transit eşyasının varış idaresine verilen süre aşılarak sunulması ve arz edilebilecek durumdaki eşyanın izin belgesinde gösterilenden farklı yerde bulunması, rejimin doğru işleyişini etkilemeyen ihmaller arasında sayılmıştır; II ve III doğrudur. İzinsiz elleçleme ancak elleçleme izninin verilmesi için gerekli koşullar bulunuyorsa, nihai kullanım eşyasının bildirilmeden devri de ancak devralan izin hak sahibiyse bu kapsamdadır; bu koşulları taşımayan I ve IV yanlıştır. (MD GY 486/1-b, c, d, f; 486/2; GK 184/1)",
+"kanit": "44-yükümlülük.txt | b) Transit rejimi altındaki eşyanın varış gümrük idaresine sunulması için verilen süre aşılarak ilgili idareye sunulması, || 44-yükümlülük.txt | gümrük idarelerinin isteği üzerine arz edilebilecek durumda olması şartıyla izin belgesinde gösterilenden farklı şekillerde ve yerlerde bulunması || 44-yükümlülük.txt | elleçleme izninin verilmesi için gerekli koşulların bulunması şartıyla || 44-yükümlülük.txt | devredilenin söz konusu eşyanın izin hak sahibi olması şartıyla",
 "batch": "K10",
 "no": 68,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre gümrük yükümlülüğü, 6183 sayılı Kanun hükümleri saklı kalmak üzere vergilerin ödenmesi, kaldırılmasına karar verilmesi, beyannamenin iptali, teslimden önce zapt-müsadere, imha, terk, telef veya kayıp ile kanuna aykırı giriş nedeniyle müsadere hâllerinde sona erer. Vergilerin teminata bağlanarak eşyanın teslim edilmesi ve ödeme süresinin uzatılması yükümlülüğü sona erdirmez; II ve III doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 198/1, 208)"
+"g_harfli": "Yönetmeliğe göre yasadışı çıkarmaya teşebbüs ve kasıt bulunmaması ile gerekli işlemlerin yerine getirilmesi koşuluyla, transit eşyasının varış idaresine verilen süre aşılarak sunulması ve arz edilebilecek durumdaki eşyanın izin belgesinde gösterilenden farklı yerde bulunması, rejimin doğru işleyişini etkilemeyen ihmaller arasında sayılmıştır; II ve III doğrudur. İzinsiz elleçleme ancak elleçleme izninin verilmesi için gerekli koşullar bulunuyorsa, nihai kullanım eşyasının bildirilmeden devri de ancak devralan izin hak sahibiyse bu kapsamdadır; bu koşulları taşımayan I ve IV yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 486/1-b, c, d, f; 486/2; GK 184/1)"
 },
 {
 "id": "D8-069",
@@ -2449,11 +2449,11 @@
 "konu": "Geri Verme-Kaldırma",
 "tip": "T2",
 "z": "Z",
-"madde": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.31/3, 32/1, 41",
-"cek": "Süresinde itiraz edilmemiş olması süresindeki geri verme başvurusuna engel değildir; belgelere aykırı yanlış kıymet beyanında fazla ödenen vergi geri verilebilir.",
+"madde": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.32/1, 40/1, 41",
+"cek": "Süresinde itiraz edilmemiş olması süresindeki geri verme başvurusuna engel değildir; geri verilen tutar mahsup hariç asıl yükümlünün banka hesabına aktarılır.",
 "kok": [
 "Gümrük mevzuatına göre geri vermeye ilişkin şu ifadeler veriliyor:",
-"I. Belgelere aykırı yazılan kıymetle fazla ödenen vergi, beyan bağlayıcı olduğundan geri verilmez.",
+"I. Geri verilecek tutar, mahsup hâlleri dışında, gümrük müşavirinin banka hesabına aktarılır.",
 "II. Süresinde itiraz edilmemesi, süresindeki geri verme başvurusuna engel değildir.",
 "III. Tescilden sonra, ödemeden önce indirilen oranı istemeyen beyan sahibine fark geri verilir.",
 "Yukarıdakilerden hangileri doğrudur?"
@@ -2462,25 +2462,25 @@
 "c": [
 "Yalnız I",
 "I ve II",
-"II ve III",
-"I, II ve III"
+"I ve III",
+"II ve III"
 ],
 "opts": [
 "Yalnız I",
 "Yalnız II",
 "I ve II",
-"II ve III",
-"I, II ve III"
+"I ve III",
+"II ve III"
 ],
 "tuzak": false,
-"g": "Tebliğe göre süresi içinde geri verme başvurusu yapılmışsa, itiraz süresinde itirazda bulunulmamış olması başvuruya engel değildir; yalnız II doğrudur. Beyanın bağlayıcılığı idarenin geri verme sorumluluğunu kaldırmadığından belgelere aykırı yanlış yazılan kıymet nedeniyle fazla ödenen vergilere ilişkin talepler kabul edilerek değerlendirilir; tescilden sonra ve ödemeden önce indirilen oranın uygulanması talep edilmemişse indirim talebe bağlı olduğundan geri verme hükümleri uygulanamaz. (MD Tahsilat Seri No:2 m.31/3, 32/1, 41)",
-"kanit": "47-geri verme kaldırma.txt | beyanname üzerinde ağırlık, adet, ölçü, kıymet veya döviz cinsinin yanlış yazılması gibi nedenlerden ötürü fazla ödenen || 47-geri verme kaldırma.txt | itiraz başvurusunda bulunulmaması geri verme veya kaldırma başvurusunda bulunulmasına engel teşkil etmez || 47-geri verme kaldırma.txt | indirimin talebe bağlı olması ve zorunlu olmaması nedeniyle Gümrük Kanununun 211 inci maddesinin uygulanması mümkün değildir",
+"g": "Tebliğe göre süresi içinde geri verme başvurusu yapılmışsa, itiraz süresinde itirazda bulunulmamış olması başvuruya engel değildir; yalnız II doğrudur. Geri verme kararı üzerine ödenecek tutar, mahsup hâlleri hariç gümrük müşavirinin değil asıl yükümlünün banka hesabına aktarılır; tescilden sonra ve ödemeden önce indirilen oranın uygulanması talep edilmemişse indirim talebe bağlı olduğundan geri verme hükümleri uygulanamaz. (MD Tahsilat Seri No:2 m.32/1, 40/1, 41)",
+"kanit": "47-geri verme kaldırma.txt | ödenecek tutarlar, 39 uncu maddedeki mahsup halleri hariç, asıl yükümlüye ait olan banka hesap numarasına aktarılır || 47-geri verme kaldırma.txt | itiraz başvurusunda bulunulmaması geri verme veya kaldırma başvurusunda bulunulmasına engel teşkil etmez || 47-geri verme kaldırma.txt | indirimin talebe bağlı olması ve zorunlu olmaması nedeniyle Gümrük Kanununun 211 inci maddesinin uygulanması mümkün değildir",
 "batch": "K10",
 "no": 69,
 "harf": "B",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre süresi içinde geri verme başvurusu yapılmışsa, itiraz süresinde itirazda bulunulmamış olması başvuruya engel değildir; yalnız II doğrudur. Beyanın bağlayıcılığı idarenin geri verme sorumluluğunu kaldırmadığından belgelere aykırı yanlış yazılan kıymet nedeniyle fazla ödenen vergilere ilişkin talepler kabul edilerek değerlendirilir; tescilden sonra ve ödemeden önce indirilen oranın uygulanması talep edilmemişse indirim talebe bağlı olduğundan geri verme hükümleri uygulanamaz. Bu nedenle doğru cevap B seçeneğidir. (MD Tahsilat Seri No:2 m.31/3, 32/1, 41)"
+"g_harfli": "Tebliğe göre süresi içinde geri verme başvurusu yapılmışsa, itiraz süresinde itirazda bulunulmamış olması başvuruya engel değildir; yalnız II doğrudur. Geri verme kararı üzerine ödenecek tutar, mahsup hâlleri hariç gümrük müşavirinin değil asıl yükümlünün banka hesabına aktarılır; tescilden sonra ve ödemeden önce indirilen oranın uygulanması talep edilmemişse indirim talebe bağlı olduğundan geri verme hükümleri uygulanamaz. Bu nedenle doğru cevap B seçeneğidir. (MD Tahsilat Seri No:2 m.32/1, 40/1, 41)"
 },
 {
 "id": "D8-070",
@@ -2488,34 +2488,34 @@
 "konu": "Tahakkuk-Tebliğ-Ödeme",
 "tip": "T3",
 "z": "OÜ",
-"madde": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.9/1, 13/1-a",
+"madde": "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.9/1, 13/1-a, 13/1-b",
 "cek": "İtiraz edilmeyen vergi ve ceza kararları tebliğden itibaren 15 günlük idari itiraz süresinin bitiminde kesinleşir.",
 "kok": [
 "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre itiraz edilmeyen gümrük vergisi kararları **ne zaman** kesinleşir?"
 ],
 "d": "Tebliğ tarihinden itibaren 15 günlük itiraz süresinin bitiminde",
 "c": [
-"Tebliğ tarihinden itibaren 30 günlük itiraz süresinin bitiminde",
+"Tebliğ tarihinden itibaren idari yargıya başvurma süresinin bitiminde",
 "Tahakkuk tarihinden itibaren 15 günlük itiraz süresinin bitiminde",
-"Gümrük yükümlülüğünün doğduğu tarihten itibaren üç yılın bitiminde",
-"Kararın yükümlüye tebliğ edildiği tarihte"
+"Tahakkuk tarihinden itibaren idari yargıya başvurma süresinin bitiminde",
+"Yükümlülüğün doğduğu tarihten itibaren üç yılın bitiminde"
 ],
 "tuzak": false,
-"g": "Tebliğe göre gümrük vergileri ve para cezalarına ilişkin kararlar, itiraz edilmemesi hâlinde tebliğ tarihinden itibaren Gümrük Kanununda belirtilen 15 günlük idari itiraz süresinin bitiminde kesinleşir. Üç yıllık süre tahakkuk zamanaşımına ilişkindir; itiraz süresi de tahakkuk tarihinden değil tebliğ tarihinden başlar. (MD Tahsilat Seri No:2 m.9/1, 13/1-a)",
+"g": "Tebliğe göre gümrük vergileri ve para cezalarına ilişkin kararlar, itiraz edilmemesi hâlinde tebliğ tarihinden itibaren Gümrük Kanununda belirtilen 15 günlük idari itiraz süresinin bitiminde kesinleşir. İdari yargıya başvurma süresinin bitimi ancak idari itiraz reddedilmişse ve itirazın reddi kararının tebliğinden itibaren hesaplanarak kesinleşme anı olur; itiraz süresi de tahakkuk tarihinden değil tebliğ tarihinden başlar. Yükümlülüğün doğduğu tarihten itibaren üç yıl ise tahakkuk zamanaşımı süresidir. (MD Tahsilat Seri No:2 m.9/1, 13/1-a, 13/1-b)",
 "kanit": "45-tebliğ.txt | İtiraz edilmemesi halinde, tebliğ edildiği tarihten itibaren Gümrük Kanununun 242 nci maddesinde belirtilen 15 günlük idari itiraz süresinin bitiminde",
 "batch": "K10",
 "no": 70,
 "harf": "A",
 "opts": [
 "Tebliğ tarihinden itibaren 15 günlük itiraz süresinin bitiminde",
-"Tebliğ tarihinden itibaren 30 günlük itiraz süresinin bitiminde",
+"Tebliğ tarihinden itibaren idari yargıya başvurma süresinin bitiminde",
 "Tahakkuk tarihinden itibaren 15 günlük itiraz süresinin bitiminde",
-"Gümrük yükümlülüğünün doğduğu tarihten itibaren üç yılın bitiminde",
-"Kararın yükümlüye tebliğ edildiği tarihte"
+"Tahakkuk tarihinden itibaren idari yargıya başvurma süresinin bitiminde",
+"Yükümlülüğün doğduğu tarihten itibaren üç yılın bitiminde"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre gümrük vergileri ve para cezalarına ilişkin kararlar, itiraz edilmemesi hâlinde tebliğ tarihinden itibaren Gümrük Kanununda belirtilen 15 günlük idari itiraz süresinin bitiminde kesinleşir. Üç yıllık süre tahakkuk zamanaşımına ilişkindir; itiraz süresi de tahakkuk tarihinden değil tebliğ tarihinden başlar. Bu nedenle doğru cevap A seçeneğidir. (MD Tahsilat Seri No:2 m.9/1, 13/1-a)"
+"g_harfli": "Tebliğe göre gümrük vergileri ve para cezalarına ilişkin kararlar, itiraz edilmemesi hâlinde tebliğ tarihinden itibaren Gümrük Kanununda belirtilen 15 günlük idari itiraz süresinin bitiminde kesinleşir. İdari yargıya başvurma süresinin bitimi ancak idari itiraz reddedilmişse ve itirazın reddi kararının tebliğinden itibaren hesaplanarak kesinleşme anı olur; itiraz süresi de tahakkuk tarihinden değil tebliğ tarihinden başlar. Yükümlülüğün doğduğu tarihten itibaren üç yıl ise tahakkuk zamanaşımı süresidir. Bu nedenle doğru cevap A seçeneğidir. (MD Tahsilat Seri No:2 m.9/1, 13/1-a, 13/1-b)"
 },
 {
 "id": "D8-071",
@@ -2670,33 +2670,33 @@
 "tip": "T4",
 "z": "OÜ",
 "madde": "4458 sayılı Gümrük Kanunu m.3/3, 3/4",
-"cek": "TGB’de kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan tüzel kişi ve kişiler ortaklığı yerleşik kişidir; yalnız şube yeterlidir.",
+"cek": "Hukuken tüzel kişiliği olmayan kişiler ortaklığı da bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunuyorsa yerleşik kişi sayılır.",
 "kok": [
 "4458 sayılı Gümrük Kanununda tanımlanan \"Türkiye Cumhuriyeti Gümrük Bölgesinde yerleşik kişi\" deyimine ilişkin aşağıdakilerden hangisi doğrudur?"
 ],
-"d": "Kanuni iş merkezi yurt dışında olup bu bölgede şubesi bulunan tüzel kişi de yerleşik kişi sayılır.",
+"d": "Tüzel kişiliği bulunmayan kişiler ortaklığı da bölgede kayıtlı işyeri bulunuyorsa yerleşik kişi sayılır.",
 "c": [
 "Gerçek kişi, bölgede yerleşim yeri olmasa da kayıtlı işyeri bulunuyorsa yerleşik kişi sayılır.",
-"Tüzel kişiliği olmayan kişiler ortaklığı, kayıtlı işyeri bulunsa dahi yerleşik kişi sayılmaz.",
+"Kişiler ortaklığı, ancak bütün ortakları bölgede yerleşim yeri olan gerçek kişilerse yerleşik sayılır.",
 "Bölgede yerleşim yeri bulunan gerçek kişilerden yalnız Türk vatandaşları yerleşik kişi sayılır.",
 "Tüzel kişi, ancak kanuni iş merkezi bu bölgede bulunuyorsa yerleşik kişi sayılır."
 ],
 "tuzak": true,
-"g": "Kanuna göre Türkiye Cumhuriyeti Gümrük Bölgesinde yerleşik kişi, bu bölgede yerleşim yeri olan bütün gerçek kişiler ile bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan bütün tüzel kişi veya kişiler ortaklığıdır; bu unsurlardan birinin bulunması yeterli olduğundan bölgede yalnız şubesi bulunan tüzel kişi de yerleşiktir. Gerçek kişide ölçüt işyeri değil yerleşim yeridir ve vatandaşlık aranmaz; kişiler ortaklığı da tanımda açıkça sayılmıştır. (MD GK 3/3, 3/4)",
-"kanit": "1-TANIMLAR.txt | a) Bu bölgede yerleşim yeri[3] olan bütün gerçek kişileri; || 1-TANIMLAR.txt | b) Bu bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan bütün tüzel kişi veya kişiler ortaklığını;",
+"g": "Kanuna göre kişi deyimi, hukuken tüzel kişilik statüsüne sahip olmamakla birlikte hukuki tasarruf yetkisi tanınan kişiler ortaklığını da kapsar; bölgede yerleşik kişi ise bu bölgede yerleşim yeri olan bütün gerçek kişiler ile bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan bütün tüzel kişi veya kişiler ortaklığıdır. Bu nedenle kayıtlı işyeri bulunan kişiler ortaklığı, ortaklarının yerleşim yerine bakılmaksızın yerleşiktir. Gerçek kişide ölçüt işyeri değil yerleşim yeridir ve vatandaşlık aranmaz; tüzel kişide kanuni iş merkezinin bölgede bulunması şart değildir, kayıtlı işyeri veya şube de yeterlidir. (MD GK 3/3, 3/4)",
+"kanit": "1-TANIMLAR.txt | \"Kişi\" deyimi, gerçek ve tüzel kişiler ile hukuken tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat uyarınca hukuki tasarruflar yapma yetkisi tanınan kişiler ortaklığını; || 1-TANIMLAR.txt | a) Bu bölgede yerleşim yeri[3] olan bütün gerçek kişileri; || 1-TANIMLAR.txt | b) Bu bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan bütün tüzel kişi veya kişiler ortaklığını;",
 "batch": "K01",
 "no": 75,
 "harf": "E",
 "opts": [
 "Gerçek kişi, bölgede yerleşim yeri olmasa da kayıtlı işyeri bulunuyorsa yerleşik kişi sayılır.",
-"Tüzel kişiliği olmayan kişiler ortaklığı, kayıtlı işyeri bulunsa dahi yerleşik kişi sayılmaz.",
+"Kişiler ortaklığı, ancak bütün ortakları bölgede yerleşim yeri olan gerçek kişilerse yerleşik sayılır.",
 "Bölgede yerleşim yeri bulunan gerçek kişilerden yalnız Türk vatandaşları yerleşik kişi sayılır.",
 "Tüzel kişi, ancak kanuni iş merkezi bu bölgede bulunuyorsa yerleşik kişi sayılır.",
-"Kanuni iş merkezi yurt dışında olup bu bölgede şubesi bulunan tüzel kişi de yerleşik kişi sayılır."
+"Tüzel kişiliği bulunmayan kişiler ortaklığı da bölgede kayıtlı işyeri bulunuyorsa yerleşik kişi sayılır."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre Türkiye Cumhuriyeti Gümrük Bölgesinde yerleşik kişi, bu bölgede yerleşim yeri olan bütün gerçek kişiler ile bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan bütün tüzel kişi veya kişiler ortaklığıdır; bu unsurlardan birinin bulunması yeterli olduğundan bölgede yalnız şubesi bulunan tüzel kişi de yerleşiktir. Gerçek kişide ölçüt işyeri değil yerleşim yeridir ve vatandaşlık aranmaz; kişiler ortaklığı da tanımda açıkça sayılmıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 3/3, 3/4)"
+"g_harfli": "Kanuna göre kişi deyimi, hukuken tüzel kişilik statüsüne sahip olmamakla birlikte hukuki tasarruf yetkisi tanınan kişiler ortaklığını da kapsar; bölgede yerleşik kişi ise bu bölgede yerleşim yeri olan bütün gerçek kişiler ile bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan bütün tüzel kişi veya kişiler ortaklığıdır. Bu nedenle kayıtlı işyeri bulunan kişiler ortaklığı, ortaklarının yerleşim yerine bakılmaksızın yerleşiktir. Gerçek kişide ölçüt işyeri değil yerleşim yeridir ve vatandaşlık aranmaz; tüzel kişide kanuni iş merkezinin bölgede bulunması şart değildir, kayıtlı işyeri veya şube de yeterlidir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 3/3, 3/4)"
 },
 {
 "id": "D8-076",
@@ -2717,16 +2717,16 @@
 "d": "II ve III",
 "c": [
 "Yalnız II",
-"I ve III",
-"II ve IV",
-"I, II ve III"
+"I ve IV",
+"I, II ve III",
+"I, III ve IV"
 ],
 "opts": [
 "Yalnız II",
-"I ve III",
+"I ve IV",
 "II ve III",
-"II ve IV",
-"I, II ve III"
+"I, II ve III",
+"I, III ve IV"
 ],
 "tuzak": false,
 "g": "Tebliğe göre menşe ve dolaşım belgelerinin sonradan ibrazının öngörüldüğü hâller dışında, vergilendirmeyi doğrudan etkileyen diğer belgelerin sonradan ibrazında geri verme talebi reddedilir; II yanlıştır. Yönetmeliğe göre indirimli oranın uygulanmaması idarenin yanlışlığından kaynaklanıyor ve beyanname tüm ayrıntıları ile gerekli belgeleri içeriyorsa şartlar yerine getirilmemiş olsa dahi geri verme hakkı tanınır; III yanlıştır. (MD GY 507; Tahsilat Seri No:2 m.38/1-b, c)",
@@ -2820,13 +2820,13 @@
 "konu": "Gümrük Kıymeti",
 "tip": "T1+T2",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.27/1-a-iii; Gümrük Yönetmeliği m.51/4, m.51/5, m.51/10",
-"cek": "İthal ülkesindeki ilave posta-kargo ücreti kıymete girmez; ambalaj bedeli işçilik dahil eklenir; tekrar kullanılan kaplar paylaştırılır; abonman poliçesi kabul edilir.",
+"madde": "Gümrük Yönetmeliği m.51/4, m.51/5, m.51/9, m.51/10; 4458 sayılı Gümrük Kanunu m.27/1-e",
+"cek": "İthal ülkesindeki ilave posta-kargo kıymete girmez; 71.08 eşyada navlun belgesi yoksa teslim şekli esas alınır; kaplar paylaştırılır; abonman poliçesi kabul edilir.",
 "kok": [
-"4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre fiyata yapılacak ilavelere ilişkin aşağıdaki ifadeler veriliyor:",
+"Gümrük Yönetmeliğine göre fiilen ödenen veya ödenecek fiyata yapılacak ilavelere ilişkin aşağıdaki ifadeler veriliyor:",
 "I. Teslim yerine kadar alınan posta ve kargo ücretleri ile ithal ülkesinde alınan ilave posta ve kargo ücretleri gümrük kıymetine dahildir.",
 "II. Tek eşya muamelesi gören kaplar tekrarlanan ithalatlarda kullanılacaksa, talep üzerine bunların maliyeti uygun şekilde paylaştırılır.",
-"III. Alıcının üstlendiği ambalaj bedeli, işçilik giderleri hariç tutularak yalnızca malzeme giderleri üzerinden fiyata ilave edilir.",
+"III. Navlun faturası ibraz edilemeyen 71.08 tarife pozisyonundaki eşyada, vergi kaybı söz konusu değilse FOB kıymetinin %10'u navlun bedeli olarak fiyata eklenir.",
 "IV. Abonman sözleşmesine istinaden düzenlenen ve koşulları taşıyan sigorta poliçeleri, eşya Türkiye'ye geldikten sonra düzenlenmiş olsa da kabul edilir.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
@@ -2845,14 +2845,14 @@
 "I, III ve IV"
 ],
 "tuzak": false,
-"g": "İthal ülkesinde alınan ilave posta ve kargo ücretleri hariç olmak üzere teslim yerine kadarki posta ve kargo ücretleri kıymete dahil olduğundan I, ambalaj bedeli işçilik ve malzeme giderleri dahil olarak ilave edildiğinden III yanlıştır. Tekrarlanan ithalatlarda kullanılacak kapların maliyetinin talep üzerine genel kabul görmüş muhasebe prensiplerine göre paylaştırılması ile abonman sözleşmesine dayalı poliçelerin şartları taşıması hâlinde kabulü doğrudur. (MD GK 27/1-a-iii; GY 51/4, 51/5, 51/10)",
-"kanit": "12-KIYMET VE KAPLAR.txt | İthal ülkesinde alınan ilave posta ve kargo ücretleri hariç olmak üzere, eşyanın teslim yerine kadar alınan tüm posta ve kargo ücretleri gümrük kıymetine dahildir. || 12-KIYMET VE KAPLAR.txt | iii) İşçilik ve malzeme giderleri dahil ambalaj bedeli; || 12-KIYMET VE KAPLAR.txt | mezkur maliyetler genel kabul görmüş muhasebe prensipleri çerçevesinde uygun şekilde paylaştırılır || 12-KIYMET VE KAPLAR.txt | eşya Türkiye'ye geldikten sonra düzenlenmiş sigorta poliçeleri, gümrük idaresince yapılacak inceleme sonucunda gerekli koşulları taşıdığının anlaşılması halinde kabul edilir",
+"g": "İthal ülkesinde alınan ilave posta ve kargo ücretleri hariç olmak üzere teslim yerine kadarki posta ve kargo ücretleri kıymete dahil olduğundan I yanlıştır. Navlun belgesi ibraz edilemediğinde FOB kıymetinin %10'unun navlun olarak eklenebilmesi genel kuraldır; ancak 71.08 tarife pozisyonundaki eşyada vergi kaybı olmaması kaydıyla işlemler faturada belirtilen teslim şekli esas alınarak tamamlandığından III de yanlıştır. Tekrarlanan ithalatlarda kullanılacak kapların maliyetinin talep üzerine paylaştırılması ile abonman sözleşmesine dayalı poliçelerin koşulları taşıması hâlinde kabulü doğrudur. (MD GY 51/4, 51/5, 51/9, 51/10)",
+"kanit": "12-KIYMET VE KAPLAR.txt | İthal ülkesinde alınan ilave posta ve kargo ücretleri hariç olmak üzere, eşyanın teslim yerine kadar alınan tüm posta ve kargo ücretleri gümrük kıymetine dahildir. || 12-KIYMET VE KAPLAR.txt | Ancak, 71.08 tarife pozisyonunda yer alan eşyanın sigorta poliçesi veya navlun faturasının ibraz edilememesi halinde, vergi kaybı olmaması kaydıyla, işlemler eşyanın faturasında belirtilen teslim şekli esas alınarak tekemmül ettirilir. || 12-KIYMET VE KAPLAR.txt | mezkur maliyetler genel kabul görmüş muhasebe prensipleri çerçevesinde uygun şekilde paylaştırılır || 12-KIYMET VE KAPLAR.txt | eşya Türkiye'ye geldikten sonra düzenlenmiş sigorta poliçeleri, gümrük idaresince yapılacak inceleme sonucunda gerekli koşulları taşıdığının anlaşılması halinde kabul edilir",
 "batch": "K02",
 "no": 79,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "İthal ülkesinde alınan ilave posta ve kargo ücretleri hariç olmak üzere teslim yerine kadarki posta ve kargo ücretleri kıymete dahil olduğundan I, ambalaj bedeli işçilik ve malzeme giderleri dahil olarak ilave edildiğinden III yanlıştır. Tekrarlanan ithalatlarda kullanılacak kapların maliyetinin talep üzerine genel kabul görmüş muhasebe prensiplerine göre paylaştırılması ile abonman sözleşmesine dayalı poliçelerin şartları taşıması hâlinde kabulü doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 27/1-a-iii; GY 51/4, 51/5, 51/10)"
+"g_harfli": "İthal ülkesinde alınan ilave posta ve kargo ücretleri hariç olmak üzere teslim yerine kadarki posta ve kargo ücretleri kıymete dahil olduğundan I yanlıştır. Navlun belgesi ibraz edilemediğinde FOB kıymetinin %10'unun navlun olarak eklenebilmesi genel kuraldır; ancak 71.08 tarife pozisyonundaki eşyada vergi kaybı olmaması kaydıyla işlemler faturada belirtilen teslim şekli esas alınarak tamamlandığından III de yanlıştır. Tekrarlanan ithalatlarda kullanılacak kapların maliyetinin talep üzerine paylaştırılması ile abonman sözleşmesine dayalı poliçelerin koşulları taşıması hâlinde kabulü doğrudur. Bu nedenle doğru cevap C seçeneğidir. (MD GY 51/4, 51/5, 51/9, 51/10)"
 },
 {
 "id": "D8-080",
@@ -2906,16 +2906,16 @@
 ],
 "d": "II ve III",
 "c": [
+"Yalnız I",
 "Yalnız II",
 "Yalnız III",
-"I ve II",
-"I ve III"
+"I ve II"
 ],
 "opts": [
+"Yalnız I",
 "Yalnız II",
 "Yalnız III",
 "I ve II",
-"I ve III",
 "II ve III"
 ],
 "tuzak": false,
@@ -2947,14 +2947,14 @@
 "d": "I ve II",
 "c": [
 "I ve IV",
-"II ve III",
+"III ve IV",
 "I, II ve III",
 "I, II ve IV"
 ],
 "opts": [
 "I ve II",
 "I ve IV",
-"II ve III",
+"III ve IV",
 "I, II ve III",
 "I, II ve IV"
 ],
@@ -3058,8 +3058,8 @@
 "Yükümlü"
 ],
 "tuzak": false,
-"g": "Kanunda kullanıcı, eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişi olarak tanımlanır. Antrepo işleticisi ise gümrük antreposu işletmesine izin verilen kişidir; B tipi genel antrepoda eşyadan sorumlu olan ve beyannameyi veren kişi de kullanıcıdır. (MD GK 93/2)",
-"kanit": "28-antrepo rejimi.txt | Kullanıcı, eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişidir",
+"g": "Kanunda kullanıcı, eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişi olarak tanımlanır. Antrepo işleticisi gümrük antreposu işletmesine izin verilen kişi, yükümlü ise gümrük yükümlülüğünü yerine getirmekle sorumlu bütün kişilerdir; tanımdaki rejim beyanı ve hak-yükümlülük devri unsurları yalnız kullanıcıyı karşılar. (MD GK 93/2; GK 3/11)",
+"kanit": "28-antrepo rejimi.txt | Kullanıcı, eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişidir || 28-antrepo rejimi.txt | Antrepo işleticisi, gümrük antreposu işletmesine izin verilen kişidir || 1-TANIMLAR.txt | \"Yükümlü\" deyimi, gümrük yükümlülüğünü … yerine getirmekle sorumlu bütün kişileri",
 "batch": "K08",
 "no": 85,
 "harf": "E",
@@ -3072,7 +3072,7 @@
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanunda kullanıcı, eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişi olarak tanımlanır. Antrepo işleticisi ise gümrük antreposu işletmesine izin verilen kişidir; B tipi genel antrepoda eşyadan sorumlu olan ve beyannameyi veren kişi de kullanıcıdır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 93/2)"
+"g_harfli": "Kanunda kullanıcı, eşyanın antrepo rejimi beyanında bulunan kişi veya bu kişinin hak ve yükümlülüklerinin devredildiği kişi olarak tanımlanır. Antrepo işleticisi gümrük antreposu işletmesine izin verilen kişi, yükümlü ise gümrük yükümlülüğünü yerine getirmekle sorumlu bütün kişilerdir; tanımdaki rejim beyanı ve hak-yükümlülük devri unsurları yalnız kullanıcıyı karşılar. Bu nedenle doğru cevap E seçeneğidir. (MD GK 93/2; GK 3/11)"
 },
 {
 "id": "D8-086",
@@ -3080,35 +3080,34 @@
 "konu": "Bağlayıcı Bilgi (BTB/BMB)",
 "tip": "T3",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.9/2; Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.16/1",
-"cek": "BTB gümrük idarelerini yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu eşya için bağlar; ölçüt tamamlanma tarihidir.",
+"madde": "Gümrük Genel Tebliği (Tarife) (Seri No: 11) m.11/1; Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.13/1",
+"cek": "Tarife bilgisi heyeti başmüdür yardımcısı başkanlığında en az iki muayene memuruyla kurulur; BTB heyeti bölge müdür yardımcısı başkanlığında üç muayene memurludur.",
 "kok": [
-"4458 sayılı Gümrük Kanununa göre bağlayıcı tarife bilgisi, gümrük idarelerini **yalnızca hangi** gümrük işlemlerine konu eşya bakımından bağlar?"
+"Gümrük Genel Tebliği (Tarife) (Seri No: 11)'e göre tarife bilgisi heyeti **kimin başkanlığında, en az kaç** memurla kurulur?"
 ],
-"d": "Bilginin verildiği tarihten sonra tamamlanacak işlemlere konu eşya için",
+"d": "Başmüdür yardımcısı başkanlığında, en az iki muayene memuruyla",
 "c": [
-"Başvurunun yapıldığı tarihten sonra tamamlanacak işlemlere konu eşya için",
-"Bilginin verildiği tarihten sonra başlatılacak işlemlere konu eşya için",
-"Bilginin verildiği tarihten önce tamamlanmış işlemler dâhil tüm eşya için",
-"Bilginin hak sahibine bildirildiği yılın sonundan sonraki işlemler için"
+"Başmüdür yardımcısı başkanlığında, en az üç muayene memuruyla",
+"Bölge müdür yardımcısı başkanlığında, en az iki muayene memuruyla",
+"Bölge müdür yardımcısı başkanlığında, en az üç muayene memuruyla",
+"Bölge müdürü başkanlığında, en az dört muayene memuruyla"
 ],
 "tuzak": false,
-"g": "Bağlayıcı tarife bilgisi, gümrük idarelerini hak sahibine karşı yalnızca eşyanın tarife pozisyonu konusunda ve bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu eşya için bağlar. Ölçüt işlemin başlatıldığı değil tamamlandığı tarihtir; başvuru tarihi ya da bilgi tarihinden önce tamamlanmış işlemler esas alınmaz. (MD GK 9/2; Tarife Seri No:14 m.16)",
-"kanit": "7-BİLGİ.txt | yalnızca bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu olan eşya için bağlar.",
-"sapma": "T3 planı: BTB sayısal süreleri hafızada tükendiği için zaman ölçütü soruldu",
+"g": "Tebliğe göre tarife bilgisi talebi, Gümrük ve Muhafaza Başmüdürlüğünde görevli bir başmüdür yardımcısı başkanlığında en az iki muayene memurunun katılımıyla oluşan heyetçe incelenir ve eşyanın sınıflandırıldığı GTİP tutanağa bağlanır. Bölge müdür yardımcısı başkanlığında bir gümrük müdürü veya şube müdürü ile üç muayene memurundan oluşan heyet ise bağlayıcı tarife bilgisi başvurularını inceler; bölge müdürü ise heyete başkanlık edecek bölge müdür yardımcısını görevlendirir. (MD Tarife Seri No:11 m.11/1; Tarife Seri No:14 m.13/1)",
+"kanit": "7-BİLGİ.txt | Gümrük ve Muhafaza Başmüdürlüğünde görevli bir başmüdür yardımcısı başkanlığında en az iki muayene memurunun katılımıyla oluşacak heyet tarafından yapılacak inceleme ve değerlendirme neticesinde || 7-BİLGİ.txt | bölge müdürü tarafından görevlendirilecek bir bölge müdür yardımcısı başkanlığında bir gümrük müdürü veya şube müdürü ve üç muayene memurundan oluşacak heyet",
 "batch": "K15",
 "no": 86,
 "harf": "B",
 "opts": [
-"Başvurunun yapıldığı tarihten sonra tamamlanacak işlemlere konu eşya için",
-"Bilginin verildiği tarihten sonra tamamlanacak işlemlere konu eşya için",
-"Bilginin verildiği tarihten sonra başlatılacak işlemlere konu eşya için",
-"Bilginin verildiği tarihten önce tamamlanmış işlemler dâhil tüm eşya için",
-"Bilginin hak sahibine bildirildiği yılın sonundan sonraki işlemler için"
+"Başmüdür yardımcısı başkanlığında, en az üç muayene memuruyla",
+"Başmüdür yardımcısı başkanlığında, en az iki muayene memuruyla",
+"Bölge müdür yardımcısı başkanlığında, en az iki muayene memuruyla",
+"Bölge müdür yardımcısı başkanlığında, en az üç muayene memuruyla",
+"Bölge müdürü başkanlığında, en az dört muayene memuruyla"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Bağlayıcı tarife bilgisi, gümrük idarelerini hak sahibine karşı yalnızca eşyanın tarife pozisyonu konusunda ve bilginin verildiği tarihten sonra tamamlanacak gümrük işlemlerine konu eşya için bağlar. Ölçüt işlemin başlatıldığı değil tamamlandığı tarihtir; başvuru tarihi ya da bilgi tarihinden önce tamamlanmış işlemler esas alınmaz. Bu nedenle doğru cevap B seçeneğidir. (MD GK 9/2; Tarife Seri No:14 m.16)"
+"g_harfli": "Tebliğe göre tarife bilgisi talebi, Gümrük ve Muhafaza Başmüdürlüğünde görevli bir başmüdür yardımcısı başkanlığında en az iki muayene memurunun katılımıyla oluşan heyetçe incelenir ve eşyanın sınıflandırıldığı GTİP tutanağa bağlanır. Bölge müdür yardımcısı başkanlığında bir gümrük müdürü veya şube müdürü ile üç muayene memurundan oluşan heyet ise bağlayıcı tarife bilgisi başvurularını inceler; bölge müdürü ise heyete başkanlık edecek bölge müdür yardımcısını görevlendirir. Bu nedenle doğru cevap B seçeneğidir. (MD Tarife Seri No:11 m.11/1; Tarife Seri No:14 m.13/1)"
 },
 {
 "id": "D8-087",
@@ -3123,27 +3122,27 @@
 ],
 "d": "3 saate tekabül eden ithalat işlemleri fazla mesai ücreti kadar tutar",
 "c": [
-"Ücret alınmaz; yalnızca tahlil ve geri gönderme masrafları karşılanır",
+"Ücret alınmaz; yalnızca tahlil, ekspertiz ve geri gönderme masrafları karşılanır",
 "1 saate tekabül eden ithalat işlemleri fazla mesai ücreti kadar tutar",
 "3 saate tekabül eden ihracat işlemleri fazla mesai ücreti kadar tutar",
-"Görevli personel sayısından bağımsız olarak belirlenen sabit başvuru ücreti"
+"1 saate tekabül eden ihracat işlemleri fazla mesai ücreti kadar tutar"
 ],
 "tuzak": false,
-"g": "Tebliğe göre tarife bilgisinin verilmesinde, fazla mesai ile fiilen görevli personel sayısı da gözetilerek 3 saate tekabül eden ithalat gümrük işlemlerine uygulanan fazla mesai ücreti kadar tutar ile kimyevi tahlil, ekspertiz veya geri gönderme masrafları başvuru sahibince karşılanır. Ücretsizlik ve yalnızca masrafların karşılanması kuralı bağlayıcı tarife bilgisine ilişkindir; ölçü ihracat işlemlerinin değil ithalat gümrük işlemlerinin fazla mesai ücretidir. (MD Tarife Seri No:11 m.5/1, 5/4; Tarife Seri No:14 m.5/1)",
+"g": "Tebliğe göre tarife bilgisinin verilmesinde, fazla mesai ile fiilen görevli personel sayısı da gözetilerek 3 saate tekabül eden ithalat gümrük işlemlerine uygulanan fazla mesai ücreti kadar tutar ile kimyevi tahlil, ekspertiz veya geri gönderme masrafları başvuru sahibince karşılanır. Ücretsizlik ve yalnızca masrafların karşılanması kuralı bağlayıcı tarife bilgisine ilişkindir; ölçü de bir saatlik değil üç saatlik ve ihracat değil ithalat gümrük işlemlerine uygulanan fazla mesai ücretidir. (MD Tarife Seri No:11 m.5/1, 5/4; Tarife Seri No:14 m.5/1)",
 "kanit": "7-BİLGİ.txt | Tarife bilgisinin verilmesinde fazla mesai ile fiilen görevli personel sayısı da göz önünde bulundurularak 3 saate tekabül eden ithalat gümrük işlemlerine uygulanan fazla mesai ücreti kadar tutar || 7-BİLGİ.txt | BTB, talep edene ücretsiz olarak verilir.",
 "batch": "K15",
 "no": 87,
 "harf": "E",
 "opts": [
-"Ücret alınmaz; yalnızca tahlil ve geri gönderme masrafları karşılanır",
+"Ücret alınmaz; yalnızca tahlil, ekspertiz ve geri gönderme masrafları karşılanır",
 "1 saate tekabül eden ithalat işlemleri fazla mesai ücreti kadar tutar",
 "3 saate tekabül eden ihracat işlemleri fazla mesai ücreti kadar tutar",
-"Görevli personel sayısından bağımsız olarak belirlenen sabit başvuru ücreti",
+"1 saate tekabül eden ihracat işlemleri fazla mesai ücreti kadar tutar",
 "3 saate tekabül eden ithalat işlemleri fazla mesai ücreti kadar tutar"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre tarife bilgisinin verilmesinde, fazla mesai ile fiilen görevli personel sayısı da gözetilerek 3 saate tekabül eden ithalat gümrük işlemlerine uygulanan fazla mesai ücreti kadar tutar ile kimyevi tahlil, ekspertiz veya geri gönderme masrafları başvuru sahibince karşılanır. Ücretsizlik ve yalnızca masrafların karşılanması kuralı bağlayıcı tarife bilgisine ilişkindir; ölçü ihracat işlemlerinin değil ithalat gümrük işlemlerinin fazla mesai ücretidir. Bu nedenle doğru cevap E seçeneğidir. (MD Tarife Seri No:11 m.5/1, 5/4; Tarife Seri No:14 m.5/1)"
+"g_harfli": "Tebliğe göre tarife bilgisinin verilmesinde, fazla mesai ile fiilen görevli personel sayısı da gözetilerek 3 saate tekabül eden ithalat gümrük işlemlerine uygulanan fazla mesai ücreti kadar tutar ile kimyevi tahlil, ekspertiz veya geri gönderme masrafları başvuru sahibince karşılanır. Ücretsizlik ve yalnızca masrafların karşılanması kuralı bağlayıcı tarife bilgisine ilişkindir; ölçü de bir saatlik değil üç saatlik ve ihracat değil ithalat gümrük işlemlerine uygulanan fazla mesai ücretidir. Bu nedenle doğru cevap E seçeneğidir. (MD Tarife Seri No:11 m.5/1, 5/4; Tarife Seri No:14 m.5/1)"
 },
 {
 "id": "D8-088",
@@ -3235,14 +3234,14 @@
 ],
 "d": "I, II ve IV",
 "c": [
-"Yalnız II",
 "I ve II",
+"I ve III",
 "II ve IV",
 "I, II ve III"
 ],
 "opts": [
-"Yalnız II",
 "I ve II",
+"I ve III",
 "II ve IV",
 "I, II ve III",
 "I, II ve IV"
@@ -3423,15 +3422,15 @@
 "d": "Yalnız I",
 "c": [
 "Yalnız II",
+"I ve II",
 "I ve III",
-"I ve IV",
 "II ve IV"
 ],
 "opts": [
 "Yalnız I",
 "Yalnız II",
+"I ve II",
 "I ve III",
-"I ve IV",
 "II ve IV"
 ],
 "tuzak": false,
@@ -3520,40 +3519,40 @@
 "cikmis": "2023/98",
 "konu": "Gümrük Kıymeti",
 "tip": "T1+T2",
-"z": "OÜ",
-"madde": "Gümrük Yönetmeliği m.43/1-a, m.55/1-b, d, g, m.55/2",
-"cek": "Tek bayilik kıstaslara uymadıkça ilişki değildir; yasal ortaklık, kontrol ve büyükbaba-torun bağı hisse oranı aranmaksızın ilişki sayılır.",
+"z": "Z",
+"madde": "Gümrük Yönetmeliği m.43/1-a, m.55/1-d, m.55/1-g, m.55/2",
+"cek": "Baba bir kardeşler ile eşin babası ve dayı aile üyesi sayılır; kontrol kıstasını karşılayan tek distribütör ilişkili sayılır.",
 "kok": [
 "Gümrük Yönetmeliğine göre, gümrük kıymetinin belirlenmesinde alıcı (K) ile satıcı (L) arasında ilişki bulunup bulunmadığına ilişkin aşağıdaki değerlendirmeler yapılmıştır:",
-"I. (K), (L)'nin Türkiye'deki tek bayiidir ve aralarında Yönetmelikteki kıstaslardan herhangi birine uyan başka bir bağ yoktur; taraflar ilişkili sayılır.",
-"II. (L) firması, (K) firmasını dolaylı olarak kontrol etmektedir; taraflar ilişkili sayılır.",
-"III. (K) şahıs firmasının sahibi, (L) şahıs firmasının sahibinin torunudur; taraflar ilişkili sayılır.",
-"IV. (K) ve (L) birbirlerinin yasal ortaklarıdır; ancak ortaklık payları %5'in altında kaldığından taraflar ilişkili sayılmaz.",
+"I. (K) şahıs firmasının sahibi ile (L) şahıs firmasının sahibi, anneleri farklı olan baba bir kardeşlerdir; öz kardeş olmadıklarından taraflar ilişkili sayılmaz.",
+"II. (K) şahıs firmasının sahibi, (L) şahıs firmasının sahibinin eşinin babasıdır; taraflar ilişkili sayılır.",
+"III. (K) şahıs firmasının sahibi, (L) şahıs firmasının sahibinin dayısıdır; taraflar ilişkili sayılır.",
+"IV. (K), (L)'nin Türkiye'deki tek distribütörüdür ve (L), (K)'yı dolaysız olarak kontrol etmektedir; tek distribütörlük ilişkisi nedeniyle taraflar ilişkili sayılmaz.",
 "Yukarıdaki değerlendirmelerden hangileri [[yanlıştır]]?"
 ],
 "d": "I ve IV",
 "c": [
 "I ve II",
-"II ve IV",
+"II ve III",
 "I, II ve IV",
 "I, III ve IV"
 ],
 "opts": [
 "I ve II",
 "I ve IV",
-"II ve IV",
+"II ve III",
 "I, II ve IV",
 "I, III ve IV"
 ],
 "tuzak": false,
-"g": "Tek acente, tek distribütör veya tek bayi olarak iş ilişkisi içinde bulunanlar Yönetmelikteki kıstaslara uymadıkça ilişkili sayılmadığından I, birbirlerinin yasal ortakları olmak hisse oranından bağımsız ayrı bir ilişki hâli olduğundan IV yanlıştır. Birinin diğerini dolaylı kontrol etmesi ve büyükbaba ile torunun aynı ailenin üyesi sayılması ilişki hâlleridir; II ve III doğrudur. (MD GY 43/1-a, 55/1, 55/2)",
-"kanit": "12-KIYMET VE KAPLAR.txt | Tek acente, tek distribütör veya tek bayii olarak birbiri ile iş ilişkisi içinde bulunan kişilerin yukarıdaki kıstaslara uymamaları durumunda, ilişki içinde olmadıkları kabul edilir. || 12-KIYMET VE KAPLAR.txt | b) Birbirlerinin yasal ortakları olmaları, || 12-KIYMET VE KAPLAR.txt | d) Birinin diğerini dolaylı veya dolaysız olarak kontrol etmesi, || 12-KIYMET VE KAPLAR.txt | büyükbaba, büyükanne, torun",
+"g": "Aynı ailenin üyeleri arasında sayılan erkek ve kız kardeşler, öz kardeşlerle sınırlı olmayıp anne veya babadan biri öz olanları da kapsadığından baba bir kardeşler ilişkili sayılır ve I yanlıştır. Tek distribütör olarak iş ilişkisi içinde bulunanlar ancak Yönetmelikteki kıstaslara uymadıklarında ilişkisiz kabul edilir; (L)'nin (K)'yı dolaysız kontrol etmesi bir kıstas olduğundan taraflar ilişkilidir ve IV de yanlıştır. Eşlerin anne ve babası ile dayı aile üyeleri arasında sayıldığından II ve III doğrudur. (MD GY 43/1-a, 55/1-d, 55/1-g, 55/2)",
+"kanit": "12-KIYMET VE KAPLAR.txt | erkek ve kız kardeş (öz ya da anne veya babadan biri öz), büyükbaba, büyükanne, torun, amca, dayı, hala, teyze, yeğen, eşlerin anne ve babası || 12-KIYMET VE KAPLAR.txt | Tek acente, tek distribütör veya tek bayii olarak birbiri ile iş ilişkisi içinde bulunan kişilerin yukarıdaki kıstaslara uymamaları durumunda, ilişki içinde olmadıkları kabul edilir. || 12-KIYMET VE KAPLAR.txt | d) Birinin diğerini dolaylı veya dolaysız olarak kontrol etmesi,",
 "batch": "K02",
 "no": 98,
 "harf": "B",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tek acente, tek distribütör veya tek bayi olarak iş ilişkisi içinde bulunanlar Yönetmelikteki kıstaslara uymadıkça ilişkili sayılmadığından I, birbirlerinin yasal ortakları olmak hisse oranından bağımsız ayrı bir ilişki hâli olduğundan IV yanlıştır. Birinin diğerini dolaylı kontrol etmesi ve büyükbaba ile torunun aynı ailenin üyesi sayılması ilişki hâlleridir; II ve III doğrudur. Bu nedenle doğru cevap B seçeneğidir. (MD GY 43/1-a, 55/1, 55/2)"
+"g_harfli": "Aynı ailenin üyeleri arasında sayılan erkek ve kız kardeşler, öz kardeşlerle sınırlı olmayıp anne veya babadan biri öz olanları da kapsadığından baba bir kardeşler ilişkili sayılır ve I yanlıştır. Tek distribütör olarak iş ilişkisi içinde bulunanlar ancak Yönetmelikteki kıstaslara uymadıklarında ilişkisiz kabul edilir; (L)'nin (K)'yı dolaysız kontrol etmesi bir kıstas olduğundan taraflar ilişkilidir ve IV de yanlıştır. Eşlerin anne ve babası ile dayı aile üyeleri arasında sayıldığından II ve III doğrudur. Bu nedenle doğru cevap B seçeneğidir. (MD GY 43/1-a, 55/1-d, 55/1-g, 55/2)"
 },
 {
 "id": "D8-099",
@@ -3603,26 +3602,26 @@
 ],
 "d": "Geminin kaptanı, donatanı veya mümessili tarafından yükletene",
 "c": [
-"Yükleten tarafından geminin kaptanına veya donatanına",
-"Eşyanın alıcısı tarafından geminin kaptanına veya acentesine",
-"Liman işleticisi tarafından yükletene veya eşyanın alıcısına",
-"Geminin kaptanı veya donatanı tarafından varış gümrük idaresine"
+"Geminin kaptanı, donatanı veya mümessili tarafından eşyanın alıcısına",
+"Eşyayı teslim alan liman işleticisi tarafından yükletene",
+"Eşyayı teslim alan liman işleticisi tarafından eşyanın alıcısına",
+"Yükleten tarafından geminin kaptanına, donatanına veya mümessiline"
 ],
 "tuzak": false,
-"g": "Deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından yükletene taşıma belgesi olarak konşimento verilir. Konşimentoyu yükleten veya alıcı vermez; liman işleticisi tarafından verilen ya da gümrük idaresine verilen bir belge olarak da tanımlanmamıştır. (MD GY 118/1)",
+"g": "Deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından yükletene taşıma belgesi olarak konşimento verilir. Belgeyi veren taraf liman işleticisi, alan taraf da eşyanın alıcısı olarak öngörülmemiştir; konşimento yükletenin kaptana verdiği bir belge olarak da tanımlanmamıştır. (MD GY 118/1)",
 "kanit": "17-BEYAN.txt | Deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından yükletene taşıma belgesi olarak konşimento verilir.",
 "batch": "K04",
 "no": 100,
 "harf": "B",
 "opts": [
-"Yükleten tarafından geminin kaptanına veya donatanına",
+"Geminin kaptanı, donatanı veya mümessili tarafından eşyanın alıcısına",
 "Geminin kaptanı, donatanı veya mümessili tarafından yükletene",
-"Eşyanın alıcısı tarafından geminin kaptanına veya acentesine",
-"Liman işleticisi tarafından yükletene veya eşyanın alıcısına",
-"Geminin kaptanı veya donatanı tarafından varış gümrük idaresine"
+"Eşyayı teslim alan liman işleticisi tarafından yükletene",
+"Eşyayı teslim alan liman işleticisi tarafından eşyanın alıcısına",
+"Yükleten tarafından geminin kaptanına, donatanına veya mümessiline"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından yükletene taşıma belgesi olarak konşimento verilir. Konşimentoyu yükleten veya alıcı vermez; liman işleticisi tarafından verilen ya da gümrük idaresine verilen bir belge olarak da tanımlanmamıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 118/1)"
+"g_harfli": "Deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından yükletene taşıma belgesi olarak konşimento verilir. Belgeyi veren taraf liman işleticisi, alan taraf da eşyanın alıcısı olarak öngörülmemiştir; konşimento yükletenin kaptana verdiği bir belge olarak da tanımlanmamıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 118/1)"
 }
 ]

@@ -1,141 +1,114 @@
-D6-023 [T1+T2] öncül ~ D3 (kapsama 0.87, jaccard 0.76)
-   YENİ: I. Özel antrepo işletme izninde, eşyanın gümrük gözetimi altında bulunmasını sağlama yükümlülüğünün münhasıran kullanıcıya ait olduğu belirtilebilir.
-   ESKİ: C) Genel antrepo işletme izninde, eşyanın gümrük gözetimi altında bulunmasını sağlama yükümlülüğünün münhasıran kullanıcıya ait olduğu belirtilemez.
-D6-047 [T2] öncül ~ D4 (kapsama 0.77, jaccard 0.59)
-   YENİ: I. Teminat, tek bir transit işlemi için bireysel teminat veya Müsteşarlık tarafından izin verilmesi halinde birden fazla transit işlemi için kapsamlı teminat şeklinde olabilir.
-   ESKİ: B) Ulusal ve ortak transit rejimlerinde teminat, tek bir işlemi kapsayan bireysel teminat veya birden fazla işlemi kapsayan kapsamlı teminat şeklinde olabilir.
-D6-090 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.71)
+D6-090 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: A) Uludağ Gümrük ve Dış Ticaret Bölge Müdürlüğü
+   ESKİ: B) Doğu Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D6-090 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
    ESKİ: C) Orta Anadolu Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D6-090 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
+D6-090 [T7] doğru şık ~ 2022_ (kapsama 0.83, jaccard 0.83)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: D) Doğu Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D6-090 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
+   ESKİ: B) Gümrük ve Dış Ticaret Bölge Müdürlüğü
+D6-090 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: E) Batı Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D6-090 [T7] doğru şık ~ 2021_ (kapsama 0.83, jaccard 0.62)
+   ESKİ: E) Batı Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
+D6-090 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.71)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: A) Bağlı oldukları Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D6-090 [T7] doğru şık ~ D4 (kapsama 0.83, jaccard 0.62)
-   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: E) 90 gün – Gümrük ve dış ticaret bölge müdürlüğü
-D6-090 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.71)
-   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: B) İstanbul Gümrük ve Dış Ticaret Bölge Müdürlüğü
+   ESKİ: A) Uludağ Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D6-090 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
    ESKİ: C) Orta Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D6-090 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.50)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
    ESKİ: B) Teminattan vazgeçmede teminat gümrük idaresi – Gümrük ve dış ticaret bölge müdürlüğü
-D6-090 [T7] doğru şık ~ 2023_ (kapsama 0.83, jaccard 0.71)
-   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: C) İlgili Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D6-090 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
-   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: B) Doğu Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D6-090 [T7] doğru şık ~ 2022_ (kapsama 0.83, jaccard 0.83)
-   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: B) Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D6-090 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.71)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
    ESKİ: D) Ege Gümrük ve Dış Ticaret Bölge Müdürlüğü
+D6-090 [T7] doğru şık ~ 2023_ (kapsama 0.83, jaccard 0.71)
+   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
+   ESKİ: C) İlgili Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D6-090 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.56)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
    ESKİ: II. Orta Anadolu Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D6-090 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
+D6-090 [T7] doğru şık ~ 2021_ (kapsama 0.83, jaccard 0.62)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: E) Batı Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
+   ESKİ: A) Bağlı oldukları Gümrük ve Dış Ticaret Bölge Müdürlüğü
+D6-090 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.71)
+   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
+   ESKİ: B) İstanbul Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D6-090 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
-   ESKİ: I. Orta Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
+   ESKİ: D) Doğu Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D6-090 [T7] doğru şık ~ D2 (kapsama 0.83, jaccard 0.83)
    YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
    ESKİ: D) Gümrük ve dış ticaret bölge müdürlüğü
-D7-027 [T1] doğru şık ~ D2 (kapsama 0.90, jaccard 0.45)
-   YENİ: İhraç edilen eşya ile beyannamede gösterilen eşya arasında yüzde onu aşmayan fark bulunması
-   ESKİ: B) İhracatta beyanname ve eki belgelerde gösterilen ile gerçekte ihraç edilen eşya arasında yüzde onu aşmayan bir fark bulunması halinde, sadece Gümrük Kanunu hükümlerine göre işlem yapılır.
-D7-033 [T2] öncül ~ 2025B (kapsama 0.93, jaccard 0.88)
-   YENİ: IV. Devralan kişi eşyayı teslim almakla, söz konusu eşyayı rejime tabi tutma yükümlülüğü altına girmiş olur.
-   ESKİ: III. Devralan kişi eşyayı teslim almakla, söz konusu eşyayı rejime tabi tutma yükümlülüğü altına girmiş olur.
-D7-040 [T4] doğru şık ~ D3 (kapsama 0.83, jaccard 0.77)
-   YENİ: Serbest dolaşıma giriş işlemlerinin geminin kayıtlı olduğu liman başkanlığına en yakın gümrük idaresinde yapılması
-   ESKİ: B) Geminin serbest dolaşıma giriş işlemleri, kayıtlı olduğu liman başkanlığına en yakın gümrük idaresinde yapılır.
-D7-044 [T4] doğru şık ~ D4 (kapsama 0.91, jaccard 0.77)
-   YENİ: İdare, ilişkinin fiyatı etkilediği kanısına varırsa bu hususları beyan sahibine yazılı olarak bildirir.
-   ESKİ: B) Gümrük idaresi, ilişkinin fiyatı etkilediği kanısına varırsa bu hususları beyan sahibine yazılı olarak bildirir.
-D7-097 [T2] öncül ~ 2025B (kapsama 0.75, jaccard 0.50)
-   YENİ: I. İthal eşyasının işlem görmüş üründe kullanıldığının tespit edilebilmesi
-   ESKİ: II. İthal eşyasının işlem görmüş ürünler içerisinde mevcudiyetinin tespit edilebilmesi
-D7-098 [T2] öncül ~ D1 (kapsama 0.82, jaccard 0.56)
-   YENİ: I. Kıymeti belirlenecek eşya ile aynı kişi tarafından üretilmiş benzer eşya yoksa, farklı kişi tarafından üretilmiş benzer eşya dikkate alınır.
-   ESKİ: IV. Kıymeti belirlenecek eşya ile aynı kişi tarafından üretilmiş aynı veya benzer eşya bulunmadığı takdirde, farklı kişi tarafından üretilmiş eşya dikkate alınmaz. ifadelerinden hangileri doğrudur?
+D6-090 [T7] doğru şık ~ D4 (kapsama 0.83, jaccard 0.62)
+   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
+   ESKİ: E) 90 gün – Gümrük ve dış ticaret bölge müdürlüğü
+D6-090 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
+   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
+   ESKİ: E) Batı Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
+D6-090 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
+   YENİ: Gümrük ve Dış Ticaret Bölge Müdürlüğü – Ticaret Bakanlığı
+   ESKİ: I. Orta Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D8-059 [T7] doğru şık ~ D1 (kapsama 1.00, jaccard 1.00)
    YENİ: Ticaret Bakanlığı (Gümrükler Genel Müdürlüğü)
    ESKİ: C) Ticaret Bakanlığı (Gümrükler Genel Müdürlüğü)
 D8-059 [T7] doğru şık ~ D1 (kapsama 1.00, jaccard 1.00)
    YENİ: Ticaret Bakanlığı (Gümrükler Genel Müdürlüğü)
    ESKİ: A) Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
-D8-068 [T2] öncül ~ 2022_ (kapsama 0.80, jaccard 0.80)
-   YENİ: II. Vergilerin kaldırılmasına karar verilmesi
-   ESKİ: A) Vergilerin kaldırılmasına karar verilmesi
-D8-068 [T2] öncül ~ 2022_ (kapsama 0.80, jaccard 0.80)
-   YENİ: III. Gümrük beyannamesinin iptal edilmesi
-   ESKİ: E) Gümrük beyannamesinin iptal edilmesi
+D8-086 [T3] doğru şık ~ D1 (kapsama 0.83, jaccard 0.50)
+   YENİ: Başmüdür yardımcısı başkanlığında, en az iki muayene memuruyla
+   ESKİ: B) Başmüdür yardımcısı başkanlığında bir gümrük müdürü ile en az iki muayene memuru ve bir kimyager
 D9-058 [T7] doğru şık ~ 2023_ (kapsama 1.00, jaccard 1.00)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
    ESKİ: C) İlgili Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D9-058 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.71)
+D9-058 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: A) Uludağ Gümrük ve Dış Ticaret Bölge Müdürlüğü
+   ESKİ: B) Doğu Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D9-058 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
    ESKİ: C) Orta Anadolu Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D9-058 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
+D9-058 [T7] doğru şık ~ 2022_ (kapsama 0.83, jaccard 0.83)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: D) Doğu Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D9-058 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
+   ESKİ: B) Gümrük ve Dış Ticaret Bölge Müdürlüğü
+D9-058 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: E) Batı Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D9-058 [T7] doğru şık ~ 2021_ (kapsama 0.83, jaccard 0.62)
+   ESKİ: E) Batı Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
+D9-058 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.71)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: A) Bağlı oldukları Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D9-058 [T7] doğru şık ~ D4 (kapsama 0.83, jaccard 0.62)
-   YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: E) 90 gün – Gümrük ve dış ticaret bölge müdürlüğü
-D9-058 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.71)
-   YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: B) İstanbul Gümrük ve Dış Ticaret Bölge Müdürlüğü
+   ESKİ: A) Uludağ Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D9-058 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
    ESKİ: C) Orta Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D9-058 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.50)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
    ESKİ: B) Teminattan vazgeçmede teminat gümrük idaresi – Gümrük ve dış ticaret bölge müdürlüğü
-D9-058 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
-   YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: B) Doğu Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D9-058 [T7] doğru şık ~ 2022_ (kapsama 0.83, jaccard 0.83)
-   YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: B) Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D9-058 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.71)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
    ESKİ: D) Ege Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D9-058 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.56)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
    ESKİ: II. Orta Anadolu Gümrük ve Dış Ticaret Bölge Müdürlüğü
-D9-058 [T7] doğru şık ~ D3 (kapsama 0.83, jaccard 0.62)
+D9-058 [T7] doğru şık ~ 2021_ (kapsama 0.83, jaccard 0.62)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: E) Batı Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
+   ESKİ: A) Bağlı oldukları Gümrük ve Dış Ticaret Bölge Müdürlüğü
+D9-058 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.71)
+   YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
+   ESKİ: B) İstanbul Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D9-058 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
-   ESKİ: I. Orta Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
+   ESKİ: D) Doğu Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D9-058 [T7] doğru şık ~ D2 (kapsama 0.83, jaccard 0.83)
    YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
    ESKİ: D) Gümrük ve dış ticaret bölge müdürlüğü
+D9-058 [T7] doğru şık ~ D4 (kapsama 0.83, jaccard 0.62)
+   YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
+   ESKİ: E) 90 gün – Gümrük ve dış ticaret bölge müdürlüğü
+D9-058 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
+   YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
+   ESKİ: E) Batı Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğü
+D9-058 [T7] doğru şık ~ 2025B (kapsama 0.83, jaccard 0.62)
+   YENİ: İlgili gümrük ve dış ticaret bölge müdürlüğü
+   ESKİ: I. Orta Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğü
 D9-088 [T5] doğru şık ~ D5 (kapsama 0.80, jaccard 0.50)
    YENİ: gün – ilk yedi iş günü
    ESKİ: A) İzleyen ayın ilk yedi iş günü içinde
