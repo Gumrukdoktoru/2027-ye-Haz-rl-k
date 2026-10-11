@@ -1277,14 +1277,14 @@
 "Yalnız III",
 "III ve IV",
 "I, II ve III",
-"II, III ve IV"
+"I, III ve IV"
 ],
 "opts": [
 "Yalnız III",
 "II ve III",
 "III ve IV",
 "I, II ve III",
-"II, III ve IV"
+"I, III ve IV"
 ],
 "tuzak": false,
 "g": "Ticaret politikası önlemine tabi eşyanın serbest dolaşıma girişinde de ilgili kurumlarca yapılan kontroller sırasında istenebilecek diğer belgeler ile ithale konu eşyayı temsil etmeyen belgeler gümrük idarelerince ayrıca aranmaz; ikincil düzenlemelerdeki Tarife Cetveliyle uyumsuz madde ismi veya tanımı altındaki açıklamalar kurum kontrollerinde göz önüne alınabilir ancak gümrük idaresi açısından bağlayıcı değildir. Bu nedenle II ve III yanlıştır. Serbest dolaşıma girişte önlem, ilave gümrük vergisi ve ek mali yükümlülük hükümleri uygulanır ve bu hükümler DTÖ üyesi olmayan ülkelere daha yüksek oran öngörülmesi hâlinde de geçerlidir. (MD GY 205/1, 5, 6; 181/7-8)",
@@ -1980,34 +1980,34 @@
 "kok": [
 "Gümrük Yönetmeliğine göre, dış seferdeki deniz ve hava taşıtlarına yapılan teslimlere ilişkin aşağıdaki ifadeler veriliyor:",
 "I. Yakıt, yağ ve kumanya dışında, serbest dolaşımda bulunan işletme ve donatım eşyasının bu taşıtlara teslimi ihracat hükmündedir.",
-"II. Bir ay içinde bu taşıtlara basitleştirilmiş usulle yapılan ve ihracat sayılan teslimlere ilişkin tamamlayıcı beyan, izleyen ayın ilk üç günü içinde yapılır.",
+"II. Bir ay içinde bu taşıtlara basitleştirilmiş usulle yapılan ve ihracat sayılan yakıt, yağ ve kumanya teslimlerine ilişkin tamamlayıcı beyan, izleyen ayın ilk üç günü içinde yapılır.",
 "III. Bu taşıtlar için yakıt talebi kaptan ve işletme dışındaki kişilerce yapılırsa, kaptan veya işletmece talep edilen yakıt siparişine dair belge aranır.",
 "IV. Antrepodan transit hükümlerine göre verilen, serbest dolaşıma girmemiş kumanyalar mürettebat ve yolcuların sigara ve alkollü içkilerini kapsamaz.",
 "Yukarıdaki ifadelerden hangileri doğrudur?"
 ],
 "d": "I ve III",
 "c": [
-"Yalnız I",
-"I ve IV",
+"I ve II",
 "II ve III",
+"I, II ve III",
 "I, III ve IV"
 ],
 "opts": [
-"Yalnız I",
+"I ve II",
 "I ve III",
-"I ve IV",
 "II ve III",
+"I, II ve III",
 "I, III ve IV"
 ],
 "tuzak": false,
-"g": "Yakıt, yağ ve kumanya dışında dış seferdeki taşıtlara serbest dolaşımdaki işletme ve donatım eşyası teslimi ihracat hükmündedir; yakıt talebi kaptan ve işletme dışındaki kişilerce yapılırsa kaptan veya işletmenin yakıt siparişine dair belge aranır; bu nedenle I ve III doğrudur. Bu taşıtlara yapılan ve ihracat sayılan teslimlerde tamamlayıcı beyan izleyen ayın ilk üç günü değil ilk yedi iş günü içinde verildiğinden II; geçici depolama yeri veya antrepodan transit hükümlerine göre verilen kumanyalara mürettebat ve yolcuların yiyecek, içecek, sigara ve alkollü içkileri de dahil olduğundan IV yanlıştır. (MD GY 418, 158/2, 476/1, 477/1)",
+"g": "Yakıt, yağ ve kumanya dışında dış seferdeki taşıtlara serbest dolaşımdaki işletme ve donatım eşyası teslimi ihracat hükmündedir; yakıt talebi kaptan ve işletme dışındaki kişilerce yapılırsa kaptan veya işletmenin yakıt siparişine dair belge aranır; bu nedenle I ve III doğrudur. Bu taşıtlara Kanunun akaryakıt ve kumanya hükümleri çerçevesinde yapılan ve ihracat sayılan yakıt, yağ ve kumanya teslimlerinde tamamlayıcı beyan, genel kural olan izleyen ayın ilk üç günü içinde değil ilk yedi iş günü içinde verildiğinden II; geçici depolama yeri veya antrepodan transit hükümlerine göre verilen kumanyalara mürettebat ve yolcuların yiyecek, içecek, sigara ve alkollü içkileri de dahil olduğundan IV yanlıştır. (MD GY 418, 158/2, 476/1, 477/1)",
 "kanit": "36-ihracat.txt | dış seferde bulunan ya da dış sefere çıkacak olan deniz ve hava taşıtlarına serbest dolaşımda bulunan işletme ve donatım eşyası teslimi ihracat hükmündedir. || 17-BEYAN.txt | ihracat sayılan teslimlere ilişkin tamamlayıcı beyan izleyen ayın ilk yedi iş günü içinde yapılır. || 42-kumanya.txt | Bu talebin kaptan ve işletme dışındaki kişiler tarafından yapılması halinde, kaptan veya işletme tarafından talep edilen yakıt siparişine dair belge aranır. || 42-kumanya.txt | mürettebat ve yolcuların yiyecek, içecek, sigara ve alkollü içkiler de dahil olmak üzere kumanyaları transit rejimi hükümlerine göre deniz ve hava taşıtlarına verilir.",
 "batch": "K14",
 "no": 55,
 "harf": "B",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yakıt, yağ ve kumanya dışında dış seferdeki taşıtlara serbest dolaşımdaki işletme ve donatım eşyası teslimi ihracat hükmündedir; yakıt talebi kaptan ve işletme dışındaki kişilerce yapılırsa kaptan veya işletmenin yakıt siparişine dair belge aranır; bu nedenle I ve III doğrudur. Bu taşıtlara yapılan ve ihracat sayılan teslimlerde tamamlayıcı beyan izleyen ayın ilk üç günü değil ilk yedi iş günü içinde verildiğinden II; geçici depolama yeri veya antrepodan transit hükümlerine göre verilen kumanyalara mürettebat ve yolcuların yiyecek, içecek, sigara ve alkollü içkileri de dahil olduğundan IV yanlıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 418, 158/2, 476/1, 477/1)"
+"g_harfli": "Yakıt, yağ ve kumanya dışında dış seferdeki taşıtlara serbest dolaşımdaki işletme ve donatım eşyası teslimi ihracat hükmündedir; yakıt talebi kaptan ve işletme dışındaki kişilerce yapılırsa kaptan veya işletmenin yakıt siparişine dair belge aranır; bu nedenle I ve III doğrudur. Bu taşıtlara Kanunun akaryakıt ve kumanya hükümleri çerçevesinde yapılan ve ihracat sayılan yakıt, yağ ve kumanya teslimlerinde tamamlayıcı beyan, genel kural olan izleyen ayın ilk üç günü içinde değil ilk yedi iş günü içinde verildiğinden II; geçici depolama yeri veya antrepodan transit hükümlerine göre verilen kumanyalara mürettebat ve yolcuların yiyecek, içecek, sigara ve alkollü içkileri de dahil olduğundan IV yanlıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 418, 158/2, 476/1, 477/1)"
 },
 {
 "id": "D9-056",
@@ -3576,15 +3576,15 @@
 "c": [
 "Yalnız II",
 "IV ve V",
-"I, III ve IV",
-"II, IV ve V"
+"I, II ve V",
+"I, III ve IV"
 ],
 "opts": [
 "Yalnız II",
 "II ve V",
 "IV ve V",
-"I, III ve IV",
-"II, IV ve V"
+"I, II ve V",
+"I, III ve IV"
 ],
 "tuzak": false,
 "g": "Eşyanın tamamen Türkiye'de serbest dolaşımdaki girdilerden üretildiğinin anlaşılması hâlinde A.TR Dolaşım Belgesi herhangi bir vergi tahsilatı yapılmaksızın düzenlenip vize edildiğinden II yanlıştır. Avrupa Birliğinden iade edilen eşyada ihracı sırasında vize edilmiş A.TR ibraz edilirse gümrük vergisi dışında ithalatta tahsili gereken KDV ve ÖTV ile eş etkili mali yükler tahsil edildiğinden V de yanlıştır; I, III ve IV Yönetmelikte aynen yer alır. (MD GY 432/1-a, b, c, d)",

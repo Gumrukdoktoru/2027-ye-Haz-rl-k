@@ -1,4 +1,4 @@
-377 çift
+375 çift
 D6-022(K01) ~ HAFIZA GMY2-054: [('GY', '561/4')]
    Y: Kamu kurumunun gümrük işlemlerini takibe yetkili memurlarının değişikliği gümrük idaresine bildirilir; vekaletname ve temsilnameler idareye verilip düzenli saklanır.
    H: Kamu ve özel hukuk tüzel kişisi yetkilileri tüm işlemleri, gerçek kişi ticari olmayan eşyayı, taşıyıcılar yalnız transit işlemlerini doğrudan temsille takip eder.
@@ -459,13 +459,13 @@ D10-046(K03) ~ HAFIZA GMY5-045: [('GY', '41/2')]
    Y: Menşe şahadetnamesinin sonradan kontrolünde Bakanlık, incelemeyi ihracatçı ülke gümrük idaresi nezdinde yapar; sonucu ilgili gümrük idaresine bildirir.
    H: Şüphe/ihbar üzerine incelemede menşe şahadetnamesinin sıhhatine aykırılık tespit edilirse duruma göre 5607 sayılı Kanun hükümleri uygulanır.
 D10-052(K03) ~ HAFIZA GMY2-062: [('GY', '34/2')]
-   Y: Tozun giderilmesi, eleme ve tasnifleme koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız yayma, hasarlı parça atılması gibi koruyucu işlemler
+   Y: Kalburdan geçirme ve sıraya koyma gibi basit işlemler koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız yayma, hasarlı parça atılması gibi ko
    H: Yetersiz sayılan işlemlerin iki veya daha fazlasının bir arada yapılması da yetersiz işçilik sayılır; eşyaya menşe kazandırmaz.
 D10-052(K03) ~ HAFIZA GMY3-045: [('GY', '34/2')]
-   Y: Tozun giderilmesi, eleme ve tasnifleme koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız yayma, hasarlı parça atılması gibi koruyucu işlemler
+   Y: Kalburdan geçirme ve sıraya koyma gibi basit işlemler koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız yayma, hasarlı parça atılması gibi ko
    H: Yeni ürün imali menşe kazandırır; etiketleme ile kutulamanın birlikte yapılması, basit montaj, koruyucu işlemler ve eleme-tasnif yeni ürün ortaya çıkarmaz.
 D10-052(K03) ~ HAFIZA GMY4-044: [('GY', '34/2')]
-   Y: Tozun giderilmesi, eleme ve tasnifleme koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız yayma, hasarlı parça atılması gibi koruyucu işlemler
+   Y: Kalburdan geçirme ve sıraya koyma gibi basit işlemler koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız yayma, hasarlı parça atılması gibi ko
    H: Tekstilde pozisyon değişikliği koşulu sağlansa bile parçaların basit montajı yetersiz işçilik sayılır; ürün menşe kazanmaz.
 D10-053(K03) ~ HAFIZA GMY5-048: [('GY', '37/5')]
    Y: Önemli yedek parça ihracında yazılı beyan cihazın tüm özelliklerini içerir; önceki şahadetname bilgileri mümkünse sunulur; aynı menşe kuralı önceden ihraç edilen cihazlar
@@ -500,21 +500,15 @@ D10-094(K04) ~ HAFIZA GMY5-060: [('GK', '46/2')]
 D6-051(K05) ~ HAFIZA GMY2-059: [('GY', '180/2')]
    Y: Hat sonuçları: yeşil hatta belge eklenmez; mavi hatta kontrol çıkıştan sonra; kırmızı hat tam muayenede tahlil kolaylığı yok; varış öncesi sarı-yeşilde geçici depolama ka
    H: Sarı hat: muayeneye gerek görülmeksizin beyanname ve eklerinin doğruluğu ile birbiriyle uygunluğunun kontrol edildiği hattır.
+D7-039(K05) ~ HAFIZA GMY2-032: [('GK', '211/2')]
+   Y: Beyanname iptali üzerine ödenmiş vergilerin geri verilmesi istemi, tebliğden itibaren üç yıl içinde değil beyanname iptali başvurusu için öngörülen süreler içinde yapılır
+   H: Geri verme başvurusu: kanunen ödenmemesi gerekenlerde üç yıl; kusurlu eşya ve uluslararası anlaşmada bir yıl; talep otuz günde karara bağlanır.
 D8-049(K05) ~ HAFIZA GMY3-036: [('GK', '3/9')]
    Y: Tarım politikası veya işlenmiş tarım ürünlerine özel düzenlemelerle ihracatta alınan vergi ve mali yükler ihracat vergileri tanımına dahildir.
    H: Gümrüklenmiş değer CIF kıymeti ile gümrük vergileri toplamıdır; giriş yeri sonrası nakliye ve gecikme zammı hesaba katılmaz.
 D8-049(K05) ~ HAFIZA GMY4-036: [('GK', '3/9')]
    Y: Tarım politikası veya işlenmiş tarım ürünlerine özel düzenlemelerle ihracatta alınan vergi ve mali yükler ihracat vergileri tanımına dahildir.
    H: Gümrük vergileri, eşyaya uygulanan ithalat veya ihracat vergilerinin tümüdür; gecikme zammı ve para cezaları bu tanıma girmez.
-D10-035(K05) ~ HAFIZA GMY2-031: [('GK', '181/1')]
-   Y: Kanuna aykırı girişte girişi gerçekleştirenler, bilerek iştirak edenler ve aykırılığı bilerek ya da bilmesi gerekirken eşyayı elde eden veya bulunduranlar vergilerden sor
-   H: Serbest bölgede kanuna aykırı tüketim/kullanımda gümrük yükümlülüğü, eşyanın tüketildiği veya ilk kez kullanıldığı tarihte başlar.
-D10-035(K05) ~ HAFIZA GMY3-032: [('GK', '181/1')]
-   Y: Kanuna aykırı girişte girişi gerçekleştirenler, bilerek iştirak edenler ve aykırılığı bilerek ya da bilmesi gerekirken eşyayı elde eden veya bulunduranlar vergilerden sor
-   H: Yabancı para kıymet unsurları beyannamenin tescil tarihindeki TCMB döviz satış kuruyla çevrilir; fatura ve teslim tarihi kurları kullanılmaz.
-D10-035(K05) ~ HAFIZA GMY3-037: [('GK', '181/1')]
-   Y: Kanuna aykırı girişte girişi gerçekleştirenler, bilerek iştirak edenler ve aykırılığı bilerek ya da bilmesi gerekirken eşyayı elde eden veya bulunduranlar vergilerden sor
-   H: Noksan vergiler yükümlülükten itibaren üç yıl içinde tebliğ edilir; daha uzun zamanaşımlı fiil için ceza davası açılmışsa TCK zamanaşımı süreleri uygulanır.
 D10-040(K05) ~ HAFIZA GMY5-067: [('GK', '77/1')]
    Y: İzinli imha atıkları, nihai kullanım tahribat atıkları ve geri ödeme sisteminde yeniden ihraç için antrepoya konulan ürünler serbest dolaşımda olmayan eşya sayılır.
    H: Nihai kullanım eşyasında gümrük gözetimi; kullanım faaliyeti, koşulların sona ermesi, ihraç-imha veya amaç dışı kullanımda vergilerin ödenmesiyle sona erer; devirle sona 
@@ -1067,7 +1061,7 @@ D6-068(K14) ~ HAFIZA GMY5-071: [('GK', '150/1')]
 D6-069(K14) ~ HAFIZA GMY-071: [('GY', '479/1')]
    Y: Taahhütnameyle işlem yürüten bunker ve liman bayilerinin gemilere yağ-yakıt verilmesine ilişkin her başvurusunda kaptan veya acentenin talep ya da izin yazısı aranır.
    H: Dış seferden dönüp yükünü boşaltan geminin ihraç yükü almak üzere diğer Türk limanına hareketi dış seferin devamı sayılır
-D6-069(K14) ~ HAFIZA GMY4-090: [('GY', '479/1')]
+D6-069(K14) ~ HAFIZA GMY4-090: [('GY', '476/1'), ('GY', '479/1')]
    Y: Taahhütnameyle işlem yürüten bunker ve liman bayilerinin gemilere yağ-yakıt verilmesine ilişkin her başvurusunda kaptan veya acentenin talep ya da izin yazısı aranır.
    H: Antrepodan verilen serbest dolaşıma girmemiş yakıttan vergi aranmaz; Türk bandıralı taşıt bunu dış sefere çıkacağı limandan itibaren tüketmelidir.
 D8-053(K14) ~ HAFIZA GMY-024: [('GK', '241/4')]

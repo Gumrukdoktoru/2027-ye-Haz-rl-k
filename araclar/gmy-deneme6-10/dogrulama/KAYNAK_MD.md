@@ -4,10 +4,10 @@ Kaynak: `/home/user/gumrukdoktoru/2027gmynot/`
 
 ## 1. Kanıt alıntıları (gümrük soruları)
 
-- birebir: 844
-- bağlantılı kelime düşmüş (hüküm aynı): 53
-- md karşılığı yok (5607 yönetmelik/kanun metni): 42
-- bulunamadı: 20
+- birebir: 901
+- bağlantılı kelime düşmüş (hüküm aynı): 54
+- md karşılığı yok (5607 yönetmelik/kanun metni): 43
+- bulunamadı: 21
 - yalnız biçim farkı: 1
 
 Bulunamayanlar (elle incelenir):
@@ -19,6 +19,7 @@ Bulunamayanlar (elle incelenir):
 - D7-085 | 39-muafiyetler.txt | gerçek kişiler tarafından serbest dolaşıma sokulacak şahsi eşyadan
 - D8-021 | 48-cezalar.txt | bu kısmın ikinci bölüm hükümlerine göre gümrük vergileri ile birlikte alınması gereken para cezaları bu vergiler ile aynı zamanda karara bağlanarak te
 - D8-021 | 48-cezalar.txt | birinci fıkraya göre verilen cezalar 241 inci maddenin altıncı fıkrasında belirtilen miktardan az olamaz
+- D8-023 | 31-YGM.txt | bordroya tescil numarasına göre kaydederek en geç on iş günü içerisinde antreponun bağlı bulunduğu gümrük idaresine göndermek
 - D8-052 | 40-posta ve hızlı kargo.txt | miktarı brüt 600 kilogramı[7] ve değeri 30.000 avro'yu[8] geçmeyen ihracat rejimine konu eşyanın beyanı bu tebliğ hükümleri çerçevesinde operatör tara
 - D8-061 | 45-tebliğ.txt | 213 sayılı vergi usul kanununun tebligat hükümlerine göre yapılır
 - D8-070 | 45-tebliğ.txt | itiraz edilmemesi halinde, tebliğ edildiği tarihten itibaren gümrük kanununun 242 nci maddesinde belirtilen 15 günlük idari itiraz süresinin bitiminde
@@ -87,3 +88,6 @@ Bulunamayanlar (elle incelenir):
 - Markdown: {'02.03.2026': 2, '03.01.2026': 3, '04.07.2026': 3, '06.02.2026': 6, '07.01.2026': 1, '12.08.2026': 2, '14.08.2026': 2, '18.06.2026': 5, '26.03.2026': 1}
 - metin/: {'02.03.2026': 2, '03.01.2026': 3, '04.07.2026': 3, '06.02.2026': 6, '07.01.2026': 1, '11.10.2026': 1, '12.08.2026': 2, '14.08.2026': 2, '14.09.2026': 1, '18.06.2026': 5, '26.03.2026': 1}
 - Yalnız Markdown'da: yok
+
+## 4. Elle inceleme (11 Ekim 2026)
+“Bulunamadı” listesindeki alıntıların hepsi Markdown'da tek kelime eksiğiyle bulundu (ör. “aynı zamanda ödenir” → “aynı ödenir”, “gecikme faizi” → “gecikme”, “Onbirinci Kısımdaki cezai hükümlere” → “Onbirinci Kısımdaki göre”). Markdown dönüştürmesi bağlantılı kelimeleri düşürmüştür. Hüküm farkı yoktur. “Zayıf cümle” sayımı da aynı nedenden ve dipnot işaretlerinden kaynaklanır (örnek denetimde gerçek bir metin farkı bulunmadı).

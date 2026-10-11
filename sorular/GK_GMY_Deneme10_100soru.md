@@ -216,8 +216,8 @@ E) 2 yıl
 
 **22.** Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71)'e göre, taşıdıkları eşyanın sadece transit işlemlerini doğrudan temsil yoluyla takip edecek nakliyeci kuruluş temsilcilerine verilen Gümrük İşlemi Takip Kartına ilişkin aşağıdakilerden hangisi doğrudur?
 
-A) Kart, dernek veya odanın merkez ya da şubesinin bulunduğu bölgedeki başmüdürlükçe verilir.  
-B) Bir başmüdürlükten sağlanan kart, diğer başmüdürlüklerin bağlantısı olan gümrüklerde de kullanılır.  
+A) Kart, başvuru dosyalarının ibraz edildiği dernek veya odanın bölgesindeki başmüdürlükçe verilir.  
+B) Kart listelerindeki değişiklikler, kuruluşlarca yalnız üyesi bulunulan dernek veya odaya bildirilir.  
 C) Kartların hazırlanması, baskısı ve dosyalanmasına ilişkin giderler ilgili başmüdürlükçe karşılanır.  
 D) Kart, kart talebinde bulunan firmanın merkez veya şubesinin bulunduğu bölgedeki başmüdürlükçe verilir.  
 E) Çalıştığı kuruluştan ayrılanların kartlarının iptali ve iadesinin takibi başmüdürlükçe yapılır.  
@@ -229,10 +229,10 @@ II. Fotoğraflı izin belgesini, gümrük idaresinde bulunduğu sürece görüle
 III. Çalışma yeri, izin belgesinin değiştirilmesi ile değiştirilebilir.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) Yalnız II  
-B) Yalnız III  
-C) I ve II  
-D) I ve III  
+A) Yalnız I  
+B) Yalnız II  
+C) Yalnız III  
+D) I ve II  
 E) II ve III  
 
 **24.** 4458 sayılı Gümrük Kanununa göre gümrük müşaviri olma koşullarına ilişkin aşağıdaki ifadeler veriliyor:
@@ -261,23 +261,23 @@ E) Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
 
 I. Teslimden önce hasar gören eşya, kusurlu eşya kapsamında değerlendirilmez.  
 II. İhracı yerine ilgilinin talebiyle izin verilen işlem veya kullanımlardan birine tabi tutulan eşya, serbest dolaşımda olmayan eşya sayılır.  
-III. Sözleşmenin fiyat dâhil şartları belirlenirken eşyanın kusurlu mahiyeti dikkate alınmışsa vergiler bu kapsamda geri verilmez.  
+III. Alıcı ile satıcı arasındaki sözleşmenin şartları, özellikle fiyat, eşyanın kusurlu mahiyeti dikkate alınarak belirlenmişse ithalat vergileri bu kapsamda geri verilmez.  
 IV. Bir kere kullanılarak tüketilen eşya dâhil, eşyanın kusurun tespiti için gerekli ilk kullanım dışında kullanılmamış olması gerekir.  
 Yukarıdaki ifadelerden hangileri <u>**yanlıştır**</u>?  
 
-A) Yalnız I  
-B) Yalnız IV  
-C) I ve II  
-D) I ve III  
+A) Yalnız II  
+B) Yalnız III  
+C) Yalnız IV  
+D) I ve II  
 E) I ve IV  
 
-**27.** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre son taksitte ihlal edilip geçerli sayılan tecilde taksit **ne kadar sürede** ödenir?
+**27.** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre son taksitte ihlal edilen tecil geçerli sayılırsa taksit **ne kadar sürede** ödenir?
 
-A) Son taksit ödeme süresini izleyen ayın sonuna kadar  
-B) Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren bir ay içinde  
-C) Tecilin geçerli sayılmasına ilişkin talebin yapıldığı tarihten itibaren beş iş günü içinde  
+A) Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren on beş gün içinde  
+B) Tecilin geçerli sayılmasına ilişkin talebin yapıldığı tarihten itibaren beş iş günü içinde  
+C) Tecilin geçerli sayılmasına ilişkin talebin yapıldığı tarihten itibaren on beş gün içinde  
 D) Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde  
-E) Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren on beş gün içinde  
+E) Son taksit ödeme süresini izleyen ayın sonuna kadar  
 
 **28.** “Türk Gümrük Tarife Cetvelinde bölümlerle ilgili olarak bölüm başlıklarından sonra yer alan, bölümde geçen bazı tabirlerin ne anlama geldiği, … hangi eşyanın o bölüme dahil olmadığı hakkında bilgi veren açıklamalar”
 
@@ -285,8 +285,8 @@ Gümrük Yönetmeliğine göre yukarıda tanımlanan kavram aşağıdakilerden h
 
 A) Fasıl notu  
 B) Bölüm başlığı  
-C) Ek not  
-D) Alt pozisyon notu  
+C) Fasıl başlığı  
+D) Fasıl  
 E) Bölüm notu  
 
 **29.** Gümrük Yönetmeliğine göre teminat mektuplarının kabulü ve takibine ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
@@ -300,10 +300,10 @@ E) Elektronik teminat mektuplarının standart ve kurallarını belirlemeye Baka
 **30.** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre yargıya taşınan vergi kararı üst mahkemeye götürülmezse **ne zaman** kesinleşir?
 
 A) Nihai yargı kararının tebliğinden itibaren on beş günlük sürenin bitiminde  
-B) Nihai yargı kararının gümrük idaresine tebliğ edildiği tarihte  
+B) Nihai yargı kararının verildiği tarihten itibaren otuz günlük sürenin bitiminde  
 C) Nihai yargı kararının tebliğinden itibaren otuz günlük sürenin bitiminde  
-D) Nihai yargı kararının verildiği tarihten itibaren otuz günlük sürenin bitiminde  
-E) İtirazın reddi kararının tebliğinden itibaren dava açma süresinin bitiminde  
+D) Nihai yargı kararının verildiği tarihten itibaren on beş günlük sürenin bitiminde  
+E) Nihai yargı kararının gümrük idaresine tebliğ edildiği tarihte  
 
 **31.** (K) Gıda A.Ş., ithal edeceği eşyaya uygulanacak gümrük mevzuatı hükümleri hakkında gümrük ve dış ticaret bölge müdürlüğüne yazılı olarak izahat talebinde bulunmuş; ancak talebinde eşyanın kullanım amacına ilişkin yanlış bilgi vermiştir. Bu bilgiye dayanılarak verilen yazılı izahat doğrultusunda gerçekleştirilen ithalatlarda, sonradan yapılan kontrolde noksan vergi alındığı tespit edilmiştir.
 
@@ -343,12 +343,12 @@ C) 34.000
 D) 36.000  
 E) 56.000  
 
-**35.** 4458 sayılı Gümrük Kanunu ile 5607 sayılı Kaçakçılıkla Mücadele Kanununda yer alan gümrük vergileri ve gümrük yükümlülüğüne ilişkin hükümlere göre aşağıdakilerden hangisi <u>**yanlıştır**</u>?
+**35.** 4458 sayılı Gümrük Kanununun ithalatta gümrük yükümlülüğünün doğması ve gümrük vergilerinden sorumlu kişilere ilişkin hükümlerine göre aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
-A) 4458 sayılı Kanunda gümrük yükümlülüğü deyimi yükümlünün gümrük vergilerini ödemesi zorunluluğunu, yükümlü deyimi ise gümrük yükümlülüğünü yerine getirmekle sorumlu bütün kişileri ifade eder.  
-B) İthalat vergilerine tabi eşyanın ithalat vergilerinden kısmi muafiyet suretiyle geçici ithali için verilecek gümrük beyannamesinin tescil tarihinde de ithalatta gümrük yükümlülüğü başlar.  
-C) 5607 sayılı Kanunda gümrük vergileri, yalnızca gümrük idaresince eşyanın ithali veya ihracına bağlı uygulanan vergi ve mali yükümlülükleri ifade eder; başka idarelerce uygulananlar bu tanıma girmez.  
-D) İhracat vergilerine tabi eşyanın bir gümrük beyannamesi kapsamında Türkiye Gümrük Bölgesi dışına ihraç edilmesi hâlinde gümrük yükümlülüğü doğar ve bu yükümlülük beyannamenin tescili tarihinde başlar.  
+A) Serbest bölgede bulunan ithalat vergilerine tabi eşyanın kanuna aykırı olarak Türkiye Gümrük Bölgesinin başka bir yerine gitmesi hâlinde de, kanuna aykırı girişte olduğu gibi gümrük yükümlülüğü doğar.  
+B) İthalat vergilerine tabi eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı şekilde girmesi hâlinde doğan gümrük yükümlülüğü, eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı olarak girişi tarihinde başlar.  
+C) Eşyanın Türkiye Gümrük Bölgesine kanuna aykırı girişinde gümrük vergilerinden girişi gerçekleştirenler sorumlu olup eşyayı bu durumu bilerek sonradan elde eden veya elinde bulunduran kişiler sorumlu tutulamaz.  
+D) Beyanda kullanılan veriler kanunen alınması gereken vergilerin tamamen veya kısmen tahsil edilememesine yol açarsa, bu verileri veren ve yanlış olduğunu bilen veya bilmesi gereken kişiler de vergilerden sorumludur.  
 E) 4458 sayılı Kanuna göre aynı gümrük vergilerinin ödenmesinden birden çok yükümlünün sorumlu olduğu hâllerde, bunlar söz konusu vergilerin ödenmesinden müştereken ve müteselsilen sorumludur.  
 
 **36.** Gümrük Yönetmeliğine göre nakliye giderlerinin gümrük kıymetine dahil edilmesine ilişkin olarak; (K) firması, ilişkili olmadığı (L) firmasından satın aldığı tekstil makinelerini serbest dolaşıma giriş rejimi kapsamında beyan etmiştir. Eşya, giriş limanındaki fiyatına tekabül eden ve (K)'nin Kayseri'deki fabrikasına teslimi kapsayan maktu bir yurt içine teslim fiyatı üzerinden 120.000 TL olarak faturalandırılmıştır. Fatura ve satış sözleşmesinde yurt içi nakliye için ayrı bir bedel gösterilmemiştir; (K), giriş limanından fabrikaya kadarki nakliyenin piyasa bedelinin 4.000 TL olduğunu belirterek bu tutarın fiyattan indirilmesini talep etmiş, ancak sınırda teslim fiyatının maktu yurt içine teslim fiyatından düşük olduğunu gümrük idaresine tevsik edememiştir. Fiyata dahil olmayan ve ihracat limanında eşyanın gemiye yüklenmesi ve elleçlenmesi için (K) tarafından ayrıca ödenen tutar 1.000 TL'dir. (K) ayrıca, giriş limanından fabrikaya kadar yapılan yurt içi taşıma için 1.500 TL sigorta ücreti ödemiştir.
@@ -399,19 +399,19 @@ III. Yükümlülük doğmayan tahribattan kalan nihai kullanım atıkları
 IV. Geri ödeme sistemiyle giren eşyadan elde edilip yeniden ihraç için antrepoya konulan ürünler  
 yukarıdakilerden hangileri serbest dolaşımda olmayan eşya sayılır?  
 
-A) I ve III  
-B) III ve IV  
-C) I, II ve III  
-D) I, II ve IV  
+A) Yalnız II  
+B) I ve III  
+C) III ve IV  
+D) I, II ve III  
 E) I, III ve IV  
 
-**41.** Dahilde İşleme Rejimi Tebliğine göre, EUR.1 dolaşım sertifikası hangi makamlarca düzenlenip vize edilir?
+**41.** Gümrük Yönetmeliğine göre, önemli yedek parça ithalinde menşe şahadetnamesine ek belgeleri kim isteyebilir?
 
-A) İthalatçı ülke gümrük idaresince düzenlenip ihracatçı ülkece vize edilir.  
-B) İhracatçı ülke yetkili kuruluşlarınca düzenlenip gümrük idaresince vize edilir.  
-C) İhracatçı tarafından düzenlenir ve gümrük idaresince vize edilmez.  
-D) Menşe ülke ticaret odalarınca düzenlenip ithalatçı ülke idaresince vize edilir.  
-E) Gümrük idaresince düzenlenip ihracatçı birliği genel sekreterliğince vize edilir.  
+A) Gümrük idaresinin bağlı olduğu bölge müdürlüğü  
+B) Beyannamenin tescil edildiği gümrük idaresi  
+C) Bakanlık (Gümrükler Genel Müdürlüğü)  
+D) Şahadetnameyi düzenleyen ihracatçı ülke makamı  
+E) Eşyanın ihraç edildiği ülkenin gümrük idaresi  
 
 **42.** Gümrük Yönetmeliğine göre, Türkiye'den ihracatta düzenlenecek menşe şahadetnamelerinin basımına ilişkin aşağıdaki ifadeler veriliyor:
 
@@ -440,7 +440,7 @@ E) Eşya yükümlüsü tarafından derhal yurt dışı edilir; bu nitelikteki e�
 **44.** 3350 sayılı İthalat Rejimi Kararına göre, ithalata ilişkin yetki, önlemler ve ithalat yasak ve kısıtlamaları bakımından aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
 A) Kararda yer alan hususlara ilişkin tebliğler çıkarmaya, ithalatın her aşamasında gerekli görülecek değişiklikleri yapmaya ve önlemleri almaya, özel ve zorunlu durumları inceleyip sonuçlandırmaya Ticaret Bakanlığı yetkilidir.  
-B) İthalat izinlerinin verilmesi ve ithalatla ilgili önlem ve kısıtlamaların uygulanmasına ilişkin görev ve yetkiler, tebliğ veya talimatla diğer kamu kurumlarına ve/veya ihracatçı birlikleri genel sekreterliklerine kısmen veya tamamen devredilebilir.  
+B) Yurda sokulmaları yürürlükteki mevzuat ile kayıt ve şarta bağlanan veya özel izne tabi bulunan eşya hakkındaki hükümler saklıdır; bu eşyanın ithali ilgili mevzuattaki kayıt ve şartlara göre yapılır.  
 C) İthalat rejimimizin genellik ilkesi ile bağdaşmayacak şekilde ayırıcı işlemler uygulayan ülkeler, kuruluşlar ve firmalar hakkında taraf olunan uluslararası anlaşmalar çerçevesinde uygun görülecek gerekli önlemler alınır.  
 D) Kamu ahlakı, kamu düzeni veya kamu güvenliği, insan, hayvan ve bitki sağlığı ile sınai ve ticari mülkiyetin korunması amaçlarıyla alınan önlemlerin kapsamı dışındaki eşyanın ithali Ticaret Bakanlığının iznine tabidir.  
 E) İthalatı kanunlarla belirli kurum ve kuruluşlara bırakılmış eşyanın ithali, ancak bu kurum ve kuruluşlar tarafından veya bunlar tarafından yetkilendirilenler tarafından yapılabilir.  
@@ -453,13 +453,13 @@ C) Onaylanmış ihracatçı yetkisini haiz statü belgesi sahibi
 D) Eşyanın ithal edileceği AB üyesi ülkenin gümrük idaresi  
 E) Statü belgesini düzenleyen bölge müdürlüğü  
 
-**46.** Gümrük Yönetmeliğine göre, Türkiye'den ihracatta menşe şahadetnamesi kimin yazılı başvurusu üzerine düzenlenir?
+**46.** Gümrük Yönetmeliğine göre, sonradan kontrol için Bakanlığa gönderilen menşe şahadetnamesi kimin nezdinde incelenir?
 
-A) İthalatçının veya ithalatçının sorumluluğundaki yetkili temsilcisinin  
-B) İhracatçının veya ihracatçının sorumluluğundaki yetkili temsilcisinin  
-C) Eşyayı üreten imalatçının veya imalatçının üye olduğu ihracatçı birliğinin  
-D) Taşıyıcının veya taşıyıcının sorumluluğundaki yetkili temsilcisinin  
-E) İhracatçı ülkenin yetkili makamlarının veya gümrük idaresinin  
+A) İhracatçı ülkedeki ticaret odası nezdinde  
+B) İhracatçı ülke gümrük idaresi nezdinde  
+C) İbraz edildiği gümrük idaresi nezdinde  
+D) Türkiye'deki ticaret odası nezdinde  
+E) Gümrük ve dış ticaret bölge müdürlüğü nezdinde  
 
 **47.** 4458 sayılı Gümrük Kanununa göre tercihli olmayan menşeye ilişkin;
 
@@ -480,7 +480,7 @@ A) Kayıt ayının ilk gününden geriye dönük bir yılda en az elli EUR.1
 B) Kayıt ayının ilk gününden geriye dönük iki yılda en az elli A.TR  
 C) Kayıt ayının ilk gününden geriye dönük bir yılda en az elli A.TR  
 D) Başvuru tarihinden geriye dönük on iki aylık iki dönemde elli A.TR  
-E) Kayıt ayının ilk gününden geriye dönük altı ayda en az elli A.TR  
+E) Kayıt ayının ilk gününden geriye dönük iki yılda en az elli EUR.1  
 
 **49.** Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1)'e göre, eşyanın nihai kullanıma tahsis edileceği yer izni veren gümrük idaresinin bulunduğu il sınırları dışındaysa denetleyici idare, bu yere …… gümrük idaresidir; izni veren idare, izin belgesi ve eklerini iznin verilmesini takip eden …… denetleyici idareye gönderir.
 
@@ -507,53 +507,53 @@ C) 2 ve 3
 D) 2, 3 ve 4  
 E) 2, 3 ve 5  
 
-**51.** 4458 sayılı Gümrük Kanununa göre, antrepodan kayıt yoluyla serbest dolaşıma girişte vergilerin hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?
+**51.** 4458 sayılı Gümrük Kanununa göre, antrepoda elleçlenen eşyanın vergilendirme unsurları beyan sahibinin talebiyle nasıl tespit edilir?
 
-A) Kural olarak beyannamenin tescil tarihindeki unsurlar esas alınır; yükümlü talep ederse antrepo rejimine tabi tutulma tarihindeki unsurlar uygulanır.  
-B) Antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse eşyanın antrepodan fiilen çıktığı tarihteki unsurlar uygulanır.  
-C) Antrepo rejimine tabi tutulma tarihindeki oranlar, nitelik, kıymet ve miktarın beyanname tescilinde tespit edilmesi şartıyla uygulanır.  
-D) Eşyanın antrepodan teslim alındığı tarihteki oranlar esas alınır; yükümlünün başka bir tarihi talep etme hakkı bulunmaz.  
-E) Kural olarak antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse tescil tarihindeki hâl ve unsurlara göre işlem yapılır.  
+A) Gümrük yükümlülüğünün başladığı tarihte, eşyanın elleçleme işlemlerinden sonraki hâline göre tespit edilir  
+B) Elleçleme işlemlerinin tamamlandığı tarihte, eşyanın elleçlemeden sonraki hâline göre tespit edilir  
+C) Elleçleme işlemlerinin tamamlandığı tarihte, eşya elleçleme işlemlerine tabi tutulmamış gibi tespit edilir  
+D) Elleçleme izninin verildiği tarihte, gümrük idaresince re'sen belirlenecek hâline göre tespit edilir  
+E) Gümrük yükümlülüğünün başladığı tarihte, eşya söz konusu elleçleme işlemlerine tabi tutulmamış gibi tespit edilir  
 
 **52.** Gümrük Yönetmeliğine göre, eşyanın menşe kazanması için yetersiz işçilik veya işlem olarak kabul edilen işlemlere ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
-A) Nakliyat ve depolama süresince iyi muhafaza amacıyla yapılan kurutma yetersiz işlem sayılır.  
-B) Maddelerden setler oluşturma dâhil eşleştirme işlemi yetersiz işlem olarak kabul edilir.  
-C) Yıkama ve kesme, yalnızca nakliyat ve depolama süresince yapılırsa yetersiz işlem sayılır.  
+A) Nakliyat ve depolama süresince iyi muhafaza amacıyla yapılan yayma ve hasar gören parçaların atılması yetersiz sayılır.  
+B) Basit torbalama, sandıklama ve kutulama işlemleri menşe kazanılması bakımından yetersiz işlem olarak kabul edilir.  
+C) Kalburdan geçirme ve sıraya koyma işlemleri, yalnızca nakliyat ve depolama süresince yapılırsa yetersiz sayılır.  
 D) Karton veya tahta üzerine yerleştirme işlemi yetersiz işlem olarak kabul edilir.  
 E) Ambalajların ayrılması ve birleştirilmesi işlemleri yetersiz işlem olarak kabul edilir.  
 
-**53.** Gümrük Yönetmeliğinde eşyanın menşeinin belirlenmesine ilişkin;
+**53.** Gümrük Yönetmeliğinde önemli yedek parçaların menşeine ilişkin;
 
-I. Kıymet deyimi, menşeli olmayan maddelerin ithalattaki gümrük kıymetini, bilinmiyorsa imalat ülkesinde ödenen tespiti mümkün ilk fiyatı ifade eder.  
-II. Montaj işlemleri sonucu oluşan kıymet, kar ve genel giderlerden kaynaklanan kıymet artışını kapsamaz.  
+I. İhracatta menşe şahadetnamesi düzenlenirken aranan yazılı beyanda, cihaz, makine, alet veya aracın tüm özellikleri de yer alır.  
+II. Önemli yedek parça ihracı başvurusu, daha önce ihraç edilen cihaza ait menşe şahadetnamesinin sayı, tarih ve onaylayan bilgileri sunulmadıkça işleme konulmaz.  
 III. Önemli yedek parçaların bünyeye girmesi, cihazın imalat ülkesi menşeine sahip olmasını engellememelidir.  
 IV. Önemli yedek parçaların cihazla aynı menşeli sayılması, daha önce ihraç edilmiş cihazlar için uygulanmaz.  
 ifadelerinden hangileri <u>**yanlıştır**</u>?  
 
-A) I ve IV  
+A) I ve III  
 B) II ve IV  
 C) III ve IV  
 D) I, II ve IV  
 E) II, III ve IV  
 
-**54.** Gümrük Kanunu ve Gümrük Yönetmeliğine göre, fikri ve sınai hakların gümrüklerde korunmasına ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
+**54.** Gümrük Yönetmeliğine göre, fikri ve sınai hakların gümrüklerde korunmasına ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
-A) Başvurunun kabulü, eşyanın gümrük idaresince muayene edilmeden bırakılması nedeniyle hak sahibine tazminat hakkı doğurmaz.  
-B) Gümrük idaresi, mahkeme tespiti gerekmeksizin kolaylaştırılmış imha kapsamında imhaya izin verebilir.  
+A) Temin edilen bilgileri amaç dışında kullanan hak sahibinin başvurusu, kalan geçerlilik süresince askıya alınabilir.  
+B) Korunan hakkın sona ermesi veya süresinin bitmesi hâlinde hak sahibinin bunu gümrük idaresine bildirmesi zorunludur.  
 C) İhlal eden eşyayı üretmek için özellikle tasarlanan kalıp ve matrisler de bu nitelikte eşya sayılır.  
 D) Olası ihlal tebliğinden önce hak sahibine eşyanın miktarı ve niteliği dışında bilgi açıklanmaz.  
-E) İşlemleri durdurulan veya alıkonulan eşyanın teminatla iadesinde, teminat tutarını gümrük idaresi belirler.  
+E) Kolaylaştırılmış imhaya ilişkin tüm masraflar, eşyanın beyan sahibinden veya zilyedinden alınır.  
 
 **55.** 4458 sayılı Gümrük Kanununa göre, …… düzenlemelerine tabi tutulan eşyadan elde edilen ve tabi olduğu rejim hükümleri uyarınca …… taşımadığı tespit edilen eşya da serbest dolaşımda bulunan eşya kapsamındadır.
 
 Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?  
 
-A) geçici ithalat – özel ekonomik değer  
+A) şartlı muafiyet – ticari değer ve nitelik  
 B) şartlı muafiyet – özel ekonomik değer  
-C) standart değişim – özel ekonomik değer  
-D) şartlı muafiyet – ticari değer ve nitelik  
-E) geri ödeme – özel ekonomik değer  
+C) geri ödeme – özel ekonomik değer  
+D) geri ödeme – ticari değer ve nitelik  
+E) geçici ithalat – ticari bir kıymet  
 
 **56.** Gümrük Yönetmeliğine göre, nihai kullanımı nedeniyle indirimli veya sıfır vergi oranına tabi olup mükerrer kullanılabilen eşyanın nihai kullanıma geçmiş sayılmasına ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
@@ -573,7 +573,7 @@ Yukarıdaki ifadelerden hangileri doğrudur?
 
 A) I ve III  
 B) I ve IV  
-C) II ve III  
+C) II ve IV  
 D) I, II ve III  
 E) I, III ve IV  
 
@@ -583,7 +583,7 @@ A) Bu haktan yararlanılabilmesi için hak sahibinin, bilgiye dayanarak ve bilgi
 B) Geçerliliğini kaybeden bağlayıcı bilgiye dayanılarak altı aylık süre boyunca tanınan kullanım hakkı, ithalat ya da ihracat vergilerinin belirlenmesi amacıyla kullanılabilir.  
 C) Söz konusu kullanım hakkı, tarım politikası kapsamında ihracat vergi iadeleri ile ithalata ya da ihracata verilen diğer bütün ödemelerin hesaplanması amacıyla da kullanılabilir.  
 D) Belgelerin söz konusu tarife veya menşe bilgisine istinaden verilmiş olması koşuluyla, gümrük beyannamesinin tescili için verilen ithalat, ihracat ya da ön izin belgesinin kullanımında da bu haktan yararlanılabilir.  
-E) Geçerliliğini kaybeden bağlayıcı tarife veya menşe bilgisinin hak sahibince altı aylık süre boyunca kullanılabilmesine ilişkin hükümlere istisna getirmeye Ticaret Bakanlığı yetkilidir.  
+E) Bağlayıcı sözleşme yapmış hak sahibine, geçerliliğini kaybeden bilgiyi altı ay süreyle kullanma imkânı tanıyan Kanun hükümlerine istisna getirme yetkisi Ticaret Bakanlığına verilmiştir.  
 
 **59.** Dahilde İşleme Rejimi Tebliğine göre belge/izin düzenlenmesine ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
@@ -597,20 +597,20 @@ E) Fiyat, bulunabilirlik ve kalite yönünden yurt içinden temin edilebilirliğ
 
 Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?  
 
-A) teminata – tam – geçici ithalat  
-B) teminata – kısmi – dahilde işleme  
+A) teminata – tam – dahilde işleme  
+B) taahhütnameye – kısmi – dahilde işleme  
 C) teminata – kısmi – geçici ithalat  
-D) taahhütnameye – kısmi – geçici ithalat  
+D) taahhütnameye – tam – geçici ithalat  
 E) kefalete – tam – dahilde işleme  
 
 **61.** Gümrük Yönetmeliğine göre ihracat rejiminde; gümrük idareleri, dolaylı temsilci olarak yetkilendirilen posta idaresi ve hızlı kargo şirketlerinin …… eklenmediği gümrük beyanını, gerekli bilgileri içeren …… beyannameye eklenmesi kaydıyla kabul edebilir. Bu beyanı takiben …… içerisinde tamamlayıcı beyan verilir.
 
 Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?  
 
-A) faturanın – e-faturanın – yedi iş günü  
-B) faturanın – taşıma senedinin – bir ay  
-C) menşe belgesinin – e-irsaliyenin – yedi iş günü  
-D) faturanın – e-irsaliyenin – izleyen ayın ilk üç günü  
+A) faturanın – sevk irsaliyesinin – on iş günü  
+B) e-faturanın – e-irsaliyenin – on iş günü  
+C) e-faturanın – sevk irsaliyesinin – yedi iş günü  
+D) e-faturanın – taşıma senedinin – bir ay  
 E) faturanın – e-irsaliyenin – yedi iş günü  
 
 **62.** Gümrük mevzuatına göre dahilde işleme rejiminin geri ödeme sistemine ilişkin aşağıdaki ifadeler veriliyor:
@@ -623,13 +623,13 @@ Yukarıdaki ifadelerden hangileri doğrudur?
 
 A) I ve II  
 B) I ve IV  
-C) II ve IV  
+C) III ve IV  
 D) I, II ve III  
 E) I, II ve IV  
 
 **63.** Dahilde İşleme Rejimi Tebliğine göre;
 
-I. Fire: İşleme sırasında yitirilen kısım olup ekonomik değeri olmayan atıkları kapsamaz.  
+I. Vergi: Yalnızca eşyanın ithalinde tahsili öngörülen vergi, resim, harç, fon ve benzeri mali yüklerdir.  
 II. Başlamış işlem: Rejim kapsamındaki ithalat ve ihracat beyannamesinin tescil edilmiş olmasıdır.  
 III. İşletme malzemesi: Ürün bünyesinde yer almayan, enerji ve yakıt dahil malzemedir.  
 Yukarıdaki tanımlardan hangileri <u>**yanlıştır**</u>?  
@@ -643,8 +643,8 @@ E) I, II ve III
 **64.** Dahilde İşleme Rejimi Tebliğine göre, şartlı muafiyet sistemi çerçevesinde Türkiye Gümrük Bölgesi dışında yapılacak işleme faaliyetine ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Daha ileri düzeyde işlenen ürünün ithaline, ürünün ithalat vergileri tutarından, geçici ihracat eşyasının en son işlendiği yerden aynı tarihte ithal edilmesi halinde uygulanacak vergi tutarı indirilerek hesaplanan tutar tahsil edilerek izin verilir.  
-B) İşlem görmüş ürün veya değişmemiş eşya, hariçte işleme rejimi hükümleri çerçevesinde daha ileri düzeyde işlenmek üzere Türkiye Gümrük Bölgesi dışına geçici olarak ihraç edilebilir; ancak serbest bölgelere bu amaçla geçici ihracat yapılamaz.  
-C) Belge kapsamında yalnızca işlem görmüş ürünün tamamı daha ileri düzeyde işlenmek üzere geçici olarak ihraç edilebilir; değişmemiş eşyanın veya işlem görmüş ürünün yalnızca bir kısmının bu amaçla Türkiye Gümrük Bölgesi dışına veya serbest bölgelere geçici ihracı mümkün değildir.  
+B) Belge kapsamındaki işlem görmüş ürün veya değişmemiş eşya, hariçte işleme rejimi hükümleri çerçevesinde daha ileri düzeyde işlenmek üzere Türkiye Gümrük Bölgesi dışına geçici olarak ihraç edilebilir; ancak bu amaçla serbest bölgelere geçici ihracat yapılması mümkün değildir.  
+C) Daha ileri düzeyde işlenen ürünün ithaline, geçici ihracat eşyasına isabet eden vergi indirilmeksizin, işlem görmüş ürünün ithalat vergilerinin tamamı tahsil edilerek izin verilir.  
 D) Daha ileri düzeyde işlenen ürünün ithaline, ürünün ithalat vergileri tutarından, geçici ihracat eşyasının en son işlendiği yerden aynı tarihte ithal edilmesi halinde uygulanacak vergi tutarı indirilerek hesaplanan tutar kadar teminat alınarak izin verilir.  
 E) Daha ileri düzeyde işlenen ürünün ithaline, geçici ihracat eşyasına isabet eden vergi indirilmeksizin, işlem görmüş ürünün ithalat vergilerinin tamamı kadar teminat alınarak izin verilir.  
 
@@ -659,8 +659,8 @@ Yukarıdaki ifadelerden hangileri <u>**yanlıştır**</u>?
 A) Yalnız II  
 B) I ve III  
 C) II ve IV  
-D) I, II ve IV  
-E) II, III ve IV  
+D) I, II ve III  
+E) I, II ve IV  
 
 **66.** 4458 sayılı Gümrük Kanununa göre, dahilde işleme izni de dahil olmak üzere ekonomik etkili rejimlerin kullanımına ilişkin izinlerin verilmesi ve iznin devamına ilişkin aşağıdakilerden hangisi doğrudur?
 
@@ -695,9 +695,9 @@ E) 2 ve 5
 
 **69.** 4458 sayılı Gümrük Kanununa göre, dahilde işleme sonrası ihraç edilip geri gelen işlem görmüş üründe serbest dolaşıma giriş tarihi **nedir**?
 
-A) Geri gelen ürüne ait serbest dolaşıma giriş beyannamesinin tescil tarihi  
+A) Geri gelen ürünün serbest dolaşıma giriş beyannamesinin tescil tarihi  
 B) İthal eşyasının dahilde işleme rejimine tabi tutulduğu tarih  
-C) Ürünün Türkiye Gümrük Bölgesine yeniden getirildiği tarih  
+C) Ürünün dahilde işleme sonrasında Türkiye'ye geri getirildiği tarih  
 D) Ürünün dahilde işleme sonrasında yeniden ihraç edildiği tarih  
 E) Dahilde işleme izninin veriliş tarihi  
 
@@ -719,7 +719,7 @@ Yukarıdaki ifadelerden hangileri doğrudur?
 
 A) I ve III  
 B) I ve IV  
-C) II ve III  
+C) II ve IV  
 D) I, II ve III  
 E) I, III ve IV  
 
@@ -794,10 +794,10 @@ E) 24 ay
 
 Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?  
 
-A) 150 – ilaç cinsi eşya  
+A) 1500 – kozmetik ürünler  
 B) 1500 – ilaç cinsi eşya  
-C) 1500 – kozmetik ürünler  
-D) 22 – ilaç cinsi eşya  
+C) 150 – ilaç cinsi eşya  
+D) 150 – kozmetik ürünler  
 E) 430 – kişisel kullanıma mahsus kitap  
 
 **79.** Gümrük Muafiyeti Tebliği (Seri No: 2)'ne göre, yolcu beraberi kişisel eşyanın getirilmesine ilişkin olarak Kararda belirlenen sürelerin mücbir sebep veya beklenmeyen hâller nedeniyle aşılması durumunda, bu süreler Gümrük ve Ticaret Bölge Müdürlüklerince **en fazla kaç aya kadar** uzatılabilir?
@@ -813,7 +813,7 @@ E) 24 ay
 A) Kapanış tarihinden itibaren on yıl süreyle  
 B) Kapanış tarihinden itibaren beş yıl süreyle  
 C) İznin verildiği tarihten itibaren beş yıl süreyle  
-D) Kapanış yılını izleyen yıldan itibaren üç yıl süreyle  
+D) İznin verildiği tarihten itibaren on yıl süreyle  
 E) Son eşya çıkışından itibaren iki yıl süreyle  
 
 **81.** Gümrük Yönetmeliğine göre, antrepoya konulan eşyaya ilişkin teminat ve sorumluluk hükümleriyle ilgili aşağıdaki ifadeler veriliyor:
@@ -824,8 +824,8 @@ III. Konteynerle sevk edilen eşyanın kap adedinde farklılık tespit edilirse 
 IV. Gümrük vergileri dahil sigortalanan eşyada vergiler sigortadan tazmin edilmişse, noksanlığa ait vergiler antrepo işleticisinden alınır.  
 Yukarıdaki ifadelerden hangileri <u>**yanlıştır**</u>?  
 
-A) Yalnız IV  
-B) I ve III  
+A) Yalnız I  
+B) Yalnız IV  
 C) II ve IV  
 D) III ve IV  
 E) II, III ve IV  
@@ -838,13 +838,13 @@ C) Satıcı veya göndericisi ile yurt dışındaki alıcısı belli olan eşyay
 D) Antrepoya konulacak Türkiye İlaç ve Tıbbî Cihaz Kurumunun iznine tabi ürünler ve etkin maddeler için Kurumdan alınacak izin belgesi, eşyanın antrepodan çıkarılarak serbest dolaşıma sokulması aşamasında aranır.  
 E) Antrepoya konulan serbest dolaşımdaki eşyanın ihracı veya gümrükçe onaylanmış başka bir işleme tabi tutulması mümkün olmadığında, bir takvim yılında beş defayı geçmemek üzere yetkilendirilmiş gümrük müşaviri veya gümrük memuru gözetiminde eşyanın antrepodan çıkarılmasına izin verilerek beyanname iptal edilir.  
 
-**83.** Gümrüksüz Satış Mağazaları Yönetmeliğine göre mağaza türleri ve açılabileceği yerlere ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
+**83.** Gümrüksüz Satış Mağazaları Yönetmeliğine göre mağaza türleri, açılışı ve işletilmesine ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
 A) Hava ve deniz gümrük kapılarında, liman sahası içerisinde olmak şartıyla, depoların ve uçakta satış mağazalarının yolcu giriş ve çıkışı yapılan yerler dışında da açılmasına izin verilebilir.  
-B) Giriş ve çıkış mağazaları ayrı ayrı açılıp işletilir; ancak giriş ve çıkışın fiziki olarak ayrılmasının mümkün olmadığı yerlerde giriş-çıkışa hizmet verecek tek mağaza olarak açılmasına Genel Müdürlükçe izin verilebilir.  
+B) Çıkışa yönelik mağazalarla sınırlı olarak, tek işletmeciyle işletme sözleşmesi bulunan ve şartları taşıyan firmalara alkollü içki, tütün ve tütün mamulleri dışında eşya satmak üzere mağaza açma izni verilebilir.  
 C) Gemilere satış mağazası, yalnızca Türk boğazlarından transit geçen Türk veya yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan ve özel antrepo sayılan yerdir; limandan sefere çıkan gemilere satış yapamaz.  
-D) Uçakta satış mağazası, yolculara uçak içinde satılmak amacıyla sadece yabancı ülkelere sefer yapan uçaklara eşya teslimi yapmak üzere hava hudut kapılarında yolculardan arındırılmış yerlerde açılır.  
-E) İstanbul Boğazı’nda bir ve Çanakkale Boğazı’nda bir olmak üzere toplam iki adet gemilere satış mağazası açılmasına izin verilebilir ve bunların açılmasında giriş ve çıkış yerlerinde bulunma şartı aranmaz.  
+D) Hava hudut kapılarında uçakta satış mağazası işletmeciliği her bir hudut kapısı itibarıyla tek bir işletmeci tarafından yapılır; Yönetmelikteki mağaza atıfları da aksi belirtilmedikçe uçakta satış mağazalarını kapsar.  
+E) Gemilere satış mağazası açma izni için başvuranlarda ayrıca izin belgeli en az bir deniz hizmet teknesi bulunması, mağaza adına VHF cihazı işletme izni alınmış olması ve Deniz Ticaret Odasına kayıtlı olunması aranır.  
 
 **84.** Gümrük Yönetmeliğine göre, antrepo açma ve işletme izni almak isteyen şirketlerde aranan şartlara ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
@@ -875,8 +875,8 @@ E) Serbest bölgeden eşya çıkarılmasına ilişkin ayrıntılar derhal envant
 A) Sahipsiz yakalanan kaçak eşyanın ikramiyeye esas değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyetçe belirlenir.  
 B) Müsadere yaptırımının konusunu oluşturan eşyanın kaim değerinden, eşyanın ithal eşyası olması hâlinde gümrük vergileri dikkate alınmaksızın, uluslararası kıymet sözleşmesine göre belirlenen CIF kıymeti anlaşılır.  
 C) Etkin pişmanlık kapsamında soruşturma evresi sona erinceye kadar Devlet Hazinesine ödenmesi gereken tutar, suç konusu eşyanın gümrük vergileri hariç tutularak bulunan CIF kıymetinin iki katı olarak hesaplanır.  
-D) İkramiye ödemelerinde giriş kaçağı eşyanın FOB kıymeti, çıkış kaçağı eşyanın ise CIF kıymeti esas alınarak muhbir ve el koyma ikramiyesine hak kazananlara ödenecek tutar hesaplanır.  
-E) Alıkonulan taşıtın sahibine iadesi için gümrük idaresine verilecek teminatın hesabında, sigortası bulunmayan kara taşıtlarında da taşıtın kasko değeri esas alınır.  
+D) Ateşli silah ve mermi yakalamalarında ikramiyeye esas değer olarak, olay tarihine göre İçişleri Bakanlığınca her yıl belirlenen değer esas alınır.  
+E) Uyuşturucu madde yakalamalarında ikramiyeye esas değer, yakalanan maddenin piyasa değeri üzerinden Sağlık Bakanlığınca her yıl ilan edilen tarifeye göre belirlenir.  
 
 **88.** 5607 sayılı Kaçakçılıkla Mücadele Kanununda akaryakıt ve ulusal markere ilişkin suçlarla ilgili şu ifadeler veriliyor:
 
@@ -890,7 +890,7 @@ A) Yalnız I
 B) Yalnız II  
 C) I ve II  
 D) I ve IV  
-E) I, II ve III  
+E) I, III ve IV  
 
 **89.** 5607 Sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliğinde “Bir mal, iş veya hizmetin temin edildiği yer ve tarihteki piyasadaki alım ve satım bedeli” olarak tanımlanan kavram aşağıdakilerden hangisidir?
 
@@ -911,10 +911,10 @@ E) Karnenin geçerlilik süresinden uzun kullanım için yeni bir ATA karnesiyle
 **91.** Gümrük Yönetmeliğine göre, başka bir şartlı muafiyet rejimine tabi tutulmak üzere geçici ithalat rejimi kapatılan eşya için aynı izin hak sahibince aynı amaçla yeniden geçici ithalat izni istenmesi hâlinde aşağıdakilerden hangisi doğrudur?
 
 A) Önceki süre dikkate alınmaz; eşyaya yeniden yirmi dört aylık süre verilebilir  
-B) Önceki süre dahil yirmi dört ay aşılamaz; bu süre talep üzerine de uzatılamaz  
+B) Önceki süre dahil yirmi dört ay aşılamaz; bu süre hak sahibinin talebi üzerine de uzatılamaz  
 C) Önceki süre dahil on iki ay aşılamaz; kullanılmayan süre kadar uzatma yapılabilir  
 D) Önceki süre dahil yirmi dört ay aşılamaz; kullanılmayan süre kadar uzatma yapılabilir  
-E) Önceki süre dahil yirmi dört ay aşılamaz; talep hâlinde ayrıca dokuz ay uzatma yapılır  
+E) Önceki süre dahil on iki ay aşılamaz; bu süre hak sahibinin talebi üzerine de uzatılamaz  
 
 **92.** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)’e göre, aşağıdaki durumlardan hangisi şartların ihlali <u>**sayılmaz**</u>?
 
@@ -929,18 +929,18 @@ E) Ticari kullanıma mahsus olarak getirilen yabancı plakalı kara taşıtını
 Yukarıda belirtilen işaret aşağıdakilerden hangisidir?  
 
 A) “Ticari Taşıttır” kaşesi  
-B) Triptik karnesi  
-C) Taşıt giriş-çıkış formu  
+B) “Çalışma izninden muaftır” şerhi  
+C) Ayniyet şerhi  
 D) Gümrük mührü  
 E) Taşıt kaşesi  
 
 **94.** Gümrük Yönetmeliğine göre, kara hudut kapılarında işlemlerine **hangi süre içinde** başlanmayan taşıtlar hakkında tasfiye hükümleri uygulanır?
 
-A) Gümrüklü sahaya giriş tarihinden itibaren kırk beş gün içinde  
-B) Gümrüklü sahaya giriş tarihinden itibaren üç ay içinde  
-C) Taşıtın gümrük idaresince teslim alındığı tarihten itibaren üç ay içinde  
+A) Özet beyanın verildiği tarihten itibaren yirmi gün içinde  
+B) Gümrüklü sahaya giriş tarihinden itibaren kırk beş gün içinde  
+C) Özet beyanın verildiği tarihten itibaren kırk beş gün içinde  
 D) Gümrüklü sahaya giriş tarihinden itibaren yirmi gün içinde  
-E) Özet beyanın tescil edildiği tarihten itibaren otuz gün içinde  
+E) Taşıtın gümrük idaresince teslim alındığı tarihten itibaren üç ay içinde  
 
 **95.** Yurt dışında yerleşik (N), kişisel kullanımına mahsus otomobilini geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine getirmiştir. Taşıt, yurtta kalma süresi içinde Türkiye'de geçirdiği trafik kazası sonucunda ağır hasar görmüş ve kullanılamayacak duruma gelmiştir. Kazada ölen veya yaralanan olmamış; kaza durumu, jandarma birimlerince düzenlenen olay yeri tespit tutanağı ve yetkili sigorta şirketinin eksperince düzenlenen ekspertiz raporuyla belgelendirilmiştir. (N), taşıtın enkazını yurt dışına götürmek istemediğini ve enkazın Türkiye'de hurda olarak değerlendirilmesini talep ettiğini gümrük idaresine bildirmiştir.
 
@@ -962,7 +962,7 @@ Yukarıdaki ifadelerden hangileri doğrudur?
 
 A) I ve II  
 B) I ve IV  
-C) III ve IV  
+C) II ve III  
 D) I, II ve IV  
 E) I, III ve IV  
 
@@ -1413,16 +1413,16 @@ E) 2 yıl
 
 Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71)'e göre, taşıdıkları eşyanın sadece transit işlemlerini doğrudan temsil yoluyla takip edecek nakliyeci kuruluş temsilcilerine verilen Gümrük İşlemi Takip Kartına ilişkin aşağıdakilerden hangisi doğrudur?
 
-A) Kart, dernek veya odanın merkez ya da şubesinin bulunduğu bölgedeki başmüdürlükçe verilir.  
-B) Bir başmüdürlükten sağlanan kart, diğer başmüdürlüklerin bağlantısı olan gümrüklerde de kullanılır.  
+A) Kart, başvuru dosyalarının ibraz edildiği dernek veya odanın bölgesindeki başmüdürlükçe verilir.  
+B) Kart listelerindeki değişiklikler, kuruluşlarca yalnız üyesi bulunulan dernek veya odaya bildirilir.  
 C) Kartların hazırlanması, baskısı ve dosyalanmasına ilişkin giderler ilgili başmüdürlükçe karşılanır.  
 D) Kart, kart talebinde bulunan firmanın merkez veya şubesinin bulunduğu bölgedeki başmüdürlükçe verilir.  
 E) Çalıştığı kuruluştan ayrılanların kartlarının iptali ve iadesinin takibi başmüdürlükçe yapılır.  
 
 ✅ **Doğru Cevap:** D  
-📖 **Açıklama:** Tebliğe göre Gümrük İşlemi Takip Kartları, dernek ve odaların merkez veya şubelerinin bulunduğu bölgedeki değil, kart talebinde bulunan firmaların merkez veya şubelerinin bulunduğu bölgedeki gümrük ve muhafaza başmüdürlüklerince verilir. Bir başmüdürlükten sağlanan kart diğer başmüdürlüklerin bağlantısı olan gümrüklerde kullanılamaz; kartların hazırlanma ve baskı giderleri ile kuruluştan ayrılanların kartlarının iptal ve iadesinin takibi dernek veya odalara aittir. Bu nedenle doğru cevap D seçeneğidir. (MD Seri No:71 Tebliğ 5/2, 7/1, 8/2)  
-⚖️ **Yasal Dayanak:** Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71) m.5/2, 7/1, 8/2; Gümrük Yönetmeliği m.561/4-ç  
-🔍 **Şık Uzunluk Kontrolü:** A:90 B:99 C:99 D:102 E:95 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
+📖 **Açıklama:** Tebliğe göre başvuru dosyaları ilgili dernek veya odaya ibraz edilse de Gümrük İşlemi Takip Kartları, dernek ve odaların merkez veya şubelerinin bulunduğu bölgedeki değil, kart talebinde bulunan firmaların merkez veya şubelerinin bulunduğu bölgedeki gümrük ve muhafaza başmüdürlüklerince verilir. Kart verilecek kişilerin listelerinde meydana gelen değişiklikler acente ve nakliyeci kuruluşlarca listelerin verildiği başmüdürlüklere derhal bildirilir; kartların hazırlanma ve baskı giderleri ile kuruluştan ayrılanların kartlarının iptal ve iadesinin takibi ise dernek veya odalara aittir. Bu nedenle doğru cevap D seçeneğidir. (MD Seri No:71 Tebliğ 4/2, 5/2, 6/1, 7/1, 8/2)  
+⚖️ **Yasal Dayanak:** Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71) m.4/2, 5/2, 6/1, 7/1, 8/2; Gümrük Yönetmeliği m.561/4-ç  
+🔍 **Şık Uzunluk Kontrolü:** A:96 B:100 C:99 D:102 E:95 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
 
 ---
 
@@ -1435,16 +1435,16 @@ II. Fotoğraflı izin belgesini, gümrük idaresinde bulunduğu sürece görüle
 III. Çalışma yeri, izin belgesinin değiştirilmesi ile değiştirilebilir.  
 Yukarıdaki ifadelerden hangileri doğrudur?  
 
-A) Yalnız II  
-B) Yalnız III  
-C) I ve II  
-D) I ve III  
+A) Yalnız I  
+B) Yalnız II  
+C) Yalnız III  
+D) I ve II  
 E) II ve III  
 
 ✅ **Doğru Cevap:** E  
 📖 **Açıklama:** Kanuna göre gümrük müşavir yardımcılarının gümrüklerde iş takibine ilişkin sınırlandırmalar yapmaya dernekler değil Gümrük Müsteşarlığı yetkilidir; I yanlıştır. Yönetmeliğe göre fotoğraflı izin belgeleri gümrük idarelerinde bulunulan süre içerisinde görülebilecek şekilde üzerlerinde bulundurulur ve çalışma yerinin değiştirilmesi izin belgesinin değiştirilmesi ile mümkündür; II ve III doğrudur. Bu nedenle doğru cevap E seçeneğidir. (MD GK 226/2; GY 564/4, 573/2)  
 ⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.226/2; Gümrük Yönetmeliği m.564/4, 573/2  
-🔍 **Şık Uzunluk Kontrolü:** A:9 B:10 C:7 D:8 E:9 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:8 B:9 C:10 D:7 E:9 karakter → Denge: UYGUN
 
 ---
 
@@ -1494,37 +1494,37 @@ Gümrük mevzuatına göre kusurlu olduğu için ithalatçı tarafından kabul e
 
 I. Teslimden önce hasar gören eşya, kusurlu eşya kapsamında değerlendirilmez.  
 II. İhracı yerine ilgilinin talebiyle izin verilen işlem veya kullanımlardan birine tabi tutulan eşya, serbest dolaşımda olmayan eşya sayılır.  
-III. Sözleşmenin fiyat dâhil şartları belirlenirken eşyanın kusurlu mahiyeti dikkate alınmışsa vergiler bu kapsamda geri verilmez.  
+III. Alıcı ile satıcı arasındaki sözleşmenin şartları, özellikle fiyat, eşyanın kusurlu mahiyeti dikkate alınarak belirlenmişse ithalat vergileri bu kapsamda geri verilmez.  
 IV. Bir kere kullanılarak tüketilen eşya dâhil, eşyanın kusurun tespiti için gerekli ilk kullanım dışında kullanılmamış olması gerekir.  
 Yukarıdaki ifadelerden hangileri <u>**yanlıştır**</u>?  
 
-A) Yalnız I  
-B) Yalnız IV  
-C) I ve II  
-D) I ve III  
+A) Yalnız II  
+B) Yalnız III  
+C) Yalnız IV  
+D) I ve II  
 E) I ve IV  
 
 ✅ **Doğru Cevap:** E  
-📖 **Açıklama:** Kanuna göre kusurlu eşyaya teslimden önce hasar gören eşya da dâhildir; I yanlıştır. Tebliğe göre ilk kullanım dışında kullanılmama şartı, bir kere kullanılarak tüketilen eşya hariç aranır; IV yanlıştır. İhraç yerine izin verilen işlem veya kullanıma tabi tutulan eşyanın serbest dolaşımda olmayan eşya sayılması ve kusurlu mahiyeti fiyatta dikkate alınan eşyada geri verme yapılmaması mevzuata uygundur. Bu nedenle doğru cevap E seçeneğidir. (MD GK 213/1-2; GY 501/1-a; Tahsilat Seri No:2 m.30/5)  
+📖 **Açıklama:** Kanuna göre kusurlu eşyaya teslimden önce hasar gören eşya da dâhildir; I yanlıştır. Tebliğe göre ilk kullanım dışında kullanılmama şartı, bir kere kullanılarak tüketilen eşya hariç aranır; IV yanlıştır. İhraç yerine izin verilen işlem veya kullanıma tabi tutulan eşyanın serbest dolaşımda olmayan eşya sayılması (II) ve sözleşme şartları, özellikle fiyat, kusur dikkate alınarak belirlenmişse geri verme yapılmaması (III) mevzuata uygundur. Bu nedenle doğru cevap E seçeneğidir. (MD GK 213/1-2; GY 501/1-a; Tahsilat Seri No:2 m.30/5)  
 ⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.213/1-2; Gümrük Yönetmeliği m.501/1-a; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.30/5  
-🔍 **Şık Uzunluk Kontrolü:** A:8 B:9 C:7 D:8 E:7 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:9 B:10 C:9 D:7 E:7 karakter → Denge: UYGUN
 
 ---
 
 **SORU 27.** [T3 – Zor] · Model soru: 2025/27
 
-Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre son taksitte ihlal edilip geçerli sayılan tecilde taksit **ne kadar sürede** ödenir?
+Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre son taksitte ihlal edilen tecil geçerli sayılırsa taksit **ne kadar sürede** ödenir?
 
-A) Son taksit ödeme süresini izleyen ayın sonuna kadar  
-B) Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren bir ay içinde  
-C) Tecilin geçerli sayılmasına ilişkin talebin yapıldığı tarihten itibaren beş iş günü içinde  
+A) Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren on beş gün içinde  
+B) Tecilin geçerli sayılmasına ilişkin talebin yapıldığı tarihten itibaren beş iş günü içinde  
+C) Tecilin geçerli sayılmasına ilişkin talebin yapıldığı tarihten itibaren on beş gün içinde  
 D) Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde  
-E) Tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren on beş gün içinde  
+E) Son taksit ödeme süresini izleyen ayın sonuna kadar  
 
 ✅ **Doğru Cevap:** D  
-📖 **Açıklama:** Tebliğe göre tecilin ihlaline neden olan taksit son taksitse, yükümlü tecilin geçerli sayılması talebini en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapar; ihlal edilen taksit ile hesaplanan tecil faizini ise tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde öder. Ayın sonuna kadarki süre talebe ilişkindir; beş iş günü de talep tarihinden değil yazının tebliğinden başlar. Bu nedenle doğru cevap D seçeneğidir. (MD Tahsilat Seri No:2 m.27/4)  
+📖 **Açıklama:** Tebliğe göre tecilin ihlaline neden olan taksit son taksitse, yükümlü tecilin geçerli sayılması talebini en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapar; ihlal edilen taksit ile hesaplanan tecil faizini ise tecilin geçerli sayıldığına ilişkin yazının tebliğinden itibaren beş iş günü içinde öder. Ayın sonuna kadarki süre talebe ilişkindir; beş iş günü de talep tarihinden değil yazının tebliğinden başlar. Bu ödeme için Tebliğde on beş günlük bir süre öngörülmemiştir. Bu nedenle doğru cevap D seçeneğidir. (MD Tahsilat Seri No:2 m.27/4)  
 ⚖️ **Yasal Dayanak:** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.27/4  
-🔍 **Şık Uzunluk Kontrolü:** A:51 B:78 C:90 D:83 E:82 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:82 B:90 C:89 D:83 E:51 karakter → Denge: UYGUN
 
 ---
 
@@ -1536,14 +1536,14 @@ Gümrük Yönetmeliğine göre yukarıda tanımlanan kavram aşağıdakilerden h
 
 A) Fasıl notu  
 B) Bölüm başlığı  
-C) Ek not  
-D) Alt pozisyon notu  
+C) Fasıl başlığı  
+D) Fasıl  
 E) Bölüm notu  
 
 ✅ **Doğru Cevap:** E  
-📖 **Açıklama:** Gümrük Yönetmeliğine göre bölüm başlıklarından sonra yer alan ve bölümde geçen tabirlerin anlamı, yalnız o bölümde yer alabilecek eşya ile bölüme dahil olmayan eşya hakkında bilgi veren açıklamalar bölüm notudur. Fasıl notu fasıl başlıklarından sonra fasıllarla ilgili açıklamaları; bölüm başlığı ise her bölümün başında yer alan, bağlayıcı olmayıp yol gösterici nitelikteki ibareleri ifade eder. Bu nedenle doğru cevap E seçeneğidir. (MD GY 32/1-b, c, f)  
-⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.32/1-b, c, f  
-🔍 **Şık Uzunluk Kontrolü:** A:10 B:13 C:6 D:17 E:10 karakter → Denge: UYGUN
+📖 **Açıklama:** Gümrük Yönetmeliğine göre bölüm başlıklarından sonra yer alan ve bölümde geçen tabirlerin anlamı, yalnız o bölümde yer alabilecek eşya ile bölüme dahil olmayan eşya hakkında bilgi veren açıklamalar bölüm notudur. Fasıl notu fasıl başlıklarından sonra fasıllarla ilgili açıklamaları; bölüm ve fasıl başlıkları bağlayıcı olmayan ibareleri; fasıl ise bölümlerden daha alt düzeydeki eşya grubunu ifade eder. Bu nedenle doğru cevap E seçeneğidir. (MD GY 32/1-b, c, d, e, f)  
+⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.32/1-b, c, d, e, f  
+🔍 **Şık Uzunluk Kontrolü:** A:10 B:13 C:13 D:5 E:10 karakter → Denge: UYGUN
 
 ---
 
@@ -1569,15 +1569,15 @@ E) Elektronik teminat mektuplarının standart ve kurallarını belirlemeye Baka
 Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre yargıya taşınan vergi kararı üst mahkemeye götürülmezse **ne zaman** kesinleşir?
 
 A) Nihai yargı kararının tebliğinden itibaren on beş günlük sürenin bitiminde  
-B) Nihai yargı kararının gümrük idaresine tebliğ edildiği tarihte  
+B) Nihai yargı kararının verildiği tarihten itibaren otuz günlük sürenin bitiminde  
 C) Nihai yargı kararının tebliğinden itibaren otuz günlük sürenin bitiminde  
-D) Nihai yargı kararının verildiği tarihten itibaren otuz günlük sürenin bitiminde  
-E) İtirazın reddi kararının tebliğinden itibaren dava açma süresinin bitiminde  
+D) Nihai yargı kararının verildiği tarihten itibaren on beş günlük sürenin bitiminde  
+E) Nihai yargı kararının gümrük idaresine tebliğ edildiği tarihte  
 
 ✅ **Doğru Cevap:** C  
-📖 **Açıklama:** Tebliğe göre idari itirazın reddi üzerine idari yargıya başvurulmuşsa karar, nihai yargı kararının tebliğinden itibaren istinaf veya temyiz için gerekli otuz günlük süre içinde üst mahkemeye başvurulmaması hâlinde bu sürenin bitiminde kesinleşir. On beş günlük süre kararın düzeltilmesi talebine ilişkindir; kararın gümrük idaresine tebliği ise Kanuna göre vergilerin tahsil edilebilir hâle geldiği andır. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Seri No:2 m.13/1-c, 13/1-ç; GK 197/5)  
-⚖️ **Yasal Dayanak:** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.13/1-b, 13/1-c, 13/1-ç; 4458 sayılı Gümrük Kanunu m.197/5  
-🔍 **Şık Uzunluk Kontrolü:** A:74 B:62 C:72 D:79 E:75 karakter → Denge: UYGUN
+📖 **Açıklama:** Tebliğe göre idari itirazın reddi üzerine idari yargıya başvurulmuşsa karar, nihai yargı kararının tebliğinden itibaren istinaf veya temyiz için gerekli otuz günlük süre içinde üst mahkemeye başvurulmaması hâlinde bu sürenin bitiminde kesinleşir; süre kararın verildiği tarihten değil tebliğinden başlar. On beş günlük süre üst mahkeme kararına karşı kararın düzeltilmesi talebine ilişkindir; kararın gümrük idaresine tebliği ise Kanuna göre vergilerin tahsil edilebilir hâle geldiği andır. Bu nedenle doğru cevap C seçeneğidir. (MD Tahsilat Seri No:2 m.13/1-c, 13/1-ç; GK 197/5)  
+⚖️ **Yasal Dayanak:** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.13/1-c, 13/1-ç; 4458 sayılı Gümrük Kanunu m.197/5  
+🔍 **Şık Uzunluk Kontrolü:** A:74 B:79 C:72 D:81 E:62 karakter → Denge: UYGUN
 
 ---
 
@@ -1657,18 +1657,18 @@ E) 56.000
 
 **SORU 35.** [T1 – Zor] · Model soru: 2025/35
 
-4458 sayılı Gümrük Kanunu ile 5607 sayılı Kaçakçılıkla Mücadele Kanununda yer alan gümrük vergileri ve gümrük yükümlülüğüne ilişkin hükümlere göre aşağıdakilerden hangisi <u>**yanlıştır**</u>?
+4458 sayılı Gümrük Kanununun ithalatta gümrük yükümlülüğünün doğması ve gümrük vergilerinden sorumlu kişilere ilişkin hükümlerine göre aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
-A) 4458 sayılı Kanunda gümrük yükümlülüğü deyimi yükümlünün gümrük vergilerini ödemesi zorunluluğunu, yükümlü deyimi ise gümrük yükümlülüğünü yerine getirmekle sorumlu bütün kişileri ifade eder.  
-B) İthalat vergilerine tabi eşyanın ithalat vergilerinden kısmi muafiyet suretiyle geçici ithali için verilecek gümrük beyannamesinin tescil tarihinde de ithalatta gümrük yükümlülüğü başlar.  
-C) 5607 sayılı Kanunda gümrük vergileri, yalnızca gümrük idaresince eşyanın ithali veya ihracına bağlı uygulanan vergi ve mali yükümlülükleri ifade eder; başka idarelerce uygulananlar bu tanıma girmez.  
-D) İhracat vergilerine tabi eşyanın bir gümrük beyannamesi kapsamında Türkiye Gümrük Bölgesi dışına ihraç edilmesi hâlinde gümrük yükümlülüğü doğar ve bu yükümlülük beyannamenin tescili tarihinde başlar.  
+A) Serbest bölgede bulunan ithalat vergilerine tabi eşyanın kanuna aykırı olarak Türkiye Gümrük Bölgesinin başka bir yerine gitmesi hâlinde de, kanuna aykırı girişte olduğu gibi gümrük yükümlülüğü doğar.  
+B) İthalat vergilerine tabi eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı şekilde girmesi hâlinde doğan gümrük yükümlülüğü, eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı olarak girişi tarihinde başlar.  
+C) Eşyanın Türkiye Gümrük Bölgesine kanuna aykırı girişinde gümrük vergilerinden girişi gerçekleştirenler sorumlu olup eşyayı bu durumu bilerek sonradan elde eden veya elinde bulunduran kişiler sorumlu tutulamaz.  
+D) Beyanda kullanılan veriler kanunen alınması gereken vergilerin tamamen veya kısmen tahsil edilememesine yol açarsa, bu verileri veren ve yanlış olduğunu bilen veya bilmesi gereken kişiler de vergilerden sorumludur.  
 E) 4458 sayılı Kanuna göre aynı gümrük vergilerinin ödenmesinden birden çok yükümlünün sorumlu olduğu hâllerde, bunlar söz konusu vergilerin ödenmesinden müştereken ve müteselsilen sorumludur.  
 
 ✅ **Doğru Cevap:** C  
-📖 **Açıklama:** 5607 sayılı Kanunda gümrük vergileri; yalnız gümrük idaresince değil, gümrük idaresi veya başka idarelerce eşyanın ithali veya ihracına bağlı olarak uygulanan vergiler ile diğer mali yükümlülükleri ifade eder. Kısmi muafiyetli geçici ithalatta yükümlülüğün beyanname tescil tarihinde başlaması ile birden çok yükümlünün müştereken ve müteselsilen sorumluluğu Kanuna uygundur. Bu nedenle doğru cevap C seçeneğidir. (MD 5607 s.K. 2/1-a; GK 3/8-b, 3/11, 181/1-b, 188, 192)  
-⚖️ **Yasal Dayanak:** 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.2/1-a; 4458 sayılı Gümrük Kanunu m.3/8-b, 3/11, 181/1-b, 188/1-2, 192  
-🔍 **Şık Uzunluk Kontrolü:** A:191 B:187 C:198 D:200 E:189 karakter → Denge: UYGUN
+📖 **Açıklama:** Kanuna göre ithalat vergilerine tabi eşyanın kanuna aykırı girişinde gümrük vergilerinden yalnız girişi gerçekleştirenler değil, girişe iştirak eden ve aykırılığı bilen veya normal olarak bilmesi gerekenler ile eşyayı elde ettiği ya da aldığı sırada kanuna aykırı girdiğini bilen veya normal olarak bilmesi gereken, eşyayı elde eden veya elinde bulunduran kişiler de sorumludur. Serbest bölgedeki eşyanın kanuna aykırı olarak gümrük bölgesinin başka bir yerine gitmesinin yükümlülük doğurması, kanuna aykırı girişte yükümlülüğün giriş tarihinde başlaması, yanlış veri verenlerin sorumluluğu ve müteselsil sorumluluk Kanuna uygundur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 181/3, 182/1-3, 192)  
+⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.182/1, 182/2, 182/3, 181/3, 192  
+🔍 **Şık Uzunluk Kontrolü:** A:200 B:206 C:209 D:214 E:189 karakter → Denge: UYGUN
 
 ---
 
@@ -1758,33 +1758,33 @@ III. Yükümlülük doğmayan tahribattan kalan nihai kullanım atıkları
 IV. Geri ödeme sistemiyle giren eşyadan elde edilip yeniden ihraç için antrepoya konulan ürünler  
 yukarıdakilerden hangileri serbest dolaşımda olmayan eşya sayılır?  
 
-A) I ve III  
-B) III ve IV  
-C) I, II ve III  
-D) I, II ve IV  
+A) Yalnız II  
+B) I ve III  
+C) III ve IV  
+D) I, II ve III  
 E) I, III ve IV  
 
 ✅ **Doğru Cevap:** E  
 📖 **Açıklama:** Gümrük idaresinin izni ve denetiminde imhadan doğan atık ve artıklar geri verme kararından sonra, nihai kullanım eşyasının yükümlülük doğmadığı kabul edilen tahribatından kalan atık ve artıklar ile geri ödeme sistemi çerçevesinde serbest dolaşıma giren eşyadan elde edilip daha sonra yeniden ihraç edilmek üzere gümrük antrepo rejimine tabi tutulan işlem görmüş ürünler, bu işlem bakımından serbest dolaşımda olmayan eşya sayılır; I, III ve IV doğrudur. Nihai kullanım nedeniyle indirimli veya sıfır vergiyle giren eşya ise serbest dolaşıma girmiş eşya olup yalnız gümrük gözetimi altında kaldığından II yanlıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 509/1; GK 77/1, 121/1-b, 121/2, 187/1)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.509/1; 4458 sayılı Gümrük Kanunu m.77/1, 121/1-b, 121/2, 187/1  
-🔍 **Şık Uzunluk Kontrolü:** A:8 B:9 C:12 D:11 E:12 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:9 B:8 C:9 D:12 E:12 karakter → Denge: UYGUN
 
 ---
 
 **SORU 41.** [T7 – Orta Üstü] · Model soru: 2025/41
 
-Dahilde İşleme Rejimi Tebliğine göre, EUR.1 dolaşım sertifikası hangi makamlarca düzenlenip vize edilir?
+Gümrük Yönetmeliğine göre, önemli yedek parça ithalinde menşe şahadetnamesine ek belgeleri kim isteyebilir?
 
-A) İthalatçı ülke gümrük idaresince düzenlenip ihracatçı ülkece vize edilir.  
-B) İhracatçı ülke yetkili kuruluşlarınca düzenlenip gümrük idaresince vize edilir.  
-C) İhracatçı tarafından düzenlenir ve gümrük idaresince vize edilmez.  
-D) Menşe ülke ticaret odalarınca düzenlenip ithalatçı ülke idaresince vize edilir.  
-E) Gümrük idaresince düzenlenip ihracatçı birliği genel sekreterliğince vize edilir.  
+A) Gümrük idaresinin bağlı olduğu bölge müdürlüğü  
+B) Beyannamenin tescil edildiği gümrük idaresi  
+C) Bakanlık (Gümrükler Genel Müdürlüğü)  
+D) Şahadetnameyi düzenleyen ihracatçı ülke makamı  
+E) Eşyanın ihraç edildiği ülkenin gümrük idaresi  
 
 ✅ **Doğru Cevap:** B  
-📖 **Açıklama:** Tebliğe göre EUR.1 dolaşım sertifikası dâhil menşe ispat belgeleri, Türkiye'nin taraf olduğu anlaşmalar çerçevesinde tercihli rejimden yararlanmak üzere ihracatçı ülke yetkili kuruluşlarınca düzenlenip gümrük idaresince vize edilir. İhracatçı tarafından ticari belge üzerinde yapılan beyan fatura beyanı niteliğindedir; belgeyi ithalatçı ülke idaresi düzenlemez. Bu nedenle doğru cevap B seçeneğidir. (MD DİR Tebliği 3/1-y)  
-⚖️ **Yasal Dayanak:** Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-y  
-🔍 **Şık Uzunluk Kontrolü:** A:73 B:79 C:66 D:79 E:81 karakter → Denge: UYGUN
+📖 **Açıklama:** Önemli yedek parçaların serbest dolaşıma sokulmak istenmesi hâlinde gerekli bilgileri içeren menşe şahadetnamesinin ibrazı gerekir; gümrük idaresi buna ek olarak cihaz veya aracın parçasına ait fatura ya da nüshasını, teslimatın normal bakım hizmetinin bir parçası olduğunu gösteren sözleşme ya da nüshasını ve gerekli gördüğü başka belgeleri isteyebilir. Bu yetki bölge müdürlüğüne veya Bakanlığa değil, serbest dolaşıma giriş işlemini yürüten gümrük idaresine tanınmıştır; şahadetnameyi düzenleyen ihracatçı ülke makamı ise belge isteyen değil belgeyi veren taraftır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 37/6)  
+⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.37/6  
+🔍 **Şık Uzunluk Kontrolü:** A:46 B:43 C:36 D:46 E:45 karakter → Denge: UYGUN
 
 ---
 
@@ -1835,15 +1835,15 @@ E) Eşya yükümlüsü tarafından derhal yurt dışı edilir; bu nitelikteki e�
 3350 sayılı İthalat Rejimi Kararına göre, ithalata ilişkin yetki, önlemler ve ithalat yasak ve kısıtlamaları bakımından aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
 A) Kararda yer alan hususlara ilişkin tebliğler çıkarmaya, ithalatın her aşamasında gerekli görülecek değişiklikleri yapmaya ve önlemleri almaya, özel ve zorunlu durumları inceleyip sonuçlandırmaya Ticaret Bakanlığı yetkilidir.  
-B) İthalat izinlerinin verilmesi ve ithalatla ilgili önlem ve kısıtlamaların uygulanmasına ilişkin görev ve yetkiler, tebliğ veya talimatla diğer kamu kurumlarına ve/veya ihracatçı birlikleri genel sekreterliklerine kısmen veya tamamen devredilebilir.  
+B) Yurda sokulmaları yürürlükteki mevzuat ile kayıt ve şarta bağlanan veya özel izne tabi bulunan eşya hakkındaki hükümler saklıdır; bu eşyanın ithali ilgili mevzuattaki kayıt ve şartlara göre yapılır.  
 C) İthalat rejimimizin genellik ilkesi ile bağdaşmayacak şekilde ayırıcı işlemler uygulayan ülkeler, kuruluşlar ve firmalar hakkında taraf olunan uluslararası anlaşmalar çerçevesinde uygun görülecek gerekli önlemler alınır.  
 D) Kamu ahlakı, kamu düzeni veya kamu güvenliği, insan, hayvan ve bitki sağlığı ile sınai ve ticari mülkiyetin korunması amaçlarıyla alınan önlemlerin kapsamı dışındaki eşyanın ithali Ticaret Bakanlığının iznine tabidir.  
 E) İthalatı kanunlarla belirli kurum ve kuruluşlara bırakılmış eşyanın ithali, ancak bu kurum ve kuruluşlar tarafından veya bunlar tarafından yetkilendirilenler tarafından yapılabilir.  
 
 ✅ **Doğru Cevap:** D  
-📖 **Açıklama:** Karara göre kamu ahlakı, kamu düzeni veya kamu güvenliği, insan, hayvan ve bitki sağlığı ile sınai ve ticari mülkiyetin korunması amaçlarıyla alınan önlemlerin kapsamı dışındaki eşyanın ithali serbesttir; Bakanlık iznine bağlandığını söyleyen ifade yanlıştır. Tebliğ çıkarma ve önlem alma yetkisi Ticaret Bakanlığına aittir; izin ve önlemlere ilişkin yetkiler diğer kamu kurumlarına ve/veya ihracatçı birlikleri genel sekreterliklerine devredilebilir. Bu nedenle doğru cevap D seçeneğidir. (MD İRK 3/1-2, 4/2, 5/1-2)  
-⚖️ **Yasal Dayanak:** 3350 sayılı İthalat Rejimi Kararı m.3/1-2, 4/2, 5/1-2  
-🔍 **Şık Uzunluk Kontrolü:** A:224 B:248 C:220 D:217 E:181 karakter → Denge: UYGUN
+📖 **Açıklama:** Karara göre kamu ahlakı, kamu düzeni veya kamu güvenliği, insan, hayvan ve bitki sağlığı ile sınai ve ticari mülkiyetin korunması amaçlarıyla alınan önlemlerin kapsamı dışındaki eşyanın ithali serbesttir; Bakanlık iznine bağlandığını söyleyen ifade yanlıştır. Tebliğ çıkarma ve önlem alma yetkisi Ticaret Bakanlığına aittir; yurda sokulması kayıt ve şarta bağlanan veya özel izne tabi eşyaya ilişkin hükümler saklıdır ve ithalatı kanunlarla belirli kuruluşlara bırakılan eşya ancak bunlarca veya yetkilendirdiklerince ithal edilebilir. Bu nedenle doğru cevap D seçeneğidir. (MD İRK 3/1, 4/2, 5/1-3)  
+⚖️ **Yasal Dayanak:** 3350 sayılı İthalat Rejimi Kararı m.3/1, 4/2, 5/1-3  
+🔍 **Şık Uzunluk Kontrolü:** A:224 B:198 C:220 D:217 E:181 karakter → Denge: UYGUN
 
 ---
 
@@ -1866,18 +1866,18 @@ E) Statü belgesini düzenleyen bölge müdürlüğü
 
 **SORU 46.** [T7 – Orta Üstü] · Model soru: 2025/46
 
-Gümrük Yönetmeliğine göre, Türkiye'den ihracatta menşe şahadetnamesi kimin yazılı başvurusu üzerine düzenlenir?
+Gümrük Yönetmeliğine göre, sonradan kontrol için Bakanlığa gönderilen menşe şahadetnamesi kimin nezdinde incelenir?
 
-A) İthalatçının veya ithalatçının sorumluluğundaki yetkili temsilcisinin  
-B) İhracatçının veya ihracatçının sorumluluğundaki yetkili temsilcisinin  
-C) Eşyayı üreten imalatçının veya imalatçının üye olduğu ihracatçı birliğinin  
-D) Taşıyıcının veya taşıyıcının sorumluluğundaki yetkili temsilcisinin  
-E) İhracatçı ülkenin yetkili makamlarının veya gümrük idaresinin  
+A) İhracatçı ülkedeki ticaret odası nezdinde  
+B) İhracatçı ülke gümrük idaresi nezdinde  
+C) İbraz edildiği gümrük idaresi nezdinde  
+D) Türkiye'deki ticaret odası nezdinde  
+E) Gümrük ve dış ticaret bölge müdürlüğü nezdinde  
 
 ✅ **Doğru Cevap:** B  
-📖 **Açıklama:** Menşe şahadetnamesi, ihracatçının veya ihracatçının sorumluluğundaki yetkili temsilcisinin yazılı başvurusuna binaen düzenlenir; bu amaçla başvuru formunu ihracatçı veya yetkili temsilcisi doldurur. Yetkili makamlar şahadetnameyi düzenleyen taraf olup başvuran değildir; ithalatçı, taşıyıcı veya imalatçı başvuru sahibi olarak sayılmamıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 42/2)  
-⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.42/2  
-🔍 **Şık Uzunluk Kontrolü:** A:69 B:69 C:74 D:67 E:61 karakter → Denge: UYGUN
+📖 **Açıklama:** Gümrük idaresince yapılan inceleme sonucunda şahadetnamenin gerçekliği veya eşyanın gerçek menşeine ilişkin tereddüt devam ederse şahadetname, sonradan kontrol talebiyle Bakanlığa (Yönetmelikte eski adıyla Müsteşarlık) gönderilir. Bakanlık incelemeyi ihracatçı ülke gümrük idaresi nezdinde yapar ve elde edilen bilgiler çerçevesinde işlem yapılması için durumu ilgili gümrük idaresine bildirir; şahadetnamenin ibraz edildiği gümrük idaresi sonucun bildirildiği idaredir, ticaret odaları ve bölge müdürlüğü inceleme mercii olarak sayılmamıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 41/2)  
+⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.41/2  
+🔍 **Şık Uzunluk Kontrolü:** A:41 B:38 C:38 D:35 E:46 karakter → Denge: UYGUN
 
 ---
 
@@ -1911,12 +1911,12 @@ A) Kayıt ayının ilk gününden geriye dönük bir yılda en az elli EUR.1
 B) Kayıt ayının ilk gününden geriye dönük iki yılda en az elli A.TR  
 C) Kayıt ayının ilk gününden geriye dönük bir yılda en az elli A.TR  
 D) Başvuru tarihinden geriye dönük on iki aylık iki dönemde elli A.TR  
-E) Kayıt ayının ilk gününden geriye dönük altı ayda en az elli A.TR  
+E) Kayıt ayının ilk gününden geriye dönük iki yılda en az elli EUR.1  
 
 ✅ **Doğru Cevap:** C  
 📖 **Açıklama:** Tebliğe göre onaylanmış ihracatçı yetkisi, başvuru yılından bir önceki takvim yılı içinde veya başvurunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içinde en az elli adet A.TR dolaşım belgesi düzenleyip vize işlemlerini tamamlamış ve bu belgeleri kullanmış statü belgesi sahiplerine talepleri hâlinde verilir. Aynı eşya için en az elli EUR.1 veya EUR.MED koşulu, Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğinde kıymete bakılmaksızın fatura beyanı izni için aranır; geriye dönük iki yıl ve on ikişer aylık iki dönem ise statü başvurusunda ihlal ve cezaların değerlendirildiği dönemlerdir. Bu nedenle doğru cevap C seçeneğidir. (MD OKS Tebliği 54/1-2)  
 ⚖️ **Yasal Dayanak:** Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.54/1-2  
-🔍 **Şık Uzunluk Kontrolü:** A:65 B:64 C:64 D:66 E:64 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:65 B:64 C:64 D:66 E:65 karakter → Denge: UYGUN
 
 ---
 
@@ -1965,18 +1965,18 @@ E) 2, 3 ve 5
 
 **SORU 51.** [T4 – Orta Üstü] · Model soru: 2025/51
 
-4458 sayılı Gümrük Kanununa göre, antrepodan kayıt yoluyla serbest dolaşıma girişte vergilerin hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?
+4458 sayılı Gümrük Kanununa göre, antrepoda elleçlenen eşyanın vergilendirme unsurları beyan sahibinin talebiyle nasıl tespit edilir?
 
-A) Kural olarak beyannamenin tescil tarihindeki unsurlar esas alınır; yükümlü talep ederse antrepo rejimine tabi tutulma tarihindeki unsurlar uygulanır.  
-B) Antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse eşyanın antrepodan fiilen çıktığı tarihteki unsurlar uygulanır.  
-C) Antrepo rejimine tabi tutulma tarihindeki oranlar, nitelik, kıymet ve miktarın beyanname tescilinde tespit edilmesi şartıyla uygulanır.  
-D) Eşyanın antrepodan teslim alındığı tarihteki oranlar esas alınır; yükümlünün başka bir tarihi talep etme hakkı bulunmaz.  
-E) Kural olarak antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır; yükümlü talep ederse tescil tarihindeki hâl ve unsurlara göre işlem yapılır.  
+A) Gümrük yükümlülüğünün başladığı tarihte, eşyanın elleçleme işlemlerinden sonraki hâline göre tespit edilir  
+B) Elleçleme işlemlerinin tamamlandığı tarihte, eşyanın elleçlemeden sonraki hâline göre tespit edilir  
+C) Elleçleme işlemlerinin tamamlandığı tarihte, eşya elleçleme işlemlerine tabi tutulmamış gibi tespit edilir  
+D) Elleçleme izninin verildiği tarihte, gümrük idaresince re'sen belirlenecek hâline göre tespit edilir  
+E) Gümrük yükümlülüğünün başladığı tarihte, eşya söz konusu elleçleme işlemlerine tabi tutulmamış gibi tespit edilir  
 
 ✅ **Doğru Cevap:** E  
-📖 **Açıklama:** Antrepo rejimine tabi ithal eşyası gümrüğe sunulmaksızın ve beyanname verilmeden kayıt yoluyla serbest dolaşıma girmek üzere teslim edildiğinde gümrük vergileri, eşyanın antrepo rejimine tabi tutulduğu tarihteki oranlar ve vergilendirme unsurlarına göre hesaplanır; yükümlü talep ederse serbest dolaşıma giriş beyannamesinin tescil tarihindeki hâl, nitelik ve unsurlara göre işlem yapılır. Kural tescil tarihi değildir; nitelik, kıymet ve miktarın da tescilde değil antrepo rejimine tabi tutulma tarihinde tespit edilmiş olması gerekir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 104/3; GY 151/3-4, 345/2)  
-⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.104/3; Gümrük Yönetmeliği m.151/3-4, 345/2  
-🔍 **Şık Uzunluk Kontrolü:** A:149 B:148 C:135 D:120 E:153 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
+📖 **Açıklama:** Kanuna göre antrepo rejimindeki eşya elleçleme işlemlerine tabi tutulduğunda, ithalat vergileri tutarının belirlenmesinde dikkate alınacak niteliği, gümrük kıymeti ve miktarı, beyan sahibinin talebi üzerine gümrük yükümlülüğünün başladığı tarihte, eşya söz konusu elleçleme işlemlerine tabi tutulmamış gibi tespit edilir. Talep hâlinde eşyanın elleçleme sonrasındaki hâli esas alınmaz; tespit tarihi de elleçlemenin tamamlandığı ya da izninin verildiği tarih değil, vergi tutarının belirlendiği yükümlülük tarihidir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 104/2, 193/1; GY 345/1)  
+⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.104/2, m.193/1; Gümrük Yönetmeliği m.345/1  
+🔍 **Şık Uzunluk Kontrolü:** A:106 B:99 C:106 D:100 E:113 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
 
 ---
 
@@ -1984,56 +1984,56 @@ E) Kural olarak antrepo rejimine tabi tutulma tarihindeki unsurlar esas alınır
 
 Gümrük Yönetmeliğine göre, eşyanın menşe kazanması için yetersiz işçilik veya işlem olarak kabul edilen işlemlere ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
-A) Nakliyat ve depolama süresince iyi muhafaza amacıyla yapılan kurutma yetersiz işlem sayılır.  
-B) Maddelerden setler oluşturma dâhil eşleştirme işlemi yetersiz işlem olarak kabul edilir.  
-C) Yıkama ve kesme, yalnızca nakliyat ve depolama süresince yapılırsa yetersiz işlem sayılır.  
+A) Nakliyat ve depolama süresince iyi muhafaza amacıyla yapılan yayma ve hasar gören parçaların atılması yetersiz sayılır.  
+B) Basit torbalama, sandıklama ve kutulama işlemleri menşe kazanılması bakımından yetersiz işlem olarak kabul edilir.  
+C) Kalburdan geçirme ve sıraya koyma işlemleri, yalnızca nakliyat ve depolama süresince yapılırsa yetersiz sayılır.  
 D) Karton veya tahta üzerine yerleştirme işlemi yetersiz işlem olarak kabul edilir.  
 E) Ambalajların ayrılması ve birleştirilmesi işlemleri yetersiz işlem olarak kabul edilir.  
 
 ✅ **Doğru Cevap:** C  
-📖 **Açıklama:** Yıkama ve kesmeden oluşan basit işlemler, tozun giderilmesi, eleme ve tasnif gibi işlemlerle birlikte herhangi bir koşula bağlı olmaksızın yetersiz işlem sayılır; nakliyat ve depolama süresince iyi muhafaza amacı yalnız havalandırma, yayma, kurutma ve hasarlı parçaların atılması gibi koruyucu işlemler için aranır. Set oluşturma dâhil eşleştirme ile karton veya tahta üzerine yerleştirme ve ambalajların ayrılması-birleştirilmesi de yetersiz işlemlerdendir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 34/2-a, b, c)  
+📖 **Açıklama:** Kalburdan geçirme ve sıraya koyma, Yönetmelikte tozun giderilmesi, eleme ve tasnifleme ile birlikte sayılan ve herhangi bir koşula bağlı olmaksızın yetersiz işlem kabul edilen basit işlemlerdendir; nakliyat ve depolama süresince iyi muhafaza amacı yalnız havalandırma, yayma, kurutma ve hasar gören parçaların atılması gibi koruyucu işlemler için aranır. Basit torbalama, sandıklama, kutulama, karton veya tahta üzerine yerleştirme ile ambalajların ayrılması ve birleştirilmesi de koşulsuz olarak yetersiz işlemlerdendir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 34/2-a, b, c)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.34/2-a, b, c  
-🔍 **Şık Uzunluk Kontrolü:** A:92 B:88 C:90 D:80 E:87 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:119 B:114 C:112 D:80 E:87 karakter → Denge: UYGUN
 
 ---
 
 **SORU 53.** [T1+T2 – Zor] · Model soru: 2025/53
 
-Gümrük Yönetmeliğinde eşyanın menşeinin belirlenmesine ilişkin;
+Gümrük Yönetmeliğinde önemli yedek parçaların menşeine ilişkin;
 
-I. Kıymet deyimi, menşeli olmayan maddelerin ithalattaki gümrük kıymetini, bilinmiyorsa imalat ülkesinde ödenen tespiti mümkün ilk fiyatı ifade eder.  
-II. Montaj işlemleri sonucu oluşan kıymet, kar ve genel giderlerden kaynaklanan kıymet artışını kapsamaz.  
+I. İhracatta menşe şahadetnamesi düzenlenirken aranan yazılı beyanda, cihaz, makine, alet veya aracın tüm özellikleri de yer alır.  
+II. Önemli yedek parça ihracı başvurusu, daha önce ihraç edilen cihaza ait menşe şahadetnamesinin sayı, tarih ve onaylayan bilgileri sunulmadıkça işleme konulmaz.  
 III. Önemli yedek parçaların bünyeye girmesi, cihazın imalat ülkesi menşeine sahip olmasını engellememelidir.  
 IV. Önemli yedek parçaların cihazla aynı menşeli sayılması, daha önce ihraç edilmiş cihazlar için uygulanmaz.  
 ifadelerinden hangileri <u>**yanlıştır**</u>?  
 
-A) I ve IV  
+A) I ve III  
 B) II ve IV  
 C) III ve IV  
 D) I, II ve IV  
 E) II, III ve IV  
 
 ✅ **Doğru Cevap:** B  
-📖 **Açıklama:** Montaj işlemleri sonucu oluşan kıymet; montaj ülkesi menşeli parçaların birleştirilmesi, tamamlayıcı ve kontrol işlemleri ile kar ve genel giderlerden kaynaklanan kıymet artışını ifade ettiğinden II yanlıştır. Önemli yedek parçaların cihazla aynı menşeli sayılması serbest dolaşıma sokulan veya daha önce ihraç edilmiş cihazlar için geçerli olduğundan IV de yanlıştır. Kıymet deyiminin tanımı ile yedek parçaların cihazın menşeine sahip olmasını engellememesi şartı doğrudur. Bu nedenle doğru cevap B seçeneğidir. (MD GY 36/2-a, c; 37/2-3)  
-⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.36/2-a, c; 37/2-3  
-🔍 **Şık Uzunluk Kontrolü:** A:7 B:8 C:9 D:11 E:13 karakter → Denge: UYGUN
+📖 **Açıklama:** Önemli yedek parçaların ihracatında menşe şahadetnamesi düzenlenirken aranan yazılı beyanda cihaz, makine, alet veya aracın tüm özellikleri de yer alır; parçaların bünyeye girmesinin cihazın imalat ülkesi menşeine sahip olmasını engellememesi de gerekir, bu nedenle I ve III doğrudur. Daha önce ihraç edilmiş cihaza ait menşe şahadetnamesinin sayı, tarih ve onaylayan bilgileri başvuruda yalnız mümkünse sunulur, bunlar olmadan başvurunun işleme konulmayacağı öngörülmemiştir; önemli yedek parçaların cihazla aynı menşeli sayılması serbest dolaşıma sokulan cihazların yanında daha önce ihraç edilmiş cihazlar için de geçerlidir. Bu nedenle II ve IV yanlıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 37/2, 37/3, 37/5)  
+⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.37/2, 37/3, 37/5  
+🔍 **Şık Uzunluk Kontrolü:** A:8 B:8 C:9 D:11 E:13 karakter → Denge: UYGUN
 
 ---
 
 **SORU 54.** [T1 – Orta Üstü] · Model soru: 2025/54
 
-Gümrük Kanunu ve Gümrük Yönetmeliğine göre, fikri ve sınai hakların gümrüklerde korunmasına ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
+Gümrük Yönetmeliğine göre, fikri ve sınai hakların gümrüklerde korunmasına ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
-A) Başvurunun kabulü, eşyanın gümrük idaresince muayene edilmeden bırakılması nedeniyle hak sahibine tazminat hakkı doğurmaz.  
-B) Gümrük idaresi, mahkeme tespiti gerekmeksizin kolaylaştırılmış imha kapsamında imhaya izin verebilir.  
+A) Temin edilen bilgileri amaç dışında kullanan hak sahibinin başvurusu, kalan geçerlilik süresince askıya alınabilir.  
+B) Korunan hakkın sona ermesi veya süresinin bitmesi hâlinde hak sahibinin bunu gümrük idaresine bildirmesi zorunludur.  
 C) İhlal eden eşyayı üretmek için özellikle tasarlanan kalıp ve matrisler de bu nitelikte eşya sayılır.  
 D) Olası ihlal tebliğinden önce hak sahibine eşyanın miktarı ve niteliği dışında bilgi açıklanmaz.  
-E) İşlemleri durdurulan veya alıkonulan eşyanın teminatla iadesinde, teminat tutarını gümrük idaresi belirler.  
+E) Kolaylaştırılmış imhaya ilişkin tüm masraflar, eşyanın beyan sahibinden veya zilyedinden alınır.  
 
 ✅ **Doğru Cevap:** E  
-📖 **Açıklama:** Kanuna göre gümrük işlemleri durdurulan veya alıkonulan eşyanın teminatla iadesi, hak sahibinin belirlediği tutarda teminatla yapılır; tutarı gümrük idaresinin belirlediğini söyleyen ifade yanlıştır. Başvurunun kabulü, eşyanın muayene edilmeden bırakılması gerekçesiyle tazminat hakkı doğurmaz; gümrük idaresi mahkeme tespiti olmaksızın kolaylaştırılmış imhaya izin verebilir. İhlal eden eşyayı üretmeye yönelik kalıp ve matrisler de kapsamdadır ve tebliğden önce hak sahibine yalnız miktar ve nitelik bilgisi verilir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 57/2, 6, 7; GY 100/2, 102/2)  
-⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.57/2, 57/6, 57/7; Gümrük Yönetmeliği m.100/2, 102/2  
-🔍 **Şık Uzunluk Kontrolü:** A:122 B:101 C:100 D:95 E:107 karakter → Denge: UYGUN
+📖 **Açıklama:** Yönetmeliğe göre kolaylaştırılmış imha, gümrük idaresinin gözetimi ve hak sahibinin sorumluluğu altında gerçekleştirilir ve imha ile ilgili tüm masraflar hak sahibinden alınır; masrafların beyan sahibinden veya zilyetten alınacağını söyleyen ifade yanlıştır. Gümrük idaresinden temin edilen bilgilerin amaç dışında kullanılması hâlinde başvuru kalan geçerlilik süresince askıya alınabilir; hakkın sona ermesini veya süresinin bitmesini bildirmek hak sahibinin yükümlülüğüdür. İhlal eden eşyayı üretmeye yönelik kalıp ve matrisler de kapsamdadır ve tebliğden önce hak sahibine yalnız miktar ve nitelik bilgisi verilir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 100/2, 102/2, 103/12, 105/3, 106/1)  
+⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.100/2, 102/2, 103/12, 105/3, 106/1  
+🔍 **Şık Uzunluk Kontrolü:** A:115 B:116 C:100 D:95 E:96 karakter → Denge: UYGUN
 
 ---
 
@@ -2043,16 +2043,16 @@ E) İşlemleri durdurulan veya alıkonulan eşyanın teminatla iadesinde, temina
 
 Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?  
 
-A) geçici ithalat – özel ekonomik değer  
+A) şartlı muafiyet – ticari değer ve nitelik  
 B) şartlı muafiyet – özel ekonomik değer  
-C) standart değişim – özel ekonomik değer  
-D) şartlı muafiyet – ticari değer ve nitelik  
-E) geri ödeme – özel ekonomik değer  
+C) geri ödeme – özel ekonomik değer  
+D) geri ödeme – ticari değer ve nitelik  
+E) geçici ithalat – ticari bir kıymet  
 
 ✅ **Doğru Cevap:** B  
-📖 **Açıklama:** Kanundaki tanıma göre serbest dolaşımda bulunan eşya; tümüyle Türkiye Gümrük Bölgesinde elde edilen ve ithal girdi içermeyen veya şartlı muafiyet düzenlemelerine tabi tutulan eşyadan elde edilen ve rejim hükümlerine göre özel ekonomik değer taşımadığı tespit edilen eşyayı da kapsar. Tanımda geri ödeme, geçici ithalat veya standart değişim düzenlemelerine yer verilmediği gibi ölçüt ticari değer ve nitelik değil özel ekonomik değerdir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 3/6-a)  
+📖 **Açıklama:** Kanundaki tanıma göre serbest dolaşımda bulunan eşya; tümüyle Türkiye Gümrük Bölgesinde elde edilen ve ithal girdi içermeyen veya şartlı muafiyet düzenlemelerine tabi tutulan eşyadan elde edilen ve rejim hükümlerine göre özel ekonomik değer taşımadığı tespit edilen eşyayı da kapsar. Tanımda geri ödeme veya geçici ithalat düzenlemelerine yer verilmemiştir; ölçüt de ticari değer, nitelik ya da kıymet değil özel ekonomik değerdir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 3/6-a)  
 ⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.3/6-a  
-🔍 **Şık Uzunluk Kontrolü:** A:36 B:37 C:38 D:41 E:32 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:41 B:37 C:32 D:36 E:34 karakter → Denge: UYGUN
 
 ---
 
@@ -2085,14 +2085,14 @@ Yukarıdaki ifadelerden hangileri doğrudur?
 
 A) I ve III  
 B) I ve IV  
-C) II ve III  
+C) II ve IV  
 D) I, II ve III  
 E) I, III ve IV  
 
 ✅ **Doğru Cevap:** A  
 📖 **Açıklama:** BTB, yazılı veya elektronik talep üzerine Gümrükler Genel Müdürlüğü veya yetkilendirilmiş bölge müdürlüklerince verilen idari karardır ve yetkilendirilmiş bölge müdürlükleri tereddüt ettikleri sınıflandırma hususlarında istişarede bulunabilir; I ve III doğrudur. Geçerli bir BTB'deki sınıflandırmayla farklı görüşte olunursa konu BTB düzenlenmeden önce gerekçesiyle Bakanlığa intikal ettirilir ve alınacak cevaba göre işlem yapılır (II yanlış). Bakanlık veya BTB'yi düzenleyen bölge müdürlüğü, üçüncü kişilerin başvurusu üzerine veya re'sen yeniden inceleme yapabilir (IV yanlış). Bu nedenle doğru cevap A seçeneğidir. (MD Tarife Seri No:14 m.4/1, 13/2, 13/4, 18/1)  
 ⚖️ **Yasal Dayanak:** Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.4/1, 13/2, 13/4, 18/1  
-🔍 **Şık Uzunluk Kontrolü:** A:8 B:7 C:9 D:12 E:12 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:8 B:7 C:8 D:12 E:12 karakter → Denge: UYGUN
 
 ---
 
@@ -2104,12 +2104,12 @@ A) Bu haktan yararlanılabilmesi için hak sahibinin, bilgiye dayanarak ve bilgi
 B) Geçerliliğini kaybeden bağlayıcı bilgiye dayanılarak altı aylık süre boyunca tanınan kullanım hakkı, ithalat ya da ihracat vergilerinin belirlenmesi amacıyla kullanılabilir.  
 C) Söz konusu kullanım hakkı, tarım politikası kapsamında ihracat vergi iadeleri ile ithalata ya da ihracata verilen diğer bütün ödemelerin hesaplanması amacıyla da kullanılabilir.  
 D) Belgelerin söz konusu tarife veya menşe bilgisine istinaden verilmiş olması koşuluyla, gümrük beyannamesinin tescili için verilen ithalat, ihracat ya da ön izin belgesinin kullanımında da bu haktan yararlanılabilir.  
-E) Geçerliliğini kaybeden bağlayıcı tarife veya menşe bilgisinin hak sahibince altı aylık süre boyunca kullanılabilmesine ilişkin hükümlere istisna getirmeye Ticaret Bakanlığı yetkilidir.  
+E) Bağlayıcı sözleşme yapmış hak sahibine, geçerliliğini kaybeden bilgiyi altı ay süreyle kullanma imkânı tanıyan Kanun hükümlerine istisna getirme yetkisi Ticaret Bakanlığına verilmiştir.  
 
 ✅ **Doğru Cevap:** E  
 📖 **Açıklama:** Kanuna göre geçerliliğini kaybeden bağlayıcı tarife veya menşe bilgisinin bağlayıcı sözleşme yapmış hak sahibince altı ay süreyle kullanılabilmesine ilişkin hükümlere istisna getirmeye Cumhurbaşkanı yetkilidir; Ticaret Bakanlığına böyle bir yetki tanınmamıştır. Bu hak; ithalat veya ihracat vergilerinin belirlenmesi, tarım politikası kapsamındaki iade ve ödemelerin hesaplanması ile bilgiye istinaden verilen ithalat, ihracat veya ön izin belgelerinin kullanımı amaçlarıyla sınırlıdır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 9/7, 9/8)  
 ⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.9/7, 9/8  
-🔍 **Şık Uzunluk Kontrolü:** A:197 B:173 C:177 D:215 E:184 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:197 B:173 C:177 D:215 E:185 karakter → Denge: UYGUN
 
 ---
 
@@ -2136,16 +2136,16 @@ E) Fiyat, bulunabilirlik ve kalite yönünden yurt içinden temin edilebilirliğ
 
 Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?  
 
-A) teminata – tam – geçici ithalat  
-B) teminata – kısmi – dahilde işleme  
+A) teminata – tam – dahilde işleme  
+B) taahhütnameye – kısmi – dahilde işleme  
 C) teminata – kısmi – geçici ithalat  
-D) taahhütnameye – kısmi – geçici ithalat  
+D) taahhütnameye – tam – geçici ithalat  
 E) kefalete – tam – dahilde işleme  
 
 ✅ **Doğru Cevap:** C  
-📖 **Açıklama:** Beyannamenin tescili bir gümrük yükümlülüğü doğuruyorsa gümrük vergileri ödenmedikçe veya teminata bağlanmadıkça eşya teslim edilemez; bu hüküm kısmi muafiyete tabi geçici ithalat rejimine uygulanmaz. Taahhütname veya kefalet bu hükümde öngörülmemiş, istisna da tam muafiyet ya da dahilde işleme için değil kısmi muafiyetli geçici ithalat için getirilmiştir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 69/3)  
+📖 **Açıklama:** Beyannamenin tescili bir gümrük yükümlülüğü doğuruyorsa gümrük vergileri ödenmedikçe veya teminata bağlanmadıkça eşya teslim edilemez; bu hüküm kısmi muafiyete tabi geçici ithalat rejimine uygulanmaz. Taahhütname veya kefalet bu hükümde öngörülmemiştir; istisna da tam muafiyetli rejimler ya da dahilde işleme rejimi için değil, kısmi muafiyete tabi geçici ithalat rejimi için getirilmiştir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 69/3)  
 ⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.69/3  
-🔍 **Şık Uzunluk Kontrolü:** A:31 B:33 C:33 D:38 E:31 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:31 B:38 C:33 D:36 E:31 karakter → Denge: UYGUN
 
 ---
 
@@ -2155,16 +2155,16 @@ Gümrük Yönetmeliğine göre ihracat rejiminde; gümrük idareleri, dolaylı t
 
 Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?  
 
-A) faturanın – e-faturanın – yedi iş günü  
-B) faturanın – taşıma senedinin – bir ay  
-C) menşe belgesinin – e-irsaliyenin – yedi iş günü  
-D) faturanın – e-irsaliyenin – izleyen ayın ilk üç günü  
+A) faturanın – sevk irsaliyesinin – on iş günü  
+B) e-faturanın – e-irsaliyenin – on iş günü  
+C) e-faturanın – sevk irsaliyesinin – yedi iş günü  
+D) e-faturanın – taşıma senedinin – bir ay  
 E) faturanın – e-irsaliyenin – yedi iş günü  
 
 ✅ **Doğru Cevap:** E  
-📖 **Açıklama:** Gümrük idareleri, dolaylı temsilci olarak yetkilendirilen posta idaresi ve hızlı kargo şirketlerinin faturanın eklenmediği gümrük beyanını, gerekli bilgileri içeren e-irsaliyenin beyannameye eklenmesi kaydıyla kabul edebilir ve bu beyanı takiben yedi iş günü içinde tamamlayıcı beyan verilir. İzleyen ayın ilk üç günü, bir ay içinde gerçekleştirilen genel basitleştirilmiş işlemlere ilişkin tamamlayıcı beyan süresidir; bir aylık süre ise eksik beyanda eksik bilgi ve belgelerin tamamlanması için tanınan süredir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 153/3, 158/2, 158/6)  
+📖 **Açıklama:** Gümrük idareleri, dolaylı temsilci olarak yetkilendirilen posta idaresi ve hızlı kargo şirketlerinin faturanın eklenmediği gümrük beyanını, gerekli bilgileri içeren e-irsaliyenin beyannameye eklenmesi kaydıyla kabul edebilir ve bu beyanı takiben yedi iş günü içinde tamamlayıcı beyan verilir. Eklenmemiş olan belge e-fatura değil faturadır; yerine eklenen belge de sevk irsaliyesi veya taşıma senedi değil e-irsaliyedir. On iş günü ya da bir aylık süre bu tamamlayıcı beyan için öngörülmemiştir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 153/3, 158/6)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.153/3, 158/6  
-🔍 **Şık Uzunluk Kontrolü:** A:38 B:37 C:47 D:52 E:40 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:43 B:40 C:47 D:39 E:40 karakter → Denge: UYGUN
 
 ---
 
@@ -2180,14 +2180,14 @@ Yukarıdaki ifadelerden hangileri doğrudur?
 
 A) I ve II  
 B) I ve IV  
-C) II ve IV  
+C) III ve IV  
 D) I, II ve III  
 E) I, II ve IV  
 
 ✅ **Doğru Cevap:** A  
 📖 **Açıklama:** Gümrük Yönetmeliğine göre geri ödeme sisteminde serbest dolaşıma giriş beyannamesi izinde belirtilen gümrük idaresine verilir; Dahilde İşleme Rejimi Tebliğine göre de geri verme kararından itibaren üç ay içinde geri verilmeyen vergiye tecil faizi hükümleri uygulanır; I ve II doğrudur. Süresinde ihracatı gerçekleştirilemeyen eşyaya ilişkin alınan vergi iade edilmez; A.TR ile Topluluğa ihraç edilecek ürünün girdilerinde ise gümrük vergisi ve varsa toplu konut fonu tahsil edilip yalnız diğer vergiler teminata bağlanır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 365/1; DİR Tebliği 11/2, 13/1, 43/4)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.365/1; Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.11/2, 13/1, 43/4  
-🔍 **Şık Uzunluk Kontrolü:** A:7 B:7 C:8 D:12 E:11 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:7 B:7 C:9 D:12 E:11 karakter → Denge: UYGUN
 
 ---
 
@@ -2195,7 +2195,7 @@ E) I, II ve IV
 
 Dahilde İşleme Rejimi Tebliğine göre;
 
-I. Fire: İşleme sırasında yitirilen kısım olup ekonomik değeri olmayan atıkları kapsamaz.  
+I. Vergi: Yalnızca eşyanın ithalinde tahsili öngörülen vergi, resim, harç, fon ve benzeri mali yüklerdir.  
 II. Başlamış işlem: Rejim kapsamındaki ithalat ve ihracat beyannamesinin tescil edilmiş olmasıdır.  
 III. İşletme malzemesi: Ürün bünyesinde yer almayan, enerji ve yakıt dahil malzemedir.  
 Yukarıdaki tanımlardan hangileri <u>**yanlıştır**</u>?  
@@ -2207,8 +2207,8 @@ D) II ve III
 E) I, II ve III  
 
 ✅ **Doğru Cevap:** C  
-📖 **Açıklama:** Tebliğe göre başlamış işlem, dahilde işleme rejimi kapsamında ithalata ve ihracata ilişkin gümrük beyannamesinin tescil edilmiş olmasıdır; II doğrudur. Fire, işleme sırasında kuruma, buharlaşma, sızma veya gaz kaçağı şeklinde yitirilen ve imha olan kısım ile ekonomik değeri olmayan atıkları da kapsar; işletme malzemesi ise ürün bünyesinde yer almayan, sabit tesislerin çalışmasını temin eden ve enerji ile yakıtın hariç tutulduğu malzemedir, bu nedenle I ve III yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD DİR Tebliği 3/1-l, 3/1-ş, 3/1-oo)  
-⚖️ **Yasal Dayanak:** Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-l, 3/1-ş, 3/1-oo  
+📖 **Açıklama:** Tebliğe göre başlamış işlem, dahilde işleme rejimi kapsamında ithalata ve ihracata ilişkin gümrük beyannamesinin tescil edilmiş olmasıdır; II doğrudur. Vergi, yalnız ithalde değil eşyanın ithali ve ihracında tahsili öngörülen vergi, resim, harç, fon ve benzeri bütün mali yükleri ifade eder; işletme malzemesi ise ürün bünyesinde yer almayan, sabit tesislerin çalışmasını temin eden ve enerji ile yakıtın hariç tutulduğu malzemedir, bu nedenle I ve III yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD DİR Tebliği 3/1-kk, 3/1-ş, 3/1-oo)  
+⚖️ **Yasal Dayanak:** Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-kk, 3/1-ş, 3/1-oo  
 🔍 **Şık Uzunluk Kontrolü:** A:8 B:10 C:8 D:9 E:12 karakter → Denge: UYGUN
 
 ---
@@ -2218,15 +2218,15 @@ E) I, II ve III
 Dahilde İşleme Rejimi Tebliğine göre, şartlı muafiyet sistemi çerçevesinde Türkiye Gümrük Bölgesi dışında yapılacak işleme faaliyetine ilişkin aşağıdakilerden hangisi doğrudur?
 
 A) Daha ileri düzeyde işlenen ürünün ithaline, ürünün ithalat vergileri tutarından, geçici ihracat eşyasının en son işlendiği yerden aynı tarihte ithal edilmesi halinde uygulanacak vergi tutarı indirilerek hesaplanan tutar tahsil edilerek izin verilir.  
-B) İşlem görmüş ürün veya değişmemiş eşya, hariçte işleme rejimi hükümleri çerçevesinde daha ileri düzeyde işlenmek üzere Türkiye Gümrük Bölgesi dışına geçici olarak ihraç edilebilir; ancak serbest bölgelere bu amaçla geçici ihracat yapılamaz.  
-C) Belge kapsamında yalnızca işlem görmüş ürünün tamamı daha ileri düzeyde işlenmek üzere geçici olarak ihraç edilebilir; değişmemiş eşyanın veya işlem görmüş ürünün yalnızca bir kısmının bu amaçla Türkiye Gümrük Bölgesi dışına veya serbest bölgelere geçici ihracı mümkün değildir.  
+B) Belge kapsamındaki işlem görmüş ürün veya değişmemiş eşya, hariçte işleme rejimi hükümleri çerçevesinde daha ileri düzeyde işlenmek üzere Türkiye Gümrük Bölgesi dışına geçici olarak ihraç edilebilir; ancak bu amaçla serbest bölgelere geçici ihracat yapılması mümkün değildir.  
+C) Daha ileri düzeyde işlenen ürünün ithaline, geçici ihracat eşyasına isabet eden vergi indirilmeksizin, işlem görmüş ürünün ithalat vergilerinin tamamı tahsil edilerek izin verilir.  
 D) Daha ileri düzeyde işlenen ürünün ithaline, ürünün ithalat vergileri tutarından, geçici ihracat eşyasının en son işlendiği yerden aynı tarihte ithal edilmesi halinde uygulanacak vergi tutarı indirilerek hesaplanan tutar kadar teminat alınarak izin verilir.  
 E) Daha ileri düzeyde işlenen ürünün ithaline, geçici ihracat eşyasına isabet eden vergi indirilmeksizin, işlem görmüş ürünün ithalat vergilerinin tamamı kadar teminat alınarak izin verilir.  
 
 ✅ **Doğru Cevap:** D  
-📖 **Açıklama:** Tebliğe göre şartlı muafiyet sistemi çerçevesinde belge kapsamındaki işlem görmüş ürünün veya değişmemiş eşyanın tamamı ya da bir kısmı, hariçte işleme rejimi hükümleri çerçevesinde Türkiye Gümrük Bölgesi dışına veya serbest bölgelere geçici olarak ihraç edilebilir. Bu ürünün ithaline, ürünün ithalat vergilerinden geçici ihracat eşyasının en son işlendiği yerden aynı tarihte ithali halinde uygulanacak vergi indirilerek bulunan tutar kadar teminat alınarak izin verilir; bu tutar tahsil edilmez ve vergilerin tamamı teminata bağlanmaz. Bu nedenle doğru cevap D seçeneğidir. (MD DİR Tebliği 10/1-2)  
+📖 **Açıklama:** Tebliğe göre şartlı muafiyet sistemi çerçevesinde belge kapsamındaki işlem görmüş ürünün veya değişmemiş eşyanın tamamı ya da bir kısmı, hariçte işleme rejimi hükümleri çerçevesinde Türkiye Gümrük Bölgesi dışına veya serbest bölgelere geçici olarak ihraç edilebilir. Bu ürünün ithaline, ürünün ithalat vergilerinden geçici ihracat eşyasının en son işlendiği yerden aynı tarihte ithali halinde uygulanacak vergi indirilerek bulunan tutar kadar teminat alınarak izin verilir. Bu tutar tahsil edilmez; indirim yapılmadan vergilerin tamamının tahsili ya da teminata bağlanması da öngörülmemiştir. Bu nedenle doğru cevap D seçeneğidir. (MD DİR Tebliği 10/1-2)  
 ⚖️ **Yasal Dayanak:** Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.10/1-2  
-🔍 **Şık Uzunluk Kontrolü:** A:249 B:240 C:278 D:256 E:187 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:249 B:275 C:180 D:256 E:187 karakter → Denge: UYGUN
 
 ---
 
@@ -2243,13 +2243,13 @@ Yukarıdaki ifadelerden hangileri <u>**yanlıştır**</u>?
 A) Yalnız II  
 B) I ve III  
 C) II ve IV  
-D) I, II ve IV  
-E) II, III ve IV  
+D) I, II ve III  
+E) I, II ve IV  
 
 ✅ **Doğru Cevap:** C  
 📖 **Açıklama:** Düzenli seferli gemilerin son Türk limanındaki üç aya kadar bekleme süreleri seferin devamı sayılır ve gemi üç ay içinde yabancı limana çıkmazsa transit akaryakıt ve kumanyası tespit edilerek vergileri tahsil edilir; bu nedenle I ve III doğrudur. Üç aylık sürede Türk limanları arasında tüketilen akaryakıt ilk giriş limanında değil uğranılan en son Türk limanında vergilendirildiğinden II; transit akaryakıt ve kumanyalar son Türk limanında değil Türkiye’ye ilk giriş limanında tespit edildiğinden IV yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 482/1, 482/3-4)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.482/1, 482/3, 482/4  
-🔍 **Şık Uzunluk Kontrolü:** A:9 B:8 C:8 D:11 E:13 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:9 B:8 C:8 D:12 E:11 karakter → Denge: UYGUN
 
 ---
 
@@ -2315,16 +2315,16 @@ E) 2 ve 5
 
 4458 sayılı Gümrük Kanununa göre, dahilde işleme sonrası ihraç edilip geri gelen işlem görmüş üründe serbest dolaşıma giriş tarihi **nedir**?
 
-A) Geri gelen ürüne ait serbest dolaşıma giriş beyannamesinin tescil tarihi  
+A) Geri gelen ürünün serbest dolaşıma giriş beyannamesinin tescil tarihi  
 B) İthal eşyasının dahilde işleme rejimine tabi tutulduğu tarih  
-C) Ürünün Türkiye Gümrük Bölgesine yeniden getirildiği tarih  
+C) Ürünün dahilde işleme sonrasında Türkiye'ye geri getirildiği tarih  
 D) Ürünün dahilde işleme sonrasında yeniden ihraç edildiği tarih  
 E) Dahilde işleme izninin veriliş tarihi  
 
 ✅ **Doğru Cevap:** D  
-📖 **Açıklama:** Geri gelen eşyaya ilişkin hükümler dahilde işleme rejiminden sonra ihraç edilip geri gelen işlem görmüş ürünlere de uygulanır; bu hâllerde eşyanın yeniden ihraç tarihi serbest dolaşıma giriş tarihi olarak kabul edilir ve kanunen alınması gereken ithalat vergileri dahilde işleme rejimi hükümlerine göre belirlenir. Ürünün yurda yeniden getirildiği tarih, geri gelişe ait beyannamenin tescil tarihi ya da ithal eşyasının rejime tabi tutulduğu tarih esas alınmaz. Bu nedenle doğru cevap D seçeneğidir. (MD GK 170)  
+📖 **Açıklama:** Geri gelen eşyaya ilişkin hükümler dahilde işleme rejiminden sonra ihraç edilip geri gelen işlem görmüş ürünlere de uygulanır; bu hâllerde eşyanın yeniden ihraç tarihi serbest dolaşıma giriş tarihi olarak kabul edilir ve kanunen alınması gereken ithalat vergileri dahilde işleme rejimi hükümlerine göre belirlenir. Ürünün Türkiye'ye geri getirildiği tarih, geri gelişe ait beyannamenin tescil tarihi, ithal eşyasının rejime tabi tutulduğu tarih ya da iznin veriliş tarihi esas alınmaz. Bu nedenle doğru cevap D seçeneğidir. (MD GK 170)  
 ⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.170  
-🔍 **Şık Uzunluk Kontrolü:** A:72 B:60 C:57 D:61 E:37 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:69 B:60 C:66 D:61 E:37 karakter → Denge: UYGUN
 
 ---
 
@@ -2357,14 +2357,14 @@ Yukarıdaki ifadelerden hangileri doğrudur?
 
 A) I ve III  
 B) I ve IV  
-C) II ve III  
+C) II ve IV  
 D) I, II ve III  
 E) I, III ve IV  
 
 ✅ **Doğru Cevap:** A  
 📖 **Açıklama:** Tebliğe göre düzenlenen dahilde işleme izin belgeleri aylık listeler halinde Resmî Gazete’de yayımlanır ve kaybedilen belge için kayıp ilanı verilen gazete ile ilgili bölge müdürlüğüne müracaat edilir; I ve III doğrudur. İptal edilen belgeler ilgili mercilere ve vergi dairelerine ayrıca bildirilmez, Resmî Gazete’den takip edilir; belge ise taahhüt kapatma müracaatına kadar değil, belge kapatma işlemleri sonuçlandırılıncaya kadar revize edilebilir. Bu nedenle doğru cevap A seçeneğidir. (MD DİR Tebliği 18/1, 19/1, 41/1, 44/4)  
 ⚖️ **Yasal Dayanak:** Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.18/1, 19/1, 41/1, 44/4  
-🔍 **Şık Uzunluk Kontrolü:** A:8 B:7 C:9 D:12 E:12 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:8 B:7 C:8 D:12 E:12 karakter → Denge: UYGUN
 
 ---
 
@@ -2495,16 +2495,16 @@ E) 24 ay
 
 Yukarıda boş bırakılan yerlere **sırasıyla** aşağıdakilerden hangisi gelmelidir?  
 
-A) 150 – ilaç cinsi eşya  
+A) 1500 – kozmetik ürünler  
 B) 1500 – ilaç cinsi eşya  
-C) 1500 – kozmetik ürünler  
-D) 22 – ilaç cinsi eşya  
+C) 150 – ilaç cinsi eşya  
+D) 150 – kozmetik ürünler  
 E) 430 – kişisel kullanıma mahsus kitap  
 
 ✅ **Doğru Cevap:** B  
-📖 **Açıklama:** Kararın 2026 yılında değiştirilen hükmüne göre sağlık kuruluşu raporu veya doktor reçetesine istinaden bir gerçek kişiye posta veya hızlı kargo ile gelen, kıymeti 1500 Avro’yu geçmeyen ilaç cinsi eşya ile takviye edici gıdalardan Avrupa Birliğinden doğrudan gelişte %30, diğer ülkelerden %60 tek ve maktu vergi alınır. 22 Avro tüzel kişiye gelen eşyaya, 150 Avro kitap muafiyetine, 430 Avro yolcu beraberi hediyelik eşya limitine ilişkindir; kozmetik ürünlerin bu kapsamda ithali ise mümkün değildir. Bu nedenle doğru cevap B seçeneğidir. (MD Karar 62/1-3, 45/1, 61/1; 2022/9 Genelge IV/4)  
+📖 **Açıklama:** Kararın 2026 yılında değiştirilen hükmüne göre sağlık kuruluşu raporu veya doktor reçetesine istinaden bir gerçek kişiye posta veya hızlı kargo ile gelen, kıymeti 1500 Avro’yu geçmeyen ilaç cinsi eşya ile takviye edici gıdalardan Avrupa Birliğinden doğrudan gelişte %30, diğer ülkelerden %60 tek ve maktu vergi alınır. 150 Avro posta veya hızlı kargoyla gelen kişisel kullanıma mahsus kitap muafiyetine ve 15 yaşından küçük yolculara, 430 Avro ise yolcu beraberi eşya muafiyetine ilişkindir; kozmetik ürünlerin bu kapsamda ithali ise mümkün değildir. Bu nedenle doğru cevap B seçeneğidir. (MD Karar 62/1, 45/1, 61/1; 2022/9 Genelge IV/4)  
 ⚖️ **Yasal Dayanak:** 2009/15481 sayılı Karar m.62/1 (07.01.2026 tarihli ve 10813 sayılı CK ile değişik); 2022/9 sayılı Genelge IV/4  
-🔍 **Şık Uzunluk Kontrolü:** A:21 B:22 C:23 D:20 E:36 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:23 B:22 C:21 D:22 E:36 karakter → Denge: UYGUN
 
 ---
 
@@ -2532,13 +2532,13 @@ Gümrük Yönetmeliğine göre, kapatılan geçici depolama yerine ait dosyadaki
 A) Kapanış tarihinden itibaren on yıl süreyle  
 B) Kapanış tarihinden itibaren beş yıl süreyle  
 C) İznin verildiği tarihten itibaren beş yıl süreyle  
-D) Kapanış yılını izleyen yıldan itibaren üç yıl süreyle  
+D) İznin verildiği tarihten itibaren on yıl süreyle  
 E) Son eşya çıkışından itibaren iki yıl süreyle  
 
 ✅ **Doğru Cevap:** B  
-📖 **Açıklama:** Gümrük idarelerinin gözetim ve denetimindeki her antrepo ve geçici depolama yeri için ayrı dosya açılır; izin, yazışma ve benzeri belgeler bu yerler kapatılsa dahi kapanış tarihinden itibaren beş yıl süreyle saklanır. Saklama süresi iznin verildiği tarihten, kapanış yılını izleyen yıldan veya son eşya çıkışından başlatılmaz; on yıllık bir süre de öngörülmemiştir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 553/1)  
+📖 **Açıklama:** Gümrük idarelerinin gözetim ve denetimindeki her antrepo ve geçici depolama yeri için ayrı dosya açılır; izin, yazışma ve benzeri belgeler bu yerler kapatılsa dahi kapanış tarihinden itibaren beş yıl süreyle saklanır. Saklama süresi iznin verildiği tarihten veya son eşya çıkışından başlatılmaz; on yıllık bir saklama süresi de öngörülmemiştir. Bu nedenle doğru cevap B seçeneğidir. (MD GY 553/1)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.553/1  
-🔍 **Şık Uzunluk Kontrolü:** A:42 B:43 C:49 D:53 E:44 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:42 B:43 C:49 D:48 E:44 karakter → Denge: UYGUN
 
 ---
 
@@ -2552,8 +2552,8 @@ III. Konteynerle sevk edilen eşyanın kap adedinde farklılık tespit edilirse 
 IV. Gümrük vergileri dahil sigortalanan eşyada vergiler sigortadan tazmin edilmişse, noksanlığa ait vergiler antrepo işleticisinden alınır.  
 Yukarıdaki ifadelerden hangileri <u>**yanlıştır**</u>?  
 
-A) Yalnız IV  
-B) I ve III  
+A) Yalnız I  
+B) Yalnız IV  
 C) II ve IV  
 D) III ve IV  
 E) II, III ve IV  
@@ -2561,7 +2561,7 @@ E) II, III ve IV
 ✅ **Doğru Cevap:** D  
 📖 **Açıklama:** Kap adedindeki farklılığın sebebinin izahı için kullanıcıya otuz değil kırk beş gün verilir ve süre talep üzerine otuz gün daha uzatılabilir; bu nedenle III yanlıştır. Vergileri sigorta şirketinden tazminat olarak alınmış noksanlıklara ait gümrük vergileri işleticiden değil sigorta ettirenden veya lehine sigorta ettirilenden alındığından IV de yanlıştır. Götürü teminat yoksa ayrı ayrı veya toplu teminat aranması ve teşvik belgeli yüzde yüz muaf yatırım mallarının belge süresi sonuna kadar teminatsız konulabilmesi doğrudur. Bu nedenle doğru cevap D seçeneğidir. (MD GY 522/5, 522/8, 526/4, 539/6)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.522/5, 522/8, 526/4, 539/6  
-🔍 **Şık Uzunluk Kontrolü:** A:9 B:8 C:8 D:9 E:13 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:8 B:9 C:8 D:9 E:13 karakter → Denge: UYGUN
 
 ---
 
@@ -2584,18 +2584,18 @@ E) Antrepoya konulan serbest dolaşımdaki eşyanın ihracı veya gümrükçe on
 
 **SORU 83.** [T1 – Zor] · Model soru: 2025/83
 
-Gümrüksüz Satış Mağazaları Yönetmeliğine göre mağaza türleri ve açılabileceği yerlere ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
+Gümrüksüz Satış Mağazaları Yönetmeliğine göre mağaza türleri, açılışı ve işletilmesine ilişkin aşağıdakilerden hangisi <u>**yanlıştır**</u>?
 
 A) Hava ve deniz gümrük kapılarında, liman sahası içerisinde olmak şartıyla, depoların ve uçakta satış mağazalarının yolcu giriş ve çıkışı yapılan yerler dışında da açılmasına izin verilebilir.  
-B) Giriş ve çıkış mağazaları ayrı ayrı açılıp işletilir; ancak giriş ve çıkışın fiziki olarak ayrılmasının mümkün olmadığı yerlerde giriş-çıkışa hizmet verecek tek mağaza olarak açılmasına Genel Müdürlükçe izin verilebilir.  
+B) Çıkışa yönelik mağazalarla sınırlı olarak, tek işletmeciyle işletme sözleşmesi bulunan ve şartları taşıyan firmalara alkollü içki, tütün ve tütün mamulleri dışında eşya satmak üzere mağaza açma izni verilebilir.  
 C) Gemilere satış mağazası, yalnızca Türk boğazlarından transit geçen Türk veya yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan ve özel antrepo sayılan yerdir; limandan sefere çıkan gemilere satış yapamaz.  
-D) Uçakta satış mağazası, yolculara uçak içinde satılmak amacıyla sadece yabancı ülkelere sefer yapan uçaklara eşya teslimi yapmak üzere hava hudut kapılarında yolculardan arındırılmış yerlerde açılır.  
-E) İstanbul Boğazı’nda bir ve Çanakkale Boğazı’nda bir olmak üzere toplam iki adet gemilere satış mağazası açılmasına izin verilebilir ve bunların açılmasında giriş ve çıkış yerlerinde bulunma şartı aranmaz.  
+D) Hava hudut kapılarında uçakta satış mağazası işletmeciliği her bir hudut kapısı itibarıyla tek bir işletmeci tarafından yapılır; Yönetmelikteki mağaza atıfları da aksi belirtilmedikçe uçakta satış mağazalarını kapsar.  
+E) Gemilere satış mağazası açma izni için başvuranlarda ayrıca izin belgeli en az bir deniz hizmet teknesi bulunması, mağaza adına VHF cihazı işletme izni alınmış olması ve Deniz Ticaret Odasına kayıtlı olunması aranır.  
 
 ✅ **Doğru Cevap:** C  
-📖 **Açıklama:** 18.06.2026 tarihli değişiklikle gemilere satış mağazası; Türk boğazlarından transit geçen veya yurt dışına sefer yapmak üzere mağazanın denetimi altında faaliyet gösterdiği gümrük müdürlüğüne bağlı limanlardan hareket eden Türk veya yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan yer olarak tanımlanmıştır; satışın yalnız transit geçen gemilerle sınırlandırılması yanlıştır. Depo ve uçakta satış mağazalarının liman sahası içinde yolcu giriş-çıkış yerleri dışında açılabilmesi, fiziki ayrım mümkün değilse tek mağazaya Genel Müdürlükçe izin verilmesi ve boğazlarda toplam iki gemilere satış mağazası açılabilmesi Yönetmelik hükümleridir. Bu nedenle doğru cevap C seçeneğidir. (MD GSM Yönetmeliği 3/1-d, ı; 4/1, 4/4)  
-⚖️ **Yasal Dayanak:** Gümrüksüz Satış Mağazaları Yönetmeliği m.3/1-d (18.06.2026 tarihli değişiklik), 3/1-ı, 4/1, 4/4  
-🔍 **Şık Uzunluk Kontrolü:** A:190 B:220 C:221 D:198 E:204 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
+📖 **Açıklama:** 18.06.2026 tarihli değişiklikle gemilere satış mağazası; Türk boğazlarından transit geçen veya yurt dışına sefer yapmak üzere mağazanın denetimi altında faaliyet gösterdiği gümrük müdürlüğüne bağlı limanlardan hareket eden Türk veya yabancı bayraklı gemilere kumanya olarak satış yapmak üzere açılan yer olarak tanımlanmıştır; satışın yalnız transit geçen gemilerle sınırlandırılması yanlıştır. Depo ve uçakta satış mağazalarının liman sahası içinde yolcu giriş-çıkış yerleri dışında açılabilmesi, çıkış mağazalarında tek işletmeciyle sözleşmesi olan firmalara alkollü içki ve tütün dışı eşya için izin verilebilmesi, uçakta satış mağazasında her hudut kapısında tek işletmeci bulunması ve gemilere satış mağazası başvurusunda deniz hizmet teknesi, VHF işletme izni ve Deniz Ticaret Odası kaydının aranması Yönetmelik hükümleridir. Bu nedenle doğru cevap C seçeneğidir. (MD GSM Yönetmeliği 3/1-d, 3/2, 4/1, 5/2-3, 7/3)  
+⚖️ **Yasal Dayanak:** Gümrüksüz Satış Mağazaları Yönetmeliği m.3/1-d (18.06.2026 tarihli değişiklik), 3/2, 4/1, 5/2, 5/3, 7/3  
+🔍 **Şık Uzunluk Kontrolü:** A:190 B:211 C:221 D:217 E:216 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
 
 ---
 
@@ -2657,13 +2657,13 @@ E) Serbest bölgeden eşya çıkarılmasına ilişkin ayrıntılar derhal envant
 A) Sahipsiz yakalanan kaçak eşyanın ikramiyeye esas değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyetçe belirlenir.  
 B) Müsadere yaptırımının konusunu oluşturan eşyanın kaim değerinden, eşyanın ithal eşyası olması hâlinde gümrük vergileri dikkate alınmaksızın, uluslararası kıymet sözleşmesine göre belirlenen CIF kıymeti anlaşılır.  
 C) Etkin pişmanlık kapsamında soruşturma evresi sona erinceye kadar Devlet Hazinesine ödenmesi gereken tutar, suç konusu eşyanın gümrük vergileri hariç tutularak bulunan CIF kıymetinin iki katı olarak hesaplanır.  
-D) İkramiye ödemelerinde giriş kaçağı eşyanın FOB kıymeti, çıkış kaçağı eşyanın ise CIF kıymeti esas alınarak muhbir ve el koyma ikramiyesine hak kazananlara ödenecek tutar hesaplanır.  
-E) Alıkonulan taşıtın sahibine iadesi için gümrük idaresine verilecek teminatın hesabında, sigortası bulunmayan kara taşıtlarında da taşıtın kasko değeri esas alınır.  
+D) Ateşli silah ve mermi yakalamalarında ikramiyeye esas değer olarak, olay tarihine göre İçişleri Bakanlığınca her yıl belirlenen değer esas alınır.  
+E) Uyuşturucu madde yakalamalarında ikramiyeye esas değer, yakalanan maddenin piyasa değeri üzerinden Sağlık Bakanlığınca her yıl ilan edilen tarifeye göre belirlenir.  
 
 ✅ **Doğru Cevap:** A  
-📖 **Açıklama:** Kanuna göre ikramiye ödemelerinde sahipsiz yakalanan eşyanın değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir. Kaim değer ve etkin pişmanlık tutarında esas alınan değer CIF kıymeti değil gümrüklenmiş değerdir; ikramiyede giriş kaçağında CIF, çıkış kaçağında FOB kıymeti esas alınır ve sigortasız taşıtlarda teminat piyasa değerine göre belirlenir. Bu nedenle doğru cevap A seçeneğidir. (MD 5607 2/1-b, 5/2, 10/5, 15, 23/1-c)  
-⚖️ **Yasal Dayanak:** 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.2/1-b, 5/2, 10/5, 15, 23/1-c  
-🔍 **Şık Uzunluk Kontrolü:** A:226 B:212 C:209 D:181 E:163 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
+📖 **Açıklama:** Kanuna göre ikramiye ödemelerinde sahipsiz yakalanan eşyanın değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir. Ateşli silah ve mermilerde esas alınan değeri her yıl İçişleri Bakanlığı değil Millî Savunma Bakanlığı belirler; uyuşturucu maddelerde değer, piyasa değerine göre değil Cumhurbaşkanınca tespit edilen sabit rakamın memur aylık katsayısıyla çarpımıyla bulunur. Kaim değer ve etkin pişmanlık tutarında esas alınan değer ise CIF kıymeti değil gümrüklenmiş değerdir. Bu nedenle doğru cevap A seçeneğidir. (MD 5607 2/1-b, 5/2, 15, 23/1-a, 23/1-b, 23/1-c)  
+⚖️ **Yasal Dayanak:** 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.2/1-b, 5/2, 15, 23/1-a, 23/1-b, 23/1-c  
+🔍 **Şık Uzunluk Kontrolü:** A:226 B:212 C:209 D:146 E:164 karakter → Denge: UYGUN (ters tuzak: doğru şık bilinçli olarak en uzun; 2. ve 3. en uzun şık ≥ %90)
 
 ---
 
@@ -2681,7 +2681,7 @@ A) Yalnız I
 B) Yalnız II  
 C) I ve II  
 D) I ve IV  
-E) I, II ve III  
+E) I, III ve IV  
 
 ✅ **Doğru Cevap:** C  
 📖 **Açıklama:** Ulusal markerin kimyasal özelliklerini taşımasa bile onun yerine kullanılmak amacıyla üretilen kimyasal terkipler hakkında da ulusal markere ilişkin hüküm uygulanır; marker içermeyen akaryakıtın kaçak olarak yurda sokulduğunun anlaşılması hâlinde ise akaryakıt kaçakçılığındaki artırım hükmüne göre cezaya hükmolunur, bu nedenle I ve II doğrudur. Lisansa aykırı tank, düzenek veya ekipman bulundurmak tek başına suçtur, bunlarla satış yapılması ise cezayı iki kat artıran ayrı bir hâldir; izinsiz akaryakıt üretimine ilişkin hüküm akaryakıt yerine kullanılan diğer ürünler yönünden de uygulandığından III ve IV yanlıştır. Bu nedenle doğru cevap C seçeneğidir. (MD 5607 3/11-12, 3/14-15, 4/8)  
@@ -2729,15 +2729,15 @@ E) Karnenin geçerlilik süresinden uzun kullanım için yeni bir ATA karnesiyle
 Gümrük Yönetmeliğine göre, başka bir şartlı muafiyet rejimine tabi tutulmak üzere geçici ithalat rejimi kapatılan eşya için aynı izin hak sahibince aynı amaçla yeniden geçici ithalat izni istenmesi hâlinde aşağıdakilerden hangisi doğrudur?
 
 A) Önceki süre dikkate alınmaz; eşyaya yeniden yirmi dört aylık süre verilebilir  
-B) Önceki süre dahil yirmi dört ay aşılamaz; bu süre talep üzerine de uzatılamaz  
+B) Önceki süre dahil yirmi dört ay aşılamaz; bu süre hak sahibinin talebi üzerine de uzatılamaz  
 C) Önceki süre dahil on iki ay aşılamaz; kullanılmayan süre kadar uzatma yapılabilir  
 D) Önceki süre dahil yirmi dört ay aşılamaz; kullanılmayan süre kadar uzatma yapılabilir  
-E) Önceki süre dahil yirmi dört ay aşılamaz; talep hâlinde ayrıca dokuz ay uzatma yapılır  
+E) Önceki süre dahil on iki ay aşılamaz; bu süre hak sahibinin talebi üzerine de uzatılamaz  
 
 ✅ **Doğru Cevap:** D  
-📖 **Açıklama:** Rejim başka bir şartlı muafiyet rejimine geçmek üzere kapatılıp aynı hak sahibince aynı amaçla tekrar izin istenirse, daha önce verilen süre de dahil rejim altında kalma süresi yirmi dört ayı aşamaz. Bununla birlikte hak sahibinin talebiyle süre, eşyanın rejim altında kullanılmadığı süre kadar uzatılabilir; dokuz aylık uzatma yetkilendirilmiş yükümlü ve büyük ihracatçılara özgü ayrı bir düzenlemedir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 379/1-2)  
+📖 **Açıklama:** Rejim başka bir şartlı muafiyet rejimine geçmek üzere kapatılıp aynı hak sahibince aynı amaçla tekrar izin istenirse, daha önce verilen süre de dahil rejim altında kalma süresi yirmi dört ayı aşamaz. Bununla birlikte hak sahibinin talebiyle süre, eşyanın rejim altında kullanılmadığı süre kadar uzatılabilir; sınır on iki ay değil yirmi dört aydır ve önceki süre göz ardı edilerek yeni bir yirmi dört aylık süre verilmez. Bu nedenle doğru cevap D seçeneğidir. (MD GY 379/1-2)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.379/1-2  
-🔍 **Şık Uzunluk Kontrolü:** A:77 B:77 C:81 D:85 E:86 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:77 B:92 C:81 D:85 E:88 karakter → Denge: UYGUN
 
 ---
 
@@ -2765,15 +2765,15 @@ Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Ser
 Yukarıda belirtilen işaret aşağıdakilerden hangisidir?  
 
 A) “Ticari Taşıttır” kaşesi  
-B) Triptik karnesi  
-C) Taşıt giriş-çıkış formu  
+B) “Çalışma izninden muaftır” şerhi  
+C) Ayniyet şerhi  
 D) Gümrük mührü  
 E) Taşıt kaşesi  
 
 ✅ **Doğru Cevap:** E  
-📖 **Açıklama:** Turistik kolaylıklar kapsamındaki taşıtların girişi 1 No.lu Taşıt Takip Programına kaydedilir ve kaydı yapan memur, ilgilinin pasaportuna süre sonunu gösteren taşıt kaşesi tatbik eder; çıkışta da pasaporta çıkışa ilişkin taşıt kaşesi vurulur, kimlik kartıyla gelen AB vatandaşlarında kaşe giriş-çıkış formuna tatbik edilir. “Ticari Taşıttır” kaşesi ise ticari kara taşıtları için düzenlenen taşıt giriş-çıkış formuna vurulur. Bu nedenle doğru cevap E seçeneğidir. (MD Kara Taşıtları GGT 5/1, 5/3, 7/1)  
-⚖️ **Yasal Dayanak:** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.5/1, 5/3, 7/1  
-🔍 **Şık Uzunluk Kontrolü:** A:24 B:15 C:23 D:12 E:12 karakter → Denge: UYGUN
+📖 **Açıklama:** Turistik kolaylıklar kapsamındaki taşıtların girişi 1 No.lu Taşıt Takip Programına kaydedilir ve kaydı yapan memur, ilgilinin pasaportuna süre sonunu gösteren taşıt kaşesi tatbik eder; çıkışta da pasaporta çıkışa ilişkin taşıt kaşesi vurulur, kimlik kartıyla gelen AB vatandaşlarında kaşe giriş-çıkış formuna tatbik edilir. “Ticari Taşıttır” kaşesi ise ticari kara taşıtları için düzenlenen taşıt giriş-çıkış formuna vurulur; “Çalışma izninden muaftır” şerhi ikamet tezkeresinde bulunan bir kayıttır, ayniyet şerhi ise yeniden ihraçta muayene memurunun eşyanın ilk giriş ayniyetine uygunluğu hakkında ihracat beyannamesine verdiği şerhtir. Bu nedenle doğru cevap E seçeneğidir. (MD Kara Taşıtları GGT 5/1, 5/3, 7/1, 11/4; GY 387/5)  
+⚖️ **Yasal Dayanak:** Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.5/1, 5/3, 7/1, 11/4; Gümrük Yönetmeliği m.387/5  
+🔍 **Şık Uzunluk Kontrolü:** A:24 B:32 C:13 D:12 E:12 karakter → Denge: UYGUN
 
 ---
 
@@ -2781,16 +2781,16 @@ E) Taşıt kaşesi
 
 Gümrük Yönetmeliğine göre, kara hudut kapılarında işlemlerine **hangi süre içinde** başlanmayan taşıtlar hakkında tasfiye hükümleri uygulanır?
 
-A) Gümrüklü sahaya giriş tarihinden itibaren kırk beş gün içinde  
-B) Gümrüklü sahaya giriş tarihinden itibaren üç ay içinde  
-C) Taşıtın gümrük idaresince teslim alındığı tarihten itibaren üç ay içinde  
+A) Özet beyanın verildiği tarihten itibaren yirmi gün içinde  
+B) Gümrüklü sahaya giriş tarihinden itibaren kırk beş gün içinde  
+C) Özet beyanın verildiği tarihten itibaren kırk beş gün içinde  
 D) Gümrüklü sahaya giriş tarihinden itibaren yirmi gün içinde  
-E) Özet beyanın tescil edildiği tarihten itibaren otuz gün içinde  
+E) Taşıtın gümrük idaresince teslim alındığı tarihten itibaren üç ay içinde  
 
 ✅ **Doğru Cevap:** D  
-📖 **Açıklama:** Kara hudut kapılarında, gümrüklü sahaya giriş tarihinden itibaren Kanunda ve Yönetmelikte belirtilen süreler içinde gümrükçe onaylanmış işlem veya kullanım belirlenerek işlemlerine başlanmayan taşıtlar hakkında, adli veya idari takibat yoksa tasfiye hükümleri uygulanır; denizyolu dışındaki yollarla gelen eşyada bu süre yirmi gündür. Kırk beş gün denizyoluyla gelen eşyaya, üç aylık süre ise gümrük idaresince teslim alınan taşıtların kalış süresine ilişkindir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 86/3; GK 46/2)  
+📖 **Açıklama:** Kara hudut kapılarındaki taşıtlar bakımından Kanunda ve Yönetmelikte belirtilen süreler, özet beyanın verildiği tarihten değil gümrüklü sahaya giriş tarihinden itibaren işler; bu süreler içinde gümrükçe onaylanmış işlem veya kullanım belirlenerek işlemlerine başlanmayan taşıtlar hakkında, adli veya idari takibat yoksa tasfiye hükümleri uygulanır. Deniz yolu dışındaki yollarla gelen eşyada süre yirmi gün olduğundan kırk beş günlük deniz yolu süresi uygulanmaz; üç aylık süre ise gümrük idaresince teslim alınan taşıtların geçici depolama yerinde kalış süresine ilişkindir. Bu nedenle doğru cevap D seçeneğidir. (MD GY 86/3; GK 46/2)  
 ⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.86/3; 4458 sayılı Gümrük Kanunu m.46/2-b  
-🔍 **Şık Uzunluk Kontrolü:** A:61 B:54 C:72 D:58 E:62 karakter → Denge: UYGUN
+🔍 **Şık Uzunluk Kontrolü:** A:57 B:61 C:60 D:58 E:72 karakter → Denge: UYGUN
 
 ---
 
@@ -2825,7 +2825,7 @@ Yukarıdaki ifadelerden hangileri doğrudur?
 
 A) I ve II  
 B) I ve IV  
-C) III ve IV  
+C) II ve III  
 D) I, II ve IV  
 E) I, III ve IV  
 
@@ -2935,7 +2935,7 @@ T1: 3 · T3: 1 · T4: 11 · T7: 1 · T8: 1 · T9: 3
 
 | ≤120 | 120-350 | 350-700 | >700 |
 |---|---|---|---|
-| 7 (%9) | 42 (%52) | 14 (%18) | 17 (%21) |
+| 8 (%10) | 41 (%51) | 13 (%16) | 18 (%22) |
 
 **Şık uzunluk sınıfı (21–100; kısa ≤4 kelime, uzun 5 şık ≥20 kelime)**
 
@@ -3012,8 +3012,9 @@ T1: 3 · T3: 1 · T4: 11 · T7: 1 · T8: 1 · T9: 3
 - Madde numarası kökte ve şıkta kullanılmadı (Prompt 3 §7); dayanak her sorunun Yasal Dayanak satırında ve açıklama sonundaki (MD …) parantezinde verildi. 2009/15481 sayılı Karar köklerinde kurum kalıbı kullanıldı.
 - Kök uzunluğu: master §4.1 bantları (%30 · %40 · %20 · %10) hedeflendi; ancak kökün mevzuat adı + hükmün konusu ile açılması zorunluluğu (Prompt 3 §8, CLAUDE.md) özellikle uzun tebliğ adlarında kısa kökleri 121–150 karaktere taşıdı. Bu nedenle ≤120 bandı hedefin altında, >700 bandı hedefin üstündedir; gerçek dağılım Set Sonu tablosundadır.
 - Kapsam: gümrük bölümü Gümrük Yönetmeliği m.567/2 ile sınırlı (Gümrük Kanunu ve ikincil düzenlemeleri, 5607 sayılı Kanun ve ikincil düzenlemeleri; GMY'de fiilen sorulan İthalat Rejimi Kararı, DİR Tebliği, Sınır Ticareti Kararı). Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) gibi dış ticaret düzenlemelerine dayanan soru bırakılmadı. GK 241/1'de AYM 26.03.2026 kararıyla iptal edilen ibareye dayanan hüküm kullanılmadı. Tek bilgi kaynağı depodaki mevzuat dosyaları ve genel kültür kitabıdır.
-- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla, aynı madde/fıkra taraması) → doğrulama sonrası değişen 140 sorunun 3 bağımsız son doğrulayıcıyla yeniden kontrolü (bulunan sorunlar giderildi). 500 sorunun hiçbirinde doğrulama sonunda yanlış cevap anahtarı kalmadı. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
-- Plan kısıtından gerekçeli sapmalar: 40. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi; 48. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi; 51. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi.
+- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) → otomatik denetim (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip/kök kuralları) → 10 bağımsız çekişmeli doğrulayıcı → 2 tekrar denetçisi (Deneme 6–10 kendi arasında ve önceki 515 soruyla) → değişen 140 sorunun 3 son doğrulayıcıyla kontrolü. İkinci geçişte (sağlamlaştırma) 400 gümrük sorusunun tamamı Deneme 1–5 ve 2021–2025 çıkmış sorularıyla soru soru karşılaştırıldı; doğru cevabı eski bir soruda doğru ifade olarak geçen, cevabı şık dağılımından sezdiren veya aynı denemedeki başka bir soruya cevap veren sorular düzeltildi ve değişen 168 sorunun tamamı 4 bağımsız doğrulayıcıyla yeniden kontrol edildi. 500 sorunun hiçbirinde yanlış cevap anahtarı kalmadı. Düzeltmelerin tam listesi araclar/gmy-deneme6-10/DUZELTME_LISTESI.md, raporlar araclar/gmy-deneme6-10/dogrulama/ içindedir.
+- Kaynak çapraz kontrolü ve ipucu dengesi: Kanıt alıntıları kullanıcının GitHub kaynak deposundaki Markdown mevzuat derlemesiyle (Gumrukdoktoru/2027gmynot) karşılaştırıldı; derleme aynı mevzuat sürümüdür ve hiçbir soruda hüküm farkı çıkmadı. 5607 soruları ayrıca sunum notlarıyla karşılaştırıldı. Öncüllü sorularda şık merdivenleri, “en sık geçen öncülleri seç” ve “ötekilere en yakın şıkkı seç” stratejilerinin isabeti şans düzeyine (%20) inecek biçimde dengelendi; iki ve üç bileşenli şıklarda doğru şık, en sık geçen parçaların tek birleşimi olmayacak biçimde kuruldu.
+- Plan kısıtından gerekçeli sapmalar: 40. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi; 48. soru — kök bandı aşıldı: son doğrulamada kök kuralı gereği mevzuat adı/hükmün konusu/"aşağıdakilerden" eklendi.
 
 ## HAFIZA GÜNCELLEMESİ
 
@@ -3039,39 +3040,39 @@ GMY10-018 | Olağanüstü dönemde çekirdek güvenceler | Genel Kültür Kitab�
 GMY10-019 | Siyasi haklar ve yararlanıcıları (bilgi edinme) | Genel Kültür Kitabı – Anayasa: Başvuru yollarını ayır; Siyasi haklar ve vatandaşlık; Hakları sınıflandırmak | Bilgi edinme hakkı siyasi haklar bölümünde olsa da Anayasa’da herkese tanınır; usul ve istisnaları kanunla düzenlenir. | T4 | Z | C | GMY-S10
 GMY10-020 | Anayasa değişikliği teklif yetkisi | Genel Kültür Kitabı – Anayasa: Anayasa değişikliği usulü; Kanunun oluşması ve geri gönderme | Anayasa değişikliği teklifi, 600 üyeli TBMM’de en az 200 milletvekilinin yazılı teklifiyle yapılır; 360 kabul eşiğidir. | T7 | OÜ | D | GMY-S10
 GMY10-021 | YGM | Yetkilendirilmiş Gümrük Müşavirliği Tebliği m.13/9 | YGM olmadan önce antrepo işleticisiyle ortaklığı olan kişi, ortaklığın bitiminden itibaren iki yıl geçmedikçe aynı antreponun tespitini yapamaz. | T3 | OÜ | E | GMY-S10
-GMY10-022 | Temsil | Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71) m.5/2, 7/1, 8/2; Gümrük Yönetmeliği m.561/4-ç | Gümrük İşlemi Takip Kartı, dernek veya odanın değil kartı talep eden firmanın merkez veya şubesinin bulunduğu bölgedeki başmüdürlükçe verilir. | T4 | Z | D | GMY-S10
+GMY10-022 | Temsil | Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71) m.4/2, 5/2, 6/1, 7/1, 8/2; Gümrük Yönetmeliği m.561/4-ç | Gümrük İşlemi Takip Kartı, dernek veya odanın değil kartı talep eden firmanın merkez veya şubesinin bulunduğu bölgedeki başmüdürlükçe verilir. | T4 | Z | D | GMY-S10
 GMY10-023 | Gümrük Müşavirliği | 4458 sayılı Gümrük Kanunu m.226/2; Gümrük Yönetmeliği m.564/4, 573/2 | GMY iş takibini sınırlandırma yetkisi Müsteşarlıktadır; fotoğraflı izin belgesi gümrükte görülebilir taşınır; çalışma yeri izin belgesi değiştirilerek değişir. | T2 | OÜ | E | GMY-S10
 GMY10-024 | Gümrük Müşavirliği | 4458 sayılı Gümrük Kanunu m.228/1, 228/2-a, b | Öğrenim koşulunu lisansüstü veya ön lisans yoluyla sağlayan GMY, GM olamaz; üst görevlerde en az on yıl çalışanlar sınavsız ve stajsız GM olur. | T1+T2 | Z | D | GMY-S10
 GMY10-025 | İhracat | Gümrük Yönetmeliği m.127/1, 127/3 | Gümrük bölgesini terk etmeyen ihraç eşyasına ilişkin beyanname, ihracata ilişkin işlemlerin yapıldığı gümrük idaresince 417 nci madde süreleri içinde iptal edilir. | T7 | OÜ | B | GMY-S10
 GMY10-026 | Geri Verme-Kaldırma | 4458 sayılı Gümrük Kanunu m.213/1-2; Gümrük Yönetmeliği m.501/1-a; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.30/5 | Teslimden önce hasar gören eşya kusurlu sayılır; ilk kullanım şartı bir kere kullanılarak tüketilen eşyada aranmaz. | T1+T2 | Z | E | GMY-S10
 GMY10-027 | Tahakkuk-Tebliğ-Ödeme | Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.27/4 | Son taksitte ihlal edilen tecil geçerli sayılırsa taksit ve tecil faizi, geçerlilik yazısının tebliğinden itibaren beş iş günü içinde ödenir. | T3 | Z | D | GMY-S10
-GMY10-028 | Tarife | Gümrük Yönetmeliği m.32/1-b, c, f | GY tanımı: bölüm başlıklarından sonra yer alıp bölümdeki tabirleri ve bölüme dahil olan/olmayan eşyayı açıklayan kayıtlar bölüm notudur. | T6 | OÜ | E | GMY-S10
+GMY10-028 | Tarife | Gümrük Yönetmeliği m.32/1-b, c, d, e, f | GY tanımı: bölüm başlıklarından sonra yer alıp bölümdeki tabirleri ve bölüme dahil olan/olmayan eşyayı açıklayan kayıtlar bölüm notudur. | T6 | OÜ | E | GMY-S10
 GMY10-029 | Teminat ve Faiz | Gümrük Yönetmeliği m.496/1, 497/2-3-5, 498/1 | Teminat mektubu veren hak sahibine yükümlülük süresinin bitiminden yirmi gün önce nakde dönüştürme uyarısı tebliğ edilir. | T1 | Z | A | GMY-S10
-GMY10-030 | Tahakkuk-Tebliğ-Ödeme | Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.13/1-b, 13/1-c, 13/1-ç; 4458 sayılı Gümrük Kanunu m.197/5 | İtiraz reddi sonrası yargıya taşınan karar, nihai yargı kararının tebliğinden itibaren otuz günlük üst mahkeme süresinin bitiminde kesinleşir. | T3 | OÜ | C | GMY-S10
+GMY10-030 | Tahakkuk-Tebliğ-Ödeme | Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.13/1-c, 13/1-ç; 4458 sayılı Gümrük Kanunu m.197/5 | İtiraz reddi sonrası yargıya taşınan karar, nihai yargı kararının tebliğinden itibaren otuz günlük üst mahkeme süresinin bitiminde kesinleşir. | T3 | OÜ | C | GMY-S10
 GMY10-031 | Cezalar | Gümrük Yönetmeliği m.580/A-1, 580/A-6, 580/A-7; 4458 sayılı Gümrük Kanunu m.231/5 | Talep edenin verdiği yanlış veya eksik bilgiye dayanılarak verilen izahat verildiği tarihten itibaren geçersizdir; ceza ve faiz uygulanmaması hükmünden yararlanılamaz. | T8 | Z | E | GMY-S10
 GMY10-032 | Cezalar | 4458 sayılı Gümrük Kanunu m.234/1-a, 234/6 | Vergi kaybı cezaları usulsüzlük cezası miktarından az olamaz; tarife farkında üç kat olarak 900 TL hesaplanan ceza 1.000 TL alınır. | T9 | Z | D | GMY-S10
 GMY10-033 | Gümrük Kıymeti | Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2) m.12; Gümrük Yönetmeliği m.44/3; 4458 sayılı Gümrük Kanunu m.26/1 | Royalti değerlendirmesinde yönlendirici olarak dikkate alınması gereken Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesi metinleri Tavsiye Kararlarıdır. | T6 | OÜ | A | GMY-S10
 GMY10-034 | Gümrük Kıymeti | Gümrük Yönetmeliği m.53/1-c, m.53/3; 4458 sayılı Gümrük Kanunu m.211 | İstisnai kıymette revize kıymet yüksekse ek tahakkuk yapılır; düşükse fark ancak iade alındığı tevsik edilip belgeler sunulursa GK 211 ile geri verilir. | T9 | Z | D | GMY-S10
-GMY10-035 | Gümrük Vergileri | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.2/1-a; 4458 sayılı Gümrük Kanunu m.3/8-b, 3/11, 181/1-b, 188/1-2, 192 | 5607 sayılı Kanunda gümrük vergileri; gümrük idaresi veya başka idarelerce ithale ya da ihraca bağlı uygulanan vergiler ile diğer mali yükümlülüklerdir. | T1 | Z | C | GMY-S10
+GMY10-035 | Gümrük Vergileri | 4458 sayılı Gümrük Kanunu m.182/1, 182/2, 182/3, 181/3, 192 | Kanuna aykırı girişte girişi gerçekleştirenler, bilerek iştirak edenler ve aykırılığı bilerek ya da bilmesi gerekirken eşyayı elde eden veya bulunduranlar vergilerden sorumludur. | T1 | Z | C | GMY-S10
 GMY10-036 | Gümrük Kıymeti | Gümrük Yönetmeliği m.51/7; 4458 sayılı Gümrük Kanunu m.27/1-e, m.28/a | Giriş yerindeki fiyata tekabül eden maktu yurt içine teslim fiyatında, sınırda teslim fiyatının düşük olduğu tevsik edilmedikçe yurt içi nakliye fiyattan indirilmez. | T9 | Z | B | GMY-S10
 GMY10-037 | Gümrük Vergileri | Tasfiye Yönetmeliği m.31/1-a, 31/1-b, 31/1-c, 31/1-ç | Tasfiyede maktu vergi ve mali yükler ile bunlara isabet eden KDV gümrüklenmiş değere dahildir; ihaleye esas bedele dahil edilmez, ayrıca tahsil edilir. | T1 | Z | D | GMY-S10
 GMY10-038 | Bağlayıcı Bilgi (BTB/BMB) | Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.14/1, 14/2, 15/1, 16/1, 20/2 | BTB yalnız tarife pozisyonu konusunda bağlar; beyan edilen eşya ile BTB'deki eşya arasındaki uygunluğu kanıtlama yükü beyan sahibine aittir. | T1 | Z | A | GMY-S10
 GMY10-039 | Menşe | Yetkilendirilmiş Gümrük Müşavirliği Tebliği m.11/1-e | AT1, saklama süresi geçen eşyanın A.TR ile ihracında serbest dolaşım statüsünü belirler; EU2 onaylanmış ihracatçı menşe uygunluğu; SK1 tedarikçi beyanını kapsamaz. | T2 | Z | C | GMY-S10
 GMY10-040 | Serbest Dolaşıma Giriş | Gümrük Yönetmeliği m.509/1; 4458 sayılı Gümrük Kanunu m.77/1, 121/1-b, 121/2, 187/1 | İzinli imha atıkları, nihai kullanım tahribat atıkları ve geri ödeme sisteminde yeniden ihraç için antrepoya konulan ürünler serbest dolaşımda olmayan eşya sayılır. | T2 | Z | E | GMY-S10
-GMY10-041 | Menşe | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-y | EUR.1 ve diğer menşe ispat belgeleri ihracatçı ülke yetkili kuruluşlarınca düzenlenir ve gümrük idaresince vize edilir. | T7 | OÜ | B | GMY-S10
+GMY10-041 | Menşe | Gümrük Yönetmeliği m.37/6 | Önemli yedek parçaların serbest dolaşımında gümrük idaresi, menşe şahadetnamesine ek olarak fatura, bakım sözleşmesi ve gerekli gördüğü belgeleri isteyebilir. | T7 | OÜ | B | GMY-S10
 GMY10-042 | Menşe | Gümrük Yönetmeliği m.42/3 | Menşe şahadetnamesi 210x297 mm (uzunlukta -5/+8 mm tolerans), en az 64 gr/m2, seri numaralı meneviş desenli zeminli; matbaa adı-adresi veya işareti bulunur. | T2 | Z | A | GMY-S10
 GMY10-043 | Cezalar | Gümrük Yönetmeliği m.181/4-d, 181/11 | İlgili kurum kontrolünde sağlık yönünden tehlikeli ve zararlı bulunan eşya derhal yurt dışı edilir; Türkiye'de imha edilemez, gümrüğe terk edilemez. | T8 | OÜ | E | GMY-S10
-GMY10-044 | İthalat Rejim Kararı | 3350 sayılı İthalat Rejimi Kararı m.3/1-2, 4/2, 5/1-2 | İRK'ya göre kamu ahlakı, düzen, güvenlik, sağlık ve sınai mülkiyet önlemleri dışındaki eşyanın ithali serbesttir; Bakanlık iznine bağlı değildir. | T1 | OÜ | D | GMY-S10
+GMY10-044 | İthalat Rejim Kararı | 3350 sayılı İthalat Rejimi Kararı m.3/1, 4/2, 5/1-3 | İRK'ya göre kamu ahlakı, düzen, güvenlik, sağlık ve sınai mülkiyet önlemleri dışındaki eşyanın ithali serbesttir; Bakanlık iznine bağlı değildir. | T1 | OÜ | D | GMY-S10
 GMY10-045 | Menşe | Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.54/1, 56/2, 56/5 | Basitleştirilmiş usulde düzenlenen A.TR, tasdik edilmeksizin onaylanmış ihracatçı yetkisini haiz statü belgesi sahibince vize edilir. | T7 | OÜ | C | GMY-S10
-GMY10-046 | Menşe | Gümrük Yönetmeliği m.42/2 | Türkiye'den ihracatta menşe şahadetnamesi, ihracatçının veya sorumluluğundaki yetkili temsilcisinin yazılı başvurusu üzerine düzenlenir. | T7 | OÜ | B | GMY-S10
+GMY10-046 | Menşe | Gümrük Yönetmeliği m.41/2 | Menşe şahadetnamesinin sonradan kontrolünde Bakanlık, incelemeyi ihracatçı ülke gümrük idaresi nezdinde yapar; sonucu ilgili gümrük idaresine bildirir. | T7 | OÜ | B | GMY-S10
 GMY10-047 | Menşe | 4458 sayılı Gümrük Kanunu m.17/b, c | Tercihli olmayan menşe, tarife önlemleri dışında Cumhurbaşkanı Kararıyla oluşturulan önlemlerin uygulanması ve menşe şahadetnamesi amaçlarıyla da belirlenir. | T1+T2 | OÜ | A | GMY-S10
 GMY10-048 | Menşe | Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1) m.54/1-2 | Onaylanmış ihracatçı yetkisi için önceki takvim yılında veya kayıt ayının ilk gününden geriye dönük bir yılda en az elli A.TR düzenlenip kullanılmış olmalıdır. | T3 | Z | C | GMY-S10
 GMY10-049 | Nihai Kullanım | Gümrük Genel Tebliği (Nihai Kullanım) (Seri No: 1) m.11/1 | Nihai kullanım yeri izni veren idarenin ili dışındaysa denetleyici idare bu yere en yakın idaredir; izin belgesi ilk iş günü içinde gönderilir. | T5 | OÜ | D | GMY-S10
 GMY10-050 | İthalat Rejim Kararı | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-s, ee, ğğ, ıı, jj; 3350 sayılı İthalat Rejimi Kararı m.9 | DİR Tebliğinde işlenmiş tarım ürünleri, bünyesinde hububat, şeker ve süt bulunduran III sayılı liste ürünleri; sanayi ürünleri tarım ve işlenmiş tarım dışındakilerdir. | T10 | Z | C | GMY-S10
-GMY10-051 | Serbest Dolaşıma Giriş | 4458 sayılı Gümrük Kanunu m.104/3; Gümrük Yönetmeliği m.151/3-4, 345/2 | Antrepodan kayıt yoluyla serbest dolaşıma girişte vergiler antrepo rejimine tabi tutulma tarihindeki unsurlarla; yükümlü talep ederse tescil tarihindeki hâl ve unsurlarla hesaplanır. | T4 | OÜ | E | GMY-S10
-GMY10-052 | Menşe | Gümrük Yönetmeliği m.34/2-a, b, c | Yıkama ve kesme koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız kurutma gibi koruyucu işlemlere aittir; set oluşturma ve karton yerleştirme de yetersiz. | T1 | OÜ | C | GMY-S10
-GMY10-053 | Menşe | Gümrük Yönetmeliği m.36/2-a, c; 37/2-3 | Montaj işlemleri sonucu oluşan kıymet kar ve genel giderler dahil artıştır; yedek parça kuralı serbest dolaşıma sokulan ve önceden ihraç edilmiş cihazlarda geçerlidir. | T1+T2 | Z | B | GMY-S10
-GMY10-054 | Fikri-Sınai Haklar | 4458 sayılı Gümrük Kanunu m.57/2, 57/6, 57/7; Gümrük Yönetmeliği m.100/2, 102/2 | Durdurulan eşyanın teminatla iadesinde teminat tutarını gümrük idaresi değil hak sahibi belirler. | T1 | OÜ | E | GMY-S10
+GMY10-051 | Serbest Dolaşıma Giriş | 4458 sayılı Gümrük Kanunu m.104/2, m.193/1; Gümrük Yönetmeliği m.345/1 | Antrepoda elleçlenen eşyanın vergiye esas nitelik, kıymet ve miktarı, beyan sahibinin talebiyle yükümlülük tarihinde elleçlenmemiş gibi tespit edilir. | T4 | OÜ | E | GMY-S10
+GMY10-052 | Menşe | Gümrük Yönetmeliği m.34/2-a, b, c | Kalburdan geçirme ve sıraya koyma gibi basit işlemler koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız yayma, hasarlı parça atılması gibi koruyucu işlemlere aittir. | T1 | OÜ | C | GMY-S10
+GMY10-053 | Menşe | Gümrük Yönetmeliği m.37/2, 37/3, 37/5 | Önemli yedek parça ihracında yazılı beyan cihazın tüm özelliklerini içerir; önceki şahadetname bilgileri mümkünse sunulur; aynı menşe kuralı önceden ihraç edilen cihazlara da uygulanır. | T1+T2 | Z | B | GMY-S10
+GMY10-054 | Fikri-Sınai Haklar | Gümrük Yönetmeliği m.100/2, 102/2, 103/12, 105/3, 106/1 | Kolaylaştırılmış imha gümrük gözetiminde ve hak sahibinin sorumluluğunda yapılır; imha masrafları beyan sahibinden değil hak sahibinden alınır. | T1 | OÜ | E | GMY-S10
 GMY10-055 | Serbest Dolaşıma Giriş | 4458 sayılı Gümrük Kanunu m.3/6-a | Şartlı muafiyet düzenlemelerine tabi eşyadan elde edilen ve özel ekonomik değer taşımadığı tespit edilen eşya serbest dolaşımda bulunan eşyadır. | T5 | OÜ | B | GMY-S10
 GMY10-056 | Nihai Kullanım | Gümrük Yönetmeliği m.209/5, 209/6 | Montajda kullanılan araç parçaları, montajın tamamlanmasıyla değil tahsis edildikleri araçlar diğer kişilere devredildiğinde nihai kullanıma geçmiş sayılır. | T1 | OÜ | D | GMY-S10
 GMY10-057 | Bağlayıcı Bilgi (BTB/BMB) | Gümrük Genel Tebliği (Tarife) (Seri No: 14) m.4/1, 13/2, 13/4, 18/1 | BTB'yi GGM veya yetkili bölge müdürlükleri verir; geçerli BTB ile farklı görüşte konu düzenlemeden önce Bakanlığa intikal eder; yeniden inceleme re'sen de yapılabilir. | T2 | Z | A | GMY-S10
@@ -3080,7 +3081,7 @@ GMY10-059 | Dahilde İşleme | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/
 GMY10-060 | Beyan | 4458 sayılı Gümrük Kanunu m.69/3 | Yükümlülük doğuran beyannamede vergiler ödenmedikçe veya teminata bağlanmadıkça eşya teslim edilmez; kural kısmi muafiyetli geçici ithalata uygulanmaz. | T5 | OÜ | C | GMY-S10
 GMY10-061 | İhracat | Gümrük Yönetmeliği m.153/3, 158/6 | Posta ve hızlı kargo şirketlerinin faturasız ihracat beyanı e-irsaliye eklenerek kabul edilir; tamamlayıcı beyan yedi iş günü içinde verilir. | T5 | Z | E | GMY-S10
 GMY10-062 | Dahilde İşleme | Gümrük Yönetmeliği m.365/1; Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.11/2, 13/1, 43/4 | Geri ödemede serbest dolaşıma giriş beyannamesi izinde belirtilen gümrük idaresine verilir; geri verme kararından üç ayda ödenmeyen vergiye tecil faizi uygulanır. | T2 | OÜ | A | GMY-S10
-GMY10-063 | Dahilde İşleme | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-l, 3/1-ş, 3/1-oo | DİR Tebliğinde fire ekonomik değeri olmayan atıkları kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescil edilmiş olmasıdır. | T1+T2 | OÜ | C | GMY-S10
+GMY10-063 | Dahilde İşleme | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-kk, 3/1-ş, 3/1-oo | DİR Tebliğinde vergi ithal ve ihraçta tahsili öngörülen bütün mali yükleri kapsar; işletme malzemesinde enerji-yakıt hariç; başlamış işlem beyannamenin tescilidir. | T1+T2 | OÜ | C | GMY-S10
 GMY10-064 | Dahilde İşleme | Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.10/1-2 | Şartlı muafiyette TGB dışında işlenen ürünün ithalinde, ürün vergisinden son işleme yerinden ithal vergisi düşülerek bulunan tutar kadar teminat alınır. | T4 | OÜ | D | GMY-S10
 GMY10-065 | Akaryakıt-Kumanya | Gümrük Yönetmeliği m.482/1, 482/3, 482/4 | Dış seferden dönen geminin transit akaryakıt ve kumanyası ilk giriş limanında tespit edilir; üç ayda Türk limanları arasında tüketilen akaryakıt en son limanda vergilendirilir. | T1+T2 | Z | C | GMY-S10
 GMY10-066 | Dahilde İşleme | 4458 sayılı Gümrük Kanunu m.80/1-2, 81/1, 83, 110/1 | Ekonomik etkili rejim izinleri, gerekli taahhütname ve teminatlar verilip idari düzenlemeler rejimin ekonomik amaçlarıyla orantılı olduğunda verilir. | T4 | Z | B | GMY-S10
@@ -3100,18 +3101,18 @@ GMY10-079 | Muafiyetler | Gümrük Muafiyeti Tebliği (Seri No: 2) m.40/1; 2009/
 GMY10-080 | Geçici Depolama/GOBİK | Gümrük Yönetmeliği m.553/1 | GD ve antrepo dosyasındaki izin ve yazışmalar, bu yerler kapatılsa dahi kapanış tarihinden itibaren beş yıl süreyle saklanır. | T3 | OÜ | B | GMY-S10
 GMY10-081 | Antrepo | Gümrük Yönetmeliği m.522/5, 522/8, 526/4, 539/6 | Kap adedi farkı kullanıcıca 45 günde izah edilir; sigortadan tazmin edilen noksan vergisi sigorta ettirenden alınır; götürü yoksa ayrı/toplu teminat; teşvikli yatırım malına teminatsız giriş. | T1+T2 | Z | D | GMY-S10
 GMY10-082 | Antrepo | Gümrük Yönetmeliği m.330/1-2, 330/8, 331/1 | Antrepodaki serbest dolaşım eşyası ihraç edilemezse yılda en çok beş defa YGM veya memur gözetiminde çıkarılıp beyanname iptal edilebilir. | T4 | OÜ | E | GMY-S10
-GMY10-083 | Gümrüksüz Satış | Gümrüksüz Satış Mağazaları Yönetmeliği m.3/1-d (18.06.2026 tarihli değişiklik), 3/1-ı, 4/1, 4/4 | Gemilere satış mağazası boğazlardan transit geçen gemilerin yanı sıra bağlı limanlardan yurt dışı sefere hareket eden Türk veya yabancı bayraklı gemilere de kumanya satar. | T1 | Z | C | GMY-S10
+GMY10-083 | Gümrüksüz Satış | Gümrüksüz Satış Mağazaları Yönetmeliği m.3/1-d (18.06.2026 tarihli değişiklik), 3/2, 4/1, 5/2, 5/3, 7/3 | Gemilere satış mağazası boğazlardan transit geçen gemilerin yanı sıra bağlı limanlardan yurt dışı sefere hareket eden Türk veya yabancı bayraklı gemilere de kumanya satar. | T1 | Z | C | GMY-S10
 GMY10-084 | Antrepo | Gümrük Yönetmeliği m.518/3-5, 519/1, 521/6 | AŞ yönetim kurulu üyeleri ve %10+ sermayeli gerçek kişilerde, affa uğramış olsalar dahi sayılan suçlardan kesinleşmiş mahkûmiyet bulunmaması şarttır. | T1 | OÜ | B | GMY-S10
 GMY10-085 | Geçici Depolama/GOBİK | Gümrük Yönetmeliği m.97, m.514 | GD bulunmayan yerin GD kabulünü gümrük müdürlüğü görüşüyle bölge müdürlüğü sonuçlandırır; eşyanın gümrük işlemleri tamamlanınca bu yerin GD statüsü sona erer. | T4 | Z | E | GMY-S10
 GMY10-086 | Serbest Bölge | Gümrük Yönetmeliği m.420/2, 422/3, 423, 427/3-4, 430/1 | İhracatta uygulanması gereken ticaret politikası önlemleri, serbest bölgedeki serbest dolaşımdaki eşya TGB'den ihraç edildiğinde uygulanır; bölgeye konulduğunda değil. | T1 | Z | B | GMY-S10
-GMY10-087 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.2/1-b, 5/2, 10/5, 15, 23/1-c | Sahipsiz yakalanan kaçak eşyanın ikramiyeye esas değerini, mahallin en büyük mülkî amirinin görevlendirdiği üç kişilik heyet belirler. | T4 | OÜ | A | GMY-S10
+GMY10-087 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.2/1-b, 5/2, 15, 23/1-a, 23/1-b, 23/1-c | Sahipsiz yakalanan kaçak eşyanın ikramiyeye esas değerini, mahallin en büyük mülkî amirinin görevlendirdiği üç kişilik heyet belirler. | T4 | OÜ | A | GMY-S10
 GMY10-088 | Kaçakçılık | 5607 sayılı Kaçakçılıkla Mücadele Kanunu m.3/11, 3/12, 3/14, 3/15, 4/8 | Marker yerine kullanılan kimyasal terkipler de suç kapsamındadır; markersiz akaryakıt kaçak sokulmuşsa artırım fıkrası uygulanır; lisansa aykırı tank bulundurmak tek başına suçtur. | T2 | Z | C | GMY-S10
 GMY10-089 | Kaçakçılık | 5607 Sayılı Kaçakçılıkla Mücadele Kanununa Göre Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği m.3/1-a, 3/1-ğ, 3/1-l; 5607 sayılı Kanun m.10/5 | Elkonulan Eşya Yönetmeliğinde rayiç bedel: malın temin edildiği yer ve tarihteki piyasadaki alım ve satım bedelidir. | T6 | OÜ | B | GMY-S10
 GMY10-090 | Geçici İthalat | Gümrük Genel Tebliği (Geçici İthalat) (Seri No: 4) m.6, 7, 8 | ATA karnesinin süresi uzatılamadığından karne geçerlilik süresinden uzun kullanım ancak yeni bir ATA karnesiyle sürdürülebilir. | T4 | OÜ | E | GMY-S10
 GMY10-091 | Geçici İthalat | Gümrük Yönetmeliği m.379/1-2 | Başka şartlı muafiyet rejimi için kapatılıp aynı amaçla yeniden izin istenirse önceki süre dahil 24 ay aşılamaz; kullanılmayan süre kadar uzatılabilir. | T4 | Z | D | GMY-S10
 GMY10-092 | Geçici İthalat | Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.19/1, m.26/1-c | Görevli olarak gelen kişinin taşıtını özel hizmet akdiyle istihdam edilen Türkiye yerleşik şoförün kullanması ihlal değildir; ödünç, kiralama, amaç dışı kullanım ve süre aşımı ihlaldir. | T1 | OÜ | C | GMY-S10
-GMY10-093 | Geçici İthalat | Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.5/1, 5/3, 7/1 | Turistik kolaylık kapsamında 1 No.lu programa kaydedilen taşıt için memurca pasaporta süre sonu belirtilen taşıt kaşesi tatbik edilir. | T6 | OÜ | E | GMY-S10
-GMY10-094 | Geçici Depolama/GOBİK | Gümrük Yönetmeliği m.86/3; 4458 sayılı Gümrük Kanunu m.46/2-b | Kara hudut kapılarında taşıtlar için Kanundaki süre gümrüklü sahaya giriş tarihinden işler; süresinde işlemlerine başlanmayan taşıtlara tasfiye hükümleri uygulanır. | T3 | Z | D | GMY-S10
+GMY10-093 | Geçici İthalat | Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.5/1, 5/3, 7/1, 11/4; Gümrük Yönetmeliği m.387/5 | Turistik kolaylık kapsamında 1 No.lu programa kaydedilen taşıt için memurca pasaporta süre sonu belirtilen taşıt kaşesi tatbik edilir. | T6 | OÜ | E | GMY-S10
+GMY10-094 | Geçici Depolama/GOBİK | Gümrük Yönetmeliği m.86/3; 4458 sayılı Gümrük Kanunu m.46/2-b | Kara hudut kapılarında taşıtlar için Kanundaki süre özet beyandan değil gümrüklü sahaya giriş tarihinden işler; süresinde işlemlerine başlanmayan taşıtlar tasfiye edilir. | T3 | Z | D | GMY-S10
 GMY10-095 | Cezalar | Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.31/1, 31/2, 31/3 | Kazada kullanılamaz hâle gelen geçici ithal taşıtın vergileri aranmaz; taşıt yurt dışına çıkarılmalı veya gümrüğe terk edilmelidir. | T8 | OÜ | A | GMY-S10
 GMY10-096 | Geçici İthalat | Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.28/1-2, m.29/1-2 | Turistik kapsam taşıtın mülkiyeti devredilemez; karne taşıtı devri ikamet ülkesinde/elçilikte devir ve gözetimle; vekâletle çıkışta kısa süre esas; onaylı vekâletle vekil müracaatı yeter. | T2 | Z | B | GMY-S10
 GMY10-097 | Yetkilendirilmiş Yükümlü | Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği m.24/3, 26/1, 157/2, 157/3 | YYS eksik beyan yetkisinin askıya alınmasına sertifikayı düzenleyen bölge müdürlüğü yetkilidir; beyannamenin tescil edildiği gümrük müdürlüğü yalnızca bildirimde bulunur. | T7 | OÜ | A | GMY-S10

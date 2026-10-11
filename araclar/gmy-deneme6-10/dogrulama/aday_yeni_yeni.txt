@@ -1,7 +1,4 @@
 252 çift ortak madde/fıkra
-D6-070(K01) ~ D6-069(K14): [('GY', '482/4')]
-   A: Dış seferden dönen geminin üç ay içinde yabancı limana çıkmaması zorunlu nedenle belgelenirse süreyi uzatmaya gümrük ve muhafaza başmüdürlükleri yetkilidir.
-   B: Taahhütnameyle işlem yürüten bunker ve liman bayilerinin gemilere yağ-yakıt verilmesine ilişkin her başvurusunda kaptan veya acentenin talep ya da izin yazısı aranır.
 D6-070(K01) ~ D10-065(K14): [('GY', '482/1'), ('GY', '482/4')]
    A: Dış seferden dönen geminin üç ay içinde yabancı limana çıkmaması zorunlu nedenle belgelenirse süreyi uzatmaya gümrük ve muhafaza başmüdürlükleri yetkilidir.
    B: Dış seferden dönen geminin transit akaryakıt ve kumanyası ilk giriş limanında tespit edilir; üç ayda Türk limanları arasında tüketilen akaryakıt en son limanda vergilendi
@@ -200,6 +197,9 @@ D10-050(K03) ~ D10-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
 D10-050(K03) ~ D10-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR Tebliğinde işlenmiş tarım ürünleri, bünyesinde hububat, şeker ve süt bulunduran III sayılı liste ürünleri; sanayi ürünleri tarım ve işlenmiş tarım dışındakilerdir.
    B: DİR belgeleri aylık listelerle Resmî Gazete’de yayımlanır; iptaller ayrıca bildirilmez; kayıpta ilanla bölge müdürlüğüne başvurulur; revize kapatma sonuçlanıncaya kadar.
+D7-039(K05) ~ D9-083(K10): [('GK', '211/2')]
+   A: Beyanname iptali üzerine ödenmiş vergilerin geri verilmesi istemi, tebliğden itibaren üç yıl içinde değil beyanname iptali başvurusu için öngörülen süreler içinde yapılır
+   B: Dahilde işleme ihracat beyannamesi iptalinde telafi edici verginin geri verilmesi, Yönetmelikteki beyanname iptal süresi içinde talep edilir.
 D6-021(K07) ~ D6-089(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Şartlı muafiyet sisteminde teminat oranı Bakanlıkça vergi tutarının iki katına kadar artırılabilir; hazine tahvil-bonosu da teminattır.
    B: 1/2007 Kararı dışında Topluluğa işlenmiş tarım ürünü ihracatında, bünyedeki üçüncü ülke menşeli işlenmiş tarım ürününün yalnız sanayi payı vergisi ödenir.
@@ -746,9 +746,9 @@ D8-025(K13) ~ D9-089(K13): [('GK geçici', '6/3')]
 D8-027(K13) ~ D9-089(K13): [('GK geçici', '6/2')]
    A: Üç yıllık dönemde iki veya daha fazla disiplin cezası gerektiren davranışta bulunana her yeni suçu için öncekinden ağır ceza uygulanabilir; süre beş yıl değildir.
    B: Görevini bağımsızlık, tarafsızlık ve dürüstlükle yapmayan, kusurlu yapan veya mesleğin genel prensiplerine aykırı davranan meslek mensubuna geçici alıkoyma cezası uygulan
-D6-069(K14) ~ D10-065(K14): [('GY', '482/4')]
+D6-069(K14) ~ D9-055(K14): [('GY', '476/1')]
    A: Taahhütnameyle işlem yürüten bunker ve liman bayilerinin gemilere yağ-yakıt verilmesine ilişkin her başvurusunda kaptan veya acentenin talep ya da izin yazısı aranır.
-   B: Dış seferden dönen geminin transit akaryakıt ve kumanyası ilk giriş limanında tespit edilir; üç ayda Türk limanları arasında tüketilen akaryakıt en son limanda vergilendi
+   B: Yakıt, yağ ve kumanya dışında dış seferdeki deniz ve hava taşıtlarına serbest dolaşımdaki işletme ve donatım eşyası teslimi ihracat hükmündedir.
 D10-076(K14) ~ D10-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Posta-kargo kitap muafiyetinde süreklilikte sınırlama getirilebilir; diplomatik ve yolcu eşyasında kıymet ve ağırlık sınırı yoktur; kıymet usul-esaslarını Bakanlık belirl
    B: Reçeteyle gerçek kişiye posta-kargoyla gelen 1500 Avro’yu geçmeyen ilaç cinsi eşya ile takviye edici gıdalardan tek ve maktu vergi alınır (2026 metni).

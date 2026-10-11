@@ -909,7 +909,7 @@
 "kok": [
 "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre, bu Kanun kapsamına giren suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun da işlenmesi hâlinde açılan davalarda görevli mahkeme aşağıdakilerden hangisidir?"
 ],
-"d": "Kaçakçılık davalarındaki genel kuraldan ayrılarak Kanunun bu durumda görevli kıldığı ağır ceza mahkemesi",
+"d": "Bağlantılı sahtecilik suçuyla birlikte kaçakçılık suçu yönünden de davaya bakacak olan ağır ceza mahkemesi",
 "c": [
 "Adalet Bakanlığının teklifi üzerine kaçakçılık davalarına bakmak üzere belirlenen asliye ceza mahkemesi",
 "Kaçakçılık suçu için asliye ceza mahkemesi, bağlantılı sahtecilik suçu için ise ağır ceza mahkemesi",
@@ -917,7 +917,7 @@
 "Suçun işlendiği yerdeki gümrük idaresinin bağlı olduğu yer sulh ceza hâkimliği"
 ],
 "tuzak": true,
-"g": "Kanuna göre bu Kanun kapsamındaki davalar kural olarak Adalet Bakanlığının teklifi üzerine belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme, bu genel kuraldan ayrılarak ağır ceza mahkemesidir. Kanun bu hâlde davanın kaçakçılık yönünden asliye ceza, sahtecilik yönünden ağır ceza mahkemesi arasında bölünmesini öngörmez; asliye ceza mahkemelerinin belirlenmesinde teklif yetkisi de Ticaret Bakanlığına değil Adalet Bakanlığına aittir. (MD 5607 17/2)",
+"g": "Kanuna göre bu Kanun kapsamındaki davalar kural olarak Adalet Bakanlığının teklifi üzerine belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme, bu genel kuraldan ayrılarak ağır ceza mahkemesidir; dava kaçakçılık suçu yönünden de bu mahkemede görülür. Kanun bu hâlde davanın kaçakçılık yönünden asliye ceza, sahtecilik yönünden ağır ceza mahkemesi arasında bölünmesini öngörmez; asliye ceza mahkemelerinin belirlenmesinde teklif yetkisi de Ticaret Bakanlığına değil Adalet Bakanlığına aittir. (MD 5607 17/2)",
 "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi halinde, görevli mahkeme ağır ceza mahkemesidir",
 "batch": "K12",
 "no": 26,
@@ -926,12 +926,12 @@
 "Adalet Bakanlığının teklifi üzerine kaçakçılık davalarına bakmak üzere belirlenen asliye ceza mahkemesi",
 "Kaçakçılık suçu için asliye ceza mahkemesi, bağlantılı sahtecilik suçu için ise ağır ceza mahkemesi",
 "Ticaret Bakanlığının teklifi üzerine Adalet Bakanlığınca belirlenen asliye ceza mahkemesi",
-"Kaçakçılık davalarındaki genel kuraldan ayrılarak Kanunun bu durumda görevli kıldığı ağır ceza mahkemesi",
+"Bağlantılı sahtecilik suçuyla birlikte kaçakçılık suçu yönünden de davaya bakacak olan ağır ceza mahkemesi",
 "Suçun işlendiği yerdeki gümrük idaresinin bağlı olduğu yer sulh ceza hâkimliği"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre bu Kanun kapsamındaki davalar kural olarak Adalet Bakanlığının teklifi üzerine belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme, bu genel kuraldan ayrılarak ağır ceza mahkemesidir. Kanun bu hâlde davanın kaçakçılık yönünden asliye ceza, sahtecilik yönünden ağır ceza mahkemesi arasında bölünmesini öngörmez; asliye ceza mahkemelerinin belirlenmesinde teklif yetkisi de Ticaret Bakanlığına değil Adalet Bakanlığına aittir. Bu nedenle doğru cevap D seçeneğidir. (MD 5607 17/2)"
+"g_harfli": "Kanuna göre bu Kanun kapsamındaki davalar kural olarak Adalet Bakanlığının teklifi üzerine belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme, bu genel kuraldan ayrılarak ağır ceza mahkemesidir; dava kaçakçılık suçu yönünden de bu mahkemede görülür. Kanun bu hâlde davanın kaçakçılık yönünden asliye ceza, sahtecilik yönünden ağır ceza mahkemesi arasında bölünmesini öngörmez; asliye ceza mahkemelerinin belirlenmesinde teklif yetkisi de Ticaret Bakanlığına değil Adalet Bakanlığına aittir. Bu nedenle doğru cevap D seçeneğidir. (MD 5607 17/2)"
 },
 {
 "id": "D7-027",
@@ -1386,7 +1386,7 @@
 "konu": "Serbest Dolaşıma Giriş",
 "tip": "T1",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.210, 212; Gümrük Yönetmeliği m.505/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.31/5, 31/6",
+"madde": "4458 sayılı Gümrük Kanunu m.210, 211/2, 212; Gümrük Yönetmeliği m.505/3; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.31/5, 31/6",
 "cek": "Beyanname iptali üzerine ödenmiş vergilerin geri verilmesi istemi, tebliğden itibaren üç yıl içinde değil beyanname iptali başvurusu için öngörülen süreler içinde yapılır.",
 "kok": [
 "4458 sayılı Gümrük Kanunu, Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergilerinin geri verilmesi veya kaldırılmasına ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
@@ -1537,26 +1537,26 @@
 "d": "nihai kullanım şekli – bir indirim veya şartlı muafiyet uygulaması",
 "c": [
 "nihai kullanım şekli – kota hacmiyle sınırlı vergi askıya alma uygulaması",
-"menşei ve kıymeti – bir indirim veya şartlı muafiyet uygulaması",
-"menşei ve kıymeti – şartsız ve tam muafiyet uygulaması",
-"menşei ve kıymeti – kota hacmiyle sınırlı vergi askıya alma uygulaması"
+"menşe ülkesi – bir indirim veya şartlı muafiyet uygulaması",
+"tarife pozisyonu – şarta bağlı olmayan tam muafiyet uygulaması",
+"menşe ülkesi – kota hacmiyle sınırlı vergi askıya alma uygulaması"
 ],
 "tuzak": false,
-"g": "Kanuna göre mahiyeti ve nihai kullanım şekli gerekçesiyle bazı eşyanın yararlanabileceği tercihli tarife uygulaması Cumhurbaşkanınca belirlenen şartlara tabidir ve bu ifade, tarife kotaları kapsamında olsa dahi ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir. İlk boşluğa eşyanın menşei ve kıymeti gelmez; Kanun bu uygulamayı eşyanın mahiyeti ile nihai kullanım şekline bağlar. Tarife kotası kapsamındaki uygulama da şartsız ve tam muafiyet ya da kota hacmiyle sınırlı vergi askıya alma olarak nitelendirilmemiştir. (MD GK 16/1-2)",
+"g": "Kanuna göre mahiyeti ve nihai kullanım şekli gerekçesiyle bazı eşyanın yararlanabileceği tercihli tarife uygulaması Cumhurbaşkanınca belirlenen şartlara tabidir ve bu ifade, tarife kotaları kapsamında olsa dahi ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir. İlk boşluğa eşyanın menşe ülkesi ya da tarife pozisyonu gelmez; Kanun bu uygulamayı eşyanın mahiyeti ile nihai kullanım şekline bağlar. Tarife kotası kapsamındaki uygulama da şarta bağlı olmayan tam muafiyet ya da kota hacmiyle sınırlı vergi askıya alma olarak nitelendirilmemiştir. (MD GK 16/1-2)",
 "kanit": "9-TAR.POZ.AYIRMA.txt | Mahiyeti ve nihai kullanım şekli gerekçesiyle, bazı eşyanın yararlanabileceği tercihli tarife uygulaması, Cumhurbaşkanınca belirlenen şartlara tabidir. || 9-TAR.POZ.AYIRMA.txt | tarife kotaları kapsamında olsa dahi, ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir.",
 "batch": "K15",
 "no": 43,
 "harf": "D",
 "opts": [
 "nihai kullanım şekli – kota hacmiyle sınırlı vergi askıya alma uygulaması",
-"menşei ve kıymeti – bir indirim veya şartlı muafiyet uygulaması",
-"menşei ve kıymeti – şartsız ve tam muafiyet uygulaması",
+"menşe ülkesi – bir indirim veya şartlı muafiyet uygulaması",
+"tarife pozisyonu – şarta bağlı olmayan tam muafiyet uygulaması",
 "nihai kullanım şekli – bir indirim veya şartlı muafiyet uygulaması",
-"menşei ve kıymeti – kota hacmiyle sınırlı vergi askıya alma uygulaması"
+"menşe ülkesi – kota hacmiyle sınırlı vergi askıya alma uygulaması"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre mahiyeti ve nihai kullanım şekli gerekçesiyle bazı eşyanın yararlanabileceği tercihli tarife uygulaması Cumhurbaşkanınca belirlenen şartlara tabidir ve bu ifade, tarife kotaları kapsamında olsa dahi ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir. İlk boşluğa eşyanın menşei ve kıymeti gelmez; Kanun bu uygulamayı eşyanın mahiyeti ile nihai kullanım şekline bağlar. Tarife kotası kapsamındaki uygulama da şartsız ve tam muafiyet ya da kota hacmiyle sınırlı vergi askıya alma olarak nitelendirilmemiştir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 16/1-2)"
+"g_harfli": "Kanuna göre mahiyeti ve nihai kullanım şekli gerekçesiyle bazı eşyanın yararlanabileceği tercihli tarife uygulaması Cumhurbaşkanınca belirlenen şartlara tabidir ve bu ifade, tarife kotaları kapsamında olsa dahi ithalat vergilerinde bir indirim veya şartlı muafiyet uygulaması anlamına gelir. İlk boşluğa eşyanın menşe ülkesi ya da tarife pozisyonu gelmez; Kanun bu uygulamayı eşyanın mahiyeti ile nihai kullanım şekline bağlar. Tarife kotası kapsamındaki uygulama da şarta bağlı olmayan tam muafiyet ya da kota hacmiyle sınırlı vergi askıya alma olarak nitelendirilmemiştir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 16/1-2)"
 },
 {
 "id": "D7-044",
@@ -1861,13 +1861,13 @@
 "Yalnız II",
 "Yalnız IV",
 "I ve II",
-"II ve III"
+"I ve III"
 ],
 "opts": [
 "Yalnız II",
 "Yalnız IV",
 "I ve II",
-"II ve III",
+"I ve III",
 "II ve IV"
 ],
 "tuzak": false,
@@ -3611,14 +3611,14 @@
 ],
 "d": "II ve IV",
 "c": [
+"Yalnız I",
 "Yalnız II",
-"I ve IV",
 "II ve III",
 "II, IV ve V"
 ],
 "opts": [
+"Yalnız I",
 "Yalnız II",
-"I ve IV",
 "II ve III",
 "II ve IV",
 "II, IV ve V"

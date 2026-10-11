@@ -111,3 +111,34 @@ Ayrıntılı bulgular `dogrulama/V*.md` dosyalarındadır.
 - K12 uygulandı: D7-026 5607 m.17/2 ikinci cümleye (ağır ceza mahkemesi) taşındı; 2022/21 E şıkkıyla aynılık giderildi.
 - K13 uygulandı: D7-100 öncül II YKTS Tebliği 3/4, 7/3'e taşındı; 2021/22 doğru cevabıyla aynılık giderildi.
 - K10 uygulandı: D6-079 öncül II ve III (2021/79 şıklarıyla aynılık giderildi), D6-081 doğru şık GK 200'e taşındı (2021/81 D şıkkının tersi giderildi).
+
+## İkinci geçiş: kaynak karşılaştırması ve sağlamlaştırma (11 Ekim 2026)
+Tetikleyen: kullanıcı D6-053'te iki zayıflık buldu. Doğru cevabın dayandığı GY 380/5 cümlesi Deneme 5/83'te E şıkkı olarak (olumsuz kökte doğru ifade) neredeyse aynen geçiyordu. Ayrıca doğru şık, öteki şıklarda en sık geçen iki parçayı birleştiren tek şıktı (yakınsama ipucu).
+- **Kaynak karşılaştırması** (`kaynak_md_karsilastir.py`, `dogrulama/KAYNAK_MD.md`):
+  - Kullanıcının `Gumrukdoktoru/2027gmynot` deposundaki Markdown derleme, `metin/` ile aynı mevzuat sürümü; 2026 değişiklik tarihleri birebir aynı.
+  - Gümrük sorularının kanıt alıntılarından 901'i birebir bulundu. 54'ünde yalnız dönüştürmede bağlantılı kelime düşmüş.
+  - Kalan 21 alıntı elle incelendi; hepsi tek kelimelik dönüştürme kaybı.
+  - Hüküm farkı yok; güncelliğini yitirmiş soru yok.
+  - 5607 sunum notları (`kaçakçılık.md`) 28 soruyla karşılaştırıldı (G5). Bulunan farklar (notlardaki 4. madde fıkra numaraları, kurum adları, iki yönetmelikteki rayiç bedel tanımı) hiçbir sorunun cevabını etkilemiyor; Kanun metni esas alındı.
+- **G1–G5** (aday listesindeki 64 soru: T2 §C “eşik altı” örtüşmeleri + `ipucu_tara.py` bayrakları; 5607 soruları): 63 soru değişti. Ayrıntı `dogrulama/G1–G5.md`.
+  - D6-053 → 2009/15481 Karar m.19/1 (yerleşim yerini nakledecek kişinin taşıtı en fazla üç ay).
+  - D8-037 → GY 380/4.
+  - D10-035'in yanlış şıkkı GK 182/3'e taşındı (5607 tanımı 2022/21 A'da doğru ifadeydi).
+  - Ayrıca D7-027, D6-096, D9-066 (GMY2-045 / GMY4-096 ile güçlü örtüşme), D8-035, D10-041, D10-046, D7-040, D7-044, D7-082, D10-051, D6-027, D8-027, D9-089, D8-086, D7-091, D8-060 ve D9-052.
+- **O1–O5** (400 gümrük sorusunun tamamı; `eski_ilgili.py` ile Deneme 1–5 ve çıkmış soruların aynı konu/aynı maddeli soruları okundu): 68 soru değişti. Ayrıntı `dogrulama/O1–O5.md`.
+  - Kilidi değişenler: D8-098, D8-079, D6-044, D6-089, D8-055, D8-023, D9-091, D6-069, D6-022 II, D8-075, D9-029 IV, D10-052, D10-053, D10-054, D6-028, D6-055, D7-054, D8-068.
+  - Kalanlarda öncül, çeldirici, yakınsama ve deneme içi sızıntı giderildi.
+- **Öncül merdiveni dengeleme** (`merdiven_dengele.py`):
+  - Sorun: öncüllü 104 soruda “şıklarda en sık geçen öncülleri seç” stratejisi %39, “ötekilere en yakın (merkezdeki) şıkkı seç” stratejisi %33 isabet ediyordu (şans %20).
+  - Çözüm: doğru kombinasyon ve harf korunarak çeldirici kombinasyonları yeniden seçildi. Uzunluk dengesi ve şık sınıfı kuralları gözetildi.
+  - Sonuç: bütün stratejiler %19–22.
+  - D10-026'da tek öncül farkla iki yakın şık kuralından bilinçli sapıldı: harf ve kombinasyon korunurken bu kural sıklık ipucunu zorunlu kılıyordu.
+- **S4–S7** (değişen sorular bağımsız doğrulayıcılarla yeniden kontrol edildi): yanlış cevap ya da çift doğru bulunmadı. Ayrıntı `dogrulama/S4–S7.md`. Düzeltilenler:
+  - D10-022, D8-032, D8-079, D6-071 ve D10-060/D10-035 (deneme içi sızıntı), D10-052, D7-039 (madde alanı), D7-026, D7-043, D8-086 (Deneme 1 çözüm notu cevabı veriyordu → Tarife Seri No: 11 m.11/4), D6-069 (D6-070'in cevabını veren çeldirici), D9-055.
+- Koordinatör: D10-093'te kökteki “işaret” ifadesiyle elenen iki belge çeldiricisi kaynaktaki şerhlerle değiştirildi: “Çalışma izninden muaftır” şerhi (Kara Taşıtları GGT 11/4) ve ayniyet şerhi (GY 387/5).
+- Karar: hükmün eski sorularda yalnız gerekçede ya da yanlış çeldiricide geçmesi zayıf örtüşme sayıldı ve kilit korundu. İstisna D8-086: oradaki “tuzak nokta” notu cevabı birebir veriyordu.
+- Toplam: 168 soruya dokunuldu.
+  - 68'inde çekirdek ya da dayanak değişti.
+  - 7'sinde doğru şık ya da kök yeniden yazıldı.
+  - 89'unda yalnız çeldirici ya da öncül merdiveni değişti.
+  - 4'ünde yalnız açıklama değişti.

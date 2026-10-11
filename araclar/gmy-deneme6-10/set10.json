@@ -755,26 +755,26 @@
 "konu": "Temsil",
 "tip": "T4",
 "z": "Z",
-"madde": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71) m.5/2, 6/1, 7/1, 8/2; Gümrük Yönetmeliği m.561/4-ç",
+"madde": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71) m.4/2, 5/2, 6/1, 7/1, 8/2; Gümrük Yönetmeliği m.561/4-ç",
 "cek": "Gümrük İşlemi Takip Kartı, dernek veya odanın değil kartı talep eden firmanın merkez veya şubesinin bulunduğu bölgedeki başmüdürlükçe verilir.",
 "kok": [
 "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 71)'e göre, taşıdıkları eşyanın sadece transit işlemlerini doğrudan temsil yoluyla takip edecek nakliyeci kuruluş temsilcilerine verilen Gümrük İşlemi Takip Kartına ilişkin aşağıdakilerden hangisi doğrudur?"
 ],
 "d": "Kart, kart talebinde bulunan firmanın merkez veya şubesinin bulunduğu bölgedeki başmüdürlükçe verilir.",
 "c": [
-"Kart, üye olunan dernek veya odanın merkezinin bulunduğu bölgedeki başmüdürlükçe verilir.",
+"Kart, başvuru dosyalarının ibraz edildiği dernek veya odanın bölgesindeki başmüdürlükçe verilir.",
 "Kart listelerindeki değişiklikler, kuruluşlarca yalnız üyesi bulunulan dernek veya odaya bildirilir.",
 "Kartların hazırlanması, baskısı ve dosyalanmasına ilişkin giderler ilgili başmüdürlükçe karşılanır.",
 "Çalıştığı kuruluştan ayrılanların kartlarının iptali ve iadesinin takibi başmüdürlükçe yapılır."
 ],
 "tuzak": true,
-"g": "Tebliğe göre Gümrük İşlemi Takip Kartları, dernek ve odaların merkez veya şubelerinin bulunduğu bölgedeki değil, kart talebinde bulunan firmaların merkez veya şubelerinin bulunduğu bölgedeki gümrük ve muhafaza başmüdürlüklerince verilir. Kart verilecek kişilerin listelerinde meydana gelen değişiklikler acente ve nakliyeci kuruluşlarca listelerin verildiği başmüdürlüklere derhal bildirilir; kartların hazırlanma ve baskı giderleri ile kuruluştan ayrılanların kartlarının iptal ve iadesinin takibi ise dernek veya odalara aittir. (MD Seri No:71 Tebliğ 5/2, 6/1, 7/1, 8/2)",
-"kanit": "2-TEMSİL.txt | Bahse konu kartlar, dernek ve odaların merkez veya şubelerinin bulunduğu bölgedeki değil, kart talebinde bulunan firmaların merkez veya şubelerinin bulunduğu bölgedeki Gümrük ve Muhafaza Başmüdürlükleri tarafından verilir. || 2-TEMSİL.txt | listelerde meydana gelen değişiklikler, ilgili kuruluşlarca (acenteler, nakliyeci kuruluşlar) listelerin verildiği Başmüdürlüklere derhal bildirilir || 2-TEMSİL.txt | Bu kartların hazırlanması, baskısı, dosyalanması gibi bütün hizmet ve giderler ilgili dernekler veya odalar tarafından yerine getirilir. || 2-TEMSİL.txt | Çalıştığı kuruluştan ayrılanların kartlarının iptali ve iadesinin takibi dernekler veya odalarca yapılarak",
+"g": "Tebliğe göre başvuru dosyaları ilgili dernek veya odaya ibraz edilse de Gümrük İşlemi Takip Kartları, dernek ve odaların merkez veya şubelerinin bulunduğu bölgedeki değil, kart talebinde bulunan firmaların merkez veya şubelerinin bulunduğu bölgedeki gümrük ve muhafaza başmüdürlüklerince verilir. Kart verilecek kişilerin listelerinde meydana gelen değişiklikler acente ve nakliyeci kuruluşlarca listelerin verildiği başmüdürlüklere derhal bildirilir; kartların hazırlanma ve baskı giderleri ile kuruluştan ayrılanların kartlarının iptal ve iadesinin takibi ise dernek veya odalara aittir. (MD Seri No:71 Tebliğ 4/2, 5/2, 6/1, 7/1, 8/2)",
+"kanit": "2-TEMSİL.txt | Bahse konu kartlar, dernek ve odaların merkez veya şubelerinin bulunduğu bölgedeki değil, kart talebinde bulunan firmaların merkez veya şubelerinin bulunduğu bölgedeki Gümrük ve Muhafaza Başmüdürlükleri tarafından verilir. || 2-TEMSİL.txt | Birinci fıkrada belirtilen listelerde adı bulunanlar tarafından ilgili dernek veya odaya || 2-TEMSİL.txt | listelerde meydana gelen değişiklikler, ilgili kuruluşlarca (acenteler, nakliyeci kuruluşlar) listelerin verildiği Başmüdürlüklere derhal bildirilir || 2-TEMSİL.txt | Bu kartların hazırlanması, baskısı, dosyalanması gibi bütün hizmet ve giderler ilgili dernekler veya odalar tarafından yerine getirilir. || 2-TEMSİL.txt | Çalıştığı kuruluştan ayrılanların kartlarının iptali ve iadesinin takibi dernekler veya odalarca yapılarak",
 "batch": "K01",
 "no": 22,
 "harf": "D",
 "opts": [
-"Kart, üye olunan dernek veya odanın merkezinin bulunduğu bölgedeki başmüdürlükçe verilir.",
+"Kart, başvuru dosyalarının ibraz edildiği dernek veya odanın bölgesindeki başmüdürlükçe verilir.",
 "Kart listelerindeki değişiklikler, kuruluşlarca yalnız üyesi bulunulan dernek veya odaya bildirilir.",
 "Kartların hazırlanması, baskısı ve dosyalanmasına ilişkin giderler ilgili başmüdürlükçe karşılanır.",
 "Kart, kart talebinde bulunan firmanın merkez veya şubesinin bulunduğu bölgedeki başmüdürlükçe verilir.",
@@ -782,7 +782,7 @@
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tebliğe göre Gümrük İşlemi Takip Kartları, dernek ve odaların merkez veya şubelerinin bulunduğu bölgedeki değil, kart talebinde bulunan firmaların merkez veya şubelerinin bulunduğu bölgedeki gümrük ve muhafaza başmüdürlüklerince verilir. Kart verilecek kişilerin listelerinde meydana gelen değişiklikler acente ve nakliyeci kuruluşlarca listelerin verildiği başmüdürlüklere derhal bildirilir; kartların hazırlanma ve baskı giderleri ile kuruluştan ayrılanların kartlarının iptal ve iadesinin takibi ise dernek veya odalara aittir. Bu nedenle doğru cevap D seçeneğidir. (MD Seri No:71 Tebliğ 5/2, 6/1, 7/1, 8/2)"
+"g_harfli": "Tebliğe göre başvuru dosyaları ilgili dernek veya odaya ibraz edilse de Gümrük İşlemi Takip Kartları, dernek ve odaların merkez veya şubelerinin bulunduğu bölgedeki değil, kart talebinde bulunan firmaların merkez veya şubelerinin bulunduğu bölgedeki gümrük ve muhafaza başmüdürlüklerince verilir. Kart verilecek kişilerin listelerinde meydana gelen değişiklikler acente ve nakliyeci kuruluşlarca listelerin verildiği başmüdürlüklere derhal bildirilir; kartların hazırlanma ve baskı giderleri ile kuruluştan ayrılanların kartlarının iptal ve iadesinin takibi ise dernek veya odalara aittir. Bu nedenle doğru cevap D seçeneğidir. (MD Seri No:71 Tebliğ 4/2, 5/2, 6/1, 7/1, 8/2)"
 },
 {
 "id": "D10-023",
@@ -801,16 +801,16 @@
 ],
 "d": "II ve III",
 "c": [
+"Yalnız I",
 "Yalnız II",
 "Yalnız III",
-"I ve II",
-"I ve III"
+"I ve II"
 ],
 "opts": [
+"Yalnız I",
 "Yalnız II",
 "Yalnız III",
 "I ve II",
-"I ve III",
 "II ve III"
 ],
 "tuzak": false,
@@ -1228,7 +1228,7 @@
 "konu": "Gümrük Vergileri",
 "tip": "T1",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.182/1, 182/3, 181/1-b, 181/3, 192",
+"madde": "4458 sayılı Gümrük Kanunu m.182/1, 182/2, 182/3, 181/3, 192",
 "cek": "Kanuna aykırı girişte girişi gerçekleştirenler, bilerek iştirak edenler ve aykırılığı bilerek ya da bilmesi gerekirken eşyayı elde eden veya bulunduranlar vergilerden sorumludur.",
 "kok": [
 "4458 sayılı Gümrük Kanununun ithalatta gümrük yükümlülüğünün doğması ve gümrük vergilerinden sorumlu kişilere ilişkin hükümlerine göre aşağıdakilerden hangisi [[yanlıştır]]?"
@@ -1236,26 +1236,26 @@
 "d": "Eşyanın Türkiye Gümrük Bölgesine kanuna aykırı girişinde gümrük vergilerinden girişi gerçekleştirenler sorumlu olup eşyayı bu durumu bilerek sonradan elde eden veya elinde bulunduran kişiler sorumlu tutulamaz.",
 "c": [
 "Serbest bölgede bulunan ithalat vergilerine tabi eşyanın kanuna aykırı olarak Türkiye Gümrük Bölgesinin başka bir yerine gitmesi hâlinde de, kanuna aykırı girişte olduğu gibi gümrük yükümlülüğü doğar.",
-"İthalat vergilerine tabi eşyanın ithalat vergilerinden kısmi muafiyet suretiyle geçici ithali için verilecek gümrük beyannamesinin tescil tarihinde de ithalatta gümrük yükümlülüğü başlar.",
+"İthalat vergilerine tabi eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı şekilde girmesi hâlinde doğan gümrük yükümlülüğü, eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı olarak girişi tarihinde başlar.",
 "Beyanda kullanılan veriler kanunen alınması gereken vergilerin tamamen veya kısmen tahsil edilememesine yol açarsa, bu verileri veren ve yanlış olduğunu bilen veya bilmesi gereken kişiler de vergilerden sorumludur.",
 "4458 sayılı Kanuna göre aynı gümrük vergilerinin ödenmesinden birden çok yükümlünün sorumlu olduğu hâllerde, bunlar söz konusu vergilerin ödenmesinden müştereken ve müteselsilen sorumludur."
 ],
 "tuzak": false,
-"g": "Kanuna göre ithalat vergilerine tabi eşyanın kanuna aykırı girişinde gümrük vergilerinden yalnız girişi gerçekleştirenler değil, girişe iştirak eden ve aykırılığı bilen veya normal olarak bilmesi gerekenler ile eşyayı elde ettiği ya da aldığı sırada kanuna aykırı girdiğini bilen veya normal olarak bilmesi gereken, eşyayı elde eden veya elinde bulunduran kişiler de sorumludur. Serbest bölgedeki eşyanın kanuna aykırı olarak gümrük bölgesinin başka bir yerine gitmesinin yükümlülük doğurması, kısmi muafiyetli geçici ithalatta yükümlülüğün beyanname tesciliyle başlaması, yanlış veri verenlerin sorumluluğu ve müteselsil sorumluluk Kanuna uygundur. (MD GK 181/1-b, 181/3, 182/1, 182/3, 192)",
-"kanit": "44-yükümlülük.txt | Eşyanın kanuna aykırı olarak girişini gerçekleştiren kişiler, || 44-yükümlülük.txt | Söz konusu eşyayı elde eden veya elinde bulunduran ve bu eşyayı elde ettiği veya aldığı sırada eşyanın kanuna aykırı olarak girdiğini bilen veya normal olarak bilmesi gereken kişiler, || 44-yükümlülük.txt | bir serbest bölgede bulunan ithalat vergilerine tabi eşyanın, bu Kanuna aykırı olarak Gümrük Bölgesinin başka bir yerine gitmesi hallerinde, gümrük yükümlülüğü doğar || 44-yükümlülük.txt | İthalat vergilerine tabi eşyanın ithalat vergilerinden kısmi muafiyet suretiyle geçici ithali, || 44-yükümlülük.txt | beyanın yapılabilmesi için bu verileri veren ve bu verilerin yanlış olduğunu bilen veya bilmesi gereken kişiler de gümrük vergilerinden sorumludur || 44-yükümlülük.txt | bunlar söz konusu vergilerin ödenmesinden müştereken ve müteselsilen sorumludurlar",
+"g": "Kanuna göre ithalat vergilerine tabi eşyanın kanuna aykırı girişinde gümrük vergilerinden yalnız girişi gerçekleştirenler değil, girişe iştirak eden ve aykırılığı bilen veya normal olarak bilmesi gerekenler ile eşyayı elde ettiği ya da aldığı sırada kanuna aykırı girdiğini bilen veya normal olarak bilmesi gereken, eşyayı elde eden veya elinde bulunduran kişiler de sorumludur. Serbest bölgedeki eşyanın kanuna aykırı olarak gümrük bölgesinin başka bir yerine gitmesinin yükümlülük doğurması, kanuna aykırı girişte yükümlülüğün giriş tarihinde başlaması, yanlış veri verenlerin sorumluluğu ve müteselsil sorumluluk Kanuna uygundur. (MD GK 181/3, 182/1-3, 192)",
+"kanit": "44-yükümlülük.txt | Eşyanın kanuna aykırı olarak girişini gerçekleştiren kişiler, || 44-yükümlülük.txt | Söz konusu eşyayı elde eden veya elinde bulunduran ve bu eşyayı elde ettiği veya aldığı sırada eşyanın kanuna aykırı olarak girdiğini bilen veya normal olarak bilmesi gereken kişiler, || 44-yükümlülük.txt | bir serbest bölgede bulunan ithalat vergilerine tabi eşyanın, bu Kanuna aykırı olarak Gümrük Bölgesinin başka bir yerine gitmesi hallerinde, gümrük yükümlülüğü doğar || 44-yükümlülük.txt | Gümrük yükümlülüğü, eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı olarak girişi tarihinde başlar || 44-yükümlülük.txt | beyanın yapılabilmesi için bu verileri veren ve bu verilerin yanlış olduğunu bilen veya bilmesi gereken kişiler de gümrük vergilerinden sorumludur || 44-yükümlülük.txt | bunlar söz konusu vergilerin ödenmesinden müştereken ve müteselsilen sorumludurlar",
 "batch": "K05",
 "no": 35,
 "harf": "C",
 "opts": [
 "Serbest bölgede bulunan ithalat vergilerine tabi eşyanın kanuna aykırı olarak Türkiye Gümrük Bölgesinin başka bir yerine gitmesi hâlinde de, kanuna aykırı girişte olduğu gibi gümrük yükümlülüğü doğar.",
-"İthalat vergilerine tabi eşyanın ithalat vergilerinden kısmi muafiyet suretiyle geçici ithali için verilecek gümrük beyannamesinin tescil tarihinde de ithalatta gümrük yükümlülüğü başlar.",
+"İthalat vergilerine tabi eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı şekilde girmesi hâlinde doğan gümrük yükümlülüğü, eşyanın Türkiye Gümrük Bölgesine bu Kanuna aykırı olarak girişi tarihinde başlar.",
 "Eşyanın Türkiye Gümrük Bölgesine kanuna aykırı girişinde gümrük vergilerinden girişi gerçekleştirenler sorumlu olup eşyayı bu durumu bilerek sonradan elde eden veya elinde bulunduran kişiler sorumlu tutulamaz.",
 "Beyanda kullanılan veriler kanunen alınması gereken vergilerin tamamen veya kısmen tahsil edilememesine yol açarsa, bu verileri veren ve yanlış olduğunu bilen veya bilmesi gereken kişiler de vergilerden sorumludur.",
 "4458 sayılı Kanuna göre aynı gümrük vergilerinin ödenmesinden birden çok yükümlünün sorumlu olduğu hâllerde, bunlar söz konusu vergilerin ödenmesinden müştereken ve müteselsilen sorumludur."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre ithalat vergilerine tabi eşyanın kanuna aykırı girişinde gümrük vergilerinden yalnız girişi gerçekleştirenler değil, girişe iştirak eden ve aykırılığı bilen veya normal olarak bilmesi gerekenler ile eşyayı elde ettiği ya da aldığı sırada kanuna aykırı girdiğini bilen veya normal olarak bilmesi gereken, eşyayı elde eden veya elinde bulunduran kişiler de sorumludur. Serbest bölgedeki eşyanın kanuna aykırı olarak gümrük bölgesinin başka bir yerine gitmesinin yükümlülük doğurması, kısmi muafiyetli geçici ithalatta yükümlülüğün beyanname tesciliyle başlaması, yanlış veri verenlerin sorumluluğu ve müteselsil sorumluluk Kanuna uygundur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 181/1-b, 181/3, 182/1, 182/3, 192)"
+"g_harfli": "Kanuna göre ithalat vergilerine tabi eşyanın kanuna aykırı girişinde gümrük vergilerinden yalnız girişi gerçekleştirenler değil, girişe iştirak eden ve aykırılığı bilen veya normal olarak bilmesi gerekenler ile eşyayı elde ettiği ya da aldığı sırada kanuna aykırı girdiğini bilen veya normal olarak bilmesi gereken, eşyayı elde eden veya elinde bulunduran kişiler de sorumludur. Serbest bölgedeki eşyanın kanuna aykırı olarak gümrük bölgesinin başka bir yerine gitmesinin yükümlülük doğurması, kanuna aykırı girişte yükümlülüğün giriş tarihinde başlaması, yanlış veri verenlerin sorumluluğu ve müteselsil sorumluluk Kanuna uygundur. Bu nedenle doğru cevap C seçeneğidir. (MD GK 181/3, 182/1-3, 192)"
 },
 {
 "id": "D10-036",
@@ -1854,11 +1854,11 @@
 "tip": "T1",
 "z": "OÜ",
 "madde": "Gümrük Yönetmeliği m.34/2-a, b, c",
-"cek": "Tozun giderilmesi, eleme ve tasnifleme koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız yayma, hasarlı parça atılması gibi koruyucu işlemlere aittir.",
+"cek": "Kalburdan geçirme ve sıraya koyma gibi basit işlemler koşulsuz yetersiz işlemdir; nakliyat-depolama süresince muhafaza koşulu yalnız yayma, hasarlı parça atılması gibi koruyucu işlemlere aittir.",
 "kok": [
 "Gümrük Yönetmeliğine göre, eşyanın menşe kazanması için yetersiz işçilik veya işlem olarak kabul edilen işlemlere ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
-"d": "Tozun giderilmesi, eleme ve tasnifleme, yalnızca nakliyat ve depolama süresince yapılırsa yetersiz işlem sayılır.",
+"d": "Kalburdan geçirme ve sıraya koyma işlemleri, yalnızca nakliyat ve depolama süresince yapılırsa yetersiz sayılır.",
 "c": [
 "Nakliyat ve depolama süresince iyi muhafaza amacıyla yapılan yayma ve hasar gören parçaların atılması yetersiz sayılır.",
 "Basit torbalama, sandıklama ve kutulama işlemleri menşe kazanılması bakımından yetersiz işlem olarak kabul edilir.",
@@ -1866,7 +1866,7 @@
 "Ambalajların ayrılması ve birleştirilmesi işlemleri yetersiz işlem olarak kabul edilir."
 ],
 "tuzak": false,
-"g": "Tozun giderilmesi, eleme ya da kalburdan geçirme, sıraya koyma ve tasnifleme gibi basit işlemler herhangi bir koşula bağlı olmaksızın yetersiz işlem sayılır; nakliyat ve depolama süresince iyi muhafaza amacı yalnız havalandırma, yayma, kurutma ve hasar gören parçaların atılması gibi koruyucu işlemler için aranır. Basit torbalama, sandıklama, kutulama, karton veya tahta üzerine yerleştirme ile ambalajların ayrılması ve birleştirilmesi de koşulsuz olarak yetersiz işlemlerdendir. (MD GY 34/2-a, b, c)",
+"g": "Kalburdan geçirme ve sıraya koyma, Yönetmelikte tozun giderilmesi, eleme ve tasnifleme ile birlikte sayılan ve herhangi bir koşula bağlı olmaksızın yetersiz işlem kabul edilen basit işlemlerdendir; nakliyat ve depolama süresince iyi muhafaza amacı yalnız havalandırma, yayma, kurutma ve hasar gören parçaların atılması gibi koruyucu işlemler için aranır. Basit torbalama, sandıklama, kutulama, karton veya tahta üzerine yerleştirme ile ambalajların ayrılması ve birleştirilmesi de koşulsuz olarak yetersiz işlemlerdendir. (MD GY 34/2-a, b, c)",
 "kanit": "10-MENŞEİ.txt | b) Tozun giderilmesi, eleme ya da kalburdan geçirme, sıraya koyma, tasnifleme, maddelerden setler oluşturma dahil eşleştirme, yıkama ve kesmeden oluşan basit işlemler || 10-MENŞEİ.txt | a) Nakliyat ve depolama süresince eşyanın iyi şartlarda muhafazasını sağlamaya yönelik; havalandırma, yayma, kurutma, hasar gören parçaların atılması ve benzeri koruyucu işlemler || 10-MENŞEİ.txt | c) Ambalaj değişikliği, ambalajların ayrılması ve birleştirilmesi, basit torbalama, sandıklama, kutulama, karton veya tahta üzerine yerleştirme",
 "batch": "K03",
 "no": 52,
@@ -1874,13 +1874,13 @@
 "opts": [
 "Nakliyat ve depolama süresince iyi muhafaza amacıyla yapılan yayma ve hasar gören parçaların atılması yetersiz sayılır.",
 "Basit torbalama, sandıklama ve kutulama işlemleri menşe kazanılması bakımından yetersiz işlem olarak kabul edilir.",
-"Tozun giderilmesi, eleme ve tasnifleme, yalnızca nakliyat ve depolama süresince yapılırsa yetersiz işlem sayılır.",
+"Kalburdan geçirme ve sıraya koyma işlemleri, yalnızca nakliyat ve depolama süresince yapılırsa yetersiz sayılır.",
 "Karton veya tahta üzerine yerleştirme işlemi yetersiz işlem olarak kabul edilir.",
 "Ambalajların ayrılması ve birleştirilmesi işlemleri yetersiz işlem olarak kabul edilir."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Tozun giderilmesi, eleme ya da kalburdan geçirme, sıraya koyma ve tasnifleme gibi basit işlemler herhangi bir koşula bağlı olmaksızın yetersiz işlem sayılır; nakliyat ve depolama süresince iyi muhafaza amacı yalnız havalandırma, yayma, kurutma ve hasar gören parçaların atılması gibi koruyucu işlemler için aranır. Basit torbalama, sandıklama, kutulama, karton veya tahta üzerine yerleştirme ile ambalajların ayrılması ve birleştirilmesi de koşulsuz olarak yetersiz işlemlerdendir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 34/2-a, b, c)"
+"g_harfli": "Kalburdan geçirme ve sıraya koyma, Yönetmelikte tozun giderilmesi, eleme ve tasnifleme ile birlikte sayılan ve herhangi bir koşula bağlı olmaksızın yetersiz işlem kabul edilen basit işlemlerdendir; nakliyat ve depolama süresince iyi muhafaza amacı yalnız havalandırma, yayma, kurutma ve hasar gören parçaların atılması gibi koruyucu işlemler için aranır. Basit torbalama, sandıklama, kutulama, karton veya tahta üzerine yerleştirme ile ambalajların ayrılması ve birleştirilmesi de koşulsuz olarak yetersiz işlemlerdendir. Bu nedenle doğru cevap C seçeneğidir. (MD GY 34/2-a, b, c)"
 },
 {
 "id": "D10-053",
@@ -2047,14 +2047,14 @@
 "d": "I ve III",
 "c": [
 "I ve IV",
-"II ve III",
+"II ve IV",
 "I, II ve III",
 "I, III ve IV"
 ],
 "opts": [
 "I ve III",
 "I ve IV",
-"II ve III",
+"II ve IV",
 "I, II ve III",
 "I, III ve IV"
 ],
@@ -2344,15 +2344,15 @@
 "c": [
 "Yalnız II",
 "I ve III",
-"I, II ve IV",
-"II, III ve IV"
+"I, II ve III",
+"I, II ve IV"
 ],
 "opts": [
 "Yalnız II",
 "I ve III",
 "II ve IV",
-"I, II ve IV",
-"II, III ve IV"
+"I, II ve III",
+"I, II ve IV"
 ],
 "tuzak": false,
 "g": "Düzenli seferli gemilerin son Türk limanındaki üç aya kadar bekleme süreleri seferin devamı sayılır ve gemi üç ay içinde yabancı limana çıkmazsa transit akaryakıt ve kumanyası tespit edilerek vergileri tahsil edilir; bu nedenle I ve III doğrudur. Üç aylık sürede Türk limanları arasında tüketilen akaryakıt ilk giriş limanında değil uğranılan en son Türk limanında vergilendirildiğinden II; transit akaryakıt ve kumanyalar son Türk limanında değil Türkiye’ye ilk giriş limanında tespit edildiğinden IV yanlıştır. (MD GY 482/1, 482/3-4)",
@@ -2933,14 +2933,14 @@
 ],
 "d": "III ve IV",
 "c": [
+"Yalnız I",
 "Yalnız IV",
-"I ve III",
 "II ve IV",
 "II, III ve IV"
 ],
 "opts": [
+"Yalnız I",
 "Yalnız IV",
-"I ve III",
 "II ve IV",
 "III ve IV",
 "II, III ve IV"
@@ -3186,14 +3186,14 @@
 "Yalnız I",
 "Yalnız II",
 "I ve IV",
-"I, II ve III"
+"I, III ve IV"
 ],
 "opts": [
 "Yalnız I",
 "Yalnız II",
 "I ve II",
 "I ve IV",
-"I, II ve III"
+"I, III ve IV"
 ],
 "tuzak": false,
 "g": "Ulusal markerin kimyasal özelliklerini taşımasa bile onun yerine kullanılmak amacıyla üretilen kimyasal terkipler hakkında da ulusal markere ilişkin hüküm uygulanır; marker içermeyen akaryakıtın kaçak olarak yurda sokulduğunun anlaşılması hâlinde ise akaryakıt kaçakçılığındaki artırım hükmüne göre cezaya hükmolunur, bu nedenle I ve II doğrudur. Lisansa aykırı tank, düzenek veya ekipman bulundurmak tek başına suçtur, bunlarla satış yapılması ise cezayı iki kat artıran ayrı bir hâldir; izinsiz akaryakıt üretimine ilişkin hüküm akaryakıt yerine kullanılan diğer ürünler yönünden de uygulandığından III ve IV yanlıştır. (MD 5607 3/11-12, 3/14-15, 4/8)",
@@ -3351,7 +3351,7 @@
 "konu": "Geçici İthalat",
 "tip": "T6",
 "z": "OÜ",
-"madde": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.5/1, 5/3, 7/1",
+"madde": "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1) m.5/1, 5/3, 7/1, 11/4; Gümrük Yönetmeliği m.387/5",
 "cek": "Turistik kolaylık kapsamında 1 No.lu programa kaydedilen taşıt için memurca pasaporta süre sonu belirtilen taşıt kaşesi tatbik edilir.",
 "kok": [
 "Geçici İthal Edilen Kara Taşıtlarına İlişkin Gümrük Genel Tebliği (Seri No: 1)’e göre, turistik kolaylıklar kapsamında 1 No.lu Taşıt Takip Programına kaydedilen taşıtlar için “kaydı yapan memur tarafından ilgilinin pasaportuna bilgi vermek amacıyla tatbik edilen” ve süre sonunun belirtildiği bir işaret kullanılır.",
@@ -3360,26 +3360,26 @@
 "d": "Taşıt kaşesi",
 "c": [
 "“Ticari Taşıttır” kaşesi",
-"Triptik karnesi",
-"Gümrüklerden geçiş karnesi",
+"“Çalışma izninden muaftır” şerhi",
+"Ayniyet şerhi",
 "Gümrük mührü"
 ],
 "tuzak": false,
-"g": "Turistik kolaylıklar kapsamındaki taşıtların girişi 1 No.lu Taşıt Takip Programına kaydedilir ve kaydı yapan memur, ilgilinin pasaportuna süre sonunu gösteren taşıt kaşesi tatbik eder; çıkışta da pasaporta çıkışa ilişkin taşıt kaşesi vurulur, kimlik kartıyla gelen AB vatandaşlarında kaşe giriş-çıkış formuna tatbik edilir. “Ticari Taşıttır” kaşesi ise ticari kara taşıtları için düzenlenen taşıt giriş-çıkış formuna vurulur; triptik karnesi ve gümrüklerden geçiş karnesi tatbik edilen bir işaret değil, girişte ibraz edilen karnelerdir. (MD Kara Taşıtları GGT 5/1, 5/3, 7/1; GY 391/5)",
-"kanit": "34-GEÇİCİ İTHALAT.txt | Kaydı yapan memur tarafından ilgilinin pasaportuna bilgi vermek amacıyla tatbik edilen \"taşıt kaşesinde\" süre sonu belirtilir || 34-GEÇİCİ İTHALAT.txt | Ticari mahiyetteki kara taşıtları için tanzim edilen taşıt giriş çıkış formuna \"Ticari Taşıttır\" kaşesi tatbik edilir || 34-GEÇİCİ İTHALAT.txt | Triptik karnesi veya gümrüklerden geçiş karnesi ibrazı halinde ayrıca taşıt giriş çıkış formu düzenlenmez",
+"g": "Turistik kolaylıklar kapsamındaki taşıtların girişi 1 No.lu Taşıt Takip Programına kaydedilir ve kaydı yapan memur, ilgilinin pasaportuna süre sonunu gösteren taşıt kaşesi tatbik eder; çıkışta da pasaporta çıkışa ilişkin taşıt kaşesi vurulur, kimlik kartıyla gelen AB vatandaşlarında kaşe giriş-çıkış formuna tatbik edilir. “Ticari Taşıttır” kaşesi ise ticari kara taşıtları için düzenlenen taşıt giriş-çıkış formuna vurulur; “Çalışma izninden muaftır” şerhi ikamet tezkeresinde bulunan bir kayıttır, ayniyet şerhi ise yeniden ihraçta muayene memurunun eşyanın ilk giriş ayniyetine uygunluğu hakkında ihracat beyannamesine verdiği şerhtir. (MD Kara Taşıtları GGT 5/1, 5/3, 7/1, 11/4; GY 387/5)",
+"kanit": "34-GEÇİCİ İTHALAT.txt | Kaydı yapan memur tarafından ilgilinin pasaportuna bilgi vermek amacıyla tatbik edilen \"taşıt kaşesinde\" süre sonu belirtilir || 34-GEÇİCİ İTHALAT.txt | Ticari mahiyetteki kara taşıtları için tanzim edilen taşıt giriş çıkış formuna \"Ticari Taşıttır\" kaşesi tatbik edilir || 34-GEÇİCİ İTHALAT.txt | ikamet tezkerelerinde \"çalışma izninden muaftır\" şerhi bulunan kişilerden || 34-GEÇİCİ İTHALAT.txt | ihracat beyannamelerine ayniyetine uygun olduğu hakkında onaylı ve imzalı şerh verir",
 "batch": "K08",
 "no": 93,
 "harf": "E",
 "opts": [
 "“Ticari Taşıttır” kaşesi",
-"Triptik karnesi",
-"Gümrüklerden geçiş karnesi",
+"“Çalışma izninden muaftır” şerhi",
+"Ayniyet şerhi",
 "Gümrük mührü",
 "Taşıt kaşesi"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Turistik kolaylıklar kapsamındaki taşıtların girişi 1 No.lu Taşıt Takip Programına kaydedilir ve kaydı yapan memur, ilgilinin pasaportuna süre sonunu gösteren taşıt kaşesi tatbik eder; çıkışta da pasaporta çıkışa ilişkin taşıt kaşesi vurulur, kimlik kartıyla gelen AB vatandaşlarında kaşe giriş-çıkış formuna tatbik edilir. “Ticari Taşıttır” kaşesi ise ticari kara taşıtları için düzenlenen taşıt giriş-çıkış formuna vurulur; triptik karnesi ve gümrüklerden geçiş karnesi tatbik edilen bir işaret değil, girişte ibraz edilen karnelerdir. Bu nedenle doğru cevap E seçeneğidir. (MD Kara Taşıtları GGT 5/1, 5/3, 7/1; GY 391/5)"
+"g_harfli": "Turistik kolaylıklar kapsamındaki taşıtların girişi 1 No.lu Taşıt Takip Programına kaydedilir ve kaydı yapan memur, ilgilinin pasaportuna süre sonunu gösteren taşıt kaşesi tatbik eder; çıkışta da pasaporta çıkışa ilişkin taşıt kaşesi vurulur, kimlik kartıyla gelen AB vatandaşlarında kaşe giriş-çıkış formuna tatbik edilir. “Ticari Taşıttır” kaşesi ise ticari kara taşıtları için düzenlenen taşıt giriş-çıkış formuna vurulur; “Çalışma izninden muaftır” şerhi ikamet tezkeresinde bulunan bir kayıttır, ayniyet şerhi ise yeniden ihraçta muayene memurunun eşyanın ilk giriş ayniyetine uygunluğu hakkında ihracat beyannamesine verdiği şerhtir. Bu nedenle doğru cevap E seçeneğidir. (MD Kara Taşıtları GGT 5/1, 5/3, 7/1, 11/4; GY 387/5)"
 },
 {
 "id": "D10-094",

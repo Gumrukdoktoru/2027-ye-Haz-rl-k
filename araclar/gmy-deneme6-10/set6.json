@@ -1285,14 +1285,14 @@
 "Yalnız III",
 "I ve II",
 "II ve III",
-"II ve IV"
+"II, III ve IV"
 ],
 "opts": [
 "Yalnız II",
 "Yalnız III",
 "I ve II",
 "II ve III",
-"II ve IV"
+"II, III ve IV"
 ],
 "tuzak": false,
 "g": "Süresi içinde işlemlerine başlanmayan eşya geçici depolama yeri işleticisince antrepoya kaldırılabilir; ancak bu işlemler sırasında eşya hakkında tasfiye hükümlerinin uygulanmasına devam olunur, bu nedenle II yanlıştır. Eşyanın risk ve hesabına özel bir yere sevki, re'sen imhanın en az üç kişilik komisyonca karara bağlanması ve cebri icra yoluyla satışta yükümlülüklerin satın alana ait olması mevzuata uygundur. (MD GK 50/2; GY 86/2, 98/A, 98)",
@@ -1325,14 +1325,14 @@
 "Yalnız II",
 "Yalnız III",
 "I ve III",
-"II, III ve IV"
+"III ve IV"
 ],
 "opts": [
 "Yalnız II",
 "Yalnız III",
 "I ve III",
 "II ve III",
-"II, III ve IV"
+"III ve IV"
 ],
 "tuzak": false,
 "g": "Yönetmeliğe göre gümrük müşavirlerince kurulan tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmesi için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir; bu nedenle I doğru, III yanlıştır. Şirket ortağı dışındaki üçüncü kişilere ancak sınırlandırılmış temsil yetkisi verilebileceğinden II yanlıştır; şirketlerin hizmet karşılığı şirketleri adına fatura kesme zorunluluğuna ilişkin IV ise doğrudur. (MD GY 563/5-6)",
@@ -1364,15 +1364,15 @@
 "c": [
 "Yalnız I",
 "II ve III",
-"I, II ve III",
-"I, III ve IV"
+"II ve IV",
+"I, II ve III"
 ],
 "opts": [
 "Yalnız I",
 "I ve III",
 "II ve III",
-"I, II ve III",
-"I, III ve IV"
+"II ve IV",
+"I, II ve III"
 ],
 "tuzak": false,
 "g": "Bağlayıcı menşe bilgisi başvurusunun gerekli bilgi ve belgelerin tamamını içermesi zorunludur, eksiklikte başvuru sahibinden tamamlaması istenir; başvuru da yalnızca bir kalem eşya için yapılır; bu nedenle I ve III doğrudur. Dünya Gümrük Örgütü kararlarındaki değişikliğe uymama bağlayıcı tarife bilgisinin geçersizlik nedenidir; bağlayıcı menşe bilgisinde ölçüt Dünya Ticaret Örgütü Menşe Kuralları Anlaşmasındaki değişikliktir (II yanlış). Bildirimde Kanunda öngörülen itiraz yolunun açık olduğu belirtilir (IV yanlış). (MD GK 9/6; GY 29/2-3, 29/5)",
@@ -2128,14 +2128,14 @@
 "d": "I ve II",
 "c": [
 "I ve IV",
-"II ve III",
+"III ve IV",
 "I, II ve III",
 "I, II ve IV"
 ],
 "opts": [
 "I ve II",
 "I ve IV",
-"II ve III",
+"III ve IV",
 "I, II ve III",
 "I, II ve IV"
 ],
@@ -2478,21 +2478,21 @@
 "konu": "Akaryakıt-Kumanya",
 "tip": "T1",
 "z": "OÜ",
-"madde": "Gümrük Yönetmeliği m.478/2, 479/1, 480/2, 480/3, 482/4",
+"madde": "Gümrük Yönetmeliği m.476/1, 478/2, 479/1, 480/2, 480/3",
 "cek": "Taahhütnameyle işlem yürüten bunker ve liman bayilerinin gemilere yağ-yakıt verilmesine ilişkin her başvurusunda kaptan veya acentenin talep ya da izin yazısı aranır.",
 "kok": [
-"Gümrük Yönetmeliğine göre, gemilere verilecek yakıt ve kumanya ile bunker ve liman bayilerinin bu kapsamdaki işlemlerine ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
+"Gümrük Yönetmeliğine göre, deniz ve hava taşıtlarına verilecek yakıt ve kumanyaya ilişkin gümrük işlemleri ile Türk bandıralı gemilerin yakıt ve kumanya kayıtları hakkında aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
 "d": "Gerekli şartları ispat eden belgeleri teminatla birlikte ilgili gümrüğe ibraz edip taahhütnameyi dolduran bunker ve liman bayileri, gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir; bu firmaların her başvurusunda ayrıca ilgili kaptan veya gemi acentesinin talep ya da izin yazısının gümrük idaresine ibrazı aranmaz.",
 "c": [
 "Türkiye Gümrük Bölgesi dışına sefer yapan Türk bandıralı gemilerde tutulan yakıt ve kumanya defterine, yakıt ve kumanyanın gümrük tarife istatistik pozisyonu ile miktarı ve beyanname ile faturanın numara ve tarihi yazılır; yazılan kaydın alt kısmı gümrük idaresince resmî mühürle mühürlenerek imza edilir.",
 "Türk bandıralı gemilerin yabancı limanlardan gelişlerinde verilen listede, Türkiye'de serbest dolaşımdaki maddelerden ya da geçici depolama yerleri ve antrepolardan tedarik edilen yakıt ve kumanyaların cins ve miktarı ile bunlara ait transit veya ihracat beyannamelerinin numara ve tarihi de yer alır.",
 "Gümrük idaresinde ilgili memurlar, Türk bandıralı gemilerin yabancı limanlardan gelişlerinde verilen yakıt ve kumanya listesini yakıt ve kumanya defteri ile karşılaştırarak beyan edilen miktarın defter kayıtlarına uygunluğunu inceler.",
-"Dış seferden dönen geminin üç ay içinde yabancı limanlara çıkmamasının zorunlu nedenlerden kaynaklandığı ilgili gümrük idaresine belgelendirilirse, transit akaryakıt ve kumanyanın vergilendirilmesine esas olan bu sürenin uzatılmasına gümrük ve muhafaza başmüdürlükleri yetkilidir."
+"Geçici depolama yeri veya antrepoda bulunan ve henüz serbest dolaşıma girmemiş yakıt ve yağlar, deniz ve hava taşıtlarına olduğu gibi transit rejimi hükümleri çerçevesinde kaçakçılıkla mücadele eden birimlere de verilir."
 ],
 "tuzak": true,
-"g": "Yönetmeliğe göre şartları ispat eden belgeleri teminatla birlikte ibraz edip taahhütnameyi dolduran bunker ve liman bayileri gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir; ancak bu firmaların her başvurusunda ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibrazı şarttır, bu yazının aranmadığı ifadesi yanlıştır. Yakıt ve kumanya defterine tarife istatistik pozisyonu, miktar ile beyanname ve fatura bilgilerinin yazılıp mühürlenmesi, yabancı limandan gelişte verilen listede Türkiye'den tedarik edilenlerin beyanname bilgilerinin de yer alması ve memurlarca defterle karşılaştırılması ile zorunlu nedenle üç aylık sürenin uzatılmasına gümrük ve muhafaza başmüdürlüklerinin yetkili olması Yönetmelik hükümleridir. (MD GY 478/2, 479/1, 480/2-3, 482/4)",
-"kanit": "42-kumanya.txt | Bu firmaların gemilere yağ ve yakıt verilmesine ilişkin her başvurularında ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibrazı şarttır. || 42-kumanya.txt | Evvelce Türkiye'de, serbest dolaşımda olan maddelerden veya geçici depolama yerleri ve antrepolardan tedarik edilen yakıt ve kumanyaların cins ve miktarı ve bunlar için evvelce verilmiş olan transit veya ihracat beyannamelerinin numara ve tarihi || 42-kumanya.txt | bu sürenin uzatılmasına gümrük ve muhafaza başmüdürlükleri yetkilidir",
+"g": "Yönetmeliğe göre şartları ispat eden belgeleri teminatla birlikte ibraz edip taahhütnameyi dolduran bunker ve liman bayileri gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir; ancak bu firmaların her başvurusunda ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibrazı şarttır, bu yazının aranmadığı ifadesi yanlıştır. Yakıt ve kumanya defterine tarife istatistik pozisyonu, miktar ile beyanname ve fatura bilgilerinin yazılıp mühürlenmesi, yabancı limandan gelişte verilen listede Türkiye'den tedarik edilenlerin beyanname bilgilerinin de yer alması ve memurlarca defterle karşılaştırılması ile geçici depolama yeri veya antrepodaki serbest dolaşıma girmemiş yakıt ve yağların bu kapsamda kaçakçılıkla mücadele eden birimlere de verilmesi Yönetmelik hükümleridir. (MD GY 476/1, 478/2, 479/1, 480/2-3)",
+"kanit": "42-kumanya.txt | Bu firmaların gemilere yağ ve yakıt verilmesine ilişkin her başvurularında ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibrazı şarttır. || 42-kumanya.txt | Evvelce Türkiye'de, serbest dolaşımda olan maddelerden veya geçici depolama yerleri ve antrepolardan tedarik edilen yakıt ve kumanyaların cins ve miktarı ve bunlar için evvelce verilmiş olan transit veya ihracat beyannamelerinin numara ve tarihi || 42-kumanya.txt | Kaçakçılıkla mücadele eden birimlere bu kapsamda yakıt ve yağ verilir.",
 "batch": "K14",
 "no": 69,
 "harf": "E",
@@ -2500,12 +2500,12 @@
 "Türkiye Gümrük Bölgesi dışına sefer yapan Türk bandıralı gemilerde tutulan yakıt ve kumanya defterine, yakıt ve kumanyanın gümrük tarife istatistik pozisyonu ile miktarı ve beyanname ile faturanın numara ve tarihi yazılır; yazılan kaydın alt kısmı gümrük idaresince resmî mühürle mühürlenerek imza edilir.",
 "Türk bandıralı gemilerin yabancı limanlardan gelişlerinde verilen listede, Türkiye'de serbest dolaşımdaki maddelerden ya da geçici depolama yerleri ve antrepolardan tedarik edilen yakıt ve kumanyaların cins ve miktarı ile bunlara ait transit veya ihracat beyannamelerinin numara ve tarihi de yer alır.",
 "Gümrük idaresinde ilgili memurlar, Türk bandıralı gemilerin yabancı limanlardan gelişlerinde verilen yakıt ve kumanya listesini yakıt ve kumanya defteri ile karşılaştırarak beyan edilen miktarın defter kayıtlarına uygunluğunu inceler.",
-"Dış seferden dönen geminin üç ay içinde yabancı limanlara çıkmamasının zorunlu nedenlerden kaynaklandığı ilgili gümrük idaresine belgelendirilirse, transit akaryakıt ve kumanyanın vergilendirilmesine esas olan bu sürenin uzatılmasına gümrük ve muhafaza başmüdürlükleri yetkilidir.",
+"Geçici depolama yeri veya antrepoda bulunan ve henüz serbest dolaşıma girmemiş yakıt ve yağlar, deniz ve hava taşıtlarına olduğu gibi transit rejimi hükümleri çerçevesinde kaçakçılıkla mücadele eden birimlere de verilir.",
 "Gerekli şartları ispat eden belgeleri teminatla birlikte ilgili gümrüğe ibraz edip taahhütnameyi dolduran bunker ve liman bayileri, gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir; bu firmaların her başvurusunda ayrıca ilgili kaptan veya gemi acentesinin talep ya da izin yazısının gümrük idaresine ibrazı aranmaz."
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yönetmeliğe göre şartları ispat eden belgeleri teminatla birlikte ibraz edip taahhütnameyi dolduran bunker ve liman bayileri gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir; ancak bu firmaların her başvurusunda ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibrazı şarttır, bu yazının aranmadığı ifadesi yanlıştır. Yakıt ve kumanya defterine tarife istatistik pozisyonu, miktar ile beyanname ve fatura bilgilerinin yazılıp mühürlenmesi, yabancı limandan gelişte verilen listede Türkiye'den tedarik edilenlerin beyanname bilgilerinin de yer alması ve memurlarca defterle karşılaştırılması ile zorunlu nedenle üç aylık sürenin uzatılmasına gümrük ve muhafaza başmüdürlüklerinin yetkili olması Yönetmelik hükümleridir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 478/2, 479/1, 480/2-3, 482/4)"
+"g_harfli": "Yönetmeliğe göre şartları ispat eden belgeleri teminatla birlikte ibraz edip taahhütnameyi dolduran bunker ve liman bayileri gemilere yağ ve yakıt verilmesine ilişkin işlemleri yürütebilir; ancak bu firmaların her başvurusunda ilgili kaptan veya gemi acentesinin talep veya izin yazısını gümrük idaresine ibrazı şarttır, bu yazının aranmadığı ifadesi yanlıştır. Yakıt ve kumanya defterine tarife istatistik pozisyonu, miktar ile beyanname ve fatura bilgilerinin yazılıp mühürlenmesi, yabancı limandan gelişte verilen listede Türkiye'den tedarik edilenlerin beyanname bilgilerinin de yer alması ve memurlarca defterle karşılaştırılması ile geçici depolama yeri veya antrepodaki serbest dolaşıma girmemiş yakıt ve yağların bu kapsamda kaçakçılıkla mücadele eden birimlere de verilmesi Yönetmelik hükümleridir. Bu nedenle doğru cevap E seçeneğidir. (MD GY 476/1, 478/2, 479/1, 480/2-3)"
 },
 {
 "id": "D6-070",
@@ -2556,26 +2556,26 @@
 "d": "Gümrük idare amirinin oluru ile gümrük müdürlüklerince",
 "c": [
 "Gümrük idare amirinin oluru ile bölge müdürlüklerince",
-"Genel Müdürlüğün onayı ile gümrük müdürlüklerince",
-"Genel Müdürlüğün onayı ile bölge müdürlüklerince",
-"Bakanlığın onayı ile gümrük müşavirlerince"
+"Bölge müdürünün oluru ile gümrük müdürlüklerince",
+"Gümrük idare amirinin oluru ile gümrük müşavirlerince",
+"Genel Müdürlüğün onayı ile bölge müdürlüklerince"
 ],
 "tuzak": true,
-"g": "Yükümlü talebi üzerine veya beyanın kontrolü sonucunda beyannamelerde yapılacak değişiklikler gümrük idare amirinin oluru ile gümrük müdürlüklerince yapılır ve bu hüküm eşyanın tesliminden sonraki düzeltmeler için de geçerlidir. Değişiklik için Genel Müdürlük veya Bakanlık onayı aranmadığı gibi işlem bölge müdürlüklerince ya da gümrük müşavirlerince de yapılmaz. (MD GY 194/2)",
+"g": "Yükümlü talebi üzerine veya beyanın kontrolü sonucunda beyannamelerde yapılacak değişiklikler gümrük idare amirinin oluru ile gümrük müdürlüklerince yapılır ve bu hüküm eşyanın tesliminden sonraki düzeltmeler için de geçerlidir. Değişiklik için bölge müdürünün oluru ya da Genel Müdürlüğün onayı aranmaz; değişikliği bölge müdürlükleri veya gümrük müşavirleri değil, gümrük müdürlükleri yapar. (MD GY 194/2)",
 "kanit": "17-BEYAN.txt | beyannamelerde yapılacak değişiklikler gümrük idare amirinin oluru ile gümrük müdürlüklerince yapılır. Bu hüküm, eşyanın tesliminden sonra yapılacak düzeltmeler için de geçerlidir",
 "batch": "K05",
 "no": 71,
 "harf": "D",
 "opts": [
 "Gümrük idare amirinin oluru ile bölge müdürlüklerince",
-"Genel Müdürlüğün onayı ile gümrük müdürlüklerince",
-"Genel Müdürlüğün onayı ile bölge müdürlüklerince",
+"Bölge müdürünün oluru ile gümrük müdürlüklerince",
+"Gümrük idare amirinin oluru ile gümrük müşavirlerince",
 "Gümrük idare amirinin oluru ile gümrük müdürlüklerince",
-"Bakanlığın onayı ile gümrük müşavirlerince"
+"Genel Müdürlüğün onayı ile bölge müdürlüklerince"
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yükümlü talebi üzerine veya beyanın kontrolü sonucunda beyannamelerde yapılacak değişiklikler gümrük idare amirinin oluru ile gümrük müdürlüklerince yapılır ve bu hüküm eşyanın tesliminden sonraki düzeltmeler için de geçerlidir. Değişiklik için Genel Müdürlük veya Bakanlık onayı aranmadığı gibi işlem bölge müdürlüklerince ya da gümrük müşavirlerince de yapılmaz. Bu nedenle doğru cevap D seçeneğidir. (MD GY 194/2)"
+"g_harfli": "Yükümlü talebi üzerine veya beyanın kontrolü sonucunda beyannamelerde yapılacak değişiklikler gümrük idare amirinin oluru ile gümrük müdürlüklerince yapılır ve bu hüküm eşyanın tesliminden sonraki düzeltmeler için de geçerlidir. Değişiklik için bölge müdürünün oluru ya da Genel Müdürlüğün onayı aranmaz; değişikliği bölge müdürlükleri veya gümrük müşavirleri değil, gümrük müdürlükleri yapar. Bu nedenle doğru cevap D seçeneğidir. (MD GY 194/2)"
 },
 {
 "id": "D6-072",
