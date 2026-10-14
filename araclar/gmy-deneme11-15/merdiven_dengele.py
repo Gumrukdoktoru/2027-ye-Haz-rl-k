@@ -70,6 +70,8 @@ for f, q in SORU:
             kalan = len(eski & {tuple(y) for y in Y})
             key = (round(sap + LAMBDA * (5 - kalan), 6), -kalan)
             if best is None or key < best[0]: best = (key, Y)
+        if best is None:  # geçerli aday yok ve mevcut merdiven kısıt dışı: dokunma, raporla
+            rapor.append(f"?? {q['id']}: geçerli merdiven adayı yok (mevcut merdiven korunur)"); TOP1 = [a + b for a, b in zip(TOP1, v0)]; continue
         Y = best[1]; TOP1 = [a + b for a, b in zip(TOP1, vektor(Y, k))]
         if sorted(map(tuple, Y)) == sorted(map(tuple, O)): continue
         h0, h1 = isabet(O, k), isabet(Y, k)
