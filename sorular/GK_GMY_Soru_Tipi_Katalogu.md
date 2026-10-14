@@ -15,7 +15,7 @@
 - Tipi, kökün son yüklemi ve şıkların biçimi belirler. Kök "yanlıştır" dese bile şıklar bir listenin kısa öğeleriyse soru O1'dir, O2 değildir. Sınır durumlar Bölüm 4'te.
 - "5 yıl" = 2021–2025 toplamı (500 soru). "24–25" = 2024 ve 2025 toplamı (200 soru); son eğilimi gösterir.
 - Alanlar: genel kültür (1–20) TÜRKÇE · MATEMATİK · TARİH · HUKUK (her biri 25); gümrük (21–100) TEMEL (GK, GY, 2009/15481 Karar) 311 · ALT (tebliğ, genelge, diğer yönetmelik/karar) 58 · KAÇAKÇILIK (5607 ve yönetmelikleri) 26 · HESAP 5.
-- Cevap anahtarı: 2021–2024 kitapçıklarında doğru şık kırmızıyla işaretli (resmî anahtar, 400 soru). 2025 kitapçığı cevapsızdır; 2025 cevapları mevzuattan türetildi (100 soru: 86 yüksek, 11 orta, 3 düşük güven). Harf istatistikleri yalnız resmî anahtarla, doğru şık uzunluk konumu 2025 dahil 500 soru üzerinden hesaplandı.
+- Cevap anahtarı: 2021–2024 kitapçıklarında doğru şık kırmızıyla işaretli (resmî anahtar, 400 soru). 2025 için depodaki B kitapçığı cevapsız; gmy-ikmislar deposundaki yanıt anahtarlı A kitapçığının resmî cevapları soru metni eşleştirmesiyle B numaralarına taşındı (100/100 eşleşme). Kartlardaki "resmî" harf dağılımları 2021–2024 üzerinden; 2025 resmî harf dağılımı 1.5'te ayrıca verildi. Doğru şık uzunluk konumu 500 soru üzerinden.
 - Örnekler kitapçıktan aynen alındı; yalnız satır sonları birleştirildi. Doğru şık ✔ ile işaretlendi.
 
 ### Kod sözlüğü (özet)
@@ -134,7 +134,7 @@
 | F_MADDENO | 3 | 4 | 7 | 13 | 11 | 38 | 8 (24–25: 12) |
 | F_MATRIS | 3 | 7 | 7 | 8 | 5 | 30 | 6 (24–25: 6) |
 | F_MUTLAK | 4 | 6 | 1 | 5 | 5 | 21 | 4 (24–25: 5) |
-| F_TUMU | 3 | 2 | 2 | 1 | 3 | 11 | 2 (24–25: 2) |
+| F_TUMU | 3 | 2 | 2 | 1 | 4 | 12 | 2 (24–25: 2) |
 | F_YALNIZ | 0 | 2 | 1 | 3 | 4 | 10 | 2 (24–25: 4) |
 | F_GUNCEL | 1 | 2 | 0 | 3 | 3 | 9 | 2 (24–25: 3) |
 | F_TUZAKVERI | 0 | 0 | 0 | 0 | 3 | 3 | 1 (24–25: 2) |
@@ -146,12 +146,13 @@
 | Ölçü | Bulgu | Soru üretiminde karşılığı |
 |---|---|---|
 | Doğru harf (resmî anahtar, 2021–2024, 400 soru) | A 62 · B 85 · C 87 · D 77 · E 89 | A az (%15,5). Deneme setinde harf dağılımı N/5 ± 2; A'yı bilinçli olarak eksik bırakma |
+| Doğru harf, 2025 resmî anahtar (A kitapçığından eşlendi) | A 11 · B 21 · C 24 · D 22 · E 22 | 2025'te de A en az; 500 sorunun tamamında A %14,6 |
 | Doğru harf yıl yıl | 2021: A 20 · B 18 · C 21 · D 19 · E 22 / 2022: A 14 · B 19 · C 19 · D 23 · E 25 / 2023: A 11 · B 20 · C 26 · D 23 · E 20 / 2024: A 17 · B 28 · C 21 · D 12 · E 22 | Yıllar arası oynaklık büyük; tek yılın dağılımını hedef alma |
 | Art arda aynı doğru harf (99 komşu çift) | 2021: 12 · 2022: 18 · 2023: 19 · 2024: 16 | Gerçek sınavda olağan; Prompt 3 bunu yasaklıyor (bkz. Bölüm 6) |
-| Doğru şık uzunluğu, cümle/eşleşme şıklı sorular | orta %53 · en uzun %25 · en kısa %22 (n=143) | Doğru şıkkı çoğunlukla orta uzunlukta yaz |
-| Olumsuz kökte bozuk şık (O2, O3) | orta %56 · en uzun %17 · en kısa %28 (n=54) | Bozuk şık en kısa olma eğiliminde (%28); her seferinde kısa yazma |
+| Doğru şık uzunluğu, cümle/eşleşme şıklı sorular | orta %53 · en uzun %24 · en kısa %22 (n=143) | Doğru şıkkı çoğunlukla orta uzunlukta yaz |
+| Olumsuz kökte bozuk şık (O2, O3) | orta %56 · en uzun %15 · en kısa %30 (n=54) | Bozuk şık en kısa olma eğiliminde (%28); her seferinde kısa yazma |
 | Olumlu kökte doğru şık (G1–G4) | orta %50 · en uzun %32 · en kısa %18 (n=22) | En uzun şıkkı doğru yapma eğilimi hafif |
-| Öncüllü cevap (Ö + E2, n=40) | ara kombinasyon 20 (%50) · Yalnız X 9 (%22) · tüm öncüller 11 (%28) | Bu oranlara yakın dağıt |
+| Öncüllü cevap (Ö + E2, n=40) | ara kombinasyon 19 (%48) · Yalnız X 9 (%22) · tüm öncüller 12 (%30) | Bu oranlara yakın dağıt |
 | Liste öncüllüde "hepsi" (Ö3) | 8/22 soru (%36); resmî Ö3'te doğru harf E 10/14 | Ö3'te "tümü" cevabını kullan, ama E'ye sabitleme |
 | Öncül sayısı (Ö, n=39) | 3 öncül 15 · 4 öncül 17 · 5 öncül 7 | Varsayılan 4 öncül; 3 öncül de sık (Prompt 3: en az 3) |
 | Tek değer (D1, resmî) | A 7 · B 17 · C 13 · D 13 · E 4 | Sıralı sayı şıklarında doğru değeri B–D arasına yığma |
@@ -170,11 +171,11 @@
 5. **Tanım → kavram (K1) GMY'ye özgü.** 48 soru (%10; GM'de %2). "Ne ad verilir / aşağıdakilerden hangisidir" kalıbı. Ancak eriyor: 16 → 9 → 10 → 7 → 6.
 6. **Tek değer (D1) GMY'de erimiyor.** 12-14-16-12-11 (GM'de 9 → 1). Çıplak süre, oran, tutar soruları sürüyor; 2025'te de 11. Sıralı sayı şıklarında doğru harf B 17, C 13, D 13; E yalnız 4.
 7. **Olumsuz kök azalıyor, öncüllü yükseliyor.** Gümrükte O 31-36-24-29-20; Ö 7-3-5-7-17. 2025'te öncüllü soru ilk kez 17'ye çıktı: koşul öncüllü (Ö4) 3, hangileri doğrudur (Ö1) 4, liste öncüllü (Ö3) 8.
-8. **Bozuk cümlede (O2) polarite tersi baskın.** 53 tekniğin 23'ü polarite (alınır → alınmaz, sayılır → sayılmaz), 10'u süre/sayı, 9'u kavram/belge etiketi, 5'i makam kaydırma. GM'de polarite %23'tü; GMY'de %43.
+8. **Bozuk cümlede (O2) polarite tersi baskın.** 52 sorunun 22'si polarite (alınır → alınmaz, sayılır → sayılmaz), 10'u süre/sayı, 10'u kavram/belge etiketi, 5'i makam kaydırma. GM'de polarite %23'tü; GMY'de %42.
 9. **Bozuk şık uzunlukla kısmen ele veriyor.** O2/O3'te bozuk şık 54 sorunun 15'inde en kısa, 9'unda en uzun, 30'unda orta. "Kısa şık bozuktur" GMY'de %28 doğru (rastlantı %20): hafif bir eğilim, kural değil.
 10. **Liste öncüllüde "hepsi" ve E.** Ö3'te 22 sorunun 8'inde cevap tüm öncüller (%36); resmî anahtarlı 14 Ö3'ün 10'unda doğru harf E. Kurum "hepsi olamaz" önyargısını hedefliyor ve "I, II, III ve IV"ü E'ye koyuyor.
 11. **Alt mevzuat ve dayanak gösterimi artıyor.** Gümrükte tebliğ/genelge/diğer karar soruları 7 → 21 (2025); kaçakçılık 10 → 3; hesap 0 → 3. Kökte mevzuat adı 46 → 60; kökte madde numarası 3 → 13 (2024) ve 11 (2025). Numara cevap değil, dayanak gösterimi ("176 ncı maddesi uyarınca").
-12. **Harf parmak izi: A az, art arda aynı harf olağan.** Resmî 400 cevapta A 62 (%15,5), B 85, C 87, D 77, E 89. Art arda aynı doğru harf her yıl 12–19 kez görülüyor (99 komşu çiftte; rastlantı beklentisi yaklaşık 20). Prompt 3'teki "art arda aynı harf yok" kuralı gerçek sınavdan daha katı bir tercihtir.
+12. **Harf parmak izi: A az, art arda aynı harf olağan.** Resmî 2021–2024 anahtarında A 62 (%15,5), B 85, C 87, D 77, E 89; 2025 resmî anahtarında da A yalnız 11 (500 sorunun tamamında A 73, %14,6). Art arda aynı doğru harf her yıl 12–19 kez görülüyor (99 komşu çiftte; rastlantı beklentisi yaklaşık 20). Prompt 3'teki "art arda aynı harf yok" kuralı gerçek sınavdan daha katı bir tercihtir.
 
 ## 3. ALT TİP KARTLARI
 
@@ -269,17 +270,16 @@ GMY'de olumsuz kök iki dille sorulur: kapalı listede olmayanı bulmak (O1, 98)
 
 **Kurgu:** A–D tebliğ, uzlaşma ve itiraz hükümleri aynen; iki doğru şıkta "15 gün" var. Cevapta itirazı karara bağlama süresi otuz gün → 60 gün.
 
-**Doğru cevap nasıl kuruluyor?** Bozma tekniği dağılımı (2025/86 iki kodlu, toplam 53):
+**Doğru cevap nasıl kuruluyor?** Bozma tekniği dağılımı (n=52):
 
 | Teknik | Soru | Gerçek örnekler |
 |---|---|---|
-| Polarite tersi (yasak → izin, aranır → aranmaz, sorumludur → sorumlu değildir) | 23 (%44) | 2022/60 geçici ithalat eşyası "satılabilir", 2024/69 aynı yasak "kiralanabilir" · 2022/100 stajyerler iş takibi "yapabilirler" · 2022/96 eşya sahibi laboratuvara "doğrudan numune gönderebilir" · 2023/76 kasıtlı tahrifatta "geri verilebilir" · 2022/37 nihai kullanım kapsamı "devredilemez" · 2021/37 gümrük müşavir yardımcıları "ortak olamazlar" · 2021/23 yerleşik olma "şartı aranmaz" · 2024/74 vergiler "teminata bağlanmaz" · 2021/31 ve 2022/52 alıcının pazarlama faaliyetleri dolaylı ödeme "olarak değerlendirilir" · 2025/54 yolcu eşyasına GK 57 "uygulanır" |
+| Polarite tersi (yasak → izin, aranır → aranmaz, sorumludur → sorumlu değildir) | 22 (%42) | 2022/60 geçici ithalat eşyası "satılabilir", 2024/69 aynı yasak "kiralanabilir" · 2022/100 stajyerler iş takibi "yapabilirler" · 2022/96 eşya sahibi laboratuvara "doğrudan numune gönderebilir" · 2023/76 kasıtlı tahrifatta "geri verilebilir" · 2022/37 nihai kullanım kapsamı "devredilemez" · 2021/37 gümrük müşavir yardımcıları "ortak olamazlar" · 2021/23 yerleşik olma "şartı aranmaz" · 2024/74 vergiler "teminata bağlanmaz" · 2021/31 ve 2022/52 alıcının pazarlama faaliyetleri dolaylı ödeme "olarak değerlendirilir" · 2025/54 yolcu eşyasına GK 57 "uygulanır" |
 | Süre / sayı kaydırma | 10 (%19) | 2023/77 itirazı karara bağlama otuz gün → 60 gün · 2024/84 geri verme talebini karara bağlama otuz gün → kırk beş gün · 2022/89 GK 211 başvuru süresi üç yıl → bir yıl (GK 214'ün süresi) · 2025/26 kusurlu eşyada bir yıl → 3 yıl (GK 211'in süresi) · 2021/32 taşıtların geçici çıkış süresi üç yıl → beş yıl · 2022/84 otobüs deposu sınırı yerine TIR çekicinin 550 litresi · 2024/98 puro 50 → 100 adet · 2022/36 ceza gümrüklenmiş değerin iki katı → vergiler tutarında · 2024/72 kısmi muafiyette aylık %3 → vergilerin tamamı |
-| Kavram / belge / kanun etiketi değiştirme | 9 (%17) | 2021/79 TCK zamanaşımı → "6183 sayılı Kanun" tahsil zamanaşımı ve 2021/80 "bu Kanun" → "6183 sayılı Kanun" (arka arkaya aynı hile) · 2021/98 TCK müsaderesi → 3628 sayılı Kanun · 2021/33 gümrük gözetimi → gümrük kontrolü · 2023/65 ve 2024/51 şartlı muafiyet sistemi ↔ geri ödeme sistemi · 2024/54 TEV'de ihracat → ithalat beyannamesi · 2022/35 IV sayılı listenin içeriği I sayılı listeye · 2024/100 özet beyan → rejim beyanı |
+| Kavram / belge / kanun etiketi değiştirme | 10 (%19) | 2025/86 gümrük statü belgesi → "menşeini ispatlayıcı" (statü → menşe) · 2021/79 TCK zamanaşımı → "6183 sayılı Kanun" tahsil zamanaşımı ve 2021/80 "bu Kanun" → "6183 sayılı Kanun" (arka arkaya aynı hile) · 2021/98 TCK müsaderesi → 3628 sayılı Kanun · 2021/33 gümrük gözetimi → gümrük kontrolü · 2023/65 ve 2024/51 şartlı muafiyet sistemi ↔ geri ödeme sistemi · 2024/54 TEV'de ihracat → ithalat beyannamesi · 2022/35 IV sayılı listenin içeriği I sayılı listeye · 2024/100 özet beyan → rejim beyanı |
 | Makam / kişi kaydırma | 5 (%10) | 2022/79 dolaylı temsilde ad ve hesap yer değiştirmiş · 2024/35 ek mali yükümlülüğü tahsil eden gümrük idaresi → vergi dairesi · 2023/82 antrepo giriş-çıkışında YGM → stajyer · 2025/56 hak ve yükümlülükler devralan → devreden · 2025/81 yaygın götürü teminatta bölge müdürlüğü → gümrük müdürlüğü |
 | Kapsam daraltma / genişletme | 3 (%6) | 2022/21 gümrüklenmiş değerden gümrük vergileri atılıp CIF/FOB'a indirilmiş · 2022/85 şahsi eşya = kişisel eşya · 2024/43 "beyan sahibinin talebi üzerine" → "talebi olsun olmasın" |
 | Zaman / yer kaydırma | 2 (%4) | 2021/24 saklama süresi tescil yılının sonundan → başından · 2025/38 BTB geçerlilik kaybı Resmî Gazete'de yayım tarihinden → yasal sürenin dolmasını takiben |
-| Uydurma hüküm | 1 (%2) | 2025/86 serbest bölgedeki eşyaya "gümrük kontrolü altında işleme rejimine tabi tutulamaz" (polariteyle birlikte; anahtar güveni düşük) |
 
 **Çeldiriciler:** Dört doğru cümle, çoğu kez aynı maddenin fıkraları aynen. GMY'de üç hile öne çıkıyor:
 - İkiz şık: doğru cümlenin yanında tek unsuru farklı bozuk ikizi (2024/43 B "talebi üzerine" – E "talebi olsun olmasın"; 2021/31 D "ilave edilmez" – E "dolaylı bir ödeme olarak değerlendirilir"; 2024/54 A "ihracına" – B "ithalata"). 2025/26'da B–C ikizi (transit / antrepo) ikisi de doğru.
@@ -290,12 +290,12 @@ GMY'de olumsuz kök iki dille sorulur: kapalı listede olmayanı bulmak (O1, 98)
 
 **Üretim tarifi:**
 - Tek hükümden (aynı maddenin fıkraları) beş cümle çıkar. Kök = mevzuat adı + hükmün konusu + "ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"; "Gümrük mevzuatına göre" ya da yalnız konu ile açılan genel kökü kullanma. Madde numarası kökte ve şıkta yer almasın (2025/54 kökünde, 2024/50 ve 2024/54 şıklarında numara var; kopyalama). Karar hükmünde 2009/15481 sayılı Karar kalıbını kullan.
-- Bozulacak unsuru seç. GMY'de polarite O2'lerin %44'ü; sette polariteyi bu oranın üstüne çıkarma, kalanı süre/sayı, etiket ve makama dağıt.
+- Bozulacak unsuru seç. GMY'de polarite O2'lerin %42'si; sette polariteyi bu oranın üstüne çıkarma, kalanı süre/sayı, etiket ve makama dağıt.
 - Bozulan unsur gerçek komşu olsun: aynı kanunun başka süresi (2022/89 bir yıl = GK 214; 2025/26 3 yıl = GK 211), başka kanun (6183, 3628), ikiz kavram (şartlı muafiyet / geri ödeme; ithalat / ihracat beyannamesi), komşu makam (bölge müdürlüğü / gümrük müdürlüğü; gümrük idaresi / vergi dairesi).
 - Dört doğru cümleyi mevzuattan aynen al; mevzuatta "sadece / her türlü" geçiyorsa o cümleyi doğru şık olarak koru. Doğru cümlelerden birini bozuk şıkkın ikizi yap (2024/43, 2021/31).
 - Polaritede bozuk cümle kısalıyor: bozuk şıkkı orta uzunlukta yaz ya da yanına aynı boyda kısa doğru cümleler koy (2022/60'ta C ve D). Cevabı harflere dağıt (GMY'de A yalnız 3/45).
 
-**Kaçın:** İkinci yanlış aday bırakmak (2022/84'te A kaynakta genel hüküm olarak yok; 2025/86'da B de Yönetmelikle uyuşmuyor) · Kökteki dayanakla bozulan cümlenin dayanağını ayırmak (2021/36: kök Kanun, bozulan cümle Yönetmelikten) · Kaynakta doğrulanamayan "doğru" cümle (2024/100'de A–C ve E kaynak metinde doğrulanamadı).
+**Kaçın:** İkinci yanlış aday bırakmak (2022/84'te A kaynakta genel hüküm olarak yok) · Kökteki dayanakla bozulan cümlenin dayanağını ayırmak (2021/36: kök Kanun, bozulan cümle Yönetmelikten) · Kaynakta doğrulanamayan "doğru" cümle (2024/100'de A–C ve E kaynak metinde doğrulanamadı).
 
 #### O3 — Çift olumsuz / ters kurgu
 
@@ -564,14 +564,14 @@ Yıllar 7-3-5-7-17: 2025'te öncüllü sıçradı (Ö3 8, Ö1 4, Ö4 3, Ö2 2) v
 
 **Kurgu:** II ve III Gümrük Yönetmeliği 67 aynen. I'de giriş gümrük idaresi "çıkış" yapılmış (yer kaydırma), IV'te uzun mesafeli uçuşta dört saat "sekiz saat" (süre kaydırma).
 
-**Doğru cevap nasıl kuruluyor?** Teknik: TASIMA 3 · SURE_SAYI 2 · UYDURMA 2 · ZAMAN_YER 1 · MAKAM 1 · POLARITE 1 (iki kodlu sorular iki kez sayıldı).
+**Doğru cevap nasıl kuruluyor?** Teknik: TASIMA 3 · SURE_SAYI 2 · UYDURMA 1 · ZAMAN_YER 1 · MAKAM 1 · POLARITE 1 (iki kodlu sorular iki kez sayıldı).
 
 - Taşıma: kural komşu sisteme ya da komşu yükümlülüğe taşınır. 2025/63 V ve 2025/71 IV'te şartlı muafiyetin teminatı geri ödeme sistemine (aynı sınavda iki kez); 2024/85'te vergideki müteselsil sorumluluk ("biri öderse öteki kurtulur") idari para cezasına.
 - Süre/yer/makam kaydırma: 2023/74 yolcu eşyası ambarında üç ay → 1 yıl · 2024/86 dört saat → sekiz saat, giriş → çıkış idaresi · 2025/71 izin taahhüdünü kapatan gümrük idaresi → ihracatçı birlikleri.
-- Uydurma öncül: 2025/63 ikincil ürün "ekonomik değeri olmayan atıklar" · 2025/96 yönetmelikte olmayan zincirleme devir hakkı.
+- Uydurma öncül: 2025/63 ikincil ürün "ekonomik değeri olmayan atıklar".
 - Polarite: 2025/76 giriş yerine kadarki nakliye giderleri kıymete "ilave edilir" → "ilave edilmez".
 
-**Çeldiriciler:** Cevap 7 sorunun 6'sında ara kombinasyon, 1'inde "Yalnız III" (2024/85); Ö1'de tümü cevabı yok. Beş öncüllü 2025/63 ve 2025/71'de şıklar ikili ve üçlü kümeler; ne "Yalnız" ne tümü şıkkı var.
+**Çeldiriciler:** Cevap 7 sorunun 5'inde ara kombinasyon, 1'inde "Yalnız III" (2024/85), 1'inde tümü (2025/96: üç öncül de doğru). Beş öncüllü 2025/63 ve 2025/71'de şıklar ikili ve üçlü kümeler; ne "Yalnız" ne tümü şıkkı var.
 
 **Biçim verisi:** Şık türü kombinasyon 7 · Harf (resmî, n=3) B1 C2 · Öncül sayısı 3: 3, 5: 3, 4: 1 · Kökte dayanak 4/7 · F_MUTLAK 2, F_YALNIZ 1, F_GUNCEL 1.
 
@@ -579,10 +579,10 @@ Yıllar 7-3-5-7-17: 2025'te öncüllü sıçradı (Ö3 8, Ö1 4, Ö4 3, Ö2 2) v
 
 - Aynı hükümden ya da aynı tanım maddesinden 4 cümle al (en az 3). 1–2'sini boz; GMY'nin Ö1 tuzağı taşıma: kuralı komşu sisteme taşı (şartlı muafiyet ↔ geri ödeme, vergi ↔ ceza).
 - Bozuk öncüldeki değeri aynı maddede geçen başka bir değerden seç.
-- Cevabı ara kombinasyon yap; Ö1'de tümü hiç kullanılmadı.
+- Cevabı çoğunlukla ara kombinasyon yap; Ö1'de tümü yalnız bir kez (2025/96).
 - Kök: mevzuat adı + konu + kalıp. "4458 sayılı Gümrük Kanununa göre dahilde işleme rejimine ilişkin yukarıdaki tanımlardan hangileri doğrudur?" Karar dayanaklıda 2009/15481 kurum kalıbı (2025/76).
 
-**Kaçın:** Konu karması öncül ve genel kök (2023/74: üç ayrı hükümden süre, kök "Gümrük mevzuatındaki sürelere ilişkin") · yalnız "mevzuatta yer almadığı" için yanlış sayılan öncül (2025/96 II; güven orta).
+**Kaçın:** Konu karması öncül ve genel kök (2023/74: üç ayrı hükümden süre, kök "Gümrük mevzuatındaki sürelere ilişkin") · metinde açıkça geçmediği için öncülü yanlış saymak (2025/96 II, yeni hak sahibinin devri: resmî anahtarda doğru).
 
 #### Ö2 — Hangileri yanlıştır
 
@@ -670,14 +670,14 @@ Yıllar 7-3-5-7-17: 2025'te öncüllü sıçradı (Ö3 8, Ö1 4, Ö4 3, Ö2 2) v
 | Kaynak | Soru | Gerçek örnekler |
 |---|---|---|
 | Yabancı öğe yok (cevap tümü) | 8 | 2021/73 ve 2021/74 GK 167 bentleri aynen · 2022/56 GY 375'in dört yöntemi, yalnız sırası karışık · 2023/90 dört beyan yolu · 2023/91 gümrük bölgesi · 2024/53 mücbir sebep hâlleri · 2025/40 statü kaybı hâlleri · 2021/66 vergi unsurları |
-| Komşu listeden gerçek öğe | 6 | 2021/56 tasfiyeye "mutat elleçleme" · 2021/59 aynı fıkranın istisnası (içinde eşya olmayan mektup) · 2025/47 GK 19'daki "üretimi birden fazla ülkede gerçekleştirilen eşya" · 2025/62 hariçte işlemeye ait standart değişim sistemi · 2025/73 transit beyanları arasına fatura · 2025/42 TESK ve gümrük müşavirleri dernekleri |
+| Komşu listeden gerçek öğe | 6 | 2021/56 tasfiyeye "mutat elleçleme" · 2021/59 aynı fıkranın istisnası (içinde eşya olmayan mektup) · 2025/47 GK 19'daki "üretimi birden fazla ülkede gerçekleştirilen eşya" · 2025/62 hariçte işlemeye ait standart değişim sistemi · 2025/73 transit beyanları arasına fatura · 2025/42 gümrük müşavirleri dernekleri (TESK yetkililer arasında) |
 | Yanlış alt grup / yetkisiz birim | 2 | 2021/95 Adalet Bakanlığı · 2025/57 iki yetkili "Orta" bölge müdürlüğü yanında yetkisiz Orta Karadeniz |
 | Minimal çift | 2 | 2023/68 beyannamenin "iptali" → "düzeltilmesi" · 2025/88 "ticari amaçla" → "kişisel kullanım amacıyla" |
 | Uydurma öğe | 2 | 2024/29 menşe şahadetnamesine "eşyanın kıymeti" · 2024/63 "yatırım izni alınmış bitkisel yağ antreposu" |
 | Başka hukuk dalı | 1 | 2021/97 CMK tedbirleri: gözaltı, teknik araçlarla izleme |
 | Ters işlevli öğe | 1 | 2025/53 yetersiz işlemler arasına menşe kazandıran tarife pozisyonu değişikliği |
 
-**Çeldiriciler:** Yabancı öğe sayısı değişiyor: 8 soruda sıfır, 9 soruda bir, 2 soruda iki (2021/97 IV–V, 2025/42 II–III). Olumsuz köklü 3 soruda listede olmayan tek öğe soruluyor ve cevap "Yalnız X" (2024/29, 2025/53, 2025/57). En güçlü yabancı, adı listedekilere benzeyen gerçek birim: üç "Orta" bölge müdürlüğünden yetkisiz olanı (2025/57), yetkili bakanlıkların yanında Adalet Bakanlığı (2021/95).
+**Çeldiriciler:** Yabancı öğe sayısı değişiyor: 8 soruda sıfır, 10 soruda bir, 1 soruda iki (2021/97 IV–V). Olumsuz köklü 3 soruda listede olmayan tek öğe soruluyor ve cevap "Yalnız X" (2024/29, 2025/53, 2025/57). En güçlü yabancı, adı listedekilere benzeyen gerçek birim: üç "Orta" bölge müdürlüğünden yetkisiz olanı (2025/57), yetkili bakanlıkların yanında Adalet Bakanlığı (2021/95).
 
 **Biçim verisi:** Şık türü kombinasyon 22 · Harf (resmî, n=14) A1 B1 C2 E10 · Öncül sayısı 4: 13, 3: 7, 5: 2 · Cevap ara 11, tümü 8, Yalnız 3 · Kökte dayanak 12/22 · F_SERI 14, F_TUMU 8, F_YALNIZ 3.
 
@@ -1112,11 +1112,11 @@ GMY'de hesap 5 soru; H1, H2, H3 ve H5 hiç sorulmadı. 5 sorunun 3'ü 2025'te. �
 
 **Sayı:** 2 (HESAP 2) · yıllar 0-0-0-0-2 · 24–25: 2.
 
-**Tanım:** Tek bir özel kıymet kuralına dayanan az kalemli hesap: kullanılmış taşıtta amortisman (2025/34), giriş yerine kadarki nakliye ve sigortanın mesafe oranıyla bölünmesi (2025/36).
+**Tanım:** Tek bir özel kıymet kuralına dayanan az kalemli hesap: kullanılmış taşıtta amortisman (2025/34), giriş yerine kadarki nakliyenin mesafe oranıyla bölünmesi, sigortanın tamamının eklenmesi (2025/36).
 
-**Gerçek örnek:** Verilmedi. İki soru da 2025'ten, anahtar türetilmiş; 2025/34'ün güveni düşük (tartışmalı), 2025/36'nın orta.
+**Gerçek örnek:** Verilmedi; iki soru da 2025'ten (resmî anahtar A kitapçığından eşlendi: 2025/34 D, 2025/36 C).
 
-**Yapı (2025/36):** EXW 5.000 TL; toplam 1.000 TL nakliyenin 500 TL'si Türkiye sınırına kadar; 100 TL sigorta. Sınırdan sonraki 500 TL tuzak veri. Türetilen cevap 5.550; çeldiriciler sigortasız / tam sigorta × sınıra kadar / tüm nakliye matrisi (5.500, 5.600, 6.050, 6.100).
+**Yapı (2025/36):** EXW 5.000 TL; toplam 1.000 TL nakliyenin 500 TL'si Türkiye sınırına kadar; 100 TL sigorta. Sınırdan sonraki 500 TL tuzak veri. Resmî cevap 5.600: sınıra kadarki nakliye 500 TL + sigortanın tamamı 100 TL. Çeldiriciler: sigortayı da mesafeyle oranlayan 5.550, sigortasız 5.500, tüm nakliyeyi katan 6.050 ve 6.100.
 
 **Üretim tarifi:** Kuralı kaynakta açık olan özel kıymet hükmü seç (GK 27/1-e giriş yerine kadar nakliye ve sigorta, GY 51/6 mesafe oranı). Bir tuzak veri ekle (sınırdan sonraki nakliye). Çeldiriciler kuralın bir adımını atlayan tutarlar olsun. Kaynakta oranı olmayan kuralla (kullanılmış taşıtta amortisman, 2025/34) hesap sorusu yazma; o konuyu kavram olarak sor (2024/22 K1 "amortisman indirimi").
 
@@ -1663,7 +1663,7 @@ Her üretilen sorunun altındaki madde satırına alt tip kodu da yazılabilir; 
 ## 7. YÖNTEM NOTU
 
 - Kitapçıklar PDF'teki koordinatlı metinden (pdftohtml -xml) soru, öncül ve şık olarak ayrıştırıldı (`araclar/soru-tipi/ayristir.py`). 2021–2024 kitapçıklarında kırmızı yazılmış şık resmî doğru cevap olarak okundu; 400 sorunun her birinde tek kırmızı şık bulundu.
-- 2025 kitapçığı cevapsız (B kitapçığı). 2025 cevapları gümrükte mevzuat metninden, genel kültürde çözülerek türetildi: 86 yüksek, 11 orta, 3 düşük güven. Düşük güvenliler: 2025/34 (kullanılmış taşıt kıymet kuralı kaynakta yok), 2025/68 (rejim kodu listesi kaynakta yok), 2025/86.
+- 2025: etiketleme sırasında B kitapçığının cevapları mevzuattan türetilmişti; ardından gmy-ikmislar deposundaki yanıt anahtarlı A kitapçığı (30 Kasım 2025) ayrıştırılıp 100 soru metinden B numaralarına eşlendi (`araclar/soru-tipi/resmi_2025_AB.tsv`). Türetilmiş cevapların 96/100'ü resmî anahtarla aynı; farklı olanlar 2025/36: B → C; 2025/42: B → E; 2025/86: A → B; 2025/96: D → E (hepsi orta/düşük güvenli işaretlenmişti). Etiketler ve kartlar resmî anahtara göre düzeltildi.
 - 500 sorunun her biri `TIPOLOJI.md` sözlüğüyle tek tek etiketlendi (yıl başına bir etiketleyici). Her soru için alan, konu, dayanak, ana/alt tip, bayraklar, kökün son yüklemi, şık türü, öncül sayısı, doğru harf, teknik kodu ve "doğru cevap nasıl kurulmuş" notu kaydedildi (`araclar/soru-tipi/tipler.csv`).
 - F_DAYANAK, F_MADDENO ve F_SERI etiketleyiciler arası tutarlılık için metinden kuralla yeniden hesaplandı. O2 bozma tekniği ve O1 yabancı öğe kaynağı dağılımları kurulum notlarından sınıflandırmadır; sayılar yaklaşık kabul edilmelidir.
 - Alt tip kartları etiketlenmiş verinin üzerine yazıldı; kartlardaki sayılar `istatistik.json`dan alındı.
@@ -1675,8 +1675,6 @@ Her üretilen sorunun altındaki madde satırına alt tip kodu da yazılabilir; 
 - 2022/83: E de savunulabilir: Tebliğ md.4/b 'sürekli görevli' kamu görevlisini sayar; ancak md.6 yalnız 24 ayı aşmayan geçici görevi dışladığından resmî D tutarlı.
 - 2022/84: A ('bedelsiz araç ithalinde muafiyet') kaynakta genel hüküm olarak yok; md.68/3 motorlu araç muafiyetini sınırlar. İkinci yanlış adayı ama E kesin bozuk.
 - 2024/5: E'deki 'gruplar' sözcüğü de topluluk adı (grup) sayılabilir; iki doğru şık ihtimali var.
-- 2025/34: Kullanılmış taşıt kıymet kuralı kaynak metinlerde yok; oran ve başlangıç yılı yoruma açık. Model yılı esas alınırsa 6.000 (B).
-- 2025/50: Kaynaktaki 2025/10790 sayılı Karar metninde VI sayılı listenin adı 'Nihai Kullanım Uygulaması Kapsamında İndirimli Gümrük Vergisinden Faydalanacak Sivil Hava Taşıtlarında Kullanılmaya Mahsus Ürünler'; buna göre 5 de yanlış olur ve '2 ve 5' şıkkı yok. Cevap, sınav tarihindeki büyük olasılıkla eski başlığa ('Gümrük Vergisi Askıya Alınan …') göre türetildi.
 - 2024/100: resmî cevap A; D şıkkı (YGM vasıtasıyla gözetim yapılamaz) da kaynak metne göre doğru bir ifade görünüyor, A–C ve E kaynakta doğrudan doğrulanamadı.
 - 2021/40: kökteki "kaç aya kadar uzatılarak kalabilir" toplam süre (6 ay) olarak da okunabilir; anahtar uzatma süresini (3 ay) esas alıyor.
 - 2021/95: resmî cevap sınav tarihine göre doğru; 18.01.2024 değişikliğiyle Hazine ve Maliye Bakanlığı çıkarıldığından güncel metne göre cevap değişir.

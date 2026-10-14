@@ -18,6 +18,10 @@ BAYRAK = ['F_DAYANAK', 'F_SERI', 'F_TUZAKVERI', 'F_MADDENO', 'F_MUTLAK', 'F_MATR
 
 DAYANAK = re.compile(r'(Kanun|Yönetmeli[kğ]|Karar[ıi]?\b|Kararname|Tebli[ğg]|Genelge|Sözleşme|Anlaşma|Uygulama Esasları|sayılı)', re.I)
 MADDENO = re.compile(r"\b\d{1,3}\s*['’]?\s*(?:inci|ıncı|nci|ncı|üncü|uncu|ünci|'?n?c?i)?\s+madde|\bmadde(?:si|sinin|sine|sinde|nin)?\s*\d|\b(?:234|235|236|237|238|241)\s*/\s*\d|\bfıkra|\bbendi", re.I)
+R2025 = {}
+if (HERE / 'resmi_2025_AB.tsv').exists():
+    for l in (HERE / 'resmi_2025_AB.tsv').read_text(encoding='utf-8').splitlines()[1:]:
+        r = l.split('\t'); R2025[int(r[0])] = r[2]
 soru = {}
 for y in YIL:
     for q in json.load(open(SJ / f'{y}_sorular.json', encoding='utf-8')):
@@ -34,6 +38,8 @@ for e in E:
     if e['yil'] < 2025:
         if e.get('dogru') != q['kirmizi'][0]: hata.append((e['yil'], e['no'], 'dogru≠resmî', e.get('dogru'), q['kirmizi']))
         e['dogru'], e['cevap_kaynagi'] = q['kirmizi'][0], 'resmi'
+    elif e['no'] in R2025:                               # 2025: A kitapçığının resmî anahtarı B numarasına eşlendi
+        e['dogru'], e['cevap_kaynagi'] = R2025[e['no']], 'resmi_2025A'
     if e['alt_tip'] not in ALTLAR or e['alt_tip'][0] != e['ana_tip']: hata.append((e['yil'], e['no'], 'alt_tip', e['alt_tip']))
     if e['alt_alan'] not in ALANLAR: hata.append((e['yil'], e['no'], 'alt_alan', e['alt_alan']))
     e['bayraklar'] = [b for b in e.get('bayraklar', []) if b in BAYRAK]
@@ -79,10 +85,10 @@ env = {}
 for l in ENV.read_text(encoding='utf-8').splitlines()[1:]:
     r = l.split('\t'); env[(int(r[0]), int(r[1]))] = (r[6].strip() if len(r) > 6 else '')
 with open(HERE / 'cevap_anahtari.tsv', 'w', encoding='utf-8') as fh:
-    fh.write('YIL\tSORU\tCEVAP\tKAYNAK\tGUVEN\tENVANTER_CEVAP\tFARK\n')
+    fh.write('YIL\tSORU\tCEVAP\tKAYNAK\tTURETILMIS_2025\tENVANTER_CEVAP\tFARK\n')
     for e in E:
         ev = env.get((e['yil'], e['no']), '')
-        fh.write(f"{e['yil']}\t{e['no']}\t{e['dogru']}\t{e['cevap_kaynagi']}\t{e.get('guven', '')}\t{ev}\t{'*' if ev and ev != e['dogru'] else ''}\n")
+        fh.write(f"{e['yil']}\t{e['no']}\t{e['dogru']}\t{e['cevap_kaynagi']}\t{e.get('turetilmis', '')}\t{ev}\t{'*' if ev and ev != e['dogru'] else ''}\n")
 
 # ---- istatistikler
 def yilsay(xs): c = C(str(e['yil']) for e in xs); return [c.get(y, 0) for y in YIL]
@@ -122,8 +128,9 @@ uz = lambda xs: dict(C(e['uzunluk'] for e in xs if e['uzunluk']))
 st['bicim'] = {
     'harf_resmi': dict(sorted(C(e['dogru'] for e in res).items())),
     'harf_resmi_yil': {y: dict(sorted(C(e['dogru'] for e in res if str(e['yil']) == y).items())) for y in YIL[:4]},
-    'harf_2025_turetilmis': dict(sorted(C(e['dogru'] for e in E if e['yil'] == 2025).items())),
-    'guven_2025': dict(C(e.get('guven', '') for e in E if e['yil'] == 2025)),
+    'harf_2025_resmi': dict(sorted(C(e['dogru'] for e in E if e['yil'] == 2025).items())),
+    'turetilmis_isabet_2025': [sum(1 for e in E if e['yil'] == 2025 and e.get('turetilmis') == e['dogru']), sum(1 for e in E if e['yil'] == 2025 and e.get('turetilmis'))],
+    'turetilmis_fark_2025': [(e['no'], e.get('turetilmis'), e['dogru'], e.get('turetilmis_guven')) for e in E if e['yil'] == 2025 and e.get('turetilmis') and e['turetilmis'] != e['dogru']],
     'uzunluk_tum': uz(E), 'n_uzunluk_tum': sum(1 for e in E if e['uzunluk']),
     'uzunluk_O2O3': uz([e for e in E if e['alt_tip'] in ('O2', 'O3')]),
     'uzunluk_G': uz([e for e in E if e['ana_tip'] == 'G']),
@@ -143,5 +150,5 @@ st['bicim'] = {
 json.dump(st, open(HERE / 'istatistik.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 json.dump(E, open(HERE / 'etiketler_tam.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 print('ana tip:', {a: v['n'] for a, v in st['ana'].items()})
-print('harf (resmî 400):', st['bicim']['harf_resmi'], '| 2025 türetilmiş:', st['bicim']['harf_2025_turetilmis'], st['bicim']['guven_2025'])
+print('harf (resmî 2021–2024):', st['bicim']['harf_resmi'], '| 2025 resmî:', st['bicim']['harf_2025_resmi'], '| türetilmiş isabet:', st['bicim']['turetilmis_isabet_2025'], st['bicim']['turetilmis_fark_2025'])
 print('envanter farkı:', st['bicim']['envanter_fark'])

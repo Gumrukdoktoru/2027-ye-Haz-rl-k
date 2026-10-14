@@ -24,7 +24,7 @@ add(['# 12 — SORU TİPİ KATALOĞU (GMY)', '', '## Gümrük Müşavir Yardımc
      '- Tipi, kökün son yüklemi ve şıkların biçimi belirler. Kök "yanlıştır" dese bile şıklar bir listenin kısa öğeleriyse soru O1\'dir, O2 değildir. Sınır durumlar Bölüm 4\'te.',
      '- "5 yıl" = 2021–2025 toplamı (500 soru). "24–25" = 2024 ve 2025 toplamı (200 soru); son eğilimi gösterir.',
      '- Alanlar: genel kültür (1–20) TÜRKÇE · MATEMATİK · TARİH · HUKUK (her biri 25); gümrük (21–100) TEMEL (GK, GY, 2009/15481 Karar) 311 · ALT (tebliğ, genelge, diğer yönetmelik/karar) 58 · KAÇAKÇILIK (5607 ve yönetmelikleri) 26 · HESAP 5.',
-     '- Cevap anahtarı: 2021–2024 kitapçıklarında doğru şık kırmızıyla işaretli (resmî anahtar, 400 soru). 2025 kitapçığı cevapsızdır; 2025 cevapları mevzuattan türetildi (100 soru: 86 yüksek, 11 orta, 3 düşük güven). Harf istatistikleri yalnız resmî anahtarla, doğru şık uzunluk konumu 2025 dahil 500 soru üzerinden hesaplandı.',
+     '- Cevap anahtarı: 2021–2024 kitapçıklarında doğru şık kırmızıyla işaretli (resmî anahtar, 400 soru). 2025 için depodaki B kitapçığı cevapsız; gmy-ikmislar deposundaki yanıt anahtarlı A kitapçığının resmî cevapları soru metni eşleştirmesiyle B numaralarına taşındı (100/100 eşleşme). Kartlardaki "resmî" harf dağılımları 2021–2024 üzerinden; 2025 resmî harf dağılımı 1.5\'te ayrıca verildi. Doğru şık uzunluk konumu 500 soru üzerinden.',
      '- Örnekler kitapçıktan aynen alındı; yalnız satır sonları birleştirildi. Doğru şık ✔ ile işaretlendi.', ''])
 add(['### Kod sözlüğü (özet)', '', '| Ana tip | Alt tipler |', '|---|---|',
      '| O Olumsuz kök | O1 Liste dışı eleman · O2 Bozuk cümle · O3 Çift olumsuz / ters kurgu · O4 Tarife olumsuz |',
@@ -71,6 +71,7 @@ uzt = lambda d: (lambda n: f"orta %{round(100 * d.get('orta', 0) / n)} · en uzu
 oc = b['oncul_cevap']; ocn = sum(oc.values())
 add(['### 1.5 Biçimsel ölçümler (cevap anahtarının "parmak izi")', '', '| Ölçü | Bulgu | Soru üretiminde karşılığı |', '|---|---|---|',
      f"| Doğru harf (resmî anahtar, 2021–2024, 400 soru) | {fmt(b['harf_resmi'])} | A az (%15,5). Deneme setinde harf dağılımı N/5 ± 2; A'yı bilinçli olarak eksik bırakma |",
+     f"| Doğru harf, 2025 resmî anahtar (A kitapçığından eşlendi) | {fmt(b['harf_2025_resmi'])} | 2025'te de A en az; 500 sorunun tamamında A %14,6 |",
      f"| Doğru harf yıl yıl | " + ' / '.join(f"{y}: {fmt(v)}" for y, v in b['harf_resmi_yil'].items()) + " | Yıllar arası oynaklık büyük; tek yılın dağılımını hedef alma |",
      f"| Art arda aynı doğru harf (99 komşu çift) | " + ' · '.join(f"{y}: {n}" for y, n in b['ardisik_ayni_harf_resmi'].items()) + " | Gerçek sınavda olağan; Prompt 3 bunu yasaklıyor (bkz. Bölüm 6) |",
      f"| Doğru şık uzunluğu, cümle/eşleşme şıklı sorular | {uzt(b['uzunluk_tum'])} | Doğru şıkkı çoğunlukla orta uzunlukta yaz |",
@@ -177,7 +178,7 @@ add(['## 6. PROMPTLARDA KULLANIM', '',
 tar = b['tartismali']; ef = b['envanter_fark']
 add(['## 7. YÖNTEM NOTU', '',
      '- Kitapçıklar PDF\'teki koordinatlı metinden (pdftohtml -xml) soru, öncül ve şık olarak ayrıştırıldı (`araclar/soru-tipi/ayristir.py`). 2021–2024 kitapçıklarında kırmızı yazılmış şık resmî doğru cevap olarak okundu; 400 sorunun her birinde tek kırmızı şık bulundu.',
-     '- 2025 kitapçığı cevapsız (B kitapçığı). 2025 cevapları gümrükte mevzuat metninden, genel kültürde çözülerek türetildi: 86 yüksek, 11 orta, 3 düşük güven. Düşük güvenliler: 2025/34 (kullanılmış taşıt kıymet kuralı kaynakta yok), 2025/68 (rejim kodu listesi kaynakta yok), 2025/86.',
+     f"- 2025: etiketleme sırasında B kitapçığının cevapları mevzuattan türetilmişti; ardından gmy-ikmislar deposundaki yanıt anahtarlı A kitapçığı (30 Kasım 2025) ayrıştırılıp 100 soru metinden B numaralarına eşlendi (`araclar/soru-tipi/resmi_2025_AB.tsv`). Türetilmiş cevapların {b['turetilmis_isabet_2025'][0]}/{b['turetilmis_isabet_2025'][1]}'ü resmî anahtarla aynı; farklı olanlar " + '; '.join(f'2025/{n}: {t} → {r}' for n, t, r, g in b['turetilmis_fark_2025']) + " (hepsi orta/düşük güvenli işaretlenmişti). Etiketler ve kartlar resmî anahtara göre düzeltildi.",
      '- 500 sorunun her biri `TIPOLOJI.md` sözlüğüyle tek tek etiketlendi (yıl başına bir etiketleyici). Her soru için alan, konu, dayanak, ana/alt tip, bayraklar, kökün son yüklemi, şık türü, öncül sayısı, doğru harf, teknik kodu ve "doğru cevap nasıl kurulmuş" notu kaydedildi (`araclar/soru-tipi/tipler.csv`).',
      '- F_DAYANAK, F_MADDENO ve F_SERI etiketleyiciler arası tutarlılık için metinden kuralla yeniden hesaplandı. O2 bozma tekniği ve O1 yabancı öğe kaynağı dağılımları kurulum notlarından sınıflandırmadır; sayılar yaklaşık kabul edilmelidir.',
      '- Alt tip kartları etiketlenmiş verinin üzerine yazıldı; kartlardaki sayılar `istatistik.json`dan alındı.', '',

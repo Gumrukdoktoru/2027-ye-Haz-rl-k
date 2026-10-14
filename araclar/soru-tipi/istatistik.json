@@ -223,18 +223,17 @@
    },
    "uzunluk": {
     "orta": 29,
-    "en_kisa": 15,
-    "en_uzun": 8
+    "en_kisa": 16,
+    "en_uzun": 7
    },
    "dayanak_kokte": 30,
    "teknik": {
-    "POLARITE": 23,
+    "POLARITE": 22,
     "SURE_SAYI": 10,
-    "ETIKET": 9,
+    "ETIKET": 10,
     "MAKAM": 5,
     "KAPSAM": 3,
-    "ZAMAN_YER": 2,
-    "UYDURMA": 1
+    "ZAMAN_YER": 2
    },
    "sik_turu": {
     "cumle": 52
@@ -541,8 +540,8 @@
    "teknik": {
     "TASIMA": 3,
     "SURE_SAYI": 2,
-    "UYDURMA": 2,
     "ZAMAN_YER": 1,
+    "UYDURMA": 1,
     "MAKAM": 1,
     "POLARITE": 1
    },
@@ -555,15 +554,17 @@
     "4": 1
    },
    "oncul_cevap": {
-    "ara": 6,
-    "yalniz": 1
+    "ara": 5,
+    "yalniz": 1,
+    "tumu": 1
    },
    "bayrak": {
     "F_MUTLAK": 2,
     "F_YALNIZ": 1,
     "F_DAYANAK": 4,
     "F_SERI": 1,
-    "F_GUNCEL": 1
+    "F_GUNCEL": 1,
+    "F_TUMU": 1
    },
    "yuklem": {
     "doğrudur": 7
@@ -2044,10 +2045,10 @@
     2,
     2,
     1,
-    3
+    4
    ],
-   "n": 11,
-   "son2": 4
+   "n": 12,
+   "son2": 5
   }
  },
  "bicim": {
@@ -2088,28 +2089,53 @@
     "E": 22
    }
   },
-  "harf_2025_turetilmis": {
-   "A": 12,
-   "B": 22,
-   "C": 23,
-   "D": 23,
-   "E": 20
+  "harf_2025_resmi": {
+   "A": 11,
+   "B": 21,
+   "C": 24,
+   "D": 22,
+   "E": 22
   },
-  "guven_2025": {
-   "yuksek": 86,
-   "dusuk": 3,
-   "orta": 11
-  },
+  "turetilmis_isabet_2025": [
+   96,
+   100
+  ],
+  "turetilmis_fark_2025": [
+   [
+    36,
+    "B",
+    "C",
+    "orta"
+   ],
+   [
+    42,
+    "B",
+    "E",
+    "orta"
+   ],
+   [
+    86,
+    "A",
+    "B",
+    "dusuk"
+   ],
+   [
+    96,
+    "D",
+    "E",
+    "orta"
+   ]
+  ],
   "uzunluk_tum": {
    "orta": 76,
-   "en_kisa": 31,
-   "en_uzun": 36
+   "en_kisa": 32,
+   "en_uzun": 35
   },
   "n_uzunluk_tum": 143,
   "uzunluk_O2O3": {
    "orta": 30,
-   "en_kisa": 15,
-   "en_uzun": 9
+   "en_kisa": 16,
+   "en_uzun": 8
   },
   "uzunluk_G": {
    "en_uzun": 7,
@@ -2117,8 +2143,8 @@
    "en_kisa": 4
   },
   "oncul_cevap": {
-   "ara": 20,
-   "tumu": 11,
+   "ara": 19,
+   "tumu": 12,
    "yalniz": 9
   },
   "oncul_sayisi": {
@@ -2169,16 +2195,6 @@
     2024,
     5,
     "E'deki 'gruplar' sözcüğü de topluluk adı (grup) sayılabilir; iki doğru şık ihtimali var."
-   ],
-   [
-    2025,
-    34,
-    "Kullanılmış taşıt kıymet kuralı kaynak metinlerde yok; oran ve başlangıç yılı yoruma açık. Model yılı esas alınırsa 6.000 (B)."
-   ],
-   [
-    2025,
-    50,
-    "Kaynaktaki 2025/10790 sayılı Karar metninde VI sayılı listenin adı 'Nihai Kullanım Uygulaması Kapsamında İndirimli Gümrük Vergisinden Faydalanacak Sivil Hava Taşıtlarında Kullanılmaya Mahsus Ürünler'; buna göre 5 de yanlış olur ve '2 ve 5' şıkkı yok. Cevap, sınav tarihindeki büyük olasılıkla eski başlığa ('Gümrük Vergisi Askıya Alınan …') göre türetildi."
    ]
   ],
   "envanter_fark": [
