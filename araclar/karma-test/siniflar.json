@@ -1,0 +1,1279 @@
+{
+ "konular": [
+  {
+   "konu": "Gümrük Kıymeti",
+   "n": 29,
+   "yil": [
+    4,
+    11,
+    4,
+    7,
+    3
+   ],
+   "son2": 10,
+   "sinif": "ÇOK",
+   "kota_3test": 11,
+   "test": [
+    4,
+    4,
+    3
+   ]
+  },
+  {
+   "konu": "Kaçakçılık",
+   "n": 27,
+   "yil": [
+    10,
+    7,
+    4,
+    3,
+    3
+   ],
+   "son2": 6,
+   "sinif": "ÇOK",
+   "kota_3test": 9,
+   "test": [
+    3,
+    3,
+    3
+   ]
+  },
+  {
+   "konu": "Cezalar",
+   "n": 20,
+   "yil": [
+    0,
+    5,
+    6,
+    5,
+    4
+   ],
+   "son2": 9,
+   "sinif": "ÇOK",
+   "kota_3test": 8,
+   "test": [
+    3,
+    2,
+    3
+   ]
+  },
+  {
+   "konu": "Menşe",
+   "n": 20,
+   "yil": [
+    0,
+    0,
+    3,
+    8,
+    9
+   ],
+   "son2": 17,
+   "sinif": "ÇOK",
+   "kota_3test": 10,
+   "test": [
+    3,
+    4,
+    3
+   ]
+  },
+  {
+   "konu": "Dahilde İşleme",
+   "n": 19,
+   "yil": [
+    2,
+    2,
+    4,
+    4,
+    7
+   ],
+   "son2": 11,
+   "sinif": "ÇOK",
+   "kota_3test": 9,
+   "test": [
+    3,
+    3,
+    3
+   ]
+  },
+  {
+   "konu": "Gümrük Müşavirliği",
+   "n": 18,
+   "yil": [
+    7,
+    3,
+    4,
+    2,
+    2
+   ],
+   "son2": 4,
+   "sinif": "ÇOK",
+   "kota_3test": 5,
+   "test": [
+    2,
+    1,
+    2
+   ]
+  },
+  {
+   "konu": "Geçici İthalat",
+   "n": 18,
+   "yil": [
+    3,
+    3,
+    3,
+    4,
+    5
+   ],
+   "son2": 9,
+   "sinif": "ÇOK",
+   "kota_3test": 8,
+   "test": [
+    2,
+    3,
+    3
+   ]
+  },
+  {
+   "konu": "Temel Tanımlar",
+   "n": 16,
+   "yil": [
+    1,
+    3,
+    10,
+    2,
+    0
+   ],
+   "son2": 2,
+   "sinif": "ÇOK",
+   "kota_3test": 5,
+   "test": [
+    2,
+    2,
+    1
+   ]
+  },
+  {
+   "konu": "Transit",
+   "n": 14,
+   "yil": [
+    2,
+    2,
+    0,
+    6,
+    4
+   ],
+   "son2": 10,
+   "sinif": "ÇOK",
+   "kota_3test": 8,
+   "test": [
+    3,
+    2,
+    3
+   ]
+  },
+  {
+   "konu": "Antrepo",
+   "n": 13,
+   "yil": [
+    3,
+    2,
+    3,
+    2,
+    3
+   ],
+   "son2": 5,
+   "sinif": "ÇOK",
+   "kota_3test": 5,
+   "test": [
+    1,
+    2,
+    2
+   ]
+  },
+  {
+   "konu": "Beyan",
+   "n": 13,
+   "yil": [
+    3,
+    3,
+    4,
+    1,
+    2
+   ],
+   "son2": 3,
+   "sinif": "ÇOK",
+   "kota_3test": 4,
+   "test": [
+    2,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "Muafiyetler",
+   "n": 13,
+   "yil": [
+    4,
+    4,
+    1,
+    2,
+    2
+   ],
+   "son2": 4,
+   "sinif": "ÇOK",
+   "kota_3test": 4,
+   "test": [
+    1,
+    2,
+    1
+   ]
+  },
+  {
+   "konu": "Geçici Depolama/GOBİK",
+   "n": 12,
+   "yil": [
+    2,
+    2,
+    3,
+    2,
+    3
+   ],
+   "son2": 5,
+   "sinif": "ÇOK",
+   "kota_3test": 5,
+   "test": [
+    2,
+    1,
+    2
+   ]
+  },
+  {
+   "konu": "Tahakkuk-Tebliğ-Ödeme",
+   "n": 12,
+   "yil": [
+    3,
+    1,
+    3,
+    3,
+    2
+   ],
+   "son2": 5,
+   "sinif": "ÇOK",
+   "kota_3test": 5,
+   "test": [
+    1,
+    2,
+    2
+   ]
+  },
+  {
+   "konu": "YGM",
+   "n": 9,
+   "yil": [
+    3,
+    1,
+    2,
+    2,
+    1
+   ],
+   "son2": 3,
+   "sinif": "ORTA",
+   "kota_3test": 3,
+   "test": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "Geri Verme-Kaldırma",
+   "n": 9,
+   "yil": [
+    1,
+    3,
+    2,
+    2,
+    1
+   ],
+   "son2": 3,
+   "sinif": "ORTA",
+   "kota_3test": 3,
+   "test": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "İhracat",
+   "n": 8,
+   "yil": [
+    1,
+    0,
+    1,
+    3,
+    3
+   ],
+   "son2": 6,
+   "sinif": "ORTA",
+   "kota_3test": 4,
+   "test": [
+    2,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "Disiplin",
+   "n": 8,
+   "yil": [
+    0,
+    1,
+    4,
+    3,
+    0
+   ],
+   "son2": 3,
+   "sinif": "ORTA",
+   "kota_3test": 2,
+   "test": [
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "Yetkilendirilmiş Yükümlü",
+   "n": 7,
+   "yil": [
+    2,
+    1,
+    0,
+    1,
+    3
+   ],
+   "son2": 4,
+   "sinif": "ORTA",
+   "kota_3test": 3,
+   "test": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "Geri Gelen Eşya",
+   "n": 7,
+   "yil": [
+    3,
+    0,
+    2,
+    1,
+    1
+   ],
+   "son2": 2,
+   "sinif": "ORTA",
+   "kota_3test": 2,
+   "test": [
+    1,
+    1,
+    0
+   ]
+  },
+  {
+   "konu": "Bağlayıcı Bilgi (BTB/BMB)",
+   "n": 7,
+   "yil": [
+    1,
+    1,
+    2,
+    0,
+    3
+   ],
+   "son2": 3,
+   "sinif": "ORTA",
+   "kota_3test": 2,
+   "test": [
+    1,
+    0,
+    1
+   ]
+  },
+  {
+   "konu": "Serbest Dolaşıma Giriş",
+   "n": 7,
+   "yil": [
+    1,
+    2,
+    0,
+    1,
+    3
+   ],
+   "son2": 4,
+   "sinif": "ORTA",
+   "kota_3test": 3,
+   "test": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "Tasfiye",
+   "n": 6,
+   "yil": [
+    5,
+    0,
+    0,
+    1,
+    0
+   ],
+   "son2": 1,
+   "sinif": "ORTA",
+   "kota_3test": 1,
+   "test": [
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "konu": "Posta/Hızlı Kargo",
+   "n": 6,
+   "yil": [
+    4,
+    0,
+    0,
+    0,
+    2
+   ],
+   "son2": 2,
+   "sinif": "ORTA",
+   "kota_3test": 2,
+   "test": [
+    1,
+    0,
+    1
+   ]
+  },
+  {
+   "konu": "Teminat ve Faiz",
+   "n": 6,
+   "yil": [
+    1,
+    2,
+    0,
+    2,
+    1
+   ],
+   "son2": 3,
+   "sinif": "ORTA",
+   "kota_3test": 2,
+   "test": [
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "Şartlı Muafiyet/EEGR",
+   "n": 5,
+   "yil": [
+    1,
+    2,
+    1,
+    1,
+    0
+   ],
+   "son2": 1,
+   "sinif": "ORTA",
+   "kota_3test": 1,
+   "test": [
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Serbest Bölge",
+   "n": 5,
+   "yil": [
+    2,
+    0,
+    1,
+    1,
+    1
+   ],
+   "son2": 2,
+   "sinif": "ORTA",
+   "kota_3test": 2,
+   "test": [
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "Gümrük Vergileri",
+   "n": 5,
+   "yil": [
+    1,
+    1,
+    1,
+    0,
+    2
+   ],
+   "son2": 2,
+   "sinif": "ORTA",
+   "kota_3test": 2,
+   "test": [
+    1,
+    1,
+    0
+   ]
+  },
+  {
+   "konu": "İthalat Rejim Kararı",
+   "n": 5,
+   "yil": [
+    0,
+    1,
+    0,
+    2,
+    2
+   ],
+   "son2": 4,
+   "sinif": "ORTA",
+   "kota_3test": 3,
+   "test": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "konu": "Muayene/Tahlil",
+   "n": 5,
+   "yil": [
+    0,
+    2,
+    3,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "ORTA",
+   "kota_3test": 1,
+   "test": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "konu": "Tarife",
+   "n": 4,
+   "yil": [
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "GKAİR",
+   "n": 4,
+   "yil": [
+    1,
+    1,
+    0,
+    2,
+    0
+   ],
+   "son2": 2,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "konu": "Dış Ticaret Belgeleri",
+   "n": 4,
+   "yil": [
+    2,
+    1,
+    1,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "AZ",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Gümrük Yükümlülüğü",
+   "n": 4,
+   "yil": [
+    0,
+    2,
+    2,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "konu": "Onaylanmış Kişi",
+   "n": 4,
+   "yil": [
+    0,
+    2,
+    0,
+    1,
+    1
+   ],
+   "son2": 2,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Temsil",
+   "n": 3,
+   "yil": [
+    1,
+    1,
+    0,
+    0,
+    1
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "konu": "Özet Beyan",
+   "n": 3,
+   "yil": [
+    1,
+    0,
+    1,
+    1,
+    0
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "konu": "Hariçte İşleme",
+   "n": 3,
+   "yil": [
+    1,
+    2,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Nihai Kullanım",
+   "n": 3,
+   "yil": [
+    0,
+    1,
+    0,
+    0,
+    2
+   ],
+   "son2": 2,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "konu": "İtiraz",
+   "n": 3,
+   "yil": [
+    0,
+    1,
+    1,
+    1,
+    0
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "konu": "TIR",
+   "n": 3,
+   "yil": [
+    0,
+    2,
+    0,
+    1,
+    0
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Akaryakıt-Kumanya",
+   "n": 2,
+   "yil": [
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "konu": "Fikri-Sınai Haklar",
+   "n": 2,
+   "yil": [
+    0,
+    1,
+    0,
+    0,
+    1
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "konu": "Ticaret Politikası",
+   "n": 2,
+   "yil": [
+    0,
+    0,
+    1,
+    1,
+    0
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Belge Saklama",
+   "n": 1,
+   "yil": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "AZ",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Kabotaj",
+   "n": 1,
+   "yil": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "AZ",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Mücbir Sebep",
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "AZ",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Süreler",
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "AZ",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "İlave Gümrük Vergisi",
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Sınır Ticareti",
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "konu": "Gümrüksüz Satış",
+   "n": 1,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "son2": 1,
+   "sinif": "AZ",
+   "kota_3test": 1,
+   "test": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "konu": "Uzlaşma",
+   "n": 0,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "HİÇ",
+   "kaynak": "50-uzlaşma.txt",
+   "mevzuat": "GK 244 ve Gümrük Uzlaşma Yönetmeliği",
+   "kota_3test": 1,
+   "test": [
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Taşıtların Giriş-Çıkışı ve Fazla Çalışma",
+   "n": 0,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "HİÇ",
+   "kaynak": "13-TAŞITLAR.txt",
+   "mevzuat": "GK 33–35, GY 72–72/T, 560; 2009/15481 Karar 121–125; Seri No 74",
+   "kota_3test": 1,
+   "test": [
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "konu": "Sonradan Kontrol",
+   "n": 0,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "HİÇ",
+   "kaynak": "5-SONRADAN KONTROL.txt",
+   "mevzuat": "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliği",
+   "kota_3test": 1,
+   "test": [
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "konu": "Transit Basitleştirmeleri ve İzinli Gönderici",
+   "n": 0,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "HİÇ",
+   "kaynak": "24-SERİ NO 5.txt|25-SERİ NO 6.txt|26-seri no 8.txt|27-seri no 14.txt",
+   "mevzuat": "Transit Tebliğleri Seri No 5, 6, 8, 14",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Akaryakıt Transiti",
+   "n": 0,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "HİÇ",
+   "kaynak": "22-SERİ NO 3.txt",
+   "mevzuat": "Transit Tebliği Seri No 3",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Kabotaj Tebliği",
+   "n": 0,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "HİÇ",
+   "kaynak": "14-KABOTAJ.txt",
+   "mevzuat": "Kabotaj Tebliği (2013)",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "konu": "Silah-Mühimmat Tahsisi",
+   "n": 0,
+   "yil": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "son2": 0,
+   "sinif": "HİÇ",
+   "kaynak": "milli_savunma_veya_ic_guvenlik_hizmetleriyle_dogrudan_ilgili_silah_muhimmat_arac_ve_gerec_ile_sarf_malzem.txt",
+   "mevzuat": "Tahsis Yönetmeliği",
+   "kota_3test": 0,
+   "test": [
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "kota": {
+  "Gümrük Kıymeti": 11,
+  "Kaçakçılık": 9,
+  "Cezalar": 8,
+  "Menşe": 10,
+  "Dahilde İşleme": 9,
+  "Gümrük Müşavirliği": 5,
+  "Geçici İthalat": 8,
+  "Temel Tanımlar": 5,
+  "Transit": 8,
+  "Antrepo": 5,
+  "Beyan": 4,
+  "Muafiyetler": 4,
+  "Geçici Depolama/GOBİK": 5,
+  "Tahakkuk-Tebliğ-Ödeme": 5,
+  "YGM": 3,
+  "Geri Verme-Kaldırma": 3,
+  "İhracat": 4,
+  "Disiplin": 2,
+  "Yetkilendirilmiş Yükümlü": 3,
+  "Geri Gelen Eşya": 2,
+  "Bağlayıcı Bilgi (BTB/BMB)": 2,
+  "Serbest Dolaşıma Giriş": 3,
+  "Tasfiye": 1,
+  "Posta/Hızlı Kargo": 2,
+  "Teminat ve Faiz": 2,
+  "Şartlı Muafiyet/EEGR": 1,
+  "Serbest Bölge": 2,
+  "Gümrük Vergileri": 2,
+  "İthalat Rejim Kararı": 3,
+  "Muayene/Tahlil": 1,
+  "GKAİR": 1,
+  "Onaylanmış Kişi": 1,
+  "Tarife": 1,
+  "Gümrük Yükümlülüğü": 1,
+  "Nihai Kullanım": 1,
+  "Temsil": 1,
+  "Özet Beyan": 1,
+  "İtiraz": 1,
+  "TIR": 1,
+  "Hariçte İşleme": 1,
+  "Akaryakıt-Kumanya": 1,
+  "Fikri-Sınai Haklar": 1,
+  "Ticaret Politikası": 1,
+  "Uzlaşma": 1,
+  "Taşıtların Giriş-Çıkışı ve Fazla Çalışma": 1,
+  "Sonradan Kontrol": 1,
+  "Sınır Ticareti": 1,
+  "Gümrüksüz Satış": 1
+ },
+ "test_basina": {
+  "ÇOK": 32,
+  "ORTA": 12,
+  "AZ": 5,
+  "HİÇ": 1
+ },
+ "test": {
+  "1": {
+   "Gümrük Kıymeti": 4,
+   "Kaçakçılık": 3,
+   "Cezalar": 3,
+   "Menşe": 3,
+   "Dahilde İşleme": 3,
+   "Gümrük Müşavirliği": 2,
+   "Geçici İthalat": 2,
+   "Temel Tanımlar": 2,
+   "Transit": 3,
+   "Antrepo": 1,
+   "Beyan": 2,
+   "Muafiyetler": 1,
+   "Geçici Depolama/GOBİK": 2,
+   "Tahakkuk-Tebliğ-Ödeme": 1,
+   "YGM": 1,
+   "Geri Verme-Kaldırma": 1,
+   "İhracat": 2,
+   "Yetkilendirilmiş Yükümlü": 1,
+   "Geri Gelen Eşya": 1,
+   "Bağlayıcı Bilgi (BTB/BMB)": 1,
+   "Serbest Dolaşıma Giriş": 1,
+   "Posta/Hızlı Kargo": 1,
+   "Şartlı Muafiyet/EEGR": 1,
+   "Gümrük Vergileri": 1,
+   "İthalat Rejim Kararı": 1,
+   "Tarife": 1,
+   "Onaylanmış Kişi": 1,
+   "Hariçte İşleme": 1,
+   "TIR": 1,
+   "Ticaret Politikası": 1,
+   "Uzlaşma": 1
+  },
+  "2": {
+   "Gümrük Kıymeti": 4,
+   "Kaçakçılık": 3,
+   "Cezalar": 2,
+   "Menşe": 4,
+   "Dahilde İşleme": 3,
+   "Gümrük Müşavirliği": 1,
+   "Geçici İthalat": 3,
+   "Temel Tanımlar": 2,
+   "Transit": 2,
+   "Antrepo": 2,
+   "Beyan": 1,
+   "Muafiyetler": 2,
+   "Geçici Depolama/GOBİK": 1,
+   "Tahakkuk-Tebliğ-Ödeme": 2,
+   "YGM": 1,
+   "Geri Verme-Kaldırma": 1,
+   "İhracat": 1,
+   "Disiplin": 1,
+   "Yetkilendirilmiş Yükümlü": 1,
+   "Geri Gelen Eşya": 1,
+   "Serbest Dolaşıma Giriş": 1,
+   "Tasfiye": 1,
+   "Teminat ve Faiz": 1,
+   "Serbest Bölge": 1,
+   "Gümrük Vergileri": 1,
+   "İthalat Rejim Kararı": 1,
+   "GKAİR": 1,
+   "Temsil": 1,
+   "Nihai Kullanım": 1,
+   "Akaryakıt-Kumanya": 1,
+   "Sınır Ticareti": 1,
+   "Taşıtların Giriş-Çıkışı ve Fazla Çalışma": 1
+  },
+  "3": {
+   "Gümrük Kıymeti": 3,
+   "Kaçakçılık": 3,
+   "Cezalar": 3,
+   "Menşe": 3,
+   "Dahilde İşleme": 3,
+   "Gümrük Müşavirliği": 2,
+   "Geçici İthalat": 3,
+   "Temel Tanımlar": 1,
+   "Transit": 3,
+   "Antrepo": 2,
+   "Beyan": 1,
+   "Muafiyetler": 1,
+   "Geçici Depolama/GOBİK": 2,
+   "Tahakkuk-Tebliğ-Ödeme": 2,
+   "YGM": 1,
+   "Geri Verme-Kaldırma": 1,
+   "İhracat": 1,
+   "Disiplin": 1,
+   "Yetkilendirilmiş Yükümlü": 1,
+   "Bağlayıcı Bilgi (BTB/BMB)": 1,
+   "Serbest Dolaşıma Giriş": 1,
+   "Posta/Hızlı Kargo": 1,
+   "Teminat ve Faiz": 1,
+   "Serbest Bölge": 1,
+   "İthalat Rejim Kararı": 1,
+   "Muayene/Tahlil": 1,
+   "Gümrük Yükümlülüğü": 1,
+   "Özet Beyan": 1,
+   "İtiraz": 1,
+   "Fikri-Sınai Haklar": 1,
+   "Gümrüksüz Satış": 1,
+   "Sonradan Kontrol": 1
+  }
+ }
+}
