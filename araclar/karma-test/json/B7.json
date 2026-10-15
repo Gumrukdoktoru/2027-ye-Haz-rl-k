@@ -380,12 +380,12 @@
   "alt_tip": "O1",
   "kalip": "KAPSAM_DIŞI",
   "z": "O",
-  "madde": "GY 429/1, 423/1",
-  "cek": "Serbest bölge envanter kayıtlarının içeriği: yer, taşıma belgesi, statü belgesi, elleçleme; kişinin giriş izin belgesi bilgisi sayılmamış.",
+  "madde": "GY 429/1",
+  "cek": "Serbest bölge envanter kayıtlarının içeriği: miktar ve ticari tanım, yerleştirildiği yer, taşıma belgesi, gümrük statüsü belgesi, elleçleme ve rejim açıklamaları; gümrük kıymeti sayılmamış.",
   "kok": [
    "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtlarının içermesi gereken bilgiler arasında aşağıdakilerden hangisi sayılmamıştır?"
   ],
-  "d": "Bölgeye giren kişinin serbest bölge giriş izin belgesine ilişkin bilgiler",
+  "d": "Eşyanın gümrük kıymetine ilişkin bilgiler",
   "c": [
    "Eşyanın yerleştirildiği yer",
    "Eşya giriş ve çıkışında kullanılan taşıma belgesine ilişkin bilgiler",
@@ -393,8 +393,9 @@
    "Elleçleme işlemlerine ilişkin açıklamalar"
   ],
   "sabit": null,
-  "g": "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtları; eşyanın miktarı, normal ticari tanımı ve ayırt edici özellikleri ile paket ve konteyner bilgilerini, eşyanın yerleştirildiği yeri, giriş ve çıkışta kullanılan taşıma belgesine ilişkin bilgileri, eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, elleçleme işlemlerine ilişkin açıklamaları ve eşya dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulmuşsa bu rejimlere ilişkin açıklamaları içerir. Serbest Bölge Giriş İzin Belgesi ise bölgeye giren veya çıkan kişilerin gümrük personeline ibraz ettiği belgelerden biridir; envanter kayıtlarının içeriği arasında sayılmamıştır. (MD GY 429/1, 423/1)",
-  "kanit": "38-serbest bölge.txt | b) Eşyanın yerleştirildiği yeri, ... ç) Eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, ... a) Serbest Bölge Giriş İzin Belgesi,"
+  "g": "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtları; eşyanın miktarını ve normal ticari tanımını, marka, numara ve diğer ayırt edici özelliklerini, paketlerin tür ve sayısını ve varsa konteynerlerin ayırt edici işaretlerini, eşyanın yerleştirildiği yeri, giriş ve çıkışta kullanılan taşıma belgesine ilişkin bilgileri, eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, elleçleme işlemlerine ilişkin açıklamaları ve eşya dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulmuşsa bu rejimlere ilişkin açıklamaları içerir. Bu kayıtlar eşyanın teşhisine ve hareketlerinin izlenmesine yöneliktir; sayılan unsurlar arasında eşyanın gümrük kıymetine ilişkin bilgiler yer almaz. Tuzak, sayımda geçen gümrük statüsü belgesine ilişkin bilginin gümrük kıymeti bilgisiyle karıştırılmasıdır. (MD GY 429/1)",
+  "kanit": "38-serbest bölge.txt | a) Eşyanın miktarını ve normal ticari tanımını, marka, numara ve diğer ayırt edici özelliklerini, ... b) Eşyanın yerleştirildiği yeri, ... c) Eşya giriş ve çıkışında kullanılan taşıma belgesine ilişkin bilgileri, ... ç) Eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, ... d) Elleçleme işlemlerine ilişkin açıklamaları,",
+  "dogrulama": "DUZELT uygulandi: Doğru şık (bölgeye giren kişinin giriş izin belgesi bilgisi) eşyaya ilişkin diğer dört şıktan farklı kategoride (kişi belgesi) ve en uzun şık olduğundan cevabı ele veriyordu; doğru şık, envanter kayıtları sayımında yer almayan ve aynı kategoride kalan 'eşyanın gümrük kıymetine ilişkin bilgiler' ile "
  },
  {
   "test": 2,

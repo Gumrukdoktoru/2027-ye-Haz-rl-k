@@ -190,7 +190,7 @@ E) Önlem uygulanan ülke menşeli olduğu beyan edilen eşya için aynı düzen
 
 A) Ek mali yükümlülük ödenerek ithal edilecek eşya, gümrük vergilerinin ödendiği tarihte geçerli miktar ve oranlar kadar ek mali yükümlülüğe tabidir.  
 B) Gümrük Kanunu çerçevesinde gümrük vergilerinden muaf olarak gerçekleştirilecek ithalat da ek mali yükümlülüğe tabidir.  
-C) VII sayılı listede yer alan eşyanın, listede karşısında gösterilen nihai ürünlerin imalinde kullanılmak kaydıyla ithal edilmesi halinde bu eşyaya ek mali yükümlülük uygulanmaz.  
+C) VII sayılı listedeki eşya, listede karşısında gösterilen nihai ürünlerin imalinde kullanılmak kaydıyla ithal edilirse bu eşyaya ek mali yükümlülük uygulanmaz.  
 D) Ek mali yükümlülüğün ilgililerce süresi içinde yatırılmaması durumunda 213 sayılı Vergi Usul Kanunu hükümleri uygulanır.  
 E) Milli Savunma Bakanlığı adına ithalat yapan kamu kurum ve kuruluşları, gümrük vergisinden muaf olmakla birlikte ek mali yükümlülüğü öder.  
 
@@ -239,7 +239,7 @@ E) Eşyanın gümrük tarife istatistik pozisyonu
 A) Eşyanın bir şartlı muafiyet düzenlemesine tabi tutulması, söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır.  
 B) Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir.  
 C) Ekonomik etkili bir şartlı muafiyet düzenlemesi, bu düzenlemeye tabi tutulmakta olan eşyaya, eşdeğer eşyaya ya da işlenmiş ürünlere gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer.  
-D) Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülükleri, söz konusu rejimden yararlanma koşullarını taşıyan kişilere devredilebilir.  
+D) Hariçte işleme rejimi, ekonomik etkili gümrük rejimleri arasında yer almakla birlikte şartlı muafiyet düzenlemesi sayılmaz.  
 E) “Değişmemiş eşya” deyimi, yalnızca dahilde işleme rejimi çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir.  
 
 **26-** 4458 sayılı Gümrük Kanununa göre transit rejiminde teminata ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
@@ -278,7 +278,7 @@ E) Üç defaya kadar altmışar gün
 
 A) Antrepo işleticisi, izinde belirtilen özel şartlara uymaktan sorumludur.  
 B) Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur.  
-C) Gümrük idareleri tarafından işletilmeyen antrepolardaki tüm eşyanın antrepo kayıtları işletici tarafından tutulur.  
+C) Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, duruma göre işletici veya kullanıcıdan tahsil edilir.  
 D) Eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri antrepo işleticisinden alınır.  
 E) Eşyanın niteliğinden kaynaklanan kayıplar ve fireler için gümrük vergileri aranmaz.  
 
@@ -774,7 +774,7 @@ E) Önlem uygulanan ülke menşeli olduğu beyan edilen eşya için aynı düzen
 
 A) Ek mali yükümlülük ödenerek ithal edilecek eşya, gümrük vergilerinin ödendiği tarihte geçerli miktar ve oranlar kadar ek mali yükümlülüğe tabidir.  
 B) Gümrük Kanunu çerçevesinde gümrük vergilerinden muaf olarak gerçekleştirilecek ithalat da ek mali yükümlülüğe tabidir.  
-C) VII sayılı listede yer alan eşyanın, listede karşısında gösterilen nihai ürünlerin imalinde kullanılmak kaydıyla ithal edilmesi halinde bu eşyaya ek mali yükümlülük uygulanmaz.  
+C) VII sayılı listedeki eşya, listede karşısında gösterilen nihai ürünlerin imalinde kullanılmak kaydıyla ithal edilirse bu eşyaya ek mali yükümlülük uygulanmaz.  
 D) Ek mali yükümlülüğün ilgililerce süresi içinde yatırılmaması durumunda 213 sayılı Vergi Usul Kanunu hükümleri uygulanır.  
 E) Milli Savunma Bakanlığı adına ithalat yapan kamu kurum ve kuruluşları, gümrük vergisinden muaf olmakla birlikte ek mali yükümlülüğü öder.  
 
@@ -858,18 +858,18 @@ E) Eşyanın gümrük tarife istatistik pozisyonu
 
 <sub>Serbest Dolaşıma Giriş · orta çıkan (5–9) · O1 · Çıkmış: 2024/43</sub>
 
-*GK 79/3, 80/1, 81/2, 82, 83*
+*GK 79/1, 79/3, 80/1, 81/2, 82*
 
 **25-** 4458 sayılı Gümrük Kanununun şartlı muafiyet düzenlemeleri ve ekonomik etkili gümrük rejimlerine ilişkin ortak hükümlerine göre aşağıdaki ifadelerden hangisi yanlıştır?
 
 A) Eşyanın bir şartlı muafiyet düzenlemesine tabi tutulması, söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır.  
 B) Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir.  
 C) Ekonomik etkili bir şartlı muafiyet düzenlemesi, bu düzenlemeye tabi tutulmakta olan eşyaya, eşdeğer eşyaya ya da işlenmiş ürünlere gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer.  
-D) Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülükleri, söz konusu rejimden yararlanma koşullarını taşıyan kişilere devredilebilir.  
+D) Hariçte işleme rejimi, ekonomik etkili gümrük rejimleri arasında yer almakla birlikte şartlı muafiyet düzenlemesi sayılmaz.  
 E) “Değişmemiş eşya” deyimi, yalnızca dahilde işleme rejimi çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Kanununa göre “değişmemiş eşya” deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir; tanım yalnızca dahilde işleme rejimiyle sınırlı değildir, gümrük kontrolü altında işleme rejimini de kapsar. Diğer ifadeler doğrudur: şartlı muafiyet düzenlemesine tabi tutulma her türlü gümrük vergisine karşılık teminat verilmesi şartına bağlıdır; dahilde ve hariçte işleme rejimlerinin usul ve esaslarını Cumhurbaşkanı belirler; ekonomik etkili şartlı muafiyet düzenlemesi gümrükçe onaylanmış yeni bir işlem veya kullanım tayiniyle sona erer; hak ve yükümlülükler rejim koşullarını taşıyan kişilere devredilebilir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 79/3, 80/1, 81/2, 82, 83)
+**Gerekçe:** Gümrük Kanununa göre “değişmemiş eşya” deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir; tanım yalnızca dahilde işleme rejimiyle sınırlı değildir, gümrük kontrolü altında işleme rejimini de kapsar. Diğer ifadeler doğrudur: şartlı muafiyet düzenlemesine tabi tutulma her türlü gümrük vergisine karşılık teminat verilmesi şartına bağlıdır; dahilde ve hariçte işleme rejimlerinin usul ve esaslarını Cumhurbaşkanı belirler; ekonomik etkili şartlı muafiyet düzenlemesi gümrükçe onaylanmış yeni bir işlem veya kullanım tayiniyle sona erer; hariçte işleme rejimi ekonomik etkili gümrük rejimleri (antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat, hariçte işleme) arasında yer alır, ancak şartlı muafiyet düzenlemeleri (transit, antrepo, şartlı muafiyet sistemi kapsamında dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat) arasında sayılmamıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 79/1, 79/3, 80/1, 81/2, 82)
 
 <sub>Şartlı Muafiyet/EEGR · orta çıkan (5–9) · O2 · Çıkmış: 2022/62, 2023/83, 2024/30</sub>
 
@@ -933,18 +933,18 @@ E) Üç defaya kadar altmışar gün
 
 <sub>TIR · az çıkan (1–4) · D1 · Çıkmış: 2022/73</sub>
 
-*GK 96, 97/2, 99, 106/2*
+*GK 96, 97/2, 105/2, 106/2*
 
 **30-** 4458 sayılı Gümrük Kanununa göre antrepo işleticisi ve kullanıcısının sorumluluklarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
 
 A) Antrepo işleticisi, izinde belirtilen özel şartlara uymaktan sorumludur.  
 B) Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur.  
-C) Gümrük idareleri tarafından işletilmeyen antrepolardaki tüm eşyanın antrepo kayıtları işletici tarafından tutulur.  
+C) Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, duruma göre işletici veya kullanıcıdan tahsil edilir.  
 D) Eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri antrepo işleticisinden alınır.  
 E) Eşyanın niteliğinden kaynaklanan kayıplar ve fireler için gümrük vergileri aranmaz.  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Kanuna göre antrepodaki eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmişse noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır; vergilerin işleticiden alınacağı ifadesi yanlıştır. İşleticinin izinde belirtilen özel şartlara uyma sorumluluğu, kullanıcının rejime ilişkin yükümlülüklerden her halükarda sorumlu olması, gümrük idarelerince işletilmeyen antrepolarda kayıtların işletici tarafından tutulması ve eşyanın niteliğinden kaynaklanan kayıp ve firelerde vergi aranmaması Kanunda yer alan hükümlerdir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 96, 97/2, 99, 106/2)
+**Gerekçe:** Kanuna göre antrepodaki eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmişse noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır; vergilerin işleticiden alınacağı ifadesi yanlıştır. İşleticinin izinde belirtilen özel şartlara uyma sorumluluğu, kullanıcının rejime ilişkin yükümlülüklerden her halükarda sorumlu olması, sayımda noksan çıkan eşyanın vergilerinin duruma göre işletici veya kullanıcıdan tahsil edilmesi ve eşyanın niteliğinden kaynaklanan kayıp ve firelerde vergi aranmaması Kanunda yer alan hükümlerdir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 96, 97/2, 105/2, 106/2)
 
 <sub>Antrepo · çok çıkan (5 yılda 10+ soru) · O2 · Çıkmış: 2021/23, 2021/54</sub>
 
@@ -1353,12 +1353,12 @@ KT1-21 | Geçici Depolama/GOBİK | GY 87/1-2 | Numune alınması/inceleme talebi
 KT1-22 | Beyan | GK 69/1-4 | Vergi ödenmeden veya teminatsız teslim yasağı kısmi muafiyetli geçici ithalata uygulanmaz; makul süre, aynı anda teslim, kalem, teminat kuralları. | YANLIŞ | O | C | KT1
 KT1-23 | Beyan | GY 170/1 | İhracatta sözlü beyana tabi eşya listesi; Türk memur ve vatandaşlarının eşyası gidişten iki ay evvel veya altı ay sonra gönderilir. | KAPSAM_DIŞI | Z | A | KT1
 KT1-24 | Serbest Dolaşıma Giriş | GK 76; GY 204/1 | Önleme tabi olmayan eşyada en yüksek oranlı tarife uygulanırsa beyannameye cins, tür, miktar, kıymet ve GTİP listesi eklenir; menşe sayılmamıştır. | KAPSAM_DIŞI | O | D | KT1
-KT1-25 | Şartlı Muafiyet/EEGR | GK 79/3, 80/1, 81/2, 82, 83 | Değişmemiş eşya, dahilde işleme veya gümrük kontrolü altında işleme rejimlerinde hiç işçilik görmemiş ithal eşyasıdır; yalnız DİR'e özgü değildir. | YANLIŞ | K | E | KT1
+KT1-25 | Şartlı Muafiyet/EEGR | GK 79/1, 79/3, 80/1, 81/2, 82 | Değişmemiş eşya, dahilde işleme veya gümrük kontrolü altında işleme rejimlerinde hiç işçilik görmemiş ithal eşyasıdır; yalnız DİR'e özgü değildir. Hariçte işleme ekonomik etkili rejim olup şartlı muafiyet düzenlemesi değildir. | YANLIŞ | K | E | KT1
 KT1-26 | Transit | GK 85/2-6 | Teminattan vazgeçme izni, Müsteşarlıkça yüksek riskli belirlenen eşyanın transit işlemlerinde uygulanmaz; 'uygulanır' bozuk. | YANLIŞ | O | C | KT1
 KT1-27 | Transit | GY 218/1, 218/3 | Form 302 kapsamındaki transit işlemlerinde doğabilecek ihtilaflar Bakanlıkça (Gümrükler Genel Müdürlüğü) sonuçlandırılır. | YETKİ | O | A | KT1
 KT1-28 | Transit | GY 238/1, 238/3, 238/4; GK 84/4 | Boru hattıyla transitte rejim, eşyanın gönderildiği kişinin işletmesine ulaşıp kayıtlarına geçmesiyle son bulur. | SONUÇ | Z | D | KT1
 KT1-29 | TIR | TIR Tebliği (Seri No: 1) md. 3/1-u, 16/1, 16/4 | Taşıt onay belgesinin süresi yurt dışında biterse düzenleyen idarece bir defaya mahsus otuz gün ek süre verilir. | SÜRE | O | A | KT1
-KT1-30 | Antrepo | GK 96, 97/2, 99, 106/2 | Gümrüklenmiş kıymetle sigortalı eşyada noksanın vergisi sigorta ettirenden veya lehine sigorta ettirilenden alınır; işleticiden alınacağı ifadesi yanlış. | YANLIŞ | O | D | KT1
+KT1-30 | Antrepo | GK 96, 97/2, 105/2, 106/2 | Gümrüklenmiş kıymetle sigortalı eşyada noksanın vergisi sigorta ettirenden veya lehine sigorta ettirilenden alınır; işleticiden alınacağı ifadesi yanlış. | YANLIŞ | O | D | KT1
 KT1-31 | Dahilde İşleme | DİR Tebliği 17/11, 17/12 | Belge/izinde işletme malzemesi değeri ihracat taahhüdünün %2'sini geçemez; değişmemiş eşya ithalatı azami %1 oranında olabilir. | BOŞLUK | Z | B | KT1
 KT1-32 | Dahilde İşleme | DİR Tebliği 6/1, 6/3, 6/4, 6/5 | Eşdeğer eşya asgari 8'li bazda aynı; önceden ihracata tekabül eden ithalat belge süresi sonuna kadar; ithal eşya serbestçe kullanılabilir. | ÖNERMELİ | ÇZ | C | KT1
 KT1-33 | Dahilde İşleme | DİR Tebliği 24/1, 25/1 | Mücbir sebep ve fevkalade haller listesinde önceden ihracata tekabül eden ithalatın tamamlanamaması yoktur; bu, haklı sebep halidir. | KAPSAM_DIŞI | O | B | KT1

@@ -7,7 +7,7 @@
 | Set | Karma Test 2 (KT2) |
 | Kapsam | Gümrük mevzuatı; 2021–2025 GMY sınavlarında çok çıkan konular ağırlıklı |
 | Konu dağılımı | Çok çıkan 32 · orta çıkan 12 · az çıkan 5 · hiç çıkmayan 1 |
-| İçerik | Çıkmış bilgi alanı 28 · sorulmamış hüküm 22 |
+| İçerik | Çıkmış bilgi alanı 27 · sorulmamış hüküm 23 |
 | Süre önerisi | 75 dakika |
 
 > Sorular 2021–2025 GMY sınavlarının konu sıklığına göre kurgulandı: çok çıkan konulardan 32, orta çıkanlardan 12, az çıkanlardan 5, hiç çıkmayan bir konudan 1 soru. Çıkmış soruların bilgi alanları yeni kurguyla ölçüldü; kitapçık soruları kopyalanmadı. Tek bilgi kaynağı depodaki mevzuat metinleridir.
@@ -142,13 +142,13 @@ C) Cihaz, makine, alet veya aracın parçası
 D) Bakım malzemeleri  
 E) Önemli yedek parçalar  
 
-**15-** Gümrük Yönetmeliğine göre menşe şahadetnamesinin, ürünün teşhis edilmesini sağlamak üzere taşıması zorunlu olan bilgiler arasında aşağıdakilerden hangisi yer almaz?
+**15-** Gümrük Yönetmeliğine göre aşağıdakilerden hangisi, ticaret politikası önlemlerine tabi eşyanın serbest dolaşıma girişinde menşe şahadetnamesi aranmayan eşya arasında yer almaz?
 
-A) Kapların marka, numara ve sayıları  
-B) Eşyanın cinsi, nev'i, daralı ve net ağırlıkları veya diğer ölçüleri  
-C) Eşyanın tarife pozisyonu  
-D) Şahadetnameyi veren makamın tasdik şerhi  
-E) Şahadetname eşyanın o ülkede gördüğü değişiklik ve işlemlerden ötürü o ülke menşeli addedilerek verilmişse bu husustaki etraflı açıklamalar  
+A) Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kap ve kolilerinin toplam CIF kıymeti 430 Avro'yu geçmeyen eşya  
+B) Türkiye'nin tek taraflı olarak tanıdığı tercihli tarife uygulamasından faydalanmak amacıyla tercihli menşeini tevsik eden belgeler ibraz edilen eşya  
+C) Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kolilerinin her birinin CIF kıymeti 430 Avro'nun altında kalmakla birlikte toplam CIF kıymeti 430 Avro'yu aşan eşya  
+D) 1/95 sayılı Ortaklık Konseyi Kararının ticaret politikası önlemlerine ilişkin hükümleri saklı kalmak üzere, AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşya  
+E) Serbest ticaret anlaşması çerçevesindeki tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan ve tercihli menşeini tevsik eden belgeler ibraz edilen serbest dolaşımda olmayan eşya  
 
 **16-** Gümrük Yönetmeliğine göre gümrük idaresine ibraz olunan menşe şahadetnamesinde yer alan bilgilerin gerçeğe aykırı olduğu yönünde şüphe veya ihbar bulunması üzerine yapılan inceleme sonucunda şahadetnamenin sıhhati konusunda bir aykırılık tespit edilmesi hâlinde aşağıdakilerden hangisi uygulanır?
 
@@ -160,11 +160,11 @@ E) Usulüne uygun bir menşe şahadetnamesi ibrazı için yükümlüye altı ayl
 
 **17-** 4458 sayılı Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın menşeine ilişkin aşağıdaki ifadelerden hangisi doğrudur?
 
-A) Eşya, üretim sürecinin başladığı ve ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.  
+A) Eşya, üretim sürecinin başladığı ve ekonomik yönden gerekli görülen ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.  
 B) Esas amacının Türkiye tarafından belirli ülkelerin eşyasına uygulanan hükümleri aşmak olduğu tespit edilen bir işçilik veya işlemle üretilmiş eşya, bu işlemin yapıldığı ülke menşeli sayılır.  
-C) Eşya, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.  
-D) Eşyanın bir ülke menşeli sayılabilmesi için imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir.  
-E) Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapılması gerekir.  
+C) Eşya, üretimin gerçekleştirildiği ülkeler arasından, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.  
+D) Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi yeterli olmayıp imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir.  
+E) Eşya, yeni bir ürünün imali veya imalatın önemli bir aşamasıyla sonuçlanan en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.  
 
 **18-** 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre fazla çalışma süresi, görevli personel başına normal günlerde ----- ; hafta tatili, ulusal ve dini bayramlar ile genel tatil günlerinde ----- saati geçemez.
 
@@ -227,7 +227,7 @@ E) Türkiye Gümrük Bölgesinde en az iki yıldır yerleşik olması ve başkas
 A) Kefil  
 B) Taşıyıcı  
 C) Alıcı  
-D) Rejim hak sahibi (asıl sorumlu)  
+D) Rejim hak sahibi  
 E) Gönderici  
 
 **25-** I. A tipi antrepo
@@ -286,15 +286,15 @@ E) Mahrece iade edilme
 **31-** Tam muafiyet suretiyle geçici ithal edilecek eşyaya ilişkin aşağıdaki durumlar verilmiştir.
 
 I. Sözlü beyana konu olan eşya  
-II. Yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri  
-III. Yazılı beyana konu olan ve hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme  
-IV. Yazılı beyana konu olan ve sergi, fuar, toplantı ve benzeri etkinliklerde gösterime ya da kullanıma sunulan eşya  
+II. Yazılı beyana konu olan ve sergi, fuar, toplantı ve benzeri etkinliklerde gösterime ya da kullanıma sunulan eşya  
+III. Yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri  
+IV. Yazılı beyana konu olan ve hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme  
 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre yukarıdakilerden hangileri için teminat aranmaz?  
 
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, II ve III  
+A) I ve III  
+B) I ve IV  
+C) II ve III  
+D) I, III ve IV  
 E) I, II, III ve IV  
 
 **32-** 4458 sayılı Gümrük Kanununa göre geçici ithalat izni ve kısmi muafiyet uygulamasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
@@ -305,13 +305,13 @@ C) Kısmi muafiyet suretiyle alınacak ithalat vergileri tutarı, faizler hariç
 D) Kısmi muafiyet hükümleri dışında bir nedenle gümrük yükümlülüğü doğduğunda, hesaplanan vergi tutarından kısmi muafiyet kapsamında ödenen vergi miktarı düşülür.  
 E) Mülkiyeti Türkiye Gümrük Bölgesinde yerleşik bir kişiye ait olan ve tam muafiyet koşullarını taşımayan eşya, kısmi muafiyet suretiyle rejimden yararlanabilir.  
 
-**33-** Gümrük Yönetmeliğine göre “Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde Türkiye Gümrük Bölgesine getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen teminat hükmünde olan belge” aşağıdakilerden hangisidir?
+**33-** Gümrük Yönetmeliğine göre geçici ithalat rejiminde kullanılan triptik karnesine ilişkin aşağıdakilerden hangisi doğrudur?
 
-A) Triptik Karnesi  
-B) Gümrüklerden Geçiş Karnesi (CPD)  
-C) Yabancı Taşıtlar Geçici Giriş Karnesi  
-D) Geçici Giriş Belgesi  
-E) Taşıt Giriş-Çıkış Formu  
+A) Ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen, üç parçadan ibaret teminat hükmünde bir belgedir.  
+B) Ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde bir belgedir.  
+C) Türkiye'ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile geçici oturma iznine haiz yabancıların özel kullanımlarına mahsus kara taşıtları için düzenlenir.  
+D) Türkiye Gümrük Bölgesinde yerleşik kişilerin turistik amaçlı yurt dışı seyahatlerinde kullanacakları taşıtlar için düzenlenen bir belgedir.  
+E) Taşıt takip programlarına kayıt yapılamaması durumunda özel ve ticari kullanıma mahsus taşıtlar için düzenlenen bir belgedir.  
 
 **34-** Gümrük Yönetmeliğine göre ihracat rejiminde eksik beyanda bulunulan beyannamede yer alması gereken hususlar arasında aşağıdakilerden hangisi sayılmamıştır?
 
@@ -338,7 +338,7 @@ E) I, III ve IV
 **36-** Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtlarının içermesi gereken bilgiler arasında aşağıdakilerden hangisi sayılmamıştır?
 
 A) Eşyanın yerleştirildiği yer  
-B) Bölgeye giren kişinin serbest bölge giriş izin belgesine ilişkin bilgiler  
+B) Eşyanın gümrük kıymetine ilişkin bilgiler  
 C) Eşya giriş ve çıkışında kullanılan taşıma belgesine ilişkin bilgiler  
 D) Eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgiler  
 E) Elleçleme işlemlerine ilişkin açıklamalar  
@@ -710,20 +710,20 @@ E) Önemli yedek parçalar
 
 <sub>Menşe · çok çıkan (5 yılda 10+ soru) · K1</sub>
 
-*GY 40/1*
+*GY 39/1, 205/4*
 
-**15-** Gümrük Yönetmeliğine göre menşe şahadetnamesinin, ürünün teşhis edilmesini sağlamak üzere taşıması zorunlu olan bilgiler arasında aşağıdakilerden hangisi yer almaz?
+**15-** Gümrük Yönetmeliğine göre aşağıdakilerden hangisi, ticaret politikası önlemlerine tabi eşyanın serbest dolaşıma girişinde menşe şahadetnamesi aranmayan eşya arasında yer almaz?
 
-A) Kapların marka, numara ve sayıları  
-B) Eşyanın cinsi, nev'i, daralı ve net ağırlıkları veya diğer ölçüleri  
-C) Eşyanın tarife pozisyonu  
-D) Şahadetnameyi veren makamın tasdik şerhi  
-E) Şahadetname eşyanın o ülkede gördüğü değişiklik ve işlemlerden ötürü o ülke menşeli addedilerek verilmişse bu husustaki etraflı açıklamalar  
+A) Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kap ve kolilerinin toplam CIF kıymeti 430 Avro'yu geçmeyen eşya  
+B) Türkiye'nin tek taraflı olarak tanıdığı tercihli tarife uygulamasından faydalanmak amacıyla tercihli menşeini tevsik eden belgeler ibraz edilen eşya  
+C) Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kolilerinin her birinin CIF kıymeti 430 Avro'nun altında kalmakla birlikte toplam CIF kıymeti 430 Avro'yu aşan eşya  
+D) 1/95 sayılı Ortaklık Konseyi Kararının ticaret politikası önlemlerine ilişkin hükümleri saklı kalmak üzere, AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşya  
+E) Serbest ticaret anlaşması çerçevesindeki tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan ve tercihli menşeini tevsik eden belgeler ibraz edilen serbest dolaşımda olmayan eşya  
 
 **Doğru Cevap:** C  
-**Gerekçe:** Gümrük Yönetmeliğine göre menşe şahadetnamesinde eşyayı gönderenin ve Türkiye'deki alıcının adı soyadı, kapların marka, numara ve sayıları, eşyanın cinsi, nev'i, daralı ve net ağırlıkları veya diğer ölçüleri, şahadetnameyi veren makamın tasdik şerhi ile şahadetname eşyanın o ülkede gördüğü değişiklik ve işlemler nedeniyle verilmişse bu husustaki etraflı açıklamaların bulunması zorunludur. Eşyanın tarife pozisyonu bu sayımda yer almaz; tarife pozisyonu, bağlayıcı menşe bilgisi başvurusunda aranan bilgiler arasındadır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 40/1)
+**Gerekçe:** Gümrük Yönetmeliğine göre ticari mahiyette olmayan ve CIF kıymeti 430 Avro'yu geçmeyen eşya için menşe şahadetnamesi aranmaz; ancak aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen kap ve kolilerin hepsi bir bütün teşkil eder ve tamamının kıymeti birlikte dikkate alınır. Kolilerin her biri 430 Avro'nun altında kalsa da toplam CIF kıymeti 430 Avro'yu aşan eşya bu istisnadan yararlanamaz; tuzak, kıymetin koli bazında değerlendirilmesidir. Ticaret politikası önlemlerine tabi eşyadan tercihli menşeini tevsik eden belgeler ibraz edilen eşya, serbest ticaret anlaşmaları veya Genelleştirilmiş Tercihler Sistemi çerçevesinde tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan ve bu belgeleri ibraz edilen serbest dolaşımda olmayan eşya ile 1/95 sayılı Ortaklık Konseyi Kararı hükümleri saklı kalmak üzere AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşya için ise menşe şahadetnamesi aranmaz. Bu nedenle doğru cevap C seçeneğidir. (MD GY 39/1, 205/4)
 
-<sub>Menşe · çok çıkan (5 yılda 10+ soru) · O1 · Çıkmış: 2024/29, 2025/46</sub>
+<sub>Menşe · çok çıkan (5 yılda 10+ soru) · O1</sub>
 
 *GY 41/1-2*
 
@@ -744,14 +744,14 @@ E) Usulüne uygun bir menşe şahadetnamesi ibrazı için yükümlüye altı ayl
 
 **17-** 4458 sayılı Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın menşeine ilişkin aşağıdaki ifadelerden hangisi doğrudur?
 
-A) Eşya, üretim sürecinin başladığı ve ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.  
+A) Eşya, üretim sürecinin başladığı ve ekonomik yönden gerekli görülen ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.  
 B) Esas amacının Türkiye tarafından belirli ülkelerin eşyasına uygulanan hükümleri aşmak olduğu tespit edilen bir işçilik veya işlemle üretilmiş eşya, bu işlemin yapıldığı ülke menşeli sayılır.  
-C) Eşya, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.  
-D) Eşyanın bir ülke menşeli sayılabilmesi için imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir.  
-E) Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapılması gerekir.  
+C) Eşya, üretimin gerçekleştirildiği ülkeler arasından, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.  
+D) Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi yeterli olmayıp imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir.  
+E) Eşya, yeni bir ürünün imali veya imalatın önemli bir aşamasıyla sonuçlanan en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.  
 
 **Doğru Cevap:** E  
-**Gerekçe:** Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir. Ölçüt ilk değil en son esaslı işçiliktir; girdilerin kıymetçe çoğunluğu ölçüt alınmaz ve imalatın bütün aşamalarının aynı ülkede yapılması aranmaz. Esas amacı Türkiye'nin belirli ülkelerin eşyasına uyguladığı hükümleri aşmak olan işçilik veya işlemle üretilen eşya ise bu hükme dayanılarak o ülke menşeli sayılmaz. Bu nedenle doğru cevap E seçeneğidir. (MD GK 19, 20)
+**Gerekçe:** Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir. Ölçüt ilk değil en son esaslı işçiliktir; girdilerin kıymetçe çoğunluğu ölçüt alınmaz ve o ülkede yeni bir ürün imal edilmesi yeterli olup imalatın bütün aşamalarının aynı ülkede yapılması aranmaz. Esas amacı Türkiye'nin belirli ülkelerin eşyasına uyguladığı hükümleri aşmak olan işçilik veya işlemle üretilen eşya ise bu hükme dayanılarak o ülke menşeli sayılmaz. Bu nedenle doğru cevap E seçeneğidir. (MD GK 19, 20)
 
 <sub>Menşe · çok çıkan (5 yılda 10+ soru) · G1 · Çıkmış: 2024/34, 2025/47</sub>
 
@@ -860,7 +860,7 @@ E) Türkiye Gümrük Bölgesinde en az iki yıldır yerleşik olması ve başkas
 A) Kefil  
 B) Taşıyıcı  
 C) Alıcı  
-D) Rejim hak sahibi (asıl sorumlu)  
+D) Rejim hak sahibi  
 E) Gönderici  
 
 **Doğru Cevap:** D  
@@ -968,19 +968,19 @@ E) Mahrece iade edilme
 **31-** Tam muafiyet suretiyle geçici ithal edilecek eşyaya ilişkin aşağıdaki durumlar verilmiştir.
 
 I. Sözlü beyana konu olan eşya  
-II. Yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri  
-III. Yazılı beyana konu olan ve hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme  
-IV. Yazılı beyana konu olan ve sergi, fuar, toplantı ve benzeri etkinliklerde gösterime ya da kullanıma sunulan eşya  
+II. Yazılı beyana konu olan ve sergi, fuar, toplantı ve benzeri etkinliklerde gösterime ya da kullanıma sunulan eşya  
+III. Yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri  
+IV. Yazılı beyana konu olan ve hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme  
 2009/15481 sayılı "4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar"a göre yukarıdakilerden hangileri için teminat aranmaz?  
 
-A) I ve II  
-B) I ve III  
-C) II ve IV  
-D) I, II ve III  
+A) I ve III  
+B) I ve IV  
+C) II ve III  
+D) I, III ve IV  
 E) I, II, III ve IV  
 
 **Doğru Cevap:** D  
-**Gerekçe:** Karara göre tam muafiyet suretiyle geçici ithal edilecek eşyadan kural olarak ithalat vergilerini karşılayacak tutarda teminat aranır. Ancak sözlü beyana konu eşya ile yazılı beyana konu olan eşyadan Türkiye Gümrük Bölgesindeki kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri ve hava, deniz, demiryolu şirketlerine veya posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için teminat aranmaz. Sergi, fuar ve benzeri etkinliklerde gösterime sunulan eşya bu istisnalar arasında sayılmamıştır. Bu nedenle teminat aranmayanlar I, II ve III'tür. Bu nedenle doğru cevap D seçeneğidir. (MD 2009/15481 Karar 41)
+**Gerekçe:** Karara göre tam muafiyet suretiyle geçici ithal edilecek eşyadan kural olarak ithalat vergilerini karşılayacak tutarda teminat aranır. Ancak sözlü beyana konu eşya ile yazılı beyana konu olan eşyadan Türkiye Gümrük Bölgesindeki kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri ve hava, deniz, demiryolu şirketlerine veya posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için teminat aranmaz. Sergi, fuar ve benzeri etkinliklerde gösterime sunulan eşya bu istisnalar arasında sayılmamıştır. Bu nedenle teminat aranmayanlar I, III ve IV'tür. Bu nedenle doğru cevap D seçeneğidir. (MD 2009/15481 Karar 41)
 
 <sub>Geçici İthalat · çok çıkan (5 yılda 10+ soru) · Ö3 · Çıkmış: 2022/60, 2024/72</sub>
 
@@ -999,20 +999,20 @@ E) Mülkiyeti Türkiye Gümrük Bölgesinde yerleşik bir kişiye ait olan ve ta
 
 <sub>Geçici İthalat · çok çıkan (5 yılda 10+ soru) · O2 · Çıkmış: 2024/72, 2022/60</sub>
 
-*GY 376/1-i, 376/1-j*
+*GY 376/1-ğ, i, j; Kara Taşıtları GGT Seri No:1 md. 4/1-e*
 
-**33-** Gümrük Yönetmeliğine göre “Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde Türkiye Gümrük Bölgesine getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen teminat hükmünde olan belge” aşağıdakilerden hangisidir?
+**33-** Gümrük Yönetmeliğine göre geçici ithalat rejiminde kullanılan triptik karnesine ilişkin aşağıdakilerden hangisi doğrudur?
 
-A) Triptik Karnesi  
-B) Gümrüklerden Geçiş Karnesi (CPD)  
-C) Yabancı Taşıtlar Geçici Giriş Karnesi  
-D) Geçici Giriş Belgesi  
-E) Taşıt Giriş-Çıkış Formu  
+A) Ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen, üç parçadan ibaret teminat hükmünde bir belgedir.  
+B) Ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde bir belgedir.  
+C) Türkiye'ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile geçici oturma iznine haiz yabancıların özel kullanımlarına mahsus kara taşıtları için düzenlenir.  
+D) Türkiye Gümrük Bölgesinde yerleşik kişilerin turistik amaçlı yurt dışı seyahatlerinde kullanacakları taşıtlar için düzenlenen bir belgedir.  
+E) Taşıt takip programlarına kayıt yapılamaması durumunda özel ve ticari kullanıma mahsus taşıtlar için düzenlenen bir belgedir.  
 
 **Doğru Cevap:** A  
-**Gerekçe:** Gümrük Yönetmeliğinde triptik karnesi, Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen, üç parçadan ibaret teminat hükmünde belge olarak tanımlanmıştır. Yabancı taşıtlar geçici giriş karnesi de ulusal kefil kuruluşça verilen ve yalnız Türkiye'de geçerli teminat hükmünde belgedir; ancak görev yapmak veya öğrenim için gelenler ile geçici oturma izni olan yabancıların taşıtlarına ilişkindir. Gümrüklerden geçiş karnesi (CPD) ise ulusal ve uluslararası kefil kuruluşlarca verilir; taşıt giriş-çıkış formu ise taşıt takip programlarına kayıt yapılamadığında düzenlenir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 376/1-i, j)
+**Gerekçe:** Gümrük Yönetmeliğinde triptik karnesi; Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde Türkiye Gümrük Bölgesine getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen, üç parçadan ibaret teminat hükmünde belge olarak tanımlanmıştır. Ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen belge gümrüklerden geçiş karnesi (CPD); görev yapmak veya öğrenimde bulunmak için gelenler ile geçici oturma iznine haiz yabancıların taşıtları için verilen belge yabancı taşıtlar geçici giriş karnesi; taşıt takip programlarına kayıt yapılamaması durumunda düzenlenen belge ise taşıt giriş-çıkış formudur. Tuzak: triptik karnesi Türkiye Gümrük Bölgesinde yerleşik kişilerin yurt dışı seyahatleri için değil, bu bölge dışında yerleşik kişilerin Türkiye'ye getirdikleri taşıtlar için düzenlenir. Bu nedenle doğru cevap A seçeneğidir. (MD GY 376/1-ğ, i, j; Kara Taşıtları GGT Seri No:1 md. 4/1-e)
 
-<sub>Geçici İthalat · çok çıkan (5 yılda 10+ soru) · K1 · Çıkmış: 2022/61, 2025/90</sub>
+<sub>Geçici İthalat · çok çıkan (5 yılda 10+ soru) · G1 · Çıkmış: 2022/61, 2025/90</sub>
 
 *GY 154/1, 154/5*
 
@@ -1050,18 +1050,18 @@ E) I, III ve IV
 
 <sub>Geri Gelen Eşya · orta çıkan (5–9) · Ö1</sub>
 
-*GY 429/1, 423/1*
+*GY 429/1*
 
 **36-** Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtlarının içermesi gereken bilgiler arasında aşağıdakilerden hangisi sayılmamıştır?
 
 A) Eşyanın yerleştirildiği yer  
-B) Bölgeye giren kişinin serbest bölge giriş izin belgesine ilişkin bilgiler  
+B) Eşyanın gümrük kıymetine ilişkin bilgiler  
 C) Eşya giriş ve çıkışında kullanılan taşıma belgesine ilişkin bilgiler  
 D) Eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgiler  
 E) Elleçleme işlemlerine ilişkin açıklamalar  
 
 **Doğru Cevap:** B  
-**Gerekçe:** Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtları; eşyanın miktarı, normal ticari tanımı ve ayırt edici özellikleri ile paket ve konteyner bilgilerini, eşyanın yerleştirildiği yeri, giriş ve çıkışta kullanılan taşıma belgesine ilişkin bilgileri, eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, elleçleme işlemlerine ilişkin açıklamaları ve eşya dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulmuşsa bu rejimlere ilişkin açıklamaları içerir. Serbest Bölge Giriş İzin Belgesi ise bölgeye giren veya çıkan kişilerin gümrük personeline ibraz ettiği belgelerden biridir; envanter kayıtlarının içeriği arasında sayılmamıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 429/1, 423/1)
+**Gerekçe:** Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtları; eşyanın miktarını ve normal ticari tanımını, marka, numara ve diğer ayırt edici özelliklerini, paketlerin tür ve sayısını ve varsa konteynerlerin ayırt edici işaretlerini, eşyanın yerleştirildiği yeri, giriş ve çıkışta kullanılan taşıma belgesine ilişkin bilgileri, eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, elleçleme işlemlerine ilişkin açıklamaları ve eşya dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulmuşsa bu rejimlere ilişkin açıklamaları içerir. Bu kayıtlar eşyanın teşhisine ve hareketlerinin izlenmesine yöneliktir; sayılan unsurlar arasında eşyanın gümrük kıymetine ilişkin bilgiler yer almaz. Tuzak, sayımda geçen gümrük statüsü belgesine ilişkin bilginin gümrük kıymeti bilgisiyle karıştırılmasıdır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 429/1)
 
 <sub>Serbest Bölge · orta çıkan (5–9) · O1</sub>
 
@@ -1308,15 +1308,15 @@ E) I, II, III ve IV
 
 **Alt tip (soru tipi kataloğu kodu)**
 
-| O1 | D1 | O2 | G1 | K1 | Ö3 | B1 | Ö2 | D6 | D3 | Ö1 | H6 | D2 | Ö4 |
+| O1 | D1 | O2 | G1 | Ö3 | B1 | K1 | Ö2 | D6 | D3 | Ö1 | H6 | D2 | Ö4 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 10 | 7 | 6 | 5 | 4 | 4 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 |
+| 10 | 7 | 6 | 6 | 4 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 |
 
 **Zorluk**
 
 | ÇK | K | O | Z | ÇZ |
 |---|---|---|---|---|
-| 0 | 8 | 24 | 14 | 4 |
+| 0 | 7 | 25 | 14 | 4 |
 
 **Konu**
 
@@ -1372,7 +1372,7 @@ KT2-11 | Gümrük Kıymeti | GK 24/2-a, b, c | İlişkili satışta emsal kıyme
 KT2-12 | Gümrük Kıymeti | GY 45/1-c; GK 28/e | Büyük alımın bir kısmı beyan edilirse, kısmi kayıpta da, fiyat toplam fiyatın miktar oranıyla bulunur: 60.000×1.500/2.000=45.000 TL. | HESAP | Z | B | KT2
 KT2-13 | İthalat Rejim Kararı | İRK 9/1, 9/3, 9/4 | II-V-VI çakışmasında düşük oran ve GTS sütunları doğru; Hariç Sektörlerde de düşük oran uygulanır; T1/T2'de Bileşim Tablosu kod, Tarım Payı Tablosu EMY verir. | ÖNERMELİ | Z | C | KT2
 KT2-14 | Menşe | GY 37/4 | GY 37/4-b: XVI-XVIII. bölüm eşyasının düzgün çalışması, normal bakımı ve hasarlı parça değişimi için planlanan parçalar 'önemli yedek parçalar'dır. | KAVRAM | Z | E | KT2
-KT2-15 | Menşe | GY 40/1 | GY 40/1: menşe şahadetnamesinde bulunması zorunlu bilgiler arasında eşyanın tarife pozisyonu yoktur. | KAPSAM_DIŞI | K | C | KT2
+KT2-15 | Menşe | GY 39/1, 205/4 | GY 39/1: ticari mahiyette olmayan ve CIF kıymeti 430 Avro'yu geçmeyen eşyada menşe şahadetnamesi aranmaz; aynı göndericiden aynı alıcıya gönderilen kap ve kolilerin kıymeti birlikte dikkate alınır, toplam 430 Avro'yu aşarsa istisna uygulanmaz. | KAPSAM_DIŞI | O | C | KT2
 KT2-16 | Menşe | GY 41/1-2 | GY 41/1: MŞ incelemesinde sıhhate ilişkin aykırılık tespit edilirse duruma göre 5607 sayılı Kaçakçılıkla Mücadele Kanunu uygulanır. | SONUÇ | O | D | KT2
 KT2-17 | Menşe | GK 19, 20 | GK 19-20: çok ülkeli üretimde menşe, en son esaslı işçiliğin donatılmış işletmede yapıldığı ülkedir; hükümleri aşma amaçlı işlem menşe kazandırmaz. | DOĞRU | O | E | KT2
 KT2-18 | Taşıtların Giriş-Çıkışı ve Fazla Çalışma | 2009/15481 Karar md. 122/3-4, 125/1 | Fazla çalışma süresi personel başına normal günlerde yedi, hafta tatili ve bayram/genel tatil günlerinde on dört saati geçemez. | BOŞLUK | O | C | KT2
@@ -1390,10 +1390,10 @@ KT2-29 | Dahilde İşleme | DİR Tebliği 36/1, 36/4 | Kısmi teminat iadesinde 
 KT2-30 | GKAİR | GKAİR GGT Seri No:3 md. 6/1, 7/1 | GKAİR'de ekonomik değerli ikincil ürünler tasfiye, yeniden ihraç, serbest dolaşım, mahrece iade veya imhaya tabi tutulabilir; antrepo sayılmamıştır. | KAPSAM_DIŞI | K | C | KT2
 KT2-31 | Geçici İthalat | 2009/15481 Karar 41 | Tam muafiyetli geçici ithalatta sözlü beyan eşyası, kriz hali yardım malzemesi ve işaretli uluslararası trafik malzemesi için teminat aranmaz. | ÖNERMELİ | O | D | KT2
 KT2-32 | Geçici İthalat | GK 129/2, 132/1-2, 133/2, 134/2 | Kısmi muafiyetli geçici ithalat, mülkiyeti TGB dışında yerleşik kişiye ait eşya için mümkündür; TGB'de yerleşik kişinin eşyası için değil. | YANLIŞ | Z | E | KT2
-KT2-33 | Geçici İthalat | GY 376/1-i, 376/1-j | Turistik amaçla getirilen taşıtlar için ulusal kefil kuruluşça yalnız Türkiye'de geçerli düzenlenen teminat hükmündeki belge triptik karnesidir. | KAVRAM | O | A | KT2
+KT2-33 | Geçici İthalat | GY 376/1-ğ, i, j; Kara Taşıtları GGT Seri No:1 md. 4/1-e | Triptik karnesi, TGB dışında yerleşik kişilerin turistik amaçla getirdiği taşıtlar için ulusal kefil kuruluşça yalnız Türkiye için geçerli düzenlenen, üç parçalı teminat hükmünde belgedir. | DOĞRU | O | A | KT2
 KT2-34 | İhracat | GY 154/1, 154/5 | İhracatta eksik beyanda beyannamede bulunacak unsurlar: gideceği ülke, kaplar, tarife pozisyonu, ağırlık, imza; menşe ülkesi sayılmamış. | KAPSAM_DIŞI | O | E | KT2
 KT2-35 | Geri Gelen Eşya | GK 168/1, 170 | Özel amaçla indirimli oranla girmiş geri gelen eşyada aynı amaç-aynı oran, farklı amaçta mahsup ve iade yok; DİR sonrası yeniden ihraç tarihi esas. | ÖNERMELİ | ÇZ | C | KT2
-KT2-36 | Serbest Bölge | GY 429/1, 423/1 | Serbest bölge envanter kayıtlarının içeriği: yer, taşıma belgesi, statü belgesi, elleçleme; kişinin giriş izin belgesi bilgisi sayılmamış. | KAPSAM_DIŞI | O | B | KT2
+KT2-36 | Serbest Bölge | GY 429/1 | Serbest bölge envanter kayıtlarının içeriği: miktar ve ticari tanım, yerleştirildiği yer, taşıma belgesi, gümrük statüsü belgesi, elleçleme ve rejim açıklamaları; gümrük kıymeti sayılmamış. | KAPSAM_DIŞI | O | B | KT2
 KT2-37 | Muafiyetler | 2009/15481 s. Karar 107/4, 107/5-a | Engellilere mahsus araçlar SDG tarihinden itibaren on yıl geçmedikçe engelli olmayana vergisiz devredilemez; genel üç yıl, varis beş yıl. | SÜRE | Z | D | KT2
 KT2-38 | Muafiyetler | GY 439/1-2, 440/1-4, 442/1 | Diplomatik muafiyetli kişilerin beraberindeki eşya, şüphe ve yazılı, açık adresli, imzalı ihbar varsa muayene edilebilir; karşılıklılık, çalınan taşıt, mektup hükümleri. | YANLIŞ | O | C | KT2
 KT2-39 | Sınır Ticareti | Sınır Ticaretinin Düzenlenmesine İlişkin Karar 6/2-4, 8/2 | Sınır Ticareti Belgesini, başvurusu odaya yapılıp İl Değerlendirme Komisyonunca uygun görülenler için Valilik düzenler. | YETKİ | O | D | KT2

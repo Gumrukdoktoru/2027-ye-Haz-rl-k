@@ -367,7 +367,7 @@ E) Yetkilendirilmiş yükümlü sertifikasına sahip şirketler
 A) Gümrük yükümlülüğünün doğduğu tarihten itibaren üç yıl içinde tahakkuk ettirilmeyen gümrük vergileri bu süre dolduktan sonra ilgilisinden istenmez ve tahakkuk zamanaşımı süreleri gümrük idarelerince re'sen dikkate alınır.  
 B) Tebliğ edilen gümrük vergilerine karşı ilk derece mahkemesinde dava açılması tahsilat takibini durdurur.  
 C) İlk derece mahkemesince yükümlü aleyhine verilen karara karşı istinaf veya temyize gidilmesi, yürütmeyi durdurma kararı verilmediği sürece tahsilatı durdurmaz.  
-D) Gümrük vergilerinin ceza gerektiren ve zamanaşımı daha uzun olan bir fiile ilişkin olması ve bu fiil nedeniyle ceza davası açılmış olması kaydıyla gelir eksiği, ceza davasının sonuçlanması beklenerek ilgili kanunlarda belirlenen zamanaşımı süreleri içerisinde takip ve tahsil edilir.  
+D) Ceza gerektiren ve zamanaşımı daha uzun bir fiil nedeniyle ceza davası açılmışsa gelir eksiği, ceza davasının sonuçlanması beklenerek ilgili kanunlardaki zamanaşımı süreleri içinde takip ve tahsil edilir.  
 E) Zamanaşımına uğramış gümrük vergilerini yükümlünün ödemek istemesi durumunda rızaen yapılacak ödemeler kabul olunur.  
 
 **42-** Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre dolaylı temsilcinin, beyanda kullanılan verilerin yanlış olduğunu bildiği veya mesleği icabı ve mutat olarak bilmesi gerektiği durumların tespitinde varlığı araştırılan hâller arasında aşağıdakilerden hangisi yer almaz?
@@ -429,7 +429,7 @@ E) I, III ve IV
 
 A) Resmî makamlar haber aldıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza yarı oranında indirilir.  
 B) Suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar paranın ödenmesi hâlinde cezanın indirileceği, soruşturma evresinde hâkim tarafından şüpheliye ihtar edilir.  
-C) Kaçakçılık suçuna iştirak eden kişi, resmî makamlar haber almadan önce fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi de faillerin yakalanmasını sağlarsa cezalandırılmaz.  
+C) Suça iştirak eden kişi, resmî makamlar haber almadan fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi faillerin yakalanmasını sağlarsa cezalandırılmaz.  
 D) Gümrüklenmiş değerin iki katı kadar paranın Hazineye ödenmesiyle sağlanan ceza indirimi, suçun üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde uygulanmaz.  
 E) Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması, suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil eder.  
 
@@ -1096,7 +1096,7 @@ E) Yetkilendirilmiş yükümlü sertifikasına sahip şirketler
 A) Gümrük yükümlülüğünün doğduğu tarihten itibaren üç yıl içinde tahakkuk ettirilmeyen gümrük vergileri bu süre dolduktan sonra ilgilisinden istenmez ve tahakkuk zamanaşımı süreleri gümrük idarelerince re'sen dikkate alınır.  
 B) Tebliğ edilen gümrük vergilerine karşı ilk derece mahkemesinde dava açılması tahsilat takibini durdurur.  
 C) İlk derece mahkemesince yükümlü aleyhine verilen karara karşı istinaf veya temyize gidilmesi, yürütmeyi durdurma kararı verilmediği sürece tahsilatı durdurmaz.  
-D) Gümrük vergilerinin ceza gerektiren ve zamanaşımı daha uzun olan bir fiile ilişkin olması ve bu fiil nedeniyle ceza davası açılmış olması kaydıyla gelir eksiği, ceza davasının sonuçlanması beklenerek ilgili kanunlarda belirlenen zamanaşımı süreleri içerisinde takip ve tahsil edilir.  
+D) Ceza gerektiren ve zamanaşımı daha uzun bir fiil nedeniyle ceza davası açılmışsa gelir eksiği, ceza davasının sonuçlanması beklenerek ilgili kanunlardaki zamanaşımı süreleri içinde takip ve tahsil edilir.  
 E) Zamanaşımına uğramış gümrük vergilerini yükümlünün ödemek istemesi durumunda rızaen yapılacak ödemeler kabul olunur.  
 
 **Doğru Cevap:** D  
@@ -1207,7 +1207,7 @@ E) I, III ve IV
 
 A) Resmî makamlar haber aldıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza yarı oranında indirilir.  
 B) Suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar paranın ödenmesi hâlinde cezanın indirileceği, soruşturma evresinde hâkim tarafından şüpheliye ihtar edilir.  
-C) Kaçakçılık suçuna iştirak eden kişi, resmî makamlar haber almadan önce fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi de faillerin yakalanmasını sağlarsa cezalandırılmaz.  
+C) Suça iştirak eden kişi, resmî makamlar haber almadan fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi faillerin yakalanmasını sağlarsa cezalandırılmaz.  
 D) Gümrüklenmiş değerin iki katı kadar paranın Hazineye ödenmesiyle sağlanan ceza indirimi, suçun üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde uygulanmaz.  
 E) Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması, suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil eder.  
 

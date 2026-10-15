@@ -220,7 +220,7 @@
   "kok": [
    "3350 sayılı İthalat Rejimi Kararına göre ek mali yükümlülüğe ilişkin aşağıdaki ifadelerden hangisi doğrudur?"
   ],
-  "d": "VII sayılı listede yer alan eşyanın, listede karşısında gösterilen nihai ürünlerin imalinde kullanılmak kaydıyla ithal edilmesi halinde bu eşyaya ek mali yükümlülük uygulanmaz.",
+  "d": "VII sayılı listedeki eşya, listede karşısında gösterilen nihai ürünlerin imalinde kullanılmak kaydıyla ithal edilirse bu eşyaya ek mali yükümlülük uygulanmaz.",
   "c": [
    "Ek mali yükümlülük ödenerek ithal edilecek eşya, gümrük vergilerinin ödendiği tarihte geçerli miktar ve oranlar kadar ek mali yükümlülüğe tabidir.",
    "Gümrük Kanunu çerçevesinde gümrük vergilerinden muaf olarak gerçekleştirilecek ithalat da ek mali yükümlülüğe tabidir.",
@@ -229,7 +229,8 @@
   ],
   "sabit": null,
   "g": "3350 sayılı İthalat Rejimi Kararına göre VII sayılı listede yer alan eşya, \"Üretimi Gerçekleştirilecek Nihai Ürün\" sütununda gösterilen ürünlerin imalinde kullanılmak kaydıyla ithal edilirse listedeki oranda gümrük vergisine tabi olur, nihai kullanım hükümlerine tabi tutulur ve bu eşyaya ek mali yükümlülük uygulanmaz. Ek mali yükümlülük, gümrük yükümlülüğünün doğduğu tarihte geçerli miktar ve oranlar üzerinden gümrük idarelerince tahsil edilir; Gümrük Kanunu çerçevesinde gümrük vergilerinden muaf ithalat ek mali yükümlülüğe tabi değildir; süresinde yatırılmayan ek mali yükümlülük için 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uygulanır. Milli Savunma Bakanlığı veya adına ithalat yapan kamu kurum ve kuruluşları gümrük vergisi, ek mali yükümlülük ve harçlardan muaftır. (MD İRK 9/2, 10/1-2, 14/2)",
-  "kanit": "ck_2020-03350_ithalat_rejimi_karari.txt | Bu fıkra kapsamı eşyaya ek mali yükümlülük uygulanmaz. ... Ek mali yükümlülük ödenerek ithal edilecek eşya, gümrük yükümlülüğünün doğduğu tarihte geçerli miktar ve oranlar kadar ek mali yükümlülüğe tabidir. ... gümrük vergilerinden muaf olarak gerçekleştirilecek ithalat, ek mali yükümlülüğe tabi değildir. ... Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. ... kurum ve kuruluşları ithalatta alınan gümrük vergisi, ek mali yükümlülük ve harçlardan muaftır."
+  "kanit": "ck_2020-03350_ithalat_rejimi_karari.txt | Bu fıkra kapsamı eşyaya ek mali yükümlülük uygulanmaz. ... Ek mali yükümlülük ödenerek ithal edilecek eşya, gümrük yükümlülüğünün doğduğu tarihte geçerli miktar ve oranlar kadar ek mali yükümlülüğe tabidir. ... gümrük vergilerinden muaf olarak gerçekleştirilecek ithalat, ek mali yükümlülüğe tabi değildir. ... Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. ... kurum ve kuruluşları ithalatta alınan gümrük vergisi, ek mali yükümlülük ve harçlardan muaftır.",
+  "dogrulama": "doğru şık uzunluk dengesi için kısaltıldı"
  },
  {
   "test": 1,

@@ -106,7 +106,8 @@
   ],
   "sabit": null,
   "g": "Gümrük Yönetmeliğine göre bağlayıcı tarife bilgisi başvurusunda hak sahibinin adı, soyadı ve adresi; başvuran hak sahibi değilse başvuranın bilgileri; eşyanın Türk Gümrük Tarife Cetvelindeki yerini belirlemeye yarayan ayrıntılı tanım; sınıflandırma bileşime bağlıysa tahlil metotları; numune, fotoğraf, plan, kroki gibi belgeler ve gizli tutulması istenen hususlara ilişkin bilgi bulunmak zorundadır. Eşyanın hangi ülkede ne tür işlem ve işçilik gördüğü ise menşein tespitine yönelik bir bilgidir ve bağlayıcı menşe bilgisi başvurularında aranır. (MD GY 28/3, 29/4)",
-  "kanit": "7-BİLGİ.txt | Bağlayıcı Tarife Bilgisi başvurularının aşağıdaki bilgi ve belgeleri içermesi zorunludur ... d) Eşyanın sınıflandırılmasının, eşya bileşimine bağlı olması durumunda bu bileşimin belirlenebilmesi için kullanılabilecek tahlil metotları ... f) Gizli tutulması istenilen hususlar varsa bunlara ilişkin bilgi ... g) Eşyanın hangi ülkede ne tür işlem ve işçilik gördüğü"
+  "kanit": "7-BİLGİ.txt | Bağlayıcı Tarife Bilgisi başvurularının aşağıdaki bilgi ve belgeleri içermesi zorunludur ... a) Hak sahibinin adı, soyadı ve adresi ... ç) Eşyanın Türk Gümrük Tarife Cetvelindeki yerinin belirlenmesini sağlayacak ayrıntılı tanım ... d) Eşyanın sınıflandırılmasının, eşya bileşimine bağlı olması durumunda bu bileşimin belirlenebilmesi için kullanılabilecek tahlil metotları ... f) Gizli tutulması istenilen hususlar varsa bunlara ilişkin bilgi ... Bağlayıcı Menşe Bilgisi başvurularının aşağıdaki bilgi ve belgeleri içermesi zorunludur ... g) Eşyanın hangi ülkede ne tür işlem ve işçilik gördüğü",
+  "dogrulama": "DUZELT uygulandi: Soru içeriği doğru; ancak kanıt, doğru cevabı oluşturan \"hangi ülkede ne tür işlem ve işçilik gördüğü\" bendini BTB listesinin devamıymış gibi (BTB başlığı ve f) bendinin hemen ardından) veriyordu. Bu bent GY 29/4'teki BMB listesine aittir; kanıt BMB başlığıyla birlikte düzeltildi."
  },
  {
   "test": 1,
@@ -162,26 +163,27 @@
   "test": 2,
   "konu": "Menşe",
   "sinif": "ÇOK",
-  "tur": "cikmis_alani",
-  "cikmis": "2024/29, 2025/46",
+  "tur": "sorulmamis",
+  "cikmis": "",
   "alt_tip": "O1",
   "kalip": "KAPSAM_DIŞI",
-  "z": "K",
-  "madde": "GY 40/1",
-  "cek": "GY 40/1: menşe şahadetnamesinde bulunması zorunlu bilgiler arasında eşyanın tarife pozisyonu yoktur.",
+  "z": "O",
+  "madde": "GY 39/1, 205/4",
+  "cek": "GY 39/1: ticari mahiyette olmayan ve CIF kıymeti 430 Avro'yu geçmeyen eşyada menşe şahadetnamesi aranmaz; aynı göndericiden aynı alıcıya gönderilen kap ve kolilerin kıymeti birlikte dikkate alınır, toplam 430 Avro'yu aşarsa istisna uygulanmaz.",
   "kok": [
-   "Gümrük Yönetmeliğine göre menşe şahadetnamesinin, ürünün teşhis edilmesini sağlamak üzere taşıması zorunlu olan bilgiler arasında aşağıdakilerden hangisi yer almaz?"
+   "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi, ticaret politikası önlemlerine tabi eşyanın serbest dolaşıma girişinde menşe şahadetnamesi aranmayan eşya arasında yer almaz?"
   ],
-  "d": "Eşyanın tarife pozisyonu",
+  "d": "Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kolilerinin her birinin CIF kıymeti 430 Avro'nun altında kalmakla birlikte toplam CIF kıymeti 430 Avro'yu aşan eşya",
   "c": [
-   "Kapların marka, numara ve sayıları",
-   "Eşyanın cinsi, nev'i, daralı ve net ağırlıkları veya diğer ölçüleri",
-   "Şahadetnameyi veren makamın tasdik şerhi",
-   "Şahadetname eşyanın o ülkede gördüğü değişiklik ve işlemlerden ötürü o ülke menşeli addedilerek verilmişse bu husustaki etraflı açıklamalar"
+   "Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kap ve kolilerinin toplam CIF kıymeti 430 Avro'yu geçmeyen eşya",
+   "Türkiye'nin tek taraflı olarak tanıdığı tercihli tarife uygulamasından faydalanmak amacıyla tercihli menşeini tevsik eden belgeler ibraz edilen eşya",
+   "1/95 sayılı Ortaklık Konseyi Kararının ticaret politikası önlemlerine ilişkin hükümleri saklı kalmak üzere, AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşya",
+   "Serbest ticaret anlaşması çerçevesindeki tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan ve tercihli menşeini tevsik eden belgeler ibraz edilen serbest dolaşımda olmayan eşya"
   ],
   "sabit": null,
-  "g": "Gümrük Yönetmeliğine göre menşe şahadetnamesinde eşyayı gönderenin ve Türkiye'deki alıcının adı soyadı, kapların marka, numara ve sayıları, eşyanın cinsi, nev'i, daralı ve net ağırlıkları veya diğer ölçüleri, şahadetnameyi veren makamın tasdik şerhi ile şahadetname eşyanın o ülkede gördüğü değişiklik ve işlemler nedeniyle verilmişse bu husustaki etraflı açıklamaların bulunması zorunludur. Eşyanın tarife pozisyonu bu sayımda yer almaz; tarife pozisyonu, bağlayıcı menşe bilgisi başvurusunda aranan bilgiler arasındadır. (MD GY 40/1)",
-  "kanit": "10-MENŞEİ.txt | Menşe şahadetnamesi, ürünün teşhis edilmesini sağlamak üzere gerekli tüm ayrıntıları taşır ... c) Kapların marka, numara ve sayıları ... d) Şahadetnameyi veren makamın tasdik şerhi ... e) Menşe şahadetnamesi eşyanın o ülkede gördüğü değişiklik ve işlemlerden ötürü o ülke menşeli addedilerek verilmiş ise bu husustaki etraflı açıklamalar"
+  "g": "Gümrük Yönetmeliğine göre ticari mahiyette olmayan ve CIF kıymeti 430 Avro'yu geçmeyen eşya için menşe şahadetnamesi aranmaz; ancak aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen kap ve kolilerin hepsi bir bütün teşkil eder ve tamamının kıymeti birlikte dikkate alınır. Kolilerin her biri 430 Avro'nun altında kalsa da toplam CIF kıymeti 430 Avro'yu aşan eşya bu istisnadan yararlanamaz; tuzak, kıymetin koli bazında değerlendirilmesidir. Ticaret politikası önlemlerine tabi eşyadan tercihli menşeini tevsik eden belgeler ibraz edilen eşya, serbest ticaret anlaşmaları veya Genelleştirilmiş Tercihler Sistemi çerçevesinde tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan ve bu belgeleri ibraz edilen serbest dolaşımda olmayan eşya ile 1/95 sayılı Ortaklık Konseyi Kararı hükümleri saklı kalmak üzere AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşya için ise menşe şahadetnamesi aranmaz. (MD GY 39/1, 205/4)",
+  "kanit": "10-MENŞEİ.txt | Ticari mahiyette olmayan ve CIF kıymeti 430 Avro'yu geçmeyen eşya için menşe şahadetnamesi aranmaz ... Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen kap ve kolilerin hepsi bir bütün teşkil eder ve tamamın kıymeti birlikte dikkate alınır ... tek taraflı olarak tanıdığı tercihli tarife uygulamasından faydalanmak amacıyla eşyanın tercihli menşeini tevsik eden belgelerin ibraz edilmesi halinde ... tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan serbest dolaşımda olmayan eşyaya ait dördüncü fıkranın (a) bendinde sayılan belgelerin ibraz edilmesi halinde ... AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşyanın serbest dolaşıma girişinde, menşe şahadetnamesi aranmaz",
+  "dogrulama": "DUZELT uygulandi: Soru, 2025/46 çıkmış sorusunun ve hafızadaki GMY2-063'ün menşe şahadetnamesi zorunlu bilgiler listesini neredeyse aynı kök ve şıklarla yeniden kullanıyordu (yalnız cevap kıymetten tarife pozisyonuna kaydırılmıştı). Ek talimat uyarınca aynı test/konu/sınıf için 2021–2025'te sorulmamış GY 39/1 hükmünd"
  },
  {
   "test": 2,
@@ -197,16 +199,17 @@
   "kok": [
    "4458 sayılı Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın menşeine ilişkin aşağıdaki ifadelerden hangisi doğrudur?"
   ],
-  "d": "Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapılması gerekir.",
+  "d": "Eşya, yeni bir ürünün imali veya imalatın önemli bir aşamasıyla sonuçlanan en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.",
   "c": [
-   "Eşya, üretim sürecinin başladığı ve ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.",
+   "Eşya, üretim sürecinin başladığı ve ekonomik yönden gerekli görülen ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.",
    "Esas amacının Türkiye tarafından belirli ülkelerin eşyasına uygulanan hükümleri aşmak olduğu tespit edilen bir işçilik veya işlemle üretilmiş eşya, bu işlemin yapıldığı ülke menşeli sayılır.",
-   "Eşya, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.",
-   "Eşyanın bir ülke menşeli sayılabilmesi için imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir."
+   "Eşya, üretimin gerçekleştirildiği ülkeler arasından, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.",
+   "Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi yeterli olmayıp imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir."
   ],
   "sabit": null,
-  "g": "Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir. Ölçüt ilk değil en son esaslı işçiliktir; girdilerin kıymetçe çoğunluğu ölçüt alınmaz ve imalatın bütün aşamalarının aynı ülkede yapılması aranmaz. Esas amacı Türkiye'nin belirli ülkelerin eşyasına uyguladığı hükümleri aşmak olan işçilik veya işlemle üretilen eşya ise bu hükme dayanılarak o ülke menşeli sayılmaz. (MD GK 19, 20)",
-  "kanit": "10-MENŞEİ.txt | Üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için, o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir ... Esas amacının, Türkiye tarafından belirli ülkelerin eşyasına uygulanan hükümleri aşmak olduğu tespit edilen ... 19 uncu maddeye dayanılarak o ülke menşeli sayılmaz"
+  "g": "Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir. Ölçüt ilk değil en son esaslı işçiliktir; girdilerin kıymetçe çoğunluğu ölçüt alınmaz ve o ülkede yeni bir ürün imal edilmesi yeterli olup imalatın bütün aşamalarının aynı ülkede yapılması aranmaz. Esas amacı Türkiye'nin belirli ülkelerin eşyasına uyguladığı hükümleri aşmak olan işçilik veya işlemle üretilen eşya ise bu hükme dayanılarak o ülke menşeli sayılmaz. (MD GK 19, 20)",
+  "kanit": "10-MENŞEİ.txt | Üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için, o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir ... Esas amacının, Türkiye tarafından belirli ülkelerin eşyasına uygulanan hükümleri aşmak olduğu tespit edilen ... 19 uncu maddeye dayanılarak o ülke menşeli sayılmaz",
+  "dogrulama": "DUZELT uygulandi: İçerik doğru ve tek cevaplı; ancak doğru şık (Kanun cümlesinin tamamı, 237 karakter) diğer şıklardan belirgin biçimde uzun ve tek eksiksiz hüküm cümlesi olduğundan uzunlukla ele veriyordu. Üç çeldirici aynı yanlışlık unsurları korunarak benzer uzunluğa getirildi. | doğru şık uzunluk dengesi için kısaltıldı"
  },
  {
   "test": 2,
@@ -543,7 +546,7 @@
   "kok": [
    "Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük vergilerinin zamanaşımı ve tahsiline ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
   ],
-  "d": "Gümrük vergilerinin ceza gerektiren ve zamanaşımı daha uzun olan bir fiile ilişkin olması ve bu fiil nedeniyle ceza davası açılmış olması kaydıyla gelir eksiği, ceza davasının sonuçlanması beklenerek ilgili kanunlarda belirlenen zamanaşımı süreleri içerisinde takip ve tahsil edilir.",
+  "d": "Ceza gerektiren ve zamanaşımı daha uzun bir fiil nedeniyle ceza davası açılmışsa gelir eksiği, ceza davasının sonuçlanması beklenerek ilgili kanunlardaki zamanaşımı süreleri içinde takip ve tahsil edilir.",
   "c": [
    "Gümrük yükümlülüğünün doğduğu tarihten itibaren üç yıl içinde tahakkuk ettirilmeyen gümrük vergileri bu süre dolduktan sonra ilgilisinden istenmez ve tahakkuk zamanaşımı süreleri gümrük idarelerince re'sen dikkate alınır.",
    "Tebliğ edilen gümrük vergilerine karşı ilk derece mahkemesinde dava açılması tahsilat takibini durdurur.",
@@ -552,7 +555,8 @@
   ],
   "sabit": null,
   "g": "Tebliğe göre gümrük vergilerinin ceza gerektiren ve zamanaşımı daha uzun bir fiile ilişkin olması ve bu fiil nedeniyle ceza davası açılmış olması kaydıyla gelir eksiği, ceza davasının sonuçlanması beklenilmeksizin ilgili kanunlarda belirlenmiş zamanaşımı süreleri içerisinde takip ve tahsil edilir; “sonuçlanması beklenerek” ifadesi bu nedenle yanlıştır. Üç yıllık tahakkuk zamanaşımı re'sen dikkate alınır; ilk derece mahkemesinde dava açılması tahsilat takibini durdururken istinaf veya temyiz yoluna gidilmesi, yürütmeyi durdurma kararı verilmedikçe tahsilatı durdurmaz; zamanaşımına uğramış vergilerin rızaen ödenmesi kabul olunur. (MD Seri No:2 md. 9, 14/4)",
-  "kanit": "45-tebliğ.txt | ceza davasının sonuçlanması beklenilmeksizin, ilgili kanunlarda belirlenmiş olan zamanaşımı süreleri içerisinde takip ve tahsil edilir ... Tahakkuk zamanaşımı süreleri gümrük idarelerince re'sen dikkate alınır ... ilk derece mahkemesinde dava açılması tahsilât takibini durdurur ... yürütmeyi durdurma kararı verilmediği sürece, tahsilâtı durdurmaz ... Zamanaşımına uğramış gümrük vergilerini ve para cezalarını yükümlünün ödemek istemesi durumunda rızaen yapılacak ödemeler kabul olunur"
+  "kanit": "45-tebliğ.txt | ceza davasının sonuçlanması beklenilmeksizin, ilgili kanunlarda belirlenmiş olan zamanaşımı süreleri içerisinde takip ve tahsil edilir ... Tahakkuk zamanaşımı süreleri gümrük idarelerince re'sen dikkate alınır ... ilk derece mahkemesinde dava açılması tahsilât takibini durdurur ... yürütmeyi durdurma kararı verilmediği sürece, tahsilâtı durdurmaz ... Zamanaşımına uğramış gümrük vergilerini ve para cezalarını yükümlünün ödemek istemesi durumunda rızaen yapılacak ödemeler kabul olunur",
+  "dogrulama": "doğru şık uzunluk dengesi için kısaltıldı"
  },
  {
   "test": 3,

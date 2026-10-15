@@ -569,37 +569,38 @@
   "test": 2,
   "konu": "Menşe",
   "sinif": "ÇOK",
-  "tur": "cikmis_alani",
-  "cikmis": "2024/29, 2025/46",
+  "tur": "sorulmamis",
+  "cikmis": "",
   "alt_tip": "O1",
   "kalip": "KAPSAM_DIŞI",
-  "z": "K",
-  "madde": "GY 40/1",
-  "cek": "GY 40/1: menşe şahadetnamesinde bulunması zorunlu bilgiler arasında eşyanın tarife pozisyonu yoktur.",
+  "z": "O",
+  "madde": "GY 39/1, 205/4",
+  "cek": "GY 39/1: ticari mahiyette olmayan ve CIF kıymeti 430 Avro'yu geçmeyen eşyada menşe şahadetnamesi aranmaz; aynı göndericiden aynı alıcıya gönderilen kap ve kolilerin kıymeti birlikte dikkate alınır, toplam 430 Avro'yu aşarsa istisna uygulanmaz.",
   "kok": [
-   "Gümrük Yönetmeliğine göre menşe şahadetnamesinin, ürünün teşhis edilmesini sağlamak üzere taşıması zorunlu olan bilgiler arasında aşağıdakilerden hangisi yer almaz?"
+   "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi, ticaret politikası önlemlerine tabi eşyanın serbest dolaşıma girişinde menşe şahadetnamesi aranmayan eşya arasında yer almaz?"
   ],
-  "d": "Eşyanın tarife pozisyonu",
+  "d": "Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kolilerinin her birinin CIF kıymeti 430 Avro'nun altında kalmakla birlikte toplam CIF kıymeti 430 Avro'yu aşan eşya",
   "c": [
-   "Kapların marka, numara ve sayıları",
-   "Eşyanın cinsi, nev'i, daralı ve net ağırlıkları veya diğer ölçüleri",
-   "Şahadetnameyi veren makamın tasdik şerhi",
-   "Şahadetname eşyanın o ülkede gördüğü değişiklik ve işlemlerden ötürü o ülke menşeli addedilerek verilmişse bu husustaki etraflı açıklamalar"
+   "Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kap ve kolilerinin toplam CIF kıymeti 430 Avro'yu geçmeyen eşya",
+   "Türkiye'nin tek taraflı olarak tanıdığı tercihli tarife uygulamasından faydalanmak amacıyla tercihli menşeini tevsik eden belgeler ibraz edilen eşya",
+   "1/95 sayılı Ortaklık Konseyi Kararının ticaret politikası önlemlerine ilişkin hükümleri saklı kalmak üzere, AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşya",
+   "Serbest ticaret anlaşması çerçevesindeki tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan ve tercihli menşeini tevsik eden belgeler ibraz edilen serbest dolaşımda olmayan eşya"
   ],
   "sabit": null,
-  "g": "Gümrük Yönetmeliğine göre menşe şahadetnamesinde eşyayı gönderenin ve Türkiye'deki alıcının adı soyadı, kapların marka, numara ve sayıları, eşyanın cinsi, nev'i, daralı ve net ağırlıkları veya diğer ölçüleri, şahadetnameyi veren makamın tasdik şerhi ile şahadetname eşyanın o ülkede gördüğü değişiklik ve işlemler nedeniyle verilmişse bu husustaki etraflı açıklamaların bulunması zorunludur. Eşyanın tarife pozisyonu bu sayımda yer almaz; tarife pozisyonu, bağlayıcı menşe bilgisi başvurusunda aranan bilgiler arasındadır. (MD GY 40/1)",
-  "kanit": "10-MENŞEİ.txt | Menşe şahadetnamesi, ürünün teşhis edilmesini sağlamak üzere gerekli tüm ayrıntıları taşır ... c) Kapların marka, numara ve sayıları ... d) Şahadetnameyi veren makamın tasdik şerhi ... e) Menşe şahadetnamesi eşyanın o ülkede gördüğü değişiklik ve işlemlerden ötürü o ülke menşeli addedilerek verilmiş ise bu husustaki etraflı açıklamalar",
+  "g": "Gümrük Yönetmeliğine göre ticari mahiyette olmayan ve CIF kıymeti 430 Avro'yu geçmeyen eşya için menşe şahadetnamesi aranmaz; ancak aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen kap ve kolilerin hepsi bir bütün teşkil eder ve tamamının kıymeti birlikte dikkate alınır. Kolilerin her biri 430 Avro'nun altında kalsa da toplam CIF kıymeti 430 Avro'yu aşan eşya bu istisnadan yararlanamaz; tuzak, kıymetin koli bazında değerlendirilmesidir. Ticaret politikası önlemlerine tabi eşyadan tercihli menşeini tevsik eden belgeler ibraz edilen eşya, serbest ticaret anlaşmaları veya Genelleştirilmiş Tercihler Sistemi çerçevesinde tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan ve bu belgeleri ibraz edilen serbest dolaşımda olmayan eşya ile 1/95 sayılı Ortaklık Konseyi Kararı hükümleri saklı kalmak üzere AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşya için ise menşe şahadetnamesi aranmaz. (MD GY 39/1, 205/4)",
+  "kanit": "10-MENŞEİ.txt | Ticari mahiyette olmayan ve CIF kıymeti 430 Avro'yu geçmeyen eşya için menşe şahadetnamesi aranmaz ... Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen kap ve kolilerin hepsi bir bütün teşkil eder ve tamamın kıymeti birlikte dikkate alınır ... tek taraflı olarak tanıdığı tercihli tarife uygulamasından faydalanmak amacıyla eşyanın tercihli menşeini tevsik eden belgelerin ibraz edilmesi halinde ... tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan serbest dolaşımda olmayan eşyaya ait dördüncü fıkranın (a) bendinde sayılan belgelerin ibraz edilmesi halinde ... AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşyanın serbest dolaşıma girişinde, menşe şahadetnamesi aranmaz",
+  "dogrulama": "DUZELT uygulandi: Soru, 2025/46 çıkmış sorusunun ve hafızadaki GMY2-063'ün menşe şahadetnamesi zorunlu bilgiler listesini neredeyse aynı kök ve şıklarla yeniden kullanıyordu (yalnız cevap kıymetten tarife pozisyonuna kaydırılmıştı). Ek talimat uyarınca aynı test/konu/sınıf için 2021–2025'te sorulmamış GY 39/1 hükmünd",
   "grup": "B3",
   "no": 15,
   "harf": "C",
   "opts": [
-   "Kapların marka, numara ve sayıları",
-   "Eşyanın cinsi, nev'i, daralı ve net ağırlıkları veya diğer ölçüleri",
-   "Eşyanın tarife pozisyonu",
-   "Şahadetnameyi veren makamın tasdik şerhi",
-   "Şahadetname eşyanın o ülkede gördüğü değişiklik ve işlemlerden ötürü o ülke menşeli addedilerek verilmişse bu husustaki etraflı açıklamalar"
+   "Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kap ve kolilerinin toplam CIF kıymeti 430 Avro'yu geçmeyen eşya",
+   "Türkiye'nin tek taraflı olarak tanıdığı tercihli tarife uygulamasından faydalanmak amacıyla tercihli menşeini tevsik eden belgeler ibraz edilen eşya",
+   "Aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen, ticari mahiyette olmayan ve kolilerinin her birinin CIF kıymeti 430 Avro'nun altında kalmakla birlikte toplam CIF kıymeti 430 Avro'yu aşan eşya",
+   "1/95 sayılı Ortaklık Konseyi Kararının ticaret politikası önlemlerine ilişkin hükümleri saklı kalmak üzere, AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşya",
+   "Serbest ticaret anlaşması çerçevesindeki tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan ve tercihli menşeini tevsik eden belgeler ibraz edilen serbest dolaşımda olmayan eşya"
   ],
-  "gerekce": "Gümrük Yönetmeliğine göre menşe şahadetnamesinde eşyayı gönderenin ve Türkiye'deki alıcının adı soyadı, kapların marka, numara ve sayıları, eşyanın cinsi, nev'i, daralı ve net ağırlıkları veya diğer ölçüleri, şahadetnameyi veren makamın tasdik şerhi ile şahadetname eşyanın o ülkede gördüğü değişiklik ve işlemler nedeniyle verilmişse bu husustaki etraflı açıklamaların bulunması zorunludur. Eşyanın tarife pozisyonu bu sayımda yer almaz; tarife pozisyonu, bağlayıcı menşe bilgisi başvurusunda aranan bilgiler arasındadır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 40/1)",
+  "gerekce": "Gümrük Yönetmeliğine göre ticari mahiyette olmayan ve CIF kıymeti 430 Avro'yu geçmeyen eşya için menşe şahadetnamesi aranmaz; ancak aynı gönderici tarafından Türkiye'deki bir alıcı adına gönderilen kap ve kolilerin hepsi bir bütün teşkil eder ve tamamının kıymeti birlikte dikkate alınır. Kolilerin her biri 430 Avro'nun altında kalsa da toplam CIF kıymeti 430 Avro'yu aşan eşya bu istisnadan yararlanamaz; tuzak, kıymetin koli bazında değerlendirilmesidir. Ticaret politikası önlemlerine tabi eşyadan tercihli menşeini tevsik eden belgeler ibraz edilen eşya, serbest ticaret anlaşmaları veya Genelleştirilmiş Tercihler Sistemi çerçevesinde tercihli tarife uygulamasının ortadan kalktığı tarihten önce gümrük gözetimi altında bulunan ve bu belgeleri ibraz edilen serbest dolaşımda olmayan eşya ile 1/95 sayılı Ortaklık Konseyi Kararı hükümleri saklı kalmak üzere AB'ye üye ülkelerden A.TR Dolaşım Belgesi eşliğinde gelen eşya için ise menşe şahadetnamesi aranmaz. Bu nedenle doğru cevap C seçeneğidir. (MD GY 39/1, 205/4)",
   "id": "KT2-15"
  },
  {
@@ -653,27 +654,28 @@
   "kok": [
    "4458 sayılı Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın menşeine ilişkin aşağıdaki ifadelerden hangisi doğrudur?"
   ],
-  "d": "Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapılması gerekir.",
+  "d": "Eşya, yeni bir ürünün imali veya imalatın önemli bir aşamasıyla sonuçlanan en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.",
   "c": [
-   "Eşya, üretim sürecinin başladığı ve ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.",
+   "Eşya, üretim sürecinin başladığı ve ekonomik yönden gerekli görülen ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.",
    "Esas amacının Türkiye tarafından belirli ülkelerin eşyasına uygulanan hükümleri aşmak olduğu tespit edilen bir işçilik veya işlemle üretilmiş eşya, bu işlemin yapıldığı ülke menşeli sayılır.",
-   "Eşya, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.",
-   "Eşyanın bir ülke menşeli sayılabilmesi için imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir."
+   "Eşya, üretimin gerçekleştirildiği ülkeler arasından, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.",
+   "Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi yeterli olmayıp imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir."
   ],
   "sabit": null,
-  "g": "Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir. Ölçüt ilk değil en son esaslı işçiliktir; girdilerin kıymetçe çoğunluğu ölçüt alınmaz ve imalatın bütün aşamalarının aynı ülkede yapılması aranmaz. Esas amacı Türkiye'nin belirli ülkelerin eşyasına uyguladığı hükümleri aşmak olan işçilik veya işlemle üretilen eşya ise bu hükme dayanılarak o ülke menşeli sayılmaz. (MD GK 19, 20)",
+  "g": "Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir. Ölçüt ilk değil en son esaslı işçiliktir; girdilerin kıymetçe çoğunluğu ölçüt alınmaz ve o ülkede yeni bir ürün imal edilmesi yeterli olup imalatın bütün aşamalarının aynı ülkede yapılması aranmaz. Esas amacı Türkiye'nin belirli ülkelerin eşyasına uyguladığı hükümleri aşmak olan işçilik veya işlemle üretilen eşya ise bu hükme dayanılarak o ülke menşeli sayılmaz. (MD GK 19, 20)",
   "kanit": "10-MENŞEİ.txt | Üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için, o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir ... Esas amacının, Türkiye tarafından belirli ülkelerin eşyasına uygulanan hükümleri aşmak olduğu tespit edilen ... 19 uncu maddeye dayanılarak o ülke menşeli sayılmaz",
+  "dogrulama": "DUZELT uygulandi: İçerik doğru ve tek cevaplı; ancak doğru şık (Kanun cümlesinin tamamı, 237 karakter) diğer şıklardan belirgin biçimde uzun ve tek eksiksiz hüküm cümlesi olduğundan uzunlukla ele veriyordu. Üç çeldirici aynı yanlışlık unsurları korunarak benzer uzunluğa getirildi. | doğru şık uzunluk dengesi için kısaltıldı",
   "grup": "B3",
   "no": 17,
   "harf": "E",
   "opts": [
-   "Eşya, üretim sürecinin başladığı ve ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.",
+   "Eşya, üretim sürecinin başladığı ve ekonomik yönden gerekli görülen ilk esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır.",
    "Esas amacının Türkiye tarafından belirli ülkelerin eşyasına uygulanan hükümleri aşmak olduğu tespit edilen bir işçilik veya işlemle üretilmiş eşya, bu işlemin yapıldığı ülke menşeli sayılır.",
-   "Eşya, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.",
-   "Eşyanın bir ülke menşeli sayılabilmesi için imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir.",
-   "Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapılması gerekir."
+   "Eşya, üretimin gerçekleştirildiği ülkeler arasından, üretiminde kullanılan girdilerin kıymetçe en büyük kısmının menşeini taşıdığı ülke menşeli sayılır.",
+   "Eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi yeterli olmayıp imalatın bütün aşamalarının o ülkede bu amaçla donatılmış işletmelerde gerçekleştirilmesi gerekir.",
+   "Eşya, yeni bir ürünün imali veya imalatın önemli bir aşamasıyla sonuçlanan en son esaslı işçilik ve eylemin bu amaçla donatılmış işletmelerde yapıldığı ülke menşeli sayılır."
   ],
-  "gerekce": "Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir. Ölçüt ilk değil en son esaslı işçiliktir; girdilerin kıymetçe çoğunluğu ölçüt alınmaz ve imalatın bütün aşamalarının aynı ülkede yapılması aranmaz. Esas amacı Türkiye'nin belirli ülkelerin eşyasına uyguladığı hükümleri aşmak olan işçilik veya işlemle üretilen eşya ise bu hükme dayanılarak o ülke menşeli sayılmaz. Bu nedenle doğru cevap E seçeneğidir. (MD GK 19, 20)",
+  "gerekce": "Gümrük Kanununa göre üretimi birden fazla ülkede gerçekleştirilen eşyanın bir ülke menşeli sayılabilmesi için o ülkede yeni bir ürün imal edilmesi veya imalatın önemli bir aşamasının ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemin o ülkede bu amaçla donatılmış işletmelerde yapılması gerekir. Ölçüt ilk değil en son esaslı işçiliktir; girdilerin kıymetçe çoğunluğu ölçüt alınmaz ve o ülkede yeni bir ürün imal edilmesi yeterli olup imalatın bütün aşamalarının aynı ülkede yapılması aranmaz. Esas amacı Türkiye'nin belirli ülkelerin eşyasına uyguladığı hükümleri aşmak olan işçilik veya işlemle üretilen eşya ise bu hükme dayanılarak o ülke menşeli sayılmaz. Bu nedenle doğru cevap E seçeneğidir. (MD GK 19, 20)",
   "id": "KT2-17"
  },
  {
@@ -1446,12 +1448,12 @@
   "alt_tip": "O1",
   "kalip": "KAPSAM_DIŞI",
   "z": "O",
-  "madde": "GY 429/1, 423/1",
-  "cek": "Serbest bölge envanter kayıtlarının içeriği: yer, taşıma belgesi, statü belgesi, elleçleme; kişinin giriş izin belgesi bilgisi sayılmamış.",
+  "madde": "GY 429/1",
+  "cek": "Serbest bölge envanter kayıtlarının içeriği: miktar ve ticari tanım, yerleştirildiği yer, taşıma belgesi, gümrük statüsü belgesi, elleçleme ve rejim açıklamaları; gümrük kıymeti sayılmamış.",
   "kok": [
    "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtlarının içermesi gereken bilgiler arasında aşağıdakilerden hangisi sayılmamıştır?"
   ],
-  "d": "Bölgeye giren kişinin serbest bölge giriş izin belgesine ilişkin bilgiler",
+  "d": "Eşyanın gümrük kıymetine ilişkin bilgiler",
   "c": [
    "Eşyanın yerleştirildiği yer",
    "Eşya giriş ve çıkışında kullanılan taşıma belgesine ilişkin bilgiler",
@@ -1459,19 +1461,20 @@
    "Elleçleme işlemlerine ilişkin açıklamalar"
   ],
   "sabit": null,
-  "g": "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtları; eşyanın miktarı, normal ticari tanımı ve ayırt edici özellikleri ile paket ve konteyner bilgilerini, eşyanın yerleştirildiği yeri, giriş ve çıkışta kullanılan taşıma belgesine ilişkin bilgileri, eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, elleçleme işlemlerine ilişkin açıklamaları ve eşya dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulmuşsa bu rejimlere ilişkin açıklamaları içerir. Serbest Bölge Giriş İzin Belgesi ise bölgeye giren veya çıkan kişilerin gümrük personeline ibraz ettiği belgelerden biridir; envanter kayıtlarının içeriği arasında sayılmamıştır. (MD GY 429/1, 423/1)",
-  "kanit": "38-serbest bölge.txt | b) Eşyanın yerleştirildiği yeri, ... ç) Eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, ... a) Serbest Bölge Giriş İzin Belgesi,",
+  "g": "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtları; eşyanın miktarını ve normal ticari tanımını, marka, numara ve diğer ayırt edici özelliklerini, paketlerin tür ve sayısını ve varsa konteynerlerin ayırt edici işaretlerini, eşyanın yerleştirildiği yeri, giriş ve çıkışta kullanılan taşıma belgesine ilişkin bilgileri, eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, elleçleme işlemlerine ilişkin açıklamaları ve eşya dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulmuşsa bu rejimlere ilişkin açıklamaları içerir. Bu kayıtlar eşyanın teşhisine ve hareketlerinin izlenmesine yöneliktir; sayılan unsurlar arasında eşyanın gümrük kıymetine ilişkin bilgiler yer almaz. Tuzak, sayımda geçen gümrük statüsü belgesine ilişkin bilginin gümrük kıymeti bilgisiyle karıştırılmasıdır. (MD GY 429/1)",
+  "kanit": "38-serbest bölge.txt | a) Eşyanın miktarını ve normal ticari tanımını, marka, numara ve diğer ayırt edici özelliklerini, ... b) Eşyanın yerleştirildiği yeri, ... c) Eşya giriş ve çıkışında kullanılan taşıma belgesine ilişkin bilgileri, ... ç) Eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, ... d) Elleçleme işlemlerine ilişkin açıklamaları,",
+  "dogrulama": "DUZELT uygulandi: Doğru şık (bölgeye giren kişinin giriş izin belgesi bilgisi) eşyaya ilişkin diğer dört şıktan farklı kategoride (kişi belgesi) ve en uzun şık olduğundan cevabı ele veriyordu; doğru şık, envanter kayıtları sayımında yer almayan ve aynı kategoride kalan 'eşyanın gümrük kıymetine ilişkin bilgiler' ile ",
   "grup": "B7",
   "no": 36,
   "harf": "B",
   "opts": [
    "Eşyanın yerleştirildiği yer",
-   "Bölgeye giren kişinin serbest bölge giriş izin belgesine ilişkin bilgiler",
+   "Eşyanın gümrük kıymetine ilişkin bilgiler",
    "Eşya giriş ve çıkışında kullanılan taşıma belgesine ilişkin bilgiler",
    "Eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgiler",
    "Elleçleme işlemlerine ilişkin açıklamalar"
   ],
-  "gerekce": "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtları; eşyanın miktarı, normal ticari tanımı ve ayırt edici özellikleri ile paket ve konteyner bilgilerini, eşyanın yerleştirildiği yeri, giriş ve çıkışta kullanılan taşıma belgesine ilişkin bilgileri, eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, elleçleme işlemlerine ilişkin açıklamaları ve eşya dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulmuşsa bu rejimlere ilişkin açıklamaları içerir. Serbest Bölge Giriş İzin Belgesi ise bölgeye giren veya çıkan kişilerin gümrük personeline ibraz ettiği belgelerden biridir; envanter kayıtlarının içeriği arasında sayılmamıştır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 429/1, 423/1)",
+  "gerekce": "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtları; eşyanın miktarını ve normal ticari tanımını, marka, numara ve diğer ayırt edici özelliklerini, paketlerin tür ve sayısını ve varsa konteynerlerin ayırt edici işaretlerini, eşyanın yerleştirildiği yeri, giriş ve çıkışta kullanılan taşıma belgesine ilişkin bilgileri, eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, elleçleme işlemlerine ilişkin açıklamaları ve eşya dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulmuşsa bu rejimlere ilişkin açıklamaları içerir. Bu kayıtlar eşyanın teşhisine ve hareketlerinin izlenmesine yöneliktir; sayılan unsurlar arasında eşyanın gümrük kıymetine ilişkin bilgiler yer almaz. Tuzak, sayımda geçen gümrük statüsü belgesine ilişkin bilginin gümrük kıymeti bilgisiyle karıştırılmasıdır. Bu nedenle doğru cevap B seçeneğidir. (MD GY 429/1)",
   "id": "KT2-36"
  },
  {
