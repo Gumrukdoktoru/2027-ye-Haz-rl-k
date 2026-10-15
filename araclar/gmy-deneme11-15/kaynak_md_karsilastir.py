@@ -66,7 +66,15 @@ out += ['', 'Bulunamayanlar (elle incelenir):', ''] + [f'- {x}' for x in yok]
 out += ['', '## 2. Markdown\'da olup metin/\'de karşılığı zayıf cümleler', ''] + [f'- {k}: {v}' for k, v in zayif.most_common()]
 out += ['', '## 3. 2026 değişiklik tarihleri', '', f'- Markdown: {dict(sorted(tmd.items()))}', f'- metin/: {dict(sorted(ttxt.items()))}',
         f"- Yalnız Markdown'da: {sorted(set(tmd) - set(ttxt)) or 'yok'}",
-        '', '## 4. Elle inceleme (11 Ekim 2026)',
-        '“Bulunamadı” listesindeki alıntıların hepsi Markdown\'da tek kelime eksiğiyle bulundu (ör. “aynı zamanda ödenir” → “aynı ödenir”, “gecikme faizi” → “gecikme”, “Onbirinci Kısımdaki cezai hükümlere” → “Onbirinci Kısımdaki göre”). Markdown dönüştürmesi bağlantılı kelimeleri düşürmüştür. Hüküm farkı yoktur. “Zayıf cümle” sayımı da aynı nedenden ve dipnot işaretlerinden kaynaklanır (örnek denetimde gerçek bir metin farkı bulunmadı).']
+        '', '## 4. Elle inceleme (15 Ekim 2026, Deneme 11–15)',
+        '“Bulunamadı” listesindeki alıntıların hepsi Markdown\'da bağlantılı kelimeleri düşmüş biçimde bulundu. Örnekler:',
+        '',
+        '- “izleyecekleri yollar … düzenlemeler yapmaya” → “izleyecekleri , … yapmaya”',
+        '- “Liman sahaları ve boğazlarda” → “Liman sahaları ve ”',
+        '- “Ek-77/c\'de yer alan” → “Ek- yer alan”',
+        '- “Geçici İthalat Sözleşmesi hükümleri” → “Geçici İthalat hükümleri”',
+        '- “tamamlayıcı beyanın verildiği tarihten” → “tamamlayıcı beyanın tarihten”',
+        '',
+        'Hüküm farkı yoktur. “Zayıf cümle” sayımı da aynı nedenden ve dipnot işaretlerinden kaynaklanır.']
 open('dogrulama/KAYNAK_MD.md', 'w').write('\n'.join(out) + '\n')
 print(dict(say), '| zayıf cümle:', sum(zayif.values()), '| yalnız md tarih:', sorted(set(tmd) - set(ttxt)) or 'yok')
