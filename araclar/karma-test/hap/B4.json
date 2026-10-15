@@ -1,0 +1,895 @@
+{
+ "grup": "B4",
+ "konular": [
+  {
+   "konu": "Dahilde İşleme",
+   "sinif": "ÇOK",
+   "cikmis_hap": [
+    {
+     "hap": "Vergileri **teminata bağlanarak** geçici ithal edilen eşyanın işlem görmüş ürün olarak ihracında teminatın iade edildiği DİR uygulamasına **şartlı muafiyet sistemi** denir.",
+     "yillar": [
+      "2021/21",
+      "2023/99",
+      "2024/51",
+      "2025/64"
+     ],
+     "dayanak": "GK 108/1; DİR Tebliği (2006/12) 5/1",
+     "tuzak": "2024/51-B'de bu tanım 'geri ödeme sistemi' diye verilmişti (yanlış); 2023/99'da rejimin adı soruldu: GKAİR/antrepo değil dahilde işleme; 'şartlı teminat/işleme sistemi' diye bir ad yok.",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Serbest dolaşımda olmayan eşya, işlem görmüş ürünlerin üretiminde kullanılmasından sonra Türkiye Gümrük Bölgesinden yeniden ihraç edilmesi amacıyla, gümrük vergileri ve ticaret politikası önlemlerine tabi tutulmaksızın ve vergileri teminata bağlanmak suretiyle, dahilde işleme rejimi kapsamında geçici olarak ithal edilebilir. ... Eşyanın bu şekilde dahilde işleme rejiminden yararlanmasına şartlı muafiyet sistemi denir. ... vergisi teminata bağlanmak suretiyle bedelli ve/veya bedelsiz ithal edilmesi ve ihracat taahhüdünün gerçekleşmesini müteakip, alınan teminatın iade edilmesidir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Şartlı muafiyet sisteminde ithalat vergileri **tahsil edilmez, teminata bağlanır**; geri ödeme sisteminde serbest dolaşıma girişte **tahsil edilen** vergiler, ürün ihraç edilince **geri verilir**.",
+     "yillar": [
+      "2023/65",
+      "2025/63",
+      "2025/71"
+     ],
+     "dayanak": "GK 108/1-2",
+     "tuzak": "2023/65-B 'şartlı muafiyette vergiler tahsil edilir'; 2025/63-V geri ödeme 'teminatın iade edilmesi'; 2025/71-IV 'geri ödemede vergiler teminata bağlanır' (üçü de yanlış).",
+     "kanit": "32-DAHİLDE İŞLEME.txt | ve vergileri teminata bağlanmak suretiyle, dahilde işleme rejimi kapsamında geçici olarak ithal edilebilir. Eşyanın işlem görmüş ürünler şeklinde ihracı halinde, teminat iade olunur. ... Serbest dolaşımda bulunan eşyanın işlem görmüş ürünlerin üretiminde kullanılmasından sonra Türkiye Gümrük Bölgesinden ihraç edilmesi halinde, bu eşyanın serbest dolaşıma girişi esnasında tahsil edilmiş olan ithalat vergileri, dahilde işleme rejimi kapsamında geri verilir. Eşyanın bu şekilde dahilde işleme rejiminden yararlanmasına geri ödeme sistemi denir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Dahilde işleme tedbirleri **şartlı muafiyet sistemi** ve **geri ödeme sisteminden** oluşur; **standart değişim sistemi** hariçte işleme rejimine aittir.",
+     "yillar": [
+      "2025/62"
+     ],
+     "dayanak": "DİR Tebliği (2006/12) 4/1; GK 144/1",
+     "tuzak": "Standart değişim sistemi DİR uygulaması değildir (HİR, GK 144-148).",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme tedbirleri: I- Şartlı Muafiyet Sistemi, II- Geri Ödeme Sistemi'nden oluşur.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GK'ya göre **eşdeğer eşya**, işlem görmüş ürünlerin imali için ithal eşyasının yerine kullanılan **serbest dolaşımda bulunan** eşyadır.",
+     "yillar": [
+      "2023/55",
+      "2025/63"
+     ],
+     "dayanak": "GK 108/7",
+     "tuzak": "2023/55'te 'ürün bünyesinde yer almayan, sabit tesisleri çalışır tutan malzeme' (işletme malzemesi) ve 'işlem görmemiş ithal eşyası' (değişmemiş eşya) çeldiriciydi.",
+     "kanit": "32-DAHİLDE İŞLEME.txt | \"Eşdeğer eşya\" deyimi, işlem görmüş ürünlerin imali için ithal eşyasının yerine kullanılan serbest dolaşımda bulunan eşya anlamına gelir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GK 108'e göre **işlem görmüş ürün** işleme sonucu elde edilen **tüm ürünler**; **verimlilik oranı** belirli miktar ithal eşyasından elde edilen işlem görmüş ürünün **miktarı veya yüzde oranıdır**.",
+     "yillar": [
+      "2025/63"
+     ],
+     "dayanak": "GK 108/4, 108/8",
+     "tuzak": "",
+     "kanit": "32-DAHİLDE İŞLEME.txt | \"İşlem görmüş ürün\" deyimi, işleme faaliyetleri sonucunda elde edilen tüm ürünler anlamına gelir. ... \"Verimlilik oranı\" deyimi, belirli miktardaki ithal eşyasının işlenmesi sonucunda elde edilen işlem görmüş ürünlerin miktarı veya yüzde oranı anlamına gelir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**İkincil işlem görmüş ürün**, işleme sonucunda elde edilen **asıl işlem görmüş ürün dışındaki** ürünlerdir; 'ekonomik değeri olmayan atık' ise **fire** tanımına girer.",
+     "yillar": [
+      "2025/63"
+     ],
+     "dayanak": "GK 108/6; DİR Tebliği (2006/12) 3/l",
+     "tuzak": "2025/63-II'de ikincil ürün 'ekonomik değeri olmayan atıklar' diye tanımlanmıştı (yanlış).",
+     "kanit": "32-DAHİLDE İŞLEME.txt | \"İkincil işlem görmüş ürün\" deyimi, işleme faaliyetleri sonucunda elde edilen asıl işlem görmüş ürün dışındaki ürünler anlamına gelir. ... Fire: İşleme faaliyetleri sırasında özellikle kuruma, buharlaşma, sızma veya gaz kaçağı şeklinde yitirilen ve imha olan kısım ile ekonomik değeri olmayan atıkları,",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "DİR izni yalnız **TGB'de yerleşiklere**, ithal eşyasının işlem görmüş üründe **mevcudiyetinin tespit edilebildiği** ve yerli üreticilerin **temel ekonomik çıkarlarının olumsuz etkilenmediği** hallerde verilir.",
+     "yillar": [
+      "2024/50",
+      "2025/66"
+     ],
+     "dayanak": "GK 110/1-2",
+     "tuzak": "2025/66-IV: 'Dahilde İşleme İzin Belgesi alınmış olması' GK 110'da izin şartı olarak sayılmaz (cevap I, II ve III).",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme izni, 80 inci madde çerçevesinde, işleme faaliyetlerini yapan veya yaptıran kişinin talebi üzerine verilebilir. ... Türkiye Gümrük Bölgesinde yerleşik kişilere, ... ithal eşyasının işlem görmüş ürünler içerisinde mevcudiyetinin veya 109 uncu madde kapsamında eşdeğer eşya için konulmuş koşullara uyulduğunun tespit edilebildiği hallerde, ... Türkiye Gümrük Bölgesindeki üreticilerin temel ekonomik çıkarlarının olumsuz etkilenmemesi şartıyla",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**Ticari nitelikte olmayan** dahilde işleme amaçlı ithalat için **TGB dışında yerleşik** kişilere de izin verilebilir.",
+     "yillar": [
+      "2024/50"
+     ],
+     "dayanak": "GK 110/3",
+     "tuzak": "2024/50-D: 'TGB dışında yerleşik kişilere izin verilmez' (yanlış).",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Ticari nitelikte olmayan dahilde işleme amaçlı ithalat için Türkiye Gümrük Bölgesi dışında yerleşik kişilere de izin verilmesi mümkündür.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "DİR süresi, serbest dolaşımda bulunmayan eşya için **iznin alındığı tarihten** başlar ve **bitimin rastladığı ayın son günü** sona erer; haklı gerekçeyle ek süre verilebilir.",
+     "yillar": [
+      "2024/51"
+     ],
+     "dayanak": "GK 111/2",
+     "tuzak": "",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Süre, serbest dolaşımda bulunmayan eşya için dahilde işleme rejimine ilişkin iznin alındığı tarihten itibaren işlemeye başlar ve bitimin rastladığı ayın son günü sona erer. İzin sahibi tarafından ileri sürülen haklı gerekçelere bağlı olarak ek süre verilebilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Önceden ihracatta eşdeğer eşya karşılığı ithal eşyasının beyan süresi, işlem görmüş ürünlerin **ihracat beyannamesinin tescil tarihinden** itibaren işlemeye başlar.",
+     "yillar": [
+      "2025/67"
+     ],
+     "dayanak": "GK 111/3; GY 354/1",
+     "tuzak": "İthal eşyasının Türkiye'ye giriş tarihi ya da izin süre sonu/ertesi ayların son günü esas alınmaz.",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Önceden ihracat durumunda izin belgesinde, eşdeğer eşya karşılığı ithal eşyasının gümrük beyanı için gereken süre belirtilir. Bu süre, ilgili eşdeğer eşyadan elde edilen işlem görmüş ürünler için ihracat beyannamesinin tescil tarihinden itibaren işlemeye başlar.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "2006/12 Tebliğine göre mücbir sebepler: **tabii afet ve yangın**, yasak-harp-abluka-**genel salgın**, faaliyetin kamuca kısıtlanması, **iflas/konkordato/iflas ertelenmesi**, şahıs firmasında **sahibin ölümü**, **grev-lokavt**.",
+     "yillar": [
+      "2024/53"
+     ],
+     "dayanak": "DİR Tebliği (2006/12) 25/1",
+     "tuzak": "Dört öncülün dördü de mücbir sebeptir (cevap I, II, III ve IV).",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Aşağıda belirtilen mücbir sebep ile fevkalade hallerin belge/izin süresi içerisinde meydana gelmesi halinde, dahilde işleme izin belgesine/dahilde işleme iznine ilave süre verilebilir: ... Ülkemiz veya ithalatçı ülkede; devletçe konulan yasaklar, harp ve abluka hali veya genel salgın hastalık ... Yükümlü firmanın faaliyetinin kamu otoritelerince kısıtlanması, durdurulması veya firmaya el konulması ... Yükümlü firmanın iflası veya konkordato ilan etmiş olması ya da firma hakkında iflasın ertelenmesi kararı verilmiş olması ... Şahıs firmalarında firma sahibinin ölümü,",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "DİR altında elde edilen Türk menşeli eşyanın tercihli tarifeden yararlanması için bünyesindeki serbest dolaşımda olmayan eşyaya ödenen ithalat vergisine **telafi edici vergi (TEV)** denir.",
+     "yillar": [
+      "2021/89",
+      "2022/46"
+     ],
+     "dayanak": "GK 194/1; DİR Tebliği (2006/12) 33",
+     "tuzak": "Ek mali yükümlülük, ilave gümrük vergisi, sübvansiyon vergisi veya eş etkili vergi değildir.",
+     "kanit": "44-yükümlülük.txt | Türkiye'nin taraf olduğu anlaşma hükümlerine göre dahilde işleme rejimi altında elde edilen Türk menşeli eşyanın anlaşmalara taraf ülkelere ithalinde, tercihli tarife uygulamasından yararlanmasının, bunların bünyelerine giren serbest dolaşımda olmayan eşyanın ithalat vergilerinin ödenmesi ve buna ilişkin belgelerin onaylanması koşuluna bağlı olması halinde, ithalata ilişkin bir gümrük yükümlülüğü doğar.",
+     "kaynakta_yok": false,
+     "not": "'Telafi edici vergi' adı GK 194'te geçmez; DİR Tebliği 33. madde başlığında ('Telafi edici verginin ödenmesi') yer alır."
+    },
+    {
+     "hap": "TEV, ithalat beyannamesinin değil **ihracat beyannamesinin tescili** tarihindeki vergi oranı ve diğer vergilendirme unsurlarına göre hesaplanır.",
+     "yillar": [
+      "2024/54"
+     ],
+     "dayanak": "GK 194/3",
+     "tuzak": "2024/54-B: 'ithalata ilişkin beyannamenin tescili tarihindeki' unsurlar (yanlış).",
+     "kanit": "44-yükümlülük.txt | Dâhilde işleme rejimine tabi tutulan serbest dolaşımda bulunmayan eşyaya ilişkin ithalat vergileri, ihracata ilişkin beyannamenin tescili tarihindeki vergi oranı ve diğer vergilendirme unsurlarına göre hesaplanır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "TEV yükümlülüğü **ihracat beyannamesinin tescili** ile başlar; eşya **TGB dışına çıkana kadar** ödenir, sonra ödenirse **6183/51 gecikme zammı** eklenir; **geri ödeme sisteminde** TEV doğmaz.",
+     "yillar": [
+      "2024/54"
+     ],
+     "dayanak": "GK 194/1, 194/2, 194/4",
+     "tuzak": "",
+     "kanit": "44-yükümlülük.txt | Ancak, geri ödeme sisteminden yararlanan eşya için bu fıkra uyarınca gümrük yükümlüğü doğmaz ... Bu halde gümrük yükümlülüğü, söz konusu eşyanın ihracına ilişkin gümrük beyannamesinin gümrük idaresi tarafından tescil edildiği tarihte başlar. ... ihracat beyannamesi konusu eşyanın Türkiye Gümrük Bölgesi dışına çıktığı tarihe kadar ödenmesi zorunludur. Bu tarihten sonra ödenen ithalat vergileri için ayrıca bu tarih itibarıyla 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesi hükümlerine göre tespit edilen gecikme zammı uygulanır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "DİR'in amaçları ihracatı artırmak, dünya piyasa fiyatlarından hammadde temin etmek, ihraç ürünlerini çeşitlendirmek ve ihraç pazarlarını geliştirmektir; **ithalatçıyı desteklemek amaç değildir**.",
+     "yillar": [
+      "2022/97"
+     ],
+     "dayanak": "Soru + resmî cevap (DİR Kararı amaç maddesi kaynakta yok)",
+     "tuzak": "'İthalatı artırmak suretiyle ithalatçıyı desteklemek' amaçlar arasında değildir.",
+     "kanit": "",
+     "kaynakta_yok": true,
+     "not": ""
+    },
+    {
+     "hap": "**Dahilde işleme iznini** gümrük idaresi (**gümrük müdürlüğü**) verir; **dahilde işleme izin belgesini** ise Bakanlık (**İhracat Genel Müdürlüğü**) elektronik ortamda düzenler.",
+     "yillar": [
+      "2023/56",
+      "2025/71"
+     ],
+     "dayanak": "DİR Tebliği (2006/12) 3/f-g, 15/1",
+     "tuzak": "Ticaret il müdürlüğü, valilik, Serbest Bölgeler GM ve İthalat GM yetkili değildir.",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme izin belgesi: İhraç amacıyla gümrük muafiyetli ithalata ve/veya yurt içi alımlara imkan sağlayan Bakanlıkça düzenlenen belgeyi, ... Dahilde işleme izni: İhraç amacıyla gümrük muafiyetli ithalata imkan sağlayan ve gümrük idaresince verilen izni, ... Dahilde işleme izin belgesi almak için elektronik ortamda Bakanlığa (İhracat Genel Müdürlüğü),",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Dahilde işleme **izni** ihracat taahhüdünü kapatmak için en geç izin süresi sonundan itibaren **3 ay** içinde **ilgili gümrük idaresine** başvurulur.",
+     "yillar": [
+      "2025/71"
+     ],
+     "dayanak": "DİR Tebliği (2006/12) 37/1-b",
+     "tuzak": "2025/71-I: 'İhracatçı Birliklerine başvurulur' (yanlış).",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme izni ihracat taahhüdünü kapatmak için en geç izin süresi sonundan itibaren 3 (üç) ay ... içerisinde, Ek-4'te belirtilen bilgi ve belgeleri ilgili gümrük idaresine,",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**Döviz kullanım oranı**, belge/izin kapsamındaki **CIF ithal** tutarının (yurt içi alımlar hariç) **FOB ihraç** tutarına yüzde oranıdır.",
+     "yillar": [
+      "2025/71"
+     ],
+     "dayanak": "DİR Tebliği (2006/12) 3/h",
+     "tuzak": "",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Döviz kullanım oranı: Dahilde işleme izin belgesi/dahilde işleme izni kapsamındaki CIF ithal (yurt içi alımlar hariç) tutarının FOB ihraç tutarına",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Dahilde işleme **izni** kapsamında Tebliğ 14'te sayılan işlemler (tamir, kıymetli maden-taş işçiliği, montaj, ambalajlama vb.) yapılabilir; **makarna üretimi** bu listede yer almaz.",
+     "yillar": [
+      "2025/59"
+     ],
+     "dayanak": "DİR Tebliği (2006/12) 14/1",
+     "tuzak": "Otomobil tamiri, kıymetli maden işçiliği, basit montaj ve ambalajlama izin kapsamındadır.",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme izni kapsamında, ek-7'de yer alan listedeki eşyalar hariç olmak üzere aşağıda belirtilen işlemlere konu eşyanın ithaline izin verilir: ... Kıymetli maden ve taşların, 32 sayılı Türk Parası Kıymetini Koruma Hakkında Karar hükümleri çerçevesinde ithalatını müteakip, işlendikten sonra ihraç edilmek üzere işçiliğe tabi tutulması, ... Eşyanın montajı, kurulması, diğer eşyayla birleştirilmesi, bir araya getirilmesi ... Eşyanın yenilenmesi ve düzenli hale getirilmesi dahil olmak üzere tamir edilmesi veya boyanması, ... etiketlenmesi, ambalajlanması,",
+     "kaynakta_yok": false,
+     "not": "'Makarna' kaynakta geçmez (Ek-7 listesi kaynakta yok); bilgi kapalı listeden ve resmî cevaptan çıkar."
+    }
+   ],
+   "beklenen_neden": "19 kez soruldu ve 2025'te 7 soruyla zirve yaptı (2024: 4); soruların hemen tamamı GK 108–111 tanımları, iki sistem, izin şartları, TEV ve 2006/12 Tebliğinin mücbir sebep/izin hükümlerinden geldi. Tebliğin süre ve oran hükümleri (12 ay, ek süreler, %80, %1/%2, indirimli teminat, kısmi teminat %90, 2022 değişiklikleri) hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Belge/izin süresi sektörüne göre **azami 12 ay**; gemi inşa, komple tesis, üretimi 12 ayı aşan ve **savunma sanayi** ürünlerinde **proje süresi** kadardır.",
+     "dayanak": "DİR Tebliği (2006/12) 20/1-2",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme izin belgesinin/dahilde işleme izninin süresi sektörüne göre azami 12 (oniki) aya kadar tespit edilebilir. ... Ancak, gemi inşaa, komple tesis v.b. ile üretim süreci 12 (oniki) ayı aşan ürünler ve savunma sanayi alanına giren ürünlerin ihracına ilişkin düzenlenen belgenin/iznin süresi, proje süresi kadar tespit edilebilir."
+    },
+    {
+     "hap": "Belge süresi ilk ithalat tarihi esas alınarak (hiç ithalat yoksa da) **azami 3 ay** uzatılır; ihracat/taahhüt oranı **en az %25** ise **orijinal sürenin yarısı** kadar ek süre verilebilir.",
+     "dayanak": "DİR Tebliği (2006/12) 22/1-2",
+     "neden": "sorulmamış hüküm (ek süre oranı)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme izin belgesi kapsamında ilk ithalatın yapıldığı tarih esas alınmak suretiyle belge süresi azami 3 (üç) ay uzatılır. Belge kapsamında hiç ithalat yapılmaması halinde de belge süresi azami 3 (üç) ay uzatılır. ... Dahilde işleme izin belgesi kapsamında gerçekleştirilen ihracat değerinin belge ihracat taahhüdü değerine oranının en az % 25 olması halinde ... dahilde işleme izin belgesine belge orijinal süresinin yarısı kadar ek süre verilebilir."
+    },
+    {
+     "hap": "Ek süre, haklı sebep ve mücbir sebep müracaatı **belge** için süre sonundan itibaren **3 ay** içinde Bakanlığa, **izin** için **2 ay** içinde gümrük idaresine yapılır; geç müracaat değerlendirilmez.",
+     "dayanak": "DİR Tebliği (2006/12) 21, 23, 26",
+     "neden": "sorulmamış hüküm (müracaat süresi/makam)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme izin belgesi ile ilgili olarak, en geç belge süresi sonundan itibaren 3 (üç) ay içerisinde elektronik ortamda Bakanlığa, ... en geç izin süresi sonundan itibaren 2 (iki) ay[39] içerisinde ilgili gümrük idaresine, ... Birinci fıkrada belirtilen sürede yapılmayan müracaat değerlendirmeye alınmaz."
+    },
+    {
+     "hap": "Döviz kullanım oranı Bakanlıkça **%80'i** geçmemek üzere, ikincil işlem görmüş tarım ürünü taahhütlü belgede **azami %100** belirlenir; **izinde**, bedelsiz ithalatta ve **yurt içi alımlarda** aranmaz.",
+     "dayanak": "DİR Tebliği (2006/12) 17/8-9",
+     "neden": "sorulmamış hüküm (oran); 2025/71 tanımı sordu, sınırları sormadı",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Döviz kullanım oranı; a) Dahilde işleme izninde, b) Dahilde işleme izin belgesi kapsamındaki bedelsiz ithalatta, ... d) Dahilde işleme izin belgesi kapsamındaki yurt içi alımlarda, aranmaz. ... Dahilde işleme izin belgesi kapsamında döviz kullanım oranı % 80'i geçmemek üzere Bakanlıkça belirlenir. Ancak, ikincil işlem görmüş tarım ürünleri taahhüdü içeren belgelerde bu oran Bakanlıkça azami % 100 olarak tespit edilebilir."
+    },
+    {
+     "hap": "Değişmemiş eşya ithalatı ihracat taahhüdünün **azami %1'i**, işletme malzemesi **%2'si** (doğal taş, kıymetli maden ve taşta **%10'a** kadar) olabilir.",
+     "dayanak": "DİR Tebliği (2006/12) 17/11-12",
+     "neden": "sorulmamış hüküm (oran)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Belge/izin kapsamında ihracat taahhüdünün azami % 1'i oranında değişmemiş eşya ithalatına izin verilebilir. ... Belge/izin kapsamında ithaline izin verilecek işletme malzemesi değeri, ihracat taahhüdünün % 2'sini geçemez. Ancak, doğal taşlar ile kıymetli maden ve taş ihraç taahhüdü içeren belgede/izinde, bu oran % 10'a kadar tespit edilebilir."
+    },
+    {
+     "hap": "İndirimli teminat: YYS sahibi veya **25 milyon $** ihracatlı OKSB'li imalatçıya **%1**, **5–25 milyon $**'a **%5**, OKSB sahiplerine **%10**; teminat Bakanlıkça vergi tutarının **2 katına** kadar artırılabilir.",
+     "dayanak": "DİR Tebliği (2006/12) 9/1, 8/2",
+     "neden": "sorulmamış hüküm (oran/eşik); md. 9 başında 02.05.2018 (İhracat 2018/1) değişiklik notu var",
+     "kanit": "32-DAHİLDE İŞLEME.txt | iki yıl süresince bu ithalattan doğan verginin % 1'inin, ... 5 (beş) milyon ABD Doları tutarı (bu tutar dahil) ile 25 (yirmibeş) milyon ABD Doları tutarı arasında ihracat yapan onaylanmış kişi statü belgesi sahibi imalatçı firmaların ... iki yıl süresince bu ithalattan doğan verginin % 5'inin, ... Onaylanmış kişi statü belgesi sahibi firmaların dahilde işleme izin belgesi/dahilde işleme izni kapsamında yapacakları ithalatta, bu ithalattan doğan verginin % 10'unun, ... uygulanan teminat oranı Bakanlıkça (İhracat Genel Müdürlüğü), bu ithalattan doğan vergi tutarının 2 (iki) katına kadar artırılabilir."
+    },
+    {
+     "hap": "Kısmi teminat iadesi toplam verginin **%90'ını** geçemez, bakiye taahhüt kapatılınca iade edilir; **indirimli teminatlı** belge/izinde kısmi teminat iadesi **yapılmaz**.",
+     "dayanak": "DİR Tebliği (2006/12) 36/4-5",
+     "neden": "sorulmamış hüküm (oran)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Kısmi teminat iadesi kapsamında geri verilen teminat tutarı, belge/izin kapsamında alınması gereken toplam verginin % 90'ını geçemez. Bakiye teminatlar ise, belge/izin ihracat taahhüdünün kapatılmasını müteakip firmaya iade edilir. ... indirimli teminat uygulaması çerçevesinde düzenlenen dahilde işleme izin belgesi/dahilde işleme izni kapsamında yapılan ithalat için kısmi teminat iadesi yapılmaz."
+    },
+    {
+     "hap": "Geri ödeme sisteminde vergi iadesi için taahhüt kapatılmasını müteakip **3 ay** içinde gümrük idaresine başvurulur; geri verme kararından itibaren **3 ayda** ödenmezse **tecil faizi** işler.",
+     "dayanak": "DİR Tebliği (2006/12) 13",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Geri ödeme sistemi çerçevesinde düzenlenen dahilde işleme izin belgesi/dahilde işleme izni ihracat taahhüdünün bu Tebliğin 38 inci maddesi hükmüne göre kapatılmasını müteakip 3 (üç) ay içerisinde, ithalat sırasında ödenen vergilerin iadesi için ilgili gümrük idaresine müracaat edilmesi zorunludur. Bu verginin ilgilinin müracaatı üzerine geri verme kararının alındığı tarihten itibaren 3 (üç) ay içerisinde gümrük idarelerince geri verilmemesi halinde, bu sürenin bitiminden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun tecil faizine ilişkin hükümleri uygulanır."
+    },
+    {
+     "hap": "Dahilde işleme **izin belgesi** taahhüdü için en geç belge süresi sonundan itibaren **3 ay** içinde **bölge müdürlüğüne** başvurulur; eksikler **1 ay** içinde tamamlanmazsa mevcut belgelerle kapatılır.",
+     "dayanak": "DİR Tebliği (2006/12) 37/1-a, 38/1",
+     "neden": "sorulmamış hüküm (süre/makam)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme izin belgesi ihracat taahhüdünü kapatmak için en geç belge süresi sonundan itibaren üç ay içerisinde Ek-3'te belirtilen bilgi ve belgeleri Bakanlıkça (İhracat Genel Müdürlüğü) belirlenen ilgili bölge müdürlüğüne, ... bu eksiklikler 1 (bir) ay içerisinde tamamlanmak üzere ilgili bölge müdürlüğü/gümrük idaresi tarafından firmaya bildirilir. Bu süre içerisinde eksik bilgi ve belgelerin tamamlanmaması durumunda, ihracat taahhüdü mevcut bilgi ve belgelerle"
+    },
+    {
+     "hap": "Süre bitiminden sonra işlemler **1 ay** içinde bitirilirse usulsüzlük cezasının **2 katı**, **2 ay** içinde bitirilirse **4 katı** para cezası alınır; işlemler belge/izin kapsamında sayılır.",
+     "dayanak": "DİR Tebliği (2006/12) 45/5",
+     "neden": "sorulmamış hüküm (süre/ceza)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | belge/izin süresinin bitimini takiben 1 (bir) ay içerisinde rejimin gerektirdiği işlemlerin bitirilmesi, ihracı veya gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması halinde, bu işlemler belge/izin kapsamında değerlendirilir ancak 4458 sayılı Gümrük Kanununun 241 inci maddesinin üçüncü fıkrası çerçevesinde usulsüzlük cezasının iki katı para cezası tahsil edilir. ... belge/izin süresinin bitimini takiben 2 (iki) ay içerisinde ... usulsüzlük cezasının dört katı para cezası tahsil edilir."
+    },
+    {
+     "hap": "Şartlı muafiyette **serbest bölgeye** ihraç edilen eşyanın belge/izin süresi bitiminden itibaren **3 ay** içinde başka ülkeye satışı vb. tevsik edilirse taahhüt kapatılır.",
+     "dayanak": "DİR Tebliği (2006/12) 28/2",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | şartlı muafiyet sistemi çerçevesinde belge/izin süresi içerisinde serbest bölgelere gerçekleştirilen ihracata konu eşyanın en geç belge/izin süresi bitiminden itibaren 3 (üç) ay içerisinde; serbest bölgelerden başka bir ülkeye satışının yapıldığının"
+    },
+    {
+     "hap": "İç piyasa dengesi için konulan **önceden ihracat/ithalat şartı** ihlalinde firmaya ilk ihlalde **3 ay**, 2 takvim yılı içindeki müteakip ihlalde **6 ay** belge/izin düzenlenmez.",
+     "dayanak": "DİR Tebliği (2006/12) 45/7",
+     "neden": "son değişiklik: 14.09.2022 (2022/6 Tebliğ ile eklendi)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Bakanlıkça iç piyasa dengelerinin korunması amacıyla konulan ve bu niteliği belgede/izinde belirtilen önceden ihracat veya önceden ithalat şartının ihlal edilmesi halinde ihlali gerçekleştiren firmaya, dördüncü fıkrada belirtilen müeyyidenin yanı sıra, Bakanlıkça uygun görüldüğü tarihten itibaren; ilk ihlalde 3 (üç) ay süreyle, 2 (iki) takvim yılı içerisinde gerçekleşen müteakip ihlalde ise 6 (altı) ay süreyle belge/izin düzenlenmez"
+    },
+    {
+     "hap": "Müeyyideli taahhüt kapatmaya karşı **belge** sahibi tebliğden itibaren **1 ay** içinde **İhracat Genel Müdürlüğüne** yazılı itiraz eder; **izin** için **GK 242** itiraz yolu işler.",
+     "dayanak": "DİR Tebliği (2006/12) 38/12",
+     "neden": "son değişiklik: 14.09.2022 (2022/6 Tebliğ)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Dahilde işleme izin belgesi sahibi firmalar, kendilerine tebliğ edilen taahhüt hesabının müeyyideli kapatılması işlemine karşı tebliğ tarihinden itibaren 1 (bir) ay içerisinde Bakanlığa (İhracat Genel Müdürlüğü) yazılı olarak itiraz edebilirler. Dahilde işleme izinlerine ilişkin müeyyideli kapatma işlemlerine ise, 4458 sayılı Gümrük Kanununun 242 nci maddesi uyarınca itiraz yoluna başvurulabilir."
+    },
+    {
+     "hap": "**Süs hayvanları**, canlı balık (**orkinos ve larva hariç**), küçük ve büyükbaş hayvanlar ile **çevre kirliliğine** neden olan eşya DİR kapsamında değerlendirilmez.",
+     "dayanak": "DİR Tebliği (2006/12) 17/2",
+     "neden": "sorulmamış hüküm (kapsam dışı eşya); 2025/59 kapsam sorusunun devamı",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Süs hayvanları, canlı balık (orkinos balığı ve larva hariç), küçük ve büyükbaş hayvanlar ile çevre kirliliğine neden olan eşyalar dahilde işleme rejimi kapsamında değerlendirilmez."
+    },
+    {
+     "hap": "Şartlı muafiyette **işletme malzemesi** ithalatında **KDV ve ÖTV tahsil edilir** ve **ticaret politikası önlemleri** uygulanır.",
+     "dayanak": "DİR Tebliği (2006/12) 5/2",
+     "neden": "sorulmamış hüküm (istisna)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Ancak, belge/izin kapsamında yapılacak işletme malzemesi ithalatında, katma değer vergisi ve özel tüketim vergisi tahsil edilir ve ticaret politikası önlemleri uygulanır."
+    },
+    {
+     "hap": "Geri ödeme sistemi; **miktar kısıtlamasına** tabi, **kota** kapsamında tarife önlemi uygulanan, tarım politikası **lisans/sertifikası** gerektiren ve ürünü **ihracat iadesi/vergisine** tabi eşyaya uygulanmaz.",
+     "dayanak": "GK 117/1",
+     "neden": "sorulmamış hüküm (uygulanmayan haller)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | Geri ödeme sisteminden her eşya yararlanabilir. Ancak, serbest dolaşıma giriş beyannamesinin tescili sırasında; ... İthalat miktar kısıtlamasına tabi olan, ... Kota kapsamında tarife önlemleri uygulanan, ... Tarım politikası çerçevesinde ithalat veya ihracat lisansı veya sertifikası ibrazını gerektiren, ... İşlem görmüş ürün için ihracat iadesi veya vergisi mevcut, ... eşya için geri ödeme sistemi uygulanmaz."
+    },
+    {
+     "hap": "Eşdeğer eşya ithal eşyasıyla **asgari 8'li** GTİP, ticari kalite ve teknik özellik bakımından aynı olmalı; **tarım ürünlerinde** aynılık **münhasıran 12'li** GTİP'e göre tespit edilir.",
+     "dayanak": "DİR Tebliği (2006/12) 6/1; GY 352/2",
+     "neden": "sorulmamış hüküm (sayısal ölçüt); eşdeğer eşya 2023 ve 2025'te tanım düzeyinde soruldu",
+     "kanit": "32-DAHİLDE İŞLEME.txt | asgari 8 (sekiz)'li bazda gümrük tarife istatistik pozisyonu, ticari kalite ve teknik özellikleri itibarıyla aynı kalite ve nitelikleri taşıyan serbest dolaşımdaki eşya kullanılabilir. Ancak, eşdeğer eşya olarak kullanılan tarım ürünlerinin ithal eşyası ile ticari kalite, teknik özellik ve niteliği itibariyle aynı olduğuna yönelik tespit, münhasıran 12 (oniki)'libazda gümrük tarife istatistik pozisyonuna göre yapılır."
+    },
+    {
+     "hap": "Temsilcinin eşyayı teslim etmemesi, farklı eşya teslimi ya da belgelerin sahte/gerçek dışı olması halinde **temsilci**, alınmayan vergiden belge/izin sahibiyle **müştereken ve müteselsilen** sorumludur.",
+     "dayanak": "DİR Tebliği (2006/12) 30/3",
+     "neden": "son değişiklik: 14.09.2022 (2022/6 Tebliğ ile eklendi)",
+     "kanit": "32-DAHİLDE İŞLEME.txt | yahut ithalata aracılık eden temsilcinin eşyayı belge/izin sahibine teslim etmediğinin ve/veya ithal edilen eşyadan farklı bir eşyayı teslim ettiğinin tespiti halinde; ithalata aracılık eden temsilci, beyanname konusu eşyanın ithalatı esnasında alınmayan vergiden belge/izin sahibi firma ile birlikte müştereken ve müteselsilen sorumludur."
+    }
+   ]
+  },
+  {
+   "konu": "Geçici İthalat",
+   "sinif": "ÇOK",
+   "cikmis_hap": [
+    {
+     "hap": "**Geçici ithalat**: serbest dolaşıma girmemiş eşyanın vergilerden **tamamen ya da kısmen muaf**, TPÖ'ye tabi tutulmadan TGB'de kullanılıp **olağan yıpranma dışında değişmeden** yeniden ihracıdır.",
+     "yillar": [
+      "2021/45",
+      "2021/75",
+      "2023/54",
+      "2025/91"
+     ],
+     "dayanak": "GK 128",
+     "tuzak": "Niteliği değiştiren işlem GKAİR, teminatla ithal+işleme DİR, serbest dolaşımdaki eşyanın dışarıda işlenmesi HİR tanımıdır (2025/91 çeldiricileri).",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Geçici ithalat rejimi, serbest dolaşıma girmemiş eşyanın ithalat vergilerinden tamamen ya da kısmen muaf olarak ve ticaret politikası önlemlerine tabi tutulmaksızın, Türkiye Gümrük Bölgesi içinde kullanılması ve bu kullanım sırasındaki olağan yıpranma dışında, herhangi bir değişikliğe uğramaksızın yeniden ihracına olanak sağlayan hükümlerin uygulandığı rejimdir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Kısmi muafiyette her ay için, GI beyannamesinin **tescil tarihinde** serbest dolaşıma girseydi alınacak vergilerin **%3'ü** alınır; **bir aydan az süre tam ay** sayılır.",
+     "yillar": [
+      "2021/53",
+      "2023/37",
+      "2024/72"
+     ],
+     "dayanak": "GK 133/1",
+     "tuzak": "2024/72-B: 'vergilerin tamamı geçici ithalat sırasında tahsil edilir' (yanlış); %1, %7, %9 çeldiricidir.",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Kısmi muafiyet suretiyle geçici ithalat rejimine tabi tutulan eşyadan her ay için alınacak ithalat vergileri, geçici ithalat rejimine ilişkin beyannamenin tescil tarihinde, söz konusu eşyanın serbest dolaşıma girmiş olması halinde alınacak vergiler tutarının % 3'ü olarak tespit edilir. Söz konusu vergiler eşyanın bu rejimden yararlandığı her ay için alınır ve bir aydan daha az süreler tam ay olarak değerlendirilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Tam muafiyetli GI eşyasından vergileri karşılayacak **teminat** alınır, kısmi muafiyette **%3 dışındaki** tutar teminata bağlanır; **kriz hali yardım malzemesi** ve **sözlü beyan** eşyasında teminat aranmaz.",
+     "yillar": [
+      "2022/60",
+      "2024/69",
+      "2024/72"
+     ],
+     "dayanak": "2009/15481 Karar 41, 42; GY 385/1",
+     "tuzak": "",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Tam muafiyet suretiyle geçici ithal edilecek eşyadan ithalat vergilerini karşılayacak tutarda teminat aranır. ... Sözlü beyana konu olan eşya, ... Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına veya kamu kuruluşları tarafından yetkili kılınan kuruluşlar adına gönderilen yardım malzemeleri, ... her ay itibarıyla alınacak ithalat vergileri tutarının % 3'ü dışında kalan tutar için teminat aranır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GI eşyası **kiralanamaz, ödünç verilemez, başkasının kullanımına bırakılamaz ve satılamaz**; tek istisna **ticari hava taşıtının** izin süresinde başka havayolu şirketine kiralanmasıdır.",
+     "yillar": [
+      "2022/60",
+      "2024/69",
+      "2025/92"
+     ],
+     "dayanak": "2009/15481 Karar 43",
+     "tuzak": "2022/60-E 'başkasına satılabilir'; 2024/69-B 'gümrük idaresinin izni dahilinde kiralanabilir' (ikisi de yanlış).",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Geçici ithalat rejimi kapsamındaki eşya kiralanamaz, ödünç verilemez, bir başkasının kullanımına bırakılamaz ve satılamaz. ... Ancak, ticari kullanıma mahsus hava taşıtları, izin süresi içerisinde bir başka hava yolu şirketine kiralanabilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**İthali yasak**, **tüketilebilir nitelikteki**, **ayniyet tespiti yapılamayan** ve ülke ekonomisine zarar verebilecek eşya GI rejiminden tam veya kısmi muafiyetle yararlandırılmaz.",
+     "yillar": [
+      "2022/60",
+      "2024/70",
+      "2024/72"
+     ],
+     "dayanak": "2009/15481 Karar 40; GK 129/2",
+     "tuzak": "2024/70: uluslararası etkinlikte kullanılacak olsa da tüketilebilir eşya rejime konu olamaz; paletler, yolcu sportif eşyası, kriz yardımı ve fuar eşyası olabilir.",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Aşağıda belirtilen eşya, tam muafiyetten yararlandırılmayacağı gibi kısmi muafiyetten de yararlandırılmaz: ... Türkiye'ye ithali yasak olan eşya. ... Tüketilebilir nitelikteki eşya. ... Ayniyet tespitinin yapılması mümkün olmayan eşya.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Sergi, fuar, toplantı ve benzeri etkinliklerde **gösterime veya kullanıma sunulan** eşyaya **geçici ithalat** izni verilir; etkinlikte bu eşyadan elde edilen eşya da rejime tabi sayılır.",
+     "yillar": [
+      "2023/34"
+     ],
+     "dayanak": "2009/15481 Karar 37/1",
+     "tuzak": "Serbest dolaşıma giriş, GKAİR, DİR veya HİR uygulanmaz.",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Sergi, fuar, toplantı ve benzeri etkinliklerde gösterime ya da kullanıma sunulan eşya için geçici ithalat izni verilir. ... Bu tür etkinliklerde gösterime ya da kullanıma sunulan eşyadan etkinlik süresince elde edilen eşya da bu rejime tabi tutulmuş sayılır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GI beyanı **gümrük beyannamesi**, **sözlü beyan**, **ATA karnesi** ve taşıtlar için karne/form gibi teminat hükmündeki belgelerle yapılır; **TIR karnesi** GI beyan belgesi değildir.",
+     "yillar": [
+      "2024/39"
+     ],
+     "dayanak": "GY 382/3, 387/1; Kara Taşıtları Tebliği (Seri No 1) 4/1-o",
+     "tuzak": "TIR karnesi transit belgesidir.",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Taraf olduğumuz uluslararası sözleşme hükümlerine göre düzenlenmiş ATA karnesinin ibrazı rejim için izin talebi ve karnenin tescili ise, geçici ithalat rejimine giriş izni olarak kabul edilir. ... Yazılı, sözlü veya başka tasarruf yoluyla beyan edilerek geçici ithal edilen eşya tekrar aynı şekilde beyan edilmek suretiyle yeniden ihraç edilir.",
+     "kaynakta_yok": false,
+     "not": "'TIR karnesinin GI beyanında kullanılmadığı' kaynakta açık hüküm olarak yok; resmî cevaptan."
+    },
+    {
+     "hap": "Eşya/yolcu taşımayan **tüzel kişilik adına kayıtlı** otomobil, minibüs, arazi taşıtı, kamyonet ve motosikletler **1 No.lu**, taşıyanlar **2 No.lu Taşıt Takip Programına** kaydedilir.",
+     "yillar": [
+      "2022/57"
+     ],
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) 14/2",
+     "tuzak": "MA-Takrir modülü belge/karne/form kapsamı taşıtlar içindir; NCTS ve TIR Takip Programı değildir.",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | NCTS ve TIR karnesi kapsamında eşya taşıyanlar hariç, tüzel kişilikler adına kayıtlı otomobil, minibüs, arazi taşıtı, kamyonet ve motosikletlerden eşya ve yolcu taşıyanlar 2 No.lu Taşıt Takip Programına; taşımayanlar ise 1 No.lu Taşıt Takip Programına kaydedilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Ticari ve kişisel kara taşıtları için ulusal ve uluslararası **kefil kuruluşlarca** verilen teminat hükmündeki belge **Gümrüklerden Geçiş Karnesi (CPD)**'dir.",
+     "yillar": [
+      "2022/61"
+     ],
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) 4/1-e",
+     "tuzak": "Yabancı taşıtlar geçici giriş karnesi yalnız Türkiye'de geçerlidir; form gümrük idaresince düzenlenir.",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Gümrüklerden geçiş karnesi (Carnet de passages en douane - CPD): Ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde olan belgeyi,",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**ATA karnesi**: taşıma araçları hariç eşyanın geçici ithalinde kullanılan, ayniyet tespitine yarayan, vergilerin uluslararası teminatını gösteren ve **gümrük beyannamesi** sayılan uluslararası belgedir.",
+     "yillar": [
+      "2025/90"
+     ],
+     "dayanak": "GGT (Geçici İthalat) Seri No 4 md. 2",
+     "tuzak": "TIR karnesi transit, CPD ve triptik taşıt, A.TR dolaşım belgesidir.",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | ATA Karnesi; taşıma araçları hariç olmak üzere eşyanın geçici ithali için kullanılan, ayniyet tespitine yarayan ve ithalat vergileri ile ithalatta alınan diğer vergilerin uluslararası alanda geçerli şekilde teminata bağlandığını gösteren, gümrük beyannamesi olarak kabul edilen, uluslararası bir gümrük belgesidir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GI eşyasının **izin süresi içinde yeniden ihracı** veya GOİK'e tabi tutulması esastır (ihlal değildir); **satış**, **işleme**, **ayniyeti değiştirme** ve **hak sahibi olmayanlarca kullanım** ihlaldir.",
+     "yillar": [
+      "2025/92"
+     ],
+     "dayanak": "GY 380/1, 381/2; 2009/15481 Karar 43/1",
+     "tuzak": "",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Geçici olarak ithal edilen eşyanın gümrük idaresince verilen izin süresi içinde yeniden ihraç edilmesi ya da gümrükçe onaylanmış yeni bir işlem veya kullanıma tabi tutulması esastır. ... Rejim kapsamındaki eşya, giriş ayniyetini korumaya yönelik olağan bakım faaliyetleri dışında başka bir işleme tabi tutulamaz.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Karne/form/geçici giriş belgesi kapsamı dışındaki **kişisel yabancı plakalı** kara taşıtları **yabancı plakasıyla** kullanılır; belge/karne/form kapsamı taşıtlara geçici trafik tescille **MA-MZ** plaka verilir.",
+     "yillar": [
+      "2025/93"
+     ],
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) 4/1-a, 11/7",
+     "tuzak": "Türk plakası, G/T plaka veya ZOLL plaka zorunluluğu yoktur; ZOLL, transit halindeki geçici plakalı taşıtlar içindir.",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | tarafından Türkiye Gümrük Bölgesine getirilen yabancı plakalı kişisel kullanıma mahsus kara taşıtlarının kaydedildiği bilgisayar programı ... Gümrük idaresi, geçici ithali yapılan taşıtın trafiğe tescili ve dâhilde alınmakta olan vergilerin tahsili için ek-5'te yer alan geçici trafik tescil belgesini düzenler ... Verilen MA-MZ plaka numarasının ilgili noterce",
+     "kaynakta_yok": false,
+     "not": "'Yabancı plakayla kullanılmaya devam edilir' ifadesi kaynakta açıkça yok; MA-MZ plakanın yalnız belge/karne/form kapsamı taşıtlara verilmesinden ve resmî cevaptan çıkar."
+    },
+    {
+     "hap": "EEGR'de devir, **devralanın eşyayı rejime tabi tutmasıyla** mümkündür; yeni hak sahibi hakkı aynı koşulları taşıyanlara **yeniden devredebilir**; devralan **teslim almakla** rejime tabi tutma yükümlülüğüne girer.",
+     "yillar": [
+      "2025/96"
+     ],
+     "dayanak": "GK 83; GY 320/6-8",
+     "tuzak": "Üç öncülün üçü de doğrudur (cevap I, II ve III); II GK 83'ten gelir.",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Yeni hak sahibi bu hakkı, aynı koşulları taşıyan diğer kişilere de devredebilir. ... Ekonomik etkili gümrük rejimlerine tabi eşyanın, bir hak sahibinden diğerine devri yalnızca eşyanın devredildiği hak sahibinin kayıt yoluyla beyan izni kapsamında devrolunan eşyayı ilgili rejime tabi tutmasıyla mümkündür. ... Devralan kişi eşyayı teslim almakla, söz konusu eşyayı rejime tabi tutma yükümlülüğü altına girmiş olur.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Geçici ithalat **ekonomik etkili** bir rejimdir; GI izni eşyayı **kullanan veya kullandıran** kişinin talebi üzerine **gümrük idarelerince** verilir.",
+     "yillar": [
+      "2024/72"
+     ],
+     "dayanak": "GK 79/1-b, 129/1",
+     "tuzak": "",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Geçici ithalat izni, eşyayı kullanan veya kullandıran kişinin talebi üzerine gümrük idarelerince verilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GI eşyası serbest dolaşıma sokulursa **TPÖ uygulanır** ve ithal için öngörülen diğer işlemler tamamlanır; rejim başka bir **şartlı muafiyet rejimine** tabi tutulmak üzere de kapatılabilir.",
+     "yillar": [
+      "2024/69"
+     ],
+     "dayanak": "GY 386/4, 379/2",
+     "tuzak": "",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Geçici ithalat rejimine tabi tutulan eşyanın serbest dolaşıma giriş rejimine tabi tutulması durumunda ticaret politikası önlemlerinin uygulanması ve eşyanın ithali için öngörülen diğer işlemlerin tamamlanması gerekir. ... Geçici ithalat rejiminin, başka bir şartlı muafiyet rejimine tabi tutulmak üzere kapatılması",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "18 kez soruldu ve eğilim yükseliyor (2024: 4, 2025: 5); tanım, %3, kiralama-satış yasağı, belgeler ve karneler ölçüldü. 24 aylık süre, Karar 19–20 taşıt süreleri, Kara Taşıtları Tebliği süreleri, ATA kefil sorumluluğu ile 2024–2026 değişiklikleri (GY 380/5, Karar 19/6 ve 19/8, Seri No 9 Tebliğ) hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Özel süreler saklı, eşyanın GI rejiminde kalma süresi **azami 24 ay**dır; gümrük idaresi ilgilinin kabulüyle **daha kısa** süre belirleyebilir.",
+     "dayanak": "GK 130/2",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | 131 inci madde uyarınca tespit edilecek özel süreler saklı kalmak üzere, eşyanın geçici ithalat rejimi altında kalma süresi azami yirmidört ay olarak belirlenir. Bununla birlikte, gümrük idareleri ilgili kişinin de kabul etmesiyle daha kısa süreler saptayabilir."
+    },
+    {
+     "hap": "Kısmi muafiyette alınacak vergiler toplamı, faiz hariç, eşya GI'ye tabi tutulduğu tarihte serbest dolaşıma girseydi alınacak **vergileri aşamaz**.",
+     "dayanak": "GK 133/2",
+     "neden": "sorulmamış hüküm (üst sınır); %3 kuralı 3 kez soruldu",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Alınacak ithalat vergileri tutarı, uygulanacak faizler hariç olmak üzere, söz konusu eşyanın geçici ithalat rejimine tabi tutulduğu tarihte serbest dolaşıma girmesi halinde alınacak vergileri aşamaz."
+    },
+    {
+     "hap": "Kısmi muafiyetli iki hak sahibi arasında **aynı ay** içinde devirde o **ayın tamamının** vergisini **ilk hak sahibi** öder; yeni hak sahibi **kalan süreyi** kullanır.",
+     "dayanak": "GK 133/3-4",
+     "neden": "sorulmamış hüküm; devir 2025/96'da soruldu (yükselen alt başlık)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Geçici ithalat rejiminden kaynaklanan hak ve yükümlülüklerin 83 üncü madde uyarınca devri halinde, yeni hak sahibi rejime ilişkin kalan süreyi 130 uncu maddenin 3 üncü fıkrası hükmü saklı kalmak üzere kullanabilir. ... 3 üncü fıkrada belirtilen devir işleminin aynı ay içerisinde, rejimi kısmi muafiyetle kullanmasına izin verilmiş iki kişi arasında gerçekleştirilmesi halinde, ilk hak sahibi söz konusu ayın tamamı için tahakkuk eden ithalat vergileri tutarını ödemekle yükümlüdür."
+    },
+    {
+     "hap": "GI eşyası için yükümlülük doğarsa vergi kural olarak **GI beyanı tarihindeki** unsurlara, **tam muafiyetli** eşyada ise **193. maddedeki tarihteki** (yükümlülüğün başladığı) unsurlara göre hesaplanır.",
+     "dayanak": "GK 134/1; GY 386/2",
+     "neden": "sorulmamış hüküm (vergilendirme tarihi)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | gümrük vergilerinin tutarı, geçici ithalat rejimine ilişkin beyanda bulunulduğu tarihte söz konusu eşyaya ait vergi oranı ve diğer vergilendirme unsurlarına istinaden tespit edilir. Ancak, tam muafiyet suretiyle geçici ithal edilen eşya ile ilgili olarak gümrük yükümlülüğü doğması halinde,193 üncü maddede belirtilen tarihte söz konusu eşyaya ilişkin vergi oranı ve diğer vergilendirme unsurları esas alınır."
+    },
+    {
+     "hap": "YYS sahibi veya önceki yıl **5 milyon $** üzeri ihracatçının kısmi muafiyetli eşyası ile havayolu taşıtlarında 24 ayı aşan kullanımda izin süresi **9 ay** uzatılır; sonra yeni izin alınır.",
+     "dayanak": "GY 380/5",
+     "neden": "son değişiklik: 09.01.2024 (32424 R.G.)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Yetkilendirilmiş yükümlü sertifikası sahibi olan veya bir önceki takvim yılı içerisinde beş milyon ABD Dolarının üzerinde ihracat yapmış olan yükümlüler tarafından kısmi muafiyet suretiyle geçici ithalat rejimine tabi tutulan ... rejime giriş gümrük idaresince geçici ithalat izin süresi dokuz ay uzatılır. Süre uzatımı sonunda, geçici ithal eşyasının Türkiye Gümrük Bölgesinde kullanımının devam ettiği durumda, gümrük idaresine yeni bir izin başvurusunda bulunulur"
+    },
+    {
+     "hap": "Ticari kullanıma mahsus deniz, hava, demiryolu taşıtları ile **hava taşıtı motorlarına** GI izni, 3226 sayılı Kanun uyarınca **finansal kiralama sözleşmesi süresine** bağlı verilir.",
+     "dayanak": "2009/15481 Karar 19/6",
+     "neden": "son değişiklik: 05.12.2025 (33098 R.G., 10664 CK)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Ticari kullanıma mahsus deniz, hava, demiryolu taşıtları ile hava taşıtlarının motorlarına[7], 10/6/1985 tarihli ve 3226 sayılı[8] Finansal Kiralama Kanunu uyarınca finansal kiralama sözleşmesi süresine bağlı olarak geçici ithalat izni verilir. (05.12.2025 / 33098 R.G. 10664 CK)"
+    },
+    {
+     "hap": "Turistik kolaylıklarla gelen taşıtı, ikameti TGB dışında olan **eşi, usul veya füruu**, ya da hak sahibi **taşıtta bulunmak** kaydıyla TGB dışında ikametli kişiler kullanabilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) 26/1-a",
+     "neden": "son değişiklik: 14.08.2026 (33340 R.G., Seri No 9 Tebliğ)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Turistik kolaylıklardan faydalanılarak geçici olarak ithal edilen taşıtlar, izin hak sahibinin, ikamet yeri Türkiye Gümrük Bölgesi dışında bulunan eşi, usul ya da füruu olan kişilerce veya izin hak sahibinin taşıtta bulunması kaydıyla ikamet yeri Türkiye Gümrük Bölgesi dışında bulunan kişilerce, (14.08.2026 / 33340 R.G. Seri No 9 Tebliğ ile değişik)"
+    },
+    {
+     "hap": "**Emeklilik belgesi**, yurt dışı emekliliğini gösteren, ülke sosyal güvenlik mevzuatına göre düzenlenen belge ile **elçilik, konsolosluk veya noter** onaylı Türkçe tercümeli suretidir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) 4/1-ç",
+     "neden": "son değişiklik: 14.08.2026 (33340 R.G., Seri No 9 Tebliğ)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Emeklilik belgesi: Türkiye Gümrük Bölgesi dışında yerleşik kişinin yurtdışından emekli olduğunu gösteren, çalışmaya bağlı olarak hak edilen ilgili ülke sosyal güvenlik mevzuatı gereğince düzenlenen belge ile bu belgenin elçilik, konsolosluk veya noterlerce onaylanmış Türkçe tercümeli suretini, (14.08.2026 / 33340 R.G. Seri No 9 Tebliğ ile değişik)"
+    },
+    {
+     "hap": "Yurt dışı emeklilerin taşıt süreleri (2 yıl / ikamet izni kadar) bitmeden başvurulursa **yeniden verilir**; başvuru izin süresinin **son üç ayında** yapılır, yurt dışı yerleşiklik yeniden sağlanmalıdır.",
+     "dayanak": "2009/15481 Karar 19/8; Kara Taşıtları Tebliği (Seri No 1) 17/6",
+     "neden": "son değişiklik: 28.12.2023 (7999 Karar) ve 31.12.2023 (Seri No 8 Tebliğ)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | 20 nci maddenin birinci fıkrasının (c) bendinin (3) ve (4) numaralı alt bentlerindeki süreler tamamlanmadan önce başvurulması kaydıyla süre bitimini müteakip aynı alt bentlerdeki süreler yeniden verilir. Bu haktan yeniden faydalanılabilmesi için yurt dışı yerleşiklik şartının yeniden sağlanması gerekir. ... verilen geçici ithalat izin sürelerinin tamamlanmasından önceki son üç ay içerisinde yapılması gerekir."
+    },
+    {
+     "hap": "Taşıt süreleri: demiryolu **12 ay**, yurt dışı emeklisinin kişisel kara taşıtı **2 yıl**, kişisel kara taşıtı **24 ay**, binek-yük hayvanı **6 ay**, kişisel hava **6 ay**, kişisel deniz **18 ay**.",
+     "dayanak": "2009/15481 Karar 20/1",
+     "neden": "sorulmamış hüküm (süre); yükselen konu",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Demiryolu taşıtlarına oniki ay, ... Türkiye Gümrük Bölgesi dışında yerleşik yurt dışından emeklilerin[9] kişisel kullanıma mahsus kara taşıtına iki yıl, ... Türkiye Gümrük Bölgesine getirilen kişisel kullanıma mahsus kara taşıtlarına yirmidört ay, binek ve yük hayvanları ile bu hayvanların çektikleri taşıtlara altı ay, ... Kişisel kullanıma mahsus hava taşıtlarına altı ay, ... kişisel kullanıma mahsus diğer deniz ve iç su yolları taşıtlarına onsekiz ay,"
+    },
+    {
+     "hap": "Yerleşim yerini TGB dışına nakleden gerçek kişinin getirdiği kişisel taşıt, getirildiği tarihten itibaren **en fazla üç ay** içinde yeniden ihraç edilmelidir.",
+     "dayanak": "2009/15481 Karar 19/1",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Türkiye Gümrük Bölgesindeki yerleşim yerini bölge dışına nakletmek isteyen gerçek kişinin kişisel kullanım amacıyla getireceği 16 ncı maddenin birinci fıkrasının (a) bendindeki koşulu taşıyan taşıta, geçici ithalat izni verilir. Bu taşıtın geçici olarak Türkiye Gümrük Bölgesine getirildiği tarihten itibaren en fazla üç ay içinde yeniden ihraç edilmesi zorunludur."
+    },
+    {
+     "hap": "Turistik kolaylıklar kapsamında taşıta **730 gün** süre verilir (kişinin kalış süresini aşamaz); **yerleşim yeri**, girişten geriye **365 günde en az 185 gün** yaşanan yerdir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) 6/1, 4/1-p",
+     "neden": "sorulmamış hüküm (süre/tanım); Kara Taşıtları Tebliği 2022 ve 2025'te soruldu",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Türkiye Gümrük Bölgesi dışında yerleşik kişilerin getirdikleri taşıtlarına 730 (yediyüzotuz) gün süre verilir. Verilecek olan izin süresi kişinin Türkiye'de kalabileceği süreden uzun olamaz. ... Yerleşim yeri: Kişinin Türkiye'ye giriş yapmak istediği tarihten geriye doğru 365 (üçyüzaltmışbeş) gün içerisinde en az 185 (yüzseksenbeş) gün yaşadığı yeri,"
+    },
+    {
+     "hap": "Ticari kara taşıtlarına **30 güne**, toplu gezi otobüslerine **90 güne**, sınır ticareti taşıtlarına **15 güne**, 1 No.lu programla giren tüzel kişi otomobillerine **90 güne** kadar süre verilir.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) 15/1",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Ticari kullanıma mahsus kara taşıtlarına 30 (otuz) güne kadar, ... Toplu gezilerde kullanılan otobüslere 90 (doksan) güne kadar, ... sınır ticareti uygunluk belgesine istinaden yapılan ithal eşyası taşımacılığında kullanılan taşıtlara 15 (onbeş) güne kadar, ... 1 No.lu Taşıt Takip Programına kayden giriş yapan tüzel kişiliklere ait otomobil, minibüs, arazi taşıtı, kamyonet ve motosikletlere 90 (doksan) güne kadar,"
+    },
+    {
+     "hap": "Belge/karne/form kapsamı taşıtlar için **geçici trafik tescil belgesi** başvurusu ilk girişten itibaren **30 gün** içinde yapılır; aksi halde **GK 241/1** uygulanır.",
+     "dayanak": "Kara Taşıtları Tebliği (Seri No 1) 8/4, 11/7",
+     "neden": "sorulmamış hüküm (süre/ceza); plaka konusu 2025/93'te soruldu",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Geçici trafik tescil belgesinin düzenlenmesi için gümrük idaresine başvurunun, bu taşıtların Türkiye Gümrük Bölgesine ilk giriş tarihinden itibaren 30 (otuz) gün içinde yapılması gerekir. Bu süre içerisinde gümrük idaresine başvurulmaması durumunda Kanunun 241 inci maddesinin birinci fıkrası uygulanarak işlem tesis edilir"
+    },
+    {
+     "hap": "Bedelsiz gönderilen tamir/siparişe konu **üretim araçları** tam muafiyetle **6 ay**, numune sayılmayan inceleme amaçlı eşya **2 ay**, ekonomik etkisiz eşya **bir defaya mahsus en fazla 3 ay** kalır.",
+     "dayanak": "2009/15481 Karar 36, 37/2, 39/1",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Birinci fıkrada belirtilen eşyanın geçici ithalat rejimi altında kalabileceği süre altı aydır. ... Alıcının yapacağı inceleme sonucuna bağlı olarak satın alımına karar verilecek, numune olarak nitelendirilemeyecek eşyaya iki ay süre ile geçici ithalat izni verilir. ... Bu Kısım kapsamında tam muafiyetten yararlanamayan ve önemli ekonomik etkisi olmayan eşyaya bir defaya mahsus olmak üzere tam muafiyet suretiyle geçici ithalat izni verilir. Bu eşyaya verilecek süre hiçbir koşulda üç ayı geçemez"
+    },
+    {
+     "hap": "Mülkiyeti TGB dışındakine ait **kalıp, ölçme-test aracı** vb. için GI izni, bunlarla elde edilen ürünün **en az %75'inin** ihraç edilmesi koşuluyla verilir.",
+     "dayanak": "2009/15481 Karar 34/1-a",
+     "neden": "sorulmamış hüküm (oran)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Mülkiyeti Türkiye Gümrük Bölgesi dışında yerleşik bir kişiye ait olan ve kullanımı sonucunda elde edilen ürünün en az % 75'inin Türkiye Gümrük Bölgesinden ihraç edilmesi koşuluyla, bu bölgede yerleşik kişiye imalat işlerinde kullanılmak üzere gönderilen ölçme, kontrol, test araçları ve benzeri diğer araçlar ile kalıp, çizim, taslak ve benzeri diğer araçlar."
+    },
+    {
+     "hap": "Süresinde çıkarılmayan ATA eşyası için kefil kuruluşa karne bitiminden itibaren **1 yıl** içinde tebligat yapılır; kefile **6 ay** delil süresi tanınır, sorumluluğu vergilerin **%10 fazlasını** aşamaz.",
+     "dayanak": "GGT (Geçici İthalat) Seri No 4 md. 10/a-b",
+     "neden": "sorulmamış hüküm (süre/oran); ATA 2024 ve 2025'te soruldu (yükselen)",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | kefil kuruluşa, karnenin geçerlilik süresinin bitim tarihinden itibaren 1 (bir) yıl içerisinde tebligat yapılması gerekir. ... Bu tutar, gümrük vergileri ve ithalatta alınan diğer vergiler (ithal vergi ve resimleri) toplamının %10 fazlasını aşamaz. ... talep tarihinden itibaren Geçici Kabul Belgelerine İlişkin Ek A'nın 9/1-a maddesi uyarınca 6 (altı) aylık süre tanınır."
+    },
+    {
+     "hap": "Türkiye'nin çekinceleri nedeniyle **posta trafiğinde ATA karnesi kabul edilmez**; ATA kapsamı eşya giriş idaresine varmadan **elektronik** olarak beyan edilebilir.",
+     "dayanak": "GGT (Geçici İthalat) Seri No 4 md. 3, 4",
+     "neden": "sorulmamış hüküm; ATA yükselen alt başlık",
+     "kanit": "34-GEÇİCİ İTHALAT.txt | Buna göre, posta trafiğinde ATA karneleri kabul edilmeyecektir. ... ATA Karnesi kapsamında geçici ithal edilecek eşya, giriş gümrük idaresine varışından önce elektronik olarak beyan edilebilir"
+    }
+   ]
+  },
+  {
+   "konu": "Hariçte İşleme",
+   "sinif": "AZ",
+   "cikmis_hap": [
+    {
+     "hap": "Gümrük idarelerinden **yalnızca birinin TGB'de** olması kaydıyla rejime giriş idaresi ile rejimi kapatan idarenin **farklı** olduğu duruma **üçgen trafik** denir.",
+     "yillar": [
+      "2021/52"
+     ],
+     "dayanak": "GY 308/1-l",
+     "tuzak": "Elleçleme, geçici depolama, dahilde/hariçte işleme bu tanımın adı değildir.",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Üçgen trafik: Gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durumu,",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "HİR'de üçgen trafikte işlem görmüş ürünlerde kısmi/tam muafiyetten yararlanmak için **geçici ihraç eşyası** bilgileri **INF 2** bilgi formuyla bildirilir.",
+     "yillar": [
+      "2022/58"
+     ],
+     "dayanak": "GY 327/1-ç; HİR Tebliği (2007/5) 3/1-ğ",
+     "tuzak": "INF 1 (DİR vergi/teminat), INF 6 (GI yer değiştirmiş eşya), INF 7 (geri ödeme) çeldiricidir.",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Hariçte işleme rejiminde üçgen trafikte, işlem görmüş ürünlerde kısmi veya tam muafiyetten yararlanmak için, geçici ihraç eşyasına ilişkin bilgilerin bildirimi için INF 2 bilgi formu.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Bedel karşılığı tamirde ithalat vergileri, gümrük kıymeti olarak **tamir masraflarına** eşit tutar alınıp **serbest dolaşıma giriş beyannamesinin tescil** tarihindeki unsurlara göre belirlenir.",
+     "yillar": [
+      "2022/59"
+     ],
+     "dayanak": "GK 143",
+     "tuzak": "FOB/CIF bedel veya geçici ihracat beyannamesinin tescil/kapanış tarihi esas alınmaz.",
+     "kanit": "35- hir.txt | Eşyanın tamir amacıyla geçici ihraç edildiği ve tamiratın bedel karşılığında yapıldığı hallerde, 135 inci maddenin 1 inci fıkrasında belirtilen ithalat vergileri, gümrük kıymeti olarak tamir masraflarına eşit bir tutar dikkate alınarak, işlem görmüş ürünlerin serbest dolaşıma giriş beyannamesinin tescil edildiği tarihte, bu ürünlere uygulanacak vergi oranı ve diğer vergilendirme unsurlarına istinaden belirlenir.",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "3 kez soruldu (2021'de 1, 2022'de 2: üçgen trafik, INF 2, bedelli tamir); 2023–2025'te soru yok. HİR Kararı/Tebliği süreleri, bedelsiz tamir muafiyeti, standart değişim, vergi hesaplaması ve taahhüt kapatma hükümleri hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Hariçte işleme izin belgesi/izninin süresi **azami 12 ay**; gerekçeli talepte belgeye **orijinal sürenin 1/2'si**, maden iznine **12 aya kadar** ek süre verilebilir.",
+     "dayanak": "HİR Tebliği (2007/5) 9/1",
+     "neden": "sorulmamış hüküm (süre); konu 2023–2025'te hiç sorulmadı",
+     "kanit": "35- hir.txt | Hariçte işleme izin belgesinin/hariçte işleme izninin süresi azami 12 (oniki) aydır. Ayrıca, ilgili firmanın gerekçeli talebi üzerine hariçte işleme izin belgesine belge orijinal süresinin 1/2'si oranında, hariçte işleme iznine ise 12 (oniki) aya kadar ek süre verilebilir."
+    },
+    {
+     "hap": "Tamir için geçici ihraç edilen eşya, tamiratın **garanti, kanuni yükümlülük veya imalat hatası** nedeniyle **bedelsiz** yapıldığı kanıtlanırsa serbest dolaşıma **tam muaf** girer.",
+     "dayanak": "GK 142",
+     "neden": "sorulmamış hüküm; bedelli tamir (GK 143) 2022'de soruldu, bedelsiz tamir sorulmadı",
+     "kanit": "35- hir.txt | Tamir amacıyla geçici ihraç edilen eşya, tamiratın garanti nedeniyle sözleşmeye bağlı olarak veya kanuni bir yükümlülüğe dayanarak ya da bir imalat hatası nedeniyle, bedelsiz yapıldığının kanıtlanması halinde, serbest dolaşıma ithalat vergilerinden tam muaf olarak girer."
+    },
+    {
+     "hap": "Önceden ithalatlı standart değişimde geçici ihracat eşyası, ikame ürünün serbest dolaşım beyannamesi tescilinden itibaren **iki ay** içinde ihraç edilmelidir; **serbest bölge/antrepoya** konulması yeterlidir.",
+     "dayanak": "GK 146; GY 413/1",
+     "neden": "sorulmamış hüküm (süre); standart değişim yalnız 2025/62'de çeldirici olarak geçti",
+     "kanit": "35- hir.txt | İthalatın önceden yapıldığı durumda, ikame ürünlerin serbest dolaşıma giriş beyannamesinin tescili tarihinden itibaren iki aylık süre içinde geçici ihracat eşyasının ihraç edilmesi gerekir. ... geçici ihraç eşyasının serbest bölgeye alınması veya antrepoya konulması halinde, Kanunun 146 ncı maddesinde belirtilen süre şartı yerine getirilmiş sayılır."
+    },
+    {
+     "hap": "HİR'de vergi, işlem görmüş ürünün vergisinden geçici ihracat eşyasının **en son işlendiği ülkeden aynı tarihte ithal edilseydi** ödenecek vergi **düşülerek** hesaplanır.",
+     "dayanak": "GK 141/1",
+     "neden": "sorulmamış hüküm (hesaplama)",
+     "kanit": "35- hir.txt | 135 inci maddenin 1 inci fıkrasında belirtilen ithalat vergileri, işlem görmüş ürünlere ait ithalat vergileri tutarından, geçici ihracat eşyasına en son işleme faaliyetine tabi tutulduğu ülkeden aynı tarihte ithal edilse idi uygulanacak olan ithalat vergileri tutarının indirilmesi suretiyle hesaplanır."
+    },
+    {
+     "hap": "Belge sahibi taahhüt kapatma için ek süreler dahil süre sonundan itibaren **bir ay** içinde DYS'den **bölge müdürlüğüne** başvurur; başvurmazsa uyarıdan sonra **usulsüzlük cezasıyla re'sen** kapatılır.",
+     "dayanak": "HİR Tebliği (2007/5) 17/1-2",
+     "neden": "sorulmamış hüküm (süre/makam); 31.12.2019 (İhracat 2019/10) değişikliği",
+     "kanit": "35- hir.txt | Hariçte işleme izin belgesi sahibi firmaların, belge süresi (belgeye verilen ek süreler dahil) sonundan itibaren bir ay içerisinde DYS üzerinden Bakanlıkça (İhracat Genel Müdürlüğü) belirlenen ilgili bölge müdürlüğüne ... bu sürede kapatma müracaatında bulunulmayan hariçte işleme izin belgesi/hariçte işleme izni (belge/izin kapsamındaki diğer sorumlulukların yerine getirilmiş olması şartıyla) gümrük mevzuatı çerçevesinde usulsüzlük cezası uygulanarak resen kapatılır."
+    },
+    {
+     "hap": "Kapatmada ibraz edilen beyanname ve eklerinin **sahte veya tahrifatlı** çıkması halinde vergi tahsil edilir ve firma **1 yıl** süreyle HİR'den yararlandırılmaz.",
+     "dayanak": "HİR Tebliği (2007/5) 20/2",
+     "neden": "sorulmamış hüküm (süre/yaptırım)",
+     "kanit": "35- hir.txt | Kapatma esnasında ibraz edilen gümrük beyannamesi ve eki belgelerin sahte veya üzerinde tahrifat yapılmış olması durumunda, bu beyanname kapsamı ithalata ilişkin vergi, bu maddenin (1) numaralı fıkrası hükümleri çerçevesinde tahsil edilir, ilgililer hakkında kanuni işlem yapılır ve belge/izin sahibi firma 1 (bir) yıl süreyle hariçte işleme rejiminden yararlandırılmaz."
+    }
+   ]
+  },
+  {
+   "konu": "GKAİR",
+   "sinif": "AZ",
+   "cikmis_hap": [
+    {
+     "hap": "**GKAİR**: serbest dolaşıma girmemiş eşyanın vergi/TPÖ'ye tabi tutulmaksızın **niteliğini veya durumunu değiştiren** işlemlerden geçirilip elde edilen **işlenmiş ürünlerin** gümrük vergileri üzerinden serbest dolaşıma girmesidir.",
+     "yillar": [
+      "2021/44",
+      "2024/73"
+     ],
+     "dayanak": "GK 123/1",
+     "tuzak": "Ürüne 'muaf/kontrollü/geçici/harici ürün' denmez; 2024/73'te serbest dolaşımdaki eşyanın işlenmesi, TPÖ uygulanarak teminatla işleme, DİR ve GI tanımları çeldiriciydi.",
+     "kanit": "33-GKAİR.txt | Gümrük kontrolü altında işleme rejimi, serbest dolaşıma girmemiş eşyanın Türkiye Gümrük Bölgesinde, ithalat vergilerine veya ticaret politikası önlemlerine tabi tutulmaksızın, niteliğini veya durumunu değiştiren işlemlere tabi tutulmaları ve bu işlemlerden elde edilen ürünlerin gümrük vergileri üzerinden serbest dolaşıma girmelerine ilişkin hükümlerin uygulandığı rejimdir. Elde edilen bu tür ürünler, işlenmiş ürün olarak adlandırılır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "İşlem görmüş ürünün kıymeti ilgilinin tercihine göre dört yöntemden biriyle belirlenir: üçüncü ülkede aynı/benzer eşya kıymeti, ilişkisiz satış fiyatı, ilişkisiz Türkiye satış fiyatı, **ithal eşya kıymeti + işleme maliyeti**.",
+     "yillar": [
+      "2022/56"
+     ],
+     "dayanak": "GY 375/1",
+     "tuzak": "Dört yöntemin dördü de geçerlidir (cevap I, II, III ve IV).",
+     "kanit": "33-GKAİR.txt | Kanunun 31 inci maddesinin birinci fıkrası uyarınca, serbest dolaşıma girecek işlem görmüş ürünlerin kıymetinin belirlenmesinde, ilgili kişinin serbest dolaşıma giriş beyannamesinin tescil tarihindeki tercihine göre; ... İthal eşyanın kıymeti ile işleme maliyetinin toplamı, ... yöntemlerinden biri uygulanır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GKAİR'de rejime giriş esnasında eşyaya isabet eden vergiler **teminata bağlanır**.",
+     "yillar": [
+      "2024/74"
+     ],
+     "dayanak": "GY 373/5; GKAİR Tebliği (Seri No 3) 2/5",
+     "tuzak": "2024/74-E: 'işlenmek üzere ithal edilen eşyanın vergileri teminata bağlanmaz' (yanlış).",
+     "kanit": "33-GKAİR.txt | Rejime giriş esnasında, eşyaya isabet eden vergiler teminata bağlanır. ... Rejim kapsamında getirilen eşya için 4458 sayılı Gümrük Kanununun 202 nci maddesi uyarınca teminat alınır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GKAİR izni işleme işini **yapan veya yaptıranın** talebiyle **gümrük idarelerince**, yalnız **TGB'de yerleşiklere**; işlenmiş üründe ithal eşyasının **teşhisi mümkün** ve eski hale dönüşüm **ekonomik değilse** verilir.",
+     "yillar": [
+      "2024/74"
+     ],
+     "dayanak": "GK 124/1-2",
+     "tuzak": "",
+     "kanit": "33-GKAİR.txt | Gümrük kontrolü altında işleme izni, işleme işini yapan veya yaptıran kişinin talebi üzerine gümrük idarelerince verilir. ... İzin, sadece Türkiye Gümrük Bölgesinde yerleşik kişilere; ... İşlenmiş ürünler içinde ithal eşyasının teşhisinin mümkün olduğu, ... Eşyanın işlenmesinden sonra, rejime tabi tutulduğu sıradaki niteliğine veya durumuna dönüştürülmesinin ekonomik olarak mümkün olmadığı,",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "4 kez soruldu (2021, 2022 ve 2024'te 2): tanım, kıymet yöntemleri, izin şartları ve teminat; 2025'te soru yok. İzin süresi (2 yıl + 3 ay), mücbir sebep müracaatı, YGM tespit raporu, cezai müeyyide süreleri ve uygulama alanı hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "GKAİR izninin geçerlilik süresi gümrük idaresince **azami iki yıl** belirlenir, **izin belgesi tarihinde** başlar; mücbir sebep, beklenmeyen hal veya haklı gerekçeyle **üç aya kadar** uzatılabilir.",
+     "dayanak": "GY 372; GKAİR Tebliği (Seri No 3) 3/1-2",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "33-GKAİR.txt | Gümrük kontrolü altında işleme rejimine ilişkin iznin geçerlilik süresi, ekonomik şartlar, başvuru sahibinin özel şartları ve işleme faaliyetinin özelliği dikkate alınarak, gümrük idaresince her başvuru için ve azami iki yıl olarak belirlenir. Sürenin başlangıcı izin belgesinin tarihidir. ... Bu süreler mücbir sebep ve beklenmeyen hallerde veya izin sahibi tarafından ileri sürülen haklı gerekçelere bağlı olarak üç aya kadar uzatılabilir."
+    },
+    {
+     "hap": "GKAİR, işlenmiş ürünün ithalat vergisinin bünyesindeki ithal ürünün vergisinden **daha düşük** olduğu işlemlerde ve **teknik düzenlemelere uygunluk** için işlenmesi gereken eşyada uygulanır.",
+     "dayanak": "GY 370/1-2",
+     "neden": "sorulmamış hüküm (uygulama alanı)",
+     "kanit": "33-GKAİR.txt | gümrük kontrolü altında işleme rejimi, işlenmiş ürünün ithalat vergisinin, bünyesinde bulundurduğu ithal ürünün vergisinden daha düşük olduğu işlemler için uygulanır. ... Rejim, serbest dolaşıma girişinde aranılan bazı teknik düzenlemelere uygunluğunun sağlanması için işleme faaliyetine tabi tutulması gereken eşyada da uygulanır."
+    },
+    {
+     "hap": "Mücbir sebep/beklenmeyen halden yararlanmak için en geç izin süresi sonundan itibaren **bir ay** içinde izni veren **gümrük müdürlüğüne** başvurulur; geç müracaat değerlendirilmez.",
+     "dayanak": "GKAİR Tebliği (Seri No 3) 3/5",
+     "neden": "sorulmamış hüküm (süre/makam)",
+     "kanit": "33-GKAİR.txt | Firmaların mücbir sebep ve beklenmeyen hallerden yararlanabilmeleri için en geç izin süresi sonundan itibaren bir ay içerisinde izni veren gümrük müdürlüğüne müracaat etmeleri gerekmektedir. Belirtilen sürede yapılmayan müracaatlar değerlendirmeye alınmaz."
+    },
+    {
+     "hap": "Rejimin ibrasında **YGM tespit raporu**, izin süresi içinde veya en geç süre sonundan itibaren **bir ay** içinde gümrük müdürlüğüne sunulur.",
+     "dayanak": "GKAİR Tebliği (Seri No 3) 5/1",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "33-GKAİR.txt | rejimin ibrasında Gümrük Yönetmeliğinin 374 ve 375 inci maddelerinde belirtilen şartların yerine getirilip getirilmediğine yönelik olarak yetkilendirilmiş gümrük müşavirince düzenlenen tespit raporu Gümrük Yönetmeliğinin 325 inci maddesi gereğince izin belgesinde öngörülen süre içerisinde veya en geç bu sürenin sona erdiği tarihten itibaren bir ay içerisinde gümrük müdürlüğüne sunulur."
+    },
+    {
+     "hap": "İzin bitiminden sonra işlemler **1 ay** içinde bitirilirse **GK 241/3-h**, **2 ayı** aşmadan bitirilirse **241/4-h**; bu sürelerde bitirilmeyen eşya ve rejim ihlalinde **GK 238** uygulanır.",
+     "dayanak": "GKAİR Tebliği (Seri No 3) 8",
+     "neden": "sorulmamış hüküm (süre/ceza)",
+     "kanit": "33-GKAİR.txt | izin süresinin bitimini takiben bir ay içerisinde rejimin gerektirdiği işlemlerinin bitirilmesi halinde Gümrük Kanununun 241 inci maddesinin 3/h bendi uyarınca işlem yapılır. ... izin verilen süresinin bitimini takiben iki ayı aşmayan süre içerisinde rejimin gerektirdiği işlemlerinin bitirilmesi halinde Gümrük Kanununun 241 inci maddesinin 4/h bendi uyarınca işlem yapılır. ... Yukarıda belirtilen süreler dahilinde işlemleri bitirilmeyen eşya ile rejim hükümlerinin ihlali halinde Gümrük Kanununun 238 inci maddesi uyarınca işlem yapılır."
+    },
+    {
+     "hap": "Değişmemiş eşya veya ara ürünlerde gümrük yükümlülüğü doğarsa vergi, ithal eşyasının **GKAİR beyannamesinin tescili** sırasındaki oran ve unsurlara göre belirlenir.",
+     "dayanak": "GK 126; GY 374/2",
+     "neden": "sorulmamış hüküm (vergilendirme tarihi)",
+     "kanit": "33-GKAİR.txt | Değişmemiş eşyaya veya izinde öngörülen işlemin ara aşamalarından birinde bulunan ürünlere ilişkin bir gümrük yükümlülüğü doğduğunda, gümrük vergileri tutarı, ithal eşyasının bu rejime ilişkin beyannamenin tescili sırasında yürürlükte bulunan vergi oranı ve diğer vergilendirme unsurlarına dayanılarak belirlenir."
+    }
+   ]
+  },
+  {
+   "konu": "Şartlı Muafiyet/EEGR",
+   "sinif": "ORTA",
+   "cikmis_hap": [
+    {
+     "hap": "**Ekonomik etkili gümrük rejimleri**: antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat ve hariçte işleme; **transit EEGR değildir**.",
+     "yillar": [
+      "2021/43",
+      "2022/33"
+     ],
+     "dayanak": "GK 79/1-b",
+     "tuzak": "Transit şartlı muafiyet düzenlemesidir ama ekonomik etkili rejim değildir.",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | \"Ekonomik etkili gümrük rejimi\" deyimi, - Antrepo, - Dahilde işleme, - Gümrük kontrolü altında işleme, - Geçici ithalat, - Hariçte işleme;",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**Şartlı muafiyet düzenlemesi**: serbest dolaşımda olmayan eşyaya transit, antrepo, **şartlı muafiyet sistemli** DİR, GKAİR ve geçici ithalat uygulanmasıdır; HİR, ihracat ve **geri ödemeli DİR** değildir.",
+     "yillar": [
+      "2022/62",
+      "2023/83",
+      "2024/30"
+     ],
+     "dayanak": "GK 79/1-a",
+     "tuzak": "2022/62 hariçte işleme, 2023/83 ihracat rejimi, 2024/30 geri ödeme sistemli DİR çeldiriciydi (üçü de düzenleme dışında).",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | \"Şartlı muafiyet düzenlemesi\"deyimi, serbest dolaşımda olmayan eşyaya, - Transit, - Antrepo, - Şartlı muafiyet sistemi kapsamında dahilde işleme, - Gümrük kontrolü altında işleme, - Geçici ithalat;",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "5 kez soruldu (2021–2024), hepsi GK 79'daki rejim listelerinden; 2025'te soru yok. GK 80–83 (teminat, sona erme, devir) ile GY 308–327'deki izin bildirim süresi, geriye dönük izin, saklama, TPÖ, faiz, kapatma süresi ve INF formları hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Eşyanın şartlı muafiyet düzenlemesine tabi tutulması, tahakkuk edebilecek **her türlü gümrük vergisine karşılık teminat** verilmesi şartına bağlıdır.",
+     "dayanak": "GK 81/2",
+     "neden": "sorulmamış hüküm (GK 80–83 hiç sorulmadı)",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Eşyanın bir şartlı muafiyet düzenlemesine tabi tutulması, söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır."
+    },
+    {
+     "hap": "Ekonomik etkili şartlı muafiyet düzenlemesi; eşyaya, eşdeğer eşyaya veya işlenmiş ürünlere **gümrükçe onaylanmış yeni bir işlem veya kullanım** tayin edilince sona erer.",
+     "dayanak": "GK 82",
+     "neden": "sorulmamış hüküm",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Ekonomik etkili bir şartlı muafiyet düzenlemesi, bu düzenlemeye tabi tutulmakta olan eşyaya veya eşdeğer eşyaya ya da işlenmiş ürünlere, gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer."
+    },
+    {
+     "hap": "**Değişmemiş eşya**, DİR veya GKAİR çerçevesinde **hiçbir şekilde işçilik görmemiş** ithal eşyasıdır; DİR ve HİR usul ve esaslarını **Cumhurbaşkanı** belirler.",
+     "dayanak": "GK 79/3, 80/1",
+     "neden": "sorulmamış hüküm (tanım/yetki)",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | \"Değişmemiş eşya\" deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir. ... Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir."
+    },
+    {
+     "hap": "EEGR izin kararı veya ret gerekçesi, başvurunun/ek belgelerin kayda girdiği tarihten itibaren **antrepoda 60 gün**, diğer rejimlerde **30 gün** içinde bildirilir.",
+     "dayanak": "GY 315/1",
+     "neden": "sorulmamış hüküm (süre)",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | İznin verilmesine ilişkin karar veya başvurunun reddedilme nedenleri, başvurunun yapıldığı veya istenilen ek bilgi ve belgelerin gümrük idaresinin kaydına girdiği tarihten itibaren; gümrük antrepo rejiminde altmış gün, diğer rejimlerde otuz gün içinde başvuru sahibine bildirilir."
+    },
+    {
+     "hap": "**Antrepo rejimi hariç** gümrük idarelerince **geriye dönük izin** verilebilir; izin başvuruları ve ekleri ilgili takvim yılı sonundan itibaren **5 yıl** saklanır.",
+     "dayanak": "GY 317/1, 318/1",
+     "neden": "sorulmamış hüküm (istisna/süre)",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Antrepo rejimi hariç, Müsteşarlıkça belirlenecek usul ve esaslar çerçevesinde, gümrük idarelerince geriye dönük izin verilebilir. ... beş yıl süre ile izin belgesiyle birlikte saklanır."
+    },
+    {
+     "hap": "Serbest dolaşıma girişte uygulanacak TPÖ, eşyanın EEGR'ye girişinde ve rejimde kaldığı sürece **uygulanmaz**; ancak **TGB'ye girişte** öngörülen TPÖ EEGR'de de uygulanır.",
+     "dayanak": "GY 319/1-2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Eşyanın serbest dolaşıma girişi sırasında ticaret politikası önlemlerinin uygulanması öngörülüyorsa söz konusu önlemler eşyanın bir ekonomik etkili gümrük rejimine girişinde ya da bu rejime tabi oldukları süre zarfında uygulanmaz. ... Eşyanın Türkiye Gümrük Bölgesine girişinde ticaret politikası önlemlerinin uygulanması öngörülüyorsa söz konusu önlemler eşyanın ekonomik etkili gümrük rejimlerine tabi tutulmaları durumunda da uygulanır."
+    },
+    {
+     "hap": "Kapatma başvurusu süre sonundan itibaren şartlı muafiyetli **DİR'de 3 ay**, **GKAİR'de 1 ay** içinde denetleyici gümrük idaresine yapılır; yapılmazsa idare **re'sen kapatabilir**.",
+     "dayanak": "GY 325/1-a, 325/2",
+     "neden": "son değişiklik: 03.01.2023 (32062 R.G.)",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Şartlı muafiyet sisteminin kullanıldığı dahilde işleme rejiminde üç ay, gümrük kontrolü altında işleme rejiminde ise bir ay içerisinde rejimin kapatılması için, (03.01.2023 / 32062 sayılı R.G. ile değişik) ... Birinci fıkranın (a) bendinde belirtilen süre içerisinde rejim kapatma başvurusu yapılmaması halinde, denetleyici gümrük idaresi rejimi re'sen kapatabilir."
+    },
+    {
+     "hap": "GI ve DİR'de gümrük yükümlülüğü doğarsa vergilere ek **gecikme zammı oranında faiz** alınır; **teminat nakit** alınmışsa faiz uygulanmaz.",
+     "dayanak": "GY 323/1, 323/2-d",
+     "neden": "sorulmamış hüküm",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Geçici ithalat rejimi ile dahilde işleme rejiminde işlem görmüş ürün veya ithal eşyası için gümrük yükümlülüğü doğması halinde, ithalat vergilerine ilave olarak Kanunun 207 nci maddesi uyarınca belirlenecek gecikme zammı oranında faiz tahsil edilir. ... Teminatın nakit olarak alınmış olması durumunda,"
+    },
+    {
+     "hap": "Bilgi formları: antrepoda elleçleme öncesi **INF 8**, DİR'de vergi/teminat **INF 1**, geri ödemede **INF 7**, GI'de yer değiştirmiş eşya **INF 6**, DİR üçgen trafikte **INF 9** ve **INF 5**.",
+     "dayanak": "GY 327/1",
+     "neden": "sorulmamış hüküm (INF 2 2022'de soruldu, diğer formlar sorulmadı)",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Gümrük antrepo rejiminde, elleçleme işlemlerinden önce eşyaya ilişkin gümrük yükümlülüğünün tespitini sağlayacak bilgilerin bildirimi için INF 8 bilgi formu. ... Vergi tutarları, faiz, teminat ve ticaret politikası önlemlerine dair bilgilerin bildirimi için INF 1 bilgi formu. ... Üçgen trafikte başkaca bir gümrükçe onaylanmış işlem veya kullanıma tahsis edilecek işlem görmüş ürünlere dair bilgilerin bildirimi için INF 9 bilgi formu. ... İthal eşyasında vergi muafiyetinden yararlanmak için üçgen trafikte önceden yapılan ihracata ilişkin bilgilerin bildirimi için INF 5 bilgi formu. ... Geri ödeme sisteminde, vergilerin geri verilmesi veya kaldırılmasına ilişkin bilgilerin bildirimi için INF 7 bilgi formu. ... Geçici ithalat rejiminde, yer değiştirmiş eşyanın gümrük yükümlüğünün tespitine veya halihazırda tahakkuk ettirilmiş vergilere ilişkin bilgilerin bildirimi için INF 6 bilgi formu."
+    },
+    {
+     "hap": "Eşyanın çıkış veya varış yeri **B tipi antrepo** ise EEGR kapsamında **nakil yapılamaz**; rejim kayıtlarını tutma zorunluluğu **geçici ithalat hariç** diğer EEGR'lerde vardır.",
+     "dayanak": "GY 320/2, 321/1",
+     "neden": "sorulmamış hüküm (istisna)",
+     "kanit": "19-ŞARTLI M VE E.E.G.R.txt | Eşyanın çıkış veya varış yerinin B tipi antrepo olması halinde nakil mümkün değildir. ... Geçici ithalat rejimi hariç olmak üzere, antrepo rejiminde antrepo işleticisi, dahilde işleme, hariçte işleme ve gümrük kontrolü altında işleme rejimlerinde izin hak sahibi veya işleme faaliyetini yapan kişi tarafından ilgili rejime ilişkin kayıtların tutulması zorunludur."
+    }
+   ]
+  }
+ ]
+}

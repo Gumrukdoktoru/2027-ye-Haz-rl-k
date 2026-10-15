@@ -1,0 +1,1158 @@
+{
+ "grup": "B1",
+ "konular": [
+  {
+   "konu": "Gümrük Kıymeti",
+   "sinif": "ÇOK",
+   "cikmis_hap": [
+    {
+     "hap": "Beyan sahibinin yazılı talebi gümrük idaresince uygun bulunursa yalnız **indirgeme yöntemi ile hesaplanmış kıymet yönteminin** uygulama sırası değiştirilebilir.",
+     "yillar": [
+      "2021/29"
+     ],
+     "dayanak": "GK 25/1; GY 44/1",
+     "tuzak": "Satış bedeli, aynı eşya ve benzer eşya yöntemlerinin sırası değiştirilemez.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | beyan sahibinin yazılı talebinin gümrük idaresince uygun bulunması şartıyla (c) ve (d) bentlerinin uygulama sırası değiştirilebilir ... aşağıda yer alan yöntemlerden indirgeme yöntemi ile hesaplanmış kıymet yönteminin uygulama sırası değiştirilebilir",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Alıcının **pazarlama dahil kendi hesabına** yaptığı faaliyetler, satıcı yararına ya da satıcıyla anlaşmaya dayansa bile satıcıya **dolaylı ödeme sayılmaz** ve fiyata **ilave edilmez**.",
+     "yillar": [
+      "2021/31",
+      "2022/52",
+      "2024/23"
+     ],
+     "dayanak": "GK 24/3-b; GY 43/1-g",
+     "tuzak": "'Satıcıya dolaylı ödeme sayılır / kıymete dahil edilir' ifadesi yanlış (2021/31, 2022/52); pazarlama faaliyetleri 27/1-b'deki bedelsiz sağlanan unsurlar arasında da yoktur (2024/23).",
+     "kanit": "12-KIYMET VE KAPLAR.txt | 27 nci maddeye göre yapılan ilaveler dışında, alıcının pazarlama dahil kendi hesabına yaptığı faaliyetler, satıcı yararına veya satıcı ile yapılan bir anlaşma yoluyla da olsa, satıcıya yapılan dolaylı bir ödeme olarak değerlendirilmez ... Bu tür işlemlere ilişkin giderler, ithal eşyasının gümrük kıymetinin tespiti sırasında fiilen ödenen veya ödenecek fiyata ilave edilmez",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Fatura ve belgelerdeki yabancı paralar, gümrük yükümlülüğünün başladığı tarihte yürürlükteki **T.C. Merkez Bankası döviz satış kuru** üzerinden Türk lirasına çevrilir.",
+     "yillar": [
+      "2021/35",
+      "2022/55",
+      "2024/25"
+     ],
+     "dayanak": "GK 30; GY 57/1",
+     "tuzak": "Döviz alış kuru, efektif alış/satış kuru veya serbest piyasa kuru değil.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | gümrük yükümlülüğünün başladığı tarihte yürürlükte olan T.C. Merkez Bankası döviz satış kurları üzerinden Türk Lirasına çevrilir",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "İndirgeme yönteminde aynı veya yakın tarihte satış yoksa, ithal tarihinden itibaren **doksan gün** içinde ithal edildiği hal ve durumda Türkiye'de yapılan **ilk satışın** birim fiyatı esas alınır.",
+     "yillar": [
+      "2021/39"
+     ],
+     "dayanak": "GY 48/3",
+     "tuzak": "20, 30, 60 veya 120 gün değil.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | ithal tarihinden itibaren doksan gün içinde ithal edildiği hal ve durumda Türkiye'de yapılan ilk satışına ait birim fiyat esas alınır",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Alıcı ile satıcı arasındaki **ilişki**, satış bedelinin reddi için **tek başına yeterli değildir**; ilişki fiyatı etkilemediyse **ilişkili firmadan ithalatta** da satış bedeli yöntemi uygulanır.",
+     "yillar": [
+      "2022/44"
+     ],
+     "dayanak": "GK 24/1-d, 24/2-a",
+     "tuzak": "Ayrı tüzel kişiliği olmayan şubenin ithalatı, finansal kiralama, ödünç verilen eşya ve imha için gönderilen eşya seçenekleri satış bedeli yöntemine uygun sayılmadı.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | alıcı ile satıcı arasında bir ilişkinin varlığı, satış bedelinin reddedilmesi için tek başına yeterli bir neden oluşturmaz. Böyle durumlarda, satışa ilişkin koşullar incelenerek, bu ilişkinin fiyatı etkilemediği belirlenirse, satış bedeli kabul edilir",
+     "kaynakta_yok": false,
+     "not": "Şube, finansal kira, ödünç ve imha halleri kaynak metinde düzenlenmemiştir; bu kısım yalnız resmî cevaptan."
+    },
+    {
+     "hap": "Royalti ve lisans ücreti tanımında **patent, dizayn, know-how, model, marka, tescilli tasarım, telif hakkı ve imalat prosesleri** sayılır; **mizanpaj** sayılmaz.",
+     "yillar": [
+      "2022/47"
+     ],
+     "dayanak": "GY 43/1-ğ; Seri No:2 Kıymet Tebliği 3/1-a",
+     "tuzak": "Mizanpaj tanımda yer almaz.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | patent, dizayn, know-how, model, marka, tescilli tasarım, telif hakkı ve imalat prosesleri gibi adlar adı altında yapılan ödemeleri",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Aynı eşya; **fiziksel özellik, kalite ve tanındığı özellikleri** dahil her hususta aynı olan ve **aynı ülkede** üretilmiş eşyadır; **aynı kişi tarafından** üretilmiş olması şart değildir.",
+     "yillar": [
+      "2022/48"
+     ],
+     "dayanak": "GY 43/1-b, 43/4",
+     "tuzak": "'Aynı kişi tarafından üretilmiş olma' zorunlu özellik değildir; aynı kişinin ürettiği yoksa farklı kişinin ürettiği eşya dikkate alınır.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Fiziksel özellik, kalite ve tanındığı özellikleri dahil olmak üzere her hususta aynı olan ve aynı ülkede üretilmiş eşyayı ... aynı kişi tarafından üretilmiş aynı veya benzer eşya bulunmadığı takdirde, farklı kişi tarafından üretilmiş eşya dikkate alınır",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Benzer eşya; **aynı işlevi** gören, ticari olarak **ikame edilebilen**, benzer özellik ve unsurları bulunan, **aynı ülkede** üretilmiş eşyadır; kalite, tanınırlık ve marka bulunması değerlendirme faktörüdür.",
+     "yillar": [
+      "2022/98",
+      "2024/27"
+     ],
+     "dayanak": "GY 43/1-d",
+     "tuzak": "'Aynı ticari markayı taşıma' (2022/98) ve 'fiyat' (2024/27) benzer eşya ölçütü değildir.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Her hususta aynı olmamakla birlikte aynı işlevi görmelerini ve ticari olarak birbirlerini ikame edebilmelerini mümkün kılan, benzer özellik ve benzer unsurları bulunan ve aynı ülkede üretilmiş olan eşyayı ... eşyanın kalitesi, tanındığı özellikleri, bir ticari markasının bulunması, eşyanın benzerliğinin belirlenmesinde göz önüne alınacak faktörler arasında yer alır",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Satış bedelinin esas alınması için eşya; **mevzuat/yetkili merci**, **coğrafi satış bölgesi** ve kıymeti önemli ölçüde etkilemeyen kısıtlamalar dışında kısıtlamaya tabi olmamalıdır; **kullanım yeri ve şekli** kısıtı engeldir.",
+     "yillar": [
+      "2022/49"
+     ],
+     "dayanak": "GK 24/1-a",
+     "tuzak": "Kanun, yetkili merci, coğrafi bölge ve önemsiz kısıtlamalar satış bedelini engellemez.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Türkiye Cumhuriyeti mevzuatı ve bunların yetkili kıldığı merciler tarafından konulmuş olan ... Eşyanın tekrar satılabileceği coğrafi bölgeyi sınırlayan ... Eşyanın kıymetini önemli bir ölçüde etkilemeyen, Kısıtlamalar dışında, hiçbir kısıtlamaya tabi olmamalıdır",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Son yöntemde **Türkiye'de üretilen eşyanın iç satış fiyatı**, ihraç ülkesi iç piyasa fiyatı, başka ülkeye ihraç fiyatı, **asgari** ve **keyfi/fiktif** kıymetler esas alınmaz.",
+     "yillar": [
+      "2022/50"
+     ],
+     "dayanak": "GK 26/2",
+     "tuzak": "'Önceki yöntemlerin makul bir esneklikle uygulanmasıyla bulunan kıymet' yasaklı unsurlar arasında sayılmamıştır.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Türkiye'de üretilen eşyanın Türkiye içindeki satış fiyatı ... Eşyanın ihraç ülkesindeki iç piyasa fiyatı ... Türkiye'den başka bir ülkeye ihraç edilen eşyanın fiyatı ... f) Asgari gümrük kıymetleri, g) Keyfi veya fiktif kıymetler, Esas alınmaz",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Alıcının üstlendiği **satış komisyonu ve tellaliye**, tek eşya muamelesi gören kap maliyeti ve ambalaj bedeli fiyata eklenir; **satın alma komisyonu eklenmez**.",
+     "yillar": [
+      "2022/51"
+     ],
+     "dayanak": "GK 27/1-a, 28/e",
+     "tuzak": "Satın alma komisyonu ilave unsur değil, kıymete dahil edilmeyen giderdir.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Satın alma komisyonları dışındaki komisyonlar ve tellâliye ... Gümrük işlemleri sırasında söz konusu eşya ile tek eşya muamelesi gören kapların maliyeti ... İşçilik ve malzeme giderleri dahil ambalaj bedeli ... d) İthal eşyasının Türkiye'de çoğaltılması hakkı için yapılan ödemeler; e) Satın alma komisyonları;",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Hesaplanmış kıymet; **malzeme ve imalat** bedeli, aynı sınıf eşyada **mutat kâr ve genel giderler** ile giriş yerine kadar **yükleme-elleçleme, nakliye ve sigorta** giderlerinin toplamıdır.",
+     "yillar": [
+      "2022/53"
+     ],
+     "dayanak": "GY 49/2; GK 25/2-d",
+     "tuzak": "Resmî cevaba göre 'pazarlama giderleri' toplama dahil edilecek unsurlardan değildir.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | İthal eşyasının üretiminde kullanılan malzeme ve yapılan imalat veya diğer imal işlemlerinin bedel veya kıymetleri ... kıymeti belirlenecek eşya ile aynı sınıf veya cins eşyanın satışında mutat olan kar ve genel giderlere eşit bir tutar ... İthal eşyasının giriş liman veya yerine kadar nakliyesi ile ilgili olarak yapılan yükleme, boşaltma, elleçleme giderleri ile nakliye ve sigorta giderleri",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Alıcı-satıcı ilişkisi **yalnız sayılan hallerde** kabul edilir: **memur/idareci, yasal ortak, işçi-işveren**, hisse sahipliği, doğrudan/dolaylı **kontrol** ve **aynı aile** üyeliği.",
+     "yillar": [
+      "2022/99",
+      "2023/98",
+      "2024/28"
+     ],
+     "dayanak": "GY 55",
+     "tuzak": "Tek acente/distribütör/bayi olmak (2022/99), aynı iş kolunda (2023/98) veya aynı sanayi kolunda (2024/28) faaliyet göstermek ilişki sayılmaz.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Gümrük kıymetinin belirlenmesinde alıcı ile satıcı arasındaki ilişkinin varlığı yalnızca aşağıdaki durumlarda kabul edilir ... Tek acente, tek distribütör veya tek bayii olarak birbiri ile iş ilişkisi içinde bulunan kişilerin yukarıdaki kıstaslara uymamaları durumunda, ilişki içinde olmadıkları kabul edilir",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Gümrük kıymeti yöntemleri sırasıyla **satış bedeli, aynı eşyanın satış bedeli, benzer eşyanın satış bedeli, indirgeme, hesaplanmış kıymet ve son yöntemdir**.",
+     "yillar": [
+      "2023/46",
+      "2024/21"
+     ],
+     "dayanak": "GK 24-26; GY 45-50",
+     "tuzak": "Aritmetik ortalama fiyat (2023/46), karşılaştırılabilir fiyat, yeniden satış fiyatı, işleme dayalı net kâr marjı ve kâr bölüşüm (2024/21) gümrük kıymeti yöntemi değildir.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Satış bedeli yöntemi GÜMRÜK YÖNETMELİĞİ MADDE 45 ... Aynı eşyanın satış bedeli yöntemi GÜMRÜK YÖNETMELİĞİ MADDE 46 ... Benzer eşyanın satış bedeli yöntemi GÜMRÜK YÖNETMELİĞİ MADDE 47 ... İndirgeme yöntemi GÜMRÜK YÖNETMELİĞİ MADDE 48 ... Hesaplanmış kıymet yöntemi GÜMRÜK YÖNETMELİĞİ MADDE 49 ... Son yöntem GÜMRÜK YÖNETMELİĞİ MADDE 50",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Veri ya da komut yüklü bilgi taşıyıcılarında **'veri veya komutlar'** deyimi **ses, sinematografik ve video kayıtlarını kapsamaz**; resmî cevaba göre **yazılım** bu deyime girer.",
+     "yillar": [
+      "2023/47"
+     ],
+     "dayanak": "GY 54/2-b",
+     "tuzak": "Ses, video, sinematografik kayıt ve heykel kapsam dışıdır.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Veri veya komutlar deyimi, ses, sinematografik veya video kayıtlarını",
+     "kaynakta_yok": false,
+     "not": "'Yazılım' ifadesi GY 54'te geçmez; kapsam içi olduğu resmî cevaptan."
+    },
+    {
+     "hap": "Alıcının bedelsiz/düşük bedelle sağladığı mühendislik, çizim, **plan ve taslak** hizmetleri yalnız **Türkiye dışında** yapılmışsa kıymete eklenir; **Türkiye'de** yapılanlar eklenmez.",
+     "yillar": [
+      "2023/79"
+     ],
+     "dayanak": "GK 27/1-b-iv; GY 43/2",
+     "tuzak": "Malzeme, kalıp, tüketilen madde ve yurt dışı mühendislik hizmeti kıymete eklenir; ayrım hizmetin yapıldığı yerdedir.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | İthal eşyasının üretimi için gereken ve Türkiye dışında gerçekleştirilen mühendislik, geliştirme, sanat ve çizim çalışmaları, plan ve taslak hazırlama hizmetleri",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Eski model eşya ve taşıtların **model yılındaki fiyatından** gümrük vergilerine esas fiyatını bulmak için yapılan düşüm **amortisman indirimidir**.",
+     "yillar": [
+      "2024/22"
+     ],
+     "dayanak": "Kaynakta yok (resmî cevap)",
+     "tuzak": "Masraf indirimi, istisnai kıymet veya gider mahsubu değil.",
+     "kanit": "",
+     "kaynakta_yok": true,
+     "not": ""
+    },
+    {
+     "hap": "Bedelsiz ithal edilen kullanılmış otomobilde gümrük kıymeti, fatura bedelinden **amortisman indirimi** düşülerek bulunur; 2023 tarihli **10.000 TL** faturalı 2021 model araçta sonuç **8.000 TL**'dir.",
+     "yillar": [
+      "2025/34"
+     ],
+     "dayanak": "Kaynakta yok (resmî cevap)",
+     "tuzak": "Fatura bedeli (10.000 TL) aynen kıymet alınmaz.",
+     "kanit": "",
+     "kaynakta_yok": true,
+     "not": "İndirim oranı ve hesap yöntemi kaynak metinde yok; yalnız soru ve resmî cevaptan (navlun-sigorta ihmal)."
+    },
+    {
+     "hap": "Türkiye'deki **giriş liman veya yerine kadar** nakliye ve sigorta giderleri kıymete dahil edilir; ithalattan sonraki montaj, finansman faizi, **çoğaltma hakkı** ödemeleri ve satın alma komisyonu dahil edilmez.",
+     "yillar": [
+      "2024/24"
+     ],
+     "dayanak": "GK 27/1-e; GK 28",
+     "tuzak": "Montaj-bakım, finansman faizi, çoğaltma hakkı ve satın alma komisyonu GK 28'de sayılan, kıymete dahil edilmeyen giderlerdir.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | ithal eşyası için Türkiye'deki giriş liman veya yerine kadar yapılan nakliye ve sigorta giderleri ... Sınai tesis, makina veya teçhizat gibi, ithal eşyası için ithalattan sonra yapılan inşa, kurma, montaj, bakım veya teknik yardıma ilişkin giderler",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Gümrük kıymetine ilişkin hüküm **1994 GATT'ın VII. maddesidir**; son yöntem bu madde ve uygulama anlaşmasının prensipleriyle Türkiye'deki veriler esas alınarak belirlenir.",
+     "yillar": [
+      "2025/33"
+     ],
+     "dayanak": "GK 26/1",
+     "tuzak": "III, IV, V veya VI. madde değil.",
+     "kanit": "12-KIYMET VE KAPLAR.txt | 1994 Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının VII nci Maddesinin Uygulanmasına İlişkin Anlaşmanın",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Gümrük kıymeti, EXW 5.000 TL faturaya mesafe oranıyla ayrılan **Türkiye sınırına kadarki 500 TL navlun** ile **100 TL sigorta** eklenerek **5.600 TL** bulunur.",
+     "yillar": [
+      "2025/36"
+     ],
+     "dayanak": "GK 27/1-e, 28/a; GY 51/6",
+     "tuzak": "Sınırdan sonraki 500 TL navlun eklenmez (6.050 / 6.100 yanlış).",
+     "kanit": "12-KIYMET VE KAPLAR.txt | eşyanın giriş liman veya yerinden sonraki bir noktaya aynı taşıma şekliyle taşındığı durumlarda, nakliye giderleri giriş liman veya yerinden önce ve sonra katedilen mesafenin oranlarına göre belirlenir",
+     "kaynakta_yok": false,
+     "not": "Resmî cevap (C) sigortanın tamamını (100 TL) ekler; envanter notundaki 5.550 TL hatalıdır."
+    }
+   ],
+   "beklenen_neden": "2021–2025'te 29 soruyla grubun en çok sorulan konusu (2022'de 11, 2024'te 7, 2025'te 3); ilişki halleri, döviz kuru ve pazarlama üçer kez soruldu, 2025'te hesaplama soruları başladı. İstisnai kıymetle beyan, royalti beyanı (Seri No:2 Tebliğ), navlun-sigorta oranları, fiyat düzeltme süresi ve %5 hisse ölçütü hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Her iki firmanın oy hakkı veren hisse veya sermaye paylarının **en az %5'i** doğrudan ya da dolaylı aynı kişilere aitse alıcı ile satıcı **ilişkili** sayılır.",
+     "dayanak": "GY 55/1-ç",
+     "neden": "sorulmamış hüküm (ilişki halleri üç kez soruldu, oran hiç sorulmadı)",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Her iki firmanın oy hakkı veren hisse senedi veya sermaye paylarının en az % 5'i doğrudan veya dolaylı olarak aynı kişilere ait olması"
+    },
+    {
+     "hap": "Serbest dolaşımdan sonra satıcının alıcı lehine yaptığı **fiyat düzeltmesi**, kusur-garanti şartlarıyla ve beyanname tescilinden itibaren **bir yıl** içinde yapılmışsa kıymette dikkate alınır.",
+     "dayanak": "GY 45/1-ç",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Söz konusu düzeltmenin dikkate alınabilmesi için, beyannamenin tescilinden itibaren bir yıl içinde yapılmış olması gerekir"
+    },
+    {
+     "hap": "Satış bedeli yönteminde eşya bedeli kıymet belirlenirken henüz ödenmemişse **ödemenin gerçekleşeceği tarihte ödenecek bedel** esas alınır.",
+     "dayanak": "GY 45/1-b",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | kıymetin belirlendiği sırada eşya bedelinin fiilen ödenmemiş olması halinde, ödemenin gerçekleşeceği tarihte ödenecek olan bedel kıymet tespitine esas alınır"
+    },
+    {
+     "hap": "Aynı veya benzer eşya yönteminde **birden fazla satış bedeli** tespit edilirse gümrük kıymeti için bunların **en düşüğü** kullanılır.",
+     "dayanak": "GY 46/4, 47/4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | aynı eşyaya ilişkin birden fazla satış bedeli tespit edilirse, ithal eşyasının gümrük kıymetini belirlemek üzere bunlardan en düşük olanı kullanılır"
+    },
+    {
+     "hap": "Navlun makbuzu/sigorta poliçesi ibraz edilemezse dilekçeyle **emsal** gider eklenir; vergi kaybı yoksa yükümlünün talebiyle **FOB kıymetinin %10'u navlun, %3'ü sigorta** olarak eklenebilir.",
+     "dayanak": "GY 51/9",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | ithal eşyasının FOB kıymetinin % 10 unun navlun ve % 3 ünün sigorta bedeli olarak ithal eşyasının fiilen ödenen veya ödenecek fiyatına eklenebilir"
+    },
+    {
+     "hap": "**71.08** tarife pozisyonundaki eşyanın sigorta poliçesi veya navlun faturası ibraz edilemezse, vergi kaybı yoksa işlemler **faturadaki teslim şekline** göre tamamlanır.",
+     "dayanak": "GY 51/9",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | 71.08 tarife pozisyonunda yer alan eşyanın sigorta poliçesi veya navlun faturasının ibraz edilememesi halinde, vergi kaybı olmaması kaydıyla, işlemler eşyanın faturasında belirtilen teslim şekli esas alınarak tekemmül ettirilir"
+    },
+    {
+     "hap": "Türkiye dışında yapılan mühendislik ve tasarım hizmetlerinin kıymete eklenmesinde **araştırma ve ilk dizayn taslak giderleri** gümrük kıymetine **dahil edilmez**.",
+     "dayanak": "GY 51/2",
+     "neden": "sorulmamış hüküm (27/1-b-iv iki kez soruldu, istisnası hiç sorulmadı)",
+     "kanit": "12-KIYMET VE KAPLAR.txt | araştırma ve ilk dizayn taslak giderleri gümrük kıymetine dahil edilmez"
+    },
+    {
+     "hap": "Eşyanın teslim yerine kadar alınan **tüm posta ve kargo ücretleri** kıymete dahildir; yalnız **ithal ülkesinde alınan ilave** posta ve kargo ücretleri hariçtir.",
+     "dayanak": "GY 51/4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | İthal ülkesinde alınan ilave posta ve kargo ücretleri hariç olmak üzere, eşyanın teslim yerine kadar alınan tüm posta ve kargo ücretleri gümrük kıymetine dahildir"
+    },
+    {
+     "hap": "Hesaplanmış kıymet yönteminde ithalatçı bilgi-belgeleri ibraz etmeli ve doğruluğunu ispata hazır olduğunu **üretici ülke makamlarından alacağı belgeyle** tevsik etmelidir.",
+     "dayanak": "GY 49/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | bu bilgi ve belgelerin doğruluğunu ispata hazır olduğunu üretici ülke makamlarından alacağı belge ile tevsik etmesi gerekir"
+    },
+    {
+     "hap": "İstisnai kıymetle beyan, talep üzerine **konsinye çabuk bozulabilir eşya**, sonradan belli olacak kıymet unsurları, **fiyat revizyonu**, **boru hattı/elektrik teli** ile taşınan eşya ve **LNG** için uygulanır.",
+     "dayanak": "GY 53/1; GK 31/2",
+     "neden": "sorulmamış hüküm; LNG bendi 02.05.2019 tarihli R.G. ile eklendi",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Konsinye şekilde teslim edilen çabuk bozulabilir eşyanın ... Satış sözleşmesinde, fiyatın sonradan gözden geçirilmesini öngören hükümler içeren eşyanın ... Boru hatları veya elektrik telleri ile taşınan ve depolama imkanı olmayan sürekli akış halinde olan eşyanın ... limanda boru hattına verilen sıvılaştırılmış doğal gazın (LNG)"
+    },
+    {
+     "hap": "Tescil anında bilinemeyen kıymet veya KDV matrahı unsurları, muhasebe kaydına alındığı ayı takip eden ayın **yirmi altıncı günü akşamına** kadar beyan edilir ve vergileri aynı sürede ödenir.",
+     "dayanak": "GY 53/5",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | en geç söz konusu kıymet veya matrah unsurunun muhasebe kayıtlarına intikal ettirildiği ayı takip eden ayın yirmi altıncı günü akşamına kadar beyanda bulunulur"
+    },
+    {
+     "hap": "Tamamlayıcı beyana isabet eden ithalat vergilerinde **zamanaşımı**, tamamlayıcı beyanın **verildiği tarihten** itibaren başlar.",
+     "dayanak": "GY 53/4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Tamamlayıcı beyana isabet eden ithalat vergileri bakımından zamanaşımı tamamlayıcı beyanın verildiği tarihten itibaren başlar"
+    },
+    {
+     "hap": "Tamamlayıcı beyan süresinde verilmezse ödenmeyen vergiler için beyannamenin **tescil tarihinden** itibaren **gecikme zammı oranında gecikme faizi** alınır ve GK 241/1 uygulanır.",
+     "dayanak": "GY 53/7",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | eşyanın serbest dolaşıma girişine ilişkin beyannamenin tescil tarihinden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi tahsil edilir"
+    },
+    {
+     "hap": "Hasılat veya kâr üzerinden hesaplanan royaltide, talep ve idare onayıyla **FOB bedeli** esas alınarak paylaştırma yapılır; tamamlayıcı beyan tahakkuk ayını izleyen ayın **26'sı akşamına** kadar verilir.",
+     "dayanak": "Seri No:2 Kıymet Tebliği 11/3",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | eşyanın FOB bedeli esas alınarak sözleşme gereği net veya brüt satış hasılatı veya kârına uygulanacak royalti oranına göre yapılacak uygun bir paylaştırma sonucunda hesaplanır ... Tamamlayıcı beyan, royalti veya lisans ücreti ödemesinin tahakkuk ettiği ayı takip eden ayın yirmi altıncı günü akşamına kadar verilir"
+    },
+    {
+     "hap": "Gümrüğe beyan edilmeyip KDV'si yalnız **1 veya 2 nolu KDV beyannamesiyle** ödenen royalti için her beyan başına GK 241 uyarınca **usulsüzlük cezası** uygulanır.",
+     "dayanak": "Seri No:2 Kıymet Tebliği 11/6",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | gümrük idaresine beyan edilmeyen ve sadece KDV'ye tabi her bir beyan için Gümrük Kanununun 241 inci maddesi uyarınca usulsüzlük cezası uygulanır"
+    },
+    {
+     "hap": "Faturadaki yabancı para **konvertibl değilse** Merkez Bankasının **Alım Satıma Konu Olmayan Dövizlere İlişkin Bilgi Amaçlı Kurlar Listesi** esas alınır.",
+     "dayanak": "GY 57/2",
+     "neden": "sorulmamış hüküm (döviz kuru üç kez soruldu, konvertibl olmayan para hiç sorulmadı)",
+     "kanit": "12-KIYMET VE KAPLAR.txt | Merkez Bankasının Alım Satıma Konu Olmayan Dövizlere İlişkin Bilgi Amaçlı Kurlar Listesi esas alınarak işlem yapılır"
+    },
+    {
+     "hap": "Finansman faizinin kıymete katılmaması için anlaşmanın **yazılı** olması, gerektiğinde beyan edilen fiyattan satış ve faizin finansman ülkesindeki **olağan seviyeyi aşmadığı** kanıtlanmalıdır.",
+     "dayanak": "GK 28 (son fıkra)",
+     "neden": "sorulmamış hüküm",
+     "kanit": "12-KIYMET VE KAPLAR.txt | finansman anlaşmasının yazılı olarak yapılmış olması ve gerektiğinde alıcının ... Söz konusu faiz oranının, finansmanın sağlandığı ülkede o tarihte bu tür bir işlem için geçerli olan faiz oranı seviyesini aşmadığını"
+    }
+   ]
+  },
+  {
+   "konu": "Gümrük Vergileri",
+   "sinif": "ORTA",
+   "cikmis_hap": [
+    {
+     "hap": "Gümrük vergisi hesaplanırken eşyanın **tarife sınıflandırması, menşei ve gümrük kıymeti** birlikte dikkate alınır.",
+     "yillar": [
+      "2021/66"
+     ],
+     "dayanak": "Kaynakta yok (resmî cevap)",
+     "tuzak": "'Yalnız I' veya ikili kombinasyonlar eksiktir; üçü birlikte.",
+     "kanit": "",
+     "kaynakta_yok": true,
+     "not": ""
+    },
+    {
+     "hap": "İthalatta gümrük idarelerince **gümrük vergisi, ek mali yükümlülük, KDV, ÖTV ve ilave gümrük vergisi** alınır; **TRT bandrolü** ve **motorlu taşıtlar vergisi** bunlardan değildir.",
+     "yillar": [
+      "2022/38",
+      "2023/49"
+     ],
+     "dayanak": "Kaynakta yok (resmî cevap)",
+     "tuzak": "Ticari ithalatta TRT bandrolü (2022/38) ve motorlu taşıtlar vergisi (2023/49) gümrükte tahsil edilen vergi/fon değildir.",
+     "kanit": "",
+     "kaynakta_yok": true,
+     "not": ""
+    },
+    {
+     "hap": "Gümrük vergileri, ilgili mevzuat uyarınca eşyaya uygulanan **ithalat veya ihracat vergilerinin tümüdür**; resmî cevaba göre GV, İGV, KDV ve ÖTV kapsamda, **kurumlar vergisi** kapsam dışıdır.",
+     "yillar": [
+      "2025/35"
+     ],
+     "dayanak": "GK 3/8-a, 3/9-a",
+     "tuzak": "Kurumlar vergisi gümrük vergisi değildir.",
+     "kanit": "1-TANIMLAR.txt | \"Gümrük vergileri\" deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin tümünü ... Eşyanın ithalinde ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükleri",
+     "kaynakta_yok": false,
+     "not": "Envanter notu bu soruda 'gecikme zammı' yazıyor; soru metnine göre cevap kurumlar vergisidir. KDV/ÖTV/İGV'nin tek tek sayımı kaynak metinde yok."
+    },
+    {
+     "hap": "Gümrüklenmiş değer, ithal eşyasında **CIF kıymeti ile gümrük vergilerinin toplamıdır**; EMY, gümrük vergisi, KDV ve ÖTV hesaba girer, **gecikme zammı** girmez.",
+     "yillar": [
+      "2025/37"
+     ],
+     "dayanak": "GK 3/26",
+     "tuzak": "Gecikme zammı gümrüklenmiş değere katılmaz.",
+     "kanit": "1-TANIMLAR.txt | ithal eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını",
+     "kaynakta_yok": false,
+     "not": "Envanter notu bu soruda 'kurumlar vergisi' yazıyor; soru metnine göre cevap gecikme zammıdır."
+    }
+   ],
+   "beklenen_neden": "Beş yılda 5 soru (2021–2023'te birer, 2025'te 2); hepsi vergi türleri ve tanımlar üzerine. Gümrük yükümlülüğü, ihracat vergileri, ihraç eşyasında gümrüklenmiş değer ve vergilerin hangi tarihteki tarifeye göre hesaplanacağı hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Gümrük vergileri, **gümrük yükümlülüğünün başladığı tarihte** yürürlükte olan gümrük tarifesine göre hesaplanır.",
+     "dayanak": "GK 15/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Gümrük vergileri, gümrük yükümlülüğünün başladığı tarihte yürürlükte olan gümrük tarifesine göre hesaplanır"
+    },
+    {
+     "hap": "**Gümrük yükümlülüğü**, yükümlünün gümrük vergilerini **ödemesi zorunluluğudur**; **yükümlü** ise bu yükümlülüğü yerine getirmekle sorumlu bütün kişilerdir.",
+     "dayanak": "GK 3/8-b, 3/11",
+     "neden": "sorulmamış hüküm",
+     "kanit": "1-TANIMLAR.txt | yükümlünün gümrük vergilerini ödemesi zorunluluğunu ... yerine getirmekle sorumlu bütün kişileri"
+    },
+    {
+     "hap": "İthalat vergileri, gümrük vergisi ve eş etkili vergilerin yanında **tarım politikası** veya **işlenmiş tarım ürünlerine** özel düzenlemelerle ithalatta alınan vergi ve mali yükleri de kapsar.",
+     "dayanak": "GK 3/9-b",
+     "neden": "sorulmamış hüküm",
+     "kanit": "1-TANIMLAR.txt | Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak vergileri ve diğer mali yükleri"
+    },
+    {
+     "hap": "**İhracat vergileri**, eşyanın ihracatında ödenecek gümrük vergisi ile eş etkili vergi ve mali yükler ve tarım ürünlerine özel düzenlemelerle **ihracatta** alınan vergilerdir.",
+     "dayanak": "GK 3/10",
+     "neden": "sorulmamış hüküm",
+     "kanit": "1-TANIMLAR.txt | Eşyanın ihracatında ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükleri ... ihracatta alınacak vergileri ve diğer mali yükleri"
+    },
+    {
+     "hap": "**İhraç eşyasında** gümrüklenmiş değer, Uluslararası Kıymet Sözleşmesine göre belirlenen **FOB kıymeti ile gümrük vergilerinin** toplamıdır.",
+     "dayanak": "GK 3/26",
+     "neden": "sorulmamış yönü (2025'te yalnız ithal eşyası/CIF tarafı soruldu)",
+     "kanit": "1-TANIMLAR.txt | ihraç eşyası için FOB kıymeti ile gümrük vergileri toplamını"
+    },
+    {
+     "hap": "Gümrük idareleriyle muhatap kişiler, bu idarelerin kendi veya başka idareler hesabına tahsil edeceği her tür **vergi, resim, harç ve ücreti ödemek veya teminata bağlamakla** sorumludur.",
+     "dayanak": "GK 4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "1-TANIMLAR.txt | bu idarelerin kendi adına veya başka idareler nam veya hesabına tahsil edeceği her tür vergi, resim, harç ve ücretleri ödemek veya bunları teminata bağlamak"
+    },
+    {
+     "hap": "**Gümrük işlemlerinin bitirilmesi**; vergilerin **ödenmesi, kaldırılması veya teminata bağlanması**, beyannamenin iptali ya da eşyanın gümrüğe terki, imhası veya müsaderesidir.",
+     "dayanak": "GY 3/1-h",
+     "neden": "sorulmamış hüküm",
+     "kanit": "1-TANIMLAR.txt | Eşyaya ait vergilerin ödenmesini veya kaldırılmasını veya teminata bağlanmasını veya beyannamenin iptal edilmesini veya eşyanın gümrüğe terk edilmesini veya imhasını veya müsadere edilmesini"
+    }
+   ]
+  },
+  {
+   "konu": "Tarife",
+   "sinif": "AZ",
+   "cikmis_hap": [
+    {
+     "hap": "Gümrük tarifesi, ithalat vergilerinde **bazı eşyaya şartlı olarak** uygulanacak muafiyet veya indirimleri, tercihli tarifeleri ve TGTC'ye dayanan diğer cetvelleri kapsar.",
+     "yillar": [
+      "2021/27"
+     ],
+     "dayanak": "GK 15/3",
+     "tuzak": "'Sadece serbest bölgeye konulan eşyaya' şartlı muafiyet ifadesi kapsam dışıdır.",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | İthalat vergilerinde, bazı eşyaya şartlı olarak uygulanacak muafiyet veya indirim uygulamalarını ... Türkiye tarafından tek taraflı olarak bazı ülkeler, ülke grupları veya toprak parçaları için tanınan tercihli tarife uygulamalarını",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**Tarife kotası veya tarife kontenjanı**, bir mal ya da mal grubunun gümrük vergisi oranlarında **belirli bir miktar veya değer** için indirim yapılması ya da muafiyet sağlanmasıdır.",
+     "yillar": [
+      "2022/43"
+     ],
+     "dayanak": "GY 32/1-i",
+     "tuzak": "Kota, izin verilen ithalatın miktar/değeridir; indirim veya muafiyet içermez.",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Tarife kotası veya tarife kontenjanı: Bir mal ya da mal grubunun gümrük vergisi oranlarında belirli bir miktar veya değer için indirim yapılması ya da muafiyet sağlanmasını",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**Tarife pozisyonu**, fasıla ilişkin ilk iki rakamdan sonra gelen iki rakamla birlikte **dört rakamlı** gruptur (ör. **01.02**).",
+     "yillar": [
+      "2023/96"
+     ],
+     "dayanak": "GY 32/1-k",
+     "tuzak": "8, 10 veya 12 rakamlı kodlar alt açılım/GTİP; iki rakamlı '55' fasıldır.",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Tarife pozisyonu: Türk Gümrük Tarife Cetvelinde fasıla ilişkin ilk iki rakamdan sonra gelen iki rakamla birlikte dörtlü rakamlarla ifade edilen grupları",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**Gümrük tarife istatistik pozisyonu (GTİP)**, Türk Gümrük Tarife Cetvelinde **on iki rakamdan** oluşan pozisyondur (ör. **45.03.90.00.00.00**).",
+     "yillar": [
+      "2025/28"
+     ],
+     "dayanak": "GY 32/1-g",
+     "tuzak": "4, 6, 8 veya 10 rakamlı kodlar GTİP değildir.",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Gümrük tarife istatistik pozisyonu: Türk Gümrük Tarife Cetvelinde, oniki rakamdan oluşan pozisyonu",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "2024 hariç her yıl birer soru (toplam 4); tarifenin kapsamı, tarife kontenjanı ve pozisyon-GTİP rakam sayıları soruldu. Tarife kotası/tavanının sona ermesi, tercihli tarife talebinin zamanı, başlıkların bağlayıcılığı ve izahname-açıklama notu hükümleri hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Tercihli veya şartlı muafiyetli tarife koşullarını taşıyan eşyada beyan sahibi bu uygulamayı isteyebilir; talep **gümrük işlemlerinin tamamlanmasından veya teslimden sonra da** yapılabilir.",
+     "dayanak": "GK 15/4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Gerekli koşulların yerine getirilmesi halinde, söz konusu talep gümrük işlemlerinin tamamlanmasından veya eşyanın tesliminden sonra da yapılabilir"
+    },
+    {
+     "hap": "İthalat hacmiyle sınırlı tarife uygulamalarından **tarife kotaları** hacim sınırına ulaşılınca, **tarife tavanları** ise **Cumhurbaşkanı Kararı** ile sona erer.",
+     "dayanak": "GK 15/5",
+     "neden": "sorulmamış hüküm",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Tarife kotalarının söz konusu olduğu durumlarda, tespit edilen ithalat hacmi sınırına ulaşıldığında ... Tarife tavanlarının söz konusu olduğu durumlarda ise Cumhurbaşkanı Kararı ile"
+    },
+    {
+     "hap": "Gümrük Tarife Cetveli, izahnamesi ve eşya fihristi **Müsteşarlıkça** hazırlanıp **Resmî Gazetede** yayımlanır; yayımlanan metinler **idari ve kazai uygulamalarda esas** tutulur.",
+     "dayanak": "GK 15/7; Seri No:4 Tebliğ 5",
+     "neden": "sorulmamış hüküm",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Gümrük Tarife Cetveli, izahnamesi ve eşya fihristi, Müsteşarlıkça hazırlanır ve Resmi Gazetede yayımlanır. Bu şekilde yayımlanan metinler idari ve kazai uygulamalarda esas tutulur"
+    },
+    {
+     "hap": "Tarife cetvelindeki **bölüm başlıkları** ve **fasıl başlıkları bağlayıcı değildir**; bölüm başlıkları yalnız yol gösterici niteliktedir.",
+     "dayanak": "GY 32/1-b, e",
+     "neden": "sorulmamış hüküm",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | tarifenin yorumu bakımından bağlayıcı olmayıp, yol gösterici nitelikte olan ibareleri ... fasılların başında bulunan ve bağlayıcı olmayan ibareleri"
+    },
+    {
+     "hap": "**Fasıl**, Armonize Sistem kodunun **ilk iki rakamıdır**; **tarife alt pozisyonu** ise pozisyon numarasını izleyen iki rakamla birlikte **altı rakamlı** gruptur.",
+     "dayanak": "GY 32/1-d, ı",
+     "neden": "sorulmamış hüküm (pozisyon ve GTİP soruldu, fasıl ve alt pozisyon sorulmadı)",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | altı basamaklı Armonize Sistem Kodunun ilk iki rakamını ... pozisyon numarasını izleyen iki rakam ile birlikte altılı rakamlarla ifade edilen grupları"
+    },
+    {
+     "hap": "Gümrük Tarife Cetveli **Açıklama Notlarına uymayan Bağlayıcı Tarife Bilgileri**, Seri No:6 Tebliğin **yürürlüğe girdiği tarihten** itibaren geçerliliğini yitirir.",
+     "dayanak": "Seri No:6 Tebliğ 5/2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Bu Tebliğ eki Gümrük Tarife Cetveli Açıklama Notlarına uymayan Bağlayıcı Tarife Bilgileri 4458 sayılı Gümrük Kanununun 9 uncu maddesinin beşinci fıkrası uyarınca bu Tebliğin yürürlüğe girdiği tarihten itibaren geçerliliğini yitirir"
+    }
+   ]
+  },
+  {
+   "konu": "Ticaret Politikası",
+   "sinif": "AZ",
+   "cikmis_hap": [
+    {
+     "hap": "Ticaret politikası önlemleri; **gözetim, korunma önlemleri, miktar kısıtlamaları** ve **ithalat/ihracat yasakları** gibi **tarife dışı** önlemlerdir; gümrük vergisi bu önlemlerden değildir.",
+     "yillar": [
+      "2023/36"
+     ],
+     "dayanak": "GY 3/1-n",
+     "tuzak": "Gümrük vergisi tarife önlemidir, ticaret politikası önlemi değildir.",
+     "kanit": "1-TANIMLAR.txt | Gözetim, korunma önlemleri, miktar kısıtlamaları ve ithalat veya ihracat yasaklamaları gibi eşyanın ithal ve ihracı ile ilgili hükümlerle belirlenmiş tarife dışı önlemleri",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**Kota**, bir takvim yılı içinde veya muayyen bir dönemde yapılmasına **izin verilen ithalatın miktar ve/veya değeridir**.",
+     "yillar": [
+      "2024/37"
+     ],
+     "dayanak": "GY 32/1-h",
+     "tuzak": "Tarife kontenjanı (indirim/muafiyetli miktar), sübvansiyon, damping ve ithal lisansı ile karıştırılmamalı.",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Kota: Bir takvim yılı içinde veya muayyen bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değerini",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "2023 ve 2024'te birer soru (TPÖ tanımı ve kota); son iki yılda düzenli soruluyor. Tarife önlemi tanımı, belgeye dayalı önlemlerde belge geçerliliği ve önlem tespiti için YGM raporu süreleri hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "**Tarife önlemleri**, dış ticaretin serbest piyasa koşullarında gelişmesine **konulan gümrük vergileri ile engel olunmasıdır**.",
+     "dayanak": "GY 32/1-j",
+     "neden": "sorulmamış hüküm",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Tarife önlemleri: Dış ticaretin serbest piyasa koşullarında gelişmesine, konulan gümrük vergileri ile engel olunmasını"
+    },
+    {
+     "hap": "Eşya ticaretine ilişkin **özel hükümlerle belirlenmiş diğer önlemler**, gerektiği takdirde eşyanın **tarife pozisyonuna göre** uygulanır.",
+     "dayanak": "GK 15/2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "9-TAR.POZ.AYIRMA.txt | Eşya ticaretine ilişkin özel hükümlerle belirlenmiş diğer önlemler, gerektiği takdirde, söz konusu eşyanın tarife pozisyonuna göre uygulanır"
+    },
+    {
+     "hap": "Önlem kararı bir **belgeye istinaden** uygulanıyorsa, beyannamenin **tescil tarihi itibarıyla geçerlilik süresi sona eren belgeler kabul edilmez**.",
+     "dayanak": "GY 205/2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Önlem kararının düzenlenecek bir belgeye istinaden uygulanması durumunda, gümrük beyannamesinin tescil tarihi itibariyle geçerlilik süresi sona eren belgeler kabul edilmez"
+    },
+    {
+     "hap": "Eşyanın İthalat Rejimi Kararı md. 4 önlemlerine tabi olup olmadığı muayene ve belge tetkikiyle anlaşılamazsa gümrük idaresi **yetkilendirilmiş gümrük müşaviri raporu** isteyebilir.",
+     "dayanak": "SDG Tebliği (Seri No:18) 5/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | yükümlüsünden eşyanın önlem kapsamında olup olmadığının tespitine yönelik yetkilendirilmiş gümrük müşaviri raporu talep edebilir"
+    },
+    {
+     "hap": "**Kapanmış beyannamelerde** önlem tespitine ilişkin YGM raporu, gümrük idaresinin firmaya yazısının tebliğinden itibaren **bir ay** içinde düzenlenir.",
+     "dayanak": "SDG Tebliği (Seri No:18) 5/2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Kapanmış beyannameler için yetkilendirilmiş gümrük müşaviri raporu gümrük idaresinin ilgili firmaya yönelik yazısının tebliğinden itibaren bir ay içinde düzenlenir"
+    },
+    {
+     "hap": "Serbest dolaşıma girişi tamamlanmamış eşyada önlem tespiti için **altı ayı geçmeyen** süre verilir; süre **üçer aylık** uzatmalarla toplam **yirmi dört ayı** geçemez.",
+     "dayanak": "SDG Tebliği (Seri No:18) 5/3",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | gümrük idaresince altı ayı geçmemek üzere bir süre verilir. Eşyanın teslim, kullanım veya işleme konu edilmediğinin ispatı ve süresi içinde başvurulması kaydıyla bu süre, üçer aylık dönemler halinde uzatılabilir ancak ek süreler dahil yirmi dört ayı geçemez"
+    }
+   ]
+  },
+  {
+   "konu": "İthalat Rejim Kararı",
+   "sinif": "ORTA",
+   "cikmis_hap": [
+    {
+     "hap": "İthalat Rejimi Kararı listeleri: **I tarım**, II tarım-sanayi, **III işlenmiş tarım**, **IV balıkçılık-su ürünleri**, V GV askıya alınan sanayi, **VI sivil hava taşıtı**, **VII nihai kullanımlı tarım** ürünleri.",
+     "yillar": [
+      "2022/35",
+      "2024/31",
+      "2025/50"
+     ],
+     "dayanak": "3350 s. İthalat Rejimi Kararı 9/1 ve ek listeler (2025/10790 CK)",
+     "tuzak": "I balık değil (2022/35); VI nihai kullanımlı tarım ürünleri değil, o VII (2024/31); III sanayi ürünleri değil (2025/50).",
+     "kanit": "ck_2025-10790_ithalat_rejimi_kararinda_degisiklik_yapilmasina_iliskin_karar.txt | I Sayılı Liste Tarım Ürünleri ... III Sayılı Liste İşlenmiş Tarım Ürünleri ... IV Sayılı Liste Balıkçılık ve Su Ürünleri ... V Sayılı Liste Gümrük Vergisi Askıya Alınan Sanayi Ürünleri ... VI Sayılı Liste Nihai Kullanım Uygulaması Kapsamında İndirimli Gümrük Vergisinden Faydalanacak Sivil Hava Taşıtlarında Kullanılmaya Mahsus Ürünler ... VII Sayılı Liste Nihai Kullanım Uygulaması Kapsamında İndirimli Gümrük Vergisinden Faydalanacak Tarım Ürünleri",
+     "kaynakta_yok": false,
+     "not": "Güncel (2026) listelerde VI sayılı listenin adı 'Nihai Kullanım Uygulaması Kapsamında İndirimli GV'den Faydalanacak Sivil Hava Taşıtlarında Kullanılmaya Mahsus Ürünler'dir; 2025/50'de eski ad doğru sayıldı."
+    },
+    {
+     "hap": "Ek mali yükümlülük, gümrük yükümlülüğünün doğduğu tarihte **gümrük idarelerince** tahsil edilir.",
+     "yillar": [
+      "2024/35"
+     ],
+     "dayanak": "3350 s. İthalat Rejimi Kararı 10/2",
+     "tuzak": "'Vergi dairesince tahsil edilir' yanlış.",
+     "kanit": "ck_2020-03350_ithalat_rejimi_karari.txt | Ek mali yükümlülük, gümrük yükümlülüğünün doğduğu tarihte gümrük idarelerince tahsil edilir",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "İthalat Rejimi Kararına göre ticaret politikası önlemleri **haksız rekabet (damping), korunma, kota ve tarife kontenjanı, gözetim**, tekstil ve ticari hakların korunması mevzuatıyla yürütülür.",
+     "yillar": [
+      "2025/44"
+     ],
+     "dayanak": "3350 s. İthalat Rejimi Kararı 4/3",
+     "tuzak": "İlave gümrük vergisi md. 4'te sayılan ticaret politikası önlemleri arasında yoktur.",
+     "kanit": "ck_2020-03350_ithalat_rejimi_karari.txt | İthalatta Haksız Rekabetin Önlenmesi Hakkında Mevzuat, İthalatta Korunma Önlemleri Hakkında Mevzuat, İthalatta Kota ve Tarife Kontenjanı İdaresi Hakkında Mevzuat, İthalatta Gözetim Uygulanması Hakkında Mevzuat",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "5 soru, 4'ü son iki yılda (2024: 2, 2025: 2) — yükselen konu; liste eşleşmesi üç kez soruldu. Listeler 31.12.2025 tarihli 10790 sayılı Kararla yenilendi; geçici maddeler, izne tabi eşya, VKN istisnaları ve kamu ithalatı izni hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "1/1/2026 itibarıyla EMY ihdas edilen veya GV/EMY'si artırılan eşyada beyanname **31/1/2026'ya kadar** tescil edilirse **1/1/2026'dan önceki** oranlar uygulanır.",
+     "dayanak": "2025/10790 CK Geçici md. 1",
+     "neden": "son değişiklik: 31.12.2025",
+     "kanit": "ck_2025-10790_ithalat_rejimi_kararinda_degisiklik_yapilmasina_iliskin_karar.txt | gümrük beyannamesinin 31/1/2026 tarihine kadar (bu tarih dâhil) tescil edilmesi hâlinde 1/1/2026 tarihinden önceki gümrük vergisi ve/veya ek mali yükümlülük uygulanır"
+    },
+    {
+     "hap": "A.TR eşliğinde gelen, Bölgesel Konvansiyona taraf ülke menşeli beyan edilen eşyadan, tercihli menşe ayrıca tevsik edilmeden **31/3/2026'ya kadar** II sayılı listedeki **EMY alınmaz**.",
+     "dayanak": "2025/10790 CK Geçici md. 2",
+     "neden": "son değişiklik: 31.12.2025",
+     "kanit": "ck_2025-10790_ithalat_rejimi_kararinda_degisiklik_yapilmasina_iliskin_karar.txt | ayrıca eşyanın tercihli menşeinin tevsiki şartı aranmaksızın 31/3/2026 tarihine kadar (bu tarih dâhil) 3350 sayılı Kararın eki II sayılı listede belirtilen ek mali yükümlülük alınmaz"
+    },
+    {
+     "hap": "VI sayılı listedeki ürünlerde **sivil hava taşıtlarında kullanılmak kaydıyla** gümrük vergisi **%0** uygulanır ve **nihai kullanım** hükümleri tatbik edilir.",
+     "dayanak": "2025/10790 CK eki VI sayılı liste dipnotu",
+     "neden": "son değişiklik: 31.12.2025 (liste kimliği soruldu, dipnot hiç sorulmadı)",
+     "kanit": "ck_2025-10790_ithalat_rejimi_kararinda_degisiklik_yapilmasina_iliskin_karar.txt | sivil hava taşıtlarında kullanılmak kaydıyla yapılan ithalatta, gümrük vergisi %0 olarak uygulanır ve bu halde gümrük mevzuatının nihai kullanıma ilişkin hükümleri tatbik edilir"
+    },
+    {
+     "hap": "VII sayılı listedeki eşya, **'Üretimi Gerçekleştirilecek Nihai Ürün'** sütunundaki ürünlerin imalinde kullanılmak kaydıyla indirimli GV'ye tabidir; bu eşyaya **ek mali yükümlülük uygulanmaz**.",
+     "dayanak": "3350 s. İthalat Rejimi Kararı 9/2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "ck_2020-03350_ithalat_rejimi_karari.txt | Üretimi Gerçekleştirilecek Nihai Ürün ... Bu fıkra kapsamı eşyaya ek mali yükümlülük uygulanmaz"
+    },
+    {
+     "hap": "III sayılı listede **(T1), (T2)** işaretli eşyada, tahlil sonucuna göre **Bileşim Tablosu (Tablo 1)** ile bulunan koda **Tarım Payı Tablosunda (Tablo 2)** karşılık gelen EMY tahsil edilir.",
+     "dayanak": "3350 s. İthalat Rejimi Kararı 9/4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "ck_2020-03350_ithalat_rejimi_karari.txt | Tablo 1 (Bileşim Tablosu) kullanılarak tespit edilen kod numarasına Tablo 2'de (Tarım Payı Tablosu) tekabül eden ek mali yükümlülük tahsil edilir"
+    },
+    {
+     "hap": "**Eski, kullanılmış, yenileştirilmiş, kusurlu (defolu) ve yatık** eşyanın ithali **izne tabidir**.",
+     "dayanak": "3350 s. İthalat Rejimi Kararı 7/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "ck_2020-03350_ithalat_rejimi_karari.txt | Eski, kullanılmış, yenileştirilmiş, kusurlu (defolu) ve yatık (zamanla dayanıklılığını yitirmiş) eşyanın ithali izne tabidir"
+    },
+    {
+     "hap": "İthalatı vergi kimlik numaralı kişiler yürütür; **özel anlaşmalara dayanan ithalatta**, **kitap ve yayın** ithalatında ve fuarda perakende satışına izin verilen eşyada **VKN şartı aranmaz**.",
+     "dayanak": "3350 s. İthalat Rejimi Kararı 8/1-2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "ck_2020-03350_ithalat_rejimi_karari.txt | Özel anlaşmalara dayanan ithalatta ... Kitap ve diğer yayınların ithalatında ... vergi kimlik numarasına sahip olma şartı aranmaz"
+    },
+    {
+     "hap": "Kamu İhale Kanunu md. 2'deki kamu kurumlarının serbest dolaşıma giriş ithalatında beyanname tescilinde **Ticaret Bakanlığının izni** aranır; bu izin diğer izin ve belgelerin yerine geçmez.",
+     "dayanak": "3350 s. İthalat Rejimi Kararı 13",
+     "neden": "sorulmamış hüküm",
+     "kanit": "ck_2020-03350_ithalat_rejimi_karari.txt | serbest dolaşıma giriş rejimi kapsamında yapılacak ithalata ilişkin gümrük beyannamesinin tescilinde Bakanlığın izni aranır ... diğer mevzuata göre alınması gereken izin ve belgelerin yerine geçmez"
+    },
+    {
+     "hap": "VII sayılı listede **1004.90.00.00.00** GTİP'li eşya için öngörülen **%30** gümrük vergisi **30 Nisan 2026**'ya kadar uygulanır; sonrasında bu nihai kullanım uygulaması sona erer.",
+     "dayanak": "2025/10790 CK eki VII sayılı liste dipnot (1)",
+     "neden": "son değişiklik: 31.12.2025",
+     "kanit": "ck_2025-10790_ithalat_rejimi_kararinda_degisiklik_yapilmasina_iliskin_karar.txt | 1104.12, 1904.10, 1905.31 ve 1905.90 gümrük tarife pozisyonlu ürünler | 30 (1) ... Söz konusu gümrük vergisi 30 Nisan 2026 tarihine kadar (bu tarih dahil) uygulanır. Anılan tarih sonrasında nihai kullanım uygulaması sona erer"
+    }
+   ]
+  },
+  {
+   "konu": "Nihai Kullanım",
+   "sinif": "AZ",
+   "cikmis_hap": [
+    {
+     "hap": "Nihai kullanım kapsamı eşya **gümrük idaresinin izniyle** başka bir izin hak sahibine **devredilebilir**; devirde eşyaya ilişkin **hak ve yükümlülükler devralana geçer**.",
+     "yillar": [
+      "2022/37",
+      "2025/56"
+     ],
+     "dayanak": "Nihai Kullanım Tebliği (Seri No:1) 6/1-2; GY 210/1",
+     "tuzak": "'Devredilemez' (2022/37) ve 'hak ve yükümlülükler devredende kalır' (2025/56) yanlış.",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Nihai kullanım kapsamı eşya gümrük idaresinin izniyle bir izin hak sahibinden başka bir izin hak sahibine devredilebilir ... söz konusu eşyaya ilişkin hak ve yükümlülükler eşyayı devralan izin hak sahibine geçer",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**YYS veya OKSB** sahiplerine, ayniyat ya da tahsis tespiti şartıyla beyannamenin tescilinden itibaren **üç ay** içinde başvurulursa nihai kullanım izni **sonradan** verilebilir.",
+     "yillar": [
+      "2025/49"
+     ],
+     "dayanak": "Nihai Kullanım Tebliği (Seri No:1) 8/2",
+     "tuzak": "1, 6, 9 veya 12 ay değil.",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Yetkilendirilmiş yükümlü sertifikası veya onaylanmış kişi statü belgesi sahibi kişilere, eşyanın ayniyatının veya nihai kullanıma tahsis edildiğinin tespit edilmesi şartı ile beyannamenin tescilinden itibaren üç ay içinde başvuruda bulunulması halinde",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "3 sorunun 2'si 2025'te — yükselen konu; devir iki kez soruldu. Tahsis süreleri, 30 günlük başvuru ve fark vergi tahsili, denetim, antrepodaki eşya için sonradan izin ve T5 ile gönderme hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Mükerrer kullanılabilen eşya, öngörülen kullanıma **ilk tahsis tarihinden itibaren iki yıl** geçince; bir kez kullanılabilen eşya ise tümü süresinde tahsis edilince nihai kullanıma tahsis edilmiş sayılır.",
+     "dayanak": "GY 209/4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Mükerrer olarak kullanılabilir olması durumunda, öngörülen kullanıma ilk tahsis tarihinden itibaren iki yıl geçmiş olması"
+    },
+    {
+     "hap": "İzin süresinin bitiminden itibaren **otuz gün** içinde izni veren gümrük idaresine başvurulmazsa indirimli/sıfır oran nedeniyle alınmayan **fark vergiler tahsil edilir**.",
+     "dayanak": "GY 207/4",
+     "neden": "sorulmamış hüküm; son değişiklik: 03.05.2023",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | İzin belgesinde öngörülen sürenin sona ermesinden itibaren otuz gün içinde izni veren gümrük idaresine herhangi bir müracaatta bulunulmaması halinde eşyaya ilişkin indirimli veya sıfır vergi oranı uygulanması nedeniyle alınmamış olan fark vergiler tahsil edilir"
+    },
+    {
+     "hap": "Geçici depolama yeri veya antrepodaki eşya için nihai kullanım izni **beyanname kapatılmamışsa** sonradan verilebilir; tam beyanlı yaygın basitleştirilmiş usul eşyası ile **sivil hava taşıtları** hariçtir.",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No:1) 8/1",
+     "neden": "sorulmamış hüküm (aynı maddenin YYS/OKSB fıkrası 2025'te soruldu)",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Tam beyanlı yaygın basitleştirilmiş usule tabi eşya ile sivil hava taşıtları ve parçaları hariç olmak üzere geçici depolama yeri veya antrepodaki eşya için, nihai kullanım izni beyannamenin kapatılmamış olması şartı ile sonradan verilebilir"
+    },
+    {
+     "hap": "Denetleyici ve izni veren idare farklıysa iptal gerektiren duruma ilişkin bilgi-belgeler, tespiti takip eden **beş iş günü** içinde **izni veren gümrük idaresine** gönderilir.",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No:1) 7/2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | izin iptalini gerektiren durumun tespitini takip eden beş iş günü içinde iznin iptalini teminen izni veren gümrük idaresine gönderilir"
+    },
+    {
+     "hap": "Gümrük idaresi tahsis sürecinde **en az bir defa** denetim yapar; nihai denetim, iznin sona ermesinden itibaren **otuz gün** içinde firmanın müracaatı üzerine yerinde yapılır.",
+     "dayanak": "Nihai Kullanım Tebliği (Seri No:1) 10/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Gümrük idareleri tarafından eşyanın nihai kullanıma tahsis sürecinde en az bir defa denetim yapılır. İznin sona ermesinden itibaren otuz gün içerisinde izni veren gümrük idaresine firmanın müracaatı üzerine"
+    },
+    {
+     "hap": "Devir nedeniyle başka gümrüğe gönderilen nihai kullanım eşyası varış gümrüğüne **T5 belgesiyle** gönderilir; T5 **üç nüsha** düzenlenip tescil edilir.",
+     "dayanak": "GY 210/3-4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | varış gümrüğüne ek-32'de yer alan T5 belgesi ile gönderilir ... T5 belgesi üç nüsha düzenlenir ve tescil işlemine tabi tutulur"
+    }
+   ]
+  },
+  {
+   "konu": "Serbest Dolaşıma Giriş",
+   "sinif": "ORTA",
+   "cikmis_hap": [
+    {
+     "hap": "Serbest dolaşım statüsü; beyannamenin **iptali** ile **geri ödemeli DİR**, **kusurlu/sözleşmeye aykırı eşya** ve **ihraç/geri gönderme/GOİK** nedeniyle vergilerin **geri verilmesi veya kaldırılması** hallerinde kaybedilir.",
+     "yillar": [
+      "2021/42",
+      "2022/39",
+      "2025/40"
+     ],
+     "dayanak": "GK 78",
+     "tuzak": "Nihai kullanım nedeniyle sıfır vergiden yararlanma (2021/42) ve beyannamede düzeltme (2022/39) statüyü kaybettirmez; 2025/40'ta dört halin tamamı doğru.",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Serbest dolaşımda bulunan eşya, aşağıda belirtilen hallerde bu statüsünü kaybeder ... Serbest dolaşıma giriş beyannamesinin iptal edilmesi ... Geri ödeme sisteminin uygulandığı dahilde işleme rejimi çerçevesinde işlendikten sonra ihraç edilen eşyaya ilişkin gümrük vergilerinin geri verilmesi veya kaldırılması ... eşyanın kusurlu veya satış sözleşmesi hükümlerine uygun olmaması nedeniyle, gümrük vergilerinin geri verilmesi veya kaldırılması ... eşyanın ihracına, geri gönderilmesine veya gümrükçe onaylanmış başka bir işlem veya kullanıma tabi tutulması nedeniyle gümrük vergilerinin geri verilmesi veya kaldırılması",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "2009/15481 sayılı Karardaki şartlarla **Türk Bayrağı çekilmiş gemiler** Türkiye Gümrük Bölgesine **getirilmeksizin** serbest dolaşıma girebilir.",
+     "yillar": [
+      "2022/40"
+     ],
+     "dayanak": "2009/15481 Karar 13/1",
+     "tuzak": "Binek otomobil, harita, kimyasal madde ve altın bu kapsamda değildir.",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Türk Bayrağı çekilmiş gemilerin Türkiye Gümrük Bölgesine getirilmeksizin serbest dolaşıma giriş işlemlerinde",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Bir taşıma belgesindeki eşya değişik pozisyonlara girip ayrı işlem ek iş yükü-masraf doğuruyorsa, gümrük idaresi **beyan sahibinin talebi üzerine** tamamına **en yüksek vergi oranlı** pozisyonu uygulayabilir.",
+     "yillar": [
+      "2024/43"
+     ],
+     "dayanak": "GK 76",
+     "tuzak": "'Beyan sahibinin talebi olsun olmasın' ifadesi yanlış.",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | beyan sahibinin talebi üzerine, gümrük idareleri, eşyanın tamamına en yüksek ithalat vergi oranına tabi eşyanın tarife pozisyonuna göre vergi uygulayabilirler",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Tarımsal mali yükler dışındaki ithalat vergisi oranı tescilden sonra ama **ödeme/teminattan önce** indirilirse **beyan sahibinin isteğiyle** lehe oran uygulanır; gecikme **beyan sahibinden kaynaklanmamalıdır**.",
+     "yillar": [
+      "2025/51"
+     ],
+     "dayanak": "GK 75",
+     "tuzak": "Üç koşulun üçü de gerekir: talep, ödeme/teminattan önce indirim, gecikmenin beyan sahibinden kaynaklanmaması.",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | fakat eşyaya ilişkin gümrük vergilerinin ödenmesinden veya teminata bağlanmasından önce indirilmesi halinde, lehine olan oranın uygulanmasını isteyebilir ... Beyan sahibinden kaynaklanan nedenlerle gümrük işlemlerinin tamamlanamaması halinde, 1 inci fıkra hükmü uygulanmaz",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Türkiye Gümrük Bölgesine gelen eşya; **ticaret politikası önlemleri uygulanıp**, ithal için öngörülen **diğer işlemler tamamlanıp** kanunen ödenmesi gereken **vergiler tahsil edilince** serbest dolaşıma girer.",
+     "yillar": [
+      "2025/55"
+     ],
+     "dayanak": "GK 74/1",
+     "tuzak": "İhraç edilen, antrepoya veya serbest bölgeye konulan ve transit geçen eşya serbest dolaşıma girmiş sayılmaz.",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Türkiye Gümrük Bölgesine gelen eşyanın serbest dolaşıma girişi; ticaret politikası önlemlerinin uygulanması, eşyanın ithali için öngörülen diğer işlemlerin tamamlanması ve kanunen ödenmesi gereken vergilerin tahsili ile mümkündür",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "7 soru, 3'ü 2025'te — yükselen konu; statü kaybı halleri üç kez soruldu. Gemi ve hava taşıtı süreleri, varış öncesi gümrükleme koşulları, boru hattı-LNG tebliğleri ve metal hurda hükümleri hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Eşyanın Türkiye Gümrük Bölgesine **getirilmeden serbest dolaşıma girişinin** usul ve esaslarını belirlemeye **Cumhurbaşkanı** yetkilidir.",
+     "dayanak": "GK 74/2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Eşyanın Türkiye Gümrük Bölgesine getirilmeden serbest dolaşıma girişine ilişkin usul ve esasları belirlemeye Cumhurbaşkanı yetkilidir"
+    },
+    {
+     "hap": "Getirilmeksizin serbest dolaşıma girecek Türk bayraklı gemi, **Bayrak Şahadetnamesinin** düzenlendiği tarihten itibaren **en geç bir yıl** içinde Türk Uluslararası veya Milli Gemi Siciline kaydedilmelidir.",
+     "dayanak": "2009/15481 Karar 13/1-b",
+     "neden": "sorulmamış hüküm (gemi kapsamı 2022'de soruldu, süresi sorulmadı)",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Bayrak Şahadetnamesinin düzenlendiği tarihten itibaren en geç bir yıl içinde mahalli sicile başvurularak Türk Uluslararası Gemi Siciline veya Milli Gemi Siciline kaydedilmesi"
+    },
+    {
+     "hap": "Geminin serbest dolaşım işlemleri kayıtlı olduğu **liman başkanlığına en yakın gümrük idaresinde** yapılır ve sicil kaydı bildiriminden sonra **otuz gün** içinde sonuçlandırılır.",
+     "dayanak": "2009/15481 Karar 13/1-ç, d",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | geminin kayıtlı olduğu liman başkanlığına en yakın gümrük idaresinde yapılması ... gümrük işlemlerinin otuz gün içinde sonuçlandırılması"
+    },
+    {
+     "hap": "Hava taşıtının getirilmeksizin serbest dolaşıma girişinde **Sivil Havacılık Genel Müdürlüğünün Teknik Uygunluk Belgesi** gerekir; işlemler belge tarihinden itibaren **otuz gün** içinde sonuçlandırılır.",
+     "dayanak": "2009/15481 Karar 14/1-a, d",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Hava taşıtı için Sivil Havacılık Genel Müdürlüğü tarafından tanzim edilmiş Teknik Uygunluk Belgesinin olması ... Teknik Uygunluk Belgesinin düzenlendiği tarihten itibaren otuz gün içinde gümrük işlemlerinin sonuçlandırılması"
+    },
+    {
+     "hap": "Gemi ve hava taşıtlarının Türkiye Gümrük Bölgesine getirilmeden serbest dolaşıma girişinde **özet beyan** ve **gümrüğe sunma** hükümleri **uygulanmaz**.",
+     "dayanak": "2009/15481 Karar 15/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Kanunun özet beyana ve eşyanın gümrüğe sunulmasına ilişkin hükümleri uygulanmaz"
+    },
+    {
+     "hap": "Ticaret politikası önlemine tabi olmayan eşyanın tamamına en yüksek oranlı pozisyon uygulanırsa, eşyanın **cins, tür, miktar, kıymet ve GTİP'ini** gösteren **listenin beyannameye eklenmesi zorunludur**.",
+     "dayanak": "GY 204/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | taşıma belgesi içeriği eşyanın cins, tür, miktar, kıymet ve gümrük tarife istatistik pozisyonunu içeren listenin beyannameye eklenmesi zorunludur"
+    },
+    {
+     "hap": "Varış öncesi gümrükleme izni için başvuru sahibi **en az üç yıldır** faaliyette olmalı ve yılda asgari **beş milyon FOB/ABD doları** fiili ihracat gerçekleştirmiş olmalıdır.",
+     "dayanak": "Varış Öncesi Gümrük İşlemleri Tebliği (Seri No:1) 4/1-a, e",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Türkiye Gümrük Bölgesinde yerleşik olması ve en az üç yıldır faaliyette bulunması ... yılda asgari beş milyon FOB/ABD doları tutarında fiili ihracat gerçekleştirmiş olması"
+    },
+    {
+     "hap": "Boru hattı veya elektrik teliyle bir ay içinde gelecek sürekli akıştaki eşyanın beyannamesi **o ayın ilk on günü** içinde tescil edilir; yetkili idare **Ankara Gümrük Müdürlüğüdür**.",
+     "dayanak": "SDG Tebliği (Seri No:15) 4/1, 6",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | o ayın ilk on günü içinde tescil edilir ... Orta Anadolu Gümrük ve Ticaret Bölge Müdürlüğüne bağlı Ankara Gümrük Müdürlüğü yetkilidir"
+    },
+    {
+     "hap": "LNG'nin serbest dolaşım işlemlerinde **Aliağa, Tekirdağ ve İskenderun** Gümrük Müdürlükleri yetkilidir; fatura, tescil ayını takip eden ayın **yirmi altıncı gününe** kadar ibraz edilir.",
+     "dayanak": "SDG Tebliği (Seri No:16) 5/2, 6",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Aliağa Gümrük Müdürlüğü, Batı Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğüne bağlı Tekirdağ Gümrük Müdürlüğü ve Doğu Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğüne bağlı İskenderun Gümrük Müdürlüğü yetkilidir ... en geç beyannamenin tescil edildiği ayı takip eden ayın yirmi altıncı gününe (yirmi altıncı gün dahil) kadar"
+    },
+    {
+     "hap": "TGTC'nin **72, 74 ve 76. fasıllarında** hurda olarak beyan edilen eşya, izahnamede belirtildiği gibi **kırpıntı, döküntü ve yeniden kullanılamaz** halde olmalıdır.",
+     "dayanak": "SDG Tebliği (Seri No:18) 4/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Türk Gümrük Tarife Cetvelinin 72 nci, 74 üncü ve 76 ncı fasıllarında hurda olarak beyan edilen eşyanın izahname açıklama notlarında belirtildiği gibi kırpıntı, döküntü ve yeniden kullanılamaz halde olması"
+    }
+   ]
+  },
+  {
+   "konu": "Muayene/Tahlil",
+   "sinif": "ORTA",
+   "cikmis_hap": [
+    {
+     "hap": "Gümrük idareleri beyanın doğruluğunu araştırmak için **eşyayı muayene edebilir** ve **ayrıntılı muayene veya tahlil amacıyla numune alabilir**.",
+     "yillar": [
+      "2022/80"
+     ],
+     "dayanak": "GK 65/1-b",
+     "tuzak": "İkinci muayene 15 gün sonra değil her zaman yapılabilir; muayene edilen eşyada muayene sonuçları esas alınır; ikinci muayeneyi yapan sorumludur; muayene yalnız antrepoda yapılmaz.",
+     "kanit": "17-BEYAN.txt | Eşyayı muayene edebilir ve ayrıntılı muayene veya tahlil amacıyla numune alabilirler ... muayenesi yapılmış ve işlemleri tamamlanmış eşyanın ikinci muayenesini her zaman yapabilirler",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Eşya sahibi veya temsilcileri, beyana konu eşyanın tahlili için **gümrük laboratuvarlarına doğrudan numune gönderemez**; laboratuvarlar da bunları **kabul edemez**.",
+     "yillar": [
+      "2022/96"
+     ],
+     "dayanak": "GY 200/1-ç",
+     "tuzak": "'Doğrudan numune gönderebilir' ifadesi yanlış.",
+     "kanit": "17-BEYAN.txt | Eşya sahibi veya temsilcileri gümrük beyanına konu eşyanın tahlili için Gümrük Laboratuvarlarına doğrudan numune gönderemeyecekleri gibi, laboratuvarlar da bunları kabul edemez",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Yükümlülerin kendilerine tebliğ edilen **tahlil sonuçlarına itirazını** ilgili **Gümrük ve Dış Ticaret Bölge Müdürlüğü** karara bağlar.",
+     "yillar": [
+      "2023/78"
+     ],
+     "dayanak": "GK 243/1; GY 588/1-a",
+     "tuzak": "Laboratuvar müdürlüğü, gümrük müdürlüğü, Genel Müdürlük veya kaçakçılık müdürlüğü değil.",
+     "kanit": "49-itirazlar.txt | gümrük ve muhafaza başmüdürlüğüne bir dilekçe ile itiraz edilebilir",
+     "kaynakta_yok": false,
+     "not": "Kaynak metinde kurumun eski adı 'gümrük ve muhafaza başmüdürlüğü' geçer; resmî cevap güncel adı (Gümrük ve Dış Ticaret Bölge Müdürlüğü) esas alır."
+    },
+    {
+     "hap": "Laboratuvar tahlili; 27 (bazı pozisyonlar hariç), 28, 29. fasıl vb. **dökme** eşya, **Ek-23** listesi, GTİP'in **memurca tespit edilememesi** ve **bileşim tablosu** yerinin belirlenmesi hallerinde yapılır.",
+     "yillar": [
+      "2023/80"
+     ],
+     "dayanak": "GY 196/1",
+     "tuzak": "Anti-damping vergisine tabi olmak tek başına tahlil nedeni değildir.",
+     "kanit": "17-BEYAN.txt | Türk Gümrük Tarife Cetvelinin 27 (27.01 ila 27.05, 2709.00.90 ve 27.16 hariç), 28, 29 uncu fasılları ... ek-23'te yer alan listede bulunması ... eşyanın gümrük tarife istatistik pozisyonunun muayene ile görevli memurca tespitinin mümkün olmaması ... İşlenmiş tarım ürünlerinin bileşim tablosundaki yerinin belirlenmesinin gerekmesi",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Tam veya kısmi muayene yöntemini **bilgisayar sistemi** belirler; sistem belirlemezse **muayene memuru eşyanın niteliğine göre** belirler.",
+     "yillar": [
+      "2023/81"
+     ],
+     "dayanak": "GY 182/1",
+     "tuzak": "'Sistem belirlemezse muayene yapılamaz' ifadesi yanlış.",
+     "kanit": "17-BEYAN.txt | Ancak muayene şeklinin sistem tarafından belirlenmediği durumlarda bu husus muayene ile görevli memurlar tarafından eşyanın niteliğine göre belirlenir",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "2022'de 2, 2023'te 3 soru; 2024–2025'te hiç sorulmadığı için yeniden gündeme gelebilir. Numune miktarları, tahlil raporu geçerlilik süreleri, kısmi muayene, arta kalan numune ve 15.01.2025 tarihli tahlil ücreti hükmü hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Tahlilden arta kalan numuneler, sonuçların ilgilisine bildirilmesinden sonra **bir ay** içinde alınmazsa **gümrüğe terk edilmiş** sayılır.",
+     "dayanak": "GK 66/5",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | Tahlilden arta kalan numuneler, tahlil sonuçlarının ilgilisine bildirilmesinden sonra bir ay içinde alınmadığı takdirde gümrüğe terk edilmiş sayılır"
+    },
+    {
+     "hap": "Tek kalemli beyannamede **kısmi muayene sonuçları eşyanın tümüne** uygulanır; beyan sahibi sonuçların kalan kısım için geçerli olmadığını düşünürse **tamamının muayenesini** isteyebilir.",
+     "dayanak": "GK 67/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | Bir beyanname kapsamı eşyanın tek kalemden oluşması ve kısmen muayene edilmesi halinde, muayene sonuçları söz konusu beyanname kapsamı eşyanın tümüne uygulanır ... eşyanın tamamının muayenesini talep edebilir"
+    },
+    {
+     "hap": "Numuneler en az **iki tahlile** yetecek miktarda alınır: petrol ürünleri ve alkollerde **en az 1 litre**, diğer sıvılarda **½ litre**, tozlarda **250 gram**.",
+     "dayanak": "GY 199/1-a",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | en az iki tahlile yetecek miktarda (orijinal ambalajlı, kıymetli, az miktarda bulunan ve benzeri durumlardaki numuneler hariç, petrol ürünlerinde ve alkollerde en az 1 litre, diğer sıvı numunelerde en az ½ litre, toz örneklerde ise en az 250 gram)"
+    },
+    {
+     "hap": "Süreklilik arz eden, gönderici-alıcı-menşei aynı eşyada **en fazla bir yıl** öncesine dayanan tahlil raporu beyan edilirse yeniden tahlil yapılmaz; **kırmızı hat tam muayenede** bu kolaylık uygulanmaz.",
+     "dayanak": "GY 196/2-b",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | beyanname tescil tarihi itibarıyla en fazla bir yıl öncesine dayanan tahlil raporunun tarih ve sayısının beyannamenin 44 no.lu kutusunda beyan edilmesi halinde, daha önce yapılan tahlile itibar edilerek yeniden laboratuvar tahliline gönderilmez ... bilgisayar sistemi tarafından beyanın kontrolü türünün kırmızı hat tam muayene olarak belirlenmesi halinde, yükümlünün bu kolaylıktan yararlanmasına izin verilmez"
+    },
+    {
+     "hap": "39.01–39.15 pozisyonlarında dökme gelen eşyayı **OKSB veya YYS** sahibi ithal ederse, tescil tarihi itibarıyla **en fazla altı ay** öncesine dayanan tahlil raporuna itibar edilir.",
+     "dayanak": "GY 196/2-c",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | 39.01 ila 39.15 tarife pozisyonlarında yer alıp dökme gelen ... beyanname tescil tarihi itibariyle en fazla altı ay öncesine dayanan bir tahlil raporu ibraz edilmesi halinde buna itibar edilir"
+    },
+    {
+     "hap": "Gümrük laboratuvarı tahlil ücretleri, **213 sayılı VUK yeniden değerleme oranını geçmemek** üzere Bakanlıkça (Gümrükler Genel Müdürlüğü) **yıllık** olarak belirlenir.",
+     "dayanak": "GY 197/3",
+     "neden": "son değişiklik: 15.01.2025",
+     "kanit": "17-BEYAN.txt | Laboratuvar tahlil ücretleri 213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranını geçmemek üzere Bakanlıkça (Gümrükler Genel Müdürlüğü) yıllık olarak belirlenir"
+    },
+    {
+     "hap": "Tahlile tabi eşya, yükümlü başvurursa **rejim beyanında bulunulmadan önce** tahlile gönderilir; yükümlü sonuçları kabul etmezse GK 243 kapsamında itiraz edebilir.",
+     "dayanak": "GY 196/A-1",
+     "neden": "sorulmamış hüküm; 30.12.2021 tarihli R.G. ile eklendi",
+     "kanit": "17-BEYAN.txt | 196 ncı madde uyarınca tahlile gönderilmesi gereken eşya, yükümlünün ilgili gümrük idaresine başvurması halinde rejim beyanında bulunmadan önce tahlile gönderilir"
+    },
+    {
+     "hap": "Tahlil sonucu beklenmeden teslim talebinde, beyan edilen GTİP oranı ile **fasıldaki en yüksek oran farkı teminata** bağlanır, taahhütname ve **şahit numune** alınarak eşya **yediemin** olarak teslim edilir.",
+     "dayanak": "GY 130/3",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | eşyanın beyan edilen gümrük tarife istatistik pozisyonuna karşılık gelen vergi oranı ile beyan edilen fasıldaki en yüksek vergi oranı arasındaki farka karşılık gelen tutarın teminata bağlanarak ... kaydıyla yediemin olarak teslim edilir"
+    },
+    {
+     "hap": "Yükümlüler tahlil sonuçlarının duyurulduğu günden itibaren **15 gün** içinde itiraz ederek ikinci tahlil isteyebilir; ikinci tahlili ilk tahlili yapan dışındaki **iki kimyager** yapar.",
+     "dayanak": "SDG Rejimi Tebliği (Seri No:2) 6; GK 243/1-2",
+     "neden": "sorulmamış hüküm (itiraz merci 2023'te soruldu, süre ve heyet sorulmadı)",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Yükümlüler, tahlil sonuçlarının kendilerine duyurulduğu günden itibaren 15 gün içinde itiraz ile ikinci tahlil isteyebilirler ... birinci tahlili yapan kimyager dışındaki iki kimyager tarafından"
+    },
+    {
+     "hap": "Laboratuvar tahliline konu eşyanın tahlilini yapanlar, tahlil sonucuna bağlı **GTİP belirlenmesinden müteselsilen sorumludur**.",
+     "dayanak": "GY 186/3",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | Laboratuvar tahliline konu edilen eşyanın tahlilini gerçekleştirenler tahlil sonucuna bağlı olarak yapılan GTİP belirlenmesinden müteselsilen sorumludur"
+    }
+   ]
+  },
+  {
+   "konu": "Dış Ticaret Belgeleri",
+   "sinif": "AZ",
+   "cikmis_hap": [
+    {
+     "hap": "**Çeki listesi**, bir fatura kapsamı eşyanın çeşitli cins, nev'i ve ağırlıktaki kaplara konulması halinde **her kapta ne miktar eşya bulunduğunu** gösteren belgedir.",
+     "yillar": [
+      "2021/49",
+      "2022/81"
+     ],
+     "dayanak": "GY 117/1",
+     "tuzak": "Ayrıntılı fatura, konşimento, proforma fatura, analiz sonuç raporu ve kıymet bildirim formu ile karıştırılmamalı.",
+     "kanit": "17-BEYAN.txt | Çeki listesi, bir fatura kapsamı eşyanın çeşitli cins ve nev'ide ve çeşitli ağırlıktaki kaplara konulması halinde, her kapta ne miktar eşya bulunduğunu göstermek amacıyla düzenlenen bir belgedir",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Dış ticaretin anlaşma aşamasında **teklif niteliği** taşıyan, malın nitelik ve birim fiyatını içeren ve **satıcının alıcıya** gönderdiği belge **proforma faturadır**.",
+     "yillar": [
+      "2021/61"
+     ],
+     "dayanak": "Kaynakta yok (resmî cevap)",
+     "tuzak": "Fatura, tedarikçi beyanı, navlun faturası veya irsaliye değil.",
+     "kanit": "",
+     "kaynakta_yok": true,
+     "not": ""
+    },
+    {
+     "hap": "**CMR**, kara nakliyatında taşıyıcıların konşimento yerine düzenlediği **taşıma belgesidir** (yük senedi).",
+     "yillar": [
+      "2023/100"
+     ],
+     "dayanak": "GY 118/3",
+     "tuzak": "Fatura, çeki listesi, menşe ispat belgesi ve boşaltma listesi taşıma belgesi değildir.",
+     "kanit": "17-BEYAN.txt | Kara nakliyatında taşıyıcılar tarafından konşimento yerine düzenlenen belgeye yük senedi (CMR)",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "2021–2023'te 4 soru (çeki listesi iki kez), son iki yılda hiç soru yok. Ayrıntılı fatura, faturayı düzenleyen, konşimento-CIM/CIV ve İTÜ beyan formu ile kıymet bildirim formu tanımları hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Fatura, **kesin satışlarda satıcı**, diğer hallerde **gönderici** tarafından mahallinde düzenlenir; yurt dışı alıcı adına ihracat faturasında satış bedeli **yabancı para** cinsinden gösterilebilir.",
+     "dayanak": "GY 115/1-2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | Fatura, kesin satışlarda, satıcı ve diğer hallerde gönderici tarafından mahallinde düzenlenmiş ... yurt dışındaki alıcılar adına düzenlenmiş faturalarda satış bedeli yabancı para cinsinden gösterilebilir"
+    },
+    {
+     "hap": "**Ayrıntılı fatura**, kıymet üzerinden vergiye tabi, birden fazla kapta gelen çeşitli cins ve kıymetteki eşyada **her kapta aynı cins ve kıymette ne miktar eşya** bulunduğunu gösterir.",
+     "dayanak": "GY 116/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | Ayrıntılı fatura, kıymetleri üzerinden vergiye tabi olup da birden ziyade kap içinde gelen ve aynı zamanda çeşitli cins ve kıymette olan eşyadan, her kapta aynı cins ve kıymette ne miktar eşya bulunduğunu gösteren"
+    },
+    {
+     "hap": "Çeki listesi satıcı veya gönderici tarafından fatura ile birlikte hazırlanabileceği gibi **beyan sahibi** tarafından da hazırlanabilir.",
+     "dayanak": "GY 117/2",
+     "neden": "sorulmamış hüküm (tanım iki kez soruldu, hazırlayan sorulmadı)",
+     "kanit": "17-BEYAN.txt | Çeki listesi satıcı veya gönderici tarafından fatura ile birlikte hazırlanabileceği gibi, beyan sahibi tarafından da hazırlanabilir"
+    },
+    {
+     "hap": "Deniz taşımalarında **konşimento**, geminin **kaptanı, donatanı veya mümessili** tarafından **yükletene** verilir; hava taşımalarında **hava konşimentosu**, demiryolunda **CIM ve CIV** kullanılır.",
+     "dayanak": "GY 118/1, 2, 4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | Deniz yoluyla yapılan taşımalarda geminin kaptanı veya donatanı veya mümessili tarafından yükletene taşıma belgesi olarak konşimento verilir ... Hava taşımalarında, aynı anlamda ve benzeri bilgileri kapsayan hava konşimentosu kullanılır ... CIM ve CIV belgeleri gibi uluslararası kabul görmüş taşıma belgeleri kullanılır"
+    },
+    {
+     "hap": "**İşlenmiş Tarım Ürünleri Beyan Formu/Analiz Sonuç Raporu**, bu ürünlerdeki **tarım paylarını** belirten, **kimyager onaylı** ve **ek-15**'te yer alan belgedir.",
+     "dayanak": "GY 119/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | bu ürünlerdeki tarım paylarını belirten ve kimyager tarafından onaylanmış, ek-15'te yer alan belgedir"
+    },
+    {
+     "hap": "**İthal Eşyasına Ait Kıymet Bildirim Formu**, GATT VII. maddesinin uygulanmasına dair anlaşmaya göre belirlenen **gümrük kıymeti unsurlarını** içeren, **ek-16**'daki belgedir.",
+     "dayanak": "GY 120/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "17-BEYAN.txt | Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının VII nci Maddesinin Uygulanmasına Dair Anlaşma hükümleri çerçevesinde belirlenen ithal eşyasına ait gümrük kıymetinin unsurlarını içeren ve ek-16'da yer alan belgedir"
+    }
+   ]
+  },
+  {
+   "konu": "İlave Gümrük Vergisi",
+   "sinif": "AZ",
+   "cikmis_hap": [
+    {
+     "hap": "3351 sayılı İlave Gümrük Vergisi Kararının uygulanmasında eşyanın **menşeinin doğru beyan edilmesinden ithalatçı sorumludur**.",
+     "yillar": [
+      "2024/36"
+     ],
+     "dayanak": "3351 s. İGV Kararı (kaynakta yok)",
+     "tuzak": "'İthalatçı sorumlu değildir' yanlış; resmî cevaba göre diğer önermeler doğru: İGV'ye GV usul ve hükümleri uygulanır, pozisyon/tanım değişikliği uygulamaya engel değildir, İGV ayrı tahsil edilip genel bütçeye irat kaydedilir, tarife kontenjanıyla 0/indirimli ithalatta İGV uygulanmaz.",
+     "kanit": "",
+     "kaynakta_yok": true,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "2021–2025'te yalnız bir kez (2024/36) soruldu ve 3351 sayılı Karar metni depoda yok. Gümrük Yönetmeliğindeki İGV hükümleri (tescil tarihi esası, menşe şahadetnamesi, nakit teminat ve 6 aylık süre, geri verme) hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Serbest dolaşıma girişte **o tarihte yürürlükteki** ticaret politikası önlemleriyle birlikte **ilave gümrük vergisi** ve EMY gibi mali yükümlülük hükümleri de uygulanır.",
+     "dayanak": "GY 205/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Eşyanın serbest dolaşıma girişinde, o tarihte yürürlükte bulunan ticaret politikası önlemlerine, ilave gümrük vergisine veya ek mali yükümlülük gibi diğer mali yükümlülüklere ilişkin mevzuat ile konulmuş hükümler de uygulanır"
+    },
+    {
+     "hap": "İlave gümrük vergisinin uygulanmasında **serbest dolaşıma giriş beyannamesinin tescil tarihi** esas alınır.",
+     "dayanak": "GY 205/2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | Bu maddede bahsi geçen önlemlerin, ilave gümrük vergisinin veya diğer mali yükümlülüklerin uygulanmasında serbest dolaşıma giriş beyannamesinin tescil tarihi esas alınır"
+    },
+    {
+     "hap": "İlave gümrük vergisine tabi eşyanın menşei **menşe şahadetnamesi** ile ispat olunur; şahadetname serbest dolaşım **beyannamesi ekinde** ibraz edilir.",
+     "dayanak": "GY 205/3",
+     "neden": "sorulmamış hüküm",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | ilave gümrük vergisine veya ek mali yükümlülük gibi diğer mali yükümlülüklere tabi eşyanın menşei, menşe şahadetnamesi ile ispat olunur. Menşe şahadetnamesi, eşyanın serbest dolaşıma girişine ilişkin beyanname ekinde ibraz edilir"
+    },
+    {
+     "hap": "Eşya birden fazla önlem/İGV/EMY'ye tabiyse ya da ülkesine göre **farklı oranlar** belirlenmişse menşe şahadetnamesi aranır; ibraz edilmezse **en yüksek tutarlar** esas alınır.",
+     "dayanak": "GY 205/4 (son iki cümle)",
+     "neden": "sorulmamış hüküm; 01.04.2020 tarihli R.G. ile eklendi",
+     "kanit": "18-Ser.Dol.Giriş Rejimi.txt | eşyanın aynı zamanda birden fazla ticaret politikası önlemi, ilave gümrük vergisi veya ek mali yükümlülük gibi diğer mali yükümlülüklere tabi olması ya da aynı düzenleme kapsamında ülkesine göre farklı oranların belirlenmiş olması durumunda menşe şahadetnamesi aranır ... Menşe şahadetnamesi ibraz edilmemesi halinde, tahsil edilmesi gerekenlerden en yüksek tutarlar esas alınarak işlem yapılır"
+    },
+    {
+     "hap": "Menşe şahadetnamesi sonradan ibraz edilecekse İGV **nakit teminata** bağlanır ve tescilden itibaren **altı ay** süre verilir; mücbir sebepte idare amiri **en fazla otuz gün** uzatabilir.",
+     "dayanak": "GY 38/2",
+     "neden": "sorulmamış hüküm",
+     "kanit": "10-MENŞEİ.txt | ilave gümrük vergisi veya ek mali yükümlülük gibi diğer mali yükümlülükler nakit teminata bağlanmak suretiyle usulüne uygun bir menşe şahadetnamesi ibrazı için beyannamenin tescil tarihinden itibaren altı aylık süre verilir ... Mücbir sebep halleri saklı kalmak ve bitiminden önce başvurmak kaydıyla bu süre gümrük idare amirince en fazla otuz gün uzatılabilir"
+    },
+    {
+     "hap": "İGV beyan edilerek **ödenmişse**, tescilden itibaren **altı ay** içinde menşe şahadetnamesiyle başvurulduğunda tahsil edilen tutar **geri verilir**.",
+     "dayanak": "GY 38/3",
+     "neden": "sorulmamış hüküm",
+     "kanit": "10-MENŞEİ.txt | beyannamenin tescil tarihinden itibaren altı aylık süreyi aşmamak üzere menşe şahadetnamesi ile gümrük idaresine başvurulması halinde, tahsil edilen tutar geri verilir"
+    }
+   ]
+  }
+ ]
+}

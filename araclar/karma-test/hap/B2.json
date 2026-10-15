@@ -1,0 +1,814 @@
+{
+ "grup": "B2",
+ "konular": [
+  {
+   "konu": "Kaçakçılık",
+   "sinif": "ÇOK",
+   "cikmis_hap": [
+    {
+     "hap": "5607'de gümrüklenmiş değer: ithal eşyasında **CIF kıymeti + gümrük vergileri**, ihraç eşyasında **FOB kıymeti + gümrük vergileri** toplamıdır (CIF 50.000 + GV 5.000 = **55.000 TL**).",
+     "yillar": [
+      "2022/21",
+      "2023/45",
+      "2025/87"
+     ],
+     "dayanak": "5607 md. 2/1-b",
+     "tuzak": "Yalnız CIF (ithal) veya yalnız FOB (ihraç) kıymeti değildir; 2022/21'de 'CIF kıymetini ifade eder' şıkkı yanlıştı.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Gümrüklenmiş değer: Uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını, ihraç eşyası için FOB kıymeti ile gümrük vergileri toplamını",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Kaçakçılığı önleme, izleme ve araştırmakla yükümlüler: **mülki amirler**, gümrük (bugün Ticaret Bakanlığı) personeli ile **Emniyet**, **Jandarma** ve **Sahil Güvenlik** personelidir.",
+     "yillar": [
+      "2021/93",
+      "2022/25",
+      "2023/22"
+     ],
+     "dayanak": "5607 md. 19/1",
+     "tuzak": "Gümrük sahasındaki özel güvenlik personeli/özel güvenlik çalışanları ve Kara Kuvvetleri sınır birlikleri bu sayımda yok.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Mülkî amirler, Gümrük Müsteşarlığı personeli ile Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına bağlı personel, bu Kanunla yaptırım altına alınan fiilleri önleme, izleme ve araştırmakla yükümlüdür.",
+     "kaynakta_yok": false,
+     "not": "Kara Kuvvetleri hudut birlikleri md. 19'da sayılmaz; ancak md. 23/7 uyarınca ikramiye alabilir."
+    },
+    {
+     "hap": "Tütün, alkol, akaryakıt, uyuşturucu, silah gibi kaçakçılık türlerinde kamuoyuna ilanın ön şartı **mahkûmiyet hükmünün kesinleşmesidir**; ilan Bakanlığın takdirindedir ('ilan edilebilir').",
+     "yillar": [
+      "2021/91"
+     ],
+     "dayanak": "5607 md. 4/9; İlan Yön. 4/1",
+     "tuzak": "İlk derece mahkûmiyeti, örgüt, tekerrür veya ikrar şartı aranmaz.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | ile ilgili mahkûmiyet hükmü kesinleşenler, Gümrük ve Ticaret Bakanlığınca kamuoyuna ilan edilebilir",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "5607'de tasfiyesi ayrı bir maddeyle (**md. 16/A**) özel olarak düzenlenen kaçak eşya **akaryakıttır**; diğer eşya ve taşıtlar genel tasfiye hükmüne (md. 16) tabidir.",
+     "yillar": [
+      "2021/92"
+     ],
+     "dayanak": "5607 md. 16/A",
+     "tuzak": "Taşıt, alkollü içki, tütün mamulü ve uyuşturucu için bağımsız tasfiye maddesi yoktur.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Kaçak akaryakıtın tasfiyesi (11.04.2013 tarihli, 28615 sayılı R.G. 6455 s.k. ile eklenmiştir) MADDE 16/A - (1) Bu Kanun uyarınca el konulan kaçak akaryakıttan teknik düzenlemelere uygun olanlar",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "İzleme tutanağı tarih, yer, düzenleyenlerin **unvan ve isimleri**, olay ve kanıtlar, eşyanın türü-miktarı ile **ilgilinin** kimlik, iş ve **yerleşim yeri** bilgilerini kapsar.",
+     "yillar": [
+      "2021/94"
+     ],
+     "dayanak": "5607 md. 20/1",
+     "tuzak": "Düzenleyenlerin yerleşim yeri zorunlu unsur değildir; yerleşim yeri yalnız ilgili için aranır.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Tarih, yer, düzenleyenlerin unvan ve isimleri ... İlgilinin kimlik, iş ve yerleşim yeri ile varsa ifadesini",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Akaryakıt Uygulama Yönetmeliğinde öngörülmeyen durumları konusuna göre sonuçlandırmaya 2021 sınavı tarihinde **Ticaret, İçişleri ve Hazine ve Maliye** Bakanlıkları yetkiliydi.",
+     "yillar": [
+      "2021/95"
+     ],
+     "dayanak": "Akaryakıt Yön. 21/1",
+     "tuzak": "Adalet Bakanlığı yetkili değildir.",
+     "kanit": "kacakcilikla_mucadele_kanununa_gore_elkonulan_akaryakitin_teslimi_muhafazasi_tasfiyesi_ve_yapilan_masraflara_iliskin_uygulama_yonetmeligi.txt | konusuna göre Ticaret ve İçişleri Bakanlıkları[27] yetkilidir ... \"Ticaret, İçişleri ve Hazine ve Maliye Bakanlıkları\" ibaresi \"Ticaret ve İçişleri Bakanlıkları\" olarak 18.01.2024 / 32433 sayılı R.G. ile değiştirilmiştir.",
+     "kaynakta_yok": false,
+     "not": "Sınav tarihinde Hazine ve Maliye de sayılıyordu (cevap E: II, III, IV); 18.01.2024 değişikliğiyle güncel metinde yalnız Ticaret ve İçişleri Bakanlıkları yetkili."
+    },
+    {
+     "hap": "Kaçakçılık konusu **akaryakıt, tütün, tütün mamulü, makaron, yaprak sigara kâğıdı, etil alkol, metanol, alkollü içki** ise ceza **yarısından iki katına** artırılır ve **üç yıldan** az olamaz.",
+     "yillar": [
+      "2021/96"
+     ],
+     "dayanak": "5607 md. 3/10",
+     "tuzak": "Elektronik sigara içme cihazı bu artırım listesinde yoktur.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Kaçakçılık suçunun konusunu oluşturan eşyanın akaryakıt ile tütün, tütün mamulleri, makaron, yaprak sigara kâğıdı,[10] etil alkol, metanol ve alkollü içkiler olması halinde, yukarıdaki fıkralara göre verilecek cezalar yarısından iki katına kadar artırılır, ancak bu fıkranın uygulanması suretiyle verilecek ceza üç yıldan az olamaz",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Gümrük bölgesine belirlenen kapı ve yollar dışından girenler yetkili memurlarca **durdurulur**, üzerleri, eşyaları ve taşıtları **aranır**, bulunan kaçak eşyaya derhal **el konulur**.",
+     "yillar": [
+      "2021/97"
+     ],
+     "dayanak": "5607 md. 9/3",
+     "tuzak": "Gözaltına alma ve teknik araçlarla izleme bu maddede sayılmaz.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Bu yerlerde rastlanacak kişi ve her nevi taşıma araçları yetkili memurlar tarafından durdurulur ve kişilerin eşya, yük ve üzerleri ile varsa taşıma araçları aranır. Yapılan arama sonucunda tespit edilen kaçak eşyaya derhal elkonulur.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Kaçak eşya taşıyan aracın müsaderesinde **TCK** müsadere hükümleri uygulanır; araç **bilerek** kullanılmalı ve md. 13/1'deki koşullardan biri (gizli tertibat, yükün ağırlıklı kısmı, yasak/zararlı eşya) gerçekleşmelidir.",
+     "yillar": [
+      "2021/98"
+     ],
+     "dayanak": "5607 md. 13/1",
+     "tuzak": "Müsadere 3628 sayılı Mal Bildirimi... Kanununa göre yapılmaz.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Bu Kanunda tanımlanan suçlarla ilgili olarak 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun eşya ve kazanç müsaderesine ilişkin hükümleri uygulanır. Ancak kaçak eşya taşımasında bilerek kullanılan veya kullanılmaya teşebbüs edilen her türlü taşıma aracının müsadere edilebilmesi için aşağıdaki koşullardan birinin gerçekleşmesi gerekir",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "5607'ye bağlı yönetmelikler: **ikramiye**, **el konulan eşya ve alıkonulan taşıtlar**, **el konulan akaryakıt**, mülkiyeti kamuya geçen **kara taşıtlarının iadesi**; 'alıkonulan tarım ürünleri' yönetmeliği yoktur.",
+     "yillar": [
+      "2021/99"
+     ],
+     "dayanak": "5607 (bağlı yönetmelikler)",
+     "tuzak": "Alıkonulan tarım ürünleri hakkında uygulama yönetmeliği çıkarılmamıştır.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Elkonulan Eşya ve Alıkonulan Taşıtlara İlişkin Uygulama Yönetmeliği ... Elkonulan Akaryakıtın Teslimi, Muhafazası, Tasfiyesi ve Yapılan Masraflara İlişkin Uygulama Yönetmeliği ... İkramiye Ödenmesi Hakkında Yönetmelik ... Mülkiyetin Kamuya Geçirilmesi Kararı Verilen Kara Taşıtlarının Sahiplerine İadesi Hk Yönetmelik",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "5607'deki suçların **üç veya daha fazla kişi** tarafından birlikte işlenmesi hâlinde verilecek ceza **yarı oranında** artırılır.",
+     "yillar": [
+      "2021/100"
+     ],
+     "dayanak": "5607 md. 4/2",
+     "tuzak": "İki, dört, beş veya altı kişi değil; örgüt hâlinde artırım iki kattır.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | üç veya daha fazla kişi tarafından birlikte işlenmesi halinde, verilecek ceza yarı oranında artırılır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "5607'deki suçların **bir örgütün faaliyeti çerçevesinde** işlenmesi hâlinde verilecek ceza **iki kat** artırılır.",
+     "yillar": [
+      "2022/22"
+     ],
+     "dayanak": "5607 md. 4/1",
+     "tuzak": "Yarı oranında artırım (üç veya daha fazla kişi) ya da ayrıca örgüt üyeliği cezası değil.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | bir örgütün faaliyeti çerçevesinde işlenmesi halinde, verilecek ceza iki kat artırılır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Kaçakçılığın konusu toplum ve çevre sağlığı yönünden tehlikeli/zararlı eşya veya **atık** ise soruşturma başlatılır ve eşya gümrük yetkililerince **derhal getirildiği ülkeye iade** edilir.",
+     "yillar": [
+      "2022/23"
+     ],
+     "dayanak": "5607 md. 12/2",
+     "tuzak": "İdari işlem, savcılıkça el koyma, müsadere veya imha için teslim değil.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | ilgililer hakkında soruşturma işlemleri başlatılmakla birlikte, bunlar gümrük yetkilileri tarafından derhal getirildiği ülkeye iade edilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Eşyayı **aldatıcı işlem ve davranışlarla** gümrük vergileri kısmen/tamamen ödenmeksizin ülkeye sokana **iki yıldan beş yıla** hapis ve **on bin güne** kadar adli para cezası verilir.",
+     "yillar": [
+      "2022/24"
+     ],
+     "dayanak": "5607 md. 3/2",
+     "tuzak": "Gümrük işlemine tabi tutmadan sokma 1–5 yıl; transitte bırakma, geçici ithalat/DİR'de hileli çıkış ve ihracı yasak eşya 1–3 yıl ve 5.000 gündür.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Eşyayı, aldatıcı işlem ve davranışlarla[2] gümrük vergileri kısmen veya tamamen ödenmeksizin ülkeye sokan kişi, iki yıldan[3] beş yıla kadar hapis ve on bin güne kadar adlî para cezası ile cezalandırılır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "5607 davalarında mahkeme iddianamenin bir örneğini **ilgili gümrük idaresine** gönderir; gümrük idaresi **başvurusu üzerine** davaya katılan olarak kabul edilir.",
+     "yillar": [
+      "2022/26"
+     ],
+     "dayanak": "5607 md. 18/1",
+     "tuzak": "Muhakemat müdürlüğü, hukuk müşavirliği, defterdarlık veya vergi dairesi değil.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | mahkeme, iddianamenin bir örneğini ilgili gümrük idaresine de gönderir. Başvurusu üzerine, ilgili gümrük idaresi açılan davaya katılan olarak kabul edilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Muafen ithal edilen eşyada suç, eşyayı **ithal amacı dışında** kullanıma tahsis etmek, satmak, devretmek veya bilerek almaktır; **süresinde yurt dışına çıkarmamak** kaçakçılık fiili değildir.",
+     "yillar": [
+      "2022/27"
+     ],
+     "dayanak": "5607 md. 3/6",
+     "tuzak": "'Süresi içinde yurt dışına çıkarmamak' şıkkı kaçakçılık fiili sayılmaz.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Özel kanunları gereğince gümrük vergilerinden kısmen veya tamamen muaf olarak ithal edilen eşyayı, ithal amacı dışında başka bir kullanıma tahsis eden, satan veya devreden ya da bu özelliğini bilerek satın alan veya kabul eden kişi",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Kaçakçılık fiilleri ve yaptırımları ile kaçakçılığı önleme, izleme, araştırma usul ve esaslarını **5607 sayılı Kaçakçılıkla Mücadele Kanunu** belirler.",
+     "yillar": [
+      "2023/51"
+     ],
+     "dayanak": "5607 md. 1/1",
+     "tuzak": "Gümrük Kanunu, 3628, 4483 veya 657 sayılı Kanun değil.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Bu Kanunun amacı, kaçakçılık fiilleri ve yaptırımları ile kaçakçılığı önleme, izleme, araştırma usûl ve esaslarını belirlemektir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Transit rejimiyle taşınan serbest dolaşımda olmayan eşyayı rejime aykırı olarak gümrük bölgesinde bırakana **bir yıldan üç yıla** hapis ve **beş bin güne** kadar adli para cezası verilir.",
+     "yillar": [
+      "2023/73"
+     ],
+     "dayanak": "5607 md. 3/3",
+     "tuzak": "Gümrüklenmiş değer/vergi katları biçiminde idari para cezası değil; 2022/24'te 'bir yıldan beş yıla' yanlış şıktı.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Transit rejimi çerçevesinde taşınan serbest dolaşımda bulunmayan eşyayı, rejim hükümlerine aykırı olarak gümrük bölgesinde bırakan kişi, bir yıldan üç yıla[4] kadar hapis ve beş bin güne kadar adlî para cezası ile cezalandırılır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Eşyanın **gümrük kapıları dışından** ülkeye sokulması hâlinde md. 3/1 cezası **üçte birinden yarısına** kadar artırılır.",
+     "yillar": [
+      "2024/65"
+     ],
+     "dayanak": "5607 md. 3/1",
+     "tuzak": "'Yarısından iki katına' artırım akaryakıt-tütün-alkol eşyası (3/10) içindir.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Eşyanın, gümrük kapıları dışından ülkeye sokulması halinde, verilecek ceza üçte birinden yarısına kadar artırılır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "5607 md. 3'teki fiiller **teşebbüs** aşamasında kalsa bile **tamamlanmış gibi** cezalandırılır.",
+     "yillar": [
+      "2024/66"
+     ],
+     "dayanak": "5607 md. 3/22",
+     "tuzak": "Ceza 1/2 veya 1/3 oranında azaltılmaz.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Yukarıdaki fıkralarda tanımlanan fiiller, teşebbüs aşamasında kalmış olsa bile, tamamlanmış gibi cezalandırılır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Antrepo veya izinli yerlerdeki sayımda kayıtlara göre **fazla eşya** çıkması kaçakçılık suçu değildir; GK 236/2'ye göre eşya **tasfiye** edilir ve **vergileri tutarında** para cezası alınır.",
+     "yillar": [
+      "2024/67"
+     ],
+     "dayanak": "GK 236/2",
+     "tuzak": "Gümrük işlemsiz sokma, aldatıcı işlemle sokma, ithali yasak eşyayı sokma ve transit eşyayı bırakma kaçakçılık suçudur.",
+     "kanit": "48-cezalar.txt | Gümrük antrepolarında veya gümrük idaresince eşya konulmasına izin verilen yerlerde yapılan sayımlarda kayıtlara göre fazla eşya çıkması halinde, bu eşyanın 177 ila 180 inci madde hükümlerine göre tasfiyeye tabi tutulmasının yanı sıra, fazla çıkan eşyaya ait ithalat veya ihracat vergileri tutarı kadar para cezası alınır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Ulusal marker'ı yetersiz veya hiç olmayan akaryakıtı **ticari amaçla** üretmek, bulundurmak, nakletmek, **satışa arz etmek/satmak** ve bilerek ticari amaçla almak **2–5 yıl** hapisle cezalandırılır.",
+     "yillar": [
+      "2025/88"
+     ],
+     "dayanak": "5607 md. 3/11",
+     "tuzak": "Kişisel kullanım amacıyla satın alma cezalandırılmaz.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | a) Ticari amaçla üreten, bulunduran veya nakleden, b) Satışa arz eden veya satan, c) Bu özelliğini bilerek ve ticari amaçla satın alan, kişi iki yıldan beş yıla kadar hapis",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Alıkonulan **kara taşıtının** iadesi için verilecek teminatta taşıtın değeri **kasko değeridir**.",
+     "yillar": [
+      "2025/89"
+     ],
+     "dayanak": "5607 md. 10/5",
+     "tuzak": "Satış bedeli, FOB/CIF kıymeti veya gümrüklenmiş değer değil; deniz taşıtında tekne-makine sigortası değeri, sigortasız/hava/demiryolu taşıtında piyasa değeri esas alınır.",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | İkinci fıkra hükmünün uygulanmasındaki değerden, kara taşıtlarında kasko değeri",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "2021–2025'te 27 soru (2021: 10, 2022: 7, 2023: 4, 2024: 3, 2025: 3); sayı düşse de her yıl en az 3 soru geliyor ve son iki yıl md. 3 ceza ölçüleri, gümrüklenmiş değer, ulusal marker ve taşıt teminatına yoğunlaştı. Etkin pişmanlık, tasfiye ve alıkoyma süreleri, ikramiye oranları, ilan eşikleri ile 26.05.2025'te değişen Elkonulan Eşya Yönetmeliği (muhafaza ücreti, imha) hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Etkin pişmanlıkta fail eşyanın **gümrüklenmiş değerinin iki katını** Hazineye öder; soruşturma evresi bitene kadar öderse ceza **yarı**, kovuşturmada hükümden önce öderse **üçte bir** oranında indirilir.",
+     "dayanak": "5607 md. 5/2",
+     "neden": "sorulmamış hüküm (15.04.2020 değişikliği)",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | etkin pişmanlık göstererek suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar parayı Devlet Hazinesine ... Soruşturma evresi sona erinceye kadar ödediği takdirde, hakkında bu Kanunda tanımlanan kaçakçılık suçlarından dolayı verilecek ceza yarı oranında ... Kovuşturma evresinde hüküm verilinceye kadar ödediği takdirde, hakkında bu Kanunda tanımlanan kaçakçılık suçlarından dolayı verilecek ceza üçte bir oranında"
+    },
+    {
+     "hap": "Ödemeli etkin pişmanlık indirimi **ithali yasak eşya** suçunda (3/7), **mükerrirlerde** ve **örgüt** faaliyetiyle işlenen suçta uygulanmaz; ödeme imkânını soruşturmada **Cumhuriyet savcısı** ihtar eder.",
+     "dayanak": "5607 md. 5/2-3",
+     "neden": "sorulmamış şart/makam (5/3: 15.04.2020 eklendi)",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Yedinci fıkrası hariç, 3 üncü maddede tanımlanan suçlardan birini işlemiş olan kişi ... İkinci fıkra hükmü, mükerrirler hakkında veya suçun bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz. ... Bu husus, soruşturma evresinde Cumhuriyet savcısı tarafından şüpheliye ihtar edilir."
+    },
+    {
+     "hap": "Suça iştirak eden kişi resmî makamlar **haber almadan önce** fiili, failleri ve eşyanın yerini bildirip yakalamayı sağlarsa **cezalandırılmaz**; haber alındıktan sonra yardımda ceza **üçte iki** indirilir.",
+     "dayanak": "5607 md. 5/1",
+     "neden": "sorulmamış hüküm",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | resmî makamlar tarafından haber alınmadan önce, fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verirse, verilen bilginin, faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlaması halinde cezalandırılmaz. Haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza üçte iki oranında indirilir."
+    },
+    {
+     "hap": "Kaçak akaryakıt hariç el konulan eşyaya el koymadan itibaren **altı ay** (bozulma/değer kaybı/külfet hâlinde **bir ay**) içinde soruşturmada **hâkim**, kovuşturmada **mahkeme** tasfiye kararı verir; verilmezse derhal tasfiye edilir.",
+     "dayanak": "5607 md. 16/1",
+     "neden": "sorulmamış süre/makam",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Kaçak şüphesiyle el konulan kaçak akaryakıt hariç her türlü eşya hakkında, el koyma tarihinden itibaren altı ay, ancak eşyanın zarara uğraması veya değerinde esaslı ölçüde kayıp meydana gelme tehlikesinin varlığı veya muhafazasının ciddi külfet oluşturması halinde bir ay içinde, gerekli tespitler yaptırılarak soruşturma aşamasında hâkim, kovuşturma aşamasında mahkeme tarafından tasfiye kararı verilir. Bu süreler içinde karar verilmemesi halinde eşya derhal tasfiye edilir."
+    },
+    {
+     "hap": "El konulan taşıt gizli tertibat, Türkiye'de **sicile kayıtsızlık** veya soruşturma sürerken **tekrar kullanılma** hâlinde alıkonulur; değeri kadar teminat **otuz gün** içinde verilmezse derhal tasfiye edilir.",
+     "dayanak": "5607 md. 10/2",
+     "neden": "sorulmamış süre/şart (2025/89'da yalnız teminat değeri soruldu)",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | 13 üncü maddenin birinci fıkrasının (a) bendi kapsamına girmesi, Türkiye'de sicile kayıtlı olmaması ya da soruşturma ve kovuşturma devam ederken, kaçakçılık suçunun işlenmesinde tekrar kullanılması halinde, elkonulan taşıt, elkoyma kararı veren mercilerce[35] alıkonulur. Sahibinin taşıtın[36] değeri kadar teminatı alıkoyma tarihinden itibaren otuz gün içinde gümrük idaresine teslim etmesi halinde, araç sahibine iade edilir."
+    },
+    {
+     "hap": "El koyma kararı bulunup **alıkonulmayan** taşıt, gümrük idaresinin tebligatından itibaren **doksan gün** içinde masrafları ödenerek teslim alınmazsa sonuç beklenmeden derhal tasfiye edilir.",
+     "dayanak": "5607 md. 10/3",
+     "neden": "sorulmamış süre (06.11.2021 eklendi)",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | gümrük idaresince yapılacak tebligattan itibaren doksan gün içinde muhafaza ve diğer masraflar karşılanmak suretiyle sahibi tarafından teslim alınmaması halinde, tasfiye idaresi tarafından soruşturma ve kovuşturma sonucu beklenmeksizin derhal tasfiye olunur."
+    },
+    {
+     "hap": "**İthali kanunen yasak** eşyayı ülkeye sokana ve bilerek alıp satan, taşıyan veya saklayana **iki yıldan altı yıla** hapis ve **yirmi bin güne** kadar adli para cezası verilir.",
+     "dayanak": "5607 md. 3/7",
+     "neden": "sorulmamış ceza ölçüsü",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | İthali kanun gereği yasak olan eşyayı ülkeye sokan kişi, fiil daha ağır bir cezayı gerektiren suç oluşturmadığı takdirde, iki yıldan altı yıla kadar hapis ve yirmi bin güne kadar adlî para cezası ile cezalandırılır."
+    },
+    {
+     "hap": "Teşvik/iade için ihracatı gerçekleşmiş gibi veya malı farklı gösterene **1–5 yıl** hapis ve **10.000 gün** adli para cezası verilir; fiili ihracatla fark **%10'u aşmıyorsa** yalnız Gümrük Kanunu uygulanır.",
+     "dayanak": "5607 md. 3/9",
+     "neden": "sorulmamış sayısal hüküm",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | kişi, bir yıldan beş yıla kadar hapis ve on bin güne kadar adlî para cezası ile cezalandırılır. Beyanname ve eki belgelerde gösterilen ile gerçekte ihraç edilen eşya arasında yüzde onu aşmayan bir fark bulunması halinde, sadece 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu hükümlerine göre işlem yapılır."
+    },
+    {
+     "hap": "Suç konusu eşyanın değeri **fahiş** ise cezalar **yarısından bir katına** kadar artırılır; **hafif** ise **yarısına**, **pek hafif** ise **üçte birine** kadar indirilir.",
+     "dayanak": "5607 md. 3/23",
+     "neden": "sorulmamış hüküm (son cümle 15.04.2020)",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | konusunu oluşturan eşyanın değerinin fahiş[26] olması hâlinde, verilecek cezalar yarısından bir katına kadar artırılır. ... Eşyanın değerinin hafif olması hâlinde verilecek cezalar yarısına kadar, pek hafif olması hâlinde ise üçte birine kadar indirilir."
+    },
+    {
+     "hap": "Eşya Devletin güvenliğini bozacak veya **çevre/toplum sağlığını** tehdit edecek nitelikteyse hapis cezası **on yıldan az olamaz**; tank-düzenekle kaçak akaryakıt satışında ceza **iki kat** artırılır.",
+     "dayanak": "5607 md. 4/7-8",
+     "neden": "sorulmamış nitelikli hâller",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Devletin siyasî, iktisadî veya askerî güvenliğini bozacak ya da çevre veya toplum sağlığını tehdit edecek nitelikte olması halinde, fiil daha ağır cezayı gerektiren bir suç oluşturmadığı takdirde, verilecek hapis cezası on yıldan az olamaz. ... sabit ya da seyyar tank, düzenek veya ekipman kullanılarak gerçekleştirilmesi halinde verilecek cezalar iki kat artırılır."
+    },
+    {
+     "hap": "Genel kaçak eşyada ikramiye çıkışta **FOB**, girişte **CIF** üzerinden; sahipli yakalamada kıymetin **%50'si**, sahipsizde **%25'i**; yarısı muhbire, yarısı el koyana (ihbarsızsa tamamı el koyana) ödenir.",
+     "dayanak": "5607 md. 23/1-c, 23/2",
+     "neden": "sorulmamış oran",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | çıkış kaçağı eşyanın FOB, giriş kaçağı eşyanın CIF kıymeti esas alınır. ... Kaçak eşya sahipli yakalanmışsa kıymetinin yüzde ellisi, sahipsiz yakalanmışsa yüzde yirmibeşi ... Dağıtılacak ikramiyenin yüzde ellisi muhbirlere, yüzde ellisi elkoyma ikramiyesine hak kazananlara verilir. İhbarsız yakalama olaylarında ikramiyenin tamamı elkoyma ikramiyesine hak kazananlara ödenir."
+    },
+    {
+     "hap": "Kaçakçılıkla görevlilere **muhbir ikramiyesi ödenmez**; el koyma ikramiyesi olay başına **30.000**, yılda **120.000** gösterge × katsayıyı aşamaz; **3.000** göstergenin altındaki tutar için dosya hazırlanmaz.",
+     "dayanak": "5607 md. 23/2, 23/4, 23/9",
+     "neden": "sorulmamış sayısal hüküm",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlara muhbir ikramiyesi ödenmez. ... olay başına (30.000) gösterge rakamının ... Ancak bir yılda ödenecek ikramiye (120.000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarı geçemez. ... 3.000 gösterge rakamının olayın olduğu tarihteki memur maaş katsayısı ile çarpımı sonucu bulunacak tutardan az olması durumunda ikramiye talep dosyası hazırlanmaz."
+    },
+    {
+     "hap": "İlan için asgari miktar: akaryakıt **5.000 litre**, sigara **5.000 paket**, tütün **500 kg**, alkollü içki **150 litre**, canlı hayvan **50 baş**; diğer eşyada gümrüklenmiş değer **500.000 TL**.",
+     "dayanak": "İlan Yön. 6/1",
+     "neden": "sorulmamış sayısal hüküm (2021/91'de yalnız kesinleşme şartı soruldu)",
+     "kanit": "kacakcilik_turleri_ile_ilgili_mahkumiyet_hukmu_kesinlesenlerin_kamuoyuna_ilan_edilmesine_dair_yonetmelik.txt | Akaryakıt ve türevleri için 5.000 litreden, ... Sigara için 5.000 paketten, ... Tütün için 500 kilogramdan, ... Alkollü içki için 150 litreden, ... Canlı hayvan için 50 baştan, ... Diğer eşya türleri için gümrüklenmiş değerinin 500.000[5] Türk Lirasından"
+    },
+    {
+     "hap": "İlan **Bakanlık internet sitesinde üç ay** yayımlanır, süre **Gümrükler Muhafaza Genel Müdürlüğünce bir katına** kadar artırılabilir; suç tarihinde **18 yaşını doldurmamışlar** ilan edilmez.",
+     "dayanak": "İlan Yön. 1/2, 7/1, 7/3",
+     "neden": "sorulmamış süre/makam",
+     "kanit": "kacakcilik_turleri_ile_ilgili_mahkumiyet_hukmu_kesinlesenlerin_kamuoyuna_ilan_edilmesine_dair_yonetmelik.txt | kaçakçılık suçları ve hükümlülerine ilişkin bilgiler üç ay süre ile Bakanlık resmî internet sitesinde yayımlanır. ... Suçun mahiyetine göre birinci fıkradaki süre, Genel Müdürlükçe bir katına kadar artırılabilir. ... Bu Yönetmelik hükümleri suçun işlendiği tarihte[1] 18 yaşını doldurmamış olanlar için uygulanmaz."
+    },
+    {
+     "hap": "El konulan taşıt dışı eşyada günlük muhafaza ücreti değerin **binde biri** (soğuk hava vb. özel tesiste **binde dört**), **altı aydan** sonra **yarısı**dır; ücret değerin **%15'ini** ve **100.000 TL**'yi geçemez.",
+     "dayanak": "Elkonulan Eşya Yön. Ek-8/b-d",
+     "neden": "son değişiklik: 26.05.2025 (Ek-8 eklendi)",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanununa_gore_elkonulan_esya_ve_alikonulan_tasitlara_iliskin_uygulama_yonetmeligi.txt | Taşıt haricindeki eşya için, eşyanın değeri üzerinden günlük binde biri, korunması soğuk hava deposu gibi özel tesis ve tertibat gerektiren eşyanın muhafazasında muhafaza ücreti olarak eşyanın değerinin binde dördü uygulanır ... Altı aydan sonraki muhafaza süresi için bu ücretler yarısı oranında uygulanır. ... eşya değerinin yüzde onbeşini ve her halükarda 100.000 TL'yi geçemez."
+    },
+    {
+     "hap": "Gümrük idaresi dışında muhafaza edilip **satışla tasfiye** edilen eşyada muhafaza ücreti **satış bedelinin %15'idir**; eşyanın değeri mahkeme bedeli, yoksa tespit tutanağındaki **ihraçta FOB, ithalde CIF** değeridir.",
+     "dayanak": "Elkonulan Eşya Yön. 12/2, 3/1-ğ",
+     "neden": "son değişiklik: 26.05.2025",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanununa_gore_elkonulan_esya_ve_alikonulan_tasitlara_iliskin_uygulama_yonetmeligi.txt | eşyanın muhafaza ücreti karşılığı olarak satış bedelinin yüzde onbeşi ödenir. ... Eşyanın değeri: Varsa mahkemece belirlenen bedeli, bedel belirlenmemiş ise kaçak eşyaya mahsus tespit tutanağında yer alan ihraç eşyası için FOB, ithal eşyası için CIF değerini, (26.05.2025 / 32911 R.G. ile değişik)"
+    },
+    {
+     "hap": "**Bandrollü** tütün mamulü ve alkollü içki için hâkimden/mahkemeden imha amaçlı tasfiye kararı derhal istenir; el koymadan itibaren **altı ay** içinde karar bildirilmezse numune alınarak derhal **imha** edilir.",
+     "dayanak": "Elkonulan Eşya Yön. 8/2",
+     "neden": "son değişiklik: 26.05.2025",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanununa_gore_elkonulan_esya_ve_alikonulan_tasitlara_iliskin_uygulama_yonetmeligi.txt | soruşturma aşamasında elkoyan idarece hakimden, kovuşturma aşamasında müdahil idarece mahkemeden imhası yapılmak üzere tasfiye kararı verilmesi derhal talep edilir. Elkoyma tarihinden itibaren altı ay içinde adli mercilerce herhangi bir karar bildirilmemiş olması halinde, 7 nci maddede belirtilen miktarlarda numune alınarak eşya derhal imha edilir."
+    },
+    {
+     "hap": "Elkonulan Eşya ve Alıkonulan Taşıtlar Yönetmeliğinde öngörülmeyen durumları sonuçlandırmaya **Ticaret Bakanlığı** yetkilidir; tutanak, karar örnekleri ve ücret tarifesi Bakanlık internet sitesinde yayımlanır.",
+     "dayanak": "Elkonulan Eşya Yön. 19, 3/1-m",
+     "neden": "son değişiklik: 26.05.2025 ('Bakanlık' tanımı ve 19/2 eklendi); akaryakıtta yetki Ticaret ve İçişleridir",
+     "kanit": "5607_sayili_kacakcilikla_mucadele_kanununa_gore_elkonulan_esya_ve_alikonulan_tasitlara_iliskin_uygulama_yonetmeligi.txt | m) Bakanlık: Ticaret Bakanlığını, (26.05.2025 / 32911 R.G. ile eklenmiştir) ... öngörülmeyen durumların ortaya çıkması halinde inceleyip sonuçlandırmaya, Bakanlık[20] yetkilidir. (2) Bu Yönetmelikte düzenlenen tutanak, karar ve harcama talimatının örneği ile ücret tarifesi Bakanlığın resmî internet sitesinde yayımlanır."
+    }
+   ]
+  },
+  {
+   "konu": "Cezalar",
+   "sinif": "ÇOK",
+   "cikmis_hap": [
+    {
+     "hap": "**İki kat** usulsüzlük cezası: belge/bilginin **yanlış verilmesi** (a), vergi kaybı olmasa da **ilişkinin beyan edilmemesi** (b), ihraçta **%10'u aşan** fark (j), geçici ithal eşyasının bildirimsiz ama süresinde çıkışının belgelenmesi (m).",
+     "yillar": [
+      "2023/43",
+      "2024/26",
+      "2024/32",
+      "2024/48",
+      "2025/31"
+     ],
+     "dayanak": "GK 241/3-a, b, j, m",
+     "tuzak": "Dört/altı/sekiz kat değil; ihraçta %10 farkta GK 235'e göre gümrüklenmiş değer veya vergi katı cezası uygulanmaz.",
+     "kanit": "48-cezalar.txt | 6 ve 7 nci maddelere göre, gümrük idarelerince verilen kararlara dayanak oluşturan belge ve bilgilerin, ilgili kişiler tarafından yanlış olarak verilmesi ... Vergi kaybı doğurmamasına karşın, 24 üncü maddeye göre birbirleriyle ilişkisi bulunan kişiler arasında bir satış işlemi olması ve bu ilişkinin beyan edilmemesi ... ihraç eşyasının yapılan beyan ve eki belgelere göre miktar veya cinsinde % 10'dan fazla farklılık çıkması ... Geçici ithalat rejimi kapsamında ithal edilen eşyanın gümrük idaresine bilgi verilmeden, ancak süresi içerisinde Türkiye Gümrük Bölgesinin dışına çıkarıldığının kabul edilebilir belgelerle kanıtlanması",
+     "kaynakta_yok": false,
+     "not": "2024/26: 2024 için 241/1 tutarı 828 TL, iki katı 1.656 TL (tutar kaynakta yok, resmî cevaptan)."
+    },
+    {
+     "hap": "Usulsüzlük cezası **dört kat**: geçerli **temsil yetkisi olmadan** başkası adına gümrükte iş takibi (a) ve antrepodaki eşyanın **izinsiz elleçlenmesi**, ör. büyük kaplardan küçük kaplara aktarma (f).",
+     "yillar": [
+      "2022/69",
+      "2023/29"
+     ],
+     "dayanak": "GK 241/4-a, f",
+     "tuzak": "İki, altı, sekiz kat değil; izinsiz elleçlemede GK 236 (izinsiz çıkarma/değiştirme) uygulanmaz.",
+     "kanit": "48-cezalar.txt | Bir kişinin 5 inci madde hükümlerine göre geçerli bir temsil yetkisi olmadığı halde başka bir kişi adına veya hesabına gümrük idarelerinde iş takip etmesi ... Gümrük antrepolarında bulunan eşyanın gümrük idarelerinin izni olmaksızın 102 nci maddede belirtilen elleçlemelere tabi tutulması",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GK 241/1 usulsüzlük cezası her yıl yeniden değerleme oranında artar; sınavlarda esas alınan tutarlar: **2022: 235 TL**, **2024: 828 TL**, **2025: 1.191 TL**.",
+     "yillar": [
+      "2022/65",
+      "2024/26",
+      "2025/32"
+     ],
+     "dayanak": "GK 241/1-2",
+     "tuzak": "Kanun metnindeki 'altmış TL' güncel tutar değildir.",
+     "kanit": "48-cezalar.txt | 1 inci fıkrada belirtilen miktar, her yıl, bir önceki yıla ilişkin olarak 213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında arttırılır",
+     "kaynakta_yok": true,
+     "not": "Yıllık tutarlar kaynak metinde yok; soru ve resmî cevaptan (2024/26: 2×828 = 1.656 TL)."
+    },
+    {
+     "hap": "İthali izne/belgeye tabi eşya izin alınmış veya izne tabi değilmiş gibi beyan edilirse fark vergileri alınır ve **gümrüklenmiş değerin iki katı** İPC verilir; eşya mahrece iade, transit veya terk edilebilir.",
+     "yillar": [
+      "2022/36"
+     ],
+     "dayanak": "GK 235/1-c, 235/4-b",
+     "tuzak": "'Gümrük vergileri tutarında idari para cezası' yanlıştır.",
+     "kanit": "48-cezalar.txt | eşya belge veya bilgiye tabi değilmiş ya da belge veya bilgi alınmış gibi beyanda bulunulduğunun tespit edilmesi hâlinde, varsa eşyanın fark gümrük vergilerinin alınmasının yanı sıra, gümrüklenmiş değerinin iki katı idari para cezası verilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Genel düzenleyici işlemle **ithali yasak** eşyada fark vergilere ek **gümrüklenmiş değerin dört katı**, **ihracı yasak** eşyada **gümrüklenmiş değerin iki katı** idari para cezası verilir.",
+     "yillar": [
+      "2022/42",
+      "2024/52"
+     ],
+     "dayanak": "GK 235/1-a, 235/2-a",
+     "tuzak": "Gümrük/ithalat vergilerinin katı değil, gümrüklenmiş değerin katıdır; ithalatta dört, ihracatta iki kat.",
+     "kanit": "48-cezalar.txt | Eşyanın genel düzenleyici idari işlemlerle ithalinin yasaklanmış olduğunun tespiti hâlinde, varsa eşyanın fark gümrük vergilerinin alınmasının yanı sıra, gümrüklenmiş değerinin dört katı idari para cezası verilir. ... Eşyanın genel düzenleyici idari işlemlerle ihracının yasaklanmış olduğunun tespiti halinde, eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Antrepo beyannamesinde beyan edilenden **belirgin farklı cinste** ve ithali **izne/lisansa tabi** eşya çıkarsa farklı eşyanın **gümrüklenmiş değerinin iki katı** İPC verilir.",
+     "yillar": [
+      "2022/70"
+     ],
+     "dayanak": "GK 236/5-b",
+     "tuzak": "Farklı eşyanın vergileri beyan edilenden fazlaysa ceza vergilerin iki katıdır (236/5-a); CIF kıymeti veya üç kat değil.",
+     "kanit": "48-cezalar.txt | antrepo beyannamesinde beyan edilenden belirgin bir şekilde farklı cinste eşya olduğunun tahlil, teknik inceleme ve araştırmaya gerek olmaksızın tespiti hâlinde ... Farklı çıkan eşyanın beyan edilen eşyadan farklı şekilde, ithalinin lisansa, şarta, izne, kısıntıya veya belli kuruluşların vereceği uygunluk veya yeterlilik belgesine tabi olması durumunda farklı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GK'da 'Vergi Kaybına Neden Olan İşlemlere Uygulanacak Cezalar' bölümü dışında kalan, **Usulsüzlüklere İlişkin Cezalar** bölümündeki para cezaları **usulsüzlük cezasıdır**.",
+     "yillar": [
+      "2023/21"
+     ],
+     "dayanak": "GK İkinci Bölüm (234–238), Üçüncü Bölüm (239–241)",
+     "tuzak": "Adli para cezası, hapis, müsadere veya el koyma değil.",
+     "kanit": "48-cezalar.txt | İKİNCİ BÖLÜM Vergi Kaybına Neden Olan İşlemlere Uygulanacak Cezalar ... ÜÇÜNCÜ BÖLÜM Usulsüzlüklere İlişkin Cezalar",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "GY Ek-82'ye göre stajyer ve gümrük müşavir yardımcılarının işe başlayış/ayrılış bildirimlerinin süresinde yapılmaması **241/1 tutarında (bir kat)** usulsüzlük cezası gerektirir.",
+     "yillar": [
+      "2023/30"
+     ],
+     "dayanak": "GY Ek-82; GK 241/1",
+     "tuzak": "İki, dört, altı veya sekiz kat değil.",
+     "kanit": "2-TEMSİL.txt | Müşavir yardımcıları ve stajyerlerin göreve başlama ve ayrılmaları, ilgili gümrük müşaviri tarafından bir hafta içinde gümrük müşavirleri derneğine",
+     "kaynakta_yok": true,
+     "not": "Ek-82 ceza tablosu kaynakta yok; kesit yalnız bildirim yükümlülüğünü (bir hafta) gösterir, ceza katı resmî cevaptan."
+    },
+    {
+     "hap": "Tarife unsurlarında veya sayı-ağırlık gibi ölçülerde aykırılık ve vergi farkı **%5'i aşarsa** ithalat vergilerinden ayrı olarak farkın **üç katı** para cezası alınır.",
+     "yillar": [
+      "2023/33"
+     ],
+     "dayanak": "GK 234/1-a",
+     "tuzak": "Bir, beş, sekiz veya on kat değil.",
+     "kanit": "48-cezalar.txt | muayene sonuçlarına göre alınması gereken ithalat vergileri arasındaki fark % 5'i aştığı takdirde, ithalat vergilerinden[245] ayrı olarak bu farkın üç katı para cezası alınır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Vergiden muaf eşyayı kapı dışından veya gümrük işlemi yaptırmadan sokan/çıkaran ya da buna **teşebbüs** edene ithalatta **CIF**, ihracatta **FOB değerinin onda biri** para cezası verilir.",
+     "yillar": [
+      "2023/60"
+     ],
+     "dayanak": "GK 239/1",
+     "tuzak": "5607'deki hapis/adli para cezası veya gümrüklenmiş değer katı uygulanmaz.",
+     "kanit": "48-cezalar.txt | söz konusu eşyanın ithalata konu olması halinde, CIF değerinin, ihracata konu olması halinde ise FOB değerinin onda biri oranında para cezası alınır.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "Gümrük vergileri alacağına bağlı İPC'lerin zamanaşımı bu **vergilerin zamanaşımına** tabidir: gümrük yükümlülüğünün doğduğu tarihten itibaren **3 yıl**.",
+     "yillar": [
+      "2024/82"
+     ],
+     "dayanak": "GK 231/2; Tahsilat Tebliği 9/1",
+     "tuzak": "Süre tebliğ tarihinden başlamaz; 1 veya 5 yıl değil.",
+     "kanit": "48-cezalar.txt | Gümrük vergileri alacağına bağlı idari para cezalarının zamanaşımı, bu idari para cezalarına ilişkin gümrük vergilerinin zamanaşımına tabidir.",
+     "kaynakta_yok": false,
+     "not": "3 yıl: 45-tebliğ.txt 'Gümrük yükümlülüğünün doğduğu tarihten itibaren üç yıl içinde tahakkuk ettirilmeyen gümrük vergileri' (Tahsilat Tebliği md. 9)."
+    },
+    {
+     "hap": "**Genel yönetim** kapsamındaki kamu idarelerine 234'teki vergi kaybı cezaları uygulanmaz; bunun yerine **241/1** usulsüzlük cezası (2025 için **1.191 TL**) verilir.",
+     "yillar": [
+      "2025/32"
+     ],
+     "dayanak": "GK 234/4",
+     "tuzak": "Vergi farkının üç katı veya bunun %10'u (300 TL) hesaplanmaz.",
+     "kanit": "48-cezalar.txt | Genel yönetim kapsamındaki kamu idareleri için yukarıda belirtilen cezalara ilişkin hükümler uygulanmaz. Bu gibi hallerde, 241 inci maddenin birinci fıkra hükmüne göre işlem yapılır.",
+     "kaynakta_yok": false,
+     "not": "1.191 TL tutarı kaynakta yok; resmî cevaptan."
+    },
+    {
+     "hap": "İthali yasak (235/1-a) eşya yükümlü talebiyle **otuz gün** içinde mahrecine iade veya ilgili kurumun uygun görüşüyle **doğrudan üçüncü ülkeye transit** edilir; edilmezse terk edilir.",
+     "yillar": [
+      "2025/43"
+     ],
+     "dayanak": "GK 235/4-a",
+     "tuzak": "7, 10, 15 veya 60 gün değil.",
+     "kanit": "48-cezalar.txt | Birinci fıkranın (a) bendinde belirtilen eşya, yükümlü talebi doğrultusunda otuz gün içinde mahrecine iade ya da ilgili kurum ya da kuruluşun uygun görüşü ile doğrudan üçüncü ülkeye transit edilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "**Dahilde işleme**, **gümrük kontrolü altında işleme** ve **geçici ithalat** rejimi ihlallerinde (241'deki süre aşımı hâlleri hariç) **gümrüklenmiş değerin iki katı** İPC verilir.",
+     "yillar": [
+      "2025/95"
+     ],
+     "dayanak": "GK 238/1-a",
+     "tuzak": "Gümrük vergilerinin bir, iki veya dört katı ya da gümrüklenmiş değerin yarısı değil.",
+     "kanit": "48-cezalar.txt | Dahilde işleme rejimi, gümrük kontrolü altında işleme rejimi ile geçici ithalat rejimine ilişkin hükümlerin ihlali hâlinde, eşyanın gümrüklenmiş değerinin iki katı,",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "2021–2025'te 20 soru (2021: 0, 2022: 5, 2023: 6, 2024: 5, 2025: 4); her yıl 4–6 soruyla istikrarlı, ağırlık 241'deki usulsüzlük cezası katları ile 235–238'deki gümrüklenmiş değer katlarında. Kıymet/miktar farkı ve DİR oranları (234/1-b-c, 234/2), tespit öncesi bildirimde %10, özet beyan (237), transit ve rejim süre aşımı kademeleri, muhbir payı, yanlış izahat ve 241/1'e ilişkin 2026 AYM kararı hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Mülkiyetinin kamuya geçirilmesine karar verilen eşya **bulunamazsa**, kaim değer olarak eşyanın **gümrüklenmiş değerinin** kamuya geçirilmesine karar verilir.",
+     "dayanak": "GK 231/4",
+     "neden": "sorulmamış hüküm (07.11.2019 eklendi)",
+     "kanit": "48-cezalar.txt | Mülkiyetinin kamuya geçirilmesine karar verilen eşyanın bulunamaması hâlinde kaim değer olarak eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir."
+    },
+    {
+     "hap": "Gümrük idaresi yükümlüye **yazıyla yanlış izahat** verirse **idari para cezası ve faiz** uygulanmaz; tarife-menşe tespitine ilişkin talepler kapsam dışıdır ve izahat **itiraza konu olmaz**.",
+     "dayanak": "GK 231/5; GY 580/A-1, 2-g, 9",
+     "neden": "sorulmamış hüküm",
+     "kanit": "48-cezalar.txt | Gümrük idaresi tarafından yükümlüye yazı ile yanlış izahat verilmiş olması hâlinde bu Kısım hükümlerine göre idari para cezası ve faiz uygulanmaz. ... Talebin tarife ve menşe tespitine ilişkin olmaması. ... İzahat, karar niteliği taşımaz ve itiraza konu olmaz."
+    },
+    {
+     "hap": "İdari yaptırım kararlarını **gümrük idare amirleri veya yardımcıları** verir; tahsil edilen İPC'nin **%15'i**, cezayı muayene ve tahlilden önce ortaya çıkaran **muhbire** ödenir.",
+     "dayanak": "GK 232/3, 233/1",
+     "neden": "sorulmamış makam/oran",
+     "kanit": "48-cezalar.txt | Bu Kanun uyarınca idari yaptırım kararları gümrük idarelerinin amirleri veya yardımcıları tarafından verilir. ... Bu Kanuna göre tahsil edilen idari para cezalarının yüzde onbeşi nispetinde bir tutar, varsa muayene ve tahlilden önce cezayı gerektiren durumun ortaya çıkarılmasını sağlayacak muhbirlere"
+    },
+    {
+     "hap": "Kıymeti noksan beyan edilen eşyada vergi farkının **üç katı**; satış birimine göre **%5'i geçmeyen** miktar farkı ve **maddi hesap hatasında** ise vergi farkının **yarısı** para cezası alınır.",
+     "dayanak": "GK 234/1-b, c",
+     "neden": "sorulmamış oran (2023/33'te yalnız tarife farkı soruldu)",
+     "kanit": "48-cezalar.txt | bu noksanlığa ait ithalat vergilerinden[247] başka vergi farkının üç katı para cezası alınır. ... Satış birimine göre miktar itibarıyla % 5'i geçmeyen bir fark ile maddi hesap hatasından doğan noksan kıymet beyanlarında, bu farklara ait ithalat vergilerinden[248] başka vergi farkının yarısı tutarında para cezası alınır."
+    },
+    {
+     "hap": "**Dahilde işleme**, **GKAİ** ve **tam muafiyetli geçici ithalat** eşyasında tarife, ölçü veya kıymet farkı tespit edilirse **vergi farkının yarısı** idari para cezası verilir.",
+     "dayanak": "GK 234/2",
+     "neden": "sorulmamış oran (07.11.2019 değişikliği)",
+     "kanit": "48-cezalar.txt | Dahilde işleme rejimi, gümrük kontrolü altında işleme rejimi ve tam muafiyet suretiyle geçici ithalat rejimi hükümlerine tabi eşyaya ilişkin olarak yapılan beyan ile muayene ve denetleme veya teslimden sonra kontrol sonucunda; birinci fıkrada belirtilen farklılıkların tespiti durumunda vergi farkının yarısı tutarında idari para cezası verilir."
+    },
+    {
+     "hap": "234 ve 235/1-2'deki aykırılıklar gümrük idaresi tespit etmeden önce **beyan sahibince bildirilirse** cezalar **yüzde on** oranında uygulanır.",
+     "dayanak": "GK 234/3, 235/6",
+     "neden": "sorulmamış oran (2025/32'de yalnız çeldirici olarak geçti)",
+     "kanit": "48-cezalar.txt | Yukarıda belirtilen aykırılıkların gümrük idaresince tespit edilmesinden önce beyan sahibince bildirilmesi durumunda söz konusu cezalar yüzde on[250] nisbetinde uygulanır. ... Birinci ve ikinci fıkralarda belirtilen aykırılıkların gümrük idaresi tarafından tespit edilmesinden önce beyan sahibi tarafından bildirilmesi durumunda bu fıkralara göre hesaplanan cezalar yüzde on oranında uygulanır."
+    },
+    {
+     "hap": "İthali yasak eşya değersiz/artık/atıksa İPC dökmede ton başına **30.000 TL**, ambalajlıda kap başına **600 TL**; izne tabi eşyada ton **8.000 TL**, kap **200 TL** olup eşya yurt dışı edilir.",
+     "dayanak": "GK 235/1-b, d",
+     "neden": "sorulmamış sayısal hüküm",
+     "kanit": "48-cezalar.txt | dökme halinde gelen eşya için ton başına otuz bin Türk Lirası, ambalajlı gelmesi halinde kap başına altı yüz Türk Lirası olarak hesaplanır ve eşya yurtdışı edilir. ... dökme halinde gelen eşya için ton başına sekiz bin Türk Lirası, ambalajlı gelmesi halinde kap başına iki yüz Türk Lirası olarak hesaplanır ve eşya yurtdışı edilir."
+    },
+    {
+     "hap": "İhracı izne tabi eşya izinsiz/izin alınmış gibi beyan edilirse **gümrüklenmiş değerin onda biri** İPC verilir; Bakanlıkça belirlenen sürede belge düzenlenirse yalnız **241/1** cezası uygulanır.",
+     "dayanak": "GK 235/2-b, c; 235/1-e",
+     "neden": "sorulmamış oran (07.11.2019 değişikliği)",
+     "kanit": "48-cezalar.txt | gümrüklenmiş değerinin onda biri kadar idari para cezası verilir. ... Bakanlıkça belirlenecek süre içerisinde, (b) bendinde belirtilen eşyanın ihracının uygun bulunduğuna ilişkin belge veya bilginin düzenlenmesi veya ilgili kurum veya kuruluş tarafından gerçekleştirilen denetimin olumlu sonuçlandığının bildirilmesi hâlinde 241 inci maddenin birinci fıkrası uyarınca idari para cezası verilir."
+    },
+    {
+     "hap": "Yolcunun kişisel/hediyelik kapsamı dışında **beyanına aykırı** çıkan eşyasının gümrük vergileri **iki kat** alınır ve eşya teslim edilir; ödenmezse eşya gümrüğe **terk edilmiş** sayılır.",
+     "dayanak": "GK 235/3",
+     "neden": "sorulmamış hüküm",
+     "kanit": "48-cezalar.txt | eşyanın gümrük vergileri iki kat olarak alınır ve eşya sahibine teslim edilir. Gümrük vergileri ödenmediği takdirde, eşya gümrüğe terk edilmiş sayılır."
+    },
+    {
+     "hap": "Transit eşyası varışta **eksik** çıkarsa vergiler alınır ve vergilerin **iki katı**, **fazla** çıkarsa vergiler **kadar** İPC verilip fazla eşya tasfiye edilir.",
+     "dayanak": "GK 235/5-c, d",
+     "neden": "sorulmamış oran",
+     "kanit": "48-cezalar.txt | Beyana göre eksik olduğunun tespit edilmesi hâlinde, eksik çıkan eşyaya ilişkin gümrük vergilerinin alınmasının yanı sıra eşyanın gümrük vergilerinin iki katı idari para cezası verilir. ... Beyana göre fazla olduğunun tespit edilmesi hâlinde, fazla çıkan eşyanın gümrük vergileri kadar idari para cezası verilir ve fazla çıkan eşya 177 ila 180 inci madde hükümlerine göre tasfiyeye tabi tutulur."
+    },
+    {
+     "hap": "Antrepodan izinsiz eşya çıkarma/değiştirme veya sayımda **noksanlıkta**, teminat olsa bile vergiler + **gümrüklenmiş değerin iki katı**; gümrüksüz mağazadan hak sahibi olmayana satışta vergiler + **üç katı** ceza verilir.",
+     "dayanak": "GK 236/1, 236/4",
+     "neden": "sorulmamış oran",
+     "kanit": "48-cezalar.txt | Teminat alınmış olsa bile, gümrük işlemlerine başlanmadan veya bu işlemler bitirilip gümrük idaresinin izni alınmadan ... bu eşyanın gümrük vergilerinin yanı sıra gümrüklenmiş değerinin iki katı idari para cezası verilir. ... Gümrüksüz satış mağazalarından hak sahibi olmayanlara satış yapılması halinde satışa konu eşyaya, hak sahibi olmakla birlikte limit üstü satış yapılması halinde de limit üstü eşyaya ait ithalat vergilerinin yanı sıra bu vergilerin üç katı para cezası verilir."
+    },
+    {
+     "hap": "Özet beyana göre **noksan kap** kanıtlanamazsa vergileri kadar (hesaplanamazsa kap başına 241/1) ceza; **fazla kap** kanıtlanamazsa eşya kamuya geçer, tasfiye edilir ve **CIF kıymeti** kadar ceza alınır.",
+     "dayanak": "GK 237/1-3",
+     "neden": "sorulmamış hüküm",
+     "kanit": "48-cezalar.txt | noksan her kap için 241 inci maddenin 1 inci fıkrasında belirlenen miktarda para cezası alınır. ... söz konusu eşyaya el konularak mülkiyetinin kamuya geçirilmesine karar verilir, 177 ila 180 inci madde hükümlerine göre tasfiyeye tabi tutulur[266] ve eşyanın CIF kıymeti kadar para cezası alınır."
+    },
+    {
+     "hap": "Tam muafiyetle geçici ithal edilen **özel kullanıma mahsus taşıtlarda** rejim ihlali cezası **gümrük vergilerinin dörtte biri**dir.",
+     "dayanak": "GK 238/1-b",
+     "neden": "sorulmamış oran (2025/95'te genel kural soruldu)",
+     "kanit": "48-cezalar.txt | Tam muafiyet suretiyle geçici olarak ithal edilen özel kullanıma mahsus taşıtlara ilişkin rejim ihlallerinde, gümrük vergileri tutarının dörtte biri,"
+    },
+    {
+     "hap": "Karayolu transit taşıtı süreyi **24 saate** kadar aşarsa **iki**, **48 saate** kadar **dört**, **72 saate** kadar **altı**, 72 saatten fazla aşarsa **sekiz kat** usulsüzlük cezası uygulanır.",
+     "dayanak": "GK 241/3-e, 4-d, 5-a, 6-c",
+     "neden": "sorulmamış kademeli süre",
+     "kanit": "48-cezalar.txt | 91 inci maddeye göre verilen süreleri yirmidört saate kadar aşması ... 91 inci maddeye göre verilen süreleri kırksekiz saate kadar aşması ... 91 inci maddeye göre verilen süreleri yetmişiki saate kadar aşması ... 91 inci maddeye göre verilen süreleri yetmişiki saatten daha fazla bir süre ile aşması"
+    },
+    {
+     "hap": "DİR/GKAİ ve geçici ithalatta süre bitiminden sonra **bir ay** içinde işlem **iki kat**, **iki ayı** aşmayan sürede **dört kat**, geçici ithal **taşıtlarda üç ayı** aşmayan sürede **altı kat** usulsüzlük cezasıdır.",
+     "dayanak": "GK 241/3-h, l; 4-g, h; 5-b",
+     "neden": "sorulmamış kademeli süre (2024/32'de yalnız 3-m soruldu)",
+     "kanit": "48-cezalar.txt | Geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine getirilen eşyanın verilen sürenin bitimini takiben bir ay içerisinde yeniden ihraç edilmesi ... Geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine getirilen eşyanın verilen sürenin bitimini takiben iki ayı aşmayan sürede yeniden ihraç edilmesi ... Geçici ithalat rejimi kapsamında Türkiye Gümrük Bölgesine getirilen taşıtlara verilen sürenin bitimini takiben üç ayı aşmayan sürede yeniden ihraç edilmesi"
+    },
+    {
+     "hap": "Yazılı istenen bilgi-belgeler ile **beş yıl** saklanması gereken belgelerin kontrolde ibraz edilmemesi ve yabancı plakalı taşıtı bırakıp **taşıtsız yurt dışına çıkış** **sekiz kat** usulsüzlük cezası gerektirir.",
+     "dayanak": "GK 241/6-d, e",
+     "neden": "sorulmamış hüküm (6-e 09.11.2022 eklendi)",
+     "kanit": "48-cezalar.txt | 13 üncü madde hükmü uyarınca beş yıl süreyle saklanması gereken belgelerin gümrük kontrolü sırasında ibraz edilmemesi. ... Geçici ithalat rejimi kapsamında kişisel kullanıma mahsus yabancı plakalı taşıtları Türkiye Gümrük Bölgesine getiren hak sahipleri tarafından gümrük idaresine bilgi verilmeden taşıtsız yurt dışına çıkılması."
+    },
+    {
+     "hap": "Bakanlıkça 218/3 uyarınca belirlenen **azami bedellere** uyulmazsa **her işlem için 5.000 TL** usulsüzlük cezası uygulanır.",
+     "dayanak": "GK 241/7",
+     "neden": "sorulmamış sayısal hüküm",
+     "kanit": "48-cezalar.txt | Bu Kanunun 218 inci maddesinin üçüncü fıkrası uyarınca Bakanlıkça belirlenen azami bedellere uyulmaması halinde her bir işlem için beş bin Türk lirası usulsüzlük cezası uygulanır."
+    },
+    {
+     "hap": "241/1 usulsüzlük cezası, Kanunda ayrı ceza öngörülen hâller saklı kalmak üzere, aykırılığın düzenlemelerde **açıkça öngörülmüş** olması kaydıyla uygulanır.",
+     "dayanak": "GK 241/1",
+     "neden": "son değişiklik: AYM 26.03.2026 tarih ve E:2025/269 K:2026/72 sayılı karar notu",
+     "kanit": "48-cezalar.txt | Bu Kanunda ayrı bir ceza tayin edilmiş haller saklı kalmak üzere, bu Kanuna (…)[276] aykırı hareket edenlere söz konusu düzenlemelerde açıkça öngörülmüş olması kaydıyla altmış TL[277] usulsüzlük cezası uygulanır. ... (Anayasa Mahkemesinin 26.03.2026 tarih ve E:2025/269 K:2026/72 sayılı Kararı)"
+    }
+   ]
+  },
+  {
+   "konu": "İtiraz",
+   "sinif": "AZ",
+   "cikmis_hap": [
+    {
+     "hap": "Yükümlüler tebliğ edilen gümrük vergileri, cezalar ve idari kararlara karşı tebliğden itibaren **on beş gün** içinde **bir üst makama** (yoksa aynı makama) dilekçeyle itiraz eder.",
+     "yillar": [
+      "2022/66",
+      "2024/95"
+     ],
+     "dayanak": "GK 242/1; GY 585/1",
+     "tuzak": "7, 10, 19, 20, 25, 30 veya 45 gün değil.",
+     "kanit": "49-itirazlar.txt | tebliğ tarihinden itibaren onbeş gün içinde bir üst makama, üst makam yoksa aynı makama verecekleri bir dilekçe ile itiraz edebilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    },
+    {
+     "hap": "İdareye intikal eden itirazlar **otuz gün** içinde karara bağlanarak ilgiliye tebliğ edilir.",
+     "yillar": [
+      "2023/77"
+     ],
+     "dayanak": "GK 242/2; GY 586/1",
+     "tuzak": "'60 gün içinde karara bağlanır' yazılmıştı (yanlış).",
+     "kanit": "49-itirazlar.txt | İdareye intikal eden itirazlar otuz gün içinde karara bağlanarak ilgili kişiye tebliğ edilir.",
+     "kaynakta_yok": false,
+     "not": ""
+    }
+   ],
+   "beklenen_neden": "3 soru (2022, 2023, 2024; 2025'te yok) ve hepsi 15 günlük itiraz ile 30 günlük karar süresini ölçtü. Yanlış makama başvuru, idari yargı yolu, kimyevi tahlile itiraz ve ikinci tahlil, itiraz sonuçlanmadan eşyanın çekilmesi (587, 03.01.2023 değişikliği) hiç sorulmadı.",
+   "beklenen_hap": [
+    {
+     "hap": "Süresinde **yanlış makama** verilen itiraz dilekçesi **süresinde yapılmış** sayılıp yetkili makama iletilir; itirazın reddine karşı işlemin yapıldığı yerdeki **idari yargı** mercilerine başvurulur.",
+     "dayanak": "GK 242/3-4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "49-itirazlar.txt | İtiraz dilekçelerinin süresi içinde yanlış makama verilmesi halinde, itiraz süresinde yapılmış sayılır ve idarece yetkili makama ulaştırılır. ... İtirazın reddi kararlarına karşı işlemin yapıldığı yerdeki idari yargı mercilerine başvurulabilir."
+    },
+    {
+     "hap": "Vergi hesabına esas **kimyevi tahlil** sonucuna tebliğden itibaren **on beş gün** içinde **gümrük ve muhafaza başmüdürlüğüne** yazılı itiraz edilir; **ikinci tahlil** sonucu kesindir.",
+     "dayanak": "GK 243/1, 3",
+     "neden": "sorulmamış süre/makam",
+     "kanit": "49-itirazlar.txt | kimyevi tahlil sonuçlarına karşı tebliğden itibaren onbeş gün içinde gümrük ve muhafaza başmüdürlüğüne[293] yazılı olarak itiraz edilebilir. ... İkinci tahlil sonucu, eşyanın teknik özelliklerinin ve niteliklerinin belirlenmesi yönünden kesindir."
+    },
+    {
+     "hap": "İkinci tahlili ilk tahlili yapan dışındaki **iki kimyager** yapar; yükümlü isterse gümrük kimyageri olmayan **gözlemci kimyager** bulunur, gelmezse tahlil **gıyabında** yapılır.",
+     "dayanak": "GK 243/2; GY 589/1-a, b",
+     "neden": "sorulmamış hüküm",
+     "kanit": "49-itirazlar.txt | birinci tahlilin yapıldığı gümrük laboratuarında görevli olan ve ilk tahlili yapan kimyager dışındaki iki kimyager tarafından ikinci tahlil yapılır. ... Gözlemci kimyager yapılan duyuruya rağmen gelmediği takdirde tahlil gıyabında yapılır."
+    },
+    {
+     "hap": "İtiraz süresinde yapılmış ve eşya örnekleri hâlâ gümrükteyse ikinci tahlil için **numune başına 2.330 TL** ücret alınır.",
+     "dayanak": "GY 588/1-c",
+     "neden": "sorulmamış sayısal hüküm",
+     "kanit": "49-itirazlar.txt | ikinci tahlil için numune başına 2.330 TL  ücret alınır."
+    },
+    {
+     "hap": "İtirazın süresinde olup olmadığında **taahhütlü postada postaya veriliş**, diğer posta veya elden başvuruda gümrük idaresinin **kayda giriş** tarihi esas alınır.",
+     "dayanak": "GY 585/4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "49-itirazlar.txt | Taahhütlü olarak posta yolu ile yapılacak itirazlarda, itiraz dilekçesinin postaya verildiği tarih, ... itiraz dilekçesinin itirazın yapıldığı gümrük idaresinin kaydına giriş tarihi,"
+    },
+    {
+     "hap": "**Düşük kıymet** şüphesiyle araştırmada vergi farkı teminata bağlanarak eşya itiraz sonuçlanmadan çekilebilir; araştırma **bir yılda** sonuçlanmazsa işlem mevcut verilere göre sonuçlandırılır.",
+     "dayanak": "GY 587/1-d, 587/3",
+     "neden": "son değişiklik: 03.01.2023 (587/1-d eklendi)",
+     "kanit": "49-itirazlar.txt | Düşük kıymet beyanı şüphesiyle kıymet araştırması yapılan hallerde yükümlünün beyanına göre yapılan vergi tahakkukları ile gümrük idaresince tahakkuk ettirilen bütün vergiler arasındaki farkın teminata bağlanması. (03.01.2023 / 32062 sayılı R.G. ile eklenmiştir) ... araştırmanın bu maddenin uygulanmasının talep edildiği tarihten itibaren bir yılda sonuçlanmaması halinde, gümrük idaresinde mevcut verilere göre işlem sonuçlandırılır."
+    }
+   ]
+  },
+  {
+   "konu": "Uzlaşma",
+   "sinif": "HİÇ",
+   "cikmis_hap": [],
+   "beklenen_neden": "2021–2025'te doğrudan soru yok; yalnız 2023/77'de '15 gün içinde uzlaşma talebi' doğru şık olarak geçti. İtirazla aynı kısımda yer alması, süreyi durdurma kuralı ve 18.06.2026'da güncellenen 7.000.000 TL komisyon yetki sınırı ilk sorunun bu alt başlıklardan gelebileceğini gösteriyor.",
+   "beklenen_hap": [
+    {
+     "hap": "Uzlaşma talebi **itiraz/dava açma süresini durdurur**; uzlaşma olmazsa süre kaldığı yerden işler, bitime **beş günden az** kalmışsa **beş güne** tamamlanır; **yeniden uzlaşma** istenemez.",
+     "dayanak": "GK 244/1; Uzlaşma Yön. 14/1, 22/3",
+     "neden": "sorulmamış hüküm (2023/77'de yalnız 15 günlük başvuru süresi doğru şık olarak geçti)",
+     "kanit": "50-uzlaşma.txt | Uzlaşma talebinde bulunulması hâlinde, itiraz veya dava açma süresi durur, uzlaşmanın vaki olmaması veya temin edilememesi hâlinde süre kaldığı yerden işlemeye başlar, ancak sürenin bitimine beş günden az kalmış olması hâlinde süre beş güne tamamlanır. Uzlaşmanın vaki olmaması veya temin edilememesi hâlinde yeniden uzlaşma talebinde bulunulamaz."
+    },
+    {
+     "hap": "Fiil **5607 kaçakçılık suçlarıyla** ilişkiliyse uzlaşma uygulanmaz; **mülkiyetin kamuya geçirilmesi** kararları uzlaşmaya konu olmaz, ancak o eşyanın vergi ve cezaları olabilir.",
+     "dayanak": "GK 244/2; Uzlaşma Yön. 6/4, 6/7",
+     "neden": "sorulmamış şart",
+     "kanit": "50-uzlaşma.txt | Gümrük vergileri ve cezalarına ilişkin fiilin, 5607 sayılı Kanunda yer alan kaçakçılık suçları ile ilişkili olması hâlinde bu madde hükmü uygulanmaz. ... Eşyanın mülkiyetinin kamuya geçirilmesine ilişkin kararlar uzlaşmaya konu edilmez. Ancak, mülkiyetin kamuya geçirilmesine karar verilen eşya ile ilgili gümrük vergileri ve para cezaları uzlaşmaya konu edilebilir."
+    },
+    {
+     "hap": "Uzlaşma komisyonu çalışmaları **gizlidir**; uzlaşma tutanakları **kesindir**, yükümlü uzlaşılan hususlar için **dava açamaz** ve hiçbir mercie şikâyette bulunamaz.",
+     "dayanak": "GK 244/4",
+     "neden": "sorulmamış hüküm",
+     "kanit": "50-uzlaşma.txt | Gümrük uzlaşma komisyonlarının çalışmaları gizlidir. Uzlaşma tutanakları kesin olup gereği idarece derhal yerine getirilir. Vergi yükümlüsü veya ceza muhatabı, üzerinde uzlaşılan ve tutanakla tespit olunan hususlar hakkında dava açamaz ve hiçbir mercie şikâyette bulunamaz."
+    },
+    {
+     "hap": "Uzlaşılan vergi ve cezalar tutanağın tebliğinden itibaren **bir ay** içinde ödenir; vergilere **gecikme zammı oranında** gecikme faizi uygulanır, cezalarda **peşin ödeme indirimi** yoktur.",
+     "dayanak": "GK 244/5-6",
+     "neden": "sorulmamış süre",
+     "kanit": "50-uzlaşma.txt | Uzlaşılan gümrük vergileri ve cezalar, uzlaşma tutanağının tebliğinden itibaren bir ay içinde ödenir. ... 6183 sayılı Kanun hükümlerine göre belirlenen gecikme zammı oranında gecikme faizi uygulanır. ... Bu madde uyarınca üzerinde uzlaşılan cezalar hakkında 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 17 nci maddesi uyarınca ayrıca peşin ödeme indiriminden yararlanılamaz."
+    },
+    {
+     "hap": "Konusu **7.000.000 TL'ye kadar** (dâhil) olan uzlaşma başvurularında **Bölge Müdürlüğü**, aşanlarda **Merkezi Uzlaşma Komisyonları** yetkilidir; tutar tespitinde fer'i alacaklar dikkate alınmaz.",
+     "dayanak": "Uzlaşma Yön. 9/1, 9/5",
+     "neden": "son değişiklik: 18.06.2026 (33284 sayılı R.G.)",
+     "kanit": "50-uzlaşma.txt | konusu 7.000.000.- TL'ye[13] kadar olanlar (bu tutar dâhil) için Gümrük ve Dış Ticaret[14] Bölge Müdürlüğü Uzlaşma Komisyonları, 7.000.000.- TL'yi[15] aşanlar için ise Merkezi Uzlaşma Komisyonları yetkilidir. ... (18.06.2026 / 33284 sayılı R.G.) ... Birinci fıkrada belirtilen tutarların tespitinde fer'i alacaklar dikkate alınmaz."
+    },
+    {
+     "hap": "Komisyonlar başkan dâhil **üç üyeden** oluşur; bölgede **Bölge Müdürü** veya yardımcısı, merkezde **Bakan Yardımcısı** veya **Gümrükler Genel Müdürü** başkanlık eder; **10.000 TL'den az** talepler için toplanılmaz.",
+     "dayanak": "Uzlaşma Yön. 7/2, 7/3, 7/7",
+     "neden": "sorulmamış makam/sayı",
+     "kanit": "50-uzlaşma.txt | Bölge Müdürü tarafından belirlenen, Başkan dâhil, üç üyeden oluşur. Bölge Müdürü veya belirleyeceği Bölge Müdür Yardımcısı komisyonlara başkanlık eder. ... Komisyonlara, Bakan Yardımcısı veya Gümrükler Genel Müdürü başkanlık eder. ... 10.000 TL'den az olan uzlaşma talepleri için toplanamaz."
+    }
+   ]
+  },
+  {
+   "konu": "Silah-Mühimmat Tahsisi",
+   "sinif": "HİÇ",
+   "cikmis_hap": [],
+   "beklenen_neden": "2021–2025'te hiç sorulmadı; 5607 suçları nedeniyle el konulan silah-mühimmatın TSK, EGM, JGK ve SGK'ya tahsisini düzenleyen kısa yönetmelik süre (15 gün, 3/5 iş günü), komisyon yapısı ve makam bilgisi bakımından soruya elverişli. 2021/99'da 5607'ye bağlı yönetmelikler sorulduğundan bu yönetmelik liste veya makam sorusunda kullanılabilir.",
+   "beklenen_hap": [
+    {
+     "hap": "Terör/örgüt veya **5607** suçları nedeniyle el konulan silah, mühimmat, araç-gereç ve sarf malzemesi **TSK, EGM, JGK veya SGK**'ya tahsis edilir; Yönetmeliğin dayanağı **6136 sayılı Kanun Ek 12**'dir.",
+     "dayanak": "Tahsis Yön. 1/1, 2/1",
+     "neden": "hiç sorulmamış yönetmelik: kapsam ve dayanak",
+     "kanit": "milli_savunma_veya_ic_guvenlik_hizmetleriyle_dogrudan_ilgili_silah_muhimmat_arac_ve_gerec_ile_sarf_malzem.txt | Türk Silahlı Kuvvetleri, Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığına tahsis edilmesi ... 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunun Ek 12 nci maddesine dayanılarak hazırlanmıştır."
+    },
+    {
+     "hap": "Tahsise konu eşyada kriminal inceleme vb. işlemler ele geçirmeden itibaren **15 gün** içinde yapılır; güncel listeler **ayda bir** valilik kanalıyla **il jandarma komutanlığınca** bildirilir, talepler **3 iş günü** içinde iletilir.",
+     "dayanak": "Tahsis Yön. 4/1, 5/1",
+     "neden": "hiç sorulmamış süre/makam",
+     "kanit": "milli_savunma_veya_ic_guvenlik_hizmetleriyle_dogrudan_ilgili_silah_muhimmat_arac_ve_gerec_ile_sarf_malzem.txt | ele geçirme tarihinden itibaren, zorunlu haller haricinde, 15 gün içerisinde yerine getirilir. ... güncel listeler ayda bir valilik kanalıyla il jandarma komutanlığınca; garnizon komutanlığı, emniyet müdürlüğü ve sahil güvenlik komutanlığına bildirilir. Kurumlar tarafından tahsis talepleri bildirim tarihini müteakip 3 iş günü içerisinde Komisyona iletilir."
+    },
+    {
+     "hap": "Tahsis komisyonu **il valisi** başkanlığında garnizon komutanı, emniyet müdürü, jandarma komutanı, sahil güvenlik komutanı ve sorumlu vali yardımcısından oluşur; sekretarya **il jandarma komutanlığındadır**.",
+     "dayanak": "Tahsis Yön. 6/1",
+     "neden": "hiç sorulmamış makam",
+     "kanit": "milli_savunma_veya_ic_guvenlik_hizmetleriyle_dogrudan_ilgili_silah_muhimmat_arac_ve_gerec_ile_sarf_malzem.txt | İl valisinin başkanlığında, garnizon komutanı, emniyet müdürü, jandarma komutanı, sahil güvenlik komutanı ve sorumlu vali yardımcısından oluşan tahsis komisyonu kurulur. Komisyon sekretaryası il jandarma komutanlığınca yürütülür."
+    },
+    {
+     "hap": "Komisyon, listedeki eşyaya ilişkin talep ulaştıktan sonra en geç **5 iş günü** içinde, bir olayda çok sayıda eşya ele geçirilmişse en geç **3 iş günü** içinde toplanıp karar verir.",
+     "dayanak": "Tahsis Yön. 6/3, 5/2",
+     "neden": "hiç sorulmamış süre",
+     "kanit": "milli_savunma_veya_ic_guvenlik_hizmetleriyle_dogrudan_ilgili_silah_muhimmat_arac_ve_gerec_ile_sarf_malzem.txt | Listede yer alan eşyayla ilgili talepler Komisyona ulaştıktan sonra en geç 5 iş günü içinde Komisyon toplanır ve karar verir. ... Bu kapsamda yapılan tahsis talebi Komisyona ulaştıktan sonra en geç 3 iş günü içinde Komisyon toplanır ve karar verir."
+    },
+    {
+     "hap": "Tahsis talebini **Vali**, **Cumhuriyet başsavcılığı aracılığıyla** hâkim veya mahkemeden yapar; kabul/ret kararına Vali, Cumhuriyet savcısı ve dosyanın tarafları **itiraz** edebilir.",
+     "dayanak": "Tahsis Yön. 7/1, 8/2",
+     "neden": "hiç sorulmamış makam",
+     "kanit": "milli_savunma_veya_ic_guvenlik_hizmetleriyle_dogrudan_ilgili_silah_muhimmat_arac_ve_gerec_ile_sarf_malzem.txt | ilgili Vali tarafından derhâl hâkim veya mahkemeden Cumhuriyet başsavcılığı aracılığıyla tahsis talebinde bulunulur. ... Hâkim veya mahkeme tarafından verilen tahsis talebinin kabulü veya reddi kararlarına karşı talepte bulunan Vali, Cumhuriyet savcısı ve dosyanın tarafları itiraz edebilir."
+    },
+    {
+     "hap": "Tahsisli eşya **müsadere** edilirse tahsis edilen kurumun malı olur; **iade** kararında rayiç değer taşınır mal yönetmeliği usulüyle belirlenir ve bedel **kurum bütçesinden** sahibine ödenir.",
+     "dayanak": "Tahsis Yön. 10/2, 11/1-2",
+     "neden": "hiç sorulmamış hüküm",
+     "kanit": "milli_savunma_veya_ic_guvenlik_hizmetleriyle_dogrudan_ilgili_silah_muhimmat_arac_ve_gerec_ile_sarf_malzem.txt | Müsadere kararı verilmesi halinde tahsis edilen eşya tahsis edilen kurumun malı olarak işlem görür. ... Tahsis yapılan kurum tarafından rayiç değer üzerinden belirlenen bedel, kurum bütçesinden karşılanmak suretiyle eşya sahibine ödenir."
+    }
+   ]
+  }
+ ]
+}
