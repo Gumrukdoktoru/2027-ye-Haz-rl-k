@@ -4,7 +4,7 @@ Kaynak: `/home/user/gumrukdoktoru/2027gmynot/`
 
 ## 1. Kanıt alıntıları (gümrük soruları)
 
-- birebir: 793
+- birebir: 794
 - md karşılığı yok (5607 yönetmelik/kanun metni): 60
 - bağlantılı kelime düşmüş (hüküm aynı): 31
 - bulunamadı: 10
@@ -78,5 +78,13 @@ Bulunamayanlar (elle incelenir):
 - metin/: {'02.03.2026': 2, '03.01.2026': 3, '04.07.2026': 3, '06.02.2026': 6, '07.01.2026': 1, '11.10.2026': 1, '12.08.2026': 2, '14.08.2026': 2, '14.09.2026': 1, '18.06.2026': 5, '26.03.2026': 1}
 - Yalnız Markdown'da: yok
 
-## 4. Elle inceleme (11 Ekim 2026)
-“Bulunamadı” listesindeki alıntıların hepsi Markdown'da tek kelime eksiğiyle bulundu (ör. “aynı zamanda ödenir” → “aynı ödenir”, “gecikme faizi” → “gecikme”, “Onbirinci Kısımdaki cezai hükümlere” → “Onbirinci Kısımdaki göre”). Markdown dönüştürmesi bağlantılı kelimeleri düşürmüştür. Hüküm farkı yoktur. “Zayıf cümle” sayımı da aynı nedenden ve dipnot işaretlerinden kaynaklanır (örnek denetimde gerçek bir metin farkı bulunmadı).
+## 4. Elle inceleme (15 Ekim 2026, Deneme 11–15)
+“Bulunamadı” listesindeki alıntıların hepsi Markdown'da bağlantılı kelimeleri düşmüş biçimde bulundu. Örnekler:
+
+- “izleyecekleri yollar … düzenlemeler yapmaya” → “izleyecekleri , … yapmaya”
+- “Liman sahaları ve boğazlarda” → “Liman sahaları ve ”
+- “Ek-77/c'de yer alan” → “Ek- yer alan”
+- “Geçici İthalat Sözleşmesi hükümleri” → “Geçici İthalat hükümleri”
+- “tamamlayıcı beyanın verildiği tarihten” → “tamamlayıcı beyanın tarihten”
+
+Hüküm farkı yoktur. “Zayıf cümle” sayımı da aynı nedenden ve dipnot işaretlerinden kaynaklanır.

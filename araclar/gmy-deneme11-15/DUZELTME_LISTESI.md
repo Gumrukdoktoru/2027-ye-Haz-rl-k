@@ -120,3 +120,45 @@ Ayrıntılı bulgular `dogrulama/V1–V6.md` ve `dogrulama/S1–S2.md` dosyalar�
   - D12-024 ve D13-073: eski şıklardaki ceza değerleri başka fiile ait ya da yanlış çeldirici.
   - D11-023: devir ile elleçleme farklı hükümler.
   - D15-057: tarife bilgisi ile BTB farklı başvurular.
+
+## Son doğrulama S1 (genel kültür + K01–K05; değişen 55 soru)
+- **D11-026 (K01) — örtüşme:** V1'in koyduğu “üçgen trafik” tanımı, 2021/52'nin cevabıydı. Soru, hiç sorulmamış GK 3/5 “karar” deyimine taşındı.
+- **D14-022 (K02) — örtüşme:** Tanımdaki GY 53/3 unsuru GMY10-034'ün kökünde geçiyordu; bu unsur çıkarıldı.
+- **D13-031, D14-029, D15-047 — kök kuralı:** Kökler “Gümrük mevzuatına göre” yerine dayanak düzenlemelerin adıyla açıldı.
+- **D14-038 — kök kuralı:** Köke kurum kalıbındaki “aşağıdakilerden hangisi” ifadesi eklendi.
+- Bu altı düzeltmenin hiçbirinde cevap harfi değişmedi.
+
+## Son doğrulama S2 (K06–K15; değişen 44 soru)
+- **Kök kuralı (dayanak adları köke yazıldı):** D14-050, D15-081, D14-062, D13-077, D13-052, D15-065.
+- **Sızıntı:**
+  - D12-070: A çeldiricisi aynı denemedeki D12-042'nin cevap formülünü veriyordu; çeldirici değiştirildi ve kurgu GMY5-076'dan ayrıştırıldı.
+  - D12-042: açıklama, D12-070'in cevap kuralını veriyordu; o cümle değiştirildi.
+- **Belirsiz, D13-059:** “Gümrük müdürlüğünce” çeldiricisi aynı denemedeki D13-053 ile çelişik okunuyordu. Çeldirici “İhracatçı birliğince” yapıldı.
+- **D14-060:** Koordinatör düzeltmesi (GK 86/2) doğrulandı; tek doğru var ve örtüşme yok.
+
+## Koordinatör kararları (son doğrulama sonrası)
+- **D13-076:** Kök “Gümrük mevzuatına göre” ile açılıyordu. Dört dayanak (GK, GY, Uzlaşma Yönetmeliği, Tahsilat Tebliği Seri No: 2) köke yazıldı; öncüller anlamı değişmeden kısaltıldı (kök 783 karakter).
+- **D11-085, D11-086:** Tek dayanakları Asgari Ücret Tarifesine İlişkin Tebliğ olduğu için kök Tebliğ adıyla açıldı.
+- **“Gümrük mevzuatına göre” ile açılmaya devam eden 19 kök:** Bu kökler iki ya da daha fazla düzenlemeye dayanır; kurum bu kalıbı çok kaynaklı sorularda kullanır (2023: 7, 2025B: 6 soru). Kök uzunluk bandı da bütün adların yazılmasına izin vermediği için bırakıldı.
+- **D12-042 / D12-070 (ayna fıkralar):** Bırakıldı.
+  - D12-042 GK 235/5-b'yi (transit, belgeye tabi farklı eşya → gümrüklenmiş değerin iki katı) hesap sorusu olarak soruyor; 2022/70'in cevabı antrepo karşılığıdır (GK 236/5-b).
+  - Madde ve açı farklıdır. Cezalar alanında (GK 234, 235, 236/5, 241) kullanılmamış hüküm kalmamıştır: GK 235/4-c Deneme 3'te doğru ifade olarak, GK 234'ün bütün fıkraları Deneme 1–10'da geçer.
+  - İki soru arasındaki sızıntı S2'de giderildi.
+- **D13-053:** Bırakıldı. Cevabı belirleyen hüküm (Geçici İhracat Tebliği 17/1) eski sorularda yalnız gerekçede geçiyor. GMY6-030 (kiralama, 9/4) ve GMY10-068 (ekonomik gereklilik, 17/3) farklı hâllerdir. Taşıt hâlini soran GMY3-079 ile arasındaki fark (süre bitiminden sonra başvuru) sorunun ayırt edici noktasıdır.
+- **Kaynak karşılaştırması (`dogrulama/KAYNAK_MD.md`):**
+  - 837 alıntı parçasının 794'ü Markdown derlemede birebir bulundu.
+  - 33'ü biçim farkıyla ya da dönüştürmede düşmüş bağlantılı kelimeyle bulundu.
+  - 10 parça elle incelendi; hepsi bağlantılı kelimesi düşmüş biçimde var.
+  - Hüküm farkı yok.
+
+## Son durum
+- **Kontroller:**
+  - `kontrol.py`: 19 batch dosyasının hepsi TEMİZ.
+  - `ipucu_tara.py`: 0 aday.
+  - `ortusme_tara.py`: 5 aday sorunun hepsi incelendi, değişiklik gerekmedi (yukarıda).
+  - `merdiven_dengele.py`: strateji isabetleri en çok %19.
+- **Harf dağılımı:** Her denemede 21–100 arasında A 14 · B 16 · C 16 · D 17 · E 17; 1–20 arasında her harf 4; art arda aynı harf yok.
+- **Tip kotası:**
+  - Deneme 11, 14 ve 15'te birebir tuttu.
+  - Deneme 12'de T1 +1 / T3 −1 (71. soru) ve Deneme 13'te T3 −1 / T4 +1 (86. soru). Gerekçe: o alandaki sayısal hükümler Deneme 1–10'da ve çıkmışlarda tükenmiştir; ayrıntı çıktıdaki sapma notunda.
+- **Hafıza:** 500 satır eklendi; `URETIM-HAFIZASI.md` 1515 satıra çıktı.

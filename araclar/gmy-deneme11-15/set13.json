@@ -1077,7 +1077,7 @@
 "madde": "4458 sayılı Gümrük Kanunu m.41; Gümrük Yönetmeliği m.87/2, 87/3, 87/4, 87/6",
 "cek": "GY 87: GOİK öncesi inceleme ve numune alma, tahlil ve ekspertiz sorumluluk ve masrafları yükümlüye aittir; işlemler gümrük gözetiminde yapılır.",
 "kok": [
-"Gümrük mevzuatına göre, gümrüğe sunulan eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasından önce incelenmesi veya eşyadan numune alınmasına ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
+"Gümrük Yönetmeliğine göre, gümrüğe sunulan eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasından önce incelenmesi veya eşyadan numune alınmasına ilişkin aşağıdakilerden hangisi [[yanlıştır]]?"
 ],
 "d": "İnceleme, numune alma, tahlil ve ekspertize ilişkin sorumluluk ve masraflar gümrük idaresine aittir.",
 "c": [
@@ -1828,7 +1828,7 @@
 "madde": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1) m.4/3, 10/2, 10/9, 10/17; Gümrük Yönetmeliği m.463/1",
 "cek": "Posta-kargoyla konsinye ihracatta belirlenen muafiyet ve rejim koduyla proforma eklenir; giden dokümanda gönderici operatördür; kara yolu transitinde asıl sorumlu operatördür.",
 "kok": [
-"Posta ve hızlı kargo taşımacılığı yoluyla yapılan ihracata ilişkin gümrük mevzuatı hükümlerine göre aşağıdaki eşleştirmeler veriliyor:",
+"Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1) ile Gümrük Yönetmeliğine göre, posta ve hızlı kargo yoluyla yapılan ihracata ilişkin aşağıdaki eşleştirmeler veriliyor:",
 "1. Konsinye ihracatın basitleştirilmiş gümrük beyannamesiyle beyanı – Bakanlıkça belirlenen muafiyet kodu ile rejim kodu kullanılır ve proforma fatura eklenir",
 "2. Yetki kapsamında beyan edilen giden doküman gönderilerinde beyannamenin “gönderici” bilgisi – Dokümanı Türkiye'den gönderen kişinin bilgileri yazılır",
 "3. Kara yolu ile hızlı kargo taşımacılığıyla gönderilen eşyada, TIR Sözleşmesi hükümleri saklı kalmak üzere, ulusal ve ortak transit rejiminde asıl sorumlu – Eşyanın göndericisidir",
@@ -2088,19 +2088,19 @@
 ],
 "d": "Ticaret Bakanlığınca incelenir ve sonuçlandırılır",
 "c": [
-"Gümrük müdürlüğünce incelenir ve sonuçlandırılır",
+"İhracatçı birliğince incelenir ve sonuçlandırılır",
 "Bölge müdürlüğünce incelenir ve sonuçlandırılır",
 "Gümrük ve Muhafaza Başmüdürlüğünce incelenir ve sonuçlandırılır",
 "Cumhurbaşkanınca belirlenen hal ve şartlara göre sonuçlandırılır"
 ],
 "tuzak": false,
-"g": "Yönetmeliğe göre geri getirme süresi eşyanın fiilen ihraç edildiği tarihte başlar; üç yıllık süre doğal afet, iç karışıklık, abluka veya savaş hâli, resmî makamlarca getirilen yasaklar ya da eşyanın alıkonulması gibi mücbir sebep ve beklenmeyen hâllerle uzatılabilir ve bu konudaki özel ve zorunlu durumlar Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenir ve sonuçlandırılır. Gümrük müdürlüğü, bölge müdürlüğü veya başmüdürlük bu durumları sonuçlandırmaya yetkili kılınmamıştır; Cumhurbaşkanı ise Kanunda geri gelen eşya muafiyetine getirilecek istisnaların hal ve şartlarını belirler. (MD GY 452/1-2; GK 168/1)",
+"g": "Yönetmeliğe göre geri getirme süresi eşyanın fiilen ihraç edildiği tarihte başlar; üç yıllık süre doğal afet, iç karışıklık, abluka veya savaş hâli, resmî makamlarca getirilen yasaklar ya da eşyanın alıkonulması gibi mücbir sebep ve beklenmeyen hâllerle uzatılabilir; özel ve zorunlu durumlar ise Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenir ve sonuçlandırılır. Bölge müdürlüğü, Gümrük ve Muhafaza Başmüdürlüğü veya ihracatçı birliği bu durumları sonuçlandırmaya yetkili kılınmamıştır; Cumhurbaşkanı ise Kanunda geri gelen eşya muafiyetine getirilecek istisnaların hal ve şartlarını belirler. (MD GY 452/1-2; GK 168/1)",
 "kanit": "37-geri gelen eşya.txt | Geri getirilme süresinin başlangıcı eşyanın fiilen ihraç edildiği tarihtir || 37-geri gelen eşya.txt | Üç yıllık süre doğal afet, getirildiği ülkelerdeki ya da geçiş ülkelerindeki iç karışıklık, abluka veya savaş hali, resmi makamlarca getirilen yasaklar veya eşyanın alıkonulması gibi mücbir sebep ve beklenmeyen hallerle uzatılabilir. Özel ve zorunlu durumlar Müsteşarlıkça incelenir ve sonuçlandırılır",
 "batch": "K14",
 "no": 59,
 "harf": "B",
 "opts": [
-"Gümrük müdürlüğünce incelenir ve sonuçlandırılır",
+"İhracatçı birliğince incelenir ve sonuçlandırılır",
 "Ticaret Bakanlığınca incelenir ve sonuçlandırılır",
 "Bölge müdürlüğünce incelenir ve sonuçlandırılır",
 "Gümrük ve Muhafaza Başmüdürlüğünce incelenir ve sonuçlandırılır",
@@ -2108,7 +2108,7 @@
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Yönetmeliğe göre geri getirme süresi eşyanın fiilen ihraç edildiği tarihte başlar; üç yıllık süre doğal afet, iç karışıklık, abluka veya savaş hâli, resmî makamlarca getirilen yasaklar ya da eşyanın alıkonulması gibi mücbir sebep ve beklenmeyen hâllerle uzatılabilir ve bu konudaki özel ve zorunlu durumlar Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenir ve sonuçlandırılır. Gümrük müdürlüğü, bölge müdürlüğü veya başmüdürlük bu durumları sonuçlandırmaya yetkili kılınmamıştır; Cumhurbaşkanı ise Kanunda geri gelen eşya muafiyetine getirilecek istisnaların hal ve şartlarını belirler. Bu nedenle doğru cevap B seçeneğidir. (MD GY 452/1-2; GK 168/1)"
+"g_harfli": "Yönetmeliğe göre geri getirme süresi eşyanın fiilen ihraç edildiği tarihte başlar; üç yıllık süre doğal afet, iç karışıklık, abluka veya savaş hâli, resmî makamlarca getirilen yasaklar ya da eşyanın alıkonulması gibi mücbir sebep ve beklenmeyen hâllerle uzatılabilir; özel ve zorunlu durumlar ise Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenir ve sonuçlandırılır. Bölge müdürlüğü, Gümrük ve Muhafaza Başmüdürlüğü veya ihracatçı birliği bu durumları sonuçlandırmaya yetkili kılınmamıştır; Cumhurbaşkanı ise Kanunda geri gelen eşya muafiyetine getirilecek istisnaların hal ve şartlarını belirler. Bu nedenle doğru cevap B seçeneğidir. (MD GY 452/1-2; GK 168/1)"
 },
 {
 "id": "D13-060",
@@ -2705,11 +2705,11 @@
 "madde": "Gümrük Yönetmeliği m.507/1-b; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.33/5; Gümrük Uzlaşma Yönetmeliği m.21/3; 4458 sayılı Gümrük Kanunu m.194/1",
 "cek": "Uzlaşılan alacak için geri verme talebinde bulunulamaz; geri ödeme sisteminde Türk menşeli eşyanın tercihli ithalinde ödenmiş vergiler geri verilmez.",
 "kok": [
-"Gümrük mevzuatına göre geri verme veya kaldırma taleplerinin kabulüne ilişkin aşağıdaki ifadeler veriliyor:",
-"I. Kota dışındaki tercihli tarife düzenlemelerinde indirimli oranlı eşyaya ilişkin talep, esas vergi oranı yeniden belirlenmemişse kabul edilir.",
-"II. Üzerinde uzlaşılan ve tutanakla tespit edilen alacak için, kanunen ödenmemesi gerektiği ileri sürülerek geri verme talebinde bulunulabilir.",
-"III. Menşe ispat belgesi usulsüz düzenlendiği için telafi edici verginin geri verilmesinde, belge asıllarının iadesi ya da ithalatçı ülkeden resmî yazı aranır.",
-"IV. Geri ödeme sistemiyle elde edilen Türk menşeli eşyanın anlaşmaya taraf ülkeye tercihli ithalinde, bünyesindeki eşya için ödenmiş ithalat vergileri geri verilir.",
+"4458 sayılı Gümrük Kanunu, Gümrük Yönetmeliği, Gümrük Uzlaşma Yönetmeliği ve Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre geri verme ve kaldırmaya ilişkin şu ifadeler veriliyor:",
+"I. Kota dışı tercihli tarifede indirimli oranlı eşyaya ilişkin talep, esas vergi oranı yeniden belirlenmemişse kabul edilir.",
+"II. Uzlaşılıp tutanakla tespit edilen alacak için, kanunen ödenmemesi gerektiği ileri sürülerek geri verme istenebilir.",
+"III. Menşe ispat belgesi usulsüz olduğu için telafi edici vergi geri verilirken belge asıllarının iadesi ya da ithalatçı ülkenin resmî yazısı aranır.",
+"IV. Geri ödeme sistemiyle elde edilen Türk menşeli eşyanın taraf ülkeye tercihli ithalinde, bünyesindeki eşyanın ithalat vergileri geri verilir.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
 "d": "II ve IV",
@@ -2745,11 +2745,11 @@
 "madde": "Gümrük Yönetmeliği m.585/4-b, 586/1; Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) m.12/4, 12/5",
 "cek": "Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.",
 "kok": [
-"Gümrük mevzuatına göre gümrük idarelerine yapılan itirazlara ilişkin aşağıdaki ifadeler veriliyor:",
+"Gümrük Yönetmeliği ve Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2)'ye göre gümrük idarelerine yapılan itirazlara ilişkin;",
 "I. Doğrudan gümrük idaresine verilen itiraz dilekçesinde, itirazın süresinde yapılıp yapılmadığının tespitinde dilekçenin düzenlendiği tarih esas alınır.",
 "II. İtiraz otuz gün içinde karara bağlanamayacaksa, süre dolmadan yükümlüye süre aşımının gerekçeleri ile ek süre bildirilir.",
 "III. Kabahatler Kanunu uyarınca mahkemelerce verilen idari para cezalarına karşı Gümrük Kanunu uyarınca itiraz edilebilir ve uzlaşma talep edilebilir.",
-"IV. İtirazların karara bağlanmasında eşyadan örnek alınması mümkün değilse, eşyanın kendisi veya fotoğraf, katalog, prospektüs gibi eşyayı görmeden fikir verecek belgeler incelenebilir.",
+"IV. İtirazın karara bağlanmasında eşyadan örnek alınamıyorsa, eşyanın kendisi veya fotoğraf, katalog, prospektüs gibi eşyayı görmeden fikir verecek belgeler incelenebilir.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
 "d": "I ve III",

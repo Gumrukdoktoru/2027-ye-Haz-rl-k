@@ -75,7 +75,7 @@ ek = []
 kf = {t: ozet['tip_m'][t] - v for t, v in {'T1': 16, 'T1+T2': 8, 'T2': 10, 'T3': 11, 'T4': 10, 'T5': 6, 'T6': 5, 'T7': 5, 'T8': 4, 'T9': 3, 'T10': 2}.items() if ozet['tip_m'][t] != v}
 if kf: ek.append('Bu denemede tip planından sapma: ' + ', '.join(f'{t} {v:+d}' for t, v in kf.items()) + ' (gerekçeler aşağıdaki sapma notlarındadır).')
 sp = [q for q in Q if q.get('sapma')]
-if sp: ek.append('Plan kısıtından gerekçeli sapmalar: ' + '; '.join(f"{q['no']}. soru — {q['sapma']}" for q in sp) + '.')
+if sp: ek.append('Plan kısıtından gerekçeli sapmalar: ' + '; '.join(f"{q['no']}. soru — {q['sapma'].rstrip('.')}" for q in sp) + '.')
 ozet['notlar'] = notlar + ek
 json.dump(ozet, open(f'ozet{D}.json', 'w'), ensure_ascii=False)
 md += ['## Üretim Notu', ''] + [f'- {x}' for x in notlar + ek] + ['']

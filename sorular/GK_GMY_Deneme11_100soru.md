@@ -261,13 +261,13 @@ C) Havayolu taşımacılığında tescil edilen özet beyanlara ilişkin belirli
 D) Ceza kararının beyannamenin tescil yılından sonraki bir yılda düzenlenmesi hâlinde, eşik olarak kullanılan usulsüzlük cezası katlarının hesabında ceza kararının düzenlendiği tarihte geçerli tutar esas alınır.  
 E) Başvuru sahibinin temsilci sıfatıyla yürüttüğü TIR Karnesi işlemlerinden kaynaklanan cezaların yanı sıra aynı dönemde temsilci sıfatıyla sistem üzerinde yaptığı TIR Karnesi beyanları da dikkate alınır.  
 
-**26.** Gümrük Yönetmeliğinin ekonomik etkili gümrük rejimlerine ilişkin bölümünde yapılan tanımlara göre, "üçgen trafik" deyimi aşağıdakilerden hangisini ifade eder?
+**26.** 4458 sayılı Gümrük Kanununun “Amaç, Kapsam ve Temel Tanımlar” bölümünde yer alan tanımlara göre, “karar” deyimi aşağıdakilerden hangisini ifade eder?
 
-A) Rejime giriş ve rejimi kapatan gümrük idarelerinin her ikisinin de Türkiye Gümrük Bölgesinde bulunması kaydıyla, bu idarelerin birbirinden farklı olduğu durumu  
-B) Rejime giriş gümrük idaresi ile denetleyici gümrük idaresinin farklı olduğu ve izin belgesinin üçüncü bir gümrük idaresince verildiği durumu  
-C) İşlem görmüş ürünlerin, rejime girişin yapıldığı gümrük idaresinden farklı bir gümrük idaresince serbest dolaşıma sokulduğu durumu  
-D) Rejime giriş, rejimi kapatan ve denetleyici gümrük idarelerinin izin belgesinde birbirinden farklı üç idare olarak belirlendiği durumu  
-E) Gümrük idarelerinden yalnız birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş ve rejimi kapatan gümrük idarelerinin farklı olduğu durumu  
+A) Bağlayıcı tarife ve menşe bilgileri hariç olmak üzere, gümrük idaresinin belirli bir konuda bir kişi üzerinde hukuki sonuç doğuracak idari tasarrufu  
+B) Gümrük idaresinin, belirli bir kişiye yönelmeksizin gümrük mevzuatının uygulanmasına ilişkin herkes için yayımladığı genel düzenlemeyi  
+C) Gümrük idaresinin, ilgilinin talebi üzerine belirli bir eşya hakkında verdiği, hukuki sonuç doğurmayan yol gösterici bilgiyi  
+D) Gümrük idaresinin, gümrük mevzuatıyla ilgili belirli bir konuda yalnız başvuru sahibinin lehine hukuki sonuç doğuracak idari tasarrufu  
+E) Gümrük idaresinin, gümrük mevzuatıyla ilgili belirli bir konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufu  
 
 **27.** 4458 sayılı Gümrük Kanununa göre gümrük tarifesinin kapsamına ilişkin şu ifadeler veriliyor:
 
@@ -841,7 +841,7 @@ C) Dernekler tarafından en geç bir hafta içerisinde Gümrükler Genel Müdür
 D) Dernekler tarafından en geç bir ay içerisinde Gümrükler Genel Müdürlüğüne  
 E) Dernekler tarafından her yılın ikinci ayı içerisinde Bakanlığa  
 
-**85.** Gümrük mevzuatına göre, kamu kurumu adına tescilli beyannamede müşavirlik hizmet faturası **kimin adına** düzenlenebilir?
+**85.** Asgari Ücret Tarifesine İlişkin Tebliğe göre, kamu kurumu adına tescilli beyannamede müşavirlik hizmet faturası **kimin adına** düzenlenebilir?
 
 A) Hizmet bedelini kim karşılarsa karşılasın yalnızca beyannamenin tescil edildiği kamu kurumu adına  
 B) Kamu kurumunun yazılı onayı alınmak kaydıyla beyannameyi imzalayan müşavirin üyesi olduğu dernek adına  
@@ -849,7 +849,7 @@ C) Kamu kurumunun sözleşmesinde bedelin taraf firmaca karşılanacağı belirl
 D) Kamu kurumunun bağlı bulunduğu bakanlık adına; taraf firma adına belge düzenlenemez  
 E) Gümrük idaresinin onayı alınmak kaydıyla beyanname kapsamı eşyayı fiilen teslim alan kişi adına  
 
-**86.** Gümrük mevzuatına göre, asgari ücret tarifesindeki İHR-6 (ihrakiye ve kumanya) ücretleri **kaç faturayı** aşan işlemlerde anlaşmayla belirlenir?
+**86.** Asgari Ücret Tarifesine İlişkin Tebliğe göre, İHR-6 (ihrakiye ve kumanya) ücretleri **kaç faturayı** aşan işlemlerde anlaşmayla belirlenir?
 
 A) 10  
 B) 50  
@@ -1488,18 +1488,18 @@ E) Başvuru sahibinin temsilci sıfatıyla yürüttüğü TIR Karnesi işlemleri
 
 **SORU 26.** [T4 – Orta Üstü] · Model soru: 2021/26
 
-Gümrük Yönetmeliğinin ekonomik etkili gümrük rejimlerine ilişkin bölümünde yapılan tanımlara göre, "üçgen trafik" deyimi aşağıdakilerden hangisini ifade eder?
+4458 sayılı Gümrük Kanununun “Amaç, Kapsam ve Temel Tanımlar” bölümünde yer alan tanımlara göre, “karar” deyimi aşağıdakilerden hangisini ifade eder?
 
-A) Rejime giriş ve rejimi kapatan gümrük idarelerinin her ikisinin de Türkiye Gümrük Bölgesinde bulunması kaydıyla, bu idarelerin birbirinden farklı olduğu durumu  
-B) Rejime giriş gümrük idaresi ile denetleyici gümrük idaresinin farklı olduğu ve izin belgesinin üçüncü bir gümrük idaresince verildiği durumu  
-C) İşlem görmüş ürünlerin, rejime girişin yapıldığı gümrük idaresinden farklı bir gümrük idaresince serbest dolaşıma sokulduğu durumu  
-D) Rejime giriş, rejimi kapatan ve denetleyici gümrük idarelerinin izin belgesinde birbirinden farklı üç idare olarak belirlendiği durumu  
-E) Gümrük idarelerinden yalnız birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş ve rejimi kapatan gümrük idarelerinin farklı olduğu durumu  
+A) Bağlayıcı tarife ve menşe bilgileri hariç olmak üzere, gümrük idaresinin belirli bir konuda bir kişi üzerinde hukuki sonuç doğuracak idari tasarrufu  
+B) Gümrük idaresinin, belirli bir kişiye yönelmeksizin gümrük mevzuatının uygulanmasına ilişkin herkes için yayımladığı genel düzenlemeyi  
+C) Gümrük idaresinin, ilgilinin talebi üzerine belirli bir eşya hakkında verdiği, hukuki sonuç doğurmayan yol gösterici bilgiyi  
+D) Gümrük idaresinin, gümrük mevzuatıyla ilgili belirli bir konuda yalnız başvuru sahibinin lehine hukuki sonuç doğuracak idari tasarrufu  
+E) Gümrük idaresinin, gümrük mevzuatıyla ilgili belirli bir konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufu  
 
 ✅ **Doğru Cevap:** E  
-📖 **Açıklama:** Yönetmelikte üçgen trafik, gümrük idarelerinden sadece birinin Türkiye Gümrük Bölgesinde olması kaydıyla, rejime giriş gümrük idaresi ile rejimi kapatan gümrük idaresinin farklı olduğu durum olarak tanımlanmıştır. Her iki idarenin de Türkiye Gümrük Bölgesinde bulunduğu durum bu tanıma girmez; tanımda denetleyici gümrük idaresine, izni veren idareye veya idare sayısına dayalı bir ölçüt yer almaz. Bu nedenle doğru cevap E seçeneğidir. (MD GY 308/1-l; GY 308/1-a, i, j)  
-⚖️ **Yasal Dayanak:** Gümrük Yönetmeliği m.308/1-l (karşılaştırma: m.308/1-a, 308/1-i, 308/1-j)  
-🔍 **Şık Uzunluk Kontrolü:** A:159 B:140 C:130 D:134 E:150 karakter → Denge: UYGUN
+📖 **Açıklama:** Kanunda karar deyimi, bağlayıcı tarife ve menşe bilgileri de dahil olmak üzere, gümrük idaresinin gümrük mevzuatı ile ilgili olarak belirli bir konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufu olarak tanımlanmıştır. Bağlayıcı tarife ve menşe bilgileri tanımın dışında değil içindedir; karar herkese yönelik genel bir düzenleme ya da hukuki sonuç doğurmayan bir bilgi değildir ve Kanun başvuruların reddine ya da muhatabın aleyhine verilen kararları da öngördüğünden yalnız lehe tasarruflarla sınırlı değildir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 3/5; GK 6/3)  
+⚖️ **Yasal Dayanak:** 4458 sayılı Gümrük Kanunu m.3/5 (karşılaştırma: m.6/3)  
+🔍 **Şık Uzunluk Kontrolü:** A:148 B:134 C:124 D:134 E:136 karakter → Denge: UYGUN
 
 ---
 
@@ -2599,7 +2599,7 @@ E) Dernekler tarafından her yılın ikinci ayı içerisinde Bakanlığa
 
 **SORU 85.** [T7 – Orta Üstü] · Model soru: 2021/85
 
-Gümrük mevzuatına göre, kamu kurumu adına tescilli beyannamede müşavirlik hizmet faturası **kimin adına** düzenlenebilir?
+Asgari Ücret Tarifesine İlişkin Tebliğe göre, kamu kurumu adına tescilli beyannamede müşavirlik hizmet faturası **kimin adına** düzenlenebilir?
 
 A) Hizmet bedelini kim karşılarsa karşılasın yalnızca beyannamenin tescil edildiği kamu kurumu adına  
 B) Kamu kurumunun yazılı onayı alınmak kaydıyla beyannameyi imzalayan müşavirin üyesi olduğu dernek adına  
@@ -2616,7 +2616,7 @@ E) Gümrük idaresinin onayı alınmak kaydıyla beyanname kapsamı eşyayı fii
 
 **SORU 86.** [T3 – Orta Üstü] · Model soru: 2021/86
 
-Gümrük mevzuatına göre, asgari ücret tarifesindeki İHR-6 (ihrakiye ve kumanya) ücretleri **kaç faturayı** aşan işlemlerde anlaşmayla belirlenir?
+Asgari Ücret Tarifesine İlişkin Tebliğe göre, İHR-6 (ihrakiye ve kumanya) ücretleri **kaç faturayı** aşan işlemlerde anlaşmayla belirlenir?
 
 A) 10  
 B) 50  
@@ -2923,7 +2923,7 @@ T1: 6 · T2: 1 · T4: 6 · T6: 2 · T9: 5
 
 | ≤120 | 120-350 | 350-700 | >700 |
 |---|---|---|---|
-| 10 (%12) | 40 (%50) | 15 (%19) | 15 (%19) |
+| 9 (%11) | 41 (%51) | 15 (%19) | 15 (%19) |
 
 **Şık uzunluk sınıfı (21–100; kısa ≤4 kelime, uzun 5 şık ≥20 kelime)**
 
@@ -2977,7 +2977,7 @@ T1: 6 · T2: 1 · T4: 6 · T6: 2 · T9: 5
 | Milletvekili seçilme yeterliliği ve adaylık | 1 |
 | Temsil | 1 |
 | Belge Saklama | 1 |
-| Gümrük Rejimleri | 1 |
+| Temel Tanımlar | 1 |
 | Tarife | 1 |
 | Taşıtlar | 1 |
 | Özet Beyan | 1 |
@@ -3003,6 +3003,8 @@ T1: 6 · T2: 1 · T4: 6 · T6: 2 · T9: 5
 - Madde numarası kökte ve şıkta kullanılmadı (Prompt 3 §7); dayanak her sorunun Yasal Dayanak satırında ve açıklama sonundaki (MD …) parantezinde verildi. 2009/15481 sayılı Karar köklerinde kurum kalıbı kullanıldı.
 - Kök uzunluğu: master §4.1 bantları (%30 · %40 · %20 · %10) hedeflendi; ancak kökün mevzuat adı + hükmün konusu ile açılması zorunluluğu (Prompt 3 §8, CLAUDE.md) özellikle uzun tebliğ adlarında kısa kökleri 121–150 karaktere taşıdı. Bu nedenle ≤120 bandı hedefin altında, >700 bandı hedefin üstündedir; gerçek dağılım Set Sonu tablosundadır.
 - Kapsam: gümrük bölümü Gümrük Yönetmeliği m.567/2 ile sınırlı (Gümrük Kanunu ve ikincil düzenlemeleri, 5607 sayılı Kanun ve ikincil düzenlemeleri; GMY'de fiilen sorulan İthalat Rejimi Kararı, DİR Tebliği, Sınır Ticareti Kararı). Hariçte İşleme Rejimi Tebliği (İhracat: 2007/5) gibi dış ticaret düzenlemelerine dayanan soru bırakılmadı. GK 241/1'de AYM 26.03.2026 kararıyla iptal edilen ibareye dayanan hüküm kullanılmadı. Tek bilgi kaynağı depodaki mevzuat dosyaları ve genel kültür kitabıdır.
+- Kalite süreci: 19 yazar (15 gümrük konu kümesi + 4 genel kültür dersi) her soruyu, Deneme 6–10'daki karşılığını (“bunu da sorma”) ve kendi kümesinin hafıza satırlarını görerek yazdı. Ardından otomatik denetim yapıldı (kanıt alıntısı kaynakta birebir, uzunluk dengesi, tip ve kök kuralları, hafıza çekirdeği benzerliği). 6 bağımsız çekişmeli doğrulayıcı 86 soruda düzeltme yaptı; değişen 99 soru 2 son doğrulayıcıyla yeniden kontrol edildi (15 düzeltme). Koordinatör taramasında 400 gümrük sorusunun doğru şıkları ve öncülleri Deneme 1–10 ve 2021–2025 çıkmış sorularıyla metin metin karşılaştırıldı; doğru ifade olarak geçen hüküm bulunan sorular değiştirildi. Düzeltmeler araclar/gmy-deneme11-15/DUZELTME_LISTESI.md dosyasındadır.
+- Kaynak çapraz kontrolü ve ipucu dengesi: Kanıt alıntıları kullanıcının GitHub kaynak deposundaki Markdown mevzuat derlemesiyle (Gumrukdoktoru/2027gmynot) karşılaştırıldı. 837 alıntı parçasından 794'ü birebir, 33'ü yalnız biçim farkı ya da dönüştürmede düşen bağlantılı kelimeyle bulundu; kalan 10 parça da elle incelendi ve aynı nedenle eşleşti. Hüküm farkı çıkmadı. Öncüllü sorularda şık merdivenleri, “en sık geçen öncülleri seç” ve “ötekilere en yakın şıkkı seç” stratejilerinin isabeti şans düzeyini (%20) aşmayacak biçimde dengelendi (%19 ve %19). Cevap ipucu taraması (yakınsama, kök–şık kelime ortaklığı) 500 soruda 0 aday verdi.
 
 ## HAFIZA GÜNCELLEMESİ
 
@@ -3032,7 +3034,7 @@ GMY11-022 | Temsil | Gümrük Genel Tebliği (Yükümlü Kayıt ve Takip Sistemi
 GMY11-023 | Antrepo | Gümrük Yönetmeliği m.518/9, 523/5, 523/7, 525/6 | Antrepo devri Bakanlıkça sonuçlandırılır; izni geri alınan şirket yöneticilerinin diğer tüzel kişilerine beş yıl izin verilmez; yatırım izninde altı ay. | T1+T2 | Z | C | GMY-S11
 GMY11-024 | Belge Saklama | 4458 sayılı Gümrük Kanunu m.11, 12/1, 12/2 | GK 11-12: bilgi istenen kişi özel kanun gizliliğini ileri sürerek kaçınamaz; gizli bilgilerin saklanma süresi vb. hükümler yönetmelikle belirlenir. | T1+T2 | OÜ | E | GMY-S11
 GMY11-025 | Yetkilendirilmiş Yükümlü | Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği m.5/2, 5/7, 5/9, 5/10, 5/11 | YYS güvenilirlik koşulunda aynı beyannameye ilişkin birden fazla ceza kararı tek ceza kararı sayılır; her biri ayrı sayılmaz. | T1 | Z | A | GMY-S11
-GMY11-026 | Gümrük Rejimleri | Gümrük Yönetmeliği m.308/1-l (karşılaştırma: m.308/1-a, 308/1-i, 308/1-j) | GY 308/1-l: üçgen trafik, idarelerden yalnız biri TGB’de olmak kaydıyla rejime giriş ve rejimi kapatan gümrük idarelerinin farklı olduğu durumdur. | T4 | OÜ | E | GMY-S11
+GMY11-026 | Temel Tanımlar | 4458 sayılı Gümrük Kanunu m.3/5 (karşılaştırma: m.6/3) | GK 3/5: karar, BTB ve BMB dahil, gümrük idaresinin belirli konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufudur. | T4 | OÜ | E | GMY-S11
 GMY11-027 | Tarife | 4458 sayılı Gümrük Kanunu m.15/3-c, g | Gümrük tarifesi vergi oranlarını, tarım ve işlenmiş tarım özel düzenlemelerindeki ithalat vergilerini ve sayılanlar dışındaki diğer tarife uygulamalarını da kapsar. | T2 | OÜ | B | GMY-S11
 GMY11-028 | Transit | 4458 sayılı Gümrük Kanunu m.84/5; m.84/1, 84/2, 84/4 | Transitte ekonomik etkili rejime tabi eşyanın taşınmasında Müsteşarlıkça belirlenecek özel hükümler saklıdır; Müsteşarlık Bölüm hükümlerine bağlı kalmaksızın düzenleme yapabilir. | T4 | OÜ | E | GMY-S11
 GMY11-029 | Gümrük Kıymeti | Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2) m.4/2; 4458 sayılı Gümrük Kanunu m.25/1, m.25/2-a; Gümrük Yönetmeliği m.44/1, m.46/1, m.46/2 | Royalti için nesnel ve ölçülebilir veri yoksa satış bedeli belirlenemez; sıradaki aynı eşya yöntemiyle kıymet belirlenir. | T9 | Z | B | GMY-S11

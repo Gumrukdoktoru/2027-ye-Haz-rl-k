@@ -1,7 +1,4 @@
-244 çift ortak madde/fıkra
-D11-026(K01) ~ D14-047(K01): [('GY', '308/1-a'), ('GY', '308/1-i'), ('GY', '308/1-j')]
-   A: GY 308/1-l: üçgen trafik, idarelerden yalnız biri TGB’de olmak kaydıyla rejime giriş ve rejimi kapatan gümrük idarelerinin farklı olduğu durumdur.
-   B: GY 308: rejime girişten sonra yeni GOİK işlemlerini yapan idare rejimi kapatan; rejimi denetleyen idare denetleyici gümrük idaresidir.
+242 çift ortak madde/fıkra
 D13-036(K01) ~ D12-039(K05): [('Gümrük Genel Tebliği (Serbest Dolaşıma G', '5/1')]
    A: Seri 18: SDG işlemleri tamamlanmamış eşyada TPÖ tespit süresi üçer ay uzatılabilir, ek sürelerle yirmi dört ayı geçemez; on iki ay kapanmış beyannamelerdedir.
    B: Ekran ihtiva etmek ve jeton veya elektronik kartla çalışmak, oyun makinasının ithaline izin verilecek koşullardandır; serbest dolaşımı engelleyen hal değildir.
@@ -20,12 +17,9 @@ D11-031(K02) ~ D15-034(K02): [('GK', '28/a')]
 D11-031(K02) ~ D15-036(K02): [('GK', '28/a')]
    A: Mal bedelinin peşin ödenmemesi nedeniyle finansman anlaşması olmaksızın satıcıya ödenen vade farkı fiilen ödenen fiyata dahildir; montaj ve yurt içi nakliye dahil değildi
    B: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
-D11-039(K02) ~ D14-022(K02): [('GY', '53/3')]
-   A: İstisnai kıymetle beyanda tamamlayıcı beyana isabet eden vergilerde zamanaşımı, tamamlayıcı beyanın verildiği tarihten itibaren başlar.
-   B: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
 D12-050(K02) ~ D14-022(K02): [('GY', '51/8')]
    A: Özel kriter izni, Kanunun sıralı yöntemleri ile son yöntemin uygulanmasının mümkün görülmemesi şartına bağlıdır.
-   B: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
+   B: GY 53/1: satış bedeli yönteminde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usulle kıymet tespiti istisnai kıymetle beyandır.
 D12-051(K02) ~ D14-024(K02): [('GK', '27/1-a-ii')]
    A: Kıymet üzerinden vergiye tabi eşyanın kutu, kılıf ve mahfazaları, bağımsız ticari eşya değilse ve kıymeti eşya kıymetine dahilse vergilendirilmez.
    B: Antrepo masrafları ile antrepoda kaldığı sürece muhafaza masrafları, fiyattan ayrı gösterilirse gümrük kıymetine dahil edilmez.
@@ -37,7 +31,7 @@ D13-046(K02) ~ D15-033(K02): [('GK', '26/1')]
    B: GATT VII. Maddesinin Uygulanmasına Dair Anlaşma çerçevesinde belirlenen gümrük kıymeti unsurlarını içeren belge, Kıymet Bildirim Formudur.
 D13-079(K02) ~ D14-022(K02): [('Gümrük Genel Tebliği (Gümrük Kıymeti) (S', '11/4')]
    A: Dönemsel royalti beyanı izni verildiğinde, izin kapsamındaki her bir ithalat için ayrıca başvuru yapılması gerekmez.
-   B: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
+   B: GY 53/1: satış bedeli yönteminde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usulle kıymet tespiti istisnai kıymetle beyandır.
 D14-024(K02) ~ D15-034(K02): [('GK', '27/1-e')]
    A: Antrepo masrafları ile antrepoda kaldığı sürece muhafaza masrafları, fiyattan ayrı gösterilirse gümrük kıymetine dahil edilmez.
    B: Hasılat üzerinden hesaplanan royalti, talep ve idarenin uygun bulmasıyla eşyanın FOB bedeline royalti oranı uygulanarak kıymete dahil edilir.

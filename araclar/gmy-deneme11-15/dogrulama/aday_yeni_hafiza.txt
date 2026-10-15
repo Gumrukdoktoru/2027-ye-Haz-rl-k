@@ -1,7 +1,19 @@
-566 çift
-D11-026(K01) ~ HAFIZA GMY6-052: [('GY', '308/1')]
-   Y: GY 308/1-l: üçgen trafik, idarelerden yalnız biri TGB’de olmak kaydıyla rejime giriş ve rejimi kapatan gümrük idarelerinin farklı olduğu durumdur.
-   H: Rejimin kapatılma süresi: geri ödemede iade ve HİR sonrası muafiyet süresi dahil, eşyanın yeni işlem veya kullanıma tabi tutulmasının zorunlu olduğu süre.
+574 çift
+D11-026(K01) ~ HAFIZA KAR-004: [('GK', '6/3')]
+   Y: GK 3/5: karar, BTB ve BMB dahil, gümrük idaresinin belirli konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufudur.
+   H: Ret ve aleyhe kararlar gerekçeli alınır, itiraz yolunun açık olduğu kararda belirtilir
+D11-026(K01) ~ HAFIZA KAR-013: [('GK', '6/3')]
+   Y: GK 3/5: karar, BTB ve BMB dahil, gümrük idaresinin belirli konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufudur.
+   H: Kararın iptali muhatabına tebliğ edilir (diğer kurallarla birlikte değerlendirme)
+D11-026(K01) ~ HAFIZA GMY3-025: [('GK', '6/3')]
+   Y: GK 3/5: karar, BTB ve BMB dahil, gümrük idaresinin belirli konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufudur.
+   H: Kınama, meslek mensubuna görevinde ve davranışında kusurlu sayıldığının yazı ile bildirilmesidir; uyarma daha dikkatli davranması gerektiğinin yazıyla bildirilmesidir.
+D11-026(K01) ~ HAFIZA GMY8-025: [('GK', '6/3')]
+   Y: GK 3/5: karar, BTB ve BMB dahil, gümrük idaresinin belirli konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufudur.
+   H: Sahte belgeyle yanlış beyan GM bilgisi dışında ama araştırmayla öğrenilebilir ise ilk defasında kınama, tekerrüründe geçici alıkoyma cezası verilir.
+D11-026(K01) ~ HAFIZA GMY9-089: [('GK', '6/3')]
+   Y: GK 3/5: karar, BTB ve BMB dahil, gümrük idaresinin belirli konuda bir veya daha fazla kişi üzerinde hukuki sonuç doğuracak idari tasarrufudur.
+   H: Görevini bağımsızlık, tarafsızlık ve dürüstlükle yapmayan, kusurlu yapan veya mesleğin genel prensiplerine aykırı davranan meslek mensubuna geçici alıkoyma cezası uygulan
 D12-028(K01) ~ HAFIZA GMY6-052: [('GY', '308/1')]
    Y: GY 308: işleme sonucu elde edilen tüm ürünler işlem görmüş üründür; asıl ürün rejim kapsamında elde edilmesi amaçlanan üründür.
    H: Rejimin kapatılma süresi: geri ödemede iade ve HİR sonrası muafiyet süresi dahil, eşyanın yeni işlem veya kullanıma tabi tutulmasının zorunlu olduğu süre.
@@ -363,13 +375,13 @@ D14-021(K02) ~ HAFIZA GMY7-099: [('GY', '48/1'), ('GY', '48/5')]
    Y: İndirgemede işlenmiş eşyanın satış birim fiyatı esas alınırsa, işlemeden doğan ilave kıymet de bu fiyattan düşülür.
    H: İşçi-işveren ilişkisi, fiyata etkisine bakılmaksızın ilişki hâlidir; fiyata etki ilişkinin varlığı için değil, satış bedelinin kabulü için önemlidir.
 D14-022(K02) ~ HAFIZA GMY9-021: [('GY', '53/1')]
-   Y: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
+   Y: GY 53/1: satış bedeli yönteminde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usulle kıymet tespiti istisnai kıymetle beyandır.
    H: Satış bedeli yöntemi uygulanan hâllerde boru hattı veya elektrik teliyle taşınan, depolanamayan sürekli akıştaki eşyanın kıymeti talep üzerine basitleştirilmiş usulle bel
 D14-022(K02) ~ HAFIZA GMY9-027: [('GY', '51/8')]
-   Y: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
+   Y: GY 53/1: satış bedeli yönteminde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usulle kıymet tespiti istisnai kıymetle beyandır.
    H: Miktarı yükümlülük başlangıcında belirlenemeyen ilave unsurların uygun ve özel kriterlerle belirlenmesine ilgili kişinin talebiyle gümrük idareleri izin verir.
-D14-022(K02) ~ HAFIZA GMY10-034: [('GY', '53/1'), ('GY', '53/3')]
-   Y: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
+D14-022(K02) ~ HAFIZA GMY10-034: [('GY', '53/1')]
+   Y: GY 53/1: satış bedeli yönteminde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usulle kıymet tespiti istisnai kıymetle beyandır.
    H: İstisnai kıymette revize kıymet yüksekse ek tahakkuk yapılır; düşükse fark ancak iade alındığı tevsik edilip belgeler sunulursa GK 211 ile geri verilir.
 D14-024(K02) ~ HAFIZA GMY-035: [('GK', '27/1')]
    Y: Antrepo masrafları ile antrepoda kaldığı sürece muhafaza masrafları, fiyattan ayrı gösterilirse gümrük kıymetine dahil edilmez.
@@ -926,7 +938,19 @@ D12-069(K11) ~ HAFIZA GMY8-053: [('GK', '241/3')]
 D12-069(K11) ~ HAFIZA GMY9-048: [('GK', '241/3')]
    Y: Antreponun kuruluşunda aranan teknik donanımında noksanlık bulunması iki kat usulsüzlük cezası gerektirir.
    H: Fiil için mahkemece suç ve yaptırım kararı verilirse, karar kesinleşip hükmolunan para tahsil edilince Gümrük Kanunu cezası kaldırılır ve para geri verilir.
-D12-070(K11) ~ HAFIZA GMY9-067: [('GK', '236/5')]
+D12-070(K11) ~ HAFIZA GMY4-095: [('GK', '237/3')]
+   Y: Antrepo beyanında belirgin farklı cinste ve vergileri fazla eşya çıkarsa farklı eşyanın gümrük vergilerinin iki katı ceza verilir.
+   H: Kap adedi tamam çıkan ancak sayı, baş, ağırlık gibi ölçülerinde eksiklik veya fazlalık bulunan eşya için özet beyan takibatı yapılmaz.
+D12-070(K11) ~ HAFIZA GMY5-092: [('GK', '236/2')]
+   Y: Antrepo beyanında belirgin farklı cinste ve vergileri fazla eşya çıkarsa farklı eşyanın gümrük vergilerinin iki katı ceza verilir.
+   H: Antrepo sayımında fazla eşya tasfiye edilir ve vergileri kadar ceza alınır; noksan eşyada vergilerle birlikte gümrüklenmiş değerin iki katı ceza verilir.
+D12-070(K11) ~ HAFIZA GMY5-094: [('GK', '237/3')]
+   Y: Antrepo beyanında belirgin farklı cinste ve vergileri fazla eşya çıkarsa farklı eşyanın gümrük vergilerinin iki katı ceza verilir.
+   H: İthali yasak dökme atıkta ceza ton başına otuz bin TL'dir; muaf eşyanın kapı dışından ithalinde CIF değerinin onda biri ceza alınır.
+D12-070(K11) ~ HAFIZA GMY8-060: [('GK', '237/3')]
+   Y: Antrepo beyanında belirgin farklı cinste ve vergileri fazla eşya çıkarsa farklı eşyanın gümrük vergilerinin iki katı ceza verilir.
+   H: Özet beyan fazlalık takibatı sürerken yapılan beyanda fazla miktar verilmez; saklanması masraflı ve külfetliyse eşya sahibine yed-i emin olarak teslim edilebilir.
+D12-070(K11) ~ HAFIZA GMY9-067: [('GK', '236/5'), ('GK', '237/3')]
    Y: Antrepo beyanında belirgin farklı cinste ve vergileri fazla eşya çıkarsa farklı eşyanın gümrük vergilerinin iki katı ceza verilir.
    H: Özet beyansız getirilen eşyada ceza, özet beyanla yükümlü kişiden; o tespit edilemezse eşyayı Türkiye Gümrük Bölgesine getiren kişiden alınır.
 D13-029(K11) ~ HAFIZA GMY-024: [('GK', '241/4')]

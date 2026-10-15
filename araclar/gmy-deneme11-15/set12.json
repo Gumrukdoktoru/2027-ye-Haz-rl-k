@@ -1506,14 +1506,14 @@
 "500.000 TL"
 ],
 "tuzak": false,
-"g": "Varış gümrük idaresine karayolu ile sevk edilmek üzere transit rejimine konu edilen eşyanın belirgin şekilde farklı cinste çıkması ve farklı eşyanın ithalinin beyan edilenden farklı olarak uygunluk belgesine tabi olması hâlinde, farklı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir. İthal eşyasında gümrüklenmiş değer CIF kıymeti ile gümrük vergilerinin toplamıdır: 100.000 + 25.000 = 125.000 TL; ceza 2 × 125.000 = 250.000 TL. Farklı eşyanın vergilerinin iki katını almak (50.000 TL) belgeye tabi olmayıp vergileri fazla olan farklı eşyaya ilişkin hesaptır; dört kat (500.000 TL) ise ithali yasak eşyaya özgüdür. (MD GK 3/26, 235/5-b)",
+"g": "Varış gümrük idaresine karayolu ile sevk edilmek üzere transit rejimine konu edilen eşyanın belirgin şekilde farklı cinste çıkması ve farklı eşyanın ithalinin beyan edilenden farklı olarak uygunluk belgesine tabi olması hâlinde, farklı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir. İthal eşyasında gümrüklenmiş değer CIF kıymeti ile gümrük vergilerinin toplamıdır: 100.000 + 25.000 = 125.000 TL; ceza 2 × 125.000 = 250.000 TL. Matrah olarak yalnız gümrük vergilerini almak 50.000 TL, yalnız CIF kıymetini dört katla çarpmak 400.000 TL sonucunu verir; gümrüklenmiş değerin dört katı (500.000 TL) ise ithali yasak eşyaya özgü kattır. (MD GK 3/26, 235/5-b)",
 "kanit": "48-cezalar.txt | Farklı çıkan eşyanın beyan edilen eşyadan farklı şekilde, ithalinin lisansa, şarta, izne, kısıntıya veya belli kuruluşların vereceği uygunluk veya yeterlilik belgesine tabi olması durumunda farklı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir || 1-TANIMLAR.txt | ithal eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını",
 "batch": "K11",
 "no": 42,
 "harf": "C",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Varış gümrük idaresine karayolu ile sevk edilmek üzere transit rejimine konu edilen eşyanın belirgin şekilde farklı cinste çıkması ve farklı eşyanın ithalinin beyan edilenden farklı olarak uygunluk belgesine tabi olması hâlinde, farklı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir. İthal eşyasında gümrüklenmiş değer CIF kıymeti ile gümrük vergilerinin toplamıdır: 100.000 + 25.000 = 125.000 TL; ceza 2 × 125.000 = 250.000 TL. Farklı eşyanın vergilerinin iki katını almak (50.000 TL) belgeye tabi olmayıp vergileri fazla olan farklı eşyaya ilişkin hesaptır; dört kat (500.000 TL) ise ithali yasak eşyaya özgüdür. Bu nedenle doğru cevap C seçeneğidir. (MD GK 3/26, 235/5-b)"
+"g_harfli": "Varış gümrük idaresine karayolu ile sevk edilmek üzere transit rejimine konu edilen eşyanın belirgin şekilde farklı cinste çıkması ve farklı eşyanın ithalinin beyan edilenden farklı olarak uygunluk belgesine tabi olması hâlinde, farklı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir. İthal eşyasında gümrüklenmiş değer CIF kıymeti ile gümrük vergilerinin toplamıdır: 100.000 + 25.000 = 125.000 TL; ceza 2 × 125.000 = 250.000 TL. Matrah olarak yalnız gümrük vergilerini almak 50.000 TL, yalnız CIF kıymetini dört katla çarpmak 400.000 TL sonucunu verir; gümrüklenmiş değerin dört katı (500.000 TL) ise ithali yasak eşyaya özgü kattır. Bu nedenle doğru cevap C seçeneğidir. (MD GK 3/26, 235/5-b)"
 },
 {
 "id": "D12-043",
@@ -2500,27 +2500,27 @@
 "konu": "Cezalar",
 "tip": "T8",
 "z": "OÜ",
-"madde": "4458 sayılı Gümrük Kanunu m.236/5-a",
+"madde": "4458 sayılı Gümrük Kanunu m.236/5-a (karşılaştırma: m.236/2, 237/3)",
 "cek": "Antrepo beyanında belirgin farklı cinste ve vergileri fazla eşya çıkarsa farklı eşyanın gümrük vergilerinin iki katı ceza verilir.",
 "kok": [
-"(L) Ticaret A.Ş., yurt dışından getirdiği eşyayı gümrük antrepo rejimine ilişkin beyannamede pamuklu dokuma kumaş olarak beyan etmiştir. Beyanın muayenesi sonucunda eşyanın, beyan edilenden belirgin bir şekilde farklı cinste olan sentetik ayakkabı olduğu tahlil, teknik inceleme ve araştırmaya gerek olmaksızın tespit edilmiştir. Farklı çıkan eşyanın gümrük vergileri toplamı, beyan edilen eşyanın gümrük vergileri toplamından fazladır; farklı çıkan eşyanın ithali herhangi bir lisans, izin veya uygunluk belgesine tabi değildir. Olay kaçakçılık kapsamında değerlendirilmemiştir.",
+"(L) Ticaret A.Ş., yurt dışından getirdiği eşyayı gümrük antrepo rejimine ilişkin beyannamede pamuklu dokuma kumaş olarak beyan etmiştir. Beyanın muayenesi sonucunda eşyanın, beyan edilenden belirgin bir şekilde farklı cinste olan sentetik ayakkabı olduğu tahlil, teknik inceleme ve araştırmaya gerek olmaksızın tespit edilmiştir. Sentetik ayakkabının ithali herhangi bir lisans, izin veya uygunluk belgesine bağlı değildir; bu eşyaya ilişkin gümrük vergileri toplamı ise kumaş için hesaplanan gümrük vergileri toplamını aşmaktadır. Olay kaçakçılık kapsamında değerlendirilmemiştir.",
 "4458 sayılı Gümrük Kanununa göre (L) Ticaret A.Ş. hakkında uygulanacak idari yaptırım aşağıdakilerden hangisidir?"
 ],
 "d": "Farklı çıkan eşyaya ilişkin gümrük vergilerinin iki katı idari para cezası verilir; ceza, iki eşyanın vergileri arasındaki farka göre değil farklı çıkan eşyanın vergilerine göre hesaplanır.",
 "c": [
-"Farklı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir; ceza, beyan edilen eşyanın değil farklı çıkan eşyanın CIF kıymeti ve vergileri toplamı esas alınarak hesaplanır.",
+"Farklı çıkan eşyaya el konularak mülkiyetinin kamuya geçirilmesine karar verilir ve bu eşyanın CIF kıymeti kadar para cezası alınır; beyan edilen kumaşa ait gümrük vergileri ise ayrıca aranmaz.",
 "Beyan edilen eşya ile farklı çıkan eşyanın gümrük vergileri arasındaki farkın üç katı para cezası alınır; ceza, farklı çıkan eşyanın vergilerinin tamamı üzerinden hesaplanmaz.",
 "Farklı çıkan eşyanın gümrük vergileri kadar para cezası alınır ve eşya, antrepo rejimine alınmaksızın tasfiye hükümlerine göre tasfiyeye tabi tutulur; ayrıca usulsüzlük cezası uygulanmaz.",
 "Eşya serbest dolaşıma girmediğinden vergi esaslı ceza verilmez; Kanunda belirtilen usulsüzlük cezası miktarının dört katı ceza uygulanır ve beyanname düzeltilerek eşya antrepoya alınır."
 ],
 "tuzak": false,
-"g": "Antrepo beyannamesinin kontrolünde belirgin şekilde farklı cinste eşya çıkması ve farklı eşyanın gümrük vergileri toplamının beyan edilen eşyanınkinden fazla olması hâlinde, farklı çıkan eşyaya ilişkin gümrük vergilerinin iki katı idari para cezası verilir. Gümrüklenmiş değerin iki katı ceza, farklı çıkan eşyanın ithalinin lisans, izin veya uygunluk belgesine tabi olduğu hâle; vergiler kadar ceza ve tasfiye ise antrepo sayımında fazla çıkan eşyaya ilişkindir. (MD GK 236/5-a)",
+"g": "Antrepo beyannamesinin kontrolünde belirgin şekilde farklı cinste eşya çıkması ve farklı eşyanın gümrük vergileri toplamının beyan edilen eşyanınkinden fazla olması hâlinde, farklı çıkan eşyaya ilişkin gümrük vergilerinin iki katı idari para cezası verilir; ceza iki eşyanın vergileri arasındaki fark üzerinden değil, farklı çıkan eşyanın vergileri üzerinden hesaplanır. El koyma ve mülkiyetin kamuya geçirilmesiyle birlikte CIF kıymeti kadar ceza özet beyana göre fazla çıkan kaplara; vergiler kadar ceza ve tasfiye ise antrepo sayımında fazla çıkan eşyaya ilişkindir. (MD GK 236/5-a; karşılaştırma GK 236/2, 237/3)",
 "kanit": "48-cezalar.txt | antrepo beyannamesinde beyan edilenden belirgin bir şekilde farklı cinste eşya olduğunun tahlil, teknik inceleme ve araştırmaya gerek olmaksızın tespiti hâlinde || 48-cezalar.txt | Farklı çıkan eşyanın gümrük vergileri toplamının beyan edilen eşyanın gümrük vergileri toplamından fazla olması durumunda farklı çıkan eşyaya ilişkin gümrük vergilerinin iki katı idari para cezası verilir",
 "batch": "K11",
 "no": 70,
 "harf": "B",
 "opts": [
-"Farklı çıkan eşyanın gümrüklenmiş değerinin iki katı idari para cezası verilir; ceza, beyan edilen eşyanın değil farklı çıkan eşyanın CIF kıymeti ve vergileri toplamı esas alınarak hesaplanır.",
+"Farklı çıkan eşyaya el konularak mülkiyetinin kamuya geçirilmesine karar verilir ve bu eşyanın CIF kıymeti kadar para cezası alınır; beyan edilen kumaşa ait gümrük vergileri ise ayrıca aranmaz.",
 "Farklı çıkan eşyaya ilişkin gümrük vergilerinin iki katı idari para cezası verilir; ceza, iki eşyanın vergileri arasındaki farka göre değil farklı çıkan eşyanın vergilerine göre hesaplanır.",
 "Beyan edilen eşya ile farklı çıkan eşyanın gümrük vergileri arasındaki farkın üç katı para cezası alınır; ceza, farklı çıkan eşyanın vergilerinin tamamı üzerinden hesaplanmaz.",
 "Farklı çıkan eşyanın gümrük vergileri kadar para cezası alınır ve eşya, antrepo rejimine alınmaksızın tasfiye hükümlerine göre tasfiyeye tabi tutulur; ayrıca usulsüzlük cezası uygulanmaz.",
@@ -2528,7 +2528,7 @@
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Antrepo beyannamesinin kontrolünde belirgin şekilde farklı cinste eşya çıkması ve farklı eşyanın gümrük vergileri toplamının beyan edilen eşyanınkinden fazla olması hâlinde, farklı çıkan eşyaya ilişkin gümrük vergilerinin iki katı idari para cezası verilir. Gümrüklenmiş değerin iki katı ceza, farklı çıkan eşyanın ithalinin lisans, izin veya uygunluk belgesine tabi olduğu hâle; vergiler kadar ceza ve tasfiye ise antrepo sayımında fazla çıkan eşyaya ilişkindir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 236/5-a)"
+"g_harfli": "Antrepo beyannamesinin kontrolünde belirgin şekilde farklı cinste eşya çıkması ve farklı eşyanın gümrük vergileri toplamının beyan edilen eşyanınkinden fazla olması hâlinde, farklı çıkan eşyaya ilişkin gümrük vergilerinin iki katı idari para cezası verilir; ceza iki eşyanın vergileri arasındaki fark üzerinden değil, farklı çıkan eşyanın vergileri üzerinden hesaplanır. El koyma ve mülkiyetin kamuya geçirilmesiyle birlikte CIF kıymeti kadar ceza özet beyana göre fazla çıkan kaplara; vergiler kadar ceza ve tasfiye ise antrepo sayımında fazla çıkan eşyaya ilişkindir. Bu nedenle doğru cevap B seçeneğidir. (MD GK 236/5-a; karşılaştırma GK 236/2, 237/3)"
 },
 {
 "id": "D12-071",

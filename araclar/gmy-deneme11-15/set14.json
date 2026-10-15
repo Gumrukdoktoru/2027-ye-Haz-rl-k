@@ -750,11 +750,11 @@
 "konu": "Gümrük Kıymeti",
 "tip": "T6",
 "z": "OÜ",
-"madde": "Gümrük Yönetmeliği m.53/1-a, 53/1-ç, 53/3 (karşılaştırma: m.51/8; Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2) m.11/4)",
-"cek": "GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıymetle beyandır.",
+"madde": "Gümrük Yönetmeliği m.53/1-a, 53/1-ç (karşılaştırma: m.51/8; Gümrük Genel Tebliği (Gümrük Kıymeti) (Seri No: 2) m.11/4)",
+"cek": "GY 53/1: satış bedeli yönteminde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usulle kıymet tespiti istisnai kıymetle beyandır.",
 "kok": [
 "Gümrük Yönetmeliğindeki bir beyan şekli şöyle açıklanmıştır:",
-"“Satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir eşya veya boru hattıyla gelen sürekli akıştaki eşya için talep üzerine basitleştirilmiş usuller uygulanır; vergi, mevcut belgelerdeki kıymete göre tahakkuk ettirilir.”",
+"“Satış bedeli yöntemiyle kıymet tespitinde, konsinye teslim edilen çabuk bozulabilir eşya ile boru hattıyla gelen sürekli akıştaki eşyanın kıymeti, beyan sahibinin talebi üzerine basitleştirilmiş usullerle tespit edilir.”",
 "Yukarıda açıklanan beyan şekli aşağıdakilerden hangisidir?"
 ],
 "d": "İstisnai kıymetle beyan",
@@ -765,8 +765,8 @@
 "Gümrüklenmiş değer beyanı"
 ],
 "tuzak": false,
-"g": "Gümrük Yönetmeliğinin istisnai kıymetle beyana ilişkin hükmüne göre, Kanunun satış bedeli yöntemine göre kıymet tespitinin yapıldığı hâllerde konsinye şekilde teslim edilen çabuk bozulabilir eşya ile boru hatları veya elektrik telleriyle taşınan sürekli akış hâlindeki eşyanın kıymetinin tespitinde beyan sahibinin talebi üzerine basitleştirilmiş usuller uygulanır ve vergi tahakkuku mevcut belgelerdeki kıymet esas alınarak yapılır. Uygun ve özel kriterlerle belirleme ilave unsurlara ilişkin ayrı bir izindir, dönemsel beyan royalti ödemelerine özgü bir Tebliğ uygulamasıdır; emsal kıymetler ise ilişkili satışlarda yalnız kıyaslama amacıyla kullanılır. (MD GY 53/1, 53/3; GY 51/8; Kıymet Tebliği 11/4)",
-"kanit": "12-KIYMET VE KAPLAR.txt | İstisnai kıymetle beyan || 12-KIYMET VE KAPLAR.txt | a) Konsinye şekilde teslim edilen çabuk bozulabilir eşyanın, || 12-KIYMET VE KAPLAR.txt | Gümrük kıymetinin tespitinde, beyan sahibinin talebi üzerine, gümrük idaresince basitleştirilmiş usuller uygulanır. || 12-KIYMET VE KAPLAR.txt | (3) Birinci fıkrada belirtilen hallerde, vergi tahakkuku mevcut belgelerde belirtilen kıymet esas alınarak yapılır.",
+"g": "Gümrük Yönetmeliğinin istisnai kıymetle beyana ilişkin hükmüne göre, Kanunun satış bedeli yöntemine göre kıymet tespitinin yapıldığı hâllerde konsinye şekilde teslim edilen çabuk bozulabilir eşya ile boru hatları veya elektrik telleriyle taşınan ve depolama imkânı olmayan sürekli akış hâlindeki eşyanın kıymetinin tespitinde, beyan sahibinin talebi üzerine gümrük idaresince basitleştirilmiş usuller uygulanır. Uygun ve özel kriterlerle belirleme ilave unsurlara ilişkin ayrı bir izindir, dönemsel beyan royalti ödemelerine özgü bir Tebliğ uygulamasıdır; emsal kıymetler ise ilişkili satışlarda yalnız kıyaslama amacıyla kullanılır. (MD GY 53/1; GY 51/8; Kıymet Tebliği 11/4)",
+"kanit": "12-KIYMET VE KAPLAR.txt | İstisnai kıymetle beyan || 12-KIYMET VE KAPLAR.txt | a) Konsinye şekilde teslim edilen çabuk bozulabilir eşyanın, || 12-KIYMET VE KAPLAR.txt | ç) Boru hatları veya elektrik telleri ile taşınan ve depolama imkanı olmayan sürekli akış halinde olan eşyanın, || 12-KIYMET VE KAPLAR.txt | Gümrük kıymetinin tespitinde, beyan sahibinin talebi üzerine, gümrük idaresince basitleştirilmiş usuller uygulanır.",
 "batch": "K02",
 "no": 22,
 "harf": "C",
@@ -779,7 +779,7 @@
 ],
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Gümrük Yönetmeliğinin istisnai kıymetle beyana ilişkin hükmüne göre, Kanunun satış bedeli yöntemine göre kıymet tespitinin yapıldığı hâllerde konsinye şekilde teslim edilen çabuk bozulabilir eşya ile boru hatları veya elektrik telleriyle taşınan sürekli akış hâlindeki eşyanın kıymetinin tespitinde beyan sahibinin talebi üzerine basitleştirilmiş usuller uygulanır ve vergi tahakkuku mevcut belgelerdeki kıymet esas alınarak yapılır. Uygun ve özel kriterlerle belirleme ilave unsurlara ilişkin ayrı bir izindir, dönemsel beyan royalti ödemelerine özgü bir Tebliğ uygulamasıdır; emsal kıymetler ise ilişkili satışlarda yalnız kıyaslama amacıyla kullanılır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 53/1, 53/3; GY 51/8; Kıymet Tebliği 11/4)"
+"g_harfli": "Gümrük Yönetmeliğinin istisnai kıymetle beyana ilişkin hükmüne göre, Kanunun satış bedeli yöntemine göre kıymet tespitinin yapıldığı hâllerde konsinye şekilde teslim edilen çabuk bozulabilir eşya ile boru hatları veya elektrik telleriyle taşınan ve depolama imkânı olmayan sürekli akış hâlindeki eşyanın kıymetinin tespitinde, beyan sahibinin talebi üzerine gümrük idaresince basitleştirilmiş usuller uygulanır. Uygun ve özel kriterlerle belirleme ilave unsurlara ilişkin ayrı bir izindir, dönemsel beyan royalti ödemelerine özgü bir Tebliğ uygulamasıdır; emsal kıymetler ise ilişkili satışlarda yalnız kıyaslama amacıyla kullanılır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 53/1; GY 51/8; Kıymet Tebliği 11/4)"
 },
 {
 "id": "D14-023",
@@ -1008,8 +1008,8 @@
 "madde": "Gümrük Yönetmeliği m.42/1, 455/2-ç, 460/4; Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğ m.5/1-f",
 "cek": "Menşe şahadetnamesi ve başvuru formu ek-7 örneğine uygun hazırlanır; posta listelerinde belgelerin sayı ve türü gösterilir; koliden çıkan şahadetname beyannameye eklenir.",
 "kok": [
-"Gümrük mevzuatına göre menşe şahadetnamesine ilişkin aşağıdaki ifadeler veriliyor:",
-"I. Türkiye'den ihracatta, şahadetnamede bulunması zorunlu unsurları taşıyan menşe şahadetnamesi ve başvuru formu Gümrük Yönetmeliği ekindeki örneğe uygun olarak hazırlanır.",
+"Gümrük Yönetmeliği ile Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğe göre, menşe şahadetnamesine ilişkin aşağıdaki ifadeler veriliyor:",
+"I. Türkiye'den ihracatta menşe şahadetnamesi ve başvuru formu, Gümrük Yönetmeliği ekindeki örneğe uygun olarak hazırlanır.",
 "II. Posta kolilerinin muayenesi sırasında kolinin içinden çıkan menşe şahadetnamesi, alıcıya teslim edilmek üzere koliye geri konulur.",
 "III. Posta idaresince kolilerin gümrüğe bildirildiği listelerde, fatura ve menşe şahadetnamesi gibi gümrüğe gösterilmesi gereken belgelerin sayı ve türleri gösterilir.",
 "IV. Gümrük işlemlerinde yükümlü adına kullanılan menşe şahadetnamesi gibi belgelerin ücretleri gümrük müşaviri tarafından karşılanır.",
@@ -1344,7 +1344,7 @@
 "madde": "4874 sayılı Cumhurbaşkanı Kararı eki Sınır Ticaretinin Düzenlenmesine İlişkin Karar m.9/3",
 "cek": "Sınır ticareti ithalatında, eşyanın sınır ülkesinde üretildiğine dair ithalatın yapılacağı ülke yetkili makamlarınca düzenlenen menşe şahadetnamesi aranır; üçüncü ülke menşeli yasak.",
 "kok": [
-"Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre, sınır ticareti kapsamındaki ithalatta menşe şahadetnamesine ilişkin hangisi doğrudur?"
+"Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre, sınır ticaretinde menşe şahadetnamesine ilişkin aşağıdakilerden hangisi doğrudur?"
 ],
 "d": "İthalat işlemlerinde, eşyanın ilgili sınır ülkesinde üretildiğine veya imal edildiğine dair ithalatın yapılacağı ülkenin yetkili makamlarınca düzenlenen menşe şahadetnamesi ilgili gümrüklerce aranır.",
 "c": [
@@ -1783,7 +1783,7 @@
 "madde": "Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-f, 3/1-g, 31/2-ğ, 44/2; Gümrük Yönetmeliği m.357/1-2",
 "cek": "DİR izni yalnız muafiyetli ithalata imkân verir (yurt içi alım belgededir); yeni beyannamesiz serbest dolaşıma giriş hâlleri izin belgesinde belirtilir.",
 "kok": [
-"Gümrük mevzuatına göre dahilde işleme iznine ilişkin;",
+"Dahilde İşleme Rejimi Tebliği ve Gümrük Yönetmeliğine göre dahilde işleme iznine ilişkin;",
 "I. İzin kapsamında ihraç edilen ürünün ithal eşyadan elde edilmediğine dair karine varsa ekspertiz raporu istenebilir.",
 "II. Dahilde işleme izni, ihraç amacıyla muafiyetli ithalata ve yurt içi alımlara imkân sağlayan, gümrük idaresince verilen izindir.",
 "III. İşlemlerin gerçek dışı olduğu tespit edilirse izin, ilgili gümrük idaresince iptal edilir.",
@@ -2235,10 +2235,10 @@
 "madde": "Gümrük Muafiyeti Tebliği (Seri No: 2) m.31/1, 31/2, 34/1-ç-3; 2009/15481 sayılı Karar m.104/7",
 "cek": "Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.",
 "kok": [
-"Gümrük mevzuatına göre engellilerin muafen serbest dolaşıma soktuğu özel tertibatlı araçlara ilişkin;",
-"I. Engelli kişinin vefatıyla varise intikal eden aracın varis tarafından, serbest dolaşıma girişinden itibaren on yıl içinde engelli olmayan kişiye satışında gümrük vergileri tahsil edilir.",
-"II. Aracın serbest dolaşıma girişi talebini değerlendiren komisyon, yetkili gümrük müdürlüğünde her ayın ilk salı günü toplanır.",
-"III. El ve ayak fonksiyonlarını tamamen yitirmiş kişinin komisyon toplantısına bizzat katılması zorunlu olup vekil veya vasiyle katılım mümkün değildir.",
+"Gümrük Muafiyeti Tebliği (Seri No: 2) ve 2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre engellilerin özel tertibatlı araçlarına ilişkin;",
+"I. Engelli kişinin vefatıyla varise intikal eden aracın varisçe, serbest dolaşıma girişinden itibaren on yıl içinde engelli olmayan kişiye satışında gümrük vergileri tahsil edilir.",
+"II. Serbest dolaşıma giriş talebini değerlendiren komisyon, yetkili gümrük müdürlüğünde her ayın ilk salı günü toplanır.",
+"III. El ve ayak fonksiyonlarını tamamen yitirmiş kişi komisyona bizzat katılmak zorundadır; vekil veya vasiyle katılamaz.",
 "IV. Hareket ettirici tertibatlı araç, mücbir sebep veya beklenmeyen hâlde engelli kişi araçta bulunmak şartıyla başkasınca da kullanılabilir.",
 "Yukarıdaki ifadelerden hangileri [[yanlıştır]]?"
 ],
