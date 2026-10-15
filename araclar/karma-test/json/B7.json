@@ -1,0 +1,631 @@
+[
+ {
+  "test": 1,
+  "konu": "Beyan",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2022/45, 2025/70",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "Z",
+  "madde": "GY 170/1",
+  "cek": "İhracatta sözlü beyana tabi eşya listesi; Türk memur ve vatandaşlarının eşyası gidişten iki ay evvel veya altı ay sonra gönderilir.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi, ihracında beyanın sözlü olarak yapıldığı eşya arasında sayılmamıştır?"
+  ],
+  "d": "Yerleşmek üzere yabancı ülkelere giden Türk vatandaşlarının gidişlerinden altı ay evvel veya iki ay sonra gönderecekleri kişisel ve ev eşyası",
+  "c": [
+   "Bilim adamı, sanatçı ve işçilerin mesleklerini icra için beraberlerinde götürdükleri aletleri ile takımları ve ticari kıymette olmayan numuneleri",
+   "İçinde ölü veya ölünün kül ve kemikleri bulunan tabut, vazo ve diğer kaplar ile çelenk ve çiçekler",
+   "Kara sınırı bölgesindeki köy, kasaba ve pazarlardan sınırın diğer tarafındaki halkın kendi ihtiyaçları için alıp götürecekleri eşya ve hayvanlar",
+   "Türkiye'de vefat eden yabancıların ülkelerindeki kanuni mirasçılarına intikal eden kişisel eşya ve ev eşyası"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğinde ihracında beyanın sözlü olarak yapıldığı eşya tek tek sayılmıştır: yolcu ve turistlerin beraberlerindeki kişisel eşya; devamlı görevli veya yerleşmek üzere yabancı ülkelere giden Türk memur ve vatandaşlarının beraberlerinde götürecekleri veya gidişlerinden iki ay evvel ya da altı ay sonra gönderecekleri kişisel ve ev eşyası; bilim adamı, sanatçı ve işçilerin meslek aletleri ile ticari kıymeti olmayan numuneleri; nakil vasıtası hizmetlilerinin kişisel eşyası; sınır bölgesi halkının ihtiyaç eşyası ve hayvanları; içinde ölü veya külü bulunan tabut ve kaplar ile çelenk ve çiçekler; Türkiye'de vefat eden yabancıların mirasçılarına intikal eden kişisel ve ev eşyası. Türk memur ve vatandaşlarının eşyası listede yer almakla birlikte süreler yer değiştirilmiştir: hükümde gidişten iki ay evvel veya altı ay sonra gönderilen eşya sayılmıştır, altı ay evvel veya iki ay sonra şeklindeki dönem sayılmamıştır. Tuzak, sürelerin sırasının değiştirilmesidir. (MD GY 170/1)",
+  "kanit": "17-BEYAN.txt | (1) Aşağıda yazılı eşyanın ihracında beyan sözlü olarak yapılır. ... gidişlerinden iki ay evvel veya altı ay sonra gönderecekleri kişisel ve ev eşyası"
+ },
+ {
+  "test": 1,
+  "konu": "Beyan",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "GK 69/1-4",
+  "cek": "Vergi ödenmeden veya teminatsız teslim yasağı kısmi muafiyetli geçici ithalata uygulanmaz; makul süre, aynı anda teslim, kalem, teminat kuralları.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre beyanname kapsamı eşyanın teslimine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Vergiler ödenmedikçe veya teminata bağlanmadıkça eşyanın teslim edilmemesi kuralı, kısmi muafiyete tabi geçici ithalat rejimine de uygulanır.",
+  "c": [
+   "Beyannamenin incelenmesinin makul bir süre içinde tamamlanamadığı ve bu inceleme sırasında eşyanın hazır bulundurulmasına gerek olmadığı hâllerde de eşya teslim edilir.",
+   "Aynı beyanname kapsamı eşyanın tümünün aynı anda teslimi esastır.",
+   "Teslim bakımından, iki veya daha fazla kalemi kapsayan bir beyannamede her kaleme ilişkin bilgiler ayrı bir beyanname konusu eşya gibi değerlendirilir.",
+   "Beyan edilen gümrük rejimi hükümlerine göre teminat istenmesi hâlinde, söz konusu teminat alınmadan eşya teslim edilemez."
+  ],
+  "sabit": null,
+  "g": "4458 sayılı Gümrük Kanununa göre beyannamenin tescili bir gümrük yükümlülüğü doğuruyorsa gümrük vergileri ödenmedikçe veya teminata bağlanmadıkça beyanname kapsamı eşya teslim edilemez; ancak Kanun bu kuralın kısmi muafiyete tabi geçici ithalat rejimine uygulanamayacağını açıkça belirtmiştir. Kuralın kısmi muafiyetli geçici ithalata da uygulandığını söyleyen ifade bu nedenle yanlıştır. Diğer ifadeler doğrudur: beyannamenin incelenmesi makul sürede tamamlanamaz ve eşyanın hazır bulundurulması gerekmezse eşya teslim edilir; aynı beyanname kapsamı eşyanın tümünün aynı anda teslimi esastır ve bu uygulamada her kalem ayrı bir beyanname konusu eşya gibi değerlendirilir; rejim teminat gerektiriyorsa teminat alınmadan eşya teslim edilmez. (MD GK 69)",
+  "kanit": "17-BEYAN.txt | Beyannamenin tescilinin bir gümrük yükümlülüğü doğurması halinde, gümrük vergileri ödenmedikçe veya teminata bağlanmadıkça beyanname kapsamı eşya teslim edilemez. Ancak, bu hüküm kısmi muafiyete tabi geçici ithalat rejimine uygulanamaz. ... Aynı beyanname kapsamı eşyanın tümünün aynı anda teslimi esastır."
+ },
+ {
+  "test": 1,
+  "konu": "Muafiyetler",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2022/84",
+  "alt_tip": "B1",
+  "kalip": "BOŞLUK",
+  "z": "Z",
+  "madde": "2009/15481 s. Karar 96/1",
+  "cek": "Standart depoda muaf yakıt: istiap haddi 15 tonun üzerindeki kamyon ve tankerde 400 litre, TIR çekicisinde 550 litre.",
+  "kok": [
+   "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre motorlu ticari araçların standart depolarında mevcut bulunan ve gümrük vergilerinden muaf olarak ithal edilecek yakıt miktarı, istiap haddi 15 tonun üzerinde olan kamyon ve tankerlerde ..... litreyi, TIR çekicilerinde ise ..... litreyi aşamaz.",
+   "Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?"
+  ],
+  "d": "400 / 550",
+  "c": [
+   "300 / 400",
+   "300 / 550",
+   "400 / 300",
+   "550 / 400"
+  ],
+  "sabit": {
+   "siklar": [
+    "300 / 400",
+    "300 / 550",
+    "400 / 300",
+    "400 / 550",
+    "550 / 400"
+   ],
+   "dogru": "D"
+  },
+  "g": "Kararda motorlu ticari araçların ve özel konteynerlerin standart depolarında gümrük vergilerinden muaf olarak ithal edilecek yakıt miktarı araç türüne göre sınırlandırılmıştır: TIR çekicilerinde 550 litre, istiap haddi 15 tona kadar (15 ton dahil) olan kamyon ve tankerlerde 300 litre, istiap haddi 15 tonun üzerinde olan kamyon ve tankerlerde 400 litre, otobüslerde 300 litre. Buna göre birinci boşluğa 400, ikinci boşluğa 550 gelir. 300 litre, 15 tona kadar olan kamyon ve tankerler ile otobüslerin sınırıdır; değerlerin sırasının ters çevrildiği seçenekler de tuzaktır. (MD 2009/15481 s. Karar 96/1)",
+  "kanit": "39-muafiyetler.txt | a) TIR çekicilerinde 550 litreyi, ... c) İstiap haddi 15 tonun üzerinde olan kamyon ve tankerlerde ise 400 litreyi,"
+ },
+ {
+  "test": 1,
+  "konu": "İhracat",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "K1",
+  "kalip": "KAVRAM",
+  "z": "O",
+  "madde": "İhracat Yönetmeliği 4/1-a, 4/1-n",
+  "cek": "Bağlı muamele: ikiden fazla taraf arasında yapılan takas işlemi.",
+  "kok": [
+   "İhracat Yönetmeliğine göre \"İkiden fazla taraf arasında yapılan takas işlemi\" şeklinde tanımlanan kavram aşağıdakilerden hangisidir?"
+  ],
+  "d": "Bağlı muamele",
+  "c": [
+   "Takas",
+   "Offset",
+   "Transit ticaret",
+   "Konsinye ihracat"
+  ],
+  "sabit": null,
+  "g": "İhracat Yönetmeliğinin tanımlar maddesinde bağlı muamele, ikiden fazla taraf arasında yapılan takas işlemi olarak tanımlanmıştır. Takas ise ihraç veya ithal edilen mal veya hizmet bedelinin kısmen veya tamamen mal, hizmet veya döviz ile karşılanması işlemidir; tanımda geçen takas kelimesi bu nedenle tuzaktır. Offset, kamu kuruluşlarınca açılan uluslararası ihaleler çerçevesinde ihaleyi kazananın üstlendiği ihracat taahhüdünü; transit ticaret, yurt dışında veya serbest bölgede yerleşik bir firmadan ya da antrepodan satın alınan malın yurt dışına ya da serbest bölgeye satılmasını; konsinye ihracat ise kesin satışı daha sonra yapılmak üzere mal gönderilmesini ifade eder. (MD İhracat Yönetmeliği 4/1-a, 4/1-k, 4/1-m, 4/1-n, 4/1-ö)",
+  "kanit": "36-ihracat.txt | a) Bağlı muamele: İkiden fazla taraf arasında yapılan takas işlemini, ... n) Takas: İhraç veya ithal edilen mal veya hizmet bedelinin, kısmen veya tamamen mal, hizmet veya döviz ile karşılanması işlemini,"
+ },
+ {
+  "test": 1,
+  "konu": "İhracat",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2024/55, 2025/69",
+  "alt_tip": "D6",
+  "kalip": "SONUÇ",
+  "z": "K",
+  "madde": "GY 416/1-b",
+  "cek": "Deniz yoluyla çıkışta Türkiye Gümrük Bölgesini terk tarihi, eşyanın yüklendiği deniz taşıtının hareket ettiği tarihtir.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre deniz yoluyla yapılan çıkışlarda, eşyanın Türkiye Gümrük Bölgesini terk ettiği tarih olarak aşağıdakilerden hangisi kabul edilir?"
+  ],
+  "d": "Eşyanın yüklendiği deniz taşıtının hareket ettiği tarih",
+  "c": [
+   "Eşyaya ilişkin ihracat beyannamesinin tescil edildiği tarih",
+   "Gümrük idaresince çıkış işlemlerinin tamamlandığı tarih",
+   "Eşyanın deniz taşıtına yüklendiği tarih",
+   "Eşyanın yüklendiği deniz taşıtının Türkiye kara sularından çıktığı tarih"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre deniz ve hava yoluyla çıkışlarda eşyanın Türkiye Gümrük Bölgesini terk ettiği tarih, eşyanın yüklendiği deniz veya hava taşıtının hareket ettiği tarihtir. Çıkış işlemlerinin tamamlanması ölçütü kara ve demir yolu çıkışlarında, eşyanın kara sınırından yabancı bir ülkeye fiilen çıkması veya serbest bölgeye fiilen girmesiyle birlikte aranır; beyanname tescil tarihi, yükleme tarihi ve kara sularından çıkış tarihi hükümde esas alınmamıştır. (MD GY 416/1-a, 416/1-b)",
+  "kanit": "36-ihracat.txt | b) Deniz ve hava yoluyla çıkışlarda, eşyanın yüklendiği deniz veya hava taşıtının hareket ettiği,"
+ },
+ {
+  "test": 1,
+  "konu": "Geri Gelen Eşya",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/59",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "GK 168/1-2, 169",
+  "cek": "Dış ticaret önlemine konu ihraç eşyasında muafiyet yasağına istisnanın hâl ve şartlarını Ticaret Bakanlığı değil Cumhurbaşkanı belirler.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre geri gelen eşyaya tanınan ithalat vergilerinden muafiyete ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Dış ticaret önlemine konu eşyaya muafiyet tanınmamasına istisna getirilmesine ilişkin hâl ve şartları Ticaret Bakanlığı belirler.",
+  "c": [
+   "Serbest dolaşımdaki eşyanın ihraç edildikten sonra üç yıl içinde yeniden serbest dolaşıma girmesi hâlinde muafiyet, beyan sahibinin talebi üzerine tanınır.",
+   "Üç yıllık süre, beklenmeyen hâller veya mücbir sebeplerle uzatılabilir.",
+   "Aynen ihraç edildiği durumda olması hâli hariç, hariçte işleme rejimi çerçevesinde ihraç edilen eşyaya bu muafiyet tanınmaz.",
+   "Muafiyet, geri gelen eşyanın ihracı sırasındaki ayniyeti değişmeden yeniden ithali hâlinde tanınır."
+  ],
+  "sabit": null,
+  "g": "4458 sayılı Gümrük Kanununa göre ihracı bir dış ticaret önlemine konu olan eşyaya geri gelen eşya muafiyeti tanınmaz ve bu kurala istisna getirilmesine ilişkin hâl ve şartlar Cumhurbaşkanınca belirlenir; ifadede yetki Ticaret Bakanlığına verilerek makam değiştirilmiştir. Diğer ifadeler Kanunla uyumludur: muafiyet, ihraçtan sonra üç yıl içinde yeniden serbest dolaşıma giren eşyaya beyan sahibinin talebi üzerine tanınır; bu süre beklenmeyen hâller veya mücbir sebeplerle uzatılabilir; aynen ihraç edildiği durumda olması hâli dışında hariçte işleme rejimi çerçevesinde ihraç edilen eşya muafiyetten yararlanamaz; muafiyet, eşyanın ihracı sırasındaki ayniyetinin değişmemesi koşuluna bağlıdır. (MD GK 168, 169)",
+  "kanit": "37-geri gelen eşya.txt | b) İhracı, bir dış ticaret önlemine konu olan eşyaya, ... (b) bendine[157] istisna getirilmesine ilişkin hal ve şartlar Cumhurbaşkanınca[158] belirlenir."
+ },
+ {
+  "test": 1,
+  "konu": "Posta/Hızlı Kargo",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/59",
+  "alt_tip": "Ö2",
+  "kalip": "ÖNERMELİ",
+  "z": "Z",
+  "madde": "GK 173/2, 173/4, 174, 175",
+  "cek": "Ticari olmayan posta eşyasında uluslararası belge beyanname hükmündedir; kontrol kapsamı Ulaştırma Bakanlığıyla müşterek yönetmelikle belirlenir; I ve III yanlış.",
+  "kok": [
+   "Posta yoluyla gelen ve gönderilen eşyaya ilişkin aşağıdaki ifadeler verilmiştir:",
+   "I. Posta yoluyla gelen veya Türkiye'den gönderilecek olan ticari mahiyetteki eşya için ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmünde olup ayrıca beyanname aranmaz.",
+   "II. Türkiye Gümrük Bölgesine gelen bütün posta çantaları ve koliler, ilk giriş kapısından itibaren gümrük gözetimi altında posta idarelerine sevk edilir ve buralarda gümrük muayenesine tabi tutulur.",
+   "III. Posta gönderilerine ait gümrük kontrolünün kapsamı ve yöntemi, Gümrük Müsteşarlığının bağlı olduğu Bakanlıkça tek başına hazırlanacak bir yönetmelikle belirlenir.",
+   "IV. Posta yoluyla gelen eşyanın konulduğu genel antrepo sayılan yerlerde bekleme süresi, Türkiye'nin taraf olduğu uluslararası posta anlaşmaları hükümlerine tabidir.",
+   "4458 sayılı Gümrük Kanununun posta gümrük işlemlerine ilişkin hükümlerine göre yukarıdaki ifadelerden hangisi ya da hangileri yanlıştır?"
+  ],
+  "d": "I ve III",
+  "c": [
+   "Yalnız I",
+   "II ve IV",
+   "III ve IV",
+   "I, II ve III"
+  ],
+  "sabit": {
+   "siklar": [
+    "Yalnız I",
+    "I ve III",
+    "II ve IV",
+    "III ve IV",
+    "I, II ve III"
+   ],
+   "dogru": "B"
+  },
+  "g": "4458 sayılı Gümrük Kanununa göre posta yoluyla gelen veya gönderilecek ticari mahiyetteki eşya, beyana ilişkin genel hükümler uyarınca gümrük idarelerine beyan edilir; uluslararası kabul görmüş belgelerin beyanname hükmünde sayılması ve ayrıca beyanname aranmaması ticari mahiyette olmayan eşyaya özgüdür. Bu nedenle I yanlıştır. Posta gönderilerine ait gümrük kontrolünün kapsamı ve yöntemi, Ulaştırma Bakanlığı ile Gümrük Müsteşarlığının bağlı olduğu Bakanlıkça müştereken hazırlanacak bir yönetmelikle belirlenir; tek başına ifadesi nedeniyle III de yanlıştır. Posta çantaları ve kolilerin ilk giriş kapısından itibaren gümrük gözetiminde posta idarelerine sevk edilip burada muayene edilmesi (II) ve genel antrepo sayılan yerlerdeki bekleme süresinin uluslararası posta anlaşmalarına tabi olması (IV) doğrudur. (MD GK 173, 174, 175)",
+  "kanit": "40-posta ve hızlı kargo.txt | 2. Ticari mahiyette olmayan eşyanın gümrük idaresine sunulması sırasında, ibraz edilen uluslararası kabul görmüş belgeler beyanname hükmünde olup, ayrıca beyanname aranmaz. ... kapsamı ve yöntemi, Ulaştırma Bakanlığı ve Gümrük Müsteşarlığının bağlı olduğu Bakanlıkça müştereken hazırlanacak bir yönetmelikle belirlenir."
+ },
+ {
+  "test": 2,
+  "konu": "Beyan",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "O",
+  "madde": "GY 185/1",
+  "cek": "Muayeneye tabi tutulmayan eşya: Cumhurbaşkanı, yabancı devlet başkanları, diplomatik temsilcilik eşyası, gizli evraklı kurye çantası; TBMM Başkanı eşyası sayılmamış.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi muayeneye tabi tutulmayan eşya arasında sayılmamıştır?"
+  ],
+  "d": "Türkiye Büyük Millet Meclisi Başkanının zat ve ikametgâhı için gelen eşya",
+  "c": [
+   "Cumhurbaşkanının zat ve ikametgâhı için gelen eşya",
+   "Yabancı devlet başkanları ve aileleri efradı ile refakatlerinde memur olanların getirdikleri eşya ve taşıtları",
+   "Türkiye'deki yabancı diplomatik temsilciliklerin resmî bir görevin yapılması ile ilgili olarak getirecekleri belgeler, taşıtlar ve resmî binalar için inşaat malzemesi",
+   "İçinde gizli evrak bulunan mühürlü kurye çantaları"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre muayeneye tabi tutulmayan eşya şunlardır: Cumhurbaşkanının zat ve ikametgâhı için gelen eşya; Gümrük Kanununda muafiyet tanınan millî savunma ve güvenlik kurumlarının eşyasından gizliliği ilgili kurumlarca önceden bildirilenler; yabancı devlet başkanları, aileleri efradı ve refakatlerindeki memurların getirdikleri veya ikametleri sırasında getirtecekleri eşya ve taşıtlar; yabancı diplomatik temsilcilik ve konsoloslukların resmî görevle ilgili belge, taşıt, eşya ve resmî bina inşaat malzemesi; içinde gizli evrak bulunan mühürlü kurye çantaları. Listede Türkiye Büyük Millet Meclisi Başkanına ait eşya yer almaz; bu ayrıcalık yalnızca Cumhurbaşkanının zat ve ikametgâhı için gelen eşyaya tanınmıştır. (MD GY 185/1)",
+  "kanit": "17-BEYAN.txt | (1) Aşağıda yazılı eşya muayeneye tabi tutulmaz: ... a) Cumhurbaşkanının zat ve ikametgâhı için gelen eşya, ... d) İçinde gizli evrak bulunan mühürlü kurye çantaları."
+ },
+ {
+  "test": 2,
+  "konu": "Muafiyetler",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/72",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "GY 439/1-2, 440/1-4, 442/1",
+  "cek": "Diplomatik muafiyetli kişilerin beraberindeki eşya, şüphe ve yazılı, açık adresli, imzalı ihbar varsa muayene edilebilir; karşılıklılık, çalınan taşıt, mektup hükümleri.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre diplomatik muafiyetlerin uygulanmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Diplomatik muafiyetten yararlananların beraberlerinde gelen kişisel eşya ve ev eşyası, şüphe ve yazılı, açık adresli ve imzalı bir ihbar bulunsa dahi muayene edilmez.",
+  "c": [
+   "Diplomatik muafiyet ve kolaylıkların uygulanabilmesi için aynı muafiyet ve kolaylıkların yabancı devletler tarafından da karşılıklı olarak gösterilmiş bulunması şarttır.",
+   "Daha az muafiyet ve kolaylık gösteren devletler hakkında karşılıklı uygulanacak muafiyet ve kolaylıklar o nispette azaltılır.",
+   "Diplomatik muafiyetle yurda sokulan taşıtların çalınması, mahkeme ilamı veya Cumhuriyet savcılığından ya da olayın vuku bulduğu yerin en büyük mülki amirinden alınan belgeyle ispatlanırsa gümrük vergileri aranmaz.",
+   "Diplomatik muafiyetten yararlananların beraberlerinde gelmeyen eşyası için ilgili elçiliklerce tanzim edilip Dışişleri Bakanlığınca vize edilmiş mektuplar beyanname olarak kabul olunur."
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre diplomatik muafiyetten yararlanan kişilerin beraberlerinde gelen kişisel eşya ve ev eşyası ile görevleriyle ilgili eşya için beyan aranmaz ve bu eşya muayene edilmez; ancak bu kural mutlak değildir, şüphe ve yazılı, açık adresli ve imzalı ihbar varsa eşya muayene edilebilir. İhbar bulunsa dahi muayene yapılmayacağını söyleyen ifade bu nedenle yanlıştır. Muafiyet ve kolaylıkların karşılıklılık şartına bağlı olması, daha az kolaylık tanıyan devletlere o nispette azaltılmış uygulama yapılması, çalınan taşıtlarda olayın belgeyle ispatı hâlinde vergilerin aranmaması ve beraberde gelmeyen eşya için Dışişleri Bakanlığınca vize edilmiş mektupların beyanname sayılması hükümleri doğrudur. (MD GY 439/1-2, 440/1, 440/3-4, 442/1)",
+  "kanit": "39-muafiyetler.txt | (3) Şüphe ve yazılı, açık adresli ve imzalı ihbar olmadıkça, bu eşya muayene edilmez. ... (2) Daha az muafiyet ve kolaylık gösteren devletler hakkında karşılıklı uygulanacak muafiyet ve kolaylıklar o nispette azaltılır."
+ },
+ {
+  "test": 2,
+  "konu": "Muafiyetler",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2024/62",
+  "alt_tip": "D1",
+  "kalip": "SÜRE",
+  "z": "Z",
+  "madde": "2009/15481 s. Karar 107/4, 107/5-a",
+  "cek": "Engellilere mahsus araçlar SDG tarihinden itibaren on yıl geçmedikçe engelli olmayana vergisiz devredilemez; genel üç yıl, varis beş yıl.",
+  "kok": [
+   "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre engellilerin kullanımına mahsus olarak muafen serbest dolaşıma sokulan özel tertibatlı otomobil, motosiklet ve minibüs gibi araçların engelli olmayan kişilere gümrük vergileri tahsil edilmeden satışı, hibesi veya devrine ilişkin süre sınırı aşağıdakilerden hangisinde doğru olarak verilmiştir?"
+  ],
+  "d": "Serbest dolaşıma girdiği tarihten itibaren 10 yıl geçmedikçe yapılamaz.",
+  "c": [
+   "Serbest dolaşıma girdiği tarihten itibaren 1 yıl geçmedikçe yapılamaz.",
+   "Serbest dolaşıma girdiği tarihten itibaren 3 yıl geçmedikçe yapılamaz.",
+   "Serbest dolaşıma girdiği tarihten itibaren 5 yıl geçmedikçe yapılamaz.",
+   "Süreye bağlı olmaksızın hiçbir zaman yapılamaz."
+  ],
+  "sabit": {
+   "siklar": [
+    "Serbest dolaşıma girdiği tarihten itibaren 1 yıl geçmedikçe yapılamaz.",
+    "Serbest dolaşıma girdiği tarihten itibaren 3 yıl geçmedikçe yapılamaz.",
+    "Serbest dolaşıma girdiği tarihten itibaren 5 yıl geçmedikçe yapılamaz.",
+    "Serbest dolaşıma girdiği tarihten itibaren 10 yıl geçmedikçe yapılamaz.",
+    "Süreye bağlı olmaksızın hiçbir zaman yapılamaz."
+   ],
+   "dogru": "D"
+  },
+  "g": "Kararda muafen serbest dolaşıma giren eşya için devir yasağı süreleri ayrı ayrı belirlenmiştir: taşıt, ev eşyası, çeyiz, miras, konut eşyası ve işyeri nakli eşyası için bir yıl; engellilerin kullanımına mahsus eşya için genel olarak üç yıl. Ancak engellilere yönelik araçlar bakımından özel hüküm vardır: bu araçlar serbest dolaşıma girdiği tarihten itibaren on yıl geçmedikçe engelli olmayan kişilere gümrük vergileri tahsil edilmeden satılamaz, hibe ve devredilemez; on yıl sonrasında devirde gümrük vergileri aranmaz. Beş yıl ise engelli kişinin vefatı üzerine aracı devralan varisin aracı engelli olmayan kişilere devrinde aranan süredir. (MD 2009/15481 s. Karar 107/4, 107/5)",
+  "kanit": "39-muafiyetler.txt | a) 104 üncü maddenin ikinci fıkrasında belirtilen araçların serbest dolaşıma girdiği tarihten itibaren on yıl geçmedikçe engelli olmayan kişilere gümrük vergileri tahsil edilmeden satışı, hibesi veya devri yapılamaz. ... b) 104 üncü maddede yer alan eşya için üç yıl,"
+ },
+ {
+  "test": 2,
+  "konu": "İhracat",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2025/61",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "O",
+  "madde": "GY 154/1, 154/5",
+  "cek": "İhracatta eksik beyanda beyannamede bulunacak unsurlar: gideceği ülke, kaplar, tarife pozisyonu, ağırlık, imza; menşe ülkesi sayılmamış.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre ihracat rejiminde eksik beyanda bulunulan beyannamede yer alması gereken hususlar arasında aşağıdakilerden hangisi sayılmamıştır?"
+  ],
+  "d": "Eşyanın menşe ülkesi",
+  "c": [
+   "Eşyanın gideceği ülke",
+   "Kapların adedi ve cinsi",
+   "Eşyanın tarife pozisyonu",
+   "Beyan sahibinin imzası"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre ihracat rejiminde eksik beyanda beyannamede ihracatçı, beyan sahibi, eşyanın gideceği ülke, eşyanın cinsi, kapların adedi ve cinsi, eşyanın tarife pozisyonu, eşyanın ağırlığı, ek bilgi, belge ve izinler ile beyan sahibinin imzası yer almalıdır. Sayılan hususlar arasında eşyanın menşe ülkesi bulunmaz; tuzak, listedeki eşyanın gideceği ülke unsuru ile menşe ülkesinin karıştırılmasıdır. Bu beyannamelerin 44 numaralı kutusuna ayrıca Basitleştirilmiş İhracat ifadesi yazılır. (MD GY 154/1, 154/5)",
+  "kanit": "17-BEYAN.txt | (1) Beyannamede; ihracatçı, beyan sahibi, eşyanın gideceği ülke, eşyanın cinsi, kapların adedi ve cinsi, eşyanın tarife pozisyonu, eşyanın ağırlığı, ek bilgi, belge ve izinler ile beyan sahibinin imzası yer almalıdır."
+ },
+ {
+  "test": 2,
+  "konu": "Geri Gelen Eşya",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "Ö1",
+  "kalip": "ÖNERMELİ",
+  "z": "ÇZ",
+  "madde": "GK 168/1, 170",
+  "cek": "Özel amaçla indirimli oranla girmiş geri gelen eşyada aynı amaç-aynı oran, farklı amaçta mahsup ve iade yok; DİR sonrası yeniden ihraç tarihi esas.",
+  "kok": [
+   "Geri gelen eşyaya uygulanacak ithalat vergilerine ilişkin aşağıdaki ifadeler verilmiştir:",
+   "I. İhraç edilmeden önce özel amaçlı kullanımı nedeniyle indirimli vergi oranından yararlanarak serbest dolaşıma girmiş olan geri gelen eşyanın aynı amaca yönelik olarak tekrar serbest dolaşıma sokulmak istenmesi hâlinde bu eşyaya indirimli vergi oranı uygulanır.",
+   "II. İthal amacının aynı olmaması hâlinde, serbest dolaşıma ilk girişi sırasında alınmış tutarın yeniden serbest dolaşıma giriş sırasında alınacak tutardan fazla olması durumunda aradaki fark beyan sahibine iade edilir.",
+   "III. Dahilde işleme rejiminin uygulanmasından sonra ihraç edilip geri gelen işlem görmüş ürünlerde, eşyanın yeniden ihraç tarihi serbest dolaşıma giriş tarihi olarak kabul edilir.",
+   "IV. Dahilde işleme rejiminin uygulanmasından sonra ihraç edilip geri gelen işlem görmüş ürünlerde kanunen alınması gereken ithalat vergileri tutarı, serbest dolaşıma giriş rejimi hükümlerine göre belirlenir.",
+   "4458 sayılı Gümrük Kanununun geri gelen eşyaya ilişkin hükümlerine göre yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?"
+  ],
+  "d": "I ve III",
+  "c": [
+   "Yalnız I",
+   "I ve II",
+   "II ve IV",
+   "I, III ve IV"
+  ],
+  "sabit": {
+   "siklar": [
+    "Yalnız I",
+    "I ve II",
+    "I ve III",
+    "II ve IV",
+    "I, III ve IV"
+   ],
+   "dogru": "C"
+  },
+  "g": "Gümrük Kanununa göre geri gelen eşya, ihraçtan önce özel amaçlı kullanımı nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmişse, aynı amaçla tekrar serbest dolaşıma sokulmak istendiğinde yine indirimli veya sıfır oran uygulanır; I doğrudur. İthal amacı farklıysa uygulanacak vergi tutarı ilk girişte alınan tutar kadar indirilir; ancak ilk girişte alınan tutar daha fazla ise hiçbir iade yapılmaz; II yanlıştır. Geri gelen eşya hükümleri, dahilde işleme rejiminden sonra ihraç edilip geri gelen işlem görmüş ürünlere de uygulanır; bu hâlde eşyanın yeniden ihraç tarihi serbest dolaşıma giriş tarihi sayılır (III doğru) ve kanunen alınması gereken ithalat vergileri tutarı dahilde işleme rejimi hükümlerine göre belirlenir (IV yanlış). Buna göre yalnızca I ve III doğrudur. (MD GK 168/1, 170)",
+  "kanit": "37-geri gelen eşya.txt | Ancak, serbest dolaşıma ilk girişi sırasında alınmış tutarın geri gelen eşyanın yeniden serbest dolaşıma girişi sırasında alınacak tutardan daha fazla olması halinde hiçbir iade yapılmaz. ... Bu gibi hallerde, eşyanın yeniden ihraç tarihi, serbest dolaşıma giriş tarihi olarak kabul edilir ve kanunen alınması gereken ithalat vergileri tutarı, dahilde işleme rejimi hükümlerine göre belirlenir."
+ },
+ {
+  "test": 2,
+  "konu": "Tasfiye",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/34",
+  "alt_tip": "G1",
+  "kalip": "DOĞRU",
+  "z": "Z",
+  "madde": "GK 177/3-4, 179/1, 180/1, 180/3",
+  "cek": "Kaçak eşyanın satış bedelinden alınacak vergide tespit tutanağı tarihindeki oran esas; CIF/FOB, otuz gün, yüzde bir-üç, bir yıl çeldirici.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre tasfiye edilecek eşyaya ilişkin aşağıdaki ifadelerden hangisi doğrudur?"
+  ],
+  "d": "Kaçak eşyanın satış bedelinden alınacak gümrük vergileri, kaçak eşya tespit tutanağının düzenlendiği tarihteki vergi oranlarına göre belirlenir.",
+  "c": [
+   "Tasfiye edilmesine karar verilen eşyanın bulunmaması hâlinde, ithal eşyası için FOB, ihraç eşyası için CIF kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir.",
+   "Tasfiyelik hâle gelen eşyanın tespit ve tahakkuk belgeleri on beş gün içinde tasfiye idaresine intikal ettirilir.",
+   "İhale ilanının yayımlandığı tarihe kadar yapılan rejim başvurusunun kabulü, ilk başvuruda eşyanın döviz cinsinden CIF değerinin %3'ü oranında bir tutarın ödenmesine bağlıdır.",
+   "Satış bedelinin dağıtımından sonra artıp eşya sahipleri adına emanete alınan para, emanete alındığı tarihten itibaren üç yıl içinde alınmazsa döner sermaye işletmesine irat kaydedilir."
+  ],
+  "sabit": null,
+  "g": "Gümrük Kanununa göre tasfiye edilen eşya ve taşıtın satış bedelinden alınacak gümrük vergileri; beyanname verilmişse tescil tarihindeki, kaçak eşyada kaçak eşya tespit tutanağının düzenlendiği tarihteki, bu tarihler bilinmiyorsa tespit ve tahakkuk belgesinin düzenlendiği tarihteki vergi oranlarına göre belirlenir. Diğer ifadeler birer unsur değiştirilerek bozulmuştur: eşya bulunamazsa ithal eşyası için CIF, ihraç eşyası için FOB kıymeti esas alınır; tespit ve tahakkuk belgeleri otuz gün içinde tasfiye idaresine intikal ettirilir; ihale ilanına kadar yapılan başvurunun kabulü, varsa ceza ve giderlerle birlikte ilk başvuruda CIF değerinin %1'i, ikinci kez yararlanmada %3'ü oranında tutarın ödenmesine bağlıdır; emanete alınan para bir yıl içinde alınmazsa döner sermaye işletmesine irat kaydedilir. (MD GK 177/3-4, 179/1, 180/1, 180/3)",
+  "kanit": "43-tasfiye.txt | kaçak eşya için kaçak eşya tespit tutanağının düzenlendiği tarihte, söz konusu tarihler bilinmiyorsa tespit ve tahakkuk belgesinin düzenlendiği tarihteki vergi oranlarına göre belirlenir. ... ithal eşyası için CIF, ihraç eşyası için FOB kıymeti ile bunlara ilişkin gümrük vergileri tutarları tahsil edilir."
+ },
+ {
+  "test": 2,
+  "konu": "Serbest Bölge",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "O",
+  "madde": "GY 429/1, 423/1",
+  "cek": "Serbest bölge envanter kayıtlarının içeriği: yer, taşıma belgesi, statü belgesi, elleçleme; kişinin giriş izin belgesi bilgisi sayılmamış.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtlarının içermesi gereken bilgiler arasında aşağıdakilerden hangisi sayılmamıştır?"
+  ],
+  "d": "Bölgeye giren kişinin serbest bölge giriş izin belgesine ilişkin bilgiler",
+  "c": [
+   "Eşyanın yerleştirildiği yer",
+   "Eşya giriş ve çıkışında kullanılan taşıma belgesine ilişkin bilgiler",
+   "Eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgiler",
+   "Elleçleme işlemlerine ilişkin açıklamalar"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre serbest bölgelerde tutulan envanter kayıtları; eşyanın miktarı, normal ticari tanımı ve ayırt edici özellikleri ile paket ve konteyner bilgilerini, eşyanın yerleştirildiği yeri, giriş ve çıkışta kullanılan taşıma belgesine ilişkin bilgileri, eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, elleçleme işlemlerine ilişkin açıklamaları ve eşya dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulmuşsa bu rejimlere ilişkin açıklamaları içerir. Serbest Bölge Giriş İzin Belgesi ise bölgeye giren veya çıkan kişilerin gümrük personeline ibraz ettiği belgelerden biridir; envanter kayıtlarının içeriği arasında sayılmamıştır. (MD GY 429/1, 423/1)",
+  "kanit": "38-serbest bölge.txt | b) Eşyanın yerleştirildiği yeri, ... ç) Eşyanın gümrük statüsünü gösteren belgeye ilişkin bilgileri, ... a) Serbest Bölge Giriş İzin Belgesi,"
+ },
+ {
+  "test": 2,
+  "konu": "Akaryakıt-Kumanya",
+  "sinif": "AZ",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D1",
+  "kalip": "SÜRE",
+  "z": "K",
+  "madde": "GY 482/1, 482/4",
+  "cek": "Düzenli seferli geminin son Türk limanındaki üç aya kadar beklemesi yabancı ülkelere yapılan seferin devamı sayılır.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre Türkiye Gümrük Bölgesi dışına sefer yapan düzenli seferli gemilerin, yabancı ülkelere yaptıkları seferden son Türk limanına dönerek tekrar dış sefere çıkmaları hâlinde, bu limandaki ne kadar süreye kadar olan bekleme süreleri yabancı ülkelere yapılan seferin devamı sayılır?"
+  ],
+  "d": "3 ay",
+  "c": [
+   "1 ay",
+   "6 ay",
+   "1 yıl",
+   "3 yıl"
+  ],
+  "sabit": {
+   "siklar": [
+    "1 ay",
+    "3 ay",
+    "6 ay",
+    "1 yıl",
+    "3 yıl"
+   ],
+   "dogru": "B"
+  },
+  "g": "Gümrük Yönetmeliğine göre Türkiye Gümrük Bölgesi dışına sefer yapan düzenli seferli gemilerin yabancı ülkelere yaptıkları seferden son Türk limanına dönerek tekrar dış sefere çıkmaları hâlinde, bu limandaki üç aya kadar olan bekleme süreleri yabancı ülkelere yapılan seferin devamı sayılır. Gemi üç ay içinde yabancı limanlara çıkmazsa transit akaryakıt ve kumanyası tespit edilerek vergileri tahsil edilir; bunun zorunlu nedenlerden kaynaklandığının belgelendirilmesi hâlinde sürenin uzatılmasına gümrük ve muhafaza başmüdürlükleri yetkilidir. (MD GY 482/1, 482/4)",
+  "kanit": "42-kumanya.txt | bu limandaki üç aya kadar olan bekleme süreleri yabancı ülkelere yapılan seferin devamı sayılır."
+ },
+ {
+  "test": 2,
+  "konu": "Sınır Ticareti",
+  "sinif": "AZ",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D2",
+  "kalip": "YETKİ",
+  "z": "O",
+  "madde": "Sınır Ticaretinin Düzenlenmesine İlişkin Karar 6/2-4, 8/2",
+  "cek": "Sınır Ticareti Belgesini, başvurusu odaya yapılıp İl Değerlendirme Komisyonunca uygun görülenler için Valilik düzenler.",
+  "kok": [
+   "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre esnaf ve tacirin sınır ticareti kapsamında ithalat ve ihracat yapabilmesi ve mağaza kiralayabilmesi için sahip olması gereken Sınır Ticareti Belgesini düzenlemeye yetkili merci aşağıdakilerden hangisidir?"
+  ],
+  "d": "Valilik",
+  "c": [
+   "İl Değerlendirme Komisyonu",
+   "İl Ticaret Odası veya İl Ticaret ve Sanayi Odası",
+   "Ticaret İl Müdürlüğü",
+   "Gümrük ve Dış Ticaret Bölge Müdürlüğü"
+  ],
+  "sabit": null,
+  "g": "Sınır Ticaretinin Düzenlenmesine İlişkin Karara göre Sınır Ticareti Belgesi başvuruları İl Ticaret Odası veya İl Ticaret ve Sanayi Odasına yapılır; başvuruları İl Değerlendirme Komisyonu tarafından uygun görülenlere belge Valilikçe düzenlenir. Komisyon başvuruyu değerlendirip karara bağlayan, oda ise başvurunun yapıldığı ve İthalat Uygunluk Belgesini düzenleyen yerdir; bu kurumlar belgeyi düzenleyen merciyle karıştırılmamalıdır. Sınır Ticareti Belgesi üç yıl süreyle geçerlidir ve hiçbir şekilde devredilemez. (MD Sınır Ticaretinin Düzenlenmesine İlişkin Karar 6/2-4, 8/2)",
+  "kanit": "41-sınır ticareti.txt | Başvuruları İl Değerlendirme Komisyonu tarafından uygun görülenlere Valilikçe Sınır Ticareti Belgesi düzenlenir."
+ },
+ {
+  "test": 3,
+  "konu": "Beyan",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/90, 2023/84",
+  "alt_tip": "G1",
+  "kalip": "DOĞRU",
+  "z": "Z",
+  "madde": "GY 175, 176, 177, 178, 179",
+  "cek": "Ticari olmayan yolcu eşyasının yeşil hattan geçirilmesi SDG beyanıdır; kişisel-sportif eşyada geçici ithalat; hak ve menfaat eşyasına uygulanmaz; cezai işlem yapılır.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre başka bir tasarruf yoluyla beyana ilişkin aşağıdaki ifadelerden hangisi doğrudur?"
+  ],
+  "d": "Ticari mahiyette olmayan yolcu beraberi eşyanın iki hat sisteminin çalıştığı gümrük idarelerinde yeşil hattan geçirilmesi, serbest dolaşıma giriş rejimine ilişkin beyan olarak kabul edilir.",
+  "c": [
+   "Yolcular tarafından tam muafiyet suretiyle ithal edilen kişisel ve sportif amaçlı eşyaya ilişkin başka bir tasarruf yoluyla yapılan beyan, serbest dolaşıma giriş rejimine ilişkin beyan olarak kabul edilir.",
+   "İhracat vergisine tabi olan ancak ticari nitelik taşımayan yolcu beraberi eşyaya ilişkin başka bir tasarruf yoluyla yapılan beyan, ihracat rejimine ilişkin beyan olarak kabul edilir.",
+   "Başka bir tasarruf yoluyla beyana ilişkin hükümler, ihracata bağlı hak ve menfaatlerden yararlanan eşya için de uygulanır.",
+   "Başka bir tasarruf yoluyla beyan gerçekleştikten sonra koşulların yerine getirilmediğinin yapılan inceleme sonucunda anlaşılması durumunda cezai işlem yapılmaz."
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre yazılı, bilgisayar veri işleme tekniği yoluyla veya sözlü olarak beyan edilmeyen, ticari mahiyette olmayan yolcu beraberi eşyanın iki hat sisteminin çalıştığı gümrük idarelerinde yeşil veya beyana tabi eşyam yoktur hattından geçirilmesi başka bir tasarruf yoluyla beyandır ve serbest dolaşıma giriş rejimine ilişkin beyan olarak kabul edilir. Yolcuların tam muafiyetle getirdiği kişisel ve sportif amaçlı eşyada bu beyan geçici ithalat rejimine ilişkin beyan sayılır; ihracatta ise yalnızca ihracat vergisine tabi olmayan ve ticari nitelik taşımayan yolcu beraberi eşya için ihracat rejimine ilişkin beyan kabul edilir. Bu hükümler ihracata bağlı hak ve menfaatlerden yararlanan, vergileri geri verilen veya yasaklama, kısıtlama ya da özel bir işleme tabi eşyaya uygulanmaz; koşulların sağlanmadığı sonradan anlaşılırsa cezai işlem yapılır. (MD GY 175, 176, 177, 178, 179)",
+  "kanit": "17-BEYAN.txt | 175 ila 177 nci maddelerde yer alan eşyanın iki hat sisteminin çalıştığı gümrük idarelerinde yeşil veya \"beyana tabi eşyam yoktur\" hattından geçirilmesi ... (1) 175 ila 177 nci madde hükümleri, ihracata bağlı hak ve menfaatlerden yararlanan, gümrük vergilerinin geri verildiği veya yasaklama, kısıtlama veya diğer özel bir işleme tabi eşya için uygulanmaz."
+ },
+ {
+  "test": 3,
+  "konu": "Muafiyetler",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D3",
+  "kalip": "MUAFİYET",
+  "z": "K",
+  "madde": "2009/15481 s. Karar 53/1, 53/3, 54/1",
+  "cek": "Miras yoluyla intikalde kişisel eşya, ev eşyası ve kullanılmış özel nakil vasıtası muaf; ticari araç, stok, fazla hayvan ve meslek aletleri hariç.",
+  "kok": [
+   "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yerleşim yeri Türkiye Gümrük Bölgesi dışında olan gerçek kişilerin ölümü ile Türkiye'de ikamet eden gerçek kişi mirasçılarına intikal eden aşağıdaki eşyadan hangisinin serbest dolaşıma girişinde gümrük vergileri aranmaz?"
+  ],
+  "d": "Kullanılmış motorlu veya motorsuz özel nakil vasıtaları",
+  "c": [
+   "Motorlu ticari nakil vasıtaları",
+   "Hammadde stokları ile mamul veya yarı mamul ürünler",
+   "Normal aile ihtiyaçlarından fazla miktarlarda bulunan canlı hayvanlar ile tarım ürünleri",
+   "Ölen kişinin mesleği dışında bir meslek veya sanatın icrası için kullanılan alet ve cihazlar"
+  ],
+  "sabit": null,
+  "g": "Kararda yerleşim yeri Türkiye Gümrük Bölgesi dışında olan gerçek kişilerin ölümü ile Türkiye'de ikamet eden gerçek kişi mirasçılarına intikal eden kişisel eşya, ev eşyası ve kullanılmış motorlu veya motorsuz özel nakil vasıtalarının serbest dolaşıma girişinde gümrük vergileri aranmaz; nakil vasıtasının ölüm tarihinden en az altı ay önce ölen adına kayıtlı olması ve kayıt ve model yılı dahil üç yıldan eski olmaması gerekir. Buna karşılık motorlu ticari nakil vasıtaları, ölen kişinin kendi mesleğinde kullandığı taşınabilir alet ve cihazlar dışındaki meslek veya sanat alet ve cihazları, hammadde stokları ile mamul veya yarı mamul ürünler ve normal aile ihtiyaçlarını aşan canlı hayvan ve tarım ürünleri muafiyet dışındadır. Muafiyet, veraset ilamı tarihinden itibaren yirmi dört ay içinde getirilen eşyaya tanınır. (MD 2009/15481 s. Karar 53, 54)",
+  "kanit": "39-muafiyetler.txt | gerçek kişi mirasçılarına intikal eden kişisel eşya, ev eşyası ve kullanılmış motorlu veya motorsuz özel nakil vasıtalarının serbest dolaşıma girişinde gümrük vergileri aranmaz. ... c) Hammadde stokları ve mamul veya yarı mamul ürünler."
+ },
+ {
+  "test": 3,
+  "konu": "İhracat",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D1",
+  "kalip": "SÜRE",
+  "z": "ÇZ",
+  "madde": "İhracat Yönetmeliği 9/2-5, 10/3",
+  "cek": "Konsinye ihracatta kesin satıştan sonraki 120 gün içinde Genel Sekreterliğe ve aracı bankaya bildirim yapılır.",
+  "kok": [
+   "İhracat Yönetmeliğine göre ihracatçılar, konsinye olarak gönderilen malların kesin satışının yapılmasından sonra ne kadar süre içinde durumu kesin satış faturası ve gerekli diğer belgelerle birlikte izni veren İhracatçı Birlikleri Genel Sekreterliğine ve aracı bankaya bildirir?"
+  ],
+  "d": "120 gün",
+  "c": [
+   "5 gün",
+   "15 gün",
+   "30 gün",
+   "1 yıl"
+  ],
+  "sabit": {
+   "siklar": [
+    "5 gün",
+    "15 gün",
+    "30 gün",
+    "120 gün",
+    "1 yıl"
+   ],
+   "dogru": "D"
+  },
+  "g": "İhracat Yönetmeliğine göre ihracatçılar, konsinye olarak gönderilen malların kesin satışının yapılmasından sonraki yüz yirmi gün içinde durumu, düzenledikleri kesin satış faturası veya örneği ve gerekli diğer belgelerle izni veren İhracatçı Birlikleri Genel Sekreterliğine ve aracı bankaya bildirir. Çeldiriciler aynı Yönetmelikteki gerçek sürelerdir: Genel Sekreterlik, kesin satışın kendisine bildirilmesinden itibaren beş gün içinde aracı bankaya ve gümrük idaresine bilgi verir; konsinye olarak onaylanmış beyannameler otuz gün içinde gümrük idarelerine sunulur; malın kesin satışı ihraç tarihinden itibaren bir yıl içinde yapılmalıdır; on beş gün ise yurt dışı fuar ve sergiler için çıkışına izin verilen mallara ait beyanname örneklerinin gümrük idarelerince Genel Sekreterliğe gönderilme süresidir. (MD İhracat Yönetmeliği 9/2-5, 10/3)",
+  "kanit": "36-ihracat.txt | (3) İhracatçılar, konsinye olarak gönderilen malların kesin satışının yapılmasından sonraki yüz yirmi gün içinde durumu, kendileri tarafından düzenlenmiş kesin satış faturası veya örneği ve gerekli diğer belgeler ile birlikte izni veren İhracatçı Birlikleri Genel Sekreterliğine ve aracı bankaya bildirir."
+ },
+ {
+  "test": 3,
+  "konu": "Posta/Hızlı Kargo",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "K1",
+  "kalip": "KAVRAM",
+  "z": "K",
+  "madde": "Posta ve Hızlı Kargo Tebliği (Seri No: 1) 3/1-ç, 3/1-d",
+  "cek": "Doküman: kişisel yazılı mesaj, kartpostal ve ticari değeri olmayan basılı materyal gönderisi; gönderi ise eşya içeren paket ve koli.",
+  "kok": [
+   "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'e göre \"Bir kişiden diğer bir kişiye gönderilen kişisel yazılı mesaj, kartpostal ile herhangi bir ticari değer taşımayan basılı materyal şeklindeki gönderiler\" olarak tanımlanan kavram aşağıdakilerden hangisidir?"
+  ],
+  "d": "Doküman",
+  "c": [
+   "Gönderi",
+   "Posta haberleşme gönderisi",
+   "Mektup postası",
+   "Numunelik eşya"
+  ],
+  "sabit": null,
+  "g": "Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğde doküman; bir kişiden diğer bir kişiye gönderilen kişisel yazılı mesaj, kartpostal ile herhangi bir ticari değer taşımayan basılı materyal şeklindeki gönderiler olarak tanımlanmıştır. Aynı Tebliğde gönderi ise içerisinde ticari veya gayri ticari nitelikte eşya bulunan paket, koli, poşet ve benzerini ifade eder; en güçlü çeldirici budur. Yurt dışından gelen gönderiler tasnifte ayrıca belge kontrolüne tabi doküman olarak sınıflandırılır ve doküman kapsamındaki gönderiler tek bir kalemde topluca beyan edilir. (MD Posta ve Hızlı Kargo Tebliği 3/1-ç, 3/1-d, 9/1-a, 10/2)",
+  "kanit": "40-posta ve hızlı kargo.txt | ç) Doküman: Bir kişiden diğer bir kişiye gönderilen kişisel yazılı mesaj, kartpostal ile herhangi bir ticari değer taşımayan basılı materyal şeklindeki gönderileri, ... d) Gönderi: Bir kişiden diğer bir kişiye gönderilen, içerisinde ticari veya gayri ticari nitelikte eşya bulunan paket, koli, poşet ve benzerini,"
+ },
+ {
+  "test": 3,
+  "konu": "Serbest Bölge",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/46, 2023/58",
+  "alt_tip": "Ö3",
+  "kalip": "KAPSAM",
+  "z": "O",
+  "madde": "GK 157/1",
+  "cek": "Serbest bölgedeki serbest dolaşımda olmayan eşya serbest dolaşıma girebilir, terk ve imha edilebilir; hariçte işleme sayılmamış.",
+  "kok": [
+   "Aşağıda serbest bölgedeki eşyaya ilişkin bazı işlemler sayılmıştır:",
+   "I. Serbest dolaşıma giriş rejimi kapsamında serbest dolaşıma sokulma",
+   "II. Hariçte işleme rejimine tabi tutulma",
+   "III. Gümrüğe terk edilme",
+   "IV. İlgili kişinin gümrük idarelerince gerekli görülen tüm bilgileri vermesi şartıyla imha edilme",
+   "4458 sayılı Gümrük Kanununa göre bir serbest bölgeye konulmuş serbest dolaşımda olmayan eşya için yukarıdaki işlemlerden hangileri mümkündür?"
+  ],
+  "d": "I, III ve IV",
+  "c": [
+   "Yalnız III",
+   "I ve III",
+   "II, III ve IV",
+   "I, II, III ve IV"
+  ],
+  "sabit": {
+   "siklar": [
+    "Yalnız III",
+    "I ve III",
+    "I, III ve IV",
+    "II, III ve IV",
+    "I, II, III ve IV"
+   ],
+   "dogru": "C"
+  },
+  "g": "Gümrük Kanununa göre bir serbest bölgeye konulmuş serbest dolaşımda olmayan eşya; Kanundaki koşullar altında serbest dolaşıma giriş rejimi kapsamında serbest dolaşıma girebilir, izne gerek olmaksızın mutat elleçleme işlemlerine, dahilde işleme, gümrük kontrolü altında işleme veya geçici ithalat rejimine tabi tutulabilir, gümrüğe terk edilebilir ve ilgili kişinin gümrük idarelerince gerekli görülen tüm bilgileri vermesi şartıyla imha edilebilir. Hariçte işleme rejimi bu sayımda yer almadığından serbest bölgedeki serbest dolaşımda olmayan eşya için öngörülen işlemler arasında bulunmaz. Buna göre I, III ve IV mümkündür. (MD GK 157/1)",
+  "kanit": "38-serbest bölge.txt | a) Serbest dolaşıma giriş rejimi kapsamında ve 161 inci maddede belirtilen koşullar altında, serbest dolaşıma girebilir. ... f) 164 üncü maddeye göre gümrüğe terk edilebilir. ... g) İlgili kişinin, gümrük idarelerince gerekli görülen tüm bilgileri vermesi şartıyla imha edilebilir."
+ },
+ {
+  "test": 3,
+  "konu": "Gümrüksüz Satış",
+  "sinif": "AZ",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "Z",
+  "madde": "GSM Yönetmeliği 1/1, 11/7",
+  "cek": "Gümrüksüz satış yapılabilecek kişiler: yolcular, transit yolcular, diplomatlar, yabancı basının yabancı uyruklu mensupları, boğazdan transit gemiler.",
+  "kok": [
+   "Gümrüksüz Satış Mağazaları Yönetmeliğine göre aşağıdakilerden hangisi, gümrüksüz satış mağazalarından satış yapılabilecek kişiler arasında sayılmamıştır?"
+  ],
+  "d": "Yabancı basın yayın organlarının Türk uyruklu mensupları",
+  "c": [
+   "Türkiye'ye gelen veya Türkiye'den giden yolcular ile transit yolcular",
+   "Diplomatik muafiyetten yararlananlar",
+   "Türk boğazlarından transit geçen gemiler",
+   "Ticaret Bakanlığınca belirlenecek diğer kişiler"
+  ],
+  "sabit": null,
+  "g": "Gümrüksüz Satış Mağazaları Yönetmeliğinin amaç ve kapsam hükmüne göre gümrüksüz satış mağazaları; Türkiye'ye gelen veya Türkiye'den giden yolcular ile transit yolculara, diplomatik muafiyetten yararlananlara, yabancı basın yayın organlarının yabancı uyruklu mensuplarına, Türk boğazlarından transit geçen gemilere ve Ticaret Bakanlığınca belirlenecek diğer kişilere satış yapmak üzere açılır. Yabancı basın yayın organı mensupları bakımından yalnızca yabancı uyruklu olanlar sayılmıştır; Türk uyruklu mensuplar bu kapsamda değildir. Yabancı uyruklu basın mensuplarına satış, Cumhurbaşkanlığı İletişim Başkanlığınca düzenlenen ve gümrük müdürlüğünce tescil edilen takrirler karşılığında yapılır. (MD GSM Yönetmeliği 1/1, 11/7)",
+  "kanit": "30-Güm.Sat.Mağazaları.txt | Türkiye'ye gelen veya Türkiye'den giden yolcular ile transit yolculara, diplomatik muafiyetten yararlananlara, yabancı basın yayın organlarının yabancı uyruklu mensuplarına"
+ }
+]
