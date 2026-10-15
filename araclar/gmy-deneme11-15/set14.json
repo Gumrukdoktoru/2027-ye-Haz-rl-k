@@ -1019,15 +1019,15 @@
 "c": [
 "Yalnız III",
 "II ve IV",
-"III ve IV",
-"I, II ve III"
+"I, II ve III",
+"I, II ve IV"
 ],
 "opts": [
 "Yalnız III",
 "I ve III",
 "II ve IV",
-"III ve IV",
-"I, II ve III"
+"I, II ve III",
+"I, II ve IV"
 ],
 "tuzak": false,
 "g": "Gümrük Yönetmeliğine göre zorunlu unsurları taşıyan menşe şahadetnamesi ve başvuru formu Yönetmelik ekindeki örneğe uygun hazırlanır; posta kolilerinin bildirildiği listelerde fatura ve menşe şahadetnamesi gibi belgelerin sayı ve türleri gösterilir (I ve III doğru). Muayenede kolinin içinden çıkan fatura ve menşe şahadetnamesi gümrük idaresince alınarak beyannameye eklenir; koliye geri konulmaz (II yanlış). Asgari ücret tarifesi hükümlerine göre yükümlü adına kullanılan menşe şahadetnamesi gibi belgelerin ücretleri müşavirce değil yükümlü tarafından karşılanır (IV yanlış). (MD GY 42/1, 455/2-ç, 460/4; AÜT Tebliği 5/1-f)",
@@ -1794,13 +1794,13 @@
 "d": "II ve V",
 "c": [
 "Yalnız V",
-"I ve IV",
+"I ve II",
 "III ve IV",
 "II, IV ve V"
 ],
 "opts": [
 "Yalnız V",
-"I ve IV",
+"I ve II",
 "II ve V",
 "III ve IV",
 "II, IV ve V"
@@ -2157,13 +2157,13 @@
 "konu": "Transit",
 "tip": "T2",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.84/2, 84/3-f; m.85/2, 91",
-"cek": "Transit taşıması yönetmelikteki hallerde büyük konteynerlerde TR Transfer Notuyla yapılabilir; idare yabancı ülkeler arası ve Türkiye-yabancı ülke transit taşımasına izin verir.",
+"madde": "4458 sayılı Gümrük Kanunu m.84/3-f, 86/2; m.85/2, 91",
+"cek": "Transit taşıması büyük konteynerlerde TR Transfer Notuyla yapılabilir; transit taşındığını bilerek eşyayı kabul eden taşıyıcı veya alıcı da varışa sunmakla yükümlüdür.",
 "kok": [
 "4458 sayılı Gümrük Kanununa göre transit rejimine ilişkin aşağıdaki ifadeler veriliyor:",
 "I. Transit rejimine tabi eşyanın Türkiye Gümrük Bölgesinde taşınması, yönetmelikle belirlenecek hallerde büyük konteynerler ile taşımada TR Transfer Notu kapsamında yapılabilir.",
 "II. Müsteşarlık izniyle, birden fazla transit işlemi için bireysel teminat verilebilir.",
-"III. Gümrük idareleri, transit rejimine tabi eşyanın Türkiye Gümrük Bölgesi içinde yabancı bir ülkeden yabancı bir ülkeye veya Türkiye'den yabancı bir ülkeye taşınmasına izin verir.",
+"III. Asıl sorumlunun yükümlülükleri saklı kalmak üzere, transit rejimine göre taşındığını bilerek eşyayı kabul eden taşıyıcı veya alıcı da eşyayı varış gümrük idaresine sağlam ve noksansız sunmakla yükümlüdür.",
 "IV. Karayolu ile transit eşya taşıyan taşıtların transit süreleri ve izleyecekleri yollar konusunda düzenleme yapmaya gümrük ve dış ticaret bölge müdürlükleri yetkilidir.",
 "Yukarıdaki ifadelerden hangileri doğrudur?"
 ],
@@ -2182,14 +2182,14 @@
 "II ve IV"
 ],
 "tuzak": false,
-"g": "Kanuna göre transit rejimine tabi eşyanın taşınması, yönetmelikle belirlenecek hallerde büyük konteynerler ile taşımada TR Transfer Notu kapsamında yapılabilir (I); gümrük idareleri transit eşyasının Türkiye Gümrük Bölgesi içinde yabancı bir ülkeden yabancı bir ülkeye, yabancı bir ülkeden Türkiye'ye, Türkiye'den yabancı bir ülkeye ve bir iç gümrük idaresinden diğerine taşınmasına izin verir (III). Müsteşarlık izniyle birden fazla transit işlemi için verilen teminat bireysel değil kapsamlı teminattır (II yanlış); karayolu transitinde süre, yol, kontrol noktası ve konaklama yerleri konusunda düzenleme yetkisi bölge müdürlüklerine değil Müsteşarlığa aittir (IV yanlış). (MD GK 84/2, 84/3-f, 85/2, 91)",
-"kanit": "20-TRANSİT REJİMİ.txt | büyük konteynerler ile taşımada TR Transfer Notu || 20-TRANSİT REJİMİ.txt | Yabancı bir ülkeden yabancı bir ülkeye || 20-TRANSİT REJİMİ.txt | Türkiye'den yabancı bir ülkeye || 20-TRANSİT REJİMİ.txt | Müsteşarlık tarafından izin verilmesi halinde, birden fazla transit işlemi için kapsamlı teminat || 20-TRANSİT REJİMİ.txt | konaklama yerleri ile ilgili olarak düzenlemeler yapmaya Müsteşarlık yetkilidir.",
+"g": "Kanuna göre transit rejimine tabi eşyanın taşınması, yönetmelikle belirlenecek hallerde büyük konteynerler ile taşımada TR Transfer Notu kapsamında yapılabilir (I); asıl sorumlunun yükümlülükleri saklı kalmak üzere, eşyayı transit rejimine göre taşındığını bilerek kabul eden taşıyıcı veya alıcı da eşyayı öngörülen süre içinde ve ayniyet tedbirlerine uyarak varış gümrük idaresine sağlam ve noksansız sunmakla yükümlüdür (III). Müsteşarlık izniyle birden fazla transit işlemi için verilen teminat bireysel değil kapsamlı teminattır (II yanlış); karayolu transitinde süre, yol, kontrol noktası ve konaklama yerleri konusunda düzenleme yetkisi bölge müdürlüklerine değil Müsteşarlığa aittir (IV yanlış). (MD GK 84/3-f, 86/2, 85/2, 91)",
+"kanit": "20-TRANSİT REJİMİ.txt | büyük konteynerler ile taşımada TR Transfer Notu || 20-TRANSİT REJİMİ.txt | transit rejimine göre taşındığını bilerek eşyayı kabul eden taşıyıcı veya alıcı da, eşyayı öngörülen süre içerisinde || 20-TRANSİT REJİMİ.txt | Müsteşarlık tarafından izin verilmesi halinde, birden fazla transit işlemi için kapsamlı teminat || 20-TRANSİT REJİMİ.txt | konaklama yerleri ile ilgili olarak düzenlemeler yapmaya Müsteşarlık yetkilidir.",
 "batch": "K06",
 "no": 60,
 "harf": "D",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre transit rejimine tabi eşyanın taşınması, yönetmelikle belirlenecek hallerde büyük konteynerler ile taşımada TR Transfer Notu kapsamında yapılabilir (I); gümrük idareleri transit eşyasının Türkiye Gümrük Bölgesi içinde yabancı bir ülkeden yabancı bir ülkeye, yabancı bir ülkeden Türkiye'ye, Türkiye'den yabancı bir ülkeye ve bir iç gümrük idaresinden diğerine taşınmasına izin verir (III). Müsteşarlık izniyle birden fazla transit işlemi için verilen teminat bireysel değil kapsamlı teminattır (II yanlış); karayolu transitinde süre, yol, kontrol noktası ve konaklama yerleri konusunda düzenleme yetkisi bölge müdürlüklerine değil Müsteşarlığa aittir (IV yanlış). Bu nedenle doğru cevap D seçeneğidir. (MD GK 84/2, 84/3-f, 85/2, 91)"
+"g_harfli": "Kanuna göre transit rejimine tabi eşyanın taşınması, yönetmelikle belirlenecek hallerde büyük konteynerler ile taşımada TR Transfer Notu kapsamında yapılabilir (I); asıl sorumlunun yükümlülükleri saklı kalmak üzere, eşyayı transit rejimine göre taşındığını bilerek kabul eden taşıyıcı veya alıcı da eşyayı öngörülen süre içinde ve ayniyet tedbirlerine uyarak varış gümrük idaresine sağlam ve noksansız sunmakla yükümlüdür (III). Müsteşarlık izniyle birden fazla transit işlemi için verilen teminat bireysel değil kapsamlı teminattır (II yanlış); karayolu transitinde süre, yol, kontrol noktası ve konaklama yerleri konusunda düzenleme yetkisi bölge müdürlüklerine değil Müsteşarlığa aittir (IV yanlış). Bu nedenle doğru cevap D seçeneğidir. (MD GK 84/3-f, 86/2, 85/2, 91)"
 },
 {
 "id": "D14-061",
@@ -2245,15 +2245,15 @@
 "d": "I ve III",
 "c": [
 "I ve IV",
+"III ve IV",
 "I, II ve III",
-"I, II ve IV",
 "I, III ve IV"
 ],
 "opts": [
 "I ve III",
 "I ve IV",
+"III ve IV",
 "I, II ve III",
-"I, II ve IV",
 "I, III ve IV"
 ],
 "tuzak": false,
@@ -3341,39 +3341,39 @@
 "konu": "Gümrükçe Onaylanmış İşlem veya Kullanım",
 "tip": "T2",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.49, 55/3, 57/1-a, 57/4",
-"cek": "GK 49, 55/3, 57: GD eşyasına nitelik değiştirmeyen elleçleme; karşılıklılık kısıtlamasına Cumhurbaşkanı yetkili; durdurma kararı hak sahibi ve beyan sahibine bildirilir.",
+"madde": "4458 sayılı Gümrük Kanunu m.48/1, 49, 55/3, 57/1-a",
+"cek": "GK 48-49, 55/3, 57: GD eşyasına teminat istenebilir ve elleçleme yapılabilir; karşılıklılıkta Cumhurbaşkanı yetkili; durdurma kararı beyan sahibine de bildirilir.",
 "kok": [
 "4458 sayılı Gümrük Kanununun gümrüğe sunulan eşyaya ilişkin genel hükümlerine göre;",
 "I. Geçici depolanan eşya, görünüş ve teknik özellikleri değiştirilmemek koşuluyla yönetmelikle belirlenen elleçlemeye tabi tutulabilir.",
 "II. Türk taşıtlarına karşı kısıtlama koyan yabancı ülkelere ait eşya ve taşıtlara karşılık olarak yasaklama ve kısıtlama koymaya ve farklı tarife uygulamaya Cumhurbaşkanı yetkilidir.",
 "III. Fikri ve sınai hakları ihlal eden eşyanın gümrük işlemlerinin durdurulmasına ilişkin karar, yalnızca hak sahibine veya temsilcisine bildirilir.",
-"IV. Gümrük işlemleri durdurulan veya alıkonulan eşya, yetkili mahkemece alınan karar doğrultusunda imha veya asli nitelikleri değiştirilerek tasfiye edilir.",
+"IV. Gümrük idareleri, geçici depolanan eşya için tahakkuk edebilecek gümrük vergilerinin ödenmesini sağlamak üzere eşya sahibinden teminat isteyebilir.",
 "Yukarıdaki ifadelerden hangileri doğrudur?"
 ],
 "d": "I, II ve IV",
 "c": [
-"I ve III",
+"I ve II",
 "II ve IV",
 "I, II ve III",
 "I, III ve IV"
 ],
 "opts": [
-"I ve III",
+"I ve II",
 "II ve IV",
 "I, II ve III",
 "I, II ve IV",
 "I, III ve IV"
 ],
 "tuzak": false,
-"g": "Kanuna göre geçici depolanan eşya görünüş ve teknik özellikleri değiştirilmemek koşuluyla yönetmelikle belirlenen elleçlemeye tabi tutulabilir; karşılıklılık esasına dayalı yasaklama, kısıtlama ve farklı tarife uygulamaya Cumhurbaşkanı yetkilidir ve durdurulan veya alıkonulan eşya mahkeme kararı doğrultusunda imha veya asli nitelikleri değiştirilerek tasfiye edilir; bu nedenle I, II ve IV doğrudur. Durdurma veya alıkoyma kararı yalnızca hak sahibine değil, beyan sahibine veya Kanunda belirtilen eşyayı getiren kişilere de bildirilir; III yanlıştır. (MD GK 49, 55/3, 57/1-a, 57/4)",
-"kanit": "16-GOBİK VE SAHTE EŞYA.txt | Durdurma veya alıkoyma kararı hak sahibi veya temsilcisi ile beyan sahibi veya 37 nci maddede belirtilen kişilere bildirilir. || 29-iŞLETİCİLER.txt | geçici depolanan eşya, görünüş ve teknik özelliklerinin değiştirilmemesi koşuluyla, aynı durumda muhafazalarını sağlamak üzere yönetmelikle belirlenen elleçlemeye tabi tutulabilir. || 16-GOBİK VE SAHTE EŞYA.txt | yetkili mahkemece alınan karar doğrultusunda imha veya asli nitelikleri değiştirilerek tasfiye edilir.",
+"g": "Kanuna göre geçici depolanan eşya görünüş ve teknik özellikleri değiştirilmemek koşuluyla yönetmelikle belirlenen elleçlemeye tabi tutulabilir; karşılıklılık esasına dayalı yasaklama, kısıtlama ve farklı tarife uygulamaya Cumhurbaşkanı yetkilidir; gümrük idareleri geçici depolanan eşya için tahakkuk edebilecek gümrük vergilerinin ödenmesini sağlamak üzere eşya sahibinden teminat isteyebilir; bu nedenle I, II ve IV doğrudur. Durdurma veya alıkoyma kararı yalnızca hak sahibine değil, beyan sahibine veya Kanunda belirtilen eşyayı getiren kişilere de bildirilir; III yanlıştır. (MD GK 48/1, 49, 55/3, 57/1-a)",
+"kanit": "16-GOBİK VE SAHTE EŞYA.txt | Durdurma veya alıkoyma kararı hak sahibi veya temsilcisi ile beyan sahibi veya 37 nci maddede belirtilen kişilere bildirilir. || 29-iŞLETİCİLER.txt | geçici depolanan eşya, görünüş ve teknik özelliklerinin değiştirilmemesi koşuluyla, aynı durumda muhafazalarını sağlamak üzere yönetmelikle belirlenen elleçlemeye tabi tutulabilir. || 29-iŞLETİCİLER.txt | tahakkuk edebilecek gümrük vergilerinin ödenmesini sağlamak üzere eşya sahibinden teminat isteyebilir.",
 "batch": "K01",
 "no": 93,
 "harf": "D",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre geçici depolanan eşya görünüş ve teknik özellikleri değiştirilmemek koşuluyla yönetmelikle belirlenen elleçlemeye tabi tutulabilir; karşılıklılık esasına dayalı yasaklama, kısıtlama ve farklı tarife uygulamaya Cumhurbaşkanı yetkilidir ve durdurulan veya alıkonulan eşya mahkeme kararı doğrultusunda imha veya asli nitelikleri değiştirilerek tasfiye edilir; bu nedenle I, II ve IV doğrudur. Durdurma veya alıkoyma kararı yalnızca hak sahibine değil, beyan sahibine veya Kanunda belirtilen eşyayı getiren kişilere de bildirilir; III yanlıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 49, 55/3, 57/1-a, 57/4)"
+"g_harfli": "Kanuna göre geçici depolanan eşya görünüş ve teknik özellikleri değiştirilmemek koşuluyla yönetmelikle belirlenen elleçlemeye tabi tutulabilir; karşılıklılık esasına dayalı yasaklama, kısıtlama ve farklı tarife uygulamaya Cumhurbaşkanı yetkilidir; gümrük idareleri geçici depolanan eşya için tahakkuk edebilecek gümrük vergilerinin ödenmesini sağlamak üzere eşya sahibinden teminat isteyebilir; bu nedenle I, II ve IV doğrudur. Durdurma veya alıkoyma kararı yalnızca hak sahibine değil, beyan sahibine veya Kanunda belirtilen eşyayı getiren kişilere de bildirilir; III yanlıştır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 48/1, 49, 55/3, 57/1-a)"
 },
 {
 "id": "D14-094",

@@ -1,6 +1,6 @@
-565 çift
+566 çift
 D11-026(K01) ~ HAFIZA GMY6-052: [('GY', '308/1')]
-   Y: GY EEGR tanımı: verimlilik oranı, belirli miktar ithal eşyasının işlenmesiyle elde edilen işlenmiş ürünlerin miktarı veya yüzde oranıdır.
+   Y: GY 308/1-l: üçgen trafik, idarelerden yalnız biri TGB’de olmak kaydıyla rejime giriş ve rejimi kapatan gümrük idarelerinin farklı olduğu durumdur.
    H: Rejimin kapatılma süresi: geri ödemede iade ve HİR sonrası muafiyet süresi dahil, eşyanın yeni işlem veya kullanıma tabi tutulmasının zorunlu olduğu süre.
 D12-028(K01) ~ HAFIZA GMY6-052: [('GY', '308/1')]
    Y: GY 308: işleme sonucu elde edilen tüm ürünler işlem görmüş üründür; asıl ürün rejim kapsamında elde edilmesi amaçlanan üründür.
@@ -66,7 +66,7 @@ D14-047(K01) ~ HAFIZA GMY6-052: [('GY', '308/1')]
    Y: GY 308: rejime girişten sonra yeni GOİK işlemlerini yapan idare rejimi kapatan; rejimi denetleyen idare denetleyici gümrük idaresidir.
    H: Rejimin kapatılma süresi: geri ödemede iade ve HİR sonrası muafiyet süresi dahil, eşyanın yeni işlem veya kullanıma tabi tutulmasının zorunlu olduğu süre.
 D14-093(K01) ~ HAFIZA GMY5-054: [('GK', '57/1')]
-   Y: GK 49, 55/3, 57: GD eşyasına nitelik değiştirmeyen elleçleme; karşılıklılık kısıtlamasına Cumhurbaşkanı yetkili; durdurma kararı hak sahibi ve beyan sahibine bildirilir.
+   Y: GK 48-49, 55/3, 57: GD eşyasına teminat istenebilir ve elleçleme yapılabilir; karşılıklılıkta Cumhurbaşkanı yetkili; durdurma kararı beyan sahibine de bildirilir.
    H: Yolcunun kişisel eşyası ile ticari olmayan ve muafiyet sınırındaki hediyelik eşyasına fikri ve sınai hakların gümrüklerde korunması hükümleri uygulanmaz.
 D11-029(K02) ~ HAFIZA GMY-037: [('GK', '25/1'), ('GY', '44/1')]
    Y: Royalti için nesnel ve ölçülebilir veri yoksa satış bedeli belirlenemez; sıradaki aynı eşya yöntemiyle kıymet belirlenir.
@@ -350,7 +350,10 @@ D13-046(K02) ~ HAFIZA GMY10-033: [('GK', '26/1')]
 D13-098(K02) ~ HAFIZA GMY6-031: [('GY', '56/3')]
    Y: İthal eşyasının monte edilmemiş gelmesi veya sulandırma, paketleme gibi önemsiz işlemden geçmesi royaltinin eşyayla ilgili kabulünü engellemez.
    H: Satıcının yükümlülüğü için üçüncü kişiye ödeme fiyata dahil; ithalattan sonra yapıştırılan marka royaltisi şartlarla eklenir; tevsik edilmeyen dahili vergi düşülmez.
-D14-021(K02) ~ HAFIZA GMY5-031: [('GY', '48/1'), ('GY', '48/2'), ('GY', '48/5')]
+D14-021(K02) ~ HAFIZA GMY-038: [('GY', '48/3')]
+   Y: İndirgemede işlenmiş eşyanın satış birim fiyatı esas alınırsa, işlemeden doğan ilave kıymet de bu fiyattan düşülür.
+   H: Aynı/benzer eşya yalnız aynı ülkede üretilmiş olur; indirgemede yakın tarih satış yoksa doksan gün içindeki ilk satış birim fiyatı esas
+D14-021(K02) ~ HAFIZA GMY5-031: [('GY', '48/1'), ('GY', '48/5')]
    Y: İndirgemede işlenmiş eşyanın satış birim fiyatı esas alınırsa, işlemeden doğan ilave kıymet de bu fiyattan düşülür.
    H: İndirgemede en yüksek sayıda birimin satıldığı fiyat esas alınır; bedelsiz kalıp sağlayana satış dışlanır; kâr-genel gider, yurt içi nakliye ve vergiler düşülür.
 D14-021(K02) ~ HAFIZA GMY6-039: [('GY', '48/4')]
@@ -359,6 +362,15 @@ D14-021(K02) ~ HAFIZA GMY6-039: [('GY', '48/4')]
 D14-021(K02) ~ HAFIZA GMY7-099: [('GY', '48/1'), ('GY', '48/5')]
    Y: İndirgemede işlenmiş eşyanın satış birim fiyatı esas alınırsa, işlemeden doğan ilave kıymet de bu fiyattan düşülür.
    H: İşçi-işveren ilişkisi, fiyata etkisine bakılmaksızın ilişki hâlidir; fiyata etki ilişkinin varlığı için değil, satış bedelinin kabulü için önemlidir.
+D14-022(K02) ~ HAFIZA GMY9-021: [('GY', '53/1')]
+   Y: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
+   H: Satış bedeli yöntemi uygulanan hâllerde boru hattı veya elektrik teliyle taşınan, depolanamayan sürekli akıştaki eşyanın kıymeti talep üzerine basitleştirilmiş usulle bel
+D14-022(K02) ~ HAFIZA GMY9-027: [('GY', '51/8')]
+   Y: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
+   H: Miktarı yükümlülük başlangıcında belirlenemeyen ilave unsurların uygun ve özel kriterlerle belirlenmesine ilgili kişinin talebiyle gümrük idareleri izin verir.
+D14-022(K02) ~ HAFIZA GMY10-034: [('GY', '53/1'), ('GY', '53/3')]
+   Y: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
+   H: İstisnai kıymette revize kıymet yüksekse ek tahakkuk yapılır; düşükse fark ancak iade alındığı tevsik edilip belgeler sunulursa GK 211 ile geri verilir.
 D14-024(K02) ~ HAFIZA GMY-035: [('GK', '27/1')]
    Y: Antrepo masrafları ile antrepoda kaldığı sürece muhafaza masrafları, fiyattan ayrı gösterilirse gümrük kıymetine dahil edilmez.
    H: Kıymet hesabı: satış komisyonu ve satış koşulu royalti eklenir; satın alma komisyonu, ithal sonrası montaj ve giriş yeri sonrası nakliye eklenmez
@@ -507,80 +519,74 @@ D15-034(K02) ~ HAFIZA GMY10-036: [('GK', '27/1'), ('GK', '28/a')]
    Y: Hasılat üzerinden hesaplanan royalti, talep ve idarenin uygun bulmasıyla eşyanın FOB bedeline royalti oranı uygulanarak kıymete dahil edilir.
    H: Giriş yerindeki fiyata tekabül eden maktu yurt içine teslim fiyatında, sınırda teslim fiyatının düşük olduğu tevsik edilmedikçe yurt içi nakliye fiyattan indirilmez.
 D15-036(K02) ~ HAFIZA GMY-035: [('GK', '27/1'), ('GK', '28/a')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Kıymet hesabı: satış komisyonu ve satış koşulu royalti eklenir; satın alma komisyonu, ithal sonrası montaj ve giriş yeri sonrası nakliye eklenmez
-D15-036(K02) ~ HAFIZA GMY2-022: [('GK', '27/1'), ('GK', '28/a'), ('GY', '43/1'), ('GY', '51/6')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+D15-036(K02) ~ HAFIZA GMY2-022: [('GK', '27/1'), ('GK', '28/a'), ('GY', '43/1')]
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Giriş yerinden sonraki noktaya aynı taşıtla taşımada navlun mesafe oranıyla bölünür; ambalaj eklenir, Türkiye'de yapılan çizim hizmeti eklenmez.
 D15-036(K02) ~ HAFIZA GMY3-031: [('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: İlişki kabulündeki aynı aile üyeleri listesi sınırlıdır: yeğen, eşlerin kardeşleri, kardeşlerin eşleri, gelin sayılır; amcanın oğlu sayılmaz.
 D15-036(K02) ~ HAFIZA GMY3-032: [('GK', '27/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Yabancı para kıymet unsurları beyannamenin tescil tarihindeki TCMB döviz satış kuruyla çevrilir; fatura ve teslim tarihi kurları kullanılmaz.
 D15-036(K02) ~ HAFIZA GMY3-034: [('GK', '27/1'), ('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Alıcının bedelsiz sağladığı ve üretimde tüketilen maddeler eklenir; Türkiye'deki çizim, araştırma-ilk dizayn ve alıcının kendi hesabına pazarlama giderleri eklenmez.
 D15-036(K02) ~ HAFIZA GMY3-036: [('GK', '27/1'), ('GK', '28/a')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Gümrüklenmiş değer CIF kıymeti ile gümrük vergileri toplamıdır; giriş yeri sonrası nakliye ve gecikme zammı hesaba katılmaz.
 D15-036(K02) ~ HAFIZA GMY4-031: [('GK', '27/1'), ('GK', '28/a'), ('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Nakliyeyi alıcı sağlarsa giriş yerine kadarki nakliye aynı taşıma türündeki normal fiyat tarifesiyle belirlenir; giriş sonrası kısım eklenmez.
 D15-036(K02) ~ HAFIZA GMY4-033: [('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Benzer eşya aynı işlevi görüp ikame edilebilen ve aynı ülkede üretilmiş eşyadır; kalite, tanınırlık, marka dikkate alınır; birden fazla bedelde en düşüğü kullanılır.
 D15-036(K02) ~ HAFIZA GMY4-035: [('GK', '27/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Satış komisyonu, kap maliyeti, satış koşulu royalti ve satıcıya intikal eden hasıla eklenir; Türkiye'de çoğaltma hakkı ödemesi eklenmez.
 D15-036(K02) ~ HAFIZA GMY5-032: [('GK', '27/1'), ('GK', '28/a'), ('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Deniz, kara ve demiryolu dışındaki yollarla gelen eşyada giriş yeri, gümrük bölgesinin kara sınırının geçildiği noktadır.
 D15-036(K02) ~ HAFIZA GMY6-031: [('GK', '27/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Satıcının yükümlülüğü için üçüncü kişiye ödeme fiyata dahil; ithalattan sonra yapıştırılan marka royaltisi şartlarla eklenir; tevsik edilmeyen dahili vergi düşülmez.
 D15-036(K02) ~ HAFIZA GMY6-035: [('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Birim fiyatın belirlenmesine imkân veren, ileri ve geriye doğru tespiti mümkün ilk tarih "aynı veya yakın bir tarih" olarak tanımlanır.
 D15-036(K02) ~ HAFIZA GMY7-047: [('GK', '27/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Royalti: satış koşulu tasarım ücretinin eşyayla ilgili kısmı eklenir; satıcının istemediği üçüncü kişi royaltisi ve satış koşulu olmayan tekrar satış hakkı eklenmez.
 D15-036(K02) ~ HAFIZA GMY7-048: [('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Görünüşteki küçük farklılıklar, diğer hususlarda tanıma uyan eşyanın aynı eşya sayılmasını önlemez.
 D15-036(K02) ~ HAFIZA GMY7-055: [('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Kıymet hükümlerinde yetiştirilmiş, imal edilmiş veya topraktan çıkarılmış olma hâli "üretilmiş" olarak tanımlanır.
 D15-036(K02) ~ HAFIZA GMY7-098: [('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Aynı üreticinin benzer eşyası yoksa farklı üreticininki dikkate alınır; aynı sınıf/cins ifadesi aynı-benzer eşyayı kapsar; nakliye farkı düzeltilir.
 D15-036(K02) ~ HAFIZA GMY8-079: [('GK', '27/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: İthal ülkesindeki ilave posta-kargo kıymete girmez; 71.08 eşyada navlun belgesi yoksa teslim şekli esas alınır; kaplar paylaştırılır; abonman poliçesi kabul edilir.
 D15-036(K02) ~ HAFIZA GMY8-098: [('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Baba bir kardeşler ile eşin babası ve dayı aile üyesi sayılır; kontrol kıstasını karşılayan tek distribütör ilişkili sayılır.
 D15-036(K02) ~ HAFIZA GMY9-023: [('GK', '27/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Alıcının bedelsiz veya düşük bedelle sağladığı mal ve hizmetlerde ilave, doğrudan olduğu gibi dolaylı sağlanmada da yapılır.
 D15-036(K02) ~ HAFIZA GMY9-024: [('GK', '27/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Eşyanın ithali veya satışı nedeniyle Türkiye'de ödenecek ithalat vergileri, fiyattan ayırt edilebilmek koşuluyla gümrük kıymetine dahil edilmez.
 D15-036(K02) ~ HAFIZA GMY9-025: [('GY', '43/1')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Türkiye'ye ithal edilmek üzere doğrudan doğruya yapılan satış, "Türkiye'ye ihraç amaçlı satış" olarak tanımlanır.
 D15-036(K02) ~ HAFIZA GMY10-036: [('GK', '27/1'), ('GK', '28/a')]
-   Y: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   Y: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
    H: Giriş yerindeki fiyata tekabül eden maktu yurt içine teslim fiyatında, sınırda teslim fiyatının düşük olduğu tevsik edilmedikçe yurt içi nakliye fiyattan indirilmez.
 D12-030(K03) ~ HAFIZA GMY5-054: [('GK', '57/1')]
    Y: Re'sen alıkonulan eşyada hak sahibine ve beyan sahibine bildirim, alıkoyma veya durdurmayı takip eden ilk iş günü içinde yapılır.
    H: Yolcunun kişisel eşyası ile ticari olmayan ve muafiyet sınırındaki hediyelik eşyasına fikri ve sınai hakların gümrüklerde korunması hükümleri uygulanmaz.
-D14-034(K03) ~ HAFIZA GMY-051: [('GY', '36/2')]
-   Y: Montaj işlemleri sonucu oluşan kıymet: ülke menşeli parçaların birleştirilmesi, tamamlayıcı-kontrol işlemleri, kâr ve genel giderlerden doğan kıymet artışı; menşesiz madd
-   H: Fabrika çıkış fiyatı: ürünün fabrika çıkış fiyatından ihracatta geri ödenen/ödenecek yurt içi vergiler tenzil edilerek bulunan fiyat
-D14-034(K03) ~ HAFIZA GMY3-050: [('GY', '36/2')]
-   Y: Montaj işlemleri sonucu oluşan kıymet: ülke menşeli parçaların birleştirilmesi, tamamlayıcı-kontrol işlemleri, kâr ve genel giderlerden doğan kıymet artışı; menşesiz madd
-   H: Yüzde kuralında menşesiz girdinin gümrük kıymeti, bilinmezse ilk fiyatı; fabrika çıkış fiyatından ihracatta iade edilen yurt içi vergiler düşülür.
 D14-036(K03) ~ HAFIZA GMY-043: [('GY', '38/2')]
    Y: İGV'de menşe şahadetnamesi süresinde ibraz edilirse nakit teminat iade edilir; kabul edilmeyen şahadetnamede de teminat-süre; işlemler tamamlanmadan tespitte tescilden sü
    H: Menşe şahadetnamesi sonradan ibraz süresi: mücbir sebep saklı, bitiminden önce başvuru kaydıyla idare amirince en fazla otuz gün uzatılır
@@ -650,9 +656,6 @@ D12-077(K05) ~ HAFIZA GMY6-050: [('GK', '73/2'), ('GY', '121/4')]
 D12-077(K05) ~ HAFIZA GMY6-071: [('GY', '194/2')]
    Y: Teslimden sonraki düzeltmenin açıklaması bilgisayar sistemine kaydedilir ve Gümrük Veri Ambarı Sistemindeki beyanname verileri güncellenir.
    H: Yükümlü talebiyle veya kontrol sonucunda beyannamede yapılacak değişiklikler gümrük idare amirinin oluru ile gümrük müdürlüklerince yapılır; teslimden sonra da geçerlidir
-D12-078(K05) ~ HAFIZA GMY9-049: [('GY', '160/3')]
-   Y: Beyanname yerine belge usulü, ticari belge hariç, idari belge ile beyanda B tipi antrepoya almada da uygulanır; ticari ve idari belge yer değiştirilemez.
-   H: İhracat basitleştirilmiş usulü: 44 no.lu kutuya Basitleştirilmiş İhracat yazılır; tamamlayıcı beyan ihracat rejimine giriş beyannamesiyle verilir; B tipinde eksik beyan u
 D15-037(K05) ~ HAFIZA GMY2-041: [('5607', '2/1')]
    Y: 5607 sayılı Kanunda gümrük vergileri, gümrük idaresi veya başka idarelerce ithal ya da ihraca bağlı uygulanan vergi ve diğer mali yükümlülüklerdir.
    H: Etkin pişmanlık: gümrüklenmiş değerin (CIF + gümrük vergileri) iki katı; soruşturma evresinde ödenirse ceza yarı oranında indirilir.
@@ -671,9 +674,6 @@ D15-037(K05) ~ HAFIZA GMY8-045: [('5607', '2/1')]
 D15-037(K05) ~ HAFIZA GMY10-087: [('5607', '2/1')]
    Y: 5607 sayılı Kanunda gümrük vergileri, gümrük idaresi veya başka idarelerce ithal ya da ihraca bağlı uygulanan vergi ve diğer mali yükümlülüklerdir.
    H: Sahipsiz yakalanan kaçak eşyanın ikramiyeye esas değerini, mahallin en büyük mülkî amirinin görevlendirdiği üç kişilik heyet belirler.
-D14-060(K06) ~ HAFIZA GMY6-047: [('GK', '85/6')]
-   Y: Transit eşyayı bilerek kabul eden taşıyıcı/alıcı da süresinde sağlam sunmakla yükümlü; Müsteşarlık indirilmiş kapsamlı teminatı istisnaen geçici kaldırabilir.
-   H: Transitte indirilmiş teminat ve vazgeçme izninin usul ve esasları yönetmelikle belirlenir, mali güç kanıtı aranır; vazgeçme yüksek riskli eşyada uygulanmaz.
 D15-074(K06) ~ HAFIZA GMY3-071: [('GY', '212/2')]
    Y: Akit Taraflardan birinin idaresinden en az bir sınır geçerek aynı veya başka Akit Taraf idaresine taşımada uygulanan rejim ortak transit rejimidir.
    H: Ortak transitte transit idaresi, Akit Tarafa giriş noktasındaki veya Akit Taraftan üçüncü ülkeye çıkış noktasındaki gümrük idaresidir.
@@ -707,6 +707,15 @@ D11-075(K08) ~ HAFIZA GMY3-082: [('GY', '376/1')]
 D13-034(K08) ~ HAFIZA GMY3-082: [('GY', '376/1')]
    Y: Taşıma aracının bedel karşılığında insan taşınmasında ya da bedelli bedelsiz sınai veya ticari eşya nakliyesinde kullanımı ticari kullanımdır.
    H: Diplomatik statüsü olmayan misyon çalışanının kişisel kara taşıtı, taahhütname ve teminat hükmündeki geçici giriş belgesiyle geçici ithal edilir.
+D13-085(K08) ~ HAFIZA GMY-083: [('GY', '329/1')]
+   Y: GK: yalnız antrepo işleticisine ait eşyanın konulması amacıyla kurulan gümrük antrepoları özel antrepodur; herkesin kullanabildiği antrepolar genel antrepodur.
+   H: Antrepo tipleri: B kullanıcı sorumlu/işletici kiralar; D vergilendirme unsurları rejime giriş tarihine göre; E depolama yeri antrepo addedilir; F gümrükçe işletilen
+D13-085(K08) ~ HAFIZA GMY3-087: [('GY', '329/1')]
+   Y: GK: yalnız antrepo işleticisine ait eşyanın konulması amacıyla kurulan gümrük antrepoları özel antrepodur; herkesin kullanabildiği antrepolar genel antrepodur.
+   H: E tipi antrepo, gümrüksüz satış mağazası depoları, uçakta ve gemilere satış mağazaları özel antrepo sayılır; posta idaresinin koli yerleri genel antrepodur.
+D13-085(K08) ~ HAFIZA GMY6-054: [('GY', '329/1')]
+   Y: GK: yalnız antrepo işleticisine ait eşyanın konulması amacıyla kurulan gümrük antrepoları özel antrepodur; herkesin kullanabildiği antrepolar genel antrepodur.
+   H: İşleticisi ve kullanıcısı aynı kişi olan ve antrepoya alınan eşyadan bu kişinin sorumlu olduğu özel antrepo C tipidir.
 D14-072(K08) ~ HAFIZA GMY2-031: [('GK', '181/1')]
    Y: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
    H: Serbest bölgede kanuna aykırı tüketim/kullanımda gümrük yükümlülüğü, eşyanın tüketildiği veya ilk kez kullanıldığı tarihte başlar.
@@ -717,7 +726,7 @@ D14-072(K08) ~ HAFIZA GMY3-037: [('GK', '181/1')]
    Y: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
    H: Noksan vergiler yükümlülükten itibaren üç yıl içinde tebliğ edilir; daha uzun zamanaşımlı fiil için ceza davası açılmışsa TCK zamanaşımı süreleri uygulanır.
 D15-081(K08) ~ HAFIZA GMY10-081: [('GY', '539/6')]
-   Y: Teminat alınmış olsa bile gümrük işlemleri bitirilip izin alınmadan antrepodan kısmen veya tamamen eşya çıkarılamaz.
+   Y: Antrepo götürü ve yaygın götürü teminat tutar ve oranlarında değişiklik yapmaya, teminatın sunulduğu bölge müdürlüğü değil Bakanlık yetkilidir.
    H: Kap adedi farkı kullanıcıca 45 günde izah edilir; sigortadan tazmin edilen noksan vergisi sigorta ettirenden alınır; götürü yoksa ayrı/toplu teminat; teşvikli yatırım mal
 D11-034(K09) ~ HAFIZA GMY4-100: [('GK', '180/1')]
    Y: Tasfiyede satış bedelinden ilk sırada hizmet karşılığı alacaklar ve yapılmış masraflar karşılığı olarak yüzde on beş ayrılır.
@@ -767,6 +776,18 @@ D12-029(K10) ~ HAFIZA GMY7-029: [('GK', '188/2'), ('GK', '189/2')]
 D12-089(K10) ~ HAFIZA GMY7-089: [('GY', '502/3'), ('GY', '502/4')]
    Y: Tek formda yetkili idare toplam tutarla, Bakanlık düzenlemeli çoklu başvuruda ayrı ayrı belirlenir; tahsilat verisi yoksa ödeme belgesi istenir.
    H: Bir beyanname ve buna bağlı ceza kararı için tek başvuru formu düzenlenir; eksik belge süresine uyulmazsa başvuru geri çekilmiş sayılır.
+D12-091(K10) ~ HAFIZA GMY-031: [('GK', '216/2')]
+   Y: Geri vermeyi gerektiren yargı kararı, idareye tebliğinden itibaren otuz gün içinde başvuru formu ve yetki limiti aranmadan sonuçlandırılır.
+   H: Geri verme kararı tebliğden itibaren dört ay içinde uygulanmazsa talep üzerine kanuni faiz oranında faiz ödenir
+D12-091(K10) ~ HAFIZA GMY7-054: [('GK', '216/2')]
+   Y: Geri vermeyi gerektiren yargı kararı, idareye tebliğinden itibaren otuz gün içinde başvuru formu ve yetki limiti aranmadan sonuçlandırılır.
+   H: Tecil şartlarına uyulmazsa tecil edilmiş borçlara normal vade tarihinden ödeme tarihine kadar gecikme zammı hesaplanır; ödenmiş tecil faizleri mahsup edilir.
+D12-091(K10) ~ HAFIZA GMY7-091: [('GK', '216/2')]
+   Y: Geri vermeyi gerektiren yargı kararı, idareye tebliğinden itibaren otuz gün içinde başvuru formu ve yetki limiti aranmadan sonuçlandırılır.
+   H: Dört ayda uygulanmayan geri verme kararında faiz, kararın tebliğ tarihinden ödemenin yapıldığı tarihe kadar geçen süre için hesaplanır.
+D12-091(K10) ~ HAFIZA GMY9-079: [('GK', '216/2')]
+   Y: Geri vermeyi gerektiren yargı kararı, idareye tebliğinden itibaren otuz gün içinde başvuru formu ve yetki limiti aranmadan sonuçlandırılır.
+   H: Gümrük alacaklarında azami tecil ve taksitlendirme süresi otuz altı aydır; daha kısa süreli tecil yapılabilir.
 D12-092(K10) ~ HAFIZA GMY-028: [('GK', '198/1')]
    Y: Gecikme zammı vadeyi izleyen günden ödeme gününe aylık uygulanır; ay içinde oran değişirse o aya eski oran, ay kesrine günlük oran uygulanır.
    H: Ödeme süresi: süre bitmeden yazılı istem + teminatla otuz gün uzatılabilir, kalem bazında da olur, tecil faizi alınır; itiraz süreyi keser
@@ -785,18 +806,6 @@ D12-092(K10) ~ HAFIZA GMY7-088: [('GK', '198/1')]
 D13-076(K10) ~ HAFIZA GMY8-033: [('GK', '194/1')]
    Y: Uzlaşılan alacak için geri verme talebinde bulunulamaz; geri ödeme sisteminde Türk menşeli eşyanın tercihli ithalinde ödenmiş vergiler geri verilmez.
    H: Tercihli tarife için doğan yükümlülükte ithalat vergileri çıkış tarihine kadar ödenmezse faiziyle tahsil ve vergilerin dörtte biri ceza verilir.
-D13-077(K10) ~ HAFIZA KAR-001: [('GK', '6/2')]
-   Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
-   H: Karar talebi: idare, başvurunun kendisine ulaştığı tarihten itibaren otuz gün içinde karar alır
-D13-077(K10) ~ HAFIZA KAR-002: [('GK', '6/2')]
-   Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
-   H: Karar alınması talebinin yazılı olarak yapılması zorunludur
-D13-077(K10) ~ HAFIZA KAR-003: [('GK', '6/2')]
-   Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
-   H: Süre aşımı: süre aşılabilir; süre dolmadan gerekçe ve gerekli ek süre başvuru sahibine bildirilir
-D13-077(K10) ~ HAFIZA KAR-004: [('GK', '6/2')]
-   Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
-   H: Ret ve aleyhe kararlar gerekçeli alınır, itiraz yolunun açık olduğu kararda belirtilir
 D13-077(K10) ~ HAFIZA KAR-010: [('GY', '586/1')]
    Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
    H: İtirazlar otuz gün içinde karara bağlanıp tebliğ edilir; bu sürede karar alınamazsa GK m.6/2 (süre aşımı) uygulanır
@@ -806,21 +815,9 @@ D13-077(K10) ~ HAFIZA KAR-011: [('GY', '586/1')]
 D13-077(K10) ~ HAFIZA KAR-012: [('GY', '586/1')]
    Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
    H: İtiraz incelemesinde gerek duyulursa ilgili gümrük idaresinin mütalaası alınır
-D13-077(K10) ~ HAFIZA KAR-015: [('GK', '6/2')]
-   Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
-   H: Karar başvuru sahibine yazılı tebliğ edilir ve gümrük idarelerince derhal uygulanır; ayrı bir onay ya da bekleme süresi yoktur
 D13-077(K10) ~ HAFIZA GMY2-038: [('GY', '585/4')]
    Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
    H: Uzlaşma talebinde bulunulması itiraz veya dava açma süresini durdurur; uzlaşma sağlanamazsa süre kaldığı yerden işler.
-D13-077(K10) ~ HAFIZA GMY3-025: [('GK', '6/2')]
-   Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
-   H: Kınama, meslek mensubuna görevinde ve davranışında kusurlu sayıldığının yazı ile bildirilmesidir; uyarma daha dikkatli davranması gerektiğinin yazıyla bildirilmesidir.
-D13-077(K10) ~ HAFIZA GMY8-027: [('GK', '6/2')]
-   Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
-   H: Üç yıllık dönemde iki veya daha fazla disiplin cezası gerektiren davranışta bulunana her yeni suçu için öncekinden ağır ceza uygulanabilir; süre beş yıl değildir.
-D13-077(K10) ~ HAFIZA GMY9-089: [('GK', '6/2')]
-   Y: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
-   H: Görevini bağımsızlık, tarafsızlık ve dürüstlükle yapmayan, kusurlu yapan veya mesleğin genel prensiplerine aykırı davranan meslek mensubuna geçici alıkoyma cezası uygulan
 D13-088(K10) ~ HAFIZA GMY5-036: [('GK', '183/1')]
    Y: Gözetimden çıkarma nedeniyle yükümlülük doğup ithalat vergileri ödenince eşya, beyana gerek görülmeksizin serbest dolaşımda bulunan eşya sayılır.
    H: Yükümlülük tarihi kesin tespit edilemezse idarenin vardığı tarih esastır; bilgiler daha önceki tarihi gösterirse anlaşılan en eski tarihteki vergilendirme unsurları uygul
@@ -843,13 +840,13 @@ D14-084(K10) ~ HAFIZA GMY9-083: [('GK', '211/2')]
    Y: Dolaşım belgesinin sehven onaylanmasında karşı ülke idaresinin hatası aranır; ihracatçının verdiği yanlış bilgilendirmeler bu hata kapsamından hariçtir.
    H: Dahilde işleme ihracat beyannamesi iptalinde telafi edici verginin geri verilmesi, Yönetmelikteki beyanname iptal süresi içinde talep edilir.
 D15-026(K10) ~ HAFIZA GMY2-032: [('GK', '213/4')]
-   Y: Sözleşmeye aykırı eşyada da geri verme yapılır; ihraç yerine imhaya izin verilir; mücbir sebepte bir yıllık süreyi Müsteşarlık uzatır.
+   Y: Sözleşmeye aykırı eşyada da geri verme yapılır; ihraç yerine antrepoya alma yalnız yeniden ihraç amacıyla olur; mücbir sebepte bir yıllık süreyi Müsteşarlık uzatır.
    H: Geri verme başvurusu: kanunen ödenmemesi gerekenlerde üç yıl; kusurlu eşya ve uluslararası anlaşmada bir yıl; talep otuz günde karara bağlanır.
 D15-026(K10) ~ HAFIZA GMY3-040: [('GK', '213/1'), ('GK', '213/2'), ('GK', '213/4')]
-   Y: Sözleşmeye aykırı eşyada da geri verme yapılır; ihraç yerine imhaya izin verilir; mücbir sebepte bir yıllık süreyi Müsteşarlık uzatır.
+   Y: Sözleşmeye aykırı eşyada da geri verme yapılır; ihraç yerine antrepoya alma yalnız yeniden ihraç amacıyla olur; mücbir sebepte bir yıllık süreyi Müsteşarlık uzatır.
    H: Kusurlu eşya ilk kullanım dışında kullanılmamışsa ihraç yerine serbest bölgeye konulabilir; başvuru vergilerin tebliğinden itibaren bir yıl içinde yapılır.
 D15-026(K10) ~ HAFIZA GMY10-026: [('GK', '213/1')]
-   Y: Sözleşmeye aykırı eşyada da geri verme yapılır; ihraç yerine imhaya izin verilir; mücbir sebepte bir yıllık süreyi Müsteşarlık uzatır.
+   Y: Sözleşmeye aykırı eşyada da geri verme yapılır; ihraç yerine antrepoya alma yalnız yeniden ihraç amacıyla olur; mücbir sebepte bir yıllık süreyi Müsteşarlık uzatır.
    H: Teslimden önce hasar gören eşya kusurlu sayılır; ilk kullanım şartı bir kere kullanılarak tüketilen eşyada aranmaz.
 D12-036(K11) ~ HAFIZA GMY4-080: [('GK', '235/5')]
    Y: Tercihli tarife yükümlülüğünde tespitten önce bildirimde ceza hükmedilmez; özet beyanda dökme ayrımı miktar, nitelik ve sayılabilirliğe göre yapılır.
@@ -1347,13 +1344,13 @@ D12-026(K12) ~ HAFIZA GMY6-098: [('5607', '16/1')]
    Y: Kaçak şüphesiyle el konulan eşya hakkında tasfiye kararını soruşturma aşamasında hâkim, kovuşturma aşamasında mahkeme verir.
    H: Etkin pişmanlık nedeniyle cezaya hükmolunmaması veya kamu davasının düşmesi, suç konusu eşyanın müsaderesine engel teşkil etmez.
 D12-027(K12) ~ HAFIZA GMY5-094: [('GK', '239/2')]
-   Y: Ulusal markeri yetkisiz kişilerden almak ve lisansa aykırı seyyar tank bulundurmak suçtur; vergili ihraç eşyasını işlemsiz çıkarmak ve izinle solventten üretim değildir.
+   Y: Markeri yetkisizden almak ve boru hattından kanunsuz alınan ürünü bilerek ticari amaçla almak suçtur; vergili ihraç eşyasını işlemsiz çıkarmak, izinle solventten üretim d
    H: İthali yasak dökme atıkta ceza ton başına otuz bin TL'dir; muaf eşyanın kapı dışından ithalinde CIF değerinin onda biri ceza alınır.
-D12-027(K12) ~ HAFIZA GMY7-024: [('5607', '3/12')]
-   Y: Ulusal markeri yetkisiz kişilerden almak ve lisansa aykırı seyyar tank bulundurmak suçtur; vergili ihraç eşyasını işlemsiz çıkarmak ve izinle solventten üretim değildir.
+D12-027(K12) ~ HAFIZA GMY7-024: [('5607', '3/12'), ('5607', '3/13')]
+   Y: Markeri yetkisizden almak ve boru hattından kanunsuz alınan ürünü bilerek ticari amaçla almak suçtur; vergili ihraç eşyasını işlemsiz çıkarmak, izinle solventten üretim d
    H: Bandrol ve benzeri işaretleri hakkı olmadan sahte evrakla temin eden kişiye üç-altı yıl hapis ve yirmi bin güne kadar adlî para cezası verilir.
-D12-027(K12) ~ HAFIZA GMY10-088: [('5607', '3/12'), ('5607', '3/14'), ('5607', '3/15')]
-   Y: Ulusal markeri yetkisiz kişilerden almak ve lisansa aykırı seyyar tank bulundurmak suçtur; vergili ihraç eşyasını işlemsiz çıkarmak ve izinle solventten üretim değildir.
+D12-027(K12) ~ HAFIZA GMY10-088: [('5607', '3/12'), ('5607', '3/15')]
+   Y: Markeri yetkisizden almak ve boru hattından kanunsuz alınan ürünü bilerek ticari amaçla almak suçtur; vergili ihraç eşyasını işlemsiz çıkarmak, izinle solventten üretim d
    H: Marker yerine kullanılan kimyasal terkipler de suç kapsamındadır; markersiz akaryakıt kaçak sokulmuşsa artırım fıkrası uygulanır; lisansa aykırı tank bulundurmak tek başı
 D13-022(K12) ~ HAFIZA GMY2-042: [('5607', '3/1')]
    Y: Nükleer veya radyoaktif eşya bulunduğu yerden ancak TENMAK izniyle, gümrük idaresinin bilgisi dahilinde çıkartılır; yazılı bildirim diğer eşya içindir.
@@ -1580,12 +1577,6 @@ D13-094(K13) ~ HAFIZA KAR-014: [('GK', '6/1')]
 D13-094(K13) ~ HAFIZA GMY8-094: [('GK', '6/1')]
    Y: GM ve GMY sınavları Müsteşarlıkça belirlenen usul ve esaslar çerçevesinde her yıl bir kez yapılır.
    H: GK 227 ve 228 koşullarını sınavın açıldığı yıl başında sağlayanlar o yıl açılan GM veya GMY sınavına müracaat edebilir.
-D14-085(K13) ~ HAFIZA GMY-024: [('GK', '181/2')]
-   Y: Kabahate kasten iştirak eden dolaylı temsilci vergi farkından yükümlüyle müteselsil sorumludur; iştirak hâlinde para cezaları ilgililere ayrı ayrı uygulanır.
-   H: Temsil: yerleşiklik istisnası, yetkisiz temsilde kendi adına-hesabına sayılma, dolaylı temsilcinin sınırlı yükümlülüğü; yetkisiz iş takibi dört kat ceza
-D14-085(K13) ~ HAFIZA GMY-026: [('GK', '181/2')]
-   Y: Kabahate kasten iştirak eden dolaylı temsilci vergi farkından yükümlüyle müteselsil sorumludur; iştirak hâlinde para cezaları ilgililere ayrı ayrı uygulanır.
-   H: İthalatta yükümlü beyan sahibidir; dolaylı temsilde hesabına beyanda bulunulan da yükümlü, temsilcinin yükümlülüğü bilme/bilmesi gerekme ile sınırlı
 D15-024(K13) ~ HAFIZA GMY5-023: [('GY', '576/1')]
    Y: Sınavsız-stajsız GM olanda yedi yıl izin belgesi aranmaz; birden fazla geçici alıkoyma süreye bakılmaksızın engel; endüstri mühendisliği lisansı tek başına yetmez.
    H: YGM nitelikleri: yedi yıl GM izin belgesi, son yedi yılda geçici alıkoyma, son üç yılda üçten fazla uyarma/kınama almamak, 75 yaş, bağımsızlık.
@@ -1636,6 +1627,18 @@ D13-053(K14) ~ HAFIZA GMY5-079: [('GK', '168/1')]
    H: İndirimli oranla girip geri gelen eşya farklı amaçla serbest dolaşıma girerse vergiler ilk girişte alınan tutar kadar indirilir; fazlası iade edilmez.
 D13-053(K14) ~ HAFIZA GMY6-030: [('GK', '168/1')]
    Y: Süre uzatımı düzenlenmeyen geçici ihracatta üç yıllık süre için, bitiminden önce başvurulursa gümrük müdürlüğünce yeteri kadar ek süre verilir.
+   H: Ticari kiralama yoluyla geçici ihraçta üç yıllık süre, bitiminden önce başvurulursa gümrük müdürlüğünce kiralama sözleşmesindeki süre kadar uzatılabilir.
+D13-059(K14) ~ HAFIZA GMY3-077: [('GK', '168/1'), ('GY', '452/1')]
+   Y: Geri gelen eşyada üç yıllık sürenin uzatılmasına ilişkin özel ve zorunlu durumlar Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenip sonuçlandırılır.
+   H: Geri gelen eşyada üç yıllık süre fiili ihraç tarihinden başlar; denizyolu çıkışta bu tarih eşyayı yükleyen geminin hareket tarihidir.
+D13-059(K14) ~ HAFIZA GMY4-079: [('GK', '168/1')]
+   Y: Geri gelen eşyada üç yıllık sürenin uzatılmasına ilişkin özel ve zorunlu durumlar Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenip sonuçlandırılır.
+   H: Üç yıl aşılarak geri getirilen eşyada usulsüzlük cezası ve vergi tahsili; üç yıl aşılmadan verilen süre aşılırsa yalnız usulsüzlük cezası uygulanır.
+D13-059(K14) ~ HAFIZA GMY5-079: [('GK', '168/1')]
+   Y: Geri gelen eşyada üç yıllık sürenin uzatılmasına ilişkin özel ve zorunlu durumlar Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenip sonuçlandırılır.
+   H: İndirimli oranla girip geri gelen eşya farklı amaçla serbest dolaşıma girerse vergiler ilk girişte alınan tutar kadar indirilir; fazlası iade edilmez.
+D13-059(K14) ~ HAFIZA GMY6-030: [('GK', '168/1')]
+   Y: Geri gelen eşyada üç yıllık sürenin uzatılmasına ilişkin özel ve zorunlu durumlar Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenip sonuçlandırılır.
    H: Ticari kiralama yoluyla geçici ihraçta üç yıllık süre, bitiminden önce başvurulursa gümrük müdürlüğünce kiralama sözleşmesindeki süre kadar uzatılabilir.
 D14-049(K14) ~ HAFIZA GMY9-045: [('GY', '160/1')]
    Y: Eksik beyanda ihracat vergisi ve teminat bilgileri ile tereddütsüz tanım bulunur; F tipi antrepo eşyasına basitleştirilmiş usul yok; hüküm yeniden ihracatta da geçerli.

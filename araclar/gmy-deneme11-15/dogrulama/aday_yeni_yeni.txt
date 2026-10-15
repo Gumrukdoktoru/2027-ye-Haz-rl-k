@@ -1,13 +1,7 @@
-267 çift ortak madde/fıkra
-D11-026(K01) ~ D12-028(K01): [('GY', '308/1-c'), ('GY', '308/1-ç')]
-   A: GY EEGR tanımı: verimlilik oranı, belirli miktar ithal eşyasının işlenmesiyle elde edilen işlenmiş ürünlerin miktarı veya yüzde oranıdır.
-   B: GY 308: işleme sonucu elde edilen tüm ürünler işlem görmüş üründür; asıl ürün rejim kapsamında elde edilmesi amaçlanan üründür.
-D11-026(K01) ~ D14-073(K07): [('GY', '308/1-h'), ('GY', '308/1-ğ')]
-   A: GY EEGR tanımı: verimlilik oranı, belirli miktar ithal eşyasının işlenmesiyle elde edilen işlenmiş ürünlerin miktarı veya yüzde oranıdır.
-   B: Kıymet ölçme yöntemi: işlem görmüş ürünlerde kullanılan ithal eşya oranının ürünlerin değerine göre hesaplanması; GKAİR ibra hesaplamalarında da esas alınır.
-D13-031(K01) ~ D11-036(K04): [('GY', '87/5')]
-   A: GY 87: GOİK öncesi inceleme ve numune alma, tahlil ve ekspertiz sorumluluk ve masrafları yükümlüye aittir; işlemler gümrük gözetiminde yapılır.
-   B: Telef olan numunede yükümlülük doğmamış sayılır; kısmi re'sen imhada kalan kısım sahibin talebine göre işlem görür; çalınıp bulunan taşıt geçici depolanan eşyadır.
+244 çift ortak madde/fıkra
+D11-026(K01) ~ D14-047(K01): [('GY', '308/1-a'), ('GY', '308/1-i'), ('GY', '308/1-j')]
+   A: GY 308/1-l: üçgen trafik, idarelerden yalnız biri TGB’de olmak kaydıyla rejime giriş ve rejimi kapatan gümrük idarelerinin farklı olduğu durumdur.
+   B: GY 308: rejime girişten sonra yeni GOİK işlemlerini yapan idare rejimi kapatan; rejimi denetleyen idare denetleyici gümrük idaresidir.
 D13-036(K01) ~ D12-039(K05): [('Gümrük Genel Tebliği (Serbest Dolaşıma G', '5/1')]
    A: Seri 18: SDG işlemleri tamamlanmamış eşyada TPÖ tespit süresi üçer ay uzatılabilir, ek sürelerle yirmi dört ayı geçemez; on iki ay kapanmış beyannamelerdedir.
    B: Ekran ihtiva etmek ve jeton veya elektronik kartla çalışmak, oyun makinasının ithaline izin verilecek koşullardandır; serbest dolaşımı engelleyen hal değildir.
@@ -25,84 +19,45 @@ D11-031(K02) ~ D15-034(K02): [('GK', '28/a')]
    B: Hasılat üzerinden hesaplanan royalti, talep ve idarenin uygun bulmasıyla eşyanın FOB bedeline royalti oranı uygulanarak kıymete dahil edilir.
 D11-031(K02) ~ D15-036(K02): [('GK', '28/a')]
    A: Mal bedelinin peşin ödenmemesi nedeniyle finansman anlaşması olmaksızın satıcıya ödenen vade farkı fiilen ödenen fiyata dahildir; montaj ve yurt içi nakliye dahil değildi
-   B: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   B: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
+D11-039(K02) ~ D14-022(K02): [('GY', '53/3')]
+   A: İstisnai kıymetle beyanda tamamlayıcı beyana isabet eden vergilerde zamanaşımı, tamamlayıcı beyanın verildiği tarihten itibaren başlar.
+   B: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
+D12-050(K02) ~ D14-022(K02): [('GY', '51/8')]
+   A: Özel kriter izni, Kanunun sıralı yöntemleri ile son yöntemin uygulanmasının mümkün görülmemesi şartına bağlıdır.
+   B: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
 D12-051(K02) ~ D14-024(K02): [('GK', '27/1-a-ii')]
    A: Kıymet üzerinden vergiye tabi eşyanın kutu, kılıf ve mahfazaları, bağımsız ticari eşya değilse ve kıymeti eşya kıymetine dahilse vergilendirilmez.
    B: Antrepo masrafları ile antrepoda kaldığı sürece muhafaza masrafları, fiyattan ayrı gösterilirse gümrük kıymetine dahil edilmez.
-D12-098(K02) ~ D14-021(K02): [('GY', '48/1')]
+D12-098(K02) ~ D14-021(K02): [('GY', '48/1'), ('GY', '48/3')]
    A: İndirgemede yakın tarihli satış yoksa esas alınan ilk satış, birim fiyatın belirlenmesini sağlamaya yetecek miktardaki satıştır.
    B: İndirgemede işlenmiş eşyanın satış birim fiyatı esas alınırsa, işlemeden doğan ilave kıymet de bu fiyattan düşülür.
 D13-046(K02) ~ D15-033(K02): [('GK', '26/1')]
    A: Genellikle konsinye teslim edilen çabuk bozulabilir eşyanın kıymeti, sıralı yöntemlere ve son yönteme istisna olarak basitleştirilmiş usullerle belirlenir.
    B: GATT VII. Maddesinin Uygulanmasına Dair Anlaşma çerçevesinde belirlenen gümrük kıymeti unsurlarını içeren belge, Kıymet Bildirim Formudur.
-D14-021(K02) ~ D14-027(K02): [('GY', '48/2')]
-   A: İndirgemede işlenmiş eşyanın satış birim fiyatı esas alınırsa, işlemeden doğan ilave kıymet de bu fiyattan düşülür.
-   B: İndirgemede aynı sınıf veya cins eşyanın satışında mutat olarak ödenen komisyonlar da birim fiyattan indirilir.
+D13-079(K02) ~ D14-022(K02): [('Gümrük Genel Tebliği (Gümrük Kıymeti) (S', '11/4')]
+   A: Dönemsel royalti beyanı izni verildiğinde, izin kapsamındaki her bir ithalat için ayrıca başvuru yapılması gerekmez.
+   B: GY 53: satış bedeli yöntemiyle kıymet tespitinde konsinye çabuk bozulabilir veya sürekli akış eşyasında talep üzerine basitleştirilmiş usul uygulanan beyan istisnai kıyme
 D14-024(K02) ~ D15-034(K02): [('GK', '27/1-e')]
    A: Antrepo masrafları ile antrepoda kaldığı sürece muhafaza masrafları, fiyattan ayrı gösterilirse gümrük kıymetine dahil edilmez.
    B: Hasılat üzerinden hesaplanan royalti, talep ve idarenin uygun bulmasıyla eşyanın FOB bedeline royalti oranı uygulanarak kıymete dahil edilir.
 D14-024(K02) ~ D15-036(K02): [('GK', '27/1-e')]
    A: Antrepo masrafları ile antrepoda kaldığı sürece muhafaza masrafları, fiyattan ayrı gösterilirse gümrük kıymetine dahil edilmez.
-   B: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
-D14-024(K02) ~ D15-082(K08): [('GK', '104/1')]
-   A: Antrepo masrafları ile antrepoda kaldığı sürece muhafaza masrafları, fiyattan ayrı gösterilirse gümrük kıymetine dahil edilmez.
-   B: Antrepodaki ithal eşyasında yükümlülük doğunca antrepo ve muhafaza masrafları fiyattan ayrı gösterilmişse gümrük kıymetine dahil edilmez.
+   B: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
 D15-034(K02) ~ D15-036(K02): [('GK', '27/1-e'), ('GK', '28/a')]
    A: Hasılat üzerinden hesaplanan royalti, talep ve idarenin uygun bulmasıyla eşyanın FOB bedeline royalti oranı uygulanarak kıymete dahil edilir.
-   B: Aynı taşıtla giriş yerinden sonrasına taşımada navlun mesafe oranıyla bölünür; zorunlu genel fiyat tarifesine dayalı belge sunulursa belgedeki tutar dikkate alınır.
+   B: Deniz yolunda belgeyle tevsik edilen aktarma limanı giriş limanıdır; aktarma limanından sonraki navlun ve sigorta kıymete girmez.
 D12-035(K03) ~ D14-031(K03): [('3350 sayılı İthalat Rejimi Kararı', '9/1')]
    A: II sayılı liste (25-97) sütunları: 1 AB-EFTA-STA, 2 Katar, 3 BAE, 4 EAGÜ, 5 ÖTDÜ, 6 GYÜ, 7 Diğer Ülkeler; “2” sütunu BAE değildir.
    B: İRK eki IV sayılı liste 2, 3, 15, 16 ve 23. fasılları kapsar; 25-97. fasıllar II sayılı listenin sanayi ürünleri bölümüdür.
 D12-035(K03) ~ D15-050(K03): [('3350 sayılı İthalat Rejimi Kararı', '9/1')]
    A: II sayılı liste (25-97) sütunları: 1 AB-EFTA-STA, 2 Katar, 3 BAE, 4 EAGÜ, 5 ÖTDÜ, 6 GYÜ, 7 Diğer Ülkeler; “2” sütunu BAE değildir.
    B: İRK eki kısaltmalarda EFTA İzlanda, Lihtenştayn, Norveç, İsviçre'dir; Faroe Adaları F.ADA; Endonezya D-8 ülkesi olup TPS-OIC listesinde yoktur.
-D13-041(K03) ~ D11-021(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: Taahhüt kapatılınca yurt içi alım teminatlarını Tarım ve Orman Bakanlığınca tespit edilen şeker fabrikaları, şartlı muafiyet ithalat teminatlarını gümrük idaresi iade ede
-D13-041(K03) ~ D11-089(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: Kapatılmış beyannameye sonradan A.TR/menşe belgesi talebinde gümrük, kapatmayı yapan merciye bildirir; TEV tahsil edildiği tevsik edilince belge vize edilir.
-D13-041(K03) ~ D12-046(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: Ürünün başka belge sahibine yurt içi tesliminde ödenmeyen TEV’in tüm mali ve hukuki sorumluluğu ithalatı yapan firmaya; hak devrinde devralan firmaya aittir.
-D13-041(K03) ~ D12-097(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: DİR Tebliği ihraç edilen işlem görmüş ürünün girdisi olan, ithali vergiye tabi eşyaya uygulanır; iç piyasada satılacak ürünlerin girdileri kapsam dışıdır.
-D13-041(K03) ~ D13-056(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: Müeyyideli kapatmaya itiraz haklı bulunursa kapatma işlemi belge için İhracat Genel Müdürlüğünce, izin için ilgili bölge müdürlüğünce geri alınır.
-D13-041(K03) ~ D13-065(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: Kısmi teminat iadesi müracaatı belge süresinde: ithalatlı belgede gümrük idaresine, yurt içi alımlı belgede bölge müdürlüğüne; çoklu talepler aynı bölge müdürlüğünce sonu
-D13-041(K03) ~ D14-050(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: DİR izni yalnız muafiyetli ithalata imkân verir (yurt içi alım belgededir); yeni beyannamesiz serbest dolaşıma giriş hâlleri izin belgesinde belirtilir.
-D13-041(K03) ~ D14-053(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: DİR mücbir sebep tevsiki: afet-yangın il ve itfaiye müdürlüğü yazısı, iflas-konkordato mahkeme kararı, yasak-harp ve faaliyet kısıtlaması ilgili kamu kurumu yazısı.
-D13-041(K03) ~ D14-054(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: TEV: 1/2007 kapsamı işlenmiş tarım ihracatında üçüncü ülke girdilerinin vergisi aranır; STA ülkesine ihracatta o ülke menşeli olmayan girdiler için; TEV bütçeye irattır.
-D13-041(K03) ~ D15-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: DİR izni kapsamında tekstilde yalnız tela, etiket, düğme gibi yardımcı maddeler ithal edilebilir; temel tekstil hammaddeleri ve tekstil-deri kimyasalları kapsam dışıdır.
-D13-041(K03) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
-D13-041(K03) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
-D13-041(K03) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
-D13-041(K03) ~ D15-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: Önceden ihracata tekabül eden ithalatı tamamlayamayan firmanın belgesine belge süresi sonundan itibaren azami orijinal sürenin yarısı kadar haklı sebep ek süresi verilebi
-D13-041(K03) ~ D15-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
-   B: DİR: kullanılmayan belge talep üzerine iptal edilir; taahhüde sayım için satır kodu zorunludur; grup firması ihracatı kullanılabilir; süreler için yazılı bildirim yapılma
+D13-041(K03) ~ D15-039(K03): [('Gümrük Genel Tebliği (Tahsilat İşlemleri', '33/2-a')]
+   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; ihracatçı/imalatçı beyanı ve kapasite raporu tevsi
+   B: Telafi edici vergi iadesinde EUR.1'li tamamen yerli üründe temin faturası-müstahsil makbuzu, yerli olmayanda imalatçı beyanı; girdiler EUR.1, fatura beyanı, tedarikçi bey
 D13-041(K03) ~ D13-076(K10): [('Gümrük Genel Tebliği (Tahsilat İşlemleri', '33/5')]
-   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; A.TR ayrı sayılır.
+   A: Tahsilat Tebliğinde STA çerçevesindeki menşe ispat belgeleri EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeridir; ihracatçı/imalatçı beyanı ve kapasite raporu tevsi
    B: Uzlaşılan alacak için geri verme talebinde bulunulamaz; geri ödeme sisteminde Türk menşeli eşyanın tercihli ithalinde ödenmiş vergiler geri verilmez.
 D13-042(K03) ~ D14-068(K03): [('Gümrük İşlemlerinin Kolaylaştırılması Yö', '18/1')]
    A: Basitleştirilmiş A.TR izninde A.TR yetki numarası verilir; çalınma-kayıpta ikinci nüsha düzenlenebilir; vazgeçmede izin geri alınır, yeniden başvuruyla istenebilir.
@@ -113,12 +68,57 @@ D14-031(K03) ~ D15-050(K03): [('3350 sayılı İthalat Rejimi Kararı', '9/1')]
 D15-044(K03) ~ D12-038(K05): [('3350 sayılı İthalat Rejimi Kararı', '15/1-b')]
    A: İRK'ye göre ithalat yapmak isteyenler belgelerle doğrudan gümrük idarelerine başvurur; önce Bakanlığa başvuru öngörülmez. Eski eşya izne tabi.
    B: İRK'ya göre mevzuattaki toplu konut fonu ve ilave toplu konut fonu atıfları ilave gümrük vergisine değil ek mali yükümlülüğe yapılmış sayılır.
+D15-044(K03) ~ D15-055(K05): [('3350 sayılı İthalat Rejimi Kararı', '7/1')]
+   A: İRK'ye göre ithalat yapmak isteyenler belgelerle doğrudan gümrük idarelerine başvurur; önce Bakanlığa başvuru öngörülmez. Eski eşya izne tabi.
+   B: Seri 18 Tebliğine göre 72, 74 ve 76. fasıllarda kırpıntı, döküntü ve yeniden kullanılamaz halde olması gereken eşya metal hurdadır.
+D15-047(K03) ~ D11-021(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: Taahhüt kapatılınca yurt içi alım teminatlarını Tarım ve Orman Bakanlığınca tespit edilen şeker fabrikaları, şartlı muafiyet ithalat teminatlarını gümrük idaresi iade ede
+D15-047(K03) ~ D11-089(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: Kapatılmış beyannameye sonradan A.TR/menşe belgesi talebinde gümrük, kapatmayı yapan merciye bildirir; TEV tahsil edildiği tevsik edilince belge vize edilir.
+D15-047(K03) ~ D12-046(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: Ürünün başka belge sahibine yurt içi tesliminde ödenmeyen TEV’in tüm mali ve hukuki sorumluluğu ithalatı yapan firmaya; hak devrinde devralan firmaya aittir.
+D15-047(K03) ~ D12-097(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: DİR Tebliği ihraç edilen işlem görmüş ürünün girdisi olan, ithali vergiye tabi eşyaya uygulanır; iç piyasada satılacak ürünlerin girdileri kapsam dışıdır.
+D15-047(K03) ~ D13-056(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: Müeyyideli kapatmaya itiraz haklı bulunursa kapatma işlemi belge için İhracat Genel Müdürlüğünce, izin için ilgili bölge müdürlüğünce geri alınır.
+D15-047(K03) ~ D13-065(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: Kısmi teminat iadesi müracaatı belge süresinde: ithalatlı belgede gümrük idaresine, yurt içi alımlı belgede bölge müdürlüğüne; çoklu talepler aynı bölge müdürlüğünce sonu
+D15-047(K03) ~ D14-050(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: DİR izni yalnız muafiyetli ithalata imkân verir (yurt içi alım belgededir); yeni beyannamesiz serbest dolaşıma giriş hâlleri izin belgesinde belirtilir.
+D15-047(K03) ~ D14-053(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: DİR mücbir sebep tevsiki: afet-yangın il ve itfaiye müdürlüğü yazısı, iflas-konkordato mahkeme kararı, yasak-harp ve faaliyet kısıtlaması ilgili kamu kurumu yazısı.
+D15-047(K03) ~ D14-054(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: TEV: 1/2007 kapsamı işlenmiş tarım ihracatında üçüncü ülke girdilerinin vergisi aranır; STA ülkesine ihracatta o ülke menşeli olmayan girdiler için; TEV bütçeye irattır.
+D15-047(K03) ~ D15-059(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: DİR izni kapsamında tekstilde yalnız tela, etiket, düğme gibi yardımcı maddeler ithal edilebilir; temel tekstil hammaddeleri ve tekstil-deri kimyasalları kapsam dışıdır.
+D15-047(K03) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
+D15-047(K03) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+D15-047(K03) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
+D15-047(K03) ~ D15-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: Önceden ihracata tekabül eden ithalatı tamamlayamayan firmanın belgesine belge süresi sonundan itibaren azami orijinal sürenin yarısı kadar haklı sebep ek süresi verilebi
+D15-047(K03) ~ D15-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
+   A: Sınır ticaretinde gerçek dışı menşe belgesiyle ithalatta vergiler 6183'e göre tahsil, para cezası; üçüncü ülke girdili ürünün A.TR'li AB ihracı geri ödemeden yararlanmaz.
+   B: DİR: kullanılmayan belge talep üzerine iptal edilir; taahhüde sayım için satır kodu zorunludur; grup firması ihracatı kullanılabilir; süreler için yazılı bildirim yapılma
 D11-033(K04) ~ D13-029(K11): [('GK', '45/1')]
    A: Gümrüğe sunan kişi eşyayı özet beyan ya da beyannameyle ilişkilendirir; kaçınılmaz tehlikede boşaltma izni aranmaz; ilk yerden izinsiz kaldırılamaz.
    B: İzin alınmadan ve gümrükçe belirlenmeyen yerde taşıttan eşya boşaltılması dört kat usulsüzlük cezası gerektirir; 1.500 TL esasla 6.000 TL.
-D12-078(K05) ~ D14-049(K14): [('GY', '160/3-a')]
-   A: Beyanname yerine belge usulü, ticari belge hariç, idari belge ile beyanda B tipi antrepoya almada da uygulanır; ticari ve idari belge yer değiştirilemez.
-   B: Eksik beyanda ihracat vergisi ve teminat bilgileri ile tereddütsüz tanım bulunur; F tipi antrepo eşyasına basitleştirilmiş usul yok; hüküm yeniden ihracatta da geçerli.
 D14-043(K05) ~ D15-035(K05): [('Gümrük Genel Tebliği (Serbest Dolaşıma G', '7/1'), ('Gümrük Genel Tebliği (Serbest Dolaşıma G', '7/2')]
    A: Oyun makinası ayırımında Komisyon kararları oy çokluğuyla alınır; eğlence amaçlı makinayı İçişleri Bakanlığı uygun görür; Komisyon giderleri yükümlüye aittir.
    B: Boru hattı eşyasında beyanname tescil süreleri aşılırsa, süre bitiminden tescile kadar gecikme zammı oranında gecikme faizi uygulanır.
@@ -157,7 +157,7 @@ D11-021(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D11-021(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Taahhüt kapatılınca yurt içi alım teminatlarını Tarım ve Orman Bakanlığınca tespit edilen şeker fabrikaları, şartlı muafiyet ithalat teminatlarını gümrük idaresi iade ede
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D11-021(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Taahhüt kapatılınca yurt içi alım teminatlarını Tarım ve Orman Bakanlığınca tespit edilen şeker fabrikaları, şartlı muafiyet ithalat teminatlarını gümrük idaresi iade ede
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -196,7 +196,7 @@ D11-089(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D11-089(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Kapatılmış beyannameye sonradan A.TR/menşe belgesi talebinde gümrük, kapatmayı yapan merciye bildirir; TEV tahsil edildiği tevsik edilince belge vize edilir.
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D11-089(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Kapatılmış beyannameye sonradan A.TR/menşe belgesi talebinde gümrük, kapatmayı yapan merciye bildirir; TEV tahsil edildiği tevsik edilince belge vize edilir.
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -232,7 +232,7 @@ D12-046(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D12-046(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Ürünün başka belge sahibine yurt içi tesliminde ödenmeyen TEV’in tüm mali ve hukuki sorumluluğu ithalatı yapan firmaya; hak devrinde devralan firmaya aittir.
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D12-046(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Ürünün başka belge sahibine yurt içi tesliminde ödenmeyen TEV’in tüm mali ve hukuki sorumluluğu ithalatı yapan firmaya; hak devrinde devralan firmaya aittir.
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -265,7 +265,7 @@ D12-097(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D12-097(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR Tebliği ihraç edilen işlem görmüş ürünün girdisi olan, ithali vergiye tabi eşyaya uygulanır; iç piyasada satılacak ürünlerin girdileri kapsam dışıdır.
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D12-097(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR Tebliği ihraç edilen işlem görmüş ürünün girdisi olan, ithali vergiye tabi eşyaya uygulanır; iç piyasada satılacak ürünlerin girdileri kapsam dışıdır.
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -295,7 +295,7 @@ D13-056(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D13-056(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Müeyyideli kapatmaya itiraz haklı bulunursa kapatma işlemi belge için İhracat Genel Müdürlüğünce, izin için ilgili bölge müdürlüğünce geri alınır.
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D13-056(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Müeyyideli kapatmaya itiraz haklı bulunursa kapatma işlemi belge için İhracat Genel Müdürlüğünce, izin için ilgili bölge müdürlüğünce geri alınır.
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -322,7 +322,7 @@ D13-065(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D13-065(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Kısmi teminat iadesi müracaatı belge süresinde: ithalatlı belgede gümrük idaresine, yurt içi alımlı belgede bölge müdürlüğüne; çoklu talepler aynı bölge müdürlüğünce sonu
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D13-065(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Kısmi teminat iadesi müracaatı belge süresinde: ithalatlı belgede gümrük idaresine, yurt içi alımlı belgede bölge müdürlüğüne; çoklu talepler aynı bölge müdürlüğünce sonu
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -346,7 +346,7 @@ D14-050(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D14-050(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR izni yalnız muafiyetli ithalata imkân verir (yurt içi alım belgededir); yeni beyannamesiz serbest dolaşıma giriş hâlleri izin belgesinde belirtilir.
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D14-050(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR izni yalnız muafiyetli ithalata imkân verir (yurt içi alım belgededir); yeni beyannamesiz serbest dolaşıma giriş hâlleri izin belgesinde belirtilir.
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -367,7 +367,7 @@ D14-053(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D14-053(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR mücbir sebep tevsiki: afet-yangın il ve itfaiye müdürlüğü yazısı, iflas-konkordato mahkeme kararı, yasak-harp ve faaliyet kısıtlaması ilgili kamu kurumu yazısı.
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D14-053(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR mücbir sebep tevsiki: afet-yangın il ve itfaiye müdürlüğü yazısı, iflas-konkordato mahkeme kararı, yasak-harp ve faaliyet kısıtlaması ilgili kamu kurumu yazısı.
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -385,7 +385,7 @@ D14-054(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D14-054(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: TEV: 1/2007 kapsamı işlenmiş tarım ihracatında üçüncü ülke girdilerinin vergisi aranır; STA ülkesine ihracatta o ülke menşeli olmayan girdiler için; TEV bütçeye irattır.
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D14-054(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: TEV: 1/2007 kapsamı işlenmiş tarım ihracatında üçüncü ülke girdilerinin vergisi aranır; STA ülkesine ihracatta o ülke menşeli olmayan girdiler için; TEV bütçeye irattır.
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -400,7 +400,7 @@ D15-059(K07) ~ D15-062(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
 D15-059(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR izni kapsamında tekstilde yalnız tela, etiket, düğme gibi yardımcı maddeler ithal edilebilir; temel tekstil hammaddeleri ve tekstil-deri kimyasalları kapsam dışıdır.
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D15-059(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: DİR izni kapsamında tekstilde yalnız tela, etiket, düğme gibi yardımcı maddeler ithal edilebilir; temel tekstil hammaddeleri ve tekstil-deri kimyasalları kapsam dışıdır.
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -412,7 +412,7 @@ D15-059(K07) ~ D15-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    B: DİR: kullanılmayan belge talep üzerine iptal edilir; taahhüde sayım için satır kodu zorunludur; grup firması ihracatı kullanılabilir; süreler için yazılı bildirim yapılma
 D15-062(K07) ~ D15-063(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
-   B: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   B: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
 D15-062(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -423,13 +423,13 @@ D15-062(K07) ~ D15-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2
    A: Şartlı muafiyette belgeler “Dahilde İşleme/Şartlı Muafiyet Sistemindeki Eşya”, TPÖ varsa ayrıca “Ticaret Politikası”; geri ödemede “Dahilde İşleme/Geri Ödeme Sistemindeki
    B: DİR: kullanılmayan belge talep üzerine iptal edilir; taahhüde sayım için satır kodu zorunludur; grup firması ihracatı kullanılabilir; süreler için yazılı bildirim yapılma
 D15-063(K07) ~ D15-064(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   A: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
    B: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
 D15-063(K07) ~ D15-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   A: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
    B: Önceden ihracata tekabül eden ithalatı tamamlayamayan firmanın belgesine belge süresi sonundan itibaren azami orijinal sürenin yarısı kadar haklı sebep ek süresi verilebi
 D15-063(K07) ~ D15-071(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
-   A: DİR Tebliği tanımları: değişmemiş eşya işlem görmemiş ithal eşyasıdır; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
+   A: DİR Tebliği tanımları: onaylanmış kişi statü belgesini Bakanlık verir; izin süresi işlemlerin yapılıp istisnaların uygulandığı dönemdir; gümrük rejimine ihracat dahildir.
    B: DİR: kullanılmayan belge talep üzerine iptal edilir; taahhüde sayım için satır kodu zorunludur; grup firması ihracatı kullanılabilir; süreler için yazılı bildirim yapılma
 D15-064(K07) ~ D15-067(K07): [('Dahilde İşleme Rejimi Tebliği (İhracat:', '2006/12')]
    A: Belge kapsamında yurt içinden temin edilen eşya KDV-ÖTV saklı kalmak kaydıyla ithal eşyası gibi değerlendirilir; ikincil ürün ve döviz kullanım oranı hükümleri uygulanmaz
@@ -461,24 +461,18 @@ D12-060(K08) ~ D12-084(K09): [('2009/15481 sayılı Karar', '2009/15481')]
 D12-060(K08) ~ D12-085(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Yerleşik kişinin kişisel taşıtı süreklilik arz etmeden kullanması, izin hak sahibinin izni ve o sırada Türkiye Gümrük Bölgesinde bulunması şartına bağlıdır.
    B: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-D12-060(K08) ~ D12-086(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+D12-060(K08) ~ D13-048(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Yerleşik kişinin kişisel taşıtı süreklilik arz etmeden kullanması, izin hak sahibinin izni ve o sırada Türkiye Gümrük Bölgesinde bulunması şartına bağlıdır.
-   B: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+   B: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
 D12-060(K08) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Yerleşik kişinin kişisel taşıtı süreklilik arz etmeden kullanması, izin hak sahibinin izni ve o sırada Türkiye Gümrük Bölgesinde bulunması şartına bağlıdır.
    B: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-D12-060(K08) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Yerleşik kişinin kişisel taşıtı süreklilik arz etmeden kullanması, izin hak sahibinin izni ve o sırada Türkiye Gümrük Bölgesinde bulunması şartına bağlıdır.
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
 D12-060(K08) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Yerleşik kişinin kişisel taşıtı süreklilik arz etmeden kullanması, izin hak sahibinin izni ve o sırada Türkiye Gümrük Bölgesinde bulunması şartına bağlıdır.
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D12-060(K08) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Yerleşik kişinin kişisel taşıtı süreklilik arz etmeden kullanması, izin hak sahibinin izni ve o sırada Türkiye Gümrük Bölgesinde bulunması şartına bağlıdır.
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D12-060(K08) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Yerleşik kişinin kişisel taşıtı süreklilik arz etmeden kullanması, izin hak sahibinin izni ve o sırada Türkiye Gümrük Bölgesinde bulunması şartına bağlıdır.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
 D14-070(K08) ~ D14-072(K08): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Tek kişinin getirdiği aynı cinsten fazla miktarda eşya ile tek kişiye gönderilen çok sayıda eşya numune sayılmaz; numune olarak geçici ithal edilemez.
    B: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
@@ -497,24 +491,18 @@ D14-070(K08) ~ D12-084(K09): [('2009/15481 sayılı Karar', '2009/15481')]
 D14-070(K08) ~ D12-085(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Tek kişinin getirdiği aynı cinsten fazla miktarda eşya ile tek kişiye gönderilen çok sayıda eşya numune sayılmaz; numune olarak geçici ithal edilemez.
    B: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-D14-070(K08) ~ D12-086(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+D14-070(K08) ~ D13-048(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Tek kişinin getirdiği aynı cinsten fazla miktarda eşya ile tek kişiye gönderilen çok sayıda eşya numune sayılmaz; numune olarak geçici ithal edilemez.
-   B: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+   B: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
 D14-070(K08) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Tek kişinin getirdiği aynı cinsten fazla miktarda eşya ile tek kişiye gönderilen çok sayıda eşya numune sayılmaz; numune olarak geçici ithal edilemez.
    B: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-D14-070(K08) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Tek kişinin getirdiği aynı cinsten fazla miktarda eşya ile tek kişiye gönderilen çok sayıda eşya numune sayılmaz; numune olarak geçici ithal edilemez.
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
 D14-070(K08) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Tek kişinin getirdiği aynı cinsten fazla miktarda eşya ile tek kişiye gönderilen çok sayıda eşya numune sayılmaz; numune olarak geçici ithal edilemez.
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D14-070(K08) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Tek kişinin getirdiği aynı cinsten fazla miktarda eşya ile tek kişiye gönderilen çok sayıda eşya numune sayılmaz; numune olarak geçici ithal edilemez.
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D14-070(K08) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Tek kişinin getirdiği aynı cinsten fazla miktarda eşya ile tek kişiye gönderilen çok sayıda eşya numune sayılmaz; numune olarak geçici ithal edilemez.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
 D14-072(K08) ~ D11-058(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
    B: İşyeri nakli muafiyeti, TGB'de yerleşik bir işletme ile bağlantı kurma amacına yönelik işletmelere uygulanmaz; hak yalnız benzer faaliyet için nakleden işyeri sahibinindi
@@ -530,24 +518,18 @@ D14-072(K08) ~ D12-084(K09): [('2009/15481 sayılı Karar', '2009/15481')]
 D14-072(K08) ~ D12-085(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
    B: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-D14-072(K08) ~ D12-086(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+D14-072(K08) ~ D13-048(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
-   B: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+   B: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
 D14-072(K08) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
    B: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-D14-072(K08) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
 D14-072(K08) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D14-072(K08) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D14-072(K08) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Geçici ithalat teminatı rejime giriş gümrük idaresince alınır; kısmi muafiyette yükümlülük tescilde başlar, ödenen vergi düşülür; sözlü beyan eşyasında teminat aranmaz.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
 D11-058(K09) ~ D11-073(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: İşyeri nakli muafiyeti, TGB'de yerleşik bir işletme ile bağlantı kurma amacına yönelik işletmelere uygulanmaz; hak yalnız benzer faaliyet için nakleden işyeri sahibinindi
    B: Bilgi materyalinde yabancı kurumların Türkiye'deki sınav belgeleri ile sipariş amaçlı plan ve teknik çizimler muaf; Türkiye'de yerleşik firmaların reklam malzemeleri hari
@@ -560,24 +542,18 @@ D11-058(K09) ~ D12-084(K09): [('2009/15481 sayılı Karar', '2009/15481')]
 D11-058(K09) ~ D12-085(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: İşyeri nakli muafiyeti, TGB'de yerleşik bir işletme ile bağlantı kurma amacına yönelik işletmelere uygulanmaz; hak yalnız benzer faaliyet için nakleden işyeri sahibinindi
    B: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-D11-058(K09) ~ D12-086(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+D11-058(K09) ~ D13-048(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: İşyeri nakli muafiyeti, TGB'de yerleşik bir işletme ile bağlantı kurma amacına yönelik işletmelere uygulanmaz; hak yalnız benzer faaliyet için nakleden işyeri sahibinindi
-   B: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+   B: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
 D11-058(K09) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: İşyeri nakli muafiyeti, TGB'de yerleşik bir işletme ile bağlantı kurma amacına yönelik işletmelere uygulanmaz; hak yalnız benzer faaliyet için nakleden işyeri sahibinindi
    B: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-D11-058(K09) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: İşyeri nakli muafiyeti, TGB'de yerleşik bir işletme ile bağlantı kurma amacına yönelik işletmelere uygulanmaz; hak yalnız benzer faaliyet için nakleden işyeri sahibinindi
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
 D11-058(K09) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: İşyeri nakli muafiyeti, TGB'de yerleşik bir işletme ile bağlantı kurma amacına yönelik işletmelere uygulanmaz; hak yalnız benzer faaliyet için nakleden işyeri sahibinindi
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D11-058(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: İşyeri nakli muafiyeti, TGB'de yerleşik bir işletme ile bağlantı kurma amacına yönelik işletmelere uygulanmaz; hak yalnız benzer faaliyet için nakleden işyeri sahibinindi
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D11-058(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: İşyeri nakli muafiyeti, TGB'de yerleşik bir işletme ile bağlantı kurma amacına yönelik işletmelere uygulanmaz; hak yalnız benzer faaliyet için nakleden işyeri sahibinindi
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
 D11-073(K09) ~ D11-074(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bilgi materyalinde yabancı kurumların Türkiye'deki sınav belgeleri ile sipariş amaçlı plan ve teknik çizimler muaf; Türkiye'de yerleşik firmaların reklam malzemeleri hari
    B: Bağışlanan tıbbi cihazda Sağlık Bakanlığı uygunluğu, Ar-Ge eşyasında TÜBİTAK teyidi aranır; görsel-işitsel malzemede muafiyet kamu eğitim, bilim, kültür kuruluşlarına özg
@@ -587,135 +563,84 @@ D11-073(K09) ~ D12-084(K09): [('2009/15481 sayılı Karar', '2009/15481')]
 D11-073(K09) ~ D12-085(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bilgi materyalinde yabancı kurumların Türkiye'deki sınav belgeleri ile sipariş amaçlı plan ve teknik çizimler muaf; Türkiye'de yerleşik firmaların reklam malzemeleri hari
    B: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-D11-073(K09) ~ D12-086(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+D11-073(K09) ~ D13-048(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bilgi materyalinde yabancı kurumların Türkiye'deki sınav belgeleri ile sipariş amaçlı plan ve teknik çizimler muaf; Türkiye'de yerleşik firmaların reklam malzemeleri hari
-   B: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+   B: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
 D11-073(K09) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bilgi materyalinde yabancı kurumların Türkiye'deki sınav belgeleri ile sipariş amaçlı plan ve teknik çizimler muaf; Türkiye'de yerleşik firmaların reklam malzemeleri hari
    B: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-D11-073(K09) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Bilgi materyalinde yabancı kurumların Türkiye'deki sınav belgeleri ile sipariş amaçlı plan ve teknik çizimler muaf; Türkiye'de yerleşik firmaların reklam malzemeleri hari
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
 D11-073(K09) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bilgi materyalinde yabancı kurumların Türkiye'deki sınav belgeleri ile sipariş amaçlı plan ve teknik çizimler muaf; Türkiye'de yerleşik firmaların reklam malzemeleri hari
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D11-073(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bilgi materyalinde yabancı kurumların Türkiye'deki sınav belgeleri ile sipariş amaçlı plan ve teknik çizimler muaf; Türkiye'de yerleşik firmaların reklam malzemeleri hari
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D11-073(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Bilgi materyalinde yabancı kurumların Türkiye'deki sınav belgeleri ile sipariş amaçlı plan ve teknik çizimler muaf; Türkiye'de yerleşik firmaların reklam malzemeleri hari
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
 D11-074(K09) ~ D12-084(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bağışlanan tıbbi cihazda Sağlık Bakanlığı uygunluğu, Ar-Ge eşyasında TÜBİTAK teyidi aranır; görsel-işitsel malzemede muafiyet kamu eğitim, bilim, kültür kuruluşlarına özg
    B: Ayda dörtten fazla giren otomobil, minibüs ve kamyonette her girişte tüm depodan litre başına ÖTV tutarında vergi alınır; yüzde elli fazlası alınmaz.
 D11-074(K09) ~ D12-085(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bağışlanan tıbbi cihazda Sağlık Bakanlığı uygunluğu, Ar-Ge eşyasında TÜBİTAK teyidi aranır; görsel-işitsel malzemede muafiyet kamu eğitim, bilim, kültür kuruluşlarına özg
    B: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-D11-074(K09) ~ D12-086(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+D11-074(K09) ~ D13-048(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bağışlanan tıbbi cihazda Sağlık Bakanlığı uygunluğu, Ar-Ge eşyasında TÜBİTAK teyidi aranır; görsel-işitsel malzemede muafiyet kamu eğitim, bilim, kültür kuruluşlarına özg
-   B: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+   B: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
 D11-074(K09) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bağışlanan tıbbi cihazda Sağlık Bakanlığı uygunluğu, Ar-Ge eşyasında TÜBİTAK teyidi aranır; görsel-işitsel malzemede muafiyet kamu eğitim, bilim, kültür kuruluşlarına özg
    B: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-D11-074(K09) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Bağışlanan tıbbi cihazda Sağlık Bakanlığı uygunluğu, Ar-Ge eşyasında TÜBİTAK teyidi aranır; görsel-işitsel malzemede muafiyet kamu eğitim, bilim, kültür kuruluşlarına özg
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
 D11-074(K09) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bağışlanan tıbbi cihazda Sağlık Bakanlığı uygunluğu, Ar-Ge eşyasında TÜBİTAK teyidi aranır; görsel-işitsel malzemede muafiyet kamu eğitim, bilim, kültür kuruluşlarına özg
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D11-074(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Bağışlanan tıbbi cihazda Sağlık Bakanlığı uygunluğu, Ar-Ge eşyasında TÜBİTAK teyidi aranır; görsel-işitsel malzemede muafiyet kamu eğitim, bilim, kültür kuruluşlarına özg
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D11-074(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Bağışlanan tıbbi cihazda Sağlık Bakanlığı uygunluğu, Ar-Ge eşyasında TÜBİTAK teyidi aranır; görsel-işitsel malzemede muafiyet kamu eğitim, bilim, kültür kuruluşlarına özg
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
 D12-083(K09) ~ D15-077(K09): [('Gümrük Muafiyeti Tebliği (Seri No:', '4/1-ç'), ('Gümrük Muafiyeti Tebliği (Seri No:', '5/1-a')]
    A: Taşıt muafiyetinden yurt dışında yerleşik murisin Türkiye'de ikamet eden mirasçıları da yararlanır; iki ülkede bulunanlarda altı aylık kayıt yeterlidir.
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D12-084(K09) ~ D12-085(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Ayda dörtten fazla giren otomobil, minibüs ve kamyonette her girişte tüm depodan litre başına ÖTV tutarında vergi alınır; yüzde elli fazlası alınmaz.
    B: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-D12-084(K09) ~ D12-086(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+D12-084(K09) ~ D13-048(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Ayda dörtten fazla giren otomobil, minibüs ve kamyonette her girişte tüm depodan litre başına ÖTV tutarında vergi alınır; yüzde elli fazlası alınmaz.
-   B: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+   B: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
 D12-084(K09) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Ayda dörtten fazla giren otomobil, minibüs ve kamyonette her girişte tüm depodan litre başına ÖTV tutarında vergi alınır; yüzde elli fazlası alınmaz.
    B: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-D12-084(K09) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Ayda dörtten fazla giren otomobil, minibüs ve kamyonette her girişte tüm depodan litre başına ÖTV tutarında vergi alınır; yüzde elli fazlası alınmaz.
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
 D12-084(K09) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Ayda dörtten fazla giren otomobil, minibüs ve kamyonette her girişte tüm depodan litre başına ÖTV tutarında vergi alınır; yüzde elli fazlası alınmaz.
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D12-084(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Ayda dörtten fazla giren otomobil, minibüs ve kamyonette her girişte tüm depodan litre başına ÖTV tutarında vergi alınır; yüzde elli fazlası alınmaz.
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D12-084(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Ayda dörtten fazla giren otomobil, minibüs ve kamyonette her girişte tüm depodan litre başına ÖTV tutarında vergi alınır; yüzde elli fazlası alınmaz.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
-D12-085(K09) ~ D12-086(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+D12-085(K09) ~ D13-048(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-   B: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+   B: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
 D12-085(K09) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
    B: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-D12-085(K09) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
 D12-085(K09) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D12-085(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D12-085(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Karar tanımlarında artık ürünler test sonucu ortaya çıkan ürünler, geride kalan ürünler kullanılmamış ürünlerdir; öğrenci tam zamanlı kayıtlı kişidir.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
-D12-086(K09) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+D13-048(K09) ~ D14-062(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+   A: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
    B: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-D12-086(K09) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
-D12-086(K09) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+D13-048(K09) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+   A: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
-D12-086(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
+D13-048(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
+   A: Yolcu kişisel eşya listesindeki eşyayı veya hediyelik eşyayı getirmişse aynı eşya gümrük kapılarındaki mağazalardan ayrıca satın alınamaz.
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D12-086(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Yolcu beraberi hediyelik eşyada işlenmiş hayvansal ürünlerde beş, taze ve kuru meyve-sebzede üç, diğer bitkisel üründe bir kilograma kadar muafiyet.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
-D14-062(K09) ~ D14-098(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-   B: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
 D14-062(K09) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
    B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
 D14-062(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D14-062(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Varise intikal eden engelli aracı beş yıl içinde engelli olmayana satılırsa vergi alınır; el-ayak fonksiyonunu yitiren kişi komisyona vekil veya vasiyle katılabilir.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
-D14-098(K09) ~ D15-077(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
-   B: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
-D14-098(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
-   B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D14-098(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Kişisel eşya listesinin gıda ürünlerinde çikolata ve/veya şekerden mamul yiyecekten toplam iki kilogram alınabilir; beş kilogram değil.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
 D15-077(K09) ~ D15-079(K09): [('2009/15481 sayılı Karar', '2009/15481')]
    A: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
    B: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-D15-077(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Mirasçının muafen getireceği taşıtın, yurt dışında yerleşik murisin adına ölüm tarihinden en az altı ay önce kayıtlı olması gerekir.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
-D15-079(K09) ~ D15-078(K14): [('2009/15481 sayılı Karar', '2009/15481')]
-   A: Yurt dışında yerleşik kişinin Türkiye'deki konutu için getirdiği ev eşyası gelişten önce, gelişle birlikte veya gelişten sonraki altı ayda beyan edilir.
-   B: Posta-kargoyla takviye ve sporcu gıdasında rapor-reçete son bir yıl içinde düzenlenmiş olmalı; ürün yakını adına gelirse her iki şahıstan yazılı beyan alınır.
 D15-086(K09) ~ D13-043(K11): [('GK', '159/1')]
    A: Serbest bölgede eşyanın bir işletici veya kullanıcıdan diğerine aktarılmasında alanın kayıtlarına geçirildiğine ilişkin kontrolleri gümrük idareleri yapar.
    B: Serbest bölgede çalışan kişinin envanter kaydı gibi Kanunla konulmuş kurallara uymaması iki kat usulsüzlük cezası gerektirir.
@@ -724,13 +649,10 @@ D11-081(K10) ~ D12-088(K10): [('Gümrük Genel Tebliği (Tahsilat İşlemleri', 
    B: Vade tarihinden sonra istenen tecilde tecil faizi, talep tarihinden ödeme tarihine kadar (iki tarih dâhil) geçen süre için uygulanır.
 D12-034(K10) ~ D13-068(K10): [('GK', '186/1')]
    A: Tahrip veya tekrar yerine konulamaz kayıp; eşyanın özelliği, beklenmeyen hâl-mücbir sebep veya gümrük izninden kaynaklandığı kanıtlanırsa yükümlülük doğmuş sayılmaz.
-   B: İzinsiz hâllerde telef-kayıp mahkeme kararıyla, suçüstü hırsızlık savcılık belgesiyle, herkesçe bilinen olaylar mülki idare amiri belgesiyle kanıtlanır.
+   B: İzin dışı telef-kayıp mahkeme kararıyla kanıtlanır; tekrar yerine konulamaz kayıp kullanılamaz hâle gelmedir; kayıp miktarı ilgilinin isteği üzerine dikkate alınır.
 D12-089(K10) ~ D12-090(K10): [('Gümrük Genel Tebliği (Tahsilat İşlemleri', '31/2')]
    A: Tek formda yetkili idare toplam tutarla, Bakanlık düzenlemeli çoklu başvuruda ayrı ayrı belirlenir; tahsilat verisi yoksa ödeme belgesi istenir.
    B: Geri verme kararlarının talep sahibine tebliği ve kayıtlar, karar başka idarece verilse de başvurunun yapıldığı gümrük idaresince yapılır.
-D13-077(K10) ~ D12-087(K13): [('Gümrük Genel Tebliği (Tahsilat İşlemleri', '12/2')]
-   A: Doğrudan itirazda süre kayda giriş tarihine göre belirlenir; mahkemece verilen idari para cezasına Gümrük Kanunu uyarınca itiraz ve uzlaşma yoktur.
-   B: Müteselsil sorumlulardan biri uzlaşma diğeri itiraz ederse itiraz uzlaşmadan sonra değerlendirilir; vekil YGM müteselsil, YGM sorumluluğu tespit kapsamıyla sınırlı.
 D13-033(K11) ~ D14-082(K11): [('GK', '231/5')]
    A: Bakanlık laboratuvarı tahlil raporuna göre yapılan tarife beyanı sonraki tahlille değişirse yanlış izahat hükmü uygulanır; ceza ve faiz yoktur.
    B: İzahata esas mevzuat değişir ve izahat yeni hükümlere uymazsa yanlış izahat koruması yeni düzenlemenin yapıldığı tarihten itibaren uygulanmaz.
@@ -745,7 +667,7 @@ D14-082(K11) ~ D15-031(K11): [('GK', '231/5')]
    B: İzahat yalnız başvuru sahibi için izahat niteliği taşır; aynı eşyayı ithal eden başka firma yanlış izahat korumasından yararlanamaz.
 D11-092(K12) ~ D12-027(K12): [('5607', '3/12'), ('5607', '3/15')]
    A: Akaryakıt Yönetmeliğinde tasfiye edilmiş uygun kaçak akaryakıta ticari faaliyetten önce eklenen, özelliklerini bozmayan kimyasal ürün ulusal markerdir.
-   B: Ulusal markeri yetkisiz kişilerden almak ve lisansa aykırı seyyar tank bulundurmak suçtur; vergili ihraç eşyasını işlemsiz çıkarmak ve izinle solventten üretim değildir.
+   B: Markeri yetkisizden almak ve boru hattından kanunsuz alınan ürünü bilerek ticari amaçla almak suçtur; vergili ihraç eşyasını işlemsiz çıkarmak, izinle solventten üretim d
 D11-093(K12) ~ D13-045(K12): [('5607', '23/2')]
    A: Silahla karşılığa yeltenilir veya meşru müdafaa durumuna düşülürse yetkili memurlar saldırıyı etkisiz kılacak oranda doğrudan hedefe ateş edebilir.
    B: İhbarsız sahipli kaçak akaryakıtta, rafineri vergisiz ortalama satış bedelinin %10’u dava açılınca el koyanlara ödenir: 320.000 × %10 = 32.000 TL.
@@ -767,9 +689,6 @@ D11-100(K12) ~ D12-022(K12): [('5607', '4/2')]
 D11-100(K12) ~ D14-066(K12): [('5607', '5/2')]
    A: Mükerrir hakkında gümrüklenmiş değerin iki katının ödenmesine bağlı indirim uygulanmaz; bandrolsüz tütün naklinde alt sınır üç yıl: 36+36=72 ay.
    B: Gümrüklenmiş değerin iki katını ödemeye bağlı indirim ithali kanunen yasak eşya suçunda uygulanmaz; alt sınır iki yıl olduğundan ceza 24 ay kalır.
-D12-027(K12) ~ D14-065(K12): [('5607', '3/14')]
-   A: Ulusal markeri yetkisiz kişilerden almak ve lisansa aykırı seyyar tank bulundurmak suçtur; vergili ihraç eşyasını işlemsiz çıkarmak ve izinle solventten üretim değildir.
-   B: Kaçak akaryakıt satışı lisansa aykırı sabit veya seyyar tank, düzenek ya da ekipmanla yapılırsa verilecek cezalar iki kat artırılır.
 D13-022(K12) ~ D13-051(K12): [('5607 Sayılı Kaçakçılıkla Mücadele Kanunu', '10/1')]
    A: Nükleer veya radyoaktif eşya bulunduğu yerden ancak TENMAK izniyle, gümrük idaresinin bilgisi dahilinde çıkartılır; yazılı bildirim diğer eşya içindir.
    B: Faillerin belirlenmesi, delil toplanması ve müsadere amacıyla kaçak eşyanın yetkili makamların bilgi ve denetimi altında nakli kontrollü teslimattır.
@@ -794,9 +713,21 @@ D11-030(K14) ~ D11-064(K14): [('GK', '168/1')]
 D11-030(K14) ~ D13-053(K14): [('GK', '168/1')]
    A: Sayım sonunda sınır ticaret merkezinde üç aydan fazla süredir bulunduğu tespit edilen ihraç eşyası geri gelen eşya hükümlerine tabi tutulur.
    B: Süre uzatımı düzenlenmeyen geçici ihracatta üç yıllık süre için, bitiminden önce başvurulursa gümrük müdürlüğünce yeteri kadar ek süre verilir.
+D11-030(K14) ~ D13-059(K14): [('GK', '168/1')]
+   A: Sayım sonunda sınır ticaret merkezinde üç aydan fazla süredir bulunduğu tespit edilen ihraç eşyası geri gelen eşya hükümlerine tabi tutulur.
+   B: Geri gelen eşyada üç yıllık sürenin uzatılmasına ilişkin özel ve zorunlu durumlar Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenip sonuçlandırılır.
 D11-064(K14) ~ D13-053(K14): [('GK', '168/1')]
    A: Geri gelen eşyada ihracatta yararlanılan KDV tahsil edilir; teminat verilirse hak ve menfaat tespitinden önce teslime Bakanlık usulüyle izin verilir.
    B: Süre uzatımı düzenlenmeyen geçici ihracatta üç yıllık süre için, bitiminden önce başvurulursa gümrük müdürlüğünce yeteri kadar ek süre verilir.
+D11-064(K14) ~ D13-059(K14): [('GK', '168/1')]
+   A: Geri gelen eşyada ihracatta yararlanılan KDV tahsil edilir; teminat verilirse hak ve menfaat tespitinden önce teslime Bakanlık usulüyle izin verilir.
+   B: Geri gelen eşyada üç yıllık sürenin uzatılmasına ilişkin özel ve zorunlu durumlar Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenip sonuçlandırılır.
+D13-053(K14) ~ D13-059(K14): [('GK', '168/1')]
+   A: Süre uzatımı düzenlenmeyen geçici ihracatta üç yıllık süre için, bitiminden önce başvurulursa gümrük müdürlüğünce yeteri kadar ek süre verilir.
+   B: Geri gelen eşyada üç yıllık sürenin uzatılmasına ilişkin özel ve zorunlu durumlar Müsteşarlıkça, bugün Ticaret Bakanlığınca incelenip sonuçlandırılır.
 D14-097(K14) ~ D15-025(K14): [('Posta ve Hızlı Kargo Yoluyla Taşınan Eşy', '10/14')]
    A: Operatör hızlı kargo firması yetki kapsamındaki ihracatta eşyayı geçici depolamaya almaksızın aynı grup firmasının izinli gönderici tesisini kullanabilir.
    B: Operatörün ihracatta eşyanın geçici depolama yerine alınmaması talebini fiziki koşullar ve risk analiziyle ilgili gümrük müdürlüğü değerlendirir.
+D15-038(K15) ~ D15-057(K15): [('Gümrük Genel Tebliği (Tarife) (Seri No:', '9/1')]
+   A: Seri No 14 tanımında hak sahibi BTB'nin adına düzenlendiği kişi, başvuru sahibi BTB için gümrük idaresine başvuran kişidir; tanımlar yer değiştirmez.
+   B: Seri No 11: tasarlanan ithalata dayanan tarife bilgisi başvurusu ithalat gümrüğünün bağlı başmüdürlüğüne yapılır; mükerrer bilgide Müsteşarlığa ve gerekirse vergi dairesi

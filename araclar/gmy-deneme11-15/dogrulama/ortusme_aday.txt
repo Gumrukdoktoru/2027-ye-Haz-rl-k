@@ -1,54 +1,45 @@
 D11-023 [T1+T2] öncül ~ D1 (kapsama 0.80, jaccard 0.53)
    YENİ: I. Antrepo devir talepleri, gümrük müdürlüğünün görüşü üzerine bölge müdürlüğünce sonuçlandırılır.
-   ESKİ: E) Elleçleme antrepo dışında yapılacaksa denetleyici gümrük müdürlüğünce, antrepo içinde yapılacaksa gümrük müdürlüğünün görüşü üzerine Bölge Müdürlüğünce sonuçlandırılır.
+   ESKİ: D) Elleçleme antrepo içinde yapılacaksa denetleyici gümrük müdürlüğünce, antrepo dışında yapılacaksa gümrük müdürlüğünün görüşü üzerine Bölge Müdürlüğünce sonuçlandırılır.
 D11-023 [T1+T2] öncül ~ D1 (kapsama 0.80, jaccard 0.53)
    YENİ: I. Antrepo devir talepleri, gümrük müdürlüğünün görüşü üzerine bölge müdürlüğünce sonuçlandırılır.
-   ESKİ: D) Elleçleme antrepo içinde yapılacaksa denetleyici gümrük müdürlüğünce, antrepo dışında yapılacaksa gümrük müdürlüğünün görüşü üzerine Bölge Müdürlüğünce sonuçlandırılır.
-D11-066 [T2] öncül ~ D6 (kapsama 0.79, jaccard 0.61)
-   YENİ: I. Aynı tarife pozisyonunun alt açılımında bulunan ve aynı kanuni veya tercihli vergi oranına tabi olan eşya bir kalem sayılır.
-   ESKİ: III. Başvurusu, aynı tarife pozisyonu alt açılımında bulunan ve aynı yasal ya da tercihli vergi oranına tabi olan bir kalem eşya için yapılır.
-D12-024 [T4] doğru şık ~ 2023_ (kapsama 0.90, jaccard 0.82)
-   YENİ: Bir yıldan beş yıla kadar hapis ve on bin güne kadar adlî para cezası
-   ESKİ: D) Bir yıldan üç yıla kadar hapis ve beş bin güne kadar adlî para cezası
+   ESKİ: E) Elleçleme antrepo dışında yapılacaksa denetleyici gümrük müdürlüğünce, antrepo içinde yapılacaksa gümrük müdürlüğünün görüşü üzerine Bölge Müdürlüğünce sonuçlandırılır.
 D12-024 [T4] doğru şık ~ 2023_ (kapsama 0.90, jaccard 0.82)
    YENİ: Bir yıldan beş yıla kadar hapis ve on bin güne kadar adlî para cezası
    ESKİ: A) Bir yıldan üç yıla kadar hapis ve beş bin güne kadar adlî para cezası
+D12-024 [T4] doğru şık ~ 2023_ (kapsama 0.90, jaccard 0.82)
+   YENİ: Bir yıldan beş yıla kadar hapis ve on bin güne kadar adlî para cezası
+   ESKİ: D) Bir yıldan üç yıla kadar hapis ve beş bin güne kadar adlî para cezası
 D12-024 [T4] doğru şık ~ 2022_ (kapsama 0.90, jaccard 0.45)
    YENİ: Bir yıldan beş yıla kadar hapis ve on bin güne kadar adlî para cezası
    ESKİ: A) Eşyayı, gümrük işlemlerine tabi tutmaksızın ülkeye sokan kişi, bir yıldan üç yıla kadar hapis ve on bin güne kadar adlî para cezası ile cezalandırılır.
 D13-073 [T4] doğru şık ~ 2022_ (kapsama 0.95, jaccard 0.56)
    YENİ: Bu eşyayı hile ile yurt dışına çıkarmış gibi işlem yapan kişi, bir yıldan üç yıla kadar hapis ve beş bin güne kadar adlî para cezası ile cezalandırılır.
    ESKİ: D) Belli bir amaç için kullanılmak veya işlenmek üzere ülkeye geçici ithalat ve dahilde işleme rejimi çerçevesinde getirilen eşyayı, hile ile yurt dışına çıkarmış gibi işlem yapan kişi, bir yıldan beş yıla kadar hapis ve beş bin güne kadar adlî para cezası ile
-D14-060 [T2] öncül ~ 2024_ (kapsama 0.88, jaccard 0.83)
-   YENİ: III. Gümrük idareleri, transit rejimine tabi eşyanın Türkiye Gümrük Bölgesi içinde yabancı bir ülkeden yabancı bir ülkeye veya Türkiye'den yabancı bir ülkeye taşınmasına izin verir.
-   ESKİ: I. Gümrük idareleri, transit rejimine tabi tutulan eşyanın Türkiye Gümrük Bölgesi içinde; Türkiye’den yabancı bir ülkeye, taşınmasına izin verir.
-D14-093 [T2] öncül ~ 2025B (kapsama 0.94, jaccard 0.88)
-   YENİ: IV. Gümrük işlemleri durdurulan veya alıkonulan eşya, yetkili mahkemece alınan karar doğrultusunda imha veya asli nitelikleri değiştirilerek tasfiye edilir.
-   ESKİ: C) Gümrük idaresince gümrük işlemleri durdurulan veya alıkonulan eşya, yetkili mahkemece alınan karar doğrultusunda imha veya asli nitelikleri değiştirilerek tasfiye edilir
 D15-057 [T1+T2] öncül ~ 2025B (kapsama 0.75, jaccard 0.55)
    YENİ: I. Başvurunun tarife bilgisi verilmesi için gerekli bilgi ve belgeleri içermediği kanaatine varan başmüdürlük, başvuru sahibinden ek bilgi ve belge isteyebilir.
    ESKİ: D) Yetkilendirilmiş bölge müdürlüğü, başvurunun BTB verilmesi için gerekli bilgi ve belgeleri içermediği kanaatine vardığı takdirde başvuru sahibinden ek bilgi ve belge isteyebilir.
-D15-097 [T7] doğru şık ~ D8 (kapsama 1.00, jaccard 1.00)
-   YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
-   ESKİ: D) Ticaret Bakanlığı (Gümrükler Genel Müdürlüğü)
 D15-097 [T7] doğru şık ~ D1 (kapsama 1.00, jaccard 1.00)
    YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
    ESKİ: A) Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
 D15-097 [T7] doğru şık ~ D1 (kapsama 1.00, jaccard 1.00)
    YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
    ESKİ: C) Ticaret Bakanlığı (Gümrükler Genel Müdürlüğü)
+D15-097 [T7] doğru şık ~ D8 (kapsama 1.00, jaccard 1.00)
+   YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
+   ESKİ: D) Ticaret Bakanlığı (Gümrükler Genel Müdürlüğü)
 D15-097 [T7] doğru şık ~ D6 (kapsama 1.00, jaccard 1.00)
    YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
    ESKİ: C) Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
 D15-097 [T7] doğru şık ~ D10 (kapsama 1.00, jaccard 1.00)
    YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
-   ESKİ: C) Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
+   ESKİ: E) Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
 D15-097 [T7] doğru şık ~ D10 (kapsama 1.00, jaccard 1.00)
    YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
-   ESKİ: E) Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
-D15-097 [T7] doğru şık ~ D10 (kapsama 0.80, jaccard 0.50)
-   YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
-   ESKİ: E) Ticaret Bakanlığı Risk Yönetimi ve Kontrol Genel Müdürlüğü
+   ESKİ: C) Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
 D15-097 [T7] doğru şık ~ D8 (kapsama 0.80, jaccard 0.67)
    YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
    ESKİ: A) Ticaret Bakanlığı (İhracat Genel Müdürlüğü)
+D15-097 [T7] doğru şık ~ D10 (kapsama 0.80, jaccard 0.50)
+   YENİ: Ticaret Bakanlığı Gümrükler Genel Müdürlüğü
+   ESKİ: E) Ticaret Bakanlığı Risk Yönetimi ve Kontrol Genel Müdürlüğü

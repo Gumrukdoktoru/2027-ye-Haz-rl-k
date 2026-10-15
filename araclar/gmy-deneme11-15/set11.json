@@ -1177,14 +1177,14 @@
 "d": "II ve III",
 "c": [
 "Yalnız II",
+"Yalnız III",
 "I ve II",
-"I ve III",
 "I, II ve III"
 ],
 "opts": [
 "Yalnız II",
+"Yalnız III",
 "I ve II",
-"I ve III",
 "II ve III",
 "I, II ve III"
 ],
@@ -2119,14 +2119,14 @@
 "c": [
 "Yalnız I",
 "Yalnız IV",
-"II ve IV",
+"II ve III",
 "I, II ve III"
 ],
 "opts": [
 "Yalnız I",
 "Yalnız IV",
 "I ve III",
-"II ve IV",
+"II ve III",
 "I, II ve III"
 ],
 "tuzak": false,
@@ -2362,13 +2362,13 @@
 "konu": "Gümrük Vergileri",
 "tip": "T2",
 "z": "Z",
-"madde": "4458 sayılı Gümrük Kanunu m.64/3, 67/2; Gümrük Yönetmeliği m.151/4",
-"cek": "Aynı alt açılım ve oranlı eşya bir kalemdir; kalemler arası mahsup yok; antrepodan kayıtla girişte talep hâlinde tescil tarihindeki unsurlar esas; bozulmada indirim yok.",
+"madde": "4458 sayılı Gümrük Kanunu m.64/3, 64/3-a, 67/2; Gümrük Yönetmeliği m.151/4",
+"cek": "Tescil sonrası ilk madde hâline gelen eşya ilk madde olarak beyan edilebilir; kalemler arası mahsup yok; antrepodan girişte talep hâlinde tescil tarihi esas.",
 "kok": [
 "4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre, ithalatta gümrük vergilerinin hesaplanmasına ilişkin aşağıdaki ifadeler veriliyor:",
-"I. Aynı tarife pozisyonunun alt açılımında bulunan ve aynı kanuni veya tercihli vergi oranına tabi olan eşya bir kalem sayılır.",
+"I. Tescilden sonra ilk madde olarak kullanılması mümkün hâle gelen eşyanın ilk madde olarak beyan edilmesine izin verilir.",
 "II. Bir kalemin eksik çıkan miktarı, aynı beyannamedeki diğer kalemin fazla çıkan miktarına mahsup edilerek vergi farkı hesaplanır.",
-"III. Antrepodan kayıt yoluyla serbest dolaşıma girişte yükümlü talep ederse vergiler, serbest dolaşıma giriş beyannamesinin tescil tarihinde eşyanın bulunduğu hal ve nitelik ile diğer vergilendirme unsurlarına göre hesaplanır.",
+"III. Antrepodan kayıt yoluyla serbest dolaşıma girişte yükümlü talep ederse vergiler, giriş beyannamesinin tescil tarihindeki hal, nitelik ve vergilendirme unsurlarına göre hesaplanır.",
 "IV. Beyannamenin tescilinden sonra eşyanın niteliklerinde meydana gelen bozulmalar oranında ithalat vergilerinden indirim yapılır.",
 "Yukarıdaki ifadelerden hangileri doğrudur?"
 ],
@@ -2387,14 +2387,14 @@
 "II, III ve IV"
 ],
 "tuzak": false,
-"g": "Kanuna göre aynı tarife alt açılımında bulunan ve aynı kanuni veya tercihli vergi oranına tabi eşya bir kalem sayılır (I doğru); antrepodan kayıt yoluyla serbest dolaşıma teslimde vergiler kural olarak antrepo rejimine tabi tutulma tarihindeki unsurlara göre hesaplanmakla birlikte, yükümlü talep ederse serbest dolaşıma giriş beyannamesinin tescil tarihindeki hal, nitelik ve diğer vergilendirme unsurlarına göre işlem yapılır (III doğru). Bir kalemin eksik veya fazlası diğer kalemin fazla veya eksiğine mahsup edilemez (II yanlış); tescilden sonraki bozulma veya değişiklikler nedeniyle ithalat vergilerinden indirim yapılmaz (IV yanlış). (MD GK 64/3, 67/2; GY 151/4)",
-"kanit": "17-BEYAN.txt | Bir kalemin eksik veya fazlası, diğer kalemin fazla veya eksiğine mahsup edilemez || 17-BEYAN.txt | Türk Gümrük Tarife Cetvelinde aynı tarife pozisyonunun alt açılımında bulunan ve aynı kanuni veya tercihli vergi oranına tabi olan eşya bir kalem sayılır || 17-BEYAN.txt | Yükümlünün serbest dolaşıma giriş beyannamesinin tescil tarihinde eşyanın bulunduğu hal ve niteliği ile diğer vergilendirme unsurlarına göre işlem yapılması yönünde talepte bulunması durumunda bu talebe göre işlem yapılır || 17-BEYAN.txt | eşyanın niteliklerinde meydana gelen değişiklikler veya bozulmalar nedeniyle ithalat vergilerinden indirim yapılmaz",
+"g": "Kanuna göre tescilden sonraki değişiklik veya bozulmalar nedeniyle indirim yapılmaması kuralının istisnası olarak, özellikle ilk madde olarak kullanılması mümkün hâle gelen eşyanın ilk madde olarak beyan edilmesine gümrük idarelerince izin verilir (I doğru); antrepodan kayıt yoluyla serbest dolaşıma teslimde vergiler kural olarak antrepo rejimine tabi tutulma tarihindeki unsurlara göre hesaplanmakla birlikte, yükümlü talep ederse serbest dolaşıma giriş beyannamesinin tescil tarihindeki hal, nitelik ve diğer vergilendirme unsurlarına göre işlem yapılır (III doğru). Bir kalemin eksik veya fazlası diğer kalemin fazla veya eksiğine mahsup edilemez (II yanlış); tescilden sonraki bozulma veya değişiklikler nedeniyle ithalat vergilerinden indirim yapılmaz (IV yanlış). (MD GK 64/3, 64/3-a, 67/2; GY 151/4)",
+"kanit": "17-BEYAN.txt | Bir kalemin eksik veya fazlası, diğer kalemin fazla veya eksiğine mahsup edilemez || 17-BEYAN.txt | Özellikle ilk madde olarak kullanılması mümkün hale gelen eşyanın ilk madde olarak beyan edilmesine gümrük idarelerince izin verilir || 17-BEYAN.txt | Yükümlünün serbest dolaşıma giriş beyannamesinin tescil tarihinde eşyanın bulunduğu hal ve niteliği ile diğer vergilendirme unsurlarına göre işlem yapılması yönünde talepte bulunması durumunda bu talebe göre işlem yapılır || 17-BEYAN.txt | eşyanın niteliklerinde meydana gelen değişiklikler veya bozulmalar nedeniyle ithalat vergilerinden indirim yapılmaz",
 "batch": "K05",
 "no": 66,
 "harf": "B",
 "blok": "GÜMRÜK",
 "ders": null,
-"g_harfli": "Kanuna göre aynı tarife alt açılımında bulunan ve aynı kanuni veya tercihli vergi oranına tabi eşya bir kalem sayılır (I doğru); antrepodan kayıt yoluyla serbest dolaşıma teslimde vergiler kural olarak antrepo rejimine tabi tutulma tarihindeki unsurlara göre hesaplanmakla birlikte, yükümlü talep ederse serbest dolaşıma giriş beyannamesinin tescil tarihindeki hal, nitelik ve diğer vergilendirme unsurlarına göre işlem yapılır (III doğru). Bir kalemin eksik veya fazlası diğer kalemin fazla veya eksiğine mahsup edilemez (II yanlış); tescilden sonraki bozulma veya değişiklikler nedeniyle ithalat vergilerinden indirim yapılmaz (IV yanlış). Bu nedenle doğru cevap B seçeneğidir. (MD GK 64/3, 67/2; GY 151/4)"
+"g_harfli": "Kanuna göre tescilden sonraki değişiklik veya bozulmalar nedeniyle indirim yapılmaması kuralının istisnası olarak, özellikle ilk madde olarak kullanılması mümkün hâle gelen eşyanın ilk madde olarak beyan edilmesine gümrük idarelerince izin verilir (I doğru); antrepodan kayıt yoluyla serbest dolaşıma teslimde vergiler kural olarak antrepo rejimine tabi tutulma tarihindeki unsurlara göre hesaplanmakla birlikte, yükümlü talep ederse serbest dolaşıma giriş beyannamesinin tescil tarihindeki hal, nitelik ve diğer vergilendirme unsurlarına göre işlem yapılır (III doğru). Bir kalemin eksik veya fazlası diğer kalemin fazla veya eksiğine mahsup edilemez (II yanlış); tescilden sonraki bozulma veya değişiklikler nedeniyle ithalat vergilerinden indirim yapılmaz (IV yanlış). Bu nedenle doğru cevap B seçeneğidir. (MD GK 64/3, 64/3-a, 67/2; GY 151/4)"
 },
 {
 "id": "D11-067",
@@ -2666,13 +2666,13 @@
 ],
 "d": "I ve II",
 "c": [
-"Yalnız I",
+"Yalnız II",
 "I ve IV",
 "I, II ve III",
 "I, III ve IV"
 ],
 "opts": [
-"Yalnız I",
+"Yalnız II",
 "I ve II",
 "I ve IV",
 "I, II ve III",
