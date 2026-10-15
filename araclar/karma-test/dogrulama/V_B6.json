@@ -1,0 +1,117 @@
+{
+ "chunk": "V_B6",
+ "toplam": 22,
+ "ok": [
+  "B6-01",
+  "B6-02",
+  "B6-03",
+  "B6-05",
+  "B6-06",
+  "B6-07",
+  "B6-09",
+  "B6-10",
+  "B6-11",
+  "B6-12",
+  "B6-13",
+  "B6-14",
+  "B6-15",
+  "B6-16",
+  "B6-17",
+  "B6-18",
+  "B6-20",
+  "B6-21",
+  "B6-22"
+ ],
+ "duzelt": [
+  {
+   "key": "B6-04",
+   "gerekce": "'Gümrük idarelerince işletilmeyen antrepolarda tüm eşyanın kayıtlarını işletici tutar' çeldiricisi, B tipi antrepoda stok kaydı tutulmadığına ilişkin Yönetmelik hükmü nedeniyle tartışmaya açıktı; yerine Kanundaki sayım noksanı hükmünden (vergiler duruma göre işletici veya kullanıcıdan) tartışmasız doğru bir ifade konuldu, gerekçe/MD/kanıt güncellendi.",
+   "soru": {
+    "test": 1,
+    "konu": "Antrepo",
+    "sinif": "ÇOK",
+    "tur": "cikmis_alani",
+    "cikmis": "2021/23, 2021/54",
+    "alt_tip": "O2",
+    "kalip": "YANLIŞ",
+    "z": "O",
+    "madde": "GK 96, 97/2, 105/2, 106/2",
+    "cek": "Gümrüklenmiş kıymetle sigortalı eşyada noksanın vergisi sigorta ettirenden veya lehine sigorta ettirilenden alınır; işleticiden alınacağı ifadesi yanlış.",
+    "kok": [
+     "4458 sayılı Gümrük Kanununa göre antrepo işleticisi ve kullanıcısının sorumluluklarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+    ],
+    "d": "Eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri antrepo işleticisinden alınır.",
+    "c": [
+     "Antrepo işleticisi, izinde belirtilen özel şartlara uymaktan sorumludur.",
+     "Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur.",
+     "Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, duruma göre işletici veya kullanıcıdan tahsil edilir.",
+     "Eşyanın niteliğinden kaynaklanan kayıplar ve fireler için gümrük vergileri aranmaz."
+    ],
+    "sabit": null,
+    "g": "Kanuna göre antrepodaki eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmişse noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır; vergilerin işleticiden alınacağı ifadesi yanlıştır. İşleticinin izinde belirtilen özel şartlara uyma sorumluluğu, kullanıcının rejime ilişkin yükümlülüklerden her halükarda sorumlu olması, sayımda noksan çıkan eşyanın vergilerinin duruma göre işletici veya kullanıcıdan tahsil edilmesi ve eşyanın niteliğinden kaynaklanan kayıp ve firelerde vergi aranmaması Kanunda yer alan hükümlerdir. (MD GK 96, 97/2, 105/2, 106/2)",
+    "kanit": "28-antrepo rejimi.txt | Eşya, gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır. ... c) İzinde belirtilen özel şartlara uymaktan, ... Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur. ... Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, duruma göre işletici veya kullanıcıdan tahsil edilir. ... Eşyanın niteliğinden kaynaklanan kayıplar ve fireler ile",
+    "key": "B6-04"
+   }
+  },
+  {
+   "key": "B6-08",
+   "gerekce": "Doğru şıktaki '(asıl sorumlu)' eki, kökteki 'mali olarak sorumlu olan kişi' ifadesini tekrarlayıp tek uzun şık olarak cevabı ele veriyordu; şık 'Rejim hak sahibi' olarak sadeleştirildi (gerekçede tam terim korunuyor).",
+   "soru": {
+    "test": 2,
+    "konu": "Transit",
+    "sinif": "ÇOK",
+    "tur": "cikmis_alani",
+    "cikmis": "2025/74, 2021/28",
+    "alt_tip": "K1",
+    "kalip": "KAVRAM",
+    "z": "K",
+    "madde": "GY 212/2-d, f; GK 86/2",
+    "cek": "Transit beyanında bulunan veya hesabına beyanda bulunulan ve gümrüğe karşı mali sorumlu kişi rejim hak sahibidir (asıl sorumlu).",
+    "kok": [
+     "Gümrük Yönetmeliğine göre transit rejiminde; transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişiyi ifade eden kavram aşağıdakilerden hangisidir?"
+    ],
+    "d": "Rejim hak sahibi",
+    "c": [
+     "Kefil",
+     "Taşıyıcı",
+     "Alıcı",
+     "Gönderici"
+    ],
+    "sabit": null,
+    "g": "Gümrük Yönetmeliğinin transit rejimine ilişkin tanımlarına göre rejim hak sahibi (asıl sorumlu); transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişidir. Kefil, teminat tutarına kadar doğabilecek gümrük vergileri ve diğer yükleri rejim hak sahibi ile birlikte müştereken ve müteselsilen ödemeyi yazılı olarak üstlenen üçüncü kişidir. Eşyanın transit rejimine göre taşındığını bilerek kabul eden taşıyıcı veya alıcının eşyayı varış idaresine sunma yükümlülüğü ise asıl sorumlunun yükümlülükleri saklı kalmak üzere öngörülmüştür. (MD GY 212/2-d, f; GK 86/2)",
+    "kanit": "20-TRANSİT REJİMİ.txt | f) Rejim hak sahibi (asıl sorumlu): Transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişiyi, ... d) Kefil: Teminat tutarına kadar doğabilecek gümrük vergileri ve diğer yükleri rejim hak sahibi ile birlikte müştereken ve müteselsilen ödemeyi yazılı olarak üstlenen gerçek veya tüzel üçüncü kişiyi, ... Asıl sorumlunun birinci fıkrada belirtilen yükümlülükleri saklı kalmak üzere, transit rejimine göre taşındığını bilerek eşyayı kabul eden taşıyıcı veya alıcı da",
+    "key": "B6-08"
+   }
+  },
+  {
+   "key": "B6-19",
+   "gerekce": "İçerik doğru ve tek cevaplı; ancak posta idaresinin koli yerlerinin genel antrepo sayılması (GY 329/3) ve gümrük kapılarındaki mağaza/depoların özel antrepo statüsü (GK 95/1) çeldiricilerinin dayanağı kanıtta yoktu; '28-antrepo rejimi.txt' bloğu ' || ' ile eklendi.",
+   "soru": {
+    "test": 3,
+    "konu": "Geçici Depolama/GOBİK",
+    "sinif": "ÇOK",
+    "tur": "cikmis_alani",
+    "cikmis": "2023/50, 2025/80, 2025/94",
+    "alt_tip": "D3",
+    "kalip": "KAPSAM",
+    "z": "O",
+    "madde": "GY 79/2; GY 329/3; GY 539/2; GY 551/1; GK 95/1",
+    "cek": "Limanlarda geçici depolama yerlerinin mütemmim cüz'ü olan ağır ve havaleli eşya açık alanları geçici depolama yeri addolunur.",
+    "kok": [
+     "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi geçici depolama yeri addolunan yerlerdendir?"
+    ],
+    "d": "Limanlardaki geçici depolama yerlerinin mütemmim cüz'ü niteliğinde olan, ağır ve havaleli eşyaya mahsus açık alanlar",
+    "c": [
+     "Posta idaresinin sorumluluğu ve gümrüğün denetlemesi altında yabancı menşeli kolilerin konulması için ayrılmış kapalı yerler",
+     "Serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergi yerleri",
+     "E tipi antrepoda sadece antrepo sahibi adına gelen yatırım mallarının konulduğu montaj mahalleri",
+     "Gümrük kapılarında eşya satışı yapmak üzere açılan mağazaların depoları"
+    ],
+    "sabit": null,
+    "g": "Gümrük Yönetmeliğine göre limanlar gibi gümrük işlemlerinin yapıldığı yerlerde bulunan geçici depolama yerlerinin mütemmim cüz'ü niteliğindeki, ağır ve havaleli eşyanın konulmasına mahsus açık alanlar geçici depolama yeri addolunur; yolcu eşyası ambarları ile kişisel kullanıma mahsus kara taşıtlarının konulduğu yerler de bu kapsamdadır. Buna karşılık posta idaresinin yabancı menşeli koliler için ayrılmış kapalı yerleri genel antrepo, serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler özel antrepo sayılır; E tipi antrepoda montaj mahalleri antrepo addedilen yerlerdir; gümrük kapılarındaki satış mağazaları ve depoları ise özel antrepo statüsündedir. (MD GY 79/2; GY 329/3; GY 539/2; GY 551/1; GK 95/1)",
+    "kanit": "29-iŞLETİCİLER.txt | Ağır ve havaleli eşyanın konulmasına mahsus olmak üzere, limanlar gibi gümrük işlemlerinin yapıldığı yerlerde bulunan geçici depolama yerlerinin mütemmim cüz'ü niteliğindeki açık alanlar; ... kişisel kullanıma mahsus kara taşıtlarının konulduğu yerler de geçici depolama yeri addolunur. ... Serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler, özel antrepo sayılır ... Sadece antrepo sahibi adına gelen eşyadan; ... antrepo rejimi hükümlerine tabi olarak, antrepo addedilen yer veya montaj mahallerine ya da eşya sahibinin deposuna konulabilir. || 28-antrepo rejimi.txt | Posta idaresinin sorumluluğu ve gümrüğün denetlemesi altında yabancı menşeli kolilerin konulması için ayrılmış kapalı yerler de genel antrepo sayılır. ... Gümrük antrepoları ile gümrük kapılarında eşya satışı yapmak üzere özel antrepo statüsünde mağaza ve bunların depolarının açılması",
+    "key": "B6-19"
+   }
+  }
+ ]
+}

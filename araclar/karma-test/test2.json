@@ -954,7 +954,7 @@
   "kok": [
    "Gümrük Yönetmeliğine göre transit rejiminde; transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişiyi ifade eden kavram aşağıdakilerden hangisidir?"
   ],
-  "d": "Rejim hak sahibi (asıl sorumlu)",
+  "d": "Rejim hak sahibi",
   "c": [
    "Kefil",
    "Taşıyıcı",
@@ -964,6 +964,7 @@
   "sabit": null,
   "g": "Gümrük Yönetmeliğinin transit rejimine ilişkin tanımlarına göre rejim hak sahibi (asıl sorumlu); transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişidir. Kefil, teminat tutarına kadar doğabilecek gümrük vergileri ve diğer yükleri rejim hak sahibi ile birlikte müştereken ve müteselsilen ödemeyi yazılı olarak üstlenen üçüncü kişidir. Eşyanın transit rejimine göre taşındığını bilerek kabul eden taşıyıcı veya alıcının eşyayı varış idaresine sunma yükümlülüğü ise asıl sorumlunun yükümlülükleri saklı kalmak üzere öngörülmüştür. (MD GY 212/2-d, f; GK 86/2)",
   "kanit": "20-TRANSİT REJİMİ.txt | f) Rejim hak sahibi (asıl sorumlu): Transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişiyi, ... d) Kefil: Teminat tutarına kadar doğabilecek gümrük vergileri ve diğer yükleri rejim hak sahibi ile birlikte müştereken ve müteselsilen ödemeyi yazılı olarak üstlenen gerçek veya tüzel üçüncü kişiyi, ... Asıl sorumlunun birinci fıkrada belirtilen yükümlülükleri saklı kalmak üzere, transit rejimine göre taşındığını bilerek eşyayı kabul eden taşıyıcı veya alıcı da",
+  "dogrulama": "DUZELT uygulandi: Doğru şıktaki '(asıl sorumlu)' eki, kökteki 'mali olarak sorumlu olan kişi' ifadesini tekrarlayıp tek uzun şık olarak cevabı ele veriyordu; şık 'Rejim hak sahibi' olarak sadeleştirildi (gerekçede tam terim korunuyor).",
   "grup": "B6",
   "no": 24,
   "harf": "D",
@@ -971,7 +972,7 @@
    "Kefil",
    "Taşıyıcı",
    "Alıcı",
-   "Rejim hak sahibi (asıl sorumlu)",
+   "Rejim hak sahibi",
    "Gönderici"
   ],
   "gerekce": "Gümrük Yönetmeliğinin transit rejimine ilişkin tanımlarına göre rejim hak sahibi (asıl sorumlu); transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişidir. Kefil, teminat tutarına kadar doğabilecek gümrük vergileri ve diğer yükleri rejim hak sahibi ile birlikte müştereken ve müteselsilen ödemeyi yazılı olarak üstlenen üçüncü kişidir. Eşyanın transit rejimine göre taşındığını bilerek kabul eden taşıyıcı veya alıcının eşyayı varış idaresine sunma yükümlülüğü ise asıl sorumlunun yükümlülükleri saklı kalmak üzere öngörülmüştür. Bu nedenle doğru cevap D seçeneğidir. (MD GY 212/2-d, f; GK 86/2)",

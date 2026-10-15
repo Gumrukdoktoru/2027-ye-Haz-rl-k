@@ -1171,7 +1171,7 @@
   "alt_tip": "O2",
   "kalip": "YANLIŞ",
   "z": "O",
-  "madde": "GK 96, 97/2, 99, 106/2",
+  "madde": "GK 96, 97/2, 105/2, 106/2",
   "cek": "Gümrüklenmiş kıymetle sigortalı eşyada noksanın vergisi sigorta ettirenden veya lehine sigorta ettirilenden alınır; işleticiden alınacağı ifadesi yanlış.",
   "kok": [
    "4458 sayılı Gümrük Kanununa göre antrepo işleticisi ve kullanıcısının sorumluluklarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
@@ -1180,23 +1180,24 @@
   "c": [
    "Antrepo işleticisi, izinde belirtilen özel şartlara uymaktan sorumludur.",
    "Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur.",
-   "Gümrük idareleri tarafından işletilmeyen antrepolardaki tüm eşyanın antrepo kayıtları işletici tarafından tutulur.",
+   "Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, duruma göre işletici veya kullanıcıdan tahsil edilir.",
    "Eşyanın niteliğinden kaynaklanan kayıplar ve fireler için gümrük vergileri aranmaz."
   ],
   "sabit": null,
-  "g": "Kanuna göre antrepodaki eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmişse noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır; vergilerin işleticiden alınacağı ifadesi yanlıştır. İşleticinin izinde belirtilen özel şartlara uyma sorumluluğu, kullanıcının rejime ilişkin yükümlülüklerden her halükarda sorumlu olması, gümrük idarelerince işletilmeyen antrepolarda kayıtların işletici tarafından tutulması ve eşyanın niteliğinden kaynaklanan kayıp ve firelerde vergi aranmaması Kanunda yer alan hükümlerdir. (MD GK 96, 97/2, 99, 106/2)",
-  "kanit": "28-antrepo rejimi.txt | Eşya, gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır. ... c) İzinde belirtilen özel şartlara uymaktan, ... Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur. ... Gümrük idareleri tarafından işletilmeyen antrepolardaki tüm eşyanın antrepo kayıtları işletici tarafından tutulur. ... Eşyanın niteliğinden kaynaklanan kayıplar ve fireler ile",
+  "g": "Kanuna göre antrepodaki eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmişse noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır; vergilerin işleticiden alınacağı ifadesi yanlıştır. İşleticinin izinde belirtilen özel şartlara uyma sorumluluğu, kullanıcının rejime ilişkin yükümlülüklerden her halükarda sorumlu olması, sayımda noksan çıkan eşyanın vergilerinin duruma göre işletici veya kullanıcıdan tahsil edilmesi ve eşyanın niteliğinden kaynaklanan kayıp ve firelerde vergi aranmaması Kanunda yer alan hükümlerdir. (MD GK 96, 97/2, 105/2, 106/2)",
+  "kanit": "28-antrepo rejimi.txt | Eşya, gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır. ... c) İzinde belirtilen özel şartlara uymaktan, ... Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur. ... Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, duruma göre işletici veya kullanıcıdan tahsil edilir. ... Eşyanın niteliğinden kaynaklanan kayıplar ve fireler ile",
+  "dogrulama": "DUZELT uygulandi: 'Gümrük idarelerince işletilmeyen antrepolarda tüm eşyanın kayıtlarını işletici tutar' çeldiricisi, B tipi antrepoda stok kaydı tutulmadığına ilişkin Yönetmelik hükmü nedeniyle tartışmaya açıktı; yerine Kanundaki sayım noksanı hükmünden (vergiler duruma göre işletici veya kullanıcıdan) tartışmasız d",
   "grup": "B6",
   "no": 30,
   "harf": "D",
   "opts": [
    "Antrepo işleticisi, izinde belirtilen özel şartlara uymaktan sorumludur.",
    "Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur.",
-   "Gümrük idareleri tarafından işletilmeyen antrepolardaki tüm eşyanın antrepo kayıtları işletici tarafından tutulur.",
+   "Antrepolarda yapılan sayım sonucunda noksan çıkan eşyanın gümrük vergileri, duruma göre işletici veya kullanıcıdan tahsil edilir.",
    "Eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri antrepo işleticisinden alınır.",
    "Eşyanın niteliğinden kaynaklanan kayıplar ve fireler için gümrük vergileri aranmaz."
   ],
-  "gerekce": "Kanuna göre antrepodaki eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmişse noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır; vergilerin işleticiden alınacağı ifadesi yanlıştır. İşleticinin izinde belirtilen özel şartlara uyma sorumluluğu, kullanıcının rejime ilişkin yükümlülüklerden her halükarda sorumlu olması, gümrük idarelerince işletilmeyen antrepolarda kayıtların işletici tarafından tutulması ve eşyanın niteliğinden kaynaklanan kayıp ve firelerde vergi aranmaması Kanunda yer alan hükümlerdir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 96, 97/2, 99, 106/2)",
+  "gerekce": "Kanuna göre antrepodaki eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmişse noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır; vergilerin işleticiden alınacağı ifadesi yanlıştır. İşleticinin izinde belirtilen özel şartlara uyma sorumluluğu, kullanıcının rejime ilişkin yükümlülüklerden her halükarda sorumlu olması, sayımda noksan çıkan eşyanın vergilerinin duruma göre işletici veya kullanıcıdan tahsil edilmesi ve eşyanın niteliğinden kaynaklanan kayıp ve firelerde vergi aranmaması Kanunda yer alan hükümlerdir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 96, 97/2, 105/2, 106/2)",
   "id": "KT1-30"
  },
  {

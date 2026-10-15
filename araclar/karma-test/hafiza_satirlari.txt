@@ -27,7 +27,7 @@ KT1-26 | Transit | GK 85/2-6 | Teminattan vazgeçme izni, Müsteşarlıkça yük
 KT1-27 | Transit | GY 218/1, 218/3 | Form 302 kapsamındaki transit işlemlerinde doğabilecek ihtilaflar Bakanlıkça (Gümrükler Genel Müdürlüğü) sonuçlandırılır. | YETKİ | O | A | KT1
 KT1-28 | Transit | GY 238/1, 238/3, 238/4; GK 84/4 | Boru hattıyla transitte rejim, eşyanın gönderildiği kişinin işletmesine ulaşıp kayıtlarına geçmesiyle son bulur. | SONUÇ | Z | D | KT1
 KT1-29 | TIR | TIR Tebliği (Seri No: 1) md. 3/1-u, 16/1, 16/4 | Taşıt onay belgesinin süresi yurt dışında biterse düzenleyen idarece bir defaya mahsus otuz gün ek süre verilir. | SÜRE | O | A | KT1
-KT1-30 | Antrepo | GK 96, 97/2, 99, 106/2 | Gümrüklenmiş kıymetle sigortalı eşyada noksanın vergisi sigorta ettirenden veya lehine sigorta ettirilenden alınır; işleticiden alınacağı ifadesi yanlış. | YANLIŞ | O | D | KT1
+KT1-30 | Antrepo | GK 96, 97/2, 105/2, 106/2 | Gümrüklenmiş kıymetle sigortalı eşyada noksanın vergisi sigorta ettirenden veya lehine sigorta ettirilenden alınır; işleticiden alınacağı ifadesi yanlış. | YANLIŞ | O | D | KT1
 KT1-31 | Dahilde İşleme | DİR Tebliği 17/11, 17/12 | Belge/izinde işletme malzemesi değeri ihracat taahhüdünün %2'sini geçemez; değişmemiş eşya ithalatı azami %1 oranında olabilir. | BOŞLUK | Z | B | KT1
 KT1-32 | Dahilde İşleme | DİR Tebliği 6/1, 6/3, 6/4, 6/5 | Eşdeğer eşya asgari 8'li bazda aynı; önceden ihracata tekabül eden ithalat belge süresi sonuna kadar; ithal eşya serbestçe kullanılabilir. | ÖNERMELİ | ÇZ | C | KT1
 KT1-33 | Dahilde İşleme | DİR Tebliği 24/1, 25/1 | Mücbir sebep ve fevkalade haller listesinde önceden ihracata tekabül eden ithalatın tamamlanamaması yoktur; bu, haklı sebep halidir. | KAPSAM_DIŞI | O | B | KT1
