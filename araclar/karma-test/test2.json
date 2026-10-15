@@ -1632,11 +1632,12 @@
    "Ambalajında bandrol bulunmayan tütün mamulleri",
    "Ambalajında bandrol bulunmayan alkollü içkiler",
    "Ambalajında bandrol bulunmayan makaron ve yaprak sigara kâğıdı",
-   "Elektronik sigara ve elektronik nargile dahil her türlü mamul"
+   "Tütün mamulünü taklit eder tarzda kullanılan elektronik sigara ve elektronik nargile"
   ],
   "sabit": null,
   "g": "Gerekçe: Kanun uyarınca el konulan ve ambalajlarında bandrol, etiket, hologram, pul, damga veya benzeri işaret bulunmayan tütün mamulleri, etil alkol, metanol, alkollü içkiler, makaron ve yaprak sigara kâğıdı ile elektronik sigara ve elektronik nargile dahil her türlü mamul, el koyan idarelerce numune alınarak veya ayırt edici bilgileri tespit edilerek tutanağa bağlanır ve imha edilir. Teknik düzenlemelere uygun kaçak akaryakıt ise imha edilmez; il özel idareleri, il özel idaresi bulunmayan yerde yatırım izleme ve koordinasyon başkanlıklarınca numune alınarak kamu kurum ve kuruluşları ile mahalli idarelere bedelsiz tahsis edilir veya satılarak tasfiye edilir. (MD 5607 11/5, 16/A-1)",
   "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | işaret bulunmayan tütün mamulleri, etil alkol, metanol, alkollü içkiler, makaron ve yaprak sigara kâğıdı ile ilaç ... elektronik sigara ve elektronik nargile dahil her türlü mamul ... el koyan idarelerce numune alınmak veya numune alınması mümkün olmaması halinde ayırt edici bilgilerin tespiti yapılmak suretiyle tutanağa bağlanarak imha edilir. ... Bu Kanun uyarınca el konulan kaçak akaryakıttan teknik düzenlemelere uygun olanlar, il özel idareleri ... numune alınmak suretiyle kamu kurum ve kuruluşları ile mahalli idarelerin kullanımına bedelsiz tahsis edilerek veya satışı yapılarak tasfiye edilir",
+  "dogrulama": "DUZELT uygulandi: Çeldirici 'elektronik sigara ve elektronik nargile dahil her türlü mamul' biçiminde kesilince kaynaktaki 'tütün mamulünü taklit eder tarzda kullanılan' sınırlaması düşmüş ve ifade lafzen her ürünü (akaryakıt dahil) kapsar hâle gelmişti. Kanundaki niteleme şıkka eklendi.",
   "grup": "B2",
   "no": 40,
   "harf": "B",
@@ -1645,7 +1646,7 @@
    "Teknik düzenlemelere uygun olan kaçak akaryakıt",
    "Ambalajında bandrol bulunmayan alkollü içkiler",
    "Ambalajında bandrol bulunmayan makaron ve yaprak sigara kâğıdı",
-   "Elektronik sigara ve elektronik nargile dahil her türlü mamul"
+   "Tütün mamulünü taklit eder tarzda kullanılan elektronik sigara ve elektronik nargile"
   ],
   "gerekce": "Gerekçe: Kanun uyarınca el konulan ve ambalajlarında bandrol, etiket, hologram, pul, damga veya benzeri işaret bulunmayan tütün mamulleri, etil alkol, metanol, alkollü içkiler, makaron ve yaprak sigara kâğıdı ile elektronik sigara ve elektronik nargile dahil her türlü mamul, el koyan idarelerce numune alınarak veya ayırt edici bilgileri tespit edilerek tutanağa bağlanır ve imha edilir. Teknik düzenlemelere uygun kaçak akaryakıt ise imha edilmez; il özel idareleri, il özel idaresi bulunmayan yerde yatırım izleme ve koordinasyon başkanlıklarınca numune alınarak kamu kurum ve kuruluşları ile mahalli idarelere bedelsiz tahsis edilir veya satılarak tasfiye edilir. Bu nedenle doğru cevap B seçeneğidir. (MD 5607 11/5, 16/A-1)",
   "id": "KT2-40"

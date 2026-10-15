@@ -1678,24 +1678,25 @@
   "kok": [
    "5607 sayılı Kaçakçılıkla Mücadele Kanununun etkin pişmanlığa ilişkin hükümlerine göre aşağıdaki ifadelerden hangisi doğrudur?"
   ],
-  "d": "Kaçakçılık suçuna iştirak eden kişi, resmî makamlar haber almadan önce fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi de faillerin yakalanmasını veya eşyanın ele geçirilmesini sağlarsa cezalandırılmaz.",
+  "d": "Kaçakçılık suçuna iştirak eden kişi, resmî makamlar haber almadan önce fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi de faillerin yakalanmasını sağlarsa cezalandırılmaz.",
   "c": [
    "Resmî makamlar haber aldıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza yarı oranında indirilir.",
    "Suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar paranın ödenmesi hâlinde cezanın indirileceği, soruşturma evresinde hâkim tarafından şüpheliye ihtar edilir.",
-   "Ödeme yoluyla etkin pişmanlık hükmü, suçun üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde uygulanmaz.",
+   "Gümrüklenmiş değerin iki katı kadar paranın Hazineye ödenmesiyle sağlanan ceza indirimi, suçun üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde uygulanmaz.",
    "Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması, suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil eder."
   ],
   "sabit": null,
   "g": "Gerekçe: Kaçakçılık suçlarından birine iştirak etmiş olan kişi, resmî makamlar tarafından haber alınmadan önce fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verir ve verilen bilgi faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlarsa cezalandırılmaz. Çeldiricilerde birer unsur bozulmuştur: haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım edenin cezası yarı değil üçte iki oranında indirilir; ödeme imkânı soruşturma evresinde hâkim değil Cumhuriyet savcısı tarafından şüpheliye ihtar edilir, hâkim ancak bu ihtar yapılmamışsa kovuşturma evresinde sanığa ihtar eder; ödeme yoluyla indirim üç veya daha fazla kişiyle işlenen suçlarda değil, mükerrirler hakkında ve suçun örgüt faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz; etkin pişmanlık nedeniyle cezaya hükmolunmaması suç konusu eşyanın müsaderesine engel teşkil etmez. (MD 5607 5/1, 5/2, 5/3, 13/2)",
   "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | resmî makamlar tarafından haber alınmadan önce, fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verirse, verilen bilginin, faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlaması halinde cezalandırılmaz. ... Haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza üçte iki oranında indirilir. ... Bu husus, soruşturma evresinde Cumhuriyet savcısı tarafından şüpheliye ihtar edilir. Soruşturma evresinde ihtar yapılmaması hâlinde kovuşturma evresinde hâkim tarafından sanığa ihtar yapılır. ... İkinci fıkra hükmü, mükerrirler hakkında veya suçun bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz. ... Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması veya kamu davasının düşmesine karar verilmesi, sadece suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil etmez.",
+  "dogrulama": "DUZELT uygulandi: Doğru şık (237 karakter) çeldiricilerden belirgin biçimde uzundu (en uzunu 165) ve uzunluğuyla cevabı ele veriyordu; doğru şık kaynağa sadık kalınarak kısaltıldı, en kısa çeldirici kaynaktaki ödeme şartıyla dengelendi. İçerik ve cevap değişmedi.",
   "grup": "B2",
   "no": 42,
   "harf": "B",
   "opts": [
    "Resmî makamlar haber aldıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza yarı oranında indirilir.",
-   "Kaçakçılık suçuna iştirak eden kişi, resmî makamlar haber almadan önce fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi de faillerin yakalanmasını veya eşyanın ele geçirilmesini sağlarsa cezalandırılmaz.",
+   "Kaçakçılık suçuna iştirak eden kişi, resmî makamlar haber almadan önce fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi de faillerin yakalanmasını sağlarsa cezalandırılmaz.",
    "Suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar paranın ödenmesi hâlinde cezanın indirileceği, soruşturma evresinde hâkim tarafından şüpheliye ihtar edilir.",
-   "Ödeme yoluyla etkin pişmanlık hükmü, suçun üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde uygulanmaz.",
+   "Gümrüklenmiş değerin iki katı kadar paranın Hazineye ödenmesiyle sağlanan ceza indirimi, suçun üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde uygulanmaz.",
    "Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması, suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil eder."
   ],
   "gerekce": "Gerekçe: Kaçakçılık suçlarından birine iştirak etmiş olan kişi, resmî makamlar tarafından haber alınmadan önce fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verir ve verilen bilgi faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlarsa cezalandırılmaz. Çeldiricilerde birer unsur bozulmuştur: haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım edenin cezası yarı değil üçte iki oranında indirilir; ödeme imkânı soruşturma evresinde hâkim değil Cumhuriyet savcısı tarafından şüpheliye ihtar edilir, hâkim ancak bu ihtar yapılmamışsa kovuşturma evresinde sanığa ihtar eder; ödeme yoluyla indirim üç veya daha fazla kişiyle işlenen suçlarda değil, mükerrirler hakkında ve suçun örgüt faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz; etkin pişmanlık nedeniyle cezaya hükmolunmaması suç konusu eşyanın müsaderesine engel teşkil etmez. Bu nedenle doğru cevap B seçeneğidir. (MD 5607 5/1, 5/2, 5/3, 13/2)",

@@ -1,0 +1,114 @@
+{
+ "chunk": "V_B2",
+ "toplam": 19,
+ "ok": [
+  "B2-01",
+  "B2-02",
+  "B2-03",
+  "B2-05",
+  "B2-06",
+  "B2-07",
+  "B2-08",
+  "B2-09",
+  "B2-11",
+  "B2-12",
+  "B2-13",
+  "B2-15",
+  "B2-16",
+  "B2-17",
+  "B2-18",
+  "B2-19"
+ ],
+ "duzelt": [
+  {
+   "key": "B2-04",
+   "gerekce": "Çeldirici 'kamu idarelerine vergi kaybına neden olan işlemlere ilişkin cezalar uygulanmaz' diye genellenmişti; muafiyet yalnız tarife/ölçü/kıymet farkı cezaları (ve ayrıca 238) için geçerli, yasak/izne tabi eşya cezalarında böyle bir istisna yok; bu genelleme ikinci bir 'yanlış' şık doğuruyordu. Çeldirici ve gerekçe kaynaktaki kapsamla sınırlandı.",
+   "soru": {
+    "test": 1,
+    "konu": "Cezalar",
+    "sinif": "ÇOK",
+    "tur": "cikmis_alani",
+    "cikmis": "2023/33, 2025/32",
+    "alt_tip": "O2",
+    "kalip": "YANLIŞ",
+    "z": "Z",
+    "madde": "GK 234/1-a, 234/2, 234/4, 234/5, 234/6",
+    "cek": "DİR, GKAİ ve tam muafiyetli geçici ithalatta tarife-kıymet farkında ceza vergi farkının üç katı değil yarısıdır.",
+    "kok": [
+     "4458 sayılı Gümrük Kanununun vergi kaybına neden olan işlemlere uygulanacak cezalara ilişkin hükümlerine göre aşağıdaki ifadelerden hangisi yanlıştır?"
+    ],
+    "d": "Dahilde işleme, gümrük kontrolü altında işleme ve tam muafiyet suretiyle geçici ithalat rejimlerine tabi eşyada tarife, ölçü veya kıymet farklılıklarının tespiti hâlinde vergi farkının üç katı tutarında idari para cezası verilir.",
+    "c": [
+     "Serbest dolaşıma giriş rejimine tabi eşyada tarife unsurlarında aykırılık görülmesi ve ithalat vergileri arasındaki farkın %5'i aşması hâlinde, ithalat vergilerinden ayrı olarak bu farkın üç katı para cezası alınır.",
+     "Genel yönetim kapsamındaki kamu idareleri için tarife, ölçü ve kıymet farklılıklarına ilişkin bu cezalar uygulanmaz; bu hâllerde usulsüzlük cezasına ilişkin genel hükme göre işlem yapılır.",
+     "Dahilde işleme rejimi altında elde edilen Türk menşeli eşyanın tercihli tarifeden yararlanması nedeniyle doğan yükümlülük kapsamındaki ithalat vergilerinin süresinde ödenmediği gümrük idaresince tespit edilirse, bu vergilerin dörtte biri tutarında para cezasına hükmedilir.",
+     "Tarife, ölçü ve kıymet farklılıkları nedeniyle verilen cezalar, usulsüzlük cezası için Kanunda belirtilen miktardan az olamaz."
+    ],
+    "sabit": null,
+    "g": "Gerekçe: Dahilde işleme rejimi, gümrük kontrolü altında işleme rejimi ve tam muafiyet suretiyle geçici ithalat rejimine tabi eşyada tarife, ölçü veya kıymet farklılıklarının tespiti hâlinde vergi farkının üç katı değil, yarısı tutarında idari para cezası verilir. Üç kat ceza, serbest dolaşıma giriş ve kısmi muafiyet suretiyle geçici ithalat rejimlerinde vergi farkının %5'i aşması hâline aittir; tuzak bu iki oranın yer değiştirmesidir. Diğer ifadeler doğrudur: genel yönetim kapsamındaki kamu idarelerine tarife, ölçü ve kıymet farklılıklarına ilişkin bu cezalar uygulanmaz, usulsüzlük cezasına ilişkin genel hükme göre işlem yapılır; dahilde işleme kapsamında Türk menşeli eşyanın tercihli tarifeden yararlanması nedeniyle doğan vergilerin süresinde ödenmediğinin idarece tespitinde bu vergilerin dörtte biri tutarında ceza verilir; tarife, ölçü ve kıymet farkı cezaları usulsüzlük cezası tutarından az olamaz. (MD GK 234/1-a, 234/2, 234/4, 234/5, 234/6)",
+    "kanit": "48-cezalar.txt | Dahilde işleme rejimi, gümrük kontrolü altında işleme rejimi ve tam muafiyet suretiyle geçici ithalat rejimi hükümlerine tabi eşyaya ilişkin olarak yapılan beyan ile muayene ve denetleme veya teslimden sonra kontrol sonucunda; birinci fıkrada belirtilen farklılıkların tespiti durumunda vergi farkının yarısı tutarında idari para cezası verilir. ... ayrı olarak bu farkın üç katı para cezası alınır. ... Genel yönetim kapsamındaki kamu idareleri için yukarıda belirtilen cezalara ilişkin hükümler uygulanmaz. Bu gibi hallerde, 241 inci maddenin birinci fıkra hükmüne göre işlem yapılır. ... yükümlüsü hakkında bu vergilerin dörtte biri tutarında para cezasına hükmedilir. ... Bir ila üçüncü fıkralara göre verilen cezalar 241 inci maddenin birinci fıkrasında belirtilen miktardan az olamaz.",
+    "key": "B2-04"
+   }
+  },
+  {
+   "key": "B2-10",
+   "gerekce": "Çeldirici 'elektronik sigara ve elektronik nargile dahil her türlü mamul' biçiminde kesilince kaynaktaki 'tütün mamulünü taklit eder tarzda kullanılan' sınırlaması düşmüş ve ifade lafzen her ürünü (akaryakıt dahil) kapsar hâle gelmişti. Kanundaki niteleme şıkka eklendi.",
+   "soru": {
+    "test": 2,
+    "konu": "Kaçakçılık",
+    "sinif": "ÇOK",
+    "tur": "sorulmamis",
+    "cikmis": "",
+    "alt_tip": "O1",
+    "kalip": "KAPSAM_DIŞI",
+    "z": "O",
+    "madde": "5607 11/5; 16/A-1",
+    "cek": "Bandrolsüz tütün mamulü, alkollü içki, makaron, e-sigara numune alınıp imha edilir; teknik düzenlemeye uygun kaçak akaryakıt tahsis veya satışla tasfiye edilir.",
+    "kok": [
+     "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre aşağıdakilerden hangisi, el koyan idarelerce numune alınmak veya ayırt edici bilgileri tespit edilmek suretiyle tutanağa bağlanarak imha edilecek el konulan eşya arasında sayılmamıştır?"
+    ],
+    "d": "Teknik düzenlemelere uygun olan kaçak akaryakıt",
+    "c": [
+     "Ambalajında bandrol bulunmayan tütün mamulleri",
+     "Ambalajında bandrol bulunmayan alkollü içkiler",
+     "Ambalajında bandrol bulunmayan makaron ve yaprak sigara kâğıdı",
+     "Tütün mamulünü taklit eder tarzda kullanılan elektronik sigara ve elektronik nargile"
+    ],
+    "sabit": null,
+    "g": "Gerekçe: Kanun uyarınca el konulan ve ambalajlarında bandrol, etiket, hologram, pul, damga veya benzeri işaret bulunmayan tütün mamulleri, etil alkol, metanol, alkollü içkiler, makaron ve yaprak sigara kâğıdı ile elektronik sigara ve elektronik nargile dahil her türlü mamul, el koyan idarelerce numune alınarak veya ayırt edici bilgileri tespit edilerek tutanağa bağlanır ve imha edilir. Teknik düzenlemelere uygun kaçak akaryakıt ise imha edilmez; il özel idareleri, il özel idaresi bulunmayan yerde yatırım izleme ve koordinasyon başkanlıklarınca numune alınarak kamu kurum ve kuruluşları ile mahalli idarelere bedelsiz tahsis edilir veya satılarak tasfiye edilir. (MD 5607 11/5, 16/A-1)",
+    "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | işaret bulunmayan tütün mamulleri, etil alkol, metanol, alkollü içkiler, makaron ve yaprak sigara kâğıdı ile ilaç ... elektronik sigara ve elektronik nargile dahil her türlü mamul ... el koyan idarelerce numune alınmak veya numune alınması mümkün olmaması halinde ayırt edici bilgilerin tespiti yapılmak suretiyle tutanağa bağlanarak imha edilir. ... Bu Kanun uyarınca el konulan kaçak akaryakıttan teknik düzenlemelere uygun olanlar, il özel idareleri ... numune alınmak suretiyle kamu kurum ve kuruluşları ile mahalli idarelerin kullanımına bedelsiz tahsis edilerek veya satışı yapılarak tasfiye edilir",
+    "key": "B2-10"
+   }
+  },
+  {
+   "key": "B2-14",
+   "gerekce": "Doğru şık (237 karakter) çeldiricilerden belirgin biçimde uzundu (en uzunu 165) ve uzunluğuyla cevabı ele veriyordu; doğru şık kaynağa sadık kalınarak kısaltıldı, en kısa çeldirici kaynaktaki ödeme şartıyla dengelendi. İçerik ve cevap değişmedi.",
+   "soru": {
+    "test": 3,
+    "konu": "Kaçakçılık",
+    "sinif": "ÇOK",
+    "tur": "sorulmamis",
+    "cikmis": "",
+    "alt_tip": "G1",
+    "kalip": "DOĞRU",
+    "z": "ÇZ",
+    "madde": "5607 5/1-3; 13/2",
+    "cek": "Resmî makamlar haber almadan fiili, failleri ve eşyanın yerini bildiren ve yakalanmayı sağlayan iştirakçi cezalandırılmaz.",
+    "kok": [
+     "5607 sayılı Kaçakçılıkla Mücadele Kanununun etkin pişmanlığa ilişkin hükümlerine göre aşağıdaki ifadelerden hangisi doğrudur?"
+    ],
+    "d": "Kaçakçılık suçuna iştirak eden kişi, resmî makamlar haber almadan önce fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi de faillerin yakalanmasını sağlarsa cezalandırılmaz.",
+    "c": [
+     "Resmî makamlar haber aldıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza yarı oranında indirilir.",
+     "Suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar paranın ödenmesi hâlinde cezanın indirileceği, soruşturma evresinde hâkim tarafından şüpheliye ihtar edilir.",
+     "Gümrüklenmiş değerin iki katı kadar paranın Hazineye ödenmesiyle sağlanan ceza indirimi, suçun üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde uygulanmaz.",
+     "Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması, suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil eder."
+    ],
+    "sabit": null,
+    "g": "Gerekçe: Kaçakçılık suçlarından birine iştirak etmiş olan kişi, resmî makamlar tarafından haber alınmadan önce fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verir ve verilen bilgi faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlarsa cezalandırılmaz. Çeldiricilerde birer unsur bozulmuştur: haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım edenin cezası yarı değil üçte iki oranında indirilir; ödeme imkânı soruşturma evresinde hâkim değil Cumhuriyet savcısı tarafından şüpheliye ihtar edilir, hâkim ancak bu ihtar yapılmamışsa kovuşturma evresinde sanığa ihtar eder; ödeme yoluyla indirim üç veya daha fazla kişiyle işlenen suçlarda değil, mükerrirler hakkında ve suçun örgüt faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz; etkin pişmanlık nedeniyle cezaya hükmolunmaması suç konusu eşyanın müsaderesine engel teşkil etmez. (MD 5607 5/1, 5/2, 5/3, 13/2)",
+    "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | resmî makamlar tarafından haber alınmadan önce, fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verirse, verilen bilginin, faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlaması halinde cezalandırılmaz. ... Haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza üçte iki oranında indirilir. ... Bu husus, soruşturma evresinde Cumhuriyet savcısı tarafından şüpheliye ihtar edilir. Soruşturma evresinde ihtar yapılmaması hâlinde kovuşturma evresinde hâkim tarafından sanığa ihtar yapılır. ... İkinci fıkra hükmü, mükerrirler hakkında veya suçun bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz. ... Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması veya kamu davasının düşmesine karar verilmesi, sadece suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil etmez.",
+    "key": "B2-14"
+   }
+  }
+ ]
+}
