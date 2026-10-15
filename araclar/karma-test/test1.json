@@ -96,10 +96,10 @@
   "alt_tip": "D1",
   "kalip": "ORAN-TUTAR",
   "z": "O",
-  "madde": "Asgari Ücret Tarifesi Tebliği 5/1-b, 5/1-c",
-  "cek": "SDŞ, DTSŞ ve YYS sahibi firmaların ihracat işlemlerinde beyanname sayısına bağlı olmayan asgari ücret indirimi %20'dir.",
+  "madde": "Asgari Ücret Tarifesi Tebliği 5/1-a, 5/1-b, 5/1-c",
+  "cek": "SDŞ, DTSŞ ve YYS sahibi firmaların ihracat işlemlerinde beyanname sayısına ve işlemin niteliğine bağlı olmayan asgari ücret indirimi %20'dir.",
   "kok": [
-   "Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğin 2026 yılı itibarıyla yürürlükte olan hükümlerine göre sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için, beyanname sayısı göz önünde bulundurulmaksızın, Asgari Ücret Tarifesindeki ücretlerde yüzde kaç oranında indirim uygulanabilir?"
+   "Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğe göre beyanname sayısına bağlı indirimler ile özellik arz eden işlemlere ilişkin indirim dışında, sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için Asgari Ücret Tarifesindeki ücretlerde yüzde kaç oranında indirim uygulanabilir?"
   ],
   "d": "20",
   "c": [
@@ -118,8 +118,9 @@
    ],
    "dogru": "B"
   },
-  "g": "Tebliğe göre sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için Asgari Ücret Tarifesindeki ücretlerde %20 oranında indirim uygulanabilir. %25, %35 ve %50 oranları ise aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla, beyanname sayısının 1.000, 2.000 veya 2.500 eşiklerini aşması hâlinde uygulanabilen kademeli indirimlerdir; örneğin bu firmaların ihracat beyanname sayısı bir takvim yılında 1.000'i aştığında %35, 2.500'ü aştığında %50 indirim uygulanabilir. Tuzak: beyanname sayısına bağlı kademeli indirimlerle genel indirim oranı karıştırılmamalıdır. (MD Asgari Ücret Tarifesi Tebliği 5/1-b, 5/1-c)",
-  "kanit": "51-disiplin cezaları.txt | Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için Asgari Ücret Tarifesindeki ücretlerde % 20 ... Aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla beyanname sayısı göz önünde bulundurularak ... Bir takvim yılında (b) bendinde belirtilen firmaların ihracat işlemleri için beyanname sayısı 1.000'i aştığında bundan sonraki beyannameler için % 35 oranında; beyanname sayısı 2.500'ü aştığında bundan sonraki beyannameler için % 50 oranında indirim uygulanabilir. ... Bir takvim yılında (b) bendinde belirtilen firmaların ithalat işlemleri için beyanname sayısı 1.000'i aştığında bundan sonraki beyannamelerde Asgari Ücret Tarifesindeki ücretlerde % 25 oranında ... ithalat beyanname sayısı 2.000'i aştığında bundan sonraki beyannameler için Asgari Ücret Tarifesinde % 25 oranında",
+  "g": "Tebliğe göre sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için Asgari Ücret Tarifesindeki ücretlerde %20 oranında indirim uygulanabilir. %25 ve %35 oranları, aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla beyanname sayısının 1.000, 2.000 veya 2.500 eşiklerini aşması hâlinde uygulanabilen kademeli indirimlerdir; %50 ise bu firmaların ihracat beyanname sayısının bir takvim yılında 2.500'ü aşması hâlinde ya da özellik arz eden işlemlerin ihracata ilişkin olması hâlinde ücretlerin yarısı oranında uygulanabilen indirimdir. Tuzak: beyanname sayısına veya işlemin niteliğine bağlı indirimlerle bu firmalara tanınan genel indirim oranı karıştırılmamalıdır. (MD Asgari Ücret Tarifesi Tebliği 5/1-a, 5/1-b, 5/1-c)",
+  "kanit": "51-disiplin cezaları.txt | Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için Asgari Ücret Tarifesindeki ücretlerde % 20 ... iş ve işlemlerin ihracata ilişkin olması durumunda ücretler yarısı oranında indirim yapılarak uygulanabilir. ... Aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla beyanname sayısı göz önünde bulundurularak ... Bir takvim yılında (b) bendinde belirtilen firmaların ihracat işlemleri için beyanname sayısı 1.000'i aştığında bundan sonraki beyannameler için % 35 oranında; beyanname sayısı 2.500'ü aştığında bundan sonraki beyannameler için % 50 oranında indirim uygulanabilir. ... Bir takvim yılında (b) bendinde belirtilen firmaların ithalat işlemleri için beyanname sayısı 1.000'i aştığında bundan sonraki beyannamelerde Asgari Ücret Tarifesindeki ücretlerde % 25 oranında",
+  "dogrulama": "DUZELT uygulandi: Kökteki \"2026 yılı itibarıyla yürürlükte olan hükümlerine göre\" ifadesi kaynakta dayanağı olmayan, kurum diline yabancı bir tarih kaydıdır ve kaldırıldı (soru bankası zaten güncel metne dayanır). Ayrıca \"beyanname sayısı göz önünde bulundurulmaksızın\" kaydı, ihracata ilişkin özellik arz eden işlemle",
   "grup": "B5",
   "no": 3,
   "harf": "B",
@@ -130,7 +131,7 @@
    "35",
    "50"
   ],
-  "gerekce": "Tebliğe göre sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için Asgari Ücret Tarifesindeki ücretlerde %20 oranında indirim uygulanabilir. %25, %35 ve %50 oranları ise aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla, beyanname sayısının 1.000, 2.000 veya 2.500 eşiklerini aşması hâlinde uygulanabilen kademeli indirimlerdir; örneğin bu firmaların ihracat beyanname sayısı bir takvim yılında 1.000'i aştığında %35, 2.500'ü aştığında %50 indirim uygulanabilir. Tuzak: beyanname sayısına bağlı kademeli indirimlerle genel indirim oranı karıştırılmamalıdır. Bu nedenle doğru cevap B seçeneğidir. (MD Asgari Ücret Tarifesi Tebliği 5/1-b, 5/1-c)",
+  "gerekce": "Tebliğe göre sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için Asgari Ücret Tarifesindeki ücretlerde %20 oranında indirim uygulanabilir. %25 ve %35 oranları, aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla beyanname sayısının 1.000, 2.000 veya 2.500 eşiklerini aşması hâlinde uygulanabilen kademeli indirimlerdir; %50 ise bu firmaların ihracat beyanname sayısının bir takvim yılında 2.500'ü aşması hâlinde ya da özellik arz eden işlemlerin ihracata ilişkin olması hâlinde ücretlerin yarısı oranında uygulanabilen indirimdir. Tuzak: beyanname sayısına veya işlemin niteliğine bağlı indirimlerle bu firmalara tanınan genel indirim oranı karıştırılmamalıdır. Bu nedenle doğru cevap B seçeneğidir. (MD Asgari Ücret Tarifesi Tebliği 5/1-a, 5/1-b, 5/1-c)",
   "id": "KT1-03"
  },
  {
@@ -272,7 +273,7 @@
   "kok": [
    "Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre onaylanmış kişi statü belgesinin başvuru, düzenlenme ve yenilenme işlemlerine ilişkin süreler hakkında aşağıdaki ifadelerden hangisi yanlıştır?"
   ],
-  "d": "Statü belgesinin geçerlilik süresinin bitimine altı aydan fazla süre kala yapılan yenileme başvuruları, değerlendirilmeksizin başvuru sahibine iade edilir.",
+  "d": "Statü belgesinin geçerlilik süresinin bitimine iki aydan fazla süre kala yapılan yenileme başvuruları, değerlendirilmeksizin başvuru sahibine iade edilir.",
   "c": [
    "OK1 tespit işleminin, sözleşmenin yapıldığı tarihi izleyen otuz gün içerisinde yetkilendirilmiş gümrük müşavirince olumlu veya olumsuz olarak rapora bağlanması zorunludur.",
    "Statü belgesi başvurusu, olumlu tespit raporunun düzenlenme tarihini izleyen beş iş günü içerisinde yetkili bölge müdürlüğüne yapılır.",
@@ -280,8 +281,9 @@
    "Kayıp veya zayi olan statü belgesinin yerine, uygun görülmesi hâlinde en geç beş iş günü içerisinde aynı tarih, sayı ve referans numaralı yeni bir statü belgesi düzenlenebilir."
   ],
   "sabit": null,
-  "g": "Tebliğe göre statü belgesinin geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan yenileme başvuruları değerlendirilmeksizin başvuru sahibine iade edilir; ifadede bu süre altı ay olarak değiştirilmiştir. OK1 tespitinin sözleşmeyi izleyen otuz gün içinde rapora bağlanması, başvurunun olumlu tespit raporunun düzenlenmesini izleyen beş iş günü içinde yapılması, götürü teminat talep edilmeyen başvuruların on iş günü içinde incelenmesi ve kayıp ya da zayi belgenin yerine beş iş günü içinde aynı tarih, sayı ve referans numaralı yeni belge düzenlenebilmesi Tebliğdeki sürelerle uyumludur. (MD OKS Tebliği 7/1, 9/1, 10/2-a, 13/3, 14/6)",
+  "g": "Tebliğe göre statü belgesinin geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan başvurular değerlendirilmeksizin başvuru sahibine iade edilir; bitime dört ay veya daha az süre kala yapılan yenileme başvuruları ise değerlendirilir. İfadede bu süre iki ay olarak değiştirildiğinden, örneğin bitime üç ay kala süresinde yapılan bir yenileme başvurusu da iade edilecekmiş gibi gösterilmiştir. OK1 tespitinin sözleşmeyi izleyen otuz gün içinde rapora bağlanması, başvurunun olumlu tespit raporunun düzenlenmesini izleyen beş iş günü içinde yapılması, götürü teminat talep edilmeyen başvuruların on iş günü içinde incelenmesi ve kayıp ya da zayi belgenin yerine beş iş günü içinde aynı tarih, sayı ve referans numaralı yeni belge düzenlenebilmesi Tebliğdeki sürelerle uyumludur. (MD OKS Tebliği 7/1, 9/1, 10/2-a, 13/3, 14/6)",
   "kanit": "4-OKSB.txt | Statü belgesinin geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan başvurular, değerlendirilmeksizin başvuru sahibine iade edilir. ... OK1 tespit işleminin sözleşmenin yapıldığı tarihi izleyen otuz gün içerisinde YGM'ce olumlu veya olumsuz olarak rapora bağlanması zorunludur. ... olumlu tespit raporunun düzenlenme tarihini izleyen beş iş günü içerisinde yapılır. ... Götürü teminat uygulamasından yararlanma hakkının talep edilmemiş olması halinde başvurunun genel evrak kaydına alınmasını takiben en geç on iş günü içinde incelenir. ... en geç beş iş günü içerisinde aynı tarih, sayı ve referans numaralı yeni bir statü belgesi düzenlenebilir.",
+  "dogrulama": "DUZELT uygulandi: Yanlış seçenek \"altı aydan fazla süre kala yapılan başvurular iade edilir\" biçimindeydi; altı aydan fazla süre kala yapılan her başvuru zaten dört aydan fazla süre kala yapılmış olacağından bu ifade mantıken doğru kalıyor ve soru yanlış seçeneği bulunmayan (cevapsız) bir soruya dönüşüyordu. Süre eşi",
   "grup": "B5",
   "no": 7,
   "harf": "D",
@@ -289,10 +291,10 @@
    "OK1 tespit işleminin, sözleşmenin yapıldığı tarihi izleyen otuz gün içerisinde yetkilendirilmiş gümrük müşavirince olumlu veya olumsuz olarak rapora bağlanması zorunludur.",
    "Statü belgesi başvurusu, olumlu tespit raporunun düzenlenme tarihini izleyen beş iş günü içerisinde yetkili bölge müdürlüğüne yapılır.",
    "Götürü teminat uygulamasından yararlanma hakkı talep edilmemişse başvuru, genel evrak kaydına alınmasını takiben en geç on iş günü içinde incelenir.",
-   "Statü belgesinin geçerlilik süresinin bitimine altı aydan fazla süre kala yapılan yenileme başvuruları, değerlendirilmeksizin başvuru sahibine iade edilir.",
+   "Statü belgesinin geçerlilik süresinin bitimine iki aydan fazla süre kala yapılan yenileme başvuruları, değerlendirilmeksizin başvuru sahibine iade edilir.",
    "Kayıp veya zayi olan statü belgesinin yerine, uygun görülmesi hâlinde en geç beş iş günü içerisinde aynı tarih, sayı ve referans numaralı yeni bir statü belgesi düzenlenebilir."
   ],
-  "gerekce": "Tebliğe göre statü belgesinin geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan yenileme başvuruları değerlendirilmeksizin başvuru sahibine iade edilir; ifadede bu süre altı ay olarak değiştirilmiştir. OK1 tespitinin sözleşmeyi izleyen otuz gün içinde rapora bağlanması, başvurunun olumlu tespit raporunun düzenlenmesini izleyen beş iş günü içinde yapılması, götürü teminat talep edilmeyen başvuruların on iş günü içinde incelenmesi ve kayıp ya da zayi belgenin yerine beş iş günü içinde aynı tarih, sayı ve referans numaralı yeni belge düzenlenebilmesi Tebliğdeki sürelerle uyumludur. Bu nedenle doğru cevap D seçeneğidir. (MD OKS Tebliği 7/1, 9/1, 10/2-a, 13/3, 14/6)",
+  "gerekce": "Tebliğe göre statü belgesinin geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan başvurular değerlendirilmeksizin başvuru sahibine iade edilir; bitime dört ay veya daha az süre kala yapılan yenileme başvuruları ise değerlendirilir. İfadede bu süre iki ay olarak değiştirildiğinden, örneğin bitime üç ay kala süresinde yapılan bir yenileme başvurusu da iade edilecekmiş gibi gösterilmiştir. OK1 tespitinin sözleşmeyi izleyen otuz gün içinde rapora bağlanması, başvurunun olumlu tespit raporunun düzenlenmesini izleyen beş iş günü içinde yapılması, götürü teminat talep edilmeyen başvuruların on iş günü içinde incelenmesi ve kayıp ya da zayi belgenin yerine beş iş günü içinde aynı tarih, sayı ve referans numaralı yeni belge düzenlenebilmesi Tebliğdeki sürelerle uyumludur. Bu nedenle doğru cevap D seçeneğidir. (MD OKS Tebliği 7/1, 9/1, 10/2-a, 13/3, 14/6)",
   "id": "KT1-07"
  },
  {
