@@ -303,13 +303,13 @@ dict(id='D14-054', cikmis='2024/54', konu='Dahilde İşleme', tip='T1+T2', z='Z'
  kanit='32-DAHİLDE İŞLEME.txt | Tahsil edilen telafi edici vergi bütçeye irat kaydedilir. || 32-DAHİLDE İŞLEME.txt | işlem görmüş ürünün elde edilmesinde kullanılan ve bu ülke menşeli olmayan hammadde, yardımcı madde, yarı mamul, mamul ile değişmemiş eşyaya ilişkin vergi || 32-DAHİLDE İŞLEME.txt | tarım ürünlerinin Avrupa Topluluğuna üye ülkelere ihracatında; bu ürünlerin elde edilmesinde kullanılan üçüncü ülke menşeli hammadde, yardımcı madde, yarı mamul, mamul ile değişmemiş eşyaya ilişkin vergi tahsil edilir.'),
 
 dict(id='D14-073', cikmis='2024/73', konu='GKAİR', tip='T6', z='OÜ',
- madde='Gümrük Yönetmeliği m.308/1-ğ, 308/1-h, 374/3',
+ madde='Gümrük Yönetmeliği m.308/1-ğ, 308/1-h, 308/1-m, 374/3',
  cek='Kıymet ölçme yöntemi: işlem görmüş ürünlerde kullanılan ithal eşya oranının ürünlerin değerine göre hesaplanması; GKAİR ibra hesaplamalarında da esas alınır.',
- kok=['Gümrük Yönetmeliğinde ekonomik etkili gümrük rejimleri için yapılan tanımlara göre, gümrük kontrolü altında işleme rejiminin ibrasına ilişkin hesaplamalarda da esas alınan ve “Çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının, işlem görmüş ürünlerin değerine göre hesaplanması” şeklinde tanımlanan yöntem aşağıdakilerden hangisidir?'],
+ kok=['Gümrük Yönetmeliğinde ekonomik etkili gümrük rejimleri için yapılan tanımlara göre, gümrük kontrolü altında işleme rejiminin ibrasına ilişkin hesaplamalarda da esas alınan ve “Çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının, işlem görmüş ürünlerin değerine göre hesaplanması” şeklinde tanımlanan kavram aşağıdakilerden hangisidir?'],
  d='Kıymet ölçme yöntemi',
- c=['Miktar ölçme yöntemi', 'Hesaplanmış kıymet yöntemi', 'İndirgeme yöntemi', 'Satış bedeli yöntemi'],
+ c=['Miktar ölçme yöntemi', 'Şartlı muafiyet sistemi', 'Standart değişim sistemi', 'Verimlilik oranı'],
  tuzak=False,
- g='Yönetmelikte kıymet ölçme yöntemi, çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının işlem görmüş ürünlerin değerine göre hesaplanması yöntemi olarak tanımlanmıştır; gümrük kontrolü altında işlemede ibra hesaplamaları da miktar ve kıymet ölçme yöntemlerine ilişkin hükümler esas alınarak yapılır. Miktar ölçme yöntemi bu oranı ithal eşya miktarına göre hesaplar; adında “kıymet” geçse de hesaplanmış kıymet yöntemi, indirgeme ve satış bedeli yöntemleri gibi, ithal eşyasının gümrük kıymetinin belirlenmesine ilişkin bir yöntemdir. (MD GY 308/1-ğ, h; GY 374/3)',
+ g='Yönetmelikte kıymet ölçme yöntemi, çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının işlem görmüş ürünlerin değerine göre hesaplanması yöntemi olarak tanımlanmıştır; gümrük kontrolü altında işlemede ibra hesaplamaları da miktar ve kıymet ölçme yöntemlerine ilişkin hükümler esas alınarak yapılır. Miktar ölçme yöntemi bu oranı ithal eşya miktarına göre hesaplar; verimlilik oranı belirli miktardaki ithal eşyasından elde edilen işlenmiş ürün miktarı veya yüzdesidir; şartlı muafiyet ve standart değişim ise işleme rejimlerinde uygulanan sistemlerdir. (MD GY 308/1-ğ, h, m; GY 374/3)',
  kanit='19-ŞARTLI M VE E.E.G.R.txt | ğ) Kıymet ölçme yöntemi: Çeşitli işlem görmüş ürünlerin imalinde kullanılan ithal eşya oranının, işlem görmüş ürünlerin değerine göre hesaplanması yöntemini, || 33-GKAİR.txt | (3) Bu hesaplamalar, 361 ve 362 nci madde hükümleri esas alınarak yapılır.'),
 
 dict(id='D14-074', cikmis='2024/74', konu='GKAİR', tip='T1+T2', z='OÜ',
