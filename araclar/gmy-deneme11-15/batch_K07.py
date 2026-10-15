@@ -246,7 +246,7 @@ dict(id='D14-030', cikmis='2024/30', konu='Şartlı Muafiyet/EEGR', tip='T7', z=
 dict(id='D14-050', cikmis='2024/50', konu='Dahilde İşleme', tip='T1+T2', z='Z',
  madde='Dahilde İşleme Rejimi Tebliği (İhracat: 2006/12) m.3/1-f, 3/1-g, 31/2-ğ, 44/2; Gümrük Yönetmeliği m.357/1-2',
  cek='DİR izni yalnız muafiyetli ithalata imkân verir (yurt içi alım belgededir); yeni beyannamesiz serbest dolaşıma giriş hâlleri izin belgesinde belirtilir.',
- kok=['Gümrük mevzuatına göre dahilde işleme iznine ilişkin;',
+ kok=['Dahilde İşleme Rejimi Tebliği ve Gümrük Yönetmeliğine göre dahilde işleme iznine ilişkin;',
       'I. İzin kapsamında ihraç edilen ürünün ithal eşyadan elde edilmediğine dair karine varsa ekspertiz raporu istenebilir.',
       'II. Dahilde işleme izni, ihraç amacıyla muafiyetli ithalata ve yurt içi alımlara imkân sağlayan, gümrük idaresince verilen izindir.',
       'III. İşlemlerin gerçek dışı olduğu tespit edilirse izin, ilgili gümrük idaresince iptal edilir.',
