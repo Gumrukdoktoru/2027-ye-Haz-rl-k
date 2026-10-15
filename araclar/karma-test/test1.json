@@ -976,8 +976,8 @@
   "alt_tip": "O2",
   "kalip": "YANLIŞ",
   "z": "K",
-  "madde": "GK 79/3, 80/1, 81/2, 82, 83",
-  "cek": "Değişmemiş eşya, dahilde işleme veya gümrük kontrolü altında işleme rejimlerinde hiç işçilik görmemiş ithal eşyasıdır; yalnız DİR'e özgü değildir.",
+  "madde": "GK 79/1, 79/3, 80/1, 81/2, 82",
+  "cek": "Değişmemiş eşya, dahilde işleme veya gümrük kontrolü altında işleme rejimlerinde hiç işçilik görmemiş ithal eşyasıdır; yalnız DİR'e özgü değildir. Hariçte işleme ekonomik etkili rejim olup şartlı muafiyet düzenlemesi değildir.",
   "kok": [
    "4458 sayılı Gümrük Kanununun şartlı muafiyet düzenlemeleri ve ekonomik etkili gümrük rejimlerine ilişkin ortak hükümlerine göre aşağıdaki ifadelerden hangisi yanlıştır?"
   ],
@@ -986,11 +986,12 @@
    "Eşyanın bir şartlı muafiyet düzenlemesine tabi tutulması, söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır.",
    "Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir.",
    "Ekonomik etkili bir şartlı muafiyet düzenlemesi, bu düzenlemeye tabi tutulmakta olan eşyaya, eşdeğer eşyaya ya da işlenmiş ürünlere gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer.",
-   "Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülükleri, söz konusu rejimden yararlanma koşullarını taşıyan kişilere devredilebilir."
+   "Hariçte işleme rejimi, ekonomik etkili gümrük rejimleri arasında yer almakla birlikte şartlı muafiyet düzenlemesi sayılmaz."
   ],
   "sabit": null,
-  "g": "Gümrük Kanununa göre “değişmemiş eşya” deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir; tanım yalnızca dahilde işleme rejimiyle sınırlı değildir, gümrük kontrolü altında işleme rejimini de kapsar. Diğer ifadeler doğrudur: şartlı muafiyet düzenlemesine tabi tutulma her türlü gümrük vergisine karşılık teminat verilmesi şartına bağlıdır; dahilde ve hariçte işleme rejimlerinin usul ve esaslarını Cumhurbaşkanı belirler; ekonomik etkili şartlı muafiyet düzenlemesi gümrükçe onaylanmış yeni bir işlem veya kullanım tayiniyle sona erer; hak ve yükümlülükler rejim koşullarını taşıyan kişilere devredilebilir. (MD GK 79/3, 80/1, 81/2, 82, 83)",
-  "kanit": "19-ŞARTLI M VE E.E.G.R.txt | deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir ... Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir ... söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır ... gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer ... söz konusu rejimden yararlanma koşullarını taşıyan kişilere devredilebilir",
+  "g": "Gümrük Kanununa göre “değişmemiş eşya” deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir; tanım yalnızca dahilde işleme rejimiyle sınırlı değildir, gümrük kontrolü altında işleme rejimini de kapsar. Diğer ifadeler doğrudur: şartlı muafiyet düzenlemesine tabi tutulma her türlü gümrük vergisine karşılık teminat verilmesi şartına bağlıdır; dahilde ve hariçte işleme rejimlerinin usul ve esaslarını Cumhurbaşkanı belirler; ekonomik etkili şartlı muafiyet düzenlemesi gümrükçe onaylanmış yeni bir işlem veya kullanım tayiniyle sona erer; hariçte işleme rejimi ekonomik etkili gümrük rejimleri (antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat, hariçte işleme) arasında yer alır, ancak şartlı muafiyet düzenlemeleri (transit, antrepo, şartlı muafiyet sistemi kapsamında dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat) arasında sayılmamıştır. (MD GK 79/1, 79/3, 80/1, 81/2, 82)",
+  "kanit": "19-ŞARTLI M VE E.E.G.R.txt | deyimi, serbest dolaşımda olmayan eşyaya, - Transit, - Antrepo, - Şartlı muafiyet sistemi kapsamında dahilde işleme, - Gümrük kontrolü altında işleme, - Geçici ithalat; ... deyimi, - Antrepo, - Dahilde işleme, - Gümrük kontrolü altında işleme, - Geçici ithalat, - Hariçte işleme; ... deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir ... Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir ... söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır ... gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer",
+  "dogrulama": "DUZELT uygulandi: Soru 2022/62, 2023/83, 2024/30 çıkmış alanına bağlı olduğu halde bu soruların ölçtüğü şartlı muafiyet düzenlemesi/ekonomik etkili rejim listesini hiç ölçmüyordu (Prompt 3 §14); devirle ilgili doğru çeldirici, listeyi ölçen doğru bir ifadeyle (hariçte işleme EEGR olup şartlı muafiyet değildir) değişt",
   "grup": "B4",
   "no": 25,
   "harf": "E",
@@ -998,10 +999,10 @@
    "Eşyanın bir şartlı muafiyet düzenlemesine tabi tutulması, söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır.",
    "Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir.",
    "Ekonomik etkili bir şartlı muafiyet düzenlemesi, bu düzenlemeye tabi tutulmakta olan eşyaya, eşdeğer eşyaya ya da işlenmiş ürünlere gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer.",
-   "Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülükleri, söz konusu rejimden yararlanma koşullarını taşıyan kişilere devredilebilir.",
+   "Hariçte işleme rejimi, ekonomik etkili gümrük rejimleri arasında yer almakla birlikte şartlı muafiyet düzenlemesi sayılmaz.",
    "“Değişmemiş eşya” deyimi, yalnızca dahilde işleme rejimi çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir."
   ],
-  "gerekce": "Gümrük Kanununa göre “değişmemiş eşya” deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir; tanım yalnızca dahilde işleme rejimiyle sınırlı değildir, gümrük kontrolü altında işleme rejimini de kapsar. Diğer ifadeler doğrudur: şartlı muafiyet düzenlemesine tabi tutulma her türlü gümrük vergisine karşılık teminat verilmesi şartına bağlıdır; dahilde ve hariçte işleme rejimlerinin usul ve esaslarını Cumhurbaşkanı belirler; ekonomik etkili şartlı muafiyet düzenlemesi gümrükçe onaylanmış yeni bir işlem veya kullanım tayiniyle sona erer; hak ve yükümlülükler rejim koşullarını taşıyan kişilere devredilebilir. Bu nedenle doğru cevap E seçeneğidir. (MD GK 79/3, 80/1, 81/2, 82, 83)",
+  "gerekce": "Gümrük Kanununa göre “değişmemiş eşya” deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir; tanım yalnızca dahilde işleme rejimiyle sınırlı değildir, gümrük kontrolü altında işleme rejimini de kapsar. Diğer ifadeler doğrudur: şartlı muafiyet düzenlemesine tabi tutulma her türlü gümrük vergisine karşılık teminat verilmesi şartına bağlıdır; dahilde ve hariçte işleme rejimlerinin usul ve esaslarını Cumhurbaşkanı belirler; ekonomik etkili şartlı muafiyet düzenlemesi gümrükçe onaylanmış yeni bir işlem veya kullanım tayiniyle sona erer; hariçte işleme rejimi ekonomik etkili gümrük rejimleri (antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat, hariçte işleme) arasında yer alır, ancak şartlı muafiyet düzenlemeleri (transit, antrepo, şartlı muafiyet sistemi kapsamında dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat) arasında sayılmamıştır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 79/1, 79/3, 80/1, 81/2, 82)",
   "id": "KT1-25"
  },
  {

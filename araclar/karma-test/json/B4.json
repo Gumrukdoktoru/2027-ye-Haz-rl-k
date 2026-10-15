@@ -191,8 +191,8 @@
   "alt_tip": "O2",
   "kalip": "YANLIŞ",
   "z": "K",
-  "madde": "GK 79/3, 80/1, 81/2, 82, 83",
-  "cek": "Değişmemiş eşya, dahilde işleme veya gümrük kontrolü altında işleme rejimlerinde hiç işçilik görmemiş ithal eşyasıdır; yalnız DİR'e özgü değildir.",
+  "madde": "GK 79/1, 79/3, 80/1, 81/2, 82",
+  "cek": "Değişmemiş eşya, dahilde işleme veya gümrük kontrolü altında işleme rejimlerinde hiç işçilik görmemiş ithal eşyasıdır; yalnız DİR'e özgü değildir. Hariçte işleme ekonomik etkili rejim olup şartlı muafiyet düzenlemesi değildir.",
   "kok": [
    "4458 sayılı Gümrük Kanununun şartlı muafiyet düzenlemeleri ve ekonomik etkili gümrük rejimlerine ilişkin ortak hükümlerine göre aşağıdaki ifadelerden hangisi yanlıştır?"
   ],
@@ -201,11 +201,12 @@
    "Eşyanın bir şartlı muafiyet düzenlemesine tabi tutulması, söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır.",
    "Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir.",
    "Ekonomik etkili bir şartlı muafiyet düzenlemesi, bu düzenlemeye tabi tutulmakta olan eşyaya, eşdeğer eşyaya ya da işlenmiş ürünlere gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer.",
-   "Ekonomik etkili bir gümrük rejimi hak sahibinin hak ve yükümlülükleri, söz konusu rejimden yararlanma koşullarını taşıyan kişilere devredilebilir."
+   "Hariçte işleme rejimi, ekonomik etkili gümrük rejimleri arasında yer almakla birlikte şartlı muafiyet düzenlemesi sayılmaz."
   ],
   "sabit": null,
-  "g": "Gümrük Kanununa göre “değişmemiş eşya” deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir; tanım yalnızca dahilde işleme rejimiyle sınırlı değildir, gümrük kontrolü altında işleme rejimini de kapsar. Diğer ifadeler doğrudur: şartlı muafiyet düzenlemesine tabi tutulma her türlü gümrük vergisine karşılık teminat verilmesi şartına bağlıdır; dahilde ve hariçte işleme rejimlerinin usul ve esaslarını Cumhurbaşkanı belirler; ekonomik etkili şartlı muafiyet düzenlemesi gümrükçe onaylanmış yeni bir işlem veya kullanım tayiniyle sona erer; hak ve yükümlülükler rejim koşullarını taşıyan kişilere devredilebilir. (MD GK 79/3, 80/1, 81/2, 82, 83)",
-  "kanit": "19-ŞARTLI M VE E.E.G.R.txt | deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir ... Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir ... söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır ... gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer ... söz konusu rejimden yararlanma koşullarını taşıyan kişilere devredilebilir"
+  "g": "Gümrük Kanununa göre “değişmemiş eşya” deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir; tanım yalnızca dahilde işleme rejimiyle sınırlı değildir, gümrük kontrolü altında işleme rejimini de kapsar. Diğer ifadeler doğrudur: şartlı muafiyet düzenlemesine tabi tutulma her türlü gümrük vergisine karşılık teminat verilmesi şartına bağlıdır; dahilde ve hariçte işleme rejimlerinin usul ve esaslarını Cumhurbaşkanı belirler; ekonomik etkili şartlı muafiyet düzenlemesi gümrükçe onaylanmış yeni bir işlem veya kullanım tayiniyle sona erer; hariçte işleme rejimi ekonomik etkili gümrük rejimleri (antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat, hariçte işleme) arasında yer alır, ancak şartlı muafiyet düzenlemeleri (transit, antrepo, şartlı muafiyet sistemi kapsamında dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat) arasında sayılmamıştır. (MD GK 79/1, 79/3, 80/1, 81/2, 82)",
+  "kanit": "19-ŞARTLI M VE E.E.G.R.txt | deyimi, serbest dolaşımda olmayan eşyaya, - Transit, - Antrepo, - Şartlı muafiyet sistemi kapsamında dahilde işleme, - Gümrük kontrolü altında işleme, - Geçici ithalat; ... deyimi, - Antrepo, - Dahilde işleme, - Gümrük kontrolü altında işleme, - Geçici ithalat, - Hariçte işleme; ... deyimi, dahilde işleme veya gümrük kontrolü altında işleme rejimleri çerçevesinde hiçbir şekilde işçilik görmemiş ithal eşyası anlamına gelir ... Dahilde işleme ve hariçte işleme rejimleriyle ilgili usul ve esaslar Cumhurbaşkanınca belirlenir ... söz konusu eşya için tahakkuk edebilecek her türlü gümrük vergilerine karşılık teminat verilmesi şartına bağlıdır ... gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edildiği takdirde sona erer",
+  "dogrulama": "DUZELT uygulandi: Soru 2022/62, 2023/83, 2024/30 çıkmış alanına bağlı olduğu halde bu soruların ölçtüğü şartlı muafiyet düzenlemesi/ekonomik etkili rejim listesini hiç ölçmüyordu (Prompt 3 §14); devirle ilgili doğru çeldirici, listeyi ölçen doğru bir ifadeyle (hariçte işleme EEGR olup şartlı muafiyet değildir) değişt"
  },
  {
   "test": 2,
@@ -305,30 +306,31 @@
   "kok": [
    "Tam muafiyet suretiyle geçici ithal edilecek eşyaya ilişkin aşağıdaki durumlar verilmiştir.",
    "I. Sözlü beyana konu olan eşya",
-   "II. Yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri",
-   "III. Yazılı beyana konu olan ve hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme",
-   "IV. Yazılı beyana konu olan ve sergi, fuar, toplantı ve benzeri etkinliklerde gösterime ya da kullanıma sunulan eşya",
+   "II. Yazılı beyana konu olan ve sergi, fuar, toplantı ve benzeri etkinliklerde gösterime ya da kullanıma sunulan eşya",
+   "III. Yazılı beyana konu olan ve Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri",
+   "IV. Yazılı beyana konu olan ve hava, deniz veya demiryolu şirketlerine ya da posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme",
    "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre yukarıdakilerden hangileri için teminat aranmaz?"
   ],
-  "d": "I, II ve III",
+  "d": "I, III ve IV",
   "c": [
-   "I ve II",
    "I ve III",
-   "II ve IV",
+   "I ve IV",
+   "II ve III",
    "I, II, III ve IV"
   ],
   "sabit": {
    "siklar": [
-    "I ve II",
     "I ve III",
-    "II ve IV",
-    "I, II ve III",
+    "I ve IV",
+    "II ve III",
+    "I, III ve IV",
     "I, II, III ve IV"
    ],
    "dogru": "D"
   },
-  "g": "Karara göre tam muafiyet suretiyle geçici ithal edilecek eşyadan kural olarak ithalat vergilerini karşılayacak tutarda teminat aranır. Ancak sözlü beyana konu eşya ile yazılı beyana konu olan eşyadan Türkiye Gümrük Bölgesindeki kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri ve hava, deniz, demiryolu şirketlerine veya posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için teminat aranmaz. Sergi, fuar ve benzeri etkinliklerde gösterime sunulan eşya bu istisnalar arasında sayılmamıştır. Bu nedenle teminat aranmayanlar I, II ve III'tür. (MD 2009/15481 Karar 41)",
-  "kanit": "34-GEÇİCİ İTHALAT.txt | Tam muafiyet suretiyle geçici ithal edilecek eşyadan ithalat vergilerini karşılayacak tutarda teminat aranır ... a) Sözlü beyana konu olan eşya, b) Yazılı beyana konu olan; ... Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına veya kamu kuruluşları tarafından yetkili kılınan kuruluşlar adına gönderilen yardım malzemeleri ... Hava, deniz veya demiryolu şirketlerine veya posta idarelerine ait olan ve bunlar tarafından uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme"
+  "g": "Karara göre tam muafiyet suretiyle geçici ithal edilecek eşyadan kural olarak ithalat vergilerini karşılayacak tutarda teminat aranır. Ancak sözlü beyana konu eşya ile yazılı beyana konu olan eşyadan Türkiye Gümrük Bölgesindeki kriz hali nedeniyle bir kamu kuruluşu adına gönderilen yardım malzemeleri ve hava, deniz, demiryolu şirketlerine veya posta idarelerine ait olup uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme için teminat aranmaz. Sergi, fuar ve benzeri etkinliklerde gösterime sunulan eşya bu istisnalar arasında sayılmamıştır. Bu nedenle teminat aranmayanlar I, III ve IV'tür. (MD 2009/15481 Karar 41)",
+  "kanit": "34-GEÇİCİ İTHALAT.txt | Tam muafiyet suretiyle geçici ithal edilecek eşyadan ithalat vergilerini karşılayacak tutarda teminat aranır ... a) Sözlü beyana konu olan eşya, b) Yazılı beyana konu olan; ... Türkiye Gümrük Bölgesinde meydana gelen kriz hali nedeniyle bir kamu kuruluşu adına veya kamu kuruluşları tarafından yetkili kılınan kuruluşlar adına gönderilen yardım malzemeleri ... Hava, deniz veya demiryolu şirketlerine veya posta idarelerine ait olan ve bunlar tarafından uluslararası trafikte kullanılmak üzere üzerleri ayırt edici biçimde işaretlenmiş malzeme",
+  "dogrulama": "DUZELT uygulandi: İçerik doğru; ancak doğru kombinasyon Prompt 3'te kaçınılması istenen 'I-II-III doğru, IV yanlış' kalıbındaydı. Önerme sırası değiştirildi (yanlış önerme II'ye alındı), şıklar ve sabit dizi buna göre yeniden kuruldu."
  },
  {
   "test": 2,
@@ -336,24 +338,25 @@
   "sinif": "ÇOK",
   "tur": "cikmis_alani",
   "cikmis": "2022/61, 2025/90",
-  "alt_tip": "K1",
-  "kalip": "KAVRAM",
+  "alt_tip": "G1",
+  "kalip": "DOĞRU",
   "z": "O",
-  "madde": "GY 376/1-i, 376/1-j",
-  "cek": "Turistik amaçla getirilen taşıtlar için ulusal kefil kuruluşça yalnız Türkiye'de geçerli düzenlenen teminat hükmündeki belge triptik karnesidir.",
+  "madde": "GY 376/1-ğ, i, j; Kara Taşıtları GGT Seri No:1 md. 4/1-e",
+  "cek": "Triptik karnesi, TGB dışında yerleşik kişilerin turistik amaçla getirdiği taşıtlar için ulusal kefil kuruluşça yalnız Türkiye için geçerli düzenlenen, üç parçalı teminat hükmünde belgedir.",
   "kok": [
-   "Gümrük Yönetmeliğine göre “Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde Türkiye Gümrük Bölgesine getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen teminat hükmünde olan belge” aşağıdakilerden hangisidir?"
+   "Gümrük Yönetmeliğine göre geçici ithalat rejiminde kullanılan triptik karnesine ilişkin aşağıdakilerden hangisi doğrudur?"
   ],
-  "d": "Triptik Karnesi",
+  "d": "Ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen, üç parçadan ibaret teminat hükmünde bir belgedir.",
   "c": [
-   "Gümrüklerden Geçiş Karnesi (CPD)",
-   "Yabancı Taşıtlar Geçici Giriş Karnesi",
-   "Geçici Giriş Belgesi",
-   "Taşıt Giriş-Çıkış Formu"
+   "Ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde bir belgedir.",
+   "Türkiye'ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile geçici oturma iznine haiz yabancıların özel kullanımlarına mahsus kara taşıtları için düzenlenir.",
+   "Türkiye Gümrük Bölgesinde yerleşik kişilerin turistik amaçlı yurt dışı seyahatlerinde kullanacakları taşıtlar için düzenlenen bir belgedir.",
+   "Taşıt takip programlarına kayıt yapılamaması durumunda özel ve ticari kullanıma mahsus taşıtlar için düzenlenen bir belgedir."
   ],
   "sabit": null,
-  "g": "Gümrük Yönetmeliğinde triptik karnesi, Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen, üç parçadan ibaret teminat hükmünde belge olarak tanımlanmıştır. Yabancı taşıtlar geçici giriş karnesi de ulusal kefil kuruluşça verilen ve yalnız Türkiye'de geçerli teminat hükmünde belgedir; ancak görev yapmak veya öğrenim için gelenler ile geçici oturma izni olan yabancıların taşıtlarına ilişkindir. Gümrüklerden geçiş karnesi (CPD) ise ulusal ve uluslararası kefil kuruluşlarca verilir; taşıt giriş-çıkış formu ise taşıt takip programlarına kayıt yapılamadığında düzenlenir. (MD GY 376/1-i, j)",
-  "kanit": "34-GEÇİCİ İTHALAT.txt | Triptik Karnesi: Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde Türkiye Gümrük Bölgesine getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen üç parçadan ibaret teminat hükmünde olan belgeyi ... Türkiye'ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile Türkiye'de geçici olarak oturma iznine haiz olan yabancıların ... Ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde olan belgeyi ... Taşıt Takip Programlarına kayıt yapılamaması durumunda özel ve ticari kullanıma mahsus taşıtlar için düzenlenen"
+  "g": "Gümrük Yönetmeliğinde triptik karnesi; Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde Türkiye Gümrük Bölgesine getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen, üç parçadan ibaret teminat hükmünde belge olarak tanımlanmıştır. Ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen belge gümrüklerden geçiş karnesi (CPD); görev yapmak veya öğrenimde bulunmak için gelenler ile geçici oturma iznine haiz yabancıların taşıtları için verilen belge yabancı taşıtlar geçici giriş karnesi; taşıt takip programlarına kayıt yapılamaması durumunda düzenlenen belge ise taşıt giriş-çıkış formudur. Tuzak: triptik karnesi Türkiye Gümrük Bölgesinde yerleşik kişilerin yurt dışı seyahatleri için değil, bu bölge dışında yerleşik kişilerin Türkiye'ye getirdikleri taşıtlar için düzenlenir. (MD GY 376/1-ğ, i, j; Kara Taşıtları GGT Seri No:1 md. 4/1-e)",
+  "kanit": "34-GEÇİCİ İTHALAT.txt | Triptik Karnesi: Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde Türkiye Gümrük Bölgesine getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen üç parçadan ibaret teminat hükmünde olan belgeyi ... Türkiye'ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile Türkiye'de geçici olarak oturma iznine haiz olan yabancıların ... Ticari ve kişisel kullanıma mahsus kara taşıtları için ulusal ve uluslararası kefil kuruluşlarca verilen teminat hükmünde olan belgeyi ... Taşıt Takip Programlarına kayıt yapılamaması durumunda özel ve ticari kullanıma mahsus taşıtlar için düzenlenen",
+  "dogrulama": "DUZELT uygulandi: Kök ve şıklar doğruydu; ancak 2022/61 ile aynı kurgu (tanım → belge adı) ve beş şıktan dördü aynı belge adları (CPD, YTGG karnesi, geçici giriş belgesi, taşıt giriş-çıkış formu) kullanılmıştı. Aynı bilgi (triptik tanımı) 'hangisi doğrudur' kurgusuyla, diğer belgelerin tanım unsurlarından ve yerleşik"
  },
  {
   "test": 2,
