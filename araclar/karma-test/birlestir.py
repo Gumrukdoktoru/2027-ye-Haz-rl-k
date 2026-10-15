@@ -13,10 +13,14 @@ def norm(s):
 src = {f.name: norm(f.read_text(encoding='utf-8')) for f in MET.glob('*.txt')}
 allsrc = ' '.join(src.values())
 def kanit_ok(k):
-    dosya, _, govde = k.partition('|') if '|' in k else ('', '', k)
-    parca = [norm(p.strip(' .;,:"')) for p in re.split(r'\s*(?:\.\.\.|…)\s*', govde) if len(p.strip()) >= 12]
-    hay = src.get(dosya.strip(), allsrc)
-    return bool(parca) and all(p in hay or p in allsrc for p in parca)
+    if not k: return False
+    for blok in k.split('||'):                       # birden çok dosya: "dosyaA | kesit || dosyaB | kesit"
+        dosya, _, govde = blok.partition('|') if '|' in blok else ('', '', blok)
+        parca = [norm(p.strip(' .;,:"')) for p in re.split(r'\s*(?:\.\.\.|…)\s*', govde) if len(p.strip()) >= 12]
+        hay = src.get(dosya.strip(), allsrc)
+        if not parca or not all(p in hay or p in allsrc for p in parca): return False
+    return True
+
 
 SIRA = ['Temel Tanımlar', 'Temsil', 'Gümrük Müşavirliği', 'Disiplin', 'YGM', 'Yetkilendirilmiş Yükümlü', 'Onaylanmış Kişi',
         'Sonradan Kontrol', 'Bağlayıcı Bilgi (BTB/BMB)', 'Tarife', 'Gümrük Vergileri', 'Gümrük Kıymeti', 'Menşe', 'Ticaret Politikası',
@@ -48,7 +52,7 @@ for q in Q:
     if q.get('kalip') not in KAL: hata['kalıp'].append(kim)
     if MADDE.search(' '.join(q['kok'] + secenek)): hata['kökte/şıkta madde no'].append(kim)
     if re.search(r'\b(hepsi|hiçbiri)\b', ' '.join(secenek), re.I): hata['hepsi/hiçbiri şıkkı'].append(kim)
-    if not re.search(r'\(MD [^)]+\)\s*$', q['g'].strip()): hata['gerekçe (MD …) ile bitmiyor'].append(kim)
+    if not re.search(r'\(MD (?:[^()]|\([^()]*\))+\)\s*$', q['g'].strip()): hata['gerekçe (MD …) ile bitmiyor'].append(kim)
     if re.search(r'madde hükmüdür|kaynak metne göre|temel kural|kritik husus', q['g'] + ' '.join(q['kok']), re.I): hata['yasak ifade'].append(kim)
     if '2009/15481' in q.get('madde', '') + q['g'] and q['kok'][0].lstrip().startswith('4458'): hata['Karar kökü 4458 ile başlıyor'].append(kim)
     if not kanit_ok(q.get('kanit', '')): hata['kanıt bulunamadı'].append(kim)

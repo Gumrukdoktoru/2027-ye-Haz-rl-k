@@ -16,10 +16,12 @@ src = {f.name: norm(f.read_text(encoding='utf-8')) for f in MET.glob('*.txt')}
 allsrc = ' '.join(src.values())
 def kanit_ok(k):
     if not k: return False
-    dosya, _, govde = k.partition('|') if '|' in k else ('', '', k)
-    parca = [norm(p.strip(' .;,:"')) for p in re.split(r'\s*(?:\.\.\.|…)\s*', govde) if len(p.strip()) >= 12]
-    hay = src.get(dosya.strip(), allsrc)
-    return bool(parca) and all(p in hay or p in allsrc for p in parca)
+    for blok in k.split('||'):                       # birden çok dosya: "dosyaA | kesit || dosyaB | kesit"
+        dosya, _, govde = blok.partition('|') if '|' in blok else ('', '', blok)
+        parca = [norm(p.strip(' .;,:"')) for p in re.split(r'\s*(?:\.\.\.|…)\s*', govde) if len(p.strip()) >= 12]
+        hay = src.get(dosya.strip(), allsrc)
+        if not parca or not all(p in hay or p in allsrc for p in parca): return False
+    return True
 
 S = json.load(open(HERE / 'siniflar.json', encoding='utf-8'))
 KON = {k['konu']: k for k in S['konular']}
@@ -52,7 +54,7 @@ GK = json.load(open(HERE / 'hap' / 'GK.json', encoding='utf-8'))
 def n_of(k): return KON.get(k['konu'], {'n': 0})['n']
 def sirala(sin): return sorted([k for k in konular if k['sinif'] == sin], key=lambda k: (-n_of(k), k['konu']))
 def yil_s(ys): return ', '.join(sorted(ys, key=lambda y: (y[:4], int(re.sub(r'\D', '', y.split('/')[-1]) or 0))))
-GUNCEL = re.compile(r'güncel|değişiklik|sınav tarihinde', re.I)
+GUNCEL = re.compile(r'güncel|değişiklik|sınav tarihinde|yeniden değerleme', re.I)
 def tek(s): return re.sub(r'\s+', ' ', s).strip()
 
 # ================= 1. belge: sınıflar + çıkan sorulardan hap
@@ -84,7 +86,7 @@ for s in SIRA_SIN[:3]:
         hs = sorted(k['cikmis_hap'], key=lambda h: -len(h.get('yillar', [])))
         for h in hs:
             ys = h.get('yillar', []); yildiz = '★ ' if len({y[:4] for y in ys}) > 1 else ''
-            ek = [h.get('dayanak', '')] if h.get('dayanak') else []
+            ek = [h['dayanak']] if h.get('dayanak') and not h['dayanak'].lower().startswith('kaynakta yok') else []
             ek.append(yil_s(ys))
             satir = f"- {yildiz}{tek(h['hap'])} *({' · '.join(e for e in ek if e)})*"
             if h.get('tuzak'): satir += f" — Tuzak: {tek(h['tuzak'])}"
