@@ -37,7 +37,7 @@ dict(id='D11-014', cikmis='2021/14', konu='Ekonomik inkılaplar – 1930’larda
  cek='1935’te kurulan Maden Tetkik ve Arama yer altı kaynaklarının araştırılması ihtiyacına cevap verdi; aynı yıl kurulan Etibank madencilik-enerji yatırımlarıyla ilgilidir.',
  kok=['Atatürk döneminde 1935 yılında kurulan Maden Tetkik ve Arama, aşağıdaki ihtiyaçlardan hangisine cevap vermek amacıyla kurulmuştur?'],
  d='Yer altı kaynaklarının araştırılması',
- c=['Maden ve enerji yatırımlarının yapılması', 'Sanayi yatırımlarının finanse edilmesi', 'İthal ürünlerin yurt içinde üretilmesi', 'Tarım üreticisinin vergi yükünün hafifletilmesi'],
+ c=['Maden ve enerji yatırımlarının yapılması', 'Sanayi yatırımlarının finanse edilmesi', 'İthal ürünlerin yurt içinde üretimi', 'Tarım üreticisinin vergi yükünün hafifletilmesi'],
  tuzak=False,
  g='Maden Tetkik ve Arama, 1935’te yer altı kaynaklarının araştırılması ihtiyacına cevap vermek üzere kurulmuştur. Aynı yıl kurulan Etibank madencilik ve enerjiyle ilgili yatırımları, 1933’te kurulan Sümerbank ise sanayi yatırımlarının kurulması ve finansmanını üstlenmiştir; kurumlar kuruluş yılından çok cevap verdikleri üretim veya bilgi ihtiyacıyla ayırt edilir. İthal ürünlerin yurt içinde üretilmesi Birinci Beş Yıllık Sanayi Planı’nın, üreticinin vergi yükünün hafifletilmesi ise Aşar’ın kaldırılmasının hedefidir. (MD Genel Kültür Kitabı – Tarih: 1930’larda devletçilik ve sanayi; Ekonomik bağımsızlığın temelleri)',
  kanit=K + ' | Maden Tetkik ve Arama, 1935: Yer altı kaynaklarının araştırılması. || ' + K + ' | Etibank, 1935: Madencilik ve enerjiyle ilgili yatırımlar.'),
