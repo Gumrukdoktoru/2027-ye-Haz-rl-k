@@ -1,0 +1,628 @@
+[
+ {
+  "test": 1,
+  "konu": "Transit",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/47, 2022/76, 2024/60",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "GK 85/2-6",
+  "cek": "Teminattan vazgeçme izni, Müsteşarlıkça yüksek riskli belirlenen eşyanın transit işlemlerinde uygulanmaz; 'uygulanır' bozuk.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre transit rejiminde teminata ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Güvenilir kişilere verilen teminattan vazgeçme izni, Müsteşarlıkça yüksek risk içerdiği belirlenen eşyanın transit işlemlerinde de uygulanır.",
+  "c": [
+   "Tek bir transit işlemi için bireysel teminat, Müsteşarlık tarafından izin verilmesi halinde birden fazla transit işlemi için kapsamlı teminat verilebilir.",
+   "Kapsamlı teminat kullanılmasına ilişkin izin, Kanunda sayılan diğer şartlarla birlikte yalnızca Türkiye Gümrük Bölgesinde yerleşik olan kişilere verilir.",
+   "Güvenilirlik standartlarına sahip oldukları gümrük idaresince belirlenen kişilere indirilmiş tutarda kapsamlı teminat veya teminattan vazgeçme izni verilebilir.",
+   "Müsteşarlık, büyük ölçekli kaçakçılığa konu olabilecek eşya için kapsamlı teminat uygulamasını geçici olarak kaldırmaya yetkilidir."
+  ],
+  "sabit": null,
+  "g": "Kanuna göre güvenilirlik standartlarına sahip kişilere verilebilen teminattan vazgeçme izni, Müsteşarlıkça yüksek risk içerdiği belirlenen eşyanın transit işlemlerinde uygulanmaz; ifadedeki 'de uygulanır' kısmı hükmü tersine çevirmektedir. Diğer ifadeler; tek işlem için bireysel, izin halinde birden fazla işlem için kapsamlı teminat verilebilmesi, kapsamlı teminat izninin yalnızca Türkiye Gümrük Bölgesinde yerleşik ve diğer şartları taşıyan kişilere verilmesi, güvenilir kişilere indirilmiş tutarda kapsamlı teminat veya vazgeçme izni verilebilmesi ve Müsteşarlığın büyük ölçekli kaçakçılığa konu olabilecek eşyada kapsamlı teminatı geçici olarak kaldırabilmesi hükümleriyle uyumludur. (MD GK 85/2-6)",
+  "kanit": "20-TRANSİT REJİMİ.txt | Dördüncü fıkraya göre verilen teminattan vazgeçme izni, Müsteşarlıkça yüksek risk içerdiği belirlenen eşyanın transit işlemlerinde uygulanmaz. ... b) Müsteşarlık tarafından izin verilmesi halinde, birden fazla transit işlemi için kapsamlı teminat, ... İkinci fıkranın (b) bendinde belirtilen izin sadece; ... Güvenilirlik standartlarına sahip oldukları gümrük idaresince belirlenen kişilere indirilmiş tutarda kapsamlı teminat veya teminattan vazgeçme izni verilebilir. ... b) Büyük ölçekli kaçakçılığa konu olabilecek eşya için kapsamlı teminat uygulamasını,"
+ },
+ {
+  "test": 1,
+  "konu": "Transit",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2024/92, 2025/75",
+  "alt_tip": "D6",
+  "kalip": "SONUÇ",
+  "z": "Z",
+  "madde": "GY 238/1, 238/3, 238/4; GK 84/4",
+  "cek": "Boru hattıyla transitte rejim, eşyanın gönderildiği kişinin işletmesine ulaşıp kayıtlarına geçmesiyle son bulur.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre boru hattı ile yapılan transit taşımada transit rejimi ne zaman son bulur?"
+  ],
+  "d": "Eşyanın gönderildiği kişinin işletmesine ulaşıp kayıtlarına geçmesiyle",
+  "c": [
+   "Eşya ve gerekli belgelerin varış gümrük idaresine sunulmasıyla",
+   "Hareket ve varış gümrük idarelerindeki bilgi ve belgelerin karşılaştırılmasıyla",
+   "Türkiye Gümrük Bölgesinde bulunan eşyanın boru hattına girişiyle",
+   "Taşımayı yapan işletmenin muhasebe kayıtlarını gümrük idaresinin denetimine sunmasıyla"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre boru hattı ile transit taşımada transit rejimi, genel kuraldan (eşya ve belgelerin varış gümrük idaresine sunulması) farklı olarak, eşyanın gönderildiği kişinin işletmesine ulaşıp kayıtlarına geçmesiyle son bulur. Türkiye Gümrük Bölgesindeki eşyanın boru hattına girişi, transit hükümlerinin uygulanmaya başladığı andır; bilgi ve belgelerin karşılaştırılması rejimin ibrasına ilişkindir; muhasebe kayıtları ise taşıyan ve eşyanın gönderildiği işletmelerin eksiksiz tutup her an denetime hazır bulundurmak zorunda olduğu kayıtlardır. (MD GY 238/1, 238/3, 238/4; GK 84/4)",
+  "kanit": "20-TRANSİT REJİMİ.txt | Boru hattı ile transit taşımada, transit rejimi, eşyanın gönderildiği kişinin işletmesine ulaşıp kayıtlarına geçmesiyle son bulur. ... b) Türkiye Gümrük Bölgesinde bulunan eşyanın boru hattına girişinde, ... Boru hattı taşımacılığında, taşımayı yapan işletme ve eşyanın gönderildiği işletme, bu eşyaya ilişkin muhasebe kayıtlarını eksiksiz tutmak ... rejimi düzenleyen hükümlere uygun olarak varış gümrük idaresine sunulduğunda, transit rejimi sona erer."
+ },
+ {
+  "test": 1,
+  "konu": "Transit",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2022/75",
+  "alt_tip": "D2",
+  "kalip": "YETKİ",
+  "z": "O",
+  "madde": "GY 218/1, 218/3",
+  "cek": "Form 302 kapsamındaki transit işlemlerinde doğabilecek ihtilaflar Bakanlıkça (Gümrükler Genel Müdürlüğü) sonuçlandırılır.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre Kuvvetlerin Statüsü Hakkında Kuzey Atlantik Antlaşmasına Taraf Devletler Arasındaki Sözleşmede öngörülen Form 302 kapsamında yapılacak transit işlemlerinde doğabilecek ihtilafları sonuçlandırmaya yetkili makam aşağıdakilerden hangisidir?"
+  ],
+  "d": "Bakanlık (Gümrükler Genel Müdürlüğü)",
+  "c": [
+   "Hareket gümrük idaresi",
+   "Varış gümrük idaresi",
+   "Gümrük ve dış ticaret bölge müdürlüğü",
+   "Gümrükler Muhafaza Genel Müdürlüğü"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre NATO Kuvvetler Statüsü Sözleşmesi kapsamı eşyanın Türkiye Gümrük Bölgesinde transiti, Form 302 ibraz edilmesi halinde bu belge kapsamında yapılır ve bu işlemlerde doğabilecek ihtilaflar Bakanlıkça (Gümrükler Genel Müdürlüğü) sonuçlandırılır. Hareket ve varış gümrük idareleri transit işlemini yürüten idarelerdir; gümrük ve dış ticaret bölge müdürlükleri ise transitte kapsamlı teminat izni vermek için yetkilendirilebilen birimlerdir. Form 302 ihtilaflarını sonuçlandırma yetkisi bunlara verilmemiştir. (MD GY 218/1, 218/3; GY 231/1)",
+  "kanit": "20-TRANSİT REJİMİ.txt | Form 302 kapsamında yapılacak transit işlemlerinde doğabilecek ihtilaflar Bakanlıkça (Gümrükler Genel Müdürlüğü) sonuçlandırılır. ... bu sözleşmede yer alan Form 302 ibraz edilmesi halinde, bu belge kapsamında yapılır. ... Gümrük ve dış ticaret bölge müdürlükleri kapsamlı teminat izni vermek için yetkilendirilebilir."
+ },
+ {
+  "test": 1,
+  "konu": "Antrepo",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/23, 2021/54",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "GK 96, 97/2, 99, 106/2",
+  "cek": "Gümrüklenmiş kıymetle sigortalı eşyada noksanın vergisi sigorta ettirenden veya lehine sigorta ettirilenden alınır; işleticiden alınacağı ifadesi yanlış.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre antrepo işleticisi ve kullanıcısının sorumluluklarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri antrepo işleticisinden alınır.",
+  "c": [
+   "Antrepo işleticisi, izinde belirtilen özel şartlara uymaktan sorumludur.",
+   "Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur.",
+   "Gümrük idareleri tarafından işletilmeyen antrepolardaki tüm eşyanın antrepo kayıtları işletici tarafından tutulur.",
+   "Eşyanın niteliğinden kaynaklanan kayıplar ve fireler için gümrük vergileri aranmaz."
+  ],
+  "sabit": null,
+  "g": "Kanuna göre antrepodaki eşya gümrüklenmiş kıymeti üzerinden sigorta ettirilmişse noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır; vergilerin işleticiden alınacağı ifadesi yanlıştır. İşleticinin izinde belirtilen özel şartlara uyma sorumluluğu, kullanıcının rejime ilişkin yükümlülüklerden her halükarda sorumlu olması, gümrük idarelerince işletilmeyen antrepolarda kayıtların işletici tarafından tutulması ve eşyanın niteliğinden kaynaklanan kayıp ve firelerde vergi aranmaması Kanunda yer alan hükümlerdir. (MD GK 96, 97/2, 99, 106/2)",
+  "kanit": "28-antrepo rejimi.txt | Eşya, gümrüklenmiş kıymeti üzerinden sigorta ettirilmiş ise noksan çıkan eşyanın vergileri sigorta ettirenden veya lehine sigorta ettirilenden alınır. ... c) İzinde belirtilen özel şartlara uymaktan, ... Kullanıcı, eşyanın antrepo rejimine tabi tutulmasına ilişkin yükümlülüklerini yerine getirmekten her halükarda sorumludur. ... Gümrük idareleri tarafından işletilmeyen antrepolardaki tüm eşyanın antrepo kayıtları işletici tarafından tutulur. ... Eşyanın niteliğinden kaynaklanan kayıplar ve fireler ile"
+ },
+ {
+  "test": 1,
+  "konu": "Geçici Depolama/GOBİK",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/36, 2022/32, 2023/39",
+  "alt_tip": "G1",
+  "kalip": "DOĞRU",
+  "z": "Z",
+  "madde": "GY 77/2, 77/4, 79/2, 86/3",
+  "cek": "Transitle gelen serbest dolaşımda olmayan eşyada geçici depolama süreleri, eşyanın varış gümrük idaresine sunulduğu tarihten başlar.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre geçici depolanan eşyaya ilişkin sürelerle ilgili aşağıdaki ifadelerden hangisi doğrudur?"
+  ],
+  "d": "Transit rejimine tabi tutularak taşınan serbest dolaşımda olmayan eşya için süreler, eşyanın varış gümrük idaresine sunulduğu tarihten itibaren başlar.",
+  "c": [
+   "Özet beyanın eşyanın gümrüğe sunulmasından önce verildiği hallerde süreler, özet beyanın verildiği tarihten itibaren başlar.",
+   "Deniz veya hava taşıtının birden fazla limana uğradığı hallerde süreler, taşıtın Türkiye Gümrük Bölgesinde uğradığı ilk limana girişine ilişkin kayıt tarihinden itibaren başlar.",
+   "Kara hudut kapılarında taşıtlar bakımından süreler, taşıta ilişkin gümrük beyannamesinin tescil tarihinden itibaren işler.",
+   "Yolcu eşyası ambarlarında yolcu eşyası için öngörülen üç aylık süre, ancak mücbir sebep belgesi ibraz edilmesi halinde uzatılabilir."
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre transit rejimiyle taşınan serbest dolaşımda olmayan eşya varış gümrük idaresine getirilip sunulduğunda, Kanunda öngörülen süreler eşyanın varış gümrük idaresine sunulduğu tarihten itibaren başlar. Özet beyan eşyanın sunulmasından önce verilmişse süreler özet beyan tarihinden değil eşyanın gümrüğe sunulduğu tarihten; birden fazla limana uğrayan deniz veya hava taşıtlarında ilk limandan değil eşyanın boşaltılacağı gümrük idaresine girişe ilişkin kayıt tarihinden; kara hudut kapılarında taşıtlar için gümrüklü sahaya giriş tarihinden başlar. Yolcu eşyası ambarlarındaki üç aylık süre ise talep halinde mücbir sebep belgesi aranmaksızın üç aya kadar uzatılabilir. (MD GY 77/2, 77/4, 79/2, 86/3)",
+  "kanit": "29-iŞLETİCİLER.txt | Bu eşya için varış gümrük idaresine taşınma şekline göre belirlenecek olan Kanunun 46 ncı maddesinde belirtilen süreler, eşyanın varış gümrük idaresine sunulduğu tarihten itibaren başlar ... Özet beyanın eşyanın gümrüğe sunulmasından önce verildiği hallerde, Kanunun 46 ncı maddesinde belirtilen süreler eşyanın gümrüğe sunulduğu tarihten itibaren başlar. ... taşıt aracının eşyanın boşaltılacağı gümrük idaresine girişine ilişkin gümrük veya gümrük muhafaza yetkililerince tutulan kayıt tarihinden itibaren başlar. ... Kara hudut kapılarında, gümrüklü sahaya giriş tarihinden itibaren ... Bu süre, talep halinde mücbir sebep belgesi aranmaksızın ilgili gümrük müdürlüğünce üç aya kadar uzatılabilir."
+ },
+ {
+  "test": 1,
+  "konu": "Geçici Depolama/GOBİK",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "O",
+  "madde": "GY 87/1-2",
+  "cek": "Numune alınması/inceleme talebinde başvuru sahibi, eşyanın yeri, önceki beyan ve tanımlayıcı bilgiler yer alır; gümrük kıymeti ve vergi tutarı sayılmamıştır.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasından önce eşyadan numune alınması veya eşyanın incelenmesi için yapılacak talepte yer alması gereken bilgiler arasında aşağıdakilerden hangisi sayılmamıştır?"
+  ],
+  "d": "Eşyanın gümrük kıymeti ve ödenecek vergi tutarı",
+  "c": [
+   "Başvuru sahibinin adı ve adresi",
+   "Eşyanın bulunduğu yer",
+   "Özet beyan, önceki gümrük rejimine ilişkin beyanname veya taşıma şekli bilgilerinden biri",
+   "Eşyanın tanımlanması için gerekli diğer bilgiler"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre gümrük idareleri, eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasından önce ilgili ve yetkili kişilerin talebi üzerine eşyadan numune alınmasına veya eşyanın incelenmesine izin verebilir. Elektronik yolla yapılan talepte başvuru sahibinin adı ve adresi, eşyanın bulunduğu yer, önceki beyana ilişkin bilgilerden biri (özet beyan, önceki gümrük rejimine ilişkin beyanname veya taşıma şekli) ve eşyanın tanımlanması için gerekli diğer bilgiler yer alır. Eşyanın gümrük kıymeti ve ödenecek vergi tutarı bu bilgiler arasında sayılmamıştır. (MD GY 87/1-2)",
+  "kanit": "29-iŞLETİCİLER.txt | Talep, elektronik yolla yapılır. İlgili ve yetkili kişilerce imzalanır ve gümrük idaresine verilir. Talep, aşağıdaki bilgileri içerir: ... a) Başvuru sahibinin adı ve adresi, ... c) Önceki beyana ilişkin aşağıdaki bilgilerden biri, ... ç) Eşyanın tanımlanması için gerekli diğer bilgiler. ... eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasından önce ilgili ve yetkili kişilerin talebi üzerine eşyadan numune alınmasına veya eşyanın incelenmesine izin verebilir."
+ },
+ {
+  "test": 1,
+  "konu": "TIR",
+  "sinif": "AZ",
+  "tur": "cikmis_alani",
+  "cikmis": "2022/73",
+  "alt_tip": "D1",
+  "kalip": "SÜRE",
+  "z": "O",
+  "madde": "TIR Tebliği (Seri No: 1) md. 3/1-u, 16/1, 16/4",
+  "cek": "Taşıt onay belgesinin süresi yurt dışında biterse düzenleyen idarece bir defaya mahsus otuz gün ek süre verilir.",
+  "kok": [
+   "Gümrük Genel Tebliği (TIR İşlemleri) (Seri No: 1)'e göre taşıt onay belgesinin süresinin yurt dışında sona ermesi halinde, belgeyi düzenleyen gümrük idaresine yazılı olarak başvurulması üzerine verilecek ek süre aşağıdakilerden hangisinde doğru olarak verilmiştir?"
+  ],
+  "d": "Bir defaya mahsus olmak üzere otuz gün",
+  "c": [
+   "Bir defaya mahsus olmak üzere altmış gün",
+   "Bir defaya mahsus olmak üzere doksan gün",
+   "Üç defaya kadar otuzar gün",
+   "Üç defaya kadar altmışar gün"
+  ],
+  "sabit": {
+   "siklar": [
+    "Bir defaya mahsus olmak üzere otuz gün",
+    "Bir defaya mahsus olmak üzere altmış gün",
+    "Bir defaya mahsus olmak üzere doksan gün",
+    "Üç defaya kadar otuzar gün",
+    "Üç defaya kadar altmışar gün"
+   ],
+   "dogru": "A"
+  },
+  "g": "Tebliğe göre taşıt onay belgesinin süresi yurt dışında sona ererse belgeyi düzenleyen gümrük idaresine yazılı olarak başvurulur; gümrük idaresi firma dosyasını inceleyerek ETOBS üzerinden bir defaya mahsus olmak üzere otuz gün ek süre verir. Tuzak 'üç defa' ifadesidir: taşıt onay belgesinin en fazla üç defa yenilenebilmesi ayrı bir hükümdür. Belgenin kendisi ise üç yıl süreyle geçerli olmak üzere düzenlenir. (MD TIR Tebliği (Seri No: 1) md. 3/1-u, 16/1, 16/4)",
+  "kanit": "21-TIR SÖZLEŞMESİ.txt | Taşıt onay belgesi süresinin yurtdışında sona ermesi halinde, taşıt onay belgesini düzenleyen gümrük idaresine yazılı olarak başvurulur. Gümrük idaresi tarafından firma dosyası incelenerek bir defaya mahsus olmak üzere ETOBS üzerinden otuz gün ek süre verilir ... Taşıt onay belgesi en fazla üç defa yenilenebilir. ... üç yıl süreyle geçerli olmak üzere"
+ },
+ {
+  "test": 2,
+  "konu": "Transit",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2025/74, 2021/28",
+  "alt_tip": "K1",
+  "kalip": "KAVRAM",
+  "z": "K",
+  "madde": "GY 212/2-d, f; GK 86/2",
+  "cek": "Transit beyanında bulunan veya hesabına beyanda bulunulan ve gümrüğe karşı mali sorumlu kişi rejim hak sahibidir (asıl sorumlu).",
+  "kok": [
+   "Gümrük Yönetmeliğine göre transit rejiminde; transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişiyi ifade eden kavram aşağıdakilerden hangisidir?"
+  ],
+  "d": "Rejim hak sahibi (asıl sorumlu)",
+  "c": [
+   "Kefil",
+   "Taşıyıcı",
+   "Alıcı",
+   "Gönderici"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğinin transit rejimine ilişkin tanımlarına göre rejim hak sahibi (asıl sorumlu); transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişidir. Kefil, teminat tutarına kadar doğabilecek gümrük vergileri ve diğer yükleri rejim hak sahibi ile birlikte müştereken ve müteselsilen ödemeyi yazılı olarak üstlenen üçüncü kişidir. Eşyanın transit rejimine göre taşındığını bilerek kabul eden taşıyıcı veya alıcının eşyayı varış idaresine sunma yükümlülüğü ise asıl sorumlunun yükümlülükleri saklı kalmak üzere öngörülmüştür. (MD GY 212/2-d, f; GK 86/2)",
+  "kanit": "20-TRANSİT REJİMİ.txt | f) Rejim hak sahibi (asıl sorumlu): Transit rejimi beyanında bulunan veya hesabına transit rejimi beyanında bulunulan ve transit rejimi kapsamında gümrük idaresine karşı mali olarak sorumlu olan kişiyi, ... d) Kefil: Teminat tutarına kadar doğabilecek gümrük vergileri ve diğer yükleri rejim hak sahibi ile birlikte müştereken ve müteselsilen ödemeyi yazılı olarak üstlenen gerçek veya tüzel üçüncü kişiyi, ... Asıl sorumlunun birinci fıkrada belirtilen yükümlülükleri saklı kalmak üzere, transit rejimine göre taşındığını bilerek eşyayı kabul eden taşıyıcı veya alıcı da"
+ },
+ {
+  "test": 2,
+  "konu": "Transit",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "ŞART",
+  "z": "Z",
+  "madde": "GY 230/1; GY 237/1",
+  "cek": "Transit basitleştirme izinlerinde genel şart yalnızca yerleşik olmaktır; 'en az iki yıldır yerleşik' ve başkası adına hareket etmeme havayolu usulüne özgüdür.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre transit rejiminde basitleştirme izinlerinin verilebilmesi için başvuru sahibinde aranan genel şartlar arasında aşağıdakilerden hangisi yer almaz?"
+  ],
+  "d": "Türkiye Gümrük Bölgesinde en az iki yıldır yerleşik olması ve başkası adına ve namına hareket etmemesi",
+  "c": [
+   "Son bir yıl içinde işlem gören beyanname sayısının %2'sini aşan sayıda vergi kaybına neden olan gümrük mevzuatı ihlali nedeniyle ceza uygulanmamış olması",
+   "Son bir yıl içinde işlem gören beyanname sayısının %5'ini aşan sayıda gümrük mevzuatı ihlali nedeniyle usulsüzlük cezası uygulanmamış olması",
+   "Gümrük ve vergi mevzuatları uyarınca ödenmemiş herhangi bir vergi, ceza ve gecikme faizi bulunmaması",
+   "Son bir yıl içinde en az 500 transit beyannamesi kapsamı eşyayı transit etmesi veya ilgili basitleştirilmiş usul kapsamındaki yükümlülüklerini yerine getirebileceğini belgelemesi"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre transit basitleştirme izinlerinde başvuru sahibinde Türkiye Gümrük Bölgesinde yerleşik olmak; başvurunun kayda alındığı ayın ilk gününden geriye dönük son bir yılda beyanname sayısının %2'sini aşan sayıda vergi kaybına neden olan ihlal ve %5'ini aşan sayıda usulsüzlük cezası bulunmaması; ödenmemiş vergi, ceza ve gecikme faizi bulunmaması; sayılan suçlardan kesinleşmiş ceza veya mahkûmiyet bulunmaması ile son bir yılda en az 500 transit beyannamesi kapsamı eşyayı transit etmiş olmak veya yükümlülüklerini yerine getirebileceğini belgelemek şartları aranır. Yerleşikliğin 'en az iki yıldır' olması ve başkası adına ve namına hareket etmeme şartı genel şart değildir; havayolu ile basitleştirilmiş usulde taşıma izni başvurusuna özgüdür. (MD GY 230/1; GY 237/1)",
+  "kanit": "20-TRANSİT REJİMİ.txt | a) Türkiye Gümrük Bölgesinde yerleşik olmak, ... beyanname sayısının % 2'sini aşan sayıda vergi kaybına neden olan gümrük mevzuatı ihlali nedeniyle ceza uygulanmamış olması, ... beyanname sayısının % 5'ini aşan sayıda gümrük mevzuatının ihlali nedeniyle usulsüzlük cezası uygulanmamış olması, ... Gümrük ve vergi mevzuatları uyarınca ödenmemiş herhangi bir vergi, ceza ve gecikme faizi bulunmaması. ... en az 500 transit beyannamesi (TIR Karnesi dâhil) kapsamı eşyayı transit etmesi ... başvuru sahibinin Türkiye Gümrük Bölgesinde en az iki yıldır yerleşik olması, başkası adına ve namına hareket etmemesi"
+ },
+ {
+  "test": 2,
+  "konu": "Antrepo",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/85, 2024/63",
+  "alt_tip": "Ö3",
+  "kalip": "ÖNERMELİ",
+  "z": "ÇZ",
+  "madde": "GY 338/2-b, c",
+  "cek": "Basitleştirilmiş usulde ticari veya idari belge ile beyan B ve F tipi hariç tüm antrepo tiplerinde uygulanır; A ve D tipinde uygulanabilir.",
+  "kok": [
+   "I. A tipi antrepo",
+   "II. B tipi antrepo",
+   "III. D tipi antrepo",
+   "IV. F tipi antrepo",
+   "Gümrük Yönetmeliğine göre basitleştirilmiş usul izni bulunması halinde, gümrük idaresince kabul edilen ticari veya idari belge ile beyan yukarıdaki antrepo tiplerinden hangilerinde uygulanabilir?"
+  ],
+  "d": "I ve III",
+  "c": [
+   "I ve II",
+   "II ve IV",
+   "III ve IV",
+   "I, II ve III"
+  ],
+  "sabit": {
+   "siklar": [
+    "I ve II",
+    "I ve III",
+    "II ve IV",
+    "III ve IV",
+    "I, II ve III"
+   ],
+   "dogru": "B"
+  },
+  "g": "Gümrük Yönetmeliğine göre basitleştirilmiş usul izni bulunması halinde gümrük idaresince kabul edilen ticari veya idari belge ile beyan, her işlem ve kullanımla birlikte B ve F tipi antrepolar hariç tüm antrepo tipleri için uygulanır; bu nedenle A ve D tipi antrepolarda uygulanabilir, B ve F tipinde uygulanamaz. Tuzak, kayıt yoluyla beyanla karıştırmaktır: kayıt yoluyla beyanda yalnız F tipi antrepo hariç tutulmuştur. (MD GY 338/2-b, c)",
+  "kanit": "28-antrepo rejimi.txt | b) Gümrük idaresince kabul edilen ticari veya idari belge ile beyan; her işlem ve kullanımla birlikte, B ve F tipi antrepo hariç tüm antrepo tipleri için, ... c) Kayıt yoluyla beyan, her işlem ve kullanımla birlikte, F tipi antrepo hariç diğer antrepo tipleri için,"
+ },
+ {
+  "test": 2,
+  "konu": "Antrepo",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "O",
+  "madde": "GY 331/1; GY 330/3",
+  "cek": "Bölge müdürlüğü izniyle antrepoya konulabilecek eşya listesinde parlayıcı-patlayıcı eşya yoktur; bunun özel düzenekli antrepoya konulması zorunludur.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi gümrük ve ticaret bölge müdürlüklerinin izni ile gümrük antrepolarına konulabilecek eşya arasında yer almaz?"
+  ],
+  "d": "Parlayıcı, patlayıcı, yanıcı ve yanmayı artırıcı eşya",
+  "c": [
+   "Türkiye'ye girmesi veya Türkiye'den transit geçirilmesi yasak olan yabancı ülke eşyası",
+   "Üzerlerinde veya ambalajlarında üretildiği ülkeden başka bir ülke ürünü olduğu izlenimini veren isim ve simgeler taşıyan eşya",
+   "Marka, coğrafi işaret veya endüstriyel tasarım haklarıyla ilgili olarak hak sahibinin yetkilerine tecavüz eder mahiyetteki eşya",
+   "Geçici depolama yerlerinde gümrüğe terk edilen eşya"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre gümrük ve ticaret bölge müdürlüklerinin izni ile antrepolara konulabilecek eşya; Türkiye'ye girmesi veya transit geçirilmesi yasak yabancı ülke eşyası, başka ülke ürünü izlenimi veren isim ve simgeler taşıyan eşya, yabancı menşe izlenimi verecek boş zarf, etiket ve benzerleri, fikri ve sınai mülkiyet haklarına tecavüz eden eşya ile geçici depolama yerlerinde kanuni süresini doldurduğu için tasfiyesi gereken, gümrüğe terk edilen veya yoklamada fazla çıkan eşyadır. Parlayıcı, patlayıcı, yanıcı ve yanmayı artırıcı eşya bölge müdürlüğü iznine bağlanmamış; niteliklerine uygun özel düzenek ve yapılara sahip genel veya özel antrepolara konulması zorunlu tutulmuştur. (MD GY 331/1; GY 330/3)",
+  "kanit": "28-antrepo rejimi.txt | Aşağıda yazılı eşya gümrük ve ticaret bölge müdürlüklerinin izni ile gümrük antrepolarına konulabilir: ... a) Türkiye'ye girmesi veya Türkiye'den transit geçirilmesi yasak olan yabancı ülke eşyası, ... marka, coğrafi işaret, endüstriyel tasarım hakları ile fikir ve sanat eserleri kanunu kapsamına giren haklarla ilgili olarak hak sahibinin yetkilerine tecavüz eder mahiyetteki eşya, ... sahipleri tarafından geçici depolama yerlerinde gümrüğe terk edilen veya geçici depolama yerlerinde yapılan yoklamalar sonunda fazla çıkan eşya. ... niteliklerine ve yapılacak faaliyetin özelliklerine uygun özel düzenek ve yapılara sahip genel veya özel antrepolara konulması zorunludur. ... a) Parlayıcı, patlayıcı, yanıcı ve yanmayı artırıcı eşya,"
+ },
+ {
+  "test": 2,
+  "konu": "Geçici Depolama/GOBİK",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D1",
+  "kalip": "ORAN-TUTAR",
+  "z": "K",
+  "madde": "GY 98/1, 98/3",
+  "cek": "Beyandan önce hasar görüp tehlike arz eden eşyanın re'sen imhasına en az üç kişilik komisyon karar verir.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre gümrüğe sunulan ve gümrük beyanında bulunulmadan önce kaza sonucu hasara uğrayarak bir arada bulunduğu eşya veya çevreye zarar verir hale gelen ya da tehlike arz eden eşyanın re'sen imhası, gümrük idare amiri veya görevlendireceği amir veya memur başkanlığında en az kaç kişiden oluşan bir komisyon tarafından karara bağlanır?"
+  ],
+  "d": "3",
+  "c": [
+   "2",
+   "4",
+   "5",
+   "6"
+  ],
+  "sabit": {
+   "siklar": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "dogru": "B"
+  },
+  "g": "Gümrük Yönetmeliğine göre gümrüğe sunulan eşya beyandan önce kaza sonucu veya elde olmayan nedenlerle hasara uğrayıp bir arada bulunduğu eşya veya çevreye zarar verir hale gelirse ya da tehlike arz ederse gümrük idaresi bu eşyayı sahibine haber vermeden re'sen imha ettirebilir. İmha, gümrük idare amiri veya görevlendireceği amir veya memur başkanlığında en az üç kişiden oluşan bir komisyon tarafından karara bağlanır ve sonuçlandırılır; imha masrafları eşya sahibinden tahsil edilir. (MD GY 98/1, 98/3)",
+  "kanit": "29-iŞLETİCİLER.txt | Eşyanın yukarıda belirtildiği şekilde imhası gümrük idare amiri veya görevlendireceği amir veya memur başkanlığında en az üç kişiden oluşan bir komisyon tarafından karara bağlanır ... gümrük idaresi bu eşyayı sahibine veya gümrük beyanında bulunacak kişiye haber vermeden re'sen imha ettirebilir."
+ },
+ {
+  "test": 2,
+  "konu": "Taşıtların Giriş-Çıkışı ve Fazla Çalışma",
+  "sinif": "HİÇ",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "B1",
+  "kalip": "BOŞLUK",
+  "z": "O",
+  "madde": "2009/15481 Karar md. 122/3-4, 125/1",
+  "cek": "Fazla çalışma süresi personel başına normal günlerde yedi, hafta tatili ve bayram/genel tatil günlerinde on dört saati geçemez.",
+  "kok": [
+   "2009/15481 sayılı \"4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar\"a göre fazla çalışma süresi, görevli personel başına normal günlerde ----- ; hafta tatili, ulusal ve dini bayramlar ile genel tatil günlerinde ----- saati geçemez.",
+   "Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?"
+  ],
+  "d": "7 / 14",
+  "c": [
+   "5 / 10",
+   "7 / 12",
+   "8 / 14",
+   "8 / 16"
+  ],
+  "sabit": {
+   "siklar": [
+    "5 / 10",
+    "7 / 12",
+    "7 / 14",
+    "8 / 14",
+    "8 / 16"
+   ],
+   "dogru": "C"
+  },
+  "g": "Karara göre fazla çalışma süresi, görevli personel başına normal günlerde yedi; hafta tatili, ulusal ve dini bayramlar ile genel tatil günlerinde on dört saati geçemez. Ayrıca hafta içi ve hafta sonu uygulanan fazla çalışma saat ücreti arasında ayrım yapılmaz; yolcular ile yolcuların kişisel kullanımına mahsus ve yolcu taşımacılığı yapan taşıtlardan fazla çalışma ücreti tahsil edilmez. (MD 2009/15481 sayılı Karar md. 122/3-4, 125/1)",
+  "kanit": "13-TAŞITLAR.txt | Fazla çalışma süresi, görevli personel başına normal günlerde yedi; hafta tatili, ulusal ve dini bayramlar ile genel tatil günlerinde ondört saati geçemez. ... Hafta içi uygulanan fazla çalışma saat ücreti ile hafta sonu uygulanan fazla çalışma saat ücreti arasında ayırım yapılmaz. ... Yolcular ile yolcuların kişisel kullanımına mahsus ve yolcu taşımacılığı yapan taşıtlardan fazla çalışma ücreti tahsil edilmez."
+ },
+ {
+  "test": 3,
+  "konu": "Transit",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2024/57",
+  "alt_tip": "Ö1",
+  "kalip": "ÖNERMELİ",
+  "z": "ÇZ",
+  "madde": "GY 239/1-b, 239/2-a, 241/1, 241/5",
+  "cek": "Üç gün içinde ödemede ilave belge aranmadan ibra ve fazla eşyanın GDY/antrepoya alınması doğru; Ek-11 oranında takibat yapılmaz, cins uygunluğu 6'lı alt pozisyondur.",
+  "kok": [
+   "I. Ulusal transit rejiminde varış gümrük idaresinde eksik çıkan eşyaya ilişkin gümrük vergileri ve diğer yükler ile eşyanın gümrük vergilerinin iki katı idari para cezası varış bildirimini müteakip üç gün içinde ödenirse, hareket gümrük idaresince ilave bilgi ve belge aranmaksızın rejim ibra edilir.",
+   "II. Ulusal transit rejiminde varış gümrük idaresinde beyana göre fazla çıkan eşya geçici depolama yeri veya antrepoya alınır; talep edilmesi halinde beyana konu diğer eşyanın gümrük işlemlerine devam edilir.",
+   "III. Eksiklik veya fazlalığın eşyanın tabiatı icabı Ek-11'de yer alan oranlarda olduğunun anlaşılması halinde, takibat eksiklik veya fazlalığın tamamı üzerinden yapılır.",
+   "IV. Beyana aykırılık hükümlerinin uygulanmasında \"beyanda belirtilen cinsine uygun\" ifadesinden, beyan edilen eşya ile tespit edilen eşyanın 4'lü tarife pozisyonunun aynı olması anlaşılır.",
+   "Gümrük Yönetmeliğine göre transit rejiminde serbest dolaşımda olmayan eşyada beyana aykırılığa ilişkin yukarıdaki ifadelerden hangileri doğrudur?"
+  ],
+  "d": "I ve II",
+  "c": [
+   "Yalnız I",
+   "Yalnız II",
+   "I ve IV",
+   "II, III ve IV"
+  ],
+  "sabit": {
+   "siklar": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "I ve IV",
+    "II, III ve IV"
+   ],
+   "dogru": "C"
+  },
+  "g": "Gümrük Yönetmeliğine göre ulusal transitte eksik çıkan eşyaya ilişkin vergiler ve gümrük vergilerinin iki katı idari para cezası varış bildirimini müteakip üç gün içinde ödenirse hareket gümrük idaresince ilave bilgi ve belge aranmaksızın rejim ibra edilir (I doğru); fazla çıkan eşya geçici depolama yeri veya antrepoya alınır ve talep halinde beyana konu diğer eşyanın işlemlerine devam edilir (II doğru). Eksiklik veya fazlalık eşyanın tabiatı icabı Ek-11'deki oranlarda ise takibat yapılmaz, işlemler tespit edilen miktar üzerinden sonuçlandırılır; takibat gereken hallerde de yalnız oranları aşan kısım esas alınır (III yanlış). 'Beyanda belirtilen cinsine uygun' ifadesi 4'lü pozisyonun değil, 6'lı tarife alt pozisyonunun aynı olmasını ifade eder (IV yanlış). (MD GY 239/1-b, 239/2-a, 241/1, 241/5)",
+  "kanit": "20-TRANSİT REJİMİ.txt | bunların varış bildirimini müteakip üç gün içinde ödenmesi halinde ... hareket gümrük idaresince ilave bilgi ve belge aranmaksızın rejim ibra edilir. ... Fazla çıkan eşya geçici depolama yeri veya antrepoya alınır; talep edilmesi halinde, beyana konu diğer eşyanın gümrük işlemlerine devam edilir. ... eksiklik veya fazlalık takibatı yapılmayarak işlemler varış gümrük idaresince tespit edilen miktar üzerinden sonuçlandırılır. ... beyan edilen eşya ile tespit edilen eşyanın 6'lı tarife alt pozisyonunun aynı olması durumu anlaşılır."
+ },
+ {
+  "test": 3,
+  "konu": "Transit",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "GK 88/1, 90, 91, 92/1",
+  "cek": "Karasularından geçen şüpheli transit gemilerine ilişkin önlemler gemilerin Türkiye karasularından çıkışı üzerine kaldırılır; ilk Türk limanı ölçütü yanlış.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre transit eşyasının sevki ve taşınması sırasında alınacak önlemlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Türkiye karasularından geçen ve hakkında ihbar bulunan transit eşya yüklü gemiler için alınan mühürleme ve memur eşliği gibi önlemler, geminin ilk Türk limanına ulaşması üzerine kaldırılır.",
+  "c": [
+   "Transit rejimine tabi eşya, şüphe veya ihbar durumları hariç olmak üzere, varış gümrük idaresine kadar muayene edilmeksizin ve gerektiğinde mühür altına alınarak veya memur eşliğinde sevk edilir.",
+   "Türkiye karasularından geçen ve hakkında ihbar bulunan veya şüphe edilen transit eşya yüklü gemilere memur eşlik ettirilebilir veya gemiler seyir halinde iken dış gözetim altında tutulabilir.",
+   "Karayolu ile transit eşya taşıyan taşıtların transit süreleri, izleyecekleri yollar, kontrol noktaları ve konaklama yerleri ile ilgili olarak düzenlemeler yapmaya Müsteşarlık yetkilidir.",
+   "Transit eşya taşıyan seyir halindeki bir taşıtın beklenmeyen haller veya mücbir sebeplerle yoluna devam edemediği durumlarda bu husus gecikmeksizin en yakın gümrük idaresine bildirilir."
+  ],
+  "sabit": null,
+  "g": "Kanuna göre Türkiye karasularından geçen ve hakkında ihbar bulunan veya şüphe edilen transit eşya yüklü gemilerin ambar kapakları mühür altına alınabilir, gemiye memur eşlik ettirilebilir veya gemi seyir halindeyken dış gözetim altında tutulabilir; bu önlemler gemilerin Türkiye karasularından çıkışı üzerine kaldırılır. 'İlk Türk limanına ulaşma' ölçütü Kanunda yer almaz. Diğer ifadeler; şüphe veya ihbar dışında transit eşyanın varış idaresine kadar muayene edilmeksizin sevki, karayolu transitinde süre, yol, kontrol noktası ve konaklama yerlerini düzenleme yetkisinin Müsteşarlığa ait olması ve mücbir sebep hallerinde durumun gecikmeksizin en yakın gümrük idaresine bildirilmesi hükümleriyle uyumludur. (MD GK 88/1, 90, 91, 92/1)",
+  "kanit": "20-TRANSİT REJİMİ.txt | Yukarıda belirtilen önlemler, gemilerin Türkiye karasularından çıkışı üzerine kaldırılır. ... Bu gemilere memur eşlik ettirilebilir veya gemiler seyir halinde iken dış gözetim altında tutulabilir. ... Transit rejimine tabi eşya, şüphe veya ihbar durumları hariç olmak üzere, varış gümrük idaresine kadar muayene edilmeksizin ve gerektiğinde mühür altına alınarak veya memur eşliğinde sevk edilir. ... transit süreleri, izleyecekleri yollar, kontrol noktaları ve konaklama yerleri ile ilgili olarak düzenlemeler yapmaya Müsteşarlık yetkilidir. ... bu husus gecikmeksizin en yakın gümrük idaresine bildirilir."
+ },
+ {
+  "test": 3,
+  "konu": "Transit",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "Ö2",
+  "kalip": "ÖNERMELİ",
+  "z": "Z",
+  "madde": "Transit Rejimi Tebliği (Seri No: 4) md. 14/1-3",
+  "cek": "Kefil ile rejim hak sahibi aynı kişi olamaz; kefil yükümlülüğü hareket idaresinin eşyayı serbest bıraktığı tarihte başlar.",
+  "kok": [
+   "I. Kefil, Türkiye'de yerleşik, teminat mektubu vermeye yetkili banka ve finans kuruluşları olabilir.",
+   "II. Kefil ve rejim hak sahibi aynı kişi olabilir.",
+   "III. Kefilin yükümlülüğü, teminat mektubunun teminat gümrük idaresine sunulduğu tarihte başlar.",
+   "IV. Kefilin yükümlülüğü, teminat mektubunda belirtilen maksimum tutarla sınırlıdır ve para cezalarını kapsamaz.",
+   "Gümrük Genel Tebliği (Transit Rejimi) (Seri No: 4)'e göre transit işlemlerinde kefile ilişkin yukarıdaki ifadelerden hangileri yanlıştır?"
+  ],
+  "d": "II ve III",
+  "c": [
+   "Yalnız II",
+   "Yalnız III",
+   "I ve III",
+   "I ve IV"
+  ],
+  "sabit": {
+   "siklar": [
+    "Yalnız II",
+    "Yalnız III",
+    "I ve III",
+    "I ve IV",
+    "II ve III"
+   ],
+   "dogru": "E"
+  },
+  "g": "Tebliğe göre kefil, Türkiye'de yerleşik, teminat mektubu vermeye yetkili banka ve finans kuruluşları olabilir (I doğru). Kefil ve rejim hak sahibi aynı kişi olamaz; aralarında ana firma-bağlı firma ilişkisi varsa bağlı firmanın ana firmadan ayrı tüzel kişiliği olmalıdır (II yanlış). Kefilin yükümlülüğü taahhüdünün teminat gümrük idaresince kabulüne dayanır ve hareket gümrük idaresinin eşyayı bu teminat kapsamında serbest bıraktığı tarihte başlar; mektubun sunulduğu tarih esas alınmaz (III yanlış). Kefilin yükümlülüğü teminat mektubundaki maksimum tutarla sınırlıdır ve para cezalarını kapsamaz (IV doğru). (MD Transit Rejimi Tebliği (Seri No: 4) md. 14/1-3)",
+  "kanit": "23-SERİ NO 4.txt | Kefil, Türkiye'de yerleşik, teminat mektubu vermeye yetkili banka ve finans kuruluşları olabilir. ... Kefil ve rejim hak sahibi aynı kişi olamaz. ... Kefilin yükümlülüğü, taahhüdünün teminat gümrük idaresince kabul edilmesine dayanır ve hareket gümrük idaresinin eşyayı bu teminat kapsamında serbest bıraktığı tarihte başlar. Kefilin yükümlülüğü, teminat mektubunda belirtilen maksimum tutarla sınırlıdır ve para cezalarını kapsamaz."
+ },
+ {
+  "test": 3,
+  "konu": "Antrepo",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/41, 2023/62, 2022/72",
+  "alt_tip": "G1",
+  "kalip": "DOĞRU",
+  "z": "Z",
+  "madde": "GY 346/1-5",
+  "cek": "Antrepoda kalış süresine tahdit konulmuşsa, antrepolar arası nakille gelen eşyada süre ilk antrepoya giriş tarihinden hesaplanır.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre eşyanın antrepoda kalabileceği süreye ilişkin aşağıdaki ifadelerden hangisi doğrudur?"
+  ],
+  "d": "Süre konusunda tahdit konulmuşsa, antrepolar arası nakille başka bir antrepodan gelen eşyada bu süre ilk antrepoya giriş tarihinden itibaren hesaplanır.",
+  "c": [
+   "Eşyanın antrepo rejimi altında kalış süresi, antrepoya alındığı tarihten itibaren bir yıldır.",
+   "Antrepodaki eşya için gümrükçe onaylanmış başka bir işlem veya kullanım yönünde beyanname tescil ettirilmesi halinde işlemlerin kırk beş gün içinde bitirilmesi gerekir.",
+   "Beyannamenin tescilinden itibaren öngörülen süre içinde işlemleri bitirilmeyen antrepodaki eşya, en yakın geçici depolama yerine gönderilir.",
+   "Süre konusunda tahdit konulmuşsa bu süre, eşyaya ilişkin antrepo beyannamesinin tescil tarihinden itibaren hesaplanır."
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre eşyanın antrepo rejimi altında kalış süresi sınırsızdır; Müsteşarlık bozulabilecek eşya dahil kalış süresi konusunda belirleme yapabilir. Süre konusunda tahdit konulmuşsa süre, eşyanın antrepoya alındığı tarihten; antrepolar arası nakille başka bir antrepodan gelen eşyada ise ilk antrepoya giriş tarihinden hesaplanır, beyannamenin tescil tarihi esas alınmaz. Antrepodaki eşya için gümrükçe onaylanmış başka bir işlem veya kullanım yönünde beyanname tescil ettirilirse işlemler otuz gün içinde bitirilmelidir; bu sürede bitirilmeyen eşya geçici depolama yerine gönderilmez, Kanunun tasfiye hükümleri uyarınca tasfiye edilir. (MD GY 346/1-5)",
+  "kanit": "28-antrepo rejimi.txt | Eşyanın antrepoda kalabileceği süre konusunda bir tahdit konulmuş ise; eşyanın antrepoya alındığı tarihten veya antrepolar arası nakil yoluyla başka bir antrepodan gelen eşyanın ilk antrepoya giriş tarihinden itibaren hesaplanır. ... Eşyanın antrepo rejimi altında kalış süresi sınırsızdır. ... otuz gün içinde işlemlerinin bitirilmesi gerekir. ... Müsteşarlık, özellikle beklemek suretiyle bozulabilecek eşya da dahil olmak üzere eşyanın antrepoda kalabileceği süre konusunda belirleme yapabilir. ... Kanunun 177 nci maddesinin birinci fıkrasının (f) ve (g) bentleri uyarınca tasfiye edilir."
+ },
+ {
+  "test": 3,
+  "konu": "Antrepo",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D1",
+  "kalip": "ORAN-TUTAR",
+  "z": "Z",
+  "madde": "GY 330/1",
+  "cek": "Antrepodaki serbest dolaşımdaki eşyanın ihracı mümkün değilse YGM/memur gözetiminde çıkarılıp beyanname iptali takvim yılında en fazla beş defa yapılır.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre antrepoya konulan serbest dolaşımdaki eşyanın ihracının veya gümrükçe onaylanmış bir işlem ya da kullanıma tabi tutulmasının mümkün olmadığı hallerde, yetkilendirilmiş gümrük müşaviri veya gümrük memuru gözetiminde eşyanın antrepodan çıkartılmasına izin verilerek beyannamenin iptal edilmesi bir takvim yılında en fazla kaç defa mümkündür?"
+  ],
+  "d": "5",
+  "c": [
+   "1",
+   "2",
+   "3",
+   "10"
+  ],
+  "sabit": {
+   "siklar": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "10"
+   ],
+   "dogru": "D"
+  },
+  "g": "Gümrük Yönetmeliğine göre antrepoya konulan serbest dolaşımdaki eşyanın ihraç edilmesi veya gümrükçe onaylanmış diğer bir işlem ya da kullanıma tabi tutulması zorunludur. Bunun mümkün olmadığı hallerde, bir takvim yılında beş defayı geçmemek üzere yetkilendirilmiş gümrük müşaviri veya gümrük memuru gözetiminde eşyanın antrepodan çıkartılmasına izin verilerek beyanname iptal edilir. (MD GY 330/1)",
+  "kanit": "28-antrepo rejimi.txt | Serbest dolaşımda bulunan eşyanın antrepoya konulması durumunda söz konusu eşyanın ihraç edilmesi veya gümrükçe onaylanmış diğer bir işlem ya da kullanıma tabi tutulması zorunludur. Ancak eşyanın ihracının veya gümrükçe onaylanmış bir işlem ya da kullanıma tabi tutulmasının mümkün olmadığı hallerde bir takvim yılında beş defayı geçmemek üzere yetkilendirilmiş gümrük müşaviri veya gümrük memuru gözetiminde eşyanın antrepodan çıkartılmasına izin verilerek beyanname iptal edilir."
+ },
+ {
+  "test": 3,
+  "konu": "Geçici Depolama/GOBİK",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/50, 2025/80, 2025/94",
+  "alt_tip": "D3",
+  "kalip": "KAPSAM",
+  "z": "O",
+  "madde": "GY 79/2; GY 329/3; GY 539/2; GY 551/1; GK 95/1",
+  "cek": "Limanlarda geçici depolama yerlerinin mütemmim cüz'ü olan ağır ve havaleli eşya açık alanları geçici depolama yeri addolunur.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi geçici depolama yeri addolunan yerlerdendir?"
+  ],
+  "d": "Limanlardaki geçici depolama yerlerinin mütemmim cüz'ü niteliğinde olan, ağır ve havaleli eşyaya mahsus açık alanlar",
+  "c": [
+   "Posta idaresinin sorumluluğu ve gümrüğün denetlemesi altında yabancı menşeli kolilerin konulması için ayrılmış kapalı yerler",
+   "Serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergi yerleri",
+   "E tipi antrepoda sadece antrepo sahibi adına gelen yatırım mallarının konulduğu montaj mahalleri",
+   "Gümrük kapılarında eşya satışı yapmak üzere açılan mağazaların depoları"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre limanlar gibi gümrük işlemlerinin yapıldığı yerlerde bulunan geçici depolama yerlerinin mütemmim cüz'ü niteliğindeki, ağır ve havaleli eşyanın konulmasına mahsus açık alanlar geçici depolama yeri addolunur; yolcu eşyası ambarları ile kişisel kullanıma mahsus kara taşıtlarının konulduğu yerler de bu kapsamdadır. Buna karşılık posta idaresinin yabancı menşeli koliler için ayrılmış kapalı yerleri genel antrepo, serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler özel antrepo sayılır; E tipi antrepoda montaj mahalleri antrepo addedilen yerlerdir; gümrük kapılarındaki satış mağazaları ve depoları ise özel antrepo statüsündedir. (MD GY 79/2; GY 329/3; GY 539/2; GY 551/1; GK 95/1)",
+  "kanit": "29-iŞLETİCİLER.txt | Ağır ve havaleli eşyanın konulmasına mahsus olmak üzere, limanlar gibi gümrük işlemlerinin yapıldığı yerlerde bulunan geçici depolama yerlerinin mütemmim cüz'ü niteliğindeki açık alanlar; ... kişisel kullanıma mahsus kara taşıtlarının konulduğu yerler de geçici depolama yeri addolunur. ... Serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler, özel antrepo sayılır ... antrepo rejimi hükümlerine tabi olarak, antrepo addedilen yer veya montaj mahallerine ya da eşya sahibinin deposuna konulabilir."
+ },
+ {
+  "test": 3,
+  "konu": "Geçici Depolama/GOBİK",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/38, 2025/85",
+  "alt_tip": "K1",
+  "kalip": "TANIM",
+  "z": "K",
+  "madde": "GK 47; GY 77/1",
+  "cek": "Geçici depolanan eşya: gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar eşyanın bulunduğu statü.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre \"geçici depolanan eşya\" statüsü aşağıdakilerden hangisinde doğru olarak tanımlanmıştır?"
+  ],
+  "d": "Eşyanın gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar bulunduğu statü",
+  "c": [
+   "Eşyanın özet beyanın verilmesinden sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar bulunduğu statü",
+   "Eşyanın gümrüğe sunulmasından sonra serbest dolaşıma girinceye kadar bulunduğu statü",
+   "Eşyanın Türkiye Gümrük Bölgesine girişinden itibaren gümrüğe sunuluncaya kadar bulunduğu statü",
+   "Eşyanın geçici depolama yerine alınmasından sonra gümrük vergileri ödeninceye kadar bulunduğu statü"
+  ],
+  "sabit": null,
+  "g": "Gümrük Kanununa göre eşya, gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar geçici depolanan eşya statüsünde bulunur ve bu şekilde adlandırılır. Statünün başlangıcı özet beyanın verilmesi, Türkiye Gümrük Bölgesine giriş veya geçici depolama yerine alınma değil, eşyanın gümrüğe sunulmasıdır; bitişi ise yalnız serbest dolaşıma giriş ya da vergilerin ödenmesi değil, eşyanın herhangi bir gümrükçe onaylanmış işlem veya kullanıma tabi tutulmasıdır. Yönetmeliğe göre talep halinde ihracat eşyası da bu kapsamda değerlendirilebilir. (MD GK 47; GY 77/1)",
+  "kanit": "29-iŞLETİCİLER.txt | Eşya, gümrüğe sunulmasından sonra gümrükçe onaylanmış bir işlem veya kullanıma tabi tutuluncaya kadar geçici depolanan eşya statüsünde bulunur ve bu şekilde adlandırılır. ... Talep halinde ihracat eşyasının da bu kapsamda değerlendirilmesi mümkündür."
+ },
+ {
+  "test": 3,
+  "konu": "Özet Beyan",
+  "sinif": "AZ",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/33, 2023/95",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "Z",
+  "madde": "GY 61/1",
+  "cek": "Sözlü beyanı uygun bulunan eşya özet beyandan muaf; ancak taşıma sözleşmesiyle deniz, hava, demir, karayolu taşınan eşya bu istisnadan hariç.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi özet beyan aranmayan eşya arasında yer almaz?"
+  ],
+  "d": "Taşıma sözleşmesi çerçevesinde havayolu ile taşınan ve sözlü beyanı uygun bulunan eşya",
+  "c": [
+   "Boru hattı ile gelen eşya",
+   "Uluslararası Posta Sözleşmesi kapsamında taşınan eşya",
+   "ATA Karnesi ve Gümrüklerden Geçiş Karnesi (CPD) kapsamı eşya",
+   "Türkiye Gümrük Bölgesinde yerleşik kişilerce işletilen sondaj platformlarını teçhiz etmek veya donatmak üzere getirilen eşya"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre elektrik enerjisi, boru hattı ile gelen eşya, Uluslararası Posta Sözleşmesi kapsamında taşınan eşya, yolcu eşyası, ATA Karnesi ve CPD kapsamı eşya, TIR karnesi kapsamı eşya, Form 302 kapsamı eşya ile Türkiye Gümrük Bölgesinde yerleşik kişilerce işletilen üretim veya sondaj platformlarını teçhiz etmek veya donatmak üzere kullanılan eşya gibi sayılan eşya için özet beyan aranmaz. Sözlü beyanı uygun bulunan eşya da bu kapsamdadır; ancak paletler, konteynerler ve bir taşıma sözleşmesi çerçevesinde denizyolu, havayolu, demiryolu ve karayolu vasıtasıyla taşınan eşya bu istisnadan hariç tutulmuştur. Bu nedenle taşıma sözleşmesi çerçevesinde havayolu ile taşınan eşya, sözlü beyanı uygun bulunsa dahi özet beyan aranmayan eşya arasında yer almaz. (MD GY 61/1)",
+  "kanit": "15-ÖZET BEYAN.txt | Aşağıda belirtilen eşya için özet beyan aranmaz: a) Elektrik enerjisi, b) Boru hattı ile gelen eşya, ... ç) Uluslararası Posta Sözleşmesi kapsamında taşınan eşya, ... f) Paletler, konteynerler ve bir taşıma sözleşmesi çerçevesinde denizyolu, havayolu, demiryolu ve karayolu vasıtasıyla taşınan eşya hariç, 169, 170 ve 171 inci maddeler uyarınca sözlü beyanı uygun bulunan eşya, ... g) ATA Karnesi ve Gümrüklerden Geçiş Karnesi (CPD) kapsamı eşya, ... Türkiye Gümrük Bölgesinde yerleşik kişilerce işletilen üretim veya sondaj platformları için ... 2) Bu platformları teçhiz etmek veya donatmak üzere kullanılan eşya,"
+ },
+ {
+  "test": 3,
+  "konu": "Fikri-Sınai Haklar",
+  "sinif": "AZ",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "K",
+  "madde": "GY 105/1, 105/3, 110/1",
+  "cek": "Hak ihlali gerekçesiyle durdurulan eşyanın serbest dolaşım, yeniden ihraç, şartlı muafiyet, serbest bölgeye konulmasına izin verilmez; kolaylaştırılmış imha mümkündür.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre fikri ve sınai hakları ihlal ettiği gerekçesiyle işlemleri durdurulan veya alıkonulan eşya için izin verilmeyecek işlemler arasında aşağıdakilerden hangisi yer almaz?"
+  ],
+  "d": "Kolaylaştırılmış imha kapsamında imhası",
+  "c": [
+   "Serbest dolaşıma girişi",
+   "Yeniden ihracı",
+   "Şartlı muafiyet düzenlemesine tabi tutulması",
+   "Serbest bölgeye konulması"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre fikri ve sınai hakları ihlal ettiği gerekçesiyle işlemleri durdurulan veya alıkonulan eşyanın Türkiye Gümrük Bölgesine girişine, serbest dolaşıma girişine, bölgeyi terk etmesine, ihracına, yeniden ihracına, şartlı muafiyet düzenlemesine tabi tutulmasına ve serbest bölgeye konulmasına izin verilmez. Buna karşılık şüpheli eşya, mahkemede dava açılmaksızın veya mahkeme kararı beklenmeksizin kolaylaştırılmış imha usulüyle imha edilebilir; imha gümrük idaresinin gözetimi ve hak sahibinin sorumluluğu altında yapılır ve masraflar hak sahibinden alınır. (MD GY 105/1, 105/3, 110/1)",
+  "kanit": "16-GOBİK VE SAHTE EŞYA.txt | Fikri ve sınai hakları ihlal ettiği gerekçesiyle işlemleri durdurulan veya alıkonulan eşyanın, ... b) Serbest dolaşıma girişine, ... e) Şartlı muafiyet düzenlemesine tabi tutulmasına, ... f) Serbest bölgeye konulmasına, ... mahkemede dava açılmaksızın veya mahkeme kararı beklenmeksizin bu maddede belirtilen usul ve esaslar çerçevesinde imha edilebilir. ... İmha işlemi, gümrük idaresinin gözetimi ve hak sahibinin sorumluluğu altında gerçekleştirilir."
+ }
+]

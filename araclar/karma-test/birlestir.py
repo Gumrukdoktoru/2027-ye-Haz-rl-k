@@ -74,19 +74,23 @@ r = random.Random(2027)
 TESTLER = {}
 for t in (1, 2, 3):
     xs = sorted([q for q in Q if q['test'] == t], key=lambda q: (SIRA.index(q['konu']) if q['konu'] in SIRA else 99, q['alt_tip']))
-    # blok içinde aynı alt tip art arda gelmesin diye blokları karıştır
     bloklar = collections.OrderedDict()
     for q in xs: bloklar.setdefault(q['konu'], []).append(q)
-    sira = []
-    for ko, b in bloklar.items():
-        for _ in range(50):
-            r.shuffle(b)
-            if all(b[i]['alt_tip'] != b[i + 1]['alt_tip'] for i in range(len(b) - 1)): break
-        sira += b
-    # harf: sabitler belli, diğerleri her harf 10 olacak ve art arda aynı harf olmayacak biçimde
+    sabit_say = C(q['_dogru'] for q in xs if q['_dogru'])
+    if any(v > 10 for v in sabit_say.values()): hata['sabit harf 10u aşıyor'].append((t, dict(sabit_say)))
+    # her denemede: blok içi sıra (aynı alt tip art arda gelmesin) + harf dağıtımı
+    # (sabitler belli; diğerleri her harf en çok 10 olacak, art arda aynı harf olmayacak biçimde)
+    taban = list(bloklar.values())
     for deneme in range(20000):
-        kalan = C({h: 10 for h in L}); kalan.subtract(C(q['_dogru'] for q in sira if q['_dogru']))
-        if any(v < 0 for v in kalan.values()): break
+        sira, bs = [], list(taban)
+        for _ in range(0 if deneme < 100 else 1 + deneme // 4000):   # gerekirse komşu konu bloklarının yerini değiştir
+            j = r.randrange(len(bs) - 1); bs[j], bs[j + 1] = bs[j + 1], bs[j]
+        for b in bs:
+            for _ in range(50):
+                r.shuffle(b)
+                if all(b[i]['alt_tip'] != b[i + 1]['alt_tip'] for i in range(len(b) - 1)): break
+            sira += b
+        kalan = C({h: 10 for h in L}); kalan.subtract(sabit_say)
         harfler, ok = [], True
         for i, q in enumerate(sira):
             if q['_dogru']:
@@ -102,6 +106,7 @@ for t in (1, 2, 3):
         if ok and len(harfler) == len(sira): break
     else:
         hata['harf dağıtılamadı'].append(t)
+        harfler += ['A'] * (len(sira) - len(harfler))
     for i, (q, h) in enumerate(zip(sira, harfler), 1):
         q['no'], q['harf'] = i, h
         if q['_siklar']: q['opts'] = q['_siklar']
