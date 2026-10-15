@@ -1,0 +1,209 @@
+[
+ {
+  "test": 2,
+  "konu": "Cezalar",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/60",
+  "alt_tip": "D1",
+  "kalip": "MÜEYYİDE",
+  "z": "O",
+  "madde": "GK 239/1-2",
+  "cek": "Vergi ödenerek ihraç edilebilen eşyayı gümrük işlemsiz çıkarana vergilerin yanı sıra bu vergilerin iki katı İPC verilir.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre gümrük vergileri ödenmek suretiyle ihraç edilebilen eşyayı gümrük işlemlerine tabi tutmaksızın Türkiye Gümrük Bölgesinden çıkaranlara, eşyanın gümrük vergilerinin yanı sıra bu vergilerin kaç katı idari para cezası verilir?"
+  ],
+  "d": "2",
+  "c": [
+   "1",
+   "3",
+   "4",
+   "8"
+  ],
+  "sabit": {
+   "siklar": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "8"
+   ],
+   "dogru": "B"
+  },
+  "g": "Gerekçe: Gümrük vergileri ödenmek suretiyle ihraç edilebilen eşyayı gümrük işlemlerine tabi tutmaksızın veya gümrük vergileri kısmen ya da tamamen ödenmeksizin Türkiye Gümrük Bölgesinden çıkaranlara, eşyanın gümrük vergilerinin yanı sıra bu vergilerin iki katı idari para cezası verilir. Aynı maddenin diğer hâlinde, yani ithalat veya ihracat vergilerinden muaf eşyanın izinsiz ya da gümrük işlemleri yaptırılmaksızın ithal veya ihracında ise CIF veya FOB değerinin onda biri oranında para cezası alınır; tuzak iki hâlin karıştırılmasıdır. (MD GK 239/1-2)",
+  "kanit": "48-cezalar.txt | Gümrük vergileri ödenmek suretiyle ihraç edilebilen eşyayı, gümrük işlemlerine tabi tutmaksızın veya gümrük vergileri kısmen veya tamamen ödenmeksizin Türkiye Gümrük Bölgesinden çıkaranlara eşyanın gümrük vergilerinin yanı sıra bu vergilerin iki katı idari para cezası verilir. ... söz konusu eşyanın ithalata konu olması halinde, CIF değerinin, ihracata konu olması halinde ise FOB değerinin onda biri oranında para cezası alınır.",
+  "grup": "B2",
+  "no": 1,
+  "harf": "B",
+  "opts": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "8"
+  ],
+  "gerekce": "Gerekçe: Gümrük vergileri ödenmek suretiyle ihraç edilebilen eşyayı gümrük işlemlerine tabi tutmaksızın veya gümrük vergileri kısmen ya da tamamen ödenmeksizin Türkiye Gümrük Bölgesinden çıkaranlara, eşyanın gümrük vergilerinin yanı sıra bu vergilerin iki katı idari para cezası verilir. Aynı maddenin diğer hâlinde, yani ithalat veya ihracat vergilerinden muaf eşyanın izinsiz ya da gümrük işlemleri yaptırılmaksızın ithal veya ihracında ise CIF veya FOB değerinin onda biri oranında para cezası alınır; tuzak iki hâlin karıştırılmasıdır. Bu nedenle doğru cevap B seçeneğidir. (MD GK 239/1-2)",
+  "id": "KT2-01"
+ },
+ {
+  "test": 2,
+  "konu": "Cezalar",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/29, 2022/69",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "Z",
+  "madde": "GK 241/3-d; 241/4-a, b, d, e",
+  "cek": "Özet beyanın süresinde verilmemesi usulsüzlük cezasının iki katı; temsil yetkisiz iş takibi, izinsiz yük alma, 48 saat aşım dört katıdır.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre aşağıdakilerden hangisi, usulsüzlük cezasının dört katı olarak uygulandığı hâllerden biri değildir?"
+  ],
+  "d": "Özet beyan veya özet beyan olarak kullanılan ticari ya da resmî belgenin süresi içinde verilmemesi",
+  "c": [
+   "Bir kişinin geçerli bir temsil yetkisi olmadığı hâlde başka bir kişi adına veya hesabına gümrük idarelerinde iş takip etmesi",
+   "Karayolu taşıtlarının gümrük idaresinin izni olmadan yük veya yolcu alarak yoluna devam etmesi",
+   "Türkiye Gümrük Bölgesinde karayoluyla transit eşya taşıyan taşıt araçlarının verilen süreleri kırk sekiz saate kadar aşması",
+   "Genel antrepo ve serbest bölgelere getirilen parlayıcı, patlayıcı veya tehlikeli eşyanın genel amaçlı eşya konulan yerlerde depolanması"
+  ],
+  "sabit": null,
+  "g": "Gerekçe: Özet beyan veya özet beyan olarak kullanılan ticari ya da resmî belgenin süresi içinde verilmemesi, usulsüzlük cezasının iki katı olarak uygulandığı hâllerdendir. Geçerli temsil yetkisi olmadan başkası adına iş takibi, karayolu taşıtının izinsiz yük veya yolcu alarak yoluna devam etmesi, transit taşıtının verilen süreyi kırk sekiz saate kadar aşması ve parlayıcı, patlayıcı veya tehlikeli eşyanın genel amaçlı yerlerde depolanması ise dört kat usulsüzlük cezasını gerektirir. Tuzak, özet beyanla ilgili iki hâlin karıştırılmasıdır: özet beyanda eşyanın cinsinin yanlış beyanı dört kat, özet beyanın süresinde verilmemesi iki kattır. (MD GK 241/3-d, 241/4-a, b, c, d, e)",
+  "kanit": "48-cezalar.txt | Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın iki katı olarak uygulanır: ... özet beyan veya özet beyan olarak kullanılan ticari veya resmi belgenin süresi içinde verilmemesi ... Usulsüzlük cezası aşağıdaki hallerde 1 inci fıkrada belirtilen miktarın dört katı olarak uygulanır: ... geçerli bir temsil yetkisi olmadığı halde başka bir kişi adına veya hesabına gümrük idarelerinde iş takip etmesi ... karayolu taşıtlarının gümrük idaresinin izni olmadan yük veya yolcu alarak yoluna devam etmesi ... taşıt araçlarının 91 inci maddeye göre verilen süreleri kırksekiz saate kadar aşması ... Genel antrepo ve serbest bölgelere getirilen parlayıcı, patlayıcı veya bir arada bulundukları eşya için tehlikeli olan",
+  "grup": "B2",
+  "no": 2,
+  "harf": "D",
+  "opts": [
+   "Bir kişinin geçerli bir temsil yetkisi olmadığı hâlde başka bir kişi adına veya hesabına gümrük idarelerinde iş takip etmesi",
+   "Karayolu taşıtlarının gümrük idaresinin izni olmadan yük veya yolcu alarak yoluna devam etmesi",
+   "Türkiye Gümrük Bölgesinde karayoluyla transit eşya taşıyan taşıt araçlarının verilen süreleri kırk sekiz saate kadar aşması",
+   "Özet beyan veya özet beyan olarak kullanılan ticari ya da resmî belgenin süresi içinde verilmemesi",
+   "Genel antrepo ve serbest bölgelere getirilen parlayıcı, patlayıcı veya tehlikeli eşyanın genel amaçlı eşya konulan yerlerde depolanması"
+  ],
+  "gerekce": "Gerekçe: Özet beyan veya özet beyan olarak kullanılan ticari ya da resmî belgenin süresi içinde verilmemesi, usulsüzlük cezasının iki katı olarak uygulandığı hâllerdendir. Geçerli temsil yetkisi olmadan başkası adına iş takibi, karayolu taşıtının izinsiz yük veya yolcu alarak yoluna devam etmesi, transit taşıtının verilen süreyi kırk sekiz saate kadar aşması ve parlayıcı, patlayıcı veya tehlikeli eşyanın genel amaçlı yerlerde depolanması ise dört kat usulsüzlük cezasını gerektirir. Tuzak, özet beyanla ilgili iki hâlin karıştırılmasıdır: özet beyanda eşyanın cinsinin yanlış beyanı dört kat, özet beyanın süresinde verilmemesi iki kattır. Bu nedenle doğru cevap D seçeneğidir. (MD GK 241/3-d, 241/4-a, b, c, d, e)",
+  "id": "KT2-02"
+ },
+ {
+  "test": 2,
+  "konu": "Kaçakçılık",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/100, 2022/22",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "5607 4/3, 4/5, 4/6, 4/7, 4/8",
+  "cek": "Kaçakçılığı önlemekle görevli olup suça kasten göz yuman kişi, yardım eden değil müşterek fail olarak sorumludur.",
+  "kok": [
+   "5607 sayılı Kaçakçılıkla Mücadele Kanununun nitelikli hâllere ilişkin hükümlerine göre aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da suçların işlenmesine kasten göz yuman kişi, işlenen suça yardım eden olarak sorumlu tutulur.",
+  "c": [
+   "Suçların tüzel kişinin faaliyeti çerçevesinde veya yararına olarak işlenmesi hâlinde, ayrıca bunlara özgü güvenlik tedbirlerine hükmolunur.",
+   "Suçların belgede sahtecilik yapılarak işlenmesi hâlinde, ayrıca bu suçtan dolayı da cezaya hükmolunur.",
+   "Suç konusu eşyanın çevre veya toplum sağlığını tehdit edecek nitelikte olması hâlinde, fiil daha ağır cezayı gerektiren bir suç oluşturmadığı takdirde verilecek hapis cezası on yıldan az olamaz.",
+   "Kaçak akaryakıt satışının sabit ya da seyyar tank, düzenek veya ekipman kullanılarak gerçekleştirilmesi hâlinde verilecek cezalar iki kat artırılır."
+  ],
+  "sabit": null,
+  "g": "Gerekçe: Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da Kanunda tanımlanan suçların işlenmesine kasten göz yuman kişi, işlenen suçun yardım edeni olarak değil, müşterek faili olarak sorumlu tutulur. Diğer ifadeler nitelikli hâllere ilişkin hükümlerle aynıdır: tüzel kişi yararına işlenen suçta ayrıca güvenlik tedbirine, belgede sahtecilik yapılarak işlenen suçta ayrıca sahtecilik cezasına hükmolunur; Devletin güvenliğini bozacak ya da çevre veya toplum sağlığını tehdit edecek nitelikteki eşyada, daha ağır ceza gerektiren suç yoksa hapis cezası on yıldan az olamaz; kaçak akaryakıt satışı tank, düzenek veya ekipmanla yapılırsa cezalar iki kat artırılır. (MD 5607 4/3, 4/5, 4/6, 4/7, 4/8)",
+  "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da bu Kanunda tanımlanan suçların işlenmesine kasten göz yuman kişi, işlenen suçun müşterek faili olarak sorumlu tutulur. ... Bu Kanunda tanımlanan suçların, tüzel kişinin faaliyeti çerçevesinde veya yararına olarak işlenmesi halinde, ayrıca bunlara özgü güvenlik tedbirlerine hükmolunur. ... sahtecilik yapılarak işlenmesi halinde, ayrıca bu suçtan dolayı da cezaya hükmolunur. ... fiil daha ağır cezayı gerektiren bir suç oluşturmadığı takdirde, verilecek hapis cezası on yıldan az olamaz. ... tank, düzenek veya ekipman kullanılarak gerçekleştirilmesi halinde verilecek cezalar iki kat artırılır.",
+  "grup": "B2",
+  "no": 3,
+  "harf": "C",
+  "opts": [
+   "Suçların tüzel kişinin faaliyeti çerçevesinde veya yararına olarak işlenmesi hâlinde, ayrıca bunlara özgü güvenlik tedbirlerine hükmolunur.",
+   "Suçların belgede sahtecilik yapılarak işlenmesi hâlinde, ayrıca bu suçtan dolayı da cezaya hükmolunur.",
+   "Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da suçların işlenmesine kasten göz yuman kişi, işlenen suça yardım eden olarak sorumlu tutulur.",
+   "Suç konusu eşyanın çevre veya toplum sağlığını tehdit edecek nitelikte olması hâlinde, fiil daha ağır cezayı gerektiren bir suç oluşturmadığı takdirde verilecek hapis cezası on yıldan az olamaz.",
+   "Kaçak akaryakıt satışının sabit ya da seyyar tank, düzenek veya ekipman kullanılarak gerçekleştirilmesi hâlinde verilecek cezalar iki kat artırılır."
+  ],
+  "gerekce": "Gerekçe: Kaçakçılık fiillerini önlemek, izlemek ve araştırmakla görevli olup da Kanunda tanımlanan suçların işlenmesine kasten göz yuman kişi, işlenen suçun yardım edeni olarak değil, müşterek faili olarak sorumlu tutulur. Diğer ifadeler nitelikli hâllere ilişkin hükümlerle aynıdır: tüzel kişi yararına işlenen suçta ayrıca güvenlik tedbirine, belgede sahtecilik yapılarak işlenen suçta ayrıca sahtecilik cezasına hükmolunur; Devletin güvenliğini bozacak ya da çevre veya toplum sağlığını tehdit edecek nitelikteki eşyada, daha ağır ceza gerektiren suç yoksa hapis cezası on yıldan az olamaz; kaçak akaryakıt satışı tank, düzenek veya ekipmanla yapılırsa cezalar iki kat artırılır. Bu nedenle doğru cevap C seçeneğidir. (MD 5607 4/3, 4/5, 4/6, 4/7, 4/8)",
+  "id": "KT2-03"
+ },
+ {
+  "test": 2,
+  "konu": "Kaçakçılık",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "O",
+  "madde": "5607 11/5; 16/A-1",
+  "cek": "Bandrolsüz tütün mamulü, alkollü içki, makaron, e-sigara numune alınıp imha edilir; teknik düzenlemeye uygun kaçak akaryakıt tahsis veya satışla tasfiye edilir.",
+  "kok": [
+   "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre aşağıdakilerden hangisi, el koyan idarelerce numune alınmak veya ayırt edici bilgileri tespit edilmek suretiyle tutanağa bağlanarak imha edilecek el konulan eşya arasında sayılmamıştır?"
+  ],
+  "d": "Teknik düzenlemelere uygun olan kaçak akaryakıt",
+  "c": [
+   "Ambalajında bandrol bulunmayan tütün mamulleri",
+   "Ambalajında bandrol bulunmayan alkollü içkiler",
+   "Ambalajında bandrol bulunmayan makaron ve yaprak sigara kâğıdı",
+   "Elektronik sigara ve elektronik nargile dahil her türlü mamul"
+  ],
+  "sabit": null,
+  "g": "Gerekçe: Kanun uyarınca el konulan ve ambalajlarında bandrol, etiket, hologram, pul, damga veya benzeri işaret bulunmayan tütün mamulleri, etil alkol, metanol, alkollü içkiler, makaron ve yaprak sigara kâğıdı ile elektronik sigara ve elektronik nargile dahil her türlü mamul, el koyan idarelerce numune alınarak veya ayırt edici bilgileri tespit edilerek tutanağa bağlanır ve imha edilir. Teknik düzenlemelere uygun kaçak akaryakıt ise imha edilmez; il özel idareleri, il özel idaresi bulunmayan yerde yatırım izleme ve koordinasyon başkanlıklarınca numune alınarak kamu kurum ve kuruluşları ile mahalli idarelere bedelsiz tahsis edilir veya satılarak tasfiye edilir. (MD 5607 11/5, 16/A-1)",
+  "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | işaret bulunmayan tütün mamulleri, etil alkol, metanol, alkollü içkiler, makaron ve yaprak sigara kâğıdı ile ilaç ... elektronik sigara ve elektronik nargile dahil her türlü mamul ... el koyan idarelerce numune alınmak veya numune alınması mümkün olmaması halinde ayırt edici bilgilerin tespiti yapılmak suretiyle tutanağa bağlanarak imha edilir. ... Bu Kanun uyarınca el konulan kaçak akaryakıttan teknik düzenlemelere uygun olanlar, il özel idareleri ... numune alınmak suretiyle kamu kurum ve kuruluşları ile mahalli idarelerin kullanımına bedelsiz tahsis edilerek veya satışı yapılarak tasfiye edilir",
+  "grup": "B2",
+  "no": 4,
+  "harf": "A",
+  "opts": [
+   "Teknik düzenlemelere uygun olan kaçak akaryakıt",
+   "Ambalajında bandrol bulunmayan tütün mamulleri",
+   "Ambalajında bandrol bulunmayan alkollü içkiler",
+   "Ambalajında bandrol bulunmayan makaron ve yaprak sigara kâğıdı",
+   "Elektronik sigara ve elektronik nargile dahil her türlü mamul"
+  ],
+  "gerekce": "Gerekçe: Kanun uyarınca el konulan ve ambalajlarında bandrol, etiket, hologram, pul, damga veya benzeri işaret bulunmayan tütün mamulleri, etil alkol, metanol, alkollü içkiler, makaron ve yaprak sigara kâğıdı ile elektronik sigara ve elektronik nargile dahil her türlü mamul, el koyan idarelerce numune alınarak veya ayırt edici bilgileri tespit edilerek tutanağa bağlanır ve imha edilir. Teknik düzenlemelere uygun kaçak akaryakıt ise imha edilmez; il özel idareleri, il özel idaresi bulunmayan yerde yatırım izleme ve koordinasyon başkanlıklarınca numune alınarak kamu kurum ve kuruluşları ile mahalli idarelere bedelsiz tahsis edilir veya satılarak tasfiye edilir. Bu nedenle doğru cevap A seçeneğidir. (MD 5607 11/5, 16/A-1)",
+  "id": "KT2-04"
+ },
+ {
+  "test": 2,
+  "konu": "Kaçakçılık",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/98",
+  "alt_tip": "Ö3",
+  "kalip": "KAPSAM",
+  "z": "O",
+  "madde": "5607 13/1; 10/2",
+  "cek": "Taşıt müsaderesi: gizli tertibat, eşyanın yükün tamamı/ağırlıklı bölümü olması, yasak/zararlı eşya; sicile kayıtsızlık alıkoyma sebebidir.",
+  "kok": [
+   "I. Kaçak eşyanın, özel olarak hazırlanmış gizli tertibat içerisinde saklanmış veya taşınmış olması",
+   "II. Taşıtın Türkiye'de sicile kayıtlı olmaması",
+   "III. Kaçak eşyanın, taşıma aracı yüküne göre miktar veya hacim bakımından tamamını veya ağırlıklı bölümünü oluşturması",
+   "IV. Taşıma aracındaki kaçak eşyanın, toplum veya çevre sağlığı açısından zararlı maddelerden olması",
+   "5607 sayılı Kaçakçılıkla Mücadele Kanununa göre kaçak eşya taşımasında bilerek kullanılan taşıma aracı, yukarıdaki hâllerden hangilerinde müsadere edilebilir?"
+  ],
+  "d": "I, III ve IV",
+  "c": [
+   "I ve II",
+   "I ve III",
+   "II, III ve IV",
+   "I, II, III ve IV"
+  ],
+  "sabit": {
+   "siklar": [
+    "I ve II",
+    "I ve III",
+    "I, III ve IV",
+    "II, III ve IV",
+    "I, II, III ve IV"
+   ],
+   "dogru": "C"
+  },
+  "g": "Gerekçe: Kaçak eşya taşımasında bilerek kullanılan veya kullanılmaya teşebbüs edilen taşıma aracının müsadere edilebilmesi için şu koşullardan birinin gerçekleşmesi gerekir: kaçak eşyanın suçun işlenmesini kolaylaştıracak veya fiilin ortaya çıkmasını engelleyecek şekilde özel olarak hazırlanmış gizli tertibat içinde saklanması veya taşınması; eşyanın araç yüküne göre miktar veya hacim bakımından tamamını veya ağırlıklı bölümünü oluşturması ya da naklinin bu aracın kullanılmasını gerekli kılması; eşyanın Türkiye'ye girmesi veya çıkmasının yasak olması ya da toplum veya çevre sağlığı açısından zararlı maddelerden olması. Bu nedenle I, III ve IV müsadere hâlidir. Taşıtın Türkiye'de sicile kayıtlı olmaması ise müsadere sebebi değil, elkonulan taşıtın elkoyma kararı veren mercilerce alıkonulma sebebidir; tuzak bu komşu listedir. (MD 5607 10/2, 13/1)",
+  "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Ancak kaçak eşya taşımasında bilerek kullanılan veya kullanılmaya teşebbüs edilen her türlü taşıma aracının müsadere edilebilmesi için aşağıdaki koşullardan birinin gerçekleşmesi gerekir: ... a) Kaçak eşyanın, suçun işlenmesini kolaylaştıracak veya fiilin ortaya çıkmasını engelleyecek şekilde özel olarak hazırlanmış gizli tertibat içerisinde saklanmış veya taşınmış olması. ... b) Kaçak eşyanın, taşıma aracı yüküne göre miktar veya hacim bakımından tamamını veya ağırlıklı bölümünü oluşturması veya naklinin, bu aracın kullanılmasını gerekli kılması. ... c) Taşıma aracındaki kaçak eşyanın, Türkiye'ye girmesi veya Türkiye'den çıkması yasak veya toplum veya çevre sağlığı açısından zararlı maddelerden olması. ... kapsamına girmesi, Türkiye'de sicile kayıtlı olmaması ya da soruşturma ve kovuşturma devam ederken, kaçakçılık suçunun işlenmesinde tekrar kullanılması halinde, elkonulan taşıt, elkoyma kararı veren mercilerce",
+  "grup": "B2",
+  "no": 5,
+  "harf": "C",
+  "opts": [
+   "I ve II",
+   "I ve III",
+   "I, III ve IV",
+   "II, III ve IV",
+   "I, II, III ve IV"
+  ],
+  "gerekce": "Gerekçe: Kaçak eşya taşımasında bilerek kullanılan veya kullanılmaya teşebbüs edilen taşıma aracının müsadere edilebilmesi için şu koşullardan birinin gerçekleşmesi gerekir: kaçak eşyanın suçun işlenmesini kolaylaştıracak veya fiilin ortaya çıkmasını engelleyecek şekilde özel olarak hazırlanmış gizli tertibat içinde saklanması veya taşınması; eşyanın araç yüküne göre miktar veya hacim bakımından tamamını veya ağırlıklı bölümünü oluşturması ya da naklinin bu aracın kullanılmasını gerekli kılması; eşyanın Türkiye'ye girmesi veya çıkmasının yasak olması ya da toplum veya çevre sağlığı açısından zararlı maddelerden olması. Bu nedenle I, III ve IV müsadere hâlidir. Taşıtın Türkiye'de sicile kayıtlı olmaması ise müsadere sebebi değil, elkonulan taşıtın elkoyma kararı veren mercilerce alıkonulma sebebidir; tuzak bu komşu listedir. Bu nedenle doğru cevap C seçeneğidir. (MD 5607 10/2, 13/1)",
+  "id": "KT2-05"
+ }
+]

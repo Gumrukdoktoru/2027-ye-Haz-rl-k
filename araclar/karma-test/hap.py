@@ -52,6 +52,7 @@ GK = json.load(open(HERE / 'hap' / 'GK.json', encoding='utf-8'))
 def n_of(k): return KON.get(k['konu'], {'n': 0})['n']
 def sirala(sin): return sorted([k for k in konular if k['sinif'] == sin], key=lambda k: (-n_of(k), k['konu']))
 def yil_s(ys): return ', '.join(sorted(ys, key=lambda y: (y[:4], int(re.sub(r'\D', '', y.split('/')[-1]) or 0))))
+GUNCEL = re.compile(r'güncel|değişiklik|sınav tarihinde', re.I)
 def tek(s): return re.sub(r'\s+', ' ', s).strip()
 
 # ================= 1. belge: sınıflar + çıkan sorulardan hap
@@ -59,6 +60,8 @@ md = [f'# {BRAND}', '', '## Konu Sınıfları ve Çıkan Sorulardan Hap Bilgi (G
       '> 2021–2025 GMY sınavlarının 400 mevzuat sorusu (her yıl 21–100. sorular) konu bazında sayıldı ve konular dört sınıfa ayrıldı: '
       '**çok çıkan** (5 yılda 10 ve üzeri), **orta çıkan** (5–9), **az çıkan** (1–4), **hiç çıkmayan** (0). '
       'Hap bilgiler çıkmış soruların ölçtüğü bilgiden, resmî cevap anahtarına göre yazıldı; birden çok yılda sorulan bilgi tek satırda birleştirildi (★). '
+      'Bilgisi depodaki mevzuat metinlerinde bulunmayan (ör. Form A, Seri No 10 Tebliği) haplar yalnız soru ve resmî cevaptan kuruldu (◇). '
+      'Sınav tarihinden sonra değişen hükümler "Not" ile gösterildi. '
       'Hükmü kaynak metinde bulunan her hap, metindeki karşılığıyla doğrulandı.', '',
       '# 1. KONU SINIFLARI', '']
 ozet = collections.Counter(k['sinif'] for k in S['konular'])
@@ -85,7 +88,8 @@ for s in SIRA_SIN[:3]:
             ek.append(yil_s(ys))
             satir = f"- {yildiz}{tek(h['hap'])} *({' · '.join(e for e in ek if e)})*"
             if h.get('tuzak'): satir += f" — Tuzak: {tek(h['tuzak'])}"
-            if h.get('not'): satir += f" — Not: {tek(h['not'])}"
+            if h.get('not') and GUNCEL.search(h['not']): satir += f" — Not: {tek(h['not'])}"
+            if h.get('kaynakta_yok'): satir += ' ◇'
             md.append(satir); top_c += 1
         md.append('')
 
