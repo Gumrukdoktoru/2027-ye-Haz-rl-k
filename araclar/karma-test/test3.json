@@ -1,6 +1,284 @@
 [
  {
   "test": 3,
+  "konu": "Temel Tanımlar",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/91, 2023/92",
+  "alt_tip": "G1",
+  "kalip": "DOĞRU",
+  "z": "K",
+  "madde": "GK 1, 2",
+  "cek": "Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre Kanunun amacı ve Türkiye Cumhuriyeti Gümrük Bölgesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?"
+  ],
+  "d": "Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder.",
+  "c": [
+   "Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren eşyaya uygulanacak gümrük kurallarını belirlemektir; bölgeden çıkan eşya Kanunun amacı dışında kalır.",
+   "Türkiye kara suları ve iç suları gümrük bölgesine dahil olup hava sahası gümrük bölgesinin dışında kalır.",
+   "Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya uygulanacak gümrük kurallarını belirlemek olup taşıt araçları bu amacın kapsamında yer almaz.",
+   "Kanunda geçen Gümrük Bölgesi kavramı, Türkiye ile Avrupa Birliği arasında oluşturulan Gümrük Birliğinin gümrük bölgesini ifade eder."
+  ],
+  "sabit": null,
+  "g": "Gümrük Kanununa göre Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder. Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya ve taşıt araçlarına uygulanacak gümrük kurallarını belirlemektir; gümrük bölgesi Türkiye Cumhuriyeti topraklarını kapsar ve Türkiye kara suları, iç suları ve hava sahası da bu bölgeye dahildir. (MD GK 1, 2)",
+  "kanit": "1-TANIMLAR.txt | Bu Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder. ... Bu Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya ve taşıt araçlarına uygulanacak gümrük kurallarını belirlemektir. ... Türkiye kara suları, iç suları ve hava sahası gümrük bölgesine dahildir.",
+  "grup": "B5",
+  "no": 1,
+  "harf": "D",
+  "opts": [
+   "Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren eşyaya uygulanacak gümrük kurallarını belirlemektir; bölgeden çıkan eşya Kanunun amacı dışında kalır.",
+   "Türkiye kara suları ve iç suları gümrük bölgesine dahil olup hava sahası gümrük bölgesinin dışında kalır.",
+   "Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya uygulanacak gümrük kurallarını belirlemek olup taşıt araçları bu amacın kapsamında yer almaz.",
+   "Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder.",
+   "Kanunda geçen Gümrük Bölgesi kavramı, Türkiye ile Avrupa Birliği arasında oluşturulan Gümrük Birliğinin gümrük bölgesini ifade eder."
+  ],
+  "gerekce": "Gümrük Kanununa göre Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder. Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya ve taşıt araçlarına uygulanacak gümrük kurallarını belirlemektir; gümrük bölgesi Türkiye Cumhuriyeti topraklarını kapsar ve Türkiye kara suları, iç suları ve hava sahası da bu bölgeye dahildir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 1, 2)",
+  "id": "KT3-01"
+ },
+ {
+  "test": 3,
+  "konu": "Gümrük Müşavirliği",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "K",
+  "madde": "GY 561/3",
+  "cek": "Dolaylı temsil vekâletnamesinde asgari unsurlar: adres-vergi bilgileri, işin amacı-kapsamı, karşılıklı sorumluluk, yer-tarih-süre, temsil türü; izin belgesi bilgisi sayılmamıştır.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre gümrük idarelerinde dolaylı temsil yoluyla iş takibi için verilen vekâletnamelerde en az yer verilmesi gereken hususlar arasında aşağıdakilerden hangisi sayılmamıştır?"
+  ],
+  "d": "Temsilcinin gümrük müşavirliği izin belgesinin tarih ve sayısı",
+  "c": [
+   "Tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları",
+   "Yapılacak işlerin amacı ve kapsamı",
+   "Vekâletname yeri, tarihi ve varsa süresi",
+   "Temsilin türü"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre dolaylı temsil yoluyla iş takibinde kullanılan vekâletnamelerde en az; tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları, yapılacak işlerin amacı ve kapsamı, tarafların Kanunda yer alanlara ilaveten belirlemeleri gereken karşılıklı sorumluluk ve yükümlülükleri, vekâletname yeri, tarihi ve varsa süresi ile temsilin türüne yer verilir. Temsilcinin izin belgesinin tarih ve sayısı bu asgari unsurlar arasında sayılmamıştır. (MD GY 561/3)",
+  "kanit": "2-TEMSİL.txt | Vekaletnamelerde en az aşağıdaki hususlara yer verilir; a) Tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları. b) Yapılacak işlerin amacı, kapsamı c) Tarafların Kanunda yer alanlara ilaveten belirlemeleri gereken karşılıklı sorumluluk ve yükümlülükleri. ç) Vekaletname yeri, tarihi ve varsa süresi. d) Temsilin türü.",
+  "grup": "B5",
+  "no": 2,
+  "harf": "C",
+  "opts": [
+   "Tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları",
+   "Yapılacak işlerin amacı ve kapsamı",
+   "Temsilcinin gümrük müşavirliği izin belgesinin tarih ve sayısı",
+   "Vekâletname yeri, tarihi ve varsa süresi",
+   "Temsilin türü"
+  ],
+  "gerekce": "Gümrük Yönetmeliğine göre dolaylı temsil yoluyla iş takibinde kullanılan vekâletnamelerde en az; tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları, yapılacak işlerin amacı ve kapsamı, tarafların Kanunda yer alanlara ilaveten belirlemeleri gereken karşılıklı sorumluluk ve yükümlülükleri, vekâletname yeri, tarihi ve varsa süresi ile temsilin türüne yer verilir. Temsilcinin izin belgesinin tarih ve sayısı bu asgari unsurlar arasında sayılmamıştır. Bu nedenle doğru cevap C seçeneğidir. (MD GY 561/3)",
+  "id": "KT3-02"
+ },
+ {
+  "test": 3,
+  "konu": "Gümrük Müşavirliği",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D2",
+  "kalip": "YETKİ",
+  "z": "K",
+  "madde": "GY 573/1, 573/5",
+  "cek": "Sınavı kazanan GM ve GMY'ler izin belgesi için talep edilen belgelerle ilgili Gümrük Müşavirleri Derneğine başvurur.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları, izin belgesi düzenlenmesi için talep edilen belgelerle birlikte aşağıdakilerden hangisine başvurur?"
+  ],
+  "d": "İlgili Gümrük Müşavirleri Derneğine",
+  "c": [
+   "Gümrük ve dış ticaret bölge müdürlüğüne",
+   "Çalışacakları yerin bağlı olduğu gümrük müdürlüğüne",
+   "Sınav kuruluna",
+   "Gümrükler Genel Müdürlüğüne"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları, talep edilen belgelerle birlikte ilgili Gümrük Müşavirleri Derneğine başvurur; belgelerin Dernek tarafından Müsteşarlığa (Bakanlığa) teslimini müteakip fotoğraflı izin belgesi düzenlenir ve bu kişiler ancak izin belgesini aldıktan sonra mesleki faaliyette bulunabilir. Sınavsız gümrük müşaviri veya yardımcısı olabileceklerin izin belgesi başvuruları da faaliyette bulunmak istedikleri bölgedeki Dernek vasıtasıyla yapılır. (MD GY 573/1, 573/5)",
+  "kanit": "2-TEMSİL.txt | Sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları Müsteşarlıkça talep edilen belgelerle birlikte ilgili Gümrük Müşavirleri Derneğine başvurur. Bu belgelerin Dernek tarafından Müsteşarlığa teslimini müteakip Müsteşarlık tarafından fotoğraflı İzin Belgesi düzenlenir. ... İzin Belgesi müracaatları, faaliyette bulunmak istedikleri bölgedeki Gümrük Müşavirleri Derneği vasıtasıyla yapılır",
+  "grup": "B5",
+  "no": 3,
+  "harf": "E",
+  "opts": [
+   "Gümrük ve dış ticaret bölge müdürlüğüne",
+   "Çalışacakları yerin bağlı olduğu gümrük müdürlüğüne",
+   "Sınav kuruluna",
+   "Gümrükler Genel Müdürlüğüne",
+   "İlgili Gümrük Müşavirleri Derneğine"
+  ],
+  "gerekce": "Gümrük Yönetmeliğine göre sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları, talep edilen belgelerle birlikte ilgili Gümrük Müşavirleri Derneğine başvurur; belgelerin Dernek tarafından Müsteşarlığa (Bakanlığa) teslimini müteakip fotoğraflı izin belgesi düzenlenir ve bu kişiler ancak izin belgesini aldıktan sonra mesleki faaliyette bulunabilir. Sınavsız gümrük müşaviri veya yardımcısı olabileceklerin izin belgesi başvuruları da faaliyette bulunmak istedikleri bölgedeki Dernek vasıtasıyla yapılır. Bu nedenle doğru cevap E seçeneğidir. (MD GY 573/1, 573/5)",
+  "id": "KT3-03"
+ },
+ {
+  "test": 3,
+  "konu": "Disiplin",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "B1",
+  "kalip": "BOŞLUK",
+  "z": "O",
+  "madde": "GK Geçici 6/4, 6/7",
+  "cek": "Üç yıllık dönemde birden fazla disiplin suçunda daha ağır ceza; beş yılda iki alıkoymadan sonra tekrarda meslekten çıkarma uygulanır.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununun gümrük müşavirleri ve gümrük müşavir yardımcılarına uygulanacak disiplin cezalarına ilişkin hükümlerinde \"----- yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir. ----- yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma cezası ile cezalandırılmasından sonra bu cezayı gerektiren fiili yeniden işleyen meslek mensupları hakkında meslekten çıkarma cezası uygulanır.\" denilmektedir.",
+   "Yukarıdaki paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?"
+  ],
+  "d": "Üç / beş",
+  "c": [
+   "Bir / üç",
+   "Beş / bir",
+   "Beş / üç",
+   "Beş / beş"
+  ],
+  "sabit": {
+   "siklar": [
+    "Bir / üç",
+    "Üç / beş",
+    "Beş / bir",
+    "Beş / üç",
+    "Beş / beş"
+   ],
+   "dogru": "B"
+  },
+  "g": "Gümrük Kanununa göre üç yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir; beş yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma cezası ile cezalandırıldıktan sonra bu cezayı gerektiren fiili yeniden işleyen meslek mensubu hakkında meslekten çıkarma cezası uygulanır. Tuzak: üç yıl aynı zamanda adli kovuşturma dışındaki disiplin cezalarında zamanaşımı süresidir; meslekten çıkarmaya götüren dönem ise beş yıldır. (MD GK Geçici 6/4, 6/7)",
+  "kanit": "51-disiplin cezaları.txt | Üç yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir. Beş yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma cezası ile cezalandırılmasından sonra bu cezayı gerektiren fiili yeniden işleyen meslek mensupları hakkında meslekten çıkarma cezası uygulanır. ... gümrük idarelerince tespit edildiği tarihten itibaren üç yıl süreyle uygulanmadığı takdirde zamanaşımına uğrar.",
+  "grup": "B5",
+  "no": 4,
+  "harf": "B",
+  "opts": [
+   "Bir / üç",
+   "Üç / beş",
+   "Beş / bir",
+   "Beş / üç",
+   "Beş / beş"
+  ],
+  "gerekce": "Gümrük Kanununa göre üç yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir; beş yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma cezası ile cezalandırıldıktan sonra bu cezayı gerektiren fiili yeniden işleyen meslek mensubu hakkında meslekten çıkarma cezası uygulanır. Tuzak: üç yıl aynı zamanda adli kovuşturma dışındaki disiplin cezalarında zamanaşımı süresidir; meslekten çıkarmaya götüren dönem ise beş yıldır. Bu nedenle doğru cevap B seçeneğidir. (MD GK Geçici 6/4, 6/7)",
+  "id": "KT3-04"
+ },
+ {
+  "test": 3,
+  "konu": "YGM",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "ŞART",
+  "z": "Z",
+  "madde": "GY 576/1",
+  "cek": "YGM niteliklerinde son üç yılda üçten fazla uyarma veya kınama almamış olmak aranır; hiç almamış olmak şartı yoktur.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi yetkilendirilmiş gümrük müşavirlerinin sahip olması gereken nitelikler arasında yer almaz?"
+  ],
+  "d": "Son üç yıl içerisinde hiç uyarma veya kınama cezası almamış olmak",
+  "c": [
+   "Dolaylı temsil suretiyle gümrük idarelerinde iş takip etmemek ve bu amaçla kurulmuş tüzel kişilere ortak olmamak",
+   "Tespit işlemlerinin yapılacağı kişiler ve antrepo işleticileri ile ortaklık ve çalışan statüde ilişkisi bulunmamak",
+   "Yetmiş beş yaşını doldurmamış olmak",
+   "Gümrük Kanunu uyarınca birden fazla geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre yetkilendirilmiş gümrük müşaviri olabilmek için son üç yıl içerisinde üçten fazla uyarma veya kınama cezası almamış olmak gerekir; son üç yılda hiç uyarma veya kınama cezası almamış olma şartı aranmaz. Dolaylı temsil suretiyle iş takip etmemek ve bu amaçla kurulmuş tüzel kişilere ortak olmamak, tespit yapılacak kişiler ve antrepo işleticileriyle ortaklık ve çalışan statüde ilişkisi bulunmamak, yetmiş beş yaşını doldurmamış olmak ve birden fazla geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak sayılan nitelikler arasındadır. (MD GY 576/1)",
+  "kanit": "31-YGM.txt | son üç yıl içerisinde üçten fazla uyarma veya kınama cezası almamış olmak ... Dolaylı temsil suretiyle gümrük idarelerinde iş takip etmemek ve bu amaçla kurulmuş tüzel kişilere ortak olmamak ... Tespit işlemlerinin yapılacağı kişiler ve antrepo işleticileri ile ortaklık ve çalışan statüde ilişkisi bulunmamak ... yaşını doldurmamış olmak. (Geçici Madde 13 de atıf yapılmıştır) ... birden fazla geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak",
+  "grup": "B5",
+  "no": 5,
+  "harf": "A",
+  "opts": [
+   "Son üç yıl içerisinde hiç uyarma veya kınama cezası almamış olmak",
+   "Dolaylı temsil suretiyle gümrük idarelerinde iş takip etmemek ve bu amaçla kurulmuş tüzel kişilere ortak olmamak",
+   "Tespit işlemlerinin yapılacağı kişiler ve antrepo işleticileri ile ortaklık ve çalışan statüde ilişkisi bulunmamak",
+   "Yetmiş beş yaşını doldurmamış olmak",
+   "Gümrük Kanunu uyarınca birden fazla geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak"
+  ],
+  "gerekce": "Gümrük Yönetmeliğine göre yetkilendirilmiş gümrük müşaviri olabilmek için son üç yıl içerisinde üçten fazla uyarma veya kınama cezası almamış olmak gerekir; son üç yılda hiç uyarma veya kınama cezası almamış olma şartı aranmaz. Dolaylı temsil suretiyle iş takip etmemek ve bu amaçla kurulmuş tüzel kişilere ortak olmamak, tespit yapılacak kişiler ve antrepo işleticileriyle ortaklık ve çalışan statüde ilişkisi bulunmamak, yetmiş beş yaşını doldurmamış olmak ve birden fazla geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak sayılan nitelikler arasındadır. Bu nedenle doğru cevap A seçeneğidir. (MD GY 576/1)",
+  "id": "KT3-05"
+ },
+ {
+  "test": 3,
+  "konu": "Yetkilendirilmiş Yükümlü",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/25, 2022/93, 2025/99",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "GİKY 4/1, 5/1-l, 5/8, 7/1, 7/3",
+  "cek": "YYS mali yeterlilik incelemesi başvuru yılından önceki üç yıl esas alınarak yeminli mali müşavirce yapılır; iki yıl yanlıştır.",
+  "kok": [
+   "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlü statüsünün tanınması için aranan koşullara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Başvuru sahibinin mali yapısının, başvuru yılından önceki iki yıl esas alınarak yeminli mali müşavir tarafından incelenip olumlu görüşle rapora bağlanmış olması gerekir.",
+  "c": [
+   "Statü, gümrük mevzuatına göre serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olan ve en az üç yıldır fiilen faaliyette bulunan kişilere tanınır.",
+   "Mali yeterlilik, başvuru sahibinin taahhütlerini karşılamaya yeterli bir mali durumda bulunmasını ve hakkında iflas veya konkordato işlemleri başlatılmamış olmasını ifade eder.",
+   "Başvurunun yapıldığı yıldan önceki takvim yılı içinde veya başvurunun yapıldığı ayın ilk gününden geriye dönük bir yıl içerisinde gümrük idaresinde en az 100 adet beyan kapsamında işlem yapılmış olması gerekir.",
+   "Kesinleşmiş vergi ve ceza borcu bulunmaması koşulu değerlendirilirken teminata bağlanan, yapılandırılan, tecil edilen veya taksitlendirilen borçlar dikkate alınmaz."
+  ],
+  "sabit": null,
+  "g": "Yönetmeliğe göre başvuru sahibinin mali yapısının, başvuru yılından önceki üç yıl esas alınarak yeminli mali müşavir tarafından incelenip olumlu görüşle rapora bağlanmış olması gerekir; ifadede bu süre iki yıl olarak değiştirilmiştir. Serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olma ve en az üç yıldır fiilen faaliyette bulunma, mali yeterliliğin tanımı, en az 100 beyan kapsamında işlem yapılmış olma şartı ile teminata bağlanan, yapılandırılan, tecil edilen veya taksitlendirilen borçların dikkate alınmaması Yönetmelikle uyumludur. (MD GİKY 4/1, 5/1-l, 5/8, 7/1, 7/3)",
+  "kanit": "3-YYS.txt | Başvuru yılından önceki 3 yıl esas alınmak suretiyle, Yeminli mali müşavir tarafından incelenerek, Olumlu görüşle rapora bağlanmış ... Gümrük mevzuatına göre serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olmak, En az 3 yıldır fiilen faaliyette bulunmak. ... Taahhütlerini karşılamaya yeterli bir mali durumda bulunmasını ve Hakkında iflas veya konkordato işlemleri başlatılmamış olmasını ... gümrük idaresinde en az 100 adet beyan kapsamında işlem yapılmış olması. ... Teminata bağlanan, Yapılandırılan, Tecil edilen, Taksitlendirilen veya",
+  "grup": "B5",
+  "no": 6,
+  "harf": "B",
+  "opts": [
+   "Statü, gümrük mevzuatına göre serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olan ve en az üç yıldır fiilen faaliyette bulunan kişilere tanınır.",
+   "Başvuru sahibinin mali yapısının, başvuru yılından önceki iki yıl esas alınarak yeminli mali müşavir tarafından incelenip olumlu görüşle rapora bağlanmış olması gerekir.",
+   "Mali yeterlilik, başvuru sahibinin taahhütlerini karşılamaya yeterli bir mali durumda bulunmasını ve hakkında iflas veya konkordato işlemleri başlatılmamış olmasını ifade eder.",
+   "Başvurunun yapıldığı yıldan önceki takvim yılı içinde veya başvurunun yapıldığı ayın ilk gününden geriye dönük bir yıl içerisinde gümrük idaresinde en az 100 adet beyan kapsamında işlem yapılmış olması gerekir.",
+   "Kesinleşmiş vergi ve ceza borcu bulunmaması koşulu değerlendirilirken teminata bağlanan, yapılandırılan, tecil edilen veya taksitlendirilen borçlar dikkate alınmaz."
+  ],
+  "gerekce": "Yönetmeliğe göre başvuru sahibinin mali yapısının, başvuru yılından önceki üç yıl esas alınarak yeminli mali müşavir tarafından incelenip olumlu görüşle rapora bağlanmış olması gerekir; ifadede bu süre iki yıl olarak değiştirilmiştir. Serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olma ve en az üç yıldır fiilen faaliyette bulunma, mali yeterliliğin tanımı, en az 100 beyan kapsamında işlem yapılmış olma şartı ile teminata bağlanan, yapılandırılan, tecil edilen veya taksitlendirilen borçların dikkate alınmaması Yönetmelikle uyumludur. Bu nedenle doğru cevap B seçeneğidir. (MD GİKY 4/1, 5/1-l, 5/8, 7/1, 7/3)",
+  "id": "KT3-06"
+ },
+ {
+  "test": 3,
+  "konu": "Sonradan Kontrol",
+  "sinif": "HİÇ",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D1",
+  "kalip": "SÜRE",
+  "z": "K",
+  "madde": "Sonradan Kontrol Yön. 10/1, 10/2, 10/3",
+  "cek": "Müfettiş sonradan kontrole başlanacağını başlama tarihinden en az on gün önce ilgilisine bildirir.",
+  "kok": [
+   "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrolü yapacak müfettiş, önceden tebligatın kontrolün amacını tehlikeye düşüreceği durumlar dışında, sonradan kontrole başlanacağını ilgilisine başlama tarihinden en az kaç gün önce bildirir?"
+  ],
+  "d": "10",
+  "c": [
+   "5",
+   "7",
+   "15",
+   "30"
+  ],
+  "sabit": {
+   "siklar": [
+    "5",
+    "7",
+    "10",
+    "15",
+    "30"
+   ],
+   "dogru": "C"
+  },
+  "g": "Yönetmeliğe göre sonradan kontrolü yapacak müfettiş, sonradan kontrole başlama tarihinden en az on gün önce kontrole başlanacağını ilgilisine bildirir. Kontrole tabi kişiler tebligat tarihinden itibaren bir hafta içinde yazılı olarak geçerli ve kabul edilebilir bir neden ileri sürerek başlama tarihinin istisnai olarak ertelenmesini sağlayabilir; kontrolün amacını tehlikeye düşürecek durumlarda ise önceden tebligatta bulunulmaz. Tuzak: yedi gün (bir hafta) bildirim süresi değil, erteleme talebi için öngörülen süredir. (MD Sonradan Kontrol Yön. 10/1, 10/2, 10/3)",
+  "kanit": "5-SONRADAN KONTROL.txt | Sonradan kontrolü yapacak Müfettiş, sonradan kontrole başlama tarihinden en az on gün önce, sonradan kontrole başlanacağını ilgilisine bildirir. ... tebligat tarihinden itibaren bir hafta içinde yazılı olarak geçerli ve kabul edilebilir bir neden ileri sürülmesi hâlinde ... Sonradan kontrolün amacını tehlikeye düşürecek olması durumunda önceden tebligatta bulunulmaz.",
+  "grup": "B5",
+  "no": 7,
+  "harf": "C",
+  "opts": [
+   "5",
+   "7",
+   "10",
+   "15",
+   "30"
+  ],
+  "gerekce": "Yönetmeliğe göre sonradan kontrolü yapacak müfettiş, sonradan kontrole başlama tarihinden en az on gün önce kontrole başlanacağını ilgilisine bildirir. Kontrole tabi kişiler tebligat tarihinden itibaren bir hafta içinde yazılı olarak geçerli ve kabul edilebilir bir neden ileri sürerek başlama tarihinin istisnai olarak ertelenmesini sağlayabilir; kontrolün amacını tehlikeye düşürecek durumlarda ise önceden tebligatta bulunulmaz. Tuzak: yedi gün (bir hafta) bildirim süresi değil, erteleme talebi için öngörülen süredir. Bu nedenle doğru cevap C seçeneğidir. (MD Sonradan Kontrol Yön. 10/1, 10/2, 10/3)",
+  "id": "KT3-07"
+ },
+ {
+  "test": 3,
   "konu": "Cezalar",
   "sinif": "ÇOK",
   "tur": "sorulmamis",
@@ -33,7 +311,7 @@
   "g": "Gerekçe: Tam muafiyetle geçici ithal edilen özel kullanıma mahsus taşıtlar hariç olmak üzere, geçici ithalat rejimi kapsamında ithal edilen eşyanın süresi içinde gümrükçe onaylanmış başka bir işlem veya kullanıma tabi tutulmaması hâlinde, gümrük vergileri ile beyannamenin tescil tarihinden tespit tarihine kadar gecikme zammı oranında hesaplanan faizin toplamı kadar idari para cezası verilir. Bu eşya yapılacak tebligat tarihinden itibaren altmış gün içinde de gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmazsa ayrıca gümrük vergileri tutarında idari para cezası verilir. Aynı ek ceza, gümrük gözetiminden çıkarılmamış dahilde işleme ve gümrük kontrolü altında işleme eşyası için de geçerlidir. (MD GK 238/1-c, 238/1-d, 238/2)",
   "kanit": "48-cezalar.txt | Birinci fıkranın (c) ve (d) bentlerinde belirtilen eşyanın, yapılacak tebligat tarihinden itibaren altmış gün içinde gümrükçe onaylanmış başka bir işlem veya kullanıma tabi tutulmaması hâlinde, ayrıca gümrük vergileri tutarında idari para cezası verilir. ... geçici ithalat rejimi kapsamında ithal edilen eşyanın süresi içerisinde gümrükçe onaylanmış başka bir işlem veya kullanıma tabi tutulmaması durumunda gümrük vergileri ile rejime ilişkin beyannamenin tescil tarihinden tespitin yapıldığı tarihe kadar geçen süre için 6183 sayılı Kanuna göre tespit edilen gecikme zammı oranında faizin toplamı kadar,",
   "grup": "B2",
-  "no": 1,
+  "no": 8,
   "harf": "D",
   "opts": [
    "15",
@@ -43,44 +321,7 @@
    "90"
   ],
   "gerekce": "Gerekçe: Tam muafiyetle geçici ithal edilen özel kullanıma mahsus taşıtlar hariç olmak üzere, geçici ithalat rejimi kapsamında ithal edilen eşyanın süresi içinde gümrükçe onaylanmış başka bir işlem veya kullanıma tabi tutulmaması hâlinde, gümrük vergileri ile beyannamenin tescil tarihinden tespit tarihine kadar gecikme zammı oranında hesaplanan faizin toplamı kadar idari para cezası verilir. Bu eşya yapılacak tebligat tarihinden itibaren altmış gün içinde de gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmazsa ayrıca gümrük vergileri tutarında idari para cezası verilir. Aynı ek ceza, gümrük gözetiminden çıkarılmamış dahilde işleme ve gümrük kontrolü altında işleme eşyası için de geçerlidir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 238/1-c, 238/1-d, 238/2)",
-  "id": "KT3-01"
- },
- {
-  "test": 3,
-  "konu": "Cezalar",
-  "sinif": "ÇOK",
-  "tur": "sorulmamis",
-  "cikmis": "",
-  "alt_tip": "D3",
-  "kalip": "MÜEYYİDE",
-  "z": "Z",
-  "madde": "GK 235/5-c, d; 236/2, 236/4; 238/1-b",
-  "cek": "Transit eşyasının varışta beyana göre eksik çıkmasında vergilerin yanı sıra vergilerin iki katı İPC; fazlalıkta vergileri kadar.",
-  "kok": [
-   "4458 sayılı Gümrük Kanununa göre aşağıdaki hâllerin hangisinde, ilgili eşyanın gümrük vergilerinin iki katı tutarında idari para cezası verilir?"
-  ],
-  "d": "Transit rejimine konu serbest dolaşımda olmayan eşyanın varış gümrük idaresinde yapılan kontrolünde beyana göre eksik çıkması",
-  "c": [
-   "Transit rejimine konu serbest dolaşımda olmayan eşyanın varış gümrük idaresinde yapılan kontrolünde beyana göre fazla çıkması",
-   "Gümrük antrepolarında yapılan sayımlarda kayıtlara göre fazla eşya çıkması",
-   "Gümrüksüz satış mağazalarından hak sahibi olmayanlara satış yapılması",
-   "Tam muafiyet suretiyle geçici olarak ithal edilen özel kullanıma mahsus taşıtlara ilişkin rejim ihlali"
-  ],
-  "sabit": null,
-  "g": "Gerekçe: Transit rejimine konu edilen serbest dolaşımda olmayan eşyanın varış gümrük idaresinde ya da varıştan önce yapılan kontrolünde beyana göre eksik olduğunun tespiti hâlinde, eksik çıkan eşyanın gümrük vergilerinin alınmasının yanı sıra bu vergilerin iki katı idari para cezası verilir. Diğer hâllerde oran farklıdır: transit eşyasının fazla çıkmasında ve antrepo sayımında fazla eşya çıkmasında vergileri tutarı kadar ceza verilir ve fazla eşya tasfiye edilir; gümrüksüz satış mağazasından hak sahibi olmayana satışta vergilerin üç katı, tam muafiyetle geçici ithal edilen özel kullanıma mahsus taşıtların rejim ihlalinde gümrük vergilerinin dörtte biri tutarında ceza verilir. Tuzak, eksiklik ve fazlalık hâllerinin ikiz seçenek olarak verilmesidir. (MD GK 235/5-c, 235/5-d, 236/2, 236/4, 238/1-b)",
-  "kanit": "48-cezalar.txt | Beyana göre eksik olduğunun tespit edilmesi hâlinde, eksik çıkan eşyaya ilişkin gümrük vergilerinin alınmasının yanı sıra eşyanın gümrük vergilerinin iki katı idari para cezası verilir. ... Beyana göre fazla olduğunun tespit edilmesi hâlinde, fazla çıkan eşyanın gümrük vergileri kadar idari para cezası verilir ... fazla çıkan eşyaya ait ithalat veya ihracat vergileri tutarı kadar para cezası alınır. ... Gümrüksüz satış mağazalarından hak sahibi olmayanlara satış yapılması halinde satışa konu eşyaya, hak sahibi olmakla birlikte limit üstü satış yapılması halinde de limit üstü eşyaya ait ithalat vergilerinin yanı sıra bu vergilerin üç katı para cezası verilir. ... Tam muafiyet suretiyle geçici olarak ithal edilen özel kullanıma mahsus taşıtlara ilişkin rejim ihlallerinde, gümrük vergileri tutarının dörtte biri,",
-  "grup": "B2",
-  "no": 2,
-  "harf": "C",
-  "opts": [
-   "Transit rejimine konu serbest dolaşımda olmayan eşyanın varış gümrük idaresinde yapılan kontrolünde beyana göre fazla çıkması",
-   "Gümrük antrepolarında yapılan sayımlarda kayıtlara göre fazla eşya çıkması",
-   "Transit rejimine konu serbest dolaşımda olmayan eşyanın varış gümrük idaresinde yapılan kontrolünde beyana göre eksik çıkması",
-   "Gümrüksüz satış mağazalarından hak sahibi olmayanlara satış yapılması",
-   "Tam muafiyet suretiyle geçici olarak ithal edilen özel kullanıma mahsus taşıtlara ilişkin rejim ihlali"
-  ],
-  "gerekce": "Gerekçe: Transit rejimine konu edilen serbest dolaşımda olmayan eşyanın varış gümrük idaresinde ya da varıştan önce yapılan kontrolünde beyana göre eksik olduğunun tespiti hâlinde, eksik çıkan eşyanın gümrük vergilerinin alınmasının yanı sıra bu vergilerin iki katı idari para cezası verilir. Diğer hâllerde oran farklıdır: transit eşyasının fazla çıkmasında ve antrepo sayımında fazla eşya çıkmasında vergileri tutarı kadar ceza verilir ve fazla eşya tasfiye edilir; gümrüksüz satış mağazasından hak sahibi olmayana satışta vergilerin üç katı, tam muafiyetle geçici ithal edilen özel kullanıma mahsus taşıtların rejim ihlalinde gümrük vergilerinin dörtte biri tutarında ceza verilir. Tuzak, eksiklik ve fazlalık hâllerinin ikiz seçenek olarak verilmesidir. Bu nedenle doğru cevap C seçeneğidir. (MD GK 235/5-c, 235/5-d, 236/2, 236/4, 238/1-b)",
-  "id": "KT3-02"
+  "id": "KT3-08"
  },
  {
   "test": 3,
@@ -107,17 +348,54 @@
   "g": "Gerekçe: Mülkiyetinin kamuya geçirilmesine karar verilen eşyanın bulunamaması hâlinde kaim değer olarak eşyanın CIF kıymeti değil, gümrüklenmiş değeri kamuya geçirilir. Diğer ifadeler genel hükümlerle aynıdır: gümrük vergileri alacağına bağlı idari para cezalarının zamanaşımı ilgili gümrük vergilerinin zamanaşımına tabidir; vergi kaybına neden olan işlemlerde vergilerle birlikte alınacak para cezaları vergilerle aynı zamanda karara bağlanıp tebliğ edilir ve ödenir; şartları varsa birden fazla beyannameye tek tahakkuk ve ceza kararı düzenlenebilir; idari yaptırım kararlarını gümrük idarelerinin amirleri veya yardımcıları verir. Tuzak, CIF kıymetinin özet beyan fazlalığında ceza ölçüsü olarak kullanılan değer olmasıdır. (MD GK 231/2, 231/4, 232/1, 232/2, 232/3)",
   "kanit": "48-cezalar.txt | Mülkiyetinin kamuya geçirilmesine karar verilen eşyanın bulunamaması hâlinde kaim değer olarak eşyanın gümrüklenmiş değerinin kamuya geçirilmesine karar verilir. ... Gümrük vergileri alacağına bağlı idari para cezalarının zamanaşımı, bu idari para cezalarına ilişkin gümrük vergilerinin zamanaşımına tabidir. ... gümrük vergileri ile birlikte alınması gereken para cezaları bu vergiler ile aynı zamanda karara bağlanarak tebliğ edilir ve aynı zamanda ödenir. ... birden fazla işleme veya beyannameye ilişkin gümrük vergileri ve para cezalarına tek tahakkuk ve ceza kararı düzenlenebilir. ... Bu Kanun uyarınca idari yaptırım kararları gümrük idarelerinin amirleri veya yardımcıları tarafından verilir. ... ve eşyanın CIF kıymeti kadar para cezası alınır.",
   "grup": "B2",
-  "no": 3,
-  "harf": "E",
+  "no": 9,
+  "harf": "A",
   "opts": [
+   "Mülkiyetinin kamuya geçirilmesine karar verilen eşyanın bulunamaması hâlinde kaim değer olarak eşyanın CIF kıymetinin kamuya geçirilmesine karar verilir.",
    "Gümrük vergileri alacağına bağlı idari para cezalarının zamanaşımı, bu cezalara ilişkin gümrük vergilerinin zamanaşımına tabidir.",
    "Vergi kaybına neden olan işlemler nedeniyle gümrük vergileri ile birlikte alınması gereken para cezaları, bu vergiler ile aynı zamanda karara bağlanarak tebliğ edilir ve aynı zamanda ödenir.",
    "Konusu ve yükümlüsünün aynı olması ve aralarında maddi veya hukuki bağlılık bulunması şartıyla, birden fazla beyannameye ilişkin vergi ve cezalara tek tahakkuk ve ceza kararı düzenlenebilir.",
-   "Gümrük Kanunu uyarınca idari yaptırım kararları, gümrük idarelerinin amirleri veya yardımcıları tarafından verilir.",
-   "Mülkiyetinin kamuya geçirilmesine karar verilen eşyanın bulunamaması hâlinde kaim değer olarak eşyanın CIF kıymetinin kamuya geçirilmesine karar verilir."
+   "Gümrük Kanunu uyarınca idari yaptırım kararları, gümrük idarelerinin amirleri veya yardımcıları tarafından verilir."
   ],
-  "gerekce": "Gerekçe: Mülkiyetinin kamuya geçirilmesine karar verilen eşyanın bulunamaması hâlinde kaim değer olarak eşyanın CIF kıymeti değil, gümrüklenmiş değeri kamuya geçirilir. Diğer ifadeler genel hükümlerle aynıdır: gümrük vergileri alacağına bağlı idari para cezalarının zamanaşımı ilgili gümrük vergilerinin zamanaşımına tabidir; vergi kaybına neden olan işlemlerde vergilerle birlikte alınacak para cezaları vergilerle aynı zamanda karara bağlanıp tebliğ edilir ve ödenir; şartları varsa birden fazla beyannameye tek tahakkuk ve ceza kararı düzenlenebilir; idari yaptırım kararlarını gümrük idarelerinin amirleri veya yardımcıları verir. Tuzak, CIF kıymetinin özet beyan fazlalığında ceza ölçüsü olarak kullanılan değer olmasıdır. Bu nedenle doğru cevap E seçeneğidir. (MD GK 231/2, 231/4, 232/1, 232/2, 232/3)",
-  "id": "KT3-03"
+  "gerekce": "Gerekçe: Mülkiyetinin kamuya geçirilmesine karar verilen eşyanın bulunamaması hâlinde kaim değer olarak eşyanın CIF kıymeti değil, gümrüklenmiş değeri kamuya geçirilir. Diğer ifadeler genel hükümlerle aynıdır: gümrük vergileri alacağına bağlı idari para cezalarının zamanaşımı ilgili gümrük vergilerinin zamanaşımına tabidir; vergi kaybına neden olan işlemlerde vergilerle birlikte alınacak para cezaları vergilerle aynı zamanda karara bağlanıp tebliğ edilir ve ödenir; şartları varsa birden fazla beyannameye tek tahakkuk ve ceza kararı düzenlenebilir; idari yaptırım kararlarını gümrük idarelerinin amirleri veya yardımcıları verir. Tuzak, CIF kıymetinin özet beyan fazlalığında ceza ölçüsü olarak kullanılan değer olmasıdır. Bu nedenle doğru cevap A seçeneğidir. (MD GK 231/2, 231/4, 232/1, 232/2, 232/3)",
+  "id": "KT3-09"
+ },
+ {
+  "test": 3,
+  "konu": "Cezalar",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D3",
+  "kalip": "MÜEYYİDE",
+  "z": "Z",
+  "madde": "GK 235/5-c, d; 236/2, 236/4; 238/1-b",
+  "cek": "Transit eşyasının varışta beyana göre eksik çıkmasında vergilerin yanı sıra vergilerin iki katı İPC; fazlalıkta vergileri kadar.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre aşağıdaki hâllerin hangisinde, ilgili eşyanın gümrük vergilerinin iki katı tutarında idari para cezası verilir?"
+  ],
+  "d": "Transit rejimine konu serbest dolaşımda olmayan eşyanın varış gümrük idaresinde yapılan kontrolünde beyana göre eksik çıkması",
+  "c": [
+   "Transit rejimine konu serbest dolaşımda olmayan eşyanın varış gümrük idaresinde yapılan kontrolünde beyana göre fazla çıkması",
+   "Gümrük antrepolarında yapılan sayımlarda kayıtlara göre fazla eşya çıkması",
+   "Gümrüksüz satış mağazalarından hak sahibi olmayanlara satış yapılması",
+   "Tam muafiyet suretiyle geçici olarak ithal edilen özel kullanıma mahsus taşıtlara ilişkin rejim ihlali"
+  ],
+  "sabit": null,
+  "g": "Gerekçe: Transit rejimine konu edilen serbest dolaşımda olmayan eşyanın varış gümrük idaresinde ya da varıştan önce yapılan kontrolünde beyana göre eksik olduğunun tespiti hâlinde, eksik çıkan eşyanın gümrük vergilerinin alınmasının yanı sıra bu vergilerin iki katı idari para cezası verilir. Diğer hâllerde oran farklıdır: transit eşyasının fazla çıkmasında ve antrepo sayımında fazla eşya çıkmasında vergileri tutarı kadar ceza verilir ve fazla eşya tasfiye edilir; gümrüksüz satış mağazasından hak sahibi olmayana satışta vergilerin üç katı, tam muafiyetle geçici ithal edilen özel kullanıma mahsus taşıtların rejim ihlalinde gümrük vergilerinin dörtte biri tutarında ceza verilir. Tuzak, eksiklik ve fazlalık hâllerinin ikiz seçenek olarak verilmesidir. (MD GK 235/5-c, 235/5-d, 236/2, 236/4, 238/1-b)",
+  "kanit": "48-cezalar.txt | Beyana göre eksik olduğunun tespit edilmesi hâlinde, eksik çıkan eşyaya ilişkin gümrük vergilerinin alınmasının yanı sıra eşyanın gümrük vergilerinin iki katı idari para cezası verilir. ... Beyana göre fazla olduğunun tespit edilmesi hâlinde, fazla çıkan eşyanın gümrük vergileri kadar idari para cezası verilir ... fazla çıkan eşyaya ait ithalat veya ihracat vergileri tutarı kadar para cezası alınır. ... Gümrüksüz satış mağazalarından hak sahibi olmayanlara satış yapılması halinde satışa konu eşyaya, hak sahibi olmakla birlikte limit üstü satış yapılması halinde de limit üstü eşyaya ait ithalat vergilerinin yanı sıra bu vergilerin üç katı para cezası verilir. ... Tam muafiyet suretiyle geçici olarak ithal edilen özel kullanıma mahsus taşıtlara ilişkin rejim ihlallerinde, gümrük vergileri tutarının dörtte biri,",
+  "grup": "B2",
+  "no": 10,
+  "harf": "D",
+  "opts": [
+   "Transit rejimine konu serbest dolaşımda olmayan eşyanın varış gümrük idaresinde yapılan kontrolünde beyana göre fazla çıkması",
+   "Gümrük antrepolarında yapılan sayımlarda kayıtlara göre fazla eşya çıkması",
+   "Gümrüksüz satış mağazalarından hak sahibi olmayanlara satış yapılması",
+   "Transit rejimine konu serbest dolaşımda olmayan eşyanın varış gümrük idaresinde yapılan kontrolünde beyana göre eksik çıkması",
+   "Tam muafiyet suretiyle geçici olarak ithal edilen özel kullanıma mahsus taşıtlara ilişkin rejim ihlali"
+  ],
+  "gerekce": "Gerekçe: Transit rejimine konu edilen serbest dolaşımda olmayan eşyanın varış gümrük idaresinde ya da varıştan önce yapılan kontrolünde beyana göre eksik olduğunun tespiti hâlinde, eksik çıkan eşyanın gümrük vergilerinin alınmasının yanı sıra bu vergilerin iki katı idari para cezası verilir. Diğer hâllerde oran farklıdır: transit eşyasının fazla çıkmasında ve antrepo sayımında fazla eşya çıkmasında vergileri tutarı kadar ceza verilir ve fazla eşya tasfiye edilir; gümrüksüz satış mağazasından hak sahibi olmayana satışta vergilerin üç katı, tam muafiyetle geçici ithal edilen özel kullanıma mahsus taşıtların rejim ihlalinde gümrük vergilerinin dörtte biri tutarında ceza verilir. Tuzak, eksiklik ve fazlalık hâllerinin ikiz seçenek olarak verilmesidir. Bu nedenle doğru cevap D seçeneğidir. (MD GK 235/5-c, 235/5-d, 236/2, 236/4, 238/1-b)",
+  "id": "KT3-10"
  },
  {
   "test": 3,
@@ -157,7 +435,7 @@
   "g": "Gerekçe: İtiraz dilekçesinin süresi içinde yanlış makama verilmesi hâlinde itiraz süresinde yapılmış sayılır ve idarece yetkili makama ulaştırılır; itirazın reddi kararlarına karşı da işlemin yapıldığı yerdeki idari yargı mercilerine başvurulabilir. Bu nedenle I ve III doğrudur. İdareye intikal eden itirazlar kırk beş değil otuz gün içinde karara bağlanarak ilgili kişiye tebliğ edilir; kimyevi tahlile itiraz üzerine ikinci tahlil, ilk tahlili yapan kimyager dışındaki iki kimyager tarafından yapılır. Bu nedenle II ve IV yanlıştır. (MD GK 242/2, 242/3, 242/4, 243/2)",
   "kanit": "49-itirazlar.txt | İtiraz dilekçelerinin süresi içinde yanlış makama verilmesi halinde, itiraz süresinde yapılmış sayılır ve idarece yetkili makama ulaştırılır. ... İdareye intikal eden itirazlar otuz gün içinde karara bağlanarak ilgili kişiye tebliğ edilir. ... İtirazın reddi kararlarına karşı işlemin yapıldığı yerdeki idari yargı mercilerine başvurulabilir. ... birinci tahlilin yapıldığı gümrük laboratuarında görevli olan ve ilk tahlili yapan kimyager dışındaki iki kimyager tarafından ikinci tahlil yapılır.",
   "grup": "B2",
-  "no": 4,
+  "no": 11,
   "harf": "A",
   "opts": [
    "I ve III",
@@ -167,7 +445,7 @@
    "I, III ve IV"
   ],
   "gerekce": "Gerekçe: İtiraz dilekçesinin süresi içinde yanlış makama verilmesi hâlinde itiraz süresinde yapılmış sayılır ve idarece yetkili makama ulaştırılır; itirazın reddi kararlarına karşı da işlemin yapıldığı yerdeki idari yargı mercilerine başvurulabilir. Bu nedenle I ve III doğrudur. İdareye intikal eden itirazlar kırk beş değil otuz gün içinde karara bağlanarak ilgili kişiye tebliğ edilir; kimyevi tahlile itiraz üzerine ikinci tahlil, ilk tahlili yapan kimyager dışındaki iki kimyager tarafından yapılır. Bu nedenle II ve IV yanlıştır. Bu nedenle doğru cevap A seçeneğidir. (MD GK 242/2, 242/3, 242/4, 243/2)",
-  "id": "KT3-04"
+  "id": "KT3-11"
  },
  {
   "test": 3,
@@ -194,17 +472,17 @@
   "g": "Gerekçe: 5607 sayılı Kanunda “gümrük vergileri”, gümrük idaresi veya başka idarelerce eşyanın ithali veya ihracına bağlı olarak uygulanan vergiler ile diğer malî yükümlülükleri ifade eder. Gümrüklenmiş değer, ithal eşyasında CIF kıymeti ile gümrük vergileri toplamı, ihraç eşyasında FOB kıymeti ile gümrük vergileri toplamıdır; kaim değer ise müsadere yaptırımının konusunu oluşturan eşyanın gümrüklenmiş değeridir. Tanım hem ithale hem ihraca bağlı yükümlülükleri kapsadığından yalnız ithalata ilişkin vergileri anlatan ifade bu tanımı karşılamaz. (MD 5607 2/1-a, 2/1-b, 15/1)",
   "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Gümrük idaresi veya başka idarelerce, eşyanın ithali veya ihracına bağlı olarak uygulanan vergiler ile diğer malî yükümlülükleri ... Uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını, ihraç eşyası için FOB kıymeti ile gümrük vergileri toplamını ... müsadere yaptırımının konusunu oluşturan eşyanın kaim değerinden, bu eşyanın gümrüklenmiş değeri anlaşılır.",
   "grup": "B2",
-  "no": 5,
-  "harf": "D",
+  "no": 12,
+  "harf": "C",
   "opts": [
    "Gümrüklenmiş değer",
    "Kaim değer",
-   "İthalat vergileri",
    "Gümrük vergileri",
+   "İthalat vergileri",
    "Eş etkili vergiler"
   ],
-  "gerekce": "Gerekçe: 5607 sayılı Kanunda “gümrük vergileri”, gümrük idaresi veya başka idarelerce eşyanın ithali veya ihracına bağlı olarak uygulanan vergiler ile diğer malî yükümlülükleri ifade eder. Gümrüklenmiş değer, ithal eşyasında CIF kıymeti ile gümrük vergileri toplamı, ihraç eşyasında FOB kıymeti ile gümrük vergileri toplamıdır; kaim değer ise müsadere yaptırımının konusunu oluşturan eşyanın gümrüklenmiş değeridir. Tanım hem ithale hem ihraca bağlı yükümlülükleri kapsadığından yalnız ithalata ilişkin vergileri anlatan ifade bu tanımı karşılamaz. Bu nedenle doğru cevap D seçeneğidir. (MD 5607 2/1-a, 2/1-b, 15/1)",
-  "id": "KT3-05"
+  "gerekce": "Gerekçe: 5607 sayılı Kanunda “gümrük vergileri”, gümrük idaresi veya başka idarelerce eşyanın ithali veya ihracına bağlı olarak uygulanan vergiler ile diğer malî yükümlülükleri ifade eder. Gümrüklenmiş değer, ithal eşyasında CIF kıymeti ile gümrük vergileri toplamı, ihraç eşyasında FOB kıymeti ile gümrük vergileri toplamıdır; kaim değer ise müsadere yaptırımının konusunu oluşturan eşyanın gümrüklenmiş değeridir. Tanım hem ithale hem ihraca bağlı yükümlülükleri kapsadığından yalnız ithalata ilişkin vergileri anlatan ifade bu tanımı karşılamaz. Bu nedenle doğru cevap C seçeneğidir. (MD 5607 2/1-a, 2/1-b, 15/1)",
+  "id": "KT3-12"
  },
  {
   "test": 3,
@@ -231,7 +509,7 @@
   "g": "Gerekçe: Kanun kapsamına giren suçlar dolayısıyla açılan davalar, Adalet Bakanlığının teklifi üzerine belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme ağır ceza mahkemesidir. Asliye ceza mahkemesi genel kuraldır; soru istisnayı sorduğu için en güçlü çeldiricidir. (MD 5607 17/2)",
   "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | Bu Kanun kapsamına giren suçlar dolayısıyla açılan davalar, Adalet Bakanlığının teklifi üzerine Hakimler ve Savcılar Yüksek Kurulunca belirlenen asliye ceza mahkemelerinde görülür. ... Ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi halinde, görevli mahkeme ağır ceza mahkemesidir.",
   "grup": "B2",
-  "no": 6,
+  "no": 13,
   "harf": "E",
   "opts": [
    "Asliye ceza mahkemesi",
@@ -241,7 +519,7 @@
    "Ağır ceza mahkemesi"
   ],
   "gerekce": "Gerekçe: Kanun kapsamına giren suçlar dolayısıyla açılan davalar, Adalet Bakanlığının teklifi üzerine belirlenen asliye ceza mahkemelerinde görülür; ancak bu suçlarla bağlantılı olarak resmî belgede sahtecilik suçunun işlenmesi hâlinde görevli mahkeme ağır ceza mahkemesidir. Asliye ceza mahkemesi genel kuraldır; soru istisnayı sorduğu için en güçlü çeldiricidir. Bu nedenle doğru cevap E seçeneğidir. (MD 5607 17/2)",
-  "id": "KT3-06"
+  "id": "KT3-13"
  },
  {
   "test": 3,
@@ -268,16 +546,16 @@
   "g": "Gerekçe: Kaçakçılık suçlarından birine iştirak etmiş olan kişi, resmî makamlar tarafından haber alınmadan önce fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verir ve verilen bilgi faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlarsa cezalandırılmaz. Çeldiricilerde birer unsur bozulmuştur: haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım edenin cezası yarı değil üçte iki oranında indirilir; ödeme imkânı soruşturma evresinde hâkim değil Cumhuriyet savcısı tarafından şüpheliye ihtar edilir, hâkim ancak bu ihtar yapılmamışsa kovuşturma evresinde sanığa ihtar eder; ödeme yoluyla indirim üç veya daha fazla kişiyle işlenen suçlarda değil, mükerrirler hakkında ve suçun örgüt faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz; etkin pişmanlık nedeniyle cezaya hükmolunmaması suç konusu eşyanın müsaderesine engel teşkil etmez. (MD 5607 5/1, 5/2, 5/3, 13/2)",
   "kanit": "5607_sayili_kacakcilikla_mucadele_kanunu.txt | resmî makamlar tarafından haber alınmadan önce, fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verirse, verilen bilginin, faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlaması halinde cezalandırılmaz. ... Haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza üçte iki oranında indirilir. ... Bu husus, soruşturma evresinde Cumhuriyet savcısı tarafından şüpheliye ihtar edilir. Soruşturma evresinde ihtar yapılmaması hâlinde kovuşturma evresinde hâkim tarafından sanığa ihtar yapılır. ... İkinci fıkra hükmü, mükerrirler hakkında veya suçun bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz. ... Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması veya kamu davasının düşmesine karar verilmesi, sadece suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil etmez.",
   "grup": "B2",
-  "no": 7,
-  "harf": "C",
+  "no": 14,
+  "harf": "A",
   "opts": [
+   "Kaçakçılık suçuna iştirak eden kişi, resmî makamlar haber almadan önce fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi de faillerin yakalanmasını veya eşyanın ele geçirilmesini sağlarsa cezalandırılmaz.",
    "Resmî makamlar haber aldıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım eden kişiye verilecek ceza yarı oranında indirilir.",
    "Suç konusu eşyanın gümrüklenmiş değerinin iki katı kadar paranın ödenmesi hâlinde cezanın indirileceği, soruşturma evresinde hâkim tarafından şüpheliye ihtar edilir.",
-   "Kaçakçılık suçuna iştirak eden kişi, resmî makamlar haber almadan önce fiili, diğer failleri ve eşyanın saklandığı yerleri merciine haber verir, bu bilgi de faillerin yakalanmasını veya eşyanın ele geçirilmesini sağlarsa cezalandırılmaz.",
    "Ödeme yoluyla etkin pişmanlık hükmü, suçun üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde uygulanmaz.",
    "Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması, suç konusu eşya ile ilgili olarak müsadere hükümlerinin uygulanmasına engel teşkil eder."
   ],
-  "gerekce": "Gerekçe: Kaçakçılık suçlarından birine iştirak etmiş olan kişi, resmî makamlar tarafından haber alınmadan önce fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verir ve verilen bilgi faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlarsa cezalandırılmaz. Çeldiricilerde birer unsur bozulmuştur: haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım edenin cezası yarı değil üçte iki oranında indirilir; ödeme imkânı soruşturma evresinde hâkim değil Cumhuriyet savcısı tarafından şüpheliye ihtar edilir, hâkim ancak bu ihtar yapılmamışsa kovuşturma evresinde sanığa ihtar eder; ödeme yoluyla indirim üç veya daha fazla kişiyle işlenen suçlarda değil, mükerrirler hakkında ve suçun örgüt faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz; etkin pişmanlık nedeniyle cezaya hükmolunmaması suç konusu eşyanın müsaderesine engel teşkil etmez. Bu nedenle doğru cevap C seçeneğidir. (MD 5607 5/1, 5/2, 5/3, 13/2)",
-  "id": "KT3-07"
+  "gerekce": "Gerekçe: Kaçakçılık suçlarından birine iştirak etmiş olan kişi, resmî makamlar tarafından haber alınmadan önce fiili, diğer failleri ve kaçak eşyanın saklandığı yerleri merciine haber verir ve verilen bilgi faillerin yakalanmasını veya kaçak eşyanın ele geçirilmesini sağlarsa cezalandırılmaz. Çeldiricilerde birer unsur bozulmuştur: haber alındıktan sonra fiilin bütünüyle ortaya çıkmasına hizmet ve yardım edenin cezası yarı değil üçte iki oranında indirilir; ödeme imkânı soruşturma evresinde hâkim değil Cumhuriyet savcısı tarafından şüpheliye ihtar edilir, hâkim ancak bu ihtar yapılmamışsa kovuşturma evresinde sanığa ihtar eder; ödeme yoluyla indirim üç veya daha fazla kişiyle işlenen suçlarda değil, mükerrirler hakkında ve suçun örgüt faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz; etkin pişmanlık nedeniyle cezaya hükmolunmaması suç konusu eşyanın müsaderesine engel teşkil etmez. Bu nedenle doğru cevap A seçeneğidir. (MD 5607 5/1, 5/2, 5/3, 13/2)",
+  "id": "KT3-14"
  }
 ]

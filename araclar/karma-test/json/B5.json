@@ -1,0 +1,606 @@
+[
+ {
+  "test": 1,
+  "konu": "Gümrük Müşavirliği",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/86",
+  "alt_tip": "D1",
+  "kalip": "ORAN-TUTAR",
+  "z": "O",
+  "madde": "Asgari Ücret Tarifesi Tebliği 5/1-b, 5/1-c",
+  "cek": "SDŞ, DTSŞ ve YYS sahibi firmaların ihracat işlemlerinde beyanname sayısına bağlı olmayan asgari ücret indirimi %20'dir.",
+  "kok": [
+   "Gümrük Müşavirliği ve Yetkilendirilmiş Gümrük Müşavirliği Asgari Ücret Tarifesine İlişkin Tebliğin 2026 yılı itibarıyla yürürlükte olan hükümlerine göre sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için, beyanname sayısı göz önünde bulundurulmaksızın, Asgari Ücret Tarifesindeki ücretlerde yüzde kaç oranında indirim uygulanabilir?"
+  ],
+  "d": "20",
+  "c": [
+   "10",
+   "25",
+   "35",
+   "50"
+  ],
+  "sabit": {
+   "siklar": [
+    "10",
+    "20",
+    "25",
+    "35",
+    "50"
+   ],
+   "dogru": "B"
+  },
+  "g": "Tebliğe göre sektörel dış ticaret firmalarının, dış ticaret sermaye şirketlerinin ve Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için Asgari Ücret Tarifesindeki ücretlerde %20 oranında indirim uygulanabilir. %25, %35 ve %50 oranları ise aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla, beyanname sayısının 1.000, 2.000 veya 2.500 eşiklerini aşması hâlinde uygulanabilen kademeli indirimlerdir; örneğin bu firmaların ihracat beyanname sayısı bir takvim yılında 1.000'i aştığında %35, 2.500'ü aştığında %50 indirim uygulanabilir. Tuzak: beyanname sayısına bağlı kademeli indirimlerle genel indirim oranı karıştırılmamalıdır. (MD Asgari Ücret Tarifesi Tebliği 5/1-b, 5/1-c)",
+  "kanit": "51-disiplin cezaları.txt | Yetkilendirilmiş Yükümlü Sertifikası sahibi firmaların ihracat işlemleri için Asgari Ücret Tarifesindeki ücretlerde % 20 ... Aynı gümrük müşavirliği şirketinden hizmet alınması şartıyla beyanname sayısı göz önünde bulundurularak ... Bir takvim yılında (b) bendinde belirtilen firmaların ihracat işlemleri için beyanname sayısı 1.000'i aştığında bundan sonraki beyannameler için % 35 oranında; beyanname sayısı 2.500'ü aştığında bundan sonraki beyannameler için % 50 oranında indirim uygulanabilir. ... Bir takvim yılında (b) bendinde belirtilen firmaların ithalat işlemleri için beyanname sayısı 1.000'i aştığında bundan sonraki beyannamelerde Asgari Ücret Tarifesindeki ücretlerde % 25 oranında ... ithalat beyanname sayısı 2.000'i aştığında bundan sonraki beyannameler için Asgari Ücret Tarifesinde % 25 oranında"
+ },
+ {
+  "test": 1,
+  "konu": "Gümrük Müşavirliği",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/83, 2025/24",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "O",
+  "madde": "GK 227/1-f",
+  "cek": "GMY öğrenim koşulunu lisans düzeyinde doğrudan sağlayan dallar arasında endüstri mühendisliği vardır, makine mühendisliği yoktur.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre aşağıdakilerden hangisi, en az lisans seviyesinde mezun olunması hâlinde gümrük müşavir yardımcılığı için aranan öğrenim koşulunu doğrudan sağlayan dallar arasında sayılmamıştır?"
+  ],
+  "d": "Makine mühendisliği",
+  "c": [
+   "Endüstri mühendisliği",
+   "Bankacılık",
+   "Kamu yönetimi",
+   "Muhasebe"
+  ],
+  "sabit": null,
+  "g": "Gümrük Kanununa göre gümrük müşavir yardımcısı olabilmek için hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi, siyasal bilgiler ve endüstri mühendisliği dallarında eğitim veren fakülte ve yüksek okullardan ya da denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde mezun olmak gerekir. Makine mühendisliği bu dallar arasında sayılmamıştır; diğer lisans mezunları öğrenim koşulunu ancak sayılan dallardan lisansüstü diploma alarak sağlayabilir. Tuzak: listede yer alan tek mühendislik dalı endüstri mühendisliğidir. (MD GK 227/1-f)",
+  "kanit": "2-TEMSİL.txt | Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi, siyasal bilgiler ve endüstri mühendisliği dallarında eğitim veren fakülte ve yüksek okullardan ... Diğer öğretim kurumlarından lisans seviyesinde mezun olduktan sonra (i) alt bendinde belirtilen bilim dallarından lisans üstü seviyede diploma almış olmak"
+ },
+ {
+  "test": 1,
+  "konu": "Temel Tanımlar",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2024/47, 2023/66",
+  "alt_tip": "K1",
+  "kalip": "TANIM",
+  "z": "Z",
+  "madde": "GK 3/2-b, c, d, e",
+  "cek": "Çıkış gümrük idaresi: eşyanın TGB'yi terk etmeden önce sunulduğu ve çıkış işlemlerine ilişkin kontrollere tabi tutulduğu idaredir.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre \"çıkış gümrük idaresi\" deyimi aşağıdakilerden hangisini ifade eder?"
+  ],
+  "d": "Eşyanın Türkiye Gümrük Bölgesini terk etmeden önce sunulmasının gerekli olduğu ve çıkış işlemlerinin tamamlanması ile ilgili gümrük kontrolleri ve risk analizine dayalı kontrollere tabi tutulduğu gümrük idaresini",
+  "c": [
+   "Türkiye Gümrük Bölgesini terk edecek eşyanın risk analizine dayalı kontrolleri de dâhil olmak üzere gümrükçe onaylanmış bir işlem ve kullanıma tabi tutulmasına ilişkin işlemlerinin yerine getirildiği gümrük idaresini",
+   "Eşyanın Türkiye Gümrük Bölgesini terk ettikten sonra sunulmasının gerekli olduğu ve çıkış işlemlerinin tamamlanması ile ilgili gümrük kontrolleri ve risk analizine dayalı kontrollere tabi tutulduğu gümrük idaresini",
+   "Eşyanın Türkiye Gümrük Bölgesine getirildiği ve risk analizine dayalı giriş kontrolüne tabi tutularak geciktirilmeksizin sevk işlemlerinin yapıldığı gümrük idaresini",
+   "Türkiye Gümrük Bölgesine getirilen eşyanın risk analizine dayalı kontrolleri de dâhil olmak üzere gümrükçe onaylanmış bir işlem ve kullanıma tabi tutulmasına ilişkin işlemlerinin yerine getirildiği gümrük idaresini"
+  ],
+  "sabit": null,
+  "g": "Gümrük Kanununda çıkış gümrük idaresi, eşyanın Türkiye Gümrük Bölgesini terk etmeden önce sunulmasının gerekli olduğu ve çıkış işlemlerinin tamamlanması ile ilgili gümrük kontrolleri ve risk analizine dayalı kontrollere tabi tutulduğu gümrük idaresi olarak tanımlanmıştır. Bölgeyi terk edecek eşyanın gümrükçe onaylanmış bir işlem ve kullanıma tabi tutulmasına ilişkin işlemlerinin yerine getirildiği idare ihracat gümrük idaresidir; bölgeye getirilen eşyaya ilişkin iki tanım ise giriş ve ithalat gümrük idarelerine aittir. Tuzak: eşya bölgeyi terk ettikten sonra değil, terk etmeden önce sunulur. (MD GK 3/2-b, c, d, e)",
+  "kanit": "1-TANIMLAR.txt | deyimi, eşyanın Türkiye Gümrük Bölgesini terk etmeden önce sunulmasının gerekli olduğu ve çıkış işlemlerinin tamamlanması ile ilgili gümrük kontrolleri ve risk analizine dayalı kontrollere tabi tutulduğu gümrük idaresini ... deyimi, Türkiye Gümrük Bölgesini terk edecek eşyanın risk analizine dayalı kontrolleri de dâhil olmak üzere gümrükçe onaylanmış bir işlem ve kullanıma tabi tutulmasına ilişkin işlemlerinin yerine getirildiği gümrük idaresini ... deyimi, eşyanın Türkiye Gümrük Bölgesine getirildiği ve risk analizine dayalı giriş kontrolüne tabi tutularak geciktirilmeksizin sevk işlemlerinin yapıldığı gümrük idaresini"
+ },
+ {
+  "test": 1,
+  "konu": "Temel Tanımlar",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2022/41, 2023/71, 2023/75",
+  "alt_tip": "Ö1",
+  "kalip": "ÖNERMELİ",
+  "z": "Z",
+  "madde": "GK 3/7, 3/8-a, 3/8-b, 3/11",
+  "cek": "Gümrük statüsü ve gümrük yükümlülüğü tanımları doğru; gümrük vergileri ihracat vergilerini de kapsar, yükümlü sorumlu bütün kişilerdir.",
+  "kok": [
+   "Aşağıda 4458 sayılı Gümrük Kanununda yer alan bazı deyimlere ilişkin ifadeler verilmiştir:",
+   "I. \"Gümrük statüsü\" deyimi, eşyanın Türkiye Gümrük Bölgesinde serbest dolaşıma girmiş olup olmadığı yönünden durumunu ifade eder.",
+   "II. \"Gümrük yükümlülüğü\" deyimi, yükümlünün gümrük vergilerini ödemesi zorunluluğunu ifade eder.",
+   "III. \"Gümrük vergileri\" deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin tümünü ifade eder; ihracat vergileri bu deyimin kapsamında yer almaz.",
+   "IV. \"Yükümlü\" deyimi, gümrük yükümlülüğünü yerine getirmekle sorumlu kişilerden yalnızca beyan sahibini ifade eder.",
+   "4458 sayılı Gümrük Kanunundaki tanımlara göre yukarıdaki ifadelerden hangileri doğrudur?"
+  ],
+  "d": "I ve II",
+  "c": [
+   "I ve III",
+   "II ve IV",
+   "I, II ve III",
+   "I, II ve IV"
+  ],
+  "sabit": {
+   "siklar": [
+    "I ve II",
+    "I ve III",
+    "II ve IV",
+    "I, II ve III",
+    "I, II ve IV"
+   ],
+   "dogru": "A"
+  },
+  "g": "Gümrük Kanununa göre gümrük statüsü, eşyanın Türkiye Gümrük Bölgesinde serbest dolaşıma girmiş olup olmadığı yönünden durumunu; gümrük yükümlülüğü ise yükümlünün gümrük vergilerini ödemesi zorunluluğunu ifade eder; bu nedenle I ve II doğrudur. Gümrük vergileri deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin tümünü kapsadığından III yanlıştır. Yükümlü deyimi gümrük yükümlülüğünü yerine getirmekle sorumlu bütün kişileri ifade eder ve beyan sahibiyle sınırlı değildir; bu nedenle IV de yanlıştır. (MD GK 3/7, 3/8, 3/11)",
+  "kanit": "1-TANIMLAR.txt | deyimi, eşyanın Türkiye Gümrük Bölgesinde serbest dolaşıma girmiş olup olmadığı yönünden durumunu ... deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin tümünü ... deyimi, yükümlünün gümrük vergilerini ödemesi zorunluluğunu ... yerine getirmekle sorumlu bütün kişileri"
+ },
+ {
+  "test": 1,
+  "konu": "YGM",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/48, 2021/57",
+  "alt_tip": "K1",
+  "kalip": "KAVRAM",
+  "z": "Z",
+  "madde": "YGM Tebliği 4/1-ç, d, e, ğ",
+  "cek": "Tespitlerin bir kısmının nihai görüşün olumlu olmasını engelleyecek şekilde yapılamadığını gösteren rapor şartlı tespit raporudur.",
+  "kok": [
+   "Yetkilendirilmiş Gümrük Müşavirliği Tebliğine göre yetkilendirilmiş gümrük müşavirince gerçekleştirilen tespit işlemleri sonucunda, rapor kapsamında ortaya konulması gereken tespitlerden birinin ya da bazılarının, raporun sonuç bölümünde yer alan nihai görüşün olumlu olmasını engelleyecek şekilde yapılamadığı durumları ihtiva eden rapor aşağıdakilerden hangisidir?"
+  ],
+  "d": "Şartlı tespit raporu",
+  "c": [
+   "Olumsuz tespit raporu",
+   "Olumlu tespit raporu",
+   "Günlük rapor",
+   "Kısmi tespit raporu"
+  ],
+  "sabit": null,
+  "g": "Tebliğde şartlı tespit raporu, yetkilendirilmiş gümrük müşavirince gerçekleştirilen tespit işlemleri sonucunda rapor kapsamında ortaya konulması gereken tespitlerden birinin ya da bazılarının, nihai görüşün olumlu olmasını engelleyecek şekilde yapılamadığı durumları ihtiva eden rapor olarak tanımlanmıştır. Olumsuz tespit raporu doğrudan olumsuz görüşü ihtiva eden rapordur; günlük rapor ise sayım tutanakları ve diğer önemli olaylara ilişkin bilgileri içerir. Tuzak: şartlı raporda görüş olumsuz değildir; tespitlerin bir kısmı yapılamamıştır. (MD YGM Tebliği 4/1-ç, d, e, ğ)",
+  "kanit": "31-YGM.txt | Şartlı tespit raporu: Yetkilendirilmiş gümrük müşavirince gerçekleştirilen tespit işlemleri sonucunda, rapor kapsamında ortaya konulması gereken tespitlerden birinin ya da bazılarının, raporun sonuç bölümünde yer alan nihai görüşün olumlu olmasını engelleyecek şekilde yapılamadığı durumları ihtiva eden raporu ... Olumsuz tespit raporu: Yetkilendirilmiş gümrük müşavirince gerçekleştirilen tespit işlemleri sonucunda olumsuz görüşü ihtiva eden raporu ... Günlük rapor: Sayım tutanakları ve diğer önemli olaylara ilişkin bilgileri içeren"
+ },
+ {
+  "test": 1,
+  "konu": "Yetkilendirilmiş Yükümlü",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/82",
+  "alt_tip": "Ö3",
+  "kalip": "ÖNERMELİ",
+  "z": "O",
+  "madde": "GİKY 27/1, 27/2",
+  "cek": "YYS sahibinden talep hâlinde %10 teminat: antrepo, GKAİ ve geçici ithalatta; dahilde işlemede ilgili karar hükümleri saklıdır.",
+  "kok": [
+   "Aşağıda bazı gümrük rejimleri verilmiştir:",
+   "I. Gümrük antrepo rejimi",
+   "II. Dahilde işleme rejimi",
+   "III. Geçici ithalat rejimi",
+   "IV. Gümrük kontrolü altında işleme rejimi",
+   "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yukarıdaki rejimlerden hangilerine tabi tutulan eşya için teminat alınmasının öngörüldüğü durumlarda, yetkilendirilmiş yükümlü sertifikası sahibi kişilerden talep etmeleri hâlinde ithalat vergilerinin yüzde onu oranında teminat alınır?"
+  ],
+  "d": "I, III ve IV",
+  "c": [
+   "I ve III",
+   "II ve IV",
+   "II, III ve IV",
+   "I, II, III ve IV"
+  ],
+  "sabit": {
+   "siklar": [
+    "I ve III",
+    "II ve IV",
+    "I, III ve IV",
+    "II, III ve IV",
+    "I, II, III ve IV"
+   ],
+   "dogru": "C"
+  },
+  "g": "Yönetmeliğe göre gümrük antrepo, gümrük kontrolü altında işleme ve geçici ithalat rejimlerine tabi tutulan eşya için teminat alınmasının öngörüldüğü durumlarda, sertifika sahibi kişilerden talep etmeleri hâlinde ithalat vergilerinin %10'u oranında teminat alınır. Dahilde işleme ve hariçte işleme rejimlerinde ise bu rejimlerin usul ve esaslarına ilişkin kararlarla belirlenmiş teminat uygulamalarına ilişkin hükümler saklıdır; bu nedenle dahilde işleme rejimi kısmi teminat uygulamasının sayıldığı rejimler arasında değildir. (MD GİKY 27/1, 27/2)",
+  "kanit": "3-YYS.txt | Gümrük antrepo rejimi Gümrük kontrolü altında işleme rejimi Geçici ithalat rejimi ... sertifika sahibi kişilerden, talep etmeleri halinde, ithalat vergilerinin %10'u oranında teminat alınır. ... Dahilde işleme ve hariçte işleme rejimleri ile ilgili usul ve esaslar hakkında çıkarılan Bakanlar Kurulu Kararları ile belirlenmiş teminat uygulamalarına ilişkin hükümler saklıdır."
+ },
+ {
+  "test": 1,
+  "konu": "Onaylanmış Kişi",
+  "sinif": "AZ",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "ÇZ",
+  "madde": "OKS Tebliği 7/1, 9/1, 10/2-a, 13/3, 14/6",
+  "cek": "OKSB yenileme başvurusu, geçerlilik süresinin bitimine dört aydan fazla süre kala yapılırsa değerlendirilmeksizin iade edilir.",
+  "kok": [
+   "Onaylanmış Kişi Statüsüne İlişkin Gümrük Genel Tebliği (Sıra No: 1)'ne göre onaylanmış kişi statü belgesinin başvuru, düzenlenme ve yenilenme işlemlerine ilişkin süreler hakkında aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Statü belgesinin geçerlilik süresinin bitimine altı aydan fazla süre kala yapılan yenileme başvuruları, değerlendirilmeksizin başvuru sahibine iade edilir.",
+  "c": [
+   "OK1 tespit işleminin, sözleşmenin yapıldığı tarihi izleyen otuz gün içerisinde yetkilendirilmiş gümrük müşavirince olumlu veya olumsuz olarak rapora bağlanması zorunludur.",
+   "Statü belgesi başvurusu, olumlu tespit raporunun düzenlenme tarihini izleyen beş iş günü içerisinde yetkili bölge müdürlüğüne yapılır.",
+   "Götürü teminat uygulamasından yararlanma hakkı talep edilmemişse başvuru, genel evrak kaydına alınmasını takiben en geç on iş günü içinde incelenir.",
+   "Kayıp veya zayi olan statü belgesinin yerine, uygun görülmesi hâlinde en geç beş iş günü içerisinde aynı tarih, sayı ve referans numaralı yeni bir statü belgesi düzenlenebilir."
+  ],
+  "sabit": null,
+  "g": "Tebliğe göre statü belgesinin geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan yenileme başvuruları değerlendirilmeksizin başvuru sahibine iade edilir; ifadede bu süre altı ay olarak değiştirilmiştir. OK1 tespitinin sözleşmeyi izleyen otuz gün içinde rapora bağlanması, başvurunun olumlu tespit raporunun düzenlenmesini izleyen beş iş günü içinde yapılması, götürü teminat talep edilmeyen başvuruların on iş günü içinde incelenmesi ve kayıp ya da zayi belgenin yerine beş iş günü içinde aynı tarih, sayı ve referans numaralı yeni belge düzenlenebilmesi Tebliğdeki sürelerle uyumludur. (MD OKS Tebliği 7/1, 9/1, 10/2-a, 13/3, 14/6)",
+  "kanit": "4-OKSB.txt | Statü belgesinin geçerlilik süresinin bitimine dört aydan fazla süre kala yapılan başvurular, değerlendirilmeksizin başvuru sahibine iade edilir. ... OK1 tespit işleminin sözleşmenin yapıldığı tarihi izleyen otuz gün içerisinde YGM'ce olumlu veya olumsuz olarak rapora bağlanması zorunludur. ... olumlu tespit raporunun düzenlenme tarihini izleyen beş iş günü içerisinde yapılır. ... Götürü teminat uygulamasından yararlanma hakkının talep edilmemiş olması halinde başvurunun genel evrak kaydına alınmasını takiben en geç on iş günü içinde incelenir. ... en geç beş iş günü içerisinde aynı tarih, sayı ve referans numaralı yeni bir statü belgesi düzenlenebilir."
+ },
+ {
+  "test": 2,
+  "konu": "Gümrük Müşavirliği",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/37",
+  "alt_tip": "G1",
+  "kalip": "DOĞRU",
+  "z": "Z",
+  "madde": "GK 229/2; GY 563/6",
+  "cek": "GM tüzel kişiliğinin dolaylı temsille iş takibi için AŞ'de yönetim kurulu üyeleri, limited şirkette müdürler ortak olmalıdır.",
+  "kok": [
+   "4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğine göre gümrük müşavirliğinin tüzel kişilik oluşturularak yürütülmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?"
+  ],
+  "d": "Gümrük müşavirlerince kurulan tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmeleri için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir.",
+  "c": [
+   "Tüzel kişilik ortağı olan gümrük müşavirleri, ayrıca gerçek kişi olarak da mesleki faaliyette bulunabilirler.",
+   "Gümrük müşavirliği yapacak tüzel kişilere, gümrük müşaviri ve gümrük müşavir yardımcısı olmayan kişiler de sermayenin yarısını geçmemek üzere ortak olabilirler.",
+   "Tüzel kişiliği temsil ve ilzam etmek üzere atanan şirket ortağı dışındaki üçüncü kişilere sınırsız temsil yetkisi verilebilir.",
+   "Beyannameyi imzalayanların vergi kaybına neden olan durumu bildiği veya bilmesi gerektiği hâllerde tüzel kişilik, işlemi yapan kişiyle birlikte yalnızca alınan vergiler yönünden müteselsilen sorumlu olup verilen para cezalarından sorumlu tutulmaz."
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre gümrük müşavirlerince kurulan tüzel kişiliklerin dolaylı temsilci olarak iş takip edebilmeleri için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir. Tüzel kişilik ortağı olan gümrük müşavirleri gerçek kişi olarak mesleki faaliyette bulunamaz; gümrük müşaviri ve yardımcıları dışındaki kişiler bu tüzel kişilere ortak olamaz; ortak dışındaki üçüncü kişilere ancak sınırlandırılmış temsil yetkisi verilebilir. Kanuna göre bu hâllerde tüzel kişilik, işlemi yapan kişiyle birlikte alınan vergiler ve verilen para cezaları yönünden müteselsilen sorumludur. (MD GK 229/2; GY 563/6)",
+  "kanit": "2-TEMSİL.txt | Gümrük müşavirlerince kurulan tüzel kişiliklerin Kanunun 5 inci maddesine göre dolaylı temsilci olarak iş takip edebilmeleri için anonim şirketlerde yönetim kurulu üyelerinin, limited şirketlerde şirket müdürlerinin şirket ortağı olması gerekir. ... Tüzel kişilik ortağı olan gümrük müşavirleri gerçek kişi olarak mesleki faaliyette bulunamazlar. ... Gümrük müşavir ve müşavir yardımcıları dışındaki kişiler, gümrük müşavirliği yapacak olan tüzel kişilere ortak olamazlar. ... Tüzel kişiliği temsil ve ilzam etmek üzere atanan şirket ortağı dışındaki üçüncü kişilere ancak sınırlandırılmış temsil yetkisi verilebilir. ... işlemi yapan kişi ile birlikte tüzel kişilik de gümrük idaresince alınan vergiler ve verilen para cezaları yönünden müteselsilen sorumludur."
+ },
+ {
+  "test": 2,
+  "konu": "Temel Tanımlar",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "O",
+  "madde": "GY 3/1-h; GK 3/14",
+  "cek": "Gümrük işlemlerinin bitirilmesi: vergilerin ödenmesi, kaldırılması, teminata bağlanması, beyanname iptali, terk, imha, müsadere; yeniden ihraç sayılmaz.",
+  "kok": [
+   "Gümrük Yönetmeliğinde yer alan tanıma göre aşağıdakilerden hangisi \"gümrük işlemlerinin bitirilmesi\" kapsamında sayılmamıştır?"
+  ],
+  "d": "Eşyanın Türkiye Gümrük Bölgesi dışına yeniden ihracı",
+  "c": [
+   "Eşyaya ait vergilerin teminata bağlanması",
+   "Eşyaya ait vergilerin kaldırılması",
+   "Beyannamenin iptal edilmesi",
+   "Eşyanın müsadere edilmesi"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğinde gümrük işlemlerinin bitirilmesi; eşyaya ait vergilerin ödenmesini, kaldırılmasını veya teminata bağlanmasını, beyannamenin iptal edilmesini ya da eşyanın gümrüğe terk edilmesini, imhasını veya müsadere edilmesini ifade eder. Eşyanın Türkiye Gümrük Bölgesi dışına yeniden ihracı, Gümrük Kanununda eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulması hâlleri arasında sayılır; ancak gümrük işlemlerinin bitirilmesi tanımında yer almaz. Tuzak: terk ve imha her iki sayımda da bulunduğu hâlde yeniden ihraç yalnızca gümrükçe onaylanmış işlem veya kullanım listesindedir. (MD GY 3/1-h; GK 3/14)",
+  "kanit": "1-TANIMLAR.txt | Gümrük işlemlerinin bitirilmesi: Eşyaya ait vergilerin ödenmesini veya kaldırılmasını veya teminata bağlanmasını veya beyannamenin iptal edilmesini veya eşyanın gümrüğe terk edilmesini veya imhasını veya müsadere edilmesini ... Türkiye Gümrük Bölgesi dışına yeniden ihracını"
+ },
+ {
+  "test": 2,
+  "konu": "Temel Tanımlar",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "GK 3/3, 3/4, 3/20-b, 3/21",
+  "cek": "Tüzel kişi, TGB'de kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunuyorsa yerleşik sayılır; şube yeterlidir.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununda kişilere ilişkin olarak yapılan tanımlara göre aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Türkiye Cumhuriyeti Gümrük Bölgesinde şubesi bulunan tüzel kişiler, kanuni iş merkezi de bu bölgede bulunmadıkça bu bölgede yerleşik kişi sayılmaz.",
+  "c": [
+   "\"Kişi\" deyimi, gerçek ve tüzel kişiler ile hukuken tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat uyarınca hukuki tasarruflar yapma yetkisi tanınan kişiler ortaklığını ifade eder.",
+   "Türkiye Cumhuriyeti Gümrük Bölgesinde yerleşim yeri olan bütün gerçek kişiler bu bölgede yerleşik kişi sayılır.",
+   "Transit rejiminde \"asıl sorumlu\" deyimi, rejim hak sahibini ifade eder.",
+   "\"İzin hak sahibi\" deyimi, kendisine bir izin verilen kişiyi ifade eder."
+  ],
+  "sabit": null,
+  "g": "Gümrük Kanununa göre Türkiye Cumhuriyeti Gümrük Bölgesinde kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan bütün tüzel kişi veya kişiler ortaklığı bu bölgede yerleşik kişi sayılır; bölgede şubenin bulunması yeterlidir, kanuni iş merkezinin de bölgede bulunması aranmaz. Kişi tanımı, gerçek kişilerde yerleşim yeri ölçütü, transit rejiminde asıl sorumlunun rejim hak sahibi olması ve izin hak sahibinin kendisine izin verilen kişi olması Kanundaki tanımlarla uyumludur. (MD GK 3/3, 3/4, 3/20-b, 3/21)",
+  "kanit": "1-TANIMLAR.txt | Bu bölgede kayıtlı işyeri, kanuni iş merkezi veya şubesi bulunan bütün tüzel kişi veya kişiler ortaklığını ... deyimi, gerçek ve tüzel kişiler ile hukuken tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat uyarınca hukuki tasarruflar yapma yetkisi tanınan kişiler ortaklığını ... deyimi, transit rejiminde rejim hak sahibini ... deyimi, kendisine bir izin verilen kişiyi"
+ },
+ {
+  "test": 2,
+  "konu": "Temsil",
+  "sinif": "AZ",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/76",
+  "alt_tip": "Ö2",
+  "kalip": "ÖNERMELİ",
+  "z": "ÇZ",
+  "madde": "GY 561/2, 561/3, 561/4-a, 561/5; GK 227/1-g, h",
+  "cek": "Kamu kurumlarının vekâletnamelerinde noter onayı aranmaz; vekâletname ve temsilnameler idareye verilmezse iş takibi yasaktır.",
+  "kok": [
+   "Gümrüklerde temsil yoluyla iş takibine ilişkin olarak aşağıdaki ifadeler verilmiştir:",
+   "I. Posta yolu ve hızlı kargo taşımacılığına konu, miktar ve değeri belirlenen eşyanın gümrük işlemleri, posta idaresi ya da hızlı kargo taşımacılığı yapan şirketlerce vekâletname ibraz edilmeksizin dolaylı temsilci olarak sonuçlandırılabilir.",
+   "II. Gümrük idarelerinde dolaylı temsil yoluyla iş takibi için eşya sahibince verilen vekâletnamenin noter tasdikli olması gerekir; bu şart kamu kurum ve kuruluşlarınca verilen vekâletnameler için de aranır.",
+   "III. Özel hukuk tüzel kişileri adına doğrudan temsil yoluyla iş takibi yapacak kişilerde, kanuni temsilciler hariç olmak üzere, gümrük müşavir yardımcılığı için öngörülen staj ve sınav şartları dışındaki şartlar aranır.",
+   "IV. Vekâletname ve temsilnamelerin gümrük idaresine verilmesi zorunlu değildir; bunların temsilci tarafından düzenli bir şekilde saklanması yeterlidir.",
+   "Gümrük Yönetmeliğine göre yukarıdaki ifadelerden hangileri yanlıştır?"
+  ],
+  "d": "II ve IV",
+  "c": [
+   "Yalnız II",
+   "Yalnız IV",
+   "I ve III",
+   "I ve IV"
+  ],
+  "sabit": {
+   "siklar": [
+    "Yalnız II",
+    "Yalnız IV",
+    "I ve III",
+    "I ve IV",
+    "II ve IV"
+   ],
+   "dogru": "E"
+  },
+  "g": "Gümrük Yönetmeliğine göre dolaylı temsil yoluyla iş takibini eşya sahibince verilmiş noter tasdikli vekâletnameyi haiz gümrük müşavirleri yapabilir; ancak kamu kurum ve kuruluşlarınca verilecek vekâletnamelerde noter onayı aranmaz, bu nedenle II yanlıştır. Vekâletname ve temsilnamelerin gümrük idaresine verilmesi ve düzenli bir şekilde saklanması gerekir; bunları ibraz etmeyenlerin iş takip etmesi yasaktır, bu nedenle IV de yanlıştır. Posta ve hızlı kargo işlemlerinin vekâletname ibraz edilmeksizin dolaylı temsille sonuçlandırılabilmesi ile özel hukuk tüzel kişileri adına doğrudan temsille iş takibi yapacak kişilerde (kanuni temsilciler hariç) staj ve sınav dışındaki gümrük müşavir yardımcılığı şartlarının aranması doğrudur. (MD GY 561/2, 561/3, 561/4-a, 561/5)",
+  "kanit": "2-TEMSİL.txt | posta idaresi ya da hızlı kargo taşımacılığı yapan şirketlerce vekaletname ibraz edilmeksizin, dolaylı temsilci olarak sonuçlandırılabilir. ... Ancak kamu kurum ve kuruluşlarınca verilecek vekâletnamelerde noter onayı aranmaz ... kanuni temsilcileri hariç diğer kişilerde, Kanunun 227 nci maddesinin birinci fıkrasının (g) ve (h) dışındaki bentlerinde sayılan şartlar aranır. ... Bu maddede belirtilen vekaletname ve temsilnamelerin gümrük idaresine verilmesi ve bunların düzenli bir şekilde saklanması gerekir. Söz konusu vekaletname ve temsilnameleri ibraz etmeyen kişilerin iş takip etmeleri yasaktır. ... g) Staj amacıyla bir gümrük müşavirinin yanında bir yıl çalışmış olmak, h) Yapılan gümrük mevzuatı ve gümrüğe ilişkin iktisadi, ticari ve mali konuları kapsayan sınavda başarılı olmak"
+ },
+ {
+  "test": 2,
+  "konu": "Disiplin",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/25",
+  "alt_tip": "D6",
+  "kalip": "MÜEYYİDE",
+  "z": "O",
+  "madde": "GK Geçici 6/3",
+  "cek": "Bilgisi dışında sahte belgeyle yanlış beyan rapora bağlanan gümrük müşavirine ilk defasında kınama, tekerrüründe geçici alıkoyma verilir.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre sahte belgelere dayanılarak yanlış beyanda bulunulduğunun, ancak bu durumun gümrük müşavirinin bilgisi dışında olduğunun, bununla birlikte bir araştırma sonucunda gerçek durumun öğrenilebileceğinin merkez denetim elemanlarınca rapora bağlandığı durumlarda ilgili gümrük müşavirine uygulanacak disiplin cezaları aşağıdakilerden hangisinde doğru olarak verilmiştir?"
+  ],
+  "d": "İlk defasında kınama, tekerrüründe geçici olarak mesleki faaliyetten alıkoyma",
+  "c": [
+   "İlk defasında uyarma, tekerrüründe kınama",
+   "İlk defasında uyarma, tekerrüründe geçici olarak mesleki faaliyetten alıkoyma",
+   "İlk defasında kınama, tekerrüründe meslekten çıkarma",
+   "İlk defasında geçici olarak mesleki faaliyetten alıkoyma, tekerrüründe meslekten çıkarma"
+  ],
+  "sabit": null,
+  "g": "Gümrük Kanununa göre sahte belgelere dayanılarak yanlış beyanda bulunulduğu, bu durumun gümrük müşavirinin bilgisi dışında olduğu ancak araştırma sonucunda gerçek durumun öğrenilebileceği merkez denetim elemanlarınca rapora bağlanmışsa, gümrük müşavirine ilk defasında kınama cezası verilir; tekerrüründe geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır. İlk defasında uyarma, tekrarında kınama sıralaması mesleki kurallara ve mesleğin vakar ve onuruna aykırı fiiller için; meslekten çıkarma ise kaçakçılık suçundan mahkûmiyeti kesinleşen meslek mensupları için öngörülmüştür. (MD GK Geçici 6/3)",
+  "kanit": "51-disiplin cezaları.txt | ilgili gümrük müşavirine ilk defasında kınama cezası verilir. Bu hususun tekerrür etmesi halinde geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır. ... meslek mensupları hakkında, ilk defasında uyarma, tekrarında ise kınama cezası uygulanır. ... kaçakçılık suçundan mahkumiyet kararı kesinleşen meslek mensuplarına, meslekten çıkarma cezası verilir."
+ },
+ {
+  "test": 2,
+  "konu": "YGM",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/87, 2022/67, 2024/91",
+  "alt_tip": "D1",
+  "kalip": "KISA_AD",
+  "z": "Z",
+  "madde": "YGM Tebliği 11/1-b, c, ç",
+  "cek": "GKAİ kapsamında ithal ürünün nihai ürün içindeki miktarının tespiti GK2 kodludur; GK1 ibra tespitidir.",
+  "kok": [
+   "Yetkilendirilmiş Gümrük Müşavirliği Tebliğine göre gümrük kontrolü altında işleme rejimi kapsamında ithal edilmiş ürünün nihai ürün içerisindeki miktarına ilişkin tespit işleminin kodu aşağıdakilerden hangisidir?"
+  ],
+  "d": "GK2",
+  "c": [
+   "GC1",
+   "GC2",
+   "GK1",
+   "NK1"
+  ],
+  "sabit": {
+   "siklar": [
+    "GC1",
+    "GC2",
+    "GK1",
+    "GK2",
+    "NK1"
+   ],
+   "dogru": "D"
+  },
+  "g": "Tebliğe göre gümrük kontrolü altında işleme rejimine ilişkin tespit işlemlerinden GK1 ibra işleminin, GK2 ise bu rejim kapsamında ithal edilmiş ürünün nihai ürün içerisindeki miktarının tespitini kapsar. GC1 ve GC2 geçici ithalat rejimine ilişkin tespit işlemleridir; NK1 ise eşyanın öngörülen süre içinde nihai kullanıma tahsis edilip edilmediğinin ve öngörülen amaçlar için kullanılıp kullanılmadığının tespitidir. (MD YGM Tebliği 11/1-b, c, ç)",
+  "kanit": "31-YGM.txt | GK2, gümrük kontrolü altında işleme rejimi kapsamında ithal edilmiş ürünün nihai ürün içerisindeki miktarına ilişkin tespitini ... GK1, gümrük kontrolü altında işleme rejimi kapsamında ibra işleminin tespitini ... NK1, eşyanın öngörülen süre dâhilinde nihai kullanıma tahsis edilip edilmediği ve öngörülen amaçlar için kullanılıp kullanılmadığının tespitini kapsar."
+ },
+ {
+  "test": 2,
+  "konu": "Yetkilendirilmiş Yükümlü",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D3",
+  "kalip": "KAPSAM",
+  "z": "O",
+  "madde": "GİKY 4/7, 4/8",
+  "cek": "YYS sahipleri eksik beyan usulü ve kısmi teminattan talepsiz; götürü teminat, izinli gönderici/alıcı ve yerinde gümrüklemeden talep ve ek koşulla yararlanır.",
+  "kok": [
+   "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre aşağıdakilerden hangisi, yetkilendirilmiş yükümlü statüsü sahiplerinin ayrıca bir talebe gerek kalmaksızın faydalanmalarına izin verilen basitleştirilmiş uygulamalardandır?"
+  ],
+  "d": "Eksik beyan usulü",
+  "c": [
+   "Götürü teminat uygulaması",
+   "İzinli gönderici yetkisi",
+   "İzinli alıcı yetkisi",
+   "İthalatta yerinde gümrükleme izni"
+  ],
+  "sabit": null,
+  "g": "Yönetmeliğe göre yetkilendirilmiş yükümlü statüsü sahiplerinin ayrıca bir talebe gerek kalmaksızın faydalanmalarına izin verilen basitleştirilmiş uygulamalar eksik beyan usulü ve kısmi teminat uygulamasıdır. Götürü teminat uygulaması, onaylanmış ihracatçı yetkisi, izinli gönderici ve izinli alıcı yetkileri ile ithalatta yerinde gümrükleme izninden ise sertifika sahipleri ancak talep etmeleri ve ilgili uygulamaya ilişkin ek koşulları sağlamaları hâlinde yararlanabilir. (MD GİKY 4/7, 4/8)",
+  "kanit": "3-YYS.txt | Yetkilendirilmiş yükümlü statüsü sahiplerinin, ayrıca bir talebe gerek kalmaksızın, aşağıdaki basitleştirilmiş uygulamalardan faydalanmalarına izin verilir: a) Eksik beyan usulü b) Kısmi teminat uygulaması ... İlgili uygulamaya ilişkin ek koşul veya koşulları sağlamaları halinde izin verilir: a) Götürü teminat uygulaması ... c) İzinli gönderici yetkisi ç) İzinli alıcı yetkisi d) İthalatta yerinde gümrükleme izni"
+ },
+ {
+  "test": 3,
+  "konu": "Gümrük Müşavirliği",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "KAPSAM_DIŞI",
+  "z": "K",
+  "madde": "GY 561/3",
+  "cek": "Dolaylı temsil vekâletnamesinde asgari unsurlar: adres-vergi bilgileri, işin amacı-kapsamı, karşılıklı sorumluluk, yer-tarih-süre, temsil türü; izin belgesi bilgisi sayılmamıştır.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre gümrük idarelerinde dolaylı temsil yoluyla iş takibi için verilen vekâletnamelerde en az yer verilmesi gereken hususlar arasında aşağıdakilerden hangisi sayılmamıştır?"
+  ],
+  "d": "Temsilcinin gümrük müşavirliği izin belgesinin tarih ve sayısı",
+  "c": [
+   "Tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları",
+   "Yapılacak işlerin amacı ve kapsamı",
+   "Vekâletname yeri, tarihi ve varsa süresi",
+   "Temsilin türü"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre dolaylı temsil yoluyla iş takibinde kullanılan vekâletnamelerde en az; tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları, yapılacak işlerin amacı ve kapsamı, tarafların Kanunda yer alanlara ilaveten belirlemeleri gereken karşılıklı sorumluluk ve yükümlülükleri, vekâletname yeri, tarihi ve varsa süresi ile temsilin türüne yer verilir. Temsilcinin izin belgesinin tarih ve sayısı bu asgari unsurlar arasında sayılmamıştır. (MD GY 561/3)",
+  "kanit": "2-TEMSİL.txt | Vekaletnamelerde en az aşağıdaki hususlara yer verilir; a) Tarafların açık adresleri, vergi daireleri ve vergi daireleri sicil numaraları. b) Yapılacak işlerin amacı, kapsamı c) Tarafların Kanunda yer alanlara ilaveten belirlemeleri gereken karşılıklı sorumluluk ve yükümlülükleri. ç) Vekaletname yeri, tarihi ve varsa süresi. d) Temsilin türü."
+ },
+ {
+  "test": 3,
+  "konu": "Gümrük Müşavirliği",
+  "sinif": "ÇOK",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D2",
+  "kalip": "YETKİ",
+  "z": "K",
+  "madde": "GY 573/1, 573/5",
+  "cek": "Sınavı kazanan GM ve GMY'ler izin belgesi için talep edilen belgelerle ilgili Gümrük Müşavirleri Derneğine başvurur.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları, izin belgesi düzenlenmesi için talep edilen belgelerle birlikte aşağıdakilerden hangisine başvurur?"
+  ],
+  "d": "İlgili Gümrük Müşavirleri Derneğine",
+  "c": [
+   "Gümrük ve dış ticaret bölge müdürlüğüne",
+   "Çalışacakları yerin bağlı olduğu gümrük müdürlüğüne",
+   "Sınav kuruluna",
+   "Gümrükler Genel Müdürlüğüne"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları, talep edilen belgelerle birlikte ilgili Gümrük Müşavirleri Derneğine başvurur; belgelerin Dernek tarafından Müsteşarlığa (Bakanlığa) teslimini müteakip fotoğraflı izin belgesi düzenlenir ve bu kişiler ancak izin belgesini aldıktan sonra mesleki faaliyette bulunabilir. Sınavsız gümrük müşaviri veya yardımcısı olabileceklerin izin belgesi başvuruları da faaliyette bulunmak istedikleri bölgedeki Dernek vasıtasıyla yapılır. (MD GY 573/1, 573/5)",
+  "kanit": "2-TEMSİL.txt | Sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları Müsteşarlıkça talep edilen belgelerle birlikte ilgili Gümrük Müşavirleri Derneğine başvurur. Bu belgelerin Dernek tarafından Müsteşarlığa teslimini müteakip Müsteşarlık tarafından fotoğraflı İzin Belgesi düzenlenir. ... İzin Belgesi müracaatları, faaliyette bulunmak istedikleri bölgedeki Gümrük Müşavirleri Derneği vasıtasıyla yapılır"
+ },
+ {
+  "test": 3,
+  "konu": "Temel Tanımlar",
+  "sinif": "ÇOK",
+  "tur": "cikmis_alani",
+  "cikmis": "2023/91, 2023/92",
+  "alt_tip": "G1",
+  "kalip": "DOĞRU",
+  "z": "K",
+  "madde": "GK 1, 2",
+  "cek": "Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununa göre Kanunun amacı ve Türkiye Cumhuriyeti Gümrük Bölgesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?"
+  ],
+  "d": "Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder.",
+  "c": [
+   "Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren eşyaya uygulanacak gümrük kurallarını belirlemektir; bölgeden çıkan eşya Kanunun amacı dışında kalır.",
+   "Türkiye kara suları ve iç suları gümrük bölgesine dahil olup hava sahası gümrük bölgesinin dışında kalır.",
+   "Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya uygulanacak gümrük kurallarını belirlemek olup taşıt araçları bu amacın kapsamında yer almaz.",
+   "Kanunda geçen Gümrük Bölgesi kavramı, Türkiye ile Avrupa Birliği arasında oluşturulan Gümrük Birliğinin gümrük bölgesini ifade eder."
+  ],
+  "sabit": null,
+  "g": "Gümrük Kanununa göre Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder. Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya ve taşıt araçlarına uygulanacak gümrük kurallarını belirlemektir; gümrük bölgesi Türkiye Cumhuriyeti topraklarını kapsar ve Türkiye kara suları, iç suları ve hava sahası da bu bölgeye dahildir. (MD GK 1, 2)",
+  "kanit": "1-TANIMLAR.txt | Bu Kanunda geçen Türkiye Gümrük Bölgesi ve Gümrük Bölgesi kavramları Türkiye Cumhuriyeti Gümrük Bölgesini ifade eder. ... Bu Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya ve taşıt araçlarına uygulanacak gümrük kurallarını belirlemektir. ... Türkiye kara suları, iç suları ve hava sahası gümrük bölgesine dahildir."
+ },
+ {
+  "test": 3,
+  "konu": "Disiplin",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "B1",
+  "kalip": "BOŞLUK",
+  "z": "O",
+  "madde": "GK Geçici 6/4, 6/7",
+  "cek": "Üç yıllık dönemde birden fazla disiplin suçunda daha ağır ceza; beş yılda iki alıkoymadan sonra tekrarda meslekten çıkarma uygulanır.",
+  "kok": [
+   "4458 sayılı Gümrük Kanununun gümrük müşavirleri ve gümrük müşavir yardımcılarına uygulanacak disiplin cezalarına ilişkin hükümlerinde \"----- yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir. ----- yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma cezası ile cezalandırılmasından sonra bu cezayı gerektiren fiili yeniden işleyen meslek mensupları hakkında meslekten çıkarma cezası uygulanır.\" denilmektedir.",
+   "Yukarıdaki paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?"
+  ],
+  "d": "Üç / beş",
+  "c": [
+   "Bir / üç",
+   "Beş / bir",
+   "Beş / üç",
+   "Beş / beş"
+  ],
+  "sabit": {
+   "siklar": [
+    "Bir / üç",
+    "Üç / beş",
+    "Beş / bir",
+    "Beş / üç",
+    "Beş / beş"
+   ],
+   "dogru": "B"
+  },
+  "g": "Gümrük Kanununa göre üç yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir; beş yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma cezası ile cezalandırıldıktan sonra bu cezayı gerektiren fiili yeniden işleyen meslek mensubu hakkında meslekten çıkarma cezası uygulanır. Tuzak: üç yıl aynı zamanda adli kovuşturma dışındaki disiplin cezalarında zamanaşımı süresidir; meslekten çıkarmaya götüren dönem ise beş yıldır. (MD GK Geçici 6/4, 6/7)",
+  "kanit": "51-disiplin cezaları.txt | Üç yıllık bir dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha ağır ceza uygulanabilir. Beş yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma cezası ile cezalandırılmasından sonra bu cezayı gerektiren fiili yeniden işleyen meslek mensupları hakkında meslekten çıkarma cezası uygulanır. ... gümrük idarelerince tespit edildiği tarihten itibaren üç yıl süreyle uygulanmadığı takdirde zamanaşımına uğrar."
+ },
+ {
+  "test": 3,
+  "konu": "YGM",
+  "sinif": "ORTA",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "O1",
+  "kalip": "ŞART",
+  "z": "Z",
+  "madde": "GY 576/1",
+  "cek": "YGM niteliklerinde son üç yılda üçten fazla uyarma veya kınama almamış olmak aranır; hiç almamış olmak şartı yoktur.",
+  "kok": [
+   "Gümrük Yönetmeliğine göre aşağıdakilerden hangisi yetkilendirilmiş gümrük müşavirlerinin sahip olması gereken nitelikler arasında yer almaz?"
+  ],
+  "d": "Son üç yıl içerisinde hiç uyarma veya kınama cezası almamış olmak",
+  "c": [
+   "Dolaylı temsil suretiyle gümrük idarelerinde iş takip etmemek ve bu amaçla kurulmuş tüzel kişilere ortak olmamak",
+   "Tespit işlemlerinin yapılacağı kişiler ve antrepo işleticileri ile ortaklık ve çalışan statüde ilişkisi bulunmamak",
+   "Yetmiş beş yaşını doldurmamış olmak",
+   "Gümrük Kanunu uyarınca birden fazla geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak"
+  ],
+  "sabit": null,
+  "g": "Gümrük Yönetmeliğine göre yetkilendirilmiş gümrük müşaviri olabilmek için son üç yıl içerisinde üçten fazla uyarma veya kınama cezası almamış olmak gerekir; son üç yılda hiç uyarma veya kınama cezası almamış olma şartı aranmaz. Dolaylı temsil suretiyle iş takip etmemek ve bu amaçla kurulmuş tüzel kişilere ortak olmamak, tespit yapılacak kişiler ve antrepo işleticileriyle ortaklık ve çalışan statüde ilişkisi bulunmamak, yetmiş beş yaşını doldurmamış olmak ve birden fazla geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak sayılan nitelikler arasındadır. (MD GY 576/1)",
+  "kanit": "31-YGM.txt | son üç yıl içerisinde üçten fazla uyarma veya kınama cezası almamış olmak ... Dolaylı temsil suretiyle gümrük idarelerinde iş takip etmemek ve bu amaçla kurulmuş tüzel kişilere ortak olmamak ... Tespit işlemlerinin yapılacağı kişiler ve antrepo işleticileri ile ortaklık ve çalışan statüde ilişkisi bulunmamak ... yaşını doldurmamış olmak. (Geçici Madde 13 de atıf yapılmıştır) ... birden fazla geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak"
+ },
+ {
+  "test": 3,
+  "konu": "Yetkilendirilmiş Yükümlü",
+  "sinif": "ORTA",
+  "tur": "cikmis_alani",
+  "cikmis": "2021/25, 2022/93, 2025/99",
+  "alt_tip": "O2",
+  "kalip": "YANLIŞ",
+  "z": "O",
+  "madde": "GİKY 4/1, 5/1-l, 5/8, 7/1, 7/3",
+  "cek": "YYS mali yeterlilik incelemesi başvuru yılından önceki üç yıl esas alınarak yeminli mali müşavirce yapılır; iki yıl yanlıştır.",
+  "kok": [
+   "Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğine göre yetkilendirilmiş yükümlü statüsünün tanınması için aranan koşullara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+  ],
+  "d": "Başvuru sahibinin mali yapısının, başvuru yılından önceki iki yıl esas alınarak yeminli mali müşavir tarafından incelenip olumlu görüşle rapora bağlanmış olması gerekir.",
+  "c": [
+   "Statü, gümrük mevzuatına göre serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olan ve en az üç yıldır fiilen faaliyette bulunan kişilere tanınır.",
+   "Mali yeterlilik, başvuru sahibinin taahhütlerini karşılamaya yeterli bir mali durumda bulunmasını ve hakkında iflas veya konkordato işlemleri başlatılmamış olmasını ifade eder.",
+   "Başvurunun yapıldığı yıldan önceki takvim yılı içinde veya başvurunun yapıldığı ayın ilk gününden geriye dönük bir yıl içerisinde gümrük idaresinde en az 100 adet beyan kapsamında işlem yapılmış olması gerekir.",
+   "Kesinleşmiş vergi ve ceza borcu bulunmaması koşulu değerlendirilirken teminata bağlanan, yapılandırılan, tecil edilen veya taksitlendirilen borçlar dikkate alınmaz."
+  ],
+  "sabit": null,
+  "g": "Yönetmeliğe göre başvuru sahibinin mali yapısının, başvuru yılından önceki üç yıl esas alınarak yeminli mali müşavir tarafından incelenip olumlu görüşle rapora bağlanmış olması gerekir; ifadede bu süre iki yıl olarak değiştirilmiştir. Serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olma ve en az üç yıldır fiilen faaliyette bulunma, mali yeterliliğin tanımı, en az 100 beyan kapsamında işlem yapılmış olma şartı ile teminata bağlanan, yapılandırılan, tecil edilen veya taksitlendirilen borçların dikkate alınmaması Yönetmelikle uyumludur. (MD GİKY 4/1, 5/1-l, 5/8, 7/1, 7/3)",
+  "kanit": "3-YYS.txt | Başvuru yılından önceki 3 yıl esas alınmak suretiyle, Yeminli mali müşavir tarafından incelenerek, Olumlu görüşle rapora bağlanmış ... Gümrük mevzuatına göre serbest bölgeler dâhil Türkiye Gümrük Bölgesinde yerleşik olmak, En az 3 yıldır fiilen faaliyette bulunmak. ... Taahhütlerini karşılamaya yeterli bir mali durumda bulunmasını ve Hakkında iflas veya konkordato işlemleri başlatılmamış olmasını ... gümrük idaresinde en az 100 adet beyan kapsamında işlem yapılmış olması. ... Teminata bağlanan, Yapılandırılan, Tecil edilen, Taksitlendirilen veya"
+ },
+ {
+  "test": 3,
+  "konu": "Sonradan Kontrol",
+  "sinif": "HİÇ",
+  "tur": "sorulmamis",
+  "cikmis": "",
+  "alt_tip": "D1",
+  "kalip": "SÜRE",
+  "z": "K",
+  "madde": "Sonradan Kontrol Yön. 10/1, 10/2, 10/3",
+  "cek": "Müfettiş sonradan kontrole başlanacağını başlama tarihinden en az on gün önce ilgilisine bildirir.",
+  "kok": [
+   "Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliğine göre sonradan kontrolü yapacak müfettiş, önceden tebligatın kontrolün amacını tehlikeye düşüreceği durumlar dışında, sonradan kontrole başlanacağını ilgilisine başlama tarihinden en az kaç gün önce bildirir?"
+  ],
+  "d": "10",
+  "c": [
+   "5",
+   "7",
+   "15",
+   "30"
+  ],
+  "sabit": {
+   "siklar": [
+    "5",
+    "7",
+    "10",
+    "15",
+    "30"
+   ],
+   "dogru": "C"
+  },
+  "g": "Yönetmeliğe göre sonradan kontrolü yapacak müfettiş, sonradan kontrole başlama tarihinden en az on gün önce kontrole başlanacağını ilgilisine bildirir. Kontrole tabi kişiler tebligat tarihinden itibaren bir hafta içinde yazılı olarak geçerli ve kabul edilebilir bir neden ileri sürerek başlama tarihinin istisnai olarak ertelenmesini sağlayabilir; kontrolün amacını tehlikeye düşürecek durumlarda ise önceden tebligatta bulunulmaz. Tuzak: yedi gün (bir hafta) bildirim süresi değil, erteleme talebi için öngörülen süredir. (MD Sonradan Kontrol Yön. 10/1, 10/2, 10/3)",
+  "kanit": "5-SONRADAN KONTROL.txt | Sonradan kontrolü yapacak Müfettiş, sonradan kontrole başlama tarihinden en az on gün önce, sonradan kontrole başlanacağını ilgilisine bildirir. ... tebligat tarihinden itibaren bir hafta içinde yazılı olarak geçerli ve kabul edilebilir bir neden ileri sürülmesi hâlinde ... Sonradan kontrolün amacını tehlikeye düşürecek olması durumunda önceden tebligatta bulunulmaz."
+ }
+]
