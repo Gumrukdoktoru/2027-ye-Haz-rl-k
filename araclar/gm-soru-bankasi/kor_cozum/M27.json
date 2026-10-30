@@ -1,0 +1,62 @@
+{
+ "M27-01": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Seri 1 Tebliğ md 22/2: transit hâlindeki geçici (ZOLL) plakalı taşıtlara en çok 15 gün süre verilir (30 gün yanlış). A md 15/1-b; C md 9; D md 6/2; E md 6/3.",
+  "sorun": []
+ },
+ "M27-02": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Seri 1 md 6/6: taşıt ve kişi için süreler ayrı ayrı hesaplanır ve KISA olan süre verilir. A md 6/1; B 6/4; C 6/7; D 6/8.",
+  "sorun": []
+ },
+ "M27-03": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Seri 1 md 4/ö: yabancı taşıtlar geçici giriş formu, gümrük idarelerince teminat karşılığında düzenlenen ve yalnız Türkiye için geçerli belge. A karne (4/o), B CPD (4/e), D taşıt giriş-çıkış formu (4/j), E geçici giriş belgesi (4/d).",
+  "sorun": []
+ },
+ "M27-04": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Seri 4 Tebliğ md 3: Sözleşme çekincelerle onaylanmış, 'posta trafiğinde ATA karneleri kabul edilmeyecektir.' A md 4; B md 4/f; C md 8; E md 2.",
+  "sorun": []
+ },
+ "M27-05": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Seri 4 md 6/3 son: Ek B8 kapsamında arazide çalışmaya mahsus ekipman faaliyet sona erer ermez yurt dışı edilmesi gerektiğinden karne hamilinin talep ettiği süre kadar yurtta kalma süresi verilir.",
+  "sorun": []
+ },
+ "M27-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Seri 4 md 10/a (I: 1 yıl içinde tebligat), 10/b (II: %10 fazlasını aşamaz), 10/c (IV: 7 gün) doğru. Md 10/b: delil için 6 ay süre (III yanlış); md 10/e: para cezası ve faizi karne hamilinden tahsil edilir (V yanlış).",
+  "sorun": []
+ },
+ "M27-07": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Seri 1 md 26/1-a (14.08.2026 Seri No 9 ile değişik): ikamet yeri TGB DIŞINDA bulunan eşi, usul ya da füruu veya izin hak sahibinin taşıtta bulunması kaydıyla ikamet yeri TGB dışında bulunan kişiler kullanabilir. D 26/1-c görevli kişilerin taşıtına ait.",
+  "sorun": []
+ },
+ "M27-08": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Seri 1 md 20/7: şartların ihlali nedeniyle vergi ve cezaların tahsil edilmiş olması taşıtın serbest dolaşıma girişini SAĞLAMAZ; taşıtın yurt dışı edilmesi gerekir. A 20/4; B 19/4; C 20/3; E 20/1-b, 20/2.",
+  "sorun": []
+ },
+ "M27-09": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Seri 1 md 30/7: çalındıktan sonra bulunan taşıtlar gümrük gözetimine alınıp sahibine tebligat yapılır, geçici depolanan eşya statüsünde değerlendirilir, süresinde teslim alınmazsa tasfiye hükümleri uygulanır.",
+  "sorun": []
+ },
+ "M27-10": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Seri 1 md 17/3 (I), 32/2 (III), 29/1 (IV) doğru. Md 32/1: üç aylık süre talep halinde mücbir sebep belgesi ARANMAKSIZIN üç aya kadar uzatılabilir (II yanlış).",
+  "sorun": []
+ }
+}

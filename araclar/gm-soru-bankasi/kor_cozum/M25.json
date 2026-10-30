@@ -1,0 +1,100 @@
+{
+ "M25-01": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Genelge 2008/2 md 17: TEV ihracat GB tescil tarihinde doğar, GB bazında hesaplanır, global hesaplama yapılamaz (I); md 6: kaynak ve varış ülkesi aynıysa TEV aranmaz (II); md 3: A.TR/menşe ispat belgesi talep edilmemişse TEV aranmaz (III yanlış); md 7: vergi oranı sıfır ve TKF yoksa aranmaz (IV); Tebliğ md 33/7: TEV bütçeye irat kaydedilir (V yanlış).",
+  "sorun": []
+ },
+ "M25-02": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Genelge md 12: EUR.1 ile Fas, Tunus, Mısır, Suriye'ye ihracatta TEV aranmaz; ancak PAAMK çapraz kümülasyon için EUR-MED kullanılırsa TEV aranır. C: Tebliğ 33/9 harp araçları; D: 33/4 ve Genelge md 8 canlı hayvan ürünleri; E: 33/2-b 1/2007 dışı işlenmiş tarım ürününde tarım ürünü girdisi için TEV aranmaz.",
+  "sorun": []
+ },
+ "M25-03": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 45/4-b: döviz kullanım oranı aşımında indirimli teminat hakkına sahip firma için Bakanlıkça uygun görüldüğü tarihten itibaren 6 ay indirimli teminat uygulanmaz; 2 takvim yılı içindeki müteakip ihlalde teminat 2 katına kadar artırılır (E müteakip ihlal).",
+  "sorun": []
+ },
+ "M25-04": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 45/5: süre bitimini (31.03.2026) takiben 1 ay içinde (30.04.2026'ya kadar) iki katı, 2 ay içinde (31.05.2026'ya kadar) dört katı usulsüzlük cezası. 19.05.2026 ikinci aya düşer → dört katı.",
+  "sorun": [
+   "Küçük not: 19.05.2026 hafta içi (salı) ama resmî tatil (19 Mayıs). Vaka tarihi olarak başka bir iş günü seçilebilir."
+  ]
+ },
+ "M25-05": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 37/1-b (I), 37/2 (II), 38/2 'Gümrük beyannamesinin belge/izin süresi içerisinde tescil edilmiş olması ... yeterli sayılır' (III) doğru. Md 38/14 grup firmalarının ihracatı kullanılabilir (IV yanlış); md 38/3 satır kodu zorunlu (V yanlış).",
+  "sorun": []
+ },
+ "M25-06": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 36/5: indirimli teminat uygulaması çerçevesinde düzenlenen belge/izin kapsamındaki ithalat için kısmi teminat iadesi YAPILMAZ. B md 35; C md 36/4; D md 36/3; E md 36/1-2.",
+  "sorun": []
+ },
+ "M25-07": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 30/3: temsilcinin eşyayı teslim etmemesi halinde temsilci, alınmayan vergiden belge/izin sahibiyle müştereken ve müteselsilen sorumlu. A: Borçlar Kanunu temsil hükümleri; B: önceden bölge müdürlüğü izni gerekir; C: miktar aşılamaz; D: unvan ve satır kodu kaydı gerekir.",
+  "sorun": []
+ },
+ "M25-08": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 40/1-a: yurt içi alım yapılan belge kapsamındaki teminatlar Tarım ve Orman Bakanlığınca tespit edilen şeker fabrikalarınca iade edilir.",
+  "sorun": []
+ },
+ "M25-09": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 31/2-a: süre geçerliliği, GTİP, satır kodu, cinsin değişmemesi, miktarın aşılmaması, teminat, ilgili kurum müsaadesi. Menşe ispat belgesi ibrazı sayılmamış.",
+  "sorun": []
+ },
+ "M25-10": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ geçici madde (7) fıkra (17.04.2026 RG): 7108, 7112.91, 7113.19 izinlerine '1 (bir) ayı geçmemek üzere izin orijinal süresinin yarısı kadar ilave süre'. A (3 ay) aynı tarihli (6) fıkranın bu pozisyonlar hariç diğer belge/izinlere ilişkin hükmü.",
+  "sorun": []
+ },
+ "M25-11": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 38/10: belgeden belgeye teslimde sorumluluk ithalatı yapan firmada (I doğru); md 38/A-4: devirde sorumluluk DEVRALAN firmaya geçer (II yanlış); Genelge md 20: TEV'den 1. firma sorumlu (III doğru) ama makbuz 2. firma adına düzenlenir (IV yanlış).",
+  "sorun": []
+ },
+ "M25-12": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 46/1: vergi, beyannamenin taahhüt kapatmada kullanılıp kullanılmadığına bakılmaksızın ve taahhüt kapatma müracaatı BEKLENİLMEKSİZİN tahsil edilir. A md 46/2; C 46/3; D 46/6; E 46/5.",
+  "sorun": []
+ },
+ "M25-13": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 44/4: iptal edilen belgeler aylık listelerle RG'de yayımlanır; iptal işlemi ilgili mercilere ve vergi dairelerine AYRICA BİLDİRİLMEZ. A, B md 44; D, E md 41.",
+  "sorun": []
+ },
+ "M25-14": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 34/2: tebliğ tarihinden itibaren 3 yıl içinde müracaat; md 34/3: geri verme kararından itibaren 3 ay içinde geri verme.",
+  "sorun": []
+ },
+ "M25-15": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 38/7 (A), 38/8 (B, C), 38/9 (E) ihracatın aranmadığı haller. Belge sahibi olmayan bir firmaya yurt içinde satış sayılmamış; md 38/10 yalnız süresi geçerli belge sahibine teslimi düzenler.",
+  "sorun": []
+ },
+ "M25-16": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ md 29/3: aracı ihracatçıyla ihracatın belge kapsamında değerlendirilmesi için ürünün belge sahibinden tedarik edildiği ve taahhütte yer aldığı ŞEKLİYLE ihracı gerekir. A, D md 29/1; B 29/2; C 29/4.",
+  "sorun": []
+ }
+}
