@@ -91,7 +91,7 @@ Q = [
         kalip="ÖNERMELİ",
         z="Z",
         madde="İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik md. 20, 21, 30; Karar md. 6, 7",
-        cek="Ön inceleme 45 gün; soru formu bir haftada alınmış sayılır, 30 gün cevap; soruşturma 1 yıl + 6 ay; geriye dönük 90 gün; gözden geçirme en az 1 yıl sonra.",
+        cek="Ön inceleme 45 gün; soru formu bir hafta ve 30 gün; soruşturma bir yıl, uzatma altı ay; geriye dönük 90 gün; gözden geçirme bir yıl.",
         kok=[
             f"{YON} ile İthalatta Haksız Rekabetin Önlenmesi Hakkında Karara göre;",
             "I. Genel Müdürlük, şikâyet üzerine veya re'sen yapacağı incelemeyi azami 45 gün içinde tamamlayarak soruşturma açılıp açılmaması hususunda Kurula teklifte bulunur.",
@@ -257,7 +257,7 @@ Q = [
         kalip="YANLIŞ",
         z="Z",
         madde="İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar md. 7, 9; Yönetmelik md. 35",
-        cek="Kesin önlem 5 yıl; gözden geçirme uygulamayı engellemez; nihai gözden geçirme sona ermeden 3 ay önce; askı: 1 yıl yürürlük, 9 ay + 1 yıl; mücbir sebepte 1 yıl şartı yok.",
+        cek="Kesin önlem beş yıl; gözden geçirme uygulamayı engellemez; nihai gözden geçirme talebi üç ay önce; askı dokuz ay; mücbir sebepte bir yıl şartı yok.",
         kok=[
             f"İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve {YON}'e göre kesin önlemlerin süresi, gözden geçirilmesi ve askıya alınması hakkında aşağıdakilerden hangisi yanlıştır?"
         ],

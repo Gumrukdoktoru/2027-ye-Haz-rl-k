@@ -256,7 +256,7 @@ Q = [
         eksen=0,
         ayna="",
         guncellik="",
-        cikmis="2025/89",
+        cikmis="",
         kapsamli=False,
     ),
     # 7 ---------------- GY 380/3, 380/5: 24 ayı aşan süre ----------------

@@ -1,0 +1,12 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "Normal değerin belirlenmesi (%5 yeterli satış, %20 maliyet altı satış, piyasa ekonomisi uygulamayan ülkeler, aracı ülke), ihraç fiyatının oluşturulması, adil karşılaştırma, alıcıya sağlanan faydanın hesaplanması, yerli üretim dalı ve ilişkili üretici tanımı, ilgili taraflar, bilgilerin gizliliği, iş birliğine gelinmemesi, örnekleme, önlemlerin etkisiz kılınmasının engellenmesi, yeni ihracatçı gözden geçirmesi, geriye dönük uygulamanın damping ve sübvansiyon için ayrı koşulları ile Kurulun oluşumu ve çalışma usulü ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 4, önermeli 2 (biri 'yanlıştır' yönlü), eşleştirme 1; kota 4/3/2/1'den olumsuz −1, klasik +1 (±1 içinde). Kökü olumsuz toplam 4/10 (%40).",
+    "Çıkmış alan eşlemesi: 2021/58 (önlem gerektiren zarar halleri) → S4 (önermeli, farklı önermelerle ve 'yanlıştır' yönlü); 2021/65 (Kurulun görevlerinden olmayan) → S1 (görev–merci eşleştirmesi, doğru yönlü; Genel Müdürlük, Kurul, Bakanlık ayrımı); 2022/26 (ön inceleme azami süresi) → S3-I ve S2 çeldiricisi.",
+    "Süre soruları başlangıç anını ölçer: S2 (soruşturmanın açılması tarihi ↔ şikâyet tarihi), S9 (önlemlerin tahsili tarihi ↔ kesin önlemin yürürlüğü).",
+    "İkiz eksen: geçici önlem süreleri (S2); damping %3/%7 ↔ sübvansiyon %4/%9 ihmal edilebilir oranları (S5).",
+    "Kaynak sunum notu biçiminde, Kanun, Karar ve Yönetmelik birlikte özetlenmiş; Karar ve Yönetmelikteki 'Bakanlık' tanımı eski (Dış Ticaret Müsteşarlığının bağlı olduğu Bakanlık) olarak geçiyor, bu tanım soruda kullanılmadı. Korunma önlemlerine ilişkin not (4 yıl, 10 yıl, 9 ay) M58 konusudur, bu bölümde sorulmadı.",
+    "Güncellik: kaynakta son 12 ayda değişen hüküm görünmüyor."
+  ]
+}

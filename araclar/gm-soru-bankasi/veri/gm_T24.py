@@ -247,10 +247,10 @@ Q = [
         ],
         d="Spor ve açık hava oyunları için koruyucu gözlükler",
         c=[
-            "Tekerlekli patenler",
+            "Tekerlekli patenler ve buz patenleri",
             "Kızaklar ve yarış kızakları",
-            "Video oyun konsolları",
-            "Olta kamışları",
+            "Televizyona bağlanan video oyun konsolları",
+            "Oltayla balık avlamaya mahsus olta kamışları",
         ],
         sirali=False,
         g="95. Fasıl notu bu fasılın kapsamadığı eşyayı sayarken spor ve açık hava oyunları için gözlükleri, koruyucu gözlükleri ve benzerlerini 90.04 pozisyonuna gönderir. Aynı not iki istisnayı da açıkça belirtir: 64. Fasıldaki spor ayakkabıları fasıl dışında olmakla birlikte buz pateni veya tekerlekli patenler hariç tutulur, yani bunlar 95. Fasılda kalır; XVII. Bölümdeki spor kara taşıtları fasıl dışında olmakla birlikte kızaklar, yarış kızakları ve benzerleri hariç tutulur, yani bunlar da 95. Fasılda kalır. Video oyun konsolları 95.04, olta kamışları 95.07 pozisyon metninde sayılmıştır. En güçlü tuzak tekerlekli patenlerdir: spor ayakkabısı görünümleri onları 64. Fasla götürüyor gibi görünür, fakat not onları açıkça istisna eder. Bu nedenle doğru cevap 'Spor ve açık hava oyunları için koruyucu gözlükler' seçeneğidir. (MD Fasıl 95 Notları)",
@@ -628,15 +628,15 @@ Q = [
         kok=[
             "Türk Gümrük Tarife Cetveline göre aşağıdakilerden hangisi 97. Fasılda sınıflandırılmaz?"
         ],
-        d="Bir sanatçı tarafından tasarlanmış olsa bile ticari karakterde seri halde üretilen heykel kopyaları",
+        d="Ticari karakterde seri halde üretilen heykel kopyaları",
         c=[
-            "Tamamen elle yapılmış pastel resim",
+            "Tamamen elle yapılmış orijinal pastel resim",
             "Kullanılmış posta pulu",
             "Mineralojiye ait koleksiyon eşyası",
             "Heykel veya yontu sanatının orijinal eseri",
         ],
         sirali=False,
-        g="97. Fasıl notuna göre ticari karakterde seri halde üretilen kopyalar veya eserler, sanatçılar tarafından tasarlanmış, dizayn edilmiş veya yaratılmış olsalar bile 97.03 pozisyonu dışında kalır; bunlar heykel sanatının orijinal eseri sayılmaz. Tamamen elle yapılmış pastel resimler 97.01, heykel veya yontu sanatının orijinal eserleri 97.03, mineralojiye ait koleksiyon eşyası 97.05 pozisyonundadır. 97.04 pozisyon metni de kullanılmış veya kullanılmamış posta pullarını kapsar; fasıl notu yalnız 49.07 pozisyonundaki kullanılmamış posta pullarını fasıl dışında tutar. En güçlü tuzak kullanılmış posta puludur: basılı kağıt olarak 49. Fasla gideceği sanılabilir, fakat kullanılmış pul açıkça 97.04 pozisyonunun eşyasıdır. Bu nedenle doğru cevap 'Bir sanatçı tarafından tasarlanmış olsa bile ticari karakterde seri halde üretilen heykel kopyaları' seçeneğidir. (MD Fasıl 97 Notları; 97.04 pozisyon metni)",
+        g="97. Fasıl notuna göre ticari karakterde seri halde üretilen kopyalar veya eserler, sanatçılar tarafından tasarlanmış, dizayn edilmiş veya yaratılmış olsalar bile 97.03 pozisyonu dışında kalır; bunlar heykel sanatının orijinal eseri sayılmaz. Tamamen elle yapılmış pastel resimler 97.01, heykel veya yontu sanatının orijinal eserleri 97.03, mineralojiye ait koleksiyon eşyası 97.05 pozisyonundadır. 97.04 pozisyon metni de kullanılmış veya kullanılmamış posta pullarını kapsar; fasıl notu yalnız 49.07 pozisyonundaki kullanılmamış posta pullarını fasıl dışında tutar. En güçlü tuzak kullanılmış posta puludur: basılı kağıt olarak 49. Fasla gideceği sanılabilir, fakat kullanılmış pul açıkça 97.04 pozisyonunun eşyasıdır. Bu nedenle doğru cevap 'Ticari karakterde seri halde üretilen heykel kopyaları' seçeneğidir. (MD Fasıl 97 Notları; 97.04 pozisyon metni)",
         kanit=f"{K} | Ticari karakterde seri halde üretilen kopyalar veya eserler, sanatçılar tarafından tasarlanmış, dizayn edilmiş veya yaratılmış olsalar bile 97.03 pozisyonu dışında kalır. || {K} | 97.04 - KULLANILMIŞ VEYA KULLANILMAMIŞ POSTA PULLARI || {K} | 49.07 pozisyonundaki kullanılmamış posta veya damga ve harç pulları || {K} | Tamamen elle yapılmış yağlıboya, karakalem ve pastel resimler ve kolajlar || {K} | zooloji, botanik, mineraloji ve anatomiye ait koleksiyon eşyası || {K} | 97.03 - HEYKEL VEYA YONTU SANATININ ORİJİNAL ESERLERİ (YAPILDIĞI MADDE NE OLURSA OLSUN).",
         yuva=[
             "97.01: tamamen elle yapılmış pastel resimler",
@@ -654,7 +654,7 @@ Q = [
         eksen=0,
         ayna="",
         guncellik="",
-        cikmis="2022/87",
+        cikmis="",
         kapsamli=False,
     ),
     # 18 ---------------- Fasıl 97 Notu: çerçevelerin sınıflandırılması (klasik) ----------------
@@ -668,15 +668,15 @@ Q = [
         kok=[
             "Türk Gümrük Tarife Cetvelinin 97. Fasıl notlarına göre, tamamen elle yapılmış bir yağlıboya resmin çerçevesi hangi durumda resimle birlikte sınıflandırılır?"
         ],
-        d="Mahiyet ve kıymet itibarıyla çerçevelediği eşyanın değerine uygun olduğu takdirde",
+        d="Mahiyet ve kıymetçe resmin değerine uygun olduğunda",
         c=[
             "Çerçeve resimle aynı sanatçı tarafından yapılmışsa",
             "Çerçevenin eskiliği 100 yılı aşıyorsa",
-            "Çerçeve ağaçtan oyma ise",
+            "Çerçeve ağaçtan oyma tekniğiyle yapılmışsa",
             "Her durumda; çerçeve resmin aksesuarı sayılır",
         ],
         sirali=False,
-        g="97. Fasıl notuna göre yağlıboya, karakalem ve pastel resimler, kolajlar veya benzeri dekoratif panolar, gravürler, estamplar veya litografların çerçeveleri, mahiyet ve kıymet itibarıyla çerçeveledikleri eşyanın değeriyle uygun olduğu takdirde bunlarla birlikte sınıflandırılır; çerçeveler mahiyet ve kıymet olarak bu eşyaya uygun değilse ayrı olarak sınıflandırılır. Not, çerçevenin kimin tarafından yapıldığına veya hangi maddeden mamul olduğuna değil, eserle mahiyet ve kıymet uyumuna bakar; bu nedenle her durumda birlikte sınıflandırma da yoktur. Çerçevenin eskiliği ise ayrı bir ölçüttür: 97.06 açıklama notu antika çerçeveleri antika eşya örnekleri arasında sayar, fakat bu, çerçevenin resimle birlikte mi ayrı mı sınıflandırılacağını belirlemez. En güçlü tuzak eskiliği 100 yılı aşan çerçevedir: antika olması onu değerli gösterir, fakat not uyum ölçütünü kullanır. Bu nedenle doğru cevap 'Mahiyet ve kıymet itibarıyla çerçevelediği eşyanın değerine uygun olduğu takdirde' seçeneğidir. (MD Fasıl 97 Notu)",
+        g="97. Fasıl notuna göre yağlıboya, karakalem ve pastel resimler, kolajlar veya benzeri dekoratif panolar, gravürler, estamplar veya litografların çerçeveleri, mahiyet ve kıymet itibarıyla çerçeveledikleri eşyanın değeriyle uygun olduğu takdirde bunlarla birlikte sınıflandırılır; çerçeveler mahiyet ve kıymet olarak bu eşyaya uygun değilse ayrı olarak sınıflandırılır. Not, çerçevenin kimin tarafından yapıldığına veya hangi maddeden mamul olduğuna değil, eserle mahiyet ve kıymet uyumuna bakar; bu nedenle her durumda birlikte sınıflandırma da yoktur. Çerçevenin eskiliği ise ayrı bir ölçüttür: 97.06 açıklama notu antika çerçeveleri antika eşya örnekleri arasında sayar, fakat bu, çerçevenin resimle birlikte mi ayrı mı sınıflandırılacağını belirlemez. En güçlü tuzak eskiliği 100 yılı aşan çerçevedir: antika olması onu değerli gösterir, fakat not uyum ölçütünü kullanır. Bu nedenle doğru cevap 'Mahiyet ve kıymetçe resmin değerine uygun olduğunda' seçeneğidir. (MD Fasıl 97 Notu)",
         kanit=f"{K} | Yağlıboya, karakalem ve pastel resimler, kolajlar (yapıştırma resim) veya benzeri dekoratif panolar, gravürler, estamplar veya litografların çerçeveleri, mahiyet ve kıymet itibariyle çerçeveledikleri eşyanın değeriyle uygun olduğu takdirde bunlarla birlikte sınıflandırılmalıdır. Çerçeveler mahiyet ve kıymet olarak bu Not hükmünde zikredilen eşyaya uygun değilse ayrı olarak sınıflandırılmalıdır. || {K} | Antika mobilyalar, çerçeveler ve ağaçtan oymacı eşyası.",
         yuva=[
             "Uydurma ölçüt: aynı sanatçı (notta yok)",

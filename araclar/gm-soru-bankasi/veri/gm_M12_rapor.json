@@ -1,0 +1,16 @@
+{
+ "bulunamayan": [
+  "2024/71: çıkış bildirimi hükümleri (Gümrük Yönetmeliği'nin çıkışa ilişkin maddeleri) bu bölümün kaynağında yok; kaynakta yalnız GK 165/A-165/D (çıkış özet beyanı) var ve S3'te ölçüldü.",
+  "2021/36: çıkış özet beyanındaki yüz gün kuralı gibi Yönetmelik ayrıntıları kaynakta yok; Kanundaki çıkış özet beyanı hükümleri S3'te ölçüldü."
+ ],
+ "giremeyen": "GY 61 özet beyan aranmayan diğer haller (askerî malzeme, NATO Form 302, platform eşyası, cenaze), GY 63/9-11 özet beyansız getirilen eşya ve iki yüz gün kuralı, GY 69-70 risk analizi ve sapma bildirimi, GY 74-75 boşaltma listesi ve özet beyan eksiklik-fazlalık takibatı (GMY SB14'te soruldu), GK 37-38 mücbir sebep bildirimleri, GY 76 sürenin durması ve uzatılması, GY 79/2 yolcu ambarı üç ay, GY 85 kaçak zannıyla el konulan eşya, GY 96 devirde sorumluluğun devralana geçmesi, GY 515-517 işletici kayıtları, devir-kapatma ve izin geri alma (beş yıl yasağı), GY 100 sahte ve korsan eşya tanımları ile GY 108 teminatla teslim ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+  "Tip: olumsuz 5, klasik 4, önermeli 2, diğer 3 (vaka 1, eşleştirme 1, boşluk 1). Kota 14 soru için 6/4/2/2; bölümde 19 çıkmış alanın hepsini 14 soruda karşılamak için eşleştirme ve boşluk kurgusu kullanıldı, olumsuz -1, diğer +1. Kökü olumsuz toplam 6 (%43).",
+  "Önermeli kombinasyonları: S2 'I, III ve IV', S13 'I, III ve V' (ikisi de beş önermeli, doğru yönlü); en kapsamlı şık doğru 0.",
+  "Çıkmış alan eşlemesi: 2021/7 → S1 (Karadeniz limanı istisnası, vaka); 2021/8 ve 2021/23 → S2; 2021/30 ve 2021/36 → S3; 2021/10 → S4; 2021/35 → S6; 2022/58 ve 2023/96 → S7; 2022/59 ve 2025/83 → S8; 2021/11 → S11 (eşleştirme); 2021/12 → S12; 2022/38, 2022/27, 2023/56, 2025/28 → S13; 2024/31 ve 2021/17 → S14.",
+  "Güncellik: S10 — kaynakta GY 94'ün 25.05.2022 tarihli değişik hâlinin 12.08.2026 tarihli Danıştay kararıyla iptal edildiği notu var; soru Yönetmelik metnindeki hükme göre kuruldu, iptal edilen metnin içeriği kaynakta olmadığından eski hâl çeldirici yapılmadı. GY 512, 513/5 ve 517/4'teki 15.01.2025 değişiklikleri son 12 ayın dışında kalıyor.",
+  "Meslek yanlılığı: S10 (çıkış için müşavir onayı yanılgısı).",
+  "Kaynakta bazı madde numaraları silinmiş ('Kanunun göre özet beyan', 'inci madde saklı kalmak kaydıyla'); GY 78/4-5 hükümleri hakkında Danıştay yürütmeyi durdurma notları bulunduğundan bu fıkralardan soru yazılmadı."
+ ]
+}

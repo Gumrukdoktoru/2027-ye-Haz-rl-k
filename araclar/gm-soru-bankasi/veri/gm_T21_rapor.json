@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2024/60 (85. Fasıl notlarında açıklaması bulunmayan eşya: radar, akıllı kart, baskılı devre, LED, hibrit entegre devre): Fasıl 85 notlarının metni bu bölümün kaynağında yok (85-a bölümünde); aynı bilgi alanı 85.23, 85.34, 85.39 ve 85.42 İzahname açıklamaları üzerinden S6, S7, S8, S9'da ölçüldü.",
+  "2025/46 (Fasıl 85 pozisyon numarası sıralaması): sıralama kurgusu kopyalanmadı; pozisyon şıklı sorular (S2, S4, S6, S8, S10) pozisyon numaralarını sıralı şıklarla ölçüyor."
+ ],
+ "giremeyen": "85.25–85.28 kamera, radyo, monitör ve televizyon ayrımı, 85.30–85.33, 85.35–85.38 anahtarlama teçhizatı (1000 V eşiği), 85.40–85.41 tüp ve yarı iletkenler, 85.44 kablolar, 85.45–85.48 kömür eşya, izolatörler ve elektrikli aksam ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtların tamamı bölüm metnindeki AS İzahnamesi (K2) ve Tarife Sınıflandırma Kararları (K3) satırlarından birebir alındı; sunum notları (K1) kanıt olarak kullanılmadı.",
+  "Profil: eşyanın yeri (GTİP) 9/12 (%75; 12 × 0,7 = 8,4): 5 pozisyon şıklı (sıralı, doğru şık B/C/D: D, B, B, C, C), 4 eşya şıklı. Kalan 3: KAPSAM 2 (katı hal depolama aygıtı, e-atık), DAYANAK 1 (Seri 15 set-top box kararı, GYK 3(c)). Kökü olumsuz 5 (%42). Önermeli yok.",
+  "Pozisyon dağılımı: 85.14/85.16 (S1), 85.15 (S10), 85.17/85.19 (S2), 85.18 (S5), 85.23 (S7, S9), 85.24 (S4), 85.28 (S12), 85.34/85.42 (S8), 85.39 (S6), 85.43 (S3), 85.49 (S11).",
+  "Çıkmış alanlar: 2024/45 (fırınların pozisyonları) → S1 (restoran tipi mikrodalga 85.14); 2022/86 (e-sigara 85.43) → S3 ters yönden (tek kullanımlık e-sigara 24.04 tuzağıyla); 2024/47 (85.43 kapsamı) → S3; 2024/56 (85.24 düz panel modülleri) → S4 farklı yönden (ayrı sunulan modülün pozisyonu); 2023/17 (84.68'in elektriklisi 85.15) → S10 (endüksiyonla lehim, 85.14 tuzağı); 2021/97 (GYK uygulama örnekleri) → S12 (GYK 3(c)).",
+  "Kör çözüm yapılmadı: ajan talimatı yazma iznini veri/ ve dogrulama/ ile sınırladığından kor_cozum/T21.json yazılmadı; kör çözüm üst ajana bırakıldı.",
+  "Güncellik: kaynakta son 12 ayda değişen hüküm tarihi görülmedi; güncellik sorusu yok."
+ ]
+}

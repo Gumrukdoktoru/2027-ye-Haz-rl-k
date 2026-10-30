@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2023/42 (yerinde gümrüklemede güvenli depolama alanı giriş kayıtları): kaynakta izinli alıcıya ait benzer giriş kaydı listesi var, ancak çıkmış soru 'yerinde gümrükleme' başlıklıdır; aynı hüküm grubunu iki kez sormamak için alan M07 (ithalatta yerinde gümrükleme) bölümüne bırakıldı."
+ ],
+ "giremeyen": "İşlem hacminde dikkate alınacak transit beyanları (GK 84 bentleri, liman ve sınır kapısı varışlı beyanlar), tesislerin 3 yıl içinde incelenmişse yeniden incelenmemesi ve 10/5 iş günü süreleri, hareket ve varış gümrük müdürlüğünün belirlenmesi, izinli göndericide kapsam dışı eşya listesi, mühürsüz çıkış şartları, fazla mesai talebinin mesai bitiminden 1 saat önce yapılması, izinli göndericinin özel tipte mühür kullanımı ve çıkış kayıtlarının içeriği, izinli alıcıda kontrol türü bildiriminin en çok 2 saat olması, güvenli alanlara giriş-çıkış kayıtlarının içeriği, 48 saatte tescil edilmeyen eşyanın depolama alanına alınması ve askıya alma basamakları (3 ay, 6 ay, 2 yıl) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kota 14 soru için 6/4/2/2 tam tutturuldu; kökü olumsuz toplam 6 (%43).",
+  "Önermeli kombinasyonları: S3 'I, II ve IV' (beş önermeli; tuzak ihracatçıdan YYS aranması), S12 'I ve II' (izinli alıcı teminatının kuru, güncellenmesi, iadesi); en kapsamlı şık doğru 0.",
+  "Çıkmış alan eşlemesi: 2024/96 (izinli alıcı başvuru koşulları) → S1 (çıkmışın 'aranmayan koşul' kurgusu yerine izinli gönderici ↔ izinli alıcı koşul farkı), S2 (izinli alıcının 1.000.000 Avro teminatı), S3 (500 / 300+500 işlem hacmi); S1-S2 ayna çift.",
+  "İkiz ayrım: S14 kamera kayıtları izinli göndericide en az 1 ay ↔ izinli alıcıda en az 1 yıl.",
+  "Vaka: S5 (ÖTV (I) listesi eşyasında kapsam dışı olmayan eşyanın ilk kullanımı için getirilme istisnası), S10 (araçta farklı varışlı beyan bulunursa hiçbir beyan için izinli alıcı işlemi yapılamaması).",
+  "S2'deki 6.000, 75.000, 250.000 ve 2.000.000 Avro çeldiricileri aynı Yönetmeliğin İkinci Kitap Kısım 3-4'ünden (05 dosyası), S7'deki 45 günlük çeldirici Gümrük Yönetmeliğinin süre hükmünden (01 dosyası) alındı ve kanıtta alıntılandı.",
+  "Güncellik sorusu yok: kaynakta değişiklik tarihi dipnotu bulunmuyor."
+ ]
+}

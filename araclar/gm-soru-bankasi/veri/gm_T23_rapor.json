@@ -1,0 +1,12 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "90.01–90.08 optik ve fotoğraf aletleri, 90.15–90.17 ölçme ve çizim aletleri, 90.22–90.30 ölçü ve analiz cihazları, 90.32 otomatik kontrol cihazları (Fasıl 90 Notu), 91.08–91.14 saat makineleri ve aksamı, 92.01–92.05 müzik aletleri ayrıntıları, 93.01–93.03 ve 93.07 silah türleri ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar yalnız Bölüm/Fasıl notları ve AS İzahnamesi (K3, K6, K9, K12) satırlarından alındı; ders notu ve sunum notu blokları kanıt olarak kullanılmadı.",
+  "Profil: eşyanın yeri (GTİP) 11/16 (%69): 6 pozisyon şıklı (sıralı; C, B, D, C, D ve 90.33 aksam kuralı sorusunda D), 6 eşya şıklı. Kalan 5: tanım 2 (ortopedik cihaz, saat makinası), kapsam 3 (90. Fasıl hassasiyet istisnaları, 90.33 aksam kuralı, 92.09 kartları). Kökü olumsuz 6 (%38). Önermeli yok.",
+  "Dağılım: Fasıl 90: 6 (S1–S6; S7 90.31/91.06 sınırı), Fasıl 91: 3, Fasıl 92: 3, Fasıl 93: 3.",
+  "Çıkmış alanlar: 2021/92 (93. Fasılda sınıflandırılmayan eşya; ok-yay) → S14 olumlu yönden (ok-yay çeldirici) ve S2 (ayrı gelen silah dürbünü 90.13); 2023/15 (aynı fasıl grupları, 90 dahil) → S1; 2025/41 (ortopedik ayakkabı 90.21) → S6 (ortopedik cihaz tanımı); 2025/40 ve 2022/80 (saatlerin sınıflandırılması, saat 91. Fasıl) → S8 (fasıl notundaki istisnalar; kum saati-güneş saati listesi kopyalanmadı); 2024/49 (piyanoyla gelen hafıza kartı 92.09) → S11 (davulla gelen baget) ve S13 (92.09 kartlarının ayrı eşya olarak işlem görmesi).",
+  "Kaynak sorunları: Fasıl 91 notundaki saat makinası kalınlık ve çap ölçüleri silinmiş (\"kalınlığı . yi\"), 90.13 lazer dalga boyu üst sınırı silinmiş; bu sayılar sorulmadı.",
+  "Kör çözüm yapılmadı (yazma izni veri/ ve dogrulama/ ile sınırlı); üst ajana bırakıldı."
+ ]
+}

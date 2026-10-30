@@ -428,15 +428,15 @@ Q = [
         kok=[
             "Türk Gümrük Tarife Cetveline göre aşağıdaki müzik aletlerinden hangisi 92.07 pozisyonunda sınıflandırılmaz?"
         ],
-        d="Elektrikli pikap ve amplifikatör tertibatı bulunan, ancak bu tertibat olmadan da çalınabilen mutad tipte gitar",
+        d="Pikaplı olup elektrik tertibatı olmadan da çalınabilen gitar",
         c=[
-            "Elektrostatik gitar",
-            "Elektronik piyano",
-            "Elektronik org",
+            "Elektrik tertibatı olmadan çalınamayan elektrostatik gitar",
+            "Sesi elektronik olarak üretilen elektronik piyano",
+            "Sesi elektrikle üretilen elektronik org",
             "Elektronik çan takımı",
         ],
         sirali=False,
-        g="92. Fasıl genel açıklamalarına göre bazı müzik aletlerinde (piyano, gitar vb.) elektrikli bir pikap ve amplifikatör tertibatı bulunabilir; bunlar mutad tipte müzik aletlerinden olmak, yani bu tertibat olmadan da kullanılabilmek şartıyla bu fasılda kendi pozisyonlarında yer alır. Bu nedenle pikaplı fakat tertibatsız da çalınabilen gitar telli müzik aleti olarak 92.02 pozisyonunda kalır. Elektrikli veya elektronik tertibatı olmaksızın kullanılamayan müzik aletleri ise 92.07 pozisyonundadır; İzahname elektrostatik, elektronik veya benzeri gitarları, piyanoları, orgları, akordeonları ve çan takımlarını bu pozisyon kapsamında sayar. En güçlü tuzak elektrostatik gitardır: o da gitardır, fakat sesi elektrikle üretildiği için 92.07 pozisyonuna girer; belirleyici ölçüt aletin elektrik tertibatı olmadan normal çalınıp çalınamamasıdır. Bu nedenle doğru cevap 'Elektrikli pikap ve amplifikatör tertibatı bulunan, ancak bu tertibat olmadan da çalınabilen mutad tipte gitar' seçeneğidir. (MD GYK 1 ve 6; 92. Fasıl Genel Açıklamaları; 92.07 Açıklama Notu)",
+        g="92. Fasıl genel açıklamalarına göre bazı müzik aletlerinde (piyano, gitar vb.) elektrikli bir pikap ve amplifikatör tertibatı bulunabilir; bunlar mutad tipte müzik aletlerinden olmak, yani bu tertibat olmadan da kullanılabilmek şartıyla bu fasılda kendi pozisyonlarında yer alır. Bu nedenle pikaplı fakat tertibatsız da çalınabilen gitar telli müzik aleti olarak 92.02 pozisyonunda kalır. Elektrikli veya elektronik tertibatı olmaksızın kullanılamayan müzik aletleri ise 92.07 pozisyonundadır; İzahname elektrostatik, elektronik veya benzeri gitarları, piyanoları, orgları, akordeonları ve çan takımlarını bu pozisyon kapsamında sayar. En güçlü tuzak elektrostatik gitardır: o da gitardır, fakat sesi elektrikle üretildiği için 92.07 pozisyonuna girer; belirleyici ölçüt aletin elektrik tertibatı olmadan normal çalınıp çalınamamasıdır. Bu nedenle doğru cevap 'Pikaplı olup elektrik tertibatı olmadan da çalınabilen gitar' seçeneğidir. (MD GYK 1 ve 6; 92. Fasıl Genel Açıklamaları; 92.07 Açıklama Notu)",
         kanit=f"{K} | Bazı müzik aletlerinde (piyano, gitar, vb.) elektrikli bir pikapla bir amplifikatör tertibatı bulunabilmektedir. Bunlar, mutad tipte müzik aletlerinden olmak yani bu tertibat olmadan da kullanılabilmek şartıyla bu Fasılda kendi pozisyonlarında yer alır. || {K} | Böylece, elektrostatik, elektronik veya benzeri gitarlar, piyanolar, orglar, akordeonlar, çan takımları 92.07 pozisyonu kapsamındadır. || {K} | Bu pozisyon, sesleri elektrik-elektronik olarak oluşturan veya amplifiye edilen müzik aletlerini kapsar.",
         yuva=[
             "92. Fasıl genel açıklamaları: elektrostatik gitarlar 92.07",
@@ -511,8 +511,8 @@ Q = [
         d="Bir tanka mahsus olan fakat ayrı olarak gelen makineli tüfek",
         c=[
             "Silahla donatılmış zırhlı demiryolu taşıtı",
-            "Askeri çelik miğfer",
-            "Okçuluğa mahsus ok ve yay",
+            "Askeri kullanıma mahsus çelik miğfer",
+            "Okçuluk sporunda kullanılan ok ve yay takımı",
             "İnsan vücudunu korumaya mahsus çelik yelek",
         ],
         sirali=False,
@@ -588,7 +588,7 @@ Q = [
         c=[
             "Torpiller için hususi pervaneler ve jiroskoplar",
             "Torpiller için yüzdürücüler ve savaş başlıkları",
-            "Fişek kovanları",
+            "Av tüfeği fişeklerine ait fişek kovanları",
             "Zıpkın silahları için patlayıcı başlıklı zıpkınlar",
         ],
         sirali=False,

@@ -1,0 +1,13 @@
+{
+ "bulunamayan": [
+  "2025/44 (6406.90.90.10.00 GTİP'inin hane yapısı, KN ve milli açılım): GTİP kademeleri T01 bölümünün konusu ve 12 haneli GTİP bu profilde sorulmaz; sorunun bölüm aidiyeti ayağı (64. Faslın XI değil XII. Bölümde olması) S7'de XII. Bölüm kapsamıyla ölçüldü."
+ ],
+ "giremeyen": "64. Fasıl alt pozisyon notu (spor ayakkabıları), 64.01 kalıplama yöntemleri ve 64.03–64.05 taban-yüz kombinasyonlarının tamamı, 65.01–65.02 şapka taslakları ayrımı, 66. Fasıl notundaki şemsiye kılıfı kuralı, 67.03 insan saçı (05.01 ayrımı) ve Tarife Sınıflandırma Kararlarındaki ayakkabı yüzü tespit örnekleri ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar fasıl notları ve AS İzahnamesinden birebir alındı; S4'te 45. Fasıl notu T11 dosyasından alındı (mantar eşyasını başlıklardan ayıran hüküm).",
+  "Profil: eşyanın yeri (GTİP) 6/8 (%75): 3 pozisyon şıklı sıralı (konumlar B-C-C, iki C arasında serbest soru var), 3 eşya şıklı. Kalan 2: XII. Bölüm kapsamı (olumsuz) ve 'mamul olduğu maddeye göre sınıflandırma' klasik sorusu. Kökü olumsuz 3/8 (%38). Önermeli yok.",
+  "Fasıl dağılımı: 64: 3, 65: 1, 66: 1, 67: 1, Bölüm XII genel: 2.",
+  "Çıkmış alanlar: 2022/85 ve 2025/41 (64. Fasıl notu, fasıl dışı ayakkabılar) → S1 olumlu yönden (oyma ağaç ayakkabı 64'te; tekstil tabansız, patenli, amyant, kullanılmış ayakkabı dışarıda); 2024/48 (64.06 aksamı) → S3 olumsuz yönden (elastik diz destekleyici); 2023/7 (66.01/66.02 baston-şemsiye) → S6 (tornalanmış baston taslağı 66.02); 2022/87 (mamul olduğu maddeye göre sınıflandırılan eşya) → S8 farklı eşya kümesiyle; 2024/58 (ayakkabıyla ilgili pozisyonlar) T11 S3 (44.17) ile ölçüldü.",
+  "Kaynakta sayısı silinmiş açıklamalar (65.01 disk çapı ve üstüvane ölçüleri, 65.02 şerit genişliği) kullanılmadı."
+ ]
+}

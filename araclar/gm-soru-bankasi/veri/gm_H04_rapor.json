@@ -1,0 +1,20 @@
+{
+ "bulunamayan": [
+  "2024/23, 2025/14: sonradan kontrolde tahakkuk zamanaşımı ve KDV'nin 2 no.lu beyannameyle ödenmiş olması kaynakta yok; beyan edilmeyen lisans bedelinin fark vergileri ve cezası S3–S4'te ölçüldü.",
+  "2021/82: kültür fonunun uzlaşma dışında kaldığı kaynakta açıkça yazmıyor (Uzlaşma Yönetmeliği ekli listelerde olmayan ve gümrükçe tahsil edilen alacakları da kapsıyor); aynı bilgi alanı 'aslı gümrük idaresince takip ve tahsil edilmeyen mali yük uzlaşmaya konu edilemez' hükmüyle S10'da ölçüldü."
+ ],
+ "giremeyen": "GK 241 usulsüzlük cezası katları ve tutarı (241/1 tutarı kaynakta 'altmış TL' olarak kalmış, Anayasa Mahkemesinin 26.03.2026 tarihli kararına ilişkin not yarım), GK 234/6 alt sınırı (atıf yapılan fıkra numarası silinmiş), GK 234/5'teki dörtte bir cezası, transit süre aşımı ve güzergâh ihlali katları, özet beyanda dökme eşya toleransı ve GK 235/1-b-d atık eşya ton/kap cezaları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'; dogrulama/H04_hesap_kontrol.py 13 hesap sorusunun doğru sonucunu ve 52 çeldiricinin her birini adı konmuş hatadan yeniden hesapladı, sözel yetki sorusundaki (S11) tutar–komisyon eşleşmesini aynı kuralla kurdu: hata 0.",
+  "Profil: 13 sayısal (%81) — GK 234/1-a üç kat, 234/2 DİR yarısı, noksan kıymet fark vergileri (GV+EMY+KDV) ve kendiliğinden bildirim cezası (aynı veriyle çift soru), son 6 ayda tespit istisnası, 234/1-c %5'i geçmeyen fark, 235 dört kat, 237 noksan kap, uzlaşma kapsamı tutarı, uzlaşılan cezada peşin ödeme indirimi, gecikme zammı (aylık + günlük esas), GK 207 şartlı muafiyette gecikme zammı, yaygın götürü teminat. 3 sözel: aykırılık–ceza eşleştirmesi (olumsuz), uzlaşma komisyonu yetkisi (vaka, güncellik), uzlaşılan vergilere faiz süresi (başlangıç anı).",
+  "Sabit harfli soruların doğru şık konumu B 4, C 4, D 5; art arda aynı sabit harf yok.",
+  "Saklı istisnalı vakalar: S5 (son 6 ayda aynı konuda tespit varsa %10 uygulanmaz — 22.09.2014 tarihli yazı), S10 (kaçakçılıkla ilişkili ve aslı gümrükçe takip edilmeyen alacaklar uzlaşma dışı), S12 (uzlaşılan cezada peşin ödeme indirimi yok), S14 (idari para cezasına gecikme zammı uygulanmaz), S15 (nakit teminat kısmına gecikme zammı yok), S16 (dört antrepoda %75 indirimi yok). Aynı veriyle çift soru: S3–S4.",
+  "Kaynak tutarsızlıkları: H04 sunum örneği DİR'de cezayı 'üç katın yarısı' olarak hesaplıyor (60.000 / 2); GK 234/2'nin 07.11.2019 tarihli metni 'vergi farkının yarısı' dediği için Kanun metni esas alındı, eski yöntem S2'de çeldirici yapıldı. Sunum örneğinde yaygın götürü teminatta 40.000.000 TL üst sınırı toplam tutara uygulanmış; GY 527 sınırı antrepo başına koyduğu için S16 hiçbir antreponun sınıra takılmadığı veriyle kuruldu. Örneklerdeki diğer aritmetik hatalar (9.106/9.016, 397,50) kullanılmadı.",
+  "Güncellik: Gümrük Uzlaşma Yönetmeliği md. 9/1'deki 7.000.000 TL yetki eşiği 18.06.2026 tarihli değişikliğe dayanıyor → S11 (gerekçede tarih yazıldı).",
+  "Gecikme zammı oranı kaynakta güncel değeriyle yer almadığı için S14 ve S15'te oran veri olarak verildi. Tebliğdeki formül-1 (gecikme zammı oranında faiz) kaynakta paydası silinmiş aktarıldığından kullanılmadı; aylık (formül-2) ve günlük (formül-3) esas kullanıldı. Mülga '6183 md. 51: ay kesirleri tam ay' kuralı S14'te en güçlü tuzak yapıldı.",
+  "Kanıt için H04 bölüm metninin yanında aynı hükmü doğrudan düzenleyen 42 (GK 234–237), 43 (GK 244, Uzlaşma Yönetmeliği), 40 (gecikme zammı formülleri), 41 (GK 207), 21 (GY 527) ve 61 (KDVK 21) metinleri kullanıldı.",
+  "Çıkmış alan eşlemesi: 2025/13, 2021/83, 2025/14 → S3; 2023/69, 2022/95 → S4, S5; 2021/82, 2024/12 → S10; 2023/68, 2021/83 → S12; 2025/19, 2021/32 → S14, S15; 2022/41, 2023/99, 2024/84 → S16.",
+  "Meslek yanlılığı sorusu yazılmadı: uzlaşma başvurusunda gümrük müşavirinin özel vekâletname şartı M43 bölümünün konusu; H04 hesap ağırlıklı.",
+  "Kör çözüm yapılmadı: kor_cozum/ bu ajanın yazma yetkisi dışında; ana oturumda yapılmalı."
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2022/84 (Gümrük Genel Tebliği (Tarife) Seri No: 14 – BTB düzenleyen bölge müdürlükleri): bu tebliğ bölüm metninde yok; sorulmadı."
+ ],
+ "giremeyen": "2009/67 listesi (internet telefonları, cam kapaklar), 2010/42 ayakkabı kamara çeliği, 2010/47 muayene eldivenleri (EN 455), 2012 tarihli TV-monitör-kamera ve buharlı temizleyici genelgeleri, 2020/11, 2020/19, 2021/6, 2021/25 listeleri, Seri 9 tebliğindeki pozisyon ve alt pozisyon tanımları ve sınıflandırma görüşleri giriş notları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kökte 'Genelge' kontrol aracının tarife anahtar kelimeleri arasında olmadığından genelge sorularının köküne 'Türk Gümrük Tarife Cetveli' / 'Gümrük Tarife Cetveli Açıklama Notları' / 'İzahname' ifadesi eklendi; mevzuat türü (Genelge, yazı, Tebliğ) kökte ayrıca adıyla yazıldı.",
+  "Profil A kotası (10 soru: olumsuz 4, klasik 3, önermeli 2, diğer 1): gerçek tip dağılımı olumsuz 3, klasik 3, önermeli 2, eşleştirme 1, eşyanın yeri (GTİP) 1. Kökü olumsuz toplam 4 (%40; eşleştirme de 'yanlış' yönlü). Eşyanın yeri 1/10 (sınır %40). Önermelilerin ikisi de doğru yönlü; en kapsamlı şık doğru değil.",
+  "Konu dağılımı: Sınıflandırma Kararları tebliğlerinin genel hükümleri 3 (S1, S3, S4), AB BTB yazısı 1 (S2), genelgeler 6 (2025/09 ATV, 2021/7 İSGÜM raporları, 2021/30 difüzör, 2024/07 bikomponent iplik, 2011/21 85.23, 2011/4 mısır çerezi).",
+  "Çıkmış alanlar: 2021/16 (BTB'nin geçerliliğini kaybetmesi) → S4 (tebliğ eki kararlara uymayan BTB'lerin geçerliliğini yitirdiği an; başlangıç anı ölçülüyor).",
+  "Güncellik: 2025/09 sayılı Genelgenin tarihi kaynak metinde yazmıyor; son 12 ay içinde olup olmadığı belirlenemediği için güncellik etiketi konmadı. 2015/22 sayılı Genelgedeki lazerli epilasyon cihazları satırı kaynakta 2021/06 sayılı Genelge ile yürürlükten kaldırılmış göründüğünden bu hüküm (ve ona dayanan 23.03.2020 yazısındaki pozisyon sonucu) sorulmadı; yazıdan yalnız AB BTB'lerinin hukuki niteliği ölçüldü.",
+  "Kaynak sorunları: genelge ve tebliğ metinlerinde silinmiş sayı ve adlar var (\"2009/ Genelge\", Seri 9'da dönem numaraları, 23.03.2020 yazısında BTB tanımı ve pozisyon numarası, Gümrük Kanunu madde numaraları); bunlar soru, şık ve gerekçeye alınmadı.",
+  "Kör çözüm yapılmadı (yazma izni veri/ ve dogrulama/ ile sınırlı); üst ajana bırakıldı."
+ ]
+}

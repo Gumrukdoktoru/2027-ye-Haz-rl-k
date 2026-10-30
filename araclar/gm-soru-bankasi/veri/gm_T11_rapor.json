@@ -1,0 +1,14 @@
+{
+ "bulunamayan": [
+  "2022/82 (4602.11.00.10.00 GTİP'inin hane yapısı): GTİP kademeleri, KN ve milli açılım T01 bölümünün konusu; Profil B'de 12 haneli GTİP sorulmaz. 46. Fasıl S7'de 'örülmeye elverişli madde' tanımıyla ölçüldü.",
+  "2023/9 (gezici hayvan sergileriyle aynı fasıl; CSV'de 49 ilgili): sorunun 49. Fasılla bağı bu bölümün kaynağından kurulamadı; sorunun 63 ve 59 ayakları T13 S9 (sirk çadırı 63.06) ve T12 S19 (tiyatro dekoru tuvali 59.07) ile ölçüldü."
+ ],
+ "giremeyen": "44.07–44.09 kereste kalınlık eşikleri (kaynakta sayılar silinmiş), 44.18 padavra ölçüleri, 48. Fasıl gazete kağıdı ve 48.02 teknik ölçütleri (g/m², kül, parlaklık), 48.03–48.09 ve 48.14 ebat şartları (silinmiş), 49.01–49.05 ve 49.09–49.10 ayrıntıları ile Tarife Sınıflandırma Kararları satırları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar yalnız Bölüm/Fasıl notları, alt pozisyon notları ve AS İzahnamesi satırlarından birebir alındı; Tarife Kitabı ders notu ve sunum blokları kanıt olarak kullanılmadı.",
+  "Profil: eşyanın yeri (GTİP) 10/14 (%71): 7 pozisyon şıklı (sıralı; doğru şık B/C/D, konumlar C-B-C-B-C-D-B), 3 eşya şıklı. Kalan 4: tanım 2 (46 örülmeye elverişli madde, 49 baskılı tabiri), sayısal 1 (odun pelleti 100 mm), klasik 1 (48.01–48.11 çakışmasında son pozisyon). Kökü olumsuz 5/14 (%36). Önermeli yok.",
+  "Fasıl dağılımı: 44: 5, 45: 1, 46: 1, 47: 1, 48: 3, 49: 3.",
+  "Çıkmış alanlar: 2023/4 (44'te olmayan ahşap eşya) → S1 olumlu yönden, farklı eşya kümesi (fırça gövdesi 44.17'de kalır); 2024/55 (farklı pozisyondaki ahşap eşya, kontrplak) → S2 (parke taklidi kontrplak 44.12 / parke paneli 44.18 / şerit 44.09); 2024/58 (ayakkabıyla ilgili 44.17) → S3 (ayakkabı kalıbı 44.17, şapka kalıbı 84.49); 2022/86 (sigara kağıdı 48.13) → S11 (filtre sargısı kağıdı).",
+  "Kaynakta sayısı silinmiş hükümler (44.07 kalınlık, 48.13 rulo genişliği, 46. Fasıl monofil kesiti) soru ve çeldiriciye alınmadı. Odun pelleti sorusunda kökteki %3 ve 25 mm değerleri alt pozisyon notunda açıkça yazılıdır. Güncellik: kaynakta son 12 ayda değişen hüküm işareti yok."
+ ]
+}

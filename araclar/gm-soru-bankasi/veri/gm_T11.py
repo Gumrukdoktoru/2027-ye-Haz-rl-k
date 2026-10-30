@@ -163,7 +163,7 @@ Q = [
         madde="TGTC Fasıl 44 Alt Pozisyon Notları (odun pelleti ve odun briketi)",
         cek="Odun pelleti: en çok %3 bağlayıcıyla aglomere, çapı 25 mm ve uzunluğu 100 mm'yi geçmeyen silindir; odun briketi: minimum kesiti 25 mm'den büyük.",
         kok=[
-            "Türk Gümrük Tarife Cetvelinin 44. Fasıl alt pozisyon notlarına göre odun pelleti, ahşap işleme yan ürünlerinin doğrudan sıkıştırılması veya ağırlıkça %3'ü geçmeyen bağlayıcıyla aglomere edilmesiyle elde edilen, çapı 25 mm'yi ve uzunluğu en fazla kaç mm'yi geçmeyen silindirik üründür?"
+            "Türk Gümrük Tarife Cetvelinin 44. Fasıl alt pozisyon notlarına göre odun pelleti, ahşap işleme yan ürünlerinin doğrudan sıkıştırılması veya ağırlıkça %3'ü geçmeyen bağlayıcıyla aglomere edilmesiyle elde edilen, çapı 25 mm'yi ve uzunluğu kaç mm'yi geçmeyen silindirik üründür?"
         ],
         d="100",
         c=["25", "50", "150", "200"],

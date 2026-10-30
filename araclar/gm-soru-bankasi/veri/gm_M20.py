@@ -98,7 +98,7 @@ Q = [
         kalip="DOĞRU",
         z="Z",
         madde=TT + " md. 16, 22",
-        cek="Geçerlilik süresini kefil kuruluş belirler; bitiş tarihinde veya öncesinde kabul edilen karne taşıma sonuna kadar geçerlidir; sehven kabul edilen süresi dolmuş karneyi tespit eden idare sonlandırır.",
+        cek="Geçerlilik süresini kefil kuruluş belirler; bitişte veya önce kabul edilen karne taşıma sonuna kadar geçerli; sehven kabul edileni tespit eden idare sonlandırır.",
         kok=[
             TT
             + "'e göre geçerlilik süresi biten TIR karnelerine ilişkin aşağıdakilerden hangisi doğrudur?"
@@ -221,7 +221,7 @@ Q = [
         kalip="YANLIŞ",
         z="O",
         madde=TT + " md. 12, 42, 45, 69",
-        cek="İhraç kararı yedi günde bildirilir; işlem görmeyen karne iki ayda firma ve kefile bildirilir; bir ayda kanıtlanmazsa tahakkuk; açık kayıtlar altı ayda bir; karneler sekiz yıl saklanır.",
+        cek="İhraç kararı yedi günde bildirilir; işlem görmeyen karne iki ayda kefile bildirilir; bir ayda kanıt yoksa tahakkuk; karneler sekiz yıl saklanır.",
         kok=[
             TT
             + "'e göre TIR karnesi takip işlemleri ve TIR rejiminden ihraç ile ilgili süreler hakkında aşağıdakilerden hangisi yanlıştır?"
@@ -262,7 +262,7 @@ Q = [
         kalip="ÖNERMELİ",
         z="O",
         madde=TT + " md. 61, 63, 64",
-        cek="Ek-10 içki ve sigara ne Model 1 ne Model 2 karneyle taşınır; ham tütün, bira, şarap normal karneyle taşınır; ağır eşyada HEAVY OR BULKY GOODS; ön-arka TIR plakası.",
+        cek="Ek-10 içki ve sigara ne Model 1 ne Model 2 karneyle taşınır; ham tütün, bira, şarap normal karneyle taşınır; ön ve arkada TIR plakası.",
         kok=[
             TT + "'e göre;",
             "I. Ek-10'da yer alan içki, sigara ile bunların türevlerinin miktarı ne olursa olsun normal TIR karneleri (Model 1) kapsamında taşınmasına izin verilmez.",
@@ -309,8 +309,8 @@ Q = [
         kalip="YANLIŞ",
         z="O",
         madde=TT + " md. 3",
-        cek="Kamyon 3.500 kg'dan fazla, kamyonet 3.500 kg'ı geçmeyen; çekici römorksuz yük taşımaz; giriş idaresi akit taraftaki ilk idare; konteyner iç hacmi en az 1 m3; tezkiye GGM yetkilendirmesi.",
-        kok=[TT + "'de yer alan tanımlara göre aşağıdakilerden hangisi yanlıştır?"],
+        cek="Kamyon 3.500 kg'dan fazla, kamyonet 3.500 kg'ı geçmeyen; giriş idaresi akit taraftaki ilk idare; konteyner en az 1 m3; tezkiye GGM yetkilendirmesidir.",
+        kok=[TT + "'de yer alan tanımlara göre taşıtlar, gümrük idareleri, konteyner ve TIR rejimine kabule ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"],
         d="Kamyonet, izin verilebilen azami yüklü ağırlığı 3.500 kilogramdan fazla olan ve eşya veya yük taşımak için imal edilmiş motorlu taşıttır.",
         c=[
             "Çekici, römork ve yarı römorkları çekmek için imal edilmiş olan ve bunlar olmadan yük taşımayan motorlu taşıttır.",

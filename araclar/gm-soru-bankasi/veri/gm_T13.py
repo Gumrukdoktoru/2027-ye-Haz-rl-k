@@ -159,7 +159,7 @@ Q = [
         madde="TGTC Fasıl 61 Notu (takım tanımı); 61. Fasıl Genel Açıklamaları (XI. Bölüm Notu uygulaması)",
         cek="Takım tanımı 61.07, 61.08, 61.09 eşyasını dışlar; farklı pozisyonlardaki giysiler perakende satışa hazırlansa da kendi pozisyonlarında ayrı sınıflandırılır.",
         kok=[
-            "Türk Gümrük Tarife Cetveline göre aynı örme mensucattan yapılmış bir tişört ile bir şorttan oluşan ve perakende satış için birlikte ambalajlanmış giyim eşyası için aşağıdakilerden hangisi doğrudur?"
+            "Türk Gümrük Tarife Cetveline göre günlük giyime mahsus, aynı örme mensucattan yapılmış bir tişört ile bir şorttan oluşan ve perakende satış için birlikte ambalajlanmış giyim eşyası için aşağıdakilerden hangisi doğrudur?"
         ],
         d="Tişört ve şort kendi pozisyonlarında ayrı ayrı sınıflandırılır.",
         c=[
@@ -206,7 +206,7 @@ Q = [
             "Arkası yuvarlak kuyruklu sade bir ceket ile pantolonu çizgili olan gündüz kıyafeti (jaketatay)",
             "Genellikle siyah mensucattan yapılmış, ceketinin ön kısmı nispeten kısa ve kapatılamayan akşam kıyafeti (frak)",
             "Ceketinde ipekten veya suni ipekten parlak klapalar bulunan akşam yemeği kıyafeti (smokin)",
-            "Aynı renk ve yapıdaki aynı mensucattan yapılmış, dikişlerinde farklı kumaştan kaytan bulunan ceket ve etekten oluşan kadın kıyafeti",
+            "Takım elbisenin diğer şartlarını taşıyan, dikişlerinde farklı kumaştan kaytan bulunan ceket ve etekten oluşan kadın kıyafeti",
         ],
         sirali=False,
         g="62. Fasıl notuna göre takım elbise, dış yüzleri itibarıyla aynı mensucattan yapılmış iki veya üç parçadan oluşur: vücudun üst kısmını kapamaya mahsus bir ceket (gerekirse yelekle) ve vücudun alt kısmını kapamaya mahsus, askılı veya üst ön parçası olmayan pantolon, kısa pantolon, şort, etek veya pantolon etek. Bütün parçalar aynı renk ve yapıdaki aynı mensucattan olmalı; bununla beraber dikiş içine konmuş farklı kumaştan kaytan içerebilirler. Not ayrıca jaketatay, frak ve smokinin bu şartları taşısın taşımasın takım elbise tabirine dahil olduğunu belirtir. Askılı ve üst ön parçası olan tulum takım elbisenin alt parçası olamaz; bu nedenle ceket ile tulumdan oluşan eşya takım elbise sayılmaz. En güçlü tuzak kaytanlı ceket ve etektir: farklı kumaş içerdiği için aynı mensucat şartını bozduğu sanılır, fakat not kaytana açıkça izin verir. Bu nedenle doğru cevap 'Aynı mensucattan yapılmış bir ceket ile askılı ve üst ön parçası olan bir tulumdan oluşan giyim eşyası' seçeneğidir. (MD Fasıl 62 Notu; GYK 1)",

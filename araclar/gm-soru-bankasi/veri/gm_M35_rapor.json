@@ -1,0 +1,13 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "Tanımlar (Açık Alan Kullanma Belgesi, Görev Kartı, Bağımsız Denetim Kuruluşu vb.), Serbest Bölgeler Koordinasyon Kurulunun bileşimi, lash ve limbo ile bölgeye dahil sayılan deniz alanları, üstyapıların Hazineye intikali ve 49 yıllık irtifak, faaliyet ruhsatı müracaat ücretinin iade hâlleri, Özel Hesap gelirleri ve gecikme zammı, kira sözleşmesi şartları, yükleme-boşaltma hizmetleri, sermaye transferi, 5.000 ABD Dolarlık isteğe bağlı ihracat, hasarlı mallar için üç kişilik komisyon ve doğal gaz hizmet bedeli (%10) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 5, klasik 5, önermeli 2 (biri 'yanlıştır' yönlü), vaka 1, tanım 1; kota 6/4/2/2 her sütunda ±1 içinde. Kökü olumsuz 6/14 (%43).",
+  "Çıkmış GM sorusu: Serbest Bölgeler Uygulama Yönetmeliğine düşen çıkmış soru yok (2021/80 GK'daki gümrük yükümlülüğü hükmüdür, M34 raporunda belirtildi). Set Prompt 5 önceliğiyle (sayı, süre, makam, kapalı liste) kuruldu; makam çiftleri (Genel Müdürlük ↔ Bölge Müdürlüğü ↔ işletici) S2, S4, S9, S13, S14'te ölçüldü.",
+  "M34 ile tekrar önlendi: 3218 md. 7 ve Yönetmelik md. 41'deki CIF binde 1 / FOB binde 9 ücreti M34'te soruldu, burada yalnız md. 58'deki binde 9 teminat soruldu; sosyal güvenlik mevzuatının uygulanması M34'te, prim ödemesinin para birimi burada soruldu.",
+  "İkiz eksen: S6 gümrük statüsü ↔ menşe (serbest bölge gümrük rejimleri bakımından TGB dışında, menşe bakımından TGB içinde).",
+  "Güncellik: md. 25'e 06.02.2026'da eklenen işletici/B.K.İ. faaliyet ruhsatı ve ek ruhsat hükmü → S12.",
+  "Kaynak sorunları: md. 1, 14 son fıkra, 15 ve 43/a'da madde ve Kanun numaraları silinmiş; md. 27/A'daki 41. madde atfı numarasız; bu atıflar üzerinden soru yazılmadı.",
+  "Önermeli kombinasyonları: S5 'I, III ve IV' (beş önermeli), S11 'III ve V' (yanlış yönlü, beş önermeli); en kapsamlı şık doğru 0."
+ ]
+}

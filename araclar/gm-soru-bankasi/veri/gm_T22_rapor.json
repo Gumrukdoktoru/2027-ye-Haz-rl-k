@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2023/19 (87.02 midibüsün 12 haneli GTİP'inin alt açılımlardan seçilmesi): talimat gereği 12 haneli GTİP ve milli alt açılım sorulmaz; 87.02–87.04 kapsamı (sürücü mahalli ile teçhiz edilmiş şasi) S13'te ölçüldü."
+ ],
+ "giremeyen": "86.01–86.06 vagon türleri ayrıntıları, 87.02 on kişi ölçütü, 87.11 motosiklet ve 87.16 römork türleri, 88.04 paraşüt ve 88.05 yer eğitim cihazları, 89.01–89.03 gemi ve tekne türleri ile 89.05 sondaj platformları (84.30 ayrımı) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar yalnız Bölüm/Fasıl notları ve AS İzahnamesi (K3, K6, K9, K12) ile Tarife Sınıflandırma Kararları (K13) satırlarından alındı; Tarife Kitabı ders notu ve sunum notu blokları kanıt olarak kullanılmadı.",
+  "Profil: eşyanın yeri (GTİP) 17/24 (%71): 10 pozisyon/fasıl şıklı (sıralı; doğru şık konumları B, C, C, D, C, B, D, B, C, D), 7 eşya şıklı. Kalan 7: Bölüm XVII notu kapsam dışı 1, kapsam 2 (86.09 konteyner, 87.03/87.04 nitelikleri), kavram 1 (iki güçlü lokomotif), önermeli 1 (çift karakterli taşıtlar), sonuç 1 (Seri 15 bisiklet bileşenleri kararı), tanım 1 (azami kalkış ağırlığı). Kökü olumsuz 10 (%42).",
+  "Dağılım: Bölüm XVII notları 4 (S1, S2, S7, S8), Fasıl 86: 4, Fasıl 87: 10, Fasıl 88: 3, Fasıl 89: 3 (S7 gemi pervanesi Bölüm XVII ve 89. Fasıl genel açıklamalarına dayanır).",
+  "İkiz eksen: 87.03 ↔ 87.04 nitelik listeleri (S12, eksen 1); 88. Fasıl boş haldeki ağırlık ↔ azami kalkış ağırlığı (S21, eksen 2).",
+  "Çıkmış alanlar: 2022/76 (kameralı drone 88.06) → S20 ters yönden (88.06'da sınıflandırılmayan: eğlence amaçlı uçan oyuncak); 2023/18 (binek otomobil parçalarının pozisyonları; 87.10 tank) → S1, S14, S16; 2025/47 (87. Fasılda yer alan aksam) → S14; 2024/57 (römorkörler 89.04) → S22 farklı şık kümesiyle (89.05 tuzağı); 2021/97 (87.12 demonte bisiklet GYK 2(a)) → S18 (Seri 15 kararında GYK 2(a) ve 3(b) uygulanmayan bisiklet bileşenleri).",
+  "Kaynak sorunları: 88.01 balon ağırlıkları ve 8802 alt pozisyonlarındaki boş ağırlık eşikleri metinde silinmiş, 86.09 mavna kapasitesi silinmiş; bu sayılar sorulmadı. Seri 13 trike kararındaki 'Tasarruflu Yazılar 1' aktarım artığı alıntı dışında bırakıldı.",
+  "Kör çözüm yapılmadı (yazma izni veri/ ve dogrulama/ ile sınırlı); üst ajana bırakıldı."
+ ]
+}
