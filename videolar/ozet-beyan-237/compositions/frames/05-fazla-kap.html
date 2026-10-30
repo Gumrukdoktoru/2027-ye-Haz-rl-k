@@ -1,0 +1,97 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#F5F2EF;
+  font-family:'Libre Baskerville', serif; }
+#f05-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #0E2640 0, #0E2640 900px, #0A1D33 900px, #0A1D33 100%); }
+#root .f05-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f05-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#FF5A4E; white-space:nowrap; }
+.f05-white { color:#fff; }
+.f05-dark { color:#1C1410; }
+.f05-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#F5F2EF;
+  transform-origin:left top; white-space:nowrap; }
+.f05-red { color:#FF5A4E; }
+.f05-amber { color:#FFB21E; }
+.f05-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#F5F2EF; white-space:nowrap; }
+.f05-body { position:absolute; font-size:30px; line-height:1.5; color:#F5F2EF; }
+.f05-muted { color:#A9BBCD; }
+.f05-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#F5F2EF; color:#1C1410; white-space:nowrap; }
+.f05-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f05-tag.f05-amberbg { background:#FFB21E; color:#1C1410; }
+.f05-tag.f05-paperbg { background:#F5F2EF; color:#1C1410; }
+.f05-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:24px; letter-spacing:3px;
+  color:#FF5A4E; border:5px solid #FF5A4E; padding:9px 16px; white-space:nowrap; background:rgba(10,29,51,.88); }
+.f05-stamp.f05-onpaper { color:#D8000F; border-color:#D8000F; background:rgba(245,242,239,.94); }
+.f05-stamp.f05-amberst { color:#1C1410; border-color:#1C1410; background:#FFB21E; }
+.f05-cite { position:absolute; left:69px; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #F5F2EF; padding:6px 12px; color:#F5F2EF; white-space:nowrap; }
+.f05-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f05-paper { position:absolute; background:#F5F2EF; color:#1C1410; border:3px solid #1C1410; }
+.f05-num { position:absolute; font-family:'Shrikhand'; font-size:64px; line-height:1; color:#D8000F; }
+.f05-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f05-txt { position:absolute; font-size:28px; line-height:1.4; color:#1C1410; }
+
+.f05-prog { background:#D8000F; }
+
+.f05-ch { position:absolute; left:680px; width:1160px; height:104px; display:flex; align-items:center;
+  gap:26px; padding:0 30px; background:#F5F2EF; border:3px solid #1C1410; color:#1C1410; font-family:'Space Grotesk';
+  font-weight:600; font-size:30px; letter-spacing:2.5px; white-space:nowrap; box-sizing:border-box; }
+.f05-ch .f05-chn { font-family:'Shrikhand'; font-size:52px; letter-spacing:0; color:#D8000F; width:44px; }
+.f05-ch .f05-chs { font-family:'Libre Baskerville'; font-size:24px; letter-spacing:0; color:rgba(28,20,16,.7); }
+.f05-ch.f05-chred { background:#D8000F; border-color:#D8000F; color:#fff; }
+.f05-ch.f05-chred .f05-chn { color:#fff; }
+
+.f05-q { position:absolute; width:500px; font-size:30px; line-height:1.45; color:#F5F2EF; }
+
+</style>
+<div id="root" data-composition-id="05-fazla-kap" data-start="0" data-duration="12.68" data-width="1920" data-height="1080">
+<div id="f05-bg" class="clip" data-start="0" data-duration="12.68" data-track-index="0"></div>
+<div id="f05-eyebrow" class="f05-eyebrow" style="left:69px;top:86px">FAZLA KAP · GK MD. 237/3</div>
+<div id="f05-sh" class="f05-sh" style="left:69px;top:140px">Fazla kap</div>
+<div id="f05-slot" class="f05-abs" style="left:69px;top:290px;width:500px;height:270px"><svg width="500" height="270" viewBox="0 0 500 270" aria-hidden="true"><rect x="3.0" y="3.0" width="494" height="264" fill="#FFB21E" stroke="#1C1410" stroke-width="6"/><path d="M35.7 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M71.4 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M107.1 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M142.9 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M178.6 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M214.3 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M250.0 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M285.7 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M321.4 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M357.1 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M392.9 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M428.6 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/><path d="M464.3 48.6 V221.39999999999998" stroke="#1C1410" stroke-width="3.0"/></svg><div id="f05-slotn" class="f05-abs" style="left:0;top:0;width:500px;height:270px;display:flex;align-items:center;justify-content:center;font-family:Shrikhand;font-size:120px;color:#1C1410">06</div></div><div id="f05-slotl" class="f05-tag f05-amberbg" style="left:69px;top:238px">FAZLA KAP</div>
+<div id="f05-q" class="f05-q" style="left:69px;top:600px">Yanlışlıkla mahrecinden <b>fazla yüklendiği</b> kanıtlanamazsa:</div>
+<div id="f05-c1" class="f05-ch" style="top:250px"><span class="f05-chn">1</span><span>EL KONUR</span></div>
+<div id="f05-c2" class="f05-ch" style="top:378px"><span class="f05-chn">2</span><span>MÜLKİYETİ KAMUYA GEÇER</span></div>
+<div id="f05-c3" class="f05-ch" style="top:506px"><span class="f05-chn">3</span><span>TASFİYE</span><span class="f05-chs">md. 177–180</span></div>
+<div id="f05-c4" class="f05-ch f05-chred" style="top:634px"><span class="f05-chn">4</span><span>+ CIF KIYMETİ KADAR PARA CEZASI</span></div>
+<div id="f05-cite" class="f05-cite">GK md. 237/3</div>
+<div id="f05-prog" class="f05-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f05-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.3333 }, { scaleX: 0.4167, duration: 12.08, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 0.0);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.3);
+  tl.fromTo(q("sh"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 0.04);
+  tl.fromTo(q("slot"), { opacity: 0, y: 0, x: 60 }, { opacity: 1, y: 0, x: 0, duration: 0.6, ease: E }, 0.04);
+  tl.fromTo(q("slotl"), { opacity: 0, y: -10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 0.48);
+  tl.fromTo(q("q"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 1.28);
+  tl.fromTo(q("c1"), { opacity: 0, y: 0, x: 40 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 6.2);
+  tl.fromTo(q("c2"), { opacity: 0, y: 0, x: 40 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 6.8);
+  tl.fromTo(q("c3"), { opacity: 0, y: 0, x: 40 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 8.32);
+  tl.fromTo(q("c4"), { opacity: 0, scale: 1.08, rotation: -3 }, { opacity: 1, scale: 1, rotation: 0, duration: 0.45, ease: E }, 9.8);
+  window.__timelines["05-fazla-kap"] = tl;
+})();
+</script>
+</template>

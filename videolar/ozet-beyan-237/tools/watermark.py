@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Logo filigranı — index.html'e ortada, %10 opaklıkta, bütün süre boyunca.
+"""Logo filigranı — index.html'e ortada, %10 opaklıkta (beyaz silüet), bütün süre boyunca.
 
 Sıra: build_frames.py → assemble-index.mjs → transitions.mjs inject → bu betik.
 Tekrar çalıştırmak güvenlidir (önceki filigran bloklarını silip yeniden ekler).
@@ -12,6 +12,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INDEX = os.path.join(ROOT, "index.html")
 LOGO = "public/logo-ufuk-cetintas.png"
 OPACITY = 0.10
+FILTER = "brightness(0) invert(1)"  # lacivert zeminde beyaz silüet
 WIDTH = 720  # px; logo oranı 1823×999
 FADE = 0.6
 W, H = 1920, 1080
@@ -38,7 +39,7 @@ def main():
     comp = f"""<template>
 <style>
 #root {{ position:absolute; inset:0; width:{W}px; height:{H}px; overflow:hidden; pointer-events:none; }}
-#filigran-logo {{ position:absolute; left:{(W - WIDTH) // 2}px; top:{(H - h) // 2}px; width:{WIDTH}px; height:{h}px; opacity:{OPACITY}; }}
+#filigran-logo {{ position:absolute; left:{(W - WIDTH) // 2}px; top:{(H - h) // 2}px; width:{WIDTH}px; height:{h}px; opacity:{OPACITY}; filter:{FILTER}; }}
 </style>
 <div id="root" data-composition-id="filigran" data-start="0" data-duration="{total:g}" data-width="{W}" data-height="{H}">
 <img id="filigran-logo" src="{LOGO}" alt="">

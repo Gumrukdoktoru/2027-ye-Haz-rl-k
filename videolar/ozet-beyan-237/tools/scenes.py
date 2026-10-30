@@ -150,7 +150,7 @@ def lists_css(p):
   font-size:24px; letter-spacing:2px; color:{DARK}; }}
 .{p}-row.{p}-hl-r {{ background:rgba(216,0,15,.13); }}
 .{p}-row.{p}-hl-a {{ background:rgba(255,178,30,.42); }}
-.{p}-row .{p}-x {{ color:rgba(28,20,16,.45); }}
+.{p}-row .{p}-x {{ color:rgba(28,20,16,.66); }}
 """
 
 

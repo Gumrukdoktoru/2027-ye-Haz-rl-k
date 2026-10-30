@@ -1,0 +1,99 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#F5F2EF;
+  font-family:'Libre Baskerville', serif; }
+#f06-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #0E2640 0, #0E2640 900px, #0A1D33 900px, #0A1D33 100%); }
+#root .f06-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f06-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#FF5A4E; white-space:nowrap; }
+.f06-white { color:#fff; }
+.f06-dark { color:#1C1410; }
+.f06-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#F5F2EF;
+  transform-origin:left top; white-space:nowrap; }
+.f06-red { color:#FF5A4E; }
+.f06-amber { color:#FFB21E; }
+.f06-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#F5F2EF; white-space:nowrap; }
+.f06-body { position:absolute; font-size:30px; line-height:1.5; color:#F5F2EF; }
+.f06-muted { color:#A9BBCD; }
+.f06-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#F5F2EF; color:#1C1410; white-space:nowrap; }
+.f06-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f06-tag.f06-amberbg { background:#FFB21E; color:#1C1410; }
+.f06-tag.f06-paperbg { background:#F5F2EF; color:#1C1410; }
+.f06-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:24px; letter-spacing:3px;
+  color:#FF5A4E; border:5px solid #FF5A4E; padding:9px 16px; white-space:nowrap; background:rgba(10,29,51,.88); }
+.f06-stamp.f06-onpaper { color:#D8000F; border-color:#D8000F; background:rgba(245,242,239,.94); }
+.f06-stamp.f06-amberst { color:#1C1410; border-color:#1C1410; background:#FFB21E; }
+.f06-cite { position:absolute; left:69px; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #F5F2EF; padding:6px 12px; color:#F5F2EF; white-space:nowrap; }
+.f06-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f06-paper { position:absolute; background:#F5F2EF; color:#1C1410; border:3px solid #1C1410; }
+.f06-num { position:absolute; font-family:'Shrikhand'; font-size:64px; line-height:1; color:#D8000F; }
+.f06-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f06-txt { position:absolute; font-size:28px; line-height:1.4; color:#1C1410; }
+
+.f06-prog { background:#D8000F; }
+
+.f06-glab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:22px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#F5F2EF; white-space:nowrap; }
+.f06-gsub { font-family:'Libre Baskerville'; text-transform:none; letter-spacing:0; font-weight:400; font-size:22px; color:#A9BBCD; }
+.f06-gok { background:#F5F2EF; color:#1C1410; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  display:flex; align-items:center; justify-content:center; transform-origin:left center; }
+.f06-gover { background:repeating-linear-gradient(135deg, #D8000F 0 14px, rgba(216,0,15,.45) 14px 28px); }
+.f06-gmark { width:6px; background:#F5F2EF; }
+.f06-gnum { font-family:'Shrikhand'; font-size:40px; color:#F5F2EF; white-space:nowrap; }
+.f06-gz { font-size:28px; color:#A9BBCD; }
+.f06-note { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2px;
+  text-transform:uppercase; color:#A9BBCD; white-space:nowrap; }
+.f06-note b { color:#F5F2EF; font-weight:600; }
+
+</style>
+<div id="root" data-composition-id="06-dokme" data-start="0" data-duration="15.04" data-width="1920" data-height="1080">
+<div id="f06-bg" class="clip" data-start="0" data-duration="15.04" data-track-index="0"></div>
+<div id="f06-eyebrow" class="f06-eyebrow" style="left:69px;top:86px">DÖKME EŞYA · GK MD. 237/4</div>
+<div id="f06-sh" class="f06-sh" style="left:69px;top:140px">Dökme eşya</div>
+<div id="f06-pile" class="f06-abs" style="left:69px;top:330px"><svg width="560" height="360" viewBox="0 0 560 360" aria-hidden="true"><path d="M20 340 C120 300 170 90 280 60 C390 90 440 300 540 340 Z" fill="none" stroke="#F5F2EF" stroke-width="6" stroke-linejoin="round"/><circle cx="250" cy="120" r="5" fill="#F5F2EF"/><circle cx="300" cy="140" r="5" fill="#F5F2EF"/><circle cx="220" cy="190" r="5" fill="#F5F2EF"/><circle cx="280" cy="200" r="5" fill="#F5F2EF"/><circle cx="340" cy="210" r="5" fill="#F5F2EF"/><circle cx="180" cy="260" r="5" fill="#F5F2EF"/><circle cx="240" cy="270" r="5" fill="#F5F2EF"/><circle cx="310" cy="280" r="5" fill="#F5F2EF"/><circle cx="370" cy="270" r="5" fill="#F5F2EF"/><circle cx="420" cy="300" r="5" fill="#F5F2EF"/><circle cx="130" cy="310" r="5" fill="#F5F2EF"/><circle cx="200" cy="320" r="5" fill="#F5F2EF"/><circle cx="270" cy="325" r="5" fill="#F5F2EF"/><circle cx="350" cy="320" r="5" fill="#F5F2EF"/><path d="M0 346 H560" stroke="#F5F2EF" stroke-width="6"/></svg></div>
+<div id="f06-g1l" class="f06-glab" style="left:760px;top:256px">Dökme eşya <span class="f06-gsub">· oranı eşya cinsine göre Cumhurbaşkanı kararı, en çok</span></div><div id="f06-g1" class="f06-abs" style="left:760px;top:330px;width:1080px;height:64px"><div id="f06-g1ok" class="f06-abs f06-gok" style="left:0;top:0;width:405px;height:64px">TAKİBAT YOK</div><div class="f06-abs f06-gover" style="left:405px;top:0;width:675px;height:64px"></div><div id="f06-g1m" class="f06-abs f06-gmark" style="left:402px;top:-14px;height:92px"></div><div class="f06-abs f06-gnum" style="left:365px;top:80px">%3</div><div class="f06-abs f06-gnum f06-gz" style="left:0;top:80px">%0</div></div>
+<div id="f06-g2l" class="f06-glab" style="left:760px;top:516px">Doğalgaz ürünleri <span class="f06-gsub">· boru hattıyla ithal edilenler hariç, en çok</span></div><div id="f06-g2" class="f06-abs" style="left:760px;top:590px;width:1080px;height:64px"><div id="f06-g2ok" class="f06-abs f06-gok" style="left:0;top:0;width:810px;height:64px">TAKİBAT YOK</div><div class="f06-abs f06-gover" style="left:810px;top:0;width:270px;height:64px"></div><div id="f06-g2m" class="f06-abs f06-gmark" style="left:807px;top:-14px;height:92px"></div><div class="f06-abs f06-gnum" style="left:770px;top:80px">%6</div><div class="f06-abs f06-gnum f06-gz" style="left:0;top:80px">%0</div></div>
+<div id="f06-note" class="f06-note" style="left:760px;top:780px">Takibat yalnızca <b>aşan kısım</b> için · GY md. 75/7</div>
+<div id="f06-cite" class="f06-cite">GK md. 237/4 · GY md. 75/7</div>
+<div id="f06-prog" class="f06-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f06-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.4167 }, { scaleX: 0.5000, duration: 14.54, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 0.0);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.3);
+  tl.fromTo(q("sh"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 0.04);
+  tl.fromTo(q("pile"), { opacity: 0, y: 40, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.6, ease: E }, 0.14);
+  tl.fromTo(q("g1l"), { opacity: 0, y: -10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 1.12);
+  tl.fromTo(q("g1"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 1.48);
+  tl.fromTo(q("g1ok"), { scaleX: 0 }, { scaleX: 1, duration: 0.6, ease: "power2.inOut" }, 7.72);
+  tl.fromTo(q("note"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 8.28);
+  tl.fromTo(q("g2l"), { opacity: 0, y: -10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 9.08);
+  tl.fromTo(q("g2"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 9.56);
+  tl.fromTo(q("g2ok"), { scaleX: 0 }, { scaleX: 1, duration: 0.6, ease: "power2.inOut" }, 13.44);
+  window.__timelines["06-dokme"] = tl;
+})();
+</script>
+</template>

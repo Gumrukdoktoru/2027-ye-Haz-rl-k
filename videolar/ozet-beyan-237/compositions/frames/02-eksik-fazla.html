@@ -1,0 +1,120 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#F5F2EF;
+  font-family:'Libre Baskerville', serif; }
+#f02-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #0E2640 0, #0E2640 900px, #0A1D33 900px, #0A1D33 100%); }
+#root .f02-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f02-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#FF5A4E; white-space:nowrap; }
+.f02-white { color:#fff; }
+.f02-dark { color:#1C1410; }
+.f02-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#F5F2EF;
+  transform-origin:left top; white-space:nowrap; }
+.f02-red { color:#FF5A4E; }
+.f02-amber { color:#FFB21E; }
+.f02-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#F5F2EF; white-space:nowrap; }
+.f02-body { position:absolute; font-size:30px; line-height:1.5; color:#F5F2EF; }
+.f02-muted { color:#A9BBCD; }
+.f02-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#F5F2EF; color:#1C1410; white-space:nowrap; }
+.f02-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f02-tag.f02-amberbg { background:#FFB21E; color:#1C1410; }
+.f02-tag.f02-paperbg { background:#F5F2EF; color:#1C1410; }
+.f02-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:24px; letter-spacing:3px;
+  color:#FF5A4E; border:5px solid #FF5A4E; padding:9px 16px; white-space:nowrap; background:rgba(10,29,51,.88); }
+.f02-stamp.f02-onpaper { color:#D8000F; border-color:#D8000F; background:rgba(245,242,239,.94); }
+.f02-stamp.f02-amberst { color:#1C1410; border-color:#1C1410; background:#FFB21E; }
+.f02-cite { position:absolute; left:69px; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #F5F2EF; padding:6px 12px; color:#F5F2EF; white-space:nowrap; }
+.f02-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f02-paper { position:absolute; background:#F5F2EF; color:#1C1410; border:3px solid #1C1410; }
+.f02-num { position:absolute; font-family:'Shrikhand'; font-size:64px; line-height:1; color:#D8000F; }
+.f02-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f02-txt { position:absolute; font-size:28px; line-height:1.4; color:#1C1410; }
+
+.f02-prog { background:#D8000F; }
+
+.f02-lh { position:absolute; left:26px; top:26px; font-family:'Space Grotesk'; font-weight:600; font-size:22px;
+  letter-spacing:3px; text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f02-row { position:absolute; left:20px; right:20px; height:64px; display:flex; align-items:center; gap:18px;
+  padding:0 8px; border-top:1.5px solid rgba(28,20,16,.35); font-family:'Space Grotesk'; font-weight:600;
+  font-size:24px; letter-spacing:2px; color:#1C1410; }
+.f02-row.f02-hl-r { background:rgba(216,0,15,.13); }
+.f02-row.f02-hl-a { background:rgba(255,178,30,.42); }
+.f02-row .f02-x { color:rgba(28,20,16,.66); }
+
+.f02-def { position:absolute; left:69px; width:820px; font-size:32px; line-height:1.45; color:#F5F2EF; }
+.f02-stamp.f02-rowst { font-size:18px; letter-spacing:2px; padding:5px 10px; border-width:4px; }
+
+</style>
+<div id="root" data-composition-id="02-eksik-fazla" data-start="0" data-duration="8.82" data-width="1920" data-height="1080">
+<div id="f02-bg" class="clip" data-start="0" data-duration="8.82" data-track-index="0"></div>
+<div id="f02-eyebrow" class="f02-eyebrow" style="left:69px;top:86px">TANIM · GY MD. 75/3</div>
+<div id="f02-sh" class="f02-sh" style="left:69px;top:140px">Eksik mi, fazla mı?</div>
+<div id="f02-t1" class="f02-tag" style="left:69px;top:300px">EKSİK</div>
+<div id="f02-d1" class="f02-def" style="top:356px">özet beyanda <b>var</b>, boşaltma listesinde <b>yok</b></div>
+<div id="f02-t2" class="f02-tag f02-amberbg" style="left:69px;top:520px">FAZLA</div>
+<div id="f02-d2" class="f02-def" style="top:576px">boşaltma listesinde <b>var</b>, özet beyanda <b>yok</b></div>
+<div id="f02-list-oz" class="f02-paper" style="left:1000px;top:180px;width:390px;height:560px">
+<div class="f02-lh">ÖZET BEYAN</div>
+<div id="f02-row-oz-1" class="f02-row" style="top:96px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 01</span></div>
+<div id="f02-row-oz-2" class="f02-row" style="top:168px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 02</span></div>
+<div id="f02-row-oz-3" class="f02-row f02-hl-r" style="top:240px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="rgba(216,0,15,.18)" stroke="#D8000F" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#D8000F" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#D8000F" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#D8000F" stroke-width="2"/></svg><span>KAP 03</span></div>
+<div id="f02-row-oz-4" class="f02-row" style="top:312px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 04</span></div>
+<div id="f02-row-oz-5" class="f02-row" style="top:384px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 05</span></div>
+<div id="f02-row-oz-6" class="f02-row f02-hl-a" style="top:456px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#9A5B00" stroke-width="3" stroke-dasharray="14 10"/></svg><span class="f02-x">— yok —</span></div>
+</div>
+<div id="f02-list-bo" class="f02-paper" style="left:1450px;top:180px;width:390px;height:560px">
+<div class="f02-lh">BOŞALTMA LİSTESİ</div>
+<div id="f02-row-bo-1" class="f02-row" style="top:96px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 01</span></div>
+<div id="f02-row-bo-2" class="f02-row" style="top:168px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 02</span></div>
+<div id="f02-row-bo-3" class="f02-row f02-hl-r" style="top:240px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#D8000F" stroke-width="3" stroke-dasharray="14 10"/></svg><span class="f02-x">— yok —</span></div>
+<div id="f02-row-bo-4" class="f02-row" style="top:312px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 04</span></div>
+<div id="f02-row-bo-5" class="f02-row" style="top:384px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 05</span></div>
+<div id="f02-row-bo-6" class="f02-row f02-hl-a" style="top:456px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="#FFB21E" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 06</span></div>
+</div>
+<div id="f02-st1" class="f02-stamp f02-onpaper f02-rowst" style="left:1700px;top:431px" data-layout-allow-overlap>EKSİK</div>
+<div id="f02-st2" class="f02-stamp f02-amberst f02-rowst" style="left:1700px;top:647px" data-layout-allow-overlap>FAZLA</div>
+<div id="f02-cite" class="f02-cite">GY md. 75/3</div>
+<div id="f02-prog" class="f02-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f02-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.0833 }, { scaleX: 0.1667, duration: 8.32, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 0.0);
+  tl.fromTo(q("sh"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 0.1);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.3);
+  tl.fromTo(q("t1"), { opacity: 0, y: -10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 0.02);
+  tl.fromTo(q("d1"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 0.17);
+  tl.fromTo(q("row-oz-3"), { backgroundColor: "rgba(216,0,15,0)" }, { backgroundColor: "rgba(216,0,15,.13)", duration: 0.4, ease: E }, 0.78);
+  tl.fromTo(q("row-bo-3"), { backgroundColor: "rgba(216,0,15,0)" }, { backgroundColor: "rgba(216,0,15,.13)", duration: 0.4, ease: E }, 2.02);
+  tl.fromTo(q("st1"), { opacity: 0, scale: 1.5, rotation: -14 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.4, ease: E }, 3.5);
+  tl.fromTo(q("t2"), { opacity: 0, y: -10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 4.3);
+  tl.fromTo(q("d2"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 4.45);
+  tl.fromTo(q("row-bo-6"), { backgroundColor: "rgba(255,178,30,0)" }, { backgroundColor: "rgba(255,178,30,.42)", duration: 0.4, ease: E }, 4.78);
+  tl.fromTo(q("row-oz-6"), { backgroundColor: "rgba(255,178,30,0)" }, { backgroundColor: "rgba(255,178,30,.42)", duration: 0.4, ease: E }, 6.46);
+  tl.fromTo(q("st2"), { opacity: 0, scale: 1.5, rotation: -14 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.4, ease: E }, 7.5);
+  window.__timelines["02-eksik-fazla"] = tl;
+})();
+</script>
+</template>

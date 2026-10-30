@@ -1,0 +1,111 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#F5F2EF;
+  font-family:'Libre Baskerville', serif; }
+#f01-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #0E2640 0, #0E2640 900px, #0A1D33 900px, #0A1D33 100%); }
+#root .f01-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f01-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#FF5A4E; white-space:nowrap; }
+.f01-white { color:#fff; }
+.f01-dark { color:#1C1410; }
+.f01-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#F5F2EF;
+  transform-origin:left top; white-space:nowrap; }
+.f01-red { color:#FF5A4E; }
+.f01-amber { color:#FFB21E; }
+.f01-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#F5F2EF; white-space:nowrap; }
+.f01-body { position:absolute; font-size:30px; line-height:1.5; color:#F5F2EF; }
+.f01-muted { color:#A9BBCD; }
+.f01-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#F5F2EF; color:#1C1410; white-space:nowrap; }
+.f01-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f01-tag.f01-amberbg { background:#FFB21E; color:#1C1410; }
+.f01-tag.f01-paperbg { background:#F5F2EF; color:#1C1410; }
+.f01-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:24px; letter-spacing:3px;
+  color:#FF5A4E; border:5px solid #FF5A4E; padding:9px 16px; white-space:nowrap; background:rgba(10,29,51,.88); }
+.f01-stamp.f01-onpaper { color:#D8000F; border-color:#D8000F; background:rgba(245,242,239,.94); }
+.f01-stamp.f01-amberst { color:#1C1410; border-color:#1C1410; background:#FFB21E; }
+.f01-cite { position:absolute; left:69px; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #F5F2EF; padding:6px 12px; color:#F5F2EF; white-space:nowrap; }
+.f01-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f01-paper { position:absolute; background:#F5F2EF; color:#1C1410; border:3px solid #1C1410; }
+.f01-num { position:absolute; font-family:'Shrikhand'; font-size:64px; line-height:1; color:#D8000F; }
+.f01-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f01-txt { position:absolute; font-size:28px; line-height:1.4; color:#1C1410; }
+
+.f01-prog { background:#D8000F; }
+
+.f01-lh { position:absolute; left:26px; top:26px; font-family:'Space Grotesk'; font-weight:600; font-size:22px;
+  letter-spacing:3px; text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f01-row { position:absolute; left:20px; right:20px; height:64px; display:flex; align-items:center; gap:18px;
+  padding:0 8px; border-top:1.5px solid rgba(28,20,16,.35); font-family:'Space Grotesk'; font-weight:600;
+  font-size:24px; letter-spacing:2px; color:#1C1410; }
+.f01-row.f01-hl-r { background:rgba(216,0,15,.13); }
+.f01-row.f01-hl-a { background:rgba(255,178,30,.42); }
+.f01-row .f01-x { color:rgba(28,20,16,.66); }
+
+#f01-ship { position:absolute; left:400px; top:650px; }
+
+</style>
+<div id="root" data-composition-id="01-iki-liste" data-start="0" data-duration="10.6" data-width="1920" data-height="1080">
+<div id="f01-bg" class="clip" data-start="0" data-duration="10.6" data-track-index="0"></div>
+<div id="f01-eyebrow" class="f01-eyebrow" style="left:69px;top:86px">GÜMRÜK KOÇU · ÖZET BEYAN</div>
+<div id="f01-h1" class="f01-hero" style="left:69px;top:170px">İki liste</div>
+<div id="f01-h2" class="f01-hero f01-red" style="left:80px;top:330px;" data-layout-allow-overlap>tutmazsa…</div>
+<div id="f01-body" class="f01-body" style="left:72px;top:540px">Gümrük Kanunu <b>md. 237</b> devreye girer.</div>
+<div id="f01-ship"><svg width="540" height="250" viewBox="0 0 540 250" aria-hidden="true"><path d="M10 150 H530 L486 240 H58 Z" stroke="#F5F2EF" stroke-width="5" fill="none" stroke-linejoin="round"/><path d="M430 150 V70 H500 V150" stroke="#F5F2EF" stroke-width="5" fill="none" stroke-linejoin="round"/><path d="M446 92 H484" stroke="#F5F2EF" stroke-width="5" fill="none" stroke-linejoin="round"/><rect x="70" y="96" width="84" height="46" fill="#0E2640" stroke="#F5F2EF" stroke-width="5"/><rect x="160" y="96" width="84" height="46" fill="#0E2640" stroke="#F5F2EF" stroke-width="5"/><rect x="250" y="96" width="84" height="46" fill="#0E2640" stroke="#F5F2EF" stroke-width="5"/><rect x="340" y="96" width="84" height="46" fill="#0E2640" stroke="#F5F2EF" stroke-width="5"/><rect x="115" y="46" width="84" height="46" fill="#0E2640" stroke="#F5F2EF" stroke-width="5"/><rect x="205" y="46" width="84" height="46" fill="#0E2640" stroke="#FF5A4E" stroke-width="5"/><rect x="295" y="46" width="84" height="46" fill="#0E2640" stroke="#F5F2EF" stroke-width="5"/></svg></div>
+<div id="f01-list-oz" class="f01-paper" style="left:1000px;top:180px;width:390px;height:560px">
+<div class="f01-lh">ÖZET BEYAN</div>
+<div id="f01-row-oz-1" class="f01-row" style="top:96px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 01</span></div>
+<div id="f01-row-oz-2" class="f01-row" style="top:168px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 02</span></div>
+<div id="f01-row-oz-3" class="f01-row" style="top:240px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 03</span></div>
+<div id="f01-row-oz-4" class="f01-row" style="top:312px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 04</span></div>
+<div id="f01-row-oz-5" class="f01-row" style="top:384px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 05</span></div>
+<div id="f01-row-oz-6" class="f01-row" style="top:456px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="rgba(28,20,16,.45)" stroke-width="3" stroke-dasharray="14 10"/></svg><span class="f01-x">— yok —</span></div>
+</div>
+<div id="f01-list-bo" class="f01-paper" style="left:1450px;top:180px;width:390px;height:560px">
+<div class="f01-lh">BOŞALTMA LİSTESİ</div>
+<div id="f01-row-bo-1" class="f01-row" style="top:96px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 01</span></div>
+<div id="f01-row-bo-2" class="f01-row" style="top:168px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 02</span></div>
+<div id="f01-row-bo-3" class="f01-row" style="top:240px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="rgba(28,20,16,.45)" stroke-width="3" stroke-dasharray="14 10"/></svg><span class="f01-x">— yok —</span></div>
+<div id="f01-row-bo-4" class="f01-row" style="top:312px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 04</span></div>
+<div id="f01-row-bo-5" class="f01-row" style="top:384px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 05</span></div>
+<div id="f01-row-bo-6" class="f01-row" style="top:456px"><svg width="76" height="42" viewBox="0 0 76 42" aria-hidden="true"><rect x="1.5" y="1.5" width="73" height="39" fill="none" stroke="#1C1410" stroke-width="3"/><path d="M19.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M38.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/><path d="M57.0 7.56 V34.44" stroke="#1C1410" stroke-width="2"/></svg><span>KAP 06</span></div>
+</div>
+<div id="f01-cite" class="f01-cite">GK md. 237 · GY md. 75</div>
+<div id="f01-prog" class="f01-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f01-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.0000 }, { scaleX: 0.0833, duration: 10.1, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.0);
+  tl.fromTo(q("ship"), { opacity: 0, y: 0, x: -90 }, { opacity: 1, y: 0, x: 0, duration: 1.1, ease: E }, 0.1);
+  tl.fromTo(q("h1"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 1.64);
+  tl.fromTo(q("list-oz"), { opacity: 0, y: 40, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.6, ease: E }, 3.16);
+  tl.fromTo(q("list-bo"), { opacity: 0, y: 40, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.6, ease: E }, 4.08);
+  tl.fromTo(q("h2"), { opacity: 0, scale: 1.25, rotation: -12 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.5, ease: E }, 5.76);
+  tl.fromTo(q("body"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 6.587);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 6.587);
+  window.__timelines["01-iki-liste"] = tl;
+})();
+</script>
+</template>
