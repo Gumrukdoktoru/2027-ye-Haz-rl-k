@@ -18,20 +18,9 @@ WORDS = [
     ]
     if w.get("type", "word") == "word"
 ]
-ANCHORS = [
-    ("Gemi", "limana"),
-    ("Özet", "beyanda"),
-    ("Noksan", "kapta,"),
-    ("Kanıtlanamazsa,", "eşyanın"),
-    ("Fazla", "kapta"),
-    ("Dökme", "eşyada,"),
-    ("Kap", "adedi"),
-    ("Miktarı", "gümrük"),
-    ("Taşıtta,", "hiç"),
-    ("Peki", "ceza"),
-    ("Kısacası:", "noksan"),
-    ("Gümrük", "Koçu…"),
-]
+ANCHORS = [("Yurt", "dışından"), ("Dört", "kişi"), ("İlk", "üç"), ("Yirmi", "dört"), ("Ama", "son"),
+           ("Bu", "muafiyetten"), ("Kimler", "yararlanamaz?"), ("Beyan", "ne"), ("Bir", "ülkeden"),
+           ("Hak", "mükerrer"), ("Kısacası,", "üç"), ("Gümrük", "Koçu…")]
 CLOSING_HOLD = 4.6  # son sahne: imza + logo bekleme
 
 

@@ -1,0 +1,109 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f06-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#root .f06-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f06-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f06-white { color:#fff; }
+.f06-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f06-red { color:#A8000B; }
+.f06-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f06-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f06-muted { color:#5E4E3A; }
+.f06-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f06-chip b { color:#A8000B; font-weight:600; }
+.f06-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f06-tag.f06-darkbg { background:#1C1410; }
+.f06-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f06-stamp.f06-ok { color:#1C1410; border-color:#1C1410; }
+.f06-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f06-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f06-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f06-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f06-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f06-txt b { color:#A8000B; }
+.f06-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f06-node b { color:#A8000B; }
+.f06-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f06-prog { background:#D8000F; }
+
+.f06-cal { position:absolute; top:510px; width:100px; height:80px; box-sizing:border-box; border:3px solid #1C1410;
+  background:#FFFFFF; font-family:'Space Grotesk'; font-weight:600; font-size:24px; color:#1C1410;
+  display:flex; align-items:flex-end; justify-content:center; padding-bottom:10px; }
+.f06-cal.f06-in { background:#1C1410; color:#fff; }
+.f06-six { position:absolute; left:1236px; top:488px; width:8px; height:124px; background:#D8000F; }
+.f06-ln { position:absolute; background:#1C1410; }
+
+</style>
+<div id="root" data-composition-id="06-ikinci-kez" data-start="0" data-duration="7.4" data-width="1920" data-height="1080">
+<div id="f06-bg" class="clip" data-start="0" data-duration="7.4" data-track-index="0"></div>
+<div id="f06-eyebrow" class="f06-eyebrow" style="left:69px;top:86px">TEKRAR · MD. 11/2</div>
+<div id="f06-sh" class="f06-sh" style="left:69px;top:140px">İkinci kez</div>
+<div id="f06-root" class="f06-node" style="left:69px;top:300px;width:440px;height:170px">Yurt dışında <b>≥ 24 ay</b> ikamet<small>(a) kişisi · (ç)'de ölen kişi</small></div>
+<div id="f06-a1" class="f06-abs" style="left:520px;top:362px"><svg class="glyph" width="108" height="46" viewBox="0 0 108 46" aria-hidden="true"><path d="M7 23.0 H97.5 M88.68 6.44 L101 23.0 L88.68 39.56" fill="none" stroke="#1C1410" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f06-n2" class="f06-node" style="left:640px;top:300px;width:1200px;height:170px">Bir takvim yılında Türkiye'de <b>en çok 6 ay</b><small>altı aydan fazla kalmamış olmalı</small></div>
+<div id="f06-m1" class="f06-cal f06-in" style="left:640px">O</div>
+<div id="f06-m2" class="f06-cal f06-in" style="left:740px">Ş</div>
+<div id="f06-m3" class="f06-cal f06-in" style="left:840px">M</div>
+<div id="f06-m4" class="f06-cal f06-in" style="left:940px">N</div>
+<div id="f06-m5" class="f06-cal f06-in" style="left:1040px">M</div>
+<div id="f06-m6" class="f06-cal f06-in" style="left:1140px">H</div>
+<div id="f06-m7" class="f06-cal" style="left:1240px">T</div>
+<div id="f06-m8" class="f06-cal" style="left:1340px">A</div>
+<div id="f06-m9" class="f06-cal" style="left:1440px">E</div>
+<div id="f06-m10" class="f06-cal" style="left:1540px">E</div>
+<div id="f06-m11" class="f06-cal" style="left:1640px">K</div>
+<div id="f06-m12" class="f06-cal" style="left:1740px">A</div>
+<div id="f06-six" class="f06-six" data-layout-allow-overlap></div>
+<div id="f06-sixl" class="f06-tag" style="left:1200px;top:620px">6 AY</div>
+<div id="f06-d45" class="f06-chip" style="left:640px;top:620px">≤ 45 gün / yıl <b>= yurt dışı</b> sayılır</div>
+<div id="f06-n3" class="f06-node" style="left:69px;top:700px;width:440px;height:130px">Son <b>10 yılda ≥ 5 yıl</b> yurt dışı</div>
+<div id="f06-a3" class="f06-abs" style="left:520px;top:742px"><svg class="glyph" width="150" height="46" viewBox="0 0 150 46" aria-hidden="true"><path d="M7 23.0 H139.5 M130.68 6.44 L143 23.0 L130.68 39.56" fill="none" stroke="#D8000F" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f06-free" class="f06-stamp" style="left:690px;top:728px">SÜRE ŞARTI ARANMAZ</div>
+<div id="f06-ele" class="f06-chip" style="left:1330px;top:620px">giriş-çıkış: <b>elektronik sistem</b></div>
+<div id="f06-loop" class="f06-abs" style="left:100px;top:222px" data-layout-allow-overlap><svg width="380" height="80" viewBox="0 0 380 80" aria-hidden="true"><path d="M340 76 C340 10 40 10 40 70" fill="none" stroke="#D8000F" stroke-width="7"/><path d="M22 50 L40 76 L60 52" fill="none" stroke="#D8000F" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f06-again" class="f06-tag" style="left:500px;top:236px">tekrar için: yeniden ≥ 24 ay</div>
+<div id="f06-cite" class="f06-cite" style="left:1580px">md. 11/2</div>
+<div id="f06-prog" class="f06-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f06-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.4167 }, { scaleX: 0.5000, duration: 6.9, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 0.0);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.3);
+  tl.fromTo(q("sh"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 0.0);
+  tl.fromTo(q("loop"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 2.08);
+  tl.fromTo(q("again"), { opacity: 0, y: -10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 4.04);
+  window.__timelines["06-ikinci-kez"] = tl;
+})();
+</script>
+</template>

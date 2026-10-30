@@ -1,0 +1,114 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f08-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#root .f08-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f08-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f08-white { color:#fff; }
+.f08-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f08-red { color:#A8000B; }
+.f08-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f08-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f08-muted { color:#5E4E3A; }
+.f08-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f08-chip b { color:#A8000B; font-weight:600; }
+.f08-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f08-tag.f08-darkbg { background:#1C1410; }
+.f08-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f08-stamp.f08-ok { color:#1C1410; border-color:#1C1410; }
+.f08-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f08-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f08-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f08-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f08-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f08-txt b { color:#A8000B; }
+.f08-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f08-node b { color:#A8000B; }
+.f08-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f08-prog { background:#D8000F; }
+
+.f08-line { position:absolute; height:6px; background:#1C1410; transform-origin:left center; }
+.f08-dot { position:absolute; width:34px; height:34px; margin:-14px 0 0 -17px; border-radius:50%; background:#1C1410; }
+.f08-br { position:absolute; height:22px; border:5px solid #D8000F; border-top:none; box-sizing:border-box; transform-origin:left center; }
+.f08-brl { position:absolute; font-family:'Shrikhand'; font-size:44px; color:#A8000B; white-space:nowrap; }
+.f08-pl { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#5E4E3A; white-space:nowrap; }
+.f08-note { position:absolute; font-size:28px; font-style:italic; color:#5E4E3A; white-space:nowrap; }
+
+</style>
+<div id="root" data-composition-id="08-getirme-suresi" data-start="0" data-duration="14.34" data-width="1920" data-height="1080">
+<div id="f08-bg" class="clip" data-start="0" data-duration="14.34" data-track-index="0"></div>
+<div id="f08-eyebrow" class="f08-eyebrow" style="left:69px;top:86px">SÜRE · MD. 13</div>
+<div id="f08-sh" class="f08-sh" style="left:69px;top:140px">Ne zaman getirilir?</div>
+<div id="f08-t1" class="f08-tag f08-darkbg" style="left:69px;top:300px">a · b · c</div>
+<div id="f08-l1" class="f08-line" style="left:300px;top:320px;width:1520px"></div>
+<div id="f08-d1" class="f08-dot" style="left:880px;top:323px"></div>
+<div id="f08-g1" class="f08-tag" style="left:828px;top:244px">GELİŞ</div>
+<div id="f08-p1" class="f08-pl" style="left:470px;top:360px">ÖNCE</div>
+<div id="f08-p2" class="f08-pl" style="left:800px;top:360px">BERABER</div>
+<div id="f08-br1" class="f08-br" style="left:900px;top:350px;width:640px"></div>
+<div id="f08-bl1" class="f08-brl" style="left:1100px;top:390px">sonra 6 ay</div>
+<div id="f08-t2" class="f08-tag f08-darkbg" style="left:69px;top:560px">ç · mirasçı</div>
+<div id="f08-l2" class="f08-line" style="left:300px;top:580px;width:1520px"></div>
+<div id="f08-d2" class="f08-dot" style="left:520px;top:583px"></div>
+<div id="f08-g2" class="f08-tag" style="left:420px;top:504px">VERASET İLAMI</div>
+<div id="f08-br2" class="f08-br" style="left:540px;top:610px;width:1200px"></div>
+<div id="f08-bl2" class="f08-brl" style="left:1060px;top:650px">24 ay</div>
+<div id="f08-note" class="f08-note" style="left:300px;top:760px">mücbir sebep ve beklenmeyen haller saklı</div>
+<div id="f08-cite" class="f08-cite" style="left:69px">md. 13</div>
+<div id="f08-prog" class="f08-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f08-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.5833 }, { scaleX: 0.6667, duration: 13.84, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 0.0);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.3);
+  tl.fromTo(q("sh"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 0.1);
+  tl.fromTo(q("t1"), { opacity: 0, y: 0, x: -20 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 1.62);
+  tl.fromTo(q("l1"), { scaleX: 0 }, { scaleX: 1, duration: 0.7, ease: "power2.inOut" }, 1.62);
+  tl.fromTo(q("d1"), { opacity: 0, scale: 0.6 }, { opacity: 1, scale: 1, duration: 0.45, ease: E }, 2.5);
+  tl.fromTo(q("g1"), { opacity: 0, y: -10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 2.5);
+  tl.fromTo(q("p1"), { opacity: 0, y: 10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.35, ease: E }, 3.3);
+  tl.fromTo(q("p2"), { opacity: 0, y: 10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.35, ease: E }, 3.78);
+  tl.fromTo(q("br1"), { scaleX: 0 }, { scaleX: 1, duration: 0.6, ease: "power2.inOut" }, 5.62);
+  tl.fromTo(q("bl1"), { opacity: 0, y: 10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 6.1);
+  tl.fromTo(q("t2"), { opacity: 0, y: 0, x: -20 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 7.34);
+  tl.fromTo(q("l2"), { scaleX: 0 }, { scaleX: 1, duration: 0.7, ease: "power2.inOut" }, 7.34);
+  tl.fromTo(q("d2"), { opacity: 0, scale: 0.6 }, { opacity: 1, scale: 1, duration: 0.45, ease: E }, 8.1);
+  tl.fromTo(q("g2"), { opacity: 0, y: -10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 8.1);
+  tl.fromTo(q("br2"), { scaleX: 0 }, { scaleX: 1, duration: 0.7, ease: "power2.inOut" }, 9.14);
+  tl.fromTo(q("bl2"), { opacity: 0, y: 10, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.4, ease: E }, 9.78);
+  tl.fromTo(q("note"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 11.06);
+  window.__timelines["08-getirme-suresi"] = tl;
+})();
+</script>
+</template>

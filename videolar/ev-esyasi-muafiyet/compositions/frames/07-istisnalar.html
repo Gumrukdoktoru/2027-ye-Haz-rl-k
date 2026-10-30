@@ -1,0 +1,91 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f07-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#root .f07-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f07-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f07-white { color:#fff; }
+.f07-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f07-red { color:#A8000B; }
+.f07-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f07-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f07-muted { color:#5E4E3A; }
+.f07-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f07-chip b { color:#A8000B; font-weight:600; }
+.f07-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f07-tag.f07-darkbg { background:#1C1410; }
+.f07-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f07-stamp.f07-ok { color:#1C1410; border-color:#1C1410; }
+.f07-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f07-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f07-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f07-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f07-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f07-txt b { color:#A8000B; }
+.f07-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f07-node b { color:#A8000B; }
+.f07-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f07-prog { background:#D8000F; }
+
+.f07-lh2 { position:absolute; left:0; right:0; top:0; height:64px; color:#fff; display:flex; align-items:center; padding:0 24px;
+  font-family:'Space Grotesk'; font-weight:600; font-size:23px; letter-spacing:2.5px; white-space:nowrap; }
+
+</style>
+<div id="root" data-composition-id="07-istisnalar" data-start="0" data-duration="11.32" data-width="1920" data-height="1080">
+<div id="f07-bg" class="clip" data-start="0" data-duration="11.32" data-track-index="0"></div>
+<div id="f07-eyebrow" class="f07-eyebrow" style="left:69px;top:86px">İSTİSNA · MD. 12</div>
+<div id="f07-sh" class="f07-sh" style="left:69px;top:140px">Kimler yararlanamaz?</div>
+<div id="f07-e1" class="f07-card" style="left:69px;top:300px;width:560px;height:330px"><div class="f07-lh2" style="background:#D8000F">GEÇİCİ GÖREVLİ</div><div class="f07-txt" style="left:28px;right:24px;top:110px;font-size:30px"><b>≤ 24 ay</b> geçici görevlendirilen kamu görevlisi</div></div>
+<div id="f07-s1" class="f07-stamp" style="left:159px;top:560px">YARARLANAMAZ</div>
+<div id="f07-e2" class="f07-card" style="left:679px;top:300px;width:560px;height:330px"><div class="f07-lh2" style="background:#D8000F">VATANDAŞLIKTAN ÇIKAN</div><div class="f07-txt" style="left:28px;right:24px;top:110px;font-size:30px"><b>çıkma izniyle</b> Türk vatandaşlığından çıkıp yabancı vatandaşlık kazanan</div></div>
+<div id="f07-s2" class="f07-stamp" style="left:769px;top:560px">YARARLANAMAZ</div>
+<div id="f07-e3" class="f07-card" style="left:1289px;top:300px;width:560px;height:330px"><div class="f07-lh2" style="background:#1C1410">ÇİFT UYRUKLU</div><div class="f07-txt" style="left:28px;right:24px;top:110px;font-size:30px">çift uyruklu kişiler</div></div>
+<div id="f07-s3" class="f07-stamp f07-ok" style="left:1409px;top:560px"><svg class="glyph" width="40" height="40" viewBox="0 0 40 40" aria-hidden="true"><path d="M5.6000000000000005 20.8 L16.0 31.200000000000003 L35.2 8.0" fill="none" stroke="#1C1410" stroke-width="6" stroke-linecap="square"/></svg> YARARLANIR</div>
+<div id="f07-cite" class="f07-cite" style="left:69px">md. 12</div>
+<div id="f07-prog" class="f07-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f07-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.5000 }, { scaleX: 0.5833, duration: 10.72, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 0.0);
+  tl.fromTo(q("cite"), { opacity: 0 }, { opacity: 1, duration: 0.5, ease: E }, 0.3);
+  tl.fromTo(q("sh"), { opacity: 0, y: 24, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.45, ease: E }, 0.1);
+  tl.fromTo(q("e1"), { opacity: 0, y: 40, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 1.54);
+  tl.fromTo(q("s1"), { opacity: 0, scale: 1.5, rotation: -14 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.45, ease: E }, 4.74);
+  tl.fromTo(q("e2"), { opacity: 0, y: 40, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 5.7);
+  tl.fromTo(q("s2"), { opacity: 0, scale: 1.5, rotation: -14 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.45, ease: E }, 8.02);
+  tl.fromTo(q("e3"), { opacity: 0, y: 40, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 8.82);
+  tl.fromTo(q("s3"), { opacity: 0, scale: 1.5, rotation: -14 }, { opacity: 1, scale: 1, rotation: -4, duration: 0.45, ease: E }, 9.86);
+  window.__timelines["07-istisnalar"] = tl;
+})();
+</script>
+</template>

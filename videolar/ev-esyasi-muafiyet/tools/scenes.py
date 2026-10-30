@@ -513,7 +513,7 @@ def frame_specs():
         prog=DARK,
         css=f"""
 .{p}-big {{ font-family:'Shrikhand'; font-size:240px; line-height:1; color:#fff; text-shadow:{SHADOW}; }}
-.{p}-cap {{ font-size:36px; line-height:1.35; color:#fff; margin-top:20px; }}
+.{p}-cap {{ font-size:36px; line-height:1.35; color:#fff; margin-top:70px; }}
 """,
         html="\n".join(
             [

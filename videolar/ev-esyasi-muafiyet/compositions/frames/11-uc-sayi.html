@@ -1,0 +1,81 @@
+<template>
+<style>
+
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+#root { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f11-bg { position:absolute; inset:0; background:#D8000F; }
+#root .f11-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f11-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f11-white { color:#fff; }
+.f11-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f11-red { color:#A8000B; }
+.f11-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f11-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f11-muted { color:#5E4E3A; }
+.f11-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f11-chip b { color:#A8000B; font-weight:600; }
+.f11-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f11-tag.f11-darkbg { background:#1C1410; }
+.f11-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f11-stamp.f11-ok { color:#1C1410; border-color:#1C1410; }
+.f11-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f11-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f11-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f11-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f11-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f11-txt b { color:#A8000B; }
+.f11-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f11-node b { color:#A8000B; }
+.f11-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f11-prog { background:#1C1410; }
+
+.f11-big { font-family:'Shrikhand'; font-size:240px; line-height:1; color:#fff; text-shadow:2px 2px 0 rgba(28,20,16,.25), 4px 4px 0 rgba(28,20,16,.2), 6px 6px 0 rgba(28,20,16,.15); }
+.f11-cap { font-size:36px; line-height:1.35; color:#fff; margin-top:70px; }
+
+</style>
+<div id="root" data-composition-id="11-uc-sayi" data-start="0" data-duration="8.52" data-width="1920" data-height="1080">
+<div id="f11-bg" class="clip" data-start="0" data-duration="8.52" data-track-index="0"></div>
+<div id="f11-eyebrow" class="f11-eyebrow f11-white" style="left:69px;top:86px">KISACASI · ÜÇ SAYI</div>
+<div id="f11-n1" class="f11-abs" style="left:120px;top:260px;width:540px"><div class="f11-big">24</div><div class="f11-cap">ay dışarıda</div></div>
+<div id="f11-n2" class="f11-abs" style="left:710px;top:260px;width:540px"><div class="f11-big">6</div><div class="f11-cap">ay · yılda en çok içeride</div></div>
+<div id="f11-n3" class="f11-abs" style="left:1300px;top:260px;width:540px"><div class="f11-big">6</div><div class="f11-cap">ay içinde beyan · gelişten sonra</div></div>
+<div id="f11-prog" class="f11-prog"></div>
+</div>
+<script>
+(function () {
+  const tl = gsap.timeline({ paused: true });
+  const E = "power3.out";
+  const q = (s) => "#f11-" + s;
+  tl.fromTo(q("prog"), { scaleX: 0.8333 }, { scaleX: 0.9167, duration: 7.92, ease: "none" }, 0);
+  tl.fromTo(q("eyebrow"), { opacity: 0 }, { opacity: 1, duration: 0.4, ease: E }, 0.0);
+  tl.fromTo(q("n1"), { opacity: 0, y: 40, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 1.793);
+  tl.fromTo(q("n2"), { opacity: 0, y: 40, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 3.22);
+  tl.fromTo(q("n3"), { opacity: 0, y: 40, x: 0 }, { opacity: 1, y: 0, x: 0, duration: 0.5, ease: E }, 5.42);
+  window.__timelines["11-uc-sayi"] = tl;
+})();
+</script>
+</template>
