@@ -508,7 +508,7 @@ Q = [
         kok=[
             "Türk Gümrük Tarife Cetveline göre aşağıdakilerden hangisi 93. Fasılda sınıflandırılır?"
         ],
-        d="Bir tanka mahsus olan fakat ayrı olarak gelen makineli tüfek",
+        d="Tanka mahsus olup ayrı gelen makineli tüfek",
         c=[
             "Silahla donatılmış zırhlı demiryolu taşıtı",
             "Askeri kullanıma mahsus çelik miğfer",
@@ -516,7 +516,7 @@ Q = [
             "İnsan vücudunu korumaya mahsus çelik yelek",
         ],
         sirali=False,
-        g="93. Fasıl genel açıklamalarına göre nakil vasıtaları sadece askeri maksatlarda kullanılmak üzere imal edilmiş ve silahla donanmış bulunsalar dahi bu fasıl dışındadır; zırhlı demiryolu taşıtları 86. Fasılda, tanklar ve zırhlı otomobiller 87.10 pozisyonunda yer alır. Bununla beraber, bu kabil nakil vasıtalarına mahsus olan ve fakat ayrı olarak gelen silahlar (toplar, makineli tüfekler vs.) 93. Fasla dahildir. Aynı açıklamalar çelik miğferleri ve diğer askeri başlıkları 65. Fasla, insan vücudunu korumaya mahsus zırhları ve çelik yelekleri mamul oldukları maddenin rejimine, okçuluğa mahsus ok ve yayları 95. Fasla gönderir. En güçlü tuzak silahla donatılmış zırhlı demiryolu taşıtıdır: silah taşıdığı için 93. Fasılda sanılabilir, fakat nakil vasıtası olarak 86. Fasılda kalır. Bu nedenle doğru cevap 'Bir tanka mahsus olan fakat ayrı olarak gelen makineli tüfek' seçeneğidir. (MD GYK 1; Fasıl 93 Notu; 93. Fasıl Genel Açıklamaları)",
+        g="93. Fasıl genel açıklamalarına göre nakil vasıtaları sadece askeri maksatlarda kullanılmak üzere imal edilmiş ve silahla donanmış bulunsalar dahi bu fasıl dışındadır; zırhlı demiryolu taşıtları 86. Fasılda, tanklar ve zırhlı otomobiller 87.10 pozisyonunda yer alır. Bununla beraber, bu kabil nakil vasıtalarına mahsus olan ve fakat ayrı olarak gelen silahlar (toplar, makineli tüfekler vs.) 93. Fasla dahildir. Aynı açıklamalar çelik miğferleri ve diğer askeri başlıkları 65. Fasla, insan vücudunu korumaya mahsus zırhları ve çelik yelekleri mamul oldukları maddenin rejimine, okçuluğa mahsus ok ve yayları 95. Fasla gönderir. En güçlü tuzak silahla donatılmış zırhlı demiryolu taşıtıdır: silah taşıdığı için 93. Fasılda sanılabilir, fakat nakil vasıtası olarak 86. Fasılda kalır. Bu nedenle doğru cevap 'Tanka mahsus olup ayrı gelen makineli tüfek' seçeneğidir. (MD GYK 1; Fasıl 93 Notu; 93. Fasıl Genel Açıklamaları)",
         kanit=f"{K} | Bununla beraber, bu kabil nakil vasıtalarına mahsus olan ve fakat ayrı olarak gelen silahlar (toplar, makineli tüfekler, vs.) bu Fasıla dahildir || {K} | Nakil vasıtaları sadece askeri maksatlarda kullanılmak üzere imal edilmiş ve silahla donanmış bulunsalar dahi, bu Fasıl haricindedir. || {K} | zırhlı demiryolu taşıtları (86. Fasıl) || {K} | Çelik miğferler ve diğer askeri başlıklar (Fasıl 65). || {K} | Okçuluğa mahsus ok ve yaylar ile zemberekli yaylar ve oyuncak mahiyetinde silahlar (Fasıl 95). || {K} | İnsan vücudunu korumaya mahsus zırhlar (göğüs zırhları, zırhlar, çelik yelekler, vb.) (mamul olduğu maddenin rejimine tabidir).",
         yuva=[
             "93. Fasıl genel açıklamaları: zırhlı demiryolu taşıtları 86. Fasıl",
@@ -584,7 +584,7 @@ Q = [
         kok=[
             "Türk Gümrük Tarife Cetveline göre, güdümlü mermi ve torpillerle ilgili olsa bile aşağıdakilerden hangisi 93.06 pozisyonunda sınıflandırılmaz?"
         ],
-        d="Güdümlü mermiye mahsus olduğu anlaşılan, ayrı sunulan radar cihazı",
+        d="Güdümlü mermiye mahsus, ayrı sunulan radar cihazı",
         c=[
             "Torpiller için hususi pervaneler ve jiroskoplar",
             "Torpiller için yüzdürücüler ve savaş başlıkları",
@@ -592,7 +592,7 @@ Q = [
             "Zıpkın silahları için patlayıcı başlıklı zıpkınlar",
         ],
         sirali=False,
-        g="93. Fasıl notuna göre 93.06 pozisyonundaki \"bunların aksam ve parçaları\" deyimine 85.26 pozisyonundaki telsiz ve radar cihazları dahil değildir; 93.06 açıklama notu da 85.26 pozisyonunda yer alan radyo veya radar cihazlarını hariç tutulanlar arasında sayar. Buna karşılık İzahname harp mühimmatı aksam ve parçaları olarak torpiller için hususi pervaneleri ve jiroskopları, torpiller için yüzdürücüleri ve savaş başlıklarını, fişek kovanlarını ve fişeklerin diğer aksamını açıkça bu pozisyona dahil eder; patlayıcı başlıkları olsun olmasın zıpkın silahları için zıpkınlar da 93.06 pozisyonundadır. En güçlü tuzak torpiller için jiroskoplardır: yön kontrol cihazı olarak elektronik veya seyrüsefer aleti gibi görünür, fakat İzahname onu mühimmatın mekanik aksamı sayar. Bu nedenle doğru cevap 'Güdümlü mermiye mahsus olduğu anlaşılan, ayrı sunulan radar cihazı' seçeneğidir. (MD Fasıl 93 Notu; 93.06 Açıklama Notu)",
+        g="93. Fasıl notuna göre 93.06 pozisyonundaki \"bunların aksam ve parçaları\" deyimine 85.26 pozisyonundaki telsiz ve radar cihazları dahil değildir; 93.06 açıklama notu da 85.26 pozisyonunda yer alan radyo veya radar cihazlarını hariç tutulanlar arasında sayar. Buna karşılık İzahname harp mühimmatı aksam ve parçaları olarak torpiller için hususi pervaneleri ve jiroskopları, torpiller için yüzdürücüleri ve savaş başlıklarını, fişek kovanlarını ve fişeklerin diğer aksamını açıkça bu pozisyona dahil eder; patlayıcı başlıkları olsun olmasın zıpkın silahları için zıpkınlar da 93.06 pozisyonundadır. En güçlü tuzak torpiller için jiroskoplardır: yön kontrol cihazı olarak elektronik veya seyrüsefer aleti gibi görünür, fakat İzahname onu mühimmatın mekanik aksamı sayar. Bu nedenle doğru cevap 'Güdümlü mermiye mahsus, ayrı sunulan radar cihazı' seçeneğidir. (MD Fasıl 93 Notu; 93.06 Açıklama Notu)",
         kanit=f'{K} | 93.06 pozisyonundaki "bunların aksam ve parçaları" deyimine, 85.26 pozisyonundaki telsiz ve radar cihazları dahil değildir. || {K} | 85.26 pozisyonunda yer alan radyo veya radar cihazları (bu Bölümün 2 no.lu Not hükmüne bakınız). || {K} | torpiller için hususi pervaneler ve jiroskoplar gibi || {K} | Torpiller için yüzdürücüler ve savaş başlıkları. || {K} | Fişek kovanları ve fişeklerin diğer aksamı || {K} | Zıpkınlar. Patlayıcı başlıkları olsun olmasın, zıpkın silahları için vb.',
         yuva=[
             "93.06: torpil pervaneleri ve jiroskopları",
