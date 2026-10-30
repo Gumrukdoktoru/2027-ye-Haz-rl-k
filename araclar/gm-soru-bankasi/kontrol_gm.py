@@ -342,7 +342,10 @@ def profil(Q):
     print("Çıkmış alanı karşılayan:", sum(bool(q["cikmis"]) for q in Q))
     print("Kalıp:", dict(C(q["kalip"] for q in Q).most_common()))
     turler = {tur(q) for q in Q}
-    if turler == {"M"} and n in KOTA_M:
+    bloklar = sorted({str(q.get("blok", "")).strip().upper() for q in Q})
+    # T25 (genelgeler, BTB, karar tebliğleri) Profil A kotasıyla yazılır (talimat_gm.md bölüm 5)
+    profil_a = turler == {"M"} or (turler == {"T"} and bloklar == ["T25"])
+    if profil_a and n in KOTA_M:
         o, k, on_, d = KOTA_M[n]
         dig = (
             tipler["tanım"]
