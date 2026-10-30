@@ -67,7 +67,7 @@ Q = [
             "Uygun yer yoksa yediemin (doğru ifade)",
             "Numunelerin gümrük idaresince saklanması (doğru ifade)",
         ],
-        yakinlik="BİREBİR",
+        yakinlik="PARAFRAZ",
         tuzak=["MAKAM", "KOMŞU"],
         duzey=["AYIRT"],
         profil=[1, 4],

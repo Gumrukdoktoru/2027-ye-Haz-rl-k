@@ -1,0 +1,16 @@
+{
+ "bulunamayan": [
+  "2021/39: götürü teminat – ÖTV listeleri (Kolaylaştırma Yönetmeliği; M62 metninde yok)",
+  "2023/52: KKDF – standart işlenmemiş kıymetli maden ithalinde oran (metinde yok)",
+  "2024/20: damga vergisi – ihracata ilişkin istisnalar (metinde yalnız Seri 71 tutar tablosu var)",
+  "2024/64: Destekleme ve Fiyat İstikrar Fonu ihracat kesintisi (M62 metninde yalnız KKDF kaynakları arasında anılıyor)"
+ ],
+ "giremeyen": "ÖTV (II) sayılı liste taşıt matrahının hesap ayrıntıları ve maktu/asgari maktu tutarları (H bölümlerine ait veya Cumhurbaşkanı kararlarıyla değişen tutarlar), KKDF'nin tüketici kredisi ve diğer kredi oranlarının ayrıntısı sete alınmadı.",
+ "notlar": [
+  "Kota hedef 6/4/2/2, gerçek 5/5/2/2 (±1 içinde); olumsuz kök toplam %43 (eşleştirme dahil).",
+  "Çıkmış eşleme: 2022/53 ve 2023/59 → s1; 2022/55 → s2; 2024/14 ve 2022/2 → s3; 2022/5 → s4; 2023/60, 2024/16, 2025/7, 2025/9 → s5 (liste eşleştirmesi); 2022/57 → s7; 2025/8 → s8; 2025/1 → s11; 2024/17 → s12.",
+  "Güncellik: s11 (Damga Vergisi Kanunu Genel Tebliği Seri No: 71, 31.12.2025 RG, 01.01.2026 tutarları).",
+  "Meslek yanlılığı: s9 (gümrük müşavirine tebliğ) ve s14 (gümrük müşaviri müteselsil sorumlu sayılmamış) ayna çift.",
+  "s4 şıkları 'Oran: % – Kur:' biçiminde yazıldı; '%6; …' biçimi aracın sayı ayrıştırıcısında sayısal şık sayıldığı için sıralı şık hatası veriyordu."
+ ]
+}

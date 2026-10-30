@@ -134,7 +134,7 @@ Q = [
         kalip="YANLIŞ",
         z="O",
         madde="32 sayılı Karar md. 3, 4",
-        cek="TL ve TL ile ödeme belgeleri ile döviz giriş-çıkışı serbest; 185.000 TL ve 10.000 Avro üstü çıkış Bakanlık esasıyla; dışarıda yerleşiklerin TL ödeme ve tevdiatı serbest.",
+        cek="TL, TL ile ödeme belgeleri ve döviz giriş-çıkışı serbest; 185.000 TL ve 10.000 Avro üstü çıkış Bakanlık esasıyla; dışarıda yerleşiklerin TL tevdiatı serbest.",
         kok=[
             f"{KAR}a göre Türk parası ve dövizin yurda girişi ile yurttan çıkışına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
         ],
@@ -284,7 +284,7 @@ Q = [
     ),
     # 9 ---------------- DİR kapsamında aracı kuruluş olmayanlarca altın ve gümüş ithali ----------------
     s(
-        kalip="SAYI",
+        kalip="ORAN-TUTAR",
         z="O",
         madde="2008-32-34 sayılı Tebliğ md. 6",
         cek="DİR kapsamında aracı kuruluş olmayan yerleşikler her ithalatta en fazla 40 kg standart işlenmemiş altın veya 200 kg gümüş ithal edebilir.",
@@ -418,7 +418,7 @@ Q = [
     ),
     # 13 ---------------- Terkin: 200.000 ABD dolarını aşan noksanlık ----------------
     s(
-        kalip="MAKAM",
+        kalip="YETKİ",
         z="O",
         madde="2018-32-48 sayılı Tebliğ md. 10",
         cek="Beyanname başına 200.000 dolara kadar ve %10'a kadar açık hesabı vergi dairesi terkin eder; 200.000 doları aşan noksanlıkta terkin talebini HMB sonuçlandırır.",
