@@ -141,7 +141,7 @@ Q = [
         madde="94/6401 sayılı İhracata Yönelik Devlet Yardımları Kararı md. 4, 5, 6",
         cek="94/6401'in yürütülmesine ilişkin her türlü düzenlemeyi Para-Kredi ve Koordinasyon Kurulu yapar; uygulama ve takip Dış Ticaret Müsteşarlığının; kaynak DFİF'tir.",
         kok=[
-            "İhracata Yönelik Devlet Yardımları Kararı'na göre Kararın yürütülmesine ilişkin her türlü düzenlemeyi yapmaya aşağıdakilerden hangisi yetkilidir?"
+            "94/6401 sayılı İhracata Yönelik Devlet Yardımları Kararı'na göre Kararın yürütülmesine ilişkin her türlü düzenlemeyi yapmaya aşağıdakilerden hangisi yetkilidir?"
         ],
         d="Para-Kredi ve Koordinasyon Kurulu",
         c=[
@@ -151,7 +151,7 @@ Q = [
             "Hazine Müsteşarlığı",
         ],
         sirali=False,
-        g="İhracata Yönelik Devlet Yardımları Kararı'na göre Kararın yürütülmesine ilişkin her türlü düzenlemeyi yapmaya Para-Kredi ve Koordinasyon Kurulu yetkilidir. Kurulca belirlenen devlet yardımlarının uygulanması ve takibi ise Dış Ticaret Müsteşarlığı tarafından yürütülür; yardımların kaynağı Destekleme ve Fiyat İstikrar Fonu ve bu Fona aktarılacak ödeneklerdir. Türkiye İhracatçılar Meclisi, e-ihracat desteklerinde giderleri desteklenen kuruluştur; İhracata Yönelik Devlet Destekleri Değerlendirme Komitesi ayrı bir düzenlemenin konusudur; Hazine Müsteşarlığı ise ham elmas Tebliğini yayımlayan kurumdur. En güçlü tuzak Dış Ticaret Müsteşarlığıdır: Müsteşarlık yardımları uygular ve takip eder, ancak düzenleme yetkisi Kurula aittir. Bu nedenle doğru cevap 'Para-Kredi ve Koordinasyon Kurulu' seçeneğidir. (MD 94/6401 Karar 4, 5, 6)",
+        g="94/6401 sayılı İhracata Yönelik Devlet Yardımları Kararı'na göre Kararın yürütülmesine ilişkin her türlü düzenlemeyi yapmaya Para-Kredi ve Koordinasyon Kurulu yetkilidir. Kurulca belirlenen devlet yardımlarının uygulanması ve takibi ise Dış Ticaret Müsteşarlığı tarafından yürütülür; yardımların kaynağı Destekleme ve Fiyat İstikrar Fonu ve bu Fona aktarılacak ödeneklerdir. Türkiye İhracatçılar Meclisi, e-ihracat desteklerinde giderleri desteklenen kuruluştur; İhracata Yönelik Devlet Destekleri Değerlendirme Komitesi ayrı bir düzenlemenin konusudur; Hazine Müsteşarlığı ise ham elmas Tebliğini yayımlayan kurumdur. En güçlü tuzak Dış Ticaret Müsteşarlığıdır: Müsteşarlık yardımları uygular ve takip eder, ancak düzenleme yetkisi Kurula aittir. Bu nedenle doğru cevap 'Para-Kredi ve Koordinasyon Kurulu' seçeneğidir. (MD 94/6401 Karar 4, 5, 6)",
         kanit=f"{K} | Bu Karar'ın yürütülmesine ilişkin her türlü düzenlemeyi yapmaya Para Kredi Ve Koordinasyon Kutulu yetkilidir. || {K} | Bu Karar kapsamında Para-Kredi ve Koordinasyon Kurulu'nca belirlenecek devlet yardımlarının uygulanması ve takibi Dış Ticaret Müsteşarlığı tarafından yürütülür. || {K} | Genel Bütçe içerisinde yer alan Destekleme ve Fiyat İstikrar Fonu || {K} | Türkiye İhracatçılar Meclisinin e-ihracat desteklerine ilişkin || {K} | İhracata Yönelik Devlet Destekleri Değerlendirme Komitesi Kurulmasına || {K} | Hazine Müsteşarlığından: 15.11.2006",
         yuva=[
             "Aynı Karar: uygulama ve takip makamı (Dış Ticaret Müsteşarlığı)",

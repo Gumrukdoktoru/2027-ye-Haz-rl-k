@@ -9,7 +9,8 @@
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
    "cekd": 0.14,
    "kokcek": 0.9,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.98,
    "ortak_madde": [
     "GK 27",
     "GK 28"
@@ -25,8 +26,9 @@
    "kanit": 1.0,
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
    "cekd": 0.12,
-   "kokcek": 0.19,
-   "d_oran": 0.62,
+   "kokcek": 0.2,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27"
    ],
@@ -42,7 +44,8 @@
    "kanit_ornek": "GK 27-İthal eşyası için Türkiye'deki giriş liman veya yerine kadar yapılan nakliye ve sigorta giderleri",
    "cekd": 0.03,
    "kokcek": 0.27,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.49,
    "ortak_madde": [
     "GK 27"
    ],
@@ -58,7 +61,8 @@
    "kanit_ornek": "GK 27-İthal eşyası için Türkiye'deki giriş liman veya yerine kadar yapılan nakliye ve sigorta giderleri",
    "cekd": 0.12,
    "kokcek": 0.25,
-   "d_oran": 0.46,
+   "d_oran": 0.0,
+   "kok_oran": 0.4,
    "ortak_madde": [
     "GK 28"
    ],
@@ -74,7 +78,8 @@
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
    "cekd": 0.0,
    "kokcek": 0.16,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 28"
    ],
@@ -90,7 +95,8 @@
    "kanit_ornek": "GK 27-İthal eşyası için Türkiye'deki giriş liman veya yerine kadar yapılan nakliye ve sigorta giderleri",
    "cekd": 0.19,
    "kokcek": 0.21,
-   "d_oran": 0.62,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27",
     "GK 28"
@@ -105,9 +111,10 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "Not:Sadece ülkeler arası değil, varsa yurtdışı ülkedeki iç taşıma bedeli de eklenir.",
-   "cekd": 0.16,
-   "kokcek": 0.2,
-   "d_oran": 0.5,
+   "cekd": 0.19,
+   "kokcek": 0.23,
+   "d_oran": 0.0,
+   "kok_oran": 0.46,
    "ortak_madde": [
     "GK 27"
    ],
@@ -121,9 +128,10 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
-   "cekd": 0.1,
-   "kokcek": 0.18,
-   "d_oran": 0.31,
+   "cekd": 0.14,
+   "kokcek": 0.21,
+   "d_oran": 0.0,
+   "kok_oran": 0.46,
    "ortak_madde": [
     "GK 27"
    ],
@@ -140,6 +148,7 @@
    "cekd": 0.2,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27",
     "GK 28"
@@ -156,7 +165,8 @@
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
    "cekd": 0.02,
    "kokcek": 0.18,
-   "d_oran": 0.31,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27"
    ],
@@ -172,7 +182,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.26,
    "kokcek": 0.26,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": 0.57,
    "ortak_madde": [
     "3065 21"
    ],
@@ -188,7 +199,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.24,
    "kokcek": 0.28,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": 0.49,
    "ortak_madde": [
     "3065 21",
     "GK 27"
@@ -205,7 +217,8 @@
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
    "cekd": 0.06,
    "kokcek": 0.16,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 28"
    ],
@@ -221,7 +234,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.12,
    "kokcek": 0.13,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -237,7 +251,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.08,
    "kokcek": 0.17,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -253,7 +268,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.39,
    "kokcek": 0.23,
-   "d_oran": 0.31,
+   "d_oran": 0.0,
+   "kok_oran": 0.5,
    "ortak_madde": [
     "3065 21",
     "GK 27"
@@ -269,8 +285,9 @@
    "kanit": 1.0,
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
    "cekd": 0.03,
-   "kokcek": 0.2,
-   "d_oran": 0.33,
+   "kokcek": 0.22,
+   "d_oran": 0.0,
+   "kok_oran": 0.47,
    "ortak_madde": [
     "GK 27"
    ],
@@ -284,9 +301,10 @@
    "olcut": "ab",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.4,
-   "kokcek": 0.22,
-   "d_oran": 0.62,
+   "cekd": 0.33,
+   "kokcek": 0.25,
+   "d_oran": 0.0,
+   "kok_oran": 0.48,
    "ortak_madde": [
     "3065 21",
     "GK 27"
@@ -303,7 +321,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.24,
    "kokcek": 0.27,
-   "d_oran": 0.36,
+   "d_oran": 0.0,
+   "kok_oran": 0.41,
    "ortak_madde": [
     "GK 27"
    ],
@@ -320,6 +339,7 @@
    "cekd": 0.23,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -333,7 +353,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.31,
    "kokcek": 0.22,
-   "d_oran": 0.22,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -347,7 +368,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.3,
    "kokcek": 0.16,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -361,7 +383,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.24,
    "kokcek": 0.18,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -377,7 +400,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.36,
    "kokcek": 0.2,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -394,6 +418,7 @@
    "cekd": 0.21,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -409,7 +434,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.09,
    "kokcek": 0.07,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -425,7 +451,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.11,
    "kokcek": 0.13,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -442,6 +469,7 @@
    "cekd": 0.16,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -456,8 +484,9 @@
    "kanit": 1.0,
    "kanit_ornek": "Satış bedeli hesaplama = Birim kıymet x Adet",
    "cekd": 0.11,
-   "kokcek": 0.2,
-   "d_oran": 0.46,
+   "kokcek": 0.18,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27"
    ],
@@ -473,7 +502,8 @@
    "kanit_ornek": "Alıcının pazarlama dahil kendi hesabına yaptığı faaliyetler",
    "cekd": 0.05,
    "kokcek": 0.22,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.5,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -487,7 +517,8 @@
    "kanit_ornek": "Alıcının pazarlama dahil kendi hesabına yaptığı faaliyetler",
    "cekd": 0.07,
    "kokcek": 0.25,
-   "d_oran": 0.67,
+   "d_oran": 0.0,
+   "kok_oran": 0.46,
    "ortak_madde": [
     "GK 24",
     "GK 27"
@@ -504,7 +535,8 @@
    "kanit_ornek": "Fatura veya diğer belgelerde yazılı yabancı paralar, gümrük yükümlülüğünün başladığı tarihte yürürlükte olan T.C. Merkez Bankası döviz satış kurları üzerinden Türk Lirasına çevrilir.",
    "cekd": 0.11,
    "kokcek": 0.19,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27",
     "GK 30"
@@ -520,8 +552,9 @@
    "kanit": 1.0,
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
    "cekd": 0.05,
-   "kokcek": 0.15,
-   "d_oran": 0.46,
+   "kokcek": 0.16,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -536,6 +569,7 @@
    "cekd": 0.03,
    "kokcek": 0.05,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -547,9 +581,10 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
-   "cekd": 0.06,
-   "kokcek": 0.29,
-   "d_oran": 0.31,
+   "cekd": 0.09,
+   "kokcek": 0.34,
+   "d_oran": 0.0,
+   "kok_oran": 0.5,
    "ortak_madde": [
     "GK 27",
     "GK 30"
@@ -564,11 +599,29 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
-   "cekd": 0.0,
-   "kokcek": 0.26,
-   "d_oran": 0.14,
+   "cekd": 0.03,
+   "kokcek": 0.31,
+   "d_oran": 0.0,
+   "kok_oran": 0.49,
    "ortak_madde": [
     "GK 27"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-06",
+   "b": "H01-07",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "ithal eşyasının FOB kıymetinin % 10 unun navlun ve % 3 ünün sigorta bedeli olarak ithal eşyasının fiilen ödenen veya ödenecek fiyatına eklenebilir.",
+   "cekd": 0.05,
+   "kokcek": 0.19,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "GY 51"
    ],
    "esya": null,
    "ortak_sik": 0
@@ -583,6 +636,7 @@
    "cekd": 0.0,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -596,7 +650,8 @@
    "kanit_ornek": "Eşyanın giriş liman veya mahalline varışından sonraki demuraj giderlerinin Gümrük Kanununun 28",
    "cekd": 0.26,
    "kokcek": 0.89,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": 0.97,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 1
@@ -611,6 +666,7 @@
    "cekd": 0.03,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GY 45"
    ],
@@ -626,7 +682,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.13,
    "kokcek": 0.24,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": 0.45,
    "ortak_madde": [
     "3065 21"
    ],
@@ -642,7 +699,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.19,
    "kokcek": 0.22,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -658,7 +716,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.08,
    "kokcek": 0.23,
-   "d_oran": 0.18,
+   "d_oran": 0.0,
+   "kok_oran": 0.45,
    "ortak_madde": [
     "3065 21"
    ],
@@ -674,7 +733,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.25,
    "kokcek": 0.28,
-   "d_oran": 0.31,
+   "d_oran": 0.0,
+   "kok_oran": 0.47,
    "ortak_madde": [
     "3065 21"
    ],
@@ -689,8 +749,9 @@
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.27,
-   "kokcek": 0.26,
-   "d_oran": 0.15,
+   "kokcek": 0.27,
+   "d_oran": 0.0,
+   "kok_oran": 0.5,
    "ortak_madde": [
     "3065 21"
    ],
@@ -706,7 +767,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.11,
    "kokcek": 0.18,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -722,7 +784,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.1,
    "kokcek": 0.2,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -739,6 +802,7 @@
    "cekd": 0.11,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -754,7 +818,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.17,
    "kokcek": 0.11,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -770,7 +835,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.09,
    "kokcek": 0.11,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -787,6 +853,7 @@
    "cekd": 0.07,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -802,7 +869,8 @@
    "kanit_ornek": "Söz konusu faiz oranının, finansmanın sağlandığı ülkede o tarihte bu tür bir işlem için geçerli olan faiz oranı seviyesini aşmaması halinde eklenmez.",
    "cekd": 0.0,
    "kokcek": 0.24,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.57,
    "ortak_madde": [
     "GK 28",
     "GY 45"
@@ -820,6 +888,7 @@
    "cekd": 0.13,
    "kokcek": 0.18,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27",
     "GK 28"
@@ -836,7 +905,8 @@
    "kanit_ornek": "Alıcının pazarlama dahil kendi hesabına yaptığı faaliyetler",
    "cekd": 0.06,
    "kokcek": 0.14,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -851,6 +921,7 @@
    "cekd": 0.0,
    "kokcek": 0.16,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 28"
    ],
@@ -867,6 +938,7 @@
    "cekd": 0.08,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GY 45"
    ],
@@ -883,6 +955,7 @@
    "cekd": 0.0,
    "kokcek": 0.06,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 24",
     "GK 27"
@@ -898,8 +971,9 @@
    "kanit": 1.0,
    "kanit_ornek": "2. Alıcı tarafından satın alma veya finansal kiralama yoluyla sağlanan unsurlarda, ilave konusu olan, satın alma veya finansal kiralama bedelidir.",
    "cekd": 0.08,
-   "kokcek": 0.09,
+   "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27"
    ],
@@ -916,6 +990,7 @@
    "cekd": 0.03,
    "kokcek": 0.06,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27"
    ],
@@ -931,7 +1006,8 @@
    "kanit_ornek": "iv) İthal eşyasının üretimi için gereken ve Türkiye dışında gerçekleştirilen mühendislik, geliştirme, sanat ve çizim çalışmaları, plan ve taslak hazırlama hizmetleri;",
    "cekd": 0.15,
    "kokcek": 0.85,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.98,
    "ortak_madde": [
     "GK 27"
    ],
@@ -947,7 +1023,8 @@
    "kanit_ornek": "GK 27-İthal eşyası için Türkiye'deki giriş liman veya yerine kadar yapılan nakliye ve sigorta giderleri",
    "cekd": 0.08,
    "kokcek": 0.2,
-   "d_oran": 0.62,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -961,7 +1038,8 @@
    "kanit_ornek": "GK 27-İthal eşyası için Türkiye'deki giriş liman veya yerine kadar yapılan nakliye ve sigorta giderleri",
    "cekd": 0.03,
    "kokcek": 0.2,
-   "d_oran": 0.62,
+   "d_oran": 0.0,
+   "kok_oran": 0.4,
    "ortak_madde": [
     "GK 27"
    ],
@@ -978,6 +1056,7 @@
    "cekd": 0.03,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27"
    ],
@@ -993,7 +1072,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.11,
    "kokcek": 0.18,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1009,7 +1089,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.07,
    "kokcek": 0.19,
-   "d_oran": 0.18,
+   "d_oran": 0.0,
+   "kok_oran": 0.38,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1025,7 +1106,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.25,
    "kokcek": 0.25,
-   "d_oran": 0.46,
+   "d_oran": 0.0,
+   "kok_oran": 0.39,
    "ortak_madde": [
     "3065 21",
     "GK 27"
@@ -1040,9 +1122,10 @@
    "olcut": "ab",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.32,
-   "kokcek": 0.23,
-   "d_oran": 0.46,
+   "cekd": 0.26,
+   "kokcek": 0.22,
+   "d_oran": 0.0,
+   "kok_oran": 0.4,
    "ortak_madde": [
     "3065 21",
     "GK 27"
@@ -1059,7 +1142,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.22,
    "kokcek": 0.18,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1075,7 +1159,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.26,
    "kokcek": 0.22,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1092,6 +1177,7 @@
    "cekd": 0.18,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1107,7 +1193,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.09,
    "kokcek": 0.1,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1123,7 +1210,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.1,
    "kokcek": 0.1,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1140,6 +1228,7 @@
    "cekd": 0.14,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1156,6 +1245,7 @@
    "cekd": 0.07,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -1168,8 +1258,9 @@
    "kanit": 1.0,
    "kanit_ornek": "satıcı veya satıcı ile ilişkili olan bir kişinin alıcıdan bu ödemeyi yapmasını istememesi durumunda yerine getirilmiş sayılmaz",
    "cekd": 0.27,
-   "kokcek": 0.19,
+   "kokcek": 0.2,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27",
     "GY 56"
@@ -1187,6 +1278,7 @@
    "cekd": 0.1,
    "kokcek": 0.14,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 28"
    ],
@@ -1202,7 +1294,8 @@
    "kanit_ornek": "İthal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilebilmeleri koşuluyla aşağıdaki giderler gümrük kıymetine dahil edilmez:",
    "cekd": 0.09,
    "kokcek": 0.18,
-   "d_oran": 0.46,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 28"
    ],
@@ -1218,7 +1311,8 @@
    "kanit_ornek": "GK 27-İthal eşyası için Türkiye'deki giriş liman veya yerine kadar yapılan nakliye ve sigorta giderleri",
    "cekd": 0.06,
    "kokcek": 0.15,
-   "d_oran": 0.43,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 28"
    ],
@@ -1235,6 +1329,7 @@
    "cekd": 0.15,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 28"
    ],
@@ -1251,6 +1346,7 @@
    "cekd": 0.02,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 28"
    ],
@@ -1267,6 +1363,7 @@
    "cekd": 0.35,
    "kokcek": 0.55,
    "d_oran": 0.33,
+   "kok_oran": 0.73,
    "ortak_madde": [
     "GK 27",
     "GK 28"
@@ -1282,8 +1379,9 @@
    "kanit": 1.0,
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
    "cekd": 0.0,
-   "kokcek": 0.08,
-   "d_oran": 0.17,
+   "kokcek": 0.12,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -1296,8 +1394,9 @@
    "kanit": 1.0,
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
    "cekd": 0.07,
-   "kokcek": 0.1,
-   "d_oran": 0.15,
+   "kokcek": 0.14,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -1312,6 +1411,7 @@
    "cekd": 0.06,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 28"
    ],
@@ -1327,7 +1427,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.07,
    "kokcek": 0.18,
-   "d_oran": 0.18,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1343,7 +1444,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.11,
    "kokcek": 0.19,
-   "d_oran": 0.46,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1360,6 +1462,7 @@
    "cekd": 0.29,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": 0.28,
    "ortak_madde": [
     "GK 29",
     "GY 54"
@@ -1375,8 +1478,9 @@
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.13,
-   "kokcek": 0.18,
-   "d_oran": 0.46,
+   "kokcek": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1392,7 +1496,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.09,
    "kokcek": 0.23,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.43,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1408,7 +1513,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.08,
    "kokcek": 0.24,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": 0.45,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1425,6 +1531,7 @@
    "cekd": 0.09,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1440,7 +1547,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.13,
    "kokcek": 0.16,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1456,7 +1564,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.07,
    "kokcek": 0.14,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1473,6 +1582,7 @@
    "cekd": 0.06,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1489,6 +1599,7 @@
    "cekd": 0.08,
    "kokcek": 0.17,
    "d_oran": 0.23,
+   "kok_oran": null,
    "ortak_madde": [
     "GY 45"
    ],
@@ -1504,7 +1615,8 @@
    "kanit_ornek": "Önce klasik yöntemle eşyanın gümrük kıymeti bulunur.Sonra verilen gözetimle kıyaslanır.",
    "cekd": 0.22,
    "kokcek": 0.78,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": 0.92,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -1518,7 +1630,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.07,
    "kokcek": 0.17,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1534,7 +1647,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.04,
    "kokcek": 0.13,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1550,7 +1664,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.05,
    "kokcek": 0.19,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1566,7 +1681,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.04,
    "kokcek": 0.18,
-   "d_oran": 0.36,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1583,6 +1699,7 @@
    "cekd": 0.06,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1598,7 +1715,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.04,
    "kokcek": 0.14,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1614,7 +1732,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.16,
    "kokcek": 0.15,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1631,6 +1750,7 @@
    "cekd": 0.02,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1641,12 +1761,13 @@
    "a": "H01-27",
    "b": "H01-28",
    "tur": "İÇ",
-   "olcut": "b",
+   "olcut": "bk",
    "kanit": 0.14,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.38,
    "kokcek": 0.91,
-   "d_oran": 0.43,
+   "d_oran": 0.0,
+   "kok_oran": 0.96,
    "ortak_madde": [
     "GK 27"
    ],
@@ -1663,6 +1784,7 @@
    "cekd": 0.07,
    "kokcek": 0.12,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27",
     "GK 28"
@@ -1677,9 +1799,10 @@
    "olcut": "ab",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.4,
-   "kokcek": 0.26,
-   "d_oran": 0.29,
+   "cekd": 0.39,
+   "kokcek": 0.27,
+   "d_oran": 0.0,
+   "kok_oran": 0.58,
    "ortak_madde": [
     "3065 21",
     "GK 27"
@@ -1696,7 +1819,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.13,
    "kokcek": 0.26,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": 0.45,
    "ortak_madde": [
     "GK 27"
    ],
@@ -1713,6 +1837,7 @@
    "cekd": 0.09,
    "kokcek": 0.05,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -1726,7 +1851,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.11,
    "kokcek": 0.19,
-   "d_oran": 0.62,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -1740,7 +1866,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.17,
    "kokcek": 0.23,
-   "d_oran": 0.46,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1756,7 +1883,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.15,
    "kokcek": 0.25,
-   "d_oran": 0.15,
+   "d_oran": 0.0,
+   "kok_oran": 0.47,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1773,6 +1901,7 @@
    "cekd": 0.15,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1788,7 +1917,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.09,
    "kokcek": 0.12,
-   "d_oran": 0.46,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1803,8 +1933,9 @@
    "kanit": 1.0,
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.1,
-   "kokcek": 0.11,
-   "d_oran": 0.62,
+   "kokcek": 0.12,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1821,6 +1952,7 @@
    "cekd": 0.11,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1834,9 +1966,10 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir",
-   "cekd": 0.07,
-   "kokcek": 0.88,
-   "d_oran": 0.31,
+   "cekd": 0.1,
+   "kokcek": 0.89,
+   "d_oran": 0.0,
+   "kok_oran": 0.99,
    "ortak_madde": [
     "GK 27"
    ],
@@ -1850,9 +1983,10 @@
    "olcut": "a",
    "kanit": 0.89,
    "kanit_ornek": "eşyanın giriş liman veya yerine kadar nakliyesi ile ilgili olarak yapılan yükleme ve elleçleme giderleri",
-   "cekd": 0.12,
-   "kokcek": 0.09,
+   "cekd": 0.13,
+   "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -1864,9 +1998,10 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.23,
+   "cekd": 0.17,
    "kokcek": 0.18,
-   "d_oran": 0.77,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1877,12 +2012,13 @@
    "a": "H01-32",
    "b": "H02-14",
    "tur": "ARA",
-   "olcut": "ab",
+   "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.27,
-   "kokcek": 0.21,
-   "d_oran": 0.62,
+   "cekd": 0.21,
+   "kokcek": 0.2,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1896,9 +2032,10 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.16,
-   "kokcek": 0.08,
+   "cekd": 0.12,
+   "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1914,7 +2051,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.14,
    "kokcek": 0.11,
-   "d_oran": 0.15,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1929,8 +2067,9 @@
    "kanit": 1.0,
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.07,
-   "kokcek": 0.12,
-   "d_oran": 0.31,
+   "kokcek": 0.11,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1944,9 +2083,10 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.11,
-   "kokcek": 0.08,
+   "cekd": 0.08,
+   "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1963,6 +2103,7 @@
    "cekd": 0.1,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -1976,7 +2117,8 @@
    "kanit_ornek": "Gümrük Vergisi Matrahı : CIF Kıymeti + Yurtdışı Giderleri",
    "cekd": 0.24,
    "kokcek": 0.3,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": 0.54,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -1990,7 +2132,8 @@
    "kanit_ornek": "GVM = Cif Kıymet ( Fob Mal Bedeli + Navlun + Sigorta) + G.K. 27",
    "cekd": 0.27,
    "kokcek": 0.36,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.53,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2004,7 +2147,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.22,
    "kokcek": 0.23,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": 0.43,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2018,7 +2162,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.09,
    "kokcek": 0.25,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": 0.43,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2032,7 +2177,8 @@
    "kanit_ornek": "Gümrük Vergisi Matrahı : CIF Kıymeti + Yurtdışı Giderleri",
    "cekd": 0.29,
    "kokcek": 0.36,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": 0.52,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2046,7 +2192,8 @@
    "kanit_ornek": "Önce nispi (%) tutar hesaplanır → kg/adet başına maktu (min-max) ile karşılaştırılır",
    "cekd": 0.2,
    "kokcek": 0.21,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2060,7 +2207,8 @@
    "kanit_ornek": "İlave Gümrük Vergisi : Gümrük Vergisi Matrahı * İGV Oranı",
    "cekd": 0.03,
    "kokcek": 0.17,
-   "d_oran": 0.36,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2075,6 +2223,7 @@
    "cekd": 0.29,
    "kokcek": 0.28,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2089,6 +2238,7 @@
    "cekd": 0.0,
    "kokcek": 0.03,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2103,6 +2253,7 @@
    "cekd": 0.3,
    "kokcek": 0.22,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2117,6 +2268,7 @@
    "cekd": 0.22,
    "kokcek": 0.18,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2131,6 +2283,7 @@
    "cekd": 0.14,
    "kokcek": 0.16,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2145,6 +2298,7 @@
    "cekd": 0.29,
    "kokcek": 0.18,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2159,6 +2313,7 @@
    "cekd": 0.27,
    "kokcek": 0.31,
    "d_oran": 0.25,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2172,7 +2327,8 @@
    "kanit_ornek": null,
    "cekd": 0.32,
    "kokcek": 0.31,
-   "d_oran": 0.44,
+   "d_oran": 0.0,
+   "kok_oran": 0.55,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2186,7 +2342,8 @@
    "kanit_ornek": "İlave Gümrük Vergisi : Gümrük Vergisi Matrahı * İGV Oranı",
    "cekd": 0.32,
    "kokcek": 0.29,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": 0.44,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2200,7 +2357,8 @@
    "kanit_ornek": "Gümrük Vergisi Matrahı : CIF Kıymeti + Yurtdışı Giderleri",
    "cekd": 0.36,
    "kokcek": 0.37,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.51,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2214,7 +2372,8 @@
    "kanit_ornek": null,
    "cekd": 0.25,
    "kokcek": 0.18,
-   "d_oran": 0.44,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2228,7 +2387,8 @@
    "kanit_ornek": "GVM = Cif Kıymet ( Fob Mal Bedeli + Navlun + Sigorta) + G.K. 27",
    "cekd": 0.34,
    "kokcek": 0.39,
-   "d_oran": 0.44,
+   "d_oran": 0.0,
+   "kok_oran": 0.68,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2242,7 +2402,8 @@
    "kanit_ornek": "GVM = Cif Kıymet ( Fob Mal Bedeli + Navlun + Sigorta) + G.K. 27",
    "cekd": 0.28,
    "kokcek": 0.4,
-   "d_oran": 0.25,
+   "d_oran": 0.0,
+   "kok_oran": 0.69,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2256,7 +2417,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.35,
    "kokcek": 0.41,
-   "d_oran": 0.22,
+   "d_oran": 0.0,
+   "kok_oran": 0.66,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2271,6 +2433,7 @@
    "cekd": 0.14,
    "kokcek": 0.19,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 3"
    ],
@@ -2287,6 +2450,7 @@
    "cekd": 0.18,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2301,6 +2465,7 @@
    "cekd": 0.21,
    "kokcek": 0.22,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2314,7 +2479,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.25,
    "kokcek": 0.8,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": 0.97,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2328,7 +2494,8 @@
    "kanit_ornek": "Bandrol Matrahı = GVM + Diğer Vergiler ( ÖTV Hariç) + Y.içi Giderler",
    "cekd": 0.35,
    "kokcek": 0.56,
-   "d_oran": 0.36,
+   "d_oran": 0.0,
+   "kok_oran": 0.78,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2343,6 +2510,7 @@
    "cekd": 0.23,
    "kokcek": 0.17,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2358,7 +2526,8 @@
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.42,
    "kokcek": 0.48,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": 0.74,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2372,7 +2541,8 @@
    "kanit_ornek": "HESAPLANACAK ÖTV HARİÇ, KDV MATRAHINI OLUŞTURAN unsurlardan teşekkül eder.",
    "cekd": 0.02,
    "kokcek": 0.18,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2389,6 +2559,7 @@
    "cekd": 0.22,
    "kokcek": 0.21,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2404,7 +2575,8 @@
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.23,
    "kokcek": 0.56,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": 0.76,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2421,6 +2593,7 @@
    "cekd": 0.25,
    "kokcek": 0.19,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2436,7 +2609,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.2,
    "kokcek": 0.24,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": 0.46,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2452,7 +2626,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.08,
    "kokcek": 0.18,
-   "d_oran": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2469,6 +2644,7 @@
    "cekd": 0.24,
    "kokcek": 0.19,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2485,6 +2661,7 @@
    "cekd": 0.0,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2501,6 +2678,7 @@
    "cekd": 0.11,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2511,12 +2689,13 @@
    "a": "H02-13",
    "b": "M62-06",
    "tur": "ARA",
-   "olcut": "abc",
+   "olcut": "abck",
    "kanit": 1.0,
    "kanit_ornek": "Bunların NİHAİ TÜKETİCİLERE PERAKENDE SATIŞ FİYATIDIR.",
    "cekd": 0.92,
    "kokcek": 0.8,
    "d_oran": 1.0,
+   "kok_oran": 0.9,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2533,6 +2712,7 @@
    "cekd": 0.16,
    "kokcek": 0.14,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2548,7 +2728,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.09,
    "kokcek": 0.16,
-   "d_oran": 0.17,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2564,7 +2745,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.07,
    "kokcek": 0.21,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.44,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2581,6 +2763,7 @@
    "cekd": 0.12,
    "kokcek": 0.14,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2597,6 +2780,7 @@
    "cekd": 0.2,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2613,6 +2797,7 @@
    "cekd": 0.13,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2623,12 +2808,13 @@
    "a": "H02-15",
    "b": "M61-03",
    "tur": "ARA",
-   "olcut": "abcs",
+   "olcut": "abcsk",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
    "cekd": 0.55,
    "kokcek": 0.64,
    "d_oran": 1.0,
+   "kok_oran": 1.0,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2644,7 +2830,8 @@
    "kanit_ornek": "KABUL KREDİLİ, VADELİ AKREDİTİF ve MAL MUKABİLİ ödeme şekillerine göre yapılan İTHALATTA %6 oranında",
    "cekd": 0.13,
    "kokcek": 0.5,
-   "d_oran": 0.62,
+   "d_oran": 0.0,
+   "kok_oran": 0.54,
    "ortak_madde": [
     "88/12944 sayılı kkdf kararı 3"
    ],
@@ -2659,8 +2846,9 @@
    "kanit": 0.89,
    "kanit_ornek": "d) KABUL KREDİLİ, VADELİ AKREDİTİF ve MAL MUKABİLİ ÖDEME şekline göre yapılan İTHALATTA",
    "cekd": 0.08,
-   "kokcek": 0.1,
+   "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2673,8 +2861,9 @@
    "kanit": 1.0,
    "kanit_ornek": "KABUL KREDİLİ, VADELİ AKREDİTİF ve MAL MUKABİLİ ödeme şekillerine göre yapılan İTHALATTA %6 oranında",
    "cekd": 0.47,
-   "kokcek": 0.32,
-   "d_oran": 0.02,
+   "kokcek": 0.3,
+   "d_oran": 0.0,
+   "kok_oran": 0.34,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2687,8 +2876,9 @@
    "kanit": 1.0,
    "kanit_ornek": "Mal mukabili, vadeli akreditif, kabul kredili",
    "cekd": 0.1,
-   "kokcek": 0.11,
+   "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2701,8 +2891,9 @@
    "kanit": 1.0,
    "kanit_ornek": "KABUL KREDİLİ, VADELİ AKREDİTİF ve MAL MUKABİLİ ödeme şekillerine göre yapılan İTHALATTA %6 oranında",
    "cekd": 0.1,
-   "kokcek": 0.29,
+   "kokcek": 0.28,
    "d_oran": 0.0,
+   "kok_oran": 0.3,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2716,7 +2907,8 @@
    "kanit_ornek": "Nispi ve AMV ayrı ayrı hesaplanır, büyük olan ödenmelidir.",
    "cekd": 0.26,
    "kokcek": 0.39,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": 0.86,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2733,6 +2925,7 @@
    "cekd": 0.0,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2748,7 +2941,8 @@
    "kanit_ornek": "Daha sonra, bu yüksek olan verginin üzerine Maktu Vergi eklenir",
    "cekd": 0.13,
    "kokcek": 0.46,
-   "d_oran": 0.62,
+   "d_oran": 0.0,
+   "kok_oran": 0.92,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2764,7 +2958,25 @@
    "kanit_ornek": "Önce , Nispi vergi ve AMV hesaplanır ve bu ikisi arasından yüksek olan seçilir.",
    "cekd": 0.21,
    "kokcek": 0.44,
-   "d_oran": 0.62,
+   "d_oran": 0.0,
+   "kok_oran": 0.85,
+   "ortak_madde": [
+    "4760 11"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H03-03",
+   "b": "H03-07",
+   "tur": "İÇ",
+   "olcut": "k",
+   "kanit": 0.5,
+   "kanit_ornek": "AMV Formülü= Adet (dal sayısı) x AMV tutarı",
+   "cekd": 0.2,
+   "kokcek": 0.43,
+   "d_oran": 0.0,
+   "kok_oran": 0.84,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2781,22 +2993,7 @@
    "cekd": 0.1,
    "kokcek": 0.15,
    "d_oran": 0.0,
-   "ortak_madde": [
-    "4760 11"
-   ],
-   "esya": null,
-   "ortak_sik": 0
-  },
-  {
-   "a": "H03-04",
-   "b": "H03-06",
-   "tur": "İÇ",
-   "olcut": "c",
-   "kanit": 0.25,
-   "kanit_ornek": "Önce , Nispi vergi ve AMV hesaplanır ve bu ikisi arasından yüksek olan seçilir.",
-   "cekd": 0.14,
-   "kokcek": 0.19,
-   "d_oran": 0.92,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2812,7 +3009,8 @@
    "kanit_ornek": "Diğer mallar için içerdiği ALKOLÜN HER BİR LİTRESİ itibarıyla, uygulanır.",
    "cekd": 0.14,
    "kokcek": 0.14,
-   "d_oran": 0.03,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2828,7 +3026,8 @@
    "kanit_ornek": "Asgari maktu vergi tutarlarına göre hesaplanacak vergi tutarından az olmamak üzere YALNIZCA NİSPİ VERGİ",
    "cekd": 0.12,
    "kokcek": 0.09,
-   "d_oran": 0.13,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2844,7 +3043,8 @@
    "kanit_ornek": "DİĞER TÜTÜN MAMULLERİNİN birim ambalajı içindeki mamulün HER BİR GRAMI itibarıyla",
    "cekd": 0.44,
    "kokcek": 0.49,
-   "d_oran": 0.46,
+   "d_oran": 0.0,
+   "kok_oran": 0.91,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2861,6 +3061,7 @@
    "cekd": 0.0,
    "kokcek": 0.14,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2876,7 +3077,8 @@
    "kanit_ornek": "50 GRAM TÜTÜNDEN oluşan birim ambalaj itibarıyla uygulanır.",
    "cekd": 0.12,
    "kokcek": 0.11,
-   "d_oran": 0.13,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 11"
    ],
@@ -2892,7 +3094,8 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.04,
    "kokcek": 0.14,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2909,6 +3112,7 @@
    "cekd": 0.19,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2924,7 +3128,8 @@
    "kanit_ornek": "Adım 3: Kıyas yapılır. Bir adet saatin vergisi 0,3 ten büyük ,0,8 den küçük olmalıdır.",
    "cekd": 0.34,
    "kokcek": 0.34,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": 0.69,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2939,6 +3144,7 @@
    "cekd": 0.29,
    "kokcek": 0.23,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2953,6 +3159,7 @@
    "cekd": 0.25,
    "kokcek": 0.14,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2966,7 +3173,8 @@
    "kanit_ornek": "Vergi Matrahı= Mal bedeli- Has kıymet",
    "cekd": 0.5,
    "kokcek": 0.32,
-   "d_oran": 0.55,
+   "d_oran": 0.0,
+   "kok_oran": 0.75,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2981,6 +3189,7 @@
    "cekd": 0.21,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2994,7 +3203,8 @@
    "kanit_ornek": "c) Amerika, Okyanusya, Uzak Doğu ve Akdeniz'e kıyısı bulunmayan Afrika ülkelerine yapılacak natürel fındık ihracatında",
    "cekd": 0.15,
    "kokcek": 0.14,
-   "d_oran": 0.04,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3008,7 +3218,8 @@
    "kanit_ornek": "4105.10 ve 4106.21 GTP'na dâhil kromlu deriler FOB ihraç bedelinin % 20'si karşılığı TL.",
    "cekd": 0.13,
    "kokcek": 0.1,
-   "d_oran": 0.04,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3023,6 +3234,7 @@
    "cekd": 0.04,
    "kokcek": 0.05,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3037,6 +3249,7 @@
    "cekd": 0.19,
    "kokcek": 0.27,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 133"
    ],
@@ -3052,7 +3265,8 @@
    "kanit_ornek": "geçici ithalat rejimine ilişkin beyannamenin tescil tarihinde, söz konusu eşyanın serbest dolaşıma girmiş olması halinde alınacak vergiler tutarının % 3'ü olarak tespit edilir.",
    "cekd": 0.23,
    "kokcek": 0.24,
-   "d_oran": 0.62,
+   "d_oran": 0.0,
+   "kok_oran": 0.33,
    "ortak_madde": [
     "GK 133"
    ],
@@ -3069,6 +3283,7 @@
    "cekd": 0.07,
    "kokcek": 0.2,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 133",
     "GK 134",
@@ -3086,7 +3301,8 @@
    "kanit_ornek": "1 inci fıkra uyarınca hesaplanan vergi tutarından 133 üncü madde hükümlerine göre ödenen vergi miktarı düşülür.",
    "cekd": 0.43,
    "kokcek": 0.34,
-   "d_oran": 0.71,
+   "d_oran": 0.0,
+   "kok_oran": 0.55,
    "ortak_madde": [
     "GK 133",
     "GK 134",
@@ -3105,6 +3321,7 @@
    "cekd": 0.12,
    "kokcek": 0.23,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 133",
     "GK 134",
@@ -3123,6 +3340,7 @@
    "cekd": 0.23,
    "kokcek": 0.3,
    "d_oran": 0.0,
+   "kok_oran": 0.25,
    "ortak_madde": [
     "GK 133",
     "GK 134",
@@ -3140,7 +3358,8 @@
    "kanit_ornek": "Araç Ticareti Yapanlar Amortisman (Kullanmak için getiren) var",
    "cekd": 0.33,
    "kokcek": 0.34,
-   "d_oran": 0.22,
+   "d_oran": 0.0,
+   "kok_oran": 0.71,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3155,6 +3374,7 @@
    "cekd": 0.08,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3169,6 +3389,7 @@
    "cekd": 0.05,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3182,7 +3403,8 @@
    "kanit_ornek": "(a) İçindeki silis miktarı (SiO2) ağırlık itibariyle % 60 veya daha fazla olan mineral yünler;",
    "cekd": 0.02,
    "kokcek": 0.03,
-   "d_oran": 0.67,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 4
@@ -3196,7 +3418,8 @@
    "kanit_ornek": "ithalat vergilerinden ayrı olarak bu farkın üç katı para cezası alınır.",
    "cekd": 0.04,
    "kokcek": 0.24,
-   "d_oran": 0.67,
+   "d_oran": 0.0,
+   "kok_oran": 0.36,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3213,6 +3436,7 @@
    "cekd": 0.07,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3228,7 +3452,8 @@
    "kanit_ornek": "Fark vergilerin YARISI KADAR idari para cezası kesilir.",
    "cekd": 0.13,
    "kokcek": 0.28,
-   "d_oran": 0.73,
+   "d_oran": 0.0,
+   "kok_oran": 0.49,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3245,6 +3470,7 @@
    "cekd": 0.07,
    "kokcek": 0.25,
    "d_oran": 0.0,
+   "kok_oran": 0.34,
    "ortak_madde": [
     "GK 234",
     "TGTC 07.11"
@@ -3261,7 +3487,8 @@
    "kanit_ornek": "Gümrük antrepo rejimi Gümrük kontrolü altında işleme rejimi Geçici ithalat rejimi",
    "cekd": 0.11,
    "kokcek": 0.05,
-   "d_oran": 0.01,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3276,6 +3503,7 @@
    "cekd": 0.21,
    "kokcek": 0.22,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3291,7 +3519,8 @@
    "kanit_ornek": "Kıymeti üzerinden ithalat vergilerine tabi eşyanın beyan edilen kıymeti",
    "cekd": 0.16,
    "kokcek": 0.22,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": 0.36,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3308,6 +3537,7 @@
    "cekd": 0.09,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
@@ -3323,7 +3553,8 @@
    "kanit_ornek": "bu noksanlığa ait ithalat vergilerinden başka vergi farkının üç katı para cezası alınır.",
    "cekd": 0.1,
    "kokcek": 0.22,
-   "d_oran": 0.2,
+   "d_oran": 0.0,
+   "kok_oran": 0.33,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3339,7 +3570,8 @@
    "kanit_ornek": "bu noksanlığa ait ithalat vergilerinden başka vergi farkının üç katı para cezası alınır.",
    "cekd": 0.67,
    "kokcek": 0.36,
-   "d_oran": 0.18,
+   "d_oran": 0.0,
+   "kok_oran": 0.54,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3356,6 +3588,7 @@
    "cekd": 0.1,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3372,6 +3605,7 @@
    "cekd": 0.0,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3382,12 +3616,13 @@
    "a": "H04-06",
    "b": "M42-01",
    "tur": "ARA",
-   "olcut": "ac",
+   "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "bu farklara ait ithalat vergilerinden başka vergi farkının yarısı tutarında para cezası alınır.",
    "cekd": 0.1,
    "kokcek": 0.26,
-   "d_oran": 0.91,
+   "d_oran": 0.0,
+   "kok_oran": 0.41,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3404,6 +3639,7 @@
    "cekd": 0.11,
    "kokcek": 0.21,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3420,6 +3656,7 @@
    "cekd": 0.22,
    "kokcek": 0.2,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3434,6 +3671,7 @@
    "cekd": 0.07,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3450,6 +3688,7 @@
    "cekd": 0.22,
    "kokcek": 0.18,
    "d_oran": 0.34,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3464,6 +3703,7 @@
    "cekd": 0.12,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3478,6 +3718,7 @@
    "cekd": 0.12,
    "kokcek": 0.09,
    "d_oran": 0.3,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3492,6 +3733,7 @@
    "cekd": 0.07,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3506,6 +3748,7 @@
    "cekd": 0.12,
    "kokcek": 0.13,
    "d_oran": 0.39,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3522,6 +3765,7 @@
    "cekd": 0.04,
    "kokcek": 0.08,
    "d_oran": 0.22,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3535,7 +3779,8 @@
    "kanit_ornek": "gümrüklenmiş değerinin iki katı idari para cezası verilir.",
    "cekd": 0.09,
    "kokcek": 0.29,
-   "d_oran": 0.67,
+   "d_oran": 0.0,
+   "kok_oran": 0.33,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3550,6 +3795,7 @@
    "cekd": 0.16,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 235"
    ],
@@ -3566,6 +3812,7 @@
    "cekd": 0.1,
    "kokcek": 0.19,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3580,6 +3827,7 @@
    "cekd": 0.12,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3594,6 +3842,7 @@
    "cekd": 0.05,
    "kokcek": 0.28,
    "d_oran": 0.0,
+   "kok_oran": 0.4,
    "ortak_madde": [
     "GK 237"
    ],
@@ -3610,6 +3859,7 @@
    "cekd": 0.0,
    "kokcek": 0.05,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3624,6 +3874,7 @@
    "cekd": 0.33,
    "kokcek": 0.18,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 244",
     "gümrük uzlaşma yönetmeliği 6"
@@ -3640,7 +3891,8 @@
    "kanit_ornek": "konusu 7.000.000.- TL'ye kadar olanlar (bu tutar dâhil) için Gümrük ve Dış Ticaret Bölge Müdürlüğü Uzlaşma Komisyonları, 7.000.000.- TL'yi aşanlar için ise Merkezi Uzlaşma Komisyonları yetkilidir.",
    "cekd": 0.35,
    "kokcek": 0.19,
-   "d_oran": 0.18,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "gümrük uzlaşma yönetmeliği 9"
    ],
@@ -3657,6 +3909,7 @@
    "cekd": 0.22,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 244"
    ],
@@ -3673,6 +3926,7 @@
    "cekd": 0.29,
    "kokcek": 0.3,
    "d_oran": 0.0,
+   "kok_oran": 0.31,
    "ortak_madde": [
     "GK 244"
    ],
@@ -3689,6 +3943,7 @@
    "cekd": 0.02,
    "kokcek": 0.05,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3703,6 +3958,7 @@
    "cekd": 0.37,
    "kokcek": 0.26,
    "d_oran": 0.0,
+   "kok_oran": 0.23,
    "ortak_madde": [
     "GK 207"
    ],
@@ -3718,7 +3974,8 @@
    "kanit_ornek": "b) 1.000 m²'den sonraki her 1.000 m² için 1.000.000 TL (1.000 m²'nin altındaki artışlar 1.000 m²'ye tamamlanır).",
    "cekd": 0.3,
    "kokcek": 0.31,
-   "d_oran": 0.7,
+   "d_oran": 0.0,
+   "kok_oran": 0.59,
    "ortak_madde": [
     "GY 527"
    ],
@@ -3735,6 +3992,7 @@
    "cekd": 0.28,
    "kokcek": 0.14,
    "d_oran": 0.19,
+   "kok_oran": 0.4,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3749,6 +4007,7 @@
    "cekd": 0.03,
    "kokcek": 0.09,
    "d_oran": 0.25,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3763,6 +4022,7 @@
    "cekd": 0.74,
    "kokcek": 0.45,
    "d_oran": 0.29,
+   "kok_oran": 0.39,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3777,6 +4037,7 @@
    "cekd": 0.02,
    "kokcek": 0.18,
    "d_oran": 0.35,
+   "kok_oran": 0.38,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3791,6 +4052,7 @@
    "cekd": 0.01,
    "kokcek": 0.14,
    "d_oran": 0.26,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3804,7 +4066,8 @@
    "kanit_ornek": "gümrük idaresinde en az 100 adet beyan kapsamında işlem yapılmış olması.",
    "cekd": 0.07,
    "kokcek": 0.07,
-   "d_oran": 0.02,
+   "d_oran": 0.0,
+   "kok_oran": 0.33,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3819,6 +4082,7 @@
    "cekd": 0.09,
    "kokcek": 0.06,
    "d_oran": 0.32,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3833,6 +4097,7 @@
    "cekd": 0.21,
    "kokcek": 0.22,
    "d_oran": 0.0,
+   "kok_oran": 0.3,
    "ortak_madde": [
     "gümrük işlemlerinin kolaylaştırılması yönetmeliği 12"
    ],
@@ -3849,6 +4114,7 @@
    "cekd": 0.09,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3863,6 +4129,7 @@
    "cekd": 0.15,
    "kokcek": 0.36,
    "d_oran": 0.0,
+   "kok_oran": 0.71,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 3
@@ -3877,6 +4144,7 @@
    "cekd": 0.27,
    "kokcek": 0.21,
    "d_oran": 0.2,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 2
@@ -3891,6 +4159,7 @@
    "cekd": 0.03,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3905,6 +4174,7 @@
    "cekd": 0.06,
    "kokcek": 0.21,
    "d_oran": 0.0,
+   "kok_oran": 0.24,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3919,6 +4189,7 @@
    "cekd": 0.02,
    "kokcek": 0.04,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "gümrük işlemlerinin kolaylaştırılması yönetmeliği 42"
    ],
@@ -3935,6 +4206,7 @@
    "cekd": 0.05,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3949,6 +4221,7 @@
    "cekd": 0.03,
    "kokcek": 0.01,
    "d_oran": 0.27,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3963,6 +4236,7 @@
    "cekd": 0.06,
    "kokcek": 0.07,
    "d_oran": 0.37,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3977,6 +4251,7 @@
    "cekd": 0.04,
    "kokcek": 0.07,
    "d_oran": 0.34,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -3991,6 +4266,7 @@
    "cekd": 0.02,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4005,6 +4281,7 @@
    "cekd": 0.02,
    "kokcek": 0.06,
    "d_oran": 0.22,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4019,6 +4296,7 @@
    "cekd": 0.1,
    "kokcek": 0.12,
    "d_oran": 0.0,
+   "kok_oran": 0.26,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4033,6 +4311,7 @@
    "cekd": 0.12,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4047,6 +4326,7 @@
    "cekd": 0.14,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4061,6 +4341,7 @@
    "cekd": 0.21,
    "kokcek": 0.23,
    "d_oran": 0.19,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4074,7 +4355,8 @@
    "kanit_ornek": "kayda alındığı tarihten itibaren 10 iş günü içerisinde incelenir.",
    "cekd": 0.07,
    "kokcek": 0.17,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 4
@@ -4089,6 +4371,7 @@
    "cekd": 0.1,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4103,6 +4386,7 @@
    "cekd": 0.01,
    "kokcek": 0.04,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4117,6 +4401,7 @@
    "cekd": 0.08,
    "kokcek": 0.06,
    "d_oran": 0.17,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4131,6 +4416,7 @@
    "cekd": 0.21,
    "kokcek": 0.22,
    "d_oran": 0.64,
+   "kok_oran": 0.75,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4145,6 +4431,7 @@
    "cekd": 0.07,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "gümrük işlemlerinin kolaylaştırılması yönetmeliği 76"
    ],
@@ -4161,6 +4448,7 @@
    "cekd": 0.05,
    "kokcek": 0.16,
    "d_oran": 0.24,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4175,6 +4463,7 @@
    "cekd": 0.06,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4188,7 +4477,8 @@
    "kanit_ornek": "2.000.000 Avro tutarında azami teminat verilmesi istenebilir.",
    "cekd": 0.07,
    "kokcek": 0.09,
-   "d_oran": 0.75,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 2
@@ -4203,6 +4493,7 @@
    "cekd": 0.04,
    "kokcek": 0.14,
    "d_oran": 0.22,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4217,6 +4508,7 @@
    "cekd": 0.08,
    "kokcek": 0.15,
    "d_oran": 0.28,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4231,6 +4523,7 @@
    "cekd": 0.11,
    "kokcek": 0.18,
    "d_oran": 0.27,
+   "kok_oran": null,
    "ortak_madde": [
     "gümrük işlemlerinin kolaylaştırılması yönetmeliği 97"
    ],
@@ -4247,6 +4540,7 @@
    "cekd": 0.03,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4261,6 +4555,7 @@
    "cekd": 0.11,
    "kokcek": 0.09,
    "d_oran": 0.17,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4275,6 +4570,7 @@
    "cekd": 0.12,
    "kokcek": 0.18,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4289,6 +4585,7 @@
    "cekd": 0.0,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4303,6 +4600,7 @@
    "cekd": 0.16,
    "kokcek": 0.24,
    "d_oran": 0.46,
+   "kok_oran": 0.49,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4317,6 +4615,7 @@
    "cekd": 0.03,
    "kokcek": 0.04,
    "d_oran": 1.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 3
@@ -4331,6 +4630,7 @@
    "cekd": 0.5,
    "kokcek": 0.27,
    "d_oran": 0.63,
+   "kok_oran": 0.63,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 1
@@ -4345,6 +4645,7 @@
    "cekd": 0.04,
    "kokcek": 0.19,
    "d_oran": 0.15,
+   "kok_oran": 0.59,
    "ortak_madde": [
     "oks gümrük genel tebliği sıra no 12"
    ],
@@ -4361,6 +4662,7 @@
    "cekd": 0.3,
    "kokcek": 0.21,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "oks gümrük genel tebliği sıra no 31",
     "oks gümrük genel tebliği sıra no 34"
@@ -4378,6 +4680,7 @@
    "cekd": 0.17,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4392,6 +4695,7 @@
    "cekd": 0.08,
    "kokcek": 0.21,
    "d_oran": 0.24,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4403,9 +4707,10 @@
    "olcut": "b",
    "kanit": 0.45,
    "kanit_ornek": "geri alınmasına söz konusu belgenin düzenlendiği gümrük ve dış ticaretbölge müdürlüğü yetkilidir",
-   "cekd": 0.31,
+   "cekd": 0.32,
    "kokcek": 0.23,
    "d_oran": 0.59,
+   "kok_oran": 0.47,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4414,12 +4719,13 @@
    "a": "M09-02",
    "b": "T01-05",
    "tur": "ARA",
-   "olcut": "abcts",
+   "olcut": "abctsk",
    "kanit": 1.0,
    "kanit_ornek": "Türk Gümrük Tarife Cetvelinde bulunan her bölümün başında yer alan ve tarifenin yorumu bakımından bağlayıcı olmayıp, yol gösterici nitelikte olan ibareleri",
    "cekd": 0.89,
    "kokcek": 1.0,
    "d_oran": 1.0,
+   "kok_oran": 1.0,
    "ortak_madde": [
     "GY 32"
    ],
@@ -4436,6 +4742,7 @@
    "cekd": 0.0,
    "kokcek": 0.05,
    "d_oran": 0.09,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 4"
    ],
@@ -4452,6 +4759,7 @@
    "cekd": 0.03,
    "kokcek": 0.07,
    "d_oran": 0.36,
+   "kok_oran": null,
    "ortak_madde": [
     "GY 36"
    ],
@@ -4468,6 +4776,7 @@
    "cekd": 0.11,
    "kokcek": 0.27,
    "d_oran": 0.19,
+   "kok_oran": 0.65,
    "ortak_madde": [
     "GY 205"
    ],
@@ -4484,6 +4793,7 @@
    "cekd": 0.05,
    "kokcek": 0.07,
    "d_oran": 0.16,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4498,6 +4808,7 @@
    "cekd": 0.13,
    "kokcek": 0.1,
    "d_oran": 0.19,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4512,6 +4823,7 @@
    "cekd": 0.1,
    "kokcek": 0.14,
    "d_oran": 0.39,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4526,6 +4838,7 @@
    "cekd": 0.08,
    "kokcek": 0.13,
    "d_oran": 0.05,
+   "kok_oran": null,
    "ortak_madde": [
     "GY 331"
    ],
@@ -4542,6 +4855,7 @@
    "cekd": 0.2,
    "kokcek": 0.21,
    "d_oran": 0.16,
+   "kok_oran": 0.39,
    "ortak_madde": [
     "GK 57"
    ],
@@ -4558,6 +4872,7 @@
    "cekd": 0.0,
    "kokcek": 0.01,
    "d_oran": 0.19,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4572,6 +4887,7 @@
    "cekd": 0.22,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4586,6 +4902,7 @@
    "cekd": 0.04,
    "kokcek": 0.09,
    "d_oran": 0.26,
+   "kok_oran": null,
    "ortak_madde": [
     "GY 171"
    ],
@@ -4596,12 +4913,13 @@
    "a": "M14-02",
    "b": "M24-02",
    "tur": "ARA",
-   "olcut": "ab",
+   "olcut": "a",
    "kanit": 0.95,
    "kanit_ornek": "elyaf, iplik, ham ve mamul mensucat (astar dâhil) gibi temel tekstil hammaddeleri ile tekstil ve deri kimyasal maddeleri dışında kalan tela, etiket, düğme, fermuar, çıtçıt",
-   "cekd": 0.26,
-   "kokcek": 0.25,
-   "d_oran": 0.51,
+   "cekd": 0.08,
+   "kokcek": 0.18,
+   "d_oran": 0.16,
+   "kok_oran": 0.35,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4616,6 +4934,7 @@
    "cekd": 0.01,
    "kokcek": 0.05,
    "d_oran": 0.22,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4630,6 +4949,7 @@
    "cekd": 0.02,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4644,6 +4964,7 @@
    "cekd": 0.35,
    "kokcek": 0.27,
    "d_oran": 0.62,
+   "kok_oran": 0.47,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4658,6 +4979,7 @@
    "cekd": 0.26,
    "kokcek": 0.21,
    "d_oran": 1.0,
+   "kok_oran": 0.36,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 3
@@ -4672,6 +4994,7 @@
    "cekd": 0.29,
    "kokcek": 0.22,
    "d_oran": 0.39,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4686,6 +5009,7 @@
    "cekd": 0.27,
    "kokcek": 0.17,
    "d_oran": 0.62,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4700,6 +5024,7 @@
    "cekd": 0.05,
    "kokcek": 0.17,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4714,6 +5039,7 @@
    "cekd": 0.18,
    "kokcek": 0.2,
    "d_oran": 0.13,
+   "kok_oran": null,
    "ortak_madde": [
     "GY 309"
    ],
@@ -4730,6 +5056,7 @@
    "cekd": 0.31,
    "kokcek": 0.23,
    "d_oran": 0.25,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4744,6 +5071,7 @@
    "cekd": 0.0,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4758,6 +5086,7 @@
    "cekd": 0.05,
    "kokcek": 0.15,
    "d_oran": 0.2,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4772,6 +5101,7 @@
    "cekd": 0.09,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4786,6 +5116,7 @@
    "cekd": 0.04,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4800,6 +5131,7 @@
    "cekd": 0.0,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4814,6 +5146,7 @@
    "cekd": 0.1,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4828,6 +5161,7 @@
    "cekd": 0.02,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4842,6 +5176,7 @@
    "cekd": 0.11,
    "kokcek": 0.06,
    "d_oran": 0.24,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4856,6 +5191,7 @@
    "cekd": 0.06,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4869,7 +5205,8 @@
    "kanit_ornek": null,
    "cekd": 0.0,
    "kokcek": 0.01,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 4
@@ -4884,6 +5221,7 @@
    "cekd": 0.01,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4898,6 +5236,7 @@
    "cekd": 0.04,
    "kokcek": 0.04,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4912,6 +5251,7 @@
    "cekd": 0.02,
    "kokcek": 0.08,
    "d_oran": 0.16,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 1
@@ -4926,6 +5266,7 @@
    "cekd": 0.06,
    "kokcek": 0.16,
    "d_oran": 0.06,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4940,6 +5281,7 @@
    "cekd": 0.08,
    "kokcek": 0.14,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4954,6 +5296,7 @@
    "cekd": 0.09,
    "kokcek": 0.05,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4968,6 +5311,7 @@
    "cekd": 0.02,
    "kokcek": 0.16,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4982,6 +5326,7 @@
    "cekd": 0.02,
    "kokcek": 0.3,
    "d_oran": 0.0,
+   "kok_oran": 0.37,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -4996,6 +5341,7 @@
    "cekd": 0.19,
    "kokcek": 0.22,
    "d_oran": 0.37,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5010,6 +5356,7 @@
    "cekd": 0.02,
    "kokcek": 0.04,
    "d_oran": 0.25,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5024,6 +5371,7 @@
    "cekd": 0.09,
    "kokcek": 0.18,
    "d_oran": 0.21,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5038,6 +5386,7 @@
    "cekd": 0.2,
    "kokcek": 0.2,
    "d_oran": 0.59,
+   "kok_oran": 0.42,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5052,6 +5401,7 @@
    "cekd": 0.02,
    "kokcek": 0.05,
    "d_oran": 0.16,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5066,6 +5416,7 @@
    "cekd": 0.08,
    "kokcek": 0.12,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5080,6 +5431,7 @@
    "cekd": 0.45,
    "kokcek": 0.27,
    "d_oran": 0.14,
+   "kok_oran": 0.26,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5094,6 +5446,7 @@
    "cekd": 0.05,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5108,6 +5461,7 @@
    "cekd": 0.02,
    "kokcek": 0.09,
    "d_oran": 0.31,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5122,6 +5476,7 @@
    "cekd": 0.21,
    "kokcek": 0.21,
    "d_oran": 0.22,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5136,6 +5491,7 @@
    "cekd": 0.15,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5150,6 +5506,7 @@
    "cekd": 0.13,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": 0.26,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5164,6 +5521,7 @@
    "cekd": 0.26,
    "kokcek": 0.19,
    "d_oran": 0.54,
+   "kok_oran": 0.37,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5178,6 +5536,7 @@
    "cekd": 0.05,
    "kokcek": 0.12,
    "d_oran": 0.42,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5192,6 +5551,7 @@
    "cekd": 0.03,
    "kokcek": 0.17,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5205,7 +5565,8 @@
    "kanit_ornek": "Hizmet karşılığı alacaklar ve yapılmış masraflar karşılığı olarak yüzde onbeşi,",
    "cekd": 0.02,
    "kokcek": 0.14,
-   "d_oran": 0.44,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5220,6 +5581,7 @@
    "cekd": 0.03,
    "kokcek": 0.05,
    "d_oran": 1.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 3
@@ -5234,6 +5596,7 @@
    "cekd": 0.47,
    "kokcek": 0.24,
    "d_oran": 0.27,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5248,6 +5611,7 @@
    "cekd": 0.11,
    "kokcek": 0.19,
    "d_oran": 0.0,
+   "kok_oran": 0.36,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5262,6 +5626,7 @@
    "cekd": 0.02,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 180"
    ],
@@ -5278,6 +5643,7 @@
    "cekd": 0.03,
    "kokcek": 0.05,
    "d_oran": 0.1,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5292,6 +5658,7 @@
    "cekd": 0.26,
    "kokcek": 0.23,
    "d_oran": 0.27,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5306,6 +5673,7 @@
    "cekd": 0.2,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": 0.22,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5320,6 +5688,7 @@
    "cekd": 0.03,
    "kokcek": 0.04,
    "d_oran": 0.24,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5334,6 +5703,7 @@
    "cekd": 0.04,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5348,6 +5718,7 @@
    "cekd": 0.0,
    "kokcek": 0.02,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5362,6 +5733,7 @@
    "cekd": 0.14,
    "kokcek": 0.21,
    "d_oran": 0.28,
+   "kok_oran": 0.39,
    "ortak_madde": [
     "GK 198"
    ],
@@ -5378,6 +5750,7 @@
    "cekd": 0.03,
    "kokcek": 0.05,
    "d_oran": 0.25,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5392,6 +5765,7 @@
    "cekd": 0.08,
    "kokcek": 0.09,
    "d_oran": 0.17,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5406,6 +5780,7 @@
    "cekd": 0.09,
    "kokcek": 0.1,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5420,6 +5795,7 @@
    "cekd": 0.05,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5434,6 +5810,7 @@
    "cekd": 0.07,
    "kokcek": 0.09,
    "d_oran": 0.23,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5447,7 +5824,8 @@
    "kanit_ornek": "47.397.000.TL'nin üstündeki geri verme veya kaldırma işlemlerini yapmaya ise Bakanlık,",
    "cekd": 0.06,
    "kokcek": 0.06,
-   "d_oran": 0.08,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5462,6 +5840,7 @@
    "cekd": 0.09,
    "kokcek": 0.12,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5476,6 +5855,7 @@
    "cekd": 0.15,
    "kokcek": 0.19,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5490,6 +5870,7 @@
    "cekd": 0.05,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5504,6 +5885,7 @@
    "cekd": 0.11,
    "kokcek": 0.2,
    "d_oran": 0.0,
+   "kok_oran": 0.34,
    "ortak_madde": [
     "GK 234"
    ],
@@ -5520,6 +5902,7 @@
    "cekd": 0.0,
    "kokcek": 0.03,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5534,6 +5917,7 @@
    "cekd": 0.09,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5548,6 +5932,7 @@
    "cekd": 0.23,
    "kokcek": 0.31,
    "d_oran": 0.19,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5562,6 +5947,7 @@
    "cekd": 0.05,
    "kokcek": 0.09,
    "d_oran": 0.25,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5576,6 +5962,7 @@
    "cekd": 0.2,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5590,6 +5977,7 @@
    "cekd": 0.06,
    "kokcek": 0.28,
    "d_oran": 0.25,
+   "kok_oran": 0.62,
    "ortak_madde": [
     "GK 241"
    ],
@@ -5606,6 +5994,7 @@
    "cekd": 0.04,
    "kokcek": 0.06,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 237"
    ],
@@ -5622,6 +6011,7 @@
    "cekd": 0.11,
    "kokcek": 0.19,
    "d_oran": 0.37,
+   "kok_oran": 0.57,
    "ortak_madde": [
     "GK 242"
    ],
@@ -5638,6 +6028,7 @@
    "cekd": 0.05,
    "kokcek": 0.07,
    "d_oran": 0.25,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5652,6 +6043,7 @@
    "cekd": 0.09,
    "kokcek": 0.11,
    "d_oran": 0.29,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5666,6 +6058,7 @@
    "cekd": 0.19,
    "kokcek": 0.2,
    "d_oran": 0.31,
+   "kok_oran": null,
    "ortak_madde": [
     "gümrük uzlaşma yönetmeliği 14"
    ],
@@ -5682,6 +6075,7 @@
    "cekd": 0.08,
    "kokcek": 0.12,
    "d_oran": 0.56,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 1
@@ -5696,6 +6090,7 @@
    "cekd": 0.03,
    "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5710,6 +6105,7 @@
    "cekd": 0.1,
    "kokcek": 0.11,
    "d_oran": 0.34,
+   "kok_oran": null,
    "ortak_madde": [
     "6183 58"
    ],
@@ -5726,6 +6122,7 @@
    "cekd": 0.13,
    "kokcek": 0.2,
    "d_oran": 0.27,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5740,6 +6137,7 @@
    "cekd": 0.09,
    "kokcek": 0.15,
    "d_oran": 0.07,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5754,6 +6152,7 @@
    "cekd": 0.09,
    "kokcek": 0.27,
    "d_oran": 0.11,
+   "kok_oran": 0.55,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5768,6 +6167,7 @@
    "cekd": 0.16,
    "kokcek": 0.42,
    "d_oran": 0.15,
+   "kok_oran": 0.58,
    "ortak_madde": [
     "2006/10895 sayılı gümrük birliğinin uygulanmasına ilişkin 5"
    ],
@@ -5784,6 +6184,7 @@
    "cekd": 0.16,
    "kokcek": 0.14,
    "d_oran": 0.32,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5798,6 +6199,7 @@
    "cekd": 0.16,
    "kokcek": 0.13,
    "d_oran": 0.62,
+   "kok_oran": 0.28,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5812,6 +6214,7 @@
    "cekd": 0.11,
    "kokcek": 0.3,
    "d_oran": 0.0,
+   "kok_oran": 0.58,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5826,6 +6229,7 @@
    "cekd": 0.02,
    "kokcek": 0.12,
    "d_oran": 0.11,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5840,6 +6244,7 @@
    "cekd": 0.0,
    "kokcek": 0.18,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5854,6 +6259,7 @@
    "cekd": 0.09,
    "kokcek": 0.11,
    "d_oran": 1.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 3
@@ -5868,6 +6274,7 @@
    "cekd": 0.08,
    "kokcek": 0.08,
    "d_oran": 1.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 3
@@ -5882,6 +6289,7 @@
    "cekd": 0.02,
    "kokcek": 0.02,
    "d_oran": 1.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 3
@@ -5896,6 +6304,7 @@
    "cekd": 0.23,
    "kokcek": 0.18,
    "d_oran": 0.06,
+   "kok_oran": 0.35,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5910,6 +6319,7 @@
    "cekd": 0.26,
    "kokcek": 0.37,
    "d_oran": 0.49,
+   "kok_oran": 0.69,
    "ortak_madde": [
     "gümrük genel tebliği uluslararası anlaşmalar seri 4"
    ],
@@ -5926,6 +6336,7 @@
    "cekd": 0.09,
    "kokcek": 0.17,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5940,6 +6351,7 @@
    "cekd": 0.17,
    "kokcek": 0.21,
    "d_oran": 0.0,
+   "kok_oran": 0.5,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5954,6 +6366,7 @@
    "cekd": 0.03,
    "kokcek": 0.02,
    "d_oran": 1.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 3
@@ -5968,6 +6381,7 @@
    "cekd": 0.09,
    "kokcek": 0.2,
    "d_oran": 0.0,
+   "kok_oran": 0.51,
    "ortak_madde": [
     "menşe beyanı kararı ck 501 18"
    ],
@@ -5984,6 +6398,7 @@
    "cekd": 0.08,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -5998,6 +6413,7 @@
    "cekd": 0.03,
    "kokcek": 0.06,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6012,6 +6428,7 @@
    "cekd": 0.07,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6026,6 +6443,7 @@
    "cekd": 0.01,
    "kokcek": 0.17,
    "d_oran": 0.11,
+   "kok_oran": 0.77,
    "ortak_madde": [
     "2014/7064 sayılı gts menşe kararı 16"
    ],
@@ -6040,8 +6458,9 @@
    "kanit": 1.0,
    "kanit_ornek": "Bölgesel kümülasyon, Faydalanan Ülkelerden oluşan 4 ayrı bölgesel gruba",
    "cekd": 0.0,
-   "kokcek": 0.08,
+   "kokcek": 0.06,
    "d_oran": 0.25,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6056,6 +6475,7 @@
    "cekd": 0.05,
    "kokcek": 0.07,
    "d_oran": 0.24,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6068,8 +6488,9 @@
    "kanit": 1.0,
    "kanit_ornek": "Bölgesel kümülasyon, Faydalanan Ülkelerden oluşan 4 ayrı bölgesel gruba",
    "cekd": 0.1,
-   "kokcek": 0.17,
+   "kokcek": 0.16,
    "d_oran": 0.2,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6084,6 +6505,7 @@
    "cekd": 0.1,
    "kokcek": 0.23,
    "d_oran": 1.0,
+   "kok_oran": 0.54,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 1
@@ -6098,6 +6520,7 @@
    "cekd": 0.46,
    "kokcek": 0.56,
    "d_oran": 0.33,
+   "kok_oran": 0.79,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6111,7 +6534,8 @@
    "kanit_ornek": "Toplam kıymetlerinin, ürünün fabrika çıkış fiyatının % 10'unu geçmemesi",
    "cekd": 0.34,
    "kokcek": 0.25,
-   "d_oran": 0.03,
+   "d_oran": 0.0,
+   "kok_oran": 0.35,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6126,6 +6550,7 @@
    "cekd": 0.02,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6140,6 +6565,7 @@
    "cekd": 0.09,
    "kokcek": 0.32,
    "d_oran": 0.23,
+   "kok_oran": 0.86,
    "ortak_madde": [
     "paamk kapsamı ticarette eşyanın tercihli menşeinin 30"
    ],
@@ -6156,6 +6582,7 @@
    "cekd": 0.19,
    "kokcek": 0.24,
    "d_oran": 0.0,
+   "kok_oran": 0.47,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6170,6 +6597,7 @@
    "cekd": 0.15,
    "kokcek": 0.14,
    "d_oran": 0.33,
+   "kok_oran": 0.63,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6184,6 +6612,7 @@
    "cekd": 0.11,
    "kokcek": 0.23,
    "d_oran": 0.27,
+   "kok_oran": 0.55,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6198,6 +6627,7 @@
    "cekd": 0.12,
    "kokcek": 0.22,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6212,6 +6642,7 @@
    "cekd": 0.05,
    "kokcek": 0.2,
    "d_oran": 0.3,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6224,8 +6655,9 @@
    "kanit": 0.9,
    "kanit_ornek": "EUR.1 DOLAŞIM BELGESİ vize tarihinden itibaren 10 AY geçerli olur",
    "cekd": 0.05,
-   "kokcek": 0.18,
+   "kokcek": 0.15,
    "d_oran": 0.3,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6240,6 +6672,7 @@
    "cekd": 0.06,
    "kokcek": 0.19,
    "d_oran": 0.37,
+   "kok_oran": 0.53,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6254,6 +6687,7 @@
    "cekd": 0.09,
    "kokcek": 0.13,
    "d_oran": 0.37,
+   "kok_oran": 0.52,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6267,7 +6701,8 @@
    "kanit_ornek": "EUR.1 DOLAŞIM BELGESİ VİZE tarihinden itibaren 4 AY",
    "cekd": 0.22,
    "kokcek": 0.11,
-   "d_oran": 0.04,
+   "d_oran": 0.0,
+   "kok_oran": 0.33,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6280,8 +6715,9 @@
    "kanit": 0.9,
    "kanit_ornek": "EUR.1 DOLAŞIM BELGESİ vize tarihinden itibaren 10 AY geçerli olur",
    "cekd": 0.15,
-   "kokcek": 0.13,
-   "d_oran": 0.02,
+   "kokcek": 0.14,
+   "d_oran": 0.0,
+   "kok_oran": 0.3,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6295,7 +6731,8 @@
    "kanit_ornek": "EUR.1 DOLAŞIM BELGESİ vize tarihinden itibaren 10 AY geçerli olur",
    "cekd": 0.16,
    "kokcek": 0.25,
-   "d_oran": 0.02,
+   "d_oran": 0.0,
+   "kok_oran": 0.55,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6310,6 +6747,7 @@
    "cekd": 0.04,
    "kokcek": 0.04,
    "d_oran": 0.28,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6324,6 +6762,7 @@
    "cekd": 0.1,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 27.03"
    ],
@@ -6338,8 +6777,9 @@
    "kanit": 1.0,
    "kanit_ornek": "EFTA ülkeleri: İzlanda, İsviçre, Lihtenştayn ve Norveç'i",
    "cekd": 0.05,
-   "kokcek": 0.08,
+   "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6354,6 +6794,7 @@
    "cekd": 0.31,
    "kokcek": 0.39,
    "d_oran": 0.0,
+   "kok_oran": 0.29,
    "ortak_madde": [
     "TGTC 27.03"
    ],
@@ -6370,6 +6811,7 @@
    "cekd": 0.06,
    "kokcek": 0.25,
    "d_oran": 0.0,
+   "kok_oran": 0.37,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6384,6 +6826,7 @@
    "cekd": 0.02,
    "kokcek": 0.21,
    "d_oran": 0.0,
+   "kok_oran": 0.46,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6398,6 +6841,7 @@
    "cekd": 0.03,
    "kokcek": 0.15,
    "d_oran": 0.4,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6412,6 +6856,7 @@
    "cekd": 0.03,
    "kokcek": 0.15,
    "d_oran": 0.3,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6426,6 +6871,7 @@
    "cekd": 0.12,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6440,6 +6886,7 @@
    "cekd": 0.31,
    "kokcek": 0.19,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6454,6 +6901,7 @@
    "cekd": 0.1,
    "kokcek": 0.35,
    "d_oran": 0.0,
+   "kok_oran": 0.56,
    "ortak_madde": [
     "tps oıc tercihli menşe yönetmeliği 8"
    ],
@@ -6470,6 +6918,7 @@
    "cekd": 0.03,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6482,8 +6931,9 @@
    "kanit": 1.0,
    "kanit_ornek": "ÖZBEKİSTAN (TTA) EUR.1 12 AY 6 AY",
    "cekd": 0.06,
-   "kokcek": 0.15,
+   "kokcek": 0.11,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6496,8 +6946,9 @@
    "kanit": 0.89,
    "kanit_ornek": "EUR.1 DOLAŞIM BELGESİ VİZE tarihinden itibaren 10 AY geçerlidir.",
    "cekd": 0.09,
-   "kokcek": 0.24,
+   "kokcek": 0.11,
    "d_oran": 0.14,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6512,6 +6963,7 @@
    "cekd": 0.22,
    "kokcek": 0.16,
    "d_oran": 0.5,
+   "kok_oran": 0.45,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6526,6 +6978,7 @@
    "cekd": 0.14,
    "kokcek": 0.33,
    "d_oran": 0.4,
+   "kok_oran": 0.79,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6540,6 +6993,7 @@
    "cekd": 0.31,
    "kokcek": 0.38,
    "d_oran": 0.28,
+   "kok_oran": 0.48,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6552,8 +7006,9 @@
    "kanit": 1.0,
    "kanit_ornek": "TÜRKİYE, Tam Kümülasyonu öngören herhangi bir anlaşmaya veya sisteme dahil değildir.",
    "cekd": 0.12,
-   "kokcek": 0.25,
+   "kokcek": 0.1,
    "d_oran": 0.24,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6566,8 +7021,9 @@
    "kanit": 1.0,
    "kanit_ornek": "EUR.1 DOLAŞIM BELGESİ vize tarihinden itibaren 10 AY geçerli olur",
    "cekd": 0.19,
-   "kokcek": 0.18,
+   "kokcek": 0.2,
    "d_oran": 0.15,
+   "kok_oran": 0.47,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6582,6 +7038,7 @@
    "cekd": 0.1,
    "kokcek": 0.26,
    "d_oran": 0.32,
+   "kok_oran": 0.37,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 4
@@ -6596,6 +7053,7 @@
    "cekd": 0.0,
    "kokcek": 0.19,
    "d_oran": 0.18,
+   "kok_oran": 0.61,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6610,6 +7068,7 @@
    "cekd": 0.0,
    "kokcek": 0.16,
    "d_oran": 0.26,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6624,6 +7083,7 @@
    "cekd": 0.15,
    "kokcek": 0.2,
    "d_oran": 0.14,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6638,6 +7098,7 @@
    "cekd": 0.02,
    "kokcek": 0.18,
    "d_oran": 0.33,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6650,8 +7111,9 @@
    "kanit": 0.33,
    "kanit_ornek": "Daha önce alınan teminattan DÜŞÜK ise FARK GERİ ÖDENİR.",
    "cekd": 0.32,
-   "kokcek": 0.32,
+   "kokcek": 0.31,
    "d_oran": 0.37,
+   "kok_oran": 0.5,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6664,8 +7126,9 @@
    "kanit": 0.9,
    "kanit_ornek": "KOTA: Belirli bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değerini,",
    "cekd": 0.26,
-   "kokcek": 0.2,
+   "kokcek": 0.19,
    "d_oran": 0.73,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 1
@@ -6680,6 +7143,7 @@
    "cekd": 0.02,
    "kokcek": 0.12,
    "d_oran": 0.15,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6694,6 +7158,7 @@
    "cekd": 0.08,
    "kokcek": 0.17,
    "d_oran": 0.24,
+   "kok_oran": 0.67,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6708,6 +7173,7 @@
    "cekd": 0.27,
    "kokcek": 0.3,
    "d_oran": 0.74,
+   "kok_oran": 0.57,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6722,6 +7188,7 @@
    "cekd": 0.13,
    "kokcek": 0.19,
    "d_oran": 0.07,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6736,6 +7203,7 @@
    "cekd": 0.08,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6750,6 +7218,7 @@
    "cekd": 0.28,
    "kokcek": 0.27,
    "d_oran": 0.36,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6762,8 +7231,9 @@
    "kanit": 0.89,
    "kanit_ornek": "d) KABUL KREDİLİ, VADELİ AKREDİTİF ve MAL MUKABİLİ ÖDEME şekline göre yapılan İTHALATTA",
    "cekd": 0.09,
-   "kokcek": 0.17,
+   "kokcek": 0.2,
    "d_oran": 0.33,
+   "kok_oran": 0.43,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6778,6 +7248,7 @@
    "cekd": 0.07,
    "kokcek": 0.16,
    "d_oran": 0.17,
+   "kok_oran": null,
    "ortak_madde": [
     "4760 14"
    ],
@@ -6794,6 +7265,7 @@
    "cekd": 0.05,
    "kokcek": 0.07,
    "d_oran": 0.21,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6808,6 +7280,7 @@
    "cekd": 0.0,
    "kokcek": 0.07,
    "d_oran": 0.15,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6822,6 +7295,7 @@
    "cekd": 0.01,
    "kokcek": 0.09,
    "d_oran": 0.33,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6836,6 +7310,7 @@
    "cekd": 0.04,
    "kokcek": 0.12,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6850,6 +7325,7 @@
    "cekd": 0.04,
    "kokcek": 0.05,
    "d_oran": 0.31,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -6864,6 +7340,7 @@
    "cekd": 0.32,
    "kokcek": 0.24,
    "d_oran": 0.0,
+   "kok_oran": 0.65,
    "ortak_madde": [
     "GY 32"
    ],
@@ -6880,6 +7357,7 @@
    "cekd": 0.19,
    "kokcek": 0.22,
    "d_oran": 0.31,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -6894,6 +7372,7 @@
    "cekd": 0.01,
    "kokcek": 0.05,
    "d_oran": 0.17,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -6908,6 +7387,7 @@
    "cekd": 0.04,
    "kokcek": 0.12,
    "d_oran": 0.29,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.08,
    "ortak_sik": 0
@@ -6922,6 +7402,7 @@
    "cekd": 0.08,
    "kokcek": 0.13,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -6936,6 +7417,7 @@
    "cekd": 0.15,
    "kokcek": 0.3,
    "d_oran": 0.1,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -6950,6 +7432,7 @@
    "cekd": 0.25,
    "kokcek": 0.29,
    "d_oran": 0.37,
+   "kok_oran": 0.51,
    "ortak_madde": [],
    "esya": 0.1,
    "ortak_sik": 0
@@ -6964,6 +7447,7 @@
    "cekd": 0.41,
    "kokcek": 0.27,
    "d_oran": 0.1,
+   "kok_oran": 0.49,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -6978,6 +7462,7 @@
    "cekd": 0.33,
    "kokcek": 0.19,
    "d_oran": 0.04,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.07,
    "ortak_sik": 0
@@ -6992,6 +7477,7 @@
    "cekd": 0.15,
    "kokcek": 0.21,
    "d_oran": 0.43,
+   "kok_oran": 0.56,
    "ortak_madde": [],
    "esya": 0.16,
    "ortak_sik": 0
@@ -7006,6 +7492,7 @@
    "cekd": 0.44,
    "kokcek": 0.46,
    "d_oran": 0.11,
+   "kok_oran": 0.7,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 2
@@ -7020,6 +7507,7 @@
    "cekd": 0.07,
    "kokcek": 0.17,
    "d_oran": 0.22,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7033,7 +7521,8 @@
    "kanit_ornek": "halı olarak daha özel bir şekilde tanımlandıkları 57.03 pozisyonunda sınıflandırılacaklardır.",
    "cekd": 0.01,
    "kokcek": 0.1,
-   "d_oran": 0.03,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7048,8 +7537,9 @@
    "cekd": 0.3,
    "kokcek": 0.18,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
-   "esya": 0.21,
+   "esya": 0.22,
    "ortak_sik": 0
   },
   {
@@ -7061,7 +7551,8 @@
    "kanit_ornek": "Müzik aletleri mahfazaları, kutuları ve çantaları (örneğin; 92.02 pozisyonu).",
    "cekd": 0.14,
    "kokcek": 0.32,
-   "d_oran": 0.02,
+   "d_oran": 0.0,
+   "kok_oran": 0.47,
    "ortak_madde": [],
    "esya": 0.17,
    "ortak_sik": 0
@@ -7076,6 +7567,7 @@
    "cekd": 0.05,
    "kokcek": 0.05,
    "d_oran": 0.29,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.05,
    "ortak_sik": 0
@@ -7089,7 +7581,8 @@
    "kanit_ornek": "Su omurgasızlarının başlıcaları: deniz kestanesi, deniz hıyarı (beches-de-mer) ve deniz anasıdır.",
    "cekd": 0.0,
    "kokcek": 0.02,
-   "d_oran": 0.8,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 2
@@ -7104,6 +7597,7 @@
    "cekd": 0.06,
    "kokcek": 0.04,
    "d_oran": 0.28,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7118,6 +7612,7 @@
    "cekd": 0.03,
    "kokcek": 0.05,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7132,6 +7627,7 @@
    "cekd": 0.0,
    "kokcek": 0.02,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7145,7 +7641,8 @@
    "kanit_ornek": "kuru madde üzerinden hesaplandığında ağırlık itibariyle %95' den fazla laktoz içeren",
    "cekd": 0.23,
    "kokcek": 0.27,
-   "d_oran": 0.25,
+   "d_oran": 0.0,
+   "kok_oran": 0.35,
    "ortak_madde": [],
    "esya": 0.08,
    "ortak_sik": 0
@@ -7158,8 +7655,9 @@
    "kanit": 0.33,
    "kanit_ornek": "Fırça veya süpürge imalinde kullanılmak üzere hazırlanmış \"fırça başları\" (96.03 pozisyonu).",
    "cekd": 0.25,
-   "kokcek": 0.23,
+   "kokcek": 0.22,
    "d_oran": 0.69,
+   "kok_oran": 0.77,
    "ortak_madde": [],
    "esya": 0.4,
    "ortak_sik": 0
@@ -7173,7 +7671,8 @@
    "kanit_ornek": "Buğday unları, genel olarak %10'u geçmeyecek şekilde gluten ilavesiyle daha da zenginleştirilebilirler.",
    "cekd": 0.0,
    "kokcek": 0.05,
-   "d_oran": 0.5,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 4
@@ -7187,7 +7686,8 @@
    "kanit_ornek": "ağırlık itibariyle %2’den az erusik asit içeren sabit yağ",
    "cekd": 0.0,
    "kokcek": 0.09,
-   "d_oran": 0.4,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 2
@@ -7202,6 +7702,7 @@
    "cekd": 0.15,
    "kokcek": 0.15,
    "d_oran": 1.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 1.0,
    "ortak_sik": 2
@@ -7215,7 +7716,8 @@
    "kanit_ornek": "(bu maddeler ağırlık itibariyle en az %50'sini teşkil eder)",
    "cekd": 0.03,
    "kokcek": 0.12,
-   "d_oran": 0.4,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 1
@@ -7229,7 +7731,8 @@
    "kanit_ornek": "Bu hükümler 19.02 pozisyonundaki doldurulmuş ürünler ile 21.03 veya 21.04 pozisyonlarında yer alan müstahzarlara uygulanmaz.",
    "cekd": 0.15,
    "kokcek": 0.13,
-   "d_oran": 0.25,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7243,7 +7746,8 @@
    "kanit_ornek": "Tamamen yağsız baz üzerinden hesaplanan ağırlık itibariyle %6'dan daha fazla olmayan oranda kakao ihtiva eden şişirilmiş veya kavrulmuş hububat (19.04 pozisyonu).",
    "cekd": 0.04,
    "kokcek": 0.11,
-   "d_oran": 0.4,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 3
@@ -7258,6 +7762,7 @@
    "cekd": 0.26,
    "kokcek": 0.23,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 18.06"
    ],
@@ -7273,7 +7778,8 @@
    "kanit_ornek": "Bunlar, 22.04 pozisyonundaki taze üzümden mamul şaraptan yapılır",
    "cekd": 0.08,
    "kokcek": 0.09,
-   "d_oran": 0.8,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 4
@@ -7288,6 +7794,7 @@
    "cekd": 0.23,
    "kokcek": 0.25,
    "d_oran": 0.4,
+   "kok_oran": 0.96,
    "ortak_madde": [],
    "esya": 0.23,
    "ortak_sik": 0
@@ -7296,12 +7803,13 @@
    "a": "T08-11",
    "b": "T17-02",
    "tur": "ARA",
-   "olcut": "abt",
+   "olcut": "abtk",
    "kanit": 0.92,
    "kanit_ornek": "Ağırlık itibariyle %15'den fazla fosfor içeren bakır fosfürler (bakır fosfor), 28.53 pozisyonuna girer.",
    "cekd": 0.5,
    "kokcek": 0.41,
    "d_oran": 1.0,
+   "kok_oran": 0.64,
    "ortak_madde": [],
    "esya": 1.0,
    "ortak_sik": 1
@@ -7315,7 +7823,8 @@
    "kanit_ornek": "% 80’DEN FAZLA PEYNİRALTI SUYU PROTEİNİ",
    "cekd": 0.09,
    "kokcek": 0.08,
-   "d_oran": 0.25,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7329,7 +7838,8 @@
    "kanit_ornek": "Çöp kutuları ve seyyar çöp kutuları (dışarıda kullanım için olanlar dahil) gibi ev eşyaları bu pozisyona dahil değildir.",
    "cekd": 0.03,
    "kokcek": 0.08,
-   "d_oran": 0.8,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.09,
    "ortak_sik": 4
@@ -7344,6 +7854,7 @@
    "cekd": 0.08,
    "kokcek": 0.09,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7358,6 +7869,7 @@
    "cekd": 0.0,
    "kokcek": 0.01,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7372,6 +7884,7 @@
    "cekd": 0.03,
    "kokcek": 0.03,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7386,6 +7899,7 @@
    "cekd": 0.04,
    "kokcek": 0.06,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 56.01"
    ],
@@ -7402,6 +7916,7 @@
    "cekd": 0.01,
    "kokcek": 0.03,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 65.05",
     "TGTC 65.07"
@@ -7418,7 +7933,8 @@
    "kanit_ornek": "1.- Bu fasıl, sadece, şekil verildikten sonra pişirilmiş seramik mamullerini kapsar.",
    "cekd": 0.09,
    "kokcek": 0.09,
-   "d_oran": 0.25,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
    "ortak_sik": 0
@@ -7433,6 +7949,7 @@
    "cekd": 0.28,
    "kokcek": 0.23,
    "d_oran": 0.18,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.19,
    "ortak_sik": 0
@@ -7447,6 +7964,7 @@
    "cekd": 0.06,
    "kokcek": 0.05,
    "d_oran": 0.26,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC fasıl 71 notu"
    ],
@@ -7463,6 +7981,7 @@
    "cekd": 0.0,
    "kokcek": 0.02,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.07,
    "ortak_sik": 0
@@ -7476,7 +7995,8 @@
    "kanit_ornek": "(B) 84.25 ilâ 84.30 pozisyonlarında yer alan makinalara ait aksam ve parçalar (84.31 pozisyonu).",
    "cekd": 0.05,
    "kokcek": 0.1,
-   "d_oran": 0.8,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.07,
    "ortak_sik": 4
@@ -7490,7 +8010,8 @@
    "kanit_ornek": "84.09 - SADECE VEYA ESAS İTİBARİYLE 84.07 VEYA 84.08 POZİSYONLARINDAKİ MOTORLARIN AKSAM VE PARÇALARI.",
    "cekd": 0.05,
    "kokcek": 0.23,
-   "d_oran": 0.6,
+   "d_oran": 0.0,
+   "kok_oran": 0.67,
    "ortak_madde": [],
    "esya": 0.28,
    "ortak_sik": 2
@@ -7504,7 +8025,8 @@
    "kanit_ornek": "84.08 - SIKIŞTIRMA İLE ATEŞLEMELİ İÇTEN YANMALI PİSTONLU MOTORLAR (DİZEL VEYA YARI DİZEL).",
    "cekd": 0.11,
    "kokcek": 0.1,
-   "d_oran": 0.6,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.05,
    "ortak_sik": 1
@@ -7518,7 +8040,8 @@
    "kanit_ornek": "Hububatın nemlendirilmesine mahsus makinalar (84.37 pozisyonu).",
    "cekd": 0.03,
    "kokcek": 0.09,
-   "d_oran": 0.8,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.07,
    "ortak_sik": 4
@@ -7533,6 +8056,7 @@
    "cekd": 0.05,
    "kokcek": 0.05,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 85.10"
    ],
@@ -7549,6 +8073,7 @@
    "cekd": 0.04,
    "kokcek": 0.08,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 85.10"
    ],
@@ -7564,7 +8089,8 @@
    "kanit_ornek": "85.01 ila 85.04 pozisyonlarına, 85.11, 85.12, 85.40, 85.41 veya 85.42 pozisyonlarında tarif edilen eşya dahil değildir.",
    "cekd": 0.16,
    "kokcek": 0.14,
-   "d_oran": 0.6,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 85.01",
     "TGTC 85.04",
@@ -7583,6 +8109,7 @@
    "cekd": 0.08,
    "kokcek": 0.06,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 85.05"
    ],
@@ -7599,6 +8126,7 @@
    "cekd": 0.07,
    "kokcek": 0.06,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 85.10"
    ],
@@ -7615,6 +8143,7 @@
    "cekd": 0.02,
    "kokcek": 0.03,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 1.0,
    "ortak_sik": 0
@@ -7629,6 +8158,7 @@
    "cekd": 0.0,
    "kokcek": 0.05,
    "d_oran": 0.31,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 85.23"
    ],
@@ -7644,7 +8174,8 @@
    "kanit_ornek": "87.07 - 87.01 İLA 87.05 POZİSYONLARINDA YER ALAN MOTORLU TAŞITLARIN KAROSERİLERİ (SÜRÜCÜ MAHALLERİ DAHİL).",
    "cekd": 0.06,
    "kokcek": 0.11,
-   "d_oran": 0.6,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.09,
    "ortak_sik": 1
@@ -7658,7 +8189,8 @@
    "kanit_ornek": "Vinçli iş kamyonları ve hidrolik ayaklı taşıyıcılar (84.26 pozisyonu)",
    "cekd": 0.06,
    "kokcek": 0.14,
-   "d_oran": 0.8,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC 87.09"
    ],
@@ -7675,6 +8207,7 @@
    "cekd": 0.04,
    "kokcek": 0.05,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC fasıl 91 notu"
    ],
@@ -7691,6 +8224,7 @@
    "cekd": 0.08,
    "kokcek": 0.15,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC fasıl 92 notu"
    ],
@@ -7707,6 +8241,7 @@
    "cekd": 0.0,
    "kokcek": 0.06,
    "d_oran": 0.17,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC fasıl 94 notu"
    ],
@@ -7723,6 +8258,7 @@
    "cekd": 0.1,
    "kokcek": 0.15,
    "d_oran": 0.17,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC fasıl 94 notu"
    ],
@@ -7739,6 +8275,7 @@
    "cekd": 0.0,
    "kokcek": 0.06,
    "d_oran": 0.42,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC fasıl 94 notu"
    ],
@@ -7755,6 +8292,7 @@
    "cekd": 0.0,
    "kokcek": 0.07,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC fasıl 97 notu"
    ],
@@ -7771,6 +8309,7 @@
    "cekd": 0.06,
    "kokcek": 0.12,
    "d_oran": 0.33,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC fasıl 97 notu"
    ],
@@ -7787,6 +8326,7 @@
    "cekd": 0.0,
    "kokcek": 0.06,
    "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "TGTC fasıl 97 notu"
    ],
@@ -7798,191 +8338,208 @@
   {
    "gm": "M03-02",
    "gmy": "SB30-10",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.98,
    "d_oran": 1.0,
    "ortak_sik": 3,
-   "cekd": 0.83,
    "kokd": 0.88
   },
   {
    "gm": "M05-05",
    "gmy": "SB03-10",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.9,
    "d_oran": 0.97,
-   "ortak_sik": 0,
-   "cekd": 0.51,
+   "ortak_sik": 1,
    "kokd": 0.9
+  },
+  {
+   "gm": "M11-05",
+   "gmy": "SB41-19",
+   "tur": "BİREBİR",
+   "kok_oran": 0.57,
+   "d_oran": 0.92,
+   "ortak_sik": 3,
+   "kokd": 0.41
   },
   {
    "gm": "M17-01",
    "gmy": "SB19-05",
-   "birebir": false,
+   "tur": "BİREBİR",
    "kok_oran": 0.52,
    "d_oran": 0.96,
-   "ortak_sik": 0,
-   "cekd": 0.55,
+   "ortak_sik": 5,
    "kokd": 0.44
   },
   {
    "gm": "M19-05",
    "gmy": "SB24-20",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.64,
    "d_oran": 1.0,
    "ortak_sik": 3,
-   "cekd": 0.66,
    "kokd": 0.6
   },
   {
    "gm": "M19-06",
    "gmy": "SB26-05",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.45,
    "d_oran": 1.0,
    "ortak_sik": 4,
-   "cekd": 0.36,
    "kokd": 0.4
+  },
+  {
+   "gm": "M21-05",
+   "gmy": "SB27-02",
+   "tur": "KÖK-ÇELDİRİCİ",
+   "kok_oran": 0.88,
+   "d_oran": 0.52,
+   "ortak_sik": 3,
+   "kokd": 0.49
   },
   {
    "gm": "M25-04",
    "gmy": "SB31-20",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.56,
    "d_oran": 1.0,
-   "ortak_sik": 2,
-   "cekd": 0.69,
+   "ortak_sik": 3,
    "kokd": 0.42
   },
   {
    "gm": "M26-01",
    "gmy": "SB33-04",
-   "birebir": false,
+   "tur": "BİREBİR",
    "kok_oran": 0.66,
-   "d_oran": 0.82,
-   "ortak_sik": 0,
-   "cekd": 0.45,
+   "d_oran": 1.0,
+   "ortak_sik": 5,
    "kokd": 0.47
   },
   {
    "gm": "M28-09",
    "gmy": "SB34-11",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.88,
    "d_oran": 0.97,
-   "ortak_sik": 0,
-   "cekd": 0.74,
+   "ortak_sik": 3,
    "kokd": 0.86
+  },
+  {
+   "gm": "M30-05",
+   "gmy": "SB31-19",
+   "tur": "BİREBİR",
+   "kok_oran": 0.58,
+   "d_oran": 0.85,
+   "ortak_sik": 3,
+   "kokd": 0.49
   },
   {
    "gm": "M33-01",
    "gmy": "SB38-09",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.83,
    "d_oran": 0.89,
-   "ortak_sik": 0,
-   "cekd": 0.59,
+   "ortak_sik": 3,
    "kokd": 0.68
   },
   {
    "gm": "M35-01",
    "gmy": "SB37-14",
-   "birebir": false,
+   "tur": "KÖK-ÇELDİRİCİ",
    "kok_oran": 0.86,
    "d_oran": 0.57,
    "ortak_sik": 4,
-   "cekd": 0.72,
    "kokd": 0.51
   },
   {
    "gm": "M35-12",
    "gmy": "SB37-06",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.77,
    "d_oran": 0.84,
-   "ortak_sik": 0,
-   "cekd": 0.55,
+   "ortak_sik": 1,
    "kokd": 0.52
   },
   {
-   "gm": "M38-01",
-   "gmy": "SB42-05",
-   "birebir": false,
-   "kok_oran": 0.69,
-   "d_oran": 0.4,
+   "gm": "M37-06",
+   "gmy": "SB40-06",
+   "tur": "KÖK-ÇELDİRİCİ",
+   "kok_oran": 1.0,
+   "d_oran": 0.44,
    "ortak_sik": 3,
-   "cekd": 0.24,
-   "kokd": 0.36
+   "kokd": 0.64
   },
   {
    "gm": "M38-03",
    "gmy": "SB42-14",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.86,
    "d_oran": 1.0,
    "ortak_sik": 3,
-   "cekd": 0.47,
    "kokd": 1.0
   },
   {
    "gm": "M38-08",
    "gmy": "SB42-13",
-   "birebir": false,
+   "tur": "BİREBİR",
    "kok_oran": 0.72,
    "d_oran": 0.86,
-   "ortak_sik": 0,
-   "cekd": 0.52,
+   "ortak_sik": 1,
    "kokd": 0.71
   },
   {
    "gm": "M38-09",
    "gmy": "SB42-17",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.9,
    "d_oran": 0.9,
-   "ortak_sik": 0,
-   "cekd": 0.37,
+   "ortak_sik": 2,
    "kokd": 0.81
   },
   {
    "gm": "M38-10",
    "gmy": "SB42-16",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.96,
    "d_oran": 1.0,
-   "ortak_sik": 3,
-   "cekd": 0.36,
+   "ortak_sik": 4,
    "kokd": 0.9
   },
   {
    "gm": "M41-07",
    "gmy": "SB46-08",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.68,
    "d_oran": 0.85,
-   "ortak_sik": 1,
-   "cekd": 0.67,
+   "ortak_sik": 3,
    "kokd": 0.56
   },
   {
    "gm": "M43-01",
    "gmy": "SB48-03",
-   "birebir": true,
+   "tur": "BİREBİR",
    "kok_oran": 0.7,
    "d_oran": 1.0,
    "ortak_sik": 1,
-   "cekd": 1.0,
    "kokd": 0.7
+  },
+  {
+   "gm": "M43-12",
+   "gmy": "SB48-08",
+   "tur": "KÖK-ÇELDİRİCİ",
+   "kok_oran": 0.95,
+   "d_oran": 0.37,
+   "ortak_sik": 3,
+   "kokd": 0.46
   },
   {
    "gm": "M45-05",
    "gmy": "SB52-04",
-   "birebir": false,
+   "tur": "KÖK-ÇELDİRİCİ",
    "kok_oran": 0.94,
    "d_oran": 0.52,
    "ortak_sik": 3,
-   "cekd": 0.3,
    "kokd": 0.61
   }
  ]

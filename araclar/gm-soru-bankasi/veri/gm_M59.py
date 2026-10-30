@@ -3,11 +3,11 @@
 K = "59-tpkk-doviz-nakit.txt"
 KAN = "1567 sayılı Türk Parası Kıymetini Koruma Hakkında Kanun"
 KAR = "Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karar"
-TEB = "Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karara İlişkin Tebliğ (Tebliğ No: 2008-32-34)"
+TEB = "Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karara İlişkin Tebliğ (Tebliğ No: 2008-32/34)"
 TEB48 = (
     "32 sayılı Karara İlişkin İhracat Bedelleri Hakkında Tebliğ (Tebliğ No: 2018-32-48)"
 )
-NKG = "1567 sayılı Kanun ve 5549 sayılı Kanun çerçevesinde gümrük giriş-çıkış noktalarında uygulanan Nakit Kontrolleri Genelgesine (2024/1)"
+NKG = "Gümrük giriş-çıkış noktalarında uygulanan Nakit Kontrolleri Genelgesine (2024/1)"
 
 
 def s(**k):
@@ -164,7 +164,7 @@ Q = [
     s(
         kalip="SÜRE",
         z="O",
-        madde="32 sayılı Karar md. 13; 2008-32-34 sayılı Tebliğ md. 10",
+        madde="32 sayılı Karar md. 13; 2008-32/34 sayılı Tebliğ md. 10",
         cek="Bankalar ve gümrük idareleri sermaye ihraç edenleri her işlemden itibaren 30 gün içinde HMB ve Ticaret Bakanlığına bildirir; kişinin kendi bilgi formu üç ay.",
         kok=[
             f"{KAR}a göre bankalar ve gümrük idareleri, yurt dışında yatırım veya ticari faaliyette bulunmak üzere sermaye ihraç eden Türkiye'de yerleşik kişileri hangi süre içinde ve hangi kurumlara bildirir?"
@@ -176,7 +176,7 @@ Q = [
             "Her takvim yılını müteakip üç ay içinde yalnız Ticaret Bakanlığına",
             "Her bir işlem tarihinden itibaren 10 gün içinde Hazine ve Maliye Bakanlığı Kamu Finansmanı Genel Müdürlüğüne",
         ],
-        g="32 sayılı Karara göre Türkiye'de yerleşik kişilerin yurt dışında şirket kurmaları, ortaklığa katılmaları ve şube açmaları için nakdi sermayeyi bankalar aracılığıyla, ayni sermayeyi gümrük mevzuatı hükümleri çerçevesinde ihraç etmeleri serbesttir. Bankalar ve gümrük idareleri sermaye ihraç eden bu kişileri her bir işlem tarihinden itibaren 30 gün içinde Hazine ve Maliye Bakanlığı ile Ticaret Bakanlığına bildirir. Üç aylık süreler sermayeyi ihraç eden kişinin kendi yükümlülüğüdür: Tebliğe göre kişi ilk sermaye ihracını müteakip üç ay içinde bilgi formunu iki Bakanlığa gönderir, her takvim yılını müteakip üç ay içinde formu güncelleyerek Ticaret Bakanlığına gönderir. On günlük süre ise kamu kurum ve kuruluşlarının dış kredi kullanım ve geri ödeme bilgilerinin Kamu Finansmanı Genel Müdürlüğüne gönderilmesine aittir. En güçlü tuzak ilk sermaye ihracını müteakip üç aylık süredir: kurumlar doğrudur, ancak süre ve yükümlü farklıdır. Bu nedenle doğru cevap 'Her bir işlem tarihinden itibaren 30 gün içinde Hazine ve Maliye Bakanlığı ile Ticaret Bakanlığına' seçeneğidir. (MD 32 sayılı Karar md. 13; 2008-32-34 sayılı Tebliğ md. 10)",
+        g="32 sayılı Karara göre Türkiye'de yerleşik kişilerin yurt dışında şirket kurmaları, ortaklığa katılmaları ve şube açmaları için nakdi sermayeyi bankalar aracılığıyla, ayni sermayeyi gümrük mevzuatı hükümleri çerçevesinde ihraç etmeleri serbesttir. Bankalar ve gümrük idareleri sermaye ihraç eden bu kişileri her bir işlem tarihinden itibaren 30 gün içinde Hazine ve Maliye Bakanlığı ile Ticaret Bakanlığına bildirir. Üç aylık süreler sermayeyi ihraç eden kişinin kendi yükümlülüğüdür: Tebliğe göre kişi ilk sermaye ihracını müteakip üç ay içinde bilgi formunu iki Bakanlığa gönderir, her takvim yılını müteakip üç ay içinde formu güncelleyerek Ticaret Bakanlığına gönderir. On günlük süre ise kamu kurum ve kuruluşlarının dış kredi kullanım ve geri ödeme bilgilerinin Kamu Finansmanı Genel Müdürlüğüne gönderilmesine aittir. En güçlü tuzak ilk sermaye ihracını müteakip üç aylık süredir: kurumlar doğrudur, ancak süre ve yükümlü farklıdır. Bu nedenle doğru cevap 'Her bir işlem tarihinden itibaren 30 gün içinde Hazine ve Maliye Bakanlığı ile Ticaret Bakanlığına' seçeneğidir. (MD 32 sayılı Karar md. 13; 2008-32/34 sayılı Tebliğ md. 10)",
         kanit=f"{K} | Bankalar ve gümrük idareleri yurt dışında yatırım veya ticari faaliyette bulunmak üzere SERMAYE İHRAÇ EDEN || {K} | her bir işlem tarihinden itibaren 30 GÜN içinde Hazine ve Maliye Bakanlığı ve Ticaret || {K} | AYNİ SERMAYEYİ ise gümrük mevzuatı hükümleri çerçevesinde İHRAÇ ETMELERİ SERBESTTİR. || {K} | yaptıkları ilk nakdi ve/veya ayni sermaye ihracını müteakip ÜÇ (3) AY İÇİNDE || {K} | HER TAKVİM YILINI MÜTEAKİP ÜÇ (3) AY İÇİNDE || {K} | gerçekleşme tarihinden itibaren 10 gün içinde bankalar ile kredi borçlusu",
         yuva=[
             "Süre doğru, kurum yanlış (Merkez Bankası)",
@@ -225,7 +225,7 @@ Q = [
     s(
         kalip="KAPSAM_DIŞI",
         z="Z",
-        madde="2008-32-34 sayılı Tebliğ md. 8",
+        madde="2008-32/34 sayılı Tebliğ md. 8",
         cek="Yerleşikler arası yurt içi gayrimenkul satış ve kiralamada döviz bedel yasak; taşıt dışı menkul satışı, dövizli maliyetli eser, yazılım, gümrüksüz mağaza kirası istisna.",
         kok=[
             f"{TEB} hükümlerine göre, Türkiye'de yerleşik ve Türk vatandaşı olan kişilerin kendi aralarında akdettikleri aşağıdaki sözleşmelerden hangisinde sözleşme bedelinin döviz cinsinden veya dövize endeksli olarak kararlaştırılması mümkün değildir?"
@@ -237,7 +237,7 @@ Q = [
             "Yurt dışında üretilen yazılımlara ilişkin satış sözleşmesi",
             "Gümrüksüz satış mağazasının kiralanmasına ilişkin gayrimenkul kiralama sözleşmesi",
         ],
-        g="32 sayılı Karar Türkiye'de yerleşik kişilerin kendi aralarındaki sözleşmelerde bedelin döviz cinsinden veya dövize endeksli kararlaştırılmasını Bakanlıkça belirlenen haller dışında yasaklar; Tebliğ bu halleri sayar. Konusu yurt içindeki gayrimenkuller olan, konut ve çatılı iş yeri dâhil gayrimenkul satış ve kiralama sözleşmelerinde döviz bedel kararlaştırılamaz; bu yasağın istisnaları vatandaşlık bağı bulunmayan alıcı veya kiracılar, belgeli konaklama tesislerinin işletilmek üzere kiralanması ve gümrüksüz satış mağazalarının kiralanmasıdır. Taşıt satışı dışındaki menkul satış sözleşmeleri, döviz cinsinden maliyet içeren eser sözleşmeleri ve yurt dışında üretilen yazılımlara ilişkin satış sözleşmelerinde ise döviz bedel kararlaştırılabilir. Soruda taraflar Türk vatandaşı olduğundan ve konut kiralaması bu istisnalardan hiçbirine girmediğinden döviz bedel mümkün değildir. En güçlü tuzak gümrüksüz satış mağazası kirasıdır: gayrimenkul kiralaması olduğu için yasak kapsamında sanılır, oysa Tebliğde açıkça istisna edilmiştir. Bu nedenle doğru cevap 'Konusu yurt içinde yer alan bir konut olan gayrimenkul kiralama sözleşmesi' seçeneğidir. (MD 2008-32-34 sayılı Tebliğ md. 8)",
+        g="32 sayılı Karar Türkiye'de yerleşik kişilerin kendi aralarındaki sözleşmelerde bedelin döviz cinsinden veya dövize endeksli kararlaştırılmasını Bakanlıkça belirlenen haller dışında yasaklar; Tebliğ bu halleri sayar. Konusu yurt içindeki gayrimenkuller olan, konut ve çatılı iş yeri dâhil gayrimenkul satış ve kiralama sözleşmelerinde döviz bedel kararlaştırılamaz; bu yasağın istisnaları vatandaşlık bağı bulunmayan alıcı veya kiracılar, belgeli konaklama tesislerinin işletilmek üzere kiralanması ve gümrüksüz satış mağazalarının kiralanmasıdır. Taşıt satışı dışındaki menkul satış sözleşmeleri, döviz cinsinden maliyet içeren eser sözleşmeleri ve yurt dışında üretilen yazılımlara ilişkin satış sözleşmelerinde ise döviz bedel kararlaştırılabilir. Soruda taraflar Türk vatandaşı olduğundan ve konut kiralaması bu istisnalardan hiçbirine girmediğinden döviz bedel mümkün değildir. En güçlü tuzak gümrüksüz satış mağazası kirasıdır: gayrimenkul kiralaması olduğu için yasak kapsamında sanılır, oysa Tebliğde açıkça istisna edilmiştir. Bu nedenle doğru cevap 'Konusu yurt içinde yer alan bir konut olan gayrimenkul kiralama sözleşmesi' seçeneğidir. (MD 2008-32/34 sayılı Tebliğ md. 8)",
         kanit=f"{K} | çatılı iş yeri dâhil gayrimenkul kiralama sözleşmelerinde sözleşme bedelini || {K} | Gümrüksüz satış mağazalarının kiralanmasına ilişkin gayrimenkul kiralama sözleşmelerinde || {K} | TAŞIT SATIŞ SÖZLEŞMELERİ DIŞINDA kalan menkul satış || {K} | döviz cinsinden maliyet içeren eser sözleşmelerinde || {K} | yazılımlara ilişkin satış sözleşmeleri ile yurt dışında üretilen donanım || {K} | Kültür ve Turizm Bakanlığından belgeli konaklama tesislerinin işletilmesi amacıyla kiralanmasıyla ilgili gayrimenkul",
         yuva=[
             "Tebliğ istisnası: taşıt dışı menkul satışı",
@@ -286,7 +286,7 @@ Q = [
     s(
         kalip="ORAN-TUTAR",
         z="O",
-        madde="2008-32-34 sayılı Tebliğ md. 6",
+        madde="2008-32/34 sayılı Tebliğ md. 6",
         cek="DİR kapsamında aracı kuruluş olmayan yerleşikler her ithalatta en fazla 40 kg standart işlenmemiş altın veya 200 kg gümüş ithal edebilir.",
         kok=[
             f"{TEB} hükümlerine göre, Dahilde İşleme Rejimi Kararı kapsamında kıymetli madenler aracı kuruluşu olmayan Türkiye'de yerleşik kişilerce her bir ithalat işleminde ithal edilebilecek standart işlenmemiş altın ve gümüş miktarının üst sınırları aşağıdakilerden hangisinde doğru verilmiştir?"
@@ -298,7 +298,7 @@ Q = [
             "Altın 200 kilogram, gümüş 40 kilogram",
             "Altın 50 kilogram, gümüş 200 kilogram",
         ],
-        g="Tebliğe göre Dahilde İşleme Rejimi Kararı kapsamında, kıymetli madenler aracı kuruluşu olmayan Türkiye'de yerleşik kişilerce her bir ithalat işleminde 40 kilogramı aşmamak üzere standart işlenmemiş altın veya 200 kilogramı aşmamak üzere standart işlenmemiş gümüş ithal edilebilir. Bu ithalatta ithalatçı, standart işlenmemiş kıymetli madenin formunu (külçe, bar, granül), cinsini, ağırlığını, adedini, rafinerisini ve rafineri ülkesini gümrük idaresine beyan etmek zorundadır. Beş kilogram, Dahilde İşleme Rejimi kapsamındaki standart dışı kıymetli maden ithalatında özel ayar evlerince düzenlenen ayar raporlarının kabul edilebildiği üst sınırdır. En güçlü tuzak altın ve gümüş sınırlarının yer değiştirdiği seçenektir: iki sayı doğrudur, fakat madenlere ters bağlanmıştır. Bu nedenle doğru cevap 'Altın 40 kilogram, gümüş 200 kilogram' seçeneğidir. (MD 2008-32-34 sayılı Tebliğ md. 6)",
+        g="Tebliğe göre Dahilde İşleme Rejimi Kararı kapsamında, kıymetli madenler aracı kuruluşu olmayan Türkiye'de yerleşik kişilerce her bir ithalat işleminde 40 kilogramı aşmamak üzere standart işlenmemiş altın veya 200 kilogramı aşmamak üzere standart işlenmemiş gümüş ithal edilebilir. Bu ithalatta ithalatçı, standart işlenmemiş kıymetli madenin formunu (külçe, bar, granül), cinsini, ağırlığını, adedini, rafinerisini ve rafineri ülkesini gümrük idaresine beyan etmek zorundadır. Beş kilogram, Dahilde İşleme Rejimi kapsamındaki standart dışı kıymetli maden ithalatında özel ayar evlerince düzenlenen ayar raporlarının kabul edilebildiği üst sınırdır. En güçlü tuzak altın ve gümüş sınırlarının yer değiştirdiği seçenektir: iki sayı doğrudur, fakat madenlere ters bağlanmıştır. Bu nedenle doğru cevap 'Altın 40 kilogram, gümüş 200 kilogram' seçeneğidir. (MD 2008-32/34 sayılı Tebliğ md. 6)",
         kanit=f"{K} | 40 KİLOGRAMI AŞMAMAK üzere standart işlenmemiş ALTIN veya 200 KİLOGRAMI AŞMAMAK üzere || {K} | DAHİLDE İŞLEME REJİMİ KARARI KAPSAMINDA, kıymetli madenler aracı kuruluşu olmayan Türkiye'de yerleşik || {K} | BEŞ (5) KİLOGRAMA KADAR olan || {K} | STANDART İŞLENMEMİŞ KIYMETLİ MADENİN FORMU (külçe/bar/granül), külçe/bar cinsi, ağırlığı, adedi, rafinerisi, rafineri",
         yuva=[
             "Ayar raporundaki 5 kg sınırıyla karıştırma",
@@ -317,7 +317,7 @@ Q = [
     s(
         kalip="ÖNERMELİ",
         z="Z",
-        madde="2008-32-34 sayılı Tebliğ md. 6",
+        madde="2008-32/34 sayılı Tebliğ md. 6",
         cek="İşlenmemiş: yalnız peşin, mal mukabili, bedelsiz; işlenmiş: vesaik mukabili ve vadeli akreditif dahil; standart dışı ithalde ayar raporu; mahsupta fiili ihracat önce.",
         kok=[
             f"{TEB} hükümlerine göre kıymetli madenlerin ithalatı hakkında;",
@@ -338,7 +338,7 @@ Q = [
             "I, II ve IV",
             "I, III, IV ve V",
         ],
-        g="Tebliğe göre işlenmemiş kıymetli madenlerin yalnızca peşin, mal mukabili ve bedelsiz ödeme şekilleri ile ithalatı mümkündür; vadeli akreditifli ödeme bu sayımda yoktur (I yanlış). İşlenmiş kıymetli madenlerin ise peşin, mal mukabili, vadeli akreditifli, kabul kredili, vesaik mukabili ve bedelsiz ödeme şekilleriyle ithalatı mümkündür (II yanlış). Standart dışı işlenmemiş kıymetli madenlerin ithalinde gümrük idarelerine ayar raporu ibrazı zorunludur ve bu rapor kural olarak yalnız Darphane ve Damga Matbaası Genel Müdürlüğünce düzenlenir (III doğru). Kamu kurum ve kuruluşları ile Türk Silahlı Kuvvetlerini Güçlendirme Vakfı şirketlerince standart dışı işlenmemiş kıymetli maden ithal edilebilir (IV doğru). İhracat bedellerinden mahsup edilmek üzere aracı kuruluşlar aracılığıyla bedelsiz ithalatta, mahsup edilecek bedele ilişkin fiili ihracatın kıymetli madenlerin ithalinden önce gerçekleştirilmiş olması zorunludur (V doğru). En güçlü tuzak I. önermedir: vadeli akreditifli ödeme işlenmiş kıymetli madenler için sayıldığından işlenmemişlere de uygulanabileceği sanılır. Bu nedenle doğru cevap 'III, IV ve V' seçeneğidir. (MD 2008-32-34 sayılı Tebliğ md. 6)",
+        g="Tebliğe göre işlenmemiş kıymetli madenlerin yalnızca peşin, mal mukabili ve bedelsiz ödeme şekilleri ile ithalatı mümkündür; vadeli akreditifli ödeme bu sayımda yoktur (I yanlış). İşlenmiş kıymetli madenlerin ise peşin, mal mukabili, vadeli akreditifli, kabul kredili, vesaik mukabili ve bedelsiz ödeme şekilleriyle ithalatı mümkündür (II yanlış). Standart dışı işlenmemiş kıymetli madenlerin ithalinde gümrük idarelerine ayar raporu ibrazı zorunludur ve bu rapor kural olarak yalnız Darphane ve Damga Matbaası Genel Müdürlüğünce düzenlenir (III doğru). Kamu kurum ve kuruluşları ile Türk Silahlı Kuvvetlerini Güçlendirme Vakfı şirketlerince standart dışı işlenmemiş kıymetli maden ithal edilebilir (IV doğru). İhracat bedellerinden mahsup edilmek üzere aracı kuruluşlar aracılığıyla bedelsiz ithalatta, mahsup edilecek bedele ilişkin fiili ihracatın kıymetli madenlerin ithalinden önce gerçekleştirilmiş olması zorunludur (V doğru). En güçlü tuzak I. önermedir: vadeli akreditifli ödeme işlenmiş kıymetli madenler için sayıldığından işlenmemişlere de uygulanabileceği sanılır. Bu nedenle doğru cevap 'III, IV ve V' seçeneğidir. (MD 2008-32/34 sayılı Tebliğ md. 6)",
         kanit=f"{K} | İŞLENMEMİŞ kıymetli madenlerin yalnızca ... PEŞİN ... MAL MUKABİLİ ... ödeme şekilleri ile ithalatı || {K} | İŞLENMİŞ kıymetli madenlerin ... VADELİ AKREDİTİFLİ ... KABUL KREDİLİ ... VESAİK || {K} | Standart dışı işlenmemiş kıymetli madenlerin ithalinde Gümrük İdarelerine ayar raporu ibraz edilmesi zorunlu || {K} | Türk Silahlı Kuvvetlerini Güçlendirme Vakfı şirketlerince standart dışı işlenmemiş || {K} | mahsup edilecek bedele ilişkin fiili ihracatın kıymetli madenlerin ithal edilmesinden önce || {K} | AYAR RAPORLARI yalnızca Darphane ve Damga Matbaası Genel Müdürlüğünce düzenlenebilir.",
         yuva=[
             "I ve II: ödeme şekli listelerini ters bilen aday",
@@ -453,7 +453,7 @@ Q = [
         madde="İthalat Genelgesi 2020/1 md. 3, 5, 6",
         cek="İthalat bedeli için bankalarca çek düzenlenemez; ihracatçının Türkiye'deki hesabına ödenebilir; mal mukabilinde beyanname tarih-numarası; faktoring peşin sayılır; transit ticaret ithalat kurallarıyla.",
         kok=[
-            f"{KAR} çerçevesinde Hazine ve Maliye Bakanlığınca yayımlanan İthalat Genelgesine (2020/1) göre ithalat bedellerinin ödenmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+            "Hazine ve Maliye Bakanlığınca yayımlanan İthalat Genelgesine (2020/1) göre ithalat bedellerinin ödenmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
         ],
         d="İthalat bedelinin ödenmesini teminen bankalarca çek düzenlenebilir.",
         c=[
@@ -525,7 +525,7 @@ Q = [
         madde="Nakit Kontrolleri Genelgesi 2024/1 bölüm 3; 5549 sayılı Kanun md. 16",
         cek="Açıklama istenen yolcu yanlış açıklarsa açıklanmayan miktarın %10'u idari para cezası; tüm nakit muhafazaya alınır, tutanak MASAK'a gönderilir.",
         kok=[
-            "5549 sayılı Kanun ve Nakit Kontrolleri Genelgesine (2024/1) göre aşağıdaki bilgiler veriliyor:",
+            "Nakit Kontrolleri Genelgesi (2024/1) ve 5549 sayılı Kanuna göre aşağıdaki bilgiler veriliyor:",
             "- Yurt dışına çıkmak üzere gümrük kapısına gelen bir yolcudan, gümrük idaresince beraberindeki nakdin miktarını açıklaması istenmiştir.",
             "- Yolcu beraberinde 12.000 Avro bulunduğunu açıklamış; yapılan kontrolde 40.000 Avro taşıdığı tespit edilmiştir.",
             "Buna göre gümrük idaresince uygulanacak idari para cezası kaç Avro tutarındadır?",

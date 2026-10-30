@@ -58,11 +58,11 @@ Q = [
         kalip="KAPSAM_DIŞI",
         z="O",
         madde=f"{T} md. 14",
-        cek="İzin kapsamı: tekstil yardımcı maddeleri (temel tekstil hammaddeleri hariç), kıymetli maden işçiliği, fide-kesme çiçek, filmaşin-çivi, rulo sac-kesilmiş sac.",
+        cek="İzin kapsamı: tekstil yardımcı maddeleri (tekstil ve deri kimyasalları hariç), kıymetli maden işçiliği, fide-kesme çiçek, filmaşin-çivi, rulo sac-kesilmiş sac.",
         kok=[
             f"{T}'ne göre gümrük idaresince verilen dahilde işleme izni kapsamında ithaline izin verilen işlemler arasında aşağıdakilerden hangisi yer almaz?"
         ],
-        d="Elyaf, iplik ve ham mensucat gibi temel tekstil hammaddelerinin ithalatını müteakip ihraç ürünlerinin elde edilmesinde kullanılması",
+        d="Tekstil ve deri kimyasal maddelerinin yardımcı madde olarak ithalatını müteakip ihraç ürünlerinin elde edilmesinde kullanılması",
         c=[
             "Tela, etiket, düğme ve fermuar gibi yardımcı maddelerin ithalatını müteakip ihraç ürünlerinin elde edilmesinde kullanılması",
             "Fide ithalatını müteakip ihraç edilmek üzere kesme çiçek yetiştirilmesi",
@@ -70,7 +70,7 @@ Q = [
             "Rulo sacın ithalatını müteakip ihraç edilmek üzere kesilmiş sac elde edilmesinde kullanılması",
         ],
         sirali=False,
-        g="Dahilde İşleme Rejimi Tebliği, gümrük idaresince verilen dahilde işleme izni kapsamında ithaline izin verilecek işlemleri sayar. Tekstil alanında izin yalnız yardımcı maddeler için verilir: elyaf, iplik, ham ve mamul mensucat (astar dahil) gibi temel tekstil hammaddeleri ile tekstil ve deri kimyasal maddeleri dışında kalan tela, etiket, düğme, fermuar, çıtçıt ve benzeri yardımcı maddelerin ithalatını müteakip ihraç ürünlerinde kullanılması izin kapsamındadır. Temel tekstil hammaddeleri bu bentten açıkça dışlanmıştır; bunlar için izin belgesi yoluna gidilir. Fide ithalatını müteakip kesme çiçek yetiştirilmesi, çelik filmaşinden çivi ve sıcak çekme siyah tel üretimi ve rulo sacdan kesilmiş sac elde edilmesi ise listede ayrı bentler olarak yer alır. En güçlü tuzak tela, etiket ve düğme gibi yardımcı maddeler seçeneğidir: tekstil ürünü oldukları için dışlandıkları sanılır, oysa dışlanan temel tekstil hammaddeleridir. Bu nedenle doğru cevap 'Elyaf, iplik ve ham mensucat gibi temel tekstil hammaddelerinin ithalatını müteakip ihraç ürünlerinin elde edilmesinde kullanılması' seçeneğidir. (MD DİRT 14)",
+        g="Dahilde İşleme Rejimi Tebliği, gümrük idaresince verilen dahilde işleme izni kapsamında ithaline izin verilecek işlemleri tek tek sayar. Tekstil alanındaki bent, elyaf, iplik, ham ve mamul mensucat (astar dahil) gibi temel tekstil hammaddeleri ile tekstil ve deri kimyasal maddeleri dışında kalan yardımcı maddelerin (tela, etiket, düğme, fermuar, çıtçıt, rivet, askı, kuşgözü, şerit, kordela, lastik vb.) ithalatını müteakip ihraç ürünlerinin elde edilmesinde kullanılmasını izin kapsamına alır; tekstil ve deri kimyasal maddeleri bu bentte açıkça dışarıda bırakılmıştır. Fide ithalatını müteakip kesme çiçek yetiştirilmesi, çelik filmaşinden çivi ve sıcak çekme siyah tel üretimi ve rulo sacdan kesilmiş sac elde edilmesi ise listede ayrı bentler olarak yer alır. En güçlü tuzak tela, etiket, düğme ve fermuar gibi yardımcı maddeler seçeneğidir: tekstil ürünü oldukları için kapsam dışı sanılır, oysa bent tam da bu yardımcı maddeleri sayar; dışarıda bırakılan kimyasal maddelerdir. Bu nedenle doğru cevap 'Tekstil ve deri kimyasal maddelerinin yardımcı madde olarak ithalatını müteakip ihraç ürünlerinin elde edilmesinde kullanılması' seçeneğidir. (MD DİRT 14)",
         kanit=f"{K} | a) Elyaf, iplik, ham ve mamul mensucat (astar dahil) gibi temel tekstil hammaddeleri ile tekstil ve deri kimyasal maddeleri dışında kalan yardımcı maddelerin (tela, etiket, düğme, fermuar, çıtçıt, rivet, askı, kuşgözü, şerit, kordela, lastik vb.) ithalatını müteakip, ihraç ürünlerinin elde edilmesinde kullanılması, || {K} | g) Fide ithalatını müteakip, ihraç edilmek üzere kesme çiçek yetiştirilmesi, || {K} | ğ) Çelik filmaşin ithalatını müteakip, ihraç edilmek üzere çivi ve sıcak çekme siyah tel üretimi, || {K} | h) Rulo sacın ithalatını müteakip, ihraç edilmek üzere kesilmiş sac elde edilmesinde kullanılması,",
         yuva=[
             "İzin kapsamı (a) bendi: tekstil yardımcı maddeleri",

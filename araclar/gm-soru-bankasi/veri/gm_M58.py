@@ -29,7 +29,7 @@ Q = [
         madde="İthalatta Korunma Önlemleri Hakkında Karar (2004/7305) md. 5; Yönetmelik md. 9",
         cek="Korunma önlemi alınırsa teminat Hazineye irat; önlem geçiciden düşükse fark iade, yüksekse fark tahsil edilmez; önleme gerek yoksa teminat iade.",
         kok=[
-            "İthalatta Korunma Önlemleri Hakkında Karara göre, gümrük vergisinde artış şeklinde uygulanan geçici korunma önlemi sırasında aradaki fark teminata bağlanmış ve soruşturma sonucunda alınan korunma önlemi geçici korunma önleminden daha düşük belirlenmişse aşağıdakilerden hangisi uygulanır?"
+            "2004/7305 sayılı İthalatta Korunma Önlemleri Hakkında Karara göre, gümrük vergisinde artış şeklinde uygulanan geçici korunma önlemi sırasında aradaki fark teminata bağlanmış ve soruşturma sonucunda alınan korunma önlemi geçici korunma önleminden daha düşük belirlenmişse aşağıdakilerden hangisi uygulanır?"
         ],
         d="Teminata bağlanan tutar Hazineye irat kaydedilir; aradaki fark ilgiliye iade edilir.",
         c=[
@@ -126,7 +126,7 @@ Q = [
         madde="İthalatta Gözetim Uygulaması Hakkında Karar (2004/7304) md. 4; Yönetmelik md. 3, 4",
         cek="Gözetim ileriye yönelik (belgeyle) veya geçmişe dönük; belge 10 işgününde ücretsiz, devredilemez; %5'e kadar aşım engel değil, Genel Müdürlük %10'a kadar oran belirleyebilir.",
         kok=[
-            "İthalatta Gözetim Uygulaması Hakkında Karar ve İthalatta Gözetim Uygulanması Yönetmeliğine göre gözetim uygulaması ve gözetim belgesi hakkında aşağıdakilerden hangisi yanlıştır?"
+            "2004/7304 sayılı İthalatta Gözetim Uygulaması Hakkında Karar ve İthalatta Gözetim Uygulanması Yönetmeliğine göre gözetim uygulaması ve gözetim belgesi hakkında aşağıdakilerden hangisi yanlıştır?"
         ],
         d="Gözetim belgesi, belge sahibinin yazılı muvafakatiyle üçüncü kişilere devredilebilir.",
         c=[
@@ -186,7 +186,7 @@ Q = [
         madde="İthalatta Korunma Önlemleri Hakkında Karar (2004/7305) md. 4; Yönetmelik md. 4",
         cek="Korunma Kurulu: soruşturma başlatma, geri çekmede devam, geçici ve kesin önlem türü-süresi, yürürlükteki önlemler, CK önerisi; soruşturmayı Genel Müdürlük yürütür.",
         kok=[
-            "İthalatta Korunma Önlemleri Hakkında Karar ve Yönetmeliğe göre aşağıdakilerden hangisi İthalatta Korunma Önlemlerini Değerlendirme Kurulunun görevleri arasında yer almaz?"
+            "2004/7305 sayılı İthalatta Korunma Önlemleri Hakkında Karar ve İthalatta Korunma Önlemleri Yönetmeliğine göre aşağıdakilerden hangisi İthalatta Korunma Önlemlerini Değerlendirme Kurulunun görevleri arasında yer almaz?"
         ],
         d="Soruşturmayı yürütmek ve dokuz ay içinde tamamlamak",
         c=[
@@ -216,7 +216,7 @@ Q = [
         madde="İthalatta Kota ve Tarife Kontenjanı İdaresi Hakkında Karar (2010/339) md. 2",
         cek="Tarife kontenjanı: belirli dönemde gümrük vergisinde ve/veya mali yüklerde indirim ya da muafiyet sağlanan ithalatın miktar veya değeri; kota: izin verilen ithalat.",
         kok=[
-            "İthalatta Kota ve Tarife Kontenjanı İdaresi Hakkında Karara göre, “belirli bir dönem itibarıyla gümrük vergisinde ve/veya diğer mali yüklerde indirim yapılan ya da muafiyet sağlanan ithalatın miktar veya değeri” aşağıdakilerden hangisidir?"
+            "2010/339 sayılı İthalatta Kota ve Tarife Kontenjanı İdaresi Hakkında Karara göre, “belirli bir dönem itibarıyla gümrük vergisinde ve/veya diğer mali yüklerde indirim yapılan ya da muafiyet sağlanan ithalatın miktar veya değeri” aşağıdakilerden hangisidir?"
         ],
         d="Tarife kontenjanı",
         c=[

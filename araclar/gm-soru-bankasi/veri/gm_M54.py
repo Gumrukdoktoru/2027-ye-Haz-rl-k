@@ -2,6 +2,7 @@
 # Gümrük Koçu - Ufuk Çetintaş
 K = "54-sta-kumulasyonlar.txt"
 TM = "Türkiye'nin serbest ticaret ve tercihli ticaret anlaşmaları çerçevesindeki ticarette eşyanın tercihli menşeinin tespiti hakkındaki Yönetmeliklere"
+TS = "Türkiye'nin taraf olduğu serbest ticaret anlaşmaları ve bunlara ilişkin tercihli menşe Yönetmelikleri kapsamındaki mal ticaretinde"
 Q = [
     # 1 ---------------- STA/TTA listesi, Ürdün, Suriye, Lübnan-Sudan, EFTA üyeleri (önermeli) ----------------
     dict(
@@ -12,7 +13,7 @@ Q = [
         madde="STA ve Kümülasyonlar — yürürlükteki STA ve TTA'lar; Türkiye-EFTA STA",
         cek="TTA'lar: İran, Azerbaycan, Pakistan, Özbekistan, D-8, Maldivler; Ürdün STA'sı kalktı, Suriye askıda; Lübnan-Sudan iç onay bekliyor; EFTA: Norveç, İsviçre, İzlanda, Liechtenstein.",
         kok=[
-            f"{TM} ve bu anlaşmaların yürürlük durumuna göre;",
+            "Türkiye'nin imzaladığı serbest ticaret ve tercihli ticaret anlaşmalarının ve bunlara ilişkin tercihli menşe Yönetmeliklerinin yürürlük durumu ile anlaşma taraflarına göre;",
             "I. Türkiye ile Maldivler arasında yürürlükte bir tercihli ticaret anlaşması bulunmaktadır.",
             "II. Türkiye ile Özbekistan arasında yürürlükte olan anlaşma bir serbest ticaret anlaşmasıdır.",
             "III. Türkiye-Ürdün serbest ticaret anlaşması yürürlükten kalkmış, Türkiye-Suriye serbest ticaret anlaşması ise askıya alınmıştır.",
@@ -60,7 +61,7 @@ Q = [
         madde="STA ve Kümülasyonlar — genel bilgi (STA ve Gümrük Birliği)",
         cek="STA: taraflar arası vergiler kalkar, ortak tarife yok, tercih menşe kurallarına bağlı; Gümrük Birliği: ortak tarife, serbest dolaşım, ortak ticaret ve rekabet politikası.",
         kok=[
-            f"{TM} esas olan serbest ticaret anlaşması ile gümrük birliği ayrımına göre;",
+            "Serbest ticaret anlaşmaları ile Türkiye ve Avrupa Birliği arasında 1/95 sayılı Ortaklık Konseyi Kararıyla tesis edilen gümrük birliği arasındaki ayrıma göre;",
             "I. Serbest ticaret anlaşmaları, taraflara üçüncü ülkelere karşı ortak gümrük tarifesi oluşturma yükümlülüğü getirmez; taraflar üçüncü ülkelere kendi gümrük tarifelerini uygular.",
             "II. Serbest ticaret anlaşmalarında taraflar arasındaki ticarette malların tercihli rejimden yararlanması menşe kurallarına göre olur.",
             "III. Türkiye, Avrupa Birliği tarafından imzalanmış serbest ticaret anlaşmalarının içeriğini aynen kabul etmekle yükümlüdür.",
@@ -78,7 +79,7 @@ Q = [
             "I, II, III ve IV",
         ],
         g="Serbest ticaret anlaşması, tarafların kendi aralarında gümrük vergisi ve kısıtlamaları kaldırdığı, ancak üçüncü ülkelere karşı ortak gümrük tarifesi oluşturmadığı ve her üyenin üçüncü ülkelere kendi milli gümrük tarifesini uyguladığı bir ekonomik birleşmedir (I doğru). Bu nedenle STA'larda taraflar arasındaki ticarette malların tercihli rejimden yararlanması menşe kurallarına bağlıdır; ortak ticaret politikası ve ortak rekabet kuralı uygulama zorunluluğu yoktur (II doğru). Türkiye, Gümrük Birliği gereği AB'nin STA imzaladığı ülkelerle paralel anlaşmalar yapar; ancak AB'nin imzaladığı STA'ların içeriğini aynen kabul etme yükümlülüğü bulunmaz, müzakerelerde kendi sanayi ve ticaret politikası önceliklerini gözetir (III yanlış). Gümrük birliğinde ise üçüncü ülkelere ortak gümrük tarifesi uygulanır, mallar serbest dolaşır ve taraflarca ortak ticaret politikaları ile ortak rekabet kurallarının geliştirilip uygulanması gerekir (IV doğru). En güçlü tuzak III. önermedir: Türkiye'nin AB'nin tercihli ticaret sistemini üstlenme yükümlülüğü, anlaşma içeriğini aynen kabul etme yükümlülüğüyle karıştırılır. Bu nedenle doğru cevap 'I, II ve IV' seçeneğidir. (MD STA ve Kümülasyonlar — genel bilgi)",
-        kanit=f"{K} | ÜÇÜNCÜ ÜLKELERE KARŞI Ortak Gümrük Tarifesi (OGT) OLUŞTURMAMALARI || {K} | Taraflar 3. ülkelere karşı kendi gümrük tarifelerini uygulamaktadır || {K} | STA'LARDA İSE taraflar arasındaki ticarette malların tercihli rejimden yararlanmaları MENŞE KURALLARINA göre olmaktadır. || {K} | ülkemizin AB tarafından imzalanmış STA'ların içeriğini aynen kabul etme yükümlülüğü BULUNMAMAKTA || {K} | taraflarca Ortak Ticaret Politikaları ile ortak rekabet kurallarının geliştirilmesi ve uygulanması gerekmektedir.",
+        kanit=f"09-gumruk-tarifesi-ve-mense-gk.txt | Türkiye ile AB arasında gümrük birliği tesis eden 1/95 sayılı Ortaklık Konseyi || {K} | ÜÇÜNCÜ ÜLKELERE KARŞI Ortak Gümrük Tarifesi (OGT) OLUŞTURMAMALARI || {K} | Taraflar 3. ülkelere karşı kendi gümrük tarifelerini uygulamaktadır || {K} | STA'LARDA İSE taraflar arasındaki ticarette malların tercihli rejimden yararlanmaları MENŞE KURALLARINA göre olmaktadır. || {K} | ülkemizin AB tarafından imzalanmış STA'ların içeriğini aynen kabul etme yükümlülüğü BULUNMAMAKTA || {K} | taraflarca Ortak Ticaret Politikaları ile ortak rekabet kurallarının geliştirilmesi ve uygulanması gerekmektedir.",
         yuva=[
             "I ve II: gümrük birliğinin ortak politika gereğini bilmeyen aday (eksik seçim)",
             "II ve III: STA'yı ortak tarife doğuran bir yapı sanan aday",
@@ -147,7 +148,7 @@ Q = [
         madde="STA ve Kümülasyonlar — kümülasyon türleri (ikili, çapraz, tam)",
         cek="Çapraz kümülasyon: ikiden fazla ülkeli STA ya da bağlı ikili STA'lar; taraf girdisi yetersiz işlem ötesinde işlemle menşe kazanır; örneği PAAMK.",
         kok=[
-            f"{TM} göre uygulanan kümülasyon türlerinden, “İkiden fazla ülkenin tek bir serbest ticaret anlaşmasına taraf olduğu veya ikili anlaşmaların birbirleriyle ilişkilendirildiği durumlarda geçerli olan; sisteme taraf bir ülke menşeli girdilerin, sisteme taraf bir diğer ülkede yetersiz işçilik veya işlemlerin ötesinde bir işçilik veya işlemden geçmeleri halinde o ülkenin menşe statüsünü kazanabildiği kümülasyon türü” aşağıdakilerden hangisidir?"
+            f"{TS} uygulanan kümülasyon türlerinden, “İkiden fazla ülkenin tek bir serbest ticaret anlaşmasına taraf olduğu veya ikili anlaşmaların birbirleriyle ilişkilendirildiği durumlarda geçerli olan; sisteme taraf bir ülke menşeli girdilerin, sisteme taraf bir diğer ülkede yetersiz işçilik veya işlemlerin ötesinde bir işçilik veya işlemden geçmeleri halinde o ülkenin menşe statüsünü kazanabildiği kümülasyon türü” aşağıdakilerden hangisidir?"
         ],
         d="Çapraz menşe kümülasyonu",
         c=[
@@ -157,7 +158,7 @@ Q = [
             "Menşe şahadetnamesine dayalı kümülasyon",
         ],
         sirali=False,
-        g="Kaynak, Türkiye'nin STA'ları kapsamındaki mal ticaretinde üç kümülasyon türü sayar. İkili kümülasyon, STA'ya yalnızca iki ülkenin taraf olduğu ve başka bir anlaşmanın kümülasyonla ilişkilendirilmediği durumlarda işler; kümülasyon yalnız bu iki ülke arasında geçerlidir. Çapraz kümülasyon, ikiden fazla ülkenin tek bir STA'ya taraf olduğu veya ikili STA'ların birbirine bağlandığı durumlarda geçerlidir; sisteme taraf bir ülke menşeli girdiler, bir diğer taraf ülkede yetersiz işlemlerin ötesinde işlem görürse o ülkenin menşe statüsünü kazanır. PAAMK sistemi bunun örneğidir ve Türkiye bu sisteme dahildir. Tam kümülasyon da aynı yapıdaki anlaşmalarda geçerlidir, ancak girdilerin değil, birden fazla taraf ülkede gerçekleştirilen işçilik ve işlemlerin bir arada değerlendirilmesine imkân tanır; örneği AB-EFTA arasındaki AEA'dır. Bölgesel kümülasyon Genelleştirilmiş Tercihler Sistemindeki faydalanan ülke gruplarına özgüdür; menşe şahadetnamesine dayalı bir kümülasyon türü ise sayılmamıştır. En güçlü tuzak tam kümülasyondur: tanımın ilk yarısı onunla ortaktır, ayırıcı unsur girdinin menşe kazanmasıdır. Bu nedenle doğru cevap 'Çapraz menşe kümülasyonu' seçeneğidir. (MD STA ve Kümülasyonlar — kümülasyon türleri)",
+        g="Türkiye'nin taraf olduğu STA'lar kapsamındaki mal ticaretinde üç kümülasyon türü uygulanır. İkili kümülasyon, STA'ya yalnızca iki ülkenin taraf olduğu ve başka bir anlaşmanın kümülasyonla ilişkilendirilmediği durumlarda işler; kümülasyon yalnız bu iki ülke arasında geçerlidir. Çapraz kümülasyon, ikiden fazla ülkenin tek bir STA'ya taraf olduğu veya ikili STA'ların birbirine bağlandığı durumlarda geçerlidir; sisteme taraf bir ülke menşeli girdiler, bir diğer taraf ülkede yetersiz işlemlerin ötesinde işlem görürse o ülkenin menşe statüsünü kazanır. PAAMK sistemi bunun örneğidir ve Türkiye bu sisteme dahildir. Tam kümülasyon da aynı yapıdaki anlaşmalarda geçerlidir, ancak girdilerin değil, birden fazla taraf ülkede gerçekleştirilen işçilik ve işlemlerin bir arada değerlendirilmesine imkân tanır; örneği AB-EFTA arasındaki AEA'dır. Bölgesel kümülasyon Genelleştirilmiş Tercihler Sistemindeki faydalanan ülke gruplarına özgüdür; menşe şahadetnamesine dayalı bir kümülasyon türü ise sayılmamıştır. En güçlü tuzak tam kümülasyondur: tanımın ilk yarısı onunla ortaktır, ayırıcı unsur girdinin menşe kazanmasıdır. Bu nedenle doğru cevap 'Çapraz menşe kümülasyonu' seçeneğidir. (MD STA ve Kümülasyonlar — kümülasyon türleri)",
         kanit=f"{K} | İkiden fazla ülkenin tek bir STA'ya taraf olduğu veya ikili STA'ların birbirleriyle ilişkilendirildikleri yani birbirlerine bağlı oldukları durumlarda geçerli olan kümülasyon türüdür. || {K} | STA'ya veya sisteme taraf bir diğer ülkede yetersiz işçilik veya işlemlerin ötesinde bir işçilik veya işlemden || {K} | ÇAPRAZ KÜMÜLÂSYONA, PAAMK SİSTEMİ örnek olarak verilebilir. || {K} | Birden fazla taraf ülkede gerçekleştirilen işçilik ve işlemlerin || {K} | STA'ya YALNIZCA İKİ ÜLKENİN taraf olduğu || {K} | Bölgesel kümülasyon, Faydalanan Ülkelerden oluşan 4 ayrı bölgesel gruba",
         yuva=[
             "İkili kümülasyon: yalnız iki ülkenin taraf olduğu STA",
@@ -187,7 +188,7 @@ Q = [
         madde="STA ve Kümülasyonlar — menşe kümülasyonu ve kümülasyon türleri",
         cek="Kümülasyonda taraf girdisi yetersiz işlemin ötesinde işlemle menşe kazanır, yeterli işlem gerekmez; çapraz için STA ağı ve aynı kurallar; Türkiye tam kümülasyona dahil değil.",
         kok=[
-            f"{TM} göre uygulanan menşe kümülasyonu hakkında aşağıdakilerden hangisi yanlıştır?"
+            f"{TS} uygulanan menşe kümülasyonu hakkında aşağıdakilerden hangisi yanlıştır?"
         ],
         d="Türkiye, Avrupa Birliği ile EFTA arasındaki Avrupa Ekonomik Alanı gibi tam kümülasyonu öngören sistemlere dahildir.",
         c=[
@@ -227,7 +228,7 @@ Q = [
         madde="STA ve Kümülasyonlar — Batı Balkan Menşe Kümülasyon Sistemi",
         cek="BBMK (AB, Türkiye, Kosova; EUR.1 ve fatura beyanı dört ay) 31.12.2025'te kaldırıldı; Balkan ülkeleri Bölgesel Konvansiyona dahil oldu.",
         kok=[
-            f"{TM} göre uygulanan kümülasyon sistemlerinden Batı Balkan Menşe Kümülasyon Sistemi hakkında aşağıdakilerden hangisi doğrudur?"
+            "Türkiye bakımından ayrı bir tercihli menşe Yönetmeliğine bağlanan Batı Balkan Menşe Kümülasyon Sistemi hakkında aşağıdakilerden hangisi doğrudur?"
         ],
         d="31.12.2025 tarihinde yürürlükten kaldırılmıştır; sisteme taraf Balkan ülkeleri Pan Avrupa Akdeniz Tercihli Menşe Kurallarına Dair Bölgesel Konvansiyona dahil olmuştur.",
         c=[
@@ -238,7 +239,7 @@ Q = [
         ],
         sirali=False,
         g="Batı Balkan Menşe Kümülasyon Sistemi, Türkiye, AB ve Batı Balkan ülkeleri arasında aynı menşe kuralları ve geri ödeme yasağı içeren STA'lar kapsamındaki tercihli ticarette taraf ülkeler menşeli girdilerin serbestçe kullanılmasına imkân tanıyan bir çapraz kümülasyon sistemiydi; tarafları AB, Türkiye ve Kosova olarak gösterilmiş, belgeleri EUR.1 ve fatura beyanı (4 ay) idi. Sistem 31.12.2025 tarihinde yürürlükten kaldırılmıştır; Makedonya, Sırbistan, Arnavutluk, Karadağ ve Bosna Hersek gibi Balkan ülkeleri Pan Avrupa Akdeniz Tercihli Menşe Kurallarına Dair Bölgesel Konvansiyona dahil olmuştur. Türkiye, AB ve EFTA PAMK'ın taraflarıdır; EUR-MED belgeleri PAAMK'a özgüdür; EUR.1'in 10 ay geçerliliği Bölgesel Konvansiyon kuralıdır; Türkiye ise hiçbir tam kümülasyon sistemine dahil değildir. En güçlü tuzak 10 aylık geçerliliktir: Balkan ülkeleri artık Bölgesel Konvansiyon kurallarıyla çalıştığı için bu süre BBMK'ya da aitmiş gibi görünür. Bu nedenle doğru cevap '31.12.2025 tarihinde yürürlükten kaldırılmıştır; sisteme taraf Balkan ülkeleri Pan Avrupa Akdeniz Tercihli Menşe Kurallarına Dair Bölgesel Konvansiyona dahil olmuştur.' seçeneğidir. (MD STA ve Kümülasyonlar — BBMK)",
-        kanit=f"{K} | BATI BALKAN MENŞE KÜMÜLASYON SİSTEMİ: (31.12.2025 tarihinde yürürlükten kaldırıldı) || {K} | Dair BÖLGESEL KONVANSİYONA dahil oldular || {K} | AB + TÜRKİYE + KOSOVA || {K} | EUR.1 DOLAŞIM BELGESİ / (4 AY) || {K} | AB + TÜRKİYE + EFTA ÜLKELERİ (Lihtenştayn – İsviçre – İzlanda – Norveç) || {K} | EUR-MED DOLAŞIM BELGESİ/ (4 AY) || {K} | EUR.1 DOLAŞIM BELGESİ vize tarihinden itibaren 10 AY geçerli olur || {K} | TÜRKİYE, Tam Kümülasyonu öngören herhangi bir anlaşmaya veya sisteme dahil değildir.",
+        kanit=f"{K} | Ülkemizin PAAMK ve BBMK’ya dair yönetmelikleri tek bir çatı altına alınarak || {K} | BATI BALKAN MENŞE KÜMÜLASYON SİSTEMİ: (31.12.2025 tarihinde yürürlükten kaldırıldı) || {K} | Dair BÖLGESEL KONVANSİYONA dahil oldular || {K} | AB + TÜRKİYE + KOSOVA || {K} | EUR.1 DOLAŞIM BELGESİ / (4 AY) || {K} | AB + TÜRKİYE + EFTA ÜLKELERİ (Lihtenştayn – İsviçre – İzlanda – Norveç) || {K} | EUR-MED DOLAŞIM BELGESİ/ (4 AY) || {K} | EUR.1 DOLAŞIM BELGESİ vize tarihinden itibaren 10 AY geçerli olur || {K} | TÜRKİYE, Tam Kümülasyonu öngören herhangi bir anlaşmaya veya sisteme dahil değildir.",
         yuva=[
             "PAMK'ın tarafları (AB, Türkiye, EFTA)",
             "PAAMK'a özgü EUR-MED belgeleri",
@@ -298,32 +299,32 @@ Q = [
         cikmis="",
         kapsamli=False,
     ),
-    # 8 ---------------- Geri ödeme/muafiyet imkânı: Morityus (TEV yok) ----------------
+    # 8 ---------------- Geri ödeme/muafiyet yasağı: Şili (TEV+; Bölgesel Konvansiyon dışı, istisna listesinde değil) ----------------
     dict(
         konu="Serbest Ticaret Anlaşmaları ve Kümülasyonlar",
         blok="M54",
         kalip="KAPSAM",
         z="Z",
         madde="STA ve Kümülasyonlar — özet tablo (geri ödeme yasağı ve TEV)",
-        cek="Geri ödeme yasağı (TEV+): AB, PAMK, PAAMK, Faroe, Makedonya, Gürcistan, Şili; geri ödeme/muafiyet var (TEV−): Morityus, Malezya, Venezuela, Singapur, İngiltere, Kore.",
+        cek="Kural geri ödeme yasağı (TEV+), Şili dahil; istisnalar (TEV−): Katar, Güney Kore, Malezya, Morityus, Singapur, Venezuela, Birleşik Krallık.",
         kok=[
-            f"{TM} göre, aşağıdaki anlaşmalardan hangisi kapsamında menşeli olmayan girdiler için gümrük vergilerinde geri ödeme veya muafiyet imkânı bulunmaktadır?"
+            f"{TM} göre, aşağıdaki anlaşmalardan hangisi kapsamında menşeli olmayan girdiler için gümrük vergilerinin geri ödenmesi veya bunlardan muafiyet tanınması yasaktır?"
         ],
-        d="Türkiye-Morityus Serbest Ticaret Anlaşması",
+        d="Türkiye-Şili Serbest Ticaret Anlaşması",
         c=[
-            "Türkiye-Şili Serbest Ticaret Anlaşması",
-            "Türkiye-Gürcistan Serbest Ticaret Anlaşması",
-            "Türkiye-Makedonya Serbest Ticaret Anlaşması",
-            "Türkiye-Faroe Adaları Serbest Ticaret Anlaşması",
+            "Türkiye-Morityus Serbest Ticaret Anlaşması",
+            "Türkiye-Singapur Serbest Ticaret Anlaşması",
+            "Türkiye-Malezya Serbest Ticaret Anlaşması",
+            "Türkiye-Güney Kore Serbest Ticaret Anlaşması",
         ],
         sirali=False,
-        g="Özet tabloda her anlaşma için menşeli olmayan girdilerde gümrük vergisinin geri ödenmesi veya muafiyetin yasak olup olmadığı gösterilir. Geri ödemenin yasak olduğu anlaşmalarda telafi edici vergi ödenmesi gerekir (TEV+): AB, Batı Balkan, PAMK ve PAAMK ile Faroe Adaları, Makedonya, Filistin-Gürcistan ve Şili bu gruptadır. Morityus, Malezya, Venezuela, Singapur, İngiltere, Güney Kore, Pakistan ve BAE ile ticarette ise geri ödeme veya muafiyet imkânı vardır ve TEV doğmaz (TEV−). Kaynak, geri ödeme yasağının istisnalarını ayrıca Katar, Güney Kore, Malezya, Morityus, Singapur, Venezuela ve Birleşik Krallık olarak sayar. En güçlü tuzak Şili'dir: Morityus gibi EUR.1'i 10 ay geçerli, Avrupa dışındaki bir STA ortağıdır; ancak Şili ile ticarette geri ödeme yasaktır. Bu nedenle doğru cevap 'Türkiye-Morityus Serbest Ticaret Anlaşması' seçeneğidir. (MD STA ve Kümülasyonlar — özet tablo)",
-        kanit=f"{K} | Geri Ödeme veya Muafiyet imkanı BULUNMAKTADIR || {K} | MORİTYUS EUR.1 10 AY 10 AY 6.000 EUR 500 EUR 1.200 EUR VARDIR (TEV-) || {K} | ŞİLİ EUR.1 10 AY 10 AY 6.000 EUR 500 EUR 1.200 EUR YASAK (TEV+) || {K} | FİLSTİN- GÜRCİSTAN EUR.1 4 AY 10 AY 6.000 EUR 500 EUR 1.200 EUR YASAK (TEV+) || {K} | MAKEDONYA EUR.1 4 AY 10 AY 6.000 EUR 500 EUR 1.200 EUR YASAK (TEV+) || {K} | FAROE ADALARI EUR.1/ EUR.MED 4 AY 10 AY 6.000 EUR 500 EUR 1.200 EUR YASAK (TEV+)",
+        g="Türkiye'nin serbest ticaret anlaşmalarında kural, menşeli olmayan girdiler için gümrük vergilerinin geri ödenmesinin veya bunlardan muafiyet tanınmasının yasak olmasıdır; bu anlaşmalarda telafi edici vergi ödenmesi gerekir (TEV+). Bu yasağın istisnaları Katar, Güney Kore, Malezya, Morityus, Singapur, Venezuela ve Birleşik Krallık ile yapılan anlaşmalardır; bunlarla ticarette geri ödeme veya muafiyet imkânı vardır ve telafi edici vergi doğmaz (TEV−). Pan Avrupa Akdeniz Tercihli Menşe Kurallarına Dair Bölgesel Konvansiyonda ise yasak yalnız 50 ila 63. fasıllardaki ürünler için geçerlidir. Şili ne Bölgesel Konvansiyona taraftır ne de istisnalar arasında sayılır; Türkiye-Şili STA'sı kapsamında geri ödeme veya muafiyet yasaktır (TEV+). Morityus, Singapur, Malezya ve Güney Kore ile yapılan anlaşmalar ise istisna listesindedir. En güçlü tuzak Morityus'tur: Şili gibi EUR.1'i 10 ay geçerli olan, Avrupa dışındaki bir STA ortağıdır; ancak Morityus ile ticarette geri ödeme veya muafiyet imkânı bulunur. Bu nedenle doğru cevap 'Türkiye-Şili Serbest Ticaret Anlaşması' seçeneğidir. (MD STA ve Kümülasyonlar — özet tablo; geri ödeme yasağı)",
+        kanit=f"{K} | (GERİ ÖDEME YASAK. TEV ÖDENMESİ || {K} | Katar, G.Kore, Malezya, Morityus, Singapur, || {K} | PEM (50 ila 63 HARİÇ) || {K} | ŞİLİ EUR.1 10 AY 10 AY 6.000 EUR 500 EUR 1.200 EUR YASAK (TEV+) || {K} | MORİTYUS EUR.1 10 AY 10 AY 6.000 EUR 500 EUR 1.200 EUR VARDIR (TEV-) || {K} | SİNGAPUR MENŞE BEYANI 12 AY 10 AY - 500 EUR 1.200 EUR VARDIR (TEV-) || {K} | MALEZYA MENŞE BELGESİ 12 AY 90 GÜN 10.000 $ 500 EUR 1.200 EUR VARDIR (TEV-) || {K} | 1.000 USD 1.000 USD TEV ödenmez",
         yuva=[
-            "Özet tablo: Şili geri ödeme yasak (TEV+)",
-            "Özet tablo: Filistin-Gürcistan geri ödeme yasak (TEV+)",
-            "Özet tablo: Makedonya geri ödeme yasak (TEV+)",
-            "Özet tablo: Faroe Adaları geri ödeme yasak (TEV+)",
+            "Geri ödeme yasağının istisnası: Morityus (TEV−)",
+            "Geri ödeme yasağının istisnası: Singapur (TEV−)",
+            "Geri ödeme yasağının istisnası: Malezya (TEV−)",
+            "Geri ödeme yasağının istisnası: Güney Kore (TEV−)",
         ],
         yakinlik="BİREBİR",
         tuzak=["İSTİSNA", "KOMŞU"],

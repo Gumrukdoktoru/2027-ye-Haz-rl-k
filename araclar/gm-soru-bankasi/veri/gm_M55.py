@@ -3,7 +3,7 @@
 K = "55-teslim-odeme-sekilleri.txt"
 H5 = "H05-beyanname-kutulari-kodlar.txt"
 K59 = "59-tpkk-doviz-nakit.txt"
-IT = "Gümrük Yönetmeliği eki beyanname kullanma talimatına göre gümrük beyannamesinin teslim şekli kutusuna kodu yazılan Incoterms 2020 kurallarında"
+IT = "Gümrük beyannamesinin teslim şekli kutusuna Gümrük Yönetmeliği eki Beyanname Kullanma Talimatı uyarınca kodu yazılan Incoterms 2020 kurallarında"
 Q = [
     # 1 ---------------- C grubu teslim şekilleri: DAP yer almaz ----------------
     dict(
@@ -263,10 +263,10 @@ Q = [
         blok="M55",
         kalip="YANLIŞ",
         z="O",
-        madde="Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karara ilişkin Tebliğ (İhracat Bedelleri) — ödeme şekilleri; dış ticarette ödeme şekilleri",
+        madde="İthalat Genelgesi (2020/1) md. 2 — ödeme şekilleri; dış ticarette ödeme şekilleri (peşin, mal mukabili, vesaik mukabili, kabul kredili)",
         cek="Peşin: ihracatçı için en avantajlı; mal mukabili: ihracatçı için en riskli, KKDF ödenir; vesaik mukabilinde KKDF yok; kabul kredilide poliçe araçtır.",
         kok=[
-            "Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karara ilişkin İhracat Bedelleri Tebliğinde sayılan ödeme şekilleri hakkında aşağıdakilerden hangisi yanlıştır?"
+            "Hazine ve Maliye Bakanlığının İthalat Genelgesinde (2020/1) ithalat bedellerinin ödenme şekilleri arasında sayılan peşin, mal mukabili, vesaik mukabili ve kabul kredili ödemelerin işleyişi hakkında aşağıdakilerden hangisi yanlıştır?"
         ],
         d="Mal mukabili ödemede fiili ithalat sırasında mal bedeli henüz ödenmemiş olduğundan, ithalatçı malı gümrükten çekerken KKDF ödemesi yapmaz.",
         c=[
@@ -276,8 +276,8 @@ Q = [
             "Kabul kredili ödeme, mal bedelinin belirli bir vadede ödenmesini taahhüt eden ve bu ödemede poliçenin araç olduğu ödeme şeklidir.",
         ],
         sirali=False,
-        g="İhracat bedelleri Tebliğinde sayılan ödeme şekilleri akreditifli, vesaik mukabili, mal mukabili, kabul kredili akreditifli, peşin, kabul kredili vesaik mukabili ve kabul kredili mal mukabili ödemedir. Peşin ödemede ihracatçı hiçbir risk almaz; bu yöntem ihracatçı için en avantajlıdır ve ödeme peşin yapıldığından ithalatçı malı çekerken KKDF ödemez. Mal mukabili ödemede ithalatçı bedeli malı teslim aldıktan sonra öder; ihracatçı için en riskli yöntemdir ve fiili ithalat sırasında bedel ödenmediği için satıcının alıcıya sağladığı bir kredi sayılır. Bu nedenle mal mukabili ödemede gümrükten mal çekişinden önce ithalatçı tarafından KKDF ödemesi yapılır. Vesaik mukabili ödemede banka ödemeyi almadan belgeleri teslim etmediği için KKDF ödenmez; kabul kredili ödemede ise vadeli ödemenin aracı poliçedir. En güçlü tuzak vesaik mukabili ödemeye ilişkin ifadedir: ithalatçı malların sevkinden sonra ödediği için vadeli işlem gibi görünür, ancak ödeme belgelerin teslimi öncesinde yapılır. Bu nedenle doğru cevap 'Mal mukabili ödemede fiili ithalat sırasında mal bedeli henüz ödenmemiş olduğundan, ithalatçı malı gümrükten çekerken KKDF ödemesi yapmaz.' seçeneğidir. (MD 32 sayılı Karara ilişkin İhracat Bedelleri Tebliği md. 3; ödeme şekilleri)",
-        kanit=f"{K59} | a) Akreditifli Ödeme, b) Vesaik Mukabili Ödeme, c) Mal Mukabili Ödeme, || {K} | İHRACATÇI açısından EN AVANTAJLI ödeme yöntemidir. || {K} | İHRACATÇI açısından EN RİSKLİ ödeme yöntemidir. || {K} | Gümrükten mal çekişinden önce ithalatçı tarafından KKDF ÖDEMESİ YAPILIR. || {K} | İthalatçının bankası ödemeyi almadan malı temsil eden vesaiki/belgeleri ithalatçıya teslim etmeyeceğinden ithalatçı malı gümrükten çekerken KKDF ÖDEMESİ YAPMAK ZORUNDA KALMAZ. || {K} | Mal bedelinin belirli bir vadede ödenmesini taahhüt eden ve bu ödemeyi bir poliçenin araç olduğu ödeme şeklidir.",
+        g="İthalat Genelgesi, ithalat işlemlerinin akreditifli, vadeli akreditifli, vesaik mukabili, mal mukabili, kabul kredili akreditifli, kabul kredili vesaik mukabili, kabul kredili mal mukabili, peşin ödeme ve banka ödeme yükümlülüğü şekillerine göre gerçekleştirileceğini sayar. Peşin ödemede ihracatçı hiçbir risk almaz; bu yöntem ihracatçı için en avantajlıdır ve ödeme peşin yapıldığından ithalatçı malı çekerken KKDF ödemez. Mal mukabili ödemede ithalatçı bedeli malı teslim aldıktan sonra öder; ihracatçı için en riskli yöntemdir ve fiili ithalat sırasında bedel ödenmediği için satıcının alıcıya sağladığı bir kredi sayılır. Bu nedenle mal mukabili ödemede gümrükten mal çekişinden önce ithalatçı tarafından KKDF ödemesi yapılır. Vesaik mukabili ödemede banka ödemeyi almadan belgeleri teslim etmediği için KKDF ödenmez; kabul kredili ödemede ise vadeli ödemenin aracı poliçedir. En güçlü tuzak vesaik mukabili ödemeye ilişkin ifadedir: ithalatçı malların sevkinden sonra ödediği için vadeli işlem gibi görünür, ancak ödeme belgelerin teslimi öncesinde yapılır. Bu nedenle doğru cevap 'Mal mukabili ödemede fiili ithalat sırasında mal bedeli henüz ödenmemiş olduğundan, ithalatçı malı gümrükten çekerken KKDF ödemesi yapmaz.' seçeneğidir. (MD İthalat Genelgesi 2020/1 md. 2; ödeme şekilleri)",
+        kanit=f"{K59} | “Vesaik Mukabili Ödeme”, “Mal Mukabili Ödeme”, “Kabul Kredili Akreditifli Ödeme” || {K59} | Kredili Vesaik Mukabili Ödeme”, “Kabul Kredili Mal Mukabili Ödeme”, “Peşin Ödeme” || {K} | İHRACATÇI açısından EN AVANTAJLI ödeme yöntemidir. || {K} | İHRACATÇI açısından EN RİSKLİ ödeme yöntemidir. || {K} | Gümrükten mal çekişinden önce ithalatçı tarafından KKDF ÖDEMESİ YAPILIR. || {K} | İthalatçının bankası ödemeyi almadan malı temsil eden vesaiki/belgeleri ithalatçıya teslim etmeyeceğinden ithalatçı malı gümrükten çekerken KKDF ÖDEMESİ YAPMAK ZORUNDA KALMAZ. || {K} | Mal bedelinin belirli bir vadede ödenmesini taahhüt eden ve bu ödemeyi bir poliçenin araç olduğu ödeme şeklidir.",
         yuva=[
             "Peşin ödeme: ihracatçı için en avantajlı (doğru)",
             "Mal mukabili ödeme: ihracatçı için en riskli (doğru)",
@@ -303,10 +303,10 @@ Q = [
         blok="M55",
         kalip="DOĞRU",
         z="Z",
-        madde="Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karar — İthalat Genelgesi (ödeme şekilleri); akreditifli ödeme",
+        madde="İthalat Genelgesi (2020/1) md. 2 — ödeme şekilleri; akreditifli ödeme",
         cek="Akreditif: amir alıcı, lehtar satıcı; ihbar bankasının ödeme yükümlülüğü yok; amir banka rücusuz öder; devredilebilir akreditif bir kez devredilir; UCP 600'de akreditif dönülemezdir.",
         kok=[
-            "Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karar çerçevesinde ithalat bedellerinin ödenebileceği şekiller arasında sayılan akreditifli ödeme hakkında aşağıdakilerden hangisi doğrudur?"
+            "Hazine ve Maliye Bakanlığının İthalat Genelgesinde (2020/1) ithalat bedellerinin ödenme şekilleri arasında sayılan akreditifli ödemenin uluslararası kurallar ve bankacılık teamüllerine göre işleyişi hakkında aşağıdakilerden hangisi doğrudur?"
         ],
         d="UCP 600'e göre bir akreditifin dönülemez olduğu belirtilmese dahi o akreditif dönülemezdir.",
         c=[

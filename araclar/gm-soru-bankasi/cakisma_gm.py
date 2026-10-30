@@ -3,26 +3,30 @@
 
 Kullanım:
     python3 araclar/gm-soru-bankasi/cakisma_gm.py            # tarama + özet
-    python3 araclar/gm-soru-bankasi/cakisma_gm.py --liste    # aday çiftleri okunabilir biçimde yazdır
-    python3 araclar/gm-soru-bankasi/cakisma_gm.py --gmy      # GMY bankasıyla çapraz adayları da yazdır
+    python3 araclar/gm-soru-bankasi/cakisma_gm.py --liste    # GM aday çiftlerini okunabilir biçimde yazdır
+    python3 araclar/gm-soru-bankasi/cakisma_gm.py --gmy      # GMY bankasıyla çapraz adayları yazdır
 
 Veri: araclar/gm-soru-bankasi/veri/gm_<KOD>.py (Q listesi), GMY: araclar/soru-bankasi/veri/sb_XX.py.
-Soru dosyalarına yazmaz; yalnız dogrulama/tekrar_adaylari.json üretir.
+Soru dosyalarına yazmaz; yalnız dogrulama/tekrar_adaylari.json üretir. Adayların TEKRAR / KOMŞU
+sınıflandırması elle yapılır ve dogrulama/tekrar_raporu.md'ye yazılır.
 
-Ölçütler (bir çift en az birini sağlarsa aday olur):
-  (a) KANIT   — iki sorunun kanıt alıntılarından biri normalize edildiğinde kelime kümesiyle >= %80 örtüşür
-                (kısa alıntı en az 6 kelime; örtüşme = kesişim / kısa alıntının kelime sayısı).
-  (b) ÇEKİRDEK — çekirdek (cek) + doğru cevap kelime kökleri IDF ağırlıklı Jaccard >= 0.25 (kaba kök = ilk 5 harf);
-                ya da doğru cevap metni difflib >= 0.85 (en az 3 kelime) ve kök+çekirdek Jaccard >= 0.30.
-  (c) MADDE   — aynı mevzuat + ortak madde numarası (tarifede ortak pozisyon) ve aynı doğru cevap
-                (normalize eşit ya da difflib >= 0.85; önermeli "I ve II" türü cevaplar hariç).
-  (t) TARİFE  — T/M09 bölümlerinde aynı eşya tanımı (Jaccard >= 0.45) ve aynı pozisyon kodu
-                (doğru cevapta ya da kökte), ya da eşya tanımı Jaccard >= 0.60.
-  Ek sinyal: ortak şık sayısı (5 şıktan normalize eşit olanlar) — >= 3 ise tek başına aday.
+GM içi ölçütler (bir çift en az birini sağlarsa aday olur):
+  (a) KANIT    — kanıt alıntılarından biri normalize edildiğinde kelime kümesiyle >= %80 örtüşür
+                 (kısa alıntı en az 6 kelime; örtüşme = kesişim / kısa alıntının kelime sayısı).
+  (b) ÇEKİRDEK — çekirdek (cek) + doğru cevap kaba kökleri (ilk 5 harf) IDF ağırlıklı Jaccard >= 0.25;
+                 ya da doğru cevap difflib >= 0.85 (en az 3 kelime) ve kök+çekirdek Jaccard >= 0.30.
+  (c) MADDE    — aynı mevzuat + ortak madde numarası (tarifede ortak pozisyon) ve aynı doğru cevap
+                 (normalize eşit ya da difflib >= 0.85; önermeli "I ve II" türü cevaplar hariç).
+  (t) TARİFE   — T/M09 bölümlerinde aynı eşya tanımı (Jaccard >= 0.45) ve ortak pozisyon kodu
+                 (doğru cevapta ya da kökte), ya da eşya tanımı Jaccard >= 0.60.
+  (s) ŞIK      — 5 şıktan en az 3'ü normalize eşit ve doğru cevap aynı, ya da en az 4'ü eşit.
+  (k) KÖK      — kök metni difflib >= 0.80 ve bulanık eşleşen (difflib >= 0.85) en az 3 şık,
+                 ya da metin cevaplı (sayısal olmayan) sorularda doğru cevap difflib >= 0.80 ve kök difflib >= 0.60.
 
-GMY çapraz: kök + doğru cevap Jaccard >= 0.30 olan çiftlerde difflib ile kök/cevap benzerliği ve ortak şık
-sayısı ölçülür; "birebir" = (kök difflib >= 0.75 ve cevap difflib >= 0.80) ya da (aynı cevap ve >= 3 ortak şık)
-ya da (çekirdek+cevap Jaccard >= 0.60 ve cevap difflib >= 0.80).
+GMY çapraz (kök + doğru cevap Jaccard >= 0.25 olan çiftlerde):
+  BİREBİR       — doğru cevap aynı (sayısal cevapta tam eşit, metinde difflib >= 0.80) ve
+                  (kök difflib >= 0.60 ya da bulanık ortak şık >= 3).
+  KÖK-ÇELDİRİCİ — kök difflib >= 0.80 ve bulanık ortak şık >= 3 (doğru cevap farklı olabilir).
 """
 
 import difflib
@@ -34,7 +38,7 @@ import pathlib
 import re
 import sys
 import unicodedata
-from collections import Counter, defaultdict
+from collections import Counter
 
 KOK = pathlib.Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(KOK / "araclar" / "gmy-deneme3"))
@@ -56,6 +60,7 @@ mümkün değil""".split()
 # norm() 'I' harfini 'ı' yapar; Roma rakamları bu yüzden [ıivx] ile yakalanır.
 ONERMELI = re.compile(r"^(yalnız\s+)?[ıivx]+((\s*,\s*|\s+ve\s+|\s+)[ıivx]+)*$")
 POZ = re.compile(r"\b\d{2}\.\d{2}(?:\.\d{2})*\b|\b\d{4}\.\d{2}(?:\.\d{2})*\b")
+SAYISAL = re.compile(r"^[\d.,% ]+$")
 
 
 def tr_lower(s):
@@ -139,9 +144,7 @@ def madde_anahtarlari(madde):
 def esya_tanimi(q):
     """Tarife sorusunda sınıflandırılan eşyanın tanımı ve sorudaki pozisyon kodları."""
     kok = " ".join(q["kok"])
-    pozlar = set(p[:5] for p in POZ.findall(q["d"])) | set(
-        p[:5] for p in POZ.findall(kok)
-    )
+    pozlar = {p[:5] for p in POZ.findall(q["d"])} | {p[:5] for p in POZ.findall(kok)}
     if POZ.fullmatch(q["d"].strip()):
         t = re.sub(
             r"türk gümrük tarife cetvel\w*\s*(ne|nin)?\s*(göre)?", " ", tr_lower(kok)
@@ -151,17 +154,24 @@ def esya_tanimi(q):
     return q["d"], pozlar
 
 
-def sik_kumesi(q):
+def sik_listesi(q):
     siklar = (
         q["siklar"] if q.get("sirali") and q.get("siklar") else [q["d"]] + list(q["c"])
     )
-    return (
-        {norm(s) for s in siklar} - {""} if not ONERMELI.match(norm(q["d"])) else set()
-    )
+    return [re.sub(r"\s*tl$", "", norm(s)) for s in siklar if norm(s)]
 
 
 def oran(a, b):
     return difflib.SequenceMatcher(None, a, b, autojunk=False).ratio()
+
+
+def bulanik_ortak(a, b):
+    """a'nın şıklarından b'de difflib >= 0.85 karşılığı olanların sayısı (önermelide 0)."""
+    if a["_onermeli"] or b["_onermeli"]:
+        return 0
+    return sum(
+        1 for x in a["_sikl"] if any(x == y or oran(x, y) >= 0.85 for y in b["_sikl"])
+    )
 
 
 def wjac(a, b, idf):
@@ -173,17 +183,20 @@ def wjac(a, b, idf):
 
 
 def hazirla(Q, onek_fn):
-    for i, q in enumerate(Q):
+    for q in Q:
         q["_id"] = onek_fn(q)
-        q["_dn"] = norm(q["d"])
+        q["_dn"] = re.sub(r"\s*tl$", "", norm(q["d"]))  # "170.000 TL" = "170.000"
+        q["_sayisal"] = bool(SAYISAL.match(q["_dn"]))
         q["_kokn"] = norm(" ".join(q["kok"]))
         q["_cekd"] = kokler(q["cek"] + " " + q["d"])
         q["_kokd"] = kokler(" ".join(q["kok"]) + " " + q["d"])
         q["_kokcek"] = kokler(" ".join(q["kok"]) + " " + q["cek"])
         q["_kanit"] = kanit_alintilari(q)
         q["_madde"] = madde_anahtarlari(q["madde"])
-        q["_siklar"] = sik_kumesi(q)
         q["_onermeli"] = bool(ONERMELI.match(q["_dn"]))
+        q["_sikl"] = sik_listesi(q)
+        # önermeli şıklar (I ve II …) her soruda aynıdır; ortak şık sinyali sayılmaz
+        q["_siklar"] = set() if q["_onermeli"] else set(q["_sikl"])
         q["_tarife"] = q["blok"].startswith("T") or q["blok"] == "M09"
         if q["_tarife"]:
             t, p = esya_tanimi(q)
@@ -192,31 +205,26 @@ def hazirla(Q, onek_fn):
     return Q
 
 
-def gm_yukle():
-    fs = sorted(glob.glob(str(GM_VERI / "gm_*.py")))
-    fs = [f for f in fs if re.search(r"gm_[A-Z]\d\d\.py$", f)]
+def _yukle(desen, kod_re, onek):
     Q = []
-    for f in fs:
-        kod = re.search(r"gm_([A-Z]\d\d)\.py$", f).group(1)
+    for f in sorted(glob.glob(desen)):
+        m = re.search(kod_re, f)
+        if not m:
+            continue
         qs = yukle([f])
         for i, q in enumerate(qs, 1):
-            q["_kod"] = kod
+            q["_kod"] = onek + m.group(1)
             q["_no"] = i
         Q += qs
     return hazirla(Q, lambda q: f"{q['_kod']}-{q['_no']:02d}")
+
+
+def gm_yukle():
+    return _yukle(str(GM_VERI / "gm_*.py"), r"gm_([A-Z]\d\d)\.py$", "")
 
 
 def gmy_yukle():
-    fs = sorted(glob.glob(str(GMY_VERI / "sb_[0-9][0-9].py")))
-    Q = []
-    for f in fs:
-        kod = re.search(r"sb_(\d\d)\.py$", f).group(1)
-        qs = yukle([f])
-        for i, q in enumerate(qs, 1):
-            q["_kod"] = f"SB{kod}"
-            q["_no"] = i
-        Q += qs
-    return hazirla(Q, lambda q: f"{q['_kod']}-{q['_no']:02d}")
+    return _yukle(str(GMY_VERI / "sb_[0-9][0-9].py"), r"sb_(\d\d)\.py$", "SB")
 
 
 def idf_hesapla(*listeler):
@@ -242,11 +250,14 @@ def kanit_ortusme(a, b):
     return en, ornek
 
 
-def ayni_cevap(a, b):
+def cevap_benzerligi(a, b):
+    """(aynı mı, oran). Önermeli cevaplar karşılaştırılmaz; sayısal cevapta yalnız tam eşitlik geçerli."""
     if a["_onermeli"] or b["_onermeli"]:
         return False, 0.0
     if a["_dn"] == b["_dn"]:
         return True, 1.0
+    if a["_sayisal"] or b["_sayisal"]:
+        return False, 0.0
     r = oran(a["_dn"], b["_dn"])
     return r >= 0.85, r
 
@@ -258,36 +269,35 @@ def cift_olc(a, b, idf):
         olcut.append("a")
     j_cekd = wjac(a["_cekd"], b["_cekd"], idf)
     j_kokcek = wjac(a["_kokcek"], b["_kokcek"], idf)
-    d_ayni, d_oran = ayni_cevap(a, b)
-    if j_cekd >= 0.25:
-        olcut.append("b")
-    elif (
-        not a["_onermeli"]
-        and not b["_onermeli"]
-        and len(a["_dn"].split()) >= 3
-        and d_oran >= 0.85
-        and j_kokcek >= 0.30
+    d_ayni, d_oran = cevap_benzerligi(a, b)
+    if j_cekd >= 0.25 or (
+        len(a["_dn"].split()) >= 3 and d_oran >= 0.85 and j_kokcek >= 0.30
     ):
         olcut.append("b")
     ortak_madde = sorted(a["_madde"] & b["_madde"])
     if ortak_madde and d_ayni:
         olcut.append("c")
+    j_esya = None
     if a["_tarife"] and b["_tarife"]:
         j_esya = wjac(a["_esya"], b["_esya"], idf)
-        ortak_poz = a["_poz"] & b["_poz"]
-        if (j_esya >= 0.45 and ortak_poz) or j_esya >= 0.60:
+        if (j_esya >= 0.45 and a["_poz"] & b["_poz"]) or j_esya >= 0.60:
             olcut.append("t")
-    else:
-        j_esya = None
     ortak_sik = len(a["_siklar"] & b["_siklar"])
     if ortak_sik >= 3 and (d_ayni or ortak_sik >= 4):
         olcut.append("s")
+    k_oran = None
+    if wjac(a["_kokd"], b["_kokd"], idf) >= 0.20:
+        k_oran = oran(a["_kokn"], b["_kokn"])
+        bul = bulanik_ortak(a, b) if k_oran >= 0.80 else 0
+        if (k_oran >= 0.80 and bul >= 3) or (d_oran >= 0.80 and k_oran >= 0.60):
+            olcut.append("k")
     return olcut, dict(
         kanit=round(k_o, 2),
         kanit_ornek=k_ornek,
         cekd=round(j_cekd, 2),
         kokcek=round(j_kokcek, 2),
         d_oran=round(d_oran, 2),
+        kok_oran=None if k_oran is None else round(k_oran, 2),
         ortak_madde=[" ".join(m) for m in ortak_madde],
         esya=None if j_esya is None else round(j_esya, 2),
         ortak_sik=ortak_sik,
@@ -297,8 +307,7 @@ def cift_olc(a, b, idf):
 def gm_tara(Q, idf):
     adaylar = []
     for a, b in itertools.combinations(Q, 2):
-        # hızlı ön eleme: hiçbir ortak kök/kanıt kelimesi yoksa atla
-        if not (a["_kokcek"] & b["_kokcek"]):
+        if not (a["_kokcek"] & b["_kokcek"]):  # hızlı ön eleme
             continue
         olcut, skor = cift_olc(a, b, idf)
         if olcut:
@@ -319,36 +328,28 @@ def gmy_tara(Q, G, idf):
     for a in Q:
         for b in G:
             j = wjac(a["_kokd"], b["_kokd"], idf)
-            if j < 0.30:
+            if j < 0.25:
+                continue
+            d_ayni, r_d = cevap_benzerligi(a, b)
+            d_ayni = d_ayni or (r_d >= 0.80)
+            if not d_ayni and j < 0.45:
                 continue
             r_kok = oran(a["_kokn"], b["_kokn"])
-            d_ayni, r_d = (
-                (True, 1.0)
-                if a["_dn"] == b["_dn"]
-                else (False, oran(a["_dn"], b["_dn"]))
-            )
-            ortak_sik = len(a["_siklar"] & b["_siklar"])
-            j_cekd = wjac(a["_cekd"], b["_cekd"], idf)
-            birebir = (
-                (r_kok >= 0.75 and r_d >= 0.80)
-                or (d_ayni and ortak_sik >= 3)
-                or (j_cekd >= 0.60 and r_d >= 0.80 and not a["_onermeli"])
-            )
-            yakin = (
-                birebir
-                or (j_cekd >= 0.45 and r_d >= 0.80 and not a["_onermeli"])
-                or ortak_sik >= 3
-            )
-            if yakin:
+            bul = bulanik_ortak(a, b)
+            tur = None
+            if d_ayni and (r_kok >= 0.60 or bul >= 3):
+                tur = "BİREBİR"
+            elif r_kok >= 0.80 and bul >= 3:
+                tur = "KÖK-ÇELDİRİCİ"
+            if tur:
                 out.append(
                     dict(
                         gm=a["_id"],
                         gmy=b["_id"],
-                        birebir=birebir,
+                        tur=tur,
                         kok_oran=round(r_kok, 2),
                         d_oran=round(r_d, 2),
-                        ortak_sik=ortak_sik,
-                        cekd=round(j_cekd, 2),
+                        ortak_sik=bul,
                         kokd=round(j, 2),
                     )
                 )
@@ -366,8 +367,8 @@ def ozet(q, n=150):
 def main():
     argv = sys.argv[1:]
     Q = gm_yukle()
+    G = gmy_yukle()
     dizin = {q["_id"]: q for q in Q}
-    G = gmy_yukle() if "--gmy" in argv or "--hepsi" in argv or True else []
     gdiz = {q["_id"]: q for q in G}
     idf = idf_hesapla(Q, G)
     adaylar = gm_tara(Q, idf)
@@ -376,11 +377,10 @@ def main():
     olc = Counter(c for x in adaylar for c in x["olcut"])
     print(f'GM: {len({q["_kod"] for q in Q})} bölüm, {len(Q)} soru; GMY: {len(G)} soru')
     print(
-        f'Aday çift: {len(adaylar)} (bölüm içi {sayac["İÇ"]}, bölümler arası {sayac["ARA"]}); ölçüt sayıları {dict(olc)}'
+        f'GM aday çift: {len(adaylar)} (bölüm içi {sayac["İÇ"]}, bölümler arası {sayac["ARA"]}); '
+        f"ölçüt sayıları {dict(sorted(olc.items()))}"
     )
-    print(
-        f'GMY çapraz yakın: {len(capraz)} (birebir {sum(x["birebir"] for x in capraz)})'
-    )
+    print(f'GMY çapraz aday: {len(capraz)} {dict(Counter(x["tur"] for x in capraz))}')
     CIKTI.parent.mkdir(parents=True, exist_ok=True)
     CIKTI.write_text(
         json.dumps(dict(gm=adaylar, gmy=capraz), ensure_ascii=False, indent=1),
@@ -395,17 +395,16 @@ def main():
             ):
                 print(
                     f"\n## {x['a']} ↔ {x['b']}  ölçüt={x['olcut']} kanıt={x['kanit']} çek+d={x['cekd']} "
-                    f"kök+çek={x['kokcek']} d={x['d_oran']} şık={x['ortak_sik']} madde={x['ortak_madde']}"
+                    f"kök={x['kok_oran']} d={x['d_oran']} şık={x['ortak_sik']} madde={x['ortak_madde']}"
                     + (f" eşya={x['esya']}" if x["esya"] is not None else "")
                 )
                 print(ozet(dizin[x["a"]]))
                 print(ozet(dizin[x["b"]]))
     if "--gmy" in argv:
         print("\n==================== GMY ÇAPRAZ ====================")
-        for x in sorted(capraz, key=lambda x: (not x["birebir"], x["gm"])):
+        for x in sorted(capraz, key=lambda x: (x["tur"], x["gm"])):
             print(
-                f"\n## {x['gm']} ↔ {x['gmy']} birebir={x['birebir']} kök={x['kok_oran']} d={x['d_oran']} "
-                f"şık={x['ortak_sik']} çek+d={x['cekd']}"
+                f"\n## {x['gm']} ↔ {x['gmy']} {x['tur']} kök={x['kok_oran']} d={x['d_oran']} şık={x['ortak_sik']}"
             )
             print(ozet(dizin[x["gm"]]))
             print(ozet(gdiz[x["gmy"]]))

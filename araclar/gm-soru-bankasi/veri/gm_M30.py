@@ -171,7 +171,7 @@ Q = [
         madde="99/13812 sayılı Vergi, Resim ve Harç İstisnası Hakkında Karar md. 10, Geçici 3, Geçici 4",
         cek="Müeyyideli kapatmaya itiraz: tebliğden itibaren 60 gün, Bakanlığa (İhracat Genel Müdürlüğü) yazılı; kapatma belgeleri TCMB şubesine belge süresi sonundan 3 ay.",
         kok=[
-            f"{KR}'a göre Vergi Resim Harç İstisnası Belgesi sahibi firma, kendisine tebliğ edilen taahhüt hesabının müeyyideli kapatılması işlemine karşı hangi süre içinde ve hangi makama yazılı olarak itiraz edebilir?"
+            f"99/13812 sayılı {KR}'a göre Vergi Resim Harç İstisnası Belgesi sahibi firma, kendisine tebliğ edilen taahhüt hesabının müeyyideli kapatılması işlemine karşı hangi süre içinde ve hangi makama yazılı olarak itiraz edebilir?"
         ],
         d="Tebliğ tarihinden itibaren 60 gün içinde Bakanlığa (İhracat Genel Müdürlüğü)",
         c=[
@@ -211,7 +211,7 @@ Q = [
         madde="99/13812 sayılı Vergi, Resim ve Harç İstisnası Hakkında Karar md. 7, 8, 10, 15",
         cek="VRHİB ithalata mesnet olmaz; süresi azami 24 ay; taahhüdü TCMB şubesi kapatır; sahtecilik sabitse firma adına 1 yıl belge düzenlenmez.",
         kok=[
-            f"{KR}'a göre Vergi Resim Harç İstisnası Belgesine ilişkin;",
+            f"99/13812 sayılı {KR}'a göre Vergi Resim Harç İstisnası Belgesine ilişkin;",
             "I. Belge ithal hakkı içermediğinden ithalata mesnet teşkil etmez.",
             "II. Belgenin süresi azami on iki aydır; ancak tebliğle belirlenen özellik arz eden satış ve teslimlerde belge süresi proje süresi kadar tespit edilebilir.",
             "III. Belge ihracat taahhüdü, Türkiye Cumhuriyet Merkez Bankasının ilgili şubesi tarafından kapatılır.",

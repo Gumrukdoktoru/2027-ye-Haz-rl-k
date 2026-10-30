@@ -93,7 +93,7 @@ Q = [
         madde="Kaynak Kullanımını Destekleme Fonu Hakkında Karar (88/12944) md. 3, 4",
         cek="Teşvik belgeli ithalat, petrol-gübre-buğday-arpa ithalatı, bağlı muamele ve takasta kesinti yok; DİİB kapsamında %0; belgesiz mal mukabili ithalatta %6.",
         kok=[
-            f"{KKDF}'a göre aşağıdaki işlemlerden hangisi, Fona kesinti yapılmayan ya da kesinti oranının %0 olarak uygulandığı işlemler arasında yer almaz?"
+            f"88/12944 sayılı {KKDF}'a göre aşağıdaki işlemlerden hangisi, Fona kesinti yapılmayan ya da kesinti oranının %0 olarak uygulandığı işlemler arasında yer almaz?"
         ],
         d="Herhangi bir teşvik veya izin belgesine bağlı olmaksızın mal mukabili ödeme şekline göre yapılan ithalat",
         c=[
@@ -133,7 +133,7 @@ Q = [
         madde="88/12944 sayılı Kararnameye İlişkin Kaynak Kullanımını Destekleme Fonu Hakkında 6 Sayılı Tebliğ",
         cek="Kabul kredili, vadeli akreditif, mal mukabili ithalatta KKDF %6; kesintinin yatırıldığı tarihteki TCMB döviz alış kuruyla, fiili ithalden önce yatırılır.",
         kok=[
-            "Kaynak Kullanımını Destekleme Fonu Hakkında 6 Sayılı Tebliğ'e göre kabul kredili, vadeli akreditif ve mal mukabili ödeme şekillerine göre yapılan ithalatta Fon kesintisinin oranı ve kesintinin hesaplanmasında esas alınan kur aşağıdakilerden hangisinde doğru olarak verilmiştir?"
+            "88/12944 sayılı Kararnameye İlişkin Kaynak Kullanımını Destekleme Fonu Hakkında 6 Sayılı Tebliğ'e göre kabul kredili, vadeli akreditif ve mal mukabili ödeme şekillerine göre yapılan ithalatta Fon kesintisinin oranı ve kesintinin hesaplanmasında esas alınan kur aşağıdakilerden hangisinde doğru olarak verilmiştir?"
         ],
         d="Oran: %6 – Kur: Fon kesintisinin yatırıldığı tarihteki gösterge niteliğindeki TCMB döviz alış kuru",
         c=[
@@ -497,7 +497,7 @@ Q = [
         madde="Kaynak Kullanımını Destekleme Fonu Hakkında Karar (88/12944) md. 5, 8",
         cek="Gümrük tahsilatları haftalık aktarılır; cezai faiz kanuni faizin iki katı; indirimli kesintiler gümrükçe tahsil; bankalar izleyen ayın 15'ine kadar yatırır.",
         kok=[
-            f"{KKDF}'a göre;",
+            f"88/12944 sayılı {KKDF}'a göre;",
             "I. Gümrük idarelerince yapılan fon tahsilatları haftalık olarak Fona aktarılır.",
             "II. Müeyyide uygulamasında cezai faiz oranı kanuni faiz oranının iki katıdır.",
             "III. Fon kesintisi indirimi uygulanan ithalat işlemlerinde ihracatın veya taahhüdün gerçekleşmemesi durumunda, indirimli uygulanan fon kesintileri tama iblağ edilerek cezai faizi ile birlikte gümrük idarelerince firmalardan tahsil edilir.",

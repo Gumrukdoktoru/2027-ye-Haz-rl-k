@@ -11,7 +11,7 @@ Q = [
         madde="Dahilde İşleme Rejimi Kararı (2005/8391) md. 1",
         cek="Karar amacı: dünya fiyatlarıyla hammadde temini yoluyla ihracatı artırmak, rekabet gücü, ihraç pazarlarını geliştirmek, ihraç ürünlerini çeşitlendirmek.",
         kok=[
-            "Dahilde İşleme Rejimi Kararı'nın amaç hükmünde aşağıdakilerden hangisi sayılmamıştır?"
+            "2005/8391 sayılı Dahilde İşleme Rejimi Kararı'nın amaç hükmünde aşağıdakilerden hangisi sayılmamıştır?"
         ],
         d="Yurt içinde üretilen hammaddenin ihraç ürünlerinde kullanımını artırmak",
         c=[
