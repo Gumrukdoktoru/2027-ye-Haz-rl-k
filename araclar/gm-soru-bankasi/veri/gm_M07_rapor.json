@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "İthalatta yerinde gümrüklemede gümrük müdürlüğünün belirlenmesi, tesise varış bildirimi, mesai dışı talep ve mühürsüz getirme koşulları, güvenli park alanında 48 saatlik işlemler ve beyan-muayene adımları (md. 135-139), elleçleme ve diğer kurumların numune alması, iznin askıya alınma merdiveni (md. 141), ön izleme ve yerinde izleme (5 yıl, 15+15 iş günü), elektronik sistem ve YYS listesinin yayımlanması, beyana aykırılık eşikleri (%3, %10), iştigal alanı tanımı ve OKS geçiş hükümleri ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kota 15 soru için 6/4/3/2 tam tutturuldu; kökü olumsuz 6 (%40). Sabit harfli sorular S2 C, S5 B, S9 B, S12 D (bitişik aynı harf yok).",
+  "Önermeli kombinasyonları: S2 'I, III ve IV', S9 'II, III ve V', S12 'I, II ve IV'; en kapsamlı şık hiçbirinde doğru değil.",
+  "Çıkmış alan eşlemesi: 2023/42 (güvenli depolama alanı giriş kayıtları) → S1, giriş yerine çıkış kayıtları soruldu; mühür numarası giriş listesinden komşu tuzak. 2025/92 (İYG ek koşulları) → S2, ek koşulların sayımı yerine grup ithalatçısında %60 raporu, düşük götürü teminatın 1.000.000 Avroluk alt sınırı, 2.000.000 Avro götürü teminatın 500.000 Avro koşulunu karşılaması, güvenli alan ortak kullanımı ve 3 yıllık tesis incelemesi. 2025/90 (askıya alma halleri) → S12 (askı usulü ve süreleri) ve S13 (geri alma ↔ askı ↔ iptal ayrımı); çıkmıştaki kamu alacağı, unvan değişikliği, yasak eşya, sahte belge ve ISO şıkları yeniden kullanılmadı.",
+  "M06 raporunda bu bölüme bırakılan 2023/42 alanı S1 ile karşılandı.",
+  "Ayna: S12 (askıya alma) ↔ S13 (geri alma). Prompt 5 ikiz eksen tablosunda bu bölüme düşen eksen yok (eksen=0).",
+  "Vaka: S4 (aynı araçta birden fazla alıcıya ait eşya), S10 (YYS sahibi taşıma işletmesinin YYS olmayan ithalatçı için azaltılmış özet beyan vermesi, her seferinde 6 ay askı).",
+  "Grup içi tekrar önlendi: M04-M06'da sorulan paralel hükümler (izinli alıcının 15 dakika/3 saat ve 20 gün süreleri, kamera kayıtları 1 yıl/3 yıl, ÖTV (I) istisnası, araçta farklı varışlı beyan, TL teminatta kur ve süresiz mektup, ihracatta yerinde gümrüklemede tek gümrük müdürlüğü, sınır kapılarında öncelikli geçiş, dava sürecinde kullanılabilen haklar) M07'de soru konusu yapılmadı.",
+  "Profil 5 (güncelleme) ve güncellik sorusu yok: kaynakta değişiklik tarihi dipnotu bulunmuyor. Meslek yanlılığı sorusu yok: konu gümrük müşaviri veya temsil içermiyor.",
+  "Kaynak notu: dosya md. 162-163'ü de içeriyor (bolumler.json notu md. 121-161/A); md. 162 onaylanmış kişi statüsü geçiş hükümleri M08 ile örtüşebileceği için kullanılmadı."
+ ]
+}
