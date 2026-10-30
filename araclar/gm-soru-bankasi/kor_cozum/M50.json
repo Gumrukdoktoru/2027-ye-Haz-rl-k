@@ -1,0 +1,58 @@
+{
+ "M50-01": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "PAAMK Yönetmeliği Md.2 (31.12.2025/33124 RG, yürürlük 01.01.2026): Yönetmelik Tunus (a) ve Mısır (b) protokollerini kapsar.",
+  "sorun": [
+   "Kaynaktaki Md.2 dipnotunda 'değişik Mülga' ifadesi birlikte geçiyor; metin Tunus ve Mısır'ı saydığı için cevap etkilenmiyor."
+  ]
+ },
+ "M50-02": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Md.7/2 kendi gemileri şartları: taraf ülkede kayıtlı/tescilli, bayrağı altında seyreden, %50 sahiplik, yönetici ve yetkilileri vatandaş, mürettebatın en az %75'i vatandaş. Tersanede inşa şartı yok.",
+  "sorun": []
+ },
+ "M50-03": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Md.8/2(a): 'Toplam kıymetlerinin, ürünün fabrika çıkış fiyatının % 10'unu geçmemesi'.",
+  "sorun": []
+ },
+ "M50-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Md.6/1(a) I, 6/1(c) II, 6/1(g) III doğru; Md.6/2: 'Lihtenştayn Prensliği, İsviçre ile gümrük birliği bulunmakta' (IV yanlış).",
+  "sorun": []
+ },
+ "M50-05": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Md.30/2: 'Fatura beyanı veya EUR-MED fatura beyanı, ihracatçı tarafından hazırlanış tarihinden itibaren dört ay geçerli olur'. A (19/1), B (19/7), C (19/8), E (19/6) doğru.",
+  "sorun": []
+ },
+ "M50-06": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Md.30/6: Başmüdürlük 'belgelerin süresini en çok bir ay uzatabilir'. B (30/1), C (30/4), D (30/5), E (31/2) doğru.",
+  "sorun": []
+ },
+ "M50-07": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Md.16/1-2: sergi şartları sağlanınca Anlaşma hükümlerinden yararlanır; 'menşe ispat belgesi, normal usullere uygun olarak ... ibraz edilir. Bu belge üzerinde serginin adı ve adresi belirtilir.'",
+  "sorun": []
+ },
+ "M50-08": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Md.13 etkisiz unsurlar: enerji ve yakıt, tesis ve teçhizat, makine ve aletler, nihai bileşime girmeyen eşya. Ambalaj Md.10/2 uyarınca 5 sayılı GK ile sınıflandırmaya dahilse menşe tespitine de dahil edilir.",
+  "sorun": []
+ },
+ "M50-09": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Md.26/1: hata/ihmal/özel durum veya teknik nedenle kabul edilmeme ispat edilirse ihracattan sonra düzenlenebilir (I, II doğru); Md.29/2: müfrez belge talebi 'yazılı olarak yapılır' (III yanlış); Md.29/3: müfrez belge EUR.1 olarak kabul edilir (IV yanlış).",
+  "sorun": []
+ }
+}

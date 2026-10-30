@@ -1,0 +1,68 @@
+{
+ "M51-01": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Revize PEM Yönetmeliği Md.32/1: 'EUR.1 dolaşım belgesi, ihracatı gerçekleştiren Taraf ülkedeki vize tarihinden itibaren on ay geçerli olur'.",
+  "sorun": []
+ },
+ "M51-02": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Md.8/1(b): diğer tüm ürünler için tolerans 'ürünün fabrika çıkış fiyatının % 15'ini' (E'deki %10 yanlış). A (8/1-a), B (8/2), C (8/3), D (8/4) doğru.",
+  "sorun": []
+ },
+ "M51-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Md.2 kapsamı: Faroe, EFTA, AB tarım 1/98, AKÇT, Bosna-Hersek, Fas, Filistin, Gürcistan, Karadağ, Kosova, Makedonya, Sırbistan, Moldova, Mısır, Arnavutluk. Tunus yok.",
+  "sorun": []
+ },
+ "M51-04": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Md.4/1(i) EFTA: İzlanda, İsviçre, Lihtenştayn, Norveç (I doğru); (e) İstikrar ve Ortaklık: Arnavutluk, Bosna Hersek, K. Makedonya, Karadağ, Sırbistan, Kosova — Moldova yok (II yanlış); (ğ) Barselona: Cezayir, Mısır, İsrail, Ürdün, Fas, Filistin, Suriye, Tunus, Türkiye — Lübnan yok (III yanlış); (ı) Taraf ülkeler arasında Gürcistan, Moldova, Ukrayna (IV doğru).",
+  "sorun": []
+ },
+ "M51-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "27.03.2026 yazısı md.2: AKÇT STA'nın menşe protokolü Revize Konvansiyon olduğundan ve '50-63 üncü fasıllar dışındaki ürünlerde geri ödeme yasağı kalktığı için AKÇT kapsamı ürünlerin AB'ye ihracatında TEV doğmayacaktır' (01.01.2026 sonrası).",
+  "sorun": []
+ },
+ "M51-06": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Yazı md.1 (I doğru), md.7 Tunus (II doğru), md.7 Mısır: 'EUR-MED dolaşım belgesi eşliğinde yapılan ihracatlarda ... TEV tahsilatı uygulamasına devam edilecektir' (III yanlış), md.5 Moldova 20/2/2026 sonrası TEV doğmaz (IV doğru).",
+  "sorun": []
+ },
+ "M51-07": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Md.6/2: kendi gemileri şartları yalnız kayıt, bayrak ve %50 sahiplik (şirket ise merkez/ana işyeri ve %50). Mürettebat %75 şartı revize kurallarda yok.",
+  "sorun": []
+ },
+ "M51-08": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Md.16/3: 'sevkiyatlar, söz konusu üçüncü ülke veya ülkelerde gümrük gözetimi altında yapılması şartıyla bölünebilir.' A (16/2), C (16/1), D-E (16/4) doğru.",
+  "sorun": []
+ },
+ "M51-09": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Md.21/5: 'Türkiye'de düzenlenen uzun dönem tedarikçi beyanları, beyanın düzenlendiği tarihten itibaren azami iki yıllık bir süre zarfında geçerli olur.'",
+  "sorun": []
+ },
+ "M51-10": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Md.53/1: 'San Marino Cumhuriyeti menşeli ürünler ile ... 25 ila 97 nci fasıllarında yer alan Andorra ... menşeli ürünler ... AB menşeli ürünler olarak kabul edilir.' Md.51 'AB' Septe ve Melilya'yı kapsamaz; Md.55 Lihtenştayn İsviçre menşeli; Md.52/5 İspanyol gümrük idareleri sorumlu.",
+  "sorun": []
+ },
+ "M51-11": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Md.58 başlığı 'Geçirgenlik': 2012 kurallarına göre menşeli kabul edilen ve AS 1, 3, 16 (işlenmiş balıkçılık) ve 25-97. fasıllardaki eşya 10. madde kapsamında kümülasyona tabi tutulabilir.",
+  "sorun": []
+ }
+}
