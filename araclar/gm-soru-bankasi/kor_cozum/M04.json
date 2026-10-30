@@ -1,0 +1,74 @@
+{
+ "M04-01": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY md.4/11: izinli gönderici yetkisine sahip olmaları koşuluyla ve ayrıca talep gerekmeksizin sınır kapılarından öncelikli geçiş hakkı.",
+  "sorun": []
+ },
+ "M04-02": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GİKY md.9/1: istisna sermayesinin tamamı devlete ait İDT'ler içindir (yarısından fazlası değil); md.10/11 ve 11/2 diğer şıkları doğrular.",
+  "sorun": []
+ },
+ "M04-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 4/A: YYS-I için 5 milyon $ + (ort. 50 işçi veya 10 milyon $) gerekir, sağlanmamış; YYS-II için 1 milyon $ + (30 işçi veya 5 milyon $) sağlanmış (40 işçi, 6 milyon $).",
+  "sorun": []
+ },
+ "M04-04": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 5/8: teminata bağlanan, yapılandırılan, tecil edilen, taksitlendirilen veya mahsup talebi KABUL edilen borçlar dikkate alınmaz; reddedilen sayılmamış.",
+  "sorun": []
+ },
+ "M04-05": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GİKY 5/1-l: en az 100 adet beyan kapsamında işlem yapılmış olması gerekir (50 değil); diğer şıklar 5/1, 5/2, 5/4, 5/6.",
+  "sorun": []
+ },
+ "M04-06": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 14/1: imza (b), ISO eksikliği (c), iptal sonrası 3 yıl (ç), 3 yıldan az faaliyet (e) ön incelemesiz ret; SGK belgesi eksikliği 12/3 kapsamında tamamlatılır.",
+  "sorun": []
+ },
+ "M04-07": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 12/5: bildirilen eksikliklerin bildirim tarihini müteakip en geç 45 iş günü içinde tamamlanması gerekir.",
+  "sorun": []
+ },
+ "M04-08": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 16/2: yetkilendirilmiş yükümlü sertifikası süresiz olarak geçerlidir (üç yıl değil).",
+  "sorun": []
+ },
+ "M04-09": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY md.3/1-ğ: grup ithalatçısı tanımı.",
+  "sorun": []
+ },
+ "M04-10": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 7/1 (I); 7/2 Ocak ilâ Mart ayları (II'deki Haziran yanlış); 10/1-b adli sicil 2 ay (III); 7/3 (IV).",
+  "sorun": []
+ },
+ "M04-11": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 15/7: dava sürecinde yalnız eksik beyan, kısmi teminat, götürü teminat, basitleştirilmiş A.TR ve kıymete bakılmaksızın fatura beyanı izinlerinden faydalanılır.",
+  "sorun": []
+ },
+ "M04-12": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 4/4: 60 iş günü içinde yeniden başvurulmazsa sertifika 154/11 uyarınca askıya alınır (iptal edilmez).",
+  "sorun": []
+ }
+}

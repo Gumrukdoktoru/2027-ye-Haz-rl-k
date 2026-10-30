@@ -1,0 +1,74 @@
+{
+ "M61-01": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.8/1 mükellef sayımında lisanslı depo işleticisi yok; Md.9/3: ürün senedi tesliminde KDV'nin ödenmesinden 'lisanslı depo işleticileri sorumludur' (vergi sorumlusu).",
+  "sorun": []
+ },
+ "M61-02": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.10/g: 'İTHALATTA, Gümrük Kanununa göre gümrük vergisi ödeme mükellefiyetinin başlaması, gümrük vergisine tabi olmayan işlemlerde ise gümrük beyannamesinin tescili'.",
+  "sorun": []
+ },
+ "M61-03": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.21/c: 'Gümrük beyannamesinin tescil tarihine kadar yapılan diğer giderler ve ödemelerden vergilendirilmeyenler'; tescilden sonraki giderler matraha girmez. A, C, D, E Md.21/a-b-c-ç.",
+  "sorun": []
+ },
+ "M61-04": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.23/e: altın ziynet ve sikke altın teslim ve ithalinde 'matrah, külçe altın bedeli düşüldükten sonra kalan miktardır'.",
+  "sorun": []
+ },
+ "M61-05": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.16/1-a (I doğru); 16/2 'kazandığı değer farkı istisnaya dahil değildir' (II yanlış); 16/1-b parantez: ihracat istisnasından faydalanılan miktarın ödenmesi/teminat (III doğru); Md.19/1 diğer kanunlardaki muafiyetler 'bu vergi bakımından geçersizdir' (IV yanlış).",
+  "sorun": []
+ },
+ "M61-06": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.11/1-c: 'ihracatçıya teslim tarihini takip eden ay başından itibaren üç (3) ay içinde ihraç edilmesi halinde, tecil edilen vergi terkin olunur'.",
+  "sorun": []
+ },
+ "M61-07": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.28: 'KDV oranı, vergiye tabi her bir işlem için %10'dur. Cumhurbaşkanı bu oranı dört (4) katına kadar artırmaya, %1'e kadar indirmeye ... yetkilidir'.",
+  "sorun": []
+ },
+ "M61-08": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "2007/13033 Karar Md.1/3: (I) sayılı listenin gıda bölümündeki ÖTV'ye tabi ürünlerin tesliminde 'birinci fıkranın (c) bendinde öngörülen vergi oranı' yani %10 uygulanır, %20 değil. A Md.1/1-a, B Md.1/2, C Md.1/5, D Md.2.",
+  "sorun": []
+ },
+ "M61-09": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "(I) sayılı liste A/6: '8 no.lu faslında yer alan mallar' (istisnasız); 3. fasıl süs balıkları hariç, 4. fasıl bazı pozisyonlar hariç, 12. ve 22. fasıl 'yalnız' kaydıyla.",
+  "sorun": []
+ },
+ "M61-10": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.13/b parantez: 'gezi, eğlence, spor ve amatör balıkçılık gibi faaliyetlerde kullanılan araçlar, özel tekne ve yatlar deniz aracı olarak kabul edilmez'. B Md.17/4-o, C 17/4-ö, D Md.14/3, E Md.15/1-a.",
+  "sorun": []
+ },
+ "M61-11": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.46/2: 'İthalde alınan KDV, gümrük vergisi ile birlikte ve aynı zamanda ödenir'. A yanlış (Md.43/4 gümrük idaresince), B yanlış (Md.41/2 mükellefiyetin başladığı anda), C yanlış (Md.48 Gümrük Kanunundaki esaslar), E yanlış (Md.52 dahil edilir).",
+  "sorun": []
+ },
+ "M61-12": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "3065 Md.17/4: (f) Darphane ve Damga Matbaası (I doğru); (p) belediye, il özel idaresi ve YİKOB taşınmaz satışları (II doğru); (g) külçe altın/gümüş teslimleri istisna (III yanlış); (ı) serbest bölge hizmetleri (IV doğru); (r) 'en az iki tam yıl' (V yanlış).",
+  "sorun": []
+ }
+}

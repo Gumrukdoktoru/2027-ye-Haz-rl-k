@@ -55,7 +55,7 @@ Q = [
         cek="İzin süresiz; genel antrepo gümrüğe en fazla 50 km; büyükşehir dışında 3.000 m², %20 kapalı; aynı gayrimenkul tek müdürlük; yatırım izni aranmayan özel antrepodur.",
         kok=[
             GY
-            + "e göre antrepo açma ve işletme izni ile genel antrepo olarak açılacak yerlerin taşıması gereken şartlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+            + "ne göre antrepo açma ve işletme izni ile genel antrepo olarak açılacak yerlerin taşıması gereken şartlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
         ],
         d="Akaryakıt antrepoları hariç olmak üzere genel antrepolar için yatırım izni aranmaz.",
         c=[
@@ -95,7 +95,7 @@ Q = [
         cek="Yatırım izni: asgari üç yıldır faaliyette, ödenmiş sermayesi 1-2. bölgede 40, 3-4. bölgede 20, 5-6. bölgede 10 milyon TL olan şirket.",
         kok=[
             GY
-            + "e göre Yatırımlarda Devlet Yardımları Hakkında Kararın Yatırım Teşvik Uygulamalarında Bölgeler tablosunda 3. Bölge kapsamında yer alan bir ilde genel antrepo açmak üzere yatırım izni isteyen anonim şirket için aranan asgari ödenmiş sermaye ve asgari faaliyet süresi aşağıdakilerden hangisinde birlikte doğru verilmiştir?"
+            + "ne göre Yatırımlarda Devlet Yardımları Hakkında Kararın Yatırım Teşvik Uygulamalarında Bölgeler tablosunda 3. Bölge kapsamında yer alan bir ilde genel antrepo açmak üzere yatırım izni isteyen anonim şirket için aranan asgari ödenmiş sermaye ve asgari faaliyet süresi aşağıdakilerden hangisinde birlikte doğru verilmiştir?"
         ],
         d="20.000.000 TL – asgari üç yıl",
         c=[
@@ -143,7 +143,7 @@ Q = [
         cek="Yaygın teminatta başka teminat aranmaz; çok bölgeli başvuru en çok antrepolu bölgeye; ek teminat bir ay içinde; akaryakıt ve ÖTV (I) liste hariç.",
         kok=[
             GY
-            + "e göre antrepo işleticilerince verilen götürü ve yaygın götürü teminata ilişkin;",
+            + "ne göre antrepo işleticilerince verilen götürü ve yaygın götürü teminata ilişkin;",
             "I. Yaygın götürü teminat verilen antrepolara konulan eşya için başka bir teminat aranmaz.",
             "II. Yaygın götürü teminat kullanılması talep edilen antrepolar birden fazla bölge müdürlüğü bağlantısı gümrük müdürlüğünün denetiminde ise başvuru, işleticinin bu kapsamdaki en fazla antreposunun bulunduğu bölge müdürlüğüne yapılır.",
             "III. Alan veya hacim değişikliği nedeniyle mevcut teminat tutarı yetersiz kalırsa ek teminat mektubu, değişikliği takip eden üç ay içerisinde önceki teminatın verildiği bölge müdürlüğüne verilir.",
@@ -185,7 +185,7 @@ Q = [
         cek="A: işletici stok tutar, sorumlu; B: kullanıcı sorumlu, işletici yalnız kiralar, stok kaydı yok; F: gümrük işletir; lisanslı depo A, C, D, E.",
         kok=[
             GY
-            + "e göre gümrük antrepo tiplerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+            + "ne göre gümrük antrepo tiplerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
         ],
         d="B tipi antrepoda antrepo stok kayıtlarını işletici tutar ve antrepoya konulan eşyadan işletici sorumludur.",
         c=[
@@ -225,7 +225,7 @@ Q = [
         cek="Bölge müdürlüğü izniyle konulan eşyadan biri: fikri ve sınai mülkiyet hakkı sahibinin yetkilerine tecavüz eden eşya; TİTCK ürünü kurum izin belgesine tabidir.",
         kok=[
             GY
-            + "e göre aşağıdaki eşyadan hangisi, gümrük ve ticaret bölge müdürlüklerinin izni ile gümrük antrepolarına konulabilecek eşya arasında yer alır?"
+            + "ne göre aşağıdaki eşyadan hangisi, gümrük ve ticaret bölge müdürlüklerinin izni ile gümrük antrepolarına konulabilecek eşya arasında yer alır?"
         ],
         d="Marka veya endüstriyel tasarım hakkı sahibinin yetkilerine tecavüz eder mahiyetteki eşya",
         c=[
@@ -264,7 +264,7 @@ Q = [
         madde=GY + " md. 525/6, 525/7, 525/9",
         cek="İzni geri alınan şirket yöneticilerine beş yıl, kaçakçılıkta hiç izin yok; YGM iş ilişkisinde üç ay, asgari ücret altında bir ay eşya alınmaz.",
         kok=[
-            GY + "e göre antrepo işleticilerine uygulanacak yaptırımlara ilişkin;",
+            GY + "ne göre antrepo işleticilerine uygulanacak yaptırımlara ilişkin;",
             "I. Sahiplerinin isteğiyle kapatılma hâli hariç, antrepo açma izni geri alınan anonim şirketin yönetim kurulu üyelerinin yer aldığı diğer tüzel kişilere iznin geri alındığı tarihten itibaren beş yıl süreyle yeniden antrepo açma izni verilmez.",
             "II. Antrepoda kaçakçılık gibi bir suiistimal saptanması nedeniyle antrepo açma ve işletme izni geri alınan kişilere yeni bir antrepo açma ve işletme izni verilmez.",
             "III. Yetkilendirilmiş gümrük müşaviri ile tespit işlemi yaptıran antrepo işleticisi arasında tespit işlemi haricinde doğrudan veya dolaylı iş ilişkisi tespit edilirse ilgili antrepoya üç ay süreyle eşya alınmasına izin verilmez.",
@@ -352,7 +352,7 @@ Q = [
         cek="İhracı veya başka işlemi mümkün olmayan serbest dolaşımdaki eşya, takvim yılında en fazla beş defa YGM veya gümrük memuru gözetiminde çıkarılır, beyanname iptal edilir.",
         kok=[
             GY
-            + "e göre gümrük antreposuna konulması hâlinde ihracata bağlı önlemlerden yararlanabilen serbest dolaşımdaki eşya antrepoya konulmuş, ancak eşyanın ihracı veya gümrükçe onaylanmış bir işlem ya da kullanıma tabi tutulması mümkün olmamıştır.",
+            + "ne göre gümrük antreposuna konulması hâlinde ihracata bağlı önlemlerden yararlanabilen serbest dolaşımdaki eşya antrepoya konulmuş, ancak eşyanın ihracı veya gümrükçe onaylanmış bir işlem ya da kullanıma tabi tutulması mümkün olmamıştır.",
             "Bu durumda aşağıdakilerden hangisi uygulanır?",
         ],
         d="Bir takvim yılında beş defayı geçmemek üzere, yetkilendirilmiş gümrük müşaviri veya gümrük memuru gözetiminde eşyanın antrepodan çıkartılmasına izin verilerek beyanname iptal edilir.",
@@ -393,7 +393,7 @@ Q = [
         cek="Solvent ve baz yağ serbest dolaşım için kural olarak devredilmez; haciz engeli çözülmeden işlem yok; vergi ve cezalar devralana geçer; istisnada iki yıl faaliyet.",
         kok=[
             GY
-            + "e göre gümrük antrepolarında depolanan eşyanın satış suretiyle başkasına devrine ilişkin;",
+            + "ne göre gümrük antrepolarında depolanan eşyanın satış suretiyle başkasına devrine ilişkin;",
             "I. Gümrük antrepolarında depolanan solvent ve baz yağın satış suretiyle devrine, devralan tarafından serbest dolaşıma sokulacak olması durumunda kural olarak izin verilmez.",
             "II. Eşyanın mülkiyetine ilişkin devri önleyici haciz ya da ihtiyati tedbir kararı gibi hukuki bir engel varsa bu durum açıklığa kavuşturulmadan devir işlemi yapılamaz.",
             "III. Eşyanın devriyle gümrük vergilerine ilişkin sorumluluk devralana geçer; para cezalarına ilişkin sorumluluk ise devredende kalır.",
@@ -435,7 +435,7 @@ Q = [
         cek="Özel antrepo devrinde eşyaya bir ay, uzatma iki ay; D tipi kayıt izinliye devredilir; hisse devri 10 iş gününde bildirilir; montajlı E tipi devredilmez.",
         kok=[
             GY
-            + "e göre antrepoların devri ile antrepo işleticisi şirketlerde hisse devrine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+            + "ne göre antrepoların devri ile antrepo işleticisi şirketlerde hisse devrine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
         ],
         d="Şirket hisselerinin devri durumunda bir ay içerisinde gümrük müdürlüğüne bilgi verilir.",
         c=[
@@ -475,7 +475,7 @@ Q = [
         cek="Plan değiştiren genişletme bölge müdürlüğünde, taşınma ve devir Bakanlıkta, dış elleçleme bölge müdürlüğünde, plan değiştirmeyen değişiklik gümrük müdürlüğünde sonuçlanır.",
         kok=[
             GY
-            + "e göre aşağıdaki antrepo talebi ile talebi sonuçlandıran merci eşleştirmelerinden hangisi doğrudur?"
+            + "ne göre aşağıdaki antrepo talebi ile talebi sonuçlandıran merci eşleştirmelerinden hangisi doğrudur?"
         ],
         d="Antrepo planında değişiklik yapılmasını gerektiren genişletme talebi – Bölge müdürlüğü",
         c=[
@@ -516,7 +516,7 @@ Q = [
         kok=[
             "Gümrük Kanunu ve "
             + GY
-            + "e göre antrepo rejiminde verilecek teminata ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+            + "ne göre antrepo rejiminde verilecek teminata ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
         ],
         d="Türk lirası, yabancı para, Hazine tahvil ve bonosu ile Bakanlıkça tespit edilecek bankalardan alınmış teminat mektuplarının yanı sıra kefalet senedi de teminat olarak kabul edilir.",
         c=[
@@ -557,7 +557,7 @@ Q = [
         kok=[
             "Gümrük Kanunu ve "
             + GY
-            + "e göre antrepolarda yapılan yıllık sayımlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
+            + "ne göre antrepolarda yapılan yıllık sayımlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
         ],
         d="Yetkilendirilmiş gümrük müşavirlerince fiziki sayım yapılarak stok kayıtları yıllık dönemler itibarıyla tespit edilen ve raporları gümrük müdürlüğüne sunulan antrepolar, yıllık sayım kapsamı dışındadır.",
         c=[
@@ -597,7 +597,7 @@ Q = [
         cek="Kalış süresi sınırsız; başka işlem için beyanname tescil edilirse işlemler otuz günde bitirilir; bitirilmeyen eşya tasfiye edilir.",
         kok=[
             GY
-            + "e göre antrepoda bulunan eşyanın gümrükçe onaylanmış başka bir işlem veya kullanıma tabi tutulması yönünde beyanname tescil ettirilmesi hâlinde işlemlerin bitirilmesi gereken süre ile bu sürede işlemleri bitirilmeyen eşya hakkında yapılacak işlem aşağıdakilerden hangisinde birlikte doğru verilmiştir?"
+            + "ne göre antrepoda bulunan eşyanın gümrükçe onaylanmış başka bir işlem veya kullanıma tabi tutulması yönünde beyanname tescil ettirilmesi hâlinde işlemlerin bitirilmesi gereken süre ile bu sürede işlemleri bitirilmeyen eşya hakkında yapılacak işlem aşağıdakilerden hangisinde birlikte doğru verilmiştir?"
         ],
         d="Otuz gün – eşya tasfiye edilir.",
         c=[

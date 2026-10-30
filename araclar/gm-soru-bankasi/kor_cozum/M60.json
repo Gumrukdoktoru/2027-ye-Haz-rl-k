@@ -1,0 +1,86 @@
+{
+ "M60-01": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "4875 Md.2/b: yurt dışından getirilen 'Şirket menkul kıymetleri (Devlet tahvilleri hariç)' → I yanlış; yurt içinden sağlanan 'yeniden yatırımda kullanılan kâr, hâsılat, para alacağı' (II), 'menkul kıymet borsalarından en az %10 hisse... ortak olmayı' (III), yabancı yatırımcı tanımında 'yurt dışında ikamet eden Türk vatandaşları' (IV) doğru.",
+  "sorun": []
+ },
+ "M60-02": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "4875 Md.3/g: yabancı uyruklu personele 'Çalışma ve Sosyal Güvenlik Bakanlığınca çalışma izni verilir' (Hazine Müsteşarlığınca değil).",
+  "sorun": []
+ },
+ "M60-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "9903 Md.4/3: Sektörel Teşvik Sistemi destekleri: GV muafiyeti, KDV istisnası, vergi indirimi, faiz/kâr payı desteği, yatırım yeri tahsisi; makine desteği yalnız Türkiye Yüzyılı Kalkınma Hamlesinde.",
+  "sorun": []
+ },
+ "M60-04": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "9903 Md.13/4: 'teminat süresi altı (6) ay olup, sürenin başlangıç tarihi eşyanın serbest dolaşıma giriş tarihidir' (GGT Seri 9 Md.7/2 ile aynı).",
+  "sorun": []
+ },
+ "M60-05": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "9903 Md.13/3 ve Tebliğ 2025/1 Md.23/3: 'Finansal kiralama şirketi adına ayrı bir teşvik belgesi düzenlenmeksizin yatırımcının teşvik belgesi dikkate alınarak' ithalat yapılır; A (Md.15/2), B (Md.13/3), C (Tebliğ 23/2), D (Tebliğ 23/5) doğru.",
+  "sorun": []
+ },
+ "M60-06": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "9903 Md.26/3: 'Tamamlama vizesi için Bakanlığa yapılan müracaat tarihinden itibaren iki (2) yılını doldurmuş sabit kıymetlerin satışı tamamlama vizesi yapılmış olması şartıyla serbest olup... destekler geri alınmaz'.",
+  "sorun": []
+ },
+ "M60-07": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "9903 Md.23: (1) en az iki personelin ekspertizi → I doğru; (2) 'serbest bölgelerden kullanılmış komple tesis ithaline izin verilmez' → II yanlış; (3) Ek-4 makineler KDV istisnası ve GV muafiyeti sağlanmaksızın → III doğru; (5) vergi indirimi, makine desteği, faiz/kâr payı desteğinden faydalanamaz → IV doğru.",
+  "sorun": []
+ },
+ "M60-08": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GGT Seri 9 Md.5/2: GV tahsil edilen eşya listesinde 'Treyler (frigorifik olanlar hariç)'; otobüs, forklift, transmikser, beton pompası listede → frigorifik treylerde GV tahsil edilmez.",
+  "sorun": []
+ },
+ "M60-09": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ 2025/1 Md.4/2 (izin-ruhsat gerekliliğini ortadan kaldırmaz) → I; Md.13/1 (başlamış işlemlerde gümrük idarelerince destekler uygulanarak izin) → II; 9903 Md.32/3 (6183 çerçevesinde geri alınır) → III doğru; Md.13/2 mahrece iade için 'doğrudan gümrük idaresine müracaat edilir' → IV yanlış.",
+  "sorun": []
+ },
+ "M60-10": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GGT Seri 9 Md.8/2: 'yurt dışı edilmesinden itibaren bir (1) yıl içinde aynısı veya yenisinin yurda giriş işlemleri Ekonomi Bakanlığının herhangi bir iznine tabi olmaksızın... doğrudan gümrük idarelerince sonuçlandırılır'.",
+  "sorun": []
+ },
+ "M60-11": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GGT Seri 9 Md.13/2-a: kalem bazında %50'ye kadar (dahil) kıymet farkında 'fatura kıymeti esas alınarak işlem yapılır'; 13/3: menşe ülke değişikliğinde 'listede herhangi bir değişiklik istenilmeden' işlem. Fark (280.000-200.000)/200.000 = %40.",
+  "sorun": []
+ },
+ "M60-12": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GGT Seri 9 Md.15/2: noter tasdikli örnekler kabul edilir 'Ancak, tahakkukun tebliğine kadar... asıllarının ibrazı zorunludur'; A ve D Md.14/1, C Md.15/3, E Md.15/4.",
+  "sorun": []
+ },
+ "M60-13": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Tebliğ 2025/1 Md.3: 'TEVSİ: Mevcut bir yatırımda üretim hattı veya makine ve teçhizat ilavesiyle kapasitenin artırılmasına yönelik olan ve mevcut tesis ile alt yapı müşterekliği oluşturarak bir bütün teşkil eden yatırımlar'.",
+  "sorun": []
+ },
+ "M60-14": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "9903 Md.5/13: destek miktarı '...destekten yararlanılan tarihi takip eden ikinci ayın sonuna kadar ... Bakanlığa iletilir' (Bakanlık = Sanayi ve Teknoloji Bakanlığı), Hazine ve Maliye Bakanlığına değil; A Md.5/11, B-C Md.5/12, D Md.5/14.",
+  "sorun": []
+ }
+}

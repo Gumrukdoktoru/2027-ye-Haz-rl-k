@@ -357,12 +357,26 @@ def profil(Q):
         print(
             f"Kota (olumsuz/klasik/önermeli/diğer) hedef {o}/{k}/{on_}/{d} · gerçek "
             f'{tipler["olumsuz"]}/{tipler["klasik"]}/{tipler["önermeli"]}/{dig} (her biri ±1 serbest)'
+            + (
+                f'; eşyanın yeri (GTİP) ayrıca {tipler["GTİP"]}'
+                if tipler["GTİP"]
+                else ""
+            )
         )
     if turler == {"T"}:
-        yer = sum(q["kalip"] == "GTİP" for q in Q)
-        print(
-            f"Tarife: eşyanın yeri (GTİP) {yer}/{n} (%{round(100 * yer / max(n, 1))}; hedef ≈%70)"
-        )
+        # ≈%70 eşyanın yeri hedefi yalnız fasıl bölümleri (T03–T24) içindir; T01–T02'de kota yok,
+        # T25'te eşyanın yeri soruları ≈%40'ı geçmez.
+        for b in bloklar:
+            Qb = [q for q in Q if str(q.get("blok", "")).strip().upper() == b]
+            yer = sum(q["kalip"] == "GTİP" for q in Qb)
+            oran = f"%{round(100 * yer / max(len(Qb), 1))}"
+            if b in ("T01", "T02"):
+                hedef = "bu bölümde eşyanın yeri kotası uygulanmaz"
+            elif b == "T25":
+                hedef = "üst sınır ≈%40"
+            else:
+                hedef = "hedef ≈%70"
+            print(f"Tarife {b}: eşyanın yeri (GTİP) {yer}/{len(Qb)} ({oran}; {hedef})")
     if turler == {"H"}:
         h = sum(q["kalip"] == "HESAP" for q in Q)
         print(f"Hesaplama: sayısal {h}/{n}")

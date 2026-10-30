@@ -1,0 +1,86 @@
+{
+ "M06-01": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 76/1-b izinli göndericide kapsamlı teminat/teminattan vazgeçme aranır; izinli alıcıda (96/1) bunun yerine 98. madde teminatı aranır; diğer koşullar ikisinde ortak.",
+  "sorun": []
+ },
+ "M06-02": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 98/1: Ek-27/A'ya uygun 1.000.000 Avro tutarında nakit teminat veya teminat mektubu.",
+  "sorun": []
+ },
+ "M06-03": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 76/1-c (I, II), 76/4 (IV); 94/7-c işlem hacmi takvim yılı sonunda da değerlendirilir (III yanlış); 77/1-b ihracatçının YYS sahibi olması gerekmez (V yanlış).",
+  "sorun": []
+ },
+ "M06-04": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 84/10: belge kontrolü sonucunda muayeneye karar verilmişse 3 saatlik süre bu kararın yükümlüye bildirilmesiyle başlar.",
+  "sorun": []
+ },
+ "M06-05": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 102/3: ÖTV (I) listesindeki eşya kapsam dışı eşyayla birlikte getirilmiş ve onun ilk kullanımı için kullanılacaksa kısıtlama uygulanmaz.",
+  "sorun": []
+ },
+ "M06-06": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 111/3: muayene bir sonraki iş gününün başlangıcını takip eden 3 saat içinde de başlamazsa boşaltma izni VERİLMİŞ sayılır.",
+  "sorun": []
+ },
+ "M06-07": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 111/12: güvenli depolama alanındaki eşyanın ithalat işlemleri tesise varış bildirimi tarihinden itibaren azami 20 gün içinde tamamlanır.",
+  "sorun": []
+ },
+ "M06-08": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GİKY 106/2: güvenli park alanı 106/1 özelliklerine sahip ancak kapalı olma zorunluluğu bulunmayan alandır.",
+  "sorun": []
+ },
+ "M06-09": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 97/5 ve 117/2: sevk yalnız izinli gönderici yetkisine de sahip izinli alıcılar tarafından izinli gönderici yetkisi kapsamında yapılabilir.",
+  "sorun": []
+ },
+ "M06-10": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 110/1: aynı araçta tesisin bağlı olduğu gümrük idaresi varışlı olmayan transit beyanı varsa araçtaki hiçbir transit beyanı için izinli alıcı kapsamında işlem yapılamaz.",
+  "sorun": []
+ },
+ "M06-11": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 94/6: 2 yıllık askı bitiminden sonra yeni ihlalde kişi birinci kez ihlalde bulunmuş sayılır ve 94/1 uygulanır (geri alma yok).",
+  "sorun": []
+ },
+ "M06-12": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 98/2 (I), 98/6 (II); 98/4 iade talep üzerine ve başlamış işlemler tamamlandıktan sonra (III yanlış); 98/3 süresiz teminat mektubu (IV yanlış).",
+  "sorun": []
+ },
+ "M06-13": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GİKY 91/1-c-1: taşıyıcıdan en az 1 yıldır taşıma hizmeti alınması gerekir (3 yıl değil).",
+  "sorun": []
+ },
+ "M06-14": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 118/1-c: izinli alıcı güvenli depolama/park alanı kamera kayıtlarını en az 1 yıl, diğer kayıtları en az 3 yıl saklar; 93/1-c izinli göndericide kamera 1 ay.",
+  "sorun": []
+ }
+}

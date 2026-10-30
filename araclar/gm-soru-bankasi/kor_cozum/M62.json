@@ -1,0 +1,88 @@
+{
+ "M62-01": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "4760 Md.2: İLK İKTİSAP tanımında '...Motorlu araç ticareti yapanlar tarafından kullanılmaya başlanmasını, aktife alınmasını veya adlarına kayıt ve tescil ettirilmesi' de sayılır.",
+  "sorun": []
+ },
+ "M62-02": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "ÖTV Tebliği V/A-1: banka teminat mektuplarının '(A) cetvelinde yer alan mallar için Gümrük ve Ticaret Bakanlığı adına, (B) cetvelindeki mallar için mükellefin ÖTV yönünden bağlı olduğu vergi dairesi müdürlüğü adına' düzenlenmesi zorunludur. A Md.16/4, B V/A-2.2, D ve E V/A-1.",
+  "sorun": []
+ },
+ "M62-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "KKDF Karar Md.3/d: 'Kabul kredili, vadeli akreditif ve mal mukabili ödeme şekline göre yapılan ithalatta %6'; teşvik belgesi (Md.4/14), DİİB (%0), petrol-gübre-buğday-arpa (Md.4/9), bağlı muamele/takas (Md.4/12) kesintisiz.",
+  "sorun": []
+ },
+ "M62-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "KKDF 6 Sayılı Tebliğ: '%6 oranında KKDF kesintisi... fon kesintisinin yatırıldığı tarihteki gösterge niteliğindeki TCMB döviz alış kuru esas alınarak'.",
+  "sorun": []
+ },
+ "M62-05": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "ÖTV listeleri özet tablosu: (III) A cetveli içecekler (alkollü-alkolsüz), (III) B cetveli tütün mamulleri ve makaron; kozmetik ürünleri (IV) sayılı listede (lüks tüketim).",
+  "sorun": []
+ },
+ "M62-06": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "4760 Md.11/4: '(III) sayılı listenin (B) cetvelindeki mallar için verginin matrahı; bunların nihai tüketicilere perakende satış fiyatıdır'.",
+  "sorun": []
+ },
+ "M62-07": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "4760 Md.11/5: (A) cetveli 'asgari maktu vergi tutarlarına göre hesaplanacak vergi tutarından az olmamak üzere yalnızca nispi vergi'; (B) cetveli 'maktu vergi ile birlikte, asgari maktu vergi tutarına göre hesaplanacak vergi tutarından az olmamak üzere nispi vergi'.",
+  "sorun": []
+ },
+ "M62-08": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "4760 Md.6 diplomatik istisna (I), (II) ve (III) sayılı listeler (I doğru); Md.5/2 gümrüksüz satış mağazası istisnası yalnız (III) ve (IV) sayılı listeler (II yanlış); Md.7/7 transit, antrepo, DİR, GKAİ (III doğru); Md.5/1-b serbest bölgeye teslimler ihracat sayılmaz (IV doğru).",
+  "sorun": []
+ },
+ "M62-09": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "4760 Md.14/3: ithalatta alınan vergi '...mükellefe, kanuni temsilcisine veya gümrük müşavirine tebliğ edilir'. A ve C Md.14/3, D Md.16/3, E Md.16/1.",
+  "sorun": []
+ },
+ "M62-10": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "4760 Md.8/1: 'tecil tarihini takip eden aybaşından itibaren oniki (12) ay içinde, I sayılı listeye dahil olmayan malların imalinde kullanılması halinde tecil olunan vergi terkin edilir'.",
+  "sorun": []
+ },
+ "M62-11": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Damga Vergisi Genel Tebliği Seri 71 (1) sayılı tablo IV-2-c: 'Gümrük idarelerine verilen beyannameler (1.605,80 TL)' (1/1/2026'dan itibaren).",
+  "sorun": [
+   "Kaynak metindeki tebliğ başlığında 'Seri No 70' yazım hatası var (metin Seri 71'in 2026 tutarlarını içeriyor); soruyu etkilemiyor."
+  ]
+ },
+ "M62-12": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "4760 Md.1/2: 'tarife numaralarında veya tanımlarında bu Kanuna ekli listeler dışında yapılacak değişiklikler ÖTV Kanununun uygulanmasında hüküm ifade etmez'; açıklama yetkisi Maliye Bakanlığında.",
+  "sorun": []
+ },
+ "M62-13": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "KKDF Karar Md.5: gümrük tahsilatları haftalık aktarılır (I); Md.8: cezai faiz kanuni faizin 2 katı (II), 8/d tama iblağ ve gümrük idarelerince tahsil (III) doğru; Md.5: bankalar 'tahakkuk veya tahsilatı izleyen ayın 15. günü akşamına kadar' yatırır (IV yanlış).",
+  "sorun": []
+ },
+ "M62-14": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "4760 Md.13/3: müteselsil sorumlular 'gümrük memurları, kayıt ve tescile yetkili memurlar, motorlu araç ticareti yapanlar, bu malların müzayede yoluyla satışını gerçekleştirenler ile icra memurları'; gümrük müşavirleri sayılmamış.",
+  "sorun": []
+ }
+}

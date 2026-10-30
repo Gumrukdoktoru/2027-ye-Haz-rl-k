@@ -1,0 +1,92 @@
+{
+ "M07-01": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GİKY 132/1: güvenli depolama alanından çıkış kayıtları: çıkış tarihi-saati, beyanname tarih-sayısı, sipariş no, ayırt edici no, kaplar, dökmede net ağırlık; mühür numarası giriş kaydıdır (131/1).",
+  "sorun": []
+ },
+ "M07-02": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 121/3 (I), 123/4 (III), 130/9 (IV); 123/8 alt sınır 1.000.000 Avro (II yanlış); 124/5 süre 3 yıl (V yanlış).",
+  "sorun": []
+ },
+ "M07-03": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 126/2: kamu kurum/kuruluş iznine tabi eşya gerekli izin alınmışsa izin kapsamında ithal edilebilir; diğerleri 126/1-a, b, d, e.",
+  "sorun": []
+ },
+ "M07-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 122/2: aynı taşıma aracında birden fazla alıcıya ait eşya bulunması halinde ithalatta yerinde gümrükleme izni kapsamında işlem yapılamaz.",
+  "sorun": []
+ },
+ "M07-05": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 128/2: kontrol türü bildirim süresi 2 saati geçemez.",
+  "sorun": []
+ },
+ "M07-06": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 130/10-12: antrepo güvenli depolama alanı olarak tanımlansa da antrepo statüsü sona erdirilmeden ithalatta yerinde gümrükleme işlemi yapılamaz; 130/11'de inceleme yapılmaksızın tanımlanır.",
+  "sorun": []
+ },
+ "M07-07": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 144/3: kullanılan banka hesabının yetkilendirilmiş yükümlüye ait olduğunun kontrolünden ödemenin yapıldığı banka sorumludur.",
+  "sorun": []
+ },
+ "M07-08": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 147/1-f: bildirilen firmalar dışındaki ihracatın ilk tespitinde yazılı uyarı + 241/1; 3 ay askı 147/3 uyarınca tekrarında uygulanır.",
+  "sorun": []
+ },
+ "M07-09": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 149/1 (II), 150/2 son cümle (III), 150/1 (V); 150/2 bildirim kontrolü tehlikeye düşürecekse yapılmaz (I yanlış); 150/3 özet beyan kapsamı sevkiyatlar da öncelikten yararlanır (IV yanlış).",
+  "sorun": []
+ },
+ "M07-10": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GİKY 149/2 aykırılığı: 152/2 uyarınca emniyet ve güvenlik kolaylıklarından yararlanma hakkı her seferinde 6 ay süreyle askıya alınır.",
+  "sorun": []
+ },
+ "M07-11": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 153/5: Ek-2 soru formu sertifikanın düzenlendiği tarihten itibaren 5 yılda bir güncellenir (3 yıl değil).",
+  "sorun": []
+ },
+ "M07-12": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 154/1 (I), 154/2-3 (II), 154/21 (IV); 154/4 uzatma 30 gün (III yanlış); 154/15 bildirilmeyen dava halinde beraat kesinleşinceye kadar askı (V yanlış).",
+  "sorun": []
+ },
+ "M07-13": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GİKY 155/1-ç: 153/7 kapsamındaki (karşılıklı tanıma anlaşmaları vb.) ek koşullar 6 ayda karşılanamazsa sertifika geri alınır; A ve B askı (154/7-8), C ve D iptal (156/1).",
+  "sorun": []
+ },
+ "M07-14": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 157/2: 141 (askı) ve 142 (geri alma) dahil hak ve yetkilerin askıya alınması/geri alınmasına sertifikanın düzenlendiği Bölge Müdürlüğü yetkilidir.",
+  "sorun": []
+ },
+ "M07-15": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 158/2: faaliyet raporuna konu beyanname sayısı 50'den az olmamak şartıyla toplam beyanname sayısının en az %5'idir (%10 değil).",
+  "sorun": []
+ }
+}

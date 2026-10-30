@@ -1,0 +1,74 @@
+{
+ "M05-01": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GİKY 19/1: fatura, A.TR, menşe ispat belgeleri, navlun makbuzu ve sigorta poliçesi, işlenmiş tarım ürünü analiz raporu; (e) bendi yürürlükten kaldırılmış, uygunluk belgesi sayılmamış.",
+  "sorun": []
+ },
+ "M05-02": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 20/1: belgeler beyannamenin tescil tarihinden itibaren 1 ay içinde beyannamenin tescil edildiği gümrük müdürlüğüne ibraz edilir; 20/2 ek süre 3 ay; 20/3 kıymette 3 aydan uzun.",
+  "sorun": []
+ },
+ "M05-03": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 23/1 (I), 23/2 fark için teminat (II), faks/fotokopi ibrazında teminat aranmaz (III yanlış), 23/3 ödeme 15 gün içinde (IV yanlış).",
+  "sorun": []
+ },
+ "M05-04": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GİKY 26/12: aynı gün tescilli birden fazla beyannamede her biri için 241/1 ayrı ayrı uygulanır; kişi bir kez ibraz etmemiş sayılır.",
+  "sorun": []
+ },
+ "M05-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 27/1: antrepo, GKAİ ve geçici ithalatta talep halinde %10; 27/2 DİR/HİR BKK hükümleri saklı; 28/2 ÖTV (I) Bakanlıkça belirlenecek haller dışında; 42/6 kısmi askıya alınınca götürü de askıya alınır.",
+  "sorun": []
+ },
+ "M05-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 35/5: TL teminatta asgari/azami değer hesabında hesaplama tarihindeki TCMB döviz ALIŞ kuru esas alınır (satış değil).",
+  "sorun": []
+ },
+ "M05-07": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 36/1-b: bildirilen tutardaki teminat mektubu bildirim tarihini müteakip en geç 30 iş günü içinde ibraz edilir.",
+  "sorun": []
+ },
+ "M05-08": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 39/1-2 (I), 39/7 (II), 42/7 askı süresince teminat mektupları iade edilmez (III yanlış), 42/5 (IV).",
+  "sorun": []
+ },
+ "M05-09": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GİKY 67/8: muayene, 67/4 kapsamındaki kontrol türü bildirimini (09.50) müteakip azami 3 saat içinde başlatılır: 09.50+3 saat = 12.50.",
+  "sorun": []
+ },
+ "M05-10": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GİKY 52/1: aynı dörtlü tarife pozisyonundaki eşyanın en az 50 adet EUR.1 veya EUR.MED Dolaşım Belgesi.",
+  "sorun": []
+ },
+ "M05-11": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GİKY 60/1: izin kapsamına alınacak bir tesis için birden fazla gümrük müdürlüğü yetkili kılınamaz.",
+  "sorun": []
+ },
+ "M05-12": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GİKY 73/1-c: 69. madde kapsamındaki tesisten çıkış kayıtları en az 3 yıl saklanır (1 yıl değil); kamera kayıtları en az 1 ay.",
+  "sorun": []
+ }
+}
