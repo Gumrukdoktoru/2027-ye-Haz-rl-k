@@ -1,0 +1,98 @@
+{
+ "M56-01": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "İRK md.7: eski, kullanılmış, yenileştirilmiş, kusurlu (defolu) ve yatık eşyanın ithali izne tabidir; nihai kullanım sayılmamış.",
+  "sorun": []
+ },
+ "M56-02": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "İRK md.8/2: özel anlaşmalara dayanan ithalat, kitap ve diğer yayınlar, fuarlarda perakende satışına izin verilen eşyada vergi kimlik numarası şartı aranmaz.",
+  "sorun": []
+ },
+ "M56-03": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "İRK md.5/1 (I), md.3/2 (II), md.5/2 (III) doğru; md.3/1 tebliğ çıkarma ve özel durumları sonuçlandırma yetkisi Ticaret Bakanlığında (IV yanlış).",
+  "sorun": []
+ },
+ "M56-04": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "İRK md.4/3: Haksız Rekabet, Korunma Önlemleri, Kota ve TK, Gözetim, Belirli Tekstil..., İkili Anlaşmalar dışı tekstil, Türkiye'nin Ticari Hakları. Kambiyo, Ürün Güvenliği, Askıya Alma, Kamu İhale sayılmamış.",
+  "sorun": []
+ },
+ "M56-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "İRK md.10/2: 'Ek mali yükümlülük, gümrük yükümlülüğünün doğduğu tarihte gümrük idarelerince tahsil edilir.'",
+  "sorun": []
+ },
+ "M56-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "İRK md.9/1: II sayılı listedeki eşya V veya VI sayılı listede de yer alırsa II, V ve VI sayılı listelerdeki oranlardan daha düşük olanı uygulanır.",
+  "sorun": []
+ },
+ "M56-07": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "10790 sayılı Karar geçici md.1: beyanname 31/1/2026 tarihine kadar (bu tarih dâhil) tescil edilirse 1/1/2026'dan önceki oranlar uygulanır.",
+  "sorun": []
+ },
+ "M56-08": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "İGV Kararı md.2/3: hadlerin 50'ye kadar yükseltilmiş ya da %50 artırılmış düzeyini aşamaz; aşması durumunda bu düzeylerden daha fazla olan uygulanır.",
+  "sorun": []
+ },
+ "M56-09": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "İGV Kararı md.2/2: A.TR eşliğinde ithal edilen AB ve Türk menşeli olmayan eşyadan İGV alınır; çapraz kümülasyon ülkesi tercihli menşei tevsik edilirse alınmaz. A, B, C, E md.4/2, 4/3, 4/5, 4/6'ya göre uygulanmaz.",
+  "sorun": []
+ },
+ "M56-10": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GTS Tebliği md.4/1 (I doğru), md.5/2 maktu %30 (II doğru), nispi 3,5 puan indirim (III yanlış: 5 puan), md.5/4 EAGÜ %0 (IV doğru), md.5/6 nispi %1 veya daha az (V yanlış: %3).",
+  "sorun": []
+ },
+ "M56-11": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GTS Tebliği md.9/4-a: bir ülkeden sektör kapsamında ithalatın bir önceki yıla oranla MİKTAR bazında %13,5 ve daha fazla artması (b bendi: değer bazında %14,5).",
+  "sorun": []
+ },
+ "M56-12": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Kullanılmış Eşya Tebliği md.9/1: İzin Belgesi belge tarihinden itibaren 6 ay geçerlidir; süre uzatımı yapılmaz.",
+  "sorun": []
+ },
+ "M56-13": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Çift Kullanımlı Tebliğ md.10/2: belgeler ithalatta izin belgesi yerine geçmez, gümrük işlemlerinin tekemmül ettirilmesine mesnet teşkil etmez.",
+  "sorun": []
+ },
+ "M56-14": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Kamu İthalatı Tebliği md.6/1-a: yerli malı listesindeki eşyanın ithalatında izin belgesi düzenlenmez; A, B, C, E md.5/2'de izin verilmiş sayılan eşya.",
+  "sorun": []
+ },
+ "M56-15": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Radyoaktif maddeler: Nükleer Düzenleme Kurumunun izin veya uygunluk yazısı. Tatlandırıcı Tarım ve Orman, Mushaf Diyanet, sivil hava taşıtı Ulaştırma ve Altyapı, patlayıcı/silah Emniyet Genel Müdürlüğü.",
+  "sorun": []
+ },
+ "M56-16": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Askıya Alma Tebliği md.4/1 uygulanmayan haller (AB/TR üretimi, nihai ürün, ayrıcalıklı anlaşma, fikri mülkiyet, sadece ticari amaç, politika bozucu); md.5/1: konu ürünler hammadde, yarı mamul veya imalat bileşeni olmalıdır.",
+  "sorun": []
+ }
+}

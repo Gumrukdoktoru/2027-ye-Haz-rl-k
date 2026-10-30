@@ -1,0 +1,54 @@
+{
+ "M55-01": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Gruba göre teslim şekilleri: C grubu CFR, CIF, CPT, CIP; DAP D grubundadır.",
+  "sorun": []
+ },
+ "M55-02": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "DDP: 'satıcının malları ithalat için gümrüklenmiş olarak ve belirlenen varma yerinde gelen taşıma aracında boşaltmaya hazır şekilde alıcının tasarrufuna bırakmakla teslim ettiğini ifade eder.'",
+  "sorun": []
+ },
+ "M55-03": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "CIP: satıcı kendi seçtiği taşıyıcıya teslim eder, taşıma sözleşmesi yapar, sigorta sözleşmesi yapar; 'CIF kuralı ... mallar konteynerde olduğu zaman ... CIP kuralı kullanılmalıdır.' İthalat gümrüklemesi alıcıda.",
+  "sorun": []
+ },
+ "M55-04": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "EXW: satıcı 'malların ihracatı için gümrükleme işlemleri gereken hallerde bu gümrükleme işlemlerini yerine getirmek zorunda da değildir.' B şıkkı kaynakta aynen var ('11 farklı teslim şekli arasında tüm masrafların ve risklerin satıcıya ait olduğu tek teslim şeklidir').",
+  "sorun": []
+ },
+ "M55-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "INCOTERMS'ler ICC (Milletlerarası Ticaret Odası) tarafından hazırlanır; 'Incoterms 2020, ICC tarafından 10 Eylül 2019'da duyuruldu. 1 Ocak 2020 itibarı ile yürürlüğe girecek'.",
+  "sorun": []
+ },
+ "M55-06": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "FAS, FOB, CFR, CIF yalnız deniz ve iç su yolu (I); FCA, DPU tüm modlar (II); FAS'ta hasar ve masraflar gemi doğrultusunda bırakıldığında geçer (III); CPT/CIP'te birden çok taşıyıcıda hasar İLK taşıyıcıya teslimle geçer (IV yanlış).",
+  "sorun": []
+ },
+ "M55-07": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Mal mukabili ödeme: 'Gümrükten mal çekişinden önce ithalatçı tarafından KKDF ÖDEMESİ YAPILIR.'",
+  "sorun": [
+   "Kök ödeme şekillerini 'İhracat Bedelleri Tebliğinde sayılan' diye bağlıyor; Tebliğ (md.3/2) şekilleri yalnız sayıyor, şıklardaki nitelikler (risk, KKDF) kaynaktaki ödeme şekilleri ders notundan; ayrıca KKDF ifadeleri ithalata ilişkin. Kök dayanağı tam yansıtmıyor."
+  ]
+ },
+ "M55-08": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "'UCP 600'de bir akreditifin dönülemez olduğu belirtilmese dahi o akreditif dönülemezdir.' İhbar bankasının ödeme yükümlülüğü yok; amir alıcı, lehtar satıcı; devredilebilir akreditif adlandırılırsa ve bir kez devredilir; amir banka rücu hakkı olmaksızın öder.",
+  "sorun": [
+   "Ödeme şekillerinin sayıldığı düzenleme 32 sayılı Karar değil İthalat Genelgesi (2020/1) md.2; akreditif nitelikleri kaynaktaki ders notundan. 'Karar çerçevesinde' ifadesi geniş tutulduğu için kabul edilebilir."
+  ]
+ }
+}
