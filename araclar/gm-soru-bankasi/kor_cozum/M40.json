@@ -1,0 +1,58 @@
+{
+ "M40-01": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GK m.184/2-b: koşula uyulmadığının sonradan tespiti halinde yükümlülük 'ilgili rejime tabi tutulduğu tarihte' başlar (tespit tarihinde değil). A m.182/2, B m.183/2, C m.185/2, E m.189/2 doğru.",
+  "sorun": []
+ },
+ "M40-02": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GK m.191: 'sahte paralar ile ... narkotik uyuşturucu ve uyarıcı maddelerin ... kanuna aykırı olarak girmesi halinde ... gümrük yükümlülüğü doğmaz.' Yasak/kısıtlı eşya için yükümlülük doğar.",
+  "sorun": []
+ },
+ "M40-03": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GK m.181/2 (I doğru); Tahsilat Tebliği m.6/1-b (II doğru); m.6/3-c (III doğru); m.5/4: biri tarafından ödenmesi halinde diğerleri açısından da yükümlülük sona erer (IV yanlış).",
+  "sorun": []
+ },
+ "M40-04": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Tahsilat Tebliği m.9/4: istinaf veya temyize gidilmesi, yürütmeyi durdurma kararı verilmediği sürece tahsilatı durdurmaz. B m.10/1, C m.10/2, D m.14/4, E m.9/2 doğru.",
+  "sorun": [
+   "E şıkkında 'Gümrük vergilerinin zamanaşımı daha uzun olan ... fiile' ifadesi kaynaktaki 'ceza gerektiren ve zamanaşımı daha uzun olan bir fiile' cümlesinin bozuk aktarımı; virgül/sözdizimi anlamı bulandırıyor (cevabı etkilemez)."
+  ]
+ },
+ "M40-05": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GK m.198/2: itiraz ödeme süresini keser; ödeme süresi idare kararının tebliğ edildiği tarihten itibaren yeniden başlar; m.198/1: süre on beş gün.",
+  "sorun": []
+ },
+ "M40-06": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GK m.198/1: 'Ödeme süresinin bitmesinden önce ilgilinin yazılı istemde bulunması ve teminat alınması şartıyla ödeme süresi otuz gün daha uzatılabilir.'",
+  "sorun": []
+ },
+ "M40-07": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Tahsilat Tebliği m.21/5: 'Kamu kurum ve kuruluşlarının çok zor durum hali tespitleri Genel Müdürlükçe yapılır.' A m.19/1-a, B m.23/4, C m.21/1, E m.20/4 doğru.",
+  "sorun": []
+ },
+ "M40-08": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "E-Tebligat Tebliği m.4/2 (I doğru); m.5/3: beşinci günün sonunda (II yanlış); m.9/2: ayrıca kâğıt ortamında tebliğ yapılmaz (III yanlış); m.9/3: zamanaşımı dolmuş/10 günden az kalmış belgeler için kullanılmaz (IV doğru).",
+  "sorun": []
+ },
+ "M40-09": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GK m.208: ödeme, kaldırma, beyannamenin iptali, teslimden önce zapt-müsadere/imha/terk, doğal özellik/mücbir sebeple telef veya kayıp, kanuna aykırı giriş nedeniyle müsadere; beyannamede düzeltme sayılmamış.",
+  "sorun": []
+ }
+}

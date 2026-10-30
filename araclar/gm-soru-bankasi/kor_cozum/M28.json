@@ -1,0 +1,70 @@
+{
+ "M28-01": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GK 141/1: işlem görmüş ürün vergisi 100.000×%10 = 10.000; düşüm 60.000×%5 = 3.000. Yön. 402/1: anti-damping vergileri düşüm tutarının hesabında dikkate alınmaz. 10.000-3.000 = 7.000 ABD Doları.",
+  "sorun": []
+ },
+ "M28-02": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GK 136: rejim (a) ödenmiş ithalat vergilerinin geri verilmesine yol açan, (b) nihai kullanım nedeniyle tam muafiyetle serbest dolaşıma giren, (c) ihracat vergi iadesi gerektiren veya tarım politikası mali avantajı sağlanan eşyaya uygulanmaz. GK 135/2: çıkışta ticaret politikası önlemleri UYGULANIR; bu bir dışlama sebebi değil.",
+  "sorun": []
+ },
+ "M28-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Hariçte İşleme Rejimi Kararı md 3/1-h İkame ürün tanımı.",
+  "sorun": []
+ },
+ "M28-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GK 145/1: ikame ürünlerin geçici ihracat eşyasıyla AYNI TARİFE POZİSYONUNA girmesi, aynı ticari nitelik ve teknik özelliklere sahip olması gerekir. A GK 144/2; B Yön. 414/2; D GGT (Hariçte İşleme-Geçici İhracat) Seri 1 md 4/1; E Yön. 410/4.",
+  "sorun": []
+ },
+ "M28-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "HİR Tebliği md 6/1-b: maden cevheri izabesi ve kıymetli maden ve taşların işlenmesi → maden ihracatçı birliklerinin bağlı olduğu İBGS (A doğru, E yanlış). 6/1-a: ileri işlem → DYS üzerinden Bakanlık (B yanlış). 6/1-c: tamirat, garanti, stüdyo banyo → ilgili gümrük idaresi (C, D yanlış).",
+  "sorun": []
+ },
+ "M28-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Karar md 10/3 (I), Karar md 11/1 (II), Yön. 411 (IV) doğru. GK 142: ilk girişte kusurlu olduğu dikkate alınmışsa tam muafiyet uygulanmaz (III yanlış). GGT Seri 1 md 5/3: filmlerde geri getirilen eşyaya ilişkin beyannamenin tescil tarihi esas alınır (V yanlış).",
+  "sorun": [
+   "Küçük kök sorunu: V. önermenin dayanağı Gümrük Genel Tebliği (Hariçte İşleme-Geçici İhracat) Seri 1 md 5/3; kök yalnız Karar, Kanun ve Yönetmelik'i sayıyor. Kökte GGT de anılmalı ya da V önermesi Kanun/Yönetmelik/Karar hükmüne dayandırılmalı."
+  ]
+ },
+ "M28-07": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "HİR Tebliği md 9/1 (I, II), md 17/2 (IV), md 9/4 (V) doğru. Md 10/1-a: ek süre için en geç belge süresi sonundan itibaren 1 AY içinde DYS üzerinden Bakanlığa müracaat (III yanlış).",
+  "sorun": []
+ },
+ "M28-08": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "HİR Tebliği md 21: süre bitiminden sonra aynen geri getirmede usulsüzlük cezası uygulanır; teminat irat kaydı ve 1 yıl yasak yok. A md 20/2; C 20/3; D 18/1; E 18/2.",
+  "sorun": []
+ },
+ "M28-09": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Yön. 397/2: önceden ithalatın olmadığı standart değişimde ikame ürün ithal süresinin başlangıcı hariçte işleme rejimine ilişkin beyannamenin tescil tarihidir.",
+  "sorun": []
+ },
+ "M28-10": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Yön. 403/2: işleme yerinden TGB'ye girdiği yere kadar olan yükleme, navlun ve sigorta maliyetleri işleme maliyetine dahil edilir. A 403/1 dahil edilmez; B 403/2 giriş yerinden sonrası dahil edilmez; C satın alma komisyonu hariç; D tamamlayıcısı OLMAYAN konteyner.",
+  "sorun": []
+ },
+ "M28-11": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "HİR Tebliği md 13/4: serbest bölgelere geçici ihracata tekabül eden ithalat gerçekleşmezse alınmayan vergi İHRAÇ TARİHİ itibarıyla tahsil edilir (tespit tarihi değil). B, C 13/4; D 16/2; E 20/1-a.",
+  "sorun": []
+ }
+}

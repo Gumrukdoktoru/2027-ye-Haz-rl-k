@@ -1,0 +1,50 @@
+{
+ "M39-01": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "E-ihale Tebliği m.11/9: 'E-ihalede satılamayan ve yeniden ihaleye çıkartılacak eşya, en geç bir ay içinde satışa sunulur. Bekletilmeyecek eşya için bu süre iki işgünüdür.'",
+  "sorun": []
+ },
+ "M39-02": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "m.11/3: kapalı teklifte e-ihale onayı takip eden gün saat 12.00'de başlar (I yanlış); son bir saatte teklif → otuz dakika uzatma (II doğru); uzatılmış ihalede en fazla iki kez onbeşer dakika (III yanlış); m.4/2: bekletilmeyecek eşya sadece açık teklif (IV doğru).",
+  "sorun": []
+ },
+ "M39-03": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "E-ihale Tebliği m.11/8: 'İhale bedeli için taksitlendirme yapılmaz.' (Taksitlendirme Tasfiye Yön. m.44'te; e-ihalede yok). A m.8/2, C m.8/3, D m.8/7, E m.12/2 doğru.",
+  "sorun": []
+ },
+ "M39-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "E-ihale Tebliği m.14/1-b: 'Tüm Bakanlık personeli ile bunların eşleri ve birinci dereceye kadar kan ve sıhri hısımları' ihalelere katılamaz. Eşin tasfiye görevi olmaması önemsiz (A, Tasfiye Yön. m.43 ölçütü).",
+  "sorun": []
+ },
+ "M39-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Kaçak Eşya Tasfiye Tebliği m.5/2: rızaen teslimle muhafaza altına alınan eşya için 'ayrı bir elkoyma/alıkoyma kararı aranmaz'. B,C m.4/2; D m.4/3; E m.5/3 doğru.",
+  "sorun": []
+ },
+ "M39-06": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Kaçak Eşya Tasfiye Tebliği m.8/2: otuz günü takip eden on gün içinde işletme müdürlüğünce talep; talep tarihinden itibaren on gün içinde gümrük müdürlüğünce gönderilir.",
+  "sorun": []
+ },
+ "M39-07": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "m.9/2: gümrük işlemi bağlantısı kurulamayan FSMH ihlalli eşya gümrük idaresince teslim alınmaz, milli emlak birimlerine teslim edilir (I yanlış); m.9/1 (II doğru); m.8/3 (III, IV doğru).",
+  "sorun": []
+ },
+ "M39-08": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "E-ihale Tebliği m.13/3: bir takvim yılında iki defa ihale bedelini ödemeyen alıcı ve vekilleri 'üç ay' süresince ihalelere alınmaz (bir yıl değil; bir yıla kadar yasak tekrarında). A,C m.11/7; D m.11/10; E m.11/12 doğru.",
+  "sorun": []
+ }
+}

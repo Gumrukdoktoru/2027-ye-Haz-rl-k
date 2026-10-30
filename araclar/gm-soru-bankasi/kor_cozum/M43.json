@@ -1,0 +1,74 @@
+{
+ "M43-01": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GK m.242/3: 'İtiraz dilekçelerinin süresi içinde yanlış makama verilmesi halinde, itiraz süresinde yapılmış sayılır ve idarece yetkili makama ulaştırılır.'",
+  "sorun": []
+ },
+ "M43-02": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Gümrük Yön. m.585/4-b: posta yolu veya doğrudan yapılan itirazlarda dilekçenin gümrük idaresinin 'kaydına giriş tarihi' dikkate alınır (düzenlendiği tarih değil). A 585/4-a, C 585/1, D GK 242/2, E GK 242/4 doğru.",
+  "sorun": []
+ },
+ "M43-03": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GK m.243/1 (I doğru); 243/2 ve Yön. m.589/1-a: ilk tahlili yapan kimyager 'dışındaki' iki kimyager (II yanlış); Yön. m.589/1-a,b (III doğru); m.590/1 (IV doğru).",
+  "sorun": []
+ },
+ "M43-04": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Uzlaşma Yön. m.6/7: mülkiyetin kamuya geçirilmesi kararları uzlaşmaya konu edilmez; 'Ancak ... eşya ile ilgili gümrük vergileri ve para cezaları uzlaşmaya konu edilebilir.' C m.6/1, D m.6/3, E m.6/4 konu olamaz.",
+  "sorun": []
+ },
+ "M43-05": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GK m.244/1 ve Uzlaşma Yön. m.14/1: süre durur, uzlaşma temin edilemezse kaldığı yerden işler; bitimine beş günden az kalmışsa beş güne tamamlanır (4 gün → 5 gün). Yeniden uzlaşma talep edilemez.",
+  "sorun": []
+ },
+ "M43-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Uzlaşma Yön. m.7/3: Merkezi Uzlaşma Komisyonlarına 'Bakan Yardımcısı veya Gümrükler Genel Müdürü' başkanlık eder. A m.7/2, C m.7/4, D m.7/6, E m.18/1 doğru.",
+  "sorun": []
+ },
+ "M43-07": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Uzlaşma Yön. m.9/1: 'konusu 7.000.000.- TL'ye kadar olanlar (bu tutar dâhil) için ... Bölge Müdürlüğü Uzlaşma Komisyonları, ... aşanlar için ise Merkezi Uzlaşma Komisyonları yetkilidir.'",
+  "sorun": []
+ },
+ "M43-08": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Uzlaşma Yön. m.15/3: 'Uzlaşma komisyonlarına, yükümlü dâhil, katılacak kişi sayısı üçü geçemez.' (yükümlü hariç değil). A,B m.12/1; D m.15/2; E m.14/3 doğru.",
+  "sorun": []
+ },
+ "M43-09": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GK m.244/4 (I doğru); 244/5: tutanağın tebliğinden itibaren 'bir ay' içinde ödenir (II yanlış); 244/5 gecikme zammı oranında faiz (III doğru); 244/6: peşin ödeme indiriminden yararlanılamaz (IV yanlış).",
+  "sorun": []
+ },
+ "M43-10": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Uzlaşma Yön. m.14/2: feragat halinde 'aynı alacak için tekrar uzlaşma talebinde bulunulamaz.' B m.11/1, C m.13/2, D m.14/2, E m.13/3 doğru.",
+  "sorun": []
+ },
+ "M43-11": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Uzlaşma Yön. m.14/4 ve Tahsilat Tebliği m.12/2: itiraz başvurusunda bulunan tarafın talebi uzlaşma talebi sonuçlandıktan sonra değerlendirmeye alınır.",
+  "sorun": []
+ },
+ "M43-12": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Gümrük Yön. m.587/1-b: beyana göre tahakkuk ile idarece tahakkuk ettirilen vergiler arasındaki fark ve para cezalarının 'teminata bağlanması' aranır; nakden ödenmesi şartı yok. B 587/1-a, C 587/1-b, D 587/1-c, E 587/1-ç.",
+  "sorun": []
+ }
+}

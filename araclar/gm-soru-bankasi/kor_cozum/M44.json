@@ -1,86 +1,86 @@
 {
-"M44-01": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "md 19 listesi: mülkî amirler, gümrük, Emniyet, Jandarma, Sahil Güvenlik personeli; kaynak notu 'Kara Kuvvetleri Komutanlığı yok'; hudut birlikleri yalnız md 23/7 ikramiye hükmünde.",
-"sorun": []
-},
-"M44-02": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "md 4/1 örgüt iki kat (I doğru); 4/3 üç kişi 'YARI ORANINDA' (II yanlış); 4/7 göz yuman müşterek fail (III); 4/6 belgede sahtecilik ayrıca ceza (IV); 4/9 'elektronik eşya ... çay, şeker' ilan edilebilir (V).",
-"sorun": []
-},
-"M44-03": {
-"cevap": "A",
-"emin": "yüksek",
-"dayanak": "md 3/1: 'BİR (1) YILDAN BEŞ (5) YILA kadar HAPİS ve ON BİN (10.000) GÜNE kadar' + kapılar dışından 'ÜÇTE BİRİNDEN YARISINA kadar ARTIRILIR'.",
-"sorun": []
-},
-"M44-04": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "md 5/2-b: 'KOVUŞTURMA evresinde hüküm verilinceye kadar ödediği takdirde ... CEZA ÜÇTE BİR ORANINDA, indirilir'; aldatıcı işlem 7. fıkra değil, mükerrir/örgüt yok.",
-"sorun": []
-},
-"M44-05": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "md 5/2: 'Yedinci fıkrası hariç' + kaynak listesi 'İthali KANUN GEREĞİ YASAK olan eşyayı ülkeye sokan kişiler' için uygulanmaz.",
-"sorun": []
-},
-"M44-06": {
-"cevap": "E",
-"emin": "yüksek",
-"dayanak": "md 13/1-b yük oranı yalnız müsadere koşulu; md 10/2 alıkoyma: gizli tertibat, sicile kayıtsız, tekrar kullanım; fahiş değer md 3/23 artırım.",
-"sorun": []
-},
-"M44-07": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "md 10/5 'KARA taşıtlarında KASKO DEĞERİ' (II yanlış); 10/2 otuz gün, 10/3 doksan gün, 10/4 emanet hesabı doğru.",
-"sorun": []
-},
-"M44-08": {
-"cevap": "E",
-"emin": "yüksek",
-"dayanak": "md 18: 'Başvurusu üzerine, ilgili GÜMRÜK İDARESİ açılan davaya KATILAN olarak kabul edilir' — başvuru şartı kaldırılmış ifade yanlış.",
-"sorun": []
-},
-"M44-09": {
-"cevap": "A",
-"emin": "yüksek",
-"dayanak": "md 12/1: 'Yükleme veya taşıma belgelerinde BELİRTİLEREK gümrüğe getirilirse, TEMİNAT ALTINDA ... iade ve sevk olunur'.",
-"sorun": []
-},
-"M44-10": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "md 3/8 notu: 'GENEL DÜZENLEYİCİ İDARİ İŞLEMLERLE ihracının yasaklanmış olduğunun tespiti hâlinde KABAHAT'; diğerleri md 3'te suç.",
-"sorun": []
-},
-"M44-11": {
-"cevap": "A",
-"emin": "yüksek",
-"dayanak": "md 9/2: kuşkulanılan kişilerin üzeri 'gümrük kontrolü amacıyla gümrük görevlilerince ARANABİLİR'; savcı emri şartı yok.",
-"sorun": []
-},
-"M44-12": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "md 16/1: 'el koyma tarihinden itibaren ALTI (6) AY' ... 'BİR (1) AY içinde'.",
-"sorun": []
-},
-"M44-13": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "md 16/A: I doğru; terk edilen akaryakıt 'NUMUNE ALINMAKSIZIN' (II yanlış); en yakın rafinericiye (III doğru); diğer ürünlerde '%60' (IV yanlış).",
-"sorun": []
-},
-"M44-14": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "md 2: 'GÜMRÜKLENMİŞ DEĞER: ... İTHAL eşyası için eşyanın CIF KIYMETİ ile GÜMRÜK VERGİLERİ TOPLAMI'.",
-"sorun": []
-}
+ "M44-01": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "5607 m.19/1: mülkî amirler, Gümrük Müsteşarlığı (Bakanlık) personeli, EGM, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personeli; Kara Kuvvetleri Komutanlığı sayılmamış (kaynak notu: 'Kara Kuvvetleri Komutanlığı yok').",
+  "sorun": []
+ },
+ "M44-02": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "5607 m.4/1: örgüt → iki kat (I doğru); 4/3: üç veya daha fazla kişi → yarı oranında (II yanlış); 4/7 (III doğru); 4/6 (IV doğru); 4/9: çay, şeker gibi gıda ve elektronik eşya mahkûmları Bakanlıkça ilan edilebilir (V doğru).",
+  "sorun": []
+ },
+ "M44-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "5607 m.3/1: bir yıldan beş yıla kadar hapis ve on bin güne kadar adlî para cezası; gümrük kapıları dışından sokulması halinde ceza üçte birinden yarısına kadar artırılır.",
+  "sorun": []
+ },
+ "M44-04": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "5607 m.5/2-b: kovuşturma evresinde hüküm verilinceye kadar gümrüklenmiş değerin iki katını ödeyene ceza üçte bir oranında indirilir (soruşturmada yarı). Mükerrir/örgüt istisnası yok, fiil m.3/2.",
+  "sorun": []
+ },
+ "M44-05": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "5607 m.5/2: 'Yedinci fıkrası hariç' 3. madde suçlarında uygulanır; m.3/7 ithali kanun gereği yasak eşyayı ülkeye sokma suçudur.",
+  "sorun": []
+ },
+ "M44-06": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "5607 m.13/1-b: kaçak eşyanın taşıma aracı yükünün tamamı/ağırlıklı bölümünü oluşturması yalnız müsadere koşulu; gizli tertibat (A) hem m.10/2 alıkoyma hem m.13/1-a; B, C yalnız m.10/2 alıkoyma; D fahiş değer m.3/23 artırım.",
+  "sorun": []
+ },
+ "M44-07": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "5607 m.10/5: kara taşıtlarında değerden 'kasko değeri' anlaşılır (piyasa değeri sigortasız, hava ve demiryolu taşıtlarında) → II yanlış; I m.10/2, III m.10/3, IV m.10/4 doğru.",
+  "sorun": []
+ },
+ "M44-08": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "5607 m.18/1: mahkeme iddianame örneğini gümrük idaresine gönderir; 'Başvurusu üzerine' katılan olarak kabul edilir (başvuru aranmaksızın değil). A,B m.17/1; C,D m.21 doğru.",
+  "sorun": []
+ },
+ "M44-09": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "5607 m.12/1: yabancı ülkelerden gelen yasak eşya 'yükleme veya taşıma belgelerinde belirtilerek gümrüğe getirilirse' teminat altında geldiği yere veya diğer ülkeye iade ve sevk olunur.",
+  "sorun": []
+ },
+ "M44-10": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "5607 m.3/8 notu: eşyanın genel düzenleyici idari işlemlerle ihracının yasaklanmış olduğunun tespiti halinde kabahat olarak değerlendirilir ve GK m.235/2'ye göre cezalandırılır. A m.3/8, B m.3/9, C m.3/11, E m.3/20 suçtur.",
+  "sorun": []
+ },
+ "M44-11": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "5607 m.9/2: gümrük salonları ve kapılarında şüpheli kişilerin üzeri, eşyası, yükleri ve araçları gümrük kontrolü amacıyla 'gümrük görevlilerince aranabilir' (savcı emri aranmaz). B m.9/1, C,D m.9/3, E m.22/1 doğru.",
+  "sorun": []
+ },
+ "M44-12": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "5607 m.16/1: kaçak akaryakıt hariç her türlü eşya hakkında el koyma tarihinden itibaren altı ay, zarar/değer kaybı/ciddi külfet halinde bir ay içinde tasfiye kararı verilir.",
+  "sorun": []
+ },
+ "M44-13": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "5607 m.16/A-1 (I doğru); gümrüğe terk edilen akaryakıt 'numune alınmaksızın' tasfiye edilir (II yanlış); 16/A-3: en yakın rafineriye satılır (III doğru); diğer ürünlerde %60'ından az olamaz (IV yanlış).",
+  "sorun": []
+ },
+ "M44-14": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "5607 m.2: 'Gümrüklenmiş değer: Uluslararası kıymet sözleşmesine göre belirlenecek; ithal eşyası için CIF kıymeti ile gümrük vergileri toplamı, ihraç eşyası için FOB kıymeti ile gümrük vergileri toplamı.'",
+  "sorun": []
+ }
 }
