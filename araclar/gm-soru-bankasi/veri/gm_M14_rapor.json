@@ -1,0 +1,16 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "GY 163-166 antrepo rejiminde eksik beyan, ticari veya idari belge ve kayıt yoluyla beyan (GMY SB16'da soruldu), GY 169/2-5 numune, model ve ilaç eşantiyonları, GY 172 sözlü beyan formu kutuları, GY 174-180 veri işleme tekniğiyle beyan, başka bir tasarruf yoluyla beyan ve kontrol hatları (GMY SB16'da soruldu), GY 185 muayene edilmeyecek eşya, GY 186 görevlilerin sorumluluğu, GY 195 ayniyet tespiti, GY 197-200 tahlil ücreti, numune miktarları ve gönderilmesi, Sonradan Kontrol Yönetmeliği'nin plan, program, tebligat, nihai görüşme ve rapor hükümleri (GMY SB05'te 20 soruyla soruldu), Seri 16 Tebliği md. 5-8 muayene-tartı ve yed-i emin teslim ile md. 14'teki 500 Avro ticari belge usulü ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+    "Tip: olumsuz 4, klasik 4, önermeli 2, diğer 2 (eşleştirme, tanım); hedef 5/3/2/2'den olumsuz −1, klasik +1 (±1 içinde). Eşleştirme sorusunun kökü de olumsuz olduğundan kökü olumsuz toplam 5 (%42).",
+    "Önermeli kombinasyonları: S7 'II, III ve V', S12 'I, II ve IV' (ikisi de beş önermeli, doğru yönlü); en kapsamlı şık doğru 0. Sabit harfler C ve B, art arda değil.",
+    "Çıkmış alan eşlemesi: 2024/62 → S1 (ihracatta sözlü beyan; eşya–rejim eşleştirmesi); 2022/36 → S2 (geçici ithalat ve DİR'de sözlü beyan); 2022/47 → S4 (diğer kurum kontrollerinin aşaması ve sonuçları); 2022/77 → S6 (tahlil artığı numunenin bir ayda terk sayılması; hüküm GK 66/5 olup 13-beyan-1 kaynağındadır, kanıt oradan alındı, M13'te sorulmadı).",
+    "Güncellik: S10, Seri 16 Tebliği md. 3 son paragrafının 06.02.2026 değişikliği (yürürlük 08.03.2026): koşulları sağlayan OKS veya YYS sahiplerinin yaygın basitleştirilmiş usul talebi eşyanın özelliklerine bakılmaksızın kabul edilir. GY 197/3 (15.01.2025) son 12 ayın dışında.",
+    "Meslek yanlılığı: S3 (temsilci aracılığıyla yapılan sözlü beyanda tereddüt hâlinde yazılı beyan istenmesi; temsilcinin imza yetkisini yok sayan çeldirici).",
+    "İkiz eksen: bölüm metninde Prompt 5 tablosundaki eksenlerden biri soru kurulabilecek biçimde yer almıyor; eksen 17'ye yakın GY 165-166 antrepo tiplerine göre usul hükümleri GMY SB16'da soruldu. Eksen sorusu yazılmadı.",
+    "GMY bankasıyla çakışmayı önleme: GY 169 (1000 Avro), 170 (iki ay/altı ay), 182 (muayene yöntemi), 196 (bir yıllık rapor), 199-201 (numune gönderimi) ve Sonradan Kontrol Yönetmeliği SB05-SB16'da sorulduğundan bu hükümler farklı yönden (eşleştirme, istisna, bedelsizlik, altı ay ↔ bir yıl) ölçüldü.",
+    "Grup içi tekrar yok: OKS eksik belge süreleri M08'de, serbest dolaşımda eksik beyan ve tamamlayıcı beyan (GY 142-150) M13'te; M14'te Seri 16 Tebliği'nin kendi süreleri soruldu.",
+    "Kaynak sorunları: metinde bazı madde numaraları silinmiş ('Kanunun maddesinin', 'inci maddede', Seri 16 md. 1'de '4458 sayılı Gümrük Kanununun ve maddelerinin'); bunlara dayanan soru yazılmadı. Seri 16 Tebliği eski kurum adlarını (Gümrük Müsteşarlığı, Türkiye Atom Enerji Kurumu) kullanıyor; sorularda kaynaktaki adlar korundu."
+  ]
+}
