@@ -1,0 +1,807 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ev Eşyası Muafiyeti — Taslak v1</title>
+<style>
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:italic;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400i-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/LibreBaskerville-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Libre Baskerville';font-style:normal;font-weight:700;font-display:block;src:url('assets/fonts/LibreBaskerville-700-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Shrikhand';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/Shrikhand-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400;font-display:block;src:url('assets/fonts/SpaceGrotesk-400-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:600;font-display:block;src:url('assets/fonts/SpaceGrotesk-600-latin.woff2') format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#ECE8E4;color:#1C1410;font-family:'Libre Baskerville',Georgia,serif;padding:40px 36px 60px}
+header{width:1684px;margin:0 auto 28px;display:flex;align-items:flex-end;justify-content:space-between;gap:24px;border-bottom:3px solid #1C1410;padding-bottom:16px}
+header h1{font-family:'Shrikhand';font-weight:400;font-size:44px;line-height:1}
+header h1 em{font-style:normal;color:#D8000F;display:inline-block;transform:rotate(-4deg)}
+header p{font-size:15px;margin-top:8px;max-width:760px;line-height:1.6}
+.tagline{font-family:'Space Grotesk';font-weight:600;font-size:12px;letter-spacing:2px;text-transform:uppercase;border:2px solid #1C1410;padding:6px 10px;white-space:nowrap}
+.grid{width:1684px;margin:0 auto;display:grid;grid-template-columns:repeat(3,544px);gap:34px 26px}
+.frame{width:544px;height:306px;position:relative;overflow:hidden;outline:1px solid #cfc8c2;background:#E6D5B8}
+.stage{position:absolute;left:0;top:0;width:1920px;height:1080px;transform:scale(0.28333);transform-origin:0 0;overflow:hidden}
+.meta{display:flex;justify-content:space-between;font-family:'Space Grotesk';font-weight:600;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;margin-top:10px}
+.meta .r{color:#7a6f68}
+.note{font-size:13px;line-height:1.6;margin-top:6px}
+.chip{display:inline-block;margin-top:8px;font-family:'Space Grotesk';font-weight:600;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#D8000F;border:1.5px solid #D8000F;padding:3px 8px}
+.seam{position:absolute;inset:0;display:flex;flex-wrap:wrap;gap:6px;padding:18px;align-content:center}
+.sm{flex:1 1 70px;border:2px solid #1C1410;padding:6px 4px;text-align:center;background:#fff}
+.smn{font-family:'Shrikhand';font-size:20px;color:#D8000F}
+.sms{font-family:'Space Grotesk';font-weight:600;font-size:9px;text-transform:uppercase;letter-spacing:1px}
+</style></head><body>
+<header><div><h1>Kullanılmış ev eşyası · <em>Taşınma</em> <span style="font-family:'Space Grotesk';font-weight:600;font-size:16px;letter-spacing:2px;color:#7a6f68">TASLAK V1</span></h1>
+<p>Gümrük Koçu serisi 4. bölüm (Muafiyet Tebliği Seri No: 2, md. 10–16). Koli etiketleri, karar ağacı ve üç sayı: 24 · 6 · 6. Hareketsiz taslak — yerleşim, metin ve renkler; hareket bir sonraki adımda.</p></div>
+<div class="tagline">1920×1080 · ~2:05 · 12 sahne · Cem (ElevenLabs v4)</div></header>
+<main class="grid">
+<section>
+<style>
+
+#f01-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f01-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f01-stage .f01-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f01-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f01-white { color:#fff; }
+.f01-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f01-red { color:#A8000B; }
+.f01-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f01-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f01-muted { color:#5E4E3A; }
+.f01-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f01-chip b { color:#A8000B; font-weight:600; }
+.f01-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f01-tag.f01-darkbg { background:#1C1410; }
+.f01-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f01-stamp.f01-ok { color:#1C1410; border-color:#1C1410; }
+.f01-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f01-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f01-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f01-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f01-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f01-txt b { color:#A8000B; }
+.f01-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f01-node b { color:#A8000B; }
+.f01-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f01-prog { background:#D8000F; }
+</style>
+<div class="frame" id="frame-01"><div class="stage" id="f01-stage"><div id="f01-bg"></div><div id="f01-eyebrow" class="f01-eyebrow" style="left:69px;top:86px">GÜMRÜK KOÇU · MUAFİYET TEBLİĞİ (SERİ NO: 2)</div>
+<div id="f01-b1" class="f01-abs" style="left:120px;top:560px"><svg width="340" height="240" viewBox="0 0 340 240" aria-hidden="true"><rect x="2.5" y="2.5" width="335" height="235" fill="#C9A97A" stroke="#1C1410" stroke-width="5"/><rect x="146.2" y="2.5" width="47.6" height="76.8" fill="#CDB48C" stroke="#1C1410" stroke-width="5"/><path d="M2.5 76.8 H337.5" stroke="#1C1410" stroke-width="5"/><rect x="64.6" y="120.0" width="210.8" height="48.0" fill="#FFFFFF" stroke="#1C1410" stroke-width="5"/><text x="170.0" y="150.72" text-anchor="middle" font-family="Space Grotesk" font-weight="600" font-size="17" letter-spacing="2" fill="#1C1410">EV EŞYASI</text></svg></div>
+<div id="f01-b2" class="f01-abs" style="left:470px;top:600px"><svg width="280" height="200" viewBox="0 0 280 200" aria-hidden="true"><rect x="2.5" y="2.5" width="275" height="195" fill="#C9A97A" stroke="#1C1410" stroke-width="5"/><rect x="120.39999999999999" y="2.5" width="39.2" height="64.0" fill="#CDB48C" stroke="#1C1410" stroke-width="5"/><path d="M2.5 64.0 H277.5" stroke="#1C1410" stroke-width="5"/></svg></div>
+<div id="f01-b3" class="f01-abs" style="left:190px;top:330px"><svg width="300" height="230" viewBox="0 0 300 230" aria-hidden="true"><rect x="2.5" y="2.5" width="295" height="225" fill="#C9A97A" stroke="#1C1410" stroke-width="5"/><rect x="129.0" y="2.5" width="42.00000000000001" height="73.60000000000001" fill="#CDB48C" stroke="#1C1410" stroke-width="5"/><path d="M2.5 73.60000000000001 H297.5" stroke="#1C1410" stroke-width="5"/></svg></div>
+<div id="f01-h1" class="f01-hero" style="left:860px;top:250px">Kesin dönüş</div>
+<div id="f01-h2" class="f01-hero f01-red" style="left:880px;top:420px;transform:rotate(-4deg)" data-layout-allow-overlap>muaf mı?</div>
+<div id="f01-body" class="f01-body" style="left:884px;top:640px">Kullanılmış ev eşyası · <b>gümrük vergileri</b></div>
+<div id="f01-cite" class="f01-cite" style="left:69px">Muafiyet Tebliği (Seri No: 2) · md. 10–16</div><div class="f01-prog" style="transform:scaleX(0.083)"></div></div></div>
+<div class="meta"><span>01 · KESİN DÖNÜŞ</span><span class="r">frame-01 · 0–7 s</span></div>
+<p class="note"><b>Kraft zemin:</b> solda üç koli üst üste oturur; sağda "Kesin dönüş" ve eğik kırmızı "muaf mı?".</p>
+<span class="chip">cut</span>
+</section><section>
+<style>
+
+#f02-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f02-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f02-stage .f02-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f02-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f02-white { color:#fff; }
+.f02-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f02-red { color:#A8000B; }
+.f02-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f02-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f02-muted { color:#5E4E3A; }
+.f02-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f02-chip b { color:#A8000B; font-weight:600; }
+.f02-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f02-tag.f02-darkbg { background:#1C1410; }
+.f02-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f02-stamp.f02-ok { color:#1C1410; border-color:#1C1410; }
+.f02-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f02-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f02-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f02-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f02-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f02-txt b { color:#A8000B; }
+.f02-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f02-node b { color:#A8000B; }
+.f02-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f02-prog { background:#D8000F; }
+
+.f02-lh { position:absolute; left:0; right:0; top:0; height:64px; background:#D8000F; color:#fff; display:flex; align-items:center;
+  gap:16px; padding:0 22px; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px; white-space:nowrap; }
+.f02-lh span { font-family:'Shrikhand'; font-size:40px; letter-spacing:0; }
+.f02-li { position:absolute; left:0; right:0; top:84px; display:flex; justify-content:center; }
+</style>
+<div class="frame" id="frame-02"><div class="stage" id="f02-stage"><div id="f02-bg"></div><div id="f02-eyebrow" class="f02-eyebrow" style="left:69px;top:86px">KİŞİLER · MD. 10</div>
+<div id="f02-sh" class="f02-sh" style="left:69px;top:140px">Kimler yararlanır?</div>
+<div id="f02-lab-a" class="f02-card" style="left:69px;top:290px;width:420px;height:440px;opacity:1"><div class="f02-lh"><span>a)</span>YURT DIŞI ≥ 24 AY</div><div class="f02-li"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><rect x="20" y="30" width="110" height="96" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 58 H130 M48 18 V40 M102 18 V40" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="75" y="108" text-anchor="middle" font-family="Shrikhand" font-size="40" fill="#D8000F">24</text><path d="M150 98 L200 60 M172 70 L188 102 M160 80 L150 62" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f02-txt" style="left:24px;right:22px;top:250px">en az 24 ay ikamet, yerleşim yerini <b>kesin olarak</b> Türkiye'ye nakleden</div></div>
+<div id="f02-lab-b" class="f02-card" style="left:517px;top:290px;width:420px;height:440px;opacity:1"><div class="f02-lh"><span>b)</span>KAMU GÖREVLİSİ</div><div class="f02-li"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><rect x="30" y="50" width="150" height="90" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M80 50 V30 H130 V50 M30 86 H180" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M98 80 H112 V96 H98 Z" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f02-txt" style="left:24px;right:22px;top:250px">yurt dışındaki <b>sürekli görevinden</b> dönen</div></div>
+<div id="f02-lab-c" class="f02-card" style="left:965px;top:290px;width:420px;height:440px;opacity:1"><div class="f02-lh"><span>c)</span>VATANDAŞLIĞA GEÇEN</div><div class="f02-li"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><rect x="20" y="34" width="170" height="104" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="66" cy="76" r="18" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 118 C46 100 86 100 90 118" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M110 68 H170 M110 90 H170" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f02-txt" style="left:24px;right:22px;top:250px">Türk vatandaşlığına geçip yerleşim yerini <b>kesin olarak</b> nakleden</div></div>
+<div id="f02-lab-cc" class="f02-card" style="left:1413px;top:290px;width:420px;height:440px;opacity:1"><div class="f02-lh"><span>ç)</span>MİRASÇI</div><div class="f02-li"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><path d="M40 20 H140 L170 50 V140 H40 Z" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M140 20 V50 H170" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M62 70 H146 M62 94 H120" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="150" cy="118" r="22" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f02-txt" style="left:24px;right:22px;top:250px">yurt dışında yerleşik kişinin ölümüyle, <b>Türkiye'de yerleşik</b> mirasçı</div></div>
+<div id="f02-cite" class="f02-cite" style="left:69px">md. 10</div><div class="f02-prog" style="transform:scaleX(0.167)"></div></div></div>
+<div class="meta"><span>02 · DÖRT KİŞİ</span><span class="r">frame-02 · 7–26 s</span></div>
+<p class="note"><b>Dört koli etiketi</b> seslendirmede sırayla yapışır: a) 24 ay, b) kamu görevlisi, c) vatandaşlığa geçen, ç) mirasçı.</p>
+<span class="chip">push-slide LEFT</span>
+</section><section>
+<style>
+
+#f03-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f03-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f03-stage .f03-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f03-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f03-white { color:#fff; }
+.f03-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f03-red { color:#A8000B; }
+.f03-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f03-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f03-muted { color:#5E4E3A; }
+.f03-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f03-chip b { color:#A8000B; font-weight:600; }
+.f03-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f03-tag.f03-darkbg { background:#1C1410; }
+.f03-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f03-stamp.f03-ok { color:#1C1410; border-color:#1C1410; }
+.f03-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f03-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f03-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f03-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f03-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f03-txt b { color:#A8000B; }
+.f03-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f03-node b { color:#A8000B; }
+.f03-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f03-prog { background:#D8000F; }
+
+.f03-lh { position:absolute; left:0; right:0; top:0; height:64px; background:#D8000F; color:#fff; display:flex; align-items:center;
+  gap:16px; padding:0 22px; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px; white-space:nowrap; }
+.f03-lh span { font-family:'Shrikhand'; font-size:40px; letter-spacing:0; }
+.f03-li { position:absolute; left:0; right:0; top:84px; display:flex; justify-content:center; }
+
+.f03-band { position:absolute; left:69px; top:244px; width:1316px; height:32px; background:#1C1410; color:#fff;
+  font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3px; display:flex; align-items:center;
+  justify-content:center; transform-origin:left center; }
+</style>
+<div class="frame" id="frame-03"><div class="stage" id="f03-stage"><div id="f03-bg"></div><div id="f03-eyebrow" class="f03-eyebrow" style="left:69px;top:86px">MD. 11/1-A</div>
+<div id="f03-sh" class="f03-sh" style="left:69px;top:140px">Aile ünitesi</div>
+<div id="f03-band" class="f03-band">AİLE ÜNİTESİ ESAS ALINIR · a · b · c</div>
+<div id="f03-lab-a" class="f03-card" style="left:69px;top:290px;width:420px;height:440px;opacity:1"><div class="f03-lh"><span>a)</span>YURT DIŞI ≥ 24 AY</div><div class="f03-li"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><rect x="20" y="30" width="110" height="96" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 58 H130 M48 18 V40 M102 18 V40" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="75" y="108" text-anchor="middle" font-family="Shrikhand" font-size="40" fill="#D8000F">24</text><path d="M150 98 L200 60 M172 70 L188 102 M160 80 L150 62" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f03-txt" style="left:24px;right:22px;top:250px">en az 24 ay ikamet, yerleşim yerini <b>kesin olarak</b> Türkiye'ye nakleden</div></div>
+<div id="f03-lab-b" class="f03-card" style="left:517px;top:290px;width:420px;height:440px;opacity:1"><div class="f03-lh"><span>b)</span>KAMU GÖREVLİSİ</div><div class="f03-li"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><rect x="30" y="50" width="150" height="90" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M80 50 V30 H130 V50 M30 86 H180" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M98 80 H112 V96 H98 Z" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f03-txt" style="left:24px;right:22px;top:250px">yurt dışındaki <b>sürekli görevinden</b> dönen</div></div>
+<div id="f03-lab-c" class="f03-card" style="left:965px;top:290px;width:420px;height:440px;opacity:1"><div class="f03-lh"><span>c)</span>VATANDAŞLIĞA GEÇEN</div><div class="f03-li"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><rect x="20" y="34" width="170" height="104" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="66" cy="76" r="18" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 118 C46 100 86 100 90 118" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M110 68 H170 M110 90 H170" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f03-txt" style="left:24px;right:22px;top:250px">Türk vatandaşlığına geçip yerleşim yerini <b>kesin olarak</b> nakleden</div></div>
+<div id="f03-lab-cc" class="f03-card" style="left:1413px;top:290px;width:420px;height:440px;opacity:0.35"><div class="f03-lh"><span>ç)</span>MİRASÇI</div><div class="f03-li"><svg width="210" height="150" viewBox="0 0 210 150" aria-hidden="true"><path d="M40 20 H140 L170 50 V140 H40 Z" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M140 20 V50 H170" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M62 70 H146 M62 94 H120" stroke="#1C1410" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="150" cy="118" r="22" stroke="#D8000F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="f03-txt" style="left:24px;right:22px;top:250px">yurt dışında yerleşik kişinin ölümüyle, <b>Türkiye'de yerleşik</b> mirasçı</div></div>
+<div id="f03-doc" class="f03-chip" style="left:69px;top:760px">tespit: <b>vukuatlı nüfus kayıt örneği</b></div>
+<div id="f03-cite" class="f03-cite" style="left:1660px">md. 11/1-a</div><div class="f03-prog" style="transform:scaleX(0.250)"></div></div></div>
+<div class="meta"><span>03 · AİLE ÜNİTESİ</span><span class="r">frame-03 · 26–32 s</span></div>
+<p class="note"><b>Etiketler yerinde;</b> a–c üstüne koyu kuşak "aile ünitesi", ç soluklaşır; altta vukuatlı nüfus kayıt örneği.</p>
+<span class="chip">crossfade</span>
+</section><section>
+<style>
+
+#f04-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f04-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f04-stage .f04-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f04-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f04-white { color:#fff; }
+.f04-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f04-red { color:#A8000B; }
+.f04-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f04-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f04-muted { color:#5E4E3A; }
+.f04-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f04-chip b { color:#A8000B; font-weight:600; }
+.f04-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f04-tag.f04-darkbg { background:#1C1410; }
+.f04-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f04-stamp.f04-ok { color:#1C1410; border-color:#1C1410; }
+.f04-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f04-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f04-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f04-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f04-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f04-txt b { color:#A8000B; }
+.f04-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f04-node b { color:#A8000B; }
+.f04-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f04-prog { background:#D8000F; }
+
+.f04-cal { position:absolute; top:510px; width:100px; height:80px; box-sizing:border-box; border:3px solid #1C1410;
+  background:#FFFFFF; font-family:'Space Grotesk'; font-weight:600; font-size:24px; color:#1C1410;
+  display:flex; align-items:flex-end; justify-content:center; padding-bottom:10px; }
+.f04-cal.f04-in { background:#1C1410; color:#fff; }
+.f04-six { position:absolute; left:1236px; top:488px; width:8px; height:124px; background:#D8000F; }
+.f04-ln { position:absolute; background:#1C1410; }
+</style>
+<div class="frame" id="frame-04"><div class="stage" id="f04-stage"><div id="f04-bg"></div><div id="f04-eyebrow" class="f04-eyebrow" style="left:69px;top:86px">ŞARTLAR · MD. 11/1-B</div>
+<div id="f04-sh" class="f04-sh" style="left:69px;top:140px">Takvim yılı kuralı</div>
+<div id="f04-root" class="f04-node" style="left:69px;top:300px;width:440px;height:170px">Yurt dışında <b>≥ 24 ay</b> ikamet<small>(a) kişisi · (ç)'de ölen kişi</small></div>
+<div id="f04-a1" class="f04-abs" style="left:520px;top:362px"><svg class="glyph" width="108" height="46" viewBox="0 0 108 46" aria-hidden="true"><path d="M7 23.0 H97.5 M88.68 6.44 L101 23.0 L88.68 39.56" fill="none" stroke="#1C1410" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f04-n2" class="f04-node" style="left:640px;top:300px;width:1200px;height:170px">Bir takvim yılında Türkiye'de <b>en çok 6 ay</b><small>altı aydan fazla kalmamış olmalı</small></div>
+<div id="f04-m1" class="f04-cal f04-in" style="left:640px">O</div>
+<div id="f04-m2" class="f04-cal f04-in" style="left:740px">Ş</div>
+<div id="f04-m3" class="f04-cal f04-in" style="left:840px">M</div>
+<div id="f04-m4" class="f04-cal f04-in" style="left:940px">N</div>
+<div id="f04-m5" class="f04-cal f04-in" style="left:1040px">M</div>
+<div id="f04-m6" class="f04-cal f04-in" style="left:1140px">H</div>
+<div id="f04-m7" class="f04-cal" style="left:1240px">T</div>
+<div id="f04-m8" class="f04-cal" style="left:1340px">A</div>
+<div id="f04-m9" class="f04-cal" style="left:1440px">E</div>
+<div id="f04-m10" class="f04-cal" style="left:1540px">E</div>
+<div id="f04-m11" class="f04-cal" style="left:1640px">K</div>
+<div id="f04-m12" class="f04-cal" style="left:1740px">A</div>
+<div id="f04-six" class="f04-six" data-layout-allow-overlap></div>
+<div id="f04-sixl" class="f04-tag" style="left:1200px;top:620px">6 AY</div>
+<div id="f04-d45" class="f04-chip" style="left:640px;top:620px">≤ 45 gün / yıl <b>= yurt dışı</b> sayılır</div>
+<div id="f04-cite" class="f04-cite" style="left:1580px">md. 11/1-b</div><div class="f04-prog" style="transform:scaleX(0.333)"></div></div></div>
+<div class="meta"><span>04 · TAKVİM YILI</span><span class="r">frame-04 · 32–46 s</span></div>
+<p class="note"><b>Karar ağacı:</b> kök "≥ 24 ay" → "en çok 6 ay"; takvimde 6 ay dolar, kırmızı sınır; "≤ 45 gün = yurt dışı".</p>
+<span class="chip">blur-crossfade</span>
+</section><section>
+<style>
+
+#f05-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f05-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f05-stage .f05-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f05-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f05-white { color:#fff; }
+.f05-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f05-red { color:#A8000B; }
+.f05-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f05-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f05-muted { color:#5E4E3A; }
+.f05-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f05-chip b { color:#A8000B; font-weight:600; }
+.f05-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f05-tag.f05-darkbg { background:#1C1410; }
+.f05-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f05-stamp.f05-ok { color:#1C1410; border-color:#1C1410; }
+.f05-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f05-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f05-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f05-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f05-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f05-txt b { color:#A8000B; }
+.f05-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f05-node b { color:#A8000B; }
+.f05-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f05-prog { background:#D8000F; }
+
+.f05-cal { position:absolute; top:510px; width:100px; height:80px; box-sizing:border-box; border:3px solid #1C1410;
+  background:#FFFFFF; font-family:'Space Grotesk'; font-weight:600; font-size:24px; color:#1C1410;
+  display:flex; align-items:flex-end; justify-content:center; padding-bottom:10px; }
+.f05-cal.f05-in { background:#1C1410; color:#fff; }
+.f05-six { position:absolute; left:1236px; top:488px; width:8px; height:124px; background:#D8000F; }
+.f05-ln { position:absolute; background:#1C1410; }
+</style>
+<div class="frame" id="frame-05"><div class="stage" id="f05-stage"><div id="f05-bg"></div><div id="f05-eyebrow" class="f05-eyebrow" style="left:69px;top:86px">İSTİSNA · MD. 11/1-B, C</div>
+<div id="f05-sh" class="f05-sh" style="left:69px;top:140px">On yılda beş yıl</div>
+<div id="f05-root" class="f05-node" style="left:69px;top:300px;width:440px;height:170px">Yurt dışında <b>≥ 24 ay</b> ikamet<small>(a) kişisi · (ç)'de ölen kişi</small></div>
+<div id="f05-a1" class="f05-abs" style="left:520px;top:362px"><svg class="glyph" width="108" height="46" viewBox="0 0 108 46" aria-hidden="true"><path d="M7 23.0 H97.5 M88.68 6.44 L101 23.0 L88.68 39.56" fill="none" stroke="#1C1410" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f05-n2" class="f05-node" style="left:640px;top:300px;width:1200px;height:170px">Bir takvim yılında Türkiye'de <b>en çok 6 ay</b><small>altı aydan fazla kalmamış olmalı</small></div>
+<div id="f05-m1" class="f05-cal f05-in" style="left:640px">O</div>
+<div id="f05-m2" class="f05-cal f05-in" style="left:740px">Ş</div>
+<div id="f05-m3" class="f05-cal f05-in" style="left:840px">M</div>
+<div id="f05-m4" class="f05-cal f05-in" style="left:940px">N</div>
+<div id="f05-m5" class="f05-cal f05-in" style="left:1040px">M</div>
+<div id="f05-m6" class="f05-cal f05-in" style="left:1140px">H</div>
+<div id="f05-m7" class="f05-cal" style="left:1240px">T</div>
+<div id="f05-m8" class="f05-cal" style="left:1340px">A</div>
+<div id="f05-m9" class="f05-cal" style="left:1440px">E</div>
+<div id="f05-m10" class="f05-cal" style="left:1540px">E</div>
+<div id="f05-m11" class="f05-cal" style="left:1640px">K</div>
+<div id="f05-m12" class="f05-cal" style="left:1740px">A</div>
+<div id="f05-six" class="f05-six" data-layout-allow-overlap></div>
+<div id="f05-sixl" class="f05-tag" style="left:1200px;top:620px">6 AY</div>
+<div id="f05-d45" class="f05-chip" style="left:640px;top:620px">≤ 45 gün / yıl <b>= yurt dışı</b> sayılır</div>
+<div id="f05-n3" class="f05-node" style="left:69px;top:700px;width:440px;height:130px">Son <b>10 yılda ≥ 5 yıl</b> yurt dışı</div>
+<div id="f05-a3" class="f05-abs" style="left:520px;top:742px"><svg class="glyph" width="150" height="46" viewBox="0 0 150 46" aria-hidden="true"><path d="M7 23.0 H139.5 M130.68 6.44 L143 23.0 L130.68 39.56" fill="none" stroke="#D8000F" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f05-free" class="f05-stamp" style="left:690px;top:728px">SÜRE ŞARTI ARANMAZ</div>
+<div id="f05-ele" class="f05-chip" style="left:1330px;top:620px">giriş-çıkış: <b>elektronik sistem</b></div>
+<div id="f05-cite" class="f05-cite" style="left:1580px">md. 11/1-b, c</div><div class="f05-prog" style="transform:scaleX(0.417)"></div></div></div>
+<div class="meta"><span>05 · ON YILDA BEŞ</span><span class="r">frame-05 · 46–55 s</span></div>
+<p class="note"><b>Aynı ağaç;</b> altta "10 yılda ≥ 5 yıl" düğümü, kırmızı ok ve "SÜRE ŞARTI ARANMAZ" damgası; elektronik sistem çipi.</p>
+<span class="chip">crossfade</span>
+</section><section>
+<style>
+
+#f06-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f06-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f06-stage .f06-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f06-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f06-white { color:#fff; }
+.f06-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f06-red { color:#A8000B; }
+.f06-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f06-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f06-muted { color:#5E4E3A; }
+.f06-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f06-chip b { color:#A8000B; font-weight:600; }
+.f06-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f06-tag.f06-darkbg { background:#1C1410; }
+.f06-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f06-stamp.f06-ok { color:#1C1410; border-color:#1C1410; }
+.f06-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f06-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f06-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f06-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f06-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f06-txt b { color:#A8000B; }
+.f06-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f06-node b { color:#A8000B; }
+.f06-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f06-prog { background:#D8000F; }
+
+.f06-cal { position:absolute; top:510px; width:100px; height:80px; box-sizing:border-box; border:3px solid #1C1410;
+  background:#FFFFFF; font-family:'Space Grotesk'; font-weight:600; font-size:24px; color:#1C1410;
+  display:flex; align-items:flex-end; justify-content:center; padding-bottom:10px; }
+.f06-cal.f06-in { background:#1C1410; color:#fff; }
+.f06-six { position:absolute; left:1236px; top:488px; width:8px; height:124px; background:#D8000F; }
+.f06-ln { position:absolute; background:#1C1410; }
+</style>
+<div class="frame" id="frame-06"><div class="stage" id="f06-stage"><div id="f06-bg"></div><div id="f06-eyebrow" class="f06-eyebrow" style="left:69px;top:86px">TEKRAR · MD. 11/2</div>
+<div id="f06-sh" class="f06-sh" style="left:69px;top:140px">İkinci kez</div>
+<div id="f06-root" class="f06-node" style="left:69px;top:300px;width:440px;height:170px">Yurt dışında <b>≥ 24 ay</b> ikamet<small>(a) kişisi · (ç)'de ölen kişi</small></div>
+<div id="f06-a1" class="f06-abs" style="left:520px;top:362px"><svg class="glyph" width="108" height="46" viewBox="0 0 108 46" aria-hidden="true"><path d="M7 23.0 H97.5 M88.68 6.44 L101 23.0 L88.68 39.56" fill="none" stroke="#1C1410" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f06-n2" class="f06-node" style="left:640px;top:300px;width:1200px;height:170px">Bir takvim yılında Türkiye'de <b>en çok 6 ay</b><small>altı aydan fazla kalmamış olmalı</small></div>
+<div id="f06-m1" class="f06-cal f06-in" style="left:640px">O</div>
+<div id="f06-m2" class="f06-cal f06-in" style="left:740px">Ş</div>
+<div id="f06-m3" class="f06-cal f06-in" style="left:840px">M</div>
+<div id="f06-m4" class="f06-cal f06-in" style="left:940px">N</div>
+<div id="f06-m5" class="f06-cal f06-in" style="left:1040px">M</div>
+<div id="f06-m6" class="f06-cal f06-in" style="left:1140px">H</div>
+<div id="f06-m7" class="f06-cal" style="left:1240px">T</div>
+<div id="f06-m8" class="f06-cal" style="left:1340px">A</div>
+<div id="f06-m9" class="f06-cal" style="left:1440px">E</div>
+<div id="f06-m10" class="f06-cal" style="left:1540px">E</div>
+<div id="f06-m11" class="f06-cal" style="left:1640px">K</div>
+<div id="f06-m12" class="f06-cal" style="left:1740px">A</div>
+<div id="f06-six" class="f06-six" data-layout-allow-overlap></div>
+<div id="f06-sixl" class="f06-tag" style="left:1200px;top:620px">6 AY</div>
+<div id="f06-d45" class="f06-chip" style="left:640px;top:620px">≤ 45 gün / yıl <b>= yurt dışı</b> sayılır</div>
+<div id="f06-n3" class="f06-node" style="left:69px;top:700px;width:440px;height:130px">Son <b>10 yılda ≥ 5 yıl</b> yurt dışı</div>
+<div id="f06-a3" class="f06-abs" style="left:520px;top:742px"><svg class="glyph" width="150" height="46" viewBox="0 0 150 46" aria-hidden="true"><path d="M7 23.0 H139.5 M130.68 6.44 L143 23.0 L130.68 39.56" fill="none" stroke="#D8000F" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f06-free" class="f06-stamp" style="left:690px;top:728px">SÜRE ŞARTI ARANMAZ</div>
+<div id="f06-ele" class="f06-chip" style="left:1330px;top:620px">giriş-çıkış: <b>elektronik sistem</b></div>
+<div id="f06-loop" class="f06-abs" style="left:100px;top:222px" data-layout-allow-overlap><svg width="380" height="80" viewBox="0 0 380 80" aria-hidden="true"><path d="M340 76 C340 10 40 10 40 70" fill="none" stroke="#D8000F" stroke-width="7"/><path d="M22 50 L40 76 L60 52" fill="none" stroke="#D8000F" stroke-width="7" stroke-linecap="square"/></svg></div>
+<div id="f06-again" class="f06-tag" style="left:500px;top:236px">tekrar için: yeniden ≥ 24 ay</div>
+<div id="f06-cite" class="f06-cite" style="left:1580px">md. 11/2</div><div class="f06-prog" style="transform:scaleX(0.500)"></div></div></div>
+<div class="meta"><span>06 · İKİNCİ KEZ</span><span class="r">frame-06 · 55–62 s</span></div>
+<p class="note"><b>Aynı ağaç;</b> kökün üstünde kırmızı döngü oku: "tekrar için yeniden ≥ 24 ay".</p>
+<span class="chip">crossfade</span>
+</section><section>
+<style>
+
+#f07-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f07-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f07-stage .f07-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f07-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f07-white { color:#fff; }
+.f07-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f07-red { color:#A8000B; }
+.f07-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f07-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f07-muted { color:#5E4E3A; }
+.f07-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f07-chip b { color:#A8000B; font-weight:600; }
+.f07-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f07-tag.f07-darkbg { background:#1C1410; }
+.f07-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f07-stamp.f07-ok { color:#1C1410; border-color:#1C1410; }
+.f07-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f07-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f07-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f07-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f07-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f07-txt b { color:#A8000B; }
+.f07-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f07-node b { color:#A8000B; }
+.f07-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f07-prog { background:#D8000F; }
+
+.f07-lh2 { position:absolute; left:0; right:0; top:0; height:64px; color:#fff; display:flex; align-items:center; padding:0 24px;
+  font-family:'Space Grotesk'; font-weight:600; font-size:23px; letter-spacing:2.5px; white-space:nowrap; }
+</style>
+<div class="frame" id="frame-07"><div class="stage" id="f07-stage"><div id="f07-bg"></div><div id="f07-eyebrow" class="f07-eyebrow" style="left:69px;top:86px">İSTİSNA · MD. 12</div>
+<div id="f07-sh" class="f07-sh" style="left:69px;top:140px">Kimler yararlanamaz?</div>
+<div id="f07-e1" class="f07-card" style="left:69px;top:300px;width:560px;height:330px"><div class="f07-lh2" style="background:#D8000F">GEÇİCİ GÖREVLİ</div><div class="f07-txt" style="left:28px;right:24px;top:110px;font-size:30px"><b>≤ 24 ay</b> geçici görevlendirilen kamu görevlisi</div></div>
+<div id="f07-s1" class="f07-stamp" style="left:159px;top:560px">YARARLANAMAZ</div>
+<div id="f07-e2" class="f07-card" style="left:679px;top:300px;width:560px;height:330px"><div class="f07-lh2" style="background:#D8000F">VATANDAŞLIKTAN ÇIKAN</div><div class="f07-txt" style="left:28px;right:24px;top:110px;font-size:30px"><b>çıkma izniyle</b> Türk vatandaşlığından çıkıp yabancı vatandaşlık kazanan</div></div>
+<div id="f07-s2" class="f07-stamp" style="left:769px;top:560px">YARARLANAMAZ</div>
+<div id="f07-e3" class="f07-card" style="left:1289px;top:300px;width:560px;height:330px"><div class="f07-lh2" style="background:#1C1410">ÇİFT UYRUKLU</div><div class="f07-txt" style="left:28px;right:24px;top:110px;font-size:30px">çift uyruklu kişiler</div></div>
+<div id="f07-s3" class="f07-stamp f07-ok" style="left:1409px;top:560px"><svg class="glyph" width="40" height="40" viewBox="0 0 40 40" aria-hidden="true"><path d="M5.6000000000000005 20.8 L16.0 31.200000000000003 L35.2 8.0" fill="none" stroke="#1C1410" stroke-width="6" stroke-linecap="square"/></svg> YARARLANIR</div>
+<div id="f07-cite" class="f07-cite" style="left:69px">md. 12</div><div class="f07-prog" style="transform:scaleX(0.583)"></div></div></div>
+<div class="meta"><span>07 · İSTİSNALAR</span><span class="r">frame-07 · 62–73 s</span></div>
+<p class="note"><b>Üç etiket:</b> ikisine kırmızı "YARARLANAMAZ", çift uyrukluya tikli "YARARLANIR".</p>
+<span class="chip">push-slide LEFT</span>
+</section><section>
+<style>
+
+#f08-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f08-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f08-stage .f08-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f08-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f08-white { color:#fff; }
+.f08-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f08-red { color:#A8000B; }
+.f08-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f08-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f08-muted { color:#5E4E3A; }
+.f08-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f08-chip b { color:#A8000B; font-weight:600; }
+.f08-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f08-tag.f08-darkbg { background:#1C1410; }
+.f08-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f08-stamp.f08-ok { color:#1C1410; border-color:#1C1410; }
+.f08-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f08-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f08-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f08-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f08-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f08-txt b { color:#A8000B; }
+.f08-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f08-node b { color:#A8000B; }
+.f08-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f08-prog { background:#D8000F; }
+
+.f08-line { position:absolute; height:6px; background:#1C1410; transform-origin:left center; }
+.f08-dot { position:absolute; width:34px; height:34px; margin:-14px 0 0 -17px; border-radius:50%; background:#1C1410; }
+.f08-br { position:absolute; height:22px; border:5px solid #D8000F; border-top:none; box-sizing:border-box; transform-origin:left center; }
+.f08-brl { position:absolute; font-family:'Shrikhand'; font-size:44px; color:#A8000B; white-space:nowrap; }
+.f08-pl { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#5E4E3A; white-space:nowrap; }
+.f08-note { position:absolute; font-size:28px; font-style:italic; color:#5E4E3A; white-space:nowrap; }
+</style>
+<div class="frame" id="frame-08"><div class="stage" id="f08-stage"><div id="f08-bg"></div><div id="f08-eyebrow" class="f08-eyebrow" style="left:69px;top:86px">SÜRE · MD. 13</div>
+<div id="f08-sh" class="f08-sh" style="left:69px;top:140px">Ne zaman getirilir?</div>
+<div id="f08-t1" class="f08-tag f08-darkbg" style="left:69px;top:300px">a · b · c</div>
+<div id="f08-l1" class="f08-line" style="left:300px;top:320px;width:1520px"></div>
+<div id="f08-d1" class="f08-dot" style="left:880px;top:323px"></div>
+<div id="f08-g1" class="f08-tag" style="left:828px;top:244px">GELİŞ</div>
+<div id="f08-p1" class="f08-pl" style="left:470px;top:360px">ÖNCE</div>
+<div id="f08-p2" class="f08-pl" style="left:800px;top:360px">BERABER</div>
+<div id="f08-br1" class="f08-br" style="left:900px;top:350px;width:640px"></div>
+<div id="f08-bl1" class="f08-brl" style="left:1100px;top:390px">sonra 6 ay</div>
+<div id="f08-t2" class="f08-tag f08-darkbg" style="left:69px;top:560px">ç · mirasçı</div>
+<div id="f08-l2" class="f08-line" style="left:300px;top:580px;width:1520px"></div>
+<div id="f08-d2" class="f08-dot" style="left:520px;top:583px"></div>
+<div id="f08-g2" class="f08-tag" style="left:420px;top:504px">VERASET İLAMI</div>
+<div id="f08-br2" class="f08-br" style="left:540px;top:610px;width:1200px"></div>
+<div id="f08-bl2" class="f08-brl" style="left:1060px;top:650px">24 ay</div>
+<div id="f08-note" class="f08-note" style="left:300px;top:760px">mücbir sebep ve beklenmeyen haller saklı</div>
+<div id="f08-cite" class="f08-cite" style="left:69px">md. 13</div><div class="f08-prog" style="transform:scaleX(0.667)"></div></div></div>
+<div class="meta"><span>08 · GETİRME SÜRESİ</span><span class="r">frame-08 · 73–87 s</span></div>
+<p class="note"><b>İki zaman çizgisi:</b> geliş (önce · beraber · sonra 6 ay) ve veraset ilamı → 24 ay; altta mücbir sebep notu.</p>
+<span class="chip">blur-crossfade</span>
+</section><section>
+<style>
+
+#f09-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f09-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f09-stage .f09-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f09-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f09-white { color:#fff; }
+.f09-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f09-red { color:#A8000B; }
+.f09-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f09-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f09-muted { color:#5E4E3A; }
+.f09-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f09-chip b { color:#A8000B; font-weight:600; }
+.f09-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f09-tag.f09-darkbg { background:#1C1410; }
+.f09-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f09-stamp.f09-ok { color:#1C1410; border-color:#1C1410; }
+.f09-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f09-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f09-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f09-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f09-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f09-txt b { color:#A8000B; }
+.f09-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f09-node b { color:#A8000B; }
+.f09-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f09-prog { background:#D8000F; }
+
+.f09-box { position:absolute; height:120px; background:#FFFFFF; border:4px solid #1C1410; display:flex; align-items:center;
+  justify-content:center; font-family:'Shrikhand'; font-size:44px; color:#1C1410; box-sizing:border-box; }
+.f09-al { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; text-align:center; }
+.f09-al b { color:#A8000B; font-weight:600; }
+.f09-ret { position:absolute; border:5px solid #1C1410; border-top:none; box-sizing:border-box; }
+.f09-info { position:absolute; width:0; border-left:4px dashed #5E4E3A; }
+</style>
+<div class="frame" id="frame-09"><div class="stage" id="f09-stage"><div id="f09-bg"></div><div id="f09-eyebrow" class="f09-eyebrow" style="left:69px;top:86px">MD. 15</div>
+<div id="f09-sh" class="f09-sh" style="left:69px;top:140px">Ülkeden ülkeye atanan</div>
+<div id="f09-sub" class="f09-body" style="left:72px;top:222px;font-size:28px">yeni ülkeye <b>götüremediği</b> ev eşyası için de</div>
+<div id="f09-k1" class="f09-box" style="left:69px;top:330px;width:300px">KİŞİ</div>
+<div id="f09-a1" class="f09-abs" style="left:384px;top:368px"><svg class="glyph" width="360" height="44" viewBox="0 0 360 44" aria-hidden="true"><path d="M6 22.0 H351.0 M341.52 6.16 L354 22.0 L341.52 37.839999999999996" fill="none" stroke="#1C1410" stroke-width="6" stroke-linecap="square"/></svg></div>
+<div id="f09-al1" class="f09-al" style="left:384px;top:300px;width:360px">dilekçe + <b>4 nüsha</b> liste</div>
+<div id="f09-k2" class="f09-box" style="left:760px;top:330px;width:320px">KURUM</div>
+<div id="f09-a2" class="f09-abs" style="left:1096px;top:368px"><svg class="glyph" width="360" height="44" viewBox="0 0 360 44" aria-hidden="true"><path d="M6 22.0 H351.0 M341.52 6.16 L354 22.0 L341.52 37.839999999999996" fill="none" stroke="#1C1410" stroke-width="6" stroke-linecap="square"/></svg></div>
+<div id="f09-al2" class="f09-al" style="left:1096px;top:300px;width:360px">uygun görürse · <b>3 nüsha</b></div>
+<div id="f09-k3" class="f09-box" style="left:1470px;top:330px;width:370px;background:#1C1410;color:#fff">GÜMRÜK</div>
+<div id="f09-ins" class="f09-card" style="left:1180px;top:500px;width:660px;height:150px"><div class="f09-txt" style="left:24px;top:20px;font-size:26px"><svg class="glyph" width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path d="M4.2 15.600000000000001 L12.0 23.400000000000002 L26.4 6.0" fill="none" stroke="#A8000B" stroke-width="5" stroke-linecap="square"/></svg> kullanılmış ev eşyası mı?<br><svg class="glyph" width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path d="M4.2 15.600000000000001 L12.0 23.400000000000002 L26.4 6.0" fill="none" stroke="#A8000B" stroke-width="5" stroke-linecap="square"/></svg> getirilmesi zorunlu mu?</div></div>
+<div id="f09-info" class="f09-info" style="left:920px;top:454px;height:110px"></div>
+<div id="f09-infol" class="f09-al" style="left:780px;top:574px;width:280px;color:#5E4E3A">kuruma bilgi</div>
+<div id="f09-ret" class="f09-ret" style="left:218px;top:454px;width:1440px;height:290px" data-layout-allow-overlap></div>
+<div id="f09-retl" class="f09-tag" style="left:560px;top:722px">ONAYLI LİSTE ÖRNEĞİ → KİŞİYE</div>
+<div id="f09-cite" class="f09-cite" style="left:1700px">md. 15</div><div class="f09-prog" style="transform:scaleX(0.750)"></div></div></div>
+<div class="meta"><span>09 · ÜLKEDEN ÜLKEYE</span><span class="r">frame-09 · 87–104 s</span></div>
+<p class="note"><b>Akış:</b> kişi → (4 nüsha) kurum → (3 nüsha) gümrük; gümrük inceler; onaylı liste örneği geri kişiye.</p>
+<span class="chip">push-slide LEFT</span>
+</section><section>
+<style>
+
+#f10-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f10-bg { position:absolute; inset:0; background:linear-gradient(to bottom, #CDB48C 0, #CDB48C 34px, #E6D5B8 34px, #E6D5B8 1000px, #CDB48C 1000px, #CDB48C 1040px, #E6D5B8 1040px); }
+#f10-stage .f10-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f10-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f10-white { color:#fff; }
+.f10-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f10-red { color:#A8000B; }
+.f10-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f10-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f10-muted { color:#5E4E3A; }
+.f10-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f10-chip b { color:#A8000B; font-weight:600; }
+.f10-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f10-tag.f10-darkbg { background:#1C1410; }
+.f10-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f10-stamp.f10-ok { color:#1C1410; border-color:#1C1410; }
+.f10-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f10-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f10-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f10-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f10-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f10-txt b { color:#A8000B; }
+.f10-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f10-node b { color:#A8000B; }
+.f10-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f10-prog { background:#D8000F; }
+
+.f10-scr { position:absolute; background:#1C1410; color:#fff; border:4px solid #1C1410; }
+.f10-st { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:26px; letter-spacing:2.5px; color:#fff;
+  white-space:nowrap; display:flex; align-items:center; gap:14px; }
+.f10-band { position:absolute; border:4px dashed #1C1410; box-sizing:border-box; }
+.f10-bandl { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f10-pn { font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2px; text-transform:uppercase;
+  color:#1C1410; text-align:center; margin-top:8px; }
+</style>
+<div class="frame" id="frame-10"><div class="stage" id="f10-stage"><div id="f10-bg"></div><div id="f10-eyebrow" class="f10-eyebrow" style="left:69px;top:86px">KONTROL · MD. 16</div>
+<div id="f10-sh" class="f10-sh" style="left:69px;top:140px">Mükerrer mi?</div>
+<div id="f10-scr" class="f10-scr" style="left:69px;top:300px;width:720px;height:420px"><div class="f10-abs" style="left:34px;top:26px;font-family:Shrikhand;font-size:72px">BİLGE</div><div class="f10-st" style="left:36px;top:150px"><svg class="glyph" width="34" height="34" viewBox="0 0 34 34" aria-hidden="true"><path d="M4.760000000000001 17.68 L13.600000000000001 26.52 L29.92 6.800000000000001" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="square"/></svg> KİŞİNİN KENDİSİ</div><div class="f10-st" style="left:36px;top:210px"><svg class="glyph" width="34" height="34" viewBox="0 0 34 34" aria-hidden="true"><path d="M4.760000000000001 17.68 L13.600000000000001 26.52 L29.92 6.800000000000001" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="square"/></svg> AİLE ÜNİTESİ</div><div class="f10-st" style="left:36px;top:300px;font-size:30px">HAK MÜKERRER Mİ?</div></div>
+<div id="f10-band" class="f10-band" style="left:930px;top:400px;width:900px;height:250px"></div>
+<div id="f10-bandl" class="f10-bandl" style="left:930px;top:356px">md. 13 süresi içinde</div>
+<div id="f10-p1" class="f10-abs" style="left:960px;top:430px"><svg width="220" height="150" viewBox="0 0 220 150" aria-hidden="true"><rect x="2.5" y="2.5" width="215" height="145" fill="#C9A97A" stroke="#1C1410" stroke-width="5"/><rect x="94.6" y="2.5" width="30.800000000000004" height="48.0" fill="#CDB48C" stroke="#1C1410" stroke-width="5"/><path d="M2.5 48.0 H217.5" stroke="#1C1410" stroke-width="5"/></svg><div class="f10-pn">1. parti</div></div><div id="f10-p2" class="f10-abs" style="left:1240px;top:430px"><svg width="220" height="150" viewBox="0 0 220 150" aria-hidden="true"><rect x="2.5" y="2.5" width="215" height="145" fill="#C9A97A" stroke="#1C1410" stroke-width="5"/><rect x="94.6" y="2.5" width="30.800000000000004" height="48.0" fill="#CDB48C" stroke="#1C1410" stroke-width="5"/><path d="M2.5 48.0 H217.5" stroke="#1C1410" stroke-width="5"/></svg><div class="f10-pn">2. parti</div></div><div id="f10-p3" class="f10-abs" style="left:1520px;top:430px"><svg width="220" height="150" viewBox="0 0 220 150" aria-hidden="true"><rect x="2.5" y="2.5" width="215" height="145" fill="#C9A97A" stroke="#1C1410" stroke-width="5"/><rect x="94.6" y="2.5" width="30.800000000000004" height="48.0" fill="#CDB48C" stroke="#1C1410" stroke-width="5"/><path d="M2.5 48.0 H217.5" stroke="#1C1410" stroke-width="5"/></svg><div class="f10-pn">3. parti</div></div>
+<div id="f10-not" class="f10-stamp f10-ok" style="left:1130px;top:680px">MÜKERRER DEĞİL</div>
+<div id="f10-cite" class="f10-cite" style="left:69px">md. 16</div><div class="f10-prog" style="transform:scaleX(0.833)"></div></div></div>
+<div class="meta"><span>10 · MÜKERRER Mİ?</span><span class="r">frame-10 · 104–114 s</span></div>
+<p class="note"><b>BİLGE ekranı</b> kişi + aile ünitesini tarar; süre bandında üç parti koli; "MÜKERRER DEĞİL".</p>
+<span class="chip">crossfade</span>
+</section><section>
+<style>
+
+#f11-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f11-bg { position:absolute; inset:0; background:#D8000F; }
+#f11-stage .f11-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f11-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f11-white { color:#fff; }
+.f11-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f11-red { color:#A8000B; }
+.f11-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f11-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f11-muted { color:#5E4E3A; }
+.f11-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f11-chip b { color:#A8000B; font-weight:600; }
+.f11-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f11-tag.f11-darkbg { background:#1C1410; }
+.f11-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f11-stamp.f11-ok { color:#1C1410; border-color:#1C1410; }
+.f11-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f11-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f11-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f11-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f11-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f11-txt b { color:#A8000B; }
+.f11-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f11-node b { color:#A8000B; }
+.f11-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f11-prog { background:#1C1410; }
+
+.f11-big { font-family:'Shrikhand'; font-size:240px; line-height:1; color:#fff; text-shadow:2px 2px 0 rgba(28,20,16,.25), 4px 4px 0 rgba(28,20,16,.2), 6px 6px 0 rgba(28,20,16,.15); }
+.f11-cap { font-size:36px; line-height:1.35; color:#fff; margin-top:20px; }
+</style>
+<div class="frame" id="frame-11"><div class="stage" id="f11-stage"><div id="f11-bg"></div><div id="f11-eyebrow" class="f11-eyebrow f11-white" style="left:69px;top:86px">KISACASI · ÜÇ SAYI</div>
+<div id="f11-n1" class="f11-abs" style="left:120px;top:260px;width:540px"><div class="f11-big">24</div><div class="f11-cap">ay dışarıda</div></div>
+<div id="f11-n2" class="f11-abs" style="left:710px;top:260px;width:540px"><div class="f11-big">6</div><div class="f11-cap">ay · yılda en çok içeride</div></div>
+<div id="f11-n3" class="f11-abs" style="left:1300px;top:260px;width:540px"><div class="f11-big">6</div><div class="f11-cap">ay içinde beyan · gelişten sonra</div></div><div class="f11-prog" style="transform:scaleX(0.917)"></div></div></div>
+<div class="meta"><span>11 · ÜÇ SAYI</span><span class="r">frame-11 · 114–122 s</span></div>
+<p class="note"><b>Kırmızı panel:</b> 24 · 6 · 6.</p>
+<span class="chip">blur-crossfade</span>
+</section><section>
+<style>
+
+#f12-stage { position:absolute; inset:0; width:1920px; height:1080px; overflow:hidden; color:#1C1410;
+  font-family:'Libre Baskerville', serif; }
+#f12-bg { position:absolute; inset:0; background:#FFFFFF; }
+#f12-stage .f12-abs { position:absolute; }
+.glyph { display:inline-block; vertical-align:middle; }
+.f12-eyebrow { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:19px; letter-spacing:3.5px;
+  text-transform:uppercase; color:#A8000B; white-space:nowrap; }
+.f12-white { color:#fff; }
+.f12-hero { position:absolute; font-family:'Shrikhand'; font-size:150px; line-height:.92; color:#1C1410;
+  transform-origin:left top; white-space:nowrap; }
+.f12-red { color:#A8000B; }
+.f12-sh { position:absolute; font-family:'Shrikhand'; font-size:63px; line-height:1.1; color:#1C1410; white-space:nowrap; }
+.f12-body { position:absolute; font-size:32px; line-height:1.5; color:#1C1410; }
+.f12-muted { color:#5E4E3A; }
+.f12-chip { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2px;
+  text-transform:uppercase; border:3px solid #1C1410; padding:12px 18px; background:#FFFFFF; color:#1C1410; white-space:nowrap; }
+.f12-chip b { color:#A8000B; font-weight:600; }
+.f12-tag { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:20px; letter-spacing:2.5px;
+  text-transform:uppercase; background:#D8000F; color:#fff; padding:7px 13px; white-space:nowrap; }
+.f12-tag.f12-darkbg { background:#1C1410; }
+.f12-stamp { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:30px; letter-spacing:3px;
+  color:#D8000F; border:6px solid #D8000F; padding:10px 20px; white-space:nowrap; background:rgba(255,255,255,.9); }
+.f12-stamp.f12-ok { color:#1C1410; border-color:#1C1410; }
+.f12-cite { position:absolute; top:836px; font-family:'Space Grotesk'; font-weight:600; font-size:18px;
+  letter-spacing:2px; text-transform:uppercase; border:2px solid #1C1410; padding:6px 12px; color:#1C1410; white-space:nowrap; }
+.f12-prog { position:absolute; left:0; bottom:0; width:1920px; height:10px; background:#D8000F; transform-origin:left center; }
+.f12-card { position:absolute; background:#FFFFFF; color:#1C1410; border:3px solid #1C1410; }
+.f12-lab { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:21px; letter-spacing:2.5px;
+  text-transform:uppercase; color:#1C1410; white-space:nowrap; }
+.f12-txt { position:absolute; font-size:27px; line-height:1.42; color:#1C1410; }
+.f12-txt b { color:#A8000B; }
+.f12-node { position:absolute; background:#FFFFFF; border:4px solid #1C1410; padding:24px 28px; box-sizing:border-box;
+  font-size:30px; line-height:1.35; color:#1C1410; }
+.f12-node b { color:#A8000B; }
+.f12-node small { display:block; font-family:'Space Grotesk'; font-weight:600; font-size:18px; letter-spacing:2px;
+  text-transform:uppercase; color:#5E4E3A; margin-top:8px; }
+
+.f12-prog { background:#D8000F; }
+
+.f12-handle { position:absolute; font-family:'Space Grotesk'; font-weight:600; font-size:31px; letter-spacing:5px; color:#1C1410; text-align:center; }
+</style>
+<div class="frame" id="frame-12"><div class="stage" id="f12-stage"><div id="f12-bg"></div><img id="f12-logo" class="f12-abs" src="public/logo-ufuk-cetintas.png" alt="Ufuk Çetintaş — Gümrük Eğitim Koçu" style="left:576px;top:150px;width:768px;height:auto">
+<div id="f12-handle" class="f12-handle" style="left:0;top:650px;width:1920px">@GUMRUKKOCUNUZ</div><div class="f12-prog" style="transform:scaleX(1.000)"></div></div></div>
+<div class="meta"><span>12 · GÜMRÜK KOÇU</span><span class="r">frame-12 · 122–127 s</span></div>
+<p class="note"><b>Beyaz zeminde logo</b> tek ve sakin hareketle oturur, altında @gumrukkocunuz.</p>
+<span class="chip">blur-crossfade</span>
+</section>
+<section><div class="frame"><div class="seam"><div class="sm"><div class="smn">01</div><div class="sms">cut</div></div><div class="sm"><div class="smn">02</div><div class="sms">push-slide LEFT</div></div><div class="sm"><div class="smn">03</div><div class="sms">crossfade</div></div><div class="sm"><div class="smn">04</div><div class="sms">blur-crossfade</div></div><div class="sm"><div class="smn">05</div><div class="sms">crossfade</div></div><div class="sm"><div class="smn">06</div><div class="sms">crossfade</div></div><div class="sm"><div class="smn">07</div><div class="sms">push-slide LEFT</div></div><div class="sm"><div class="smn">08</div><div class="sms">blur-crossfade</div></div><div class="sm"><div class="smn">09</div><div class="sms">push-slide LEFT</div></div><div class="sm"><div class="smn">10</div><div class="sms">crossfade</div></div><div class="sm"><div class="smn">11</div><div class="sms">blur-crossfade</div></div><div class="sm"><div class="smn">12</div><div class="sms">blur-crossfade</div></div></div></div>
+<div class="meta"><span>GEÇİŞ HARİTASI</span><span class="r">12 sahne</span></div>
+<p class="note"><b>Ortak sahneler:</b> 2–3 aynı dört etiket, 4–6 aynı karar ağacı (yumuşak geçiş); konu değişirken sayfa sola kayar; karar ağacı, süreler ve kırmızı panel bulanık geçişle.</p></section>
+</main></body></html>
