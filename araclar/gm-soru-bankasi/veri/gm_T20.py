@@ -179,7 +179,7 @@ Q = [
             "Fasıl 85 Notu: devre koruyucu cihazlarla sunulanlar kapsamda",
             "Fasıl 85 Notu: koruyucu gövde parçası içerenler kapsamda",
         ],
-        yakinlik="BİREBİR",
+        yakinlik="PARAFRAZ",
         tuzak=["UNSUR", "SAĞDUYU"],
         duzey=["AYIRT"],
         profil=[1, 4],

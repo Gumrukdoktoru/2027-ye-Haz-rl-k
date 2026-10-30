@@ -1,0 +1,16 @@
+{
+  "bulunamayan": [
+    "2022/23, 2024/36, 2025/97 (Türkiye'nin STA'ları ve taraf ülkeler): bu bölümün kaynağında yalnız revize kurallara tabi anlaşmalar listesi var; STA taraf ülkelerinin tam listesi M52–M54 bölümlerinin konusudur. Kapsam listesi S3'te (Tunus'un kapsam dışı olması) ölçüldü."
+  ],
+  "giremeyen": "Tamamen elde edilmiş ürünlerdeki yenilikler (doğal su, suda yetişen bitkiler, kültür balıkçılığı), ortalama yöntemiyle hesaplama (üç aydan kısa olmayan dönem), tam kümülasyonun 50–63. fasıllarda ikili ticaretle sınırı ve 'CUMULATION APPLIED WITH' ibaresi, muhasebesel ayrımda 1701 şeker istisnası, ülkesellik ve Taraf ülke dışında %10 katma değer, menşe beyanı kuralları (6.000 Avro, iki yıl içinde geriye dönük beyan; PAAMK'taki fatura beyanı kuralıyla aynı olduğu için M50 S5'ten sonra tekrar sorulmadı), elektronik EUR.1, geç ibrazda iki yıl sınırı, sonradan kontrolde on ay ve bölge müdürlüğü yetkisi, serbest bölgede yeni EUR.1, geçiş hükümleri (dört aylık belgeler, 'REVISED RULES' ibaresi) ve TEV yazısındaki tekstil tam kümülasyonu örnekleri ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+    "Tip: olumsuz 4, klasik 3, önermeli 2, vaka 1, tanım 1; kota 11 soru için 4/3/2/2, gerçek 4/3/2/2. Kökü olumsuz toplam 4 (%36).",
+    "Önermeli kombinasyonları: S4 'I ve IV', S6 'I, II ve IV'; en kapsamlı şık doğru 0; yanlış yönlü yok.",
+    "Güncellik (son 12 ay): Yönetmelik Aralık 2025'te yayımlandı (01.01.2025'ten geçerli); kapsamına Sırbistan, Moldova ve Mısır 23.03.2026, Arnavutluk 24.06.2026 tarihli değişikliklerle eklendi; TEV yazısı 27.03.2026. S1, S3, S5, S6 doğrudan güncellik sorusu; S2, S7, S8, S9 eski kurallarla (PAAMK Yönetmeliği, 2006/10895 Karar) çalışan adayı yakalayan ayna sorular.",
+    "Grup içi ayna çiftleri: M50 S1 ↔ M51 S3 (Tunus PAAMK'ta kalır, revize kurallar kapsamında değil); M50 S2 ↔ M51 S7 (kendi gemisi: %75 mürettebat şartı yalnız PAAMK'ta); M50 S3 ↔ M51 S2 (genel tolerans %10 ↔ %15); M50 S6 ↔ M51 S1 (EUR.1 geçerliliği dört ay ↔ on ay); M47 S15 ↔ M51 S9 (uzun dönem tedarikçi beyanı bir yıl ↔ Türkiye'de iki yıl).",
+    "Çapraz kanıt: S1, S2, S3, S7 ve S9'da çeldiricinin gerçek yuvası (eski kural) 50-paamk-yonetmeligi.txt ve 47-gumruk-birligi-atr.txt dosyalarından kanıtlandı; doğru cevaplar yalnız bu bölümün kaynağına dayanıyor.",
+    "Kaynak notu: Yönetmeliğin Resmî Gazete tarihi (20.12.2025) Cumartesi olduğundan kökte tarih yazılmadı ('Aralık 2025' gerekçede). TEV yazısındaki bazı karar ve madde numaraları kaynakta silinmiş ('sayılı Kararı', 'maddesinin'); bu numaralar soru ve şıklarda kullanılmadı.",
+    "Mısır ile ilgili not: TEV yazısına göre Mısır'la 26.02.2026'dan itibaren revize kurallar uygulanırken eski kurallar da eş zamanlı geçerli; bu nedenle M50 S1'in doğru cevabı Mısır yerine Tunus olarak düzenlendi."
+  ]
+}
