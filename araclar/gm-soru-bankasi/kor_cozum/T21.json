@@ -1,0 +1,74 @@
+{
+ "T21-01": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "85.16 İzahnamesi hariç: sanayi mikrodalga fırınlar (örneğin restoranlarda kullanılmak için dizayn edilmiş tipte) 85.14; yoğurt-peynir cihazı, yatak ısıtıcıları, saç maşası ısıtıcı ve ütüler 85.16'da sayılmış.",
+  "sorun": []
+ },
+ "T21-02": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "85.17 İzahnamesi hariç (e): telefon seti ile çalışan fakat setin dahili parçası olmayan telefonlara cevap verme makinaları (85.19).",
+  "sorun": []
+ },
+ "T21-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "8543.40 ve İzahname: yeniden doldurulabilir/şarj edilebilir e-sigaralar 85.43; tek kullanımlık e-sigaralar ve sıvılı kartuşlar 24.04; elektriksiz nargile 96.14; iyon implante ediciler 84.86.",
+  "sorun": []
+ },
+ "T21-04": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 85 Not 7: düz panel gösterge modülleri (video dönüştürücü bileşenli olmayan) 85.24, diğer pozisyonlara önceliklidir; İzahname dokunmatik ekranlıları da kapsar.",
+  "sorun": []
+ },
+ "T21-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "85.18 İzahnamesi hariç (c): sağırların işitmesini kolaylaştıran cihazlar 90.21; doğum öncesi dinleme cihazı, kablosuz mikrofon seti, operatör kulaklıkları dahil; ABİ hoparlörleri 84.71 Not 6(D)(iii) ile 84.71 dışı.",
+  "sorun": []
+ },
+ "T21-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 85 Not 11(a): LED modüller (kapaksız/duysuz, güç kontrol elemanı içerebilir) 85.39 LED ışık kaynakları.",
+  "sorun": []
+ },
+ "T21-07": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "85.23 İzahnamesi hariç: oyun makineleri için kasetler (95.04); USB sürücü, gramofon plakları, matris ve ana diskler, boş DVD 85.23.",
+  "sorun": []
+ },
+ "T21-08": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "85.34 İzahnamesi: yalnızca pasif elemanlardan meydana gelen ince veya kalın film devreleri bu pozisyonda; ince film seramik plaka üzerine vakum evaporasyonuyla yapılır (aktif+pasif olanlar 85.42).",
+  "sorun": []
+ },
+ "T21-09": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "85.23 İzahnamesi: mesnet sadece bağlandığı aygıttan gelen gücü kullanır ve batarya gerektirmez; diğer şıklar İzahnamede aynen var.",
+  "sorun": []
+ },
+ "T21-10": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "85.14 İzahnamesi: metallerin endüksiyon işlemiyle lehimlenmesinde kullanılan makinalar 85.15; 85.15 İzahnamesi: lehim teli besleyici gibi özel tertibatıyla yalnız lehim için kullanılacağı anlaşılan makinalar dahil.",
+  "sorun": []
+ },
+ "T21-11": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "85.49 İzahnamesi: sadece kullanılmış olması eşyanın e-atık sayılması için yeterli değildir; karışık sevkiyat dahil, dökme ve ağırlıkça, fiziksel olarak sağlam ama işlevsiz eşya olabilir, radyoaktif atıklar 28.44.",
+  "sorun": []
+ },
+ "T21-12": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Seri 15 sınıflandırma kararı (8528.71.15): 85.21 ve 85.28 fonksiyonlarını yerine getiren bileşik makine; hiçbir fonksiyon esas sayılmadığından numara sırasına göre sonra gelen 85.28 (GYK 3(c)).",
+  "sorun": []
+ }
+}

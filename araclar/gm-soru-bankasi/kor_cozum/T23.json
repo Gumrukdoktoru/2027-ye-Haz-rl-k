@@ -1,0 +1,100 @@
+{
+ "T23-01": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 90 Not 1(h): dijital kameralar 85.25; GA: tıbbi vakum aletleri 90.18, elektron mikroskobu 90.12, optiksiz fotoğraf makinası ve toplama tertibatsız elektrik sayacı GYK 2(a) ile Fasıl 90'da.",
+  "sorun": []
+ },
+ "T23-02": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 90 Not 4: silahlar için teleskopik dürbünler 90.13; Fasıl 93 Not 1: silahlara takılmamış veya silahla gelmemiş teleskopik dürbünler Fasıl 90.",
+  "sorun": []
+ },
+ "T23-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "90.13 İzahnamesi (iv): tıbbi amaçlı lazer cihazları (oftalmolojik operasyonlar) 90.18; kapı mercekleri, sanayi fiberoskopları, stereoskoplar, baca-kanalizasyon muayene aynaları 90.13'te.",
+  "sorun": []
+ },
+ "T23-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 90 GA: istisnalar koruyucu gözlükler (90.04), basit büyüteç ve büyütmesiz periskoplar (90.13), basit metre/cetveller (90.17), fantazi higrometreler (90.25); bileşik optik mikroskoplar (90.11) istisna değil, belirli pozisyon örneği.",
+  "sorun": []
+ },
+ "T23-05": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 90 Not 2(c): diğer bütün aksam, parça ve aksesuar 90.33 pozisyonunda sınıflandırılır.",
+  "sorun": []
+ },
+ "T23-06": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 90 Not 6: 90.21 anlamında 'ortopedik cihazlar' tanımı.",
+  "sorun": []
+ },
+ "T23-07": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "91.06 İzahnamesi: saat makinası veya senkron motor içermeyen elektrikli/elektronik kronometreler bu pozisyon haricinde (90.31); 90.31 İzahnamesi (31) elektronik kronograf ve kronoskoplar.",
+  "sorun": []
+ },
+ "T23-08": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 91 Not 1: saat zincirleri (71.13 veya 71.17) fasıla dahil değil; saat yayları 91.14, basit aydınlatmalı saat Fasıl 91 GA, ortak kullanımlı makinalar Not 4, alet tablosu saatleri 91.04.",
+  "sorun": []
+ },
+ "T23-09": {
+  "cevap": "D",
+  "emin": "düşük",
+  "dayanak": "Fasıl 91 Not 2 ikinci cümle: 'Zarfları adi metallerden olup, kıymetli metallerle kaplanmış saatler 91.02 pozisyonuna girer.' Ancak aynı notun ilk cümlesi, 91.01 pozisyon metni ve İzahnamesi (Fasıl 71 Not 7 tanımı) 'kıymetli metallerle kaplama metal' zarfları 91.01'e verir; ders notu da 'kaplama → 91.01, kakmalı adi metal → 91.02' der.",
+  "sorun": [
+   "İki savunulabilir şık: kökteki 'adi metalden olup kıymetli metalle kaplanmış zarf' ifadesi Not 2'nin ikinci cümlesine göre 91.02 (D), ama 91.01 pozisyon metni ('kıymetli metallerle kaplamalı metallerden'), İzahname (Fasıl 71 Not 7: kaplama metal = adi metale kıymetli metal tutturulması) ve ders notu ('kıymetli metalle kaplama metal 91.01; kakmalı adi metal 91.02') ile 91.01 (C). Not 2'deki 'kaplanmış' kelimesi aslında 'kakmalı (inlaid)' anlamında. Kök 'kıymetli metal kakmalı adi metal zarflı' (91.02) ya da 'kıymetli metalle kaplama metal zarflı' (91.01) olarak netleştirilmeli."
+  ]
+ },
+ "T23-10": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 91 Not 3: 'saat makinası' tabiri tanımı (pandül ve zemberek, kuvartz kristali veya diğer sistemle ayarlanan gösterge).",
+  "sorun": []
+ },
+ "T23-11": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 92 Not 2: 92.02 veya 92.06 aletleriyle gelen normal miktardaki yay, baget vb. ilgili aletle aynı pozisyonda; davul vurmalı çalgı olarak 92.06.",
+  "sorun": []
+ },
+ "T23-12": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "92.07 İzahnamesi ve Fasıl 92 GA: pikap ve amplifikatörlü olup bu tertibat olmadan da çalınabilen mutad tip aletler kendi pozisyonunda (gitar 92.02); elektrostatik gitar, elektronik piyano/org, elektronik çanlar 92.07.",
+  "sorun": []
+ },
+ "T23-13": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 92 Not 2 ikinci paragraf: 92.09 kart, disk ve rulolar müzik aletiyle getirilse dahi aletin parçası değil ayrı eşya olarak işlem görür.",
+  "sorun": []
+ },
+ "T23-14": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 93 GA: nakil vasıtalarına mahsus fakat ayrı gelen silahlar (makineli tüfekler vs.) bu fasıla dahil; zırhlı demiryolu taşıtları 86, çelik miğferler 65, oklar-yaylar 95, vücut zırhları maddesine göre.",
+  "sorun": []
+ },
+ "T23-15": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "93.04 İzahnamesi: sıkıştırılmış karbondioksit gazı ile çalışan, vahşi hayvanlara anestetik içeren otomatik şırıngayı uzaktan fırlatan tüfek ve tabancalar.",
+  "sorun": []
+ },
+ "T23-16": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 93 Not 2: 93.06 'aksam ve parçaları' deyimine 85.26 pozisyonundaki telsiz ve radar cihazları dahil değil; torpil pervane/jiroskop, yüzdürücü/savaş başlığı, fişek kovanları, zıpkınlar 93.06 İzahnamesinde.",
+  "sorun": []
+ }
+}

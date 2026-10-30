@@ -1,0 +1,146 @@
+{
+ "T22-01": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Bölüm XVII Not 2(f): elektrik makina ve cihazları ile elektrik teçhizatı (Fasıl 85) aksam-parça sayılmaz; Not 2(e) radyatörleri istisna tutar; pedallar, kardan mili, direksiyon 87.08.",
+  "sorun": []
+ },
+ "T22-02": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Bölüm XVII Not 5: kara veya hem karada hem de suda işletilmek üzere imal olunan hava yastıklı taşıtlar 87. Fasıla girer.",
+  "sorun": []
+ },
+ "T22-03": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 86 Not 1(a): demiryolu hatları için ahşap traversler 44.06; geçit kumanda cihazları ve döner platformlar 86.08 (Not 3), bojiler 86.07 (Not 2), konteynerler 86.09.",
+  "sorun": []
+ },
+ "T22-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 86 GA ve 86.07 İzahnamesi (10): şasi üzerine monte edilmemiş karoserler demiryolu nakil vasıtalarının aksamı olarak 86.07.",
+  "sorun": []
+ },
+ "T22-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 86 GA (A): iki tip güç ile çalışan lokomotifler, kullanılan esas güç tipine uygun pozisyonda sınıflandırılır.",
+  "sorun": []
+ },
+ "T22-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "86.09 İzahnamesi hariç (b): kara-demiryolu römorkları (kılavuz raylı) 87.16; diğer şıklar İzahnamede doğru olarak yer alıyor.",
+  "sorun": []
+ },
+ "T22-07": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 89 GA: pervaneler ve yandan çarklı gemilere ait çarklar 84.87 pozisyonu; gemi aksamı (tekne hariç) 89'da yer almaz.",
+  "sorun": []
+ },
+ "T22-08": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Bölüm XVII Not 4: (a) karayolu+ray taşıtları 87 (I doğru); hem denizde hem karada kullanılan motorlu taşıtlar 87 (II yanlış); kara taşıtı da olabilen hava taşıtları 88 (III doğru); Fasıl 87 Not 1: yalnız raylı tramvaylar 87 dışı (IV yanlış).",
+  "sorun": []
+ },
+ "T22-09": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Seri 13 sınıflandırma kararı: dağıtım merkezlerinde römork elleçleyen, beşinci tekerlekli, sadece sürücü kabinli araç 8701.90.90 çekici; eşya taşımadığından 87.09 değil, karayolunda kullanılmadığından 8701.20 değil.",
+  "sorun": []
+ },
+ "T22-10": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "87.05 İzahnamesi hariç: ev olarak kullanılan motorlu karavanlar (87.03); beton karıştırıcı kamyon, yayın kamyonu, radyolojik birim, asansörlü bakım kamyonu 87.05'te sayılmış.",
+  "sorun": []
+ },
+ "T22-11": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Seri 13 sınıflandırma kararı: geri vites ve diferansiyel nedeniyle trike 8711 değil, 8703.23.19'da (insan taşıma için tasarlanan motorlu taşıt).",
+  "sorun": []
+ },
+ "T22-12": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "87.03 İzahnamesi: nitelikler arasında sürücü/ön yolcu alanı ile arka alan arasında daimi panel veya bariyerlerin BULUNMAMASI sayılır; bulunması yolcu taşıtı niteliği değildir.",
+  "sorun": []
+ },
+ "T22-13": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 87 Not 3: sürücü mahalli ile teçhiz edilmiş motorlu şasiler 87.06'da değil 87.02–87.04'te; eşya taşıma kamyonu için 87.04.",
+  "sorun": []
+ },
+ "T22-14": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Bölüm XVII GA (8): çerçevesiz emniyet camları (taşıtlar için şekil verilmiş olsun olmasın) 70.07; altpozisyon notu 8708.22 ısıtmalı camları (çerçeveli olsun olmasın) kapsar; hava yastığı, kesilmiş debriyaj kablosu, amortisör 87.08.",
+  "sorun": []
+ },
+ "T22-15": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "87.09 pozisyon metni: fabrika, antrepo, liman veya havalimanlarında kısa mesafede eşya taşımaya mahsus, kaldırma/elleçleme tertibatsız kendinden hareketli yük arabaları.",
+  "sorun": []
+ },
+ "T22-16": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "87.10 İzahnamesi: hafif zırhlandırılmış veya sökülebilir zırhlarla donatılmış mutad tipteki arabalar ve kamyonlar bu pozisyon dışında (87.02–87.05); A–D şıkları (A)–(E) bentlerinde dahil.",
+  "sorun": []
+ },
+ "T22-17": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "87.12 İzahnamesi hariç: yedek motorlu bisikletler (87.11); dağıtım bisikleti, iki kişilik, engelli bisikleti ve sepetli bisiklet dahil.",
+  "sorun": []
+ },
+ "T22-18": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Seri 15 sınıflandırma kararı: bileşenler bisikletin esas niteliğini taşımadığından GYK 2(a), birlikte paketlenmediğinden GYK 3(b) uygulanmadı; çerçeve 8714.91.10, furş 8714.91.30, jant 8714.92.10 olarak ayrı ayrı sınıflandırıldı.",
+  "sorun": []
+ },
+ "T22-19": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "88.01 İzahnamesi: motorla donatılmış veya motorla donatılmak için dizayn edilmiş olan planörler 88.02 pozisyonunda yer alır.",
+  "sorun": []
+ },
+ "T22-20": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 88 Not 1: insansız hava taşıtı tabiri yalnızca eğlence amacıyla tasarlanmış uçan oyuncakları kapsamaz (95.03); yolcu taşıyan İHA 8806.10.",
+  "sorun": []
+ },
+ "T22-21": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 88 Altpozisyon Notu 2: 'azami kalkış ağırlığı' = normal uçuş sırasında taşıdığı yük, teçhizat ve yakıt dahil kalkıştaki azami ağırlık.",
+  "sorun": []
+ },
+ "T22-22": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "89.04 İzahnamesi: römorkörler gemileri çekmek için, takviyeli tekneli; tehlike anında yardımcı gemi olarak düzenlenmiş römorkörler dahil; yangın söndürme, pompalama tertibatlı olabilir.",
+  "sorun": []
+ },
+ "T22-23": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "89.07 İzahnamesi (1): gemi biçiminde olan dubalar bu pozisyona dahil değil (89.01 veya 89.05); silindir dubalar, delikli balık havuzları, şamandıralar, coffer damlar dahil.",
+  "sorun": []
+ },
+ "T22-24": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 89 Not 1: belirli bir tür geminin temel özelliklerine sahip olmayan inşası bitmemiş gemiler ve gemi tekneleri 89.06.",
+  "sorun": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "T20-01": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 85 Not 1(d): tıbbi, cerrahi, dişçilik ve veteriner hekimlikte kullanılan vakum cihazları 90.18; tıraş makineleri 85.10, diş fırçaları ve nemlendiriciler 85.09, mıknatıslanacak eşya 85.05 metninde.",
+  "sorun": []
+ },
+ "T20-02": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "85.02 elektrik enerjisi üretim grupları (motor + jeneratör ortak kaide); kaynak başı/maşası olmayan grup 85.02 (kaynaklı olanlar 85.15).",
+  "sorun": []
+ },
+ "T20-03": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 85 Not 2: metal tanklı cıva buharlı redresörler 85.04 pozisyonunda kalır.",
+  "sorun": []
+ },
+ "T20-04": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "85.05 pozisyon metni: elektromanyetik kaplinler, kavramalar ve frenler.",
+  "sorun": []
+ },
+ "T20-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 85 Not 3 konnektör, termistör, devre koruyucu ve koruyucu gövdeli akümülatörleri 85.07'ye dahil eder; bitmiş (yeniden şarj edilemeyen) akümülatörler 85.49 (8549.11–19, altpozisyon açıklaması).",
+  "sorun": []
+ },
+ "T20-06": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "85.08 İzahnamesi: sıvı temizleme çözeltisi zerk edip emen (yerinde) halı temizleme gereçleri bu pozisyon haricinde (84.51 veya 85.09); hayvan tımar vakum aletleri dahil.",
+  "sorun": []
+ },
+ "T20-07": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 85 Not 4: santrifüjlü çamaşır kurutma makinaları (84.21) 85.09'a dahil değil; yer cilalama, öğütücü, presler ve mutfak artığı öğütücüler 85.09.",
+  "sorun": []
+ },
+ "T20-08": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "85.10 kendinden elektrik motorlu traş, saç kesme ve hayvan kırkma makinaları; İzahname: koyun, sığır kırkma.",
+  "sorun": []
+ },
+ "T20-09": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "8511.40 Starter (marş) motorları ve çift amaçlı starter jeneratörler.",
+  "sorun": []
+ },
+ "T20-10": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "85.12 İzahnamesi: elektrik akümülatörleri (85.07) bu pozisyon haricinde; cam siliciler, buğu önleyici rezistans, hırsız alarmları ve ultrasonik geri vites ikaz cihazları 85.12'de.",
+  "sorun": []
+ },
+ "T20-11": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "85.13 İzahnamesi hariç (b): lazer diyotu içeren lazer ibreleri (90.13); madenci lambaları, Mors lambaları, okuma lambaları ve manyetolu cep lambaları dahil.",
+  "sorun": []
+ },
+ "T20-12": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Vinç başları 85.05 < separatörler 85.07 < epilasyon cihazları 85.10 < bujiler 85.11 → IV-III-II-I.",
+  "sorun": []
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "T06-01": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 20 Not 1(d): 19.05'teki ekmekçilik mamulleri hariç; İzahname: 'Pastacılıkta hazırlanan meyve tartları gibi ürünler (19.05)'. Sirkeli zeytin 20.01, French fries 20.04, kavrulmuş badem 20.08, havuç suyu 20.09.",
+  "sorun": []
+ },
+ "T06-02": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "20.06 İzahname: 'şekerle konserve edilmiş ve şuruba konulmuş ürünler bu pozisyon haricindedir ... meyve (örn. marrons glacés) 20.08'.",
+  "sorun": []
+ },
+ "T06-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "20.07 İzahname hariç: 'Jelatin, şeker ve meyve suları veya suni meyve esanslarından hazırlanan sofralık jöleler (21.06)'. Sorbitollü reçel, marmelat, ayva pastı, meyve jölesi 20.07.",
+  "sorun": []
+ },
+ "T06-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "20.09 alt pozisyonları: 2009.12/21/31/41/71 'Brix değeri 20'yi geçmeyenler'; üzüm suyu 2009.61 'Brix değeri 30'u geçmeyenler'.",
+  "sorun": []
+ },
+ "T06-05": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 20 Not 4: 'Kuru ağırlık muhteviyatı %7 ve daha fazla olan domates suları 20.02'de yer alır.' %8 ≥ %7.",
+  "sorun": []
+ },
+ "T06-06": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "21.01 metni: 'kavrulmuş hindiba ve kavrulmuş kahve yerine kullanılan diğer maddeler'; kahve içeren ikame 09.01.",
+  "sorun": []
+ },
+ "T06-07": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "21.06 İzahname: 'gıda maddeleri içeren enzimatik müstahzarları kapsamaz (dekstroz ... ilave edilmiş proteolitik enzimden ibaret ... eti yumuşatıcı) ... 35.07'. Arı sütlü bal, otolize maya, sorbitollü sakız, protein hidrolizatı 21.06 listesinde.",
+  "sorun": []
+ },
+ "T06-08": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 21 Not 3: '21.04 pozisyonu anlamında \"homojenize edilmiş bileşik gıda müstahzarları\" tabirinden esası et, balık, sebze, meyve ... iki veya daha fazlasının ... 250 gr'ı geçmeyen kaplar'.",
+  "sorun": []
+ },
+ "T06-09": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 22 Not 1(d): ağırlıkça %10'dan fazla asetik asit içeren asetik asit çözeltisi 29.15; aromalı-renkli %10–15'lik sirke ikamesi 22.09'da kalır. Denatüre alkol 22.07, sake 22.06, gazlı su 22.01.",
+  "sorun": []
+ },
+ "T06-10": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "22.04 İzahname: 'fermente olmamış fakat alkol ilave edilmiş şıra da bu grup içinde dahildir ... alkol derecesi hacimce %0.5 vol.'den fazladır'.",
+  "sorun": []
+ },
+ "T06-11": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "22.05 İzahname hariç: 'Kuru üzümden elde edilen ve aromatik bitkiler veya aromatik maddelerle hazırlanmış olan şaraplar (22.06 pozisyonu)'.",
+  "sorun": []
+ },
+ "T06-12": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "23.03 İzahname: şeker pancarı küspesi yaş veya kuru 23.03'te; 'hayvan gıdası olarak hazırlanmak maksadıyla içine melas katılmış ... 23.09'. Köpek bisküvisi, kakaolu köpek tatlısı, konserve kedi maması 23.09.",
+  "sorun": []
+ },
+ "T06-13": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "23.07 İzahname: ham tartar şarabın korunduğu fıçılarda katılaşan madde; 'Birinci yıkamadan sonra ... Bu şekildeki yıkanmış ham tartar da bu pozisyona dahildir'.",
+  "sorun": []
+ },
+ "T06-14": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "24.04 İzahname (A)(5): tek kullanımlık e-sigaralar ... ürünü ve dağıtım mekanizmasını entegre bir muhafaza içinde birleştirenler (yeniden doldurmak/şarj etmek için tasarlanmamış). Tıbbi sigara Fasıl 30, sentetik nikotin 29.39, alışkanlık kırıcı sigara 24.02, çiğneme tütünü 24.03.",
+  "sorun": []
+ }
+}
