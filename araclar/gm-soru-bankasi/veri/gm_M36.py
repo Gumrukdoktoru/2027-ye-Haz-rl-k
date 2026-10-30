@@ -187,7 +187,7 @@ Q = [
         c=[
             "Bir basitleştirilmiş gümrük beyannamesine eklenebilecek taşıma senedi sayısı ithalatta en fazla 500, ihracatta en fazla 2.500 adettir.",
             "Bir gerçek kişiye gelen, değeri 1500 Avro'yu aşmayan, ticari miktar ve mahiyet arz etmeyen eşyanın beyanı normal usulde detaylı beyanla ve BİLGE Sisteminde BS20 kodu seçilerek yapılır.",
-            "Aynı kişi adına bir takvim ayında en fazla beş taşıma senedi muhteviyatı eşyanın serbest dolaşıma girişine basitleştirilmiş usulde izin verilir.",
+            "Tebliğde belirtilen kapsamdaki eşyada, aynı kişi adına bir takvim ayında en fazla beş taşıma senedi muhteviyatı eşyanın serbest dolaşıma girişine izin verilir.",
             "Operatörler, gönderinin geldiğine dair bildirimin alıcıya yapıldığı tarihten itibaren ilk üç gün için ardiye ücreti alamaz.",
         ],
         sirali=False,

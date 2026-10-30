@@ -115,35 +115,35 @@ Q = [
         cikmis="2024/52",
         kapsamli=False,
     ),
-    # 4 ---------------- Fasıl 15: rafinasyondan elde edilen asit yağları 38.23 (olumsuz) ----------------
+    # 4 ---------------- Fasıl 15: donyağı tortusu 23.01 (olumsuz) ----------------
     dict(
         konu=KONU,
         blok="T05",
         kalip="KAPSAM_DIŞI",
         z="Z",
-        madde="TGTC Fasıl 15 Notu ve Genel Açıklamaları; 15.22 Açıklama Notu",
-        cek="Yağ rafinasyonunun yan ürünleri ve sabun hammaddeleri (soap stocks) 15.22'de; rafinasyondan elde edilen asit yağları 38.23'te, yağ alkolleri VI. Bölümdedir.",
+        madde="TGTC Fasıl 15 Notu; 15.22 Açıklama Notu",
+        cek="Yağ tortuları ve posaları, soap stocks, stearin zifti 15.22'de; donyağı tortusu ve hayvansal yağların eritilmesinden kalan artıklar 23.01'dedir.",
         kok=[
             "Türk Gümrük Tarife Cetveline göre aşağıdakilerden hangisi 15. Fasılda sınıflandırılmaz?"
         ],
-        d="Ham yağların rafinasyonundan elde edilen asit yağları",
+        d="Donyağı tortusu",
         c=[
-            "Sıvı yağların rafinasyonu sırasında elde edilen nötralizasyon patları (soap stocks)",
+            "Yağların saflaştırılmasından elde edilen yağ tortuları ve posaları",
             "Eritilmiş domuz yağı (lard)",
             "Margarin",
             "Lanolin",
         ],
         sirali=False,
-        g="15. Fasıl notu yağ asitlerini ve VI. Bölümdeki diğer ürünleri fasıl dışında tutar; genel açıklamalar da rafinasyondan elde edilen asit yağlarını, yağ alkollerini ve ham gliserol dışındaki gliserolü bu ürünler arasında sayar. Açıklama notuna göre yağ rafinasyonunun yan ürünleri olan yağ tortuları ve posaları ile sabun hammaddeleri 15.22 pozisyonunda yer alır; rafinasyondan elde edilen asit yağları ise 38.23 pozisyonundadır. 15.22 açıklama notu nötralizasyon patlarını (soap stocks) bu pozisyonda sayar. Eritilmiş domuz yağı (lard) 15.01, margarin 15.17, lanolin 15.05 pozisyonundadır. En güçlü tuzak nötralizasyon patlarıdır: asit yağları gibi yağ rafinasyonunun yan ürünüdür, fakat 15.22 pozisyonunda kalır; asit yağları ise 38.23'e gider. Bu nedenle doğru cevap 'Ham yağların rafinasyonundan elde edilen asit yağları' seçeneğidir. (MD Fasıl 15 Notu ve Genel Açıklamaları; 15.22 Açıklama Notu; GYK 1)",
-        kanit=f"{K} | gibi yağ rafinasyonunun yan ürünleri ve sabun hammaddeleri 15.22 pozisyonunda yer alırlar. Rafinasyondan elde edilen asit yağları 38.23 pozisyonunda yer alırlar || {K} | Yağ asitleri rafinasyondan elde edilen asit yağları, yağ alkolleri, gliserol (ham gliserol hariç), hazırlanmış mumlar || {K} | Nötralizasyon patları (soap stocks). || {K} | 1501.10 – Eritilmiş domuz yağı (Lard) || {K} | 1517.10 - Margarin (sıvı margarin hariç) || {K} | Lanolin, yapağı yağının saflaştırılması suretiyle elde edilir",
+        g="15. Fasıl notu donyağı tortusunu ve 23.04 ila 23.06 pozisyonlarındaki ürünlerin artıklarını bu fasıla dahil etmez; donyağı tortusu 23.01 pozisyonunda yer alır. 15.22 pozisyonunun açıklama notu da domuz yağının ve diğer hayvansal yağların eritilmesinden meydana gelen artıkları (kıkırdaklar) 23.01 pozisyonuna gönderir. Buna karşılık yağların saflaştırılmasından elde edilen yağlı ve yapışkan artıklar olan yağ tortuları ve posaları, fasıl notu gereği sabun hammaddeleri, stearin zifti ve gliserol zifti ile birlikte 15.22 pozisyonunda kalır. Eritilmiş domuz yağı (lard) 15.01, margarin 15.17, yapağı yağının saflaştırılmasıyla elde edilen lanolin 15.05 pozisyonundadır. En güçlü tuzak yağ tortuları ve posalarıdır: tortu kelimesi ortaktır, fakat yağ rafinasyonunun tortusu 15.22'de kalırken donyağı tortusu fasıl notuyla 23.01'e gider. Bu nedenle doğru cevap 'Donyağı tortusu' seçeneğidir. (MD Fasıl 15 Notu; 15.22 Açıklama Notu; GYK 1)",
+        kanit=f"{K} | Donyağı tortusu (23.01 pozisyonu) ve 23.04 ila 23.06 pozisyonlarındaki ürünlerin artıkları; || {K} | Kıkırdaklar, domuz yağının ve diğer hayvansal yağların eritilmesinden meydana gelen artıklar (23.01 pozisyonu). || {K} | Sabun hammaddeleri, yağ tortuları ve posaları, stearin zifti, gliserol zifti ve yapağı yağı artığı 15.22 pozisyonunda yer alır. || {K} | Yağ tortuları ve posaları. Yağların saflaştırılmasından elde edilen yağlı ve yapışkan artıklar || {K} | 1501.10 – Eritilmiş domuz yağı (Lard) || {K} | 1517.10 - Margarin (sıvı margarin hariç) || {K} | Lanolin, yapağı yağının saflaştırılması suretiyle elde edilir",
         yuva=[
-            "15.22 açıklama notu: nötralizasyon patları (soap stocks)",
+            "Fasıl 15 Notu ve 15.22: yağ tortuları ve posaları",
             "15.01: eritilmiş domuz yağı (lard)",
             "15.17: margarin",
             "15.05: yapağı yağı ve lanolin",
         ],
         yakinlik="BİREBİR",
-        tuzak=["KOMŞU", "TERİM"],
+        tuzak=["TERİM", "İSTİSNA"],
         duzey=["AYIRT"],
         profil=[3, 4],
         olumsuz=True,
@@ -152,7 +152,7 @@ Q = [
         eksen=0,
         ayna="",
         guncellik="",
-        cikmis="2024/52",
+        cikmis="",
         kapsamli=False,
     ),
     # 5 ---------------- Fasıl 16 Notu: %20 kuralı (sayısal, D) ----------------
@@ -303,29 +303,29 @@ Q = [
         cikmis="",
         kapsamli=False,
     ),
-    # 9 ---------------- 17.04: sorbitollü sakız (olumsuz) ----------------
+    # 9 ---------------- 17.04: tıbbi maddeli öksürük tableti (olumsuz) ----------------
     dict(
         konu=KONU,
         blok="T05",
         kalip="GTİP",
-        z="O",
+        z="Z",
         madde="TGTC 17.04 Açıklama Notu",
-        cek="17.04: şekerli sakız, Türk lokumu, marzipan, bala dayalı helva; şeker yerine sorbitol gibi sentetik tatlandırıcı içeren sakız ve tatlılar 21.06'dadır.",
+        cek="Şeker ve aroma maddesinden (mentol, ökaliptol) oluşan boğaz pastilleri 17.04'te; tedavi edici oranda tıbbi madde içeren pastil ve tabletler Fasıl 30'dadır.",
         kok=[
             "Türk Gümrük Tarife Cetveline göre aşağıdakilerden hangisi 17.04 pozisyonunda sınıflandırılmaz?"
         ],
-        d="Şeker yerine sorbitol içeren, şeker hastalarına yönelik sakız",
+        d="Aroma maddeleri dışında, her bir tablette tedavi edici özellik verecek oranda tıbbi madde içeren öksürük tabletleri",
         c=[
-            "Şekerli sakız (çiklet)",
+            "Esası şeker olan ve mentol, ökaliptol gibi aroma maddelerinden oluşan boğaz pastilleri",
             "Türk lokumu",
             "Badem ezmesi (marzipan)",
             "Doğal bala dayalı helva",
         ],
         sirali=False,
-        g="17.04 pozisyonu kakao içermeyen, olduğu gibi yenilmeye elverişli şeker mamullerini kapsar. Açıklama notu bu pozisyonda şekerli sakızları (tatlandırılmış çiklet dahil), karamel, pastil, nuga, fondan ve Türk lokumunu, badem ezmesini (marzipan) ve doğal bala dayalı şekercilik mamullerini (örneğin helva) sayar. Aynı not şeker yerine sentetik tatlandırıcı maddeler (sorbitol gibi) içeren tatlıları ve sakızları, özellikle şeker hastaları için olanları, bu pozisyonun dışında tutar; bunlar 21.06 pozisyonunda yer alır. En güçlü tuzak doğal bala dayalı helvadır: bal tabii bir ürün olduğu için 4. Fasılda sanılır, fakat şekercilik mamulü biçimindeki bal esaslı müstahzarlar 17.04'tedir. Bu nedenle doğru cevap 'Şeker yerine sorbitol içeren, şeker hastalarına yönelik sakız' seçeneğidir. (MD GYK 1; 17.04 Açıklama Notu)",
-        kanit=f"{K} | Şekerli sakızlar (tatlandırılmış çiklet ve benzerleri dahil). || {K} | Karameller, pastiller (şekerli tablet), şekerlemeler, nugalar, fondanlar, badem şekerleri ve Türk lokumu. || {K} | Badem ezmesi (marzipan) || {K} | Doğal bala dayalı şekercilik mamulleri formunda müstahzarlar (örneğin helva) || {K} | Şeker yerine sentetik tatlandırıcı maddeler (sorbitol gibi) içeren tatlılar, sakızlar vb. (özellikle şeker hastaları için)",
+        g="17.04 pozisyonu kakao içermeyen, olduğu gibi yenilmeye elverişli şeker mamullerini kapsar. Açıklama notu bu pozisyonda Türk lokumunu, badem ezmesini (marzipan), doğal bala dayalı şekercilik mamullerini (örneğin helva) ve esası şeker olup benzil alkol, mentol, ökaliptol gibi aroma maddelerinden oluşan boğaz pastillerini ve öksürük tabletlerini sayar. Aynı not, aroma maddelerinden başka tıbbi özellikleri olan maddeler içeren boğaz pastilleri veya öksürük tabletlerinin, bu maddelerin her bir pastil veya tabletteki oranı tedavi edici veya koruyucu özellik verecek kadar ise Fasıl 30'da yer aldığını belirtir. En güçlü tuzak mentol ve ökaliptollü boğaz pastilleridir: boğaz için kullanıldıkları için ilaç sanılır, fakat yalnız aroma maddesi içerdikleri sürece şeker mamulü olarak 17.04'te kalır. Bu nedenle doğru cevap 'Aroma maddeleri dışında, her bir tablette tedavi edici özellik verecek oranda tıbbi madde içeren öksürük tabletleri' seçeneğidir. (MD GYK 1; 17.04 Açıklama Notu)",
+        kanit=f"{K} | Esası şeker (jelatin, nişasta veya un gibi diğer gıda maddeleri ile birlikte olsun olmasın) ve aroma maddelerinden (benzil alkol, mentol, ökoliptol ve tolupelesenk, vb.) oluşan boğaz pastilleri veya öksürük tabletleri gibi müstahzarlar. || {K} | Bununla birlikte, aroma maddelerinden başka tıbbi özellikleri olan maddeler içeren boğaz pastilleri veya öksürük tabletleri, böyle maddelerin her bir pastil veya tabletteki oranının tedavi edici veya koruyucu özellik verecek kadar olması şartıyla Fasıl 30 da yer alırlar. || {K} | Karameller, pastiller (şekerli tablet), şekerlemeler, nugalar, fondanlar, badem şekerleri ve Türk lokumu. || {K} | Badem ezmesi (marzipan) || {K} | Doğal bala dayalı şekercilik mamulleri formunda müstahzarlar (örneğin helva)",
         yuva=[
-            "17.04 açıklama notu: şekerli sakızlar",
+            "17.04 açıklama notu: aroma maddeli boğaz pastilleri",
             "17.04 açıklama notu: Türk lokumu",
             "17.04 açıklama notu: badem ezmesi",
             "17.04 açıklama notu: bala dayalı helva",

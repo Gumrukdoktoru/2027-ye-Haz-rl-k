@@ -1,14 +1,14 @@
 {
  "bulunamayan": [
-  "2024/52 (sınai yağ alkolleri 38.23): eşyanın kendi pozisyonu 38. Fasıl (T09) kaynağındadır; Fasıl 15 ile VI. Bölüm arasındaki sınır (rafinasyon asit yağlarının 38.23'e, ham–saf gliserin ayrımı) S3 ve S4'te ölçüldü."
+  "2024/52 (sınai yağ alkolleri 38.23): eşyanın kendi pozisyonu 38. Fasıl (T09) kaynağındadır ve 38.23 kapsamı T09'da ölçüldü; Fasıl 15 ile VI. Bölüm arasındaki sınır T05'te ham gliserin (15.20) ile saf gliserin (29.05) ayrımı üzerinden S3'te ölçüldü."
  ],
- "giremeyen": "15.01–15.06 hayvansal yağ ayrıntıları (lard stearini, oleo yağı, balık ve kemik yağları), 15.16 hidrojenize yağlar (opal mumu) ve 15.17/15.18 müstahzar ayrımı, 16.03 et hülasası ile 21.04 çorba ayrımı, 16.04 havyar ve benzerleri, 17.01–17.03 şeker türleri (ham şeker, laktoz eşiği, suni bal, aromalı şurup 21.06), 18.01–18.05 kakao danesi ve tozu, 19.02 kuskus, 19.03 tapyoka ve 19.04 bulgur–müsli ayrıntıları ayrı soru olarak sete giremedi.",
+ "giremeyen": "15.01–15.06 hayvansal yağ ayrıntıları (lard stearini, oleo yağı, balık ve kemik yağları), 15.16 hidrojenize yağlar (opal mumu) ve 15.17/15.18 müstahzar ayrımı, 16.03 et hülasası ile 21.04 çorba ayrımı, 16.04 havyar ve benzerleri, 17.01–17.03 şeker türleri (ham şeker, laktoz eşiği, suni bal, aromalı şurup 21.06), 18.01–18.05 kakao danesi ve tozu, 19.02 kuskus, 19.03 tapyoka ve 19.04 bulgur–müsli ayrıntıları ayrı soru olarak sete giremedi. Sorbitollü sakız (21.06) ve rafinasyon asit yağları (38.23) aynı gruptaki T06 ve T09'da ölçüldüğü için T05'te doğru cevap yapılmadı.",
  "notlar": [
   "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar Bölüm/Fasıl notları, AS İzahnamesi ve sınıflandırma görüşlerinden birebir alındı; ders notu ve sunum blokları kanıt olarak kullanılmadı.",
-  "Profil: eşyanın yeri (GTİP) 10/14 (%71): pozisyon şıklı sıralı 5 (S1, S7, S8, S10, S12; doğru şık B/C/D), eşya şıklı 5 (S2, S6, S9, S11, S13). Not ve kapsam 4: sayısal oran 3 (ham gliserin %95, Fasıl 16 %20 kuralı, 19.04 kakao %6) ve kapsam dışı 1 (S4). Kökü olumsuz 5 (%36). Önermeli yok.",
+  "Profil: eşyanın yeri (GTİP) 10/14 (%71): pozisyon şıklı sıralı 5 (S1, S7, S8, S10, S12; doğru şık B/C/D), eşya şıklı 5 (S2, S6, S9, S11, S13). Not ve kapsam 4: sayısal oran 3 (ham gliserin %95, Fasıl 16 %20 kuralı, 19.04 kakao %6) ve kapsam dışı 1 (S4, donyağı tortusu). Kökü olumsuz 5 (%36). Önermeli yok.",
   "Fasıl dağılımı: Fasıl 15: 4, Fasıl 16: 3, Fasıl 17: 2, Fasıl 18: 2, Fasıl 19: 3.",
-  "Çıkmış alanlar: 2024/52 → S3, S4; 2021/100 (wonton, %20 kuralı ve doldurulmuş makarna) → S5, S7 (karides yerine ton balıklı ravioli, şık kümesi farklı); 2024/51 (19.02 eşleştirmesi) → S7, S13.",
-  "Grup içi tekrar önleme: ön pişirilmiş pirinç (19.04) T04-S9'da, meyan kökü hülasası %10 eşiği T04-S15'te, spagetti takımı (19.02) ve sığır etli sandviç takımı (16.02) T02'de doğru cevap olarak soruldu; T05'te bu hükümler doğru cevap olarak tekrar edilmedi (meyan kökü %10 yalnız S5'te çeldirici değeridir).",
+  "Çıkmış alanlar: 2024/52 → S3 (Fasıl 15 ile VI. Bölüm sınırı); 2021/100 (wonton, %20 kuralı ve doldurulmuş makarna) → S5, S7 (karides yerine ton balıklı ravioli, şık kümesi farklı); 2024/51 (19.02 eşleştirmesi) → S7, S13.",
+  "Grup içi tekrar önleme: ön pişirilmiş pirinç (19.04) T04-S9'da, meyan kökü hülasası %10 eşiği T04-S15'te, spagetti takımı (19.02) ve sığır etli sandviç takımı (16.02) T02'de doğru cevap olarak soruldu; T05'te bu hükümler doğru cevap olarak tekrar edilmedi (meyan kökü %10 yalnız S5'te çeldirici değeridir). T06'daki sorbitollü sakız ve T09'daki 38.23 kapsamıyla çakışmamak için S4 donyağı tortusu, S9 tıbbi maddeli öksürük tableti üzerine kuruldu.",
   "Güncellik: kaynakta son 12 ayda değişen hüküm görünmüyor."
  ]
 }
