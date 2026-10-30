@@ -1,0 +1,13 @@
+{
+ "bulunamayan": [
+  "2024/59 (görselli kendinden hareketli buz yüzeyi makinesi, 84.79): bu eşya bölüm kaynağında geçmiyor; 84.79 pozisyonunun kullanımı S7'de (ip-halat makineleri, 84. Fasıl notu) ölçüldü."
+ ],
+ "giremeyen": "84.40–84.49 cilt, kağıt, matbaa ve tekstil makineleri, 84.50 çamaşır makinelerinin kuru çamaşır kapasitesi sınırı (kaynakta sayı silinmiş), 84.57–84.66 takım tezgâhlarının ayrıntıları, 84.71 otomatik bilgi işlem makinesi tanımının dört şartı, 84.72–84.78, 84.80 kalıplar, 84.81 vanalar, 84.82 rulmanlar (8482.40 eşiği silinmiş) ve 84.87 ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. 84. Fasıl notları resmî metin olarak yalnız T18 dosyasında bulunduğundan not dayanaklı sorularda (S1, S5, S6, S7, S8, S10, S11, S12) not cümleleri T18-fasil-84a.txt'den, 73.25/73.26 cümleleri T16'dan alındı; pozisyon açıklamaları T19 resmî kısmındandır.",
+  "Profil: eşyanın yeri (GTİP) 8/12 (%67): 5'i pozisyon şıklı (sıralı; sabit konumlar B, D, B, C, D), 3'ü eşya şıklı olumsuz. Not ve kapsam soruları 4: 84.71 dışlamaları (kapsam dışı), cep tipi ölçüleri (vaka), 84.86 düz ekran tanımı (kapsam), dilme hattı (tanımdan ad). Kökü olumsuz 5 (%42).",
+  "Çıkmış alanlar: 2023/10 (conta seti 84.84) → S9 (tersine yön: aynı maddeden conta takımı 48.23). 2023/13 (cep tipi hesap makinesi) → S5 (tersine yön: cep tipi sayılmayan; sınır değere eşit ölçü cep tipi). 2023/17 (84.68'in elektriklisi 85.15) → S4 (hem gazla hem elektrikle çalışan kaynak cihazı 85.15). 2024/58 (ayakkabı ile ilgili pozisyonlar, 84.54 şıkkı) → S2 (ayakkabı dikiş makinesi 84.52 / 84.53 istisnası). 2025/45 (84. Fasıl kapsamı; mekanik salmastra, merkezi yağlama) → S9 (mekanik salmastra çeldirici), S7 (84.79).",
+  "İkiz kavram eksenleri: dilme hattı ↔ uzunlamasına kesme hattı (eksen 2, S10); lazerli işleme önceliği 84.56 (S11) ↔ katmanlı üretim önceliği 84.85 (S12) (eksen 3, ayna).",
+  "Güncellik: son 12 ayda değişen hüküm tespit edilmedi."
+ ]
+}

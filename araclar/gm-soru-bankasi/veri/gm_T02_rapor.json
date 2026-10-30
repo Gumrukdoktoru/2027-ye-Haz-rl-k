@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2023/10 (farklı maddelerden conta seti, 84.84): çıkmış soruda dayanılan GYK belirsiz ve 84.84 pozisyon metni bu bölümün kaynağında yok; pozisyon metninde takım olarak tanımlanan eşyanın GYK 1 ve 6 ile sınıflandırılması ilkesi S24'te ölçüldü.",
+  "2021/100 (wonton ve çorba seti: GYK 1, 2(b), 3(b), 6): setin dayandığı 16. Fasıl %20 kuralı ve 19.02 doldurulmuş makarna istisnası T05-S5 ve T05-S7'de; GYK tarafı S5 (mümeyyiz vasıf ölçütleri) ve S11'de (2(b)) kısmen ölçüldü."
+ ],
+ "giremeyen": "3(b) bileşik eşya örnekleri (ayrılabilir kül tablası ve kaidesi, baharat dolabı), 'altı adet fondü çatalı takım değildir' örneği, Rehberdeki hediye seti, aynı ortamda kullanılan ve belli kişilere yönelik setlerde olay bazlı değerlendirme kuralları, banyo, hijyen ve hayatta kalma seti örnekleri ile GYK 1 Açıklama Notundaki 31. Fasıl ve 30.06 örnekleri ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar yalnız resmî kısımlardan: GYK metni ve açıklama notları (K1), Genelge 2016/6 ekindeki Rehber (K4) ve Genelge 2011/40 (K5). Ders notu (K2) ve sunum (K3) kanıt olarak kullanılmadı.",
+  "Tip (GM analizi etiketi): olumsuz 10, klasik 7, vaka 7, GTİP 3, boşluk 2, eşleştirme 1 (olumsuz yönlü); kökü olumsuz toplam 11 (%37); önermeli yok. Talimat gereği soruların çoğu GYK uygulamasıdır: vaka (S9, S14, S19, S20, S26, S28, S29), GTİP (S12, S13, S16), kural kombinasyonu (S24, S26, S30) ve Rehber örnekleri (S17, S18, S21, S23) birlikte 18/30.",
+  "Ayna çift: S4 ↔ S5 (GYK 4 benzerlik faktörleri ↔ GYK 3(b) mümeyyiz vasıf ölçütleri).",
+  "S26 vakasındaki 39.26 ve 82.14 pozisyonları soru verisi olarak verildi (eşya adı verilmedi); sonuç yalnız GYK 3(c) ve Genelge 2011/40 hükmünden çıkarılır.",
+  "Çıkmış alanlar: 2022/81 (GYK genel ilkeleri) → S1, S2, S3; 2023/12 (2(a)'nın uygulanmadığı bölümler) → S10 (boşluk kalıbı, çıkmış şık kümesi kullanılmadı); 2021/97 (GYK uygulama örnekleri) → S8, S9, S13, S16, S24, S27; 2021/94 ve 2025/42 (3(b) perakende takım) → S15, S17, S18, S19, S22; 2022/88 (fasıl notu ile GYK 1 ve 6) → S24, S26, S30; 2024/50 (antika heykel, GYK 1) → S30 (fasıl notunun GYK 3'ten önceliği, heykel örneği kullanılmadan); 2021/99 (platin) → S7 (GYK 6 açıklama notundaki ilke).",
+  "Güncellik: GYK metni 2017 tarihli; genelgeler 2011 ve 2016; son 12 ayda değişen hüküm yok."
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "bulunamayan": [
+  "2021/97 (GYK uygulama örnekleri, 84.18 şıkkı): soru GYK'nın kendisini ölçtüğü için T02 bölümünün konusudur; 84.18 kapsamı S10'da ölçüldü."
+ ],
+ "giremeyen": "84.01 nükleer reaktörler, 84.05 gaz jeneratörleri, 84.10–84.12 türbin ve motorlar, 84.16 brülörler, 84.20 kalenderler, 84.23 tartı aletlerinin 5 santigram hassasiyet sınırı (sayısal çeldiriciler kaynakta bulunmadığı için), 84.25–84.27 palanga, vinç ve forkliftler, 84.29, 84.34–84.35 ve 84.39 ayrı soru olarak; XVI. Bölümün karma makine (Not 3) ve elektrikli-elektronik atık (Not 6) notları ise sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar yalnız Bölüm XVI notları, 84. Fasıl notları ve genel açıklamaları ile 84.01–84.39 açıklama notlarından birebir alındı.",
+  "Profil: eşyanın yeri (GTİP) 14/20 (%70): 11'i pozisyon şıklı (sıralı; sabit konumlar C, B, C, B, B, C, D, B, D, C, D; ardışık aynı harf yok, B 4, C 4, D 3), 3'ü eşya şıklı olumsuz. Not ve kapsam soruları 6: XVI. Bölüm Notu kapsam dışı 1, fonksiyonel birim 1 (vaka), 84. Fasıl notu kapsam dışı 3 (seramik pompa, 84.22 dikiş makinesi, 84.24 su jeti), 84.15 şartları 1. Kökü olumsuz 8 (%40).",
+  "Notların ölçülmesi: XVI Not 1 (S1), aksam kuralları 2(a) ve 2(b) (S12, S3), Not 4 fonksiyonel birim (S2); 84. Fasıl Not 1 (S4), Not 2 öncelik kuralı (S5), Not 3 (A)(B)(C) istisnaları (S18, S13, S14). 84. Fasıl Not 4–11 (84.56–84.86) T19'da ölçüldü.",
+  "Çıkmış alanlar: 2023/11 (kültivatör 84.32) → S17 (84.32 kapsamında olmayan eşya: çim biçme makinesi; kültivatör çeldiricidir). 2023/21 (84.18'de olmayan eşya) → S10 (buzdolabı kompresörü 84.14; çıkmıştaki ısı değiştirici kullanılmadı). 2024/45 (fırın) → S9 (sanayi tipi elektriksiz bisküvi tünel fırını 84.17). 2025/45 (84. Fasılda yer almayan eşya) → S4 (seramik pompa 69. Fasıl). 2023/18 (binek otomobil ürünleri) → S7 (84.07 motor).",
+  "İkiz kavram ekseni (eksen 1): tersine çalışabilen ısı pompası 84.15 (S8) ↔ su-su ısı pompası 84.18 (S10).",
+  "Güncellik: son 12 ayda değişen hüküm tespit edilmedi."
+ ]
+}

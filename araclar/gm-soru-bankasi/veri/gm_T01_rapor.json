@@ -1,0 +1,16 @@
+{
+ "bulunamayan": [
+  "2021/59 ve 2021/73 (gümrük tarifesinin kapsamı, yayımlanması ve uygulanma zamanı): GK 15/3 ve 15/7 usul hükümleridir; resmî metni M09 bölümünün kaynağında (09-gumruk-tarifesi-ve-mense-gk.txt) yer aldığından ve aynı hükmün iki bölümde sorulmaması için T01'de ayrı soru yazılmadı. GK 15/7 ile bağlantılı İzahnamenin idari ve kazai uygulamada esas tutulması S7'de ölçüldü.",
+  "2022/87 (mamul olduğu maddeye göre sınıflandırılan eşya): kaynakta yalnız sunum notunda genel ifade var (1–83. fasıllar maddeye, 84–96 işleve göre, 'genel olarak'); kesin hüküm olmadığından eşya sorusu yazılmadı, bölüm tanımındaki 'aynı hammadde' ölçütü S8'de ölçüldü."
+ ],
+ "giremeyen": "TGTC'nin dört sütunu ve ölçü birimi kısaltmaları (GT, c/k, p/a, p/st; yalnız sunum notunda), DGÖ'nün üye sayısı ve AS'nin ilk 6 hanesinin ortak kullanımı, tarife tespitinde kullanılan ulusal ve uluslararası kaynaklar, sunumdaki hurda ve eldiven pozisyon tabloları ile GK 15/4–5 ve 16'nın tercihli tarife usul hükümleri (M09'un konusu; GMY bankasında SB09 ile ölçüldü) sete girmedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+  "Tip (GM analizi etiketi): olumsuz 4, klasik 3, tanım 2, boşluk 1, eşleştirme 1 (olumsuz yönlü), önermeli 1; kökü olumsuz toplam 5 (%42). T01'de eşyanın yeri kotası uygulanmaz (talimat_gm.md, T01 kendi ağırlığında).",
+  "Kaynak durumu: T01 metninin resmî kısımları yalnız TGTC İçindekiler ile Kısaltmalar ve Semboller (K4) ve Seri No: 4 Tebliğdir (K5). GY 32 ve Seri No: 6 tanımları bölüm dosyasında resmî metin olarak yok; aynı hükmü düzenleyen 09-gumruk-tarifesi-ve-mense-gk.txt'den alıntılandı (S1, S5, S6, S7, S8).",
+  "Kaynak sorunu: GTİP'in 8 hane (Kombine Nomanklatür) ve 10 hane (milli alt açılım) anlamı, 99. Fasılın alt açılım listesi ve 474 sayılı Kanunun Cumhurbaşkanı yetkisi hükmü yalnız ders notu ve sunum bloklarında (K1, K2) bulunduğundan S1, S2, S4 ve S11'de kanıt bu bloklardan alındı; 474 sayılı Kanundaki '50'ye kadar / %50' sınırı ayrıca İthalat Rejimi Kararı metniyle (56-ithalat-rejimi-karari-teblig.txt) teyit edildi. Sunum blokları 99. Fasıl için çelişkilidir (K3 'akit taraflarca saklı', K2 ve K4 'Özel Amaçlı GTİP'); S3 ve S4 TGTC İçindekiler (K4) ifadesine dayandırıldı.",
+  "Çıkmış alanlar: 2022/82 ve 2025/44 (GTİP hane yapısı) → S1 (olumlu, milli alt açılım kodu) ve S2 (olumsuz, farklı GTİP: 8501.10.10.00.00); 2025/48 (99. Fasıl) → S4 (farklı eşya kümesi, 99.30 tuzağı); 2025/53 (474 sayılı Kanun) → S11 ('yer almaz' kalıbı, iki katına artırma tuzağı); 2022/80 (fasıl yerleri) → S12 (önermeli); 2024/46 (aynı bölüm) → S10 (fasıl başlığı düzeyinde).",
+  "GMY bankasında (SB09) GY 32 ve Seri No: 4/6 tanımları ölçüldüğü için T01'de farklı yönden soruldu: bölüm başlığı ve tarife tavanı tanımdan ada, Seri No: 4 doğru ifade, bölüm tanımı boşluk.",
+  "Güncellik: kaynakta son 12 ayda değişen hüküm yok (Seri No: 4 Tebliğ 29.03.2022)."
+ ]
+}

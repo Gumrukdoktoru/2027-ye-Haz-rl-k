@@ -1,0 +1,16 @@
+{
+ "bulunamayan": [
+  "2025/59: yolcu beraberi Türk parası çıkışında beyan sınırı ve beyan formu kambiyo mevzuatının (32 sayılı Karar Tebliği 2008-32/34) konusudur; bölüm kaynağındaki 2011/39 sayılı Genelgede yalnız 32 sayılı Karara dayalı eski limit (5.000 ABD Doları) yer aldığı ve güncelliği kaynaktan doğrulanamadığı için soru yazılmadı.",
+  "2025/76: Ek-9 listesindeki miktarların tamamı kaynakta yok; Genelgede geçen kısımları (tüketim maddelerinin yalnız beraberde getirilmesi, ilave 200 sigara, evcil hayvan sınırı) S8'de ölçüldü."
+ ],
+ "giremeyen": "Tebliğde gönderilerin dört kategoride tasnifi, doküman beyanı, KDV/ÖTV istisna belgesi şartı, teslim bilgilerinin üç iş günü içinde iletilmesi ve KOD2-YABANCIUYRUKLU/U kodları, %20 taşıma senedi ekleme sınırı, sarı-kırmızı hatta ihracat, başvurunun 15 günde Bakanlığa iletilmesi; Genelgede numune ve model (30 Avro, MODEL kodu), ilaç getirme şartları, yetkili kara yolu gümrük müdürlükleri listesi; GY'de posta haberleşme gönderileri, eşyanın başka idareye sevki, muayenede eksiklik tutanağı ve Genelge 2011/39'daki beyandan muaf kişiler, ziynet eşyası ve cep telefonu sınırlaması ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 4, önermeli 2 (biri 'yanlıştır' yönlü), tanım 1; kota 4/3/2/1 her sütunda ±1 içinde. Kökü olumsuz 4/10 (%40).",
+  "Çıkmış alan → soru: 2021/28 → S1 (çıkmışın sorduğu Teslim Kağıdı çeldirici, sorulan belge Déclaration en Douane); 2021/56, 2021/70 → S2 ve S7; 2021/69 → S3 (gelen ↔ giden eşya bekleme süresi ve başlangıç anı); 2023/39 → S4; 2022/72, 2022/73 → S5 ve S9; 2024/82 → S10 (06.11.2025 değişikliğiyle kara yolu yetkili müdürlükleri Bakanlıkça belirlenir; çıkmıştaki liste kurgusu kopyalanmadı); 2023/35, 2025/76 → S8.",
+  "Güncellik: Tebliğde 03.01.2026 tarihli Seri No: 5 ile değişen müşavir şartı (yürürlük 02.03.2026) → S4; 06.11.2025 tarihli değişikliklerle eklenen konsinye ihracat hükümleri → S6, taşıma senedi bazında müeyyide → S9, kara yolu yetkili gümrük müdürlüklerini Bakanlığın belirlemesi → S10.",
+  "Meslek yanlılığı: S4'ün II. önermesi (posta idaresinin de en az iki gümrük müşaviriyle çalışma zorunluluğu).",
+  "M32 ile tekrar önlendi: Karar md. 62'deki posta tek ve maktu vergi oranları ve yolcu beraberi 430/150 Avro ile ayda 10 defa kuralı M32'de soruldu; burada Tebliğ, Genelge ve GY hükümleri soruldu. S8'in kanıtında Karar md. 58/2 için 32 numaralı bölüm metnine de atıf yapıldı.",
+  "Kaynak sorunları: 2011/39 sayılı Genelgede posta hükümlerinin 24.03.2014'te yürürlükten kaldırıldığına ilişkin notlar paragraflar arasına dağınık yerleştirildiğinden, kaldırılıp kaldırılmadığı kesin olmayan posta ve hayvansal-bitkisel ürün miktarları (5 kg/3 kg/1 kg) ile cep telefonu sınırlaması sorulmadı; Tebliğ md. 1-2, 9 ve 18'de Kanun ve Karar madde numaraları silinmiş.",
+  "Önermeli kombinasyonları: S4 'I, III ve V' (beş önermeli), S9 'III ve IV' (yanlış yönlü, beş önermeli); en kapsamlı şık doğru 0."
+ ]
+}

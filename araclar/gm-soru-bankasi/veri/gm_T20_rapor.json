@@ -1,0 +1,11 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "85.09 ağırlık sınırı (kaynakta sayı silinmiş), 85.06 primer piller, 85.04 kesintisiz güç kaynakları ve endüktörler ayrı soru olarak sete giremedi; Fasıl 85 notlarının 85.17–85.42 eşyasına ilişkin kısımları (akıllı telefon, 85.23 akıllı kart, 85.24 düz panel, baskılı devre, LED, yarı iletken ve entegre devre tanımları) T21 bölümünün konusu olduğundan bu bölümde sorulmadı.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar Fasıl 85 notları, alt pozisyon notları ve 85.01–85.13 açıklama notlarından birebir alındı; sınır pozisyonları için 84.08, 84.36 (T18) ve 84.67, 84.83 (T19) cümleleri kullanıldı.",
+  "Profil: eşyanın yeri (GTİP) 8/12 (%67): 5'i pozisyon şıklı (sıralı; sabit konumlar C, B, D, D, C — ardışık iki D arasında serbest sorular var), 3'ü eşya şıklı. Not ve kapsam soruları 4: Fasıl 85 Not 1, Not 3 (+ alt pozisyon notu), Not 4 kapsam dışı ve pozisyon sıralaması. Kökü olumsuz 5 (%42).",
+  "Çıkmış alanlar: 2024/60 (85. Fasıl notları) → S1, S3, S5, S7 (Not 1–4 ayrı ayrı; çıkmıştaki 'notlarda açıklaması olmayan eşya' kurgusu kopyalanmadı). 2025/46 (85. Fasılda pozisyon sırası) → S12 (farklı eşya: vinç başı, separatör, epilasyon cihazı, buji). 2024/47 (diğerlerinden farklı pozisyondaki eşya) → S10 (taşıt akümülatörü 85.07 / 85.12 eşyası). 2024/45 (85.09'da yer almayan) → S7. 2023/18 (85.07 ve 85.12 binek otomobil ürünleri) → S5, S9, S10.",
+  "Not 2 iki yönden ölçüldü: 85.11 eşyası 85.01'e girmez (S9 marş motoru) ve metal tanklı cıva buharlı redresör 85.04'te kalır (S3).",
+  "Güncellik: Fasıl 85 notlarındaki akıllı telefon ve 85.24 düz panel notları yeni AS değişikliklerine dayanıyor; ancak bu notlar T21 kapsamında ve son 12 ay içindeki değişiklik tarihi kaynakta yazılı değil, güncellik sorusu yazılmadı."
+ ]
+}

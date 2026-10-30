@@ -1,0 +1,13 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "74. Fasıl rafine bakır tablo değerleri, 74.09 / 76.06 sac-yaprak kalınlık sınırları ve 83.02 küçük tekerlek çap sınırı (kaynakta sayılar silinmiş), 81. Fasıl metal bazında tek tek pozisyonlar (molibden, tantal, bizmut, titan vb.), 82.01–82.08 el aletleri ve değişebilir aletler, 83.01 kilitler, 83.04–83.05 büro eşyası, 83.10 levhalar ve 83.11 kaynak elektrotları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. XV. Bölüm notları (çubuk, tel, boru tanımları) resmî metin olarak yalnız T16 dosyasında bulunduğundan S3, S4 ve S6'nın bir kısım kanıtı T16-fasil-72-73.txt'den alındı (aynı hüküm 74–81. Fasılları doğrudan yönetir); diğer bütün kanıtlar T17 resmî kısımlarındandır.",
+  "Profil: eşyanın yeri (GTİP) 10/14 (%71): 6'sı pozisyon şıklı (sıralı; sabit konumlar C, B, C, D, B, C, D), 4'ü eşya şıklı olumsuz. Not ve kapsam soruları 4: 74. Fasıl alt pozisyon notu tanımdan ad (pirinç), 74. Fasıl notu oran (bakır fosfor %15), 75. Fasıl alt pozisyon notu (6 mm tel istisnası), 82. Fasıl notu kapsam dışı. Kökü olumsuz 5 (%36, ±1 içinde).",
+  "Fasıl dağılımı: 74: 2, 75: 2, 76: 2, 78: 1, 79: 1, 80: 1, 81: 1, 82: 2, 83: 2 (her fasıldan en az bir soru).",
+  "Çıkmış alanlar: 2023/16 (çubuk–tel farkı) → S3 (75. Fasıl alt pozisyon notunun XV. Bölüm tel tanımına getirdiği 6 mm istisnası; genel tanım en güçlü tuzak). 2021/94 ve 2025/42 (perakende takım, şıklarda 82. Fasıl) → S11 (82.11 bıçak + eşit sayıda 82.15 eşyası takımı fasıl notu ile 82.15; GYK 3(b)'ye gidilmeden).",
+  "İkiz kavram ekseni (eksen 1): bakır yaprak 0,15 mm (74.10) ↔ alüminyum yaprak 0,2 mm (76.07), S5'te tuzak olarak kullanıldı.",
+  "Grup içi tekrar kontrolü: başı bakır çivi (XV. Bölüm karma eşya istisnası) T16 S7'de sorulduğu için T17'de 74.15 ayrı soru yapılmadı; 85.10 bıçakları yalnız S12'de (82. Fasıl notu) geçer, T20'de 85.10 makinenin kendisi (koyun kırkma) sorulmuştur.",
+  "Güncellik: son 12 ayda değişen hüküm tespit edilmedi."
+ ]
+}

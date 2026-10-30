@@ -38,7 +38,7 @@ Q = [
             "Teminata bağlanan tutar Hazineye irat kaydedilir; aradaki fark ilgiliden ayrıca tahsil edilir.",
             "Teminata bağlanan tutarın tamamı Hazineye irat kaydedilir; aradaki fark iade edilmez.",
         ],
-        g="İthalatta Korunma Önlemleri Hakkında Karara göre geçici korunma önlemi gümrük vergisinde artış şeklinde uygulanırsa, İthalat Rejimi Kararındaki oran ile geçici önlem oranı arasındaki farka tekabül eden tutar teminata bağlanır. Soruşturma sonunda korunma önlemi alınmasına karar verilirse teminata bağlanan tutar Hazineye irat kaydedilir; korunma önlemi geçici önlemden daha düşük belirlenirse aradaki fark ilgiliye iade edilir, daha yüksekse aradaki fark tahsil edilmez. Korunma önlemine gerek olmadığına karar verilirse geçici önlem yürürlükten kaldırılır ve teminat, teminata bağlanan vergilerin geri verilmesine ilişkin hükümler dahilinde ilgililere iade edilir. En güçlü tuzak farkın tahsil edilmeyeceğini söyleyen seçenektir: bu sonuç kesin önlemin geçici önlemden yüksek olduğu duruma aittir; dampinge karşı vergide de aynı kural bulunduğu için akla ilk o gelir. Bu nedenle doğru cevap 'Teminata bağlanan tutar Hazineye irat kaydedilir; aradaki fark ilgiliye iade edilir.' seçeneğidir. (MD Korunma Önlemleri Kararı md. 5)",
+        g="İthalatta Korunma Önlemleri Hakkında Karara göre geçici korunma önlemi gümrük vergisinde artış şeklinde uygulanırsa, İthalat Rejimi Kararındaki oran ile geçici önlem oranı arasındaki farka tekabül eden tutar teminata bağlanır. Soruşturma sonunda korunma önlemi alınmasına karar verilirse teminata bağlanan tutar Hazineye irat kaydedilir; korunma önlemi geçici önlemden daha düşük belirlenirse aradaki fark ilgiliye iade edilir, daha yüksekse aradaki fark tahsil edilmez. Korunma önlemine gerek olmadığına karar verilirse geçici önlem yürürlükten kaldırılır ve teminat, teminata bağlanan vergilerin geri verilmesine ilişkin hükümler dahilinde ilgililere iade edilir. En güçlü tuzak farkın tahsil edilmeyeceğini söyleyen seçenektir: aynı hükümde yer alan bu sonuç, korunma önleminin geçici önlemden daha yüksek belirlendiği duruma aittir. Bu nedenle doğru cevap 'Teminata bağlanan tutar Hazineye irat kaydedilir; aradaki fark ilgiliye iade edilir.' seçeneğidir. (MD Korunma Önlemleri Kararı md. 5)",
         kanit=f"{K} | belirlenen gümrük vergisi oranı arasındaki FARKA TEKABÜL EDEN TUTAR gümrük mevzuatının ilgili hükümlerine göre TEMİNATA BAĞLANIR. || {K} | Soruşturma sonucunda KORUNMA ÖNLEMİ ALINMASINA KARAR VERİLMESİ halinde, TEMİNATA BAĞLANAN TUTAR Hazineye İRAT KAYDEDİLİR. || {K} | DAHA DÜŞÜK belirlenmesi halinde ARADAKİ FARK İLGİLİYE İADE EDİLİR. || {K} | DAHA YÜKSEK olması halinde ise ARADAKİ FARK TAHSİL EDİLMEZ. || {K} | vergilerin geri verilmesine ilişkin hükümleri dahilinde İLGİLİLERE İADE EDİLİR.",
         yuva=[
             "Karar: korunma önlemi geçici önlemden yüksekse fark tahsil edilmez",
@@ -52,7 +52,7 @@ Q = [
         profil=[4],
         olumsuz=False,
         eksen=1,
-        ayna="damping kesin > teminat: fark tahsil edilmez ↔ korunma kesin < geçici: fark iade (M57)",
+        ayna="korunma önlemi geçiciden düşük: fark iade ↔ yüksek: fark tahsil edilmez",
         cikmis="2022/12",
     ),
     # 2 ---------------- Korunma önleminin süresi ve gözden geçirilmesi (önermeli) ----------------
@@ -60,7 +60,7 @@ Q = [
         kalip="ÖNERMELİ",
         z="Z",
         madde="İthalatta Korunma Önlemleri Yönetmeliği md. 11",
-        cek="Korunma önlemi geçici önlem dahil 4 yılı aşamaz; 1 yılı aşarsa liberalize edilir; 3 yılı aşarsa en geç ortasında gözden geçirilir; uzatmada DTÖ için 10 yıl.",
+        cek="Önlem geçici dahil 4 yılı aşamaz; 1 yıl üstü liberalize; 3 yıl üstü en geç ortasında gözden geçirme; uzatmada DTÖ için 10 yıl.",
         kok=[
             f"{KYON}'ne göre korunma önleminin süresi ve gözden geçirilmesi hakkında;",
             "I. Korunma önleminin süresi, uzatılmadıkça, geçici önlemler de dahil dört yılı aşamaz.",
@@ -133,7 +133,7 @@ Q = [
             "Gözetim kararı, gözetim belgesi düzenlenmesi yoluyla ileriye yönelik olarak veya gerçekleşen ithalatı değerlendirmek üzere geçmişe dönük olarak uygulanabilir.",
             "İleriye yönelik gözetime tabi bir malın ithalatında gümrük mevzuatının gerektirdiği belgelerin yanı sıra gözetim belgesi de aranır.",
             "Gözetim belgesi, usulüne uygun başvurunun Genel Müdürlüğe ulaşmasından itibaren 10 işgünü içinde talep edilen tüm miktar üzerinden ücretsiz olarak verilir.",
-            "Gümrüklerce tespit edilen kıymet veya miktarın belgedekini toplam %5'ten (%5 dâhil) daha az aşması ithalatı engellemez; Genel Müdürlük %10'u aşmamak üzere farklı bir oran tespit edebilir.",
+            "Gümrüklerce tespit ve kabul edilen kıymet veya miktarın belgedekini toplam %5'ten (%5 dâhil) daha az aşması ithalatı engellemez; Genel Müdürlük %10'u aşmamak üzere farklı bir oran tespit edebilir.",
         ],
         g="İthalatta Gözetim Uygulaması Hakkında Karar ve Yönetmeliğe göre bir malın ithalatında gözetim uygulanmasına ilişkin karar başvuru üzerine veya re'sen İthalat Genel Müdürlüğünce verilir; gözetim, gözetim belgesi düzenlenmesi yoluyla ileriye yönelik veya gerçekleşen ithalatı değerlendirmek üzere geçmişe dönük olarak uygulanabilir. İleriye yönelik gözetimde gümrük mevzuatının gerektirdiği belgelerin yanı sıra gözetim belgesi aranır. Gözetim belgesi usulüne uygun başvurunun Genel Müdürlüğe ulaşmasından itibaren 10 işgünü içinde talep edilen tüm miktar üzerinden ücretsiz verilir. Gümrüklerce kabul edilen kıymet veya miktarın belgedekini toplam yüzde 5'ten (dâhil) daha az aşması ithalatı engellemez; Genel Müdürlük yüzde 10'u aşmamak üzere farklı oran belirleyebilir. Gözetim belgeleri ise devredilemez; belgenin üçüncü kişilere devredildiğinin denetim birimlerince belirlenmesi halinde belgeler iptal edilir ve gözetim uygulaması yürürlükte olduğu süre içinde bir daha belge düzenlenmez. En güçlü tuzak geçmişe dönük gözetimdir: gözetimin yalnız belgeyle yürüdüğü sanıldığı için yanlış görünür. Bu nedenle doğru cevap 'Gözetim belgesi, belge sahibinin yazılı muvafakatiyle üçüncü kişilere devredilebilir.' seçeneğidir. (MD Gözetim Kararı md. 4, 7; Gözetim Yönetmeliği md. 3, 4)",
         kanit=f"{K} | Gerçekleşen ithalatı değerlendirmek üzere GEÇMİŞE DÖNÜK olarak uygulanabilir. || {K} | İLERİYE YÖNELİK GÖZETİME TABİ BİR MALIN İTHALATINDA || {K} | 10 (ON) İŞGÜNÜ içinde talep edilen tüm miktar üzerinden, ÜCRETSİZ OLARAK VERİLİR. || {K} | GÖZETİM BELGELERİ DEVREDİLEMEZ. || {K} | Toplam %5'ten (%5 dahil) daha az bir oranda aşması İTHALATIN YAPILMASINI ENGELLEMEZ. || {K} | %10'U AŞMAMAK ÜZERE FARKLI BİR ORAN TESPİT EDEBİLİR. || {K} | Gözetim uygulaması yürürlükte olduğu süre içerisinde BİR DAHA GÖZETİM BELGESİ DÜZENLENMEZ.",
@@ -208,7 +208,6 @@ Q = [
         duzey=["AYIRT"],
         profil=[3],
         olumsuz=True,
-        cikmis="2021/65",
     ),
     # 7 ---------------- Tanımdan ad: tarife kontenjanı ----------------
     s(
@@ -226,13 +225,13 @@ Q = [
             "Ek mali mükellefiyet",
             "Miktar/değer kısıtlaması",
         ],
-        g="İthalatta Kota ve Tarife Kontenjanı İdaresi Hakkında Karar iki kavramı ayırır: kota, belirli bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değeridir; tarife kontenjanı (tarife kotası) ise belirli bir dönem itibarıyla gümrük vergisinde ve/veya diğer mali yüklerde indirim yapılan ya da muafiyet sağlanan ithalatın miktar veya değeridir. Kotada sınır ithalatın kendisine, tarife kontenjanında sınır indirimli veya muaf ithalata konur. Gözetim belgesi gözetime tabi malların ithali için verilen belgedir; ek mali mükellefiyet ve miktar/değer kısıtlaması ise korunma önlemi türleridir. Kota ve tarife kontenjanı belgelerinde tahrifat veya devir gibi aykırılıklar halinde tahsis iptal edilir ve firmaya beş yıl süreyle o tebliğ çerçevesinde tahsis yapılmaz. En güçlü tuzak kotadır: tanımdaki “belirli bir dönem” ve “miktar veya değer” unsurları kota tanımında da vardır; ayırıcı unsur vergi indirimi veya muafiyetidir. Bu nedenle doğru cevap 'Tarife kontenjanı' seçeneğidir. (MD Kota ve Tarife Kontenjanı Kararı md. 2, 6)",
+        g="İthalatta Kota ve Tarife Kontenjanı İdaresi Hakkında Karar iki kavramı ayırır: kota, belirli bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değeridir; tarife kontenjanı (tarife kotası) ise belirli bir dönem itibarıyla gümrük vergisinde ve/veya diğer mali yüklerde indirim yapılan ya da muafiyet sağlanan ithalatın miktar veya değeridir. Kotada sınır ithalatın kendisine, tarife kontenjanında sınır indirimli veya muaf ithalata konur. Gözetim belgesi gözetime tabi malların ithali için verilen belgedir; ek mali mükellefiyet getirilmesi ve miktar/değer kısıtlaması ise Korunma Önlemleri Kararında sayılan geçici korunma önlemi biçimleridir. Kota ve tarife kontenjanı belgelerinde tahrifat veya devir gibi aykırılıklar halinde tahsis iptal edilir ve firmaya beş yıl süreyle o tebliğ çerçevesinde tahsis yapılmaz. En güçlü tuzak kotadır: tanımdaki “belirli bir dönem” ve “miktar veya değer” unsurları kota tanımında da vardır; ayırıcı unsur vergi indirimi veya muafiyetidir. Bu nedenle doğru cevap 'Tarife kontenjanı' seçeneğidir. (MD Kota ve Tarife Kontenjanı Kararı md. 2, 6)",
         kanit=f"{K} | Belirli bir dönem itibarıyla gümrük vergisinde ve/veya diğer mali yüklerde indirim yapılan ya da muafiyet sağlanan ithalatın miktar veya değerini, ifade eder. || {K} | KOTA: Belirli bir dönem itibarıyla yapılmasına izin verilen ithalatın miktar ve/veya değerini, || {K} | GÖZETİM BELGESİ: Gözetime tabi malların ithali için Genel Müdürlükçe verilen veya onaylanan belge. || {K} | Kendilerine 5 YIL SÜREYLE söz konusu tebliğ çerçevesinde KOTA VE TARIFE KONTENJANI TAHSIS EDILMEZ.",
         yuva=[
             "Kota tanımı (izin verilen ithalat)",
             "Gözetim Kararı: gözetim belgesi tanımı",
-            "Korunma önlemi türü: ek mali mükellefiyet",
-            "Korunma önlemi türü: miktar/değer kısıtlaması",
+            "Geçici korunma önlemi biçimi: ek mali mükellefiyet",
+            "Geçici korunma önlemi biçimi: miktar/değer kısıtlaması",
         ],
         yakinlik="BİREBİR",
         tuzak=["TERİM", "KOMŞU"],

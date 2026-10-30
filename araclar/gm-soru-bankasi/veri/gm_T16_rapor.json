@@ -1,0 +1,12 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "Fasıl 72 yassı hadde ürünlerinin genişlik/kalınlık eşikleri ile granül-toz elek açıklıkları (kaynakta sayılar silinmiş), 73.02 demiryolu malzemesi, 73.04–73.06 boru ayrımları, 73.14 tel mensucatı, 73.15 zincirler, 73.24 sağlık eşyası ve 72. Fasıl alt pozisyon notları (otomat çeliği, silisyumlu çelik, yüksek hız çeliği) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar yalnız Bölüm XV / Fasıl 72–73 notları, AS İzahnamesi ve Tarife Sınıflandırma Kararı (Seri 4) satırlarından birebir alındı; Tarife Kitabı ders notu ve sunum notu blokları (K1, K2, K4, K5) kanıt olarak kullanılmadı.",
+  "Profil: eşyanın yeri (GTİP) 7/10 (%70): 5'i pozisyon şıklı (sıralı; sabit konumlar B, D, C, D, B, C dağılımında, ardışık aynı harf yok), 2'si eşya şıklı olumsuz. Not ve kapsam soruları 3: XV. Bölüm Notu kapsam dışı 1, 72. Fasıl genel açıklamaları kapsam dışı 1, paslanmaz çelik krom eşiği (oran) 1. Kökü olumsuz 4 (%40). Önermeli yok.",
+  "Dağılım: Bölüm XV notları 2 (S1 Not 1 dışlamaları, S2 genel kullanıma mahsus parça), Fasıl 72: 3 (S3, S4, S5), Fasıl 73: 5 (73.08, 73.11, 73.17, 73.21/73.23, 73.23).",
+  "Çıkmış alanlar: 2023/16 (XV. Bölüm çubuk–tel farkı) → S4 (72.15 çubuk / 72.17 tel ayrımı: soğuk şekillendirilmiş çubuk düz boy, tel daima kangal; şık kümesi farklı). Aynı alan T17 S3'te 74–81. Fasıllar tarafından da ölçüldü. 2024/45 (fırının yer almadığı pozisyon) → S8 (ısıtıcı elemanı olmayan ev fırını 73.23; 73.21, 84.17, 85.16 çeldirici). 2023/10 (conta setinde 73.18 şıkkı) T19'da ölçüldü.",
+  "Tarife Sınıflandırma Kararlarından katlanır ütü masası (73.23) kararı, eski bir çıkmış GM sorusunun (2011) birebir konusu olduğu için kullanılmadı; yerine asansör kat kapısı (73.08, Seri 4) alındı.",
+  "Güncellik: kaynakta son 12 ayda değişen bir açıklama notu tespit edilmedi; güncellik sorusu yok. 12 haneli GTİP, KN alt açılımı ve vergi oranı sorulmadı."
+ ]
+}

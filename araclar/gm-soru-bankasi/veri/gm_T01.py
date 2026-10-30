@@ -228,7 +228,7 @@ Q = [
         eksen=0,
         ayna="",
         guncellik="",
-        cikmis="2021/59",
+        cikmis="",
         kapsamli=False,
     ),
     # 7 ---------------- Seri No 4 Tebliğ: İzahnamenin dayanağı ve bağlayıcılığı ----------------
