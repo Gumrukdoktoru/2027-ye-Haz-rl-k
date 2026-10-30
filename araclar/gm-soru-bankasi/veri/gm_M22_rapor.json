@@ -1,0 +1,13 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "Mağaza ve depo açılabilecek yerler ve yolcu eşikleri, nakil vasıtası sürücülerinin alışveriş limitleri, mağaza ve depolar arası eşya sevki, satış belgesi, aylık satış listesi ve stok cetveli süreleri ile usulsüzlük cezası sayılan aykırılıklar ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 2, vaka 1; kota 8 soru için 3/2/2/1, sapma yok. Kökü olumsuz toplam 3 (%38).",
+  "Önermeli kombinasyonları: S1 'I ve IV', S7 'II ve IV'; en kapsamlı şık doğru 0, yanlış yönlü 0. Sıralı sorular: S1 (C), S4 (C), S7 (B).",
+  "Çıkmış alan → soru: 2023/95 (açma izni başvurusu) → S2 (çıkmışta kullanılan sermaye, vergi borcu, kurumlar vergisi ve yatırım izni hükümleri yerine başvuru ve devir usulü soruldu); 2025/79 (tek işletmeci senaryosu) → S3 (havalimanı yerine kara kapısı; doğru cevap kamu taşınmazının kiralanması hükmü).",
+  "Güncellik: S1, 18.06.2026 tarihli değişikliklere dayanır (azami 10 ml'lik eşantiyonun numune sayılmaması, YMM veya SMMM raporu, limandan hareket eden gemilere eş zamanlı teslim, gemi satış listesinin üçüncü nüshasının gümrük müdürlüğüne ibrazı).",
+  "Ayna çift S6: gemilere satışta sorumluluk kaptan/kâtibin teslim almasıyla biter ↔ uçakta satışta satılamayanların mağazaya geri alınmasıyla. Meslek yanlılığı soruları: S2 (kamu kuruluşundan da YGM tespit raporu aranır), S6 (YGM tespiti sorumluluğu bitirmez), S7 (YGM'nin altışar aylık sayımı).",
+  "Kaynak sorunları: sayılar silinmiş yerler var ('08.08.2017 tarihli ve sayılı R.G.', '18.06.2026 / sayılı R.G.', '2009/ sayılı', '… sayılı Harçlar Kanunu'); bu yerlere dayanan soru yazılmadı. md. 12/3 (gemi satış listesinin üç nüshası) ile md. 24 (bir nüsha gümrük müdürlüğüne, bir nüsha gemiye) arasında nüsha dağılımı farkı var; S1 yalnız 18.06.2026 tarihli md. 12/3 metnine dayandırıldı.",
+  "Kör çözüm (talimat_gm §9) bu ajan tarafından yapılmadı: ajan talimatı yazmayı veri/gm_<KOD>*.py/json ve dogrulama/<KOD>_* ile sınırlıyor (kor_cozum/ dışarıda) ve soruları yazan ajanın çözümü kör sayılmaz; ayrı bir çözücüyle yapılmalı."
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "bulunamayan": [
+  "2024/30 ve 2024/39: antrepoda beyannamesi tescil edilmiş eşyanın geri gönderilmesi süresi ve şartları bu bölümün kaynağında (21-antrepo-rejimi-isleticiligi.txt) yok; soru yazılmadı.",
+  "2025/80: Gümrük Yönetmeliği Ek-82 usulsüzlük cezaları listesi bu bölümün kaynağında yok; ceza bölümünün konusu.",
+  "2021/31, 2025/98, 2025/100: yetkilendirilmiş gümrük müşavirinin antrepo tespit işlem kodları (AN1–AN9) meslek bölümünün konusu; bu kaynakta yok.",
+  "2021/11: başka ülke ürünü izlenimi veren işaretli eşyanın ithal, transit ve yeniden ihraç durumu menşe/genel hüküm alanında; bu kaynakta yalnız antrepoya izinle konulması var, S6'da komşu bent ölçüldü.",
+  "2021/69: posta yoluyla ihraç edilecek ticari eşyanın antrepoda bekleme süresi bu kaynakta yok (posta bölümünün konusu)."
+ ],
+ "giremeyen": "Elleçleme izinleri ve üçüncü ülke girdili elleçlemede vergi tahsili, karıştırma ve montaj, akaryakıt antrepolarında tank işlemleri ve %2 verim marjı, antrepo beyannamesinin iki iş günü içinde tescili ile antrepolar arası nakil hükümleri ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 5, klasik 4, önermeli 3 (biri 'yanlıştır' yönlü), hesap 1, vaka 1, eşleştirme 1; kota 15 soru için 6/4/3/2 → 5/4/3/3: GM'de götürü teminat hesabı iki kez (2022/41, 2023/99) ve merci eşleştirmesi bir kez (2025/83) sorulduğundan diğer +1, olumsuz −1. Kökü olumsuz toplam 6 (%40).",
+  "Önermeli kombinasyonları: S4 'I ve II', S7 'I, II ve III' (dört önermeli), S10 'III ve IV' (yanlış yönlü); en kapsamlı şık doğru 0. Sıralı sorular: S1 (B), S3 (D), S4 (C), S7 (C), S10 (D).",
+  "S1 hesap: 3.000.000 + 3.000.000 + 5.000.000 + 6.000.000 + 5.000.000 = 22.000.000 TL; 22.000.000 × 0,75 = 16.500.000 TL; çeldiriciler aşağı yuvarlama (14.250.000), tankı alanla ölçme (18.000.000), %75'i atlama (22.000.000) ve ikisi birden (24.000.000) Python ile yeniden hesaplanıp doğrulandı.",
+  "Çıkmış alan → soru: 2022/41, 2023/99 → S1; 2022/60, 2024/85 → S2, S3; 2022/68, 2024/83, 2024/84, 2025/82 → S4; 2025/78 → S6 (izinle konulabilecek eşya; çıkmışta kullanılmayan fikri mülkiyet bendi doğru cevap yapıldı); 2022/67 → S7; 2023/98 → S8 (ayna: orta kusur ↔ hafif kusur, vaka); 2023/97 → S9 (TİO hükmü birebir sorulduğu için aynı paragrafın komşu hükmü seçildi); 2025/81 → S10 (özel antrepo 5 iş günü hükmü tekrarlanmadı, devrin diğer hükümleri soruldu); 2024/86 → S11; 2025/83, 2024/85 → S12 (çıkmıştaki tablo biçimi yerine şık eşleştirmesi).",
+  "Eksen 17 (antrepo tipleri, genel ↔ özel) S2 ve S5'te. Meslek yanlılığı soruları: S7 (yetkilendirilmiş gümrük müşaviri iş ilişkisi ve asgari ücret), S9 (müşavir veya memur gözetimi), S14 (müşavirin altışar aylık sayımı).",
+  "Güncellik: kaynaktaki en yeni değişiklik 22.08.2025 (yatırım izni sermaye tablosu, aynı gayrimenkulde tek gümrük müdürlüğü, fiyat tarifesi); Ekim 2025 – Ekim 2026 penceresinin iki ay dışında kalsa da S2 ve S3'te soruldu (guncellik='22.08.2025'). Pencere içinde değişen hüküm yok.",
+  "Kaynak sorunları: madde numaraları silinmiş ('Kanunun maddesinin …', '… sayılı Türk Ticaret Kanunu', '… uncu maddede') 18 yerde var; bu yerlere dayanan numara ya da atıf sorulmadı, kanıt alıntıları silinmiş biçimiyle birebir alındı. 22.08.2025 değişikliklerinin R.G. sayısı kaynakta yok.",
+  "Kör çözüm (talimat_gm §9) bu ajan tarafından yapılmadı: ajan talimatı yazmayı veri/gm_<KOD>*.py/json ve dogrulama/<KOD>_* ile sınırlıyor (kor_cozum/ dışarıda) ve soruları yazan ajanın çözümü kör sayılmaz; ayrı bir çözücüyle yapılmalı."
+ ]
+}

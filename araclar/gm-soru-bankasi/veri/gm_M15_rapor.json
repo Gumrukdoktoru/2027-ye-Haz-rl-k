@@ -1,0 +1,17 @@
+{
+ "bulunamayan": [
+  "2025/29: serbest dolaşıma giriş beyannamesine eklenmesi zorunlu belgeler bu bölümün kaynağında (15-serbest-dolasima-giris-nihai-kullanim.txt) düzenlenmiyor; beyan ve beyanname bölümünün (M13) konusu.",
+  "2021/20: serbest dolaşıma girişte basitleştirilmiş usul ve tamamlayıcı beyan hükmü bu bölümün kaynağında yok.",
+  "2022/1: kıymetli maden ithaline ilişkin alan bu bölümün kaynağında yok; kıymetli maden/kambiyo bölümünün konusu."
+ ],
+ "giremeyen": "Varış öncesi gümrük işlemleri izninin başvuru ve iptal ayrıntıları, nihai kullanım izninin devri ve rejimin sonlandırılması hükümlerinin bir kısmı ile Seri 15–16 tebliğlerinin ayrıntılı beyan kodları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 4, klasik 3, önermeli 2, vaka 1; kota 10 soru için 4/3/2/1, sapma yok. Kökü olumsuz toplam 4 (%40).",
+  "Önermeli kombinasyonları: S3 'I, II ve IV', S9 'II ve III'; en kapsamlı şık doğru 0, yanlış yönlü 0.",
+  "Çıkmış alan → soru: 2024/42 → S1 (Karar, hava taşıtı; Karar kurum kalıbıyla); 2023/44 → S2; 2025/21 → S3; 2025/22 → S4 (vaka); 2023/45 → S5; 2025/23 → S6; 2025/25 → S7. Çıkmış soruların kurgu ve şık setleri kopyalanmadı.",
+  "Eksen 2 (DİR şartlı muafiyet ↔ geri ödeme komşuluğu) S9'da; meslek yanlılığı sorusu bu bölümde yok (kaynak elvermedi).",
+  "Güncellik sorusu yok: kaynaktaki en yeni tarih 2023 (03.05.2023 / 31.12.2023); Ekim 2025 – Ekim 2026 arasında değişen hüküm görünmüyor.",
+  "Kaynakta silinmiş madde numaraları ('Kanunun maddesinin …' biçimi) 4 yerde var; bu yerlere dayanan numara ya da atıf sorulmadı.",
+  "Kör çözüm (talimat_gm §9) bu ajan tarafından yapılmadı: ajan talimatı yazmayı veri/gm_<KOD>*.py/json ve dogrulama/<KOD>_* ile sınırlıyor (kor_cozum/ dışarıda) ve soruları yazan ajanın çözümü kör sayılmaz; ayrı bir çözücüyle yapılmalı."
+ ]
+}

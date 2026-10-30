@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2021/15 ve 2024/65 (dahilde işleme rejiminde eşdeğer eşya ve şartlı muafiyet) dahilde işleme bölümünün konusu; bu bölümde ortak hüküm olarak eşdeğer eşya (GY md. 309) S6'da ölçüldü, DİR'e özgü ayrıntı sorulmadı."
+ ],
+ "giremeyen": "Ekonomik etkili rejimlerde izin başvurusu ve iznin içeriği, rejim hak sahibinin devri, ekonomik koşulların incelenmesi ve gümrük kontrolü altında işleme tebliğinin kapsam listesindeki işlem türleri ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 2, klasik 2, önermeli 2, eşleştirme 1, vaka 1; kota 8 soru için 3/2/2/1 → 2/2/2/2: kaynak izin mercii eşleştirmesine ve hesaplama esasını ölçen vakaya elverişli olduğu için diğer +1, olumsuz −1 (±1 sınırında). Kökü olumsuz toplam 3 (%38).",
+  "Önermeli kombinasyonları: S4 'I ve III', S5 'I, III ve IV'; en kapsamlı şık doğru 0, yanlış yönlü 0.",
+  "Çıkmış alan → soru: 2025/86 (GKAİ değişmemiş eşyada vergi hesabı) → S2 vaka; kurgu ve oranlar değiştirildi.",
+  "Eksen 1 (şartlı muafiyet listesi ↔ ekonomik etkili rejim listesi) S1'de, ayna çift: hariçte işleme (yalnız EER) ↔ transit (yalnız ŞMD). Meslek yanlılığı sorusu S8 (GKAİ tebliğinde yetkilendirilmiş gümrük müşaviri – yeminli mali müşavir ayrımı).",
+  "Güncellik sorusu yok: kaynaktaki en yeni tarih 03.01.2023; Ekim 2025 – Ekim 2026 arasında değişen hüküm görünmüyor.",
+  "Kaynakta silinmiş madde numaraları ('Kanunun maddesinin …' biçimi) 14 yerde var; bu yerlere dayanan numara ya da atıf sorulmadı.",
+  "Kör çözüm (talimat_gm §9) bu ajan tarafından yapılmadı: ajan talimatı yazmayı veri/gm_<KOD>*.py/json ve dogrulama/<KOD>_* ile sınırlıyor (kor_cozum/ dışarıda) ve soruları yazan ajanın çözümü kör sayılmaz; ayrı bir çözücüyle yapılmalı."
+ ]
+}

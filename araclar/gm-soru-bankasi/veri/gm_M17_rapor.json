@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2021/23: transit bilgilerinin özet beyan olarak kullanılması şartları özet beyan bölümünün (M12) konusu; bu bölümün kaynağında yok.",
+  "2023/88 ve 2023/91 transit konusunda olmakla birlikte Seri No: 4 hükümleridir; M18'de (S6, S7) karşılandı. 2023/92 Seri No: 6/8 hükmüdür; M19'da (S3) karşılandı."
+ ],
+ "giremeyen": "Transit beyannamesinin kabulü ve mühürleme, güzergâh ve süre belirlenmesi, ATA ve NATO formu kullanımına ilişkin ayrıntılar ile Seri No: 3 tebliğinin izin başvurusu belge listesi ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 2, tanım 1, vaka 1; kota 9 soru için 4/2/2/1 → 3/2/2/2: GM'de transit alanında kapsam ve belge soruları ağırlıklı olduğundan ve mücbir sebep çıkmışı (2025/67) vakaya elverişli olduğundan diğer +1, olumsuz −1. Kökü olumsuz toplam 3 (%33).",
+  "Önermeli kombinasyonları: S2 'I ve III', S8 'I, II ve IV'; en kapsamlı şık doğru 0, yanlış yönlü 0.",
+  "Çıkmış alan → soru: 2021/74 → S1; 2023/90 → S2; 2025/66 → S3; 2025/67 → S4 (vaka); 2025/69 → S5; 2025/70 → S6. Çıkmış soruların kurguları kopyalanmadı.",
+  "Güncellik sorusu yok: kaynaktaki en yeni tarih 27.10.2018; Ekim 2025 – Ekim 2026 arasında değişen hüküm görünmüyor.",
+  "Kaynakta silinmiş madde numaraları var ('Kanunun maddesinin …' biçimi); bu yerlere dayanan sayı ya da atıf sorulmadı.",
+  "Kör çözüm (talimat_gm §9) bu ajan tarafından yapılmadı: ajan talimatı yazmayı veri/gm_<KOD>*.py/json ve dogrulama/<KOD>_* ile sınırlıyor (kor_cozum/ dışarıda) ve soruları yazan ajanın çözümü kör sayılmaz; ayrı bir çözücüyle yapılmalı."
+ ]
+}

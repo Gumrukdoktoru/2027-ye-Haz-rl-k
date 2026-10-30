@@ -1,0 +1,11 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "Seri No: 5 izinli gönderici/alıcı başvurusunun belge listesi, Seri No: 6 demiryolu basitleştirmesinde vagon değişikliği ve Seri No: 14 yetkilendirilmiş yükümlü izninde teminat ayrıntıları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 1, boşluk 1, vaka 1; kota 8 soru için 3/2/2/1 → 3/2/1/2: Seri No: 5 izin sahibi yükümlülükleri iki sınavda (2023/87, 2024/76) sayı ağırlıklı sorulduğu için boşluk sorusu eklendi, önermeli −1 (±1 sınırında). Kökü olumsuz toplam 3 (%38).",
+  "Önermeli kombinasyonu: S4 'I, III ve IV'; en kapsamlı şık doğru 0, yanlış yönlü 0. Sayısal soru S6 sıralı, doğru şık B.",
+  "Çıkmış alan → soru: 2023/87, 2024/76 → S1 (boşluk); 2022/63 → S2; 2023/92 → S3. Kurgu ve şık setleri kopyalanmadı.",
+  "Güncellik sorusu yok: kaynaktaki en yeni tarih 01.01.2022; Ekim 2025 – Ekim 2026 arasında değişen hüküm görünmüyor.",
+  "Kör çözüm (talimat_gm §9) bu ajan tarafından yapılmadı: ajan talimatı yazmayı veri/gm_<KOD>*.py/json ve dogrulama/<KOD>_* ile sınırlıyor (kor_cozum/ dışarıda) ve soruları yazan ajanın çözümü kör sayılmaz; ayrı bir çözücüyle yapılmalı."
+ ]
+}

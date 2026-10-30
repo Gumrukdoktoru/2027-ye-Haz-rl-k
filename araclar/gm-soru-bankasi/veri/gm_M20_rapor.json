@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2025/71: TIR Sözleşmesine taraf ülkeler listesi kaynakta yok; soru yazılmadı.",
+  "2024/79 kısmen: 1975 TIR Sözleşmesinin metni kaynakta yok; alan TIR İşlemleri Tebliği md. 20 (Sözleşmeye atıfla sınır geçme ve idare sayısı) ile S1'de karşılandı.",
+  "2023/93 kısmen: TIR karnesiyle taşınamayacak eşya listesi (Ek-10) kaynakta yok; alan md. 61–64 ile S7'de karşılandı."
+ ],
+ "giremeyen": "TIR karnesinin ibrası sonrası teminat zinciri ve kefil kuruluşa bildirim, karnesiz taşıtların mühürlenmesi ile onay belgesi düzenleme usulünün ayrıntıları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 1, önermeli 2, tanım 1, vaka 1; kota 8 soru için 3/2/2/1 → 3/1/2/2: 2024/77 (TIR işleminin sona ermesi) ayna çifti tanım sorusunu gerektirdiğinden diğer +1, klasik −1. Kökü olumsuz toplam 3 (%38).",
+  "Önermeli kombinasyonları: S1 'I, II ve IV', S7 'I, III ve IV'; en kapsamlı şık doğru 0, yanlış yönlü 0.",
+  "Çıkmış alan → soru: 2024/79 → S1; 2024/77 → S2 (ayna: sona erme ↔ ibra); 2025/72 → S3; 2024/78, 2022/46 → S4; 2023/93 → S7.",
+  "Güncellik: S1, 04.07.2026 tarihli ve 33300 sayılı Resmî Gazete değişikliğine (md. 20: idare sayısı, hareket idaresinin kabulü) dayanır.",
+  "Kör çözüm (talimat_gm §9) bu ajan tarafından yapılmadı: ajan talimatı yazmayı veri/gm_<KOD>*.py/json ve dogrulama/<KOD>_* ile sınırlıyor (kor_cozum/ dışarıda) ve soruları yazan ajanın çözümü kör sayılmaz; ayrı bir çözücüyle yapılmalı."
+ ]
+}
