@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2021/41, 2021/42, 2021/47, 2021/49, 2021/50: el konulan akaryakıt ile eşya ve taşıtlara ilişkin uygulama yönetmeliklerinin tanımları ve teslim yerleri bu bölümün değil M45 (5607 uygulama yönetmelikleri) bölümünün konusudur; Kanun metnindeki karşılığı (teknik düzenlemelere uygun olmayan akaryakıtın rafineriye satışı) S13'te ölçüldü.",
+  "2023/2: Kanunda düzenlenmeyen kavram sorusunun resmî cevabı kaynakta yok; kaynakta müsadere, tasfiye, kontrollü teslimat ve kriminal laboratuvar başlıkları var, 'mülkiyetin kamuya geçirilmesi' yalnız ikramiye hükmünde geçiyor. Bilgi alanı tanım sorusuyla (S14) kısmen karşılandı."
+ ],
+ "giremeyen": "İkramiye oranları ve gösterge sınırları (yüzde 50 muhbir / yüzde 50 elkoyan, ihbarsız yakalamada tamamı, olay başına 30.000 ve yıllık 120.000 gösterge, damga vergisi hariç vergi dışılık), kaim değer ve tasfiye bedelinin kanuni faizle iadesi, yolcu beraberi kaçak eşya ve deniz taşıtı kaptanı hükümleri, el konulan eşyanın muhafazası ile bandrolsüz ürün ve ilaçta numune-imha kuralı ve kriminal laboratuvar ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kaynak sunum notu biçiminde (kelimeler bitişik, ör. 'HAPİSve'); bütün kanıt alıntıları bu bitişik yazımla birebir kopyalandı.",
+  "Tip (GM analizi etiketi): olumsuz 5, klasik 3, önermeli 3 (biri 'yanlıştır' yönlü), vaka 1, boşluk 1, tanım 1. Kota tablosu 14 soru için 6/4/2/2; kaçakçılık alanında GM sınavlarında önermelinin payı yüksek (5 yılda 22 sorunun 5'i) olduğundan önermeli ve diğer +1, olumsuz ve klasik -1 kaydırıldı. Kökü olumsuz toplam 6 (%43).",
+  "Önermeli kombinasyonları: S2 'I, III, IV ve V' (beş önermeli), S7 'Yalnız II' (yanlış yönlü), S13 'I ve III'; en kapsamlı şık doğru 0.",
+  "Çıkmış alanlar (Kanun metnine düşen 14 alanın tamamı): 2021/43, 2021/44, 2022/20, 2024/89 → S2; 2021/48, 2023/1 → S3; 2022/15, 2023/3 → S4, S5; 2024/87, 2025/85 → S6, S7 (ayna çift: taşıt alıkoyma ↔ müsadere; çıkmış önermeli kurgusu kopyalanmadı, ayrım tek soruda soruldu); 2022/31, 2021/46 → S8; 2021/45 → S9; 2025/84 → S10; 2024/90 → S11; 2024/88, 2021/41 → S13; 2023/2 → S14 (kısmen).",
+  "Güncellik sorusu yok: kaynaktaki en yeni değişiklik tarihleri 05.04.2023 (muhbir kimliği), 10.12.2022 (makaron ve tütün ticareti), 09.11.2022 (kaçak akaryakıt); son 12 ayda (Ekim 2025 – Ekim 2026) değişen hüküm görünmüyor.",
+  "Kaynak sunum notu olduğu için Kanunun 3. maddesinin 19. fıkrası kaynakta yok; bu fıkraya dayanan soru yazılmadı."
+ ]
+}

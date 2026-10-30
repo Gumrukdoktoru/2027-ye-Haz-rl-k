@@ -25,3 +25,11 @@
   - Kapaklar: ön kapak `kitap.py` içinde (on_kapak), arka kapak `arka_kapak_reklam.jpg` ilanıyla (arka_kapak); içindekiler `sayfa.py` haritasından test, çözüm ve ek sayfalarını alır.
   - Filigran: `filigran_canli.png` (CAN'LI 7/24 Eğitim Merkezi logosu) her sayfanın ortasına %10 opaklıkta basılır; üst bilgi solda Gümrük Koçu, ortada bölüm adı, sağda Ufuk Çetintaş.
   - Üretim: `python3 kitap.py <metin> bolumler.json veri <ad>` → `node ../gmy-deneme3/pdf5.mjs <ad>.html <ad>.pdf` → `python3 sayfa.py <ad>.pdf harita.json` → `kitap.py … <ad> harita.json` ve yeniden PDF.
+
+- `gm-soru-bankasi/` — Gümrük Müşavirliği (GM) soru bankası (iki cilt: mevzuat M01–M64; tarife-hesap T01–T25, H01–H05; 94 bölüm, 1.164 soru planı). GMY hattını değiştirmeden içe aktarır:
+  - `bolumler.json`: kod, başlık, kaynak dosya (düz metin klasöründeki ad), soru sayısı, cilt.
+  - `talimat_gm.md`: bölüm talimatı; üç profil (mevzuat: GM tip kotası tablosu; tarife: ≈%70 eşyanın yeri, kanıt not/İzahname; hesaplama: sıralı sayısal şıklar, adlandırılmış hata çeldiricileri, Python doğrulaması).
+  - `kontrol_gm.py`: kontrol5'i içe aktarıp genişletir (GTİP kalıbı, tarife ve hesap kökleri, tarife metni kanıt toleransı, harf/sıra atfı, "çeldirici" ve hafta sonu tarih denetimi, GM tip profili ve kota).
+  - `veri/gm_<KOD>.py` ve `_rapor.json`: soru verisi (pilot: M44, T03, H02); `dogrulama/<KOD>_hesap_kontrol.py`: hesap bölümlerinin sayısal doğrulaması; `kor_cozum/<KOD>.json` ve `kor_karsilastir_gm.py`: kör çözüm ve anahtar karşılaştırması.
+  - `kitap_gm.py` (kitap.py'yi içe aktarır) ve `sayfa_gm.py`: `python3 kitap_gm.py <metin/tum> bolumler.json veri <ad> --cilt mevzuat|tarife-hesap [--cozumsuz] [--bolum M44,T03]` → `node ../gmy-deneme3/pdf5.mjs <ad>.html <ad>.pdf` → `python3 sayfa_gm.py <ad>.pdf harita.json` → aynı komut `harita.json` ile ve yeniden PDF.
+  - Kaynak metinler depoya alınmaz; bütün bölüm metinleri tek düz klasörde (`…/gm/metin/tum/`) olmalıdır.

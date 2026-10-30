@@ -1,0 +1,13 @@
+{
+ "bulunamayan": [
+  "2024/51 (ürün–pozisyon eşleştirmesi, 04, 11, 19, 20, 21. fasıllar): eşleştirmenin 4. Fasıl dışındaki ayakları bu bölümün kaynağında yok; 4. Fasıl ayağı (fermente süt 04.03) S10'da ölçüldü."
+ ],
+ "giremeyen": "Fasıl 3'ün tür ve familya ayrıntıları (somon, alabalık, ton, Gadidae alt pozisyonları), sakatatın dört kategorili sınıflandırma şeması (05.10 / 30.01 ayrımının tamamı), 04.06 peynir türleri (taze, işlenmiş, mavi küflü) ve Tarife Sınıflandırma Kararlarındaki lor-meyve karışımları ile kolostrum ürünleri ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Bütün kanıtlar bölüm metnindeki Bölüm/Fasıl notları, AS İzahnamesi ve Tarife Sınıflandırma Kararları satırlarından birebir alındı; Gümrük Koçu ders notu blokları (K1, K4, K7, K10, K13) kanıt olarak kullanılmadı.",
+  "Profil: eşyanın yeri (GTİP kalıbı) 13/18 (%72): 7'si pozisyon şıklı (sıralı, doğru şık B/C/D), 6'sı eşya şıklı. Kalan 5 soru fasıl/bölüm notu ve kapsam: boşluk 1 (kurutulmuş), oran 1 (peynir altı suyu peyniri kuru madde üst sınırı), kapsam dışı 3. Kökü olumsuz 7 (%39). Önermeli yok (GM tarife sorularında 76 soruda 1).",
+  "Fasıl dağılımı: Bölüm I notu 1, Fasıl 1: 1, Fasıl 2: 4, Fasıl 3: 2, Fasıl 4: 5, Fasıl 5: 5 (Fasıl 5 sorularının biri 04.10/05.11 sınırında).",
+  "Çıkmış alanlar: 2022/79 ve 2024/2 (yenilebilir/yenilmeyen böcek) → S14 ters yönden; 2022/83 (3. Fasılda olmayan canlı) → S2 (yunus 01.06) ve S7; 2025/43 (ayran 04.03) → S10 (kakaolu kefir, 22.02 tuzağıyla); 2025/54 (ahtapot 03.07) → S8 (deniz kestanesi 03.08, şık kümesi farklı); 2025/39 (aynı fasıl grubu) → S18 olumlu yönden.",
+  "12 haneli GTİP, vergi oranı ve KN alt açılımı sorulmadı. Kaynakta sayısı silinmiş hükümler (örn. 0103.91 ağırlık sınırı, kuzu karkas ağırlığı, soğutulmuş tanımındaki sıcaklık, 05.10 akamber ölçüsü) soru ve çeldiriciye alınmadı."
+ ]
+}

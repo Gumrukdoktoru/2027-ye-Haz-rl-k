@@ -1,0 +1,13 @@
+{
+ "bulunamayan": [
+  "2023/76 ve 2024/29 (gözetim kıymeti), 2022/91–2025/16 (kullanılmış taşıt kıymeti), 2021/83–2025/14 (sonradan kontrol ve ceza) ile ÖTV maktu/asgari maktu hesapları bu bölümün değil H01, H03 ve H04 bölümlerinin konusudur."
+ ],
+ "giremeyen": "Dampinge karşı verginin maktu (ton/kg başına) hesabı ve TRT bandrol ile ÖTV'nin aynı soruda zincirlenmesi kaynakta açık formülle verilmediği için sorulmadı; KKDF'nin KDV matrahına girip girmediği kaynakta yazmadığı için hiçbir hesapta kullanılmadı.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'; dogrulama/H02_hesap_kontrol.py 13 hesap sorusunun doğru sonucunu ve 52 çeldiricinin her birini adı konmuş hatadan yeniden hesapladı: hata 0.",
+  "Profil: 13 sayısal (GV, İGV min-max iki soru, GV+İGV+EMY, ÇKP, kültür fonu, gümrüklenmiş değer, ÖTV ve KDV aynı veriyle çift soru, TRT bandrol, KDV zinciri, KKDF iki soru), 5 sözel (ortak matrah olumsuz kök, hesap sırası, ÖTV (III)(B) matrahı, KDVK 21 liste dışı, vergi–kurum eşleştirmesi).",
+  "Sabit harfli sayısal soruların konumu B 4, C 5, D 4; A ve E yalnız sözel sorulara düşer. Sıra, art arda aynı sabit harf gelmeyecek biçimde kuruldu.",
+  "Hesap köklerinde mevzuat adı aranmadı (GM hesap soruları sınavda mevzuat adı taşımaz); kök hesaplanan büyüklüğü adlandırır. Sözel sorularda dayanak KDV Kanunu, ÖTV Kanunu ve KKDF Kararı ise kökte yazıldı.",
+  "Kaynakta oran verilmeyen vergilerde (EMY, kültür fonu, bandrol) oran soruda veri olarak verildi; formül ve matrah kuralı kaynaktan."
+ ]
+}
