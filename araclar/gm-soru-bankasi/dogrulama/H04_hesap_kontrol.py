@@ -4,7 +4,7 @@ Kullanım: python3 dogrulama/H04_hesap_kontrol.py [veri/gm_H04.py]
 
 Her hesap sorusu için veri kökteki rakamlardan yeniden hesaplanır:
 - doğru cevap (GK 234 katları ve %10 oranı, GK 235 gümrüklenmiş değer, GK 237 noksan kap, uzlaşma kapsamı,
-  peşin ödeme indirimi, gecikme zammı aylık/günlük formülü, GK 207 nakit teminat, GY 527 götürü teminat),
+  peşin ödeme indirimi, gecikme zammı aylık/günlük formülü, GK 207 nakit teminat, GK 234/1-c maddi hesap hatası),
 - her çeldirici (adı konmuş tipik hata).
 Sonuçlar şıklardaki metinle karşılaştırılır; sıra artan olmalı, doğru şık B/C/D'de olmalıdır.
 Ayrıca sözel yetki sorusundaki (11) tutar–komisyon eşleşmesi aynı kuralla yeniden kurulur.
@@ -12,7 +12,6 @@ Ayrıca sözel yetki sorusundaki (11) tutar–komisyon eşleşmesi aynı kuralla
 metne göre hesaplandığını söyler, eski "üç katın yarısı" yöntemi yalnız çeldiricidir ve gerekçe neden yanlış olduğunu açıklar.
 """
 
-import math
 import pathlib
 import sys
 from decimal import Decimal as D, ROUND_HALF_UP
@@ -187,31 +186,19 @@ H[15] = (
 )
 
 
-# 16: GY 527 — götürü teminat; %75 yalnız 5 ve üzeri antrepoda
-def goturu(olcu, birim, tamamla=True, ilk_dilim_sayilir=False):
-    """birim: 'm2' (ilk 1.000, dilim 1.000) ya da 'm3' (ilk 2.000, dilim 2.000)."""
-    ilk = 1000 if birim == "m2" else 2000
-    if ilk_dilim_sayilir:
-        dilim = math.ceil(olcu / ilk)
-    else:
-        artis = max(0, olcu - ilk)
-        dilim = math.ceil(artis / ilk) if tamamla else artis // ilk
-    return D(3000000) + D(1000000) * dilim
-
-
-A = [(900, "m2"), (3200, "m2"), (15000, "m3"), (7400, "m2")]
-top = sum(goturu(o_, b) for o_, b in A)
-assert len(A) < 5  # %75 indirimi uygulanmaz
-assert all(goturu(o_, b) <= 40000000 for o_, b in A)
+# 16: GK 234/1-c — maddi hesap hatasından doğan noksan kıymet → fark vergilerin (GV + KDV farkı) yarısı
+dk = D(900000) - D(860000)
+assert dk / D(900000) <= p(5)  # fark %5'in altında: eşik tartışması doğmaz
+dgv = dk * p(10)
+dkdv = (dk + dgv) * p(20)
+fv = dgv + dkdv
 H[16] = (
-    top,
+    fv / 2,
     {
-        "%75 uygulanmış": top * p(75),
-        "kesir tamamlanmamış": sum(goturu(o_, b, tamamla=False) for o_, b in A),
-        "ilk dilim de bölünmüş": sum(
-            goturu(o_, b, ilk_dilim_sayilir=True) for o_, b in A
-        ),
-        "m³ m² gibi": sum(goturu(o_, "m2") for o_, _ in A),
+        "KDV farkı yok": dgv / 2,
+        "KDV matrahında GV yok": (dgv + dk * p(20)) / 2,
+        "fark kadar": fv,
+        "üç kat (kıymet noksanlığı)": fv * 3,
     },
 )
 

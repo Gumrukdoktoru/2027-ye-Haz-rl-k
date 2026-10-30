@@ -71,6 +71,24 @@
   },
   {
    "a": "H01-01",
+   "b": "H01-20",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 0.83,
+   "kanit_ornek": "giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri",
+   "cekd": 0.03,
+   "kokcek": 0.1,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "GK 27",
+    "GK 28"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-01",
    "b": "H01-21",
    "tur": "İÇ",
    "olcut": "a",
@@ -180,7 +198,7 @@
    "olcut": "ab",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.26,
+   "cekd": 0.27,
    "kokcek": 0.26,
    "d_oran": 0.0,
    "kok_oran": 0.57,
@@ -412,11 +430,11 @@
    "a": "H01-02",
    "b": "H02-15",
    "tur": "ARA",
-   "olcut": "a",
+   "olcut": "ab",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.21,
-   "kokcek": 0.08,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.26,
+   "kokcek": 0.2,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -451,6 +469,23 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.11,
    "kokcek": 0.13,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-02",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.09,
+   "kokcek": 0.08,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -798,11 +833,11 @@
    "tur": "ARA",
    "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.11,
-   "kokcek": 0.1,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.14,
+   "kokcek": 0.27,
    "d_oran": 0.0,
-   "kok_oran": null,
+   "kok_oran": 0.42,
    "ortak_madde": [
     "3065 21"
    ],
@@ -834,6 +869,23 @@
    "kanit": 1.0,
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.09,
+   "kokcek": 0.11,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-09",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.07,
    "kokcek": 0.11,
    "d_oran": 0.0,
    "kok_oran": null,
@@ -908,23 +960,6 @@
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [],
-   "esya": null,
-   "ortak_sik": 0
-  },
-  {
-   "a": "H01-11",
-   "b": "H01-20",
-   "tur": "İÇ",
-   "olcut": "a",
-   "kanit": 1.0,
-   "kanit_ornek": "iii) İşçilik ve malzeme giderleri dahil ambalaj bedeli;",
-   "cekd": 0.0,
-   "kokcek": 0.16,
-   "d_oran": 0.0,
-   "kok_oran": null,
-   "ortak_madde": [
-    "GK 28"
-   ],
    "esya": null,
    "ortak_sik": 0
   },
@@ -1031,6 +1066,23 @@
   },
   {
    "a": "H01-15",
+   "b": "H01-20",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 0.83,
+   "kanit_ornek": "giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri",
+   "cekd": 0.08,
+   "kokcek": 0.08,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "GK 27"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-15",
    "b": "H01-27",
    "tur": "İÇ",
    "olcut": "a",
@@ -1122,7 +1174,7 @@
    "olcut": "ab",
    "kanit": 1.0,
    "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.26,
+   "cekd": 0.27,
    "kokcek": 0.22,
    "d_oran": 0.0,
    "kok_oran": 0.4,
@@ -1173,9 +1225,9 @@
    "tur": "ARA",
    "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.18,
-   "kokcek": 0.09,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.14,
+   "kokcek": 0.21,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -1210,6 +1262,23 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.1,
    "kokcek": 0.1,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-16",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.08,
+   "kokcek": 0.09,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -1273,10 +1342,10 @@
    "b": "H01-20",
    "tur": "İÇ",
    "olcut": "a",
-   "kanit": 1.0,
-   "kanit_ornek": "İthal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilebilmeleri koşuluyla aşağıdaki giderler gümrük kıymetine dahil edilmez:",
-   "cekd": 0.1,
-   "kokcek": 0.14,
+   "kanit": 0.83,
+   "kanit_ornek": "giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri",
+   "cekd": 0.0,
+   "kokcek": 0.1,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -1338,16 +1407,17 @@
   },
   {
    "a": "H01-20",
-   "b": "H01-21",
+   "b": "H01-27",
    "tur": "İÇ",
    "olcut": "a",
-   "kanit": 1.0,
-   "kanit_ornek": "İthal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilebilmeleri koşuluyla aşağıdaki giderler gümrük kıymetine dahil edilmez:",
-   "cekd": 0.02,
-   "kokcek": 0.07,
+   "kanit": 0.83,
+   "kanit_ornek": "giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri",
+   "cekd": 0.06,
+   "kokcek": 0.08,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
+    "GK 27",
     "GK 28"
    ],
    "esya": null,
@@ -1357,19 +1427,49 @@
    "a": "H01-20",
    "b": "M10-01",
    "tur": "ARA",
-   "olcut": "ab",
+   "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "İthal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilebilmeleri koşuluyla aşağıdaki giderler gümrük kıymetine dahil edilmez:",
-   "cekd": 0.35,
-   "kokcek": 0.55,
-   "d_oran": 0.33,
-   "kok_oran": 0.73,
+   "kanit_ornek": "giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri",
+   "cekd": 0.05,
+   "kokcek": 0.13,
+   "d_oran": 0.16,
+   "kok_oran": null,
    "ortak_madde": [
     "GK 27",
     "GK 28"
    ],
    "esya": null,
-   "ortak_sik": 2
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-20",
+   "b": "M10-02",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 0.83,
+   "kanit_ornek": "giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri",
+   "cekd": 0.12,
+   "kokcek": 0.08,
+   "d_oran": 0.45,
+   "kok_oran": null,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-20",
+   "b": "M28-10",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri",
+   "cekd": 0.12,
+   "kokcek": 0.09,
+   "d_oran": 0.34,
+   "kok_oran": null,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
   },
   {
    "a": "H01-21",
@@ -1527,11 +1627,11 @@
    "tur": "ARA",
    "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.09,
-   "kokcek": 0.1,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.15,
+   "kokcek": 0.26,
    "d_oran": 0.0,
-   "kok_oran": null,
+   "kok_oran": 0.4,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1564,6 +1664,23 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.07,
    "kokcek": 0.14,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-22",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.06,
+   "kokcek": 0.16,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -1614,7 +1731,7 @@
    "kanit": 1.0,
    "kanit_ornek": "Önce klasik yöntemle eşyanın gümrük kıymeti bulunur.Sonra verilen gözetimle kıyaslanır.",
    "cekd": 0.22,
-   "kokcek": 0.78,
+   "kokcek": 0.79,
    "d_oran": 0.0,
    "kok_oran": 0.92,
    "ortak_madde": [],
@@ -1695,9 +1812,9 @@
    "tur": "ARA",
    "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.06,
-   "kokcek": 0.07,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.14,
+   "kokcek": 0.2,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -1732,6 +1849,23 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.16,
    "kokcek": 0.15,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-25",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.1,
+   "kokcek": 0.16,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -1897,11 +2031,11 @@
    "tur": "ARA",
    "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.15,
-   "kokcek": 0.09,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.1,
+   "kokcek": 0.24,
    "d_oran": 0.0,
-   "kok_oran": null,
+   "kok_oran": 0.52,
    "ortak_madde": [
     "3065 21"
    ],
@@ -1933,6 +2067,23 @@
    "kanit": 1.0,
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.1,
+   "kokcek": 0.12,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-28",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.08,
    "kokcek": 0.12,
    "d_oran": 0.0,
    "kok_oran": null,
@@ -2031,9 +2182,9 @@
    "tur": "ARA",
    "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.12,
-   "kokcek": 0.07,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.15,
+   "kokcek": 0.2,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -2067,6 +2218,23 @@
    "kanit": 1.0,
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.07,
+   "kokcek": 0.11,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H01-32",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.05,
    "kokcek": 0.11,
    "d_oran": 0.0,
    "kok_oran": null,
@@ -2179,6 +2347,21 @@
    "kokcek": 0.36,
    "d_oran": 0.0,
    "kok_oran": 0.52,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-01",
+   "b": "H02-15",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "Gümrük Vergisi Matrahı : CIF Kıymeti + Yurtdışı Giderleri",
+   "cekd": 0.2,
+   "kokcek": 0.22,
+   "d_oran": 0.0,
+   "kok_oran": 0.56,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2305,6 +2488,21 @@
   },
   {
    "a": "H02-04",
+   "b": "H02-15",
+   "tur": "İÇ",
+   "olcut": "ab",
+   "kanit": 1.0,
+   "kanit_ornek": "Not:Gv matrahı ,aynı zamanda İGV-EMY-Antidamping-Kültür-Fonu ve ÇKP gibi diğer vergilerinde matrahıdır.",
+   "cekd": 0.33,
+   "kokcek": 0.21,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-04",
    "b": "H02-17",
    "tur": "İÇ",
    "olcut": "b",
@@ -2359,6 +2557,36 @@
    "kokcek": 0.37,
    "d_oran": 0.0,
    "kok_oran": 0.51,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-05",
+   "b": "H02-15",
+   "tur": "İÇ",
+   "olcut": "ab",
+   "kanit": 1.0,
+   "kanit_ornek": "Gümrük Vergisi Matrahı : CIF Kıymeti + Yurtdışı Giderleri",
+   "cekd": 0.38,
+   "kokcek": 0.31,
+   "d_oran": 0.0,
+   "kok_oran": 0.51,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-06",
+   "b": "H02-15",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "Not:Gv matrahı ,aynı zamanda İGV-EMY-Antidamping-Kültür-Fonu ve ÇKP gibi diğer vergilerinde matrahıdır.",
+   "cekd": 0.03,
+   "kokcek": 0.12,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2424,6 +2652,21 @@
    "ortak_sik": 0
   },
   {
+   "a": "H02-07",
+   "b": "H02-15",
+   "tur": "İÇ",
+   "olcut": "b",
+   "kanit": 0.17,
+   "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
+   "cekd": 0.3,
+   "kokcek": 0.32,
+   "d_oran": 0.0,
+   "kok_oran": 0.6,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
    "a": "H02-08",
    "b": "M01-04",
    "tur": "ARA",
@@ -2447,7 +2690,7 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "KDV ve ÖTV matrahına kendisi girmez; bir önceki vergiler girer",
-   "cekd": 0.18,
+   "cekd": 0.19,
    "kokcek": 0.13,
    "d_oran": 0.0,
    "kok_oran": null,
@@ -2502,32 +2745,30 @@
   },
   {
    "a": "H02-10",
-   "b": "H02-13",
-   "tur": "İÇ",
-   "olcut": "a",
-   "kanit": 1.0,
-   "kanit_ornek": "HESAPLANACAK ÖTV HARİÇ, KDV MATRAHINI OLUŞTURAN unsurlardan teşekkül eder.",
-   "cekd": 0.23,
-   "kokcek": 0.17,
-   "d_oran": 0.0,
-   "kok_oran": null,
-   "ortak_madde": [
-    "4760 11"
-   ],
-   "esya": null,
-   "ortak_sik": 0
-  },
-  {
-   "a": "H02-10",
    "b": "H02-14",
    "tur": "İÇ",
    "olcut": "ab",
    "kanit": 1.0,
    "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
    "cekd": 0.42,
-   "kokcek": 0.48,
+   "kokcek": 0.47,
    "d_oran": 0.0,
    "kok_oran": 0.74,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-10",
+   "b": "H02-15",
+   "tur": "İÇ",
+   "olcut": "ab",
+   "kanit": 1.0,
+   "kanit_ornek": "Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ",
+   "cekd": 0.42,
+   "kokcek": 0.41,
+   "d_oran": 0.0,
+   "kok_oran": 0.65,
    "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
@@ -2587,13 +2828,13 @@
    "a": "H02-11",
    "b": "H02-15",
    "tur": "İÇ",
-   "olcut": "ab",
+   "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.25,
-   "kokcek": 0.19,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.16,
+   "kokcek": 0.45,
    "d_oran": 0.0,
-   "kok_oran": null,
+   "kok_oran": 0.67,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2636,6 +2877,23 @@
   },
   {
    "a": "H02-11",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.06,
+   "kokcek": 0.16,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-11",
    "b": "M61-03",
    "tur": "ARA",
    "olcut": "a",
@@ -2653,66 +2911,105 @@
   },
   {
    "a": "H02-13",
-   "b": "H03-02",
-   "tur": "ARA",
+   "b": "H02-16",
+   "tur": "İÇ",
    "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "HESAPLANACAK ÖTV HARİÇ, KDV MATRAHINI OLUŞTURAN unsurlardan teşekkül eder.",
+   "kanit_ornek": "Mal mukabili, vadeli akreditif, kabul kredili",
    "cekd": 0.0,
-   "kokcek": 0.08,
+   "kokcek": 0.05,
    "d_oran": 0.0,
    "kok_oran": null,
-   "ortak_madde": [
-    "4760 11"
-   ],
+   "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
   },
   {
    "a": "H02-13",
-   "b": "H03-03",
+   "b": "H02-18",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "Mal mukabili, vadeli akreditif, kabul kredili",
+   "cekd": 0.0,
+   "kokcek": 0.02,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-13",
+   "b": "M09-05",
    "tur": "ARA",
    "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "Bunların NİHAİ TÜKETİCİLERE PERAKENDE SATIŞ FİYATIDIR.",
-   "cekd": 0.11,
-   "kokcek": 0.15,
-   "d_oran": 0.0,
+   "kanit_ornek": "antrepolara konmuş olsa dahi menşe ülkesi değişmez",
+   "cekd": 0.07,
+   "kokcek": 0.07,
+   "d_oran": 0.26,
    "kok_oran": null,
-   "ortak_madde": [
-    "4760 11"
-   ],
+   "ortak_madde": [],
    "esya": null,
    "ortak_sik": 0
   },
   {
    "a": "H02-13",
-   "b": "M62-06",
+   "b": "M09-06",
    "tur": "ARA",
-   "olcut": "abck",
+   "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "Bunların NİHAİ TÜKETİCİLERE PERAKENDE SATIŞ FİYATIDIR.",
-   "cekd": 0.92,
-   "kokcek": 0.8,
-   "d_oran": 1.0,
-   "kok_oran": 0.9,
-   "ortak_madde": [
-    "4760 11"
-   ],
+   "kanit_ornek": "antrepolara konmuş olsa dahi menşe ülkesi değişmez",
+   "cekd": 0.03,
+   "kokcek": 0.03,
+   "d_oran": 0.37,
+   "kok_oran": null,
+   "ortak_madde": [],
    "esya": null,
-   "ortak_sik": 1
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-13",
+   "b": "M62-03",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "Mal mukabili, vadeli akreditif, kabul kredili",
+   "cekd": 0.0,
+   "kokcek": 0.01,
+   "d_oran": 0.23,
+   "kok_oran": null,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-13",
+   "b": "M62-04",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "Mal mukabili, vadeli akreditif, kabul kredili",
+   "cekd": 0.0,
+   "kokcek": 0.05,
+   "d_oran": 0.3,
+   "kok_oran": null,
+   "ortak_madde": [],
+   "esya": null,
+   "ortak_sik": 0
   },
   {
    "a": "H02-14",
    "b": "H02-15",
    "tur": "İÇ",
-   "olcut": "a",
+   "olcut": "ab",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.16,
-   "kokcek": 0.14,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.37,
+   "kokcek": 0.51,
    "d_oran": 0.0,
-   "kok_oran": null,
+   "kok_oran": 0.7,
    "ortak_madde": [
     "3065 21"
    ],
@@ -2755,6 +3052,23 @@
   },
   {
    "a": "H02-14",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.06,
+   "kokcek": 0.16,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-14",
    "b": "M61-03",
    "tur": "ARA",
    "olcut": "a",
@@ -2777,8 +3091,8 @@
    "olcut": "a",
    "kanit": 1.0,
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
-   "cekd": 0.2,
-   "kokcek": 0.15,
+   "cekd": 0.13,
+   "kokcek": 0.18,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -2795,7 +3109,24 @@
    "kanit": 1.0,
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.13,
-   "kokcek": 0.08,
+   "kokcek": 0.26,
+   "d_oran": 0.0,
+   "kok_oran": 0.46,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H02-15",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.08,
+   "kokcek": 0.18,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -2808,18 +3139,18 @@
    "a": "H02-15",
    "b": "M61-03",
    "tur": "ARA",
-   "olcut": "abcsk",
+   "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ,",
-   "cekd": 0.55,
-   "kokcek": 0.64,
-   "d_oran": 1.0,
-   "kok_oran": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.08,
+   "kokcek": 0.13,
+   "d_oran": 0.0,
+   "kok_oran": null,
    "ortak_madde": [
     "3065 21"
    ],
    "esya": null,
-   "ortak_sik": 4
+   "ortak_sik": 0
   },
   {
    "a": "H02-16",
@@ -3008,7 +3339,7 @@
    "kanit": 1.0,
    "kanit_ornek": "Diğer mallar için içerdiği ALKOLÜN HER BİR LİTRESİ itibarıyla, uygulanır.",
    "cekd": 0.14,
-   "kokcek": 0.14,
+   "kokcek": 0.13,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -3094,6 +3425,23 @@
    "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
    "cekd": 0.04,
    "kokcek": 0.14,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H03-09",
+   "b": "H04-16",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.04,
+   "kokcek": 0.12,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [
@@ -3480,6 +3828,23 @@
   },
   {
    "a": "H04-02",
+   "b": "H04-16",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 0.86,
+   "kanit_ornek": "Fark vergilerin YARISI KADAR idari para cezası kesilir.",
+   "cekd": 0.12,
+   "kokcek": 0.2,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "GK 234"
+   ],
+   "esya": null,
+   "ortak_sik": 1
+  },
+  {
+   "a": "H04-02",
    "b": "M05-05",
    "tur": "ARA",
    "olcut": "a",
@@ -3509,6 +3874,24 @@
    ],
    "esya": null,
    "ortak_sik": 0
+  },
+  {
+   "a": "H04-03",
+   "b": "H04-16",
+   "tur": "İÇ",
+   "olcut": "ab",
+   "kanit": 1.0,
+   "kanit_ornek": "2.) Fark Vergiler hesaplanıyor. ( GV + İGV + ÖTV + EMY + KDV vb )",
+   "cekd": 0.31,
+   "kokcek": 0.31,
+   "d_oran": 0.0,
+   "kok_oran": 0.38,
+   "ortak_madde": [
+    "3065 21",
+    "GK 234"
+   ],
+   "esya": null,
+   "ortak_sik": 1
   },
   {
    "a": "H04-03",
@@ -3555,6 +3938,23 @@
    "kokcek": 0.22,
    "d_oran": 0.0,
    "kok_oran": 0.33,
+   "ortak_madde": [
+    "GK 234"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H04-04",
+   "b": "H04-16",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "bu noksanlığa ait ithalat vergilerinden başka vergi farkının üç katı para cezası alınır.",
+   "cekd": 0.21,
+   "kokcek": 0.33,
+   "d_oran": 0.0,
+   "kok_oran": 0.4,
    "ortak_madde": [
     "GK 234"
    ],
@@ -3611,6 +4011,23 @@
    ],
    "esya": null,
    "ortak_sik": 0
+  },
+  {
+   "a": "H04-06",
+   "b": "H04-16",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "bu farklara ait ithalat vergilerinden başka vergi farkının yarısı tutarında para cezası alınır.",
+   "cekd": 0.14,
+   "kokcek": 0.31,
+   "d_oran": 0.0,
+   "kok_oran": 0.45,
+   "ortak_madde": [
+    "GK 234"
+   ],
+   "esya": null,
+   "ortak_sik": 1
   },
   {
    "a": "H04-06",
@@ -3967,17 +4384,51 @@
   },
   {
    "a": "H04-16",
-   "b": "M21-01",
+   "b": "M42-01",
    "tur": "ARA",
-   "olcut": "ab",
+   "olcut": "a",
    "kanit": 1.0,
-   "kanit_ornek": "b) 1.000 m²'den sonraki her 1.000 m² için 1.000.000 TL (1.000 m²'nin altındaki artışlar 1.000 m²'ye tamamlanır).",
-   "cekd": 0.3,
-   "kokcek": 0.31,
+   "kanit_ornek": "bu farklara ait ithalat vergilerinden başka vergi farkının yarısı tutarında para cezası alınır.",
+   "cekd": 0.22,
+   "kokcek": 0.28,
    "d_oran": 0.0,
-   "kok_oran": 0.59,
+   "kok_oran": 0.47,
    "ortak_madde": [
-    "GY 527"
+    "GK 234"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H04-16",
+   "b": "M42-12",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "bu farklara ait ithalat vergilerinden başka vergi farkının yarısı tutarında para cezası alınır.",
+   "cekd": 0.23,
+   "kokcek": 0.25,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "GK 234"
+   ],
+   "esya": null,
+   "ortak_sik": 0
+  },
+  {
+   "a": "H04-16",
+   "b": "M61-03",
+   "tur": "ARA",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,",
+   "cekd": 0.09,
+   "kokcek": 0.04,
+   "d_oran": 0.0,
+   "kok_oran": null,
+   "ortak_madde": [
+    "3065 21"
    ],
    "esya": null,
    "ortak_sik": 0
@@ -5369,7 +5820,7 @@
    "kanit": 1.0,
    "kanit_ornek": "Yurt içi alım yapılan dahilde işleme izin belgesi kapsamında birden fazla yapılacak kısmi teminat iadesi talepleri, aynı bölge müdürlüğünce sonuçlandırılır.",
    "cekd": 0.09,
-   "kokcek": 0.18,
+   "kokcek": 0.19,
    "d_oran": 0.21,
    "kok_oran": null,
    "ortak_madde": [],
@@ -5868,7 +6319,7 @@
    "kanit": 1.0,
    "kanit_ornek": "gümrüklenmiş değerinin iki katı idari para cezası verilir.",
    "cekd": 0.05,
-   "kokcek": 0.08,
+   "kokcek": 0.09,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [],
@@ -7528,21 +7979,6 @@
    "ortak_sik": 0
   },
   {
-   "a": "T02-13",
-   "b": "T22-14",
-   "tur": "ARA",
-   "olcut": "b",
-   "kanit": 0.46,
-   "kanit_ornek": "Çerçevesiz emniyet camları (nakil vasıtalarında kullanılmak üzere şekil verilmiş olsun olmasın) (70.07 pozisyonu).",
-   "cekd": 0.3,
-   "kokcek": 0.18,
-   "d_oran": 0.0,
-   "kok_oran": null,
-   "ortak_madde": [],
-   "esya": 0.22,
-   "ortak_sik": 0
-  },
-  {
    "a": "T02-16",
    "b": "T02-28",
    "tur": "İÇ",
@@ -7639,7 +8075,7 @@
    "olcut": "a",
    "kanit": 0.82,
    "kanit_ornek": "kuru madde üzerinden hesaplandığında ağırlık itibariyle %95' den fazla laktoz içeren",
-   "cekd": 0.23,
+   "cekd": 0.22,
    "kokcek": 0.27,
    "d_oran": 0.0,
    "kok_oran": 0.35,
@@ -7670,7 +8106,7 @@
    "kanit": 0.22,
    "kanit_ornek": "Buğday unları, genel olarak %10'u geçmeyecek şekilde gluten ilavesiyle daha da zenginleştirilebilirler.",
    "cekd": 0.0,
-   "kokcek": 0.05,
+   "kokcek": 0.04,
    "d_oran": 0.0,
    "kok_oran": null,
    "ortak_madde": [],
@@ -7800,21 +8236,6 @@
    "ortak_sik": 0
   },
   {
-   "a": "T08-11",
-   "b": "T17-02",
-   "tur": "ARA",
-   "olcut": "abtk",
-   "kanit": 0.92,
-   "kanit_ornek": "Ağırlık itibariyle %15'den fazla fosfor içeren bakır fosfürler (bakır fosfor), 28.53 pozisyonuna girer.",
-   "cekd": 0.5,
-   "kokcek": 0.41,
-   "d_oran": 1.0,
-   "kok_oran": 0.64,
-   "ortak_madde": [],
-   "esya": 1.0,
-   "ortak_sik": 1
-  },
-  {
    "a": "T09-04",
    "b": "T09-05",
    "tur": "İÇ",
@@ -7937,21 +8358,6 @@
    "kok_oran": null,
    "ortak_madde": [],
    "esya": 0.0,
-   "ortak_sik": 0
-  },
-  {
-   "a": "T15-07",
-   "b": "T22-14",
-   "tur": "ARA",
-   "olcut": "ab",
-   "kanit": 0.83,
-   "kanit_ornek": "Isıtma tertibatı veya diğer elektrikli veya elektronik cihaz içeren çerçeveli olsun olmasın ön, arka ve diğer camlar",
-   "cekd": 0.28,
-   "kokcek": 0.23,
-   "d_oran": 0.18,
-   "kok_oran": null,
-   "ortak_madde": [],
-   "esya": 0.19,
    "ortak_sik": 0
   },
   {
@@ -8161,6 +8567,23 @@
    "kok_oran": null,
    "ortak_madde": [
     "TGTC 85.23"
+   ],
+   "esya": 0.0,
+   "ortak_sik": 0
+  },
+  {
+   "a": "T22-01",
+   "b": "T22-14",
+   "tur": "İÇ",
+   "olcut": "a",
+   "kanit": 1.0,
+   "kanit_ornek": "Radyatörler, susturucular ve egsoz boruları, yakıt tankları vb.",
+   "cekd": 0.12,
+   "kokcek": 0.2,
+   "d_oran": 0.18,
+   "kok_oran": 0.64,
+   "ortak_madde": [
+    "TGTC 87.08"
    ],
    "esya": 0.0,
    "ortak_sik": 0

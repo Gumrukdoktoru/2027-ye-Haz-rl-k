@@ -1,4 +1,4 @@
-# GM Soru Bankası — H02: Vergi Matrahları ve İthalat Vergileri (18 soru: 13 hesap, 5 sözel)
+# GM Soru Bankası — H02: Vergi Matrahları ve İthalat Vergileri (18 soru: 14 hesap, 4 sözel)
 # Gümrük Koçu - Ufuk Çetintaş
 # Bütün sayılar dogrulama/H02_hesap_kontrol.py ile yeniden hesaplanır.
 H = "H02-vergi-matrahlari.txt"
@@ -494,37 +494,47 @@ Q = [
         cikmis="",
         kapsamli=False,
     ),
-    # 13 ---------------- ÖTV (III) sayılı liste (B) cetveli: perakende satış fiyatı ----------------
+    # 13 ---------------- vergi hesabının üç temel faktörü: tarife, menşe, kıymet (klasik) ----------------
     dict(
         konu="Vergi Matrahları ve İthalat Vergileri",
         blok="H02",
-        kalip="MATRAH",
-        z="O",
-        madde="4760 sayılı ÖTV Kanunu md. 11",
-        cek="(III) sayılı listenin (B) cetvelindeki mallarda ÖTV matrahı nihai tüketicilere perakende satış fiyatıdır; (II), (III), (IV) listelerde ise ÖTV hariç KDV matrahı.",
+        kalip="DOĞRU",
+        z="K",
+        madde="Vergi hesaplama özeti (vergi hesabının temel faktörleri)",
+        cek="Vergi hesabının üç temel faktörü: tarife sınıflandırması (GTİP), eşyanın menşei (ekonomik milliyet) ve gümrük kıymeti (satış bedeli).",
         kok=[
-            "4760 sayılı Özel Tüketim Vergisi Kanunu'na göre (III) sayılı listenin (B) cetvelindeki mallar için verginin matrahı aşağıdakilerden hangisidir?"
+            "Gümrük vergi hesaplamalarında ithalat vergilerinin hesabını belirleyen üç temel faktör aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?"
         ],
-        d="Bu malların nihai tüketicilere perakende satış fiyatı",
+        d="Eşyanın tarife sınıflandırması, menşei ve gümrük kıymeti",
         c=[
-            "Hesaplanacak ÖTV hariç, KDV matrahını oluşturan unsurlar",
-            "Gümrük vergisi matrahı (CIF kıymeti ve yurt dışı giderler)",
-            "Malın sigorta ve navlun bedelleri dahil CIF değeri",
-            "Malın gümrükçe tespit edilecek değeri",
+            "Eşyanın tarife sınıflandırması, geldiği ülke ve gümrük kıymeti",
+            "Eşyanın tarife sınıflandırması, menşei ve teslim şekli",
+            "Eşyanın menşei, gümrük kıymeti ve ödeme şekli",
+            "Eşyanın tarife sınıflandırması, gümrük kıymeti ve gümrük yükümlülüğünün başladığı tarih",
         ],
         sirali=False,
-        g="4760 sayılı Kanun'a göre (II), (III) ve (IV) sayılı listelerdeki malların teslimi, ilk iktisabı ve ithalinde verginin matrahı, hesaplanacak ÖTV hariç KDV matrahını oluşturan unsurlardır; ancak (III) sayılı listenin (B) cetvelindeki mallar bu kuralın dışında tutulmuştur. Bu malların matrahı nihai tüketicilere perakende satış fiyatıdır. Gümrük vergisi matrahı İGV, EMY ve kültür fonu gibi yükümlülüklerin ortak matrahıdır; CIF değeri ile gümrükçe tespit edilecek değer ise KDV Kanunu'nda gümrük vergisinin kıymet esasına göre alınmadığı ya da belli olmadığı hallerde KDV matrahının yerine geçen değerlerdir. En güçlü tuzak ÖTV hariç KDV matrahıdır: aynı listenin genel kuralıdır, fakat (B) cetveli bu kuraldan ayrılarak perakende satış fiyatına bağlanmıştır. Bu nedenle doğru cevap 'Bu malların nihai tüketicilere perakende satış fiyatı' seçeneğidir. (MD ÖTVK 11; KDVK 21)",
-        kanit=f"{OTV} | 4. (III) sayılı listenin (B) CETVELİNDEKİ mallar için VERGİNİN MATRAHI; || {OTV} | Bunların NİHAİ TÜKETİCİLERE PERAKENDE SATIŞ FİYATIDIR. || {OTV} | HESAPLANACAK ÖTV HARİÇ, KDV MATRAHINI OLUŞTURAN unsurlardan teşekkül eder. || {KDV} | SİGORTA VE NAVLUN BEDELLERİ DAHİL (CIF) DEĞERİ, || {KDV} | Bunun belli olmadığı hallerde MALIN GÜMRÜKÇE TESPİT EDİLECEK DEĞERİ,",
+        g="Gümrük vergi hesaplamalarında vergi hesabının üç temel faktörü eşyanın tarife sınıflandırması (GTİP), eşyanın menşei (ekonomik milliyeti) ve eşyanın gümrük kıymetidir (satış bedeli): tarife sınıflandırması eşyanın pozisyonunu ve buna bağlı vergi oranını, menşe hangi ülkeye ait oranın esas alınacağını, gümrük kıymeti de kıymet üzerinden alınan vergilerin matrahını belirler. Teslim şekli, navlun ve sigortanın fiyata eklenip eklenmeyeceğini gösteren bir kıymet unsurudur; ödeme şekli KKDF kesintisinin doğup doğmadığını belirler; gümrük yükümlülüğünün başladığı tarih ise verginin hangi tarihteki tarifeye göre hesaplanacağını gösterir. Bunların hiçbiri üç temel faktörden biri değildir. En güçlü tuzak eşyanın geldiği ülkedir: menşe ile karıştırılır, fakat menşe eşyanın ekonomik milliyetidir; eşya üçüncü bir ülke yoluyla getirilip orada antrepoya konulsa bile menşe ülkesi değişmez, geldiği ülke ise eşyanın Türkiye'ye en son gönderildiği ülkedir. Bu nedenle doğru cevap 'Eşyanın tarife sınıflandırması, menşei ve gümrük kıymeti' seçeneğidir. (MD Vergi hesabının temel faktörleri)",
+        kanit=(
+            f"{H} | TEMEL Vergi Hesabı Faktörleri"
+            f" || {H} | 1. Tarife sınıflandırması (GTİP)"
+            f" || {H} | 2. Eşyanın menşei (ekonomik milliyet)"
+            f" || {H} | 3. Eşyanın gümrük kıymeti (satış bedeli)"
+            f" || {H} | Mal mukabili, vadeli akreditif, kabul kredili"
+            f" || {H} | Vergi, yükümlülüğün başladığı tarihteki"
+            " || H01-gumruk-kiymeti-hesabi.txt | Teslim şekline göre navlun sigorta durumu"
+            " || 09-gumruk-tarifesi-ve-mense-gk.txt | antrepolara konmuş olsa dahi menşe ülkesi değişmez"
+            " || 09-gumruk-tarifesi-ve-mense-gk.txt | Eşyanın geldiği ülkeden maksat Türkiye'ye en son gönderildiği"
+        ),
         yuva=[
-            "ÖTVK 11: (II), (III), (IV) listelerde genel matrah",
-            "GV matrahı: İGV, EMY, kültür fonu ortak matrahı",
-            "KDVK 21: kıymet esası yoksa CIF değeri",
-            "KDVK 21: belli değilse gümrükçe tespit edilecek değer",
+            "Menşe yerine geldiği ülke (menşe ülkesi ile geldiği ülke ayrımı)",
+            "Teslim şekli: navlun ve sigortanın kıymete eklenmesini belirleyen unsur (teslim şekilleri tablosu)",
+            "Ödeme şekli: KKDF kesintisini belirleyen unsur (mal mukabili, vadeli akreditif, kabul kredili)",
+            "Gümrük yükümlülüğünün başladığı tarih: uygulanacak tarifenin tarihi",
         ],
         yakinlik="BİREBİR",
-        tuzak=["İSTİSNA", "KOMŞU"],
-        duzey=["AYIRT"],
-        profil=[1, 3],
+        tuzak=["KOMŞU", "TERİM"],
+        duzey=["HATIRLAMA"],
+        profil=[1],
         olumsuz=False,
         vaka=False,
         baslangic=False,
@@ -576,40 +586,48 @@ Q = [
         cikmis="2021/81; 2023/78; 2024/25",
         kapsamli=False,
     ),
-    # 15 ---------------- KDVK 21: ithalatta matraha dahil olmayan (liste dışı, tescil sonrası) ----------------
+    # 15 ---------------- dampinge karşı vergi: GV matrahı üzerinden; KDV matrahına girer (GV + DKV + KDV toplamı) ----------------
     dict(
         konu="Vergi Matrahları ve İthalat Vergileri",
         blok="H02",
-        kalip="KAPSAM_DIŞI",
-        z="O",
-        madde="3065 sayılı KDV Kanunu md. 21",
-        cek="İthalatta KDV matrahı: vergi tarhına esas kıymet, her türlü vergi-resim-harç-pay, tescile kadar vergilendirilmemiş giderler, fiyat/kur farkı, teminat ÖTV'si.",
+        kalip="HESAP",
+        z="Z",
+        madde="Vergi hesaplama formülleri (dampinge karşı vergi, KDV matrahı); 3065 sayılı KDV Kanunu md. 21",
+        cek="Dampinge karşı vergi GV matrahı (CIF + yurt dışı gider) üzerinden hesaplanır ve KDV matrahına girer; yurt içi gider yalnız KDV matrahına eklenir.",
         kok=[
-            "3065 sayılı Katma Değer Vergisi Kanunu'na göre ithalatta verginin matrahını oluşturan unsurlar arasında aşağıdakilerden hangisi yer almaz?"
+            "Dampinge karşı vergiye tabi bir eşyanın ithaline ilişkin bilgiler şunlardır:",
+            "- CIF kıymet: 60.000 TL",
+            "- Satış koşulu olarak satıcıya ödenen ve faturaya dahil edilmemiş, kıymete eklenmesi gereken yurt dışı gider: 4.000 TL",
+            "- Gümrük beyannamesinin tescil tarihine kadar yapılan ve KDV'ye tabi tutulmamış yurt içi gider: 1.000 TL",
+            "- Gümrük vergisi %5; dampinge karşı vergi %30; KDV %20 (eşya başka bir vergiye tabi değildir)",
+            "Buna göre ödenecek gümrük vergisi, dampinge karşı vergi ve katma değer vergisi toplamı kaç TL'dir?",
         ],
-        d="Gümrük beyannamesinin tescil tarihinden sonra yapılan giderler",
-        c=[
-            "İthal edilen malın gümrük vergisi tarhına esas olan kıymeti",
-            "İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar",
-            "Mal bedeli üzerinden hesaplanan fiyat farkı ve kur farkı gibi ödemeler",
-            "Teminat karşılığı ithal edilen malın teminatının hesaplanmasına esas özel tüketim vergisi tutarı",
-        ],
-        sirali=False,
-        g="3065 sayılı Kanun'a göre ithalatta KDV matrahı şu unsurların toplamıdır: ithal edilen malın gümrük vergisi tarhına esas olan kıymeti; ithalat sırasında ödenen her türlü vergi, resim, harç ve paylar; gümrük beyannamesinin tescil tarihine kadar yapılan diğer giderler ve ödemelerden vergilendirilmeyenler ile mal bedeli üzerinden hesaplanan fiyat farkı, kur farkı gibi ödemeler; teminat karşılığı ithal edilen malın teminatının hesaplanmasına esas ÖTV tutarı. Giderler bakımından sınır beyannamenin tescil tarihidir; tescilden sonra yapılan giderler ithalattaki KDV matrahına girmez. En güçlü tuzak fiyat farkı ve kur farkıdır: ithalattan sonra ortaya çıkabildiği için matrah dışında sanılabilir, fakat Kanun bunları matraha açıkça dahil etmiştir. Bu nedenle doğru cevap 'Gümrük beyannamesinin tescil tarihinden sonra yapılan giderler' seçeneğidir. (MD KDVK 21)",
-        kanit=f"{KDV} | İthal edilen malın GÜMRÜK VERGİSİ TARHINA ESAS OLAN KIYMETİ, || {KDV} | İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR, || {KDV} | Gümrük beyannamesinin tescil tarihine kadar yapılan diğer giderler ve ödemelerden VERGİLENDİRİLMEYENLER ile || {KDV} | Mal bedeli üzerinden hesaplanan FİYAT FARKI, KUR FARKI gibi ödemeler. || {KDV} | teminat karşılığı ithal edilen malın teminatının",
+        d="39.880",
+        c=["36.040", "39.240", "40.240", "41.032"],
+        sirali=True,
+        siklar=["36.040", "39.240", "39.880", "40.240", "41.032"],
+        g="Dampinge karşı vergi, gümrük vergisi gibi gümrük vergisi matrahı (CIF kıymeti + yurt dışı giderler) üzerinden hesaplanır; KDV matrahına ise ithalat sırasında ödenen her türlü vergi, dampinge karşı vergi de dahil, ile tescile kadar yapılan ve vergilendirilmemiş yurt içi giderler girer. GV matrahı = 60.000 + 4.000 = 64.000 TL. GV = 64.000 × %5 = 3.200 TL; dampinge karşı vergi = 64.000 × %30 = 19.200 TL. KDV matrahı = 64.000 + 3.200 + 19.200 + 1.000 = 87.400 TL; KDV = 87.400 × %20 = 17.480 TL. Toplam = 3.200 + 19.200 + 17.480 = 39.880 TL. Gümrük vergisini KDV matrahına eklemeyen hesap 39.240 TL (KDV = 84.200 × %20 = 16.840), dampinge karşı vergiyi yurt içi gider eklenmiş tutar üzerinden hesaplayan hesap 40.240 TL ((64.000 + 1.000) × %30 = 19.500; KDV 17.540), dampinge karşı vergiyi gümrük vergisi eklenmiş tutar üzerinden hesaplayan hesap 41.032 TL bulur ((64.000 + 3.200) × %30 = 20.160; KDV 17.672); dampinge karşı verginin matrahı ne yurt içi gideri ne de gümrük vergisini içerir. En güçlü tuzak 36.040 TL'dir: dampinge karşı vergi gümrük vergisinden ayrı bir yükümlülük sanılarak KDV matrahı dışında bırakılmıştır (KDV = 68.200 × %20 = 13.640); oysa KDV matrahına ithalat sırasında ödenen her türlü vergi girer. Bu nedenle doğru cevap '39.880' seçeneğidir. (MD Dampinge karşı vergi ve KDV matrahı formülleri; KDVK 21)",
+        kanit=(
+            f"{H} | G.V · İGV · EMY · Anti-Damping · Kültür Fonu'nun ortak"
+            f" || {H} | Not:Gv matrahı ,aynı zamanda İGV-EMY-Antidamping-Kültür-Fonu ve ÇKP gibi diğer vergilerinde matrahıdır."
+            f" || {H} | Gümrük Vergisi Matrahı : CIF Kıymeti + Yurtdışı Giderleri"
+            f" || {H} | Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ"
+            f" || {KDV} | İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,"
+            " || H04-cezalar-uzlasma.txt | KDV MATRAHI: GV MATRAHI + GV + ANTİ DAMPİNG VERGİSİ + DİĞER GİDERLER."
+        ),
         yuva=[
-            "KDVK 21-a: gümrük vergisi tarhına esas kıymet",
-            "KDVK 21-b: her türlü vergi, resim, harç ve paylar",
-            "KDVK 21-c: fiyat farkı, kur farkı",
-            "KDVK 21-ç: teminata esas ÖTV tutarı",
+            "Dampinge karşı vergi KDV matrahına eklenmemiş",
+            "Gümrük vergisi KDV matrahına eklenmemiş",
+            "Dampinge karşı vergi matrahına yurt içi gider eklenmiş",
+            "Dampinge karşı vergi matrahına gümrük vergisi eklenmiş",
         ],
-        yakinlik="BİREBİR",
-        tuzak=["TERSİNE", "BAŞLANGIÇ", "SAĞDUYU"],
-        duzey=["AYIRT"],
-        profil=[1, 4],
-        olumsuz=True,
-        vaka=False,
-        baslangic=True,
+        yakinlik="ÇIKARIM",
+        tuzak=["AD-HESAP", "KOMŞU"],
+        duzey=["UYGULAMA"],
+        profil=[2],
+        olumsuz=False,
+        vaka=True,
+        baslangic=False,
         eksen=0,
         ayna="",
         guncellik="",

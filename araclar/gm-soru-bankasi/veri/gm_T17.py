@@ -43,31 +43,39 @@ Q = [
         cikmis="",
         kapsamli=False,
     ),
-    # 2 ---------------- Fasıl 74 Notu: bakır fosfor 28.53 (oran) ----------------
+    # 2 ---------------- Fasıl 74 Notu: rafine bakır — tablo şartı aranmayan eşik %99,85 (oran) ----------------
     dict(
         konu="Fasıl 74–83",
         blok="T17",
         kalip="ORAN-TUTAR",
-        z="Z",
-        madde="TGTC Fasıl 74 Notu (bakırın ön alaşımları; rafine bakır; bakır alaşımları)",
-        cek="Ağırlıkça %15'ten fazla fosfor içeren bakır fosfor kuproalyaj sayılmaz; 28.53 pozisyonunda sınıflandırılır.",
+        z="O",
+        madde="TGTC Fasıl 74 Notu (rafine bakır); 74.02 ve 74.03 Açıklama Notları",
+        cek="Rafine bakır: ağırlıkça en az %99,85 bakır; ya da diğer elementler tablo sınırlarını aşmamak kaydıyla en az %97,5 bakır içeren metal.",
         kok=[
-            "Türk Gümrük Tarife Cetvelinin 74. Fasıl notlarına göre, bakırın ön alaşımı (kuproalyaj) olarak değil 28.53 pozisyonunda sınıflandırılan bakır fosfor, ağırlık itibariyle aşağıdaki oranlardan hangisinden fazla fosfor içerir?"
+            "Türk Gümrük Tarife Cetvelinin 74. Fasıl notlarına göre, içindeki diğer elementlerin oranları nottaki tabloda gösterilen sınırlarla karşılaştırılmaksızın rafine bakır sayılan metal, ağırlık itibariyle en az yüzde kaç bakır içerir?"
         ],
-        d="%15",
-        c=["%2,5", "%10", "%97,5", "%99,85"],
+        d="%99,85",
+        c=["%97,5", "%98", "%99,9", "%99,99"],
         sirali=True,
-        siklar=["%2,5", "%10", "%15", "%97,5", "%99,85"],
-        g="74. Fasıl notu bakırın ön alaşımlarını (kuproalyajları), diğer elementlerle birlikte ağırlıkça %10'dan fazla bakır içeren, işlenmeye elverişli olmayan ve diğer alaşımların hazırlanmasında katkı maddesi ya da deoksidan, desülfüran olarak kullanılan alaşımlar diye tanımlar; aynı not, ağırlık itibariyle %15'ten fazla fosfor içeren bakır fosforun 28.53 pozisyonuna gireceğini söyler. Diğer sayılar aynı notun komşu tanımlarından gelir: %10 kuproalyajdaki asgari bakır oranı, %2,5 bakır alaşımı sayılmak için diğer elementlerin aşması gereken toplam oran, %97,5 ve %99,85 ise rafine bakırın asgari bakır oranlarıdır. En güçlü tuzak %10 seçeneğidir: kuproalyaj tanımının sayısıdır, fakat bakır oranını gösterir; fosfor için eşik %15'tir. Bu nedenle doğru cevap '%15' seçeneğidir. (MD Fasıl 74 Notu; GYK 1)",
-        kanit=f"{K} | İçinde diğer elementlerle birlikte ağırlık itibariyle % 10'dan fazla bakır bulunan || {K} | Bununla beraber, ağırlık itibariyle %15 den fazla fosfor içeren bakır fosfor, 28.53 pozisyonuna girer. || {K} | Ağırlık itibariyle diğer elementlerin toplam oranı % 2,5'i geçer. || {K} | Ağırlık itibariyle en az % 99,85 bakır içeren metal; veya || {K} | en az % 97,5 bakır içeren metal",
+        siklar=["%97,5", "%98", "%99,85", "%99,9", "%99,99"],
+        g="74. Fasıl notu rafine bakırı iki yoldan tanımlar: ağırlık itibariyle en az %99,85 bakır içeren metal ya da diğer her bir elementin miktarı nottaki tabloda gösterilen oranları aşmamak kaydıyla en az %97,5 bakır içeren metal. Diğer elementlerin tablodaki sınırlarla karşılaştırılmasına gerek kalmadan rafine bakır sayılmak için gereken oran bu nedenle %99,85'tir; 74.03 açıklama notu da en az %99,85 bakır içeren bakırı rafine edilmiş bakır olarak anar. %98, blister bakırın normal bakır muhtevasıdır; blister bakır rafine edilmemiş bakır olarak 74.02 pozisyonunda kalır. %99,9 78. Fasıl notundaki arıtılmış kurşunun, %99,99 ise çinkonun 7901.11 alt pozisyonundaki eşiğidir. En güçlü tuzak %97,5 seçeneğidir: rafine bakır tanımında geçen sayıdır, fakat yalnız diğer elementler tablodaki sınırları aşmadığında yeterlidir. Bu nedenle doğru cevap '%99,85' seçeneğidir. (MD Fasıl 74 Notu; 74.02 ve 74.03 Açıklama Notları; GYK 1)",
+        kanit=(
+            f"{K} | Ağırlık itibariyle en az % 99,85 bakır içeren metal; veya"
+            f" || {K} | Ağırlık itibariyle, diğer herhangi bir elementin miktarı aşağıdaki tabloda gösterilen oranları aşmamak kaydıyla en az % 97,5 bakır içeren metal"
+            f" || {K} | Ağırlık üzerinden en az % 99.85 bakır ihtiva eden rafine edilmiş bakır"
+            f" || {K} | 74.02 - RAFİNE  EDİLMEMİŞ  BAKIR;  ELEKTROLİTİK  RAFİNE  İÇİN BAKIR ANOTLARI."
+            f" || {K} | Bakır muhtevası normal olarak ağırlık itibariyle % 98 dolayındadır."
+            f" || {K} | ağırlık itibariyle en az % 99,9 kurşun içeren metal anlaşılır."
+            f" || {K} | 7901.11 -- Ağırlık itibariyle % 99,99 veya daha fazla çinko içerenler"
+        ),
         yuva=[
-            "Fasıl 74 notu (b): bakır alaşımında diğer elementlerin toplamı %2,5'i geçer",
-            "Fasıl 74 notu (c): kuproalyajda %10'dan fazla bakır",
-            "Fasıl 74 notu (a): rafine bakır en az %97,5 bakır (tablo şartıyla)",
-            "Fasıl 74 notu (a): rafine bakır en az %99,85 bakır",
+            "Fasıl 74 notu (a): tablo şartıyla rafine bakır en az %97,5 bakır",
+            "74.02 açıklama notu: blister bakır normal olarak %98 bakır (rafine edilmemiş)",
+            "Fasıl 78 notu: arıtılmış kurşun en az %99,9 kurşun",
+            "7901.11 alt pozisyonu: %99,99 veya daha fazla çinko",
         ],
         yakinlik="BİREBİR",
-        tuzak=["YAKIN-SAYI", "İSTİSNA"],
+        tuzak=["YAKIN-SAYI", "ŞART"],
         duzey=["HATIRLAMA"],
         profil=[1, 4],
         olumsuz=False,

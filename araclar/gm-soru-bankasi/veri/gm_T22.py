@@ -497,35 +497,44 @@ Q = [
         cikmis="2023/19",
         kapsamli=False,
     ),
-    # 14 ---------------- 87.08: çerçevesiz emniyet camı 70.07 (olumsuz, eşya şıkları) ----------------
+    # 14 ---------------- 87.08: taşıt koltuğu 94.01 (XVII genel açıklama (C); olumsuz, eşya şıkları) ----------------
     dict(
         konu="Fasıl 86–89",
         blok="T22",
         kalip="GTİP",
-        z="Z",
-        madde="TGTC Bölüm XVII Genel Açıklamaları (C); Fasıl 87 Alt Pozisyon Notu; 87.08 Açıklama Notu",
-        cek="Çerçevesiz emniyet camları taşıt için şekil verilmiş olsa bile 70.07'de; çerçeveli veya ısıtma tertibatlı camlar 8708.22'de.",
+        z="O",
+        madde="TGTC Bölüm XVII Genel Açıklamaları (C); 87.08 Açıklama Notu",
+        cek="Nakil vasıtası koltukları taşıta ait olsa bile 94.01'de; sabit emniyet kemeri, güneşlik, motor kaputu ve susturucu 87.08'de.",
         kok=[
-            "Türk Gümrük Tarife Cetveline göre, binek otomobili için tasarlanmış olsa bile aşağıdakilerden hangisi 87.08 pozisyonunda sınıflandırılmaz?"
+            "Türk Gümrük Tarife Cetveline göre, binek otomobili için tasarlanmış ve yalnız bu taşıtta kullanılmaya uygun olsa bile aşağıdakilerden hangisi 87.08 pozisyonunda sınıflandırılmaz?"
         ],
-        d="Taşıtta kullanılmak üzere şekil verilmiş çerçevesiz emniyet camı",
+        d="Sürücü koltuğu",
         c=[
-            "Isıtma tertibatı içeren arka cam",
-            "Şişirme sistemli sürücü hava yastığı",
-            "Uzunluğuna kesilmiş ve teçhizatla donatılmış debriyaj kablosu",
-            "Süspansiyon şok emicisi (amortisör)",
+            "Taşıta sabit olarak donatılacak şekilde dizayn edilmiş emniyet kemeri",
+            "Güneşlik",
+            "Motor kaputu",
+            "Egzoz susturucusu",
         ],
         sirali=False,
-        g="XVII. Bölüm genel açıklamalarına göre tarifenin başka yerlerinde daha belirli şekilde yer alan bazı aksam ve parçalar nakil vasıtalarına ait olsa da bu Bölüm dışında kalır; çerçevesiz emniyet camları, nakil vasıtalarında kullanılmak üzere şekil verilmiş olsun olmasın, 70.07 pozisyonunda yer alır. Buna karşılık 87. Fasıl alt pozisyon notu 8708.22 alt pozisyonuna çerçeveli camları ve ısıtma tertibatı veya diğer elektrikli cihaz içeren çerçeveli olsun olmasın camları dahil eder; ısıtma tertibatlı arka cam bu nedenle 87.08 pozisyonunda kalır. Şişirme sistemli hava yastıkları, uzunluğuna kesilip teçhizatla donatılmış debriyaj kabloları ve süspansiyon şok emicileri de 87.08 açıklama notunda motorlu taşıt aksamı olarak sayılmıştır. En güçlü tuzak ısıtma tertibatı içeren arka camdır: o da camdır, fakat elektrikli tertibat içerdiği için çerçevesiz olsa bile 8708.22 alt pozisyonuna girer. Bu nedenle doğru cevap 'Taşıtta kullanılmak üzere şekil verilmiş çerçevesiz emniyet camı' seçeneğidir. (MD Bölüm XVII Genel Açıklamaları; Fasıl 87 Alt Pozisyon Notu; 87.08 Açıklama Notu)",
-        kanit=f"{K} | Çerçevesiz emniyet camları (nakil vasıtalarında kullanılmak üzere şekil verilmiş olsun olmasın) (70.07 pozisyonu). || {K} | Isıtma tertibatı veya diğer elektrikli veya elektronik cihaz içeren çerçeveli olsun olmasın ön, arka ve diğer camlar || {K} | Şişirme sistemli her çeşit hava yastıkları || {K} | Esnek dış kaplamadan ve hareketli iç kaplamadan oluşan debriyaj kabloları,fren kabloları, gaz kabloları ve benzeri kablolar. Bunlar uzunluğuna kesilmiş ve teçhizatla donatılmış şekilde sunulur. || {K} | Süspansiyon şok emicileri (friksyon, hidrolik vb..)",
+        g="XVII. Bölüm genel açıklamalarına göre tarifenin başka yerlerinde daha belirli bir şekilde yer alan bazı aksam, parça ve aksesuar nakil vasıtalarına ait olsa dahi bu Bölüm dışında kalır; nakil vasıtaları için koltuklar bunlardandır ve 94.01 pozisyonunda sınıflandırılır. 87.08 pozisyonu ise yalnız ve özellikle 87.01 ila 87.05 pozisyonlarındaki taşıtlarla kullanılmaya uygun olduğu açıkça belli olan ve XVII. Bölüm açıklamalarıyla hariç tutulmayan aksam, parça ve aksesuarı kapsar. Açıklama notu kişilerin korunması için motorlu taşıtlara sabit olarak donatılacak şekilde dizayn edilmiş emniyet kemerlerini, güneşlikleri ve motor kaputunu karoseri aksam ve aksesuarı olarak, susturucuları ve egzoz borularını da ayrıca sayar. En güçlü tuzak emniyet kemeridir: koltuğun bir donanımı gibi görünür ve koltukla birlikte düşünülür, fakat açıklama notunda açıkça sayılmıştır ve 8708.21 alt pozisyonunda yer alır. Bu nedenle doğru cevap 'Sürücü koltuğu' seçeneğidir. (MD Bölüm XVII Genel Açıklamaları (C); 87.08 Açıklama Notu; GYK 1 ve 6)",
+        kanit=(
+            f"{K} | Tarifenin başka yerlerinde daha belirli bir şekilde yer almış bulunan bazı aksam, parça ve aksesuar, nakil vasıtalarına ait olsa dahi bu Bölüm haricinde kalır."
+            f" || {K} | (12) Nakil vasıtaları için koltuklar (94.01 pozisyonu)."
+            f" || {K} | (i) Yalnız ve özellikle yukarıda belirtilen araçlarla kullanılmasının uygun olduğu açıkça belli olmalıdır."
+            f" || {K} | kişilerin korunması için motorlu taşıtlara sabit olarak donatılacak şekilde dizayn edilmiş emniyet kemerleri"
+            f" || {K} | harici port bagajlar, güneşlikler, elektriksiz ısıtıcı cihazlar"
+            f" || {K} | kapılar ve aksamı, motor kaputu"
+            f" || {K} | (M) Radyatörler, susturucular ve egsoz boruları, yakıt tankları vb."
+            f" || {K} | 8708.21 -- Emniyet kemerleri"
+        ),
         yuva=[
-            "Fasıl 87 alt pozisyon notu: ısıtma tertibatlı camlar 8708.22",
-            "87.08 (O): şişirme sistemli hava yastıkları",
-            "87.08 (N): uzunluğuna kesilmiş ve donatılmış debriyaj kabloları",
-            "87.08 (IJ): süspansiyon şok emicileri",
+            "87.08 açıklama notu ve 8708.21: taşıta sabit emniyet kemerleri",
+            "87.08 açıklama notu: karoseri aksesuarı güneşlikler",
+            "87.08 açıklama notu: karoseri aksamı motor kaputu",
+            "87.08 (M): susturucular ve egzoz boruları",
         ],
         yakinlik="BİREBİR",
-        tuzak=["İSTİSNA", "KOMŞU", "UNSUR"],
+        tuzak=["İSTİSNA", "KOMŞU"],
         duzey=["AYIRT"],
         profil=[3, 4],
         olumsuz=True,

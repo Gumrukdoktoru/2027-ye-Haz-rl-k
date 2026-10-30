@@ -6,6 +6,7 @@ Her hesap sorusu için veri kökteki rakamlardan yeniden hesaplanır:
 - doğru cevap (formül, kaynaktaki cümle: GVM = CIF + yurt dışı gider; KDV matrahı = CIF + yurt dışı + vergiler + yurt içi ...),
 - her çeldirici (adı konmuş tipik hata).
 Sonuçlar şıklardaki metinle karşılaştırılır; sıra artan olmalı, doğru şık B/C/D'de olmalıdır.
+15'te dampinge karşı vergi gümrük vergisi matrahı üzerinden hesaplanır ve KDV matrahına girer (GV + DKV + KDV toplamı).
 3'te iki kalemin min-max karşılaştırması kalem bazında ve toplamda aynı sonucu vermelidir (kaynak yöntemi açıkça
 söylemediği için); 8'de kök Gümrük Kanunu'ndaki gümrüklenmiş değer tanımını (CIF + gümrük vergileri) açıkça verir.
 """
@@ -177,6 +178,33 @@ H[14] = (
         * p(20),
     },
 )
+# 15: GV + dampinge karşı vergi + KDV — DKV de GV matrahı üzerinden; DKV KDV matrahına girer
+cif, yd, yi = D(60000), D(4000), D(1000)
+
+
+def gv_dkv_kdv(
+    gvm_, yurt_ici, dkv_ek_gv=False, dkv_ek_yi=False, dkv_kdvde=True, gv_kdvde=True
+):
+    """GV ve DKV GVM üzerinden; KDV matrahı = GVM + GV + DKV + yurt içi gider.
+
+    dkv_ek_gv / dkv_ek_yi: DKV matrahına GV / yurt içi gider eklenmiş (hata);
+    dkv_kdvde / gv_kdvde: DKV / GV KDV matrahına eklenmiş (False ise hata)."""
+    gv_ = gvm_ * p(5)
+    dkv = (gvm_ + (gv_ if dkv_ek_gv else 0) + (yurt_ici if dkv_ek_yi else 0)) * p(30)
+    kdv_m = gvm_ + (gv_ if gv_kdvde else 0) + (dkv if dkv_kdvde else 0) + yurt_ici
+    return gv_ + dkv + kdv_m * p(20)
+
+
+g = gvm(cif, yd)
+H[15] = (
+    gv_dkv_kdv(g, yi),
+    {
+        "DKV KDV matrahında yok": gv_dkv_kdv(g, yi, dkv_kdvde=False),
+        "GV KDV matrahında yok": gv_dkv_kdv(g, yi, gv_kdvde=False),
+        "DKV matrahına yurt içi": gv_dkv_kdv(g, yi, dkv_ek_yi=True),
+        "DKV matrahına GV": gv_dkv_kdv(g, yi, dkv_ek_gv=True),
+    },
+)
 # 16: KKDF
 H[16] = (
     D(80000) * D("32.00") * p(6),
@@ -235,6 +263,10 @@ for i, (dogru, celd) in sorted(H.items()):
         sorun.append("doğru şık B/C/D değil")
     if tl(dogru) not in q["g"]:
         sorun.append("gerekçede doğru sonuç geçmiyor")
+    if i == 15:  # yeni soru: her çeldirici sonucu gerekçede adıyla geçmeli
+        for ad, val in celd.items():
+            if tl(val) not in q["g"]:
+                sorun.append(f"gerekçede çeldirici sonucu geçmiyor: {ad}={tl(val)}")
     durum = "TAMAM" if not sorun else "HATA: " + "; ".join(sorun)
     hata += bool(sorun)
     print(

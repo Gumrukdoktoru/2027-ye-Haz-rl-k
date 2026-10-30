@@ -6,7 +6,6 @@ GK = "42-gk-cezalar.txt"
 UZ = "43-itiraz-uzlasma.txt"
 TH = "40-yukumluluk-tahakkuk-teblig-odeme.txt"
 TF = "41-teminat-faiz-geri-verme.txt"
-AN = "21-antrepo-rejimi-isleticiligi.txt"
 KDV = "61-kdv-kanunu-oranlar.txt"
 KONU = "Fark Vergi, Cezalar, Uzlaşma ve Gecikme Zammı Hesabı"
 Q = [
@@ -621,45 +620,51 @@ Q = [
         cikmis="2025/19; 2021/32",
         kapsamli=False,
     ),
-    # 16 ---------------- Yaygın götürü teminat: dört antrepo → %75 indirimi yok ----------------
+    # 16 ---------------- GK 234/1-c: maddi hesap hatasından doğan noksan kıymet → fark vergilerin yarısı ----------------
     dict(
         konu=KONU,
         blok="H04",
         kalip="HESAP",
         z="Z",
-        madde="Gümrük Yönetmeliği md. 527 (antrepo götürü ve yaygın götürü teminat)",
-        cek="Her antrepo: 1.000 m²/2.000 m³'e kadar 3.000.000 TL, sonraki her dilim 1.000.000 TL (kesir tamamlanır); %75 yalnız 5 ve üzeri antrepoda.",
+        madde="4458 sayılı Gümrük Kanunu md. 234/1-c (maddi hesap hatası), 234/1-b; fark vergi hesabı (GV + KDV); 3065 sayılı KDV Kanunu md. 21",
+        cek="Maddi hesap hatasından doğan noksan kıymet beyanında ceza fark vergilerin (GV ve KDV farkı) yarısıdır; kıymet noksanlığındaki üç kat uygulanmaz.",
         kok=[
-            "(D) antrepo işleticisi, dört antreposunu kapsayacak şekilde yaygın götürü teminat vermek istemektedir. Antrepoların büyüklükleri şunlardır:",
-            "- 1. antrepo: 900 m²",
-            "- 2. antrepo: 3.200 m²",
-            "- 3. antrepo: 15.000 m³",
-            "- 4. antrepo: 7.400 m²",
-            "Buna göre verilmesi gereken yaygın götürü teminat tutarı kaç TL'dir?",
+            "Serbest dolaşıma giriş beyannamesinin teslimden sonra kontrolünde gümrük idaresince şu tespitler yapılmıştır:",
+            "- Faturadaki kalem tutarlarının toplanmasında yapılan maddi hesap hatası nedeniyle gümrük kıymeti 900.000 TL yerine 860.000 TL beyan edilmiştir; noksanlığın başka bir nedeni yoktur.",
+            "- Gümrük vergisi %10; KDV %20 (eşya başka bir vergiye tabi değildir)",
+            "Buna göre fark vergilerden ayrı olarak alınacak para cezası tutarı kaç TL'dir?",
         ],
-        d="29.000.000",
-        c=["21.750.000", "26.000.000", "33.000.000", "36.000.000"],
+        d="6.400",
+        c=["2.000", "6.000", "12.800", "38.400"],
         sirali=True,
-        siklar=["21.750.000", "26.000.000", "29.000.000", "33.000.000", "36.000.000"],
-        g="Her antrepo için götürü teminat ayrı hesaplanır: 1.000 m² veya 2.000 m³'e kadar 3.000.000 TL; 1.000 m²'den sonraki her 1.000 m² ve 2.000 m³'ten sonraki her 2.000 m³ için 1.000.000 TL eklenir, dilimin altındaki artışlar tam dilime tamamlanır. 1. antrepo (900 m²) = 3.000.000 TL. 2. antrepo: 3.200 − 1.000 = 2.200 m² → 3 dilim; 3.000.000 + 3 × 1.000.000 = 6.000.000 TL. 3. antrepo: 15.000 − 2.000 = 13.000 m³ → 7 dilim; 3.000.000 + 7 × 1.000.000 = 10.000.000 TL. 4. antrepo: 7.400 − 1.000 = 6.400 m² → 7 dilim; 10.000.000 TL. Toplam = 3.000.000 + 6.000.000 + 10.000.000 + 10.000.000 = 29.000.000 TL. Toplamın %75'i kadar yaygın götürü teminat ancak antrepo sayısı 5 ve üzeri olduğunda verilebilir; dört antrepoda bu indirim yoktur. Kesirleri tamamlamayan hesap 26.000.000, ilk 1.000 m² ve 2.000 m³'ü de dilimlere bölen hesap 33.000.000, hacimle ölçülen antrepoyu metrekare gibi hesaplayan hesap 36.000.000 TL bulur. En güçlü tuzak 21.750.000 sonucudur: dört antrepoya da %75 oranı uygulanmıştır (29.000.000 × %75). Bu nedenle doğru cevap '29.000.000' seçeneğidir. (MD GY 527)",
-        kanit=f"{AN} | a) 1.000 m² veya 2.000 m³'e kadar olanlar için 3.000.000 TL. || {AN} | b) 1.000 m²'den sonraki her 1.000 m² için 1.000.000 TL (1.000 m²'nin altındaki artışlar 1.000 m²'ye tamamlanır). || {AN} | c) 2.000 m³'den sonraki her 2.000 m³ için 1.000.000 TL (2.000 m³'ün altındaki artışlar 2.000 m³'e tamamlanır). || {AN} | (4) Birden fazla antreposu bulunan antrepo işleticilerince, birden fazla antrepoyu kapsayacak şekilde yaygın götürü teminat verilebilir. || {AN} | (5) Antrepo işleticilerince yaygın götürü teminatın kullanılacağı antrepo sayısının 5 ve üzeri olduğu durumda, ikinci fıkra uyarınca hesaplanan götürü teminatların toplam tutarının % 75'i kadar yaygın götürü teminat verilebilir.",
+        siklar=["2.000", "6.000", "6.400", "12.800", "38.400"],
+        g="Kıymeti üzerinden vergilendirilen eşyanın kıymeti noksan beyan edilmişse ceza kural olarak vergi farkının üç katıdır; ancak noksan kıymet beyanı maddi hesap hatasından doğmuşsa bu farka ait ithalat vergilerinden başka vergi farkının yarısı tutarında para cezası alınır. Fark vergiler düzeltme yoluyla beyannameye eklenir ve gümrük vergisi farkı ile KDV farkını birlikte kapsar. Kıymet farkı = 900.000 − 860.000 = 40.000 TL. GV farkı = 40.000 × %10 = 4.000 TL; KDV farkı = (40.000 + 4.000) × %20 = 8.800 TL; fark vergiler = 4.000 + 8.800 = 12.800 TL. Ceza = 12.800 / 2 = 6.400 TL. KDV farkını hesaba katmayan hesap 4.000 / 2 = 2.000 TL, KDV farkını gümrük vergisi farkını matraha eklemeden hesaplayan hesap (4.000 + 8.000) / 2 = 6.000 TL, cezayı fark kadar sayan hesap 12.800 TL bulur. En güçlü tuzak 38.400 TL'dir: noksanlığın maddi hesap hatasından doğduğu görülmeyip kıymet noksanlığına ait üç kat ceza uygulanmıştır (12.800 × 3). Bu nedenle doğru cevap '6.400' seçeneğidir. (MD GK 234; KDVK 21)",
+        kanit=(
+            f"{H} | Satış birimine göre miktar itibarıyla % 5'i geçmeyen bir fark ile maddi hesap hatasından doğan noksan kıymet beyanlarında"
+            f" || {H} | Fark vergilerin YARISI KADAR idari para cezası kesilir."
+            f" || {H} | Fark vergiler düzeltme yoluyla beyannameye eklenir."
+            f" || {H} | 2.) Fark Vergiler hesaplanıyor. ( GV + İGV + ÖTV + EMY + KDV vb )"
+            f" || {GK} | bu farklara ait ithalat vergilerinden başka vergi farkının yarısı tutarında para cezası alınır."
+            f" || {GK} | bu noksanlığa ait ithalat vergilerinden başka vergi farkının üç katı para cezası alınır."
+            f" || {KDV} | İthalat sırasında ödenen HER TÜRLÜ VERGİ, RESİM, HARÇ ve PAYLAR,"
+        ),
         yuva=[
-            "%75 indirim dört antrepoya uygulanmış",
-            "Dilim altındaki artışlar tamamlanmamış",
-            "İlk 1.000 m² ve 2.000 m³ de dilimlere bölünmüş",
-            "Hacimle ölçülen antrepo metrekare ölçüsüyle hesaplanmış",
+            "KDV farkı fark vergilere katılmamış (yalnız GV farkının yarısı)",
+            "KDV farkı hesabında GV farkı matraha eklenmemiş",
+            "Ceza fark kadar sayılmış",
+            "Maddi hata görülmeyip kıymet noksanlığına ait üç kat ceza uygulanmış",
         ],
         yakinlik="ÇIKARIM",
-        tuzak=["İSTİSNA", "AD-HESAP", "ŞART"],
+        tuzak=["İSTİSNA", "AD-HESAP", "YAKIN-SAYI"],
         duzey=["UYGULAMA"],
-        profil=[1, 3, 4],
+        profil=[3, 4],
         olumsuz=False,
         vaka=True,
         baslangic=False,
         eksen=0,
-        ayna="",
+        ayna="H04-03/04 (maddi hata olmayan noksan kıymet: üç kat) ↔ H04-16 (maddi hesap hatası: yarısı)",
         guncellik="",
-        cikmis="2022/41; 2023/99; 2024/84",
+        cikmis="",
         kapsamli=False,
     ),
 ]

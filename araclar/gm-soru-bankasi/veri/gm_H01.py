@@ -968,52 +968,55 @@ Q = [
         cikmis="2021/89; 2022/98; 2024/27",
         kapsamli=False,
     ),
-    # 20 ---------------- GK 27 ilave mi, GK 28 hariç mi (klasik) ----------------
+    # 20 ---------------- kendi kendini taşıyan gemi: giriş limanına kadar akaryakıt, liman, personel giderleri kıymete girer (klasik) ----------------
     dict(
         konu="Gümrük Kıymeti Hesabı",
         blok="H01",
         kalip="KAPSAM",
-        z="K",
-        madde="4458 sayılı GK md. 27, 28",
-        cek="Alıcının üstlendiği işçilik ve malzeme dahil ambalaj bedeli eklenir; giriş sonrası nakliye, finansman faizi, satın alma komisyonu, ithalat vergileri eklenmez.",
+        z="O",
+        madde="4458 sayılı GK md. 27, 28; 2008/24 sayılı Genelge (satın alındıktan sonra ilk kez ülkeye gelen deniz ve hava taşıtları)",
+        cek="Kendi kendini taşıyarak ilk kez gelen gemide giriş limanına kadar akaryakıt, yer/liman hizmetleri ve personel giderleri nakliye gideri olarak kıymete girer.",
         kok=[
-            "4458 sayılı Gümrük Kanunu'na göre, ithal eşyasının fiilen ödenen veya ödenecek fiyatına dahil edilmemiş olup alıcı tarafından üstlenilen aşağıdaki giderlerden hangisi gümrük kıymetine ilave edilir?"
+            "2008/24 sayılı Genelge'ye göre, satın alındıktan sonra yurt dışında teslim alınıp kendi kendini taşımak suretiyle ilk kez Türkiye'ye getirilen bir kuru yük gemisinin gümrük kıymeti belirlenirken alıcı tarafından üstlenilen aşağıdaki giderlerden hangisi nakliye gideri olarak gümrük kıymetine dahil edilir?"
         ],
-        d="İşçilik ve malzeme giderleri dahil ambalaj bedeli",
+        d="Türkiye'deki giriş limanına kadar yapılan sefere ait personel giderleri",
         c=[
-            "Eşyanın Türkiye Gümrük Bölgesine giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri",
-            "İthal eşyasının satışıyla ilgili olarak bir finansman anlaşması uyarınca alıcı tarafından üstlenilen faiz giderleri",
-            "Satın alma komisyonları",
-            "Eşyanın ithali veya satışı nedeniyle Türkiye'de ödenecek ithalat vergileri",
+            "Yolculuk öncesinde uzun yola hazırlık için yaptırılan bakım ve servis hizmeti bedeli",
+            "Türkiye'deki giriş limanına varıştan sonra başka bir Türk limanına gitmek için sarf edilen akaryakıt bedeli",
+            "Gemi nedeniyle Türkiye'de ödenecek ithalat vergileri",
+            "Geminin satın alınmasında alıcıyı yurt dışında temsil eden kişiye ödenen satın alma komisyonu",
         ],
         sirali=False,
-        g="Gümrük Kanunu'na göre fiilen ödenen veya ödenecek fiyata dahil edilmemiş olup alıcı tarafından üstlenilen komisyon ve tellâliye, tek eşya muamelesi gören kapların maliyeti ve işçilik ile malzeme giderleri dahil ambalaj bedeli fiyata eklenir. Buna karşılık, fiyattan ayırt edilebilmeleri koşuluyla giriş yerine varıştan sonraki nakliye ve sigorta giderleri, finansman anlaşması uyarınca alıcının üstlendiği faiz giderleri, satın alma komisyonları ve eşyanın ithali veya satışı nedeniyle Türkiye'de ödenecek ithalat vergileri gümrük kıymetine dahil edilmez. En güçlü tuzak finansman faizidir: alıcının satıcıya yaptığı bir ödeme gibi görünür, fakat yazılı anlaşma ve faiz oranı koşulları sağlandığında kıymete dahil edilmeyen giderlerdendir. Bu nedenle doğru cevap 'İşçilik ve malzeme giderleri dahil ambalaj bedeli' seçeneğidir. (MD GK 27 ve 28)",
-        kanit=" || ".join(
-            [
-                f"{H} | a) Aşağıdaki unsurların eşyanın fiilen ödenen veya ödenecek fiyatına dahil edilmemiş, ancak alıcı tarafından üstlenilen bölümü;",
-                f"{H} | iii) İşçilik ve malzeme giderleri dahil ambalaj bedeli;",
-                K_GK28,
-                f"{H} | c) İthal eşyasının satışıyla ilgili olarak bir finansman anlaşması uyarınca alıcı tarafından üstlenilen faiz giderleri;",
-                f"{H} | f) Eşyanın ithali veya satışı nedeniyle Türkiye'de ödenecek ithalat vergileri.",
-            ]
+        g="2008/24 sayılı Genelge'ye göre satın alındıktan sonra ilk kez ülkeye gelen deniz ve hava yolculuk taşıtlarında, o sefere mahsus olmak üzere Türkiye'deki giriş liman veya yerine kadar sarf edilen akaryakıt bedeli ile yer/liman hizmetleri ve personel giderleri nakliye gideri olarak gümrük kıymetine dahil edilir; kendi kendini taşıyan gemide ayrı bir navlun ödenmediği için navlunun yerini bu giderler alır. Yolculuk öncesinde uzun yola hazırlık için yaptırılan bakım ve servis hizmeti Genelge'nin saydığı giderler arasında yoktur; bu tür bir gemi ithalatının çözümlü örneğinde de kıymet, mal bedeline akaryakıt, liman ve personel giderleri eklenerek bulunmuş, bakım ve servis bedeli eklenmemiştir. Akaryakıt gideri Türkiye'deki giriş limanına kadarki seferle sınırlıdır; Gümrük Kanunu da giriş yerine varıştan sonraki nakliye giderlerini, satın alma komisyonlarını ve eşyanın ithali nedeniyle Türkiye'de ödenecek ithalat vergilerini, fiyattan ayırt edilebilmeleri koşuluyla gümrük kıymetine dahil etmez. En güçlü tuzak bakım ve servis hizmeti bedelidir: yolculuk için yapılmış bir harcama olduğundan nakliye gideri sanılır, fakat Genelge nakliye gideri olarak yalnız akaryakıt, yer/liman hizmetleri ve personel giderlerini sayar. Bu nedenle doğru cevap 'Türkiye'deki giriş limanına kadar yapılan sefere ait personel giderleri' seçeneğidir. (MD GK 27, 28; Genelge 2008/24)",
+        kanit=(
+            "H04-cezalar-uzlasma.txt | Satın alındıktan sonra ilk kez ülkeye gelen deniz ve hava"
+            " || H04-cezalar-uzlasma.txt | taşıtlarında o sefere mahsus olmak üzere; Türkiye’deki giriş"
+            " || H04-cezalar-uzlasma.txt | liman veya yerine kadar sarf ettikleri akaryakıt bedeli ile"
+            " || H04-cezalar-uzlasma.txt | yer/liman hizmetleri ve personel giderlerinin nakliye"
+            " || H04-cezalar-uzlasma.txt | gideri olarak gümrük kıymetine dahil edilmesi"
+            " || H04-cezalar-uzlasma.txt | öncesinde uzun yola hazırlık için bakım ve servis hizmeti için"
+            " || H04-cezalar-uzlasma.txt | = 1.000.000 + 100.000 + 5.000 + 30.000 = 1.135.000 USD"
+            f" || {H} | giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri"
+            f" || {H} | e) Satın alma komisyonları;"
+            f" || {H} | f) Eşyanın ithali veya satışı nedeniyle Türkiye'de ödenecek ithalat vergileri."
         ),
         yuva=[
-            "GK 28: giriş sonrası nakliye ve sigorta",
-            "GK 28: finansman faizi",
-            "GK 28: satın alma komisyonları",
-            "GK 28: Türkiye'de ödenecek ithalat vergileri",
+            "Çözümlü gemi örneği: yolculuk öncesi bakım ve servis bedeli kıymete eklenmemiş (Genelge yalnız akaryakıt, liman, personel giderlerini sayar)",
+            "Genelge: akaryakıt Türkiye'deki giriş limanına kadar; GK 28: giriş yerine varıştan sonraki nakliye dahil edilmez",
+            "GK 28: Türkiye'de ödenecek ithalat vergileri dahil edilmez",
+            "GK 28: satın alma komisyonları dahil edilmez",
         ],
-        yakinlik="BİREBİR",
-        tuzak=["LİSTE-DIŞI", "KOMŞU"],
-        duzey=["TANIMA"],
-        profil=[1],
+        yakinlik="PARAFRAZ",
+        tuzak=["LİSTE-DIŞI", "SAĞDUYU"],
+        duzey=["AYIRT"],
+        profil=[3],
         olumsuz=False,
         vaka=False,
         baslangic=False,
         eksen=0,
         ayna="",
         guncellik="",
-        cikmis="2021/4",
+        cikmis="2023/74",
         kapsamli=False,
     ),
     # 21 ---------------- antrepoda muhafaza masrafı: ayrı satırda eklenmez, tek satırda kıymete girer ----------------
