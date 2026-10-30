@@ -1,0 +1,12 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "Ek-1 belge listesi, belgesiz ihracat kredilerinin 24 ay + 6 ay istisna süresi ve adat hesabı, %10 asgari taahhüt gerçekleştirme kuralı, VRHİB müeyyide ve müteselsil sorumluluk hükmü, 10 yıllık belge saklama, DTSŞ'nin ihracat aracılığı ve aracılı ihracatta sorumluluk (doğrudan ve münhasıran imalatçı/tedarikçi) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 2, vaka 1 (kota 3/2/2/1 birebir). Kökü olumsuz 3/8 (%38).",
+  "Çıkmış GM sorusu: gm_sorular.csv'de İhracat Sayılan Satış ve Teslimler Tebliği, 99/13812 Karar ve DTSŞ Tebliğine düşen soru yok; set Prompt 5 öncelik sırasıyla (sayı, süre, makam, kapalı liste) kuruldu.",
+  "Kaynak üç düzenlemeden oluşuyor; sorular dengeli dağıtıldı: 2005/2 Tebliğ S1-S4, 99/13812 Karar S5-S6, 2025/7 DTSŞ Tebliği S7-S8.",
+  "Güncellik: 99/13812 Kararın müeyyideli kapatmaya itiraz fıkrası 19.12.2025 tarihli CK ile son hâlini aldı (60 gün) → S5 (30 günlük geçiş hükmü çeldirici); DTSŞ Tebliği 19.12.2025'te yayımlandı → S7 (2.000.000 TL geçiş sermayesi saklı istisnalı vaka) ve S8. Karar md. 4'teki 05.09.2026 değişikliğinin içeriği kaynakta ayrıştırılamadığından soru yapılmadı; 'diğer kanunlarda yer alan vergi, resim ve harçlar' genel ifadesi nedeniyle istisna kapsamı listesi liste dışı soruya uygun bulunmadı.",
+  "Kaynak sorunları: Karar md. 4'te Damga Vergisi ve Harçlar Kanunlarının sayıları ile Tebliğ md. 3'te DİR Kararının sayısı silinmiş; bu sayılar üzerinden soru yazılmadı. Kanıt alıntılarında kaynaktaki 'statünün sonra erdiği' yazımı aynen korundu.",
+  "Önermeli kombinasyonları: S3 'I ve III', S6 'I, III ve IV'; en kapsamlı şık doğru 0. Kökte '99/13812' sayısı madde no denetimine takıldığı için Kararın tam adı kullanıldı."
+ ]
+}

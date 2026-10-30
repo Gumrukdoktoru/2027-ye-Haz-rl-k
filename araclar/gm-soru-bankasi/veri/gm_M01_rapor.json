@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2021/6 (çalışma saatleri), 2022/25 (gümrük müdürlüğü sınıfları), 2021/59 ve 2021/73 (gümrük tarifesi), 2025/24 (statü belgesi): bu bölümün kaynak metninde yok; ilgili bölümlerin (beyan, tarife, statü) konusu."
+ ],
+ "giremeyen": "GK 6'nın karar talebi (30 gün, süre aşımı, gerekçeli ret), GY 27/3-4'teki rejime girmiş eşya istisnası, GY 580/A yanlış izahat şartları ve bölge müdürlüğüne başvuru, BTB'nin altı yıl/BMB'nin üç yıl geçerliliği ve altı aylık kullanım hakkı, tarife bilgisinin bağlayıcı olmaması ve heyet yapısı, GK 14 ay/hafta hesabı ve posta tarihi, GY 31 mücbir sebep listesi ile GY 318 izin belgesi saklama ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+  "Tip: olumsuz 4, klasik 1, önermeli 2, diğer 2 (tanım 1, vaka 1). Kota 9 soru için 4/2/2/1; GK genel bölümünde olumsuz kök tavanda tutuldu, belge saklama alanı (2022/54) başlangıç anını ölçen vaka olarak yazıldığı için klasik -1, diğer +1 kaydı.",
+  "Önermeli kombinasyonları: S3 'I, II ve IV', S6 'I ve III'; en kapsamlı şık doğru 0; ikisi de 'doğrudur' yönlü.",
+  "Çıkmış alan eşlemesi: 2021/1 → S1 (çıkmışın sorduğu karar talebi fıkraları yerine iptal-yürürlük fıkrası); 2021/2, 2021/13 → S2 (risk analizi tanımı), S3 (risk tanımı ve risk analizine dayalı kontrol); 2021/72 → S4 (gümrük vergileri ve yükümlülük tanımları, gümrüklenmiş değer); 2021/3 → S5 (Yönetmelik yerine Kanun'un gizlilik hükümleri); 2021/16, 2022/84 → S6 (BTB geçersizlik anı ve düzenleyen bölge müdürlükleri, Seri 14); 2022/54 → S8 (nihai kullanımda başlangıç anı, vaka).",
+  "İkiz eksen 14 (BTB ↔ BMB): S6 ve S7. Başlangıç anı ölçen 5 soru (S1, S6, S7, S8, S9).",
+  "Güncellik sorusu yok: kaynakta son 12 ayda (Ekim 2025 – Ekim 2026) değişen hüküm görünmüyor; en yeni değişiklik dipnotları 2013–2018 tarihli.",
+  "Kaynak: bazı madde atıflarında numaralar silinmiş ('Kanunun maddesi', 'Gümrük nin maddesine'); bu atıflara dayanan soru yazılmadı. Tebliğlerde eski kurum adları (Müsteşarlık, Gümrük ve Muhafaza Başmüdürlüğü) kaynaktaki gibi kullanıldı; şıklarda eski-yeni ad çifti rakip yapılmadı."
+ ]
+}

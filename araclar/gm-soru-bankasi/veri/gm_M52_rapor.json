@@ -1,0 +1,16 @@
+{
+  "bulunamayan": [
+    "2023/57 (Seri No:10 belge–ülke–sonradan kontrol süresi eşleştirmesi): Seri No:10 Tebliği bu bölümün kaynağında yok; bölüm kaynağındaki karşılığı Kore Yönetmeliğinin 'on ay' kuralıdır ve S2'de Malezya'nın 90/180 gün kuralıyla birlikte ölçüldü.",
+    "2024/35, 2024/41, 2023/47, 2025/33 (anlaşma–menşe belgesi eşleştirmeleri): eşleştirmenin bütünü M54 (özet tablo) bölümünün konusudur; bu bölümde yalnız 'Güney Kore – menşe beyanı' bilgisi S7'de ölçüldü."
+  ],
+  "giremeyen": "Kore ve Malezya yetersiz işlem listelerinin farkları (Malezya'da su ilavesi ve seyreltme, Kore'de test ve kalibrasyon), setler ve muhasebesel ayrım, etkisiz unsurlar, onaylanmış ihracatçı koşulları, menşe ispat belgesinin bölge müdürlüğünce bir ay uzatılması, Malezya geçici maddesi (1/4/2020–1/4/2023 ihracatları için bir yıllık sonradan belge düzenleme) ve 'kendi gemileri' yüzde 50 koşulu ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+    "Tip: olumsuz 2, klasik 3, önermeli 2, eşleştirme 1; kota 3/2/2/1 hedefinden olumsuz −1, klasik +1 (±1 içinde). Kökü olumsuz toplam 3/8 (%38).",
+    "Önermeli kombinasyonları: S2 'I ve III' (B), S7 'I, II ve IV' (C); en kapsamlı şık doğru değil.",
+    "Güncellik: Malezya Yönetmeliğinin 08.10.2025 tarihli ve 33041 sayılı RG değişikliği (sonradan kontrol, ithalatçıdan bilgi talebi, Ek-5 form) S2 ve S3'te ölçüldü; S3 başlangıç anını (talep yazısının tarihi) ölçer.",
+    "İkiz eksen 1 (Kore ↔ Malezya): sonradan kontrol süreleri (S2), sonradan hazırlanan beyan süresi iki yıl ↔ 12 ay (S4), saklama süresi beş yıl ↔ üç yıl (S7).",
+    "Çıkmış alan eşlemesi: 2025/32 (Malezya teknik ret) → S4 (ret sonucu, farklı yön) ve S1 (Kore'de sonradan kontrolsüz ret halleri); 2023/54 (Malezya Menşe Belgesinin gümrükçe vizesi) → S6; 2023/58 (ibraz/geçerlilik süreleri) → S4, S7; 2024/35, 2024/41, 2023/47, 2025/33 → S7-I.",
+    "Kaynak: Kore Yönetmeliğinin ekleri ve ürüne özgü işçilik listeleri kaynakta yok; listelere dayanan soru yazılmadı."
+  ]
+}

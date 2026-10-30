@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2025/76: Ek-9 Yolcu Beraberi Kişisel Eşya Listesinin içeriği (çay, tütün, alkol, müzik aleti, kozmetik miktarları) bölüm kaynağında yok; Karar yalnız listeye atıf yapıyor. Bilgi alanının kaynaktaki karşılığı (Ek-9 dışı kişisel ve hediyelik eşya, 430/150 Avro, ayda 10 defa) S5'te ölçüldü.",
+  "2022/69, 2024/70: geri getirme süresinin taşıma moduna göre başlangıcı (deniz yolunda konşimento vb.) kaynakta yok; kaynaktaki karşılığı (fiilen ihraç tarihi, partilerde ayrı başlangıç) S13'te ölçüldü.",
+  "2023/84: GK 167 kesin dönüşte kullanılmış araç kıymeti hesabı (yıllara göre indirim oranları) kaynakta yok; hesap bölümlerinin konusudur."
+ ],
+ "giremeyen": "GK 167/3 milli savunma muafiyeti ve Karar md. 67 kapsamı, öğrenci ve miras muafiyetinin kapsam dışı eşyası, hayır kurumlarının temel ihtiyaç maddeleri (kahve, çay ve motorlu araç istisnası), tıbbi cihaz ve bilimsel malzeme şartları, standart depo fazlasında ÖTV'nin %50 fazlası ve ayda dört giriş kuralı (2023/37'de soruldu), mücbir sebep tanımı, imha-terk hükümleri ve Mahrece İade Tebliği (kullanılmamışlığın Ticaret ve Sanayi Odası ekspertiziyle tevsiki, 44 no.lu sütun şerhi) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 4, klasik 3, önermeli 3 (biri 'yanlıştır' yönlü), vaka 2, boşluk 1; kota 5/4/2/2 her sütunda ±1 içinde. Muafiyet alanı GM'de 20+ çıkmış soruyla en yoğun alanlardan biri olduğundan çok sayıda bilgi alanını tek soruda toplamak için önermeli +1, diğer +1 kaydırıldı. Kökü olumsuz 5/13 (%38).",
+  "Çıkmış alan → soru: 2021/37 → S1; 2022/71, 2024/21 → S2 (vaka, saklı beş yıl yasağı); 2025/73 → S3; 2024/81, 2025/74 → S4 (vaka, evlilik öncesi partide teminat; çıkmış önerme kümeleri kullanılmadı); 2023/35 → S5; 2022/70, 2025/77 → S6; 2021/27 → S7; 2023/38, 2024/80 → S8 (çıkmışta kullanılmamış fıkralar: izinli devir, engelli eşyasında üç yıl, varise intikal, yakıt yasağı); 2023/36, 2024/7 → S9 (aynı listenin çıkmışta sorulmamış unsuru); 2023/37 → S10 (çıkmıştaki ayda dört giriş fıkrası yerine litre sınırları); 2025/75 → S11; 2021/22, 2021/76, 2024/61 → S12; 2021/24, 2023/27, 2024/69, 2022/69, 2024/70 → S13.",
+  "Güncellik: Karar md. 62/1 07.01.2026 tarihli CK ile değişti (yürürlük 06.02.2026) → S6; 2025/77'nin resmî cevabı (gerçek kişiye 30 Avro, %30, ilave %20) güncel metinde yer almadığından soru güncel metne göre kuruldu. Karar md. 89/4 UEFA hükmü 05.12.2025'te eklendi → S11.",
+  "Kaynak sorunları: Karar md. 107/4-a, 107/6, 107/7, 107/8, 108, 109 ve 110'da madde numaraları silinmiş; 107/8'deki 'motorlu nakil vasıtaları' hükmünün hangi maddeye ait olduğu belirlenemediği için sorulmadı. GK 167/4'te tutar '[145]' ve 167/6-a'da tutar boş; bu tutarlar sorulmadı.",
+  "Önermeli kombinasyonları: S3 'II ve IV' (yanlış yönlü), S8 'I, II ve IV', S13 'I, II, III ve V'; en kapsamlı şık doğru 0."
+ ]
+}

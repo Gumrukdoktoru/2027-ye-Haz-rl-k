@@ -1,0 +1,12 @@
+{
+  "bulunamayan": [
+    "2021/60 (deniz konşimentosu), 2021/62 (döviz kuru tanımı), 2023/62 (Milletlerarası Mal Satımına İlişkin BM Antlaşmasının adı): bölüm kaynağında bu konular yok; soru yazılmadı."
+  ],
+  "giremeyen": "FCA–FOB konteyner yükleme masrafı farkı, CFR–CIF farkı (sigortayı alıcı yapar), Incoterms 2020'de CIP sigortasının artırılması (Institute Cargo Clauses A), DAP/DDP sigorta ve kıymet notu, DAT'ın mülga oluşu ve 2011 öncesi mülga kurallar (DAF, DES, DEQ, DDU), kabul kredili ödemenin türleri ve aval, akreditif çeşitleri (kırmızı/yeşil şartlı, rotatif, karşılıklı, vadeli), özel takas ve bağlı muamele tanımları, BPO ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 1, tanım 1, vaka 1 — kota 3/2/2/1'den önermeli −1, diğer +1 (±1 içinde). GM alan × tip tablosunda teslim şekillerinde önermeli soru yok (olumsuz 6, klasik 3, tanım 3, vaka 1); kaydırma bu yönde yapıldı. Kökü olumsuz toplam 3/8 (%38).",
+    "Kök sorunu: Incoterms ve ödeme şekilleri bir mevzuat hükmü değildir; kontrol aracı ise M bölümlerinde kökte Kanun/Yönetmelik/Tebliğ/Karar arar. Incoterms sorularında kök, teslim şekli kodunun gümrük beyannamesine yazılmasını düzenleyen Gümrük Yönetmeliği eki beyanname kullanma talimatına bağlandı (kanıt: H05-beyanname-kutulari-kodlar.txt, '20 no.lu kutu: Teslim şekli ... teslim şekline ilişkin kod yazılır'); ödeme şekli sorularında kök, ödeme şekillerini sayan 32 sayılı Karara ilişkin İhracat Bedelleri Tebliği ve İthalat Genelgesine bağlandı (kanıt: 59-tpkk-doviz-nakit.txt). Ödeme şekillerinin listesi M59 setinde ayrıca sorulmadı.",
+    "Çıkmış alan eşlemesi: 2022/29, 2022/65, 2024/1 (taşıma türlerine göre kurallar) → S6 (önermeliye çevrildi, çıkmış olumsuz kurgu kopyalanmadı); 2025/11 (DPU tanımı) → S2 (DDP tanımı, DPU/DAP çeldirici); 2023/65 (senaryo) → S3 (farklı senaryo: konteyner, sigorta, CIP); 2021/67, 2023/64 (alıcı/satıcı yükümlülüğü sırası) → S1, S4; 2023/71 (ICC) → S5; 2021/52, 2021/64 (ödeme şekilleri, karşı ticaret) → S7, S8.",
+    "Güncellik: kaynakta son 12 ayda değişen hüküm yok."
+  ]
+}

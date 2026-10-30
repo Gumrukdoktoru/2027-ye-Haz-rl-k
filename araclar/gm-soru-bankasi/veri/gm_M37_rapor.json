@@ -1,0 +1,12 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "Sınır ticaretine yetkili gümrük kapıları ve Sınır Ticaret Merkezleri tablosu (kapı–il–ülke eşlemesi), 30 gün içinde en fazla 75.000 ABD Doları ithalat sınırı ve tek ve maktu verginin hesap kuralı ayrı soru olarak sete giremedi; tek ve maktu verginin hesap kuralı S3'ün çeldiricisinde ve gerekçesinde, yetkili kapılar ise vaka kurgusunda (S4) kullanıldı. STM Yönetmeliğinin defter, satış belgesi, sayım ve saklama süreleri hükümleri de dışarıda kaldı (STM'de 3 aylık kalış süresi S7'nin çeldiricisinde).",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 2, vaka 1; kota 8 soru için 3/2/2/1 ile aynı. Kökü olumsuz toplam 3 (%38).",
+    "Önermeli kombinasyonları: S2 'I, II ve IV' (limit oranlarının yıl içinde değiştirilememesi), S8 'I ve III' (devir yasağı ve hizmet sektörü istisnası); en kapsamlı şık doğru 0; ikisi de doğru yönlü.",
+    "Çıkmış alanlar: 2021/75 (GK sınır ticareti hükmü: Cumhurbaşkanı yetkisi, STM'nin Gümrük Bölgesi dışında addedilmesi) → S3, farklı yönden (makam + yetkinin sınırı) soruldu; 2022/30 (İthalat Uygunluk Belgesi) → S1, çıkmışın ölçtüğü düzenleyen merci/90 gün/devir yerine Tebliğdeki başvuru süreleri, nüshalar ve limit dağıtımı ölçüldü (devir yasağı S8'de STB için); 2023/31 (STM'de Valiliklerin görevleri) → S7, ara verme yetkisinin makamı ve altı aylık üst sınırı birlikte soruldu.",
+    "Ayna çift: Sınır Ticareti Belgesi (S8) ↔ İthalat Uygunluk Belgesi (S1).",
+    "Güncellik sorusu yok: kaynaktaki en yeni değişiklik 13.04.2023 (yetkili gümrük kapıları tablosu) ve 23.12.2021 (Tebliğ değişiklikleri); son 12 ayda değişen hüküm görünmüyor.",
+    "Kaynak sorunları: Karar'ın dayanak maddesindeki Gümrük Kanunu madde numaraları, İthalat Uygunluk Belgesi ve Sınır Ticareti Belgesi tanımlarındaki ek numaraları ve STM Yönetmeliğinde süre aşımında uygulanacak Gümrük Kanunu maddesinin numarası kaynakta silinmiş; bu hükümler o numaralar üzerinden sorulmadı. STM Yönetmeliği Müsteşarlık dönemi metnidir ve mülga 2008 Kararına atıf yapar; bu yüzden yalnız gerekçe ve çeldiricide kullanıldı."
+  ]
+}

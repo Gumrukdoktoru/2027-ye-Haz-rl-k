@@ -1,0 +1,19 @@
+{
+  "bulunamayan": [
+    "2023/58 (menşe ispat ve dolaşım belgelerinin ibraz/geçerlilik süreleri): Seri 10'da belge türlerine göre ibraz süreleri yok; yalnız serbest bölge/antrepoda geçerlilik süresinin durdurulması var (S12). A.TR'nin dört aylık ibraz süresi M47 S6'da ölçüldü; EUR.1, Form A vb. ibraz süreleri ilgili menşe yönetmeliklerinin (M50–M54) konusudur.",
+    "2023/48 (tedarikçi beyanı): Seri 10'da tedarikçi beyanının tanımı ve sonradan kontrol süreleri var (S7); tedarikçi beyanının düzenlenme kuralları M47 (2006/10895 Karar) S15'te ölçüldü.",
+    "2024/32 (İran ile ticarette kullanılan belgeler) ve 2025/36 (Özbekistan belgesi): Seri 10 tanımlarında İran menşe ispat belgesi ve Özbekistan EUR.1 süreleri var; kullanılabilecek belgelerin tam listesi ilgili TTA yönetmeliklerinde (M53/M54) olduğundan bu bölümde ayrı soru yazılmadı; İran belgesinin gümrükçe vizesi S5 gerekçesinde geçti."
+  ],
+  "giremeyen": "Seri 7'de belge saklama (beş yıl, üçer aylık listeler), yetki değişikliği usulü ve yetkinin eşya ve ülke bazında verilmesi; Seri 10'da ithalatta belge kontrolü, araştırma sonucu beklenmeden teminatla teslim (tavizli oran–Diğer Ülkeler farkı, önlemde en yüksek had), sonradan kontrol sonuçlarının ayrıntılı halleri (sehven düzenleme, ikinci sorgu, altı ay içinde menşe şahadetnamesi), re'sen iptal, dahilde işlemede kullanım harici kalan eşya ve firması kapanmış ihracatçıda sonradan kontrol ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+    "Tip: olumsuz 5, klasik 4, önermeli 2, eşleştirme 1, vaka 1; kota 13 soru için 5/4/2/2, gerçek 5/4/2/2. Kökü olumsuz toplam 6 (%46; eşleştirme dahil).",
+    "Önermeli kombinasyonları: S1 'I ve II', S13 'I, II ve IV'; en kapsamlı şık doğru 0; yanlış yönlü yok.",
+    "Çıkmış alan eşlemesi: 2022/9, 2023/54, 2022/11 → S5 (vize edilmeyen belgeler önermelisi yerine 'gümrükçe vize edilen belge' klasik sorusu; Form A'nın TOBB/TİM/TESK vizesi); 2023/47, 2024/35, 2024/41, 2025/33 → S6 (anlaşma–belge eşleştirmesi; Pakistan, BAE, Singapur, Azerbaycan ve Malezya STA ↔ D-8 tuzağı, çıkmış şık kümeleri kullanılmadı); 2023/57 → S7 (sonradan kontrol süreleri; eşleştirme yerine tek satırın süre–ek süre çifti).",
+    "Ek-1 tablosu kaynakta iki hâlde (13.12.2023 öncesi ve sonrası) yer alıyor ve başlıkları karışık; yalnız iki hâlde de aynı olan değerler (AB tedarikçi beyanı 3 ay + 1 ay, EFTA vb. 5 ay, A.TR 10 ay, Malezya 90 + 180 gün) kullanıldı; Form A/GTS ek süresi ve Singapur süresi iki tabloda farklı olduğundan doğru cevap olarak kullanılmadı.",
+    "İkiz eksen 3 (statü ↔ menşe): S4 (serbest dolaşıma girmek menşe kazandırmaz); M47 S2/S4/S16 ile birlikte grupta eksen tamamlandı.",
+    "Meslek yanlılığı: S3 (Seri 7 başvurusunda yetkilendirilmiş gümrük müşaviri tespit raporunun zorunlu olması) ve S11 (10.000 ABD Doları altında tespit raporunun yasak olmayıp firma tercihine bağlı olması).",
+    "Güncellik sorusu yok: Seri 10'daki en yeni değişiklik 13.12.2023 tarihli 11 sayılı Tebliğ, Seri 7 2008 tarihli; son 12 ayda (Ekim 2025 – Ekim 2026) değişen hüküm yok, beşinci aday profili bu bölümde yakalanamadı.",
+    "Seri 7 metni eski kurum adını (Gümrük Müsteşarlığı) kullanıyor; şıklarda Müsteşarlık ↔ Bakanlık rakip seçenek yapılmadı."
+  ]
+}

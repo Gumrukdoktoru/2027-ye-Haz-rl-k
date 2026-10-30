@@ -1,0 +1,12 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "E-ihracat destek kalemlerinin oran ve tutar limitleri (pazara giriş raporu 1.500.000 TL, dijital pazaryeri tanıtımı %20 satış sınırı, sipariş karşılama %10, entegrasyon 6 pazaryeri ve 200.000 TL, yararlanıcı üst limitleri), 94/6401'in kapsadığı yardım türleri listesi (h bendindeki 'diğer devlet yardımları' genel hükmü liste dışı soruyu tartışmalı kıldığı için), fuar Tebliğindeki asgari katılımcı sayıları (10/30/20, %70 ve %20 oranları), puanlama (50+30+20), geçici belge şartları ve iptal müeyyideleri (1 yıl / 2 yıl), Kimberley sertifikasının zorunlu unsurları ve CITES A listeleri için yetkili genel müdürlükler ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 2, tanım 1 (kota 3/2/2/1 birebir). Kökü olumsuz 3/8 (%38).",
+  "Çıkmış GM sorusu: gm_sorular.csv'de e-ihracat, 94/6401, yurt dışı fuar, ham elmas ve CITES tebliğlerine düşen soru yok (2024/72'deki fuar İhracat Yönetmeliği konusudur, M29).",
+  "Beş düzenleme dengeli dağıtıldı: E-İhracat Kararı S1-S3 (bölümün en güncel ve en hacimli metni), 94/6401 S4, Fuar Tebliği S5-S6, Ham Elmas Tebliği S7, CITES Tebliği S8.",
+  "Güncellik: E-İhracat Destekleri Kararında 17.01.2026 tarihli CK ile değişen müeyyide fıkraları (S1) ve eklenen %75 tavan ile ilave puan uygulanmayan destekler hükmü (S3) soruldu.",
+  "Kaynak sorunları: 94/6401 md. 4'te 'Para Kredi Ve Koordinasyon Kutulu' yazım hatası kanıtta aynen alındı; fuar Tebliği md. 9/10'da yabancı katılımcı oranının ikinci geçtiği yer ('_'sinden') silinmiş olduğundan bu oran sorulmadı; E-ihracat Kararı ve CITES Tebliğinde Kanun/Karar sayıları silinmiş, sayı üzerinden soru yazılmadı.",
+  "Önermeli kombinasyonları: S1 'I, III ve IV' (beş önermeli), S7 'I ve II'; en kapsamlı şık doğru 0. Kökte '94/6401' sayısı madde no denetimine takıldığı için Kararın adı kullanıldı."
+ ]
+}

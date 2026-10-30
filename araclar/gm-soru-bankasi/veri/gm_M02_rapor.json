@@ -1,0 +1,14 @@
+{
+ "bulunamayan": [
+  "2021/33 (dolaylı temsilcinin müşterek ve müteselsil sorumluluğu) ve 2021/78 (dolaylı temsilciye tebligat yapılmayacak hâller): Tahsilat Tebliği hükümleridir, bu bölümün kaynak metninde yok (tahakkuk-tebliğ-ödeme bölümünün konusu)."
+ ],
+ "giremeyen": "GK 227-228 gümrük müşavir yardımcılığı ve müşavirlik şartları (bir yıl staj, iki yıl yardımcılık, on beş/on yıllık kamu hizmeti, altmış gün içinde izin belgesi), GY 566-571 sınav kuralları (sözlü puan dağılımı 60/20/10/10, 70 baraj, on gün itiraz, otuz gün sonuç, beş kişilik kurul), tüzel kişilikte müteselsil sorumluluk, beş yıllık defter-belge saklama, Gümrük İşlemi Takip Kartı (altı ay el koyma, beş yıl muhafaza) ve GY 562 bağımsız çalışmayan müşavir ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kota 8 soru için 3/2/2/1 tam tutturuldu; kökü olumsuz toplam 3 (%38).",
+  "Önermeli kombinasyonları: S2 'I, III ve V' (beş önermeli, meslek yanlılığı sorusu: yardımcının tebliğ kabul edemeyeceği, tek başına iş takip edemeyeceği), S7 'I, III ve IV'; en kapsamlı şık doğru 0.",
+  "Çıkmış alan eşlemesi: 2022/33 (savunma süresi) → S4 (on gün doğru şık olarak, ölçülen hüküm zamanaşımı 3 yıl ↔ 5 yıllık dönem); 2024/100 (İTH-13 tavanı) ve 2025/99 (birden fazla rejimde yüksek ücret) → S6; 2022/56 (beyanname sayısı indirimleri) → S7 (çıkmışın sorduğu ihracat 1.000/2.500 eşikleri yerine ithalat eşikleri ve önceki yıl ihracat kuralı).",
+  "Güncellik: Asgari Ücret Tebliği 30.12.2025 tarihli Resmî Gazete ile 2026 yılı için güncellenmiş (kaynakta '(30.12.2025 / RG)' dipnotu, '2026 Yılı Asgari Ücret' başlığı); S6 İTH-13 78.000 TL ve ANT-1 26.000 TL tavanlarını bu güncel metinden ölçer. Aynı tarihte yüzde 20 indirim bendinden bir unsurun '(…)' ile çıkarıldığı görülüyor, çıkarılan unsur kaynakta yazmadığı için soruya konmadı.",
+  "İkiz eksen 12 (doğrudan ↔ dolaylı temsil): S1. Vaka S5: bilgisi dışındaki sahte belgede ilk defa kınama ve kınamayı veren merci (iki bilgi).",
+  "Kaynak: GK 5'in son cümleleri ve bazı atıflarda kelime ve numara eksik ('hareket ediyor .', 'maddenin 1 inci fıkrasında belirtilen kişiler'); bu eksik yerlere dayanan soru yazılmadı."
+ ]
+}

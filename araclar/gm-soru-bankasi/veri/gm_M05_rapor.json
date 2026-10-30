@@ -1,0 +1,12 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "Eksik beyanda yeşil hatta belgelerin ibraz edilmemesi ve Ek-9 ile elektronik bildirim, beyannamede 'S' doğrulama kodu, aylık ilk 5 iş günü BİLGE sorgulaması, eksik beyan askısının 6 ay ve 2 yıl basamakları, kısmi ve götürü teminat yetkilerinin 3 yıl içinde ikinci ihlalde 2 yıl askıya alınması, götürü teminatın 1 yıllık geçerlilik süresi ve başlangıcı (işlemin tamamlandığı tarihten sonraki ilk iş günü), basitleştirilmiş A.TR'nin 3 nüsha basımı ve izin sahibince vizesi, fatura beyanı izninde 12 aylık 50 belge / 6.000 Avro işlem hacmi askısı, ihracatta yerinde gümrüklemede kapsam dışı eşya listesi, mühürsüz çıkış şartları, fazla mesai talebinin mesai bitiminden 1 saat önce yapılması ve ihlal basamakları (3 ay, 6 ay, 2 yıl) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kota 12 soru için 5/3/2/2 tam tutturuldu; kökü olumsuz toplam 5 (%42).",
+  "Önermeli kombinasyonları: S3 'I ve II' (eksik beyanda tahakkuk ve teminat; tuzak faks/fotokopi istisnası), S8 'I, II ve IV' (götürü teminatın güncellenmesi ve askısı); en kapsamlı şık doğru 0.",
+  "Çıkmış alan eşlemesi: 2023/43 (eksik beyana konu olamayacak belgeler) → S1 (çıkmıştaki önermeli kurgu yerine kapalı liste + sağduyu unsuru 'uygunluk belgesi'); 2021/39 (götürü teminattan yararlanamayan ÖTV (I) listesi) ve 2022/6 (götürü teminat %10, ÖTV (I)) → S6; S5 aynı eksenin kısmi teminattaki karşılığını ('Bakanlıkça belirlenecek hâller dışında') ayna olarak ölçer.",
+  "Vaka S9: ihracatta yerinde gümrüklemede 30 dakika ve 3 saatlik sürelerin başlangıç anı (09.50 + 3 saat = 12.50); süre soruları 3, üçünde de başlangıç anı ölçüldü.",
+  "S7 ve S10'daki 45 iş günü, 100 beyan ve ceza kriteri sayıları aynı Yönetmeliğin Birinci Kitabından (04-yys-1-genel-statu-basvuru.txt) çeldirici olarak alındı ve kanıtta o dosyadan alıntılandı.",
+  "Güncellik sorusu yok: kaynakta değişiklik tarihi dipnotu bulunmuyor."
+ ]
+}

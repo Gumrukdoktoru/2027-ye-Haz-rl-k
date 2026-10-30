@@ -1,0 +1,19 @@
+{
+ "bulunamayan": [
+  "2023/61 ve 2024/11: Gümrük Kıymeti Komitesinin bağlı olduğu kuruluş ve kurulduğu anlaşma bu bölümün kaynağında yok (kaynakta yalnız Dünya Gümrük Örgütü Gümrük Kıymeti Teknik Komitesinin tavsiye kararları var).",
+  "2024/28: teyit komisyonu kavramı kaynakta geçmiyor.",
+  "2025/3 (GATT VII. Madde Anlaşmasında üyelerin dahil/hariç tutabileceği giderler) ve 2025/6 (DTÖ Ticaretin Kolaylaştırılması Anlaşması ön karar): kaynakta karşılığı yok; GK 26 yalnız son yöntemde GATT VII prensiplerine atıf yapıyor.",
+  "Kıymet hesap soruları (2021/84-89, 2022/89-100, 2023/72-84, 2024/9-27, 2025/16-20) hesaplama bölümlerinin (H) konusudur; bu bölümde yalnız GK 32 ambalaj ağırlığı hesabı (S11) ve aynı eşya seçimi vakası (S6) yazıldı."
+ ],
+ "giremeyen": "GK 26/2 son yöntemde esas alınamayacak değerler, GK 30 ve GY 57 kur, GY 51/9 navlun yüzde on ve sigorta yüzde üç, GY 51/4 posta-kargo ücreti, GY 51/6-7 giriş yerinden sonraki taşımada mesafe oranı ve maktu yurt içi teslim fiyatı, GY 45/1-ç fiyat düzeltmesinin bir yıllık sınırı, GY 54 bilgi taşıyıcıları, GY 44/5 makul şüphe, GK 32/5-7 ambalajın ayrı beyanı, kutu-kılıf ve örnekleme tartısı ile tavsiye kararlarının çoğu ayrı soru olarak sete giremedi (bunların önemli kısmı GMY bankası SB11 setinde soruldu).",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+  "Tip: olumsuz 4, klasik 3, önermeli 2, diğer 2 (vaka 1, hesap 1); kota 11 soru için 4/3/2/2 birebir tutuldu. Kökü olumsuz toplam 4 (%36).",
+  "Yakınlık: birebir 6, parafraz 3, çıkarım 2 (vaka ve hesap soruları; %18, sınırın biraz üstünde).",
+  "Önermeli kombinasyonları: S3 'I, II ve V', S9 'I, III ve IV'; en kapsamlı şık doğru 0; ikisi de doğru yönlü.",
+  "Çıkmış alan eşlemesi: 2021/4 → S1 (ters yön: ayrı gösterilse de eklenen gider); 2021/19 → S2; 2022/43 → S3; 2021/9 ve 2022/74 → S4 (olumsuz yerine olumlu yön, kişi vakası); 2022/48 ve 2022/49 → S5; 2023/66 ve 2025/18 → S6; 2024/13 ve 2024/15 → S7, S9; 2022/52 → S8; 2023/67 → S10 (hasıla koşulu); 2021/5 → S11.",
+  "İkiz eksen 11 (kıymet ikizleri: satış ↔ satın alma komisyonu, aynı ↔ benzer eşya, ilişki listesi) S1, S3, S4, S6'da ölçüldü.",
+  "Güncellik sorusu yok: kaynaktaki en yeni değişiklik dipnotu 02.05.2019 (LNG istisnai kıymet); son 12 ayda değişen hüküm görünmüyor.",
+  "Kaynakta GK 24/1 ve GY 44, 50, 51, 53'te bazı madde numaraları silinmiş ('inci maddelere göre', 'Kanunun maddesine göre'); bu atıflara dayanan soru yazılmadı. Kıymet Tebliği metni satır kırıklı aktarılmış; kanıtlar normalleştirilmiş boşlukla birebir eşleşiyor."
+ ]
+}

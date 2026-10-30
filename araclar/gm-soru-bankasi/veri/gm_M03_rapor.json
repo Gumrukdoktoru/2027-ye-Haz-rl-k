@@ -1,0 +1,13 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "YGM yetki belgesinin süresi (iki yıl, disiplin cezasız dönemlerde üç ve en çok dört yıl), yedi gün içinde bilgi güncelleme, başvurunun altmış günde sonuçlanması, belge iadesinde bir yıl bekleme, vekâlet süreleri (yılda toplam altmış gün, otuz gün), akrabalık ve iki yıllık ortaklık yasağı, tespit sözleşmesinin yedi iş günü içinde gönderilmesi, AN6-AN8 aylık raporun ilk yedi iş günü, OK1 için otuz gün ve beş iş günü, iş ilişkisi sayılan hâller ile YGM'nin müteselsil sorumluluğu ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+  "Tip: olumsuz 2, klasik 2, önermeli 2, diğer 2 (eşleştirme 1, vaka 1). Kota 3/2/2/1; YGM alanında GM'nin iki çıkmış sorusu eşleştirme olduğundan (2021/31, 2025/98) eşleştirme korundu ve on bin Avro eşiğini saklı istisna olarak ölçen vaka eklendi: olumsuz -1, diğer +1. Eşleştirme olumsuz köklü olduğundan kökü olumsuz toplam 3 (%38).",
+  "Önermeli kombinasyonları: S3 'I, II ve IV' (YGM nitelikleri, yetmiş beş yaş), S8 'I, III ve IV' (antrepo tespit genel hükümleri); en kapsamlı şık doğru 0.",
+  "Çıkmış alan eşlemesi: 2021/31 ve 2025/98 (AN, GK, NK, DR kodları) → S1; çıkmışların sormadığı kodlar seçildi (BD1, TK1, MH1, ZD1 doğru eşleşme; AT1 ↔ EU2 karıştırması). 2025/100 (genel/özel antrepoda aynı YGM) → S2 (çıkmıştaki doğru ifade kalıbı yerine 'birlikte ve tam olarak' kalıbı). Prompt 5'te 'henüz sorulmamış kodlar' olarak anılan BD1, TK1 S1'de; AN6, AN7 S2 ve S8'de ölçüldü.",
+  "İkiz eksen 17 (antrepo tipleri: genel ↔ özel): S2 ve S8.",
+  "Güncellik sorusu yok: kaynaktaki en yeni değişiklik 15.01.2025 tarihli RG (GY 576 (h) bendinin kaldırılması ve GY 578'in yeniden düzenlenmesi); son 12 ay (Ekim 2025 – Ekim 2026) dışında kalıyor. GY 578'deki yeni geri alma süreleri yine de S4'te ölçüldü.",
+  "Kaynak: GY 576 (f) bendinde ve bazı atıflarda Kanun ve madde numaraları silinmiş ('sayılı Kanunun ncı maddesi'); sorular yalnız bentlerin açık kısmına (son üç yılda üçten fazla uyarma veya kınama) dayandırıldı."
+ ]
+}

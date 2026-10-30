@@ -1,0 +1,16 @@
+{
+  "bulunamayan": [
+    "2022/34 (Türkiye'den yapılan ihracatta Form A düzenlenebilecek, Türkiye'ye GTS tanıyan ülkeler: Japonya, ABD, Yeni Zelanda, Rusya, Avustralya): kaynakta Türkiye'ye tercih tanıyan ülkelerin listesi yok; kaynakta yalnız Türkiye'nin faydalanan ülkelerinden oluşan bölgesel kümülasyon grupları var. Bilgi alanı S8'de (faydalanan ülke – bölgesel grup eşleştirmesi) yalnız ülke grubu yönüyle kısmen karşılandı.",
+    "2023/47 (anlaşma – menşe belgesi eşleştirmesinde GTS – Form A): GTS'de Form A ve menşe beyanının ispat belgesi olması S3, S5 ve S11 gerekçelerinde; Form A'nın vize makamı M48 S5'te ölçüldü."
+  ],
+  "giremeyen": "AB mevzuatına uyum dayanağı, yeterli işçilikte %15 tolerans kuralları (Fasıl 2 ve 4–24'te ağırlık, diğerlerinde fabrika çıkış fiyatı, Fasıl 50–63 hariç), setlerde %15, etkisiz unsurlar, ortalama alma yöntemi, muhasebesel ayrım, istisnai uygulamalar (Derogation ibaresi), ülkesellik ve sevkiyat kuralları, Form A'nın sonradan ve ikinci nüsha düzenlenmesi, parçalar halinde ithalat, tek menşe ispat belgesi şartları, müfrez Form A ve müfrez menşe beyanı (12 ay), sonradan kontrolde 6/8/4 ay ve ikinci bildirim usulü, onaylanmış ihracatçı şartları, REX Sisteminde kamuoyuyla paylaşılan bilgiler ve faydalanan ülke statüsünü kaybeden ülkenin üç yıllık yükümlülüğü ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+    "Tip: olumsuz 4, klasik 3, önermeli 2, eşleştirme 1, vaka 1; kota 11 soru için 4/3/2/2, gerçek 4/3/2/2. Kökü olumsuz toplam 5 (%45; eşleştirme dahil).",
+    "Önermeli kombinasyonları: S2 'I, II ve III', S5 'I ve IV'; en kapsamlı şık doğru 0; yanlış yönlü yok.",
+    "İkiz eksen 4 (tümüyle elde edilme ↔ yetersiz işlem): S1 ↔ S2 ayna çifti (kesilen hayvanın tamamen elde edilmiş sayılması için doğmuş ve yetiştirilmiş olma şartı ↔ hayvan kesiminin yetersiz işlem olması).",
+    "Kaynak üç belgeden oluşuyor: 2014/7064 sayılı GTS Menşe Kararı (SAİR özeti, madde numaraları 'Md.' biçiminde), 501 sayılı CK ile yürürlüğe konulan Menşe Beyanı Kararı ve GTS Seri No: 5 Tebliğ; her soruda kök ilgili dayanağı adıyla gösterdi. Menşe Beyanı Kararı'nın sayısı (501) kaynakta Seri 5 Tebliğ'in dayanak maddesinden alındı.",
+    "Güncellik sorusu yok: kaynaktaki en yeni değişiklik 16.06.2022 tarihli Seri No: 6 Tebliğ; son 12 ayda değişen hüküm yok, beşinci aday profili bu bölümde yakalanamadı.",
+    "Kaynak özetinde bazı yazım hataları ('tararından', 'yemden', 'kanıtlayın') ve büyük harfli vurgular var; kanıt alıntılarında olduğu gibi kullanıldı."
+  ]
+}

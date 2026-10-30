@@ -1,0 +1,15 @@
+{
+  "bulunamayan": [
+    "2022/11 (menşe belgelerinin basım ve onayından sorumlu kuruluşlar): bölüm kaynağında yalnız D-8 ve TPS-OIC belgelerinin Bakanlık veya Bakanlıkça yetkilendirilen kuruluşlarca bastırıldığı bilgisi var; öteki belgelerin (A.TR, EUR.1, MŞ, Form A) sorumlu kuruluşları bu bölümde yok. Bilgi alanı S5'te vize talep hakkı ve vize kutusuyla kısmen karşılandı."
+  ],
+  "giremeyen": "D-8 ve TPS-OIC yetersiz işlem listeleri, tamamen elde edilmiş ürün bentleri, sergiler, parçalar halinde ithalat, D-8 müfrez belge ve antrepo çıkışında yeni belge, transit eşya için dört aylık geçiş hükmü, TPS-OIC ikinci nüsha belgede (11) numaralı kutuya ilk belgenin onay tarihinin yazılması ve tercihli taviz tanınmayan eşyanın belgede yer alması hükmü ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+    "Tip: olumsuz 2, klasik 3, önermeli 2 (biri 'yanlıştır' yönlü), hesap 1 (diğer sütunu). Kota 3/2/2/1; olumsuz −1, klasik +1 (±1 içinde). Kökü olumsuz toplam 3/8 (%38).",
+    "S2 küçük hesap: 20.000 × %60 = 12.000; çeldiriciler aynı Yönetmelikteki %30, %40, %70 ve %75 oranlarından türetildi, hepsi farklı sayı verir.",
+    "Önermeli kombinasyonları: S3 'III ve V' (B, yanlış yönlü), S7 'I, III ve V' (C); en kapsamlı şık doğru değil. Sıralı sorular art arda aynı harfte değil (C, B, …, C).",
+    "Çıkmış alan eşlemesi: 2023/100 ve 2024/40 (TPS-OIC taraf ülkeleri) → S1 (kopyalanmadı; iki yönetmeliğin kesişimi soruldu); 2024/32 (İran ile ticarette belgeler) → S1 (İran, D-8 ve TPS-OIC'nin ortak tarafı, gerekçede); 2022/9, 2023/54 (D-8 belgesinin gümrükçe vizesi) → S5 (TPS-OIC vize kuralları), S3; 2023/58 (ibraz/geçerlilik süreleri) → S3.",
+    "İkiz eksen 1 (D-8 ↔ TPS-OIC): ambalaj (S8), gemi sahipliği yüzde 50 ↔ 60/75 (S7), taraf ülkeler (S1).",
+    "Güncellik: kaynaktaki en yeni değişiklik 20.12.2022 (D-8'e Bangladeş'in eklenmesi); son 12 ayda değişen hüküm yok."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+ "bulunamayan": [
+  "2024/97: çıkmış soru OKS ile YYS statülerinin ikisine birden tanınan usulü soruyor; YYS kolaylıkları (Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği) bu bölümün kaynağında yok. OKS tarafı (belge kapsamındaki kapalı usul listesi ve iki statünün birlikte taşınamaması) S4'te ölçüldü."
+ ],
+ "giremeyen": "Sicil koşulundaki kanun listesi ve ceza kararı oranları (yüzde bir, binde üç, yüzde iki), OK1 için ibraz edilecek belgeler ve alınma süreleri, grup ithalatçısında yüzde altmış YMM raporu, onaylanmış ihracatçı yetkisi için elli A.TR şartı ve A.TR'nin sonradan/ikinci nüsha düzenlenmesi, götürü teminatta otuz günlük mektup ibrazı ve geri alma süreleri ayrı soru olarak sete giremedi (bunların çoğu GMY bankasında SB04 setinde soruldu).",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+  "Tip: olumsuz 4, klasik 3, önermeli 2, diğer 3 (boşluk 1, hesap/vaka 1, eşleştirme 1). Kota 12 soru için 5/3/2/2; GM'de OKS soruları sayı ağırlıklı (2021/18, 2022/62, 2025/91) olduğundan küçük hesap sorusu eklendi, olumsuz -1. Kökü olumsuz toplam 5 (%42).",
+  "Önermeli kombinasyonları: S5 'I ve III', S9 'I, II ve IV'; en kapsamlı şık doğru 0; ikisi de doğru yönlü.",
+  "Çıkmış alan eşlemesi: 2021/18 (asgari ortalama işçi) → S1 (istihdamın genel/özel koşul ayrımı, farklı yön); 2025/91 (performans kriteri) → S2 (boşluk, iki tutar); 2022/62 (OKSB geçerlilik süresi) → S3 (süre + yenileme başvurusunun dört ay sınırı); 2024/97 (OKS/YYS) → S4 (kısmen).",
+  "GMY bankasında (SB04, GMY-099/100, GMY2-056, GMY3-046) aynı Tebliğ büyük ölçüde soruldu; GM setinde aynı hükümler farklı yönden kuruldu (genel↔özel koşul, boşluk, yenileme zamanı, götürü teminat hesabı, red↔süre verme, askı eşleştirmesi, yetkili merci, HAGB).",
+  "Meslek yanlılığı: S9 III. önerme (ihracat vergisinin müşavir hesabından ödenebileceği yanılgısı) ve S11 (YGM'nin askı yetkisi olmadığı).",
+  "Güncellik sorusu yok: kaynaktaki en yeni değişiklik dipnotu 30.05.2022 (Sıra No:7 Tebliğ); son 12 ayda değişen hüküm görünmüyor.",
+  "Kaynakta bazı kanun ve madde numaraları silinmiş ('Kanunun inci maddeleri', 'sayılı Kanuna'); bu numaralara dayanan soru yazılmadı."
+ ]
+}

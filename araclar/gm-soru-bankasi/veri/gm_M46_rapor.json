@@ -1,0 +1,16 @@
+{
+  "bulunamayan": [
+    "2024/99 (tecil önermeli): azami süre, yazılı istem ve gümrük idaresinin re'sen tecil yapamaması bilgi alanları S1'de karşılandı; 'çok zor durum halinin tespitine ilişkin YMM raporu' ve tecil teminatı hesabı Gümrük Genel Tebliği (Tahsilat İşlemleri) (Seri No: 2) hükmüdür, bu bölümün kaynağında (6183 seçilmiş maddeler) yok.",
+    "2021/32 ve 2025/19 (gecikme zammı): 6183'ün gecikme zammı maddesinin yürürlükteki metni kaynakta yok (yalnız başlık ve mülga hâli dipnotta); oran ve hesap sorulmadı. Hesap kurgusu H bölümlerinin konusudur."
+  ],
+  "giremeyen": "İhtiyati tahakkuk, ivazsız tasarrufların hükümsüzlüğü (iki yıl), limited şirket ortaklarının sorumluluğu, ödeme yeri ve tahsilatın Merkez Bankasına aktarılma süreleri (7/20/10 gün, %10 ceza), mahsup sırası, uyumlu mükellef tecili (48/A: 36 ay, 500.000 TL, %25), haczedilemeyecek malların ayrıntılı listesi, 74/A haczin kaldırılması (%10 fazlası, üç ay), üçüncü şahsın haciz bildirisine itirazı (yedi gün, bir yıl menfi tespit, %10 inkâr tazminatı) ve terkin tutarları (10/20 TL) ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+    "Tip: olumsuz 4, klasik 2, önermeli 2, vaka 1, boşluk 1; kota 10 soru için 4/3/2/1, gerçek 4/2/2/2 (±1 içinde). Kökü olumsuz toplam 4 (%40).",
+    "Önermeli kombinasyonları: S1 'II ve III', S2 'I, II ve III'; en kapsamlı şık doğru 0; yanlış yönlü önermeli yok.",
+    "Güncellik: tecil süresi 04.06.2026 tarihli 7582 sayılı Kanunla 36 aydan 72 aya çıkarıldı (S1; eski hâl yanlış önerme). Teminatsız tecil tutarı da 2025–2026'da değişmiş (Kanunda 'bir milyon', 13.06.2026 tarihli 11414 sayılı Kararla 'on milyon' uygulanacak); metinde aynı fıkrada hem 'on milyon' hem 'bir milyon' geçtiği ve teminat tutarının hangi eşiğe göre hesaplanacağı kaynakta tutarsız göründüğü için tutar ve teminat hesabı sorulmadı.",
+    "Rüçhan hakkı (S9): 15.03.2018 tarihli 7101 sayılı Kanunla değişen cümlenin mülga hâli (rehinli alacaklardan evvel) dipnottan çeldirici olarak kullanıldı.",
+    "Ödeme emrine itirazda 'itiraz komisyonu' deyiminin kaynaktaki nota göre vergi mahkemesi anlamına geldiği gerekçede belirtildi; şıklarda 'vergi mahkemesi' kullanılmadı (iki doğru riskini önlemek için).",
+    "Kaynak sunum/derleme biçiminde; satır kırılmaları, bitişik kelimeler ('Kanunuhükümleri') ve yazım hataları ('bululan', 'bulanmasın') kanıtta olduğu gibi alındı."
+  ]
+}

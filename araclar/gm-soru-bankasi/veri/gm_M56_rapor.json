@@ -1,0 +1,15 @@
+{
+  "bulunamayan": [
+    "2022/1 (yalnız Kıymetli Madenler Borsası üyesi aracı kuruluşlarca ithal edilebilen kıymetli maden): dayanak 32 sayılı Karar ve kıymetli maden mevzuatıdır; bu grupta M59'un konusudur, bu bölümün kaynağında yok.",
+    "2022/17 (2022/5 sayılı Tarım ve Orman Bakanlığı kontrolüne tabi ürünlerin ithalat denetimi tebliği) ve 2025/38 (TAREKS): ürün güvenliği ve teknik düzenleme tebliğleri M63/M64 bölümlerinin konusudur; bu bölümün kaynağında yok."
+  ],
+  "giremeyen": "İRK'daki NATO ithalatı, müzelere ve MSB'ye muafiyet, kesin ithalat hükmü, III sayılı listede EMY tahsili (T1/T2), TEV hesabında AB OGT karşılaştırması (yalnız çeldirici olarak kullanıldı); harp silahları, haritalar (deniz ve kara-hava ayrımı), IMEI kontrol yazısı, banknot kâğıdı (TCMB, bankalar, SPK), gübre (15 iş günü iade), kimyasal silahlar (Ek-1 yasak, izin üç ay), fuar (yabancı firma perakende satış yapamaz), elektronik başvuru yetkilendirme (üç yıl, on gün) tebliğleri ile İGV'nin ayrı tahsili ve menşe beyanından ithalatçının sorumluluğu ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 6, klasik 6, önermeli 2 (biri 'yanlıştır' yönlü), boşluk 1, eşleştirme 1; kota 6/5/3/2'den klasik +1, önermeli −1 (±1 içinde). Kökü olumsuz toplam 7/16 (%44).",
+    "Kaynak sorunları: İRK ve İGV Kararı metinlerinde kanun ve karar numaraları silinmiş ('sayılı Kanunun', 'ekli ve sayılı listeler', '(2) listede'); bu yerlere dayanan soru yazılmadı. İthalat tebliğleri SAİR özetinden alınmış (büyük harfli özet); yalnız açık hükümler kullanıldı. Kaynakta 'İş Sağlığı ve Güvenliğini Etkileyen Bazı Maddelerin İthalat Tebliği' 2023/13 numarasıyla geçiyor; bu tebliğ yalnız çeldirici yuvası olarak kullanıldı.",
+    "Güncellik: 31.12.2025 tarihli 10790 sayılı CK geçiş hükmü (S7) ve İGV Kararında muafiyet hükmünün 11.07.2026 tarihli 11508 sayılı Kararla değişmesi (S9).",
+    "Çıkmış alan eşlemesi: 2024/4, 2022/21 → S1 (özel nitelikli eşya; çıkmış tanım kurgusu kopyalanmadı, olumsuz sayıma çevrildi), S3 (İRK genel esaslar, farklı önermeler), S12 (kullanılmış eşya izni); 2021/55 → S2 (çıkmış olumsuz kurgunun tersi: VKN aranmayan ithalat); 2024/34 → S4 (grup sorusu); 2025/30 → S15 (ithalat tebliği–kurum eşleştirmesi, farklı tebliğler).",
+    "İkiz eksen 1: GTS taviz kaldırma ölçütleri miktar %13,5 ↔ değer %14,5 (S11). Önermeli kombinasyonları: S3 'I, II ve III' (C), S10 'III ve V' (C, yanlış yönlü); arada serbest harfli sorular var.",
+    "Grup içi ayrım: İGV Kararı M54 kaynağında da özet olarak geçiyor; İGV yalnız bu bölümde soruldu. Ticaret politikası mevzuatı listesi (İRK) bu bölümde soruldu, M58'de tekrarlanmadı."
+  ]
+}

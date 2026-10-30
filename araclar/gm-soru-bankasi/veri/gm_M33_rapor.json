@@ -1,0 +1,11 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "Taşıt ve ev eşyası muafiyetinde başvuru belgeleri (ikamet nakil belgesi, vukuatlı nüfus kayıt örneği, feragat mukavelesi), trafik şahadetnamesinin gönderileceği makamlar (noter, Sivil Havacılık Genel Müdürlüğü, Liman Başkanlığı), yurt dışında bir takvim yılında altı aydan fazla kalmama ve son on yılda beş yıl istisnası, kurtarma ve cenaze araçlarında il sağlık müdürlüğü uygunluk yazısı ve iki muayene memurlu komisyon, işyeri naklinde belge listesi, kriz hâli eşyasında Ek-7 listesi ve sözlü beyan, cebri icra ve hacizde vergilerin devralandan tahsili ile gerçeğe aykırı belgede suç duyurusu ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 2, vaka 1 (kota 3/2/2/1 birebir). Kökü olumsuz 3/8 (%38).",
+  "Çıkmış GM sorusu: Tebliğe doğrudan dayanan çıkmış soru yok; muafiyet çıkmışları Karar hükümlerine dayandığı için M32'de ölçüldü. M33'te Karar'la aynı hüküm tekrar sorulmadı; yalnız Tebliğin getirdiği yeni süre, başlangıç anı, makam ve şartlar (nüfus kağıdı tarihi, çift uyruk, 45 gün, yeniden 24 ay ikamet, bir yıllık kira, yetkili gümrük müdürlükleri, komisyon, 3-10 yıl satış kuralı, bölge müdürlüğünün uzatma yetkisi) soruldu. S6, 2023/38'in bilgi alanını (engelli aracının devri) Tebliğ ayrıntısıyla tamamlar.",
+  "Ayna çift: çift uyruklu kişiler taşıt muafiyetinden yararlanamaz (S2) ↔ ev eşyası muafiyetinden yararlanır (S3).",
+  "Güncellik sorusu yok: Tebliğdeki en yeni değişiklik 11.04.2023 tarihli (çift uyruk, hareket ettirici tertibat, yetkili gümrük idareleri); son 12 ayda değişen hüküm görünmüyor.",
+  "Önermeli kombinasyonları: S3 'I ve III', S6 'I, II, IV ve V' (beş önermeli); en kapsamlı şık doğru 0."
+ ]
+}

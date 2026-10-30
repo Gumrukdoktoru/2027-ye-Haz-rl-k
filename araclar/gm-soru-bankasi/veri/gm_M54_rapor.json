@@ -1,0 +1,16 @@
+{
+  "bulunamayan": [
+    "2024/43 (Mısır STA + Vietnam menşeli eşyaya damping, menşe şahadetnamesiyle ithalat): bölüm kaynağında yalnız çıkmış soru metni ve cevabı var, dayanak hüküm (ticaret politikası önlemlerinde menşe şahadetnamesi) yok; kopyalama yasağı nedeniyle bu bölümde soru yazılmadı.",
+    "2023/45, 2025/35 (ticaret politikası önlemlerinde menşe şahadetnamesi aranan/aranmayan haller) ve 2023/48 (tedarikçi beyanı): dayanak Gümrük Yönetmeliği ve PAAMK/tedarikçi beyanı mevzuatıdır; bu bölümün kaynağında yalnız tedarikçi beyanı sonradan kontrolünün 120 gün olduğu bilgisi var.",
+    "2024/3 (AKÇT ürünlerinde EUR.1): kaynakta yalnız özet tabloda 'Tarım Ürünleri/AKÇT' satırı olarak geçiyor; ayrı soru yazılmadı, bilgi alanı M47 (Gümrük Birliği) bölümünün konusudur."
+  ],
+  "giremeyen": "RCEP ve ASEAN üyeleri, EFTA'nın kuruluş tarihi ve ayrılan üyeleri, Birleşik Krallık menşe beyanıyla iade başvurusunun iki yıllık süresi, İran belgesinin bölge müdürlüğünce bir ay uzatılması, Bölgesel Konvansiyonun tolerans (%15) ve set kuralları, tedarikçi beyanının sonradan kontrolü (120 gün) ve kaynakta yer alan İlave Gümrük Vergisi Kararı özeti (İGV bu grupta M56'da ölçüldü) ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 4, klasik 3, önermeli 2, eşleştirme 1, tanım 1 — kota 4/3/2/2 tam. Kökü olumsuz toplam 5/11 (%45).",
+    "Kaynak sunum notu ve özet tablodur; tablonun bozuk aktarılan satırlarından yalnız açık okunan değerler kullanıldı. Pakistan için sonradan kontrol süresi kaynakta çelişkili (bir yerde 12 ay, tablo ve özette 6 ay) olduğundan Pakistan süresi hiçbir soruda kullanılmadı; ikili kümülasyon örneği (Gürcistan, 2021'de Konvansiyona geçti) güncel olmadığı için hesap sorusuna çevrilmedi.",
+    "Kök: kaynak tek bir mevzuat değil, anlaşma bazlı tercihli menşe yönetmeliklerinin özetidir; kökler 'Türkiye'nin serbest ticaret ve tercihli ticaret anlaşmaları çerçevesindeki ticarette eşyanın tercihli menşeinin tespiti hakkındaki Yönetmelikler' kalıbıyla yazıldı (Bölgesel Konvansiyon sorusunda Konvansiyon ve uygulama Yönetmeliği).",
+    "Güncellik: Batı Balkan Menşe Kümülasyon Sisteminin 31.12.2025'te yürürlükten kaldırılması S6'da ölçüldü.",
+    "Çıkmış alan eşlemesi: 2022/23, 2025/97, 2024/36, 2025/26, 2025/36 → S1 (STA/TTA ayrımı, EFTA üyeleri; çıkmış 'STA'sı olmayan ülke' kurgusu kopyalanmadı, önermeliye çevrildi); 2022/13 → S2; 2023/47, 2024/35, 2024/41, 2025/33, 2024/32, 2023/58 → S3 (anlaşma–belge–süre üçlü eşleştirme); 2023/57 → S11; 2025/36 → S1, S11.",
+    "Önermeli kombinasyonları: S1 'I, III, IV ve V' (D), S2 'I, II ve IV' (C); en kapsamlı şık doğru değil."
+  ]
+}

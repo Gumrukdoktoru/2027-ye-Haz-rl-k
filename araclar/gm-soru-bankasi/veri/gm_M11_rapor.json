@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2023/29: Türk bayraklı gemilerin dış sefer halini bozmayan serbest dolaşımdaki eşya taşıma ölçütü ve oranı bu bölümün kaynağında yok (GY 482 yalnız bekleme süresi ve seferin devamı hallerini düzenliyor). Seferin devamı ve üç aylık süre S5'te ölçüldü."
+ ],
+ "giremeyen": "GK 33 kapı ve yolların tespiti, GK 34 deniz taşıtlarının rota ve bildirim kuralları, GY 72/Ç-72/J Denizyolu Genel Bildirimi, boğaz geçişleri ve serbest pratika (GMY SB12'de soruldu), GY 72/R yolcu bildirimi, 72/Ş işletici yükümlülükleri, 72/T radyasyon kontrolü, 2009/15481 sayılı Karar ve Seri 74 Tebliğ fazla çalışma ücreti kuralları, kabotaj beyannamesi nüshaları ve istisnaları (GMY SB13'te soruldu), GY 481 yakıt miktarı tespiti ve Sayaç Tebliği'nin LPG basınç yöntemleri, depo işleticisi sorumluluğu ve yetki hükmü ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+  "Tip: olumsuz 4, klasik 3, önermeli 2, diğer 1 (vaka); kota 10 soru için 4/3/2/1 birebir tutuldu. Kökü olumsuz toplam 4 (%40).",
+  "Önermeli kombinasyonları: S1 'I, III ve IV' (beş önermeli), S7 'II ve III'; en kapsamlı şık doğru 0; ikisi de doğru yönlü.",
+  "Çıkmış alan eşlemesi: 2023/28 ve 2021/25 → S1 (dış sefer yakıtı ve kumanyası); 2022/25 → S2 (A/B sınıfı ve çalışma saatlerini belirleyen merci); 2021/6 → S3 (çalışma saatleri istisnası, vaka); 2021/26 → S4 (yakıt ve kumanya listesi, olumsuz yerine olumlu yön); 2025/56 → S5 (seferin devamı süresi ve uzatma makamı).",
+  "Kullanıcı tercihi gereği kabotaj (S7) ve Sayaç İşlemleri Tebliği (S9, S10) sete alındı; bunker/liman bayisi şartları (S6) meslek yanlılığı sorusudur (müşavir istihdamı şart değil).",
+  "Güncellik sorusu yok: kaynakta son 12 ayda değişen hüküm görünmüyor (Kabotaj Tebliği 2013, Sayaç Tebliği 2017). Fazla çalışma ücreti tutarları (138 TL, 325 TL, 510 TL) yeniden değerleme ile her yıl değiştiğinden ve kaynakta güncel yıl belirtilmediğinden soru yapılmadı.",
+  "Kaynakta GK 33'ün son cümlesi ve bazı madde numaraları silinmiş ('Kanununun maddesine', 'Gümrük inin'); bunlara dayanan soru yazılmadı. GK 34'te Cumhurbaşkanı izni, GY 72/K'da Bakanlar Kurulu izni yazdığından harp gemileri hükmü eski-yeni makam çelişkisi nedeniyle sorulmadı."
+ ]
+}

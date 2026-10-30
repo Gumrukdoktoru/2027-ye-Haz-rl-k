@@ -1,0 +1,14 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "Tasfiye yolları listesi (GK 178), eşyanın bulunmaması halinde CIF/FOB ve vergilerin tahsili, tespit ve tahakkuk belgesinde eşya bedelinin tespit esasları (gümrüklenmiş değer, maktu vergilerin ihaleye esas bedele girmemesi), perakende satış süreleri (otuz gün teslim, on beş günlük fiyat değerlendirmesi, doksan gün), tahsiste otuz iş günü ve özel yolla satışta gümrüklenmiş değerin yüzde ellisi, ihale yasaklama süreleri (altı ay / bir yıl), ambar sayım ve devir süreleri (doksan gün) ile komisyonların oluşumu ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 5, klasik 4, önermeli 2, diğer 3 (vaka 1, hesap 1, eşleştirme 1); kota 14 soru için 6/4/2/2, sapma ±1 içinde (olumsuz −1, diğer +1). Kökü olumsuz toplam 6 (%43; eşleştirme 'yanlıştır' yönlü).",
+    "Önermeli kombinasyonları: S5 'I, III ve IV' (iade kararında vergilerin iade edilmemesi), S12 'I ve II' (taksit süresi ve kaçak eşyada taksit yasağı); en kapsamlı şık doğru 0; ikisi de doğru yönlü.",
+    "Çıkmış alanlar: 2021/29 (tasfiye idaresinin teslim alma süresi, GK 177) → S4 (iadesine karar verilen el konulan eşyada otuz günün başlangıcı) ve S11 (Yönetmelikteki on gün / otuz gün / otuz gün zinciri; teslim alma süresi çeldirici olarak); 2021/51 (satış bedelinden ayrılma sırası) → S7, sıra sorusu kopyalanmadı, Yönetmelikteki yüzde 15 ve yüzde 50 oranlarıyla küçük bir hesap kuruldu (fiili satış gideri tuzak unsur).",
+    "Prompt 5'teki 'GK 179/1'deki %1, %3, %10 oranları' hamlesi S2'de vaka olarak ölçüldü (ilk kez başvuru ama ilan sonrası → %10); GK 179'un istisna listesi S1'de.",
+    "Meslek yanlılığı sorusu: S3 (gümrük müşavirlerinin ihalelere katılma yasağı yoktur).",
+    "S7 küçük hesap sorusudur; doğru sonuç ve dört çeldirici dogrulama/M38_hesap_kontrol.py ile yeniden hesaplandı (hata: 0).",
+    "Güncellik sorusu yok: kaynaktaki en yeni değişiklikler 07.11.2019 (7190 sayılı Kanun, GK 177 ve 179) ve 31.12.2019 (Yönetmelik); son 12 ayda değişen hüküm görünmüyor.",
+    "Kaynak sorunları: GK 177'nin bentlerinde atıf yapılan Gümrük Kanunu madde numaraları kaynakta silinmiş (ör. 'maddesinin ikinci fıkrasına göre'); bu yüzden 177 listesi madde numarasına dayanan bentler (c, g, h, l) üzerinden sorulmadı. Yönetmelik dayanak maddesinde kanun sayıları silinmiş; Yönetmelik md. 32'de 'onbeşgün' bitişik yazılmış (alıntıda kullanılmadı)."
+  ]
+}

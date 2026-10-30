@@ -1,0 +1,15 @@
+{
+  "bulunamayan": [
+    "2021/34: 2009/15481 sayılı Bakanlar Kurulu Kararındaki geri verme ve kaldırma halleri bu bölümün kaynağında yer almıyor (yalnız 'BKK nin 117-120 Md.' atfı var); soru yazılmadı.",
+    "2022/22: geçici ithalat beyannamesinin teslimden önce iptalinde geri verme başvuru süresi; Gümrük Yönetmeliği md. 499 ve Tahsilat Tebliği md. 30/4'teki süre, atıf yapılan madde numaraları kaynakta silindiği için tespit edilemiyor; tahminle doldurulmadı."
+  ],
+  "giremeyen": "Teminatı başka kişinin vermesi ve kamu kuruluşlarının garanti mektupları (GK 202), teminat tutarının en yüksek vergi tutarına göre belirlenmesi (GK 204), teminat mektuplarının takibinde yirmi günlük tebligat ve götürü teminatın askıya alınması, garanti mektubunda yükümlülüğe uymayana bir yıl yasak, hatalı geri vermede on beş gün içinde yeniden tahsil, telafi edici verginin geri verilmesi ve dolaşım belgelerinin karşı ülkece yanlış onaylanması ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 2, vaka 1; kota 8 soru için 3/2/2/1 ile aynı. Kökü olumsuz toplam 3 (%38).",
+    "Önermeli kombinasyonları: S5 'II ve III' (şartlı muafiyette gecikme zammının başlangıcı ve kısmi çözülmede talep şartı), S8 'I, III ve IV' (para cezalarının da kapsamda olması); en kapsamlı şık doğru 0; ikisi de doğru yönlü.",
+    "Çıkmış alanlar: 2021/40 ve 2024/98 (kusurlu eşyada geri verme) → S1, saklı istisnalı vaka (fiyatta kusurun dikkate alınması); 2025/94 (uluslararası anlaşmalara göre geri vermede bir yıl) → S2'nin çeldiricisinde ve gerekçesinde, soru dört aylık süre ve kanuni faiz üzerinden kuruldu; 2021/77 (teminatların tabi olduğu kanun) ve 2025/93 (Yönetmelikte teminat) → S3 (kabul olunan teminatlar, kefalet liste dışı); 2022/6 (toplu ve götürü teminat) ve 2021/39 (götürü teminattan yararlanamayan ÖTV listesi eşyası) → S4; 2021/32 (DİR'de gecikme zammı) → S5 (şartlı muafiyette beyanname tescil tarihi).",
+    "İkiz eksen 8 (geri vermede genel süre ↔ kusurlu eşya ve uluslararası anlaşma süresi) S1 ve S2'de ölçüldü (üç yıl / bir yıl / dört ay).",
+    "Güncellik sorusu yok: kaynaktaki en yeni değişiklik 04.01.2025 (Tahsilat Tebliği Seri No: 4); son 12 ayda değişen hüküm görünmüyor. Geri verme yetki tutarları (4.730.000 / 47.397.000 TL) Yönetmelik metnindeki tutarlardır; Yönetmelik bunların her yıl yeniden değerleme oranında artırılacağını söyler, güncel yıl tutarı kaynakta olmadığı için S6'da metindeki tutar kullanıldı ve gerekçede artırım kuralı belirtildi.",
+    "Tecil teminatları (Tahsilat Tebliği md. 22) M40 kaynağında da bulunduğu için yalnız S3'ün çeldiricisinde (şahsi kefalet) kullanıldı."
+  ]
+}

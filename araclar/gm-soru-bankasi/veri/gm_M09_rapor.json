@@ -1,0 +1,17 @@
+{
+ "bulunamayan": [
+  "2024/6: 56.01 pozisyonundaki eşyanın Türk menşei kazanma kuralı Gümrük Yönetmeliği ek-5 listesindedir; ek liste bu bölümün kaynağında yok. Listede olmayan tekstil ürününün genel kuralı (pozisyon değişikliği) ve listedeki ürünlerde üçüncü sütun işlemi S5'te ölçüldü.",
+  "2022/24 çıkmış sorusundaki 'Yönetmelik eki dışı tekstil ürünü' kuralı kaynakta var (S5); ek-5 ve ek-6 listelerinin içeriği yok."
+ ],
+ "giremeyen": "GY 32 diğer tanımları (kota, tarife kotası, tarife tavanı, tercihli tarife; GMY'de soruldu), GK 17 tercihsiz menşein amaçları ve GK 22 tercihli menşe kurallarının dayanağı (anlaşma / Cumhurbaşkanı Kararı), GK 20 hükümleri aşma amaçlı işçilik, GY 34/2 yetersiz işlemler listesi, GY 36/2 kıymet ve fabrika çıkış fiyatı tanımları, GY 37 aksesuar ve önemli yedek parçaların menşei, GY 40 menşe şahadetnamesi zorunlu bilgileri ve GY 42 Türkiye'den ihracatta menşe şahadetnamesinin şekli ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+  "Tip: olumsuz 3, klasik 2, önermeli 1, diğer 2 (tanım 1, vaka 1). Kota 8 soru için 3/2/2/1; GM menşe sorularında vaka ve tanım kurgusu öne çıktığından önermeli -1, diğer +1. Kökü olumsuz toplam 3 (%38).",
+  "Önermeli: S7 'I, II ve V' (beş önermeli, doğru yönlü); en kapsamlı şık doğru değil.",
+  "Çıkmış alan eşlemesi: 2021/59 → S1 (tarife kapsamında olmayan unsur; izahname-fihrist, farklı yön); 2021/73 → S3 (tarifenin uygulanma zamanı, tercihli tarife, Cumhurbaşkanı şartı); 2022/24 → S5; 2021/21 → S7 (altı ay, sonradan kontrol) ve S8 (430 Avro); 2023/45 ve 2025/35 → S8 (önermeli yerine klasik: şahadetnamenin arandığı tek hal).",
+  "İkiz eksen 4 (tümüyle elde edilme ↔ esaslı işçilik): S4 ve S5 ayna çift.",
+  "GMY bankasında (GMY-041…053, GMY2-061…063, GMY3-009…011, SB09) GK 15 ve GY 34–41 büyük ölçüde soruldu; GM setinde aynı hükümler farklı yönden kuruldu (izahname liste dışı, GK 16 makamı, doğum şartı, geldiği ülke vakası, şahadetnamenin arandığı hal).",
+  "Güncellik sorusu yok: kaynaktaki en yeni değişiklik dipnotu 01.04.2020 (GY 205/4 son iki cümle); son 12 ayda değişen hüküm görünmüyor.",
+  "Kaynakta bazı madde atıfları silinmiş ('inci madde hükümleri uygulanır', 'maddenin dördüncü fıkrası', 'yer alan listedeki'); bunlara dayanan soru yazılmadı."
+ ]
+}

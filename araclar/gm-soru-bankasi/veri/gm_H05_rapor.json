@@ -1,0 +1,17 @@
+{
+ "bulunamayan": [
+  "2025/25 (LNG'nin serbest dolaşıma girişinde Serbest Dolaşıma Giriş Tebliği Seri No:16 basitleştirilmiş usul BS kodu): metinde yok."
+ ],
+ "giremeyen": "Transit kutuları (50–56), gümrük idaresince doldurulan C–I kutuları, form basım şartları (kâğıt ağırlığı, şerit renkleri) ve uzun ülke, döviz, doküman listelerinin ayrıntısı 8 soruluk bölüme sığmadı; teslim şekli kodları H01'de (3, 4 ve 31. sorular) kullanıldığı için burada ayrıca sorulmadı.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Bölüm sözeldir (talimat: H05'e sayısal oran şartı uygulanmaz); hesap sorusu yoktur, bu yüzden dogrulama betiği yazılmadı.",
+  "Profil: 4 klasik (1 nüsha, 2 istatistiki kıymet, 4 müşavirin 54 no.lu kutusu, 7 B kutusu), 2 kod–anlam eşleştirmesi (3 doğru yönlü; 6 yanlış yönlü, olumsuz kök), 1 vaka (5 rejim kodunun yapısı), 1 önermeli (8, I–V).",
+  "Kapsanan kod listeleri: vergi, ödeme şekli, doküman (3); ülke, döviz, taşıma aracı, ölçü birimi (6); rejim (5). Kutular: 1, 17, 33, 38, 43 (8), 46 (2), 54 (4), B (7), nüshalar (1).",
+  "Çıkmış alan → soru: 2022/44 (ihracatta yükümlüye iade edilen nüsha) → 1 (farklı yönden: ithalatta sonradan kontrol ve istatistik için yükümlüde kalan 7 no.lu nüsha).",
+  "Meslek yanlılığı sorusu: 4 (gümrük müşavirinin 54 no.lu kutuya yazacağı bilgiler; büro kaşesi basılmaz).",
+  "Sabit harfli sorular: 1 (D) ve 5 (B); aralarında serbest sorular var.",
+  "Kaynak sorunları: rejim kodu açıklamaları BİLGE listesinde kısaltılmış (ör. '5300 | Daha önce bir rej. tut.eş.geç. ith. rej. kaps. ithalatı'); 5. sorunun gerekçesinde kodun anlamı ilk iki / son iki hane kuralıyla birlikte okundu, kısaltmalar kanıtta olduğu gibi alıntılandı. Ek-14 başlığında 'Mülga EK-14' bağlantı etiketi var; metindeki talimat 2023 değişiklik dipnotlarıyla yürürlükteki metindir.",
+  "Güncellik: dipnotlardaki son değişiklikler 03.05.2023 ve 12.05.2023 tarihli; son 12 ayda değişiklik yok.",
+  "Kör çözüm bu ajan tarafından yapılmadı (ajan talimatı yazmayı veri/gm_H05* ve dogrulama/H05_* dosyalarıyla sınırlıyor)."
+ ]
+}

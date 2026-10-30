@@ -1,0 +1,13 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "E-ihalede taşıt bedelinin tespiti ve taşıt raporu (dört cephe fotoğraf, eksper raporu), kapalı teklifte eşit tekliflerde sıra (ilk teklif, ilk üyelik, en çok teminat), e-ihaleye en fazla üç ay ve en az üç defa sunma kuralı, mücbir sebep başvurusunda üç iş günü; Kaçak Eşya Tebliğinde kaçak eşya için tespit ve tahakkuk belgesi süreleri (iki iş günü / on gün) ve bir ay / altı ay beklenmeksizin tasfiye kararı talebi ayrı soru olarak sete giremedi (bir kısmı S1 ve S6'nın çeldiricilerinde kullanıldı).",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 2, vaka 1; kota 8 soru için 3/2/2/1 ile aynı. Kökü olumsuz toplam 3 (%38).",
+    "Önermeli kombinasyonları: S2 'II ve IV' (kapalı teklif saatleri ve uzatma sınırı), S7 'II, III ve IV' (bağlantısız FSMH eşyasının milli emlake teslimi); en kapsamlı şık doğru 0; ikisi de doğru yönlü.",
+    "Ayna eksen: Tasfiye Yönetmeliğindeki açık artırma salonu ihalesi (M38) ↔ e-ihale Tebliği: yeniden satışa sunma süresi üç ay ↔ bir ay (S1), salon satışında taksit ↔ e-ihalede taksit yasağı (S3), dar yasaklı listesi ↔ tüm Bakanlık personeli ve eşleri (S4, saklı istisnalı vaka).",
+    "M44 pilotuyla çakışma önlendi: alıkoyma halleri, otuz günlük teminat ve doksan günlük teslim süresi M44'te ölçüldüğü için Kaçak Eşya Tebliğinden yalnız sonraki adımlar (on gün + on gün belge talebi ve gönderimi, S6), elkoyma ve rızaen teslim (S5), FSMH eşyası ve deniz taşıtları (S7) soruldu. 2025/85 (alıkoyma koşulları) bilgi alanının devamı S6'ya bağlandı.",
+    "Bu bölüme düşen doğrudan bir çıkmış GM sorusu bulunmadı (gm_sorular.csv'de e-ihale ve kaçak eşya tasfiye tebliğine ait soru yok).",
+    "Güncellik sorusu yok: kaynaktaki en yeni değişiklik 16.10.2018 (Elektronik İhale Seri No: 2); son 12 ayda değişen hüküm görünmüyor.",
+    "Kaynak sorunları: E-ihale Tebliğinin amaç ve dayanak maddelerinde Gümrük Kanunu ve Yönetmelik madde numaraları; Kaçak Eşya Tebliğinde CMK ve Sınai Mülkiyet Kanunu madde numaraları ve ek numaraları silinmiş; bunlara dayanan soru yazılmadı."
+  ]
+}

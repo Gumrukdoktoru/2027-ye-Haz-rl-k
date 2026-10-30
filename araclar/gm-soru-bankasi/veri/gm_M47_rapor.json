@@ -1,0 +1,16 @@
+{
+  "bulunamayan": [
+    "2022/11 (menşe ispat/dolaşım belgelerinin basım ve onayından sorumlu kuruluşlar) ve 2024/33 (ihraçta gümrük vizesine tabi belgeler): kaynakta A.TR'nin basım, dağıtım ve vize usulü var (Bakanlıkça yetki verilen kişi ve kuruluş, onaylanmış matbaa); öteki belgeler (Form A, menşe şahadetnamesi, EUR.1 basımı) bu bölümün kaynağında yok, M48/M49 bölümlerinin konusudur. A.TR yönü S9 (eşleştirme) ve S10'da kısmen ölçüldü."
+  ],
+  "giremeyen": "Ankara Anlaşması'nın dönemleri ve tarihleri (12.09.1963 imza, 1.12.1964 yürürlük, Katma Protokol 1970/1973, hazırlık 5–10 yıl, geçiş en fazla 12 yıl, GB 6.3.1995 kabul ve 1.1.1996 yürürlük), 2/95 sayılı hassas ürünler kararı, A.TR'nin şekli (210x297 mm, 25 g/m2, yeşil meneviş) ve elektronik düzenleme usulü (13 no.lu kutunun imzası, kopyanın beş yıl saklanması), belgenin sonradan verilebileceği hallerin listesi, ikinci nüsha usulü, üçgen trafikte vergilendirme (işlem maliyeti), üçüncü ülke eşyasında kıymete girmeyen varış sonrası giderler ve Bulgaristan-Romanya-Hırvatistan geçiş hükümleri ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+    "Tip: olumsuz 6, klasik 5, önermeli 3, vaka 2, tanım 1, eşleştirme 1; kota 18 soru için 7/5/3/3, gerçek 6/5/3/4 (±1 içinde; menşe alanında eşleştirme ve vaka öne alındığı için diğer +1). Kökü olumsuz toplam 7 (%39; eşleştirme dahil).",
+    "Önermeli kombinasyonları: S3 'I, III ve IV', S7 'I, II ve IV', S16 'I ve II'; en kapsamlı şık doğru 0; yanlış yönlü yok.",
+    "Çıkmış alan eşlemesi: 2023/85, 2025/2 → S3 (olumsuz kurgu yerine önermeli, liste dışı unsur 'gümrük müşavirliği mesleği'); 2025/27 → S2 (önermeli yerine liste dışı); 2024/3 → S4 (AKÇT ürününde EUR.1, Hırvatistan vakası); 2022/37 → S5 (sonradan verme yerine teknik ret ↔ önemsiz farklılık); 2023/55, 2023/58 → S6 (ikinci nüsha ve ibraz süresinin başlangıç anları); 2025/96 → S1 (tanımdan ad: üçgen trafik) ve S9 (form–düzenleyen idare eşleştirmesi, çıkmış tanım–form sıralamasından farklı yön); 2023/48 → S15 (tedarikçi beyanı, doğru yönlü); 2022/13 → S18 (GB kapsamı, işlenmiş tarım ürünlerinde tarım payı ↔ sanayi payı).",
+    "İkiz eksen 3 (gümrük statüsü ↔ menşe): S2 ↔ S4 ayna çifti (A.TR düzenlenmeyen AKÇT ürünü ↔ bu ürünün EUR.1 ile ihracı); S16'da menşe statüsünün A.TR ile değil tedarikçi beyanıyla kanıtlanması.",
+    "Güncellik (son 12 ay): S7 Ticaret Bakanlığı 15.04.2026 tarihli yazısı (süre durdurma koşulları, iki yıl sınırı); S8 13.04.2026 ve 24.07.2026 tarihli yazılar (basitleştirilmiş A.TR yalnız onaylanmış ihracatçının kendi ihracatı için; yetkisiz kullanımda teknik ret); S16 08.01.2026 tarihli 10821 sayılı CK ile eklenen çapraz kümülasyon ülke duyurusu hükmü.",
+    "Meslek yanlılığı: S10 (onaylanmış ihracatçı şartlarına 'gümrük müşaviri sözleşmesi' eklenmesi) ve S3 (1/95 kabul edilen hükümlere 'gümrük müşavirliği mesleği' eklenmesi).",
+    "Kaynakta 1/95 OKK içeriği iki sütunlu tablodan aktarıldığı için satırlar karışık; yalnız açık okunan 'Gümrük Hükümleri' listesi kullanıldı, 'mevzuatın yakınlaştırılması' alt listesinden soru yazılmadı. Vaka S8'de Gümrük Kanunu'nun cezaya ilişkin fıkrasının uygulanmaması kuralı, içeriği kaynakta açıklanmadığı için şıklara konmadı."
+  ]
+}

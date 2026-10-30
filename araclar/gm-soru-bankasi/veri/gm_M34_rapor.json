@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2021/80: serbest bölgelerde gümrük yükümlülüğünün doğuşu, başlangıç tarihi ve yükümlüler (GK 181-182) bu bölümün kaynağında yok; hüküm yükümlülük bölümünün (40-yukumluluk-tahakkuk) metnindedir.",
+  "2025/58: serbest bölgelere ihracatın tabi olduğu mevzuat İhracat Yönetmeliği konusudur (M29); bölüm kaynağındaki karşılığı (serbest bölge ile Türkiye arasındaki ticaretin dış ticaret rejimine tabi olması) S3'te ölçüldü."
+ ],
+ "giremeyen": "GK 158'deki tüketim-kullanım yasağı ve istisnaları (GMY bankasında soruldu), GK 160'taki çıkış hükümleri, GY 420'deki gözetim yetkisi, 424'teki Gümrük Statü Belgesinin düzenlendiği üç hâl ve A.TR'de tevsik işlevi, 426'daki INF 8 Bilgi Formu, 428-429'daki envanter onayı ve içeriği, 3218 sayılı Kanunda faaliyet ruhsatı, Serbest Bölgeler Koordinasyon Kurulu, 5000 ABD Dolarını geçmeyen Türkiye mahreçli malların isteğe bağlı ihracat işlemi, doğal gaz hükümleri ve uygulanmayan kanunlar ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 3, klasik 2, önermeli 2, boşluk 1 (kota 3/2/2/1 birebir). Kökü olumsuz 3/8 (%38).",
+  "Çıkmış alan → soru: 2023/75 (serbest bölgeden satışta depolama gideri, hesap) → S6'nın III. önermesi (ayrı gösterilen depolama ve muhafaza masrafının kıymete girmemesi; hesap kurgusu kopyalanmadı).",
+  "İkiz eksen: S1 (serbest bölgede tabi tutulabilecek rejimler; hariçte işleme listede yok), S5 ve S8 (gümrük statüsü: statüsü kanıtlanamayan eşya, A.TR statü belgesi), S6 (kıymet: depolama masrafı).",
+  "Güncellik sorusu yok: kaynaktaki en yeni değişiklikler 01.02.2023 (3218 doğal gaz) ve 03.01.2023 (GY 425/2); son 12 ayda değişen hüküm yok.",
+  "Kaynak sorunları: 3218 md. 9'da 'Cumhurbaşkanı ödemelerin Türk Lirası olarak yapılmasına da karar .' cümlesi eksik, bu nedenle yalnız 'ödemeler dövizle yapılır' kısmı soruldu; GK 156 (serbest bölgede kalış süresi) başlığı metinsiz; GK 159/3, 160/2 ve GY 426/1'de madde numaraları silinmiş.",
+  "Önermeli kombinasyonları: S3 'I, III ve V' (beş önermeli), S6 'I ve II'; en kapsamlı şık doğru 0."
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "bulunamayan": [
+    "2025/34 (Pan Avrupa Akdeniz sisteminde EUR.1'e ilişkin yanlış bilgi): belge niteliği, dört aylık geçerlilik ve sonradan düzenlenme bilgileri S5, S6 ve S9'da ölçüldü; çıkmış sorunun 'Türkiye ile AB arasındaki işlenmiş tarım ürünleri ticaretinde kullanılır' önermesinin dayanağı (İTÜ'de A.TR kullanılması) bu bölümün değil M47/M48 bölümlerinin kaynağındadır (M48 S5 tanımları, M47 S2)."
+  ],
+  "giremeyen": "Ülkesellik ilkesi ve Taraf ülke dışında işlemede %10 katma değer kuralı, doğrudan nakliyat ispat belgeleri, geri ödeme veya muafiyet yasağı (drawback) ve geçiş dönemi oranları, tedarikçi beyanı (Türkiye-Cezayir-Fas-Tunus), EUR-MED fatura beyanı ibareleri ('CUMULATION APPLIED WITH'), EUR.1'in teknik nedenle reddi (M47'de A.TR yönüyle soruldu), ikinci nüsha, belge saklama süreleri (en az üç yıl), ticari mahiyette olmayan eşya (M49'da GTS yönüyle soruldu), onaylanmış ihracatçı şartları ve sonradan kontrolde on ay kuralı (M47'de A.TR yönüyle soruldu) ayrı soru olarak sete giremedi; grup içinde aynı hükmün iki kez sorulmaması için bu ikizler bilinçli olarak dışarıda bırakıldı.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+    "Tip: olumsuz 4, klasik 2, önermeli 2, vaka 1; kota 9 soru için 4/2/2/1, gerçek 4/2/2/1. Kökü olumsuz toplam 4 (%44).",
+    "Önermeli kombinasyonları: S4 'I, II ve III', S9 'I ve II'; en kapsamlı şık doğru 0; yanlış yönlü yok.",
+    "Güncellik (son 12 ay): 31.12.2025 tarihli ve 33124 sayılı (6. Mükerrer) Resmî Gazete'deki değişiklik, yürürlük 01.01.2026. S1: Yönetmeliğin kapsamı yalnız Tunus ve Mısır protokolleri; S4 (III. önerme): kümülasyonda Bakanlık resmî internet sitesinden duyurulan tablonun esas alınması. Kaynakta kapsam maddesinin başlığı 'değişik Mülga' biçiminde karışık işaretlenmiş; soru, maddenin kaynakta görünen yürürlükteki metnine (Tunus ve Mısır) dayandırıldı.",
+    "Çıkmış alan eşlemesi: 2025/34 → S5, S6, S9 (fatura beyanı ve EUR.1 geçerliliği, geç ibraz, sonradan verme; çıkmış kurgudan farklı olarak her biri ayrı hüküm üzerinden); 2025/26 (EFTA üyeleri) → S4 (Pan Avrupa kümülasyonundaki ülkeler ve Lihtenştayn–İsviçre gümrük birliği).",
+    "Grup içi ikiz ayrımı: PAAMK'ta genel tolerans %10 (S3) ↔ GTS'de %15 ve setlerde %15; kendi gemisi şartlarında %75 mürettebat (S2) GTS kurallarında yok.",
+    "Kaynakta 'Başbakanlık (Gümrük Müsteşarlığı)' ve 'Başmüdürlük' gibi eski kurum adları geçiyor; şıklarda eski ve yeni kurum adı rakip seçenek yapılmadı."
+  ]
+}
