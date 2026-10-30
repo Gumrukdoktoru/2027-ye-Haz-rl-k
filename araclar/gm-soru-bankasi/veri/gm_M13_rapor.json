@@ -1,0 +1,19 @@
+{
+ "bulunamayan": [
+  "2025/23: farklı tarife pozisyonlarındaki eşyanın tek pozisyondan vergilendirilmesinde beyannameye eklenecek liste serbest dolaşıma giriş rejimi hükmüdür (GK 76, GY 204); bu bölümün kaynağında yok.",
+  "2025/25: basitleştirilmiş usul kodları (Serbest Dolaşıma Giriş Tebliği Seri No:16) kaynakta yok.",
+  "2022/44: ihracat beyannamesi nüshaları beyannamenin ekindeki kullanım talimatındadır; ek bu bölümün kaynağında yok.",
+  "2022/77: tahlilden arta kalan numunelerin bir ay içinde alınmazsa terk sayılması (GK 66/5) bu bölümün kaynağında var; grup içinde tekrarı önlemek için numune ve tahlil hükümleriyle birlikte M14'te ölçüldü."
+ ],
+ "giremeyen": "GK 59-61 beyan şekilleri ve tescil, GK 60/5 resmî yazıların beyanname sayılması, GK 65-68 beyanın kontrolü, kalem esası ve ayniyet tespiti (GMY SB16'da soruldu), GK 70 beyan sahibinden kaynaklanan aksaklıkta tasfiye ve antrepoda otuz gün, GY 113 beyanın bağlayıcılığı, GY 115-120 fatura, ayrıntılı fatura, çeki listesi ve taşıma belgeleri, GY 124-129 teslimden sonra iptal halleri, GY 131-139 kurye işlemleri, GY 141/A izinli gönderici beyanı, GY 151 ve 160 antrepo tiplerine göre basitleştirilmiş usul (GMY'de soruldu), GY 152-158 ihracatta eksik beyan ve tamamlayıcı beyan (GMY'de soruldu) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'.",
+  "Tip: olumsuz 4, klasik 2, önermeli 2, diğer 1 (vaka); kota 9 soru için 4/2/2/1 birebir tutuldu. Kökü olumsuz toplam 4 (%44).",
+  "Önermeli kombinasyonları: S1 'I, III ve IV', S7 'I, III ve V' (ikisi de beş önermeli, doğru yönlü); en kapsamlı şık doğru 0.",
+  "Çıkmış alan eşlemesi: 2023/46 ve 2025/29 → S1 (beyannameye eklenecek belgeler); 2024/38 → S4 ve S5 (kısmi çekme ve tahlil beklenmeden teslim); 2023/43 → S7 (serbest dolaşıma girişte eksik beyan); 2021/20 → S9 (tamamlayıcı beyan).",
+  "İkiz eksen 9 (iptal ↔ düzeltme): S3 (muayene bildiriminden sonra iptal talebi, düzeltmeyle ayrımı) ve S4 (düzeltmede başka eşya ve sınırlar).",
+  "Meslek yanlılığı: S1 II. önerme (eklenmeyen belgeleri müşavirin saklayacağı yanılgısı).",
+  "Güncellik sorusu yazılmadı: kaynaktaki tek son 12 ay notu GY 130/1'deki konşimentosuz petrol teslimine ilişkin hükmün 25.05.2022 tarihli hâlinin 12.08.2026 tarihli Danıştay kararıyla iptalidir; bu hüküm GMY bankasında (SB16-17) aynı yönden soruldu ve iptal sonrasında uygulanacak metin kaynakta belirsiz olduğu için tekrar sorulmadı. GY 112/5 (20.04.2024) ve 114 (03.01.2023) değişiklikleri son 12 ayın dışında.",
+  "Kaynakta bazı madde numaraları silinmiş ('l. madde hükümleri saklı kalmak', 'maddede sözü edilen beyanname'); bunlara dayanan soru yazılmadı."
+ ]
+}
