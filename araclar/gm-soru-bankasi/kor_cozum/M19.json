@@ -1,0 +1,10 @@
+{
+"M19-01": {"cevap": "A", "emin": "yüksek", "dayanak": "Transit Tebliği Seri 5 md.12(1)(a) en geç 15 gün öncesinde Bakanlığa bildirim; (c) işlem tarihinden itibaren üç yıl erişim; (i) izin şartlarında değişiklikte en geç otuz gün içinde bildirim.", "sorun": []},
+"M19-02": {"cevap": "C", "emin": "yüksek", "dayanak": "Seri 6 md.7(3): vagon bazında vagon numarası, CIM Taşıma Belgesi numarası, planlanan sevkiyat tarihi, hareket ve varış gümrük idaresi. Uçuş no/konşimento Seri 5, IMO/acente vergi no Seri 8'e aittir.", "sorun": []},
+"M19-03": {"cevap": "E", "emin": "yüksek", "dayanak": "Seri 8 md.7(5)(e) konteyner numarası her konşimento için listede yer alır; Seri 6 md.7(7) CIM için yalnız alıcı, gönderici, kap adedi, ticari tanım, brüt ağırlık.", "sorun": []},
+"M19-04": {"cevap": "D", "emin": "yüksek", "dayanak": "Seri 6 md.7(1) tren işletmecisi rejim hak sahibi (I); md.8(4) ulusal transitte etiket yapıştırılmasına gerek yok (II yanlış); md.10(4) 'Vazgeçme - 92110' (III); md.13(1)(b) hareket idaresinin önceden izni olmadan uygulanamaz (IV).", "sorun": []},
+"M19-05": {"cevap": "C", "emin": "yüksek", "dayanak": "Seri 5 md.10(3): ilk iki seferde yazılı uyarı; bir takvim yılı içinde iki kez uyarılmasına rağmen aynı hükmün üçüncü kez ihlalinde izin otuz gün süreyle askıya alınır.", "sorun": []},
+"M19-06": {"cevap": "B", "emin": "yüksek", "dayanak": "Seri 14 md.4(1)(c) en az 5.500 transit beyanında rejim hak sahibi; md.4(2) YYS sahibinde transit beyanı sayısı dörtte bir nispetinde uygulanır: 5.500/4 = 1.375.", "sorun": []},
+"M19-07": {"cevap": "A", "emin": "yüksek", "dayanak": "Seri 14 md.5(4): izinli gönderici yetkisi askıya alınmadığı veya iptal edilmediği sürece geçerlidir; yenileme her üç yılın son ayında yapılır (kendiliğinden sona ermez). B md.5(1), C md.12(6), D md.10(1), E md.12(8) doğru.", "sorun": []},
+"M19-08": {"cevap": "B", "emin": "yüksek", "dayanak": "Seri 8 md.8(3): 7. maddedeki bilgileri sisteme elektronik olarak ileten izin sahibi (gemi acentesi) rejim hak sahibi olur; kaptan değil. A md.6(1), C md.4(2), D md.5(1), E md.6(6) doğru.", "sorun": []}
+}

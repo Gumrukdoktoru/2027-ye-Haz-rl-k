@@ -10,11 +10,18 @@ METIN_TUM: bütün bölüm metinlerinin tek düz klasörü (mevzuat NN-*.txt, ta
 Bölüm türü sorunun `blok` alanının ilk harfinden okunur: M (mevzuat), T (tarife), H (hesaplama).
 kontrol5'e göre farklar:
 - Kalıp kümesine GTİP eklenir (tarife sınıflandırma sorusu). HESAP zaten vardır.
-- Kökte mevzuat adı:
-    M → kontrol5 kuralı (Kanun | Yönetmelik | Tebliğ | Karar).
-    T → ayrıca "Tarife Cetveli", "Genel Yorum Kuralları", "İzahname", "Armonize Sistem" kabul edilir.
+- Kökte mevzuat adı (dayanak türü):
+    M → kontrol5 kuralı (Kanun | Yönetmelik | Tebliğ | Karar) ve ayrıca Genelge (Genelgesi), Talimat,
+        İzahname, Tarife Cetveli, Cumhurbaşkanı Kararı.
+    T → bunlara ek olarak "Genel Yorum Kuralları", "Armonize Sistem" kabul edilir.
     H → HESAP kalıbında kök hesaplanan büyüklüğü adlandırır (tutar, matrah, kıymet, değer, toplam);
-        sözel H sorusunda mevzuat adı ya da vergi/matrah/fon/kıymet terimi yeterlidir.
+        sözel H sorusunda mevzuat adı (yukarıdaki türler) ya da vergi/matrah/fon/kıymet terimi yeterlidir.
+- Madde numarası denetiminde yıl/sayı biçimli karar, tebliğ ve genelge sayıları ("2009/15481", "99/13812",
+  "94/6401", "2008-32/34", "2006/10895") madde numarası sayılmaz.
+- Gerekçe sonundaki "(MD …)" parantezi bir kat iç parantez içerebilir ("(MD GYK 3(c); Fasıl 95 Notu)").
+- Sayısal şık: yalnız sayı/para/oran ağırlıklı şık sayısal sayılır (sayıdan sonra en çok üç kelimelik birim,
+  noktalı virgül/iki nokta/tire ile açıklama yok). "%6; Fon kesintisinin …" gibi metin ağırlıklı şıklar
+  sayısal değildir; sirali=True şartı ve artan sıra denetimi bunlara uygulanmaz.
 - Kanıt karşılaştırması: tarife metnindeki markdown italik yıldızları (*), yumuşak tire ve
   Türkçe "İ" küçültmesindeki birleşik nokta (U+0307) iki tarafta da yok sayılır.
 - HESAP kalıbında gerekçe adım adım hesap içerir ("=" ya da "×").
@@ -47,11 +54,15 @@ from kontrol5 import (
 )
 
 KAL_GM = set(kontrol5.KAL) | {"GTİP"}
-TARIFE_AD = (
-    r"Kanun|Yönetmeli|Tebliğ|Karar|Tarife Cetvel|Genel Yorum Kural|İzahname|Armonize"
-)
+# kökte dayanak türü: kontrol5 türleri + Genelge/Genelgesi, Talimat, İzahname, Tarife Cetveli, Cumhurbaşkanı Kararı
+DAYANAK = r"Kanun|Yönetmeli|Tebliğ|Karar|Genelge|Talimat|İzahname|Tarife Cetvel|Cumhurbaşkanı Kararı"
+TARIFE_AD = DAYANAK + r"|Genel Yorum Kural|Armonize"
 HESAP_KOK = r"tutar|matrah|kıymet|değer|toplam"
-H_SOZEL = r"Kanun|Yönetmeli|Tebliğ|Karar|vergi|matrah|fon|kıymet|değer"
+H_SOZEL = DAYANAK + r"|vergi|matrah|fon|kıymet|değer"
+# yıl/sayı biçimli karar, tebliğ, genelge sayıları (madde numarası değildir): 2009/15481, 99/13812, 2008-32/34
+YIL_SAYI = r"\b(?:\d{4}(?:-\d+)?/\d+|\d{2}/\d{3,})\b"
+# gerekçe sonu: (MD …) — bir kat iç parantez serbest: (MD GYK 3(c); Fasıl 95 Notu)
+MD_SON = r"\(MD (?:[^()]|\([^()]*\))*\)\s*$"
 HARF_ATIF = (
     r"\b[A-E]\s*(şıkkı|şıkkın|şıkkında|şıkta|seçenek|seçeneğ)|\([A-E]\)\s*(şık|seçenek)"
     r"|son seçenek|ilk seçenek|ilk şık|son şık|birinci seçenek|ikinci seçenek|üçüncü seçenek"
@@ -71,6 +82,24 @@ def norm_gm(s):
     s = s.replace("*", "").replace(chr(0xAD), "")
     s = s.lower().replace(chr(0x307), "")
     return re.sub(r"\s+", " ", s).strip()
+
+
+def sayi_gm(s):
+    """kontrol5.sayi, yalnız sayı/para/oran ağırlıklı şıkta.
+
+    Sayıdan sonra kalan metin en çok üç kelimelik birim olabilir ("20.000 ABD Doları", "3 iş günü", "%18");
+    noktalı virgül, iki nokta ya da tireyle açıklama eklenmiş ya da dörtten çok kelime taşıyan şık
+    ("%6; Fon kesintisinin …", "20.000.000 TL – asgari üç yıl") sayısal sayılmaz (None).
+    """
+    n = sayi(s)
+    if n is None:
+        return None
+    kalan = re.sub(r"^\s*(yüzde\s*)?%?\s*[\d.,]+\s*", "", s, flags=re.I)
+    if re.search(r"[;:–—]|\s-\s", kalan):
+        return None
+    if len(re.findall(r"[^\W\d_]+", kalan)) > 3:
+        return None
+    return n
 
 
 def tur(q):
@@ -127,7 +156,7 @@ def denetle(Q, metin_klasoru, sessiz=False):
             e.append("yuva 4 olmalı")
         if len(q["cek"].split()) > 25:
             e.append("çekirdek >25 kelime")
-        metin = " ".join(q["kok"] + siklar)
+        metin = re.sub(YIL_SAYI, " ", " ".join(q["kok"] + siklar))
         if re.search(MADDE, metin, re.I):
             e.append("kökte/şıkta madde-fıkra-bent no")
         if re.search(r"\b(hepsi|hiçbiri)\b", " ".join(siklar), re.I):
@@ -136,7 +165,7 @@ def denetle(Q, metin_klasoru, sessiz=False):
             e.append("yapay niteleme kökte")
         if re.search(GYASAK, q["g"], re.I):
             e.append("gerekçede yasak ifade")
-        if not re.search(r"\(MD [^)]*\)\s*$", q["g"].strip()):
+        if not re.search(MD_SON, q["g"].strip()):
             e.append("gerekçe '(MD …)' ile bitmeli")
         if not re.search(r"Bu nedenle doğru cevap '.+' seçeneğidir\.", q["g"]):
             e.append("gerekçe \"Bu nedenle doğru cevap '<d>' seçeneğidir.\" içermeli")
@@ -147,7 +176,7 @@ def denetle(Q, metin_klasoru, sessiz=False):
             e.append("gerekçedeki alıntı d ile aynı değil")
         kok = " ".join(q["kok"])
         # kökte mevzuat adı (bölüm türüne göre)
-        if t == "M" and not re.search(r"Kanun|Yönetmeli|Tebliğ|Karar", kok):
+        if t == "M" and not re.search(DAYANAK, kok):
             e.append("kökte mevzuat adı yok")
         if t == "T" and not re.search(TARIFE_AD, kok):
             e.append(
@@ -171,7 +200,7 @@ def denetle(Q, metin_klasoru, sessiz=False):
         onc = [l for l in q["kok"] if re.match(r"^(I|II|III|IV|V)\.\s", l.strip())]
         if q["kalip"] == "ÖNERMELİ" and len(onc) < 3:
             e.append("önermeli en az 3 önerme")
-        nums = [sayi(s) for s in siklar]
+        nums = [sayi_gm(s) for s in siklar]
         if q.get("sirali") and all(n is not None for n in nums):
             if nums != sorted(nums):
                 e.append("sayısal şıklar artan sırada değil")
