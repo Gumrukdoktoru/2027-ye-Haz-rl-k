@@ -261,7 +261,7 @@ Q = [
         kalip="ÖNERMELİ",
         z="Z",
         madde=f"{HT} md. 9, 10, 17",
-        cek="HİR süresi azami 12 ay; belgeye 1/2, izne 12 aya kadar ek süre; ek süre müracaatı 1 ay; kapatma 1 ay, bildirimden 1 ay sonra resen; 3 yıllık süre gözetilir.",
+        cek="HİR süresi azami 12 ay; belgeye 1/2, izne 12 aya kadar ek süre; ek süre müracaatı 1 ay; kapatma 1 ay, sonra resen; 3 yıl gözetilir.",
         kok=[
             f"{HT}'ne göre;",
             "I. Hariçte işleme izin belgesinin/hariçte işleme izninin süresi azami 12 aydır.",
