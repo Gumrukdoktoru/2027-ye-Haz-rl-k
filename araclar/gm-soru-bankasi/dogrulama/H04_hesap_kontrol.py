@@ -8,6 +8,8 @@ Her hesap sorusu için veri kökteki rakamlardan yeniden hesaplanır:
 - her çeldirici (adı konmuş tipik hata).
 Sonuçlar şıklardaki metinle karşılaştırılır; sıra artan olmalı, doğru şık B/C/D'de olmalıdır.
 Ayrıca sözel yetki sorusundaki (11) tutar–komisyon eşleşmesi aynı kuralla yeniden kurulur.
+2 ve 7'de GK 234/2'nin güncel metni (07.11.2019; ceza doğrudan vergi farkının yarısı) denetlenir: kök yürürlükteki
+metne göre hesaplandığını söyler, eski "üç katın yarısı" yöntemi yalnız çeldiricidir ve gerekçe neden yanlış olduğunu açıklar.
 """
 
 import math
@@ -276,6 +278,42 @@ for ad, val in yanlis.items():
         s11.append(f"11: gerekçede {ad}={tl(val)} yok")
 hata += len(s11)
 print("11 (YETKİ)", beklenen_d, "|", "TAMAM" if not s11 else "; ".join(s11))
+
+# 2 ve 7: GK 234/2'nin güncel metni (07.11.2019) — ceza doğrudan vergi farkının yarısı.
+# Kök güncel metne göre hesaplandığını açıkça söylemeli; eski "üç katın yarısı" yöntemi yalnız çeldiricidir
+# ve gerekçe neden yanlış olduğunu açıklamalıdır.
+s_guncel = []
+q2, q7 = Q[1], Q[6]
+kok2, kok7 = " ".join(q2["kok"]), " ".join(q7["kok"])
+if "07.11.2019" not in kok2 or "yürürlükteki" not in kok2:
+    s_guncel.append(
+        "2: kökte güncel (07.11.2019 sonrası, yürürlükteki) metin belirtilmemiş"
+    )
+if tl(D(240000 - 200000) * 3 / 2) not in q2["siklar"]:
+    s_guncel.append("2: eski yöntem (üç katın yarısı) çeldiricisi yok")
+if (
+    "yürürlükteki metne uymaz" not in q2["g"]
+    or "doğrudan vergi farkının yarısına" not in q2["g"]
+):
+    s_guncel.append("2: gerekçe eski yöntemin neden yanlış olduğunu söylemiyor")
+if "07.11.2019" not in kok7 or "yürürlükteki" not in kok7:
+    s_guncel.append(
+        "7: kökte güncel (07.11.2019 sonrası, yürürlükteki) metin belirtilmemiş"
+    )
+if not any(c.endswith("– vergi farkının yarısı") for c in q7["c"]):
+    s_guncel.append(
+        "7: DİR/GKAİR – vergi farkının yarısı (doğru eşleştirme) çeldiricisi yok"
+    )
+if "eski usul" not in q7["g"]:
+    s_guncel.append(
+        "7: gerekçe eski usulün (üç katın yarısı) güncel metinde olmadığını söylemiyor"
+    )
+hata += len(s_guncel)
+print(
+    "2, 7 (GK 234/2 güncel metin)",
+    "|",
+    "TAMAM" if not s_guncel else "; ".join(s_guncel),
+)
 
 print("\nDoğru şık konumları:", {h: konumlar.count(h) for h in "BCD"})
 print(f"Hesap sorusu: {len(H)} · hata: {hata}")
