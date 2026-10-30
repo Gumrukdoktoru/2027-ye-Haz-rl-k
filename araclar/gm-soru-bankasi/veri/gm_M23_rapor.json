@@ -1,0 +1,14 @@
+{
+ "bulunamayan": [
+  "2021/32: DİR yükümlülüğünde sonradan ödenen vergilere uygulanacak faiz/zam bölüm metninde (GK 108–122, Gümrük Yönetmeliği DİR maddeleri, DİR Kararı) düzenlenmemiş; tahsilat hükümleri başka bölümün konusu."
+ ],
+ "giremeyen": "Karar'ın süre, revize, kapatma, TEV, kısmi teminat ve iptal hükümleri Tebliğ düzeyinde M24–M25'te soruldu (aynı hüküm iki kez sorulmadı); Gümrük Yönetmeliği 363–369 (nihai kullanımda vergi, geri ödeme sisteminde serbest dolaşım ve ithal eşya oranı), Karar md. 7 (Türkiye Gümrük Bölgesi dışında veya serbest bölgede işleme), Karar 9/B ve geçici maddeler ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'; bütün kanıt alıntıları kaynakta birebir.",
+  "Tip (GM analizi etiketi): olumsuz 5, klasik 5, önermeli 3 (S14 'yanlıştır' yönlü), hesap 1 (S9), tanım 1 (S10), vaka 1 (S12). Kota 16 soru için 6/5/3/2; gerçek 5/5/3/3. Karar'daki işletme malzemesi oranı ve izin süresi hükümleri hesap ve vaka sorusuna uygun olduğundan diğer +1, olumsuz −1 kaydırıldı. Kökü olumsuz toplam 6 (%38).",
+  "Önermeli kombinasyonları: S2 'I ve III', S6 'I, II ve III', S14 'III ve IV' (yanlış yönlü); en kapsamlı şık doğru 0.",
+  "Çıkmış alanlar: 2021/53 → S1; 2021/14, 2024/67 → S2; 2024/65 → S3, S5; 2021/15 → S4; 2022/28 → S6, S7; 2025/64 → S12 (Tebliğ ayrıntısı M24-S1). Çıkmış kurgular kopyalanmadı; aynı alanda farklı hüküm seçildi.",
+  "İkiz eksen 2 (şartlı muafiyet ↔ geri ödeme) S2 ↔ S3 ayna çiftiyle ve S16'da ölçüldü.",
+  "Güncellik sorusu yok: kaynaktaki en yeni değişiklik tarihi 16.08.2025 (Ekim 2025 öncesi); son 12 ayda değişen hüküm görünmüyor, bu nedenle profil 5 bu bölümde aranmadı."
+ ]
+}

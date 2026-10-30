@@ -1,0 +1,12 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "GK 137–140, 143 ve 147–149 (izin, süre, verimlilik oranı ve diğer hükümler), Gümrük Yönetmeliği 396, 399–401, 404–409, 412–413 (izin halleri, rejim beyanı ve belgeler, ikincil ürün düşümü, verimlilik ve ölçme yöntemleri, ticari nitelikte olmayan eşya, üçgen trafik izni, önceden ithalatlı standart değişim) ile HİR Kararı ve Tebliği'ndeki izin şartları, revize, yeni belge, firmanın sorumluluğu ve usulsüzlük hükümleri ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'; bütün kanıt alıntıları kaynakta birebir.",
+  "Tip (GM analizi etiketi): olumsuz 4, klasik 2, önermeli 2, hesap 1 (S1, vaka kurgulu), tanım 1 (S3), eşleştirme 1 (S5). Kota 11 soru için 4/3/2/2; gerçek 4/2/2/3. Düşüm yöntemi hesabı GM'de soruluyor (2024/93) ve müracaat mercii–eşya grubu ilişkisi gerçek iki bilgi grubu olduğundan diğer +1, klasik −1 kaydırıldı. Kökü olumsuz toplam 4 (%36).",
+  "Önermeli kombinasyonları: S6 'I, II ve IV', S7 'I, II, IV ve V'; yanlış yönlü 0, en kapsamlı şık doğru 0.",
+  "Çıkmış alanlar: 2024/93 → S1, S6; 2025/89 (standart değişim) → S3, S4. 2022/8 ve 2023/22 (GGT Seri No: 1 geçici ihracat hükümleri) metni M29 kaynağında olduğundan M29-S11'de karşılandı.",
+  "Güncellik sorusu yok: kaynakta 2025–2026 tarihli değişiklik görünmüyor; profil 5 kaynak elvermediği için aranmadı.",
+  "Eksenler: 2 (standart değişim hariçte işlemeye aittir) S3 ve S4, 11 (kıymet ikizleri: navlun) S10."
+ ]
+}

@@ -52,7 +52,7 @@ Q = [
         kalip="YANLIŞ",
         z="Z",
         madde=GSM + " md. 7, 18/3",
-        cek="Ön izin gümrük müdürlüğünden bölge müdürlüğüne, oradan Genel Müdürlüğe; adli sicil iki ay; yabancıya yazılı beyan; kamu kuruluşundan tapu/kira, kroki ve YGM raporu; devirde ön izin yok.",
+        cek="Ön izin gümrük müdürlüğü, bölge müdürlüğü, Genel Müdürlük yoluyla; adli sicil iki ay; yabancıya yazılı beyan; kamu kuruluşundan YGM raporu aranır; devirde ön izin yok.",
         kok=[
             GSM
             + "ne göre mağaza veya depo açma izni ile devir başvurularına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?"
@@ -260,7 +260,7 @@ Q = [
         kalip="ÖNERMELİ",
         z="Z",
         madde=GSM + " md. 30/1, 30/2, 30/4",
-        cek="Mağaza sayımına en az şef seviyesinde memur başkanlık eder; depo, uçak ve gemi mağazalarında YGM altışar aylık sayar; örnekleme mümkün; kusurlu kayıpta vergi alınır, ceza aranmaz.",
+        cek="Mağaza sayımına en az şef başkanlık eder; depo, uçak ve gemi mağazasını YGM altışar aylık sayar; örnekleme olur; kusurlu kayıpta vergi alınır, ceza aranmaz.",
         kok=[
             GSM + "ne göre mağaza ve depolarda yapılan sayımlara ilişkin;",
             "I. Mağaza sayımlarında bulunacak heyete, ilgili gümrük müdürü tarafından tayin edilecek en az müdür yardımcısı seviyesinde bir memur başkanlık eder.",

@@ -1,0 +1,15 @@
+{
+ "bulunamayan": [
+  "2022/22: teslimden önce iptal edilen geçici ithalat beyannamesinde geri verme başvuru süresi bölüm metninde yok (geri verme hükümleri başka bölümün konusu).",
+  "2022/36: geçici ithalatta sözlü beyana tabi eşya listesi bölüm metninde yok; metinde yalnız Karar md. 41'deki teminat istisnası (sözlü beyana konu eşya) var, bu yön S2'de bir şık olarak ölçüldü."
+ ],
+ "giremeyen": "GK 129–132 (rejimin kapsamı, ayniyet, izin ve süre), Gümrük Yönetmeliği 378–379 ve 382–385 (izin ilave şartları, rejim altında kalma süresi, ATA karnesiyle ve istisnai yazılı beyan, muayene), 388–394 (teminatın çözülmesi, eşya kayıtları, cari hesap defteri, taşıt giriş-çıkış işlemleri ve rejimin kapatılması) ile Karar'daki konteyner ve tıbbi-laboratuvar teçhizatı hükümleri 8 soruluk sete ayrı soru olarak giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'; bütün kanıt alıntıları kaynakta birebir.",
+  "Tip (GM analizi etiketi): olumsuz 3, klasik 2, önermeli 2, hesap 1 (S1, vaka kurgulu). Kota 8 soru için 3/2/2/1 tam tutuldu. Kökü olumsuz toplam 3 (%38).",
+  "Önermeli kombinasyonları: S3 'I, II ve III', S6 'I, III ve IV'; yanlış yönlü 0, en kapsamlı şık doğru 0.",
+  "Çıkmış alanlar: 2021/71, 2025/88 → S1 (kısmi muafiyet hesabı); 2023/24, 2024/94 → S2; 2025/87, 2025/88 → S3; 2024/91 → S4. 2025/89 (standart değişim) hariçte işlemeye ait olduğundan M28'de soruldu.",
+  "Güncellik: S5, 05.12.2025 tarihli Cumhurbaşkanı Kararı ile düzenlenen 2009/15481 Karar md. 19 (finansal kiralama – hava taşıtı motorları) üzerine; profil 5 bu soruyla yakalandı.",
+  "İkiz eksen 16 (geçici ithalat: aylık oran, kiralama yasağı) S1 ve S4'te ölçüldü. 2009/15481 sayılı Karara dayanan sorularda kök CLAUDE.md kurum kalıbıyla yazıldı."
+ ]
+}

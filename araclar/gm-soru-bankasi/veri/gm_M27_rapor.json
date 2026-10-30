@@ -1,0 +1,12 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "Kara Taşıtları Tebliği'nin turistik taşıt ve geçici giriş belgesi kapsamındaki süre uzatımı ve kapatma (md. 5, 7, 8, 10), yabancı taşıtlar geçici giriş karnesi (md. 11–13), ticari taşıtların çıkışı ve takip (md. 14, 16, 18), taşıt kaydının sonradan kapatılması (md. 21), vekâleten getirme ve girişine izin verilmeyecek taşıtlar (md. 23–24), mülkiyet devri ve kazaya uğrayan taşıtlar (md. 28, 31), kefil kuruluş (md. 34) ile ATA Tebliği'ndeki süre değişimi, karne değişimi ve yurt dışında yerleşik hamile ilişkin hükümler (md. 7–8, 11–13) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'; bütün kanıt alıntıları kaynakta birebir.",
+  "Tip (GM analizi etiketi): olumsuz 3, klasik 3, önermeli 2, eşleştirme 1 (S1, olumsuz kök), tanım 1 (S3). Kota 10 soru için 4/3/2/1; gerçek 3/3/2/2. Taşıt türü–süre eşleştirmesi gerçek iki bilgi grubu olduğundan diğer +1; eşleştirme kökü olumsuz olduğundan kökü olumsuz toplam 4 (%40) korundu.",
+  "Önermeli kombinasyonları: S6 'I, II ve IV', S10 'I, III ve IV'; yanlış yönlü 0, en kapsamlı şık doğru 0.",
+  "Çıkmış alanlar: 2022/32 → S1 (çıkmış süre sorusu kopyalanmadı, eşleştirmeye çevrildi); 2023/23 → S3 (karne sorusunun öbür kutbu: geçici giriş formu, ayna); 2024/92 → S4, S5, S6.",
+  "Güncellik: S7, 14.08.2026 tarihli Seri No: 9 Tebliğ ile değişik Kara Taşıtları Tebliği md. 26 üzerine; profil 5 bu soruyla yakalandı.",
+  "Eksenler: 15 (vergide müteselsil sorumluluk ↔ cezanın kişiselliği) S6 ve S8, 10 (gümrükçe onaylanmış işlem ↔ geçici depolama statüsü) S9."
+ ]
+}

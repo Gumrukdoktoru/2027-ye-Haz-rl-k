@@ -1,0 +1,13 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "İhracatın gerçekleştirilmesi (md. 28), gözetim ve korunma önlemine tabi eşya (md. 32), kapatmanın bildirileceği merciler (md. 39), ihraç edilen işlem görmüş ürünün geri getirilmesi (md. 42), ihracatın gerçekleştirilmemesi (md. 43), denetim ve yetki (md. 47–49) ile geçici md. 37 dışındaki geçici maddeler (döviz kullanım oranı, resen kapatma, belgeden belgeye teslim) ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'; bütün kanıt alıntıları kaynakta birebir.",
+  "Tip (GM analizi etiketi): olumsuz 6, klasik 5, önermeli 3 (S11 'yanlıştır' yönlü), vaka 1 (S4), boşluk 1 (S14). Kota 16 soru için 6/5/3/2 tam tutuldu. Kökü olumsuz toplam 7 (%44).",
+  "Önermeli kombinasyonları: S1 'I, II ve IV', S5 'I, II ve III', S11 'II ve IV' (yanlış yönlü); en kapsamlı şık doğru 0.",
+  "Çıkmış alanlar: 2022/42, 2025/63 (telafi edici vergi) → S1, S2; 2024/68 (GK 238 – dahilde işleme tedbirlerine uyulmaması) → S3, S4.",
+  "Güncellik: S10, 17.04.2026 tarihli Tebliğle eklenen geçici hüküm (DİR Tebliği geçici md. 37) üzerine kuruldu; profil 5 bu soruyla yakalandı.",
+  "Eksenler: 5 (kat merdiveni) S4, 8 (geri verme süreleri) S14, 10 S15. Meslek yanlılığı: S7 (temsilci aracılığıyla ithalatta sorumluluk).",
+  "Kaynak sorunu: TEV Genelgesi metninde derleyici notu var ('PcGK Not: 01.01.2026 tarihinden itibaren TEV uygulamasındaki değişikliklerin … incelenmesi gerektiği ile iş bu genelgenin revize edilmesi gerektği mütalaa olunmaktadır'); 01.01.2026 sonrası TEV değişikliklerinin metni kaynakta yok. Bu not ve TARIC bağlantı notu mevzuat hükmü sayılmadı; TEV soruları Genelge ve Tebliğ'in mevcut metniyle sınırlı tutuldu."
+ ]
+}

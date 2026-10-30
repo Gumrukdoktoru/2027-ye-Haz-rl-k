@@ -1,0 +1,11 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "Tebliğ'in tanımlar ve şartlı muafiyet kapsamı (md. 3, 5), Türkiye Gümrük Bölgesi dışında veya serbest bölgede işleme (md. 10), geri ödemenin kapsamı, uygulanmayacak haller ve verginin geri verilmesi (md. 11–13; Kanun ve Karar düzeyinde M23'te soruldu), belge/izin müracaatı, belgenin gönderileceği merciler ve revize (md. 15, 16, 18, 19) ile mücbir sebep müracaatı ve değerlendirilmesi (md. 26–27) 8 soruluk sete ayrı soru olarak giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'; bütün kanıt alıntıları kaynakta birebir.",
+  "Tip (GM analizi etiketi): olumsuz 3, klasik 1, önermeli 2, vaka 1 (S3), eşleştirme 1 (S5). Kota 8 soru için 3/2/2/1; gerçek 3/1/2/2. Süre hükmü vaka sorusuna, mücbir sebep hâli–tevsik belgesi ilişkisi gerçek iki bilgi grubu olarak eşleştirmeye uygun olduğundan diğer +1, klasik −1 kaydırıldı. Kökü olumsuz toplam 3 (%38).",
+  "Önermeli kombinasyonları: S1 'I, III, IV ve V' (beş önerme), S6 'I, III ve IV'; yanlış yönlü 0, en kapsamlı şık doğru 0.",
+  "Çıkmış alanlar: 2024/66 → S1, S3; 2025/64 → S1. Bölüme düşen öteki DİR çıkmışları (2021/14, 2021/15, 2022/28, 2024/65, 2024/67) Kanun ve Karar düzeyinde M23'te karşılandı.",
+  "Güncellik sorusu yok: kaynakta 2025–2026 tarihli değişiklik görünmüyor; profil 5 kaynak elvermediği için aranmadı."
+ ]
+}

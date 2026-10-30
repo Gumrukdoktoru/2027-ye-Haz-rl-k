@@ -1,0 +1,18 @@
+{
+ "bulunamayan": [
+  "2021/69: posta yoluyla ihraç edilecek ticari eşyanın antrepoda bekleme süresi bölüm metninde yok.",
+  "2023/89: kara yoluyla ihracatta ilk başvurulacak gümrük idaresi bölüm metninde yok (metinde Gümrük Yönetmeliği'nden yalnız 415–418 var).",
+  "2025/57: ihracat rejimine basitleştirilmiş usulle giriş bölüm metninde yok.",
+  "2024/64: DFİF kesintisine tabi ürün listesi metinde yok; metinde yalnız 2006/7 listesindeki 'DFİF primine tabi maddeler' sırası ve Bedelsiz İhracat Tebliği'ndeki FOB 1.000 ABD Doları eşiği var, eşik S10'da ölçüldü."
+ ],
+ "giremeyen": "İhracat Rejimi Kararı (yetkili merci, Bakanlığın kısıtlama-yasaklama nedenleri, ihracat serbestisi, mevzuatta belirlenenler dışında belge aranmaması, lehe hüküm geçici maddesi), İhracat Yönetmeliği'nin offset, takas ve bağlı muamele, ithal edilmiş malın ihracı, nisbi aidat ve Birlik Onay Kodu hükümleri, bedelsiz ihracatta KDV istisnalı satış faturası ve taşıt kayıtlarının kapatılması şartı ile GGT Seri No: 1'deki ticari ve finansal kiralama, radyoaktif cihaz, ticari mahiyet arz etmeyen eşya ve ekonomik gerekliliğe dayalı ek süre hükümleri ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'; bütün kanıt alıntıları kaynakta birebir.",
+  "Tip (GM analizi etiketi): olumsuz 3, klasik 3, önermeli 2, tanım 1 (S2), eşleştirme 1 (S7, olumsuz kök), vaka 1 (S9). Kota 11 soru için 4/3/2/2; gerçek 3/3/2/3. Ön izinli mal–izin veren kurum ilişkisi gerçek iki bilgi grubu ve bedelsiz ihracattaki 250.000 ABD Doları eşiği vaka sorusuna uygun olduğundan diğer +1; eşleştirme kökü olumsuz olduğundan kökü olumsuz toplam 4 (%36).",
+  "Önermeli kombinasyonları: S3 'I, III, IV ve V' (beş önerme), S11 'I, II ve IV'; yanlış yönlü 0, en kapsamlı şık doğru 0.",
+  "Çıkmış alanlar: 2022/14, 2023/25 → S1; 2021/68 → S2 (tanımdan ad yerine addan tanım, başka terim); 2022/45, 2024/72, 2025/58 → S3; 2022/10, 2024/63, 2025/60 → S4; 2023/32 → S5 (izne bağlı ihracat yerine bedelsiz ihracattaki başlamış işlem); 2021/54, 2022/35 → S6 (yasak mal yerine yasak listesinde olmayan ön izinli mal); 2025/61 → S7; 2022/40 → S9, S10; 2022/8, 2023/22 → S11 (çıkmış belgeler ve ticari kiralama hükümleri dışındaki fıkralar).",
+  "İkiz eksen 13 (ihracatta geçici depolama bir ay + en çok üç ay) S1'de ölçüldü. Ayna: S6 (ihracı yasak mallar) ↔ S8 (ihracı kayda bağlı mallar) — yasak / ön izinli / kayda bağlı mal ayrımı.",
+  "Güncellik: kaynaktaki en yeni değişiklikler 06.05.2025 (İhracat Yönetmeliği md. 4 ve 9) ile 10.07.2025 ve 11.09.2025 (2006/7 listesine tavuk yumurtası, limon ve elma eklenmesi); hepsi Ekim 2025 öncesi, son 12 ayda değişen hüküm yok. Profil 5, 06.05.2025 değişikliğiyle (konsinye kesin satış bildirimi otuz günden yüz yirmi güne) S4'te yakalandı.",
+  "Kaynak sorunları: İhracat Yönetmeliği md. 4'ün yürürlükteki metninde bazı terim adları düşmüş ('a) Bağlı İkiden fazla…', 'i) ihracat:', 'k) ihracat:', 'n) İhraç veya ithal…', 'o) Ticari Malların…'); terim adları değişiklik öncesi metinden doğrulandı, kanıtlar yalnız sağlam kısımlardan alındı. md. 7/1'de Tebliğ adı, Gümrük Yönetmeliği 415, 417 ve 418'in başında atıf yapılan madde numaraları düşmüş; Bedelsiz İhracat Tebliği md. 5'te rakam yerine harfle 'l.000' yazılı (kanıtta aynen kopyalandı); 96/31 Ek-2 listesinde 'CK 2026-11068', 'PcGK Not' gibi bağlantı ve derleyici kalıntıları var, soruya alınmadı."
+ ]
+}
