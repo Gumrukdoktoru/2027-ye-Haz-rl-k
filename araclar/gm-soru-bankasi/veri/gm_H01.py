@@ -15,6 +15,11 @@ K_KDV_F = f"{H2} | Kdv Matrahı = CİF + Y.DIŞI +VERGİLER +Y.İÇİ"
 K_KUR = f"{H} | Fatura veya diğer belgelerde yazılı yabancı paralar, gümrük yükümlülüğünün başladığı tarihte yürürlükte olan T.C. Merkez Bankası döviz satış kurları üzerinden Türk Lirasına çevrilir."
 K_YURTDISI = f"{H} | Not:Sadece ülkeler arası değil, varsa yurtdışı ülkedeki iç taşıma bedeli de eklenir."
 K_TAHLIYE = f"{H} | Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir"
+# tahliyenin tanımı ve yurt içi diğer masraf niteliği (2013/19 sayılı Genelge)
+K_TAHLIYE_YI = (
+    f"{H} | Tahmil ve Tahliye: Yükün (genel kargo, dökme yük, sıvı yük, konteyner, araç vb.) gemi ambarı, tankı veya güvertesinden liman sahasına alınması veya gemiye yüklenilmesi için verilen hizmetler."
+    f' || {H} | "Yurt İçi Diğer Masraflar" adı altında toplu olarak beyan edilen || {H} | "Tahmil-Tahliye", "Liman Giderleri"'
+)
 K_GK27E = f"{H} | GK 27-İthal eşyası için Türkiye'deki giriş liman veya yerine kadar yapılan nakliye ve sigorta giderleri"
 K_GK28 = f"{H} | İthal eşyasının fiilen ödenen veya ödenecek fiyatından ayırt edilebilmeleri koşuluyla aşağıdaki giderler gümrük kıymetine dahil edilmez:"
 K_GOZ = f"{H} | Önce klasik yöntemle eşyanın gümrük kıymeti bulunur.Sonra verilen gözetimle kıyaslanır. || {H} | Eğer ki Gümrük Kıymeti < Gözetim Tutarından küçük || {H} | olursa, Gözetim tutarı gümrük kıymeti olarak kabul edilir. || {H} | Eşyada gözetim olduğundan, kg üzerinden hesap yaparak"
@@ -78,7 +83,7 @@ VERI_31 = [
     "- Taşıyıcıya teslimden sonra ihraç limanına kadar yapılan ve alıcının ödediği kara taşıması: 600 Avro",
     "- İhraç limanında gemiye yükleme ve elleçleme gideri: 250 Avro",
     "- Deniz navlunu: 1.400 Avro; sigorta: 150 Avro",
-    "- Türkiye'deki giriş limanında beyannamenin tescilinden önce yapılan ve KDV'ye tabi tutulmamış gemiden boşaltma ve elleçleme gideri: 350 Avro",
+    "- Eşya Türkiye'deki giriş limanına vardıktan sonra, beyannamenin tescilinden önce liman işletmesine ödenen ve KDV'ye tabi tutulmamış tahliye ücreti (eşyanın gemiden liman sahasına alınması): 350 Avro",
     "- Beyannamenin tescilinden sonra limandan alıcının deposuna yapılan nakliye (KDV'li fatura ile ödenmiştir): 200 Avro",
     "- Gümrük yükümlülüğünün başladığı tarihte TCMB döviz satış kuru: 1 Avro = 35,00 TL",
     "- Gümrük vergisi oranı: %4; KDV oranı: %20 (eşya başka bir vergiye tabi değildir)",
@@ -268,7 +273,7 @@ Q = [
             "- Miktar: 25 ton; birim fiyat: ton başına FOB 800 ABD Doları",
             "- Navlun: ton başına 40 ABD Doları",
             "- Sigorta (sevkiyatın tamamı için): 150 ABD Doları",
-            "- Türkiye'deki varış limanında gemiden boşaltma (tahliye) gideri: 200 ABD Doları",
+            "- Eşya Türkiye'deki giriş limanına vardıktan sonra gemiden liman sahasına alınması için ödenen tahliye ücreti: 200 ABD Doları",
             "- Beyannamenin tescilinden önce ödenen ve KDV'ye tabi tutulmamış ardiye ücreti: 300 ABD Doları",
             "- Gümrük yükümlülüğünün başladığı tarihte TCMB döviz satış kuru: 1 ABD Doları = 32,00 TL",
             "Buna göre eşyanın gümrük kıymeti kaç TL'dir?",
@@ -277,13 +282,14 @@ Q = [
         c=["644.800", "646.080", "683.200", "686.400"],
         sirali=True,
         siklar=["644.800", "646.080", "676.800", "683.200", "686.400"],
-        g="Satış bedeli birim kıymet ile miktarın çarpımıdır; ton başına verilen navlun da miktarla çarpılarak eklenir. Satış bedeli = 25 × 800 = 20.000 ABD Doları; navlun = 25 × 40 = 1.000 ABD Doları. Gümrük kıymeti = 20.000 + 1.000 + 150 = 21.150 ABD Doları. Türkiye'ye geldikten sonraki tahliye gideri ve ardiye ücreti kıymete girmez. Yabancı para, yükümlülüğün başladığı tarihteki TCMB döviz satış kuruyla çevrilir: 21.150 × 32,00 = 676.800 TL. Navlunu hiç eklemeyen hesap 20.150 × 32 = 644.800 TL, tahliye giderini ekleyen hesap 21.350 × 32 = 683.200 TL, ardiye ücretini ekleyen hesap 21.450 × 32 = 686.400 TL bulur. En güçlü tuzak 646.080 seçeneğidir: navlun ton başına verildiği hâlde miktarla çarpılmadan yalnız bir kez eklenmiştir (20.190 × 32). Bu nedenle doğru cevap '676.800' seçeneğidir. (MD GK 27 ve 30; satış bedeli formülü)",
+        g="Satış bedeli birim kıymet ile miktarın çarpımıdır; ton başına verilen navlun da miktarla çarpılarak eklenir. Satış bedeli = 25 × 800 = 20.000 ABD Doları; navlun = 25 × 40 = 1.000 ABD Doları. Gümrük kıymeti = 20.000 + 1.000 + 150 = 21.150 ABD Doları. Tahliye, eşya Türkiye'ye geldikten sonraki işlemdir ve yurt içi diğer masraflar arasında beyan edilir; bu yüzden tahliye ücreti de ardiye ücreti de kıymete girmez. Yabancı para, yükümlülüğün başladığı tarihteki TCMB döviz satış kuruyla çevrilir: 21.150 × 32,00 = 676.800 TL. Navlunu hiç eklemeyen hesap 20.150 × 32 = 644.800 TL, tahliye ücretini ekleyen hesap 21.350 × 32 = 683.200 TL, ardiye ücretini ekleyen hesap 21.450 × 32 = 686.400 TL bulur. En güçlü tuzak 646.080 seçeneğidir: navlun ton başına verildiği hâlde miktarla çarpılmadan yalnız bir kez eklenmiştir (20.190 × 32). Bu nedenle doğru cevap '676.800' seçeneğidir. (MD GK 27 ve 30; satış bedeli formülü)",
         kanit=" || ".join(
             [
                 f"{H} | Satış bedeli hesaplama = Birim kıymet x Adet",
                 f"{H} | Adedi ,makine başına,metresi , ton başına vb",
                 f"{H} | Tüm navlunları topla",
                 K_TAHLIYE,
+                K_TAHLIYE_YI,
                 f"{H} | Ardiye, GK eklenmez",
                 K_KUR,
             ]
@@ -291,7 +297,7 @@ Q = [
         yuva=[
             "Navlun hiç eklenmemiş",
             "Navlun ton başına çarpılmamış (yalnız 40 ABD Doları eklenmiş)",
-            "Türkiye'deki tahliye gideri eklenmiş",
+            "Türkiye'deki tahliye ücreti eklenmiş",
             "Tescil öncesi ardiye ücreti eklenmiş",
         ],
         yakinlik="ÇIKARIM",
@@ -378,7 +384,8 @@ Q = [
             [
                 f"{GK} | nakliyenin ücretsiz olması veya alıcı tarafından sağlanması durumunda, gümrük kıymetine dahil edilecek giriş liman veya yerine kadarki nakliye gideri, aynı taşıma türünde normal olarak uygulanan fiyat tarifesine göre tespit edilir.",
                 f"{GK} | tekrarlanan ithalatlarda kullanılacak olması halinde, beyan sahibinin talebi üzerine ve gerekli belgelerin sunulması kaydıyla, mezkur maliyetler genel kabul görmüş muhasebe prensipleri çerçevesinde uygun şekilde paylaştırılır.",
-                f"{H} | Ancak, 71.08 tarife pozisyonunda yer alan eşyanın sigorta poliçesi veya navlun faturasının ibraz edilememesi halinde, vergi kaybı olmaması kaydıyla, işlemler eşyanın faturasında belirtilen teslim şekli esas alınarak tekemmül ettirilir",
+                f"{GK} | ithal eşyasının FOB kıymetinin % 10 unun navlun ve % 3 ünün sigorta bedeli olarak ithal eşyasının fiilen ödenen veya ödenecek fiyatına eklenebilir.",
+                f"{GK} | Ancak, 71.08 tarife pozisyonunda yer alan eşyanın sigorta poliçesi veya navlun faturasının ibraz edilememesi halinde, vergi kaybı olmaması kaydıyla, işlemler eşyanın faturasında belirtilen teslim şekli esas alınarak tekemmül ettirilir.",
                 f"{GK} | araştırma ve ilk dizayn taslak giderleri gümrük kıymetine dahil edilmez.",
             ]
         ),
@@ -679,16 +686,16 @@ Q = [
         cikmis="2023/67; 2023/80; 2024/18",
         kapsamli=False,
     ),
-    # 14 ---------------- önermeli: GK 27 genel ilkeler (nesnel veri, satın alma bedeli, kamuya açık unsur, kapalı liste) ----------------
+    # 14 ---------------- önermeli: GK 27 genel ilkeler + GY Ek-8 yorum notu (nesnel veri, satın alma bedeli, kamuya açık unsur, kapalı liste) ----------------
     dict(
         konu="Gümrük Kıymeti Hesabı",
         blok="H01",
         kalip="ÖNERMELİ",
         z="Z",
-        madde="4458 sayılı GK md. 27",
+        madde="4458 sayılı GK md. 27; Gümrük Yönetmeliği md. 44 ve Ek-8 (GK 27'ye ilişkin yorum notları)",
         cek="İlaveler nesnel ve ölçülebilir veriye dayanır; satın alınan unsurda bedel ilave edilir; kamuya açık unsurda yalnız kopyalama gideri; liste dışında ilave yok.",
         kok=[
-            "4458 sayılı Gümrük Kanunu'na göre ithal eşyasının fiilen ödenen veya ödenecek fiyatına yapılacak ilavelere ilişkin aşağıdaki ifadelerden hangileri doğrudur?",
+            "4458 sayılı Gümrük Kanunu ile Gümrük Yönetmeliği Ek-8'deki yorum notlarına göre ithal eşyasının fiilen ödenen veya ödenecek fiyatına yapılacak ilavelere ilişkin aşağıdaki ifadelerden hangileri doğrudur?",
             "I. Fiyata yapılacak ilaveler için nesnel ve ölçülebilir veriler esas alınır.",
             "II. Alıcı tarafından satın alma veya finansal kiralama yoluyla sağlanan unsurlarda ilave konusu olan, satın alma veya finansal kiralama bedelidir.",
             "III. Kamunun kullanımına açık bulunan unsurlarla ilgili olarak, kopyalarını çıkarma giderleri de dahil hiçbir ilave yapılmaz.",
@@ -697,13 +704,14 @@ Q = [
         d="I ve II",
         c=["I ve III", "II ve IV", "I, II ve III", "I, II ve IV"],
         sirali=False,
-        g="I. önerme doğrudur: fiilen ödenen veya ödenecek fiyata yapılacak ilaveler için nesnel ve ölçülebilir veriler esas alınır. II. önerme doğrudur: alıcının satın alma veya finansal kiralama yoluyla sağladığı unsurlarda ilave konusu olan, satın alma veya finansal kiralama bedelidir. III. önerme yanlıştır: kamunun kullanımına açık unsurlarla ilgili olarak kopyalarını çıkarma giderleri dışında ilave yapılmaz; yani kopyalama giderleri eklenir. IV. önerme yanlıştır: fiilen ödenen veya ödenecek fiyata Kanunda öngörülenler dışında hiçbir ilave yapılamaz. En güçlü tuzak III. önermedir: kamuya açık unsurlar için ilave yapılmayacağı doğru hatırlanmış, fakat kopyalarını çıkarma giderlerine ilişkin ayrık durum tersine çevrilmiştir. Bu nedenle doğru cevap 'I ve II' seçeneğidir. (MD GK 27)",
+        g="I. önerme doğrudur: Gümrük Kanunu'na göre fiilen ödenen veya ödenecek fiyata yapılacak ilaveler için nesnel ve ölçülebilir veriler esas alınır. II. önerme doğrudur: Gümrük Yönetmeliği Ek-8'deki yorum notuna göre alıcının satın alma veya finansal kiralama yoluyla sağladığı unsurlarda ilave konusu olan, satın alma veya finansal kiralama bedelidir. III. önerme yanlıştır: aynı yorum notuna göre kamunun kullanımına açık unsurlarla ilgili olarak kopyalarını çıkarma giderleri dışında ilave yapılmaz; yani kopyalama giderleri eklenir. IV. önerme yanlıştır: Gümrük Kanunu'na göre fiilen ödenen veya ödenecek fiyata Kanunda öngörülenler dışında hiçbir ilave yapılamaz. En güçlü tuzak III. önermedir: kamuya açık unsurlar için ilave yapılmayacağı doğru hatırlanmış, fakat kopyalarını çıkarma giderlerine ilişkin ayrık durum tersine çevrilmiştir. Bu nedenle doğru cevap 'I ve II' seçeneğidir. (MD GK 27; GY 44 ve Ek-8 yorum notu)",
         kanit=" || ".join(
             [
                 f"{H} | 2. Bu maddeye göre fiilen ödenen veya ödenecek fiyata yapılacak ilaveler için nesnel ve ölçülebilir veriler esas alınır.",
                 f"{H} | 3. Gümrük kıymetinin belirlenmesinde, fiilen ödenen veya ödenecek fiyata bu maddede öngörülenler dışında hiçbir ilave yapılamaz.",
-                f"{H} | 2. Alıcı tarafından satın alma veya finansal kiralama yoluyla sağlanan unsurlarda, ilave konusu olan, satın alma veya finansal kiralama bedelidir.",
+                f"{H} | EK-8* 2. Alıcı tarafından satın alma veya finansal kiralama yoluyla sağlanan unsurlarda, ilave konusu olan, satın alma veya finansal kiralama bedelidir.",
                 f"{H} | Kamunun kullanımına açık bulunan unsurlarla ilgili olarak, kopyalarını çıkarma giderleri dışında bir ilave yapılmaz.",
+                f"{GK} | (3) Ek-8'in birinci sütununda yer alan hükümler, ikinci sütunda yer alan Yorum Notları ışığında uygulanır.",
             ]
         ),
         yuva=[
@@ -1442,26 +1450,27 @@ Q = [
         cikmis="2021/81",
         kapsamli=False,
     ),
-    # 31 ---------------- FCA: kara taşıması + yükleme-elleçleme eklenir; Türkiye'de boşaltma hariç → GV ----------------
+    # 31 ---------------- FCA: kara taşıması + yükleme-elleçleme eklenir; Türkiye'de tahliye hariç → GV ----------------
     dict(
         konu="Gümrük Kıymeti Hesabı",
         blok="H01",
         kalip="HESAP",
         z="Z",
         madde="4458 sayılı GK md. 27, 30; gümrük vergisi formülü",
-        cek="FCA'ya teslim sonrası kara taşıması, ihraç limanında yükleme-elleçleme, navlun ve sigorta eklenir; Türkiye'deki boşaltma eklenmez.",
+        cek="FCA'ya teslim sonrası kara taşıması, ihraç limanında yükleme-elleçleme, navlun ve sigorta eklenir; Türkiye'deki giriş limanında ödenen tahliye ücreti eklenmez.",
         kok=VERI_31 + ["Buna göre ödenecek gümrük vergisi tutarı kaç TL'dir?"],
         d="24.360",
         c=["23.170", "23.520", "24.010", "24.850"],
         sirali=True,
         siklar=["23.170", "23.520", "24.010", "24.360", "24.850"],
-        g="FCA teslimde fiyat navlunu ve sigortayı içermez; Türkiye'deki giriş limanına kadar yapılan nakliye ve sigorta giderleri ile bu nakliyeyle ilgili yükleme ve elleçleme giderleri kıymete eklenir. Taşıyıcıya teslimden sonraki kara taşıması da yurt dışındaki iç taşıma olarak eklenir. Giriş limanındaki boşaltma ve sonraki nakliye kıymete girmez. Gümrük kıymeti = 15.000 + 600 + 250 + 1.400 + 150 = 17.400 Avro; 17.400 × 35,00 = 609.000 TL. Gümrük vergisi = 609.000 × %4 = 24.360 TL. Kara taşımasını ve yükleme giderini birlikte unutan hesap 23.170, yalnız kara taşımasını unutan hesap 23.520, yalnız yükleme ve elleçleme giderini unutan hesap 24.010 TL bulur. En güçlü tuzak 24.850 seçeneğidir: Türkiye'deki giriş limanında yapılan boşaltma ve elleçleme de yükleme ve elleçleme gibi kıymete katılmıştır (17.750 × 35 × %4); oysa yalnız giriş liman veya yerine kadarki nakliyeyle ilgili yükleme ve elleçleme giderleri eklenir. Bu nedenle doğru cevap '24.360' seçeneğidir. (MD GK 27 ve 30; gümrük vergisi formülü)",
+        g="FCA teslimde fiyat navlunu ve sigortayı içermez; Türkiye'deki giriş limanına kadar yapılan nakliye ve sigorta giderleri ile bu nakliyeyle ilgili yükleme ve elleçleme giderleri kıymete eklenir. Taşıyıcıya teslimden sonraki kara taşıması da yurt dışındaki iç taşıma olarak eklenir. Eşya Türkiye'ye geldikten sonra giriş limanında ödenen tahliye ücreti ve sonraki nakliye kıymete girmez; tahliye, yurt içi diğer masraflar arasında beyan edilen bir hizmettir. Gümrük kıymeti = 15.000 + 600 + 250 + 1.400 + 150 = 17.400 Avro; 17.400 × 35,00 = 609.000 TL. Gümrük vergisi = 609.000 × %4 = 24.360 TL. Kara taşımasını ve yükleme giderini birlikte unutan hesap 23.170, yalnız kara taşımasını unutan hesap 23.520, yalnız yükleme ve elleçleme giderini unutan hesap 24.010 TL bulur. En güçlü tuzak 24.850 seçeneğidir: Türkiye'deki giriş limanında ödenen tahliye ücreti, ihraç limanındaki yükleme ve elleçleme gideri gibi kıymete katılmıştır (17.750 × 35 × %4); oysa yalnız giriş liman veya yerine kadarki nakliyeyle ilgili yükleme ve elleçleme giderleri eklenir, tahliye ise eşya Türkiye'ye geldikten sonraki işlemdir. Bu nedenle doğru cevap '24.360' seçeneğidir. (MD GK 27 ve 30; gümrük vergisi formülü)",
         kanit=" || ".join(
             [
                 f"{B5} | FCA | Taşıyıcıya teslim",
                 f"{H} | eşyanın giriş liman veya yerine kadar nakliyesi ile ilgili olarak yapılan yükleme ve elleçleme giderleri",
                 K_YURTDISI,
                 K_TAHLIYE,
+                K_TAHLIYE_YI,
                 f"{H2} | Gümrük Vergisi : Gümrük Vergisi Matrahı * Gümrük Vergi Oranı",
             ]
         ),
@@ -1469,7 +1478,7 @@ Q = [
             "Kara taşıması ve yükleme-elleçleme eklenmemiş",
             "Kara taşıması eklenmemiş",
             "Yükleme ve elleçleme eklenmemiş",
-            "Giriş limanındaki boşaltma eklenmiş",
+            "Giriş limanındaki tahliye ücreti eklenmiş",
         ],
         yakinlik="ÇIKARIM",
         tuzak=["AD-HESAP", "KOMŞU"],
@@ -1479,25 +1488,25 @@ Q = [
         vaka=True,
         baslangic=False,
         eksen=0,
-        ayna="Yükleme-elleçleme (ihraç limanı) ↔ boşaltma (giriş limanı); GV ↔ KDV (aynı veri)",
+        ayna="Yükleme-elleçleme (ihraç limanı) ↔ tahliye (giriş limanı); GV ↔ KDV (aynı veri)",
         guncellik="",
         cikmis="2023/72",
         kapsamli=False,
     ),
-    # 32 ---------------- aynı veri: KDV (boşaltma KDV matrahına girer) ----------------
+    # 32 ---------------- aynı veri: KDV (tahliye ücreti KDV matrahına girer) ----------------
     dict(
         konu="Gümrük Kıymeti Hesabı",
         blok="H01",
         kalip="HESAP",
         z="Z",
         madde="3065 sayılı KDV Kanunu md. 21; 4458 sayılı GK md. 27",
-        cek="Tescil öncesi vergilendirilmemiş boşaltma gideri KDV matrahına girer; KDV'li tescil sonrası nakliye girmez; KDV = matrah × oran.",
+        cek="Tescil öncesi vergilendirilmemiş tahliye ücreti KDV matrahına girer; KDV'li tescil sonrası nakliye girmez; KDV = matrah × oran.",
         kok=VERI_31 + ["Buna göre ödenecek katma değer vergisi tutarı kaç TL'dir?"],
         d="129.122",
         c=["126.672", "127.302", "129.220", "130.522"],
         sirali=True,
         siklar=["126.672", "127.302", "129.122", "129.220", "130.522"],
-        g="Gümrük kıymeti = 15.000 + 600 + 250 + 1.400 + 150 = 17.400 Avro × 35,00 = 609.000 TL; gümrük vergisi = 609.000 × %4 = 24.360 TL. Tescilden önce yapılan ve KDV'ye tabi tutulmamış boşaltma ve elleçleme gideri KDV matrahına eklenir: 350 × 35 = 12.250 TL; tescilden sonra yapılan ve KDV'li faturayla ödenen nakliye eklenmez. KDV matrahı = 609.000 + 24.360 + 12.250 = 645.610 TL; KDV = 645.610 × %20 = 129.122 TL. Boşaltma giderini KDV matrahına eklemeyen hesap 633.360 × %20 = 126.672 TL, yükleme ve elleçleme giderini kıymete katmayan hesap (600.250 + 24.010 + 12.250) × %20 = 127.302 TL, tescil sonrası nakliyeyi de ekleyen hesap 652.610 × %20 = 130.522 TL bulur. En güçlü tuzak 129.220 seçeneğidir: boşaltma gideri gümrük vergisi matrahına katılmış ve gümrük vergisi şişmiştir ((621.250 + 24.850) × %20); oysa giriş limanındaki boşaltma yalnız KDV matrahına girer. Bu nedenle doğru cevap '129.122' seçeneğidir. (MD KDVK 21; GK 27)",
+        g="Gümrük kıymeti = 15.000 + 600 + 250 + 1.400 + 150 = 17.400 Avro × 35,00 = 609.000 TL; gümrük vergisi = 609.000 × %4 = 24.360 TL. Tescilden önce ödenen ve KDV'ye tabi tutulmamış tahliye ücreti KDV matrahına eklenir: 350 × 35 = 12.250 TL; tescilden sonra yapılan ve KDV'li faturayla ödenen nakliye eklenmez. KDV matrahı = 609.000 + 24.360 + 12.250 = 645.610 TL; KDV = 645.610 × %20 = 129.122 TL. Tahliye ücretini KDV matrahına eklemeyen hesap 633.360 × %20 = 126.672 TL, yükleme ve elleçleme giderini kıymete katmayan hesap (600.250 + 24.010 + 12.250) × %20 = 127.302 TL, tescil sonrası nakliyeyi de ekleyen hesap 652.610 × %20 = 130.522 TL bulur. En güçlü tuzak 129.220 seçeneğidir: tahliye ücreti gümrük vergisi matrahına katılmış ve gümrük vergisi şişmiştir ((621.250 + 24.850) × %20); oysa giriş limanında ödenen tahliye ücreti yalnız KDV matrahına girer. Bu nedenle doğru cevap '129.122' seçeneğidir. (MD KDVK 21; GK 27)",
         kanit=" || ".join(
             [
                 K_KDV_A,
@@ -1508,9 +1517,9 @@ Q = [
             ]
         ),
         yuva=[
-            "Boşaltma gideri KDV matrahına eklenmemiş",
+            "Tahliye ücreti KDV matrahına eklenmemiş",
             "Yükleme ve elleçleme kıymete katılmamış",
-            "Boşaltma gümrük vergisi matrahına katılmış",
+            "Tahliye ücreti gümrük vergisi matrahına katılmış",
             "Tescil sonrası KDV'li nakliye eklenmiş",
         ],
         yakinlik="ÇIKARIM",

@@ -7,6 +7,9 @@ Her hesap sorusu için veri kökteki rakamlardan yeniden hesaplanır:
   tarım payı, DFİF, TEV, kısmi muafiyet %3, kullanılmış araç amortismanı, (I) sayılı liste teminatı),
 - her çeldirici (adı konmuş tipik hata).
 Sonuçlar şıklardaki metinle karşılaştırılır; sıra artan olmalı, doğru şık B/C/D'de olmalıdır.
+Ayrıca: amortisman işlevi kaynak tablonun üç çözümlü örneğiyle sınanır ve 24–25'in kanıtı ilgili tablo satırını
+(kural + örnek) bitişik alır; 9'da KDV Kanunu'na 24.07.2025'te eklenen bent anılır; 20'nin kökü ihracat
+beyannamesinin tescil tarihindeki oranın esas alınacağını söyler.
 """
 
 import math
@@ -313,7 +316,41 @@ H[25] = (
     yuzde,
 )
 
-hata = 0
+# Amortisman işlevi kaynak tablodaki üç çözümlü örnekle sınanır (tablo bozuk aktarıldığı için kural
+# yalnız satır içinde bitişik duran örneklerle teyit edilir):
+# 2020 model, 2020'de alındı, 2023 ithal → %40; 2020 model, 2021'de alındı, 2023 ithal → %40;
+# 2020 model, 2022'de alındı, 2024 ithal → %20.
+ornek = {(2020, 2020, 2023): 40, (2020, 2021, 2023): 40, (2020, 2022, 2024): 20}
+s_ek = [
+    f"amortisman örneği {k} → {amortisman(*k)} ≠ %{v}"
+    for k, v in ornek.items()
+    if amortisman(*k) != v
+]
+# 24–25: kanıt, kuralı ve çözümlü örneği aynı tablo satırından birlikte (bitişik) almalı
+satir = {
+    24: "(Ör; 2020 model ve 2020 alındı-2023 Model ve fatura yılı aynı ithal edildi) (0-1 yaş=ilk yıl indirim yok)",
+    25: "(Ör; 2020 model ve 2022 alındı-2024 Model ve fatura yılı farklı (1 yıldan fazla ) ithal edildi) Fatura yılından sonra amortisman yap",
+}
+for i, parca in satir.items():
+    if parca not in Q[i - 1]["kanit"]:
+        s_ek.append(
+            f"{i}: kanıt amortisman tablosunun ilgili satırını (kural + örnek) bitişik almıyor"
+        )
+# 9: KDV matrahına teminata esas ÖTV — KDVK'ya 24.07.2025'te eklenen bent kanıtta ve gerekçede
+if "24.07.2025" not in Q[8]["kanit"] or "24.07.2025" not in Q[8]["g"]:
+    s_ek.append(
+        "9: KDV Kanunu'na 24.07.2025'te eklenen bent kanıtta/gerekçede anılmıyor"
+    )
+# 20: kök, ihracat beyannamesinin tescil tarihindeki oranın esas alınacağını açıkça söylemeli
+if (
+    "tescil tarihinde ithalat rejiminde belirtilen gümrük vergisi oranı esas alınarak"
+    not in " ".join(Q[19]["kok"])
+):
+    s_ek.append("20: kök hangi tarihteki oranın esas alınacağını söylemiyor")
+
+hata = len(s_ek)
+for m in s_ek:
+    print("HATA:", m)
 hesap_sorulari = [i for i, q in enumerate(Q, 1) if q["kalip"] == "HESAP"]
 eksik = sorted(set(hesap_sorulari) - set(H))
 if eksik:

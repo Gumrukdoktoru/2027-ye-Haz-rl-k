@@ -250,10 +250,10 @@ Q = [
         blok="H05",
         kalip="EŞLEŞTİRME",
         z="O",
-        madde="BİLGE kod listeleri (ülke, döviz cinsi, taşıma aracı, ölçü birimi kodları)",
+        madde="Gümrük Yönetmeliği Ek-14 (kodların Bakanlık internet sitesinden duyurulması); Bakanlıkça duyurulan BİLGE kod listeleri (ülke, döviz cinsi, taşıma aracı, ölçü birimi kodları)",
         cek="MTK metre kare, MTQ metre küp; 052 Türkiye; CHF İsviçre frangı; taşıma aracı 3 gemi; NCR karat.",
         kok=[
-            "Gümrük Yönetmeliği Ek-14 uyarınca beyannamenin ülke, döviz, taşıma şekli ve tamamlayıcı ölçü kutularında kullanılan BİLGE kodları ile açıklamalarının eşleştirmelerinden hangisi yanlıştır?"
+            "Gümrük Yönetmeliği Ek-14'e göre Bakanlığın kurumsal internet sitesinden duyurulan BİLGE kod listelerinde yer alan ülke, döviz cinsi, taşıma aracı ve ölçü birimi kodları ile açıklamalarının eşleştirmelerinden hangisi yanlıştır?"
         ],
         d="Ölçü birimi kodu MTK – Metre küp",
         c=[
@@ -263,9 +263,10 @@ Q = [
             "Ölçü birimi kodu NCR – Karat",
         ],
         sirali=False,
-        g="BİLGE ölçü birimi kodlarında MTK metre kareyi, MTQ metre küpü gösterir; bu yüzden MTK ile metre küp eşleştirmesi yanlıştır. Ülke kodlarında 052 Türkiye'dir; döviz cinsi kodlarında CHF İsviçre frangıdır; taşıma aracı kodlarında 3 gemi, 4 kamyon, 5 uçak, 6 vagondur; ölçü birimi kodlarında NCR karattır. En güçlü tuzak 'Taşıma aracı kodu 3 – Gemi' seçeneğidir: sayısal taşıma aracı kodları birbirine kolayca karışır, fakat 3 gerçekten gemiyi gösterir. Bu nedenle doğru cevap 'Ölçü birimi kodu MTK – Metre küp' seçeneğidir. (MD BİLGE kod listeleri)",
+        g="Gümrük Yönetmeliği Ek-14, beyanname kutularının doldurulmasında kullanılacak kodları kendisi saymaz; bu kodlar Bakanlığın kurumsal internet sitesinden duyurulan BİLGE kod listelerinde yer alır. BİLGE ölçü birimi kodlarında MTK metre kareyi, MTQ metre küpü gösterir; bu yüzden MTK ile metre küp eşleştirmesi yanlıştır. Ülke kodlarında 052 Türkiye'dir; döviz cinsi kodlarında CHF İsviçre frangıdır; taşıma aracı kodlarında 3 gemi, 4 kamyon, 5 uçak, 6 vagondur; ölçü birimi kodlarında NCR karattır. En güçlü tuzak 'Taşıma aracı kodu 3 – Gemi' seçeneğidir: sayısal taşıma aracı kodları birbirine kolayca karışır, fakat 3 gerçekten gemiyi gösterir. Bu nedenle doğru cevap 'Ölçü birimi kodu MTK – Metre küp' seçeneğidir. (MD GY Ek-14; BİLGE kod listeleri)",
         kanit=" || ".join(
             [
+                f"{B5} | Beyanname kutularının doldurulmasına ilişkin aşağıda yer alan açıklamalarda belirtilen kodlar Bakanlığın kurumsal internet sitesinden (www.gtb.gov.tr) duyurulur.",
                 f"{B5} | MTK | METRE KARE",
                 f"{B5} | MTQ | METRE KÜP",
                 f"{B5} | 052 | TÜRKİYE",

@@ -6,6 +6,8 @@ Her hesap sorusu için veri kökteki rakamlardan yeniden hesaplanır:
 - doğru cevap (formül, kaynaktaki cümle: GVM = CIF + yurt dışı gider; KDV matrahı = CIF + yurt dışı + vergiler + yurt içi ...),
 - her çeldirici (adı konmuş tipik hata).
 Sonuçlar şıklardaki metinle karşılaştırılır; sıra artan olmalı, doğru şık B/C/D'de olmalıdır.
+3'te iki kalemin min-max karşılaştırması kalem bazında ve toplamda aynı sonucu vermelidir (kaynak yöntemi açıkça
+söylemediği için); 8'de kök Gümrük Kanunu'ndaki gümrüklenmiş değer tanımını (CIF + gümrük vergileri) açıkça verir.
 """
 
 import pathlib
@@ -58,16 +60,24 @@ H[2] = (
     minmax(nispi, D(500) * 2, D(500) * 8),
     {"min adet": D(1000), "min kg": D(1250) * 2, "nispi": nispi, "max kg": D(1250) * 8},
 )
-# 3: GV min-max iki kalem
-k1 = minmax(D(10000) * p(5), D(200) * D("0.40"), D(200) * D("1.50"))
-k2 = minmax(D(2000) * p(5), D(1000) * D("0.40"), D(1000) * D("1.50"))
+# 3: GV min-max iki kalem — iki kalemde de nispi minimumun altında; kaynak karşılaştırmanın kalem bazında mı
+# toplamda mı yapılacağını açıkça söylemediği için veri iki yöntemin aynı sonucu vereceği biçimde kuruldu.
+mn, mx = D("0.40"), D("1.50")
+kalemler = [(200, D(1200)), (1000, D(2000))]  # (adet, kıymet Avro)
+n1, n2 = (k * p(5) for _, k in kalemler)
+k1, k2 = (minmax(k * p(5), a * mn, a * mx) for a, k in kalemler)
+toplam_adet = sum(a for a, _ in kalemler)
+toplam_yontem = minmax(
+    sum(k for _, k in kalemler) * p(5), toplam_adet * mn, toplam_adet * mx
+)
+assert k1 + k2 == toplam_yontem, "kalem ve toplam karşılaştırması farklı sonuç veriyor"
 H[3] = (
     k1 + k2,
     {
-        "k1 max + k2 nispi": D(300) + D(100),
-        "iki min": D(80) + D(400),
-        "iki nispi": D(500) + D(100),
-        "k1 nispi + k2 min": D(500) + D(400),
+        "iki nispi": n1 + n2,
+        "yalnız k1 min": k1 + n2,
+        "k1 karşılaştırılmamış": n1 + k2,
+        "ters karşılaştırma (iki max)": sum(a * mx for a, _ in kalemler),
     },
 )
 # 5: GV + İGV + EMY
@@ -104,14 +114,15 @@ H[7] = (
         "GV + yurt içi dahil": (g + gv + 1000) * p(2),
     },
 )
-# 8: Gümrüklenmiş değer
+# 8: Gümrüklenmiş değer — GK tanımı (CIF + gümrük vergileri); damga vergisi ve kültür fonu gümrük vergisi değildir
+cif, gv, igv, damga, kf = D(60000), D(6000), D(3000), D(450), D(1200)
 H[8] = (
-    D(60000 + 6000 + 3000),
+    cif + gv + igv,
     {
-        "İGV yok": D(66000),
-        "damga dahil": D(69450),
-        "kültür fonu dahil": D(70200),
-        "ikisi de dahil": D(70650),
+        "İGV yok": cif + gv,
+        "damga dahil": cif + gv + igv + damga,
+        "kültür fonu dahil": cif + gv + igv + kf,
+        "ikisi de dahil": cif + gv + igv + damga + kf,
     },
 )
 # 10, 11: ÖTV ve KDV (aynı veri)
@@ -188,6 +199,18 @@ H[18] = (
 )
 
 hata = 0
+# 3: iki kalemin her birinde nispi minimumun altında olmalı (kalem/toplam yöntemi aynı sonucu versin)
+if not (n1 < kalemler[0][0] * mn and n2 < kalemler[1][0] * mn):
+    print("3: kalemlerden birinde nispi minimumun altında değil")
+    hata += 1
+# 8: kök GK tanımını (CIF + gümrük vergileri) açıkça vermeli; ikinci tanım cümlesi kanıtta kullanılmamalı
+q8 = Q[7]
+if "Gümrük Kanunu'ndaki tanıma göre" not in " ".join(q8["kok"]):
+    print("8: kökte Gümrük Kanunu'ndaki gümrüklenmiş değer tanımı belirtilmemiş")
+    hata += 1
+if "gümrüklerce alınan vergi, resim ve fonların" in q8["kanit"]:
+    print("8: kanıtta ikinci savunulabilir şıkkı destekleyen tanım cümlesi var")
+    hata += 1
 hesap_sorulari = [i for i, q in enumerate(Q, 1) if q["kalip"] == "HESAP"]
 eksik = sorted(set(hesap_sorulari) - set(H))
 if eksik:

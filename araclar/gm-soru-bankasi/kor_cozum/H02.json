@@ -11,14 +11,6 @@
   "dayanak": "Nispi 40.000×%15 = 6.000; min 500×2 = 1.000; max 500×8 = 4.000; nispi > max → 4.000 (K1 min-max kuralı)",
   "sorun": []
  },
- "H02-03": {
-  "cevap": "D",
-  "emin": "yüksek",
-  "dayanak": "Kalem bazında: 1. kalem nispi 500 > max 300 → 300; 2. kalem nispi 100 < min 400 → 400; toplam 700 (H03 K6'daki iki kalemli saat örneği de kalem bazlı)",
-  "sorun": [
-   "H02 kaynağında min-maks karşılaştırmasının kalem bazında yapılacağı açıkça yazmıyor; iki kalem toplanarak karşılaştırılırsa 600 (C) çıkar. Kalem bazlı yaklaşım yalnız H03 kaynağındaki örnekte var; kökte 'her kalem için ayrı karşılaştırılır' ifadesi eklenebilir."
-  ]
- },
  "H02-04": {
   "cevap": "E",
   "emin": "yüksek",
