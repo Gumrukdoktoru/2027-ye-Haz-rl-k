@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "preferences": {
+    "destination": {
+      "value": "youtube",
+      "confirmed_in": [
+        "istisnai-kiymet"
+      ],
+      "updated_at": "2026-10-06T20:45:19.116Z"
+    },
+    "aspect": {
+      "value": "1920x1080",
+      "confirmed_in": [
+        "istisnai-kiymet"
+      ],
+      "updated_at": "2026-10-06T20:45:19.173Z"
+    },
+    "language": {
+      "value": "tr",
+      "confirmed_in": [
+        "istisnai-kiymet"
+      ],
+      "updated_at": "2026-10-06T20:45:19.233Z"
+    },
+    "flow": {
+      "value": "automation",
+      "confirmed_in": [
+        "istisnai-kiymet"
+      ],
+      "updated_at": "2026-10-06T20:45:19.331Z"
+    },
+    "storyboard": {
+      "value": "yes",
+      "confirmed_in": [
+        "istisnai-kiymet"
+      ],
+      "updated_at": "2026-10-06T20:45:19.381Z"
+    },
+    "voice": {
+      "value": "elevenlabs:D1xRw7f8ZHedI7xJgfvz",
+      "confirmed_in": [
+        "istisnai-kiymet"
+      ],
+      "updated_at": "2026-10-06T20:45:19.433Z"
+    },
+    "style_preset.faceless-explainer": {
+      "value": "bold-poster",
+      "confirmed_in": [
+        "istisnai-kiymet"
+      ],
+      "updated_at": "2026-10-06T20:45:19.480Z"
+    }
+  },
+  "sightings": {}
+}

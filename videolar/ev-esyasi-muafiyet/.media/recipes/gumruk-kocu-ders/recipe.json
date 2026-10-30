@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "name": "gumruk-kocu-ders",
+  "workflow": "faceless-explainer",
+  "approved_at": "2026-10-06T20:24:15.941Z",
+  "source_project": "karar-takvim",
+  "destination": "youtube",
+  "aspect": "1920x1080",
+  "language": "tr",
+  "voice": "elevenlabs:D1xRw7f8ZHedI7xJgfvz",
+  "style_preset": "bold-poster"
+}
