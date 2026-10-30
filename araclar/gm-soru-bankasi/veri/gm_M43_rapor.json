@@ -1,0 +1,13 @@
+{
+  "bulunamayan": [],
+  "giremeyen": "İkinci tahlil ücreti (numune başına 2.330 TL) ve numuneden kaynaklanan itirazda birinci tahlilin tekrarı, düşük kıymet şüphesinde bir yıllık araştırma süresi, uzlaşma talebinin dayanakları (Kanuna nüfuz edememe, yargı kararlarıyla görüş farkı) ve kontrol türleri, kısmi uzlaşma talebi (tür itibariyle kısım ↔ aynı türün bir kısmı), uzlaşma davetiyesinin en az beş gün önceden tebliği, nihai teklifin süre sonuna kadar kabulü, uzlaşma gününün bir defaya mahsus ertelenmesi ve gümrüklü yerdeki eşyanın teminatla teslimi ayrı soru olarak sete giremedi.",
+  "notlar": [
+    "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Tip: olumsuz 5, klasik 3, önermeli 2, diğer 2 (vaka 1, boşluk 1); kota 12 soru için 5/3/2/2 ile aynı. Kökü olumsuz toplam 5 (%42).",
+    "Önermeli kombinasyonları: S3 'I, III ve IV' (ikinci tahlile ilk tahlili yapan kimyager katılamaz), S9 'I ve III' (bir aylık ödeme süresi ve peşin ödeme indirimi yasağı); en kapsamlı şık doğru 0; ikisi de doğru yönlü.",
+    "Çıkmış alanlar: 2024/12 (uzlaşmaya konu edilemeyen alacak) → S4, çıkmışın olumsuz kurgusu yerine olumlu yön (uzlaşılabilen: mülkiyeti kamuya geçirilen eşyanın vergi ve cezaları) ve ayna çift; 2021/82 (uzlaşmaya konu tutar, kültür fonu hariç) → S4'teki 'aslı gümrük idarelerince takip edilmeyen mali yükler' çeldiricisiyle; 2023/68 (uzlaşılan cezada peşin ödeme indirimi) → S9-IV. Hesap çıkmışları (2021/82, 2023/68) bu mevzuat bölümünde sözel ölçüldü.",
+    "Güncellik sorusu: S7 (Gümrük Uzlaşma Yönetmeliği md. 9; bölge ve merkezi uzlaşma komisyonlarının yetki sınırı 7.000.000 TL). Kaynak metinde hükmün yanında '(18.06.2026 / sayılı R.G.)' notu var; değişikliğin içeriği ve eski tutar kaynakta yazmadığı için eski tutar çeldirici yapılmadı, çeldiriciler aynı bankadaki diğer yetki eşiklerinden (10.000 TL alt sınır, 4.730.000 ve 47.397.000 TL geri verme, 5.000.000 TL tecil; M40 ve M41 kaynakları) seçildi. Çeldiricilerin iki dosyası (40, 41) kanıtta ayrıca gösterildi.",
+    "Meslek soruları: S8 (gümrük müşavirinin uzlaşma başvurusu ve görüşmeye katılımı), S11 (müteselsil sorumlu dolaylı temsilci gümrük müşavirinin itirazının bekletilmesi). İkiz eksen 12 (dolaylı temsil) S11'de.",
+    "M40 ile çakışma önlendi: itirazın ödeme süresini kesmesi (GK 198) M40'ta vaka olarak ölçüldüğü için bu bölümde uzlaşma talebinin itiraz süresini durdurması (GK 244) ölçüldü (S5; durma + beş güne tamamlama).",
+    "Kaynak sorunları: Uzlaşma Yönetmeliğinde 5. maddenin eklerine ve Gümrük Yönetmeliği atıflarına ilişkin numaralar silinmiş; GK 243 ve GY 588'de 'maddeye göre' atfının numarası yok. Bu hükümler numara üzerinden sorulmadı."
+  ]
+}

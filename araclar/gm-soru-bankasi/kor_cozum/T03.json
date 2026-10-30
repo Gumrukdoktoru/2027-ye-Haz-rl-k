@@ -1,110 +1,110 @@
 {
-"T03-01": {
-"cevap": "E",
-"emin": "yüksek",
-"dayanak": "Bölüm I Notu 2: 'Tarifede \"kurutulmuş\" ürünlere yapılan atıf, suyu alınmış, buharlaştırılmış veya dondurulmak suretiyle kurutulmuş (liyofilize) ürünlere de'.",
-"sorun": []
-},
-"T03-02": {
-"cevap": "A",
-"emin": "yüksek",
-"dayanak": "01.06 notu: 'Sirklerin, vahşi hayvan koleksiyonlarının veya diğer benzeri seyyar hayvan gösterilerinin parçalarını oluşturan hayvanlar bu pozisyon haricindedir (95.08)'; yunus, arı, kurbağa 01.06, yabani domuz 01.03.",
-"sorun": []
-},
-"T03-03": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "02.08 notu: 01.06 hayvanlarının (örneğin ... kurbağa ...) et ve sakatatı.",
-"sorun": []
-},
-"T03-04": {
-"cevap": "E",
-"emin": "yüksek",
-"dayanak": "Fasıl 2 notu ve genel açıklama: bağırsak, mesane ve işkembeler yenilebilir olsun olmasın 05.04; dil, karaciğer, uykuluk 02.06, tuzlanmış kulak 02.10.",
-"sorun": []
-},
-"T03-05": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "02.09 notu: kümes hayvanı yağları (örneğin kazlarınki) eritilmemiş olanları bu pozisyonda; eritilince 15.01.",
-"sorun": []
-},
-"T03-06": {
-"cevap": "A",
-"emin": "yüksek",
-"dayanak": "Fasıl 2 genel açıklama: 'biber ve tuz gibi baharatlarla işlem görmüş' et 16.02; enzim, şeker, MAP, tuzlama 2. Fasılda kalır.",
-"sorun": []
-},
-"T03-07": {
-"cevap": "E",
-"emin": "yüksek",
-"dayanak": "03.06 notu: 'suda kaynatılmış, kabuğu çıkarılmış kabuklu hayvanlar (16.05)'; diğer dördü Fasıl 3 istisnaları.",
-"sorun": []
-},
-"T03-08": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "03.08 notu: 'Su omurgasızlarının başlıcaları: deniz kestanesi'; 03.06 deniz kestanesini dışarıda bırakır.",
-"sorun": []
-},
-"T03-09": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "04.05 notu: 'Süt yağı dışında yağlar içeren ... sürülerek yenilen yağlar bu pozisyona dahil değildir'.",
-"sorun": []
-},
-"T03-10": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "04.03 pozisyon metni: kefir ... 'KAKAO İÇERSİN İÇERMESİN'.",
-"sorun": []
-},
-"T03-11": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "Fasıl 4 notu: 'en az %70, en fazla % 85 kuru madde'.",
-"sorun": []
-},
-"T03-12": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "04.07 notu: 'tüm kuşların ve kümes hayvanlarının döllenmiş kuluçkalık yumurtalarını'.",
-"sorun": []
-},
-"T03-13": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "04.09 notu: şeker veya başka madde ilave edilmemiş, petekte olan ya da petek parçaları içeren ballar; suni bal ve karışım 17.02; arı reçinesi 04.10 (Seri 15).",
-"sorun": []
-},
-"T03-14": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "04.10 notu: 'insan tüketimine uygun olmayan cansız böcekler (unlar ve kaba unlar dahil) 05.11'.",
-"sorun": []
-},
-"T03-15": {
-"cevap": "A",
-"emin": "yüksek",
-"dayanak": "Fasıl 5 notu: hazırlanmış 'fırça başları' (96.03) dahil değil; porsuk kılı 05.02, at kılı döküntüsü ve kan 05.11, ağartılmış saç döküntüsü 05.01.",
-"sorun": []
-},
-"T03-16": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "Fasıl 5 notu: fil, hipopotam, mors, deniz gergedanı, yaban domuzu dişleri ve gergedan boynuzları 'fil dişi'; geyik boynuzu 05.07'de ayrı.",
-"sorun": []
-},
-"T03-17": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "05.04 notu: 'Renin bezleri (şirden) ... (kesilmiş veya kurutulmuş olsun olmasın); peynir mayası ekstraksiyonu için'.",
-"sorun": []
-},
-"T03-18": {
-"cevap": "A",
-"emin": "yüksek",
-"dayanak": "05.11 notu: hayvan spermleri, dondurulmuş embriyonlar, ipekböceği yumurtaları; diğer gruplarda inci (Fasıl 71), saç filesi (65.05), loofa (14.04), kalıplanmış kemik (96.01).",
-"sorun": []
-}
+ "T03-01": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Bölüm I Not 2: 'Tarifede \"kurutulmuş\" ürünlere yapılan atıf, suyu alınmış, buharlaştırılmış veya dondurulmak suretiyle kurutulmuş (liyofilize) ürünlere de'",
+  "sorun": []
+ },
+ "T03-02": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 1 Notu ve 01.06 açıklama: seyyar hayvan gösterilerinin parçasını oluşturan hayvanlar 95.08; yunus, arı, kurbağa 01.06; yabani erkek domuz 01.03.",
+  "sorun": []
+ },
+ "T03-03": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "02.08 açıklama: 'insan tüketimi için kullanılmaya uygun olmak kaydıyla 01.06 pozisyonunda yer alan hayvanların (örneğin; ... kurbağa ...) et ve sakatatı'",
+  "sorun": []
+ },
+ "T03-04": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 2 Genel Açıklama: 'Hayvan bağırsakları mesaneleri ve işkembeleri ... yenilebilir olsun veya olmasın 05.04'; dil, karaciğer, timus 02.06; tuzlanmış kulak 02.10.",
+  "sorun": []
+ },
+ "T03-05": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "02.09 açıklama: 'Evcil veya yabani kümes hayvan yağlarının (örneğin; kazlarınki) eritilmemiş veya başka surette çıkarılmamış olanları da bu pozisyonda yer alır'",
+  "sorun": []
+ },
+ "T03-06": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 2 Genel Açıklama: '...biber ve tuz gibi baharatlarla işlem görmüş olanlar dahil ... (16.02 pozisyonu)'; papain, şekerli su, MAP, tuzlama Fasıl 2'de kalır.",
+  "sorun": []
+ },
+ "T03-07": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "03.06 hariç: 'suda kaynatılmış, kabuğu çıkarılmış kabuklu hayvanlar (16.05 pozisyonu)'; kabuğu içinde pişirilmiş, tütsülemede pişmiş, ısı şoklu midye, pişmiş balık unu (03.09) Fasıl 3'te.",
+  "sorun": []
+ },
+ "T03-08": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "03.08 açıklama: 'Su omurgasızlarının başlıcaları: deniz kestanesi, deniz hıyarı ... ve deniz anasıdır.'",
+  "sorun": []
+ },
+ "T03-09": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "04.05 açıklama: 'Süt yağı dışında yağlar içeren veya ağırlıkça %39’dan az süt yağı içeren, sürülerek yenilen yağlar bu pozisyona dahil değildir (genellikle 15.17 veya 21.06)'",
+  "sorun": []
+ },
+ "T03-10": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "04.03 pozisyon metni: kefir '...ilave şeker veya diğer tatlandırıcı maddeler katılmış olsun olmasın veya aroma veya ilave meyve, sert kabuklu meyve veya kakao içersin içermesin'",
+  "sorun": []
+ },
+ "T03-11": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 4 Not 4: 'Ağırlık itibariyle en az %70, en fazla % 85 kuru madde içermesi'",
+  "sorun": []
+ },
+ "T03-12": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "04.07 / 0407.11: 'Kuluçkalık yumurtalar: Tavuk yumurtaları (Gallus domesticus türü)'",
+  "sorun": []
+ },
+ "T03-13": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "04.09 açıklama: '...santrifüj edilmiş veya petekte olan ya da petek parçaları içeren balları kapsar'; suni bal ve karışımları 17.02.",
+  "sorun": []
+ },
+ "T03-14": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "04.10 açıklama: 'insan tüketimine uygun olmayan cansız böcekler (unlar ve kaba unlar dahil) 05.11 pozisyonunda sınıflandırılır.'",
+  "sorun": []
+ },
+ "T03-15": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 5 Not 1: 'Fırça veya süpürge imalinde kullanılmak üzere hazırlanmış \"fırça başları\" (96.03 pozisyonu)' dahil değil; porsuk kılı 05.02, at kılı döküntüsü ve kan 05.11, ağartılmış saç döküntüsü 05.01.",
+  "sorun": []
+ },
+ "T03-16": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 5 Not 3: fil, hipopotam, mors, deniz gergedanı ve yaban domuzu dişleri, gergedan boynuzları ile bütün hayvanların dişleri 'fil dişi'; geyik boynuzu 05.07'de ayrı sayılır.",
+  "sorun": []
+ },
+ "T03-17": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "05.04 açıklama: 'Renin bezleri (şirden) (buzağı, oğlak vb.) (kesilmiş veya kurutulmuş olsun olmasın); bunlar, peynir mayası ekstraksiyonu için kullanılırlar.'",
+  "sorun": []
+ },
+ "T03-18": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "05.11 açıklama: hayvan spermleri, transplante için dondurulmuş embriyonlar, ipekböceği yumurtaları. B: inciler Fasıl 71; C: saç fileleri 65.05; D: loofa 14.04; E: kalıplanmış kemik tozu ürünleri 96.01.",
+  "sorun": []
+ }
 }

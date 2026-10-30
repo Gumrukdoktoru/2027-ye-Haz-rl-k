@@ -1,0 +1,74 @@
+{
+ "T01-01": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "G.Y.32 kodlama kademeleri: MİLLİ AÇILIM 10'lu 3926.90.97.10",
+  "sorun": []
+ },
+ "T01-02": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "8501.10.10: 7-8. haneler '10' (KN açılımı: 'Çıkış gücü 18 W'ı geçmeyen senkron motorlar'); 9-10 ve 11-12. haneler 00. KN açılımı yapılmıştır.",
+  "sorun": []
+ },
+ "T01-03": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "İçindekiler: 'Fasıl 98 (Akit taraflarca özel amaçlarla kullanılmak üzere saklı tutulmuştur.)'; AS'de ileride kullanılmak üzere saklı olan 77. Fasıldır.",
+  "sorun": []
+ },
+ "T01-04": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Gemiler ve suda yüzen taşıt ve araçlar = Fasıl 89; diğerleri 99.05, 9919.00.00.00.13/16, 99.30 listesinde.",
+  "sorun": []
+ },
+ "T01-05": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "G.Y.32: 'BÖLÜM/FASIL BAŞLIĞI: başta yer alır, bağlayıcı DEĞİL, yol gösterici'",
+  "sorun": []
+ },
+ "T01-06": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "G.Y.32: 'TARİFE TAVANI: Belirli miktara indirim; aşan kısım için indirimlerin dönem sonuna kadar ASKIYA ALINABİLMESİ'",
+  "sorun": []
+ },
+ "T01-07": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Seri No 4 md.2: 'Dünya Gümrük Örgütü Armonize Sistem Komitesi tarafından hazırlanmış olan Armonize Sistem Nomanklatürü İzahnamesi esas alınarak düzenlenen'",
+  "sorun": []
+ },
+ "T01-08": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Seri No 4 md.4(c): 'Bölüm: ... çoğunlukla aynı hammaddeden eşyayı içine alacak şekilde oluşturulan fasılları içeren grupları'",
+  "sorun": []
+ },
+ "T01-09": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Kısaltmalar: 'MPa megapascal' (milipascal değil); INN 'uluslararası tescil edilmemiş isim' listede aynen.",
+  "sorun": []
+ },
+ "T01-10": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 47, 48, 49 hepsi X. Bölüm; diğer seçeneklerde 15(III)/17-19(IV), 39-40(VII)/41(VIII), 69-70(XIII)/71(XIV), 94-95(XX)/97(XXI).",
+  "sorun": []
+ },
+ "T01-11": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "474 s.K. md.2: CB had ve nispetleri 50'ye kadar yükseltebilir, sıfıra kadar indirebilir veya %50'sine kadar artırabilir; notlarda değişiklik (md.2) ve pozisyon/kod genişletme (md.1) yetkisi var. 'İki katına kadar' yok.",
+  "sorun": []
+ },
+ "T01-12": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 9 ve 10 Bölüm II'de (Hububat X. Bölümde değil); Fasıl 18 Bölüm IV; Fasıl 91 Bölüm XVIII. Doğrular I, II, IV.",
+  "sorun": []
+ }
+}
