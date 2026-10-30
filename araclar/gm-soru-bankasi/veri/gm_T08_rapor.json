@@ -1,0 +1,16 @@
+{
+ "bulunamayan": [
+  "2022/88 (ilk yardım kutusu 30.06; uygulanan GYK 1 ve 6): GYK seçimi T02 bölümünün konusudur; 30.06 kapalı listesi S9 (muayene jeli) ve S8/S10'da farklı kalemlerle ölçüldü.",
+  "2021/94 ve 2025/42 (GYK 3(b) perakende takım örnekleri; 30 ve 33. fasıllar ilgili): set kuralı T02'nin konusu, bu bölümde ayrıca sorulmadı.",
+  "2025/49 (aromalı şişe halkası, 33.07 / 39.26): ürünün sınıflandırma görüşü bu bölümün kaynağında yok; 33.01 / 33.03–33.07 / 34.01 sınırları S17 ve S18'de ölçüldü."
+ ],
+ "giremeyen": "28 ve 29. fasılların tek tek kimyasal pozisyonları (asitler, tuzlar, fonksiyonel gruplar), 29.36–29.41 vitamin, hormon, alkaloid ve antibiyotik ayrıntıları, 30.03/30.04 karışım–dozlu ilaç ayrımı, 32.08–32.10 boya-vernik ayrımı ve 33.05–33.06 saç ve ağız müstahzarları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar [K3], [K6], [K9], [K12], [K15], [K18] (Bölüm/Fasıl notları ve AS İzahnamesi) bloklarından birebir alındı.",
+  "Profil: eşyanın yeri (GTİP) 12/18 (%67): 7'si pozisyon şıklı (sıralı), 5'i eşya şıklı. Kalan 6 soru: kapsam dışı 4 (Bölüm VI perakende listesi, 30. Fasıl notu, 31. Fasıl notu, 33. Fasıl kapsamı), klasik 1 (29. Fasıl son pozisyon kuralı), sayısal 1 (bakır fosfür %15; şıklar bölümün gerçek eşikleri). Kökü olumsuz 7 (%39). Sabit harfler B, C, D üçer kez; art arda aynı harf yok.",
+  "Fasıl dağılımı: Bölüm VI notu ve Fasıl 28: 4, Fasıl 29: 3, Fasıl 30: 3, Fasıl 31: 2, Fasıl 32: 3, Fasıl 33: 2 (S17 30 ve 33. fasıl notlarını birlikte kullanır).",
+  "Çıkmış alanlar: 2021/98 (30. Fasılda sınıflandırılan eşya) → S8 (olumsuz) ve S10 (olumlu, çıkmış şık kümesi kullanılmadı); 2022/88 → S9; 2022/80 (gübre faslı) → S12, S13; 2025/49 → S17, S18.",
+  "Kaynakta sayısı silinmiş hükümler soru ve çeldiriciye alınmadı: 31.05 başlığında 'BRÜT AĞIRLIĞI 'I GEÇMEYEN' (ambalaj sınırı), 28. Fasıl Genel Açıklamalarında perakende tutkal için 'net ağırlığı .veya daha az'.",
+  "Kör çözüm yapılmadı (bkz. T06 notu); öz denetim ayrı geçişte yapıldı."
+ ]
+}

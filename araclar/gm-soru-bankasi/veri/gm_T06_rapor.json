@@ -1,0 +1,16 @@
+{
+ "bulunamayan": [
+  "2021/100 (karidesli mantı + çorba tozu seti; GYK 1, 2(b), 3(b), 6; 1605.21 / 1902.20 / 2104.10): set ve GYK kurgusu T02 bölümünün konusudur, T06 kaynağında set hükmü yok; 21.04 çorba müstahzarları S8'in çeldiricisinde ölçüldü.",
+  "2022/86 (e-sigara 85.43 / sigara 24.02 / kartuş 24.04 / sigara kağıdı 48.13): 85.43 ve 48.13 ayakları bu bölümün kaynağında yok; 24.02–24.04 ayağı S14'te (tek kullanımlık e-sigara 24.04, alışkanlık kırıcı sigara 24.02) farklı yönden ölçüldü.",
+  "2024/51 (ürün–pozisyon eşleştirmesi 04.08, 11.01, 19.02, 20.08, 21.04): 04, 11 ve 19. fasıl ayakları bu bölümün kaynağında yok; 20.07/20.08 ayağı S2 ve S3'te, 21.04 ayağı S8'de ölçüldü."
+ ],
+ "giremeyen": "22.04–22.05 kap hacmine göre alt açılımlar (litre sayısı kaynakta silinmiş), 23.06 küspe türleri ve düşük erusik asitli kolza, 24.03 nargile tütünü alt pozisyon notu, 21.03 sos–çeşni ayrımı ile Tarife Sınıflandırma Kararlarındaki gıda takviyesi kapsülleri ve 2207/2208 denatüre alkol kararları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar yalnız [K3], [K6], [K9], [K12], [K15] (Fasıl notları ve AS İzahnamesi) bloklarından birebir alındı; ders notu ve sunum notu blokları kanıt olarak kullanılmadı.",
+  "Profil: eşyanın yeri (GTİP) 10/14 (%71): 6'sı pozisyon şıklı (sıralı; sabit harfler D, B, C, C, D, B; art arda aynı harf yok), 4'ü eşya şıklı. Kalan 4 soru not/kapsam: kapsam dışı 3 (20. Fasıl kapsamı, 20.09 Brix ayrımı, 22. Fasıl asetik asit notu), tanımdan ad 1 (homojenize bileşik gıda müstahzarı). Kökü olumsuz 6 (%43). Önermeli yok.",
+  "Fasıl dağılımı: Fasıl 20: 5, Fasıl 21: 3, Fasıl 22: 3, Fasıl 23: 2, Fasıl 24: 1.",
+  "Çıkmış alanlar: 2023/5 (20.08 nihai GTİP ölçütleri: şeker, Brix, alkol) → S4 (20.09 alt pozisyonlarında Brix eşiği, üzüm suyu 30); 2023/20 (22. Fasılda olmayan eşya, deniz suyu) → S9 (asetik asit %10 notu ve 22.09 istisnası); 2025/52 (24.04'te olmayan ürün) → S14 olumlu yönden; 2024/51 → S3 (reçel–sofralık jöle).",
+  "Güncellik: kaynakta değişiklik tarihi görünen hüküm yok; 24.04 açıklama notuna eklenen tek kullanımlık e-sigara bendi S14'te profil 5 adayı olarak ölçüldü (değişiklik tarihi kaynakta yazmadığı için guncellik alanı boş bırakıldı).",
+  "Kör çözüm yapılmadı: ajan talimatı yazımı veri/ ve dogrulama/ klasörleriyle sınırladığı için kor_cozum/T06.json yazılmadı; ayrı bir geçişte her soru için tek doğru cevap ve çeldiricilerin kaynağa göre kesin yanlışlığı denetlendi."
+ ]
+}

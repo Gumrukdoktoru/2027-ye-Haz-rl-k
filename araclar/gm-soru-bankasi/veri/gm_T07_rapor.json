@@ -1,0 +1,12 @@
+{
+ "bulunamayan": [],
+ "giremeyen": "26.01–26.17 metal cevherlerinin tek tek pozisyonları, 25.15/25.16 yapı taşları ve 25.17 öncelik notu, 25.20–25.23 alçı-kireç-çimento ayrımı, 27.07 aromatik oran ölçütü, 27.14–27.15 bitümenli ürünler ve 27.16 elektrik enerjisi ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar [K3], [K6], [K9] (Fasıl notları ve AS İzahnamesi) bloklarından birebir alındı.",
+  "Profil: eşyanın yeri (GTİP) 6/8 (%75): 3'ü pozisyon şıklı (sıralı; B, C, D), 3'ü eşya şıklı. Kalan 2 soru: kapsam dışı 1 (25. Fasıl notu), sayısal 1 (2707 benzol %50; şıklardaki %14, %60, %70, %90 aynı fasıl notlarının gerçek eşikleri). Kökü olumsuz 3 (%38).",
+  "Fasıl dağılımı: Fasıl 25: 2, Fasıl 26: 2, Fasıl 27: 4.",
+  "Çıkmış alan: 2021/91 (27. Fasılda sınıflandırılamayan eşya) → S5 (saf metan 27.11 istisnası), S6 (%70 eşiği, 34.03'e giden tekstil yağı), S7 (cilt bakımı vazelini 33.04); çıkmış sorunun şık kümesi (havagazı, turba, elektrik, hidrojen, vazelin) kullanılmadı.",
+  "Kaynak sorunu: 27.11 açıklama notunda '%90'dan daha az saflıktaki propan (propilen)' ifadesi çeviri hatasıyla 'saf propan 27.11' hükmüyle çelişiyor; bu nedenle S5'te doğru cevap olarak propan yerine metan kullanıldı.",
+  "Kör çözüm yapılmadı (bkz. T06 notu); öz denetim ayrı geçişte yapıldı."
+ ]
+}

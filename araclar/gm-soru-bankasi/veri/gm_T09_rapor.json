@@ -1,0 +1,14 @@
+{
+ "bulunamayan": [
+  "2024/58 (ayakkabıyla ilgili ürünlerin pozisyonları: 34.05, 44.17, 68.12, 84.54, 96.05): bu bölümün kaynağında yalnız 34.05 ayağı var; 34.05 kapsamı S1'de (temizleme tozu, Fasıl 34 notu) farklı yönden ölçüldü, diğer pozisyonlar başka bölümlerin konusu."
+ ],
+ "giremeyen": "35.07 enzimler (aynı grupta T06 S7'de 35.07 hükmü soruldu, tekrar edilmedi), 36.01–36.05 barut, patlayıcı, fitil, pirotekni ve kibrit ayrıntıları, 37.01–37.06 film türleri, 38.08 alt pozisyon notlarındaki ISO maddeleri, 38.24 dökümhane bağlayıcıları ve 38.26 biyodizel ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar [K3], [K6], [K9], [K12], [K15] (Fasıl notları ve AS İzahnamesi) bloklarından birebir alındı.",
+  "Profil: eşyanın yeri (GTİP) 8/12 (%67): 5'i pozisyon şıklı (sıralı), 3'ü eşya şıklı. Kalan 4 soru: kapsam dışı 2 (34.04 mum notu, şehir atıkları tanımı), sayısal 1 (dekstrin %10), klasik 1 (38.22 sertifikalı referans maddeler önceliği). Kökü olumsuz 5 (%42). Sabit harfler (sayısal soru dahil) C, C, B, D, D, B; art arda aynı harf yok.",
+  "Fasıl dağılımı: Fasıl 34: 3, Fasıl 35: 2, Fasıl 36: 2, Fasıl 37: 1, Fasıl 38: 4.",
+  "Çıkmış alanlar: 2024/52 (sınai yağ alkolleri 38.23) → S12 (38.23'ün %85/%90 saflık sınırı, %88 oleik asit 29.16; çıkmış şık kümesi kullanılmadı); 2024/58 → S1.",
+  "Kaynak sorunları: 35.03 açıklama notunda perakende tutkal sınırı silinmiş ('Net ağırlığı .ı geçmeyen') — sorulmadı. 35.02 başlığı '%80'den fazla', açıklama notu '%80 veya daha fazla' dediği için eşik değerinin kendisi soru verisi yapılmadı; S4'te %85 kullanıldı.",
+  "Kör çözüm yapılmadı (bkz. T06 notu); öz denetim ayrı geçişte yapıldı."
+ ]
+}

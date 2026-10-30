@@ -1,0 +1,14 @@
+{
+ "bulunamayan": [
+  "2023/10 (plastik, kauçuk ve çelik conta seti, 84.84): sınıflandırma 84. Fasıl ve GYK konusudur (T18–T19, T02); bu bölümün kaynağında yok."
+ ],
+ "giremeyen": "39.01–39.14 ilk şekillerdeki polimer pozisyonları ve alt pozisyon notunun %95 kuralları, 39.16–39.21 yarı mamuller (39.16 başlığında sayı silinmiş), 40.11 dış lastik alt pozisyonları, 41.04–41.15 deri işleme aşamaları ve 43.01–43.02 kürk birleştirme ayrıntıları ayrı soru olarak sete giremedi.",
+ "notlar": [
+  "Kontrol: kontrol_gm.py 'Hatalı soru: 0'. Kanıtlar [K3], [K6], [K9], [K12], [K15] (Bölüm/Fasıl notları ve AS İzahnamesi) bloklarından birebir alındı.",
+  "Profil: eşyanın yeri (GTİP) 13/18 (%72): 8'i pozisyon şıklı (sıralı; sabit harfler C, D, B, C, D, C, B, D; art arda aynı harf yok), 5'i eşya şıklı. Kalan 5 soru: kapsam dışı 3 (kauçuk tanımı, 42.03 aksesuar tanımı, taklit kürk tanımı), tanımdan ad 1 (kopolimer), şart 1 (Bölüm VII takım notu). Kökü olumsuz 7 (%39). Önermeli yok.",
+  "Fasıl dağılımı: Bölüm VII notu ve Fasıl 39: 6, Fasıl 40: 4, Fasıl 41: 2, Fasıl 42: 4 (S16 42 ve 43. fasıl notlarını birlikte kullanır), Fasıl 43: 2.",
+  "Çıkmış alanlar: 2022/78 (39.26'da yer almayan plastik eşya) → S2 olumlu yönden, farklı şık kümesiyle; 2024/44 (farklı fasıldaki eşya, silikon) → S9 (kauçuk tanımı, vulkanize lif); 2025/55 (40. Fasılda yer alan eşya) → S8 olumsuz yönden; 2023/14 ve 2023/4 (42.02) → S14 (Fasıl 42 notu: kısa ömürlü plastik çanta, kıymetli metal aksam).",
+  "Kaynakta sayısı silinmiş hükümler sorulmadı: 39.16 başlığı ('ENİNE KESİTİNİN EN GENİŞ YERİ .Yİ GEÇEN'), 39. Fasıl notunda 39.18 genişliği ('eni en az . olan'), 40. Fasıl notunda 40.08 kesit boyutu ('.yi geçen'). 39.22 başlığında 'SU DEPOLARI' ifadesi bulunduğu için 300 litre sorusunda (S3) sarnıç yerine foseptik tank kullanıldı ve 39.22 şıklara alınmadı.",
+  "Kör çözüm yapılmadı (bkz. T06 notu); öz denetim ayrı geçişte yapıldı."
+ ]
+}
