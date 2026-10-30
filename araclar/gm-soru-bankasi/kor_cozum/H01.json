@@ -196,5 +196,11 @@
   "emin": "yüksek",
   "dayanak": "KDV matrahı = 609.000 + 24.360 + tescil öncesi KDV'ye tabi tutulmamış boşaltma 350 x 35 = 12.250 -> 645.610; KDV %20 = 129.122 TL. KDV'li faturayla ödenen tescil sonrası nakliye girmez.",
   "sorun": []
+ },
+ "H01-20": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Genelge 2008/24 (H01 K5 / H04 K3): satın alındıktan sonra ilk kez ülkeye gelen deniz ve hava taşıtlarında o sefere mahsus olmak üzere Türkiye'deki giriş liman veya yerine kadar sarf edilen akaryakıt bedeli ile yer/liman hizmetleri ve personel giderleri nakliye gideri olarak gümrük kıymetine dahil edilir; örnekte yolculuk öncesi bakım-servis bedeli (10.000 USD) kıymete katılmamış (1.135.000). Giriş sonrası akaryakıt, ithalat vergileri ve satın alma komisyonu dahil değil.",
+  "sorun": []
  }
 }

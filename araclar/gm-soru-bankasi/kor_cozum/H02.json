@@ -90,5 +90,23 @@
   "emin": "yüksek",
   "dayanak": "62 no.lu metin, Karar md.3: 'DAHİLDE İŞLEME İZİN BELGESİ kapsamında yapılan ithalatta yukarıdaki oranlar %0 olarak uygulanır'; yalnız 2. ithalat: 25.000×%6×30 = 45.000",
   "sorun": []
+ },
+ "H02-03": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Nispi<Min→Min kuralı (H02 K1). 1. kalem: nispi 1.200×%5=60 < min 200×0,40=80 → 80; 2. kalem: nispi 2.000×%5=100 < min 1.000×0,40=400 → 400; toplam 480 Avro (kalemler birleşik hesaplansa da nispi 160 < min 480 → 480).",
+  "sorun": []
+ },
+ "H02-13": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "H02 K1 '3 FAKTÖR – TEMEL Vergi Hesabı Faktörleri: 1. Tarife sınıflandırması (GTİP) 2. Eşyanın menşei (ekonomik milliyet) 3. Eşyanın gümrük kıymeti'.",
+  "sorun": []
+ },
+ "H02-15": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GVM=60.000+4.000=64.000; GV %5=3.200; ADV %30=19.200; KDV matrahı=64.000+3.200+19.200+1.000=87.400; KDV %20=17.480; toplam=3.200+19.200+17.480=39.880 TL.",
+  "sorun": []
  }
 }

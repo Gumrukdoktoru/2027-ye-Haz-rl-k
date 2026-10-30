@@ -32,4 +32,5 @@
   - `kontrol_gm.py`: kontrol5'i içe aktarıp genişletir (GTİP kalıbı, tarife ve hesap kökleri, tarife metni kanıt toleransı, harf/sıra atfı, "çeldirici" ve hafta sonu tarih denetimi, GM tip profili ve kota).
   - `veri/gm_<KOD>.py` ve `_rapor.json`: soru verisi (pilot: M44, T03, H02); `dogrulama/<KOD>_hesap_kontrol.py`: hesap bölümlerinin sayısal doğrulaması; `kor_cozum/<KOD>.json` ve `kor_karsilastir_gm.py`: kör çözüm ve anahtar karşılaştırması.
   - `kitap_gm.py` (kitap.py'yi içe aktarır) ve `sayfa_gm.py`: `python3 kitap_gm.py <metin/tum> bolumler.json veri <ad> --cilt mevzuat|tarife-hesap [--cozumsuz] [--bolum M44,T03]` → `node ../gmy-deneme3/pdf5.mjs <ad>.html <ad>.pdf` → `python3 sayfa_gm.py <ad>.pdf harita.json` → aynı komut `harita.json` ile ve yeniden PDF.
+  - `cakisma_gm.py`: bölümler arası ve GMY ile tekrar taraması (rapor `dogrulama/tekrar_raporu.md`); `hafiza_gm.py`: üretim hafızasına GM-<KOD> satırları.
   - Kaynak metinler depoya alınmaz; bütün bölüm metinleri tek düz klasörde (`…/gm/metin/tum/`) olmalıdır.

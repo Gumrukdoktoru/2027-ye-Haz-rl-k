@@ -110,6 +110,7 @@ def sayfa_kurallari(kitap, cozumsuz):
 
 
 CSS_EK = """
+.ok-alt { max-width: 100mm; }
 .ok-buyuk { font-size: 150pt; line-height: .92; margin: 12mm 0 2mm; letter-spacing: -.02em; }
 .ok-baslik { font-size: 34pt; }
 .ic-no { width: 11mm; }
