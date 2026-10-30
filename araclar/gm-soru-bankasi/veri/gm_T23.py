@@ -310,27 +310,27 @@ Q = [
         cikmis="2025/40; 2022/80",
         kapsamli=False,
     ),
-    # 9 ---------------- Fasıl 91 Notu: kıymetli metal kaplamalı adi metal zarflı saat 91.02 (pozisyon) ----------------
+    # 9 ---------------- Fasıl 91 Notu + 91.01 Açıklama Notu: kıymetli metal kakmalı adi metal zarflı saat 91.02 (pozisyon) ----------------
     dict(
         konu="Fasıl 90–93",
         blok="T23",
         kalip="GTİP",
         z="Z",
-        madde="TGTC Fasıl 91 Notu (91.01 / 91.02 ayrımı)",
-        cek="91.01 yalnız tamamen kıymetli metal veya kıymetli metal kaplama metal zarflı saatler; adi metal zarfı kıymetli metalle kaplanmış saatler 91.02'de.",
+        madde="TGTC Fasıl 91 Notu; 91.01 Açıklama Notu (91.01 / 91.02 ayrımı)",
+        cek="91.01 yalnız zarfı tamamen kıymetli metal veya kıymetli metalle kaplama metal saatler; kıymetli metal kakmalı adi metal zarflı saatler 91.02'de.",
         kok=[
-            "Türk Gümrük Tarife Cetveline göre, zarfı adi metalden olup kıymetli metalle kaplanmış kol saati aşağıdaki tarife pozisyonlarından hangisinde sınıflandırılır?"
+            "Türk Gümrük Tarife Cetveline göre, zarfı kıymetli metal kakmalı adi metalden yapılmış kol saati aşağıdaki tarife pozisyonlarından hangisinde sınıflandırılır?"
         ],
         d="91.02",
         c=["71.13", "71.17", "91.01", "91.11"],
         sirali=True,
         siklar=["71.13", "71.17", "91.01", "91.02", "91.11"],
-        g="91. Fasıl notuna göre 91.01 pozisyonu sadece tamamen kıymetli metallerden veya kıymetli metallerle kaplama metallerden ya da bu metallerin inci veya kıymetli taşlarla birleştirilmesiyle yapılmış zarfları olan saatleri kapsar; not aynı yerde zarfları adi metallerden olup kıymetli metallerle kaplanmış saatlerin 91.02 pozisyonuna gireceğini açıkça söyler. 71.13 ve 71.17 mücevherci eşyası ve taklit mücevherci eşyasının pozisyonlarıdır; fasıl notu saat zincirlerini bu pozisyonlara gönderir, saatin kendisini değil. 91.11 ise ayrı gelen saat zarflarını ve aksamını kapsar. En güçlü tuzak 91.01 pozisyonudur: zarfta kıymetli metal kaplama bulunduğu için oraya gideceği düşünülebilir, fakat kaplanan esas metal adi metal olduğundan saat 91.02 pozisyonunda kalır. Bu nedenle doğru cevap '91.02' seçeneğidir. (MD GYK 1 ve 6; Fasıl 91 Notu)",
-        kanit=f"{K} | 91.01 Pozisyonu sadece tamamen kıymetli metallerden veya kıymetli metallerle kaplama metallerden || {K} | Zarfları adi metallerden olup, kıymetli metallerle kaplanmış saatler 91.02 pozisyonuna girer. || {K} | Saat zincirleri (duruma göre 71.13 veya 71.17 pozisyonları); || {K} | 91.11 - SAATLERİN ZARFLARI VE BUNLARIN AKSAM VE PARÇALARI.",
+        g="91. Fasıl notuna göre 91.01 pozisyonu yalnız zarfı tamamen kıymetli metallerden veya kıymetli metallerle kaplama metallerden ya da bu metallerin inci veya kıymetli taşlarla birleştirilmesiyle yapılmış saatleri kapsar. 91.01 pozisyonunun açıklama notu, kıymetli metalle kakmalı adi metal zarflı saatlerin 91.02 pozisyonunda olduğunu açıkça belirtir: zarfın esas metali adi metaldir; üzerine kıymetli metal kakılmış olması onu tamamen kıymetli metalden ya da kıymetli metalle kaplama metalden yapılmış zarf hâline getirmez. 71.13 ve 71.17 mücevherci eşyası ve taklit mücevherci eşyasının pozisyonlarıdır; fasıl notu saat zincirlerini bu pozisyonlara gönderir, saatin kendisini değil. 91.11 ise ayrı gelen saat zarflarını ve aksamını kapsar. En güçlü tuzak 91.01 pozisyonudur: zarfta kıymetli metal bulunduğu için oraya gideceği düşünülebilir, fakat 91.01 yalnız notta sayılan zarflara sahip saatleri alır ve kakmalı adi metal zarf bunlardan değildir. Bu nedenle doğru cevap '91.02' seçeneğidir. (MD GYK 1 ve 6; Fasıl 91 Notu; 91.01 Açıklama Notu)",
+        kanit=f"{K} | 91.01 Pozisyonu sadece tamamen kıymetli metallerden veya kıymetli metallerle kaplama metallerden || {K} | Bununla birlikte kıymetli metalle kakmalı adi metal zarflı saatlerde olduğu gibi, çelik kaplamaya sahip, kıymetli metallerle kaplanmış metal veya kıymetli metalden zarflı saatler 91.02 pozisyonundadır. || {K} | Saat zincirleri (duruma göre 71.13 veya 71.17 pozisyonları); || {K} | 91.11 - SAATLERİN ZARFLARI VE BUNLARIN AKSAM VE PARÇALARI.",
         yuva=[
             "Fasıl 91 Notu: saat zincirleri 71.13 (mücevherci eşyası)",
             "Fasıl 91 Notu: saat zincirleri 71.17 (taklit mücevherci eşyası)",
-            "Fasıl 91 Notu: 91.01 tamamen kıymetli metal zarflı saatler",
+            "Fasıl 91 Notu: 91.01 tamamen kıymetli metal ya da kıymetli metalle kaplama metal zarflı saatler",
             "91.11: ayrı gelen saat zarfları",
         ],
         yakinlik="BİREBİR",
