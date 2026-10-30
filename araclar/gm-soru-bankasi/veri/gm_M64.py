@@ -457,7 +457,7 @@ Q = [
         madde="Pil ve Akümülatörlerin İthalat Denetimi Tebliği (ÜGD: 2026/15) md. 7, 10",
         cek="Kalp pilleri ve hayati tıbbi aygıtlara yerleştirilmiş piller, Atık Pil ve Akümülatörlerin Kontrolü Yönetmeliği kapsamı dışında olduğundan kapsam dışı beyan edilir.",
         kok=[
-            "Pil ve Akümülatörlerin İthalat Denetimi Tebliği (ÜGD: 2026/15)'ne göre kalp pilleri ile hayati önemi haiz tıbbi aygıtlara yerleştirilmiş pillerin ithalatında nasıl işlem yapılır?"
+            "Pil ve Akümülatörlerin İthalat Denetimi Tebliği (ÜGD: 2026/15)'ne göre kalp pilleri ile hayati önemi haiz tıbbi aygıtlara yerleştirilmiş piller için Tebliğde özel olarak öngörülen işlem aşağıdakilerden hangisidir?"
         ],
         d="Atık Pil ve Akümülatörlerin Kontrolü Yönetmeliği kapsamı dışında olduklarından kapsam dışı olarak beyan edilirler.",
         c=[

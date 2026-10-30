@@ -1,0 +1,206 @@
+{
+ "H01-01": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "40.000 EXW + 1.500 yurt dışı iç taşıma + 3.000 navlun + 500 sigorta + 1.200 satış komisyonu (GK 27/1-a-i) = 46.200. Satın alma komisyonu (GK 28/e), Türkiye'deki tahliye (TR'ye geldikten sonra) ve tescil sonrası iç nakliye (GK 28/a) eklenmez.",
+  "sorun": []
+ },
+ "H01-02": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GK 46.200 + GV %10 = 4.620 + tescil öncesi KDV'ye tabi tutulmamış tahliye 400 (KDVK 21/c) = 51.220. Tescil sonrası iç nakliye ve satın alma komisyonu girmez.",
+  "sorun": []
+ },
+ "H01-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Teslim şekilleri tablosu: CFR navlun dahil (+), sigorta dahil değil (-); CIF/CIP ikisi dahil; FOB/FCA ikisi de dahil değil.",
+  "sorun": []
+ },
+ "H01-04": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "2.000 x 6 = 12.000 CFR + 300 sigorta + 2.000 marka lisansı (GK 27/1-c, satış koşulu; GY 56/3-b) = 14.300. Satış koşulu olmayan dağıtım hakkı (GK 27/5-b) ve alıcının kendi hesabına reklamı (GK 28 son paragraf) eklenmez.",
+  "sorun": []
+ },
+ "H01-05": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "25 x 800 = 20.000 + 25 x 40 = 1.000 navlun + 150 sigorta = 21.150 USD x 32,00 (GK 30 döviz satış kuru) = 676.800 TL. Varış limanındaki tahliye ('TR’ye geldikten sonraki işlemdir') ve ardiye ('Kıymete Dahil Edilmez') eklenmez.",
+  "sorun": [
+   "Not (kusur değil, risk): Türkiye'deki giriş limanında boşaltma/tahliye giderinin kıymete girmediği H01 kaynağında yalnız sunum slaytındaki 'Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir' ifadesine dayanıyor; GK 27/1-e'deki 'yükleme ve elleçleme giderleri' ifadesiyle karışabilir. Kaynağa göre cevap tek."
+  ]
+ },
+ "H01-06": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GY 51(9): FOB'un %10'u navlun = 3.000, %3'ü sigorta = 900; aracılık komisyonu 600 eklenir (GK 27/1-a-i) -> 34.500 USD x 34,20 (döviz satış, GK 30) = 1.179.900 TL.",
+  "sorun": []
+ },
+ "H01-07": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "I: GY 51(3) 'aynı taşıma türünde normal olarak uygulanan fiyat tarifesine göre tespit edilir'; II: GY 51(5) kapların genel kabul görmüş muhasebe prensipleriyle paylaştırılması; IV: GY 51(2) 'araştırma ve ilk dizayn taslak giderleri gümrük kıymetine dahil edilmez'. III yanlış: 71.08'de 'işlemler eşyanın faturasında belirtilen teslim şekli esas alınarak tekemmül ettirilir'.",
+  "sorun": [
+   "I ve II önermelerinin dayanağı (GY 51/3 ve 51/5) H01 kaynak metninde yok; 10-gumruk-kiymeti.txt'de var."
+  ]
+ },
+ "H01-08": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "60.000 - 1.000 ihraç ülkesi dahili vergisi (GY 45, tevsik edilmiş düzeltme) = 59.000 + 4.000 navlun + 600 sigorta + 700 varış öncesi demuraj (Genelge 2009/32, GK 27/1-e) = 64.300. Varış sonrası demuraj 900 GK'ya girmez.",
+  "sorun": []
+ },
+ "H01-09": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GK 64.300 + GV %8 = 5.144 + varış sonrası demuraj 900 (Genelge 2009/32: 'her durumda KDV matrahına dahil') = 70.344.",
+  "sorun": []
+ },
+ "H01-10": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "50.000 - 2.000 miktar iskontosu (şartları taşıyor) = 48.000; kişisel ilişkiden doğan özel iskonto 'kıymetten indirilmez' (fatura bedeline geri eklenir); şartları taşıyan finansman faizi GK 28/c ile girmez; tek eşya muamelesi gören kaplar 300 eklenir (GK 27/1-a-ii) -> 48.300.",
+  "sorun": []
+ },
+ "H01-11": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "70.000 + 2.500 + 300 = 72.800; anlaşmadaki faiz oranı (%9) cari oranı (%6) aştığından GK 28/c şartı sağlanmıyor, faiz 2.100 eklenir (kaynak: '% 7 dese eklenmeliydi'); ambalaj işçilik-malzeme 900 eklenir (GK 27/1-a-iii); alıcının kendi hesabına pazar araştırması eklenmez -> 75.800.",
+  "sorun": []
+ },
+ "H01-12": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Kaynak (İskontolar): '\"Peşin ödeme iskontosu\" ise mal bedelinin peşin ödenmesi nedeniyle alıcıya tanınan bir fiyat indirimidir. O sevkiyatla ilgili olmalıdır.'",
+  "sorun": []
+ },
+ "H01-13": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "20.000 CIF + 3.500 satıcıya intikal eden hasıla (GK 27/1-d) + 1.000 satıcının yükümlülüğünü karşılamak üzere üçüncü kişiye ödeme (GK 24/1-a fiilen ödenen fiyat) = 24.500. İthal eşyasıyla ilgisiz temettü ve alıcının kendi hesabına reklamı girmez.",
+  "sorun": []
+ },
+ "H01-14": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "I: GK 27/2 'nesnel ve ölçülebilir veriler esas alınır'; II: 'Alıcı tarafından satın alma veya finansal kiralama yoluyla sağlanan unsurlarda, ilave konusu olan, satın alma veya finansal kiralama bedelidir.' III yanlış: 'kopyalarını çıkarma giderleri dışında bir ilave yapılmaz' (kopya gideri eklenir); IV yanlış: GK 27/3 'bu maddede öngörülenler dışında hiçbir ilave yapılamaz'.",
+  "sorun": [
+   "Kök '4458 sayılı Gümrük Kanunu'na göre' diyor; II ve III önermelerinin dayanağı H01 kaynağında 'EK-8' işaretiyle verilen açıklayıcı not (Gümrük Yönetmeliği eki) olup 10-gumruk-kiymeti.txt'deki GK 27 metninde yer almıyor. Dayanağın türü kökte tam doğru gösterilmemiş olabilir (ör. 'Gümrük mevzuatına göre' veya 'Gümrük Kanunu ve Yönetmeliğine göre')."
+  ]
+ },
+ "H01-15": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "80.000 + 3.500 + 500 = 84.000 + kalıp 6.000 (GK 27/1-b-ii, satın alma bedeli) + tüketilen madde 1.000 (27/1-b-iii) + İtalya'daki mühendislik/çizim 1.500 (27/1-b-iv, Türkiye dışında) = 92.500. Türkiye'de hazırlanan plan (Türkiye dışında değil) ve Türkiye'deki liman hizmeti eklenmez.",
+  "sorun": []
+ },
+ "H01-16": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "KDV matrahı = 92.500 + GV %5 = 4.625 + tescil öncesi KDV'ye tabi tutulmamış liman hizmeti 1.200 = 98.325; KDV %20 = 19.665.",
+  "sorun": []
+ },
+ "H01-17": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "45.000 + 3.000 patent ücreti (satıcının talebiyle üçüncü kişiye, satış koşulu, eşyanın üretimine ilişkin; GY 56/1, 56/4, 56/6) + 1.800 marka lisansı (GY 56/3-b) = 49.800. Türkiye'de çoğaltma hakkı (GK 28/d) ve eşyayla ilgisiz ticari isim lisansı eklenmez.",
+  "sorun": []
+ },
+ "H01-18": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GY 56(5): 'bir royalti veya lisans ücretinin miktarı ithal edilen eşyanın fiyatına bakılmaksızın belirleniyor ise, bu royalti veya lisans ücreti ödenmesinin de kıymeti belirlenecek eşya ile ilgili olduğu kabul edilebilir.' A: 56(1); B: 56(2); C: 56(3-a); D: 56(3-c).",
+  "sorun": []
+ },
+ "H01-19": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "120.000 - 4.000 ithalat sonrası montaj (GK 28/b, ayrı gösterilmiş) = 116.000 + satış koşulu olan, teslimattan önce yurt dışında verilen eğitim 2.500 (kaynak: 'Eğitim zorunlu ise ;GK ekle') = 118.500. Ayrı sözleşmeli bakım (GK 28/b) ve tescil sonrası nakliye (GK 28/a) eklenmez.",
+  "sorun": []
+ },
+ "H01-20": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GK 27/1-a-iii: 'İşçilik ve malzeme giderleri dahil ambalaj bedeli' eklenir. B, C, D, E GK 28/a, c, e, f ile kıymete dahil edilmez.",
+  "sorun": []
+ },
+ "H01-21": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Kaynak (Ardiye): antrepodaki muhafaza masrafı fiyattan ayrı gösterilmişse eklenmez, tek satırsa kıymete girer: 30.000 + 20.400 = 50.400. Tahmil-tahliye 'TR’ye geldikten sonraki işlemdir', GK'ya girmez.",
+  "sorun": []
+ },
+ "H01-22": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GY 54: GK yalnız taşıyıcı ortam = 50 x 30 = 1.500 TL; GV %5 = 75 TL; KDV matrahı = 1.500 + 75 + yazılım 4.000 x 30 = 120.000 -> 121.575; KDV %20 = 24.315 TL (kaynaktaki örnekle aynı yöntem).",
+  "sorun": []
+ },
+ "H01-23": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Kaynak (GY 45): 'kıymetin belirlendiği sırada eşya bedelinin fiilen ödenmemiş olması halinde, ödemenin gerçekleşeceği tarihte ödenecek olan bedel kıymet tespitine esas alınır.'",
+  "sorun": []
+ },
+ "H01-24": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Klasik kıymet: 400 x 20 = 8.000 + 1.200 + 100 = 9.300; gözetim: 400 x 5 kg = 2.000 kg x 5 = 10.000. 'Gümrük Kıymeti < Gözetim Tutarından küçük olursa, Gözetim tutarı gümrük kıymeti olarak kabul edilir' -> 10.000.",
+  "sorun": []
+ },
+ "H01-25": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GV = 10.000 x %10 = 1.000; KDV = (10.000 + 1.000) x %20 = 2.200; toplam 3.200.",
+  "sorun": []
+ },
+ "H01-26": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Anlaşma Md.18/1: Gümrük Kıymeti Komitesi 'normal olarak yılda bir kez ... toplanır'; 'GATT Sekreteryası, Komitenin sekreterya hizmetlerini yerine getirir.'",
+  "sorun": []
+ },
+ "H01-27": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "300.000 + 18.000 + 2.000 + 6.000 tellaliye (GK 27/1-a-i) = 326.000. Ardiye, müşavirlik ücreti ve tescil sonrası iç nakliye kıymete girmez.",
+  "sorun": []
+ },
+ "H01-28": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "KDV matrahı = 326.000 + GV %6 = 19.560 + tescil öncesi KDV'ye tabi tutulmamış ardiye 4.000 (KDVK 21/c; kaynak 'KDV hesaplarken T.Ö. Ekle') = 349.560. KDV'li faturayla ödenen müşavirlik ve tescil sonrası nakliye girmez.",
+  "sorun": []
+ },
+ "H01-29": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GY 51(4): 'İthal ülkesinde alınan ilave posta ve kargo ücretleri hariç olmak üzere, eşyanın teslim yerine kadar alınan tüm posta ve kargo ücretleri gümrük kıymetine dahildir' -> 1.200 + 150 + 20 = 1.370.",
+  "sorun": [
+   "Soruda kusur yok; ancak H01 kaynak metninin 508. satırı ('GY.51.İthal ülkesinde alınan posta ve kargo ücretleri ... ilave edilir') 476. satırla ve GY 51(4) ile çelişiyor (kaynak metin yazım/aktarma hatası)."
+  ]
+ },
+ "H01-30": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GY 54(1): 'sadece taşıyıcı ortamın kendisinin maliyeti veya kıymeti esas alınır ... taşıyıcı ortamın maliyet veya kıymetinden ayırt edilebilmesi koşuluyla'; 54(2): taşıyıcı ortam entegre devreleri, veri/komut ses-sinematografik-video kayıtlarını kapsamaz.",
+  "sorun": [
+   "A–E ayrımı için gereken 'ayırt edilebilme koşulu' ve GY 54(2) istisnaları H01 kaynak metninde yok (yalnız özet slayt var); 10-gumruk-kiymeti.txt'de var."
+  ]
+ },
+ "H01-31": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "15.000 FCA + 600 ihraç limanına kara taşıması + 250 yükleme-elleçleme + 1.400 navlun + 150 sigorta = 17.400 Avro x 35 = 609.000 TL; GV %4 = 24.360 TL. Türkiye'deki boşaltma ve tescil sonrası nakliye GK'ya girmez.",
+  "sorun": [
+   "Not (kusur değil, risk): Türkiye'deki giriş limanında boşaltma/tahliye giderinin kıymete girmediği H01 kaynağında yalnız sunum slaytındaki 'Tahmil tahliye ücreti TR’ye geldikten sonraki işlemdir' ifadesine dayanıyor; GK 27/1-e'deki 'yükleme ve elleçleme giderleri' ifadesiyle karışabilir. Kaynağa göre cevap tek."
+  ]
+ },
+ "H01-32": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "KDV matrahı = 609.000 + 24.360 + tescil öncesi KDV'ye tabi tutulmamış boşaltma 350 x 35 = 12.250 -> 645.610; KDV %20 = 129.122 TL. KDV'li faturayla ödenen tescil sonrası nakliye girmez.",
+  "sorun": []
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "H04-01": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GK 234/1-a: fark 20.000/160.000 = %12,5 > %5 → farkın üç katı 60.000",
+  "sorun": []
+ },
+ "H04-02": {
+  "cevap": "B",
+  "emin": "orta",
+  "dayanak": "42 no.lu metin, GK 234/2 (7190 s.k. ile değişik): DİR, GKAİR ve tam muafiyetli geçici ithalatta 'vergi farkının yarısı tutarında idari para cezası' → 40.000/2 = 20.000",
+  "sorun": [
+   "H04 kaynak metnindeki (K4) çözümlü örnekler eski düzenlemeye göre üç katı cezayı ikiye bölüyor (60.000/2 = 30.000 örneği); bu yolla 120.000/2 = 60.000 (D) bulunur. Kanunun güncel metni 'vergi farkının yarısı' dediği için B doğru, ancak kaynak içi çelişki nedeniyle D de savunulabilir. Kaynak örneği düzeltilmeli ya da gerekçede güncel md.234/2 metni açıkça alıntılanmalı."
+  ]
+ },
+ "H04-03": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Noksan kıymet 40.000: GV 4.000 + EMY 800 + KDV (40.000+4.000+800)×%20 = 8.960 → 13.760",
+  "sorun": []
+ },
+ "H04-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GK 234/1-b: üç katı 41.280; GK 234/3 kendiliğinden bildirim %10 → 4.128",
+  "sorun": []
+ },
+ "H04-05": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "K3 (22.09.2014 yazı): son 6 ay içinde diğer bölge müdürlükleri dahil aynı konuda tespit varsa 234/3 uygulanmaz → 24.000×3 = 72.000",
+  "sorun": []
+ },
+ "H04-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GK 234/1-c: satış birimine göre miktar farkı 300/10.000 = %3 ≤ %5 → farkın yarısı 3.000",
+  "sorun": []
+ },
+ "H04-07": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "GK 235/1-c: lisans/izin belgesi alınmış gibi beyan → gümrüklenmiş değerin İKİ katı; B (234/1-a), C (234/2 güncel), D (235/1-a), E (237/3) doğru",
+  "sorun": [
+   "C şıkkının doğruluğu GK 234/2'nin güncel metnine ('vergi farkının yarısı') dayanıyor; H04 kaynağındaki eski usul örnekler (üç katın yarısı) esas alınırsa C de yanlış görünür. H04-02 ile aynı kaynak çelişkisi."
+  ]
+ },
+ "H04-08": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GK 235/1-a: gümrüklenmiş değer = CIF + gümrük vergileri = 350.000; ×4 = 1.400.000",
+  "sorun": []
+ },
+ "H04-09": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GK 237/1: noksan kaplara ait eşyanın tarife pozisyonuna göre hesaplanacak gümrük vergileri kadar: GV 64.000 + KDV (800.000+64.000)×%20 = 172.800 → 236.800",
+  "sorun": []
+ },
+ "H04-10": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Uzlaşma Yön. md.6/1: matrahına giren ancak aslı gümrük idaresince takip edilmeyen mali yükler konu edilemez; md.6/4 ve GK 244/2: kaçakçılıkla ilişkili alacaklar hariç; 15 günlük süre içinde 60.000+180.000 = 240.000",
+  "sorun": []
+ },
+ "H04-11": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Uzlaşma Yön. md.9: kalem bazında vergi + vergiye bağlı ceza = 6.400.000; fer'i alacak (faiz) dikkate alınmaz, usulsüzlük cezası ayrı; 7.000.000 TL'ye kadar Bölge Müdürlüğü Uzlaşma Komisyonu",
+  "sorun": []
+ },
+ "H04-12": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GK 244/6: uzlaşılan cezada Kabahatler K. 17/6 peşin ödeme indirimi yok → 60.000; 2. karar %25 indirim → 30.000; toplam 90.000",
+  "sorun": []
+ },
+ "H04-13": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GK 244/5: 'Uzlaşılan vergilere ilişkin gümrük yükümlülüğünün başladığı tarihten uzlaşma tutanağının imzalandığı tarihe kadar geçen süre için ... gecikme zammı oranında' faiz",
+  "sorun": []
+ },
+ "H04-14": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "40 no.lu metin, Tahsilat Tebliği md.15/5: gümrük idaresince verilen idari para cezalarına gecikme zammı uygulanmaz; md.15/4: ay kesirleri günlük esasa göre → 50.000×%4×3 + 50.000×(%4/30)×12 = 6.000+800 = 6.800",
+  "sorun": [
+   "H04 kaynağında (K2) yalnız aylık formül var; cezaya gecikme zammı uygulanmayacağı ve ay kesrinin gün hesabıyla hesaplanacağı bilgisi 40 no.lu metinde. Gerekçede bu dayanak anılmalı."
+  ]
+ },
+ "H04-15": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "41 no.lu metin, GK 207/1-b ve 2: şartlı muafiyette gecikme zammı beyannamenin tescilinden itibaren, indirimli teminatta 'teminatın nakit verilen kısmı dışında kalan kısım ile teminat verilmeyen kısmın tümü' için → 90.000×%3×5 = 13.500",
+  "sorun": [
+   "Dayanak H04 kaynak metninde yok; 41 no.lu metinde (GK 207)."
+  ]
+ },
+ "H04-16": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GY 527/2: 900 m² → 3 mn; 3.200 m² → 3+3 = 6 mn; 15.000 m³ → 3+7 = 10 mn; 7.400 m² → 3+7 = 10 mn; toplam 29 mn; antrepo sayısı 5'ten az olduğundan %75 indirimi yok",
+  "sorun": []
+ }
+}

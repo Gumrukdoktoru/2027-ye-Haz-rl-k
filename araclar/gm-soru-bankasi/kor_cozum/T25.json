@@ -1,0 +1,62 @@
+{
+ "T25-01": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Seri 13 Md.1–2: amaç 'Avrupa Birliği sınıflandırma kararlarını duyurmak'; kapsam 'Bazı Malların Sınıflandırılmasına İlişkin Komisyon Tüzükleri'. Gümrük Müsteşarlığı kararları Seri 8 ve Seri 12'dedir; Seri 4 ve 9 DGÖ AS Komitesi (Seri 9'da INN listeleri de), Seri 15 Komisyon Tüzükleri.",
+  "sorun": []
+ },
+ "T25-02": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "23.03.2020 tarihli yazı: 'AB BTB'leri ülkemiz mevzuatında yardımcı bir referans kaynak olarak kullanılmakta olup resmi bir bağlayıcılığı bulunmamaktadır'; salt AB BTB'ye dayanan sınıflandırma 'sağlıklı' değildir; veritabanında 90.18'den düzenlenmiş farklı BTB'ler de vardır; Genelge hükmü esas alınmıştır.",
+  "sorun": []
+ },
+ "T25-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Seri 15 Md.3(ç): 'Kombine Nomanklatür (KN) Kodu: Türk Gümrük Tarife Cetvelindeki pozisyonların ilk 8 rakamını ifade eden ve Avrupa Birliği tarafından yayımlanan kodları' — ilk altı rakam değil. B, C, D, E Md.1–3 ile birebir uyumlu.",
+  "sorun": []
+ },
+ "T25-04": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Seri 4 Md.4: uymayan BTB'ler 'bu Tebliğin yayımı tarihinde geçerliliğini yitirir' (I doğru); Seri 9 Md.5: 'bu Tebliğin yürürlüğe girdiği tarihten itibaren geçerliliğini yitirir' (II doğru); Seri 8 Md.4: 'bu Tebliğin yayımı tarihinde geçerliliğini yitirir' (III yanlış); Seri 15 Md.4(2): 'aynı düzeydeki daha önce yayımlanmış sınıflandırma kararları söz konusu olduğunda bu Tebliğ hükümleri uygulanır' (IV doğru).",
+  "sorun": []
+ },
+ "T25-05": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "2025/09 Genelge: 8701.91.10 açıklama notlarındaki 'genellikle' ifadesi geçen 'Bu çeşit taşıtlar genellikle saatte 45 km maksimum hıza sahiptir.' ve hidrolik tertibat/kuyruk mili hükümleri 'zorunlu olmayan ihtiyari kriterler'. Fren, otomatik debriyaj-geri vites, şaftla güç iletimi, derin sırtlı lastik 8 zorunlu kriter arasında.",
+  "sorun": []
+ },
+ "T25-06": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "2021/7 Genelge md.4: 'Beyanname ekinde sunulan tahlil raporlarının GTİP tespiti için yetersiz kalması halinde; laboratuvar müdürlüklerince gerekli ilave tahlillerin yapılarak tarife tespitinin yapılması' — iade değil. A md.1, B md.2, C giriş paragrafı, E md.5 ile uyumlu.",
+  "sorun": []
+ },
+ "T25-07": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "2021/30 Genelge eki: 'Levha şeklinde, gümrüğe sunulduğu haliyle herhangi bir aydınlatma cihazına ait olduğu anlaşılamayan difüzörler ... | 90.01'; aydınlatma cihazına ait olduğu anlaşılanlar 94.05'te aksam.",
+  "sorun": []
+ },
+ "T25-08": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "2024/07 Genelge: bikomponent iplikler 'tekstüre işlemlerinden geçmemiş, ... kendiliğinden streç bir yapıya sahip olan ürünlerdir'; 'tekstüre işlemlerinden geçmemiş bikomponent ipliklerin ... tekstüre iplik olarak sınıflandırılmaması gerekmektedir'; tekstüre sayılmak için 'mekanik veya fiziksel işlemler sonucunda değiştirilmiş olması' gerekir.",
+  "sorun": []
+ },
+ "T25-09": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "2011/21 Genelge: 'Üzerinde program yüklü olsa da başka bir cihazın aksamı olan baskılı devre kartları 85.23 pozisyonunda taşıyıcı bir mesnet olarak değerlendirilmemelidir.' A, B, D (manyetik bantlı banka kartı 8523.21) ve E Genelgeyle uyumlu.",
+  "sorun": []
+ },
+ "T25-10": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "2011/4 Genelge: kabartma/kavurma usulüyle mısırdan elde edilen gevrek gıda ürünleri 19.04 (I); kızartılıp aromalandırılan çerezlik mısır taneleri 'tatlı mısırdan elde edilmesi halinde 2005.80.00.00.00' (II), 'diğer mısırlardan elde edilmesi durumunda ise 2008.99.85.00.00' (III yanlış, 20.08); AS'de tatlı mısır ile diğer mısırlar arasında 'bir ayrım yapıldığına' işaret edilmiş (IV yanlış).",
+  "sorun": []
+ }
+}

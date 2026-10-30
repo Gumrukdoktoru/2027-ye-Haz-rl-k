@@ -1,0 +1,166 @@
+{
+ "H03-01": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Litre = 1.200×50 cl /100 = 600 L; AMV = 5×600×3 = 9.000; nispi 30.000×%25 = 7.500; büyük olan 9.000 (K1/K4 bira formülü)",
+  "sorun": []
+ },
+ "H03-02": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Litre = 800×75/100 = 600; AMV = 600×12 = 7.200; nispi 60.000×%18 = 10.800; büyük olan 10.800 (şarap AMV = litre × AMV)",
+  "sorun": []
+ },
+ "H03-03": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Nispi = 2.000×100×%60 = 120.000; AMV = 40.000 dal×3,50 = 140.000; büyük 140.000 + maktu 2.000 paket×2 = 4.000 → 144.000",
+  "sorun": []
+ },
+ "H03-04": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Litre 600×70/100 = 420; saf alkol 420×0,40 = 168; AMV 168×800 = 134.400 > nispi 120.000",
+  "sorun": []
+ },
+ "H03-05": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Nispi 120.000×%60 = 72.000 > AMV 25.000×2,50 = 62.500; maktu 20'li ambalaj esas, oranlanır: 25.000/20 = 1.250×4 = 5.000 (ÖTV K. md.11/2-b 'farklı adet halinde oranlanarak'); toplam 77.000",
+  "sorun": []
+ },
+ "H03-06": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Nispi 60.000×%40 = 24.000 < AMV 80.000×0,40 = 32.000; maktu 80.000/50 = 1.600×1,50 = 2.400; toplam 34.400",
+  "sorun": []
+ },
+ "H03-07": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Nispi 400.000×%30 = 120.000 > AMV 50.000 g×2 = 100.000; maktu 50.000/50 = 1.000×6 = 6.000; toplam 126.000",
+  "sorun": []
+ },
+ "H03-08": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "ÖTV K. md.11/2-b: maktu vergi '20 ADET SİGARADAN, 50 ADET MAKARONDAN, 50 GRAM TÜTÜNDEN oluşan birim ambalaj'; sigara 50 adet yanlış",
+  "sorun": []
+ },
+ "H03-09": {
+  "cevap": "C",
+  "emin": "orta",
+  "dayanak": "62: '(I) sayılı listedeki mallarda ... ithalat aşamasında ÖTV ÖDENMEZ, teminata bağlanır'; 61, KDV K. md.21(ç): teminata esas ÖTV KDV matrahına girer → GV 8.000 + KDV (200.000+8.000+30.000)×%20 = 47.600 = 55.600",
+  "sorun": [
+   "Dayanak H03 kaynak metninde yok; 61 (KDV K. md.21/ç, 24.07.2025 eki) ve 62 no.lu metinlerden çıkarılıyor. Bu ek bilinmezse KDV matrahına ÖTV katılmaz ve 49.600 (B) bulunur; gerekçede md.21/ç açıkça anılmalı."
+  ]
+ },
+ "H03-10": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GVM = 20.000 + 4.000×0,50 = 22.000 Avro; nispi %4,5 = 990 → adet başına 0,2475 < min 0,30 → 4.000×0,30 = 1.200 (K2/K6 saat hesabı)",
+  "sorun": []
+ },
+ "H03-11": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Ardiye GVM'ye girmez; nispi 1.000.000×%4,5 = 45.000 TL = 1.125 Avro → adet başı 0,5625 Avro; 0,30–0,80 arasında → 45.000 TL",
+  "sorun": []
+ },
+ "H03-12": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "K2/K4: 24 ayar 1000 milyem (I doğru); 18 ayar 750 milyem (II yanlış); gümüşte 925 milyem standart (III doğru); 'Vergi Matrahı = Mal bedeli − Has kıymet' (IV doğru)",
+  "sorun": []
+ },
+ "H03-13": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Has altın = 400 g net × 0,75 = 300 g; has kıymet 300×80 = 24.000; matrah 36.000−24.000 = 12.000",
+  "sorun": []
+ },
+ "H03-14": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Has gümüş = 2.000×0,925 = 1.850 g; kıymet 1.850×1,20 = 2.220; matrah 5.000−2.220 = 2.780",
+  "sorun": []
+ },
+ "H03-15": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "K5: 'TARIM PAYI = EMY olarak değerlendirildiği için eşyanın CIF kıymetinin hesaplamasına katılmaz'; bileşim tablosu, net 100 kg, AB için T2, diğerleri T1 doğru",
+  "sorun": []
+ },
+ "H03-16": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Almanya AB → T2: 2.400/100 = 24 × 73,30 = 1.759,20 (net ağırlık esas)",
+  "sorun": []
+ },
+ "H03-17": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "K5: 'D.F.İ.F. prim kesintisi kapsamındaki bir maldan FOB 1.000 Dolar değerini geçmeyen numunenin bedelsiz ihracatında prim kesintisi yapılmaz'; A ve B'de yalnız indirim, C ve D'de kesinti var",
+  "sorun": []
+ },
+ "H03-18": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Kabuklu 4 Cent − Amerika indirimi 2 Cent = 2 Cent/kg (25 kg çuval, 1.000 g ambalaj indirimi yok); 20.000×0,02×40 = 16.000",
+  "sorun": []
+ },
+ "H03-19": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "K5: '4105.10 ve 4106.21 kromlu deriler FOB ihraç bedelinin %20'si'; 50.000×0,20×40 = 400.000 (navlun/sigorta dahil edilmez)",
+  "sorun": []
+ },
+ "H03-20": {
+  "cevap": "B",
+  "emin": "orta",
+  "dayanak": "25 no.lu metin, DİR Tebliğ md.33/7: TEV 'ihracata ilişkin gümrük beyannamesinin tescil tarihindeki TCMB döviz satış kuru ve bu tarihte ithalat rejiminde belirtilen gümrük vergisi' üzerinden; kullanılan 1.200 adet → CIF 12.000 USD × 35,00 × %6 = 25.200",
+  "sorun": [
+   "H03 kaynağındaki çözümlü TEV örneği ithalattaki GV oranını (%10) kullanıyor (o örnekte başka oran verilmemiş). Yalnız H03 kaynağıyla çalışan ithalat oranını (%8) alıp 33.600 (C) bulabilir; gerekçede Tebliğ md.33/7 ihracat tarihindeki oran kuralı açıkça anılmalı."
+  ]
+ },
+ "H03-21": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GK 133/1: her ay için %3, 'bir aydan daha az süreler tam ay olarak değerlendirilir' → 8 ay × %3 × 200.000 = 48.000 (200.000'i aşmıyor)",
+  "sorun": []
+ },
+ "H03-22": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "GY 386 / GK 134/2: serbest dolaşıma girişte 133. madde uyarınca ödenen tutar düşülür: 200.000 − 48.000 = 152.000",
+  "sorun": []
+ },
+ "H03-23": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "GK 133/1: aylık %3, 'geçici ithalat rejimine ilişkin beyannamenin tescil tarihinde' serbest dolaşıma girmiş olsaydı alınacak vergiler üzerinden; rejimden çıkış tarihindeki oranlar yanlış. A (GK 134/2), B, C (GK 133/2), D (GY 385/2) doğru",
+  "sorun": []
+ },
+ "H03-24": {
+  "cevap": "C",
+  "emin": "orta",
+  "dayanak": "K3: model ve fatura yılı aynı → ilk yıl %20, diğer yıllar %10 (0-1 yaş indirim yok); 2024 %20 + 2025 %10 + 2026 %10 = %40 → 30.000×0,60 = 18.000",
+  "sorun": [
+   "K3 kaynak tablosu bozuk metin (sütunlar karışık); amortisman kuralı örneklerden yorumla çıkarılıyor."
+  ]
+ },
+ "H03-25": {
+  "cevap": "B",
+  "emin": "orta",
+  "dayanak": "K3: model ve fatura yılı farkı 1 yıldan fazla → 'Fatura yılından sonra amortisman yap, her yıl için %10'; 2024+2025+2026 = %30",
+  "sorun": [
+   "K3 kaynak tablosu bozuk metin; kural örneklerden yorumla çıkarılıyor."
+  ]
+ },
+ "H03-26": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "K3: 'Araç Ticareti Yapanlar (Satmak için getiren) – Amortisman Yok'; kullanmak için getirenler ve GK 167 kapsamı kullanılmış araçta amortisman var",
+  "sorun": []
+ }
+}

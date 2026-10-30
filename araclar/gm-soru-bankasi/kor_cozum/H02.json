@@ -1,110 +1,114 @@
 {
-"H02-01": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "GVM = 20.000 + 2.000 + 500 + 1.500 = 24.000; GV = 24.000 × %10 = 2.400 ('Gümrük Vergisi Matrahı : CIF Kıymeti + Yurtdışı Giderleri').",
-"sorun": []
-},
-"H02-02": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "Nispi 40.000 × %15 = 6.000 > MAX 500 × 8 = 4.000 → 4.000 ('Nispi>Max→Max').",
-"sorun": []
-},
-"H02-03": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "1. kalem nispi 500 > max 300 → 300; 2. kalem nispi 100 < min 400 → 400; toplam 700.",
-"sorun": []
-},
-"H02-04": {
-"cevap": "E",
-"emin": "yüksek",
-"dayanak": "'Gv matrahı aynı zamanda İGV-EMY-Antidamping-Kültür-Fonu ve ÇKP ... matrahıdır'; KDV matrahı = CİF + Y.DIŞI + VERGİLER + Y.İÇİ.",
-"sorun": []
-},
-"H02-05": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "GVM 42.000; 2.520 + 8.400 + 420 = 11.340.",
-"sorun": []
-},
-"H02-06": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "'Hurdalar: CIF bedelinin ‰5' → 200.000 × 0,005 = 1.000.",
-"sorun": []
-},
-"H02-07": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "Kültür fonu matrahı GVM = 30.000 + 2.000 = 32.000; × %2 = 640.",
-"sorun": []
-},
-"H02-08": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "'CIF Değer + Gümrük Vergileri'; damga vergisi ve kültür fonu gümrük vergisi tanımına girmez: 60.000 + 6.000 + 3.000 = 69.000.",
-"sorun": []
-},
-"H02-09": {
-"cevap": "A",
-"emin": "yüksek",
-"dayanak": "'1 · GÜMRÜK VERGİSİ → 2 · TRT BANDROL → 3 · ÖTV → 4 · KDV (EN SON)'.",
-"sorun": []
-},
-"H02-10": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "ÖTVK 11/3: ÖTV hariç KDV matrahı = 100.000 + 10.000 + 2.000 = 112.000; × %30 = 33.600.",
-"sorun": []
-},
-"H02-11": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "KDV matrahı = 112.000 + 33.600 = 145.600; × %20 = 29.120 (KDVK 21).",
-"sorun": []
-},
-"H02-12": {
-"cevap": "C",
-"emin": "yüksek",
-"dayanak": "Bandrol matrahı = GVM + diğer vergiler (ÖTV hariç) + yurt içi = 20.000 + 1.000 + 2.000 + 500 = 23.500; × %8 = 1.880.",
-"sorun": []
-},
-"H02-13": {
-"cevap": "E",
-"emin": "yüksek",
-"dayanak": "ÖTVK 11/4: '(III) sayılı listenin (B) CETVELİNDEKİ mallar için ... NİHAİ TÜKETİCİLERE PERAKENDE SATIŞ FİYATIDIR'.",
-"sorun": []
-},
-"H02-14": {
-"cevap": "D",
-"emin": "yüksek",
-"dayanak": "GVM 52.000; GV 4.160; İGV 5.200; KDV matrahı 62.360; × %20 = 12.472.",
-"sorun": []
-},
-"H02-15": {
-"cevap": "E",
-"emin": "yüksek",
-"dayanak": "KDVK 21-c: 'tescil tarihine kadar yapılan diğer giderler'; tescil sonrası giderler sayılmamış; diğer dördü 21-a, b, c, ç.",
-"sorun": []
-},
-"H02-16": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "KKDF %6 × fatura bedeli × döviz alış kuru: 80.000 × 32,00 × 0,06 = 153.600.",
-"sorun": []
-},
-"H02-17": {
-"cevap": "A",
-"emin": "yüksek",
-"dayanak": "Özet tablo: 'TRT Bandrol Ücreti — TRT'; GV ve EMY Ticaret, ÖTV Hazine ve Maliye, ÇKP Çevre ve Şehircilik.",
-"sorun": []
-},
-"H02-18": {
-"cevap": "B",
-"emin": "yüksek",
-"dayanak": "DİİB kapsamında %0; yalnız 2. ithalat: 25.000 × 30 × 0,06 = 45.000.",
-"sorun": []
-}
+ "H02-01": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GVM = CIF + yurt dışı gider = 20.000+2.000+500+1.500 = 24.000; Türkiye'deki iç nakliye hariç; GV %10 = 2.400 (K1/K2: 'Gümrük Kıymeti = CIF + Y.dışı gider')",
+  "sorun": []
+ },
+ "H02-02": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Nispi 40.000×%15 = 6.000; min 500×2 = 1.000; max 500×8 = 4.000; nispi > max → 4.000 (K1 min-max kuralı)",
+  "sorun": []
+ },
+ "H02-03": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Kalem bazında: 1. kalem nispi 500 > max 300 → 300; 2. kalem nispi 100 < min 400 → 400; toplam 700 (H03 K6'daki iki kalemli saat örneği de kalem bazlı)",
+  "sorun": [
+   "H02 kaynağında min-maks karşılaştırmasının kalem bazında yapılacağı açıkça yazmıyor; iki kalem toplanarak karşılaştırılırsa 600 (C) çıkar. Kalem bazlı yaklaşım yalnız H03 kaynağındaki örnekte var; kökte 'her kalem için ayrı karşılaştırılır' ifadesi eklenebilir."
+  ]
+ },
+ "H02-04": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "K2: 'Gv matrahı, aynı zamanda İGV-EMY-Antidamping-Kültür-Fonu ve ÇKP gibi diğer vergilerinde matrahıdır'; KDV matrahı CIF + vergiler + yurt içi giderdir",
+  "sorun": []
+ },
+ "H02-05": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "GVM = 40.000+2.000 = 42.000 (Türkiye'deki gider hariç); %6+%20+%1 = %27 → 11.340",
+  "sorun": []
+ },
+ "H02-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "K1: 'Hurdalar: CIF bedelinin ‰5' → 200.000×0,005 = 1.000; GV oranı ÇKP'yi etkilemez",
+  "sorun": []
+ },
+ "H02-07": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Kültür fonu matrahı = GVM = 27.000+2.500+500+2.000 = 32.000; ×%2 = 640; yurt içi gider ve GV matraha girmez",
+  "sorun": []
+ },
+ "H02-08": {
+  "cevap": "B",
+  "emin": "orta",
+  "dayanak": "K2/K3: 'GÜMRÜKLENMİŞ DEĞER (İthal) = CIF Değer + Gümrük Vergileri'; 'Damga Vergisi – Kültür Fonu – Ticari Bandrol – DFİF Gümrük Vergisi tanımına girmez' → 60.000+6.000+3.000 = 69.000",
+  "sorun": [
+   "Aynı kaynaktaki tanım cümlesi gümrüklenmiş değeri 'gümrük kıymetine, gümrüklerce alınan vergi, resim ve fonların eklenmesiyle bulunacak değer' diye veriyor; bu cümleye göre kültür fonu (fon) ve damga vergisi de eklenip 70.650 (E) savunulabilir. Kaynak içi gerilim; gerekçede 'gümrük vergisi tanımına girmez' notuna açıkça dayanılmalı."
+  ]
+ },
+ "H02-09": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "K1: 'Sıra: G.V → Bandrol → ÖTV → KDV'",
+  "sorun": []
+ },
+ "H02-10": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "ÖTV matrahı = CIF + vergiler + yurt içi gider (KDV matrahına girenler) = 100.000+10.000+2.000 = 112.000; ×%30 = 33.600 (K2; ÖTV K. md.11/3)",
+  "sorun": []
+ },
+ "H02-11": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "KDV matrahı = 100.000+10.000+33.600+2.000 = 145.600; ×%20 = 29.120",
+  "sorun": []
+ },
+ "H02-12": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Bandrol matrahı = ÖTV hariç KDV matrahı = 20.000+1.000+2.000+500 = 23.500; ×%8 = 1.880",
+  "sorun": []
+ },
+ "H02-13": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "62 no.lu metin, ÖTV K. md.11/4: '(III) sayılı listenin (B) cetvelindeki mallar için verginin matrahı; bunların nihai tüketicilere perakende satış fiyatıdır'",
+  "sorun": []
+ },
+ "H02-14": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "GVM = 50.000+2.000 = 52.000; GV 4.160; İGV 5.200; KDV matrahı = 52.000+4.160+5.200+1.000 = 62.360; ×%20 = 12.472",
+  "sorun": []
+ },
+ "H02-15": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "61 no.lu metin, KDV K. md.21: (a) GV tarhına esas kıymet, (b) her türlü vergi, resim, harç ve paylar, (c) tescil tarihine KADAR yapılan giderler ve fiyat/kur farkı, (ç) teminata esas ÖTV; tescilden sonraki giderler yer almaz",
+  "sorun": []
+ },
+ "H02-16": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Vadeli akreditifte KKDF %6, ithalat (fatura) tutarı × TCMB döviz ALIŞ kuru: 80.000×%6×32,00 = 153.600 (K1; 88/12944 Karar, 6 sayılı Tebliğ)",
+  "sorun": []
+ },
+ "H02-17": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "K1: 'TRT Bandrol Ücreti — TRT'; GV-Ticaret, EMY-Ticaret, ÖTV-HMB, ÇKP-Çevre ve Şehircilik doğru",
+  "sorun": []
+ },
+ "H02-18": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "62 no.lu metin, Karar md.3: 'DAHİLDE İŞLEME İZİN BELGESİ kapsamında yapılan ithalatta yukarıdaki oranlar %0 olarak uygulanır'; yalnız 2. ithalat: 25.000×%6×30 = 45.000",
+  "sorun": []
+ }
 }

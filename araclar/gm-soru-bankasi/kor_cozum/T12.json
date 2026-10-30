@@ -1,0 +1,122 @@
+{
+ "T12-01": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Bölüm XI Not 1(a): fırça imalinde kullanılan hayvan kılları (05.02) bölüme dahil değil; insan saçından tasir torbaları istisna olarak 59.11'de, elastiki ürünler Not 10, metal takviyeli sicim Not 3(A)(f), elektronik bileşenli giysi Not 15 ile XI'de.",
+  "sorun": []
+ },
+ "T12-02": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Bölüm XI Not 2(A): hiçbir madde üstün değilse geçerli pozisyonlardan numara sırasına göre sonuncusu; taranmış yün mensucatı 51.12, keten mensucatı 53.09 → 53.09.",
+  "sorun": []
+ },
+ "T12-03": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Bölüm XI Not 7(f): iki veya daha fazla aynı kumaş parçasının uç uca birleştirilmesi hazır eşya tanımından hariç; diğerleri Not 7(a),(b),(e),(f).",
+  "sorun": []
+ },
+ "T12-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Not 2(B)(c): 54 ve 55 tek fasıl sayılır (%30+%25=%55 > pamuk %45); sonra filament %30 > devamsız %25 → 54. Fasıl (İzahname örneği: %35 filament+%25 devamsız+%40 yün → 54.07).",
+  "sorun": []
+ },
+ "T12-05": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Bölüm XI Not 5(a): mesnet üzerine sarılmış olup ağırlığı (mesnetle beraber) 1000 gr.ı geçmeyenler; aprelenmiş, Z bükülü.",
+  "sorun": []
+ },
+ "T12-06": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "50.01 İzahnamesi: çekilmeye elverişli olmayan kozalar bu pozisyon haricindedir (50.03 pozisyonu).",
+  "sorun": []
+ },
+ "T12-07": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 51 Not 1(b) ince kıl listesi: vikuna, deve (tek hörgüçlü dahil), Ankara tavşanı, misk faresi; İzahname: kaba kıllar arasında köpek, maymun veya su samuru kılları.",
+  "sorun": []
+ },
+ "T12-08": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Kaşmir keçisi kılı Not 1(b) gereği ince hayvan kılı; taranmış ince hayvan kılından iplik, perakende değil → 51.08 (51.07 taranmış yün, 51.09 perakende).",
+  "sorun": []
+ },
+ "T12-09": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "52.04: Pamuktan dikiş iplikleri (perakende olsun olmasın). Linter Fasıl 14 (Not 1(c)); karde/penye pamuk 52.03; %85'ten az pamuklu mensucat 52.10-52.12; karışımlar Not 2 ile Fasıl 52'de.",
+  "sorun": []
+ },
+ "T12-10": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 52 Alt Poz. Notu 1: 'denim' … çözgü iplikleri tek ve aynı renkte, atkı ağartılmış/ağartılmamış/griye boyanmış veya daha açık tonda, 3'lü veya 4'lü dimili.",
+  "sorun": []
+ },
+ "T12-11": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "53.08 İzahnamesi (B): kağıt iplikleri perakende veya sicim/halat şeklinde olsun olmasın burada, 'fakat örülmüş ip, kordon ve halat bu pozisyon dışında kalır' (56.07); kendir ve kapok iplikleri (A) grubunda.",
+  "sorun": []
+ },
+ "T12-12": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 54 Not 1: viskoz rejenere selülozdan suni liftir; naylon, poliester, poliolefin ve PVA (poli(vinil asetat) hidrolizi) sentetiktir.",
+  "sorun": []
+ },
+ "T12-13": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "55.06: sentetik devamsız lifler, karde/taranmış veya iplik imaline hazırlanmış (55.07 suni muadili).",
+  "sorun": []
+ },
+ "T12-14": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "56.01: dokumaya elverişli maddelerden vatkalar; İzahname: vatkalar dolgu maddesi olarak döşemecilikte kullanılır; eczacılık emdirilmiş/perakende tıbbi olanlar 30.05.",
+  "sorun": []
+ },
+ "T12-15": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 56 Not 3(b): plastik içine tamamen batırılmış veya her iki yüzü çıplak gözle görülebilecek şekilde tamamen kaplanmış dokunmamış mensucat 56.03 dışı (Fasıl 39/40).",
+  "sorun": []
+ },
+ "T12-16": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 57 Not 2: döşeme halılarının altında kullanılan taban örtüleri bu fasla dahil değil; tufte çim 57.03, keçe halı 57.04, gözenekli kauçuk destekli halı ve duvar halısı olarak kullanılan halı Fasıl 57'de.",
+  "sorun": []
+ },
+ "T12-17": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 58 Not 6: pul/payet/boncuk aplikleri, metal veya cam iplikli zemini kaplamayan işlemeler 58.10'dadır; 'Bu pozisyon iğne işi duvar halılarına uygulanmaz (58.05)'.",
+  "sorun": []
+ },
+ "T12-18": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 60 Not 1(a): 58.04'teki tığla yapılmış dantelalar Fasıl 60 dışı; 58.04 dantelalar (top, şerit veya motif halinde).",
+  "sorun": []
+ },
+ "T12-19": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Fasıl 59 Not 7(b)/İzahname: kauçukla emdirilmiş, kaplanmış veya lamine edilmiş mensucattan transmisyon ve taşıyıcı kolanlar 40.10; tiyatro dekoru bezi 59.07, kord bezi 59.02, ciltçi bezi 59.01, fitil 59.08.",
+  "sorun": []
+ },
+ "T12-20": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "60.01: havlı mensucat (uzun tüylü ve havlu cinsi bukleli dahil), örme veya kroşe; dokunmuş havlu cinsi bukleli 58.02.",
+  "sorun": []
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "H05-01": {
+  "cevap": "D",
+  "emin": "yüksek",
+  "dayanak": "Ek-14 I-A: '7 no.lu nüsha: İthalatın tamamlanmasından ve beyannamenin kapatılmasından sonra, sonradan kontrol ve istatistik amacıyla yükümlü tarafından saklanır'",
+  "sorun": []
+ },
+ "H05-02": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "K1 yazı: '46.İstatistik Kıymet' ihracatta FOB (Fatura USD), ithalatta CIF (Fatura + Sigorta + Navlun USD); Ek-14 46 no.lu kutu açıklamaları",
+  "sorun": []
+ },
+ "H05-03": {
+  "cevap": "E",
+  "emin": "yüksek",
+  "dayanak": "K4: '6 | VADELİ AKREDİTİF'; K5: 89 Damga Vergisi, 40 KDV; K11: 0302 EUR.1 (A.TR 0301); ödeme kodu 2 Peşin",
+  "sorun": []
+ },
+ "H05-04": {
+  "cevap": "C",
+  "emin": "yüksek",
+  "dayanak": "Ek-14 54 no.lu kutu: 'sadece kendi adı, soyadı ve karne numarası ile birlikte bu beyannameyi takip eden müşavir yardımcısının adı, soyadı ve karne numarası yazılır'; büro kaşesi basılmaz",
+  "sorun": []
+ },
+ "H05-05": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "K6: '3153 | Geçici ithalat kapsamında ithal edilen eşyanın yeniden ihracatı'",
+  "sorun": []
+ },
+ "H05-06": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "K8: MTK METRE KARE, MTQ METRE KÜP; 052 TÜRKİYE, CHF İsviçre frangı, 3 GEMİ, NCR KARAT doğru",
+  "sorun": [
+   "Kökte kodlar 'Gümrük Yönetmeliği Ek-14 uyarınca' denilerek Ek-14'e bağlanıyor; kod listeleri Ek-14'te değil, Bakanlığın internet sitesinde duyurulan BİLGE kod listelerinde yer alıyor (Ek-14 yalnız bunlara atıf yapıyor). Küçük ifade sorunu."
+  ]
+ },
+ "H05-07": {
+  "cevap": "B",
+  "emin": "yüksek",
+  "dayanak": "Ek-14 D, B Kutusu (Hesap Detayları): 'faturanın FOB olarak düzenlendiği hallerde, eşyanın navlun bedeli ile sigorta bedeli kaydedilir. KDV matrahını oluşturan unsurlar da bu kutuya yazılır ve burası KDV hesaplama tablosu olarak kullanılır'",
+  "sorun": []
+ },
+ "H05-08": {
+  "cevap": "A",
+  "emin": "yüksek",
+  "dayanak": "Ek-14 B (İthalat): 1 no.lu kutu antrepo 'AN' (I doğru); 17 'Türkiye' (II doğru); 38 net ağırlık 'ambalaj ağırlıkları hariç' (III yanlış); 43 'boş bırakılır' (IV doğru); 33 birinci alt-bölüm ilk SEKİZ rakam (V yanlış)",
+  "sorun": []
+ }
+}
