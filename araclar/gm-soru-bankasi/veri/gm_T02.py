@@ -13,7 +13,7 @@ Q = [
         madde="GYK 1 ve Açıklama Notu",
         cek="GYK 1: bölüm, fasıl ve tali fasıl başlıkları sadece gösterici niteliktedir; yasal sınıflandırma pozisyon metinleri ve bölüm/fasıl notlarına göre yapılır.",
         kok=[
-            'Türk Gümrük Tarife Cetvelindeki Genel Yorum Kurallarından 1 numaralı kurala göre "Bölüm, fasıl ve tali fasıl başlıkları sadece …… niteliktedir; yasal amaçlar için eşyanın tarifedeki yerinin saptanması, pozisyon metinlerine, bölüm veya fasıl notlarına göre … yapılır."',
+            'Türk Gümrük Tarife Cetvelindeki Genel Yorum Kurallarından 1 numaralı kurala göre "Bölüm, fasıl ve tali fasıl başlıkları sadece …… niteliktedir; yasal amaçlar için eşyanın tarifedeki yerinin saptanması, pozisyon metinlerine, bölüm veya fasıl notlarına göre […] yapılır."',
             "Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
         ],
         d="gösterici",
